@@ -1,0 +1,43 @@
+# Every upstream source this corpus consumes. Human-approved via PR BEFORE
+# any ingestion (review gate #1).
+#
+# This corpus's only "source" so far is the OData service's own metadata
+# document — it describes all 20 entity sets' schemas at once, so ONE entry
+# here covers every entity doc in entities/ (today: Measures,
+# MeasureHistoryActions, LegislativeSessions).
+#
+# IMPORTANT LIMITATION, read before relying on `sha256` here for drift
+# detection: `corpus-detect-changes` (corpus_toolkit/sources/changes.py) diffs
+# via `content_hash()`, which for format: xml runs the document through
+# html_to_text() (tag-stripping meant for HTML/XML with real text content
+# between tags). This EDMX/CSDL document carries all of its information in
+# ELEMENT ATTRIBUTES (`Type="Edm.String"`, `Nullable="false"`, ...) with
+# essentially no inter-tag text, so the stripped text falls under the
+# extractor's 200-character floor and it falls back to a RAW-BYTE hash
+# (confirmed by running content_hash() locally against the fetched document:
+# both paths produced the identical digest below). A raw-byte hash trips on
+# ANY byte-level change to $metadata — reordering, whitespace, or an
+# unrelated entity's schema changing — not specifically on a change to the
+# three entities this corpus documents. It is a real, if coarse, "go look"
+# signal; it is NOT the precise per-entity `live_schema_hash` comparison each
+# entity doc records its own method for (see entities/*.md "Verification").
+# Building that precise per-entity job is step 8, tracked in
+# PHASE5-MCP-SPEC.md §7 guardrail 5 and §9 step 8 — not implemented by
+# registering this entry.
+sources:
+  - id: odata-metadata
+    citation: "Oregon Legislature OData API — $metadata (CSDL/EDMX schema document)"
+    title: "Oregon Legislature OData service metadata"
+    url: "https://api.oregonlegislature.gov/odata/odataservice.svc/$metadata"
+    doc_type: entity_doc
+    format: xml
+    recheck: weekly
+    sha256: "cce459250b2cb0b03e3696fe1bf323be171c9fede73ba0c81bb4202fb3281826"
+    why_relevant: >
+      Authoritative field/type/key/relationship source for every entity doc in
+      entities/. Fetched 2026-07-26 (see each entity doc's "Verification"
+      section for the exact per-entity extraction from this same document).
+      Note: requesting this URL with `Accept: application/json` returns HTTP
+      415 — it is XML-only. Any re-fetch (including this manifest's own
+      recheck job) must not send that header.
+    references_out: []

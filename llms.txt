@@ -1,0 +1,36 @@
+# Oregon Legislature — Measures, History, and Sessions (OData)
+
+> Non-authoritative, AI-friendly description of the Oregon Legislature's
+> public OData API (bills/measures, procedural history, session calendar).
+> This corpus does NOT mirror live legislative records — it documents the
+> API's shape. Always fetch the live source linked in each entity doc for a
+> current answer.
+
+## Start here
+
+- [AGENTS.md](AGENTS.md): rules for AI agents working in this corpus,
+  including what this corpus is NOT (read before assuming "search" reaches
+  live bill data — it does not, yet)
+- [STATUS.md](STATUS.md): freshness, coverage, and drift at a glance
+
+## Contents
+
+- [entities/measures.md](entities/measures.md): the `Measures` entity — one
+  row per bill/resolution per session; 25 fields; composite key
+  `(SessionKey, MeasurePrefix, MeasureNumber)`.
+- [entities/measure-history-actions.md](entities/measure-history-actions.md):
+  the `MeasureHistoryActions` entity — procedural actions on a measure
+  ("First reading", "Referred to Judiciary", ...); 11 fields; key
+  `MeasureHistoryId`.
+- [entities/legislative-sessions.md](entities/legislative-sessions.md): the
+  `LegislativeSessions` entity — the session calendar every measure is
+  scoped under; 7 fields; key `SessionKey`.
+- [cookbook/README.md](cookbook/README.md): placeholder — no cookbook
+  entries exist yet (see that file for why).
+
+## What is NOT here yet
+
+No live-record retrieval (`src/odata_backend.py`), no citation parsing for
+measure ids like "HB 2049" (`src/citations.py`), no `query_dataset` /
+`measure_history` tools, no cross-corpus ORS links, no cookbook entries, no
+schema-drift automation. See README.md "Current build status".
