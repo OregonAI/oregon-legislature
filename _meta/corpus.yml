@@ -58,9 +58,11 @@ plugins:
   # citation_module: "src.citations"                  # step 5 (R6): register_scheme
   #   for "HB 2049" / "SB 12" / measure ids, with ask-or-default session inference.
   #   Not written — step 3 is documentation only, no Python.
-  # retrieval_module: "src.odata_backend:ODataBackend"  # step 4: the RetrievalBackend
-  #   implementation over the live OData feed. Absent today; get_document("measure:*")
-  #   has nowhere to route yet, by design (see get_document note above).
+  # Live half of the hybrid. HybridBackend SUBCLASSES FileBackend: search stays
+  # file-backed over the mirror, because OData offers only substringof() with no
+  # relevance ranking (spec §1.1). The live feed enriches get_document with an
+  # envelope-stamped `live_status` block; it does not perform retrieval.
+  retrieval_module: "src.odata_backend:HybridBackend"
   extra_schema_checks: []
 
 disclaimer_marker: "NON-AUTHORITATIVE"
