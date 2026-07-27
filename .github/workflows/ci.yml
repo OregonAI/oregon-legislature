@@ -49,3 +49,21 @@ jobs:
       # placeholder URL is not meant to resolve.
       exclude-paths: |
         _meta/templates
+        measures
+      # measures/ is EXCLUDED, for two reasons.
+      #
+      # 1. Verbatim legislative text collides with markdown. Oregon marks deleted
+      #    language with square brackets, so extracted bill text contains things like
+      #    "[(4)](5)(a) The department may not place..." — which markdown reads as a
+      #    link to a file named "5". Five documents hit this today and every future
+      #    session will add more. The text CANNOT be escaped: content_mode is verbatim
+      #    and verify-provenance checks the full-text section against the snapshot, so
+      #    escaping "[" would break a real guarantee to satisfy a cosmetic one.
+      #
+      # 2. It re-checked the same two hosts 3,758 times per push — 24 minutes of CI to
+      #    validate a handful of distinct URLs. Those source URLs are already covered by
+      #    something stronger: verify-provenance hashes the bytes actually fetched from
+      #    them, which a 200 response does not prove.
+      #
+      # Authored prose (README, AGENTS, entities/, cookbook/) is still fully checked —
+      # that is where a broken link is a human error rather than an artifact of mirroring.
