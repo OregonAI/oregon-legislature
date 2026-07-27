@@ -1,0 +1,179 @@
+2025R1:
+  measures:
+    measure-2025r1-hb2001:
+      path: measures/2025R1/measure-2025r1-hb2001.md
+      status: bill_text
+      bill_text_version: Introduced
+      bill_text_chars: 1437
+      candidate_ors_bill_text: 1
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2002:
+      path: measures/2025R1/measure-2025r1-hb2002.md
+      status: bill_text
+      bill_text_version: Introduced
+      bill_text_chars: 1500
+      candidate_ors_bill_text: 1
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2003:
+      path: measures/2025R1/measure-2025r1-hb2003.md
+      status: bill_text
+      bill_text_version: Introduced
+      bill_text_chars: 1427
+      candidate_ors_bill_text: 1
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2004:
+      path: measures/2025R1/measure-2025r1-hb2004.md
+      status: bill_text
+      bill_text_version: Introduced
+      bill_text_chars: 1514
+      candidate_ors_bill_text: 1
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2005:
+      path: measures/2025R1/measure-2025r1-hb2005.md
+      status: bill_text
+      bill_text_version: Enrolled
+      bill_text_chars: 264015
+      candidate_ors_bill_text: 134
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2006:
+      path: measures/2025R1/measure-2025r1-hb2006.md
+      status: bill_text
+      bill_text_version: Introduced
+      bill_text_chars: 8417
+      candidate_ors_bill_text: 5
+      candidate_ors_relating_to_full: 1
+    measure-2025r1-hb2007:
+      path: measures/2025R1/measure-2025r1-hb2007.md
+      status: bill_text
+      bill_text_version: Enrolled
+      bill_text_chars: 14519
+      candidate_ors_bill_text: 8
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2008:
+      path: measures/2025R1/measure-2025r1-hb2008.md
+      status: bill_text
+      bill_text_version: Enrolled
+      bill_text_chars: 9974
+      candidate_ors_bill_text: 6
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2009:
+      path: measures/2025R1/measure-2025r1-hb2009.md
+      status: bill_text
+      bill_text_version: Introduced
+      bill_text_chars: 1494
+      candidate_ors_bill_text: 1
+      candidate_ors_relating_to_full: 19
+    measure-2025r1-hb2010:
+      path: measures/2025R1/measure-2025r1-hb2010.md
+      status: bill_text
+      bill_text_version: Enrolled
+      bill_text_chars: 85115
+      candidate_ors_bill_text: 103
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2011:
+      path: measures/2025R1/measure-2025r1-hb2011.md
+      status: bill_text
+      bill_text_version: Introduced
+      bill_text_chars: 14221
+      candidate_ors_bill_text: 71
+      candidate_ors_relating_to_full: 1
+    measure-2025r1-hb2012:
+      path: measures/2025R1/measure-2025r1-hb2012.md
+      status: bill_text
+      bill_text_version: Introduced
+      bill_text_chars: 5154
+      candidate_ors_bill_text: 6
+      candidate_ors_relating_to_full: 1
+    measure-2025r1-hb2013:
+      path: measures/2025R1/measure-2025r1-hb2013.md
+      status: bill_text
+      bill_text_version: Enrolled
+      bill_text_chars: 23726
+      candidate_ors_bill_text: 15
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2014:
+      path: measures/2025R1/measure-2025r1-hb2014.md
+      status: bill_text
+      bill_text_version: Introduced
+      bill_text_chars: 1514
+      candidate_ors_bill_text: 1
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2015:
+      path: measures/2025R1/measure-2025r1-hb2015.md
+      status: bill_text
+      bill_text_version: Enrolled
+      bill_text_chars: 9539
+      candidate_ors_bill_text: 4
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2016:
+      path: measures/2025R1/measure-2025r1-hb2016.md
+      status: bill_text
+      bill_text_version: Enrolled
+      bill_text_chars: 3007
+      candidate_ors_bill_text: 2
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2017:
+      path: measures/2025R1/measure-2025r1-hb2017.md
+      status: bill_text
+      bill_text_version: Introduced
+      bill_text_chars: 1565
+      candidate_ors_bill_text: 1
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2018:
+      path: measures/2025R1/measure-2025r1-hb2018.md
+      status: bill_text
+      bill_text_version: Introduced
+      bill_text_chars: 8002
+      candidate_ors_bill_text: 0
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2019:
+      path: measures/2025R1/measure-2025r1-hb2019.md
+      status: bill_text
+      bill_text_version: Enrolled
+      bill_text_chars: 3171
+      candidate_ors_bill_text: 0
+      candidate_ors_relating_to_full: 0
+    measure-2025r1-hb2020:
+      path: measures/2025R1/measure-2025r1-hb2020.md
+      status: bill_text
+      bill_text_version: Introduced
+      bill_text_chars: 8261
+      candidate_ors_bill_text: 3
+      candidate_ors_relating_to_full: 2
+  session_name: 2025 Regular Session
+  metadata_snapshot: measures-2025r1
+  metadata_sha256: e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802
+  measures_total_odata_count: 3466
+  measure_documents_total_odata_count: 6178
+  measures_processed_this_run: 20
+  last_run: '2026-07-26'
+2024R1:
+  measures:
+    measure-2024r1-hb4001:
+      path: measures/2024R1/measure-2024r1-hb4001.md
+      status: bill_text
+      bill_text_version: Enrolled
+      bill_text_chars: 5542
+      candidate_ors_bill_text: 2
+      candidate_ors_relating_to_full: 0
+    measure-2024r1-hb4002:
+      path: measures/2024R1/measure-2024r1-hb4002.md
+      status: bill_text
+      bill_text_version: Enrolled
+      bill_text_chars: 253273
+      candidate_ors_bill_text: 309
+      candidate_ors_relating_to_full: 0
+    measure-2024r1-hb4003:
+      path: measures/2024R1/measure-2024r1-hb4003.md
+      status: bill_text
+      bill_text_version: Enrolled
+      bill_text_chars: 4272
+      candidate_ors_bill_text: 1
+      candidate_ors_relating_to_full: 0
+  session_name: 2024 Regular Session
+  metadata_snapshot: measures-2024r1
+  metadata_sha256: 1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5
+  measures_total_odata_count: 291
+  measure_documents_total_odata_count: 808
+  measures_processed_this_run: 3
+  last_run: '2026-07-26'

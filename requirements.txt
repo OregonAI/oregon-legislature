@@ -1,0 +1,6 @@
+# src/ingest_measures.py (PHASE5-MCP-SPEC.md step 4) and the corpus_toolkit
+# CLIs (corpus-validate-frontmatter, corpus-verify-provenance, ...).
+pyyaml
+jsonschema
+pypdf
+corpus-toolkit @ git+https://github.com/OregonAI/corpus-toolkit@v1.2.0

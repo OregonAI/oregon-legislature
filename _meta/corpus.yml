@@ -37,6 +37,14 @@ corpus:
 content_roots:
   - path: "entities"
     doc_type: "entity_doc"
+  # measures/<session>/*.md — step 4 (PHASE5-MCP-SPEC.md §5.3): one mirrored
+  # record per Measure, doc_type "dataset_doc" per corpus_toolkit's own
+  # archetype note ("dataset_doc... one per dataset" — read here as one file
+  # per record of the Measures dataset, the closest fit in the current enum;
+  # no doc_type exists yet for "one bill/resolution record" specifically).
+  # Written by src/ingest_measures.py; nothing under this root is hand-authored.
+  - path: "measures"
+    doc_type: "dataset_doc"
   # - path: "cookbook"
   #   doc_type: "???"        # step 8 decision — see cookbook/README.md
 

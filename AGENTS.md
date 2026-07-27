@@ -14,19 +14,43 @@ served from anything cached without that timestamp attached.
 
 ## What this corpus is NOT (read this before adding anything)
 
-This is not a document-mirror corpus. It holds two kinds of thing, on purpose
-kept structurally distinct — see README.md's table and PHASE5-MCP-SPEC.md
-§5.1:
+**Superseded 2026-07-26 — read this note before the numbered list below.**
+PHASE5-MCP-SPEC.md was rewritten the same day this file was first written
+(see its own §1.1): the seed-spec pure-proxy design this section originally
+described turned out unable to answer "what bills are about X" (substring
+search misses 69% of a real query and produces false positives on others —
+see §1.1's nurse/nursery example). The spec now mandates a **hybrid**
+archetype that DOES mirror measure metadata and bill text. Point 2 below
+(as first written) said "do not create `measures/2025R1-HB2049.md`... that is
+precisely the mirrored-records shape the seed spec rejects" — that is no
+longer this corpus's design. `src/ingest_measures.py` (step 4) now writes
+exactly that shape, deliberately, under `measures/<session>/`. What
+survives from the two points below: entity docs are still hand-authored
+API-shape documentation, never generated; and nothing under `measures/`
+is hand-authored either — every file there is machine-written by
+`src/ingest_measures.py`, never edited by hand. Re-running the script is
+how a `measures/*.md` file changes, not a manual edit.
+
+This corpus holds three kinds of thing, kept structurally distinct — see
+README.md's table and PHASE5-MCP-SPEC.md §5.1:
 
 1. **Entity docs** (`entities/*.md`) and, later, **cookbook entries**
-   (`cookbook/*.md`) — ordinary files in this repo, describing the API.
-   `search_corpus`/`get_document` serve these through the unmodified
-   FileBackend, exactly like a document-archetype corpus.
-2. **Live records** — an actual measure, vote, or session. These are never
-   ingested as files here. Fetched live, per call, once a retrieval backend
-   exists (step 4). Do not create `measures/2025R1-HB2049.md` or anything
-   resembling a per-record snapshot: that is precisely the "mirrored records"
-   shape the seed spec rejects for this corpus.
+   (`cookbook/*.md`) — ordinary, hand-authored files in this repo, describing
+   the API's shape. `search_corpus`/`get_document` serve these through the
+   unmodified FileBackend, exactly like a document-archetype corpus.
+2. **Mirrored measures** (`measures/<session>/*.md`) — one file per
+   `Measure` record (CatchLine/MeasureSummary/RelatingTo(Full)/identity) plus,
+   where an Introduced or Enrolled `MeasureDocument` PDF exists, its extracted
+   bill text under `## Full text`. Written and re-written ONLY by
+   `src/ingest_measures.py <session> [<session> ...]` — never hand-edited.
+   `doc_type: dataset_doc`; frontmatter's `retrieved`/`source_sha256`/
+   `snapshot_id` describe whichever single source (a bill-text PDF, or the
+   session's shared metadata JSON snapshot when no bill text was captured)
+   backs that file's own provenance chain — see the script's module
+   docstring and `build_frontmatter`'s comments for exactly which.
+3. **Live records** — a measure's CURRENT status, history, or votes. Never
+   mirrored (guardrail #6 below) — fetched live, per call, once a retrieval
+   backend exists (step 5, not built yet).
 
 **id namespace note.** PHASE5-MCP-SPEC.md §5.1 illustrates MCP-facing ids as
 `entity:measures` and `measure:2025R1/HB2049`. Those colon-containing forms
@@ -100,16 +124,40 @@ of — the schema-drift job the workflow's own header describes (per-entity
 exist in code yet. That is real step 8 work, in the toolkit, not this repo's
 Python (which this build deliberately does not touch — see below).
 
-## Step-3 scope note
+**Update, step 4 (2026-07-26):** this gap is entity-doc-specific and does NOT
+affect `measures/*.md` — those carry a real `snapshot_policy` (unset, i.e.
+always-commit), a real `content_mode` (`verbatim` when bill text was
+captured, `summary` otherwise), and a real committed snapshot
+(`_meta/snapshots/<snapshot_id>.pdf`+`.txt`, or the shared per-session
+`measures-<session>.json`). `corpus-verify-provenance` runs a genuine,
+non-trivial check against them today (mechanical full-text-in-order
+verification against the snapshot, coverage ratio) — confirmed manually
+against the 20-measure proof run (20/20 full-text sections verified,
+coverage 96–100%). It is not yet wired into `ci.yml` (still commented out
+there, entity-doc-scoped reasoning only) — enabling it now would exercise
+real checks for `measures/` while remaining a no-op for `entities/`, but that
+edit to `ci.yml` was left to the operator rather than made by this build.
 
-This build (step 3 of PHASE5-MCP-SPEC.md §9) is documentation-only: the repo
-skeleton and the three entity docs, so that `search_corpus`/`get_document`
-find them through the unmodified FileBackend machinery — no new code. No
-`src/odata_backend.py`, no `src/citations.py`, no cookbook entries. Do not
-add Python to this repo to "finish the job early" — later steps depend on
-toolkit changes (the `RetrievalBackend` protocol, response envelope) that are
-tracked separately in `corpus_toolkit`, and building ahead of them risks
-disagreeing with what that toolkit work actually ships.
+## Step-3/step-4 scope note
+
+Step 3 (PHASE5-MCP-SPEC.md §9) was documentation-only: the repo skeleton and
+the three entity docs. **Step 4 (2026-07-26) added `src/ingest_measures.py`**
+— the mirror pipeline for `measures/<session>/*.md` — per the spec rewrite
+(§1.1). This is the only Python this repo has; it was proven end-to-end with
+`--limit 20` against 2025R1 (frontmatter validated, provenance mechanically
+verified, pagination proven against `odata.count`, re-run confirmed to
+download nothing new) but **a full-session run was deliberately NOT
+executed** — §7's politeness guardrail estimates ~1.7h at the mandated
+concurrency-4 cap, and running it is explicitly left to a human operator,
+not automated by this build.
+
+Still not built: `src/odata_backend.py` (step 5, the live proxy half —
+`measure_status`/`measure_votes`/`scheduled_for`), `src/citations.py` (step 6,
+"HB 2049" parsing with session inference), cross-corpus ORS resolution
+(step 8), schema-drift CI + real cookbook entries (step 9). Building those
+ahead of the toolkit changes they may depend on risks disagreeing with what
+that work actually ships — don't get ahead of the build order in §9/§10 of
+PHASE5-MCP-SPEC.md.
 
 ## Workflow
 
