@@ -1,0 +1,426 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 476
+Sponsored by Senator JAMA (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says licensing  boards have to train their staff and that the OMB cannot set a
+time limit for someone to complete  the USMLE. The Act also tells DHS to make a grant program
+to help people who went to school out of  state get jobs in this state. (Flesch Readability Score: 78.2).
+Requires professional licensing boards to provide culturally responsive  training to specified staff
+members and publish guidance  on pathways to professional authorization for internationally edu-
+cated individuals.
+Prohibits the Oregon Medical Board from imposing a time limitation on  the completion of the
+United States Medical Licensing Examination. Allows the board to issue a limited license to practice
+medicine to specified individuals for practice under the supervision of another licensed physician.
+Establishes the Internationally Educated Workforce Reentry  Grant Program within the Depart-
+ment of Human Services to award grants to specified  entities that provide eligible career guidance
+and support services to internationally educated residents of Oregon who are seeking to  enter the
+Oregon workforce in certain professions.
+Declares an emergency, effective July 1, 2025.
+A BILL FOR AN ACT
+Relating to  professional workforce; creating new provisions; amending ORS 677.132; and declaring
+an emergency.
+Be It Enacted by the People of the State of Oregon:
+PROFESSIONAL LICENSING BOARDS
+SECTION 1.
+(1) As used in this section:
+(a) “Occupational or professional service” means a service:
+(A) That an individual must possess a  license, certificate or other form of authorization
+to provide under the laws of this state; and
+(B) Over which a professional licensing board has regulatory oversight.
+(b) “Professional  licensing board” means a state agency or board that licenses, certifies
+or otherwise authorizes individuals to provide an occupational or professional service.
+(2) A professional licensing board shall:
+(a) Ensure that any staff of  the professional licensing board who interact with interna-
+tionally educated individuals through the licensure, certification or  other authorization pro-
+cess receive culturally responsive training approved by the Office of Immigrant and  Refugee
+Advancement.
+(b) Develop and publish on a website operated by or on behalf of the professional licensing
+board clear and easily understandable guidance regarding pathways to licensure, certification
+or other authorization issued by the professional licensing board for internationally educated
+individuals. The guidance developed under this paragraph must include information on eligi-
+bility requirements, processes, costs and timelines for licensure, certification or other au-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3398
+SB 476
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+thorization.
+(3) A professional licensing board may adopt rules to carry out the provisions of  this
+section.
+SECTION 2.
+A professional licensing board shall  publish the guidance described in section
+1 of this 2025 Act not later than July 1, 2026.
+SECTION 3. (1) Section 1 of this 2025 Act becomes operative on January 1, 2026.
+(2) A professional licensing board may take any action before the operative date  specified
+in subsection  (1) of this section that is necessary to enable the professional licensing board
+to exercise, on and after the operative date specified in subsection (1) of this section, all of
+the duties, functions and powers conferred on the professional licensing board  by section 1
+of this 2025 Act.
+SECTION 4.
+Section 5 of this 2025 Act is added to and made a part of ORS chapter 677.
+SECTION 5. The Oregon Medical Board may not  impose a limitation on the amount of
+time in which an applicant for a license to  practice medicine must complete all steps of the
+United States Medical Licensing Examination.
+SECTION 6. Section 5 of this 2025 Act applies to  applications received by the Oregon
+Medical Board on or after the operative date specified in section 8 of this 2025 Act.
+SECTION 7.  ORS 677.132 is amended to read:
+677.132. (1)(a) When a need exists, the Oregon Medical Board  may issue a limited license for a
+specified period to an applicant who possesses the qualifications prescribed by the rules of the
+board.
+(b) The board shall supervise the activities of  the holder of a limited license and impose re-
+strictions as the board finds necessary.
+(c) Each person holding  a limited license under this subsection must obtain an unlimited license
+at the earliest time possible. The board shall refuse to renew a limited license issued under this
+subsection at the end  of a period specified by rule if the board determines that the holder of the
+limited license is not pursuing diligently an attempt to become qualified for an unlimited license.
+(d) The board by rule shall prescribe the types of  and limitations upon licenses issued under this
+subsection.
+(2)(a) The board may issue a  limited license to practice medicine in this state to a physician
+who is licensed to practice medicine in another state or country and who:
+(A) Holds a degree of Doctor of Medicine, Doctor of Osteopathic Medicine or its equivalent;
+(B) Is appointed as a full-time professor of medicine at a school of medicine in this state;
+(C) Is in good standing with the state or country from which the physician holds  a license to
+practice  medicine;
+(D) Meets any requirements established by rule of the board;
+(E) Pays the license fee established by rule of the board;
+(F) Submits to the board  letters that attest to the applicant’s distinguished status and that are
+written by:
+(i) The dean of the school of medicine where the applicant is a full-time professor of medicine;
+(ii) The department  chairpersons at the school of medicine who are directly involved in the
+applicant’s faculty assignments; and
+(iii) At least five of the applicant’s academic  colleagues who work outside of this state and who
+are nationally or internationally  recognized experts in the specialty area in which the applicant
+practices or are current or former deans of schools of medicine;
+[2]
+SB 476
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(G) Maintains active membership  in at least two medical specialty societies that restrict mem-
+bership based on academic or area-of-practice criteria; and
+(H) Has published at least two medical papers in peer-reviewed journals.
+(b) The board may establish by rule other criteria or qualifications that a  physician applying for
+the limited license described in this subsection must meet.
+(c) A physician who is issued  the limited license described in this subsection may practice
+medicine only in conjunction with a full-time appointment as  a professor of medicine. A limited li-
+cense is valid only so long as the physician maintains the full-time appointment.
+(3)(a) The board may issue a limited license to practice medicine to an applicant who:
+(A) Has passed Steps 1 and 2 of the United States Medical Licensing Examination;
+(B) Is certified by the Educational Commission for Foreign Medical Graduates,  or its
+successor organization, or by another credential evaluation service, that is approved by the
+board by rule; and
+(C) Submits to the board the applicant’s fingerprints for purposes of a state or nation-
+wide criminal records check under ORS 181A.195.
+(b) An individual licensed under this subsection may practice medicine under the super-
+vision of a physician who holds an  unlimited license to practice medicine in this state and
+who practices in the same or substantially similar clinical  specialty. The individual and the
+supervising physician shall submit to the board a practice agreement that meets the  re-
+quirements established by the board by rule.
+(c) The  board may establish a limit on the number of individuals licensed under this
+subsection that a physician described in paragraph (b) of this subsection may supervise.
+(d) A license issued under this section may be renewed.
+[(3)] (4) A person licensed under this section is subject to all the provisions  of this chapter and
+to all the rules of the board and has the same  duties and responsibilities and is subject to the same
+penalties and sanctions as any other person licensed under this chapter.
+[(4)] (5) The board may not issue  more than eight licenses under subsection (2) of this section
+in a four-year period. The board shall ensure by rule the availability of at least two licenses  in each
+year in a four-year period.
+SECTION 8.
+(1) Section 5 of this  2025 Act and the amendments to ORS 677.132 by section
+7 of this 2025 Act become operative on January 1, 2026.
+(2) The Oregon Medical Board may take any action before the  operative date specified in
+subsection (1) of this section that is necessary to enable the board  to exercise, on and after
+the operative date specified in subsection (1) of this section, all of  the duties, functions and
+powers conferred on the board by section 5 of this 2025 Act and  the amendments to ORS
+677.132 by section 7 of this 2025 Act.
+INTERNATIONALLY EDUCATED WORKFORCE REENTRY GRANT PROGRAM
+SECTION 9. (1) The Internationally Educated Workforce Reentry Grant Program is  es-
+tablished within the Department of Human Services.
+(2) Under the program, the department shall award grants to not-for-profit organizations,
+post-secondary institutions of education  and employers who provide eligible career guidance
+and support services to  internationally educated residents of Oregon who are seeking to en-
+ter the Oregon workforce in an eligible profession.  In determining grant amounts under this
+[3]
+SB 476
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+subsection, the department, in consultation with  the Office of Immigrant and Refugee Ad-
+vancement, shall develop a formula that  uses factors including, but not limited to, the ge-
+ographic distribution of internationally educated individuals  and the regional availability of
+resources and services for internationally educated individuals.
+(3) In administering the program, the department shall:
+(a) Collaborate with the office  to establish requirements for contracting and reporting
+by grant recipients under subsection (2) of this section;
+(b) Use the program to assist in  coordinating the planning, development and implemen-
+tation of a comprehensive  system for integrating individuals who are internationally edu-
+cated in eligible professions;
+(c) Partner with community organizations  that work with internationally educated pop-
+ulations to develop and maintain a voluntary roster  of internationally educated populations
+entering the Oregon workforce; and
+(d) Make publicly available summary reports that show the aggregate  number and dis-
+tribution, by geography and specialty, of the internationally educated population in Oregon.
+(4) The department, in consultation with the office, may adopt  rules necessary to imple-
+ment this section.
+(5) As used in this section:
+(a) “Eligible career guidance and support services” means:
+(A) Educational and career navigation services, including but not limited  to information
+on training and licensing requirements for an eligible profession;
+(B) Guidance on determining best career pathways, based on individual  skills, experience,
+resources and interests;
+(C) Support in becoming proficient in eligible industry-specific English;
+(D) Support in becoming proficient in the use of information technology, including but
+not limited to computer skills and the use of electronic technology;
+(E) Support for increasing knowledge of and familiarity with health  care and educational
+systems;
+(F) Support for trauma-informed care;
+(G) Support for clinical preparation;
+(H) Culturally responsive training;
+(I) Support for job placement; and
+(J) Financial support for internationally educated residents.
+(b) “Eligible profession” means:
+(A) Certified nursing assistant, licensed practical nurse or registered nurse;
+(B) Physician;
+(C) Pharmacist;
+(D) Behavioral health and mental health worker; and
+(E) Nurse, school counselor or teacher at a school.
+(c) “Financial support” means:
+(A) Tuition, fees and other costs incurred in relation to training, licensing  or creden-
+tialing;
+(B) Living wages during the training, licensing or credentialing process;
+(C) Costs associated with exam preparation, including but not limited to  review courses
+and study and exam materials; and
+[4]
+SB 476
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+(D) Application fees.
+SECTION 10.
+No later than June 30,  2026, the Department of Human Services shall begin
+to award grants  under the Internationally Educated Workforce Reentry Grant Program es-
+tablished under section 9 of this 2025 Act.
+SECTION 11. Section 10 of this 2025 Act is repealed on January 2, 2027.
+SECTION 12. No later than September 1, 2028, the Department of Human Services  shall
+prepare and submit a report in the  manner provided in ORS 192.245 on the implementation
+and success of  the Internationally Educated Workforce Reentry Grant Program established
+in section 9 of this 2025 Act, which may include recommendations for legislation, to the  in-
+terim committees of  the Legislative Assembly related to labor and business. The report
+submitted under this section must include information regarding:
+(1) The total number of internationally educated professionals who were served by the
+program;
+(2) The  specific types of direct services provided to professionals, including but not lim-
+ited to the costs of providing the services and the number of professionals who received  the
+services;
+(3) The total amount of financial assistance provided to professionals;
+(4) The types of financial assistance that were provided to professionals; and
+(5) Any  identified barriers that prevent internationally educated professionals from par-
+ticipating in the Oregon workforce.
+SECTION 13.
+Section 12 of this 2025 Act is repealed on January 2, 2029.
+SECTION 14. In addition to  and not in lieu of any other appropriation, there is appro-
+priated to the Department of Human Services,  for the biennium beginning July 1, 2025, out
+of the General Fund, the amount of $10,000,000 for the purpose of operating  the Interna-
+tionally Educated  Workforce Reentry Grant Program established in section 9 of this 2025
+Act.
+CAPTIONS
+SECTION 15. The unit captions used in this 2025 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+EFFECTIVE DATE
+SECTION 16. This 2025 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+July 1, 2025.
+[5]

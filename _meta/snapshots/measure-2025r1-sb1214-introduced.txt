@@ -1,0 +1,108 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1214
+Sponsored by Senators SMITH  DB, ANDERSON, Representative RESCHKE; Senator LINTHICUM, Representatives
+BOICE, MCINTIRE, OSBORNE, WRIGHT
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells OHA and CCOs to increase the rates at which certain rural hospitals  are
+reimbursed. (Flesch Readability Score: 70.1).
+Directs the Oregon Health Authority and coordinated care organizations to reimburse certain
+rural hospitals at rates no less than 150 percent of the rates paid as of the effective  date of the Act.
+Declares an emergency, effective July 1, 2025.
+A BILL FOR AN ACT
+Relating to Medicaid reimbursement rates for rural hospitals; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Level III trauma hospital” means a trauma  system hospital that provides resusci-
+tation, stabilization and assessment  of a severely injured patient and either provides treat-
+ment or transfers the patient to a higher level trauma system hospital.
+(b) “Medical assistance” has the meaning given that term in ORS 414.025.
+(c) “Trauma system hospital” means a hospital designated by the Oregon Health  Au-
+thority to receive and provide services to trauma patients.
+(2) The Oregon Health Authority shall provide reimbursement in the state medical as-
+sistance program for inpatient and  outpatient hospital services provided by a hospital that
+meets the criteria under subsection (3) of this section at a rate that  is no less than 150
+percent of the reimbursement rates paid to the hospital as  of the effective date of this 2025
+Act.
+(3) A hospital is eligible for the reimbursement  rates described in subsection (2) of this
+section if the hospital:
+(a) Receives Medicare reimbursement on the basis of diagnostic related groups;
+(b) As of January 1, 2025, was classified by the  Centers for Medicare and Medicaid Ser-
+vices as a rural referral center in accordance with 42 U.S.C. 1395ww(d)(5)(C)(i);
+(c) As of January 1, 2025,  was classified by the Centers for Medicare and Medicaid Ser-
+vices as a sole community hospital in accordance with 42 U.S.C. 1395ww(d)(5)(D)(iii);
+(d) As of January 1, 2025, was designated by the authority as a Level III trauma  hospital;
+(e) As of January 1, 2025, had fewer than 200 acute care licensed beds;
+(f) Maintains a cardiac catheterization laboratory that is equipped, staffed and capable
+of providing routine primary percutaneous coronary interventions; and
+(g)(A) Operates as  a nonprofit organization described in section 501(c)(3) of the Internal
+Revenue Code that is exempt from income tax under section 501(a)  of the Internal Revenue
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4948
+SB 1214
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Code; or
+(B) Is owned and operated by the state or a political subdivision of the state.
+(4) Notwithstanding ORS 414.743,  a coordinated care organization shall reimburse a hos-
+pital that  meets the criteria under subsection (3) of this section at the rates described in
+subsection (2) of this section.
+(5) At any time that the authority increases the  reimbursement rates that are paid to
+hospitals that do not meet the criteria under subsection (3) of  this section, the authority and
+a coordinated care organization shall increase the rates described in  subsection (2) of this
+section by an equivalent percentage.
+SECTION 2.
+Section 1  of this 2025 Act applies to contracts between a coordinated care
+organization and the Oregon Health Authority entered  into, amended or renewed on or after
+the effective date of this 2025 Act.
+SECTION 3. This 2025 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+July 1, 2025.
+[2]

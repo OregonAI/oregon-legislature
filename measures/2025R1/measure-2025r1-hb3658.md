@@ -1,0 +1,957 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3658
+title: 'HB 3658 (2025R1): Modifies provisions regarding the appointment of counsel for parents or children
+  in juvenile dependency proceedings and contested adoption proceedings.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3658
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3658/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 8041221198a65cfee3540d3030ca876e6dcc8861b6a14fa3cff5bbf6cec1c3e8
+snapshot_id: measure-2025r1-hb3658-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 109.065
+  - ORS 109.070
+  - ORS 109.266
+  - ORS 109.276
+  - ORS 109.285
+  - ORS 109.301
+  - ORS 109.302
+  - ORS 109.322
+  - ORS 109.323
+  - ORS 109.324
+  - ORS 109.325
+  - ORS 109.326
+  - ORS 109.330
+  - ORS 109.350
+  - ORS 135.050
+  - ORS 135.055
+  - ORS 151.216
+  - ORS 151.219
+  - ORS 18.005
+  - ORS 25.011
+  - ORS 418.205
+  - ORS 419B.005
+  - ORS 419B.100
+  - ORS 419B.195
+  - ORS 419B.205
+  - ORS 419B.208
+  - ORS 419B.366
+  - ORS 419B.371
+  - ORS 419B.400
+  - ORS 419B.402
+  - ORS 419B.404
+  - ORS 419B.406
+  - ORS 419B.470
+  - ORS 419B.476
+  - ORS 419B.500
+  - ORS 419B.502
+  - ORS 419B.504
+  - ORS 419B.506
+  - ORS 419B.508
+  - ORS 419B.518
+  - ORS 419B.532
+  - ORS 419B.600
+  - ORS 419B.636
+  - ORS 419B.639
+  - ORS 419B.642
+  - ORS 419B.645
+  - ORS 419B.647
+  - ORS 419B.654
+  - ORS 419B.812
+  - ORS 419B.875
+  - ORS 419B.914
+  - ORS 426.130
+  - ORS 427.290
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3658
+prefix_meaning: House Bill
+catch_line: Modifies provisions regarding the appointment of counsel for parents or children in juvenile
+  dependency proceedings and contested adoption proceedings.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act changes when the court must appoint a lawyer for some people in matters\
+  \ involving children. (Flesch Readability Score: 65.1). \n\tModifies provisions regarding the appointment\
+  \ of counsel for parents or children in juvenile dependency proceedings and contested adoption proceedings.\
+  \ Directs the court to appoint counsel for parents in juvenile dependency proceedings, including proceedings\
+  \ for termination of parental rights, only if facts found in the dependency proceeding may effect a\
+  \ criminal proceeding. Directs the court to appoint counsel for a child in a juvenile dependency proceeding\
+  \ only if the child was allegedly abused. Directs the court to appoint counsel for parents in contested\
+  \ adoption proceedings, including certain proceedings to determine parentage, only if facts found in\
+  \ the adoption proceeding may effect a criminal proceeding."
+relating_to: Relating to court-appointed counsel.
+relating_to_full: Relating to court-appointed counsel; creating new provisions; amending ORS 109.322,
+  109.323, 109.324, 109.326, 109.330, 419B.195, 419B.205, 419B.208, 419B.371, 419B.532, 419B.639, 419B.647
+  and 419B.914; and repealing ORS 419B.518.
+at_the_request_of: null
+lc_number: 2200
+measure_created_date: '2025-02-20T11:10:32'
+measure_modified_date: '2025-03-24T17:06:06'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 57166
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 109.065
+  - ORS 109.070
+  - ORS 109.266
+  - ORS 109.276
+  - ORS 109.285
+  - ORS 109.301
+  - ORS 109.302
+  - ORS 109.322
+  - ORS 109.323
+  - ORS 109.324
+  - ORS 109.325
+  - ORS 109.326
+  - ORS 109.330
+  - ORS 109.350
+  - ORS 135.050
+  - ORS 135.055
+  - ORS 151.216
+  - ORS 151.219
+  - ORS 18.005
+  - ORS 25.011
+  - ORS 418.205
+  - ORS 419B.005
+  - ORS 419B.100
+  - ORS 419B.195
+  - ORS 419B.205
+  - ORS 419B.208
+  - ORS 419B.366
+  - ORS 419B.371
+  - ORS 419B.400
+  - ORS 419B.402
+  - ORS 419B.404
+  - ORS 419B.406
+  - ORS 419B.470
+  - ORS 419B.476
+  - ORS 419B.500
+  - ORS 419B.502
+  - ORS 419B.504
+  - ORS 419B.506
+  - ORS 419B.508
+  - ORS 419B.518
+  - ORS 419B.532
+  - ORS 419B.600
+  - ORS 419B.636
+  - ORS 419B.639
+  - ORS 419B.642
+  - ORS 419B.645
+  - ORS 419B.647
+  - ORS 419B.654
+  - ORS 419B.812
+  - ORS 419B.875
+  - ORS 419B.914
+  - ORS 426.130
+  - ORS 427.290
+  from_relating_to_full:
+  - ORS 109.322
+  - ORS 109.323
+  - ORS 109.324
+  - ORS 109.326
+  - ORS 109.330
+  - ORS 419B.195
+  - ORS 419B.205
+  - ORS 419B.208
+  - ORS 419B.371
+  - ORS 419B.518
+  - ORS 419B.532
+  - ORS 419B.639
+  - ORS 419B.647
+  - ORS 419B.914
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3658`.
+
+# HB 3658 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3658, 2025 Regular Session (2025R1)
+- **LC number:** 2200
+- **Created:** 2025-02-20T11:10:32
+- **Metadata last modified (upstream):** 2025-03-24T17:06:06
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 57166 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3658/Introduced>.
+
+## Summary
+
+**Catchline:** Modifies provisions regarding the appointment of counsel for parents or children in juvenile dependency proceedings and contested adoption proceedings.
+
+**Relating to:** Relating to court-appointed counsel.
+
+Digest: The Act changes when the court must appoint a lawyer for some people in matters involving children. (Flesch Readability Score: 65.1). 
+ Modifies provisions regarding the appointment of counsel for parents or children in juvenile dependency proceedings and contested adoption proceedings. Directs the court to appoint counsel for parents in juvenile dependency proceedings, including proceedings for termination of parental rights, only if facts found in the dependency proceeding may effect a criminal proceeding. Directs the court to appoint counsel for a child in a juvenile dependency proceeding only if the child was allegedly abused. Directs the court to appoint counsel for parents in contested adoption proceedings, including certain proceedings to determine parentage, only if facts found in the adoption proceeding may effect a criminal proceeding.
+
+**RelatingToFull (verbatim upstream field):** Relating to court-appointed counsel; creating new provisions; amending ORS 109.322, 109.323, 109.324, 109.326, 109.330, 419B.195, 419B.205, 419B.208, 419B.371, 419B.532, 419B.639, 419B.647 and 419B.914; and repealing ORS 419B.518.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3658
+Sponsored by Representative MANNIX
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes when the court must appoint a lawyer for some people in matters  in-
+volving children. (Flesch Readability Score: 65.1).
+Modifies  provisions  regarding the appointment of counsel for parents or children in juvenile
+dependency proceedings and contested adoption proceedings. Directs  the court to appoint counsel
+for parents in juvenile dependency proceedings, including proceedings for termination of parental
+rights, only if  facts found in the dependency proceeding may effect a criminal proceeding. Directs
+the court to appoint counsel  for a child in a juvenile dependency proceeding only if the child was
+allegedly abused. Directs the court to  appoint counsel for parents in contested adoption proceedings,
+including certain proceedings  to determine parentage, only if facts found in the adoption proceeding
+may effect a criminal proceeding.
+A BILL FOR AN ACT
+Relating to court-appointed counsel; creating  new provisions; amending ORS 109.322, 109.323,
+109.324, 109.326,  109.330, 419B.195, 419B.205, 419B.208, 419B.371, 419B.532, 419B.639, 419B.647
+and 419B.914; and repealing ORS 419B.518.
+Be It Enacted by the People of the State of Oregon:
+COURT-APPOINTED COUNSEL IN DEPENDENCY PROCEEDINGS
+SECTION 1.
+ ORS 419B.195 is amended to read:
+419B.195. (1) If the child, ward, parent or  guardian requests counsel for the child or ward in a
+proceeding under this chapter in which it has  been alleged that the child or ward has been
+subjected to abuse, as  defined in ORS 419B.005, but is without sufficient financial means to em-
+ploy suitable counsel possessing skills and experience commensurate  with the nature of the petition
+and the complexity of the case, the court may appoint suitable counsel to represent the  child or
+ward at state expense if the child or ward is determined to be financially eligible  under the policies,
+procedures, standards and guidelines of the Oregon Public Defense Commission.  [Whenever requested
+to do so, the court shall appoint counsel to represent the child or ward in  a case filed pursuant to ORS
+419B.100.] The court may not substitute one appointed counsel  for another except pursuant to the
+policies, procedures, standards and guidelines of the Oregon Public Defense Commission.
+(2) Upon presentation of the order of appointment under this section by the attorney for  the
+child or ward, any agency,  hospital, school organization, division or department of the state, doctor,
+nurse or other health care provider, psychologist, psychiatrist, police  department or mental health
+clinic shall permit the attorney to inspect and copy any records of the child or ward involved  in the
+case, without the  consent of the child or ward or parents. This subsection does not apply to records
+of a police agency relating to an ongoing investigation prior to charging.
+SECTION 2.  ORS 419B.205 is amended to read:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2200
+419B.205. (1) Counsel shall be appointed for the parent  or legal guardian of a child or ward
+whenever the nature of the proceedings under this chapter  and  due process so require, and when
+the parent or legal guardian has been determined by the court  to be eligible to receive appointed
+counsel  under  the standard in ORS 135.050 or the policies, procedures, standards and guidelines
+adopted under ORS 151.216.
+(2) In deciding  whether to appoint counsel under this section, the court shall consider the fol-
+lowing  factors:
+[(a) The  duration and degree of invasiveness of the interference with the parent-child relationship
+that possibly could result from the proceeding; ]
+[(b)] (a) The complexity of the issues and evidence;
+[(c)] (b) The nature of allegations and evidence contested by the parent or legal guardian; and
+[(d)] (c)  The effect the facts found or  the disposition in the proceeding may have on later
+criminal proceedings or events[ , including but not limited to termination of parental rights or criminal
+proceedings ].
+[(2)] (3) The court may not substitute one appointed counsel for another except  pursuant to the
+policies, procedures, standards and guidelines adopted under ORS 151.216.
+SECTION 3.
+ ORS 419B.208 is amended to read:
+419B.208. Appointment of counsel for [ the] a child, ward [ or], parent or legal guardian under
+ORS 419B.195 or 419B.205 is subject to ORS 135.055, 151.216 and 151.219.
+SECTION 4.  ORS 419B.371 is amended to read:
+419B.371. (1) As used in this section:
+(a) “Community guardian” means a child-caring agency licensed,  certified or otherwise author-
+ized under ORS 418.205 to 418.327 that is filing a motion for appointment as guardian of  a ward
+under ORS 419B.366.
+(b) “Community  guardianship” means a guardianship granted under ORS 419B.366 to a commu-
+nity guardian.
+(2) The court may appoint a community guardian and establish a community guardianship of a
+ward under ORS 419B.366 when, in addition to the requirements of ORS 419B.366:
+(a) The ward is 16 years of age or older;
+(b) The ward has spent three or more years in substitute care;
+(c) The proposed community  guardian has provided care or services to the ward under ORS
+418.205 to 418.327 in the 12 months immediately preceding the filing of the motion for community
+guardianship;
+(d) Except for another planned permanent living  arrangement, there is no other appropriate
+permanency plan for the ward under ORS 419B.476 (5);
+(e) The proposed community guardianship would include planning and guidance  for the ward’s
+transition to successful adulthood, including needs and goals related to crisis intervention,  housing,
+physical and mental health, education, employment, community connections and supportive re-
+lationships; and
+(f) The ward gives informed consent to the establishment of the community guardianship[ ; and ]
+[(g) The ward has access to court-appointed counsel under ORS 419B.195 ].
+(3) Informed consent of the ward under subsection (2)(f) of this section shall include:
+(a) The ward’s written consent to information provided in writing to the ward  by the court, the
+Department of Human Services or the proposed community guardian about  the consequences of es-
+tablishment of a community guardianship, including any loss of benefits currently being  received or
+that may prospectively be provided to the ward if another permanency plan were ordered; and
+(b) The ward’s written acknowledgment that the ward cannot be placed in substitute care  in the
+legal custody of the Department of Human Services after reaching 18 years of age.
+SECTION 5.
+ ORS 419B.532 is amended to read:
+419B.532. (1) As used in this section, “former parent” means  a person who was previously the
+legal parent of a ward and whose parental rights to the ward have been terminated.
+(2)(a) In a proceeding under ORS 419B.500, the Department of Human Services  or a ward may
+file a motion to reinstate the parental rights of a former parent if:
+(A)(i) The ward has not been adopted; or
+(ii) The ward was previously adopted but no longer has a legal parent;
+(B) No legal action to achieve the adoption of  the ward has been initiated under ORS 109.276
+or 419B.529;
+(C) At least 18 months have passed since entry of the  judgment terminating the former parent’s
+parental rights to the ward or, in the  event of an appeal, at least six months have passed since is-
+suance of an appellate judgment affirming the termination judgment, whichever is later; and
+(D) Except as provided in paragraph  (b) of this subsection, the ward is at least 12 years of age
+at the time the motion to reinstate parental rights is filed.
+(b) If the ward is under 12 years  of age at the time the motion to reinstate parental rights is
+filed, the court may allow the motion upon a showing of good cause.
+(3) A motion to reinstate parental rights under this section must be  in writing and state with
+particularity the factual and legal grounds for the motion.
+(4) The moving party shall provide a copy of the motion to  reinstate parental rights to the for-
+mer parent and shall notify the court, the parties and, if there is reason to know that the ward is
+an Indian child, the tribe that a copy of the motion has been provided.
+(5) If a motion to reinstate parental  rights does not state a prima facie case as to the facts that
+must be proved under subsection (6) of this section, the court may deny the motion without a hear-
+ing.
+(6)(a) If a motion to reinstate parental rights states a  prima facie case as to the facts that must
+be proved under this subsection, the court shall hold  a hearing on the merits of the motion. The
+court shall grant the motion if the moving party proves by clear and convincing evidence that:
+(A) The former parent’s conduct and  conditions that led to the termination of parental rights
+have been ameliorated and the former parent is presently fit;
+(B) The former parent wishes to have parental rights reinstated;
+(C) The ward consents to the reinstatement of parental rights; and
+(D) Reinstatement of parental rights is in the ward’s best interests.
+(b) In determining whether reinstatement of parental rights is in the ward’s best interests under
+paragraph (a) of this subsection, the court shall consider:
+(A) The ward’s health, safety, permanency, age, maturity and ability to express the ward’s pref-
+erences;
+(B) The reasons that the former parent’s parental rights were terminated;
+(C) The former parent’s stated reasons for wishing to have parental rights reinstated; and
+(D) The likely impact on the ward of the former parent’s past abuse or neglect.
+(c) The moving party shall  provide notice to the former parent of a hearing on the merits under
+paragraph (a) of this subsection.
+(d) The department shall establish by rule procedures for investigating the present fitness of  the
+former parent and for providing appropriate reunification services.
+(7) If the court grants the motion to reinstate  parental rights under subsection (6) of this sec-
+tion:
+(a) The court  shall enter an order reinstating parental rights that shall restore all parental
+rights and duties of the former parent as to the ward;
+(b) The ward shall continue as a ward of the court for at least six months  after entry of the
+order reinstating parental rights; and
+(c) The court shall conduct a permanency hearing as provided in  ORS 419B.470 within 60 days
+after entering the order under paragraph (a) of this subsection.
+(8) An order reinstating parental rights  under this section does not vacate or otherwise affect
+the validity of the original judgment terminating the parental rights of the former  parent except to
+the extent that the order reinstates parental rights.
+[(9) In any proceeding under this section, the ward is entitled  to have counsel appointed at state
+expense if the ward is determined to be financially eligible under the policies, procedures,  standards
+and guidelines of the Oregon Public Defense Commission. ]
+SECTION 6.
+ ORS 419B.639 is amended to read:
+419B.639. (1)(a) In an  emergency proceeding, if there is reason to know that a child is an Indian
+child and the nature of the emergency allows, the  Department of Human Services must notify by
+telephone, electronic mail, facsimile or other means of  immediate communication any tribe of which
+the child is or may be a member.
+(b) Notification under this  subsection must include the basis for the child’s removal, the time,
+date and place  of the initial hearing and a statement that the tribe has the right to participate in
+the proceeding as a party or in an advisory capacity under ORS 419B.875.
+(2) Except  as provided in subsection (1) of this section, if there is reason to know that a child
+alleged to be within the court’s jurisdiction under ORS chapter 109, 418, 419A or 419B is  an Indian
+child and notice is required, the party providing notice must:
+(a) Promptly send notice of the proceeding as described in subsection (3) of this section; and
+(b) File a copy of each notice sent under this section with the court, together  with any return
+receipts or other proof of service.
+(3) Notice under subsection (2) of this section must:
+(a) Be sent to:
+(A) Each tribe of  which the child may be a member or of which the Indian child may be eligible
+for membership;
+(B) The child’s parents;
+(C) The child’s Indian custodian, if applicable; and
+(D) The appropriate United States Bureau of Indian Affairs Regional Director listed in  25 C.F.R.
+23.11(b), if the identity or location of the child’s parents, Indian custodian or tribe cannot be ascer-
+tained.
+(b) Be sent by registered or certified mail, return receipt requested.
+(c) Be in clear and understandable language and include the following:
+(A) The child’s name, date of birth and place of birth;
+(B) To the extent known, all  names, including maiden, married and former names or aliases, of
+the child’s parents, the parents’ birthplaces and tribal enrollment numbers;
+(C) To the extent known, the names, dates of birth, places of birth and  tribal enrollment infor-
+mation of other direct lineal ancestors of the child;
+(D) The name of each Indian tribe of which the child is a member or  in which the Indian child
+may be eligible for membership;
+(E) If notice is  required to be sent to the United States Bureau of Indian Affairs under para-
+graph (a)  of this subsection, to the extent known, information regarding the child’s direct lineal
+ancestors, an ancestral chart for each biological parent, and the child’s tribal affiliations and  blood
+quantum;
+(F) A copy of  the petition or motion initiating the proceeding and, if a hearing has been sched-
+uled, information on the date, time and location of the hearing;
+(G) The name of the petitioner and the name and address of the petitioner’s attorney;
+(H) In a proceeding under ORS chapter 419B:
+(i) A statement that the child’s parent or Indian custodian has the right to  participate in the
+proceeding as a party to the proceeding under ORS 419B.875;
+(ii) A statement that the child’s tribe has the right to participate in the proceeding as a  party
+or in an advisory capacity under ORS 419B.875;  and
+[(iii) A statement that if the court determines that the child’s parent or Indian  custodian is unable
+to afford counsel, the parent or Indian custodian has the right to court-appointed counsel; and ]
+[(iv)] (iii) A statement  that the child’s parent, Indian custodian or tribe has the right, upon re-
+quest, to up to 20 additional days to prepare for the proceeding;
+(I) In a proceeding under  ORS 109.266 to 109.410, a statement that the child’s tribe may inter-
+vene in the proceeding;
+(J) A statement that the child’s parent, Indian  custodian or tribe has the right to petition the
+court to transfer the child custody proceeding to the tribal court;
+(K) A statement describing the potential legal consequences of the proceeding on  the future
+parental and custodial rights of the parent or Indian custodian;
+(L) The mailing  addresses and telephone numbers of the court and contact information for all
+parties to the proceeding and individuals notified under this section; and
+(M) A statement that the information contained  in the notice is confidential and that the notice
+should not be shared with any  person not needing the information to exercise rights under ORS
+419B.600 to 419B.654.
+(4) If there is a reason to know  that the Indian child’s parent or Indian custodian has limited
+English proficiency and may not understand the contents of the notice under subsection (2)  of this
+section, the court must provide language access services as required by  Title VI of the Civil Rights
+Act of 1964 and other applicable federal and state laws. If the court is unable  to secure translation
+or interpretation support, the court shall contact  or direct a party to contact the Indian child’s tribe
+or the local office of the United States Bureau of  Indian Affairs for assistance identifying a qualified
+translator or interpreter.
+(5)(a) A  hearing that requires notice under subsection (2) of this section may not be held until
+at least 10 days  after the latest of receipt of the notice by the Indian child’s parent, Indian custodian
+or tribe or, if applicable, the United States Bureau of Indian  Affairs. Upon request, the court shall
+grant the  Indian child’s parent, Indian custodian or tribe up to 20 additional days from the date upon
+which notice was received by the parent,  Indian custodian or tribe to prepare for participation in
+the hearing.
+(b) Nothing in this subsection prevents a  court at an emergency proceeding before the expira-
+tion of the waiting period described in paragraph (a) of this subsection from  reviewing the removal
+of an Indian child  from the Indian child’s parent or Indian custodian to determine whether the re-
+moval or placement is no longer necessary to prevent imminent physical damage or harm  to the
+Indian child.
+SECTION 7.
+ ORS 419B.647 is amended to read:
+419B.647. (1) If there is reason to know that a child in  a proceeding under ORS chapter 419B
+is an Indian child:
+(a) The court [ shall] may appoint  counsel to represent the Indian child  if there is an allegation
+in the proceeding that the Indian child has been subjected to abuse,  as defined in ORS
+419B.005.
+(b) If the Indian child’s parent or Indian custodian requests counsel to represent  the parent or
+Indian custodian but is without  sufficient financial means to employ suitable counsel possessing
+skills and experience commensurate with  the nature of the petition and the complexity of the case,
+the court shall appoint suitable counsel to  represent the Indian child’s parent or Indian custodian
+if the parent or Indian custodian is determined  to be financially eligible under the policies, proce-
+dures, standards and guidelines of the Oregon Public Defense Commission.
+(2) Upon  presentation of the order of appointment under this section by the attorney for the
+Indian child,  any agency, hospital, school organization, division or department of the state, doctor,
+nurse or other health care provider, psychologist, psychiatrist, police  department or mental health
+clinic shall permit the attorney  for the Indian child to inspect and copy any records of the Indian
+child involved in the case,  without the consent of the Indian child or the Indian child’s parent or
+Indian custodian.  This subsection does not apply to records of a police agency relating to an ongoing
+investigation prior to bringing charges.
+SECTION 8. ORS 419B.518 is repealed.
+COURT-APPOINTED COUNSEL IN ADOPTION PROCEEDINGS
+SECTION 9. (1) If a spouse under ORS  109.326 or a parent under ORS 109.330 requests
+the assistance of appointed counsel, the court shall  appoint counsel for the spouse or parent
+if the nature of the proceedings and  due process so require, and when the spouse or parent
+has been determined by the court to be  eligible to receive appointed counsel under the
+standard in ORS 135.050 or policies, procedures, standards and guidelines adopted under ORS
+151.216.
+(2) In deciding whether to appoint counsel under this section, the court shall consider the
+following factors:
+(a) The complexity of the issues and evidence;
+(b) The nature of allegations and evidence contested by the spouse or parent; and
+(c) The effect the facts found or the disposition in the  proceeding may have on later
+criminal proceedings or events.
+(3) The court may not substitute one appointed counsel for  another except pursuant to
+the policies, procedures, standards and guidelines adopted under ORS 151.216.
+SECTION 10.
+ ORS 109.326 is amended to read:
+109.326. (1) If the mother of a child was married  at the time of the conception or birth of the
+child, and it  has been determined pursuant to ORS 109.065 or 419B.609 or judicially determined that
+the mother’s spouse at such time or times was not  the parent of the child, the spouse’s authorization
+or waiver is not required in adoption, juvenile court or other proceedings concerning  the custody
+of the child.
+(2)(a) If parentage of the child has not  been determined, a determination of nonparentage may
+be made by any court having adoption, divorce or juvenile court jurisdiction.
+(b) Except as provided in subsection [ (11)] (10) of  this section, the testimony or affidavit of the
+mother or the spouse or another person with  knowledge of the facts filed in the proceeding consti-
+tutes competent evidence before the court making the determination.
+(c) The provisions of this section relating  to Indian children do not apply if the determination
+of nonparentage is being  made by a court having divorce jurisdiction or jurisdiction to decide cus-
+tody between unmarried parents.
+(3) Before the court may make the determination of nonparentage, the petitioner shall:
+(a) Conduct the inquiry described in ORS 419B.636 (2) to determine whether the  petitioner has
+reason to know that the child is an Indian child; and
+(b) Serve on the spouse a summons and a true copy of a motion and order to show cause why
+a judgment of nonparentage should not be entered if:
+(A) There has been a determination by any court of competent jurisdiction that the spouse  is
+the parent of the child;
+(B) The child resided with the spouse at any time since the child’s birth;
+(C) The spouse repeatedly has contributed or tried to contribute to the support of the child; or
+(D) The petitioner has reason to know that the child is an Indian child.
+(4) When the petitioner is required to  serve the spouse with a summons and a motion and order
+to show cause under subsection (3) of this section:
+(a) Service must be made in the  manner provided in ORCP 7 D and E, except as provided in
+subsection (7) of this section. Service of the summons and the motion  and order to show cause must
+be proved as required in ORCP 7 F. The summons and the motion and order to show cause  need not
+contain the names of the adoptive parents.
+(b) If the petitioner has reason to know that the child is an Indian  child, the petitioner shall
+serve copies of the motion, together with the notice  of proceeding required under ORS 419B.639 (3),
+on:
+(A) Each tribe  of which the child may be a member or in which the Indian child may be eligible
+for membership;
+(B) The child’s parents;
+(C) The child’s Indian custodian, if applicable; and
+(D) The appropriate United States Bureau of Indian Affairs Regional Director listed in  25 C.F.R.
+23.11(b), if the identity or location of the child’s parents, Indian custodian or tribe cannot be ascer-
+tained.
+(c) The petitioner shall file a  declaration of compliance under penalty of perjury made in the
+manner described by ORCP 1 E, that includes:
+(A) A statement and documentation, as described by the Department of Human Services by  rule,
+of the efforts described in ORS 419B.636 (2) that the petitioner made to determine whether  there is
+reason to know that the child is an Indian child; and
+(B) If the petitioner has reason to know that the child is an Indian child:
+(i) A statement describing the efforts the petitioner made, as required under ORS 109.302  (2)(c),
+to prevent the break up of the family or to reunite the family; and
+(ii) A copy of each notice of proceeding the  petitioner served as required under paragraph (b)
+of this subsection, together with any return receipts or other proof of service.
+(5) The inquiry  required under subsection (3)(a) of this section and notice required under sub-
+section (4)(a) of this section may be combined with the inquiry and notice required  under ORS
+109.285 or 109.385 if the motion and order to show cause is  filed concurrently with the petition for
+adoption or readoption under ORS 109.285 or 109.385.
+(6) A summons under subsection (3) of this section must contain:
+(a) A statement that if the spouse fails to file a written answer to the motion and order to show
+cause within the time provided, the court, without further notice and in the  spouse’s absence, may
+take any action that is authorized by law, including  but not limited to entering a judgment of non-
+parentage on the date the answer is required or on a future date.
+(b) A statement that:
+(A) The spouse must file with the court a written answer to the  motion and order to show cause
+within 30 days after the date on which the spouse is  served with the summons or, if service of the
+summons is made by publication  or posting under ORCP 7 D(6), within 30 days from the date of last
+publication or posting.
+(B) In the answer, the spouse must inform the court and the petitioner of the spouse’s telephone
+number or contact telephone number and  the spouse’s current residence, mailing or contact address
+in the same state as the spouse’s home. The answer may be in substantially the following form:
+_______________________________________________________________________________________
+IN THE CIRCUIT COURT OF
+THE STATE OF OREGON
+FOR THE COUNTY OF 
+, )
+Petitioner, ) NO.
+)
+) ANSWER
+and )
+)
+, )
+Respondent. )
+[ ] I consent to the entry of a judgment of nonparentage.
+[ ] I do not consent to the entry of a  judgment of nonparentage. The court should not enter a
+judgment of nonparentage for the following reasons:
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+Signature
+DATE:
+ADDRESS OR CONTACT ADDRESS:
+TELEPHONE OR CONTACT TELEPHONE:
+_______________________________________________________________________________________
+(c) A notice that, if the spouse answers the motion and order to show cause, the court:
+(A) Will schedule a hearing  to address the motion and order to show cause and, if appropriate,
+the adoption petition;
+(B) Will order the spouse to appear personally; and
+(C) May  schedule other hearings related to the petition and may order the spouse to appear
+personally.
+(d) A notice that the spouse has the right to be represented by an attorney.  The notice must
+be in substantially the following form:
+_______________________________________________________________________________________
+You have a right  to be represented by an attorney. If you wish to be represented by an attorney,
+please retain one as soon as possible  to represent you in this proceeding. If you meet the state’s
+financial guidelines, you are entitled to have an attorney appointed for you at state expense.  To
+request appointment of an  attorney to represent you at state expense, you must contact the circuit
+court immediately. Phone 
+ for further information.
+_______________________________________________________________________________________
+(e) A statement that the spouse has the responsibility to maintain contact with the  spouse’s at-
+torney and to keep the attorney advised of the spouse’s whereabouts.
+(7) A spouse who is served  with a summons and a motion and order to show cause under this
+section shall file with the court a written answer to the motion and order to  show cause within 30
+days after the date on which the spouse is served with the summons or, if  service is made by pub-
+lication or posting under ORCP 7 D(6), within 30  days from the date of last publication or posting.
+In the answer, the spouse shall inform the court and the  petitioner of the spouse’s telephone number
+or contact telephone number and current address, as  defined in ORS 25.011. The answer may be in
+substantially the form described in subsection (6) of this section.
+[(8) If the spouse requests the assistance  of appointed counsel and the court determines that the
+spouse is financially eligible, the  court shall appoint an attorney to represent the spouse at state ex-
+pense. Appointment of counsel under this subsection is subject to ORS 135.055, 151.216 and 151.219.
+The court may not substitute one appointed counsel for another except  pursuant to the policies, proce-
+dures, standards and guidelines adopted under ORS 151.216. ]
+[(9)] (8) If the spouse files an answer as required under subsection  (7) of this section, the court,
+by oral order made on the  record or by written order provided to the spouse in person or mailed
+to the spouse at the address provided by the spouse, shall:
+(a) Inform the spouse of the time, place  and purpose of the next hearing or hearings related to
+the motion and order to show cause or the adoption petition;
+(b) Require the spouse  to appear personally at the next hearing or hearings related to the mo-
+tion and order to show cause or the adoption petition; and
+(c) Inform the spouse that, if the spouse fails to appear as ordered for any hearing  related to
+the motion and order to show cause or the adoption  petition, the court, without further notice and
+in the spouse’s absence, may take any action that is authorized by law,  including but not limited to
+entering a judgment of nonparentage on the date specified  in the order or on a future date, without
+the consent of the spouse.
+[(10)(a)] (9)(a) Upon receiving the petitioner’s  declaration of compliance under subsection (4)(c)
+of this section, the court shall review the petitioner’s statements and documentation  and order that
+the adoption may proceed if the court  finds that the petitioner satisfied the inquiry requirements
+under ORS 419B.636 (2) and, if applicable, the notice requirements under ORS 419B.639 (2).
+(b) If the court finds that the petitioner  failed to satisfy the inquiry or, if applicable, notice re-
+quirements under ORS 419B.636 (2)  and 419B.639 (2), or if the documentation is insufficient for the
+court to make those findings, the court shall direct the  petitioner to cure the inquiry or notice de-
+ficiency  and  file an amended declaration of compliance. The court shall order the petitioner to ap-
+pear and show cause why the court should  not deny the motion and order to show cause if the
+petitioner fails to file the amended declaration of compliance within a reasonable amount of time.
+[(11)(a)] (10)(a) If a spouse fails to  file a written answer as required in subsection (7) of this
+section or fails to  appear for a hearing related to the motion and order to show cause or the petition
+as directed by court order under this section, the court, without further notice to the  spouse and
+in the spouse’s absence, may take any action that is authorized by law,  including but not limited to
+entering a judgment of nonparentage.
+(b) Notwithstanding paragraph (a) of  this subsection, the court may not enter a judgment of
+nonparentage unless the court finds that the petitioner complied with  the inquiry requirements un-
+der ORS 419B.636 (2).
+[(12)] (11) If the child is an Indian child:
+(a) The court may not enter a judgment of nonparentage with the consent of the spouse  unless:
+(A) The consent clearly sets out the conditions to the consent, if any;
+(B) Prior to the execution of the consent, the court explains to the spouse, on the record in
+detail and in the language of the  spouse, [ the spouse’s right to legal counsel, ] the terms and conse-
+quences of the consent and that the spouse may withdraw the  consent at any time prior to the entry
+of a judgment of adoption or readoption under ORS 109.350;
+(C) The spouse executes the consent in person before the court not less  than 10 days following
+the date of the Indian child’s birth; and
+(D) After the spouse executes the consent, the court  certifies that the court provided the ex-
+planation in the manner required under subparagraph  (B) of this paragraph and that the spouse fully
+understood the explanation.
+(b) Notwithstanding subsection [ (9) or (11) ] (8) or (10)  of this section, the court may not  enter
+a judgment of nonparentage without the consent of the spouse unless:
+(A) The court  has offered to order mediation through the Department of Human Services, or, if
+there is mutual party agreement to private mediation and to the  party assumption of costs, through
+other mediation services, between the petitioner, spouse, Indian child’s tribe and, if applicable, the
+proposed adoptive placement;
+(B) If requested by  the tribe, an agreement is in place that requires the petitioner or, if appli-
+cable, the proposed adoptive placement to maintain connection between the Indian  child and the
+Indian child’s tribe; and
+(C) The court finds that:
+(i) The petitioner complied with the notice requirements as required under ORS 419B.639 (2);
+(ii) Despite  petitioner’s active efforts, evidence, including the testimony of one or more qualified
+expert witnesses under ORS 419B.642,  establishes beyond a reasonable doubt that the continued
+custody of the Indian  child by the spouse is likely to result in serious emotional or physical damage
+to the Indian child and  that the petitioner’s active efforts under ORS 419B.645 to reunite the Indian
+family did not eliminate the necessity for termination of  the spouse’s parental rights based on seri-
+ous emotional or physical damage to the Indian child; and
+(iii) That the adoptive placement complies with the placement  preferences under ORS 419B.654
+(2) or, if not, a  finding upon the petitioner’s motion under ORS 419B.654 (3) that good cause exists
+for placement contrary to the placement preferences in ORS 419B.654 (2).
+(c) The  evidence under paragraph (b)(C)(ii) of this subsection must show a causal relationship
+between the particular  conditions in the Indian child’s home and the likelihood that the spouse’s
+continued custody will result in serious emotional or physical damage to the Indian child who  is the
+subject of the adoption proceeding. Evidence that shows the  existence of community or family pov-
+erty, isolation, single parenthood,  custodian age, crowded or inadequate housing, substance abuse
+or nonconforming social behavior does not, by itself, establish a causal relationship as  required by
+this paragraph.
+[(13)] (12) There shall be sufficient proof to enable the court  to grant the relief sought without
+notice to the spouse if:
+(a) The affidavit of the mother of the child,  of the spouse or of another person with knowledge
+of the facts filed in the proceeding states or the court finds from other competent evidence:
+(A) That the mother of the  child was not cohabiting with the mother’s spouse at the time of
+conception of the child and that the spouse is not the parent of the child;
+(B) That the spouse has not been judicially determined to be the parent of the child;
+(C) That the child has not resided with the spouse; and
+(D) That the spouse has not contributed or tried to contribute to the support of the child; and
+(b) The court finds by clear and convincing evidence, after due diligence on  the part of the
+petitioner, that the child is not an Indian child.
+[(14)] (13) Notwithstanding ORS 109.070 (1)(a), service of a summons and a motion and  order to
+show cause on the spouse under  subsection (3) of this section is not required and the spouse’s con-
+sent, authorization or waiver is  not required in adoption proceedings concerning the child unless the
+child is an Indian child or the spouse has met the requirements of subsection (3)(b)(A), (B)  or (C)
+of this section.
+[(15)] (14)  A spouse who was not cohabiting with the mother at the  time of the child’s con-
+ception has the primary responsibility to protect the spouse’s rights.
+[(16)] (15) Nothing in this section shall be used  to set aside an act of a permanent nature, in-
+cluding but not limited to adoption, unless the parent establishes, within one  year or, if the child is
+an Indian child, four years after the entry of the order or general judgment, as defined  in ORS
+18.005, fraud  on the part of the petitioner with respect  to the matters specified in subsection
+[(13)(a)] (12)(a) of this section.
+[(17)] (16) If the child is an Indian  child, the child’s tribe or Indian custodian may intervene at
+any time as a matter of right.
+SECTION 11.
+ ORS 109.330 is amended to read:
+109.330. (1)(a)  In the cases provided for in ORS 109.302, 109.322, 109.323 and 109.324, when a
+parent does not consent to the adoption of the child, the petitioner shall:
+(A) Conduct the inquiry described in  ORS 419B.636 (2) to determine whether the petitioner has
+reason to know that the child is an Indian child; and
+(B) Serve the parent with a summons  and a true copy of a motion and order to show cause why
+the proposed adoption should not be ordered without the parent’s consent.
+(b) Except as provided in subsection (3) of this section,  service of the summons and the motion
+and order to show  cause must be made in the manner provided in ORCP 7 D and E. Service must
+be proved as required in ORCP 7 F. The summons and the motion and order to show cause  need not
+contain the names of the adoptive parents.
+(c) If the petitioner has reason to know that the child  is an Indian child, in addition to the
+service required under paragraph (b) of  this subsection, the petitioner shall serve by registered or
+certified mail, return receipt requested, copies of the motion and order to show cause, together  with
+the notice of proceeding in the form required under ORS 419B.639 (3)(c), on:
+(A) Each tribe  of which the child may be a member or in which the Indian child may be eligible
+for membership;
+(B) The child’s parents;
+(C) The child’s Indian custodian, if applicable; and
+(D) The appropriate United States Bureau of Indian Affairs Regional Director listed in  25 C.F.R.
+23.11(b), if the identity or location of the child’s parents, Indian custodian or tribe cannot be ascer-
+tained.
+(d) The petitioner shall file a declaration of compliance under penalty of  perjury, made in the
+manner described by ORCP 1 E, that includes:
+(A) A statement and documentation, as described by the Department of Human Services by  rule,
+of the efforts described in ORS 419B.636 (2) that the petitioner made to determine whether  there is
+reason to know that the child is an Indian child; and
+(B) If the petitioner has reason to know that the child is an Indian child:
+(i) A statement describing the efforts the petitioner made, as required under ORS 109.302  (2)(c),
+to prevent the break up of the family or to reunite the family; and
+(ii) A copy of each notice of proceeding the petitioner  served as required under paragraph (c)
+of this subsection, together with any return receipts or other proof of service.
+(2) A summons under this section must contain:
+(a) A statement that an adoption petition has been filed and that, if the  parent fails to file a
+written answer to the motion and order to show cause within the time provided, the court, without
+further notice and in the parent’s absence,  may take any action that is authorized by law, including
+but not limited to entering  a judgment of adoption of the child if the court determines, on the date
+the answer is required or on a future date, that:
+(A) Consent of the parent is not required;
+(B) The adoption is in the best interests of the child; and
+(C) If the child is an  Indian child, the nonconsenting parent’s continued custody of the Indian
+child is likely to result in serious emotional or physical damage to the child.
+(b) A statement that:
+(A) The parent must file with the court a written answer to the motion and  order to show cause
+within 30 days after the date  on which the parent is served with the summons or, if service is made
+by publication or  posting under ORCP 7 D(6), within 30 days from the date of last publication or
+posting.
+(B) In the answer, the  parent must inform the court and the petitioner of the parent’s telephone
+number or contact telephone number and the parent’s  current residence, mailing or contact address
+in the same state as the parent’s home. The answer may be in substantially the following form:
+_______________________________________________________________________________________
+IN THE CIRCUIT COURT OF
+THE STATE OF OREGON
+FOR THE COUNTY OF 
+, )
+Petitioner, ) NO.
+)
+) ANSWER
+and )
+)
+, )
+Respondent. )
+[ ] I consent to the proposed adoption.
+[ ] I do not consent to the proposed adoption.  The court should not order the proposed adoption
+without my consent for the following reasons:
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+Signature
+DATE:
+ADDRESS OR CONTACT ADDRESS:
+TELEPHONE OR CONTACT TELEPHONE:
+_______________________________________________________________________________________
+(c) A notice that, if the parent answers the motion and order to show cause, the court:
+(A) Will schedule a hearing  to address the motion and order to show cause and, if appropriate,
+the adoption petition;
+(B) Will order the parent to appear personally; and
+(C) May schedule other hearings related to the petition and may order the  parent to appear
+personally.
+(d) A notice that the parent has the right to be represented  by an attorney. The notice must be
+in substantially the following form:
+_______________________________________________________________________________________
+You have a right  to be represented by an attorney. If you wish to be represented by an attorney,
+please retain one as soon as possible  to represent you in this proceeding. If you meet the state’s
+financial guidelines, you are entitled to have an attorney appointed for you at state expense.  To
+request appointment of an  attorney to represent you at state expense, you must contact the circuit
+court immediately. Phone 
+ for further information.
+_______________________________________________________________________________________
+(e) A statement that the parent has the responsibility to  maintain contact with the parent’s at-
+torney and to keep the attorney advised of the parent’s whereabouts.
+(3) A parent who is served with a  summons and a motion and order to show cause under this
+section shall file with the court a written answer to the motion and order to  show cause within 30
+days after the date on which the parent is served with the summons or, if service is  made by pub-
+lication or posting under ORCP 7 D(6), within 30  days from the date of last publication or posting.
+In the answer, the parent shall inform the court and the petitioner of the parent’s  telephone number
+or contact telephone number and current address, as  defined in ORS 25.011. The answer may be in
+substantially the form described in subsection (2) of this section.
+[(4) If the parent requests the assistance of appointed counsel and the court  determines that the
+parent is financially eligible, the court shall  appoint an attorney to represent the parent at state ex-
+pense. Appointment of counsel under this subsection is subject to ORS 135.055, 151.216 and 151.219.
+The court may not substitute one  appointed counsel for another except pursuant to the policies, proce-
+dures, standards and guidelines adopted under ORS 151.216. ]
+[(5)(a)] (4)(a)  Upon receiving the petitioner’s declaration of compliance under  subsection (1)(d)
+of this section, the court shall order that  the motion and order to show cause may proceed if the
+court  finds  that the petitioner satisfied the inquiry requirements under ORS 419B.636 (2) and, if ap-
+plicable, the notice requirements under ORS 419B.639 (2).
+(b) If the court finds that the petitioner failed to satisfy  the inquiry or, if applicable, notice re-
+quirements under ORS 419B.636 (2) and 419B.639 (2), or if the documentation  is insufficient for the
+court to make those findings, the court shall direct  the petitioner to cure the inquiry or notice de-
+ficiency and file an amended declaration of compliance. The court shall order the petitioner to  ap-
+pear and show cause why the court should not deny the motion  and order to show cause if the
+petitioner fails to file the amended declaration of compliance within a reasonable amount of time.
+(c) If the court  finds, subject to the procedures under ORS 419B.636 (4), that there is reason to
+know the child is an Indian child, the  court shall offer to order mediation through the Department
+of Human Services, or if  there is mutual party agreement to private mediation and to the party as-
+sumption of costs, through  other mediation services, between the Indian child’s parents, the Indian
+child’s tribe and the proposed adoptive placement.
+[(6)(a)] (5)(a)  If the parent files an answer as required under subsection (3) of this section,  the
+court, by oral order made on the record or by written order  provided to the parent in person or
+mailed to the parent at the address provided by the parent, shall:
+(A) Inform the  parent of the time, place and purpose of the next hearing or hearings related to
+the motion and order to show cause or the adoption petition;
+(B) Require the parent to appear personally  at the next hearing or hearings related to the mo-
+tion and order to show cause or the adoption petition; and
+(C) Inform the parent that, if the parent fails to appear as ordered for  any hearing related to
+the motion and order to show cause or the adoption  petition, the court, without further notice and
+in the parent’s absence, may take any action that is authorized by law, including but  not limited to
+entering a judgment of adoption  of the child on the date specified in the order or on a future date,
+without the consent of the parent.
+(b) If the parent’s answer indicates the parent’s  consent to the adoption, the court may not ac-
+cept the consent unless the consent meets the requirements under ORS 109.301  or, if the child is
+an Indian child, ORS 109.302.
+[(7)] (6) If a parent fails to file a written answer as required in subsection (3) of this  section or
+fails to appear for a hearing related to the motion and order to show cause  or the petition as di-
+rected by court order under this section, the court, without further notice to the parent  and in the
+parent’s absence, may take any action that is authorized by law, including but not limited to enter-
+ing a judgment of adoption of the child without the consent of the parent if the court finds:
+(a) On the date the answer is required or on a future date, the  action to be in the child’s best
+interests; and
+(b) That the petitioner complied with the inquiry requirements  under ORS 419B.636 (2) to de-
+termine whether there is reason to know that the child is an Indian child.
+[(8)(a)] (7)(a)  Notwithstanding subsection [ (7)] (6)  of this section or  ORS 109.322, 109.323 or
+109.324, the court may not enter a judgment of adoption of an Indian child without  the consent of
+the parent unless:
+(A) The court has offered the parties the opportunity to participate in mediation as required
+under subsection [ (5)(c)] (4)(c)  of this section;
+(B) If  requested by the tribe, an agreement is in place that requires the proposed adoptive
+placement to maintain connection between the Indian child and the Indian child’s tribe;
+(C) The court determines that the petitioner complied with  the notice requirements under ORS
+419B.639 (2);
+(D) The court determines that evidence, including  the testimony of one or more qualified expert
+witnesses under ORS 419B.642,  establishes beyond a reasonable doubt that the continued custody
+of the Indian child by the nonconsenting parent is likely to result in  serious emotional or physical
+damage to the child  and that the petitioner’s active efforts under ORS 419B.645 to reunite the Indian
+family did not eliminate the necessity for termination of the  nonconsenting parent’s parental rights
+based on serious emotional or physical damage to the Indian child; and
+(E) The  court finds that the adoptive placement complies with the placement preferences under
+ORS 419B.654 (2) or, if not, the court finds, upon the petitioner’s motion  under ORS 419B.654 (3),
+that good cause exists for placement contrary to the placement preferences in ORS 419B.654 (2).
+(b) The evidence under paragraph (a)(E) of this subsection must show a causal  relationship be-
+tween the particular conditions in the Indian child’s home and the  likelihood that the nonconsenting
+parent’s continued custody of the Indian  child will result in serious emotional or physical damage
+to the Indian child who is the subject of the adoption proceeding.  Evidence that shows the existence
+of community or family poverty, isolation,  single parenthood, custodian age, crowded or inadequate
+housing, substance abuse or nonconforming social behavior does not, by itself, establish  a causal
+relationship as required by this paragraph.
+[(9)] (8)  If the child has no living parent and no guardian or next of kin in this state  qualified
+to appear in behalf of the child, the court may order such notice,  if any, to be given as the court
+deems necessary or proper.
+[(10)] (9)  If the child is an  Indian child, the child’s tribe or Indian custodian may intervene at
+any time as a matter of right.
+CONFORMING AMENDMENTS
+SECTION 12.
+ ORS 109.322 is amended to read:
+109.322. (1) If a parent has been adjudged to be a  person with mental illness under ORS 426.130
+or a person with an  intellectual disability who is in need of commitment for residential care, treat-
+ment and training  under ORS 427.290, and remains so at the time of the adoption proceedings, or
+if a parent is imprisoned in a  state or federal prison under a sentence for a term of not less than
+three years and has actually served three years, the petitioner, in accordance with ORS 109.330,
+shall serve on the parent, if the parent has not consented in writing  to the adoption, a summons and
+a motion  and order to show cause why the adoption of the child should not be ordered without the
+parent’s consent.
+(2) In the case of a parent adjudged to be a person with mental illness under ORS  426.130 or a
+person with  an intellectual disability who is in need of commitment for residential care, treatment
+and training under ORS 427.290, the  petitioner shall also serve the summons and the motion and
+order to show cause upon the guardian of the parent. If  the parent has no guardian, the court shall
+appoint a guardian ad litem to appear for the parent in the adoption proceedings.
+(3) Upon hearing, except as provided in ORS 109.330  [ (8)] (7)  if the child is an Indian child, if
+the court finds that the adoption is in the best interests of the  child, the consent of the parent who
+is imprisoned or adjudged  to be a person with mental illness or an intellectual disability is not re-
+quired, and the court may proceed regardless of the objection of the parent.
+(4) This section does not apply when consent is given in loco parentis  under ORS 109.325 or
+109.327.
+SECTION 13.
+ ORS 109.323 is amended to read:
+109.323. (1) If the legal custody of  the child has been awarded in marital dissolution proceedings,
+except as provided in ORS 109.330 [ (8)] (7) if the child is an Indian child, the written consent of the
+person to whom  custody of the child has been awarded may be held sufficient by the court. However,
+unless the noncustodial parent consents  to the adoption, the petitioner, in accordance with ORS
+109.330, shall serve on the noncustodial parent a summons and a  motion and order to show cause
+why the proposed adoption should not be ordered without  the noncustodial parent’s consent, and the
+objections of the noncustodial parent shall be heard if appearance is made.
+(2) This section does not  apply when consent is given in loco parentis under ORS 109.325 or
+109.327.
+SECTION 14.  ORS 109.324 is amended to read:
+109.324. (1) If a parent is believed to have willfully deserted the child or neglected without  just
+and sufficient cause to provide proper care and maintenance for the child  for one year next pre-
+ceding the filing of the petition for  adoption, and if the parent does not consent in writing to the
+adoption, the petitioner, in  accordance with ORS 109.330, shall serve on the parent a summons and
+a motion and order to show cause why the adoption of the child should not be ordered without  the
+parent’s consent.
+(2) Upon hearing or  when the parent has failed to file a written answer as required in ORS
+109.330 (3), except as provided in  ORS 109.330 [ (8)] (7)  if the child is an Indian child, if the court
+finds that the parent has willfully deserted the child or  neglected without just and sufficient cause
+to provide proper care and maintenance for the child for one year next preceding the filing of the
+petition for adoption, the consent of the parent at the discretion  of the court is not required and,
+if the court determines that the parent’s consent is  not required, the court may proceed regardless
+of the objection of the parent.
+(3) In determining whether the parent has willfully deserted the child or neglected without just
+and sufficient cause to provide proper care and maintenance for the child, the court may:
+(a) Disregard incidental visitations, communications and contributions; and
+(b) Consider, among other factors the court finds relevant, whether the  custodial parent has
+attempted, without good cause shown, to prevent or to impede contact between the child  and the
+parent whose parental rights would be terminated in an action under this section.
+(4) This section does not apply when consent is given in loco parentis  under ORS 109.325 or
+109.327.
+SECTION 15.
+ ORS 419B.914 is amended to read:
+419B.914. If the child or ward is before the court, the court  has the power to proceed with the
+case without service upon those entitled to service under ORS 419B.812 to  419B.839 if diligent ef-
+forts have failed to reveal the identity or the whereabouts of the person, except that:
+(1) No order entered pursuant to ORS 419B.500, 419B.502, 419B.504, 419B.506 and 419B.508 may
+be entered unless ORS [ 419B.518,] 419B.521, 419B.524 and 419B.812 to 419B.839 are complied with.
+(2) No order for support as provided in ORS  419B.400, 419B.402, 419B.404 and 419B.406 may be
+entered against a person unless that person is served as provided in ORS 419B.812 to 419B.839.
+MISCELLANEOUS
+SECTION 16. The unit captions used in this 2025 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+SECTION 17. Section 9 of this 2025 Act and  the amendments to ORS 109.322, 109.323,
+109.324, 109.326, 109.330, 419B.195, 419B.205, 419B.208, 419B.371, 419B.532, 419B.639, 419B.647
+and 419B.914 by sections 1 to 7 and 10  to 15 of this 2025 Act and the repeal of ORS 419B.518
+by section 8 of this 2025 Act apply to appointments of  counsel made on or after the effective
+date of this 2025 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 109.322, ORS 109.323, ORS 109.324, ORS 109.326, ORS 109.330, ORS 419B.195, ORS 419B.205, ORS 419B.208, ORS 419B.371, ORS 419B.518, ORS 419B.532, ORS 419B.639, ORS 419B.647, ORS 419B.914
+- From bill text (Introduced version): ORS 109.065, ORS 109.070, ORS 109.266, ORS 109.276, ORS 109.285, ORS 109.301, ORS 109.302, ORS 109.322, ORS 109.323, ORS 109.324, ORS 109.325, ORS 109.326, ORS 109.330, ORS 109.350, ORS 135.050, ORS 135.055, ORS 151.216, ORS 151.219, ORS 18.005, ORS 25.011, ORS 418.205, ORS 419B.005, ORS 419B.100, ORS 419B.195, ORS 419B.205, ORS 419B.208, ORS 419B.366, ORS 419B.371, ORS 419B.400, ORS 419B.402, ORS 419B.404, ORS 419B.406, ORS 419B.470, ORS 419B.476, ORS 419B.500, ORS 419B.502, ORS 419B.504, ORS 419B.506, ORS 419B.508, ORS 419B.518, ORS 419B.532, ORS 419B.600, ORS 419B.636, ORS 419B.639, ORS 419B.642, ORS 419B.645, ORS 419B.647, ORS 419B.654, ORS 419B.812, ORS 419B.875, ORS 419B.914, ORS 426.130, ORS 427.290
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `8041221198a65cfee3540d3030ca876e6dcc8861b6a14fa3cff5bbf6cec1c3e8` (snapshot `_meta/snapshots/measure-2025r1-hb3658-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3658/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3658` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

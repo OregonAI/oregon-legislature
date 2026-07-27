@@ -1,0 +1,211 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2704
+title: 'HB 2704 (2025R1): Directs the Department of Corrections to determine the last-known address of
+  adults in custody, if the address is readily known or available to the adult in custody, and to submit
+  the information to the Secretary of State.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2704
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2704/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: fdfa5409f7d94258f26750169c3314c26ba2123c782e264183b2ada52550689e
+snapshot_id: measure-2025r1-hb2704-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 188.010
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2704
+prefix_meaning: House Bill
+catch_line: Directs the Department of Corrections to determine the last-known address of adults in custody,
+  if the address is readily known or available to the adult in custody, and to submit the information
+  to the Secretary of State.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act tells the state to try to find out the last address of persons who\
+  \ are confined in custody and to use that address to create some voting districts in the state. (Flesch\
+  \ Readability Score: 68.8). \n\tDirects the Department of Corrections to determine the last-known address\
+  \ of adults in custody, if the address is readily known or available to the adult in custody, and to\
+  \ submit the information to the Secretary of State. Directs the secretary to adjust the population data\
+  \ reported in the federal decennial census to reflect the residence status of adults in custody before\
+  \ incarceration. \n\tRequires the Legislative Assembly or Secretary of State, whichever is applicable,\
+  \ to reapportion the state into legislative districts based on the adjusted population data. Requires\
+  \ the use of the adjusted population data to apportion county or municipal boundaries."
+relating_to: Relating to redistricting.
+relating_to_full: Relating to redistricting.
+at_the_request_of: null
+lc_number: 3158
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-01-27T10:28:20'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 7174
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 188.010
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2704`.
+
+# HB 2704 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2704, 2025 Regular Session (2025R1)
+- **LC number:** 3158
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-01-27T10:28:20
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 7174 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2704/Introduced>.
+
+## Summary
+
+**Catchline:** Directs the Department of Corrections to determine the last-known address of adults in custody, if the address is readily known or available to the adult in custody, and to submit the information to the Secretary of State.
+
+**Relating to:** Relating to redistricting.
+
+Digest: The Act tells the state to try to find out the last address of persons who are confined in custody and to use that address to create some voting districts in the state. (Flesch Readability Score: 68.8). 
+ Directs the Department of Corrections to determine the last-known address of adults in custody, if the address is readily known or available to the adult in custody, and to submit the information to the Secretary of State. Directs the secretary to adjust the population data reported in the federal decennial census to reflect the residence status of adults in custody before incarceration. 
+ Requires the Legislative Assembly or Secretary of State, whichever is applicable, to reapportion the state into legislative districts based on the adjusted population data. Requires the use of the adjusted population data to apportion county or municipal boundaries.
+
+**RelatingToFull (verbatim upstream field):** Relating to redistricting.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2704
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells the state to try to find out the last address  of persons who are confined
+in custody and to use that address to create some voting districts in  the state. (Flesch Readability
+Score: 68.8).
+Directs the Department of Corrections to determine the last-known address of adults  in custody,
+if the address  is readily known or available to the adult in custody, and to submit the information
+to the Secretary of State. Directs the secretary to adjust the population data reported in the  federal
+decennial census to reflect the residence status of adults in custody before incarceration.
+Requires the Legislative Assembly or Secretary of State, whichever is applicable, to  reapportion
+the state into legislative districts based on the adjusted population data. Requires the  use of the
+adjusted population data to apportion county or municipal boundaries.
+A BILL FOR AN ACT
+Relating to redistricting.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 and 3 of this 2025 Act are added to and made a part of ORS 188.010
+to 188.305.
+SECTION 2. (1) As used in this section:
+(a) “Adult in custody” means a person committed to  the physical and legal custody of the
+Department of Corrections.
+(b) “Date of the census” means the date for which the federal  decennial census reports
+population.
+(c) “Last-known address” means a residential address, other than  a department facility,
+at which an adult in custody resided before incarceration.
+(2) The Department of Corrections shall by rule adopt an electronic filing system to  re-
+cord for each adult in custody:
+(a) The last-known address  of the adult in custody, if the address is readily known or
+available to the adult in custody.
+(b) The race and ethnicity of the adult in custody.
+(c) Whether the adult in custody is over the age of 18 years.
+(3) Not later than May 1 of the year of  the federal decennial census, the department shall
+submit to the Secretary of State:
+(a) A unique identifier for each adult  in custody who was incarcerated on the date of the
+census.
+(b) The address of the facility in which the adult in custody was incarcerated on the date
+of the census.
+(c) All information recorded for each adult in custody under subsection (2)  of this sec-
+tion.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3158
+(4) Not later than 14 days after the publication  of census redistricting data for this state
+by the United States Census Bureau, the Secretary of State shall:
+(a) For each adult in custody determined to have a last-known address  within this state:
+(A) Determine the geographic  units for which population counts are reported in the fed-
+eral decennial census that contain the  address of the facility of incarceration and the last-
+known address of the adult in custody;
+(B) Adjust all relevant population counts  reported in the federal decennial census as if
+the adult in custody had resided at the last-known address of the adult in custody on the date
+of the census; and
+(C) Remove the adult in custody from any population count reported in the federal
+decennial census for the geographic units that include the facility of incarceration.
+(b) For each adult in custody whose address is not known or not in this state:
+(A) Adjust all relevant population  counts reported in the federal decennial census as if
+the adult in custody had resided at an unknown geographic location within this state on the
+date of the census.
+(B) Ensure that the adult in custody  is not represented in any population count reported
+in the federal  decennial census for the geographic units that include the facility of
+incarceration for the adult in custody on the date of the census.
+(5) The Secretary of State may seek the assistance of the United States Census Bureau
+in making the adjustments described in subsection (4) of this section.
+(6) The adjusted population data  prepared by the Secretary of State under this section
+shall be the population data used by the Legislative Assembly or the  Secretary of State,
+whichever is applicable, when apportioning the state into legislative districts. Residents  of
+unknown geographic locations within this state or at residences not  in this state may not
+be used to determine the average population of any geographic unit for purposes of  appor-
+tioning the state into legislative districts.
+(7) The Secretary of State shall request that each federal facility of incarceration  located
+in this state submit the  information described in subsection (2) of this section regarding each
+person incarcerated in the facility.
+(8) The Secretary of  State by rule shall prescribe a form to be used to submit information
+to the secretary as required by this section.
+(9)(a) Except as otherwise provided in  this section, any information provided to the Sec-
+retary of State under this section is confidential. The  name of each adult in custody for
+whom information is submitted to the secretary under this section may not be  linked to the
+information submitted. The name of each adult in  custody is confidential and may not be
+disclosed, except that the information may be aggregated  by geographic unit for the purpose
+of apportioning the state into legislative districts as described in this section.
+(b) The unique identifier described in subsection (3) of this section may not:
+(A) Indicate any identification number otherwise used for the adult in custody; or
+(B) Allow any person,  other than the Department of Corrections, to associate an address
+with an adult in custody.
+SECTION 3.
+(1) The adjusted population data prepared by the Secretary  of State under
+section 2 of this 2025 Act shall be the population data used  to apportion county or municipal
+boundaries. Residents of  unknown geographic locations within this state or at residences
+not in this state may not be used to determine the average  population of any geographic unit
+for purposes of apportioning county or municipal boundaries.
+(2) The adjusted population data prepared by  the Secretary of State under section 2 of
+this 2025 Act shall be used only when apportioning  the state into legislative districts and as
+described in subsection (1) of this section, and may not be used for any other purpose.
+SECTION 4.
+Section 2 of this 2025 Act applies to adults in custody sentenced to the cus-
+tody of the department on or after the effective date of this 2025 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 188.010
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `fdfa5409f7d94258f26750169c3314c26ba2123c782e264183b2ada52550689e` (snapshot `_meta/snapshots/measure-2025r1-hb2704-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2704/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2704` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

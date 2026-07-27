@@ -1,0 +1,163 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1133
+Sponsored by Senator SMITH DB
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act lets counties allow the reuse of some rural buildings as second homes. (Flesch
+Readability Score: 77.8).
+Allows  counties  to approve the alteration, restoration or replacement of certain nonresidential
+structures on rural residential lands for use as an accessory dwelling unit.
+A BILL FOR AN ACT
+Relating to accessory dwelling units; amending ORS 215.495.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 215.495 is amended to read:
+215.495. (1) As used in this section:
+(a) “Accessory dwelling unit” has the meaning given that term in ORS 215.501.
+(b) “Area zoned for rural residential use” has the meaning given that term in ORS 215.501.
+(c) “Single-family dwelling” has the meaning given that term in ORS 215.501.
+(2) Consistent with a county’s comprehensive plan, a county may allow an owner of a lot or
+parcel within an area zoned for rural  residential use to construct one accessory dwelling unit on the
+lot or parcel, provided:
+(a) The lot or parcel is not located within an area designated  as an urban reserve as defined in
+ORS 197A.230;
+(b) The lot or parcel is at least two acres in size;
+(c) One single-family dwelling is sited on the lot or parcel;
+(d) The existing single-family dwelling property on the lot or parcel is  not subject to an order
+declaring it a nuisance or subject to any pending action under ORS 105.550 to 105.600;
+(e) The accessory dwelling unit will comply with all applicable laws and regulations relating  to
+sanitation and wastewater disposal and treatment;
+(f) The accessory dwelling unit will not include more than 900 square feet of usable floor area;
+(g) The  accessory dwelling unit will be located no farther than 100 feet from the existing
+single-family dwelling;
+(h) If the water supply source for  the accessory dwelling unit or associated lands or gardens
+will be a well using water under ORS  537.545 (1)(b) or (d), no portion of the lot or parcel is within
+an area in which new or existing ground water uses under ORS 537.545 (1)(b) or (d) have been  re-
+stricted by the Water Resources Commission;
+(i) No portion of the lot or parcel is within a designated area of critical state concern;
+(j) The lot or parcel is served by a fire protection service  provider with professionals who have
+received training or certification described in ORS 181A.410;
+(k) If the lot or parcel is  in an area identified on the statewide wildfire hazard map described
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4383
+SB 1133
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+in ORS 477.490 as within  the wildland-urban interface, the lot or parcel and accessory dwelling unit
+comply with any applicable minimum defensible space  requirements for wildfire risk reduction es-
+tablished by  the State Fire Marshal under ORS 476.392 and any applicable local requirements for
+defensible space established by a local government pursuant to ORS 476.392;
+(L) The accessory dwelling unit complies with the construction provisions of section  R327 of the
+Oregon Residential Specialty Code, if:
+(A) The  lot or parcel is in an area identified as a high wildfire hazard zone on the statewide
+wildfire hazard map described in ORS 477.490; or
+(B) No statewide wildfire hazard map has been adopted; and
+(m) The county has adopted land use regulations that ensure that:
+(A) The accessory dwelling unit has adequate setbacks from adjacent lands zoned  for resource
+use;
+(B) The accessory dwelling unit has adequate access for firefighting equipment, safe  evacuation
+and staged evacuation areas; and
+(C) If the accessory dwelling  unit is not in an area identified on the statewide wildfire hazard
+map described in ORS 477.490 as within the wildland-urban  interface, the accessory dwelling unit
+complies with the provisions of this section and any applicable  local requirements for defensible
+space established by a local government pursuant to ORS 476.392.
+(3) A county may allow the alteration, restoration  or replacement of a lawfully estab-
+lished nonresidential structure within the  footprint of the existing structure to be used as
+an accessory dwelling unit consistent with this section, except that the  converted accessory
+dwelling unit is not required to comply with subsection (2)(f) or (g) of this section.
+[(3)] (4)  A county may not allow an accessory dwelling  unit allowed under this section to be
+used for vacation occupancy, as defined in ORS 90.100.
+[(4)] (5) A county that allows [ construction of ] an accessory dwelling unit under this  section may
+not approve:
+(a) A subdivision, partition or other division of the lot or parcel so that the existing single-family
+dwelling is situated on a different lot or parcel than the accessory dwelling unit.
+(b) [ Construction of ] An additional accessory dwelling unit on the same lot or parcel.
+[(5)] (6) A county may require that  an accessory dwelling unit [ constructed] allowed under this
+section be served by the same water supply source or water supply system as the  existing single-
+family dwelling, provided such use is allowed for the accessory dwelling unit by  an existing water
+right or a  use under ORS 537.545. If the accessory dwelling unit is served by a well, the [ construction
+of the ] accessory dwelling unit shall maintain all  setbacks from the well required by the Water Re-
+sources Commission or Water Resources Department.
+[(6)] (7)  An existing single-family dwelling and an accessory dwelling unit allowed under this
+section are considered a single  unit for the purposes of calculating exemptions under ORS 537.545
+(1).
+[(7)] (8) Nothing in this section requires a county to allow any accessory  dwelling units in areas
+zoned for rural residential use or prohibits a county from imposing  any additional restrictions on
+accessory dwelling units in areas zoned for rural residential use, including  restrictions on the con-
+struction of garages and outbuildings that support an accessory dwelling unit.
+[2]

@@ -1,0 +1,778 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3046
+title: 'HB 3046 (2025R1): Clarifies that a pharmacist may prescribe, dispense and administer medications
+  for treatment of opioid use disorder.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3046
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3046/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 08ae45af3cba2e2aa2321012366188c01ff3571a8ed90475ab15211826db4134
+snapshot_id: measure-2025r1-hb3046-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 192.553
+  - ORS 414.065
+  - ORS 414.690
+  - ORS 414.766
+  - ORS 475.005
+  - ORS 475.035
+  - ORS 475.752
+  - ORS 475A.210
+  - ORS 677.010
+  - ORS 685.010
+  - ORS 689.005
+  - ORS 689.305
+  - ORS 689.645
+  - ORS 689.649
+  - ORS 689.655
+  - ORS 689.689
+  - ORS 689.696
+  - ORS 689.704
+  - ORS 731.098
+  - ORS 743A.001
+  - ORS 743A.168
+  - ORS 743B.001
+  - ORS 743B.005
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3046
+prefix_meaning: House Bill
+catch_line: Clarifies that a pharmacist may prescribe, dispense and administer medications for treatment
+  of opioid use disorder.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act lets pharmacists prescribe, dispense and administer some medicines.\
+  \ The Act also says some machines have to be registered with the State Board of Pharmacy. (Flesch Readability\
+  \ Score: 60.2). \n\tClarifies that a pharmacist may prescribe, dispense and administer medications for\
+  \ treatment of opioid use disorder. Allows pharmacists to register with the Drug Enforcement Administration\
+  \ of the United States Department of Justice for purposes of prescribing, dispensing and administering\
+  \ medications for treatment of opioid use disorder. Requires certain pharmacy prescription lockers to\
+  \ be registered with the State Board of Pharmacy. Defines \"pharmacy prescription locker.\" \n\tTakes\
+  \ effect on the 91st day following adjournment sine die."
+relating_to: Relating to pharmacy; prescribing an effective date.
+relating_to_full: Relating to pharmacy; creating new provisions; amending ORS 414.766, 475.005 and 689.005
+  and sections 2, 7 and 8, chapter 70, Oregon Laws 2024; and prescribing an effective date.
+at_the_request_of: (at the request of Governor Tina Kotek for State Board of Pharmacy)
+lc_number: 558
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-04-07T10:53:45'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 48797
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 192.553
+  - ORS 414.065
+  - ORS 414.690
+  - ORS 414.766
+  - ORS 475.005
+  - ORS 475.035
+  - ORS 475.752
+  - ORS 475A.210
+  - ORS 677.010
+  - ORS 685.010
+  - ORS 689.005
+  - ORS 689.305
+  - ORS 689.645
+  - ORS 689.649
+  - ORS 689.655
+  - ORS 689.689
+  - ORS 689.696
+  - ORS 689.704
+  - ORS 731.098
+  - ORS 743A.001
+  - ORS 743A.168
+  - ORS 743B.001
+  - ORS 743B.005
+  from_relating_to_full:
+  - ORS 414.766
+  - ORS 475.005
+  - ORS 689.005
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3046`.
+
+# HB 3046 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3046, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for State Board of Pharmacy)
+- **LC number:** 558
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-04-07T10:53:45
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 48797 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3046/Introduced>.
+
+## Summary
+
+**Catchline:** Clarifies that a pharmacist may prescribe, dispense and administer medications for treatment of opioid use disorder.
+
+**Relating to:** Relating to pharmacy; prescribing an effective date.
+
+Digest: The Act lets pharmacists prescribe, dispense and administer some medicines. The Act also says some machines have to be registered with the State Board of Pharmacy. (Flesch Readability Score: 60.2). 
+ Clarifies that a pharmacist may prescribe, dispense and administer medications for treatment of opioid use disorder. Allows pharmacists to register with the Drug Enforcement Administration of the United States Department of Justice for purposes of prescribing, dispensing and administering medications for treatment of opioid use disorder. Requires certain pharmacy prescription lockers to be registered with the State Board of Pharmacy. Defines "pharmacy prescription locker." 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to pharmacy; creating new provisions; amending ORS 414.766, 475.005 and 689.005 and sections 2, 7 and 8, chapter 70, Oregon Laws 2024; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3046
+Introduced and printed pursuant to  House Rule 12.00. Presession filed (at the request of Governor Tina Kotek for
+State Board of Pharmacy)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act lets pharmacists prescribe, dispense and administer  some medicines. The Act
+also says some machines have to be registered with the State Board of  Pharmacy. (Flesch Read-
+ability Score: 60.2).
+Clarifies that a  pharmacist may prescribe, dispense and administer medications for treatment
+of opioid use disorder. Allows pharmacists  to register with the Drug Enforcement Administration
+of the United States Department of Justice for purposes of  prescribing, dispensing and administering
+medications for treatment of opioid use disorder. Requires certain pharmacy prescription lockers  to
+be registered with the State Board of Pharmacy. Defines “pharmacy prescription locker.”
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to pharmacy; creating new  provisions; amending ORS 414.766, 475.005 and 689.005 and
+sections 2, 7 and 8, chapter 70, Oregon Laws 2024; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 414.766, as amended by section 4, chapter 70, Oregon Laws 2024, is  amended
+to read:
+414.766. (1) Notwithstanding ORS 414.065 and 414.690, a coordinated care organization must
+provide behavioral health services to its members that include but  are not limited to all of the fol-
+lowing:
+(a) For a member who is experiencing a behavioral health crisis:
+(A) A behavioral health assessment; and
+(B) Services that are medically necessary to transition the member to a lower level of care;
+(b) At least the minimum level  of services that are medically necessary to treat a member’s
+underlying behavioral  health condition rather than a mere amelioration of current symptoms, such
+as suicidal ideation or psychosis, as determined in  a behavioral health assessment of the member
+or specified in the member’s care plan;
+(c) Treatment of co-occurring behavioral health disorders or medical conditions  in a coordinated
+manner;
+(d) Treatment at the  least intensive and least restrictive level of care that is safe and effective
+and meets the needs of the individual’s condition;
+(e) For all level of care placement decisions, placement at the level of care consistent with  a
+member’s score or assessment using the relevant level of care placement criteria and guidelines;
+(f) If the  level of placement described in paragraph (e) of this subsection is not available,
+placement at the next higher level of care;
+(g) Treatment to maintain functioning or prevent deterioration;
+(h) Treatment for an appropriate duration based on the individual’s particular needs;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 558
+(i) Treatment appropriate to the unique needs of children and adolescents;
+(j) Treatment appropriate to the unique needs of older adults;
+(k) Treatment that is culturally and linguistically appropriate;
+(L) Treatment that is appropriate to the unique needs of gay, lesbian, bisexual  and transgender
+individuals and individuals of any other minority gender identity or sexual orientation;
+(m) Coordinated care and case management as defined by the  Department of Consumer and
+Business Services by rule;
+(n) Mental health wellness appointments as prescribed by the Oregon  Health Authority by rule;
+and
+(o) Medications and refills  of medications prescribed for the treatment of opioid use disorder and
+any co-occurring substance use disorder or mental health condition[ , including early refills as de-
+scribed in section 7, chapter 70, Oregon Laws 2024 ].
+(2) If there is a disagreement about the level of care required  by subsection (1)(e) or (f) of this
+section, a coordinated care  organization shall provide to the behavioral health treatment provider
+full details of the coordinated care organization’s scoring or assessment, to the extent permitted by
+the federal Health  Insurance Portability and Accountability Act privacy regulations, 45 C.F.R. parts
+160 and 164, ORS 192.553 to  192.581 or other state or federal laws limiting the disclosure of health
+information.
+(3) The Oregon Health Authority shall adopt by rule  a list of behavioral health services that
+may not be subject to prior authorization.
+SECTION 2.
+ ORS 475.005, as amended by section 24,  chapter 70, Oregon Laws 2024, and section
+98, chapter 73, Oregon Laws 2024, is amended to read:
+475.005. As used in ORS 475.005 to  475.285 and 475.752 to 475.980, unless the context requires
+otherwise:
+(1) “Abuse” means the repetitive excessive use  of a drug short of dependence, without legal or
+medical supervision, which may have a detrimental effect on the individual or society.
+(2) “Administer” means  the direct application of a controlled substance, whether by injection,
+inhalation, ingestion or any other means, to the body of a patient or research subject by:
+(a) A practitioner or an authorized agent thereof; or
+(b) The patient or research subject at the direction of the practitioner.
+(3) “Administration” means the Drug Enforcement Administration of the United States  Depart-
+ment of Justice, or its successor agency.
+(4) “Agent” means an  authorized person who acts on behalf of or at the direction of a man-
+ufacturer, distributor or dispenser. It  does not include a common or contract carrier, public
+warehouseman or employee of the carrier or warehouseman.
+(5) “Board” means the State Board of Pharmacy.
+(6) “Controlled substance”:
+(a) Means a drug or its immediate precursor  classified in Schedules I through V under the fed-
+eral Controlled Substances Act, 21  U.S.C. 811 to 812, as modified under ORS 475.035. The use of the
+term “precursor” in this paragraph does not control and is not controlled by the use  of the term
+“precursor” in ORS 475.752 to 475.980.
+(b) Does not include:
+(A) The plant Cannabis family Cannabaceae;
+(B) Any part of the plant Cannabis family Cannabaceae, whether growing or not;
+(C) Resin extracted from any part of the plant Cannabis family Cannabaceae;
+(D) The seeds of the plant Cannabis family Cannabaceae;
+(E) Any compound, manufacture, salt, derivative, mixture or preparation of a  plant, part of a
+plant, resin or seed described in this paragraph; or
+(F) Psilocybin or psilocin, but only if and to the  extent that a person manufactures, delivers[ ,]
+or possesses psilocybin, psilocin[ ,] or psilocybin products in  accordance with the provisions of ORS
+475A.210 to 475A.722 and rules adopted under ORS 475A.210 to 475A.722.
+(7) “Counterfeit substance” means a controlled substance or its  container or labeling, which,
+without authorization, bears  the trademark, trade name, or other identifying mark, imprint, number
+or device, or any likeness thereof, of  a manufacturer, distributor or dispenser other than the person
+who in fact manufactured, delivered or dispensed the substance.
+(8) “Deliver”  or “delivery” means the actual, constructive or attempted transfer of, or possession
+with the intent to transfer, other than by administering or dispensing, from  one person to another,
+a controlled substance, whether or not there is an agency relationship.
+(9) “Device” means instruments, apparatus or contrivances, including their components,  parts
+or accessories, intended:
+(a) For use  in the diagnosis, cure, mitigation, treatment or prevention of disease in humans or
+animals; or
+(b) To affect the structure of any function of the body of humans or animals.
+(10) “Dispense” means to deliver a controlled substance to an  ultimate user or research subject
+by or pursuant to the lawful order of a practitioner, and includes the  prescribing, administering,
+packaging, labeling or compounding necessary to prepare the substance for that delivery.
+(11) “Dispenser” means a practitioner who dispenses.
+(12) “Distributor” means a person who delivers.
+(13) “Drug” means:
+(a) Substances recognized as  drugs in the official United States Pharmacopoeia, official
+Homeopathic Pharmacopoeia of  the United States or official National Formulary, or any supplement
+to any of them;
+(b) Substances intended for use in the diagnosis, cure, mitigation, treatment  or prevention of
+disease in humans or animals;
+(c) Substances (other than food) intended to affect the structure  or any function of the body of
+humans or animals; and
+(d) Substances intended for use as a component  of any article specified in paragraph (a), (b) or
+(c) of this subsection; however, the  term does not include devices or their components, parts or ac-
+cessories.
+(14) “Electronically transmitted” or “electronic  transmission” means a communication sent or
+received through technological apparatuses, including computer terminals  or other equipment or
+mechanisms linked by telephone or microwave relays, or any similar apparatus having  electrical,
+digital, magnetic, wireless, optical, electromagnetic or similar capabilities.
+(15) “Manufacture”  means the production, preparation, propagation, compounding, conversion
+or processing  of a controlled substance, either directly or indirectly by extraction from substances
+of natural origin, or independently by means of chemical synthesis, or by a combination of extraction
+and chemical synthesis, and includes any packaging or  repackaging of the substance or labeling or
+relabeling of its container, except that this term does not include  the preparation or compounding
+of a controlled substance:
+(a) By a practitioner as an incident  to administering or dispensing of a controlled substance in
+the course of professional practice; or
+(b) By a practitioner, or by an authorized agent under  the practitioner’s supervision, for the
+purpose of, or as an incident to, research, teaching or chemical analysis and not for sale.
+(16) “Person” includes a government subdivision or agency, business trust, estate, trust or any
+other legal entity.
+(17) “Practitioner” means physician, dentist, veterinarian, scientific  investigator, licensed nurse
+practitioner, physician associate  or other person licensed, registered or otherwise permitted by law
+to dispense, conduct research with respect to or to administer a controlled substance in the  course
+of professional practice or research in this state [ but does not include a pharmacist or a pharmacy ].
+(18) “Prescription” means a written, oral or electronically transmitted direction, given by  a
+practitioner for the preparation and use  of a drug. When the context requires, “prescription” also
+means the drug prepared under such written, oral or electronically  transmitted direction. Any label
+affixed to a drug prepared under written,  oral or electronically transmitted direction shall promi-
+nently display a warning that the removal thereof is prohibited by law.
+(19) “Production”  includes the manufacture, planting, cultivation, growing or harvesting of a
+controlled substance.
+(20) “Research” means an activity conducted by the  person registered with the federal Drug
+Enforcement Administration pursuant to a protocol approved  by the United States Food and Drug
+Administration.
+(21) “Ultimate user” means a person who lawfully possesses a controlled  substance for the use
+of the person or for the use of a member of the household of  the person or for administering to an
+animal owned by the person or by a member of the household of the person.
+(22) “Usable quantity” means:
+(a) An amount of a controlled substance  that is sufficient to physically weigh independent of its
+packaging and that does not fall below the uncertainty of the measuring scale; or
+(b) An amount of a controlled substance that has not  been deemed unweighable, as determined
+by a Department of State Police forensic laboratory, due to the circumstances of  the controlled
+substance.
+(23) “Within 30  feet,” “within 500 feet” and “within 1,000 feet” mean a straight line measure-
+ment in a radius extending for the specified number of feet or less in every direction from a specified
+location or from any point on the boundary line of a specified unit of property.
+SECTION 3.
+ ORS 689.005, as amended by section 5, chapter  17, Oregon Laws 2024, and section
+9, chapter 70, Oregon Laws 2024, is amended to read:
+689.005. As used in this chapter:
+(1) “Administer” means the direct application of a drug or  device whether by injection,
+inhalation, ingestion, or any other means, to the body of a patient or research subject by:
+(a) A practitioner or the practitioner’s authorized agent; or
+(b) The patient or research subject at the direction of the practitioner.
+(2) “Approved  continuing pharmacy education program” means those seminars, classes,
+meetings, workshops and other educational programs on the subject of pharmacy approved by the
+State Board of Pharmacy.
+(3) “Clinical pharmacy agreement” means an agreement between  a pharmacist or pharmacy and
+a health care  organization or a physician as defined in ORS 677.010 or a naturopathic physician as
+defined in ORS 685.010 that permits the pharmacist to engage in the practice of clinical pharmacy
+for the benefit of the patients of the health care organization, physician or naturopathic physician.
+(4) “Continuing pharmacy education” means:
+(a) Professional, pharmaceutical post-graduate education  in the general areas of socio-economic
+and legal aspects of health care;
+(b) The properties and actions of drugs and dosage forms; and
+(c) The etiology, characteristics and therapeutics of the disease state.
+(5) “Continuing pharmacy education unit” means the unit of measurement of  credits for ap-
+proved continuing education courses and programs.
+(6) “Deliver” or “delivery” means  the actual, constructive or attempted transfer of a drug or
+device  other  than by administration from one person to another, whether or not for a consideration.
+(7) “Device”  means an instrument, apparatus, implement, machine, contrivance, implant, in vitro
+reagent or  other similar or related article, including any component part or accessory, which is re-
+quired under federal or state law to be prescribed by a practitioner and dispensed  by a pharmacist.
+(8) “Dispense” or  “dispensing” means the preparation and delivery of a prescription drug pur-
+suant to a lawful order of a practitioner in a suitable  container appropriately labeled for subsequent
+administration to or use by a patient or other individual entitled to receive the prescription drug.
+(9) “Distribute” means the delivery of a drug other than by administering or dispensing.
+(10) “Drug” means:
+(a) Articles recognized as drugs in  the official United States Pharmacopoeia, official National
+Formulary, official Homeopathic  Pharmacopoeia, other drug compendium or any supplement to any
+of them;
+(b) Articles intended for use in the diagnosis, cure, mitigation, treatment  or prevention of dis-
+ease in a human or other animal;
+(c) Articles, other than food, intended to affect the structure or any function of the body of hu-
+mans or other animals; and
+(d) Articles intended for use as a component  of any articles specified in paragraph (a), (b) or (c)
+of this subsection.
+(11) “Drug  order” means a written order, in a hospital or other inpatient care facility, for an
+ultimate user of any drug or device issued and signed by a practitioner, or an order transmitted  by
+other means of communication from a practitioner, that is  immediately reduced to writing by a
+pharmacist, licensed nurse or other practitioner.
+(12) “Drug  outlet” means a pharmacy, nursing home, shelter home, convalescent home, extended
+care facility, drug abuse treatment  center, penal institution, hospital, family planning clinic, student
+health center, retail store, wholesaler, manufacturer, mail-order vendor or other establishment  with
+facilities located within or out of this state that is engaged in dispensing, delivery  or distribution
+of drugs within this state.
+(13) “Drug room” means a secure and  lockable location within an inpatient care facility that
+does not have a licensed pharmacy.
+(14) “Electronically transmitted” or “electronic transmission” means  a communication sent or
+received through technological apparatuses, including  computer terminals or other equipment or
+mechanisms linked by telephone or microwave relays, or similar apparatus having electrical, digital,
+magnetic, wireless, optical, electromagnetic or similar capabilities.
+(15) “Injectable hormonal contraceptive” means a drug composed of a  hormone or a combination
+of hormones that is approved by the United States Food and Drug Administration  to prevent preg-
+nancy and that a health care practitioner administers to the patient by injection.
+(16) “Institutional drug outlet” means hospitals and inpatient care facilities  where medications
+are dispensed  to another health care professional for administration to patients served by the hos-
+pitals or facilities.
+(17) “Intern” means a person who is enrolled in or has completed a course of study at a  school
+or college of pharmacy approved by the board and who is licensed with the board as an intern.
+(18) “Internship” means a  professional experiential program approved by the board under the
+supervision of a licensed pharmacist registered with the board as a preceptor.
+(19) “Labeling” means the process of preparing and affixing of a label to any drug  container
+exclusive, however, of the labeling by a manufacturer, packer or distributor of  a nonprescription
+drug or commercially packaged legend drug or device.
+(20) “Manufacture”  means the production, preparation, propagation, compounding, conversion
+or processing of a  device or a drug, either directly or indirectly by extraction from substances of
+natural origin or independently by means of chemical synthesis or by a combination  of extraction
+and chemical synthesis and includes any packaging or repackaging of the substances or labeling  or
+relabeling of its container, except  that this term does not include the preparation or compounding
+of a drug  by an individual for their own use or the preparation, compounding, packaging or labeling
+of a drug:
+(a) By a practitioner as an incident to administering or dispensing of a drug in the course  of
+professional practice; or
+(b) By a practitioner or  by the practitioner’s authorization under supervision of the practitioner
+for the purpose of or as an incident to research, teaching or chemical analysis and not for sale.
+(21) “Manufacturer” means a person engaged in the manufacture of drugs.
+(22) “Nonprescription drug outlet” means a business or  other establishment that is open to the
+general public for the sale or nonprofit distribution of nonprescription drugs and is registered  under
+ORS 689.305.
+(23) “Nonprescription drugs” means drugs that may be sold without a prescription and that  are
+prepackaged for use  by the consumer and labeled in accordance with the requirements of the stat-
+utes and regulations of this state and the federal government.
+(24) “Person” means an individual, corporation, partnership, association or other legal entity.
+(25) “Pharmacist” means an individual licensed by this state to engage  in the practice of phar-
+macy or to engage in the practice of clinical pharmacy.
+(26) “Pharmacy” means a place that meets the requirements of rules of the  board, is licensed
+and approved by the board where the practice  of pharmacy may lawfully occur and includes
+apothecaries, drug stores, dispensaries, hospital outpatient pharmacies, pharmacy departments and
+prescription laboratories but does not include a place used by a manufacturer or wholesaler.
+(27) “Pharmacy technician” means  a person licensed by the board who assists in the practice
+of pharmacy pursuant to rules of the board.
+(28) “Practice of clinical pharmacy” means:
+(a) The health science discipline in which, in conjunction with the patient’s  other practitioners,
+a pharmacist provides patient care to optimize medication therapy  and to promote disease pre-
+vention and the patient’s health and wellness;
+(b) The provision of patient care  services, including but not limited to post-diagnostic disease
+state management services; and
+(c) The practice of pharmacy by a pharmacist pursuant to a clinical pharmacy agreement.
+(29) “Practice of pharmacy” means:
+(a) The interpretation and evaluation of prescription orders;
+(b) The compounding, dispensing and labeling of drugs and devices, except labeling by a  man-
+ufacturer, packer or distributor of nonprescription drugs and commercially packaged legend  drugs
+and devices;
+(c) The prescribing and administering of vaccines and  immunizations and the providing of pa-
+tient care services pursuant to ORS 689.645;
+(d) The administering of drugs and devices to the extent permitted under ORS 689.655;
+(e) The participation in drug selection and drug utilization reviews;
+(f) The proper  and safe storage of drugs and devices and the maintenance of proper records re-
+garding the safe storage of drugs and devices;
+(g) The responsibility for advising,  where necessary or where regulated, of therapeutic values,
+content, hazards and use of drugs and devices;
+(h) The monitoring of therapeutic response or adverse effect to drug therapy;
+(i) The optimizing of drug therapy through the practice of clinical pharmacy;
+(j) Patient care services, including  medication therapy management and comprehensive
+medication review;
+(k) The offering or  performing of those acts, services, operations or transactions necessary in
+the conduct, operation, management and control of pharmacy;
+(L) The  prescribing and administering of injectable hormonal contraceptives and the prescribing
+and dispensing of self-administered hormonal contraceptives pursuant to ORS 689.689;
+(m) The prescribing and dispensing of emergency refills of insulin  and associated insulin-related
+devices and supplies pursuant to ORS 689.696;
+(n) The prescribing, dispensing and administering of preexposure  prophylactic antiretroviral
+therapies and post-exposure prophylactic antiretroviral therapies, pursuant  to ORS 689.704 and rules
+adopted by the board under ORS 689.645 and 689.704;
+(o) The delegation of tasks to other health care providers who are appropriately trained  and
+authorized to perform the delegated tasks;
+(p) The prescribing [ and], dispensing and administering of [ early refills of ] medication for the
+treatment of  opioid use disorder pursuant to section 7, chapter 70, Oregon Laws 2024  and rules
+adopted under section 7, chapter 70, Oregon Laws 2024 ; and
+(q) The testing for severe  acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and the pre-
+scribing, dispensing and administering of treatment for  SARS-CoV-2 pursuant to section 4, chapter
+17, Oregon Laws 2024, and rules adopted by the board  pursuant to section 4, chapter 17, Oregon
+Laws 2024.
+(30) “Practitioner” means a person licensed and operating within the scope of such license to
+prescribe, dispense, conduct research with respect to or administer drugs  in the course of profes-
+sional practice or research:
+(a) In this state; or
+(b) In another state or territory of the United States  if the person does not reside in Oregon and
+is registered under the federal Controlled Substances Act.
+(31) “Preceptor” means a pharmacist or a person licensed by the board to supervise  the
+internship training of a licensed intern.
+(32) “Prescription drug” or “legend drug” means a drug that is:
+(a) Required by federal law, prior to being dispensed or delivered, to be  labeled with either of
+the following statements:
+(A) “Caution: Federal law prohibits dispensing without prescription”; or
+(B) “Caution: Federal law restricts this  drug to use by or on the order of a licensed
+veterinarian”; or
+(b) Required by any applicable federal or state law or regulation to  be dispensed on prescription
+only or is restricted to use by practitioners only.
+(33) “Prescription” or “prescription drug order” means a written,  oral or electronically trans-
+mitted direction, given by a practitioner authorized  to prescribe drugs, for the preparation and use
+of a drug. When the context requires, “prescription” also means the drug  prepared under such
+written, oral or electronically transmitted direction.
+(34) “Retail drug outlet” means a place used for the conduct of  the retail sale, administering or
+dispensing or compounding of drugs or chemicals or for the administering  or dispensing of pre-
+scriptions and licensed by the board as a  place where the practice of pharmacy may lawfully occur.
+(35) “Self-administered hormonal contraceptive”  means a drug composed of a hormone or a
+combination of hormones  that is approved by the United States Food and Drug Administration to
+prevent pregnancy and that the patient to whom the drug is prescribed may administer to  oneself.
+“Self-administered hormonal contraceptive” includes, but is not limited to, hormonal contraceptive
+patches and hormonal contraceptive pills.
+(36) “Third-party logistics provider” means an entity that:
+(a) Provides or coordinates warehousing of, or other logistics services for, a  product in inter-
+state commerce on behalf of a manufacturer, wholesale distributor or dispenser of the product; and
+(b) Does not take ownership of, or have responsibility to direct the sale or disposition of,  the
+product.
+(37) “Unit  dose” means a sealed single-unit container so designed that the contents are admin-
+istered to the patient  as a single dose, direct from the container. Each unit dose container must bear
+a separate label, be labeled with the name and strength of  the medication, the name of the man-
+ufacturer or distributor,  an identifying lot number and, if applicable, the expiration date of the
+medication.
+(38) “Wholesale  distributor drug outlet” means a person, other than a manufacturer,
+manufacturer’s colicensed partner, third-party logistics provider or  repackager, as defined in 21
+U.S.C. 360eee(16), that is engaged in wholesale distribution, as defined in 21 U.S.C. 353(e)(4).
+SECTION 4.
+ ORS  689.005, as amended by sections 5 and 6, chapter 17, Oregon Laws 2024, and
+section 9, chapter 70, Oregon Laws 2024, is amended to read:
+689.005. As used in this chapter:
+(1) “Administer” means the direct application of a drug or  device whether by injection,
+inhalation, ingestion, or any other means, to the body of a patient or research subject by:
+(a) A practitioner or the practitioner’s authorized agent; or
+(b) The patient or research subject at the direction of the practitioner.
+(2) “Approved  continuing pharmacy education program” means those seminars, classes,
+meetings, workshops and other educational programs on the subject of pharmacy approved by the
+State Board of Pharmacy.
+(3) “Clinical pharmacy agreement” means an agreement between  a pharmacist or pharmacy and
+a health care  organization or a physician as defined in ORS 677.010 or a naturopathic physician as
+defined in ORS 685.010 that permits the pharmacist to engage in the practice of clinical pharmacy
+for the benefit of the patients of the health care organization, physician or naturopathic physician.
+(4) “Continuing pharmacy education” means:
+(a) Professional, pharmaceutical post-graduate education  in the general areas of socio-economic
+and legal aspects of health care;
+(b) The properties and actions of drugs and dosage forms; and
+(c) The etiology, characteristics and therapeutics of the disease state.
+(5) “Continuing pharmacy education  unit” means the unit of measurement of credits for ap-
+proved continuing education courses and programs.
+(6) “Deliver” or “delivery” means the actual, constructive or attempted transfer  of a drug or
+device  other  than by administration from one person to another, whether or not for a consideration.
+(7) “Device”  means an instrument, apparatus, implement, machine, contrivance, implant, in vitro
+reagent or other similar or related article, including any component part or accessory, which is  re-
+quired under federal or state law to be prescribed by a practitioner and dispensed  by a pharmacist.
+(8) “Dispense” or “dispensing” means the preparation and delivery of a prescription  drug pur-
+suant to a lawful order of a practitioner in a suitable  container appropriately labeled for subsequent
+administration to or use by a patient or other individual entitled to receive the prescription drug.
+(9) “Distribute” means the delivery of a drug other than by administering or dispensing.
+(10) “Drug” means:
+(a) Articles recognized as drugs in the official  United States Pharmacopoeia, official National
+Formulary, official Homeopathic Pharmacopoeia, other drug compendium or any supplement  to any
+of them;
+(b) Articles intended for use in the diagnosis, cure, mitigation, treatment  or prevention of dis-
+ease in a human or other animal;
+(c) Articles, other than food, intended to affect the structure or any function of the body of hu-
+mans or other animals; and
+(d) Articles intended for use as a component  of any articles specified in paragraph (a), (b) or (c)
+of this subsection.
+(11) “Drug  order” means a written order, in a hospital or other inpatient care facility, for an
+ultimate user of any drug or device issued and signed by a practitioner, or an order transmitted  by
+other means of communication from a practitioner, that is  immediately reduced to writing by a
+pharmacist, licensed nurse or other practitioner.
+(12) “Drug  outlet” means a pharmacy, nursing home, shelter home, convalescent home, extended
+care facility, drug abuse treatment  center, penal institution, hospital, family planning clinic, student
+health center, retail store, wholesaler, manufacturer, mail-order vendor or other establishment  with
+facilities located within or out of this state that is engaged in dispensing, delivery  or distribution
+of drugs within this state.
+(13) “Drug room” means a secure and  lockable location within an inpatient care facility that
+does not have a licensed pharmacy.
+(14) “Electronically transmitted” or “electronic transmission” means  a communication sent or
+received through technological apparatuses, including  computer terminals or other equipment or
+mechanisms linked by telephone or microwave relays, or similar apparatus having electrical, digital,
+magnetic, wireless, optical, electromagnetic or similar capabilities.
+(15) “Injectable hormonal contraceptive” means a drug composed of a  hormone or a combination
+of hormones that is approved by the United States Food and Drug Administration  to prevent preg-
+nancy and that a health care practitioner administers to the patient by injection.
+(16) “Institutional drug outlet” means hospitals and inpatient care facilities  where medications
+are dispensed  to another health care professional for administration to patients served by the hos-
+pitals or facilities.
+(17) “Intern” means a person who is enrolled in or has completed a course of study at a  school
+or college of pharmacy approved by the board and who is licensed with the board as an intern.
+(18) “Internship” means a  professional experiential program approved by the board under the
+supervision of a licensed pharmacist registered with the board as a preceptor.
+(19) “Labeling” means the process of preparing and affixing of a label to any drug  container
+exclusive, however, of the labeling by a manufacturer, packer or distributor of  a nonprescription
+drug or commercially packaged legend drug or device.
+(20) “Manufacture”  means the production, preparation, propagation, compounding, conversion
+or processing of a  device or a drug, either directly or indirectly by extraction from substances of
+natural origin or independently by means of chemical synthesis or by a combination  of extraction
+and chemical synthesis and includes any packaging or repackaging of the substances or labeling  or
+relabeling of its container, except  that this term does not include the preparation or compounding
+of a drug  by an individual for their own use or the preparation, compounding, packaging or labeling
+of a drug:
+(a) By a practitioner as an incident to administering or dispensing of a drug in the course  of
+professional practice; or
+(b) By a practitioner or  by the practitioner’s authorization under supervision of the practitioner
+for the purpose of or as an incident to research, teaching or chemical analysis and not for sale.
+(21) “Manufacturer” means a person engaged in the manufacture of drugs.
+(22) “Nonprescription drug outlet” means a business or  other establishment that is open to the
+general public for the sale or nonprofit distribution of nonprescription drugs and is registered  under
+ORS 689.305.
+(23) “Nonprescription drugs” means drugs that may be sold without a prescription and that  are
+prepackaged for use  by the consumer and labeled in accordance with the requirements of the stat-
+utes and regulations of this state and the federal government.
+(24) “Person” means an individual, corporation, partnership, association or other legal entity.
+(25) “Pharmacist” means an individual licensed by this state to engage  in the practice of phar-
+macy or to engage in the practice of clinical pharmacy.
+(26) “Pharmacy” means a place that meets the requirements of rules of the  board, is licensed
+and approved by the board where the practice  of pharmacy may lawfully occur and includes
+apothecaries, drug stores, dispensaries, hospital outpatient pharmacies, pharmacy departments and
+prescription laboratories but does not include a place used by a manufacturer or wholesaler.
+(27) “Pharmacy technician” means  a person licensed by the board who assists in the practice
+of pharmacy pursuant to rules of the board.
+(28) “Practice of clinical pharmacy” means:
+(a) The health science discipline in which, in conjunction with the patient’s  other practitioners,
+a pharmacist provides patient care to optimize medication therapy  and to promote disease pre-
+vention and the patient’s health and wellness;
+(b) The provision of patient care  services, including but not limited to post-diagnostic disease
+state management services; and
+(c) The practice of pharmacy by a pharmacist pursuant to a clinical pharmacy agreement.
+(29) “Practice of pharmacy” means:
+(a) The interpretation and evaluation of prescription orders;
+(b) The compounding, dispensing and labeling of drugs and devices, except labeling by a  man-
+ufacturer, packer or distributor of nonprescription drugs and commercially packaged legend  drugs
+and devices;
+(c) The prescribing and administering of vaccines and  immunizations and the providing of pa-
+tient care services pursuant to ORS 689.645;
+(d) The administering of drugs and devices to the extent permitted under ORS 689.655;
+(e) The participation in drug selection and drug utilization reviews;
+(f) The proper  and safe storage of drugs and devices and the maintenance of proper records re-
+garding the safe storage of drugs and devices;
+(g) The responsibility for advising,  where necessary or where regulated, of therapeutic values,
+content, hazards and use of drugs and devices;
+(h) The monitoring of therapeutic response or adverse effect to drug therapy;
+(i) The optimizing of drug therapy through the practice of clinical pharmacy;
+(j) Patient care services, including  medication therapy management and comprehensive
+medication review;
+(k) The offering or  performing of those acts, services, operations or transactions necessary in
+the conduct, operation, management and control of pharmacy;
+(L) The  prescribing and administering of injectable hormonal contraceptives and the prescribing
+and dispensing of self-administered hormonal contraceptives pursuant to ORS 689.689;
+(m) The prescribing and dispensing of emergency refills of insulin  and associated insulin-related
+devices and supplies pursuant to ORS 689.696;
+(n) The prescribing, dispensing and administering of preexposure  prophylactic antiretroviral
+therapies and post-exposure prophylactic antiretroviral therapies, pursuant  to ORS 689.704 and rules
+adopted by the board under ORS 689.645 and 689.704;
+(o) The delegation of tasks to other health care providers who are appropriately trained  and
+authorized to perform the delegated tasks; and
+(p) The prescribing [ and], dispensing and administering of [ early refills of ] medication for the
+treatment of  opioid use disorder pursuant to section 7, chapter 70, Oregon Laws 2024  and rules
+adopted pursuant to section 7, chapter 70, Oregon Laws 2024 .
+(30) “Practitioner” means a person licensed and operating within the scope of such license to
+prescribe, dispense, conduct research with respect  to or administer drugs in the course of profes-
+sional practice or research:
+(a) In this state; or
+(b) In another state or territory of the United States  if the person does not reside in Oregon and
+is registered under the federal Controlled Substances Act.
+(31) “Preceptor”  means a pharmacist or a person licensed by the board to supervise the
+internship training of a licensed intern.
+(32) “Prescription drug” or “legend drug” means a drug that is:
+(a) Required by federal law,  prior to being dispensed or delivered, to be labeled with either of
+the following statements:
+(A) “Caution: Federal law prohibits dispensing without prescription”; or
+(B) “Caution: Federal law restricts this drug to use by or on the order of a licensed
+veterinarian”; or
+(b) Required by any applicable federal or state law or regulation to  be dispensed on prescription
+only or is restricted to use by practitioners only.
+(33) “Prescription” or “prescription drug  order” means a written, oral or electronically trans-
+mitted direction, given by a practitioner authorized to prescribe  drugs, for the preparation and use
+of a drug. When  the context requires, “prescription” also means the drug prepared under such
+written, oral or electronically transmitted direction.
+(34) “Retail drug outlet” means a place used for the conduct of  the retail sale, administering or
+dispensing or compounding of drugs  or chemicals or for the administering or dispensing of pre-
+scriptions and licensed by the board as a  place where the practice of pharmacy may lawfully occur.
+(35) “Self-administered hormonal contraceptive” means a drug composed of a  hormone or a
+combination of hormones that is approved by the United States Food and Drug  Administration to
+prevent pregnancy  and that the patient to whom the drug is prescribed may administer to oneself.
+“Self-administered hormonal contraceptive” includes, but is not limited to, hormonal contraceptive
+patches and hormonal contraceptive pills.
+(36) “Third-party logistics provider” means an entity that:
+(a) Provides or coordinates  warehousing of, or other logistics services for, a product in inter-
+state commerce on behalf of a manufacturer, wholesale distributor or dispenser of the product; and
+(b) Does  not take ownership of, or have responsibility to direct the sale or disposition of, the
+product.
+(37) “Unit dose” means a sealed single-unit container so designed that the contents are  admin-
+istered to the patient  as a single dose, direct from the container. Each unit dose container must bear
+a separate label, be labeled with the name  and strength of the medication, the name of the man-
+ufacturer or distributor, an identifying lot number and, if applicable, the expiration date  of the
+medication.
+(38) “Wholesale  distributor drug outlet” means a person, other than a manufacturer,
+manufacturer’s colicensed partner, third-party logistics provider or  repackager, as defined in 21
+U.S.C. 360eee(16), that is engaged in wholesale distribution, as defined in 21 U.S.C. 353(e)(4).
+SECTION 5.
+ Section 2, chapter 70, Oregon Laws 2024, is amended to read:
+Sec. 2.  (1) As used in this section:
+(a) “Group health insurance” has the meaning given that term in ORS 731.098.
+(b) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+(c) “Substance use disorder” has the meaning given that term in the fifth  edition of the Diag-
+nostic and Statistical Manual  of Mental Disorders published by the American Psychiatric Associ-
+ation.
+(d) “Utilization review” has the meaning given that term in ORS 743B.001.
+(2) Notwithstanding any provision of ORS  743A.168, an issuer of group health insurance or an
+individual health benefit plan, other than a health plan that is subject to 42 U.S.C. 18011:
+(a) May not impose a requirement for prior authorization or any  other form of utilization review
+for the reimbursement of a covered medication  approved by the United States Food and Drug Ad-
+ministration that  is prescribed for the purpose of treating a substance use disorder, including but
+not limited to opioid addiction and opioid withdrawal.
+(b) Shall reimburse the  cost of refills of medications described in paragraph (a) of this subsection
+if dispensed by a licensed health  care professional who is legally authorized to dispense such
+medications[ , including early refills described in section 7 of this 2024 Act ].
+(3) Subsection (2) of this section applies to  any form of buprenorphine, including but not limited
+to sublingual, tablet or injectable forms.
+(4) This section does  not prohibit prior authorization or other utilization review for opioids or
+opiates prescribed for a purpose other than medication-assisted treatment or the treatment of opiate
+abuse or addiction.
+(5) This section does not prohibit utilization review for the purpose of:
+(a) Auditing claims for improper payments, fraud or abuse; or
+(b) Reasonable periodic redeterminations about the need for continuing care.
+(6) Coverage under this section may be  subject to the same terms and conditions that apply to
+other benefits under the plan  except for utilization review as provided in subsection (2) of this sec-
+tion.
+(7) This section is exempt from ORS 743A.001.
+SECTION 6.
+ Section 7, chapter 70, Oregon Laws 2024, is amended to read:
+Sec. 7.  [ (1) As used in this section: ]
+[(a) “Early refill” means: ]
+[(A) Up  to three refills of a current prescription for a medication that a patient has lost or that
+has been stolen or destroyed; or ]
+[(B) One refill in a 12-month period of a medication  for which the previous prescription expired in
+the prior 12-month period. ]
+[(b) “Refill” means a supply of a medication consistent with the amount  specified in the most recent
+prescription for the medication. ]
+[(2) A pharmacist may prescribe and dispense to a  patient, to the extent permitted by federal law,
+an early refill of a medication  for the treatment of opioid use disorder in accordance with subsection
+(3) of this section. ]
+[(3) A pharmacist who prescribes and dispenses early refills under this section shall: ]
+[(a) Complete a patient assessment to determine whether the prescription is appropriate; ]
+[(b) Document the patient visit and include notations  regarding evidence of the patient’s previous
+prescription from the patient’s licensed health care provider, information relating to the patient’s
+treatment and other relevant information; and ]
+[(c) Notify the patient’s  primary care provider, and the licensed health care provider who made the
+previous prescription, of  the pharmacist’s dispensing of early refills, to the extent permitted by state and
+federal law.]
+[(4) Notations in  a record documenting evidence of a patient’s previous prescription under sub-
+section (3)(b) of this section constitute verification of a valid prescription. ]
+[(5) The State Board of Pharmacy shall adopt rules to carry out  this section, including but not
+limited to rules to allow a: ]
+[(a) Pharmacist to apply for  and obtain a registration number from the Drug Enforcement Ad-
+ministration of the United States Department of Justice as a mid-level practitioner; and ]
+[(b) Pharmacy to store on the premises medications for the treatment of opioid use disorder. ]
+[(6) In adopting rules to carry out this section, the  board shall consult with the Public Health and
+Pharmacy Formulary Advisory Committee described in ORS 689.649. ]
+(1) A pharmacist may prescribe, dispense and administer to a patient,  to the extent al-
+lowed by federal law, medications for the treatment  of opioid use disorder in accordance with
+rules adopted by the State Board of  Pharmacy pursuant to ORS 689.645 relating to pre-
+scriptions issued by pharmacists and rules adopted under subsection (3) of this section.
+(2) A pharmacist may register  with the Drug Enforcement Administration of the United
+States Department of Justice as a mid-level  practitioner for the purpose of prescribing, dis-
+pensing and administering medications for the treatment of opioid  use disorder under this
+section.
+(3) The board may adopt rules to carry out this section.
+SECTION 7.
+ Section 8, chapter 70, Oregon Laws 2024, is amended to read:
+Sec. 8.  (1) As used in this section, “ pharmacy prescription [ drug] locker” means a mechanical
+device that serves as an extension of a retail drug outlet’s will call or point of sale area  in which
+completed  patient-specific  prescription drugs[ , devices and related supplies ] and nonprescription
+drugs, devices and related supplies are stored for pickup.
+(2) A pharmacy prescription [ drug] locker located within this state and at the same physical
+address as the retail drug outlet with which the prescription drug locker is associated[ :]
+[(a)] is considered part of the retail drug outlet and is not required to [ obtain a  license or reg-
+istration from ] be registered with the State Board of Pharmacy[ ; and ]
+[(b) Is not required to obtain a registration from the Drug  Enforcement Administration of the
+United States Department of Justice ].
+(3) A pharmacy prescription [ drug] locker located within this state but at a physical address
+other than the physical address of the retail drug outlet with which  the pharmacy prescription
+[drug] locker is associated [ is considered a remote dispensing site pharmacy and must obtain a  regis-
+tration from the Drug Enforcement Administration  in order to dispense controlled substances ] must
+be registered with the board .
+(4) The board may adopt rules to carry out this section.
+SECTION 8.
+(1) The amendments to ORS 414.766, 475.005 and 689.005 and  sections 2, 7 and
+8, chapter 70, Oregon Laws 2024, by sections 1 to 7 of this  2025 Act become operative on
+January 1, 2026.
+(2) The State  Board of Pharmacy may take any action before the operative date specified
+in subsection (1) of this section that is necessary to enable the board  to exercise, on and
+after the operative date specified in  subsection (1) of this section, all of the duties, functions
+and powers conferred on the  board by the amendments to ORS 414.766, 475.005 and 689.005
+and sections 2, 7 and 8, chapter 70, Oregon Laws 2024, by sections 1 to 7 of this 2025 Act.
+SECTION 9. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 414.766, ORS 475.005, ORS 689.005
+- From bill text (Introduced version): ORS 192.553, ORS 414.065, ORS 414.690, ORS 414.766, ORS 475.005, ORS 475.035, ORS 475.752, ORS 475A.210, ORS 677.010, ORS 685.010, ORS 689.005, ORS 689.305, ORS 689.645, ORS 689.649, ORS 689.655, ORS 689.689, ORS 689.696, ORS 689.704, ORS 731.098, ORS 743A.001, ORS 743A.168, ORS 743B.001, ORS 743B.005
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `08ae45af3cba2e2aa2321012366188c01ff3571a8ed90475ab15211826db4134` (snapshot `_meta/snapshots/measure-2025r1-hb3046-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3046/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3046` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

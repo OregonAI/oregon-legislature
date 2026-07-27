@@ -1,0 +1,1061 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 692
+Sponsored by Senator REYNOLDS, Representatives GRAYBER, NERON; Senators CAMPOS,
+GELSER BLOUIN, PATTERSON, Representatives CHOTZEN, LEVY E, MARSH,  NELSON,
+NGUYEN H, RIEKE SMITH, RUIZ (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to perinatal services; creating  new provisions; and amending ORS 413.600, 414.025, 414.665,
+414.667, 414.668, 414.669, 676.665, 750.055 and 750.333.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. (1) As used in this section:
+(a) “Doula” has the meaning given that term in ORS 414.025.
+(b) “Lactation counselor” and “lactation educator” have the  meanings given those terms
+in ORS 676.665.
+(c) “Community-based services during  the perinatal period” includes, but is not limited
+to, services provided by a doula, lactation counselor or  lactation educator to a pregnant or
+postpartum individual from conception through one year postpartum.
+(2)(a) The Oregon Health Authority shall establish a community-based perinatal services
+access program to support activities that increase access  to culturally specific and culturally
+competent community-based services during the perinatal period. The program  must issue
+grants to eligible entities with a demonstrated ability to offer  the activities described in this
+subsection, including culturally specific organizations, the nine  federally recognized tribes in
+this state, nonprofit organizations and businesses.
+(b) Grants issued under this section may be used for purposes including,  but not limited
+to:
+(A) Paying for costs of required training and education to provide community-based ser-
+vices during the perinatal period, including tuition, fees,  books and other materials and
+supplies;
+(B) Providing wages and financial benefits for individuals  who are training to provide
+community-based services during the perinatal period;
+(C) Outreach and recruitment to attract individuals to  training programs to provide
+community-based services during the perinatal period;
+(D) Funding for culturally specific organizations and programs to:
+(i) Establish or expand community-based services during the perinatal period;
+(ii) Support billing insurance for community-based services during the perinatal period;
+(iii) Provide training and mentoring for providers of community-based services during the
+perinatal period; and
+(iv) Conduct consumer or  provider education and research regarding community-based
+services during the perinatal period; and
+Enrolled Senate Bill 692 (SB 692-B) Page 1
+(E) Funding to  provide technical assistance related to billing and consumer or provider
+outreach and education to:
+(i) Doulas; and
+(ii) Organizations that employ doulas or contract with doulas to provide doula services.
+(3) An eligible entity that receives a grant  issued under this section may use the grant
+to provide funding to partner entities that are organized  to meet the purposes of the pro-
+gram.
+(4) The  authority may administer the program directly or contract with a third party to
+administer the program. If the authority contracts with a  third party, the third party must
+have experience in implementing state-funded grant programs that  utilize community and
+stakeholder engagement.
+(5) The authority may receive gifts, grants or contributions from any source, whether
+public or  private, to carry out the provisions of this section. Moneys received under this
+section shall be  deposited in the Community-Based Perinatal Services Access Fund estab-
+lished under section 2 of this 2025 Act.
+SECTION 2.
+The Community-Based Perinatal Services Access Fund  is established in the
+State Treasury, separate and  distinct from the General Fund. Interest earned by the
+Community-Based Perinatal Services Access Fund shall be credited to  the fund. The fund
+consists of moneys  appropriated to the fund by the Legislative Assembly and gifts, grants
+or other moneys contributed to the fund by any  source, whether public or private. Moneys
+in the fund are continuously appropriated to  the Oregon Health Authority to carry out sec-
+tion 1 of this 2025 Act.
+SECTION 3.  ORS 414.025, as amended by section 5, chapter 18, Oregon Laws 2024,  is amended
+to read:
+414.025. As used in this chapter and ORS chapters 411 and  413, unless the context or a specially
+applicable statutory definition requires otherwise:
+(1)(a) “Alternative payment methodology” means  a payment other than a fee-for-services pay-
+ment, used by coordinated care organizations as compensation for the provision of integrated and
+coordinated health care and services.
+(b) “Alternative payment methodology” includes, but is not limited to:
+(A) Shared savings arrangements;
+(B) Bundled payments; and
+(C) Payments based on episodes.
+(2) “Behavioral health assessment” means an  evaluation by a behavioral health clinician, in
+person or using telemedicine, to determine a patient’s need for immediate crisis stabilization.
+(3) “Behavioral health clinician” means:
+(a) A licensed psychiatrist;
+(b) A licensed psychologist;
+(c) A licensed nurse practitioner with a specialty in psychiatric mental health;
+(d) A licensed clinical social worker;
+(e) A licensed professional counselor or licensed marriage and family therapist;
+(f) A certified clinical social work associate;
+(g) An intern or resident who is  working under a board-approved supervisory contract in a
+clinical mental health field; or
+(h) Any other clinician  whose authorized scope of practice includes mental health diagnosis and
+treatment.
+(4) “Behavioral health crisis” means a disruption in an  individual’s mental or emotional stability
+or functioning resulting in an urgent need for immediate outpatient  treatment in an emergency de-
+partment or admission to a hospital to prevent a serious deterioration in the individual’s mental  or
+physical  health.
+(5) “Behavioral health home” means a mental health disorder or substance  use disorder treat-
+ment organization, as defined by the Oregon  Health Authority by rule, that provides integrated
+Enrolled Senate Bill 692 (SB 692-B) Page 2
+health care to individuals whose primary diagnoses are mental health disorders  or substance use
+disorders.
+(6) “Category  of aid” means assistance provided by the Oregon Supplemental Income Program,
+aid granted under ORS 411.877 to  411.896 and 412.001 to 412.069 or federal Supplemental Security
+Income payments.
+(7) “Community health  worker” means an individual who meets qualification criteria adopted
+by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in an urban or rural community, either for pay or as a volunteer in  association with
+a local health care system;
+(c) To the extent practicable, shares ethnicity, language, socioeconomic status and  life experi-
+ences with the residents of the community the worker serves;
+(d) Assists members of the community to improve their  health and increases the capacity of the
+community to meet the health care needs of its residents and achieve wellness;
+(e) Provides health education and information that is culturally appropriate to the individuals
+being served;
+(f) Assists community residents in receiving the care they need;
+(g) May give peer counseling and guidance on health behaviors; and
+(h) May provide direct services such as first aid or blood pressure screening.
+(8) “Coordinated care organization” means an organization meeting criteria adopted by  the
+Oregon Health Authority under ORS 414.572.
+(9) “Doula” means a trained professional who  provides continuous physical, emotional
+and informational support to an individual during pregnancy, labor  and delivery or the
+postpartum period to help the individual achieve the healthiest and most  satisfying experi-
+ence possible.
+[(9)] (10) “Dually eligible for Medicare and Medicaid” means, with respect to  eligibility for en-
+rollment in a coordinated care organization, that an individual  is eligible for health services funded
+by Title XIX of the Social Security Act and is:
+(a) Eligible for or enrolled in Part A of Title XVIII of the Social Security Act; or
+(b) Enrolled in Part B of Title XVIII of the Social Security Act.
+[(10)(a)] (11)(a) “Family  support specialist” means an individual who meets qualification criteria
+adopted by the authority under ORS 414.665 and who provides supportive services to and  has ex-
+perience parenting a child who:
+(A) Is a current or former consumer of mental health or addiction treatment; or
+(B) Is facing or has faced difficulties in accessing education, health  and wellness services due
+to a mental health or behavioral health barrier.
+(b) A “family support specialist” may be a peer wellness specialist or a peer support specialist.
+[(11)] (12) “Global budget” means  a total amount established prospectively by the Oregon Health
+Authority to be paid to a  coordinated care organization for the delivery of, management of, access
+to and quality of the health care delivered to members of the coordinated care organization.
+[(12)] (13) “Health insurance exchange” or  “exchange” means an American Health Benefit Ex-
+change described in 42 U.S.C. 18031, 18032, 18033 and 18041.
+[(13)] (14) “Health services” means at least so much of each of the following as are  funded by
+the Legislative Assembly based upon the  prioritized list of health services compiled by the Health
+Evidence Review Commission under ORS 414.690:
+(a) Services required by federal law to be included in the state’s medical assistance program in
+order for the program to qualify for federal funds;
+(b) Services provided  by a physician as defined in ORS 677.010, a nurse practitioner licensed
+under ORS 678.375, a behavioral health clinician or other licensed  practitioner within the scope of
+the practitioner’s practice as defined by state law, and ambulance services;
+(c) Prescription drugs;
+(d) Laboratory and X-ray services;
+Enrolled Senate Bill 692 (SB 692-B) Page 3
+(e) Medical equipment and supplies;
+(f) Mental health services;
+(g) Chemical dependency services;
+(h) Emergency dental services;
+(i) Nonemergency dental services;
+(j) Provider services, other than services described in paragraphs (a) to (i), (k), (L) and  (m) of
+this subsection, defined by federal  law that may be included in the state’s medical assistance pro-
+gram;
+(k) Emergency hospital services;
+(L) Outpatient hospital services; and
+(m) Inpatient hospital services.
+[(14)] (15) “Income” has the meaning given that term in ORS 411.704.
+[(15)(a)] (16)(a) “Integrated health care” means care provided to  individuals and their families
+in a patient centered primary care  home or behavioral health home by licensed primary care
+clinicians, behavioral health clinicians and other care  team members, working together to address
+one or more of the following:
+(A) Mental illness.
+(B) Substance use disorders.
+(C) Health behaviors that contribute to chronic illness.
+(D) Life stressors and crises.
+(E) Developmental risks and conditions.
+(F) Stress-related physical symptoms.
+(G) Preventive care.
+(H) Ineffective patterns of health care utilization.
+(b) As used in this subsection, “other care team members” includes but is not limited to:
+(A) Qualified mental health professionals or qualified mental  health associates meeting require-
+ments adopted by the Oregon Health Authority by rule;
+(B) Peer wellness specialists;
+(C) Peer support specialists;
+(D) Community health workers who have completed a state-certified training program;
+(E) Personal health navigators; or
+(F) Other qualified individuals approved by the Oregon Health Authority.
+[(16)] (17) “Investments and savings” means cash, securities  as defined in ORS 59.015, negotiable
+instruments as defined in ORS 73.0104 and such similar investments or savings as  the department
+or the authority may establish by rule that are available to the  applicant or recipient to contribute
+toward meeting the needs of the applicant or recipient.
+[(17)] (18) “Medical assistance” means so  much of the medical, mental health, preventive, sup-
+portive, palliative and remedial care and services as may be prescribed  by the authority according
+to the standards established pursuant to ORS 414.065, including premium assistance under ORS
+414.115 and  414.117, payments made for services provided under an insurance or other contractual
+arrangement and money paid directly to the recipient for the purchase of health  services and for
+services described in ORS 414.710.
+[(18)] (19) “Medical assistance” includes any care or services for  any individual who is a patient
+in a medical institution or any care or services for any individual  who has attained 65 years of age
+or is under 22 years of age,  and who is a patient in a private or public institution for mental dis-
+eases. Except  as  provided in ORS 411.439 and 411.447, “medical assistance” does not include care
+or services for a resident of a nonmedical public institution.
+[(19)] (20) “Patient centered primary  care home” means a health care team or clinic that is or-
+ganized in  accordance with the standards established by the Oregon Health Authority under ORS
+414.655 and that incorporates the following core attributes:
+(a) Access to care;
+(b) Accountability to consumers and to the community;
+Enrolled Senate Bill 692 (SB 692-B) Page 4
+(c) Comprehensive whole person care;
+(d) Continuity of care;
+(e) Coordination and integration of care; and
+(f) Person and family centered care.
+[(20)] (21) “Peer support specialist” means any of the following individuals who meet  qualifica-
+tion criteria adopted by the authority under ORS 414.665 and who  provide supportive services to a
+current or former consumer of mental health or addiction treatment:
+(a) An individual who is a current or former consumer of mental health treatment; or
+(b) An individual who is in recovery, as defined by the Oregon Health Authority by rule,  from
+an addiction disorder.
+[(21)] (22) “Peer wellness specialist” means an individual who meets  qualification criteria
+adopted by the authority under ORS 414.665  and who is responsible for assessing mental health and
+substance use disorder service and support needs of a member of a coordinated care  organization
+through community outreach,  assisting members with access to available services and resources,
+addressing barriers to services and providing education and information  about available resources
+for individuals with mental health or substance use disorders in order  to reduce stigma and dis-
+crimination toward consumers of  mental health and substance use disorder services and to assist the
+member in creating and maintaining recovery, health and wellness.
+[(22)] (23) “Person centered care” means care that:
+(a) Reflects the individual patient’s strengths and preferences;
+(b) Reflects the clinical  needs of the patient as identified through an individualized assessment;
+and
+(c) Is based upon the patient’s goals and will assist the patient in achieving the goals.
+[(23)] (24) “Personal health navigator” means an individual who  meets qualification criteria
+adopted by the authority under ORS  414.665 and who provides information, assistance, tools and
+support to enable a patient to make the best health care decisions in the patient’s particular  cir-
+cumstances and in light of the patient’s needs, lifestyle, combination of conditions  and desired out-
+comes.
+[(24)] (25) “Prepaid managed care health services  organization” means a managed dental care,
+mental health or chemical  dependency organization that contracts with the authority under ORS
+414.654 or with a coordinated care organization on a  prepaid capitated basis to provide health ser-
+vices to medical assistance recipients.
+[(25)] (26) “Quality measure”  means the health outcome and quality measures and benchmarks
+identified by the Health Plan Quality Metrics Committee and  the metrics and scoring subcommittee
+in accordance with ORS 413.017 (4) and 413.022 and the quality metrics  developed by the Behavioral
+Health Committee in accordance with ORS 413.017 (5).
+[(26)(a)] (27)(a) “Quality of life in general measure” means an assessment of the value, effec-
+tiveness or cost-effectiveness of a treatment that gives  greater value to a year of life lived in perfect
+health than the value given to a year of life lived in less than perfect health.
+(b) “Quality of life in general measure” does  not mean an assessment of the value, effectiveness
+or cost-effectiveness  of a treatment during a clinical trial in which a study participant is asked to
+rate the participant’s physical function, pain, general health, vitality,  social functions or other sim-
+ilar domains.
+[(27)] (28) “Resources” has the meaning given that term in  ORS 411.704. For eligibility purposes,
+“resources”  does  not include charitable contributions raised by a community to assist with medical
+expenses.
+[(28)] (29) “Social determinants of health” means:
+(a) Nonmedical factors that influence health outcomes;
+(b) The conditions in which individuals are born, grow, work, live and age; and
+(c) The forces and  systems that shape the conditions of daily life, such as economic policies and
+systems, development agendas, social norms, social policies, racism, climate change  and political
+systems.
+Enrolled Senate Bill 692 (SB 692-B) Page 5
+[(29)] (30) “Tribal traditional health worker” means an individual who meets qualification cri-
+teria adopted by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in a tribal community or an urban Indian community, either for pay or as a  volunteer
+in association with a local health care system;
+(c) To the extent practicable, shares ethnicity, language, socioeconomic status and  life experi-
+ences with the residents of the community the worker serves;
+(d) Assists members of the community to improve their health, including  physical, behavioral
+and oral health, and increases  the capacity of the community to meet the health care needs of its
+residents and achieve wellness;
+(e) Provides health education and information that is culturally appropriate to the individuals
+being served;
+(f) Assists community residents in receiving the care they need;
+(g) May give peer counseling and guidance on health behaviors; and
+(h) May provide direct services, such as tribal-based practices.
+[(30)(a)] (31)(a) “Youth support specialist” means an individual who meets qualification criteria
+adopted by the authority under ORS 414.665 and who, based  on a similar life experience, provides
+supportive services to an individual who:
+(A) Is not older than 30 years of age; and
+(B)(i) Is a current or former consumer of mental health or addiction treatment; or
+(ii) Is facing or has faced difficulties in accessing education, health and wellness  services due
+to a mental health or behavioral health barrier.
+(b) A “youth support specialist” may be a peer wellness specialist or a peer support specialist.
+SECTION 4.
+ ORS 414.025, as amended by section  2, chapter 628, Oregon Laws 2021, and section
+6, chapter 18, Oregon Laws 2024, is amended to read:
+414.025. As used in this chapter and ORS chapters 411 and  413, unless the context or a specially
+applicable statutory definition requires otherwise:
+(1)(a) “Alternative payment methodology” means a payment other  than a fee-for-services pay-
+ment, used by coordinated care organizations as compensation for the provision of integrated and
+coordinated health care and services.
+(b) “Alternative payment methodology” includes, but is not limited to:
+(A) Shared savings arrangements;
+(B) Bundled payments; and
+(C) Payments based on episodes.
+(2) “Behavioral health assessment” means an evaluation by  a behavioral health clinician, in
+person or using telemedicine, to determine a patient’s need for immediate crisis stabilization.
+(3) “Behavioral health clinician” means:
+(a) A licensed psychiatrist;
+(b) A licensed psychologist;
+(c) A licensed nurse practitioner with a specialty in psychiatric mental health;
+(d) A licensed clinical social worker;
+(e) A licensed professional counselor or licensed marriage and family therapist;
+(f) A certified clinical social work associate;
+(g) An intern or resident who is working under  a board-approved supervisory contract in a
+clinical mental health field; or
+(h) Any other clinician  whose authorized scope of practice includes mental health diagnosis and
+treatment.
+(4) “Behavioral health crisis” means a disruption in an  individual’s mental or emotional stability
+or functioning resulting in an urgent  need for immediate outpatient treatment in an emergency de-
+partment or  admission to a hospital to prevent a serious deterioration in the individual’s mental or
+physical health.
+Enrolled Senate Bill 692 (SB 692-B) Page 6
+(5) “Behavioral health home”  means a mental health disorder or substance use disorder treat-
+ment organization, as defined by the Oregon Health  Authority by rule, that provides integrated
+health care to individuals  whose primary diagnoses are mental health disorders or substance use
+disorders.
+(6) “Category  of aid” means assistance provided by the Oregon Supplemental Income Program,
+aid granted under ORS 411.877 to  411.896 and 412.001 to 412.069 or federal Supplemental Security
+Income payments.
+(7) “Community health  worker” means an individual who meets qualification criteria adopted
+by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in an urban or rural community, either for pay or as a volunteer in  association with
+a local health care system;
+(c) To the extent practicable, shares ethnicity, language, socioeconomic status and  life experi-
+ences with the residents of the community the worker serves;
+(d) Assists members of the community to improve their  health and increases the capacity of the
+community to meet the health care needs of its residents and achieve wellness;
+(e) Provides health education and information that is culturally appropriate to the individuals
+being served;
+(f) Assists community residents in receiving the care they need;
+(g) May give peer counseling and guidance on health behaviors; and
+(h) May provide direct services such as first aid or blood pressure screening.
+(8) “Coordinated care organization” means an organization meeting criteria adopted by  the
+Oregon Health Authority under ORS 414.572.
+(9) “Doula” means a trained professional who  provides continuous physical, emotional
+and informational support to an individual during pregnancy, labor  and delivery or the
+postpartum period to help the individual achieve the healthiest and most  satisfying experi-
+ence possible.
+[(9)] (10) “Dually eligible for Medicare and Medicaid” means, with respect to  eligibility for en-
+rollment in a coordinated care organization, that an individual  is eligible for health services funded
+by Title XIX of the Social Security Act and is:
+(a) Eligible for or enrolled in Part A of Title XVIII of the Social Security Act; or
+(b) Enrolled in Part B of Title XVIII of the Social Security Act.
+[(10)(a)] (11)(a) “Family  support specialist” means an individual who meets qualification criteria
+adopted by the authority under ORS 414.665 and who provides supportive services to and  has ex-
+perience parenting a child who:
+(A) Is a current or former consumer of mental health or addiction treatment; or
+(B) Is facing or has faced difficulties in accessing education, health  and wellness services due
+to a mental health or behavioral health barrier.
+(b) A “family support specialist” may be a peer wellness specialist or a peer support specialist.
+[(11)] (12) “Global budget” means  a total amount established prospectively by the Oregon Health
+Authority to be paid to a  coordinated care organization for the delivery of, management of, access
+to and quality of the health care delivered to members of the coordinated care organization.
+[(12)] (13) “Health insurance exchange” or  “exchange” means an American Health Benefit Ex-
+change described in 42 U.S.C. 18031, 18032, 18033 and 18041.
+[(13)] (14) “Health services” means at least so much of each of the following as are  funded by
+the Legislative Assembly based upon the  prioritized list of health services compiled by the Health
+Evidence Review Commission under ORS 414.690:
+(a) Services required by federal law to be included in the state’s medical assistance program in
+order for the program to qualify for federal funds;
+(b) Services provided  by a physician as defined in ORS 677.010, a nurse practitioner licensed
+under ORS 678.375, a behavioral health clinician or other licensed  practitioner within the scope of
+the practitioner’s practice as defined by state law, and ambulance services;
+Enrolled Senate Bill 692 (SB 692-B) Page 7
+(c) Prescription drugs;
+(d) Laboratory and X-ray services;
+(e) Medical equipment and supplies;
+(f) Mental health services;
+(g) Chemical dependency services;
+(h) Emergency dental services;
+(i) Nonemergency dental services;
+(j) Provider services, other than services described in paragraphs (a) to (i), (k), (L) and  (m) of
+this subsection, defined by federal  law that may be included in the state’s medical assistance pro-
+gram;
+(k) Emergency hospital services;
+(L) Outpatient hospital services; and
+(m) Inpatient hospital services.
+[(14)] (15) “Income” has the meaning given that term in ORS 411.704.
+[(15)(a)] (16)(a) “Integrated health care” means care provided to  individuals and their families
+in a patient centered primary care  home or behavioral health home by licensed primary care
+clinicians, behavioral health clinicians and other care  team members, working together to address
+one or more of the following:
+(A) Mental illness.
+(B) Substance use disorders.
+(C) Health behaviors that contribute to chronic illness.
+(D) Life stressors and crises.
+(E) Developmental risks and conditions.
+(F) Stress-related physical symptoms.
+(G) Preventive care.
+(H) Ineffective patterns of health care utilization.
+(b) As used in this subsection, “other care team members” includes but is not limited to:
+(A) Qualified mental health professionals or qualified mental  health associates meeting require-
+ments adopted by the Oregon Health Authority by rule;
+(B) Peer wellness specialists;
+(C) Peer support specialists;
+(D) Community health workers who have completed a state-certified training program;
+(E) Personal health navigators; or
+(F) Other qualified individuals approved by the Oregon Health Authority.
+[(16)] (17) “Investments and savings” means cash, securities  as defined in ORS 59.015, negotiable
+instruments as defined in ORS 73.0104 and such similar investments or savings as  the department
+or the authority may establish by rule that are available to the  applicant or recipient to contribute
+toward meeting the needs of the applicant or recipient.
+[(17)] (18) “Medical assistance” means so  much of the medical, mental health, preventive, sup-
+portive, palliative and remedial care and services as may be prescribed  by the authority according
+to the standards established pursuant to ORS 414.065, including premium assistance under ORS
+414.115 and  414.117, payments made for services provided under an insurance or other contractual
+arrangement and money paid directly to the recipient for the purchase of health  services and for
+services described in ORS 414.710.
+[(18)] (19) “Medical assistance” includes any care or services for  any individual who is a patient
+in a medical institution or any care or services for any individual  who has attained 65 years of age
+or is under 22 years of age,  and who is a patient in a private or public institution for mental dis-
+eases. Except  as  provided in ORS 411.439 and 411.447, “medical assistance” does not include care
+or services for a resident of a nonmedical public institution.
+[(19)] (20) “Mental health drug” means a type  of legend drug, as defined in ORS 414.325, speci-
+fied by the Oregon Health Authority by rule, including but not limited to:
+(a) Therapeutic class 7 ataractics-tranquilizers; and
+Enrolled Senate Bill 692 (SB 692-B) Page 8
+(b) Therapeutic class 11 psychostimulants-antidepressants.
+[(20)] (21) “Patient centered primary  care home” means a health care team or clinic that is or-
+ganized in  accordance with the standards established by the Oregon Health Authority under ORS
+414.655 and that incorporates the following core attributes:
+(a) Access to care;
+(b) Accountability to consumers and to the community;
+(c) Comprehensive whole person care;
+(d) Continuity of care;
+(e) Coordination and integration of care; and
+(f) Person and family centered care.
+[(21)] (22) “Peer support specialist” means any of the following individuals who meet  qualifica-
+tion criteria adopted by the authority under ORS 414.665 and who  provide supportive services to a
+current or former consumer of mental health or addiction treatment:
+(a) An individual who is a current or former consumer of mental health treatment; or
+(b) An individual who is in recovery, as defined by the Oregon Health Authority by rule,  from
+an addiction disorder.
+[(22)] (23) “Peer wellness specialist” means an individual who meets  qualification criteria
+adopted by the authority under ORS 414.665  and who is responsible for assessing mental health and
+substance use disorder service and support needs of a member of a coordinated care  organization
+through community outreach,  assisting members with access to available services and resources,
+addressing barriers to services and providing education and information  about available resources
+for individuals with mental health or substance use disorders in order  to reduce stigma and dis-
+crimination toward consumers of  mental health and substance use disorder services and to assist the
+member in creating and maintaining recovery, health and wellness.
+[(23)] (24) “Person centered care” means care that:
+(a) Reflects the individual patient’s strengths and preferences;
+(b) Reflects the clinical  needs of the patient as identified through an individualized assessment;
+and
+(c) Is based upon the patient’s goals and will assist the patient in achieving the goals.
+[(24)] (25) “Personal health navigator” means an individual who  meets qualification criteria
+adopted by the authority under ORS  414.665 and who provides information, assistance, tools and
+support to enable a patient to make the best health care decisions in the patient’s particular  cir-
+cumstances and in light of the patient’s needs, lifestyle, combination of conditions  and desired out-
+comes.
+[(25)] (26) “Prepaid managed care health services  organization” means a managed dental care,
+mental health or chemical  dependency organization that contracts with the authority under ORS
+414.654 or with a coordinated care organization on a  prepaid capitated basis to provide health ser-
+vices to medical assistance recipients.
+[(26)] (27) “Quality measure”  means the health outcome and quality measures and benchmarks
+identified by the Health Plan Quality Metrics Committee and  the metrics and scoring subcommittee
+in accordance with ORS 413.017 (4) and 413.022 and the quality metrics  developed by the Behavioral
+Health Committee in accordance with ORS 413.017 (5).
+[(27)(a)] (28)(a) “Quality of life in general measure” means an assessment of the value, effec-
+tiveness or cost-effectiveness of a treatment that gives  greater value to a year of life lived in perfect
+health than the value given to a year of life lived in less than perfect health.
+(b) “Quality of life in general measure” does  not mean an assessment of the value, effectiveness
+or cost-effectiveness  of a treatment during a clinical trial in which a study participant is asked to
+rate the participant’s physical function, pain, general health, vitality,  social functions or other sim-
+ilar domains.
+[(28)] (29) “Resources” has the meaning given that term in  ORS 411.704. For eligibility purposes,
+“resources”  does  not include charitable contributions raised by a community to assist with medical
+expenses.
+Enrolled Senate Bill 692 (SB 692-B) Page 9
+[(29)] (30) “Social determinants of health” means:
+(a) Nonmedical factors that influence health outcomes;
+(b) The conditions in which individuals are born, grow, work, live and age; and
+(c) The forces and  systems that shape the conditions of daily life, such as economic policies and
+systems, development agendas,  social norms, social policies, racism, climate change and political
+systems.
+[(30)] (31) “Tribal traditional health worker” means an individual who meets qualification  cri-
+teria adopted by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in a tribal community or an urban Indian community, either for pay or as a  volunteer
+in association with a local health care system;
+(c) To the extent practicable, shares ethnicity, language, socioeconomic status and  life experi-
+ences with the residents of the community the worker serves;
+(d) Assists members of the community to improve their health, including  physical, behavioral
+and oral health, and increases  the capacity of the community to meet the health care needs of its
+residents and achieve wellness;
+(e) Provides health education and information that is culturally appropriate to the individuals
+being served;
+(f) Assists community residents in receiving the care they need;
+(g) May give peer counseling and guidance on health behaviors; and
+(h) May provide direct services, such as tribal-based practices.
+[(31)(a)] (32)(a) “Youth support specialist” means an individual who meets qualification criteria
+adopted by the authority under ORS 414.665 and who, based  on a similar life experience, provides
+supportive services to an individual who:
+(A) Is not older than 30 years of age; and
+(B)(i) Is a current or former consumer of mental health or addiction treatment; or
+(ii) Is facing or has faced difficulties in accessing education, health and wellness  services due
+to a mental health or behavioral health barrier.
+(b) A “youth support specialist” may be a peer wellness specialist or a peer support specialist.
+SECTION 5.
+ ORS 414.665 is amended to read:
+414.665. (1) As used in this section, “traditional health worker” includes any of the following:
+(a) A community health worker.
+(b) A personal health navigator.
+(c) A peer wellness specialist.
+(d) A peer support specialist.
+(e) A doula.
+(f) A tribal traditional health worker.
+(2) In consultation with the Traditional Health Workers Commission established  under ORS
+413.600, the Oregon Health Authority, for purposes  related to the regulation of traditional health
+workers, shall adopt by rule:
+(a) The qualification criteria, including education and training requirements,  for the traditional
+health workers utilized by coordinated care organizations , including distinct qualification criteria
+for birth doulas and postpartum doulas ;
+(b) Appropriate professional designations for supervisors of the traditional health workers; and
+(c) Processes by which other occupational classifications may be approved to supervise the tra-
+ditional health workers.
+(3) The criteria and requirements established under subsection (2) of this section:
+(a) Must be broad enough to encompass  the potential unique needs of any coordinated care or-
+ganization;
+(b) Must meet requirements of the Centers for Medicare and Medicaid Services to  qualify for
+federal financial participation; and
+(c) May not require certification by the Home Care Commission.
+Enrolled Senate Bill 692 (SB 692-B) Page 10
+SECTION 6.  ORS 414.667 is amended to read:
+414.667. As used in ORS 414.667[ , 414.668 and] to 414.669[,]:
+(1) “Doula” [ means an individual who meets criteria for a doula adopted by the Oregon Health
+Authority in accordance with ORS 414.665 ] has the meaning given that term in ORS 414.025 .
+(2) “Lactation counselor” has the meaning given that term in ORS 676.665.
+(3) “Lactation educator” has the meaning given that term in ORS 676.665.
+SECTION 7.
+ ORS 414.668 is amended to read:
+414.668. (1) In determining the types and extent of  health care and services to be provided
+to medical assistance recipients under ORS 414.065,  the Oregon Health Authority and a co-
+ordinated care organization shall ensure that recipients have  access to services provided by
+doulas, lactation counselors and lactation educators.
+(2) The services described in subsection (1) of this section must:
+(a) Include a minimum of 24 hours of services, in  addition to labor and delivery services,
+regardless of  birth outcome, with an option for the authority or a coordinated care organ-
+ization to approve additional hours based on need;
+(b) Be sufficient to support recipients’ robust maternal health  and support positive birth
+outcomes; and
+(c) Be provided:
+(A) By an individual or organization from the community of  the recipient, using lan-
+guage, structures and settings familiar to members of the community; or
+(B) If an individual or organization from the community  of the recipient is not available,
+by a provider that has received cultural  competency training within the preceding three
+years.
+(3) Access to doulas, lactation counselors and lactation educators:
+(a) Must be made available without a referral from another health care provider; and
+(b) May not require a signature from or supervision  by any other health care provider,
+except as necessary to approve additional  hours based on need as described in subsection
+(2)(a) of this section.
+(4) A coordinated care organization shall make  information about how to access [ doula] services
+provided by a doula, lactation counselor or lactation educator  available  on a website operated
+by or on behalf of the coordinated care organization and  shall provide the information in print
+whenever a printed explanation of benefits is available.
+SECTION 8.
+ ORS 414.669 is amended to read:
+414.669. (1) The Oregon Health Authority, in coordination with the  Traditional Health Workers
+Commission, shall in each even-numbered year review, and revise if necessary, any rates of  re-
+imbursement in the state medical assistance program  for doulas. When reviewing  and revising
+rates of reimbursement, the authority shall consider factors including  retention of doulas  and the
+need to ensure that a career as a doula is  financially sustainable , access to culturally specific
+doulas and evidence-based  factors and empirical studies related to the cost-effectiveness of services
+provided by doulas.
+(2) The authority shall in each even-numbered year review, and revise if necessary, any
+rates of reimbursement in the state medical assistance program for lactation  counselors and
+lactation educators. When  reviewing and revising rates of reimbursement, the authority
+shall consider factors including retention of lactation counselors and lactation educators  and
+the need to ensure that a career as a lactation counselor  or lactation educator is financially
+sustainable, access to culturally  specific lactation counselors and lactation educators and
+evidence-based factors and  empirical studies related to the cost-effectiveness of services
+provided by lactation counselors and lactation educators.
+SECTION 9. Section 10 of this 2025 Act is added to and made  a part of ORS 414.667 to
+414.669.
+SECTION 10. (1) No later than September 15 of each even-numbered year, the Oregon
+Health Authority, in coordination with the Traditional  Health Workers Commission, shall
+Enrolled Senate Bill 692 (SB 692-B) Page 11
+report on the status of doulas in this state, in the manner provided in  ORS 192.245, to the
+interim committees of the Legislative Assembly related to health.
+(2) The report described in  subsection (1) of this section must include information about:
+(a) The number of claims for reimbursement of doulas submitted to  the authority and
+the percentage of those claims that are reimbursed;
+(b) Any barriers experienced by doulas to accessing the claims process;
+(c) The annual increase or decrease in the number of doulas  listed on a registry managed
+by the authority;
+(d) The demographics of the registry of doulas managed by the authority;
+(e) Doula training or certification programs offered in this state;
+(f) The relationship between the registry of doulas managed by the authority and  the
+perceived doula workforce need;
+(g) Recommendations on achieving cultural specificity goals for doula services; and
+(h) Disaggregated birth outcomes for patients with doula support  and without doula
+support.
+SECTION 11.
+ ORS 413.600 is amended to read:
+413.600. (1) There is established within the  Oregon Health Authority the Traditional Health
+Workers Commission.
+(2) The Director of the Oregon Health Authority shall appoint the following 24 members to serve
+on the commission:
+(a) Fourteen members, of which a majority must be appointed from nominees selected by the
+Oregon  Community Health Workers Association, who represent traditional health workers, including
+at least one member to represent each of the following:
+(A) Community health workers, as defined in ORS 414.025;
+(B) Personal health navigators, as defined in ORS 414.025;
+(C) Peer wellness specialists, as defined in ORS 414.025;
+(D) Peer support specialists, as defined in ORS 414.025;
+(E) Doulas , as defined in ORS 414.025 ;
+(F) Family support specialists, as defined in ORS 414.025;
+(G) Youth support specialists, as defined in ORS 414.025; and
+(H) Tribal traditional health workers, as defined in ORS 414.025;
+(b) One member who represents the Office of Community Colleges and Workforce Development;
+(c) One member who is a nurse who represents the Oregon Nurses Association;
+(d) One member who is a physician licensed in this state;
+(e) One member selected from nominees provided by the Home Care Commission;
+(f) One member who represents coordinated care organizations;
+(g) One member who represents a labor organization;
+(h) One member who supervises traditional health workers at  a community-based organization,
+local health department, as defined in ORS 433.235, or agency, as defined in ORS 183.310;
+(i) One member who represents community-based organizations or agencies,  as defined in ORS
+183.310, that provide for the training of traditional health workers;
+(j) One member who represents a consumer of services provided  by health workers who are not
+licensed by this state; and
+(k) One member who represents providers of Indian health  services that work with traditional
+health workers qualified under ORS 414.665, a federally recognized tribe or a tribal organization.
+(3) In appointing members under subsection (2) of this section, the  director shall consider
+whether the composition of the Traditional  Health Workers Commission represents the geographic,
+ethnic, gender, racial, disability status,  gender identity, sexual orientation and economic diversity
+of traditional health workers.
+(4) The term of office of each member of the commission is three years, but a member serves
+at the pleasure of the director. Before the  expiration of the term of a member, the director shall
+appoint a successor whose term begins on January  1 next following. A member is eligible for re-
+Enrolled Senate Bill 692 (SB 692-B) Page 12
+appointment. If there is a  vacancy for any cause, the director shall make an appointment to become
+immediately effective for the unexpired term.
+(5) A majority of the members of the commission constitutes  a quorum for the transaction of
+business.
+(6) Official action by the commission requires the approval of a majority of the members  of the
+commission.
+(7) The commission shall elect one of its members to serve as chairperson.
+(8) The commission  shall meet at times and places specified by the call of the chairperson or
+of a majority of the members of the commission.
+(9) The commission may adopt rules necessary for the operation of the commission.
+(10) A member of the commission is entitled to  compensation and expenses as provided in ORS
+292.495.
+SECTION 12.
+ ORS 676.665 is amended to read:
+676.665. As used in ORS 676.665 to 676.689:
+(1) “Lactation consultant” means a person licensed to practice lactation consultation.
+(2) “Lactation consultation” means the clinical application  of scientific principles and evidence
+to provide care related to lactation to childbearing families. Lactation  consultation includes, but is
+not limited to:
+(a) Client assessment through systematic collection of data;
+(b) Data analysis;
+(c) Creation of a care plan;
+(d) Implementation of the care  plan, including demonstration and instructions to clients and
+communication with the clients’ primary care provider;
+(e) Evaluation of client outcomes;
+(f) Problem identification and treatment;
+(g) Recommendation and use of assistive devices; and
+(h) Lactation education to childbearing families and to health care providers.
+(3) “Lactation counselor” means a person certified by the Academy of Lactation  Policy
+and Practice, or its successor organization, as approved by the  Health Licensing Office by
+rule, as a clinical lactation  care provider who has demonstrated the necessary skills, know-
+ledge and attitude to provide clinical support to families that are thinking, or have questions,
+about breastfeeding or that have problems with breastfeeding.
+(4) “Lactation educator” means a person  certified by the Childbirth and Postpartum
+Professional Association, or its successor organization, as approved by the office by rule,  as
+a certified lactation educator to educate,  counsel and support families by providing
+evidence-based information about lactation and breastfeeding.
+SECTION 13.
+Section 14 of this 2025 Act is added to  and made a part of ORS 676.665 to
+676.689.
+SECTION 14. The Health Licensing Office shall adopt rules to regulate the practice of
+lactation counselors and lactation educators. The rules must include at least rules to:
+(1) Establish continuing education requirements for lactation counselors  and lactation
+educators;
+(2) Establish standards of practice for lactation counselors and lactation educators;
+(3) Establish an authorization for lactation counselors and lactation educators;
+(4) Prohibit the  unauthorized practice as a lactation counselor or lactation educator, and
+prohibit the unauthorized use of the title “lactation counselor” or “lactation educator”; and
+(5) Specify that  a lactation counselor or lactation educator may provide services to a
+client who was pregnant regardless of the client’s birth outcome.
+SECTION 15.
+(1) As used in this section:
+(a) “Doula” has the meaning given that term in ORS 414.025.
+(b) “Lactation counselor” and “lactation educator” have the  meanings given those terms
+in ORS 676.665.
+Enrolled Senate Bill 692 (SB 692-B) Page 13
+(2) To the extent practicable, a doula, lactation counselor or lactation educator  shall
+strive to provide services that are culturally specific, as  defined in ORS 413.256, to a client
+or patient.
+SECTION 16. Section 17  of this 2025 Act is added to and made a part of the Insurance
+Code.
+SECTION 17. (1) As used in this section:
+(a) “Doula” has the meaning given that term in ORS 414.667.
+(b) “Lactation counselor” and “lactation educator” have the  meanings given those terms
+in ORS 676.665.
+(2) A  health benefit plan, as defined in ORS 743B.005, in this state that reimburses the
+cost of pregnancy and childbirth expenses shall provide coverage for services provided by
+doulas, lactation counselors and lactation educators.
+(3) Covered services required under subsection (2) of this section shall include a  mini-
+mum of 24 hours of services, in addition to labor and delivery services, regardless of birth
+outcome, with an  option for the health benefit plan to approve additional hours based on
+need.
+(4) Except for  coverage of additional hours based on need as described in subsection (3)
+of this section, the health benefit plan described in subsection (2) of this section may not
+require prior authorization, a referral from another health care  provider or a signature from
+or supervision by  any other health care provider for coverage of services described in this
+section.
+(5) A health benefit plan that  provides the services described in subsection (2) of this
+section shall provide information on how to access doulas, lactation counselors and lactation
+educators to all enrollees.
+(6) The coverage required  by subsection (2) of this section may be made subject to pro-
+visions of the policy, certificate or contract that apply to other benefits  under the policy,
+certificate or contract, including, but not limited  to, provisions related to deductibles and
+coinsurance.
+(7) The health benefit plan shall reimburse the cost for coverage  of services described in
+this section  up to a total amount that is not less than $3,760. On January 1 of each year, the
+Department of Consumer and Business Services  shall adjust the dollar limit provided by this
+subsection to reflect the percentage changes in the Consumer  Price Index for all Urban
+Consumers, West Region (All Items), as  published by the Bureau of Labor Statistics of the
+United States Department of Labor or a successor agency, and may vary from year to  year.
+(8) This section is exempt from ORS 743A.001.
+SECTION 18.
+ ORS 750.055, as amended by section 3, chapter 24,  Oregon Laws 2024, section 4,
+chapter 35, Oregon Laws 2024, section 21, chapter 70, Oregon Laws 2024, and  section 162, chapter
+73, Oregon Laws 2024, is amended to read:
+750.055. (1) The following provisions apply  to health care service contractors to the extent not
+inconsistent with the express provisions of ORS 750.005 to 750.095:
+(a) ORS 705.137, 705.138 and 705.139.
+(b) ORS 731.004 to 731.150, 731.162, 731.216 to 731.362,  731.382, 731.385, 731.386, 731.390, 731.398
+to 731.430, 731.428, 731.450, 731.454, 731.485, as provided in subsection (2)  of this section, ORS
+731.488, 731.504, 731.508, 731.509, 731.510, 731.511, 731.512, 731.574 to 731.620, 731.640 to  731.652,
+731.730, 731.731, 731.735, 731.737, 731.750, 731.752, 731.804, 731.808 and 731.844 to 731.992.
+(c) ORS 732.215, 732.220, 732.230,  732.245, 732.250, 732.320, 732.325 and 732.517 to 732.596, not
+including ORS 732.582, and ORS 732.650 to 732.689.
+(d) ORS 733.010 to 733.050, 733.080, 733.140 to 733.170, 733.210, 733.510 to 733.680 and  733.695
+to 733.780.
+(e) ORS 734.014 to 734.440.
+(f) ORS 742.001 to 742.009, 742.013, 742.016, 742.061, 742.065, 742.150 to 742.162 and 742.518 to
+742.542.
+Enrolled Senate Bill 692 (SB 692-B) Page 14
+(g) ORS 743.004, 743.005, 743.007, 743.008, 743.010, 743.018, 743.020, 743.022, 743.023, 743.025,
+743.028, 743.029, 743.038, 743.040, 743.044, 743.050, 743.100  to 743.109, 743.402, 743.405, 743.406,
+743.417, 743.472, 743.492, 743.495, 743.498, 743.522, 743.523, 743.524, 743.526, 743.535, 743.550, 743.650
+to 743.656, 743.680 to 743.689, 743.788 and 743.790.
+(h) ORS 743A.010, 743A.012, 743A.014,  743A.020, 743A.034, 743A.036, 743A.040, 743A.044,
+743A.048, 743A.051, 743A.052, 743A.058, 743A.060, 743A.062, 743A.063, 743A.064,  743A.065, 743A.066,
+743A.068, 743A.070, 743A.080, 743A.082, 743A.084, 743A.088, 743A.090, 743A.100, 743A.104, 743A.105,
+743A.108, 743A.110, 743A.124, 743A.140, 743A.141, 743A.148, 743A.150, 743A.160,  743A.168, 743A.169,
+743A.170, 743A.175,  743A.185, 743A.188, 743A.190, 743A.192, 743A.250, 743A.252, 743A.260, 743A.310
+and 743A.315 and section 2, chapter 771, Oregon Laws 2013, and section 2, chapter  70, Oregon Laws
+2024, and section 17 of this 2025 Act .
+(i) ORS 743B.001, 743B.003 to 743B.127, 743B.128, 743B.130, 743B.195,  743B.197, 743B.200,
+743B.202, 743B.204, 743B.220, 743B.221, 743B.222,  743B.225, 743B.227, 743B.250, 743B.252, 743B.253,
+743B.254, 743B.255, 743B.256, 743B.257, 743B.258, 743B.280 to 743B.285, 743B.287, 743B.300, 743B.310,
+743B.320, 743B.323, 743B.330, 743B.340, 743B.341, 743B.342, 743B.343 to 743B.347, 743B.400, 743B.403,
+743B.407, 743B.420, 743B.423, 743B.450, 743B.451, 743B.452,  743B.453, 743B.470, 743B.475, 743B.505,
+743B.550, 743B.555, 743B.601, 743B.602 and 743B.800 and section 2,  chapter 24, Oregon Laws 2024,
+and section 2, chapter 35, Oregon Laws 2024.
+(j) The following provisions of ORS chapter 744:
+(A) ORS 744.052 to 744.089, 744.091 and 744.093, relating to the regulation  of insurance produc-
+ers;
+(B) ORS 744.602 to 744.665, relating to the regulation of insurance consultants; and
+(C) ORS 744.700 to 744.740, relating to the regulation of third party administrators.
+(k) ORS 746.005 to 746.140, 746.160, 746.220 to 746.370, 746.600, 746.605, 746.607, 746.608,  746.610,
+746.615, 746.625, 746.635, 746.650, 746.655, 746.660, 746.668, 746.670, 746.675, 746.680 and 746.690.
+(2) The following provisions of the  Insurance Code apply to health care service contractors ex-
+cept in the case of group practice health maintenance  organizations that are federally qualified
+pursuant to Title XIII of the Public Health Service Act:
+(a) ORS 731.485, if the group practice health maintenance organization  wholly owns and oper-
+ates an in-house drug outlet.
+(b) ORS 743A.024, unless the patient is referred by a physician, physician associate  or nurse
+practitioner associated with a group practice health maintenance organization.
+(3) For the purposes of this section, health care service contractors are insurers.
+(4) Any for-profit health care service contractor organized under the laws of any other state that
+is not governed by the insurance laws  of the other state is subject to all requirements of ORS
+chapter 732.
+(5)(a) A health  care service contractor is a domestic insurance company for the purpose of de-
+termining whether the health care service contractor is a debtor, as defined in 11 U.S.C. 109.
+(b) A health care service contractor’s  classification as a domestic insurance company under
+paragraph (a) of this subsection does not subject the health care service contractor to ORS  734.510
+to 734.710.
+(6) The Director of the Department of Consumer and Business Services  may, after notice and
+hearing, adopt reasonable rules not inconsistent with this section and ORS  750.003, 750.005, 750.025
+and 750.045 that are necessary for the proper administration of these provisions.
+SECTION 19.
+ ORS 750.055, as amended by section 21, chapter 771,  Oregon Laws 2013, section
+7, chapter 25, Oregon Laws 2014, section 82, chapter 45, Oregon Laws 2014, section  9, chapter 59,
+Oregon Laws 2015, section 7, chapter 100, Oregon Laws  2015, section 7, chapter 224, Oregon Laws
+2015, section 11, chapter 362, Oregon Laws 2015, section 10, chapter 470, Oregon Laws  2015, section
+30, chapter 515, Oregon Laws 2015, section  10, chapter 206, Oregon Laws 2017, section 6, chapter
+417, Oregon Laws 2017, section 22, chapter 479, Oregon Laws 2017, section 10, chapter  7, Oregon
+Laws 2018, section 69, chapter  13, Oregon Laws 2019, section 38, chapter 151, Oregon Laws 2019,
+section 5, chapter  441, Oregon Laws 2019, section 85, chapter 97, Oregon Laws 2021, section 12,
+Enrolled Senate Bill 692 (SB 692-B) Page 15
+chapter 37, Oregon Laws 2022, section  5, chapter 111, Oregon Laws 2023, section 2, chapter 152,
+Oregon Laws 2023, section 4, chapter 24, Oregon Laws 2024, section  5, chapter 35, Oregon Laws
+2024, section 22, chapter  70, Oregon Laws 2024, and section 163, chapter 73, Oregon Laws 2024, is
+amended to read:
+750.055. (1) The following provisions apply to health care service  contractors to the extent not
+inconsistent with the express provisions of ORS 750.005 to 750.095:
+(a) ORS 705.137, 705.138 and 705.139.
+(b) ORS 731.004 to 731.150, 731.162, 731.216 to 731.362,  731.382, 731.385, 731.386, 731.390, 731.398
+to 731.430, 731.428, 731.450, 731.454,  731.485, as provided in subsection (2) of this section, ORS
+731.488, 731.504,  731.508, 731.509, 731.510, 731.511, 731.512, 731.574 to 731.620, 731.640 to 731.652,
+731.730, 731.731, 731.735, 731.737, 731.750, 731.752, 731.804, 731.808 and 731.844 to 731.992.
+(c) ORS 732.215, 732.220, 732.230, 732.245, 732.250, 732.320, 732.325 and  732.517 to 732.596, not
+including ORS 732.582, and ORS 732.650 to 732.689.
+(d) ORS  733.010 to 733.050, 733.080, 733.140 to 733.170, 733.210, 733.510 to 733.680 and 733.695
+to 733.780.
+(e) ORS 734.014 to 734.440.
+(f) ORS 742.001 to 742.009, 742.013, 742.016, 742.061, 742.065, 742.150 to 742.162 and 742.518 to
+742.542.
+(g) ORS 743.004, 743.005, 743.007, 743.008, 743.010, 743.018, 743.020, 743.022, 743.023, 743.025,
+743.028, 743.029, 743.038, 743.040, 743.044, 743.050,  743.100 to 743.109, 743.402, 743.405, 743.406,
+743.417, 743.472, 743.492, 743.495, 743.498, 743.522, 743.523, 743.524, 743.526, 743.535, 743.550, 743.650
+to 743.656, 743.680 to 743.689, 743.788 and 743.790.
+(h) ORS 743A.010, 743A.012, 743A.014,  743A.020, 743A.034, 743A.036, 743A.040, 743A.044,
+743A.048, 743A.051, 743A.052, 743A.058, 743A.060, 743A.062, 743A.063, 743A.064,  743A.065, 743A.066,
+743A.068, 743A.070, 743A.080, 743A.082, 743A.084, 743A.088, 743A.090, 743A.100, 743A.104, 743A.105,
+743A.108, 743A.110, 743A.124, 743A.140, 743A.141, 743A.148, 743A.150, 743A.160,  743A.168, 743A.169,
+743A.170, 743A.175,  743A.185, 743A.188, 743A.190, 743A.192, 743A.250, 743A.252, 743A.260, 743A.310
+and 743A.315 and section 2, chapter 70, Oregon Laws 2024 , and section 17 of this 2025 Act .
+(i) ORS 743B.001, 743B.003 to 743B.127, 743B.128, 743B.130, 743B.195,  743B.197, 743B.200,
+743B.202, 743B.204, 743B.220, 743B.221, 743B.222,  743B.225, 743B.227, 743B.250, 743B.252, 743B.253,
+743B.254, 743B.255, 743B.256, 743B.257, 743B.258, 743B.280 to 743B.285, 743B.287, 743B.300, 743B.310,
+743B.320, 743B.323, 743B.330, 743B.340, 743B.341, 743B.342, 743B.343 to 743B.347, 743B.400, 743B.403,
+743B.407, 743B.420, 743B.423, 743B.450, 743B.451, 743B.452,  743B.453, 743B.470, 743B.475, 743B.505,
+743B.550, 743B.555, 743B.601, 743B.602 and 743B.800 and section 2,  chapter 24, Oregon Laws 2024,
+and section 2, chapter 35, Oregon Laws 2024.
+(j) The following provisions of ORS chapter 744:
+(A) ORS 744.052 to 744.089, 744.091 and 744.093, relating to the regulation  of insurance produc-
+ers;
+(B) ORS 744.602 to 744.665, relating to the regulation of insurance consultants; and
+(C) ORS 744.700 to 744.740, relating to the regulation of third party administrators.
+(k) ORS 746.005 to 746.140, 746.160, 746.220 to 746.370, 746.600, 746.605, 746.607, 746.608,  746.610,
+746.615, 746.625, 746.635, 746.650, 746.655, 746.660, 746.668, 746.670, 746.675, 746.680 and 746.690.
+(2) The following provisions of the  Insurance Code apply to health care service contractors ex-
+cept in the case of group practice health maintenance  organizations that are federally qualified
+pursuant to Title XIII of the Public Health Service Act:
+(a) ORS 731.485, if the group practice health maintenance organization  wholly owns and oper-
+ates an in-house drug outlet.
+(b) ORS 743A.024, unless the patient is referred by a physician, physician associate  or nurse
+practitioner associated with a group practice health maintenance organization.
+(3) For the purposes of this section, health care service contractors are insurers.
+Enrolled Senate Bill 692 (SB 692-B) Page 16
+(4) Any for-profit health care service contractor organized under the laws of any other state that
+is not governed by the insurance laws  of the other state is subject to all requirements of ORS
+chapter 732.
+(5)(a) A health care service contractor is a domestic insurance company for the purpose  of de-
+termining whether the health care service contractor is a debtor, as defined in 11 U.S.C. 109.
+(b) A health care service contractor’s classification as  a domestic insurance company under
+paragraph (a) of this subsection does not subject the health care service contractor to ORS  734.510
+to 734.710.
+(6) The Director of the  Department of Consumer and Business Services may, after notice and
+hearing, adopt reasonable rules not inconsistent with this section and ORS  750.003, 750.005, 750.025
+and 750.045 that are necessary for the proper administration of these provisions.
+SECTION 20. ORS 750.333, as amended by section  5, chapter 24, Oregon Laws 2024, and section
+23, chapter 70, Oregon Laws 2024, is amended to read:
+750.333. (1) The following provisions apply to trusts carrying  out a multiple employer welfare
+arrangement:
+(a) ORS 705.137, 705.138 and 705.139.
+(b) ORS 731.004 to 731.150, 731.162, 731.216 to 731.268, 731.296 to 731.316, 731.324, 731.328,
+731.378, 731.386, 731.390, 731.398, 731.406, 731.410,  731.414, 731.418 to 731.434, 731.454, 731.484,
+731.486, 731.488, 731.512, 731.574 to 731.620,  731.640 to 731.652, 731.804, 731.808 and 731.844 to
+731.992.
+(c) ORS 733.010 to  733.050, 733.140 to 733.170, 733.210, 733.510 to 733.680 and 733.695 to 733.780.
+(d) ORS 734.014 to 734.440.
+(e) ORS 742.001 to 742.009, 742.013, 742.016, 742.061 and 742.065.
+(f) ORS 743.004, 743.005, 743.007,  743.008, 743.010, 743.018, 743.020, 743.023, 743.028, 743.029,
+743.053, 743.405, 743.406, 743.524, 743.526, 743.535 and 743B.221.
+(g) ORS 743A.010, 743A.012, 743A.014, 743A.020,  743A.024, 743A.034, 743A.036, 743A.040,
+743A.048, 743A.051, 743A.052, 743A.058, 743A.060, 743A.062, 743A.063, 743A.064,  743A.065, 743A.066,
+743A.068, 743A.070, 743A.080, 743A.082, 743A.084, 743A.088, 743A.090, 743A.100, 743A.104, 743A.105,
+743A.108, 743A.110, 743A.124, 743A.140, 743A.141, 743A.148, 743A.150, 743A.160,  743A.168, 743A.169,
+743A.170, 743A.175,  743A.180, 743A.185, 743A.188, 743A.190, 743A.192, 743A.250, 743A.252, 743A.260
+and 743A.310 and section 2, chapter 70, Oregon Laws 2024 , and section 17 of this 2025 Act .
+(h) ORS 743B.001, 743B.003 to 743B.127 (except 743B.125 to 743B.127), 743B.195, 743B.197,
+743B.200, 743B.202, 743B.204, 743B.220, 743B.222,  743B.225, 743B.227, 743B.250, 743B.252, 743B.253,
+743B.254, 743B.255, 743B.256, 743B.257, 743B.258, 743B.310,  743B.320, 743B.321, 743B.330, 743B.340,
+743B.341, 743B.342, 743B.343, 743B.344, 743B.345,  743B.347, 743B.400, 743B.403, 743B.407, 743B.420,
+743B.423, 743B.451, 743B.453, 743B.470, 743B.505, 743B.550, 743B.555  and 743B.601 and section 2,
+chapter 24, Oregon Laws 2024.
+(i) The following provisions of ORS chapter 744:
+(A) ORS 744.052 to  744.089, 744.091 and 744.093, relating to the regulation of insurance produc-
+ers;
+(B) ORS 744.602 to 744.665, relating to the regulation of insurance consultants; and
+(C) ORS 744.700 to 744.740, relating to the regulation of third party administrators.
+(j) ORS 746.005 to 746.140, 746.160 and 746.220 to 746.370.
+(2) For the purposes of this section:
+(a) A trust carrying out a multiple employer welfare arrangement is an insurer.
+(b) References to certificates of authority are references to certificates of multiple employer
+welfare arrangement.
+(c) Contributions are premiums.
+(3) The  provision of health benefits under ORS 750.301 to 750.341 is the transaction of health
+insurance.
+(4) The Department of Consumer and Business Services may adopt rules that  are necessary to
+implement the provisions of ORS 750.301 to 750.341.
+Enrolled Senate Bill 692 (SB 692-B) Page 17
+SECTION 21. The Department of Consumer and  Business Services shall issue guidance
+on the implementation of section 17 of this 2025 Act, including alignment with the rules and
+requirements for doulas, lactation counselors and lactation educators as described by  the
+Oregon Health Authority.
+SECTION 22.
+There is appropriated to the Oregon Health  Authority, for the biennium
+beginning July 1, 2025, out of  the General Fund, the amount of $1,000,000, for deposit in the
+Community-Based Perinatal Services Access Fund established in section 2  of this 2025 Act,
+for the purpose of carrying out the provisions of section 1 of this 2025 Act.
+SECTION 23. (1) The amendments to ORS 414.668 and 414.669  by sections 7 and 8 of this
+2025 Act apply to contracts between coordinated care organizations and the  Oregon Health
+Authority entered into, amended or renewed on or after the effective date of this 2025 Act.
+(2) Section 17 of this 2025  Act and the amendments to ORS 750.055 and 750.333 by sections
+18 to 20 of this 2025 Act apply to health benefit plans, health  care service contracts and
+multiple employer welfare arrangements issued, renewed or  extended on or after the effec-
+tive date of this 2025 Act.
+SECTION 24. Section 21 of this 2025 Act is repealed on January 2, 2027.
+SECTION 25. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Health  Authority by section 1 (1), chapter ___, Oregon Laws 2025 (En-
+rolled House Bill 5025), for the biennium beginning July 1, 2025,  for Medicaid, is increased by
+$1,851,146 for carrying out the provisions of sections 1, 10, 14  and 17 of this 2025 Act and the
+amendments to ORS 414.668 and 414.669 by sections 7 and 8 of this 2025 Act.
+SECTION 26. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 5 (1), chapter ___, Oregon Laws 2025 (Enrolled House Bill
+5025), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from federal funds, excluding federal funds described in section 2, chapter ___, Oregon Laws
+2025 (Enrolled House Bill 5025), collected or received by  the Oregon Health Authority, for
+Medicaid, is increased by $2,072,116 for carrying out the provisions  of sections 1, 10, 14 and
+17 of this 2025 Act and the amendments to ORS 414.668  and 414.669 by sections 7 and 8 of this
+2025 Act.
+SECTION 27.
+Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Health Authority by section 1 (6), chapter ___,  Oregon Laws 2025 (En-
+rolled House Bill 5025), for the biennium beginning July  1, 2025, for central services, is in-
+creased by $360,099 for carrying out  the provisions of sections 1, 10, 14 and 17 of this 2025
+Act and the amendments to ORS 414.668 and 414.669 by sections 7 and 8 of this 2025 Act.
+SECTION 28. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 2 (8), chapter ___, Oregon Laws 2025 (Enrolled  House Bill
+5025), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from fees,  moneys or other revenues, including Miscellaneous Receipts and federal funds
+received from  charges, but excluding lottery funds and federal funds not described in section
+2, chapter ___, Oregon Laws 2025 (Enrolled House Bill  5025), collected or received by the
+Oregon Health Authority, for central services, is  increased by $31,510 for carrying out the
+provisions of sections 1, 10, 14 and 17 of this 2025 Act  and the amendments to ORS 414.668
+and 414.669 by sections 7 and 8 of this 2025 Act.
+SECTION 29. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 5 (6), chapter ___, Oregon Laws 2025 (Enrolled  House Bill
+5025), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from federal funds, excluding federal funds described in section 2, chapter ___, Oregon Laws
+2025 (Enrolled House Bill 5025), collected  or received by the Oregon Health Authority, for
+central services, is increased  by $58,517 for carrying out the provisions of sections 1, 10, 14
+and 17 of this 2025 Act and the amendments to ORS 414.668 and 414.669 by sections 7 and  8
+of this 2025 Act.
+Enrolled Senate Bill 692 (SB 692-B) Page 18
+SECTION 30. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Health Authority by section 1 (4), chapter ___,  Oregon Laws 2025 (En-
+rolled House Bill 5025), for the biennium beginning  July 1, 2025, for public health, is increased
+by $407,812 for carrying  out the provisions of sections 1, 10, 14 and 17 of this 2025 Act and
+the amendments to ORS 414.668 and 414.669 by sections 7 and 8 of this 2025 Act.
+SECTION 31. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (5), chapter ___, Oregon Laws 2025 (Enrolled House Bill
+5025), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from fees, moneys or other revenues, including Miscellaneous Receipts and federal  funds
+received from  charges, but excluding lottery funds and federal funds not described in section
+2, chapter ___, Oregon Laws 2025 (Enrolled  House Bill 5025), collected or received by the
+Oregon Health Authority, for public health, is increased by $140,965 for carrying out  the
+provisions of sections 1, 10, 14 and  17 of this 2025 Act and the amendments to ORS 414.668
+and 414.669 by sections 7 and 8 of this 2025 Act.
+SECTION 32. Notwithstanding any other law limiting expenditures,  the amount of
+$1,000,000 is established for the biennium beginning July 1, 2025, as the maximum limit  for
+payment of expenses by the Oregon Health Authority for carrying  out the provisions of
+section 1 of this 2025 Act, from the Community-Based Perinatal Services Access Fund es-
+tablished in section 2 of this 2025 Act.
+SECTION 33.
+Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Health Authority by section 1 (3), chapter ___,  Oregon Laws 2025 (En-
+rolled House Bill 5025), for the  biennium beginning July 1, 2025, for health policy and ana-
+lytics, is increased by $158,308 for carrying out the provisions of sections 1,  10, 14 and 17 of
+this 2025 Act and the amendments to ORS 414.668 and 414.669 by sections 7 and 8 of this 2025
+Act.
+SECTION 34. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 5 (3), chapter ___, Oregon Laws 2025 (Enrolled  House Bill
+5025), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from federal funds, excluding federal funds described in section 2, chapter ___, Oregon Laws
+2025 (Enrolled House Bill 5025), collected  or received by the Oregon Health Authority, for
+health policy and analytics, is increased by $27,940 for carrying out the  provisions of sections
+1, 10, 14 and 17 of this 2025  Act and the amendments to ORS 414.668 and 414.669 by sections
+7 and 8 of this 2025 Act.
+SECTION 35.
+Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Health  Authority by section 1 (7), chapter ___, Oregon Laws 2025 (En-
+rolled House Bill 5025), for the biennium beginning July  1, 2025, for state assessments and
+enterprise-wide costs, is increased by $23,312 for  carrying out the provisions of sections 1,
+10, 14 and 17 of this 2025 Act and the amendments to ORS 414.668 and 414.669 by sections  7
+and 8 of this 2025 Act.
+SECTION 36. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 2 (9), chapter ___, Oregon Laws 2025 (Enrolled  House Bill
+5025), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from fees,  moneys or other revenues, including Miscellaneous Receipts and federal funds
+received from  charges, but excluding lottery funds and federal funds not described in section
+2, chapter ___, Oregon Laws 2025 (Enrolled House Bill  5025), collected or received by the
+Oregon Health Authority,  for state assessments and enterprise-wide costs, is increased by
+$2,393 for carrying out the provisions of sections 1, 10, 14 and 17 of this  2025 Act and the
+amendments to ORS 414.668 and 414.669 by sections 7 and 8 of this 2025 Act.
+SECTION 37. Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 5 (7), chapter ___, Oregon Laws 2025 (Enrolled  House Bill
+5025), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from federal funds, excluding federal funds described in section 2, chapter ___, Oregon Laws
+Enrolled Senate Bill 692 (SB 692-B) Page 19
+2025 (Enrolled House Bill 5025), collected  or received by the Oregon Health Authority, for
+state assessments and enterprise-wide costs, is increased by $13,330 for carrying out  the
+provisions of sections 1, 10, 14 and  17 of this 2025 Act and the amendments to ORS 414.668
+and 414.669 by sections 7 and 8 of this 2025 Act.
+SECTION 38. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Department of  Human Services by section 1 (2), chapter ___, Oregon Laws 2025
+(Enrolled Senate Bill 5526), for the biennium beginning July 1, 2025, for state assessments
+and enterprise-wide costs, is increased by $33,627.
+SECTION 39.
+Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 2 (2), chapter ___, Oregon Laws 2025 (Enrolled Senate  Bill
+5526), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from fees, moneys  or other revenues, including Miscellaneous Receipts and Medicare receipts
+and including federal funds for indirect  cost recovery, Social Security Supplemental Security
+Income recoveries and the Child Care and  Development Fund, but excluding lottery funds
+and federal funds not described in section  2, chapter ___, Oregon Laws 2025 (Enrolled Senate
+Bill 5526), collected or received by the Department of Human Services, for state assessments
+and enterprise-wide costs, is increased by $1,252.
+SECTION 40.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 3 (2), chapter ___, Oregon Laws 2025 (Enrolled Senate Bill
+5526), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from federal funds, excluding federal funds described in section 2, chapter ___, Oregon Laws
+2025 (Enrolled Senate Bill 5526), collected or  received by the Department of Human Services,
+for state assessments and enterprise-wide costs, is increased by $31,034.
+SECTION 41.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 2 (8), chapter ___, Oregon Laws 2025 (Enrolled Senate Bill
+5526), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from fees, moneys  or other revenues, including Miscellaneous Receipts and Medicare receipts
+and including federal funds for indirect  cost recovery, Social Security Supplemental Security
+Income recoveries and the Child Care and  Development Fund, but excluding lottery funds
+and federal funds not described in section  2, chapter ___, Oregon Laws 2025 (Enrolled Senate
+Bill 5526), collected or received by the Department  of Human Services, for shared services,
+is increased by $94,870.
+Enrolled Senate Bill 692 (SB 692-B) Page 20
+Passed by Senate June 23, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 26, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 692 (SB 692-B) Page 21

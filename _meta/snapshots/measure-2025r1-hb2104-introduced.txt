@@ -1,0 +1,50 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2104
+Sponsored by Representative OSBORNE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes manslaughter to include when a person delivers drugs and it  results
+in death. (Flesch Readability Score: 63.6).
+Expands the crime of manslaughter in the second degree to include circumstances in which  a
+person delivers a  controlled substance to another person on two or more occasions and the delivery
+results in the death of the other person.
+A BILL FOR AN ACT
+Relating to manslaughter in the second degree; amending ORS 163.125.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 163.125 is amended to read:
+163.125. (1) Criminal homicide constitutes manslaughter in the second degree when:
+(a) It is committed recklessly;
+(b) A person intentionally causes or aids another person to commit suicide; [ or]
+(c) A person, with criminal negligence, causes the death of a child under 14 years  of age or a
+dependent person, as defined in ORS 163.205, and:
+(A) The person has previously engaged in a pattern or practice of assault or torture of the vic-
+tim or another child under 14 years of age or a dependent person; or
+(B) The person causes the death by neglect or maltreatment, as defined in ORS 163.115[ .]; or
+(d) A person knowingly delivers a controlled substance in Schedule  I or Schedule II to
+another person on two or more occasions, and the delivery results in the death of the other
+person from the use of the controlled substance.
+(2) Manslaughter in the second degree is a Class B felony.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 125

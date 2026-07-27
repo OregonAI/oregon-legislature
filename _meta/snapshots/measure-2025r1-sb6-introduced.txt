@@ -1,0 +1,100 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 6
+Sponsored by Senator ANDERSON
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Says an application for a building permit must be acted on not  later than 45 days after
+it is done. (Flesch Readability Score: 63.8).
+Requires the Department of  Consumer and Business Services, a municipality, a building official
+or any other agency or official responsible for administering and enforcing the state  building code
+to approve and  issue, or disapprove and deny, any application for a building permit not later than
+45 business days after the date on which the applicant submits a complete application.
+Declares that an  application for a building permit is approved if the department, a municipality,
+a building official or any  other agency or official fails to deny or act upon the application within
+the allowable period.  Requires prompt issuance of the building permit in such circumstances. Makes
+the department, municipality, building official or other agency or official that fails to promptly  issue
+the building permit liable to the applicant for the fees the applicant paid  and the costs the applicant
+incurred in preparing the application.
+A BILL FOR AN ACT
+Relating to a deadline within which to act upon an application  for a building permit; creating new
+provisions; and amending ORS 455.050.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 455.050 is amended to read:
+455.050. (1) All building permits issued in  this state [ shall contain the following information ]
+must list:
+[(1)] (a)  The name and address of the owner of the building or  structure to be constructed or
+altered under the permit;
+[(2)] (b)  The name and  address of the builder or contractor, if known, who will perform the
+construction or alteration; and
+[(3)] (c)  The street address and legal description or tax lot  number of the property on which
+construction or alteration will occur.
+(2)(a) Notwithstanding any other condition  that applies to issuing a building permit in
+this state, the Department of Consumer and Business Services, a  municipality, a building
+official or any other agency or official  responsible for administering and enforcing the state
+building code shall approve and issue, or disapprove  and deny, any application for a building
+permit not later than 45 business  days after the date on which the applicant submits a
+complete application.
+(b) If the department,  a municipality, a building official or any other agency or official
+responsible for  administering and enforcing the state building code does not disapprove or
+otherwise act on an application for a building permit within the period described in paragraph
+(a) of this subsection, the building  permit is approved and the department, municipality,
+building official or other agency or official shall issue the building permit to the applicant
+promptly.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4622
+SB 6
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+(c) If the department, a  municipality, a building official or any other agency or official
+responsible for administering and enforcing the state building code does  not promptly issue
+a building permit under the circumstances described in paragraph (b) of this  subsection, the
+department, municipality, building official or other agency  or official is liable to the applicant
+for the sum of the fee the applicant paid for the application and the actual documented ex-
+penses the applicant incurred in preparing the application. The applicant may bring an action
+for the sum described in this paragraph in  a court of this state and the court may award
+attorney fees and costs to an applicant that prevails in the action.
+SECTION 2.
+The amendments  to ORS 455.050 by section 1 of this 2025 Act apply to com-
+pleted applications for building permits that applicants submit on  or after the effective date
+of this 2025 Act.
+[2]

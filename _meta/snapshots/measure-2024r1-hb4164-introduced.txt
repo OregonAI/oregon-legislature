@@ -1,0 +1,938 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4164
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Higher Education for Representative John Lively)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+The Act makes changes to a survey on sexual misconduct at  colleges. (Flesch Readability Score:
+60.7).
+Removes the condition on reimbursement for expenses for nonlegislative members of  the Sexual
+Misconduct Survey Council. Permits the council to distribute  a sexual misconduct survey developed
+under federal law in lieu of  the survey required under state law. Prohibits the data for an institution
+of higher  education that contains 10 or fewer reports of sexual misconduct from being made avail-
+able to the public. Limits the individuals who may  issue a waiver from certain institution-sponsored
+programs or activities to students. Requires the delivery of the base survey  by the council to insti-
+tutions of higher education by the beginning of the 2025-2026 academic year.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to sexual misconduct at institutions  of higher education; amending ORS 350.335, 350.336,
+350.337, 350.338, 350.339, 350.340, 350.341, 350.343, 350.344 and 350.345 and  section 13, chapter
+550, Oregon Laws 2023; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 350.335 is amended to read:
+350.335. As used in ORS 350.335 to 350.346:
+(1) “Certified advocate” and “qualified victim services program” have the meanings given  those
+terms in ORS 40.264.
+(2) “Institution of higher education” has the meaning given that term in ORS 350.330.
+(3) “Reporting party” means a student or employee at  an institution of higher education who
+reports having experienced an incident of sexual misconduct to the institution.
+(4) “Sexual  misconduct” means an incident of sexual harassment, sexual violence, intimate
+partner violence, domestic violence, sexual exploitation, stalking,  harassment or violence based on
+sexual orientation or gender identity or expression, or other gender-based harassment or violence.
+(5) “Student” means an individual who:
+(a) Is enrolled [ or who is  seeking to enroll ] in a credit-bearing program at an institution of higher
+education, whether part-time, full-time or as an extension student; [ or]
+(b) Has contacted an institution of higher education requesting information concerning
+admission to that institution; or
+(c) Who  has taken a leave of absence or withdrawn from the institution of higher education
+after reporting an incident of sexual misconduct to the Title IX coordinator at the institution.
+(6) “Trauma-informed response” means  a response involving an understanding of the complexi-
+ties of intimate partner violence, domestic violence,  sexual assault and stalking through training
+centered on the neurobiological impact of trauma, the influence of societal myths and stereotypes
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 143
+HB 4164
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+surrounding the causes and  impacts of sexual assault and related  trauma[ , an understanding of
+perpetration methodology ] and knowledge of how to conduct an effective investigation.
+SECTION 2.
+ ORS 350.336 is amended to read:
+350.336. (1) The Sexual Misconduct Survey Council is established, consisting of  19 voting mem-
+bers and four nonvoting members.
+(2) The four nonvoting members of the council shall be appointed as follows:
+(a) The President of the  Senate shall appoint two nonvoting members from among members of
+the Senate; and
+(b) The Speaker of  the House of Representatives shall appoint two nonvoting members from
+among members of the House of Representatives.
+(3)(a) The executive director of the Higher Education Coordinating Commission, in  consultation
+with the Attorney General’s Sexual Assault Task  Force and the Oregon Coalition Against Domestic
+and Sexual Violence, shall appoint the following 17 voting members of the council:
+(A) One individual who represents a public university listed in ORS 352.002;
+(B) One individual who represents a private institution of higher education;
+(C) One individual who represents a community college operated under ORS chapter 341;
+(D) One Title IX coordinator from an institution of higher education that awards bachelor’s  de-
+grees;
+(E) One individual from the Oregon Coalition Against Domestic and Sexual Violence;
+(F) One representative from the Attorney General’s Sexual Assault Task Force;
+(G) One individual  from a national coalition focused on ending campus sexual violence, including
+but not limited to the Every Voice Coalition;
+(H) Two students who are enrolled at a public university listed in ORS 352.002 and who  are
+affiliated with a group or organization that advocates for multicultural,  diversity or antidiscrimi-
+nation training;
+(I) Two students who  are enrolled at a private institution of higher education and who are af-
+filiated with a group or organization that  advocates for multicultural, diversity or antidiscrimination
+training;
+(J) Two students who are enrolled at a  community college operated under ORS chapter 341 and
+who are affiliated with a group  or organization that advocates for multicultural, diversity or anti-
+discrimination training;
+(K) One  individual who has demonstrated experience in the development and design of sexual
+misconduct climate surveys;
+(L) One individual who has demonstrated expertise in statistics, data  analytics or econometrics
+and experience in higher education survey analysis;
+(M) One individual who is a medical or mental  health care professional with experience working
+with victims of trauma at a health services program at an institution of higher education; and
+(N) One individual from a community-based domestic and sexual violence advocacy agency.
+(b) An individual appointed under  paragraph (a)(E) to (G) of this subsection may appoint a
+designee to serve on the council in place of the individual appointed.
+(4) In addition to the  individuals described in subsections (2) and (3) of this section, the Attorney
+General and the executive director of the commission, or the  designee of the Attorney General or
+the executive director of the commission, shall serve as voting members of the council.
+(5) In appointing members to the council, the appointing authorities shall:
+(a) Seek to ensure that membership on the council is reflective of the gender, racial and ge-
+[2]
+HB 4164
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ographic diversity of Oregon; and
+(b) Seek to appoint  individuals with a background, education or experience in the fields of public
+health, survey design or Title IX of the Education Amendments Act of 1972, 20  U.S.C. 1681 to 1688,
+as amended.
+(6)(a) The term  of office of each individual appointed to the council under subsections (2) and
+(3) of this section is two years. Before the expiration  of the term of a member, the appointing au-
+thority shall appoint a successor. A member is eligible for reappointment.
+(b) If there is a vacancy for any cause, the appointing authority shall make an  appointment to
+become immediately effective for the unfinished term.
+(7) The council shall  select one or more of its voting members as chairperson or as
+cochairpersons.
+(8) A majority of the voting members of  the council constitutes a quorum for the transaction
+of business.
+(9) The Higher Education Coordinating Commission shall provide staff support to the council.
+(10)(a) Except as provided in paragraphs (b) and (c) of this subsection,  members of the council
+are not entitled to compensation for their service on the council.
+(b) [ To the extent moneys are available, members ] Members of the council  who are not members
+of the Legislative Assembly shall be reimbursed for actual and necessary travel  and other expenses
+incurred by the members in the performance of official duties  in the manner and amount as provided
+in ORS 292.495.
+(c) Legislative members of the council shall be entitled to payment of  compensation and expense
+reimbursement under ORS 171.072, payable from funds appropriated to the Legislative Assembly.
+SECTION 3.
+ ORS 350.337 is amended to read:
+350.337. (1) At least once  every two years, the Sexual Misconduct Survey Council established
+under ORS 350.336 shall:
+(a) Develop a base survey for distribution to institutions of higher education; and
+(b) Provide each institution of higher education with any  recommendations regarding use of the
+survey, including but not limited to additional content that could be added, the timing for conducting
+the survey, recommendations for achieving statistically valid response rates and how the survey
+results should be interpreted.
+(2) In developing the base survey required under subsection (1) of this section, the council shall:
+(a) Utilize best practices from  peer-reviewed research and consult with individuals with exper-
+tise in the development and use of  sexual misconduct climate surveys by post-secondary institutions
+of education;
+(b) Review sexual misconduct climate surveys that have been developed and previously used by
+post-secondary institutions of education;
+(c) Provide opportunities for written comment from organizations that work directly with victims
+of sexual misconduct in order to ensure the adequacy and appropriateness of the proposed content;
+(d) Consult with institutions of higher education on strategies for  optimizing the effectiveness
+of the survey;
+(e) Account for the diverse needs and differences of institutions of higher education;
+(f) Provide opportunities for  student feedback through optional comment boxes at the end of the
+survey and by providing a time and space for students to comment to the council on what  could be
+done to improve  the sexual misconduct climate survey described in ORS 350.338 so that the results
+of the survey convey an accurate representation of happenings on campus; and
+[3]
+HB 4164
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(g) Use a trauma-informed framework.
+(3) The base survey shall gather data on topics including but not limited to:
+(a) The number and type of incidents, both reported and unreported, of sexual  misconduct at the
+institution of higher education;
+(b) When incidents of sexual misconduct occurred, without requiring a specific date or time;
+(c) Whether incidents of sexual misconduct occurred on campus, off campus, overseas or virtu-
+ally;
+(d) If the sexual misconduct was perpetrated by a student, faculty member, nonfaculty staff
+member, third-party vendor to the institution of higher education or other individual;
+(e) How aware  students are of institutional policies and procedures related to campus sexual
+misconduct;
+(f) Whether a student reported sexual misconduct, with specific follow-up questions regarding:
+(A) For students who reported sexual misconduct, whether the report was made to  a campus
+resource or law enforcement agency; and
+(B) For students who did not report sexual misconduct, why the student chose not to make  a
+report;
+(g) Whether students who experienced sexual  misconduct disclosed the sexual misconduct to a
+friend, peer, family member,  faculty or nonfaculty staff member, campus resource or law enforcement
+official;
+(h) For a student who reported sexual misconduct:
+(A) Whether the student was informed of or referred to local, state, campus or other  resources,
+or to victim support services, including but not limited to appropriate  medical care, mental health
+counseling and legal services; and
+(B) Whether the student was provided with protection from  retaliation, access to institution-
+based supportive measures or institution-based accommodations and criminal justice remedies;
+(i) For a student  who experienced assault, the types of contextual factors that were present
+during the  assault, including but not limited to the involvement of force, incapacitation, coercion,
+drugs or alcohol;
+(j) Demographic information that  could be used to identify at-risk groups, including but not
+limited to sex, race, ethnicity, national origin,  economic status, disability status, gender identity,
+immigration status and sexual orientation;
+(k) Perceptions of campus safety among members of the campus community;
+(L) Student confidence in the institution’s ability to protect against and respond to  incidents of
+sexual misconduct;
+(m) Whether  students who reported sexual misconduct took a leave of absence from the insti-
+tution, or considered transferring to another institution or withdrawing;
+(n) Whether students who experienced sexual misconduct withdrew from any  classes or were
+placed on academic probation;
+(o) Whether students experienced  any financial impacts from sexual misconduct or the
+institution’s response to a report of sexual misconduct;
+(p) Whether students  experienced any negative health impacts from sexual misconduct or the
+institution’s response to a report of sexual misconduct,  including but not limited to post-traumatic
+stress disorder, anxiety, depression, chronic pain or eating disorders;
+(q) Community attitudes towards  sexual misconduct, including but not limited to students’ will-
+ingness to intervene as bystanders; and
+[4]
+HB 4164
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(r) Any other questions the council determines would be beneficial.
+(4) A base survey developed under this section:
+(a) Shall:
+(A) Include a “decline to state” and “not applicable” option for each question;
+(B) Be offered to  all students enrolled at the institution of higher education, including students
+who are [ on a leave of absence or ] studying abroad  or who have been enrolled at the institution
+within the last academic year ;
+(C) Be created taking into account all reasonable measures to  ensure that an adequate, random
+and representative sample of students complete the survey; and
+(D) Be administered online, with reasonable accommodations provided to all students in  order
+to ensure accessibility; and
+(b) May not require the disclosure of any personally identifiable information.
+(5) This section does not apply to the council if the council  determines that a survey that
+is substantively similar to  the survey required under this section is available for distribution
+to institutions of higher education in  accordance with the federal Violence Against Women
+Act Reauthorization Act of 2022, P.L. 117-103.
+SECTION 4.
+ ORS 350.338 is amended to read:
+350.338. (1) At least once every two years,  each institution of higher education shall conduct a
+sexual misconduct climate survey of all students enrolled at the institution.
+(2)(a) A survey conducted under this section shall include:
+(A) The most recent base survey provided  by the Sexual Misconduct Survey Council under ORS
+350.337 or  a survey that the council determines is substantively similar to the survey re-
+quired under ORS 350.337 and that is  available for distribution to institutions of higher edu-
+cation in accordance with the federal Violence Against Women Act Reauthorization Act of
+2022, P.L. 117-103; and
+(B) Any additional campus-specific questions chosen by the institution, provided  that the addi-
+tional questions do not:
+(i) Require the disclosure of any personally identifiable information; and
+(ii) Are not objectively traumatizing for victims of sexual misconduct.
+(b) The council may review any questions that are added by an institution under paragraph
+(a)(B) of this subsection to ensure  that the questions do not violate the requirements set forth in
+paragraph (a)(B)(i) or (ii) of this  subsection. If the council determines that an institution has in-
+cluded questions  that violate paragraph (a)(B)(i) or (ii) of this subsection the council, and any ap-
+propriate experts appointed by the council, shall assist the  institution in developing appropriate
+campus-specific questions.
+(3) No later than 120 days after completing  a survey under this section, each institution of
+higher education shall:
+(a) Submit an aggregate summary of the results to the Higher  Education Coordinating Commis-
+sion; and
+(b) Post on the institution’s website in an easily accessible manner:
+(A) A summary of the results of the survey;
+(B) Any annual security reports required to be reported under federal law, including but  not
+limited to the Annual Security Report required to  be reported under the Clery Act of 1990
+(P.L. 101-542), as amended; and
+(C) A link to the data  repository for summaries of sexual misconduct climate surveys established
+[5]
+HB 4164
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+by the commission under ORS 350.339.
+SECTION 5.
+ ORS 350.339 is amended to read:
+350.339. (1) The Higher Education Coordinating Commission shall establish a data repository  for
+all summaries of sexual misconduct climate  surveys conducted by institutions of higher education
+and submitted to the commission under ORS 350.338.
+(2) The data repository established under this section must:
+(a) Be made available to the public in an easily  accessible manner on the website of the com-
+mission; and
+(b) Except as provided in subsection (3)  of this section, include all sexual misconduct climate
+survey data received by the commission.
+(3) Prior to making the data of any sexual misconduct climate survey  the commission receives
+publicly available, the commission shall ensure that the  data is anonymized and does not contain
+any personally identifiable information. [ The commission may alter the data it receives to the  degree
+necessary to ensure conformity with this subsection. ]
+(4) Notwithstanding subsection (2) of this section, the commission may not make avail-
+able to the public the data for any institution that contains 10 or fewer reports  of sexual
+misconduct at that institution.
+(5) The commission shall adopt rules for the dissemination  and collection of sexual misconduct
+climate surveys at institutions of higher education. In adopting these rules, the commission  shall
+seek to promote effective solicitation that will achieve the  highest practicable response rate, col-
+lection and publication of statistical information from institutions of higher education.
+SECTION 6.
+ ORS 350.340 is amended to read:
+350.340. (1)(a) Except as provided in  paragraph (b) of this subsection, each institution of higher
+education shall employ at least one certified advocate as part of a  institution-based qualified victim
+services  program.
+(b) An institution of higher  education is not required to employ a certified advocate if the in-
+stitution:
+(A)(i) Does not have an institution-based qualified victim services program; or
+(ii) Has fewer than 1,000 enrolled students who reside on campus; and
+(B)(i) Partners with a local victim advocacy organization to provide a certified advocate;
+(ii) Ensures that the certified advocate has on-campus office hours; and
+(iii) Ensures that the services of the certified advocate are provided without charge to  enrolled
+students.
+(2) A certified advocate  employed by an institution of higher education under this section shall
+be appointed based on the individual’s experience and demonstrated ability  to effectively provide
+victim services related to sexual misconduct and:
+(a) May not:
+(A) Be a student of the institution;
+(B) Be a Title IX coordinator for the institution;
+(C) Be an authorized administrator of disciplinary processes on behalf of the institution;
+(D) Be a member of campus police or law enforcement; or
+(E) Have any additional job responsibilities that could  create a conflict of interest, including but
+not limited to being a general counsel, director of athletics, dean of students, clergy member,  or any
+employee who serves on a judicial or hearing board or to whom an appeal  regarding an allegation
+of sexual misconduct may be made; and
+[6]
+HB 4164
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Shall receive training:
+(A) Required to be a certified advocate;
+(B) On the requirements of Title IX of the Education Amendments Act  of 1972, 20 U.S.C. 1681
+to 1688, as amended;
+(C) On the policies of the institution of higher education relating to sexual misconduct; and
+(D) On trauma-informed response.
+(3) Nothing in this section prohibits a certified advocate who is employed full-time under
+this section from receiving employment benefits, including tuition benefits.
+(4) A certified advocate who is employed under this section shall:
+(a) Provide confidential  services to students and inform students of all information required to
+be provided under ORS 350.330 and 350.331;
+(b) Provide written notification to all institution staff involved in providing or enforcing sup-
+portive measures or accommodations of the respective duties of these staff members;
+(c) If directed by a student, assist the student in contacting campus police  or local law
+enforcement agencies to make a report;
+(d) Notify students of their rights, and the responsibilities of the institution, regarding protection
+orders, no contact orders and  any other lawful [ ordered] order issued by the institution or by a
+criminal, civil or tribal court;
+(e) Be subject to privilege as a certified advocate under ORS 40.264;
+(f) Coordinate with on-campus sexual misconduct  response resources and any community-based
+domestic and sexual  violence advocacy agency with which the institution has entered into a memo-
+randum of understanding under ORS 350.341 within a reasonable time after being designated as a
+certified advocate; and
+(g) If requested by  signed written consent from a student, assist the student with coordinating
+on-campus supports and supports available with any community-based  domestic and sexual violence
+advocacy agency with  which the institution has entered into a memorandum of understanding under
+ORS 350.341.
+[(4)] (5) A certified advocate employed under this section:
+(a) If requested by a student, may  attend an administrative or institution-based adjudication
+proceeding as the advocate or support person for the student;
+(b) May not:
+(A) Be required to report  an incident to the institution or a law enforcement agency unless
+otherwise required to do so by state or federal law;
+(B) Disclose confidential information,  including but not limited to the name, contact information
+or any personally  identifiable information of a student or any information on the sexual misconduct,
+without the prior written consent of the student who  provided the information to the certified ad-
+vocate;
+(C) Provide services to both the reporting party and the responding party  of the same sexual
+misconduct incident; or
+(D) Act as a counselor or therapist.
+[(5)] (6) Nothing in this section may be construed to limit either  party’s right of cross exam-
+ination of the certified advocate in a criminal or civil proceeding  if the advocate testifies after
+written consent has been given.
+[(6)] (7) Providing notice to a certified advocate of an alleged act of sexual misconduct or an
+advocate’s performance of a service under this section may not be considered actual or  constructive
+[7]
+HB 4164
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+notice to the institution of higher education of the alleged act.
+[(7)] (8) If a conflict of interest arises for  an institution of higher education in which a certified
+advocate is advocating for  a student’s need for sexual misconduct crisis services or for campus re-
+sources  or  law enforcement services, the institution may not discipline, penalize or otherwise retal-
+iate against the certified advocate for representing the interest of the reporting party.
+SECTION 7.
+ ORS 350.341 is amended to read:
+350.341. (1)  Except as provided in subsection (4) of this section, each institution of higher edu-
+cation shall enter into and maintain a memorandum of understanding with a  community-based do-
+mestic and sexual violence advocacy agency that is in the same county as the institution.
+(2) The memorandum of understanding entered into under  this section shall ensure that the
+community-based domestic and sexual violence advocacy agency will:
+(a) Assist in developing the institution’s [ policies, programming  and ] training regarding sexual
+misconduct that involves students and employees;
+(b) Provide an accessible  off-campus alternative where students and employees of the institution
+can receive free and confidential sexual misconduct crisis  services, including but not limited to ac-
+cess to a sexual assault nurse examiner, if available, and to domestic violence crisis  services in re-
+sponse to sexual misconduct;
+(c) Ensure that a student or employee of the institution can access free and confidential coun-
+seling and advocacy services either on campus or off campus; and
+(d) Ensure cooperation and training between the institution and the community-based domestic
+and sexual violence advocacy agency to  ensure an understanding of the roles that the institution
+or center should play in responding to reports and disclosures  of sexual misconduct against students
+and employees of the institution and the institution’s protocols for providing support and services
+to students and employees who have been the victims of sexual misconduct.
+(3)(a) A memorandum of understanding entered into under this section may  include an agree-
+ment, including a fee structure, between  the community-based domestic and sexual violence advo-
+cacy  agency  and the institution of higher education for the provision of confidential victim services.
+(b) As used in this  subsection, “confidential victim services” means case consultation and
+training fees for  certified advocates, consultation fees for the development and implementation of
+student education and prevention programs, the development  of staff training and prevention cur-
+riculum and confidential on-site office space for a representative from a community-based domestic
+and sexual violence advocacy agency to meet with students or employees  of the institution of higher
+education.
+(4) Notwithstanding subsection (1) of this section:
+(a) The  Higher Education Coordinating Commission may waive the requirements of this section
+if the commission determines that, despite reasonable  efforts, an institution of higher education was
+unable to  enter into a memorandum of understanding with a community-based domestic and sexual
+violence advocacy agency.
+(b) This section does not apply to a satellite campus or branch campus of an institution of higher
+education if the satellite campus or branch campus has 1,000 or fewer enrolled students who  reside
+on campus.
+SECTION 8.
+ ORS 350.343 is amended to read:
+350.343. (1)  In addition to any requirements set forth in ORS 350.330 and 350.331, each institu-
+tion of higher education shall:
+(a) Receive guidance from the Title IX coordinator of the institution, local law enforcement,  vi-
+[8]
+HB 4164
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+olence prevention specialists, public health specialists, other individuals  with experience identifying
+protective and risk  factors related to violence and the community-based domestic and sexual vi-
+olence advocacy agency with which the institution entered  into a memorandum of understanding
+under ORS 350.341; and
+(b) Use the guidance received under paragraph (a)  of this subsection to establish a trauma-
+informed, gender-inclusive sexual misconduct primary prevention and awareness training that must
+be attended annually by each student and employee of the institution.
+(2) Trainings provided under this section:
+(a) Must be accessible to individuals with a disability;
+(b) Must be culturally responsive and address the unique experiences and challenges  faced by
+students based on race, color, ethnicity, national origin,  religion, economic status, disability status,
+immigration status, sexual orientation, gender identity and pregnancy or parenting status; and
+(c) Must include:
+(A) An explanation of consent as it applies to sexual activity and sexual relationships;
+(B) The role drugs and alcohol play in an individual’s ability to consent;
+(C) Information on options relating to the reporting of an incident of sexual misconduct, the ef-
+fects of each option presented and the methods to report an  incident of sexual misconduct, including
+confidential and anonymous disclosure;
+(D) Information on the institution’s procedures for  resolving sexual misconduct reports and the
+range of sanctions or penalties the  institution may impose on students and employees responsible for
+a violation;
+(E) The [ name, contact information and role of the certified advocate employed by  the institution ]
+contact information for the office charged with handling complaints  and information on how
+to reach a certified advocate confidentially ;
+(F) Strategies for bystander intervention and risk reduction; and
+(G) Opportunities for ongoing sexual misconduct prevention and awareness training and  pro-
+gramming.
+(3) Notwithstanding ORS 350.335 (5), as used in  this section, “student” means an individual who
+is enrolled at least half-time in an academic credit-bearing program at  an institution of higher edu-
+cation.
+SECTION 9.
+ ORS 350.344 is amended to read:
+350.344. (1) Each institution of higher education shall waive any requirements relating  to a
+minimum required grade point average or disciplinary record requirements required to  demonstrate
+academic success that are part of an institution-sponsored program or activity  identified by the in-
+stitution under subsection (2) of this section for any participant who:
+(a) Has experienced sexual misconduct  while enrolled at the institution ; and
+(b) Has received a waiver in the manner described in subsection (3) of this section.
+(2)(a) Each institution of higher education shall identify the  institution-sponsored programs or
+activities that a waiver granted under this section shall apply to.
+(b) A student must obtain a separate waiver under  this section for each institution-sponsored
+program or activity.
+(3) A student may obtain a waiver under this  section from the certified advocate employed by
+the institution[ ,] or the Title IX  coordinator at the institution[ , a student basic needs coordinator at
+the institution, any law enforcement personnel  at the institution, the student’s academic advisor at the
+institution or any disability resource center personnel ].
+[9]
+HB 4164
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(4) Each institution of higher education shall maintain  confidentiality of all materials that con-
+tain personally identifiable information for individuals who have requested a waiver under this  sec-
+tion unless disclosure is required specifically for the purpose of [ making required accommodations ]
+providing supportive measures or if otherwise required by a court of law.
+(5) As used in this  section, “institution-sponsored program or activity” includes but is not lim-
+ited to a scholarship provided by an institution of higher education or an  institution-sponsored ac-
+ademic or extracurricular activity.
+SECTION 10.
+ ORS 350.345 is amended to read:
+350.345. (1) No later than October 1 of each year, each  institution of higher education shall
+submit a report in the manner provided by ORS 192.245 to:
+(a) The Secretary of the Senate and the Chief Clerk of the House of Representatives;
+(b) The interim committees of the Legislative Assembly relating to higher education;
+(c) The Higher Education Coordinating Commission; and
+(d) The Director of Human Services.
+(2) Except as provided in subsection (3) of this section, the report shall include:
+(a) The total number of allegations of [ intimate partner violence, domestic  violence, sexual assault,
+sexual harassment and stalking ] sexual misconduct that were reported to the institution’s  Title IX
+coordinator by a student or employee of the  institution against another student or employee of the
+institution during the previous academic year;
+(b) The number of law enforcement investigations known to have been  initiated during the pre-
+vious academic year in response to reports  of sexual misconduct that were brought forward by a
+student or employee of the institution against another student or employee of the institution;
+(c) The number of students and employees at the institution who were found responsible  during
+the previous academic year for violating the institution’s policies prohibiting sexual misconduct;
+(d) The number of students and employees  at the institution who during the previous academic
+year, faced  academic or employment disciplinary action due to having violated the institution’s pol-
+icies prohibiting sexual misconduct;
+(e) The number of students and employees at the institution who, during the previous  academic
+year, were investigated, but found not responsible for having violated  the institution’s policies pro-
+hibiting sexual misconduct;
+(f) The number of students at the institution who, during  the previous academic year, requested
+supportive  measures;
+(g) The number of supportive measures requested by  each student described in paragraph (f) of
+this subsection;
+(h) The number of  supportive measures granted to each student described in paragraph (f) of this
+subsection; [and]
+(i) [ The number of students during the previous academic year who took a leave of absence,
+transferred to a different institution of higher education or withdrew from the institution of higher  ed-
+ucation] The number of students  or employees of the institution who report experiencing
+sexual misconduct at the institution but  who declined to participate or requested no inves-
+tigation; and
+(j) The number of ongoing investigations into an accusation of sexual misconduct .
+(3) [A report submitted by a community college operated under ORS chapter  341 or a career school
+as defined in ORS 345.010  is not required to include the information described in subsection (2)(i) of
+this section. ]
+[10]
+HB 4164
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+[(4)] The information provided in  the report must be provided in an anonymous and aggregate
+manner that complies  with all state and federal privacy laws.  If any institution’s information
+contains 10 or fewer reports of sexual misconduct, that institution’s report may not be  made
+available to the public.
+SECTION 11.
+ Section 13, chapter 550, Oregon Laws 2023, is amended to read:
+Sec. 13.  The Sexual  Misconduct Survey Council must submit the first base survey and related
+recommendations, including but not limited to recommendations on achieving  statistically valid re-
+sponse rates,  to each institution of higher education no later than [ January 1, 2024 ] the start of
+the 2025-2026 academic year.
+SECTION 12. This 2024 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2024 Act takes effect
+on its passage.
+[11]

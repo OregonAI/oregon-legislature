@@ -362,7 +362,7 @@ def build_body(m: dict, session: str, session_name: str, doc_id: str,
         f"{TODAY} — **not** the measure's current status. For current location, "
         "history, or votes, this corpus's live proxy tools (not yet built — "
         "PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. "
-        f"Official record: <{url_measure}>.")
+        f"Official record: `{url_measure}`.")   # code span, not an autolink: see build_provenance
     parts.append(f"\n# {prefix} {number} — {session_name} ({session})\n")
 
     parts.append("## At a glance\n")
@@ -445,7 +445,12 @@ def build_body(m: dict, session: str, session_name: str, doc_id: str,
         parts.append(f"- **Also captured, not embedded:** {oc['version']} version, "
                      f"sha256 `{hash_snapshot(oc_snap, 'pdf', SNAPSHOT_DIR)}` "
                      f"(snapshot `_meta/snapshots/{oc_snap}.pdf`). Source: <{oc['url']}>.")
-    parts.append(f"- **Measure metadata:** retrieved {TODAY} from <{url_measure}> "
+    # The OData query goes in a CODE SPAN, not a markdown autolink. An $filter contains
+    # spaces and quotes, which <...> cannot hold: a link checker truncates it at the first
+    # space, requests the fragment, and gets a 400 -- which is what failed CI on PR #1
+    # across all 3,758 documents. It is provenance to READ, not a link to follow, and it
+    # is reproducible by hand as written.
+    parts.append(f"- **Measure metadata:** retrieved {TODAY} via `{url_measure}` "
                 f"(part of the batched per-session fetch), sha256 `{metadata_sha}` "
                 f"of the shared session snapshot `_meta/snapshots/{metadata_snapshot_id(session)}.json`.")
     parts.append("- See [CHANGELOG](../../CHANGELOG.md).\n")

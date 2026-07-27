@@ -1,0 +1,246 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3113
+Sponsored by Representatives OWENS, HELM (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would set up  a post in the Regional Solutions Program to help communities get
+state and federal funds. The Act would allocate lottery funds to be used  to match federal funds.
+(Flesch Readability Score: 64.4).
+Creates a state  and federal grants coordinator position in the Regional Solutions Program. Di-
+rects the coordinator to identify barriers that communities face in applying for  and managing state
+and federal  funding. Allocates lottery funds to provide matches for federal funds available through
+the Federal Readiness and Leverage Fund.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to access  to funding; creating new provisions; amending ORS 284.753 and 284.754; and de-
+claring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 284.754 is amended to read:
+284.754. (1) (a) The Regional Solutions Program is established within the office of the Governor,
+in collaboration with state agencies[ ,].
+(b) [ consisting] The program shall consist  of :
+(A) Regional solutions centers described in subsection (2) of this section[ ,];
+(B) Regional solutions teams described in subsection (3) of this section ; [ and]
+(C) Regional solutions advisory committees described in subsection (4) of this section ; and
+(D) A state and federal grants coordinator described in subsection (5) of this section .
+(c) The program shall work with state agencies, local governments,  public and private entities,
+philanthropic organizations and academic institutions, as appropriate, to :
+(A) Develop and coordinate regional implementation projects[ ,];
+(B) Identify regional priorities for community and economic development[ ,];
+(C) Remove barriers and increase access to state and federal funding programs;
+(D) Address issues ; and
+(E) Seize opportunities.
+(2) The Regional Solutions Program [ includes] shall include regional  solutions centers located
+throughout this state. The centers shall provide a physical location for, and serve as the primary
+place for the business and operations of, the  regional solutions teams and the regional solutions
+advisory committees.
+(3)(a) Each regional solutions team shall include a regional solutions coordinator and staff.
+(b) Staff may include, but  is not limited to, employees and representatives of the following state
+agencies:
+(A) The Department of Environmental Quality;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2735
+HB 3113
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) The Department of Land Conservation and Development;
+(C) The Department of Transportation;
+(D) The Housing and Community Services Department;
+(E) The Oregon Business Development Department; and
+(F) Other state agencies identified by the regional  solutions coordinator and the regional sol-
+utions advisory committee to participate as necessary.
+[(b)] (c) Regional solutions teams shall operate in conjunction and consultation with  regional
+solutions advisory committees.
+[(c)] (d) Regional solutions teams  shall address community and economic development by work-
+ing to address regional issues, priorities  and opportunities and leveraging funding opportunities for
+sound and long-term economic growth.
+[(d)] (e) The directors and staff of  the state agencies listed in paragraph [ (a)] (b) of this sub-
+section and natural resource agencies shall work with  regional solutions coordinators and regional
+solutions teams to fulfill regional priorities, in coordination with the office of the Governor.
+[(e)] (f) Regional solutions teams shall review  and evaluate regional implementation project
+proposals submitted in consultation with regional solutions advisory committees.
+[(f)] (g) In  considering, reviewing or undertaking regional implementation project proposals or
+projects that involve significant environmental issues, regional solutions  coordinators shall convene
+all affected  stakeholders with the assistance of the Oregon Consensus Program established within
+the Mark O. Hatfield School of Government for the purpose of  providing alternative dispute resol-
+ution services to seek to resolve disputed issues, if any.
+(4)(a) A regional solutions advisory committee shall be appointed for each region[ . Each  com-
+mittee shall consist of a minimum of ], each committee consisting of at least  five members ap-
+pointed by the Governor, and serving at the pleasure of the Governor, as follows:
+(A) One local convenor  who represents the region, who shall serve as chairperson of the com-
+mittee;
+(B) One representative recommended by the executive body of the Association of Oregon  Coun-
+ties;
+(C) One representative recommended by the executive body of the League of Oregon Cities;
+(D) One person who represents local and regional business and industry interests; and
+(E) One person who represents philanthropic organizations.
+(b) Regional solutions advisory committees shall:
+(A) Establish regional priorities for community and economic development in the region;
+(B) Assist regional solutions coordinators  and regional solutions teams with obtaining, and
+connecting to, resources and funding; and
+(C) Consider, review and recommend regional implementation project proposals.
+(c) In considering,  reviewing and recommending regional implementation project proposals under
+this subsection, regional solutions  advisory committees shall consider whether the project proposal
+seeks to address the state’s economically, socially and environmentally sustainable goals and objec-
+tives described in ORS 184.423.
+(d) Members of  the regional solutions advisory committees are not entitled to compensation for
+the performance of official duties and responsibilities.
+(e) The regional solutions coordinators and regional solutions teams shall provide staff  to the
+regional solutions advisory committees as  necessary to allow the committees to carry out the pro-
+visions of paragraph (b) of this subsection.
+[2]
+HB 3113
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+(5) The regional  solutions state and federal grants coordinator shall work with the re-
+gional solutions teams, state agencies listed in subsection (3)(b)(A) to  (E) of this section and
+natural resources agencies to:
+(a) Systematically  identify and address barriers that communities face in applying for and
+managing state grants;
+(b) Increase accessibility to state grant opportunities; and
+(c) Improve interagency coordination  around grant opportunities, including the develop-
+ment of streamlined application processes where possible.
+SECTION 2.
+ ORS 284.753 is amended to read:
+284.753. (1)(a) In awarding  grants, loans or incentive funds for projects undertaken in con-
+nection  with  grant, loan or incentive programs, state agencies listed in ORS 284.754 [ (3)(a)(A)]
+(3)(b)(A) to (E) shall, consistent with the  programs’ enabling legislation[ ,] and rules [and
+regulations], use regional priorities for  community and economic development as described in ORS
+284.754 [in the consideration of ] when considering project funding decisions .
+(b) [and base ] Decisions [ of] as to  which projects to  undertake shall be based upon whether the
+project will:
+[(1)] (A) Use regional and community-based problem solving.
+[(2)] (B) Support regional and community-based means of  integrating state and local resources
+and services.
+[(3)] (C) Create  jobs in relation to the economy and population of the region directly impacted
+by the project.
+[(4)] (D) Involve investment of capital in relation to the economy and population of the region
+directly impacted by the project.
+[(5)] (E) Have community support, as indicated by the support  of the governing body of the local
+government.
+[(6)] (F) Have obtained appropriate land use  and environmental reviews and authorizations prior
+to utilization of funds.
+(2) The agencies listed in  ORS 284.754 (3)(b)(A) to (E) shall work with the state and fed-
+eral grants coordinator to systematically identify and address barriers to  accessing and
+managing state and federal grants, with a focus on opportunities to  reduce fragmentation
+and streamline grant programs offered by state agencies.
+SECTION 3. There is allocated for the biennium beginning July 1, 2025, from the Admin-
+istrative Services Economic Development Fund, to the  Oregon Business Development De-
+partment, the amount of $5,000,000 to be used to provide matches for federal  funds available
+through the Federal Readiness and Leverage Fund.
+SECTION 4. This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[3]

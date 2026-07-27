@@ -1,0 +1,94 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 775
+Sponsored by Senator NASH, Representative LEVY B (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that data about ground water that some state  agencies use has to be peer
+reviewed. (Flesch Readability Score: 75.7).
+Requires that ground water data generated  or used for specified purposes by the Department
+of Environmental Quality,  State Department of Agriculture, Water Resources Commission or Water
+Resources Department be peer reviewed.
+A BILL FOR AN ACT
+Relating to ground water data accountability.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) Ground water data generated or used by the Department  of Environ-
+mental Quality or the Water Resources Commission for a purpose described in  subsection
+(2) of this section must be:
+(a) Originally generated  by one or more institutes identified by the National Institutes
+for Water Resources,  or its successor organization, that are located in states that rely on
+prior appropriation; or
+(b) Peer reviewed consistent with  the review criteria for an academic peer review process
+by at least three institutes identified  by the National Institutes for Water Resources, or its
+successor organization, that are located in states that rely on prior appropriation.
+(2) Ground water data  generated or used as described in this subsection must meet the
+requirements of subsection (1) of this section:
+(a) Ground water data generated or  used by the Department of Environmental Quality
+to declare a ground water  management area under ORS 468B.180, or to change a ground
+water management area that was originally declared before January 1, 2024; or
+(b) Ground water data generated or used by the Water Resources Commission to  desig-
+nate a critical ground water area pursuant to ORS 537.730, or change a critical ground  water
+area originally designated prior to January 1, 2024.
+(3) A funding request from the Department  of Environmental Quality, the Water Re-
+sources Department  or the State Department of Agriculture for the purposes of generating
+or obtaining ground water data for any  purpose must include proof that the data to be gen-
+erated or obtained meets the requirements of subsection (1) of this section.
+(4) Ground water data generated or used by the Department of Environmental Quality,
+the Water Resources Department or the State Department of Agriculture  must meet the
+requirements of subsection (1) of this section  if the ground water data is generated or used
+for:
+(a) Enforcement actions;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1613
+SB 775
+1
+2
+3
+4
+5
+6
+7
+8
+9
+(b) Actions regarding a  permit related to water issued by the Department of Environ-
+mental Quality, the Water Resources Department or the State Department of  Agriculture,
+including actions related to currently issued permits;
+(c) Rulemaking; or
+(d) Other official action.
+(5) Any action taken by the Department of Environmental Quality, the  Water Resources
+Department, the  State Department of Agriculture or the Water Resources Commission that
+does not meet the requirements of this section is invalid.
+[2]

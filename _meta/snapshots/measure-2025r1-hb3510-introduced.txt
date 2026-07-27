@@ -1,0 +1,185 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3510
+Sponsored by Representative LEVY E, Senator NASH; Senators FREDERICK, LINTHICUM (at the request  of Judy
+Trego)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Stops people from using ways of buying up tickets to events that evade a ticket  seller’s
+security or limit on the number of tickets a person  can buy. Says that a reseller must have a ticket
+before it can sell the ticket. (Flesch Readability Score: 60.6).
+Prohibits knowingly or intentionally selling or offering  for sale admission tickets that a person
+obtains by using software that is designed to  circumvent, thwart, interfere with or evade a control
+or measure, including a security measure or an access control  system, that an operator, ticket seller
+or reseller establishes or uses to ensure an equitable distribution, sale or  resale of admission tickets
+for an entertainment event.
+Prohibits a reseller from selling or offering for resale  an admission ticket unless the reseller has
+actual or constructive possession of the admission  ticket and makes certain disclosures before
+completing the sale.
+Punishes violations of the Act as an unlawful  practice under the Unlawful Trade Practices Act.
+A BILL FOR AN ACT
+Relating to regulating sales of admission tickets  to entertainment events; creating new provisions;
+and amending ORS 646A.115.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 646A.115 is amended to read:
+646A.115. (1) As used in this section:
+(a) “Admission ticket” means evidence of a purchaser’s right of entry to a  venue or an enter-
+tainment event.
+(b) “Affiliated” means a person’s having control of, being controlled by or under common
+control with another person.
+[(b)] (c)  “Entertainment  event” means a performance, recreation, amusement, diversion, specta-
+cle, show or similar event  including, but not limited to, a theatrical or musical performance, concert,
+film, game, ride or sporting event  that occurs in this state .
+(d) “Initial sale” means a ticket seller’s first sale of an  admission ticket to a retail pur-
+chaser.
+[(c)] (e)  “Operator” means a person that owns, operates or controls a venue or that  produces
+or promotes an entertainment event, or the person’s agent or employee.
+(f) “Promoter” means a  person that organizes financing or publicity for an entertainment
+event, or the person’s agent or employee.
+[(d)] (g)  “Resale” means a sale other  than  a ticket seller’s or  an operator’s initial sale of an
+admission ticket for a venue that is located  in or an entertainment event that occurs in this state,
+irrespective of the location  in which the sale occurs or the means by which a reseller solicits or
+advertises the sale or delivers or receives payment for the admission ticket.
+[(e)] (h)  “Reseller” means a person other  than  a ticket seller or  an operator that conducts a
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3795
+HB 3510
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+resale, or the person’s agent or employee .
+(i) “Retail purchaser”  means an individual who purchases an admission ticket for the
+individual’s own use as admission to an entertainment event.
+(j) “Ticket seller” means a person, including but not limited to an operator  or promoter,
+that makes an admission ticket available  for presale or an initial sale to a reseller or retail
+purchaser, or the person’s agent or employee.
+(k) “Total price” means the total cost a purchaser  must pay to a ticket seller or reseller
+for an admission ticket, including every fee, tax, charge,  surcharge or other cost that the
+purchaser must pay to receive or use the admission ticket, such  as a service fee, processing
+fee, delivery fee, facility fee,  convenience fee, resale fee or other fee or charge, however la-
+beled or denominated.
+(L) “Venue” means a location in which  an entertainment event occurs, entry to which
+requires an admission ticket.
+(2)(a) A person may not  knowingly or intentionally sell or use software, the purpose  or effect
+of which is to circumvent, thwart, interfere with or evade a control  or measure, including a security
+measure or an access control system, that an operator , ticket seller  or reseller establishes  or uses
+to ensure an equitable distribution, sale or resale of admission tickets for  an entertainment event ,
+to limit the number of admission  tickets a single purchaser may purchase or to implement
+other rules or policies the operator, ticket seller  or reseller establishes for a presale, initial
+sale or resale of an admission ticket .
+(b) A person may not knowingly or intentionally sell or offer  to sell an admission ticket
+that the person obtained using software described in paragraph (a) of this subsection.
+(c) An operator, ticket seller  or reseller shall notify the Attorney General if the operator,
+ticket seller or reseller detects the use of software described  in paragraph (a) of this sub-
+section and shall provide available evidence of the use. The Attorney General may investigate
+the use of the software and for this purpose may issue an investigative demand under ORS
+646.618.
+(3)(a) An operator may not deny entry to a venue to, impose a fee  or charge on, or oth-
+erwise penalize or discriminate against a person that purchased an admission ticket  from a
+ticket seller or reseller that is not affiliated with the operator.
+(b) This subsection does not prohibit a person from establishing, maintaining or enforcing
+policies that govern conduct at a venue, an allowable age  for admission or a limit on the
+number of admission tickets that a single purchaser may purchase.
+(4)(a) A reseller or a person affiliated with a  reseller may not offer, or engage in, a resale
+of an admission ticket unless the reseller or person:
+(A) Has actual or constructive possession  of the admission ticket or has a written con-
+tract to obtain the admission ticket from an operator, ticket seller or the  person that pur-
+chased the admission ticket in an initial sale; and
+(B) Discloses at the outset of the resale:
+(i) An approximate delivery date of the admission ticket to the purchaser; and
+(ii) The number of admission tickets in the resale that will  allow admission to or seating
+in a  specific zone, section, seat or other place within the venue or, if the admission tickets
+do not provide for admission to or seating in  a specific zone, section, seat or other place
+within the venue, a statement to that effect.
+(b) If a ticket seller does not obtain actual or constructive  possession of an admission
+[2]
+HB 3510
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ticket after a sale to a purchaser occurs, the ticket seller shall refund not later than 10  days
+after the date of the entertainment event the total price, including any  deposit, that the
+purchaser paid for the admission ticket.
+[(3)] (5)  Violation of [ subsection (2) of ] this section is an unlawful practice under ORS 646.608
+that is subject to an action under ORS 646.632 and 646.638.
+SECTION 2.
+The amendments to ORS 646A.115 by section 1 of  this 2025 Act apply to sales
+of or offers to sell admission tickets that occur on or after the  effective date of this 2025
+Act.
+[3]

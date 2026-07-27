@@ -1,0 +1,382 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2373
+Sponsored by Representatives BOSHART  DAVIS, GOMBERG; Representative RUIZ, Senators MEEK, STARR (Pre-
+session filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates a license for timeshare sales agents. (Flesch Readability Score: 75.5).
+Prohibits selling or offering for sale a timeshare without a  license. Establishes a timeshare real
+estate license. Directs the Real Estate Agency and Real Estate Commissioner to regulate and issue
+timeshare sales agent licenses. Becomes operative January 1, 2026.
+Declares an emergency, effective July 1, 2025.
+A BILL FOR AN ACT
+Relating to timeshare sales agents;  creating new provisions; amending ORS 94.803; and declaring an
+emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 94.803 is amended to read:
+94.803. As used in this section and ORS 94.807 to 94.945:
+(1) “Agency” means the Real Estate Agency.
+(2) “Accommodation” means an apartment, condominium  unit, cabin, house, lodge, hotel or motel
+room or other private or commercial structure situated  on real property and designed for residential
+occupancy.
+(3) “Assessment” means the pro rata share  assessed from time to time against each owner of a
+timeshare by the managing entity to pay for common expenses.
+(4) “Blanket  encumbrance” means a trust deed or mortgage or any other lien or encumbrance,
+mechanic’s lien or otherwise, securing or evidencing the payment  of money and affecting more than
+one timeshare, or an agreement affecting more than one timeshare by which the developer  holds the
+timeshare property under an option, leasehold, contract to sell or trust agreement.
+(5) “Commissioner” means the Real Estate Commissioner.
+(6) “Common expenses” means:
+(a) Expenses of administration, maintenance, repair or replacement of the accommodations  and
+facilities of the timeshare plan;
+(b) Expenses agreed upon as common by all the timeshare owners in the timeshare plan; and
+(c) Expenses declared common by the timeshare instrument or bylaws of the timeshare plan.
+(7) “Developer” means a person that:
+(a) Creates a timeshare plan;
+(b) Succeeds to the interest of a person that creates a timeshare plan; or
+(c) Purchases a timeshare from a person described in paragraph (a) or (b) of this subsection  for
+the primary purpose of resale.
+(8) “Exchange program”  means any opportunity for a purchaser to exchange timeshare periods
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1636
+HB 2373
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+among purchasers in the same or other timeshare plans.
+(9) “Facility” means a structure, service, improvement or real property  available for the owner’s
+use.
+(10) “Fractional interest”  means any undivided fractional ownership of real property which gives
+each and every fractional owner full rights to unlimited  use and possession of the real property
+subject only to such limitation as the fractional owners may agree to among themselves.
+(11) “Managing entity” means the person designated in the timeshare instrument  or selected by
+the owners’ association board or by the owners to manage all or a portion of the timeshare plan.
+(12) “Negotiate”  means any activity preliminary to the execution of a binding agreement for the
+sale of a timeshare, including but not limited to advertising, solicitation and promotion of the sale
+of the timeshare.
+(13) “Offering” means  any advertisement, inducement, solicitation or attempt to encourage a
+person to acquire a  timeshare, other than as a security for an obligation. An advertisement in a
+newspaper or other periodical of  general circulation, or in any broadcast medium to the general
+public, of a timeshare in property located outside this state is not an offering if the advertisement
+states that the offering is valid only  if made in compliance with the law of the jurisdiction in which
+the offer is disseminated.
+(14) “Owner” means a person, other than  the developer, to whom a timeshare has been conveyed
+other than as security for an obligation.
+(15) “Project” means real property subject to  a timeshare instrument. A project may include
+accommodations that are not timeshare accommodations.
+(16) “Purchaser” means any person, other than a developer, who by  voluntary transfer acquires
+an interest in a timeshare other than as security for an obligation.
+(17) “Sale” means a transaction that conveys a timeshare other than as security for  an obli-
+gation, including, but not limited to a lease or assignment.
+(18) “Timeshare” means a timeshare estate or a timeshare license.
+(19) “Timeshare  agreement” means an agreement conferring the rights and obligations of the
+timeshare plan on a purchaser including but not limited to a deed, lease and vacation license.
+(20) “Timeshare  estate” means a right to occupy an accommodation during five or more sepa-
+rated timeshare periods over a  period of at least five years, including renewal options, coupled with
+a freehold estate or an estate for years in the timeshare property.
+(21) “Timeshare instrument” means a document creating or regulating timeshares.
+(22) “Timeshare license” means a right to occupy an accommodation during five or more sepa-
+rated timeshare periods  over a period of more than three years, including renewal options, not
+coupled with a freehold estate or an estate for years.
+(23) “Timeshare period” means the period of  time when an owner is entitled to possess and oc-
+cupy accommodations or facilities of a timeshare plan.
+(24) “Timeshare plan” means  an arrangement, whether by membership, agreement, tenancy in
+common, sale, lease, deed, rental agreement,  license, right to use agreement or otherwise, in which
+an owner receives a timeshare estate or a timeshare  license and the right to use accommodations
+and facilities that are part of the timeshare property. A timeshare plan does not include an exchange
+program.
+(25) “Timeshare property” means one or more accommodations  subject to the same timeshare
+instrument and any other real estate or rights appurtenant to those accommodations.
+(26) “Timeshare sales agent” means an individual licensed under section 3  of this 2025
+[2]
+HB 2373
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Act to offer to sell or sell timeshares.
+SECTION 2.
+Sections 3, 4 and 5 of  this 2025 Act are added to and made a part of ORS
+94.803 to 94.945.
+SECTION 3. (1) A person may not sell or offer to sell a timeshare without a license issued
+under this section.
+(2) The  Real Estate Agency may issue a license to act as a timeshare sales agent to an
+applicant who:
+(a) Is at least 18 years of age;
+(b) Submits an application;
+(c) Pays a licensure fee;
+(d) Submits sufficient proof, as determined by the agency, of:
+(A) Completing at least 14 hours of instruction in:
+(i) Ethics;
+(ii) The applicable laws and rules relating to timeshares; and
+(iii) Principles and practices of selling timeshares; and
+(B) Having a reputation for honesty, trustworthiness and competence;
+(e) Passes an examination approved by the agency; and
+(f) Meets other qualifications specified by the agency.
+(3) An application must include the following information:
+(a) A statement whether or not the applicant has been convicted of  any misdemeanor or
+felony involving theft, fraud or dishonesty and whether  or not the applicant has been en-
+joined from, had any civil penalty assessed for, or been found  to have engaged in any vio-
+lation of any Act designed to protect consumers; and
+(b) A statement describing the applicant’s  employment history for the past five years and
+whether or not any termination of employment during the last five years was occasioned  by
+any theft, fraud or act of dishonesty.
+(4) For  the purpose of requesting a state or nationwide criminal records check under
+ORS 181A.195, the agency may require the fingerprints of a person who is:
+(a) Applying for a timeshare sales agent’s license;
+(b) Applying for renewal of a timeshare sales agent’s license; or
+(c) Under investigation by the agency.
+(5) The agency may renew a license if the licensee:
+(a) Pays the renewal fee;
+(b) Submits an application for renewal before the license expires  at the time determined
+by the agency;
+(c) Has not engaged in conduct that would subject the  licensee to discipline under section
+5 of this 2025 Act; and
+(d) Satisfies any other requirement the agency establishes for renewing a license.
+(6) A license expires on its expiration date unless  it is renewed on or before its expiration
+date.
+(7) Unless the agency designates another date, a license expires  on the last day of the
+month in which the second anniversary of the initial issuance date of the license occurs, and
+on the second anniversary following each renewal.
+(8) If a timeshare sales agent  fails to renew their license before it expires, the license
+may be reinstated  if the person submits the statements required under this section to the
+[3]
+HB 2373
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+agency and pays the renewal fee and the penalty specified by the agency within one year  af-
+ter the date the license expires.
+(9) The agency shall adopt rules to carry  out the provisions of this section, including but
+not limited to establishing an application process and fees for obtaining and renewing  a
+timeshare sales agent license.
+SECTION 4.
+(1) As used in this section and section 5 of this 2025 Act:
+(a) “Associated with” means to be employed, engaged or  otherwise supervised by, with
+respect to  the relationship between a timeshare sales agent and a principal real estate bro-
+ker.
+(b) “Principal real estate broker” has the meaning given that term in ORS 696.010.
+(c) “Real estate broker” has the meaning given that term in ORS 696.010.
+(2) A timeshare sales agent may work under the supervision of no  more than one
+supervising principal real estate broker at  any one time at the location designated in the
+agent’s license.
+(3) If the timeshare sales agent’s employment is terminated, the supervising  principal
+real state broker shall surrender the timeshare sales agent’s license to the agency.
+(4) A principal real estate broker shall give written notice to the agency  of a change of
+employment for any timeshare sales  agent associated with the broker within 10 days after
+the change.
+(5) A timeshare sales agent shall apply for a corrected license if any of the following  oc-
+curs:
+(a) The association with any principal real estate broker changes; or
+(b) The location designated in the agent’s license changes.
+(6) The application for reissuance of the  license shall include payment of a fee established
+by the agency  by rule. The agency shall issue a corrected license when the agency receives
+the application and the fee. The corrected license  is valid for the unexpired portion of the
+original license term.
+SECTION 5.
+The Real Estate Agency may suspend or revoke  the license of any timeshare
+sales agent, reprimand  any timeshare sales agent or deny the issuance or renewal of a
+timeshare sales agent license if a person has:
+(1) Created a reasonable probability of damage  or injury to another person by making one
+or more material misrepresentations or  false promises in a matter related to timeshare
+sales;
+(2) Represented,  attempted to represent or accepted compensation from a principal real
+estate broker other than the agent’s supervising principal real estate broker with  whom the
+timeshare sales agent is associated;
+(3) Knowingly or recklessly published materially misleading or untruthful advertising;
+(4) Been convicted of  a felony or misdemeanor substantially related to the timeshare
+sales agent’s trustworthiness or competence to engage in selling timeshares;
+(5) Demonstrated incompetence or untrustworthiness in performing any act  for which
+the timeshare sales agent is required to hold a license;
+(6) Violated a term, condition, restriction or limitation contained in an order issued  by
+the agency; or
+(7) Committed an act of  fraud or engaged in dishonest conduct substantially related to
+the fitness  of the applicant or timeshare sales agent to conduct professional real estate ac-
+[4]
+HB 2373
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+tivity, without regard to whether the act or conduct  occurred in the course of selling
+timeshares.
+SECTION 6.
+(1) The amendments to ORS 94.803 by section 1 of this 2025 Act and sections
+2 to 5 of this 2025 Act become operative on January 1, 2026.
+(2) The Real Estate Agency may adopt rules and take any other action before the oper-
+ative date specified in subsection (1) of this section that is necessary to enable the agency
+to exercise, on and after the operative date specified in subsection (1)  of this section, all the
+duties, functions and powers conferred on the agency by the amendments  to ORS 94.803 by
+section 1 of this 2025 Act and sections 2 to 5 of this 2025 Act.
+SECTION 7.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+July 1, 2025.
+[5]

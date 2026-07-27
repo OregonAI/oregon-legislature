@@ -1,0 +1,165 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3363
+Sponsored by Representative NERON, Senators MANNING JR, GORSEK, Representative SMITH G
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes how overtime is used in OPSRP. (Flesch Readability Score: 84.9).
+Modifies how the overtime  cap is calculated for use in calculating the final average salary of
+members of the Oregon Public Service Retirement Plan.
+A BILL FOR AN ACT
+Relating to the application of overtime under the Oregon Public Service Retirement Plan;  creating
+new provisions; and amending ORS 238A.130.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 238A.130 is amended to read:
+238A.130. (1) Except as provided in subsection (3) of this section, for purposes  of the computa-
+tion of pension program  benefits under ORS 238A.125, “final average salary” means whichever of the
+following is greater:
+(a) The average salary  per calendar year paid to an active member in the three consecutive
+calendar years of membership that produce  the highest average salary, including calendar years in
+which the member was employed for less than a full calendar year. If the number of consecutive
+calendar years of active membership before the effective  date of retirement of the member is three
+or less, the final average salary for the member is the average salary  per calendar year paid to the
+member in all of those  years, without regard to whether the member was employed for full calendar
+years.
+(b) One-third of the  total salary paid to an active member in the last 36 calendar months of
+membership before the effective date of retirement of the member.
+(2) For the purposes of calculating the final average salary of  a member under subsection (1)
+of this section, the Public Employees Retirement Board shall:
+(a) Include any salary paid in or for the calendar month of separation from employment;
+(b) Exclude any salary for any pay period before the first  full pay period that is included in the
+three consecutive calendar years of membership under subsection (1)(a) of this section; and
+(c) Exclude any salary for any pay period before the first full  pay period that is included in the
+last 36 calendar months of membership under subsection (1)(b) of this section.
+(3) For purposes of  the computation of pension program benefits under ORS 238A.125 of a person
+employed by a local government as defined in ORS  174.116, “final average salary” means whichever
+of the following is greater:
+(a) The average salary per calendar year  earned by an active member in the three consecutive
+calendar years of membership that produce  the highest average salary, including calendar years in
+which the member was employed for less than a full calendar year. If the number of consecutive
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4250
+HB 3363
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+calendar years of active membership before the effective  date of retirement of the member is three
+or less, the final average salary for the member is the average  salary per calendar year earned by
+the member in all of those years, without regard to whether the member was employed  for full cal-
+endar years.
+(b) One-third of the total salary earned by an active member in the  last 36 calendar months of
+membership before the effective date of retirement of the member.
+(4) For the purposes of calculating the final average salary of a member under this section,  the
+salary of the member does not include:
+(a) Any amounts attributable  to hours of overtime that exceed the [ average number of hours of
+overtime for the same class of employees as established by rule of the Public  Employees Retirement
+Board] overtime cap for the member’s class of employees calculated  under section 3 of this
+2025 Act . [ The Oregon Department of Administrative Services shall establish by  rule more than one
+overtime average for a class of state employees based on the geographic placement of the employees. ]
+(b) Any increases in salary during the last 36 calendar months of membership  before the effec-
+tive date of retirement of the member that:
+(A) Are made by an employer to  pay for insurance coverage previously paid for by the employer;
+and
+(B) Are not offered to all employees in the same class of employees as established by rule  of the
+board [ under paragraph (a) of this subsection ].
+SECTION 2.
+Section 3 of this 2025 Act is added to and made  a part of ORS chapter 238A.
+SECTION 3. (1) For purposes of  ORS 238A.130 (4)(a), the overtime cap shall be calculated
+as follows:
+(a) Before July 1 of  each year, a participating public employer shall calculate the actual
+average number of overtime  hours that employees in each class of employees employed by
+the employer performed in the previous calendar year.
+(b) If the average number  of overtime hours for a class of employees for the previous
+calendar year exceeds 105 percent of the existing  overtime cap for that class of employees,
+the average number of overtime hours calculated under paragraph (a) of this subsection shall
+apply as the overtime cap to the calendar year in which the calculation is made.
+(c) If the average  number of overtime hours for a class of employees for the previous
+calendar year does  not exceed 105 percent of the existing overtime cap for that class of em-
+ployees, the overtime cap  for the previous calendar year shall apply to the calendar year in
+which the calculation is made.
+(d) The Oregon Department of Administrative Services  shall calculate the overtime cap
+under this subsection separately for each state agency, and  calculate more than one over-
+time cap for each class  of state employees based on the geographic placement of the em-
+ployees.
+(2) A participating  public employer shall maintain records of the overtime cap for each
+class of employee for each calendar year and provide the  records to the Public Employees
+Retirement Board upon request.
+SECTION 4. A participating public employer, as defined in ORS  238A.005, shall make the
+first calculations of overtime caps under section 3 of this  2025 Act no later than January 31,
+2026. The overtime caps calculated under this section apply to calendar year 2026.
+[2]

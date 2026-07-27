@@ -1,0 +1,154 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1143
+Sponsored by Senators LIEBER, SOLLMAN, Representatives LEVY B, ANDERSEN, MARSH; Senator PHAM K,
+Representatives HELM, LIVELY
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes the PUC create a program to have each gas company create a thermal energy
+network pilot project. Makes each gas company apply to  create a pilot project. (Flesch Readability
+Score:  65.7).
+Directs the Public Utility Commission to establish a pilot  program that allows each natural gas
+company to develop a utility-scale thermal energy network pilot project to provide heating  and
+cooling services to customers. Requires each natural gas company to file a proposal and  plan to
+develop a pilot project or an  explanation for why the natural gas company is not submitting a pro-
+posal. Identifies criteria the commission shall take into consideration in evaluating a proposal.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to thermal energy networks; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Natural gas  company” means a public utility, as defined in ORS 757.005, that provides
+natural gas services to customers.
+(b) “Thermal energy network” means a  network of pipes and heat pumps that uses
+noncombustible fluids within the network to distribute thermal energy between and  among
+ground, air and surface water sources and buildings connected to the network.
+(c) “Thermal energy network pilot project” includes all  real estate, fixtures and personal
+property used for or in connection with developing or operating a thermal energy network.
+(2) The Public Utility Commission  shall establish a pilot program that allows each natural
+gas company to develop  a utility-scale thermal energy network pilot project to provide
+heating and cooling services to customers. The purpose of the pilot program is to:
+(a) Demonstrate the use and effectiveness of thermal  energy networks to provide heating
+and cooling services while reducing or  eliminating greenhouse gas emissions or improving
+energy efficiency;
+(b) Allow each natural gas company to gain experience with  using thermal energy net-
+works to provide heating and cooling services to customers; and
+(c) Provide the commission with experience on how to integrate thermal energy networks
+and thermal energy network projects into the commission’s regulatory processes.
+(3) The commission shall  direct each natural gas company to file within 24 months from
+the effective date of this 2025 Act, and in a form and manner prescribed by  the commission:
+(a)(A) A  proposal to develop and operate a utility-scale thermal energy network pilot
+project that serves customers; and
+(B) A plan, for  acceptance by the commission, for measuring the effectiveness of the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1536
+SB 1143
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+thermal energy network pilot project. The plan must include specific metrics that the na-
+tural gas company proposes to use to evaluate the pilot project; or
+(b) An explanation for why the natural gas company is not submitting a proposal  for a
+thermal energy network pilot project.
+(4) The commission shall evaluate a proposal to develop a thermal energy network  pilot
+project with consideration to the following criteria:
+(a) Whether the proposed project serves low income and energy burdened communities;
+(b) Whether the proposed project serves a mix of building types;
+(c) Whether the proposed project  utilizes the existing gas utility workforce, creates jobs
+or uses labor agreements;
+(d) The availability of local waste heat, ground heat sources and water bodies;
+(e) The safety, reliability and resiliency  objectives of the proposed project and whether
+those objectives may be reasonably achieved;
+(f) Whether the proposed project tests technical, operational and  financial approaches to
+achieving equitable and affordable decarbonization of buildings;
+(g) Whether the proposed project leverages  local and federal funding sources to offset
+costs recovery from customers for costs and expenses related to developing the proposed
+project;
+(h) Whether  the proposed project benefits the community by improving air quality, en-
+ergy affordability and water conservation, avoiding or reducing electricity use  or reducing
+greenhouse gas emissions;
+(i) Collaboration by the natural gas company with the local community,  governments and
+electric utility providers and regulators;
+(j) Whether the proposed project will inform how thermal energy networks can  help
+support joint planning by natural gas and electric utility providers;
+(k) Whether the proposed  project will inform how thermal energy networks can reduce
+overall and peak energy use;
+(L) Whether the proposed project will inform  how thermal energy networks can avoid
+costs that might be incurred absent the thermal energy  network, including infrastructure,
+fuel, operations and maintenance costs; and
+(m) Whether the proposed project provides learning  to help the development of regu-
+lations that allow and facilitate thermal energy networks.
+(5) The commission shall allow a natural gas company to recover costs from all  custom-
+ers of the natural gas company for prudent costs or expenses related to developing and op-
+erating a thermal energy network pilot project under this section.
+SECTION 2.
+Section 1 of this 2025 Act is repealed on January 2, 2036.
+SECTION 3. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

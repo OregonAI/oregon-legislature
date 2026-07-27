@@ -1,0 +1,522 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 605
+Sponsored by Senator CAMPOS, Representative SOSA; Senators FREDERICK, PATTERSON,  Representatives
+CHAICHI, GOMBERG, NELSON, PHAM H (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Stops people who provide medical services  to patients from telling a credit bureau that
+a patient owes a debt, or the amount of the debt. Allows a person to sue  a person who breaks this
+law. (Flesch Readability Score: 68.7).
+Prohibits medical service providers from reporting the amount  or existence of medical debt to
+a consumer reporting agency. Prohibits a consumer reporting  agency from including in a consumer
+report an item that the consumer reporting agency  knows or should know is medical debt. Punishes
+a violation of the Act as an unlawful practice under the Unlawful Trade Practices Act.
+A BILL FOR AN ACT
+Relating to medical debt reporting; amending ORS 646.608 and 646A.677.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 646A.677 is amended to read:
+646A.677. (1) As used in this section:
+(a) “Consumer report” has the meaning given that  term in 15 U.S.C. 1681a, as in effect
+on the effective date of this 2025 Act.
+(b) “Consumer reporting agency” has the meaning given that term in 15 U.S.C. 1681a,  as
+in effect on the effective date of this 2025 Act.
+[(a)] (c)  “Debt collector” has the meaning given that term in ORS 646.639.
+[(b)] (d)  “Financial assistance” means the  written financial assistance policy described in ORS
+442.610.
+[(c)] (e)  “Hospital” has the meaning given that term in ORS 442.612.
+[(d)] (f)  “Hospital-affiliated clinic” has the meaning [ give] given that term in ORS 442.612.
+[(e)] (g)(A)  “Medical debt” means an amount [ owed by a patient to a hospital or  a nonprofit
+hospital-affiliated clinic for medically  necessary services or supplies. ] that a person owes to a med-
+ical services provider, a  hospital or a nonprofit hospital-affiliated clinic for medical treat-
+ment, patient care or other medical services or supplies.
+(B) “Medical debt” does not include  an amount a person owes on a credit card or to a
+financial institution that extended credit to the person unless  the financial institution ex-
+tended credit to the person specifically  to purchase medical treatment, patient care or other
+medical services or supplies.
+(h) “Medical services provider” means:
+(A) A hospital or nonprofit hospital-affiliated clinic;
+(B) An emergency medical services provider, as defined in ORS 682.025;
+(C) An ambulance service, as defined in ORS 682.025;
+(D) A behavioral health clinician, as defined in ORS 743A.012;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2447
+SB 605
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(E) A physician, physician assistant, nurse practitioner or registered nurse;
+(F) A diagnostic or testing laboratory that provides  services used in diagnosis of a med-
+ical condition;
+(G) A person, other than a person  listed in subparagraphs (A) to (F) of this paragraph,
+that provides services to screen, examine, test, diagnose, treat,  provide a prognosis for or
+administer drugs to remedy a disease, injury or  health condition that affects an individual
+resident of this state;
+(H) A person that provides billing, invoicing or debt collection services on behalf of  a
+person listed in subparagraphs (A) to (G) of this  paragraph, an assignee of the person or a
+purchaser of the debt owed to the person; or
+(I) A person that controls, is controlled by or is under common control with  a person
+listed in subparagraphs (A) to (H) of this paragraph.
+[(f) “Medically necessary” has the meaning given that term in ORS 442.612. ]
+[(g)] (i) “Nonprofit” has the meaning given that term in ORS 442.612.
+(2) A hospital  and a nonprofit hospital-affiliated clinic shall post the hospital’s financial assist-
+ance policy in the manner described in ORS 442.610 (3)(d).
+(3) Upon the  request of a patient or an individual who is authorized to act on behalf of a patient,
+a hospital or  nonprofit hospital-affiliated clinic  shall conduct a screening to determine if the patient
+qualifies for:
+(a) Financial assistance under the hospital’s financial assistance policy; or
+(b) The state medical assistance program.
+(4) Before transferring an unpaid charge for services to a debt collector  or referring an unpaid
+charge for collection, a hospital or  nonprofit hospital-affiliated clinic shall:
+(a) Conduct a screening to determine if the  patient qualifies for financial assistance as described
+in ORS 442.614 (1)(a)(A), if applicable; and
+(b) Provide a copy of its financial assistance policy to the patient along with an application  for
+financial  assistance.
+(5) A hospital or nonprofit hospital-affiliated clinic may conduct the screening described in sub-
+sections (3) and (4) of this section using commercially available services, software or online tools.
+(6) As a condition for providing financial assistance, a hospital may require a patient to:
+(a) Respond to requests from the patient’s primary insurer as necessary for the insurer to adju-
+dicate a claim for reimbursement of the cost of services; and
+(b) Provide information concerning any  potential third party liability for the cost of services
+including but not limited to:
+(A) Information about the coordination of benefits  between insurers that cover the patient’s
+care;
+(B) Accident reports; and
+(C) The patient’s workers’ compensation claims or benefits.
+(7) If a patient  qualifies for financial assistance under ORS 442.614 (1)(a)(A), a hospital, nonprofit
+hospital-affiliated clinic or other debt collector may not charge interest on  the patient’s medical
+debt.
+(8)(a) Except as provided in paragraph (b) of this subsection, the interest that a hospital,
+nonprofit hospital-affiliated clinic or other debt collector may charge on a medical debt owed by a
+patient who does not qualify for financial assistance under ORS 442.614 (1)(a)(A)  may not exceed the
+weekly average one-year constant maturity Treasury yield, as published by the Board  of Governors
+[2]
+SB 605
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of the Federal Reserve System, for the week preceding the date when  the patient was first billed,
+except that the interest may not be less than two percent per annum or  more than five percent per
+annum.
+(b) Upon entry of a judgment against a patient described in paragraph (a)  of this subsection, a
+hospital, nonprofit hospital-affiliated clinic or other debt collector may increase  the interest charged
+on a medical debt up to the amount specified in ORS 82.010.
+(9) A hospital,  nonprofit  hospital-affiliated clinic or  other debt collector may not attempt to
+collect a medical debt from a patient’s child or other family  member who is not financially respon-
+sible for the debt under ORS chapter 108.
+(10) [It is an unlawful collection practice under ORS  646.639 for ] A hospital,  nonprofit hospital-
+affiliated clinic or  other debt collector  engages in an unlawful debt collection practice under
+ORS 646.639 if  the hospital, nonprofit hospital-affiliated clinic or debt collector collects or
+attempts to collect [ or attempt to  collect ] a medical debt in a manner that the hospital,  nonprofit
+hospital-affiliated clinic or other  debt collector knows, or after exercising reasonable diligence
+would know, is in violation of this section.
+(11)(a) A medical services provider that operates or engages in  business in this state may
+not:
+(A) Enter into a contract that creates medical debt  unless the contract includes a
+prominent and conspicuous notice that reads, in substance, “The person that  holds any debt
+you owe for medical services under this agreement may not report the debt to a  credit bu-
+reau or consumer reporting agency. In addition to subjecting the  person to other penalties
+under law, reporting the debt may result in the debt becoming void and uncollectible.”
+(B) Report to a consumer reporting agency the amount or existence of any medical debt
+or medical debt that a resident of this state owes to the medical services provider or  that a
+debt buyer has purchased from a medical services provider.
+(b) A violation of paragraph (a)  of this subsection is an unlawful practice under ORS
+646.608 for which a  person may bring an action under ORS 646.638 and obtain an order or
+judgment that, in addition to providing other relief available under ORS 646.638, voids  and
+renders uncollectible the medical debt.
+(12) A consumer reporting agency may not include in  a consumer report an item that the
+consumer reporting agency knows or reasonably should know is medical debt. A violation  of
+this subsection is an unlawful practice under ORS 646.608.
+SECTION 2.
+ ORS 646.608, as amended by section 6, chapter 410, Oregon Laws 2023,  is amended
+to read:
+646.608. (1) A person engages in an unlawful practice if in the course of the  person’s business,
+vocation or occupation the person does any of the following:
+(a) Passes off real estate, goods or services as the real estate, goods or services of another.
+(b) Causes likelihood  of confusion or of misunderstanding as to the source, sponsorship, ap-
+proval, or certification of real estate, goods or services.
+(c) Causes likelihood of confusion  or of misunderstanding as to affiliation, connection, or asso-
+ciation with, or certification by, another.
+(d) Uses deceptive representations or designations of  geographic origin in connection with real
+estate, goods or services.
+(e) Represents that real estate,  goods or services have sponsorship, approval, characteristics,
+ingredients, uses, benefits, quantities or  qualities that the real estate, goods or services do not have
+[3]
+SB 605
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+or that a person  has a sponsorship, approval, status, qualification, affiliation, or connection that the
+person does not have.
+(f) Represents that real estate or goods are original or new if the real estate or  goods are de-
+teriorated, altered, reconditioned, reclaimed, used or secondhand.
+(g) Represents that real estate,  goods or services are of a particular standard, quality, or grade,
+or that real estate or goods are of a particular  style or model, if the real estate, goods or services
+are of another.
+(h) Disparages the real estate, goods, services, property or business of  a customer or another
+by false or misleading representations of fact.
+(i) Advertises  real estate, goods or services with intent not to provide the real estate, goods or
+services as advertised, or  with intent not to supply reasonably expectable public demand, unless the
+advertisement discloses a limitation of quantity.
+(j) Makes false or misleading representations of fact  concerning the reasons for, existence of,
+or amounts of price reductions.
+(k) Makes false or misleading representations concerning credit availability or the nature of the
+transaction or obligation incurred.
+(L) Makes false or misleading representations relating  to commissions or other compensation to
+be paid in exchange for permitting real estate, goods or  services to be used for model or demon-
+stration purposes or in exchange for submitting names of potential customers.
+(m) Performs service on or dismantles any goods or real estate if the owner  or apparent owner
+of the goods or real estate does not authorize the service or dismantling.
+(n) Solicits potential customers by telephone or door to door as a seller  unless the person pro-
+vides the information required under ORS 646.611.
+(o) In a sale, rental or other disposition of real estate, goods or  services, gives or offers to give
+a rebate or  discount or otherwise pays or offers to pay value to the customer in consideration of
+the customer giving to the person the names of prospective purchasers, lessees, or  borrowers, or
+otherwise aiding the person in making a sale, lease, or loan to  another person, if earning the rebate,
+discount  or  other value is contingent upon an event occurring after the time the customer enters
+into the transaction.
+(p) Makes any false or misleading statement about a prize, contest or promotion used  to publi-
+cize a product, business or service.
+(q) Promises to deliver real estate, goods or  services within a certain period of time with intent
+not to deliver the real estate, goods or services as promised.
+(r) Organizes or induces or attempts to induce membership in a pyramid club.
+(s) Makes false or misleading representations of fact concerning the  offering price of, or the
+person’s cost for real estate, goods or services.
+(t) Concurrent  with tender or delivery of any real estate, goods or services, fails to disclose any
+known material defect or material nonconformity.
+(u) Engages in any other unfair or deceptive conduct in trade or commerce.
+(v) Violates any of the provisions relating to auction  sales, consignment sales, auctioneers,
+consignees or auction marts under ORS  698.640, whether in a commercial or noncommercial situ-
+ation.
+(w) Manufactures mercury fever thermometers.
+(x) Sells or supplies mercury fever thermometers  unless the thermometer is required by federal
+law, or is:
+[4]
+SB 605
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Prescribed by a person licensed under ORS chapter 677; and
+(B) Supplied with instructions on the careful handling of  the thermometer to avoid breakage and
+on the proper cleanup of mercury should breakage occur.
+(y) Sells a thermostat that contains mercury, unless the thermostat is  labeled in a manner to
+inform the purchaser that mercury is present in the thermostat and  that the thermostat may not be
+disposed of until the mercury is removed, reused, recycled or  otherwise managed to ensure that the
+mercury does not become part of the solid waste stream or wastewater. For purposes of this  para-
+graph, “thermostat” means a device commonly used to sense and, through  electrical communication
+with heating, cooling or ventilation equipment, control room temperature.
+(z) Sells or offers for sale a motor vehicle manufactured after January 1, 2006, that  contains
+mercury light switches.
+(aa) Violates the provisions of ORS 803.375, 803.385 or 815.410 to 815.430.
+(bb) Violates ORS 646A.070 (1).
+(cc) Violates any requirement of ORS 646A.030 to 646A.040.
+(dd) Violates the provisions of ORS 128.801 to 128.898.
+(ee) Violates ORS 646.883 or 646.885.
+(ff) Violates ORS 646.569 or 646A.374.
+(gg) Violates the provisions of ORS 646A.142.
+(hh) Violates ORS 646A.360.
+(ii) Violates ORS 646.553 or 646.557 or any rule adopted pursuant thereto.
+(jj) Violates ORS 646.563.
+(kk) Violates ORS 759.680 or any rule adopted pursuant thereto.
+(LL) Violates the provisions  of ORS 759.705, 759.710 and 759.720 or any rule adopted pursuant
+thereto.
+(mm) Violates ORS 646A.210 or 646A.214.
+(nn) Violates any provision of ORS 646A.124 to 646A.134.
+(oo) Violates ORS 646A.095.
+(pp) Violates ORS 822.046.
+(qq) Violates ORS 128.001.
+(rr) Violates ORS 646A.800 (2) to (4).
+(ss) Violates ORS 646A.090 (2) to (5).
+(tt) Violates ORS 87.686.
+(uu) Violates ORS 646A.803.
+(vv) Violates ORS 646A.362.
+(ww) Violates ORS 646A.052 or any rule adopted under ORS 646A.052 or 646A.054.
+(xx) Violates ORS 180.440 (1) or 180.486 (1).
+(yy) Commits the offense of acting as a vehicle dealer without a certificate under ORS 822.005.
+(zz) Violates ORS 87.007 (2) or (3).
+(aaa) Violates ORS 92.405 (1), (2) or (3).
+(bbb) Engages in an unlawful practice under ORS 646.648.
+(ccc) Violates ORS 646A.365.
+(ddd) Violates ORS 98.853, 98.854, 98.856 or 98.858.
+(eee) Sells a gift card in violation of ORS 646A.276.
+(fff) Violates ORS 646A.102, 646A.106 or 646A.108.
+(ggg) Violates ORS 646A.430 to 646A.450.
+[5]
+SB 605
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+(hhh) Violates a provision of ORS 744.318 to 744.384.
+(iii) Violates a provision of ORS 646A.702 to 646A.720.
+(jjj) Violates ORS  646A.530 30 or more days after a recall notice, warning or declaration de-
+scribed in ORS 646A.530 is issued for the children’s product, as defined in ORS 646A.525, that is the
+subject of the violation.
+(kkk) Violates a provision of ORS 697.612, 697.642, 697.652, 697.662, 697.682, 697.692 or 697.707.
+(LLL) Violates the consumer protection  provisions of the Servicemembers Civil Relief Act, 50
+U.S.C. 3901 et seq., as in effect on January 1, 2010.
+(mmm) Violates a provision of ORS 646A.480 to 646A.495.
+(nnn) Violates ORS 646A.082.
+(ooo) Violates ORS 646.647.
+(ppp) Violates ORS 646A.115.
+(qqq) Violates a provision of ORS 646A.405.
+(rrr) Violates ORS 646A.092.
+(sss) Violates a provision of ORS 646.644.
+(ttt) Violates a provision of ORS 646A.295.
+(uuu) Engages in the business of, or acts in  the capacity of, an immigration consultant, as de-
+fined in ORS 9.280, in this state and for compensation, unless federal law authorizes the person to
+do so or unless the person is an active member of the Oregon State Bar.
+(vvv) Violates ORS 702.012, 702.029 or 702.054.
+(www) Violates ORS 646A.806.
+(xxx) Violates ORS 646A.810 (2).
+(yyy) Violates ORS 443.376.
+(zzz) Violates a provision of ORS 646A.770 to 646A.787.
+(aaaa) Violates ORS 815.077.
+(bbbb) Violates ORS 646A.677 (11)(a) or (12).
+(2) A representation under subsection (1) of this section or  ORS 646.607 may be any manifesta-
+tion of any assertion by words or conduct, including, but not limited to, a failure to  disclose a fact.
+(3) In order to prevail in an action or suit under ORS 336.184 and  646.605 to 646.652, a prose-
+cuting attorney need not prove competition between the parties or actual confusion  or misunder-
+standing.
+(4) An action or suit may not be brought under subsection (1)(u) of this  section unless the At-
+torney General has  first established a rule in accordance with the provisions of ORS chapter 183
+declaring the conduct to be unfair or deceptive in trade or commerce.
+(5) Notwithstanding any other provision of ORS 336.184 and 646.605 to 646.652, if an  action or
+suit is  brought under subsection (1)(xx) of this section by a person other than a prosecuting attor-
+ney, relief is limited to an injunction, and the  prevailing party may be awarded reasonable attorney
+fees.
+[6]

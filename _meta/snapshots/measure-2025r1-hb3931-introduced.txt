@@ -1,0 +1,218 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3931
+Sponsored by Representatives NGUYEN D, DOBSON
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes a task force to evaluate ways to create a web portal for people to apply for and
+receive common types of licenses, ID cards and other permits. (Flesch Readability Score: 60.5).
+Establishes the E-Oregon Task Force for the purposes of evaluating potential solutions  and
+methods for creating a coordinated  electronic portal or portals that create a common pathway for
+residents of this state to apply for and receive  licenses, registrations, certifications, identification
+cards and other credentials or permits necessary for  engaging in business or other common trans-
+actions in this state.
+Requires the identified solution to organize and reduce the complexity of interactions with  state
+and local agencies that are  now required to engage in business or undertake many common tasks
+that require official permission, grouping similar or related  tasks into straightforward and stream-
+lined procedures and protecting and enhancing information security and  privacy where appropriate.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to efficient operations for interactions between residents of  this state and government
+agencies; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The E-Oregon Task Force is established.
+(2) The task force consists of 17 members appointed as follows:
+(a) The President of  the Senate shall appoint two nonvoting members from among
+members of the Senate, one from the majority caucus and one from a minority caucus.
+(b) The Speaker of the House  of Representatives shall appoint two nonvoting members
+from among members of the House of Representatives, one from the majority caucus  and
+one from a minority caucus.
+(c) The Governor shall appoint 12 members as follows:
+(A) One member who represents the Governor;
+(B) The Director of the Oregon Department of Administrative  Services, or a designee of
+the director;
+(C) The Director of the Department of Consumer  and Business Services, or a designee
+of the director;
+(D) One member who represents large businesses that are headquartered in or have sig-
+nificant operations in this state;
+(E) One member who represents established businesses of an intermediate size that are
+headquartered in or have significant operations in this state;
+(F) One member who represents small businesses in this state;
+(G) The executive director of the Higher Education  Coordinating Commission, or a
+designee of the executive director;
+(H) One member who represents a labor organization in this state;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4666
+HB 3931
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(I) One member who represents a county government in this state;
+(J) One member who represents a city government in this state;
+(K) One member who  represents students who attend an institution of higher education
+in this state; and
+(L) One member with significant experience in information technology and web portal
+construction and maintenance.
+(e) The Secretary of  State shall appoint one member to represent the Secretary of State.
+(3) The task force  shall study and evaluate potential solutions and methods for creating
+a coordinated electronic portal or portals that create a common pathway for residents of this
+state to apply for and receive  licenses, registrations, certifications, identification cards and
+other credentials or permits necessary for engaging in business or other common trans-
+actions in this state. The identified solution must:
+(a) Organize and reduce the  complexity of interactions with state and local agencies that
+are now required to engage in business or undertake  many common tasks that require offi-
+cial permission;
+(b) Group similar or related tasks into straightforward and streamlined procedures; and
+(c) Protect and enhance information security and privacy where appropriate.
+(4) The task force may:
+(a) Examine and evaluate available web-based solutions  and electronic technology needed
+to establish the system described in subsection (3) of this section;
+(b) Evaluate systems established in other states for the same purpose;
+(c) Require state agencies and local  governments to submit information about the vari-
+ous permits and credentials required to engage in business in or  under the jurisdiction of the
+agency or local government;
+(d) Solicit and hear testimony;
+(e) Invite other persons with relevant responsibilities, expertise or knowledge to  join the
+task force  or attend task force meetings, if a majority of the task force votes to extend an
+invitation and if the Governor approves the invitation; and
+(f) Engage in any other activity reasonably necessary  to carry out the purposes identified
+in subsection (3) of this section.
+(5) A  majority of the voting members of the task force constitutes a quorum for the
+transaction of business.
+(6) Official action by the task force requires the approval of a majority  of the voting
+members of the task force.
+(7) The Governor shall select one member of the task  force to serve as chairperson and
+another to serve  as vice chairperson, for the terms and with the duties and powers necessary
+for the performance of the functions of the offices as the Governor determines.
+(8) If there is a vacancy for any cause, the appointing authority shall make  an appoint-
+ment to become immediately effective.
+(9) The task force shall meet at times and places specified by the call of  the chairperson
+or of a majority of the voting members of the task force.
+(10) The task force may adopt rules necessary for the operation of the task force.
+(11) The task force shall submit a  report in the manner provided by ORS 192.245, and
+may include recommendations for legislation, to an interim committee  of the Legislative
+Assembly related to government operations no later than December 15, 2026.
+[2]
+HB 3931
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+(12) The Oregon Department of Administrative Services shall provide staff  support to the
+task force.
+(13) Members of  the Legislative Assembly appointed to the task force are nonvoting
+members of the task force and may act in an advisory capacity only.
+(14) Members of the task force who are not members of the Legislative Assembly serve
+as volunteers  on the task force and, unless they are qualified members, as defined in ORS
+292.495, are not entitled to compensation or reimbursement for expenses.
+(15)(a) All agencies of state government, as defined in  ORS 174.111, are directed to assist
+the task force in the performance of  the duties of the task force and, to the extent permitted
+by laws relating to confidentiality, to furnish information and advice the members of the task
+force consider necessary to perform their duties.
+(b) All state agencies  that issue permits, licenses, registrations, certifications or iden-
+tification cards or credentials shall compile a listing or catalog  of all such documents or
+permits and forward the listing or compilation to the task force  within 90 days after the task
+force issues a request to the agency for a listing or catalog.
+(16) All appointments to  the task force made under subsection (1) of this section must
+be completed by 90 days after adjournment sine die of the 2025  session of the Eighty-third
+Legislative Assembly.
+(17) The  task force shall have its first meeting on or before 91 days after adjournment
+sine die of the 2025 session of the Eighty-third Legislative Assembly.
+SECTION 2.
+Section 1 of this 2025 Act is repealed on December 31, 2026.
+SECTION 3. This 2025 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+on its passage.
+[3]

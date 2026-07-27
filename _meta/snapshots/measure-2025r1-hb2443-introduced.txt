@@ -1,0 +1,61 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2443
+Sponsored by Representative  YUNKER; Representatives BOICE, WRIGHT, Senators NASH, SMITH DB, WEBER
+(Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells a county clerk to  cancel a voter’s enrollment for certain reasons. (Flesch
+Readability Score: 65.7).
+Requires a county clerk to cancel the registration  of an elector if the elector registers to vote
+in another county, surrenders the  elector’s driver license upon being issued a license in another
+state or is excused from jury duty for not being a United States citizen.
+A BILL FOR AN ACT
+Relating to cancellation of voter registration; amending ORS 247.555.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 247.555 is amended to read:
+247.555. (1) A county clerk may cancel the registration of an elector:
+(a) At the request of the elector;
+(b) Upon the death of the elector;
+(c) If the [ county clerk receives written evidence  that the] elector has registered to vote in another
+county or  state; [ or]
+(d) If the elector has not responded  to a notice described in ORS 247.563 and has not voted or
+updated a registration during the period beginning on the date the notice  is sent and ending on the
+day after the date of the second regular general election that  occurs after the date the notice was
+sent[.];
+(e) If the elector surrenders the elector’s driver  license to the Department of Transpor-
+tation upon being issued a driver license in another state; or
+(f) If the elector is excused from jury duty for not being a citizen of the United States.
+(2) For purposes of this section, subsection (1)(c) and  (e) of this section constitute con-
+firmation from the elector  to cancel the registration of the elector due to a change in resi-
+dence address.
+(3) If the registration of an elector is canceled, the elector, in order to vote in  an election, must
+register as provided in this chapter.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1190

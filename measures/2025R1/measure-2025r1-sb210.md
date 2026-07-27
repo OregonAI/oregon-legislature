@@ -1,0 +1,1170 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb210
+title: 'SB 210 (2025R1): Makes in-person voting on the date of an election the standard method for conducting
+  an election.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 210
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB210/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 5364a556959429ad0338e30558ab57fc1fad5397534eee6d91a76fe9aa29a70d
+snapshot_id: measure-2025r1-sb210-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 106.041
+  - ORS 106.325
+  - ORS 174.109
+  - ORS 192.311
+  - ORS 192.820
+  - ORS 192.842
+  - ORS 247.018
+  - ORS 247.025
+  - ORS 247.171
+  - ORS 247.203
+  - ORS 247.307
+  - ORS 247.940
+  - ORS 247.945
+  - ORS 247.948
+  - ORS 247.965
+  - ORS 247.973
+  - ORS 249.021
+  - ORS 251.005
+  - ORS 251.022
+  - ORS 251.167
+  - ORS 251.175
+  - ORS 251.305
+  - ORS 251.315
+  - ORS 253.005
+  - ORS 253.065
+  - ORS 253.070
+  - ORS 253.501
+  - ORS 253.510
+  - ORS 253.585
+  - ORS 253.690
+  - ORS 254.165
+  - ORS 254.321
+  - ORS 254.365
+  - ORS 254.408
+  - ORS 254.431
+  - ORS 254.445
+  - ORS 254.458
+  - ORS 254.465
+  - ORS 254.470
+  - ORS 254.472
+  - ORS 254.473
+  - ORS 254.474
+  - ORS 254.476
+  - ORS 254.480
+  - ORS 254.482
+  - ORS 254.485
+  - ORS 260.665
+  - ORS 260.695
+  - ORS 326.565
+  - ORS 326.580
+  - ORS 341.005
+  - ORS 350.245
+  - ORS 352.002
+  - ORS 807.400
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 210
+prefix_meaning: Senate Bill
+catch_line: Makes in-person voting on the date of an election the standard method for conducting an election.
+minority_catch_line: null
+measure_summary: "\tDigest: Makes voting in person the normal method for voting. Requires voters to show\
+  \ picture ID when voting or requesting a ballot. Refers the Act to the people at the next general election.\
+  \ (Flesch Readability Score: 63.8). \n\tMakes in-person voting on the date of an election the standard\
+  \ method for conducting an election. Allows an elector to request a ballot that may be voted by mail\
+  \ if the elector is unable to vote in person on the date of the election. Retains vote by mail as the\
+  \ primary method for conducting elections for military and overseas electors and for electors who have\
+  \ a mailing address outside of Oregon. \n\tRequires electors to present valid government-issued identification\
+  \ when appearing in-person to vote or when requesting a ballot be sent by mail. Requires all ballots\
+  \ to be returned by the date of an election. \n\tRemoves a requirement that the state pay postage for\
+  \ ballots returned by mail. \n\tRefers the Act to the people for their approval or rejection at the\
+  \ next general election."
+relating_to: Relating to conduct of elections; providing that this Act shall be referred to the people
+  for their approval or rejection.
+relating_to_full: Relating to conduct of elections; creating new provisions; amending ORS 192.842, 247.018,
+  247.307, 247.948, 247.965, 251.175, 251.315, 253.005, 253.065, 253.070, 253.585, 253.690, 254.321, 254.365,
+  254.408, 254.465, 254.470, 254.474, 254.480, 254.482, 254.485, 260.665, 260.695 and 350.245; and repealing
+  ORS 254.458 and 254.473; and providing that this Act shall be referred to the people for their approval
+  or rejection.
+at_the_request_of: null
+lc_number: 1272
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-01-23T09:26:14'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 72253
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 106.041
+  - ORS 106.325
+  - ORS 174.109
+  - ORS 192.311
+  - ORS 192.820
+  - ORS 192.842
+  - ORS 247.018
+  - ORS 247.025
+  - ORS 247.171
+  - ORS 247.203
+  - ORS 247.307
+  - ORS 247.940
+  - ORS 247.945
+  - ORS 247.948
+  - ORS 247.965
+  - ORS 247.973
+  - ORS 249.021
+  - ORS 251.005
+  - ORS 251.022
+  - ORS 251.167
+  - ORS 251.175
+  - ORS 251.305
+  - ORS 251.315
+  - ORS 253.005
+  - ORS 253.065
+  - ORS 253.070
+  - ORS 253.501
+  - ORS 253.510
+  - ORS 253.585
+  - ORS 253.690
+  - ORS 254.165
+  - ORS 254.321
+  - ORS 254.365
+  - ORS 254.408
+  - ORS 254.431
+  - ORS 254.445
+  - ORS 254.458
+  - ORS 254.465
+  - ORS 254.470
+  - ORS 254.472
+  - ORS 254.473
+  - ORS 254.474
+  - ORS 254.476
+  - ORS 254.480
+  - ORS 254.482
+  - ORS 254.485
+  - ORS 260.665
+  - ORS 260.695
+  - ORS 326.565
+  - ORS 326.580
+  - ORS 341.005
+  - ORS 350.245
+  - ORS 352.002
+  - ORS 807.400
+  from_relating_to_full:
+  - ORS 192.842
+  - ORS 247.018
+  - ORS 247.307
+  - ORS 247.948
+  - ORS 247.965
+  - ORS 251.175
+  - ORS 251.315
+  - ORS 253.005
+  - ORS 253.065
+  - ORS 253.070
+  - ORS 253.585
+  - ORS 253.690
+  - ORS 254.321
+  - ORS 254.365
+  - ORS 254.408
+  - ORS 254.458
+  - ORS 254.465
+  - ORS 254.470
+  - ORS 254.473
+  - ORS 254.474
+  - ORS 254.480
+  - ORS 254.482
+  - ORS 254.485
+  - ORS 260.665
+  - ORS 260.695
+  - ORS 350.245
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 210`.
+
+# SB 210 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 210, 2025 Regular Session (2025R1)
+- **LC number:** 1272
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-01-23T09:26:14
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 72253 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB210/Introduced>.
+
+## Summary
+
+**Catchline:** Makes in-person voting on the date of an election the standard method for conducting an election.
+
+**Relating to:** Relating to conduct of elections; providing that this Act shall be referred to the people for their approval or rejection.
+
+Digest: Makes voting in person the normal method for voting. Requires voters to show picture ID when voting or requesting a ballot. Refers the Act to the people at the next general election. (Flesch Readability Score: 63.8). 
+ Makes in-person voting on the date of an election the standard method for conducting an election. Allows an elector to request a ballot that may be voted by mail if the elector is unable to vote in person on the date of the election. Retains vote by mail as the primary method for conducting elections for military and overseas electors and for electors who have a mailing address outside of Oregon. 
+ Requires electors to present valid government-issued identification when appearing in-person to vote or when requesting a ballot be sent by mail. Requires all ballots to be returned by the date of an election. 
+ Removes a requirement that the state pay postage for ballots returned by mail. 
+ Refers the Act to the people for their approval or rejection at the next general election.
+
+**RelatingToFull (verbatim upstream field):** Relating to conduct of elections; creating new provisions; amending ORS 192.842, 247.018, 247.307, 247.948, 247.965, 251.175, 251.315, 253.005, 253.065, 253.070, 253.585, 253.690, 254.321, 254.365, 254.408, 254.465, 254.470, 254.474, 254.480, 254.482, 254.485, 260.665, 260.695 and 350.245; and repealing ORS 254.458 and 254.473; and providing that this Act shall be referred to the people for their approval or rejection.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 210
+Sponsored by Senator SMITH DB (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes voting in person the normal method for voting. Requires voters to show picture
+ID when voting or requesting a ballot. Refers the Act to the people at  the next general election.
+(Flesch Readability Score: 63.8).
+Makes in-person voting on the  date of an election the standard method for conducting an
+election. Allows an elector to request a ballot that may be voted by mail if the elector  is unable to
+vote in person on the date of the election. Retains vote by mail as the  primary method for con-
+ducting elections for military  and overseas electors and for electors who have a mailing address
+outside of Oregon.
+Requires electors to present valid government-issued identification when appearing in-person  to
+vote or when requesting a ballot be sent by mail. Requires all ballots to be returned by the  date of
+an election.
+Removes a requirement that the state pay postage for ballots returned by mail.
+Refers the Act to the people for their approval or rejection at the next general election.
+A BILL FOR AN ACT
+Relating to conduct of elections; creating new provisions; amending ORS 192.842, 247.018,  247.307,
+247.948, 247.965, 251.175,  251.315, 253.005, 253.065, 253.070, 253.585, 253.690, 254.321, 254.365,
+254.408, 254.465, 254.470, 254.474, 254.480, 254.482, 254.485, 260.665, 260.695 and 350.245;  and re-
+pealing ORS 254.458 and 254.473; and providing that this Act  shall be referred to the people for
+their approval or rejection.
+Be It Enacted by the People of the State of Oregon:
+ELECTIONS CONDUCTED IN PERSON ON DATE OF ELECTION
+SECTION 1.
+ ORS 254.465 is amended to read:
+254.465. (1) County clerks shall conduct all elections in this state [ by mail ] in person, on the
+date of the election and at a voting booth maintained under ORS 254.474.
+(2) Notwithstanding subsection (1) of this section, any elector  may request that the
+county clerk provide the elector with a ballot that may be returned by mail if the elector:
+(a) Is for any reason unable to vote in person on the date of the election; and
+(b) Requests a ballot that may be returned by mail no later than 21 days  before the date
+of the election .
+[(2)] (3) The Secretary of State shall adopt rules to:
+(a) Provide for uniformity  in the conduct of in-person voting for  state elections [ by mail ], in-
+cluding a requirement that an  elector must present valid government-issued identification
+that contains a photographic image of the elector prior to voting ; and
+(b) Govern the procedures for [ conducting elections by mail. ]:
+(A) Electors to request a ballot that may be returned by mail  under subsection (2) of this
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1272
+section, including the requirements that:
+(i) Any request be submitted either in person or on the Internet; and
+(ii) An elector must  verify the elector’s identity upon submitting a request under sub-
+section (2) of this section;
+(B) County clerks to provide ballots that may be returned  by mail to a person who makes
+a request under subsection (2) of this section; and
+(C) Ensuring that ballots that are returned by mail  are transported, stored and tallied
+in a secure and accurate manner.
+(4) This section does not apply to:
+(a) Military or overseas electors as defined in ORS 253.510; or
+(b) Absent electors as defined in ORS 253.005.
+(5) For purposes of this section, “valid government-issued identification” includes:
+(a) An Oregon driver license,  driver permit or state identification card issued under ORS
+807.400; and
+(b) A United States passport or United States military identification card.
+SECTION 2.
+ ORS 254.474 is amended to read:
+254.474. [(1) At each primary election and  general election, the county clerk shall maintain voting
+booths in the county as follows: ]
+[(a) In each county with 35,000 or more electors in  the county, the county clerk shall maintain a
+number of voting booths  equal to at least one voting booth for every 20,000 electors in  the county;
+and]
+[(b) In each county with fewer than 35,000 electors in the county, the county clerk shall maintain
+at least one voting booth. ]
+(1)(a) The Secretary of State, in consultation with county clerks, shall establish  by rule
+the minimum number of voting booths that must be  maintained in each precinct and county
+for each election in order to ensure that all electors are provided with  the opportunity to
+cast a ballot in person on the date of the election.
+(b) Rules adopted under this subsection shall also specify the dates and times the  voting
+booths must be open and the security  requirements for the voting booths. At a minimum,
+the voting booths designated under this section must be open on the date  of the election for
+a period of eight or more hours, but must be open until  at least 8 p.m. At each voting booth
+designated under this section, the county clerk shall prominently display a  sign stating that
+the location is an official voting booth.
+(2) The county clerk may :
+(a) At the county’s  expense, increase the number of voting booths operated during an
+election; and
+(b) Determine the location of the voting booths required under this section.
+(3) At 8 p.m. on election day, electors who are at  the county clerk’s office, a voting booth
+described under subsection (1) of this section or any location described in ORS 254.472  and
+who are in line waiting to vote or deposit a voted ballot shall be considered to have begun
+the act of voting.
+SECTION 3.
+Section 4 of this 2025 Act is added to and made a part of ORS chapter 254.
+SECTION 4. For an election held on the date of a primary election:
+(1) The county clerk shall provide the official ballot of  a major political party to each
+elector who is registered as being affiliated with  the major political party as of the 21st day
+before the date of the election and who provides the  county clerk with valid government-
+issued identification that contains a photographic image of the elector.
+(2) The county clerk shall provide the official ballot of a  major political party to an
+elector not affiliated with any political party if the elector:
+(a) Has applied for the ballot as provided in subsection (3)  of this section and that party
+has provided under ORS 254.365 for a primary election that admits electors not affiliated with
+any political party; and
+(b) Provides the county clerk with valid government-issued identification.
+(3) An elector not  affiliated with any political party who wishes to vote in the primary
+election of a major political party shall apply to the county clerk  in writing. The application
+must be completed, signed and submitted by the elector electronically, in person or by mail,
+in a manner determined by the Secretary of State by rule, and must  indicate which major
+political party ballot  the elector wishes to receive. Subject to ORS 247.203, the application
+must be received by the county  clerk not later than 5 p.m. of the 21st day before the date
+of the election.
+(4) If  the primary election ballot includes city, county or nonpartisan offices or measures,
+the county clerk  shall provide to each elector who is not eligible to vote for party candidates
+a ballot limited to those offices and measures for which the elector is eligible to vote.
+(5) For purposes of this section, “valid government-issued identification” includes:
+(a) An Oregon driver license,  driver permit or state identification card issued under ORS
+807.400 that contains the elector’s current residence address; and
+(b) A United States passport or United States military identification card.
+SECTION 5.
+ ORS 254.470 is amended to read:
+254.470. [(1) The Secretary of State by rule shall establish requirements and criteria for the desig-
+nation of places of deposit for  the ballots cast in an election. The rules shall also specify the dates and
+times the places of deposit must be open and the security requirements for the places of deposit. At  a
+minimum, the places designated under this section shall be open on the date of the election  for a period
+of eight or more hours, but must be open until at least  8 p.m. At each place of deposit designated under
+this section, the county clerk shall prominently display a sign stating  that the location is an official
+ballot drop site. ]
+[(2)(a) Except as provided in paragraphs (b) to (e) of this subsection, the county  clerk shall mail
+by nonforwardable mail an official ballot with  a return identification envelope and a secrecy envelope
+not sooner than the 20th day before the date of an  election and not later than the 14th day before the
+date of the election, to each active elector of  the electoral district as of the 21st day before the date of
+the election. ]
+[(b) If the county clerk determines  that an active elector of the electoral district as of the 21st day
+before the date of the election does not receive daily mail service from the United States Postal  Service,
+the county  clerk shall mail by nonforwardable mail an official ballot with a return identification en-
+velope and a secrecy envelope to the elector not sooner than the  20th day before the date of an election
+and not later than the 18th day before the date of the election. ]
+[(c) In the case  of ballots to be mailed to addresses outside this state to electors who are not mili-
+tary or overseas electors, the county clerk  may mail the ballots not sooner than the 29th day before the
+date of the election. ]
+[(d) If an active elector of the electoral district requests an absentee ballot because the elector  will
+be absent from the  electoral district during the period of time described in paragraph (a) of this sub-
+section, the county clerk may, if the elector’s ballot is available: ]
+[(A) Allow the  elector to receive the elector’s ballot in person at the office of the county clerk not
+sooner than the 43rd day before the date of the election; or ]
+[(B) Mail by nonforwardable mail  an official ballot with a return identification envelope and a
+secrecy envelope to the elector not sooner than the 43rd day before the date of the election. ]
+[(e) The county clerk is not required to mail a secrecy envelope under this  subsection if the Secre-
+tary of State has approved a different procedure under ORS 254.458 that provides substantially  the
+same degree of secrecy. ]
+[(3) For an election held on the date of a primary election: ]
+[(a) The county clerk shall mail the official ballot of a major political party to each elector  who is
+registered as being affiliated with the major political party as of the 21st day before  the date of the
+election.]
+[(b) The county clerk shall mail the official ballot of a major  political party to an elector not af-
+filiated with any political party if  the elector has applied for the ballot as provided in this subsection
+and that party has provided under ORS 254.365 for  a primary election that admits electors not affil-
+iated with any political party. ]
+[(c) An elector not affiliated with any political party who wishes to vote in the primary election of
+a major political party shall apply to the county clerk in writing. The application must be  completed,
+signed and submitted by the elector electronically, in person or by mail, in a manner determined by  the
+secretary  by  rule and must indicate which major political party ballot the elector wishes to receive.
+Except for electors described in subsection (4) of this section, and subject to ORS 247.203, the applica-
+tion must be received by the county clerk not later than 5 p.m.  of the 21st day before the date of the
+election.]
+[(d) If the primary election ballot includes  city, county or nonpartisan offices or measures, the
+county clerk shall mail to each elector who is not eligible to vote for  party candidates a ballot limited
+to those offices and measures for which the elector is eligible to vote. ]
+[(4)(a) For each elector who updates a voter registration after the deadline in  ORS 247.025, the
+county clerk shall make the official ballot, the return  identification envelope and the secrecy envelope
+available either by mail or at the county clerk’s office or at another  place designated by the county
+clerk. An elector to whom this subsection applies must request a ballot from the county clerk. ]
+[(b) The county clerk is not required to make available a secrecy envelope under this subsection  if
+the Secretary of  State has approved a different procedure under ORS 254.458 that provides substan-
+tially the same degree of secrecy. ]
+In addition to any rules adopted by the Secretary of State under ORS 254.465, for  any
+ballot that may be returned by mail:
+[(5)] (1) The ballot shall contain the following warning:
+_______________________________________________________________________________________
+Any person who, by use  of force or other means, unduly influences an elector to vote in any
+particular manner or to refrain from voting is subject to a fine.
+_______________________________________________________________________________________
+[(6)(a)] (2)(a) Upon receipt of [ any ballot described in  this section ] the ballot , the elector shall
+mark the ballot, sign the return identification envelope supplied with the ballot  and comply with the
+instructions provided with the ballot.
+(b) The elector may return the marked ballot  to the county clerk by United States mail or by
+depositing the ballot at  the office of the county clerk[ , at any place of deposit designated by the
+county clerk or at any location described in ORS 254.472 or 254.474 ].
+(c) The ballot must be returned in the return identification envelope.
+(d) Subject to paragraph (e) of this subsection, if a person returns a ballot for  an elector, the
+person shall deposit the ballot in a manner described in  paragraph (b) of this subsection not later
+than two days after receiving the ballot.
+(e) [ If the elector deposits the ballot  at the office of the county clerk, at any place of deposit des-
+ignated by the county  clerk or at any location described in ORS 254.472 or 254.474, the ] The  ballot
+must be received at the office of the county clerk[ , at the designated place of deposit  or at any lo-
+cation described in ORS 254.472 or 254.474 ] not later than [ the end of the period determined  under
+subsection (1)  of this section ] 8 p.m.  on the date of the election. [ If the elector returns the ballot by
+mail:]
+[(A) The ballot must be received at  the office of the county clerk not later than the end of the period
+determined under subsection (1) of this section on the date of the election; or ]
+[(B) The ballot must: ]
+[(i) Have a postal indicator showing that the ballot was mailed  not later than the date of the
+election; and]
+[(ii) Be received at the office of the county clerk not later  than seven calendar days after the date
+of the election. ]
+[(f) If a county clerk receives a marked ballot for an elector who does not reside in the  clerk’s
+county, the ballot  shall be forwarded to the county clerk of the county in which the elector resides not
+later than the eighth day after the election. ]
+[(7) The following shall appear on the return identification envelope: ]
+[(a) Space for the elector to sign the envelope. ]
+[(b) A  notice designed by rule by the Secretary of State, in consultation with the county clerks,
+explaining that by signing the ballot the elector is attesting under  penalty of perjury that the ballot
+was mailed no later than the date of the election. ]
+[(c) A  summary of the applicable penalties for knowingly making a false statement, oath or affidavit
+under the election laws. ]
+[(8) If the elector  returns the ballot by mail, and a postal indicator is not present or legible, the
+ballot shall be considered to be mailed on the date of the election and may  be counted if the ballot is
+received no later than seven calendar days after the election. ]
+[(9)] (3) An elector may obtain a replacement ballot if the ballot is destroyed, spoiled, lost or
+not received by the elector. Replacement ballots shall be issued and processed as described  in this
+section  and  ORS 254.480. The county clerk shall keep a record of each replacement ballot provided
+under this subsection. [Notwithstanding any deadline for mailing ballots in subsection (2)  of this
+section, a ] A replacement ballot may be mailed, made available in the office of  the county clerk or
+made available at one central location in the electoral district in which the  election is conducted.
+The county clerk shall designate the central location. A replacement ballot need not be  mailed after
+the fifth day before the date of the election.
+[(10)] (4) [ A] The ballot shall be counted only if:
+(a) It is returned in the return identification envelope;
+(b) The envelope is signed by the elector to whom the ballot is issued,  unless a certified state-
+ment is submitted under ORS 254.431; and
+(c) The signature is verified as provided in subsection [ (11)] (5) of this section.
+[(11)] (5) The county clerk shall verify the signature of [ each] the elector on the  return iden-
+tification envelope with the signature on the elector’s registration record, according to  the proce-
+dure provided by rules adopted by the Secretary of  State. Rules adopted by the secretary under this
+subsection must limit  personnel authorized to verify signatures to the personnel authorized to count
+ballots  under  ORS 254.476. If the county clerk determines that an elector to whom a replacement
+ballot has been issued has voted more than once,  the county clerk shall count only one ballot cast
+by that elector.
+[(12) At 8 p.m. on election day, electors who are at the county clerk’s office,  a place of deposit
+designated under subsection (1) of this  section or any location described in ORS 254.472 or 254.474 and
+who are in line waiting to vote or deposit a voted ballot shall be considered to  have begun the act of
+voting.]
+[(13)(a)(A)] (6)(a)(A) Except as provided in subparagraph (B) of this paragraph, the name  of the
+Secretary of State may not appear in the secretary’s official capacity  on the return identification
+envelope or on any instructions or materials  included with the ballot if the secretary is a candidate
+in the election for which the ballot is printed.
+(B) This paragraph does not prohibit the name of the Secretary of State from  appearing in the
+secretary’s official capacity in the voters’ pamphlet.
+(b) The name of the county clerk or  other filing officer may not appear in the official capacity
+of the county clerk or filing officer on the return identification envelope or on  any instructions or
+materials included with the ballot if the county clerk or filing officer is a candidate in  the election
+for which the ballot is printed.
+(c) As used in this subsection, “filing officer” has the meaning given that term in ORS 254.165.
+[(14) As used in this section, “postal indicator” means a postmark or other indicator  on a mailed
+ballot, identified by the Secretary of  State by rule, that demonstrates the date or time at which a ballot
+was mailed.]
+BALLOTS MUST BE RECEIVED BY DATE OF ELECTION
+SECTION 6.
+ ORS 253.065 is amended to read:
+253.065. (1) For electors with  mailing addresses outside this state, the county clerk shall deliver
+a ballot:
+(a) Not later than the 45th day before the election to each military or overseas elector; and
+(b) Not sooner than the 29th day before the election to  each absent elector [ with a mailing ad-
+dress outside this state who is not a military or overseas elector ].
+(2) The clerk shall deliver with the ballot  instructions for marking and returning the ballot, a
+return identification envelope and, if used, a secrecy envelope. [ Except as provided in subsection (3)
+of this section, the return identification envelope must contain: ] The back of the envelope must in-
+clude a statement to be signed by the absent elector, stating that the elector:
+(a) Is qualified to vote;
+(b) Unless prevented by physical disability, has personally marked the ballot; and
+(c) Has not unnecessarily exhibited the marked ballot to any other person.
+[(a) Space for the elector to sign the envelope. ]
+[(b) A  notice designed by rule by the Secretary of State, in consultation with the county clerks,
+explaining that by signing the ballot the elector is attesting under  penalty of perjury that the ballot
+was mailed no later than the date of the election. ]
+[(c) A  summary of the applicable penalties for knowingly making a false statement, oath or affidavit
+under the election laws. ]
+[(3) For a military or overseas elector as defined in ORS 253.501, the  return identification envelope
+provided under subsection (2) of this section must contain: ]
+[(a) Any information that a military or overseas elector is required to sign under the  federal Help
+America Vote Act of 2002 (P.L. 107-252) or other federal law; ]
+[(b) Space for the elector to sign; and ]
+[(c) To  the extent not required under paragraph (a) of this subsection, a notice designed by rule
+by the Secretary of State that ensures that  any military or overseas elector who returns a ballot by
+mail makes a legally binding assertion that the  ballot was mailed no later than the date of the
+election.]
+[(4)] (3) An absent elector may obtain a replacement ballot if the ballot delivered under  this
+section is destroyed, spoiled, lost or not received by the elector. The county clerk shall keep  a re-
+cord of each replacement ballot provided under this subsection.
+[(5)] (4) A replacement ballot provided under subsection [ (4)] (3) of this section  may be mailed
+or shall be made available in the office of the county clerk.
+[(6)] (5) If the county clerk determines  that an absent elector to whom a replacement ballot has
+been issued at the request of the elector has voted more than once, the county clerk shall count only
+the first ballot received by the clerk and provide the elector’s name to the Secretary  of State for
+further review. If the county clerk is required to reissue ballots due to a change on  the ballot for
+any reason, that ballot shall be counted in lieu of any previous ballot issued unless:
+(a) Only the original ballot was voted and returned; or
+(b) The county clerk issued  a supplemental ballot that is not a complete replacement of the or-
+iginal ballot.
+SECTION 7.
+ ORS 253.070 is amended to read:
+253.070. [(1) Upon receipt of a ballot the absent elector shall mark it and  comply with the in-
+structions provided with the ballot.  The absent elector may return the marked ballot to the office of the
+clerk, by any appropriate means. ]
+[(2) If the absent elector returns the marked ballot by any  means other than by mail, the ballot
+must be received by a county clerk not later than 8 p.m. of the day of the election. ]
+[(3) If the absent elector returns the marked ballot by mail: ]
+[(a) The ballot must be received by a county clerk not later than 8 p.m. on the day of the  election;
+or]
+[(b) The ballot must: ]
+[(A) Have a postal indicator showing that the ballot  was mailed not later than the date of the
+election; and]
+[(B) Be received at the office of the  county clerk not later than seven calendar days after the date
+of the election. ]
+[(4) If the elector  returns the ballot by mail, and a postal indicator is not present or legible, the
+ballot shall be considered to be mailed on the date of the election and may  be counted if the ballot is
+received no later than seven calendar days after the election. ]
+[(5) If a county clerk receives  a marked ballot for an elector who does not reside in the clerk’s
+county, the ballot  shall be forwarded to the county clerk of the county in which the elector resides not
+later than the eighth day after the election. ]
+[(6) As used in this section, “postal indicator” has the meaning given that term in ORS  254.470.]
+A ballot from an absent elector must be received by a county clerk not later  than 8 p.m. on
+the date of the election.
+SECTION 8.
+ ORS 254.485, as amended by section 3, chapter 56, Oregon Laws 2024, is  amended
+to read:
+254.485. (1) Ballots may be tallied by  a vote tally system or by a counting board. A counting
+board may tally ballots at the  precinct or in the office of the county clerk. In any event, the ballots
+shall be tallied and returned by precinct.
+(2) If a counting board has  been appointed, the tally of ballots may begin on the date of the
+election.
+(3)(a) If  ballots are tallied by a counting board, after the tally has begun it shall continue until
+completed. Except as provided in paragraph (b) of this subsection, a  counting board shall tally
+without adjournment and in the presence of the clerks and persons authorized to attend.
+(b) A counting board may be relieved by another board if  the tally is not completed after 12
+hours.
+(4) A  counting board shall audibly announce the tally as it proceeds. The board shall use only
+pen and ink to tally.
+(5) For ballots cast using a voting machine, the county clerk shall:
+(a) Enter the ballots cast using the machine into the vote tally system; and
+(b) In the event of a recount, provide the paper record copy recorded  by the machine to the
+counting board.
+(6) A person other than the county clerk, a member of a counting board  or any other elections
+official designated by the county clerk may not tally ballots under this chapter.
+[(7) The Secretary of State shall  by rule establish a procedure for announcing the status of the tally
+of the ballots received after the date of the election. Rules adopted under this subsection must: ]
+[(a) Consider the number of ballots being released in relation to the size of the district; ]
+[(b) Prioritize voter anonymity; and ]
+[(c) After prioritizing voter  anonymity under paragraph (b) of this subsection, prioritize the im-
+portance of timely reporting election results. ]
+NOTE:
+ Section 9 was deleted. Subsequent sections were not renumbered.
+SECTION 10.  ORS 253.690 is amended to read:
+253.690. (1) A military or overseas elector described in ORS  253.510 may cast a ballot using a
+facsimile machine or by electronic mail as provided  in this section. Notwithstanding ORS 254.470
+[(10)] (4), a ballot cast under this section shall be counted only if the ballot:
+(a) Is received in the office of the county clerk not later than 8 p.m.  on the day of the election;
+(b) Is accompanied by a return identification envelope containing the  signature of the elector
+and a signed waiver described in subsection (2) of this section; and
+(c) The signature is verified as provided in subsection (4) of this section.
+(2) Each elector who casts a ballot under this section shall complete and  submit a waiver de-
+scribed in this subsection. The  elector shall attest to the information supplied on the waiver by
+signing the completed waiver. The Secretary of State by rule shall design the form  of the waiver,
+which shall include all of the following:
+(a) Space for the elector to provide the elector’s full  name, residence or mailing address, an
+electronic mail address, phone or facsimile number where  the elector may be contacted and any
+other necessary information.
+(b) A waiver in substantially the following form:
+_______________________________________________________________________________________
+I, _____________, acknowledge that by casting my voted ballot  using a facsimile machine or by
+electronic mail I have waived my right to a secret ballot.
+_______________________________________________________________________________________
+(c) A statement to notify the elector that the elector’s  ballot will not be counted unless the
+elector has complied with the provisions of this section.
+(d) Space for the elector to provide the  elector’s signature to attest to the information supplied.
+(3)(a) If a ballot is cast under this section using a facsimile  machine, the return identification
+envelope and waiver shall also be submitted using a facsimile machine.
+(b) If a ballot is cast under this section by  electronic mail, the return identification envelope
+and waiver shall also be submitted by electronic mail.
+(4) The county clerk shall verify the signature of each  elector on the return identification en-
+velope transmitted by facsimile machine or electronic mail under this section with  the signature on
+the elector’s registration  record, according to the procedure provided by rules adopted by the Sec-
+retary of State. Rules adopted by the  secretary under this subsection must limit personnel author-
+ized to verify signatures to the personnel authorized to count ballots under ORS 254.476.
+(5) The Secretary of  State shall adopt rules to administer this section and to ensure the secrecy
+of ballots cast using a facsimile machine or by electronic mail to the greatest extent possible.
+SECTION 11.
+ ORS 260.695 is amended to read:
+260.695. (1)(a) If a person prints or circulates an imitation of the ballot or sample ballot:
+(A) The imitation ballot or  sample ballot and the back of any return envelope enclosed with the
+ballot or sample ballot shall state the following: “THIS IS NOT A REAL  BALLOT. DO NOT USE
+TO VOTE.” The statement on the imitation ballot  or sample ballot shall be in bold print that is at
+least two times as large as the majority of the text on  the ballot or sample ballot or 20-point type,
+whichever is larger. The statement on  the back of a return envelope shall be in bold print that is
+at least 36-point type.
+(B) The word “UNOFFICIAL” must be superimposed on the imitation ballot  or sample ballot so
+that the word extends diagonally across the ballot from one margin of the text  to the other. The
+superimposed word may be printed in lighter ink than other text on the ballot or sample ballot.
+(b) For purposes of this subsection, an imitation of the ballot or sample ballot includes  an imi-
+tation of a portion of the ballot or sample ballot.
+(2)(a) As used in this subsection, “imitation voters’  pamphlet” means a document that imitates
+the physical characteristics or appearance of a voters’  pamphlet or a portion of a voters’ pamphlet
+published by the Secretary of State or county clerk, as defined  in ORS 251.005, under ORS chapter
+251 and likely misleads or confuses a reasonable  person as to whether the document is an official
+voters’ pamphlet or a portion of an official voters’ pamphlet in the absence of  the required state-
+ment.
+(b) If a person prints or circulates  an imitation voters’ pamphlet, including by electronic means:
+(A)(i) The imitation voters’ pamphlet shall state  the following: “THIS IS NOT THE OFFICIAL
+VOTERS’ PAMPHLET.” Except as provided in sub-subparagraph (ii)  of this subparagraph, the
+statement on the imitation voters’ pamphlet shall be in bold print that is at least 36-point type.
+(ii) For an imitation voters’  pamphlet that is circulated electronically, the statement described
+in sub-subparagraph (i) of this  subparagraph shall be in bold print in a typeface of contrasting color
+and in a font size that is at least three times  as large as the font size used for the majority of the
+text in the imitation voters’ pamphlet.
+(B) The word “UNOFFICIAL” must be superimposed on each page of the imitation  voters’
+pamphlet so that the word extends diagonally across the imitation  voters’ pamphlet from one margin
+of text to the other. The superimposed word may be printed or displayed in lighter ink than  other
+text on the imitation voters’ pamphlet.
+(3) A  person may not do any electioneering, including circulating any cards or handbills, or so-
+liciting of signatures to any petition, within any building in which  any state or local government
+elections office [ designated for the deposit of ballots under ORS 254.470 ] maintained as a voting
+booth under ORS 254.474 is located, or within 100 feet measured radially from any entrance to the
+building. A person may not do any electioneering  by public address system located more than 100
+feet from an entrance to the building if the person is capable of being  understood within 100 feet
+of the building. The electioneering need not relate to the election being conducted.  This subsection
+applies during the business hours of the building or, if the building is a county  elections office,
+during the hours the office is open to the public, [ during the period beginning on  the date that ballots
+are mailed to electors as provided in ORS 254.470  and ending on election day at ] on election day
+until 8 p.m. or when all persons waiting in line at the  building who began the act of voting as de-
+scribed in [ ORS 254.470 (12) ] ORS 254.474 (3) by 8 p.m. have finished voting.
+(4) A person may not obstruct  an entrance of a building in which ballots are issued [ or a place
+designated for the deposit of ballots under ORS  254.470] or any voting booth maintained under ORS
+254.474 is located. This subsection applies [ during the period beginning  on the date that ballots are
+mailed to electors as provided in ORS 254.470 and ending ] on election day [ at] until 8 p.m. or when
+all persons waiting  in line at the building or location who began the act of voting as described in
+[ORS 254.470 (12) ] ORS 254.474 (3) by 8 p.m. have finished voting.
+(5) A person may not  vote or offer to vote in any election knowing the person is not entitled
+to vote.
+(6) A person may not make a false statement about the person’s inability to mark a ballot.
+(7) A person, except an  elections official in performance of duties or another person providing
+assistance to an elector as described in ORS 254.445, may not ask a person  [at any place designated
+for the deposit of ballots under ORS 254.470 or ] at any location described in ORS 254.472  or 254.474
+for whom that person intends to vote, or examine or attempt to examine the person’s ballot.
+(8) An elections official, other than in the performance of duties, may not disclose to  any person
+any information by which it can be ascertained for whom any elector has voted.
+(9) A  person, except an elections official in performance of duties, may not do anything to a
+ballot to permit identification of the person who voted.
+(10) An elector may not willfully leave [ at any place designated for the deposit of ballots under
+ORS 254.470 or ] at any location described in ORS 254.472 or  254.474 anything that will show how
+the elector’s ballot was marked.
+(11) A  person, except an elections official in performance of duties, may not remove a ballot
+from [ any place designated for the deposit of ballots under ORS  254.470 or ] any location described in
+ORS 254.472 or 254.474.
+(12) A person, except an elections official in performance of duties or  a person authorized by
+that official, may not willfully deface, remove, alter or destroy a posted election notice.
+(13) A person, except an  elections official in performance of duties, may not willfully remove,
+alter or destroy election equipment  or supplies, or break the seal or open any sealed package con-
+taining election supplies.
+(14) A person, except an elections official in performance of duties, may not provide  elections
+advice or attempt to collect voted ballots within  any building in which [ any state or local government
+elections office designated for the  deposit of ballots under ORS 254.470 ] a voting booth maintained
+under ORS 254.474  is located, or within 100 feet measured radially from any entrance  to the
+building.
+(15) A person, except an  elections official in performance of duties, may not establish a location
+to collect ballots voted by electors unless:
+(a) The person prominently displays at  the location a sign stating: “NOT AN OFFICIAL BAL-
+LOT DROP SITE”; and
+(b) The sign is printed in all capital letters in bold 50-point type.
+SECTION 12.
+ ORS 254.408 is amended to read:
+254.408. (1) A person offering to vote and who claims  to be an elector, but for whom no evidence
+of active or inactive registration can be found, shall be granted the right to vote in the manner
+provided in this section.
+(2) Whenever an elector updates a registration  at a county clerk’s office after the [ ballots have
+been mailed under ORS 254.470 ] registration deadline set forth  in ORS 247.025 , the elector shall
+vote in that election in the manner provided in this section.
+(3) An elector voting under this section shall complete and sign a registration card.
+[(4)(a)(A)] (4)(a) [Except as provided  in subparagraph (B) of this paragraph, the ] The elector shall
+insert the ballot into a small envelope provided by the county clerk  and then insert the small en-
+velope into a larger envelope. The larger envelope  shall be delivered to the county clerk and shall
+be segregated and not counted until the registration of the elector is verified under this section.
+[(B) The county clerk shall inform the elector of any alterations to the process described in  sub-
+paragraph (A) of this paragraph that are necessary if  the Secretary of State has approved a procedure
+under ORS 254.458 to be used in lieu of the envelope procedures. ]
+(b) An envelope provided under this subsection  must comply with the prohibitions set forth in
+ORS 254.470 [ (13)] (6).
+(5) The county clerk shall determine if the elector is validly registered to vote and if the vote
+was properly cast. The  ballot shall be counted only if the county clerk determines the registration
+of the elector is considered active or inactive.
+(6) A  vote shall be counted only if the elector is qualified to vote for the particular office or
+on the measure.
+SECTION 13.
+ ORS 253.585 is amended to read:
+253.585. (1) The Secretary of State may receive ballots from military or overseas electors.
+(2) If the Secretary of State receives a  ballot cast by a military or overseas elector, the Secre-
+tary of  State shall deliver the ballot to the county clerk or elections officer of the county in which
+the elector who cast the ballot is registered.
+(3) A ballot received by the  Secretary of State under this section not later than 8 p.m. on the
+date of the election  shall be considered to have been received by the county clerk  as described in
+ORS 253.070. [ if:]
+[(a) The Secretary of State receives the ballot not later than 8 p.m. on the day of the election; or ]
+[(b) The ballot: ]
+[(A) Has a postal indicator showing that the ballot was  mailed not later than the date of the
+election; and]
+[(B) Is received by the Secretary of State not later than seven calendar days after the date  of the
+election.]
+[(4) If a military or overseas  elector returns the ballot by mail, and a postal indicator is not present
+or legible, the ballot shall be considered to be mailed on the date of the election and may  be counted
+if the ballot is received no later than seven calendar days after the election. ]
+[(5) As used in this section “postal indicator” has the meaning given that term in ORS 254.470. ]
+CONFORMING AMENDMENTS
+SECTION 14.
+ ORS 247.307 is amended to read:
+247.307. [(1) Except as provided in subsection  (2) of this section, if ] If the county clerk receives
+information updating the registration of an elector after the deadline in ORS 247.025[ :],
+[(a)] the county  clerk shall [ issue a ballot to the elector ] allow the elector to cast an in-person
+ballot on the date of the election  if the elector’s registration was  inactive prior to updating .[;
+or]
+[(b) The  county clerk shall issue a replacement ballot upon request from the elector if the elector’s
+registration was active prior to updating. ]
+[(2) If the  county clerk receives a registration card updating an elector’s residence or mailing ad-
+dress after the deadline in ORS 247.025, the county clerk shall reissue a ballot  to the elector if the
+elector’s registration was active prior to updating. ]
+[(3)(a) If the county clerk is required to reissue a ballot under subsection (2)  of this section, the
+county clerk shall: ]
+[(A) Verify the registration of the elector  and ensure that another ballot has not been returned by
+the elector; ]
+[(B) Mark the return identification envelope clearly so that it may be readily identified as  a reis-
+sued ballot; and ]
+[(C) Reissue the ballot by mail or other means. ]
+[(b) A ballot reissued under this section must  be received at the office of the county clerk, a place
+of deposit designated by the county clerk or any location described in ORS 254.472 or  254.474 not later
+than the end of the period  determined under ORS 254.470 (1) on the date of the election. Upon receiving
+a voted ballot reissued under this section, the county clerk shall process the ballot. ]
+[(4) Ballots issued under this section need not be  mailed to electors after the fifth day before the
+date of the election and may be obtained by the  elector in person from the county clerk up until and
+including the date of the election. ]
+SECTION 15.  ORS 254.480 is amended to read:
+254.480. (1) An elector who has requested a ballot  that may be returned by mail under ORS
+254.465 may obtain a replacement ballot [described in ORS 254.470] that may be returned by
+mail. To vote a replacement ballot, the elector must complete and sign a replacement ballot  request
+form. The request for a replacement ballot  may be made electronically, by telephone, in writing, in
+person or by other means designated by the Secretary of State by rule.
+(2) The replacement ballot  request form shall be mailed or made available to the elector along
+with the replacement ballot.
+(3) Upon receiving a request for a replacement ballot, the county clerk shall:
+(a) Verify  the registration of the elector and ensure that another ballot has not been returned
+by the elector;
+(b) Note in the list of electors that the elector has requested a replacement ballot;
+(c) Mark the return identification  envelope clearly so that it may be readily identified as a re-
+placement ballot; and
+(d) Issue the replacement ballot by mail or other means.
+(4) The completed and signed replacement ballot request form and the voted replacement ballot
+must be received at the office  of the county clerk[ , a place of deposit designated by the county clerk
+or any location described in ORS 254.472 or 254.474 ] not later than [ the end of the period determined
+under ORS 254.470 (1) ] 8 p.m.  on the date of the election.
+(5) Upon receiving a voted replacement ballot,  the county clerk shall verify that a completed
+and signed replacement ballot request  form has been received by the county clerk or is included
+with the voted replacement ballot. If a request form has been completed and signed by the elector
+and received by the county clerk, the  county clerk shall process the ballot. If the request form is
+not completed or signed by the elector or received  by the county clerk, the county clerk may not
+process the ballot.
+SECTION 16.
+ ORS 260.665 is amended to read:
+260.665. (1) As  used in this section, “undue influence” means force, violence, restraint or the
+threat of it, inflicting  injury, damage, harm, loss of employment or other loss or the threat of it, or
+giving or promising to give money, employment or other thing of value.
+(2) A person, acting either alone or with or through any other  person, may not directly or in-
+directly subject any person to undue influence with the intent to induce any person to:
+(a) Register or vote;
+(b) Refrain from registering or voting;
+(c) Register or vote in any particular manner;
+(d) Be or refrain from or cease being a candidate;
+(e) Contribute or refrain from  contributing to any candidate, political party or political com-
+mittee;
+(f) Render or refrain  from rendering services to any candidate, political party or political com-
+mittee;
+(g) Challenge or refrain from challenging a person offering to vote;
+(h) Apply or refrain from applying for a ballot as an absent elector; or
+(i) Sign or  refrain from signing a prospective petition or an initiative, referendum, recall or
+candidate nominating petition.
+(3) A person may not solicit or accept money or other thing of value  as an inducement to act
+as prohibited by subsection (2) of this section.
+(4) This section does not prohibit:
+(a) The employment of persons to render services to candidates,  political parties or political
+committees;
+(b) The public distribution by candidates, political parties or political committees of  sample
+ballots or other items readily available to the public  without charge, even though the distributor
+incurs costs in the distribution;
+(c) Public or nonpromissory statements  by or on behalf of a candidate of the candidate’s in-
+tentions or purposes if elected;
+(d) A promise by a candidate to employ any person  as administrative assistant, secretary or
+other direct personal aide;
+(e) Free custody  and care of minor children of persons during the time those persons are absent
+from those children for voting purposes;
+(f) For persons voting, free transportation to  and from [ places designated for the deposit of ballots
+under ORS 254.470  or to and from ] locations described in ORS 254.472 or 254.474; but no means of
+advertising,  solicitation  or inducement to influence the vote of persons transported may be used with
+that transportation;
+(g) Individuals or political committees from providing refreshments  incidental to a gathering in
+support of or in opposition to a candidate, political committee or measure;  or
+(h) The public distribution of registration cards by a person approved by the Secretary  of State
+under ORS 247.171 to print, copy or otherwise prepare and distribute registration cards, even though
+the distributor incurs costs in the distribution .[; or ]
+[(i) An elections official  from providing return identification envelopes for ballots that may be re-
+turned by mail at no cost to the elector under ORS 254.473. ]
+SECTION 17.
+ ORS 192.842 is amended to read:
+192.842. (1) A county clerk or other elections official shall use the actual  address of a program
+participant for voter registration purposes. Except as provided  in ORS 192.820 to 192.868, a county
+clerk or other elections official may not disclose the actual address.
+(2) A county clerk or other elections official shall use the substitute address of  the program
+participant for purposes of mailing a ballot to an elector who requests  a ballot that can be re-
+turned by mail  under [ ORS 254.470] ORS 254.465.
+(3) A school district shall use the actual address  of a program participant for any purpose re-
+lated to admission or assignment. The school district shall take such measures as necessary to pro-
+tect the confidentiality of the actual address of the program participant. Student records  created
+under ORS 326.565 and 326.580 shall use the substitute address of the program participant.
+(4) A county clerk shall accept the substitute  address of the program participant as the address
+of the applicant for the purpose of issuing a marriage license under ORS 106.041 or registering  a
+Declaration of Domestic Partnership under ORS 106.325.
+SECTION 18.
+ ORS 251.175 is amended to read:
+251.175. (1) Except as provided in subsection  (2) of this section, not later than the 20th day be-
+fore a primary election, general election or special election for which a voters’ pamphlet has been
+prepared, the Secretary of State shall  cause the voters’ pamphlet to be mailed to each post-office
+mailing address in Oregon, and shall use any additional means of distribution necessary  to make the
+pamphlet available to electors.
+(2) For any special election described in ORS 251.022  that is not held statewide, or for any other
+state special  election that is not held statewide, the Secretary of State by rule may prescribe
+methods for distributing the voters’ pamphlet prepared for the  election. The rule shall require the
+secretary to mail the pamphlet to at least each elector  whose registration is determined to be active
+on the 21st day before the date of the election and who is eligible to vote in the election.  The rule
+may specify other methods of distribution. [ Voters’  pamphlets prepared for the election shall be mailed
+not later than the date ballots are mailed to electors as provided in ORS 254.470. ]
+SECTION 19.
+ ORS 251.315, as amended by section 5,  chapter 55, Oregon Laws 2024, and section
+2, chapter 56, Oregon Laws 2024, is amended to read:
+251.315. (1) If a county produces a county voters’ pamphlet, the county voters’ pamphlet shall
+include, when applicable, at least the following information:
+(a) Requirements for a citizen to qualify as an elector.
+(b) Requirements for registration and updates of registration.
+(c) Elector instructions,  including the right of an elector to request a second ballot if the first
+ballot is spoiled and the right of an elector to seek assistance in marking the ballot.
+(d) The hours and locations of [ places designated  under ORS 254.470 for deposit of official
+ballots] voting booths maintained under ORS 254.474 .
+(e) Any  portraits and statements relating to candidates submitted in accordance with the pro-
+visions of ORS 251.305 to 251.435.
+(f) Any ballot titles, explanatory statements and arguments submitted in accordance with the
+provisions of ORS 251.305 to 251.435.
+(g)(A) Statements  in the information section of the voters’ pamphlet on the pages immediately
+following the page containing the letter of the county clerk, filing office or  other public election
+official, to the extent reasonably practicable, that:
+(i) Are written in English  and the 10 additional common languages for the county listed by the
+Secretary of State under ORS 251.167;
+(ii) Explain that an electronic copy of portions of the  voters’ pamphlet is publicly available in
+that language; and
+(iii) Provide the website address to the translated voters’ pamphlet.
+(B) The statements required under subparagraph (A) of this paragraph must be written so  as to
+be clearly readable.
+(C) The Secretary of State may adopt rules necessary to implement this paragraph.
+(h) Such other information as  the county clerk considers to be appropriate or necessary to in-
+form the voters.
+(2) The county clerk shall mail or otherwise distribute the county voters’ pamphlet not later
+than [the last day for mailing ballots to electors  as provided in ORS 254.470 ] 14 days before the date
+of the election .
+(3)(a) The name of the county clerk or other filing officer may not appear in the county voters’
+pamphlet in the county clerk’s or filing officer’s official  capacity if the county clerk or filing officer
+is a candidate in the election for which the voters’ pamphlet is printed.
+(b) As used in this subsection, “filing officer” has the meaning given that term in ORS 254.165.
+SECTION 20.
+ ORS 253.005 is amended to read:
+253.005. As used in this chapter:
+(1) “Absent elector” means a person:
+(a) To whom the county clerk has issued  a ballot prior to 20 days before the date of the
+election;
+(b) Who has a mailing address outside of this state; and
+(c) Who is not a military or overseas elector.
+[(1)] (2) “Clerk” means the county clerk.
+[(2)] (3) “County clerk” means the county clerk or the county official in charge of elections.
+[(3)] (4) “Elector”  means an individual qualified to vote under Article II,  section 2, [ Article
+II,] Oregon Constitution.
+[(4) “Absent elector” means a person to whom the county clerk has issued a ballot  prior to the date
+that ballots are mailed to electors as provided in ORS 254.470 (2)(a) or (b). ]
+SECTION 21.
+ ORS 254.365 is amended to read:
+254.365. (1) An elector is not qualified or permitted to vote at any primary  election for any
+candidate of a major political party, and it is unlawful for the elector to offer to do so, unless:
+(a) The elector  is registered as being affiliated with one of the major political parties nominating
+or electing its candidates for public office at the primary election; or
+(b) The elector is  registered as not being affiliated with any political party and wishes to vote
+in the primary election of a major political party that has provided under subsection  (3) of this
+section for a primary election that admits electors not affiliated with any political party.
+(2) Except as provided in [ ORS 254.470 (3) ] section 4 of this 2025 Act , any elector offering to
+vote at the primary election shall be given a ballot of the major political party  with which the
+elector is registered as being affiliated. The elector may not be given  a ballot of any other political
+party at that primary election. An elector not affiliated with any political party and offering to vote
+at the primary election shall  be given the ballot of the major political party in whose primary
+election  the  elector wishes to vote if that party has provided under subsection (3) of this section for
+a primary election that admits  electors not affiliated with any political party. An elector not affil-
+iated with any political party who is given a ballot of the major  political party associates with the
+party for the purpose of voting in that primary election.
+(3)(a) Not later than the 90th day before the date  of the primary election, a major political party
+may file with the Secretary of  State a certified copy of the current party rule allowing an elector
+not affiliated with any  political party to vote in the party’s primary election. The party may not
+repeal the rule as filed during the 90 days  before the primary election. The rule shall continue to
+be effective after the date of the primary election until the party gives written notice to the  Secre-
+tary of State that the rule has been repealed. Except as provided  in paragraph (b) of this subsection,
+a party rule under this subsection may  limit the candidates for whom an elector who is not affiliated
+with any political party may vote.
+(b) The party rule shall allow any elector who is permitted to vote for  the most numerous
+branch of the Legislative Assembly also to vote in federal legislative elections, consistent with sec-
+tion 2, Article I, and the Seventeenth Amendment to the United States Constitution.
+(4) If the primary election ballot includes city,  county or nonpartisan offices or measures, and
+it is given to an elector who is not eligible to vote for party candidates, the ballot shall be  marked
+“non-affiliated.”
+SECTION 22.
+ ORS 254.482 is amended to read:
+254.482. [After the date  that ballots are mailed as provided in ORS 254.470 ] Beginning 14 days
+before the date of an election , the county clerk, if  requested, shall permit authorized persons to
+be at the office of the county clerk to watch the  receiving and counting of votes. The authorization
+shall be in writing, shall be signed  by an officer or its county affiliate of a political party, a candi-
+date or the county clerk and shall be filed with the county clerk.  The county clerk shall permit only
+so many persons as watchers under this section as will not interfere with an orderly procedure at
+the office of the county clerk.
+SECTION 23.
+ ORS 350.245 is amended to read:
+350.245. (1) As used in this section, “school of higher education” means:
+(a) A public university listed in ORS 352.002.
+(b) A community college, as defined in ORS 341.005.
+(2)(a) The Secretary of State shall ensure that within four miles of the main campus of each
+school of higher education there is at least one location [ designated as  an official ballot drop site
+under ORS 254.470 ] maintained as a voting booth under ORS 254.474 .
+(b) The  requirement set forth in paragraph (a) of this subsection applies only to elections held
+within the electoral district in which the main campus of a school of higher education is located.
+(3) Each school of higher education shall:
+(a) Display a direct link to the Secretary of State’s online voter registration tool on  the school’s
+Internet website or  on any appropriate student-focused digital communication network managed by
+the school.
+(b) Upon the request of the school’s official student government or  its equivalent, give the stu-
+dent government or its equivalent an opportunity to provide nonpartisan voter registration services:
+(A) As part of student orientation programs held by the school’s administration;
+(B) As part of campus welcome events that occur before classes begin each  academic term; and
+(C) As part of residence life program activities.
+(c) Upon the request of the school’s official student government or its equivalent, provide the
+student government  or its equivalent with an official class schedule and a list of professional contact
+information for school faculty, which may be used for the purpose of seeking faculty approval for
+the student government  or its equivalent to provide nonpartisan voter registration classroom pres-
+entations.
+(d) Provide individual students and student groups the  opportunity to provide nonpartisan voter
+registration services throughout the academic term in any nonreserved  public space on the school’s
+property, provided that the nonpartisan voter  registration services conform to the rules of conduct
+and rules for reserving space at the school. This paragraph applies only to students enrolled at  the
+school and does not alter in any way the rights of a person who is not enrolled as  a student at the
+school.
+(e) If the school owns and operates any student housing, at least  three months prior to each
+primary or general election:
+(A) Obtain from the local county elections office what address information  students living in
+on-campus housing must provide in order  to receive election ballots in the event a student chooses
+to vote using the student’s campus address; and
+(B) Make the information obtained under subparagraph (A) of  this paragraph available to the
+school’s official student government or its equivalent.
+SECTION 24.
+ ORS 247.948 is amended to read:
+247.948. (1)(a) Except as set forth in ORS 247.965 or 247.967, or as otherwise prohibited by law,
+the following information about an elector contained within an elector’s registration file is  subject
+to inspection as a public record  under ORS 192.311 to 192.478 and shall be included in lists delivered
+under ORS 247.940 and 247.945:
+(A) The major political party  or minor political party, if any, with which an elector is affiliated;
+(B) Except as provided in subsection (3) of this section, the residence address of an elector;
+(C) Except as provided in subsection (3) of this section,  the address where an elector receives
+a ballot;
+(D) The year in which an elector was born;
+(E) The name or number of the precinct in which the elector resides;
+(F) The precinct split of an elector;
+(G) The administrative number for an elector that is  used by the Secretary of State to determine
+which elections an elector may vote in;
+(H) The telephone number of an elector;
+(I) Whether or not an elector voted in previous elections; and
+(J) During an election period, the ballot status of an elector. In  order to comply with this sub-
+paragraph, during the election period, the secretary shall maintain a list of  the ballot status of
+electors. The secretary shall update the list, and make available an updated version of the list, on
+each business day of the election period.
+(b) As used in this subsection:
+(A) “Ballot status” means whether or not an elector has cast a ballot in the election;
+(B) “Election period” means the period of time beginning [ on the date that ballots for an election
+are first mailed to electors ] 21 days before the date of the  election and ending on the date of the
+election;  and
+(C) “Precinct split” means the enhanced precinct name or  number used to determine the specific
+ballot configuration that will be received by an elector who resides in a precinct that:
+(i) Has more than one election district subdivision; and
+(ii) Requires more than one ballot configuration for electors in the precinct.
+(2) Except as set  forth in ORS 247.973 or as otherwise required by law, the following information
+about an  elector contained within an elector’s registration file is not subject to inspection as a
+public record under ORS 192.311 to 192.478 and may not be disclosed by the Secretary of State  or
+a county clerk:
+(a) Information that is required to be kept confidential under ORS  247.965 or as part of the
+Address Confidentiality Program under ORS 192.820 to 192.868;
+(b) The birth month of an elector;
+(c) The day of the month on which an elector was born;
+(d) The Social Security number of an elector;
+(e) The driver license number of an elector; and
+(f) The signature of an elector.
+(3) The residence address of an elector may not be included in  lists delivered under ORS 247.940
+and 247.945 if the elector:
+(a) Is either a candidate for elected office or a holder of elected office; and
+(b) Has chosen to limit the public accessibility of the elector’s residence address in the manner
+described in ORS 249.021.
+(4) Nothing in this section is  intended to limit or restrict the disclosure of information that is
+otherwise subject to inspection as a public record under ORS 192.311 to 192.478.
+SECTION 25.
+ ORS 247.965 is amended to read:
+247.965. (1) Any elector  may request the county clerk to keep the residence address of the
+elector and any family member residing with  the elector exempt from disclosure as a public record
+under ORS 192.311 to 192.478.
+(2) The county  clerk shall keep the residence address of an elector and any family member re-
+siding with the elector exempt from disclosure as a public record under ORS 192.311 to 192.478 if:
+(a) The elector making the request  demonstrates to the satisfaction of the county clerk that the
+elector’s personal safety  or the safety of any family member residing with the elector is in danger
+if the elector’s address remains available for public inspection; or
+(b) The elector has been identified as an election worker by the Secretary of  State, county clerk
+or other public body as defined in ORS 174.109 in a manner prescribed by the secretary by rule.
+[(3) The  county clerk shall automatically mail a ballot to an elector whose residence address is
+exempt from disclosure under this section. ]
+[(4)] (3) An exemption from disclosure granted under this section shall remain in effect until the
+elector requests termination of the exemption or the elector is required to  update the elector’s
+registration. If the elector is required to update  the elector’s registration, the elector may apply for
+another exemption from disclosure.
+[(5)] (4) An exemption from disclosure  granted under this section includes an exemption from
+disclosure of the residence address of an elector under ORS 247.940 or 247.945.
+[(6)] (5) A county clerk or the Secretary of State shall not be held liable for:
+(a) Granting or denying an exemption from disclosure under this section; or
+(b) Any unauthorized release of a residence address granted an exemption  from disclosure under
+this section.
+[(7)] (6) As used in this section, “election worker” means an individual employed full-time,
+part-time or as a volunteer:
+(a) Who is serving the State of Oregon or any other public body,  as defined in ORS 174.109, as
+an elected official, appointed official, employee or agent; and
+(b) Whose official duties include  carrying out any duty, function or power set forth in ORS
+chapters 246 to 260.
+SECTION 26.
+ ORS 254.321 is amended to read:
+254.321. At any election in which  the question of establishing or changing the exterior bounda-
+ries of a county or city is submitted to a vote, the county clerk shall[ :]
+[(1) Include with every mailed ballot a map indicating the proposed boundaries; or ]
+[(2)] print in a voters’ pamphlet prepared for the election a map indicating the  proposed bound-
+aries.
+SECTION 27.  ORS 247.018 is amended to read:
+247.018. (1)(a) Subject  to compliance with all applicable federal laws and regulations, the Sec-
+retary of State shall by  rule establish a schedule by which the Oregon Health Authority shall pro-
+vide to the secretary electronic records, derived from information  provided to the Oregon Health
+Plan, containing the legal  name, age, residence and citizenship information for, and, if any, the
+electronic signature of, each person who is eligible to be a qualified  elector under Article II, section
+2, of the Oregon Constitution.
+(b) The secretary shall establish by rule, after consultation with  the authority, what electronic
+records establish whether a person is eligible to be a qualified elector for purposes of this sub-
+section.
+(c) Notwithstanding paragraph (a) of this subsection, the authority may not provide  to the sec-
+retary any electronic records for a person who is not a citizen of the United States.
+(2) When establishing a schedule under subsection (1)  of this section, the secretary may adopt
+rules governing the format and frequency of data  transfer. Any rules adopted under this subsection:
+(a) Are subject to input and public comment, including comment from the authority; and
+(b) May come  into effect only after the secretary and authority test and verify the data transfer
+processes.
+(3) The secretary:
+(a) Shall by rule develop a process to obtain an electronic signature from  the Department of
+Transportation for each person described in subsection (1) of this  section for whom the authority
+does not provide an electronic signature under this section; and
+(b) May use an electronic signature that  is obtained under paragraph (a) of this subsection or
+that is otherwise in the secretary’s possession, for the purpose of registering  electors to vote under
+this section.
+(4) Upon receiving the electronic record for a person described  in subsection (1) of this section,
+the secretary shall provide the information to the  county clerk of the county in which the person
+may be registered as an elector. The secretary  or county clerk shall notify each person of the pro-
+cess to:
+(a) Decline being registered as an elector;
+(b) Adopt a political party affiliation; and
+(c) Provide a signature if  no signature was provided under subsection (1) of this section and the
+secretary does not have a copy of the signature and is  unable to obtain an electronic copy of the
+signature from the Department of Transportation under subsection (3) of this section.
+(5) Notwithstanding the absence of any signature, if a person notified under subsection (4) of this
+section does not decline to be registered as an elector within 21 calendar days after the  secretary
+or county clerk issues the notification, the person’s electronic record submitted to  the county clerk
+under subsection (4) of this section will  constitute a completed registration card for the person for
+purposes of  this chapter. The person shall be registered to vote if the county clerk determines that
+the person is qualified to vote under  Article II, section 2, of the Oregon Constitution, and the person
+is not already registered to vote.
+(6) A county clerk may not send a ballot  to, or add to an elector registration list, a person who
+is determined under subsection (5) of this section to be  qualified to vote, and who is not already
+registered to vote, until at least 21 calendar days after the secretary or county clerk provided  no-
+tification to the person as described in subsection (4) of this section.
+(7) The transfer  of personal information and data by the authority or department to the secre-
+tary under this section is limited to the information and data that is necessary to register electors.
+Information and data transferred to the  secretary under this section may be used only for the pur-
+pose of registering electors.
+(8) The secretary shall adopt rules required to implement  this section, including rules to ensure
+that no ballot is counted  for a person registered to vote under this section whose registration record
+does not contain an electronic signature.
+(9) As used in this section, “electronic signature” means an  electronic form of a handwritten
+signature that can be verified, in the manner described in ORS 254.470 [ (11)] (5), for the purpose of
+tallying ballots.
+SECTION 28.
+ORS 254.458 and 254.473 are repealed.
+UNIT CAPTIONS AND OPERATIVE DATE
+SECTION 29. The unit captions used in this 2025 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+SECTION 30. (1) Section 4 of this 2025 Act, the amendments to ORS  192.842, 247.018,
+247.307, 247.948, 247.965, 251.175, 251.315, 253.005, 253.065,  253.070, 253.585, 253.690, 254.321,
+254.365, 254.408, 254.465, 254.470,  254.474, 254.480, 254.482, 254.485, 260.665, 260.695 and 350.245
+by sections 1, 2 and 5 to 27 of this 2025 Act and the repeal of ORS 254.458 and  254.473 by
+section 28 of this 2025 Act become operative and first apply to elections held on or after
+January 1, 2028.
+(2) The Secretary of State and county clerks may take any action  before the operative
+date specified in  subsection (1) of this section that is necessary to enable the Secretary of
+State and county clerks to exercise, on and after  the operative date specified in subsection
+(1) of this section, all the  duties, functions and powers conferred on the Secretary of State
+and county clerks by section 4 of this 2025 Act and the amendments to ORS 192.842,  247.018,
+247.307, 247.948, 247.965, 251.175, 251.315, 253.005, 253.065,  253.070, 253.585, 253.690, 254.321,
+254.365, 254.408, 254.465, 254.470,  254.474, 254.480, 254.482, 254.485, 260.665, 260.695 and 350.245
+by sections 1, 2 and 5 to 27 of this 2025 Act.
+SECTION 31.
+This 2025 Act shall be submitted to the people for their approval or re-
+jection at the next regular general election held throughout this state.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 192.842, ORS 247.018, ORS 247.307, ORS 247.948, ORS 247.965, ORS 251.175, ORS 251.315, ORS 253.005, ORS 253.065, ORS 253.070, ORS 253.585, ORS 253.690, ORS 254.321, ORS 254.365, ORS 254.408, ORS 254.458, ORS 254.465, ORS 254.470, ORS 254.473, ORS 254.474, ORS 254.480, ORS 254.482, ORS 254.485, ORS 260.665, ORS 260.695, ORS 350.245
+- From bill text (Introduced version): ORS 106.041, ORS 106.325, ORS 174.109, ORS 192.311, ORS 192.820, ORS 192.842, ORS 247.018, ORS 247.025, ORS 247.171, ORS 247.203, ORS 247.307, ORS 247.940, ORS 247.945, ORS 247.948, ORS 247.965, ORS 247.973, ORS 249.021, ORS 251.005, ORS 251.022, ORS 251.167, ORS 251.175, ORS 251.305, ORS 251.315, ORS 253.005, ORS 253.065, ORS 253.070, ORS 253.501, ORS 253.510, ORS 253.585, ORS 253.690, ORS 254.165, ORS 254.321, ORS 254.365, ORS 254.408, ORS 254.431, ORS 254.445, ORS 254.458, ORS 254.465, ORS 254.470, ORS 254.472, ORS 254.473, ORS 254.474, ORS 254.476, ORS 254.480, ORS 254.482, ORS 254.485, ORS 260.665, ORS 260.695, ORS 326.565, ORS 326.580, ORS 341.005, ORS 350.245, ORS 352.002, ORS 807.400
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `5364a556959429ad0338e30558ab57fc1fad5397534eee6d91a76fe9aa29a70d` (snapshot `_meta/snapshots/measure-2025r1-sb210-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB210/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 210` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

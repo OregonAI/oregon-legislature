@@ -1,0 +1,460 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2469
+title: 'HB 2469 (2025R1): Establishes a time limit on when a district attorney may submit an indictment
+  to the grand jury on a pending case when a trial date has been scheduled.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2469
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2469/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: fc91aa57491f3d4d8b074f9c72441958feeb031a3fa7e7b098866b419a91bbaf
+snapshot_id: measure-2025r1-hb2469-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 131.505
+  - ORS 132.250
+  - ORS 132.260
+  - ORS 132.270
+  - ORS 132.330
+  - ORS 133.525
+  - ORS 133.673
+  - ORS 133.693
+  - ORS 135.230
+  - ORS 135.240
+  - ORS 135.805
+  - ORS 153.008
+  - ORS 161.545
+  - ORS 161.566
+  - ORS 161.568
+  - ORS 161.705
+  - ORS 162.005
+  - ORS 40.015
+  - ORS 40.375
+  - ORS 40.380
+  - ORS 40.450
+  - ORS 40.460
+  - ORS 659A.330
+  - ORS 706.008
+  - ORS 811.540
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2469
+prefix_meaning: House Bill
+catch_line: Establishes a time limit on when a district attorney may submit an indictment to the grand
+  jury on a pending case when a trial date has been scheduled.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act changes some rules for criminal cases. (Flesch Readability Score:\
+  \ 71.8). \n\tEstablishes a time limit on when a district attorney may submit an indictment to the grand\
+  \ jury on a pending case when a trial date has been scheduled. \n\tAuthorizes the use of grand jury\
+  \ recordings to challenge the indorsement of an indictment \"a true bill.\" \n\tRequires the district\
+  \ attorney to file a motion for admission of evidence seized pursuant to a warrantless search. \n\t\
+  Authorizes the court to modify the release decision after ordering preventative pretrial detention if\
+  \ circumstances have changed. \n\tAuthorizes the court to enter a judgment for a Class A violation when\
+  \ a person is convicted of a misdemeanor."
+relating_to: Relating to criminal procedure.
+relating_to_full: Relating to criminal procedure; creating new provisions; and amending ORS 132.270, 132.330,
+  133.673, 133.693, 135.240 and 153.008.
+at_the_request_of: (at the request of House Interim Committee on Judiciary for Oregon Criminal Defense
+  Lawyers Association)
+lc_number: 2324
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-04-02T14:34:11'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 22606
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 131.505
+  - ORS 132.250
+  - ORS 132.260
+  - ORS 132.270
+  - ORS 132.330
+  - ORS 133.525
+  - ORS 133.673
+  - ORS 133.693
+  - ORS 135.230
+  - ORS 135.240
+  - ORS 135.805
+  - ORS 153.008
+  - ORS 161.545
+  - ORS 161.566
+  - ORS 161.568
+  - ORS 161.705
+  - ORS 162.005
+  - ORS 40.015
+  - ORS 40.375
+  - ORS 40.380
+  - ORS 40.450
+  - ORS 40.460
+  - ORS 659A.330
+  - ORS 706.008
+  - ORS 811.540
+  from_relating_to_full:
+  - ORS 132.270
+  - ORS 132.330
+  - ORS 133.673
+  - ORS 133.693
+  - ORS 135.240
+  - ORS 153.008
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2469`.
+
+# HB 2469 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2469, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of House Interim Committee on Judiciary for Oregon Criminal Defense Lawyers Association)
+- **LC number:** 2324
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-04-02T14:34:11
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 22606 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2469/Introduced>.
+
+## Summary
+
+**Catchline:** Establishes a time limit on when a district attorney may submit an indictment to the grand jury on a pending case when a trial date has been scheduled.
+
+**Relating to:** Relating to criminal procedure.
+
+Digest: The Act changes some rules for criminal cases. (Flesch Readability Score: 71.8). 
+ Establishes a time limit on when a district attorney may submit an indictment to the grand jury on a pending case when a trial date has been scheduled. 
+ Authorizes the use of grand jury recordings to challenge the indorsement of an indictment "a true bill." 
+ Requires the district attorney to file a motion for admission of evidence seized pursuant to a warrantless search. 
+ Authorizes the court to modify the release decision after ordering preventative pretrial detention if circumstances have changed. 
+ Authorizes the court to enter a judgment for a Class A violation when a person is convicted of a misdemeanor.
+
+**RelatingToFull (verbatim upstream field):** Relating to criminal procedure; creating new provisions; and amending ORS 132.270, 132.330, 133.673, 133.693, 135.240 and 153.008.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2469
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Judiciary for Oregon Criminal Defense Lawyers Association)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes some rules for criminal cases. (Flesch Readability Score: 71.8).
+Establishes a time limit on when a district attorney may submit an indictment to the grand jury
+on a pending case when a trial date has been scheduled.
+Authorizes the use of grand jury recordings to challenge the indorsement of an  indictment “a
+true bill.”
+Requires the district attorney to file a motion for admission  of evidence seized pursuant to a
+warrantless search.
+Authorizes the court to modify the release decision  after ordering preventative pretrial de-
+tention if circumstances have changed.
+Authorizes the court to enter a judgment for a Class A violation when a person is  convicted of
+a misdemeanor.
+A BILL FOR AN ACT
+Relating to criminal procedure; creating new provisions; and amending ORS 132.270, 132.330, 133.673,
+133.693, 135.240 and 153.008.
+Be It Enacted by the People of the State of Oregon:
+INDICTMENT AND USE OF GRAND JURY RECORDINGS
+SECTION 1.
+ ORS 132.330 is amended to read:
+132.330. (1) The district attorney may submit an indictment to the grand jury in  any case when
+the district attorney has good reason to believe  that a crime has been committed which is triable
+within the county.
+(2) Notwithstanding subsection (1) of this section,  when the defendant has been arraigned
+on a charging instrument and a trial date has been scheduled, the district attorney  may not
+submit an indictment to the grand jury concerning the  pending case unless the submission
+occurs at least 10 days before the trial date.
+SECTION 2.  ORS 132.270 is amended to read:
+132.270. (1) Audio recordings and the notes or report of a shorthand reporter produced pursuant
+to ORS 132.250  and 132.260 are confidential and may not be released except as described in this
+section.
+(2) When an indictment  resulting from grand jury proceedings is indorsed “a true bill,” the audio
+recording or the  notes or report of a shorthand reporter of the grand jury proceedings may be re-
+leased only in the following manner:
+(a) The prosecuting attorney may access a  copy of the audio recording or the notes or report
+of a shorthand reporter at any time.
+(b) When the defendant has been arraigned on the indictment and is represented  by an attorney,
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2324
+the district attorney shall:
+(A) Provide  a copy to the defense attorney of all audio recordings, or the notes or report of a
+shorthand reporter, related to an indictment after 10 days have passed since  the defendant’s
+arraignment on the indictment  and no motion described in subsection (4) of this section has been
+filed; or
+(B) Provide a copy of the audio  recordings, or the notes or report of a shorthand reporter, to
+the defense attorney in  accordance with the court’s ruling on the motion described in subsection (4)
+of this section, if a motion has been filed.
+(c) Unless the court orders otherwise for good cause shown, the  prosecuting attorney and the
+defense attorney may not copy, disseminate  or republish the audio recording, the notes or report
+of a shorthand reporter, or a transcript prepared from the audio recording, notes or report,  released
+pursuant to this subsection, except to provide a copy to an agent of the prosecuting  attorney or
+defense attorney for the limited purpose of case  preparation. Unless a court orders otherwise for
+good cause shown, in consulting with the defendant  the defense attorney may not disclose to the
+defendant:
+(A) Any personal  identifiers of a victim, witness or grand juror obtained from the audio re-
+cording, report, notes or transcript; or
+(B) Any  portion of the audio recording, report, notes or transcript that contains any personal
+identifiers of a victim, witness or grand juror.
+(d) The defense attorney may not provide a copy of  the audio recording, notes or report, or a
+transcript prepared from the audio recording, notes or report, to the defendant.
+(e) When the defendant has  been arraigned but is not represented by an attorney, the defendant
+may request  by motion that the court issue an order allowing the defendant access to review the
+contents of the audio recording or the notes or report  of the shorthand reporter. A copy of the
+motion must be provided to the prosecuting attorney. The prosecuting attorney may  request a
+hearing on the  motion within 10 days after receiving a copy. At the hearing, or in response to re-
+ceiving the motion, the  court shall appoint counsel for the defendant for the limited purpose of re-
+viewing the audio recording, notes or report and may set reasonable conditions on the  review of the
+audio recording, notes or report.
+(3)(a) When a grand jury inquires into the conduct of a public servant as defined  in ORS 162.005
+for acts occurring in the performance of  the public servant’s duties, and an indictment resulting
+from the grand jury proceedings is indorsed “not a true bill”:
+(A) The public servant or the prosecuting attorney may file a motion requesting a court  order
+releasing all or a portion of a transcript of the  grand jury proceedings. A copy of the motion must
+be served on the opposing party. In deciding whether to issue  such an order, the court shall deter-
+mine whether the public interest in  disclosure outweighs the interest in maintaining the secrecy of
+the grand jury proceedings. If  the court orders disclosure, the court may set reasonable conditions
+on copying, disseminating or republishing the transcript.
+(B) A member of the public may file a motion requesting  a court order for production and re-
+lease of a transcript of  the grand jury proceedings. A copy of the motion must be served on the
+prosecuting attorney and the public servant’s attorney, or the public servant  if the public servant
+is not represented by an attorney. The person filing the motion is responsible  for the cost of
+producing the transcript and a court order for production and release of  the transcript must be
+conditioned on receipt of payment. In deciding whether to issue such an  order, the court shall de-
+termine whether the public  interest in disclosure outweighs the interest in maintaining the secrecy
+of the grand jury proceedings. If the court orders disclosure, the court may set reasonable conditions
+on copying, disseminating or republishing the transcript.
+(b) The release of any transcript under this subsection may not include:
+(A) The release of any personal identifiers of a victim or witness; or
+(B) The release of the name or any personal identifiers of a grand juror.
+(4)(a) A motion for a protective order concerning an  audio recording, the notes or report of a
+shorthand reporter or a transcript of grand jury proceedings may be filed as follows:
+(A) The prosecuting attorney  may file a motion for a protective order within 10 days after the
+defendant’s arraignment on the indictment. The motion may  be filed on behalf of a victim or a wit-
+ness. The prosecuting attorney shall inform the victim of the ability to seek a protective order.
+(B) The prosecuting attorney may file a motion for a  protective order within 10 days after re-
+ceiving a motion described in subsection (2)(e) of this section.
+(C) The prosecuting attorney, the public servant who is the subject of an indictment indorsed
+“not a true bill” or the public servant’s attorney may file a motion for a protective  order within 10
+days of receiving a motion described in subsection (3)(a) of this section.
+(b) If the motion for a protective order requests that  a portion of the audio recording, notes,
+report or transcript be redacted, the motion must be  accompanied by a specific description, includ-
+ing the date and time, of the portion of  the audio recording, notes, report or transcript to be
+redacted.
+(c) In response to a motion filed under this subsection, the court may order that the access of
+the person requesting release to a copy of the audio recording,  notes, report or transcript be denied,
+restricted or deferred, or may make any other  order, upon a finding of substantial and compelling
+circumstances. In deciding whether to grant the motion and enter a protective order under this
+paragraph, the court may consider the following:
+(A) Protection of  witnesses and others from physical harm, threats of harm, bribes, economic
+interference, reprisal and other forms of intimidation;
+(B) Maintenance of secrecy regarding informants, as required for effective investigation  of
+criminal activity;
+(C) Confidential information recognized under law,  including the protection of confidential re-
+lationships and privileges and the contents of confidential records unrelated to a  crime alleged in
+the indictment; and
+(D) Any other relevant considerations.
+(d) The court may permit the  evidence of substantial and compelling circumstances described in
+paragraph (c) of this subsection to be made in  the form of a written statement to be inspected by
+the court only or by oral testimony given on the record.
+(5)(a) Except as provided  in paragraph (b) of this subsection, when grand jury proceedings do
+not result in an indictment indorsed as either “a true bill” or “not a true  bill,” the audio recording
+or notes or  report of the shorthand reporter produced pursuant to ORS 132.250 and 132.260 may not
+be disclosed or released.
+(b) When  subsequent grand jury proceedings occur inquiring into the same criminal episode as
+the grand jury proceedings described in  paragraph (a) of this subsection, and the subsequent pro-
+ceedings result in  an indictment indorsed as “a true bill,” the prosecuting attorney shall provide
+notice to the person  charged in the indictment of the occurrence of the earlier grand jury pro-
+ceedings. After the person is arraigned on the indictment and the time period described  in sub-
+section (2)(b) of this section has passed, the  audio recording or the notes or report of the shorthand
+reporter  produced  during the earlier grand jury proceedings may be obtained in the manner set forth
+in subsection (2) of this section.
+(c) As used in this subsection, “criminal episode” has the meaning given that term  in ORS
+131.505.
+(6) The district attorney of each county may establish a fee  for the cost of providing a copy of
+any audio recording, or the notes or report of a shorthand reporter, of a grand jury proceeding  to
+a person requesting a copy under this section.
+(7) An audio recording, the notes or report of a shorthand reporter  or a transcript of a grand
+jury proceeding obtained pursuant to this section and ORS 132.250 and 132.260:
+(a) May not be used as  evidence in any subsequent proceeding, except as permitted under ORS
+40.375, 40.380, 40.450, 40.460 or 40.465.
+[(b) May not be used to challenge the indorsement of an indictment “a true bill” or the proceedings
+that led to the indorsement. ]
+[(c)] (b)  May be used as evidence in a  prosecution for perjury or false swearing committed by
+a witness while giving testimony during the grand jury proceeding or during trial.
+[(d)] (c)  May be used as evidence in a proceeding for contempt of court  against a person alleged
+to have violated the terms of a  court order concerning the audio recording, notes, report or tran-
+script.
+[(e)] (d) May be submitted to the court and used as evidence for a hearing on a protective  order
+described in subsection (4) of this section.
+(8) The  release of audio recordings, shorthand reporter notes or reports or transcripts of grand
+jury proceedings under this section does not affect  discovery obligations under ORS 135.805 to
+135.873.
+(9) As used in this section:
+(a) “Personal identifiers” means:
+(A) In relation to a witness  or a grand juror, the person’s address, telephone number, driver li-
+cense, vehicle registration information, Social Security number, date of birth and the identifying
+number of the person’s depository account  at a financial institution, as defined in ORS 706.008, or
+credit card account.
+(B) In relation to a victim, the victim’s address, electronic mail address, telephone  number,
+driver license, vehicle registration information, Social Security number, date of birth, any  user
+names or other identifying  information associated with the victim’s social media accounts and the
+identifying number of the victim’s depository account at a financial institution, as defined in  ORS
+706.008, or credit card account.
+(b) “Social media” has the meaning given that term in ORS 659A.330.
+USE OF EVIDENCE SEIZED DURING A WARRANTLESS SEARCH
+SECTION 3.
+ ORS 133.673 is amended to read:
+133.673. (1)(a) Objections to use in evidence of things seized in  violation of any of the provisions
+of ORS 133.525 to  133.703 shall be made by a motion to suppress which shall be heard and deter-
+mined by any department of the trial court in advance of trial.
+(b) Notwithstanding paragraph (a) of this subsection, if the district attorney intends to
+rely at trial on evidence seized as the result of a warrantless search, the district  attorney
+shall file a motion  requesting the admission of the evidence. The motion shall be heard by
+any department of the trial court in advance of trial, and at  the hearing, the prosecution has
+the burden of proving by a preponderance of the evidence the validity of the search.
+(2) A motion to suppress which has been denied may be renewed,  in the discretion of the court,
+on the ground of newly discovered evidence, or as the interests of justice require.
+SECTION 4.
+ ORS 133.693 is amended to read:
+133.693. (1) Subject to the provisions  of subsection (2) of this section, in any proceeding on a
+motion to  suppress evidence the moving party shall be entitled to contest, by cross-examination or
+offering  evidence,  the good faith, accuracy and truthfulness of the affiant with respect to the evi-
+dence presented to establish probable cause for search or seizure.
+(2) If  the evidence sought to be suppressed was seized by authority of a search warrant, the
+moving party shall be allowed to contest the good faith, accuracy and truthfulness of the affiant as
+to the evidence presented before the issuing authority  only upon supplementary motion, supported
+by affidavit, setting forth substantial basis for questioning  such good faith, accuracy and
+truthfulness.
+(3) In any proceeding under subsection (2)  of this section, the moving party shall have the bur-
+den of proving by a  preponderance of the evidence that the evidence presented before the issuing
+authority was not offered in good faith, was not accurate and was not truthful.
+[(4) Where the motion to suppress challenges evidence seized  as the result of a warrantless search,
+the burden of proving  by a preponderance of the evidence the validity of the search is on the prose-
+cution.]
+[(5)] (4) The court  shall determine whether, under applicable law, any inaccuracy, untruthfulness
+or lack of good faith requires suppression.
+PREVENTATIVE PRETRIAL DETENTION
+SECTION 5.
+ ORS 135.240 is amended to read:
+135.240. (1) Except as provided in subsections (2) and (4) of  this section, a defendant shall be
+released in accordance with ORS 135.230 to 135.290.
+(2)(a) When the defendant is charged with murder, aggravated murder or  treason, release shall
+be denied when the proof is evident or the presumption strong that the person is guilty.
+(b) When the defendant is charged with murder or  aggravated murder and the proof is not evi-
+dent nor  the presumption strong that the defendant is guilty, the court shall determine the issue of
+release as provided  in subsection (4) of this section. In determining the issue of release under sub-
+section (4) of this section, the court may consider any evidence used  in making the determination
+required by this subsection.
+(3) The  magistrate may conduct such hearing as the magistrate considers necessary to determine
+whether, under subsection (2) of this section, the proof is evident or the  presumption strong that the
+person is guilty.
+(4)(a) When the defendant is  charged with a violent felony, release shall be denied if the court
+finds:
+(A) Except when  the defendant is charged by indictment, that there is probable cause to believe
+that the defendant committed the crime; and
+(B) By clear and convincing evidence, that there  is a danger of physical injury or sexual
+victimization to the victim or members of the public by the defendant while on release.
+(b) If the defendant wants to have a  hearing on the issue of release, the defendant must request
+the hearing at the time of arraignment in circuit court. If the defendant  requests a release hearing,
+the court must hold the hearing within five days of the request.
+(c) At the release hearing, unless the state stipulates to the setting of  security or release, the
+court shall make the inquiry set forth in paragraph (a) of this subsection. The state has the  burden
+of producing evidence at the release hearing subject to ORS 40.015 (4).
+(d) The defendant may be  represented by counsel and may present evidence on any relevant is-
+sue. However, the hearing may not be used for purposes of discovery.
+(e) If the court determines  that the defendant is eligible for release in accordance with this
+subsection, the court shall set security or other appropriate conditions of release.
+(f) When a defendant who has been released violates a condition of release and the violation:
+(A) Constitutes a new  criminal offense, the court shall cause the defendant to be taken back into
+custody and shall order the defendant held pending trial without release.
+(B) Does not constitute a new criminal offense, the court may order the defendant  to be taken
+back into custody and may order the defendant held pending  trial or may make a new release de-
+cision.
+(g) If circumstances concerning the defendant’s release change at  any time after the
+court makes  the finding described in paragraph (a) of this subsection, the court, upon re-
+quest by the district attorney or the defendant, may modify the release decision.
+(5) For purposes of this section, “violent felony” means a felony  offense in which there was an
+actual or threatened serious physical injury to the victim, or a felony sexual offense.
+MISDEMEANOR REDUCTION TO VIOLATION
+SECTION 6.
+Section 7 of this 2025 Act is added to and made a  part of ORS 161.705 to
+161.737.
+SECTION 7. (1) Notwithstanding ORS 161.545,  and except as provided in subsection (3)
+of this section, the  court may enter judgment of conviction for a Class A violation and make
+disposition accordingly when:
+(a) A person is convicted of any misdemeanor; and
+(b) The court, considering  the nature and circumstances of the offense and the history
+and character of the defendant, believes that a violation conviction is appropriate.
+(2) The entry of judgment of conviction  for a Class A violation under this section may
+be made at the  time of conviction, and the court shall clearly denominate the offense as a
+Class A violation in the judgment.
+(3) A court may not treat misdemeanors created under  ORS 811.540 or 813.010 as vio-
+lations under the provisions of this section.
+SECTION 8.
+ ORS 153.008 is amended to read:
+153.008. (1) Except as provided in subsection (2)  of this section, an offense is a violation if any
+of the following apply:
+(a) The offense is designated as a violation in the statute defining the offense.
+(b) The statute prescribing the penalty for  the offense provides that the offense is punishable
+by a fine but does not provide that the offense is  punishable by a term of imprisonment. The statute
+may provide for punishment in addition to a fine  as long as the punishment does not include a term
+of imprisonment.
+(c) The  offense is created by an ordinance of a county, city, district or other political subdivision
+of this state with authority to create offenses, and the ordinance provides that violation of the or-
+dinance is punishable by a fine but does not provide that the offense is punishable by a term of
+imprisonment. The ordinance may provide for punishment in addition to a  fine as long as the pun-
+ishment does not include a term of imprisonment.
+(d) The prosecuting attorney has elected to treat the offense  as a violation for purposes of a
+particular case in the manner provided by ORS 161.566.
+(e) The court has elected to treat the offense as a violation for purposes  of a particular case in
+the manner provided by ORS 161.568.
+(f) The court has entered a judgment for a violation under section 7 of this 2025 Act.
+(2) Conviction  of a violation does not give rise to any disability or legal disadvantage based on
+conviction of a crime.
+APPLICABILITY
+SECTION 9.
+(1) Section 7 of  this 2025 Act and the amendments to ORS 132.270, 132.330,
+133.673, 133.693 and 153.008 by sections 1 to  4 and 8 of this 2025 Act apply to criminal pro-
+ceedings initiated on or after the effective date of this 2025 Act.
+(2) The amendments to ORS 135.240 by section 5 of  this 2025 Act apply to criminal pro-
+ceedings initiated before, on or after the effective date of this 2025 Act.
+CAPTIONS
+SECTION 10. The unit and section captions used in this 2025 Act are provided only for
+the convenience of the reader and do not become part of the statutory  law of this state or
+express any legislative intent in the enactment of this 2025 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 132.270, ORS 132.330, ORS 133.673, ORS 133.693, ORS 135.240, ORS 153.008
+- From bill text (Introduced version): ORS 131.505, ORS 132.250, ORS 132.260, ORS 132.270, ORS 132.330, ORS 133.525, ORS 133.673, ORS 133.693, ORS 135.230, ORS 135.240, ORS 135.805, ORS 153.008, ORS 161.545, ORS 161.566, ORS 161.568, ORS 161.705, ORS 162.005, ORS 40.015, ORS 40.375, ORS 40.380, ORS 40.450, ORS 40.460, ORS 659A.330, ORS 706.008, ORS 811.540
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `fc91aa57491f3d4d8b074f9c72441958feeb031a3fa7e7b098866b419a91bbaf` (snapshot `_meta/snapshots/measure-2025r1-hb2469-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2469/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2469` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

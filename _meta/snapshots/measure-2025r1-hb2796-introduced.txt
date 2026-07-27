@@ -1,0 +1,84 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2796
+Sponsored by Representative NELSON; Senator MANNING JR (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes a hospital or hospital system  that is in this state make public certain financial
+data. Requires the data to be updated once a  year. Allows the OHA to impose penalties for failure
+to comply with the law. (Flesch Readability Score: 62.6).
+Requires a hospital or hospital system in this state to make publicly available  certain financial
+data.
+A BILL FOR AN ACT
+Relating to health care.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS chapter 442.
+SECTION 2. (1) As used in this section, “hospital system” means:
+(a) A parent corporation of  one or more hospitals and any entity affiliated with the par-
+ent corporation through ownership, governance, control or membership; or
+(b) A hospital and any entity affiliated with the hospital through ownership, governance,
+control or membership.
+(2) A hospital licensed in this state or a hospital system operating in  this state shall
+make publicly available on the hospital’s or hospital system’s website the following informa-
+tion for the preceding calendar year, updated annually:
+(a) Income received for patient care broken out by:
+(A) The classification of the care received; and
+(B) The type of payer, such as patients, insurers or other third parties.
+(b) Expenses, including salary and benefit information for each classification of employee
+and for individual executives.
+(c) Investments and investment returns broken out by:
+(A) Asset class; and
+(B) Associated investment prospectuses or asset management plans.
+(d) Trusts or assets held for future use, including real  estate and any associated asset
+management plans.
+(3) If a hospital or hospital system does not have a website, the  information listed in
+subsection (2)  of this section must be made available in hard copy form in each reception
+area of the hospital or hospital system.
+(4) The Oregon Health Authority shall  adopt rules necessary to carry out the provisions
+of this section, including but not limited to:
+(a) Prescribing definitions for the classifications  of care, payer types and employees and
+prescribing the trusts or assets held for future use and other terms used  in subsection (2)
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1842
+HB 2796
+1
+2
+3
+4
+of this section; and
+(b) Civil penalties that may be imposed in accordance with ORS 183.745 for a hospital’s
+or a hospital system’s failure to comply with the requirements of this section.
+[2]

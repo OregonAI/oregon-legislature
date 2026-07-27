@@ -1,0 +1,437 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 2473
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House In-
+terim Committee on Judiciary for Oregon District Attorneys Association)
+CHAPTER .................................................
+AN ACT
+Relating to criminal procedures; creating new provisions; amending  ORS 132.270, 136.583, 161.566,
+161.570, 166.065 and 813.160; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 136.583 is amended to read:
+136.583. (1) Notwithstanding ORS 136.557, 136.563, 136.565 or 136.567  and subject to ORS 136.580
+(2), criminal  process authorizing or commanding the seizure or production of papers, documents,
+records or other things may be issued to a recipient, regardless of whether the recipient or the  pa-
+pers, documents, records or things are located within this state, if:
+(a) The criminal matter is triable in Oregon under ORS 131.205 to 131.235; and
+(b) The exercise of  jurisdiction over the recipient is not inconsistent with the Constitution of
+this state or the Constitution of the United States.
+(2) Criminal process  that authorizes or commands the seizure or production of papers, docu-
+ments, records or other things from a recipient may be served by:
+(a) Delivering a copy to the recipient personally; or
+(b) Sending a copy by:
+(A) Certified or registered mail, return receipt requested;
+(B) Express mail; or
+(C) Facsimile or electronic transmission, if the copy is sent in a  manner that provides proof of
+delivery.
+(3) When criminal process is  served under subsection (2) of this section, the recipient shall
+provide the applicant, or if the process is described in  ORS 136.447 or 136.580 (2), the court, with
+all of the papers,  documents, records or other things described in the criminal process within 20
+business days from the date the criminal process is received, unless:
+(a) The court, for good cause  shown, includes in the process a requirement for production within
+a period of time that is less than 20 business days;
+(b) The court, for good cause shown, extends the time for production to a  period of time that
+is more than 20 business days; or
+(c) The applicant consents to a request from the recipient  for additional time to comply with the
+process.
+(4) A recipient who seeks to quash or  otherwise challenge the criminal process must seek relief
+from the court  that issued the process within the time required for production. The court shall hear
+and decide the issue as soon as practicable. The  consent of the applicant to additional time to
+Enrolled House Bill 2473 (HB 2473-B) Page 1
+comply with the process under subsection (3)(c) of this section  does not extend the date by which
+a recipient must seek relief under this subsection.
+(5) Criminal process issued under this section must contain a notice on the first page of the
+document that indicates:
+(a) That the process was issued under this section;
+(b) The date before which the recipient must respond to the process; and
+(c) That the deadline for seeking relief is not altered by the applicant’s  consent to additional
+time to respond to the process.
+(6) Upon order of the court or the written request of the applicant, the  recipient of the process
+shall verify the authenticity of  the papers, documents, records or other things that the recipient
+produces in response to the criminal process by  providing an affidavit , statement of authenticity
+or declaration that [ includes contact information for ] identifies the custodian or other qualified per-
+son completing the document and attests  to the nature of the papers, documents, records or other
+things. An  affidavit , statement of authenticity  or declaration that complies with this subsection
+[may fulfill] fulfills the requirements of ORS 40.460 (6), 40.505 and 132.320.
+(7) A party  that intends to offer a paper, document, record or other thing into evidence under
+this section must file  written notice of that intention with the court and must disclose the
+affidavit, statement of authenticity  or declaration sufficiently in advance of offering the  paper,
+document, record or other thing into evidence  to provide the adverse party with an opportunity to
+challenge the affidavit , statement of authenticity  or  declaration and to have that challenge de-
+termined without prejudice to the ability of the moving  party to produce the custodian or other
+qualified person at trial.  The written notice must include the  contact information for the
+custodian or other qualified person who signed the  document.  A motion opposing admission of
+the paper, document, record or other thing into evidence must be  filed and determined by the court
+before trial and with sufficient time to allow the party offering the  paper, document, record or other
+thing, if the motion is granted, to produce the custodian of the record or  other qualified person at
+trial, without creating a hardship on the party or the custodian or other qualified person.
+(8) Failure by a party that receives notice under subsection  (7) of this section to timely file a
+motion opposing admission of the paper, document, record or other thing constitutes a waiver of
+objection to the admission of the evidence on the basis of the insufficiency of  the affidavit , state-
+ment of authenticity  or declaration unless the court finds good cause to grant relief from the
+waiver. If  the court grants relief from the waiver, the court shall order the trial continued upon the
+request of the proponent of the evidence and allow the proponent sufficient time to arrange  for the
+necessary witness to appear.
+(9) A recipient of criminal process under this section  or any individual that responds to the
+process is immune from civil and criminal liability  for complying with the process and for any fail-
+ure to provide notice of any disclosure to a person who is the  subject of, or identified in, the dis-
+closure.
+(10) Nothing in this section limits the authority of a court  to issue criminal process under any
+other provision of law or prohibits a party from  calling the custodian of the evidence or other
+qualified person to testify regarding the evidence.
+(11) As used in this section:
+(a) “Applicant” means:
+(A) A police officer or district attorney who applies for a search warrant or  other court order
+or seeks to issue a subpoena under this section; or
+(B) A defense attorney  who applies for a court order or seeks to issue a subpoena under this
+section.
+(b) “Contact information” means a mailing address, email address or phone number.
+[(b)] (c)  “Criminal process” means a subpoena, search warrant or other court order.
+[(c)] (d)  “Declaration” means a declaration [ under penalty of perjury  under ORCP 1 E or an
+unsworn declaration under ORS  194.800 to 194.835, if the declarant is physically outside the bounda-
+ries of the United States ] under ORCP 1 E .
+Enrolled House Bill 2473 (HB 2473-B) Page 2
+[(d)] (e) “Defense attorney” means an attorney of record for a person charged with a crime who
+is seeking the issuance of criminal process for the defense of the criminal case.
+[(e)] (f)  “Recipient” means a business entity or nonprofit entity  that has conducted business or
+engaged in transactions occurring at least in part in this state.
+(g) “Statement of  authenticity” means a statement that attests to the authenticity,
+truthfulness or correctness of specific papers, documents, records or other  things, that is
+signed by the custodian or other qualified person.
+SECTION 2.  ORS 132.270 is amended to read:
+132.270. (1) Audio recordings and the notes or report of a shorthand reporter produced  pursuant
+to ORS 132.250 and  132.260 are confidential and may not be released except as described in this
+section.
+(2) When an  indictment resulting from grand jury proceedings is indorsed “a true bill,” the audio
+recording  or  the notes or report of a shorthand reporter of the grand jury proceedings may be re-
+leased only in the following manner:
+(a) The prosecuting attorney may access a copy  of the audio recording or the notes or report
+of a shorthand reporter at any time.
+(b) When the defendant has been arraigned on the indictment and is  represented by an attorney,
+the [ district] prosecuting attorney shall  make an expedited determination on whether  to file a
+motion for a protective  order under subsection (4)(a)(A) of this section, including whether
+to file an  order on behalf of a victim or witness. If the prosecuting attorney decides not to
+file a motion for a protective order and the decision is made within 10  days after the
+arraignment on the indictment, the prosecuting attorney shall file a certification of the  de-
+cision with the court and shall immediately provide a copy  of the audio recordings, or the
+notes or report  of a shorthand reporter, to the defense attorney. If the prosecuting attorney
+has not filed a certification  under this paragraph within 10 days after the arraignment, or
+decides to file a motion for a protective order, the prosecuting attorney shall :
+(A) Provide a copy to the defense attorney of all audio recordings, or the notes or report of a
+shorthand reporter,  related to an indictment after 10 days have passed since the defendant’s
+arraignment on the indictment , if a [and no ] motion described in subsection (4) of this section has
+not been filed; or
+(B) Provide a copy of the audio recordings, or the notes  or report of a shorthand reporter, to
+the defense attorney  in accordance with the court’s ruling on the motion described in subsection (4)
+of this section, if a motion has been filed.
+(c) Unless the court orders otherwise  for good cause shown, the prosecuting attorney and the
+defense attorney may not copy, disseminate or republish the  audio recording, the notes or report
+of a shorthand reporter, or a transcript prepared from the audio recording, notes or  report, released
+pursuant to this subsection,  except to provide a copy to an agent of the prosecuting attorney or
+defense attorney for the limited purpose of  case preparation. Unless a court orders otherwise for
+good cause shown, in consulting with the defendant the defense  attorney may not disclose to the
+defendant:
+(A) Any  personal identifiers of a victim, witness or grand juror obtained from the audio re-
+cording, report, notes or transcript; or
+(B) Any portion  of the audio recording, report, notes or transcript that contains any personal
+identifiers of a victim, witness or grand juror.
+(d) The defense attorney may not provide a copy  of the audio recording, notes or report, or a
+transcript prepared from the audio recording, notes or report, to the defendant.
+(e) When the defendant  has been arraigned but is not represented by an attorney, the defendant
+may request by  motion that the court issue an order allowing the defendant access to review the
+contents of the audio recording or the notes or  report of the shorthand reporter. A copy of the
+motion must be provided to the prosecuting attorney. The prosecuting attorney may request  a
+hearing on  the motion within 10 days after receiving a copy. At the hearing, or in response to re-
+ceiving the motion, the court  shall appoint counsel for the defendant for the limited purpose of re-
+Enrolled House Bill 2473 (HB 2473-B) Page 3
+viewing the audio recording, notes or report and may set reasonable conditions on  the review of the
+audio recording, notes or report.
+(3)(a) When a grand jury inquires into the conduct of a public servant as  defined in ORS 162.005
+for acts occurring in the performance  of the public servant’s duties, and an indictment resulting
+from the grand jury proceedings is indorsed “not a true bill”:
+(A) The public servant or the prosecuting attorney may file a motion requesting a court order
+releasing all or a portion of a transcript of  the grand jury proceedings. A copy of the motion must
+be served on the opposing party. In deciding whether to issue such  an order, the court shall deter-
+mine whether the public interest  in disclosure outweighs the interest in maintaining the secrecy of
+the grand jury proceedings. If the  court orders disclosure, the court may set reasonable conditions
+on copying, disseminating or republishing the transcript.
+(B) A member of the public may file a motion  requesting a court order for production and re-
+lease of a transcript of the  grand jury proceedings. A copy of the motion must be served on the
+prosecuting attorney and the public servant’s attorney, or the public  servant if the public servant
+is not represented by an attorney. The person filing the motion is responsible for  the cost of
+producing the transcript and a court order for production and release  of the transcript must be
+conditioned on receipt of payment. In deciding whether to issue such an order,  the court shall de-
+termine whether the  public interest in disclosure outweighs the interest in maintaining the secrecy
+of the grand jury proceedings. If the court orders disclosure, the court may set  reasonable condi-
+tions on copying, disseminating or republishing the transcript.
+(b) The release of any transcript under this subsection may not include:
+(A) The release of any personal identifiers of a victim or witness; or
+(B) The release of the name or any personal identifiers of a grand juror.
+(4)(a) A motion for a protective order concerning  an audio recording, the notes or report of a
+shorthand reporter or a transcript of grand jury proceedings may be filed as follows:
+(A) Except when the prosecuting  attorney has filed a certification of the decision to not
+file a motion for a  protective order under subsection (2)(b) of this section,  the prosecuting
+attorney may file a  motion for a protective order within 10 days after the defendant’s arraignment
+on the indictment. The motion may be filed on behalf of a  victim or a witness. The prosecuting at-
+torney shall inform the victim of the ability to seek a protective order.
+(B) The prosecuting attorney may file a motion for a protective  order within 10 days after re-
+ceiving a motion described in subsection (2)(e) of this section.
+(C) The prosecuting attorney, the public servant who is the subject of an indictment  indorsed
+“not a true bill” or the public servant’s attorney may file a motion for a  protective order within 10
+days of receiving a motion described in subsection (3)(a) of this section.
+(b) If the motion for a protective order requests that a  portion of the audio recording, notes,
+report or transcript be redacted, the motion must  be accompanied by a specific description, includ-
+ing the date and time, of the portion of the  audio recording, notes, report or transcript to be
+redacted.
+(c) In response to a motion filed under this subsection, the court may order that the access  of
+the person requesting release to a copy of the audio  recording, notes, report or transcript be denied,
+restricted or deferred, or may make any other order,  upon a finding of substantial and compelling
+circumstances. In deciding whether to grant the motion and enter a protective order under  this
+paragraph, the court may consider the following:
+(A) Protection of witnesses  and others from physical harm, threats of harm, bribes, economic
+interference, reprisal and other forms of intimidation;
+(B) Maintenance of secrecy regarding informants, as required for effective  investigation of
+criminal activity;
+(C) Confidential information recognized under law, including  the protection of confidential re-
+lationships and privileges and the contents of confidential records unrelated to  a crime alleged in
+the indictment; and
+(D) Any other relevant considerations.
+Enrolled House Bill 2473 (HB 2473-B) Page 4
+(d) The court may permit  the evidence of substantial and compelling circumstances described in
+paragraph (c) of this subsection to be made in the  form of a written statement to be inspected by
+the court only or by oral testimony given on the record.
+(5)(a) Except as  provided in paragraph (b) of this subsection, when grand jury proceedings do
+not result in an indictment indorsed as either “a true bill” or “not a  true bill,” the audio recording
+or notes  or report of the shorthand reporter produced pursuant to ORS 132.250 and 132.260 may not
+be disclosed or released.
+(b) When subsequent  grand jury proceedings occur inquiring into the same criminal episode as
+the grand jury proceedings described  in paragraph (a) of this subsection, and the subsequent pro-
+ceedings result in an  indictment indorsed as “a true bill,” the prosecuting attorney shall provide
+notice to the  person charged in the indictment of the occurrence of the earlier grand jury pro-
+ceedings. After the person is arraigned on  the indictment [ and the time period described in subsection
+(2)(b) of this section has passed ], the audio  recording or the notes or report of the shorthand reporter
+produced during the earlier grand jury proceedings may be obtained in the manner set  forth in
+subsection (2) of this section.
+(c) As used in this subsection, “criminal episode” has the meaning given that  term in ORS
+131.505.
+(6) The district attorney of each county may establish a fee for  the cost of providing a copy of
+any audio recording, or the notes or report of a shorthand reporter, of a grand jury  proceeding to
+a person requesting a copy under this section.
+(7) An audio recording, the notes or report of a shorthand reporter or  a transcript of a grand
+jury proceeding obtained pursuant to this section and ORS 132.250 and 132.260:
+(a) May not be used  as evidence in any subsequent proceeding, except as permitted under ORS
+40.375, 40.380, 40.450, 40.460 or 40.465.
+(b) May not be used to challenge the indorsement of an indictment  “a true bill” or the pro-
+ceedings that led to the indorsement.
+(c) May be  used as evidence in a prosecution for perjury or false swearing committed by a
+witness while giving testimony during the grand jury proceeding or during trial.
+(d) May be used as evidence in  a proceeding for contempt of court against a person alleged to
+have violated the terms of a court order concerning the audio recording, notes, report or  transcript.
+(e) May be  submitted to the court and used as evidence for a hearing on a protective order
+described in subsection (4) of this section.
+(8) The release of audio recordings, shorthand reporter notes or reports or transcripts of grand
+jury proceedings under this section does not affect discovery  obligations under ORS 135.805 to
+135.873.
+(9) As used in this section:
+(a) “Personal identifiers” means:
+(A) In relation to a  witness or a grand juror, the person’s address, telephone number, driver li-
+cense, vehicle  registration information, Social Security number, date of birth and the identifying
+number of the person’s depository  account at a financial institution, as defined in ORS 706.008, or
+credit card account.
+(B) In relation to a victim, the victim’s address, electronic mail address, telephone number,
+driver license, vehicle registration information, Social Security number, date of birth,  any user
+names or other identifying information  associated with the victim’s social media accounts and the
+identifying number of the victim’s depository account at a financial institution, as defined  in ORS
+706.008, or credit card account.
+(b) “Social media” has the meaning given that term in ORS 659A.330.
+SECTION 3.
+ ORS 166.065 is amended to read:
+166.065. (1) A person commits the crime of harassment if the person intentionally:
+(a) Harasses or annoys another person by[ :]
+[(A)] subjecting such other person to offensive physical contact; [ or]
+Enrolled House Bill 2473 (HB 2473-B) Page 5
+[(B) Publicly insulting such other person by abusive words or gestures  in a manner intended and
+likely to provoke a violent response; ]
+(b) Subjects another to alarm by conveying a  false report, known by the conveyor to be false,
+concerning death or  serious physical injury to a person, which report reasonably would be expected
+to cause alarm; or
+(c) Subjects another to alarm by conveying a telephonic, electronic or written threat to  inflict
+serious physical injury on that person or  to commit a felony involving the person or property of that
+person or any member  of that person’s family, which threat reasonably would be expected to cause
+alarm.
+(2)(a) A person is criminally  liable for harassment if the person knowingly permits any telephone
+or electronic device under the person’s control to be used in violation  of subsection (1) of this sec-
+tion.
+(b) Harassment that is  committed under the circumstances described in subsection (1)(c) of this
+section is committed in either the county in which the communication originated  or the county in
+which the communication was received.
+(3) Harassment is a Class B misdemeanor.
+(4) Notwithstanding subsection (3) of this  section, harassment is a Class A misdemeanor if a
+person violates:
+(a) Subsection [ (1)(a)(A)] (1)(a) of this section by subjecting another person to offensive physical
+contact  and:
+(A) The offensive physical contact  consists of touching the sexual or other intimate parts of the
+other person; or
+(B)(i) The victim of the offense is a family or household member of the person; and
+(ii) The offense is committed in the immediate presence  of, or is witnessed by, the person’s or
+the victim’s minor child or stepchild or a minor child residing  within the household of the person
+or victim; or
+(b) Subsection (1)(c) of this section and:
+(A) The person has a previous  conviction under subsection (1)(c) of this section and the victim
+of the current offense was the victim  or a member of the family of the victim of the previous offense;
+(B) At the time the offense  was committed, the victim was protected by a stalking protective
+order, a restraining order as defined in ORS 24.190 or any other court order prohibiting  the person
+from contacting the victim;
+(C) At the time the offense was committed, the person reasonably believed the  victim to be un-
+der 18 years of age and more than three years younger than the person; or
+(D)(i) The person conveyed a threat to kill the other person or  any member of the family of the
+other person;
+(ii) The person expressed the intent to carry out the threat; and
+(iii) A reasonable person would believe that the threat was likely to be followed by action.
+(c) Subsection  [ (1)(a)(A)] (1)(a) , (b) or (c) of this section by committing the crime of harassment
+against:
+(A) An election worker who is performing the election  worker’s official duties at the time the
+harassment occurs; or
+(B) An election worker because of an action taken  or decision made by the election worker
+during the performance of the election worker’s official duties.
+(5) The Oregon  Criminal Justice Commission shall classify harassment as described in sub-
+section (4)(a)(B) of this  section as a person Class A misdemeanor under the rules of the commission.
+(6)(a) As used in this section:
+(A) “Election worker” has the meaning given that term in ORS 247.965.
+(B) “Electronic threat”  means a threat conveyed by electronic mail, the Internet, a telephone
+text message or any other transmission of information by  wire, radio, optical cable, cellular system,
+electromagnetic system or other similar means.
+(C) “Family or household member” has the meaning given that term in ORS 135.230.
+Enrolled House Bill 2473 (HB 2473-B) Page 6
+(b) For purposes of subsection (4) of this section, an offense is witnessed if the  offense is seen
+or directly perceived in any other manner by the minor child.
+SECTION 4.  ORS 813.160 is amended to read:
+813.160. (1) A chemical analysis is valid under ORS 813.300 if:
+(a) It is an analysis of a person’s blood for alcohol content and is performed in:
+(A) A laboratory certified or accredited under 42 C.F.R. part 493 and approved for toxicology
+testing;
+(B) A laboratory licensed under ORS 438.110 and approved for toxicology testing; or
+(C) A forensic laboratory established by the Department of State Police under ORS 181A.150
+that is accredited by a national forensic accrediting organization.
+(b) It is an analysis of a person’s breath and is performed by an individual  possessing a valid
+permit to perform chemical analyses issued by the Department of State Police and  is performed ac-
+cording to methods approved by the Department of State Police. For purposes of this paragraph,
+the Department of State Police shall do all of the following:
+(A) Approve methods of performing chemical analyses of a person’s breath.
+(B) Prepare manuals and conduct courses throughout the state for the training of police officers
+in chemical  analyses of a person’s breath, which courses shall include, but are not limited to, ap-
+proved methods of chemical analyses,  use of approved equipment and interpretation of test results
+together with a written examination on these subjects.
+(C) Test and certify the accuracy of equipment to be  used by police officers for chemical ana-
+lyses of  a person’s breath before regular use of the equipment and periodically thereafter at inter-
+vals of not more than 90 days. Tests and certification required by  this subparagraph must be
+conducted by trained technicians. Certification under this subparagraph does not require  a signed
+document.
+(D) Ascertain the qualifications and  competence of individuals to conduct chemical analyses in
+accordance with one or more methods approved by the department.
+(E) Issue permits  to individuals according to their qualifications. Permits may be issued to police
+officers only upon  satisfactory completion of the prescribed training course and written examination.
+A permit must  state the methods and equipment that the police officer is qualified to use. Permits
+are subject to termination or revocation at the discretion of the Department of State Police.
+(2) In conducting a chemical test of the blood, only a duly licensed physician , a phlebotomist
+or a person acting under the direction or control of a  duly licensed physician may withdraw blood
+or pierce human tissue. A licensed physician,  a phlebotomist  or a qualified  person acting under the
+direction or control of a duly licensed physician, is not civilly liable for  withdrawing any bodily
+substance, in a medically acceptable manner, at the request of a peace officer.
+(3) An individual who performs a chemical analysis of breath or blood under  ORS 813.100 or
+813.140 shall prepare and sign a written report of the findings of  the test that must include the
+identification of the police officer upon whose request the test was administered.
+(4) Any individual having  custody of the report mentioned in subsection (3) of this section shall,
+upon request of the person tested, furnish that person or that person’s attorney, a copy of the report.
+(5) The expense of conducting a chemical test as provided by  ORS 813.100 or 813.140 must be
+paid by the governmental unit on whose equipment the test  is conducted or by the governmental
+unit upon whose request the test  was administered if no governmental unit’s equipment is used to
+conduct the test.
+(6) As used in this  section, “phlebotomist” means a person who has been trained in
+phlebotomy by an academic or medical institution.
+SECTION 5.
+ ORS 161.566 is amended to read:
+161.566. (1) Except as provided  in subsection (4) of this section, a prosecuting attorney may elect
+to treat  any misdemeanor as a Class A violation. The election must be made by the prosecuting
+attorney orally [ at the time  of the first appearance of the defendant ] or in writing [ filed on or before
+the time scheduled for the first appearance of the  defendant ]. If no election is made [ within the time
+allowed], the case shall proceed as a misdemeanor.
+Enrolled House Bill 2473 (HB 2473-B) Page 7
+(2) If a prosecuting attorney elects to treat a  misdemeanor as a Class A violation under this
+section, the court  shall amend the accusatory instrument to reflect the charged offense as a Class
+A violation and clearly denominate the  offense as a Class A violation in any judgment entered in
+the matter. Notwithstanding ORS 153.021, the fine that a court may impose  upon conviction of a
+violation under this section may not:
+(a) Be less than the presumptive fine established by ORS 153.019 for a Class A violation; or
+(b) Exceed the maximum fine established by ORS 153.018 for a Class A violation.
+(3) If a prosecuting attorney elects to treat a  misdemeanor as a Class A violation under this
+section, and the defendant fails to make any required appearance in the matter,  the court may enter
+a default judgment against  the defendant in the manner provided by ORS 153.102. Notwithstanding
+ORS 153.021, the fine that the court may impose  under a default judgment entered pursuant to ORS
+153.102 may not:
+(a) Be less than the presumptive fine established by ORS 153.019 for a Class A violation; or
+(b) Exceed the maximum fine established by ORS 153.018 for a Class A violation.
+(4) A prosecuting  attorney may not elect to treat misdemeanors created under ORS 811.540 or
+813.010 as violations under the provisions of this section.
+(5) The election provided for in this section may be made by a city  attorney acting as prose-
+cuting attorney in the case of municipal ordinance offenses, a county counsel acting  as prosecuting
+attorney under a county charter in the case of county ordinance offenses, and the Attorney General
+acting as prosecuting attorney  in those criminal actions or proceedings within the jurisdiction of the
+Attorney General.
+SECTION 6.
+ ORS 161.570 is amended to read:
+161.570. (1) As used in  this section, “nonperson felony” has the meaning given that term in the
+rules of the Oregon Criminal Justice Commission.
+(2) A district attorney may elect to treat  a Class C nonperson felony or a violation of ORS
+475.752 (7)(b), 475.854 (2)(c) or 475.874 (2)(c) as a Class A  misdemeanor. The election must be made
+by the district attorney orally or in writing [ at the time of the first appearance of the  defendant ]. If
+a district attorney  elects to treat a Class C felony or a violation of ORS 475.752 (7)(b), 475.854 (2)(c)
+or 475.874 (2)(c) as a Class A  misdemeanor under this subsection, the court shall amend the
+accusatory instrument to reflect the charged offense as a Class A misdemeanor.
+[(3) If, at some time after the first appearance  of a defendant charged with a Class C nonperson
+felony or a violation of  ORS 475.752 (7)(b), 475.854 (2)(c) or 475.874 (2)(c), the district attorney and the
+defendant agree to treat the charged offense as a  Class A misdemeanor, the court may allow the offense
+to be treated as a Class A misdemeanor by stipulation of the parties. ]
+[(4)] (3)  If a Class C felony or a violation of  ORS 475.752 (7)(b), 475.854 (2)(c) or 475.874 (2)(c)
+is treated as a Class A misdemeanor under this section, the court shall clearly denominate  the of-
+fense as a Class A misdemeanor in any judgment entered in the matter.
+[(5)] (4) If no election [ or stipulation ] is made under this section, the case proceeds as a felony.
+[(6)] (5) Before a district attorney may make an election under subsection (2) of  this section, the
+district attorney shall adopt written  guidelines for determining when and under what circumstances
+the election may be made. The district attorney shall apply the guidelines uniformly.
+[(7)] (6)  Notwithstanding ORS 161.635, the  fine that a court may impose upon conviction of a
+misdemeanor under this section may not:
+(a) Be less than the minimum fine established by ORS 137.286 for a felony; or
+(b) Exceed the amount provided  in ORS 161.625 for the class of felony receiving Class A
+misdemeanor treatment.
+SECTION 7.
+(1) The amendments  to ORS 132.270, 166.065 and 813.160 by sections 2 to 4
+of this 2025 Act become operative on January 1, 2026.
+(2) The amendments to ORS 132.270 by section 2 of this  2025 Act apply to criminal pro-
+ceedings based on conduct occurring on or after January 1, 2026.
+(3) The amendments to  ORS 161.566 and 161.570 by sections 5 and 6 of this 2025 Act apply
+to prosecutions commenced on or after the effective date of this 2025 Act.
+Enrolled House Bill 2473 (HB 2473-B) Page 8
+SECTION 8. This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist, and  this 2025 Act takes effect
+on its passage.
+Passed by House April 22, 2025
+Repassed by House June 13, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate June 12, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 2473 (HB 2473-B) Page 9

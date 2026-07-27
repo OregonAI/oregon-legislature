@@ -1,0 +1,207 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2922
+Introduced and printed pursuant to  House Rule 12.00. Presession filed (at the request of Governor Tina Kotek for
+State Parks and Recreation Department)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  allows employees of State Parks to keep their home address private in ODOT
+records. (Flesch Readability Score: 68.9).
+Provides that State Parks  and Recreation Department employees are eligible to request that
+records kept by the Department of Transportation contain the employer’s address instead  of the
+employee’s home address.
+A BILL FOR AN ACT
+Relating to address confidentiality; amending ORS 802.250.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 802.250 is amended to read:
+802.250. (1) An eligible public employee may request that any driver or vehicle record  kept by
+the Department of Transportation that contains or is  required to contain the eligible employee’s
+residence address contain instead the address of the public agency employing the eligible
+employee. A request under this section shall:
+(a) Be in a form specified by the department that provides for  verification of the eligible
+employee’s employment.
+(b) Contain verification  by the employing public agency of the eligible employee’s employment
+with the public agency.
+(2) Upon  receipt of a request and verification under subsection (1) of this section, the depart-
+ment shall remove the eligible employee’s residence address from its records, if necessary,  and sub-
+stitute therefor the address of the public agency employing the eligible  employee. The department
+shall indicate on the records that the address shown is an  employment address. While the request
+is in effect, the eligible employee may enter the address of the  public agency employing the eligible
+employee on any driver or vehicle form issued by the department that requires an address.
+(3) A  public agency that verifies an eligible employee’s employment under subsection (1) of this
+section shall notify the department within 30 days if the eligible employee  ceases to be employed
+by the public agency. The eligible employee shall notify  the department of a change of address as
+provided in ORS 803.220 or 807.560.
+(4) If an eligible employee is killed in the line  of duty, a person who is a household member of
+the eligible employee may request that any driver or vehicle record  kept by the department that
+contains or is required to contain the household member’s residence address  continue to contain the
+address of the public agency that employed  the eligible employee for up to four years after the date
+of the death of the eligible employee. On or before the date  on which the four-year period ends, the
+household member shall notify the department of a change of address as provided in ORS 803.220
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 425
+HB 2922
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+or 807.560. A request under this subsection shall be in a form specified by the department.
+(5) As used in this section, “eligible employee” means:
+(a) A member of the State Board of Parole and Post-Prison Supervision.
+(b) The Director of  the Department of Corrections and an employee of an institution defined in
+ORS 421.005 as Department of Corrections institutions, whose duties, as assigned by the  super-
+intendent, include the custody of persons committed to the  custody of or transferred to the institu-
+tion.
+(c) A parole and probation officer employed by the Department of Corrections and an  employee
+of the Department of Corrections Release Center whose  duties, as assigned by the Chief of the Re-
+lease Center,  include the custody of persons committed to the custody of or transferred to the Re-
+lease Center.
+(d) A police officer appointed under ORS 276.021 or 276.023.
+(e) An  employee of the State Department of Agriculture who is classified as a brand inspector
+by the Director of Agriculture.
+(f) An investigator of the Criminal Justice Division of the Department of Justice.
+(g) A corrections officer as defined in ORS 181A.355.
+(h) A federal  officer. As used in this paragraph, “federal officer” means a special agent or law
+enforcement officer employed by:
+(A) The Federal Bureau of Investigation;
+(B) The United States Secret Service;
+(C) The United States Citizenship and Immigration Services;
+(D) The United States Marshals Service;
+(E) The Drug Enforcement Administration;
+(F) The United States Postal Service;
+(G) The United States Customs and Border Protection;
+(H) The United States General Services Administration;
+(I) The United States Department of Agriculture;
+(J) The Bureau of Alcohol, Tobacco, Firearms and Explosives;
+(K) The Internal Revenue Service;
+(L) The United States Department of the Interior; or
+(M) Any  federal agency if the person is empowered to effect an arrest with or without warrant
+for violations of the United States Code and is authorized to carry firearms  in the performance of
+duty.
+(i) An employee of the Department of Human Services or the Oregon  Health Authority whose
+duties include personal contact with clients or patients of the department or the authority.
+(j) Any judge of a court of this state.
+(k) An employee of  the Oregon Youth Authority or of a county juvenile department whose duties
+include personal contact with persons  committed to the legal or physical custody of the authority
+or of the county juvenile department.
+(L) A district attorney, as defined in ORS 131.005, or deputy district attorney.
+(m) An employee who provides educational services to  persons who are clients or patients of the
+Department of Human Services  or the Oregon Health Authority, who are under the jurisdiction of
+the Psychiatric Security Review Board or who are  under the custody or supervision of the Depart-
+ment of Corrections, the State Board of Parole and Post-Prison Supervision, a community corrections
+agency, the Oregon Youth Authority or a juvenile department.  As used in this paragraph, “employee
+[2]
+HB 2922
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+who provides educational services” means a person who provides instruction, or services related  to
+the instruction, of a subject usually  taught in an elementary school, a secondary school or a com-
+munity college or who provides special education and related services in other  than a school setting
+and who works for:
+(A) An education service district or a community college district; or
+(B) A state officer, board, commission, bureau, department or  division in the executive branch
+of state government that provides educational services.
+(n) An employee of the Oregon Liquor and Cannabis Commission who is:
+(A) A regulatory specialist; or
+(B) A regulatory manager.
+(o) A police officer as defined in ORS 801.395.
+(p) An  employee whose duties include personal contact with criminal offenders and who is em-
+ployed by a law enforcement unit, as defined in ORS 181A.355.
+(q) A civil code enforcement officer, as defined in ORS 192.345.
+(r) An assistant attorney general whose duties include  the representation of the Department of
+Human Services in child welfare matters.
+(s) An employee of the Department of Justice who staffs the  hate crimes hotline described in
+ORS 147.380.
+(t) An employee of the State Parks and Recreation Department.
+[3]

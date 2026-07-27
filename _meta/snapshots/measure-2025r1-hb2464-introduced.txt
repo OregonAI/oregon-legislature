@@ -1,0 +1,3511 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2464
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Judiciary for Legislative Counsel)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would make technical changes to certain laws. (Flesch Readability Score: 75.5).
+Makes nonsubstantive and technical changes in Oregon law. Corrects  grammar and punctu-
+ation. Conforms language to existing statutes and legislative style.
+A BILL FOR AN ACT
+Relating to correction of erroneous material in Oregon law; creating new provisions; and  amending
+ORS 30.835, 94.779, 105.124, 147.005, 173.615, 174.535, 192.610, 196.515, 197A.110, 197A.370,
+253.005, 327.829, 366.744,  366.924, 413.213, 414.245, 415.501, 421.173, 421.175, 427.265, 430.717,
+443.485, 456.603, 468.463, 468.469, 468.498, 468A.193, 468B.522, 475C.582, 475C.644, 475C.648 and
+656.260 and section 7, chapter 89, Oregon Laws 2022,  section 1, chapter 37, Oregon Laws 2024,
+and sections 5, 7 and 14, chapter 97, Oregon Laws 2024.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 174.535 is amended to read:
+174.535. It is  the policy of the Legislative Assembly to revise sections from Oregon Revised
+Statutes and Oregon law periodically in order to maintain accuracy. However, nothing in chapter
+740, Oregon Laws 1983, chapter 565, Oregon Laws 1985, chapter 158,  Oregon Laws 1987, chapter
+171, Oregon Laws 1989, chapters 67 and 927, Oregon Laws 1991, chapters 18 and 469,  Oregon Laws
+1993, chapter 79, Oregon Laws 1995, chapter 249, Oregon Laws 1997, chapter 59, Oregon Laws 1999,
+chapter 104, Oregon Laws 2001, chapter 14, Oregon Laws 2003, chapter 22, Oregon Laws 2005,
+chapter 71, Oregon Laws 2007, chapter 11, Oregon Laws 2009,  chapter 9, Oregon Laws 2011, chapter
+1, Oregon Laws 2013, chapter  27, Oregon Laws 2015, chapter 17, Oregon Laws 2017, chapter 13,
+Oregon Laws 2019, chapter 97, Oregon Laws 2021, [ or] chapter 9, Oregon Laws 2023,  or  this 2025
+Act,  is intended to alter the legislative intent or purpose of statutory sections affected  by chapter
+740, Oregon Laws 1983, chapter  565, Oregon Laws 1985, chapter 158, Oregon Laws 1987, chapter
+171, Oregon Laws 1989, chapters 67 and 927, Oregon Laws 1991, chapters 18 and 469,  Oregon Laws
+1993, chapter 79, Oregon Laws 1995, chapter 249, Oregon Laws 1997, chapter 59, Oregon Laws 1999,
+chapter 104, Oregon Laws 2001, chapter 14, Oregon Laws 2003, chapter 22, Oregon Laws 2005,
+chapter 71, Oregon Laws 2007, chapter 11, Oregon Laws 2009,  chapter 9, Oregon Laws 2011, chapter
+1, Oregon Laws 2013, chapter 27, Oregon Laws 2015, chapter 17, Oregon  Laws 2017, chapter 13,
+Oregon Laws 2019, chapter 97, Oregon  Laws 2021, [ and] chapter 9, Oregon Laws 2023,  and this 2025
+Act,  except insofar as the amendments thereto, or repeals thereof, specifically require.
+NOTE: Sets forth Reviser’s Bill policy statement.
+SECTION 2.
+ ORS 30.835 is amended to read:
+30.835. (1) As used in this section:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 785
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) “Disclose” includes, but  is not limited to, transfer, publish, distribute, exhibit, advertise and
+offer.
+(b) “Injure” means to subject another to bodily injury or death.
+(c) “Harass” means to subject another to severe emotional distress such  that the individual ex-
+periences anxiety, fear, torment or apprehension that may or may not  result in a physical manifes-
+tation of severe emotional  distress or a mental health diagnosis and is protracted rather than merely
+trivial or transitory.
+(d) “Personal information” means:
+(A) The plaintiff’s home address, personal electronic mail  address, personal phone number or
+Social Security number;
+(B) Contact information for the plaintiff’s employer;
+(C) Contact information for a family member of the plaintiff;
+(D) Photographs of the plaintiff’s children; or
+(E) Identification of the school that the plaintiff’s children attend.
+(e) “Stalk” means conduct constituting the crime  of stalking under ORS 163.732 or conduct that
+would give rise to an action for issuance or violation of a stalking protective order under  ORS
+30.866.
+(2) A plaintiff has a cause of action for improper disclosure of  private information if the plaintiff
+establishes by a preponderance of the evidence that:
+(a) The defendant, with the intent to stalk, harass or injure the  plaintiff, knowingly caused
+personal information to be disclosed;
+(b) The defendant knew or reasonably should have known that  the plaintiff did not consent to
+the disclosure;
+(c) The plaintiff is stalked, harassed or injured by the disclosure; and
+(d) A reasonable person would be stalked, harassed or injured by the disclosure.
+(3) A plaintiff who prevails in a claim under this section may recover:
+(a) Economic and noneconomic damages, as those terms are defined in ORS [ 31.710] 31.705;
+(b) Punitive damages;
+(c) Injunctive relief;
+(d) Reasonable attorney fees; and
+(e) Any other appropriate equitable relief.
+(4) An action under this section must be commenced not later than  two years after the conduct
+that gives rise to a claim for relief occurred.
+NOTE: Corrects citation in (3)(a).
+SECTION 3.
+ ORS 94.779 is amended to read:
+94.779. (1) A provision of a planned community’s governing document or landscaping or  archi-
+tectural guidelines that imposes irrigation requirements on an owner or the association is void  and
+unenforceable while any of the following is in effect:
+(a) A declaration by the Governor that a severe, continuing drought exists or is  likely to occur
+in a political subdivision within which the planned community is located;
+(b) A finding by the Water Resources Commission that a  severe, continuing drought exists or is
+likely to occur in a political subdivision within which the planned community is located;
+(c) An ordinance adopted by the governing body  of a political subdivision within which the
+planned community is located that requires conservation or curtailment of water use; or
+(d) A rule adopted by the association under subsection  (2) of this section to reduce or eliminate
+[2]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+irrigation water use.
+(2) Notwithstanding any provision of a planned community’s governing documents or landscaping
+or architectural guidelines imposing irrigation requirements on  an owner or the association, an as-
+sociation may adopt rules that:
+(a) Require the reduction or elimination of irrigation on any portion of the planned community.
+(b) Permit or require the replacement of turf or other landscape vegetation with  xeriscape on
+any portion of the planned community.
+(c) Require prior review and approval by the association or its designee  of any plans by an
+owner or the association to replace turf or other landscape vegetation with xeriscape.
+(d) Require the use of best  practices and industry standards to reduce the landscaped areas and
+minimize irrigation of existing  landscaped areas of common property where turf is necessary for the
+function of the landscaped area.
+(3) Except as provided in subsections (4)  and (5) of this section, if adopted on or after January
+1, 2018, the following provisions  of a planned community’s governing document are void and
+unenforceable:
+(a) A provision that prohibits  or restricts the use of the owner’s unit or lot as the premises of
+an exempt family child care provider participating in the subsidy program under ORS 329A.500; or
+(b) If the unit does not  share a wall, floor or ceiling surface in common with another unit, a
+provision that prohibits  or restricts the use of the owner’s unit or lot as a certified or registered
+family child care home pursuant to ORS 329A.250 to 329A.450.
+(4) Subsection (3) of this section does  not prohibit a homeowners association from adopting or
+enforcing a provision of the planned  community’s governing document that regulates parking, noise,
+odors, nuisance, use of common property or activities that impact the cost  of insurance policies held
+by the planned community, provided the provision:
+(a) Is reasonable; and
+(b) Does not have  the effect of prohibiting or restricting the use of a unit or lot as the premises
+of an exempt family child  care provider participating in the subsidy program under ORS 329A.500
+or as a certified or registered family child care home pursuant to ORS 329A.250 to 329A.450.
+(5)(a) Subsection (3) of this section does not apply to planned communities that  provide housing
+for older persons.
+(b) As used in this subsection, “housing for older persons” has the meaning given  that term in
+ORS 659A.421.
+(6) A provision in a planned community’s governing document that restricts or prohibits the in-
+stallation or use of a portable cooling device, as defined in ORS [ 90.335 (1) ] 90.355, is void and
+unenforceable, unless:
+(a) The installation or use of the device would:
+(A) Violate building codes or state or federal law; or
+(B) Violate the device manufacture’s written safety guidelines for the device; or
+(b) The restrictions are  only to require that the device be removed from October 1 through April
+30.
+NOTE: Corrects citation in (6).
+SECTION 4.
+ ORS 105.124 is amended to read:
+105.124. For a complaint described in ORS 105.123, if  ORS chapter 90 applies to the dwelling
+unit:
+(1) The  complaint must be in substantially the following form and be available from the clerk
+[3]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of the court:
+_______________________________________________________________________________________
+IN THE CIRCUIT COURT
+FOR THE COUNTY OF
+No. 
+RESIDENTIAL EVICTION COMPLAINT
+PLAINTIFF (Landlord or agent):
+Address: 
+City: 
+State:  Zip: 
+Telephone: 
+vs.
+DEFENDANT (Tenants/Occupants):
+MAILING ADDRESS: 
+City: 
+State:  Zip: 
+Telephone: 
+1.
+Tenants are  in possession of the dwelling unit, premises or rental property described above or
+located  at:
+2.
+Landlord is entitled to possession of the property because of:
+24-hour notice for personal
+injury, substantial damage, extremely
+outrageous act or unlawful occupant.
+ORS 90.396 or 90.403.
+24-hour or 48-hour notice for
+violation of a drug or alcohol
+program. ORS 90.398.
+24-hour notice for perpetrating
+[4]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+domestic violence, sexual assault or
+stalking. ORS 90.445.
+72-hour notice for
+nonpayment of rent in a week-to-week
+tenancy. ORS 90.394 (1).
+7-day notice with stated cause in
+a week-to-week tenancy. ORS 90.392 (6).
+10-day notice for a pet violation,
+a repeat violation in a month-to-month
+tenancy or without stated cause in a
+week-to-week tenancy. ORS 90.392 (5),
+90.405 or 90.427 (2).
+10-day or 13-day notice for nonpayment
+of rent. ORS 90.394 (2).
+20-day notice for a repeat violation.
+ORS 90.630 [ (5)] (6).
+30-day, 60-day or 180-day notice without
+stated cause in a month-to-month
+tenancy. ORS 90.427 (3)(b) or (8)(a)(B)
+or (C) or 90.429.
+30-day notice with stated cause.
+ORS 90.392, 90.630 or 90.632:
+ The stated cause is for
+nonpayment as defined in ORS 90.395.
+60-day notice with stated cause.
+ORS 90.632.
+90-day notice with stated cause.
+ORS 90.427 (5) or (7).
+Notice to bona fide tenants after
+foreclosure sale or termination of
+fixed term tenancy after foreclosure
+sale. ORS 86.782 (6)(c).
+Other notice 
+No notice (explain) 
+A COPY OF THE NOTICE RELIED UPON, IF ANY, IS ATTACHED
+3.
+If the landlord uses an attorney, the case  goes to trial and the landlord wins in court, the
+landlord can collect attorney fees from the defendant pursuant to ORS 90.255 and 105.137 (3).
+Landlord requests judgment for possession of the premises, court  costs, disbursements and at-
+torney fees.
+I certify that the allegations and factual assertions in this complaint are true to the  best of my
+knowledge.
+[5]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Signature of landlord or agent.
+_______________________________________________________________________________________
+(2) The complaint must be  signed by the plaintiff, or an attorney representing the plaintiff as
+provided by ORCP 17, or verified by an agent or employee of the  plaintiff or an agent or employee
+of an agent of the plaintiff.
+(3) A copy of the notice relied upon, if any, must be attached to the complaint.
+NOTE: Updates citation in (1) part 2.
+SECTION 5.
+ ORS 147.005 is amended to read:
+147.005. As used in ORS 147.005 to 147.367 unless the context requires otherwise:
+(1) “Applicant” means:
+(a) Any victim of a compensable crime who  applies to the Department of Justice for compen-
+sation under ORS 147.005 to 147.367;
+(b) Any person who  was a dependent of a deceased victim at the time of the death of that victim;
+(c) Any person who is a survivor of a deceased victim; or
+(d) Any person eligible for compensation under ORS 147.025.
+(2) “Board” means the Workers’ Compensation Board.
+(3) “Child” means  an unmarried person who is under 18 years of age and includes a posthumous
+child, stepchild or an adopted child.
+(4) “Cleaning expenses” means expenses reasonably related to the cleaning  of, and the removal
+of any organic or  inorganic matter from, a private residence or place of business due to physical
+injury to or the death of a person, or conduct that caused physical injury to  or the death of a per-
+son.
+(5) “Compensable crime” means abuse  of corpse in any degree or an intentional, knowing,
+reckless or criminally negligent act that results in injury  or death of another person and that, if
+committed by a person of full legal capacity, would be punishable as a crime in this state.
+(6) “Counseling” has the meaning given that term by the department by rule.
+(7) “Department” means the Department of Justice.
+[(7)] (8)  “Dependent” means  such relatives of a deceased victim who wholly or partially were
+dependent upon the victim’s income at the time of death or would have been so dependent  but for
+the victim’s incapacity due to the injury from which the death resulted.
+[(8) “Department” means the Department of Justice. ]
+(9) “Funeral expenses” means expenses of the funeral, burial, cremation, reduction or other
+chosen method of interment, including plot or tomb  and other necessary incidents to the disposition
+of the remains and also including, in the case of abuse of corpse in any degree, reinterment.
+(10) “Injury” means abuse of a corpse, actual bodily harm, mental  or emotional harm and, with
+respect to a victim, includes pregnancy and mental or nervous shock.
+(11) “International terrorism” means activities that:
+(a) Involve violent acts or acts dangerous to human life that are a  violation of the criminal laws
+of the United States or any state or that would be a criminal violation if  committed within the ju-
+risdiction of the United States or of any state;
+(b) Appear to be intended to:
+(A) Intimidate or coerce a civilian population;
+(B) Influence the policy of a government by intimidation or coercion; or
+[6]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(C) Affect the conduct of a government by assassination or kidnapping; and
+(c) Occur primarily outside the territorial  jurisdiction of the United States or transcend national
+boundaries in terms of the means by which they are accomplished, the persons they  appear intended
+to intimidate or coerce, or the locale in which their perpetrators operate or seek asylum.
+(12) “Involved in the hearing” and “involved in the oral argument” have the  meaning given
+those terms by the department by rule.
+(13) “Law enforcement official” means a sheriff,  constable, marshal, municipal police officer,
+police officer commissioned by a university under ORS 352.121 or 353.125 or member of the  Oregon
+State Police and such other persons as may be designated by law as a peace officer.
+(14) “Reduction” has the meaning given that term in ORS 97.010.
+(15) “Relative” means a person related  to the victim within the third degree as determined by
+the common law, a spouse, or an individual  related to the spouse within the third degree as so de-
+termined and includes an individual in an adoptive relationship.
+(16) “Survivor” means any spouse, parent, grandparent, guardian,  sibling, child or other imme-
+diate family member or household member of a deceased victim, or a person to  whom a deceased
+victim was engaged to be married when the compensable crime occurred.
+(17) “Victim” means:
+(a) A person:
+(A) Killed or injured in this state as a result of  a compensable crime perpetrated or attempted
+against that person;
+(B) Killed or injured in this  state while attempting to assist a person against whom a
+compensable crime is being perpetrated or attempted, if that attempt of assistance would be ex-
+pected of a reasonable person under the circumstances;
+(C) Killed or injured in this state while assisting a law enforcement official to  apprehend a
+person who has perpetrated a crime or to  prevent the perpetration of any such crime, if that as-
+sistance was in response to the express request of the law enforcement official;
+(D) Killed or injured in another state as a result of a criminal episode that began in this state;
+(E) Who is an Oregon resident killed or injured as a result of a compensable crime perpetrated
+or attempted against the person in a state, within the United  States, without a reciprocal crime
+victims’ compensation program; or
+(F) Who is an Oregon resident killed or  injured by an act of international terrorism committed
+outside the United States; or
+(b) In the case of abuse of corpse in any degree, the corpse or a relative of the corpse.
+NOTE: Alphabetizes definitions in (7) and (8).
+SECTION 6.
+ ORS 173.615 is amended to read:
+173.615. (1)(a) The Legislative Policy  and Research Committee shall consist of the Speaker of the
+House of Representatives, the President of the Senate, members of the House appointed by the
+Speaker so that there  is an equal number of majority party and minority party members of the
+House including the Speaker, and members of the Senate appointed by the President  so that there
+is an equal number of majority party and minority party members of the Senate including the Pres-
+ident. The Speaker of the House of Representatives and the President of the Senate  may each des-
+ignate, from among the members of the appropriate  house, majority party and minority party
+alternates to exercise powers as members of the committee.
+(b) The appointing authorities shall appoint members of a  new committee within 30 days after
+the earlier of:
+[7]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) The date of the convening of an odd-numbered year regular session of the Legislative As-
+sembly; or
+(B) The  date of the convening of an organizational session of the odd-numbered year regular
+session of the Legislative Assembly.
+(2)(a) The term of a member of the committee shall expire upon the earlier of:
+(A) The date of the convening of the odd-numbered year regular session  of the Legislative As-
+sembly next following the member’s appointment; or
+(B) The  date of the convening of an organizational session of the odd-numbered year regular
+session of the Legislative Assembly next following the member’s appointment.
+(b) Vacancies occurring in the membership  of the committee shall be filled by the appointing
+authority so as to ensure an equal number of majority party and minority  party members from the
+appropriate house.
+(3) The committee has a continuing existence and may meet, act  and conduct its business during
+the sessions of the  Legislative Assembly or any recess thereof, and in the interim period between
+sessions, but the committee has no authority to affect the rules of either house.
+(4) The committee may appoint advisory committees or subcommittees. [ Except as otherwise
+provided in this subsection, ] Individuals other than members of the Legislative Assembly may serve
+on such advisory committees or subcommittees. A member of an  advisory committee or subcommit-
+tee who is not a member of the Legislative  Assembly shall be compensated and reimbursed in the
+manner provided in ORS 292.495.
+(5) The committee may not transact business unless a  quorum is present. A quorum consists of
+a majority of committee members from the House of Representatives and a majority of  committee
+members from the Senate.
+(6) Action by the committee requires the affirmative vote  of a majority of committee members
+from the House of Representatives and a majority of committee members from the Senate.
+NOTE: Deletes nonsensical phrase in (4).
+SECTION 7.
+ ORS 192.610 is amended to read:
+192.610. As used in ORS 192.610 to 192.705:
+(1) “Convening” means:
+(a) Gathering in a physical location;
+(b) Using electronic, video or telephonic technology to  be able to communicate
+contemporaneously among participants;
+(c) Using serial electronic written communication among participants; or
+(d) Using an intermediary to communicate among participants.
+(2) “Decision” means any determination, action,  vote or final disposition upon a motion, pro-
+posal, resolution, order, ordinance or measure on which a vote of a governing body is required, at
+any meeting at which a quorum is present.
+(3) “Deliberation” means discussion or communication  that is part of a decision-making process.
+(4) “Executive session” means any meeting or part of a meeting of a governing body [ which]
+that is closed to certain persons for deliberation on certain matters.
+(5) “Governing  body” means the members of any public body [ which] that  consists of two or
+more members, with the authority to  make decisions for or recommendations to a public body on
+policy or administration.
+[(6) “Public body” means the state, any regional council, county, city  or district, or any municipal
+or public corporation,  or any board, department, commission, council, bureau, committee or subcom-
+[8]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+mittee or advisory group or any other agency thereof. ]
+[(7)(a)] (6)(a)  “Meeting” means the convening of a governing body of a public body  for which a
+quorum is required in order to make a decision or to deliberate toward a decision on any matter.
+(b) “Meeting”  does not include any on-site inspection of any project or program or the attend-
+ance of members of a governing  body at any national, regional or state association to which the
+public body or the members belong.
+(7) “Public body” means the state, any regional council, county, city  or district, or any
+municipal or public corporation, or any board, department, commission, council,  bureau,
+committee or subcommittee or advisory group or any other agency thereof.
+NOTE: Improves syntax in (4) and (5); alphabetizes definitions in (6) and (7).
+SECTION 8.
+ ORS 196.515 is amended to read:
+196.515. ORS 196.405 to [ 196.485] 196.515 shall be known  as the Oregon Ocean Resources Man-
+agement Act.
+NOTE: Standardizes series reference.
+SECTION 9.  ORS 197A.110 is amended to read:
+197A.110. (1) No later than February 1 of each year, each city with a population of 10,000 or
+greater shall submit to the Department of Land Conservation and Development a report for  the
+immediately preceding calendar year setting forth:
+(a) The number of residential units permitted and the number produced, segmented by:
+(A) Single-family homes.
+(B) Accessory dwelling units.
+(C) Units of middle housing.
+(D) Multifamily residential units, not including middle housing.
+(E) Units with accessibility features or of an accessibility category  as recognized by a building
+code established under ORS chapter 455.
+(b) For  each segment under paragraph (a) of this subsection, the number of units that were
+subject to a recorded agreement  that runs with the land and that requires affordability for an es-
+tablished income level  for a defined period, but that would not be included in the inventory of pub-
+licly supported housing described in ORS 456.601 [ (3)(a)] (4)(a).
+(2) The Department of Land Conservation and Development, in consultation with  the Housing
+and Community Services Department, shall develop a format by which data  required under this
+section must be submitted. The Department of Land Conservation  and Development shall provide a
+copy of any form or notice of the format to each city required to provide a report.
+(3) The Department of Land Conservation  and Development shall provide a copy of the data
+received under this section to the Oregon Department of Administrative Services  and the Housing
+and Community Services Department by July 1 of each year.
+NOTE: Corrects citation in (1)(b).
+SECTION 10.
+ ORS 197A.370 is amended to read:
+197A.370. (1) [ A metropolitan service district organized under ORS  chapter 268 ] Metro  shall
+compile and report to the Department of  Land Conservation and Development on performance
+measures as described in this section at  least once every two years. The information shall be re-
+ported in a manner prescribed by the department.
+(2) Performance measures subject to subsection (1) of this section shall  be adopted by [ a metro-
+politan service district ] Metro  and shall include but are not limited to measures  that analyze the
+following:
+[9]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) The rate of conversion of vacant land to improved land;
+(b) The density and price ranges of residential development, including both single family  and
+multifamily residential units;
+(c) The level of job creation within individual cities and the urban areas  of a county inside [ the
+metropolitan service district ] Metro ;
+(d) The number of residential units added to small sites assumed to  be developed in [ the metro-
+politan service district’s ] Metro’s  inventory of available  lands but which can be further developed,
+and the conversion of existing spaces into more compact units with or without the  demolition of
+existing buildings;
+(e) The amount of environmentally sensitive land that is protected  and the amount of environ-
+mentally sensitive land that is developed;
+(f) The sales price of vacant land;
+(g) Residential vacancy rates;
+(h) Public access to open spaces; and
+(i) Transportation measures including mobility, accessibility and air quality indicators.
+NOTE: Updates terminology in (1), (2), (2)(c) and (d).
+SECTION 11.
+Notwithstanding any other provision of law, ORS 243.650 to 243.809 is con-
+sidered to be identical to ORS 243.650 to 243.762 for the purpose of statutory compilation or
+for the application  of definitions, penalties or administrative provisions applicable to statute
+sections in that series.
+NOTE: Ratifies appropriate series reference in ORS 240.321 (2)  to conform to reference that
+was editorially adjusted in 2019.
+SECTION 12.  ORS 253.005 is amended to read:
+253.005. As used in this chapter:
+(1) “Absent elector” means a person to whom the county clerk  has issued a ballot prior
+to the date that ballots are mailed to electors as provided in ORS 254.470 (2)(a) or (b).
+[(1)] (2) “Clerk” means the county clerk.
+[(2)] (3) “County clerk” means the county clerk or the county official in charge of elections.
+[(3)] (4) “Elector” means an individual  qualified to vote under [ section 2, ] Article II,  section 2,
+Oregon  Constitution.
+[(4) “Absent elector” means a person to whom the county clerk has issued a ballot  prior to the date
+that ballots are mailed to electors as provided in ORS 254.470 (2)(a) or (b). ]
+NOTE: Alphabetizes definitions; updates citation format in (4).
+SECTION 13.
+ ORS 327.829 is amended to read:
+327.829. (1) As  part of the Early Literacy Success Initiative, the Department of Education shall
+establish and administer the Early Literacy Success School Grant program.
+(2) Under the program, the department shall award annual grants to school districts  and to
+public charter schools that are elementary schools. The grants  must be used to implement the pur-
+poses of the Early Literacy Success Initiative, as  identified in ORS 327.827, by funding the following:
+(a) The provision of professional development  and coaching in research-aligned literacy strate-
+gies to teachers and administrators in early elementary grades to  improve early literacy instruction.
+(b) The provision of extended learning programs that use research-aligned literacy strategies and
+that are  made available to students in early elementary grades by licensed teachers or by qualified
+tutors. The extended learning programs may include:
+(A) Home-based summer reading activities for students who need additional  support and
+[10]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+enrichment; and
+(B) An intensive summer school  program for students who need the most additional support and
+who receive at least 60 hours of direct  literacy instruction by an instructional assistant or a li-
+censed teacher trained in research-aligned literacy strategies.
+(c) The provision of high-dosage tutoring to students in early elementary grades that  integrates
+reading and writing and that  is delivered by a qualified tutor using developmentally appropriate
+practices.
+(d) The adoption  of curricula that uses research-aligned literacy strategies and the implementa-
+tion of that curricula. Funding under this paragraph may be used to:
+(A) Purchase curricula and materials that are culturally relevant; or
+(B) Provide  professional development and time for teachers and administrators to attend training
+related to the curricula.
+(e) The employment of literacy specialists, coaches or interventionists.
+(3) A grant received under  ORS 327.833 may be used only for purposes identified in subsection
+(2) of this section for the benefit of children and students in prekindergarten through grade three.
+(4) The State Board of Education may  adopt any rules necessary for the administration of grants
+under ORS 327.829 to 327.837. Rules  shall, to the greatest extent practicable, prioritize schools with
+the lowest rates of proficiency in  literacy and assist in the operational alignment of grant programs
+and improvement strategies administered by the Department of Education, including:
+(a) Grants distributed from the Student Investment Account,  as provided by ORS 327.175 to
+327.235;
+(b) Apportionments made under the High  School Graduation and College and Career Readiness
+Act, as provided by ORS 327.853 to 327.895;  and
+(c) District continuous improvement plans, as described in ORS 329.095.
+NOTE: Supplies missing conjunction in (4)(b).
+SECTION 14.
+ ORS 366.744 is amended to read:
+366.744. (1) The following moneys shall be allocated as provided in subsection (2) of this  section:
+(a) The amount attributable to the increase in title fees by the amendments  to ORS 803.090 by
+section 1, chapter 618, Oregon Laws 2003[ .];
+(b) The amount attributable to the  increase in registration fees by the amendments to ORS
+803.420 by section 2, chapter 618, Oregon Laws 2003, except  for the amount paid to the State Parks
+and Recreation Department Fund under ORS 366.512; and
+(c) The amount attributable to the increase in fees  and tax rates by the amendments to ORS
+818.225, 825.476 and 825.480 by sections 3, 4 and 5, chapter 618, Oregon Laws 2003.
+(2) The moneys described in subsection (1) of this section shall be allocated as follows:
+(a) 57.53 percent to the Department of Transportation.
+(b) 25.48 percent to  the department to pay the principal and interest due on bonds authorized
+under ORS 367.620 (3) that are issued for  replacement and repair of bridges on county highways.
+However, any portion of the 25.48  percent that is not needed for payment of principal and interest
+on the bonds described in this paragraph shall be allocated to counties. Moneys  allocated to coun-
+ties under this paragraph shall be distributed in the same manner as moneys allocated to counties
+under ORS 366.739 are distributed.
+(c) 16.99 percent to the department to pay the principal and interest due on  bonds authorized
+under ORS 367.620 (3) that are issued for replacement and repair  of bridges on city highways.
+However, any portion of the 16.99 percent that is not needed for  payment of principal and interest
+[11]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+on the bonds described in this paragraph  shall be allocated to cities. Moneys allocated to cities
+under this paragraph shall be distributed in the same manner as moneys allocated  to cities under
+ORS 366.739 are distributed.
+(3)(a) Multnomah County shall spend a majority of moneys distributed to  it under subsection
+(2)(b) of this section on bridges in the county.
+(b) Moneys distributed to  Multnomah County under subsection (2)(b) of this section that are not
+spent on bridges shall be distributed equitably within the  county, based on the agreement described
+in paragraph (c) of this subsection.
+(c) Multnomah County and the  cities within the county shall agree upon the distribution of
+moneys described in paragraph (b) of this subsection. When the county and the  cities have reached
+an agreement, they shall notify the Oregon Transportation  Commission of the agreement. If the
+commission does not receive notice of an agreement by June 30, 2004, the Department  of Transpor-
+tation may not distribute moneys that would otherwise  go to the county under paragraph (b) of this
+subsection. Such moneys shall revert to the State Highway Fund for use by  the Department of
+Transportation.
+NOTE: Corrects punctuation in (1)(a).
+SECTION 15.
+ ORS 366.924 is amended to read:
+366.924. (1) The portion of U.S. Highway 395 that crosses the State of Oregon, beginning at the
+California state line and ending at the Washington state line, shall also be known as the  World War
+I Veterans Memorial Highway.
+(2) The portion of Interstate  5 that crosses the State of Oregon, beginning at the California state
+line and ending at the Washington state line, shall also be known as  the Korean War Veterans
+Memorial Highway and as the Purple Heart Trail.
+(3) The portion of Interstate 5 beginning in Albany and ending in Salem shall also  be known as
+the Atomic Veterans and Atomic Cleanup Veterans Memorial Highway.
+(4) The portion of U.S. Highway 101 that crosses the State  of Oregon, beginning at the
+California state line  and ending at the Washington state line, shall also be known as the Persian
+Gulf, Afghanistan and Iraq Veterans Memorial Highway.
+(5) The portion of U.S. Highway 26 beginning  where the highway intersects with U.S. Highway
+101 and ending at the Idaho state line shall also be known as the POW/MIA Memorial Highway.
+(6) The portion of  Oregon Route 35 beginning where the highway intersects with U.S. Highway
+26 and ending where the highway intersects with U.S. Highway 30 shall also be known as the
+Oregon Nisei Veterans World War II Memorial Highway.
+(7) The portion of U.S. Highway 30[ ,] beginning  where the highway intersects with U.S. Highway
+101 and ending at the Idaho state line[ ,] shall also be known as the Oregon  Gold Star Families
+Memorial Highway.
+(8) The Department of Transportation shall  place and maintain suitable markers along each
+highway described in this section to indicate the designation of each highway.
+(9)(a) The department may accept moneys from and may enter into  agreements with veterans
+groups to create, install and maintain the markers.
+(b) The department may not use public funds  for the installation and maintenance of the mark-
+ers.
+NOTE: Standardizes punctuation in (7).
+SECTION 16.
+ ORS 413.213 is amended to read:
+413.213. (1) The Community Acute Psychiatric Facility Capacity Program Fund  is established in
+[12]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the State Treasury, separate and  distinct from the General Fund. Interest earned by the Community
+Acute Psychiatric Facility Capacity Program Fund must be credited to the fund. The Community
+Acute Psychiatric Facility Capacity Program Fund consists of  moneys deposited in the fund under
+section 13, chapter 599, Oregon Laws 2023, moneys  appropriated, allocated, deposited[ ,] or trans-
+ferred to the fund by the Legislative Assembly or otherwise and interest earned  on moneys in the
+fund.
+(2) Moneys in the fund are continuously appropriated to the Oregon Health Authority for the
+purpose of providing grants to increase community acute psychiatric facility capacity.
+NOTE: Improves punctuation in (1).
+SECTION 17.
+ ORS 414.245 is amended to read:
+414.245. The Bridge [ Plan] Program  Fund is established in the State Treasury, separate and
+distinct from the General Fund, consisting of federal funds received by the  Oregon Health Authority
+to administer the bridge program  described in ORS 414.241. Moneys in the Bridge [ Plan] Program
+Fund are continuously appropriated to the Oregon Health Authority to carry out ORS 414.241.
+NOTE: Updates title of fund to reflect program name.
+SECTION 18.  ORS 415.501 is amended to read:
+415.501. (1) The  purpose of this section is to promote the public interest and to advance the
+goals set forth in ORS 414.018  and the goals of the Oregon Integrated and Coordinated Health Care
+Delivery System described in ORS 414.570.
+(2) In accordance with subsection (1)  of this section, the Oregon Health Authority shall adopt
+by rule criteria approved by the Oregon Health Policy Board for the  consideration of requests by
+health care entities to engage in a material  change transaction and procedures for the review of
+material change transactions under this section.
+(3)(a) A notice of a material change transaction involving the sale, merger  or acquisition of a
+domestic health insurer shall be submitted to the Department of  Consumer and Business Services
+as an addendum to filings required by ORS 732.517  to 732.546 or 732.576. The department shall
+provide to the authority the notice  submitted under this subsection to enable the authority to con-
+duct a review in accordance with subsections (5) and (7) of this section. The authority  shall notify
+the department of the outcome of the authority’s review.
+(b) The department shall make the final determination in material change  transactions involving
+the sale, merger or acquisition of a domestic health insurer and shall  coordinate with the authority
+to incorporate the authority’s review into the department’s final determination.
+(4) An entity  shall submit to the authority a notice of a material change transaction, other than
+a transaction described  in subsection (3) of this section, in the form and manner prescribed by the
+authority, no less than 180 days before the date  of the transaction and shall pay a fee prescribed in
+ORS 415.512.
+(5) No later than 30 days after receiving a notice described in  subsections (3) and (4) of this
+section, the authority shall conduct a preliminary review to determine if the transaction has the
+potential to have a negative impact on  access to affordable health care in this state and meets the
+criteria in subsection (9) of this section.
+(6) Following a preliminary review, the authority or  the department shall approve a transaction
+or approve  a transaction with conditions designed to further the goals described in subsection (1)
+of this section based on criteria prescribed by the authority by rule, including but not limited to:
+(a) If the transaction is in the interest of consumers and is  urgently necessary to maintain the
+solvency of an entity involved in the transaction; or
+[13]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) If the authority determines that the transaction does not have the potential to have a nega-
+tive impact on access to affordable health care in this state or the  transaction is likely to meet the
+criteria in subsection (9) of this section.
+(7)(a) Except as provided in paragraph (b) of this subsection, if a transaction does not meet  the
+criteria in subsection (6) of this section, the authority shall  conduct a comprehensive review and
+may appoint a review board of stakeholders to conduct a comprehensive review and  make recom-
+mendations as provided in subsections (11) to (18) of this section. The authority  shall complete the
+comprehensive review no later than 180 days after receipt of the notice unless  the parties to the
+transaction agree to an extension of time.
+(b) The authority or  the department may intervene in a transaction described in ORS 415.500
+[(6)(a)(C)] (6)(a)(B)  in  which the final authority rests with another state and, if the transaction is
+approved by the other state, may place conditions on health care entities operating in this state with
+respect to the insurance or  health care industry market in this state, prices charged to patients
+residing in this state and the services available in health care  facilities in this state, to serve the
+public good.
+(8) The authority shall prescribe by rule:
+(a) Criteria to exempt an entity from the requirements of subsection (4)  of this section if there
+is an emergency situation  that threatens immediate care services and the transaction is urgently
+needed to protect the interest of consumers;
+(b) Provision for the authority’s failure to complete a review under subsection (5) of this section
+within 30 days; and
+(c) Criteria for when to  conduct a comprehensive review and appoint a review board under
+subsection (7) of this section that must include, but is not limited to:
+(A) The potential loss or change in access to essential services;
+(B) The potential to impact a large number of residents in this state; or
+(C) A significant change in the market share of an entity involved in the transaction.
+(9) A health care  entity may engage in a material change transaction if, following a compre-
+hensive review conducted by the authority and recommendations by a review board  appointed under
+subsection (7) of this section, the authority  determines that the transaction meets the criteria
+adopted by the department by rule under subsection (2) of this section and:
+(a)(A) The parties to the transaction demonstrate that the transaction will benefit the  public
+good and communities by:
+(i) Reducing the growth in patient costs  in accordance with the health care cost growth targets
+established under ORS 442.386 or maintain a rate of cost growth that exceeds  the target that the
+entity demonstrates is the best interest of the public;
+(ii) Increasing access to services in medically underserved areas; or
+(iii) Rectifying historical and contemporary factors contributing to a lack of health  equities or
+access to services; or
+(B) The transaction will improve health outcomes for residents of this state; and
+(b) There is no substantial likelihood  of anticompetitive effects from the transaction that out-
+weigh the benefits of the  transaction in increasing or maintaining services to underserved popu-
+lations.
+(10) The authority may suspend a proposed material change transaction if  necessary to conduct
+an examination and complete an analysis of whether the transaction is  consistent with subsection
+(9) of this section and the criteria adopted by rule under subsection (2) of this section.
+[14]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(11)(a) A review board convened by the authority under subsection (7) of this section must con-
+sist of members  of the affected community, consumer advocates and health care experts. No more
+than one-third of the members of the review board may be representatives of  institutional health
+care providers. The authority may not appoint to a review board an  individual who is employed by
+an entity that is a party to the transaction that is under review or is employed  by a competitor that
+is of a similar size to an entity that is a party to the transaction.
+(b) A  member of a review board shall file a notice of conflict of interest and the notice shall
+be made public.
+(12) The authority may request additional information from an entity that is a party  to the ma-
+terial change transaction,  and the entity shall promptly reply using the form of communication re-
+quested by the authority and verified by an officer of the entity if required by the authority.
+(13)(a) An entity may not refuse to provide documents or other information requested under
+subsection (4) or (12) of this section on the grounds that the information is confidential.
+(b) Material that is privileged or confidential may not be publicly disclosed if:
+(A) The authority determines that disclosure of the material would cause harm to the public;
+(B) The material may not be disclosed under ORS 192.311 to 192.478; or
+(C) The material is not subject to disclosure under ORS 705.137.
+(c) The authority  shall maintain the confidentiality of all confidential information and documents
+that are not publicly available that are obtained in relation to a material change  transaction and
+may not disclose the information or documents to any person, including a member  of the review
+board, without the consent of the person who provided the information  or document. Information
+and documents described in this paragraph are exempt from disclosure under ORS 192.311 to 192.478.
+(14) The authority or the Department  of Justice may retain actuaries, accountants or other
+professionals independent of the  authority who are qualified and have expertise in the type of ma-
+terial change transaction under review as necessary to assist the  authority in conducting the anal-
+ysis of a proposed material change transaction. The authority or  the Department of Justice shall
+designate the party or parties to the material change transaction that shall bear the reasonable and
+actual cost of retaining the professionals.
+(15) A review board may hold up to two public hearings to seek public input  and otherwise en-
+gage the public before making a determination on the proposed  transaction. A public hearing must
+be held in the service area or areas  of the health care entities that are parties to the material
+change transaction. At least 10 days prior to the public  hearing, the authority shall post to the
+authority’s website information about the  public hearing and materials related to the material
+change transaction, including:
+(a) A summary of the proposed transaction;
+(b) An explanation of the groups or individuals likely to be impacted by the transaction;
+(c) Information about services  currently provided by the health care entity, commitments by the
+health care entity to continue such services and any services that will be reduced or eliminated;
+(d) Details about the  hearings and how to submit comments, in a format that is easy to find and
+easy to read; and
+(e) Information about potential  or perceived conflicts of interest among executives and members
+of the board of directors of health care entities that are parties to the transaction.
+(16) The authority shall post the information described in subsection (15)(a) to (d) of this  section
+to the authority’s website in the languages spoken in the area affected  by the material change
+transaction and in a culturally sensitive manner.
+[15]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(17) The authority shall provide  the information described in subsection (15)(a) to (d) of this
+section to:
+(a) At  least one newspaper of general circulation in the area affected by the material change
+transaction;
+(b) Health facilities in the area affected by the material change transaction  for posting by the
+health facilities; and
+(c) Local officials in the area affected by the material change transaction.
+(18) A review board shall make recommendations to the authority to approve the material
+change transaction, disapprove the material change transaction or approve the  material change
+transaction subject to conditions, based on subsection (9) of  this section and the criteria adopted
+by rule under subsection (2) of this section. The authority shall issue a proposed order and allow
+the parties and the public  a reasonable opportunity to make written exceptions to the proposed or-
+der. The authority shall consider the parties’ and the  public’s written exceptions and issue a final
+order setting forth the authority’s findings and rationale for adopting or modifying  the recommen-
+dations of the review board. If the authority modifies the  recommendations of the review board, the
+authority shall explain the modifications in the final order and the reasons for the modifications. A
+party to the material change transaction may contest the final order as  provided in ORS chapter
+183.
+(19) A health care entity that is a party to an approved material change transaction shall  notify
+the authority upon the completion of  the transaction in the form and manner prescribed by the au-
+thority. One year, two years and five years after the  material change transaction is completed, the
+authority shall analyze:
+(a) The health care entities’ compliance with conditions placed on the transaction, if any;
+(b) The cost trends and cost growth trends of the parties to the transaction; and
+(c) The impact of the transaction on the  health care cost growth target established under ORS
+442.386.
+(20) The authority shall publish the authority’s analyses and  conclusions under subsection (19)
+of this section and shall incorporate  the authority’s analyses and conclusions under subsection (19)
+of this section in the report described in ORS 442.386 (6).
+(21) This section does not impair, modify, limit or supersede the applicability of ORS  65.800 to
+65.815, 646.605 to 646.652 or 646.705 to 646.805.
+(22) Whenever it appears to the Director  of the Oregon Health Authority that any person has
+committed or is about to commit a violation of this section or any rule or order issued  by the au-
+thority under this section, the director may  apply to the Circuit Court for Marion County for an
+order enjoining the person, and  any director, officer, employee or agent of the person, from the vi-
+olation, and for such other equitable relief as the nature of the case and  the interest of the public
+may require.
+(23) The remedies provided under this section are in  addition to any other remedy, civil or
+criminal, that may be available under any other provision of law.
+(24) The authority may adopt rules necessary to carry out the provisions of this section.
+NOTE: Corrects citation in (7)(b).
+SECTION 19.
+ ORS 421.173 is amended to read:
+421.173. (1) The Department of Corrections  shall establish a doula program for pregnant and
+postpartum adults in custody at the Coffee Creek Correctional Facility.
+(2) The doula program must provide doula  services to adults in custody who are pregnant or
+[16]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+who have given birth in the last year. Persons providing doula services must be  granted appropriate
+facility access, must be allowed to attend and provide assistance during labor and childbirth when
+feasible and must  have access to the [ adult in custody’s ] relevant health information  of the adult
+in custody if the adult in custody authorizes disclosure.
+(3) The department shall have one employee serve  as the contact and coordinator for all persons
+providing doula services at the Coffee Creek Correctional Facility.
+(4) Doula services are services provided by  a trained doula that are designed to provide phys-
+ical, emotional or informational support to a  pregnant adult before, during and after delivery of a
+child. Doula services provided to adults  in custody at the Coffee Creek Correctional Facility must
+include, but are not limited to:
+(a) Prenatal, postpartum and parent education;
+(b) Development of a trauma-informed and culturally specific birth plan for  each pregnant adult
+in custody;
+(c) In-person attendance by a doula at routine prenatal visits,  ultrasound imaging appointments
+and lab testing appointments;
+(d) Consultation and participation  in the determination of the stages and progression of labor
+when determining the transport to a hospital or other delivery facility;
+(e) Culturally specific and trauma-informed support and assistance during labor and childbirth
+and the postpartum period;
+(f) Assistance with breastfeeding or milk expression after childbirth if  requested by the adult in
+custody;
+(g) Enrollment of the  adult in custody in the breastfeeding program and in a breastmilk trans-
+portation program for delivery  of the mother’s milk to the infant, including facilitating access to a
+breast pump and pumping supplies; and
+(h) Support in the event an adult in custody has been or will become separated from her child.
+(5) Services provided  under this section may not supplant health care services routinely pro-
+vided to adults in custody.
+(6) For each adult in custody who is being provided transport to a hospital  for labor and deliv-
+ery, the department transport officer shall have a checklist of the policies to  be adhered to during
+the transport and a copy of the birth plan.
+(7) If it is not feasible for a doula to attend and  provide assistance during the labor and delivery
+of an adult in custody, the reason for the lack of feasibility  for a doula’s attendance must be docu-
+mented in the [ adult in custody’s ] medical file  of the adult in custody  and an alternative birth plan
+must be developed, implemented and documented in the medical file.
+(8) The department may partner with community professionals  who have been credentialed in
+their line of service, trained or otherwise have specific expertise to provide the  doula services de-
+scribed in this section.
+(9) As used in this section, “postpartum period” means a period of one year following  childbirth.
+NOTE: Improves syntax in (2) and (7).
+SECTION 20.
+ ORS 421.175 is amended to read:
+421.175. (1) An adult in custody may not be  restrained mechanically during labor, childbirth or
+postpartum recovery in a hospital unless:
+(a) The mechanical restraints are reasonably necessary, as  determined by a supervising officer,
+for the safety and security of the adult in custody, correctional staff, other  persons or the public;
+and
+[17]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) The  attending physician determines that use of the mechanical restraints does not present
+a medical risk to the adult in custody.
+(2) Notwithstanding subsection (1) of this section, the use of a mechanical restraint:
+(a) May not interfere with the [ adult in custody’s ] ability  of the adult in custody  to hold the
+infant, nurse the infant, establish a milk supply, obtain lactation support or receive other postpartum
+recovery care from hospital staff.
+(b) Must be in the least restrictive manner possible.
+NOTE: Improves syntax in (2)(a).
+SECTION 21.
+ ORS 427.265 is amended to read:
+427.265. (1) At  the time that a person who is alleged to have an intellectual disability and to
+be in need of commitment for residential care, treatment and training  is brought before the court,
+the court shall advise  the person of the reason for being brought before the court, the nature of the
+proceedings and the possible results of the proceedings. The court shall also advise the person of
+the right to subpoena witnesses and to suitable  legal counsel possessing skills and experience
+commensurate with the nature  of the allegations and complexity of the case during the proceedings,
+and that if the person does not  have funds with which to retain suitable legal counsel, the court
+shall appoint such legal counsel to represent the person. If the person  does not request legal coun-
+sel, the legal guardian, relative or friend may request the assistance of legal  counsel on behalf of
+the person.
+(2) If no request for legal counsel is made, the court shall appoint suitable legal counsel.
+(3) If the person is unable to afford legal counsel, the court, if the matter is before a county  or
+justice court, or the executive director of the  Oregon Public Defense Commission, if the matter is
+before the circuit court, shall determine and allow, as provided in ORS 135.055, the reasonable  ex-
+penses of the person and compensation for legal counsel. The expenses and  compensation so allowed
+by a county court shall be paid by the county of residence of the person. The expenses and  com-
+pensation determined by the executive director shall be paid by the  executive director from funds
+available for the purpose. In all cases legal  counsel shall be present at the hearing and may examine
+all witnesses offering testimony, and otherwise represent the person.
+(4) The court may, for good cause, postpone the hearing for not more than 72  hours to allow
+preparation for the hearing and order the  continuation of detention authorized under ORS 427.255
+during a  postponement, if requested by the person, the legal counsel,  the  guardian of the person[ ,]
+or an examiner or on the court’s own motion.
+NOTE: Improves syntax in (4).
+SECTION 22.
+ ORS 430.717 is amended to read:
+430.717. (1) As used in this section:
+(a) “Children and adolescents” means individuals 20 years old and younger.
+(b) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(c) “Insurer” means an insurer, as defined in  ORS 731.106, that has a certificate of insurance to
+transact health insurance in this state, other than disability insurance.
+(d) “Intensive behavioral health treatment provider” means any provider  licensed in this state
+to provide  intensive psychiatric treatment, acute inpatient treatment or residential substance use
+disorder treatment of children and adolescents.
+(2) Intensive behavioral  health treatment providers, coordinated care organizations and insurers
+shall collect and provide data to the Oregon  Health Authority, or to a third party vendor that
+contracts with the authority, in the manner  prescribed by the authority on the demand for and ca-
+[18]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+pacity to provide treatment of children and adolescents presenting with  high acuity behavioral
+health needs. Intensive behavioral health treatment providers shall submit:
+(a) Data on bed capacity;
+(b) Referrals received, by provider; and
+(c) Other information prescribed by the authority.
+(3) The authority may provide  funding to intensive behavioral health treatment providers to
+collect and provide the data described in subsection (2) of this section.
+(4) The authority shall use the data described in subsection (2) of this section to:
+(a) Monitor and track the capacity of intensive behavioral  health treatment providers to provide
+treatment of children and adolescents presenting with high acuity behavioral health needs;
+(b) Identify gaps in data that prevent the tracking of intensive behavioral health service capac-
+ity and develop a plan for addressing the gaps that includes providing  assistance to providers and
+modifying required data elements that must be reported;
+(c) Develop benchmarks and performance measures for intensive behavioral health treatment
+capacity; and
+(d) Conduct research and evaluation of the children’s and adolescents’ continuum of care.
+(5) The authority shall share data and  coordinate processes with the Department of Human
+Services to populate the Children’s System Data Dashboard described in ORS 418.981.
+(6) The authority  shall adopt rules to carry out the provisions of this section, including rules
+establishing:
+(a) Parameters and specifications for data collection;
+(b) Processes for intensive behavioral health treatment  providers to submit data for the estab-
+lishment of a centralized, real-time provider directory, bed registry and access portal;
+(c) Requirements for the frequency of data submissions;
+(d) Requirements for coordinated care organizations and insurers to collect and report, for
+members and  insureds treated by intensive behavioral health treatment providers, data not submit-
+ted by providers under this section;
+(e) A process for monitoring  and documenting the need for high acuity behavioral health ser-
+vices for children and adolescents;  and
+(f) The authority’s responsibilities for reporting data back to providers[ ; and ].
+[(g) Measures to ensure compliance with data collection standards established  under section 40,
+chapter 12, Oregon Laws 2020 (first special session). ]
+(7) The authority shall contract with an Oregon-based nonprofit organization  with the expertise
+to operate a call center dedicated to  tracking and providing information about available placement
+settings for children and adolescents needing high acuity behavioral health services.
+(8) The call center shall also be responsible for:
+(a) Implementing processes for service providers to submit  data that can be used to assess and
+monitor, on a daily basis, statewide capacity  to provide high acuity behavioral health services to
+children and adolescents;
+(b) Recording the time from the first contact  with the call center to the location of an appro-
+priate placement; and
+(c) Documenting the need for high acuity  behavioral health services for children and adoles-
+cents.
+NOTE: Deletes reference to repealed law in (6)(g).
+SECTION 23.
+Notwithstanding any other provision of law, ORS 441.416, 441.417 and 441.418
+[19]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+shall not be considered to have been added to or made a part of ORS chapter 441 for  the
+purpose of  statutory compilation or for the application of definitions, penalties or adminis-
+trative provisions applicable to statute sections in that chapter.
+NOTE: Removes statutes from inappropriate chapter.
+SECTION 24.
+ ORS 443.485 is amended to read:
+443.485. (1) Subject to ORS 443.490,  a person that owns or operates a community-based struc-
+tured housing facility offered to the general  public that is not licensed or registered under any other
+law of this state or under a city or county ordinance or  regulation shall register the name and ad-
+dress of the owner or operator [ if] of  the facility with:
+(a) The Oregon Health Authority  if the facility provides services and support to two or more
+adult residents, not related to the person by blood or marriage, who have mental,  emotional, be-
+havioral or substance use disorders; or
+(b) The Department of Human Services if the facility provides services and support to two or
+more adult residents, not related to  the resident by blood or marriage, who are elderly or who have
+disabilities.
+(2) The registration fee is $20 annually.
+(3) The authority or the department  shall establish by rule reasonable and appropriate standards
+for the operation of facilities subject to  ORS 443.480 to 443.500 that fall within their respective ju-
+risdictions. The standards  must be consistent with the residential nature of the facilities and must
+address, at a minimum, the:
+(a) Physical properties of a facility;
+(b) Storage, preparation and serving of food at a facility that provides prepared meals;
+(c) Storage, preparation and dispensing of medications and the assistance provided by  staff to
+adult residents in taking medications; and
+(d) Number, experience and training of the staff of a facility.
+(4) The authority or the department shall provide  evidence of the registration to the person. The
+evidence shall be posted in a facility.
+(5) The authority or the department may impose a civil penalty not to exceed $5,000 for:
+(a) Operating without registration as required under this section; or
+(b) A violation of ORS 443.880 or 443.881.
+(6) The authority  or the department may suspend or revoke registration or deny the issuance
+of registration for violation of any statute, rule, ordinance or regulation relating to the facility.
+(7) Rules adopted under subsection (3) of this section must avoid  imposing on facilities regulated
+by federal agencies any reporting requirements or review processes that duplicate  the reporting
+requirements or review processes imposed by the federal agency.
+(8) A facility is not required to register  with both the authority and the department under this
+section. If a facility is subject to registration  by both the authority and the department, the Director
+of the Oregon Health Authority and the  Director of Human Services shall jointly determine with
+which agency the facility must register.
+NOTE: Corrects word choice in (1).
+SECTION 25.
+ ORS 456.603 is amended to read:
+456.603. In any year in which a housing indicator demonstrates that at least 25 percent  of the
+renter households  in a city are severely rent burdened under ORS 456.602 (2)(g), the governing body
+of the city shall hold at least one public meeting  to discuss the causes and consequences of severe
+rent burdens within  the city, the barriers to reducing rent burdens and possible solutions. The
+[20]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Housing and Community Services Department may  adopt rules governing the conduct of the public
+meeting.
+NOTE: Supplies missing word.
+SECTION 26.
+ ORS 468.463 is amended to read:
+468.463. (1) As used in this section,  “qualifying vehicle” means a motor vehicle, as defined in
+ORS 801.360, or a combination of vehicles operated as a unit, that:
+(a) Has a gross vehicle weight rating of 8,501 pounds or greater;
+(b) Has a drivetrain that produces zero exhaust emissions of  any criteria pollutant or
+greenhouse gas; and
+(c) Meets other criteria established by the Environmental Quality Commission by rule.
+(2) The Department of Environmental Quality  shall establish a program for providing rebates to
+persons that purchase or lease qualifying vehicles for use in this state.  The Director of the De-
+partment of  Environmental Quality may hire or contract with a third-party nonprofit organization
+to implement and serve as the administrator of the program required by this section.
+(3) The department may:
+(a) Specify design features for the program; and
+(b) Establish procedures to:
+(A) Prioritize available moneys for specific qualifying vehicles;
+(B) Limit the number of rebates available for each type of qualifying vehicle; and
+(C) Limit the number of rebates available per applicant.
+(4) The purchaser or lessee of a qualifying vehicle may apply for a rebate or may choose to as-
+sign the rebate to a vehicle dealer.
+(5) Rebates  under the program shall be made from moneys credited to or deposited in the Zero-
+Emission [ Medium and Heavy Duty ] Medium- and  Heavy-Duty  Vehicle Incentive Fund established
+under ORS 468.469.
+(6)(a) The department shall prescribe the rebate application procedure for purchasers  and
+lessees.
+(b) The department may establish a dealer application or individual application procedure.
+(c) All rebate applications must include a declaration under  penalty of perjury in the form re-
+quired by ORCP 1 E.
+(7)(a) Rebates for qualifying vehicles shall be set annually at amounts determined by the Envi-
+ronmental Quality Commission by rule.
+(b) The commission may establish separate rebate amounts for different classes of vehicles.
+(c) The commission may establish an additional rebate for the purchase or lease  of qualifying
+vehicles  that  will be registered to an address, or frequently operated, in an area of this state that
+is disproportionately burdened by air pollution as determined by the commission.
+(8) To be eligible for a rebate, a person requesting a rebate under the program shall:
+(a) Purchase or lease a qualifying vehicle. A lease must have a minimum term of 36 months.
+(b) Provide proof of  an intent to operate the qualifying vehicle primarily in this state, which
+must be satisfied by providing proof of registration of the qualifying vehicle in  Oregon, which may
+include proof of proportional registration under ORS 826.009 or 826.011 issued by the  Department
+of Transportation.
+(c) Submit an application for a  rebate to the administrator of the program within three months
+after the date of purchase of the  qualifying vehicle or three months after the date the lease of the
+qualifying vehicle begins.
+[21]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) Retain registration of the qualifying vehicle for a minimum of  36 consecutive months after
+the date of purchase or the date the lease begins.
+(9)(a) More than 50 percent of the operation of the qualifying vehicle must occur in Oregon.
+(b) In each of the three years following receipt of a rebate, a rebate recipient shall:
+(A) Maintain records of the miles driven or hours of use for the qualifying  vehicle and whether
+the miles driven or hours used occurred in Oregon; and
+(B) Provide an annual report to the department to demonstrate that more than  50 percent of the
+miles driven or hours of use of the qualifying vehicle occurred in Oregon.
+(10) A rebate recipient may not  make or allow any modifications to the qualifying vehicle’s
+emissions control systems, hardware or software calibrations.
+(11)(a) If a rebate recipient sells the qualifying vehicle or  terminates the qualifying vehicle lease
+before the end of 36 months, the rebate recipient shall:
+(A) Notify the administrator of the program of the sale; and
+(B) Reimburse the administrator for the rebate in a prorated  amount based on the number of
+months that the rebate recipient owned or leased the qualifying vehicle.
+(b) The administrator may waive the reimbursement requirement under paragraph (a)  of this
+subsection if the administrator determines that a waiver is appropriate given  unforeseeable or una-
+voidable circumstances that gave rise  to a need for the rebate recipient to sell the qualifying vehicle
+or terminate the qualifying vehicle lease before the end of 36 months.
+(12) Rebate recipients are required to participate in ongoing research efforts,  if requested to do
+so by the administrator.
+(13) The administrator of the  program shall work to ensure timely payment of rebates with a
+goal of paying rebates within 90 days after receiving an application for a rebate.
+(14) A vehicle dealer may advertise the program on the  premises owned or operated by the ve-
+hicle dealer. If no moneys are available from the  program or the program otherwise changes, a ve-
+hicle dealer who advertises the program may not be held liable for advertising false  or misleading
+information.
+(15) The department  may perform activities necessary to ensure that recipients of rebates under
+this section comply with applicable requirements. If the department determines that a recipient  has
+not complied with applicable requirements, the department may  order the recipient to refund all
+rebate moneys and may impose penalties pursuant to ORS 468.140.
+(16) The commission may adopt any rules necessary to carry out the provisions of this section.
+NOTE: Improves punctuation in (5).
+SECTION 27.
+ ORS 468.469 is amended to read:
+468.469. (1) The Zero-Emission [ Medium and Heavy  Duty ] Medium- and Heavy-Duty  Vehicle
+Incentive Fund is established in the State Treasury, separate and distinct from  the General Fund.
+Interest earned by the Zero-Emission [ Medium and Heavy Duty ] Medium- and Heavy-Duty  Vehicle
+Incentive Fund shall be credited to the fund.
+(2) Moneys in the Zero-Emission [ Medium and Heavy Duty ] Medium- and Heavy-Duty  Vehicle
+Incentive Fund shall consist of:
+(a) Amounts donated to the fund;
+(b) Amounts appropriated or otherwise transferred to the fund by the Legislative Assembly;
+(c) Other amounts deposited in the fund from any public or private source; and
+(d) Interest earned by the fund.
+(3) Moneys in the Zero-Emission [ Medium and  Heavy Duty ] Medium- and Heavy-Duty  Vehicle
+[22]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Incentive Fund are continuously appropriated to the  Department of Environmental Quality to be
+used to carry out the provisions of ORS 468.463.
+(4) No more than 15 percent of the moneys deposited in  the Zero-Emission [ Medium and Heavy
+Duty] Medium-  and Heavy-Duty  Vehicle Incentive Fund per biennium may be expended to pay
+administrative expenses incurred in the administration of ORS 468.463 by:
+(a) The department; or
+(b) Any third-party organization that the department hires or contracts with under ORS 468.463.
+(5)(a) The Environmental Quality Commission shall require by rule that at least  40 percent of
+the moneys deposited in the fund per  biennium are allocated to fund the provision of rebates for
+vehicles located in communities disproportionately  burdened by diesel pollution, as described in ORS
+468.463 (7)(c).
+(b) Notwithstanding paragraph (a) of this subsection, if the department determines that the  total
+amount of rebates provided to applicants eligible for the rebate described in ORS 468.463 (7)(c)  is
+unlikely to exceed  40 percent of the total amount of moneys deposited in the fund during a biennium,
+the department may release moneys allocated under paragraph (a) of this  subsection to be used for
+the provision of any rebate under ORS 468.463.
+NOTE: Improves punctuation in (1), (2), (3) and (4).
+SECTION 28.
+ ORS 468.498 is amended to read:
+468.498. (1) The [ Medium] Medium- and Heavy-Duty Electrification Charging Fund is established
+in the State Treasury, separate and distinct from the General Fund. Interest earned by the
+[Medium] Medium-  and Heavy-Duty Electrification Charging Fund must be credited to the
+[Medium] Medium-  and Heavy-Duty Electrification Charging Fund.
+(2) Moneys in the  [ Medium] Medium-  and Heavy-Duty Electrification Charging Fund consist of
+amounts donated to the fund, amounts appropriated or otherwise transferred to the  fund by the
+Legislative Assembly, other amounts deposited to the  fund from any public or private source and
+interest earned by the fund.
+(3) Moneys in the [ Medium] Medium-  and Heavy-Duty Electrification Charging Fund are  con-
+tinuously appropriated to  the Department of Environmental Quality for a grant program to support
+[medium] medium-  and heavy-duty zero emission  vehicle charging and fueling infrastructure
+projects authorized under ORS 468.035.
+(4) Not more than 10 percent of the moneys in  the [ Medium] Medium-  and Heavy-Duty
+Electrification Charging Fund in each biennium may be  expended to pay the department’s expenses,
+or the expenses of any  other person the department hires or with which the department contracts,
+to administer the grant program.
+NOTE: Improves punctuation in (1), (2), (3) and (4).
+SECTION 29.  ORS 468A.193, as amended by section 4, chapter 51, Oregon Laws 2024, is
+amended to read:
+468A.193. (1) The State Department of Energy and the Oregon Climate Action  Commission shall,
+in coordination with the State Forestry Department, the State  Department of Agriculture, the State
+Department of Fish and Wildlife, the Oregon Watershed Enhancement Board , the Department of
+State Lands, the State Parks and Recreation Department and  the Department of Land Conservation
+and Development, and in consultation with relevant federal agencies, establish and maintain:
+(a) A net biological carbon sequestration and storage baseline for natural and working lands;
+(b) Activity-based metrics in accordance with subsection (3) of this section; and
+(c) Community impact metrics in accordance with subsection (4) of this section.
+[23]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) The net biological carbon sequestration  and storage baseline may use 1990 as a baseline year
+if the State Department  of Energy  determines that there is adequate information  to support setting
+the baseline at that year.
+(3) Activity-based metrics shall be used to evaluate progress toward increasing  net biological
+carbon sequestration and storage in natural and working  lands, as measured against the net carbon
+sequestration and storage baseline. Activity-based metrics may include, but need not be limited  to,
+acres of lands for which certain management practices have been adopted.
+(4) Community  impact metrics shall be used to evaluate the positive and negative effects, over
+time, of strategies for net biological carbon sequestration and storage in natural  and working lands
+on landowners, land managers  and communities. Community impact metrics may include, but need
+not be limited to:
+(a) Metrics to measure the  effects of net biological carbon sequestration and storage strategies
+on jobs, local economies, environmental integrity and public health; and
+(b) Metrics to evaluate the accessibility of a diverse range  of landowners to net biological car-
+bon sequestration and storage programs.
+(5) Before finalizing the net biological carbon sequestration and storage baseline, activity-based
+metrics and community impact metrics, the State Department of Energy and the commission shall
+make draft versions publicly available and receive comments from the public, state agencies and  the
+advisory committee established under ORS 468A.197.
+(6) The State Department of Energy and the Oregon Climate  Action Commission, in consultation
+with the State  Forestry Department, the State Department of Agriculture, the Oregon Watershed
+Enhancement Board[ ,] and  the State Department of Fish and Wildlife, shall  establish nonbinding
+biological carbon sequestration and storage goals for Oregon’s natural and working lands and up-
+date those goals as new information becomes available.
+(7) The State Department of Energy may contract with a third party to  assist the department
+in performing its duties under this section.
+NOTE: Supplies missing comma in (1); clarifies entity in (2); inserts  missing conjunction in (6)
+and deletes comma in conformance with legislative style.
+SECTION 30.
+ ORS 468B.522 is amended to read:
+468B.522. The requirements of ORS 468B.510 to 468B.525 do not apply to a bulk  oils or liquid
+fuels terminal to the extent those requirements are preempted by [ the federal Pipeline Safety Im-
+provement Act of 2002, ] 49 U.S.C. 60101 et seq.
+NOTE: Deletes inaccurate short title of federal Act.
+SECTION 31. ORS 475C.379 is added to and made a part of ORS 475C.005 to 475C.525.
+NOTE: Adds statute to appropriate series.
+SECTION 32.  ORS 475C.582 is amended to read:
+475C.582. (1) If a person  violates a provision of ORS 475C.540 to 475C.586 or a rule adopted
+under ORS 475C.540 to 475C.586 with regard to an industrial hemp-derived vapor item:
+(a) The  State Department of Agriculture may impose disciplinary action described in ORS
+571.285 and impose a civil penalty under ORS 571.348 if the person is a grower or handler
+[registered ] licensed under ORS 571.281.
+(b) The Oregon Liquor and Cannabis Commission may impose a civil  penalty under ORS
+475C.644 if the person is not a grower or handler [ registered ] licensed under ORS 571.281.
+(2) The commission and the department may adopt rules to carry out this section.
+NOTE: Updates terminology in (1)(a) and (b).
+[24]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 33.
+ ORS 475C.644 is amended to read:
+475C.644. (1)  In addition to any other liability or penalty provided by law, the Oregon Liquor
+and Cannabis Commission may impose for each  violation of a provision of ORS 475C.600 to 475C.648,
+or a rule adopted  under a provision of ORS 475C.600 to 475C.648, a civil penalty that does not ex-
+ceed $500 for each day that the violation occurs.
+(2) The commission shall impose civil penalties under this section in the  manner provided by
+ORS 183.745.
+(3) Moneys collected under this section shall be deposited in the Marijuana Control and Regu-
+lation Fund established under ORS 475C.297 and are continuously appropriated to the  commission
+for the purpose of carrying out the duties, functions and powers of the [ authority] commission under
+ORS 475C.600 to 475C.648.
+NOTE: Replaces reference in (3) with reference to appropriate entity.
+SECTION 34.  ORS 475C.648 is amended to read:
+475C.648. (1) If a person  violates a provision of ORS 475C.600 to 475C.648 or a rule adopted
+under ORS 475C.600 to 475C.648 with regard to an industrial hemp-derived vapor item:
+(a) The  State Department of Agriculture may impose disciplinary action described in ORS
+571.285 and impose a civil penalty under ORS 571.348 if the person is a grower or handler
+[registered ] licensed under ORS 571.281.
+(b) The Oregon Liquor and Cannabis Commission may impose a civil  penalty under ORS
+475C.644 if the person is not a grower or handler [ registered ] licensed under ORS 571.281.
+(2) The commission and the department may adopt rules to carry out this section.
+NOTE: Updates terminology in (1)(a) and (b).
+SECTION 35.
+ORS 475C.728 is added to and made a part of ORS 475C.670 to 475C.734.
+NOTE: Adds statute to appropriate series.
+SECTION 36.  ORS 656.260, as amended by  section 112, chapter 73, Oregon Laws 2024, is
+amended to read:
+656.260. (1) Any health care provider  or group of medical service providers may make written
+application to the Director of the Department of Consumer and Business Services to become  certi-
+fied to provide managed care to injured workers for injuries and diseases compensable under this
+chapter. However, nothing in this section authorizes an organization that is formed, owned or  op-
+erated by  an insurer or employer other than a health care provider to become certified to provide
+managed care.
+(2) Each application for certification shall be accompanied by a  reasonable fee prescribed by the
+director. A certificate is valid for such period as  the director may prescribe unless sooner revoked
+or suspended.
+(3) Application for certification shall be made in such  form and manner and shall set forth such
+information regarding the proposed plan  for providing services as the director may prescribe. The
+information shall include, but not be limited to:
+(a) A list of the names of all individuals who will provide services under the  managed care plan,
+together with appropriate  evidence of compliance with any licensing or certification requirements
+for that individual to practice in this state.
+(b) A description of the times, places and manner of providing services under the plan.
+(c) A description of the times, places and manner of providing other  related optional services
+the applicants wish to provide.
+(d) Satisfactory  evidence of ability to comply with any financial requirements to [ insure] ensure
+[25]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+delivery of service in accordance with the plan which the director may prescribe.
+(4) The director shall certify a health care provider or group of  medical service providers to
+provide managed care under a plan if the director finds that the plan:
+(a) Proposes to provide medical and health care services required by this chapter in a manner
+that:
+(A) Meets quality, continuity and other treatment standards adopted  by the health care provider
+or group of medical service providers in accordance with processes approved by the director; and
+(B) Is timely, effective and convenient for the worker.
+(b) Subject to any other provision of law,  does not discriminate against or exclude from partic-
+ipation in the plan any category of medical service  providers and includes an adequate number of
+each category of  medical service providers to give workers adequate flexibility to choose medical
+service providers from among those individuals who provide services  under the plan. However,
+nothing in the requirements of this paragraph shall affect the provisions of ORS 441.055 relating to
+the granting of medical staff privileges.
+(c) Provides appropriate financial incentives to reduce service  costs and utilization without
+sacrificing the quality of service.
+(d) Provides adequate methods of  peer review, service utilization review, quality assurance,
+contract review and  dispute resolution to ensure appropriate treatment or to prevent inappropriate
+or excessive treatment, to exclude from participation in the plan those individuals who  violate these
+treatment standards and to provide for the resolution of  such medical disputes as the director con-
+siders appropriate. A majority of the  members of each peer review, quality assurance, service utili-
+zation and contract review committee shall be physicians licensed to practice medicine by the
+Oregon Medical Board. As used in this paragraph:
+[(A) “Peer review” means evaluation or review of the performance of colleagues by a panel  with
+similar types and degrees of  expertise. Peer review requires participation of at least three physicians
+prior to final determination. ]
+[(B) “Service utilization review” means  evaluation and determination of the reasonableness, neces-
+sity and appropriateness of a worker’s  use of medical care resources and the provision of any needed
+assistance to clinician or member, or both, to ensure  appropriate use of resources. “Service utilization
+review” includes prior authorization,  concurrent review, retrospective review, discharge planning and
+case management activities. ]
+[(C) “Quality assurance” means activities to safeguard or improve the quality of  medical care by
+assessing the quality of care or service and taking action to improve it. ]
+[(D) “Dispute resolution” includes the resolution  of disputes arising under peer review, service
+utilization review and quality assurance activities between insurers, self-insured employers,  workers
+and medical and health care service providers, as required under the certified plan. ]
+[(E)] (A)  “Contract review” means the methods and processes whereby the managed  care or-
+ganization monitors and enforces its contracts with participating providers for matters  other than
+matters enumerated in subparagraphs [ (A), (B) and ] (C) , (D) and (E)  of this paragraph.
+(B) “Dispute resolution” includes the resolution  of disputes arising under peer review,
+service utilization review and quality assurance activities between  insurers, self-insured
+employers, workers and medical and health care service providers, as  required under the
+certified plan.
+(C) “Peer review”  means evaluation or review of the performance of colleagues by a panel
+with similar types and degrees of expertise. Peer review requires  participation of at least
+[26]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+three physicians prior to final determination.
+(D) “Quality assurance” means activities  to safeguard or improve the quality of medical
+care by assessing the quality of care or service and taking action to improve it.
+(E) “Service utilization review” means evaluation and determination  of the reasonable-
+ness, necessity  and appropriateness of a worker’s use of medical care resources and the
+provision of any needed assistance  to clinician or member, or both, to ensure appropriate
+use of resources. “Service utilization review” includes  prior authorization, concurrent re-
+view, retrospective review, discharge planning and case management activities.
+(e) Provides a program involving cooperative efforts by the workers, the  employer and the
+managed care organizations to  promote workplace health and safety consultative and other services
+and early return to work for injured workers.
+(f) Provides a timely and accurate method of reporting to  the director necessary information
+regarding medical and health care service cost and  utilization to enable the director to determine
+the effectiveness of the plan.
+(g)(A) Authorizes workers to receive compensable  medical treatment from a primary care phy-
+sician or chiropractic physician who is not a  member of the managed care organization, but who
+maintains the worker’s medical records  and is a physician with whom the worker has a documented
+history of treatment, if:
+(i) The primary care physician or chiropractic physician  agrees to refer the worker to the
+managed care organization for any specialized treatment, including physical  therapy, to be furnished
+by another provider that the worker may require;
+(ii) The primary care physician  or chiropractic physician agrees to comply with all the rules,
+terms and conditions regarding services performed by the managed care organization; and
+(iii) The treatment is determined to be medically appropriate according  to the service utilization
+review process of the managed care organization.
+(B) Nothing in this  paragraph is intended to limit the worker’s right to change primary care
+physicians or chiropractic physicians prior to the filing of a workers’ compensation claim.
+(C) A  chiropractic physician authorized to provide compensable medical treatment under this
+paragraph may provide services and authorize temporary disability compensation as provided in ORS
+656.005 (12)(b)(B) and 656.245 (2)(b). However,  the managed care organization may authorize
+chiropractic physicians to provide medical services and authorize temporary disability payments
+beyond the periods established in ORS 656.005 (12)(b)(B) and 656.245 (2)(b).
+(D) As used  in this paragraph, “primary care physician” means a physician who is qualified to
+be an attending physician referred to in ORS 656.005 (12)(b)(A) and who is a family practitioner, a
+general practitioner or an internal medicine practitioner.
+(h) Provides a written explanation for  denial of participation in the managed care organization
+plan to any licensed health care provider that has been denied participation in the managed  care
+organization  plan.
+(i) Does  not prohibit the injured worker’s attending physician from advocating for medical ser-
+vices and temporary disability  benefits for the injured worker that are supported by the medical
+record.
+(j) Complies with any other requirement the director determines is necessary  to provide quality
+medical services and health care to injured workers.
+(5)(a) Notwithstanding ORS 656.245 (5) and subsection (4)(g) of this  section, a managed care or-
+ganization may deny or terminate the  authorization of a primary care physician or chiropractic
+[27]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+physician to serve as an attending physician  under subsection (4)(g) of this section or of a nurse
+practitioner or physician associate to provide medical services  as provided in ORS 656.245 (5) if the
+physician, nurse practitioner or  physician associate, within two years prior to the worker’s enroll-
+ment in the plan:
+(A) Has been terminated from serving as an attending physician, nurse practitioner or  physician
+associate for a worker enrolled in the plan for failure to meet the requirements of  subsection (4)(g)
+of this section or of ORS 656.245 (5); or
+(B) Has  failed to satisfy the credentialing standards for participating in the managed care or-
+ganization.
+(b) The director shall adopt by rule reporting  standards for managed care organizations to re-
+port denials and terminations of the authorization of primary care physicians, chiropractic physi-
+cians, nurse practitioners and physician associates who are not members  of the managed care
+organization to provide compensable medical treatment under  ORS 656.245 (5) and subsection (4)(g)
+of this section. The director shall annually report to the Workers’ Compensation Management-Labor
+Advisory Committee the information  reported to the director by managed care organizations under
+this paragraph.
+(6) The director shall refuse to certify or may revoke or suspend the certification  of any health
+care  provider  or group of medical service providers to provide managed care if the director finds
+that:
+(a) The plan for providing medical or health  care services fails to meet the requirements of this
+section.
+(b) Service under the plan is not  being provided in accordance with the terms of a certified plan.
+(7) Any issue concerning the provision of  medical services to injured workers subject to a
+managed care contract and service utilization review,  quality assurance, dispute resolution, contract
+review and peer review activities as  well as authorization of medical services to be provided by
+other than an attending physician  pursuant to ORS 656.245 (2)(b) shall be subject to review by the
+director or the director’s designated representatives. The decision of the director is subject  to re-
+view under ORS 656.704. Data generated by or  received in connection with these activities, includ-
+ing written reports, notes or records of  any such activities, or of any review thereof, shall be
+confidential, and shall not be disclosed  except as considered necessary by the director in the ad-
+ministration of this chapter. The director may report professional misconduct to an appropriate li-
+censing board.
+(8) No data generated by service utilization  review, quality assurance, dispute resolution or peer
+review activities and  no physician profiles or data used to create physician profiles pursuant to this
+section or a review thereof shall be used in  any action, suit or proceeding except to the extent
+considered necessary by the director in the administration of this chapter. The confidentiality pro-
+visions of this section shall not apply in any action, suit or  proceeding arising out of or related to
+a contract between a managed care  organization and a health care provider whose confidentiality
+is protected by this section.
+(9) A person participating  in service utilization review, quality assurance, dispute resolution or
+peer review  activities pursuant to this section shall not be examined as to any communication made
+in the course of such activities or the findings thereof, nor  shall any person be subject to an action
+for civil damages for affirmative actions taken or statements made in good faith.
+(10) No person who participates in forming  consortiums, collectively negotiating fees or other-
+wise solicits or enters  into contracts in a good faith effort to provide medical or health care services
+[28]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+according to the  provisions of this section shall be examined or subject to administrative or civil
+liability regarding any such participation except pursuant to the director’s  active supervision of
+such activities and the  managed care organization. Before engaging in such activities, the person
+shall provide notice of intent to the director in a form prescribed by the director.
+(11) The provisions of this section shall not affect the  confidentiality or admission in evidence
+of a claimant’s medical treatment records.
+(12) In consultation with the committees referred to in  ORS 656.790 and 656.794, the director
+shall adopt such rules as may be necessary to carry out the provisions of this section.
+(13) As used in this section[ ,] and ORS 656.245, 656.248 and 656.327, “medical  service provider”
+means a person duly licensed to practice one or more of the  healing arts in any country or in any
+state or territory or possession of the United States.
+(14) Notwithstanding ORS 656.005  (12) or subsection (4)(b) of this section, a managed care or-
+ganization contract may designate any medical service provider or category  of providers as attend-
+ing physicians.
+(15) If a  worker, insurer, self-insured employer, the attending physician or an authorized health
+care provider is dissatisfied  with an action of the managed care organization regarding the provision
+of medical  services pursuant to this chapter, peer review, service utilization review or quality as-
+surance activities, that person or entity must first apply to the director for administrative  review
+of the matter before  requesting a hearing. Such application must be made not later than the 60th
+day after the date the managed care organization has completed and issued its final decision.
+(16) Upon a request for administrative review, the director shall create  a documentary record
+sufficient for judicial review. The director shall complete administrative review and issue a pro-
+posed order within a reasonable time. The proposed order of  the director issued pursuant to this
+section shall become final and not subject  to further review unless a written request for a hearing
+is filed with the director within 30 days of the mailing of the order to all parties.
+(17) At the contested case hearing, the  order may be modified only if it is not supported by
+substantial evidence in  the record or reflects an error of law. No new medical evidence or issues
+shall be admitted. The dispute may also be remanded to the managed  care organization for further
+evidence taking, correction or other necessary action if  the Administrative Law Judge or director
+determines the record has  been improperly, incompletely or otherwise insufficiently developed. De-
+cisions by the director regarding medical disputes are subject to review under ORS 656.704.
+(18) Any person  who is dissatisfied with an action of a managed care organization other than
+regarding  the  provision of medical services pursuant to this chapter, peer review, service utilization
+review or quality assurance activities may request review under ORS 656.704.
+(19) Notwithstanding any other provision of law, original jurisdiction over contract review  dis-
+putes is  with the director. The director may resolve the matter by issuing an order subject to re-
+view under ORS 656.704, or the director may  determine that the matter in dispute would be best
+addressed in another forum and so inform the parties.
+(20) The director shall conduct such  investigations, audits and other administrative oversight in
+regard to managed care as the director deems necessary to carry out the purposes of this chapter.
+(21)(a) Except as otherwise provided in this chapter,  only a managed care organization certified
+by the director may:
+(A) Restrict the choice of a health care provider or medical service provider by a worker;
+(B) Restrict the access of a worker to any category of medical service providers;
+(C) Restrict the ability of a medical service provider to refer a worker to another provider;
+[29]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(D) Require preauthorization or precertification to determine  the necessity of medical services
+or treatment; or
+(E) Restrict treatment provided to a worker by a medical service provider  to specific treatment
+guidelines, protocols or standards.
+(b) The provisions of paragraph (a) of this subsection do not apply to:
+(A) A medical service provider who refers a worker to another medical service provider;
+(B) Use of an on-site medical service facility by the  employer to assess the nature or extent of
+a worker’s injury; or
+(C) Treatment  provided by a medical service provider or transportation of a worker in an
+emergency or trauma situation.
+(c) Except as provided in paragraph (b) of this subsection, if the director finds that a  person has
+violated a provision of paragraph (a) of this  subsection, the director may impose a sanction that may
+include a civil penalty not to exceed $2,000 for each violation.
+(d) If  violation of paragraph (a) of this subsection is repeated or willful, the director may order
+the person committing the violation to cease  and desist from making any future communications
+with injured workers or medical service providers or from taking any other  actions that directly or
+indirectly affect the delivery of medical services provided under this chapter.
+(e)(A) Penalties imposed under this subsection are subject to ORS 656.735  (4) to (6) and 656.740.
+(B) Cease and desist orders issued under this subsection are subject to ORS 656.740.
+NOTE: Improves word choice in  (3)(d); alphabetizes definitions in (4)(d) and adjusts internal
+reference in (4)(d)(A) to reflect relettering  of subparagraphs; conforms punctuation to legislative
+style in (13).
+SECTION 37.
+ Section 7, chapter 89, Oregon Laws 2022, is amended to read:
+Sec. 7.  (1) The board of directors of the Elliott State Research Forest Authority shall:
+(a) Contract with Oregon State University for implementation  of forest management operations
+consistent with the mission and management policies  described in section 2 , chapter 89, Oregon
+Laws 2022, [ of this 2022 Act ] and  a biennial operations plan, unless implementation of forest man-
+agement operations is provided for as otherwise agreed to by the State Land Board, the board  of
+directors and the university.
+(b) Ensure that the mission and management policies  for the Elliott State Research Forest de-
+scribed in section 2 , chapter 89, Oregon Laws 2022,  [ of this  2022 Act ] are effectively implemented.
+(c) Oversee the operational and fiscal integrity of the authority.
+(d) Select an executive director of the authority, for which position the board of directors  and
+the university shall work collaboratively to recruit and nominate candidates in  a selection process
+led by the university.
+(e) Oversee the  activities of, and determine the delegation of responsibilities to, the executive
+director.
+(f) Determine the scope of biennial operations plans.
+(g) Provide  input, guidance and direction to the executive director concerning implementation
+of operations and research programs, consistent with the mission and  management policies for the
+forest described in section 2 , chapter 89, Oregon Laws 2022  [ of this 2022 Act ].
+(h) Promote transparency and public participation in decision-making by:
+(A) Notwithstanding the timeframe for public notice  required by ORS 192.640 (1), and subject to
+the provisions  of ORS 192.660, providing public notice as described in ORS 192.640 (1) of the time,
+location and agendas for a regular meeting of the board of directors at least  seven days before the
+[30]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+meeting.
+(B) Providing at least 24 hours’ notice before a special  meeting as described in ORS 192.640 (3).
+(C) Ensuring that any written materials being considered by the board of  directors at a regular
+meeting are available to the public at least seven days before the meeting.
+(D) Providing opportunities for public  comment on agenda items requiring action by the board
+of directors before the board of directors acts on the agenda items.
+(E) Ensuring that copies of written  public comments are distributed to members of the board
+of directors before the board of directors acts.
+(F) Providing  to the State Land Board and the public, 45 days before the board of directors ap-
+proves or denies a biennial operations plan,  written materials related to the biennial operations plan
+that contain operational details and guidance sufficient  to ensure compliance with relevant man-
+agement direction described  in the applicable forest management plan and habitat conservation plan.
+(i) After considering public comments described in paragraph (h) of  this subsection, approve or
+deny:
+(A) Annual budgets.
+(B) Biennial operations reports.
+(C) Biennial operations plans. A biennial operations plan must be consistent  with an applicable
+forest management plan.
+(D) Recreation plans. A recreation plan must be  consistent with an applicable forest manage-
+ment plan and the mission and management policies described in section  2 , chapter 89, Oregon
+Laws 2022 [ of this 2022 Act ].
+(E) Education plans. An education plan must be consistent with an applicable forest management
+plan and the mission and management policies described in  section 2 , chapter 89, Oregon Laws
+2022 [ of this 2022 Act ].
+(F) A forest management  plan applicable to lands in the forest, and any subsequent amendments
+to the forest management plan, after  receiving input and approval from the State Land Board. The
+forest management  plan or amendments must be consistent with the mission and management poli-
+cies described in section 2 , chapter 89, Oregon Laws 2022,  [ of this 2022 Act ] and the applicable
+version of the university’s Elliott  State Research Forest Proposal described in section 4 , chapter
+89, Oregon Laws 2022  [ of this 2022 Act ].
+(G) Any sale of carbon credits or entry into  easements or other encumbrances of lands in the
+forest.
+(H) Any expansion or exchange of lands  in the forest, after receiving input and approval from
+the State Land Board.
+(I) Any amendments  to a habitat conservation plan related to the forest, after receiving input
+and approval from the State Land Board. The amendments must be consistent with the mission and
+management policies described in section 2 , chapter 89, Oregon Laws 2022  [ of this 2022 Act ].
+(J) Any proposed amendments to the university’s Elliott State Research  Forest Proposal de-
+scribed in section 4 , chapter 89, Oregon Laws 2022  [ of this 2022 Act ]. The amendments must be
+consistent with the mission and management policies described  in section 2 , chapter 89, Oregon
+Laws 2022 [ of this 2022 Act ].
+(K) Any other submission to federal or state agencies that relates to the forest.
+(L) Any funding requests made to federal or state agencies or the Legislative Assembly, includ-
+ing any request for issuance of  revenue bonds described in section 17 , chapter 89, Oregon Laws
+2022, [ of this 2022 Act ] or certificates of participation financing described in [ section 23 of this 2022
+[31]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Act] ORS 283.085, or any request related to state-funded debt service.
+(j) Submit to the State Land Board biennial programmatic reviews of  authority operations that
+address:
+(A) Functions of the  authority relating to the mission and management policies for the forest,
+including the  fiscal integrity of the authority and the status of forest operations, research initiatives,
+tribal partnerships, ties with local and regional  economies and ongoing implementation of conser-
+vation, recreation and education programs.
+(B) Compliance with  federal and state regulatory requirements and any policy directives from
+the executive branch.
+(k) Conduct at least six business meetings  per year for which public participation is facilitated
+consistent with paragraph (h) of this subsection.
+(L) Promote transparency around decisions  concerning the forest, including forums to provide
+input.
+(m) Form advisory bodies or subcommittees as the board  of directors deems necessary and ap-
+propriate.
+(2) As part of a funding request described in subsection (1)(i)(L) of this section, the board of di-
+rectors may request  funding for state-funded debt service. Any moneys requested pursuant to this
+subsection and appropriated by the Legislative  Assembly to pay debt service for state bonds must
+be held by the  State Treasurer pursuant to an agreement entered into by the State Treasurer and
+the board of directors.
+(3) The  board of directors constitutes the governing body of the authority for purposes of the
+public meetings laws set forth in ORS [ 192.610 to 192.690] 192.610 to 192.705.
+NOTE: Substitutes ORS number for session law citation in  (1)(i)(L) (see section 23, chapter 89,
+Oregon Laws 2022, amending ORS 283.085); updates series reference in (3).
+SECTION 38.
+ Section 1, chapter 37, Oregon Laws 2024, is amended to read:
+Sec. 1.  (1) As used in this section:
+(a) “Agency” means an organization that provides agency with choice services.
+(b) “Agency with choice services” means services described in subsection (3) of this  section that
+are provided to an individual by an agency using a self-directed service delivery model.
+(c) “Authorized representative” means a person designated by an individual or  the individual’s
+legal representative to act on  behalf of the individual in making decisions on matters pertaining to
+the planning and implementation of an in-home service plan or an individual support plan.
+(d)(A) “Direct support  worker” means a person providing attendant or personal care services
+identified in an individual’s individualized service plan as an employee of the agency.
+(B) “Direct support worker”  does not mean a home care worker or a personal support worker
+as those terms are defined in ORS 410.600.
+(e) “Individual” means an  individual, or the authorized representative of an individual, who re-
+ceives  in-home  services and supports through the Department of Human Services or the Oregon
+Health Authority and who is:
+(A) An older adult;
+(B) An individual with a physical disability; or
+(C) An individual with behavioral health needs.
+(f) “Nurse delegation”  means arranging for tasks that are normally performed only by licensed
+nurses to be  performed by nursing assistants or other care providers subject to the instruction and
+supervision of a licensed nurse.
+[32]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(g) “Self-directed service delivery model” means a model in which an individual is supported  by
+an agency that  functions as the common law employer of direct support workers recruited by the
+individual and provides financial management services and tasks in place  of the individual. The in-
+dividual directs the direct support workers and is considered a co-employer with the agency.
+(2)(a) The Department of Human Services shall adopt rules for the licensing of agencies provid-
+ing services to older adults or individuals with physical disabilities.
+(b) The Oregon Health Authority shall adopt rules for  the licensing of agencies to provide per-
+sonal care services to individuals with behavioral health needs through a state plan  amendment
+authorized by 42 U.S.C. 1396n(i) and under the state’s 42 U.S.C. 1396n(k) plan.
+(3) An agency licensed under subsection (2) of this section shall:
+(a) Assist individuals with the following tasks:
+(A) Recruiting and selecting direct support  workers to be employed by the agency to provide the
+individual’s attendant and personal care  services or removing direct support workers from the
+individual’s care team;
+(B) Coordinating the schedules of direct support workers, establishing the responsibilities  of di-
+rect support workers and ensuring that direct  support workers do not work more than the hours
+authorized by the department or the authority;
+(C) Training  direct support workers with respect to the individual’s unique needs and prefer-
+ences in how the services and supports are delivered;
+(D) Supporting the  individual in maintaining a safe workplace, in self-direction and in the roles
+and responsibilities of co-employer; and
+(E) Performing other tasks prescribed by the department or the authority by rule.
+(b) Be responsible for hiring and terminating direct support workers  who are employed by the
+agency.
+(c) Perform the following functions:
+(A) Submit claims for reimbursement to the department or the authority and pay  direct support
+workers for authorized hours worked  and billed in accordance with the electronic visit verification
+requirements for providers of services;
+(B) Withhold, file and pay income taxes and  all employment-related taxes, including but not
+limited to workers’ compensation premiums and unemployment taxes;
+(C) Verify the qualifications of each direct  support worker as required by federal and state laws,
+including by ensuring that each direct support worker passes a background check;
+(D) Ensure that direct support workers employed by the  agency have access to support coordi-
+nation;
+(E) Establish a process for:
+(i) Identifying, analyzing and correcting adverse events;
+(ii) Ensuring the timely reporting of any allegation of abuse, neglect or fiscal improprieties  in-
+volving an individual or a  direct support worker, immediately responding to the allegation and re-
+porting the allegation to the appropriate authorities;
+(iii) Selecting and tracking indicators of quality by high-risk, high-volume  and problem-prone
+areas and indicators of individual safety and the quality of care; and
+(iv) Conducting and documenting quality improvement activities;
+(F) Meet with individuals at least every six months, with at least one in-home visit with  the
+individual each 12 months, as determined jointly  with the individual based on the preferences and
+needs of the individual;
+[33]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(G) Provide basic, standardized training to direct support workers and ensure that direct support
+workers complete and are current with all training prescribed by the department and the authority
+by rule;
+(H) Retain a personnel record for each direct support worker that includes, at a minimum:
+(i) Documentation of completed required training and ongoing education;
+(ii) Required criminal background checks; and
+(iii) Evidence that  any health care related license or certificate held by a direct support worker
+is current and that the direct support worker has not committed any action that  would prevent the
+direct support worker from providing services; and
+(I) Provide other administrative and employment-related supports.
+(d) Have  in place a process to access and respond to a complaint or grievance submitted by an
+individual about the services provided to the individual by a direct support worker.
+(e) Pay any fines  or penalties that may be assessed against an individual if the agency fails to
+withhold the correct amounts of taxes or pay  the appropriate employment-related taxes to mitigate
+the risk to the individual.
+(f) Indemnify an individual for any employment or wage-related claims, damages, fines  or penal-
+ties arising from the individual’s relationship with the agency.
+(g) Maintain  a drug-free workplace that prohibits direct support workers from being under the
+influence of drugs or alcohol when providing services to an individual.
+(h) Commit to involving direct support  workers employed by the agency and individuals served
+by the agency in  the development of and decision-making about work processes, performance stan-
+dards, quality improvement strategies, training, technology use and workplace safety.
+(i) Commit to minimizing the impact of the loss of pay and work hours for direct support  work-
+ers resulting from the hospitalization or death of an individual or the dismissal of the  direct support
+worker by the individual.
+(j) Commit to engage and work closely with individuals  in designing and implementing agency
+with choice services by appointing individuals to an advisory board,  using focus groups of individ-
+uals or employing other methods, approved by the department or the  authority, for working with
+individuals.
+(k) Promote each individual’s self-direction and choice and maximize an  individual’s autonomy
+and control over the decisions regarding the individual’s daily service needs, including by:
+(A) Using a person-centered  approach so that the individual is at the center of the decision-
+making process regarding:
+(i) Which  attendant and personal care services are needed to assist the individual in activities
+of daily living, instrumental activities of daily living  and health-related tasks, as defined by the de-
+partment or the authority by rule;
+(ii) Which services are consistent with the individual’s personal and cultural  values and prefer-
+ences;
+(iii) Where and how the services are delivered;
+(iv) When the services are delivered; and
+(v) Who provides the services;
+(B) Enhancing the role of  direct support workers as members of the individual’s care team, as
+desired and authorized by the individual and  reflected in the individual’s individualized service plan
+developed in accordance with rules adopted by the department or the authority; and
+(C) Complying with other requirements  as prescribed by the department or the authority, as
+[34]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+applicable, by rule.
+(L) Have in place a plan for recruiting  and retaining qualified direct support workers to meet
+the growing need for direct support workers in this state.
+(m) Assist an individual in planning  for direct support worker absences or similar situations
+[which] that  call for replacement workers, consistent with the  individual’s choice of direct support
+workers to provide the services.
+(n) Have in place  a quality assurance system and a performance improvement plan to evaluate
+and monitor the  quality, safety and appropriateness of the services provided by direct support
+workers.
+(4) Each agency must enter into a provider  agreement with the department or the authority to
+submit billings to and receive  payments from the department or the authority for the services fur-
+nished by the direct support workers.
+(5) An individual has the right to:
+(a) Select or otherwise  approve the direct support workers who provide services to the individ-
+ual before the direct support workers begin providing the services;
+(b) Train direct support workers in the individual’s specific service needs and  in the provision
+of services to the individual;
+(c) Direct the individual’s own services that are provided by direct support workers;
+(d) Require an agency to remove a direct support worker from the individual’s care team;
+(e) Report concerns and submit grievances  about a direct support worker to the agency, the
+relevant licensing agency or any other appropriate third party, such  as law enforcement in cases
+of abuse, neglect or financial misappropriation or improprieties;
+(f) Schedule a direct support worker’s time in accordance with  the individual’s desires, needs
+and authorized hours; and
+(g) Receive employer-related training, as required by federal rules, from a third party.
+(6) An individual’s exercise of any  of the functions described in subsection (5) of this section
+does not create an employer-employee  relationship between the direct support workers and the in-
+dividual except as a co-employer with the agency.
+(7) The department and the authority shall establish reimbursement  rates for agencies in ac-
+cordance with rate methodologies approved by the Centers  for Medicare and Medicaid Services. The
+baseline rates established by the department and the authority must be sufficient to:
+(a) Support substitute staffing needs due to canceled shifts,  planned and unplanned absences of
+direct support workers, respite care for individuals’ unpaid caregivers and other similar needs;
+(b) Allow an agency to pay  direct support workers wages and benefits at least equal to the
+wages and benefits provided to home care  workers in the collective bargaining agreement under
+ORS 410.612; and
+(c) Meet the requirements for training and  supports for direct support workers and for individ-
+uals as prescribed by the department or the authority by rule.
+(8) The department and the authority  shall establish by rule financial transparency requirements
+for agencies that include but are not limited to:
+(a) Establishing a maximum allowable percentage of the  hourly reimbursement rate paid to the
+agency that may be spent on overhead and administrative costs;
+(b) Requiring agencies to submit to the  department or the authority detailed cost reports that
+include, at a minimum, actual spending by the agency on direct support  worker wages, benefits and
+other personnel expenses; and
+[35]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Requiring agencies to pass through to direct support  workers reimbursement rate increases
+that are targeted for wages and benefits of direct support workers.
+(9) Nurse delegation is the responsibility of  the department or the authority and not the re-
+sponsibility of an agency and shall be operated in the same manner as nurse delegation for  home
+care workers, as defined in ORS 410.600.
+(10) The  department and the authority shall conduct a competitive procurement process to select
+agency with choice services  providers. The department and the authority may contract with no more
+than two agencies in total to provide agency with choice services.
+(11) Except as provided in subsection [ (13)] (12) of this section, an agency  that seeks to contract
+with the department or  the authority to provide agency with choice services must first provide a
+labor peace agreement that:
+(a) Is signed or certified  by an authorized representative of a labor organization that represents
+employees in this state or a  neighboring state who provide services similar to the direct support
+worker services provided by the direct support workers employed by the agency and that seeks to
+represent the direct support workers employed by the agency; and
+(b) Includes a process for the resolution of labor disputes with the  direct support workers em-
+ployed by the agency.
+(12) The department or the authority may contract with  an agency that has not provided a labor
+peace agreement described in subsection (11) of this section if:
+(a)(A) A labor organization is currently certified to represent the direct support workers  em-
+ployed by the agency and the labor  organization informs the agency that the labor organization does
+not wish to enter into a labor peace agreement with the agency; and
+(B) The agency demonstrates to  the satisfaction of the department or the authority that the
+agency has processes in place to  ensure the uninterrupted delivery of direct support worker services
+in the event of a labor dispute; or
+(b)(A) The agency notifies in  writing all labor organizations certified to represent employees in
+this state who provide services similar to the services to  be provided by the direct support workers
+employed by the consumer-directed employer that the agency  wishes to enter into a labor peace
+agreement; and
+(B) Three weeks following the date on which the notice was given:
+(i) No labor organization responds to the notice; or
+(ii) No labor organization expresses an interest in representing the direct support workers  em-
+ployed by the agency.
+(13) The department or the authority may deny, suspend or revoke the license, certificate  or
+endorsement, as applicable, of an agency or may impose a civil penalty,  in accordance with ORS
+183.745, on an agency for the agency’s failure to comply with this section or rules adopted in ac-
+cordance with this section. A failure to comply includes but is not limited to a:
+(a) Failure by the agency to provide required agency with choice services;
+(b) Failure by  the agency to correct deficiencies identified during a program review or an in-
+vestigation by the department or authority;
+(c) Demonstrated pattern, over the previous two years, of significant  and substantiated vio-
+lations of employment or wage laws in the state by:
+(A) An agency as an employer of direct support workers; or
+(B) A person applying to become an agency providing agency  with choice services in any busi-
+ness owned or operated by the person; or
+[36]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) Failure of an agency to comply with ORS 443.004.
+(14) This section does not supersede or limit any other authority  of the department or the au-
+thority with regard to oversight of contracting entities or the imposition of civil penalties.
+NOTE: Improves syntax in (3)(m); corrects subsection reference in (11).
+SECTION 39.
+ Section 5, chapter 97, Oregon Laws 2024, is amended to read:
+Sec. 5.  (1) The Environmental Restoration Council is established in  the Oregon Watershed En-
+hancement Board. The council consists of [ 11] 13 members as follows:
+(a) The Governor or the Governor’s designee.
+(b) The Director of the Department of Environmental Quality or the director’s designee.
+(c) The State Fish and Wildlife Director or the director’s designee.
+(d) The Director of the Oregon Health Authority or the director’s designee.
+(e) The Attorney General or the Attorney General’s designee.
+(f)(A) Six members, appointed by the Governor, who have expertise  and a demonstrated interest
+in environmental remediation  and the impacts from contamination to water, air or land on people
+or the environment. The Governor shall endeavor to appoint members with  [ complimentary] com-
+plementary expertise under this paragraph.
+(B) Of the members appointed under  this paragraph, at least two must possess scientific exper-
+tise with the  environmental or human health impacts of PCB or other similar substances in the en-
+vironment.
+(C) Council members  appointed under subparagraph (B) of this paragraph need not reside in
+Oregon.
+(g) A member of the Senate appointed by the President of the Senate to be a  nonvoting advisory
+member of the council.
+(h) A member of the House of Representatives appointed by the  Speaker of the House of Rep-
+resentatives to be a nonvoting advisory member of the council.
+(2) The term of office of each member of the council appointed  by the Governor is four years,
+but a member serves at the pleasure of the Governor.  A member is eligible for reappointment but
+may not serve more than two consecutive terms. If there is  a vacancy for any cause, the Governor
+shall make an appointment to become immediately effective for the unexpired term.
+(3) Each legislative member serves at the pleasure of the appointing authority and  may serve
+as long as the member remains in the chamber of the Legislative Assembly from  which the member
+was appointed.
+(4) The Governor shall appoint a member of the council to serve as chairperson.
+(5) A majority of the voting members of  the council constitutes a quorum for the transaction
+of business.
+(6) The council shall meet annually at the time and place specified by  the chairperson or of a
+majority of the members of the council. The  council may meet at other times and places as deter-
+mined by the chairperson or a majority of the members of the council.
+(7) The  Oregon Watershed Enhancement Board shall provide staff support to the council. The
+board may enter into agreements with other state agencies to provide additional  staff support to the
+council.
+(8)(a) The council may create  advisory committees as necessary to advise the council on carry-
+ing out the functions of the council.
+(b) The council may appoint to an  advisory committee any person that the council determines
+possesses expertise or information that may assist the council in the performance of its duties.
+[37]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(9)(a) Voting members of the  council, and members of an advisory committee appointed under
+subsection (8) of  this section who are not members of the council, may be reimbursed for actual and
+necessary travel and other expenses incurred by the member in the performance of official  duties
+in the same manner and amount as provided by ORS 292.495.
+(b) Members of the council who are members of the Legislative Assembly are entitled to  pay-
+ment of compensation and expenses as provided in ORS 171.072,  payable from funds appropriated to
+the Legislative Assembly.
+(10) The council shall submit  a report each biennium to the Governor and the Legislative As-
+sembly in the manner provided by  ORS 192.245. The report must describe the purposes for which
+moneys expended from the State Agency Program Fund established under section 10 , chapter  97,
+Oregon Laws 2024 [ of this 2024 Act ], the Disproportionately Impacted  Community Fund established
+under section 11 , chapter  97, Oregon Laws 2024,  [ of this 2024 Act ] and the Tribal Nation Natural
+Resource Program Fund established under section 12 , chapter 97, Oregon Laws  2024, [of this 2024
+Act] were used and the outcomes achieved by funding recipients.
+(11) In accordance with the provisions of ORS chapter 183, the council may adopt rules  neces-
+sary for the administration of the laws that the council is charged with administering.
+NOTE: Corrects number of council members in (1); corrects word choice in (1)(f)(A).
+SECTION 40.
+ Section 7, chapter 97, Oregon Laws 2024, is amended to read:
+Sec. 7.  (1) The Environmental Restoration Council shall establish by rule a program to  provide
+grants to public or private nonprofit entities  to carry out projects that benefit disproportionately
+impacted communities. Rules adopted under this section shall include but need not be limited to:
+(a) Procedures for soliciting and reviewing applications from public  or private nonprofit entities;
+(b) Eligibility criteria for nonprofit entities;
+(c) Eligible purposes for which grants may be awarded;
+(d) Guidelines for collaborations or partnerships between multiple entities; and
+(e)(A) Reporting requirements for grant recipients.
+(B) Reporting requirements:
+(i) Must be  developed after consultation with nonprofit entities likely to receive grants under
+this section; and
+(ii) As far as practicable, must be consistent with reporting  requirements adopted under
+sections 6 and 8 , chapter 97, Oregon Laws 2024  [ of this 2024 Act ].
+(2) Grants awarded under this section:
+(a) Must be awarded  for projects or purposes that are consistent with the terms of the Monsanto
+Settlement Agreement and  the strategic priorities established under section 9 , chapter 97, Oregon
+Laws 2024 [ of this 2024 Act ].
+(b) May be used to supplement existing programs or projects but  may not be used to supplant
+moneys available from any other source.
+(c) May be used as matching funds for federal moneys or moneys available from any  other
+source.
+(3) The council may contract with a third-party  entity to implement and serve as the adminis-
+trator of the grant program established under this section.
+(4) Grants  awarded under this section shall be paid out of the Disproportionately Impacted
+Community Fund established under section 11 , chapter 97, Oregon Laws 2024,  [ of this  2024 Act ]
+by the Oregon Watershed Enhancement Board  in accordance with rules adopted by the council un-
+der this section.
+[38]
+HB 2464
+1
+2
+3
+4
+5
+6
+7
+8
+9
+NOTE: Supplies missing word in (1)(e)(B)(ii).
+SECTION 41.
+ Section 14, chapter 97, Oregon Laws 2024, is amended to read:
+Sec. 14.  Notwithstanding the term of office specified in section 5 (2) , chapter 97,  Oregon Laws
+2024 [ of this 2024 Act ], of the members of the Environmental Restoration Council first appointed by
+the Governor under section 5 [ (1)(e)] (1)(f), chapter 97, Oregon Laws 2024  [ of this 2024 Act ]:
+(1) Two shall serve a term of two years; and
+(2) Two shall serve a term of three years.
+NOTE: Corrects internal reference in lead-in.
+[39]

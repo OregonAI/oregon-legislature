@@ -1,0 +1,121 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 414
+Sponsored by Senator WOODS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes it a crime to disclose fake intimate images. The Act goes into effect when
+the Governor signs it. (Flesch Readability Score: 75.3).
+Modifies the crime of unlawful dissemination of an intimate image to include  the disclosure of
+a computer-generated explicit likeness.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to  the unlawful dissemination of intimate images; amending ORS 163.472; and declaring an
+emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 163.472, as amended by section 4, chapter 42, Oregon Laws 2024, is  amended
+to read:
+163.472. (1) A person commits the crime of unlawful dissemination of an intimate image if:
+(a) The person, with the intent to harass, humiliate or injure another person,  knowingly causes
+to be disclosed an  image of the other person whose intimate parts are visible or who is engaged in
+sexual conduct , or a computer-generated explicit likeness ;
+(b) The person knows or reasonably should have known that the other person does not  consent
+to the disclosure;
+(c) The other person is harassed, humiliated or injured by the disclosure; and
+(d) A reasonable person would be harassed, humiliated or injured by the disclosure.
+(2)(a) Except as provided in paragraph (b) of this subsection, unlawful dissemination of  an inti-
+mate image is a Class A misdemeanor.
+(b) Unlawful dissemination of an intimate image is a Class C felony if the person  has a prior
+conviction under this section at the time of the offense.
+(3) As used in this section:
+(a) “Computer-generated explicit likeness” means a visual depiction purporting to be  of
+another person’s intimate parts or of the other person engaging in  sexual contact that has
+been created, manipulated or altered by using a computer software program, artificial intel-
+ligence, editing application or similar means, so that  the depiction is not reasonably distin-
+guishable from an actual image  of the other person’s intimate parts or the other person
+engaging in sexual contact.
+[(a)] (b) “Disclose” includes, but is not  limited to, transfer, publish, distribute, exhibit, advertise
+and offer.
+[(b)] (c)  “Image” includes, but is not limited to, a photograph, film, videotape, recording, digital
+picture and other visual reproduction, regardless of the manner in which the image is stored.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 840
+SB 414
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+[(c)] (d) “Information content provider” has the meaning given that term in 47 U.S.C. 230(f).
+[(d)] (e)  “Interactive computer service” has the meaning given that term in 47 U.S.C. 230(f).
+[(e)] (f)  “Intimate parts” means uncovered human genitals, pubic areas or female nipples.
+[(f)] (g)  “Sexual conduct” means sexual intercourse or oral or anal sexual intercourse,  as those
+terms are defined in ORS 163.305, or masturbation.
+(4) This section does not apply to:
+(a) Activity by law enforcement agencies investigating and prosecuting criminal offenses;
+(b) Legitimate medical, scientific or educational activities;
+(c) Legal proceedings, when disclosure is consistent with common practice in civil  proceedings
+or necessary for the proper functioning of the criminal justice system;
+(d) The reporting of unlawful conduct to a law enforcement agency;
+(e) Disclosures that serve a lawful public interest;
+(f) Disclosures of images:
+(A) Depicting the  other person voluntarily displaying, in a public area, the other person’s inti-
+mate parts or engaging in sexual conduct; or
+(B) Originally created for a commercial purpose with the consent of the other person; or
+(g) The provider of  an interactive computer service for an image of intimate parts provided by
+an information content provider.
+SECTION 2.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[2]

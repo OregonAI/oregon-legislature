@@ -1,0 +1,85 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3228
+Sponsored by Representative NATHANSON, Senator WOODS, Representative MANNIX (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes a council study  the use of cybersecurity insurance for public bodies. Tells the
+council to submit a report on its findings. Creates a fund. (Flesch Readability Score: 63.0).
+Requires the Oregon Cybersecurity Advisory Council to study the use of  cybersecurity insur-
+ance for public bodies. Directs the advisory council to submit findings to the interim committees  of
+the Legislative Assembly related to information  management and technology not later than Decem-
+ber 31, 2025.
+Establishes the Oregon Cybersecurity Resilience Fund. Appropriates moneys in  the fund to the
+Higher Education  Coordinating Commission for distribution to the Oregon Cybersecurity Center of
+Excellence to assist public  bodies with cybersecurity insurance requirements and cybersecurity in-
+cidents.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to cybersecurity; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Oregon  Cybersecurity Advisory Council shall study the use of
+cybersecurity insurance for public bodies, as defined in ORS 174.109. The  advisory council
+shall submit a report in the manner provided by ORS 192.245,  and may include recommen-
+dations for legislation, to the interim committees of the Legislative Assembly related to  in-
+formation management and technology no later than December 31, 2025.
+(2) The State Chief Information Officer and the Oregon  Cybersecurity Center of Excel-
+lence shall provide staff and support services to the advisory council necessary for  the ad-
+visory council to complete the study and report.
+SECTION 2. Section 1 of this 2025 Act is repealed on January 2, 2026.
+SECTION 3. (1) The Oregon Cybersecurity Resilience Fund is  established in the State
+Treasury, separate and distinct  from the General Fund. Interest earned by the Oregon
+Cybersecurity Resilience Fund must be credited to the fund.
+(2) Moneys in the fund shall consist of:
+(a) Amounts donated to the fund;
+(b) Amounts appropriated or otherwise transferred to the fund by the  Legislative As-
+sembly; and
+(c) Other amounts deposited in the fund from any source.
+(3) Moneys in the fund are  continuously appropriated to the Higher Education Coordi-
+nating Commission for distribution to the Oregon Cybersecurity Center of Excellence for the
+purposes of assisting public bodies, as defined in ORS 174.109, with:
+(a) Meeting cybersecurity insurance coverage requirements; and
+(b) Preparing  and planning for, mitigating, responding to and recovering from a
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1367
+HB 3228
+1
+2
+3
+4
+5
+cyberattack, information security incident or data breach.
+SECTION 4.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[2]

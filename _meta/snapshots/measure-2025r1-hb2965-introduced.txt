@@ -1,0 +1,303 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2965
+Sponsored by Representative GAMBA; Senator PHAM K (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act sets requirements for raising fish as food for humans. The Act creates a  related
+fund. (Flesch Readability Score: 78.7).
+Establishes certain requirements concerning aquaculture.
+Establishes the  Aquatic Animals Fund, separate and distinct from the General Fund. Appropri-
+ates moneys in the Aquatic Animals Fund to the  State Department of Fish and Wildlife for certain
+purposes related to aquaculture and aquatic animals.
+A BILL FOR AN ACT
+Relating to aquaculture.
+Be It Enacted by the People of the State of Oregon:
+DEFINITIONS
+SECTION 1.
+Sections 2 to 8 of this 2025 Act are added to and  made a part of ORS chapter
+498.
+SECTION 2. As used in sections 2 to 8 of this 2025 Act:
+(1) “Aquaculture”:
+(a) Means the farming of aquatic animals or aquatic plants for  the primary purpose of
+producing food for humans.
+(b) Does not mean the activities of a hatchery that is owned or operated by this state.
+(2) “Aquaculture facility”:
+(a) Means a facility  that engages in aquaculture by propagating, rearing, holding, har-
+vesting, transporting, receiving the transport of or slaughtering aquatic animals, either on
+land or in a natural or artificial body of water, for the primary purpose of producing  food for
+humans.
+(b) Does not mean a hatchery that is owned or operated by this state.
+(3) “Aquatic animal”:
+(a) Means:
+(A) Finfish belonging to the classes Agnatha  (jawless fishes), Chondrichthyes
+(cartilaginous fishes) and Osteichthyes (bony fishes);
+(B) Cephalopods; and
+(C) Any other game fish or food fish that is used  as food for humans or for industrial
+purposes, if the State Fish and Wildlife Commission designates the game fish or  food fish as
+an aquatic animal under this section.
+(b) Notwithstanding paragraph (a)(C) of this subsection, does not mean:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 766
+HB 2965
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) A sea urchin that belongs to the species Strongylocentrotus purpuratus.
+(B) Clams.
+(C) Mussels.
+(D) Oysters.
+(E) Scallops.
+(4) “Food fish” has the meaning given that term in ORS 506.011.
+(5) “Game fish” has the meaning given that term in ORS 496.009.
+(6) “Genetically engineered”:
+(a) Means produced through the modification, cloning or manipulation of genes using
+biotechnology, including gene editing techniques.
+(b) Does not mean selective breeding.
+FINDINGS ON AQUACULTURE
+SECTION 3.
+The Legislative Assembly finds that:
+(1) Aquaculture may be a growing industry.
+(2) The state has a duty to protect the natural resources and ecosystems of this state.
+(3) Industrial aquaculture presents  risks to the environment, among other risks, and the
+risks may be mitigated through appropriate regulation.
+(4) Expert input is required in order  to fully understand the risks associated with
+aquaculture and establish appropriate regulation.
+(5) To adequately protect this state’s natural resources, aquaculture operations  must
+adhere to certain minimum standards related  to preventing pollution and protecting water
+quality.
+FINFISH AND CEPHALOPOD AQUACULTURE
+SECTION 4.
+(1) An  agency of this state may not issue a license or permit to an
+aquaculture facility that is in violation of this section or section 5 of this 2025 Act.
+(2) The provisions of  ORS 468B.025 and 468B.050 apply to an aquaculture facility licensed
+under this section.
+SECTION 5. (1) To protect public health and promote environmental protection, an
+aquaculture facility:
+(a) Must address water quality at the aquaculture facility, including by:
+(A) Providing aeration and oxygen.
+(B) Removing or filtering water so water  parameters remain within limits for optimal
+welfare conditions and for specific species  of aquatic animals based on the best available
+scientific evidence.
+(C) Remediating the effects of feed in the water.
+(b) May not:
+(A) Stock aquatic animals at  levels that exceed the optimal density for specific species
+of aquatic animals, based on the best available scientific evidence to allow ample  space in
+which aquatic animals can engage in or express natural behaviors.
+(B) Raise finfish in marine or estuarine waters in nets, cages or other vessels.
+(C) Discharge water or waste into marine waters or estuaries.
+[2]
+HB 2965
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(D) Release an aquatic  animal from the aquaculture facility into the waters of this state.
+(E) Use, grow or harvest genetically engineered aquatic animals.
+(c) Must provide aquatic animals with  an appropriate environment that includes a total
+swimmable volume of water  acceptable for specific species of aquatic animals based on the
+best available scientific evidence.
+(d) Notwithstanding ORS 498.012  and 610.105, may not take lethal action against a pred-
+ator to further the operation of the aquaculture facility.
+(2) Subsection (1)(b)(A) of this section does not apply to a business entity that:
+(a) Is owned and operated independently from all other businesses; and
+(b) Has annual gross revenues of less than $500,000, as reported on the most recent tax
+return submitted to the federal Internal Revenue Service or the Department of Revenue.
+SECTION 6.
+(1) An aquaculture facility shall keep detailed records of:
+(a) Medications or vaccinations administered to aquatic animals.
+(b) Any outbreaks of infectious disease.
+(c) Water quality tests.
+(d) Any violations of sections 2 to 8 of this 2025 Act.
+(2) The aquaculture facility shall:
+(a) Immediately report any outbreak of infectious disease to the Department of Envi-
+ronmental Quality and the State Department of Fish and Wildlife;
+(b) Annually submit the records required under subsection (1) of  this section to the State
+Department of Fish and Wildlife; and
+(c) Make the records publicly available.
+(3) The department shall post the records required under subsection  (1) of this section
+on a department website.
+(4) In consultation with scientific experts, representatives of the  aquaculture industry
+and advocates of the environment and animal welfare, the department shall  adopt rules to
+implement this section.
+SECTION 7.
+(1) The Aquatic Animals  Fund is established in the State Treasury, separate
+and distinct from the  General Fund. All moneys in the Aquatic Animals Fund are contin-
+uously appropriated to the State Department of Fish and Wildlife for:
+(a) Carrying out the provisions of sections 2 to 8 of this 2025 Act;
+(b) Actions and activities benefiting aquatic animals, including  conducting education re-
+garding the humane treatment of aquatic animals; and
+(c) Making grants available to aquaculture facilities seeking  to transition to more hu-
+mane methods of operation, or to aquaculture related to aquatic plants instead of aquatic
+animals.
+(2) The fund shall consist of any moneys:
+(a) Transferred to the fund by the Legislative Assembly or from any other source; and
+(b) Received under ORS 616.997 (7).
+(3) Interest earnings on moneys in the fund shall be credited to the fund.
+ENFORCEMENT
+SECTION 8.
+(1) The Attorney General, a state agency, a county  attorney, a district at-
+torney, a city attorney or a person residing or doing business in the county where  an
+[3]
+HB 2965
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+aquaculture facility is located may apply to the circuit  court for the county in which the
+aquaculture facility is located for a temporary or  permanent injunction requiring the
+aquaculture facility to:
+(a) Refrain from any activity or  inactivity constituting a violation of sections 2 to 8 of
+this 2025 Act or another applicable law; and
+(b) Take any actions necessary to remedy the violation.
+(2) The circuit court may award reasonable attorney fees to  a plaintiff prevailing under
+this section.
+SECTION 9.
+On or before January 1, 2027, the State Department of Fish and Wildlife shall
+adopt rules as needed to implement sections 2 to 8 of this 2025 Act.
+CAPTIONS
+SECTION 10. The unit captions used in this 2025 Act  are provided for the convenience
+of the reader and do not become part of the statutory law of this state or express  any leg-
+islative intent in the enactment of this 2025 Act.
+OPERATIVE DATE
+SECTION 11. (1) Sections 2 to 8 of this 2025 Act become operative on January 1, 2027.
+(2) Notwithstanding subsection (1) of this section, the  Department of Environmental
+Quality and the State Department of  Fish and Wildlife may take any actions, on or after the
+effective date of this 2025  Act, that are necessary to prepare for the implementation of
+sections 2 to 8 of this 2025 Act.
+[4]

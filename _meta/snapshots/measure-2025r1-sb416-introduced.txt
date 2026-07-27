@@ -1,0 +1,1314 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 416
+Sponsored by Senator WOODS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act directs ODOT to issue mobile driver licenses to those who  want them and pay
+a fee. (Flesch Readability Score: 71.0).
+Directs the Department of Transportation to provide  optional mobile driver licenses, driver
+permits and identification cards. Provides  that the department may contract with private entities
+to provide mobile credentials and establish fees.
+A BILL FOR AN ACT
+Relating to electronic credentials issued by  the Department of Transportation; creating new pro-
+visions; and amending ORS  801.245, 801.250, 802.200, 807.010, 807.040, 807.050, 807.110, 807.400,
+807.410 and 807.750.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of the Oregon Vehicle
+Code.
+SECTION 2. (1) The Department of Transportation shall  provide, or contract with a pri-
+vate entity to provide,  driver licenses, driver permits and identification cards in an electronic
+format. The department or entity may develop a mobile software application capable of  being
+utilized through  a person’s electronic device to access the person’s driver license, driver
+permit or identification card. A driver license,  driver permit or identification card that is
+accessed electronically may be known as a mobile driver license, mobile  driver permit or
+mobile identification card.
+(2) The department may contract with one or more private entities to carry out  the
+provisions of this section.
+(3) In addition to any fee  for issuing driver licenses, driver permits or identification cards
+specified in ORS 807.370 or 807.410, the department may charge a fee for services  authorized
+by this section.
+(4) The department shall suspend,  disable or terminate a person’s access to a driver li-
+cense or driver permit in an electronic format if:
+(a) The person’s driving privileges are suspended, revoked,  denied or canceled under the
+laws of this state; or
+(b) The person reports that the person’s electronic device has been lost, stolen or  oth-
+erwise compromised.
+(5) The use of an electronic device to display a driver  license, driver permit or identifi-
+cation card in an electronic format, as provided under this section, does not  constitute con-
+sent for a police officer to access other contents of the electronic device.
+(6) When  a person is required to surrender a driver license or driver permit that was
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 180
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+issued in an electronic format, the person shall follow procedures adopted by the  department
+by rule. The department may not require the person to surrender an electronic  device that
+holds the license or permit.
+(7) This section does not apply to the following:
+(a) A commercial driver license; or
+(b) A commercial learner driver permit.
+(8) The department may adopt rules to establish fees and carry out the provisions of this
+section. Before adopting, amending or repealing a rule governing issuance  of driver licenses,
+driver permits or identification cards in an electronic format, the department shall consider
+the recommendations of the American Association of Motor Vehicle Administrators.
+SECTION 3.
+ ORS 801.245 is amended to read:
+801.245. “Driver license” or “license” may have any or all of the  meanings provided for the
+terms under this section as required or appropriate under the section referring to the term. The
+term “driver license” may be used interchangeably with  “license” and either term may be used in
+any or all of the following ways:
+(1) It may refer to a document issued  in either a  physical or electronic format  [ by] under
+the laws of  this state or any other jurisdiction as evidence of a grant of driving privileges.
+(2) It may refer to general driving privileges granted by this state or another jurisdiction.
+SECTION 4.
+ ORS 801.250 is amended to read:
+801.250. “Driver permit” means a grant of driving privileges by  this state or another jurisdiction
+that is more limited than those available under a license or  that is only available under special or
+limited circumstances. The term may also  refer to a document issued in either a physical or
+electronic format  as evidence of a grant of driving  privileges under a driver permit. Driver permits
+issued by this state include the following:
+(1) Applicant temporary driver permit described under ORS 807.310.
+(2) Court issued temporary driver permit described under ORS 807.320.
+(3) Disability golf cart driver permit described under ORS 807.210.
+(4) Emergency driver permit described under ORS 807.220.
+(5) Instruction driver permit described under ORS 807.280.
+(6) Hardship driver permit described under ORS 807.240.
+(7) Special student driver permit described under ORS 807.230.
+(8) Special temporary instruction driver permit described under ORS 807.290.
+(9) Court bail driver permit described under ORS 807.330.
+(10) Temporary driver permit described under ORS 813.110.
+(11) Commercial learner driver permit described under ORS 807.285.
+SECTION 5.
+ ORS 807.010 is amended to read:
+807.010. (1) A person commits the offense of operating a vehicle without driving privileges if the
+person operates a motor vehicle upon a highway or premises open to  the public in this state and the
+person does not have an appropriate grant of driving privileges from this state in the form of  a li-
+cense, driver permit, endorsement or statutory grant of driving privileges  allowing the person to
+engage in the particular type of operation.
+(2) A person to whom a license or driver permit is issued commits the offense of violating license
+restrictions if the person operates a motor vehicle in any manner  that violates restrictions that are
+placed upon the person’s driving privileges by  the Department of Transportation under ORS 807.120
+or 807.122, by a court under ORS 809.270, or by the vehicle code.
+[2]
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) When a person presents a driver license  or driver permit in an electronic format, as
+provided under section 2 of this 2025  Act, and a police officer is unable to immediately verify
+the proof of driver license  or driver permit, the person shall present the driver license or
+driver permit in its physical format.
+[(3)] (4)  Nothing in this section is applicable to  a person who is driving while suspended or re-
+voked in violation of ORS 811.175 or 811.182. Persons who violate ORS 811.175 or 811.182 are subject
+to the provisions and penalties provided therein and are not subject to the  penalties and provisions
+of this section.
+[(4)] (5)  Except as provided in subsection [ (5)] (6) of this section, the offense described in sub-
+section (1) of this section, operating a vehicle without driving  privileges, is a Class B traffic vio-
+lation.
+[(5)] (6)  The  offense described in subsection (1) of this section, operating a vehicle without
+driving privileges, that results from a person operating a motorcycle without a motorcycle endorse-
+ment, is a Class A traffic violation.
+[(6)(a)] (7)(a)  The court shall suspend a fine imposed under subsection [ (5)] (6)  of this section
+on the condition that the person, within 120 days of the date of sentencing:
+(A) Complete a motorcycle education course established by the  department under ORS 802.320;
+and
+(B) Obtain a motorcycle endorsement issued under ORS 807.170.
+(b) The court shall set a hearing date for 120 days from  the date of sentencing. At the hearing
+the court shall:
+(A) If the person has successfully completed  the requirements described in paragraph (a)(A) and
+(B) of this subsection, enter a sentence of discharge; or
+(B) If the person has not successfully completed the requirements described in paragraph (a)(A)
+and (B) of this subsection:
+(i) Grant the person an extension based on good cause shown; or
+(ii) Impose the fine under subsection [ (5)] (6) of this section.
+[(7)] (8)  The offense described in subsection (2)  of this section, operating in violation of license
+restrictions, is a Class B traffic violation.
+SECTION 6.
+ ORS 807.050 is amended to read:
+807.050. An application for a  driver license shall be in a form approved by the Department of
+Transportation. An application must contain all the following:
+(1) The applicant’s full legal  name, sex, date of birth, residence address, except as otherwise
+provided for corrections officers in ORS  802.253, eligible employees in ORS 802.250 or Address
+Confidentiality Program participants in ORS 192.846, and post-office  address other than general de-
+livery. The department may provide by  rule for acceptance of something other than an actual resi-
+dence or post-office address if the department determines that the applicant does not have an  actual
+address. The department shall require proof to verify the address in addition to anything  else the
+department may require of the  applicant. The department shall adopt rules to identify what consti-
+tutes proof of address for purposes of this subsection. Proof of  address may include, but is not lim-
+ited to, providing a utility bill, a tax return, a record from  a financial institution, a proof of
+insurance card or a health benefits card, a selective service card, a mortgage  document or a lease
+agreement. The applicant may provide the proof of address by submitting proof in  the form of an
+original document or a copy of a document, use an electronic device to display proof of address, or
+provide proof through the use of a third party address verification system.
+[3]
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) The class of driver license sought.
+(3) The Social Security number of the applicant or other number or identifying  information de-
+termined appropriate by the Secretary of the United  States Department of Transportation, if the
+application is for a  commercial driver license or a commercial learner driver permit or if the Oregon
+Department of Transportation by rule requires the Social Security number on the application.
+(4) Whether or not the applicant wants to make an anatomical gift, as defined in ORS 97.953.
+(5) Any  other information the department deems necessary to assist the department in deter-
+mining whether the applicant is qualified or eligible to be licensed.
+(6) The signature of the applicant.
+(7) Whether or not the applicant wants a driver license issued in an electronic format.
+SECTION 7.
+ ORS 807.040 is amended to read:
+807.040. (1) The Department of Transportation shall issue a driver  license to any person who
+complies with all of the following requirements:
+(a) The person must complete an application for a license under ORS 807.050.
+(b)(A) As required by ORS 807.021, a person applying for a driver license or  driver permit must
+provide the Social Security number assigned to the person by the United States Social  Security
+Administration  or  a written statement that the person has not been assigned a Social Security
+number.
+(B) As used in this paragraph, a “driver license” or “driver permit”  means a driver license or
+driver permit that is not a:
+(i) Real ID;
+(ii) Commercial driver license; or
+(iii) Commercial learner driver permit.
+(c) The person must submit to collection of biometric data by the department that  establish the
+identity of the person as described in ORS 807.024.
+(d) The person must not be ineligible  for the license under ORS 807.060 and must be eligible for
+the license under ORS 807.062.
+(e) The person must successfully pass  all examination requirements under ORS 807.070 for the
+class of license sought.
+(f) The person must pay the appropriate license fee under ORS 807.370 for the  class of license
+sought.
+(g) The person must pay the Student Driver Training Fund eligibility fee.
+(h) If the application is for a commercial driver  license, the person must be the holder of a Class
+C license or any higher class of license.
+(i) If  the application is for a commercial driver license, the department must have received and
+recorded, in a form approved by the department, the report of a medical examination that establishes
+that the person  meets the medical requirements to operate a commercial motor vehicle. The de-
+partment, by rule, shall  establish medical requirements for purposes of this paragraph. The medical
+requirements established under this paragraph may include any requirements the  department deter-
+mines are necessary for the  safe operation of vehicles permitted to be operated under the class of
+license for which the requirements are established.
+(j) If the  application is for a Real ID commercial driver license or a commercial driver license
+that is not a Real ID, the person must:
+(A) Have at least one year’s driving experience, including relevant  experience obtained in the
+military;
+[4]
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) Not be subject to a lifetime suspension of commercial driving privileges under ORS  809.520;
+(C) Not be otherwise ineligible to hold a commercial driver license;
+(D) Hold a commercial learner driver permit if the person  must complete a skills demonstration
+under ORS 807.070 (3);
+(E) Submit valid documentation, as defined by the department by rule, that the person is a  citi-
+zen or lawful permanent resident of the United States or is a citizen of a country with a  Compact
+of Free Association with the United States; and
+(F) Provide the Social Security number assigned to the person by  the United States Social Se-
+curity Administration for verification by the department with the administration.
+(k) The person must present acceptable documents to  prove identity, date of birth and address.
+The department shall determine by rule which documents are acceptable to prove identity, date  of
+birth and address.
+(L) If the application is for a Real ID, the person must comply with  the requirements under the
+vehicle code for issuance of Real IDs.
+(m) If the application is for  a driver license or driver permit issued in an electronic for-
+mat, the person must pay the fee established by the department by rule pursuant  to section
+2 of this 2025 Act.
+(2) Except as provided in subsection (3) of this section, acceptable documents to prove  identity,
+date of birth or address under subsection (1)(k)  of this section when a person is applying for a driver
+license, driver permit or identification card that is not a Real ID, a  commercial driver license, or
+a commercial learner driver permit, include but are not limited to the following:
+(a) An unexpired valid passport from the person’s country of citizenship;
+(b) An unexpired valid consular  identification document issued by the consulate of the person’s
+country of citizenship, if the department determines that the  procedure used in issuing the consular
+identification document is sufficient to prove the person’s identity;
+(c) A driver license, driver permit or identification  card issued by this state that expired not
+more than 13 years from the date of the current application; or
+(d) A driver license, driver permit or identification card issued by another state that:
+(A) Is unexpired; or
+(B) Expired not more than one year from the date of the current application.
+(3) The department  may refuse to accept any document described in subsection (2) of this section
+that is presented as proof of identity, date of birth or address, if the department has reason to  be-
+lieve that:
+(a) The document is fraudulent, has been altered  or does not belong to the person presenting the
+document; or
+(b) The procedures used by the agency that issued the document are no longer sufficient  for
+proving a person’s identity or date of birth.
+(4) Subsection (1)(j)(E) of this section does not apply to a limited term commercial driver license
+or a limited term commercial learner driver permit issued under ORS 807.730.
+(5) The department shall work with other agencies and organizations to attempt to  improve the
+issuance system for driver licenses.
+SECTION 8.
+ ORS 807.110 is amended to read:
+807.110. (1) A driver license issued by the Department  of Transportation shall contain all of the
+following:
+(a) The distinguishing number assigned to the person issued the  driver license by the depart-
+[5]
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ment.
+(b) For the purpose of identification, a brief description  of the person to whom the driver license
+is issued.
+(c) The full legal name of the person to whom the driver license  is issued, except that the de-
+partment may limit the number of characters displayed on the driver license.
+(d) The date of birth and sex of the person to whom the driver license is issued.
+(e) Except as provided for corrections officers in ORS  802.253, eligible employees in ORS 802.250
+or Address Confidentiality Program participants in ORS 192.846, the residence address of  the person
+to whom the driver license is issued.
+(f) Upon request of the person to whom the driver  license is issued, the fact that the person is
+an anatomical donor.
+(g) Upon request of the person to whom the driver license is issued and  presentation of proof,
+as determined by the department, the fact that the person is a veteran, as defined in ORS 408.225.
+(h) Upon order of the juvenile court, the fact that the person to whom the driver  license is is-
+sued is an emancipated minor.
+(i) Except as otherwise provided in  subsection (2) of this section, a photograph described in this
+paragraph. A photograph required under this paragraph shall:
+(A) Be a full-faced, color photograph of the person to whom the driver license is issued;
+(B) Be of a size approved by the department; and
+(C) Be taken at the time of application  for issuance of the driver license whether the application
+is for an original driver license, replacement of a driver license under ORS 807.160 or renewal of a
+driver license under ORS 807.150, except that  the department, by rule, may allow the applicant to
+use a photograph already on file with the department.
+(j) The class of driver license issued and any endorsements granted.
+(k) The signature of the person to whom the driver license is issued.
+(L) If the driver license is not a Real ID, a design differentiating it from a Real ID.
+(m) Upon request of the person to whom the driver license is issued,  the fact that the person is
+deaf or hard of hearing.
+(2) The department may issue a valid driver license, other  than a commercial driver license,
+without a photograph to an applicant:
+(a) Who objects on religious grounds;
+(b) Who objects because of the applicant’s facial disfigurement; or
+(c) Who is stationed outside of this state while serving in the active  military service in the
+Armed Forces of the United States or  the National Guard, and the department does not have an
+acceptable photograph of the applicant, as  determined by the department by rule. This paragraph
+applies to an applicant who is renewing or replacing a driver license.
+(3) A limited term driver license or a limited term commercial  driver license issued under ORS
+807.730 shall indicate:
+(a) That it is a limited term driver license; and
+(b) The date on which the limited term driver license expires.
+(4) The department shall use security procedures, processes and  materials in the preparation,
+manufacture and issuance of any driver license that prohibit as nearly as possible anyone’s ability
+to alter, counterfeit, duplicate or modify the driver license without ready detection. The  security
+features used in the production of the driver licenses shall provide for:
+(a) The authentication of a genuine document in a reasonable time; and
+[6]
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) The production of the  driver license only by equipment that requires verification of the
+identity of the operator of the equipment before a driver license may be produced.
+(5) A driver license shall be issued in a physical format as a card and if a person  elects
+and pays the required fee, in an electronic format as well.
+SECTION 9.
+ ORS 807.400 is amended to read:
+807.400. (1) The Department of Transportation shall issue an identification  card to any person
+who:
+(a) Is domiciled in or is a resident of this state, as described in ORS 807.062;
+(b) When applying for an identification card that is not a Real ID,  provides the Social Security
+number assigned to the person by the  United States Social Security Administration or a written
+statement that  the person has not been assigned a Social Security number, as required under ORS
+807.021;
+(c) Does not have a current, valid driver license;
+(d) Furnishes evidence of the person’s full legal name and date of birth; and
+(e) Submits to collection of biometric data by the department that establish the identity of the
+person as provided in ORS 807.024.
+(2) The department shall work with other agencies and organizations to attempt to  improve the
+issuance system for identification cards.
+(3) Every original application for  an identification card must be signed by the applicant. The
+department shall require proof to  verify the address of an applicant for issuance of an identification
+card in addition to other documents the department may require of  the applicant. If the address of
+an applicant has changed since the last time an identification card was issued to or renewed for  the
+applicant, the department shall require  proof to verify the address of the applicant for renewal of
+an identification card, in addition to anything else the department may require. The department
+shall adopt rules to identify what constitutes proof of address for purposes of this subsection. Proof
+of address may include, but  is not limited to, providing a utility bill, a tax return, a record from a
+financial institution, a proof  of insurance card or a health benefits card, a selective service card, a
+mortgage document or a  lease agreement. The applicant may provide the proof of address by sub-
+mitting proof in the form of  an original document or a copy of a document, use an electronic device
+to display proof of address, or provide proof through the use of a third party address verification
+system.
+(4) Every identification card shall  be issued upon the standard driver license form described
+under ORS 807.110 and shall bear a statement to  the effect that the identification card is not a
+driver license or any other grant of driving privileges to operate a motor vehicle and is  to be used
+for identification purposes only. The department shall use the same  security procedures, processes,
+materials and features for an identification  card as are required for a driver license under ORS
+807.110. The identification card is not required to contain the residence  address of persons listed in
+ORS 807.110 (1)(e).
+(5) If the identification card is  a limited term identification card issued under ORS 807.730, the
+limited term identification card shall indicate:
+(a) That it is a limited term identification card; and
+(b) The date on which the limited term identification card expires.
+(6) Upon order of the juvenile court, the department shall include on the card the fact that the
+person issued the identification card is an emancipated minor.
+(7) Upon request of the person to whom the identification card is issued and  presentation of
+[7]
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+proof, as determined  by the department by rule, that the person is a veteran, as defined in ORS
+408.225, the department shall include on the card the fact that the person is a veteran.
+(8) Each original identification card shall expire on a date  consistent with the expiration dates
+of licenses as set forth in ORS 807.130.
+(9) Identification  cards shall be renewed under the terms for renewal of licenses as set forth in
+ORS 807.150.
+(10) The fee for an original identification card or a renewal thereof shall be the fee established
+under ORS 807.410.
+(11) An identification card becomes invalid if the holder of  the card changes the holder’s resi-
+dence address from that shown on the identification card and  does not provide the department with
+notice of the change as required under ORS 807.420.
+(12) If a person to whom an identification  card was issued and who changes the person’s resi-
+dence address  submits an application for a replacement identification card, the department may is-
+sue a replacement  identification card containing the new address upon receipt of the old
+identification card and payment of the fee established under ORS 807.410.  Except as otherwise pro-
+vided in subsection (14) of  this section, the replacement identification card shall bear the same dis-
+tinguishing number as the card being replaced.
+(13) An identification card becomes invalid if the holder  of the card changes the holder’s name
+from that shown on the card, including a change  of name by marriage, without providing the de-
+partment with notice of the change as required under ORS 807.420. Upon  receiving such notice and
+the old  identification card, the department shall issue a replacement identification card upon pay-
+ment of the fee established under ORS 807.410.
+(14) In the event that, for a reason identified by the department  by rule, a person needs a re-
+placement identification card that bears a distinguishing number different  from the number on the
+card being replaced, the person to whom the card was issued may obtain a replacement card from
+the department upon  furnishing proof satisfactory to the department of the need for such replace-
+ment and payment of the fee established under ORS 807.410.
+(15) If a person furnishes proof that the person is a veteran, as defined  in ORS 408.225, and the
+person’s identification card does not include the fact that  the person is a veteran, the department
+shall issue a replacement identification card that includes the fact that the person is a veteran.
+(16) The department may establish by rule reasons for issuing replacement  identification cards
+that are in addition  to the reasons identified in subsections (12) to (15) of this section. The fee for
+a replacement identification card is provided under ORS 807.410.
+(17) Upon cancellation of an identification card, the card is terminated and must be surrendered
+to the department. An identification card may be canceled for any of the  reasons that driving priv-
+ileges or a driver license may be canceled under ORS 809.310. The department may reissue  an
+identification card canceled under this subsection when the applicant has satisfied all requirements
+for the identification card.
+(18) Notwithstanding any other provision of this section, the department may  issue an identifi-
+cation  card  to a person under this subsection without charge when the person surrenders the
+person’s driver license or driver  permit to the department for reasons described in this subsection.
+If the department issues an identification card  under this subsection, the identification card shall
+expire at the same time as the surrendered  driver license or driver permit would have expired. An
+identification card issued under this subsection is subject to  the same requirements and fees for
+renewal or upon expiration as  any other identification card issued under this section. The depart-
+[8]
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ment may issue identification cards under this subsection for any of the following reasons:
+(a) The person voluntarily surrenders the person’s driver license or driver permit to  the de-
+partment based upon the person’s recognition that the person is no longer competent to drive.
+(b) The person’s driving privileges  are suspended under ORS 809.419 (1). This paragraph only
+applies if the person voluntarily surrenders the person’s driver license or driver  permit to the de-
+partment as provided under ORS 809.500.
+(19) If a person is applying for an identification card that is a Real ID, the  person must comply
+with the requirements under the vehicle code for issuance of Real IDs.
+(20) An identification card shall be issued in  a physical format as a card and if a person
+elects and pays the required fee, in an electronic format as well.
+SECTION 10.
+ ORS 807.410 is amended to read:
+807.410. (1)  The following fees apply to identification cards unless otherwise provided by ORS
+807.400 or otherwise provided by law:
+(a) For issuance of an original identification card, $47.
+(b) For renewal of an identification card, $43.
+(c) For replacement of an identification card, $40.
+(d) For reinstatement of an identification card after suspension, $85.
+(e) For issuance of an original limited term identification card, $20.
+(f) For renewal of a limited term identification card, $18.
+(g) For replacement of a limited term identification card, $40.
+(h) For issuance of an identification card in an electronic  format, a fee established by the
+Department of Transportation by rule pursuant to section 2 of this 2025 Act.
+(2) The department  [ of Transportation ] may not charge a fee for issuing, renewing or replacing
+a parking identification card.
+(3) The  department may not charge a fee for issuing or renewing an identification card, or pro-
+viding two replacement identification cards before the expiration of  the current identification card,
+for an individual  who is experiencing homelessness. The individual shall present a form that indi-
+cates the individual qualifies for the fee waiver, as determined by a  nonprofit organization or state
+agency that provides services to individuals experiencing homelessness. Before  a nonprofit organ-
+ization or state agency issues documentation under this subsection, the organization  or state agency
+must first meet the standards established by the department by rule. The department, by rule, shall
+prescribe the form.
+(4) As used in this section, “state agency” means an agency of  the executive department, as
+defined in ORS 174.112.
+SECTION 11.
+ ORS 807.750 is amended to read:
+807.750. (1) As used in this section:
+(a) “Driver license” means a license or permit issued by this state  or any other jurisdiction as
+evidence of a grant of driving privileges.
+(b) “Financial institution” has the meaning given that term in ORS 706.008.
+(c) “Identification card” means the card issued under ORS 807.400  or a comparable provision in
+another state.
+(d) “Personal  information” means an individual’s name, address, date of birth, photograph, fin-
+gerprint, biometric data, driver license  number, identification card number or any other unique
+personal identifier or number.
+(e) “Private entity” means any nongovernmental entity, such as a corporation,  partnership,
+[9]
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+company or nonprofit organization, any other legal entity or any natural person.
+(f) “Swipe” means :
+(A) The act of passing  a driver license or identification card through a device that is capable
+of deciphering, in an electronically  readable format, the information electronically encoded in a
+magnetic strip or bar code on the driver license or identification card ; or
+(B) The act of scanning a  driver license or identification card issued in an electronic
+format by a device that is capable of deciphering, in an electronically readable format,  the
+information electronically encoded in the driver license or identification card .
+(2) Except as provided in subsection  (6) of this section, a private entity may not swipe an
+individual’s driver license or identification card, except for the following purposes:
+(a) To verify the authenticity of a driver  license or identification card or to verify the identity
+of the individual if the individual  pays for a good or service with a method other than cash, returns
+an item or requests a refund.
+(b) To verify the individual’s age when providing an  age-restricted good or service to any person
+about whom there is any reasonable doubt of the person’s having reached 21 years of age.
+(c) To prevent fraud or other criminal activity if an  individual returns an item or requests a
+refund and the private entity uses a fraud prevention service company or system.
+(d) To transmit information to a check  services company for the purpose of approving negotiable
+instruments, electronic funds transfers or similar methods of payment.
+(e) To collect information  about the individual for the purpose of processing an application for
+a deposit account or loan for the individual, if the private entity is a financial institution.
+(f) To enable a pharmacist, pharmacy technician or intern, as those terms are  defined in ORS
+689.005, to submit information to the electronic system described in ORS 475.230 for the  purpose of
+transferring a drug containing pseudoephedrine or ephedrine or a salt, isomer or salt of an  isomer
+of pseudoephedrine or  ephedrine without a prescription from a practitioner to a person who is 18
+years of age or older.
+(3) A private entity that swipes  an individual’s driver license or identification card under sub-
+section (2)(a) or (b) of this section  may not store, sell or share personal information collected from
+swiping the driver license or identification card.
+(4) A private entity that swipes  an individual’s driver license or identification card under sub-
+section (2)(c) or  (d) of this section may store or share the following information collected from
+swiping an individual’s driver license or identification card for  the purpose of preventing fraud or
+other criminal activity against the private entity:
+(a) Name;
+(b) Address;
+(c) Date of birth; and
+(d) Driver license number or identification card number.
+(5)(a) A person other than an entity regulated by the  federal Fair Credit Reporting Act, 15
+U.S.C. 1681 et seq.,  who receives personal information from a private entity under subsection (4) of
+this section may use the personal information received only to prevent fraud or other criminal  ac-
+tivity against the private entity that provided the personal information.
+(b) A person who is regulated by the  federal Fair Credit Reporting Act and who receives per-
+sonal information from a private entity under  subsection (4) of this section may use or provide the
+personal information received only  to effect, administer or enforce a transaction or prevent fraud
+or other criminal activity, if the  person provides or receives personal information under contract
+[10]
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+from the private entity.
+(6)(a) Subject to the provisions of  this subsection, a private entity that is a commercial radio
+service  provider  that provides service nationally and that is subject to the Telephone Records and
+Privacy Protection Act of  2006 (18 U.S.C. 1039) may swipe an individual’s driver license or identifi-
+cation card if the entity  obtains permission from the individual to swipe the individual’s driver li-
+cense or identification card.
+(b) The private entity may swipe the individual’s driver license or identification card only  for
+the purpose of establishing or maintaining a contract between  the private entity and the individual.
+Information collected by swiping an individual’s driver license  or identification card for the estab-
+lishment or maintenance of a contract shall be limited to the following information from the  indi-
+vidual:
+(A) Name;
+(B) Address;
+(C) Date of birth; and
+(D) Driver license number or identification card number.
+(c) If the individual does not want the private entity  to swipe the individual’s driver license or
+identification card, the  private entity may manually collect the following information from the indi-
+vidual:
+(A) Name;
+(B) Address;
+(C) Date of birth; and
+(D) Driver license number or identification card number.
+(d) The private entity may not withhold the  provision of goods or services solely as a result of
+the individual requesting the collection of the following information from the  individual through
+manual means:
+(A) Name;
+(B) Address;
+(C) Date of birth; and
+(D) Driver license number or identification card number.
+(7) A governmental entity may  swipe an individual’s driver license or identification card only
+if:
+(a) The individual knowingly makes  the driver license or identification card available to the
+governmental entity;
+(b) The governmental entity lawfully confiscates the driver license or identification card;
+(c) The governmental entity is  providing emergency assistance to the individual who is uncon-
+scious or otherwise unable to make the driver license or identification card available; or
+(d) A court rule requires swiping of the driver license or identification card to  facilitate accu-
+rate linking of court records pertaining to the individual.
+(8) In addition to any other remedy provided by law, an individual  may bring an action to re-
+cover actual damages or $1,000, whichever is greater,  and to obtain equitable relief, if equitable
+relief is available, against an entity that  swipes, stores, shares, sells or otherwise uses the
+individual’s personal information in violation of this section.  A court shall award a prevailing
+plaintiff reasonable costs and attorney fees. If a court finds that a violation of this  section was
+willful or knowing, the court may increase the amount of the award  to no more than three times the
+amount otherwise available.
+[11]
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(9) Any waiver of a provision of this section is contrary to public policy and is void and
+unenforceable.
+SECTION 12.
+ ORS 802.200 is amended to read:
+802.200. In addition to any other records the Department of  Transportation may establish, the
+department is subject to the following provisions concerning records:
+(1) The department shall maintain  records concerning the titling of vehicles in this state. The
+records under this subsection shall include the following:
+(a) For vehicles issued a title by this state, the records shall identify the vehicle and contain
+the following:
+(A) The name of  the vehicle owner and any security interest holders in order of priority, except
+that a security interest holder need not be identified if the debtor who granted the interest is in  the
+business of selling vehicles and the vehicles constitute inventory held for sale;
+(B) The name of any lessor of the vehicle;
+(C) The vehicle description; and
+(D) Whether a certificate of title was issued for the vehicle.
+(b) If the vehicle is an antique vehicle that is reconstructed, the records shall indicate that  the
+vehicle is reconstructed.
+(c) If the vehicle is a replica, the records shall indicate that the vehicle is a replica.
+(d) Any other information concerning the titling  of vehicles that the department considers con-
+venient or appropriate.
+(e) All odometer disclosures  and readings for a vehicle that are reported to the department un-
+der provisions of the vehicle code. The department  shall keep the most recent version of records
+required under this paragraph in electronic form.
+(f) If the vehicle has  been reported to the department as a totaled vehicle under the provisions
+of ORS 819.012 or 819.014, the records shall indicate that the  vehicle is a totaled vehicle unless the
+reason for the report was theft and the vehicle has been recovered.
+(2) If a vehicle that has been registered or titled in another  jurisdiction is registered or titled
+in this state, the department shall  retain a record of any odometer readings shown on the title or
+registration documents submitted to the department at the time of registration or title.
+(3) Except as otherwise provided in ORS 826.003, the department shall maintain  records con-
+cerning the registration of vehicles required to be registered by the  department. The records con-
+cerning the registration of vehicles may be stored along with records concerning  the titling of
+vehicles. The records under this subsection shall include the following:
+(a) For vehicles registered by the department, the  records shall identify the vehicle and contain
+the following:
+(A) The registration plate number assigned by the department to the vehicle;
+(B) The name of the vehicle owner;
+(C) The vehicle description and vehicle identification number; and
+(D) An indication that the vehicle is a totaled vehicle if it has  been reported to the department
+as a totaled vehicle under the provisions of ORS 819.012 or 819.014, unless the reason for the report
+was theft and the vehicle has been recovered.
+(b) Any other information concerning the registration of vehicles that  the department considers
+convenient or appropriate.
+(4) The department shall maintain separate records for the regulation of  vehicle dealers. The
+records required under this subsection shall include the following  information about persons issued
+[12]
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+dealer certificates:
+(a) The person’s application for a vehicle dealer certificate.
+(b) An alphabetical index of the name of each person applying for a vehicle dealer certificate.
+(c) A numerical index according to the distinctive number assigned to each vehicle dealer.
+(5) The department  shall maintain a file on vehicles for which the title record is canceled under
+ORS 819.030. The records required  under this subsection shall disclose the last registered owner of
+each vehicle, any security interest holder or holders and lessors of each vehicle as shown  by the
+canceled title record for each vehicle and the make and year model for each vehicle.
+(6) The department shall maintain a record of each agreement or declaration under ORS  802.500
+and 802.520.
+(7) The department  shall maintain separate and comprehensive records of all transactions af-
+fecting the Revolving Account for Emergency Cash Advances described under ORS 802.100.
+(8) The department  shall maintain suitable records of driver licenses, driver permits and iden-
+tification cards. The records required under this subsection shall include all of the following:
+(a) An index by name and number.
+(b) Supporting documentation of all driver licenses, driver permits or identification cards  issued.
+(c) Every application for a driver license, driver permit or identification card.
+(d) All driver licenses or driver permits that have been suspended, revoked or canceled.
+(e)(A) For each driver  license, driver permit or identification card, the Social Security number
+of the person to  whom the driver license, driver permit or identification card is issued or the written
+statement that the person has not been assigned a Social Security number.
+(B) As used in this paragraph, a “driver license,” “driver permit” or “identification card” means
+a driver license, driver permit or identification card that is not a:
+(i) Real ID;
+(ii) Commercial driver license; or
+(iii) Commercial learner driver permit.
+(f) For each commercial driver license and commercial  learner driver permit, the Social Security
+number of the person to whom the license or permit is issued,  or any other number or identifying
+information that the Secretary of the United States Department of Transportation determines  ap-
+propriate to identify the person.
+(g) For each Real ID, the Social Security number of  the person to whom the Real ID is issued,
+or proof that the person is not eligible for a Social Security number.
+(h) Emergency contact information provided under ORS 802.275.
+(i) For each driver license, driver permit or  identification card, whether the applicant is
+issued the driver license, driver permit or identification card in an electronic format.
+(9) The Department of Transportation shall maintain a two-part  driving record consisting of an
+employment driving record and a nonemployment driving record for each  person as required under
+this subsection. All of the following apply to the records required under this subsection:
+(a) The  department shall maintain driving records on each person the department determines
+requires an Oregon driving record to comply with federal regulations or provisions of the vehicle
+code. The department shall establish rules for maintaining driving records under this subsection.
+(b) In addition to  other information required by this paragraph, the employment driving record
+shall include all reports of drug test results that are made to the department under  ORS 825.410 or
+825.415. Notwithstanding any other  provision of law, release of the portion of the employment driv-
+ing record that shows drug test results reported under ORS  825.410 or 825.415 is permitted only in
+[13]
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+accordance with ORS 802.202. The employment driving record shall also include all motor  vehicle
+accidents that the person is  required to report under ORS 811.720, all suspensions of driving privi-
+leges required to be placed on the record under  ORS 809.280, all suspensions of the person’s com-
+mercial driving privileges that result from operation or use of a  commercial motor vehicle and all
+convictions, as determined by the department by rule, of  the person for violation of motor vehicle
+laws except convictions for  offenses requiring mandatory revocation or suspension of driving privi-
+leges under ORS 809.409, 809.411, 809.510 to 809.545 and 813.400,  but shall include only such acci-
+dents, suspensions and convictions that occur while the person is driving a motor vehicle:
+(A) In the course of the person’s employment when the  person is employed by another for the
+principal purpose of driving a motor vehicle;
+(B) Carrying persons or property for compensation;
+(C) In the course of the person’s employment in  the collection, transportation or delivery of mail
+if the vehicle is government owned or marked for the  collection, transportation or delivery of mail
+in accordance with government rules;
+(D) That is an authorized emergency vehicle;
+(E) That is a commercial motor vehicle; or
+(F) In the course of the person’s employment with a federal, state or local  government in a
+public works project involving repair or maintenance of water, sewer or road systems.
+(c) The nonemployment driving record shall include the person’s:
+(A) Motor vehicle accidents that the person is required to report under ORS 811.720, other than
+the motor vehicle accidents that are included on the person’s employment driving record;
+(B) Suspensions, cancellations and revocations of licenses, permits and driving privileges;
+(C) Judgments and convictions,  as determined by the department by rule, for violation of the
+motor vehicle laws including, for each violation of ORS 811.100 or 811.111, the speed at which the
+person was convicted of traveling and the posted speed, the  speed limit or the speed that constitutes
+prima facie evidence of violation of the basic speed rule, as appropriate; and
+(D) Diversion agreements entered into under ORS 813.220 within the preceding 15 years.
+(d) The department may record other entries to  indicate correspondence, interviews, partic-
+ipation in driver improvement programs or other  matters concerning the status of the driving priv-
+ileges of the person.
+(e) When a person is issued a driver license or driver permit by this state, the department  may
+request a copy of driving records that exist for the person in any other jurisdiction.  The department
+shall adopt rules specifying when the department may request driving  records from other jurisdic-
+tions and may apply entries from out-of-state records for use in Oregon.
+(f) When  a suspension of a driver permit, driver license or other driving privilege is placed on
+the driving record under  ORS 809.280 for failure to appear in court on a traffic crime, the depart-
+ment shall note on the record that the suspension was for failure to appear  in court and shall also
+note the offense charged against the person on which the person failed to appear.
+(g) The Department of Transportation, in  consultation with the Department of State Police, shall
+devise and implement a method of noting suspensions and revocations of  driving privileges on the
+record in such a way that police agencies  can determine directly from the record what class of of-
+fense, as provided by law, is committed by a person who  drives in violation of the suspension or
+revocation. If the Department of Transportation and the Department of State  Police devise a mutu-
+ally agreeable alternative method of informing police agencies of the nature of a suspension or  re-
+vocation and the  consequences of its violation, the implementation of that method shall satisfy the
+[14]
+SB 416
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+duty of the Department of Transportation under this paragraph.
+(10) The department shall  maintain accident reports filed with the department under ORS
+810.460 and 811.725 to 811.735.
+(11) The department shall maintain records of bank checks  or money orders returned under ORS
+802.110.
+(12) The department shall maintain records of trip permits issued  by the department under ORS
+803.600, as provided  under this subsection. The records required by this subsection shall include the
+following:
+(a) A description of the vehicle sufficient to identify the vehicle.
+(b) The person to whom the permit was issued.
+(c) When the permit was issued.
+(d) The type of permit issued.
+(e) For registration weight trip permits, the maximum allowable  registration weight permitted
+for operation under the permit.
+(f) Any other information the department determines appropriate or convenient.
+[15]

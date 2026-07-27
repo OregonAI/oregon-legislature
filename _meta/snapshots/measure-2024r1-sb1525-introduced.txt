@@ -1,0 +1,427 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1525
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Energy and Environment)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act extends dates for a state agency to  submit certain reports. The Act extends
+dates for the agency and others to develop goals  for carbon storage. The Act changes parts of a
+grant program to support renewable energy projects. (Flesch Readability Score: 60.0).
+Extends the  deadlines for certain reports by the State Department of Energy. Extends by one
+year the deadline  for the establishment of nonbinding biological carbon sequestration and storage
+goals for  natural and working lands. Modifies provisions of the Community Renewable Investment
+Program.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to the State Department of Energy; creating new provisions; amending ORS 468A.193 and
+468A.195 and sections 29 and 31, chapter 508, Oregon Laws 2021, section 16, chapter 99, Oregon
+Laws 2022, and sections 60 and 61, chapter 442, Oregon  Laws 2023; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 468A.195 is amended to read:
+468A.195. (1) The State Department of Energy and the Oregon Climate Action Commission, in
+coordination with the State Forestry Department,  the State Department of Agriculture, the Oregon
+Watershed Enhancement Board, the Department of State Lands,  the Department of Land Conserva-
+tion and Development and federal  land management partners, shall develop a natural and working
+lands net biological carbon sequestration and storage inventory. The inventory must:
+(a) Be based on the best available field-based and  remote sensing data on biological carbon
+sequestration;
+(b) To the greatest extent possible,  be developed using methods consistent with methods used
+to assess greenhouse gas fluxes related to land use, land change and forestry  for the United States
+Environmental Protection Agency’s Inventory of U.S. Greenhouse Gas Emissions and Sinks; and
+(c) Where feasible,  utilize information from the environmental justice mapping tool developed
+under ORS 182.555.
+(2) Before finalizing  the inventory, the State Department of Energy and the commission shall
+make a draft version publicly available and receive comments from the public, state agencies and
+the advisory committee established under ORS 468A.197.
+(3) The State Department of Energy shall update the inventory and submit a report  describing
+the inventory to the Oregon Climate  Action Commission no later than December 1 of each [ even-
+numbered] odd-numbered year.
+(4) The State Department  of Energy may contract with a third party to assist the department
+in performing its duties under this section.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 236
+SB 1525
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 2.
+ Section 60, chapter 442, Oregon Laws 2023, is amended to read:
+Sec. 60.  (1) The State Department of  Energy, in coordination with the Oregon Climate Action
+Commission, shall study the workforce and training  programs needed to support adoption of natural
+climate solutions on natural and working lands.
+(2) The department shall provide the results of the  study, and may include recommendations for
+legislation, in a report to the committees of the Legislative Assembly related to  the environment,
+in the manner provided under ORS 192.245, no later than September 15, [ 2024] 2025.
+(3) The department may  contract with a third party to assist the department in performing its
+duties under this section.
+SECTION 3. Section 61, chapter 442, Oregon Laws 2023, is amended to read:
+Sec. 61.  Section 60 , chapter 442, Oregon Laws 2023,  [ of this 2023 Act ] is repealed on  January
+2, [2025] 2026.
+SECTION 4.  ORS 468A.193 is amended to read:
+468A.193. (1) The State Department of Energy and the Oregon Climate Action  Commission shall,
+in coordination with the State Forestry Department, the State  Department of Agriculture, the State
+Department of Fish and Wildlife, the Oregon Watershed Enhancement Board the  Department of
+State Lands, the State Parks and Recreation Department and  the Department of Land Conservation
+and Development, and in consultation with relevant federal agencies, establish and maintain:
+(a) A net biological carbon sequestration and storage baseline for natural and working lands;
+(b) Activity-based metrics in accordance with subsection (3) of this section; and
+(c) Community impact metrics in accordance with subsection (4) of this section.
+(2) The net biological carbon sequestration  and storage baseline may use 1990 as a baseline year
+if the department determines that there  is adequate information to support setting the baseline at
+that year.
+(3) Activity-based metrics shall be used to evaluate progress toward increasing  net biological
+carbon sequestration and storage in natural and working  lands, as measured against the net carbon
+sequestration and storage baseline. Activity-based metrics may include, but need not be limited  to,
+acres of lands for which certain management practices have been adopted.
+(4) Community  impact metrics shall be used to evaluate the positive and negative effects, over
+time, of strategies for net biological carbon sequestration and storage in natural  and working lands
+on landowners, land managers  and communities. Community impact metrics may include, but need
+not be limited to:
+(a) Metrics to measure the  effects of net biological carbon sequestration and storage strategies
+on jobs, local economies, environmental integrity and public health; and
+(b) Metrics to evaluate the accessibility of a diverse range  of landowners to net biological car-
+bon sequestration and storage programs.
+(5) Before finalizing the net biological carbon sequestration and storage baseline, activity-based
+metrics and community impact metrics, the State Department of Energy and the commission shall
+make draft versions publicly available and receive comments from the public, state agencies and  the
+advisory committee established under ORS 468A.197.
+(6) The State Department of Energy and the Oregon Climate  Action Commission, in consultation
+with the State  Forestry Department, the State Department of Agriculture, the Oregon Watershed
+Enhancement Board, the State Department  of Fish and  Wildlife, shall[ , no later than January 1,
+2025,] establish nonbinding biological carbon sequestration and storage goals for Oregon’s  natural
+and working lands and update those goals as new information becomes available.
+[2]
+SB 1525
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(7) The State Department of Energy may contract with a third party to  assist the department
+in performing its duties under this section.
+SECTION 5.
+The State Department of Energy shall ensure  that the nonbinding biological
+carbon sequestration and storage goals for Oregon’s  natural and working lands described in
+ORS 468A.193 (6) are first established no later than January 1, 2026.
+SECTION 6.  Section 16, chapter 99, Oregon Laws 2022, is amended to read:
+Sec. 16. Notwithstanding ORS 469.064 (4), the State Department of Energy shall submit the
+first energy security plan developed under [ section 12  of this 2022 Act ] ORS 469.064  in a report to
+the interim  committees of the Legislative Assembly related to energy, in the manner provided under
+ORS 192.245, no later than [ June 1,] September 30,  2024.
+SECTION 7.  Section 29, chapter 508, Oregon Laws 2021, is amended to read:
+Sec. 29.  As used in sections 29 to 32 , chapter 508, Oregon Laws 2021  [ of this 2021 Act ]:
+(1) “Community renewable energy project” means one or more renewable  energy systems, stor-
+age systems, microgrids or energy-related  infrastructures that promote energy resilience, increase
+renewable  energy  generation or renewable energy storage capacity and provide a direct benefit to
+a particular community  in the form of increased community energy resilience, local jobs, economic
+development or direct energy costs savings to families and small businesses.
+(2) “Community energy resilience” means the ability of a specific community to maintain the
+availability of energy needed to support the provision of energy-dependent  critical public services
+to the community following nonroutine disruptions of severe impact or  duration to the state’s
+broader energy systems.
+(3) “Community energy resilience project” means a community renewable energy project that
+includes utilizing one or  more renewable energy systems to support the energy resilience of struc-
+tures or facilities that are essential to the public welfare.
+(4) “Consumer-owned utility” means a municipal electricity utility, a  people’s utility district or-
+ganized under ORS chapter 261 that sells electricity or  an electric cooperative organized under ORS
+chapter 62.
+(5) “Energy  resilience” means the ability of energy systems, from production through delivery
+to end-users, to withstand and restore energy  delivery rapidly following nonroutine disruptions of
+severe impact or duration.
+(6) “Planning costs” means the costs related  to planning paid by an applicant , or an applicant’s
+partner, described under section 30 , chapter 508, Oregon Laws 2021  [ of this 2021 Act ].
+(7) “Project cost” means the actual cost of the acquisition, construction  and installation of a
+renewable energy system incurred by an applicant , or an applicant’s partner,  described under
+section 30 , chapter  508, Oregon Laws 2021,  [ of this 2021 Act ] for the system, before considering
+utility incentives.
+(8) “Public body” means a public body as defined in ORS 174.109.
+(9) “Qualifying community” means a community that qualifies  as an environmental justice com-
+munity as defined in ORS 469A.400 [ section 1 of this 2021 Act ].
+(10) “Renewable energy system” includes:
+(a) A  system that uses biomass, solar, geothermal, hydroelectric, wind, landfill gas, biogas or
+wave, tidal or ocean thermal energy technology to produce energy.
+(b) One or more energy storage systems paired  with an existing or newly constructed system
+described in paragraph (a) of this subsection.
+(c) One or more vehicle charging stations paired with an  existing or newly constructed system
+[3]
+SB 1525
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+described in paragraph (a) of this subsection.
+(d) Microgrid enabling technologies, including microgrid controllers and any other  related
+technologies needed to electrically isolate a  community energy resilience project from the electric
+grid so that the project is capable of operating independently from the electric grid.
+SECTION 8.
+ Section 31, chapter 508, Oregon Laws 2021, is amended to read:
+Sec. 31.  (1)(a) A performance agreement  for planning a community renewable energy project
+entered into between  the State Department of Energy and an applicant under section 30 (9) , chapter
+508, Oregon Laws 2021,  [ of this 2021 Act ] must provide, at a minimum:
+(A) A grant in an amount described in paragraph (b) of this subsection that covers up to  100
+percent of the reasonable planning costs including, but not limited to, costs associated with:
+(i) Consulting fees.
+(ii) Load analysis.
+(iii) Siting, excluding property acquisition.
+(iv) Ensuring code compliance.
+(v) Interconnection studies.
+(vi) Transmission studies.
+(vii) Other reasonable expenditures made  in the community renewable energy project planning
+process as determined by the department by rule.
+(B) A grant may not be  used to cover any fixed costs the applicant would incur in the
+applicant’s normal course of business such as existing staff salaries or overhead costs.
+(C) The department may recover grant moneys if a project fails to abide by the  performance
+agreement or  if planning is not completed within six months of execution of the performance
+agreement or a reasonable time  frame if good cause to extend the deadline is demonstrated as de-
+termined by rule.
+(b) The department may establish differing limits on the maximum amount  of grants for planning
+community renewable energy projects based on the scope and  attributes of the planning applications
+not to exceed an amount of $100,000 per grant.
+(c) Notwithstanding paragraph (a) of this subsection, the department may  provide a grant that
+covers  up  to 100 percent of the reasonable planning costs only if the application demonstrates the
+planning proposal is for a community renewable energy project that:
+(A) If for producing energy:
+(i) Will make use of an adequately available renewable energy resource to produce the energy;
+(ii) Has a specific market for the energy; and
+(iii) Will reasonably and efficiently  connect or transmit the energy to the specific community
+identified in  the application under section 30 (3) , chapter 508, Oregon Laws 2021  [ of this 2021
+Act]; or
+(B) If for increasing energy resilience:
+(i) Will increase  the energy resilience of a specific structure or facility or collection of struc-
+tures or facilities essential to the public welfare; and
+(ii) Will provide energy resilience benefits to the specific structure or facility or to  the col-
+lection of structures or facilities.
+(2) A performance agreement for developing a community renewable energy project entered into
+between the State Department of Energy  and an applicant under section 30 (9) , chapter 508,
+Oregon Laws 2021, [ of this 2021 Act ] must provide, at a minimum:
+(a) For a  community renewable energy project that qualifies as a community energy resilience
+[4]
+SB 1525
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+project, a grant that covers up to 100 percent of  the project cost not to exceed $1 million. The de-
+partment shall reduce the grant amount, if the grant  combined with other incentives and grants
+received by the applicant or a partner of the applicant  exceeds 100  percent of the total costs as-
+sociated with the project.
+(b) For a community renewable energy project that does not qualify as a  community energy
+resilience project, a grant that covers up to 50 percent of the project cost  not to exceed $1 million.
+The department shall  reduce the grant amount, if the grant combined with other incentives and
+grants received by the applicant or a partner  of the applicant exceeds 100 percent of the total
+costs associated with the project.
+(c) The department may release up to 30 percent of the grant moneys provided for in  a per-
+formance agreement, not to exceed 30 percent of project  cost, upon entering into a performance
+agreement with an applicant for developing a community renewable energy project, with the re-
+maining grant moneys to be released upon project completion under  the terms of the performance
+agreement, if upon entering the performance agreement the applicant demonstrates that the appli-
+cant or a partner of the applicant have [having]:
+(A) Taken meaningful steps to  seek site control, including but not limited to an option to lease
+or purchase the site or an executed letter of intent or exclusivity agreement to  negotiate an option
+to lease or purchase the site;
+(B) Filed a request for interconnection with a host utility or appropriate transmission provider;
+and
+(C) Met any other  requirements provided by the department by rule, such as filing a request for
+a power purchase or net metering agreement.
+(d) The department may recover grant moneys if:
+(A) The project fails to abide by the performance agreement;
+(B) The  project fails to begin construction within 12 months of execution of the performance
+agreement or a reasonable time  frame if good cause to extend the deadline is demonstrated as de-
+termined by rule; or
+(C) The project is not completed  within 36 months of execution of the performance agreement
+or a  reasonable time frame if good cause to extend the deadline is demonstrated as determined by
+rule.
+(3) The department  shall gather information from grantees necessary to evaluate indicators of
+success as determined by rule.
+SECTION 9.
+This 2024 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2024 Act takes effect
+on its passage.
+[5]

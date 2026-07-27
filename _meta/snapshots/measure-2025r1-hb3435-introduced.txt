@@ -1,0 +1,528 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3435
+Sponsored by Representatives NERON, PHAM H, JAVADI, Senator REYNOLDS; Representative  HUDSON, Senator
+MEEK
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes school meals available at no cost. (Flesch Readability Score: 75.5).
+Phases in the requirement that school districts offer lunch and breakfast to students at  no
+charge, regardless of household income.
+Requires school districts that make breakfast accessible at a school site to make breakfast  ac-
+cessible at the school site after the beginning of the day. Provides exceptions.
+Prescribes nutrition standards for reimbursable meals that are paid for by state sources.
+Directs the Department of Education to  apply for statewide participation in federal programs
+and projects that expand the availability of free or reduced price meals.
+Appropriates moneys to the Department of Education from the  General Fund for the purposes
+of paying any costs owed by parents or guardians for costs previously incurred for a reimbursable
+meal and assisting school districts in  purchasing or upgrading equipment necessary to comply with
+the expanded provision of free lunches and breakfasts.
+Declares an emergency, effective July 1, 2025.
+A BILL FOR AN ACT
+Relating to school meals;  creating new provisions; amending ORS 327.531, 327.535 and 327.545; and
+declaring an emergency.
+Whereas during the  COVID-19 pandemic, the provision of school meals at no cost was widely
+used by students and supported by parents, teachers, administrators and school nutrition  profes-
+sionals; and
+Whereas school meals  at no cost in this state resulted in improved academic and social out-
+comes, attendance and health outcomes  while reducing food insecurity and behavioral discipline
+rates; and
+Whereas more than 98 percent of schools in this state that are eligible to serve school  meals
+at no cost have opted to do so; and
+Whereas compared to the free and reduced price meal model,  school meals at no cost reduce
+administrative costs  and overhead and result in investing in higher quality ingredients, preparation
+and service; and
+Whereas Oregon currently reimburses many participating schools through the  Community El-
+igibility Provision Incentive Reimbursement Program at only 90 percent of the federal  reimburse-
+ment rate, resulting in reduced meal quality and lower worker pay; and
+Whereas the most effective strategies to reduce food  waste are to serve higher quality meals
+that students want to  eat and to ensure that students have ample time to eat the food they are
+served; and
+Whereas universal meal programs remove the stigma of school  meals and often result in more
+meals being served; and
+Whereas additional meals being served can result in longer meal service times, less seat  time
+for students and more food waste; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 816
+HB 3435
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Whereas ensuring that schools have the equipment to  implement universal meal programs en-
+sures that students are served quickly and have time to eat and reduces food waste; and
+Whereas nonprofit school meal programs  have limited grant options for equipment improvements
+that would result in more scratch cooking, quicker meal service, better meals and  longer seat time;
+and
+Whereas the 2012 nutrition standards for school meals promulgated by the United  States De-
+partment of Agriculture were estimated to save up to $792 million  in health care related costs over
+10 years; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 327.531 is amended to read:
+327.531. (1)(a) A school or school  district that meets the eligibility requirements of the special
+provisions  of  the United States Department of Agriculture’s National School Lunch Program or
+School Breakfast Program may apply to the Department of Education to offer reimbursable
+breakfasts, lunches or both at no charge and without  consideration of individual eligibility [ by ap-
+plying to the Department of Education ].
+(b) If the school or school district is approved under paragraph (a) of this subsection, the school
+or school district must offer breakfasts, lunches or both to  all students of the school or school dis-
+trict at no charge to the student.
+(c) For each breakfast or  lunch that a school or school district provides at no charge as de-
+scribed in this  subsection, the Department of Education shall provide reimbursement pursuant to
+ORS 327.545 (2).
+(2)(a) If a school or school district does not offer reimbursable  breakfasts or lunches as de-
+scribed in subsection (1) of this section, the school district :
+(A) May ensure that each school of the school district:
+(i) Offers lunch at no charge to students.
+(ii) Offers breakfast at no charge to students, if breakfast must  be offered pursuant to
+ORS 327.535.
+(B) If the school district does  not elect to provide breakfast and lunch as described in
+subparagraph (A) of this paragraph,  must ensure that each school of the school district:
+[(A)] (i) Offers lunch at no charge  to students from households with incomes that do not exceed
+300 percent of the federal poverty guidelines.
+[(B)] (ii) Offers breakfast at no charge to  students from households with incomes that do not
+exceed 300 percent of the federal poverty guidelines, if breakfast must be offered pursuant to ORS
+327.535.
+(b) For each breakfast or lunch that a school or school district provides  at no charge as de-
+scribed in this subsection, the Department of Education shall provide reimbursement  pursuant to
+ORS 327.545 (3).
+(3) Notwithstanding subsections (1) and (2) of this  section, a school or school district is not re-
+quired to provide breakfast or lunch at no charge to students if :
+(a) The Department of Education has insufficient funds to provide reimbursement pursuant  to
+ORS 327.545 (2) or (3). The State Board of Education shall adopt rules that describe:
+[(a)] (A) The method for determining when the department has insufficient funds;
+[(b)] (B) The content and timing of the notice to be provided to school districts when the de-
+partment determines that the department has insufficient funds; and
+[(c)] (C) The procedures the school or school district must follow upon receiving notice  of in-
+[2]
+HB 3435
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+sufficient funds.
+(b) The  Department of Education determines, based on criteria established by the State
+Board of Education by rule, that providing breakfast  or lunch at no charge to students would
+create a financial hardship for the school or school district due to  changes in federal law
+related to eligibility  requirements for providing reimbursable breakfast and lunch at no
+charge to all students without consideration of individual eligibility for free  or reduced price
+meals.
+(4) To the greatest extent practicable, the Department  of Education shall apply for
+statewide participation in federal programs and projects that expand the availability of free
+or reduced price meals for the students of this state.
+SECTION 2.
+ ORS 327.545 is amended to read:
+327.545. (1) For  school districts with schools that provide United States Department of Agricul-
+ture reimbursable meals to students as described in ORS 327.531 and  327.535, the Department of
+Education shall reimburse  the school districts for costs incurred by the school districts in providing
+the meals.  The amounts of the reimbursements may not exceed the amounts prescribed by sub-
+sections (2) and (3) of this section.
+(2) For schools that offer reimbursable breakfast and lunch at no charge to all students of the
+school without consideration of individual eligibility for free or reduced price  meals as described in
+ORS 327.531 (1), the amount  of reimbursements provided under this section may not exceed the dif-
+ference between:
+(a) The free reimbursement rate established by  the United States Department of Agriculture for
+reimbursable meals; and
+(b) Any amounts otherwise reimbursed or paid by state, federal or other sources.
+(3) For schools that offer reimbursable breakfast and  lunch at no charge to students [ from
+households with incomes that do not exceed 300 percent of  the federal poverty guidelines ] as described
+in ORS 327.531 (2), the amount of reimbursements provided under this section [ may not exceed ] shall
+equal the difference between:
+(a) The free reimbursement rate established by  the United States Department of Agriculture for
+reimbursable meals; and
+(b) Any amounts otherwise reimbursed or paid by state, federal or other sources.
+(4) The State Board of Education  may adopt any rules necessary for making reimbursements
+under this section.
+SECTION 3.
+ ORS 327.531, as amended by section 1 of this 2025 Act, is amended to read:
+327.531. (1)(a) A school or school district that meets the  eligibility requirements of the special
+provisions of the United States Department of Agriculture’s National School Lunch Program  or
+School Breakfast Program  [ may] must apply to the Department of Education to offer reimbursable
+breakfasts, lunches or both at no charge and without consideration of individual eligibility.
+(b) If the school or school district is approved under paragraph (a) of this subsection, the school
+or school district must offer breakfasts, lunches or both to  all students of the school or school dis-
+trict at no charge to the student.
+(c) For each breakfast or  lunch that a school or school district provides at no charge as de-
+scribed in this  subsection, the Department of Education shall provide reimbursement pursuant to
+ORS 327.545 (2).
+(2)(a) If a school or school district does not offer reimbursable  breakfasts or lunches as de-
+scribed in subsection (1) of this section, the school district[ :]
+[3]
+HB 3435
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(A) May ] must ensure that each school of the school district:
+[(i)] (A) Offers lunch at no charge to students.
+[(ii)] (B) Offers breakfast at no charge to students, if breakfast must be offered pursuant to  ORS
+327.535.
+[(B) If the school district does not elect to provide breakfast and lunch as described  in subpara-
+graph (A) of this paragraph, must ensure that each school of the school district: ]
+[(i) Offers lunch at  no charge to students from households with incomes that do not exceed 300
+percent of the federal poverty guidelines. ]
+[(ii) Offers breakfast at no charge to students from households with incomes that do not exceed  300
+percent of the federal poverty guidelines, if breakfast must be offered pursuant to ORS 327.535. ]
+(b) For each breakfast or lunch that a school or school district provides  at no charge as de-
+scribed in this subsection, the Department of Education shall provide reimbursement  pursuant to
+ORS 327.545 (3).
+(3) Notwithstanding subsections (1) and (2) of this  section, a school or school district is not re-
+quired to provide breakfast or lunch at no charge to students if:
+(a) The Department of Education has insufficient  funds to provide reimbursement pursuant to
+ORS 327.545 (2) or (3). The State Board of Education shall adopt rules that describe:
+(A) The method for determining when the department has insufficient funds;
+(B) The content and  timing of the notice to be provided to school districts when the department
+determines that the department has insufficient funds; and
+(C) The procedures the school or  school district must follow upon receiving notice of insufficient
+funds.
+(b) The Department of Education determines, based on  criteria established by the State Board
+of Education by rule, that providing breakfast or lunch  at no charge to students would create a fi-
+nancial hardship for the school or  school district due to changes in federal law related to eligibility
+requirements for providing  reimbursable breakfast and lunch at no charge to all students without
+consideration of individual eligibility for free or reduced price meals.
+(4) To the greatest extent  practicable, the Department of Education shall apply for statewide
+participation in federal programs and projects that expand the  availability of free or reduced price
+meals for the students of this state.
+SECTION 4.
+ ORS 327.535 is amended to read:
+327.535. (1) As used in this section, “eligible student” means  a student who is eligible for free
+or reduced price meals under the United  States Department of Agriculture’s National School Lunch
+Program or School Breakfast Program.
+(2) A school district may make breakfast accessible at any school  site and shall make breakfast
+accessible if required by this section.
+(3) Subject to [ subsections (4) and (5) ] subsection (4)  of  this section, a school district that pro-
+vides lunch at any school site shall  make breakfast accessible as part of a breakfast program if 25
+percent or more of the students at the school site are eligible students or the school site qualifies
+for assistance under Chapter I of Title I of the  federal Elementary and Secondary Education Act
+of 1965.
+(4) A  school district that makes breakfast accessible as provided under subsection (3) of this
+section  may  apply to the Department of Education for a waiver for all or for particular grade levels
+if the school district  is financially unable to implement a breakfast program. The department may
+grant a waiver to the school district for a  period not to exceed two years, after which the school
+[4]
+HB 3435
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+district must reestablish its claim of financial hardship if the waiver is to be extended.
+[(5) If the per meal federal reimbursement for the  breakfast program falls below the 1991 re-
+imbursement levels, a school district may elect to discontinue the program until federal funding is re-
+stored to those levels. No waiver is required for such election. ]
+[(6)] (5) A school  district that makes breakfast accessible at any school site shall make breakfast
+accessible at that school site at no charge as provided by ORS 327.531 (1) or  (2). The department
+shall provide reimbursement to the school district for each breakfast provided at  no charge as pro-
+vided by ORS 327.545.
+[(7)(a)] (6)(a) Except as provided by [ subsection (8) of this section ] paragraph (e) of  this sub-
+section, a school district that makes  breakfast accessible at a school site [ may choose to ] must
+make breakfast accessible at that school site after the beginning of the school day.
+(b) Time spent by students consuming breakfast is considered instructional time  when students
+consume breakfast in the students’ classroom  and instruction is being provided while students are
+consuming breakfast. No more than 15 minutes may be considered instructional time  when students
+are consuming breakfast.
+[(8)(a) If 70 percent or more of the students at a school site are eligible students, the school district
+must make breakfast accessible at that school site after the beginning of the school day. ]
+[(b)] (c) A school district that [ is required to make breakfast accessible as prescribed by  para-
+graph (a) of this subsection ] makes breakfast accessible  must ensure that breakfast is:
+(A) Accessible to all students after the beginning of the school day,  regardless of grade or ar-
+rival time; and
+(B) Provided at no charge  to all students[ , regardless of whether a student is an eligible
+student].
+[(c)] (d) The department shall provide technical assistance to school districts to meet the  re-
+quirements of this subsection. Technical assistance may include the development of breakfast de-
+livery models.
+[(d)] (e) [ Notwithstanding paragraph (a) of this subsection, ] If a school  district can demonstrate
+that 70 percent or more of the [ eligible] students at a school site who regularly receive lunch at
+the school site also  regularly receive breakfast at the school site without  the school district com-
+plying with paragraph (a) of this subsection,  the school district is not required to comply with par-
+agraph (a) of this subsection.
+[(9)(a)] (7)(a) The  department may award grants or enter into contracts to enable school dis-
+tricts to make breakfast accessible as required under subsection [ (8)] (6) of this section. Each grant
+or contract may not exceed $5,000 per school site and must  be used to purchase or upgrade neces-
+sary equipment required to provide breakfast after the beginning of the school day.
+(b) The department may enter into a contract with a  public or private entity for the purposes
+of the entity providing:
+(A) Technical assistance to applicants for and recipients of grants; and
+(B) Administration of the grant program.
+[(10)] (8) The State Board of Education  may adopt any rules necessary for the implementation
+of this section.
+SECTION 5.
+ ORS 327.545, as amended by section 2 of this 2025 Act, is amended to read:
+327.545. (1) For school districts with schools that provide United States Department  of Agricul-
+ture reimbursable meals to students  as described in ORS 327.531 and 327.535, the Department of
+Education shall reimburse the school districts for costs  incurred by the school districts [ in providing
+[5]
+HB 3435
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+the meals. The amounts of the reimbursements may not exceed the amounts prescribed  by subsections
+(2) and (3) of this section. ] as provided by this section.
+(2) Reimbursement shall be provided by state sources to school districts:
+(a) For meals that meet the stricter of the following nutrition standards:
+(A) The nutrition standards prescribed by federal law for reimbursable meals; or
+(B) The nutrition standards  prescribed by 7 C.F.R. 210.10 and 220.8, as required to be
+implemented by July 1, 2027, as in effect on July 1, 2024.
+(b) In amounts that do not exceed the amounts prescribed  by subsections (3) and (4) of
+this section.
+[(2)] (3) For  schools that offer reimbursable breakfast and lunch at no charge to all students of
+the school without consideration of individual eligibility  for free or reduced price meals as described
+in ORS 327.531 (1), the amount of reimbursements provided under  this section may not exceed the
+difference between:
+(a) The free reimbursement rate established by  the United States Department of Agriculture for
+reimbursable meals; and
+(b) Any amounts otherwise reimbursed or paid by state, federal or other sources.
+[(3)] (4) For schools  that offer reimbursable breakfast and lunch at no charge to students as
+described in ORS 327.531 (2), the amount of reimbursements provided under this section shall equal
+the difference between:
+(a) The free reimbursement rate established by  the United States Department of Agriculture for
+reimbursable meals; and
+(b) Any amounts otherwise reimbursed or paid by state, federal or other sources.
+[(4)] (5) The State Board of Education may adopt  any rules necessary for making reimburse-
+ments under this section.
+SECTION 6.
+(1) The amendments to  ORS 327.531, 327.535 and 327.545 by sections 3 to 5
+of this 2025 Act become operative on July 1, 2026.
+(2) The amendments  to ORS 327.531, 327.535 and 327.545 by sections 3 to 5 of this 2025
+Act first apply to the 2026-2027 school year.
+SECTION 7. In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Department of Education,  for the biennium beginning July 1, 2025, out of the
+General Fund, the amount of $4,000,000, which may be expended for:
+(1) Paying any costs owed  by parents or guardians for costs incurred before the effective
+date of this 2025 Act for a reimbursable meal; and
+(2) Assisting  school districts in purchasing or upgrading equipment necessary to ensure
+compliance with the amendments to ORS 327.531 and 327.535 by sections 3 and 4 of  this 2025
+Act.
+SECTION 8. This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+July 1, 2025.
+[6]

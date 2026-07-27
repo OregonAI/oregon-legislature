@@ -1,0 +1,162 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 688
+Sponsored by Senators PHAM K, GOLDEN; Representatives GAMBA, SOSA (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells the PUC to reward or  penalize power companies based on how well the companies
+meet certain metrics.  Tells the PUC to report on how well the companies are doing. (Flesch Read-
+ability Score: 70.3).
+Directs the Public Utility Commission to adopt not later than January 2, 2027,  a framework for
+carrying out performance-based regulation of electric utilities. Requires the  use of incentives and
+penalties to induce electric utilities to bring electric utility  operations in line with the public in-
+terest and certain objectives. Declares a public interest for purposes of the Act.
+Requires the commission to  provide a report on the framework adopted by the commission to
+the interim committees or committees  of the Legislative Assembly related to energy not later than
+March 15, 2027.
+Requires the commission to provide a report  on the progress and effectiveness of using
+performance-based regulation to the interim committees or committees of the Legislative  Assembly
+related to energy not later than November 15, 2028.
+A BILL FOR AN ACT
+Relating to performance-based regulation of electric utilities.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS chapter 757.
+SECTION 2. (1) As used in this section:
+(a) “Anthropogenic gases and  atmospheric pollutants” includes carbon dioxide, methane,
+nitrogen oxides, sulfur oxides, mercury, hydrofluorocarbons, perfluorocarbons and sulfur
+hexafluoride.
+(b) “Distributed energy resource”  means a small-scale energy system or mechanism that
+is located behind-the-meter and that generates  or stores energy, works to balance and match
+energy demand with energy supply or manages energy use for a customer.
+(c) “Electric  utility” means a public utility that produces, transmits, delivers or furnishes
+electric power.
+(2) For purposes of this section,  the Legislative Assembly declares that the public inter-
+est includes:
+(a) Reducing greenhouse gas emissions;
+(b) Increasing energy efficiency;
+(c) Improving electric utility reliability and resiliency;
+(d) Developing distributed energy resources;
+(e) Enhancing services for low-income customers; and
+(f) Improving the efficiency of utility operations to reduce costs to ratepayers.
+(3) The Public Utility Commission shall investigate, develop and adopt  a framework for
+carrying out performance-based regulation of electric utilities.  The commission shall use
+performance-based regulation to provide incentives  and penalties to induce electric utilities
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1991
+SB 688
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+to bring electric utility  operations in line with the public interest as declared under sub-
+section (2) of this section and to, at a minimum:
+(a) Reduce the emissions of anthropogenic gases and atmospheric pollutants;
+(b) Expand the use of distributed energy resources,  community solar projects, micro-
+grids, demand response programs and energy efficiency programs;
+(c) Enhance the quality, reliability and resiliency of electricity service in this state;
+(d) Offer flexible  payment plans that reduce disconnections of electricity service for
+low-income customers and other programs that address  the quality and affordability of
+electricity services for all customers; and
+(e) Improve all aspects of utility  operations to reduce costs and pass on savings to
+ratepayers.
+(4) The framework adopted under this section must:
+(a) Provide for performance standards and a  baseline from which performance is meas-
+ured;
+(b) Provide for performance metrics that are clear, objective, verifiable and achievable
+for measuring an electric utility’s performance;
+(c) Describe how the performance standards and metrics are to be carried out;
+(d) Identify actions  and mechanisms that an electric utility may carry out or implement
+to meet performance standards; and
+(e) Provide an electric utility incentives or penalties based on an electric utility’s  per-
+formance.
+(5) In developing incentives and penalties under this  section, the commission shall take
+into consideration the impacts of those incentives and penalties on  rates paid by ratepayers.
+(6) In addition to providing for performance metrics that are subject to  incentives or
+penalties, the commission shall  establish performance metrics that are not subject to in-
+centives or  penalties but are reportable and shall require each electric utility to file with the
+commission an annual report on the electric utility’s performance as measured  by those re-
+portable performance metrics.
+SECTION 3.
+The Public Utility Commission shall adopt a framework for  carrying out
+performance-based regulation of electric utilities under section 2 of this 2025 Act  no later
+than January 2, 2027.
+SECTION 4. (1) No later than March 15, 2027, the Public Utility Commission shall  provide
+a report on the framework for carrying out performance-based regulation of electric  utilities
+that is adopted under section 2 of this 2025 Act, in the manner  provided by ORS 192.245, and
+may include recommendations for legislation, to the interim committees or committees of
+the Legislative Assembly related to energy.
+(2) No later than November 15, 2028, the commission shall provide  a report on the
+progress and effectiveness  of using performance-based regulation of electric utilities to meet
+the state’s public interest and objectives under section 2 of this 2025 Act, in the manner
+provided by ORS 192.245, and may include recommendations for  legislation, to the interim
+committees or committees of the Legislative Assembly related to energy.
+SECTION 5.
+Section 4 of this 2025 Act is repealed on January 2, 2029.
+[2]

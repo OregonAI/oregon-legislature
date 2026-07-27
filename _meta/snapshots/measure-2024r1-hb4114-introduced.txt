@@ -1,0 +1,174 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4114
+Sponsored by Representative SANCHEZ; Representatives BOICE,  FAHEY, GOMBERG, HARTMAN, HELM, HIEB,
+LEVY B, LIVELY, MARSH, NATHANSON, OWENS, PHAM H,  WALTERS, Senators DEMBROW,
+FREDERICK, GOLDEN, HANSELL, STEINER (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes current laws about  where police may take a person who is in public
+while on drugs or drunk. The  Act expands how long a person may be held after being given an
+opioid reversal drug. (Flesch Readability Score: 71.7).
+Permits a police officer to take a person who is publicly intoxicated  or under the influence of
+controlled substances, but who is not incapacitated, to their dwelling or,  if the person is unable to
+identify a dwelling, to a treatment facility or sobering facility. Allows  a person who has recently
+received  an  opioid reversal medication to be admitted to a treatment facility or sobering facility
+until the person  is medically stable and has had a reasonable opportunity to engage in case man-
+agement, or 72 hours after admission, whichever occurs first.
+A BILL FOR AN ACT
+Relating to behavioral health; amending ORS 430.399.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 430.399 is amended to read:
+430.399. [(1) Any person who is intoxicated or under  the influence of controlled substances in a
+public place may be sent home or taken to a  sobering facility or to a treatment facility by a police of-
+ficer. If the person is incapacitated, the person shall be taken by the police officer to an  appropriate
+treatment facility or  sobering facility. If the health of the person appears to be in immediate danger,
+or the police officer has reasonable cause to believe the person is dangerous to  self or to any other
+person, the person shall  be taken by the police officer to an appropriate treatment facility or sobering
+facility. A person  shall be deemed incapacitated when in the opinion of the police officer the person is
+unable to make a rational decision as to acceptance of assistance. ]
+(1) A person shall be deemed incapacitated under this section when the  person is unable
+to make a rational decision as to whether to accept assistance.
+(2)(a) If a police officer encounters in a public place a person who is intoxicated or  who
+is under the influence of controlled substances,  but who the police officer reasonably believes
+is not incapacitated, the police officer or the police officer’s designee may  take the person
+to:
+(A) The person’s dwelling, if the person is able to identify a dwelling; or
+(B) An appropriate treatment facility or sobering facility.
+(b) If a police officer encounters  in a public place a person who is intoxicated, who is
+under the  influence of controlled substances or who the police officer reasonably believes
+recently received an opioid reversal medication, the police  officer or the police officer’s
+designee shall take the person to a treatment facility or sobering facility, if the  police officer
+reasonably believes:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 120
+HB 4114
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) The person received an opioid reversal medication within the last four hours;
+(B) The person is incapacitated;
+(C) The health of the person is in imminent danger; or
+(D) The person is dangerous to self or to any other person.
+[(2)] (3)(a)  When a person is taken to a treatment facility, the director of  the treatment facility
+shall determine whether the  person shall be admitted as a patient, referred to another treatment
+facility [ or a ], referred to a sobering facility or denied referral or admission.
+(b) If the person  is incapacitated or the health of the person appears to be in [ immediate] im-
+minent danger,  or if the director has reasonable cause to believe the person is dangerous to self
+or to any other person, the person must be admitted.  [The person shall be discharged within 48 hours
+unless the person has applied for voluntary admission to the treatment facility. ]
+(c) Unless the person has applied for voluntary admission to the treatment facility:
+(A) The person must be discharged within 48 hours; or
+(B) If  the person was admitted to the treatment facility due to the recent administration
+of an opioid reversal medication, the person may be held until the earlier of the following:
+(i) The director of the treatment  facility determines that the person is medically stable
+and the person has had a reasonable opportunity to engage in case management; or
+(ii) 72 hours after admission.
+[(3)] (4)(a)  When a person is taken to a sobering facility, the staff of the sobering  facility shall,
+consistent with the facility’s comprehensive written policies and procedures,  determine whether or
+not the person shall be admitted into the sobering facility.
+(b)(A) A person who is admitted shall  be discharged from the  sobering facility within  24
+hours[.]; or
+(B) If the person was admitted to the sobering facility due to the recent administration
+of an opioid reversal medication, the person may be held until the earlier of the following:
+(i) The staff of the sobering facility determine that the person is medically  stable and the
+person has had a reasonable opportunity to engage in case management; or
+(ii) 72 hours after admission.
+(5)(a) If a person was taken to the treatment facility or sobering facility due to a  recent
+administration of an opioid reversal medication and the person is not admitted due to ad-
+ministrative or  staffing issues at the treatment facility or sobering facility, the police officer
+or the police officer’s designee shall  take the person to an appropriate treatment facility or
+sobering facility or, if none, to a hospital.
+[(4)] (b) Except as provided in paragraph (a) of this subsection,  in the absence of any ap-
+propriate treatment facility or sobering facility, or if a sobering  facility determines that a person
+should not be admitted to the sobering facility, an  intoxicated person or a person under the influ-
+ence of controlled substances  who would otherwise be taken by the police officer to a treatment
+facility or sobering facility may be taken to the  city or county jail where the person may be held
+until no longer intoxicated, under the influence of controlled substances or incapacitated.
+[(5)] (6)  An intoxicated person or person under the influence of controlled substances,  when
+taken into custody by the police officer for a criminal offense, shall immediately  be taken to the
+nearest appropriate treatment facility when the condition  of the person requires emergency medical
+treatment.
+[(6)] (7) The records of a person at a treatment facility or sobering facility may not, without the
+person’s consent, be revealed to any person other than the director and staff of the treatment  fa-
+[2]
+HB 4114
+1
+2
+3
+4
+cility or sobering facility. A person’s request that no disclosure be made  of admission to a treatment
+facility or sobering facility shall be honored unless the person is incapacitated  or disclosure of ad-
+mission is required by ORS 430.397.
+[3]

@@ -1,0 +1,143 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3731
+Sponsored by Representative HARTMAN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act adds data to be added to  the yearly reports made by higher learning schools.
+(Flesch Readability Score: 77.9).
+Provides additional data to be included by institutions of higher education  in an annual report
+regarding allegations of sexual misconduct and violence on the campus of the institution.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to reporting by institutions of  higher education; amending ORS 350.345; and declaring an
+emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 350.345, as amended by section 7, chapter 46, Oregon Laws 2024, is  amended
+to read:
+350.345. (1) No later than October 1 of each year, each  institution of higher education shall
+submit a report in the manner provided by ORS 192.245 to:
+(a) The Secretary of the Senate and the Chief Clerk of the House of Representatives;
+(b) The interim committees of the Legislative Assembly relating to higher education;
+(c) The Higher Education Coordinating Commission; and
+(d) The Director of Human Services.
+(2) Except as provided in subsection (3) of this section, the report shall include:
+(a) The total number of allegations of sexual misconduct that were reported  to the institution’s
+Title IX coordinator by a student or employee  of the institution against another student or employee
+of the institution during the previous academic year;
+(b) The number of law  enforcement investigations known to have been initiated during the pre-
+vious academic year in response to reports of sexual misconduct  that were brought forward by a
+student or employee of the institution against another student or employee of the institution;
+(c) The number of students and employees at the institution who were found responsible  during
+the previous academic year for violating the institution’s policies prohibiting sexual misconduct;
+(d) The number of students and employees at the  institution who during the previous academic
+year, faced academic or employment disciplinary action due to having violated the institution’s  pol-
+icies prohibiting sexual misconduct;
+(e) The  number of students and employees at the institution who, during the previous academic
+year, were investigated, but found  not responsible for having violated the institution’s policies pro-
+hibiting sexual misconduct;
+(f) The number of students at the institution who, during  the previous academic year, requested
+supportive  measures;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4450
+HB 3731
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+(g) The number of supportive measures requested by  each student described in paragraph (f) of
+this subsection;
+(h) The number of  supportive measures granted to each student described in paragraph (f) of this
+subsection;
+(i) The number  of students during the previous academic year who took a leave of absence,
+transferred to a different institution of higher  education or withdrew from the institution of higher
+education;
+(j) The number of students  or employees of the institution who reported experiencing sexual
+misconduct at the institution but who declined to participate or requested no investigation; [ and]
+(k) The number of ongoing investigations into an accusation of sexual misconduct ;
+(L) The number of assaults by nonstudents or nonemployees of the institution;
+(m) The number of anonymous reports and reports in which no party was identified;
+(n) The number of reports by students to confidential advocates;
+(o) Whether the  institution has an emergency housing option and, if so, the extent to
+which the emergency housing option is used;
+(p) The types of violence reported at the institution;
+(q) Any categories of supportive measures that the institution has increased;
+(r) The reasons why investigations were closed;
+(s) The number of referrals to other departments  at the institution, including to human
+resources; and
+(t) A  section for narrative discussion in which the institution may describe any work
+being done at the institution to ensure  the institution has accurate information, is improving
+supportive measures and is working to eliminate sexual misconduct on the campus  of the
+institution.
+(3) A report submitted by a community  college operated under ORS chapter 341 or a career
+school as defined in ORS 345.010 is not required to include the  information described in subsection
+(2)(i) of this section.
+(4) The information  provided in the report must be provided in an anonymous and aggregate
+manner that complies with all state and federal privacy laws.
+SECTION 2.
+This 2025 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+on its passage.
+[2]

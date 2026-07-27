@@ -1,0 +1,525 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3693
+title: 'HB 3693 (2025R1): Repeals the requirement to secure firearms in specified circumstances.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3693
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3693/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: eea62401ff2c9214bdf01902880be00e737281c682f7449b64bd56832e2d1b19
+snapshot_id: measure-2025r1-hb3693-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 107.700
+  - ORS 111.005
+  - ORS 133.005
+  - ORS 161.015
+  - ORS 161.295
+  - ORS 163.211
+  - ORS 163.735
+  - ORS 166.250
+  - ORS 166.262
+  - ORS 166.273
+  - ORS 166.274
+  - ORS 166.279
+  - ORS 166.291
+  - ORS 166.292
+  - ORS 166.360
+  - ORS 166.370
+  - ORS 166.377
+  - ORS 166.390
+  - ORS 166.392
+  - ORS 166.395
+  - ORS 166.397
+  - ORS 166.400
+  - ORS 166.403
+  - ORS 166.405
+  - ORS 166.470
+  - ORS 181A.355
+  - ORS 198.010
+  - ORS 247.181
+  - ORS 297.405
+  - ORS 30.866
+  - ORS 339.315
+  - ORS 419A.004
+  - ORS 426.130
+  - ORS 426.133
+  - ORS 51.020
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3693
+prefix_meaning: House Bill
+catch_line: Repeals the requirement to secure firearms in specified circumstances.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act repeals the changes in gun laws from SB 554 (2021). (Flesch Readability\
+  \ Score: 60.7). \n\tRepeals the requirement to secure firearms in specified circumstances. Repeals the\
+  \ requirement to secure firearms prior to transfer. Repeals the requirement to report the loss or theft\
+  \ of a firearm within a certain time after the loss or theft. Repeals the requirement to directly supervise\
+  \ the use of a firearm by a minor after transfer of the firearm to the minor. \n\tRepeals provisions\
+  \ limiting the possession of firearms by concealed handgun licensees in the Capitol, certain airport\
+  \ buildings and certain school grounds. Repeals the affirmative defense to a charge of possessing a\
+  \ weapon in a public building for a person possessing a firearm in an airport in accordance with federal\
+  \ law. \n\tReduces fees payable to the county sheriff for the issuance and renewal of a concealed handgun\
+  \ license."
+relating_to: Relating to firearms.
+relating_to_full: Relating to firearms; amending ORS 166.262, 166.291, 166.360 and 166.370; and repealing
+  ORS 166.377, 166.390, 166.392, 166.395, 166.397, 166.400, 166.403 and 166.405.
+at_the_request_of: null
+lc_number: 4400
+measure_created_date: '2025-02-21T12:15:17'
+measure_modified_date: '2025-04-02T11:10:50'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 25325
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 107.700
+  - ORS 111.005
+  - ORS 133.005
+  - ORS 161.015
+  - ORS 161.295
+  - ORS 163.211
+  - ORS 163.735
+  - ORS 166.250
+  - ORS 166.262
+  - ORS 166.273
+  - ORS 166.274
+  - ORS 166.279
+  - ORS 166.291
+  - ORS 166.292
+  - ORS 166.360
+  - ORS 166.370
+  - ORS 166.377
+  - ORS 166.390
+  - ORS 166.392
+  - ORS 166.395
+  - ORS 166.397
+  - ORS 166.400
+  - ORS 166.403
+  - ORS 166.405
+  - ORS 166.470
+  - ORS 181A.355
+  - ORS 198.010
+  - ORS 247.181
+  - ORS 297.405
+  - ORS 30.866
+  - ORS 339.315
+  - ORS 419A.004
+  - ORS 426.130
+  - ORS 426.133
+  - ORS 51.020
+  from_relating_to_full:
+  - ORS 166.262
+  - ORS 166.291
+  - ORS 166.360
+  - ORS 166.370
+  - ORS 166.377
+  - ORS 166.390
+  - ORS 166.392
+  - ORS 166.395
+  - ORS 166.397
+  - ORS 166.400
+  - ORS 166.403
+  - ORS 166.405
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3693`.
+
+# HB 3693 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3693, 2025 Regular Session (2025R1)
+- **LC number:** 4400
+- **Created:** 2025-02-21T12:15:17
+- **Metadata last modified (upstream):** 2025-04-02T11:10:50
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 25325 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3693/Introduced>.
+
+## Summary
+
+**Catchline:** Repeals the requirement to secure firearms in specified circumstances.
+
+**Relating to:** Relating to firearms.
+
+Digest: The Act repeals the changes in gun laws from SB 554 (2021). (Flesch Readability Score: 60.7). 
+ Repeals the requirement to secure firearms in specified circumstances. Repeals the requirement to secure firearms prior to transfer. Repeals the requirement to report the loss or theft of a firearm within a certain time after the loss or theft. Repeals the requirement to directly supervise the use of a firearm by a minor after transfer of the firearm to the minor. 
+ Repeals provisions limiting the possession of firearms by concealed handgun licensees in the Capitol, certain airport buildings and certain school grounds. Repeals the affirmative defense to a charge of possessing a weapon in a public building for a person possessing a firearm in an airport in accordance with federal law. 
+ Reduces fees payable to the county sheriff for the issuance and renewal of a concealed handgun license.
+
+**RelatingToFull (verbatim upstream field):** Relating to firearms; amending ORS 166.262, 166.291, 166.360 and 166.370; and repealing ORS 166.377, 166.390, 166.392, 166.395, 166.397, 166.400, 166.403 and 166.405.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3693
+Sponsored by Representative RESCHKE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act repeals the changes in gun laws from SB 554 (2021). (Flesch Readability  Score:
+60.7).
+Repeals the requirement to secure firearms in specified circumstances. Repeals  the requirement
+to secure firearms prior to transfer. Repeals  the requirement to report the loss or theft of a firearm
+within a certain time after the loss or theft. Repeals the requirement to directly supervise the  use
+of a firearm by a minor after transfer of the firearm to the minor.
+Repeals provisions limiting the possession  of firearms by concealed handgun licensees in the
+Capitol, certain airport buildings and certain school grounds. Repeals the affirmative defense  to a
+charge of possessing  a weapon in a public building for a person possessing a firearm in an airport
+in accordance with federal law.
+Reduces fees payable  to the county sheriff for the issuance and renewal of a concealed handgun
+license.
+A BILL FOR AN ACT
+Relating to  firearms; amending ORS 166.262, 166.291, 166.360 and 166.370; and repealing ORS 166.377,
+166.390, 166.392, 166.395, 166.397, 166.400, 166.403 and 166.405.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ORS 166.377, 166.390, 166.392, 166.395, 166.397, 166.400, 166.403 and 166.405 are
+repealed.
+SECTION 2.  ORS 166.360 is amended to read:
+166.360. As used in ORS 166.360 to 166.380, unless the context requires otherwise:
+(1) “Capitol building” means the Capitol, the State Office Building, the State Library  Building,
+the Labor and Industries Building,  the State Transportation Building, the Agriculture Building or
+the Public Service Building and includes any new buildings which  may be constructed on the same
+grounds as an addition to the group of buildings listed in this subsection.
+(2) “Court facility” means a courthouse or that portion of any other building occupied by  a
+circuit court, the  Court of Appeals, the Supreme Court or the Oregon Tax Court or occupied by
+personnel related to the operations of  those courts, or in which activities related to the operations
+of those courts take place.
+(3) “Judge”  means a judge of a circuit court, the Court of Appeals, the Supreme Court, the
+Oregon Tax Court, a municipal court, a probate court or a juvenile court or a justice of the peace.
+(4) “Judicial  district” means a circuit court district established under ORS 3.012 or a justice of
+the peace district established under ORS 51.020.
+(5) “Juvenile court” has the meaning given that term in ORS 419A.004.
+(6) “Loaded firearm” means:
+(a) A breech-loading firearm  in which there is an unexpended cartridge or shell in or attached
+to the firearm including but not limited to, in a chamber, magazine or clip which  is attached to the
+firearm.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4400
+(b) A muzzle-loading firearm which is capped or primed and has a powder charge and  ball, shot
+or projectile in the barrel or cylinder.
+(7) “Local court facility” means the portion of a building in which a  justice court, a municipal
+court, a probate court or  a juvenile court conducts business, during the hours in which the court
+operates.
+(8) “Probate court” has the meaning given that term in ORS 111.005.
+(9) “Public building” means[ :]
+[(a)] a hospital, a capitol building, a public or private school, as defined in ORS 339.315,  a col-
+lege or university, a city hall or the residence of any state official elected by the state at large, and
+the grounds adjacent to each such building. The term also includes that portion of any  other build-
+ing occupied by an agency of the state or [ by a city, a county, a district as defined in  ORS 198.010
+or any other entity that falls within the definition  of “municipal corporation” ] a municipal corpo-
+ration, as defined  in ORS 297.405, other than a court facility[ ; or ]
+[(b) The passenger terminal of a commercial service airport with over one  million passenger
+boardings per year ].
+(10) “Weapon” means:
+(a) A firearm;
+(b) Any dirk, dagger, ice pick, slingshot, metal knuckles or any similar instrument or a  knife,
+other than an ordinary pocketknife with a blade less than four inches  in length, the use of which
+could inflict injury upon a person or property;
+(c) Mace, tear gas, pepper mace or any similar deleterious agent as defined in ORS 163.211;
+(d) An electrical stun gun or any similar instrument;
+(e) A tear gas weapon as defined in ORS 163.211;
+(f) A club, bat, baton, billy club, bludgeon, knobkerrie, nunchaku, nightstick,  truncheon or any
+similar instrument, the use of which could inflict injury upon a person or property; or
+(g) A dangerous or deadly weapon as those terms are defined in ORS 161.015.
+SECTION 3.
+ ORS 166.370 is amended to read:
+166.370. [(1)(a)] (1) Any person who intentionally possesses a loaded or unloaded  firearm or any
+other instrument used as a dangerous weapon, while in or on a public building, shall upon conviction
+be guilty of a Class C felony.
+[(b) Notwithstanding paragraph (a) of this subsection, in a  prosecution under this section for the
+possession of a  firearm within the Capitol, within the passenger terminal of a commercial service air-
+port with over one million passenger boardings per year or on school grounds subject to a policy de-
+scribed in ORS 166.377, if the person proves by a preponderance of the evidence that, at the  time of the
+possession, the person was licensed under ORS 166.291 and 166.292 to carry  a concealed handgun,
+upon conviction the person is guilty of a Class A misdemeanor. ]
+(2)(a) Except as otherwise provided  in paragraph (b) of this subsection, a person who inten-
+tionally possesses:
+(A) A firearm in a court facility is guilty, upon conviction, of  a Class C felony. A person who
+intentionally possesses a firearm in a court facility shall surrender the  firearm to a law enforcement
+officer.
+(B) A weapon, other than a firearm, in a court facility may be required to  surrender the weapon
+to a law enforcement officer or to immediately  remove it from the court facility. A person who fails
+to comply with this subparagraph is guilty, upon conviction, of a Class C felony.
+(C) A firearm  in a local court facility is guilty, upon conviction, of a Class C felony if, prior to
+the offense, the presiding judge of the local court facility  entered an order prohibiting firearms in
+the area in which the court conducts business and during the hours in which the court operates.
+(b) The presiding judge  of a judicial district or a municipal court may enter an order permitting
+the possession of specified weapons in a court facility.
+(c) Within a shared court facility, the presiding judge of a municipal  court or justice of the
+peace district may not  enter an order concerning the possession of weapons in the court facility that
+is in conflict with an order entered by the presiding judge of the circuit court.
+(3) Subsection [ (1)(a)] (1) of this section does not apply to:
+(a) A police officer or reserve officer, as those terms are defined in ORS 181A.355.
+(b) A parole and  probation officer, as defined in ORS 181A.355, while the parole and probation
+officer is acting within the scope of employment.
+(c) A federal officer, as defined in ORS 133.005, or a certified reserve officer  or corrections of-
+ficer, as those terms are defined in ORS 181A.355, while the federal officer,  certified reserve officer
+or corrections officer is acting within the scope of employment.
+(d) A person summoned by an officer  described in paragraph (a), (b) or (c) of this subsection to
+assist in making an arrest or preserving the peace, while the summoned  person is engaged in as-
+sisting the officer.
+(e) An honorably retired law enforcement officer.
+(f) An active or reserve member of the military forces of this state or  the United States, when
+engaged in the performance of duty.
+(g) A person who is licensed under ORS 166.291 and 166.292 to carry a concealed handgun[ , ex-
+cept as provided in subsection (1)(b) of this section ].
+(h) A person who is authorized by the officer  or agency that controls the public building to
+possess a firearm or dangerous weapon in that public building.
+(i) An employee of the United States Department of Agriculture, acting within the scope of em-
+ployment, who possesses a firearm in the course of the lawful taking of wildlife.
+(j) Possession of a firearm on school property if the firearm:
+(A) Is possessed by a person who is not otherwise prohibited from possessing the firearm; and
+(B) Is unloaded and locked in a motor vehicle.
+[(k) A person who possesses a firearm in the passenger terminal of  a commercial service airport,
+if the firearm is unloaded and  in a locked hard-sided container for the purposes of transporting the
+firearm as checked baggage in accordance with federal law. ]
+(4)(a) [ Except as provided in subsection (1)(b) of this section, ] The exceptions listed  in subsection
+(3)(d) to [ (k)] (j)  of this section constitute affirmative defenses to a charge of violating subsection
+[(1)(a)] (1) of this section.
+(b) A person may not use the affirmative defense described in subsection (3)(e) of this section
+if the person has been convicted of an offense that would make  the person ineligible to obtain a
+concealed handgun license under ORS 166.291 and 166.292.
+(5)(a) Any person who knowingly, or with reckless disregard for the safety of another, discharges
+or attempts to discharge a firearm at a place that the person knows is a school shall upon con-
+viction be guilty of a Class C felony.
+(b) Paragraph (a) of this subsection does not apply to the discharge of a firearm:
+(A) As part of a program approved by a school in the school  by an individual who is partic-
+ipating in the program;
+(B) By a law enforcement officer acting in the officer’s official capacity; or
+(C) By an employee of the United States Department of Agriculture,  acting within the scope of
+employment, in the course of the lawful taking of wildlife.
+(6) Any weapon  carried in violation of this section is subject to the forfeiture provisions of ORS
+166.279.
+(7) Notwithstanding the fact that a  person’s conduct in a single criminal episode constitutes a
+violation of both subsections (1) and (5) of this section, the district attorney may charge  the person
+with only one of the offenses.
+(8) As used in this section,  “dangerous weapon” means a dangerous weapon as that term is de-
+fined in ORS 161.015.
+SECTION 4.
+ ORS 166.262 is amended to read:
+166.262. A peace officer may not arrest or  charge a person for violating ORS 166.250 (1)(a) or
+(b) or 166.370 [ (1)(a)] (1) if the person has in the person’s immediate possession:
+(1) A valid license to carry a  firearm as provided in ORS 166.291 and 166.292[ , unless the person
+possesses a firearm within the Capitol,  within the passenger terminal of a commercial service airport
+with over one million passenger boardings per year or on school  grounds subject to a policy described
+in ORS 166.377 ];
+(2) Proof that the person is a law enforcement officer; or
+(3) Proof that the person is an honorably retired law enforcement officer,  unless the person has
+been convicted of an offense that would make the person ineligible to obtain a concealed  handgun
+license under ORS 166.291 and 166.292.
+SECTION 5.
+ ORS 166.291 is amended to read:
+166.291. (1) The sheriff of  a county, upon a person’s application for an Oregon concealed
+handgun license, upon receipt of the appropriate fees and after  compliance with the procedures set
+out in this section, shall issue the person a concealed handgun license if the person:
+(a)(A) Is a citizen of the United States; or
+(B) Is a  legal resident noncitizen who can document continuous residency in the county for at
+least six months and has declared in writing to the  United States Citizenship and Immigration Ser-
+vices  the  intent to acquire citizenship status and can present proof of the written declaration to the
+sheriff at the time of application for the license;
+(b) Is at least 21 years of age;
+(c) Is a resident of the county;
+(d) Has no outstanding warrants for arrest;
+(e) Is not free on any form of pretrial release;
+(f) Demonstrates competence with a handgun by any one of the following:
+(A) Completion of any hunter education or hunter safety course approved by  the State Depart-
+ment of Fish and Wildlife or a similar agency of another state if handgun safety was a  component
+of the course;
+(B) Completion of any National Rifle Association firearms safety or training course if  handgun
+safety was a component of the course;
+(C) Completion of any  firearms safety or training course or class available to the general public
+offered  by  law enforcement, community college, or private or public institution or organization or
+firearms training school utilizing  instructors certified by the National Rifle Association or a law
+enforcement agency if handgun safety was a component of the course;
+(D) Completion of any law enforcement firearms safety or training course or  class offered for
+security guards, investigators, reserve law enforcement officers or  any other law enforcement offi-
+cers if handgun safety was a component of the course;
+(E) Presents evidence of equivalent experience with a handgun through participation  in organ-
+ized shooting competition or military service;
+(F) Is licensed or has been licensed to carry a firearm in this state, unless  the license has been
+revoked;  or
+(G) Completion of any firearms  training or safety course or class conducted by a firearms in-
+structor certified by a law  enforcement agency or the National Rifle Association if handgun safety
+was a component of the course;
+(g) Has never been  convicted of a felony or found guilty, except for insanity under ORS 161.295,
+of a felony;
+(h) Has not been convicted of a misdemeanor or found guilty, except for insanity under  ORS
+161.295, of a misdemeanor within the four  years prior to the application, including a misdemeanor
+conviction for the possession of marijuana as described in paragraph (L) of this subsection;
+(i) Has not been committed to the Oregon Health Authority under ORS 426.130;
+(j) Has not been found to be a person with mental illness and is  not subject to an order under
+ORS 426.130 that the person be prohibited from purchasing or possessing a firearm as a result  of
+that mental illness;
+(k) Has been discharged from the jurisdiction of the juvenile  court for more than four years if,
+while a minor, the person was found to be  within the jurisdiction of the juvenile court for having
+committed an act that, if committed by an adult, would constitute a felony or  a misdemeanor in-
+volving violence, as defined in ORS 166.470;
+(L) Has not been convicted of  an offense involving controlled substances or participated in a
+court-supervised drug diversion program, except  this disability does not operate to exclude a person
+if:
+(A) The person can demonstrate that the person has been convicted only  once of a marijuana
+possession offense that constituted a misdemeanor or violation under the law of the jurisdiction of
+the offense, and has not completed a drug diversion program for a marijuana possession offense  that
+constituted a misdemeanor or violation under the law of the jurisdiction of the offense; or
+(B) The person can demonstrate that the  person has only once completed a drug diversion pro-
+gram for a marijuana possession offense that constituted a misdemeanor or violation  under the law
+of the jurisdiction of the offense, and has not been convicted of a  marijuana possession offense that
+constituted a misdemeanor or violation under the law of the jurisdiction of the offense;
+(m) Is not subject to  a citation issued under ORS 163.735 or an order issued under ORS 30.866,
+107.700 to 107.735 or 163.738;
+(n) Has not received a dishonorable discharge from the Armed Forces of the United States;
+(o) Is not required to register as a sex offender in any state; and
+(p) Is not presently subject to an order under ORS 426.133 prohibiting the person from pur-
+chasing or possessing a firearm.
+(2) A person who has been granted relief under ORS 166.273, 166.274 or  166.293 or 18 U.S.C.
+925(c) or has had the person’s  record expunged under the laws of this state or equivalent laws of
+other jurisdictions is not subject to the disabilities in subsection (1)(g) to (L) of this section.
+(3) Before the sheriff may issue a license:
+(a) The application must  state the applicant’s legal name, current address and telephone number,
+date and place of birth, hair and eye color and height and weight. The application must also list  the
+applicant’s residence address or addresses for the previous three years. The application must contain
+a statement by the applicant that the applicant meets the requirements of subsection (1)  of this
+section. The application may include the  Social Security number of the applicant if the applicant
+voluntarily provides this number. The application must be signed by the applicant.
+(b) The applicant must  submit to fingerprinting and photographing by the sheriff. The sheriff
+shall fingerprint and photograph  the applicant and shall conduct any investigation necessary to
+corroborate the requirements listed under subsection  (1) of this section. If a nationwide criminal
+records check is necessary, the sheriff shall request  the Department of State Police to conduct the
+check, including fingerprint identification, through the Federal Bureau of Investigation. The Federal
+Bureau of  Investigation shall return the fingerprint cards used to conduct the criminal records
+check and may not keep any record  of the fingerprints. The Department of State Police shall report
+the results of the fingerprint-based criminal records check  to the sheriff. The Department of State
+Police shall also furnish the sheriff with any  information about the applicant that the Department
+of State Police may have in its possession including, but  not limited to, manual or computerized
+criminal offender information.
+(4) Application forms for concealed  handgun licenses shall be supplied by the sheriff upon re-
+quest. The forms shall be uniform throughout this state in substantially the following form:
+_______________________________________________________________________________________
+APPLICATION FOR LICENSE TO CARRY
+CONCEALED HANDGUN
+ Date
+I hereby declare as follows:
+I am a citizen of the United States or a legal  resident noncitizen who can document continuous
+residency in the county for at least six  months and have declared in writing to the United States
+Citizenship and Immigration Services my intention to become a citizen  and can present proof of the
+written declaration to the sheriff at the time of  this application. I am at least 21 years of age. I have
+been discharged from the jurisdiction of the juvenile court for more than four  years if, while a mi-
+nor, I was found to be within the jurisdiction of the juvenile court  for having committed an act that,
+if committed by an adult, would constitute a felony or  a misdemeanor involving violence, as defined
+in ORS 166.470. I have never been convicted of a felony or found guilty, except for  insanity under
+ORS 161.295, of a felony in the State of  Oregon or elsewhere. I have not, within the last four years,
+been convicted of a misdemeanor or found guilty, except for insanity under ORS 161.295, of  a
+misdemeanor. Except as provided in ORS 166.291 (1)(L), I have not  been convicted of an offense in-
+volving controlled substances or  completed a court-supervised drug diversion program. There are
+no outstanding warrants for my arrest and I am not free  on any form of pretrial release. I have not
+been committed to the Oregon Health Authority under ORS 426.130, nor  have I been found to be a
+person with mental illness and  presently subject to an order prohibiting me from purchasing or
+possessing a firearm because of mental illness. I am not under a court order to participate  in as-
+sisted outpatient treatment that includes an order prohibiting me  from purchasing or possessing a
+firearm. If any of the previous conditions do apply to me,  I have been granted relief or wish to pe-
+tition for  relief from the disability under ORS 166.273, 166.274 or 166.293 or 18 U.S.C. 925(c) or have
+had the records expunged. I am not subject to a citation issued under ORS 163.735 or an order is-
+sued under ORS 30.866,  107.700 to 107.735 or 163.738. I have never received a dishonorable discharge
+from the Armed Forces of the United States. I am not required to register as a sex offender  in any
+state. I understand I will be fingerprinted and photographed.
+Legal name 
+Age  Date of birth 
+Place of birth 
+Social Security number 
+(Disclosure of your Social Security account number is voluntary. Solicitation of  the number is au-
+thorized under ORS 166.291. It will be used only as a means of identification.)
+Proof of identification (Two pieces of current identification are  required, one of which must bear a
+photograph of the applicant. The type of identification and the number on the identification are to
+be filled in by the sheriff.):
+1.
+2.
+Height  Weight 
+Hair color  Eye color 
+Current address 
+ (List residence addresses for the
+ past three years on the back.)
+City  County  Zip 
+Phone 
+I have read the entire text of this application, and the statements  therein are correct and true.
+(Making false statements on this application is a misdemeanor.)
+ (Signature of Applicant)
+Character references.
+Name:  Address
+Name:  Address
+Approved  Disapproved  by 
+Competence with handgun demonstrated by  (to be filled in by sheriff)
+Date  Fee Paid 
+License No. 
+_______________________________________________________________________________________
+(5)(a) Fees for concealed handgun licenses are:
+(A) $15 to the Department of State Police for conducting the  fingerprint check of the applicant.
+(B) [$100] $50 to the sheriff for the [ initial] issuance  or renewal of a  concealed handgun license.
+[(C) $75 to the sheriff for the renewal of a concealed handgun license. ]
+[(D)] (C) $15 to the sheriff for the duplication of a license because  of loss or change of address.
+(b) The sheriff may enter into an agreement with  the Department of Transportation to produce
+the concealed handgun license.
+(6) No civil or criminal liability  shall attach to the sheriff or any authorized representative en-
+gaged in the receipt and review of, or an investigation connected with,  any application for, or in the
+issuance, denial or revocation of, any license under  ORS 166.291 to 166.295 as a result of the lawful
+performance of duties under those sections.
+(7) Immediately upon acceptance of an application for a concealed handgun license, the  sheriff
+shall enter the applicant’s name into the Law Enforcement  Data System indicating that the person
+is an applicant for a concealed handgun license or is a license holder.
+(8) The county sheriff may waive the residency requirement in subsection  (1)(c) of this section
+for a resident of a contiguous state who has a compelling business  interest or other legitimate
+demonstrated need.
+(9) For purposes of subsection (1)(c) of this section, a person is a resident of  a county if the
+person:
+(a) Has  a current Oregon driver license issued to the person showing a residence address in the
+county;
+(b) Is registered to vote in the county and has  a voter notification card issued to the person
+under ORS 247.181 showing a residence address in the county;
+(c) Has documentation showing that the  person currently leases or owns real property in the
+county; or
+(d) Has documentation showing that  the person filed an Oregon tax return for the most recent
+tax year showing a residence address in the county.
+(10) As used in this section, “drug diversion program” means a  program in which a defendant
+charged with a marijuana possession offense completes a program  under court supervision and in
+which the marijuana possession offense is  dismissed upon successful completion of the diversion
+program.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 166.262, ORS 166.291, ORS 166.360, ORS 166.370, ORS 166.377, ORS 166.390, ORS 166.392, ORS 166.395, ORS 166.397, ORS 166.400, ORS 166.403, ORS 166.405
+- From bill text (Introduced version): ORS 107.700, ORS 111.005, ORS 133.005, ORS 161.015, ORS 161.295, ORS 163.211, ORS 163.735, ORS 166.250, ORS 166.262, ORS 166.273, ORS 166.274, ORS 166.279, ORS 166.291, ORS 166.292, ORS 166.360, ORS 166.370, ORS 166.377, ORS 166.390, ORS 166.392, ORS 166.395, ORS 166.397, ORS 166.400, ORS 166.403, ORS 166.405, ORS 166.470, ORS 181A.355, ORS 198.010, ORS 247.181, ORS 297.405, ORS 30.866, ORS 339.315, ORS 419A.004, ORS 426.130, ORS 426.133, ORS 51.020
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `eea62401ff2c9214bdf01902880be00e737281c682f7449b64bd56832e2d1b19` (snapshot `_meta/snapshots/measure-2025r1-hb3693-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3693/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3693` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

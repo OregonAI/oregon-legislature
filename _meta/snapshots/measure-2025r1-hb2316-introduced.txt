@@ -1,0 +1,513 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2316
+Sponsored by Representative MANNIX (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act  allows DAS to designate state lands for homes for sale to first-time home
+owners and OHCS to  designate locally identified land for homes for sale to lower income home
+owners. Designated lands are exempt from land use laws and, for five years, exempt  from tax based
+on the value of the land. (Flesch Readability Score: 61.9)
+Allows designation of Home Start Lands to be used for housing. Exempts Home Start Lands from
+statewide land use laws. Requires that the  Home Start Lands designated by the Housing and
+Community Services Department be used for affordable housing. Requires that the  Home Start
+Lands designated by the  Oregon Department of Administrative Services be developed for housing
+by the department and sold to first-time home buyers under a lottery-based prioritization system.
+Exempts dwellings created on Home Start Lands from property tax assessments on  the value
+of the land for a period of five years following the sale to  a homeowner. Applies to property tax
+years beginning July 1, 2028, and before July 1, 2034.
+A BILL FOR AN ACT
+Relating to lands designated for housing.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Definitions. As used in sections 2 to 10 of this 2025 Act:
+(1) “Home Start Lands” mean lands designated  by the Oregon Department of Adminis-
+trative Services under  section 2 of this 2025 Act or nominated by a local government under
+section 3 of this 2025 Act.
+(2) “Local government” means:
+(a) For land within a city’s boundaries, the city; or
+(b) For all other land not described in paragraph  (a) of this subsection, the county in
+which the land is located.
+SECTION 2.
+State designation of Home Start Lands.  (1) As used in this section:
+(a) “Lands owned by the state” means real property or interest in real property that is:
+(A) Subject to ORS 270.100;
+(B) Controlled by the State Department of Fish and Wildlife;
+(C) State forestlands that the State Forestry Department controls; or
+(D) Controlled by the Department of Transportation.
+(b) “Lands owned by the state” does not include real property that is:
+(A) State lands  as classified in ORS 273.251, or is otherwise a part of the Common School
+Fund;
+(B) Land held by the state as a trustee; or
+(C) Lands whose use  under sections 2 to 10 of this 2025 Act would be unconstitutional
+or prohibited by or inconsistent with any federal law.
+(2) The Oregon Department of Administrative  Services shall identify lands owned by the
+state and shall designate the property as  Home Start Lands if, in the department’s dis-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1266
+HB 2316
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+cretion, the  lands have not been used or committed for any permanent state purpose and
+are, or could be made, better suited for the development of housing.
+(3) The department may also identify real property owned by the state for exchange for
+real property of approximately equal aggregate value that will be designated as Home Start
+Lands.
+(4) The department shall confer with the any state agency that  owns, manages, operates
+or is authorized to act on behalf of the state regarding the real property prior to designation
+under this section.
+(5) Lands designated under this section  are not subject to ORS chapter 270 or any law
+governing the state or any agency’s use, management or operation of lands owned  or oper-
+ated by the state.
+(6) The  department may adopt rules administering this section and sections 6, 7, 9 and
+10 of this 2025 Act.
+SECTION 3.
+Housing and Community  Services Department designation of Home Start
+Lands. (1) The Housing and Community Services  Department may designate real property
+as Home Start Lands if the department finds that the  property complies with the require-
+ments under subsection  (2) of this section and that the local government and property own-
+ers have identified a plan or funding source that is substantially likely to increase the  supply
+of affordable housing in this state.
+(2) Local governments may, by ordinance, nominate real  property for designation as
+Home Start Lands, provided that:
+(a) The property is  all or a portion of a tract, as defined in ORS 215.010, that is contig-
+uous to, or across a road from, an urban growth boundary;
+(b) The property is subject to an affordable housing covenant as described in ORS 456.270
+to 456.295 that will make the property, including each lot  or parcel created from the property
+by division of land, developable only for housing  that will be made available for
+homeownership and affordable to  middle or low income households for a period of no less
+than 30 years from date of sale to a homeowner; and
+(c) All owners of the property have consented to the designation.
+(3) The department may adopt rules to administer this section.
+SECTION 4.
+Planning and uses of Home Start Lands.  (1) Home Start Lands may be zoned,
+divided, developed and used only for one single-family dwelling.
+(2) Except for laws applicable only to the procedures for dividing land under ORS  92.010
+to 92.192, Home Start Lands are not subject to any provision of:
+(a) ORS chapter 195, 197, 197A, 215 or 227;
+(b) A statewide land use planning goal;
+(c) Rules or orders adopted by the Land Conservation and Development Commission;
+(d) A comprehensive plan; or
+(e) Land use regulations, except as provided in subsection (3) of this section.
+(3) A  local government may adopt, by ordinance, siting or development regulations con-
+sistent with this section for the specific purpose of regulating Home Start Lands.
+(4) An application for development of Home Start Lands under this section must be:
+(a) Approved or rejected by the governing body of the local government;
+(b) Approved or rejected within 100 days from the date of the application; and
+(c) Appealed only as a writ of review under ORS 34.010 to 34.100.
+[2]
+HB 2316
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) An approval of a development application under subsection (4) of  this section becomes
+void four years after the date it is issued.
+SECTION 5.
+Termination of Home Start Lands designation.  The designation of real
+property as Home Start Lands is terminated for real property if the  property has not re-
+ceived authorization from the local  government to use the property for residential develop-
+ment under section 4 of this 2025 Act and:
+(1) For property designated under section 2 of this 2025 Act,  the Oregon Department of
+Administrative Services has issued an order terminating the designation; or
+(2) For property designated under section 3 of this 2025 Act:
+(a) The local government has adopted an ordinance terminating the designation; or
+(b) The Housing and Community Services Department has issued  an order terminating
+the designation.
+SECTION 6.
+State housing development on Home Start Lands.  (1) For Home Start Lands
+designated by Oregon Department of Administrative Services under section 2 of this  2025
+Act, the department shall:
+(a) Work to diligently  prepare affordable housing by taking necessary steps and engaging
+contractors to:
+(A) Partition, subdivide or replat the lands for the development  of housing under this
+section; and
+(B) Prepare the land for  housing, through grading, surveying, planning, installing
+infrastructure for residential development on the land and other activities;
+(b) As necessary, disperse or lend moneys for purposes of  capital improvements, as de-
+fined in ORS 223.299, which may be in addition to or  in lieu of paying system development
+charges, to ensure sufficient infrastructure capacity for anticipated housing on the land;
+(c) Develop single-family housing on the land; and
+(d) Promote and convey the  homes and real property as provided in section 9 of this 2025
+Act.
+(2) Home Start  Lands may not be made a part of a planned community. Any property of
+Home Start Lands to  be maintained as a park, as an open area or for infrastructure purposes
+must be retained by the department or must be conveyed by the state to a city, county,
+special district or public utility.
+SECTION 7.
+State housing portal and  lottery.  (1) The Oregon Department of Adminis-
+trative Services shall:
+(a) Create and maintain an electronic portal for first-time home buyers to:
+(A) Register to be eligible to purchase a dwelling on Home Start Lands;
+(B) Receive  notifications of available properties on Home Start Lands through means
+including the electronic portal; and
+(C) Express interest in specific properties.
+(b) Establish a random lottery  system to assign priority numbers to eligible buyers of
+housing on Home Start Lands.
+(2) To be eligible to join the portal established under  subsection (1) of this section and
+to register for the lottery, and individual must:
+(a) Be at least 18 years of age;
+(b) Be a current resident of Oregon;
+(c) Have never owned or been  under contract to purchase a dwelling, including purchas-
+[3]
+HB 2316
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ing or owning a dwelling:
+(A) As a co-owner; or
+(B) That consists of a manufactured dwelling or floating home sited on a rented space;
+(d) Have a prequalification letter demonstrating an ability to finance the  purchase of real
+property valued at $100,000 or higher;
+(e) Have filed  tax returns with the State of Oregon for the past five years showing that,
+for each year, the individual:
+(A) Is not a dependent of any other taxpayer;
+(B) Is a full-year resident; and
+(C) Has an annual income, or household income, of:
+(i) More than $10,000; and
+(ii)(I) Less than $100,000; or
+(II) Less than $150,000, if married or in a domestic partnership; and
+(f) Not have previously purchased a property under section 9 of  this 2025 Act or been
+disqualified from the lottery under section 9 (3)(a) of this 2025 Act.
+(3) The department shall:
+(a) Assign each eligible registrant a priority number  through a random lottery, with
+lower numbers representing an earlier priority;
+(b) Maintain a list of registrants ordered by their priority numbers; and
+(c) As necessary or convenient for the department, admit  additional registrants, on an
+individual basis or through subsequent lotteries, who must be assigned a larger, later priority
+number than existing registrants.
+SECTION 8.
+Initial development of portal and lottery.  (1) No later than January  1, 2027,
+the Oregon Department of Administrative Services shall develop  the electronic portal under
+section 7 (1) of this 2025 Act.
+(2) No later than July 1, 2027, the department shall admit initial eligible  registrants and
+hold a lottery to assign priority numbers under section 7 (3) of this 2025 Act.
+SECTION 9. Conveying state owned dwellings on Home Start Lands.  (1) When a property
+becomes available to sell under section 6 of this  2025 Act, the Oregon Department of Ad-
+ministrative Services shall:
+(a) Set a purchase  price based on the fair market value of the dwelling unit, excluding
+the value of the land;
+(b) Announce the property’s availability to lottery registrants through the electronic
+portal established by the department under section 7 of this 2025 Act;
+(c) Make the property available for viewing to interest registrants; and
+(d) Allow at least 14 days for registrants to  express an interest to purchase the property
+under subsection (2) of this section.
+(2) At the close of the interest period under subsection (1)(d) of this section, the depart-
+ment shall offer the property to the interested  registrant with the lowest priority number
+who, within  three days, agrees to sign a purchase agreement. As part of the purchase
+agreement, the registrant must agree to:
+(a) Accept the department’s standard purchase terms;
+(b) Within five business days, deposit $500 in escrow;
+(c) Within 10 business days, obtain written preapproval from a lender  for the full pur-
+chase price;
+[4]
+HB 2316
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) Within 30 calendar days, for existing dwellings that are not  newly constructed by the
+department, complete all inspections of the property and waive any inspection contingency;
+(e) Close the sale within 45 days; and
+(f) Take any steps required by the  department to confirm or demonstrate continued el-
+igibility under this subsection.
+(3) If an eligible registrant does  not execute a purchase agreement or the purchase
+agreement terminates or fails to close under subsection (2) of this section:
+(a) The registrant is removed from the lottery; and
+(b) The department shall offer the property to the  interested registrant with the next-
+lowest priority number.
+(4) If no eligible registrants express interest  or are able to close the loan, the department
+shall reduce the price and  repeat the announcement and sale process described in this sec-
+tion.
+SECTION 10.
+Occupancy requirements for dwellings sold by state.  (1) For purposes of this
+section:
+(a) “Original purchase price” means the price paid by  the grantee to the state, excluding
+any closing costs or taxes.
+(b) “Primary residence” means the place  where an individual actually lives for at least
+nine months of the  calendar year and that the individual continues to maintain as the
+individual’s principal residence.
+(2) Each deed conveying real property under section 9 of this 2025 Act must:
+(a) Require that the property be used as  the grantee’s primary residence for a period of
+no less than five years; and
+(b) Grant to the state,  through the Oregon Department of Administrative Services, an
+option to  purchase the property at the original purchase price that may be executed only if,
+at any time within five years of the date of the deed:
+(A) The grantee attempts to  sell, transfer or otherwise voluntarily convey the property;
+or
+(B) The grantee fails to maintain the property as the grantee’s primary residence.
+(3) The option to purchase under subsection (2) of this section:
+(a) Must be exercised by the state  under subsection (2)(b)(A) of this section within 30
+days of receiving written notice from the grantee of intent to sell, transfer or convey;
+(b) May be exercised by the state under subsection (2)(b)(B) of this section upon:
+(A) Determining that the grantee has failed to maintain the property as the  grantee’s
+primary residence; and
+(B) Providing written notice to the grantee and any lender of record at least 60 days prior
+to exercising the option;
+(c) If exercised, requires closing within 60 days of providing notice  under paragraph (b)
+of this subsection;
+(d) Automatically terminates five years after the date of the deed; and
+(e) Is subordinate to any first position purchase money mortgage or trust deed.
+(4) Upon exercise of the option to purchase:
+(a) The state shall pay off any outstanding balance  on any purchase money mortgage or
+trust deed securing the property;
+(b) The grantee shall be entitled to any remaining  proceeds after satisfying all liens and
+[5]
+HB 2316
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+encumbrances; and
+(c) The property returns to the Home Start Lands program for resale under section 9
+of this 2025 Act.
+(5) The department may adopt rules:
+(a) Establishing procedures for determining and monitoring primary residence status;
+(b) Creating a process for  grantees to request temporary waivers of the primary resi-
+dence requirement for good cause; and
+(c) Setting requirements for notice and exercise of rights under this section.
+SECTION 11.
+Section 12 of this  2025 Act is added to and made a part of ORS chapter 308.
+SECTION 12. Property taxes for dwellings  on Home Start Lands. (1) This section applies
+only to a dwelling on Home Start Lands, as defined in section 2 of this 2025 Act, that is
+conveyed:
+(a) To the first homeowner under a deed subject to section 3 (2)(b) of this 2025 Act; or
+(b) By the state under section 9 of this 2025 Act.
+(2) For a dwelling described in subsection (1) of this section:
+(a) The county  assessor shall subtract from the assessed value and the maximum as-
+sessed value the real market value of the land for the  purposes of calculating the property’s
+taxes and special assessments.
+(b) The subtraction is calculated for tax years beginning on July  1 of the property tax
+year first following the conveyance by the state to the homeowner and ends  after five con-
+secutive tax years.
+(c) If the property was acquired by the state under section 10 of  this 2025 Act, the five-
+year period described under paragraph (b) of this subsection begins anew  for the new pur-
+chaser.
+SECTION 13.
+Applicability of property tax subtraction. Section 12 of this 2025 Act applies
+to property tax years beginning on or after July 1, 2028, and before July 1, 2034.
+SECTION 14. Captions. The section captions  used in this 2025 Act are provided only for
+the convenience of the reader and do not become part of the statutory  law of this state or
+express any legislative intent in the enactment of this 2025 Act.
+[6]

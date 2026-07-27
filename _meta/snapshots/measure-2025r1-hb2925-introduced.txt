@@ -1,0 +1,588 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2925
+Introduced and printed pursuant to  House Rule 12.00. Presession filed (at the request of Governor Tina Kotek for
+State Parks and Recreation Department)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes the law for permits  for some activities on the ocean shore. (Flesch
+Readability Score: 71.1).
+Modifies existing permitting procedures for ocean shore improvements. Authorizes the  State
+Parks and Recreation Department to issue general  authorization permits for limited activities on the
+ocean shore.
+A BILL FOR AN ACT
+Relating to ocean shore  permitting; creating new provisions; and amending ORS 390.650, 390.659,
+390.661, 390.663, 390.666 and 390.725.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 390.650 is amended to read:
+390.650. (1) Any person who desires  a permit to make an improvement on any property subject
+to ORS 390.640 shall apply in writing to the State Parks and Recreation Department on a  form and
+in a manner prescribed by the department, stating the kind of and reason for the improvement.
+[(2) Upon receipt of a properly completed application, the  State Parks and Recreation Department
+shall provide notice of the proposal by causing notice  of the application to be posted at or near the
+location of the proposed improvement. The notice shall  include the name of the applicant, a description
+of the proposed improvement and its location and a statement  of the time within which interested per-
+sons may file a request with the department for  a hearing on the application. The department shall give
+notice of any application, hearing or decision to any person who files a written request with  the de-
+partment for such notice. ]
+(2)(a) The department  shall determine whether an application is complete within 30 days
+of receiving the application.  If the department determines that an application is complete,
+the department shall:
+(A) Post written notice of the application at or near the location of  the proposed im-
+provement.
+(B) Provide written notice and the opportunity for public hearing  for 30 days to affected
+federal and state agencies, local  governments, federally recognized Indian tribes in Oregon
+and the public.
+(C) Provide written notice to:
+(i) All landowners whose land is identified in the application;
+(ii) All landowners whose land is adjacent to or  directly affected by the proposed im-
+provement or associated activities; and
+(iii) All persons who file a written request with the department for such notice.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 431
+HB 2925
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) The notice under paragraph (a) of this subsection shall include the name of  the ap-
+plicant, a description of the proposed improvement,  the location of the proposed improve-
+ment and a statement of  the time period within which interested persons may provide
+comments or file  with the department a request for a hearing on the application. The de-
+partment shall give notice of any application, hearing or decision to a person who  files a
+written request with the department for such notice.
+(c) If the department determines that an application is  not complete, the department
+shall notify the applicant in writing of the incomplete status and provide  an explanation of
+the deficiencies of the application.
+(3)(a) Within 30 days after the date of posting  the notice required in subsection (2) of this sec-
+tion, the applicant or 10 or more other  interested persons may file a written request with the [ State
+Parks and Recreation Department ] department  for a hearing on the application.  If such a request
+is filed, the department shall set a  time for a hearing to be held by the department. The department
+shall cause notice of the hearing to be  posted in the manner provided in subsection (2) of this sec-
+tion. The notice shall include the time and  place of the hearing. [ After the hearing on an application
+or, if a hearing is not requested, after the time for requesting a hearing  has expired, the department
+shall grant the permit if approval would not be adverse  to the public interest. ] ORS chapter 183 does
+not apply to a hearing or decision under this section.
+(b) Any public body, as defined  in ORS 174.109, federal agency or federally recognized
+Indian tribe in  Oregon requested by the department to comment on an application for a
+permit must submit its comments to the department not more than 30  days after receiving
+the request for comment. If a public body, federal agency or tribe does not comment on  the
+application within 30 days, the department shall assume that the public  body, federal agency
+or tribe has no objection.
+(4)(a) In acting on an application, the [ State Parks and Recreation Department ] department shall
+take into consideration the matters described by ORS 390.655. [ The department shall act on an ap-
+plication within 60 days after the date of receipt or, if a hearing is held, within 45 days after  the date
+of the hearing. ] The department shall issue a permit decision within 90 days  of the date that
+the department determines that the application is complete, unless:
+(A) The period following a scheduled hearing would provide less than 45 days  for a deci-
+sion, in which case the decision shall be made within 45 days after the date of the hearing;
+(B) The applicant and the department agree in writing to a longer period of time for the
+department to make a permit decision; or
+(C) The department determines that an extension is reasonably necessary  to coordinate
+authorization for the use of public lands with the permit decision.
+[(a)] (b)  The decision of the department shall include written findings  setting forth the specific
+reasons for the approval or denial and, if the application is approved,  any conditions the department
+considers necessary to maintain the standards established under ORS 390.655.
+[(b) A copy of the written findings shall be  furnished to the applicant at the time of approval or
+denial of the application by the department as provided in this subsection. ]
+(c) The department shall provide a  copy of the written findings to the applicant at the
+time the department approves or denies the application.
+(5) Subsections (2) and (3) of this section do not apply to :
+(a) An application for a permit for the repair, replacement or restoration, in  the same location,
+of an authorized improvement or improvement existing on or before May  1, 1967, if the repair, re-
+[2]
+HB 2925
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+placement or restoration is commenced  within three years after the damage to or destruction of the
+improvement being repaired, replaced or restored occurs.
+(b) An application submitted under section 3 of this 2025 Act.
+[(6) The State Parks and Recreation Department may, upon application  therefor, either written or
+oral, grant an emergency permit for  a new improvement, dike, revetment, or for the repair, replacement
+or restoration of an existing, or authorized improvement where property or property  boundaries are in
+imminent peril of being destroyed or damaged by action of the Pacific Ocean or the waters  of any bay
+or river of this state.  Said permit may be granted by the department without regard to the provisions
+of subsections (1),  (2), (3), (4) and (5) of this section. Any emergency permit granted hereunder shall
+be reduced to writing by the department within 10 days after granting the same with a copy thereof
+furnished to the applicant. ]
+[(7) Except as provided by subsection (8) of this section, each application under  subsection (1) of
+this section shall be accompanied by a fee  to cover, in part, the expenses of the department in investi-
+gating, reviewing and issuing the improvement permits. The application fee for each permit shall be: ]
+[(a) $400 for any project for which the construction value is less than $2,500. ]
+[(b) $400 for any project for which the construction value is equal to or greater than  $2,500, plus
+an additional amount equal to three percent of the construction value over $2,500. ]
+[(8) The department may waive or reduce the fee required by subsection (7) of this section  for an
+application submitted by a public body, as that term is defined by  ORS 174.109, or tribal government
+if the primary purpose of the improvement is: ]
+[(a) Restoring, conserving  or protecting the natural, resource, scenic, recreational, cultural or eco-
+nomic values of the ocean shore; ]
+[(b) Restoring native beach or dune  habitat contributing to the recovery of sensitive species, in-
+cluding state and federally listed threatened or endangered species; or ]
+[(c) Improving native biological values of the ocean shore. ]
+(6)(a) Notwithstanding subsection (1) of this section, the department may  issue an
+emergency permit to a person to alter  the ocean shore in response to an active erosion event
+or natural hazard for the purpose of making repairs or providing immediate and temporary
+measures to prevent  imminent irreparable harm, injury or damage to persons or existing
+infrastructure.
+(b) In accordance with the policy and standards in ORS 390.610  and 390.655, the depart-
+ment shall adopt rules to administer this subsection, including but not limited to rules  es-
+tablishing:
+(A) The process for requesting and approving emergency authorizations;
+(B) Definitions of “emergency,”  “alter,” “temporary measures” and other necessary
+terms; and
+(C) Requirements necessary  to avoid or minimize impacts to the ocean shore, ocean
+shore resources and affected property.
+(7)(a) The department shall adopt rules to establish fees for:
+(A) Ocean shore improvement permits issued under this section;
+(B) Emergency permits issued under this section; and
+(C) General authorization permits issued under section 3 of this 2025 Act.
+(b) The department shall establish  fees under this subsection in consideration of recovery
+of administrative costs to the department, the type  of applicant, the public benefit associated
+with the project, the construction value of the project, the impact to the  ocean shore asso-
+[3]
+HB 2925
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ciated with the project type and mitigation costs associated with damage to the  ocean shore
+or use of the ocean shore.
+[(9)] (8) Fees received under this section shall be deposited into a subaccount of the  State Parks
+and Recreation Department Fund. Such fees are  continuously appropriated to the department for the
+purpose of carrying out the ocean shore program.
+[(10)] (9)  As used in this  section, “construction value” includes but is not limited to the costs
+of labor and equipment rental. [ For a project involving only the movement of sand or similar material
+on the ocean shore, “construction value” shall equal the costs of labor, fees and equipment rental. ]
+SECTION 2.
+Section 3 of this  2025 Act is added to and made a part of ORS 390.620 to
+390.676.
+SECTION 3. (1) Notwithstanding ORS 390.640, the State Parks and Recreation Depart-
+ment may, consistent with the policy in ORS 390.610 and standards in ORS 390.655,  establish
+by rule a general authorization permit for improvements on the ocean shore if  the depart-
+ment determines that the activities subject to the permit are  substantially similar in nature
+and:
+(a) Restore, conserve, enhance or protect the natural, economic, scenic, recreational or
+cultural values of the ocean shore;
+(b) Restore  native beach or dune habitat contributing to the recovery of sensitive species,
+including state or federally listed threatened or endangered species;
+(c) Improve native biological values of the ocean shore; or
+(d) Cause no more than temporary or minimal impact to  the ocean shore or ocean shore
+resources.
+(2) A general authorization permit may be granted on a statewide or geographic basis.
+(3) The department shall condition any general authorization permit upon actions neces-
+sary to minimize impacts to the ocean shore or ocean shore resources.
+(4) The department shall provide notice of and opportunity for public hearing  on any
+proposed general authorization permit  to affected federal and state agencies, local govern-
+ments, federally recognized Indian tribes in Oregon and the public.
+(5) A person proposing to conduct an action under a general authorization permit shall:
+(a) Submit an application to the department on a form provided by the department.
+(b) Pay to the department the applicable  fee specified by the department under ORS
+390.650.
+(6) Upon receipt of a complete application, and within the time period specified by the
+department by rule, the department may:
+(a) Approve the general authorization permit if the department  determines the applica-
+tion satisfies all the applicable requirements;
+(b) Deny the general  authorization permit if the department determines the application
+does not satisfy all the applicable requirements; or
+(c) Approve the general authorization permit subject to additional or  modified require-
+ments imposed by the department that are designed to protect ocean shore resources.
+(7) The department shall amend or  rescind a general authorization permit if the depart-
+ment determines that the activities conducted  under the permit are inconsistent with this
+section or any rules adopted under this section.
+SECTION 4.
+ ORS 390.659 is amended to read:
+390.659. (1) Any applicant whose application for  a permit under ORS 390.650  or section 3 of
+[4]
+HB 2925
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+this 2025 Act  has been denied or who objects to any condition imposed on the  permit or any person
+aggrieved or adversely affected by the granting of a  permit may, within 30 days after the denial of
+the permit or the imposition of the condition,  request a hearing from the State Parks and Recreation
+Director.
+(2) Upon  receipt of a request for hearing from the applicant or if the director finds that the
+person other than the applicant making the  request has a legally protected interest that is adversely
+affected by the grant of  the permit, the director shall set the matter down for hearing within 30 days
+after receipt of the request. The hearing shall be conducted as a  contested case in accordance with
+ORS 183.415 to 183.430, 183.440 to 183.460 and  183.470. The applicant shall be a party to any con-
+tested case hearing requested by a person other than the applicant.
+(3) Within 45 days  after the hearing the director shall enter an order containing findings of fact
+and conclusions of law. The order shall rescind, affirm or modify the  director’s original order. Ap-
+peals from the director’s final order may be taken to the Court of  Appeals in the manner provided
+by ORS 183.482.
+(4) A permit  granted by the director may be suspended by the director during the pendency of
+the proceedings before the director and any appeal. The  director shall not suspend the permit unless
+the person aggrieved or adversely affected by grant of permit  makes a showing before the director
+by clear and convincing evidence that  commencement or continuation of the improvement would
+cause irremediable damage and would  be inconsistent with ORS 390.610, 390.620 to 390.676, 390.690
+and 390.705 to 390.770.
+SECTION 5.
+ ORS 390.661 is amended to read:
+390.661. The improvement on any property within  the ocean shore without a permit issued under
+ORS 390.650 or section 3 of this 2025 Act , or in a manner contrary to the conditions  set out in the
+permit, is a public nuisance.
+SECTION 6.  ORS 390.663 is amended to read:
+390.663. (1) If the State Parks and Recreation Director determines that any improvement is being
+made on property within the ocean shore without a permit issued under ORS 390.650  or section 3
+of this 2025 Act , or in a manner  contrary to the conditions set out in the permit, the director may:
+(a) Investigate, hold hearings, make orders and take action,  as provided in ORS 390.620 to
+390.676, as soon as possible.
+(b) For the purpose of investigating conditions relating to such improvements, through the em-
+ployees or the duly authorized representatives of  the State Parks and Recreation Department, enter
+at reasonable times upon any private or public property.
+(c) Conduct public hearings in accordance with ORS chapter 183.
+(d) Publish findings and recommendations as they are developed relative to public policies  and
+procedures necessary for the correction of conditions or violations of ORS 390.620 to 390.676.
+(e) Give notice of any proposed order relating to a violation by personal service or  by mailing
+the notice by registered  or certified mail to the person or governmental body affected. Any person
+aggrieved by a proposed order of the director may request a hearing within 20 days  of the date of
+personal service or mailing of the notice. Hearings shall be conducted under the  provisions of ORS
+chapter 183 applicable to contested cases, and judicial review of final  orders shall be conducted in
+the Court of Appeals  according to ORS 183.482. If no hearing is requested or if the party fails to
+appear, a final order shall be issued upon a prima facie case on the record of the department.
+(f) Take appropriate action for the enforcement of any rules  or final orders. Any violation of
+ORS 390.620 to 390.676 or of any  rule or final order of the director under ORS 390.620 to 390.676
+[5]
+HB 2925
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+may be enjoined in civil abatement proceedings brought in the name of the State of Oregon.  In any
+such proceedings, the director may seek and the court may award a sum of  money sufficient to
+compensate the public for any destruction or infringement of any public right of navigation,  fishery
+or recreation resulting  from such violation. Proceedings brought by the director shall set forth, if
+applicable, the dates of notice and hearing and the  specific rule or order of the director, together
+with the facts of noncompliance, the facts giving rise to the public nuisance and a statement  of the
+damages to any public right of navigation, fishery  or recreation, if any, resulting from such vio-
+lation.
+(2) In  addition to the administrative action the director may take under subsection (1) of this
+section, the director may enter an order requiring any person to cease and  desist from any violation
+if the director  determines that such violation presents an imminent and substantial risk of injury,
+loss or damage to the ocean shore.
+(3) An order under subsection (2) of this section:
+(a) May be entered without prior notice or hearing.
+(b) Shall be served upon the person by personal service or by registered or certified mail.
+(c) Shall state that a hearing will be held on the order if  a written request for hearing is filed
+by the person subject to the order within 10 days after receipt of the order.
+(d) Shall not be stayed during the pendency of a hearing conducted under subsection (4) of  this
+section.
+(4) If a person subject to an order under subsection (2) of this section files a  timely demand for
+hearing, the director shall hold a contested  case hearing according to the applicable provisions of
+ORS chapter 183. If the person fails to request a hearing, the order shall be entered as a final order
+upon prima facie case made on the record of the department.
+(5) Neither the director nor any duly authorized representative of the department shall be  liable
+for any damages a person may sustain as a result of a cease and desist  order issued under sub-
+section (2) of this section.
+(6) The state and  local police shall cooperate in the enforcement of any order issued under
+subsection (2) of  this section and shall require no further authority or warrant in executing or en-
+forcing such order. If any person fails to comply  with an order issued under subsection (2) of this
+section, the circuit court of the county  in which the violation occurred or is threatened shall compel
+compliance with the director’s order in the same manner as with an order of that court.
+(7) As used in this section, “violation” means making an improvement  on property within the
+ocean shore without a permit or in a manner contrary to the  conditions set out in a permit issued
+under ORS 390.650  or section 3 of this 2025 Act .
+SECTION 7.
+ ORS 390.666 is amended to read:
+390.666. If the State Parks and Recreation Director finds that a person or  governmental body
+holding a permit issued under ORS 390.650 or section 3 of this 2025  Act  is making an improvement
+on property within the ocean  shore contrary to the conditions set out in the permit, the director
+may revoke, suspend or refuse to renew such permit. The director may revoke a  permit only after
+giving notice and opportunity for a hearing as  provided in ORS 183.415 to 183.430, 183.440 to 183.460
+and 183.470.
+SECTION 8.  ORS 390.725 is amended to read:
+390.725. (1) Removal of natural products such as  fish or wildlife, agates or small amounts of
+driftwood from a state recreation area as  defined in ORS 390.605 for personal, noncommercial use
+is not subject to the provisions of ORS 390.650  or section 3 of this 2025 Act .
+[6]
+HB 2925
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+(2) The collection of natural products for the purpose of trade, sale or resale shall  be subject
+to the permit provisions and standards of ORS 390.650 and 390.655  or section 3 of this  2025 Act .
+Permits shall provide for the payment of just compensation by the permittee as provided by  rule
+adopted under subsection (4) of this section.
+(3) No  archaeological object associated with an archaeological site, as those terms are defined
+in ORS 358.905, shall be removed from the  ocean shore except as provided in ORS 358.920 and
+390.235.
+(4) Rules or permits shall be made or granted by the State Parks and  Recreation Department
+only after consultation with the State Fish and Wildlife Commission, the State Department  of
+Geology and Mineral  Industries and the Department of State Lands. Rules and permits shall contain
+provisions necessary to protect the areas from any use, activity  or practice inimicable to the con-
+servation of natural resources or public recreation.
+(5) The terms, royalty and duration of  a permit under this section are at the discretion of the
+State Parks and Recreation Department. A permit is revocable  at any time in the discretion of the
+department without liability to the permittee.
+(6) Whenever the issuance of a permit under this section will  affect lands owned privately, the
+State Parks and Recreation  Department shall withhold the issuance of such permit until such time
+as the permittee shall have obtained an easement, license or other written  authorization from the
+private owner, which easement, license  or other written authority must meet the approval of the
+department, except as to the compensation to be paid to the private owner.
+SECTION 9.
+Section 3 of this 2025 Act and the amendments to ORS 390.650 by  section 1
+of this 2025 Act apply to applications for a permit submitted to the State Parks  and Recre-
+ation Department on or after the effective date of this 2025 Act.
+[7]

@@ -1,0 +1,175 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 621
+Sponsored by Senator BONHAM (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that new fees or increased fees that an agency adopts have  to be approved
+by the Legislative Assembly. (Flesch Readability Score: 60.6).
+Provides that new or increased fees adopted by state agencies do not become effective unless
+approved by the Legislative Assembly by law.
+Declares an emergency, effective July 1, 2025.
+A BILL FOR AN ACT
+Relating to approval of state agency  fees by Legislative Assembly; creating new provisions; amend-
+ing ORS 291.055; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 291.055 is amended to read:
+291.055. (1) Notwithstanding any other law that  grants to a state agency the authority to es-
+tablish fees, [ all new state agency fees or fee  increases adopted during the period beginning on the date
+of adjournment sine die of a regular session of the Legislative Assembly and  ending on the date of
+adjournment sine die of the next regular session of the  Legislative Assembly ] new or increased fees
+adopted by a state agency :
+(a) Are not effective for  agencies in the executive department of government unless approved
+in writing by the Director of the Oregon Department of Administrative Services;
+(b) Are not effective for agencies in the judicial department  of government unless approved in
+writing by the Chief Justice of the Supreme Court;
+(c) Are not effective for agencies in the  legislative department of government unless approved
+in writing by the President of the Senate and the Speaker of the House of Representatives;
+(d) Shall be reported by the state agency to the Oregon  Department of Administrative Services
+within 10 days of their adoption; and
+[(e) Are rescinded on adjournment sine die of the next regular session of the  Legislative Assembly
+as described in this subsection, unless otherwise authorized by enabling legislation setting forth  the
+approved fees.]
+(e) Are not  effective unless authorized by the Legislative Assembly by enabling legislation
+setting forth the approved fees.
+(2) Fees or  fee increases authorized by the Legislative Assembly under subsection (1) of
+this section take effect on the effective date of the  enabling legislation or on the date spec-
+ified in the rule adopting the fees or fee increases, whichever is later.
+[(2)] (3) This section does not apply to:
+(a) Any tuition or fees charged by a public university listed in ORS 352.002.
+(b) Taxes or other payments made  or collected from employers for unemployment insurance re-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1847
+SB 621
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+quired by  ORS chapter 657 or premium assessments required by ORS 656.612 and 656.614 or contri-
+butions and assessments calculated by cents per hour for  workers’ compensation coverage required
+by ORS 656.506.
+(c) Fees or payments required for:
+(A) Health care services provided by the Oregon Health and Science University, by  the Oregon
+Veterans’ Homes pursuant to ORS 408.362 and 408.365 to 408.385 and  by other state agencies and
+institutions pursuant to ORS 179.610 to 179.770.
+(B) Copayments and premiums paid to the Oregon medical assistance program.
+(C) Assessments paid to the  Department of Consumer and Business Services under sections 3
+and 5, chapter 538, Oregon Laws 2017.
+(d) Fees  created or authorized by statute that have no established rate or amount but are cal-
+culated for each separate instance for each fee payer and are based  on actual cost of services pro-
+vided.
+(e) State agency charges on employees for benefits and services.
+(f) Any intergovernmental charges.
+(g) Forest  protection district assessment rates established by ORS 477.210 to 477.265 and the
+Oregon Forest Land Protection Fund fees established by ORS 477.760.
+(h) State Department of Energy assessments required by ORS 456.595 and 469.421 (8).
+(i) Assessments on premiums charged by the Director of the Department  of Consumer and
+Business Services pursuant to ORS 731.804 or fees charged by the director to banks,  trusts and
+credit unions pursuant to ORS 706.530 and 723.114.
+(j) Public Utility Commission operating assessments required  by ORS 756.310 or charges paid to
+the Residential Service Protection Fund required by chapter 290, Oregon Laws 1987.
+(k) Fees charged by the  Housing and Community Services Department for intellectual property
+pursuant to ORS 456.562.
+(L) New or increased fees that are  anticipated in the legislative budgeting process for an
+agency,  revenues  from which are included, explicitly or implicitly, in the legislatively adopted
+budget or the legislatively approved budget for the agency.
+(m) Tolls approved by the Oregon Transportation Commission pursuant to ORS 383.004.
+(n) Portal provider fees as defined in ORS 276A.270 and established by  the State Chief Infor-
+mation Officer under ORS 276A.276 (3) and recommended by  the Electronic Government Portal Ad-
+visory  Board.
+(o) Fees set by the State Parks  and Recreation Director and approved by the State Parks and
+Recreation Commission under ORS 390.124 (2)(b).
+[(3)(a)] (4)(a)  Fees temporarily decreased for competitive or promotional reasons  or because of
+unexpected and temporary  revenue surpluses may be increased to not more than their prior level
+without compliance with subsection (1) of this section if, at the time the fee  is decreased, the state
+agency specifies the following:
+(A) The reason for the fee decrease; and
+(B) The conditions under which the fee will be increased to not more than its prior level.
+(b) Fees that  are decreased for reasons other than those described in paragraph (a) of this sub-
+section may not be subsequently increased except as allowed by ORS 291.050 to 291.060  and 294.160.
+SECTION 2.
+The amendments to ORS 291.055 by section 1 of this 2025 Act apply  to fees
+adopted or increased on or after the effective date of this 2025 Act.
+SECTION 3. This 2025 Act being necessary for the immediate preservation of the public
+[2]
+SB 621
+1
+2
+3
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+July 1, 2025.
+[3]

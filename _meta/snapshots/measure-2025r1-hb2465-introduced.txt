@@ -1,0 +1,123 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2465
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Judiciary for Federation of Oregon Parole and Probation Officers)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The  Act makes changes to what parole and probation officers can do. (Flesch Readability
+Score: 67.7).
+Provides that the unlawful departure of a person from the custody  of a parole and probation
+officer constitutes the crime of escape.
+Authorizes parole and  probation officers to view digital copies of driver license photographs
+retained by the Department of Transportation.
+A BILL FOR AN ACT
+Relating to the authority of supervising officers; amending ORS 162.135 and 807.115.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 162.135 is amended to read:
+162.135. As used in ORS 162.135 to 162.205, unless the context requires otherwise:
+(1)(a) “Contraband” means:
+(A) Controlled substances as defined in ORS 475.005;
+(B) Drug paraphernalia as defined in ORS 475.525;
+(C) Except as otherwise provided in paragraph (b) of this subsection, currency possessed  by or
+in the control of [ an adult in custody ] a person  confined in a correctional facility; or
+(D) Any article or thing which a person confined in a correctional facility, youth correction  fa-
+cility or state hospital is prohibited by statute,  rule or order from obtaining or possessing, and
+whose use would endanger the safety or security of such institution or any person therein.
+(b) “Contraband” does not  include authorized currency possessed by [ an adult in custody ] a
+person confined in a work release facility.
+(2) “Correctional facility” means any place used for the confinement of  persons charged with
+or convicted of a crime or otherwise confined under  a court order and includes but is not limited
+to a youth correction facility.  “Correctional facility” applies to a state hospital or a secure intensive
+community inpatient facility only as to persons detained therein charged with or convicted of a
+crime, or detained therein after having been found guilty except for insanity  of a crime under ORS
+161.290 to 161.373.
+(3) “Currency” means paper money and coins that are within the correctional institution.
+(4) “Custody” means the imposition of actual  or constructive restraint by a peace officer  or a
+parole and probation officer as defined in ORS 181A.355,  pursuant  to an arrest or court order,
+but does not include detention in a correctional facility,  youth correction facility or a state hospital.
+(5) “Escape” means the unlawful departure of a person from custody or a correctional facility.
+“Escape” includes the unauthorized departure or  absence from this state or failure to return to this
+state by a person who is under the jurisdiction of the Psychiatric  Security Review Board under ORS
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 834
+HB 2465
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+161.315 to 161.351. “Escape” does not include failure  to comply with provisions of a conditional re-
+lease in ORS 135.245.
+(6) “Youth correction facility” means:
+(a) A youth correction facility as defined in ORS 420.005; and
+(b) A detention facility as defined in ORS 419A.004.
+(7) “State hospital” means the Oregon State Hospital and any other hospital established by  law
+for similar purposes.
+(8) “Unauthorized departure” means the unauthorized departure of a  person confined by court
+order in a youth correction facility or  a state hospital that, because of the nature of the court order,
+is not a  correctional facility as defined in this section, or the failure to return to [ custody] con-
+finement after any form of temporary release or transitional leave from a correctional facility.
+SECTION 2.
+ ORS 807.115, as amended by section 4, chapter 63, Oregon Laws 2024, is  amended
+to read:
+807.115. (1) The Department of Transportation shall retain a digital image  of each photograph
+and signature shown on a driver license under the provisions of  ORS 807.110 or an identification
+card under ORS 807.400.
+(2) The digital images of photographs may not  be made available to anyone other than law
+enforcement officials , parole and probation officers  and employees of the department acting  in an
+official  capacity.
+(3) As used in this section[ ,]:
+(a) “Law enforcement official” includes a humane special agent as defined in ORS 181A.345.
+(b) “Parole and probation officer” has the meaning given that term in ORS 181A.355.
+[2]

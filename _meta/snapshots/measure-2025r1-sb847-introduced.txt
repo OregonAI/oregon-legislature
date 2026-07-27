@@ -1,0 +1,166 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 847
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Governor Tina Kotek for Public Employees Retirement System)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes  changes to the health insurance subsidies retired PERS members can get.
+(Flesch Readability Score: 71.7).
+Changes the calculation of the Retirement Health Insurance Account subsidy under the Public
+Employees Retirement System.
+Allows members of the Oregon Public Service Retirement Plan to receive the Retiree  Health
+Insurance Premium Account subsidy.
+A BILL FOR AN ACT
+Relating to health insurance  subsidies under the Public Employees Retirement System; amending
+ORS 238.420 and 238A.050.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 238.420 is amended to read:
+238.420. (1) As used in this section, “eligible retired member” means:
+(a) A retired member of the Public Employees Retirement System who is retired for service  or
+disability, is receiving a retirement allowance or benefit under the system, had eight years or  more
+of qualifying  service in the system at the time of retirement or is receiving a disability retirement
+allowance including a pension computed as if the member  had eight years or more of creditable
+service in the system at the time of retirement, and is eligible for federal Medicare coverage; or
+(b) A person who is a surviving spouse or  dependent of a deceased eligible retired member as
+provided in paragraph (a)  of this subsection at the time of death, who is eligible for federal Medicare
+coverage and who:
+(A) Is receiving a retirement allowance or benefit under the system; or
+(B) Was covered at the time of the retired member’s death by the retired member’s  health in-
+surance contracted for under ORS 238.410, and the member retired before May 1, 1991.
+(2) For purposes  of subsection (1)(a) of this section, “qualifying service” means creditable service
+in the system and any periods of employment  with an employer participating in the system required
+of the employee before becoming a member of the system.
+(3) Of the monthly cost of coverage  for an eligible retired member under a health care insurance
+contract that provides [ coverage supplemental to federal ] Medicare or Medicare Supplement cover-
+age entered into under ORS 238.410, an amount equal to  [ $60 or the total monthly cost of that cov-
+erage] 100 percent of the five-year average of monthly cost of coverage among all carriers
+contracted by the Public Employees Retirement Board, as calculated  by the board, or the
+actual total monthly cost of that coverage to an eligible retired  member , whichever is less,
+shall be paid from the Retirement Health  Insurance Account established by subsection (4) of this
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 468
+SB 847
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+section,  and  any monthly cost in excess of [ $60] that amount  shall be paid by the eligible retired
+member in the manner provided in ORS 238.410 (4). The board shall adopt rules establishing  the
+frequency by which the subsidy under this subsection is adjusted.  Any amount paid under this
+subsection shall be exempt from all state, county  and municipal taxes imposed on the eligible retired
+member.
+(4) Pursuant to section 401(h) of the Internal Revenue Code, the Retirement Health  Insurance
+Account is established within the Public Employees Retirement Fund, separate and  distinct from the
+General Fund. Interest earned by  the account shall be credited to the account. All moneys in the
+account are continuously appropriated  to the Public Employees Retirement Board and may be used
+only to pay costs of health care insurance contract coverage under subsection (3)  of this section,
+paying the administrative costs incurred by  the board under this section and investment of moneys
+in the account under any law of this state specifically authorizing that investment.
+(5) The Retirement Health Insurance Account shall be funded by employer contributions. Each
+public employer that is a member of the system  shall transmit to the board such amounts as the
+board determines  to be actuarially necessary to fund the liabilities of the account. The level of em-
+ployer contributions shall be established by the board using the same actuarial  assumptions it uses
+to determine employer contribution rates to  the Public Employees Retirement Fund. The amounts
+shall be transmitted at the same time and in the same manner as contributions for pension  benefits
+are transmitted under ORS 238.225.
+(6) As provided in section 401(h)(5)  of the Internal Revenue Code of 1986, upon satisfaction of
+all liabilities for providing benefits described in subsection (1) of this section, any amount  remaining
+in the Retirement Health Insurance Account shall  be returned to the employers participating in the
+retirement system on an equitable basis as determined by the board.
+(7) No member of the  system shall have an interest in the Retirement Health Insurance Account.
+SECTION 2.
+ ORS 238A.050 is amended to read:
+238A.050. (1) The Oregon Public Service  Retirement Plan is part of the Public Employees Re-
+tirement System and is administered by the Public Employees Retirement Board.
+(2) ORS 238.008, 238.225, 238.229, 238.235, 238.285,  238.410,  238.415, 238.420,  238.445, 238.447,
+238.450, 238.455, 238.458, 238.460, 238.465, 238.470, 238.600, 238.601, 238.605, 238.610, 238.615, 238.618,
+238.630, 238.635, 238.640, 238.645, 238.655, 238.660, 238.661, 238.665, 238.675, 238.692, 238.694, 238.695,
+238.696, 238.698, 238.700, 238.705, 238.710 and 238.715 apply to the Oregon Public  Service Retirement
+Plan.
+(3) The Oregon Investment Council shall invest  the assets of the Oregon Public Service Retire-
+ment Plan as a part of the  Public Employees Retirement Fund. Except as provided by subsection (4)
+of this section,  the investment of Oregon Public Service Retirement Plan assets is subject to the
+provisions of ORS 293.701 to 293.857. The Oregon Investment Council may invest assets of the indi-
+vidual account program and pension program  differently than the other assets of the Public Em-
+ployees Retirement System.
+(4) Investment of the assets of the Oregon Public Service Retirement Plan is  not subject to the
+limitations imposed by ORS 293.726 (6).
+(5) The board may contract with a private provider for  the administration of the individual ac-
+count program. The board is not subject to the provisions of ORS chapter 279A  or 279B in awarding
+a contract under the provisions of this subsection. The board  shall establish procedures for inviting
+proposals and awarding contracts under this subsection.
+[2]

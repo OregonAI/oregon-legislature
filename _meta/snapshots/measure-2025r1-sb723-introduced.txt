@@ -1,0 +1,165 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 723
+Sponsored by  Senator GORSEK, Representative NATHANSON; Senator PHAM K, Representative RUIZ (Presession
+filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act requires trains to  have a crew of at least two unless a federal exception exists.
+(Flesch Readability Score: 70.1).
+Requires that trains have a minimum of two crew members. Provides exceptions.
+Imposes civil penalties for violation.
+Makes violation a Class D violation, punishable by a maximum fine of $250.
+A BILL FOR AN ACT
+Relating to two-person crew  member requirements on trains; creating new provisions; amending ORS
+824.990 and 824.992; and repealing ORS 824.300 and 824.302.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Railroad” means a railroad as defined by ORS 824.020 and 824.022.
+(b) “Train” means one  or more locomotives coupled with or without cars, except during
+switching service.
+(2) Except as provided in  subsection (3) of this section, trains shall be assigned at least
+two crew members consisting of a certified locomotive engineer and a certified conductor.
+(3) A railroad may operate a train with a one-person train crew if:
+(a) Special approval has been granted by the Federal Railroad Administration; or
+(b) Operation with a one-person train  crew is otherwise permitted under an exception
+specified in federal law.
+SECTION 2.
+ORS 824.300 and 824.302 are repealed.
+SECTION 3.  ORS 824.990 is amended to read:
+824.990. (1) In addition to all other penalties provided by law:
+(a) Every person who violates or who procures, aids or abets in the  violation of ORS 824.060 (1),
+824.084, 824.088, 824.304 (1) or 824.306 (1) or any order, rule  or decision of the Department of
+Transportation shall incur a civil penalty of not more than $1,000 for every such violation.
+(b) Every person who violates or who procures, aids or abets in  the violation of any order, rule
+or decision of the department promulgated pursuant to ORS 824.052 (1), 824.056 (1), 824.068,  824.082
+(1) or 824.208 shall incur a civil penalty of not more than $1,000 for every such violation.
+(c) Every person who violates section 1 of this 2025 Act shall incur a civil penalty of:
+(A) Except as provided in subparagraphs (B) and (C) of this paragraph, not less than  $250
+and not more than $1,000 for each violation.
+(B) Not less than  $1,000 and not more than $5,000 for a person’s second violation within
+a three-year period following the date the person committed the first violation.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1985
+SB 723
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+(C) Not less than $5,000 and not  more than $10,000 for a person’s third or subsequent
+violation within a three-year period preceding the date of the person’s current violation.
+(2) Each  such violation shall be a separate offense and in case of a continuing violation every
+day’s continuance is a separate violation. Every act of commission or  omission that procures, aids
+or abets in the violation is a violation under subsection (1) of this  section and subject to the penalty
+provided in subsection (1) of this section.
+(3) Civil penalties imposed under  subsection (1) of this section shall be imposed in the manner
+provided in ORS 183.745.
+(4) The department may reduce any penalty provided  for in subsection (1) of this section on such
+terms as the department considers proper if:
+(a) The defendant admits the violations  alleged in the notice and makes timely request for re-
+duction of the penalty; or
+(b) The defendant submits to the department a written request for reduction  of the penalty
+within 15 days from the date the penalty order is served.
+SECTION 4.
+ ORS 824.992 is amended to read:
+824.992. (1) Violation of ORS 824.062 is a Class D violation.
+(2) Violation of ORS 824.064 is a Class A misdemeanor.
+(3) Violation of ORS 824.082 (1), 824.084 or 824.088 by a railroad is a Class A violation.
+(4) Violation of ORS 824.082 (2) is a Class A violation.
+(5) As used in  subsection (3) of this section, “railroad” means a railroad as defined by ORS
+824.020 and 824.022.
+(6) Subject to ORS 153.022, violation of ORS 824.060 (2), 824.106  or 824.108 or any rule
+promulgated pursuant thereto is a Class A violation.
+(7) A person is subject to the penalties under  subsection (8) of this section if the person know-
+ingly:
+(a) Transports  by railroad any hazardous waste listed under ORS 466.005 or rules adopted
+thereunder to a facility  that does not have appropriate authority to receive the waste under ORS
+466.005 to 466.385 and 466.992.
+(b) Disposes of any hazardous waste listed under ORS 466.005 or  rules adopted thereunder
+without appropriate authority under ORS 466.005 to 466.385 and 466.992.
+(c) Materially violates any terms of permit or  authority issued to the person under ORS 466.005
+to 466.385 and 466.992 in the transporting or disposing of hazardous waste.
+(d) Makes any false material statement or representation in any application, label, manifest, re-
+cord, report, permit or  other document filed, maintained or used for purposes of compliance with
+requirements under ORS 824.050 to 824.110 for the safe transportation of hazardous wastes.
+(e) Violates any rules adopted by the Department of Transportation  concerning the transporta-
+tion of hazardous wastes.
+(8) Subject to ORS 153.022, violation of subsection (7) of this section is a Class B misdemeanor.
+Each day’s violation is a separate offense.
+(9) Violation of [ ORS 824.300 or 824.302 ] section 1 of this 2025 Act  is a Class D violation.
+(10) Violation of ORS 824.304 is a Class A violation.
+(11) Violation of ORS 824.306 by any railroad company or officer or  agent thereof, or any other
+person is a Class D violation. Each day’s violation is a separate offense.
+[2]

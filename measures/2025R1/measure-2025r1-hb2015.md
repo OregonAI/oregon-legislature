@@ -11,12 +11,12 @@ citation: 2025 Regular Session House Bill 2015
 issuing_body: Oregon State Legislature
 source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2015/Enrolled
 source_format: pdf
-retrieved: '2026-07-26'
+retrieved: '2026-07-27'
 source_sha256: 0f13cd940475ed5133407a93a5beeb48fd6c4450aa288e7d477e28ebe2831865
 snapshot_id: measure-2025r1-hb2015-enrolled
 status: current
 content_mode: verbatim
-last_verified: '2026-07-26'
+last_verified: '2026-07-27'
 verified_by: '@dzinck'
 maintainer: '@dzinck'
 relationships:
@@ -72,7 +72,7 @@ candidate_ors_citations:
   from_relating_to_full: []
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-26 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2015>.
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2015`.
 
 # HB 2015 — 2025 Regular Session (2025R1)
 
@@ -257,8 +257,8 @@ Enrolled House Bill 2015 (HB 2015-B) Page 4
 
 ## Provenance & related versions
 
-- **Embedded full text:** Enrolled version, retrieved 2026-07-26, sha256 `0f13cd940475ed5133407a93a5beeb48fd6c4450aa288e7d477e28ebe2831865` (snapshot `_meta/snapshots/measure-2025r1-hb2015-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2015/Enrolled>.
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `0f13cd940475ed5133407a93a5beeb48fd6c4450aa288e7d477e28ebe2831865` (snapshot `_meta/snapshots/measure-2025r1-hb2015-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2015/Enrolled>.
 - **Also captured, not embedded:** Introduced version, sha256 `55eb6d2a856b3bb53c20b4ea04640adcea1ccec6bf7a448bda2f4fd8a722d7e8` (snapshot `_meta/snapshots/measure-2025r1-hb2015-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2015/Introduced>.
-- **Measure metadata:** retrieved 2026-07-26 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2015> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2015` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
 - See [CHANGELOG](../../CHANGELOG.md).
 

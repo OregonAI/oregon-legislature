@@ -1,0 +1,221 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4159
+Sponsored by Representatives NGUYEN H,  TRAN, NERON; Representatives CHAICHI, GAMBA, GRAYBER,
+HARTMAN, HUDSON, PHAM H,  REYNOLDS, Senators DEMBROW, GELSER BLOUIN, JAMA, MANNING
+JR (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes the office charged with helping persons  who are new to the U.S. and Oregon
+award contracts to entities to provide the persons with support  services. Creates a council to advise
+the office on the support services. Makes the office conduct an annual audit of groups providing the
+support services. (Flesch Readability Score: 61.3).
+Requires the Office of Immigrant and  Refugee Advancement to contract with entities to provide
+eligible newcomers with case  management, short-term and long-term support services. Defines “eli-
+gible newcomers.”
+Creates an advisory  council to serve as a forum for sharing information and to advise the office
+on the provision of the support services. Directs the office to conduct an annual  performance audit
+of each entity contracted by the office to provide the support services.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to support services; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section, “eligible newcomer” means:
+(a) An individual who:
+(A) Is not a United States citizen;
+(B) Is not receiving support services under an eligible immigration status designated  by
+the federal Office of Refugee Resettlement;
+(C) Has been in the United States for 24 months or less; and
+(D) Has been residing in Oregon for 18 months or less.
+(b) A minor child,  who is residing in Oregon, of an individual described in paragraph (a)
+of this subsection.
+(2) The Office of Immigrant and Refugee Advancement shall, in consultation with the
+Department of Human  Services, coordinate with community-based organizations and award
+contracts to entities to equitably provide eligible  newcomers with the following support ser-
+vices:
+(a) Streamlined intake, initial reception and case management services.
+(b) Short-term wraparound support services,  including shelter, food, clothing, health care
+and transportation.
+(c) Long-term support services related  to housing, education, employment, leadership
+development and technology.
+(3) The support services provided under this section must be provided in a manner  that
+is equitable and culturally and linguistically appropriate.
+(4) An eligible newcomer who receives support services under this section may receive:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 95
+HB 4159
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Case management services for a period of up to  15 months from when the eligible
+newcomer first receives case management services.
+(b) Housing or rental assistance for a  period of up to 12 months from when the eligible
+newcomer first receives housing or rental assistance.
+(5) An entity that is awarded a contract to provide support services under this  section
+shall:
+(a) Assist eligible newcomers in accessing, to the greatest extent possible,  existing fed-
+eral, state and local support services and programs to receive  the support services provided
+under this section;
+(b) Provide eligible newcomers with  those support services that eligible newcomers are
+unable to access through existing federal, state or local support services and programs; and
+(c) Coordinate with and work collaboratively with all  entities that are awarded a contract
+under this section.
+(6)(a) The office shall award contracts under this section by using  a competitive request
+for proposal process.
+(b) Funding awarded under a contract shall be  used to provide support services under the
+contract to eligible newcomers  and the contract shall specify the percentage or amount of
+funding that may be used  to cover an entity’s administrative costs in providing the support
+services.
+(c) Funding under a contract shall be on a per person  basis based on the number of
+persons for whom the contracted entity provides support services,  except for funding for
+housing or rental assistance, a family consisting of two persons shall count as one person.
+(7) An entity that has an active contract under this section shall:
+(a) For the purpose  of improving the delivery of support services, outcomes and prac-
+tices, conduct an annual survey of the eligible newcomers served by the entity;
+(b) Provide a summary of the annual  survey to the office and the advisory council cre-
+ated under section 3 of this 2024 Act; and
+(c) Make public the summary of the annual survey.
+(8) In carrying the provisions of this section, the office shall consult with the Department
+of Human Services.
+SECTION 2.
+The Office of Immigrant and Refugee  Advancement shall require an annual
+performance audit of each entity that has an active contract with the office under section 1
+of this 2024 Act to evaluate compliance with the contract  and the financial effectiveness with
+which the contracted entity provides support services under the contract. The office shall
+provide a copy of each audit to the  advisory council created under section 3 of this 2024 Act.
+SECTION 3.
+(1) There is  created an advisory council that shall consist of at least seven,
+but not more than 11, members. Members shall be  appointed by and serve at the pleasure
+of the director of the Office of Immigrant and Refugee  Advancement. The advisory council
+shall be composed of representatives from:
+(a) Entities contracted under section 1 of this 2024 Act;
+(b) Community-based organizations that serve immigrant or refugee communities;
+(c) Immigrant and refugee communities;
+(d) City and county governments; and
+(e) The Office of Immigrant and Refugee Advancement.
+(2) The advisory council shall:
+[2]
+HB 4159
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+(a) Serve as a forum for sharing information and recommendations  on providing support
+services;
+(b) Serve as a channel of communication between eligible newcomers being  served under
+section 1 of this 2024 Act and the office;
+(c) Review the summaries of annual surveys and  audits provided to the advisory council
+under sections 1 and 2 of this 2024 Act; and
+(d) Advise and make  policy recommendations to the office regarding the delivery of sup-
+port services, outcomes, financial effectiveness and use of best practices.
+(3) Members of the advisory  council may elect a person from among the membership to
+chair the advisory council.
+(4) A majority of  members of the advisory council constitutes a quorum for the trans-
+action of business.
+(5) The advisory council shall  meet at times and places specified by the call of the
+chairperson or of a majority of members of the advisory council and shall meet at least once
+every six months.
+(6) Members  of the advisory council may not receive compensation for their services.
+Members of the advisory council other than members employed in  full-time public service
+shall be reimbursed by the office for their actual and necessary expenses  incurred in the
+performance of their duties. The reimbursements  shall be subject to the provisions of ORS
+292.210 to  292.288. Members of the advisory council who are employed in full-time public
+service may  be reimbursed by their employing agencies for their actual and necessary ex-
+penses incurred in the performance of their duties.
+SECTION 4.
+This 2024 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2024 Act takes effect
+on its passage.
+[3]

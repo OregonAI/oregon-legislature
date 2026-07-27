@@ -1,0 +1,282 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2660
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says vehicle dealers may issue trip permits for RVs bought  by those who live
+out of Oregon and plan to title the RV in a state that is not Oregon. (Flesch Readability  Score:
+63.3).
+Allows vehicle dealers to issue recreational vehicle trip  permits that are valid for 30 consec-
+utive days if the vehicle is bought by a person who does  not reside in Oregon and does not intend
+to title the vehicle in Oregon.
+A BILL FOR AN ACT
+Relating to trip permits; amending ORS 803.600, 803.601, 803.602 and 803.645.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 803.600 is amended to read:
+803.600. A trip permit grants authority to  temporarily operate a vehicle on the highways of this
+state under circumstances where the operation would not otherwise be legal because the  vehicle is
+not registered by this state or because provisions relating to the vehicle’s  registration do not allow
+the operation. The  Department of Transportation shall provide for the issuance of trip permits in a
+manner consistent with  this section. All of the following apply to permits issued under this section:
+(1) The department shall issue the following  types of trip permits to authorize the described type
+of operation and, except as provided in [ subsection] subsections (2) and (3) of this section, may not
+issue trip permits for any other purpose:
+(a) A heavy motor vehicle  trip permit may be issued for the following vehicles that are not
+registered in this state:
+(A) Motor vehicles with a combined weight or loaded weight of more than 10,000 pounds;
+(B) Truck tractors that are more than 8,000 pounds; or
+(C) Fixed load motor vehicles.
+(b) A permit described in paragraph (a) of this subsection is valid for 10 consecutive days.
+(c) A heavy trailer trip permit may be issued for a trailer that will be operated on the  highways
+at a loaded weight of more than 8,000 pounds or that is a  fixed load vehicle, and that is not regis-
+tered to allow operation of the vehicle in this state. A permit described  in this paragraph is valid
+for 10 consecutive days. This paragraph does not apply to travel trailers.
+(d) A light vehicle trip permit may  be issued for a vehicle with a combined weight or loaded
+weight of less than 10,001  pounds that is not a fixed load vehicle and that is not registered to allow
+operation of the vehicle in this state. Permits described in this  paragraph may be issued for a period
+of 21 consecutive days. The department may  not issue more than two permits under this paragraph
+in a 12-month period for any one vehicle unless all registered owners  of the vehicle are replaced
+by new owners. If there is a complete change in ownership of the vehicle, as  shown by the regis-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3246
+HB 2660
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tration records for  the vehicle, a new owner may receive permits for the vehicle under this para-
+graph as if no  permits had been issued for the vehicle. This paragraph does not apply to campers,
+travel trailers or motor homes, which are eligible for recreational vehicle trip permits under para-
+graph (e) of this subsection.
+(e) A recreational vehicle trip permit may be  issued for a period of up to 10 consecutive days
+for a camper, travel trailer or motor home that  is not registered for operation in this state. A
+person buying a recreational vehicle  trip permit must show proof satisfactory to the department that
+the person is the owner of the camper, travel trailer or motor home for which the permit  will be
+granted. A person may not receive recreational  vehicle trip permits authorizing more than 10 days
+of operation in any 12-month period. The department may determine by  rule the method for ensuring
+a person has not exceeded the maximum number of days of operation allowed by the permit.
+(f) A registration weight trip permit may be issued for a vehicle that is registered in  this state,
+to allow the vehicle to be operated with a greater combined weight or  loaded weight than is per-
+mitted by the registration weight established for the vehicle or at a greater combined  weight or
+loaded weight than is otherwise permitted under the registration for the vehicle if the vehicle  is not
+required to  establish a registration weight. A permit issued under this paragraph does not authorize
+movements or operations for which a variance permit is required  under ORS 818.200. A permit is-
+sued under this paragraph shall show the maximum registration  weight allowed for operation under
+the permit. A permit issued under this paragraph is valid for 10 consecutive days.
+(g) A registered vehicle trip permit may be issued for a vehicle that is registered in this  state
+to allow the  vehicle to operate under conditions or in ways not permitted by the terms of the vehicle
+registration. The department shall determine by rule the kinds of operation for which permits  may
+be issued under this paragraph. A  permit issued under this paragraph is valid for 10 consecutive
+days.
+(2) The department shall allow a person issued a vehicle dealer  certificate under ORS 822.020
+or a towing business certificate under ORS 822.205 to issue a 10-day trip permit to a person  who
+buys a motor vehicle from the person with the certificate if the registration  stickers are removed
+in accordance with ORS 803.565. The following apply to trip permits issued under this subsection:
+(a) A permit issued under this subsection allows operation of the  motor vehicle in this state for
+the purpose of registering the vehicle.
+(b) A permit issued under this subsection is valid for a period of 10 consecutive days.
+(c) A person with a vehicle dealer certificate or  a towing business certificate may not issue
+more than two permits under this subsection for the same motor vehicle.
+(3) The department shall allow a person issued a vehicle dealer certificate  under ORS
+822.020 to issue a 30-day recreational  vehicle trip permit to a person who buys a recreational
+vehicle from the vehicle dealer if  the person buying the recreational vehicle does not reside
+in Oregon and according to the purchase agreement the person intends to title  the recre-
+ational vehicle in a state other than Oregon. The following  apply to trip permits issued under
+this subsection:
+(a) A permit issued under this subsection is valid for a period of 30 consecutive days.
+(b) A vehicle dealer may  not issue more than two permits under this subsection for the
+same recreational vehicle.
+[(3)] (4) The following requirements for  records are established concerning permits issued under
+this section:
+(a) Any carrier regulated by  the department shall maintain records of heavy motor vehicle and
+[2]
+HB 2660
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+heavy trailer trip  permits and registration weight trip permits issued to the carrier as required by
+the department by rule.
+(b) Requirements for the department to maintain records concerning trip  permits are established
+under ORS 802.200.
+[(4)] (5) An owner or operator  of a vehicle may obtain a trip permit. The fees for issuance of trip
+permits are as provided under ORS 803.645.
+[(5)] (6)  The department shall make the trip permits available to all field offices and  agents
+maintained by the department and may make arrangements for the issuance of the permits by  des-
+ignated individuals, firms or associations for  the convenience of the motoring public. This subsection
+does not require  the department to make trip permits described in [ subsection] subsections (2) and
+(3) of this section available to anyone other than persons with vehicle dealer  certificates or towing
+business certificates.
+[(6)] (7) The department may also  sell heavy motor vehicle, heavy trailer and registration weight
+trip permits in advance of issuance to contractors, transportation companies and other users for is-
+suance to their own vehicles or vehicles under their control.
+[(7)] (8) The department shall adopt rules for the issuance, sale and control of trip permits.
+[(8)] (9)  Trip permits are not  required for the operation of unregistered vehicles where such
+operation is permitted as follows:
+(a) By vehicle dealers as permitted under ORS 822.040.
+(b) By vehicle transporters as permitted under ORS 822.310.
+(c) By towing businesses as permitted under ORS 822.210.
+[(9)] (10)  Trip permits are not required for  the operation of unregistered vehicles where such
+operation is permitted under ORS 803.305.
+[(10)] (11) Unregistered vehicles that are operated without a trip permit are subject  to the pro-
+hibitions and penalties for operation  of unregistered vehicles under ORS 803.300 or 803.315, as ap-
+propriate.
+[(11)] (12) A trip permit may be issued to a  school vehicle registered under ORS 805.050 for use
+of the vehicle for purposes not permitted under ORS 805.050.
+SECTION 2.
+ ORS 803.601 is amended to read:
+803.601. Fees collected  by the Department of Transportation  from a person issued a vehicle
+dealer certificate under ORS 822.020  for  recreational vehicle trip permits described in ORS
+803.600 shall be transferred to the State Parks and Recreation Department Fund established  by ORS
+390.134 and are  continuously appropriated to the State Parks and Recreation Department for the
+purposes specified in ORS 390.134.
+SECTION 3.  ORS 803.602 is amended to read:
+803.602. An applicant for a light vehicle trip  permit, a recreational vehicle trip permit for a
+motor vehicle or a trip permit issued under ORS 803.600 (2)  or (3)  must submit, at the time of  ap-
+plication, proof indicating that the vehicle that will be  operated under the permit is covered by an
+insurance  policy  that meets the requirements of ORS 806.080 and will continue to be covered by the
+policy  for  as long as the permit is valid. The proof must include the name of the insurer and the
+policy number. The Department of Transportation or, if the permit is issued under ORS 803.600  (2)
+or (3) , the person with the vehicle dealer certificate or  towing business certificate shall refuse to
+issue a permit to a person who does not present the proof required by this section.
+SECTION 4.  ORS 803.645 is amended to read:
+803.645. Fees for trip permits issued under ORS 803.600 are as follows:
+[3]
+HB 2660
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+(1) For a heavy motor vehicle trip permit, $43.
+(2) For a heavy trailer trip permit, $10.
+(3) For a light vehicle trip permit, $35.
+(4) For a recreational vehicle trip permit, $35.
+(5) For a registration weight trip permit, $5.
+(6) For a registered vehicle trip permit, $7.50.
+(7) For a 10-day trip permit issued under ORS  803.600 (2) by a person with a vehicle dealer
+certificate or a towing business certificate, $15.
+(8) For a 30-day trip  permit issued under ORS 803.600 (3) by a person with a vehicle dealer
+certificate, $35.
+[4]

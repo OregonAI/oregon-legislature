@@ -1,0 +1,89 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3684
+Sponsored by Representative HARTMAN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Lets a state agency get a waiver to the law that restricts the use  of covered products
+on IT assets if the waiver is needed to perform its duties. (Flesch Readability Score: 60.7).
+Allows a state agency to apply for and obtain a  limited waiver to the prohibitions or require-
+ments regarding state information technology assets and covered products if the state agency shows
+that a waiver is needed for  the state agency or a contractor of the state agency to perform their
+duties.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to the security of state information technology  assets; amending ORS 276A.342; and pre-
+scribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 276A.342 is amended to read:
+276A.342. (1) A covered product may not be:
+(a) Installed or downloaded onto a state information technology asset; or
+(b) Used or accessed by a state information technology asset.
+(2) A state agency shall:
+(a) Remove any covered product that is installed or downloaded onto a state information tech-
+nology asset that is under the management or control of the state agency; and
+(b) Implement all measures necessary to prevent the:
+(A) Installation or download of a covered product onto a  state information technology asset that
+is under the management or control of the state agency; or
+(B) Use or access of a covered product by a state information  technology asset that is under the
+management or control of the state agency.
+(3)(a) Notwithstanding subsections  (1) and (2) of this section, a state agency may, for
+investigatory, regulatory or law enforcement purposes, permit the:
+(A) Installation or download of a covered product onto a state information technology asset; or
+(B) Use or access of a covered product by a state information technology asset.
+(b) A state agency that permits the installation, download, use  or access of a covered product
+under this subsection shall adopt risk mitigation standards and procedures related to the  installa-
+tion, download, use or access of the covered product.
+(4) A state agency may apply to the State Chief Information Officer for a  limited waiver
+to the prohibitions or requirements under subsections (1) and (2) of this section. The officer
+shall grant a limited waiver if the state agency shows that a waiver is needed for the  state
+agency, or a contractor of the state agency, to perform the duties of the state agency  or
+contractor of the state agency.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4198
+HB 3684
+1
+2
+3
+4
+5
+6
+[(4)] (5) The State Chief Information Officer shall  coordinate with and oversee state agencies to
+implement the provisions of this section in accordance with the policies  and standards adopted un-
+der ORS 276A.344 (3).
+SECTION 2.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

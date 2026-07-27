@@ -1,0 +1,826 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2804
+title: 'HB 2804 (2025R1): Repeals provisions related to the juvenile panel of the Psychiatric Security
+  Review Board.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2804
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2804/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 8d6dd394602ac739d319fb76298bae4ec28f1eea9e254b03e8e1363fff061cff
+snapshot_id: measure-2025r1-hb2804-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 138.500
+  - ORS 151.216
+  - ORS 161.290
+  - ORS 161.295
+  - ORS 161.315
+  - ORS 161.346
+  - ORS 161.348
+  - ORS 161.370
+  - ORS 161.385
+  - ORS 161.395
+  - ORS 163A.125
+  - ORS 166.250
+  - ORS 166.273
+  - ORS 166.470
+  - ORS 179.640
+  - ORS 179.701
+  - ORS 181A.290
+  - ORS 183.325
+  - ORS 183.482
+  - ORS 183.500
+  - ORS 192.338
+  - ORS 192.345
+  - ORS 192.355
+  - ORS 292.220
+  - ORS 419C.411
+  - ORS 419C.520
+  - ORS 419C.522
+  - ORS 419C.529
+  - ORS 419C.530
+  - ORS 419C.531
+  - ORS 419C.532
+  - ORS 419C.533
+  - ORS 419C.535
+  - ORS 419C.538
+  - ORS 419C.540
+  - ORS 419C.542
+  - ORS 419C.544
+  - ORS 426.130
+  - ORS 426.701
+  - ORS 426.702
+  - ORS 427.290
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2804
+prefix_meaning: House Bill
+catch_line: Repeals provisions related to the juvenile panel of the Psychiatric Security Review Board.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act gets rid of the juvenile panel of the PSRB and changes its membership.\
+  \ (Flesch Readability Score: 67.5). \n\tRepeals provisions related to the juvenile panel of the Psychiatric\
+  \ Security Review Board. Provides that the board consists of a single panel of five members and a discretionary\
+  \ alternate member who carry out the board's duties. \n\tDeclares an emergency, effective on passage."
+relating_to: Relating to the Psychiatric Security Review Board; and declaring an emergency.
+relating_to_full: Relating to the Psychiatric Security Review Board; and declaring an emergency.
+at_the_request_of: (at the request of Governor Tina Kotek for Psychiatric Security Review Board)
+lc_number: 398
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-06-06T14:14:58'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 50180
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 138.500
+  - ORS 151.216
+  - ORS 161.290
+  - ORS 161.295
+  - ORS 161.315
+  - ORS 161.346
+  - ORS 161.348
+  - ORS 161.370
+  - ORS 161.385
+  - ORS 161.395
+  - ORS 163A.125
+  - ORS 166.250
+  - ORS 166.273
+  - ORS 166.470
+  - ORS 179.640
+  - ORS 179.701
+  - ORS 181A.290
+  - ORS 183.325
+  - ORS 183.482
+  - ORS 183.500
+  - ORS 192.338
+  - ORS 192.345
+  - ORS 192.355
+  - ORS 292.220
+  - ORS 419C.411
+  - ORS 419C.520
+  - ORS 419C.522
+  - ORS 419C.529
+  - ORS 419C.530
+  - ORS 419C.531
+  - ORS 419C.532
+  - ORS 419C.533
+  - ORS 419C.535
+  - ORS 419C.538
+  - ORS 419C.540
+  - ORS 419C.542
+  - ORS 419C.544
+  - ORS 426.130
+  - ORS 426.701
+  - ORS 426.702
+  - ORS 427.290
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2804`.
+
+# HB 2804 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2804, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for Psychiatric Security Review Board)
+- **LC number:** 398
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-06-06T14:14:58
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 50180 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2804/Enrolled>.
+
+## Summary
+
+**Catchline:** Repeals provisions related to the juvenile panel of the Psychiatric Security Review Board.
+
+**Relating to:** Relating to the Psychiatric Security Review Board; and declaring an emergency.
+
+Digest: The Act gets rid of the juvenile panel of the PSRB and changes its membership. (Flesch Readability Score: 67.5). 
+ Repeals provisions related to the juvenile panel of the Psychiatric Security Review Board. Provides that the board consists of a single panel of five members and a discretionary alternate member who carry out the board's duties. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to the Psychiatric Security Review Board; and declaring an emergency.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 2804
+Introduced and printed pursuant to House  Rule 12.00. Presession filed (at the request of Governor
+Tina Kotek for Psychiatric Security Review Board)
+CHAPTER .................................................
+AN ACT
+Relating to the Psychiatric Security Review  Board; creating new provisions; amending ORS 161.348,
+161.385, 166.273, 181A.290, 419C.520, 419C.529, 419C.530, 419C.531, 419C.532, 419C.533, 419C.535,
+419C.538, 419C.540 and 419C.542; repealing ORS 419C.544; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+REPEAL OF JUVENILE PANEL
+SECTION 1.  ORS 161.385 is amended to read:
+161.385. (1) There is hereby  created a Psychiatric Security Review Board consisting of [ 10] the
+members described in subsection (2) of this section  appointed by the Governor and subject  to
+confirmation by the Senate under section 4, Article III of the Oregon Constitution.
+(2)(a) The membership of the board may not include any district attorney,  deputy district at-
+torney or public defender.
+(b) The Governor shall appoint:
+[(a)] (A)  A psychiatrist experienced in the criminal justice system and not otherwise employed
+on a full-time basis by the Oregon Health Authority or a community mental health program;
+[(b)] (B)  A licensed psychologist experienced in the criminal justice system and  not otherwise
+employed on a full-time basis by the authority or a community mental health program;
+[(c)] (C) A member with substantial experience in the processes of parole and probation;
+[(d)] (D)  A lawyer with substantial experience in criminal trial practice;  and
+[(e) A psychiatrist certified, or  eligible to be certified, by the Oregon Medical Board in child psy-
+chiatry who is experienced in the juvenile justice system and not  employed on a full-time basis by the
+authority or a community mental health program; ]
+[(f) A licensed psychologist who is experienced in child psychology and the juvenile  justice system
+and not employed on a full-time basis by the authority or a community mental health program; ]
+[(g) A member with substantial experience in the processes of juvenile parole and probation; ]
+[(h) A lawyer with substantial experience in juvenile law practice; and ]
+[(i) Two members of the general public. ]
+(E) A member of the general public.
+(c) The Governor may appoint  a sixth member, to serve as an alternate member as de-
+scribed in subsection (6)(b) of this section,  who has previously served on the board for one
+or more terms, has demonstrated commitment to the board’s strategic plan and  is well-
+versed in the board’s operations, policies and procedures.
+Enrolled House Bill 2804 (HB 2804-A) Page 1
+(3) The term of office of each member is four years. The  Governor at any time may remove any
+member for inefficiency, neglect of duty or malfeasance  in office. Before the expiration of the term
+of a member, the Governor shall appoint a successor whose  term begins on July 1 next following.
+A member is eligible for reappointment. If there is a vacancy for any cause, the Governor shall make
+an appointment to become immediately effective for the unexpired term.
+(4) A member  of the board not otherwise employed full-time by the state shall be paid on a per
+diem basis an amount equal to $289.22, adjusted according to the executive pay plan  for the
+biennium, for each day during which the member is engaged in the performance of  official duties,
+including necessary travel time. In addition,  subject to ORS 292.220 to 292.250 regulating travel and
+other expenses of state officers and employees, the member shall be reimbursed for  actual and nec-
+essary travel and other expenses incurred in the performance of official duties.
+(5) Subject to any applicable provision of the  State Personnel Relations Law, the board may hire
+employees to aid it in performing its duties.
+(6)(a) The board consists of [ two five-member panels ] a single panel of five members appointed
+under subsection (2)(b) of this section . The [ adult] panel  is responsible for persons placed under
+the board’s jurisdiction under  ORS 161.315 to 161.351 and [ 419C.544 and consists of those members
+appointed under subsection (2)(a) to (d) of this section and one of the public members.  The juvenile
+panel is responsible for ] young persons placed under the board’s jurisdiction under ORS  419C.529
+[and consists of those members appointed under  subsection (2)(e) to (h) of this section and the other
+public member ], and for carrying out the board’s  duties described in ORS 163A.125, 166.273,
+426.701 and 426.702.
+(b) If a  member is appointed under subsection (2)(c) of this section, that member serves
+as an alternate member of the panel, and may participate as a voting member  of the panel
+for board hearings described in ORS 161.315 to 161.351, 163A.125,  419C.529 to 419C.542, 426.701
+and 426.702, when a member appointed under subsection (2)(b) of this section is unavailable.
+(7)(a) [ Each] The  panel shall select one of its members as chairperson  to serve for a one-year
+term with such duties and powers as the panel determines.
+(b) A majority of the voting members of [ a] the  panel constitutes a quorum for the transaction
+of business of the panel.
+(8) [ Each] The  panel shall meet at least twice every month, unless the chairperson determines
+that there is not sufficient business before the panel to warrant a meeting at the scheduled time.
+The panel shall also meet at other times and places specified by the call of the chairperson or of a
+majority of the members of the panel.
+SECTION 2.
+ ORS 419C.529 is amended to read:
+419C.529. (1) After the entry of a jurisdictional order under ORS 419C.411 (2), if the  court finds
+by a  preponderance of the evidence that the young person, at the time of disposition, has a serious
+mental condition or has a qualifying mental disorder other than a serious  mental condition and
+presents a substantial danger to others, requiring  conditional release or commitment to a hospital
+or facility designated on an individual case  basis by the Department of Human Services or the
+Oregon Health Authority as provided in subsection (6) of this section, the court shall  order the
+young person placed under the jurisdiction of the Psychiatric Security Review Board.
+(2) The court shall  determine whether the young person should be committed to a hospital or
+facility  designated  on an individual case basis by the department or the authority, as provided in
+subsection (6) of this section, or  conditionally released pending a hearing before [ the juvenile panel
+of] the Psychiatric Security Review Board as follows:
+(a) If the court finds that the young person is not a proper subject  for conditional release, the
+court shall order the young person committed to a secure hospital  or a secure intensive community
+inpatient facility designated on  an individual case basis by the department or the authority, as
+provided in subsection (6) of this  section, for custody, supervision and treatment pending a hearing
+before the [ juvenile panel ] board in accordance  with ORS 419C.532, 419C.535, 419C.538, 419C.540 and
+419C.542 and shall order the young person placed under the jurisdiction of the board.
+Enrolled House Bill 2804 (HB 2804-A) Page 2
+(b) If the court finds that the young person can be adequately controlled with supervision  and
+treatment services if conditionally released and that necessary supervision  and treatment services
+are available, the court may order  the young person conditionally released, subject to those super-
+visory orders of the court that  are in the best interests of justice and the young person. The court
+shall designate a qualified mental  health or developmental disabilities treatment provider or state,
+county or local agency to supervise the young person on release, subject to  those conditions as the
+court directs in the order for conditional release. Prior to the designation, the court shall notify  the
+qualified mental health or developmental disabilities treatment  provider or agency to whom condi-
+tional release is contemplated  and provide the qualified mental health or developmental disabilities
+treatment provider or agency an opportunity to be heard before the court.  After receiving an order
+entered under this paragraph, the qualified mental health or  developmental disabilities treatment
+provider  or  agency designated shall assume supervision of the young person subject to the direction
+of the [ juvenile panel ] board . The  qualified mental health or developmental disabilities treatment
+provider or agency designated as supervisor shall report in writing no less than once per  month to
+the [ juvenile panel ] board concerning the supervised young person’s compliance with  the conditions
+of release.
+(c) For purposes of determining whether to order commitment to a  hospital or facility or con-
+ditional release, the primary concern of the court is the protection of society.
+(3) In determining whether a  young person should be conditionally released, the court may order
+examinations or evaluations deemed necessary.
+(4) Upon placing a young person on  conditional release and ordering the young person placed
+under the jurisdiction of the board, the court shall notify the [ juvenile panel ] board in writing of the
+court’s conditional release order, the supervisor  designated and all other conditions of release
+pending a hearing before the [ juvenile panel ] board  in accordance with ORS 419C.532, 419C.535,
+419C.538, 419C.540 and 419C.542.
+(5) When making an order under this section, the court shall:
+(a) Determine whether the parent or  guardian of the young person is able and willing to assist
+the young person in obtaining necessary mental health or developmental disabilities  services and is
+willing to acquiesce in the decisions of the [ juvenile panel ] board. If the court  finds that the parent
+or guardian:
+(A) Is  able and willing to do so, the court shall order the parent or guardian to sign an irrev-
+ocable consent form in which the parent agrees to any placement decision made by the [ juvenile
+panel] board.
+(B) Is  unable or unwilling to do so, the court shall order that the young person be placed in the
+legal custody of the Department of Human Services for the purpose  of obtaining necessary devel-
+opmental disabilities services or mental health services.
+(b) Make specific findings on whether there is a victim and, if so, whether the victim wishes  to
+be notified of any board hearings and orders concerning the young person and of any conditional
+release, discharge or escape of the young person.
+(c) Include in the order a list of the persons who wish to be notified of  any board hearing con-
+cerning the young person.
+(d) Determine on the record  the act committed by the young person for which the young person
+was found responsible except for insanity.
+(e) State on the record the qualifying mental disorder on which the young person relied  for the
+responsible except for insanity defense.
+(6) When  the department designates a facility for the commitment of a young person with a de-
+velopmental disability under this section, or the authority designates a  hospital or facility for com-
+mitment of a young person with mental illness under this  section, the department and the authority
+shall take into  account the care and treatment needs of the young person, the resources available
+to the department or the authority and the safety of the public.
+SECTION 3.
+ ORS 419C.530 is amended to read:
+Enrolled House Bill 2804 (HB 2804-A) Page 3
+419C.530. The [ juvenile panel of the ] Psychiatric Security Review Board exercises continuing ju-
+risdiction over a young person committed to, or retained in, a hospital or  facility designated by the
+Department of Human Services or the Oregon Health  Authority under ORS 419C.529. If the board
+determines after review that the placement of a young person in the particular hospital or  facility
+is so inappropriate as to create a substantial danger to others, the board may direct the department
+or the authority to place the young person in a specific type of facility or direct specific care  or
+supervision, but the actual placement of the young  person is the responsibility of the department
+or the authority.
+SECTION 4.
+ ORS 419C.531 is amended to read:
+419C.531. (1) If the juvenile court or [ the juvenile panel of ] the Psychiatric Security Review
+Board determines that a victim desires notification as described  in ORS 419C.529, the [ panel] board
+shall make a reasonable effort  to notify the victim of [ panel] board hearings and orders, conditional
+release, discharge or escape. Nothing in this subsection authorizes the  [panel] board to disseminate
+information that is otherwise privileged by law.
+(2) When the [ panel] board conducts a hearing involving a young person found  responsible ex-
+cept for insanity for an act for which there is a victim, the [ panel] board shall  afford the victim an
+opportunity to be heard, either orally or in writing, at the hearing.
+(3)(a) If the [ panel] board fails to make a reasonable effort to notify the victim of a [ panel] board
+hearing under subsection (1)  of this section or fails to afford the victim an opportunity to be heard
+under subsection (2) of this section, the victim may request that the [ panel] board reconsider the
+order of the [ panel] board.
+(b) If the [ panel] board determines that the [ panel] board failed to make a reasonable effort to
+notify the victim or failed to afford the victim  an opportunity to be heard, except as provided in
+paragraph (c) of this subsection,  the [ panel] board shall grant the request for reconsideration. Upon
+reconsideration, the [ panel] board shall consider the  statement of the victim and may consider any
+other information that was not available to the [ panel] board at the previous hearing.
+(c) The [ panel] board may not grant a request for reconsideration that is made:
+(A) After the young person has been discharged from  the jurisdiction of the Psychiatric Security
+Review Board;
+(B) After the [ panel] board has held a subsequent hearing involving the young person; or
+(C) If the [ panel] board failed to make  a reasonable effort to notify the victim of a hearing, more
+than 30 days after the victim knew or reasonably should have known of the hearing.
+SECTION 5.  ORS 419C.532 is amended to read:
+419C.532. (1) The [ juvenile panel  of the ] Psychiatric Security Review Board shall conduct
+hearings on an  application for discharge, conditional release, commitment or modification filed un-
+der or required by ORS 419C.538, 419C.540 and 419C.542,  and shall make findings on the issues be-
+fore the [ juvenile panel ] board.
+(2) In every hearing before  the [ juvenile panel ] board, the [ juvenile panel ] board shall determine
+whether the young person:
+(a) Has a serious mental condition; or
+(b) Has a qualifying mental disorder other than a serious mental condition  and presents a sub-
+stantial danger to others.
+(3) The [ juvenile panel ] board shall order a young person discharged from  commitment or con-
+ditional release if the [ juvenile panel ] board finds that the young person:
+(a) No longer has a qualifying mental disorder; or
+(b) Has a qualifying mental disorder other than a serious mental condition but no longer  pre-
+sents a substantial danger to others.
+(4) The [ juvenile panel ] board shall order a young person conditionally released subject to ORS
+419C.538 if the [ juvenile panel ] board finds that:
+(a) The young person:
+(A) Has a serious mental condition; or
+Enrolled House Bill 2804 (HB 2804-A) Page 4
+(B) Has a qualifying mental disorder other than a serious  mental condition and presents a sub-
+stantial danger to others;
+(b) The young person can be adequately controlled with treatment services as a condition  of
+release; and
+(c) Necessary supervision and treatment services are available.
+(5) The [ juvenile panel ] board shall  order a young person committed to, or retained in, a hospital
+or facility designated by the Department of Human Services or the Oregon Health  Authority for
+custody, supervision and treatment subject to ORS 419C.540 if the  [ juvenile panel ] board finds that
+the young person:
+(a)(A) Has a serious mental condition; or
+(B) Has a qualifying mental disorder other than a serious  mental condition and presents a sub-
+stantial danger to others; and
+(b) Cannot be adequately controlled if conditionally released.
+(6) In determining whether a young person  should be committed to or retained in a hospital or
+facility, conditionally released or discharged, the primary concern of the  [ juvenile panel ] board is
+the protection of society.
+(7) In a hearing before the [ juvenile panel ] board, a young person who has  a qualifying mental
+disorder in a state of remission is considered to have  a qualifying mental disorder if the qualifying
+mental disorder may, with reasonable medical probability, occasionally become active.
+(8)(a) At any time, the [ juvenile panel ] board may appoint a psychiatrist certified,  or eligible to
+be certified, by the  Oregon Medical Board in child psychiatry or a licensed psychologist with ex-
+pertise in child psychology to examine the young person and submit a written  report to the [ juvenile
+panel] board. Reports  filed with the [ juvenile panel ] board pursuant to the examination must include,
+but need not be limited to, an opinion as to whether the young person:
+[(a)(A)] (A)(i) Has a serious mental condition; or
+[(B)] (ii) Has a qualifying mental disorder other than a serious mental condition and presents
+a substantial danger to others; and
+[(b)] (B) Could be adequately controlled with treatment services as a condition of release.
+(b) In preparation for a board hearing under ORS 419C.538 (4) or  (6), 419C.540 (1) or (4)
+or 419C.542 (1), (2) or (3),  if the board does not include a member who is a psychiatrist cer-
+tified, or eligible to be certified, by the  Oregon Medical Board in child psychiatry who is ex-
+perienced in the juvenile justice system, or a  licensed psychologist who is experienced in
+child psychology and the juvenile justice system, the board shall appoint a psychiatrist cer-
+tified, or eligible to be certified, by the Oregon Medical Board in child psychiatry, or a  li-
+censed psychologist who is experienced in child psychology, to review any exhibits that  have
+been admitted into evidence for the hearing and provide a written report to the board.
+(9) The  [ juvenile panel ] board may make a determination regarding discharge or conditional re-
+lease based upon the written report submitted under subsection (8) of this section or ORS  419C.540
+(3). If a member of  the [ juvenile panel ] board desires further information from the examining psy-
+chiatrist or licensed psychologist  who submitted the report, the [ juvenile panel ] board shall summon
+the psychiatrist or psychologist to give testimony.
+(10) The [ juvenile panel ] board shall consider all  available evidence that is material, relevant
+and reliable regarding the issues before  the [ juvenile panel ] board. Evidence may include, but is not
+limited to, the record of the juvenile court adjudication, information supplied by the  attorney re-
+presenting the state or by any other  interested person, including the young person, information
+concerning  the  young person’s mental condition and the entire psychiatric and juvenile court history
+of the young person. All evidence of a type  commonly relied upon by reasonably prudent persons in
+the conduct of their  serious affairs is admissible at the hearings. Testimony must be taken upon oath
+or affirmation of  the witness from whom received. The officer presiding at the hearing shall admin-
+ister oaths and affirmations to witnesses.
+(11) The standard of proof on all issues at a hearing of the  [ juvenile panel ] board is by a pre-
+ponderance of the evidence.
+Enrolled House Bill 2804 (HB 2804-A) Page 5
+(12)(a) The [ juvenile panel ] board shall furnish written notice  of any hearing pending under this
+section within a reasonable time prior to the hearing to:
+(A) The young person about whom the hearing is being conducted;
+(B) The attorney representing the young person;
+(C) The young person’s parents or guardians, if known;
+(D) The person having legal custody of the young person;
+(E) The Attorney General or other attorney representing the state, if any; and
+(F) The district attorney of the county in which the young person was adjudicated.
+(b) The [ juvenile panel ] board shall include in the notice  required by paragraph (a) of this sub-
+section:
+(A) The time, place and location of the hearing;
+(B) The nature of the hearing, the  specific action for which the hearing has been requested, the
+issues to be considered at the  hearing and a reference to the particular sections of the statutes and
+rules involved;
+(C) A statement of the authority and jurisdiction under which the hearing is to be held; and
+(D) A statement of all rights under subsection (13) of this section.
+(13) A young person about whom a hearing is being held has the right:
+(a) To appear at all proceedings held under  this section, except [ juvenile panel ] board deliber-
+ations.
+(b) To cross-examine all witnesses appearing to testify at the hearing.
+(c) To subpoena witnesses and documents as provided in ORS 161.395.
+(d) To be represented  by suitable legal counsel possessing skills and experience commensurate
+with the nature and  complexity of the case, to consult with counsel prior to the hearing and, if fi-
+nancially eligible, to have suitable counsel appointed at state expense.
+(e) To examine all information, documents and reports that the [ juvenile panel ] board considers
+and, if the information, documents and  reports are available to the [ juvenile panel ] board before the
+hearing, to examine them prior to the hearing.
+(14) Except for deliberations of the  [ juvenile panel ] board, the [ juvenile panel ] board shall keep
+a record of all hearings before the [ juvenile panel ] board.
+(15) Upon request of a person listed in subsection (12)(a) of this section  or on its own motion,
+the [ juvenile panel ] board may continue a hearing for a reasonable period not to exceed 60 days to
+obtain additional information or testimony or for other good cause shown.
+(16) Within 30 days after the conclusion of the hearing, the [ juvenile panel ] board shall provide
+written notice of the [ juvenile panel’s ] board’s  decision to  the young person, the attorney repres-
+enting the young person, the young person’s parents or guardians, if known, the person having  legal
+custody of the young person, the  district attorney of the county in which the young person was
+adjudicated and the Attorney General or other attorney representing the state, if any.
+(17) The [ juvenile panel ] board shall maintain and keep current  the medical, social and delin-
+quency history of all young persons. The  [ juvenile panel ] board shall determine the confidentiality
+of records maintained by the [ juvenile panel ] board pursuant to ORS 192.338, 192.345 and 192.355.
+SECTION 6.
+ ORS 419C.533 is amended to read:
+419C.533. (1) The [ juvenile panel of the ] Psychiatric Security Review Board,  by rule pursuant to
+ORS 183.325 to 183.410 and not inconsistent with law, may implement  its policies and set out its
+procedure and practice requirements and may promulgate such interpretive rules as the  [ panel]
+board deems necessary or appropriate to carry out its statutory responsibilities.
+(2) The [ juvenile panel of the ] Psychiatric Security Review Board shall adopt rules  defining the
+type of dangerous behavior  that requires the temporary placement of a young person with mental
+retardation in a secure hospital or facility.
+(3) The [ juvenile panel  of the ] Psychiatric Security Review Board shall consult with the Depart-
+ment of Human Services about proposed rules relating  to developmental disabilities and the Oregon
+Health Authority about proposed rules  relating to mental illness before issuing proposed rules for
+public comment and before adopting rules under this section.
+Enrolled House Bill 2804 (HB 2804-A) Page 6
+SECTION 7.  ORS 419C.535 is amended to read:
+419C.535. (1) The [ juvenile panel of the ] Psychiatric Security Review  Board shall appoint suitable
+counsel to represent a young person about whom a hearing under ORS 419C.532 is  being held.
+Counsel appointed must be an attorney  who satisfies the minimum standards established by the
+Oregon Public Defense Commission under ORS 151.216. The executive director  of the commission
+shall determine and allow fair compensation for counsel appointed under this subsection  and the
+reasonable expenses of the young  person in respect to the hearing. Compensation payable to ap-
+pointed counsel may not be less than the applicable compensation  level established under ORS
+151.216. The executive director shall pay compensation and expenses  allowed from funds available
+for that purpose.
+(2) The [ juvenile panel ] board may not order the  young person, parent or guardian of the estate
+to pay any part of the  administrative costs of appointing counsel for the young person or to pay for
+the costs of legal and other services that are related to the provision of appointed counsel.
+(3) The Attorney General may represent the state at contested hearings before  the [ juvenile
+panel] board unless the district attorney of the county in which  the young person was adjudicated
+elects to represent the state.  The district attorney of the county in which the young person was
+adjudicated shall cooperate with the Attorney General in securing  the material necessary for pre-
+senting a contested hearing  before the [ juvenile panel ] board. If the district attorney elects to rep-
+resent the state, the district attorney shall give  timely written notice to the Attorney General, the
+[juvenile panel ] board and the attorney representing the young person.
+SECTION 8.  ORS 419C.538 is amended to read:
+419C.538. (1) When the [ juvenile panel of  the] Psychiatric Security Review Board orders a young
+person conditionally released under ORS  419C.532 (4), the [ juvenile panel ] board may designate a
+qualified mental health or developmental  disabilities treatment provider or state, county or local
+agency to supervise the young person  on release subject to those conditions as the [ juvenile panel ]
+board directs in the order for conditional release. Prior to the designation, the  [ juvenile panel ]
+board shall notify the qualified mental  health or developmental disabilities treatment provider or
+agency to whom conditional release is contemplated and provide the  qualified mental health or de-
+velopmental disabilities treatment provider or  agency an opportunity to be heard before the [ juvenile
+panel] board. After receiving an order entered under ORS  419C.532 (4), the qualified mental health
+or developmental disabilities treatment  provider or agency designated shall assume supervision of
+the young person pursuant to the direction of the [ juvenile panel ] board.
+(2) Conditions of release contained in  orders entered under ORS 419C.532 (4) may be modified
+from time to time and conditional  release may be terminated by order of the [ juvenile panel ] board
+as provided in ORS 419C.532 and 419C.542.
+(3)(a) As a condition of release, the  [ juvenile panel ] board may require the young person to re-
+port to any state, county  or local mental health or developmental disabilities facility for evaluation.
+Whenever medical, psychiatric or psychological  treatment is recommended, the [ juvenile panel ]
+board may order the  young person, as a condition of release, to cooperate with and accept the
+treatment of the facility.
+(b) The facility  to which the young person has been referred for evaluation shall perform the
+evaluation and submit a written report of its findings to the [ juvenile panel ] board. If  the facility
+finds that treatment of the young person is appropriate, the facility  shall include its recommenda-
+tions for treatment in the report to the [ juvenile panel ] board.
+(c) Whenever treatment is provided by the facility, the facility shall furnish reports  to the [ ju-
+venile panel ] board on a regular basis concerning the progress of the young person.
+(d) The facility shall comply with any  other conditions of release prescribed by order of the
+[juvenile panel ] board.
+(4) If at any time it appears to the [ juvenile panel ] board or the chairperson of the  [ juvenile
+panel] panel of the board  that a young person has violated the terms of conditional release or that
+the mental health of the young person has changed, the [ juvenile panel ] board or the  chairperson
+[of the juvenile panel ] may order the young person  returned to a hospital or facility designated by
+Enrolled House Bill 2804 (HB 2804-A) Page 7
+the Department of Human Services or the Oregon Health Authority for evaluation  and treatment.
+A written order of the [ juvenile panel ] board, or the chairperson [ of the juvenile panel ] on behalf of
+the [ juvenile panel ] board, is sufficient warrant for any peace officer to take the young person into
+custody and transport  the young person accordingly. A peace officer shall execute the order, and
+the young person shall be returned as soon as practicable to a  facility designated by the department
+or the authority. Within 20 days following the return of the young person to the  facility designated
+by the department  or the authority, the [ juvenile panel ] board shall conduct a hearing. At a hearing
+required by this subsection, the state has the burden of proving the young person’s  lack of fitness
+for conditional release.
+(5) The community mental health program director, the  community developmental disabilities
+program director, the director of the facility providing treatment for the young  person on condi-
+tional release, a peace officer or a person responsible for the supervision of a young person  on
+conditional release may take a young person into custody  or request that the young person be taken
+into custody if there is reasonable cause to believe the young person presents  a substantial danger
+to others and that the young person is  in need of immediate custody, supervision and treatment. A
+young person taken into custody under this subsection must immediately be transported to a  hospi-
+tal or facility designated by the department or the authority. Within 20 days following  the return
+of the  young person to the facility designated by the department or the authority, the [ juvenile
+panel] board shall  conduct a hearing. At a hearing required by this subsection, the state has the
+burden of proving the young person’s lack of fitness for conditional release.
+(6)(a) A young person conditionally released under ORS  419C.532 (4) may apply to the [ juvenile
+panel] board for discharge from or modification of an order of conditional release on the ground that
+the young person no longer has a  qualifying mental disorder or, if affected by a qualifying mental
+disorder other than a serious mental condition, no longer presents a  substantial danger to others
+and no longer requires supervision or treatment services. Within 60 days  after receiving an appli-
+cation under this paragraph,  the [ juvenile panel ] board shall conduct a hearing. At a hearing re-
+quired by this paragraph, the  young person has the burden of proving the young person’s fitness for
+discharge or modification of the order of conditional  release. A young person may not apply for
+discharge or modification of conditional release more often than once every six months.
+(b) Upon application by  any qualified mental health or developmental disabilities treatment
+provider or state, county or  local agency responsible for supervision or treatment services pursuant
+to an order of conditional  release, the [ juvenile panel ] board shall conduct a hearing to determine
+if the conditions of  release should be continued, modified or terminated. The application must be
+accompanied by a report  setting forth the facts supporting the application. At a hearing required
+by this paragraph, the state has the burden of proving  the young person’s lack of fitness for dis-
+charge or modification of the order of conditional release.
+SECTION 9.  ORS 419C.540 is amended to read:
+419C.540. (1) The director of a hospital or  facility to which a young person was committed under
+ORS 419C.532 (5) shall apply to the [ juvenile panel of the ] Psychiatric Security  Review Board for an
+order of discharge or conditional  release of the young person if, at any time after the commitment,
+the director is of the opinion that the young person:
+(a) No longer has a qualifying mental disorder;
+(b) Has  a qualifying mental disorder other than a serious mental condition but no longer pre-
+sents a substantial danger to others; or
+(c) Can be controlled with proper supervision and treatment services if conditionally released.
+(2) The director shall include in an application under subsection (1) of this  section a report
+setting forth the facts that  support the opinion of the director. If the application is for conditional
+release, the director shall also include a verified conditional release  plan. The [ juvenile panel ] board
+shall hold a hearing on an application under subsection (1) of this  section within 30 days of its re-
+ceipt. Not less than 10 days prior to the hearing before the [ juvenile panel ] board, copies of the re-
+port must be sent to the Attorney General or other attorney representing the state, if any,  the
+district attorney of the county in which the young person was adjudicated, the young person,  the
+Enrolled House Bill 2804 (HB 2804-A) Page 8
+young person’s attorney, the young person’s parents or  guardians, if known, and the person having
+legal custody of the young person.
+(3) The attorney representing the state may choose a psychiatrist  certified, or eligible to be
+certified, by the  Oregon Medical Board in child psychiatry or a licensed psychologist with expertise
+in child psychology to examine the young person prior to any decision of the  [juvenile panel ] board
+on discharge or conditional release. The results of the  examination must be in writing and filed with
+the [ juvenile panel ] board and must include, but need not be  limited to, an opinion as to whether the
+young person:
+(a)(A) Has a serious mental condition; or
+(B) Has a qualifying mental disorder other than a serious  mental condition and presents a sub-
+stantial danger to others; and
+(b) Could be adequately controlled with treatment services as a condition of release.
+(4) A young person who has been committed to a hospital or facility under  ORS 419C.532 (5) or
+the young  person’s parents or guardians acting on the young person’s behalf may apply to the [ ju-
+venile panel ] board for an order of discharge or  conditional release upon the grounds that the young
+person:
+(a) No longer has a qualifying mental disorder;
+(b) Has  a qualifying mental disorder other than a serious mental condition but no longer pre-
+sents a substantial danger to others; or
+(c) Can be controlled with proper supervision and treatment services if conditionally released.
+(5) When an application is made under subsection (4)  of this section, the [ juvenile panel ] board
+shall require a  report from the director of the hospital or facility. The director shall prepare and
+transmit the report as provided in subsection (2) of this section.
+(6) At a hearing on an application under subsection (4) of this section:
+(a) The applicant has the burden of proving the young  person’s fitness for discharge or condi-
+tional release; or
+(b) If more  than two years have passed since the state had the burden of proving the young
+person’s lack of fitness for discharge or conditional release,  the state has the burden of proving the
+young person’s lack of fitness for discharge or conditional release.
+(7) A person may not file an application for  discharge or conditional release under subsection
+(4) of this section:
+(a) Sooner than 90  days after the initial [ juvenile panel ] board hearing concerning the young
+person.
+(b) If another application for discharge or conditional release of the young person was  filed
+during the immediately preceding 90 days.
+(8) The  [juvenile panel ] board shall hold a hearing on an application under subsection (4) of this
+section within 30 days after the application is filed.
+(9)(a) The [ juvenile panel ] board  and the director of a hospital or facility to which a young
+person was committed under ORS 419C.532 (5) may not assess any fees or costs against the young
+person or the young person’s  parent or guardian, including but not limited to court-appointed at-
+torney fees, examination fees and costs and supervision expenses. This paragraph does not apply  to
+expenses associated with the young person’s treatment.
+(b) Notwithstanding paragraph (a) of this subsection, if  the young person is committed to the
+Oregon State Hospital, the young person’s ability to pay and cost of care  are determined under ORS
+179.640 and 179.701.
+SECTION 10.
+ ORS 419C.542 is amended to read:
+419C.542. (1) A young person committed  by the court under ORS 419C.529 to a hospital or fa-
+cility designated by the Department of Human Services or the  Oregon Health Authority may not
+be held in the hospital  or facility for more than 90 days from the date of the court’s commitment
+order without an initial  hearing before the [ juvenile panel of the ] Psychiatric Security Review Board
+to determine whether the young person should be discharged or conditionally released.
+Enrolled House Bill 2804 (HB 2804-A) Page 9
+(2) A young person may not be held pursuant to an order under ORS 419C.532  (5) for a period
+of time exceeding one year without a hearing  before the [ juvenile panel ] board to determine whether
+the young person should be discharged or conditionally released.
+(3) When a young person has spent three years  on conditional release, the [ juvenile panel ] board
+shall bring the young person before  the [ juvenile panel ] board no later than 30 days after the expi-
+ration of the three-year period. The [ juvenile panel ] board shall review the young person’s status
+and determine whether the young person should be discharged from the jurisdiction of the board.
+(4) Notwithstanding the fact that a young  person who is brought before the [ juvenile panel ]
+board under subsection (3) of this section continues to  have a serious mental condition, the [ juvenile
+panel] board may discharge the young person if the young person did not exhibit behaviors that
+presented a substantial danger to others during the period of  conditional release and no longer re-
+quires supervision by the [ juvenile panel ] board.
+SECTION 11. ORS 419C.544 is repealed.
+CONFORMING AMENDMENTS
+SECTION 12.  ORS 161.348 is amended to read:
+161.348. (1) When a person over whom the Psychiatric Security Review  Board exercises juris-
+diction  under  ORS 161.315 to 161.351 [ or 419C.544] is adversely affected or aggrieved by a final order
+of the board, the person is entitled to judicial  review of the final order. The person is entitled on
+judicial review to suitable counsel possessing skills  and experience commensurate with the nature
+and complexity of the case. If the person is financially eligible,  suitable counsel shall be appointed
+by the reviewing court in the manner provided in ORS 138.500 (1). If the person is financially eligi-
+ble, the executive director of the Oregon Public  Defense Commission shall determine and pay, as
+provided in ORS  138.500, the cost of briefs, any other expenses of the person necessary to the review
+and compensation for counsel appointed for the person. The costs,  expenses and compensation so
+allowed shall be paid as provided in ORS 138.500.
+(2) The order and the proceedings  underlying the order are subject to review by the Court of
+Appeals upon petition to that court filed within  60 days of the order for which review is sought.
+The board  shall submit to the court the record of the proceeding or, if the person agrees, a short-
+ened record. The  record may include a certified true copy of a tape recording of the proceedings
+at a hearing in accordance with ORS 161.346. A copy  of the record transmitted shall be delivered
+to the person by the board.
+(3) The  court may affirm, reverse or remand the order on the same basis as provided in ORS
+183.482 (8).
+(4) The filing of the petition does not stay the order  of the board, but the board or the Court
+of Appeals may order a stay upon application on such terms as are deemed proper.
+SECTION 13.
+ ORS 166.273 is amended to read:
+166.273. (1) A person barred from transporting,  shipping, possessing or receiving a firearm may
+file a petition with the Psychiatric Security Review Board for relief from the bar if:
+(a) The person is barred from possessing a firearm under ORS 166.250 (1)(c)(D) or (E);
+(b) The person is barred from receiving  a firearm under ORS 166.470 (1)(e) or (f) or, if the person
+has been found guilty except for insanity  of a misdemeanor involving violence, ORS 166.470 (1)(g);
+or
+(c) The person is barred from possessing, receiving, shipping  or transporting a firearm under 18
+U.S.C. 922(d)(4) or (g)(4) as the result of a state mental health determination.
+(2) The petitioner shall serve a copy of the petition on:
+(a) The Department of Human Services and the Oregon Health Authority; and
+(b) The district attorney in each county in which:
+(A) The person was committed by  a court to the Oregon Health Authority, or adjudicated by a
+court as a person with mental illness, under ORS 426.130;
+Enrolled House Bill 2804 (HB 2804-A) Page 10
+(B) The person was committed by a court to the Department  of Human Services, or adjudicated
+by a court as  in need of commitment for residential care, treatment and training, under ORS 427.290;
+(C) The person was found guilty except for insanity under ORS 161.295;
+(D) The person was found responsible except for insanity under ORS 419C.411; or
+(E) The person was found by a court to lack fitness to proceed under ORS 161.370.
+(3) Following receipt of the petition, the board shall conduct a contested case hearing,  make
+written findings of fact and  conclusions of law on the issues before the board and issue a final order.
+[Board members from the adult panel, the juvenile panel or a combination of both panels of the  board
+may conduct the hearings described in this section. ]
+(4) The state and any person or entity described  in subsection (2) of this section may appear and
+object to and present evidence relevant to the relief sought by the petitioner.
+(5) The board shall grant the relief requested in the  petition if the petitioner demonstrates,
+based on the petitioner’s reputation, the petitioner’s record, the circumstances surrounding the
+firearm disability and any other evidence in the record, that the petitioner will not be likely to  act
+in a manner that is dangerous to public safety and that  granting the relief would not be contrary
+to the public interest.
+(6) If the  board grants the relief requested in the petition, the board shall provide to the De-
+partment of State Police the minimum information necessary, as  defined in ORS 181A.290, to enable
+the department to:
+(a) Maintain the information and transmit the information  to the federal government as required
+under federal law; and
+(b) Maintain a record of the person’s  relief from the disqualification to possess or receive a
+firearm under ORS 166.250 (1)(c)(D) or (E) or 166.470 (1)(e), (f) or (g).
+(7) The petitioner may petition for judicial review of a final order of  the board. The petition
+shall be filed  in the circuit court of a county described in subsection (2)(b) of this section. The re-
+view shall be conducted de novo and without a jury.
+(8) A petitioner may take an appeal from the circuit court to the Court  of Appeals. Review by
+the Court of Appeals shall be conducted in accordance with ORS 183.500.
+(9) A person may file a petition for relief under this section no more than once every  two years.
+(10) The board shall adopt procedural rules to carry out the provisions of this section.
+(11) As used in this section, “state mental health determination” means:
+(a) A finding by a court that a person lacks fitness to proceed under ORS 161.370;
+(b) A finding that a person is  guilty except for insanity of a crime under ORS 161.295 or re-
+sponsible except for insanity of an act  under ORS 419C.411 or any determination by the Psychiatric
+Security Review Board thereafter;
+(c) A commitment by a court to the  Oregon Health Authority, or an adjudication by a court that
+a person is a person with mental illness, under ORS 426.130; or
+(d) A commitment by a court to the Department of Human Services, or an  adjudication by a
+court  that  a person is in need of commitment for residential care, treatment and training, under ORS
+427.290.
+SECTION 14.
+ ORS 181A.290 is amended to read:
+181A.290. (1) The Department of Human Services, the Oregon  Health Authority, the Psychiatric
+Security Review Board and the Judicial Department shall provide the Department of  State Police
+with the minimum information necessary to identify persons who:
+(a) Have been committed by a court  to the Oregon Health Authority under ORS 426.130, based
+on a finding that the person is dangerous to self or others;
+(b) Are subject to a court order under ORS 426.130 or 426.133  prohibiting the person from pur-
+chasing or possessing a firearm;
+(c) Have been committed by a court to the Department of Human Services  under ORS 427.290,
+based on a finding that the person is dangerous to self or others;
+(d) Have been found by a court to lack fitness to proceed under ORS 161.370;
+(e) Have been found guilty except for insanity of a crime under ORS 161.290 to 161.373;
+Enrolled House Bill 2804 (HB 2804-A) Page 11
+(f) Have been found responsible except for insanity for an act under ORS 419C.411;
+(g) Have  been placed under the jurisdiction of the Psychiatric Security Review Board under ORS
+161.315 to 161.351; or
+(h) Have been committed to a state hospital  or facility under ORS 161.315 to 161.351 or 419C.529
+to [ 419C.544] 419C.542.
+(2) Upon receipt  of the information described in this section, the Department of State Police
+shall access and maintain the  information and transmit the information to the federal government
+as required under federal law.
+(3) The Department of Human Services, the Oregon Health Authority, the Psychiatric  Security
+Review Board and the Judicial Department shall  enter into agreements with the Department of
+State Police describing the access to information provided under this section.
+(4) The Department of State Police shall adopt rules:
+(a) After  consulting with the Department of Human Services, the Oregon Health Authority, the
+Psychiatric Security Review Board and the Judicial Department, describing the type  of information
+provided to the Department of State Police under this section; and
+(b) Describing the method and manner of maintaining the information described in  this section
+and transmitting the information to the federal government.
+(5) As used in this section, “minimum information  necessary” means data elements or nominal
+information that is necessary  or required under federal law to accurately identify a person described
+in this section and includes the person’s name, date of birth, gender and reference information  that
+identifies the originating agency or court and enables the originating  agency or court to locate an
+underlying record or file  of a person described in this section. “Minimum information necessary”
+does not include any medical, psychiatric or psychological information, case  histories or files of a
+person described in this section or any record or file of an originating agency or court.
+SECTION 15.
+ ORS 419C.520 is amended to read:
+419C.520. As used in ORS 419C.411, 419C.522 to 419C.527 and 419C.529 to [ 419C.544] 419C.542:
+(1) “Conditional release” includes but is not limited to the monitoring  of mental and physical
+health treatment.
+(2) “Qualifying mental disorder” does not include an abnormality:
+(a) Manifested only by repeated criminal or otherwise antisocial conduct;
+(b) Constituting solely a personality disorder; or
+(c) Constituting solely a conduct disorder.
+(3) “Serious mental condition” means a condition that requires supervision and treatment ser-
+vices for the safety of others and is:
+(a) A mental illness of major depression;
+(b) A mental illness of bipolar disorder; or
+(c) A mental illness of psychotic disorder.
+TRANSFER OF DUTIES
+SECTION 16.
+On the effective date of this 2025 Act, all cases of the juvenile panel  of the
+Psychiatric Security Review Board are  transferred to the single panel of the board described
+in ORS 161.385 (6), as amended by section 1 of this 2025 Act.
+CAPTIONS
+SECTION 17. The unit captions  used in this 2025 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2025 Act.
+EMERGENCY CLAUSE
+Enrolled House Bill 2804 (HB 2804-A) Page 12
+SECTION 18. This 2025 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2025 Act takes effect
+on its passage.
+Passed by House March 31, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate May 1, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 2804 (HB 2804-A) Page 13
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 138.500, ORS 151.216, ORS 161.290, ORS 161.295, ORS 161.315, ORS 161.346, ORS 161.348, ORS 161.370, ORS 161.385, ORS 161.395, ORS 163A.125, ORS 166.250, ORS 166.273, ORS 166.470, ORS 179.640, ORS 179.701, ORS 181A.290, ORS 183.325, ORS 183.482, ORS 183.500, ORS 192.338, ORS 192.345, ORS 192.355, ORS 292.220, ORS 419C.411, ORS 419C.520, ORS 419C.522, ORS 419C.529, ORS 419C.530, ORS 419C.531, ORS 419C.532, ORS 419C.533, ORS 419C.535, ORS 419C.538, ORS 419C.540, ORS 419C.542, ORS 419C.544, ORS 426.130, ORS 426.701, ORS 426.702, ORS 427.290
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `8d6dd394602ac739d319fb76298bae4ec28f1eea9e254b03e8e1363fff061cff` (snapshot `_meta/snapshots/measure-2025r1-hb2804-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2804/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `df7f1bbe981cbcbb3cd15f581c70790203beaba9cf5622bb16be54b338609475` (snapshot `_meta/snapshots/measure-2025r1-hb2804-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2804/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2804` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

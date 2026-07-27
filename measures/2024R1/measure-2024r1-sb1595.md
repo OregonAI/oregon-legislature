@@ -1,0 +1,2932 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2024r1-sb1595
+title: 'SB 1595 (2024R1): Increases certain exemptions from garnishment and execution.'
+doc_type: dataset_doc
+citation: 2024 Regular Session Senate Bill 1595
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1595/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 93e986f82b9070d47165f55f5ac06d623f29c2522f5b21edf354d206891d9c33
+snapshot_id: measure-2024r1-sb1595-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 171.725
+  - ORS 174.109
+  - ORS 174.111
+  - ORS 178.345
+  - ORS 179.655
+  - ORS 18.305
+  - ORS 18.345
+  - ORS 18.348
+  - ORS 18.358
+  - ORS 18.375
+  - ORS 18.385
+  - ORS 18.395
+  - ORS 18.402
+  - ORS 18.412
+  - ORS 18.415
+  - ORS 18.600
+  - ORS 18.605
+  - ORS 18.607
+  - ORS 18.615
+  - ORS 18.618
+  - ORS 18.620
+  - ORS 18.625
+  - ORS 18.635
+  - ORS 18.645
+  - ORS 18.650
+  - ORS 18.652
+  - ORS 18.658
+  - ORS 18.680
+  - ORS 18.690
+  - ORS 18.700
+  - ORS 18.702
+  - ORS 18.705
+  - ORS 18.708
+  - ORS 18.715
+  - ORS 18.760
+  - ORS 18.775
+  - ORS 18.784
+  - ORS 18.785
+  - ORS 18.787
+  - ORS 18.788
+  - ORS 18.790
+  - ORS 18.792
+  - ORS 18.795
+  - ORS 18.800
+  - ORS 18.835
+  - ORS 18.838
+  - ORS 18.840
+  - ORS 18.845
+  - ORS 18.847
+  - ORS 18.850
+  - ORS 18.854
+  - ORS 18.855
+  - ORS 18.857
+  - ORS 18.878
+  - ORS 18.888
+  - ORS 18.892
+  - ORS 18.896
+  - ORS 18.899
+  - ORS 18.901
+  - ORS 18.904
+  - ORS 18.960
+  - ORS 183.315
+  - ORS 183.605
+  - ORS 184.644
+  - ORS 238.445
+  - ORS 24.115
+  - ORS 25.083
+  - ORS 25.375
+  - ORS 25.378
+  - ORS 25.501
+  - ORS 267.385
+  - ORS 293.250
+  - ORS 311.625
+  - ORS 314.430
+  - ORS 315.273
+  - ORS 316.207
+  - ORS 320.080
+  - ORS 321.570
+  - ORS 323.390
+  - ORS 344.580
+  - ORS 40.120
+  - ORS 40.460
+  - ORS 407.595
+  - ORS 411.010
+  - ORS 411.703
+  - ORS 411.760
+  - ORS 414.025
+  - ORS 414.095
+  - ORS 416.540
+  - ORS 446.003
+  - ORS 458.375
+  - ORS 646.639
+  - ORS 646.641
+  - ORS 646.643
+  - ORS 646A.670
+  - ORS 646A.677
+  - ORS 651.065
+  - ORS 652.610
+  - ORS 653.025
+  - ORS 655.530
+  - ORS 656.234
+  - ORS 657.396
+  - ORS 657.642
+  - ORS 657.646
+  - ORS 657.855
+  - ORS 670.600
+  - ORS 705.175
+  - ORS 706.008
+  - ORS 73.0104
+  - ORS 748.207
+  - ORS 759.720
+  - ORS 825.504
+  - ORS 830.700
+  - ORS 90.300
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2024r1
+- sb
+session_key: 2024R1
+measure_prefix: SB
+measure_number: 1595
+prefix_meaning: Senate Bill
+catch_line: Increases certain exemptions from garnishment and execution.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act increases some amounts that are protected from debt collectors. The\
+  \ Act changes some laws about bad debt collection methods. (Flesch Readability Score: 63.2). \n\tIncreases\
+  \ certain exemptions from garnishment and execution. \n\tModifies provisions relating to unfair debt\
+  \ collection practices. \n\tDeclares an emergency, effective on passage."
+relating_to: Relating to protections from debt collection; declaring an emergency.
+relating_to_full: Relating to protections from debt collection; creating new provisions; amending ORS
+  18.345, 18.348, 18.385, 18.395, 18.402, 18.412, 18.600, 18.618, 18.658, 18.785, 18.787, 18.788, 18.790,
+  18.835, 18.838, 18.840, 18.845, 18.847, 18.854, 18.855, 18.888, 18.892, 18.896, 646.639 and 646.641
+  and ORCP 84 D; repealing ORS 18.784 and 646.643; and declaring an emergency.
+at_the_request_of: null
+lc_number: 54
+measure_created_date: '2024-01-16T09:40:29'
+measure_modified_date: '2024-04-11T09:03:34'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 182324
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 171.725
+  - ORS 174.109
+  - ORS 174.111
+  - ORS 178.345
+  - ORS 179.655
+  - ORS 18.305
+  - ORS 18.345
+  - ORS 18.348
+  - ORS 18.358
+  - ORS 18.375
+  - ORS 18.385
+  - ORS 18.395
+  - ORS 18.402
+  - ORS 18.412
+  - ORS 18.415
+  - ORS 18.600
+  - ORS 18.605
+  - ORS 18.607
+  - ORS 18.615
+  - ORS 18.618
+  - ORS 18.620
+  - ORS 18.625
+  - ORS 18.635
+  - ORS 18.645
+  - ORS 18.650
+  - ORS 18.652
+  - ORS 18.658
+  - ORS 18.680
+  - ORS 18.690
+  - ORS 18.700
+  - ORS 18.702
+  - ORS 18.705
+  - ORS 18.708
+  - ORS 18.715
+  - ORS 18.760
+  - ORS 18.775
+  - ORS 18.784
+  - ORS 18.785
+  - ORS 18.787
+  - ORS 18.788
+  - ORS 18.790
+  - ORS 18.792
+  - ORS 18.795
+  - ORS 18.800
+  - ORS 18.835
+  - ORS 18.838
+  - ORS 18.840
+  - ORS 18.845
+  - ORS 18.847
+  - ORS 18.850
+  - ORS 18.854
+  - ORS 18.855
+  - ORS 18.857
+  - ORS 18.878
+  - ORS 18.888
+  - ORS 18.892
+  - ORS 18.896
+  - ORS 18.899
+  - ORS 18.901
+  - ORS 18.904
+  - ORS 18.960
+  - ORS 183.315
+  - ORS 183.605
+  - ORS 184.644
+  - ORS 238.445
+  - ORS 24.115
+  - ORS 25.083
+  - ORS 25.375
+  - ORS 25.378
+  - ORS 25.501
+  - ORS 267.385
+  - ORS 293.250
+  - ORS 311.625
+  - ORS 314.430
+  - ORS 315.273
+  - ORS 316.207
+  - ORS 320.080
+  - ORS 321.570
+  - ORS 323.390
+  - ORS 344.580
+  - ORS 40.120
+  - ORS 40.460
+  - ORS 407.595
+  - ORS 411.010
+  - ORS 411.703
+  - ORS 411.760
+  - ORS 414.025
+  - ORS 414.095
+  - ORS 416.540
+  - ORS 446.003
+  - ORS 458.375
+  - ORS 646.639
+  - ORS 646.641
+  - ORS 646.643
+  - ORS 646A.670
+  - ORS 646A.677
+  - ORS 651.065
+  - ORS 652.610
+  - ORS 653.025
+  - ORS 655.530
+  - ORS 656.234
+  - ORS 657.396
+  - ORS 657.642
+  - ORS 657.646
+  - ORS 657.855
+  - ORS 670.600
+  - ORS 705.175
+  - ORS 706.008
+  - ORS 73.0104
+  - ORS 748.207
+  - ORS 759.720
+  - ORS 825.504
+  - ORS 830.700
+  - ORS 90.300
+  from_relating_to_full:
+  - ORS 18.345
+  - ORS 18.348
+  - ORS 18.385
+  - ORS 18.395
+  - ORS 18.402
+  - ORS 18.412
+  - ORS 18.600
+  - ORS 18.618
+  - ORS 18.658
+  - ORS 18.784
+  - ORS 18.785
+  - ORS 18.787
+  - ORS 18.788
+  - ORS 18.790
+  - ORS 18.835
+  - ORS 18.838
+  - ORS 18.840
+  - ORS 18.845
+  - ORS 18.847
+  - ORS 18.854
+  - ORS 18.855
+  - ORS 18.888
+  - ORS 18.892
+  - ORS 18.896
+  - ORS 646.639
+  - ORS 646.641
+  - ORS 646.643
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1595`.
+
+# SB 1595 — 2024 Regular Session (2024R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1595, 2024 Regular Session (2024R1)
+- **LC number:** 54
+- **Created:** 2024-01-16T09:40:29
+- **Metadata last modified (upstream):** 2024-04-11T09:03:34
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 182324 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1595/Enrolled>.
+
+## Summary
+
+**Catchline:** Increases certain exemptions from garnishment and execution.
+
+**Relating to:** Relating to protections from debt collection; declaring an emergency.
+
+Digest: The Act increases some amounts that are protected from debt collectors. The Act changes some laws about bad debt collection methods. (Flesch Readability Score: 63.2). 
+ Increases certain exemptions from garnishment and execution. 
+ Modifies provisions relating to unfair debt collection practices. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to protections from debt collection; creating new provisions; amending ORS 18.345, 18.348, 18.385, 18.395, 18.402, 18.412, 18.600, 18.618, 18.658, 18.785, 18.787, 18.788, 18.790, 18.835, 18.838, 18.840, 18.845, 18.847, 18.854, 18.855, 18.888, 18.892, 18.896, 646.639 and 646.641 and ORCP 84 D; repealing ORS 18.784 and 646.643; and declaring an emergency.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Enrolled
+Senate Bill 1595
+Sponsored by Senators GORSEK, JAMA, Representative SOSA, Senators GOLDEN, MANNING JR,
+PATTERSON, Representative RUIZ; Senators CAMPOS,  DEMBROW, FREDERICK, GELSER
+BLOUIN, LIEBER, MEEK,  PROZANSKI, SOLLMAN, TAYLOR, WAGNER, WEBER, WOODS,
+Representatives  ANDERSEN,  BOWMAN, BYNUM, CHAICHI, DEXTER, FAHEY, GAMBA,
+GRAYBER, HARTMAN, HOLVEY, HUDSON, KROPF,  LIVELY, MARSH, MCLAIN,
+NATHANSON, NELSON, NERON,  NGUYEN D, NGUYEN H, NOSSE, PHAM K, RAYFIELD,
+REYNOLDS, SMITH G, VALDERRAMA, WALTERS (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to protections from debt collection; creating new provisions; amending  ORS 18.345, 18.348,
+18.385, 18.395, 18.402, 18.412, 18.600, 18.618, 18.658, 18.785, 18.787, 18.788, 18.790, 18.835, 18.838,
+18.840, 18.845, 18.847, 18.854, 18.855, 18.888, 18.892, 18.896, 646.639 and  646.641 and ORCP 84 D;
+repealing ORS 18.784 and 646.643; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 18.345 is amended to read:
+18.345. (1) All property  of a judgment debtor , including franchises, or rights or interest
+[therein, of the judgment debtor, shall be ] in the judgment  debtor’s property, is  liable to an exe-
+cution, except as provided in this section  and in other statutes granting exemptions from execution.
+The following property  of the judgment  debtor , or rights or interest [ therein of the judgment
+debtor] in the property , except as provided in ORS 18.305, [ shall be ] is exempt from execution:
+(a) Books, pictures and musical instruments to the value of $600.
+(b) Wearing apparel, jewelry and other personal items to the value of $1,800.
+(c) The  tools, implements, apparatus, team, harness or library, necessary to enable the judgment
+debtor to carry on the trade, occupation or profession by which the judgment  debtor habitually
+earns a living, to the value of $5,000.
+[(d) A vehicle to the value of $3,000. As  used in this paragraph “vehicle” includes an automobile,
+truck, trailer, truck and trailer or other motor vehicle. ]
+(d)(A) A vehicle, including an automobile, truck, trailer, truck and trailer  or other motor
+vehicle, to the value of $10,000; or
+(B) If the judgment debtor owes a debt  that arises out of a child support or spousal
+support obligation or a money award judgment that includes restitution, a vehicle,  including
+an automobile, truck, trailer, truck and trailer or other motor vehicle, to  the value of $3,000.
+(e) Domestic animals and poultry kept for family use, to the total value  of $1,000 and food suf-
+ficient to support such animals and poultry for 60 days.
+(f) Household goods, furniture, radios, a television  set and utensils all to the total value of
+$3,000, if the judgment debtor holds the property primarily for the personal, family or household use
+of the judgment debtor; provisions  actually provided for family use and necessary for the support
+of a householder and family for 60 days and also 60 days’ supply of fuel.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 1
+(g) All property of the state or any  county or incorporated city therein, or of any other public
+or municipal corporation of like character.
+(h) All professionally prescribed  health aids for the  judgment  debtor or a dependent of the
+judgment debtor.
+(i) Spousal support, child support, or separate maintenance to the  extent reasonably necessary
+for the support of the judgment debtor and any dependent of the judgment debtor.
+(j) The judgment debtor’s right to receive, or property that is traceable to, an award  under any
+crime victim reparation law.
+(k) The judgment debtor’s right  to receive, or property that is traceable to, a payment or pay-
+ments, not to exceed a total of $10,000, on account of personal bodily injury of  the judgment debtor
+or an individual of whom the judgment debtor is a dependent.
+(L) The judgment debtor’s right to receive, or property that is traceable to, a payment  in
+compensation of loss of future earnings of the judgment debtor or an  individual of whom the
+judgment debtor  is or was a dependent, to the extent reasonably necessary for the support of the
+judgment debtor and any dependent of the judgment debtor.
+(m) Veterans’ benefits and loans.
+(n) The judgment debtor’s right to receive an earned  income tax credit under the federal tax
+laws and any moneys that are traceable to a payment of an earned income tax credit under the
+federal tax laws.
+(o) The judgment debtor’s right to the assets held in, or right to receive payments under,  a
+medical savings  account or health savings account authorized under section 220 or 223 of the
+Internal Revenue Code.
+(p) The judgment debtor’s interest, not to  exceed $400 in value, in any personal property.
+However, this exemption may not be used to increase the amount of any other exemption.
+(q) The judgment debtor’s right to receive a  tax credit under ORS 315.273, and any moneys that
+are traceable to a payment of a tax credit under ORS 315.273.
+(2) If the property claimed by the judgment debtor as exempt is  adjudicated by the court out
+of which the execution issued to be of a value in excess of that allowed by the  appropriate para-
+graph of subsection  (1) of this section, the officer seizing the property shall proceed to sell such
+property. Out of the proceeds of such sale, the officer shall deduct costs of sale and shall pay to  the
+judgment debtor an amount equivalent to the  value declared to be exempt by any of the paragraphs
+of subsection (1) of this section and shall apply the balance of the proceeds  of sale on the execution.
+A sale  may not be made under such execution unless the highest bid made exceeds the appropriate
+exemption claimed and allowed plus costs  of sale. If no bid is received in excess of the value allowed
+by the appropriate paragraph of subsection (1) of this section, the costs  of sale shall be borne by the
+judgment creditor.
+(3) If two or more members of  a household are joint judgment debtors, each judgment debtor
+shall be entitled to claim the exemptions in subsection (1)(a), (b), (c),  (d) and (p) of this section in
+the same or different properties. The  exemptions provided by subsection (1)(a), (b), (c), (d), (j), (k) and
+(p) of  this section, when claimed for jointly owned property, may be combined at the option of the
+judgment debtors.
+(4) Notwithstanding any  other provision of law except ORS 657.855, if a writ of garnishment or
+other execution is issued to collect past due support as defined in  ORS 18.600, 50 percent of unem-
+ployment compensation benefits, workers’ compensation benefits and other  benefits paid to the
+judgment debtor by the United States, by the state or by a political subdivision  of the state are
+exempt. The exemption related to unemployment compensation benefits  provided by this subsection
+is subject to ORS 657.855. The exemption provided by this subsection applies  without regard to
+whether the payment  is made on a periodic basis or in a lump sum, including any lump sum payable
+pursuant to a settlement or judgment. Notwithstanding subsection (1)(k) of this  section, if a payment
+is made under a settlement  or judgment on account of personal bodily injury and the garnishment
+or other execution is issued to collect past due support as  defined in ORS 18.600, the lesser of 50
+percent of the payment or $7,500 is exempt.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 2
+SECTION 2.  ORS 18.348 is amended to read:
+18.348. (1)  Funds that are exempt from execution under ORS 18.358, 18.385, 178.345, 238.445,
+344.580, 407.595, 411.760, 414.095, 655.530, 656.234, 657.855 and 748.207 remain exempt when deposited
+in an account in a financial institution as long as the exempt funds are reasonably identifiable.
+(2) Subsection (1)  of this section does not apply to any accumulation of funds greater than
+$7,500.
+(3) All funds that are exempt under federal  law remain exempt when deposited in an account in
+a financial institution as long as the exempt funds are reasonably identifiable.
+(4) The application of subsections (1) and (3) of this section  is not affected by the commingling
+of exempt and nonexempt funds in an account. For the purpose of identifying  exempt funds in an
+account, first in, first out accounting principles shall be used.
+(5) The provisions of this section do not affect the duties of  a garnishee with respect to amounts
+in accounts that are not subject to garnishment under ORS [ 18.784] 18.785.
+SECTION 3.
+ ORS 18.385 is amended to read:
+18.385. (1) Except  as provided in this section, 75 percent of the disposable earnings of an indi-
+vidual are exempt from execution.
+(2) Except as provided in subsection (6) of this section,  the disposable earnings of an indi-
+vidual are exempt from execution to the extent that payment under a garnishment would result in
+net disposable earnings for an individual of less than the following amounts:
+[(a) $254 for any period of one week or less; ]
+[(b) $509 for any two-week period; ]
+[(c) $545 for any half-month period; ]
+[(d) $1,090 for any one-month period; and ]
+[(e) For any other period longer than one  week, $254 multiplied by that fraction produced by di-
+viding the  number of days for which the earnings are paid by seven. The amount calculated under this
+paragraph must be rounded to the nearest dollar. ]
+(a) For any period of one week or less:
+(A) For wages payable before January 1, 2025, $254.
+(B) For wages payable on or after January 1, 2025, and before July 1, 2025, $305.
+(C) For wages payable on or after July 1, 2025, and before July 1, 2026, $338.
+(D) For wages payable on or after July 1, 2026, and before July 1, 2027, $400.
+(E) For wages payable on or after  July 1, 2027, the minimum wage specified in ORS
+653.025 (1), multiplied by 30.
+(b) For any two-week period:
+(A) For wages payable before January 1, 2025, $509.
+(B) For wages payable on or after January 1, 2025, and before July 1, 2025, $611.
+(C) For wages payable on or after July 1, 2025, and before July 1, 2026, $675.
+(D) For wages payable on or after July 1, 2026, and before July 1, 2027, $832.
+(E) For wages payable on or after July 1, 2027,  the minimum wage specified in ORS
+653.025 (1), multiplied by 60.
+(c) For any half-month period:
+(A) For wages payable before January 1, 2025, $545.
+(B) For wages payable on or after January 1, 2025, and before July 1, 2025, $655.
+(C) For wages payable on or after July 1, 2025, and before July 1, 2026, $737.
+(D) For wages payable on or after July 1, 2026, and before July 1, 2027, $912.
+(E) For wages payable on or after  July 1, 2027, the minimum wage specified in ORS
+653.025 (1), multiplied by 65.
+(d) For any one-month period:
+(A) For wages payable before January 1, 2025, $1,090.
+(B) For wages payable on or after January 1, 2025, and before July 1, 2025, $1,309.
+(C) For wages payable on or after July 1, 2025, and before July 1, 2026, $1,458.
+(D) For wages payable on or after July 1, 2026, and before July 1, 2027, $1,792.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 3
+(E) For wages payable on or after July 1, 2027,  the minimum wage specified in ORS
+653.025 (1), multiplied by 130.
+(e) For any other period longer than one week:
+(A) The following  amount multiplied by that fraction produced by dividing the number
+of days for which the earnings are paid by seven, rounded to the nearest dollar:
+(i) For wages payable before January 1, 2025, $254.
+(ii) For wages payable on or after January 1, 2025, and before July 1, 2025, $305.
+(iii) For wages payable on or after July 1, 2025, and before July 1, 2026, $338.
+(iv) For wages payable on or after July 1, 2026, and before July 1, 2027, $400.
+(B) For wages payable on or after July 1, 2027,  the minimum wage specified in ORS
+653.025 (1), multiplied by 30 and multiplied again by that fraction produced by dividing  the
+number of days for which the earnings are paid by seven. The amount calculated under  this
+sub-paragraph must be rounded to the nearest dollar.
+(3) Beginning in 2027, the State Court Administrator shall calculate the  exemption
+amounts specified in subsection (2) of this section each year  on or before July 1 and shall
+publish the results of  the calculations on the Judicial Department website. In making the
+calculations, the State Court Administrator shall  round to the nearest dollar. The adjusted
+exemption amounts become effective on  July 1 of the year in which the State Court Admin-
+istrator makes the calculation.
+[(3)] (4) If an individual is paid for a period shorter than one week[ ,]:
+(a) The exemption calculated under subsection (2) of  this section may not exceed [ $254] the
+following amount for any one-week period[ .]:
+(A) For wages payable before January 1, 2025, $254.
+(B) For wages payable on or after January 1, 2025, and before July 1, 2025, $305.
+(C) For wages payable on or after July 1, 2025, and before July 1, 2026, $338.
+(D) For wages payable on or after July 1, 2026, and before July 1, 2027, $400.
+(E) For wages payable on or after  July 1, 2027, the minimum wage specified in ORS
+653.025 (1), multiplied by 30.
+(b) The exemption calculated under subsection (6) of this section may not exceed $254.
+[(4)] (5) An employer shall deduct from the amount of disposable  earnings determined to be
+nonexempt under subsections (1) [ to (3) ], (2) and (4)  of this section any amounts withheld from the
+individual’s earnings for the same period of time under an order issued pursuant to ORS 25.378 or
+419B.408 or ORS chapter 110. The employer shall make payment under a garnishment only  of those
+amounts remaining after the deduction is made.
+(6) If  a writ of garnishment includes or is attached to a notice from a state or federal
+child support agency, or includes or is attached to an attestation that a debt arises out of a
+child support or spousal support obligation or a  money award judgment that includes
+restitution, the individual’s disposable earnings are exempt  only to the extent that payment
+under a garnishment would result in net disposable earnings for  an individual of less than
+the following amounts:
+(a) $254 for any period of one week or less;
+(b) $509 for any two-week period;
+(c) $545 for any half-month period;
+(d) $1,090 for any one-month period; and
+(e) For any other period longer than one week, $254 multiplied by  that fraction produced
+by dividing the number of days for which the earnings are paid by seven. The amount cal-
+culated under this paragraph must be rounded to the nearest dollar.
+[(5)] (7) Subsections (1) to [ (4)] (6) of this section do not apply to:
+(a) Any order of a court of bankruptcy.
+(b) Any debt due for federal tax.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 4
+[(6)] (8) Subsections (2) to [ (4)] (6) of this section do not apply to any debt  due for state tax.
+Subsection (1) of this section does  not apply to a debt due for state tax if a state agency issues a
+special notice of garnishment under ORS 18.855 (6).
+[(7)] (9) A court may not  make, execute or enforce any order or process in violation of this
+section.
+[(8)] (10) Any waiver by an individual of the provisions of this section is void.
+[(9)] (11) An employer may not discharge any individual because  the individual has had earnings
+garnished.
+SECTION 4.  ORS 18.395 is amended to read:
+18.395. (1)(a) Except as provided in paragraph (b) of this subsection, a homestead [ shall be ]
+is exempt from sale on  execution, from the lien of every judgment and from liability in any form for
+the debts of the owner to the amount in value of [ $40,000] $150,000, except as otherwise provided
+by law. The exemption [ shall be ] is effective without the necessity of a claim thereof by the judg-
+ment debtor. When two or more members of a household are judgment debtors whose interests  in
+the homestead  are subject to sale on execution, the lien of a judgment or liability in any form, their
+combined exemptions under this section shall not exceed [ $50,000] $300,000.
+(b) A homestead is exempt from  sale on execution, from the lien of every judgment and
+from liability in any form for the debts of the owner arising out of a child  support or spousal
+support obligation or a money  award judgment that includes restitution to the amount in
+value of $40,000, except as otherwise provided by law. The  exemption is effective without the
+necessity of a claim thereof by the judgment debtor. When two or more members  of a
+household are judgment debtors whose interests in the  homestead are subject to sale on
+execution, the lien of a judgment or liability in any form, their combined exemptions  under
+this section shall not exceed $50,000.
+(c) To qualify for the exemption under paragraph (a) or (b) of this subsection,  the home-
+stead must be the actual  abode of and occupied by the owner, or the owner’s spouse, parent or child,
+but the exemption shall not be impaired by:
+[(a)] (A) Temporary removal or temporary absence with the intention to reoccupy the same as
+a homestead;
+[(b)] (B) Removal or absence from the property; or
+[(c)] (C) The sale of the property.
+(d)(A) The  State Court Administrator shall index the amounts identified as exempt from
+execution under paragraph (a) of this subsection each year on or before July 1 to reflect  in-
+creases or decreases in the cost of living for the previous  calendar year, based on changes
+in the Consumer Price Index  for All Urban Consumers, West Region (All Items), as published
+by the Bureau of Labor  Statistics of the United States Department of Labor or a successor
+agency. The  State Court Administrator shall publish the adjusted exemption limitations on
+the Judicial Department website. In adjusting the amounts, the State Court Administrator
+shall round to the nearest $100,  but shall use unrounded adjusted amounts to calculate the
+amounts of the exemptions during the succeeding  year. The new amounts become effective
+on July 1 of the year in which the State Court Administrator makes the adjustment.
+(B) The indexing described in subparagraph (A) of this paragraph  does not apply to the
+amount of any exemption specified for a debt that arises out of a child support or  spousal
+support obligation or a money award judgment that includes restitution.
+(2) The  exemption [ shall extend ] extends to the proceeds derived from [ such sale to an amount
+not exceeding $40,000 or $50,000, whichever amount ] selling the homestead in  the amount that  is
+applicable under subsection (1) (a) or (b)  of this section, if the proceeds are held for a period  not
+exceeding one year and held with the intention to procure another homestead therewith.
+(3) The exemption period under subsection [ (1)(b) and (c) ] (1)(c)(B) and (C)  of this section [ shall
+be] is one year from the removal, absence or sale, whichever occurs first.
+(4) When the owner of a  homestead has been granted a discharge in bankruptcy or has conveyed
+the homestead property, the value thereof, for the  purpose of determining a leviable interest in ex-
+Enrolled Senate Bill 1595 (SB 1595-B) Page 5
+cess of the  homestead exemption, [ shall be ] is the value on the date of the petition in bankruptcy,
+whether the value is determined in the bankruptcy proceedings or  not, or on the date the
+conveyance becomes effective, whichever [ shall first occur ] occurs first . However, with respect to
+judgments not discharged in the bankruptcy, or entered against the  owner after discharge, the value
+on the effective date of conveyance [ shall be ] is controlling.
+(5) Except as provided in subsection  (7) of this section, [ no] a homestead that is the actual abode
+of and occupied by the judgment debtor, or that is the actual abode  of and occupied by a spouse,
+dependent parent  or dependent child of the judgment debtor, [ shall] may not  be sold on execution
+to satisfy a judgment that at the time of  entry does not exceed $3,000. However, such judgment
+[shall remain] remains a lien upon the real property, and the property may be sold on execution:
+(a) At any time after the sale of the property by the judgment debtor; and
+(b) At any time after  the property is no longer the actual abode of and occupied by the judgment
+debtor or the spouse, dependent parent or dependent child of the judgment debtor.
+(6) The limitation on  execution sales imposed by subsection (5) of this section is not impaired
+by temporary  removal or temporary absence with the intention to reoccupy the property as a
+homestead.
+(7) The limitation on execution sales imposed by subsection (5) of this section does not  apply if
+two or more judgments are owing to a single  judgment creditor and the total amount owing to the
+judgment creditor, determined by adding the amount of each individual judgment as of the date the
+judgment was entered, is greater than $3,000.
+(8) Upon  the issuance of an order authorizing sale as required by ORS 18.904, and in conform-
+ance with subsection (5) of this section, the sheriff may proceed to  sell the property. If the home-
+stead exemption applies, the sheriff shall pay the homestead owner  out of the proceeds the [ sum of
+$40,000 or $50,000, whichever is applicable, ] applicable amount under subsection (1)(a) or (b) of
+this section  and apply the balance of the proceeds on the execution. However, [ no sale shall be
+made where the homestead ] the sheriff may not sell the homestead if an  exemption applies unless
+the sum bid for  the homestead [ is in excess of the sum of the costs of sale and $40,000 or $50,000,
+whichever is applicable ] exceeds the sum of the costs of the sale and the  amount of the appli-
+cable exemption. If no such  bid is received, the petitioner shall bear the expense of the sale [ shall
+be borne by the petitioner ].
+(9) The homestead exemption provided by  this section applies to a purchaser’s interest under a
+land sale contract, as defined by ORS 18.960.
+(10) The homestead exemption provided by this section applies to:
+(a) A floating home, as defined by ORS 830.700; and
+(b) A manufactured dwelling, as defined by ORS 446.003.
+SECTION 5.
+ ORS 18.402 is amended to read:
+18.402. [The homestead mentioned in ORS 18.395 shall consist ] A homestead  described in ORS
+18.395 consists, when  not located in any town or city laid off into blocks and lots, of any quantity
+of land not exceeding 160 acres, and  when located in any such town or city, of any quantity of land
+not exceeding one block. However, a homestead under this section [ shall not exceed in value  the sum
+of $40,000 or $50,000, whichever amount is applicable under ] may not exceed in value the applica-
+ble amount specified in  ORS 18.395 (1) (a) or (b) .
+SECTION 6.  ORS 18.412 is amended to read:
+18.412. (1) At any time after the date of execution of an agreement to transfer the  ownership
+of property in which a homestead exemption exists pursuant to ORS 18.395, the homestead owner
+or the owner’s transferee may give notice of intent to discharge  the property from the judgment lien
+to a judgment creditor.  Each notice [ shall] must bear the caption of the action in which the judg-
+ment was recovered and [ shall] must :
+(a) Identify the property and the judgment and state that the judgment  debtor is about to
+transfer, or has transferred, the property and that the transfer is intended to discharge  the property
+from any lien effect of the judgment;
+Enrolled Senate Bill 1595 (SB 1595-B) Page 6
+(b) State the fair market value of the property on the date of the notice or of any  applicable
+petition in bankruptcy,  whichever is applicable, and list the encumbrances against the property, in-
+cluding the nature and date of  each encumbrance, the name of the encumbrancer and the amount
+presently secured by each encumbrance;
+(c) State that the property is claimed by the person giving the notice to  be wholly exempt from
+the lien of the judgment or, if the value of the property  exceeds the sum of the encumbrances
+specified as required under paragraph (b) of this subsection that are senior to the judgment  lien and
+[$40,000 or $50,000, whichever amount of the homestead exemption is applicable under ] the applicable
+amount of the homestead exemption specified in  ORS 18.395 (1)(a) or (b) , that the amount of the
+excess or the amount due on the judgment, whichever is less, will be deposited  with the court ad-
+ministrator for the court in which the judgment was entered for the use of the judgment  holder; and
+(d) Advise the holder of the judgment that the property may be discharged from any lien  arising
+from the judgment, without further notice to the judgment  creditor, unless prior to a specified date,
+which in no case may be earlier than 14 days  after the date of mailing of the notice, the judgment
+creditor files objections and a request for a hearing on the matter as provided in ORS 18.415.
+(2) Each notice described by subsection (1) of  this section [ shall] must be sent by certified mail
+to the judgment  creditor, as shown by the court records, at the judgment creditor’s present or
+last-known address according  to the best knowledge of the person sending the notice. A copy of each
+notice, together with proof of mailing, may be filed  with the court administrator for the court in
+which the judgment was entered and [ shall] must be filed  by the court administrator with the re-
+cords and files of the action in which the judgment was recovered.
+SECTION 7.  ORS 18.600 is amended to read:
+18.600. As used in ORS 18.600 to 18.850:
+(1) “Account” means an account at a financial institution, including a master account or  sub-
+account, to which an electronic payment may be directly routed.
+(2) “Check” has the meaning given that term in ORS 73.0104.
+(3) “Creditor” means a person to whom a debt is owed by a debtor.
+(4) “Debt” means  any monetary obligation for which a garnishment may be issued under ORS
+18.605.
+(5) “Debtor” means a person whose property is being garnished for the purpose of paying  a debt
+owed to a creditor.
+(6) “Federal benefit payment” means:
+(a) A benefit payment from the United States Social Security  Administration that is protected
+under 42 U.S.C. 407 and 1383(d)(1);
+(b) A benefit payment from the United  States Department of Veterans Affairs that is protected
+under 38 U.S.C. 5301(a);
+(c) A benefit payment from the Railroad  Retirement Board that is protected under 45 U.S.C.
+231m(a) and 352(e); or
+(d) A benefit payment from the United States Office  of Personnel Management that is protected
+under 5 U.S.C. 8346 and 8470.
+(7) “Financial institution” means a financial  institution or trust company as those terms are
+defined in ORS 706.008.
+(8) “Garnishable property” means all property described in ORS 18.615, but does not include:
+(a) Any property that is not subject to garnishment under ORS 18.618; and
+(b) Any property that is applied as a setoff under ORS 18.620 or 18.795.
+(9) “Garnishee” means a person to whom a writ of garnishment has been delivered.
+(10) “Garnishment account review” means the process of examining deposits to an account to
+determine whether benefit payments described in ORS [ 18.784 (3) ] 18.785 (2)(c)(B)  have been de-
+posited in the account during the lookback period  described in ORS 18.785 (2)(d) .
+(11) “Garnishor” means:
+(a) The creditor, if the writ is issued by the court administrator  on behalf of the creditor under
+ORS 18.635 (2); or
+Enrolled Senate Bill 1595 (SB 1595-B) Page 7
+(b) The issuer, if the writ is issued under ORS 18.635 by any person other than the court ad-
+ministrator.
+(12) “Past due support” means  the amount of child or spousal support, or both, determined under
+a court or administrative order in a proceeding under  ORS 25.501 to 25.556 or ORS chapter 107, 108,
+109, 110, 419B or 419C that has not been paid or is certified to be owed by another  state under ORS
+25.083.
+(13) “Wages” includes  all amounts paid for the services of an employee by an employer, includ-
+ing amounts paid as a commission or bonus.
+(14) “Writ” means a writ of garnishment.
+SECTION 8.
+ ORS 18.618 is amended to read:
+18.618. (1)(a) Notwithstanding ORS 18.615, the following are not garnishable property:
+(A) Equitable interests, except to the extent allowed under ORS chapter 130.
+(B) Property in the custody of the law.
+(C) Property in the possession of a conservator.
+(D) Property in the possession of a personal representative that constitutes the  subject matter
+of a trust contained in a duly probated will of a decedent.
+(E) If a residential landlord is the garnishee, property in the possession of a residential  landlord
+that is held as a security deposit or prepaid rent under ORS 90.300.
+(F) The right of a seller under  a land sale contract, as defined by ORS 18.960, to receive pay-
+ments that are due more than 45 days after the writ of garnishment is delivered.
+(G) Amounts in an account in a financial institution that  are not subject to garnishment under
+ORS [ 18.784] 18.785.
+(H) An identification document, such  as a driver license, passport, certified copy of a record of
+live birth or Social Security card.
+(b) If a garnishee holds any property described in paragraph  (a) of this subsection, the garnishee
+must note in the garnishee response required by ORS 18.680 that  the garnishee holds the property,
+but may not deliver the property to the garnishor.
+(2)(a) Notwithstanding ORS 18.615, wages owing by a garnishee to a debtor for a  specific pay
+period are not garnishable property if:
+(A) The writ is delivered within two business days before  the debtor’s normal payday for the
+pay period;
+(B) When the writ is delivered to  the garnishee, the debtor’s wages are paid by direct deposit
+to a financial institution, or the garnishee uses the Oregon Department of Administrative Services
+or an independent contractor as defined in ORS  670.600 as payroll administrator for the garnishee’s
+payroll;  and
+(C) Before the writ is delivered  to the garnishee, the garnishee issued instructions to the fi-
+nancial institution or the payroll administrator to pay the debtor for the pay period.
+(b) If a garnishee owes any wages as described  in paragraph (a) of this subsection, the garnishee
+must so note in the garnishee response required by ORS 18.680.
+(3) Notwithstanding any other provision of  law, if a voluntary or involuntary bankruptcy peti-
+tion has been filed by or on behalf  of the debtor after a writ of garnishment could be issued under
+ORS 18.605, the garnishment of any property of the debtor in the garnishee’s possession, control or
+custody is stayed pursuant to section 362  of the United States Bankruptcy Code (11 U.S.C. 101 to
+1330).
+SECTION 9.
+ ORS 18.658 is amended to read:
+18.658. (1) Following delivery of a writ of garnishment to  a garnishee, the person who delivered
+the writ must mail or deliver  promptly the following documents to the debtor whose property is
+being garnished by the writ:
+(a) A copy of the writ of garnishment.
+(b) The original of the debt calculation form.
+(c) A notice of exemptions form in substantially the  form provided by ORS 18.845  or section
+19 of this 2024 Act, as appropriate .
+Enrolled Senate Bill 1595 (SB 1595-B) Page 8
+(d) A challenge to garnishment form in substantially the form provided by  ORS 18.850, with the
+names and addresses of the garnishor and garnishee entered by the garnishor.
+(2) A person serving a writ of  garnishment may meet the requirements of subsection (1) of this
+section by mailing the documents to the address of the debtor that appears in the  writ of
+garnishment. If an address  for the debtor does not appear in the writ, the person serving the writ
+need not comply with subsection (1) of this section.
+SECTION 10.  ORS 18.785 is amended to read:
+18.785. [ (1) Except as provided in this section, if a financial institution determines from a
+garnishment account  review conducted under ORS 18.784 (1) that one or more payments described in
+ORS 18.784 (3) have been deposited  into the debtor’s account by direct deposit or electronic payment
+during the lookback period described in ORS 18.784 (2), and  there is a positive balance in the account
+at the time the garnishment account review is conducted, the financial institution shall: ]
+[(a) Immediately calculate and establish the amount in  the debtor’s account that is not subject to
+garnishment and ensure that the debtor has full customary access to that amount; and ]
+[(b) Issue a notice to the account holder in substantially the form set forth in ORS 18.847. ]
+[(2) A financial institution shall  issue the notice required by this section directly to the account
+holder or to  a fiduciary who administers the account and receives communications on behalf of the
+account holder.]
+[(3) The notice required by this section must be sent  separately to the debtor and may not be in-
+cluded with other materials  being provided to the debtor by the financial institution that do not relate
+to the garnishment. ]
+[(4) The  notice required by this section must be sent to the account holder within three business
+days after the financial institution completes the garnishment account review required by ORS  18.784
+(1).]
+[(5) A financial institution shall perform the calculation  described in subsection (1) of this section
+for each account of the account  holder. However, the financial institution may issue a single notice
+under this section for multiple accounts of the same account holder. ]
+[(6) Issuance of a notice under this section does  not constitute the giving of legal advice and a fi-
+nancial institution is not  obligated to provide legal advice by reason of issuing a notice required by this
+section.]
+(1) As used in this section:
+(a) “Base  protected account balance” means the amount not subject to garnishment
+calculated under subsection (2)(j) of this section.
+(b) “Garnishment account  review” means the review conducted under subsection (2)(c)
+of this section.
+(c) “Lookback period” means the period described in subsection (2)(d) of this section.
+(2)(a)(A) If a financial institution receives a writ of  garnishment for a debtor that has
+an account with the financial institution, the financial institution shall  first determine
+whether the writ of garnishment includes a Notice  of Right to Garnish Federal Benefits from
+the United States  Government or from a state child support enforcement agency, as provided
+in 31 C.F.R. part 212, or is attached to an attestation  that a debt arises out of a child sup-
+port or spousal support obligation or a judgment that contains a money award  of restitution.
+(B) If the writ of garnishment includes  a Notice of Right to Garnish Federal Benefits, the
+provisions of paragraphs (b) to (j) of this subsection do not  apply to the writ of garnishment
+and the financial institution shall proceed on the garnishment as provided  in ORS 18.600 to
+18.850.
+(C) If the writ of garnishment is attached to an attestation that a debt arises out  of a
+child support or spousal support obligation or a judgment  that contains a money award of
+restitution, paragraphs (b), (c)(A), (e), (f) and (j) of this subsection do not apply  to the writ
+of garnishment and  the financial institution shall conduct a garnishment account review as
+provided in paragraphs (c)(B), (d) and (g) to (i) of this subsection.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 9
+(D) If  the writ of garnishment does not include a Notice of Right to Garnish Federal
+Benefits or is not attached  to an attestation that a debt arises out of a child support or
+spousal support obligation or a judgment that contains  a money award of restitution, the
+financial institution shall immediately calculate and establish the total amount in all of the
+accounts the debtor has with the financial institution.
+(b) If the total of the amounts in all of a debtor’s accounts with  the financial institution
+does not exceed the base protected account balance, the financial institution shall provide
+full customary access to the amounts  in the debtor’s accounts with the financial institution.
+(c) If a financial  institution finds under paragraph (a)(C) of this subsection that the total
+amount in all of a debtor’s accounts with the financial institution exceeds the  base protected
+account balance, the financial institution shall:
+(A) Provide full customary access to the base protected account balance; and
+(B) Conduct a garnishment account review to determine  whether one or more of the
+payments listed in this subparagraph were made to  any of the debtor’s accounts by direct
+deposit or electronic transfer within the lookback  period. The payments a financial institu-
+tion must look for during a garnishment account review are:
+(i) Federal benefit payments;
+(ii) Payments from a public or private retirement plan as defined in ORS 18.358;
+(iii) Public assistance payments or medical assistance, as defined in ORS 414.025, from
+the State of Oregon or an agency of the State of Oregon;
+(iv) Unemployment compensation payments from the  State of Oregon or an agency of the
+State of Oregon;
+(v) Black lung benefits payments from the United States Department of Labor; and
+(vi) Workers’ compensation payments from a workers’ compensation carrier.
+(d) The lookback period during which a financial institution must  determine whether a
+payment listed in paragraph (c) of this subsection was made to a debtor’s account with  the
+financial institution:
+(A) Ends on the day before the day  on which the financial institution conducts the
+garnishment account review; and
+(B) Begins:
+(i) On the day in the  second calendar month preceding the month in which the financial
+institution conducts the garnishment account review that has the same number as  the day
+on which the lookback period ends; or
+(ii) On the last day of the second calendar month  preceding the month in which the fi-
+nancial institution  conducts the garnishment account review, if the day described in sub-
+subparagraph (i) of this subparagraph does not exist.
+(e)(A) If a financial institution determines after conducting a garnishment  account re-
+view that a payment listed in paragraph (c)(B) of this  subsection was made by direct deposit
+or electronic transfer to an account the debtor  has with the financial institution within the
+lookback period, the financial institution shall provide the  debtor with full customary access
+to the sum of the following amounts, which are not subject to garnishment:
+(i) The base protected account balance; and
+(ii) The amount by which  the sum of all payments listed in paragraph (c) of this sub-
+section that were made by direct deposit or electronic transfer to the debtor’s  accounts with
+the financial institution within the lookback period exceeds the base protected  account bal-
+ance.
+(B) The amounts in subparagraph (A) of  this paragraph are calculated as of the effective
+date and time  of the garnishment, but before the financial institution conducts the
+garnishment account review, and are not affected by withdrawals of  funds by the debtor af-
+ter the effective date and time of the garnishment.
+(f) A financial  institution that conducts a garnishment account review under paragraph
+(c) of this subsection shall proceed to deliver to the garnishor  under ORS 18.600 to 18.850 any
+Enrolled Senate Bill 1595 (SB 1595-B) Page 10
+amount that exceeds an amount not subject to garnishment described  in paragraph (e) of
+this subsection.
+(g) If the  writ of garnishment is attached to an attestation that a debt arises out of a
+child support or spousal support obligation or a judgment  that contains a money award of
+restitution, the financial institution  shall conduct a garnishment account review and provide
+the debtor with  full customary access to all payments listed in paragraph (c)(B) of this sub-
+section that were made by direct  deposit or electronic transfer to an account the debtor has
+with the financial institution within the lookback period.
+(h) A financial institution shall perform a garnishment account review only  one time for
+a specific garnishment. If the same writ of garnishment is served on a  financial institution
+more than once, the financial institution may not perform a garnishment account review or
+take any  other action relating to the garnishment based on the second and any subsequent
+service of the writ of garnishment.
+(i) The  provisions of this subsection do not affect a debtor’s ability to claim any ex-
+emption that otherwise  is available to the debtor under law for any amounts in an account
+in a financial institution.
+(j) The  initial base protected account balance is the combined total of $2,500 in all of a
+debtor’s accounts in the financial institution. The State Court Administrator shall index  the
+base protected account balance amount each year on or before July 1 to reflect increases
+or decreases in the cost of living for the previous calendar year, based on changes in the
+Consumer Price Index for All Urban Consumers, West Region  (All Items), as published by
+the Bureau of Labor Statistics of the United States Department of  Labor or a successor
+agency. The State Court Administrator shall publish the adjusted  exemption on the Judicial
+Department website. In adjusting the exempted amount, the State Court Administrator shall
+round to the nearest $100, but shall use the unrounded adjusted amount to  calculate the
+exempted amount  for the succeeding year. The new exempted amount becomes effective on
+July 1 of the year in which the State Court Administrator makes  the adjustment and be-
+comes the amount that the State Court Administrator must adjust in the succeeding year.
+(3) A financial institution that conducts the  garnishment account review described in
+subsection (2)(c) of this section  shall, within three business days after conducting the
+garnishment account  review, notify the debtor, or a fiduciary that administers the debtor’s
+accounts and receives communications on  behalf of the debtor, of the financial institution’s
+actions. The financial institution shall provide the notice in substantially the  form specified
+in ORS 18.847 and must send the notice to the debtor or fiduciary separately,  not as part of
+any communications unrelated to the garnishment that the financial institution  provides to
+the debtor or fiduciary.
+(4) A financial institution must  perform the calculations described in subsection (2)(c)
+of this section for  each of the debtor’s accounts with the financial institution, but may issue
+a single notice under subsection (3) of this section for  multiple accounts of the same account
+holder.
+(5) Issuing a notice under subsection (3) of this  section does not constitute giving legal
+advice. A  financial institution is not obligated to provide legal advice by reason of issuing a
+notice under subsection (3) of this section.
+(6) The provisions of subsection (2)(c), (d), (e) and (f) of this section apply only to pay-
+ments that a financial institution can identify,  from information the payer transmits to the
+financial institution, as one of the types of payments listed in  subsection (2)(c)(B) of this
+section.
+SECTION 11.
+ ORS 18.787 is amended to read:
+18.787. A financial institution is not liable to  any account holder, garnishor or other financial
+institution, and may not be assessed any penalty, by reason of any action taken by  the financial
+institution in good faith under ORS [ 18.784 or] 18.785, including:
+Enrolled Senate Bill 1595 (SB 1595-B) Page 11
+(1) Delivery or refusal to deliver any funds that are not  subject to garnishment under ORS
+[18.784] 18.785 to a garnishor;
+(2) Providing the notice required [ by this section ] under ORS 18.785 to an account holder;
+(3) Customary clearing  and settlement adjustments made to a debtor’s account that affect the
+balance in the debtor’s account; and
+(4) Any bona fide errors that occur under ORS [ 18.784 or] 18.785 despite reasonable  procedures
+implemented by the financial institution to prevent those errors.
+SECTION 12.  ORS 18.788 is amended to read:
+18.788. A financial institution shall maintain records of account activity and actions taken by
+the financial institution in response to a garnishment that are adequate  to demonstrate compliance
+with the requirements of ORS [ 18.784 and] 18.785 for a period of not less than two years after  the
+financial institution receives the writ of garnishment.
+SECTION 13.  ORS 18.790 is amended to read:
+18.790. (1) Except as provided in subsection (4) of this section,  at the time of delivery of any
+writ of garnishment on a financial institution or at the time a notice of  garnishment is delivered to
+the financial institution under ORS 18.854:
+(a) A search fee of $10 must be paid to the financial institution if the  garnishor is the Depart-
+ment of Revenue.
+(b) A search fee  of $15 must be paid to the financial institution if the garnishor is a person other
+than the department.
+(2) A separate search fee  must be paid under this section to the financial institution for each
+debtor if the writ is issued for more than one debtor under ORS 18.607 (5).
+(3) If the search fee required under this section is not paid:
+(a) The garnishment is not effective to garnish any property of the debtor; and
+(b) The financial institution need not file a garnishee response.
+(4) The search fee required under this section need not be paid  to a financial institution if the
+debtor is an employee of the financial institution.
+(5) Notwithstanding subsection (1) of this section,  a financial institution may enter into an
+agreement with any state agency authorized to  garnish pursuant to ORS 18.645 or 18.854 for peri-
+odic billing and payment of garnishee search fees required under this section.
+(6) The  right of a financial institution to receive the search fee required under this section does
+not in any way restrict or impair the right of the  financial institution to charge and collect an ad-
+ditional garnishment processing fee from any debtor whose  property the financial institution holds,
+or to whom the financial institution  owes money. However, a financial institution may not charge
+or collect a garnishment processing fee in violation of  ORS 652.610. If a financial institution charges
+a garnishment processing fee,  the financial institution may collect the fee by deducting the amount
+of the fee from any amount that the financial institution owes to the debtor.
+(7) If a garnishment account review reveals that a payment  listed in ORS 18.785 (2)(c)(B)  was
+made by direct deposit or electronic  payment to the debtor’s account during the lookback period
+described in ORS [ 18.784 (2) ] 18.785 (2)(d) , the financial institution may not charge or collect  a
+garnishment processing fee under subsection (6)  of this section against the amount that is not sub-
+ject to garnishment, and  may not charge or collect a garnishment processing fee under subsection
+(6) of this section against any amounts  in the account after the date of the garnishment account
+review.
+SECTION 14.
+ ORS 18.835 is amended to read:
+18.835. A garnishee response must be in substantially the following form:
+_______________________________________________________________________________________
+ COURT
+COUNTY OF 
+)
+Enrolled Senate Bill 1595 (SB 1595-B) Page 12
+Plaintiff, ) GARNISHEE
+) RESPONSE
+vs. ) Case No. 
+)
+)
+Defendant. )
+The writ of garnishment was delivered to me on the  day of , 2 . The following
+responses are accurate and complete as of that date.
+_______________________________________________________________________________________
+PART I: DEBTOR’S PROPERTY
+GENERALLY
+(ALL GARNISHEES MUST FILL OUT
+THIS PORTION OF THE RESPONSE)
+Place a check in front of all the following statements that apply. You  may need to check more than
+one statement.
+I have discovered that a voluntary or  involuntary bankruptcy petition has been filed by or
+on behalf of the Debtor after the date shown on the face of the writ as  the date on which
+the judgment was entered against the Debtor or after the  debt otherwise became subject to
+garnishment. (You need not  complete any other part of this response, but you must sign the
+response and deliver it in the  manner specified in Step 2 of the Instructions to Garnishee
+form.)
+I do not employ the Debtor, I do not have in my possession,  control or custody any personal
+property of the Debtor, and I do not owe any debts or other obligations to the Debtor.
+I employ the Debtor. (You must complete Part II of this response.)
+I have in my possession,  control or custody garnishable money that belongs to the Debtor
+(other than wages), or I owe a debt or other obligation to the  Debtor (other than wages)
+that is due as of the time of this response. I am forwarding this money, or enough  of it to
+satisfy the garnishment, to the Garnishor.
+I owe a debt or other obligation to  the Debtor (other than wages) that was not due as of
+the time of this response but will become due  within 45 days after the writ was delivered
+to me. I will forward the money, or enough of it to satisfy the garnishment, to the
+Garnishor when the debt or other obligation becomes due.
+I owe the following  debt or other obligation to the Debtor (other than wages) that will not
+become due within 45 days after the date that the writ was delivered to me. I will not  make
+any payments on the debt or obligation until  I receive instructions from the Sheriff or until
+30 days have passed from the date on which I deliver this response. (See Instructions to
+Garnishee form.)Enrolled Senate Bill 1595 (SB 1595-B) Page 13
+I have in my possession, control  or custody the following personal property (other than
+money) that belongs to the Debtor. I will hold  all of the property for the Garnishor until I
+receive instructions from the Sheriff or until 30 days have  passed from the date on which
+I deliver this response. (See Instructions to Garnishee form.)
+I may owe money  to or hold property of the Debtor, but I am not sure what or how much
+it might be. (You must provide an explanation in the  following space and you must deliver
+an amended response when you find out. You must deliver an amended response even if you
+find out that you have no property of the Debtor or owe no money to the Debtor.)
+(FINANCIAL INSTITUTIONS ONLY)  We hold one or more accounts for the Debtor, of
+which $  is not subject to garnishment under ORS  [18.784] 18.785. We are forwarding
+all other garnishable amounts, or enough of it to satisfy the garnishment,  to the Garnishor.
+The writ of garnishment  delivered to me, on its face, does not comply with the Oregon laws
+governing writs of garnishment,  or I cannot determine the identity of the Debtor from the
+information in the writ. (You must provide an explanation in the following space.)
+Enrolled Senate Bill 1595 (SB 1595-B) Page 14
+I have received an order to withhold income that applies to  the income of the Debtor. The
+order to withhold  income has priority over the writ of garnishment, and compliance with the
+order will reduce or eliminate the money that  I would otherwise deliver under the writ.
+(Provide details, including the name of the agency serving the  order to withhold income, the
+date the order was  served on you and the amount to be withheld. If you employ the Debtor,
+you must still complete Part II of this response.)
+I have received notice  of a challenge to the garnishment. I will deliver to the court admin-
+istrator all money that I would otherwise deliver to the Garnishor. (See Step  3 of In-
+structions to Garnishee form.)
+Other (Explain)
+_______________________________________________________________________________________
+PART II: DEBTOR’S EMPLOYER
+(GARNISHEES WHO EMPLOY THE
+DEBTOR MUST FILL OUT THIS
+PORTION OF THE RESPONSE)
+Place a check in front of all the following statements that apply. You  may need to check more than
+one statement.
+NOTE: THE LAW PROHIBITS DISCHARGE OF THE DEBTOR FROM EMPLOYMENT  BY REA-
+SON OF GARNISHMENT.
+I employ the Debtor. The Debtor is paid on a  basis (insert  “weekly,” “monthly” or
+other pay period). Wages will next be payable to the Debtor on the  day of ,
+2 . I will  complete a Wage Exemption Calculation form for each payment of wages that
+is made during the 90-day period immediately following the  date that the writ of
+garnishment was delivered to me. I will also complete  a Wage Exemption Calculation form
+for the payday immediately following the end of  the 90-day period. I will forward to the
+Garnishor on each of these occasions  those wages calculated to be subject to garnishment,
+or enough of those wages to satisfy the garnishment.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 15
+I had already received a writ of garnishment from another Garnishor before  this writ was
+delivered to me. Under Oregon law, the previous writ  has priority. The previous writ will
+terminate on the  day of , 2 .
+_______________________________________________________________________________________
+I hereby certify that I have fully and accurately completed this garnishee response.
+Dated , 2
+Name of Garnishee
+Signature
+Telephone number 
+Fax number (if available) 
+Address
+_______________________________________________________________________________________
+SECTION 15.
+ ORS 18.838 is amended to read:
+18.838. Instructions to garnishees must be in substantially the following form:
+_______________________________________________________________________________________
+INSTRUCTIONS TO GARNISHEE
+Except as specifically provided  in these instructions, you must complete and deliver the
+Garnishee Response within seven  calendar days after you receive the writ of garnishment.  If the
+writ does not  comply with Oregon law, the writ is not effective to garnish any property of the
+Debtor, but you  still must complete and deliver the Garnishee Response. You must complete and
+deliver  the  response even though you cannot determine from the writ whether you hold any property
+or owe any debt to the Debtor.  If the seventh calendar day is a Saturday, Sunday or legal holiday,
+you must deliver your response on or before the next following day  that is not a Saturday, Sunday
+or legal holiday.
+The writ is not effective, and you need not make a Garnishee Response, if:
+• You do not receive the writ within 60 days after the date of issuance shown on the face of
+the writ.
+• You do not receive an original writ of garnishment or a copy of the writ.
+Statutes that may affect your rights and duties under the writ can  be found in ORS 18.600 to
+18.850.
+NOTE: The Garnishor may be the Creditor, the attorney for the Creditor or some other  person
+who is authorized by law to issue the writ of garnishment. See the writ to  determine who the
+Garnishor is.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 16
+STEP 1. FILL OUT THE GARNISHEE RESPONSE.
+All garnishees who are required to deliver a garnishee  response must fill in Part I of the
+Garnishee Response. Garnishees who employ the Debtor must  also fill in Part II of the response.
+You should keep a copy of the response for your records.
+Completing Part I of the Garnishee Response.  If  you discover before you deliver your response
+that a  bankruptcy petition has been filed by or on behalf of the Debtor, and the bankruptcy petition
+was filed after a judgment was entered against the Debtor or  after the debt otherwise became sub-
+ject to garnishment (see  the date specified in the writ), you must put a check by the appropriate
+statement in Part I. If a bankruptcy petition has been filed, you should not make any payments to
+the Garnishor unless the court orders otherwise. You  need not complete any other part of the re-
+sponse, but you still must sign the response and  deliver it in the manner described in Step 2 of these
+instructions.
+In all other cases you must list in Part I all money and personal property of  the Debtor that is
+in your possession, control  or custody at the time of delivery of the writ. You must also list all debts
+that you owe to the Debtor, whether or not those debts are currently  due (e.g., money loaned to you
+by the Debtor that is to be repaid at a later time).
+If you are the employer of the Debtor at  the time the writ is delivered to you, you must put a
+check by the appropriate statement in Part I.  In addition, you must complete Part II of the response.
+If you believe that you may hold  property of the Debtor or that you owe a debt to the Debtor,
+but you are not sure, you must put a check by the appropriate statement  and provide an explana-
+tion. When you find out what property you hold that belongs to the Debtor, or you find out  whether
+you owe money to  the Debtor and how much, you must prepare and deliver an amended response.
+You must do this even if you  find out that you have no property of the Debtor or that you do not
+owe anything to the Debtor.
+If you determine that the writ, on its face, does not comply with Oregon laws governing writs
+of garnishment, or if you are  unable to determine the identity of the Debtor from the information
+in the writ,  then the writ is not effective to garnish any property of the Debtor. You must put a
+check by the appropriate statement in Part I and  provide an explanation. You still must complete
+the response and deliver the response in the manner described in Step 2 of these instructions.
+If you have  received an order to withhold income that applies to the income of the Debtor and
+that order has priority over the garnishment, and if compliance with the order  will reduce or elim-
+inate the money or property that you would otherwise deliver under  the garnishment, you must put
+a check by the appropriate statement in Part I. You still must fill out the remainder of  the response
+and deliver the  response in the manner described in Step 2 of these instructions. If you employ the
+Debtor, you still must complete Part II of the response.
+If you receive notice of a challenge to the garnishment before you  send your response, you must
+complete and deliver your response as otherwise required  by these instructions. However, see Step
+3 of these instructions regarding payment of money or delivery of  property after receipt of notice
+of a challenge to the garnishment.
+If you owe a debt to the Debtor and  the Debtor owes a debt to the holder of an underlying lien
+on your property, you may  be able to offset the amount payable to the underlying lienholder. See
+ORS 18.620. You must note that you have made the offset in Part I of  the response (under
+“Other”) and specify the amount that was offset.
+Completing Part II  of the Garnishee Response (employers only).
+ You must fill in Part II of the
+response  if  you employ the Debtor on the date the writ of garnishment is delivered to you, or if you
+previously employed the Debtor and still owe wages to the Debtor  on the date the writ is delivered
+to you.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 17
+Wages affected.  Except as  provided below, the writ garnishes all wages that you owe to the
+Debtor for work performed before the date you received the  writ, even though the wages will not
+be paid until a later date. The writ also  garnishes all wages that are attributable to services per-
+formed during  the 90-day period following the date you received the writ, even though you would
+not pay the Debtor for all or part  of those services until after the end of the 90-day period. Wages
+subject to garnishment under the writ include all amounts paid by you as an employer,  whether on
+an hourly, weekly or monthly basis, and include commission payments and bonuses.
+Example 1:  Debtor A is employed by you and is paid a  monthly salary on the first day of
+each month. You receive a writ of garnishment on  July 17. The writ garnishes all wages
+that you owe to Debtor A for  work performed on or before July 17. If Debtor A was paid
+on July 1 for  services performed in the month of June, the writ garnishes Debtor A’s salary
+for the period beginning July 1 and ending October 15 (90 days after receipt of the writ).
+The writ does not garnish any wages you owe to a Debtor for a specific pay period if:
+(a) The writ is delivered  to you within two business days before the Debtor’s normal payday for
+the pay period;
+(b) When the writ is delivered to you, the Debtor’s wages are paid by direct deposit to a  finan-
+cial institution, or you use an independent  contractor as payroll administrator for your payroll; and
+(c) Before the writ was delivered to you, you issued instructions to the financial  institution or
+the payroll administrator to pay the Debtor for the pay period.
+If any wages are not garnishable by reason of the issuance of instructions to a financial  insti-
+tution or a payroll administrator as described above, you must so note in  the Garnishee Response.
+Thereafter,  you  must pay to the Garnishor all wages that are subject to garnishment that are at-
+tributable to  services performed by the Debtor during the 90-day period following the date you re-
+ceived the writ.
+Calculation of wages  subject to garnishment.
+ A Wage Exemption Calculation form is attached
+to the writ of garnishment. You must use this form to calculate the amount of the Debtor’s  wages
+that is subject  to garnishment. You should read the instructions printed on the Wage Exemption
+Calculation form to determine the  normal wage exemption and the minimum wage exemption for
+each payment you make under the writ.
+A Wage Exemption Calculation form must be sent with  the first payment you make under the
+writ. For the 90-day period during which the writ is effective, you must  also fill out and return a
+Wage Exemption Calculation form with a subsequent payment any time the initial calculation
+changes. Finally, you must fill out and return a Wage  Exemption Calculation form with the final
+payment that you make under the writ.
+Payment of amount subject to garnishment.
+ Payments under the writ  must be made at the fol-
+lowing times, unless the amount owing on the judgment or other debt is fully  paid before the final
+payment is made or the writ is released:
+(a) You must make a payment to the Garnishor of all wages subject to  garnishment at the time
+you next pay wages to the Debtor. Complete the  wage exemption computation, using the Wage Ex-
+emption Calculation form, to determine the portion of  the Debtor’s wages that is subject to
+garnishment. Be sure to  adjust the minimum exemption amount for any payment that covers less
+than a full pay  period. You must include a copy of the Wage Exemption Calculation form with this
+first payment.
+Example 2:  Using the facts given in Example 1, when you  next make any payment of wages
+to Debtor A after you receive the writ on July 17, you must complete the Wage  Exemption
+Calculation form and send the form to the Garnishor along with all  amounts determined to
+be subject to garnishment that are attributable to the period  covered by the payment. If you
+Enrolled Senate Bill 1595 (SB 1595-B) Page 18
+pay Debtor  A on August 1, the payment will be for all wages attributable to the period be-
+ginning July 1 and ending July 31.
+(b) Unless the writ of  garnishment is satisfied or released, during the 90-day period following the
+date you received the writ, you must pay to the Garnishor  all wages that are determined to be
+subject to garnishment whenever you issue a paycheck  to the Debtor. If the Debtor is paid on a
+weekly basis, you must make payment  under the writ on a weekly basis. If the Debtor is paid on a
+monthly basis, you must make payment under the writ on a monthly basis. If the amount paid  to the
+Debtor varies from paycheck to paycheck, or changes at any time from the amount being paid at
+the time the writ was delivered to you, you  must perform a new wage exemption computation to
+determine the amount of wages subject  to garnishment under the writ. You must send a copy of the
+new Wage Exemption Calculation form with your payment to the Garnishor.
+Example 3:
+ Using the facts given above, as you make each  subsequent payment of wages to
+Debtor A you must make a payment of that  portion of the Debtor’s wages that are subject
+to garnishment. If you continue to pay Debtor A on the  first of each month, payments must
+be made on September 1 and October 1.
+(c) Upon the expiration  of the 90-day period, you must make a final payment to the Garnishor
+for all wages that were owing to the Debtor for the work performed by the Debtor through the  90th
+day following your receipt of the writ. This payment may be made at the  time of the Debtor’s next
+paycheck. You will need to complete  another Wage Exemption Calculation form to determine the
+amount of the wages subject to garnishment.
+Example 4: Using the facts  given above, you must make a final payment for the wages owing
+to Debtor A for the period beginning October 1 and ending October  15. You may make this
+payment at the time you issue Debtor  A’s paycheck on November 1, but you must make the
+payment at any time  you issue a paycheck to Debtor A after October 15. Be sure that in
+completing the wage exemption computation for the final  payment you adjust the minimum
+exemption amount to take  into account the fact that the period covered is only 15 days of
+the full month (see instructions on Wage Exemption Calculation form).
+Processing fee.  You may collect a  $2 processing fee for each week of wages, or fraction of a
+week of wages, for which a payment is made under the writ. The fee must be collected after you
+make the  last payment under the writ. The fee must be withheld from the wages of the debtor, and
+is in addition to the amounts withheld  for payment to the Garnishor under the writ or under any
+other writ you have received.
+If you receive more than one writ of garnishment.
+ If you  receive a second writ of garnishment
+for the same Debtor from another Garnishor, the first writ will have priority for wages. The priority
+of the first writ lasts for the  90-day period following delivery of that writ to you, or until the first
+writ is paid in full,  whichever comes first. In your response to the second writ, you must put a check
+by the appropriate statement in Part II and indicate the  date on which the first writ will expire (90
+days after the date you received the writ). You should make no payments  under the second writ
+until expiration of the first writ. The expiration date of the second writ is 90 days after  the date
+you received the second writ; the expiration date is not affected by  any delay in payment attribut-
+able to the priority of the first writ.
+STEP 2. DELIVER THE GARNISHEE RESPONSE.
+You must deliver your Garnishee Response and copies of the response in the manner provided
+in this step. The response and copies may be mailed or delivered personally.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 19
+You must complete and deliver  the Garnishee Response within seven calendar days after you
+receive the writ of garnishment. If the seventh calendar  day is a Saturday, Sunday or legal holiday,
+you must deliver your response on or before the next following day  that is not a Saturday, Sunday
+or legal holiday.
+If you are required to  hold any property under the writ or make any payment under the writ,
+either at the time of making your response or later, you must:
+(a) Send the original  of your Garnishee Response to the Garnishor at the address indicated on
+the writ under Important Addresses.
+(b) Send a copy  of your Garnishee Response to the  court administrator at the address indicated
+on the writ under Important Addresses.
+(c) Send a copy  of your Garnishee Response to the Debtor if an address is indicated on the writ
+under Important Addresses.
+If you are not  required to hold any property  under the writ or make any payment under the
+writ, either at the time of making your response or later, you must:
+(a) Send the original  of your Garnishee Response to the Garnishor at the address indicated on
+the writ under Important Addresses.
+(b) Send a  copy  of your Garnishee Response to the Debtor if an address is indicated on the writ
+under Important Addresses.
+STEP 3. DELIVER THE FUNDS OR OTHER PROPERTY.
+As long as the writ is in effect, you may be liable to the Creditor if you pay any  debt or turn
+over  any  property to the Debtor except as specifically allowed by law. If you have any money or
+property of the Debtor in your possession, control or custody at the time of  delivery of the writ, or
+owe any debt to the Debtor, you must pay the money or hold the property as  required by this step.
+Exceptions to this requirement are listed below.
+IF YOU ARE HOLDING MONEY FOR THE DEBTOR OR OWE A DEBT THAT  IS CUR-
+RENTLY DUE, you must pay the money to the Garnishor with your response. You must  send your
+payment to the Garnishor at the address  indicated on the writ under Important Addresses. Make
+your check payable to the Garnishor.
+IF YOU OWE A DEBT TO THE DEBTOR THAT WILL BECOME  DUE WITHIN 45 DAYS
+AFTER THE DATE YOU RECEIVED THE WRIT, you must  send your payment directly to the
+Garnishor at the address provided in the writ when  the debt becomes due. Make your check payable
+to the Garnishor.
+IF YOU ARE HOLDING PROPERTY  THAT BELONGS TO THE DEBTOR, OR OWE A DEBT
+TO THE DEBTOR THAT  WILL NOT BECOME DUE WITHIN 45 DAYS AFTER THE DATE YOU
+RECEIVED THE WRIT, you must keep the property or debt in your possession,  control or custody
+until you receive written notice from the Sheriff. The  Sheriff’s notice will tell you what to do with
+the property or debt. If  you have followed all of the instructions in the writ and you receive no
+notice from the Sheriff within 30 days after the date on which  you delivered your Garnishee Re-
+sponse, you may treat the writ as being of no further force or effect.
+EXCEPTIONS:
+1. Challenge to  garnishment or specific directions from court.
+ If you are making any payments
+under the garnishment and before making a payment you receive notice of a  challenge to the
+garnishment from the court, or receive a specific direction from the court to make payments  to the
+Enrolled Senate Bill 1595 (SB 1595-B) Page 20
+court,  you  must send or deliver the payment directly to the court administrator. If the money is
+currently due when you receive the notice, send the payment promptly to the court.  If the payment
+is for a debt that is payable within 45  days after you receive the writ, make the payment to the
+court  promptly  when it becomes due. If you make payment by check, make the check payable to the
+State of Oregon. Because you may be liable for any payment  that does not reach the court, it is
+better not to send cash by mail.
+A challenge to the garnishment does not affect your  duty to follow the instructions you receive
+from the Sheriff for property that belongs to the Debtor and debts that you owe to the Debtor  that
+do not become due within 45 days.
+2. Previous writ of garnishment.  If you receive a second writ of garnishment for the same Debtor
+from another Garnishor, the first writ will have priority and you need  not make payments or deliver
+property under the second  writ to the extent that compliance with the first writ will reduce or
+eliminate the payment of money or  delivery of property that you would otherwise make under the
+garnishment. You must still deliver a Garnishee Response to the second writ,  and must commence
+payment under the second writ as soon as the first writ is satisfied or expires.
+3. Offset for payment of underlying lien.  If you owe a debt to the Debtor  and the Debtor owes
+a debt to  the holder of an underlying lien on your property, you may be able to offset the amount
+payable to the underlying lienholder. See ORS 18.620.
+4. Subsequent events:
+(a) Bankruptcy.  If you make your response and then discover that a voluntary or involuntary
+bankruptcy petition has been filed by  or on behalf of the Debtor after the judgment was entered
+against the Debtor or after the debt otherwise became subject  to garnishment (see date in writ), you
+may not make any further payments or  delivery of property under the writ unless the court orders
+otherwise. If you have not  delivered all property that is subject to garnishment under this writ when
+you discover that a bankruptcy petition has been filed, you must mail the following notice to  the
+Garnishor and to the Debtor.
+(b) Order to withhold income. If you make your response  and then receive an order to withhold
+income that has priority over the  writ, you may make payments or deliver property under the writ
+only after payment of the amounts required under  the order to withhold income. If you have not
+delivered all property that is subject to garnishment under this writ when  you receive an order to
+withhold income that has priority, you must mail the following notice to the Garnishor and to  the
+Debtor.
+_______________________________________________________________________________________
+SUPPLEMENTAL GARNISHEE
+RESPONSE
+TO: The Garnishor and the Debtor
+RE: Writ of garnishment  received 
+, 2  (date), in the case of  (Plaintiff)
+vs.  (Defendant), Circuit Court of  County, Oregon, Case No. .
+The undersigned Garnishee furnished  a Garnishee Response to this writ of garnishment on
+, 2  (date). Since that time (check appropriate statement):
+Enrolled Senate Bill 1595 (SB 1595-B) Page 21
+I have discovered that a voluntary or involuntary bankruptcy  petition has been filed by or
+on behalf of the Debtor after the judgment was entered against the Debtor or after the debt
+otherwise became subject to garnishment.
+I have received  an order to withhold income of the Debtor by reason of a support obligation.
+Under ORS  25.375, the order to withhold income has priority over any other legal process
+under Oregon law against the same income. The  withholding of income pursuant to the or-
+der to withhold income might reduce or eliminate subsequent payments under the
+garnishment. (Provide details, including the name of the agency serving  the order to with-
+hold, the date the order was served on you and the amounts to be withheld.)
+Dated 
+, 2
+Name of Garnishee
+Signature
+Address
+_______________________________________________________________________________________
+SPECIAL INSTRUCTIONS FOR BANKS
+AND OTHER FINANCIAL INSTITUTIONS
+[Unless a Notice of Right to Garnish Federal Benefits  from the United States Government or from
+a state child support enforcement agency is  attached to or included in the garnishment, you must con-
+duct a garnishment account review for each account that you hold for the debtor. If a  Notice of Right
+to Garnish Federal Benefits  from the United States Government or from a state child support enforce-
+ment agency is attached to or included  in the garnishment, you should not conduct a garnishment ac-
+count review, and should proceed upon the garnishment in the normal manner. ]
+[If you hold an account for the debtor, and any of the  payments listed below has been deposited
+in the account by direct deposit or electronic payment during the  lookback period described in ORS
+18.784 (2) (the period that begins on the date preceding  the date of your garnishment account review
+and that ends on the corresponding date of the month two months earlier, or on the  last day of the
+month two months earlier if the corresponding date does not exist), an  amount equal to the lesser of
+the sum of those payments or the total balance in  the debtor’s account is not subject to garnishment,
+and you may not deliver that amount to the garnishor: ]
+[(a) Federal benefit payments as defined in ORS 18.600 (payments from the  United States Social
+Security Administration, the  United States Department of Veterans Affairs, the United States Office
+of Personnel Management or the Railroad Retirement Board); ]
+[(b) Payments from a public or private retirement plan as defined in ORS 18.358; ]
+[(c) Public assistance or medical assistance, as defined in  ORS 414.025, payments from the State
+of Oregon or an agency of the State of Oregon; ]
+[(d) Unemployment compensation payments from the State of Oregon or an agency of the State of
+Oregon; ]
+[(e) Black lung benefits payments from the United States Department of Labor; and ]
+[(f) Workers’ compensation payments from a workers’ compensation carrier. ]
+(1)(a) If you receive a writ of garnishment for a Debtor who has an account with  your
+institution, you must first determine whether a Notice of Right to Garnish  Federal Benefits
+Enrolled Senate Bill 1595 (SB 1595-B) Page 22
+from the United States Government or from a  state child support enforcement agency, as
+provided in 31 C.F.R. part 212, accompanies the writ of garnishment.
+(b) If a Notice  of Right to Garnish Federal Benefits accompanies the writ of garnishment,
+you must proceed with the garnishment in the normal manner.
+(c) If the writ  of garnishment is attached to an attestation that a debt arises out of a
+child support or spousal support obligation or a judgment  that contains a money award of
+restitution, the base protected account balance does not apply and you should  not perform
+the calculation provided  by (1)(d), (2), (3), (5) and (6) below, but you must perform a
+garnishment account review as provided in (4) and (7) below.
+(d) If a Notice of Right to Garnish Federal Benefits does not accompany the writ of
+garnishment or the writ of garnishment is not attached to an  attestation that a debt arises
+out of  a child support or spousal support obligation or a judgment that contains a money
+award that  includes restitution, you must immediately determine the total amount in all of
+the accounts the Debtor has with your institution.
+(2)(a) If,  after making the determination in (1)(d) above, you find that the total amount
+in all of the Debtor’s accounts with your institution is less than or equal  to the base pro-
+tected account balance,  as defined in ORS 18.785 (1)(a), shown on the Oregon Judicial De-
+partment website as exempt from garnishment:
+(A) The Debtor’s accounts are not subject to garnishment.
+(B) You must provide full customary access to the Debtor’s accounts.
+(b) As of the effective date of this 2024 Act,  the amount that is not subject to
+garnishment is $2,500, but this amount is indexed to the Consumer Price Index for All  Urban
+Consumers, West Region (All Items), as  published by the Bureau of Labor Statistics of the
+United States Department of Labor or a successor agency, and may vary from year to  year.
+(3) If,  after making the determination in (1)(d) above, you find that the total amount in
+all of the Debtor’s accounts with  your institution exceeds the base protected account balance
+shown on the Oregon Judicial Department website as exempt from garnishment:
+(a) The base protected account balance is not subject to garnishment.
+(b) You must  provide full customary access to the base protected account balance shown
+on the Oregon Judicial Department website as exempt from garnishment.
+(c) You must conduct a garnishment account review.
+(4) In a garnishment account review, you must  determine whether any of the following
+payments were made by direct deposit or electronic transfer to any of the Debtor’s accounts
+with your institution within the lookback period described in ORS 18.785 (2)(d) (the period
+that begins on the  date preceding the date of your garnishment account review and that ends
+on the corresponding date of the month two  months earlier, or on the last day of the month
+two months earlier if the corresponding date does not exist):
+(a) Federal benefit payments as defined in ORS  18.600 (benefit payments from the United
+States Social  Security Administration, the United States Department of Veterans Affairs,
+the United States Office of Personnel Management or the Railroad Retirement Board);
+(b) Payments from a public or private retirement plan as defined in ORS 18.358;
+(c) Public assistance payments or medical assistance, as defined in ORS 414.025,  from the
+State of Oregon or an agency of the State of Oregon;
+(d) Unemployment compensation  payments from the State of Oregon or an agency of the
+State of Oregon;
+(e) Black lung benefits payments from the United States Department of Labor; or
+(f) Workers’ compensation payments from a workers’ compensation carrier.
+(5) If in the garnishment  account review you determine that any of the payments listed
+in (4) above were made by direct deposit or electronic transfer to any of the  Debtor’s ac-
+counts with  your institution within the lookback period, you may not garnish, and must
+provide full customary access to, the sum of:
+Enrolled Senate Bill 1595 (SB 1595-B) Page 23
+(a) The base protected account  balance shown on the Oregon Judicial Department
+website as exempt from garnishment; and
+(b) The amount by which the sum of all payments described in (4)  above exceeds the base
+protected account balance.
+(6) Any amount in the Debtor’s accounts that exceeds  the amounts described in (5) above
+is subject to garnishment and you must proceed with garnishment in the ordinary manner.
+(7) If the writ of  garnishment is attached to an attestation that a debt arises out of a
+child support or spousal support obligation or a judgment  that contains a money award of
+restitution, you must provide the Debtor with full customary access to all payments listed
+in (4) above that were made by direct deposit or electronic transfer to an account within the
+lookback period the Debtor has with your institution.
+If the Garnishor fails to pay the search fee required by ORS 18.790  and you do not employ the
+Debtor, you are not required to  deliver a Garnishee Response and you may deal with any property
+of the Debtor as though the garnishment had not been issued.
+If the Debtor owes a debt to you that was due at the time you  received the writ of garnishment,
+you may be able to offset the amount  of that debt. See ORS 18.795. You must note that you have
+made the offset in Part I of the Garnishee Response (under “Other”) and specify the amount  that
+was offset.
+Before making a payment under the writ, you may first deduct any processing fee  that you are
+allowed under ORS 18.790.  If you are required to conduct a garnishment account review, you may
+not charge or collect a processing fee against any amount that is  not subject to garnishment, and
+may not charge or collect a garnishment processing fee against any amounts  in the account after
+the date that you conduct the review.
+You need not deliver any property contained in a safe deposit box unless the Garnishor  pays
+you in advance for the costs that will be incurred in gaining entry to the box. See ORS 18.792.
+If you are required to  conduct a garnishment account review and you determine from the review
+that one or more of the payments listed in  ORS [ 18.784 (3)] 18.785 (2)(c)(B) have been deposited into
+the Debtor’s account by direct deposit or electronic payment during the  lookback period described
+in ORS [ 18.784 (2)] 18.785 (2)(d), and that there is a positive balance in the account, you must issue
+a notice to the  account holder in substantially the form set forth in ORS 18.847. The notice must
+be issued directly to the account holder or to a  fiduciary who administers the account and receives
+communications on behalf of the account holder. The notice must be sent  separately to the account
+holder and may not be included with other materials being provided to the account  holder that do
+not relate to the garnishment. You must send the notice to the  account holder within three business
+days after you complete the  garnishment account review. You may issue one notice with information
+related to multiple accounts of a single account holder.
+_______________________________________________________________________________________
+SECTION 16.
+ ORS 18.840 is amended to read:
+18.840. (1) A wage exemption  calculation form must be delivered to the garnishee with each writ
+of garnishment. Except as provided in subsection  (2) of this section,  a wage exemption calcu-
+lation form must be in substantially the following form:  For wages  paid on or after July 1, 2027,
+the garnishor is required to  update this form with the applicable year and wage exemption
+amounts published on the Judicial Department website pursuant to ORS 18.385  (3). The
+garnishor is required to include the wage exemption amounts for wages  earned before and
+after July 1 of the year the garnishment was issued.
+_______________________________________________________________________________________
+Enrolled Senate Bill 1595 (SB 1595-B) Page 24
+WAGE EXEMPTION CALCULATION
+(to be filled out by employers only )
+1. Debtor’s gross wages
+for period covered by this
+payment.................................................$
+2. Total amount required to be
+withheld by law for amount in Line 1
+(Federal and state
+withholding, Social
+Security, etc.) ........................ $
+3. Debtor’s disposable wages
+(Subtract Line 2
+from Line 1) .......................... $
+4. Normal exemption
+(Enter 75 percent
+of Line 3) ............................... $
+[5. Minimum exemption (check one)
+$254 (payment of wages weekly)
+$509 (payment of wages every
+two weeks)
+$545 (payment of wages half-monthly)
+$1,090 (payment of wages monthly)
+$  (Any other period longer
+than one week, including partial
+payments for less than full pay
+period) (Multiply $254 by number
+of weeks or fraction of a week) ]
+5. Minimum exemption (check one)
+If you pay wages weekly:
+$254, if the wages are payable before January 1, 2025
+$305, if the wages are payable on or after January 1, 2025, and before July 1, 2025
+$338, if the wages are payable on or after July 1, 2025, and before July 1, 2026
+$400, if the wages are payable on or after July 1, 2026, and before July 1, 2027
+$___, if the wages are payable on or after July 1,  2027, and before July 1, 2028. Note:
+The garnishor is required to insert the applicable wage exemption amount published
+on the Judicial Department website pursuant to ORS 18.385 (3)
+$___, if the wages  are payable on or after July 1, ____ and before July 1, ____. Note:
+The garnishor is required to insert the applicable years and  wage exemption amount
+published on the Judicial Department website pursuant to ORS 18.385 (3)
+If you pay wages every two weeks:
+$509, if the wages are payable before January 1, 2025
+$611, if the wages are payable on or after January 1, 2025, and before July 1, 2025
+$675, if the wages are payable on or after July 1, 2025, and before July 1, 2026
+$832, if the wages are payable on or after July 1, 2026, and before July 1, 2027
+$___, if the wages are payable on or after July 1,  2027, and before July 1, 2028. Note:
+The garnishor is required to insert the applicable wage exemption amount published
+on the Judicial Department website pursuant to ORS 18.385 (3)
+$___, if the wages  are payable on or after July 1, ____ and before July 1, ____. Note:
+The garnishor is required to insert the applicable years and  wage exemption amount
+published on the Judicial Department website pursuant to ORS 18.385 (3)
+Enrolled Senate Bill 1595 (SB 1595-B) Page 25
+If you pay wages for a half-month period:
+$545, if the wages are payable before January 1, 2025
+$655, if the wages are payable on or after January 1, 2025, and before July 1, 2025
+$737, if the wages are payable on or after July 1, 2025, and before July 1, 2026
+$912, if the wages are payable on or after July 1, 2026, and before July 1, 2027
+$___, if the wages are payable on or after July 1,  2027, and before July 1, 2028. Note:
+The garnishor is required to insert the applicable wage exemption amount published
+on the Judicial Department website pursuant to ORS 18.385 (3)
+$___, if the wages  are payable on or after July 1, ____ and before July 1, ____. Note:
+The garnishor is required to insert the applicable years and  wage exemption amount
+published on the Judicial Department website pursuant to ORS 18.385 (3)
+If you pay wages monthly:
+$1,090, if the wages are payable before January 1, 2025
+$1,309, if the wages are payable on or after January 1, 2025, and before July 1, 2025
+$1,458, if the wages are payable on or after July 1, 2025, and before July 1, 2026
+$1,792, if the wages are payable on or after July 1, 2026, and before July 1, 2027
+$___, if the wages are payable on or after July 1,  2027, and before July 1, 2028. Note:
+The garnishor is required to insert the applicable wage exemption amount published
+on the Judicial Department website pursuant to ORS 18.385 (3)
+$___, if the wages  are payable on or after July 1, ____ and before July 1, ____. Note:
+The garnishor is required to insert the applicable years and  wage exemption amount
+published on the Judicial Department website pursuant to ORS 18.385 (3)
+If you pay wages for any other period longer than one  week, including partial payments
+for less than a full pay period:
+$254 multiplied by that fraction produced by dividing  the number of days for which
+the earnings are  paid by seven, rounded to the nearest dollar, if the wages are pay-
+able before January 1, 2025
+$305 multiplied by that fraction produced by dividing  the number of days for which
+the earnings are  paid by seven, rounded to the nearest dollar, if the wages are pay-
+able on or after January 1, 2025, and before July 1, 2025
+$338 multiplied by that fraction produced by dividing  the number of days for which
+the earnings are  paid by seven, rounded to the nearest dollar, if the wages are pay-
+able on or after July 1, 2025, and before July 1, 2026
+$400 multiplied by that fraction produced by dividing  the number of days for which
+the earnings are  paid by seven, rounded to the nearest dollar, if the wages are pay-
+able on or after July 1, 2026, and before July 1, 2027
+The minimum wage that the Bureau of Labor and  Industries calculates under ORS
+653.025 (1) multiplied by  30 and multiplied again by the number of weeks or fraction
+of a week, if the wages are payable on or after July 1, 2027
+6. Wages exempt from garnishment
+(Line 4 or 5,
+whichever is greater) .......... $
+7. Nonexempt wages
+(Subtract Line 6
+from Line 3) .......................... $
+8. Amount withheld for this pay period
+pursuant to a support order under
+support withholding process or under
+another writ with priority ................ $
+9. Wages subject to garnishment
+(Subtract Line 8
+from Line 7) .......................... $
+Enrolled Senate Bill 1595 (SB 1595-B) Page 26
+INSTRUCTIONS FOR WAGE
+EXEMPTION CALCULATION FORM
+If you employ the Debtor named in the writ of garnishment, you must  fill out and return this
+Wage Exemption  Calculation form. A Wage Exemption Calculation form must be sent with the first
+payment you make under the  writ. For the 90-day period during which the writ is effective, you must
+also fill out and return a Wage  Exemption Calculation form with a subsequent payment any time the
+initial calculation changes. Finally, you must fill out  and return a Wage Exemption Calculation form
+with the final payment that you make under the writ.
+Normal wage  exemption.  The wage exemption calculation is based on the amount of the payment
+you make under the writ of garnishment. The  normal wage exemption in Line 4 is 75 percent of the
+employee’s disposable wages in Line 3.
+Minimum wage exemption.  The minimum exemption in Line 5 is also  based on the amount of the
+payment you are making. The minimum exemption  is designed to ensure that an employee receives
+at least a  certain minimum amount in any one-week period. [ If the payment is for a one-week period
+(without regard to whether the period is a calendar  week or any other seven-day period), the minimum
+exemption is $254. The minimum exemption is $509 if the payment is  for a two-week period. If the
+payment is for one-half  of one month (i.e., the Debtor is paid twice each month), the minimum exemption
+is $545. The minimum exemption for a monthly payment is $1,090. ]
+If the payment is for  a one-week period (without regard to whether the period is a cal-
+endar week or any other seven-day period), the minimum exemption is:
+$254, if the wages are payable before January 1, 2025
+$305, if the wages are payable on or after January 1, 2025, and before July 1, 2025
+$338, if the wages are payable on or after July 1, 2025, and before July 1, 2026
+$400, if the wages are payable on or after July 1, 2026, and before July 1, 2027
+$___, if the wages are payable on or after July 1, 2027, and before July 1, 2028.  Note: The
+garnishor is required  to insert the applicable wage exemption amount published on the Ju-
+dicial Department website pursuant to ORS 18.385 (3)
+$___, if the wages are payable on or after  July 1, ____ and before July 1, ____. Note: The
+garnishor is  required to insert the applicable years and wage exemption amount published
+on the Judicial Department website pursuant to ORS 18.385 (3)
+If the payment is for a two-week period, the minimum exemption is:
+$509, if the wages are payable before January 1, 2025
+$611, if the wages are payable on or after January 1, 2025, and before July 1, 2025
+$675, if the wages are payable on or after July 1, 2025, and before July 1, 2026
+$832, if the wages are payable on or after July 1, 2026, and before July 1, 2027
+$___, if the wages are payable on or after July 1, 2027, and before July 1, 2028.  Note: The
+garnishor is required to insert the applicable wage exemption amount published on  the Ju-
+dicial Department website pursuant to ORS 18.385 (3)
+$___, if the wages are payable on or after July 1,  ____ and before July 1, ____. Note: The
+garnishor is required to insert the applicable years and wage exemption amount  published
+on the Judicial Department website pursuant to ORS 18.385 (3)
+If the payment is for a one-half of one month (i.e. the Debtor  is paid twice each month),
+the minimum exemption is:
+$545, if the wages are payable before January 1, 2025
+$655, if the wages are payable on or after January 1, 2025, and before July 1, 2025
+$737, if the wages are payable on or after July 1, 2025, and before July 1, 2026
+$912, if the wages are payable on or after July 1, 2026, and before July 1, 2027
+Enrolled Senate Bill 1595 (SB 1595-B) Page 27
+$___, if the wages are payable on or after July 1, 2027, and before July 1, 2028.  Note: The
+garnishor is required  to insert the applicable wage exemption amount published on the Ju-
+dicial Department website pursuant to ORS 18.385 (3)
+$___, if the wages are payable on or after  July 1, ____ and before July 1, ____. Note: The
+garnishor is  required to insert the applicable years and wage exemption amount published
+on the Judicial Department website pursuant to ORS 18.385 (3)
+If the payment is for a monthly period, the minimum exemption is:
+$1,090, if the wages are payable before January 1, 2025
+$1,309, if the wages are payable on or after January 1, 2025, and before July 1, 2025
+$1,458, if the wages are payable on or after July 1, 2025, and before July 1, 2026
+$1,792, if the wages are payable on or after July 1, 2026, and before July 1, 2027
+$___, if the wages are payable on or after July 1, 2027, and before July 1, 2028.  Note: The
+garnishor is required to insert the applicable wage exemption amount published on  the Ju-
+dicial Department website pursuant to ORS 18.385 (3)
+$___, if the wages are payable on or after July 1, ____, and before July 1, ____.  Note: The
+garnishor is  required to insert the applicable years and wage exemption amount published
+on the Judicial Department website pursuant to ORS 18.385 (3)
+If the payment you are making is based on some period  of time other than one week, two weeks,
+half month or month, and the payment is for more than one week, you must calculate the  minimum
+exemption by multiplying [ $254 by ] the  minimum exemption for one week or less provided for
+in ORS 18.385 (2)(a) by the number of weeks covered by the paycheck, including any fraction  of a
+week. You should round the amount calculated to the nearest dollar.
+[Example 1:
+ You pay Debtor A every 10 days. Each 10-day period is equal to 1.429 weeks (10
+divided by 7). The minimum exemption is $363 ($254 ×  1.429 rounded to the nearest dollar). ]
+[You must  use  this same calculation for computing the minimum exemption when making a pay-
+ment for less than a full pay period (e.g., for the final  payment at the end of the 90-day period covered
+by the writ). ]
+[Example 2:  You pay Debtor A on a monthly  basis. You are required to make a final payment
+under a writ of garnishment for the  wages owing to Debtor A for the period beginning October
+1 and ending October 15. This period is equal to 2.143 weeks (15 divided by 7). The minimum
+exemption is $544 ($254 ×  2.143 rounded to the nearest dollar). ]
+[The amount of time actually worked by the Debtor  during the period covered by the paycheck does
+not affect the calculation of the minimum exemption. ]
+[Example 3:  You pay Debtor  A on a weekly basis. Debtor A works two days per week. The
+minimum exemption is $254 for each weekly payment you make for Debtor A. ]
+[If the payment you are  making is based on a period of time less than one week, the minimum wage
+exemption may not exceed $254 for any one-week period. ]
+The amounts that are exempt  from garnishment may change from year to year. You may
+view updated garnishment exemption limitations on  the Oregon Judicial Department website.
+If you receive more than  one writ of garnishment.  If you receive more than one writ of
+garnishment for  the same debtor, the writs have priority based on the date on which you receive
+them. If the full amount of wages subject  to garnishment for a given pay period is paid on the first
+writ, you should not make any payment on subsequently received  writs until the first writ expires.
+In some cases, it may be necessary to make payments on two or  more writs for the same pay period.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 28
+Example [ 4]: You have received two writs of garnishment  for Debtor A. You pay Debtor A
+on a monthly basis. The first writ expires on October 16. The second  writ will not expire
+until November 15. You will need to prepare  two wage exemption calculation forms for
+Debtor A’s October wages and make payments  under both writs. The wage exemption cal-
+culation form for the first  writ will be for the wages attributable to October 1 to October
+15 [ as described in Example  2 ]. The wage exemption calculation form for the second writ
+will be for all wages for the month of October, but  the amounts withheld under the first
+writ must be  subtracted on Line 8 to determine the October wages subject to garnishment
+under the second writ.
+_______________________________________________________________________________________
+(2) If  a writ of garnishment includes or is attached to a notice from a state or federal
+child support agency or includes or is attached  to an attestation that a debt arises out of a
+judgment debtor’s child support or spousal support obligation or a  money award judgment
+that includes restitution, the  wage exemption calculation form described in subsection (1)
+of this section must be modified to read as follows:
+WAGE EXEMPTION CALCULATION
+(to be filled out by employers only )
+1. Debtor’s gross wages
+for period covered by this
+payment....................................... $
+2. Total amount required to be
+withheld by law for amount in Line 1
+(Federal and state
+withholding, Social
+Security, etc.) ................. $
+3. Debtor’s disposable wages
+(Subtract Line 2
+from Line 1) ................... $
+4. Normal exemption
+(Enter 75 percent
+of Line 3) ........................ $
+5. Minimum exemption (check one)
+$254 (payment of wages weekly)
+$509 (payment of wages every two weeks)
+$545 (payment of wages half-monthly)
+$1,090 (payment of wages monthly)
+$  (Any other period longer than one
+week, including partial payments for less
+than full pay period) (Multiply $254 by number
+of weeks or fraction of a week)
+6. Wages exempt from garnishment
+(Line 4 or 5,
+whichever is greater) ..... $
+7. Nonexempt wages
+(Subtract Line 6
+from Line 3) ................... $
+8. Amount withheld for this pay period
+pursuant to a support order under
+Enrolled Senate Bill 1595 (SB 1595-B) Page 29
+support withholding process or under
+another writ with priority .......... $
+9. Wages subject to garnishment
+(Subtract Line 8
+from Line 7) ................... $
+INSTRUCTIONS FOR WAGE
+EXEMPTION CALCULATION FORM
+If you employ the Debtor named in the writ of garnishment, you must fill out  and return
+this Wage Exemption  Calculation form. A Wage Exemption Calculation form must be sent
+with the first payment you make under the writ. For the  90-day period during which the writ
+is effective, you must also fill out and return a Wage Exemption  Calculation form with a
+subsequent payment any time the  initial calculation changes. Finally, you must fill out and
+return a Wage Exemption Calculation form with the  final payment that you make under the
+writ.
+Normal wage exemption. The wage exemption calculation is based on the amount of the
+payment you make under the writ of garnishment. The normal wage  exemption in Line 4 is
+75 percent of the employee’s disposable wages in Line 3.
+Minimum wage exemption. The minimum  exemption in Line 5 is also based on the
+amount of the payment you are making. The  minimum exemption is designed to ensure that
+an employee receives at least a certain minimum  amount in any one-week period. If the
+payment is for a one-week period (without regard to whether the period is a calendar week
+or any other  seven-day period), the minimum exemption is $254. The minimum exemption is
+$509 if the payment is for a two-week period.  If the payment is for one-half of one month
+(i.e., the Debtor is paid twice each month), the minimum exemption is $545. The minimum
+exemption for a monthly payment is $1,090.
+If the payment you are making is based on some  period of time other than one week, two
+weeks, half month  or month, and the payment is for more than one week, you must calculate
+the minimum exemption by multiplying $254 by the  number of weeks covered by the pay-
+check, including any fraction of a week. You should round the  amount calculated to the
+nearest dollar.
+Example 1:
+You pay Debtor A every 10 days.  Each 10-day period is equal to 1.429
+weeks (10 divided by 7). The minimum exemption is $363 ($254 ×  1.429 rounded to the
+nearest dollar).
+You must  use this same calculation for computing  the minimum exemption when making
+a payment for less than  a full pay period (e.g., for the final payment at the end of the 90-day
+period covered by the writ).
+Example 2: You pay Debtor A on a monthly basis. You are required to make a final
+payment under a writ of garnishment for the wages owing to Debtor A for the period
+beginning October 1  and ending October 15. This period is equal to 2.143 weeks (15
+divided by 7). The minimum exemption is  $544 ($254 ×  2.143 rounded to the nearest
+dollar).
+The amount of time actually worked  by the Debtor during the period covered by the
+paycheck does not
+ affect the calculation of the minimum exemption.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 30
+Example 3: You pay Debtor A on a weekly basis. Debtor A  works two days per week.
+The minimum exemption is $254 for each weekly payment you make for Debtor A.
+If the payment  you are making is based on a period of time less than one week, the
+minimum wage exemption may not exceed $254 for any one-week period.
+If you receive more than one writ of garnishment.  If you receive more than one writ of
+garnishment for the same debtor, the writs have priority based on the date  on which you
+receive them. If the full amount of wages subject to garnishment for a given pay period is
+paid on the first writ, you  should not make any payment on subsequently received writs until
+the first writ  expires. In some cases, it may be necessary to make payments on two or more
+writs for the same pay period.
+Example 4: You have received two writs of garnishment for Debtor A. You pay
+Debtor A on a monthly basis. The first writ expires on October 16.  The second writ
+will not expire until November  15. You will need to prepare two wage exemption cal-
+culation forms for Debtor A’s October wages and make  payments under both writs.
+The wage exemption calculation  form for the first writ will be for the wages attrib-
+utable to October 1 to October 15 as described in  Example 2. The wage exemption
+calculation form  for the second writ will be for all wages for the month of October,
+but the amounts withheld under the first writ must be subtracted on Line 8 to  de-
+termine the October wages subject to garnishment under the second writ.
+_______________________________________________________________________________________
+SECTION 17.  ORS 18.845 is amended to read:
+18.845. Except as provided in section 19 of this 2024 Act,  a notice of exemptions form must
+be in substantially the form set forth  in this section. Nothing in the notice form described in this
+section  is  intended to expand or restrict the law relating to exempt property. A determination as
+to whether property is exempt from execution, attachment and garnishment must be made  by refer-
+ence to other  law. The form provided in this section may be modified to provide more information
+or to update the notice based on subsequent changes in exemption laws.
+_______________________________________________________________________________________
+NOTICE OF EXEMPT PROPERTY
+AND INSTRUCTIONS FOR
+CHALLENGE TO GARNISHMENT
+Property belonging to you may have been taken or held in order  to satisfy a debt. The debt may be
+reflected in a judgment or in a warrant or order issued by  a state agency. Important legal papers
+are enclosed.
+YOU MAY BE ABLE TO GET YOUR PROPERTY BACK, SO READ  THIS NOTICE CARE-
+FULLY.
+State and federal law  specify that certain property may not be taken. Some of the property that
+you may be able to get back is listed below.
+[(1) Wages or  a salary as described in ORS 18.375 and 18.385. Whichever of the following
+amounts is greater: ]
+(1) Your disposable earnings, as described in ORS  18.375 and 18.385, in an amount that
+does not exceed the greater of:
+(a) 75 percent of your take-home wages; or
+[(b) $254 per workweek. ]
+Enrolled Senate Bill 1595 (SB 1595-B) Page 31
+(b) $___ per workweek for wages earned before (date) and $___  per workweek for wages
+earned after (date). Note: The garnishor is required to insert the applicable  years and wage
+exemption amounts published on the Judicial Department website pursuant to ORS 18.385 (3).
+(2) Social Security benefits.
+(3) Supplemental Security Income (SSI).
+(4) Public assistance (welfare).
+(5) Unemployment benefits.
+(6) Disability benefits (other than SSI benefits).
+(7) Workers’ compensation benefits.
+(8) All Social Security benefits and Supplemental Security Income benefits, and up  to $7,500 in
+exempt wages, retirement benefits, welfare, unemployment benefits and disability benefits,  that are
+held in a  bank account. You may attach copies of bank statements to the Challenge to Garnishment
+form if you claim this exemption.
+(9) Spousal support, child support or  separate maintenance to the extent reasonably necessary
+for your support or the support of any of your dependents.
+(10) A homestead (house, manufactured dwelling or floating  home) occupied by you, or occupied
+by your spouse, parent or child. Up to [ $40,000] $150,000 of the value  of the homestead is exempt.
+If you jointly own the homestead with another person  who is also liable on the debt, up to
+[$50,000] $300,000 of the value of the homestead is exempt.
+(11) Proceeds from the sale of a homestead  described in item 10, up to the limits described in
+item 10, if you hold the proceeds for less than one year and intend to use those proceeds to procure
+another homestead.
+(12) Household goods, furniture,  radios, a television set and utensils with a combined value not
+to exceed $3,000.
+[*(13) An automobile, truck, trailer or other vehicle with a value not to exceed $3,000. ]
+*(13) A vehicle, including an automobile, truck, trailer, truck and trailer or  other motor
+vehicle, with a value not to exceed $10,000.
+*(14) Tools, implements, apparatus, team, harness or library that are necessary to carry on  your
+occupation, with a combined value not to exceed $5,000.
+*(15) Books, pictures and musical instruments with a combined value not to exceed $600.
+*(16) Wearing apparel, jewelry and other personal items with a combined value not  to exceed
+$1,800.
+(17) Domestic animals and poultry for family use with a combined  value not to exceed $1,000
+and their food for 60 days.
+(18) Provisions and fuel for your family for 60 days.
+(19) One rifle or shotgun and one pistol.  The combined value of all firearms claimed as exempt
+may not exceed $1,000.
+(20) Public or private pensions.
+(21) Veterans’ benefits and loans.
+(22) Medical assistance benefits.
+(23) Health insurance proceeds and disability proceeds of life insurance policies.
+(24) Cash surrender value of life insurance policies not payable to your estate.
+(25) Federal annuities.
+(26) Other  annuities to $250 per month (excess over $250 per month is subject to the same ex-
+emption as wages).
+*(27) Up to $2,500 in all of the accounts you hold in a financial institution to the extent
+that such amounts are exempt under ORS 18.785.
+[(27)] (28) Professionally prescribed health aids for you or any of your dependents.
+*[(28)] (29) Rental assistance to an elderly person allowed pursuant to ORS 458.375.
+[(29)] (30) Your right to receive, or property traceable to:
+(a) An award under any crime victim reparation law.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 32
+(b) A payment or payments, not exceeding a total of $10,000, on account of personal bodily in-
+jury suffered by you or an individual of whom you are a dependent.
+(c) A  payment in compensation of loss of future earnings of you or an individual of whom you
+are or were a dependent, to the extent reasonably necessary for your support  and the support of
+any of your dependents.
+[(30)] (31) Amounts paid to you as an earned income tax credit under federal tax law.
+[(31)] (32) Your right  to the assets held in, or right to receive payments under, a medical savings
+account or health savings account authorized  under section 220 or 223 of the Internal Revenue
+Code.
+*[(32)] (33) Interest in personal property to the value of $400, but this cannot be used to increase
+the amount of any other exemption.
+[(33)] (34) Equitable interests in property.
+[(34)] (35) Security deposits or prepaid rent held by a residential landlord under ORS 90.300.
+[(35)] (36) If the amount shown as owing on the Debt Calculation form exceeds the amount you
+actually owe to  the creditor, the difference between the amount owed and the amount shown on the
+Debt Calculation form.
+[(36)] (37) Amounts paid to you as a tax credit under ORS 315.273.
+Note: If  two or more people in your household owe the claim or judgment, each of them may
+claim the exemptions marked by an asterisk (*).
+Note: The amounts specified as limitations on exemptions in this  form may change as a
+result of changes in the Consumer Price Index  for All Urban Consumers, West Region (All
+Items), as published by the Bureau of Labor Statistics of the United States Department  of
+Labor or a successor agency. You may  view updated garnishment exemption limitations on
+the Oregon Judicial Department website.
+_______________________________________________________________________________________
+SPECIAL RULES APPLY FOR DEBTS THAT ARE OWED  FOR CHILD SUPPORT AND
+SPOUSAL SUPPORT. Some property that may not otherwise  be taken for payment against the debt
+may be taken to pay for overdue support. For instance,  Social Security benefits, workers’ compen-
+sation benefits, unemployment benefits, veterans’ benefits and pensions are normally exempt,  but
+only 50 percent of a lump sum payment  of these benefits is exempt if the debt is owed for a support
+obligation.
+YOU MUST  ACT PROMPTLY IF YOU WANT TO GET YOUR MONEY OR PROPERTY BACK.
+You may seek to reclaim your exempt property by doing the following:
+(1) Fill out the Challenge to Garnishment form that you received with this notice.
+(2) Mail  or deliver the Challenge to Garnishment form to the court administrator at the address
+shown on the writ of garnishment, and mail or deliver a copy of the form to the  Garnishor at the
+address shown on the writ of garnishment. If you  wish to claim wages or salary as exempt, you must
+mail or deliver the form within 120  days after you receive this notice. If you wish to claim that any
+other money or property is exempt, or claim that the property is not subject to garnishment,  you
+must mail or deliver the form within 30 days after you receive this notice.  You have the burden of
+showing that your challenge is made on time, so  you should keep records showing when the chal-
+lenge was mailed or delivered.
+(3) The law only requires that the Garnishor hold the garnished money or property for  10 days
+before applying it to the Creditor’s use. You may be able to keep the property from  being used by
+the Creditor by promptly following (1) and (2) above.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 33
+You should be prepared to explain your exemption in court. If you  have any questions about the
+garnishment or the debt, you should see an attorney.
+YOU MAY USE THE CHALLENGE TO GARNISHMENT FORM ONLY  FOR THE  FOLLOW-
+ING PURPOSES:
+(1) To claim such exemptions from garnishment as are permitted by law.
+(2) To assert that property is not garnishable property under ORS 18.618.
+(3) To assert that the amount specified  in the writ of garnishment as being subject to
+garnishment is greater than the total amount owed.
+YOU MAY NOT
+ USE THE CHALLENGE TO GARNISHMENT FORM  TO CHALLENGE THE
+VALIDITY OF THE DEBT.
+IF YOU FILE A  CHALLENGE TO A GARNISHMENT IN BAD FAITH, YOU MAY BE SUB-
+JECT TO PENALTIES IMPOSED BY THE COURT THAT  COULD INCLUDE A FINE. Penalties
+that you could be subject to are listed in ORS 18.715.
+When you file a Challenge to Garnishment form, the Garnishee may be required to make all
+payments under the garnishment to the court,  and the Garnishor may be required to pay to the
+court all amounts received by the Garnishor that are subject to the challenge to  the garnishment.
+The Garnishee and Garnishor are subject to penalties  if they do not. For a complete explanation
+of their responsibilities, see ORS 18.705 and 18.708.
+_______________________________________________________________________________________
+SECTION 18.
+Section 19 of this 2024 Act is added to and made  a part of ORS 18.600 to
+18.850.
+SECTION 19. If a judgment debtor’s debt arises out of a child support or spousal support
+obligation or  a money award judgment that includes restitution, a notice of exemptions form
+must be in substantially the form set  forth in this section. The notice form described in this
+section does not  expand or restrict the law relating to exempt property. A determination as
+to whether property is exempt from execution, attachment and garnishment  must be made
+by reference to other law. The form  provided in this section may be modified to provide more
+information or to update the notice based on subsequent changes in exemption laws.
+NOTICE OF EXEMPT PROPERTY
+AND INSTRUCTIONS FOR
+CHALLENGE TO GARNISHMENT
+Property belonging to  you may have been taken or held in order to satisfy a debt that
+arises out of a child support or spousal support obligation or from a money award  judgment
+that includes restitution. The debt may be  reflected in a judgment or in a warrant or order
+issued by a state agency. Important legal papers are enclosed.
+YOU MAY BE ABLE TO GET YOUR  PROPERTY BACK, SO READ THIS NOTICE
+CAREFULLY.
+State and federal law specify that certain property may not be taken. Some  of the prop-
+erty that you may be able to get back is listed below.
+(1) Your disposable earnings, as described in ORS  18.375 and 18.385, in an amount that
+does not exceed the greater of:
+(a) 75 percent of your take-home wages; or
+(b) $254 per workweek.
+(2) Social Security benefits.
+(3) Supplemental Security Income (SSI).
+(4) Public assistance (welfare).
+(5) Unemployment benefits.
+(6) Disability benefits (other than SSI benefits).
+Enrolled Senate Bill 1595 (SB 1595-B) Page 34
+(7) Workers’ compensation benefits.
+(8) All Social Security benefits and  Supplemental Security Income benefits, and up to
+$7,500 in exempt wages,  retirement benefits, welfare, unemployment benefits and disability
+benefits, that are held in a bank account.  You may attach copies of bank statements to the
+Challenge to Garnishment form if you claim this exemption.
+(9) Spousal support, child support or separate maintenance  to the extent reasonably
+necessary for your support or the support of any of your dependents.
+(10) A homestead (house, manufactured dwelling or floating  home) occupied by you, or
+occupied by your spouse, parent or child.  Up to $40,000 of the value of the homestead is ex-
+empt. If you jointly own the  homestead with another person who is also liable on the debt,
+up to $50,000 of the value of the homestead is exempt.
+(11) Proceeds from  the sale of a homestead described in item 10, up to the limits de-
+scribed in item 10, if you hold the proceeds for less than one year and  intend to use those
+proceeds to procure another homestead.
+(12) Household goods, furniture,  radios, a television set and utensils with a combined
+value not to exceed $3,000.
+*(13) A vehicle,  including an automobile, truck, trailer, truck and trailer or other motor
+vehicle, with a value not to exceed $3,000.
+*(14) Tools, implements, apparatus, team, harness or library that are  necessary to carry
+on your occupation, with a combined value not to exceed $5,000.
+*(15) Books, pictures and musical instruments with  a combined value not to exceed $600.
+*(16) Wearing apparel, jewelry and other personal items with a  combined value not to
+exceed $1,800.
+(17) Domestic animals and poultry for family use with a combined value  not to exceed
+$1,000 and their food for 60 days.
+(18) Provisions and fuel for your family for 60 days.
+(19) One rifle or  shotgun and one pistol. The combined value of all firearms claimed as
+exempt may not exceed $1,000.
+(20) Public or private pensions.
+(21) Veterans’ benefits and loans.
+(22) Medical assistance benefits.
+(23) Health insurance proceeds and disability proceeds of life insurance policies.
+(24) Cash surrender value of life insurance policies not payable to your estate.
+(25) Federal annuities.
+(26) Other annuities to $250 per month (excess over $250 per month is subject to the same
+exemption as wages).
+(27) Professionally prescribed health aids for you or any of your dependents.
+*(28) Rental assistance to an elderly person allowed pursuant to ORS 458.375.
+(29) Your right to receive, or property traceable to:
+(a) An award under any crime victim reparation law.
+(b) A payment or  payments, not exceeding a total of $10,000, on account of personal
+bodily injury suffered by you or an individual of whom you are a dependent.
+(c) A payment in compensation of loss of future earnings  of you or an individual of whom
+you are  or were a dependent, to the extent reasonably necessary for your support and the
+support of any of your dependents.
+(30) Amounts paid to you as an earned income tax credit under federal tax law.
+(31) Your right to the assets held  in, or right to receive payments under, a medical
+savings account or  health savings account authorized under section 220 or 223 of the Internal
+Revenue Code.
+*(32) Interest in personal property to  the value of $400, but this cannot be used to in-
+crease the amount of any other exemption.
+(33) Equitable interests in property.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 35
+(34) Security deposits or prepaid rent held by a residential landlord under ORS 90.300.
+(35) If the amount shown as owing on the Debt Calculation form exceeds the amount  you
+actually owe to the creditor, the difference between the amount owed and  the amount shown
+on the Debt Calculation form.
+(36) Amounts paid to you as a tax credit under ORS 315.273.
+Note: If two  or more people in your household owe the claim or judgment, each of them
+may claim the exemptions marked by an asterisk (*).
+SPECIAL RULES APPLY FOR DEBTS THAT ARE OWED FOR CHILD SUPPORT AND
+SPOUSAL SUPPORT. Some property that may not  otherwise be taken for payment against
+the debt may be taken to pay for overdue support. For  instance, Social Security benefits,
+workers’ compensation benefits, unemployment benefits, veterans’  benefits and pensions are
+normally exempt, but only 50 percent of a lump sum payment of  these benefits is exempt if
+the debt is owed for a support obligation.
+YOU MUST ACT PROMPTLY IF YOU WANT TO GET YOUR MONEY OR PROPERTY
+BACK. You may seek to reclaim your exempt property by doing the following:
+(1) Fill out the Challenge to Garnishment form that you received with this notice.
+(2) Mail or deliver  the Challenge to Garnishment form to the court administrator at the
+address shown on the writ of garnishment, and mail or deliver a copy of the  form to the
+Garnishor at the address shown  on the writ of garnishment. If you wish to claim wages or
+salary as exempt, you must mail or deliver the  form within 120 days after you receive this
+notice. If you wish to claim that any other money or property is exempt, or claim that the
+property is not subject to garnishment, you must mail or deliver the form within 30  days
+after you receive this notice. You have the burden of showing that your  challenge is made
+on time, so you should keep records showing when the challenge was mailed or delivered.
+(3) The law only  requires that the Garnishor hold the garnished money or property for
+10 days before applying it to the Creditor’s use. You  may be able to keep the property from
+being used by the Creditor by promptly following (1) and (2) above.
+You should be prepared to  explain your exemption in court. If you have any questions
+about the garnishment or the debt, you should see an attorney.
+YOU MAY USE THE CHALLENGE TO GARNISHMENT FORM ONLY
+ FOR THE  FOL-
+LOWING PURPOSES:
+(1) To claim such exemptions from garnishment as are permitted by law.
+(2) To assert that property is not garnishable property under ORS 18.618.
+(3) To assert that the amount specified  in the writ of garnishment as being subject to
+garnishment is greater than the total amount owed.
+YOU MAY NOT
+ USE THE CHALLENGE TO GARNISHMENT FORM TO CHALLENGE
+THE VALIDITY OF THE DEBT.
+IF YOU FILE A CHALLENGE TO A GARNISHMENT IN BAD  FAITH, YOU MAY BE
+SUBJECT TO PENALTIES IMPOSED BY THE  COURT THAT COULD INCLUDE A FINE.
+Penalties that you could be subject to are listed in ORS 18.715.
+When you file a Challenge to Garnishment form, the Garnishee may be required to make
+all payments under the garnishment to the  court, and the Garnishor may be required to pay
+to the court all amounts received  by the Garnishor that are subject to the challenge to the
+garnishment. The  Garnishee and Garnishor are subject to penalties if they do not. For a
+complete explanation of their responsibilities, see ORS 18.705 and 18.708.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 36
+SECTION 20.  ORS 18.847 is amended to read:
+18.847.  The notice given by a financial institution to a debtor under ORS 18.785  [(1)] (3) must
+be in substantially the following form:
+_______________________________________________________________________________________
+(Name, address of financial institution)
+IMPORTANT INFORMATION ABOUT
+YOUR ACCOUNT
+Date: 
+Notice to: 
+Account Number: 
+Why am I receiving this notice?
+On  [date on which garnishment  order was served], [name of financial
+institution] received a garnishment order from  a court to garnish funds in your account. The amount
+of the garnishment order was for $  [amount of garnishment  order]. We are sending you this
+notice to let you know what we have done in response to the garnishment order.
+What is garnishment?
+Garnishment is a  legal process that allows a creditor to remove funds from your bank/credit
+union account to  satisfy a debt that you have not paid. In other words, if you owe money to a person
+or company, they can obtain a court order directing your bank/credit union  to take money out of
+your account to pay off your debt. If this happens, you cannot use that money in your account.
+What has happened to my account?
+An amount specified by the Oregon Judicial Department is  protected by law from
+garnishment under ORS 18.785. As of the date  of this notice, that amount is
+. This means you have access to up to this amount from any and all of  the
+accounts you have with us. If you owe a debt that arises out of a child support,  spousal
+support or  a money award that includes restitution, the protected amount specified by the
+Oregon Judicial Department does not  apply. If your accounts with us have a total amount
+that exceeds the amount  the Oregon Judicial Department has specified, we must research
+your account to determine whether certain payments you might have received were  made
+to your accounts in the previous two months. The amount of  those payments might be pro-
+tected from garnishment.
+ (check if applicable)  On  [date  of account review], we researched your
+account and identified that one or more payments  identified by ORS [ 18.784 (1) ] 18.785 (2)(c)(B)
+have been deposited  in the last two months (see below for a list of qualifying payments). In most
+cases, these  payments are protected from garnishment. As required by state and federal regulations,
+therefore, we have established a “protected amount” of funds that will remain available to you and
+that will not be frozen or removed from your account in response to the garnishment order.
+(Conditional paragraph if funds have been frozen)
+Enrolled Senate Bill 1595 (SB 1595-B) Page 37
+ (check if applicable) Your account contained additional money that may not  be protected
+from garnishment. As required by law, we have placed a hold on  or removed these funds in the
+amount of $  [amount frozen] and may have to turn these funds over to your creditor as
+directed by the garnishment order.
+The chart below summarizes this information about your account(s):
+ACCOUNT SUMMARY AS OF 
+ [DATE OF ACCOUNT REVIEW]
+Amount
+Account in Amount
+Number Account Protected
+Amount
+Subject to
+Garnish-
+ment (now Garnish-
+frozen/ ment Fee
+removed) Charged
+(If the account holder has multiple accounts, use a separate row for each account)
+Please note that  these amount(s) may be affected by deposits or withdrawals after the protected
+amount was calculated on 
+(date of garnishment account review).
+Do I need to do anything to access my protected funds?
+You may use the protected amount of money in your account as you normally would.
+There is nothing else you need to do to make sure that the protected amount is safe.
+Who garnished my account?
+The creditor who obtained a  garnishment order against you is  (name of credi-
+tor).
+What types of benefit payments are protected from garnishment?
+In most cases, you have protections from garnishment if the  funds in your account include one
+or more of the following benefit payments:
+• Social Security benefits
+• Supplemental Security Income benefits
+• Veterans’ benefits
+• Railroad retirement benefits
+• Railroad Unemployment Insurance benefits
+• Civil Service Retirement System benefits
+Enrolled Senate Bill 1595 (SB 1595-B) Page 38
+• Federal Employees Retirement System benefits
+• Payments from a public or private retirement plan as defined in ORS 18.358
+• Public assistance or medical assistance, as defined in ORS 414.025,  from the State of Oregon
+or an agency of the State of Oregon
+• Unemployment compensation payments from the State of  Oregon or an agency of the State
+of Oregon
+• Black lung benefits payments from the United States Department of Labor
+• Workers’ compensation payments from a workers’ compensation carrier
+What should I do  if I think that additional funds in my account are from protected benefit payments?
+If you believe that funds in your account(s) should  not have been frozen or removed, there are
+several things you can do:
+You can fill out a Challenge to Garnishment form and submit it to the court.
+You may contact the creditor that garnished your  account and explain that funds are from
+protected benefit payments and should be released to you.  The creditor may be contacted at
+(address of creditor).
+You may consult an attorney to help you prove to  the creditor that garnished your account that
+additional funds are from protected benefit  payments and cannot be taken. For information about
+how to find  an attorney, contact the Oregon State Bar’s Lawyer Referral Service at (800) 452-7636
+or go online to www.oregonlawhelp.org.
+This notice contains all  the information that we have about the garnishment order. However,
+if you have a question about  your account, you may contact us at  (telephone
+number of financial institution).
+_______________________________________________________________________________________
+SECTION 21.
+ ORS 18.854 is amended to read:
+18.854. (1) Any state agency authorized to issue warrants to collect taxes and debts owed to the
+State of Oregon, including but  not limited to warrants issued pursuant to ORS 179.655, 184.644,
+267.385, 293.250, 314.430, 316.207, 320.080, 321.570, 323.390, 411.703, 651.065, 657.396, 657.642, 657.646,
+705.175 and 825.504, or any county tax collector  authorized to issue warrants to collect taxes and
+debts owed to the county pursuant to ORS 311.625, may garnish  property of a debtor in the pos-
+session, control or custody of a person other than the debtor by  delivering to the person all of the
+following:
+(a) A notice of garnishment;
+(b) A warrant, or a true copy of a warrant;
+(c) The items specified in ORS 18.650 (1)(b) to (d); and
+(d) Any garnishee’s search fee payable as provided in ORS 18.790.
+(2) A notice of garnishment may be issued by any  person designated by the state agency or by
+the county tax collector. A warrant need  not be recorded in the County Clerk Lien Record as a
+condition of issuing a notice of garnishment under the provisions of  this section. The provisions of
+ORS 18.800 do not apply to a notice of garnishment.
+(3) If any of  the items described in subsection (1) of this section are not delivered to the
+garnishee, a notice of garnishment shall not be effective to garnish any property of the debtor, and
+the garnishee shall not be required to respond to the garnishment  and may proceed to deal with any
+property of the debtor as though the notice of garnishment had not been issued.
+(4)(a) Notwithstanding ORS 18.652, but subject to paragraph (c) of this subsection, a  notice of
+garnishment and the other items required by subsection (1) of this section may  be delivered in per-
+son to  the garnishee by any employee of the state agency or of the county tax collector who is au-
+thorized by the agency or the county to  deliver the notice of garnishment, may be mailed to the
+Enrolled Senate Bill 1595 (SB 1595-B) Page 39
+garnishee by first class or certified mail or  may be sent to the garnishee by other means if the
+garnishee has agreed to a different delivery method.
+(b) An employee who delivers documents under paragraph (a)  of this subsection need not be
+covered by the errors and omissions insurance required in ORS 18.652.
+(c) A state agency or a county may not seek sanctions  against a noncomplying garnishee under
+ORS 18.775 unless the notice of  garnishment and the other items required by subsection (1) of this
+section are personally delivered to the garnishee under paragraph  (a) of this subsection or mailed
+to the garnishee by certified mail.
+(5) Notwithstanding any provision of ORS 18.600 to 18.850, a debt calculation  form need not be
+prepared or delivered for any notice of garnishment.
+(6) Notwithstanding ORS 18.792, the duty of a  garnishee to deliver any property of the debtor
+that may be contained  in a safe deposit box that is in the garnishee’s possession, control or custody
+at the time of  delivery of the notice of garnishment to the garnishee is conditioned upon the state
+agency or the county tax collector first paying to the garnishee, in addition to the search  fee pro-
+vided for in ORS 18.790, all reasonable costs incurred by the garnishee in gaining entry to the  safe
+deposit box. The costs shall be paid to the garnishee by the state  agency or the county tax collector
+at least five days before the date the state agency or the county  tax collector takes possession of
+the property in the safe deposit box. If the state agency or  the county tax collector fails to pay such
+costs to the garnishee  within 20 days after the delivery of the garnishee response, the garnishment
+shall not be effective to  garnish any property of the debtor that may be contained in the safe deposit
+box and the garnishee may  proceed to deal with the safe deposit box and its contents as though the
+notice of garnishment had not been issued. Nothing in this subsection limits  the rights of a state
+agency or county tax collector to reach the contents of any safe deposit  box in any manner other-
+wise provided by law.
+(7) Except as provided in this section and ORS 18.855 and 18.857, all provisions of  ORS 18.600
+to 18.850 apply to notices of  garnishment. The state agency or county tax collector shall modify the
+forms provided in ORS 18.600 to  18.850 as necessary to allow use of those forms for notices of
+garnishment. The form of the notice of garnishment  must clearly indicate that the document is a
+notice of garnishment and must reflect the date of all warrants on which the  notice of garnishment
+is based.
+(8) The Attorney General may adopt without a rulemaking proceeding model forms for notices
+of garnishment and  other documents issued by state agencies and county tax collectors under this
+section and ORS 18.855 and 18.857. There is a presumption, as described  in ORS 40.120, that any
+state agency or  county tax collector that uses a model form adopted by the Attorney General under
+this subsection has  complied with the requirements of ORS 18.600 to 18.850, and with the provisions
+of this section and ORS 18.855 and 18.857, with respect to the form of notices of garnishment.
+SECTION 22.  ORS 18.855 is amended to read:
+18.855. (1) Notwithstanding ORS 18.607, a notice of garnishment issued by a state agency  need
+not contain the name of a court whose authority is invoked.
+(2) State agencies shall make such modifications as are necessary in the  wage exemption cal-
+culation form provided by ORS 18.840 if a notice of garnishment is  issued for a debt due for a state
+tax that is subject to the provisions of ORS 18.385 [ (6)] (8).
+(3) Notwithstanding ORS 18.625, but subject to ORS 18.618 (2), a  notice of garnishment issued
+by a state agency acts to garnish all wages earned  by the debtor by reason of services to the
+garnishee until the full amount of the debt is paid or until the notice of garnishment is  released by
+the state agency or by  court order. A notice of garnishment issued by a state agency must contain
+language reasonably designed to notify the garnishee of the provisions of this subsection.
+(4) Notwithstanding  ORS 18.690, a garnishee who receives a notice of garnishment issued by a
+state agency need not deliver a copy of the garnishee response to the clerk  of the court, but must
+deliver the original of the response to the state agency.
+(5) Notwithstanding ORS 18.700, a challenge to a notice of  garnishment issued by a state agency
+must be delivered in person or by first class mail to the state agency within the time  specified by
+Enrolled Senate Bill 1595 (SB 1595-B) Page 40
+ORS 18.700 (2). Upon receiving  a challenge, the state agency shall provide notice of the challenge
+in the manner provided by ORS 18.702. Upon a sheriff receiving notice under  ORS 18.702, the sheriff
+shall proceed as provided by ORS 18.760, except that upon determination of the challenge  by an
+administrative law judge, the sheriff shall proceed as directed by  the judge. Within 14 days after
+receiving the challenge, the state agency  must either concede the challenge or give the person
+making the challenge  opportunity for hearing. If the person making the challenge requests a hear-
+ing, the agency  shall immediately refer the challenge to the Office of Administrative Hearings es-
+tablished under  ORS 183.605. The hearing shall be conducted as soon as possible. Notwithstanding
+ORS 183.315, the  hearing shall be conducted as a contested case hearing. An issue that was decided
+in a previous hearing, or for which the debtor was previously afforded an opportunity for hearing,
+may not be reconsidered.
+(6) If a state agency is  issuing a notice of garnishment for collection of a state tax, and the state
+agency has reason to believe that the debtor intends to  leave the state or do any other act that
+would jeopardize collection of  the tax, the state agency may issue a special notice of garnishment.
+Any earnings, as defined in ORS 18.375, garnished under a special  notice of garnishment are not
+subject to a claim of exemption under ORS 18.385. A special notice of garnishment  issued under this
+subsection garnishes only that property of the debtor that is in the garnishee’s possession, control
+or custody at the time the special  notice is delivered, including debts not yet due, and all wages
+owed by the garnishee to the debtor at the time the special notice is  delivered. A special notice of
+garnishment does not act to garnish wages earned by the  debtor by reason of services rendered to
+the garnishee after the delivery of the special notice of garnishment.
+(7) A special notice of garnishment issued under subsection (6) of this section shall contain  a
+statement indicating that it is a special notice of garnishment under  subsection (6) of this section
+and a statement reflecting the provisions of subsection (6) of this section.  Notwithstanding ORS
+18.854 (1), a wage exemption calculation form shall not be delivered to  the garnishee with a special
+notice of garnishment.
+(8) Notwithstanding ORS 18.854 (1)(b), the Department of  Revenue is not required to deliver a
+warrant or true copy of a warrant with the notice of garnishment when garnishing  property of a
+debtor.
+(9) Notwithstanding ORS 18.607 (4):
+(a) A notice of garnishment issued by the Department of Revenue must include  the name of the
+person issuing the notice on behalf of the department, but need not be signed by that person.
+(b) A notice of garnishment related to the  overpayment of medical assistance as defined in ORS
+414.025, or public assistance as defined  in ORS 411.010, issued by the Department of Human Services
+or the Oregon Health Authority must include the name  of the person issuing the notice on behalf
+of the department or authority, but need not be signed by that person.
+SECTION 23.
+ ORS 18.888 is amended to read:
+18.888. (1) After levying  on property, a sheriff shall mail or deliver a copy of the writ of exe-
+cution to each judgment debtor. If the writ is issued pursuant to  an in rem judgment against per-
+sonal property,  the sheriff shall mail or deliver a copy of the writ to the person from whom the
+property was seized. If the writ is issued pursuant to an in rem judgment against real property, the
+sheriff shall mail or deliver a copy of the writ to the occupants of the property.  The sheriff shall
+mail the copy of the writ to the addresses included in the instructions to the  sheriff. If the judgment
+creditor has not provided an address for a person, the  sheriff need not mail a copy of the writ to
+the person.
+(2) If the sheriff has levied on intangible property, in addition to the  copy of the writ required
+under subsection (1) of this section, the  sheriff shall mail or deliver to the persons described in
+subsection (1) of this section a copy  of the notice of levy filed with the court pursuant to ORS 18.878
+(1)(d).
+(3) Unless the writ directs the sheriff to sell  or deliver specific real or personal property pur-
+suant to the terms of the judgment, in addition to the copy of the writ required under subsection (1)
+of this section the sheriff shall mail or deliver to each judgment debtor:
+Enrolled Senate Bill 1595 (SB 1595-B) Page 41
+(a) A copy of the notice of levy or a statement of the date and time of the levy; and
+(b) A challenge to execution form as provided  by ORS 18.896  or section 27 of this 2024 Act,
+as appropriate.
+SECTION 24.
+ ORS 18.892 is amended to read:
+18.892. (1) Except as provided in subsection (2) of this section, a judgment debtor may use a
+challenge to execution form only:
+(a) To claim such exemptions under a writ of execution as are permitted by law; and
+(b) To assert that the amount specified in the writ of execution as being  subject to execution
+is greater than the amount owed by the judgment debtor under the money award.
+(2) A judgment debtor may not use a challenge  to execution form to challenge execution on
+residential  property  of the debtor as defined by ORS 18.901 if the judgment creditor has obtained
+an order under ORS 18.904 authorizing the sale or if the judgment directs the sale or delivery  of
+specific property.
+(3) Any person other than a judgment debtor who  has an interest in any property levied on by
+a sheriff may assert that interest by delivering a challenge to execution in the manner provided  by
+subsection (4) of this section.
+(4) A person may make a challenge to a writ of execution by completing the challenge to exe-
+cution form provided in ORS 18.896  or section 27  of this 2024 Act, as appropriate , or a substan-
+tially similar  form, and by delivering, in person or by first class mail, the original of the completed
+form to the court administrator for the court identified in the writ of execution and a copy  of the
+challenge to the judgment creditor.  Upon receiving a copy of the challenge, the judgment creditor
+shall promptly notify the sheriff of the challenge.
+(5) A challenge to execution must be delivered in the manner provided by subsection (4) of  this
+section  within  30 days after the property is levied on as described in ORS 18.878 or before the
+property is sold on execution, whichever occurs first.
+SECTION 25.
+ ORS 18.896 is amended to read:
+18.896. (1) The challenge to execution  form described in this section does not expand or restrict
+the law relating to exempt property. A  determination as to whether property is exempt from at-
+tachment or execution must be made by reference  to other law. The form provided in this section
+may be modified to provide more information or to update  the notice based on subsequent changes
+in exemption laws.
+(2) Except as provided in section 27 of this 2024 Act,  a challenge to execution form must  be
+in substantially the following form:
+_______________________________________________________________________________________
+ COURT
+COUNTY OF 
+) CHALLENGE TO
+Plaintiff, ) EXECUTION
+)
+vs. ) Case No. 
+)
+)
+Defendant. )
+THIS FORM MAY BE USED BY THE DEBTOR ONLY  FOR THE FOLLOWING PURPOSES:
+(1) To claim such exemptions from execution as are permitted by law.
+(2) To assert that the amount specified in the writ of execution as being subject  to execution
+is greater than the total amount owed.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 42
+THIS FORM  MAY BE USED BY PERSONS OTHER THAN THE DEBTOR ONLY  TO CLAIM
+AN INTEREST IN THE PROPERTY THAT IS TO BE SOLD ON EXECUTION.
+THIS FORM MAY NOT  BE USED TO CHALLENGE THE VALIDITY OF THE DEBT.
+I/We claim that the following described property or money is exempt from execution:
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+I/We believe this property is exempt from execution because (the Notice of Exempt  Property at
+the end of this form  describes most types of property that you can claim as exempt from execution):
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+I am a person other than the Debtor and I have the following interest in the property:
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+Name 
+Name 
+Signature Signature 
+Address Address 
+Telephone Telephone
+Number 
+Number 
+(Required) (Required)
+YOU MUST ACT PROMPTLY IF YOU WANT TO GET YOUR  MONEY OR PROPERTY BACK.
+You may seek to reclaim your exempt property by doing the following:
+(1) Fill out the Challenge to Execution form that you received with this notice.
+(2) Mail or deliver the  Challenge to Execution form to the court administrator at the address
+shown on the writ of execution.
+(3) Mail or deliver a copy of  the Challenge to Execution form to the judgment creditor at the
+address shown on the writ of execution.
+You should be prepared to explain your exemption in court. If you  have any questions about the
+execution or the debt, you should see an attorney.
+YOU MAY  USE THE CHALLENGE TO EXECUTION FORM ONLY
+ FOR THE FOLLOWING
+PURPOSES:
+(1) To claim such exemptions from execution as are permitted by law.
+(2) To assert that the amount specified in the writ of execution as being subject  to execution
+is greater than the total amount owed.
+YOU MAY NOT
+ USE THE CHALLENGE  TO EXECUTION FORM TO CHALLENGE THE
+VALIDITY OF THE DEBT.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 43
+IF YOU CLAIM AN EXEMPTION IN BAD FAITH, YOU MAY BE SUBJECT TO PENALTIES
+IMPOSED BY THE COURT THAT COULD INCLUDE A FINE. Penalties that you could be subject
+to are listed in ORS 18.899.
+NOTICE OF EXEMPT PROPERTY
+Property belonging to you may have been taken or held in order to satisfy a  debt. The debt may
+be reflected in a judgment or in a warrant or order issued by a  state agency. Important legal papers
+are enclosed.
+YOU MAY BE ABLE TO GET YOUR PROPERTY BACK, SO READ  THIS NOTICE CARE-
+FULLY.
+State and federal law  specify that certain property may not be taken. Some of the property that
+you may be able to get back is listed below.
+[(1) Wages or  a salary as described in ORS 18.375 and 18.385. Whichever of the following
+amounts is greater: ]
+(1) Your disposable earnings, as described in ORS  18.375 and 18.385, in an amount that
+does not exceed the greater of:
+(a) 75 percent of your take-home wages; or
+[(b) $254 per workweek. ]
+(b) $___ per workweek for wages earned before (date) and $___  per workweek for wages
+earned after (date). Note: The garnishor is required to insert the applicable  years and wage
+exemption amounts published on the Judicial Department website pursuant to ORS 18.385 (3).
+(2) Social Security benefits.
+(3) Supplemental Security Income (SSI).
+(4) Public assistance (welfare).
+(5) Unemployment benefits.
+(6) Disability benefits (other than SSI benefits).
+(7) Workers’ compensation benefits.
+(8) All Social Security  benefits and Supplemental Security Income benefits, and up to $7,500 in
+exempt wages, retirement  benefits, welfare, unemployment benefits and disability benefits, that are
+held in a bank account.
+(9) Spousal support, child support or separate maintenance  to the extent reasonably necessary
+for your support or the support of any of your dependents.
+(10) A homestead (house, manufactured dwelling or floating  home) occupied by you, or occupied
+by your spouse, parent or child.  Up to [ $40,000] $150,000 of the value of the homestead is exempt.
+If you jointly own the homestead with another person who is  also liable on the debt, up  to
+[$50,000] $300,000 of the value of the homestead is exempt.
+(11) Proceeds from the sale of a homestead described in item  10, up to the limits described in
+item 10, if you hold the proceeds for less than one year and intend to use those proceeds to procure
+another homestead.
+(12) Household goods, furniture, radios, a television set and utensils with a  combined value not
+to exceed $3,000.
+[*(13) An automobile, truck, trailer or other vehicle with a value not to exceed $3,000. ]
+*(13) A vehicle,  including an automobile, truck, trailer, truck and trailer or other motor
+vehicle, with a value not to exceed $10,000.
+*(14) Tools, implements, apparatus, team, harness or library that are necessary to carry on  your
+occupation, with a combined value not to exceed $5,000.
+*(15) Books, pictures and musical instruments with a combined value not to exceed $600.
+*(16) Wearing apparel,  jewelry and other personal items with a combined value not to exceed
+$1,800.
+(17) Domestic animals and poultry for  family use with a combined value not to exceed $1,000
+and their food for 60 days.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 44
+(18) Provisions and fuel for your family for 60 days.
+(19) One rifle or shotgun and one pistol.  The combined value of all firearms claimed as exempt
+may not exceed $1,000.
+(20) Public or private pensions.
+(21) Veterans’ benefits and loans.
+(22) Medical assistance benefits.
+(23) Health insurance proceeds and disability proceeds of life insurance policies.
+(24) Cash surrender value of life insurance policies not payable to your estate.
+(25) Federal annuities.
+(26) Other  annuities to $250 per month (excess over $250 per month is subject to the same ex-
+emption as wages).
+*(27) Up to $2,500 in all of the accounts you hold in a financial institution to the extent
+that such amounts are exempt under ORS 18.785.
+[(27)] (28) Professionally prescribed health aids for you or any of your dependents.
+*[(28)] (29) Rental assistance to an elderly person allowed pursuant to ORS 458.375.
+*[(29)] (30) Your right to receive, or property traceable to:
+*(a) An award under any crime victim reparation law.
+*(b) A payment or payments, not exceeding a total of $10,000, on account of personal bodily in-
+jury suffered by you or an individual of whom you are a dependent.
+*(c) A payment in compensation of loss of future earnings of you or an individual of  whom you
+are or were a dependent,  to the extent reasonably necessary for your support and the support of
+any of your dependents.
+[(30)] (31) Amounts paid to you as an earned income tax credit under federal tax law.
+[(31)] (32) Your right  to the assets held in, or right to receive payments under, a medical savings
+account or health savings account authorized under section 220 or  223 of the Internal Revenue
+Code.
+[(32)] (33) Interest in personal property to the value of $400, but this cannot be used to  increase
+the amount of any other exemption.
+[(33)] (34) Equitable interests in property.
+Note: If two or more people in your household owe the claim or judgment, each of them  may
+claim the exemptions marked by an asterisk (*).
+Note: The amounts specified as limitations  on exemptions in this form may change as a
+result of changes in the Consumer Price Index  for All Urban Consumers, West Region (All
+Items),  as  published by the Bureau of Labor Statistics of the United States Department of
+Labor or a successor agency. You may  view updated garnishment exemption limitations on
+the Oregon Judicial Department website.
+_______________________________________________________________________________________
+SPECIAL RULES APPLY FOR DEBTS  THAT ARE OWED FOR CHILD SUPPORT AND
+SPOUSAL SUPPORT. Some property that may not otherwise  be taken for payment against the debt
+may be taken to pay for  overdue support. For instance, Social Security benefits, workers’ compen-
+sation benefits,  unemployment benefits, veterans’ benefits and pensions are normally exempt, but
+only 50 percent of a lump sum payment  of these benefits is exempt if the debt is owed for a support
+obligation.
+_______________________________________________________________________________________
+SECTION 26.
+Section 27 of this 2024  Act is added to and made a part of ORS 18.600 to
+18.850.
+SECTION 27. (1) If a judgment debtor’s debt arises  out of a child support or spousal
+support obligation or a money award  judgment that includes restitution, a challenge to exe-
+Enrolled Senate Bill 1595 (SB 1595-B) Page 45
+cution form must  be in substantially the form set forth in this section. The challenge to
+execution form described in  this section does not expand or restrict the law relating to ex-
+empt property. A determination as to whether property is exempt from attachment or exe-
+cution must be made by reference to  other law. The form provided in this section may be
+modified to provide more information or to update the  notice based on subsequent changes
+in exemption laws.
+(2) The challenge to execution form  under this section must be in substantially the fol-
+lowing form:
+ COURT
+COUNTY OF 
+) CHALLENGE TO
+Plaintiff, ) EXECUTION
+)
+vs. ) Case No. 
+)
+)
+Defendant. )
+THIS FORM MAY BE USED BY THE DEBTOR ONLY  FOR THE  FOLLOWING PUR-
+POSES:
+(1) To claim such exemptions from execution as are permitted by law.
+(2) To assert that the amount specified in the writ of  execution as being subject to exe-
+cution is greater than the total amount owed.
+THIS FORM MAY BE USED BY PERSONS OTHER  THAN THE DEBTOR ONLY
+ TO
+CLAIM AN INTEREST IN THE PROPERTY THAT IS TO BE SOLD ON EXECUTION.
+THIS FORM MAY NOT  BE USED TO CHALLENGE THE VALIDITY OF THE DEBT.
+I/We claim that the following described property or money is exempt from execution:
+I/We believe this property is exempt from execution  because (the Notice of Exempt
+Property at the end of this form describes most types of property that you can claim as  ex-
+empt from execution):
+I am a person other than the Debtor and I have the following interest in the property:
+Enrolled Senate Bill 1595 (SB 1595-B) Page 46
+Name Name
+Signature Signature
+Address Address
+Telephone Telephone
+Number
+Number
+(Required) (Required)
+YOU MUST ACT PROMPTLY  IF YOU WANT TO GET YOUR MONEY OR PROPERTY BACK.
+You may seek to reclaim your exempt property by doing the following:
+(1) Fill out the Challenge to Execution form that you received with this notice.
+(2) Mail or deliver the Challenge to Execution form to  the court administrator at the
+address shown on the writ of execution.
+(3) Mail or deliver a copy of the Challenge to Execution form to the  judgment creditor
+at the address shown on the writ of execution.
+You should be prepared to explain your exemption in court. If  you have any questions
+about the execution or the debt, you should see an attorney.
+YOU MAY USE THE CHALLENGE TO EXECUTION FORM  ONLY
+ FOR THE FOLLOW-
+ING PURPOSES:
+(1) To claim such exemptions from execution as are permitted by law.
+(2) To assert that the amount specified in the writ of  execution as being subject to exe-
+cution is greater than the total amount owed.
+YOU MAY NOT
+ USE THE CHALLENGE TO EXECUTION FORM TO CHALLENGE THE
+VALIDITY OF THE DEBT.
+IF YOU CLAIM  AN EXEMPTION IN BAD FAITH, YOU MAY BE SUBJECT TO PENAL-
+TIES IMPOSED BY THE COURT THAT COULD INCLUDE A FINE. Penalties that you could
+be subject to are listed in ORS 18.899.
+NOTICE OF EXEMPT PROPERTY
+Property belonging to you may have been taken or held in order to satisfy a debt. The
+debt may be reflected in a judgment or in a warrant or order  issued by a state agency. Im-
+portant legal papers are enclosed.
+YOU MAY BE ABLE TO GET YOUR  PROPERTY BACK, SO READ THIS NOTICE
+CAREFULLY.
+State and federal law  specify that certain property may not be taken. Some of the prop-
+erty that you may be able to get back is listed below.
+(1) Your disposable earnings, as described in ORS  18.375 and 18.385, in an amount that
+does not exceed the greater of:
+(a) 75 percent of your take-home wages; or
+(b) $254 per workweek.
+(2) Social Security benefits.
+(3) Supplemental Security Income (SSI).
+(4) Public assistance (welfare).
+(5) Unemployment benefits.
+(6) Disability benefits (other than SSI benefits).
+(7) Workers’ compensation benefits.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 47
+(8) All Social Security benefits and  Supplemental Security Income benefits, and up to
+$7,500 in exempt wages,  retirement benefits, welfare, unemployment benefits and disability
+benefits, that are held in a bank account.
+(9) Spousal support, child support  or separate maintenance to the extent reasonably
+necessary for your support or the support of any of your dependents.
+(10) A homestead (house, manufactured dwelling  or floating home) occupied by you, or
+occupied by your spouse, parent or child. Up to $40,000 of the  value of the homestead is ex-
+empt. If you jointly own the homestead with another person who is  also liable on the debt,
+up to $50,000 of the value of the homestead is exempt.
+(11) Proceeds from the sale of a homestead described in item 10, up to the  limits de-
+scribed in item 10, if  you hold the proceeds for less than one year and intend to use those
+proceeds to procure another homestead.
+(12) Household goods, furniture, radios, a television set and utensils  with a combined
+value not to exceed $3,000.
+*(13) A vehicle, including an automobile, truck, trailer, truck and trailer or  other motor
+vehicle, with a value not to exceed $3,000.
+*(14) Tools, implements, apparatus, team, harness or library that are  necessary to carry
+on your occupation, with a combined value not to exceed $5,000.
+*(15) Books, pictures and musical instruments with  a combined value not to exceed $600.
+*(16) Wearing apparel, jewelry and  other personal items with a combined value not to
+exceed $1,800.
+(17) Domestic animals and  poultry for family use with a combined value not to exceed
+$1,000 and their food for 60 days.
+(18) Provisions and fuel for your family for 60 days.
+(19) One rifle or shotgun and one pistol. The combined value of all  firearms claimed as
+exempt may not exceed $1,000.
+(20) Public or private pensions.
+(21) Veterans’ benefits and loans.
+(22) Medical assistance benefits.
+(23) Health insurance proceeds and disability proceeds of life insurance policies.
+(24) Cash surrender value of life insurance policies not payable to your estate.
+(25) Federal annuities.
+(26) Other annuities to $250 per month (excess over $250 per month is subject to the same
+exemption as wages).
+(27) Professionally prescribed health aids for you or any of your dependents.
+*(28) Rental assistance to an elderly person allowed pursuant to ORS 458.375.
+*(29) Your right to receive, or property traceable to:
+*(a) An award under any crime victim reparation law.
+*(b) A payment or payments, not exceeding a total of $10,000, on account of personal
+bodily injury suffered by you or an individual of whom you are a dependent.
+*(c) A payment in compensation of loss  of future earnings of you or an individual of
+whom you are  or were a dependent, to the extent reasonably necessary for your support and
+the support of any of your dependents.
+(30) Amounts paid to you as an earned income tax credit under federal tax law.
+(31) Your right to the assets held in, or right  to receive payments under, a medical
+savings account or  health savings account authorized under section 220 or 223 of the Internal
+Revenue Code.
+(32) Interest in personal  property to the value of $400, but this cannot be used to increase
+the amount of any other exemption.
+(33) Equitable interests in property.
+Note: If two  or more people in your household owe the claim or judgment, each of them
+may claim the exemptions marked by an asterisk (*).
+Enrolled Senate Bill 1595 (SB 1595-B) Page 48
+SPECIAL RULES APPLY FOR DEBTS THAT ARE OWED FOR CHILD SUPPORT AND
+SPOUSAL SUPPORT. Some property that may not  otherwise be taken for payment against
+the debt may be taken  to pay for overdue support. For instance, Social Security benefits,
+workers’ compensation benefits, unemployment benefits, veterans’  benefits and pensions are
+normally exempt, but only 50 percent  of a lump sum payment of these benefits is exempt if
+the debt is owed for a support obligation.
+SECTION 28.  ORCP 84 D is amended to read:
+D Writ of attachment.
+D(1) Issuance; contents; to whom directed; issuance of several writs.  If directed by an order
+authorizing provisional process under Rule 83, the clerk shall issue a writ of attachment. The writ
+shall be directed to the sheriff of any county in which  property of the defendant may be, and shall
+require the sheriff to attach  and safely keep all the property of the defendant within the county not
+exempt from execution,  or so much thereof as may be sufficient to satisfy the plaintiff’s demand, the
+amount of which shall be stated in conformity with the complaint, together with costs  and expenses.
+Several writs may be issued at the same time to the sheriffs of different counties.
+D(2) Manner of executing writ.  The sheriff to whom the writ  is directed and delivered shall note
+upon the writ the date of such delivery, and shall execute the writ without delay, as follows:
+D(2)(a) Personal property not in  possession of third party. Tangible personal property not in the
+possession of a third person  shall be attached by taking it into the sheriff’s custody. If any property
+attached is perishable,  or livestock, where the cost of keeping is great, the sheriff shall sell the same
+in the manner in which property is sold on execution. The proceeds  thereof and other property at-
+tached shall be  retained by the sheriff to answer any judgment that may be recovered in the action,
+unless sooner subjected to execution upon another  judgment. Plaintiff’s lien shall attach when the
+property is taken into the sheriff’s custody.
+D(2)(b) Other personal property.  Tangible  and intangible personal property in the possession,
+control or custody  of or debts or other monetary obligations owing by a third person shall be at-
+tached by writs of garnishment issued by  the clerk of a court or by an attorney as provided in ORS
+18.600 to 18.850.
+D(3) Notice to defendant.  After taking property into custody under subsection (2)(a) of this sec-
+tion, the sheriff shall promptly mail or deliver to  the defendant, at the last-known address of the
+defendant, a copy of the writ of attachment, a copy of the claim  of lien filed pursuant to section C
+of this  rule, if any, a notice of exemptions form provided by ORS 18.845  or section 19 of this 2024
+Act, as appropriate , and a  challenge to garnishment form provided by ORS 18.850. The sheriff may
+meet the requirements of this subsection by mailing the  documents to the last-known address of the
+defendant as provided by the plaintiff. The sheriff may withhold execution  of the writ until the
+plaintiff provides such address or a statement  that the plaintiff has no knowledge of the defendant’s
+address. The sheriff shall have  no duty under this subsection if the plaintiff provides a statement
+that the plaintiff has no knowledge of the defendant’s address.
+D(4) Return of writ; inventory.  When  the writ of attachment has been fully executed or dis-
+charged, the sheriff shall return the same, with the  sheriff’s proceedings indorsed thereon, to the
+clerk of the  court where the action was commenced, and the sheriff shall make a full inventory of
+the property attached and return the same with the writ.
+D(5) Indemnity to sheriff.  Whenever a writ of  attachment is delivered to the sheriff, if the sheriff
+has actual notice of any third party claim to the personal property  to be levied on or is in doubt
+as to ownership of the property, or of encumbrances thereon, or damage to the property held  that
+may result  by reason of its perishable character, such sheriff may require the plaintiff to file with
+the sheriff a surety bond, indemnifying  the sheriff and the sheriff’s bondsmen against any loss or
+damage by reason of  the illegality of any holding or sale on execution, or by reason of damage to
+Enrolled Senate Bill 1595 (SB 1595-B) Page 49
+any personal property held  under attachment. Unless a lesser amount is acceptable to the sheriff,
+the bond shall be in double the amount of the estimated value of the property to be seized.
+SECTION 29.  ORS 646.639 is amended to read:
+646.639. (1) As used in this section and ORS 646A.670:
+(a) “Charged-off debt” means a debt that a creditor treats as a  loss or expense and not as an
+asset.
+(b) “Consumer” means a natural person who  purchases or acquires property, services or credit
+for personal, family or household purposes.
+(c) “Consumer transaction” means a transaction  between a consumer and a person that sells,
+leases or provides property, services or credit to consumers.
+(d) “Credit” means a right that a  creditor grants to a consumer to defer payment of a debt, to
+incur a debt and defer payment of the debt, or to  purchase or acquire property or services and defer
+payment for the property or services.
+(e) “Creditor” means a person that, in the ordinary  course of the person’s business, engages in
+consumer transactions that result in a consumer owing a debt to the person.
+(f) “Debt” means an obligation or alleged obligation that arises out of a consumer transaction.
+(g)(A) “Debt buyer” means a person that regularly engages in  the business of purchasing
+charged-off debt for the  purpose of collecting the charged-off debt or hiring another person to collect
+or bring legal action to collect the charged-off debt.
+(B) “Debt buyer” does not include a person that acquires charged-off debt as  an incidental part
+of acquiring a portfolio of debt that is predominantly not charged-off debt.
+(h) “Debt collector” means a person  that by direct or indirect action, conduct or practice col-
+lects or attempts to collect a debt owed, or alleged to be owed, to a creditor or debt buyer.
+(i) “Debtor” means a consumer who owes or allegedly owes a  debt, including a consumer who
+owes an amount that differs from the amount that a debt collector attempts to  collect or that a debt
+buyer purchased or attempts to collect.
+(j) “Legal action” means a lawsuit, mediation, arbitration  or any other proceeding in any court,
+including a small claims court.
+(k) “Original creditor” means the last entity that extended credit to a consumer to  purchase
+goods or services, to lease goods or as a loan of moneys.
+(L) “Person” means an individual, corporation, trust, partnership, incorporated or
+unincorporated association or any other legal entity.
+(2) A debt collector  engages in an unlawful collection practice if the debt collector, while col-
+lecting or attempting to collect a debt, does any of the following:
+(a) Uses or threatens to use force or violence to cause  physical harm to a debtor or to the
+debtor’s family or property.
+(b) Threatens arrest or criminal prosecution.
+(c) Threatens to seize, attach or sell a  debtor’s property if doing so requires a court order and
+the debt collector does not disclose that seizing, attaching or selling the  debtor’s property requires
+prior court proceedings.
+(d) Uses profane, obscene  or abusive language in communicating with a debtor or the debtor’s
+family.
+(e) Communicates with a debtor  or any member of the debtor’s family repeatedly or continuously
+or at times known to be inconvenient to the debtor or  any member of the debtor’s family and with
+intent to harass or annoy the debtor or any member of the debtor’s family.
+(f) Communicates or threatens to communicate with a  debtor’s employer concerning the nature
+or existence of the debt.
+(g) Communicates without a debtor’s permission or threatens to  communicate with the debtor
+at the debtor’s place of employment if the  place of employment is other than the debtor’s residence,
+except that the debt collector may:
+Enrolled Senate Bill 1595 (SB 1595-B) Page 50
+(A) Write to the debtor at  the debtor’s place of employment if a home address is not reasonably
+available and if the envelope does not reveal that the communication is from  a debt collector other
+than the person that provided the goods, services or credit from which the debt arose.
+(B) Telephone a debtor’s place of employment without informing any  other person of the nature
+of the call or identifying the caller  as a debt collector but only if the debt collector in good faith
+has made an unsuccessful attempt to telephone the debtor at  the debtor’s residence during the day
+or during the evening between the hours of 6 p.m. and 9 p.m.  The debt collector may not contact
+the debtor at  the debtor’s place of employment more frequently than once each business week and
+may not telephone the debtor at the debtor’s place of employment if the debtor notifies  the debt
+collector not to telephone at the debtor’s place  of employment or if the debt collector knows or has
+reason to know that the debtor’s employer prohibits the  debtor from receiving such communication.
+For the purposes of this subparagraph, any language in any agreement, contract  or instrument that
+creates or is evidence of the debt and that purports to  authorize telephone calls at the debtor’s
+place of employment does not give permission to the debt collector to call the debtor  at the debtor’s
+place of employment.
+(h) Communicates with a  debtor in writing without clearly identifying the name of the debt
+collector, the name of the  person, if any, for whom the debt collector is attempting to collect the
+debt and  the debt collector’s business address, on all initial communications. In subsequent commu-
+nications involving multiple accounts, the debt collector may eliminate the name of the person,  if
+any, for whom the debt collector is  attempting to collect the debt and substitute the term
+“various” in place of the person’s name.
+(i) Communicates with a debtor orally without disclosing to the debtor, within  30 seconds after
+beginning the communication, the name of the individual who is initiating  the communication and
+the true purpose of the communication.
+(j) Conceals the true purpose of the communication so as to cause any  expense to a debtor in
+the form of long distance  telephone calls, telegram fees, additional charges for wireless communi-
+cation or other charges the debtor might incur by using a medium of communication.
+(k) Attempts or threatens to enforce a right or remedy while knowing or having reason to  know
+that the right or remedy does not exist, or threatens to take any action that the debt  collector in
+the regular course of business does not take.
+(L) Uses any form of communication that simulates  legal or judicial process or that appears to
+be authorized, issued or approved by  a governmental agency, governmental official or an attorney
+at law if the corresponding governmental agency, governmental official or attorney at law has  not
+in fact authorized or approved the communication.
+(m) Represents that an existing debt may be increased by the addition of  attorney fees, investi-
+gation fees or any other fees or charges if the fees or charges  may not legally be added to the ex-
+isting debt.
+(n) Collects or attempts to collect , by any means, including  through legal action,  interest or
+other charges or fees that  exceed the actual debt unless the agreement, contract or instrument that
+creates the debt expressly authorizes, or a law expressly allows, the  interest or other charges or
+fees. A debt collector may not  be held liable in any action brought under this paragraph if
+the debt collector shows by a preponderance of evidence that the violation was not inten-
+tional and resulted from a bona fide error  notwithstanding the maintenance of procedures
+reasonably adapted to avoid any such error. The fact  that the debt collector obtains a judg-
+ment for less  than the amount sought in the complaint, or fails to obtain a judgment at all,
+does not by itself constitute evidence of a violation of this paragraph.
+(o) Threatens to assign  or sell a debtor’s account and misrepresents or implies that the debtor
+would lose any defense  to the debt or would be subjected to harsh, vindictive or abusive collection
+tactics.
+(p) Uses the seal or letterhead of a public official or a public agency, as those terms  are defined
+in ORS 171.725.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 51
+(q) Collects or attempts to collect any debt that the debt collector knows, or  after exercising
+reasonable diligence would know,  arises from medical expenses that qualify for reimbursement under
+the Oregon Health Plan or under Medicaid, except that:
+(A) The debt collector does  not engage in an unlawful collection practice if the debt collector
+can produce an affidavit or certificate from the original  creditor that shows that the original cred-
+itor complied with Oregon Health  Authority rules barring payments for services that Medicaid fee-
+for-service plans or contracted health care plans cover; and
+(B) For purposes of this  paragraph, a prepaid managed care health services organization, a co-
+ordinated care organization or a public body, as defined in ORS 174.109, or an agent or assignee  of
+the organization or public body, is not a debt collector if the organization or public body seeks to
+collect a debt that arises under ORS 416.540.
+(r) Files a legal action to collect or files a  legal action to attempt to collect a debt if the debt
+collector knows, or after exercising reasonable diligence would know, that  an applicable statute of
+limitations bars the collection or the collection attempt.
+[(s) Knowingly collects any amount, including any interest fee, charge or expense incidental to  the
+principal obligation, unless the amount is  expressly authorized by the agreement creating the debt or
+permitted by law. ]
+(s) Collects or attempts to collect or threatens to collect a debt by any  means, including
+through legal action, if the debt collector knows, or through the exercise of reasonable care
+should know, that the debt does  not exist or is not owed by the debtor. A debt collector may
+not be held liable in any action  brought under this paragraph if the debt collector shows by
+a preponderance of evidence that the violation was not intentional and resulted from  a bona
+fide error notwithstanding the maintenance  of procedures reasonably adapted to avoid any
+such error. The fact that the debt collector obtains a judgment  for less than the amount
+sought in the complaint or fails  to obtain a judgment at all does not by itself establish a vi-
+olation of this paragraph.
+(t) Collects or attempts to collect a debt if the debt collector is a debt buyer, or is  acting on a
+debt buyer’s behalf, and collects or attempts to collect purchased  debt before providing to a debtor,
+within 30 days after the date of the debtor’s request, all of  the documents listed in subsection (4)(b)
+of this section.
+(u) Collects or  attempts to collect a debt without complying with the requirements of ORS
+646A.677.
+(3) A debt collector engages in an unlawful  collection practice if the debt collector, by use of
+any direct or indirect action, conduct or practice, enforces or attempts to enforce  an obligation
+made void and unenforceable by the provisions of ORS 759.720 (3) to (5).
+(4) A debt buyer or debt collector acting on behalf of a debt buyer  engages in an unlawful col-
+lection practice if the debt buyer or debt collector:
+(a) Files legal action against  a debtor or files legal action to attempt to collect a debt if the debt
+buyer or debt collector knows or after exercising reasonable diligence would know that an applica-
+ble statute of limitations bars the legal action to collect or the legal  action to attempt to collect the
+debt;
+(b) Brings a legal  action against a debtor or otherwise brings a legal action to attempt to collect
+a debt without possessing business records that satisfy the requirements of ORS 40.460 (6), or  of
+ORS 24.115, if the record is a foreign judgment, that  establish the nature and the amount of the debt
+and that include:
+(A) The original creditor’s name, written as the original creditor used  the name in dealings with
+the debtor;
+(B) The name and address of the debtor;
+(C) The name, address and telephone number of the person that owns the debt and a  statement
+as to whether the person is a debt buyer;
+(D) The last four digits of the  original creditor’s account number for the debt, if the original
+creditor’s account number for the debt had four or more digits;
+Enrolled Senate Bill 1595 (SB 1595-B) Page 52
+(E) A detailed and itemized statement of:
+(i) The amount the debtor last paid on the  debt, if the debtor made a payment, and the date of
+the payment;
+(ii) The amount and date of  the debtor’s last payment on the debt before the debtor defaulted
+or before the debt became charged-off debt;
+(iii) The balance due on the debt on the date on which the debt became charged-off debt;
+(iv) The amount and rate of interest, any fees and any charges  that the original creditor im-
+posed, if the debt buyer or debt collector knows the amount, rate, fee or charge;
+(v) The  amount and rate of interest, any fees and any charges that the debt buyer or any pre-
+vious owner of the debt imposed, if the debt buyer or debt collector knows the amount, rate,  fee or
+charge;
+(vi) The attorney fees the debt buyer  or debt collector seeks, if the debt buyer or debt collector
+expects to recover attorney fees; and
+(vii) Any other fee, cost or charge the debt buyer seeks to recover;
+(F) Evidence that the debt buyer and only the debt buyer owns the debt;
+(G) The date on which the debt buyer purchased the debt; and
+(H) A copy of the agreement between the original creditor and the debtor that is either:
+(i) The contract or other writing  the debtor signed that created and is evidence of the original
+debt; or
+(ii) A copy of the most recent monthly statement that shows a purchase transaction or  balance
+transfer or the debtor’s last payment, if the debtor made a payment, if the debt is a credit card debt
+or other debt for which a contract or other writing that is evidence of the debt does not exist;
+(c) Fails to provide to a debtor, after the debt buyer  or debt collector receives payment in cash
+or the debtor requests the receipt, a receipt that:
+(A) Shows the name of the creditor or creditors for whom the debt buyer or debt collector re-
+ceived the payment and, if the creditor  is not the original creditor, the account number that the
+original creditor assigned; and
+(B) States clearly whether the debt buyer or  debt collector accepts the payment as payment in
+full or as a full and final compromise of the debt and, if  not, the balance remaining on the debt after
+the payment;
+(d) Collects  or attempts to collect a debt before providing, in response to a debtor’s request, the
+documents required under paragraph (b) of this subsection. A debt buyer  or a debt collector that
+acts on the debt buyer’s behalf does not  engage in an unlawful collection practice under this para-
+graph if the debt buyer or debt collector collects or attempts to collect a debt  after providing the
+required documents to the debtor; or
+(e) Uses  any direct or indirect action, conduct or practice to violate a provision of this section
+or ORS 646A.670.
+(5) A debt collector is not acting on a  debt buyer’s behalf, and is not subject to the duties to
+which a debt buyer is subject under this section and ORS 646A.670,  if the debt collector collects or
+attempts to collect a debt on behalf of an  owner that retains a direct interest in the debt or if the
+debt is not a debt that a debt buyer purchased.
+SECTION 30.
+ ORS 646.641 is amended to read:
+646.641. (1) Any person injured as a result of willful use or employment by another person  of
+an unlawful collection practice may bring an action in an appropriate court to enjoin the  practice
+or to recover actual  damages or [ $200] $1,000, whichever is greater. The court or the jury may
+award punitive damages, and the court may provide such equitable relief as it deems necessary or
+proper.
+(2) In  any action brought by a person under this section, the court may award reasonable at-
+torney fees [ to the prevailing party ] and costs at trial  and on appeal to a prevailing plaintiff. The
+court may award reasonable attorney fees and costs at  trial and on appeal to a prevailing
+defendant only if the court finds that the  plaintiff had no objectively reasonable basis for
+bringing the action or asserting the ground for appeal .
+Enrolled Senate Bill 1595 (SB 1595-B) Page 53
+(3) Actions brought under this section shall be commenced within [ one year ] three years  from
+the date of the injury.
+SECTION 31. ORS 18.784 and 646.643 are repealed.
+SECTION 32. (1) Sections 19 and 27 of  this 2024 Act and the amendments to ORS 18.345,
+18.348, 18.385, 18.395, 18.402, 18.412, 18.600, 18.618, 18.658, 18.785, 18.787, 18.788, 18.790, 18.835,
+18.838, 18.840, 18.845, 18.847, 18.854, 18.855, 18.888, 18.892 and 18.896 and ORCP 84 D by sections
+1 to 17, 20 to 25 and 28 of this 2024 Act and the repeal of ORS  18.784 by section 31 of this 2024
+Act:
+(a) Become operative on January 1, 2025; and
+(b) Apply to writs  of garnishment and writs of execution issued on or after January 1,
+2025, and to notices of wage garnishment that are in effect on or after January 1, 2025.
+(2) An agency of state government, as defined  in ORS 174.111, may take any action before
+the operative date specified in subsection (1) of this section to enable the agency to exercise,
+on and after the  operative date specified in subsection (1) of this section, all of the duties,
+functions and powers conferred on the agency by sections 19 and 27 of this  2024 Act and the
+amendments to ORS 18.345, 18.348, 18.385, 18.395, 18.402, 18.412, 18.600, 18.618,  18.658, 18.785,
+18.787, 18.788, 18.790, 18.835, 18.838, 18.840, 18.845, 18.847, 18.854, 18.855, 18.888, 18.892 and 18.896
+and ORCP 84 D by sections 1 to  17, 20 to 25 and 28 of this 2024 Act and the repeal of ORS
+18.784 by section 31 of this 2024 Act.
+SECTION 33.
+The amendments to ORS 646.639 and 646.641 by sections 29 and 30  of this
+2024 Act apply to attempts to collect a debt that occur on or after  the effective date of this
+2024 Act.
+SECTION 34. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to  the Department of Revenue, for the biennium ending June 30, 2025, out of the
+General Fund, the amount of $631,834, which may be  expended to implement the changes to
+debt collection in this 2024 Act.
+SECTION 35. Notwithstanding any  other law limiting expenditures, the amount of
+$229,729 is established for the biennium ending June 30,  2025, as the maximum limit for
+payment of  expenses from fees, moneys or other revenues, including Miscellaneous Receipts,
+but excluding lottery funds  and federal funds, collected or received by the Department of
+Revenue, to implement the changes to debt collection in this 2024 Act.
+SECTION 36. This 2024 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2024 Act takes effect
+on its passage.
+Enrolled Senate Bill 1595 (SB 1595-B) Page 54
+Passed by Senate March 4, 2024
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House March 6, 2024
+..................................................................................
+Dan Rayfield, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2024
+Approved:
+........................M.,........................................................., 2024
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2024
+..................................................................................
+LaVonne Griffin-Valade, Secretary of State
+Enrolled Senate Bill 1595 (SB 1595-B) Page 55
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 18.345, ORS 18.348, ORS 18.385, ORS 18.395, ORS 18.402, ORS 18.412, ORS 18.600, ORS 18.618, ORS 18.658, ORS 18.784, ORS 18.785, ORS 18.787, ORS 18.788, ORS 18.790, ORS 18.835, ORS 18.838, ORS 18.840, ORS 18.845, ORS 18.847, ORS 18.854, ORS 18.855, ORS 18.888, ORS 18.892, ORS 18.896, ORS 646.639, ORS 646.641, ORS 646.643
+- From bill text (Enrolled version): ORS 171.725, ORS 174.109, ORS 174.111, ORS 178.345, ORS 179.655, ORS 18.305, ORS 18.345, ORS 18.348, ORS 18.358, ORS 18.375, ORS 18.385, ORS 18.395, ORS 18.402, ORS 18.412, ORS 18.415, ORS 18.600, ORS 18.605, ORS 18.607, ORS 18.615, ORS 18.618, ORS 18.620, ORS 18.625, ORS 18.635, ORS 18.645, ORS 18.650, ORS 18.652, ORS 18.658, ORS 18.680, ORS 18.690, ORS 18.700, ORS 18.702, ORS 18.705, ORS 18.708, ORS 18.715, ORS 18.760, ORS 18.775, ORS 18.784, ORS 18.785, ORS 18.787, ORS 18.788, ORS 18.790, ORS 18.792, ORS 18.795, ORS 18.800, ORS 18.835, ORS 18.838, ORS 18.840, ORS 18.845, ORS 18.847, ORS 18.850, ORS 18.854, ORS 18.855, ORS 18.857, ORS 18.878, ORS 18.888, ORS 18.892, ORS 18.896, ORS 18.899, ORS 18.901, ORS 18.904, ORS 18.960, ORS 183.315, ORS 183.605, ORS 184.644, ORS 238.445, ORS 24.115, ORS 25.083, ORS 25.375, ORS 25.378, ORS 25.501, ORS 267.385, ORS 293.250, ORS 311.625, ORS 314.430, ORS 315.273, ORS 316.207, ORS 320.080, ORS 321.570, ORS 323.390, ORS 344.580, ORS 40.120, ORS 40.460, ORS 407.595, ORS 411.010, ORS 411.703, ORS 411.760, ORS 414.025, ORS 414.095, ORS 416.540, ORS 446.003, ORS 458.375, ORS 646.639, ORS 646.641, ORS 646.643, ORS 646A.670, ORS 646A.677, ORS 651.065, ORS 652.610, ORS 653.025, ORS 655.530, ORS 656.234, ORS 657.396, ORS 657.642, ORS 657.646, ORS 657.855, ORS 670.600, ORS 705.175, ORS 706.008, ORS 73.0104, ORS 748.207, ORS 759.720, ORS 825.504, ORS 830.700, ORS 90.300
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `93e986f82b9070d47165f55f5ac06d623f29c2522f5b21edf354d206891d9c33` (snapshot `_meta/snapshots/measure-2024r1-sb1595-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1595/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `02428e6e9971691bb1c5a5f993a9e8a452742f87682a1dfb20802001ee6b7f2a` (snapshot `_meta/snapshots/measure-2024r1-sb1595-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1595/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1595` (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

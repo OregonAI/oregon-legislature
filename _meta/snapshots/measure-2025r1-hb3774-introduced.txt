@@ -1,0 +1,250 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3774
+Sponsored by Representative DRAZAN; Representatives BOICE, HELFRICH, JAVADI
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would restore the prior version of the law for the removal of  homeless camps
+that was on the books before recent changes. (Flesch Readability Score: 62.6).
+Repeals the changes made by House  Bill 3124 (2021) to the statutes governing local removal of
+homeless individuals from established camping sites.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to homelessness; amending ORS 195.505 and 195.515; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 195.505 is amended to read:
+195.505. (1) A policy developed pursuant to ORS 195.500 shall [ conform] include, but is  not
+limited[,] to , the following provisions.
+(2) As used in  this section, “personal property” means any item that can reasonably be identified
+as belonging to an individual and that has apparent value or utility.
+(3)(a) Except as provided in subsection [ (9)] (6) of this section, [ at least 72 hours before ] 24 hours
+prior to removing homeless individuals from an established  camping site, law enforcement officials
+shall post a written notice  of removal , in English and Spanish, at [ all entrances to ] the  camping site
+[to the extent that the entrances can reasonably be identified ].
+[(4)(a)] (b) When a [ 72-hour] 24-hour notice is posted,  law enforcement officials shall inform the
+local agency that delivers social services to  homeless individuals as to where the notice has been
+posted.
+[(b)] (c) The local agency may  arrange for outreach workers to visit the camping site that is
+subject to the notice to assess the need for social service assistance in arranging shelter and  other
+assistance.
+[(5)(a)] (4)(a) All personal property at the  camping site that remains unclaimed after removal
+shall be given to [ a law enforcement official, a local agency  that delivers social services to homeless
+individuals, an outreach worker, a local agency official or a person authorized to issue a citation de-
+scribed in subsection (10) of this section, whether ] law enforcement officials, whether 24-hour  no-
+tice is required [ under subsection (3) of this section ] or not.
+[(b) The unclaimed personal property must be stored: ]
+[(A) For property removed from  camping sites in counties other than Multnomah County, in a fa-
+cility located in the same community as the camping site from which it was removed. ]
+[(B) For property removed from camping sites in Multnomah County,  in a facility located within
+six blocks of a public transit station. ]
+[(c)] (b) Items that have no apparent value or utility or are in an  insanitary condition may be
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1042
+HB 3774
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+immediately discarded upon removal of the homeless individuals from the camping site.
+[(d)] (c) Weapons, controlled substances other than prescription medication , drug parapher-
+nalia and items that appear to be either stolen or evidence of a crime  shall be given to or retained
+by law enforcement officials.
+[(6) The written notice required under subsection (3) of this section must state, at a minimum: ]
+[(a) Where unclaimed personal property will be stored; ]
+[(b) A phone number that individuals may call to find out where the property will be stored; or ]
+[(c) If a  permanent storage location has not yet been determined, the address and phone number
+of an agency that will have the information when available. ]
+[(7)(a) The unclaimed personal property shall be stored in  an orderly fashion, keeping items that
+belong to an individual together to the extent that ownership can reasonably be determined. ]
+[(b)] (d) The property shall be stored for a  minimum of 30 days during which it shall be rea-
+sonably available to any individual  claiming ownership. Any personal property that remains un-
+claimed after 30 days may be disposed of  [ or donated to a corporation described in section 501(c)(3)
+of the Internal Revenue Code as amended and in effect on December 31, 2020 ].
+[(8)] (5) Following  the removal of homeless individuals from a camping site on public property,
+the law enforcement officials, local agency officials and outreach workers may meet to assess  the
+notice and removal policy,  to discuss whether the removals are occurring in a humane and just
+manner and to determine if any changes are needed in the policy.
+[(9)(a)] (6) The [ 72-hour] 24-hour notice requirement under subsection (3)  of this section does
+not apply:
+[(A)] (a) When there are grounds for law enforcement officials to believe that illegal activities
+other than camping are occurring [ at an established camping site ].
+[(B)] (b) In the event of an exceptional emergency [ at an established camping site ], including, but
+not limited to, possible site contamination by hazardous materials, a  public health emergency or
+other immediate danger to human life or safety.
+[(b) If a funeral service is  scheduled with less than 72 hours’ notice at a cemetery at which there
+is a camping site, or  a camping site is established at the cemetery less than 72 hours before the
+scheduled service, the written notice required under subsection (3) of this section may  be posted at least
+24 hours before removing homeless individuals from the camping site. ]
+[(10)] (7) A person authorized to issue a citation for unlawful camping under state law,  admin-
+istrative rule or city or county ordinance may not issue the citation if the citation would be  issued
+within 200 feet of a  notice required under subsection (3) of this section and within two hours before
+or after the notice was posted.
+[(11) Any law or policy of a city or county that is more  specific or offers greater protections to
+homeless individuals subject to removal from an  established camping site preempts contrary provisions
+of this section. ]
+SECTION 2.
+ ORS 195.515 is amended to read:
+195.515. (1) The Department of Transportation may enter into an  intergovernmental agreement
+with a city that has a population of  500,000 or more for the removal, storage and disposition of
+personal property deposited, left or displayed on property that is owned by the department. The  city
+shall prioritize removal of personal property that is within the right of way  of a highway under the
+jurisdiction of the department as a road authority pursuant to ORS 810.010.
+(2) Notwithstanding ORS 377.650,  377.653 and 377.655, an intergovernmental agreement entered
+into under this section may  provide alternative provisions related to the removal, storage and dis-
+[2]
+HB 3774
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+position of personal property if the  alternative provisions conform with the requirements for local
+government policy for removal of homeless individuals and personal property under ORS 195.505.
+(3) In addition to the  requirements described in subsection (2) of this section, an intergovern-
+mental agreement entered into under this section must include the following:
+(a) Requirements for posting notice before the removal  of personal property, including but not
+limited to the following:
+(A) That the notice is created using durable materials and securely posted  within 30 feet of the
+personal property to be removed;
+(B) That the notice must provide the date the  notice begins and the date upon which the city
+or department may begin removing personal property; and
+(C) That the notice must provide a description of:
+(i) How an individual may access personal property that is removed and stored; and
+(ii) The length of time  the city or department will store personal property before the city or
+department disposes of it.
+(b) A requirement that the notice expires 10 days after the city or department posts  the notice.
+(c) A severe weather protocol regarding the weather conditions under which the city  or de-
+partment will not remove personal property.
+(d) Provisions related to inventorying and storing the personal property to be removed.
+(e) Provisions related to the city or department relinquishing unclaimed  personal property after
+the storage period to the city’s or department’s designated agent.
+(f) Provisions related to when the city will provide impact reduction services, including but  not
+limited to trash collection.
+(g) A provision providing that if the department requests  city services under the intergovern-
+mental agreement, but the city is unable or unwilling to provide services as requested, the  depart-
+ment or the  department’s contractor may perform the requested services consistent with the terms
+of the agreement, including but not limited to posting notice.
+(4) The [ 72-hour] 24-hour notice under ORS 195.505 required under subsection (2) of this section
+does not apply:
+(a) When there are grounds for law  enforcement officials to believe that illegal activities other
+than camping are occurring;
+(b) Where there is an exceptional emergency, such as  possible site contamination by hazardous
+materials; or
+(c) When there is immediate danger to human life or safety.
+(5) Before the city adopts an intergovernmental agreement under this section or  changes to the
+agreement, the city shall invite public comment on the proposed agreement or the proposed changes
+to the agreement.
+SECTION 3.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[3]

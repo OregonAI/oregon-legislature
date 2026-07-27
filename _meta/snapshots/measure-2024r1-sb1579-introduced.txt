@@ -1,0 +1,464 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1579
+Sponsored by Senators KNOPP, SMITH DB, Representative HELFRICH, Senator  MANNING JR, Representatives
+LEVY E, NERON; Senators ANDERSON, BONHAM, FINDLEY, HANSELL, LINTHICUM, WEBER, Repre-
+sentatives BOICE, BOSHART  DAVIS, BOWMAN, BREESE-IVERSON, CRAMER, DIEHL, ELMER, EVANS,
+GOMBERG, GOODWIN, GRAYBER, HIEB, LEVY B, LEWIS,  LIVELY, MANNIX, MCINTIRE, PHAM H,
+SCHARF, WALLAN, WRIGHT, YUNKER (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates a new fund for a current grant program that  provides moneys for child
+abuse response programs. The Act directs DHS to create a one-time grant program to  expand ac-
+cess to services and supports from CACs. The Act creates a  task force to audit how this state has
+complied with Karly’s Law and to study other matters related to services provided to  victims of
+child abuse. (Flesch Readability Score: 64.3).
+Establishes the Children’s Advocacy Center  Fund. Provides that the Legislative Assembly shall
+appropriate sufficient moneys to the  fund that are necessary to fully fund the existing grant program
+to establish, maintain and support children’s advocacy centers and regional  children’s advocacy
+centers, and to support county child abuse multidisciplinary teams. Appropriates moneys to the De-
+partment of Justice out of the General Fund for the existing grant program.
+Directs the Department of Human Services to develop and  administer a one-time grant program
+to expand access to  services and supports provided by children’s advocacy centers and regional
+children’s advocacy centers. Appropriates moneys  to the Department of Human Services out of the
+General Fund for the grant program.
+Establishes the Task Force on County Child Abuse Multidisciplinary Teams to  audit Oregon’s
+compliance with Karly’s Law, to study and provide proposals for  optimal funding rates for children’s
+advocacy centers and to identify barriers to access to child abuse multidisciplinary teams  and
+children’s advocacy centers. Requires  the task force to report findings and recommendations to the
+interim committees of the Legislative  Assembly related to human services on or before September
+15, 2024. Sunsets the task force January 2, 2026. Appropriates moneys to the department out of the
+General Fund for purposes of the task force.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to child  abuse; creating new provisions; amending ORS 418.788; and declaring an emer-
+gency.
+Be It Enacted by the People of the State of Oregon:
+CHILDREN’S ADVOCACY CENTER FUND
+SECTION 1.
+Section 2 of this  2024 Act is added to and made a part of ORS 418.746 to
+418.796.
+SECTION 2. (1) The Children’s Advocacy Center Fund is established in the  State Treas-
+ury, separate  and distinct from the General Fund. Interest earned by the Children’s Advo-
+cacy Center Fund shall be credited to the fund. The fund consists of moneys  appropriated,
+allocated, deposited or transferred to the fund by the Legislative Assembly or  otherwise and
+interest earned on moneys in the fund. The moneys in the fund  are continuously appropri-
+ated to the Department of Justice for carrying out the purposes of ORS 418.786.
+(2) To establish and maintain sufficient children’s advocacy centers and  regional
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 217
+SB 1579
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+children’s advocacy centers in  Oregon necessary to ensure that every child referred to a
+center for concerns of neglect or abuse receives a skilled, complete  and forensically sound
+child abuse  assessment, the Legislative Assembly shall appropriate, allocate or otherwise
+make available to the Children’s Advocacy Center Fund moneys necessary to fully  fund the
+grant program required by ORS 418.786.
+SECTION 3.
+ ORS 418.788 is amended to read:
+418.788. (1) Subject  to the availability of funds under the provisions of ORS 418.796  and section
+1 of this  2024 Act , the administrator of the Child Abuse Multidisciplinary Intervention Program
+shall make grants for the establishment and maintenance of  children’s advocacy centers or regional
+children’s advocacy centers.
+(2)(a) A public or private agency may apply to the administrator for a grant to:
+(A) Establish and maintain a children’s advocacy center or regional children’s  advocacy center;
+(B) Provide training and technical assistance to children’s advocacy  centers or county child
+abuse multidisciplinary teams; or
+(C) Provide coordination and support to regional children’s advocacy centers.
+(b) The administrator may consolidate applications from more than one public or private agency
+or may return the application with the recommendation that the application be consolidated.
+(3) The administrator shall by rule establish criteria for awarding grants to  establish and
+maintain children’s advocacy centers or  regional children’s advocacy centers, including but not
+limited to:
+(a) Expenses eligible for reimbursement from funds under ORS 418.796  and section 1 of this
+2024 Act;
+(b) The extent to which the applicant’s  proposal will best accomplish the purposes of ORS
+418.746 to 418.796;
+(c) The extent to which an applicant meets criteria for receiving a grant to:
+(A) Establish and maintain a children’s advocacy center or regional children’s  advocacy center;
+(B) Provide training and technical assistance to children’s  advocacy centers and county child
+abuse multidisciplinary teams; or
+(C) Provide coordination and support to regional children’s advocacy centers;
+(d) Minimum facility standards for children’s  advocacy centers and regional children’s advocacy
+centers consistent with national accreditation standards  to ensure that children receive consistent,
+evidence-based intervention services statewide;
+(e) Minimum forensic  interview training standards that are consistent with national forensic
+interview training standards, evidence-based and supported by current  forensic interview research;
+and
+(f) For a regional children’s advocacy center, the extent to which the applicant’s proposal meets
+the documented needs of the communities, children’s advocacy  centers and county child abuse
+multidisciplinary teams in the region or regions to be served by the center.
+(4) The administrator  is not required to fund any grant in the total amount requested in the
+application.
+CHILDREN’S ADVOCACY CENTER ONE-TIME GRANTS
+SECTION 4.
+(1) As used in this section:
+(a) “Children’s  advocacy center” means a facility that meets the facility standards de-
+[2]
+SB 1579
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+scribed in ORS 418.788, to which a child from the community may be referred to receive a
+thorough child abuse assessment, as defined in ORS 418.782, for the purpose of  determining
+whether the child has been abused or neglected, and that facilitates a coordinated, compre-
+hensive and multidisciplinary response to cases of child abuse.
+(b) “Regional children’s advocacy center” means a facility operated by a children’s advo-
+cacy center that meets the facility standards described in  ORS 418.788 and is selected by the
+Child Abuse Multidisciplinary Intervention Program to provide training and  complex case
+assistance, including one or more of the following:
+(A) Consultation;
+(B) Education;
+(C) Referral;
+(D) Technical assistance; and
+(E) If authorized by the Department of Justice, other services as needed.
+(2) The Department of  Human Services shall develop and administer a one-time grant
+program to expand access  to services and supports provided by children’s advocacy centers
+and regional children’s advocacy centers and to increase the number of children  served by
+children’s advocacy centers and regional children’s advocacy centers in this state.
+(3) The department shall  adopt rules for carrying out the grant program under this sec-
+tion. The rules must, at a minimum:
+(a) Provide preference for awarding grants to applicants based on:
+(A) The applicant’s ability to  establish or maintain a children’s advocacy center in an
+underserved community;
+(B) The applicant’s ability to  establish a children’s advocacy center in a geographic area
+of this state with no children’s advocacy centers;
+(C) The likelihood that the applicant, if awarded a grant,  will expand access to children’s
+advocacy center services and children’s advocacy center supports to  children from histor-
+ically marginalized and underserved communities; and
+(D) If awarded a grant, the ability of the existing or  proposed children’s advocacy center
+to provide behavioral and mental health services for victims of child abuse.
+(b) Require children’s advocacy centers to apply directly for the competitive grants.
+(c) Allow grant recipients to use the  grants to expand access to designated medical pro-
+fessionals, as described in ORS 418.747 (9).
+(d) Require applicants to demonstrate  how the grant award would improve response
+times for intervention following incidents  of child abuse and the prevention of child fatalities.
+(e) Allow health care providers and medical facilities to apply for grant funds  to expand
+medical assessment services, intervention services and any other services and supports not
+inconsistent with the purposes of ORS 418.746 to 418.796.
+(f) Provide that the cumulative  amount of grants provided to a given children’s advocacy
+center may not exceed $1,000,000.
+(4) The  department shall award and distribute all of the grants under this section no
+later than December 31, 2024.
+SECTION 5.
+(1) The Children’s Advocacy Center One-Time  Grant Fund is established in
+the State Treasury, separate and distinct from the General Fund.  The Children’s Advocacy
+Center One-Time Grant Fund consists of moneys appropriated,  allocated, deposited or
+transferred to the fund by the Legislative Assembly or otherwise. Moneys in the  fund are
+[3]
+SB 1579
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+continuously appropriated to the Department of Human  Services for carrying out the pur-
+poses of section 4 of this 2024 Act.
+(2) The department may use moneys in the fund to pay the administrative costs associ-
+ated with the fund  and with administering the grant program under section 4 of this 2024
+Act. Administrative costs paid under this subsection may not exceed five percent of  the
+total moneys appropriated, allocated, deposited or transferred to the fund by  the Legislative
+Assembly.
+TASK FORCE ON COUNTY CHILD ABUSE MULTIDISCIPLINARY TEAMS
+SECTION 6.
+(1) The Task  Force on County Child Abuse Multidisciplinary Teams is es-
+tablished.
+(2) The task force consists of 11 members appointed as follows:
+(a) The President of the Senate shall  appoint one member from among members of the
+Senate from the majority party and one member  from among members of the Senate from
+the minority party.
+(b) The Speaker of the House of Representatives shall appoint one member from among
+members of the House of Representatives from the majority party of the  House of Repre-
+sentatives and one member from among members of the House of Representatives  from the
+minority party.
+(c) The Governor shall appoint seven members as follows:
+(A) One member who is a child advocate;
+(B) One member who is a representative of  a children’s advocacy center located in Cen-
+tral, Eastern or Southern Oregon;
+(C) One member who is a representative of a children’s advocacy center  located in
+Western Oregon;
+(D) One member who is a member a law enforcement agency;
+(E) One member who is mental health care provider with expertise in children’s  mental
+health;
+(F) One member who is  a health care provider with expertise as a pediatric physician;
+and
+(G) One member who is a professional with expertise in child abuse and neglect.
+(3) All appointments to the task force made under subsection (2) of this section must  be
+completed by the later of 21 days after adjournment sine die of the 2024 session  of the
+Eighty-second Legislative Assembly or March 31, 2024.
+(4) The task force shall  study best practices of child abuse multidisciplinary teams de-
+veloped under ORS 418.747 and related referral processes, by:
+(a) Conducting a comprehensive audit of  Oregon’s compliance with the provisions of
+Karly’s Law between January 1, 2019 and December  31, 2023, and preparing an audit report
+that includes at a minimum:
+(A) The percent of medical assessments that  were conducted within the time frame re-
+quired under ORS 419B.023 (2)(a)(B);
+(B) Demographic data regarding  the children who were the subjects of medical assess-
+ments required under ORS 419B.023 or of critical incidents, as defined in ORS 418.808;
+(C) Identification of barriers to compliance with  the provisions of ORS 418.806 to 418.816
+[4]
+SB 1579
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+and 419B.023;
+(D) Proposed solutions to ensure compliance with the  provisions of ORS 418.806 to 418.816
+and 419B.023; and
+(E) Recommendations for publishing compliance rates on a regular basis going forward.
+(b) Studying and  providing proposals for optimal funding rates for children’s advocacy
+centers.
+(c) Identifying barriers to access to the  child abuse multidisciplinary teams outside of
+regular business hours and proposing solutions to expand such access.
+(d) Identifying barriers to referrals to children’s advocacy centers  and proposing sol-
+utions to close referral gaps.
+(5) A  majority of the voting members of the task force constitutes a quorum for the
+transaction of business.
+(6) Official action by the task force requires the approval of a majority  of the voting
+members of the task force.
+(7) The task force shall elect one of its members to serve as chairperson.
+(8) If there  is a vacancy for any cause, the appointing authority shall make an appoint-
+ment to become immediately effective.
+(9) The task force shall meet at times and places specified by the call of  the chairperson
+or of a majority of the voting members of the task force.
+(10) The task force may adopt rules necessary for the operation of the task force.
+(11) The task force shall submit a report in the  manner provided by ORS 192.245, and
+may include recommendations for legislation, to the interim  committees of the Legislative
+Assembly related to human services no later than September 15, 2024.
+(12) The Department of Human Services shall provide staff support to the task force.
+(13) Members of the Legislative Assembly appointed to the task force  are nonvoting
+members of the task force and may act in an advisory capacity only.
+(14) Members of the task force who are not members of the Legislative  Assembly are not
+entitled to compensation or reimbursement for expenses and serve as volunteers on the  task
+force.
+(15) All agencies of state government, as defined in  ORS 174.111, are directed to assist
+the task force in the performance of  the duties of the task force and, to the extent permitted
+by laws relating to confidentiality, to furnish information and advice the members of the task
+force consider necessary to perform their duties.
+APPROPRIATIONS
+SECTION 7.
+In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the Department of Justice,  for the biennium ending June 30, 2025, out of the General
+Fund, the amount of $3,500,000, for deposit in the Children’s  Advocacy Center Fund estab-
+lished under section 2 of this 2024 Act.
+SECTION 8. In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the Department of Human Services, for the biennium ending June 30,  2025, out of the
+General Fund, the amount of $27,000,000, for deposit in the Children’s Advocacy Center
+One-Time Grant Fund established under section 5 of this 2024 Act.
+SECTION 9.
+In addition to and not in lieu of any other appropriation, there is appropri-
+[5]
+SB 1579
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+ated to the Department of Human Services, for the biennium ending June 30,  2025, out of the
+General Fund,  the amount of $_________, to carry out the purposes of section 6 of this 2024
+Act.
+MISCELLANEOUS
+SECTION 10.
+Sections 4 to 6 of this 2024 Act are repealed on January 2, 2026.
+SECTION 11. The unit captions used in this 2024 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2024 Act.
+SECTION 12. This 2024 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2024 Act takes effect
+on its passage.
+[6]

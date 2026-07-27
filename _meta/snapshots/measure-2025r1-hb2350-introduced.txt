@@ -1,0 +1,201 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2350
+Introduced and printed pursuant to  House Rule 12.00. Presession filed (at the request of Governor Tina Kotek for
+Oregon Business Development Department)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  would have Business Oregon set up a program for loans and grants to fund
+enhanced and new small business projects. (Flesch Readability Score: 65.2).
+Directs the Oregon Business Development Department to develop and administer a  program for
+awarding financial assistance for enhanced and new  commercial activities that support the retention
+or expansion of eligible small businesses in Oregon.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to financial assistance to small businesses; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+As used in sections 1 to 3 of this 2025 Act:
+(1) “Business development project” means, but is not limited to, strategic investments
+for a private sector  business to create long-term value for the business’s customers through
+enhanced or new commercial activities  that support the retention or expansion of an eligible
+small business in Oregon.
+(2) “Eligible project costs” means, but is not limited to, the  following costs to the extent
+they are related to the business development project  for which financial assistance is sought:
+(a) Tenant and capital improvements;
+(b) Equipment and machinery purchases;
+(c) Inventory, supplies and accounts receivable;
+(d) Employee training and the costs of attending trade shows or conferences;
+(e) International or domestic export assistance; or
+(f) Marketing and promotion.
+(3) “Eligible small  business” means a for-profit business having 100 or fewer employees,
+as further defined by the Oregon Business Development Department by  rule relating to em-
+ployment or sales.
+(4) “Financial assistance” means loans, including forgivable loans, and grants.
+(5) “For-profit business”  means any private business, including entities that are legally
+formed and authorized to conduct business in Oregon as limited liability companies,  sole
+proprietorships, partnerships, corporations or S corporations.
+(6) “Rural area” has the meaning given that term in ORS 285A.010.
+(7) “Traded sector” has the meaning given that term in ORS 285B.280.
+SECTION 2.
+(1)(a) The Oregon Business Development Department  shall develop and ad-
+minister a  program under which the department may award financial assistance to eligible
+small businesses to promote the completion of business development projects.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 340
+HB 2350
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) An eligible small business may not use financial assistance to retire any debt.
+(2) An eligible small business may apply for financial assistance under the program if the
+business:
+(a) Is in full compliance with all applicable federal, state and local law;
+(b) Operates a physical business location in Oregon;
+(c) Has conducted operations in Oregon, and can show sales receipts from those oper-
+ations, for at least one year immediately preceding the date on which the  business submits
+an application for the financial assistance; and
+(d)(A) Is a traded sector business;
+(B) Makes a majority of its sales to purchasers outside this state; or
+(C) Demonstrates the business’s regional economic  importance in a manner satisfactory
+to the department.
+(3) In awarding financial assistance under the program, the  department shall prioritize
+business development projects that:
+(a) Promote expansion or preservation of the principal traded sector industries  of
+Oregon;
+(b) Encourage economic diversification and competitiveness in Oregon;
+(c) Support preservation of regional economies including key businesses in rural areas;
+(d) Have significant long-term, regional or statewide economic impacts; or
+(e) Support businesses unable to access  resources, capital and assistance due to ge-
+ographic or other barriers as determined by the department.
+(4) The department shall adopt rules  to implement this section. At a minimum, the rules
+must include:
+(a) An application process by which an eligible small business may apply for  financial
+assistance under this section.
+(b) A process for reviewing and approving or rejecting the applications.
+(c) The amount  of financial assistance that may be provided to eligible small businesses.
+The maximum amount of financial assistance provided to any eligible  small business may not
+exceed 70 percent of the business’s total eligible project costs set forth in the application.
+(d) A process for establishing the priorities set forth in subsection (3) of this section.
+(e) The terms and  conditions for any agreements entered into for financial assistance
+under this section. In addition to other terms and  conditions, the department may specify
+in any agreement the facts  and circumstances that constitute nonperformance by the re-
+cipient, a means  for curing nonperformance, penalties for nonperformance and the means for
+recovering financial assistance amounts.
+SECTION 3.
+(1)(a) The Small Business Sustainability Fund is established in  the State
+Treasury, separate and distinct from the General Fund. Interest  earned by the Small Busi-
+ness Sustainability Fund must be credited to the fund.
+(b) Moneys in the Small Business Sustainability Fund  are continuously appropriated to
+the Oregon Business Development Department for the purposes of carrying out the  pro-
+visions of sections 1 to 3 of this 2025 Act.
+(c) The department may establish other  accounts within the fund to pay administrative
+costs and operational expenses or otherwise to carry out the provisions of sections 1 to 3 of
+this 2025 Act. Costs  related to business development projects funded with financial assistance
+under sections 1 to 3 of this 2025 Act shall not be considered administrative costs of the de-
+[2]
+HB 2350
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+partment.
+(2) The fund shall consist of moneys credited to the fund, including:
+(a) Moneys that the Legislative Assembly appropriates or otherwise transfers to  the
+fund;
+(b) Moneys transferred to the fund by the department from the Strategic Reserve  Fund
+created under ORS 285B.266 or otherwise;
+(c) Earnings on moneys in the fund;
+(d) Repayment amounts, including interest and penalties,  of financial assistance awarded
+under sections 1 to 3 of this 2025 Act;
+(e) Moneys received from the federal, state or local governments; and
+(f) Moneys, or the proceeds of assets,  from any other public or private source, including,
+but not limited to, grants and gifts.
+SECTION 4.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

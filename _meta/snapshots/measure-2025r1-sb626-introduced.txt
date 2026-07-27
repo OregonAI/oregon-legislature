@@ -1,0 +1,200 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 626
+Sponsored by Senator BONHAM (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act expands three crimes to include digitally-created images. The  Act goes into ef-
+fect when the Governor signs it. (Flesch Readability Score: 60.7).
+Expands the crimes of encouraging child sexual abuse in the first degree, second degree  and
+third degree to include visual depictions of child abuse that are computer-generated.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to encouraging child sexual abuse; amending ORS 163.665, 163.684, 163.686, 163.687 and
+163.690; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 163.665 is amended to read:
+163.665. As used in ORS 163.665 to 163.693:
+(1) “Child” means a person who  is less than 18 years of age, and any reference to a child in
+relation to a visual recording of the child is a reference to a person who was less than 18  years of
+age at the time the original image in the visual recording was created and  not the age of the person
+at the time of an alleged offense  relating to the subsequent reproduction, use or possession of the
+visual recording.
+(2) “Child abuse” means conduct that constitutes,  appears to constitute  or would constitute  if
+committed in this state[ ,] a crime in which the victim is a child.
+(3) “Sexually explicit conduct” means actual or simulated:
+(a) Sexual intercourse or deviant sexual intercourse;
+(b) Genital-genital, oral-genital, anal-genital or oral-anal contact, whether between persons of the
+same or opposite sex or between humans and animals;
+(c) Penetration of the vagina or rectum by any object other than as part  of a medical diagnosis
+or treatment or as part of a personal hygiene practice;
+(d) Masturbation;
+(e) Sadistic or masochistic abuse; or
+(f) Lewd exhibition of sexual or other intimate parts.
+(4) “Visual depiction” includes, but is not limited to, visual recordings,  pictures and computer-
+generated images , videos  and pictures, whether  made , altered  or produced by electronic, mechan-
+ical, digital or other means  or by artificial intelligence .
+(5) “Visual recording” includes, but  is not limited to, photographs, films, videotapes and com-
+puter and other digital pictures, regardless of the manner in which the recording is stored.
+SECTION 2.
+ ORS 163.684 is amended to read:
+163.684. (1) A person commits the crime of encouraging child sexual abuse in the first  degree if
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1250
+SB 626
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the person:
+(a)(A) Knowingly develops, duplicates, publishes, prints, disseminates, exchanges, displays,  fi-
+nances, attempts to finance or sells a visual  recording of sexually explicit conduct involving a child
+or a visual depiction of sexually explicit  conduct that appears to involve a child,  or knowingly
+possesses, accesses or  views such a visual recording  or visual depiction with the intent to develop,
+duplicate, publish, print, disseminate, exchange, display or sell it; or
+(B) Knowingly brings into this state, or causes to be brought or sent into this state,  for sale or
+distribution, a visual recording of sexually explicit conduct involving a child  or  a visual depiction
+of sexually explicit conduct that appears to involve a child ; and
+(b) Knows  or is aware of and consciously disregards the fact that [ creation of ] the visual re-
+cording  or visual depiction  of sexually explicit conduct [ involved] portrays  child abuse.
+(2) Encouraging child sexual abuse in the first degree is a Class B felony.
+SECTION 3.
+ ORS 163.686 is amended to read:
+163.686. (1) A person commits the crime of encouraging  child sexual abuse in the second degree
+if the person:
+(a)(A)(i) Knowingly possesses or controls, or knowingly accesses with the intent to view, a visual
+recording of sexually  explicit conduct involving a child , or a visual depiction of sexually explicit
+conduct that appears  to involve a child,  for the purpose of arousing or satisfying the sexual de-
+sires of the person or another person; or
+(ii) Knowingly pays, exchanges or gives anything of value to obtain  or view a visual recording
+of sexually explicit conduct involving a child , or a visual depiction of  sexually explicit conduct
+that appears to involve a child,  for the purpose of  arousing or satisfying the sexual desires of the
+person or another person; and
+(B) Knows or is aware of and consciously disregards the fact that [ creation of ] the visual re-
+cording  or visual depiction  of sexually explicit conduct [ involved] portrays  child abuse; or
+(b)(A) Knowingly pays, exchanges or gives anything of value to observe sexually explicit conduct
+by a child or knowingly observes, for the purpose of arousing or gratifying the sexual desire of  the
+person, sexually explicit conduct by a child; and
+(B) Knows or is aware of and consciously disregards the fact that  the conduct constitutes child
+abuse.
+(2) Encouraging child sexual abuse in the second degree is a Class C felony.
+SECTION 4.
+ ORS 163.687 is amended to read:
+163.687. (1) A person commits the  crime of encouraging child sexual abuse in the third degree
+if the person:
+(a)(A)(i) Knowingly possesses or controls, or knowingly accesses with the intent to view, a visual
+recording of sexually explicit conduct involving a child , or a visual depiction of  sexually explicit
+conduct that appears to involve a child, for the purpose of arousing or satisfying the  sexual de-
+sires of the person or another person; or
+(ii) Knowingly pays, exchanges or gives  anything of value to obtain or view a visual recording
+of sexually explicit conduct  involving a child , or a visual depiction of sexually explicit conduct
+that appears to involve a child,  for the purpose of  arousing or satisfying the sexual desires of the
+person or another person; and
+(B) Knows or fails to be aware of a substantial and unjustifiable risk that [ the creation of ] the
+visual recording  or visual depiction  of sexually  explicit conduct [ involved] portrays  child abuse;
+or
+[2]
+SB 626
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+(b)(A) Knowingly pays, exchanges or gives anything of value to observe sexually explicit conduct
+by a child or knowingly observes, for the purpose of arousing or gratifying the sexual desire of  the
+person, sexually explicit conduct by a child; and
+(B) Knows or fails to be aware of a substantial  and unjustifiable risk that the conduct consti-
+tutes child abuse.
+(2) Encouraging child sexual abuse in the third degree is a Class A misdemeanor.
+SECTION 5.
+ ORS 163.690 is amended to read:
+163.690. It is an  affirmative defense to any prosecution under ORS [ 163.684, 163.686, 163.687 or]
+163.693 that the defendant, at the time of engaging in the conduct prohibited therein,  did not know
+and did not have reason to know that the relevant sexually explicit conduct involved a child.
+SECTION 6. This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[3]

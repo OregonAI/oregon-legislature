@@ -1,0 +1,368 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 742
+Sponsored by Senator GELSER BLOUIN (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Allows a parent or foster parent  to agree to have a meeting by phone or online to dis-
+cuss placing a student on a short school day program. (Flesch Readability Score: 60.3).
+Allows a student’s parent or foster parent to consent to  attending an initial meeting regarding
+an abbreviated school day program placement by telephone or other electronic means.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to electronic meetings to discuss an  abbreviated school day program placement; amending
+ORS 343.321 and 343.324; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 343.324 is amended to read:
+343.324. A school district may not provide an  abbreviated school day program to a student with
+a disability unless all of the following are satisfied:
+(1) The student’s individualized education program team:
+(a) Recommends that the student should be placed on an abbreviated school day program:
+(A) Based on the student’s individual needs, which may not include consideration of  a lack of
+school district resources, including:
+(i) Licensed or classified staff;
+(ii) Availability of training;
+(iii) Accessible facilities; and
+(iv) Related services, including nursing services and transportation services; and
+(B) After the opportunity for the student’s parent or foster parent to meaningfully  participate
+in a meeting of the individualized education program team to discuss an  abbreviated school day
+program placement[ , including ]. A student’s parent or  foster parent must be provided the rea-
+sonable opportunity  to physically attend the meeting of the individualized education program team
+at which the abbreviated school day program placement is  discussed , unless the parent or foster
+parent consents to holding the meeting through telephone or  other electronic means or un-
+less the holding of a meeting in person is not reasonable due to a public health emergency .
+(b) Makes determinations about the instruction and educational services to  be offered to the
+student based on the student’s individual needs.
+(c) Documents that the school district offered at least one  reasonable alternative placement that
+included appropriate supports for the student and that could enable the student to have  meaningful
+access to the same  number of hours of instruction and educational services that are provided to the
+majority of other students who are in the same grade within the student’s resident school district.
+(d) Documents the specific provisions of the abbreviated school day program, including:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3368
+SB 742
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) How the abbreviated school day program will be designed to:
+(i) Support the student’s return to a school day program that is not an abbreviated  school day
+program; and
+(ii) Make progress toward the  student’s individualized learning goals and progress in the general
+curriculum;
+(B) The number of hours of instruction and educational services to  be provided to the student
+while the student is placed on the abbreviated school day program;
+(C) How the student’s progress toward the student’s individualized learning goals and  progress
+in the general curriculum will be measured; and
+(D) The date by which the student is expected to return to  a school day program that is not an
+abbreviated school day program.
+(2) Prior to the discussion of the abbreviated school day program placement, the school  district
+provides a written statement to the student’s parent or foster parent in a language and format ac-
+cessible to the parent or foster parent informing the parent or foster parent of:
+(a) The student’s right to have meaningful access to the same  number of hours of instruction
+and educational services as the majority of other students  who are in the same grade within the
+student’s resident school district;
+(b) The prohibition on the school district to unilaterally place a student with a disability on  an
+abbreviated school day program; and
+(c) The parent’s or foster parent’s right, at any time, to  withdraw consent for an abbreviated
+school day program placement or to request  a meeting of the student’s individualized education
+program team to discuss  whether the student should no longer be placed on an abbreviated school
+day program.
+(3) The school  district provides a written statement summarizing the documentation described
+in subsection (1)(c) and (d) of this  section in a language and format accessible to the parent or foster
+parent.
+(4) The school  district receives a signed acknowledgment from the parent or foster parent ac-
+knowledging receipt of the written statement described in subsection (2) of this section.
+(5) The parent or foster parent provides  informed and written consent for the abbreviated school
+day program placement.
+SECTION 2.
+ ORS 343.321 is amended to read:
+343.321. As used in ORS 343.321 to 343.331:
+(1) “Abbreviated school day” means  any school day during which a student with a disability
+receives instruction or educational services for fewer hours than the majority of other students  who
+are in the same grade within the student’s resident school district.
+(2) “Abbreviated school day program” means an education program:
+(a) In which a school  district restricts access for a student with a disability to hours of in-
+struction or educational services to less than the number of hours of instruction or educational
+services that are provided to the majority of other students who are in the same grade within  the
+student’s resident school district; and
+(b) That results in  a student with a disability having an abbreviated school day for more than
+10 school days per school year.
+(3)(a) “Educational services” includes any social, learning,  enrichment, community or support
+opportunity or benefit that is offered during the school day to  the majority of other students who
+are in the same grade within a student’s resident school district, including:
+[2]
+SB 742
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Passing time between classes;
+(B) Time reasonably  needed to transport a student between locations during the school day if
+the student  receives hours of instruction or educational services in more than one location on the
+same day;
+(C) Recess;
+(D) Nonacademic assemblies and field trips;
+(E) Job shadows, internships and community service activities arranged by  the school or school
+district;
+(F) Optional school programs held during the school day, including study periods  and advisory
+periods that are open to the majority of students in the school;
+(G) Lunch periods  or other meal or snack periods provided to the majority of students of the
+school; and
+(H) Reasonable access to school facilities during noninstructional time that is equal  to the ac-
+cess available to the majority of other students who are in the  same grade within the student’s
+resident school district.
+(b) “Educational  services” does not include time being transported to or from school or time
+traveling between a classroom and transportation before or after the school day.
+(4) “504  Plan” means an education plan developed for a student with a disability in accordance
+with section 504 of the Rehabilitation Act of 1973, 29 U.S.C. 794.
+(5) “Foster parent” means the foster parent of a child or ward who is in  the legal custody of the
+Department of Human Services as provided in ORS 418.015 or  419B.337 and who has been placed in
+substitute care.
+(6) “Hours” includes any fraction of an hour.
+(7) “Individualized education program team”  includes, when applicable, a team that develops a
+504 Plan.
+(8) “Informed and written consent” means that a student’s  parent or foster parent has signed
+and dated a written consent form affirming that:
+(a) The parent or foster parent received the information described in ORS 343.324 (2) and (3);
+(b) The parent or foster parent was not asked to provide consent for an  abbreviated school day
+program placement before having an opportunity to meaningfully participate  in a meeting of the
+individualized education program team  as described in ORS 343.324 ;
+(c) The school district  offered, and the individualized education program team considered, at
+least one reasonable alternative placement, as described in ORS 343.324 (1)(c), prior  to requesting
+that the parent or foster parent provide consent for an abbreviated school day program placement;
+(d) The parent  or foster parent was informed that the individualized education program team
+will meet at least once every 30 calendar days during the school year  unless the parent or foster
+parent provides signed consent to meet less frequently as provided in ORS 343.326 (2)(b)(B);
+(e) The parent or  foster parent was informed that if, during the school year, the individualized
+education program team is  scheduled to convene less frequently than once every 30 calendar days
+during the abbreviated school day program, the school district must  convene an individualized edu-
+cation program team meeting within 14 calendar days of receiving  a written request from the parent
+or foster parent for the meeting;
+(f) The parent or foster parent voluntarily signed the consent form for the abbreviated  school
+day program placement; and
+(g) The parent or foster parent was  informed of the right to revoke consent, in writing, to an
+[3]
+SB 742
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+abbreviated school day program placement  at any time and informed that the parent or foster parent
+is not required to request or attend an individualized education program team meeting  prior to re-
+voking consent to an abbreviated school day program placement.
+(9)(a) “Instruction” means the time during which a student is:
+(A) Engaged in regularly scheduled instruction, learning activities or learning assessments  that
+are designed to meet Common Curriculum Goals  or grade level academic content standards or en-
+gaged in specially  designed instruction that is individualized to support a student to make mean-
+ingful progress in the general curriculum.
+(B) Working under the direction and supervision of  a licensed or registered teacher, a licensed
+career and technical education instructor, a licensed  practitioner or an instructional assistant who
+is assigned  instructionally related activities and is working under the direct supervision of a li-
+censed or registered teacher.
+(b) “Instruction” does not include time spent:
+(A) Passing between class, at recess, in nonacademic assemblies, on nonacademic field  trips,
+traveling to or from school, loading or unloading from a school bus at the start or  end of the
+student’s school day, participation in optional programs  or participation in study periods or advisory
+periods when attendance is not required and no instructional assistance is provided.
+(B) In an  online learning program during which the student is unable to access the materials
+or benefit from instruction because the school district has not provided the student with  the sup-
+ports necessary to access the materials  or instruction, including the support of an instructional as-
+sistant, nursing  services, adapted materials or other related services identified in the student’s
+individualized education program or 504 Plan as being necessary for a free  appropriate public edu-
+cation.
+(10) “Meaningful  access” means access to full-time, quality instruction or educational services
+that is:
+(a) Delivered by:
+(A) A qualified licensed teacher; or
+(B) Qualified classified staff who are under the  direct supervision of a qualified licensed teacher;
+and
+(b) Synchronous,  unless the instruction or educational services are provided by a virtual public
+charter school in compliance with ORS chapter 338.
+(11) “Parent” includes:
+(a) A parent or a legal guardian, other than a state agency.
+(b) The student, if  the student is 18 years of age or older or is emancipated pursuant to ORS
+419B.550 to 419B.558.
+(c) The student’s surrogate, if the student has a surrogate, as defined in ORS 419A.004.
+(12) “Resident school district” means the school district  in which a student is a resident under
+ORS 339.133.
+(13) “School district” includes an education service district.
+(14) “Student with a disability” means a student who:
+(a) Is eligible for special education and related services, as provided by ORS chapter 343;
+(b) Has a disability under section 504 of the Rehabilitation Act of 1973, 29  U.S.C. 794, and is
+eligible for a 504 Plan; or
+(c) Has not been  determined to be eligible for special education and related services, as provided
+by ORS chapter 343, or to be eligible for a 504 Plan, but for  whom a request or referral for evalu-
+[4]
+SB 742
+1
+2
+3
+4
+5
+6
+7
+ation for eligibility determination has been made but not yet completed.
+(15) “Unilaterally  place” means a placement by a school district without the informed and
+written consent of the student’s parent or foster parent.
+SECTION 3.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[5]

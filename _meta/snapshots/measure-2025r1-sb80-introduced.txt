@@ -1,0 +1,131 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 80
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Natural Resources and Wildfire)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This  Act prohibits the DEQ from giving a water permit to some CAFOs that are in a
+managed ground water area. (Flesch Readability Score: 64.6).
+Prohibits the Department of Environmental Quality from issuing a  water quality permit to cer-
+tain confined animal feeding operations located in a ground water management area.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to water quality  permits for confined animal feeding operations; amending ORS 468B.050;
+and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 468B.050 is amended to read:
+468B.050. (1) Except as provided in  ORS 468B.053 or 468B.215, without holding a permit from the
+Director of the Department of Environmental Quality or the  State Department of Agriculture, which
+permit shall specify applicable effluent limitations, a person may not:
+(a) Discharge any wastes into the waters of the state from  any industrial or commercial estab-
+lishment or activity or any disposal system.
+(b) Construct, install, modify or operate any disposal system  or part thereof or any extension
+or addition thereto.
+(c) Increase in volume or strength any wastes  in excess of the permissive discharges specified
+under an existing permit.
+(d) Construct, install, operate or conduct  any industrial, commercial, confined animal feeding
+operation or other  establishment or activity or any extension or modification thereof or addition
+thereto, the operation or conduct of which would cause an increase in the discharge of wastes into
+the waters of the state or which  would otherwise alter the physical, chemical or biological proper-
+ties of any waters of the state in any manner not already lawfully authorized.
+(e) Construct or use any new outlet for the discharge of any wastes into the waters  of the state.
+(2) The Department of  Environmental Quality or the State Department of Agriculture may issue
+a permit under this section as an individual, general or watershed permit. A permit may be  issued
+to a class of persons using the procedures for issuance of an order or for the adoption of  a rule.
+Notwithstanding the definition of “order”  or “rule” provided in ORS 183.310, in issuing a general
+or watershed permit by order  pursuant to this section, the State Department of Agriculture or De-
+partment of Environmental Quality:
+(a) Is not required to direct the order to a named person or named persons; and
+(b) May  include in the order agency directives, standards, regulations and statements of general
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2079
+SB 80
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+applicability that implement, interpret or prescribe law or policy.
+(3) When deciding whether to issue a permit to a confined animal feeding  operation under this
+section,  the  Department of Environmental Quality or the State Department of Agriculture shall
+consider any relevant determination by the Water  Resources Department pursuant to ORS 468B.216
+(2).
+(4) Notwithstanding subsection (2) of this section, the Department of Environmental  Quality or
+the State Department of Agriculture may  not issue a [ general] NPDES or WPCF permit to a [ new
+large] confined animal feeding operation that:
+(a) Is located in a ground water management area declared under ORS 468B.180; and
+[(b) Applies manure, litter, wastewater or processed waste to land  within the ground water man-
+agement area. ]
+(b) Is a new large confined animal feeding operation, an expanding large confined  animal
+feeding operation or an expanding confined animal feeding  operation that is expanding oper-
+ational size into the largest tier described in ORS 561.255 (2).
+(5) Subsection  (4) of this section does not apply to the issuance of water quality permits to
+regulate stormwater.
+(6) The  State Department of Agriculture or the Department of Environmental Quality may define
+“confined animal feeding operation” by rule for purposes of implementing this section.
+(7) As used in this section:
+(a) “Expanding confined animal feeding operation,”  “expanding large confined animal
+feeding operation” and  “new large confined animal feeding operation” [ has the meaning  given that
+term] have the meanings given those terms  in ORS 468B.215.
+(b) “NPDES” and “WPCF” have the meanings given those terms in ORS 561.255.
+SECTION 2.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[2]

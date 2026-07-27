@@ -1,0 +1,1064 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2470
+title: 'HB 2470 (2025R1): Directs the Oregon Health Authority to expand the capacity of the Oregon State
+  Hospital.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2470
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2470/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 22b28acbd43274ea5253c686fab6b66afdd7bfe88496ac7f8b819a96160165f1
+snapshot_id: measure-2025r1-hb2470-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 125.010
+  - ORS 125.055
+  - ORS 125.600
+  - ORS 125.605
+  - ORS 125.675
+  - ORS 125.680
+  - ORS 125.683
+  - ORS 131.007
+  - ORS 131.125
+  - ORS 135.230
+  - ORS 135.755
+  - ORS 137.700
+  - ORS 161.309
+  - ORS 161.355
+  - ORS 161.362
+  - ORS 161.365
+  - ORS 161.367
+  - ORS 161.370
+  - ORS 161.371
+  - ORS 161.372
+  - ORS 164.055
+  - ORS 164.305
+  - ORS 166.210
+  - ORS 179.505
+  - ORS 192.245
+  - ORS 192.338
+  - ORS 192.345
+  - ORS 192.355
+  - ORS 192.556
+  - ORS 40.230
+  - ORS 40.235
+  - ORS 40.240
+  - ORS 40.250
+  - ORS 426.005
+  - ORS 426.070
+  - ORS 426.110
+  - ORS 426.701
+  - ORS 426.702
+  - ORS 678.710
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2470
+prefix_meaning: House Bill
+catch_line: Directs the Oregon Health Authority to expand the capacity of the Oregon State Hospital.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act changes laws about mental health findings. The Act takes effect on\
+  \ the 91st day after sine die. (Flesch Readability Score: 81.4). \n\tDirects the Oregon Health Authority\
+  \ to expand the capacity of the Oregon State Hospital. \n\tRequires certain updates and reports when\
+  \ a defendant has been ordered to engage in community restoration services due to lacking fitness to\
+  \ proceed. Authorizes the release of the defendant's fitness to proceed records upon request in specified\
+  \ circumstances. Authorizes the court to order the defendant to participate in an in-custody jail-based\
+  \ restoration treatment program when the defendant lacks fitness to proceed. \n\tAuthorizes the Oregon\
+  \ Public Guardian and Conservator to establish a program for persons found to lack fitness to proceed\
+  \ and to receive records concerning the defendant. \n\tModifies the criteria for the commitment of an\
+  \ extremely dangerous person with mental illness. \n\tTakes effect on the 91st day following adjournment\
+  \ sine die."
+relating_to: Relating to mental health; prescribing an effective date.
+relating_to_full: Relating to mental health; creating new provisions; amending ORS 125.683, 161.355, 161.362,
+  161.367, 161.370, 161.371 and 426.701; and prescribing an effective date.
+at_the_request_of: (at the request of House Interim Committee on Judiciary for Oregon District Attorneys
+  Association)
+lc_number: 2362
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-04-11T15:24:47'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 72795
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 125.010
+  - ORS 125.055
+  - ORS 125.600
+  - ORS 125.605
+  - ORS 125.675
+  - ORS 125.680
+  - ORS 125.683
+  - ORS 131.007
+  - ORS 131.125
+  - ORS 135.230
+  - ORS 135.755
+  - ORS 137.700
+  - ORS 161.309
+  - ORS 161.355
+  - ORS 161.362
+  - ORS 161.365
+  - ORS 161.367
+  - ORS 161.370
+  - ORS 161.371
+  - ORS 161.372
+  - ORS 164.055
+  - ORS 164.305
+  - ORS 166.210
+  - ORS 179.505
+  - ORS 192.245
+  - ORS 192.338
+  - ORS 192.345
+  - ORS 192.355
+  - ORS 192.556
+  - ORS 40.230
+  - ORS 40.235
+  - ORS 40.240
+  - ORS 40.250
+  - ORS 426.005
+  - ORS 426.070
+  - ORS 426.110
+  - ORS 426.701
+  - ORS 426.702
+  - ORS 678.710
+  from_relating_to_full:
+  - ORS 125.683
+  - ORS 161.355
+  - ORS 161.362
+  - ORS 161.367
+  - ORS 161.370
+  - ORS 161.371
+  - ORS 426.701
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2470`.
+
+# HB 2470 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2470, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of House Interim Committee on Judiciary for Oregon District Attorneys Association)
+- **LC number:** 2362
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-04-11T15:24:47
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 72795 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2470/Introduced>.
+
+## Summary
+
+**Catchline:** Directs the Oregon Health Authority to expand the capacity of the Oregon State Hospital.
+
+**Relating to:** Relating to mental health; prescribing an effective date.
+
+Digest: The Act changes laws about mental health findings. The Act takes effect on the 91st day after sine die. (Flesch Readability Score: 81.4). 
+ Directs the Oregon Health Authority to expand the capacity of the Oregon State Hospital. 
+ Requires certain updates and reports when a defendant has been ordered to engage in community restoration services due to lacking fitness to proceed. Authorizes the release of the defendant's fitness to proceed records upon request in specified circumstances. Authorizes the court to order the defendant to participate in an in-custody jail-based restoration treatment program when the defendant lacks fitness to proceed. 
+ Authorizes the Oregon Public Guardian and Conservator to establish a program for persons found to lack fitness to proceed and to receive records concerning the defendant. 
+ Modifies the criteria for the commitment of an extremely dangerous person with mental illness. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to mental health; creating new provisions; amending ORS 125.683, 161.355, 161.362, 161.367, 161.370, 161.371 and 426.701; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2470
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Judiciary for Oregon District Attorneys Association)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes laws about mental health findings. The Act takes  effect on the 91st
+day after sine die. (Flesch Readability Score: 81.4).
+Directs the Oregon Health Authority to expand the capacity of the Oregon State Hospital.
+Requires certain  updates and reports when a defendant has been ordered to engage in commu-
+nity restoration services due to lacking  fitness to proceed. Authorizes the release of the defendant’s
+fitness to proceed records upon  request in specified circumstances. Authorizes the court to order the
+defendant to participate  in an in-custody jail-based restoration treatment program when the defend-
+ant lacks fitness to proceed.
+Authorizes the Oregon Public Guardian and Conservator to  establish a program for persons
+found to lack fitness to proceed and to receive records concerning the defendant.
+Modifies the criteria for the commitment of an extremely dangerous person with  mental illness.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to mental health; creating  new provisions; amending ORS 125.683, 161.355, 161.362, 161.367,
+161.370, 161.371 and 426.701; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+OREGON STATE HOSPITAL CAPACITY
+SECTION 1.
+(1) The Oregon Health Authority shall, as  soon as practicable, expand the
+capacity at Oregon State Hospital  for inpatient psychiatric patients, including state and
+community hospital beds. The additional  capacity shall at least meet the projected additional
+capacity needed as identified in the Oregon Health Authority Behavioral Health  Residential+
+Facility Study of June 2024, projecting the need for 486 new beds.
+(2) Beginning no later than December 31, 2025, and annually thereafter, the  Oregon
+Health Authority shall submit a report to the appropriate interim committees of the Legis-
+lative Assembly, in the  manner described in ORS 192.245, concerning the current capacity
+of Oregon State Hospital and the projected additional capacity needed in the following year.
+SECTION 2.
+ Section 1 of this 2025 Act is amended to read:
+Sec. 1.  [ (1) The Oregon Health Authority shall, as soon  as practicable, expand the capacity at
+Oregon State Hospital for inpatient psychiatric patients, including state and  community hospital beds.
+The additional capacity shall at least meet  the projected additional capacity needed as identified in the
+Oregon Health  Authority Behavioral Health Residential+ Facility Study of June 2024, projecting the
+need for 486 new beds. ]
+[(2) Beginning no later than December 31, 2025,  and annually thereafter, ] The Oregon Health
+Authority shall  annually submit a report to the  appropriate interim committees of the Legislative
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2362
+Assembly, in the manner described in ORS 192.245, concerning the current capacity of Oregon State
+Hospital and the projected additional capacity needed in the following year.
+SECTION 3.
+The amendments to section 1 of this 2025 Act by section 2 of this 2025 Act
+become operative on January 2, 2028.
+FITNESS TO PROCEED
+SECTION 4.  ORS 161.355 is amended to read:
+161.355. As used in ORS 161.355 to 161.371:
+(1) “Certified evaluator” has the meaning given that term in ORS 161.309.
+(2) “Community restoration services” means services and treatment necessary to  safely allow a
+defendant to gain or regain fitness  to proceed in the community, which may include supervision by
+pretrial services.
+(3) “Hospital level of  care” means that a defendant requires the type of care provided by an
+inpatient hospital  or an in-custody jail-based  restoration treatment program  in order to gain
+or regain fitness to proceed.
+(4) “Public safety concerns” means that the defendant presents a risk to self or to the  public if
+not hospitalized or in custody.
+SECTION 5.
+ ORS 161.367 is amended to read:
+161.367. (1) If at any time the  court determines that the defendant lacks fitness to proceed, the
+court shall further  determine whether there is a substantial probability that the defendant, in the
+foreseeable  future,  will gain or regain fitness to proceed. If the court determines that there is no
+substantial probability that the defendant, in the foreseeable future, will gain  or regain fitness to
+proceed, the court shall dismiss, without prejudice and in accordance  with subsection (6) of this
+section, all charges against the defendant and:
+(a) Order that the defendant be discharged; or
+(b) Initiate commitment proceedings under ORS 426.070, 426.701 or 427.235 to 427.292.
+(2)(a) The superintendent of the hospital or director of the facility in which the defendant  is
+committed under ORS 161.370 , the director of the facility providing the in-custody jail-based
+restoration treatment program  or a person examining the defendant  as a condition of release to
+community restoration  services shall notify the court if the defendant gains or regains fitness to
+proceed.
+(b) A party to the  case may notify the court if the defendant has gained or regained fitness to
+proceed.
+(c) The court may, upon  its own motion or the request of either party, hold a hearing to deter-
+mine whether the defendant has gained or regained fitness to proceed.  If the court determines that
+the defendant has gained or regained fitness to  proceed, the court shall resume the criminal pro-
+ceeding unless the court  determines that so much time has elapsed since the commitment or release
+of the defendant to community restoration services that it would be unjust to  resume the criminal
+proceeding.  If  the court determines that it would be unjust to resume the criminal proceeding, the
+court, on motion of either party, may dismiss the charge  in accordance with subsection (6) of this
+section, and may order the defendant  to be discharged or cause a proceeding to be commenced
+forthwith under ORS 426.070 to 426.170, 426.701 or 427.235 to 427.292.
+(3) If the defendant gains  or regains fitness to proceed, the defendant shall be given credit
+against each  charge alleged in the accusatory instrument for each day the defendant was  in custody
+or committed under ORS 161.370 to the custody of a state  mental hospital, or to the custody of a
+secure intensive community inpatient facility designated by the Oregon Health Authority.
+(4) Notwithstanding  the suspension of the criminal proceeding under ORS 161.370 (2), the fact
+that the defendant is unfit to proceed does not preclude any objection through counsel and  without
+the personal participation of the defendant on  the grounds that the indictment is insufficient, that
+the statute of limitations has run, that double jeopardy principles apply or  upon any other ground
+at the discretion of the court which the court deems susceptible  of fair determination prior to trial.
+(5) At the time  that the court determines that the defendant lacks fitness to proceed under ORS
+161.370 (2), the court shall notify the defendant in writing that federal law prohibits the defendant
+from purchasing or possessing a firearm unless the person obtains relief from the prohibition under
+federal law. The court shall again  notify the defendant in writing of the prohibition if the court finds
+that the defendant has gained or regained fitness to proceed under subsection (2) of this section.
+(6) If the court intends to dismiss all charges involving orders of  commitment against a defend-
+ant who is committed to  and currently located at a state mental hospital or other facility, the court
+shall order that the defendant  be immediately transported back to the jurisdiction in which the
+charges were initiated, and the dismissal shall take effect only upon  the defendant’s arrival in that
+jurisdiction.
+SECTION 6.
+ ORS 161.370 is amended to read:
+161.370. (1)(a) When the defendant’s fitness to  proceed is drawn in question, the issue shall be
+determined by the court.
+(b) If neither the prosecuting attorney nor counsel for the defendant contests the finding of the
+report filed under  ORS 161.365, the court may make the determination on the basis of the report.
+If the finding  is contested, the court shall hold a hearing on the issue. If the report is received in
+evidence in the hearing, the party who contests the finding has the right to summon and to  cross-
+examine any certified evaluator who submitted the  report and to offer evidence upon the issue.
+Other evidence regarding the defendant’s fitness to proceed may be introduced by either party.
+(2)(a) If the court determines that the defendant lacks fitness to proceed, the criminal proceeding
+against the defendant shall be suspended and the court shall proceed  in accordance with this sub-
+section.
+(b) After making the determination under  paragraph (a) of this subsection, the court shall re-
+ceive a recommendation from a community mental health program  director or the director’s
+designee, and  from any local entity  or agency  that would be responsible for treating the defendant
+if the defendant were to be  released in the community, concerning whether appropriate community
+restoration services are present and available in the community.
+(c) If the parties agree as to the appropriate action  under this section, the court may, after
+making all findings required by law, enter any order authorized by this section. If the parties  do not
+agree as to the appropriate action,  the court and the parties shall, at a hearing, consider an ap-
+propriate action in the case, and the court shall make a determination and enter  an order necessary
+to implement  the action. In determining the appropriate action, the court shall consider the primary
+and secondary release criteria as defined in ORS 135.230, the least restrictive  option appropriate for
+the defendant, the needs of the defendant and the interests of justice. Actions  may include but are
+not limited to:
+(A) Commitment  or an  order to participate in an in-custody jail-based restoration treat-
+ment program  for the defendant to gain or regain fitness to proceed under subsection (3) or (4) of
+this section;
+(B) An order to engage in  community restoration services, as recommended by the community
+mental health program director or designee, under subsection (6) of this section;
+(C) Commencement of  a civil commitment proceeding under ORS 426.070 to 426.170, 426.701 or
+427.235 to 427.292;
+(D) Commencement of protective proceedings under ORS chapter 125; or
+(E) Dismissal of the charges pursuant to ORS 135.755 and in accordance with ORS 161.367 (6).
+(d) If the court, while considering or ordering an appropriate  action under this subsection, does
+not order the defendant committed to a state mental hospital or other facility,  or ordered to par-
+ticipate in an in-custody jail-based restoration  treatment program,  but finds that appropriate
+community restoration services are not  present and available in the community, for any defendant
+remaining in  custody after such determination, the court shall set a review hearing seven days from
+the date of the determination under paragraph (a) of this subsection.  At the review hearing, the
+court shall consider all relevant information and determine if commitment to the state  mental hos-
+pital or other facility , or an order to  participate in an in-custody jail-based restoration treat-
+ment program,  is appropriate under subsection (3) or (4) of this  section, or if another action
+described in paragraph (c) of this subsection is  appropriate. At the conclusion of the hearing the
+court shall enter an order in accordance with the defendant’s constitutional rights to due process.
+(e) If the court determines that the appropriate action in the case is  an order for the defendant
+to engage in community restoration  services, but the defendant has a pending criminal case, warrant
+or hold in one or more other jurisdictions,  the other jurisdictions shall, within two judicial days of
+becoming aware of the proceeding under this section, communicate with the court and the  other
+jurisdictions, if applicable, to develop a plan  to address the interests of all jurisdictions in the de-
+fendant in a timely manner.
+(f) If the court determines that the appropriate action in the case  is the commencement
+of protective proceedings under ORS chapter 125, the court may,  in accordance with ORS
+125.600 and 125.605, appoint a temporary fiduciary for the defendant to  exercise the powers
+of a guardian, until a guardian can be appointed.
+(3)(a) If the most serious offense in the charging instrument  is a felony, the court shall commit
+the defendant to the custody of the superintendent of a state  mental hospital or director of a facility
+designated by the  Oregon Health Authority , or order the defendant to participate in an in-
+custody jail-based restoration treatment  program,  if the defendant is at least 18 years of age,
+or commit the defendant  to the custody of the director of a secure intensive  community inpatient
+facility designated by the authority if  the defendant is under 18 years of age, if the court makes the
+following  findings:
+(A) The defendant requires a  hospital level of care due to public safety concerns if the defendant
+is not hospitalized or in custody or the acuity of symptoms of the defendant’s qualifying  mental
+disorder; and
+(B) Based on the findings resulting from a consultation described in ORS 161.365 (1),  if applica-
+ble, from any information provided by community-based mental health providers or any other
+sources, and primary and secondary release criteria as defined in ORS 135.230, the appropriate
+community restoration services are not present and available in the community.
+(b) If the defendant is committed  or ordered to participate  in an in-custody jail-based res-
+toration treatment program  under this subsection, the community mental health program director,
+or director’s designee, shall at regular intervals,  during any period of commitment  or while the
+defendant is  subject to the order , review available community restoration services and maintain
+communication with the defendant  and the superintendent of the state mental hospital or director
+of the facility in  order to facilitate an efficient transition to treatment in the community when or-
+dered.
+(c) If the court does not order the commitment of the defendant  or order the  defendant to
+participate in an in-custody jail-based  restoration treatment program  under this subsection,
+the court shall  proceed in accordance with subsection (2)(c) of this section to determine and order
+an appropriate action other than commitment  or an order to  participate in an in-custody jail-
+based restoration treatment program .
+(4)(a) If the most serious offense in the charging instrument is a  misdemeanor, the court may
+not commit the defendant to the custody of the superintendent of a state mental hospital or  director
+of a facility designated by the Oregon Health Authority , or order the defendant to participate in
+an in-custody jail-based restoration  treatment program,  if the defendant is at least 18 years of
+age, or  commit the defendant  to the custody of the director of  a secure intensive community in-
+patient facility designated by the authority if  the defendant is under 18 years of age, unless the
+court:
+(A)(i) Receives  a recommendation from a certified evaluator that the defendant requires a hos-
+pital level of care due to the acuity of symptoms of the defendant’s qualifying mental disorder; and
+(ii) Receives a recommendation from a community mental health program director,  or director’s
+designee, that  the appropriate community restoration services are not present and available in the
+community; or
+(B) Determines that the defendant  requires a hospital level of care after making all of the fol-
+lowing written findings:
+(i) The defendant needs a  hospital level of care due to the acuity of the symptoms of the
+defendant’s qualifying mental disorder;
+(ii) There are public safety concerns; and
+(iii) The appropriate community restoration services  are not present and available in the com-
+munity.
+(b) If at the time of determining the appropriate action  for the case, the court is considering
+commitment or an order to participate in an in-custody jail-based restoration  treatment pro-
+gram under paragraph (a)(A) of this subsection and:
+(A) Has not received a recommendation from a  certified evaluator as to whether the defendant
+requires a hospital level of care due to the acuity of symptoms of the defendant’s qualifying mental
+disorder, the court shall order a certified evaluator to make such a recommendation.
+(B) Has not  received a recommendation from the community mental health program director or
+designee concerning whether appropriate  community restoration services are present and available
+in the community, the court shall order the director or designee to make such a recommendation.
+(c) If the  court does not order the commitment of the defendant  or order the defendant to
+participate in an in-custody jail-based restoration treatment  program  under this subsection,
+the court shall proceed in accordance with subsection (2)(c) of this section to determine  and order
+an appropriate action other than commitment  or an order to participate in an in-custody jail-
+based restoration treatment program .
+(d) If the defendant is committed  or ordered to participate  in an in-custody jail-based res-
+toration treatment program  under this subsection, the community mental health program director,
+or director’s designee, shall at regular intervals,  during any period of commitment  or while the
+defendant is  subject to the order , review available community restoration services and maintain
+communication with the defendant  and the superintendent of the state mental hospital or director
+of the facility in  order to facilitate an efficient transition to treatment in the community when or-
+dered.
+(5) If the most serious offense in the charging  instrument is a violation, the court may not
+commit the defendant to  the custody of the superintendent of a state mental hospital or director of
+a facility designated by the Oregon Health Authority , or order  the defendant to participate in
+an in-custody jail-based restoration  treatment program,  if the defendant is at least 18 years of
+age, or  commit the defendant  to the custody of the director of  a secure intensive community in-
+patient facility designated by the authority if the defendant is under 18 years of age.
+(6)(a) If the court does not order the commitment of the defendant  or order  the defendant to
+participate in an in-custody jail-based restoration treatment  program  under subsection (3) or
+(4) of  this section, if commitment or an order to participate in an in-custody jail-based resto-
+ration treatment program  is precluded under subsection (5) of this section or if  the court deter-
+mines that care other than commitment or an order to participate  in an in-custody jail-based
+restoration treatment program  would better serve the defendant  and the community, the court
+shall release the  defendant, pursuant to an order that the defendant engage in community restora-
+tion services, until the defendant has gained or regained fitness to proceed, or until the court finds
+there is no substantial probability that the defendant will,  within the foreseeable future, gain or
+regain fitness to proceed.  The court may not order the defendant to engage in community restora-
+tion services in another county without permission from the other county.
+(b) When a defendant is ordered to engage in community restoration services  under this
+subsection, the court may place conditions that the court deems appropriate on the  release,
+including the requirement that the defendant regularly report to a state mental hospital or
+a certified evaluator for examination to determine  if the defendant has gained or regained
+fitness to proceed.
+(c) The superintendent of the state mental  hospital or the certified evaluator to which
+the defendant is ordered to report under this  subsection, or the community mental health
+program director coordinating the defendant’s treatment in the community,  shall cause the
+defendant to be evaluated within 60 days from the date the  defendant was ordered to engage
+in community restoration services under this subsection for the  purpose of determining
+whether there is a substantial probability that, in the foreseeable future,  the defendant will
+have fitness to proceed, and provide the court with the results of the  evaluation within 30
+days. In addition, the superintendent, evaluator or director shall:
+(A) Immediately notify the court if the defendant, at any  time, gains or regains fitness
+to proceed or if there is  no substantial probability that, within the foreseeable future, the
+defendant will gain or regain fitness to proceed.
+(B) Within 90 days from the date the defendant was ordered to engage in  community
+restoration services under this subsection, notify the court that:
+(i) The defendant has present fitness to proceed;
+(ii) There is no substantial probability that,  in the foreseeable future, the defendant will
+gain or regain fitness to proceed; or
+(iii) There is a substantial  probability that, in the foreseeable future, the defendant will
+gain or regain fitness to proceed. If the probability exists,  the superintendent, evaluator or
+director shall give the  court an estimate of the time in which the defendant, with appropriate
+treatment, is expected to gain or regain fitness to proceed.
+(C) For the duration of  the time period during which the defendant is ordered to engage
+in community restoration services, submit a progress report  to the court, concerning the
+defendant’s fitness to proceed, at least once every 180  days as measured from the date the
+defendant was ordered to engage in community restoration services under this subsection.
+[(b)] (d)  The court may order a community mental health program director coordinating  the
+defendant’s treatment in  the community to provide the court with status reports on the defendant’s
+progress  in  gaining or regaining fitness to proceed  in addition to any reports required by para-
+graph (c) of this subsection . The director shall provide a  status report if the defendant is not
+complying with court-ordered restoration services.  The status report must be provided to the
+court within 48 hours if the conduct constituting the  noncompliance consists of missed ap-
+pointments, missed  treatment sessions, a positive urine test for unauthorized substances,
+new law enforcement contact or a refusal to take prescribed medications.
+[(c)] (e) [ A community mental health program director coordinating the defendant’s treatment in the
+community shall notify the court if the defendant gains or regains fitness to  proceed. The notice ] The
+notification described in paragraph (c)(A) of this subsection  shall be filed with the  court and
+may be filed electronically. The  clerk of the court shall cause copies of the notice to be delivered
+to both the district attorney and the counsel for the defendant.
+[(d) When a defendant is ordered to engage in community restoration services  under this sub-
+section, the court may place conditions that the court deems appropriate  on the release, including the
+requirement that the defendant regularly report to  a state mental hospital or a certified evaluator for
+examination to determine if the defendant has gained or regained fitness to proceed. ]
+(f) If the court determines that there is a substantial probability  that, in the foreseeable
+future, the defendant will gain or regain fitness to proceed, unless the court otherwise or-
+ders, the  defendant shall continue to engage in community restoration services and receive
+treatment designed for the purpose of enabling  the defendant to gain or regain fitness to
+proceed.
+(7) The Oregon Health Authority  shall establish by rule standards for the recommendation pro-
+vided to the court described in subsection (2) of this section.
+SECTION 7.
+ ORS 161.371 is amended to read:
+161.371. (1) The superintendent of a  state mental hospital or director of a facility to which the
+defendant is committed under ORS 161.370 , or the director of the facility providing  the in-
+custody jail-based restoration treatment program,  shall cause  the defendant to be evaluated
+within 60  days from the defendant’s delivery into the superintendent’s or director’s custody, for the
+purpose of  determining whether there is a substantial probability that, in the foreseeable future, the
+defendant will have fitness to proceed. In addition, the superintendent or director shall:
+(a) Immediately notify the [ committing] court if  the defendant, at any time, gains or regains fit-
+ness to proceed or if there is no substantial probability that, within the foreseeable future,  the de-
+fendant will gain or regain fitness to proceed.
+(b) Within 90  days of the defendant’s delivery into the superintendent’s or director’s custody,
+notify the [ committing] court that:
+(A) The defendant has present fitness to proceed;
+(B) There is no substantial  probability that, in the foreseeable future, the defendant will gain
+or regain fitness to proceed; or
+(C) There is a substantial probability that, in the foreseeable  future, the defendant will gain or
+regain fitness  to proceed. If the probability exists, the superintendent or director shall give the court
+an estimate of the time in which the defendant, with appropriate treatment, is expected to gain  or
+regain fitness to proceed.
+(c) Notify the court  if court-ordered involuntary medication is necessary for the defendant to
+gain or regain  fitness to proceed and, if appropriate, submit a report to the court under ORS 161.372.
+(d)(A) Provide the defendant’s records to the court, district attorney or attorney  for the
+defendant within 10 days of  receipt of an electronically submitted records request. A request
+for records under this paragraph  must be either accompanied by an authorization for the
+release signed by the defendant or made in accordance with 45 C.F.R. 164.512(e).
+(B) As used  in this paragraph, “records” includes but is not limited to the following as
+they relate to the defendant:
+(i) Electronic or paper medical records.
+(ii) The master patient index.
+(iii) Medical, psychological and psychiatric notes including history,  physicals, progress
+notes and discharge summaries.
+(iv) Nursing notes.
+(v) Educational materials.
+(vi) Records from legal skills classes.
+(vii) Raw data from any administered psychiatric or psychology testing.
+(viii) Audio or video recordings of any evaluation or testing.
+(ix) Evaluation reports.
+(x) Any other written or recorded statement concerning the defendant’s fitness  to pro-
+ceed.
+(2)(a) If  the superintendent of the state mental hospital or director of the facility to which the
+defendant is committed , or the  director of the facility providing the in-custody jail-based res-
+toration treatment program,  determines that  there is a substantial probability that, in the fore-
+seeable future, the  defendant will gain or regain fitness to proceed, unless the court otherwise
+orders, the  defendant shall remain in the superintendent’s or director’s custody where the defendant
+shall receive treatment designed for the purpose of enabling the defendant to gain or regain  fitness
+to proceed. In keeping with the notice requirement under subsection (1)(b) of this section,  the su-
+perintendent or director shall, for the duration of the defendant’s period of  commitment  or treat-
+ment, submit a progress report to the [ committing] court, concerning  the defendant’s fitness to
+proceed, at least once every 180 days as measured from the date of the defendant’s delivery into  the
+superintendent’s or director’s custody.
+(b) A progress report described in paragraph (a) of this subsection may consist of an update  to:
+(A) The original examination report conducted under ORS 161.365; or
+(B) An evaluation conducted under subsection (1)  of this section, if the defendant did not receive
+an examination under ORS 161.365.
+(3)(a) Notwithstanding subsection (2) of this  section, if the most serious offense in the charging
+instrument is  a felony, and the superintendent of the state mental hospital or director of the facility
+to which the defendant is committed , or the director of the facility providing the in-custody
+jail-based restoration treatment program,  determines that a hospital level of care is  no longer
+necessary due to present public safety concerns and the acuity of  symptoms of the defendant’s
+qualifying mental disorder, the superintendent or director may file notice of the determination with
+the court. Upon receipt of the notice, the court shall order that  a community mental health program
+director or the director’s designee, within five judicial days:
+(A) Consult with the defendant and with any  local entity that would be responsible for providing
+community restoration services, if the defendant were to be released in  the community, to determine
+whether community restoration services are present and available in the community; and
+(B) Provide the court and the parties with recommendations from the consultation.
+(b) Notwithstanding subsection (2) of this section, if the most serious offense in the  charging
+instrument is a felony, and  the community mental health program director determines that commu-
+nity restoration services that would mitigate any risk posed by the defendant are present  and
+available in the community, the community mental health program director may file notice  of the
+determination with the court. Upon  receipt of the notice, the court shall order that the superinten-
+dent of the state mental hospital or director of the facility to which the defendant is committed, or
+the director of the facility  providing the in-custody jail-based restoration treatment program,
+within five judicial days:
+(A) Evaluate the defendant to determine  whether a hospital level of care is no longer necessary
+due to present public safety  concerns, or no longer necessary due to the acuity of symptoms of the
+defendant’s qualifying mental disorder; and
+(B) Provide the court and the parties with recommendations from the evaluation.
+(c) Within 10 judicial days of receiving  the recommendations described in paragraph (a) or (b)
+of this subsection, the court shall  hold a hearing to determine an appropriate action in accordance
+with ORS 161.370 (2)(c) as follows:
+(A) If, after consideration of the factors and possible actions described in ORS 161.370 (2)(c) and
+any recommendations received under paragraph (a) or (b) of this subsection, the court  determines
+that a hospital level of care is necessary due  to public safety concerns or the acuity of symptoms
+of the defendant’s qualifying mental disorder, and that based on the consultation  or evaluation de-
+scribed in paragraph (a) or (b) of this  subsection, any information provided by community-based
+mental health providers or any other  sources, primary and secondary release criteria as defined in
+ORS 135.230, and any other information the court finds to be trustworthy and reliable,  the appro-
+priate community restoration services are not present and available in the  community, the court
+may continue the commitment [ of the defendant ] or participation in an in-custody jail-based res-
+toration treatment program .
+(B) If the  court does not make the determination described in subparagraph (A) of this para-
+graph, the court shall terminate the commitment or participation in an in-custody jail-based
+restoration treatment program  and shall set a review hearing seven days from  the date of the
+[commitment] termination for any defendant remaining in custody. At the  review hearing, the court
+shall consider all relevant information, determine an appropriate action in the  case as described in
+ORS 161.370 (2)(c) and enter an order in accordance with  the defendant’s constitutional rights to
+due process.
+(4)(a) Notwithstanding subsection (2) of this section, if the most  serious offense in the charging
+instrument is a misdemeanor, and the superintendent of the state mental hospital or director of  the
+facility to which the defendant is committed , or the director of the facility  providing the in-
+custody jail-based restoration treatment program,  determines that the defendant no longer
+needs a hospital level of care due  to the acuity of symptoms of the defendant’s qualifying mental
+disorder or there are not present public  safety concerns, the superintendent or director shall file
+notice of the determination with the court,  along with recommendations regarding the necessary
+community restoration services that would mitigate any risk presented  by the defendant. Upon re-
+ceipt of the notice, the court shall order that  a community mental health program director or the
+director’s designee, within five judicial days:
+(A) Consult with the defendant and with any  local entity that would be responsible for providing
+community restoration services, if the defendant were to be released in  the community, to determine
+whether appropriate community restoration services are present  and available in the community;
+and
+(B) Provide the court and the parties with recommendations from the consultation.
+(b) Notwithstanding subsection (2) of this section, if the most serious offense in the  charging
+instrument is a misdemeanor, and the community  mental health program director determines that
+the community restoration  services that would mitigate any risk posed by the defendant are present
+and available in the community, the community mental health program director  may file notice of
+the determination with the court. Upon receipt of the notice, the court shall order  that the super-
+intendent of the state mental  hospital or director of the facility to which the defendant is committed,
+or the director of  the facility providing the in-custody jail-based restoration treatment pro-
+gram, within five judicial days:
+(A) Evaluate the defendant to determine  whether a hospital level of care is no longer necessary
+due to present public safety concerns, or no longer necessary due to the acuity  of symptoms of the
+defendant’s qualifying mental disorder; and
+(B) Provide the court and the parties with recommendations from the evaluation.
+(c) Within 10 judicial days of receiving the recommendations  described in paragraph (a) or (b)
+of this subsection, the court shall hold a hearing to determine  an appropriate action in accordance
+with ORS 161.370 (2)(c) as follows:
+(A) After consideration of the factors  and possible actions described in ORS 161.370 (2)(c), the
+consultation or evaluation and any  recommendations described in paragraph (a) or (b) of this sub-
+section, and any  other information the court finds to be trustworthy and reliable, the court may
+continue the commitment  or treatment  of the defendant if the court makes written findings that  a
+hospital level of care is necessary due to  public safety concerns and the acuity of symptoms of the
+defendant’s qualifying mental disorder, and that appropriate community  restoration services are not
+present and available in the community.
+(B) If the court does not  make the findings described in subparagraph (A) of this paragraph, the
+court shall terminate the commitment  or treatment  and shall set a review hearing seven days  from
+the date of the [ commitment] termination for any defendant remaining in custody. At the review
+hearing, the court shall consider all relevant information, determine an  appropriate action in the
+case as described in ORS 161.370 (2)(c) and enter  an order in accordance with the defendant’s con-
+stitutional rights to due process.
+(5)(a) If a defendant remains committed  or ordered to participate in an in-custody jail-based
+restoration treatment program  under this  section, the court shall determine within a reasonable
+period of time whether there is a substantial probability that, in the  foreseeable future, the defend-
+ant will gain  or regain fitness to proceed. However, regardless of the number of charges with which
+the defendant is accused,  in no event shall the defendant be committed  or held in custody  for
+longer than whichever of the  following, measured from the defendant’s initial custody date, is
+shorter:
+(A) Three years; or
+(B) A period of time equal to the maximum sentence the  court could have imposed if the de-
+fendant had been convicted.
+(b) For  purposes of calculating the maximum period of commitment  or custody  described in
+paragraph (a) of this subsection:
+(A) The initial custody date is the date on which the defendant is first committed  or taken into
+custody under this section on any charge alleged in the accusatory instrument; and
+(B) The defendant shall be given credit against each  charge alleged in the accusatory instru-
+ment:
+(i) For each day the defendant is  committed  or held in custody  under this section, whether the
+days are consecutive or are interrupted by a period of time during  which the defendant has gained
+or regained fitness to proceed; and
+(ii) Unless the defendant is charged on any charging instrument with aggravated murder or  a
+crime listed in ORS 137.700 (2), for each day the defendant is  held in jail before and after the date
+the defendant is first committed  or taken into custody , whether the days  are consecutive or are
+interrupted by a period of time during which the defendant lacks fitness to proceed.
+(c) The superintendent of the state mental hospital or  director of the facility to which the de-
+fendant is committed , or the director  of the facility providing the in-custody jail-based resto-
+ration treatment program,  shall notify the [ committing] court of  the defendant’s impending
+discharge  or release  30 days before the date on which the superintendent or director is required
+to discharge  or release  the defendant under this subsection.
+(6)(a) All notices required under this section shall  be filed with the court and may be filed
+electronically. The clerk of the court shall cause copies of the notices  to be delivered to both the
+district attorney and the counsel for the defendant.
+(b) When the [ committing] court receives a notice from the superintendent or director  under
+subsection (1) of this section concerning the defendant’s progress or lack  thereof, or under sub-
+section (5) of this  section concerning the defendant’s impending discharge, the [ committing] court
+shall determine, after a hearing if a hearing is requested,  whether the defendant presently has fit-
+ness to proceed.
+(7) If at any time the court determines that the  defendant lacks fitness to proceed, the court
+shall further determine whether the defendant  is entitled to discharge under subsection (5) of this
+section. If the court determines that the defendant is entitled  to discharge under subsection (5) of
+this section,  the court shall dismiss, without prejudice and in accordance with ORS 161.367 (6), all
+charges against the defendant and:
+(a) Order that the defendant be discharged; or
+(b) Initiate commitment proceedings under ORS 426.070, 426.701 or 427.235 to 427.292.
+SECTION 8.
+Section 9 of this  2025 Act is added to and made a part of ORS 125.675 to
+125.691.
+SECTION 9. (1) The Oregon Public Guardian and Conservator shall develop  and adminis-
+ter a program to provide  guardianship services to defendants whose criminal cases have been
+suspended or dismissed pursuant to ORS 161.370 due to the defendant  lacking fitness to
+proceed.
+(2) Participants in the  program must meet the criteria described in ORS 125.680 (2) to
+receive public guardian and conservator services under this section.
+(3) The Oregon Public Guardian and Conservator may provide services under this section
+at any time after the defendant’s fitness to proceed is drawn into question.
+(4) A defendant’s eligibility to participate in the program  may be determined at any time
+after a defendant’s fitness to proceed is drawn into question  or, if the court finds that there
+is no substantial probability that the  defendant will, in the foreseeable future, gain or regain
+the fitness to proceed, no later than one  year following the date on which the defendant’s
+case is dismissed.
+(5) In administering  the program described in this section, the Oregon Public Guardian
+and Conservator shall collaborate and coordinate with district attorneys, community mental
+health programs and facilities in which defendants are housed,  including the Oregon State
+Hospital.
+SECTION 10.
+ ORS 125.683 is amended to read:
+125.683. (1) In providing public guardian and  conservator services, the Oregon Public Guardian
+and Conservator shall conduct a needs assessment for  a person who claims or is claimed not to have
+relatives  or  friends willing or able to assume the duties of guardianship or conservatorship and who
+claims or is claimed to lack the financial resources to obtain a  private guardian or conservator. The
+purpose of the needs assessment is to determine  the person’s eligibility to receive public guardian
+and conservator services and to determine the appropriateness of  filing a petition for the appoint-
+ment of a fiduciary or other pleading on  behalf of the person in a court having probate jurisdiction.
+The needs assessment shall, at a minimum:
+(a) Assess the person’s capacity to:
+(A) Care for the person’s own safety;
+(B) Manage the person’s own financial affairs; and
+(C) Attend to and provide for necessities such as food, shelter, clothing and medical care;
+(b) Assess the person’s financial resources;
+(c) Determine whether information that is available about the person is sufficient to support  a
+finding that the person is incapacitated or financially incapable and the entry of a court order  for
+the appointment of a fiduciary under ORS 125.010;
+(d) Determine whether any other person may be willing and able to serve as the person’s
+guardian or conservator and, if appropriate, locate and contact that other person;
+(e) Determine the type of fiduciary, if any, to request in  a petition filed under ORS 125.055,
+giving preference to the least intrusive form  of fiduciary relationship consistent with the best in-
+terests of the person; and
+(f) Determine  how best to provide public guardian and conservator services to the person that
+are least restrictive  to the person’s liberty, that are least intrusive to the person and that provide
+for the greatest degree of independence that the person is capable of exercising.
+(2)(a) If the person is a resident of a nursing home as  defined in ORS 678.710 or a residential
+facility as defined in ORS [ 441.402] 443.400, the  nursing home or residential facility shall provide the
+Oregon Public Guardian and Conservator access to the person’s records as is necessary  to conduct
+the needs assessment required under this section.
+(b) Any other public agency that has provided or is providing care  or services to the person
+shall disclose to the Oregon Public Guardian and Conservator, upon request, a  minimum amount of
+information about the person for whom the  needs assessment is being conducted, including protected
+health information as defined in ORS 192.556 and financial information, as is reasonably necessary
+to prevent or lessen a serious and imminent threat to the health or safety of the person who is  the
+subject of the needs  assessment. For purposes of this paragraph, a request from the Oregon Public
+Guardian and Conservator for the purpose of  conducting a needs assessment is presumed to be a
+situation that will prevent or lessen a serious and imminent threat to the health  or safety of the
+person.
+(c) Any health care provider not identified in either paragraph (a) or (b) of this subsection  may
+disclose protected health information to the Oregon Public Guardian and  Conservator in accordance
+with 45 C.F.R. 164.512 (j) to prevent or lessen a serious or imminent threat  to the health or safety
+of a person  if the health care provider, in good faith, believes the disclosure is necessary to prevent
+or lessen the threat. For purposes of this  paragraph, a request from the Oregon Public Guardian and
+Conservator for disclosure under this paragraph for the purposes  of conducting a needs assessment,
+or the good faith belief and disclosure of the health  care provider under this paragraph, are pre-
+sumed to be situations that will prevent or lessen a serious and imminent threat to  the health or
+safety of the person.
+(d) If the person is currently or was previously a defendant in a criminal  case subject to
+ORS 161.370, and to the extent  authorized by federal law, the Oregon Public Guardian and
+Conservator shall have access to any reports resulting from examinations or evaluations  of
+the defendant, documents containing recommendation of  or resulting from consultations
+with a community  mental health program, documents submitted to the court by a state
+mental hospital related to the proceedings  under ORS 161.370 and any other court records
+relating to the defendant.
+(3) For each person determined to be  eligible for public guardian and conservator services under
+this section, the Oregon Public Guardian  and Conservator shall develop a written plan setting forth
+the type and duration of services to  be provided by the Oregon Public Guardian and Conservator.
+The plan shall be included in any nonemergency petition or pleading filed with the court.
+SECTION 11.
+ ORS 161.362 is amended to read:
+161.362. (1) A recommendation provided by  a certified evaluator, pursuant to ORS 161.355 to
+161.371, that a defendant requires a hospital level of care due to the acuity of the  defendant’s
+symptoms must be based upon the  defendant’s current diagnosis and symptomology, the defendant’s
+current ability to engage in treatment, present safety concerns relating  to the defendant and any
+other pertinent information known to the evaluator. If the defendant is in a placement in  a facility,
+the evaluator may defer to the treatment provider’s  recommendation regarding whether a hospital
+level of care is needed.
+(2) A determination by a community mental health program director, or the director’s  designee,
+pursuant to ORS 161.355 to 161.371, that appropriate  community restoration services are not present
+and available in the community must  include information concerning the specific services necessary
+to safely allow the defendant to gain or regain fitness to proceed in  the community and must specify
+the necessary services that are not present and available in the community.
+(3)(a) Reports resulting from examinations performed by a  certified evaluator, and documents
+containing the recommendations of or resulting from consultations with a community mental  health
+program director or the director’s designee, prepared under ORS 161.355 to 161.371, and any docu-
+ment submitted to the court by  a state mental hospital related to the proceedings under ORS 161.355
+to 161.371, are confidential and may be made available only:
+(A) To the court, prosecuting attorney, defense attorney, agent of the prosecuting or  defense
+attorney, defendant, community mental health program  director or designee, state mental hospital ,
+Oregon Public Guardian and Conservator  and any facility in which the defendant is housed; or
+(B) As ordered by a court.
+(b) Any facility in which a defendant is housed  may not use a report or document described in
+paragraph (a) of this subsection to support a disciplinary action against the defendant.
+(c) Nothing in this subsection prohibits the prosecuting attorney,  defense attorney or agent of
+the prosecuting or defense attorney from discussing the contents of a report or  document described
+in paragraph (a) of this subsection with witnesses or victims as otherwise permitted by law.
+(4) The court shall ensure that an order entered under  ORS 161.355 to 161.371 is provided, by
+the end of the next judicial day, to any entity ordered to provide restoration services.
+(5) Unless the court orders otherwise or either  party objects, a defendant committed to a state
+mental hospital or other facility, or  a certified evaluator or other expert witness, may attend
+hearings held under ORS 161.355 to 161.371 via simultaneous electronic transmission.
+COMMITMENT OF EXTREMELY DANGEROUS PERSON WITH MENTAL ILLNESS
+SECTION 12.
+ ORS 426.701 is amended to read:
+426.701. (1) For the purposes of this section and ORS 426.702:
+(a) A person is “extremely dangerous” if the person:
+(A) Is at least 18 years of age;
+(B) Is exhibiting symptoms or behaviors of  a qualifying mental disorder substantially similar to
+those that preceded the act described in subsection (3)(a)(C) of this section; and
+(C) Because of a qualifying mental disorder:
+(i) Presents a serious danger to the  safety of other persons by reason of an extreme risk that
+the person will inflict grave or potentially lethal physical injury on other persons; and
+(ii) Unless committed, will  continue to represent an extreme risk to the safety of other persons
+in the foreseeable future.
+(b)(A) “Qualifying mental disorder” means:
+(i) A developmental or  intellectual disability, traumatic brain injury, brain damage or
+other biological dysfunction that is associated with distress or disability, causing symptoms
+or impairment in at least one important area of an individual’s functioning and that is de-
+fined in the most recent edition of the Diagnostic and Statistical Manual of Mental Disorders.
+(ii) Any diagnosis of  a psychiatric condition that is a significant behavioral or psycho-
+logical syndrome or pattern that  is associated with distress or disability, causing symptoms
+or impairment in at least one important area of an individual’s functioning and that is  de-
+fined in the most recent edition of the Diagnostic and Statistical Manual of Mental Disorders.
+[(b)] (B)  “Qualifying mental disorder” does not include:
+[(A)] (i) A disorder manifested solely by repeated criminal or otherwise antisocial conduct; or
+[(B)] (ii) A disorder constituting solely a personality disorder.
+(c) A qualifying mental disorder is “resistant to treatment” if, after receiving care from a li-
+censed psychiatrist and exhausting all reasonable psychiatric treatment, or after refusing psychiatric
+treatment, the person continues to be significantly impaired in the person’s ability  to make compe-
+tent decisions and to be aware of and control extremely dangerous behavior.
+(2)(a) A district attorney may petition the court to initiate commitment  proceedings described
+in this section if there is reason  to believe a person is an extremely dangerous person with mental
+illness. Venue is proper in the county in which the person is alleged to have  committed the quali-
+fying act or the county in which the person lives. The petition shall immediately be served upon  the
+person.
+(b) If a person is committed to a state hospital under ORS 161.365 or 161.370 and  the state
+hospital intends to  discharge the person, the district attorney may provide notice to the super-
+intendent of the state hospital indicating an intent to file a petition under  this section. Upon receipt
+of the notice, the superintendent may delay discharge of the person for up  to seven judicial days to
+allow for the petition to be filed and for the court to make findings  under paragraph (f) of this
+subsection.
+(c) The person shall be advised in writing of:
+(A) The allegation that the person is an extremely dangerous person with mental illness and
+may be  committed to the jurisdiction of the Psychiatric Security Review Board for a maximum pe-
+riod of 24 months; and
+(B) The right to a hearing to determine whether  the person is an extremely dangerous person
+with mental illness, unless the person consents to the commitment by waiving the right to  a hearing
+in writing after consultation with legal counsel.
+(d) A person against whom a petition described in this subsection is filed shall have the follow-
+ing:
+(A) The right  to obtain suitable legal counsel possessing skills and experience commensurate
+with the nature of the allegations and complexity of the case and, if the person is without  funds to
+retain legal counsel, the right to have the court appoint legal counsel;
+(B) The right to subpoena witnesses  and to offer evidence on behalf of the person at the hearing;
+(C) The right to cross-examine any witnesses who appear at the hearing; and
+(D) The right to examine all reports, documents and  information that the court considers, in-
+cluding the right to examine the reports, documents and information prior to  the hearing, if avail-
+able.
+(e) Upon receipt of the petition, the court shall schedule a hearing and shall appoint  an exam-
+iner as described in ORS 426.110 to evaluate  the person. If the person is in custody or committed
+while the hearing is pending, the hearing must commence within 30 days of  filing the petition unless
+good cause is found by the court. If the court finds good cause, the hearing must  commence no later
+than 60 days  after the filing of the petition or, if the district attorney provided notice under para-
+graph (b) of this subsection, the date of the notice, whichever occurs first. As used in this paragraph,
+“good cause” means:
+(A) The person who would  be considered the victim of the act described in subsection (3)(a)(C)
+of this section if the act were  criminally prosecuted, or an essential witness for either the state or
+the person, is unable to testify within the 30-day period.
+(B) The attorney for the person cannot reasonably  be expected to participate in the hearing
+within the 30-day period, cannot be  adequately prepared to represent the person at the hearing
+within the 30-day  period, or has a schedule conflict that cannot be resolved in a manner that allows
+the attorney to represent the person at a hearing within the 30-day period.
+(C) An examiner cannot be appointed to  conduct the examination, or conduct the examination
+and prepare a report, within the 30-day period.
+(D) If a guardian ad litem is appointed  on the case, the guardian ad litem cannot be prepared
+for a hearing within the 30-day period.
+(f)(A) The court may order that the person  be committed to the custody of the superintendent
+of a  state hospital or the director of a secure mental health facility while the petition is pending if
+the court finds probable cause that:
+(i) The person is at least 18 years of age;
+(ii) The person has a qualifying mental disorder that is resistant to treatment;
+(iii) The person committed an act described in subsection (3)(a)(C) of this section; and
+(iv) Failure to commit the person while the  hearing is pending would pose serious harm or
+danger to the person or others.
+(B) If a person committed under this paragraph is held in a secure facility other  than a state
+hospital or secure  mental health facility, including but not limited to a jail or prison, at the time
+the petition is filed, the court may further order that the person remain at that placement for suf-
+ficient  time  to allow the superintendent or director to safely admit the person. Any order of the
+court concerning the placement of a person under  this subparagraph must be in accordance with the
+person’s constitutional right to due process. If the person remains in a secure facility  under this
+subparagraph, the superintendent, director or designee may consult with  the facility to ensure con-
+tinuity of care for the person.
+(C) Commitment to the custody of the superintendent of a state hospital or the director  of a
+secure mental health facility under this paragraph may not exceed 60 days. If  the hearing does not
+occur within 60 days, if the district attorney dismisses the petition, or if the court holds  the hearing
+but does not commit the person, the person shall be returned to the county in which  the petition
+was filed  and the court shall hold a disposition hearing within five judicial days to determine how
+to proceed  on the petition and any outstanding criminal charges. A person who is returned to a
+secure facility other than a state hospital or  secure mental health facility, including but not limited
+to a jail or prison, under this paragraph may remain at the placement  until the disposition hearing.
+(g) If  the hearing is not commenced within the time period required by paragraph (e) of this
+subsection, the court shall either dismiss the  petition or release the person on personal recogni-
+zance, to the custody of a third party or upon  any additional reasonable terms and conditions the
+court deems appropriate.
+(3)(a) At the hearing on the petition, the  court shall order the person committed as an extremely
+dangerous person with mental illness under the jurisdiction of  the Psychiatric Security Review
+Board for a maximum of 24 months if the court finds, by clear and convincing evidence, that:
+(A) The person is extremely dangerous;
+(B) The person suffers from a qualifying mental disorder that is resistant to treatment; and
+(C) Because of the qualifying mental disorder that is resistant to  treatment, the person com-
+mitted one of the following acts:
+(i) Caused  or attempted to cause  the death of another person;
+(ii) Caused  or attempted to cause  serious physical injury  to another person by means of a
+dangerous weapon;
+(iii) Caused  or attempted to cause  physical injury to another person by means  of a firearm as
+defined in ORS 166.210 or an explosive as defined in ORS 164.055;
+(iv) Engaged  or attempted to engage  in oral-genital  contact with a child under 14 years of age;
+[(v) Forcibly compelled  sexual intercourse, oral-genital contact or the penetration of another
+person’s anus or vagina; or ]
+(v) Engaged in or attempted to engage in sexual contact or sexual intercourse by means
+of forcible compulsion  against another person or against another person who was mentally
+incapacitated, physically helpless or incapable of appraising the nature of the other person’s
+conduct;
+(vi) Caused  or attempted to cause  a fire or  explosion that damaged the protected property of
+another, as those terms  are defined in ORS 164.305, or placed another person in danger of physical
+injury, and the  fire or explosion was not the incidental result of normal and usual daily activities ;
+or
+(vii) Any other act  that constitutes an extreme danger to the person, another person or
+the public.
+(b) The court shall further commit the person to  a state hospital for custody, care and treatment
+if the court finds, by clear and convincing evidence, that the person cannot be controlled in  the
+community with proper care, medication, supervision and treatment on conditional release.
+(c) The  court shall specify in the order whether any person who would be considered a victim
+as defined in ORS 131.007 of the act described in paragraph (a)(C) of this subsection, if the act  had
+been criminally prosecuted, requests notification of  any order or hearing, conditional release, dis-
+charge or escape of the person committed under this section.
+(d) The court shall be fully advised of all drugs and other treatment  known to have been ad-
+ministered to  the alleged extremely dangerous person with mental illness that may substantially af-
+fect the ability of the person to prepare for, or to function effectively at, the hearing.
+(e) The provisions of ORS 40.230, 40.235,  40.240, 40.250 and 179.505 do not apply to the use of
+the examiner’s report and the court may consider the report as evidence.
+(4) The findings of the court that  a person committed an act described in subsection (3)(a)(C)
+of this section may not be admitted in a criminal prosecution.
+(5)(a) If the court commits a person under this section and the person has pending  criminal
+charges at the time of the hearing, the court shall dismiss the criminal charges  without prejudice,
+and if the person is further committed to a state hospital under this section,  the dismissal shall not
+take effect until the person’s transportation to the state hospital.
+(b) If the court commits a person to the state hospital under this section and:
+(A) The person is in a setting other than a  state hospital, the court may additionally order that
+the person remain  in that placement until the person can be safely transported to a state hospital
+pursuant to the order. Any order of the court concerning the placement  of the person under this
+subparagraph must be in accordance with the person’s constitutional right to due process.
+(B) The person is at a state hospital at the time of the hearing, the person may remain at the
+state hospital under the commitment.
+(c) A person committed under this section shall remain under the jurisdiction  of the board for
+a maximum of 24 months unless the board conducts a hearing and makes the findings described  in
+subsection (6)(d) of this section.
+(6)(a) The board shall  hold a hearing six months after the initial commitment described in sub-
+section (3) of this section,  and thereafter six months after a further commitment described in ORS
+426.702, to determine the placement of the person and  whether the person is eligible for conditional
+release or early discharge. The board shall provide written notice of the hearing to the person, the
+person’s legal counsel and the office of the district attorney who filed the initial petition under
+subsection (2) of this section within a reasonable time prior to the hearing. The board shall  further
+notify the person of the following:
+(A) The nature of the hearing and possible outcomes;
+(B) The right to appear at the hearing and present evidence;
+(C) The right  to be represented by legal counsel and, if the person is without funds to retain
+legal counsel, the right to have the court appoint legal counsel;
+(D) The right to subpoena witnesses;
+(E) The right to cross-examine witnesses who appear at the hearing; and
+(F) The right to examine all reports, documents  and information that the board considers, in-
+cluding the right to examine the reports, documents and information prior to the  hearing if avail-
+able.
+(b) If the board determines at the hearing that the person still suffers  from a qualifying mental
+disorder that is resistant to treatment and continues to be extremely  dangerous, and that the person
+cannot be controlled in the community with proper care, medication, supervision and treatment if
+conditionally released, the person shall remain committed to a state hospital.
+(c) If the board determines at the hearing that the person still  suffers from a qualifying mental
+disorder that is resistant to treatment and continues to be extremely dangerous, but  finds that the
+person can be controlled in the community with proper care, medication,  supervision and treatment
+if conditionally released, the board shall conditionally release the person.
+(d) If the board determines at the hearing that the person no longer suffers from a  qualifying
+mental disorder that is resistant to treatment  or is no longer extremely dangerous, the board shall
+discharge the person. The discharge of a person committed  under this section does not preclude
+commitment of the person pursuant to ORS 426.005 to 426.390.
+(7)(a) At any time during the commitment  to a state hospital, the superintendent of the state
+hospital may  request a hearing to determine the status of the person’s commitment under the juris-
+diction of the board. The request shall be accompanied by a report  setting forth the facts supporting
+the request. If the request is for conditional release, the request shall be  accompanied by a verified
+conditional release plan. The hearing shall be conducted as described in subsection (6) of  this sec-
+tion.
+(b) The board may make the findings described in subsection (6)(c) of this section and condi-
+tionally release the person without a hearing if the office of the district  attorney who filed the ini-
+tial petition under subsection (2) of this section does not object to the conditional release.
+(c) At any time during conditional release, a state or local mental  health facility providing
+treatment to the person may request a hearing to determine  the status of the person’s commitment
+under the jurisdiction of the board. The hearing shall be conducted as described in subsection  (6)
+of this section.
+(8)(a) If the board orders the conditional release of a person under subsection  (6)(c) of this sec-
+tion, the board shall order conditions  of release that may include a requirement to report to any
+state or local  mental health facility for evaluation. The board may further require cooperation with,
+and acceptance of, psychiatric or psychological treatment from the facility.  Conditions of release
+may be modified by the board from time to time.
+(b) When a person is referred to  a state or local mental health facility for an evaluation under
+this subsection, the facility shall perform the evaluation and submit a  written report of its findings
+to the board. If the facility finds that treatment of the person is appropriate, the facility  shall in-
+clude its recommendations for treatment in the report to the board.
+(c) Whenever treatment is provided  to the person by a state or local mental health facility under
+this subsection, the facility shall furnish  reports to the board on a regular basis concerning the
+progress of the person.
+(d) Copies of all reports submitted to the board pursuant to this  subsection shall be furnished
+to the person and to the person’s legal counsel, if applicable. The confidentiality of these  reports is
+determined pursuant to ORS 192.338, 192.345 and 192.355.
+(e) The state or  local mental health facility providing treatment to the person under this sub-
+section shall comply with the conditional release order and any modifications of the conditions  or-
+dered by the board.
+(9)(a) If at any time while the person is conditionally released it appears  that the person has
+violated the terms  of the conditional release, the board may order the person returned to a state
+hospital for evaluation or treatment. A written order of the board is sufficient warrant for  any law
+enforcement  officer  to take the person into custody. A sheriff, municipal police officer, parole or
+probation officer or other peace officer shall execute the order, and the  person shall be returned to
+the state hospital as soon as practicable.
+(b) The director of a state or local mental health  facility providing treatment to a person under
+subsection (8) of this section may request that the board issue a written order for a person on con-
+ditional release to be taken into custody if there is reason to believe that  the person can no longer
+be controlled in the community with proper care, medication, supervision and treatment.
+(c) Within 30 days following the return of the person to a  state hospital, the board shall conduct
+a hearing to determine if, by a preponderance of the evidence, the person is no  longer fit for con-
+ditional release. The board shall provide written notice of the hearing to the person,  the person’s
+legal counsel and the office  of the district attorney who filed the initial petition under subsection
+(2) of this section within a reasonable time prior to the hearing. The notice shall advise the person
+of the nature of the hearing, the right to have the court  appoint legal counsel and the right to
+subpoena witnesses, examine documents considered by  the board and cross-examine all witnesses
+who appear at the hearing.
+(10)(a) If  the person had unadjudicated criminal charges at the time of the filing of the petition
+for the  person’s initial commitment under this section and the state hospital or the state or local
+mental health facility providing treatment to the person intends  to recommend discharge of the
+person at an upcoming hearing, the superintendent of the state hospital or the director of  the fa-
+cility shall provide written notice to  the board and the district attorney of the county where the
+criminal charges were initiated  of the discharge recommendation at least 45 days before the hearing.
+The notice shall be accompanied by a report describing the  person’s diagnosis and the treatment the
+person has received.
+(b) Upon receiving the notice described in this subsection, the district attorney may request  an
+order from the  court in the county where the criminal charges were initiated for an evaluation to
+determine if the person is fit to proceed in  the criminal proceeding. The court may order the state
+hospital or the state or local mental health facility providing treatment to  the person to perform the
+evaluation. The hospital or facility  shall provide copies of the evaluation to the district attorney,
+the person and the person’s legal counsel, if applicable.
+(c) The person committed under this section may not waive an evaluation ordered  by the court
+to determine if the person is fit to proceed with the criminal proceeding as described  in this sub-
+section.
+(11) The board shall make reasonable efforts to notify any  person described in subsection (3)(c)
+of this section of any order or hearing, conditional  release, discharge or escape of the person com-
+mitted under this section.
+(12) Unless the court orders otherwise or either party objects, any party or  witness may attend
+a hearing held under this section via simultaneous electronic transmission.
+(13) The board shall adopt rules to carry out the provisions of this section and ORS 426.702.
+(14) Any time limitation described in ORS 131.125 to 131.155 does not  run during a commitment
+described in this section or a further commitment described in ORS 426.702.
+CAPTIONS
+SECTION 13.
+The unit captions used in this 2025 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+EFFECTIVE DATE
+SECTION 14.
+This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 125.683, ORS 161.355, ORS 161.362, ORS 161.367, ORS 161.370, ORS 161.371, ORS 426.701
+- From bill text (Introduced version): ORS 125.010, ORS 125.055, ORS 125.600, ORS 125.605, ORS 125.675, ORS 125.680, ORS 125.683, ORS 131.007, ORS 131.125, ORS 135.230, ORS 135.755, ORS 137.700, ORS 161.309, ORS 161.355, ORS 161.362, ORS 161.365, ORS 161.367, ORS 161.370, ORS 161.371, ORS 161.372, ORS 164.055, ORS 164.305, ORS 166.210, ORS 179.505, ORS 192.245, ORS 192.338, ORS 192.345, ORS 192.355, ORS 192.556, ORS 40.230, ORS 40.235, ORS 40.240, ORS 40.250, ORS 426.005, ORS 426.070, ORS 426.110, ORS 426.701, ORS 426.702, ORS 678.710
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `22b28acbd43274ea5253c686fab6b66afdd7bfe88496ac7f8b819a96160165f1` (snapshot `_meta/snapshots/measure-2025r1-hb2470-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2470/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2470` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

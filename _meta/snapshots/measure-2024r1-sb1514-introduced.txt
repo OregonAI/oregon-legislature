@@ -1,0 +1,247 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1514
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Labor and Business)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would require  the Director of OED to conduct periodic assessments of the Paid
+Family and Medical Leave Insurance Fund. The Act would allow the director to take actions if  the
+director found the fund to be insolvent. The Act would take effect when the  Governor signs it.
+(Flesch Readability Score: 60.7).
+Requires the Director of the Employment  Department to conduct periodic assessments to de-
+termine the solvency of the  Paid Family and Medical Leave Insurance Fund. Specifies the actions
+that the director may take to restore solvency if the director determines that  the fund is, or may
+be, insolvent.
+Requires the  Director of the Employment Department to include in the department’s biennial
+reports to the Legislative  Assembly a summary of the periodic assessments conducted by the direc-
+tor and a summary of any actions taken by the director to restore solvency.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to family and  medical leave insurance; creating new provisions; amending section 51,
+chapter 700, Oregon Laws 2019; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2024 Act is added to and made a  part of ORS chapter 657B.
+SECTION 2. (1) As used this section:
+(a) “Family leave for parental  bonding” means the family leave described under ORS
+657B.010 (18)(a)(A).
+(b) “Grant” means a grant described under ORS 657B.200.
+(c) “Projected expenses” means benefits anticipated to be claimed  by covered individuals
+under ORS 657B.090, anticipated grant awards, any anticipated costs and expenses  associated
+with processing  payments of the benefits and grant awards and any other expenses antic-
+ipated to be incurred  by the Employment Department in carrying out the provisions of this
+chapter.
+(d) “Solvency of the fund” and “solvent” means that  the cumulative amount of contri-
+butions collected under the  provisions of this chapter and any other moneys deposited in the
+fund are sufficient to pay, in full and in a timely manner, not less than six months  of
+projected expenses.
+(2) The Director of the Employment Department shall  periodically assess the Paid Family
+and Medical Leave Insurance Fund established under ORS 657B.430 to make determinations
+regarding the solvency of the fund. The director shall use actuarial calculations in  making
+such determinations  and may consider any relevant information including, but not limited
+to:
+(a) The total cost of administrative expenses incurred by the department during the  six-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 223
+SB 1514
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+month period immediately preceding a periodic assessment of the fund.
+(b) The number of grant  applications received by the department in the calendar year
+immediately preceding a periodic assessment of the fund.
+(c) The total grants awarded in the calendar year immediately  preceding a periodic as-
+sessment of the fund.
+(d) The average amount of weekly  benefits paid in the calendar year immediately pre-
+ceding a periodic assessment of the fund.
+(e) Annual predictable birth rate data.
+(3) Notwithstanding any other provision under this chapter, if, pursuant to  subsection (2)
+of this section,  the director determines that the fund is or may be insolvent, the director
+may take any of the following actions to maintain or restore the solvency of the fund:
+(a) Adjust the  maximum weekly benefit amount provided under ORS 657B.050 (2)(a) so
+that the maximum weekly benefit amount  is less than 120 percent but not less than 100
+percent of the average weekly wage.
+(b) Adjust the weekly  benefit amount available to eligible employees under ORS 657B.050
+(1)(b) such that the employee’s weekly benefit amount is the sum of:
+(A) 65 percent of the average weekly wage; and
+(B) Not less than 40 percent of the employee’s average weekly wage that is greater  than
+65 percent of the average weekly wage.
+(4) Notwithstanding any other provision under this chapter:
+(a) Except as provided in paragraph  (b) of this subsection, if, after taking both of the
+actions authorized under subsection (3)(a) and (b) of this section, it is apparent to the di-
+rector that the fund is or may be insolvent, the director may reduce  the number of weeks
+that would otherwise be available to a covered individual under ORS 657B.020 (1) to reflect
+that a covered  individual may qualify for 10 weeks of family and medical leave insurance
+benefits per benefit year for  family leave, medical leave and safe leave taken individually or
+in any combination.
+(b) Nothing in this subsection authorizes the director to reduce the number of weeks that
+would otherwise be available to a  covered individual under ORS 657B.020 (1) for family leave
+for parental bonding taken individually or in combination with:
+(A) Other family leave, medical leave or safe leave; and
+(B) The leave for which a covered individual may qualify under ORS 657B.020 (3).
+(5)(a) Whenever an adjustment to benefits occurs as a result of  any action taken by the
+director pursuant to subsections (3) and (4) of this section, the adjustment shall remain ef-
+fective for not more than five calendar years from the date on which the action was taken.
+(b) The director shall discontinue the  use of this section to determine appropriate bene-
+fits and shall resume determining benefits in accordance with ORS 657B.020 and 657B.050 not
+later than whichever of the following first occurs:
+(A) Upon the director’s determination that resuming determinations in accordance  with
+the provisions of those sections will not cause volatility in the fund or with respect to the
+administration of the family and medical leave insurance program.
+(B) The date described under paragraph (a) of this subsection.
+(6) Any action taken by the director  under this section shall apply to benefits to be
+claimed in benefit years beginning on or after the first day of the first calendar  quarter fol-
+lowing the date on which the action was taken.
+[2]
+SB 1514
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+(7) The director shall provide at least 30 days’ advance notice to the public of any changes
+to benefits resulting from  any action taken by the director under this section, including the
+effective date of such changes. The director shall give notice to  the public by posting the
+information on the website maintained by the department.
+SECTION 3.
+ Section 51, chapter 700, Oregon Laws 2019, is amended to read:
+Sec. 51.  (1)(a) The Director of the Employment Department shall submit to the interim commit-
+tees of  the Legislative Assembly related to workforce or business and labor, in the manner provided
+in ORS 192.245, reports summarizing  the Employment Department’s progress toward implementing
+the family and medical leave insurance program described in ORS chapter 657B.
+(b) The director shall submit the first report not later than February 15, 2020, and  a second
+report not later than September 1, 2022.
+(2) Beginning on  July 1, 2024, and once during each of the following [ three] five consecutive
+biennia, the director shall, to the extent  that the director has acquired the information, submit to
+the interim committees of the Legislative Assembly related to  workforce or business and labor, in
+the manner provided in ORS 192.245, a report that includes:
+(a) The total number of claims submitted under ORS 657B.090.
+(b) The number of claims allowed under ORS 657B.100 and the  number of claims denied under
+ORS 657B.100.
+(c) The total amount of benefits paid out  of the Paid Family and Medical Leave Insurance Fund
+established under ORS 657B.430.
+(d) Data regarding the use of  moneys in the fund, the solvency of the fund and the balance of
+the fund.
+(e) The amount of contributions collected under ORS 657B.150.
+(f) The  number of applications for plan approval submitted under ORS 657B.210, including the
+number of plans approved and the costs the department incurred in reviewing such applications.
+(g) The number of applications received by the department for employer assistance  and the total
+amounts awarded in grants under ORS 657B.200.
+(h) A summary of any periodic assessments conducted  by the director pursuant to sec-
+tion 2 of this 2024 Act to determine the solvency of  the Paid Family and Medical Leave In-
+surance Fund, including a summary of the information  upon which the solvency
+determination was based.
+(i) A summary of any action that was taken  by the director under section 2 of this 2024
+Act to restore the solvency of the fund and the resulting outcomes of such action.
+[(h)] (3) The director shall include in the reports described in this  subsection any recommen-
+dations made by the advisory committee under ORS 657B.380.
+SECTION 4.
+This 2024 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2024 Act takes effect
+on its passage.
+[3]

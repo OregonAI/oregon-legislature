@@ -1,0 +1,217 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2216
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Behavioral Health and Health Care for Representative Rob Nosse)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  tells OHA to study ways to improve how community health workers are paid.
+(Flesch Readability Score: 67.5).
+Directs the Oregon Health Authority to assess current fee-for-service billing practices and  non-
+fee-for-service payment pathways for community health workers serving  medical assistance recipi-
+ents to identify  improvements for ensuring adequate and sustainable funding. Directs the authority
+to provide technical assistance to coordinated  care organizations and community health worker or-
+ganizations in establishing billing structures or  alternative payment pathways for community health
+worker  services.
+Sunsets January 2, 2027.
+Declares an emergency, effective July 1, 2025.
+A BILL FOR AN ACT
+Relating to community health workers; and declaring an emergency.
+Whereas a community health worker is a frontline public health  worker with expertise engaging
+within local communities and has been recognized as  an effective provider in addressing health eq-
+uity and social determinants of health; and
+Whereas community health workers often  share ethnicity, language, socioeconomic status and
+life experiences with the communities they serve; and
+Whereas the trusting  relationship between community health workers and the communities they
+serve enables community health workers to serve as a community  link to available health and social
+services, facilitating connections to resources and improving access to and the quality of care; and
+Whereas despite the demonstrated impact of their work, community  health workers remain one
+of the lowest paid health professionals nationally; and
+Whereas most of the work of community health workers  is funded through a fragmented web
+of reimbursement approaches and unsustainable one-time grants; and
+Whereas understanding and navigating the reimbursement approaches is challenging  for com-
+munity health workers, even community health workers who work in established health systems  and
+those with strong relationships with the Oregon  Health Authority and coordinated care organiza-
+tions; and
+Whereas technical support is limited  and insufficient to adequately provide community health
+workers and their organizations with the  resources they need to engage with funding systems, which
+has led to  a rotating door of turnover, burnout and services provided unreliably to those most in
+need; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used  in this section, “community health worker” and “medical as-
+sistance” have the meanings given those terms in ORS 414.025.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2694
+HB 2216
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) The Oregon Health Authority shall assess current fee-for-service billing  practices
+with respect to community health workers serving medical assistance  recipients to identify
+funding improvements and expansions that will ensure adequate and sustainable funding. The
+assessment must include, but is not limited to:
+(a) A review of  the current billing codes for community health workers to ensure that
+each code takes into account the full range and duration of the scope  of services provided
+by community health workers;
+(b) A review of and revisions to billing codes for services that fall within the  scope of
+practice of community health workers but are not currently available  to community health
+workers, including social determinants of health codes as primary diagnostic codes;
+(c) Revisions to current  billing structures for community health workers to align the
+structures with the most recent  Medicare physician fee schedule codes for community health
+integration, social determinants of health and principal illness navigation services;
+(d) Revisions to  current reimbursement rates for community health workers to align the
+rates with the full duration and nature of work performed,  including consideration of labor
+costs, the mix of services provided, caseloads and supervision costs;
+(e) A  review of current reimbursement codes, rates and mechanisms for community
+health workers to ensure access to the full array of diverse settings  in which community
+health workers practice, both clinical and community based; and
+(f) A study  of the economic model of community health worker organizations to identify
+ways that policies or fee schedules can be designed  to more closely fit the model in practice.
+(3) The authority may contract with  a third party to conduct the assessment described
+in this section.
+SECTION 2.
+(1) As used in this section, “community health  worker” and “medical as-
+sistance” have the meanings given those terms in ORS 414.025.
+(2) The Oregon Health  Authority shall assess current payment pathways, other than
+fee-for-service, with respect to community health workers  serving medical assistance recip-
+ients in nonclinical settings to identify ways to improve access to  adequate and sustainable
+funding. The assessment must include, but is not limited to, a review of:
+(a) Existing non-fee-for-service payment pathways, including in lieu  of services, value-
+based payments, health-related services and the Supporting  Health for All through
+REinvestment (SHARE) initiative;
+(b) How a community health  worker may access sustainable funding for services provided
+to medical assistance recipients without the supervision of a clinical supervisor;
+(c) How  a community health worker who is not affiliated with an organization or com-
+munity care hub may access sustainable funding for services  provided to medical assistance
+recipients;
+(d) How community health worker services may be used to support the provision  of
+health-related social needs services, such as housing supports, nutritional  assistance and
+climate-related assistance, approved for the demonstration project under 42  U.S.C. 1315 by
+the Centers for Medicare and Medicaid Services; and
+(e) The need to  establish and support community care hubs and the role of community
+care hubs in streamlining the billing  process for community health workers and community
+health worker organizations.
+(3) The authority may contract with  a third party to conduct the assessment described
+[2]
+HB 2216
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+in this section.
+(4) The authority shall submit a report in the manner provided in ORS 192.245,  including
+a plan for implementing the improvements identified in the assessment conducted under this
+section, to the interim committees of the Legislative Assembly related to health no  later
+than November 1, 2026.
+SECTION 3.
+(1) As used in this section, “community health  worker,” “coordinated care
+organization” and “medical  assistance” have the meanings given those terms in ORS 414.025.
+(2) The Oregon Health Authority shall provide technical  assistance and support for co-
+ordinated care organizations and community health worker organizations  in establishing
+billing structures  or alternative payment pathways for community health worker services
+that are provided to medical assistance  recipients. The technical assistance and support shall
+be provided in collaboration with coordinated care organizations’  traditional health worker
+liaisons.
+(3) The authority may contract with a third party to provide the  technical assistance and
+support described in this section.
+SECTION 4. Sections 1 to 3 of this 2025 Act are repealed on January 2, 2027.
+SECTION 5. In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the Oregon Health Authority, for the biennium beginning July 1, 2025, out of the
+General Fund, the amount of $_______, which  may be expended for carrying out the pro-
+visions of sections 1 to 3 of this 2025 Act.
+SECTION 6.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+July 1, 2025.
+[3]

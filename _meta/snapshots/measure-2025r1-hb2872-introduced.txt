@@ -1,0 +1,178 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2872
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act requires proof that  workers in building trades have licenses. (Flesch Readability
+Score: 72.6).
+Requires that a building permit must show a contractor’s  Construction Contractors Board li-
+cense number if the contractor is known.
+Requires an inspector performing building code inspection as part of a  building inspection pro-
+gram, or for the purpose of enforcing a municipal  ordinance, to require that persons engaged in
+regulated building activity present evidence of compliance with applicable licensing, registration or
+certification requirements.
+Requires that a municipality ensure that a person issued a permit for work requiring a  Con-
+struction Contractors Board license holds a Construction Contractors Board license.
+Requires the Director of the Department of  Consumer and Business Services to inform the
+Construction Contractors Board  when the director has reason to believe that a person is engaging,
+has engaged or plans  to engage in a violation of laws regarding licensing and endorsement of con-
+struction  contractors.
+A BILL FOR AN ACT
+Relating to  ensuring the credentials of persons working in regulated building activities; amending
+ORS 455.050, 455.080, 455.158 and 455.775.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 455.050 is amended to read:
+455.050. All building permits issued in this state shall contain the following information:
+(1) The name and address of the  owner of the building or structure to be constructed or altered
+under the permit[ ;].
+[(2) The  name and address of the builder or contractor, if known, who will perform the construction
+or alteration; and ]
+(2) If the person who will be in charge of carrying out the  construction or alteration is
+known, the name and address  of the person and, if the person is a construction contractor
+licensed under ORS chapter 701, the Construction Contractors Board license number of  the
+person.
+(3) The street address and legal description or tax lot number of the  property on which con-
+struction or alteration will occur.
+SECTION 2.
+ ORS 455.080 is amended to read:
+455.080. Notwithstanding ORS 455.630 (2), any inspector,  including a specialty code inspector
+licensed under ORS 455.457, [ authorized by ORS 455.150 or 455.153 to determine compliance with the
+requirements of the state building code or any  specialty code under this chapter may, in accordance
+with a compliance program  as described in ORS 455.153 (2), ] who performs an inspection for the
+Department of Consumer and Business Services  or a municipality as part of a building in-
+spection program, or for the purpose  of enforcing a municipal ordinance described in ORS
+455.153, shall require any person who is engaged in any activity regulated by the state building
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2055
+HB 2872
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+code to demonstrate proof of compliance with the applicable licensing, registration or  certification
+requirements of ORS chapters 446, 447, 455, 460, 479, 480, 693 and 701.
+SECTION 3.
+ ORS 455.158 is amended to read:
+455.158. (1) As used in this section:
+(a) “Public body” has the meaning given that term in ORS 174.109.
+(b) “Work on a structure” means the construction, reconstruction, alteration or repair of a
+structure.
+(2) A public body that administers and enforces a building inspection  program shall ensure that
+a person required to be licensed  under a provision of ORS 446.003 to 446.200, 446.225 to 446.285,
+446.395 to  446.420, 446.566 to 446.646, 446.666 to 446.746, 479.510 to 479.945, 479.950 and 480.510 to
+480.670[,] or  this chapter or ORS chapter 447, 460 , [ or] 693 or 701  in order to obtain a permit for
+work on a structure has a current, valid license of the type required for the permit.
+SECTION 4.
+ ORS 455.775 is amended to read:
+455.775. In  addition to any other authority and power granted under this chapter and ORS
+chapters 446, 447, 460, 479, 480 and 693:
+(1) The Director of the  Department of Consumer and Business Services may, at the discretion
+of the director, enforce the provisions of the state building code and ORS 446.003 to  446.200, 446.225
+to 446.285, 446.395 to 446.420, 479.510 to 479.945, 479.950, 479.995 and 480.510 to 480.670  and this
+chapter and ORS chapters 447, 460 and 693 against any person  regardless of whether a permit,
+certificate, license or other indicia of authority has been issued. The director may:
+(a) Make an investigation;
+(b) Take sworn testimony;
+(c) With the authorization of the Office of the Attorney  General, subpoena persons and records;
+(d) Order corrective action; and
+(e) If an immediate hazard to health and safety is imminent, issue an  order to stop all or any
+part of the work under the applicable specialty code.
+(2) If the director has  reason to believe that any person has been engaged, or is engaging, or
+is about to engage in any violation of the state building code, or ORS  446.003 to 446.200, 446.225 to
+446.285, 446.395 to 446.420, 479.510 to 479.945, 479.950 or  480.510 to 480.670 or this chapter or ORS
+chapter 447, 460  or 693 or any rule adopted under those statutes, the director may issue an order,
+subject to ORS 183.413 to 183.497, directed to the person to cease and desist from the  violation or
+threatened violation.
+(3) If the director has  reason to believe that any person has been engaged, or is engaging, or
+is about to engage  in any violation of the state building code or ORS 446.003 to 446.200, 446.225 to
+446.285, 446.395 to 446.420, 479.510 to 479.945, 479.950 or  480.510 to 480.670 or this chapter or ORS
+chapters 447, 460 and 693 or any  rule adopted under those statutes, the director may, without bond,
+bring suit in the name and on behalf of  the State of Oregon in the circuit court of any county of this
+state to enjoin the acts or practices  and to enforce compliance with the state building code and ORS
+446.003 to  446.200, 446.225 to 446.285, 446.395 to 446.420, 479.510 to 479.945, 479.950 and 480.510 to
+480.670 and this chapter and ORS chapters 447,  460 and 693 and any rule adopted under those
+statutes. Upon a proper showing, a permanent or temporary injunction, restraining order or writ  of
+mandamus shall be granted.
+(4) If the director has reason to believe that any person has been engaged, is engaging
+or is about to engage in any  violation of ORS 701.021, the director shall, as soon as practi-
+cable, provide the Construction Contractors Board with  the information supporting that be-
+[2]
+HB 2872
+1
+2
+3
+4
+lief.
+[(4)] (5) This section does not grant  any authority over a municipality or an inspector employed
+by a municipality.
+[3]

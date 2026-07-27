@@ -1,0 +1,95 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2065
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Climate, Energy, and Environment for Representative John Lively)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Allows the use of a third party  to study or evaluate a request to connect a project to
+a power system. (Flesch Readability Score: 60.6).
+Allows a person to contract with a third-party consultant to  conduct a study or engineering
+evaluation that a  public utility requires for an application to interconnect a community renewable
+energy project or microgrid.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to the interconnection process; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS chapter 757.
+SECTION 2. (1) As used in this section:
+(a) “Community renewable energy project” has the meaning given that term  in section
+29, chapter 508, Oregon Laws 2021.
+(b) “Microgrid” means an interconnected system  of loads and energy resources appro-
+priately sized to meet customer needs within clearly defined electrical boundaries that  can
+function as a single, controllable system independent from a utility transmission or distrib-
+ution system.
+(c) “Public utility” means a utility regulated by the Public Utility Commission  under ORS
+chapter 757 that provides electric power to consumers.
+(2) When a person applies to a public utility for authority to  interconnect a community
+renewable energy project or microgrid with the public utility’s  transmission or distribution
+system and the public utility concludes that the proposed interconnection requires  a study
+or engineering evaluation, the person shall have the option to:
+(a) Agree to have the public utility conduct the study or evaluation; or
+(b) Contract with a third-party consultant to conduct the study or evaluation,  subject to
+the public utility’s reasonable review and approval of the study or evaluation.
+(3) A person who agrees to have the public utility conduct  the study or engineering
+evaluation under subsection (2) of this section shall reimburse the public utility for  the rea-
+sonable costs incurred by the public utility in performing the study or evaluation.
+(4) A public utility  may, as a technical collaborator, contract with a third-party consult-
+ant to conduct the study or engineering  evaluation requested under subsection (2) of this
+section.
+(5) A report that is  produced from a study or engineering evaluation conducted under
+subsection (2) of  this section and has received a professional engineer stamp of approval shall
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1514
+HB 2065
+1
+2
+3
+4
+5
+6
+7
+8
+9
+be considered a final report for purposes of review by a public utility of  an application to
+interconnect a community  renewable energy project or microgrid with the public utility’s
+transmission or distribution system.
+(6) This section does not apply to  an interconnection between a community renewable
+energy project or microgrid and a public utility that is subject to the  jurisdiction of the
+Federal Energy Regulatory Commission.
+SECTION 3.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

@@ -1,0 +1,88 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3683
+Sponsored by Representative HELFRICH, Senator BONHAM
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The  Act says that a commission to make a new bridge over the Columbia River is a
+public body for the OTCA. (Flesch Readability Score: 61.4).
+Provides that a commission formed by local governments to replace a  bridge crossing the
+Columbia River is a public body for purposes of the Oregon Tort Claims Act.
+A BILL FOR AN ACT
+Relating to interstate bridges; creating new provisions; and amending ORS 30.260.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 30.260 is amended to read:
+30.260. As used in ORS 30.260 to 30.300, unless the context requires otherwise:
+(1) “Department” means the Oregon Department of Administrative Services.
+(2) “Director” means the Director of the Oregon Department of Administrative Services.
+(3) “Governing body” means the  group or officer in which the controlling authority of any public
+body is vested.
+(4) “Public body” means:
+(a) A public body as defined in ORS 174.109;
+(b) Any nonprofit corporation that  is organized and existing under ORS chapter 65 and that has
+only political subdivisions or municipal, quasi-municipal or public corporations  in this state as
+members;
+(c) A  child-caring agency, as defined in ORS 418.205, that meets the criteria specified in ORS
+278.322 (1)(a) and that receives more than 50 percent of its funding from the state  for the purpose
+of providing residential treatment to  children who have been placed in the care and custody of the
+state or that provides  residential treatment to children more than half of whom have been placed
+in the care and custody of the state; [ or]
+(d) A private,  nonprofit organization that provides public transportation services if more than
+50 percent of the organization’s funding  for the purpose of providing public transportation services
+is received from governmental bodies ; or
+(e) A commission formed under ORS 381.702 to 381.755 .
+(5) “State” means:
+(a) State government as defined in ORS 174.111;
+(b) The State Accident Insurance Fund Corporation; and
+(c) The Oregon Utility Notification Center.
+(6) “Local public body” means any public body other than the state.
+(7) “Nuclear incident” has the meaning given that term in 42 U.S.C. 2014(q).
+(8) “Tort” means the breach of a legal duty that  is imposed by law, other than a duty arising
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3897
+HB 3683
+1
+2
+3
+4
+5
+from contract or quasi-contract, the breach of which results in  injury to a specific person or persons
+for which the law provides a civil right of action for damages or for a protective remedy.
+SECTION 2.
+The amendments to ORS 30.260 by section 1 of this  2025 Act apply to claims
+arising on or after the effective date of this 2025 Act.
+[2]

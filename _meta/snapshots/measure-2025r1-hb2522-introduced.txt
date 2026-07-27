@@ -1,0 +1,275 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2522
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act requires the use of headlights when the windshield wipers  are on or it is foggy
+outside. (Flesch Readability Score: 75.7).
+Requires the use of headlights when the windshield wipers are on or there is fog. Punishes of-
+fense by a maximum fine of $250.
+A BILL FOR AN ACT
+Relating to vehicle headlight use; creating new provisions; and amending ORS 811.515 and 811.520.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 811.515 is amended to read:
+811.515. This section establishes requirements for ORS  811.520. Except where an exemption un-
+der ORS 811.525 specifically provides otherwise, a vehicle that does not comply with this section  is
+in violation of ORS 811.520. Where specific types of lighting equipment are mentioned in this section,
+those types are types described in ORS 816.040 to 816.290. The requirements under  this section are
+as follows:
+(1) Subject to any other  provision of this section, any lighting equipment a vehicle is required
+to be equipped with  under ORS 816.040 to 816.290 must be displayed when the vehicle is upon a
+highway within this state :
+(a) At any time limited visibility conditions exist.
+(b) At any time the windshield wipers of  the vehicle are in operation, unless the
+windshield wipers are being operated solely for the purpose of cleaning the windshield.
+(c) At any time there is fog.  [ The provisions of this subsection apply during  the times stated
+when the required visibility is measured on a straight, level unlighted highway. ]
+(2) Parking lights and lights other than clearance, identification and  marker lights that are
+mounted on  the front of a vehicle and are designed to be displayed primarily when the vehicle is
+parked [ shall] may  not be lighted when  a vehicle is driven upon a highway at times when limited
+visibility conditions exist except when:
+(a) The lights are being used as turn signals; or
+(b) The headlights are also lighted at the same time.
+(3) Any vehicle parked or stopped upon a roadway or shoulder adjacent thereto,  whether at-
+tended or unattended, during times when limited  visibility conditions exist must display parking
+lights.
+(4) All vehicles not specifically required by  ORS 816.320 to be equipped with lighting equipment
+shall at times when limited visibility conditions exist display  exempt-vehicle safety lighting equip-
+ment. This section includes, but is not limited to, animal drawn vehicles and vehicles  exempted from
+required lighting equipment under ORS 816.340.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1385
+HB 2522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) Tow vehicle warning lights on tow vehicles shall be activated when the tow vehicles are
+engaged in connecting with other  vehicles and drawing such vehicles onto highways or while ser-
+vicing disabled vehicles.
+(6) When limited visibility conditions exist a person  shall use a distribution of light or composite
+beam that is directed sufficiently high and that  is of such intensity so as to reveal persons and ve-
+hicles on the highway at a safe distance in advance of the vehicle. A person violates  this subsection
+if the person does not comply with the following:
+(a) Whenever the  driver of a vehicle approaches an oncoming vehicle within 500 feet, the driver
+must use a distribution of light or composite beam so aimed that the glaring rays  are not projected
+into the eyes of the oncoming driver. The use of the low beams  of the vehicle headlight system is
+in compliance with this paragraph at all times regardless of road  contour and loading of the vehicle.
+(b) Except when in the act of overtaking or passing, a driver of a vehicle following another ve-
+hicle within 350 feet to the rear must use the low beams of the vehicle headlight system.
+(7) When a vehicle is upon a highway a person [ shall light not ] may not light  more than a  total
+of four lights at any one time that are mounted on the front of a vehicle and that each projects  a
+beam of intensity greater than 300 candlepower.
+(8)(a) A light, other than a headlight, that projects a beam of light of  an intensity greater than
+300 candlepower [ shall] may not be operated on a vehicle:
+(A) Unless the beam is so directed that no part  of the high intensity portion of the beam will
+strike the level of the roadway on which the vehicle stands at a distance  of more than 75 feet from
+the vehicle; or
+(B) Except as provided in paragraph (b) of this subsection, when use of the low  beams of the
+vehicle headlight system is required under subsection (6) of this section.
+(b) Notwithstanding paragraph (a)(B) of this subsection,  a light, other than a headlight, may be
+lighted on a motorcycle provided that the intensity of the light does not  exceed the intensity of the
+low beams of the headlight system. A  motorcycle may not be operated with more than two lights,
+other than headlights, under this paragraph.
+(9) A spotlight [ shall] may  not be lighted upon approaching another vehicle unless the spotlight
+is so aimed and used so that no part of the high-intensity portion of the  beam will be directed to the
+left of  the prolongation of the extreme left side of the vehicle upon which it is mounted, more than
+100 feet ahead of the vehicle.
+(10) Auxiliary lights mounted higher than  54 inches [ shall] may not be lighted when the vehicle
+is used on a highway.
+(11) A back-up light [ shall] may  not be lighted when the vehicle is in forward motion.
+(12) Bus safety lights shall only be operated in accordance with the following:
+(a) The lights may be operated when the vehicle is stopping or has stopped for  the purpose of
+loading or unloading students who are going to or from any school or authorized school activity  or
+function.
+(b) The lights may  be operated when the vehicle is stopping or has stopped for the purpose of
+loading or unloading workers from worker transport buses.
+(c) The lights may be operated when the vehicle is stopping or has stopped  for the purpose of
+loading or unloading children being transported to or  from religious services or an activity or
+function authorized by a religious organization.
+(d) The lights may be operated when  the vehicle is stopping or has stopped in a place that ob-
+structs other drivers’ ability to see the bus safety lights on another vehicle.
+[2]
+HB 2522
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) Notwithstanding any other paragraph of this subsection, the lights  [ shall] may  not be oper-
+ated if the vehicle is stopping or has stopped at an  intersection where traffic is controlled by elec-
+trical traffic control signals, other than flashing signals, or by a police officer.
+(f) Notwithstanding  any other paragraph of this subsection, the lights [ shall] may  not be oper-
+ated if the vehicle is stopping or has  stopped at a loading or unloading area where the vehicle is
+completely off the roadway.
+(13)(a) Hazard lights shall be  used for the purpose of warning the operators of other vehicles
+of the presence of a vehicular traffic hazard requiring the exercise of unusual  care in approaching,
+overtaking or passing.
+(b) Hazard lights shall be used by the first and last vehicles in a funeral procession.
+(14) Mail delivery lights may be used only while in active  service transporting United States
+mail for the purpose of warning other vehicle operators of the  vehicle’s presence and to exercise
+caution in approaching, overtaking or passing. A vehicle with mail  delivery lights is in compliance
+with this subsection if the lights  are flashed continuously while the vehicle is in motion in active
+service transporting mail or if the lights are actuated by application of the service brake while the
+vehicle is parked.
+(15) A pilot vehicle warning light may be activated only when the vehicle equipped with  the
+light is an escort  accompanying a motor vehicle carrying or towing a load of a size or description
+not permitted under ORS 818.020, 818.060, 818.090 or 818.160.
+(16) Fire company warning lights authorized under a permit granted under ORS 818.250 may  be
+used by the persons  authorized under the permit while being driven to a fire station or fire location
+in response to a fire alarm. Fire company warning lights authorized under ORS 811.800 may be used
+by funeral escort vehicle or funeral lead vehicle drivers while driving in a  funeral procession. The
+lights shall be  covered or otherwise concealed when not being displayed as provided in this sub-
+section.
+(17) Any lighted headlights upon a parked vehicle shall be dimmed.
+(18) Commercial vehicle warning lights may be used only:
+(a) To warn operators of other vehicles of the  presence of a traffic hazard requiring the exercise
+of unusual care in approaching, overtaking or passing the commercial vehicle; and
+(b) When the commercial vehicle is being used for commercial purposes and the vehicle is:
+(A) Stopped, parked or left standing at a commercial or work site; or
+(B) In a highway work zone as defined in ORS 811.230.
+SECTION 2.
+ ORS 811.520 is amended to read:
+811.520. (1) A  person commits the offense of unlawful use or failure to use lights if the person
+does any of the following:
+(a) Drives or moves on any highway any vehicle  at a time when vehicle lighting is required to
+be operated or is prohibited from being operated under ORS 811.515 and operates or fails to operate
+lighting equipment as required under ORS 811.515.
+(b) Owns a vehicle or combination of  vehicles and causes or knowingly permits the vehicle or
+combination of vehicles to be driven or moved on any highway at a time when ORS  811.515 requires
+or prohibits the operation of vehicle lighting equipment without  compliance with the requirements
+under ORS 811.515.
+(c) Drives any vehicle in a funeral procession without using the low beam headlights.
+(2) The application of this section is subject to the exemptions from this  section established
+under ORS 811.525.
+[3]
+HB 2522
+1
+2
+3
+4
+5
+6
+(3) The offense described in  this section, unlawful use of or failure to use lights, is a Class B
+traffic violation, except that violation of ORS 811.515  (1)(b) and (c),  (3), (4), (13) or (17) or sub-
+section (1)(c) of this section is a Class D traffic violation.
+SECTION 3.
+The amendments to ORS 811.515 and 811.520 by sections 1 and 2 of this 2025
+Act apply to conduct occurring on or after the effective date of this 2025 Act.
+[4]

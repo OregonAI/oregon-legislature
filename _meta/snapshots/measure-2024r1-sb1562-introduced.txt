@@ -1,0 +1,82 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1562
+Sponsored by Senator STEINER, Representative SANCHEZ, Senator GIROD, Representative HELFRICH;  Senator
+FINDLEY, Representative OWENS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act raises the amount of money that is put in a reserve fund  every two years. It
+raises the maximum amount of money that can be held in  the reserve fund. (Flesch Readability
+Score: 74.2).
+Increases the maximum amount of the biennial transfer to the Oregon Rainy Day Fund.
+Increases the cap on amounts held in the Oregon Rainy Day Fund.
+A BILL FOR AN ACT
+Relating to state financial administration; amending ORS 293.146 and 293.148.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 293.146 is amended to read:
+293.146. (1) As used in this section:
+(a) “Ending balance” means the difference between the amount of General  Fund revenues col-
+lected during a biennium and the amount of General Fund appropriations for the biennium.
+(b) “General Fund appropriations” means the  amount of moneys appropriated from the General
+Fund for a  biennium in the legislatively approved budget for the biennium, minus the amount of any
+General Fund appropriation balances for that biennium that revert to the General Fund  under ORS
+293.190.
+(c) “Legislatively approved budget” has the meaning given that term in ORS 291.002.
+(2) Except as provided in ORS 293.148, as soon as possible after the ending  balance for a
+biennium is determined, an amount equal  to [ one] two  percent of the amount of General Fund ap-
+propriations for that biennium shall be transferred  to the Oregon Rainy Day Fund established by
+ORS 293.144. If  the ending balance does not equal or exceed [ one] two  percent of the amount of
+General Fund appropriations, an amount equal to the ending  balance shall be transferred to the
+Oregon Rainy Day Fund.
+SECTION 2.
+ ORS 293.148 is amended to read:
+293.148. (1) If the moneys in the Oregon Rainy Day Fund established  by ORS 293.144 just prior
+to the time of a transfer scheduled under ORS 293.144 (3)  or 293.146 equal at least [ 7-1/2] 12.5 per-
+cent of the amount of General Fund  revenues collected during the prior biennium, moneys that
+would otherwise be transferred to the Oregon Rainy Day Fund shall  be deposited in the General
+Fund.
+(2) If the moneys  in the Oregon Rainy Day Fund just prior to the time of a transfer scheduled
+under ORS 293.144 (3) or 293.146 do not equal at least  [7-1/2] 12.5 percent of the amount of General
+Fund revenues collected during the prior  biennium, the transfer to the Oregon Rainy Day Fund shall
+be made regardless of whether that transfer increases the amount in the  Oregon Rainy Day Fund
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 97
+SB 1562
+1
+2
+3
+to at least [ 7-1/2] 12.5 percent of  the amount of General Fund revenues collected during the prior
+biennium.
+[2]

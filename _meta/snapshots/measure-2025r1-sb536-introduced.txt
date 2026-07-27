@@ -1,0 +1,95 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 536
+Sponsored by Senator PATTERSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act lets two more types of health  care practitioners be medical examiners. (Flesch
+Readability  Score: 63.6).
+Provides that a licensed physician associate  or nurse practitioner may be a medical examiner.
+Includes a licensure requirement for a physician who serves as a medical examiner.
+A BILL FOR AN ACT
+Relating to medical examiners; amending ORS 146.003.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 146.003 is amended to read:
+146.003. As used in ORS 146.003 to 146.189 and 146.710  to 146.992, unless the context requires
+otherwise:
+(1) “Approved laboratory” means a laboratory approved by the Chief Medical Examiner as
+competent to perform the blood sample analysis required by ORS 146.113 (2).
+(2) “Assistant district medical examiner” means a physician  licensed under ORS chapter 677,
+physician associate  licensed under ORS 677.505 to 677.525 or nurse practitioner licensed under
+ORS 678.375 to 678.390 appointed by the district medical examiner to investigate and certify deaths
+within a county or district.
+(3) “Cause of death” means the primary or basic disease process or injury ending life.
+(4) “Death requiring investigation”  means the death of a person occurring in any one of the
+circumstances set forth in ORS 146.090.
+(5) “District medical examiner” means a physician  licensed under ORS chapter  677, physician
+associate licensed under ORS 677.505 to  677.525 or nurse practitioner licensed under ORS
+678.375 to 678.390 appointed by the Chief Medical Examiner to  investigate and certify deaths within
+a county or district, including a Deputy State Medical Examiner.
+(6) “Law enforcement agency” means a county sheriff’s office,  municipal police department, po-
+lice department established by a university under ORS 352.121 or 353.125 and the Oregon State  Po-
+lice.
+(7) “Legal intervention” includes an execution pursuant to ORS 137.463, 137.467 and  137.473 and
+other legal use of force resulting in death.
+(8) “Manner of death” means the designation of the probable mode  of production of the cause
+of death, including natural, accidental, suicidal, homicidal, legal intervention or undetermined.
+(9) “Medical examiner” means a physician  licensed under ORS chapter 677, physician  asso-
+ciate licensed under ORS 677.505  to 677.525 or nurse practitioner licensed under ORS 678.375
+to 678.390 appointed as provided  by ORS 146.003 to 146.189 to investigate and certify the cause and
+manner of deaths requiring investigation, including the Chief Medical Examiner.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2319
+SB 536
+1
+2
+3
+4
+5
+6
+7
+8
+9
+(10) “Medical-legal death investigator”  means a person appointed by the district medical exam-
+iner to assist in the investigation of deaths within a county.
+(11) “Pathologist” means a  physician holding a current license to practice medicine and surgery
+and who is eligible for certification by the  American Board of Pathology , or its successor organ-
+ization.
+(12) “Unidentified human remains”  does not include human remains that are unidentified human
+remains that are part of an archaeological site or suspected of being Native American and  covered
+under ORS chapters 97 and 390 and ORS 358.905 to 358.961.
+[2]

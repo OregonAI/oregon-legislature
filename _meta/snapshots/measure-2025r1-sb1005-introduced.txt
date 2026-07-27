@@ -1,0 +1,226 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1005
+Sponsored by  Senators BONHAM, MEEK, Representative MCINTIRE; Senators ANDERSON, HAYDEN,
+LINTHICUM, NASH, ROBINSON, SMITH DB, STARR, THATCHER, WEBER, Representative EVANS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that a  private entity may swipe a driver’s license to confirm a person’s
+age, regardless of how old the person looks. (Flesch Readability Score: 62.6).
+Provides that when offering a service with age restrictions, a  private entity is allowed to swipe
+a driver’s license to verify a person’s age, regardless of how old the person looks.
+A BILL FOR AN ACT
+Relating to swiping driver licenses; amending ORS 807.750.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 807.750 is amended to read:
+807.750. (1) As used in this section:
+(a) “Driver license” means a license  or permit issued by this state or any other jurisdiction as
+evidence of a grant of driving privileges.
+(b) “Financial institution” has the meaning given that term in ORS 706.008.
+(c) “Identification card” means the card issued under ORS 807.400  or a comparable provision in
+another state.
+(d) “Personal information” means an individual’s name, address, date of birth, photograph,  fin-
+gerprint, biometric data, driver license number, identification card number  or any other unique
+personal identifier or number.
+(e) “Private  entity” means any nongovernmental entity, such as a corporation, partnership,
+company or nonprofit organization, any other legal entity or any natural person.
+(f) “Swipe” means the act of passing a  driver license or identification card through a device that
+is capable of deciphering, in an electronically  readable format, the information electronically en-
+coded in a magnetic strip or bar code on the driver license or identification card.
+(2) Except as provided in subsection  (6) of this section, a private entity may not swipe an
+individual’s driver license or identification card, except for the following purposes:
+(a) To verify the authenticity of a driver  license or identification card or to verify the identity
+of the individual if the individual  pays for a good or service with a method other than cash, returns
+an item or requests a refund.
+(b) To verify the individual’s age when providing an  age-restricted good or service to any person
+[about whom there is any reasonable doubt of the person’s having reached 21 years of age ].
+(c) To prevent fraud or other criminal activity if an  individual returns an item or requests a
+refund and the private entity uses a fraud prevention service company or system.
+(d) To transmit information to a check  services company for the purpose of approving negotiable
+instruments, electronic funds transfers or similar methods of payment.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4602
+SB 1005
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) To collect information  about the individual for the purpose of processing an application for
+a deposit account or loan for the individual, if the private entity is a financial institution.
+(f) To enable a pharmacist, pharmacy technician or intern, as those terms are  defined in ORS
+689.005, to submit information to the electronic system described in ORS 475.230 for the  purpose of
+transferring a drug containing pseudoephedrine or ephedrine or a salt, isomer or salt of an  isomer
+of pseudoephedrine or  ephedrine without a prescription from a practitioner to a person who is 18
+years of age or older.
+(3) A private entity that swipes  an individual’s driver license or identification card under sub-
+section (2)(a) or (b) of this section  may not store, sell or share personal information collected from
+swiping the driver license or identification card.
+(4) A private entity that swipes  an individual’s driver license or identification card under sub-
+section (2)(c) or  (d) of this section may store or share the following information collected from
+swiping an individual’s driver license or identification card for  the purpose of preventing fraud or
+other criminal activity against the private entity:
+(a) Name;
+(b) Address;
+(c) Date of birth; and
+(d) Driver license number or identification card number.
+(5)(a) A person other than an entity regulated by the  federal Fair Credit Reporting Act, 15
+U.S.C. 1681 et seq.,  who receives personal information from a private entity under subsection (4) of
+this section may use the personal information received only to prevent fraud or other criminal  ac-
+tivity against the private entity that provided the personal information.
+(b) A person who is regulated by the  federal Fair Credit Reporting Act and who receives per-
+sonal information from a private entity under  subsection (4) of this section may use or provide the
+personal information received only  to effect, administer or enforce a transaction or prevent fraud
+or other criminal activity, if the  person provides or receives personal information under contract
+from the private entity.
+(6)(a) Subject to the provisions of  this subsection, a private entity that is a commercial radio
+service  provider  that provides service nationally and that is subject to the Telephone Records and
+Privacy Protection Act of  2006 (18 U.S.C. 1039) may swipe an individual’s driver license or identifi-
+cation card if the entity  obtains permission from the individual to swipe the individual’s driver li-
+cense or identification card.
+(b) The private entity may swipe the individual’s driver license or identification card only  for
+the purpose of establishing or maintaining a contract between  the private entity and the individual.
+Information collected by swiping an individual’s driver license  or identification card for the estab-
+lishment or maintenance of a contract shall be limited to the following information from the  indi-
+vidual:
+(A) Name;
+(B) Address;
+(C) Date of birth; and
+(D) Driver license number or identification card number.
+(c) If the individual does not want the private entity  to swipe the individual’s driver license or
+identification card, the  private entity may manually collect the following information from the indi-
+vidual:
+(A) Name;
+[2]
+SB 1005
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+(B) Address;
+(C) Date of birth; and
+(D) Driver license number or identification card number.
+(d) The private entity may not withhold the provision of goods  or services solely as a result of
+the individual requesting  the collection of the following information from the individual through
+manual means:
+(A) Name;
+(B) Address;
+(C) Date of birth; and
+(D) Driver license number or identification card number.
+(7) A governmental entity may swipe an individual’s driver license  or identification card only
+if:
+(a) The individual knowingly makes the driver license or identification  card available to the
+governmental entity;
+(b) The governmental entity lawfully confiscates the driver license or identification card;
+(c) The governmental entity is providing emergency assistance to the  individual who is uncon-
+scious or otherwise unable to make the driver license or identification card available; or
+(d) A court  rule requires swiping of the driver license or identification card to facilitate accu-
+rate linking of court records pertaining to the individual.
+(8) In addition to any other remedy  provided by law, an individual may bring an action to re-
+cover actual damages or $1,000, whichever is greater,  and to obtain equitable relief, if equitable
+relief is available, against an entity that swipes, stores,  shares, sells or otherwise uses the
+individual’s personal information in violation of this  section. A court shall award a prevailing
+plaintiff reasonable costs  and attorney fees. If a court finds that a violation of this section was
+willful or knowing, the court may increase the amount of the award  to no more than three times the
+amount otherwise available.
+(9) Any waiver of a provision of this section is contrary to public policy and is void and
+unenforceable.
+[3]

@@ -1,0 +1,106 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3357
+Sponsored by Representatives NERON, MUNOZ; Representative FRAGALA
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Requires ODE to provide a method to record an injury of an  employee at a school.
+(Flesch Readability Score: 63.6).
+Directs the Department of Education  to implement a method to be used by school districts and
+education service districts to record school workplace safety incidents.
+A BILL FOR AN ACT
+Relating to the reporting of education workplace safety incidents;  creating new provisions; and
+amending ORS 339.309.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Department of Education, in consultation with the Department  of
+Consumer and Business Services, shall implement a method to enable school districts and
+education service districts to record on the website of the Department  of Education any
+school workplace safety incidents involving an employee of the school district or education
+service district.
+(2) The method must provide for the following data to be recorded for  a school workplace
+safety incident:
+(a) The school district in which the incident occurred.
+(b) The school or other location where the incident occurred.
+(c) For an incident that occurred at a school, the location within the school where  the
+incident occurred.
+(d) The nature of any injuries occurring as a result of the incident, including:
+(A) Whether the injury  was recorded as a work-related injury to comply with applicable
+health and safety recordkeeping requirements; and
+(B) Whether the injury is classified as  a disabling compensable injury or a nondisabling
+compensable injury under ORS chapter 656.
+(e) Whether a student was involved in the incident.
+(f) The status of any de-escalation training received by the employee involved in the in-
+cident.
+(g) Any additional data, as required by the Department of Education.
+(3) The method must provide for:
+(a) The recording of the data described in subsection  (2) of this section in a manner that
+is:
+(A) Easy to use for staff members;
+(B) Accessible to the public; and
+(C) Accessible in multiple formats and in English and the  languages listed by the Secre-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 937
+HB 3357
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+tary of State under ORS 251.167 (1)(a).
+(b) A format for making the data described in subsection (2) of this  section accessible for
+purposes of data collection and analysis.
+(c) Consistency in and fidelity to the data collected.
+(d) The minimization of duplicative reporting of school workplace safety incidents.
+(e) Safeguards to address bias against protected classes of students.
+SECTION 2.
+ ORS 339.309 is amended to read:
+339.309. (1) Each district school board shall establish  a policy for the reporting of incidents that:
+(a) Result in the injury of an employee of the school district; and
+(b) Are sustained while in the actual performance of the duty of the employee.
+(2) A policy established as provided by  this section must align, to the extent practicable, with
+any [ existing] other reporting requirements , including the reporting requirements  of section 1
+of this 2025 Act .
+[2]

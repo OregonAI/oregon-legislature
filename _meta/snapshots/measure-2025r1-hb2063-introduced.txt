@@ -1,0 +1,155 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2063
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Climate, Energy, and Environment for Representative John Lively)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act creates a task force to study and report on energy production on farm  land.
+(Flesch Readability Score: 70.1).
+Creates the Agrivoltaics  Task Force staffed by the Department of Land Conservation and De-
+velopment. Requires the task force to study agrivoltaics and to report to an interim  committee of
+the Legislative Assembly related to land use by December 15, 2026.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to agrivoltaics task force; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Agrivoltaics Task Force is established.
+(2) The task force consists of at least 11 members,  who shall be appointed no later than
+45 days following the effective date of this 2025 Act, as follows:
+(a) One member, appointed by the  Director of Agriculture, to represent the State De-
+partment of Agriculture;
+(b) One member, appointed by the Director of the State Department of Energy to  repre-
+sent the State Department of Energy; and
+(c) At least nine members, appointed by the Director of the Department of Land  Con-
+servation and Development, with diverse geographic representation, as follows:
+(A) One member representing the Association of Oregon Counties;
+(B) One member representing a land use organization;
+(C) One member representing large agricultural operations;
+(D) One member representing small agricultural operations or family farms;
+(E) One member representing the solar development industry;
+(F) One member familiar with community solar development;
+(G) One member with expertise in agrivoltaics technology and deployment;
+(H) One member representing the environmental community;
+(I) One member with expertise in land valuation; and
+(J) At the discretion of the director, an even  number of individuals with expertise, or
+who represent other interests, relevant to the purpose of the task force.
+(3) The task force shall study and prepare a report on:
+(a) The existing land use regulations around solar siting and agriculture  and variations
+across the state, if any;
+(b) The benefits of agrivoltaics;
+(c) The potential for agrivoltaics on smaller family farms or community solar projects;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2097
+HB 2063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+(d) The impacts to the agricultural economy from agrivoltaics,  particularly impacts to
+properties or property values from solar siting or solar colocation;
+(e) Recommendations on  the size of feasible agrivoltaics projects or the proportion of
+land that may be used for agrivoltaics;
+(f) Mechanisms to ensure that farming remains the  primary use of land used for
+agrivoltaics; and
+(g) Solar development impacts on availability of land for farm use.
+(4) The task force may study and report on additional topics relating to agrivoltaics.
+(5) A  majority of the voting members of the task force constitutes a quorum for the
+transaction of business.
+(6) Official action by the task force requires the approval of a majority  of the voting
+members of the task force.
+(7) The task force shall elect one of its members to serve as chairperson.
+(8) If there  is a vacancy for any cause, the appointing authority shall make an appoint-
+ment to become immediately effective.
+(9)(a) The task force shall meet no fewer than six  times. The task force shall have its
+first meeting on or before 90 days after the effective date of this 2025 Act.
+(b) The task force shall meet at times and places specified by the  call of the chairperson
+or of a majority of the voting members of the task force.
+(10) The task force may adopt rules necessary for the operation of the task force.
+(11) The task force shall submit a  report in the manner provided by ORS 192.245, and
+may include recommendations for legislation, to an interim committee  of the Legislative
+Assembly related to land use no later than December 15, 2026.
+(12) The Department of Land Conservation and  Development shall provide staff support
+to the task force or contract for the administration of the task force.
+(13) Members of the Legislative Assembly appointed to the task force  are nonvoting
+members of the task force and may act in an advisory capacity only.
+(14) Members of the task force who are not members of the Legislative  Assembly are not
+entitled to compensation or reimbursement for expenses and serve as volunteers on the  task
+force.
+(15) All agencies of state government, as defined in  ORS 174.111, are directed to assist
+the task force in the performance of  the duties of the task force and, to the extent permitted
+by laws relating to confidentiality, to furnish information and advice the members of the task
+force consider necessary to perform their duties.
+SECTION 2.
+Section 1 of this 2025 Act is repealed on December 31, 2026.
+SECTION 3. This 2025 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+on its passage.
+[2]

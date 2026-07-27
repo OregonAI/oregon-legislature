@@ -1,0 +1,120 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3152
+Sponsored by Representative CATE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells the SOS to create an e-filing system. Allows certain city and  county candidates to
+file a picture and statement to the system.  Requires the SOS to post the pictures and statements on
+the secretary’s website. Requires the state and county pamphlets  to list the offices whose candidates
+may file a picture and statement and where they may be viewed. (Flesch Readability Score: 64.2).
+Requires the Secretary of State to establish an electronic filing system  to allow a candidate for
+nomination or election to a county or city office held at  a primary or general election to file a
+portrait and statement  electronically with the secretary if the candidate cannot have the portrait
+and statement printed in the county voters’ pamphlet.
+Requires the Secretary of State to post a candidate portrait and statement  on the secretary’s
+website.
+Requires the applicable state voters’ pamphlets and county voters’ pamphlets to include a  list
+of all offices whose candidates may post portraits  and statements on the Secretary of State’s website
+and the website address where the portraits and statements will be posted.
+A BILL FOR AN ACT
+Relating to candidate filings.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a  part of ORS 251.305 to
+251.435.
+SECTION 2. (1)(a) The Secretary of State by rule shall  adopt an electronic filing system
+to allow a candidate for nomination or election to a county or city office  to file a portrait
+and statement electronically using the Internet.  This paragraph applies only to nominations
+or elections to a county or city  office that will be held on the date of the primary election
+or the general election.
+(b) A candidate described  in paragraph (a) of this subsection may file a portrait and
+statement under this section only if the candidate has been  informed by the relevant county
+clerk that the candidate  cannot file a portrait and statement for inclusion in a county voters’
+pamphlet under ORS 251.335.
+(2) A portrait and statement that is filed under this section must be:
+(a) Filed no later than the date for filing a portrait and statement set forth in ORS
+251.065;
+(b) In a format that complies with applicable rules of the Secretary of  State under ORS
+251.335; and
+(c) Accompanied by the appropriate fee described in ORS 251.325.
+(3) Except as provided in  ORS 251.055, the Secretary of State shall post on the secretary’s
+website any portrait and statement that is filed in accordance with the requirements of  this
+section. The portraits and statements:
+(a) Shall be posted on the website of the Secretary of State no later than the 20th day
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 932
+HB 3152
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+before the date of the election that is held on the date of  the primary election or general
+election at which candidates for county or city offices will be nominated or elected; and
+(b) Notwithstanding ORS 192.311 to 192.478, and in accordance with ORS 251.145, are ex-
+empt from public inspection until the fourth business day  after the final date for filing the
+materials.
+(4) The portraits and statements that are posted on the website of the Secretary  of State
+shall be organized by county and office in a manner determined by  the secretary by rule.
+Below each portrait and statement filed by a candidate, the secretary shall include:
+(a) A statement identifying the person who furnished the portrait and statement; and
+(b) A disclaimer in boldfaced type in substantially the following form:
+The above information has not been verified for accuracy by the Secretary of State.
+(5) Each county voters’ pamphlet, and each state  voters’ pamphlet that is distributed in
+a county for which a county voters’ pamphlet is not prepared, shall include:
+(a) A list of each county  or city office whose candidates both reside in the county and
+are eligible to submit a portrait and statement under this section; and
+(b) If one or more offices are listed under  paragraph (a) of this subsection, the website
+address where the Secretary of  State is posting candidate portraits and statements filed
+under this section.
+(6) As used in this section, and notwithstanding ORS 251.005,  “city office” means the of-
+fice of mayor, city auditor, city councillor or municipal judge of any city in this state.
+[2]

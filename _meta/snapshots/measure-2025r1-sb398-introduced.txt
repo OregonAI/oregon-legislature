@@ -1,0 +1,221 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 398
+Sponsored by Senator GIROD (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act says that fees  from programs to reduce greenhouse gas must go to the State
+Highway Fund. (Flesch Readability Score: 85.1).
+Requires state agencies that administer programs to reduce greenhouse gas emissions to  deposit
+fees, assessments or other charges imposed pursuant to the program in the State Highway Fund.
+Directs the Governor to include in the Governor’s budget an estimate of the amounts to  be
+transferred in the coming biennium and recommendations for alternative revenue sources.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to greenhouse gas emissions;  creating new provisions; amending ORS 291.216; and declaring
+an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section, “greenhouse gas reduction  program” means any
+program or  policy administered by an agency of the executive department, as defined in ORS
+174.112, for the purpose of reducing greenhouse gas emissions, as defined in ORS 468A.210.
+(2) Notwithstanding any other provision  of law, any fee, assessment or other charge im-
+posed by state statute or administrative rule  pursuant to a greenhouse gas reduction pro-
+gram shall be dedicated for highway purposes and transferred by the agency  that collected
+the fee, assessment or other charge to  the State Highway Fund established under ORS
+366.505.
+(3) An agency required to  transfer amounts under subsection (2) of this section shall
+make the required transfers each calendar quarter.
+(4) The Governor shall  include in the Governor’s budget an estimate of the amount re-
+quired to be transferred under this section  in the coming biennium and make recommen-
+dations for  whether the amount transferred by each agency should be wholly or partially
+replaced with revenue from any other source.
+SECTION 2.  ORS 291.216 is amended to read:
+291.216. (1) The Governor’s budget shall include  a budget message prepared by the Governor,
+including recommendations of  the Governor with reference to the fiscal policy of the state govern-
+ment for the coming biennium,  describing the important features of the budget, embracing a general
+budget summary setting forth the aggregate figures of the budget so  as to show a balanced relation
+between the total proposed expenditures and the total  anticipated income, with the basis and factors
+on which the estimates  are made, the amount to be borrowed, and other means of financing the es-
+timated expenditures for the ensuing biennium, compared with the corresponding figures for at least
+the last completed biennium and the current biennium.
+(2) The Governor’s budget shall  be supported by explanatory schedules or statements, classifying
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2104
+SB 398
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the expenditures reported in the budget, both past and proposed, by organization  units, objects and
+funds, and the income by organization units, sources and funds, and  the proposed amount of new
+borrowing as well as proposed new tax  or revenue sources, including a single comprehensive list
+of all proposed increases in fees, licenses and assessments assumed in the budget.
+(3) The Governor’s budget shall be submitted for all dedicated funds, as well as the state Gen-
+eral Fund, and shall include the estimated amounts of federal and other aids or grants to  state
+agencies or activities provided for any purpose whatever, together with estimated  expenditures
+therefrom.
+(4) The Governor’s budget shall embrace  the detailed estimates of expenditures and revenues.
+It shall include:
+(a) Statements of  the bonded indebtedness of the state government, showing the actual amount
+of the debt service for at least the past biennium, and the estimated amount for  the current
+biennium and the  ensuing biennium, the debt authorized and unissued, the condition of the sinking
+funds and the borrowing capacity.
+(b) The Governor’s recommendations concerning tax expenditures identified under ORS 291.214.
+(c) Any statements relative to the financial plan which the Governor may consider desirable or
+which may be required by the Legislative Assembly.
+(5) The Governor’s budget  shall use the estimated revenues under ORS 291.342 for the fiscal
+year in which the budget is submitted as the basis  for total anticipated income under subsection (1)
+of this section,  subject to adjustment as may be necessary to reflect accurately projections for the
+next biennium.
+(6)(a) The Governor’s budget shall present information  regarding the expenses of the state in the
+following categories:
+(A) Personnel expenses, including compensation  and benefits for state employees, but excluding
+costs of services contracted out and temporary service costs.
+(B) Supplies, equipment and the costs of services contracted out.
+(C) Special payments.
+(D) Capital construction.
+(E) Capital outlay.
+(F) Debt service.
+(b) For each category described in paragraph (a) of  this subsection, the budget shall show actual
+expenditures for the prior biennium and estimated expenditures for the current biennium.
+(c) As supplemental information  to the budget, the Governor shall include an estimate of the
+projected costs of  continuing currently authorized programs in the next biennium. The estimate shall
+include, but is not limited to the projected costs of:
+(A) Removing one-time expenditures;
+(B) Program phase-ins and phase-outs;
+(C) Personnel expenses compared to  existing compensation plan agreements, including position
+vacancy experience calculations;
+(D) Inflation for services, supplies and medical costs;
+(E) Transfers between state funds or accounts;
+(F) Mandated caseload changes; and
+(G) Debt service for previously issued debt.
+(d) The budget shall show  the total increase in the cost of salaries and benefits for all state
+positions.
+[2]
+SB 398
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+(7) The Governor’s budget shall include:
+(a) The total number of positions and full-time equivalent positions included in the budget.
+(b) The average vacancy rate in the present biennium.
+(c) The number of  permanent, full-time equivalent vacancies as of July 1 of even-numbered years.
+(8) The Governor’s budget shall include  computations showing budget figures as a percentage
+of the total General Fund, federal fund, fee or other source category, as may be appropriate.
+(9) The Governor’s budget shall include,  in a format that provides side-by-side comparison with
+the State Debt Policy Advisory Commission report of net debt capacity, a six-year forecast,  by debt
+type and repayment source, of:
+(a) That portion  of the capital construction program required to be reported by ORS 291.224 that
+will be financed by debt issuance.
+(b) The acquisition of equipment or technology in excess of  $500,000 that will be financed by
+debt issuance.
+(c) Other state agency debt issuance for grant or loan purposes.
+(10) The Governor’s budget shall include the outcomes-based  budgeting information required by
+ORS 291.217 (2) and (3).
+(11) The Governor’s budget  shall include recommendations regarding available funds that could
+be used to make lump sum payments to  the Public Employees Retirement System under ORS 238.229.
+(12) The Governor’s  budget shall include a narrative summarizing the racial impact statements
+required under ORS 291.206.
+(13) The Governor’s budget shall include the estimate  and recommendations required by
+section 1 of this 2025 Act.
+SECTION 3.
+This 2025 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+on its passage.
+[3]

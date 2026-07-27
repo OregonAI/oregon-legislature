@@ -1,0 +1,143 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2251
+Sponsored by Representative WALLAN, Senator REYNOLDS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Requires school districts to have a  policy that does not allow students to use cell phones
+and similar devices. (Flesch Readability Score: 62.8).
+Directs school districts to adopt  a policy that prohibits the use of student personal electronic
+devices.
+A BILL FOR AN ACT
+Relating to student use of personal electronic devices; amending ORS 336.840.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 336.840 is amended to read:
+336.840. [(1) As used in this  section, “independent communication” means communication that does
+not require assistance or  interpretation by an individual who is not part of the communication but that
+may require the use or assistance of an electronic device. ]
+[(2) Each district school board shall adopt policies for the use of  personal electronic devices in the
+schools of the school district as provided by this section. ]
+[(3) A district school board shall adopt a policy for the use of personal  electronic devices that
+support academic activities and independent communications. The policy must provide that: ]
+[(a) Students may be allowed to  use personal electronic devices that support academic activities and
+independent communications.]
+[(b) Unless otherwise specifically  prohibited by the policy, students may not be denied the oppor-
+tunity to use  a personal electronic device that supports academic activities and independent communi-
+cations.]
+[(4) If a school district implements a  curriculum that uses technology, the district school board
+shall adopt a policy that provides that: ]
+[(a) Students may  be allowed, but are not required, to use their own personal electronic devices for
+the curriculum. ]
+[(b) Students who  use their own personal electronic devices for the curriculum must be granted
+access to any applications or electronic materials that  are available to students who do not use their
+own personal electronic devices for the curriculum. ]
+[(c) Students who use their own  personal electronic devices for the curriculum must be granted
+access to applications and  electronic materials free of charge if the applications and electronic materials
+are provided free of charge to students who do not use their own personal electronic devices for  the
+curriculum.]
+[(5) A policy adopted under subsection (3) or (4) of this section must include  a process and timeline
+for responding to a student’s request  related to the use of a personal electronic device, including an
+appeals process.]
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 627
+HB 2251
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+(1) A district school board shall adopt a policy for the use of student personal  electronic
+devices.
+(2) Except as provided by subsection (3)  of this section, the policy must prohibit the use
+of student personal electronic devices:
+(a) On school grounds;
+(b) At any school-sponsored activity;
+(c) On school-provided transportation; or
+(d) At any official school bus stop.
+(3) A policy adopted under this section must provide for the use of student  personal
+electronic devices when the use complies with the terms of an  individualized education pro-
+gram, as defined in ORS 343.035, or an education plan developed for a student with  a disa-
+bility in accordance with section 504 of the Rehabilitation Act of 1973, 29 U.S.C. 794.
+(4) The policy must provide consequences for student noncompliance with the prohibition
+on the use of student personal electronic devices.
+[(6)] (5) [ School districts must  ensure that the policies adopted under subsection (3) or (4) of this
+section are ] A school district must ensure that the policy is  made available to:
+(a) School  district personnel [ whose duties may require them to assist students with personal
+electronic devices ]; and
+(b) Students and parents or guardians of students.
+[(7) Nothing in the requirements of this section prevents a district school board from prohibiting: ]
+[(a) Telephonic or electronic communications during regular school hours or  during school events
+if the communications are not related to academic activities or independent communications; ]
+[(b) Communications using access to social media or to nonacademic  sites during regular school
+hours or during school events; ]
+[(c) The use of personal electronic devices for any purpose  that does not support academic activities
+or independent communications; or ]
+[(d) The use of personal electronic devices for entertainment purposes. ]
+[(8) Nothing in this section authorizes a district school board, or any  employees of or volunteers
+for the school district or a  school of the school district, to request, require or compel access to a
+student’s electronic mail or personal online accounts. ]
+(6) A school district that does  not comply with this section is considered nonstandard
+under ORS 327.103.
+[2]

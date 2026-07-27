@@ -1,0 +1,279 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3712
+Sponsored by Representative RESCHKE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would change the metrics for real  market value and income so that more people
+will be able to defer property taxes on their homes. (Flesch Readability Score: 63.3).
+Changes the metrics for a homestead’s real market value and  the household income of a claim-
+ant in order to expand eligibility for the homestead property tax deferral program.
+A BILL FOR AN ACT
+Relating to the  homestead property tax deferral program; creating new provisions; and amending
+ORS 311.668 and 311.670.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 311.668 is amended to read:
+311.668. (1)(a) A claim  to defer the property taxes on a homestead that is eligible for deferral
+under ORS 311.670 may be filed with the county assessor in the  manner prescribed under ORS
+311.672 by:
+(A) An individual who is,  or two or more individuals filing a claim jointly each of whom is, 62
+years of age or older on or before April 15 of the calendar year in which the claim is filed; or
+(B) An individual who is a person with a disability as of April  15 of the calendar year in which
+the claim is  filed, regardless of the age of the individual or the age or disability of other individuals
+occupying the homestead.
+(b) If a  guardian or conservator has been appointed for an individual otherwise eligible to claim
+deferral of  taxes under this section, the guardian or conservator may act for the individual in com-
+plying with the provisions of ORS 311.666 to 311.701.
+(c) If a trustee of an inter vivos trust that was created by and is revocable  by an individual,
+who is both the trustor and a beneficiary of the trust and who  is otherwise eligible to claim deferral
+of taxes under this section, owns the fee simple estate under a  recorded instrument of sale, the
+trustee may act for the individual in complying with the provisions of ORS 311.666 to 311.701.
+(d) This section may not be  construed to require the spouse of an individual to file a claim
+jointly with the individual even though the spouse may  be eligible to claim the deferral jointly with
+the individual.
+(2)(a) Notwithstanding subsection (1) of this section, deferral  may not be granted under ORS
+311.666 to 311.701 with respect to a claim filed by individuals who together have, for  the calendar
+year immediately preceding the calendar year in which the claim for deferral is filed:
+(A) Household income of [ $32,000] $80,000 or more; or
+(B) Net worth of $500,000 or more.
+(b) For each tax year beginning on or after July 1, [ 2002] 2027, the Department  of Revenue shall
+recompute the maximum household income under this subsection as follows:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4648
+HB 3712
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Divide the average  Consumer Price Index for All Urban Consumers, West Region, for the
+first six months of the calendar year immediately preceding the calendar year in which the tax year
+begins by the average U.S. City Average  Consumer Price Index for the first six months of [ 2001]
+2026.
+(B) Recompute the maximum household income by multiplying [ $32,000] $80,000 by the  appro-
+priate indexing factor determined under subparagraph (A) of this paragraph.
+(c) Any change in the maximum household income determined under paragraph (b) of  this sub-
+section shall be rounded to the nearest multiple of $500.
+(3)(a) Notwithstanding subsection (1) of this section, deferral  may not be granted under ORS
+311.666 to 311.701 with  respect to a claim if, at the time the claim is filed, property taxes imposed
+on the homestead of any individual filing the claim have been deferred and  are delinquent or have
+been canceled.
+(b) This subsection does not apply to  the claim by a surviving spouse or disabled heir to con-
+tinue deferral under ORS 311.688.
+SECTION 2.
+ ORS 311.670 is amended to read:
+311.670. (1) Property  is not eligible for tax deferral under ORS 311.666 to 311.701 unless, at the
+time a claim is  filed and during the period for which deferral is claimed, the property meets the
+requirements of this section.
+(2)(a) The property for  which the claim is filed must have been the homestead of the individual
+or individuals who file the claim for deferral for at least [ five] three years preceding April 15 of  the
+year in which the claim is filed.
+(b) The [ five-year] three-year requirement under paragraph (a) of this subsection does not apply
+to a homestead that meets all other requirements of this section,  if the individual or individuals
+filing the claim for deferral:
+(A) Are required to be absent from the homestead by reason of health;
+(B)(i) Moved to  the homestead for which the claim is filed from a homestead that was granted
+deferral under ORS 311.666 to 311.701 and was of greater  real market value than the homestead for
+which the claim is filed;
+(ii) Sell the prior homestead within one year of purchasing the homestead  for which the claim
+is filed;
+(iii) Satisfy any lien created under ORS 311.673 or  311.679 and attached to the prior homestead;
+and
+(iv) Provide a written  attestation that the individual or individuals incurred debt for not more
+than 80 percent of the purchase price of the homestead for which the claim is filed; or
+(C) Are a surviving spouse or disabled heir claiming continuation  of deferral under ORS 311.688.
+(3) The  individual claiming the deferral, individually or jointly, must own the fee simple estate
+under a recorded instrument of sale,  or two or more individuals together must own the fee simple
+estate with rights of survivorship under a  recorded instrument of sale if all owners live in the
+property and if all owners apply for the deferral jointly.
+(4)(a) The homestead must be insured for fire and other casualty.
+(b) If the homestead meets all other requirements of this section and is insurable for fire  and
+other casualty but not insured, the  Department of Revenue may purchase insurance for the home-
+stead and add the cost of the insurance coverage to a lien created under ORS 311.679.
+(5) There may be no prohibition to  the deferral of property taxes contained in any provision of
+federal law, rule or regulation  applicable to a mortgage, trust deed, land sale contract or conditional
+[2]
+HB 3712
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+sale contract for which the homestead is security.
+(6) A homestead is not eligible  for deferral under ORS 311.666 to 311.701 unless the real market
+value of the homestead entered  on the certified assessment and tax roll for the property tax year
+immediately preceding the property tax year for which the taxes will be deferred is less than  the
+greater of $250,000 or:
+(a) 100 percent of county median RMV if, as  of April 15 of the year in which a claim is filed,
+the taxpayers have continuously owned and occupied the homestead less than seven years.
+(b) [ 110] 130 percent of county median RMV if, as  of April 15 of the year in which a claim is
+filed, the taxpayers have continuously owned and occupied the homestead at least seven years but
+less than [ nine] 14 years.
+(c) [ 120] 160 percent of county median RMV if,  as of April 15 of the year in which a claim is
+filed, the taxpayers  have continuously owned and occupied the homestead at least [ nine] 14 years
+but less than [ 11] 20 years.
+(d) [ 130] 200 percent of county median RMV if, as  of April 15 of the year in which a claim is
+filed, the taxpayers have continuously owned and occupied the homestead at least [ 11] 20 years but
+less than [ 13] 25 years.
+[(e) 140 percent of county median RMV if, as of April 15 of the  year in which a claim is filed, the
+taxpayers have continuously owned  and occupied the homestead at least 13 years but less than 15
+years.]
+[(f) 150 percent of county median RMV if, as of April 15 of the year in which a  claim is filed, the
+taxpayers have continuously owned and occupied the homestead at least 15 years but  less than 17
+years.]
+[(g) 160 percent of county median RMV if, as of April  15 of the year in which a claim is filed, the
+taxpayers have continuously owned  and occupied the homestead at least 17 years but less than 19
+years.]
+[(h) 170 percent of county median RMV if, as of  April 15 of the year in which a claim is filed, the
+taxpayers have continuously owned and occupied the homestead at least 19 years but  less than 21
+years.]
+[(i) 200 percent of county median RMV if, as of April 15 of the year in which a  claim is filed, the
+taxpayers have continuously owned  and occupied the homestead at least 21 years but less than 23
+years.]
+[(j) 225 percent of county median RMV if, as of April 15 of the year in which a  claim is filed, the
+taxpayers have continuously owned and occupied the homestead at least 23 years but  less than 25
+years.]
+[(k)] (e) 250 percent of county median RMV if, as of April 15 of the year in which a  claim is
+filed, the taxpayers have continuously owned and occupied the homestead for 25 years or more.
+(7)(a) For each tax year beginning on or  after July 1, 2022, the Department of Revenue shall
+recompute the $250,000 minimum cap on allowable real  market value provided under subsection (6)
+of this section as follows:
+(A) Divide the average Consumer Price Index for All Urban Consumers, West  Region, for the
+first six months of the current calendar year by the average Consumer  Price Index for All Urban
+Consumers, West Region, for the first six months of 2021.
+(B) Recompute the minimum cap on allowable real market value by multiplying $250,000  by the
+appropriate indexing factor determined under subparagraph (A) of this paragraph.
+(b) Any change in the minimum cap on allowable real market value  determined under paragraph
+[3]
+HB 3712
+1
+2
+3
+4
+5
+6
+7
+8
+(a) of this subsection shall be rounded to the nearest multiple of $500.
+(8) For purposes of subsection (6) of  this section, a surviving spouse or disabled heir who is el-
+igible to claim continuation of deferral under  ORS 311.688 is considered to have owned and occupied
+the homestead from the date on which the deceased individual or individuals who filed the claim for
+deferral first owned and occupied the homestead.
+SECTION 3.
+The amendments to ORS 311.668 and 311.670 by sections 1 and 2 of this 2025
+Act apply to property tax years beginning on or after July 1, 2026.
+[4]

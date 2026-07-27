@@ -1,0 +1,1674 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb844
+title: 'SB 844 (2025R1): Changes the date by which the Oregon Health Authority report on opioid and opiate
+  overdoses is due to the Legislative Assembly.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 844
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB844/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 846bb7952299ec27cf0b5cbb60178ea24fc956c639686712ea7b1c35990166f6
+snapshot_id: measure-2025r1-sb844-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 161.015
+  - ORS 181A.150
+  - ORS 181A.195
+  - ORS 181A.355
+  - ORS 183.330
+  - ORS 183.745
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 192.685
+  - ORS 292.495
+  - ORS 306.125
+  - ORS 332.002
+  - ORS 334.003
+  - ORS 338.005
+  - ORS 353.010
+  - ORS 413.223
+  - ORS 413.225
+  - ORS 413.550
+  - ORS 413.558
+  - ORS 413.559
+  - ORS 413.561
+  - ORS 414.025
+  - ORS 431.001
+  - ORS 431.003
+  - ORS 432.005
+  - ORS 432.141
+  - ORS 438.010
+  - ORS 438.030
+  - ORS 438.040
+  - ORS 438.050
+  - ORS 438.055
+  - ORS 438.060
+  - ORS 438.070
+  - ORS 438.110
+  - ORS 438.120
+  - ORS 438.130
+  - ORS 438.140
+  - ORS 438.150
+  - ORS 438.160
+  - ORS 438.210
+  - ORS 438.220
+  - ORS 438.310
+  - ORS 438.320
+  - ORS 438.420
+  - ORS 438.430
+  - ORS 438.435
+  - ORS 438.450
+  - ORS 438.510
+  - ORS 438.705
+  - ORS 438.990
+  - ORS 442.015
+  - ORS 443.015
+  - ORS 443.860
+  - ORS 475A.210
+  - ORS 475A.290
+  - ORS 475A.305
+  - ORS 475A.380
+  - ORS 475A.480
+  - ORS 475A.483
+  - ORS 475A.586
+  - ORS 672.002
+  - ORS 672.025
+  - ORS 672.060
+  - ORS 675.365
+  - ORS 675.395
+  - ORS 676.165
+  - ORS 676.177
+  - ORS 676.560
+  - ORS 676.576
+  - ORS 676.595
+  - ORS 676.612
+  - ORS 676.616
+  - ORS 676.630
+  - ORS 676.665
+  - ORS 676.730
+  - ORS 676.750
+  - ORS 676.802
+  - ORS 676.806
+  - ORS 676.992
+  - ORS 678.710
+  - ORS 678.800
+  - ORS 680.200
+  - ORS 680.500
+  - ORS 680.556
+  - ORS 681.700
+  - ORS 681.740
+  - ORS 682.216
+  - ORS 687.405
+  - ORS 687.445
+  - ORS 687.470
+  - ORS 688.240
+  - ORS 688.625
+  - ORS 688.650
+  - ORS 688.701
+  - ORS 688.705
+  - ORS 688.800
+  - ORS 688.820
+  - ORS 690.005
+  - ORS 690.350
+  - ORS 691.405
+  - ORS 691.485
+  - ORS 694.015
+  - ORS 694.042
+  - ORS 700.010
+  - ORS 700.020
+  - ORS 700.025
+  - ORS 700.030
+  - ORS 700.035
+  - ORS 700.050
+  - ORS 700.052
+  - ORS 700.053
+  - ORS 700.059
+  - ORS 700.062
+  - ORS 700.210
+  - ORS 700.220
+  - ORS 700.240
+  - ORS 813.100
+  - ORS 813.160
+  - ORS 813.300
+  - ORS 830.505
+  - ORS 830.520
+  - ORS 830.535
+  - ORS 97.953
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 844
+prefix_meaning: Senate Bill
+catch_line: Changes the date by which the Oregon Health Authority report on opioid and opiate overdoses
+  is due to the Legislative Assembly.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act changes some laws about labs, overdose reports and terms about the\
+  \ environment. The Act makes a new law to keep some information secret. The Act also lets OHA have more\
+  \ contracts for school-based health centers. (Flesch Readability Score: 68.5). \n\tChanges the date\
+  \ by which the Oregon Health Authority report on opioid and opiate overdoses is due to the Legislative\
+  \ Assembly. \n\tChanges the definition of \"hemodialysis technician.\" \n\tRequires the authority to\
+  \ keep confidential specified information related to psilocybin licensees, license applicants and permit\
+  \ holders. \n\tDefines \"environmental health.\" Changes requirements for authorizations for certain\
+  \ environmental health occupations and professions. \n\tAligns state regulations of clinical laboratories\
+  \ with federal law. \n\tBroadens the authority's ability to enter into contracts for purposes of supporting\
+  \ school-based health centers."
+relating_to: Relating to public health.
+relating_to_full: Relating to public health.
+at_the_request_of: (at the request of Governor Tina Kotek for Oregon Health Authority)
+lc_number: 450
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-08-13T10:24:03'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 95879
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 161.015
+  - ORS 181A.150
+  - ORS 181A.195
+  - ORS 181A.355
+  - ORS 183.330
+  - ORS 183.745
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 192.685
+  - ORS 292.495
+  - ORS 306.125
+  - ORS 332.002
+  - ORS 334.003
+  - ORS 338.005
+  - ORS 353.010
+  - ORS 413.223
+  - ORS 413.225
+  - ORS 413.550
+  - ORS 413.558
+  - ORS 413.559
+  - ORS 413.561
+  - ORS 414.025
+  - ORS 431.001
+  - ORS 431.003
+  - ORS 432.005
+  - ORS 432.141
+  - ORS 438.010
+  - ORS 438.030
+  - ORS 438.040
+  - ORS 438.050
+  - ORS 438.055
+  - ORS 438.060
+  - ORS 438.070
+  - ORS 438.110
+  - ORS 438.120
+  - ORS 438.130
+  - ORS 438.140
+  - ORS 438.150
+  - ORS 438.160
+  - ORS 438.210
+  - ORS 438.220
+  - ORS 438.310
+  - ORS 438.320
+  - ORS 438.420
+  - ORS 438.430
+  - ORS 438.435
+  - ORS 438.450
+  - ORS 438.510
+  - ORS 438.705
+  - ORS 438.990
+  - ORS 442.015
+  - ORS 443.015
+  - ORS 443.860
+  - ORS 475A.210
+  - ORS 475A.290
+  - ORS 475A.305
+  - ORS 475A.380
+  - ORS 475A.480
+  - ORS 475A.483
+  - ORS 475A.586
+  - ORS 672.002
+  - ORS 672.025
+  - ORS 672.060
+  - ORS 675.365
+  - ORS 675.395
+  - ORS 676.165
+  - ORS 676.177
+  - ORS 676.560
+  - ORS 676.576
+  - ORS 676.595
+  - ORS 676.612
+  - ORS 676.616
+  - ORS 676.630
+  - ORS 676.665
+  - ORS 676.730
+  - ORS 676.750
+  - ORS 676.802
+  - ORS 676.806
+  - ORS 676.992
+  - ORS 678.710
+  - ORS 678.800
+  - ORS 680.200
+  - ORS 680.500
+  - ORS 680.556
+  - ORS 681.700
+  - ORS 681.740
+  - ORS 682.216
+  - ORS 687.405
+  - ORS 687.445
+  - ORS 687.470
+  - ORS 688.240
+  - ORS 688.625
+  - ORS 688.650
+  - ORS 688.701
+  - ORS 688.705
+  - ORS 688.800
+  - ORS 688.820
+  - ORS 690.005
+  - ORS 690.350
+  - ORS 691.405
+  - ORS 691.485
+  - ORS 694.015
+  - ORS 694.042
+  - ORS 700.010
+  - ORS 700.020
+  - ORS 700.025
+  - ORS 700.030
+  - ORS 700.035
+  - ORS 700.050
+  - ORS 700.052
+  - ORS 700.053
+  - ORS 700.059
+  - ORS 700.062
+  - ORS 700.210
+  - ORS 700.220
+  - ORS 700.240
+  - ORS 813.100
+  - ORS 813.160
+  - ORS 813.300
+  - ORS 830.505
+  - ORS 830.520
+  - ORS 830.535
+  - ORS 97.953
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 844`.
+
+# SB 844 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 844, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for Oregon Health Authority)
+- **LC number:** 450
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-08-13T10:24:03
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 95879 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB844/Enrolled>.
+
+## Summary
+
+**Catchline:** Changes the date by which the Oregon Health Authority report on opioid and opiate overdoses is due to the Legislative Assembly.
+
+**Relating to:** Relating to public health.
+
+Digest: The Act changes some laws about labs, overdose reports and terms about the environment. The Act makes a new law to keep some information secret. The Act also lets OHA have more contracts for school-based health centers. (Flesch Readability Score: 68.5). 
+ Changes the date by which the Oregon Health Authority report on opioid and opiate overdoses is due to the Legislative Assembly. 
+ Changes the definition of "hemodialysis technician." 
+ Requires the authority to keep confidential specified information related to psilocybin licensees, license applicants and permit holders. 
+ Defines "environmental health." Changes requirements for authorizations for certain environmental health occupations and professions. 
+ Aligns state regulations of clinical laboratories with federal law. 
+ Broadens the authority's ability to enter into contracts for purposes of supporting school-based health centers.
+
+**RelatingToFull (verbatim upstream field):** Relating to public health.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 844
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Governor Tina Kotek for Oregon Health Authority)
+CHAPTER .................................................
+AN ACT
+Relating to  public health; creating new provisions; amending ORS 413.223, 413.225, 413.550, 413.561,
+432.141, 438.010, 438.040, 438.060,  438.150, 438.160, 438.220, 438.310, 438.435, 438.450, 438.705,
+438.990, 475A.380, 475A.483, 475A.586, 672.060, 676.177, 676.595, 676.992, 688.625, 700.010, 700.025,
+700.030, 700.035, 700.053, 700.062, 700.220, 700.240, 813.160 and 830.535;  and repealing ORS
+438.030, 438.050, 438.055, 438.070,  438.110, 438.120, 438.130, 438.140, 438.210, 438.320, 438.420,
+438.510, 700.050, 700.052 and 700.059.
+Be It Enacted by the People of the State of Oregon:
+OVERDOSE REPORTING
+SECTION 1.  ORS 432.141 is amended to read:
+432.141. (1) From resources available to the Oregon Health Authority, the authority  shall com-
+pile statistics on the total number of opioid and opiate overdoses and the  total number of opioid and
+opiate overdose related deaths occurring in this state.
+(2) Not less than once every three months, the authority shall report to  the Governor and each
+local health department, as defined in ORS  431.003, the statistics compiled under subsection (1) of
+this section.
+(3) Not later than [ September 15] January 15 of each year, the authority shall report to the in-
+terim committees of the Legislative Assembly related  to health care, in the manner provided by ORS
+192.245, the statistics compiled under subsection (1) of this section for the  immediately preceding
+year. The report must include the most recently available relevant data.
+SECTION 2. (1) The  amendments to ORS 432.141 by section 1 of this 2025 Act first apply
+to the report required under ORS 432.141 (3) in 2027.
+(2) Notwithstanding ORS 432.141 (3), the report required under ORS 432.141 (3) is not  re-
+quired to be submitted in 2026.
+HEMODIALYSIS TECHNICIANS
+SECTION 3.  ORS 688.625 is amended to read:
+688.625. As used in ORS 688.625 to 688.665:
+[(1) “Hemodialysis technician” means a  person certified by the Oregon Health Authority under
+ORS 688.650.]
+Enrolled Senate Bill 844 (SB 844-C) Page 1
+(1)(a) “Hemodialysis technician” means a person who  provides hemodialysis services as
+that term is defined by the Oregon Health Authority by rule.
+(b) “Hemodialysis technician” does not include a licensed health care provider if  the
+provision of hemodialysis services falls within the licensed health  care provider’s scope of
+practice.
+(2) “Outpatient renal dialysis facility” has the meaning given that term in ORS 442.015.
+PSILOCYBIN SERVICES
+NOTE: Sections 4 through 6 were  deleted by amendment. Subsequent sections were not re-
+numbered.
+SECTION 7.  ORS 475A.380 is amended to read:
+475A.380. [ Minimum standards of education and training for psilocybin service facilitators;
+rules.] (1) The Oregon Health Authority shall adopt by rule minimum standards of  education and
+training requirements for psilocybin service facilitators.
+(2) The authority shall approve training program courses for psilocybin service facilitators.
+To obtain  approval of a training program course, the provider of a training program course must
+submit an outline of instruction to the authority. The outline must include the approved training
+program courses, total hours of instruction, hours of lectures in  theory and the hours of instruction
+in application of practical skills.
+SECTION 8.  ORS 475A.483 is amended to read:
+475A.483. [ Issuing, renewing permits;  fees; rules. ] (1) The Oregon Health Authority shall issue
+permits to qualified applicants to perform work described in ORS  475A.480. The authority shall
+adopt rules establishing:
+(a) The qualifications for performing work described in ORS 475A.480;
+(b) The term of a permit issued under this section;
+(c) Procedures for applying for and renewing a permit issued under this section; and
+(d) Reasonable application, issuance and renewal fees for a permit issued under this section.
+(2)(a) The authority may require an individual applying for a permit under this  section to suc-
+cessfully  complete  a training program course, made available by or through the authority, through
+which the individual receives training on:
+(A) Checking identification;
+(B) Detecting intoxication;
+(C) Handling psilocybin products;
+(D) If applicable, the manufacturing of psilocybin products;
+(E) The content  of ORS 475A.210 to 475A.722 and rules adopted under ORS 475A.210 to
+475A.722; or
+(F) Any matter deemed necessary by the authority to protect the public health and safety.
+(b) The authority or other provider of a training program course may  charge a reasonable fee
+for the training program course.
+(c) The authority may not require an individual to successfully complete a training program
+course more than once, except that:
+(A) As part of  a final order suspending a permit issued under this section, the authority may
+require a permit holder to successfully complete the training program  course as a condition of
+lifting the suspension; and
+(B) As part of a final order revoking a  permit issued under this section, the authority shall re-
+quire an individual to successfully complete the training program course prior to applying for  a
+new permit.
+(3) The authority shall conduct a criminal records check under ORS  181A.195 on an individual
+applying for a permit under this section.
+(4) Subject to the applicable provisions of ORS  chapter 183, the authority may suspend, revoke
+or refuse to issue or renew a permit if the individual who is applying for or who holds the permit:
+Enrolled Senate Bill 844 (SB 844-C) Page 2
+(a) Is convicted of a felony or is  convicted of an offense under ORS 475A.210 to 475A.722, except
+that the authority may not consider a  conviction for an offense under ORS 475A.210 to 475A.722 if
+the date of the conviction is two or more years before the date of the application or renewal;
+(b) Violates any provision of ORS 475A.210  to 475A.722 or any rule adopted under ORS 475A.210
+to 475A.722; or
+(c) Makes a false statement to the authority.
+(5) A permit issued under this section is a personal privilege and permits  work described under
+ORS 475A.480 only for the individual who holds the permit.
+SECTION 9.
+ ORS 475A.586 is amended to read:
+475A.586. [ Certain information related to licensure exempt from disclosure. ] (1) Subject to sub-
+section (2) of this section,  information is exempt from public disclosure under ORS 192.311 to 192.478
+if the information is:
+(a) Personally identifiable information, as defined in ORS 432.005;
+(b) The address of a premises for which  a license has been issued or for which an applicant has
+proposed licensure under ORS 475A.290, 475A.305 or 475A.594;
+(c) Related to the security plan or the operational plan for a premises for which a license has
+been issued or for which an applicant  has proposed licensure under ORS 475A.290, 475A.305 or
+475A.594; or
+(d) Related to any  record that the Oregon Health Authority determines contains proprietary
+information of a licensee.
+(2) The exemption from public disclosure as provided by this section does not apply to:
+(a) The name of an individual listed on an application, if the individual is  a direct owner of the
+business operating or to be operated under the license; or
+(b) A request for information if  the request is made by a law enforcement agency , unless the
+information requested is confidential pursuant to section 5 of this 2025 Act .
+(3) For purposes of subsection (2)(a) of this section,  an individual is not a direct owner of the
+business operating or to be operated under the license if:
+(a) The direct owner of the business operating  or to be operated under the license is a legal
+entity; and
+(b) The individual is merely a general partner, limited partner, member, shareholder, or  other
+direct or indirect owner of the legal entity.
+SECTION 9a.
+Section 9 of this 2025 Act (amending ORS 475A.586) is repealed and ORS
+475A.586, as amended by section  13, chapter 147, Oregon Laws 2025 (Enrolled House Bill 2387),
+is amended to read:
+475A.586. (1) Subject to subsection (2) of  this section, information is exempt from public disclo-
+sure under ORS 192.311 to 192.478 if the information is:
+(a) Personally identifiable information, as defined in ORS 432.005;
+(b) The address of a premises for which  a license has been issued or for which an applicant has
+proposed licensure under ORS 475A.290, 475A.305 or 475A.594;
+(c) Related to the security plan or the operational plan for a premises for which a license has
+been issued or for which an applicant has proposed  licensure under ORS 475A.290, 475A.305 or
+475A.594; or
+(d) Related to any record that the Oregon Health Authority  determines contains proprietary
+information of a licensee.
+(2) The exemption from public disclosure as provided by this section does not apply to:
+(a) The name of an individual listed on an application, if the individual is  a direct owner of the
+business operating or to be operated under the license; or
+(b) A request for information if the request is made by a  law enforcement agency, unless the
+information requested is confidential pursuant to section  [3 of this 2025 Act ] 2, chapter 147, Oregon
+Laws 2025 (Enrolled House Bill 2387) .
+(3) For purposes of subsection (2)(a) of this section, an  individual is not a direct owner of the
+business operating or to be operated under the license if:
+Enrolled Senate Bill 844 (SB 844-C) Page 3
+(a) The direct owner of the business operating or to be  operated under the license is a legal
+entity; and
+(b) The  individual is merely a general partner, limited partner, member, shareholder, or other
+direct or indirect owner of the legal entity.
+SECTION 10.  ORS 676.177 is amended to read:
+676.177. (1) For purposes of this section, “public entity” means:
+(a) A board or agency of this state, or  a board or agency of another state with regulatory
+or enforcement functions similar to the functions of a health  professional regulatory board
+of this state;
+(b) A district attorney;
+(c) The Department of Justice;
+(d) A state or local  public body of this state that licenses, franchises or provides emer-
+gency medical services; or
+(e) A law enforcement agency of this state, another state or the federal government.
+[(1)] (2) Notwithstanding any other provision of ORS  676.165 to 676.180 and except as provided
+in subsection (5) of this section, a health professional regulatory board, upon a determination  by the
+board that it  possesses otherwise confidential information that reasonably relates to the regulatory
+or enforcement function of another public  entity, may disclose that information to the other public
+entity.
+[(2)] (3) Any public entity that receives information pursuant to subsection  [ (1)] (2) of this sec-
+tion shall agree to take all reasonable steps to maintain the confidentiality of  the information, ex-
+cept that the public entity may use or disclose  the information to the extent necessary to carry out
+the regulatory or enforcement functions of the public entity.
+[(3) For purposes of this section, “public entity” means: ]
+[(a) A board or agency of this state, or a  board or agency of another state with regulatory or
+enforcement functions similar to the functions of a health professional regulatory board of this state; ]
+[(b) A district attorney; ]
+[(c) The Department of Justice; ]
+[(d) A state or local public body of this state that  licenses, franchises or provides emergency med-
+ical services; or ]
+[(e) A law enforcement agency of this state, another state or the federal government. ]
+(4) Notwithstanding subsections  [(1) to] (2) and (3) of this section, the Oregon Board of Physical
+Therapy may disclose information described in subsection [ (1)] (2) of this section to the Physical
+Therapy Compact Commission established in ORS 688.240.
+(5) A health professional regulatory  board may not disclose the information described in sub-
+section [ (1)] (2) of this section to another public entity if the information relates to the provision
+of or referral for reproductive or gender-affirming health care services.
+(6) A health professional regulatory board may disclose to the Oregon Health  Authority
+information described in subsection (2) of this section. The authority shall take  all reason-
+able steps to maintain the confidentiality of any information received under this  subsection,
+except that the authority may use the information to the extent necessary to carry out its
+regulatory or enforcement functions under ORS 475A.210 to 475A.722.
+SECTION 11.
+The amendments to ORS 475A.380, 475A.483, 475A.586 and 676.177  by
+sections 7 to 10 of this 2025 Act apply to information  obtained by the Oregon Health Au-
+thority or health professional regulatory board on or after  the effective date of this 2025 Act.
+ENVIRONMENTAL HEALTH REGISTRATION BOARD
+SECTION 12.  ORS 700.010 is amended to read:
+700.010. As used in this chapter, unless the context requires otherwise:
+(1) “Board” means the Environmental Health Registration Board, established within  the Health
+Licensing  Office.
+Enrolled Senate Bill 844 (SB 844-C) Page 4
+(2) “Certified professional soil scientist”  means a person registered in good standing with the
+American Registry of Certified Professionals in Agronomy, Crops and Soils.
+(3) “Environmental health” means the art and  science of applying sanitary, biological and
+physical science principles and knowledge to  improve and control the environment and fac-
+tors therein for the protection of the health and welfare of the public.
+[(3)] (4)  “Environmental health specialist” means a person who by education, training and  ex-
+perience in the sanitary,  biological and physical sciences is qualified to perform duties in environ-
+mental [ sanitation] health , including but not limited to scientific investigation and education and
+counseling in environmental [ sanitation] health.
+[(4)] (5)  “Environmental health specialist trainee” means a  person who lacks the combination
+of training, education and experience required  for a registered environmental health specialist, but
+who is engaged in meeting the requirements.
+[(5) “Environmental sanitation” means the art and science  of applying sanitary, biological and
+physical science principles and knowledge to improve  and control the environment and factors therein
+for the protection of the health and welfare of the public. ]
+(6) “Registrant” means any person registered with the office under this chapter.
+(7) “Registration” means written authorization  issued under ORS 700.030 or 700.053 for the
+holder to perform duties in the fields of environmental [ sanitation] health or waste water sanitation.
+[(8) “Science courses relating to environmental sanitation” include courses in public or  community
+health or in sanitary, biological or physical sciences. ]
+[(9)] (8) “Trainee registration” means written authorization issued under ORS 700.035 or  700.062
+for the holder to perform duties as an environmental health specialist trainee or as a  waste water
+specialist trainee.
+[(10)] (9)  “Waste water specialist” means a person who by education,  training and experience
+in the sanitary, biological and physical sciences is qualified to perform duties in the  field of waste
+water treatment, disposal and reuse where soil is used in the final stage of the treatment process.
+[(11)] (10) “Waste water specialist trainee” means a person who lacks the combination of train-
+ing, education and experience  required for a registered waste water specialist, but who is engaged
+in the process of meeting the requirements.
+SECTION 13.
+ ORS 700.025 is amended to read:
+700.025. The provisions of ORS 700.020 (2) do not apply to:
+(1) Any person teaching, lecturing or engaging in research in environmental [ sanitation] health
+but only in so far as such activities are performed as part of an academic position in a college or
+university.
+(2) Any person who is a sanitary engineer, public health engineer or registered professional
+engineer.
+(3) Any public health officer employed pursuant to ORS 431.001 to  431.550, 431.705 to 431.760,
+431.990 and 431A.005 to 431A.020.
+(4) Any person employed by a federal governmental agency but only at such times as  the person
+is carrying out the functions of employment.
+(5) Any person who holds a doctorate in veterinary medicine.
+(6) The performances  of such duties as meat inspection, produce inspection, bee inspection, grain
+warehouse  inspection,  landscaping, gardening, plumbing, septic tank or cesspool installation or in-
+sect and rodent poison application.
+(7) Any employee of the Department  of Environmental Quality other than an on-site waste water
+disposal employee.
+(8) Any person employed by a local government, or its agents, while employed in a job that  did
+not require registration under ORS 700.020 as of October 4, 1997.
+SECTION 14.
+ ORS 700.030 is amended to read:
+700.030. [(1) Subject to ORS  676.612, upon application accompanied by payment of the applicable
+fees established under ORS 676.576, the Health Licensing Office  shall issue a registration to any ap-
+plicant who:]
+Enrolled Senate Bill 844 (SB 844-C) Page 5
+[(a) Performs to the satisfaction of  the Environmental Health Registration Board on an examina-
+tion approved by the board; and ]
+[(b) Furnishes evidence satisfactory to the office that the applicant: ]
+(1) The Health Licensing Office may  issue a registration to practice environmental health
+to an applicant who submits  an application and pays the applicable fees established under
+ORS 676.576. The applicant must also:
+(a) Pass an examination approved by  the Environmental Health Registration Board by
+rule; and
+(b) Submit proof that the applicant:
+(A) Has a bachelor’s degree from an accredited college or university, 45 quarter  hours or the
+equivalent semester hours in science courses [ related to environmental sanitation ] and two  years of
+experience in environmental [ sanitation] health under the supervision of a registered environmental
+health specialist or a person possessing equal qualifications as determined by the board ;
+(B) Has a graduate degree in  public or community health  or another environmental health
+field from an accredited college or  university and one year of experience in environmental [ sanita-
+tion] health  under the supervision of a  registered environmental health specialist  or a person
+possessing equal qualifications as determined by the board ; or
+[(C) Possesses qualifications equivalent to those described in subparagraph (A)  or (B) of this par-
+agraph, as determined by the board by rule. ]
+[(2) For the purpose of meeting the qualifications set forth in subsection (1)(b)(A) of  this section,
+accumulated schooling relevant to environmental sanitation gained while serving in the United  States
+Public Health Service or  a branch of the Armed Forces of the United States may be credited toward
+the educational requirement as evaluated by the current edition of the “Guide  to Evaluation of Educa-
+tional Experiences in the Armed Services” by the American Council on Education. ]
+[(3) The office, in consultation with the board, shall  establish by rule requirements for registration
+as an environmental health specialist when an  individual’s date of employment precedes attainment of
+registration.]
+(C) Has an active credential as a registered environmental  health specialist or a regis-
+tered sanitarian by a national association that is recognized by the board.
+(2) For the purpose of meeting the  education and experience requirements listed in sub-
+section (1)(b) of this section, accumulated  schooling relevant to environmental health gained
+while serving in the United States Public Health Service or a branch of  the Armed Forces
+of the United States may be credited toward an applicant’s educational requirements.  The
+board may use any system it considers reliable in  assigning credit for relevant schooling
+under this subsection, including but  not limited to assigning credit in conformance with the
+American Council on Education Military Guide.
+(3) The office may require an applicant to meet additional requirements by rule to obtain
+an environmental health specialist registration.
+SECTION 15.
+ ORS 700.035 is amended to read:
+700.035. [(1) Subject to ORS 676.612, upon application and payment of  the applicable fees estab-
+lished under ORS 676.576, the Health Licensing Office  shall issue an environmental health specialist
+trainee registration to any  applicant who performs to the satisfaction of the Environmental Health
+Registration Board on an examination  approved by the board and furnishes evidence satisfactory to the
+office that the applicant: ]
+(1) The Health Licensing Office may issue an  environmental health specialist trainee
+registration to an applicant who submits an application and pays the applicable fees estab-
+lished under ORS 676.576. An applicant must also:
+(a) [ Has] Have  a bachelor’s degree and at least 45  quarter hours, or the equivalent semester
+hours, in science courses [ relating to environmental sanitation ] from an  accredited college or uni-
+versity; or
+(b) [ Has] Have  at least  15 quarter hours, or the equivalent semester hours, in science courses
+[relating to environmental sanitation ] from an accredited  college or university and [ has] have at least
+Enrolled Senate Bill 844 (SB 844-C) Page 6
+five years of experience in environmental [ sanitation] health or related activities, as determined by
+the Environmental Health Registration  Board, under the supervision  of a registered environ-
+mental health specialist or a person possessing equal qualifications, as determined by the board.
+[(2) A person may not be  registered as an environmental health specialist trainee for more than two
+years’ full-time employment in the environmental sanitation profession, or the  equivalent hours if em-
+ployment in environmental sanitation is less than full-time or 40 hours per week. ]
+[(3) The office, in consultation with the board, shall  establish by rule requirements for registration
+as an environmental health  specialist trainee when an individual’s date of employment precedes at-
+tainment of registration. ]
+(2) The board may enact rules to require  an examination of applicants for registration
+as an environmental health specialist trainee.
+[(4)] (3) An environmental health specialist trainee shall be supervised  by a registered environ-
+mental health specialist or a person possessing equal qualifications as determined by the board.
+(4) For the purpose of meeting the  education and experience requirements listed in sub-
+section (1) of this section, accumulated schooling relevant to  environmental health gained
+while serving in the  United States Public Health Service or a branch of the Armed Forces
+of the  United States may be credited toward an applicant’s educational requirements. The
+board may use any system it  considers reliable in assigning credit for relevant schooling
+under this subsection, including but not limited to assigning credit  in conformance with the
+American Council on Education Military Guide.
+SECTION 16.  ORS 700.053 is amended to read:
+700.053. [(1) An applicant for registration as a waste water specialist shall submit  an application
+to the Health Licensing Office in the manner required by the  Environmental Health Registration board.
+The application shall be on a form approved by the office, include proof satisfactory  to the board that
+the applicant meets the education and experience requirements under subsection (3) of this section and
+include payment of the applicable fees established under ORS 676.576. ]
+[(2) The office shall issue a registration as a waste  water specialist to an applicant whose appli-
+cation complies with subsection (1) of this section and who successfully completes the examination re-
+quired under subsection  (5) of this section and passes the examination required under subsection (6)
+of this section. ]
+[(3) An applicant for registration as a waste water specialist is required to have: ]
+(1) The Health Licensing Office may issue a  waste water specialist registration to an
+applicant who submits an application and pays the applicable fees  established under ORS
+676.576. An applicant must also:
+(a) Pass an examination approved by  the Environmental Health Registration Board by
+rule; and
+(b) Submit proof that the applicant:
+[(a)] (A) Has a bachelor’s degree from an accredited college or university,  including at least 45
+quarter hours or the equivalent in soil science courses and two years of experience in waste water
+treatment, disposal  and reuse within this state supervised by a registered waste water specialist or
+by an equally qualified person as determined by the board;
+[(b)] (B) Has a  graduate degree in soil science from an accredited college or university and one
+year of experience in waste  water treatment, disposal and reuse within this state supervised by a
+registered waste water specialist or by an equally qualified person as determined by the board; or
+[(c)] (C) Has a graduate degree in soil science from an accredited  college or university and
+[to] is currently [ be] certified as a professional soil scientist.
+[(4) Soil science schooling obtained while serving in  the United States Public Health Service or a
+branch of the Armed Services of the United States may be credited toward the soil science course  re-
+quirement under subsection (3)(a) of this section. The board may use  any system it considers reliable
+in assigning  credit for relevant schooling under this subsection, including but not limited to assigning
+credit in conformance  with the “Guide to Evaluation of Educational Experience in the  Armed
+Services” published by the American Council on Education. ]
+Enrolled Senate Bill 844 (SB 844-C) Page 7
+[(5) The board may, at its discretion, conduct an examination of candidates for registration as
+waste water specialists.  The examination may be on any matter pertaining to the fitness of the applicant
+to be registered as a waste water specialist, but may not duplicate matters covered on  the examination
+required under subsection (6) of this section. ]
+[(6) Every applicant for registration as a waste water specialist shall be given a written or practical
+examination prepared  by the board and designed to test the technical competence of the applicant in
+all major areas of waste water sanitation. ]
+(2) For the purpose of meeting the education requirements listed in subsection (1) of this
+section, accumulated schooling relevant to soil science  gained while serving in the United
+States Public Health Service or a branch of the Armed Forces of the United States may be
+credited toward an applicant’s educational requirements. The board may use any system it
+considers reliable in assigning credit for relevant schooling under this subsection, including
+but not limited to assigning credit in  conformance with the American Council on Education
+Military Guide.
+SECTION 17.
+ ORS 700.062 is amended to read:
+700.062. [(1) Subject to ORS  676.612, upon application and payment of the applicable fees estab-
+lished under ORS 676.576, the Health Licensing Office  shall issue registration as a waste water spe-
+cialist trainee to any applicant who furnishes evidence satisfactory to the office that the applicant: ]
+(1) The Health Licensing Office may  issue a waste water specialist trainee registration
+to an applicant who submits an application and pays the  applicable fees established under
+ORS 676.576. An applicant must also:
+(a) [ Has] Have a bachelor’s degree from an accredited college or university, including at least
+45 quarter hours or the equivalent in soil science courses; or
+(b) [ Has] Have a graduate degree in soil science from an accredited college or university.
+[(2) Soil science schooling obtained while serving in  the United States Public Health Service or a
+branch of the Armed Services of the United States may be credited toward the soil science course  re-
+quirement under this section. The Environmental Health Registration  Board may use any system it
+considers reliable in assigning credit for relevant schooling under  this subsection, including but not
+limited to assigning credit in conformance with the “Guide  to Evaluation of Educational Experience in
+the Armed Services” published by the American Council on Education. ]
+(2) For the purpose of meeting the education requirements listed in subsection (1) of this
+section, accumulated schooling relevant to soil science  gained while serving in the United
+States Public Health Service or a branch of the Armed Forces of the United States may be
+credited toward an applicant’s educational  requirements. The Environmental Health Regis-
+tration Board may use any system it considers reliable in assigning  credit for relevant
+schooling under this subsection, including but not limited to assigning credit in conformance
+with the American Council on Education Military Guide.
+SECTION 18.  ORS 700.220 is amended to read:
+700.220. (1) The members of the Environmental Health Registration Board appointed by  the
+Governor shall be  appointed from among the residents of this state and shall have the following
+qualifications and terms of office:
+(a) One shall be a physician licensed to  practice medicine or surgery by the Oregon Medical
+Board who has an emphasis in public health.
+(b) Four shall be persons registered under this chapter who have at least four  years of experi-
+ence in environmental [ sanitation] health.
+[(c) One shall be a representative of the food or food and alcoholic beverage retail industry. ]
+[(d) One shall be a public member. ]
+(c) Two must be members of the public  who do not possess the same professional quali-
+fications of the other members.
+(2) The term of office  of each member of the Environmental Health Registration Board is four
+years, but a member serves at the pleasure of the Governor. Vacancies shall be filled  by the Gov-
+ernor by appointment for the unexpired term. A member shall hold the member’s office until the
+Enrolled Senate Bill 844 (SB 844-C) Page 8
+appointment and qualification of a successor. A member is eligible  for reappointment. If a person
+serves two consecutive full terms, a  period of at least four years must elapse before the person is
+again eligible for appointment to serve on the board.
+(3) The members of the board are entitled to compensation  and expenses as provided in ORS
+292.495, to be paid from the Environmental Health Registration Account.
+SECTION 19.  ORS 700.240 is amended to read:
+700.240. [(1) The Health Licensing Office, in consultation with  the Environmental Health Regis-
+tration Board, has such authority as  is reasonably necessary to administer this chapter, including the
+authority to adopt rules pursuant to ORS chapter 183. ]
+[(2) The office has authority to administer oaths and subpoena witnesses. ]
+[(3) The office shall keep a record of all proceedings of the office, including a register  of all reg-
+istrants. These records shall at reasonable times be open to the public. ]
+[(4) When the office is satisfied that  an applicant for registration under this chapter has complied
+with all of the requirements thereof, it shall have issued to such  applicant an appropriate certificate
+evidencing registration.]
+(1) The Health Licensing Office may:
+(a) Determine  the qualifications, training, education and fitness of applicants for regis-
+tration, renewal of registrations and reciprocal registrations;
+(b) Adopt  rules that are necessary to conduct its business related to carrying out its
+duties under and in administering this chapter;
+(c) Examine, approve, issue, deny, revoke, suspend and  renew registrations to practice
+environmental health or waste water sanitation under this chapter;
+(d) Provide for waivers of examinations and credentials;
+(e) Provide requirements for temporary registrations as considered appropriate;
+(f) Establish standards for applicants with experience that precedes the  date of applica-
+tion; and
+(g) Limit  the number of renewals for environmental health specialist trainees and waste
+water specialist trainees.
+(2) The Environmental Health Registration Board may:
+(a) Approve examinations for registrations by rule;
+(b) Establish standards  of practice and professional responsibility for persons registered
+by the office;
+(c) Adopt rules that are necessary to carry out this chapter; and
+(d) Establish supervision requirements  for environmental health specialist trainees and
+waste water specialist trainees.
+SECTION 20.
+ ORS 672.060 is amended to read:
+672.060. Registration under ORS 672.002 to 672.325 is not required for the following:
+(1) The performance of work as an employee or a subordinate of a registered  professional engi-
+neer if:
+(a) The work does not include final engineering designs or decisions;
+(b) The work is done under the supervision and  control of and is verified by a registered pro-
+fessional engineer; and
+(c) The employee or subordinate does not by verbal  claim, sign, advertisement, letterhead or
+card or in any  other way imply that the employee or subordinate is or purports to be a professional
+engineer or registered professional engineer.
+(2) The performance of engineering work  by an employee, sole proprietorship, firm, partnership
+or corporation:
+(a) On property owned or leased  by the employer, sole proprietorship, firm, partnership or cor-
+poration, or on property in which the employer, sole proprietorship, firm,  partnership or corporation
+has an interest, estate or possessory right; and
+Enrolled Senate Bill 844 (SB 844-C) Page 9
+(b) That affects exclusively the property or interests of the employer,  sole proprietorship, firm,
+partnership or corporation, unless the performance affects the health or safety of the public  or an
+employee.
+(3) The performance of engineering  work by a person, or by full-time employees of the person,
+if:
+(a) The engineering work is in connection with or incidental  to the operations of the person;
+and
+(b) The engineering work is not offered directly to the public.
+(4) An offer by an employee, sole proprietorship,  firm, partnership or corporation to perform
+engineering work if:
+(a) The employer, sole proprietorship,  firm, partnership or corporation holds a certificate of
+registration to engage in the practice of professional  engineering issued by the proper authority of
+any other state, a territory or possession of the United States or a foreign country; and
+(b) The offer includes a written statement that the offeror is not registered to practice engi-
+neering in the State of Oregon, but will comply with ORS 672.002 to 672.325 by having  an individual
+holding a valid certificate of registration in this state  in responsible charge of the work prior to
+performing any engineering work within this state.
+(5) The offering by a construction  contractor licensed under ORS chapter 701 of services con-
+stituting the performance of engineering work if:
+(a) The services  are appurtenant to construction services to be provided by the construction
+contractor;
+(b) The services constituting the practice of engineering are  performed by an engineer or engi-
+neers registered under ORS 672.002 to 672.325; and
+(c) The offer by the construction contractor discloses in writing that the  contractor is not an
+engineer and identifies  the engineer or engineers that will perform the services constituting the
+practice of engineering.
+(6) The execution of engineering work designed  by a professional engineer or the supervision
+of the construction of engineering work as a foreman or superintendent.
+(7) The making of drawings or specifications for, or the supervision of the erection,  enlargement
+or alteration of, a building, or an appurtenance thereto, if the building has a ground area  of 4,000
+square feet or less and is not more than 20 feet in height from the  top surface of lowest flooring to
+the highest interior overhead finish of  the structure. The exemption in this subsection does not ap-
+ply to a registered professional engineer.
+(8) The making of drawings or specifications for, or the supervision of the erection,  enlargement
+or alteration of, a building, or an appurtenance thereto, if the building is  to be used for a single
+family residential dwelling or farm building or is a  structure used in connection with or auxiliary
+to a single family residential dwelling or farm building, including but  not limited to a three-car ga-
+rage, barn or shed or a shelter used for the  housing of domestic animals or livestock. The exemption
+in this subsection does not apply to a registered professional engineer.
+(9) The performance of work as a registered architect practicing architecture.
+(10) The performance  of work as a registered environmental health specialist or registered en-
+vironmental health specialist trainee working under the supervision of a registered environmental
+health specialist practicing  environmental [ sanitation] health, or a registered waste water specialist
+or registered waste water specialist  trainee working under the supervision of a registered waste
+water specialist practicing waste water sanitation.
+(11) The performance of land surveying work under the supervision of a  registered professional
+land surveyor or registered professional engineer. The exemption in this subsection does  not allow
+an engineer to supervise a land surveying activity the engineer could not personally perform  under
+ORS 672.025.
+(12) The performance of land surveying by a person:
+(a) On property owned or leased by the person, or on property in which the person has an  in-
+terest, estate or possessory right; and
+Enrolled Senate Bill 844 (SB 844-C) Page 10
+(b) That affects exclusively the property or interests  of the person, unless the performance af-
+fects the health or safety of the public or an employee.
+(13) The performance of land surveying work  by a landowner within the boundaries of the
+landowner’s land or by the landowner’s regular employee as part of the  employee’s official duties
+within the boundaries of the land of the employer.
+(14) An offer by a person to perform land surveying if:
+(a) The person holds a certificate of registration to engage in the practice of land  surveying
+issued by the proper authority of any other state, a  territory or possession of the United States or
+a foreign country; and
+(b) The offer includes a written statement that  the offeror is not registered to practice land
+surveying in the State of  Oregon, but will comply with ORS 672.002 to 672.325 by having an indi-
+vidual holding a valid certificate of registration in this state in responsible charge  of the work prior
+to performing any land surveying work within this state.
+(15) An offer by a person to perform photogrammetric mapping if:
+(a) The person holds a certificate of registration to engage in the practice of  professional pho-
+togrammetric mapping issued by the proper authority  of any other state, a territory or possession
+of the United States or a foreign country; and
+(b) The offer includes a written statement that the offeror  is not registered to practice pho-
+togrammetric mapping in the State of Oregon, but will comply with ORS 672.002 to  672.325 by hav-
+ing an individual holding a valid certificate  of registration in this state in responsible charge of the
+work prior to performing any photogrammetric mapping work within this state.
+(16) The transcription of existing georeferenced  data into a Geographic Information System or
+Land Information System format by manual or electronic means,  and the maintenance of that data,
+if the data are clearly not intended  to indicate the authoritative location of property boundaries, the
+precise shape or contour of the earth or the precise location of fixed works of humans.
+(17) Activities  under ORS 306.125 or 308.245. This exemption applies to the transcription of tax
+maps, zoning maps and other  public data records into Geographic Information System or Land In-
+formation System formatted cadastre and the maintenance of those cadastre, if:
+(a) The data are not modified for other than graphical purposes; and
+(b) The data are clearly not intended to authoritatively represent property boundaries.
+(18) The  preparation of maps or the compilation of databases depicting the distribution of na-
+tural or cultural resources, features or phenomena, if the maps  or data are not intended to indicate
+the authoritative location  of property boundaries, the precise shape or contour of the earth or the
+precise location of fixed works by humans.
+(19) The preparation by a federal agency or its contractors of military maps, quadrangle
+topographic maps, satellite imagery or other maps  or images that do not define real property
+boundaries.
+(20) The preparation  or transcription by a federal agency or its contractors of documents or
+databases into a Geographical Information System or Land  Information System format, including but
+not limited to the preparation or transcription of federal census and other demographic data.
+(21) The preparation by a law enforcement agency  or its contractors of documents or maps for
+traffic accidents, crime  scenes or similar purposes depicting physical features or events or generat-
+ing or using georeferenced data involving crime statistics or criminal activities.
+(22) Activities of a peace officer, as defined in ORS 161.015,  or a fire service professional, as
+defined in ORS 181A.355, in conducting, reporting on or testifying  about or otherwise performing
+duties regarding an official investigation.
+(23) The creation of general maps prepared for private firms or governmental agencies:
+(a) For use as guides to motorists, boaters, aviators or pedestrians;
+(b) For publication in a gazetteer or an atlas as an educational tool or reference publication;
+(c) For use in the curriculum of any course of study;
+(d) If produced by any electronic or print media, for use as an illustrative  guide to the ge-
+ographic location of any event; or
+Enrolled Senate Bill 844 (SB 844-C) Page 11
+(e) If prepared for conversational or illustrative purposes, including but not limited  to for use
+as advertising material or user guides.
+SECTION 21.  ORS 676.595 is amended to read:
+676.595. (1) As used in this section, “board” means the:
+(a) Sexual Offense Treatment Board established under ORS 675.395.
+(b) Behavior Analysis Regulatory Board created under ORS 676.806.
+(c) Long Term Care Administrators Board established under ORS 678.800.
+(d) State Board of Denture Technology established under ORS 680.556.
+(e) State Board of Direct Entry Midwifery established under ORS 687.470.
+(f) Board of Athletic Trainers established under ORS 688.705.
+(g) Respiratory  Therapist and Polysomnographic Technologist Licensing Board established under
+ORS 688.820.
+(h) Board of Licensed Dietitians established under ORS 691.485.
+(i) Environmental Health Registration Board established under ORS 700.210.
+(2) Except to the extent that disclosure is necessary to conduct a full and proper investigation,
+the Health Licensing Office may not  disclose information, including complaints and information
+identifying complainants, obtained by the office as part of an investigation conducted under:
+(a) ORS 675.365 to 675.410, 676.802  to 676.830, 678.710 to 678.820, 680.500 to 680.565, 687.405 to
+687.495, 688.701 to 688.734, 688.800 to 688.840 or 691.405 to 691.485 or ORS chapter 700.
+(b) ORS 676.560 to 676.625 if the investigation is related to the regulation of:
+(A) Sexual abuse specific treatment under ORS 675.365 to 675.410;
+(B) Applied behavior analysis under ORS 676.802 to 676.830;
+(C) Nursing home administration and residential care facility administration under  ORS 678.710
+to 678.820;
+(D) The practice of denture technology under ORS 680.500 to 680.565;
+(E) Direct entry midwifery under ORS 687.405 to 687.495;
+(F) Athletic training under ORS 688.701 to 688.734;
+(G) Respiratory care and polysomnography under ORS 688.800 to 688.840;
+(H) Dietetics under ORS 691.405 to 691.485; or
+(I) Environmental health or waste water sanitation under ORS chapter 700.
+(3) Notwithstanding subsection (2) of this section, if the office or board decides not  to impose
+a disciplinary sanction after conducting an investigation described in subsection (2) of this section:
+(a) The office shall disclose  information obtained as part of the investigation if the person re-
+questing the information demonstrates by clear and convincing  evidence that the public interest in
+disclosure outweighs other  interests in nondisclosure, including the public interest in nondisclosure.
+(b) The office may disclose to a complainant who made a complaint related to the  investigation
+a written summary of information  obtained as part of the investigation to the extent that disclosure
+is necessary to explain the office’s or  board’s decision. The person who is the subject of the inves-
+tigation may review and obtain a copy of a  written summary disclosed under this paragraph after
+the office has redacted any information identifying the complainant.
+(4) Notwithstanding subsection (2) of this section, if a decision is made to impose  a disciplinary
+sanction and to issue a notice of intent  to impose a disciplinary sanction after conducting an in-
+vestigation described in subsection (2) of this section, upon written request  by the person who is the
+subject of the investigation, the office shall disclose to the  person all information obtained by the
+office or board during the investigation, except that the office may not disclose:
+(a) Information that is otherwise privileged or confidential under state or federal law.
+(b) Information identifying a person who provided information  that led to the investigation, un-
+less the person will provide testimony at a hearing arising out of the investigation.
+(c) Information identifying a complainant.
+(d) Reports of expert witnesses.
+Enrolled Senate Bill 844 (SB 844-C) Page 12
+(5) Information disclosed  to a person under subsection (4) of this section may be further dis-
+closed by the  person only to the extent that disclosure is necessary to prepare for a hearing arising
+out of the investigation.
+(6) The office shall disclose:
+(a) Any notice related to the imposition of a disciplinary sanction.
+(b) A final order related to the imposition of a disciplinary sanction.
+(c) An emergency suspension order.
+(d) A consent order or stipulated agreement that involves the conduct of a  person against whom
+discipline is sought.
+(e) Information to further an investigation into board conduct under ORS 192.685.
+(7) The office or board must summarize the  factual basis for the office’s or board’s disposition
+of:
+(a) A final order related to the imposition of a disciplinary sanction;
+(b) An emergency suspension order; or
+(c) A consent order or stipulated agreement that involves the conduct of a person  against whom
+discipline is sought.
+(8)(a) An office or board record or  order, or any part of an office or board record or order, that
+is obtained during an investigation  described in subsection (2) of this section, during a contested
+case proceeding or as a result of entering into  a consent order or stipulated agreement is not ad-
+missible as evidence and may not preclude an issue or claim in a civil proceeding.
+(b) This subsection does not  apply to a proceeding between the office or board and a person
+against whom discipline is sought as otherwise authorized by law.
+(9)(a) Notwithstanding subsection (2) of this section, the office is not publicly disclosing  infor-
+mation when the office permits  other public officials and members of the press to attend executive
+sessions where information obtained as part of an investigation  is discussed. Public officials and
+members of the press attending such  executive sessions may not disclose information obtained as
+part of an investigation to any other member of the public.
+(b) For purposes of  this subsection, “public official” means a member, member-elect or employee
+of a public entity as defined in ORS 676.177.
+(10) The  office may establish fees reasonably calculated to reimburse the actual cost of disclos-
+ing information to a  person against whom discipline is sought as required by subsection (4) of this
+section.
+SECTION 22.
+ ORS 676.992 is amended to read:
+676.992. (1) Except as provided in subsection (3) of this section, and  in addition to any other
+penalty or remedy provided by law, the Health Licensing Office may impose a civil  penalty not to
+exceed $5,000 for each violation  of the following statutes and any rule adopted under the following
+statutes:
+(a) ORS 688.701 to 688.734 (athletic training);
+(b) ORS 690.005 to 690.225 (cosmetology);
+(c) ORS 680.500 to 680.565 (denture technology);
+(d) Subject to ORS 676.616 and 687.445, ORS 687.405 to 687.495 (direct entry midwifery);
+(e) ORS 690.350 to  690.410 (tattooing, electrolysis, body piercing, earlobe piercing, dermal im-
+planting and scarification);
+(f) ORS 694.015 to 694.170 (dealing in hearing aids);
+(g) ORS 688.800 to 688.840 (respiratory therapy and polysomnography);
+(h) ORS chapter 700 (environmental [ sanitation] health);
+(i) ORS 675.365 to 675.410 (sexual abuse specific treatment);
+(j) ORS 678.710 to 678.820 (nursing home administrators and residential care facility adminis-
+trators);
+(k) ORS 691.405 to 691.485 (dietitians);
+(L) ORS 676.612 (prohibited acts);
+(m) ORS 676.802 to 676.830 (applied behavior analysis);
+Enrolled Senate Bill 844 (SB 844-C) Page 13
+(n) ORS 681.700 to 681.730 (music therapy);
+(o) ORS 676.630 to 676.660 (advanced nonablative esthetics procedure);
+(p) ORS 681.740 to 681.758 (art therapy);
+(q) ORS 676.665 to 676.689 (lactation consultation);
+(r) ORS 676.730 to 676.748 (genetic counseling); and
+(s) ORS 676.750 to 676.789 (signed language interpretation).
+(2) The office  may take any other disciplinary action that it finds proper, including but not
+limited to assessment of costs of disciplinary proceedings, not to exceed $5,000, for violation of any
+statute listed in subsection (1) of this section or any rule  adopted under any statute listed in sub-
+section (1) of this section.
+(3) Subsection (1) of this section does not limit the amount of the civil penalty resulting from a
+violation of ORS 694.042.
+(4) In imposing a civil penalty under this  section, the office shall consider the following factors:
+(a) The immediacy and extent to which the violation threatens the public health or safety;
+(b) Any prior violations of statutes, rules or orders;
+(c) The history of the person incurring a penalty in taking all feasible steps to correct any  vi-
+olation; and
+(d) Any other aggravating or mitigating factors.
+(5) Civil penalties under this section shall be imposed as provided in ORS 183.745.
+(6) The moneys received by the office from  civil penalties under this section shall be deposited
+in the Health Licensing Office Account and are continuously appropriated to the office for  the ad-
+ministration and enforcement of the laws the office  is charged with administering and enforcing that
+govern the person against whom the penalty was imposed.
+SECTION 23.
+ORS 700.050, 700.052 and 700.059 are repealed.
+SECTION 24. The repeal of ORS  700.050, 700.052 and 700.059 by section 23 of this 2025 Act
+applies to individuals who submit an application to practice as an environmental  health spe-
+cialist or waste water specialist on or after the effective date of this 2025 Act.
+SECTION 25.  The amendments to ORS 700.220 by section 18 of this 2025 Act apply to
+members of the Environmental Health Registration Board appointed on or  after the effective
+date of this 2025 Act.
+CLINICAL LABORATORIES
+SECTION 26.  ORS 438.010, as amended by section  89, chapter 73, Oregon Laws 2024, is
+amended to read:
+438.010. As used in ORS 438.010 to 438.510, unless the context requires otherwise:
+(1) “Authority” means the Oregon Health Authority.
+(2) “Certificate” means a certificate  issued by the authority or the federal government
+to a clinical laboratory in accordance with the Clinical Laboratory  Improvement Amend-
+ments of 1988 (P.L. 100-578, 42 U.S.C. 201 and 263a).
+[(2)] (3) “Clinical laboratory” or “laboratory” means  a facility where the microbiological,
+serological, chemical, hematological, immunohematological,  immunological, toxicological,
+cytogenetical, exfoliative cytological, histological, pathological  or other examinations are performed
+on materials derived from the human body, for  the purpose of diagnosis, prevention of disease or
+treatment of patients by physicians, dentists and other persons who are authorized  by license to
+diagnose or treat humans.
+[(3) “Clinical laboratory specialty” or “laboratory specialty” means the examination of  materials
+derived from the  human body for the purpose of diagnosis and treatment of patients or assessment of
+health, employing one of the following sciences: Serology, microbiology, chemistry, hematology,
+immunohematology, immunology, toxicology, cytogenetics, exfoliative cytology, histology or pathology. ]
+[(4) “Clinician” means a nurse practitioner  licensed by the Oregon State Board of Nursing, or a
+physician associate licensed by the Oregon Medical Board. ]
+Enrolled Senate Bill 844 (SB 844-C) Page 14
+[(5)] (4) “Custody chain” means the handling of specimens in a way that supports legal testimony
+to prove  that the sample integrity and identification of the sample have not been violated, as well
+as the documentation describing those procedures from specimen collection to the final report.
+[(6)] (5)  “Dentist” means a person licensed to practice  dentistry by the Oregon Board of
+Dentistry.
+[(7) “Director of clinical laboratory” or  “director” means the person who plans, organizes, directs
+and participates in any or all of the technical operations of a clinical laboratory, including  but not
+limited to reviewing laboratory procedures and their results, training and supervising laboratory  per-
+sonnel, and evaluating the technical competency of such personnel. ]
+[(8)] (6)  “Health  screen testing” means tests performed for the purpose of identifying health
+risks, providing health information and referring the person being tested to medical care.
+[(9) “High complexity laboratory” means a facility  that performs testing classified as highly com-
+plex in the specialties of microbiology, chemistry, hematology, diagnostic  immunology,
+immunohematology, clinical cytogenetics, cytology, histopathology, oral pathology,  pathology,
+radiobioassay and histocompatibility and that may also perform moderate complexity tests and waived
+tests.]
+[(10) “High complexity test” means a procedure performed  on materials derived from the human
+body that meet the criteria for this category  of testing in the specialties of microbiology, chemistry,
+hematology, immunohematology, diagnostic immunology, clinical cytogenetics,  cytology, histopathology,
+oral pathology, pathology, radiobioassay and histocompatibility as established by the authority. ]
+[(11) “Laboratory evaluation system” means a system of testing clinical laboratory  methods, proce-
+dures and proficiency by periodic performance and reporting on test specimens submitted for examina-
+tion.]
+[(12) “Moderate complexity laboratory” means a facility that performs testing classified as  moder-
+ately complex in the specialties of microbiology, hematology, chemistry, immunohematology  or diag-
+nostic immunology and may also perform any waived test. ]
+[(13) “Moderate complexity test” means a procedure performed on materials  derived from the hu-
+man body that meet the criteria for this category of testing in the specialties of  microbiology,
+hematology, chemistry, immunohematology or diagnostic immunology as established by the authority. ]
+[(14)] (7) “Operator of a substances of abuse on-site  screening facility” or “operator” means the
+person who plans, organizes, directs and participates in any or  all of the technical and administra-
+tive operations of a substances of abuse on-site screening facility.
+[(15) “Owner of a clinical laboratory” means the person who owns the clinical laboratory, or a
+county or  municipality operating a clinical laboratory or the owner of any institution operating a
+clinical laboratory.]
+[(16)] (8)  “Physician” means a person licensed to practice medicine  by the Oregon Medical
+Board.
+[(17) “Physician performed microscopy procedure” means a test personally performed  by a physi-
+cian or other clinician during a patient’s visit on  a specimen obtained during the examination of the
+patient.]
+[(18) “Physician performed microscopy procedures”  means a limited group of tests that are per-
+formed only by a physician or clinician. ]
+[(19)] (9) “Specimen” means materials derived from a human being or body.
+[(20)] (10) “Substances of abuse” means ethanol, cannabis and controlled substances.
+[(21)] (11) “Substances of abuse on-site screening facility” or “on-site facility” means a  location
+where on-site tests are performed on specimens for the purpose of screening for the detection of
+substances of abuse.
+[(22)] (12) “Substances of abuse on-site screening test” or “on-site test”  means a substances of
+abuse test that is easily portable and can meet the  requirements of the federal Food and Drug Ad-
+ministration for commercial distribution or an alcohol screening test  that meets the requirements
+of [ the conforming  products list found in ] the United States Department of Transportation National
+Highway Traffic Safety Administration for conforming products.  [ Docket No. 94-004 and  meets the
+Enrolled Senate Bill 844 (SB 844-C) Page 15
+standards of the United States Department of  Transportation Alcohol Testing Procedure, 49 C.F.R.
+part 40, in effect on October 23, 1999. ]
+[(23) “Waived test” means a procedure performed on materials derived from the human  body that
+meet the criteria for this category of testing as established by the authority. ]
+SECTION 27.  ORS 438.040 is amended to read:
+438.040. [It is unlawful: ]
+[(1) For any owner or director of a clinical laboratory  to operate or maintain a clinical laboratory
+without a license issued under ORS 438.110 or without a temporary permit issued  under ORS 438.150
+or to perform or permit the performance of any laboratory specialty for which the laboratory is  not li-
+censed except as specified under ORS  438.050, unless the laboratory has been issued a valid certificate
+from the federal government under the Clinical Laboratory  Improvement Amendments of 1988 (P.L.
+100-578, 42 U.S.C. 201 and 263a).]
+[(2) For an  out-of-state laboratory to perform health screen testing in Oregon without a permit is-
+sued under ORS 438.150 (5). ]
+[(3) For any person to serve in the capacity of director of  a clinical laboratory without being
+qualified as a clinical laboratory director under ORS 438.210. ]
+(1) The Oregon Health Authority shall verify the qualifications of each  clinical laboratory
+in this state and shall issue or facilitate the issuance of a certificate to a  clinical laboratory
+that satisfies the requirements  of the Clinical Laboratory Improvement Amendments of 1988
+(P.L. 100-578, 42 U.S.C. 201 and 263a).
+(2) A clinical laboratory may not operate in this  state without a certificate issued by the
+authority or the federal government under this section.
+SECTION 28.  ORS 438.060 is amended to read:
+438.060. [Notwithstanding ORS 438.050, any person  performing health screen testing must obtain
+a permit under  ORS 438.150 (5). However, an employer providing health screen testing to employees
+of the employer is exempt from the applications of ORS 438.010, 438.130, 438.150  and this section if
+such employer contracts for the testing through  a licensed physician, a clinical laboratory or a hospital,
+which is a permittee of the Oregon Health Authority as provided in this section. ]
+(1) Except as provided in subsection (2) of this section, a clinical laboratory in  this state
+or out of this state may not perform health screen testing in this state without a  permit
+issued by the Oregon Health Authority under ORS 438.150.
+(2) An employer may enter into a contract with a third party to  provide health screen
+testing to the employees of the employer if the  third party has a permit issued under ORS
+438.150.
+SECTION 29.  ORS 438.150 is amended to read:
+438.150. [(1) In addition to  the license of a clinical laboratory required by ORS 438.040, the Oregon
+Health Authority may issue  a temporary permit valid for a period, to be determined by the authority,
+from the date of issuance in any or all clinical laboratory specialties upon payment  of the respective
+required fees as described in ORS 438.130 (2). ]
+[(2) In issuing the temporary permit, the authority may require that: ]
+[(a) Plans for compliance with applicable laws and rules be submitted with the application for  the
+temporary permit; ]
+[(b) During the period in which the temporary permit is  in effect periodic reports be submitted on
+the progress of the plans for compliance; and ]
+[(c) Special temporary  provisions specified by the authority upon application of the temporary per-
+mit be maintained for the protection of the public. ]
+[(3) If at any time the authority determines that the clinical laboratory can no longer  operate in a
+manner that protects the public health and safety or that the requirements imposed under subsection
+(2) of this section are not being maintained, the authority shall cancel the temporary permit. ]
+[(4) One renewal of the temporary permit may be granted if deemed to be in the  best interest of
+public health by the authority. The fee for renewal is the  respective required fee as described in ORS
+438.130 (2).]
+Enrolled Senate Bill 844 (SB 844-C) Page 16
+[(5) The authority may issue permits for health screen testing. ]
+[(6) The authority by rule shall specify: ]
+[(a) Appropriate quality assurance procedures; ]
+[(b) Personnel qualifications; ]
+[(c) Standards for counseling and referral of persons being tested; ]
+[(d) Tests a health testing service may conduct; ]
+[(e) The procedure for applying for a permit; and ]
+[(f) The procedure for reporting to the authority the location of all health screening facilities. ]
+[(7) The authority by rule may specify the maximum  length of time a health screen testing service
+may remain in one location. ]
+(1)(a) A clinical laboratory may apply for a permit  to conduct health screen testing by
+submitting an application to the Oregon Health Authority.
+(b) The authority may issue a permit to a  clinical laboratory to conduct health screen
+testing if the clinical laboratory satisfies the requirements  established by the authority by
+rule under subsection (2) of this section.
+(2) The authority shall adopt rules to administer this section,  including rules establish-
+ing:
+(a) Application procedures and permit eligibility requirements,  including an application
+fee, permit fee or both;
+(b) Appropriate quality assurance practices;
+(c) Personnel qualifications;
+(d) A list of tests that a clinical laboratory may conduct;
+(e) Counseling and referral standards for persons being tested; and
+(f) Reporting standards for clinical laboratories to  notify the authority of the location
+of any health screen testing facilities.
+(3) The authority may establish by rule a maximum  period of time a clinical laboratory
+conducting health screen tests may remain in a single location.
+SECTION 30.
+ ORS 438.160 is amended to read:
+438.160. [Subject to  ORS chapter 183, the Oregon Health Authority may refuse to issue or renew
+the license,  or may suspend or revoke the license or health screen testing permit, of a clinical laboratory
+if it finds that the owner or director has: ]
+Subject to ORS chapter 183, the Oregon Health Authority may refuse to issue or renew
+or may suspend or revoke a certificate  described in ORS 438.040, a permit for health screen
+testing described in ORS 438.150 or a permit for substances of abuse on-site screening testing
+described in ORS 438.435 if the authority  finds that the owner or director of the clinical
+laboratory or substances of abuse on-site screening facility has:
+(1) Intentionally made false statements on an  application for a certificate described in ORS
+438.040, a permit for health screen testing described ORS 438.150, a permit  for substances
+of abuse on-site screening testing described in ORS 438.435  [ clinical laboratory license ] or  any
+other documents required by the authority, or made any misrepresentation in seeking to  obtain or
+retain a [ license] certificate or permit .
+(2) Demonstrated incompetence  as defined pursuant to regulations promulgated after public
+hearing.
+(3) Intentionally falsified any report.
+(4) Referred a specimen for examination to [ a nonlicensed  or an unlicensed ] an uncertified
+clinical laboratory in this state  unless the laboratory is exempt from the application of ORS 438.010
+to 438.510.
+(5) Misrepresented the scope of laboratory service offered by the  clinical laboratory [ or the
+clinical laboratory specialties authorized by the license ] or authorized by the certificate .
+(6) Rendered  a report on clinical laboratory work actually performed in another clinical labo-
+ratory without designating  the name and address of the clinical laboratory in which the test was
+performed.
+Enrolled Senate Bill 844 (SB 844-C) Page 17
+(7) Knowingly  had professional connection with or permitted the use of the name of the
+[licensed] clinical laboratory or its director by a clinical laboratory that  is required to but has not
+obtained a [ license] certificate .
+(8) Failed  to perform or cause to be performed within the time specified analysis of test samples
+[as authorized by ORS 438.320, ] or  failed to report on the results of such analysis within the speci-
+fied time.
+(9) Failed to permit within  a reasonable time the entry or inspection authorized [ by ORS
+438.310.] under the certificate.
+[(10) Failed to continue to meet requirements of ORS 438.110 and 438.120. ]
+[(11)] (10) Violated any provision of ORS 438.010 to 438.510.
+SECTION 31.  ORS 438.220 is amended to read:
+438.220. [Notwithstanding ORS 438.210, a ] A  person is qualified to act as the  laboratory director
+of the clinical laboratory at any accredited chiropractic college in this state for the benefit of
+chiropractic patients if that person is a chiropractic physician licensed by  the State Board of
+Chiropractic Examiners, and  possesses special qualifications, as determined by the State Board of
+Chiropractic Examiners, that enable that person to perform as a laboratory director.
+SECTION 32.
+ ORS 438.310 is amended to read:
+438.310. [(1)] The Oregon Health Authority or its authorized representative may[ :]
+[(a) At reasonable times enter the premises of  a clinical laboratory licensed or subject to being li-
+censed under ORS 438.010 to 438.510 to inspect the facilities, methods, procedures,  materials, staff,
+equipment, laboratory results and records of the clinical laboratory. ]
+[(b) Require the owner or director to submit reports on the operations and procedures of  the labo-
+ratory.]
+[(c) Require ] require  the owner or director  of a clinical  laboratory certified under ORS
+438.040 to submit initial laboratory findings indicative of communicable disease as defined by  law
+or by  rule. Each report shall include the name of the person from whom the specimen was obtained,
+if the name was reported to the laboratory, and the name and address of the physician for  whom
+such examination or test was made. Such reports shall not be construed as  constituting a diagnosis
+nor shall any laboratory making such report be held liable under the laws of this state for having
+violated a trust or confidential relationship.
+[(2) The Director of the Oregon Health Authority or a designee, the authority, or any employee
+thereof, shall not disclose information contained in reports  on communicable diseases submitted to the
+authority under subsection (1) of this section except as such information is  made available to employees
+of the authority and to local health officers for purposes of administering the public health laws of this
+state. However, information contained in such reports may be used in  compiling statistical and other
+data in which persons are not identified by name or otherwise. ]
+[(3) The authority shall by rule set standards for  the recognition of private laboratory accrediting
+organizations whose standards meet or exceed  federal standards. A laboratory that is accredited by a
+private laboratory accrediting organization recognized by the  authority under this section may submit
+proof of such accreditation to the authority. Upon receipt of such proof, the authority  shall issue a li-
+cense pursuant to ORS 438.130. ]
+SECTION 33.
+ ORS 438.435 is amended to read:
+438.435. [(1) In addition to duties which a  clinical laboratory may perform under ORS 438.010 to
+438.510, a laboratory  is authorized to perform appropriate tests, examinations or analyses on materials
+derived from the human body for the purpose of detecting substances  of abuse in the body. All labo-
+ratories performing the  tests, examinations or analyses must be licensed under the provisions of ORS
+438.010 to 438.510 and must employ qualified technical personnel to perform the tests, examinations and
+analyses.]
+[(2) In order  to perform such tests, examinations or analyses, the laboratory may examine speci-
+mens submitted by persons other than those described in ORS 438.430 (1) and shall  report the result
+of any test, examination or analysis  to the person who submitted the specimen. When the substance of
+Enrolled Senate Bill 844 (SB 844-C) Page 18
+abuse test is  for nonmedical employment or pre-employment purposes, and a written request is provided,
+the test result shall be reported to the person from whom the specimen was originally obtained. ]
+[(3) When the specimen of a person tested for substances of abuse is submitted to  the laboratory
+and the test result is positive, the laboratory shall perform a  confirming test which has been designated
+by rule of  the Oregon Health Authority as the best available technology for use to determine whether
+or not the substance of abuse identified by the  first test is present in the specimen prior to reporting
+the test results. ]
+[(4)] (1)  The Oregon Health Authority by rule shall set  standards for [ special category labora-
+tories] substances of abuse  on-site screening facilities  that engage only in the initial testing for
+substances of abuse in the body, including  [ registration procedures for such laboratories and person-
+nel] application procedures and permit eligibility requirements for a facility to obtain a per-
+mit to conduct substances of abuse on-site screening tests .
+[(5)] (2) The operator of a substances of abuse on-site screening facility may use substances of
+abuse on-site screening tests if the test results are not for use in diagnosing  or preventing disease
+and are not for use by physicians, dentists or other licensed health care professionals  in treating
+humans. Any entity  using the test shall pay a yearly filing fee[ , not to exceed $50, ] established by
+rule by the authority,  and file a [ registration] permit application form as provided by rule of  the
+authority  that:
+(a) States the current name and address of the entity,  the telephone number of the entity, if any,
+and the name of a contact individual at each on-site facility operated by the entity; and
+(b) Certifies that:
+(A) The tests  are being administered according to the federal Food and Drug Administration
+package insert that accompanies the test;
+(B) The tests are being administered according to the instructions of the manufacturer;
+(C) Custody chain procedures are being followed;
+(D) Operators of the substances of abuse on-site screening facility are trained in the use  of the
+substances of abuse on-site screening tests by the manufacturer; and
+(E) If the substances of  abuse on-site screening facility obtains a positive test result on a spec-
+imen and the entity indicates that the test result is to be  used to deny or deprive any person of
+employment or any benefit, or may otherwise result in adverse employment  action, the same speci-
+men shall be submitted to a clinical laboratory [ licensed under ORS 438.110 and  438.150] certified
+under ORS 438.040 or  an equivalent out-of-state facility and the presence of a substance of abuse
+confirmed prior to release of the on-site test result.
+[(6)] (3)  The authority by rule shall set reasonable standards for [ the] substances of abuse
+on-site screening by correctional agencies of adults in custody within state and local correctional
+facilities and offenders on parole, probation or post-prison supervision  for substances of abuse. The
+standards shall include, but not be limited to, the  establishment of written procedures and protocols,
+the qualifications and training of individuals who perform  screening tests, the approval of specific
+technologies and the minimum requirements for record keeping, quality control and confirmation of
+positive screening results.
+[(7)] (4) If  an initial test by a [ special category laboratory under subsection (4) of this section or
+a special category screening under subsection (6) of this section ] substances  of abuse on-site
+screening facility shows a result indicating  the presence of a substance of abuse in the body, a
+confirmatory test shall be conducted in a [ licensed] clinical laboratory  certified under ORS 438.040
+if the results are to be used to deprive or  deny any person of any employment or benefit. If a
+screening test of an adult in custody in  a state or local correctional facility is positive for a sub-
+stance of abuse, the adult in custody may be held in a  secure facility pending the outcome of the
+confirmatory test. If the confirmatory test is positive, the adult in custody may be  held in a secure
+facility pending the outcome of any hearing to determine what action will be taken.
+[(8)] (5)  If any test for substances of abuse is performed outside this  state the results of which
+are to be used to deprive or  deny any person any employment or any benefit, the person desiring
+Enrolled Senate Bill 844 (SB 844-C) Page 19
+to use the test shall have the burden to show that the testing procedure used meets  or exceeds the
+testing standards of this state.
+(6) Notwithstanding the provisions of  this section, a clinical laboratory certified under
+ORS 438.040 may perform substances of abuse on-site screening testing.
+SECTION 34.  ORS 438.450 is amended to read:
+438.450. The Oregon Health Authority  shall make such rules as are necessary for carrying out
+ORS 438.010 to [ 438.510 in accordance with ORS 183.330. ] 438.450.
+SECTION 35.  ORS 438.705 is amended to read:
+438.705. As used in ORS 438.705 to 438.720 and 438.994:
+(1) “Anatomical material” means the body of a dead human or a cell,  group of cells or body part
+taken from the body of a dead human.
+(2) “Donor” has the meaning given that term in ORS 97.953.
+(3)(a) “Nontransplant anatomical research recovery organization” means  a person that engages
+in the recovery or distribution of anatomical material from a donor for research or education pur-
+poses other than transplanting the anatomical material or therapy.
+(b) “Nontransplant anatomical research recovery organization” does not include:
+(A) A hospital or other health care facility, as those terms are defined in ORS 442.015;
+(B) A public corporation, as defined in ORS 353.010;
+(C) A public or private institution of higher education; or
+(D) A clinical laboratory, as defined in ORS 438.010, that is:
+(i) [ Licensed] Certified under ORS 438.010 to 438.510; and
+(ii) Owned or controlled by, or under common  ownership with, a hospital described in subpara-
+graph (A) of this paragraph.
+SECTION 36.
+ ORS 438.990 is amended to read:
+438.990. Violation of [ any provision of ] ORS 438.040 [ or 438.510] is a Class A misdemeanor. Each
+day of continuing violation shall be considered a separate offense.
+SECTION 37. ORS 438.030, 438.050, 438.055, 438.070, 438.110, 438.120, 438.130, 438.140,
+438.210, 438.320, 438.420 and 438.510 are repealed.
+SECTION 38.  ORS 413.550 is amended to read:
+413.550. As used in ORS 413.550 to 413.559:
+(1) “Certified health care interpreter” means an  individual who has been approved and certified
+by the Oregon Health Authority under ORS 413.558.
+(2) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(3) “Health care” means medical, surgical, oral or hospital care  or any other remedial care re-
+cognized by state law, including physical and behavioral health care.
+(4)(a) “Health care interpreter” means an individual who is readily able to:
+(A) Communicate in English  and communicate with a person with limited English proficiency
+or who communicates in signed language;
+(B) Accurately  interpret the oral statements of a person with limited English proficiency, or the
+statements of a person who communicates in signed language, into English;
+(C) Accurately interpret oral statements in  English to a person with limited English proficiency
+or who communicates in signed language;
+(D) Sight translate documents from a person with limited English proficiency; and
+(E) Interpret the oral statements of other persons into the language of  the person with limited
+English proficiency or into signed language.
+(b) “Health care interpreter” also includes an individual who can provide the services described
+in paragraph (a) of this subsection using relay or indirect interpretation.
+(5) “Health  care interpreter registry” means the registry described in ORS 413.558 that is ad-
+ministered by the authority.
+(6)(a) “Health care provider” means any of the following that are reimbursed  with public funds,
+in whole or in part:
+(A) An individual licensed or certified by the:
+Enrolled Senate Bill 844 (SB 844-C) Page 20
+(i) State Board of Examiners for Speech-Language Pathology and Audiology;
+(ii) State Board of Chiropractic Examiners;
+(iii) State Board of Licensed Social Workers;
+(iv) Oregon Board of Licensed Professional Counselors and Therapists;
+(v) Oregon Board of Dentistry;
+(vi) State Board of Massage Therapists;
+(vii) Oregon Board of Naturopathic Medicine;
+(viii) Oregon State Board of Nursing;
+(ix) Oregon Board of Optometry;
+(x) State Board of Pharmacy;
+(xi) Oregon Medical Board;
+(xii) Occupational Therapy Licensing Board;
+(xiii) Oregon Board of Physical Therapy;
+(xiv) Oregon Board of Psychology;
+(xv) Board of Medical Imaging;
+(xvi) State Board of Direct Entry Midwifery;
+(xvii) Respiratory Therapist and Polysomnographic Technologist Licensing Board;
+(xviii) Board of Registered Polysomnographic Technologists;
+(xix) Board of Licensed Dietitians; and
+(xx) State Mortuary and Cemetery Board;
+(B) An emergency medical services provider licensed by the Oregon Health Authority under
+ORS 682.216;
+(C) A clinical laboratory [ licensed under ORS 438.110 ] certified under ORS 438.040 ;
+(D) A health care facility as defined in ORS 442.015;
+(E) A home health agency licensed under ORS 443.015;
+(F) A hospice program licensed under ORS 443.860; or
+(G) Any other person that provides health care or that bills for or  is compensated for health
+care provided, in the normal course of business.
+(b) “Health care provider” does not include any individual listed in paragraph (a) of this sub-
+section when providing services as an employee of or under contract with:
+(A) A school district, as defined in ORS 332.002;
+(B) A public charter school, as defined in ORS 338.005; or
+(C) An education service district, as defined in ORS 334.003.
+(7) “Interpretation service company” means an entity,  or a person acting on behalf of an entity,
+that is in the business of arranging for health care interpreters to work with health care providers
+in this state.
+(8) “Person with limited English proficiency” means a person  who, by reason of place of birth
+or culture, communicates in a language other  than English and does not communicate in English
+with adequate ability to communicate effectively with a health care provider.
+(9) “Prepaid managed care health services organization” has the  meaning given that term in
+ORS 414.025.
+(10) “Qualified health care interpreter” means an individual  who has been issued a valid letter
+of qualification from the authority under ORS 413.558.
+(11) “Sight translate” means to translate a written document into spoken or signed language.
+SECTION 39.
+ ORS 413.561 is amended to read:
+413.561. ORS 413.559 may be enforced by any means permitted under law by:
+(1) A health professional regulatory board with  respect to a health care provider under the ju-
+risdiction of the board.
+(2) The Oregon Health Authority or the Department of  Human Services with regard to health
+care providers or facilities regulated by the authority  or the department and health care providers
+enrolled in the medical assistance program.
+Enrolled Senate Bill 844 (SB 844-C) Page 21
+(3) The authority with regard to emergency  medical services providers licensed under ORS
+682.216 and clinical laboratories [ licensed under ORS 438.110 ] certified under ORS 438.040.
+SECTION 40.  ORS 813.160 is amended to read:
+813.160. (1) A chemical analysis is valid under ORS 813.300 if:
+(a) It is an analysis of a person’s blood for alcohol content and is performed in:
+(A) A laboratory certified or accredited under 42 C.F.R. part 493 and approved for toxicology
+testing;
+(B) A laboratory  [ licensed under ORS 438.110 ] certified under ORS 438.040  and approved for
+toxicology testing; or
+(C) A forensic laboratory established by the Department of State Police under ORS 181A.150
+that is accredited by a national forensic accrediting organization.
+(b) It is an  analysis of a person’s breath and is performed by an individual possessing a valid
+permit to perform chemical  analyses issued by the Department of State Police and is performed ac-
+cording to methods approved by the Department of State Police. For purposes of this paragraph,
+the Department of State Police shall do all of the following:
+(A) Approve methods of performing chemical analyses of a person’s breath.
+(B) Prepare manuals and conduct courses throughout the state for the training of police officers
+in chemical analyses of a person’s breath, which courses shall include, but are not limited to,  ap-
+proved methods of chemical analyses, use of approved equipment and  interpretation of test results
+together with a written examination on these subjects.
+(C) Test and certify the accuracy of equipment  to be used by police officers for chemical ana-
+lyses of a person’s breath before regular use of the equipment and periodically thereafter at  inter-
+vals of not more than  90 days. Tests and certification required by this subparagraph must be
+conducted by trained  technicians. Certification under this subparagraph does not require a signed
+document.
+(D) Ascertain the qualifications and competence of individuals to  conduct chemical analyses in
+accordance with one or more methods approved by the department.
+(E) Issue permits  to individuals according to their qualifications. Permits may be issued to police
+officers only upon  satisfactory completion of the prescribed training course and written examination.
+A permit must state the methods and equipment that the police officer is qualified to  use. Permits
+are subject to termination or revocation at the discretion of the Department of State Police.
+(2) In conducting a  chemical test of the blood, only a duly licensed physician or a person acting
+under the direction or control of a duly licensed physician may withdraw  blood or pierce human
+tissue. A licensed physician, or a qualified person acting under the direction or control of  a duly
+licensed physician, is  not civilly liable for withdrawing any bodily substance, in a medically ac-
+ceptable manner, at the request of a peace officer.
+(3) An individual who  performs a chemical analysis of breath or blood under ORS 813.100 or
+813.140 shall prepare and sign a written  report of the findings of the test that must include the
+identification of the police officer upon whose request the test was administered.
+(4) Any individual having  custody of the report mentioned in subsection (3) of this section shall,
+upon request of the person tested, furnish that person or that person’s attorney, a copy of the report.
+(5) The expense of conducting a chemical  test as provided by ORS 813.100 or 813.140 must be
+paid by the governmental unit on whose  equipment the test is conducted or by the governmental
+unit upon whose request the test was administered if no governmental  unit’s equipment is used to
+conduct the test.
+SECTION 41.
+ ORS 830.535 is amended to read:
+830.535. (1) A chemical analysis is valid under ORS 830.505, 830.520 or 830.525 if:
+(a) It is an analysis of a person’s blood for alcohol content and is performed in:
+(A) A laboratory certified or accredited under 42 C.F.R. part 493 and approved for toxicology
+testing;
+(B) A laboratory  [ licensed under ORS 438.110 ] certified under ORS 438.040  and approved for
+toxicology testing; or
+Enrolled Senate Bill 844 (SB 844-C) Page 22
+(C) A forensic laboratory established by the Department of State Police under ORS 181A.150
+that is accredited by a national forensic accrediting organization.
+(b) It is an analysis of a person’s breath and is performed by an individual  possessing a valid
+permit to perform chemical analyses issued by the Department of State Police under ORS 813.160
+or by the State Marine Board under the provisions of this  section. Chemical analyses must be per-
+formed according to methods approved  by the Department of State Police under ORS 813.160 or
+approved by the board under this section. For purposes of this  section, the board shall do all of the
+following:
+(A) Approve methods of performing chemical analyses of a person’s breath.
+(B) Prepare manuals and conduct  courses throughout the state for the training of peace officers
+in chemical analyses of a person’s breath, which courses shall include, but are not limited to,  ap-
+proved methods of chemical analyses, use of approved equipment and  interpretation of test results
+together with a written examination on these subjects.
+(C) Test and certify the accuracy of equipment to be used by  peace officers for chemical ana-
+lyses of a person’s breath before regular use of the equipment and periodically thereafter at  inter-
+vals of not more than  90 days. Tests and certification required by this subparagraph must be
+conducted by trained technicians.
+(D) Ascertain the qualifications and  competence of individuals to conduct chemical analyses in
+accordance with one or  more methods approved by the board or by the Department of State Police
+under ORS 813.160.
+(E) Issue permits to individuals according to  their qualifications. Permits may be issued to peace
+officers only upon  satisfactory completion of the prescribed training course and written examination.
+A permit must state the methods and equipment that the peace  officer is qualified to use. Permits
+are subject to termination or revocation at the discretion of the board.
+(2) In conducting a  chemical test of the blood, only a duly licensed physician or a person acting
+under the direction or control of a duly licensed physician may withdraw  blood or pierce human
+tissue. A licensed physician, or a qualified person acting under the direction or control of  a duly
+licensed physician, is  not civilly liable for withdrawing any bodily substance, in a medically ac-
+ceptable manner, at the request of a peace officer.
+(3) An individual who performs a chemical  analysis of breath or blood under ORS 830.505,
+830.520 or 830.525 shall prepare and sign a  written report of the findings of the test. A test admin-
+istered at the request of a peace officer must  include the identification of the peace officer upon
+whose request the test was administered.
+(4) Any individual having  custody of the report mentioned in subsection (3) of this section shall,
+upon request of the person tested, furnish a copy  of the report to that person or that person’s at-
+torney.
+(5) The expense of conducting a chemical  test as provided by ORS 830.505 or 830.520 must be
+paid by the governmental units on whose equipment  the test is conducted or by the governmental
+units upon whose request the test was administered if no  governmental unit’s equipment is used to
+conduct the test.
+SCHOOL-BASED HEALTH CENTERS
+SECTION 42.
+ ORS 413.223 is amended to read:
+413.223. The division of the Oregon Health Authority that is charged with public health  func-
+tions:
+(1) Shall develop and continuously refine a system of care that:
+(a) Meets the developmental needs of adolescents;
+(b) Promotes evidence-based practices for children; and
+(c) Prioritizes public health through activities such as:
+(A) Establishing certification and performance standards;
+(B) Collecting and analyzing clinical data;
+Enrolled Senate Bill 844 (SB 844-C) Page 23
+(C) Conducting ongoing assessments and special studies; and
+(D) Defining a statewide planning and development process.
+(2) Shall adopt by rule the procedures and criteria  for the certification, suspension and decer-
+tification of school-based health centers. The procedures must  allow certified school-based health
+centers a reasonable period of time to cure any defects  in compliance prior to the suspension or
+decertification of the school-based health center.
+(3) Shall convene work groups to recommend best practices for school-based health centers  with
+respect to electronic health records, billing, joint purchasing, business  models and patient centered
+primary care home identification.
+(4)(a) May, in addition to the  duties described in subsection (1) of this section, enter into [ a
+contract with an entity that coordinates  the efforts of school-based health centers ] contracts with
+entities for the purpose of providing  assistance to school-based health centers that receive grant
+moneys under ORS 413.225.
+(b) A contract entered into under this subsection must require the entity to:
+(A) Provide technical assistance and community-specific  ongoing training to school-based health
+centers, school districts and education service districts;
+(B) Assist school-based health  centers in improving business practices, including practices re-
+lated to billing and efficiencies;
+(C) Assist school-based health centers in  expanding their relationships with coordinated care
+organizations, sponsors of medical care for school-age children  and other community-based providers
+of school-based health and mental health services; and
+(D) Facilitate the integration of  health and education policies and programs at the local level
+so that school-based health centers operate in an optimal environment.
+SECTION 43.
+ ORS 413.225 is amended to read:
+413.225. (1) As used in this section:
+(a) “Community health  center or safety net clinic” means a nonprofit medical clinic or school-
+based health  center that provides primary physical health, vision, dental or mental health services
+to low-income patients without charge or using a sliding scale based on the income of the patient.
+(b) “School-based health center” means a health clinic that:
+(A) Is located on the grounds  of a school in a school district or on the grounds of a school op-
+erated by a federally recognized Indian tribe or tribal organization;
+(B) Is organized through collaboration among youth, schools, communities  and health providers,
+including public health authorities;
+(C) Is administered by a county, state, federal or private organization  that ensures that certif-
+ication requirements are met and  provides project funding through grants, contracts, billing or other
+sources of funds;
+(D) Is operated exclusively for the purpose of providing health services such as:
+(i) Primary care;
+(ii) Preventive health care;
+(iii) Management and monitoring of chronic health conditions;
+(iv) Behavioral health care;
+(v) Oral health care;
+(vi) Health education services; and
+(vii) The administration  of vaccines recommended by the Centers for Disease Control and Pre-
+vention;
+(E) Provides health services to children and adolescents by  licensed or certified health profes-
+sionals; and
+(F) May provide one or more health services to children and adolescents by:
+(i) A student enrolled in a professional medical, nursing or dental program at  an accredited
+university if the health service is within the student’s field of study and training; or
+(ii) An expanded practice dental hygienist  holding a permit issued under ORS 680.200 for oral
+health care.
+Enrolled Senate Bill 844 (SB 844-C) Page 24
+(2)(a) The Oregon Health Authority shall award grants to community health centers or  safety
+net clinics, including school-based health centers, to ensure the capacity  of each grantee to provide
+health care services to underserved or vulnerable populations.
+(b) The authority shall work with the Centers  for Medicare and Medicaid Services and
+stakeholders to identify additional sources of  funding for school-based health center expenditures for
+which federal financial participation is available under Title XIX or Title XXI of the Social  Security
+Act.
+(3) The  authority shall provide outreach for the Cover All People program, including develop-
+ment and administration  of an application assistance program, and including grants to provide
+funding to organizations and local groups for outreach  and enrollment activities for the program,
+within the limits of funds provided by the Legislative Assembly for this purpose.
+(4) The authority shall, using funds allocated by the Legislative Assembly:
+(a) Provide funds for the expansion and continuation of school-based  health centers that are
+operating on July 29, 2013, and that become certified under ORS 413.223;
+(b) Direct funds  to communities with certified school-based health centers and to communities
+planning for certified school-based health centers; and
+(c) Create a pool of funds available to provide financial incentives to:
+(A) Increase the number of school-based  health centers identified as patient centered primary
+care homes without requiring school-based health centers to be identified as  patient centered pri-
+mary care homes;
+(B) Improve the coordination of the care of patients served by coordinated care  organizations
+and school-based health centers; and
+(C) Improve the effectiveness of the delivery of health services through school-based  health
+centers to children who qualify for medical assistance.
+(5) The  authority shall by rule adopt criteria for awarding grants and providing funds in ac-
+cordance with this section.
+(6) The authority shall analyze and evaluate the implementation  of the Cover All People pro-
+gram.
+CAPTIONS
+SECTION 44.
+The unit captions used in this 2025 Act are provided  only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2025 Act.
+Enrolled Senate Bill 844 (SB 844-C) Page 25
+Passed by Senate June 23, 2025
+Repassed by Senate June 27, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 26, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 844 (SB 844-C) Page 26
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 161.015, ORS 181A.150, ORS 181A.195, ORS 181A.355, ORS 183.330, ORS 183.745, ORS 192.245, ORS 192.311, ORS 192.685, ORS 292.495, ORS 306.125, ORS 332.002, ORS 334.003, ORS 338.005, ORS 353.010, ORS 413.223, ORS 413.225, ORS 413.550, ORS 413.558, ORS 413.559, ORS 413.561, ORS 414.025, ORS 431.001, ORS 431.003, ORS 432.005, ORS 432.141, ORS 438.010, ORS 438.030, ORS 438.040, ORS 438.050, ORS 438.055, ORS 438.060, ORS 438.070, ORS 438.110, ORS 438.120, ORS 438.130, ORS 438.140, ORS 438.150, ORS 438.160, ORS 438.210, ORS 438.220, ORS 438.310, ORS 438.320, ORS 438.420, ORS 438.430, ORS 438.435, ORS 438.450, ORS 438.510, ORS 438.705, ORS 438.990, ORS 442.015, ORS 443.015, ORS 443.860, ORS 475A.210, ORS 475A.290, ORS 475A.305, ORS 475A.380, ORS 475A.480, ORS 475A.483, ORS 475A.586, ORS 672.002, ORS 672.025, ORS 672.060, ORS 675.365, ORS 675.395, ORS 676.165, ORS 676.177, ORS 676.560, ORS 676.576, ORS 676.595, ORS 676.612, ORS 676.616, ORS 676.630, ORS 676.665, ORS 676.730, ORS 676.750, ORS 676.802, ORS 676.806, ORS 676.992, ORS 678.710, ORS 678.800, ORS 680.200, ORS 680.500, ORS 680.556, ORS 681.700, ORS 681.740, ORS 682.216, ORS 687.405, ORS 687.445, ORS 687.470, ORS 688.240, ORS 688.625, ORS 688.650, ORS 688.701, ORS 688.705, ORS 688.800, ORS 688.820, ORS 690.005, ORS 690.350, ORS 691.405, ORS 691.485, ORS 694.015, ORS 694.042, ORS 700.010, ORS 700.020, ORS 700.025, ORS 700.030, ORS 700.035, ORS 700.050, ORS 700.052, ORS 700.053, ORS 700.059, ORS 700.062, ORS 700.210, ORS 700.220, ORS 700.240, ORS 813.100, ORS 813.160, ORS 813.300, ORS 830.505, ORS 830.520, ORS 830.535, ORS 97.953
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `846bb7952299ec27cf0b5cbb60178ea24fc956c639686712ea7b1c35990166f6` (snapshot `_meta/snapshots/measure-2025r1-sb844-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB844/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `2966d47ae1c8b2f25678becc0370d26192f8b1528a6d486788e03b68dd7e52cb` (snapshot `_meta/snapshots/measure-2025r1-sb844-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB844/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 844` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

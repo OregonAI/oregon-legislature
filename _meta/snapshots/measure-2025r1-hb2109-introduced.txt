@@ -1,0 +1,153 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2109
+Sponsored by Representative RESCHKE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes the net tax threshold higher for  a penalty for stating income tax is lower
+than it is really is. (Flesch Readability Score: 69.1).
+Increases the threshold amount of understated income tax above which a penalty applies.
+Applies to tax years beginning on or after January 1, 2025.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to the penalty for understatement of net tax; creating new provisions; amending ORS
+314.402; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 314.402 is amended to read:
+314.402. (1) If the Department of Revenue determines that there  is a substantial understatement
+of net tax for  any tax year under any law imposing a tax on or measured by net income, there shall
+be added  to the amount of tax required to be shown on the return a penalty equal to 20 percent of
+the amount of any underpayment of tax attributable to the understatement.
+(2)(a) A substantial understatement of net  tax exists for any tax year if the amount of the
+understatement for the tax year exceeds  $1 million. [:]
+[(a) Except as provided in paragraph (b) of this subsection, $2,400. ]
+[(b) In the case of a corporation other than an S corporation, as defined in section 1361  of the
+Internal Revenue Code, or a personal holding company, as defined in  section 542 of the Internal Re-
+venue Code, $3,500. ]
+[(c)(A) ] (b)(A) For  a calendar year beginning on or after January 1, [ 2017] 2027, the Department
+of Revenue shall make a cost-of-living adjustment to the net tax threshold amounts  described in
+[paragraphs (a) and (b) ] paragraph (a) of this subsection.
+(B) The cost-of-living adjustment  for a calendar year is the percentage by which the monthly
+averaged U.S. City  Average Consumer Price Index for the 12 consecutive months ending August 31
+of the prior calendar year  exceeds the monthly averaged index for the period beginning September
+1, [2015] 2025, and ending August 31, [ 2016] 2026.
+(C) As used in this paragraph, “U.S. City Average Consumer Price Index” means the  U.S. City
+Average Consumer Price Index for All Urban Consumers (All  Items) as published by the Bureau of
+Labor Statistics of the United States Department of Labor.
+(D) If any adjustment  determined under subparagraph (B) of this paragraph is not a multiple of
+$50, the adjustment shall be rounded to the next lower multiple of $50.
+(E) The adjustment shall apply to all  tax years beginning in the calendar year for which the
+adjustment is made.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2179
+HB 2109
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+(3) In the case of any item attributable to an abusive tax shelter:
+(a) [ No] A reduction of the amount of the understatement [ shall] may not  be made with  regard
+to that item  regardless of the existence of substantial authority for the treatment of the item by the
+taxpayer.
+(b) [ No] A reduction of the amount of the understatement [ shall] may not  be made with  regard
+to that item regardless of  the disclosure of the facts affecting the tax treatment of the item unless,
+in addition to the disclosure, the taxpayer reasonably believed that the tax treatment of  the item
+was more likely than not the proper treatment.
+(4) As used in this section:
+(a) “Abusive tax shelter” means any partnership, corporation or other organization  or entity,
+any investment plan or arrangement or any other plan  or arrangement, which has as its principal
+purpose the evasion or  improper avoidance of federal or state income tax. “Abusive tax shelter”
+includes any investment  or activity in connection with which tax benefits derived by investors are
+not clearly intended under the tax laws or any investment or activity that involves little or no
+economic reality, making use of unrealistic allocations of income or expenses, inflated appraisals  of
+asset values, losses substantially in excess of investment, mismatching of income and expenses, fi-
+nancing techniques that do not conform to standard commercial business practice  or mischaracter-
+ization of the substance of the investment or activity.
+(b) “Understatement” means the excess of the amount of the net tax  required to be shown on
+the return for the tax year over the amount of the net tax shown  on the return, reduced by any
+portion of the understatement that is attributable to:
+(A) The tax treatment of any  item by the taxpayer if there is or was substantial authority for
+such treatment; or
+(B) Any item with respect to which:
+(i) The relevant facts affecting the item’s tax treatment are adequately  disclosed in the return
+or in a statement attached to the return; and
+(ii) There is a reasonable basis for the tax treatment of the item by the taxpayer.
+(5) The penalty imposed under this section is in addition to any other penalty imposed  by law.
+A penalty imposed under this section shall be treated for all purposes as an additional deficiency
+subject to the provisions of ORS 305.265, but shall not bear interest.
+(6) The department may waive all or any part of the penalty imposed under this section on  a
+showing by the taxpayer that  there was reasonable cause for the understatement, or any portion
+thereof, and that the taxpayer acted in good faith.
+SECTION 2.
+The amendments to ORS 314.402 by section 1 of this 2025 Act apply  to tax
+years beginning on or after January 1, 2025.
+SECTION 3. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

@@ -1,0 +1,87 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 984
+Sponsored by Senator STARR
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act amends where battery-charged fences are allowed. (Flesch  Readability Score:
+61.2).
+Allows battery-charged fences on properties not used as residences.
+A BILL FOR AN ACT
+Relating to  the use of land within an urban growth boundary; creating new provisions; and amending
+ORS 195.870.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 195.870 is amended to read:
+195.870. (1) As used in this section:
+(a) “Alarm system” means any electrical, mechanical  or electronic device or sensor used to
+prevent, detect or alert law enforcement or occupants of burglary, theft, or intrusion of  a structure
+or a vehicle used as a commercial structure.
+(b) “Battery-charged fence” means a fence that interfaces with an alarm system in a manner that
+enables the fence to cause the connected alarm system to transmit a signal intended to summon law
+enforcement in response to an intrusion and has an energizer that is driven by battery.
+(c) “IEC standards” means the standards set by the International Electrotechnical  Commission
+as most recently published on or before January 1, 2021.
+(2) A battery-charged fence:
+(a) Must use a battery that is not more than 12 volts of direct current;
+(b) Must produce an electric charge on contact  that does not exceed energizer characteristics
+set for electric fence energizers by IEC standards;
+(c) Must be  surrounded by a nonelectric perimeter fence or wall that is not less than five feet
+in height;
+(d) May not be higher than the greater of 10 feet in height or two feet higher than  the height
+of the nonelectric perimeter fence or wall; and
+(e) Must be marked with conspicuous warning signs that are located on the fence at not more
+than 30-foot intervals and that read: “WARNING: ELECTRIC FENCE.”
+(3) Except as required by state building  code, a local government, as defined in ORS 197.015,
+may not adopt or  enforce any ordinance, land use regulation or building code for property [ not zoned
+or used ] within an urban growth boundary that is zoned to allow for commercial or industrial
+use and not used  for residential use that:
+(a) Prohibits the installation or use of a battery-charged fence.
+(b) Imposes  installation or operational requirements inconsistent with IEC standards or this
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4253
+SB 984
+1
+2
+3
+4
+5
+section for an alarm system or battery-charged fence.
+(c) Requires a  permit for the installation or use of a battery-charged fence that is additional to
+an alarm system permit issued by the local government.
+SECTION 2.
+ORS 195.870 is added to and made a part of ORS chapter 197A.
+[2]

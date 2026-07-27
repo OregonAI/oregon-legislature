@@ -1,0 +1,78 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2735
+Sponsored by Representative RUIZ, Senators WEBER, GORSEK; Senator MEEK (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The  Act removes the annual cap on matching funds for IDA holders and creates a cap
+on total matching funds. (Flesch Readability Score: 71.2).
+Removes the  annual cap on matching funds that an individual development account holder may
+accrue. Establishes a cap on total matching funds that the account  holder may accrue. Provides for
+the modification of the cap to account for effects of inflation.
+A BILL FOR AN ACT
+Relating to individual development accounts; amending ORS 458.690.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 458.690 is amended to read:
+458.690. (1) A  fiduciary organization selected under ORS 458.695 may qualify as the recipient
+of account  contributions that qualify the contributor for a tax credit under ORS 315.271 only if the
+fiduciary organization matches amounts deposited by the account holder according to  a formula es-
+tablished by the  fiduciary organization of not less than $1 nor more than $5 for each $1 deposited
+by the account holder. The matching funds must be deposited into a designated  account that is
+controlled by the fiduciary organization and is separate from the savings account of the account
+holder.
+(2) [ Account holders may not accrue  more than $6,000 of matching funds under subsection (1) of
+this section from state-directed moneys in any 12-month period. A fiduciary organization may  designate
+a lower amount as a limit on  annual matching funds. ] A fiduciary organization shall maintain on
+deposit sufficient funds to cover the matching deposit agreements for  all individual development
+accounts managed by the organization.
+[(3) The Housing and Community Services Department  shall adopt rules to establish a maximum
+total amount of state-directed moneys that may be deposited as matching funds into an  individual de-
+velopment account.]
+(3)(a) The maximum total amount of state-directed moneys that may be deposited  as
+matching funds into an individual development account is $20,000, as adjusted  under para-
+graph (b) of this subsection.
+(b) To account for effects of inflation, the Housing and Community Services  Department
+shall, by rule, annually adjust the  dollar amount specified in paragraph (a) of this subsection
+based on  the Consumer Price Index for All Urban Consumers, West Region (All Items), as
+published by the Bureau of Labor Statistics of the United States Department of Labor.
+(4) The Housing and Community Services Department  shall provide information to the Depart-
+ment of Revenue about all individual development  account contributors that are qualified for a tax
+credit under ORS 315.271, if required by ORS 315.058.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3549
+HB 2735
+1
+[2]

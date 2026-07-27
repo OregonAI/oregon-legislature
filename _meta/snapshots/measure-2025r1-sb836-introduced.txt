@@ -1,0 +1,427 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 836
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Governor Tina Kotek for State Department of Geology and Mineral Industries)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act increases fees charged by DOGAMI. (Flesch Readability Score: 66.7).
+Increases fees charged by the State Department of Geology and Mineral Industries.
+A BILL FOR AN ACT
+Relating to fees imposed by the State Department of Geology and  Mineral Industries; amending ORS
+517.705, 517.710, 517.753, 517.800, 517.973, 520.017, 522.055 and 522.115.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 517.705 is amended to read:
+517.705. (1) A person may not  engage in onshore exploration that disturbs more than one surface
+acre or involves drilling to greater than 50 feet  except in compliance with a permit issued by the
+State Department of Geology and Mineral Industries under this section.
+(2) An application for an onshore exploration permit must include:
+(a) The name and address of the surface owner and mineral owner.
+(b) The names and addresses of the persons conducting the exploration.
+(c) The name and address of any designated agent.
+(d) A brief description of the exploration activities, including:
+(A) The amount of road to be constructed;
+(B) The number, depth and location of proposed drill holes;
+(C) The number, depth and location of proposed monitoring wells; and
+(D) The number, length, width and depth of exploration trenches.
+(e) Provisions for the reclamation of surface disturbance caused by exploration activities.
+(f) Exploration drill hole or monitoring well abandonment procedures, including:
+(A) The capping of all holes;
+(B) The plugging of any hole producing surface flow; and
+(C) Appropriate sealing for any holes which have encountered aquifers.
+(g) An exploration boundary map with the  location of the proposed exploration and delineation
+of exploration boundaries.
+(h) Such other  information as the department by rule may require to assess the impacts of the
+proposed  exploration.
+(i) A nonrefundable fee of [ $2,000] $5,000 per application.
+(3) Each permit application may include a single  contiguous exploration boundary that is no
+more than 640 acres.
+(4) Any production records, mineral assessments or trade secrets submitted as part  of the ap-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 424
+SB 836
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+plication under subsection (2) of this section are confidential.
+SECTION 2.
+ ORS 517.710 is amended to read:
+517.710. (1) If the person conducting an exploration under a permit issued  under ORS 517.705 is
+not in  violation of ORS 517.702 to 517.740 or 517.810 or any terms of the permit and has paid an
+annual renewal fee  not to exceed [ $1,460] $3,500 prior to the anniversary date of the permit as es-
+tablished by the State Department of Geology and Mineral Industries,  the department shall renew
+the permit.
+(2) Nothing in this section prevents the department from suspending or revoking  a permit for
+violations of ORS 517.702  to 517.740 or 517.810 or taking any other action authorized under this
+chapter.
+SECTION 3.  ORS 517.753 is amended to read:
+517.753. (1) Notwithstanding the yard and acre limitations of ORS 517.750 (16),  a person may not
+engage in surface mining that results in the extraction  of 5,000 cubic yards or less of minerals or
+affects less than one acre of  land within a period of 12 consecutive calendar months except in
+compliance with an exclusion certificate issued by the State Department of Geology and  Mineral
+Industries under this section. Except as provided in ORS 517.755, a mining operation subject to a
+valid exclusion certificate is not subject to the operating permit or reclamation requirements set
+forth in ORS 517.702 to 517.989.
+(2) A  person shall submit an exclusion certificate application on a form provided by the de-
+partment, accompanied by a fee  not to exceed $400. If the department does not approve or disap-
+prove the application within 90 days after the date the application is filed  with the department, the
+application shall be deemed approved.
+(3) Each holder of an exclusion certificate shall annually pay to the  department a renewal fee
+not to exceed [ $165] $200, accompanied by a description of:
+(a) The amount of minerals extracted pursuant  to the certificate during the previous 12 months;
+(b) The total acreage of surface disturbance by the mining operation as of the date that the re-
+newal is submitted; and
+(c) Any additional information required by the department to determine that the mining  opera-
+tion continues to qualify for an exclusion certificate.
+SECTION 4.
+ ORS 517.800 is amended to read:
+517.800. (1)(a) Except for an application for a mining operation submitted under ORS 517.910  to
+517.989, each applicant for an operating permit under ORS 517.702 to 517.989 shall pay  to the State
+Department of Geology and Mineral Industries  a fee established by the State Geologist in an amount
+not to exceed [ $2,000] $6,500.
+(b) If an application for a new permit or an amendment to  an existing permit requires extraor-
+dinary department resources because  of concerns about slope stability or proximity to waters of the
+state or other environmentally sensitive areas, the applicant shall pay to the department an addi-
+tional fee in an amount the State Geologist  deems adequate to cover the additional costs for staff
+and other related expenses.  The State Geologist shall consult with the applicant when determining
+the amount of the fee.
+(2) A holder of an operating  permit that did not extract minerals during the preceding 12-month
+period shall pay to the  department an annual renewal fee of [ $1,200] $3,500. A holder of an operating
+permit that extracted minerals during the preceding 12-month period shall pay  to the department
+an annual  renewal fee of [ $1,460] $3,500 and [ $0.0125] $0.03 per ton of minerals extracted during the
+preceding 12-month period.
+[2]
+SB 836
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) If a reclamation plan is changed, the operator may be assessed for staff  time and other re-
+lated costs in an amount not to exceed [ $2,000] $4,000 in addition to the annual renewal fee. This
+subsection does not apply to  a mining operation that is subject to the fee established by ORS 517.973
+(2)(a).
+(4) If an operator  requests that the department respond to requests for information required by
+a local government in making a land use planning decision, the State  Geologist may require the
+operator to pay the department a fee for staff time  and related costs. The department shall notify
+the operator in advance of the estimated costs of providing the information,  and the assessment may
+not exceed the estimate.
+(5) The State Geologist may  require the operator of a site to pay to the department a special
+inspection fee in an amount not to exceed [ $2,000] $4,000 for an inspection conducted under the
+following circumstances:
+(a) Investigation  of surface mining operations conducted without the operating permit required
+under ORS 517.790; or
+(b) Investigation of surface mining operations conducted outside the area authorized  in an op-
+erating permit.
+(6) Upon request of an applicant or operator, the department  shall provide an itemized list and
+documentation of expenses used to determine a fee under subsection (1)(b), (3) or  (4) of this section.
+(7) Notwithstanding the per ton fee established  in subsection (2) of this section, the governing
+board of the department may lower to zero  or raise the per ton fee up to [ $0.015] $0.05 to reflect
+actual expenses of the department in administering ORS 517.702 to 517.951.
+(8) All fees  collected by the department under this section shall be deposited in the Mined Land
+Regulation and Reclamation Program Subaccount within the Geology and  Mineral Industries Ac-
+count. The department shall prepare and submit to the  governing board of the department an annual
+report on the financial status of the Mined Land Regulation and Reclamation Program Subaccount.
+(9) The governing board of the department shall adopt rules establishing:
+(a) Procedures for the administrative review of the determinations of fees under this section.
+(b) The payment date for fees required under this section.
+(c) Late fees of up to five percent of the unpaid amount of a fee  owed under this section if the
+fee is more than 60 days past due.
+SECTION 5.
+ ORS 517.973 is amended to read:
+517.973. (1) In addition to any permit fee required by any other  permitting agency, each notice
+of intent to submit a consolidated application under ORS  517.961 must be accompanied by an initial
+fee established by the State Geologist in an amount not to exceed [ $2,000] $10,000.
+(2)(a) Annually on the anniversary date of an operating permit, each holder of an  operating
+permit shall pay to the State  Department of Geology and Mineral Industries a renewal fee estab-
+lished by the State Geologist in an amount not less than $2,500.
+(b) In addition to the fee prescribed in paragraph (a) of this  subsection, the department may
+charge an amount  not to exceed [ $1,200] $4,000 for inspections made at sites if the surface mining
+is:
+(A) Conducted without the permit required by ORS 517.790;
+(B) Abandoned; or
+(C) Conducted in an area not described in the surface mining permit.
+(3) Subject to the provisions of subsection (5) of this section, the prospective  applicant or ap-
+plicant shall pay all expenses incurred by the department and  the permitting and cooperating
+[3]
+SB 836
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+agencies related to the consolidated application process under ORS 517.952 to  517.989. These ex-
+penses may include legal expenses, expenses incurred in processing  and evaluating the consolidated
+application, issuing a permit or final  order and expenses of hiring a third party contractor under
+ORS 517.979 and 517.980.
+(4) If the costs exceed the fee, the prospective  applicant or applicant shall pay any excess costs
+shown in an  itemized statement prepared by the department. The department and permitting and
+cooperating agencies may not incur evaluation expenses in excess of  110 percent of the fee initially
+paid unless the department provides prior notification to the prospective applicant  or applicant and
+a detailed projected budget the department believes necessary to complete the process or a  portion
+of the process under ORS 517.952 to 517.989. If the actual costs are less than the fee paid, the de-
+partment shall refund the excess to the prospective applicant or applicant.
+(5) All expenses incurred by the department and the permitting and  cooperating agencies under
+ORS 517.952 to 517.989 that are charged to or allocated to the fee paid by a prospective applicant
+or an applicant shall be necessary, just and reasonable. Upon request, the department shall  provide
+a detailed justification for all charges to the prospective applicant or applicant.
+SECTION 6.
+ ORS 520.017 is amended to read:
+520.017. (1) The following fees are established under this chapter:
+(a) The application fee for a permit to drill a well is [ $2,000] $5,000.
+(b) The fee to modify a well permit,  information hole permit  or seismic  program permit is
+[$2,000] $5,000.
+(c) The annual renewal fee for a well permit, information hole permit or seismic program permit
+is [ $1,160] $4,000.
+(d) The application fee for a permit to  drill an information hole may not exceed [ $2,000] $2,500
+per five information holes drilled in a contiguous 640-acre  area. The State Department of Geology
+and Mineral Industries shall base  the fee on the estimated cost of review and approval and the
+number and location of information holes to be drilled.
+(e) The fee for approval of a seismic program may not exceed  [ $2,000] $2,500. The department
+shall base the fee on the estimated cost of review and approval.
+(f) A permittee that requests to transfer a well permit, information hole permit or seismic pro-
+gram permit must pay a nonrefundable fee of [ $2,000] $5,000 at the time of the request.
+(2) The governing  board of the department by rule may specify a schedule of fees for costs in-
+curred by the department for activities related to field designation for purposes of this section.
+(3) All moneys received by the department under this section shall be paid into the  State
+Treasury and deposited in the General Fund to the credit of the  Geology and Mineral Industries
+Account established in ORS 516.070.
+SECTION 7.
+ ORS 522.055 is amended to read:
+522.055. (1) A person may not engage in drilling a prospect  well except in compliance with a
+permit issued by the State Department of Geology and Mineral Industries under this section.
+(2) An application for a permit to drill prospect wells must include:
+(a) A plugging and decommissioning plan;
+(b) Such other information as the department by rule may require to assess the impacts of  the
+proposed prospect well; and
+(c) A nonrefundable fee as determined by the department based on the estimated  cost of review
+of the proposed prospect wells, not to exceed [ $2,000] $5,000 per application or permit  modification.
+(3) Each application may include up to five prospect wells per  project area. The project area
+[4]
+SB 836
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+must be contiguous and include no more than 640 acres.
+(4) A permit to drill remains valid until it is revoked or  modified by the department based on
+new information or changed conditions.
+(5) The permittee shall pay  the department an annual nonrefundable renewal fee of [ $2,725]
+$4,000 on or before the anniversary of each active permit.
+(6) A permittee that requests to transfer  a permit issued under this section shall pay a
+nonrefundable fee of [ $2,000] $5,000 at the time of the request.
+(7) All  moneys received by the department under this section shall be paid into the State
+Treasury and deposited in the  General Fund to the credit of the Geology and Mineral Industries
+Account established by ORS 516.070.
+SECTION 8.
+ ORS 522.115 is amended to read:
+522.115. (1) A person may not engage in the drilling  or operating of any geothermal well except
+in compliance with a permit  issued by the State Department of Geology and Mineral Industries un-
+der this section.
+(2) An application for a permit to drill or operate a geothermal well must include:
+(a) The location and elevation of the floor of the proposed derrick.
+(b) The number or other designation approved by the department by which the well  shall be
+known.
+(c) The applicant’s estimate of the depths to be drilled.
+(d) The nature and character of the geothermal resource sought.
+(e) A reclamation plan for the well pad.
+(f) Such other information as  the department by rule may require to assess the impact of the
+proposed geothermal well.
+(g) A nonrefundable fee of [ $2,000] $5,000.
+(3) The permittee shall pay an annual nonrefundable renewal fee of [ $2,725] $4,000 on or  before
+the anniversary of each active permit.
+(4) A request by a permittee to modify a permit shall be accompanied by a nonrefundable  fee
+not to exceed [ $2,000] $5,000.
+(5) A request by a permittee to transfer a permit issued under this section must be accompanied
+by a nonrefundable fee of [ $2,000] $5,000.
+(6) All  moneys received by the department under this section shall be paid into the State
+Treasury and deposited in the  General Fund to the credit of the Geology and Mineral Industries
+Account established by ORS 516.070.
+[5]

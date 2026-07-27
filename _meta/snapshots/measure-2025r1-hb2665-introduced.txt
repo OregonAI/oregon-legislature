@@ -1,0 +1,280 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2665
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Creates  COU. Takes effect 91 days after the legislative session ends. (Flesch Readability
+Score:  62.8).
+Establishes Central Oregon University as  a separate public university, distinct from Oregon
+State University.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to  the establishment of Central Oregon University; creating new provisions; amending ORS
+352.002, 352.011 and 352.054; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 352.002 is amended to read:
+352.002. The following are established as public universities in the State of Oregon:
+(1) University of Oregon.
+(2) Oregon State University.
+(3) Portland State University.
+(4) Oregon Institute of Technology.
+(5) Western Oregon University.
+(6) Southern Oregon University.
+(7) Eastern Oregon University.
+(8) Central Oregon University.
+SECTION 2.
+ ORS 352.011 is amended to read:
+352.011. (1) As used in this  section, “professional doctoral degree” means a first professional
+degree, excluding a Doctor of Philosophy degree, that:
+(a) Represents a category of qualifications in a professional subject  area that requires students
+to have previously completed specified undergraduate coursework or obtained previous undergradu-
+ate degrees before enrolling in the professional doctoral degree granting program; and
+(b) Is  awarded upon completion of a program that provides the knowledge and skills for the re-
+cognition, credential or license required for professional practice.
+(2) Western Oregon University, Southern Oregon University , [ and] Eastern  Oregon University
+and Central Oregon University  are established as comprehensive universities that offer a full
+range of baccalaureate programs and graduate programs through  the master’s degree and the pro-
+fessional doctoral degree.
+SECTION 3.
+ ORS 352.054 is amended to read:
+352.054. (1) A governing board is established for each of the following public universities:
+(a) University of Oregon;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3166
+HB 2665
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Portland State University;
+(c) Oregon State University;
+(d) Eastern Oregon University;
+(e) Oregon Institute of Technology;
+(f) Southern Oregon University; [ and]
+(g) Western Oregon University ; and
+(h) Central Oregon University .
+(2)(a) The University  of Oregon governing board shall be known as the Board of Trustees of the
+University of Oregon.
+(b) The Portland State University governing board shall be known as the Board of Trustees  of
+Portland State University.
+(c) The Oregon State University governing board shall be known as the  Board of Trustees of
+Oregon State University.
+(d) The Eastern Oregon University governing board shall  be known as the Board of Trustees
+of Eastern Oregon University.
+(e) The  Oregon Institute of Technology governing board shall be known as the Board of Trustees
+of the Oregon Institute of Technology.
+(f) The Southern Oregon University  governing board shall be known as the Board of Trustees
+of Southern Oregon University.
+(g) The Western Oregon University governing board shall be known as the Board of Trustees
+of Western Oregon University.
+(h) The Central  Oregon University governing board shall be known as the Board of
+Trustees of Central Oregon University.
+SECTION 4.
+Notwithstanding the operative date set forth in section 7 of this 2025 Act,
+not later than November  30, 2025, the Governor shall appoint all of the members of the Board
+of Trustees of Central Oregon University in the manner set forth  in ORS 352.076 so that the
+appointees may be confirmed by the Senate in the manner provided in ORS 171.562 and
+171.565 by March 1, 2026.
+SECTION 5.
+The Board of Trustees of Oregon  State University shall continue to have
+jurisdiction over the operations of Oregon State University - Cascades through June  30, 2026.
+However, the Board of Trustees of  Central Oregon University shall propose funding requests
+pursuant to ORS 350.090  and 352.089, and shall prepare budgets, in cooperation with the
+Higher Education Coordinating Commission, for the biennium beginning July 1, 2027.
+SECTION 6. (1) Except as otherwise provided in this section, all persons employed by
+Oregon State University on the operative date specified in section 7 of this  2025 Act and
+whose job functions pertain  to Oregon State University - Cascades shall continue their em-
+ployment with Central Oregon University and shall retain any seniority, contractual rights
+or tenure granted prior to the  operative date specified in section 7 of this 2025 Act. Nothing
+in this section shall affect any term or condition of  any collective bargaining agreement in
+effect on the operative date specified in section 7 of this 2025 Act.
+(2) All of the duties, functions, powers and lawfully incurred rights and obligations of the
+Board of Trustees of Oregon State University that  pertain to Oregon State University -Cas-
+cades are  transferred to and vested in the Board of Trustees of Central Oregon University.
+The transfer shall include all applicable contractual rights and obligations and title to all
+applicable records, property, supplies and materials, including equipment,  books and papers.
+[2]
+HB 2665
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+For the purpose  of succession to these rights and obligations, the Board of Trustees of
+Central Oregon University is considered to be a continuation of the Board  of Trustees of
+Oregon State University and not a new authority, and the  Board of Trustees of Central
+Oregon University  must exercise such rights and fulfill such obligations as if they had not
+been assigned or transferred, except as otherwise provided by law.
+(3) All unexpended moneys, including General Fund appropriations, gifts,  bequests, other
+funds, assessments, liability and workers’ compensation reserves and  premiums that are
+appropriated or allocated to, held, managed or invested by or on behalf of or  otherwise
+available to Oregon State University - Cascades, are  appropriated, allocated and transferred
+to Central Oregon University.
+(4) Central Oregon University shall conduct and complete any proceeding,  prosecution
+or other matter that Oregon State University -  Cascades commenced before, and is pending
+on, the operative date specified in section 7 of this 2025 Act.
+(5) The transfer of duties, functions and powers to the Board of Trustees of Central
+Oregon University or to Central Oregon University does not affect any action, suit or  pro-
+ceeding relating to Oregon State University - Cascades, except that Central Oregon Univer-
+sity shall be substituted for Oregon State University in any such action, suit or proceeding.
+(6) Any action, proceeding or other  matter that pertains to Oregon State University -
+Cascades, that was commenced by a state agency, a state  officer, the Board of Trustees of
+Oregon State University or an officer  or employee of Oregon State University before the
+operative date specified in section 7 of this 2025 Act and relates to the  Board of Trustees of
+Oregon State University or to Oregon State  University - Cascades and is still pending on the
+operative date specified in section 7 of this 2025 Act shall be conducted and completed by the
+Board of Trustees of Central Oregon University or by Central Oregon University.
+(7) Nothing in sections 4 to 6 of this 2025 Act or  the amendments to ORS 352.002, 352.011
+and 352.054 by  sections 1 to 3 of this 2025 Act relieves any person, public entity or private
+entity of any obligation with respect to a tax, fee, fine or  other charge, interest, penalty,
+forfeiture, rule, policy, document, record or proceeding.
+(8)(a) Notwithstanding any other provision of this section, the lawfully adopted standards
+and policies of Oregon State University pertaining to Oregon State University - Cascades that
+are in effect on the operative date specified in section 7 of this  2025 Act continue in effect
+until lawfully superseded or repealed by the standards or policies of the Board of  Trustees
+of Central Oregon University.
+(b) References in standards or policies described in paragraph (a)  of this subsection to
+Oregon State University, the Board of Trustees of  Oregon State University or an employee
+of Oregon State University are considered to be references  to Central Oregon University, the
+Board of Trustees  of Central Oregon University or an employee of Central Oregon Univer-
+sity.
+SECTION 7.
+(1) Section 6 of this 2025 Act and the  amendments to ORS 352.002, 352.011
+and 352.054 by sections 1 to 3 of this 2025 Act become operative on July 1, 2026.
+(2) The Board  of Trustees of Oregon State University, the Board of Trustees of Central
+Oregon University and Central Oregon University may take any action before the operative
+date specified in subsection (1) of this section that is  necessary for the Board of Trustees
+of Oregon State University, the Board of Trustees of Central Oregon University and  Central
+Oregon University to exercise, on and after the operative date specified in subsection (1) of
+[3]
+HB 2665
+1
+2
+3
+4
+5
+6
+7
+this section, all of the  duties, functions and powers conferred on the Board of Trustees of
+Oregon State University, the Board of Trustees  of Central Oregon University and Central
+Oregon University by section  6 of this 2025 Act and the amendments to ORS 352.002, 352.011
+and 352.054 by sections 1 to 3 of this 2025 Act.
+SECTION 8.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[4]

@@ -1,0 +1,396 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2024r1-hb4057
+title: 'HB 4057 (2024R1): Expands the statutory list of strike-prohibited employees to include teachers
+  employed by a common school district or a union high school district.'
+doc_type: dataset_doc
+citation: 2024 Regular Session House Bill 4057
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4057/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 5733c71c1cd9b330e359d076977597a6f6db7cc5e759def0df86a20260270ea8
+snapshot_id: measure-2024r1-hb4057-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 240.060
+  - ORS 240.065
+  - ORS 240.080
+  - ORS 240.123
+  - ORS 243.650
+  - ORS 243.666
+  - ORS 243.672
+  - ORS 243.698
+  - ORS 243.702
+  - ORS 243.712
+  - ORS 243.722
+  - ORS 243.726
+  - ORS 243.736
+  - ORS 243.746
+  - ORS 329.704
+  - ORS 33.015
+  - ORS 352.002
+  - ORS 403.105
+  - ORS 653.077
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2024r1
+- hb
+session_key: 2024R1
+measure_prefix: HB
+measure_number: 4057
+prefix_meaning: House Bill
+catch_line: Expands the statutory list of strike-prohibited employees to include teachers employed by
+  a common school district or a union high school district.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would make it unlawful for teachers to participate in a strike. (Flesch\
+  \ Readability Score: 69.9). \n\tExpands the statutory list of strike-prohibited employees to include\
+  \ teachers employed by a common school district or a union high school district. Imposes a civil penalty\
+  \ of $500 per day against an individual or labor organization that participates in an unlawful teacher\
+  \ strike."
+relating_to: Relating to unlawful strikes.
+relating_to_full: Relating to unlawful strikes; amending ORS 243.650, 243.726 and 243.736.
+at_the_request_of: null
+lc_number: 288
+measure_created_date: '2024-01-12T17:38:56'
+measure_modified_date: '2024-02-05T12:19:15'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 21421
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 240.060
+  - ORS 240.065
+  - ORS 240.080
+  - ORS 240.123
+  - ORS 243.650
+  - ORS 243.666
+  - ORS 243.672
+  - ORS 243.698
+  - ORS 243.702
+  - ORS 243.712
+  - ORS 243.722
+  - ORS 243.726
+  - ORS 243.736
+  - ORS 243.746
+  - ORS 329.704
+  - ORS 33.015
+  - ORS 352.002
+  - ORS 403.105
+  - ORS 653.077
+  from_relating_to_full:
+  - ORS 243.650
+  - ORS 243.726
+  - ORS 243.736
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4057`.
+
+# HB 4057 — 2024 Regular Session (2024R1)
+
+## At a glance
+
+- **Measure:** House Bill 4057, 2024 Regular Session (2024R1)
+- **LC number:** 288
+- **Created:** 2024-01-12T17:38:56
+- **Metadata last modified (upstream):** 2024-02-05T12:19:15
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 21421 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4057/Introduced>.
+
+## Summary
+
+**Catchline:** Expands the statutory list of strike-prohibited employees to include teachers employed by a common school district or a union high school district.
+
+**Relating to:** Relating to unlawful strikes.
+
+Digest: The Act would make it unlawful for teachers to participate in a strike. (Flesch Readability Score: 69.9). 
+ Expands the statutory list of strike-prohibited employees to include teachers employed by a common school district or a union high school district. Imposes a civil penalty of $500 per day against an individual or labor organization that participates in an unlawful teacher strike.
+
+**RelatingToFull (verbatim upstream field):** Relating to unlawful strikes; amending ORS 243.650, 243.726 and 243.736.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4057
+Sponsored by Representatives BREESE-IVERSON, CATE, GOODWIN; Representatives  RESCHKE, WALLAN,
+WRIGHT, Senators KNOPP, LINTHICUM, SMITH DB (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would make it unlawful  for teachers to participate in a strike. (Flesch Read-
+ability Score: 69.9).
+Expands the  statutory list of strike-prohibited employees to include teachers employed by a
+common school district or a union  high school district. Imposes a civil penalty of $500 per day
+against an individual or labor organization that participates in an unlawful teacher strike.
+A BILL FOR AN ACT
+Relating to unlawful strikes; amending ORS 243.650, 243.726 and 243.736.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 243.736 is amended to read:
+243.736. (1) It is unlawful for any of  the following public employees to strike or recognize a
+picket line of a labor organization while in the performance of official duties:
+(a) Assistant attorneys general;
+(b) Deputy district attorneys;
+(c) Emergency communications [ worker] workers;
+(d) [ Employee] Employees of the Oregon Youth Authority who [ has] have custody, control or
+supervision of adjudicated youths;
+[(e) Firefighter; ]
+(e) Firefighters;
+(f) [ Guard] Guards at a correctional institution or mental hospital;
+(g) Parole and probation [ officer who supervises ] officers who supervise  adult offenders; [ and]
+(h) Police [ officer.] officers; and
+(i) Teachers employed by a common school district or a union high school district.
+(2) As used in this section, “emergency communications worker” means an  individual whose of-
+ficial focal duties are receiving information through the  emergency communications system under
+ORS 403.105 to 403.250, relaying the information to public or private safety agencies  or dispatching
+emergency equipment or personnel in response to the information.
+SECTION 2.
+ ORS 243.726 is amended to read:
+243.726. (1) Participation in a strike shall be unlawful for any public  employee who is not in-
+cluded in an appropriate bargaining unit  for which an exclusive representative has been certified
+by the Employment Relations Board  or recognized by the employer; or is included in an appropriate
+bargaining unit that provides for resolution of a labor dispute by petition to final  and binding arbi-
+tration; or when the strike is not  made lawful under ORS 240.060, 240.065, 240.080, 240.123, 243.650
+to 243.809 and 341.290.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 288
+(2) It shall be lawful for  a public employee who is not prohibited from striking under subsection
+(1) of this section and who is in the appropriate bargaining unit involved in  a labor dispute to par-
+ticipate in a strike over mandatory subjects of bargaining provided:
+(a) The requirements of ORS 243.712 and 243.722 relating  to the resolution of labor disputes
+have been complied with in good faith;
+(b) Thirty days have elapsed since the board  has made public the fact finder’s findings of fact
+and recommendations or the mediator has made public the parties’ final offers;
+(c) The exclusive representative has given 10 days’ notice by certified  mail of its intent to strike
+and stating the reasons for its intent to strike to the board and the public employer;
+(d) The collective bargaining agreement has expired, or  the labor dispute arises pursuant to a
+reopener provision in a collective bargaining agreement or renegotiation under ORS 243.702  (1) or
+renegotiation under ORS 243.698; and
+(e) The  union’s strike does not include unconventional strike activity not protected under the
+National Labor Relations Act on June 6, 1995, and does not constitute  an unfair labor practice un-
+der ORS 243.672 (3).
+(3)(a) Where the strike occurring or is about to occur creates a clear and  present danger or
+threat to  the health, safety or welfare of the public, the public employer concerned may petition the
+circuit court of the county  in which the strike has taken place or is to take place for equitable relief
+including but not limited to appropriate injunctive relief.
+(b) If the strike is a strike of state employees the petition shall be filed in  the Circuit Court of
+Marion  County.
+(c) If, after hearing, the court finds that the strike  creates a clear and present danger or threat
+to the health, safety  or welfare of the public, it shall grant appropriate relief. Such relief shall in-
+clude an order that the labor dispute be submitted  to final and binding arbitration within 10 days
+of the court’s order pursuant to procedures in ORS 243.746.
+(4)(a) A labor  organization may not declare or authorize a strike of public employees that is or
+would be in violation of this section. When it is alleged  in good faith by the public employer that
+a labor organization has declared or  authorized a strike of public employees that is or would be in
+violation of this section, the employer may petition the board for a declaration that  the strike is or
+would be unlawful. The board, after conducting  an investigation and hearing, may make such dec-
+laration if it finds that such declaration or authorization of a strike is or would be unlawful.
+(b) When a labor organization or individual disobeys an  order of the appropriate circuit court
+issued pursuant to enforcing an order of the board involving this section and ORS 243.736 or 243.738,
+they shall be punished according to the provisions of ORS 33.015 to 33.155,  except that the amount
+of the fine shall be at the discretion of the court.
+(c) In addition to any other penalty provided by law, if a strike is a strike of  teachers,
+as described in ORS  243.736, and the board has declared the strike to be unlawful under
+paragraph (a) of this subsection, the board shall impose a civil penalty against any individual
+or labor  organization that participated in the unlawful strike. The amount of the penalty
+shall be $500 per day for each day of violation.
+(5) An unfair labor practice by a  public employer shall not be a defense to a prohibited strike.
+The board upon the filing of an unfair labor charge alleging that a  public employer has committed
+an unfair labor practice during or arising out of the collective bargaining procedures set forth in
+ORS 243.712 and 243.722, shall take immediate action on such  charge and if required, petition the
+court of competent jurisdiction for appropriate relief or a restraining order.
+(6) As used in this section, “danger or threat to the health, safety or welfare of the  public” does
+not include  an economic or financial inconvenience to the public or to the public employer that is
+normally incident to a strike by public employees.
+SECTION 3.
+ ORS 243.650 is amended to read:
+243.650. As used in ORS 243.650 to 243.809, unless the context requires otherwise:
+(1) “Appropriate bargaining  unit” means the unit designated by the Employment Relations Board
+or voluntarily recognized by the  public employer to be appropriate for collective bargaining. How-
+ever, an appropriate bargaining unit may  not include both academically licensed and unlicensed or
+nonacademically licensed school employees. Academically licensed units may include but  are not
+limited to  teachers, nurses, counselors, therapists, psychologists, child development specialists and
+similar positions. This limitation does not apply to any bargaining  unit certified or recognized prior
+to June 6, 1995, or to any school district with fewer than 50 employees.
+(2) “Board” means the Employment Relations Board.
+(3) “Certification” means official recognition by the board that a labor organization is  the ex-
+clusive representative for all of the employees in the appropriate bargaining unit.
+(4) “Collective bargaining” means the performance of the mutual obligation of  a public employer
+and the representative of its employees to meet at  reasonable times and confer in good faith with
+respect to employment  relations for the purpose of negotiations concerning mandatory subjects of
+bargaining, to meet and confer  in good faith in accordance with law with respect to any dispute
+concerning the interpretation or application of a collective bargaining agreement,  and to execute
+written contracts incorporating agreements that have been reached on behalf  of the public employer
+and the employees in the bargaining unit covered by such negotiations. The obligation  to meet and
+negotiate does not compel either party to agree to a proposal  or require the making of a concession.
+This subsection may  not be construed to prohibit a public employer and a certified or recognized
+representative of its employees from discussing or executing written agreements regarding matters
+other than mandatory subjects  of bargaining that are not prohibited by law as long as there is mu-
+tual agreement of the parties to discuss these matters, which are permissive subjects  of bargaining.
+(5) “Compulsory arbitration” means the procedure whereby  parties involved in a labor dispute
+are required by law to submit their differences to a third party for a final and binding decision.
+(6) “Confidential  employee” means one who assists and acts in a confidential capacity to a per-
+son who formulates, determines  and effectuates management policies in the area of collective bar-
+gaining.
+(7)(a) “Employment relations” includes, but is not limited to,  matters concerning direct or indi-
+rect monetary benefits, hours, vacations, sick leave, labor  organization access to and communication
+with represented employees, grievance procedures and other conditions of employment.
+(b) “Employment relations” does not  include subjects determined to be permissive, nonmanda-
+tory subjects of bargaining by the Employment Relations Board prior to June 6, 1995.
+(c) After June 6, 1995, “employment relations” does not include subjects that  the Employment
+Relations Board determines to have a greater impact on management’s prerogative than on employee
+wages, hours, or other terms and conditions of employment.
+(d) “Employment relations” does not include subjects that have an  insubstantial or de minimis
+effect on public employee wages, hours, and other terms and conditions of employment.
+(e) For school district bargaining:
+(A) “Employment relations” includes class size and caseload limits  in schools that qualify for
+assistance under Title I of the federal Elementary and Secondary Education Act of 1965.
+(B) “Employment relations” excludes the school or educational calendar,  standards of perform-
+ance or criteria for evaluation of teachers, the school curriculum,  reasonable dress, grooming and
+at-work personal conduct requirements respecting smoking, gum chewing and similar matters of
+personal conduct, the standards and procedures  for student discipline, the time between student
+classes, the selection, agendas and decisions of 21st Century Schools Councils established under ORS
+329.704, requirements for expressing milk under  ORS 653.077, and any other subject proposed that
+is permissive under paragraphs (b), (c) and (d) of this subsection.
+(f) For employee bargaining involving employees covered by ORS 243.736 , except teachers, and
+for employee bargaining involving  [ and] employees of the Department of Corrections who have
+direct contact with adults in custody, “employment  relations” includes safety issues that have an
+impact on the on-the-job safety of the employees or staffing levels that have  a significant impact on
+the on-the-job safety of the employees.
+(g) For all other employee bargaining except school district bargaining and except as  provided
+in paragraph (f) of this subsection,  “employment relations” excludes staffing levels and safety issues
+(except those staffing levels and safety issues that have a direct and substantial effect on the on-
+the-job safety of public employees), scheduling of services provided to the  public, determination of
+the minimum qualifications necessary for any position, criteria for evaluation or  performance ap-
+praisal, assignment of duties, workload when  the effect on duties is insubstantial, reasonable dress,
+grooming, and at-work personal conduct requirements respecting smoking, gum chewing, and similar
+matters of personal  conduct at work, and any other subject proposed that is permissive under par-
+agraphs (b), (c) and (d) of this subsection.
+(8) “Exclusive representative” means the  labor organization that, as a result of certification by
+the board or recognition by the employer, has the right to be the collective bargaining agent  of all
+employees in an appropriate bargaining unit.
+(9) “Fact-finding” means identification of  the major issues in a particular labor dispute by one
+or more impartial individuals who review the positions of  the parties, resolve factual differences and
+make recommendations for settlement of the dispute.
+(10) “Fair-share agreement”  means an agreement between the public employer and the recog-
+nized or certified bargaining representative of public employees whereby employees who are  not
+members of  the employee organization are required to make an in-lieu-of-dues payment to an em-
+ployee organization except as provided in ORS 243.666. Upon the filing with the board of  a petition
+by 30 percent or  more of the employees in an appropriate bargaining unit covered by such union
+security agreement declaring they desire that the agreement be rescinded,  the board shall take a
+secret ballot of the employees  in the unit and certify the results thereof to the recognized or certi-
+fied bargaining representative and to the public employer. Unless a  majority of the votes cast in an
+election  favor  the union security agreement, the board shall certify deauthorization of the agree-
+ment. A petition for deauthorization of a union security agreement must be filed not more than  90
+calendar days after the collective bargaining agreement is executed.  Only one such election may be
+conducted in any appropriate bargaining unit during the  term of a collective bargaining agreement
+between a public employer and the recognized or certified bargaining representative.
+(11) “Final offer” means the proposed contract language and cost summary submitted to  the
+mediator within seven days of the declaration of impasse.
+(12) “Labor dispute”  means any controversy concerning employment relations or concerning the
+association or representation of persons in negotiating, fixing,  maintaining, changing, or seeking to
+arrange terms or conditions of employment relations,  regardless of whether the disputants stand in
+the proximate relation of employer and employee.
+(13) “Labor organization” means any organization that has as one of its  purposes representing
+employees in their employment relations with public employers.
+(14) “Last best offer package” means the offer exchanged by parties not less  than 14 days prior
+to the date scheduled for an interest arbitration hearing.
+(15) “Legislative body” means the Legislative Assembly, the city council, the county  commission
+and any other board or commission empowered to levy taxes.
+(16) “Managerial employee” means an  employee of the State of Oregon or a public university
+listed in ORS 352.002 who possesses authority to formulate and carry  out management decisions or
+who represents management’s interest  by taking or effectively recommending discretionary actions
+that control or implement  employer policy, and who has discretion in the performance of these
+management responsibilities beyond the routine discharge  of duties. A “managerial employee” need
+not act in  a supervisory capacity in relation to other employees. Notwithstanding this subsection,
+“managerial  employee”  does not include faculty members at a community college, college or uni-
+versity.
+(17) “Mediation” means assistance by an impartial third party  in reconciling a labor dispute
+between the public employer and the exclusive representative regarding employment relations.
+(18) “Payment-in-lieu-of-dues” means an assessment to defray the cost for services  by the exclu-
+sive representative in  negotiations and contract administration of all persons in an appropriate
+bargaining unit who are not members of the organization serving as exclusive representative  of the
+employees. The payment must be equivalent to regular  union dues and assessments, if any, or must
+be an amount agreed  upon by the public employer and the exclusive representative of the employees.
+(19) “Public employee”  means an employee of a public employer but does not include elected
+officials,  persons  appointed to serve on boards or commissions, incarcerated persons working under
+Article I, section 41, of the Oregon Constitution, or persons  who are confidential employees, super-
+visory employees or managerial employees.
+(20) “Public employer” means the State of Oregon, and the following political  subdivisions:
+Cities, counties, community colleges, school districts, special districts, mass transit  districts, metro-
+politan service districts, public service corporations or municipal corporations  and public and
+quasi-public corporations.
+(21) “Public employer representative” includes any  individual or individuals specifically desig-
+nated by  the public employer to act in its interests in all matters dealing with employee represen-
+tation, collective bargaining and related issues.
+(22) “Strike”  means a public employee’s refusal in concerted action with others to report for
+duty, or his or her willful absence from his or her position, or his or her stoppage of work, or his
+or her absence in whole or in part from the full, faithful or proper  performance of his or her duties
+of employment, for the purpose of  inducing, influencing or coercing a change in the conditions,
+compensation, rights, privileges or  obligations of public employment; however, nothing shall limit
+or impair the right of any public employee to lawfully express or  communicate a complaint or
+opinion on any matter related to the conditions of employment.
+(23)(a) “Supervisory employee” means any individual having authority in the interest of the
+employer to hire, transfer, suspend, lay off, recall, promote, discharge,  assign, reward or discipline
+other employees, or responsibly to direct  them, or to adjust their grievances, or effectively to re-
+commend such action, if in connection therewith, the exercise of the authority is not of  a merely
+routine or clerical nature but requires the  use of independent judgment. Failure to assert supervi-
+sory status in any Employment Relations Board proceeding or in negotiations for any collective
+bargaining agreement does not thereafter prevent assertion of supervisory status in  any subsequent
+board proceeding or contract negotiation.
+(b) “Supervisory employee” includes a faculty member of a public university listed in ORS
+352.002 or the Oregon Health and Science University who:
+(A) Is employed as a president, vice president, provost, vice provost, dean, associate dean,  as-
+sistant dean, head or equivalent position; or
+(B) Is  employed in an administrative position without a reasonable expectation of teaching, re-
+search or other scholarly accomplishments.
+(c) “Supervisory employee” does not include:
+(A) A nurse, charge nurse or nurse holding a similar position if that  position has not tradi-
+tionally been classified as supervisory;
+(B) A firefighter prohibited from striking by ORS 243.736  who assigns, transfers or directs the
+work of other employees but does not have the authority  to hire, discharge or impose economic
+discipline on those employees;
+(C) A  faculty member of a public university listed in ORS 352.002 or the Oregon Health and
+Science University who is not a faculty member described in paragraph (b) of this subsection; or
+(D) An employee of the Oregon State Police who:
+(i) Serves in a rank equivalent to or below the rank of sergeant;
+(ii) Is prohibited from striking by ORS 243.736; and
+(iii) Assigns, transfers  or directs the work of other employees but does not hire, discharge or
+impose economic discipline on those employees.
+(24) “Unfair labor practice”  means the commission of an act designated an unfair labor practice
+in ORS 243.672.
+(25) “Voluntary arbitration” means the procedure whereby parties involved in a  labor dispute
+mutually agree to submit their differences to a third party for a final and binding decision.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 243.650, ORS 243.726, ORS 243.736
+- From bill text (Introduced version): ORS 240.060, ORS 240.065, ORS 240.080, ORS 240.123, ORS 243.650, ORS 243.666, ORS 243.672, ORS 243.698, ORS 243.702, ORS 243.712, ORS 243.722, ORS 243.726, ORS 243.736, ORS 243.746, ORS 329.704, ORS 33.015, ORS 352.002, ORS 403.105, ORS 653.077
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `5733c71c1cd9b330e359d076977597a6f6db7cc5e759def0df86a20260270ea8` (snapshot `_meta/snapshots/measure-2024r1-hb4057-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4057/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4057` (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

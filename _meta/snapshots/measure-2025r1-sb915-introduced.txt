@@ -1,0 +1,108 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 915
+Sponsored by Senator GELSER BLOUIN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells DHS that a certain DHS program must handle child abuse  reports involv-
+ing certain children. (Flesch Readability Score: 60.1).
+Directs the Director of Human Services to ensure that standards  and procedures for the as-
+sessment and investigation  of reports of child abuse committed by certain persons are investigated
+by a department program that specializes in training, investigations and safety.
+A BILL FOR AN ACT
+Relating to the investigation  of child abuse committed by a person who is unrelated to the child;
+amending ORS 409.185.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 409.185 is amended to read:
+409.185. (1)(a) The Director of Human Services  shall oversee the development of standards and
+procedures for assessment, investigation and enforcement of child protective services.
+(b) The director shall ensure that the standards  and procedures developed under this
+subsection require that assessments and investigations of reports of child abuse conducted
+by the department are conducted by the program that  specializes in training, investigations
+and safety, if the reported abuse involves:
+(A) A person under  18 years of age who is residing in a youth correction facility, as de-
+fined in ORS 420.005, a youth care center,  as defined in ORS 420.855, or a detention facility
+established under ORS 419A.010 to 419A.020 and 419A.050 and 419A.063; or
+(B) A child residing with a foster family or in a  foster home, if the foster family or foster
+home is certified by the department unless the person who  is the subject of the assessment
+or investigation is the child’s parent.
+(2)(a) The Department of Human Services shall take action to implement  the provision of child
+protective services as outlined in ORS 417.705 to 417.800 and based on the  recommendations in the
+1992 “Oregon Child Protective Services Performance  Study” published by the University of Southern
+Maine.
+(b) In all substantiated  cases of child abuse and neglect, the role of the department is to com-
+plete a comprehensive family assessment of risk of abuse  or neglect, or both, assess service needs
+and provide immediate protective services as necessary.
+(c) The department shall provide remedial services needed to ensure the safety of the child.
+(d) In  all cases of child abuse and neglect for which a criminal investigation is conducted, the
+role of law enforcement  agencies is to provide a legally sound, child sensitive investigation of
+whether abuse or neglect or both have occurred and  to gather other evidence and perform other
+responsibilities in accordance with interagency agreements.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1478
+SB 915
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+(e) The department and law enforcement agencies shall conduct the investigation  and assess-
+ment concurrently, based upon the  protocols and procedures of the county child abuse multidisci-
+plinary team in each jurisdiction.
+(f) When the department and law  enforcement agencies conduct a joint investigation and as-
+sessment, the activities of the department and agencies are to be clearly differentiated by the pro-
+tocols of the county child abuse multidisciplinary team.
+(g) Nothing  in this subsection is intended to be inconsistent with ORS 418.702, 418.747 and
+418.748 and ORS chapter 419B.
+(h) In all cases of child abuse for which an investigation  is conducted, the department shall
+provide a child’s parent, guardian or caregiver  with a clear written explanation of the investigation
+process, the court hearing process and the rights of the parent, guardian  or caregiver in the abuse
+investigation and in the court proceedings related to the abuse investigation.
+(3) Upon receipt of a recommendation of the Children’s Advocate  under ORS 417.815 (2)(e), the
+department shall implement the recommendation or give the Children’s  Advocate written notice of
+an intent not to implement the recommendation.
+[2]

@@ -1,0 +1,151 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3685
+Sponsored by Representative RESCHKE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would have ballot titles include the effects of proposed local  option tax meas-
+ures. (Flesch Readability Score: 61.8).
+Requires ballot title statements to include certain information regarding the  effects of proposed
+local option tax measures.
+A BILL FOR AN ACT
+Relating to local option tax measures; amending ORS 280.070.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 280.070 is amended to read:
+280.070. (1) An election within a county for the purpose of approving a tax levy or tax rate un-
+der ORS 280.060 shall be called by the county court or board of county commissioners and shall  be
+held on a date specified in ORS 203.085.
+(2) An election within a city for the purpose of approving a tax levy or tax rate  under ORS
+280.060 or under Article XI,  section 11 (3)(c), [ Article XI ] of the Oregon Constitution, shall be called
+by the governing body of the city and held on a date specified in ORS 221.230.
+(3) An election within a political subdivision other than a county or city for  the purpose of ap-
+proving a tax levy  or tax rate under ORS 280.060 or under Article XI,  section 11 (3)(c), [ Article
+XI ] of the Oregon  Constitution, shall be called by the governing body of the subdivision and held
+on a date specified in ORS 255.345.
+(4)(a) Except as provided  in paragraph (b) of this subsection, the ballot title for a measure au-
+thorizing the imposition of local  option taxes shall contain the following additional statement  in
+boldfaced type:
+_______________________________________________________________________________________
+This is a new tax.  This measure may  cause property taxes to increase more than three percent.
+_______________________________________________________________________________________
+(b) The ballot title for a measure authorizing the renewal of current local option taxes shall
+contain the following additional statement:
+_______________________________________________________________________________________
+This measure renews current local option taxes.
+_______________________________________________________________________________________
+(c) The statement required by this subsection shall be placed after the  question on the ballot
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3910
+HB 3685
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+title and may not be considered for purposes of the word count limitations under ORS 250.035.
+(5) As part of  the question, the ballot title for a measure authorizing or renewing the authori-
+zation of the imposition of local option taxes shall state:
+(a) The proposed rate of the local option tax.
+[(a)] (b) The length in years of the period during which the proposed local option tax will  be
+imposed.
+[(b)] (c) The first fiscal year in which the proposed local option tax will be imposed.
+(d) If the measure will renew the authorization of the imposition of a local option tax at
+the same rate:
+(A) The statement,  “The current rate will remain the same. There is no change in the
+rate for this tax.”; and
+(B) For the first property tax year for which the measure will be in  effect, an estimate
+of the dollar amount of the property taxes that will be due  on the median maximum assessed
+value of property within the same area and property class, and  on 50 percent and 200 percent
+of the median maximum assessed value, without reduction under Article XI, section 11b,  of
+the Oregon Constitution.
+(e) If  the measure will renew the authorization of the imposition of a local option tax at
+a higher rate:
+(A) The percentage by which the new rate will exceed the current rate; and
+(B) For the first property tax year for which the measure will be in  effect, an estimate
+of the dollar amount of the increase in  property taxes that will be due on the median maxi-
+mum assessed value of property within the same area and property class, and on 50 percent
+and 200 percent of the  median maximum assessed value, without reduction under Article XI,
+section 11b, of the Oregon Constitution.
+(f) The statement: “If this measure is rejected by the voters:
+“(A) The governing body of  the taxing district may propose a measure with the same
+terms for a special election held prior to the expiration of the current tax levy.
+“(B) The people of a  city or county may propose an initiative petition for a measure with
+the same or similar terms to be approved or rejected by the voters  at the next scheduled
+election.
+“(C) Revenues for the services funded by the current tax levy will end beginning  with the
+ property tax year.”
+(6) As part of the question, the ballot title for a  measure authorizing the establishment of a
+permanent rate limitation shall contain the following information:
+(a) The tax rate per $1,000 of assessed value of the proposed permanent rate limitation.
+(b) The first fiscal year in which the proposed permanent rate limitation will be imposed.
+(7) The ballot title for a measure  authorizing the imposition of local option taxes or a permanent
+rate limitation shall be in compliance with ORS 250.036.
+[2]

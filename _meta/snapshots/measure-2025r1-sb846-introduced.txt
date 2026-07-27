@@ -1,0 +1,140 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 846
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Governor Tina Kotek for Oregon Health Authority)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes how OHA monitors  the health of children served by CCOs. (Flesch
+Readability Score: 76.5).
+Modifies the requirements for how  the Oregon Health Authority monitors the progress of coor-
+dinated care organizations in improving access to and the quality of health care  for children and
+youth in the areas served by the coordinated care organizations.
+A BILL FOR AN ACT
+Relating to health care of children served by  coordinated care organizations; amending ORS 414.578.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 414.578 is amended to read:
+414.578. (1) A community  health improvement plan adopted by a coordinated care organization
+and its community  advisory council in accordance with ORS 414.577 shall include a component for
+addressing the health of  children and youth in the areas served by the coordinated care organization
+including, to the extent practicable, a strategy and a plan for:
+(a) Working with programs developed by the Early Learning Council, Early Learning Hubs,  the
+Youth Development Council and the school health providers in the region; and
+(b) Coordinating the effective and efficient delivery of health  care to children and adolescents
+in the community.
+(2) A community health improvement plan must be based on research, including research into
+adverse childhood experiences,  and must identify funding sources and additional funding necessary
+to address the health needs of children and adolescents in  the community and to meet the goals of
+the plan. The plan must also:
+(a) Evaluate the adequacy of the existing  school-based health resources including school-based
+health centers and school nurses to meet the specific pediatric and adolescent health care needs in
+the community;
+(b) Make recommendations to  improve the school-based health center and school nurse system,
+including the addition or improvement of electronic medical records and billing systems;
+(c) Take into consideration whether integration of school-based health centers  with the larger
+health system or system of community clinics would further advance the goals of the plan;
+(d) Improve the integration of  all services provided to meet the needs of children, adolescents
+and families;
+(e) Focus on primary care, behavioral health and oral health; and
+(f) Address promotion of health and prevention and early intervention in the  treatment of chil-
+dren and adolescents.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 464
+SB 846
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+(3) A coordinated care organization  shall involve in the development of its community health
+improvement plan, school-based health centers, school nurses, school mental health  providers and
+individuals representing:
+(a) Programs developed by the Early Learning Council and Early Learning Hubs;
+(b) Programs developed by the Youth Development Council in the region;
+(c) The Healthy Start Family Support Services program in the region;
+(d) The Cover All People program and other medical assistance programs;
+(e) Relief nurseries in the region;
+(f) Community health centers;
+(g) Oral health care providers;
+(h) Community mental health providers;
+(i) Administrators of county health department  programs that offer preventive health services
+to children;
+(j) Hospitals in the region; and
+(k) Other appropriate child and adolescent health program administrators.
+(4) The  Oregon Health Authority may provide incentive grants to coordinated care organizations
+for the purpose of contracting with individuals or  organizations to help coordinate integration
+strategies identified in the community health improvement plan adopted by the community advisory
+council. The authority may also  provide funds to coordinated care organizations to improve systems
+of services that will promote the implementation of the plan.
+(5) [ Each coordinated care organization shall report to the authority,  in the form and manner
+prescribed by the authority, on the progress of the  integration strategies and implementation of the plan
+for working with the programs  developed by the Early Learning Council, Early Learning Hubs, the
+Youth Development Council and school health care providers in the region, as part of  the development
+and implementation of the community health improvement plan. The authority shall compile the  infor-
+mation biennially and report the information to the Legislative Assembly by December 31  of each
+even-numbered year. ] The authority shall monitor statewide progress and the progress of each
+coordinated care organization toward  improving equitable access to and the quality of care
+for children and youth in the areas served by coordinated care  organizations. No later than
+December 31 of  each even-numbered year, the authority shall submit a report to the Legis-
+lative Assembly that describes the authority’s findings under this subsection.
+[2]

@@ -1,0 +1,226 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1055
+Sponsored by Senator SMITH DB
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Allows  a project to partake in the community solar program no matter the project’s size
+or location. Bans the PUC from setting a limit on the program’s size that is less than 25 percent
+of the load. (Flesch Readability Score: 64.5).
+Allows a community solar project to participate in the  community solar program irrespective
+of the project’s nameplate capacity or location within this state.
+Prohibits the Public Utility Commission from  establishing a limit on the program capacity that
+is less than 25  percent of an electric company’s retail electricity load in this state as of September
+25, 2021. Prohibits the commission from establishing any limit on the program capacity  for any in-
+crease after September 25, 2021, in an electric company’s retail electricity load.
+A BILL FOR AN ACT
+Relating to community solar projects; amending ORS 757.386.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 757.386 is amended to read:
+757.386. (1) For purposes of this section:
+(a) “Community solar project” means one or more solar photovoltaic energy  systems that pro-
+vide owners and subscribers the  opportunity to share the costs and benefits associated with the
+generation of electricity by the solar photovoltaic energy systems.
+(b) “Electric company” has the meaning given that term in ORS 757.600.
+(c) “Owner” means a customer of an electric company who  has proportionate ownership of part
+of a community solar project, such as  direct ownership of one or more solar panels or shared own-
+ership of the infrastructure of the community solar project.
+(d) “Project manager” means the entity identified as having responsibility  for managing the op-
+eration of a community solar project and, if applicable, for maintaining contact with the electric
+company that procures electricity from the community solar project. A project manager may be:
+(A) An electric company; or
+(B) An independent third party.
+(e) “Solar photovoltaic energy system” means equipment and devices that have the primary
+purpose of collecting solar energy and generating electricity by photovoltaic effect.
+(f) “Subscriber” means a customer of an electric company who  proportionately leases part of a
+community solar project for a minimum of 10 years.
+(2)(a) The  Public Utility Commission shall establish by rule a program for the procurement of
+electricity from community solar projects. As part of the program, the commission shall:
+(A) Adopt rules prescribing what qualifies a community solar project to participate in the  pro-
+gram;
+(B) Certify qualified community solar projects for participation in the program;
+(C) Prescribe the  form and manner by which project managers may apply for certification under
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2814
+SB 1055
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the program; and
+(D) Require, by rule or order, electric companies to enter into a 20-year power  purchase agree-
+ment with a certified community solar project.
+(b) The commission  shall adopt rules under paragraph (a)(A) of this subsection that, at a mini-
+mum:
+(A) Permit a community solar project to participate in the program,  irrespective of the
+community solar project’s  nameplate capacity, location in this state or interconnecting util-
+ity, or of the electric company  service territory in which the community solar project’s
+owners or subscribers are located relative to the location of the community solar project;
+[(A)] (B) Incentivize consumers of electricity to be owners or subscribers;
+[(B)] (C) Minimize the shifting  of costs from the program to ratepayers who do not own or
+subscribe to a community solar project;
+[(C)] (D) Where an electric company is the project  manager, protect owners and subscribers
+from undue financial hardship; and
+[(D)] (E) Protect the public interest.
+(c) The commission may suspend the program  adopted under this subsection if the commission
+has good cause to suspend the program.
+(3) A community solar project:
+(a) Must  have at least one solar photovoltaic energy system with a minimum generating capacity
+of 25 kilowatts;
+(b) Must be located in this state; and
+(c) May be located anywhere in this state.
+(4) A project manager may offer  ownership in or subscriptions to a community solar project only
+to consumers of electricity that are located:
+(a) In this state; and
+(b) In the service territory of an electric company.
+(5)(a) A project manager may  offer proportional ownership in or proportional subscriptions to
+a community solar project in any amount that does not exceed a  potential owner’s or potential
+subscriber’s average annual consumption of electricity.
+(b) Any value associated with the generation of electricity  in excess of an offer to own or sub-
+scribe to a community solar project as limited  by paragraph (a) of this subsection must be used by
+the electric company procuring electricity from the  community solar project in support of low-
+income residential customers of the electric company.
+(6)(a) Except as provided in paragraph (b) of this subsection, an electric company shall  credit
+an owner’s or subscriber’s electric bill for the amount of electricity generated by a community solar
+project for the owner or subscriber in a  manner that reflects the resource value of solar energy.
+For purposes of this paragraph, the commission shall determine the resource value of solar energy.
+(b) The commission may adopt a rate for an electric company to use in crediting an owner’s  or
+subscriber’s electric bill other than the rate described in paragraph (a) of this subsection if the
+commission has good cause to adopt the different rate.
+(7)(a) Except as otherwise provided in this section, owners and subscribers  shall bear the costs
+and benefits of constructing and operating a community solar project.
+(b) Costs incurred by an electric company under the terms of a power purchase agreement en-
+tered into pursuant to subsection (2)(a)(D) of this section are recoverable in the rates of the  electric
+company. Moneys collected pursuant to imposing those rates, under  the terms of a power purchase
+[2]
+SB 1055
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+agreement entered into pursuant to subsection (2)(a)(D) of  this section, may be transferred to a
+project manager for the purpose of operating a community solar project.
+(c) All start-up costs prudently incurred during the development or modification of the  program
+established under this section are recoverable in the rates of an electric company.
+(d) Owners and subscribers shall bear all ongoing  costs incurred during the continued adminis-
+tration of the program established under this section.
+(8) Owners and subscribers own all renewable energy certificates  established under ORS
+469A.130 that are associated with the generation of electricity by a community solar  project, in
+proportion to the owner’s proportional ownership in  or the subscriber’s proportional subscription to
+the community solar project.
+(9) As part of the program established under this section, the commission shall:
+(a) Determine a methodology by which 10 percent of the total generating  capacity of the com-
+munity solar  projects operated under the program will be made available for use by low-income
+residential customers of electricity; and
+(b) Periodically review and adjust the percentage described in paragraph (a) of this subsection.
+(10) A  subscription described in this section shall be considered a lease for purposes of ORS
+307.092 and 307.112.
+(11) As part of the program established under this section, the commission may not:
+(a) Establish a limit on the total generating capacity of  community solar projects allowed
+under the program that is less than 25 percent of the electric  company’s retail electricity
+load, as of September 25, 2021, in this state;
+(b) Establish a limit on the total generating capacity of  community solar projects allowed
+under the program for any increases  after September 25, 2021, in an electric company’s retail
+electricity load in this state; and
+(c) Establish, as a condition to  participating in the program, a limit on the generating
+capacity of a community solar project.
+(12) The commission shall carry out the program in a manner that ensures the program
+contributes to the achievement of the clean energy targets set forth in ORS 469A.410.
+[3]

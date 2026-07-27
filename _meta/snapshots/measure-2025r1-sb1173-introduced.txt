@@ -1,0 +1,57 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1173
+Sponsored by COMMITTEE ON JUDICIARY
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that some product liability claims may not be filed against a health  care
+facility. (Flesch Readability Score: 60.1).
+Provides that a health care facility is not a manufacturer, distributor, seller or lessor of  a
+product for purposes of a product liability  civil action if the health care facility was not involved
+in the design or manufacture of the product.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to product liability civil actions; creating new provisions; amending  ORS 30.902; and pre-
+scribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 30.902 is amended to read:
+30.902. (1) A physician licensed pursuant  to ORS chapter 677 is not a manufacturer, distributor,
+seller or lessor of a product for the purposes of ORS 30.900 to 30.920 if :
+(a) [ The product is provided  by the physician ] The physician provides the product to a patient
+as part of a medical procedure ; and
+(b) The physician was not involved in the design or manufacture of the product.
+(2) A health care facility licensed under ORS chapter  441 is not a manufacturer, distrib-
+utor, seller or lessor of a product for the purposes of ORS 30.900 to 30.920 if:
+(a) The health care facility provides the product to a patient as part of  health care ser-
+vices; and
+(b) The health care facility was not involved in the design  or manufacture of the product.
+SECTION 2. The amendments to ORS 30.902 by section 1 of this 2025 Act apply to  actions
+commenced on or after the effective date of this 2025 Act.
+SECTION 3. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2012

@@ -1,0 +1,545 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3623
+title: 'HB 3623 (2025R1): Requires that a person provide proof of lawful status in the United States before
+  the Department of Transportation issues a noncommercial driver license, a noncommercial driver permit
+  or an identification card.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3623
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3623/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 4470970b3c567712a66d79a0b51c56b886de06e35a8990a337c0c11ec530b9ec
+snapshot_id: measure-2025r1-hb3623-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 408.225
+  - ORS 807.021
+  - ORS 807.024
+  - ORS 807.040
+  - ORS 807.050
+  - ORS 807.060
+  - ORS 807.062
+  - ORS 807.070
+  - ORS 807.110
+  - ORS 807.130
+  - ORS 807.150
+  - ORS 807.310
+  - ORS 807.370
+  - ORS 807.400
+  - ORS 807.405
+  - ORS 807.410
+  - ORS 807.420
+  - ORS 807.730
+  - ORS 809.310
+  - ORS 809.419
+  - ORS 809.500
+  - ORS 809.520
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3623
+prefix_meaning: House Bill
+catch_line: Requires that a person provide proof of lawful status in the United States before the Department
+  of Transportation issues a noncommercial driver license, a noncommercial driver permit or an identification
+  card.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act says that before a person can get a regular driver license or ID card\
+  \ they need to show the DMV that they are legally allowed to be in the United States. (Flesch Readability\
+  \ Score: 70.1). \n\tRequires that a person provide proof of lawful status in the United States before\
+  \ the Department of Transportation issues a noncommercial driver license, a noncommercial driver permit\
+  \ or an identification card. \n\tTakes effect on the 91st day following adjournment sine die."
+relating_to: Relating to documents issued by the Department of Transportation; prescribing an effective
+  date.
+relating_to_full: Relating to documents issued by the Department of Transportation; creating new provisions;
+  amending ORS 807.021, 807.040, 807.310, 807.400, 807.405 and 807.730; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 4550
+measure_created_date: '2025-02-16T14:13:25'
+measure_modified_date: '2025-02-20T11:02:00'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 30095
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 408.225
+  - ORS 807.021
+  - ORS 807.024
+  - ORS 807.040
+  - ORS 807.050
+  - ORS 807.060
+  - ORS 807.062
+  - ORS 807.070
+  - ORS 807.110
+  - ORS 807.130
+  - ORS 807.150
+  - ORS 807.310
+  - ORS 807.370
+  - ORS 807.400
+  - ORS 807.405
+  - ORS 807.410
+  - ORS 807.420
+  - ORS 807.730
+  - ORS 809.310
+  - ORS 809.419
+  - ORS 809.500
+  - ORS 809.520
+  from_relating_to_full:
+  - ORS 807.021
+  - ORS 807.040
+  - ORS 807.310
+  - ORS 807.400
+  - ORS 807.405
+  - ORS 807.730
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3623`.
+
+# HB 3623 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3623, 2025 Regular Session (2025R1)
+- **LC number:** 4550
+- **Created:** 2025-02-16T14:13:25
+- **Metadata last modified (upstream):** 2025-02-20T11:02:00
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 30095 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3623/Introduced>.
+
+## Summary
+
+**Catchline:** Requires that a person provide proof of lawful status in the United States before the Department of Transportation issues a noncommercial driver license, a noncommercial driver permit or an identification card.
+
+**Relating to:** Relating to documents issued by the Department of Transportation; prescribing an effective date.
+
+Digest: The Act says that before a person can get a regular driver license or ID card they need to show the DMV that they are legally allowed to be in the United States. (Flesch Readability Score: 70.1). 
+ Requires that a person provide proof of lawful status in the United States before the Department of Transportation issues a noncommercial driver license, a noncommercial driver permit or an identification card. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to documents issued by the Department of Transportation; creating new provisions; amending ORS 807.021, 807.040, 807.310, 807.400, 807.405 and 807.730; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3623
+Sponsored by Representative RESCHKE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that  before a person can get a regular driver license or ID card they need
+to show  the DMV that they are legally allowed to be in the United States. (Flesch Readability Score:
+70.1).
+Requires that a  person provide proof of lawful status in the United States before the Department
+of Transportation issues a noncommercial driver license, a  noncommercial driver permit or an
+identification card.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to documents issued by the Department of  Transportation; creating new provisions;
+amending ORS 807.021, 807.040, 807.310,  807.400, 807.405 and 807.730; and prescribing an effec-
+tive date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 807.021 is amended to read:
+807.021. (1) Before issuing, renewing or replacing a  driver license, driver permit or identification
+card, the Department of Transportation shall require a person to provide :
+(a) The Social Security number assigned to the person by the United States  Social Security
+Administration or a written statement that the person has not been assigned a Social  Security
+number[.]; and
+(b) Proof of lawful status in the United States.
+(2) For the purposes of subsection (1) of this section:
+(a) A person provides proof of lawful status in the United  States by submitting valid
+documentation, as defined by the department by rule, that the person is a  citizen or lawful
+permanent resident of the United States or otherwise has lawful status in the  United States
+in accordance with federal immigration laws.
+(b) A member of a federally recognized Indian tribe  located in Oregon or with an Oregon
+affiliation may submit a tribal identification card as proof of lawful status  in the United
+States if the department determines that the procedures used in issuing the card are  suffi-
+cient to prove that the member has lawful status in the United States.
+[(2)] (3) The department may issue, renew or replace a  driver license, driver permit or identifi-
+cation card for an applicant who has submitted a Social Security number only  after the department
+verifies the Social Security number with the United States Social Security Administration. In  order
+to verify  the person’s Social Security number, the department may require the person to provide
+proof, as defined by rule, of the person’s Social Security number.
+[(3)] (4)  This section does not apply if the department previously verified the Social Security
+number as required by subsection [ (2)] (3)  of this section and the person applying for the driver
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4550
+license, driver permit or identification card is a citizen or lawful permanent resident of the
+United States .
+[(4)] (5)  As used in this section, a “driver license,” “driver permit”  or “identification card”
+means a driver license, driver permit or identification card that is not a:
+(a) Real ID;
+(b) Commercial driver license; or
+(c) Commercial learner driver permit.
+SECTION 2.
+ ORS 807.040 is amended to read:
+807.040. (1) The Department of Transportation shall issue a driver  license to any person who
+complies with all of the following requirements:
+(a) The person must complete an application for a license under ORS 807.050.
+(b)(A) As required [ by] under  ORS 807.021, a person applying for a driver  license or driver
+permit must provide :
+(i) The Social Security number assigned to the person by the United States Social Security Ad-
+ministration or a written statement that the  person has not been assigned a Social Security
+number[.]; and
+(ii) Proof of lawful status in the United States.
+(B) As used in this paragraph, a “driver license” or “driver permit”  means a driver license or
+driver permit that is not a:
+(i) Real ID;
+(ii) Commercial driver license; or
+(iii) Commercial learner driver permit.
+(c) The person must submit to collection of biometric data by the department that  establish the
+identity of the person as described in ORS 807.024.
+(d) The person must not be ineligible  for the license under ORS 807.060 and must be eligible for
+the license under ORS 807.062.
+(e) The person must successfully pass  all examination requirements under ORS 807.070 for the
+class of license sought.
+(f) The person must pay the appropriate license fee under ORS 807.370 for the  class of license
+sought.
+(g) The person must pay the Student Driver Training Fund eligibility fee.
+(h) If the application is for a commercial driver  license, the person must be the holder of a Class
+C license or any higher class of license.
+(i) If  the application is for a commercial driver license, the department must have received and
+recorded, in a form approved by the department, the report of a medical examination that establishes
+that the person  meets the medical requirements to operate a commercial motor vehicle. The de-
+partment, by rule, shall  establish medical requirements for purposes of this paragraph. The medical
+requirements established under this paragraph may include any requirements the  department deter-
+mines are necessary for the  safe operation of vehicles permitted to be operated under the class of
+license for which the requirements are established.
+(j) If the  application is for a Real ID commercial driver license or a commercial driver license
+that is not a Real ID, the person must:
+(A) Have at least one year’s driving experience, including relevant  experience obtained in the
+military;
+(B) Not be subject to a lifetime suspension of commercial driving privileges under ORS  809.520;
+(C) Not be otherwise ineligible to hold a commercial driver license;
+(D) Hold a commercial learner driver permit if the person  must complete a skills demonstration
+under ORS 807.070 (3);
+(E) Submit valid documentation, as defined by the department by rule, that the person is a  citi-
+zen or lawful permanent resident of the United States or is a citizen of a country with a  Compact
+of Free Association with the United States; and
+(F) Provide the Social Security number assigned to the person by  the United States Social Se-
+curity Administration for verification by the department with the administration.
+(k) The person must present acceptable documents to  prove identity, date of birth and address.
+The department shall determine by rule which documents are acceptable to prove identity, date  of
+birth and address.
+(L) If the application is for a Real ID, the person must comply with  the requirements under the
+vehicle code for issuance of Real IDs.
+(2) Except  as provided in subsection (3) of this section, acceptable documents to prove identity,
+date of birth or address under subsection (1)(k)  of this section when a person is applying for a driver
+license, driver permit or identification  card that is not a Real ID, a commercial driver license, or
+a commercial learner driver permit, include but are not limited to the following:
+(a) An unexpired valid passport from the person’s country of citizenship;
+(b) An unexpired valid consular  identification document issued by the consulate of the person’s
+country of citizenship, if the department determines that the  procedure used in issuing the consular
+identification document is sufficient to prove the person’s identity;
+(c) A driver license, driver permit or identification  card issued by this state that expired not
+more than 13 years from the date of the current application; or
+(d) A driver license, driver permit or identification card issued by another state that:
+(A) Is unexpired; or
+(B) Expired not more than one year from the date of the current application.
+(3) The department  may refuse to accept any document described in subsection (2) of this section
+that is presented as proof of identity, date of birth or address, if the department has reason to  be-
+lieve that:
+(a) The document is fraudulent, has been altered  or does not belong to the person presenting the
+document; or
+(b) The procedures used by the agency that issued the document are no longer sufficient  for
+proving a person’s identity or date of birth.
+(4) Subsection (1)(j)(E) of this section does not apply to a limited term commercial driver license
+or a limited term commercial learner driver permit issued under ORS 807.730.
+(5) The department shall work with other agencies and organizations to attempt to  improve the
+issuance system for driver licenses.
+SECTION 3.
+ ORS 807.400 is amended to read:
+807.400. (1) The Department of Transportation shall issue an identification  card to any person
+who:
+(a) Is domiciled in or is a resident of this state, as described in ORS 807.062;
+(b) [ When applying for  an identification card that is not a Real ID, ] As required under ORS
+807.021, provides :
+(A) The Social Security number assigned  to the person by the United States Social Security
+Administration or a written statement that the person has not been assigned a Social  Security
+number[, as required under ORS 807.021 ]; and
+(B) Proof of lawful status in the United States;
+(c) Does not have a current, valid driver license;
+(d) Furnishes evidence of the person’s full legal name and date of birth; and
+(e) Submits to collection of biometric data by the department that establish the identity of the
+person as provided in ORS 807.024.
+(2) The department shall work with other agencies and organizations to attempt to  improve the
+issuance system for identification cards.
+(3) Every original application for  an identification card must be signed by the applicant. The
+department shall require proof to  verify the address of an applicant for issuance of an identification
+card in addition to other documents the department may require of  the applicant. If the address of
+an applicant has changed since the last time an identification card was issued to or renewed for  the
+applicant, the department shall require  proof to verify the address of the applicant for renewal of
+an identification card, in addition to anything else the department may require. The department
+shall adopt rules to identify what constitutes proof of address for purposes of this subsection. Proof
+of address may include, but  is not limited to, providing a utility bill, a tax return, a record from a
+financial institution, a proof  of insurance card or a health benefits card, a selective service card, a
+mortgage document or a  lease agreement. The applicant may provide the proof of address by sub-
+mitting proof in the form of  an original document or a copy of a document, use an electronic device
+to display proof of address, or provide proof through the use of a third party address verification
+system.
+(4) Every identification card shall be issued upon the standard  driver license form described
+under ORS 807.110 and shall bear a statement to the  effect that the identification card is not a
+driver license or any  other grant of driving privileges to operate a motor vehicle and is to be used
+for identification purposes only.  The department shall use the same security procedures, processes,
+materials and features for an identification card as are required for  a driver license under ORS
+807.110. The identification card is not required to contain the residence  address of persons listed in
+ORS 807.110 (1)(e).
+(5) If the identification card is a limited term identification card  issued under ORS 807.730, the
+limited term identification card shall indicate:
+(a) That it is a limited term identification card; and
+(b) The date on which the limited term identification card expires.
+(6) Upon order of the juvenile court, the department shall include on the card the fact that the
+person issued the identification card is an emancipated minor.
+(7) Upon request  of the person to whom the identification card is issued and presentation of
+proof, as determined by the department by rule, that the person is a veteran, as defined  in ORS
+408.225, the department shall include on the card the fact that the person is a veteran.
+(8) Each original identification card shall  expire on a date consistent with the expiration dates
+of licenses as set forth in ORS 807.130.
+(9) Identification cards shall be renewed under the terms for renewal of licenses as set forth  in
+ORS 807.150.
+(10) The fee for an original identification card or a renewal thereof shall be the fee established
+under ORS 807.410.
+(11) An identification card becomes invalid if  the holder of the card changes the holder’s resi-
+dence address from that shown on the identification card and  does not provide the department with
+notice of the change as required under ORS 807.420.
+(12) If a person to whom an identification card was  issued and who changes the person’s resi-
+dence address submits an application for a replacement identification card, the department may  is-
+sue a replacement identification card containing the new address upon receipt of  the old
+identification card and payment of  the fee established under ORS 807.410. Except as otherwise pro-
+vided in subsection (14) of this section, the replacement identification card shall  bear the same dis-
+tinguishing number as the card being replaced.
+(13) An identification card becomes invalid if the  holder of the card changes the holder’s name
+from that shown on the card, including a change  of name by marriage, without providing the de-
+partment with notice of the change as required under ORS 807.420. Upon  receiving such notice and
+the old identification card, the department shall issue a replacement identification card upon  pay-
+ment of the fee established under ORS 807.410.
+(14) In the event that, for a reason identified by the department  by rule, a person needs a re-
+placement identification card that bears a distinguishing number different  from the number on the
+card being replaced, the person to whom the card was issued may obtain a replacement card from
+the department upon  furnishing proof satisfactory to the department of the need for such replace-
+ment and payment of the fee established under ORS 807.410.
+(15) If a person furnishes proof that the person is a veteran, as defined  in ORS 408.225, and the
+person’s identification card does not include the fact that  the person is a veteran, the department
+shall issue a replacement identification card that includes the fact that the person is a veteran.
+(16) The department may establish by rule reasons for issuing replacement  identification cards
+that are in addition  to the reasons identified in subsections (12) to (15) of this section. The fee for
+a replacement identification card is provided under ORS 807.410.
+(17) Upon cancellation of an identification card, the card is terminated and must be surrendered
+to the department. An identification card may be canceled for any of the  reasons that driving priv-
+ileges or a driver license may be canceled under ORS 809.310. The department may reissue  an
+identification card canceled under this subsection when the applicant has satisfied all requirements
+for the identification card.
+(18) Notwithstanding any other provision of this section, the department may  issue an identifi-
+cation  card  to a person under this subsection without charge when the person surrenders the
+person’s driver license or driver  permit to the department for reasons described in this subsection.
+If the department issues an identification card  under this subsection, the identification card shall
+expire at the same time as the surrendered  driver license or driver permit would have expired. An
+identification card issued under this subsection is subject to  the same requirements and fees for
+renewal or upon expiration as  any other identification card issued under this section. The depart-
+ment may issue identification cards under this subsection for any of the following reasons:
+(a) The person voluntarily surrenders the person’s driver license or driver permit to  the de-
+partment based upon the person’s recognition that the person is no longer competent to drive.
+(b) The person’s driving privileges  are suspended under ORS 809.419 (1). This paragraph only
+applies if the person voluntarily surrenders the person’s driver license or driver  permit to the de-
+partment as provided under ORS 809.500.
+(19) If a person is applying for an identification card that is a Real ID, the  person must comply
+with the requirements under the vehicle code for issuance of Real IDs.
+SECTION 4.
+ ORS 807.730 is amended to read:
+807.730. [(1) The Department of Transportation may issue or replace a Real ID limited term driver
+license, Real ID  limited term commercial driver license, Real ID limited term driver permit, limited
+term commercial learner driver permit, limited  term commercial driver license that is not a Real ID
+or Real ID limited term identification  card only for a person who provides proof, as determined by the
+department by rule, that the person has lawful status in the United States on a temporary basis. ]
+(1) The Department of Transportation may issue or replace the following  for a person
+who provides proof, as determined by the department by rule, that  the person has lawful
+status in the United States on a temporary basis:
+(a) A limited term Class C driver license;
+(b) A limited term driver permit;
+(c) A limited term identification card;
+(d) A Real ID limited term Class C driver license;
+(e) A Real ID limited term driver permit;
+(f) A Real ID limited term identification card;
+(g) A Real ID limited term commercial driver license;
+(h) A limited term commercial learner driver permit; or
+(i) A limited term commercial driver license.
+[(2) A Real ID limited term driver license, Real ID  limited term commercial driver license, limited
+term commercial driver license that  is not a Real ID or Real ID limited term identification card is
+valid:]
+(2) Any type of limited term driver license  or identification card issued under this section
+is valid:
+(a) During the applicant’s authorized stay in the United States, but no longer than  eight years
+from the date of issuance; or
+(b) If there is no definite end to the authorized stay, for a period of one year.
+[(3) A Real ID limited term driver permit or a limited term commercial learner driver  permit is
+valid:]
+(3) Any type of limited term driver permit issued under this section is valid:
+(a) During the applicant’s authorized stay in the United States, but no longer  than the period
+of time for which a driver permit of the same type is issued by the department.
+(b) If there is no definite end to the authorized stay, for a period of one year but no longer than
+the period of time for which a driver permit of the same type is issued by the department.
+[(4) A Real ID limited term driver license, Real ID  limited term commercial driver license, limited
+term commercial driver license that is not a Real ID, Real ID limited term driver permit or Real ID
+limited term identification card may  be renewed only upon presentation of valid documentation, as de-
+termined by the department by rule, that  the status by which the applicant qualified for the Real ID
+limited term driver license, Real ID limited term  commercial driver license, limited term commercial
+driver license that is not a Real ID, Real ID limited  term driver permit or Real ID limited term
+identification card has been extended or is still in effect. ]
+(4) Any type of identification card,  driver license or driver permit issued under this sec-
+tion may be renewed only upon presentation of  valid documentation, as determined by the
+department by rule, that the  status by which the applicant qualified for the document has
+been extended or is still in effect.
+(5) A  [ Real ID ] limited term driver license or [ Real ID ] limited term driver permit grants the
+same driving privileges as a driver license or driver permit.
+(6) A [ Real ID ] limited term  identification card  of any type issued under this section  shall
+bear a statement to the effect that the [ Real ID ] limited term identification card is  not a license or
+any other grant of driving privileges to operate a motor vehicle and is to be used for  identification
+purposes only.
+(7) A limited term commercial driver license, a Real ID limited  term commercial driver license
+or limited term commercial learner driver permit grants the  same privileges as a commercial driver
+license or commercial learner driver permit.
+(8) The department may issue  a Real ID limited term commercial driver license, limited term
+commercial driver license that is not a Real ID or limited term commercial learner driver permit  if
+the applicant is otherwise eligible for commercial driving privileges.  The department may adopt
+rules describing  eligibility requirements for Real ID limited term commercial driver licenses, limited
+term commercial driver licenses that are not Real ID and limited term  commercial learner driver
+permits.
+[(9) A Real ID limited term driver license, Real ID  limited term commercial driver license, limited
+term commercial driver license that is not a Real ID, Real ID limited term driver  permit, limited term
+commercial learner driver permit or Real ID limited term identification card shall  clearly indicate on
+the face of the card and in the machine readable zone that it is a Real ID limited term driver license,
+Real ID limited term commercial driver license, limited term commercial driver  license that is not a
+Real ID, Real ID limited  term driver permit, limited term commercial learner driver permit or Real
+ID limited term identification card and indicate the date on which it expires. ]
+(9) Any card issued  under this section that is a Real ID must clearly indicate on the face
+of the card and in the machine readable zone that the card is a Real ID.
+(10) Any card issued  under this section must clearly indicate the date on which it expires.
+SECTION 5.
+ ORS 807.310 is amended to read:
+807.310. (1) The Department  of Transportation shall provide for the issuance of applicant tem-
+porary driver permits in a manner consistent with this section.
+(2) The department may issue an applicant  temporary driver permit to an applicant for a Class
+C driver license or for a noncommercial driver permit while  the department is determining all facts
+relative to application  for the Class C driver license or noncommercial driver permit. The depart-
+ment shall  set forth on the applicant temporary driver permit the driving privileges granted under
+the permit.
+(3) The holder of an applicant temporary driver permit must have the temporary driver permit
+on the holder’s person while operating a motor vehicle. The holder of an applicant temporary driver
+permit must operate within the driving privileges granted under the temporary driver permit.
+(4) An applicant temporary driver permit is valid for a period of 30 days from the date issued.
+The department may extend the term of the permit for sufficient cause. An extension of  the term
+of the permit may not exceed an additional 30 days.
+(5) If an applicant  has complied with all the requirements for an application for a driver
+license or driver permit, except that the applicant is unable to  produce the documentation
+required by the department under  ORS 807.021 and 807.730, the department, at the time of
+application, may issue to the applicant an applicant temporary driver permit  as provided in
+this section if the applicant certifies that the applicant is, to the best of the  applicant’s
+knowledge, legally present in the United States.
+(6) An applicant temporary driver permit issued to an applicant who is applying for non-
+commercial driving privileges under subsection (5) of this section is valid  for a period of 90
+days from  the date issued. The department may extend the term of the permit up to two
+times for sufficient  cause. Each extension of the term of the permit may not exceed 90 days.
+(7) Notwithstanding subsection (6) of this section, the department may, in the manner
+provided by rule, further extend the term of the  applicant temporary driver permit for an
+applicant who needs additional time to obtain the documentation required under ORS 807.021
+and 807.730.
+[(5)] (8)  An applicant  temporary driver permit automatically becomes invalid if the applicant’s
+license or permit is issued or refused for good cause.
+[(6)] (9)  The department may not  charge a fee for issuance of an applicant temporary driver
+permit under this section.
+[(7)] (10) The department may, by rule, establish when  an applicant may be issued a temporary
+driver permit for commercial driving privileges.
+SECTION 6.
+ ORS 807.405 is amended to read:
+807.405. (1) The Department of Transportation shall provide for the issuance  of applicant tem-
+porary identification cards in a manner consistent with this section.
+(2) The department may issue an applicant temporary identification card to an applicant  while
+the department is determining all facts relative to the application for an identification card.
+(3) An applicant temporary identification card is valid  for a period of 30 days from the date is-
+sued. The department may extend the term of the applicant temporary identification card for suffi-
+cient cause. An  extension of the term of the applicant temporary identification card may not exceed
+an additional 30 days.
+(4) If  an applicant has complied with all the requirements for an application for an iden-
+tification card, except that the applicant is unable to produce  the documentation required
+by the department under ORS 807.021 and 807.730, the department, at the  time of application,
+may issue to the applicant an applicant temporary identification  card as provided in this
+section if  the applicant certifies that the applicant is, to the best of the applicant’s knowl-
+edge, legally present in the United States.
+(5) An applicant temporary identification card issued to an applicant under subsection  (4)
+of this section is valid for  a period of 90 days from the date issued. The department may
+extend the term of the permit up to two times for  sufficient cause. Each extension of the
+term of the permit may not exceed 90 days.
+(6) Notwithstanding subsection (5) of this section, the department may, in the  manner
+provided by rule, further  extend the term of the applicant temporary identification card for
+an applicant who needs additional time to obtain the documentation required under ORS
+807.021 and 807.730.
+[(4)] (7)  An applicant temporary identification card  automatically becomes invalid if the
+applicant’s identification card is issued or refused for good cause.
+[(5)] (8)  The department may not charge a fee for issuance of an  applicant temporary identifi-
+cation card under this section.
+SECTION 7.
+(1) The amendments to ORS 807.021, 807.040, 807.310, 807.400, 807.405 and
+807.730 by sections 1 to 6 of this 2025 Act become operative on January 1, 2026.
+(2) The Department of Transportation may take any action before the  operative date
+specified in subsection (1) of this section that is necessary  to enable the department to ex-
+ercise, on and after the operative date specified in subsection (1) of this section, all of the
+duties, functions and powers conferred on the department by the amendments to ORS
+807.021, 807.040, 807.310, 807.400, 807.405 and 807.730 by sections 1 to 6 of this 2025 Act.
+SECTION 8.
+(1) The amendments to ORS 807.021, 807.040, 807.310, 807.400, 807.405 and
+807.730 by sections 1 to 6 of this 2025  Act do not affect the validity of a driver license, driver
+permit or identification  card issued before the operative date specified in section 7 of this
+2025 Act.
+(2)(a) An individual who holds a driver license, driver permit  or identification card as of
+the day immediately preceding the operative date specified in section 7 of this 2025 Act  does
+not need to provide proof of  lawful status in the United States in order to replace the
+individual’s current driver license, driver permit or identification card until  the driver li-
+cense, driver permit or  identification card that was issued to the individual before the oper-
+ative date specified in section 7 of this 2025 Act has expired or  the individual requests a
+replacement before the expiration of the  current driver license, driver permit or identifica-
+tion card.
+(b) As used in this subsection, a “driver license,” “driver  permit” or “identification
+card” means a driver permit, driver license or identification card that is not a:
+(A) Real ID;
+(B) Commercial learner driver permit; or
+(C) Commercial driver license.
+SECTION 9.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 807.021, ORS 807.040, ORS 807.310, ORS 807.400, ORS 807.405, ORS 807.730
+- From bill text (Introduced version): ORS 408.225, ORS 807.021, ORS 807.024, ORS 807.040, ORS 807.050, ORS 807.060, ORS 807.062, ORS 807.070, ORS 807.110, ORS 807.130, ORS 807.150, ORS 807.310, ORS 807.370, ORS 807.400, ORS 807.405, ORS 807.410, ORS 807.420, ORS 807.730, ORS 809.310, ORS 809.419, ORS 809.500, ORS 809.520
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `4470970b3c567712a66d79a0b51c56b886de06e35a8990a337c0c11ec530b9ec` (snapshot `_meta/snapshots/measure-2025r1-hb3623-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3623/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3623` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

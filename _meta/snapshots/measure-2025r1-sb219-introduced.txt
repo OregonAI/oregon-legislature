@@ -1,0 +1,75 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 219
+Sponsored by Senator SMITH DB (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Changes the general powers of the PUC. (Flesch Readability Score: 66.7).
+Modifies the general powers of the Public Utility Commission by removing  the commission’s
+general power to balance the interests of the utility investor  and the consumer in establishing fair
+and reasonable rates. Specifies that the commission is to protect the interests of the consumer.
+A BILL FOR AN ACT
+Relating to the Public Utility Commission; amending ORS 756.040.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 756.040 is amended to read:
+756.040. (1) In addition to the powers and duties now or  hereafter transferred to or vested in the
+Public Utility Commission, the commission shall  represent the customers of any public utility or
+telecommunications utility and  the public generally in all controversies respecting rates, valuations,
+service and all matters of which the commission has jurisdiction. In respect thereof the commission
+shall make use of the jurisdiction and powers of the office to protect such customers, and the  public
+generally, from unjust and unreasonable exactions and practices  and to obtain for them adequate
+service at fair and reasonable rates. The commission shall [ balance] protect the interests  of [ the
+utility investor and ] the consumer in establishing fair and reasonable rates. Rates are fair and rea-
+sonable for the purposes of this subsection if the rates  provide adequate revenue both for operating
+expenses of the public utility or telecommunications utility and  for capital costs of the utility[ , with
+a return to the equity holder that is: ]
+[(a) Commensurate with the return on  investments in other enterprises having corresponding risks;
+and]
+[(b) Sufficient to ensure confidence in the financial integrity of the utility, allowing  the utility to
+maintain its credit and attract capital ].
+(2) The commission is vested  with power and jurisdiction to supervise and regulate every public
+utility and telecommunications utility in this state, and to do all things necessary and  convenient
+in the exercise of such power and jurisdiction.
+(3) The commission  may participate in any proceeding before any public officer, commission or
+body of  the United States or any state for the purpose of representing the public generally and the
+customers of the services of any public utility  or telecommunications utility operating or providing
+service to or within this state.
+(4) The commission  may make joint investigations, hold joint hearings within or without this
+state and issue concurrent  orders in conjunction or concurrence with any official, board, commission
+or agency of any state or of the United States.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3800

@@ -1,0 +1,251 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3951
+title: 'HB 3951 (2025R1): Provides that veterinary facilities do not qualify as animal rescue entities
+  for purposes of regulating animal rescue entities.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3951
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3951/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: cab36e74f3a03f03ccc98f4ed7102d3c13d3547fc49b8b2fc76b580add60af96
+snapshot_id: measure-2025r1-hb3951-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 167.310
+  - ORS 167.374
+  - ORS 609.415
+  - ORS 609.420
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3951
+prefix_meaning: House Bill
+catch_line: Provides that veterinary facilities do not qualify as animal rescue entities for purposes
+  of regulating animal rescue entities.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act changes the agency that oversees places that rescue animals. The Act\
+  \ changes the records that the places have to keep. The Act makes changes related to licensing the places.\
+  \ (Flesch Readability Score: 70.8). \n\tProvides that veterinary facilities do not qualify as animal\
+  \ rescue entities for purposes of regulating animal rescue entities. Directs the State Department of\
+  \ Agriculture to enforce provisions related to regulating animal rescue entities. Makes changes related\
+  \ to recordkeeping and licensing requirements for animal rescue entities. Removes the impoundment of\
+  \ animals as a civil penalty for a violation of provisions related to animal rescue entities."
+relating_to: Relating to animal rescue entities.
+relating_to_full: Relating to animal rescue entities; amending ORS 609.415 and 609.420.
+at_the_request_of: null
+lc_number: 4763
+measure_created_date: '2025-03-26T14:46:35'
+measure_modified_date: '2025-04-02T07:22:24'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 10660
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 167.310
+  - ORS 167.374
+  - ORS 609.415
+  - ORS 609.420
+  from_relating_to_full:
+  - ORS 609.415
+  - ORS 609.420
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3951`.
+
+# HB 3951 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3951, 2025 Regular Session (2025R1)
+- **LC number:** 4763
+- **Created:** 2025-03-26T14:46:35
+- **Metadata last modified (upstream):** 2025-04-02T07:22:24
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 10660 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3951/Introduced>.
+
+## Summary
+
+**Catchline:** Provides that veterinary facilities do not qualify as animal rescue entities for purposes of regulating animal rescue entities.
+
+**Relating to:** Relating to animal rescue entities.
+
+Digest: The Act changes the agency that oversees places that rescue animals. The Act changes the records that the places have to keep. The Act makes changes related to licensing the places. (Flesch Readability Score: 70.8). 
+ Provides that veterinary facilities do not qualify as animal rescue entities for purposes of regulating animal rescue entities. Directs the State Department of Agriculture to enforce provisions related to regulating animal rescue entities. Makes changes related to recordkeeping and licensing requirements for animal rescue entities. Removes the impoundment of animals as a civil penalty for a violation of provisions related to animal rescue entities.
+
+**RelatingToFull (verbatim upstream field):** Relating to animal rescue entities; amending ORS 609.415 and 609.420.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3951
+Sponsored by Representative LEVY B; Representatives RESCHKE, SCHARF
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes the agency that oversees places that rescue animals. The Act  changes
+the records that the places have to keep. The Act makes changes related to licensing  the places.
+(Flesch Readability Score: 70.8).
+Provides that veterinary facilities do not qualify as animal rescue entities for purposes of regu-
+lating animal rescue  entities. Directs the State Department of Agriculture to enforce provisions
+related to regulating animal rescue  entities. Makes changes related to recordkeeping and licensing
+requirements for animal rescue entities. Removes the impoundment of animals as a  civil penalty for
+a violation of provisions related to animal rescue entities.
+A BILL FOR AN ACT
+Relating to animal rescue entities; amending ORS 609.415 and 609.420.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 609.415 is amended to read:
+609.415. (1) As used in this section and ORS 609.420:
+(a) “Animal” means any nonhuman mammal, bird, reptile[ ,] or  amphibian [ or fish ].
+(b) “Animal rescue entity” :
+(A) Means an individual or organization, including but  not limited to an animal control agency,
+humane society, animal shelter, animal sanctuary or boarding kennel not subject to ORS 167.374[ ,].
+(B) [ but excluding ] Does not mean  a veterinary facility[ ,] that keeps, houses and maintains
+animals in the [ individual’s or organization’s ] legal custody [ 10 or more animals ] of the veterinary
+facility, whether  the animals are  physically located at [ a] the veterinary  facility [ operated by the
+individual or organization ] or kept, housed or maintained elsewhere[ , and that solicits or accepts  do-
+nations in any form ].
+[(c) “Enforcing agency” means the State Veterinarian. ]
+(2) [ Any ] An  animal rescue entity shall [ comply with all of the following record-keeping  require-
+ments]:
+(a) Maintain a record for each animal [ that identifies: ] in the  legal custody of the animal
+rescue entity, in compliance with rules adopted by the State Department of Agriculture
+pursuant to subsection (6)(a) of this section.
+[(A) The date of birth for the animal or, if the date of  birth is unknown, the approximate age of
+the animal;]
+[(B) The date the animal rescue entity acquired possession, control or charge of the  animal and the
+source of the animal; ]
+[(C) The number of offspring the animal produced while in the  possession or control of the animal
+rescue entity, if applicable; ]
+[(D) The disposition the animal rescue entity  makes of each animal possessed by, controlled by or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4763
+in the charge of the animal rescue  entity, including the date of disposition, manner of disposition and
+the name and address for any  individual or organization taking possession, control or charge of an
+animal;]
+[(E) The source of the animal,  date of acquisition, age, sex, breed type and weight of the animal
+at intake; and ]
+[(F) A photograph of the animal taken within 24 hours of intake by the animal rescue entity. ]
+(b) Permit an authorized  representative of the [ enforcing agency ] department to inspect records
+of the animal  rescue entity required by this subsection and furnish any reports and information re-
+quired by the [ enforcing agency, as provided under ORS 609.420. ] department if the department:
+(A) Conducts an on-site investigation of the premises of the animal  rescue entity pursu-
+ant to ORS 609.420; or
+(B) Audits the animal rescue entity pursuant to rules described in subsection (6)(b) of
+this section.
+(3) An animal rescue entity  that keeps, houses  and maintains 10 or more animals in the
+legal custody of the animal rescue entity  shall [ comply with the following licensing
+requirements]:
+(a) [The entity shall ] Obtain a license issued by the [ enforcing agency ] department in accordance
+with this section and [ any] rules [ or policies ] adopted by the [ enforcing agency ] department; and
+(b) [ The entity  shall ] Pay a reasonable fee, as determined by the [ enforcing agency ]
+department, for a license or an annual renewal of the license to provide for the  actual cost of en-
+forcing this section and ORS 609.420.
+[(4) The enforcing agency may not issue or renew a license under this section unless the  animal
+rescue entity is in compliance with this section and ORS 609.420. ]
+[(5) An animal rescue entity may transfer  a license issued under this section to another person with
+the written consent of the enforcing agency, provided  that the transferee otherwise qualifies to be li-
+censed as  an animal rescue entity under this section and rules applicable to the transferee and does
+not have a certified unpaid debt to the state. The transferee shall submit a signed release  to the en-
+forcing agency permitting the performance  of a background investigation of the transferee, and the en-
+forcing agency shall conduct the background investigation. ]
+[(6) An applicant for a license issued under this section shall demonstrate that the animal  rescue
+entity that is the subject of the application complies with all  standards imposed under applicable
+law.]
+[(7) Any animal rescue entity is subject to inspection by the enforcing agency  as provided in ORS
+609.420.]
+[(8)(a)] (4) A violation of this section may result in imposition of  civil penalties to be determined
+by the [ enforcing agency ] department, including but not  limited to [ impoundment of all animals un-
+der the animal  rescue’s control, ] the denial, suspension or revocation of the animal [ rescue’s ] rescue
+entity’s license [ to operate animal  rescue operations ] under this section  and a civil penalty of not
+more than $500 for each violation.
+[(b) Before a civil penalty may  be imposed under this section, the enforcing agency shall adopt
+rules or policies that: ]
+[(A) Ensure  that a person who is the subject of an alleged violation receives notice of the
+allegations and potential imposition of civil penalties; ]
+[(B) Allow for an opportunity for a hearing prior to the imposition of civil penalties; and ]
+[(C) Allow for the opportunity for judicial review of the imposition of civil penalties. ]
+[(9)] (5) Moneys [ raised] received by the [ enforcing agency under ] department pursuant to  this
+section are dedicated to and  shall be used for [ enforcing agency operations undertaken pursuant to ]
+implementing this section and ORS 609.420.
+(6) The department shall adopt rules to implement this section, including rules that:
+(a) Require an animal rescue entity to  maintain a record for each animal in the legal
+custody of the animal rescue entity;
+(b) Establish a process for auditing animal rescue entities that incorporates consider-
+ation of the compliance histories of the animal rescue entities;
+(c) Establish licensing requirements for animal rescue entities;
+(d) Ensure that an animal rescue entity that  is the subject of an alleged violation re-
+ceives notice of the allegations and of the potential imposition of civil  penalties under this
+section;
+(e) Allow an animal rescue  entity to have an opportunity for a hearing prior to the im-
+position of civil penalties under this section; and
+(f) Allow an animal rescue entity to have an opportunity for judicial review  of the impo-
+sition of civil penalties.
+SECTION 2.
+ ORS 609.420 is amended to read:
+609.420. (1) Whenever an authorized representative of [ an enforcing agency ] the State  Depart-
+ment of Agriculture  is advised or has reason to believe  that an animal rescue entity is operating
+without a license, the  authorized representative may visit and conduct an on-site investigation of the
+premises of the animal rescue entity.  The purpose of an investigation under this section is to de-
+termine whether the animal rescue entity is subject to the requirements of ORS 609.415.
+(2) At any reasonable time, an authorized representative of [ an enforcing agency ] the depart-
+ment, a law enforcement agency or the United States Department  of Agriculture may conduct an
+on-site investigation of the premises of any licensed  animal rescue entity to determine whether the
+entity is in compliance with ORS 609.415  or a rule adopted thereunder .
+(3) An authorized representative of the [ enforcing agency ] department  or  a law enforcement
+agency shall conduct an  on-site investigation of the premises of any licensed animal rescue entity
+if the  department or  agency receives a complaint about the animal rescue entity related to  the
+failure to comply with the requirements of ORS 609.415  or a rule adopted  thereunder  that the
+department or  agency determines is credible  and serious. The investigation by the  department
+or agency shall be limited to determining if the animal  rescue entity has failed to comply with the
+requirements of ORS 609.415  or a rule adopted thereunder .
+(4) Any state agency that receives a complaint  about a licensed animal rescue entity shall notify
+the [ enforcing agency ] department  about the complaint and any subsequent action taken by the
+state agency based on that complaint.
+[(5) A licensed animal rescue entity shall permit an authorized representative of the enforcing
+agency to inspect records of the animal rescue entity and shall  furnish any reports and information
+required by the enforcing agency. ]
+[(6)] (5)  If, during the course of an [ inspection] investigation made under  this section, the [ en-
+forcing agency ] department finds evidence of animal cruelty in violation of ORS  167.310 to 167.351,
+167.352, 167.355 or 167.360 to 167.372, the [ enforcing agency ] department  shall seize the evidence
+and report the violation to law enforcement. Evidence of animal cruelty found through a valid  [ in-
+spection] investigation under this section shall be presumed admissible in  any subsequent criminal
+proceeding.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 609.415, ORS 609.420
+- From bill text (Introduced version): ORS 167.310, ORS 167.374, ORS 609.415, ORS 609.420
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `cab36e74f3a03f03ccc98f4ed7102d3c13d3547fc49b8b2fc76b580add60af96` (snapshot `_meta/snapshots/measure-2025r1-hb3951-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3951/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3951` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

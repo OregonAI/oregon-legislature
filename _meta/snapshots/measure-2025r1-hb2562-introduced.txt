@@ -1,0 +1,103 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2562
+Introduced and printed pursuant to  House Rule 12.00. Presession filed (at the request of Governor Tina Kotek for
+Department of Consumer and Business Services)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells the state insurance agency to gather data  about how insurers decide how much to
+charge for auto insurance and  who gets covered. Tells the agency what kind of data to collect and
+to look for any bias there might be. Goes into effect 91  days after the session ends. (Flesch Read-
+ability Score: 63.0).
+Requires the Department of Consumer and  Business Services to collect a series of data related
+to the underwriting practices and criteria involved in issuing motor vehicle liability insurance poli-
+cies in this state. Specifies the required contents and focus of the data collection effort.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to underwriting practices for motor  vehicle liability insurance policies in this state; and
+prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Department of Consumer and Business Services  shall collect a series
+of data related to underwriting criteria and practices and rating  decisions that insurers who
+issue motor vehicle liability insurance policies  use to determine the insurability of, and pre-
+mium rates and coverage for, insureds in this state.
+(2)(a) For the process described in subsection (1) of this section, the department shall:
+(A) Require under ORS 731.296 that insurers collect, compile and  provide to the depart-
+ment a continuous series of data, for  a duration and with the contents, form and format that
+the department specifies by rule, concerning:
+(i) Insurer underwriting practices and criteria;
+(ii) Insurance rate setting practices and criteria; and
+(iii) Demographic data for persons that apply for insurance and, separately,  persons who
+enter into insurance contracts with insurers.
+(B) Review and evaluate rating models for motor  vehicle liability insurance policies that
+incorporate new or previously unused demographic data into underwriting.
+(C) Research and analyze the data the department receives under subparagraph (A) of
+this paragraph to determine whether unfairly discriminatory underwriting and  rating prac-
+tices occur and, if so, the nature and extent of the unfairly discriminatory practices.
+(D) Compare the results of the department’s analysis under subparagraph (C) of this
+paragraph with results that the department obtains by using models  that the department
+reviews and evaluates under subparagraph (B) of this paragraph.
+(E) Use the comparison described in subparagraph (D) of this  paragraph, along with any
+other methodology, metrics  or methods the department determines are useful and appropri-
+ate, to determine whether insurers accept applications for insurance, issue motor vehicle li-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 366
+HB 2562
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+ability insurance policies and charge premiums in this state fairly and without bias or unfair
+discrimination or whether disparities exist or evidence of bias or unfair discrimination exists.
+(b) In collecting and providing to the  department the data described in paragraph
+(a)(A)(ii) of this subsection, an insurer  shall excise or redact personal information about in-
+sureds or applicants for insurance that could identify any individual.
+(c) Data and information the department receives under this  section is confidential and
+is subject to ORS 705.137.
+(3) The department may collect additional data or information that  the department
+deems useful for purposes of illustration, analysis or  evaluation or for otherwise carrying
+out the purposes of this section.
+SECTION 2.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

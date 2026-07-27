@@ -1,0 +1,185 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4158
+Sponsored by Representatives NGUYEN  H, NGUYEN D, TRAN; Representatives REYNOLDS, RUIZ, WALTERS,
+Senators FREDERICK, JAMA, MEEK, PATTERSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would give money to a state  agency to help develop or improve child care in
+the state. (Flesch Readability Score: 76.2).
+Establishes the Home and Small Center Child Care Fund.
+Directs the Oregon Business Development Department to administer a grant program  to provide
+financial  assistance  to child care facilities that serve a maximum of 75 children for the purpose of
+establishing or expanding child care infrastructure.
+Appropriates moneys to the department for deposit in the fund to carry out the program.
+A BILL FOR AN ACT
+Relating to child care.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1)(a) The Home and Small Center Child Care  Fund is established in the
+State Treasury, separate and distinct from the General Fund. Interest earned by  the Home
+and Small Center Child Care Fund shall be credited to the fund.
+(b) Moneys in the fund are continuously  appropriated to the Oregon Business Develop-
+ment Department to carry out section 2 of this 2024 Act.
+(c) The department shall administer the fund  in consultation with the Department of
+Early Learning and Care.
+(2) The fund shall consist of moneys credited to the fund, including:
+(a) Moneys appropriated to the fund by the Legislative Assembly;
+(b) Moneys transferred to the fund by the Oregon Business Development Department;
+(c) Earnings on moneys in the fund;
+(d) Moneys received from the federal or state government; and
+(e) Moneys from any other source, including, but not limited to, grants and gifts.
+SECTION 2.
+(1) The Oregon Business Development Department  shall administer a grant
+program to provide financial assistance to child care facilities, as defined in  ORS 329A.250,
+that serve a maximum of 75 children for allowable costs expended to establish or expand
+child care infrastructure in this state.
+(2) The department shall coordinate with  the Department of Early Learning and Care and
+consult with relevant stakeholders, including but not limited to nonprofit  and for-profit en-
+tities that are directly or indirectly involved in child care throughout the state, to  collect
+necessary information that may be used to facilitate the design and implementation of  the
+program.
+(3) For purposes of this section, allowable costs include but are not limited to:
+(a) Costs for the planning and design of early learning and care facilities.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 50
+HB 4158
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Costs  for property acquisition to be used for early learning and care facilities or child
+care facility development projects.
+(c) Repairs, improvements  and renovations to early learning and care facilities, including
+climate resilience modifications, energy efficiency improvements, seismic retrofitting and
+necessary repairs due to a natural disaster.
+(d) Child care facility development projects, including direct project management costs.
+(e) Construction costs and expenses.
+(f) Costs related to providing support to organizations in the establishment or expansion
+of child care providers and facilities.
+(g) Other costs  that the Oregon Business Development Department, after consulting with
+the Department of Early Learning and Care, determines to  be necessary to carry out this
+section.
+(4) In reviewing applications on a case-by-case basis under this section, the Oregon
+Business Development Department shall:
+(a) Give priority to applicants that commit to constructing a new child care facility that
+will serve a  child population comprised of a minimum of 30 percent of children who receive
+or are otherwise eligible to receive a child care subsidy.
+(b) Distribute moneys in a manner that maximizes the development or expansion of child
+care infrastructure in this state.
+(5) In addition to the allowable costs under subsection (3) of this section, the department
+may use  a maximum of 10 percent of the moneys appropriated to the department under
+section 3 of this 2024 Act to:
+(a) Pay administrative costs incurred by the department.
+(b) Contract with third parties to provide technical assistance.
+(6) If the funds available in the Home  and Small Center Child Care Fund are not adequate
+to provide financial support to all  eligible applicants that have been approved by the depart-
+ment to receive financial assistance under this section,  the department may prioritize dis-
+tribution based on an applicant’s ability or demonstrated  commitment to provide any of the
+following child care services to families with the greatest child care needs:
+(a) Culturally and linguistically specific and appropriate early learning and care;
+(b) Child care during nonstandard working hours such as evenings and weekends;
+(c) Child care for infants and toddlers;
+(d) Early learning and care that aligns with parent preferences; or
+(e) Early  learning and care in communities that have historically experienced a lack of
+accessible and affordable child care.
+(7) The department, in consultation with the Department  of Early Learning and Care,
+shall adopt rules to implement this section. At a minimum, the rules must include:
+(a) An  application process by which an eligible applicant may apply for financial assist-
+ance under this section;
+(b) The terms and conditions for any agreements related  to financial assistance provided
+under this section;
+(c) A process for reviewing and approving applications submitted for financial  assistance
+received under this section;
+(d) The amount of financial assistance that may be provided to eligible applicants; and
+(e) A process for establishing prioritizations upon which  the Oregon Business Develop-
+[2]
+HB 4158
+1
+2
+3
+4
+5
+6
+7
+8
+ment Department may base the awarding of grants for financial assistance under this section
+to eligible applicants located in  rural geographic areas and among historically underserved
+communities.
+SECTION 3.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Oregon Business  Development Department, for the biennium ending June 30,
+2025, out of the General Fund,  the amount of $5,000,000, for deposit in the Home and Small
+Center Child Care Fund established under section 1 of this 2024 Act.
+[3]

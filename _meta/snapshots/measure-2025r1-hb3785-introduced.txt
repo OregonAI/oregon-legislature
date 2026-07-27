@@ -1,0 +1,278 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3785
+Sponsored by Representative CHAICHI; Representative HUDSON
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act lets people convicted of a felony vote while in custody.  (Flesch Readability
+Score: 60.7).
+Allows persons convicted of  a felony to register to vote, update voter registration and vote in
+elections while incarcerated. Provides that a  person does not forfeit and may not be deprived of the
+right to vote while incarcerated on a felony. Specifies that a  person’s residence is where the person
+resided prior to incarceration.
+A BILL FOR AN ACT
+Relating to voting by adults in custody; creating new provisions; and amending  ORS 137.281, 247.013
+and 247.035.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 137.281 is amended to read:
+137.281. (1) In any felony case, when the defendant is sentenced to a  term of incarceration, the
+defendant is deprived of all rights and privileges described  in subsection (3) of this section from the
+date of sentencing until:
+(a) The defendant is released from incarceration; or
+(b) The defendant’s conviction is set aside.
+(2) Subsection  (1) of this section applies to any term of incarceration, whether the term of
+incarceration was imposed  as a result of conviction or as a sanction or revocation resulting from
+the defendant’s violation of the terms  and conditions of probation, parole or post-prison supervision.
+(3) The rights and privileges of which a person may be deprived under this section are:
+(a) Holding a public office or an office of a political party or becoming  or remaining a candidate
+for either office;
+(b) Holding a position of private trust;  or
+(c) Acting as a juror .[; or ]
+[(d) Exercising the right to vote. ]
+(4) If the court under subsection (1) of this section temporarily stays execution  of sentence for
+any purpose other than probation, the defendant nonetheless is sentenced for purposes of subsection
+(1) of this section.
+[(5) A person convicted of any crime and serving a term of imprisonment in any federal correctional
+institution in this state is  deprived of the rights to register to vote, update a registration or vote in any
+election in this state from the date of sentencing until: ]
+[(a) The person is discharged or paroled from imprisonment; or ]
+[(b) The person’s conviction is set aside. ]
+[(6) The  county clerk or county official in charge of elections in any county may cancel the regis-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1997
+HB 3785
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tration of any person serving a term of imprisonment  in any federal correctional institution in this
+state.]
+[(7)] (5) Except as otherwise provided in ORS 10.030,  the rights and privileges withdrawn by this
+section are restored automatically upon release from incarceration, but in the case  of parole shall
+be automatically withdrawn upon  a subsequent imprisonment for violation of the terms of the parole.
+(6) A defendant sentenced to a term of incarceration in a felony case does not  forfeit and
+may not be deprived of the right to vote while incarcerated.
+SECTION 2.
+ ORS 247.013 is amended to read:
+247.013. (1) (a) A qualified person shall be considered registered to vote in a county when the
+person’s first registration in the county occurs as described in ORS 247.012.
+(b) A qualified person who  is registered to vote and is in the physical custody of a jail,
+prison or correctional facility, including a local correctional facility as defined  in ORS 169.005
+or a youth correction facility as defined  in ORS 162.135, shall be considered registered to vote
+in the county of the qualified elector’s last voluntary residence.
+(2) An elector who changes residence address from the county in which the elector is  registered
+to a different county within the state, in order to vote in an election,  must be an elector registered
+in the county in which the new residence address of the elector is located.
+(3) If there is a change in any information required for registration under this chapter, and the
+elector has not changed residence address to another county,  the registration of the elector may be
+updated as provided in this chapter.
+(4) Notwithstanding subsections (2) and (3) of this section, if an elector changes residence ad-
+dress from the county in  which the elector is registered to a different county within the state, the
+elector need not register again if the registration of the elector is updated.
+(5) If the county clerk does not  have evidence of a change in any information required for reg-
+istration under this chapter for an elector, the registration of the elector shall be considered active.
+(6) The registration of an elector shall be considered inactive if:
+(a) The county clerk has received evidence that there has been a change in the information  re-
+quired for registration under this chapter; and
+(b) The county clerk has mailed the notice described in ORS 247.563.
+(7) The inactive  registration of an elector must be updated before the elector may vote in an
+election.
+SECTION 3.
+ ORS 247.035 is amended to read:
+247.035. (1) An elections official, in determining the residence and qualifications  of a person of-
+fering to register or vote, shall consider the following rules, so far as they may be applicable:
+(a) The person’s residence shall be the place in which  habitation is fixed and to which, when the
+person is absent, the person intends to return.
+(b) If a person’s property is split by  a jurisdictional line, the person shall be registered where
+the residence is  located. If the residence is split by a jurisdictional line, the person shall register
+where the greatest value of the residence is located according to county assessment and taxation
+records.
+(c) A person shall not be considered to have gained  a residence in any location in this state into
+which the person comes for temporary purposes  only, without the intention of making it the person’s
+home.
+(d) If a person moves to another state with the intention of making a permanent  home, the
+person shall be considered to have lost residence in this state.
+[2]
+HB 3785
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) If a person goes from this state into any other  state or territory and votes there, the person
+shall be considered to have lost residence in this state.
+(f) A person who has left the place of the person’s  residence for a temporary purpose only
+[shall] may  not be considered to have lost residence.
+(2) Notwithstanding subsection (1) of this section[ ,]:
+(a) A person who has left the place of the person’s residence for a temporary purpose only,  who
+has not established another residence for voter registration purposes and who does  not have a place
+in which habitation is fixed [ shall] may  not be considered to  have changed or lost residence. The
+person may register at the address of the place the person’s  residence was located before the person
+left.
+(b) A person who has left the place of the person’s residence as part  of the person’s
+confinement in a jail, prison or correctional facility, including a local correctional facility as
+defined in ORS 169.005 or a youth correction facility as defined in  ORS 162.135, who has not
+established another residence for  voter registration purposes, and who does not have a place
+in which habitation is fixed, may not be considered to have changed or lost residence. The
+person may register at the address of the  place the person’s residence was located before the
+person left, including a residence address described in ORS 247.038.
+(3) An elections official may consider, but is not limited to considering, the following factors in
+determining residency of a person for voter registration purposes:
+(a) Where the person receives personal mail;
+(b) Where the person is licensed to drive;
+(c) Where the person registers motor vehicles for personal use;
+(d) Where any immediate family members of the person reside;
+(e) The address from which the person pays for utility services; and
+(f) The address from which the person files any federal or state income tax returns.
+SECTION 4.
+Section 5 of this 2025 Act is added to and made a part of ORS chapter 247.
+SECTION 5. (1) The Secretary of State, in consultation with the Department of Cor-
+rections, the Oregon Youth Authority and cities  and counties that operate local correctional
+facilities and youth correction facilities, shall by rule establish procedures that allow:
+(a) All qualified individuals who are in the physical custody of a jail, prison  or
+correctional facility, including a local correctional facility or a youth correction facility, to
+register to vote or update their voter registration;
+(b) All registered electors who are in the physical custody of a jail,  prison or correctional
+facility, including a local correctional facility or a youth correction facility, to receive all
+election materials, including ballots and voters’ pamphlets; and
+(c) All registered electors who are in the physical custody of a jail, prison  or correctional
+facility, including a local correctional  facility or a youth correction facility, to cast a ballot
+in each election.
+(2) The Secretary of State shall by rule establish a process  for identifying, for an indi-
+vidual in the physical custody of a jail, prison or  correctional facility, including a local
+correctional facility or youth correction facility, the last voluntary residence of the individual
+prior to the confinement, including a residence address  described in ORS 247.038, for the
+purposes of the individual registering to vote or updating the individual’s voter registration.
+(3) Notwithstanding ORS 254.115,  254.125 or 254.135, in implementing this section the
+Secretary of State may by  rule authorize the preparation of ballots of any different weight
+[3]
+HB 3785
+1
+2
+3
+4
+5
+6
+7
+8
+of paper, overall size and shape or  other physical criteria as is necessary to conform with
+postal, military, correctional or other state  and federal statutes regarding the transportation
+and delivery of ballots to a  jail, prison or correctional facility, including a local correctional
+facility or a youth correction facility.
+(4) As used in this section:
+(a) “Local correctional facility” has the meaning given that term in ORS 169.005.
+(b) “Youth correction facility” has the meaning given that term in ORS 162.135.
+[4]

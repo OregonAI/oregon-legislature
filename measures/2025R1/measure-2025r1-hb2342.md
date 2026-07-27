@@ -1,0 +1,1982 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2342
+title: 'HB 2342 (2025R1): Increases certain wildlife license, tag and permit fee amounts.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2342
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2342/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 453a39a50f21b5907290c31fc3cb09640bb271aacdc42d2761d1af146a2838ea
+snapshot_id: measure-2025r1-hb2342-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 183.480
+  - ORS 183.745
+  - ORS 315.138
+  - ORS 496.012
+  - ORS 496.146
+  - ORS 496.242
+  - ORS 496.300
+  - ORS 496.303
+  - ORS 497.022
+  - ORS 497.061
+  - ORS 497.102
+  - ORS 497.112
+  - ORS 497.116
+  - ORS 497.121
+  - ORS 497.124
+  - ORS 497.132
+  - ORS 498.306
+  - ORS 508.035
+  - ORS 508.116
+  - ORS 508.285
+  - ORS 508.505
+  - ORS 508.510
+  - ORS 508.550
+  - ORS 508.760
+  - ORS 508.765
+  - ORS 508.775
+  - ORS 508.790
+  - ORS 508.793
+  - ORS 508.801
+  - ORS 508.816
+  - ORS 508.822
+  - ORS 508.840
+  - ORS 508.858
+  - ORS 508.864
+  - ORS 508.880
+  - ORS 508.901
+  - ORS 508.907
+  - ORS 508.921
+  - ORS 508.926
+  - ORS 508.931
+  - ORS 508.936
+  - ORS 508.941
+  - ORS 508.947
+  - ORS 508.949
+  - ORS 508.951
+  - ORS 508.957
+  - ORS 509.620
+  - ORS 536.900
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2342
+prefix_meaning: House Bill
+catch_line: Increases certain wildlife license, tag and permit fee amounts.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act increases fees under the wildlife laws. The Act allows an agency to\
+  \ create a new fee. The Act creates a new subaccount. The Act increases fees under commercial fishing\
+  \ laws. The Act takes effect 91 days after session ends. (Flesch Readability Score: 74.7). \n\tIncreases\
+  \ certain wildlife license, tag and permit fee amounts. \n\tAuthorizes the State Fish and Wildlife Commission\
+  \ to establish ocean endorsements by rule. \n\tEstablishes the Marine Fisheries Enhancement Fund Subaccount\
+  \ within the Fish and Wildlife Account. \n\tIncreases certain license, permit and participation fees\
+  \ under the commercial fishing laws. \n\tTakes effect on the 91st day following adjournment sine die."
+relating_to: Relating to fees concerning wildlife; and prescribing an effective date.
+relating_to_full: Relating to fees concerning wildlife; and prescribing an effective date.
+at_the_request_of: (at the request of Governor Tina Kotek for State Department of Fish and Wildlife)
+lc_number: 319
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-08-13T12:44:25'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 117497
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 183.480
+  - ORS 183.745
+  - ORS 315.138
+  - ORS 496.012
+  - ORS 496.146
+  - ORS 496.242
+  - ORS 496.300
+  - ORS 496.303
+  - ORS 497.022
+  - ORS 497.061
+  - ORS 497.102
+  - ORS 497.112
+  - ORS 497.116
+  - ORS 497.121
+  - ORS 497.124
+  - ORS 497.132
+  - ORS 498.306
+  - ORS 508.035
+  - ORS 508.116
+  - ORS 508.285
+  - ORS 508.505
+  - ORS 508.510
+  - ORS 508.550
+  - ORS 508.760
+  - ORS 508.765
+  - ORS 508.775
+  - ORS 508.790
+  - ORS 508.793
+  - ORS 508.801
+  - ORS 508.816
+  - ORS 508.822
+  - ORS 508.840
+  - ORS 508.858
+  - ORS 508.864
+  - ORS 508.880
+  - ORS 508.901
+  - ORS 508.907
+  - ORS 508.921
+  - ORS 508.926
+  - ORS 508.931
+  - ORS 508.936
+  - ORS 508.941
+  - ORS 508.947
+  - ORS 508.949
+  - ORS 508.951
+  - ORS 508.957
+  - ORS 509.620
+  - ORS 536.900
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2342`.
+
+# HB 2342 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2342, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for State Department of Fish and Wildlife)
+- **LC number:** 319
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-08-13T12:44:25
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 117497 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2342/Enrolled>.
+
+## Summary
+
+**Catchline:** Increases certain wildlife license, tag and permit fee amounts.
+
+**Relating to:** Relating to fees concerning wildlife; and prescribing an effective date.
+
+Digest: The Act increases fees under the wildlife laws. The Act allows an agency to create a new fee. The Act creates a new subaccount. The Act increases fees under commercial fishing laws. The Act takes effect 91 days after session ends. (Flesch Readability Score: 74.7). 
+ Increases certain wildlife license, tag and permit fee amounts. 
+ Authorizes the State Fish and Wildlife Commission to establish ocean endorsements by rule. 
+ Establishes the Marine Fisheries Enhancement Fund Subaccount within the Fish and Wildlife Account. 
+ Increases certain license, permit and participation fees under the commercial fishing laws. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to fees concerning wildlife; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 2342
+Introduced and printed pursuant to House  Rule 12.00. Presession filed (at the request of Governor
+Tina Kotek for State Department of Fish and Wildlife)
+CHAPTER .................................................
+AN ACT
+Relating to fees concerning wildlife; creating  new provisions; amending ORS 496.146, 496.303,
+497.061, 508.116, 508.285, 508.505, 508.550, 508.760, 508.765, 508.790,  508.793, 508.816, 508.822,
+508.858, 508.864, 508.901, 508.907, 508.936, 508.941, 508.949  and 508.957 and section 6, chapter
+169, Oregon Laws 2021, and section 2, chapter 208,  Oregon Laws 2021; repealing section 62,
+chapter 779, Oregon Laws 2015; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+WILDLIFE LAWS LICENSE, TAG AND PERMIT FEE SCHEDULE
+SECTION 1.  ORS 497.061, as amended  by section 61, chapter 779, Oregon Laws 2015, and sec-
+tion 2, chapter 56, Oregon Laws 2022, is amended to read:
+497.061. (1) Except as otherwise provided by law, the State Fish  and Wildlife Commission shall
+charge  the  fees listed in the fee schedule under this section for the issuance of the specified licenses,
+tags and permits.
+(2) Fee Schedule:
+[ ___________________________________________________________________________________ ]
+Prices shown include agent fees
+under ORS 497.022 and dedications
+of funds collected as otherwise
+prescribed by law. Resident Nonresident Statutory
+Fee Fee Reference
+HUNTING LICENSES
+ANNUAL HUNTING LICENSE $34.50 $172.00 497.102
+RESIDENT SENIOR HUNTING LICENSE $22.00 - 497.102
+RESIDENT DISABLED VET HUNTER LICENSE FREE - 497.102
+RESIDENT UNIFORMED SERVICES
+HUNTER LICENSE $17.00 - 497.102
+NONRESIDENT THREE-DAY BIRD LICENSE - $32.50 497.102
+HUNTING TAGS/VALIDATIONS
+DEER TAG $28.50 $443.50 497.112
+Enrolled House Bill 2342 (HB 2342-B) Page 1
+ELK TAG $49.50 $588.00 497.112
+SPECIAL ELK TAG (DV/PIONEER) $26.00 - 497.112
+BLACK BEAR TAG $16.50 $16.50 497.112
+TURKEY TAG $26.50 $90.00 497.112
+ANTELOPE TAG $51.50 $395.50 497.112
+MOUNTAIN SHEEP TAG $142.00 $1,513.50 497.112
+COUGAR TAG $16.50 $16.50 497.112
+MOUNTAIN GOAT TAG $142.00 $1,513.50 497.112
+RESIDENT UPLAND BIRD STAMP $10.00 - 497.153
+RESIDENT WATERFOWL STAMP $13.50 - 497.151
+NONRESIDENT BIRD-WATERFOWL STAMP - $44.50 497.156
+FISHING LICENSES/VALIDATIONS
+ANNUAL ANGLING LICENSE $43.00 $109.00 497.121
+RESIDENT SENIOR ANGLING LICENSE $29.00 - 497.121
+RESIDENT DISABLED VET ANGLER LICENSE FREE - 497.121
+ONE-DAY ANGLING AND SHELLFISH LICENSE $23.00 $23.00 497.121
+TWO-DAY ANGLING LICENSE $42.00 $42.00 497.121
+THREE-DAY ANGLING LICENSE $59.50 $59.50 497.121
+NONRESIDENT SEVEN-DAY ANGLING LICENSE - $92.00 497.121
+ANNUAL COMBINED ANGLING TAG $46.00 $66.00 497.121
+HATCHERY HARVEST TAG $33.00 $33.00 497.121
+TWO-ROD ANGLING LICENSE $28.00 $28.00 497.121
+SHELLFISH LICENSES
+ANNUAL SHELLFISH LICENSE $10.00 $28.00 497.121
+NONRESIDENT THREE-DAY SHELLFISH LICENSE - $19.00 497.121
+RESIDENT DISABLED VET SHELLFISH LICENSE FREE - 497.121
+COMBINATION LICENSE $72.00 - 497.132
+RESIDENT SPORTSPAC LICENSE $196.50 - 497.132
+RESIDENT SENIOR COMBINATION LICENSE $47.50 - 497.132
+RESIDENT PIONEER COMBINATION LICENSE $6.00 - 497.132
+YOUTH LICENSES/VALIDATIONS (ages 12-17)
+YOUTH LICENSE $10.00 $10.00 497.127
+RESIDENT YOUTH SPORTSPAC LICENSE $55.00 - 497.132
+YOUTH ANNUAL COMBINED ANGLING TAG $5.00 $5.00 497.121
+YOUTH UPLAND BIRD STAMP $4.00 $4.00 497.153
+YOUTH WATERFOWL STAMP $4.00 $4.00 497.151
+YOUTH TURKEY TAG $10.50 $10.50 497.112
+YOUTH HUNT/TRAP FUR-BEARERS LICENSE $17.00 $17.00 497.142
+MISCELLANEOUS
+DUPLICATE CERTIFICATE FILING $25.50 $25.50 497.032
+GUIDE TAG — DEER - $575.00 497.112
+GUIDE TAG — ELK - $848.00 497.112
+RESIDENT HUNT/TRAP FUR-BEARERS LICENSE $54.50 - 497.142
+NONRESIDENT FUR-TAKERS HUNT/TRAP LICENSE - $407.00 497.142
+RESIDENT HUNT FUR-BEARERS LICENSE $26.00 - 497.142
+PRIVATE HUNTING PRESERVE PERMIT $6.50 $14.00 497.102
+OUTDOOR CLUB LICENSE $100.00 $100.00 498.418
+Enrolled House Bill 2342 (HB 2342-B) Page 2
+LOP REGISTRATION $35.00 $35.00 496.146
+LOP TAG REDISTRIBUTION $17.00 $17.00 496.146
+RSC STEELHEAD VALIDATION $2.00 $4.00 497.121
+RSC WILD STEELHEAD HARVEST CARD $10.00 $20.00 497.121
+OCCUPATIONAL LICENSES/PERMITS
+FUR DEALER LICENSE $111.00 - 497.258
+TAXIDERMIST LICENSE $111.00 - 497.258
+WILDLIFE PROPAGATION LICENSE $58.00 - 497.258
+FISH PROPAGATION LICENSE $151.50 - 497.258
+PRIVATE HUNTING PRESERVE LICENSE $232.00 - 497.258
+STURGEON PROPAGATION PERMIT $3,573.00 $3,573.00 497.325
+[ ___________________________________________________________________________________ ]
+Prices shown include agent fees
+under ORS 497.022 and dedications
+of funds collected as otherwise
+prescribed by law. Resident Nonresident Statutory
+Fee Fee Reference
+HUNTING LICENSES
+ANNUAL HUNTING LICENSE $39.00 $193.00 497.102
+RESIDENT SENIOR HUNTING LICENSE $25.00 - 497.102
+RESIDENT DISABLED VET HUNTER LICENSE FREE - 497.102
+RESIDENT UNIFORMED SERVICES
+HUNTER LICENSE $19.00 - 497.102
+NONRESIDENT THREE-DAY BIRD LICENSE - $36.00 497.102
+HUNTING TAGS/VALIDATIONS
+DEER TAG $33.00 $500.00 497.112
+ELK TAG $56.00 $660.00 497.112
+SPECIAL ELK TAG (DV/PIONEER) $29.00 - 497.112
+BLACK BEAR TAG $16.50 $16.50 497.112
+TURKEY TAG $26.50 $90.00 497.112
+ANTELOPE TAG $58.00 $443.00 497.112
+MOUNTAIN SHEEP TAG $159.00 $1,695.00 497.112
+COUGAR TAG $16.50 $16.50 497.112
+MOUNTAIN GOAT TAG $159.00 $1,695.00 497.112
+RESIDENT UPLAND BIRD STAMP $11.00 - 497.153
+RESIDENT WATERFOWL STAMP $15.00 - 497.151
+NONRESIDENT BIRD-WATERFOWL STAMP - $50.00 497.156
+FISHING LICENSES/VALIDATIONS/HARVEST TAGS
+ANNUAL ANGLING LICENSE $50.00 $138.00 497.121
+RESIDENT SENIOR ANGLING LICENSE $34.00 - 497.121
+RESIDENT DISABLED VET ANGLER LICENSE FREE - 497.121
+ONE-DAY ANGLING AND SHELLFISH LICENSE $29.00 $29.00 497.121
+TWO-DAY ANGLING LICENSE $48.00 $48.00 497.121
+THREE-DAY ANGLING LICENSE $68.00 $68.00 497.121
+NONRESIDENT SEVEN-DAY ANGLING LICENSE - $117.00 497.121
+Enrolled House Bill 2342 (HB 2342-B) Page 3
+ANNUAL COMBINED ANGLING TAG $69.00 $89.00 497.121
+HATCHERY HARVEST TAG $43.00 $43.00 497.121
+TWO-ROD ANGLING LICENSE $34.00 $34.00 497.121
+ANNUAL OCEAN ENDORSEMENT $9.00 $9.00 496.146
+DAILY OCEAN ENDORSEMENT $4.00 $4.00 496.146
+ROGUE SOUTH COAST STEELHEAD VALIDATION $4.00 $8.00 497.121
+ROGUE SOUTH COAST WILD
+STEELHEAD HARVEST TAG $20.00 $40.00 497.121
+SHELLFISH LICENSES
+ANNUAL SHELLFISH LICENSE $13.00 $37.00 497.121
+NONRESIDENT THREE-DAY SHELLFISH LICENSE - $25.00 497.121
+RESIDENT DISABLED VET SHELLFISH LICENSE FREE - 497.121
+COMBINATION LICENSE $86.00 - 497.132
+RESIDENT SPORTSPAC LICENSE $253.00 - 497.132
+RESIDENT SENIOR COMBINATION LICENSE $56.00 - 497.132
+RESIDENT PIONEER COMBINATION LICENSE $10.00 - 497.132
+YOUTH LICENSES/VALIDATIONS (ages 12-17)
+YOUTH LICENSE $10.00 $10.00 497.127
+RESIDENT YOUTH SPORTSPAC LICENSE $75.00 - 497.132
+YOUTH ANNUAL COMBINED ANGLING TAG $5.00 $5.00 497.121
+YOUTH UPLAND BIRD STAMP $4.00 $4.00 497.153
+YOUTH WATERFOWL STAMP $4.00 $4.00 497.151
+YOUTH TURKEY TAG $10.50 $10.50 497.112
+YOUTH HUNT/TRAP FUR-BEARERS LICENSE $17.00 $17.00 497.142
+MISCELLANEOUS
+DUPLICATE CERTIFICATE FILING $2.00 $2.00 497.032
+GUIDE TAG — DEER - $644.00 497.112
+GUIDE TAG — ELK - $950.00 497.112
+RESIDENT HUNT/TRAP FUR-BEARERS LICENSE $61.00 - 497.142
+NONRESIDENT FUR-TAKERS HUNT/TRAP LICENSE - $456.00 497.142
+RESIDENT HUNT FUR-BEARERS LICENSE $29.00 - 497.142
+PRIVATE HUNTING PRESERVE PERMIT $6.50 $14.00 497.102
+OUTDOOR CLUB LICENSE $100.00 $100.00 498.418
+LOP REGISTRATION $35.00 $35.00 496.146
+OCCUPATIONAL LICENSES/PERMITS
+FUR DEALER LICENSE $111.00 - 497.258
+TAXIDERMIST LICENSE $111.00 - 497.258
+WILDLIFE PROPAGATION LICENSE $58.00 - 497.258
+FISH PROPAGATION LICENSE $151.50 - 497.258
+PRIVATE HUNTING PRESERVE LICENSE $232.00 - 497.258
+STURGEON PROPAGATION PERMIT $3,573.00 $3,573.00 497.325
+SECTION 2. (1) Except as provided in subsection (2) of this section, the amendments  to
+ORS 497.061 by section 1 of this 2025 Act become operative on January 1, 2026.
+(2) The State Department of Fish and Wildlife may,  prior to January 1, 2026, charge the
+fees provided for in ORS 497.061, as amended by section 1  of this 2025 Act, for registrations
+Enrolled House Bill 2342 (HB 2342-B) Page 4
+made, and licenses, permits, tag and stamps applied for, before January 1, 2026, for  activities
+occurring on or after January 1, 2026.
+SECTION 3.  Section 6, chapter 169, Oregon Laws 2021, is amended to read:
+Sec. 6.  The amendments to ORS 496.146 by section 5  [ of this 2021 Act ], chapter 169, Oregon
+Laws 2021, become operative on January [ 2] 1, 2026.
+SECTION 3a. If House Bill 2343 becomes law, section 3  of this 2025 Act (amending section
+6, chapter 169, Oregon Laws 2021) is repealed.
+SECTION 4.  Section 2, chapter 208, Oregon Laws 2021, is amended to read:
+Sec. 2. Section 2, chapter 460, Oregon Laws 1995, as amended by section  1, chapter 227, Oregon
+Laws 2001, section 1, chapter 349,  Oregon Laws 2009, section 2a, chapter 832, Oregon Laws 2009,
+section 1, chapter 363, Oregon  Laws 2013, [ and] section 10, chapter 779, Oregon Laws 2015, and
+section 1 [ of this 2021 Act ], chapter 208, Oregon Laws 2021,  is repealed on January [ 2] 1, 2026.
+SECTION 4a. If Senate Bill 812 becomes law, section 4 of this 2025 Act (amending section
+2, chapter 208, Oregon Laws 2021) is repealed.
+SECTION 5. Section 62, chapter 779, Oregon Laws 2015, is repealed.
+SECTION 6.  ORS  497.061, as amended by section 61, chapter 779, Oregon Laws 2015, section
+2, chapter 56, Oregon Laws 2022, and section 1 of this 2025 Act, is amended to read:
+497.061. (1) Except as otherwise provided by law, the State Fish  and Wildlife Commission shall
+charge  the  fees listed in the fee schedule under this section for the issuance of the specified licenses,
+tags and permits.
+(2) Fee Schedule:
+[ ___________________________________________________________________________________ ]
+Prices shown include agent fees
+under ORS 497.022 and dedications
+of funds collected as otherwise
+prescribed by law. Resident Nonresident Statutory
+Fee Fee Reference
+HUNTING LICENSES
+ANNUAL HUNTING LICENSE $39.00 $193.00 497.102
+RESIDENT SENIOR HUNTING LICENSE $25.00 - 497.102
+RESIDENT DISABLED VET HUNTER LICENSE FREE - 497.102
+RESIDENT UNIFORMED SERVICES
+HUNTER LICENSE $19.00 - 497.102
+NONRESIDENT THREE-DAY BIRD LICENSE - $36.00 497.102
+HUNTING TAGS/VALIDATIONS
+DEER TAG $33.00 $500.00 497.112
+ELK TAG $56.00 $660.00 497.112
+SPECIAL ELK TAG (DV/PIONEER) $29.00 - 497.112
+BLACK BEAR TAG $16.50 $16.50 497.112
+TURKEY TAG $26.50 $90.00 497.112
+ANTELOPE TAG $58.00 $443.00 497.112
+MOUNTAIN SHEEP TAG $159.00 $1,695.00 497.112
+COUGAR TAG $16.50 $16.50 497.112
+MOUNTAIN GOAT TAG $159.00 $1,695.00 497.112
+RESIDENT UPLAND BIRD STAMP $11.00 - 497.153
+RESIDENT WATERFOWL STAMP $15.00 - 497.151
+NONRESIDENT BIRD-WATERFOWL STAMP - $50.00 497.156
+Enrolled House Bill 2342 (HB 2342-B) Page 5
+FISHING LICENSES/VALIDATIONS/HARVEST TAGS
+ANNUAL ANGLING LICENSE $50.00 $138.00 497.121
+RESIDENT SENIOR ANGLING LICENSE $34.00 - 497.121
+RESIDENT DISABLED VET ANGLER LICENSE FREE - 497.121
+ONE-DAY ANGLING AND SHELLFISH LICENSE $29.00 $29.00 497.121
+TWO-DAY ANGLING LICENSE $48.00 $48.00 497.121
+THREE-DAY ANGLING LICENSE $68.00 $68.00 497.121
+NONRESIDENT SEVEN-DAY ANGLING LICENSE - $117.00 497.121
+ANNUAL COMBINED ANGLING TAG $69.00 $89.00 497.121
+HATCHERY HARVEST TAG $43.00 $43.00 497.121
+TWO-ROD ANGLING LICENSE $34.00 $34.00 497.121
+ANNUAL OCEAN ENDORSEMENT $9.00 $9.00 496.146
+DAILY OCEAN ENDORSEMENT $4.00 $4.00 496.146
+ROGUE SOUTH COAST STEELHEAD VALIDATION $4.00 $8.00 497.121
+ROGUE SOUTH COAST WILD
+STEELHEAD HARVEST TAG $20.00 $40.00 497.121
+SHELLFISH LICENSES
+ANNUAL SHELLFISH LICENSE $13.00 $37.00 497.121
+NONRESIDENT THREE-DAY SHELLFISH LICENSE - $25.00 497.121
+RESIDENT DISABLED VET SHELLFISH LICENSE FREE - 497.121
+COMBINATION LICENSE $86.00 - 497.132
+RESIDENT SPORTSPAC LICENSE $253.00 - 497.132
+RESIDENT SENIOR COMBINATION LICENSE $56.00 - 497.132
+RESIDENT PIONEER COMBINATION LICENSE $10.00 - 497.132
+YOUTH LICENSES/VALIDATIONS (ages 12-17)
+YOUTH LICENSE $10.00 $10.00 497.127
+RESIDENT YOUTH SPORTSPAC LICENSE $75.00 - 497.132
+YOUTH ANNUAL COMBINED ANGLING TAG $5.00 $5.00 497.121
+YOUTH UPLAND BIRD STAMP $4.00 $4.00 497.153
+YOUTH WATERFOWL STAMP $4.00 $4.00 497.151
+YOUTH TURKEY TAG $10.50 $10.50 497.112
+YOUTH HUNT/TRAP FUR-BEARERS LICENSE $17.00 $17.00 497.142
+MISCELLANEOUS
+DUPLICATE CERTIFICATE FILING $2.00 $2.00 497.032
+GUIDE TAG — DEER - $644.00 497.112
+GUIDE TAG — ELK - $950.00 497.112
+RESIDENT HUNT/TRAP FUR-BEARERS LICENSE $61.00 - 497.142
+NONRESIDENT FUR-TAKERS HUNT/TRAP LICENSE - $456.00  497.142
+RESIDENT HUNT FUR-BEARERS LICENSE $29.00 - 497.142
+PRIVATE HUNTING PRESERVE PERMIT $6.50 $14.00 497.102
+OUTDOOR CLUB LICENSE $100.00 $100.00 498.418
+LOP REGISTRATION $35.00 $35.00 496.146
+OCCUPATIONAL LICENSES/PERMITS
+FUR DEALER LICENSE $111.00 - 497.258
+TAXIDERMIST LICENSE $111.00 - 497.258
+WILDLIFE PROPAGATION LICENSE $58.00 - 497.258
+Enrolled House Bill 2342 (HB 2342-B) Page 6
+FISH PROPAGATION LICENSE $151.50 - 497.258
+PRIVATE HUNTING PRESERVE LICENSE $232.00 - 497.258
+STURGEON PROPAGATION PERMIT $3,573.00 $3,573.00 497.325
+[ ___________________________________________________________________________________ ]
+Prices shown include agent fees
+under ORS 497.022 and dedications
+of funds collected as otherwise
+prescribed by law. Resident Nonresident Statutory
+Fee Fee Reference
+HUNTING LICENSES
+ANNUAL HUNTING LICENSE $42.00 $208.00 497.102
+RESIDENT SENIOR HUNTING LICENSE $27.00 - 497.102
+RESIDENT DISABLED VET HUNTER LICENSE FREE - 497.102
+RESIDENT UNIFORMED SERVICES
+HUNTER LICENSE $21.00 - 497.102
+NONRESIDENT THREE-DAY BIRD LICENSE - $39.00 497.102
+HUNTING TAGS/VALIDATIONS
+DEER TAG $36.00 $540.00 497.112
+ELK TAG $60.00 $715.00 497.112
+SPECIAL ELK TAG (DV/PIONEER) $31.00 - 497.112
+BLACK BEAR TAG $16.50 $16.50 497.112
+TURKEY TAG $26.50 $90.00 497.112
+ANTELOPE TAG $63.00 $478.00 497.112
+MOUNTAIN SHEEP TAG $172.00 $1,831.00 497.112
+COUGAR TAG $16.50 $16.50 497.112
+MOUNTAIN GOAT TAG $172.00 $1,831.00 497.112
+RESIDENT UPLAND BIRD STAMP $12.00 - 497.153
+RESIDENT WATERFOWL STAMP $16.00 - 497.151
+NONRESIDENT BIRD-WATERFOWL STAMP - $54.00 497.156
+FISHING LICENSES/VALIDATIONS/HARVEST TAGS
+ANNUAL ANGLING LICENSE $53.00 $146.00 497.121
+RESIDENT SENIOR ANGLING LICENSE $36.00 - 497.121
+RESIDENT DISABLED VET ANGLER LICENSE FREE - 497.121
+ONE-DAY ANGLING AND SHELLFISH LICENSE $31.00 $31.00 497.121
+TWO-DAY ANGLING LICENSE $51.00 $51.00 497.121
+THREE-DAY ANGLING LICENSE $72.00 $72.00 497.121
+NONRESIDENT SEVEN-DAY ANGLING LICENSE - $124.00 497.121
+ANNUAL COMBINED ANGLING TAG $73.00 $94.00 497.121
+HATCHERY HARVEST TAG $46.00 $46.00 497.121
+TWO-ROD ANGLING LICENSE $36.00 $36.00 497.121
+ANNUAL OCEAN ENDORSEMENT $9.00 $9.00 496.146
+DAILY OCEAN ENDORSEMENT $4.00 $4.00 496.146
+ROGUE SOUTH COAST STEELHEAD VALIDATION $4.00 $8.00 497.121
+ROGUE SOUTH COAST WILD
+STEELHEAD HARVEST TAG $21.00 $42.00 497.121
+Enrolled House Bill 2342 (HB 2342-B) Page 7
+SHELLFISH LICENSES
+ANNUAL SHELLFISH LICENSE $14.00 $39.00 497.121
+NONRESIDENT THREE-DAY SHELLFISH LICENSE - $27.00 497.121
+RESIDENT DISABLED VET SHELLFISH LICENSE FREE - 497.121
+COMBINATION LICENSE $93.00 - 497.132
+RESIDENT SPORTSPAC LICENSE $283.00 - 497.132
+RESIDENT SENIOR COMBINATION LICENSE $60.00 - 497.132
+RESIDENT PIONEER COMBINATION LICENSE $10.00 - 497.132
+YOUTH LICENSES/VALIDATIONS (ages 12-17)
+YOUTH LICENSE $10.00 $10.00 497.127
+RESIDENT YOUTH SPORTSPAC LICENSE $75.00 - 497.132
+YOUTH ANNUAL COMBINED ANGLING TAG $5.00 $5.00 497.121
+YOUTH UPLAND BIRD STAMP $4.00 $4.00 497.153
+YOUTH WATERFOWL STAMP $4.00 $4.00 497.151
+YOUTH TURKEY TAG $10.50 $10.50 497.112
+YOUTH HUNT/TRAP FUR-BEARERS LICENSE $17.00 $17.00 497.142
+MISCELLANEOUS
+DUPLICATE CERTIFICATE FILING $2.00 $2.00 497.032
+GUIDE TAG — DEER - $695.00 497.112
+GUIDE TAG — ELK - $1,025.00 497.112
+RESIDENT HUNT/TRAP FUR-BEARERS LICENSE $66.00 - 497.142
+NONRESIDENT FUR-TAKERS HUNT/TRAP LICENSE - $492.00 497.142
+RESIDENT HUNT FUR-BEARERS LICENSE $31.50 - 497.142
+PRIVATE HUNTING PRESERVE PERMIT $6.50 $14.00 497.102
+OUTDOOR CLUB LICENSE $100.00 $100.00 498.418
+LOP REGISTRATION $35.00 $35.00 496.146
+OCCUPATIONAL LICENSES/PERMITS
+FUR DEALER LICENSE $111.00 - 497.258
+TAXIDERMIST LICENSE $111.00 - 497.258
+WILDLIFE PROPAGATION LICENSE $58.00 - 497.258
+FISH PROPAGATION LICENSE $151.50 - 497.258
+PRIVATE HUNTING PRESERVE LICENSE $232.00 - 497.258
+STURGEON PROPAGATION PERMIT $3,573.00 $3,573.00 497.325
+SECTION 7. (1) Except as provided in subsection (2) of this section, the amendments  to
+ORS 497.061 by section 6 of this 2025 Act become operative on January 1, 2028.
+(2) The State Department of Fish and Wildlife may,  prior to January 1, 2028, charge the
+fees provided for in ORS 497.061, as amended by section 6  of this 2025 Act, for registrations
+made, and licenses, permits, tag and stamps applied for, before January 1, 2028, for  activities
+occurring on or after January 1, 2028.
+SECTION 8.  ORS  497.061, as amended by section 61, chapter 779, Oregon Laws 2015, section
+2, chapter 56, Oregon Laws 2022, and sections 1 and 6 of this 2025 Act, is amended to read:
+497.061. (1) Except as otherwise provided by law, the State Fish  and Wildlife Commission shall
+charge  the  fees listed in the fee schedule under this section for the issuance of the specified licenses,
+tags and permits.
+(2) Fee Schedule:
+[ ___________________________________________________________________________________ ]
+Enrolled House Bill 2342 (HB 2342-B) Page 8
+Prices shown include agent fees
+under ORS 497.022 and dedications
+of funds collected as otherwise
+prescribed by law. Resident Nonresident Statutory
+Fee Fee Reference
+HUNTING LICENSES
+ANNUAL HUNTING LICENSE $42.00 $208.00 497.102
+RESIDENT SENIOR HUNTING LICENSE $27.00 - 497.102
+RESIDENT DISABLED VET HUNTER LICENSE FREE - 497.102
+RESIDENT UNIFORMED SERVICES
+HUNTER LICENSE $21.00 - 497.102
+NONRESIDENT THREE-DAY BIRD LICENSE - $39.00 497.102
+HUNTING TAGS/VALIDATIONS
+DEER TAG $36.00 $540.00 497.112
+ELK TAG $60.00 $715.00 497.112
+SPECIAL ELK TAG (DV/PIONEER) $31.00 - 497.112
+BLACK BEAR TAG $16.50 $16.50 497.112
+TURKEY TAG $26.50 $90.00 497.112
+ANTELOPE TAG $63.00 $478.00 497.112
+MOUNTAIN SHEEP TAG $172.00 $1,831.00 497.112
+COUGAR TAG $16.50 $16.50 497.112
+MOUNTAIN GOAT TAG $172.00 $1,831.00 497.112
+RESIDENT UPLAND BIRD STAMP $12.00 - 497.153
+RESIDENT WATERFOWL STAMP $16.00 - 497.151
+NONRESIDENT BIRD-WATERFOWL STAMP - $54.00 497.156
+FISHING LICENSES/VALIDATIONS/HARVEST TAGS
+ANNUAL ANGLING LICENSE $53.00 $146.00 497.121
+RESIDENT SENIOR ANGLING LICENSE $36.00 - 497.121
+RESIDENT DISABLED VET ANGLER LICENSE FREE - 497.121
+ONE-DAY ANGLING AND SHELLFISH LICENSE $31.00 $31.00 497.121
+TWO-DAY ANGLING LICENSE $51.00 $51.00 497.121
+THREE-DAY ANGLING LICENSE $72.00 $72.00 497.121
+NONRESIDENT SEVEN-DAY ANGLING LICENSE - $124.00 497.121
+ANNUAL COMBINED ANGLING TAG $73.00 $94.00 497.121
+HATCHERY HARVEST TAG $46.00 $46.00 497.121
+TWO-ROD ANGLING LICENSE $36.00 $36.00 497.121
+ANNUAL OCEAN ENDORSEMENT $9.00 $9.00 496.146
+DAILY OCEAN ENDORSEMENT $4.00 $4.00 496.146
+ROGUE SOUTH COAST STEELHEAD VALIDATION $4.00 $8.00 497.121
+ROGUE SOUTH COAST WILD
+STEELHEAD HARVEST TAG $21.00 $42.00 497.121
+SHELLFISH LICENSES
+ANNUAL SHELLFISH LICENSE $14.00 $39.00 497.121
+NONRESIDENT THREE-DAY SHELLFISH LICENSE - $27.00 497.121
+RESIDENT DISABLED VET SHELLFISH LICENSE FREE - 497.121
+Enrolled House Bill 2342 (HB 2342-B) Page 9
+COMBINATION LICENSE $93.00 - 497.132
+RESIDENT SPORTSPAC LICENSE $283.00 - 497.132
+RESIDENT SENIOR COMBINATION LICENSE $60.00 - 497.132
+RESIDENT PIONEER COMBINATION LICENSE $10.00 - 497.132
+YOUTH LICENSES/VALIDATIONS (ages 12-17)
+YOUTH LICENSE $10.00 $10.00 497.127
+RESIDENT YOUTH SPORTSPAC LICENSE $75.00 - 497.132
+YOUTH ANNUAL COMBINED ANGLING TAG $5.00 $5.00 497.121
+YOUTH UPLAND BIRD STAMP $4.00 $4.00 497.153
+YOUTH WATERFOWL STAMP $4.00 $4.00 497.151
+YOUTH TURKEY TAG $10.50 $10.50 497.112
+YOUTH HUNT/TRAP FUR-BEARERS LICENSE $17.00 $17.00 497.142
+MISCELLANEOUS
+DUPLICATE CERTIFICATE FILING $2.00 $2.00 497.032
+GUIDE TAG — DEER - $695.00 497.112
+GUIDE TAG — ELK - $1,025.00 497.112
+RESIDENT HUNT/TRAP FUR-BEARERS LICENSE $66.00 - 497.142
+NONRESIDENT FUR-TAKERS HUNT/TRAP LICENSE - $492.00 497.142
+RESIDENT HUNT FUR-BEARERS LICENSE $31.50 - 497.142
+PRIVATE HUNTING PRESERVE PERMIT $6.50 $14.00 497.102
+OUTDOOR CLUB LICENSE $100.00 $100.00 498.418
+LOP REGISTRATION $35.00 $35.00 496.146
+OCCUPATIONAL LICENSES/PERMITS
+FUR DEALER LICENSE $111.00 - 497.258
+TAXIDERMIST LICENSE $111.00 - 497.258
+WILDLIFE PROPAGATION LICENSE $58.00 - 497.258
+FISH PROPAGATION LICENSE $151.50 - 497.258
+PRIVATE HUNTING PRESERVE LICENSE $232.00 - 497.258
+STURGEON PROPAGATION PERMIT $3,573.00 $3,573.00 497.325
+[ ___________________________________________________________________________________ ]
+Prices shown include agent fees
+under ORS 497.022 and dedications
+of funds collected as otherwise
+prescribed by law. Resident Nonresident Statutory
+Fee Fee Reference
+HUNTING LICENSES
+ANNUAL HUNTING LICENSE $45.00 $225.00 497.102
+RESIDENT SENIOR HUNTING LICENSE $29.00 - 497.102
+RESIDENT DISABLED VET HUNTER LICENSE FREE - 497.102
+RESIDENT UNIFORMED SERVICES
+HUNTER LICENSE $23.00 - 497.102
+NONRESIDENT THREE-DAY BIRD LICENSE - $42.00 497.102
+Enrolled House Bill 2342 (HB 2342-B) Page 10
+HUNTING TAGS/VALIDATIONS
+DEER TAG $39.00 $585.00 497.112
+ELK TAG $65.00 $775.00 497.112
+SPECIAL ELK TAG (DV/PIONEER) $33.00 - 497.112
+BLACK BEAR TAG $16.50 $16.50 497.112
+TURKEY TAG $26.50 $90.00 497.112
+ANTELOPE TAG $68.00 $516.00 497.112
+MOUNTAIN SHEEP TAG $186.00 $1,977.00 497.112
+COUGAR TAG $16.50 $16.50 497.112
+MOUNTAIN GOAT TAG $186.00 $1,977.00 497.112
+RESIDENT UPLAND BIRD STAMP $13.00 - 497.153
+RESIDENT WATERFOWL STAMP $17.00 - 497.151
+NONRESIDENT BIRD-WATERFOWL STAMP - $58.00 497.156
+FISHING LICENSES/VALIDATIONS/HARVEST TAGS
+ANNUAL ANGLING LICENSE $56.00 $155.00 497.121
+RESIDENT SENIOR ANGLING LICENSE $38.00 - 497.121
+RESIDENT DISABLED VET ANGLER LICENSE FREE - 497.121
+ONE-DAY ANGLING AND SHELLFISH LICENSE $33.00 $33.00 497.121
+TWO-DAY ANGLING LICENSE $54.00 $54.00 497.121
+THREE-DAY ANGLING LICENSE $76.00 $76.00 497.121
+NONRESIDENT SEVEN-DAY ANGLING LICENSE - $131.00 497.121
+ANNUAL COMBINED ANGLING TAG $77.00 $100.00 497.121
+HATCHERY HARVEST TAG $49.00 $49.00 497.121
+TWO-ROD ANGLING LICENSE $38.00 $38.00 497.121
+ANNUAL OCEAN ENDORSEMENT $9.00 $9.00 496.146
+DAILY OCEAN ENDORSEMENT $4.00 $4.00 496.146
+ROGUE SOUTH COAST STEELHEAD VALIDATION $4.00 $8.00 497.121
+ROGUE SOUTH COAST WILD
+STEELHEAD HARVEST TAG $22.00 $45.00 497.121
+SHELLFISH LICENSES
+ANNUAL SHELLFISH LICENSE $15.00 $41.00 497.121
+NONRESIDENT THREE-DAY SHELLFISH LICENSE - $29.00 497.121
+RESIDENT DISABLED VET SHELLFISH LICENSE FREE - 497.121
+COMBINATION LICENSE $99.00 - 497.132
+RESIDENT SPORTSPAC LICENSE $311.00 - 497.132
+RESIDENT SENIOR COMBINATION LICENSE $65.00 - 497.132
+RESIDENT PIONEER COMBINATION LICENSE $10.00 - 497.132
+YOUTH LICENSES/VALIDATIONS (ages 12-17)
+YOUTH LICENSE $10.00 $10.00 497.127
+RESIDENT YOUTH SPORTSPAC LICENSE $75.00 - 497.132
+YOUTH ANNUAL COMBINED ANGLING TAG $5.00 $5.00 497.121
+YOUTH UPLAND BIRD STAMP $4.00 $4.00 497.153
+YOUTH WATERFOWL STAMP $4.00 $4.00 497.151
+YOUTH TURKEY TAG $10.50 $10.50 497.112
+YOUTH HUNT/TRAP FUR-BEARERS LICENSE $17.00 $17.00  497.142
+MISCELLANEOUS
+DUPLICATE CERTIFICATE FILING $2.00 $2.00 497.032
+Enrolled House Bill 2342 (HB 2342-B) Page 11
+GUIDE TAG — DEER - $751.00 497.112
+GUIDE TAG — ELK - $1,108.00 497.112
+RESIDENT HUNT/TRAP FUR-BEARERS LICENSE $71.00 - 497.142
+NONRESIDENT FUR-TAKERS HUNT/TRAP LICENSE - $532.00  497.142
+RESIDENT HUNT FUR-BEARERS LICENSE $34.00 - 497.142
+PRIVATE HUNTING PRESERVE PERMIT $6.50 $14.00 497.102
+OUTDOOR CLUB LICENSE $100.00 $100.00 498.418
+LOP REGISTRATION $35.00 $35.00 496.146
+OCCUPATIONAL LICENSES/PERMITS
+FUR DEALER LICENSE $111.00 - 497.258
+TAXIDERMIST LICENSE $111.00 - 497.258
+WILDLIFE PROPAGATION LICENSE $58.00 - 497.258
+FISH PROPAGATION LICENSE $151.50 - 497.258
+PRIVATE HUNTING PRESERVE LICENSE $232.00 - 497.258
+STURGEON PROPAGATION PERMIT $3,573.00 $3,573.00 497.325
+SECTION 9. (1) Except as provided in subsection (2) of this section, the amendments  to
+ORS 497.061 by section 8 of this 2025 Act become operative on January 1, 2030.
+(2) The State Department of Fish and Wildlife may,  prior to January 1, 2030, charge the
+fees provided for in ORS 497.061, as amended by section 8  of this 2025 Act, for registrations
+made, and licenses, permits, tag and stamps applied for, before January 1, 2030, for  activities
+occurring on or after January 1, 2030.
+OCEAN ENDORSEMENTS
+SECTION 10.  ORS 496.146 is amended to read:
+496.146. In addition to any other duties or powers provided  by law, the State Fish and Wildlife
+Commission:
+(1) May accept, from  whatever source, appropriations, gifts or grants of money or other property
+for the purposes of  wildlife management, and use such money or property for wildlife management
+purposes.
+(2) May sell or exchange property owned by  the state and used for wildlife management pur-
+poses when the commission determines that such  sale or exchange would be advantageous to the
+state wildlife policy and management programs.
+(3) May acquire, introduce, propagate and stock wildlife species in  such manner as the com-
+mission determines will carry out the state wildlife policy and management programs.
+(4) May by rule authorize the issuance  of such licenses, tags and permits for angling, taking,
+hunting and trapping  and may prescribe such tagging and sealing procedures as the commission
+determines necessary  to carry out the provisions of the wildlife laws or to obtain information for
+use in  wildlife management. Permits issued pursuant to this subsection may include special hunting
+permits for a person and immediate family members of the person to hunt on land owned by that
+person in areas where permits for deer or elk are limited by quota. As used in  this subsection,
+“immediate family members” means spouses in a  marriage, parents, brothers, brothers-in-law, sisters,
+sisters-in-law, sons, sons-in-law, daughters, daughters-in-law, stepchildren and grandchildren. A
+landowner who is qualified to receive landowner preference tags from  the commission may request
+two additional tags for providing  public access and two additional tags for wildlife habitat programs.
+This request shall be made to the  Access and Habitat Board with supporting evidence that the ac-
+cess is significant and the  habitat programs benefit wildlife. The board may recommend that the
+commission grant the request. When a landowner is qualified under landowner preference rules
+adopted by the commission and receives a controlled hunt tag for that unit or  a landowner prefer-
+Enrolled House Bill 2342 (HB 2342-B) Page 12
+ence tag for the landowner’s  property and does not use the tag during the regular season, the
+landowner may use that tag to take an antlerless animal, when approved by the State  Department
+of Fish and Wildlife, to alleviate damage that is presently occurring to the landowner’s property.
+(5) May by rule prescribe procedures  requiring the holder of any license, tag or permit issued
+pursuant to the wildlife laws to keep records and make  reports concerning the time, manner and
+place of taking wildlife, the quantities taken and such other information as the commission  deter-
+mines necessary for proper enforcement of the wildlife laws or to obtain  information for use in
+wildlife management.
+(6) May establish  special hunting and angling areas or seasons in which only persons less than
+18 years of age or over 65 years of age are permitted to hunt or angle.
+(7) May acquire by purchase, lease, agreement or gift real  property and all appropriate interests
+therein for wildlife management and wildlife-oriented recreation purposes.
+(8) May acquire by  purchase, lease, agreement, gift, exercise of eminent domain or otherwise
+real property and all interests therein and establish, operate and maintain thereon  public hunting
+areas.
+(9) May establish and develop wildlife  refuge and management areas and prescribe rules gov-
+erning the use  of such areas and the use of wildlife refuge and management areas established and
+developed pursuant to any other provision of law.
+(10) May by rule prescribe fees for licenses, tags, permits and applications  issued or required
+pursuant to the wildlife laws,  and user charges for angling, hunting or other recreational uses of
+lands owned  or managed by the commission, unless such fees or user charges are otherwise pre-
+scribed by law.  No fee or user charge prescribed by the commission pursuant to this subsection shall
+exceed $250.
+(11) May enter into contracts with  any person or governmental agency for the development and
+encouragement of wildlife research and management programs and projects.
+(12) May perform  such acts as may be necessary for the establishment and implementation of
+cooperative wildlife management programs with agencies of the federal government.
+(13) May offer and pay rewards for the arrest and conviction of any person who has  violated
+any of the wildlife laws. No such reward shall exceed $1,000 for any one arrest and conviction.
+(14) May by rule prescribe fees  for falconry licenses issued pursuant to the wildlife laws, unless
+such fees are otherwise prescribed by law. Fees prescribed by the commission pursuant to  this
+subsection shall be based on actual or projected costs of administering falconry regulations and
+shall not exceed $250.
+(15) May establish special fishing and  hunting seasons and bag limits applicable only to persons
+with disabilities.
+(16) May  adopt optimum populations for deer and elk consistent with ORS 496.012. These popu-
+lation levels shall be reviewed at least once every five years.
+(17) Shall establish a preference system so that individuals  who are unsuccessful in controlled
+hunt permit drawings for  deer and elk hunting have reasonable assurance of success in those
+drawings in subsequent years. In establishing  the preference system, the commission shall consider
+giving additional preference points to persons who have been  issued a resident annual pioneer
+combination license pursuant to ORS 497.132 or resident disabled veteran hunting license under ORS
+497.102.
+(18) May sell advertising in  State Department of Fish and Wildlife publications, including annual
+hunting and angling regulation publications.
+(19) May, notwithstanding the fees required by ORS 497.112, provide free  hunting tags to an
+organization that sponsors hunting trips  for terminally ill children. Except as provided under ORS
+497.116, the State Department of Fish and Wildlife may not issue more than 15 tags  annually under
+this subsection.
+(20) Shall, after  consultation with the State Department of Agriculture, adopt rules prohibiting
+the use of the World Wide Web, other Internet  protocols or broadcast or closed circuit media to
+remotely control a weapon for  the purpose of hunting any game bird, wildlife, game mammal or
+Enrolled House Bill 2342 (HB 2342-B) Page 13
+other mammal. The  rules may exempt the State Department of Fish and Wildlife or agents of the
+department from the prohibition.
+(21) May adopt rules establishing a schedule of  civil penalties, not to exceed $6,500 per vio-
+lation, for  violations of provisions of the wildlife laws or rules adopted by the commission under the
+wildlife laws. Civil  penalties established under this subsection must be imposed in the manner pro-
+vided by ORS 183.745 and must be deposited in the State Wildlife Fund  established under ORS
+496.300.
+(22) May by rule impose a surcharge not to exceed $25 for the renewal of a  hunting license on
+any person who fails to  comply with mandatory hunting reporting requirements. Amounts collected
+as surcharges under this subsection must be deposited in the State Wildlife Fund  established under
+ORS 496.300.
+(23)(a) May by rule  establish annual and daily Columbia Basin salmon, steelhead and sturgeon
+recreational fishing endorsements with a fee not to exceed $9.75 per annual license  and $1 per day
+per daily  license. An endorsement is required to fish for salmon, steelhead or sturgeon in portions
+of the Columbia Basin as  designated by rule and is in addition to and not in lieu of angling licenses
+and tags required under the wildlife laws. Amounts collected  as fees under this subsection must be
+deposited in the Columbia River Fisheries Enhancement Fund established  under section 7, chapter
+672, Oregon Laws 2013.
+(b) Notwithstanding paragraph (a) of this subsection, if the commission  adopts rules that de-
+crease fishery impacts or the share of salmon allocated to Columbia  River recreational fisheries or
+that expand the areas and seasons where nontribal gillnets are permitted in mainstem  lower
+Columbia River nontribal  fisheries as compared to regulatory restrictions in place from 2017 to 2020,
+the commission may not require  or collect the endorsements, beginning in the following calendar
+year.
+(24) May by rule establish annual and  daily ocean endorsements and shall charge the
+applicable fees under the fee schedule in ORS 497.061. An endorsement is required to fish for
+any species, except shellfish, salmon and steelhead trout,  in ocean waters and is in addition
+to and not in lieu of angling licenses and tags required under the wildlife laws. Amounts
+collected as fees under this subsection must be deposited in the Marine Fisheries  Enhance-
+ment Fund Subaccount established in ORS 496.303. As used in this  subsection, “ocean
+waters” means waters to the west of:
+(a) Normal high tide lines along coastal beaches where there are no jetties;
+(b) The visible ends of jetties, except in the Columbia River; or
+(c) The north-south line running through Buoy 10 in the Columbia River.
+[(24)] (25)  May by rule establish multiyear licenses and may prescribe fees for such licenses.
+Fees prescribed by the commission for multiyear licenses may provide for a discount from the annual
+license fees that would otherwise be payable for the period  of time covered by the multiyear license.
+[(25)] (26)  May by rule establish a program to offer unique fishing opportunities through
+drawings, raffles or auctions and charge application and participation fees for the program.
+SECTION 11.
+ ORS 496.146, as amended by section  5, chapter 169, Oregon Laws 2021, is
+amended to read:
+496.146. In addition to any other duties or  powers provided by law, the State Fish and Wildlife
+Commission:
+(1) May accept, from  whatever source, appropriations, gifts or grants of money or other property
+for the purposes of wildlife management, and use such money or property  for wildlife management
+purposes.
+(2) May sell or exchange property owned by the  state and used for wildlife management pur-
+poses when the commission determines that such sale or  exchange would be advantageous to the
+state wildlife policy and management programs.
+(3) May acquire, introduce, propagate and  stock wildlife species in such manner as the com-
+mission determines will carry out the state wildlife policy and management programs.
+Enrolled House Bill 2342 (HB 2342-B) Page 14
+(4) May by rule authorize the issuance of such licenses,  tags and permits for angling, taking,
+hunting and trapping and may prescribe such tagging and sealing procedures as  the commission
+determines necessary to carry out the provisions of the wildlife laws or to obtain information  for
+use in  wildlife management. Permits issued pursuant to this subsection may include special hunting
+permits for a person and immediate family members of the person to hunt on land owned by that
+person in areas  where permits for deer or elk are limited by quota. As used in this subsection,
+“immediate family members” means spouses in a  marriage, parents, brothers, brothers-in-law, sisters,
+sisters-in-law, sons, sons-in-law, daughters, daughters-in-law, stepchildren and grandchildren. A
+landowner who is qualified to  receive landowner preference tags from the commission may request
+two additional tags for providing  public access and two additional tags for wildlife habitat programs.
+This request shall be made to the Access and Habitat Board  with supporting evidence that the ac-
+cess is significant and the habitat programs benefit wildlife. The board  may recommend that the
+commission grant the request. When a landowner is qualified under landowner preference rules
+adopted by the commission  and receives a controlled hunt tag for that unit or a landowner prefer-
+ence tag for the landowner’s property and does not use the tag during  the regular season, the
+landowner  may  use that tag to take an antlerless animal, when approved by the State Department
+of Fish and Wildlife, to alleviate damage that is presently occurring to the landowner’s property.
+(5) May by rule prescribe procedures  requiring the holder of any license, tag or permit issued
+pursuant to the wildlife laws to keep records and make  reports concerning the time, manner and
+place of taking wildlife, the quantities taken and such other information as the commission  deter-
+mines necessary for proper enforcement of the wildlife laws or to obtain  information for use in
+wildlife management.
+(6) May establish  special hunting and angling areas or seasons in which only persons less than
+18 years of age or over 65 years of age are permitted to hunt or angle.
+(7) May acquire by purchase, lease, agreement or gift real  property and all appropriate interests
+therein for wildlife management and wildlife-oriented recreation purposes.
+(8) May acquire by  purchase, lease, agreement, gift, exercise of eminent domain or otherwise
+real property and all interests therein and establish, operate and maintain thereon  public hunting
+areas.
+(9) May establish and develop wildlife  refuge and management areas and prescribe rules gov-
+erning the use  of such areas and the use of wildlife refuge and management areas established and
+developed pursuant to any other provision of law.
+(10) May by rule prescribe fees for licenses, tags, permits and applications  issued or required
+pursuant to the wildlife laws,  and user charges for angling, hunting or other recreational uses of
+lands owned  or managed by the commission, unless such fees or user charges are otherwise pre-
+scribed by law.  No fee or user charge prescribed by the commission pursuant to this subsection shall
+exceed $250.
+(11) May enter into contracts with  any person or governmental agency for the development and
+encouragement of wildlife research and management programs and projects.
+(12) May perform  such acts as may be necessary for the establishment and implementation of
+cooperative wildlife management programs with agencies of the federal government.
+(13) May offer and pay rewards for the arrest and conviction of any person who has  violated
+any of the wildlife laws. No such reward shall exceed $1,000 for any one arrest and conviction.
+(14) May by rule prescribe fees  for falconry licenses issued pursuant to the wildlife laws, unless
+such fees are otherwise prescribed by law. Fees prescribed by the commission pursuant to  this
+subsection shall be based on actual or projected costs of administering falconry regulations and
+shall not exceed $250.
+(15) May establish special fishing and  hunting seasons and bag limits applicable only to persons
+with disabilities.
+(16) May  adopt optimum populations for deer and elk consistent with ORS 496.012. These popu-
+lation levels shall be reviewed at least once every five years.
+Enrolled House Bill 2342 (HB 2342-B) Page 15
+(17) Shall establish a preference system so that individuals  who are unsuccessful in controlled
+hunt permit drawings for  deer and elk hunting have reasonable assurance of success in those
+drawings in subsequent years. In establishing  the preference system, the commission shall consider
+giving additional preference points to persons who have been  issued a resident annual pioneer
+combination license pursuant to ORS 497.132 or resident disabled veteran hunting license under ORS
+497.102.
+(18) May sell advertising in  State Department of Fish and Wildlife publications, including annual
+hunting and angling regulation publications.
+(19) May, notwithstanding the fees  required by ORS 497.112, provide free hunting tags to an
+organization that sponsors hunting trips for terminally ill children. Except  as provided under ORS
+497.116, the State Department of Fish and Wildlife may not issue more than 15 tags  annually under
+this subsection.
+(20) Shall, after consultation with the State Department of Agriculture, adopt  rules prohibiting
+the use of the World Wide Web, other Internet  protocols or broadcast or closed circuit media to
+remotely control a weapon for the purpose of hunting any game bird,  wildlife, game mammal or
+other mammal. The rules may exempt the State Department of Fish and Wildlife or agents  of the
+department from the prohibition.
+(21) May adopt rules establishing a schedule of  civil penalties, not to exceed $6,500 per vio-
+lation, for  violations of provisions of the wildlife laws or rules adopted by the commission under the
+wildlife laws. Civil  penalties established under this subsection must be imposed in the manner pro-
+vided by ORS 183.745 and must be deposited in the State Wildlife Fund  established under ORS
+496.300.
+(22) May by rule impose a surcharge not to exceed $25 for the renewal of a  hunting license on
+any person who fails to  comply with mandatory hunting reporting requirements. Amounts collected
+as surcharges under this subsection must be deposited in the State Wildlife Fund  established under
+ORS 496.300.
+(23) May by rule establish annual and  daily ocean endorsements and shall charge the
+applicable fees under the fee schedule in ORS 497.061. An endorsement is required to fish for
+any species, except shellfish, salmon and steelhead trout,  in ocean waters and is in addition
+to and not in lieu of angling licenses and tags required under the wildlife laws. Amounts
+collected as fees under this subsection must be deposited in the Marine Fisheries  Enhance-
+ment Fund Subaccount established in ORS 496.303. As used in this  subsection, “ocean
+waters” means waters to the west of:
+(a) Normal high tide lines along coastal beaches where there are no jetties;
+(b) The visible ends of jetties, except in the Columbia River; or
+(c) The north-south line running through Buoy 10 in the Columbia River.
+[(23)] (24)  May by rule establish multiyear licenses and may prescribe fees for such licenses.
+Fees prescribed by the commission for multiyear licenses may provide for a discount from the annual
+license fees that would otherwise be payable for the period  of time covered by the multiyear license.
+[(24)] (25)  May by rule establish a program to offer unique fishing opportunities through
+drawings, raffles or auctions and charge application and participation fees for the program.
+SECTION 12.
+The amendments to ORS 496.146  by sections 10 and 11 of this 2025 Act be-
+come operative on January 1, 2026.
+MARINE FISHERIES ENHANCEMENT FUND SUBACCOUNT
+SECTION 13.  ORS 496.303 is amended to read:
+496.303. (1) The Fish and Wildlife Account is established in the  State Treasury, separate and
+distinct from the General Fund. All moneys in the account  are continuously appropriated to the
+State Fish and Wildlife Commission. The Fish  and Wildlife Account shall consist of the moneys in
+its various subaccounts and any moneys transferred to the account  by the Legislative Assembly.
+Enrolled House Bill 2342 (HB 2342-B) Page 16
+Unless otherwise specified by law, interest earnings on moneys in the account shall be paid  into the
+State Treasury and credited to the State Wildlife Fund.
+(2)(a) The Fish Screening Subaccount is established in the Fish and  Wildlife Account. The sub-
+account shall consist of:
+(A) All penalties recovered under ORS 536.900 to 536.920.
+(B) All moneys received pursuant to ORS 498.306.
+(C) All gifts, grants and other moneys from whatever source that may be used to carry  out the
+provisions of ORS 498.306.
+(D) All moneys received from the sale of angling licenses dedicated by ORS 497.124.
+(b) All moneys in the  subaccount shall be used to carry out the provisions of ORS 315.138,
+498.306 and 509.620. However, moneys  received from the sale of angling licenses dedicated by ORS
+497.124 shall be expended only to carry out the provisions  of law relating to the screening of water
+diversions.
+(3) The Fish Endowment Subaccount is established in  the Fish and Wildlife Account. The sub-
+account shall consist of transfers of moneys authorized by  the Legislative Assembly from the State
+Wildlife Fund and gifts and grants of moneys from whatever source for the  purpose of paying the
+expense of maintaining fish hatcheries operated by the department.
+(4) The Migratory Waterfowl Subaccount  is established in the Fish and Wildlife Account. All
+moneys received by the commission from the sale of art works and prints related  to the migratory
+waterfowl stamps shall be deposited in the subaccount. Moneys in the  subaccount may be expended
+only for  activities that promote the propagation, conservation and recreational uses of migratory
+waterfowl  and  for activities related to the design, production, issuance and arrangements for sale
+of the migratory waterfowl stamps and related art works and prints. Expenditures of  moneys in the
+subaccount may be made within this state, in other states  or in foreign countries, in such amounts
+as the commission determines appropriate. Expenditures in other  states and foreign countries shall
+be on such terms and conditions as the commission determines will benefit most directly the mi-
+gratory waterfowl resources of this state.
+(5) The  Halibut Research Subaccount is established in the Fish and Wildlife Account. Based on
+the annual number of recreational halibut anglers, a portion of the moneys  derived from the sale
+of the salmon, steelhead trout, sturgeon and halibut tag pursuant to ORS 497.121 shall be  credited
+to the subaccount. Moneys in the subaccount may be expended only  for halibut population studies
+and other research.
+(6) The Upland Bird Subaccount  is established in the Fish and Wildlife Account. All moneys
+received by the State Fish and Wildlife Commission  from the sale of upland bird stamps, from the
+sale of any  art works and prints related to the upland bird stamps and from private hunting preserve
+permit fees shall be deposited in the subaccount. Moneys in the subaccount may be expended  only
+for promoting the propagation and conservation of upland birds  and the acquisition, development,
+management, enhancement, sale or exchange  of upland bird habitat, and for activities related to the
+design, production, issuance and arrangements for sale of the upland bird  stamps and related art
+works and  prints. Expenditures of moneys in the subaccount shall be made for the benefit of pro-
+grams within this  state in such amounts and at such times as the commission determines appropriate
+to most directly benefit the upland bird resources of the state.
+(7) The  Access and Habitat Board Subaccount is established in the Fish and Wildlife Account.
+The subaccount shall consist of moneys transferred to the subaccount pursuant  to ORS 496.242.
+Moneys in the subaccount may be used for the purposes specified in ORS 496.242.
+(8) The Marine Shellfish Subaccount is established in the  Fish and Wildlife Account. Interest
+earnings on moneys in the subaccount shall be  credited to the subaccount. All moneys received by
+the commission from the sale of  resident and nonresident shellfish licenses pursuant to ORS 497.121
+shall be deposited in the subaccount. Moneys in the subaccount shall be used for the protection and
+enhancement of shellfish for recreational  purposes, including shellfish sanitation costs and the cost
+of enforcement of wildlife laws pertaining to the taking  of shellfish. The State Fish and Wildlife
+Director, or a designee, the Director of Agriculture, or a designee, and the Superintendent of State
+Enrolled House Bill 2342 (HB 2342-B) Page 17
+Police, or a designee, shall jointly make a recommendation to the  Governor for inclusion in the
+Governor’s budget beginning July 1 of each odd-numbered year.
+(9)(a) The Mountain Sheep Subaccount is established  in the Fish and Wildlife Account, consist-
+ing of moneys collected under ORS 497.112 (2)(a) to (c).
+(b) All moneys  in the subaccount shall be used for the propagation and conservation of mountain
+sheep, for research, development, management, enhancement and sale or exchange  of mountain
+sheep habitat and for programs within the state that in the discretion of the commission most  di-
+rectly benefit mountain sheep resources of this state.
+(10)(a) The Antelope Subaccount is established  in the Fish and Wildlife Account, consisting of
+moneys collected under ORS 497.112 (2)(a) to (c).
+(b) All moneys in the subaccount shall  be used for the propagation and conservation of antelope,
+for research,  development, management, enhancement and sale or exchange of antelope habitat and
+for programs within the state that in the discretion of the commission  most directly benefit antelope
+resources of this state.
+(11)(a) The Mountain Goat Subaccount is established in the  Fish and Wildlife Account, consist-
+ing of moneys collected under ORS 497.112 (2)(a) to (c).
+(b) All moneys  in the subaccount shall be used for the propagation and conservation of mountain
+goats for research, development, management,  enhancement and sale or exchange of mountain goat
+habitat and for programs within the state that in the discretion of the  commission most directly
+benefit mountain goat resources of this state.
+(12) The commission shall  keep a record of all moneys deposited in the Fish and Wildlife Ac-
+count. The record shall indicate by  separate cumulative accounts the sources from which the mon-
+eys are derived and the individual activity or programs against which each withdrawal is charged.
+(13) The Oregon Conservation Strategy Subaccount is established in  the Fish and Wildlife Ac-
+count. All moneys received by  the commission from the sale of habitat conservation stamps and from
+the sale of any art works and prints related to  the habitat conservation stamp shall be deposited in
+the subaccount. Moneys in the subaccount may  be expended only to promote and implement habitat
+and species restoration, enhancement and viewing activities identified in the “Oregon Conservation
+Strategy,” 2006, by the State Department of Fish and Wildlife, and for activities related  to the de-
+sign, production, issuance and arrangements for sale  of the habitat conservation stamps and related
+art works and prints.
+(14)(a) The Rogue-South Coast Research and Monitoring Subaccount is  established in the Fish
+and Wildlife Account, consisting of moneys collected under ORS 497.121 (1)(r) and (s).
+(b) All moneys in the  subaccount shall be used for research and monitoring that is consistent
+with the Rogue-South Coast Multi-Species  Conservation and Management Plan the commission
+adopted in December 2021, as subsequently amended by the commission.
+(c) The commission may amend the plan as needed.
+(d) The commission shall make the current version of the plan publicly  available on a website
+of the commission or of the State Department of Fish and Wildlife.
+(15) The Marine Fisheries Enhancement Fund Subaccount is established in  the Fish and
+Wildlife Account. All moneys received by  the commission from the sale of annual or daily
+ocean endorsements under ORS 496.146 shall be deposited in the subaccount. Moneys  in the
+subaccount may be expended only to promote and enhance marine  fisheries and marine
+conservation.
+SECTION 14.
+The amendments to ORS 496.303 by section 13  of this 2025 Act become op-
+erative on January 1, 2026.
+FEES UNDER COMMERCIAL FISHING LAWS
+SECTION 15.  ORS 508.116 is amended to read:
+508.116. (1)(a) The State Fish and Wildlife Director may issue to any person a  permit to take
+animals living intertidally on the bottom.
+Enrolled House Bill 2342 (HB 2342-B) Page 18
+(b) The annual fee for a resident permit issued under this section is [ $125] $140.
+(c) The annual fee for a nonresident permit issued under this section is [ $175] $196.
+(2) It is unlawful  to take animals living intertidally on the bottom for commercial purposes by
+a permit issued under subsection (1) of this section  without first having obtained a license under
+ORS 508.035.
+SECTION 16. (1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.116 by section 15 of this 2025 Act become operative on January 1, 2026.
+(2) The  State Fish and Wildlife Director may, prior to January 1, 2026, charge the fees
+provided for in ORS  508.116, as amended by section 15 of this 2025 Act, for permits applied
+for before January 1, 2026, for activities occurring on or after January 1, 2026.
+SECTION 17.  ORS 508.116, as amended by section 15 of this 2025 Act, is amended to read:
+508.116. (1)(a) The State  Fish and Wildlife Director may issue to any person a permit to take
+animals living intertidally on the bottom.
+(b) The annual fee for a resident permit issued under this section is [ $140] $146.
+(c) The annual fee for a nonresident permit issued under this section is [ $196] $204.
+(2) It is unlawful to take animals living intertidally on the bottom for  commercial purposes by
+a permit issued under subsection (1) of this  section without first having obtained a license under
+ORS 508.035.
+SECTION 18. (1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.116 by section 17 of this 2025 Act become operative on January 1, 2028.
+(2) The State Fish and Wildlife Director may, prior to January 1, 2028, charge the  fees
+provided for in ORS 508.116, as amended by section 17 of this 2025 Act,  for permits applied
+for before January 1, 2028, for activities occurring on or after January 1, 2028.
+SECTION 19.  ORS 508.116, as amended by sections 15 and 17 of this 2025 Act,  is amended to
+read:
+508.116. (1)(a) The State  Fish and Wildlife Director may issue to any person a permit to take
+animals living intertidally on the bottom.
+(b) The annual fee for a resident permit issued under this section is [ $146] $152.
+(c) The annual fee for a nonresident permit issued under this section is [ $204] $212.
+(2) It is unlawful to take animals living intertidally on the bottom for  commercial purposes by
+a permit issued under subsection (1) of this  section without first having obtained a license under
+ORS 508.035.
+SECTION 20. (1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.116 by section 19 of this 2025 Act become operative on January 1, 2030.
+(2) The State Fish and Wildlife Director may, prior to January 1, 2030, charge the  fees
+provided for in ORS 508.116, as amended by section 19 of this 2025 Act,  for permits applied
+for before January 1, 2030, for activities occurring on or after January 1, 2030.
+SECTION 21.  ORS 508.285 is amended to read:
+508.285. (1) The fee for each license required by this chapter is as follows:
+[(a) Resident albacore tuna landing license for boats that do not hold a  valid commercial fishing
+license from Oregon or another state, $250. ]
+[(b) Nonresident albacore tuna landing license for  boats that do not hold a valid commercial fish-
+ing license from Oregon or another state, $300. ]
+[(c) Albacore tuna landing license  for boats that hold a valid commercial fishing license from an-
+other state and do not hold a valid commercial fishing license from Oregon, $25. ]
+[(d)] (a)  Resident boat license for a vessel less than 50 feet in length, [ $350] $392.
+[(e)] (b) Nonresident boat license for a vessel less than 50 feet in length, [ $400] $448.
+[(f)] (c)  Resident boat license for a vessel 50 feet in length or more, [ $400] $448.
+[(g)] (d) Nonresident boat license for a vessel 50 feet in length or more, [ $450] $504.
+[(h)] (e)  Resident commercial fishing license, [ $100] $112.
+[(i)] (f)  Nonresident commercial fishing license, [ $150] $168.
+[(j)] (g)  Commercial fishing license for resident persons 18 years of age or younger, $30.
+Enrolled House Bill 2342 (HB 2342-B) Page 19
+[(k)] (h)  Resident commercial bait fishing license, [ $125] $140.
+[(L)] (i) Nonresident commercial bait fishing license, [ $175] $196.
+[(m)] (j)  Fish buyer license, [ $275] $308.
+[(n)] (k)  Fish bait dealer license, [ $125] $140.
+[(o)] (L)  Food fish canner license, [ $500] $560.
+[(p)] (m)  Shellfish canner license, [ $500] $560.
+[(q)] (n)  Resident single delivery license, [ $125] $140.
+[(r)] (o)  Nonresident single delivery license, [ $175] $196.
+[(s)] (p) Wholesale fish dealer license, [ $500] $560.
+(2) As used in this section, “resident”  means a person who has resided in this state at least 12
+consecutive months immediately prior to the date of making application for a license.
+SECTION 22. (1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.285 by section 21 of this 2025 Act become operative on January 1, 2026.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2026, charge the fees
+provided for in ORS 508.285, as  amended by section 21 of this 2025 Act, for licenses applied
+for before January 1, 2026, for activities occurring on or after January 1, 2026.
+SECTION 23.  ORS 508.285, as amended by section 21 of this 2025 Act, is amended to read:
+508.285. (1) The fee for each license required by this chapter is as follows:
+(a) Resident boat license for a vessel less than 50 feet in length, [ $392] $408.
+(b) Nonresident boat license for a vessel less than 50 feet in length, [ $448] $466.
+(c) Resident boat license for a vessel 50 feet in length or more, [ $448] $466.
+(d) Nonresident boat license for a vessel 50 feet in length or more, [ $504] $524.
+(e) Resident commercial fishing license, [ $112] $117.
+(f) Nonresident commercial fishing license, [ $168] $175.
+(g) Commercial fishing license for resident persons 18 years of age or younger, $30.
+(h) Resident commercial bait fishing license, [ $140] $146.
+(i) Nonresident commercial bait fishing license, [ $196] $204.
+(j) Fish buyer license, [ $308] $320.
+(k) Fish bait dealer license, [ $140] $146.
+(L) Food fish canner license, [ $560] $582.
+(m) Shellfish canner license, [ $560] $582.
+(n) Resident single delivery license, [ $140] $146.
+(o) Nonresident single delivery license, [ $196] $204.
+(p) Wholesale fish dealer license, [ $560] $582.
+(2) As used in this section, “resident”  means a person who has resided in this state at least 12
+consecutive months immediately prior to the date of making application for a license.
+SECTION 24.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.285 by section 23 of this 2025 Act become operative on January 1, 2028.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2028, charge the fees
+provided for in ORS 508.285, as  amended by section 23 of this 2025 Act, for licenses applied
+for before January 1, 2028, for activities occurring on or after January 1, 2028.
+SECTION 25.  ORS 508.285,  as amended by sections 21 and 23 of this 2025 Act, is amended to
+read:
+508.285. (1) The fee for each license required by this chapter is as follows:
+(a) Resident boat license for a vessel less than 50 feet in length, [ $408] $424.
+(b) Nonresident boat license for a vessel less than 50 feet in length, [ $466] $485.
+(c) Resident boat license for a vessel 50 feet in length or more, [ $466] $485.
+(d) Nonresident boat license for a vessel 50 feet in length or more, [ $524] $545.
+(e) Resident commercial fishing license, [ $117] $122.
+(f) Nonresident commercial fishing license, [ $175] $182.
+(g) Commercial fishing license for resident persons 18 years of age or younger, $30.
+(h) Resident commercial bait fishing license, [ $146] $152.
+Enrolled House Bill 2342 (HB 2342-B) Page 20
+(i) Nonresident commercial bait fishing license, [ $204] $212.
+(j) Fish buyer license, [ $320] $333.
+(k) Fish bait dealer license, [ $146] $152.
+(L) Food fish canner license, [ $582] $605.
+(m) Shellfish canner license, [ $582] $605.
+(n) Resident single delivery license, [ $146] $152.
+(o) Nonresident single delivery license, [ $204] $212.
+(p) Wholesale fish dealer license, [ $582] $605.
+(2) As used in this section, “resident”  means a person who has resided in this state at least 12
+consecutive months immediately prior to the date of making application for a license.
+SECTION 26. (1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.285 by section 25 of this 2025 Act become operative on January 1, 2030.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2030, charge the fees
+provided for in ORS 508.285, as  amended by section 25 of this 2025 Act, for licenses applied
+for before January 1, 2030, for activities occurring on or after January 1, 2030.
+SECTION 27.  ORS 508.505 is amended to read:
+508.505. (1) Additional fees shall be collected by the State Fish and Wildlife  Director in the
+amount prescribed by  this section, except as provided in ORS 508.510. Every person operating within
+the state as a  canner, buyer, bait dealer or wholesaler of any food fish or shellfish shall pay, in
+addition to all other licenses or fees provided by law, a fee equal to the value of the  food fish at the
+point of landing multiplied by the following rates:
+(a) All salmon and steelhead, 3.15 percent.
+(b) All black rockfish, blue rockfish and nearshore fish, 5.00 percent.
+(c) All tuna, [ 1.09] 1.22 percent.
+(d) All crab, [ 2.35] 2.63 percent.
+(e) All shrimp, [ 2.40] 2.69 percent.
+(f) All sardines, [ 2.25] 2.52 percent.
+(g) All sablefish, [ 2.40] 2.69 percent.
+(h) All whiting, [ 2.30] 2.58 percent.
+(i) All other groundfish, [ 2.25] 2.52 percent.
+(j) All other food fish and shellfish, [ 2.30] 2.58 percent.
+(2) Only live, fresh or frozen in the round or dressed  food fish or shellfish are subject to the fees
+provided in this section. “Dressed” includes but is not limited to beheaded, gutted, filleted,  loined
+or shucked. However, frozen  food fish or frozen shellfish received in a wrapped package to which
+a legible label is stamped or printed showing the name, address, brand or trade name of  the original
+processor or wholesale  distributor under which the package is marketed and the kind of frozen food
+fish or frozen shellfish contained therein, for distribution and  ultimate sale in the original package
+are not subject to the fees provided in this section.
+SECTION 28.
+The amendments to ORS 508.505  by section 27 of this 2025 Act become op-
+erative on January 1, 2026.
+SECTION 29.  ORS 508.505, as amended by section 27 of this 2025 Act, is amended to read:
+508.505. (1) Additional fees shall be collected by the State Fish and Wildlife  Director in the
+amount prescribed by  this section, except as provided in ORS 508.510. Every person operating within
+the state as a  canner, buyer, bait dealer or wholesaler of any food fish or shellfish shall pay, in
+addition to all other licenses or fees provided by law, a fee equal to the value of the  food fish at the
+point of landing multiplied by the following rates:
+(a) All salmon and steelhead, 3.15 percent.
+(b) All black rockfish, blue rockfish and nearshore fish, 5.00 percent.
+(c) All tuna, [ 1.22] 1.27 percent.
+(d) All crab, [ 2.63] 2.74 percent.
+(e) All shrimp, [ 2.69] 2.80 percent.
+(f) All sardines, [ 2.52] 2.62 percent.
+Enrolled House Bill 2342 (HB 2342-B) Page 21
+(g) All sablefish, [ 2.69] 2.80 percent.
+(h) All whiting, [ 2.58] 2.68 percent.
+(i) All other groundfish, [ 2.52] 2.62 percent.
+(j) All other food fish and shellfish, [ 2.58] 2.68 percent.
+(2) Only live, fresh or frozen in the round or dressed  food fish or shellfish are subject to the fees
+provided in this section. “Dressed” includes but is not limited to beheaded, gutted, filleted,  loined
+or shucked. However, frozen  food fish or frozen shellfish received in a wrapped package to which
+a legible label is stamped or printed showing the name, address, brand or trade name of  the original
+processor or wholesale  distributor under which the package is marketed and the kind of frozen food
+fish or frozen shellfish contained therein, for distribution and  ultimate sale in the original package
+are not subject to the fees provided in this section.
+SECTION 30. The amendments to ORS 508.505  by section 29 of this 2025 Act become op-
+erative on January 1, 2028.
+SECTION 31.  ORS 508.505,  as amended by sections 27 and 29 of this 2025 Act, is amended to
+read:
+508.505. (1) Additional fees  shall be collected by the State Fish and Wildlife Director in the
+amount prescribed by  this section, except as provided in ORS 508.510. Every person operating within
+the state as a canner, buyer, bait dealer or wholesaler of any food fish or shellfish  shall pay, in
+addition to all other licenses or fees provided by law, a fee equal to the value of the  food fish at the
+point of landing multiplied by the following rates:
+(a) All salmon and steelhead, 3.15 percent.
+(b) All black rockfish, blue rockfish and nearshore fish, 5.00 percent.
+(c) All tuna, [ 1.27] 1.32 percent.
+(d) All crab, [ 2.74] 2.85 percent.
+(e) All shrimp, [ 2.80] 2.91 percent.
+(f) All sardines, [ 2.62] 2.72 percent.
+(g) All sablefish, [ 2.80] 2.91 percent.
+(h) All whiting, [ 2.68] 2.79 percent.
+(i) All other groundfish, [ 2.62] 2.72 percent.
+(j) All other food fish and shellfish, [ 2.68] 2.79 percent.
+(2) Only live, fresh or frozen in the round or dressed  food fish or shellfish are subject to the fees
+provided  in  this section. “Dressed” includes but is not limited to beheaded, gutted, filleted, loined
+or shucked. However, frozen food fish or frozen shellfish received in a wrapped  package to which
+a legible label is stamped or printed showing the name, address, brand or trade name of  the original
+processor or wholesale  distributor under which the package is marketed and the kind of frozen food
+fish or frozen shellfish contained therein, for  distribution and ultimate sale in the original package
+are not subject to the fees provided in this section.
+SECTION 32.
+The amendments to ORS 508.505 by section 31  of this 2025 Act become op-
+erative on January 1, 2030.
+SECTION 33.  ORS 508.550 is amended to read:
+508.550. Notwithstanding any other provision of this chapter, a  person who holds a valid Oregon
+commercial fishing license may sell any species of food fish taken in lawful commercial fishing ac-
+tivity directly from the license holder’s boat, subject to the following conditions:
+(1) The person must first obtain from the State Fish and Wildlife Commission an  annual limited
+fish seller permit for such sales, the annual fee for which is:
+(a) [ $100] $112 for resident applicants.
+(b) [ $150] $168 for nonresident applicants.
+(2) The commission by rule may limit the number of permits available for any species of food
+fish.
+(3) Prior to making any sale pursuant to this  section, the person must notify the commission, in
+such manner as the commission  prescribes, of the estimated number of food fish on board the boat
+and of the location where the sale is to take place.
+Enrolled House Bill 2342 (HB 2342-B) Page 22
+(4) Within seven days of making any sale pursuant to this section, the person shall submit to
+the commission a report thereof, in such form as the commission may prescribe. The person must
+pay the fees required as prescribed in ORS 508.505 to  508.540, or in such other manner as the
+commission by rule may prescribe.
+(5) The person may sell food fish from any port and dock location in this state.
+(6) If a person  fails to comply with subsection (3) of this section, the commission may revoke
+and thereafter refuse to issue another limited fish seller permit.
+SECTION 34.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.550 by section 33 of this 2025 Act become operative on January 1, 2026.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2026, charge the fees
+provided for in ORS  508.550, as amended by section 33 of this 2025 Act, for permits applied
+for before January 1, 2026, for activities occurring on or after January 1, 2026.
+SECTION 35.  ORS 508.550, as amended by section 33 of this 2025 Act, is amended to read:
+508.550. Notwithstanding any other provision of this chapter, a  person who holds a valid Oregon
+commercial fishing license may sell any species of food fish taken in lawful commercial fishing ac-
+tivity directly from the license holder’s boat, subject to the following conditions:
+(1) The person must first obtain from the State Fish and Wildlife Commission an  annual limited
+fish seller permit for such sales, the annual fee for which is:
+(a) [ $112] $117 for resident applicants.
+(b) [ $168] $175 for nonresident applicants.
+(2) The commission by rule may limit the number of permits available for any species of food
+fish.
+(3) Prior to making any sale pursuant to this  section, the person must notify the commission, in
+such manner as the commission prescribes, of the estimated number of food fish  on board the boat
+and of the location where the sale is to take place.
+(4) Within seven days of making any sale pursuant to this section, the person shall submit to
+the commission a report thereof, in such form as the commission may prescribe. The person must
+pay the fees required as prescribed in ORS 508.505  to 508.540, or in such other manner as the
+commission by rule may prescribe.
+(5) The person may sell food fish from any port and dock location in this state.
+(6) If a person  fails to comply with subsection (3) of this section, the commission may revoke
+and thereafter refuse to issue another limited fish seller permit.
+SECTION 36.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.550 by section 35 of this 2025 Act become operative on January 1, 2028.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2028, charge the fees
+provided for in ORS  508.550, as amended by section 35 of this 2025 Act, for permits applied
+for before January 1, 2028, for activities occurring on or after January 1, 2028.
+SECTION 37.  ORS 508.550,  as amended by sections 33 and 35 of this 2025 Act, is amended to
+read:
+508.550. Notwithstanding any other provision of this chapter, a  person who holds a valid Oregon
+commercial fishing license may sell any species of food fish taken in lawful commercial fishing ac-
+tivity directly from the license holder’s boat, subject to the following conditions:
+(1) The person must first obtain from the State Fish and Wildlife Commission an  annual limited
+fish seller permit for such sales, the annual fee for which is:
+(a) [ $117] $122 for resident applicants.
+(b) [ $175] $182 for nonresident applicants.
+(2) The commission by rule may limit the number of permits available for any species of food
+fish.
+(3) Prior to making any sale pursuant to this  section, the person must notify the commission, in
+such manner as the commission  prescribes, of the estimated number of food fish on board the boat
+and of the location where the sale is to take place.
+Enrolled House Bill 2342 (HB 2342-B) Page 23
+(4) Within seven days of making any sale pursuant to this section, the person shall submit to
+the commission a report thereof, in such form as the commission may prescribe. The person must
+pay the fees required as prescribed in ORS 508.505 to  508.540, or in such other manner as the
+commission by rule may prescribe.
+(5) The person may sell food fish from any port and dock location in this state.
+(6) If a person  fails to comply with subsection (3) of this section, the commission may revoke
+and thereafter refuse to issue another limited fish seller permit.
+SECTION 38.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.550 by section 37 of this 2025 Act become operative on January 1, 2030.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2030, charge the fees
+provided for in ORS  508.550, as amended by section 37 of this 2025 Act, for permits applied
+for before January 1, 2030, for activities occurring on or after January 1, 2030.
+SECTION 39.  ORS 508.760 is amended to read:
+508.760. (1) Notwithstanding  any other provision of the commercial fishing laws, in order to
+provide a sea urchin (Strongylocentrotus franciscanus, S. purpuratus and S. droebachiensis)  com-
+mercial fishery with optimum profits  to those engaged in the fishery and to prevent a concentration
+of fishing effort that would deplete the resource, the State Fish  and Wildlife Commission, by rule,
+shall establish a system for limiting participation in the sea urchin  commercial fishery. Any such
+system may include, but is not limited to, provisions on the following matters:
+(a) Establishment of criteria for initial entry into fishery participation and for annual qualifica-
+tion for participation thereafter.
+(b) Establishment of terms and conditions for transferring participation rights.
+(2)(a) The annual fee to participate in the sea urchin fishery is:
+(A) [ $125] $140 for resident applicants.
+(B) [ $175] $196 for nonresident applicants.
+(b) A fee of [ $100] $115 shall be charged for  each transfer of participation rights under this
+section.
+SECTION 40.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.760 by section 39 of this 2025 Act become operative on January 1, 2026.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2026, charge the fees
+provided for in ORS 508.760,  as amended by section 39 of this 2025 Act, for participation
+rights in the sea urchin fishery applied for  before January 1, 2026, for participation occurring
+on or after January 1, 2026.
+SECTION 41.  ORS 508.760, as amended by section 39 of this 2025 Act, is amended to read:
+508.760. (1) Notwithstanding  any other provision of the commercial fishing laws, in order to
+provide a sea urchin (Strongylocentrotus franciscanus, S. purpuratus and S. droebachiensis)  com-
+mercial fishery with optimum profits  to those engaged in the fishery and to prevent a concentration
+of fishing effort that would deplete the resource, the State Fish  and Wildlife Commission, by rule,
+shall establish a system for limiting participation in the sea urchin  commercial fishery. Any such
+system may include, but is not limited to, provisions on the following matters:
+(a) Establishment of criteria for initial entry into fishery participation and for annual qualifica-
+tion for participation thereafter.
+(b) Establishment of terms and conditions for transferring participation rights.
+(2)(a) The annual fee to participate in the sea urchin fishery is:
+(A) [ $140] $146 for resident applicants.
+(B) [ $196] $204 for nonresident applicants.
+(b) A fee of $115 shall be charged for each transfer of participation rights under this section.
+SECTION 42.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.760 by section 41 of this 2025 Act become operative on January 1, 2028.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2028, charge the fees
+provided for in ORS 508.760, as amended by section 41 of this  2025 Act, for participation
+Enrolled House Bill 2342 (HB 2342-B) Page 24
+rights in the sea urchin fishery applied for  before January 1, 2028, for participation occurring
+on or after January 1, 2028.
+SECTION 43.  ORS 508.760,  as amended by sections 39 and 41 of this 2025 Act, is amended to
+read:
+508.760. (1) Notwithstanding any other provision of the commercial fishing laws, in  order to
+provide a sea urchin  (Strongylocentrotus franciscanus, S. purpuratus and S. droebachiensis) com-
+mercial fishery with optimum profits  to those engaged in the fishery and to prevent a concentration
+of fishing effort that would deplete  the resource, the State Fish and Wildlife Commission, by rule,
+shall establish a system for  limiting participation in the sea urchin commercial fishery. Any such
+system may include, but is not limited to, provisions on the following matters:
+(a) Establishment of criteria for initial entry into fishery participation and for annual qualifica-
+tion for participation thereafter.
+(b) Establishment of terms and conditions for transferring participation rights.
+(2)(a) The annual fee to participate in the sea urchin fishery is:
+(A) [ $146] $152 for resident applicants.
+(B) [ $204] $212 for nonresident applicants.
+(b) A fee of $115 shall be charged for each transfer of participation rights under this section.
+SECTION 44.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.760 by section 43 of this 2025 Act become operative on January 1, 2030.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2030, charge the fees
+provided for in ORS 508.760,  as amended by section 43 of this 2025 Act, for participation
+rights in the sea urchin fishery applied for  before January 1, 2030, for participation occurring
+on or after January 1, 2030.
+SECTION 45.  ORS 508.765 is amended to read:
+508.765. (1) Notwithstanding  any other provision of the commercial fishing laws, in order to
+provide a roe-herring commercial fishery with optimum profits to those engaged in the fishery and
+to prevent  a concentration of fishing effort that would deplete the resource, the State Fish and
+Wildlife Commission, by rule, shall establish a system for limiting participation  in the roe-herring
+commercial  fishing.  Any such system may include, but is not limited to, provisions on the following
+matters:
+(a) Establishment of criteria for initial entry into fishery participation and for annual qualifica-
+tion for participation thereafter.
+(b) Establishment of terms and conditions for transferring participation rights.
+(2)(a) The annual fee to participate in the roe-herring fishery is:
+(A) [ $125] $140 for resident applicants.
+(B) [ $175] $196 for nonresident applicants.
+(b) A fee of [ $100] $115 shall be  charged for each transfer of participation rights under this
+section.
+(3)(a) A denial by the commission of an  application for renewal of any permit or transfer of any
+permit established under this section shall be subject to review by the Commercial Fishery  Permit
+Board upon written request of the applicant. The review provided under this subsection  shall be in
+lieu of any such review by the commission or the State Department of Fish and Wildlife.
+(b) Request for  review under this subsection shall be on such forms and contain such informa-
+tion as the  board shall determine. Requests for review shall be accompanied by a $125 fee, which
+fee shall apply toward any applicable permit fees resulting from  an order of the board in favor of
+the requesting applicant.
+(4) Orders issued by the board are not subject to review by  the commission but may be appealed
+as provided in ORS chapter 183.
+(5) According to the provisions of ORS chapter 183, the board  shall adopt such rules as it de-
+termines necessary to carry out its duties, functions and powers.
+SECTION 46.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.765 by section 45 of this 2025 Act become operative on January 1, 2026.
+Enrolled House Bill 2342 (HB 2342-B) Page 25
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2026, charge the fees
+provided for in ORS 508.765, as amended by section 45 of this  2025 Act, for participation
+rights in the roe-herring fishery applied for before January  1, 2026, for participation occur-
+ring on or after January 1, 2026.
+SECTION 47.  ORS 508.765, as amended by section 45 of this 2025 Act, is amended to read:
+508.765. (1) Notwithstanding  any other provision of the commercial fishing laws, in order to
+provide a roe-herring commercial fishery with optimum profits to those engaged in the fishery and
+to prevent  a concentration of fishing effort that would deplete the resource, the State Fish and
+Wildlife Commission, by rule, shall establish a system for limiting participation  in the roe-herring
+commercial  fishing.  Any such system may include, but is not limited to, provisions on the following
+matters:
+(a) Establishment of criteria for initial entry into fishery participation and for annual qualifica-
+tion for participation thereafter.
+(b) Establishment of terms and conditions for transferring participation rights.
+(2)(a) The annual fee to participate in the roe-herring fishery is:
+(A) [ $140] $146 for resident applicants.
+(B) [ $196] $204 for nonresident applicants.
+(b) A fee of $115 shall be charged for each transfer of participation rights under this section.
+(3)(a) A denial by the commission of an  application for renewal of any permit or transfer of any
+permit established  under this section shall be subject to review by the Commercial Fishery Permit
+Board upon written request  of the applicant. The review provided under this subsection shall be in
+lieu of any such review by the commission or the State Department of Fish and Wildlife.
+(b) Request for review under this subsection shall be on such forms and contain  such informa-
+tion as the board shall determine. Requests for review shall be accompanied by a $125  fee, which
+fee shall apply toward any applicable permit fees resulting  from an order of the board in favor of
+the requesting applicant.
+(4) Orders issued by the board are not subject to review by  the commission but may be appealed
+as provided in ORS chapter 183.
+(5) According to the provisions of ORS chapter  183, the board shall adopt such rules as it de-
+termines necessary to carry out its duties, functions and powers.
+SECTION 48.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.765 by section 47 of this 2025 Act become operative on January 1, 2028.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2028, charge the fees
+provided for in ORS 508.765,  as amended by section 47 of this 2025 Act, for participation
+rights in the roe-herring fishery applied  for before January 1, 2028, for participation occur-
+ring on or after January 1, 2028.
+SECTION 49.  ORS 508.765, as amended by sections 45 and 47 of this 2025 Act,  is amended to
+read:
+508.765. (1) Notwithstanding  any other provision of the commercial fishing laws, in order to
+provide a roe-herring commercial fishery with optimum profits to those engaged in the fishery and
+to prevent  a concentration of fishing effort that would deplete the resource, the State Fish and
+Wildlife Commission, by rule, shall establish a system for limiting participation  in the roe-herring
+commercial  fishing.  Any such system may include, but is not limited to, provisions on the following
+matters:
+(a) Establishment of criteria for initial entry into fishery participation and for annual qualifica-
+tion for participation thereafter.
+(b) Establishment of terms and conditions for transferring participation rights.
+(2)(a) The annual fee to participate in the roe-herring fishery is:
+(A) [ $146] $152 for resident applicants.
+(B) [ $204] $212 for nonresident applicants.
+(b) A fee of $115 shall be charged for each transfer of participation rights under this section.
+Enrolled House Bill 2342 (HB 2342-B) Page 26
+(3)(a) A denial by the commission of an  application for renewal of any permit or transfer of any
+permit established  under this section shall be subject to review by the Commercial Fishery Permit
+Board upon written request  of the applicant. The review provided under this subsection shall be in
+lieu of any such review by the commission or the State Department of Fish and Wildlife.
+(b) Request for  review under this subsection shall be on such forms and contain such informa-
+tion as the  board shall determine. Requests for review shall be accompanied by a $125 fee, which
+fee shall apply toward any applicable permit fees resulting from  an order of the board in favor of
+the requesting applicant.
+(4) Orders issued by the board are not subject to review by  the commission but may be appealed
+as provided in ORS chapter 183.
+(5) According to the provisions of ORS chapter 183, the board  shall adopt such rules as it de-
+termines necessary to carry out its duties, functions and powers.
+SECTION 50. (1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.765 by section 49 of this 2025 Act become operative on January 1, 2030.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2030, charge the fees
+provided for in ORS 508.765, as amended by section 49 of this  2025 Act, for participation
+rights in the roe-herring fishery applied for before January  1, 2030, for participation occur-
+ring on or after January 1, 2030.
+SECTION 51.  ORS 508.790 is amended to read:
+508.790. (1) The annual fee for the vessel permit required by ORS 508.775 is:
+(a) [ $51] $140 for resident applicants.
+(b) [ $101] $196 for nonresident applicants.
+(2) Applications shall be in such form and contain such information as the State Department of
+Fish and Wildlife, by rule, may prescribe.
+SECTION 52.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.790 by section 51 of this 2025 Act become operative on January 1, 2026.
+(2) The State Department of Fish and Wildlife  may, prior to January 1, 2026, charge the
+fees provided for in ORS 508.790, as amended by section 51 of this 2025 Act, for permits ap-
+plied for before January 1, 2026, for activities occurring on or after January 1, 2026.
+SECTION 53.  ORS 508.790, as amended by section 51 of this 2025 Act, is amended to read:
+508.790. (1) The annual fee for the vessel permit required by ORS 508.775 is:
+(a) [ $140] $146 for resident applicants.
+(b) [ $196] $204 for nonresident applicants.
+(2) Applications shall be in such form and contain such information as the State Department of
+Fish and Wildlife, by rule, may prescribe.
+SECTION 54.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.790 by section 53 of this 2025 Act become operative on January 1, 2028.
+(2) The State Department of Fish and Wildlife  may, prior to January 1, 2028, charge the
+fees provided for in ORS 508.790, as amended by section 53 of this 2025 Act, for permits ap-
+plied for before January 1, 2028, for activities occurring on or after January 1, 2028.
+SECTION 55.  ORS 508.790,  as amended by sections 51 and 53 of this 2025 Act, is amended to
+read:
+508.790. (1) The annual fee for the vessel permit required by ORS 508.775 is:
+(a) [ $146] $152 for resident applicants.
+(b) [ $204] $212 for nonresident applicants.
+(2) Applications shall be in such form and contain such information as the State Department of
+Fish and Wildlife, by rule, may prescribe.
+SECTION 56.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.790 by section 55 of this 2025 Act become operative on January 1, 2030.
+(2) The State Department of Fish and Wildlife may,  prior to January 1, 2030, charge the
+fees provided for in ORS 508.790, as amended by section 55 of this 2025 Act, for  permits ap-
+plied for before January 1, 2030, for activities occurring on or after January 1, 2030.
+Enrolled House Bill 2342 (HB 2342-B) Page 27
+SECTION 57.  ORS 508.793 is amended to read:
+508.793. (1) The vessel permit required by ORS 508.775 is transferable:
+(a) To a replacement vessel of the permit holder.
+(b) To the purchaser of the vessel when the vessel is sold.
+(2) Notwithstanding subsection  (1) of this section, upon request of a permit holder, the State
+Department of Fish and Wildlife may authorize  transfer of a permit to a replacement vessel owned
+by an individual other than the permit holder. However, any transfer of a permit away from a  vessel
+without the written consent of each person holding a security interest in such vessel is void.
+(3) A fee of [ $100] $115 shall be charged for each transfer of a  vessel permit under this section.
+SECTION 58.
+The amendments to ORS 508.793 by section 57  of this 2025 Act become op-
+erative on January 1, 2026.
+SECTION 59.  ORS 508.816 is amended to read:
+508.816. (1) The annual fee for the vessel permit required by ORS 508.801 is:
+(a) [ $60] $140 for resident applicants.
+(b) [ $110] $196 for nonresident applicants.
+(2) Applications shall be in such form and contain such information as the State Department of
+Fish and Wildlife, by rule, may prescribe.
+SECTION 60.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.816 by section 59 of this 2025 Act become operative on January 1, 2026.
+(2) The State Department of Fish and Wildlife may,  prior to January 1, 2026, charge the
+fees provided for in ORS 508.816, as amended by section 59 of this 2025 Act, for  permits ap-
+plied for before January 1, 2026, for activities occurring on or after January 1, 2026.
+SECTION 61.  ORS 508.816, as amended by section 59 of this 2025 Act, is amended to read:
+508.816. (1) The annual fee for the vessel permit required by ORS 508.801 is:
+(a) [ $140] $146 for resident applicants.
+(b) [ $196] $204 for nonresident applicants.
+(2) Applications shall be in such form and contain such information as the State Department of
+Fish and Wildlife, by rule, may prescribe.
+SECTION 62.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.816 by section 61 of this 2025 Act become operative on January 1, 2028.
+(2) The State Department of Fish and Wildlife may,  prior to January 1, 2028, charge the
+fees provided for in ORS 508.816, as amended by section 61 of this 2025 Act, for  permits ap-
+plied for before January 1, 2028, for activities occurring on or after January 1, 2028.
+SECTION 63.  ORS 508.816, as amended by sections 59 and 61 of this 2025 Act,  is amended to
+read:
+508.816. (1) The annual fee for the vessel permit required by ORS 508.801 is:
+(a) [ $146] $152 for resident applicants.
+(b) [ $204] $212 for nonresident applicants.
+(2) Applications shall be in such form and contain such information as the State Department of
+Fish and Wildlife, by rule, may prescribe.
+SECTION 64.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.816 by section 63 of this 2025 Act become operative on January 1, 2030.
+(2) The State Department of Fish and Wildlife  may, prior to January 1, 2030, charge the
+fees provided for in ORS 508.816, as amended by section 63 of this 2025 Act, for permits ap-
+plied for before January 1, 2030, for activities occurring on or after January 1, 2030.
+SECTION 65.  ORS 508.822 is amended to read:
+508.822. (1) The vessel permit required by ORS 508.801 is transferable:
+(a) To a replacement vessel of the permit holder.
+(b) To the purchaser of the vessel when the vessel is sold.
+(c) Upon request of a permit holder, to a replacement vessel owned by  an individual other than
+the permit holder  if authorized by the State Department of Fish and Wildlife. However, any transfer
+Enrolled House Bill 2342 (HB 2342-B) Page 28
+of a permit away from a vessel without the written consent of each person holding a security in-
+terest in such vessel is void.
+(2) Permits may be transferred between  vessels where both vessels fall within any one of the
+following categories:
+(a) Vessels less than or equal to 30 feet;
+(b) Vessels greater than 30 feet and less than or equal to 42 feet; or
+(c) Vessels greater than 42 feet.
+(3) A permit  may be transferred from a vessel that is in one of the categories defined in sub-
+section (2) of this section to a vessel that is in a different  category provided that no vessel permit
+may be transferred to a vessel more than five feet longer  than the vessel from which the permit is
+being transferred.
+(4) A vessel  permit may not be transferred more than once in any 12-month period. However,
+the Commercial Fishery Permit Board may waive the waiting period for additional  transfer if the
+board finds that strict adherence to  the waiting period would create undue hardship for the indi-
+vidual seeking transfer of the permit.
+(5) Persons requesting the transfer of  a permit pursuant to subsection (1)(c) of this section shall
+provide to the department copies of documents or state registration  for each vessel as proof of the
+length and ownership.
+(6) A fee of [ $100] $115 shall be charged for each transfer of a  vessel permit under this section.
+SECTION 66.
+The amendments to ORS 508.822 by section 65  of this 2025 Act become op-
+erative on January 1, 2026.
+SECTION 67.  ORS 508.858 is amended to read:
+508.858. The annual fee for the vessel permit required by ORS 508.840 is:
+(1) [$125] $140 for resident applicants.
+(2) [$175] $196 for nonresident applicants.
+SECTION 68.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.858 by section 67 of this 2025 Act become operative on January 1, 2026.
+(2) The State Department of Fish and Wildlife may,  prior to January 1, 2026, charge the
+fees provided for in ORS 508.858, as amended by section 67 of this 2025 Act, for  permits ap-
+plied for before January 1, 2026, for activities occurring on or after January 1, 2026.
+SECTION 69.  ORS 508.858, as amended by section 67 of this 2025 Act, is amended to read:
+508.858. The annual fee for the vessel permit required by ORS 508.840 is:
+(1) [$140] $146 for resident applicants.
+(2) [$196] $204 for nonresident applicants.
+SECTION 70.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.858 by section 69 of this 2025 Act become operative on January 1, 2028.
+(2) The State Department of Fish and Wildlife may,  prior to January 1, 2028, charge the
+fees provided for in ORS 508.858, as amended by section 69 of this 2025 Act, for  permits ap-
+plied for before January 1, 2028, for activities occurring on or after January 1, 2028.
+SECTION 71.  ORS 508.858, as amended by sections 67 and 69 of this 2025 Act,  is amended to
+read:
+508.858. The annual fee for the vessel permit required by ORS 508.840 is:
+(1) [$146] $152 for resident applicants.
+(2) [$204] $212 for nonresident applicants.
+SECTION 72.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.858 by section 71 of this 2025 Act become operative on January 1, 2030.
+(2) The State Department of Fish and Wildlife  may, prior to January 1, 2030, charge the
+fees provided for in ORS 508.858, as amended by section 71 of this 2025 Act, for permits ap-
+plied for before January 1, 2030, for activities occurring on or after January 1, 2030.
+SECTION 73.  ORS 508.864 is amended to read:
+508.864. (1) Notwithstanding any other provision of law, an ocean  scallop vessel permit issued
+pursuant to ORS 508.840 to 508.867 may not be transferred to another vessel:
+Enrolled House Bill 2342 (HB 2342-B) Page 29
+(a) Until the vessel for which the permit was issued has been used in the  ocean scallop fishery
+for three or more calendar years to land at least 5,000 pounds of food fish annually.
+(b) More than once  in any 12-month period. However, the Commercial Fishery Permit Board may
+waive the waiting period if the  board finds that strict adherence to the waiting period would create
+undue hardship for the individual seeking transfer of the permit.
+(c) That is more than five feet longer than the vessel from which the permit is transferred.
+(2) A fee of [ $100] $115 shall be charged for each transfer of a  vessel permit under this section.
+SECTION 74.
+The amendments to ORS 508.864 by section 73  of this 2025 Act become op-
+erative on January 1, 2026.
+SECTION 75.  ORS 508.901 is amended to read:
+508.901. (1) The annual fee for the vessel permit required by ORS 508.880 is:
+(a) [ $200] $224 for resident applicants.
+(b) [ $250] $280 for nonresident applicants.
+(2) Applications shall be in such form and contain such information as the State Department of
+Fish and Wildlife, by rule, may prescribe.
+SECTION 76.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.901 by section 75 of this 2025 Act become operative on January 1, 2026.
+(2) The State Department of Fish and Wildlife may,  prior to January 1, 2026, charge the
+fees provided for in ORS 508.901, as amended by section 75 of this 2025 Act, for  permits ap-
+plied for before January 1, 2026, for activities occurring on or after January 1, 2026.
+SECTION 77.  ORS 508.901, as amended by section 75 of this 2025 Act, is amended to read:
+508.901. (1) The annual fee for the vessel permit required by ORS 508.880 is:
+(a) [ $224] $233 for resident applicants.
+(b) [ $280] $291 for nonresident applicants.
+(2) Applications shall be in such form and contain such information as the State Department of
+Fish and Wildlife, by rule, may prescribe.
+SECTION 78.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.901 by section 77 of this 2025 Act become operative on January 1, 2028.
+(2) The State Department of Fish and Wildlife may,  prior to January 1, 2028, charge the
+fees provided for in ORS 508.901, as amended by section 77 of this 2025 Act, for  permits ap-
+plied for before January 1, 2028, for activities occurring on or after January 1, 2028.
+SECTION 79.  ORS 508.901, as amended by sections 75 and 77 of this 2025 Act,  is amended to
+read:
+508.901. (1) The annual fee for the vessel permit required by ORS 508.880 is:
+(a) [ $233] $242 for resident applicants.
+(b) [ $291] $303 for nonresident applicants.
+(2) Applications shall be in such form and contain such information as the State Department of
+Fish and Wildlife, by rule, may prescribe.
+SECTION 80.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.901 by section 79 of this 2025 Act become operative on January 1, 2030.
+(2) The State Department of Fish and Wildlife  may, prior to January 1, 2030, charge the
+fees provided for in ORS 508.901, as amended by section 79 of this 2025 Act, for permits ap-
+plied for before January 1, 2030, for activities occurring on or after January 1, 2030.
+SECTION 81.  ORS 508.907 is amended to read:
+508.907. (1) The vessel permit required by ORS 508.880 is transferable:
+(a) To a replacement vessel of the permit holder. A replacement  is any vessel that is purchased
+for any reason to replace a vessel previously owned by and licensed to the permit holder;
+(b) To the purchaser of the vessel when the vessel is sold; or
+(c) To a replacement vessel owned by an individual  other than the permit holder. However, any
+transfer of a permit away from a vessel without the written consent of each person holding a secu-
+rity interest in such vessel is void.
+Enrolled House Bill 2342 (HB 2342-B) Page 30
+(2) A permit may be transferred to a vessel of greater length only  if that vessel is within 5 feet
+in overall length of  the vessel from which the permit is being transferred. This provision does not
+apply if the permit is being transferred from one vessel owned by an individual to another vessel
+not exceeding 80 feet in length that is owned by the same individual.
+(3) A permit  may not be transferred to another vessel more than once in a 12-month period.
+However, the Commercial  Fishery Permit Board may waive the waiting period if the board finds that
+strict adherence to the waiting period would create undue hardship for  the individual seeking
+transfer of the permit.
+(4) A fee of [ $100] $115 shall be charged for each transfer of a  vessel permit under this section.
+SECTION 82.
+The amendments to ORS 508.907 by section 81  of this 2025 Act become op-
+erative on January 1, 2026.
+SECTION 83.  ORS 508.936 is amended to read:
+508.936. (1)  The system established under ORS 508.921 shall include provisions to make the
+vessel ocean Dungeness crab permit required by ORS 508.926 transferable:
+(a) To another vessel; or
+(b) To the purchaser of the vessel when the vessel is sold.
+(2) Except as provided in subsection (3) of this section, the vessel to which a permit  is trans-
+ferred may not be:
+(a) More than 10 feet longer than the vessel from which the permit is transferred; or
+(b) More than 99 feet in length.
+(3) A permit that is transferred to a vessel that  is more than 10 feet shorter than the vessel for
+which the permit  was held on January 1, 2013, may subsequently be transferred to a vessel of a
+length equal to or less than the length of  the vessel for which the permit was held on January 1,
+2013.
+(4) Notwithstanding subsections (2) and (3) of this section, a permit issued to a vessel:
+(a) Under ORS 508.931  (1)(e) shall be transferred only to a vessel that is 26 feet or less in length.
+(b) May not be transferred to a vessel that is more than  10 feet longer than the vessel for which
+the permit was held  on January 1, 2006. However, the Commercial Fishery Permit Board may waive
+the length restriction in  this paragraph if the board finds that strict adherence to the length re-
+striction would create undue hardship, as that term is defined by rule by the  State Fish and Wildlife
+Commission, for the individual seeking transfer of the permit.
+(5) Transfer of a permit under this section is subject to  the approval of the State Department
+of Fish and Wildlife according to such  rules as the State Fish and Wildlife Commission may adopt.
+Any transfer of a permit from  a vessel without the written consent of each person holding a security
+interest in the vessel is void.
+(6) For purposes of this section, the length of a  vessel shall be determined by the manufacturer’s
+specification of overall length, United States Coast  Guard documentation stating overall length or
+a survey of overall length by a certified marine surveyor, as the State Fish  and Wildlife Commission
+by rule shall establish.
+(7) A fee of [ $100] $115 shall be charged for each transfer of a  vessel permit under this section.
+SECTION 84.
+The amendments to ORS 508.936  by section 83 of this 2025 Act become op-
+erative on January 1, 2026.
+SECTION 85.  ORS 508.941 is amended to read:
+508.941. (1) The system established under ORS  508.921 shall include any other provisions for
+participation that the State Fish and Wildlife Commission considers appropriate.
+(2) Any determination by the commission  regarding the eligibility of a vessel to participate in
+the ocean Dungeness crab commercial fishery or to transfer participation rights is  subject to review
+by the Commercial Fishery Permit Board, in  accordance with ORS chapter 183. The board may
+waive the eligibility requirements contained in ORS 508.931  if the board finds that the individual
+fails to meet the requirements as the result of illness,  fire, sinking, accident or other circumstances
+beyond the individual’s control.  In making a determination of eligibility under this section, the board
+shall consider the applicant’s history of participation in the Oregon ocean Dungeness  crab fishery.
+Enrolled House Bill 2342 (HB 2342-B) Page 31
+If a vessel for which application is  made is owned by a person who has served in the Armed Forces
+of the United States and the  person establishes that a service-related disability prevented the person
+from lawfully landing crab in two seasons during the prescribed  time period, there is a rebuttable
+presumption in favor of issuing an illness waiver for one of the two seasons of lawfully landing  crab
+in Oregon required under  ORS 508.931 so as to require the landing of crab in only one season during
+the prescribed time period. The  rebuttable presumption created by this subsection may be overcome
+only by clear and convincing evidence that the service-related disability of the person did  not pre-
+vent the person from lawfully landing crab in two seasons during the prescribed time  period. Orders
+issued by the board are not subject to review by  the commission, but may be appealed as provided
+in ORS 183.480 to 183.540.
+(3) A commercial fishing vessel that holds a valid Washington or California permit to  fish for
+ocean Dungeness crab shall be eligible to participate in the Oregon ocean  Dungeness crab fishery
+provided there is reciprocal statutory authority in Washington or  California that provides for equal
+access for vessels holding Oregon  ocean Dungeness crab permits to Washington or California
+coastal waters and Washington waters  of the Columbia River. If such reciprocal statutory authority
+exists, a vessel licensed by Washington or California is eligible to participate  in accordance with
+rules that establish reciprocal border agreements that recognize traditional fishing patterns.
+(4) The annual fee to participate in the ocean Dungeness crab fishery is:
+(a) [ $200] $224 for resident applicants.
+(b) [ $250] $280 for nonresident applicants.
+SECTION 86.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.941 by section 85 of this 2025 Act become operative on January 1, 2026.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2026, charge the fees
+provided for in ORS 508.941, as amended by section 85 of this  2025 Act, for participation
+rights in the ocean  Dungeness crab fishery applied for before January 1, 2026, for partic-
+ipation occurring on or after January 1, 2026.
+SECTION 87.  ORS 508.941, as amended by section 85 of this 2025 Act, is amended to read:
+508.941. (1) The system established under ORS  508.921 shall include any other provisions for
+participation that the State Fish and Wildlife Commission considers appropriate.
+(2) Any determination by the commission  regarding the eligibility of a vessel to participate in
+the ocean Dungeness crab commercial fishery or to transfer participation rights is  subject to review
+by the Commercial Fishery Permit Board, in  accordance with ORS chapter 183. The board may
+waive the eligibility requirements contained in ORS 508.931  if the board finds that the individual
+fails to meet the requirements as the result of illness,  fire, sinking, accident or other circumstances
+beyond the individual’s control.  In making a determination of eligibility under this section, the board
+shall consider the applicant’s history of participation in the Oregon ocean Dungeness  crab fishery.
+If a vessel for which application is  made is owned by a person who has served in the Armed Forces
+of the United States and the  person establishes that a service-related disability prevented the person
+from lawfully landing crab in two seasons during the prescribed  time period, there is a rebuttable
+presumption in favor of issuing an illness waiver for one of the two seasons of lawfully landing  crab
+in Oregon required under  ORS 508.931 so as to require the landing of crab in only one season during
+the prescribed time period. The  rebuttable presumption created by this subsection may be overcome
+only by clear and convincing evidence that the service-related disability of the person did  not pre-
+vent the person from lawfully landing crab in two seasons during the prescribed time  period. Orders
+issued by the board are not subject to review by  the commission, but may be appealed as provided
+in ORS 183.480 to 183.540.
+(3) A commercial fishing vessel that holds a valid Washington or California permit to  fish for
+ocean Dungeness crab shall be eligible to participate in the Oregon ocean  Dungeness crab fishery
+provided there is reciprocal statutory authority in Washington or  California that provides for equal
+access for vessels holding Oregon  ocean Dungeness crab permits to Washington or California
+coastal waters and Washington waters  of the Columbia River. If such reciprocal statutory authority
+Enrolled House Bill 2342 (HB 2342-B) Page 32
+exists, a vessel licensed by Washington or California is eligible to participate  in accordance with
+rules that establish reciprocal border agreements that recognize traditional fishing patterns.
+(4) The annual fee to participate in the ocean Dungeness crab fishery is:
+(a) [ $224] $233 for resident applicants.
+(b) [ $280] $291 for nonresident applicants.
+SECTION 88.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.941 by section 87 of this 2025 Act become operative on January 1, 2028.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2028, charge the fees
+provided for in ORS 508.941, as amended by section 87 of this  2025 Act, for participation
+rights in the ocean  Dungeness crab fishery applied for before January 1, 2028, for partic-
+ipation occurring on or after January 1, 2028.
+SECTION 89.  ORS 508.941,  as amended by sections 85 and 87 of this 2025 Act, is amended to
+read:
+508.941. (1) The system established under ORS 508.921  shall include any other provisions for
+participation that the State Fish and Wildlife Commission considers appropriate.
+(2) Any determination by the commission regarding the eligibility of  a vessel to participate in
+the ocean Dungeness crab commercial fishery or to transfer participation rights is  subject to review
+by the Commercial Fishery Permit Board, in accordance with  ORS chapter 183. The board may
+waive the eligibility requirements contained in ORS 508.931  if the board finds that the individual
+fails to meet the requirements as the result of illness,  fire, sinking, accident or other circumstances
+beyond the individual’s control.  In making a determination of eligibility under this section, the board
+shall consider the  applicant’s history of participation in the Oregon ocean Dungeness crab fishery.
+If a vessel for which application is  made is owned by a person who has served in the Armed Forces
+of the United States and the  person establishes that a service-related disability prevented the person
+from lawfully landing crab in two seasons  during the prescribed time period, there is a rebuttable
+presumption in favor of issuing an illness waiver for one of the two seasons of lawfully landing  crab
+in Oregon required under  ORS 508.931 so as to require the landing of crab in only one season during
+the prescribed time period. The  rebuttable presumption created by this subsection may be overcome
+only by clear  and convincing evidence that the service-related disability of the person did not pre-
+vent the person from lawfully landing crab in two seasons during the prescribed time  period. Orders
+issued by the board are not subject to review  by the commission, but may be appealed as provided
+in ORS 183.480 to 183.540.
+(3) A commercial  fishing vessel that holds a valid Washington or California permit to fish for
+ocean Dungeness crab shall  be eligible to participate in the Oregon ocean Dungeness crab fishery
+provided there is reciprocal statutory authority in Washington or  California that provides for equal
+access for vessels holding Oregon ocean Dungeness crab permits  to Washington or California
+coastal waters and Washington waters  of the Columbia River. If such reciprocal statutory authority
+exists, a vessel licensed  by Washington or California is eligible to participate in accordance with
+rules that establish reciprocal border agreements that recognize traditional fishing patterns.
+(4) The annual fee to participate in the ocean Dungeness crab fishery is:
+(a) [ $233] $242 for resident applicants.
+(b) [ $291] $303 for nonresident applicants.
+SECTION 90.
+(1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.941 by section 89 of this 2025 Act become operative on January 1, 2030.
+(2) The State Fish and  Wildlife Commission may, prior to January 1, 2030, charge the fees
+provided for in ORS 508.941,  as amended by section 89 of this 2025 Act, for participation
+rights in the ocean Dungeness crab fishery applied for before January 1,  2030, for partic-
+ipation occurring on or after January 1, 2030.
+SECTION 91.  ORS 508.949 is amended to read:
+508.949. (1) The  annual fee for a black rockfish and blue rockfish vessel permit or a black
+rockfish and blue rockfish vessel permit with a nearshore  fish endorsement issued under ORS
+508.947 is:
+Enrolled House Bill 2342 (HB 2342-B) Page 33
+(a) [ $125] $140 for resident applicants.
+(b) [ $175] $196 for nonresident applicants.
+(2) Applications  for a permit shall be in such form and contain such information as the State
+Department of Fish and Wildlife, by rule, may prescribe.
+(3) All fees collected under this section and ORS 508.505 (1)(b) and 508.947  shall be placed into
+the Black Rockfish, Blue Rockfish and  Nearshore Species Research Account established in ORS
+508.951.
+SECTION 92. (1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.949 by section 91 of this 2025 Act become operative on January 1, 2026.
+(2) The State Department of Fish and Wildlife may,  prior to January 1, 2026, charge the
+fees provided for in ORS 508.949, as amended by section 91 of this 2025 Act, for  permits ap-
+plied for before January 1, 2026, for activities occurring on or after January 1, 2026.
+SECTION 93.  ORS 508.949, as amended by section 91 of this 2025 Act, is amended to read:
+508.949. (1) The  annual fee for a black rockfish and blue rockfish vessel permit or a black
+rockfish and blue rockfish vessel permit with a nearshore  fish endorsement issued under ORS
+508.947 is:
+(a) [ $140] $146 for resident applicants.
+(b) [ $196] $204 for nonresident applicants.
+(2) Applications for a permit shall be in such form and contain such information as the  State
+Department of Fish and Wildlife, by rule, may prescribe.
+(3) All fees collected under  this section and ORS 508.505 (1)(b) and 508.947 shall be placed into
+the Black Rockfish, Blue Rockfish and Nearshore Species  Research Account established in ORS
+508.951.
+SECTION 94. (1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.949 by section 93 of this 2025 Act become operative on January 1, 2028.
+(2) The State Department of Fish and Wildlife  may, prior to January 1, 2028, charge the
+fees provided for in ORS 508.949, as amended by section 93 of this 2025 Act, for permits ap-
+plied for before January 1, 2028, for activities occurring on or after January 1, 2028.
+SECTION 95.  ORS 508.949,  as amended by sections 91 and 93 of this 2025 Act, is amended to
+read:
+508.949. (1) The  annual fee for a black rockfish and blue rockfish vessel permit or a black
+rockfish and blue rockfish vessel permit with a nearshore  fish endorsement issued under ORS
+508.947 is:
+(a) [ $146] $152 for resident applicants.
+(b) [ $204] $212 for nonresident applicants.
+(2) Applications for a permit shall be in such form and contain such information as the  State
+Department of Fish and Wildlife, by rule, may prescribe.
+(3) All fees collected under  this section and ORS 508.505 (1)(b) and 508.947 shall be placed into
+the Black Rockfish, Blue Rockfish and Nearshore Species  Research Account established in ORS
+508.951.
+SECTION 96. (1) Except as provided in subsection (2) of this section,  the amendments to
+ORS 508.949 by section 95 of this 2025 Act become operative on January 1, 2030.
+(2) The State Department of Fish and Wildlife  may, prior to January 1, 2030, charge the
+fees provided for in ORS 508.949, as amended by section 95 of this 2025 Act, for permits ap-
+plied for before January 1, 2030, for activities occurring on or after January 1, 2030.
+SECTION 97.  ORS 508.957 is amended to read:
+508.957. (1) A black rockfish and blue rockfish vessel permit with a nearshore fish  endorsement
+issued under ORS 508.947 may be transferred to another vessel if:
+(a) The permit has been renewed a minimum of five times; and
+(b) The vessel operating under the permit has made, in the  previous calendar year, a minimum
+of five landings that contained at least 15 pounds of black rockfish, blue  rockfish or nearshore fish.
+Enrolled House Bill 2342 (HB 2342-B) Page 34
+(2) Notwithstanding  subsection (1) of this section, a black rockfish and blue rockfish vessel
+permit with a nearshore fish endorsement:
+(a) May be transferred one  time per calendar year to a replacement vessel that is owned by the
+same person that owns the vessel to which the permit was originally issued.
+(b) That is issued to a vessel owned by a  sole proprietor may be transferred upon the death of
+the sole proprietor.
+(3) A black rockfish and blue rockfish vessel  permit with a nearshore fish endorsement may not
+be transferred to a vessel that is more than five feet longer than the vessel to  which the permit was
+originally issued.
+(4) A black rockfish and blue rockfish vessel permit issued under ORS 508.947:
+(a) May be transferred to another vessel except as provided in paragraph  (b) of this subsection.
+(b) May not  be transferred to a vessel that is more than five feet longer than the vessel to which
+the permit was originally issued.
+(5) A fee of [ $100] $115 shall be charged for each transfer of a  vessel permit under this section.
+SECTION 98.
+The amendments to ORS 508.957  by section 97 of this 2025 Act become op-
+erative on January 1, 2026.
+SECTION 99. The unit captions used in this 2025 Act are provided  only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2025 Act.
+SECTION 100. This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+Passed by House June 12, 2025
+Repassed by House June 27, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate June 23, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 2342 (HB 2342-B) Page 35
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 183.480, ORS 183.745, ORS 315.138, ORS 496.012, ORS 496.146, ORS 496.242, ORS 496.300, ORS 496.303, ORS 497.022, ORS 497.061, ORS 497.102, ORS 497.112, ORS 497.116, ORS 497.121, ORS 497.124, ORS 497.132, ORS 498.306, ORS 508.035, ORS 508.116, ORS 508.285, ORS 508.505, ORS 508.510, ORS 508.550, ORS 508.760, ORS 508.765, ORS 508.775, ORS 508.790, ORS 508.793, ORS 508.801, ORS 508.816, ORS 508.822, ORS 508.840, ORS 508.858, ORS 508.864, ORS 508.880, ORS 508.901, ORS 508.907, ORS 508.921, ORS 508.926, ORS 508.931, ORS 508.936, ORS 508.941, ORS 508.947, ORS 508.949, ORS 508.951, ORS 508.957, ORS 509.620, ORS 536.900
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `453a39a50f21b5907290c31fc3cb09640bb271aacdc42d2761d1af146a2838ea` (snapshot `_meta/snapshots/measure-2025r1-hb2342-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2342/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `97b3aebe75ef8003369f53dfa093129b46be436e7c86ac58e4b1feb3dc3b4803` (snapshot `_meta/snapshots/measure-2025r1-hb2342-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2342/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2342` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

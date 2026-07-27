@@ -1,0 +1,119 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3546
+Sponsored by Representatives MARSH, OWENS, Senator SOLLMAN; Representative CHOTZEN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells the PUC to provide for a class of service for  facilities that use large amounts of
+energy. (Flesch Readability Score: 66.3).
+Directs the Public Utility Commission to provide for a classification of service for  large energy
+use facilities. Directs the commission to require an electric company  to assign the costs of serving
+large energy use facilities to the facilities and mitigate the risks  to other classes of retail electricity
+consumers. Defines “large energy use facility.”
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to large energy use facilities; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS chapter 757.
+SECTION 2. (1) As used in this section:
+(a) “Electric company” and “retail  electricity consumer” have the meanings given those
+terms in ORS 757.600.
+(b) “Facility” means all buildings, equipment, structures and other  stationary items that
+are located on a  single site or on contiguous or adjacent sites and that are owned or operated
+by the same person or by any person who controls, is controlled by or is  under common
+control with such person.
+(c) “Large  energy use facility” means a facility that uses 20 megawatts or more and is
+primarily engaged  in providing a service described under code 518210 of the 2022 North
+American Industry Classification System.
+(2) The Public Utility Commission shall provide for a classification  of service under ORS
+757.230 for retail electricity consumers that  are large energy use facilities. The classification
+of service must be separate and distinct from classifications of service for  other industrial
+retail electricity consumers. The commission shall require an electric company to:
+(a) Enter  into a contract with a retail electricity consumer that is a large energy use
+facility for the provision  of electricity, including transmission, distribution, energy, capacity
+and ancillary services. The term of the contract must be for 10  years or more. The contract
+must obligate the retail electricity consumer  to pay a minimum amount or percentage, as
+determined by the  commission, based on the retail electricity consumer’s projected electric-
+ity usage for the term of the contract. The contract may include a charge for excess demand.
+(b) Assign the costs of serving a class of retail electricity consumers that are large  en-
+ergy use facilities  to the class and in a manner that is proportional to the costs incurred to
+serve the class. The assigned costs of  service must include the costs for transmission, dis-
+tribution, energy and capacity, and any related costs of serving the class.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1547
+HB 3546
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+(c) Mitigate the risks to other classes of retail  electricity consumers of paying for the
+costs of the electric company to meet load requirements resulting from the provision of
+electricity to a retail electric consumer that is a large energy use facility.
+(3) The commission may approve a  form contract that an electric company may use un-
+der subsection (2) of this section. In approving  a form contract under this subsection, the
+commission shall consider whether the form contract:
+(a) Results in increased costs or risk to other retail electricity consumers;
+(b) Provides for equitable contributions to  grid efficiency, reliability and resiliency bene-
+fits;
+(c) Impedes the electric company’s ability to meet the clean energy targets set  forth in
+ORS 469A.410 or reduce the emissions of greenhouse gases consistent with state law; and
+(d) Meets any other conditions the commission may require in the public interest.
+(4) The commission shall ensure that the terms of  a contract entered into under this
+section do not result in increased costs or risks  to other retail electricity consumers of the
+electric company.
+SECTION 3.
+Section 2 (2)(a) of this 2025 Act applies to large energy use facilities that
+submit an application for service on or after the effective date of this 2025 Act.
+SECTION 4. This 2025 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+on its passage.
+[2]

@@ -1,0 +1,422 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2691
+title: 'HB 2691 (2025R1): Provides that a manufactured-protein food product that bears a label suggesting
+  that the food product is made from meat is misbranded unless the food product contains text disclosing
+  that the food product is not made from meat.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2691
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2691/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 9fed51856baf6e0b7d9736feea0c1ae626c7fdee0fadc32cf24142ae852c0227
+snapshot_id: measure-2025r1-hb2691-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 341.005
+  - ORS 352.002
+  - ORS 411.806
+  - ORS 616.205
+  - ORS 616.230
+  - ORS 616.250
+  - ORS 616.325
+  - ORS 619.010
+  - ORS 632.705
+  - ORS 634.006
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2691
+prefix_meaning: House Bill
+catch_line: Provides that a manufactured-protein food product that bears a label suggesting that the food
+  product is made from meat is misbranded unless the food product contains text disclosing that the food
+  product is not made from meat.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act says that plant-based foods are misbranded if their labels imply that\
+  \ they are made of meat or eggs. The Act tells an agency to try to exclude certain plant-based foods\
+  \ from federal nutrition programs. The Act tells agencies not to purchase certain plant-based foods.\
+  \ (Flesch Readability Score: 69.8). \n\tProvides that a manufactured-protein food product that bears\
+  \ a label suggesting that the food product is made from meat is misbranded unless the food product contains\
+  \ text disclosing that the food product is not made from meat. \n\tProvides that a fabricated-egg food\
+  \ product that bears a label suggesting that the food product is made from eggs is misbranded unless\
+  \ the food product contains text disclosing that the food product is not made from eggs. \n\tInstructs\
+  \ the Department of Human Services to request a waiver that excludes manufactured-protein food products\
+  \ and fabricated-egg food products from eligibility under federal nutrition programs. \n\tInstructs\
+  \ the State Board of Education and the Higher Education Coordinating Commission to separately adopt\
+  \ rules to prohibit the purchasing of manufactured-protein food products and fabricated-egg food products."
+relating_to: Relating to plant-based foods.
+relating_to_full: Relating to plant-based foods; creating new provisions; and amending ORS 616.205 and
+  616.250.
+at_the_request_of: null
+lc_number: 2251
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-04-02T11:27:41'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 21436
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 341.005
+  - ORS 352.002
+  - ORS 411.806
+  - ORS 616.205
+  - ORS 616.230
+  - ORS 616.250
+  - ORS 616.325
+  - ORS 619.010
+  - ORS 632.705
+  - ORS 634.006
+  from_relating_to_full:
+  - ORS 616.205
+  - ORS 616.250
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2691`.
+
+# HB 2691 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2691, 2025 Regular Session (2025R1)
+- **LC number:** 2251
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-04-02T11:27:41
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 21436 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2691/Introduced>.
+
+## Summary
+
+**Catchline:** Provides that a manufactured-protein food product that bears a label suggesting that the food product is made from meat is misbranded unless the food product contains text disclosing that the food product is not made from meat.
+
+**Relating to:** Relating to plant-based foods.
+
+Digest: The Act says that plant-based foods are misbranded if their labels imply that they are made of meat or eggs. The Act tells an agency to try to exclude certain plant-based foods from federal nutrition programs. The Act tells agencies not to purchase certain plant-based foods. (Flesch Readability Score: 69.8). 
+ Provides that a manufactured-protein food product that bears a label suggesting that the food product is made from meat is misbranded unless the food product contains text disclosing that the food product is not made from meat. 
+ Provides that a fabricated-egg food product that bears a label suggesting that the food product is made from eggs is misbranded unless the food product contains text disclosing that the food product is not made from eggs. 
+ Instructs the Department of Human Services to request a waiver that excludes manufactured-protein food products and fabricated-egg food products from eligibility under federal nutrition programs. 
+ Instructs the State Board of Education and the Higher Education Coordinating Commission to separately adopt rules to prohibit the purchasing of manufactured-protein food products and fabricated-egg food products.
+
+**RelatingToFull (verbatim upstream field):** Relating to plant-based foods; creating new provisions; and amending ORS 616.205 and 616.250.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2691
+Sponsored by Representative SCHARF; Representative BREESE-IVERSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that plant-based foods  are misbranded if their labels imply that they are
+made of meat or eggs. The Act tells an agency to  try to exclude certain plant-based foods from
+federal nutrition programs. The Act tells agencies not to purchase certain plant-based foods. (Flesch
+Readability Score: 69.8).
+Provides  that  a manufactured-protein food product that bears a label suggesting that the food
+product is made from meat is misbranded unless the food product contains text disclosing that the
+food product is not made from meat.
+Provides that a fabricated-egg food product that bears  a label suggesting that the food product
+is made from eggs is misbranded unless the food product contains text  disclosing that the food
+product is not made from eggs.
+Instructs the Department of Human Services to request a waiver that  excludes manufactured-
+protein food products and fabricated-egg food products from  eligibility under federal nutrition pro-
+grams.
+Instructs the State Board of Education and the  Higher Education Coordinating Commission to
+separately  adopt  rules to prohibit the purchasing of manufactured-protein food products and
+fabricated-egg food products.
+A BILL FOR AN ACT
+Relating to plant-based foods; creating new provisions; and amending ORS 616.205 and 616.250.
+Be It Enacted by the People of the State of Oregon:
+MISBRANDING
+SECTION 1.
+ ORS 616.205 is amended to read:
+616.205. As used in ORS 616.205 to 616.385, unless the context clearly indicates  a different
+meaning:
+(1) “Advertisement” includes all  representations disseminated in any manner or by any means,
+other than by labeling, for the purpose of inducing, or which are likely to induce, directly or  indi-
+rectly, the purchase of the food.
+(2) “Color” includes black, white and intermediate grays.
+(3)(a) “Color additive” means a material that:
+(A) Is a dye, pigment, or other substance made by a process of  synthesis or similar artifice, or
+extracted, isolated, or  otherwise derived, with or without intermediate or final change of identity,
+from a vegetable, animal, mineral, or other source; or
+(B) When added or applied to a food or to the human body or any part thereof, is  capable, alone
+or through reaction with other substance, of imparting color thereto.
+(b) “Color additive”  does not include any material that has been exempted under the federal
+Act.
+(c) Notwithstanding paragraph (a) of this subsection, “color additive” does not  include any pes-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2251
+ticide chemical, soil or plant nutrient, or other agricultural  chemical solely because of its effect in
+aiding, retarding or otherwise affecting, directly or indirectly,  the growth or other natural physio-
+logical process of produce  of the soil and thereby affecting its color, whether before or after harvest.
+(4) “Consumer commodity” means any food as defined by ORS 616.205 to 616.215, 616.225 to
+616.256, 616.286, 616.295, 616.310, 616.315, 616.325, 616.330, 616.341, 616.350 to  616.366, 616.790 and
+616.992 or by the federal Act.
+(5) “Contaminated with filth” means the condition of any  food not securely protected from dust,
+dirt and, as far as may be necessary by all reasonable means,  from all foreign or injurious sub-
+stances.
+(6) “Cultivated-protein food product” means a food product that has one or more sensory
+attributes that resemble a type of tissue originating from a meat animal but  that, in lieu of
+being derived from processing meat, is derived from a process for manufacturing  cells
+through which one or more stem cells are initially  isolated from livestock, are grown in vitro
+and may be manipulated as part of a manufacturing operation.
+[(6)] (7) “Dietary ingredient” means one or more of the following or  a concentrate, constituent,
+extract or metabolite of one or more of the following:
+(a) An amino acid;
+(b) An herb or other botanical;
+(c) A mineral;
+(d) A dietary substance intended to supplement the human diet by increasing total dietary in-
+take; or
+(e) A vitamin.
+[(7)] (8) “Dietary supplement” means an article, not including any tobacco product, that:
+(a) Is subject to dietary supplement labeling requirements under 21 C.F.R. 101.36;
+(b) Is intended to supplement conventional food  in the diet of humans and contains a dietary
+ingredient; and
+(c)(A) Is intended for ingestion in tablet, capsule, powder, softgel, gelcap or liquid form; or
+(B) Is not represented to be a conventional food or to be for use as  the sole item of a meal or
+diet.
+[(8)] (9) “Director” means the Director of Agriculture.
+[(9)] (10) “Federal Act” means the Federal Food, Drug and Cosmetic Act, 21  U.S.C. 301 et seq.,
+52 Stat. 1040 et seq.
+(11) “Egg product” has the meaning given that term in ORS 632.705.
+(12) “Eggs” has the meaning given that term in ORS 632.705.
+(13) “Fabricated-egg food product” means a food product that has one or  more sensory
+attributes that resemble an egg product but  that, in lieu of being derived from eggs, is de-
+rived from manufactured plant or other organic material.
+[(10)] (14) “Food” means:
+(a) Articles used for food or drink, including  ice, for human consumption or food for dogs and
+cats;
+(b) Chewing gum;
+(c) Dietary supplements; and
+(d) Articles used for components of any such article.
+[(11)] (15) “Food additive” means any substance the intended use of  which results or may rea-
+sonably be expected to result, directly or indirectly, in  its becoming a component or otherwise af-
+fecting the characteristics of any food, including any substance intended for  use in producing,
+manufacturing, packing, processing, preparing, treating, packaging,  transporting, or holding food,
+and including any source of radiation intended for any such  use, if such substance is not generally
+recognized, among experts qualified by scientific training and  experience to evaluate its safety, as
+having been adequately shown through scientific procedures or experience based on  common use in
+food to be safe under the conditions of its intended use. “Food additive” does not include:
+(a) A pesticide chemical in or on a raw agricultural commodity;
+(b) A pesticide chemical to the extent that it is intended for use, or is used in the  production,
+storage or transportation of any raw agricultural commodity; or
+(c) A color additive.
+[(12)] (16) “Food establishment” means:
+(a) Any room, building, structure  or place, used or intended for use, or operated for storing,
+preparing, compounding, manufacturing, processing, freezing, packaging, distributing, handling or
+displaying food.
+(b) The ground upon which such place or  business is operated or used and so much ground ad-
+jacent thereto as is  also used in carrying on the business of the establishment. The State Depart-
+ment of Agriculture may prescribe such additional  area or places which, although they may not be
+contiguous or adjacent to the above area or establishment, may be included therein.
+(c) Vehicles, machinery, equipment, utensils, tools, fixtures,  implements and all other articles or
+items, used in operating or carrying on the business of a food establishment.
+(17) “Food product” means a perishable or nonperishable item  stored in a container or
+package and intended for human consumption.
+(18) “Identifying egg term” means a word or phrase  used individually or as part of a word
+that states, indicates or  suggests that a food product is an egg product made in whole or in
+part from eggs.
+(19) “Identifying meat term” means a  word or phrase used individually or as part of a
+word that states, indicates or suggests that a food product is a meat product  made in whole
+or in part from meat.
+[(13)] (20) “Immediate container” does not include package liners.
+(21) “Insect-protein food product” means a food product that  has one or more sensory
+attributes that resemble a type of tissue originating from a meat animal but  that, in lieu of
+being derived from processing meat, is derived from manufacturing insect parts.
+[(14)] (22)  “Label” means a display of written, printed or graphic matter upon the immediate
+container of any article. A requirement made under authority of ORS 616.205 to  616.215, 616.225 to
+616.256, 616.286, 616.295, 616.310, 616.315, 616.325, 616.330, 616.341, 616.350 to 616.366, 616.790 and
+616.992 that any word, statement  or other information appears on a label has not been obeyed unless
+such word, statement or other information also appears on the outside container or wrapper,  if any
+there be, of  the retail package of such article or unless such word, statement or information is easily
+legible through the outside container or wrapper.
+[(15)] (23)  “Labeling” means  all labels and other written, printed or graphic matters upon an
+article or any of its containers or wrappers, or accompanying such article.
+(24) “Manufactured-protein  food product” means a cultivated-protein food product,
+insect-protein food product or plant-protein food product.
+(25) “Meat” has the meaning given that term in ORS 619.010.
+(26) “Meat animal” has the meaning given that term in ORS 619.010.
+(27) “Meat product” has the meaning given that term in ORS 619.010.
+[(16)] (28)  “Package” means any container or wrapping in which any consumer  commodity is
+enclosed for use  in the delivery or display of that consumer commodity to retail purchasers, but does
+not include:
+(a) Shipping containers or wrappings  used solely for the transportation of any consumer com-
+modity in bulk or in quantity to  manufacturers, packers or processors, or to wholesale or retail
+distributors thereof; or
+(b) Shipping containers or outer wrappings  used by retailers to ship or deliver any commodity
+to retail customers if such containers and wrappings  bear no printed matter pertaining to any par-
+ticular  commodity.
+[(17)] (29)  “Pesticide chemical” means any  substance which, alone, in chemical combination or
+in formulation with one or more other substances is a “pesticide” as defined in ORS 634.006.
+(30) “Plant-protein food product” means  a food product that has one or more sensory
+attributes that resemble a type of tissue found in a species  of meat animal but that, in lieu
+of being derived from processing meat, is derived from manufacturing plant parts.
+[(18)] (31) “Principal display panel” means that part of a label that is most likely to be displayed,
+presented, shown or examined under normal and customary conditions of display for retail sale.
+(32) “Qualifying egg term” means a  word, compound word or phrase that clearly discloses
+that a food product is not an egg product from eggs or a meat product from a meat  animal,
+such as “cell-cultivated,” “cell-cultured,” “egg-free,” “fake,” “grown in a lab,” “imitation,”
+“lab-created,” “lab-grown,” “plant,” “plant-based,” “vegan,” “vegetable” or “veggie.”
+(33) “Qualifying meat term” means a word, compound word or  phrase that clearly dis-
+closes that a food product is not a meat product from a meat  animal, such as “cell-
+cultivated,” “cell-cultured,” “fake,”  “grown in a lab,” “imitation,” “insect,” “insect-based,”
+“insect protein,” “lab-created,”  “lab-grown,” “meat free,” “meatless,” “plant,”
+“plant-based,” “vegan,” “vegetable,” “vegetarian” or “veggie.”
+[(19)] (34) “Raw agricultural commodity” means any food in its raw or natural state, including
+all fruits that are washed, colored, or otherwise treated in their unpeeled natural form prior to
+marketing.
+SECTION 2.
+ ORS 616.250 is amended to read:
+616.250. A food shall be deemed to be misbranded:
+(1) If its labeling is false or misleading in any particular, or fails to conform to ORS 616.325.
+(2) If it is offered for sale under the name of another food.
+(3) If it is an imitation  of another food, unless its label bears in type of uniform size and prom-
+inence the word “imitation” and, immediately thereafter, the name of the food imitated.
+(4) If its container is so made, formed or filled as to be misleading.
+(5) If in package form:
+(a) Unless it bears a label containing:
+(A) The name and place of business of the manufacturer, packer or distributor; and
+(B) An accurate statement of the net quantity of the contents in terms of  weight, measure, vol-
+ume or numerical  count. The statement shall be separately and accurately stated upon the principal
+display panel of the label.
+(b) The same reasonable variations allowed in ORS chapter 618 shall be permitted.
+(c) Exemptions  as to small packages shall be established by rules promulgated by the State De-
+partment of Agriculture.
+(6) If any word, statement or other information required by or under authority of  ORS 616.205
+to 616.295 to appear on the label or labeling is not prominently placed thereon with  such
+conspicuousness, as compared with other words, statements, designs or devices, in  the labeling, and
+in such terms as to render it likely to be read and  understood by the ordinary individual under
+customary conditions of purchase and use.
+(7) If it purports to be or is represented as a food for which  a definition and standard of identity
+has been prescribed by  rule as provided by ORS 616.230, unless it conforms to such definition and
+standard and its label bears the  name of the food specified in the definition and standard, and, in
+so far as may be  required by such rule, the common names of optional ingredients, other than spices,
+flavoring and coloring present in such food.
+(8) If it purports  to be or is represented as a food for which a standard of quality has been
+prescribed by rule as provided by  ORS 616.230 and its quality falls below the standards such rule
+specifies, a statement that it falls below such standard.
+(9) If it is a food for which a standard or standards of fill of container have been  prescribed by
+rule as provided by ORS 616.230, and it falls below the standard of fill of  container applicable
+thereto, unless its label bears, in such manner and form as such rule specifies, a statement that  it
+falls below such standard.
+(10) If it is not subject to the provisions of subsection (7) of this section, unless its label bears:
+(a) The common or usual name of the food, if any there be; and
+(b) In case it is fabricated from two or more ingredients, the common or usual name of each such
+ingredient.
+However, spices, flavorings and colorings, other than those sold as such, may be designated as
+spices, flavorings  and colorings, without naming them. To the extent that compliance with the re-
+quirements of paragraph (b) of this subsection is impractical or results in deception  or unfair com-
+petition, exemptions shall be established by rule promulgated by the department.
+(11) If it purports to be or is represented for special dietary uses,  unless its label bears such
+information concerning its vitamin, mineral and other  dietary properties as the department deter-
+mines to be, and by rule prescribed as, necessary in  order to fully inform purchasers as to its value
+for such uses.
+(12) If it bears or contains any artificial flavoring, artificial coloring  or chemical preservative,
+unless it bears labeling stating that fact. To the extent that compliance with the requirements of this
+subsection is impracticable, exemptions shall be established  by rule promulgated by the department.
+This subsection and subsections (7) and (10) of  this section with respect to artificial coloring do not
+prohibit the use of  harmless coloring matter in butter, cheese or ice cream. The provisions of this
+subsection with respect to chemical  preservatives do not apply to a pesticide chemical when used
+in or on a raw agricultural commodity which is the product of the soil.
+(13) If it is  a raw agricultural commodity which is the product of the soil, bearing or containing
+a pesticide  chemical applied after harvest, unless the shipping container of such commodity bears
+labeling which declares the presence of such chemical in or on  such commodity and the common or
+usual name and the function of such chemical. However, no  such declaration is required while such
+commodity, having been removed from the shipping container, is being held or displayed for sale at
+retail out of such container in accordance with the custom of the trade.
+(14) If following the  labeled directions or instructions on the product in using it as a food in-
+gredient will result in the final food being adulterated or misbranded.
+(15) If it is a color additive, unless  its packaging and labeling are in conformity with the pack-
+aging and labeling requirements applicable to such color additive  prescribed under the provisions
+of the federal Act.
+(16) If it has been salvaged, unless it bears labeling or notification stating that  fact. For the
+purposes of this subsection, “salvaged” means the reconditioning, repacking, relabeling, cleaning  or
+culling of foods that have been damaged or adulterated as a result of fire, storm, flood, water, smoke,
+chemicals, radiation or commercial transit accident.
+(17) If it is a fabricated-egg food product that bears labeling that:
+(a) Contains an identifying egg term; and
+(b) Does not contain a conspicuous and  prominent qualifying egg term in close proximity
+to the identifying egg term.
+(18) If it is a manufactured-protein food product that bears labeling that:
+(a) Contains an identifying meat term; and
+(b) Does not contain a conspicuous and prominent qualifying meat term in  close prox-
+imity to the identifying meat term.
+SECTION 3.
+The amendments to ORS 616.205 and 616.250 by sections 1 and 2 of this 2025
+Act apply to food products that are sold or offered for sale on  or after the effective date of
+this 2025 Act.
+INELIGIBILITY UNDER FEDERAL NUTRITION PROGRAMS
+SECTION 4. Section 5 of this 2025 Act is added to and made a part of ORS chapter 411.
+SECTION 5. (1) As used in this section:
+(a) “Fabricated-egg food product” has the meaning given that term in ORS 616.205.
+(b) “Federal nutrition program” means:
+(A) The special supplemental nutrition program  for women, infants and children de-
+scribed in 42 U.S.C. 1786; or
+(B) The Supplemental Nutrition Assistance Program, as defined in ORS 411.806.
+(c) “Manufactured-protein food  product” has the meaning given that term in ORS 616.205.
+(2) If the United States Department of Agriculture approves  manufactured-protein food
+products or fabricated-egg food products for purchase under a federal  nutrition program, the
+Department of  Human Services shall submit a request to the United States Department of
+Agriculture for a waiver or other exception that excludes manufactured-protein food pro-
+ducts and fabricated-egg food products from eligibility in this  state under a federal nutrition
+program.
+PURCHASING FOR PUBLIC SCHOOLS
+SECTION 6.
+Notwithstanding any contrary provision of law, the State Board of Education
+shall adopt rules that prohibit the purchasing of fabricated-egg food products,  as defined in
+ORS 616.205,  or manufactured-protein food products, as defined in ORS 616.205, for con-
+sumption at facilities under the jurisdiction of the board, including public kindergartens and
+public elementary and secondary schools.
+SECTION 7.
+The State  Board of Education shall adopt rules described in section 6 of this
+2025 Act as soon as practicable after the effective date of this 2025 Act.
+PURCHASING FOR POST-SECONDARY INSTITUTIONS
+SECTION 8.
+Notwithstanding any contrary provision of law,  the Higher Education Coor-
+dinating Commission shall adopt rules that prohibit the purchasing  of fabricated-egg food
+products, as defined in ORS 616.205, or manufactured-protein food products, as defined in
+ORS 616.205, for consumption at facilities under the jurisdiction of the  commission, including
+community colleges, as defined in ORS 341.005, and public universities listed in ORS 352.002.
+SECTION 9.
+The Higher Education Coordinating Commission shall adopt rules described
+in section 8 of this 2025 Act as soon as practicable after the effective date of this 2025 Act.
+CAPTIONS
+SECTION 10. The unit captions used in this 2025 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 616.205, ORS 616.250
+- From bill text (Introduced version): ORS 341.005, ORS 352.002, ORS 411.806, ORS 616.205, ORS 616.230, ORS 616.250, ORS 616.325, ORS 619.010, ORS 632.705, ORS 634.006
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `9fed51856baf6e0b7d9736feea0c1ae626c7fdee0fadc32cf24142ae852c0227` (snapshot `_meta/snapshots/measure-2025r1-hb2691-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2691/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2691` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

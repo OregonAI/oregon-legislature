@@ -1,0 +1,94 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2779
+Sponsored by Representative SMITH G (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  says that members of the Legislative Assembly may not serve on juries. (Flesch
+Readability Score: 65.7).
+Provides that members of the Legislative Assembly may not serve on juries.
+A BILL FOR AN ACT
+Relating to juries; amending ORS 10.030.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 10.030 is amended to read:
+10.030. (1) Except as otherwise specifically provided by statute, the opportunity for  jury service
+may not be denied or limited on the basis of race, religion, sex, sexual  orientation, gender identity,
+national origin, age, income, occupation or any other factor that discriminates against a cognizable
+group in this state.
+(2) Any person is eligible to act as a juror in a civil trial unless the person:
+(a) Is not a citizen of the United States;
+(b) Does not live in the county in which summoned for jury service;
+(c) Is less than 18 years of age; [ or]
+(d) Has had rights and privileges withdrawn and not restored under ORS 137.281 ; or
+(e) Is a current member of the Legislative Assembly .
+(3)(a) Any person is eligible to act as a grand juror, or as  a juror in a criminal trial, unless the
+person:
+(A) Is not a citizen of the United States;
+(B) Does not live in the county in which summoned for jury service;
+(C) Is less than 18 years of age;
+(D) Has had rights and privileges withdrawn and not restored under ORS 137.281;
+(E) Has been convicted of a felony or served a felony sentence within the  15 years immediately
+preceding the date the person is required to report for jury service; [ or]
+(F) Has been convicted of a misdemeanor involving violence or dishonesty,  or has served a
+misdemeanor sentence based on a misdemeanor involving violence or dishonesty, within  the five
+years immediately preceding the date the person is required to report for jury service ; or
+(G) Is a current member of the Legislative Assembly .
+(b) As used in this subsection:
+(A) “Felony sentence” includes any  incarceration, post-prison supervision, parole or probation
+imposed upon conviction of a felony or served as a result of conviction of a felony.
+(B) “Has been convicted of a felony” has the meaning given that term in ORS 166.270.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2672
+HB 2779
+1
+2
+3
+4
+5
+6
+7
+8
+9
+(C) “Misdemeanor sentence” includes any incarceration or probation  imposed upon conviction
+of a misdemeanor or served as a result of conviction of a misdemeanor.
+(4) A person who is blind, hard of hearing or speech impaired or who has  a physical disability
+is not ineligible to act as a juror and may not be excluded from a jury  list or jury service on the
+basis of blindness, hearing or speech impairment or physical disability alone.
+(5) A person is ineligible to act as a juror in any circuit  court of this state within 24 months
+after being discharged  from jury service in a federal court in this state or circuit court of this state
+unless that person’s service as a juror is required because of a need for additional jurors.
+[2]

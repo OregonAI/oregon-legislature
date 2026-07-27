@@ -1,0 +1,255 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1090
+Sponsored by Senator WOODS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells a state agency to start a program to  give grants and loans to other state agencies
+so that they can replace their old computers and software,  and for other purposes. Says that the
+agencies must pay back the moneys from cost savings. (Flesch Readability Score: 66.9).
+Requires the Oregon  Department of Administrative Services to create a program to award
+grants and  provide loans to state agencies for replacing outdated information technology and for
+certain  other  purposes. Creates an advisory board that the department must consult in awarding
+grants and providing loans. Establishes the Technology Modernization Fund and  appropriates
+moneys in the fund to the department for the purpose of the department’s program.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to information technology; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Oregon Department of Administrative Services  shall create a pro-
+gram to make loans and grants to state agencies for the following purposes:
+(a) To improve, retire or replace existing  information technology systems for the purpose
+of:
+(A) Providing and enhancing adequate, risk-based  and cost-effective cybersecurity sol-
+utions to respond to evolving threats to information security;
+(B) Transitioning legacy information technology systems to cloud computing  and other
+innovative commercial platforms and technologies; and
+(C) Improving the efficiency and effectiveness of information technology that  state
+agencies use to conduct public business;
+(b) To improve service delivery to residents of this state; and
+(c) To fund  projects that develop or implement artificial intelligence or that develop
+otherwise innovative approaches to fulfilling the purposes identified in paragraph (a) of this
+subsection.
+(2)(a) In implementing the program  described in subsection (1) of this section, the de-
+partment shall consult with and obtain the  approval of an advisory board with respect to
+decisions to  award a grant or loan. The advisory board must have nine members who must
+be appointed as follows:
+(A) The Governor shall appoint seven members who are:
+(i) The State Chief Procurement Officer  or an individual whom the State Chief Procure-
+ment Officer designates as a representative;
+(ii) The State Chief Information Officer or an individual whom the State Chief Informa-
+tion Officer designates as a representative;
+(iii) The Director of  the Oregon Department of Emergency Management, or an individual
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4070
+SB 1090
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+whom the director designates as a representative; and
+(iv) Four high-level employees  of state agencies with extensive knowledge and experience
+in information technology development, financial management,  cybersecurity and privacy
+protection and technology acquisition.
+(B) The Legislative  Fiscal Officer shall appoint an employee of the office who ordinarily
+serves as staff support for the Joint Committee on Information  Management and Technol-
+ogy.
+(C) The State Court Administrator  shall appoint a member that represents the judicial
+department.
+(b) A member of the advisory board described in paragraph (a) of this subsection is  not
+entitled to additional pay,  allowances or benefits as compensation for the member’s service
+on the board.
+(c) In identifying and appointing the members described in paragraph (a)(A)(iv) of  this
+subsection, the Governor shall consult with labor organizations  that represent employees
+with information technology backgrounds or expertise.
+(3)(a) The Oregon Department of Administrative Services, in consultation  with, and with
+the approval of, the  advisory board described in subsection (2) of this section, shall develop
+a process for receiving applications for grants or loans that  the department makes from the
+Technology Modernization Fund established under section 2 of this  2025 Act, criteria for
+evaluating the applications and a process for awarding grants  or providing loans, as appro-
+priate, to approved recipients. The department and board shall prioritize for grants  or loans
+projects that will, or are likely to,  result in significant estimated cost savings for the recip-
+ient of the grant or loan.
+(b) A recipient of a grant or loan under paragraph (a) of this subsection  must conduct
+any procurement with moneys from the grant  or loan in an open competitive process in ac-
+cordance with the Public Contracting Code and other applicable law.
+(4)(a) To the extent that a  project that the department funds as provided in subsection
+(3) of this section results in cost savings to the grant or loan recipient that  are attributable
+to information  technology improvements, upgrades, modernizations or replacements, the
+recipient shall transfer to the department an amount that is equivalent to the savings  the
+recipient realized. The department shall deposit any  amounts the department receives under
+this subsection to the State Treasury and to the credit  of the Technology Modernization
+Fund.
+(b) The department and the advisory board, in  consultation with each recipient of a grant
+or loan, shall collectively determine how to measure and account for the  cost savings de-
+scribed in paragraph (a) of this subsection. The  department, board and recipient shall adopt
+a method  of measurement and accounting that prioritizes maintaining the solvency of the
+Technology Management Fund.
+(c) A state agency may make a transfer described in paragraph  (a) of this subsection
+from funds appropriated to the state agency for information  technology activities, oper-
+ations, maintenance or acquisitions.
+(5) A grant or loan that a state agency receives under this section  does not supplant
+funds that the state agency receives from appropriations for the  purpose of operating or
+maintaining the state agency’s information technology.
+(6) Not later than July 1  and December 31 of each year, the Oregon Department of Ad-
+[2]
+SB 1090
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+ministrative Services shall submit a report as provided in ORS 192.245  to the Joint Commit-
+tee on Information Management and Technology. The report must:
+(a) Assess the ongoing costs associated with  establishing the Technology Modernization
+Fund and with overseeing and administering  the program described in subsection (1) of this
+section and compare the costs with any savings  realized from funding state agency projects
+with moneys from the fund;
+(b) Evaluate the reliability of the cost  savings the department determines under sub-
+section (3)(a) of this section in comparison with the  cost savings the department determines
+under subsection (4)(a) of this section;
+(c) Determine whether recipients of  loans and grants under subsection (3) of this section
+used an open competitive process to procure goods or services using  moneys from the grant
+or loan; and
+(d) List the numbers of projects for which the department awarded  a grant or provided
+a loan, the amount and recipient of each grant or  loan and the purpose and goals of each
+grant or loan.
+SECTION 2.
+(1) There is created in the State Treasury the  Technology Modernization
+Fund, separate and distinct from  the General Fund. The Oregon Department of Administra-
+tive Services shall pay into the State Treasury, to the credit of the Technology Modernization
+Fund, all moneys the department collects or receives as appropriations to  the department,
+as grants or transfers  from federal agencies or other sources of federal funds, as repayments
+and reimbursements from state agencies that receive loans from the fund and from all  other
+sources that designate the Technology Modernization Fund as a recipient  of donations,
+grants or contributions. Moneys in the  fund may be invested in the same manner as other
+state moneys and any interest earned must be credited  to the Technology Modernization
+Fund.
+(2) The department shall keep a record of all moneys deposited into  the Technology
+Modernization Fund, indicating in the record by separate account the source of the  moneys,
+the interest earned and the activity against which the department charges any withdrawal.
+(3) If moneys credited  to the Technology Modernization Fund are withdrawn, transferred
+or used for purposes other than the purposes  for which the fund was established, interest
+accrues on the amount withdrawn from the date of withdrawal until the date  on which the
+moneys are restored to the fund.
+(4) Moneys in the Technology Modernization Fund are continuously appropriated  to the
+department for the department’s administrative  expenses and the department’s duties under
+section 1 of this 2025 Act.
+SECTION 3.
+There is appropriated to the Oregon Department of Administrative Services,
+for the biennium beginning July 1, 2025, out of the General Fund, the amount of $10,000,000
+for the purpose of carrying out the department’s duties under section 1 of this 2025 Act.
+SECTION 4.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[3]

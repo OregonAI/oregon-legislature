@@ -1,0 +1,53 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3159
+Sponsored by Representative CATE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Limits the amount by which a public utility may increase a rate or schedule of rates  in
+a year. (Flesch Readability Score: 67.3).
+Limits the maximum percentage by which a public  utility may increase a rate or schedule of
+rates in a calendar year to the average percentage change of the Consumer Price Index.
+A BILL FOR AN ACT
+Relating to public utility rates.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS chapter 757.
+SECTION 2. (1) The Public Utility Commission may not approve for a public utility  an
+increase of a rate or schedule of rates that is:
+(a) Greater than  the maximum percentage increase allowed for the calendar year under
+subsection (2) of this section; or
+(b) When added to any increases of a rate or schedule of rates that  the commission
+previously approved for the calendar year, greater  than the maximum percentage increase
+allowed for the calendar year under subsection (2) of this section.
+(2) The maximum percentage that a public utility may increase  a public utility’s rate or
+schedule of  rates for a calendar year is the September annual 12-month average change in
+the Consumer Price Index  for All Urban Consumers, West Region (All Items), as most re-
+cently published by the Bureau of  Labor Statistics of the United States Department of Labor.
+(3) No later than September 30 of each year, the commission shall publish the  maximum
+percentage increase allowed for the following calendar year under subsection (2) of  this sec-
+tion.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2169

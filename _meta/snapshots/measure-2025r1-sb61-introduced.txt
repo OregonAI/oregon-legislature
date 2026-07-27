@@ -1,0 +1,93 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 61
+Sponsored by Senator HAYDEN (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act limits when OHA may claw back moneys paid to Medicaid providers. (Flesch
+Readability Score: 63.4).
+Prohibits the recovery  of reimbursements paid on claims in the medical assistance program if
+the provider can verify that the patient visit occurred or the service or item was  provided. Pro-
+hibits the recovery of reimbursements based on a sample of a provider’s claims unless a similar error
+rate is found in a sample of at least 15 percent of the provider’s claims.
+Applies to audits of claims for the reimbursement  of items or services provided on or after
+January 1, 2019, if the claims have not been fully adjudicated.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to medical assistance provider audits; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+In conducting an audit of provider claims for reimbursement in the  medical
+assistance program, in accordance  with 42 U.S.C. 1396a(a)(42)(B), the Oregon Health Au-
+thority or an entity contracting with the authority to perform the audit:
+(1) May not recover the reimbursement paid on a  claim on the basis that a patient visit
+did not occur or that a  service or item was not provided during a patient visit, if the provider
+submits documentation verifying that the patient visit occurred  or the service or item was
+provided, including but not limited to:
+(a) Treatment or service plans;
+(b) Clinical assessments created during a patient visit;
+(c) Chart or progress notes;
+(d) Patient attestations that the patient received the service or treatment;
+(e) Documentation of referrals to other providers; or
+(f) Prescriptions written for the patient during the visit.
+(2) For a provider’s billing code error on  a claim for reimbursement for a behavioral
+health service that results in  the provider receiving more reimbursement than the provider
+was entitled to receive for the service, may recover only the difference between the amount
+of reimbursement paid and the amount of reimbursement that would have been paid  if the
+claim had been properly coded.
+(3)(a) Except as provided in paragraph (b) of this subsection, when auditing a  sample of
+a provider’s claims, may recover only the amount of the improper  reimbursement paid on
+the specific errors identified in the sample and may not extrapolate  the error rate in the
+sample to all or any portion of the provider’s claims.
+(b) May extrapolate the error rate  found in a sample of a provider’s claims if the au-
+thority or the contractor conducts a new sampling of at  least 15 percent of the provider’s
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2733
+SB 61
+1
+2
+3
+4
+5
+6
+7
+8
+claims and finds an error rate consistent with the error rate found in the initial sample.
+SECTION 2.
+Section 1 of this 2025 Act applies to audits of claims for the reimbursement
+of items or services provided  on or after January 1, 2019, if the claims have not been fully
+adjudicated through administrative or judicial processes.
+SECTION 3. This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[2]

@@ -1,0 +1,278 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 529
+Sponsored by Senator PATTERSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes changes to laws about certain health workers. (Flesch  Readability Score:
+78.2).
+Directs the Oregon Health Authority and coordinated care organizations to  contract directly
+with traditional health workers, community health registered nurses  and community-based organ-
+izations to provide services to medical assistance recipients. Directs the  authority to establish
+comprehensive billing codes for traditional health workers and community health registered  nurses.
+Directs  the  authority to modify the requirements for the supervision of traditional health workers.
+Directs the authority to adopt  requirements for the regulation of community health registered
+nurses.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to community health; creating new provisions; amending ORS 414.665, 414.667, 414.668 and
+414.669; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 414.667 is amended to read:
+414.667. As used in ORS [ 414.667, 414.668 and 414.669,] 414.665 to 414.669:
+(1) “Community health registered nurse” means a registered nurse licensed under ORS
+678.010 to 678.410 who engages in  the practice of nursing, as that term is defined in ORS
+678.010, to provide patient care outside of a health care facility and in a setting that combines
+primary care and public health.
+(2) “Doula” means an individual who meets criteria for a doula adopted by the  Oregon Health
+Authority in accordance with ORS 414.665.
+(3) “Traditional health worker” includes any of the following:
+(a) A community health worker.
+(b) A personal health navigator.
+(c) A peer wellness specialist.
+(d) A peer support specialist.
+(e) A doula.
+(f) A tribal traditional health worker.
+SECTION 2.
+ ORS 414.665 is amended to read:
+414.665. [(1) As used in this section, “traditional health worker” includes any of the following: ]
+[(a) A community health worker. ]
+[(b) A personal health navigator. ]
+[(c) A peer wellness specialist. ]
+[(d) A peer support specialist. ]
+[(e) A doula. ]
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 960
+SB 529
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(f) A tribal traditional health worker. ]
+[(2)] (1) In consultation with the Traditional Health Workers Commission  established under ORS
+413.600, the Oregon Health Authority, for purposes  related to the regulation of traditional health
+workers, shall adopt by rule:
+(a) The qualification criteria, including  education and training requirements, for the traditional
+health workers utilized by coordinated care organizations;
+(b) Appropriate professional designations for supervisors of the traditional health workers; and
+[(c) Processes by which other occupational classifications may be approved to supervise the tradi-
+tional health workers. ]
+(c) Requirements for the supervision of traditional health workers.
+(2) The requirements for the  supervision of traditional health workers under this section
+must:
+(a) Create processes to allow other occupational  classifications to be approved by the
+authority to supervise traditional health workers;
+(b) Allow individuals who are not licensed  but who have sufficient professional experi-
+ence, as determined by the authority, to supervise traditional health workers; and
+(c) Establish a level and frequency of supervision of traditional health  workers that will
+allow for group supervision and remote supervision.
+(3) The criteria and requirements established under [ subsection (2) of ] this section:
+(a) Must be broad enough to encompass the potential  unique needs of any coordinated care or-
+ganization;
+(b) Must meet requirements  of the Centers for Medicare and Medicaid Services to qualify for
+federal financial participation; and
+(c) May not require certification by the Home Care Commission.
+SECTION 3.
+Sections 4 and 5 of this 2025 Act are added to and made a part of ORS 414.665
+to 414.669.
+SECTION 4. (1) The Oregon Health  Authority shall adopt rules related to the regulation
+of community health registered  nurses. The rules adopted under this section must include
+qualification criteria, including training and education requirements, for  community health
+registered nurses utilized by coordinated care organizations.
+(2) The criteria and requirements established under subsection (1) of this section:
+(a) Must be broad enough to encompass the potential unique needs of any  coordinated
+care organization;
+(b) Must meet requirements of the Centers for Medicare and Medicaid Services  to qualify
+for federal financial participation; and
+(c) May not require supervision of community health registered nurses.
+SECTION 5.
+The Oregon Health Authority shall:
+(1) Contract directly with individual traditional health workers, community  health regis-
+tered nurses  and community-based organizations to provide services to medical assistance
+recipients; and
+(2) Make information about how to access services  from traditional health workers and
+community health registered nurses available on a website operated by or on behalf of the
+authority and shall provide the information in print whenever a printed explanation of  ben-
+efits is available.
+SECTION 6.
+ ORS 414.668 is amended to read:
+[2]
+SB 529
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+414.668. A coordinated care organization shall :
+(1) Contract directly  with individual traditional health workers, community health regis-
+tered nurses and community-based organizations to provide services to members  of the co-
+ordinated care organization. The coordinated care organization  shall reimburse traditional
+health workers,  community health registered nurses and community-based organizations
+using fee-for-service rates or alternative payment methodologies that are  based on quality
+and that include the cost of necessary administrative and infrastructure costs; and
+(2) Make information about how to access [ doula] services  from traditional health workers
+and community health registered nurses  available on a website operated by  or on behalf of the
+coordinated care organization and shall  provide the information in print whenever a printed expla-
+nation of benefits is available.
+SECTION 7.
+ ORS 414.669 is amended to read:
+414.669. (1) The Oregon Health Authority shall establish comprehensive billing codes  to
+include reimbursement for the  cost of a wide range of preventive and social support services
+provided by traditional health workers and community  health registered nurses to medical
+assistance recipients.
+(2) [ The Oregon Health authority, in coordination with the Traditional Health  Workers Commis-
+sion, shall in each even-numbered year review, and revise if necessary, any rates of reimbursement  for
+doulas.] In each even-numbered year the authority shall:
+(a) In coordination with the Traditional Health  Workers Commission, review and revise
+if necessary any rates of reimbursement for traditional health workers.
+(b) Review and revise if necessary any  rates of reimbursement for community health
+registered nurses.
+(3) When reviewing and revising rates of reimbursement  under this  section, the authority shall
+consider factors including retention of [ doulas] traditional health workers and community health
+registered nurses, administrative costs to support traditional health workers  and community
+health registered nurses , access to culturally specific [ doulas] traditional health workers and
+community health registered nurses  and evidence-based factors and empirical studies related to
+the cost-effectiveness of services provided by [ doulas] traditional health  workers and community
+health registered nurses.
+(4) The authority may not require a  medical diagnosis as a condition of reimbursing the
+cost of a service provided by a traditional health worker  or a community health registered
+nurse to a medical assistance recipient when the service is  provided outside of a health care
+facility.
+SECTION 8. Sections 4 and 5 of this 2025 Act and the amendments  to ORS 414.665,
+414.667, 414.668 and 414.669 by sections 1, 2, 6 and  7 of this 2025 Act become operative on
+January 1, 2026.
+SECTION 9. The Oregon Health  Authority may take any action before the operative date
+specified in section 8 of this 2025 Act that is necessary to  enable the authority to exercise,
+on and after  the operative date specified in section 8 of this 2025 Act, all of the duties,
+functions and powers conferred on the authority  by sections 4 and 5 of this 2025 Act and the
+amendments to ORS 414.665, 414.667, 414.668 and 414.669 by sections 1, 2, 6 and 7 of this 2025
+Act.
+SECTION 10.
+The amendments to ORS 414.668 by section 6 of this 2025 Act  apply to
+contracts between a coordinated care organization  and the Oregon Health Authority entered
+[3]
+SB 529
+1
+2
+3
+4
+5
+6
+into, amended or renewed on or after  the operative date specified in section 8 of this 2025
+Act.
+SECTION 11.
+This 2025 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[4]

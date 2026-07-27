@@ -1,0 +1,354 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4136
+Sponsored by Representatives NATHANSON, FAHEY,  HOLVEY, CONRAD, Senators MANNING JR, PROZANSKI;
+Representative GRAYBER (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes the laws about nurse licenses, gives money to Lane County to pay  for
+fast health care and tells the Oregon Health Authority to look  at how to get health care. (Flesch
+Readability Score: 60.5).
+Expands the exemption from the licensure requirement for certain nurses. Directs the Oregon
+State Board of Nursing to issue a provisional license to an applicant for licensure.
+Directs the Oregon Health Authority to enter into an agreement  with Lane County Public
+Health and  distribute to Lane County Public Health moneys for the purposes of funding same-day
+health care services.
+Directs the authority to  review access to urgent and immediate health care services and submit
+a report to  the interim committees of the Legislative Assembly related to health care not later than
+September 15, 2024.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to health care; creating  new provisions; amending ORS 678.031, 678.034 and 678.040; and
+declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+NURSE LICENSURE
+SECTION 1.
+ ORS 678.031 is amended to read:
+678.031. ORS 678.010 to 678.410 do not apply to:
+(1) The employment of nurses in institutions or agencies of the federal government.
+(2) The  practice of nursing incidental to the planned program of study for students enrolled in
+nursing education programs approved by the Oregon State  Board of Nursing or accredited or ap-
+proved by another state or United States  territory as described under ORS 678.040 and approved
+by the board.
+(3) Nursing practiced outside this  state that is incidental to a distance learning program pro-
+vided by an institution of higher education located in Oregon.
+(4) The furnishing of nursing assistance in an emergency.
+(5) The practice of any other occupation or profession licensed under the laws of this state.
+(6) Care of the  sick with or without compensation when performed in connection with the
+practice of the religious tenets of a well-recognized church or denomination that relies exclusively
+on treatment by  prayer and spiritual means by adherents thereof so long as the adherent does not
+engage in the practice of nursing as defined in ORS 678.010 to 678.410 and 678.990 or hold  oneself
+out as a registered nurse or a licensed practical nurse.
+(7) Nonresident nurses licensed and in good standing in another state if nonresident nurses  are
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 51
+HB 4136
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+practicing in this state on a single[ , temporary ] assignment  of not to exceed 90 days, renewable for
+not to exceed 90 days,  for assignments that are for the general public benefit . [ limited to the fol-
+lowing:]
+[(a) Transport teams; ]
+[(b) Red Cross Blood Services personnel; ]
+[(c) Presentation of educational programs; ]
+[(d) Disaster teams; ]
+[(e) Staffing in  a hospital that is responding to a temporary staffing shortage and would be other-
+wise unable to meet the hospital’s staffing requirements; ]
+[(f) Staffing a long term care facility that is responding  to a temporary staffing shortage and would
+be otherwise unable to meet its staffing requirements; ]
+[(g) Providing health care  for students who attend school outside of Oregon and who are partic-
+ipating in a school-sponsored event; or ]
+[(h) Staffing any of the following entities that is responding to a temporary staffing shortage and
+would otherwise be unable to meet its staffing requirements: ]
+[(A) An adult or juvenile residential behavioral health treatment facility; ]
+[(B) An opioid treatment program; ]
+[(C) A withdrawal management program; ]
+[(D) A sobering center; ]
+[(E) A primary care facility; or ]
+[(F) A behavioral health home, as defined in ORS 414.025. ]
+SECTION 2.
+ ORS 678.034 is amended to read:
+678.034. [(1)(a) A hospital, long term care facility or entity described  in ORS 678.031 (7)(h) that
+employs nurses under ORS 678.031 (7)(e), (f) or (h) shall: ]
+[(A) Notify the Oregon State  Board of Nursing in writing of the number of nurses employed under
+ORS 678.031 (7)(e), (f) or (h), the times of employment and the nature of the staffing shortage; ]
+[(B) Certify that there is no labor dispute  affecting nurses at the hospital, long term care facility
+or entity described in ORS 678.031 (7)(h); and ]
+[(C) At the request of the board, provide documentation that the nurses employed  under ORS
+678.031 (7)(e), (f) or (h) are licensed and in good standing in another state or United States territory. ]
+[(b) A hospital, long term care facility or entity described in ORS  678.031 (7)(h) that employs
+nurses as described in paragraph (a) of  this subsection shall provide notice in writing of and certify
+to the nurses’ exclusive bargaining representative, if any, the information described in paragraph  (a)
+of this subsection. ]
+(1) An entity that employs a nurse described under  ORS 678.031 (7) shall notify the
+Oregon State Board of Nursing  in writing of the number of nurses so employed and the time
+of employment and shall certify that there is no  labor dispute affecting nurses at the entity.
+In addition, at the request of the board, the  entity shall provide documentation that the
+nurses so employed are licensed and in good standing in another state  or United States ter-
+ritory.
+(2) Nurses employed in this state under ORS  678.031 (7)[(e), (f) or (h) ], at the time of employment,
+shall apply for an Oregon license by indorsement or, if the nurse  was previously licensed in this
+state, for reactivation of the nurse’s Oregon license.
+SECTION 3.  ORS 678.040 is amended to read:
+678.040. (1) An applicant for a license under ORS 678.010 to 678.448 shall provide to the Oregon
+[2]
+HB 4136
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+State Board of Nursing satisfactory evidence that the applicant’s physical and mental health is such
+that it is safe for the applicant to practice, and that:
+[(1)] (a) The applicant has graduated:
+[(a)] (A) From a registered nurse or licensed practical nurse  nursing education program ap-
+proved by the Oregon State Board of Nursing;
+[(b)] (B) From a nursing program in the United States that included  in its curriculum a clinical
+component, as defined by the board by rule, and:
+[(A)] (i) Is accredited or approved by the  licensing board for nurses in a particular state or
+United States territory and approved by the Oregon State Board of Nursing; or
+[(B)] (ii) If the licensing  board is not the accrediting or approval agency in that state or United
+States territory,  is accredited or approved by the appropriate agency for that state or United States
+territory and approved by the Oregon State Board of Nursing;
+[(c)] (C) In another country and has an education equivalent to that provided by accredited or
+approved programs in this country; or
+[(d)] (D) From a military training program that the board specifies  by rule to be qualified as a
+nursing education program for a licensed practical nurse; or
+[(2)] (b) If the applicant is an applicant for licensure by indorsement, the applicant:
+[(a)] (A) Is currently or has been licensed as a licensed practical nurse in another state  or ter-
+ritory of the United States based upon recognition of the applicant’s military education; or
+[(b)] (B) Has graduated  from a registered nurse or licensed practical nurse nursing education
+program that included in its curriculum a clinical component, as defined by the board by rule.
+(2) Upon receipt of an application for a license under subsection (1)(b) of this  section, the
+board shall issue  to the applicant a provisional license to allow the applicant to practice
+nursing at the level for which the applicant has applied for a license. A provisional license
+issued under this  subsection expires on the date on which an applicant described in this
+subsection is issued a license under subsection (1)(b) of this section.
+SECTION 4.
+(1) The amendments to ORS 678.031 and  678.034 by sections 1 and 2 of this
+2024 Act apply to periods of employment beginning on or after the effective date  of this 2024
+Act.
+(2) The  amendments to ORS 678.040 by section 3 of this 2024 Act apply to applications
+received by the Oregon State Board of Nursing on or  after the effective date of this 2024 Act.
+LANE COUNTY ACCESS TO HEALTH CARE
+SECTION 5. (1) The Oregon  Health Authority shall enter into an agreement with Lane
+County Public Health that requires Lane County Public  Health to administer moneys as fol-
+lows, taking into  consideration the continuum of health care, including emergency medical
+care and other same-day health care services:
+(a) As distributions  to the City of Eugene for the establishment and maintenance of a
+basic life support unit; and
+(b) To fund a health  care access innovation fund to finance innovations to improve access
+to same-day health care while decreasing the overall same-day health care system cost  in
+the greater Eugene area,  such as a nurse advice line, community health care response pro-
+grams, alternative medical transportation options and programming  to improve access to
+health care while reducing emergency department utilization.
+[3]
+HB 4136
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) The agreement described in subsection (1) of this section must require:
+(a) Lane County Public Health to solicit, review  and select proposals for the objectives
+described in subsection (1) of this section,  and to consult with coordinated care organizations
+and other stakeholders in order to optimize the use of moneys described in subsection  (1)
+of this section and to leverage additional funding from other sources.
+(b) Lane County Public Health to submit a report in the manner provided in ORS 192.245,
+that may include recommendations for legislation, to the authority  and the interim com-
+mittees of the Legislative Assembly related to health care not later than December  31, 2024.
+The report described in this paragraph must include a detailed description of how the moneys
+administered by Lane County Public Health are used.
+(c) Lane  County Public Health and the authority to submit a report in the manner pro-
+vided in ORS 192.245, that may include recommendations for  legislation, to the interim
+committees of the Legislative Assembly related to health  care not later than December 31,
+2025. The report described in this paragraph must include a  detailed description of how the
+moneys administered by Lane County Public Health are used and whether and to what degree
+the objectives described in subsection (1) of this section were met.
+(3) The agreement  entered into under subsection (1) of this section must allow Lane
+County Public Health to withhold from the moneys  administered under subsection (1) of this
+section a reasonable amount to  reimburse Lane County Public Health for administrative
+costs incurred under this section.
+SECTION 6.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Oregon Health Authority, for the  biennium ending June 30, 2025, out of the
+General Fund, the amount of  $4,500,000 for the purpose of carrying out the provisions of
+section 5 of this 2024 Act.
+SECTION 7. Sections 5 and 6 of this 2024 Act are repealed on January 2, 2026.
+OREGON HEALTH AUTHORITY REVIEW
+SECTION 8. The Oregon Health Authority  shall review access to urgent and immediate
+health care services in this state, focusing on options that decrease the  use of unnecessary
+emergency department resources, and the relevant state and federal statutes and  adminis-
+trative rules and regulations. In conducting the review, the authority shall also consider re-
+imbursement and payment for urgent and immediate health care services  provided to
+patients. The authority shall submit a report in the manner provided by ORS 192.245,  and
+may include recommendations for legislation, to the interim  committees of the Legislative
+Assembly related to health care no later than September 15, 2024.
+SECTION 9.
+Section 8 of this 2024 Act is repealed on January 2, 2025.
+CAPTIONS
+SECTION 10. The unit captions used in this 2024 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2024 Act.
+EFFECTIVE DATE
+[4]
+HB 4136
+1
+2
+3
+4
+SECTION 11.
+This 2024 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2024 Act takes effect
+on its passage.
+[5]

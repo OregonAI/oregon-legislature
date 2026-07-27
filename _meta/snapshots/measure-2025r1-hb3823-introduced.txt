@@ -1,0 +1,111 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3823
+Sponsored by Representative GOMBERG
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would give a property tax break to a business that generated or stored  energy
+for its own use. The Act would exclude utilities from the tax break. The Act would  give a property
+tax break for property installed at a  residence to generate or store energy for use there. (Flesch
+Readability Score: 65.1).
+Exempts from property taxes personal property used  by a business to generate or store energy
+for consumption  by the business on its premises. Provides that the exemption does not apply to the
+personal property of utility businesses. Exempts from property taxes  property installed at a resi-
+dence to generate or store energy for consumption at the residence.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to property taxes; creating new provisions; amending  ORS 307.175; and prescribing an ef-
+fective  date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 307.175 is amended to read:
+307.175. (1) As used in this section:
+(a) “Alternative energy system”  means property consisting of solar, geothermal, wind, water,
+fuel cell or methane gas energy systems for  the purpose of heating, cooling or generating electricity.
+(b) “Community solar project” has the meaning given that term in ORS 757.386.
+(2) The following property is exempt from ad valorem property taxation:
+(a) An alternative energy system that is:
+(A) A net metering facility, as defined in ORS 757.300; or
+(B) Primarily designed to offset onsite electricity use.
+(b) A community solar project.
+(c)(A) Personal property installed on the premises of a for-profit  or nonprofit business
+and used by the business to generate energy  in any form, or to store the energy generated,
+to the extent that the energy is  generated or stored for consumption related to the operation
+of the business on the premises. This subparagraph does not apply to property  that is as-
+sessed under ORS 308.505 to 308.674.
+(B) Property installed on the premises of a  residence and used to generate energy in any
+form, or to store the energy generated, to the extent that the energy is  generated or stored
+for consumption on the premises.
+(3) Notwithstanding ORS 307.110 and 308.505 to 308.674, any portion of the real property to
+which an alternative energy system is affixed is exempt under this section if:
+(a) The real property is otherwise exempt from ad valorem property taxation; and
+(b) The alternative energy system is exempt under this section.
+(4) Property equipped with an alternative energy system is exempt from ad valorem property
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2688
+HB 3823
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+taxation in an amount that equals any positive amount obtained by subtracting the real  market
+value of the property as if it were not equipped  with an alternative energy system from the real
+market value of the property as equipped with the alternative energy system.
+(5) A community solar project is  eligible to claim the exemption granted under this section be-
+ginning on the date on which the electrical inspection for the project is completed and approved.
+(6) A  community solar project that is granted exemption under this section may not be granted
+any other exemption from ad valorem property taxes for the same property tax year.
+(7) A residence equipped with property exempt under subsection (2)(c)(B) of this section
+is exempt from ad valorem  property taxation in an amount that equals any positive amount
+obtained by subtracting the  real market value of the residence as if the exempt property
+were not installed from the real market value of the residence with the  exempt property
+installed.
+SECTION 2.
+The amendments  to ORS 307.175 by section 1 of this 2025 Act apply to
+property tax years beginning on or after July 1, 2026.
+SECTION 3. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

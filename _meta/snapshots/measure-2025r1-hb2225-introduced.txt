@@ -1,0 +1,241 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2225
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Behavioral Health and Health Care for Representative Rob Nosse)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  tells OHA and CCOs to set minimum rates for reimbursing certain health care
+providers. (Flesch Readability Score: 63.6).
+Establishes minimum amounts of reimbursement for primary care, optometry, dental care and
+behavioral health services provided to recipients of medical assistance.
+A BILL FOR AN ACT
+Relating to equitable access to health care services.
+Whereas it is the intent of the Legislative Assembly to  achieve the goals of universal and eq-
+uitable access to an appropriate level of high quality health care for all Oregonians; and
+Whereas the Legislative Assembly finds that current reimbursement rates  in the state medical
+assistance program significantly  reduce access to primary physical and behavioral health services
+for the most vulnerable Oregonians, which perpetuates health inequity; and
+Whereas the Legislative Assembly finds that the  lack of access to primary care, optometry,
+dental care and behavioral health  services limits continuity of care and delays timely treatment,
+leading to inferior health outcomes and increasing health care costs paid by  the people in this state;
+and
+Whereas the Legislative Assembly finds that approximately  33 percent of Oregonians access
+care through the state medical assistance program, which covers nearly half of all births in this
+state; and
+Whereas the Legislative Assembly finds that a robust primary care system for  all Oregonians
+will increase equity,  quality, reliability, availability and continuity of care, leading to improved
+health outcomes and lower costs; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS chapter 414.
+SECTION 2. (1) As used in this section:
+(a) “Behavioral health provider” means a  provider, other than a primary care provider,
+who is licensed under ORS chapter 675 to provide behavioral health services.
+(b) “Behavioral  health services” means mental health or substance use disorder treat-
+ment and services that are provided in a  setting other than a hospital, emergency depart-
+ment or urgent care center.
+(c) “Conversion factor” means the  dollar amount assigned to one unit of the resource-
+based relative value.
+(d) “Dental care provider” means a provider:
+(A) Who is a:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2738
+HB 2225
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(i) Dentist or dental hygienist licensed by the Oregon Board of Dentistry  under ORS
+chapter 679 or 680; or
+(ii) Team of dentists or a dental clinic; and
+(B) Who provides dental care services.
+(e) “Dental care services” means the following services that are provided in  a setting
+other than a hospital, emergency department or urgent care center:
+(A) Comprehensive primary dental care; or
+(B) Basic diagnostic and preventative dental services.
+(f) “Optometrist”  means a provider licensed under ORS chapter 683 to provide optometry
+services.
+(g) “Optometry services” means preventative or routine eye examination  services that
+are provided in a setting other than  a hospital, emergency department or urgent care center.
+(h) “Primary care provider” means a provider:
+(A) Who is a:
+(i) Physician licensed by the Oregon Medical Board under ORS chapter 677; or
+(ii) Nurse  practitioner licensed by the Oregon State Board of Nursing under ORS 678.375
+to 678.390; and
+(B) Whose clinical practice is:
+(i) Family medicine;
+(ii) General internal medicine;
+(iii) Pediatrics;
+(iv) Prenatal and postnatal obstetrics; or
+(v) General psychiatry.
+(i) “Primary care services” means services provided by a  primary care provider in a
+setting other than a hospital, emergency department or urgent care center.
+(j) “Resource-based relative value” means  the weight assigned to a Current Procedural
+Terminology code by the  Centers for Medicare and Medicaid Services under 42 C.F.R. 414.22
+or a weight assigned to  a dental service using a methodology similar to the methodology used
+by the Centers for Medicare and Medicaid Services under 42 C.F.R. 414.22.
+(2)(a) Beginning January 1,  2026, the Oregon Health Authority shall establish the mini-
+mum reimbursement amounts paid to a primary  care provider, optometrist, dental care
+provider or behavioral health provider as follows:
+(A) For primary care services and optometry services, a conversion factor of $85  multi-
+plied by the resource-based relative value unit assigned to the applicable code for the service
+that is published in the most recent Medicare Physician Payment Schedule final rule.
+(B) For dental care services, the greater of:
+(i) A conversion factor of $85 multiplied by the resource-based  relative value unit as-
+signed to the applicable code for the service that is published in the most recent  Medicare
+Physician Payment Schedule final rule, if applicable, or published by the relevant professional
+association of dental providers; or
+(ii) 100 percent of the average health insurer reimbursement rate for the service.
+(C) For behavioral health services, the greater of:
+(i) A conversion factor of $85 multiplied by the resource-based  relative value unit as-
+signed to the applicable code for the service that is published in the most recent  Medicare
+Physician Payment Schedule final rule; or
+[2]
+HB 2225
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+(ii) 150 percent of the average health insurer reimbursement rate for the service.
+(b) For each subsequent calendar year after 2026, the authority shall increase the  mini-
+mum reimbursement amounts under this subsection by 3.4 percent.
+(3) A coordinated care  organization shall reimburse contracted primary care providers,
+optometrists, dental care providers and behavioral health providers the  amounts specified in
+subsection (2) of this section excluding any bonus or  quality incentive payments received by
+the provider. A coordinated care organization may  use alternate payment methodologies if
+the payments are no less than the amounts specified in subsection (2) of this section.
+(4) A coordinated care  organization shall expend the portion of any global budget that is
+allocated for primary  care services, optometry services, dental care services and behavioral
+health services solely on the provision of  primary care services, optometry services, dental
+care services and behavioral health services.
+(5) The authority may not request an increase in General Fund appropriations or in ex-
+penditure limitations to carry out the provisions  of this section but must carry out the
+provisions of this section within the authority’s legislatively approved budget.
+SECTION 3.
+(1) The Oregon  Health Authority shall monitor and review changes in the
+reimbursement amounts paid in accordance with section 2 of this 2025  Act over a four-year
+period and prepare a report on whether the reimbursement amounts paid  for services de-
+scribed in section 2 of this 2025 Act:
+(a) Reduced wait times and increased  access and provider choice for medical assistance
+recipients;
+(b) Increased employment of traditional health workers;
+(c) Improved health outcomes and equity among medical assistance recipients; and
+(d) Reduced costs in  the medical assistance program due to lower utilization of services
+in higher cost categories of services such as hospital or specialty care services.
+(2) The authority shall submit the report prepared in accordance with  subsection (1) of
+this section to  the interim committees of the Legislative Assembly related to health no later
+than December 31, 2031.
+SECTION 4.
+No later than  60 days after the effective date of this 2025 Act, the Oregon
+Health Authority shall seek approval from the Centers for Medicare and Medicaid Services
+to secure federal financial participation in the reimbursement amounts paid  to providers
+under section 2 of this 2025 Act.
+SECTION 5.
+Sections 2 and 3 of this 2025 Act become operative  upon the receipt of ap-
+proval from the Centers for Medicare and Medicaid Services under section 4 of this 2025 Act.
+[3]

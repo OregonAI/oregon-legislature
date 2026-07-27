@@ -1,0 +1,446 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3362
+title: 'HB 3362 (2025R1): Imposes an excise tax on retail sales of tires.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3362
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3362/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 9653c3a9a5ddf7b13953781c8599876b3ad13a178c07c992961c3a27163eb150
+snapshot_id: measure-2025r1-hb3362-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 293.445
+  - ORS 305.220
+  - ORS 305.265
+  - ORS 305.404
+  - ORS 314.400
+  - ORS 314.407
+  - ORS 314.415
+  - ORS 314.425
+  - ORS 315.037
+  - ORS 366.161
+  - ORS 468B.005
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3362
+prefix_meaning: House Bill
+catch_line: Imposes an excise tax on retail sales of tires.
+minority_catch_line: null
+measure_summary: "\tDigest: This Act creates a tax on tires to pay for rail transit, tire pollution and\
+  \ wildlife crossings. (Flesch Readability Score: 80.0). \n\tImposes an excise tax on retail sales of\
+  \ tires. Directs the Department of Revenue to transfer tax revenue to specified funds for purposes related\
+  \ to rail transit, tire pollution prevention and mitigation and wildlife passage infrastructure. \n\t\
+  Establishes the Tire Pollution and Rail Transit Fund. \n\tEstablishes the Wildlife-Vehicle Collision\
+  \ Reduction Fund. \n\tDirects the Department of Transportation to establish a tire pollution prevention\
+  \ and mitigation program. \n\tTakes effect on the 91st day following adjournment sine die."
+relating_to: Relating to a tax on sales of tires; prescribing an effective date; providing for revenue
+  raising that requires approval by a three-fifths majority.
+relating_to_full: Relating to a tax on sales of tires; prescribing an effective date; and providing for
+  revenue raising that requires approval by a three-fifths majority.
+at_the_request_of: null
+lc_number: 633
+measure_created_date: '2025-01-21T15:06:01'
+measure_modified_date: '2025-02-06T13:24:59'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 24329
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 293.445
+  - ORS 305.220
+  - ORS 305.265
+  - ORS 305.404
+  - ORS 314.400
+  - ORS 314.407
+  - ORS 314.415
+  - ORS 314.425
+  - ORS 315.037
+  - ORS 366.161
+  - ORS 468B.005
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3362`.
+
+# HB 3362 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3362, 2025 Regular Session (2025R1)
+- **LC number:** 633
+- **Created:** 2025-01-21T15:06:01
+- **Metadata last modified (upstream):** 2025-02-06T13:24:59
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 24329 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3362/Introduced>.
+
+## Summary
+
+**Catchline:** Imposes an excise tax on retail sales of tires.
+
+**Relating to:** Relating to a tax on sales of tires; prescribing an effective date; providing for revenue raising that requires approval by a three-fifths majority.
+
+Digest: This Act creates a tax on tires to pay for rail transit, tire pollution and wildlife crossings. (Flesch Readability Score: 80.0). 
+ Imposes an excise tax on retail sales of tires. Directs the Department of Revenue to transfer tax revenue to specified funds for purposes related to rail transit, tire pollution prevention and mitigation and wildlife passage infrastructure. 
+ Establishes the Tire Pollution and Rail Transit Fund. 
+ Establishes the Wildlife-Vehicle Collision Reduction Fund. 
+ Directs the Department of Transportation to establish a tire pollution prevention and mitigation program. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to a tax on sales of tires; prescribing an effective date; and providing for revenue raising that requires approval by a three-fifths majority.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3362
+Sponsored by Representative HELM, Senator GORSEK
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act  creates a tax on tires to pay for rail transit, tire pollution and wildlife
+crossings. (Flesch Readability Score: 80.0).
+Imposes an excise tax on retail sales of tires. Directs the  Department of Revenue to transfer tax
+revenue to  specified funds for purposes related to rail transit, tire pollution prevention and miti-
+gation and wildlife passage infrastructure.
+Establishes the Tire Pollution and Rail Transit Fund.
+Establishes the Wildlife-Vehicle Collision Reduction Fund.
+Directs the Department of Transportation to establish a tire pollution prevention  and mitigation
+program.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to  a tax on sales of tires; prescribing an effective date; and providing for revenue raising
+that requires approval by a three-fifths majority.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Definitions. As used in sections 1 to 13 of this 2025 Act:
+(1) “Seller” means a person engaged in  whole or in part in the business of selling taxable
+tires at retail.
+(2) “Taxable  tire” means a new or newly refurbished tire designed for use on a motor
+vehicle for travel on public highways.
+(3) “Tire pollution tax” means the excise tax imposed under section 2 of this 2025 Act.
+SECTION 2.
+Excise tax on retail sale of tires.  (1)(a) An  excise tax is imposed on each sale
+of taxable tires at retail in this state and becomes due upon the sale.
+(b) The excise tax shall be computed at the rate  of four percent of the retail sales price
+of the taxable tire. The tax may be rounded to the nearest whole cent.
+(2) The amount of the excise tax shall  be separately stated on an invoice, receipt or other
+similar document that the seller provides to the purchaser or shall  be otherwise disclosed
+to the purchaser.
+(3) A seller shall collect the excise tax at the time of the taxable sale.
+(4) A purchaser’s liability for the  excise tax is satisfied by a valid receipt given to the
+purchaser by the seller of the taxable tire showing payment of the excise tax.
+SECTION 3.
+Tire pollution tax expenditures in continuous effect.  For purposes of ORS
+315.037, any tax expenditure enacted with respect to the tire pollution tax shall remain  in
+continuous effect until the Legislative Assembly expressly provides otherwise.
+SECTION 4. Refunds for excess payments.  (1) If the amount of the tire pollution tax paid
+by a seller or purchaser exceeds the amount of tax due,  the Department of Revenue shall
+refund the amount of the excess.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 633
+(2) Except as provided in subsection (3) of this  section, the period prescribed for the de-
+partment to allow  or make a refund of any overpayment of tire pollution tax paid shall be
+as provided in ORS 314.415.
+(3) The department shall  apply any overpayment of tax first to any amount of tire pol-
+lution tax that is then outstanding.
+SECTION 5.
+Deposit of revenues.  (1) The Department of Revenue shall deposit all revenue
+collected from the tire pollution  tax in a suspense account established under ORS 293.445 for
+the purpose of receiving the revenue. The department may  pay the actual expenses of the
+department for the administration and enforcement of the  tire pollution tax out of moneys
+received from the  tire pollution tax. Amounts necessary to pay administrative and enforce-
+ment expenses are continuously appropriated to the department from the suspense account.
+(2) After payment of administrative and  enforcement expenses under subsection (1) of
+this section and refunds or credits arising from erroneous overpayments, the  department
+shall transfer the balance of the moneys received from the tire pollution tax as follows:
+(a) Seventy-five percent shall be transferred to the Tire Pollution  and Rail Transit Fund
+established under section 14 of this 2025 Act; and
+(b) Twenty-five  percent shall be transferred to the Wildlife-Vehicle Collision Reduction
+Fund established under section 16 of this 2025 Act.
+SECTION 6. Collection at point of sale.  (1) The tire pollution tax shall be collected at the
+point of sale and remitted by each seller that is liable for the  tire pollution tax computed on
+the basis of such sales. The tire  pollution tax is considered a tax upon the seller that is re-
+quired to collect the tax, and the seller is considered a taxpayer.
+(2) Each seller that is liable for the tire  pollution tax shall file a return with the De-
+partment of Revenue, in the form and manner prescribed by the  department, on or before
+the last day of January, April, July and October  of each year for the previous calendar
+quarter. The return shall show the amount of tire pollution tax due with  respect to sales of
+taxable tires at retail made during the calendar quarter to which the return relates.
+(3) Each seller shall pay the  applicable tire pollution tax to the department in the form
+and manner prescribed by the  department, but not later than the date of submitting each
+quarterly return, without regard to extensions granted under subsection (5) of this section.
+(4) Sellers shall file the returns  required under this section regardless of whether any tax
+is owed.
+(5) The department may extend the time for making any  return required under this
+section if a written request is filed with the department during or prior to  the period for
+which the  extension may be granted. The department may not grant an extension of more
+than 30 days.
+(6) Interest shall be added to delinquent  tax amounts at the rate established under ORS
+305.220 from the  time the return to which the delinquent tax amounts relate was originally
+required to be filed to the time of payment.
+SECTION 7. Liability for tire pollution tax.  (1) Every seller  that collects any amount of
+tire pollution tax shall hold the amount in trust for the State of Oregon and for payment to
+the Department of Revenue in the manner and at the time provided under section 6 of  this
+2025 Act.
+(2) If a seller  that is liable for the tire pollution tax fails to remit any amount of the tax,
+whether collected or not, the department  may enforce collection by the issuance of a
+distraint warrant for the collection of the delinquent amount and all penalties,  interest and
+collection charges accrued on the delinquent amount.  The warrant shall be issued and pro-
+ceeded upon in the same manner and shall have the same  force and effect as is prescribed
+with respect to warrants for the collection of delinquent income taxes.
+(3)(a) In the  case of a seller that is assessed under the provisions of ORS 305.265 (12) and
+314.407 (1), the department may issue a notice of liability to any officer,  employee or member
+of the seller at any time within three years  after the assessment. Within 30 days after the
+date on which the notice of liability is mailed  to the officer, employee or member, the officer,
+employee or member shall pay the assessment, plus  penalties and interest, or advise the
+department in writing of objections to the liability and, if desired,  request a conference. A
+conference shall be governed  by the provisions of ORS 305.265 pertaining to a conference
+requested from a notice of deficiency.
+(b) After  a conference or, if no conference is requested, a determination of the issues
+raised in the written objections, the department shall  mail the officer, employee or member
+a conference letter affirming, canceling or adjusting the notice of liability. Within 90 days
+after the date on which the conference  letter is mailed to the officer, employee or member,
+the officer, employee or member shall  pay the assessment, plus penalties and interest, or
+appeal to the tax court in the manner provided for an appeal from a notice of assessment.
+(c) If the department does not receive  payment or written objection to the notice of li-
+ability within 30 days after the notice of liability was mailed, the notice of liability  becomes
+final. The officer, employee or member may appeal the notice of liability  to the tax court
+within 90 days after the notice becomes final in the manner provided for an appeal from a
+notice of assessment.
+(4)(a) In the case of a seller that fails to file a return by the  due date, in addition to any
+action described in the provisions of ORS 305.265 (10) and 314.400, the department  may issue
+a notice of determination and assessment to any officer,  employee or member of the seller
+at any time within three years after the assessment.  The time of assessment against the
+officer, employee or member is 30 days after the date on which the notice of  determination
+and assessment is mailed. Within 30 days  after the date on which the notice of determination
+and assessment is mailed to the officer, employee or member, the officer, employee  or
+member shall pay the assessment, plus penalties and interest, or advise the department in
+writing of objections  to the assessment and, if desired, request a conference. A conference
+shall be governed by the provisions of ORS 305.265 pertaining to a conference  requested from
+a notice of deficiency.
+(b) After  a conference or, if no conference is requested, a determination of the issues
+raised in the written objections, the department shall  mail the officer, employee or member
+a conference letter affirming, canceling or adjusting the notice of determination and assess-
+ment. Within 90 days after the date on which the conference letter is  mailed to the officer,
+employee or member,  the officer, employee or member shall pay the assessment, plus pen-
+alties and interest, or appeal  to the tax court in the manner provided for an appeal from a
+notice of assessment.
+(c) If the department does not receive  payment or written objection to the notice of de-
+termination and assessment within 30 days after the notice of determination and assessment
+was mailed, the notice of determination and assessment becomes final. The officer, employee
+or member may appeal the notice  of determination and assessment to the tax court within
+90 days after the notice became final in the manner  provided for an appeal from a notice of
+assessment.
+(5)(a) More than one officer or employee of a corporation may be  held jointly and se-
+verally liable for payment of the tire pollution tax.
+(b) Notwithstanding the confidentiality provisions of section 12  of this 2025 Act, if the
+department determines that more  than one officer or employee of a corporation may be held
+jointly and severally liable for payment of tire  pollution taxes, the department may require
+any or all of the  officers or employees to appear before the department for a joint determi-
+nation of liability. The department shall notify each officer or  employee of the time and place
+set for the determination of liability.
+(c) Each individual notified of a  joint determination under this subsection must appear
+and present such information as is  necessary to establish the individual’s liability or nonli-
+ability for payment of the taxes to the department. If an individual who was notified fails  to
+appear, the department shall make  the determination on the basis of all the information and
+evidence presented. The department’s  determination is binding on all individuals notified and
+required to appear under this subsection.
+(d)(A) If any individual determined to be liable  for unpaid tire pollution taxes under this
+subsection appeals the determination to  the Oregon Tax Court under section 11 of this 2025
+Act, the individual plaintiff shall  implead all individuals required to appear with the plaintiff
+before the department  under this subsection. The department may implead any officer or
+employee who may be held jointly and severally liable for the payment of the  unpaid tire
+pollution taxes. Each individual impleaded under this  paragraph shall be made a party to the
+action before the tax court and shall make available to the tax court the information  that
+was presented before the department, as well as other information that may  be presented
+to the tax court.
+(B) The tax court may determine  that one or more individuals impleaded under this
+paragraph are liable for unpaid tire pollution taxes without regard to any earlier determi-
+nation by the department that an impleaded individual was not liable for the unpaid taxes.
+(C) If an  individual required to appear before the tax court under this subsection fails
+or refuses to appear  or bring such information, in part or in whole, as is necessary to es-
+tablish the individual’s liability or nonliability for payment of the taxes to  the department,
+or is outside the jurisdiction of the tax court, the tax court shall make its  determination on
+the basis of all  the evidence introduced. Notwithstanding section 12 of this 2025 Act, the ev-
+idence introduced in the tax court constitutes a public record and shall be available to the
+parties and the tax court. The determination of the tax court is binding on  all individuals
+made parties to the action under this subsection.
+(e) This subsection may not be construed  to preclude a determination by the department
+or the tax  court that more than one officer or employee is jointly and severally liable for
+unpaid tire pollution taxes.
+SECTION 8.
+When purchaser  required to remit tax.  Any purchaser liable for the tire
+pollution tax and from whom the tax has not been collected shall, on or  before the 30th day
+following the date on which the tax became due, file with the Department of Revenue a re-
+port of the amount of  tire pollution tax due from the purchaser in a form and manner pre-
+scribed by the department. The  purchaser shall remit the amount of the tire pollution tax
+due with the report.
+SECTION 9.
+Sellers required to keep  records.  (1)(a) A seller that is liable for the tire
+pollution tax shall keep receipts, invoices and other pertinent records related  to sales of
+taxable tires at retail in the form required by  the Department of Revenue. Each record shall
+be preserved for five years from the time to which the record relates.
+(b) During the record retention period and at any time prior to the destruction  of re-
+cords, the department may give written notice to the  seller not to destroy records described
+in the notice without written permission of the department.
+(c) Notwithstanding any other provision of law, the department  shall preserve reports
+and returns filed with the department for at least five years.
+(2) ORS 314.425 applies to the authority of the department to examine, or  cause to be
+examined by an agent or representative designated  by the department for the purpose, any
+books, papers, records or memoranda bearing upon the matter  required to be included in any
+return required under sections 1 to 13 of this 2025 Act for the purpose of ascertaining  the
+correctness of the return or for the purpose of making an estimate of the  sales of taxable
+tires at retail by the taxpayer.
+SECTION 10. Subpoena authority of Department of Revenue.  (1) The Department  of Re-
+venue may require, by order or subpoena to be served with the same force  and effect and in
+the same manner as a subpoena is served  in a civil action in the circuit court or the Oregon
+Tax Court, the production, at any time and place that the department designates, of any
+books, papers, accounts or other information  necessary to carry out sections 1 to 13 of this
+2025 Act. The department may require the attendance of any individual having knowledge  in
+the premises, and  may take testimony and require proof material for the information, with
+power to administer oaths to the individual.
+(2)(a) If an individual fails to comply with  a subpoena or order of the department or to
+produce or permit the  examination or inspection of any books, papers, records and equip-
+ment pertinent to an investigation or inquiry  under sections 1 to 13 of this 2025 Act, or to
+testify to any matter regarding  which the individual is lawfully interrogated, the department
+may apply to the Oregon Tax Court or to the circuit court of the county in which  the indi-
+vidual resides or where the individual is for an order to the individual to attend and testify
+or otherwise comply with the demand or request of the department.
+(b) The department shall apply to the court by ex parte  motion, upon which the court
+shall make an order requiring the individual against whom the motion  is directed to comply
+with the request or demand of the department within 10 days after the service of the order,
+or within the additional time granted by the court, or to  justify the failure within that time.
+The order shall  be served upon the individual to whom it is directed in the manner required
+by this state for service of process, which is required to confer jurisdiction upon the court.
+(3) Failure to obey any order issued by the court under this section is contempt of court.
+(4) The remedy provided by this section is in addition  to other remedies, civil or criminal,
+existing under the tax laws or other laws of this state.
+SECTION 11.
+Appeal. Except as otherwise provided in sections 1 to 13 of this 2025 Act,
+a person aggrieved by an act or determination of  the Department of Revenue or its author-
+ized agent under sections 1 to 13 of this 2025 Act may appeal, within 90 days after the act
+or determination, to the Oregon Tax Court in the manner provided in ORS 305.404 to 305.560.
+These appeal rights are the  exclusive remedy available to determine the person’s liability for
+the tire pollution tax.
+SECTION 12.
+Applicability of other provisions of tax law. Except as otherwise provided
+in sections 1 to 13 of this 2025 Act or where  the context requires otherwise, the provisions
+of ORS chapters 305 and 314  as to the audit and examination of returns, periods of limitation,
+determinations of and  notices of deficiencies, assessments, collections, liens, delinquencies,
+claims for  refund and refunds, conferences, appeals to the Oregon Tax Court, stays of col-
+lection pending appeal, confidentiality of returns  and the related penalties, and the related
+procedures, apply to the determinations of taxes, penalties and interest under sections  1 to
+13 of this 2025 Act.
+SECTION 13. Enforcement and rules.  (1) The  Department of Revenue shall administer
+and enforce sections 1 to 13 of this 2025 Act.
+(2) The department may adopt or establish rules and procedures  that the department
+considers necessary or convenient for the implementation, administration  and enforcement
+of sections 1 to 13 of this 2025 Act and that are consistent with sections  1 to 13 of this 2025
+Act.
+SECTION 14. The Tire Pollution and Rail Transit Fund established.  (1) The Tire Pollution
+and Rail Transit Fund  is established in the State Treasury, separate and distinct from the
+General Fund. Interest earned by the Tire Pollution  and Rail Transit Fund shall be credited
+to the fund.
+(2) The Tire Pollution and Rail Transit Fund shall consist of:
+(a) Amounts deposited in the fund by the Department of Revenue  under section 5 of this
+2025 Act;
+(b) Amounts appropriated  or otherwise transferred to the fund by the Legislative As-
+sembly; and
+(c) Other amounts deposited in the fund from any other source.
+(3) Moneys in the Tire Pollution and  Rail Transit Fund are continuously appropriated to
+the Department of Transportation for the purposes of:
+(a) Carrying out programs or projects to support public transportation by rail or  other
+forms of public transportation in this state; and
+(b) Carrying out the tire pollution prevention and mitigation program described in section
+15 of this 2025 Act.
+(4)(a) The Department of Transportation shall allocate moneys in the fund as follows:
+(A) Two-thirds shall be allocated to the purposes  described in subsection (3)(a) of this
+section; and
+(B) One-third shall be allocated to the  purpose described in subsection (3)(b) of this sec-
+tion.
+(b) Notwithstanding paragraph (a) of this subsection, the department may establish by
+rule an allocation for  the purpose described in subsection (3)(b) of this section that is less
+than one-third if the department determines that the resulting  allocation will be sufficient
+to operate the program established under section 15 of this 2025 Act.
+SECTION 15.
+Tire pollution prevention and mitigation.  (1) As used in this section:
+(a) “Tire pollutant” means any substance  or particle derived from a motor vehicle tire
+that causes or tends to cause water pollution.
+(b) “Water pollution” has the meaning given that term in ORS 468B.005.
+(c) “Waters of the state” has the meaning given that term in ORS 468B.005.
+(2) The Department  of Transportation, in consultation with the Department of Environ-
+mental Quality and the State Department of Fish and Wildlife, shall establish a program  to
+prevent and mitigate water pollution that results from the use of  tires on motor vehicles on
+public highways in this state.
+(3) The program  shall include, but need not be limited to, projects carried out or con-
+tracted for by the department to:
+(a) Prevent tire pollutants found in storm water runoff from entering the  waters of the
+state; and
+(b) Mitigate the effects of tire pollutants on salmon and other fish and aquatic species.
+(4) The program may include grants or other forms of financial  assistance to carry out
+projects described in subsection  (3) of this section that meet criteria established by the de-
+partment by rule.
+SECTION 16.
+Wildlife-Vehicle Collision Reduction Fund.  (1) The Wildlife-Vehicle Collision
+Reduction Fund is established in the State Treasury, separate and distinct  from the General
+Fund. Interest earned by the Wildlife-Vehicle Collision Reduction Fund shall be  credited to
+the fund.
+(2) The Wildlife-Vehicle Collision Reduction Fund shall consist of:
+(a) Amounts deposited in the fund by the Department of Revenue  under section 5 of this
+2025 Act;
+(b) Amounts appropriated or otherwise transferred to the fund by the  Legislative As-
+sembly; and
+(c) Other amounts deposited in the fund from any other source.
+(3) Moneys in the  Wildlife-Vehicle Collision Reduction Fund are continuously appropri-
+ated to the Department of Transportation for the purposes of:
+(a) Carrying out the program established under ORS 366.161; and
+(b) Funding projects that reduce  the number of wildlife injured or killed by vehicles and
+improve habitat connectivity  for wildlife, including, but not limited to, projects carried out
+by the State Department of Fish and Wildlife.
+SECTION 17.
+Applicability date. Sections 1  to 13 of this 2025 Act apply to sales of taxable
+tires at retail that occur on or after January 1, 2026.
+SECTION 18. Section captions.  The section captions  used in this 2025 Act are provided
+only for the convenience of the reader  and do not become part of the statutory law of this
+state or express any legislative intent in the enactment of this 2025 Act.
+SECTION 19. Effective date.  This 2025 Act takes effect on the 91st day after the date on
+which the 2025 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 293.445, ORS 305.220, ORS 305.265, ORS 305.404, ORS 314.400, ORS 314.407, ORS 314.415, ORS 314.425, ORS 315.037, ORS 366.161, ORS 468B.005
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `9653c3a9a5ddf7b13953781c8599876b3ad13a178c07c992961c3a27163eb150` (snapshot `_meta/snapshots/measure-2025r1-hb3362-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3362/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3362` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+
