@@ -1,16 +1,17 @@
 # Oregon Legislature — Measures, History, and Sessions (OData)
 
-> Non-authoritative, AI-friendly description of the Oregon Legislature's
-> public OData API (bills/measures, procedural history, session calendar).
-> This corpus does NOT mirror live legislative records — it documents the
-> API's shape. Always fetch the live source linked in each entity doc for a
-> current answer.
+> Non-authoritative, AI-friendly mirror + description of the Oregon
+> Legislature's public OData API (bills/measures, procedural history,
+> session calendar). Measure metadata and bill text ARE mirrored under
+> `measures/` (search reaches them); current status/history/votes are NOT —
+> always fetch the live source linked in each document for those.
 
 ## Start here
 
 - [AGENTS.md](AGENTS.md): rules for AI agents working in this corpus,
-  including what this corpus is NOT (read before assuming "search" reaches
-  live bill data — it does not, yet)
+  including what this corpus is/is not (read before assuming "search"
+  reaches live bill STATUS — it does not, yet; it does reach mirrored
+  measure text)
 - [STATUS.md](STATUS.md): freshness, coverage, and drift at a glance
 
 ## Contents
@@ -25,6 +26,10 @@
 - [entities/legislative-sessions.md](entities/legislative-sessions.md): the
   `LegislativeSessions` entity — the session calendar every measure is
   scoped under; 7 fields; key `SessionKey`.
+- [measures/_index.md](measures/_index.md): mirrored measures by session —
+  today, a 20-measure proof slice of 2025R1 (HB 2001–2020), not the full
+  session. Written by `src/ingest_measures.py`; see
+  `_meta/catalog/measures.yml` for per-measure status.
 - [cookbook/README.md](cookbook/README.md): placeholder — no cookbook
   entries exist yet (see that file for why).
 
@@ -32,5 +37,8 @@
 
 No live-record retrieval (`src/odata_backend.py`), no citation parsing for
 measure ids like "HB 2049" (`src/citations.py`), no `query_dataset` /
-`measure_history` tools, no cross-corpus ORS links, no cookbook entries, no
-schema-drift automation. See README.md "Current build status".
+`measure_history` tools, no cross-corpus ORS resolution, no cookbook entries,
+no schema-drift automation, and no full-session measure mirror (only a
+20-measure proof slice of 2025R1 exists — a full run is a human-operator
+decision, ~1.7h at the mandated concurrency cap). See README.md "Current
+build status".
