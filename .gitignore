@@ -1,0 +1,4 @@
+.obsidian/
+__pycache__/
+.venv/
+_meta/.cache/

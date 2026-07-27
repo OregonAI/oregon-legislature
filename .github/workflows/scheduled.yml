@@ -1,0 +1,23 @@
+name: scheduled
+on:
+  schedule:
+    - cron: "0 14 * * 1"      # weekly Monday
+  workflow_dispatch:
+
+jobs:
+  # `corpus-detect-changes` (corpus_toolkit/sources/changes.py) only knows how
+  # to re-fetch a plain URL and diff its content hash — it has no per-entity
+  # $metadata/live_schema_hash comparison logic (that is real, unbuilt step-8
+  # work; see cookbook/README.md and AGENTS.md). What it WILL usefully do
+  # today: re-fetch the one $metadata source registered in
+  # _meta/source-manifest.yml and flag if ITS raw bytes changed at all — a
+  # coarse, whole-document "something in the schema moved, go look" signal,
+  # not a precise per-entity diff. See source-manifest.yml's own comment for
+  # why that hash is raw-byte-level rather than field-level.
+  drift:
+    permissions:
+      contents: write
+      issues: write
+    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.2.0
+    with:
+      toolkit-ref: v1.2.0

@@ -1,0 +1,123 @@
+# Corpus configuration — the single source of truth the toolkit reads.
+#
+# Instantiated from corpus-template per PHASE5-MCP-SPEC.md step 3. This is an
+# API-archetype corpus: unlike document/hybrid corpora, most of what an agent
+# ultimately wants (a measure's status, its vote history) is NOT a file in this
+# repo — it is the Oregon Legislature's live OData feed, to be proxied per-call
+# once src/odata_backend.py exists (step 4). See PHASE5-MCP-SPEC.md §5.1: this
+# repo's files describe the API rather than mirror its records.
+#
+# Step 3 (this build) ships ONLY documentation: entity docs + a cookbook stub.
+# No backend, no adapter, no citation module — those are steps 4/5. Until
+# plugins.retrieval_module is set, this corpus has no live-record path at all;
+# only entities/*.md (and later cookbook/*.md) are servable, through the
+# unmodified FileBackend `search_corpus`/`get_document` path.
+corpus:
+  id: "oregon-legislature"
+  name: "Oregon Legislature — Measures, History, and Sessions (OData)"
+  jurisdiction: "oregon"
+  archetype: "api"
+  schema_version: 1
+  contract_version: 1
+
+# entities/ is a real content root today: 3 entity docs, one per OData entity
+# set covered so far (Measures, MeasureHistoryActions, LegislativeSessions),
+# doc_type "entity_doc" per corpus_toolkit's generalized frontmatter schema
+# (schemas/document.frontmatter.v1.schema.json, shipped since v1.2.0) — see
+# docs/provenance-schema-v1.md "Archetype notes": API corpora use doc_type:
+# entity_doc, one file per entity, with `retrieved`/`source_sha256` replaced
+# by `last_verified` + `live_schema_hash` checked against the live schema.
+#
+# cookbook/ is deliberately NOT a content root yet. It holds exactly one plain
+# (non-frontmattered, unindexed) README explaining what will live there. A real
+# cookbook entry must be a REAL executed query with its REAL measured shape
+# (see cookbook/README.md) — none has been run yet, so none exists. Add this
+# root, and decide the doc_type entries should carry (dataset_doc? a new
+# "cookbook_entry"?), when step 8 actually writes entries — not before.
+content_roots:
+  - path: "entities"
+    doc_type: "entity_doc"
+  # - path: "cookbook"
+  #   doc_type: "???"        # step 8 decision — see cookbook/README.md
+
+plugins:
+  # citation_module: "src.citations"                  # step 5 (R6): register_scheme
+  #   for "HB 2049" / "SB 12" / measure ids, with ask-or-default session inference.
+  #   Not written — step 3 is documentation only, no Python.
+  # retrieval_module: "src.odata_backend:ODataBackend"  # step 4: the RetrievalBackend
+  #   implementation over the live OData feed. Absent today; get_document("measure:*")
+  #   has nowhere to route yet, by design (see get_document note above).
+  extra_schema_checks: []
+
+disclaimer_marker: "NON-AUTHORITATIVE"
+graph_path: "_meta/graph.json"                # absent until this corpus has relationships
+                                               # worth graphing (step 7+); tools that read
+                                               # it (graph_neighbors, authority_chain) are
+                                               # NOT OFFERED for this archetype anyway —
+                                               # PHASE5-MCP-SPEC.md §5.4.
+source_manifest_path: "_meta/source-manifest.yml"
+snapshot_dir: "_meta/snapshots"
+
+provenance:
+  coverage_fail_threshold: 0.70
+  coverage_warn_threshold: 0.90
+
+# api/hybrid only. Every value below is a MEASURED fact, either probed in
+# PHASE5-MCP-SPEC.md §2 (2026-07-26) or re-confirmed against this build's own
+# `$metadata`/entity fetches (also 2026-07-26, see entities/*.md "Verification"
+# sections for the exact calls). Nothing here is invented; fields this build did
+# NOT decide (session-inference default, request timeout, cache TTL, concurrency
+# cap) are omitted rather than guessed — those are step 4/5 design decisions.
+api:
+  endpoints:
+    - name: "oregon-legislature-odata"
+      base_url: "https://api.oregonlegislature.gov/odata/odataservice.svc/"
+      protocol: odata
+      protocol_version: "v3"        # measured: JSON payloads carry `odata.metadata`
+                                     # and use `$inlinecount` (v3 count syntax, not v4's
+                                     # `$count`); error bodies name
+                                     # Microsoft.Data.OData.ODataContentTypeException.
+      read_only: true
+      auth: none                    # measured: no auth required for any call made
+      entity_sets: 20                # measured from EntityContainer in $metadata, 2026-07-26
+      metadata_content_type: "xml only"   # measured 2026-07-26: `$metadata` with
+                                     # `Accept: application/json` returns HTTP 415
+                                     # ("Unsupported media type requested" —
+                                     # Microsoft.Data.OData.ODataContentTypeException);
+                                     # the default (no explicit Accept, or Accept: xml)
+                                     # returns HTTP 200 with the EDMX/CSDL document.
+                                     # Every other endpoint tested DOES honor
+                                     # Accept: application/json.
+      server_side_paging: false     # measured (PHASE5-MCP-SPEC.md §2): $top=2000
+                                     # returned 2000 rows with no nextLink. The client
+                                     # must impose any cap; the server will not.
+      measured_latency:
+        single_record_s: "~5.4-15"  # measured 2026-07-26 (this build's own 3 record
+                                     # calls, each $top<=3 to $top=5): 15.1-15.4s each,
+                                     # at the high end of PHASE5-MCP-SPEC.md's probed
+                                     # range (~5.4s median, ~15s/500 records). One
+                                     # sample session is not enough to say whether that
+                                     # reflects filtered-query overhead, server load
+                                     # variance, or this environment's network path —
+                                     # noted as observed, not reconciled with the spec's
+                                     # figure.
+      # result_cap / default_session / timeout_s / cache_ttl_s: NOT SET. These are
+      # step 4/5 policy decisions (guardrails in PHASE5-MCP-SPEC.md §7), not measured
+      # facts, and this build does not invent them.
+
+mcp:
+  server_name: "oregon-legislature"
+  transports: [stdio, http]
+
+status:
+  reverify_days: 90                  # generic SLA field; the entity-doc-specific
+                                      # cadence is the weekly schema-drift job
+                                      # (scheduled.yml), not this quarterly default.
+
+# Cross-corpus resolution (PHASE5-MCP-SPEC.md §5.5: legislature -> policy repo ORS
+# links) is step 7 work. No `siblings:` block yet — adding one before the citation
+# module that would use it (step 5) is premature and untestable.
+# siblings:
+#   - id: oregon-policy-repo
+#     index_url: "https://<pages-url>/corpus-index.json"
+#     web_base: "https://github.com/<org>/oregon-policy-repo/blob/main/"
