@@ -1,0 +1,315 @@
+#!/usr/bin/env python3
+"""What a bill SAYS it touches vs what its text actually cites.
+
+Every measure here carries ORS citations found two ways: parsed from `RelatingToFull` (the
+Legislature's own one-line "Relating to …; amending ORS …" summary) and extracted from the
+full bill text this corpus mirrors. They disagree enormously, and the disagreement is
+one-directional — the summary field is very nearly a strict SUBSET of the text.
+
+That is the measured justification for mirroring bill text at all, and it corrects this
+project's own documentation: PHASE5-MCP-SPEC.md §2.2 puts the bill→statute edge at 14% from
+a 500-measure sample taken BEFORE bill text was mirrored. Against the full corpus it is 84%.
+
+  python3 src/build_measure_citations.py           # -> viz/bill-statute-citations.html
+  python3 src/build_measure_citations.py --check   # exit 1 if stale (CI)
+
+WORDING IS LOAD-BEARING. These are regex candidates over whole bill PDFs, including
+boilerplate cross-references — NOT an amend list. Every measure file labels them "Candidate
+ORS citations (not a finding)". This page says "referenced in bill text" and must never say
+"amended", which would claim something the data does not support.
+"""
+import json
+import sys
+from pathlib import Path
+
+import yaml
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+CATALOG = REPO_ROOT / "_meta/catalog/measures.yml"
+OUT = REPO_ROOT / "viz/bill-statute-citations.html"
+
+# Oregon's constitution caps even-year sessions at 35 days and odd-year at 160.
+SESSION_META = {
+    "2024R1": ("2024 Regular Session", "short · 35-day"),
+    "2025R1": ("2025 Regular Session", "long · 160-day"),
+}
+
+
+def build_data() -> dict:
+    """Read the per-measure catalog rather than 3,757 markdown files — it already carries
+    both citation counts, so the build stays fast and depends on one small artifact."""
+    cat = yaml.safe_load(CATALOG.read_text())
+    sessions = []
+    for key in sorted(cat, reverse=True):                 # newest session first
+        measures = cat[key].get("measures", {}) or {}
+        both = text_only = summary_only = neither = 0
+        cites_text = cites_summary = 0
+        for m in measures.values():
+            r = m.get("candidate_ors_relating_to_full") or 0
+            t = m.get("candidate_ors_bill_text") or 0
+            cites_text += t
+            cites_summary += r
+            if r and t:
+                both += 1
+            elif t:
+                text_only += 1
+            elif r:
+                summary_only += 1
+            else:
+                neither += 1
+        n = len(measures)
+        name, kind = SESSION_META.get(key, (key, ""))
+        sessions.append({
+            "key": key, "name": name, "kind": kind, "n": n,
+            # Order is the stacking order, left to right: context, context, the finding.
+            "segments": [
+                {"k": "neither", "label": "No ORS citation found", "v": neither},
+                {"k": "both", "label": "In the summary and the text", "v": both},
+                {"k": "textonly", "label": "Only in the bill text", "v": text_only},
+            ],
+            "summary_only": summary_only,
+            "cites_text": cites_text, "cites_summary": cites_summary,
+            "pct_text": round(100 * (both + text_only) / n, 1) if n else 0,
+            "pct_summary": round(100 * (both + summary_only) / n, 1) if n else 0,
+            "ratio": round(cites_text / cites_summary, 1) if cites_summary else None,
+        })
+
+    head = sessions[0]
+    return {
+        "sessions": sessions,
+        "kpi": [
+            {"v": f"{head['pct_text']:.0f}%", "l": "of measures cite ORS in their text",
+             "s": f"{head['name']} — {head['cites_text']:,} citations"},
+            {"v": f"{head['pct_summary']:.0f}%", "l": "say so in the summary field",
+             "s": f"only {head['cites_summary']:,} citations appear there"},
+            {"v": f"{head['ratio']}×", "l": "more citations in the text",
+             "s": "than the summary field accounts for"},
+        ],
+        "note": ("Candidate ORS citations extracted from mirrored bill text and from the "
+                 "measure's RelatingToFull summary. These are references found in the "
+                 "document, not an amend list — a bill may cite a statute without changing "
+                 "it. Non-authoritative; verify against the official text."),
+    }
+
+
+def build_html(data: dict) -> str:
+    return TEMPLATE.replace("/*DATA*/", json.dumps(data, ensure_ascii=False,
+                                                   separators=(",", ":")))
+
+
+def outputs():
+    return {OUT: build_html(build_data())}
+
+
+def main():
+    outs = outputs()
+    if "--check" in sys.argv:
+        stale = [p for p, t in outs.items() if not p.exists() or p.read_text() != t]
+        if stale:
+            print(f"{OUT.relative_to(REPO_ROOT)} is stale — run: "
+                  f"python3 src/build_measure_citations.py")
+            sys.exit(1)
+        print("bill-statute-citations.html is current.")
+        return
+    for p, t in outs.items():
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_text(t, encoding="utf-8")
+    d = build_data()
+    for s in d["sessions"]:
+        print(f"  {s['key']}: {s['n']:,} measures · {s['pct_text']}% cite ORS in text "
+              f"({s['cites_text']:,} citations) vs {s['pct_summary']}% in summary")
+    print(f"wrote {OUT.relative_to(REPO_ROOT)}")
+
+
+# Palette: two-step single-hue blue ramp for the data, plus a de-emphasis gray for "no
+# citation" (a furniture role, not a ramp step — mixing it into the ramp fails the
+# single-hue check at 154° spread). Validated with the dataviz skill's validate_palette.js:
+#   light  #86b6ef,#184f95 --mode light --ordinal            -> ALL CHECKS PASS
+#   dark   #256abf,#86b6ef --mode dark --surface #1a1a19     -> ALL CHECKS PASS
+# Accent = the darkest step on light, the lightest on dark: in both cases the most
+# prominent against its own surface, which is what emphasis needs.
+TEMPLATE = r"""<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Oregon bills — statutes said vs statutes cited</title>
+<meta name="description" content="Oregon measures cite far more statutes in their text than their summary field reports. Non-authoritative.">
+<style>
+  :root{
+    --bg:#f6f7f9; --surface:#fcfcfb; --ink:#0b0b0b; --muted:#52514e; --line:#e4e8ee;
+    --gold:#8a6d1f; --shadow:0 1px 3px rgba(20,25,40,.09);
+    --seg-neither:#b4b3a9; --seg-both:#86b6ef; --seg-textonly:#184f95;
+    --on-accent:#ffffff; --on-both:#0b0b0b; --on-neither:#0b0b0b;
+  }
+  @media (prefers-color-scheme:dark){:root{
+    --bg:#0e1116; --surface:#1a1a19; --ink:#ffffff; --muted:#c3c2b7; --line:#232a33;
+    --gold:#d9b45a; --shadow:0 1px 3px rgba(0,0,0,.5);
+    --seg-neither:#57564f; --seg-both:#256abf; --seg-textonly:#86b6ef;
+    --on-accent:#0b0b0b; --on-both:#ffffff; --on-neither:#ffffff;
+  }}
+  :root[data-theme=light]{--bg:#f6f7f9;--surface:#fcfcfb;--ink:#0b0b0b;--muted:#52514e;--line:#e4e8ee;--gold:#8a6d1f;
+    --seg-neither:#b4b3a9;--seg-both:#86b6ef;--seg-textonly:#184f95;--on-accent:#fff;--on-both:#0b0b0b;--on-neither:#0b0b0b}
+  :root[data-theme=dark]{--bg:#0e1116;--surface:#1a1a19;--ink:#fff;--muted:#c3c2b7;--line:#232a33;--gold:#d9b45a;
+    --seg-neither:#57564f;--seg-both:#256abf;--seg-textonly:#86b6ef;--on-accent:#0b0b0b;--on-both:#fff;--on-neither:#fff}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  .disc{background:var(--gold);color:#1a1400;font-size:13px;text-align:center;padding:7px 14px;font-weight:600}
+  .wrap{max-width:940px;margin:0 auto;padding:0 22px 64px}
+  header{padding:40px 0 18px}
+  .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:12px;color:var(--muted);font-weight:700;margin-bottom:12px}
+  h1{font-size:clamp(26px,4.4vw,40px);line-height:1.1;margin:0 0 14px;letter-spacing:-.02em;font-weight:800;text-wrap:balance}
+  .lede{font-size:18px;color:var(--muted);max-width:66ch;margin:0}
+  .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px;margin:28px 0 10px}
+  .kpi{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px 20px;box-shadow:var(--shadow)}
+  .kpi .v{font-size:38px;font-weight:800;letter-spacing:-.02em;font-variant-numeric:tabular-nums;line-height:1}
+  .kpi .l{font-weight:650;margin-top:6px;font-size:14.5px}
+  .kpi .s{color:var(--muted);font-size:13px;margin-top:3px}
+  figure{margin:26px 0 0;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:22px;box-shadow:var(--shadow)}
+  figcaption{color:var(--muted);font-size:13.5px;margin-top:16px;line-height:1.5}
+  h2{font-size:14px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);margin:0 0 4px;font-weight:700}
+  .sess{margin:22px 0 0}
+  .sess .hd{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin-bottom:7px;flex-wrap:wrap}
+  .sess .nm{font-weight:700}
+  .sess .kind{color:var(--muted);font-size:13px;font-weight:600}
+  .bar{display:flex;width:100%;height:46px;border-radius:8px;overflow:hidden;background:var(--surface)}
+  /* The 2px separator is a BORDER, not flex `gap`. With gap, three flex:0 0 X% segments
+     summing to 100% plus two 2px gaps overflow the bar by 4px, and overflow:hidden then
+     silently clips the last segment's rounded corner. A border is inside the segment's own
+     box (box-sizing:border-box), so the row still totals exactly 100%. */
+  .seg{position:relative;display:flex;align-items:center;justify-content:center;min-width:2px;
+    border-right:2px solid var(--surface);
+    font-size:13px;font-weight:700;font-variant-numeric:tabular-nums;cursor:default;transition:filter .12s}
+  .seg:last-child{border-right:0}
+  .seg:hover{filter:brightness(1.08)}
+  .seg:first-child{border-radius:8px 0 0 8px}.seg:last-child{border-radius:0 8px 8px 0}
+  .seg.neither{background:var(--seg-neither);color:var(--on-neither)}
+  .seg.both{background:var(--seg-both);color:var(--on-both)}
+  .seg.textonly{background:var(--seg-textonly);color:var(--on-accent)}
+  .legend{display:flex;flex-wrap:wrap;gap:16px;margin:18px 0 0;font-size:13.5px;color:var(--muted)}
+  .legend span{display:inline-flex;align-items:center;gap:7px}
+  .sw{width:13px;height:13px;border-radius:3px;flex:0 0 auto}
+  .tip{position:fixed;pointer-events:none;opacity:0;transition:opacity .1s;background:var(--ink);color:var(--bg);
+    padding:7px 10px;border-radius:8px;font-size:12.5px;line-height:1.45;z-index:9;max-width:260px;box-shadow:var(--shadow)}
+  .tools{display:flex;gap:10px;margin-top:18px}
+  button{font:inherit;font-size:13.5px;font-weight:650;padding:7px 13px;border-radius:9px;
+    border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+  table{border-collapse:collapse;width:100%;margin-top:14px;font-size:13.5px;font-variant-numeric:tabular-nums}
+  th,td{text-align:right;padding:7px 9px;border-bottom:1px solid var(--line)}
+  th:first-child,td:first-child{text-align:left}
+  th{color:var(--muted);font-weight:650}
+  #tablewrap[hidden]{display:none}
+  #theme{position:fixed;top:12px;right:12px;width:36px;height:36px;border-radius:10px;border:1px solid var(--line);
+    background:var(--surface);color:var(--ink);cursor:pointer;font-size:16px;z-index:5;box-shadow:var(--shadow)}
+  footer{color:var(--muted);font-size:13px;margin-top:26px}
+  @media (max-width:560px){.bar{height:58px}.seg{font-size:12px}}
+</style>
+</head><body>
+<button id="theme" title="Toggle light/dark" aria-label="Toggle theme">◑</button>
+<div class="disc">NON-AUTHORITATIVE reference — not the official text of Oregon law. Always verify against each measure's cited source.</div>
+<div class="wrap">
+<header>
+  <div class="eyebrow">Oregon Legislature · mirrored measures</div>
+  <h1>Bills cite far more statutes than they say they do</h1>
+  <p class="lede">Every measure carries a one-line summary of what it relates to. Comparing
+    that summary against the bill's own text shows the summary catches a minority of the
+    statutes the bill actually references — and almost never catches one the text misses.</p>
+</header>
+
+<div class="kpis" id="kpis"></div>
+
+<figure>
+  <h2>Where a measure's statutory references show up</h2>
+  <div id="charts"></div>
+  <div class="legend" id="legend"></div>
+  <div class="tools">
+    <button id="toggle" aria-expanded="false" aria-controls="tablewrap">Show data table</button>
+  </div>
+  <div id="tablewrap" hidden></div>
+  <figcaption id="cap"></figcaption>
+</figure>
+
+<footer>
+  Built from this corpus's mirrored measure metadata and bill text.
+  <a href="https://github.com/OregonAI/oregon-legislature">Repository</a> ·
+  <a href="../">Corpus home</a>
+</footer>
+</div>
+<div class="tip" id="tip" role="status"></div>
+<script>
+const DATA = /*DATA*/;
+const fmt = n => n.toLocaleString();
+const KEYS = {neither:"neither", both:"both", textonly:"textonly"};
+
+document.getElementById("kpis").innerHTML = DATA.kpi.map(k =>
+  `<div class="kpi"><div class="v">${k.v}</div><div class="l">${k.l}</div><div class="s">${k.s}</div></div>`).join("");
+
+document.getElementById("charts").innerHTML = DATA.sessions.map(s => {
+  const segs = s.segments.map(g => {
+    const pct = s.n ? (100 * g.v / s.n) : 0;
+    // Direct-label only where the segment is wide enough to hold the text; the rest are
+    // reachable by hover and always present in the table view.
+    const label = pct >= 9 ? `${pct.toFixed(0)}%` : "";
+    return `<div class="seg ${KEYS[g.k]}" style="flex:0 0 ${pct}%"
+      data-l="${g.label}" data-v="${fmt(g.v)}" data-p="${pct.toFixed(1)}%">${label}</div>`;
+  }).join("");
+  return `<div class="sess">
+    <div class="hd"><span class="nm">${s.name}</span>
+      <span class="kind">${s.kind} · ${fmt(s.n)} measures</span></div>
+    <div class="bar">${segs}</div></div>`;
+}).join("");
+
+document.getElementById("legend").innerHTML = DATA.sessions[0].segments.map(g =>
+  `<span><i class="sw" style="background:var(--seg-${KEYS[g.k]})"></i>${g.label}</span>`).join("");
+
+const so = DATA.sessions.map(s => `${s.summary_only} in ${s.key}`).join(", ");
+document.getElementById("cap").textContent =
+  `The reverse case is almost nonexistent — a measure whose summary cites a statute its text does not: ${so}. `
+  + DATA.note;
+
+document.getElementById("tablewrap").innerHTML = `<table><thead><tr><th>Session</th><th>Measures</th>
+  ${DATA.sessions[0].segments.map(g=>`<th>${g.label}</th>`).join("")}
+  <th>Citations in text</th><th>In summary</th></tr></thead><tbody>${
+  DATA.sessions.map(s=>`<tr><td>${s.name}</td><td>${fmt(s.n)}</td>${
+    s.segments.map(g=>`<td>${fmt(g.v)}</td>`).join("")}<td>${fmt(s.cites_text)}</td><td>${fmt(s.cites_summary)}</td></tr>`).join("")
+  }</tbody></table>`;
+
+const btn = document.getElementById("toggle"), tw = document.getElementById("tablewrap");
+btn.addEventListener("click", () => {
+  const open = tw.hasAttribute("hidden");
+  tw.toggleAttribute("hidden", !open);
+  btn.setAttribute("aria-expanded", String(open));
+  btn.textContent = open ? "Hide data table" : "Show data table";
+});
+
+const tip = document.getElementById("tip");
+document.addEventListener("pointerover", e => {
+  const s = e.target.closest(".seg"); if (!s) return;
+  tip.innerHTML = `<b>${s.dataset.l}</b><br>${s.dataset.v} measures · ${s.dataset.p}`;
+  tip.style.opacity = 1;
+});
+document.addEventListener("pointermove", e => {
+  if (tip.style.opacity !== "1") return;
+  tip.style.left = Math.min(e.clientX + 14, innerWidth - 275) + "px";
+  tip.style.top = (e.clientY + 18) + "px";
+});
+document.addEventListener("pointerout", e => { if (e.target.closest(".seg")) tip.style.opacity = 0; });
+
+(function(){
+  const b = document.getElementById("theme"), r = document.documentElement;
+  try { const s = localStorage.getItem("theme"); if (s) r.setAttribute("data-theme", s); } catch(e){}
+  b.addEventListener("click", () => {
+    const cur = r.getAttribute("data-theme") ||
+      (matchMedia("(prefers-color-scheme:dark)").matches ? "dark" : "light");
+    const next = cur === "dark" ? "light" : "dark";
+    r.setAttribute("data-theme", next);
+    try { localStorage.setItem("theme", next); } catch(e){}
+  });
+})();
+</script>
+</body></html>
+"""
+
+
+if __name__ == "__main__":
+    main()
