@@ -16,7 +16,13 @@ corpus:
   id: "oregon-legislature"
   name: "Oregon Legislature — Measures, History, and Sessions (OData)"
   jurisdiction: "oregon"
-  archetype: "api"
+  # HYBRID, not "api": measure metadata + bill text are MIRRORED here as searchable
+  # documents (see PHASE5-MCP-SPEC.md §1.1) because OData offers only substringof()
+  # for text — no stemming, no relevance — which missed 69% of the bills a topic
+  # query should find. Volatile state (current location, votes, agendas) is still
+  # proxied live. "hybrid" also restores authority_chain + issuing_body_profile,
+  # which "api" gates off and which a mirrored corpus can genuinely answer.
+  archetype: "hybrid"
   schema_version: 1
   contract_version: 1
 
@@ -129,3 +135,20 @@ status:
 #   - id: oregon-policy-repo
 #     index_url: "https://<pages-url>/corpus-index.json"
 #     web_base: "https://github.com/<org>/oregon-policy-repo/blob/main/"
+
+# Which "## " sections feed the searchable body column, per doc_type.
+# A doc_type omitted here keeps the toolkit default ('## Full text', else
+# '## Key provisions'), so this cannot affect any other corpus — verified against
+# the 75,250-document policy repo, whose FTS digest is unchanged.
+#
+# dataset_doc (a mirrored measure): BOTH sections are needed. Bill text is the bulk
+# of the searchable surface (~23k chars vs 787 bytes of metadata), but a measure
+# whose PDF is missing or unextractable would otherwise be invisible to search --
+# findable only by title. Summary first so metadata leads the snippet.
+#
+# entity_doc: the OData field reference. It sat under "## Key provisions" purely to
+# satisfy the old two-heading indexer — an API entity's field table is not a "key
+# provision". The section is now named "## Entity reference" and indexed as itself.
+index_headings:
+  dataset_doc: ["Summary", "Full text"]
+  entity_doc: ["Entity reference", "At a glance"]

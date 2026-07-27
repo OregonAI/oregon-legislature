@@ -57,7 +57,7 @@ carries a prose amend-list that is a *candidate* bill→statute edge — see
 (measured 14% of measures in one 500-measure sample), not "bills link to
 statutes" as a general claim.
 
-## Key provisions
+## Entity reference
 
 _Everything below is nested under one heading, deliberately: `FileBackend`'s
 FTS index only extracts body text from a `## Full text` section (verbatim
