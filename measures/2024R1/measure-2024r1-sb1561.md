@@ -80,7 +80,7 @@ candidate_ors_citations:
   - ORS 466.447
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1561>.
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1561`.
 
 # SB 1561 — 2024 Regular Session (2024R1)
 
@@ -533,6 +533,6 @@ Enrolled Senate Bill 1561 (SB 1561-B) Page 8
 
 - **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `e06c7fb580f618aafdef51d54601d238dfec176938599aaaa84cf5812fea00cd` (snapshot `_meta/snapshots/measure-2024r1-sb1561-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1561/Enrolled>.
 - **Also captured, not embedded:** Introduced version, sha256 `a6d3f7e3ffbf583f7c766e4962bf02e4850117c727ec2a391a5ad77e5d2c295e` (snapshot `_meta/snapshots/measure-2024r1-sb1561-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1561/Introduced>.
-- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1561> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1561` (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
 - See [CHANGELOG](../../CHANGELOG.md).
 

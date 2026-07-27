@@ -57,7 +57,7 @@ candidate_ors_citations:
   from_relating_to_full: []
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 38>.
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 38`.
 
 # HCR 38 — 2025 Regular Session (2025R1)
 
@@ -150,6 +150,6 @@ Enrolled House Concurrent Resolution 38 (HCR 38-INTRO) Page 2
 
 - **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `29c6737f482e85a956eee98874e069eea8c7714d6f43998b31abb01e9f487b2f` (snapshot `_meta/snapshots/measure-2025r1-hcr38-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HCR38/Enrolled>.
 - **Also captured, not embedded:** Introduced version, sha256 `84280de50d42cbf2fa81d2c1b7061d446cf0ae14dcb4b84af4a0fc328b68cf32` (snapshot `_meta/snapshots/measure-2025r1-hcr38-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HCR38/Introduced>.
-- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 38> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 38` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
 - See [CHANGELOG](../../CHANGELOG.md).
 

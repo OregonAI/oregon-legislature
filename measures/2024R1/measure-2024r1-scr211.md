@@ -56,7 +56,7 @@ candidate_ors_citations:
   from_relating_to_full: []
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SCR' and MeasureNumber eq 211>.
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SCR' and MeasureNumber eq 211`.
 
 # SCR 211 — 2024 Regular Session (2024R1)
 
@@ -157,6 +157,6 @@ Enrolled Senate Concurrent Resolution 211 (SCR 211-A) Page 2
 
 - **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `fb520e610873d2bbe4232c1d54fd248592beb7b9a4a9cbe2b38d5ec78bf4d279` (snapshot `_meta/snapshots/measure-2024r1-scr211-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SCR211/Enrolled>.
 - **Also captured, not embedded:** Introduced version, sha256 `011cd5b8a07f74629d68752d8e82bc1743e8f630556d3cadaef3aee480e69fec` (snapshot `_meta/snapshots/measure-2024r1-scr211-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SCR211/Introduced>.
-- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SCR' and MeasureNumber eq 211> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SCR' and MeasureNumber eq 211` (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
 - See [CHANGELOG](../../CHANGELOG.md).
 

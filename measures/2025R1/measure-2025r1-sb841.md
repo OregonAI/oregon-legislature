@@ -117,7 +117,7 @@ candidate_ors_citations:
   from_relating_to_full: []
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 841>.
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 841`.
 
 # SB 841 — 2025 Regular Session (2025R1)
 
@@ -401,6 +401,6 @@ Enrolled Senate Bill 841 (SB 841-A) Page 5
 
 - **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `c451c2e3f1e89274669464d3273f7c63e19863e1e1809e1ce4eef8c30c84f89f` (snapshot `_meta/snapshots/measure-2025r1-sb841-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB841/Enrolled>.
 - **Also captured, not embedded:** Introduced version, sha256 `30ff36f7b115e88fd28db4dc2fd1e547cb4d179600b3fd21c47d7b4607baeb65` (snapshot `_meta/snapshots/measure-2025r1-sb841-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB841/Introduced>.
-- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 841> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 841` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
 - See [CHANGELOG](../../CHANGELOG.md).
 

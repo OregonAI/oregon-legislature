@@ -72,7 +72,7 @@ candidate_ors_citations:
   from_relating_to_full: []
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3871>.
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3871`.
 
 # HB 3871 — 2025 Regular Session (2025R1)
 
@@ -227,6 +227,6 @@ shall submit the first report described in section 6 of this 2025 Act by March 3
 ## Provenance & related versions
 
 - **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `023eda24f27053322874e847c6df99bfa20456c78d4b5e15c07187e0e5032446` (snapshot `_meta/snapshots/measure-2025r1-hb3871-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3871/Introduced>.
-- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3871> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3871` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
 - See [CHANGELOG](../../CHANGELOG.md).
 

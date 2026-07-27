@@ -59,7 +59,7 @@ candidate_ors_citations:
   from_relating_to_full: []
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4110>.
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4110`.
 
 # HB 4110 — 2024 Regular Session (2024R1)
 
@@ -138,6 +138,6 @@ LC 182
 ## Provenance & related versions
 
 - **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `ebcd38b55f96e7dc8ac55a863a9a1822d567c0d84239c37ab06f89f59d6134ff` (snapshot `_meta/snapshots/measure-2024r1-hb4110-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4110/Introduced>.
-- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4110> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4110` (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
 - See [CHANGELOG](../../CHANGELOG.md).
 

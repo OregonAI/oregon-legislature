@@ -69,7 +69,7 @@ candidate_ors_citations:
   from_relating_to_full: []
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3604>.
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3604`.
 
 # HB 3604 — 2025 Regular Session (2025R1)
 
@@ -229,6 +229,6 @@ Enrolled House Bill 3604 (HB 3604-A) Page 3
 
 - **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `1f45f232611fc74bed2cd79c4592fd19da1aed818b00a4fa264cbe8255b4c95f` (snapshot `_meta/snapshots/measure-2025r1-hb3604-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3604/Enrolled>.
 - **Also captured, not embedded:** Introduced version, sha256 `243fbd901c819d2d1d97b92d79d9bf6a4fba29dd100b97c9e7b2d79276fea3c0` (snapshot `_meta/snapshots/measure-2025r1-hb3604-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3604/Introduced>.
-- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3604> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3604` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
 - See [CHANGELOG](../../CHANGELOG.md).
 
