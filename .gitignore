@@ -2,3 +2,8 @@
 __pycache__/
 .venv/
 _meta/.cache/
+
+# Generated at deploy time by src/build_site.py — never committed, so it cannot fall
+# behind the corpus it reports on. viz/*.html IS committed (same as the sibling corpus):
+# it has a --check staleness gate, so a stale chart fails CI rather than passing silently.
+site/
