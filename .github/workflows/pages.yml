@@ -1,0 +1,62 @@
+name: pages
+
+# Build the landing page + visualizations (src/build_site.py) and deploy ./site/ to Pages.
+#
+# THIS REPLACED the reusable publish-index caller, and the two must never both exist here.
+# That workflow publishes corpus-index.json alone, and its own header says: "Do NOT call
+# this from a corpus that already deploys Pages itself — two workflows deploying to one
+# Pages site will fight over the `pages` concurrency group."
+#
+# src/build_site.py therefore owns BOTH jobs: it renders the site and calls the toolkit's
+# build_index to emit site/corpus-index.json at the same URL as before. That URL is load-
+# bearing for two consumers outside this repo — the org landing page reads it for live
+# document counts, and oregon-records-retention resolves citations INTO this corpus through
+# it — so dropping it would break a sibling silently rather than here.
+on:
+  push:
+    branches: [main]
+    # No paths filter, unlike the sibling corpus. The index is derived from every measure
+    # file, so any content change must republish it; a filter tuned to the site's inputs
+    # would let the published index drift behind the corpus.
+  # The nightly ingest changes the corpus without touching this workflow.
+  schedule:
+    - cron: "40 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # build_site.py emits corpus-index.json via corpus_toolkit.index, so the toolkit is
+      # a build dependency here, not just a runtime one.
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Check the visualization is not stale
+        # viz/*.html is committed. If a measure ingest changed the numbers and nobody re-ran
+        # the generator, fail here rather than deploying a chart that disagrees with the
+        # corpus it claims to describe.
+        run: python3 src/build_measure_citations.py --check
+      - name: Build the site
+        run: python3 src/build_site.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4

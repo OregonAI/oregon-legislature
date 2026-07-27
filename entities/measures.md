@@ -53,9 +53,11 @@ A `Measure` is one bill/resolution in one session — HB 2049 in `2025R1` and HB
 row with a session column. 25 fields (verified 2026-07-26, both against
 `$metadata` and one live record, HB 2049 / 2025R1). The `RelatingToFull` field
 carries a prose amend-list that is a *candidate* bill→statute edge — see
-"Cross-corpus note" below; per PHASE5-MCP-SPEC.md §2.3 this is real but sparse
-(measured 14% of measures in one 500-measure sample), not "bills link to
-statutes" as a general claim.
+"Cross-corpus note" below. PHASE5-MCP-SPEC.md §2.2 called this edge sparse at
+**14%**, measured over one 500-measure sample **before bill text was mirrored**.
+Now that it is, the edge is not sparse: **83.8%** of the 3,757 mirrored measures
+carry at least one ORS citation. The 14% figure describes `RelatingToFull` alone,
+and even that measures **31.3%** against the full corpus rather than 14%.
 
 ## Entity reference
 
@@ -151,10 +153,20 @@ repeals, in prose. The one record examined here illustrates the pattern:
 
 > `"Relating to sex offenders; amending ORS 137.225, 163A.040 and 163A.215."`
 
-Per PHASE5-MCP-SPEC.md §2.3 (measured over 500 measures of session `2025R1`,
-not re-measured by this doc): 14% of measures had an ORS reference in this
-field, 518 distinct ORS sections were referenced, and the field is a *summary*,
-not the authoritative amend list — the operative text lives in the bill itself.
+**Re-measured 2026-07-27 against the full mirrored corpus** (3,757 measures),
+superseding the 500-measure sample in PHASE5-MCP-SPEC.md §2.2:
+
+| via | measures | distinct ORS sections |
+|---|---|---|
+| `RelatingToFull` only | **31.3%** (1,208) | — |
+| bill text | **83.7%** (3,146) | — |
+| either | **83.8%** (3,147) | **10,907** |
+
+The spec's figures — 14% and 518 sections — predate bill-text mirroring and are
+off by roughly 2x and 21x respectively. The spec itself predicted this, saying
+mirroring bill text "turns the sparse 14% bill→statute edge into something far
+denser." It did. The field remains a *summary*, not the authoritative amend
+list — the operative text lives in the bill itself.
 **An edge derived from `RelatingToFull` is a candidate, never a finding**, and
 resolving it against `oregon-policy-repo`'s ORS ids is step 7 work, not
 implemented here.
