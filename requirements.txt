@@ -3,4 +3,4 @@
 pyyaml
 jsonschema
 pypdf
-corpus-toolkit @ git+https://github.com/OregonAI/corpus-toolkit@v1.3.0
+corpus-toolkit @ git+https://github.com/OregonAI/corpus-toolkit@v1.4.0
