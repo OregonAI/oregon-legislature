@@ -1,0 +1,244 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 841
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Governor Tina Kotek for Oregon Health Authority)
+CHAPTER .................................................
+AN ACT
+Relating to  tribal public health data; amending ORS 431A.850, 431A.869, 433.001, 433.004, 433.006 and
+433.008.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 433.001 is amended to read:
+433.001. As used in ORS 433.001 to 433.045 and 433.110 to 433.770 unless the  context requires
+otherwise:
+(1) “Communicable disease” has the meaning given that term in ORS 431A.005.
+(2) “Control” means a person without a reportable disease about whom information is collected
+for purposes of comparison to a person or persons with the reportable disease.
+(3) “Disease outbreak” has the meaning given that term in ORS 431A.005.
+(4) “Epidemic” has the meaning given that term in ORS 431A.005.
+(5) “Health care provider” has the meaning given that term in ORS 433.443.
+(6) “Individually identifiable health information” has the meaning given  that term in ORS
+433.443.
+(7) “Isolation” means  the physical separation and confinement of a person or group of persons
+who are  infected or reasonably believed to be infected with a communicable disease or possibly
+communicable disease from nonisolated  persons to prevent or limit the transmission of the disease
+to nonisolated persons.
+(8) “Local public health administrator” has the meaning given that term in ORS 431.003.
+(9) “Property” means animals, inanimate objects, vessels, public conveyances, buildings and  all
+other real or personal property.
+(10) “Public health measure” has the meaning given that term in ORS 431A.005.
+(11) “Quarantine” means the physical  separation and confinement of a person or group of per-
+sons who have been or may have been exposed to a communicable  disease or possibly communicable
+disease and who do not show signs or symptoms of  a communicable disease, from persons who have
+not been  exposed to a communicable disease or possibly communicable disease, to prevent or limit
+the transmission of the disease to other persons.
+(12) “Reportable disease” has the meaning given that term in ORS 431A.005.
+(13) “Simultaneous electronic transmission” means transmission by  television, telephone or any
+other electronic or digital means if the form of transmission allows:
+(a) The court and the person making the appearance  to communicate with each other during the
+proceeding; and
+Enrolled Senate Bill 841 (SB 841-A) Page 1
+(b) A  person who is represented by legal counsel to consult privately with the person’s attorney
+during the proceeding.
+(14) “Toxic substance” has the meaning given that term in ORS 431A.005.
+(15) “Tribal  epidemiology center” means any tribal epidemiology center in this state op-
+erating under 25 U.S.C. 1621m for the benefit of any tribe.
+(16) “Tribe” means any of the nine federally recognized Indian tribes in this state.
+SECTION 2.
+ ORS 433.004 is amended to read:
+433.004. (1) The Oregon Health Authority shall by rule:
+(a) Specify reportable diseases and when the diseases must be reported under this section;
+(b) Identify those categories of persons  who must report reportable diseases and the circum-
+stances under which the reports must be made;
+(c) Prescribe  the procedures and forms for making such reports and transmitting the reports to
+the authority; and
+(d) Prescribe measures and methods for investigating the source  and controlling reportable dis-
+eases.
+(2) Persons required under the rules to report reportable diseases  shall report to the authority
+[or], the local public health administrator , a tribe or a tribal epidemiology  center, upon entering
+an agreement under subsection (7) of this section,  as specified by the authority by rule. A local
+public health administrator , tribe or tribal epidemiology center  that receives  a report under this
+subsection shall transmit the report to the authority as specified by the authority by rule.
+(3) The  authority [ or], local public health administrator , tribe or tribal epidemiology center,
+upon entering an agreement under subsection (7) of this section,  may  investigate a case of a
+reportable disease, disease outbreak  or epidemic. The investigation may include, but is not limited
+to:
+(a) Interviews of:
+(A) The subject of a reportable disease report;
+(B) Controls;
+(C) Health care providers; or
+(D) Employees of a health care facility.
+(b) Requiring a health care provider, any  public or private entity, or an individual who has in-
+formation necessary for the investigation to:
+(A) Permit inspection of the information  by the authority [ or], local public health
+administrator, tribe or tribal epidemiology center ; and
+(B) Release the information to  the authority [ or], local public health administrator , tribe or
+tribal epidemiology center.
+(c) Inspection, sampling and testing of real  or personal property with consent of the owner or
+custodian of the property or with an administrative warrant.
+(4)(a) The authority shall establish by rule the manner in which information  may be requested
+and obtained under subsection (3) of this section.
+(b) Information requested  may include, but is not limited to, individually identifiable health in-
+formation related to:
+(A) The case;
+(B) An individual who may be the potential source of exposure or infection;
+(C) An individual who has been or may have been exposed to or affected by the disease;
+(D) Policies, practices, systems or structures  that may have affected the likelihood of disease
+transmission; and
+(E) Factors that may influence an individual’s susceptibility to the disease or  likelihood of being
+diagnosed with the disease.
+(5) In addition to other grounds for which a  state agency may exercise disciplinary action
+against its licensees or certificate holders, the substantial or repeated failure of a  licensee or cer-
+tificate holder to report when required to do so under subsection (2) or (3) of this  section shall be
+cause for the exercise of any of the agency’s disciplinary powers.
+Enrolled Senate Bill 841 (SB 841-A) Page 2
+(6) Any person making a report or  providing information under this section is immune from any
+civil or criminal liability that might otherwise be  incurred or imposed with respect to the making
+of a report or providing information under this section.
+(7) The authority may enter into an agreement under ORS 190.110 with a  tribe or tribal
+epidemiology center  for the purpose of receiving reports of reportable diseases under sub-
+section (2) of this section and investigating cases of reportable  diseases under subsection (3)
+of this section. If a tribe or tribal epidemiology center enters into an  agreement, the tribe
+or tribal epidemiology center shall carry out subsections (2) and (3) of this section.
+SECTION 3.  ORS 433.006 is amended to read:
+433.006. (1) Except as provided in subsection  (2) or (3)  of this section, in response to each report
+of a reportable disease, the local  public health administrator shall ensure that investigations and
+control measures, as prescribed by Oregon Health Authority rule, are conducted.
+(2) If there has been a transfer of responsibility from a local public health authority to the
+Oregon Health Authority under ORS 431.382, the Oregon  Health Authority shall ensure that inves-
+tigations and control measures  are conducted, as funding allows, pursuant to rules adopted by the
+Oregon Health Authority.
+(3) If the Oregon Health Authority enters into an agreement with a tribe or tribal
+epidemiology center under ORS  433.004, the tribe or tribal epidemiology center shall ensure
+that investigations and control measures are conducted pursuant to the agreement.
+SECTION 4.  ORS 433.008 is amended to read:
+433.008. (1)(a) Except as provided in subsection (2) of this section, information obtained  by the
+Oregon Health Authority [ or], a local public health administrator , a tribe or a tribal  epidemiology
+center in the course of an investigation of  a reportable disease or disease outbreak is confidential
+and is exempt from disclosure under ORS 192.311 to 192.478.
+(b) Except as  required for the administration or enforcement of public health laws or rules, a
+state or local public health official or employee  or an official  or employee of a tribe or a tribal
+epidemiology center may not  be examined in an administrative or judicial proceeding about the
+existence or contents of a reportable disease report  or other information received by the authority
+[or], a  local public health administrator , a tribe or a  tribal epidemiology center  in the course of
+an investigation of a reportable disease or disease outbreak.
+(2) The authority [ or], a local public health administrator , a tribe or a tribal epidemiology
+center may release information obtained during an investigation of  a reportable disease or disease
+outbreak  to:
+(a) State, local  [or], federal  or tribal  agencies authorized to receive the information under state
+or federal law;
+(b) Health care providers if necessary for the evaluation or treatment of a reportable disease;
+(c) Law enforcement officials to the  extent necessary to carry out the authority granted to the
+Public Health Director and local public health administrators under  ORS 433.121, 433.128, 433.131,
+433.138 and 433.142;
+(d) A person who may have been exposed to a communicable disease;
+(e) A person with information necessary to assist the authority [ or], local public  health admin-
+istrator , a tribe or a tribal epidemiology center  in identifying an individual who may have been
+exposed to a communicable disease; and
+(f) The individual who is  the subject of the information or the legal representative of that indi-
+vidual.
+(3) The  authority [ or], local public health administrator , tribe or tribal epidemiology center
+may release individually identifiable information under subsection (2)(d) or (e) of this section  only
+if there is clear and convincing evidence that the release is necessary to  avoid an immediate danger
+to other individuals or to the public.
+(4) The  authority [ or], local public health administrator , tribe or tribal epidemiology center
+may release only  the minimum amount of information necessary to carry out the purpose of the re-
+lease pursuant to subsection (2) of this section.
+Enrolled Senate Bill 841 (SB 841-A) Page 3
+(5) A decision not to disclose information under this subsection, if made in  good faith, shall not
+subject the entity or person withholding the information to any liability.
+(6) Nothing in this section:
+(a) Prevents the  authority [ or], a local public health administrator , a tribe or a tribal
+epidemiology center from publishing statistical compilations  and reports relating to reportable
+disease investigations if the compilations and reports do  not identify individual cases or sources of
+information;
+(b) Affects the confidentiality  or admissibility into evidence of information not otherwise confi-
+dential or privileged that is obtained from sources other than the authority; or
+(c) Prevents dispositions of information pursuant to ORS 192.105.
+SECTION 5.
+ ORS 431A.850, as amended by section 3, chapter 438, Oregon Laws 2023,  is
+amended to read:
+431A.850. As used in ORS 431A.855 to 431A.900:
+(1) “Dental director” means a dentist, as defined in ORS 679.010, employed by a coordinated care
+organization, dental clinic  or office, or a system of dental clinics or offices, for the purpose of
+overseeing the operations of the dental clinic or office,  or the system of dental clinics or offices, and
+ensuring the delivery of quality dental care within the clinic, office or system.
+(2) “Dispense” and “dispensing” have the meanings given those terms in ORS 689.005.
+(3) “Drug outlet” has the meaning given that term in ORS 689.005.
+(4) “Health professional regulatory  board” means a health professional regulatory board, as de-
+fined in ORS 676.160, the Long Term Care Administrators Board, the Board of Licensed Dietitians
+and the Behavior Analysis Regulatory Board.
+(5) “Medical director” means a physician employed by a coordinated care organization,  hospital,
+health care clinic or system of hospitals or health care clinics for the purposes of overseeing  the
+operations of the coordinated  care organization, hospital, clinic or system and ensuring the delivery
+of quality health care within the coordinated care organization, hospital, clinic or system.
+(6) “Patient” means:
+(a) The individual to whom the prescription drug is prescribed; or
+(b) If the prescription drug is prescribed by a  veterinarian for an animal, the individual to whom
+the prescription drug is dispensed on behalf of the animal.
+(7) “Pharmacist” means:
+(a) A pharmacist as defined in ORS 689.005; or
+(b) An individual licensed to practice pharmacy in another state, if the  requirements for
+licensure are similar, as determined by the Oregon Health Authority, to the requirements for being
+licensed as a pharmacist as defined in ORS 689.005.
+(8) “Pharmacy director” means a pharmacist employed  by a coordinated care organization,
+pharmacy or system of pharmacies for the purposes of overseeing the operations of  the coordinated
+care  organization,  pharmacy or system and ensuring the delivery of quality pharmaceutical care
+within the coordinated care organization, pharmacy or system.
+(9) “Practitioner” means:
+(a) A practitioner as defined in ORS 689.005; or
+(b) An individual licensed to practice a profession in another state, if the requirements for
+licensure are similar, as determined by the authority, to the requirements for being  licensed as a
+practitioner as defined in ORS 689.005.
+(10) “Prescription” has the meaning given that term in ORS 475.005.
+(11) “Prescription drug” has the meaning given that term in ORS 689.005.
+(12) “Tribal  epidemiology center” means any tribal epidemiology center in this state op-
+erating under 25 U.S.C. 1621m for the benefit of any tribe.
+(13) “Tribe” means any of the nine federally recognized Indian tribes in this state.
+[(12)] (14)  “Veterinarian” means a person licensed to practice veterinary medicine under ORS
+chapter 686.
+SECTION 6.
+ ORS 431A.869 is amended to read:
+Enrolled Senate Bill 841 (SB 841-A) Page 4
+431A.869. (1) The Oregon Health Authority  may enter into agreements [ governing the sharing
+and use of information described in ORS 431A.860 (1) ] with the authorities of  other states that ad-
+minister prescription  monitoring programs  to share and use information described in ORS
+431A.860 (1). An agreement entered  into under this section must adhere to the disclosure limitations
+listed under ORS 431A.865 (3). An agreement entered into under this section may:
+[(1)] (a)  Provide for the transmission of information between electronic  systems, provided that
+any electronic system to which the Oregon Health Authority  transmits information meets the
+confidentiality, security and privacy standards adopted by the authority under ORS 431A.855; or
+[(2)] (b)  Provide for the transmission of information to practitioners  or pharmacists licensed to
+practice in another state.
+(2) The Oregon Health Authority may enter into an agreement with  a tribe or a tribal
+epidemiology center to share and use information described in ORS 431A.860 (1) for the pur-
+pose of:
+(a) Aiding the tribe or  tribal epidemiology center in identifying patients that are affiliated
+with the tribe or tribal epidemiology center in the electronic system; or
+(b) Transmitting aggregated data on tribal affiliation of patients to the tribe or the  tribal
+epidemiology center.
+(3) An agreement entered into under subsection (2) of this section:
+(a) Must permit only  the minimum transmission of information necessary to fulfill the
+intended purpose; and
+(b) May apply subsection (1)(a) of  this section to the transmission of information between
+electronic systems.
+Passed by Senate April 15, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House May 21, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 841 (SB 841-A) Page 5

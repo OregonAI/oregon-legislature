@@ -1,0 +1,900 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 135
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Human Services)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act requires that CASAs be members of certain councils, committees and teams.
+(Flesch Readability Score: 63.4).
+Requires the appointment of court appointed special advocates to specified advisory  councils,
+advisory committees and review teams.
+A BILL FOR AN ACT
+Relating to court appointed special advocates; amending ORS 418.043, 418.714, 418.726,  418.747,
+418.782, 418.784, 418.811 and 418.978.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 418.043 is amended to read:
+418.043. (1) The members of the Governor’s Child  Foster Care Advisory Commission must be
+residents of this state with  experience and expertise in the foster care system in this state, including
+but not limited to:
+(a) Current or former foster parents and current or former foster children;
+(b) Family members of individuals described in paragraph (a) of this subsection;
+(c) Biological parents involved in the foster care system in this state;
+(d) Representatives of advocacy organizations that advocate regarding  issues pertaining to the
+foster care system in this state;
+(e) Representatives of public, private, profit and nonprofit agencies, organizations and other en-
+tities with experience in, interest in  and responsibility for the provision of care to children in the
+foster care system in this state;
+(f) Members of the Oregon State Bar with expertise in family and juvenile dependency law;
+(g) Representatives of law enforcement agencies and district attorneys;
+(h) Former employees of  the Department of Human Services, Oregon Health Authority and De-
+partment of Justice who were responsible for the administration and  oversight of the child welfare
+and foster care systems in this  state, including but not limited to former caseworkers [ and former
+court appointed special advocates ];
+(i) Representatives of the Judicial Department; [ and]
+(j) Representatives  of federally recognized Indian tribes in Oregon and organizations serving
+Native Americans[ .]; and
+(k) Current or former court appointed special advocates, as defined in ORS 419A.004.
+(2) The members of the commission shall  select one of the commission’s members to serve as
+chairperson and another to serve as vice chairperson, for  terms and with duties and powers neces-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2070
+SB 135
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+sary for the performance of the functions of the offices as the commission determines.
+(3) A majority of the members  of the commission constitutes a quorum for the transaction of
+business.
+(4) The commission shall meet at least once every three months  at a time and place determined
+by the chairperson of the commission. The commission also may meet  at other times and places
+specified by the call of the chairperson or of a majority of the members of the commission.
+(5) All agencies of state government, as defined in ORS 174.111,  are directed to assist the com-
+mission in the performance of the commission’s duties, powers and obligations and, to the  extent
+permitted by laws relating to confidentiality, to furnish information that the members of the  com-
+mission consider necessary in order to further the work of the commission.
+(6) The  Department of Human Services shall provide the commission, including any advisory or
+technical committees established under ORS  418.046, with any necessary clerical and administrative
+staff support, including, at a minimum, one full-time equivalent (FTE) policy analyst.
+SECTION 2.
+ ORS 418.714 is amended to read:
+418.714. (1) A local domestic violence coordinating council recognized  by the local public safety
+coordinating council or by the governing body of the county may establish  a multidisciplinary do-
+mestic violence fatality review team to assist local organizations and agencies in identifying  and
+reviewing domestic violence fatalities. When no local domestic violence coordinating council  exists,
+a similar interdisciplinary group may establish the fatality review team.
+(2) The purpose of a fatality review team  is to review domestic violence fatalities and make
+recommendations to prevent domestic violence fatalities by:
+(a) Improving communication between public and private organizations and agencies;
+(b) Determining the number of  domestic violence fatalities occurring in the team’s county and
+the factors associated with those fatalities;
+(c) Identifying ways in which community response might have intervened to prevent a fatality;
+(d) Providing accurate information about domestic violence to the community; and
+(e) Generating recommendations for improving community response to and  prevention of do-
+mestic violence.
+(3) A fatality  review team shall include but is not limited to the following members, if available:
+(a) Domestic violence program service staff or other advocates for battered women;
+(b) Medical personnel with expertise in the field of domestic violence;
+(c) Local health department staff;
+(d) The local district attorney or the district attorney’s designees;
+(e) Law enforcement personnel;
+(f) Civil legal services attorneys;
+(g) Protective services workers;
+(h) Community corrections professionals;
+(i) Judges, court administrators or their representatives;
+(j) Perpetrator treatment providers;
+(k) A survivor of domestic violence; [ and]
+(L) Medical examiners or other experts in the field of forensic pathology[ .]; and
+(m) Current or former court appointed special advocates, as defined in ORS 419A.004.
+(4) Other individuals may, with the unanimous consent of the team, be included  in a fatality
+review team on an ad hoc basis. The team, by unanimous consent, may decide the extent to which
+the individual may participate as a full member of the team for a particular review.
+[2]
+SB 135
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) Upon formation and before reviewing its  first case, a fatality review team shall adopt a
+written protocol for  review of domestic violence fatalities. The protocol must be designed to facili-
+tate communication among organizations and agencies involved in  domestic violence cases so that
+incidents of domestic violence and domestic violence fatalities are identified  and prevented. The
+protocol shall define procedures for case review  and preservation of confidentiality, and shall iden-
+tify team members.
+(6) Consistent with recommendations provided by the statewide interdisciplinary team  under
+ORS 418.718, a local fatality review team shall provide  the statewide team with information re-
+garding domestic violence fatalities.
+(7) To ensure consistent and  uniform results, fatality review teams may collect and summarize
+data to show the statistical occurrence of domestic violence fatalities in the team’s county.
+(8) Each organization or agency represented on a fatality review team may share with  other
+members of  the team information concerning the victim who is the subject of the review. Any in-
+formation shared between team members is confidential.
+(9) An individual who is a member of an organization or agency that is  represented on a fatality
+review team is not required to disclose information. The  intent of this section and ORS 418.718 is
+to allow the voluntary disclosure of information.
+(10) An  oral or written communication or a document related to a domestic violence fatality
+review that is shared within or produced by a fatality review team is  confidential, not subject to
+disclosure and not discoverable by a third party. An oral  or written communication or a document
+provided by a third party to a fatality  review team is confidential, not subject to disclosure and not
+discoverable by a third party. All information and records acquired by a team in the  exercise of its
+duties are confidential and may be disclosed only  as necessary to carry out the purposes of the
+fatality review.  However, recommendations of a team upon the completion of a review may be dis-
+closed without personal identifiers at the discretion of two-thirds of the members of the team.
+(11) Information, documents and  records otherwise available from other sources are not immune
+from discovery or introduction into evidence solely because the information,  documents or records
+were presented to or reviewed by a fatality review team.
+(12) ORS 192.610 to 192.705 do not apply to meetings of a fatality review team.
+(13) Each fatality review team shall develop written  agreements signed by member organizations
+and agencies that specify the organizations’ and agencies’ understanding of and  agreement with the
+principles outlined in this section.
+SECTION 3.
+ ORS 418.726 is amended to read:
+418.726. (1)  There is created a Youth Suicide Intervention and Prevention Advisory Committee
+to advise the Oregon Health Authority on the  development and administration of strategies to ad-
+dress suicide intervention and prevention for  children and youth 5 through 24 years of age. The
+Director of the Oregon Health Authority shall appoint members of the  advisory committee and
+members shall  serve at the pleasure of the director. The authority shall provide staffing for the ad-
+visory committee.
+(2) The director shall ensure that  advisory committee membership reflects the cultural, linguis-
+tic, geographic and economic diversity of this state. The members  of the advisory committee must
+include, but need not be limited to:
+(a) Individuals who have survived suicide attempts;
+(b) Individuals who have lost friends or family members to suicide;
+(c) Individuals who have not attained 21 years of age;
+[3]
+SB 135
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) Representatives of state  agencies, including but not limited to the Department of Human
+Services, the Oregon Health Authority and the Department of Education, who provide services to
+individuals who have not attained 21 years of age;
+(e) Representatives of Oregon Indian tribes;
+(f) Representatives of colleges and universities;
+(g) Medical and behavioral treatment providers;
+(h) Representatives of hospitals and health systems;
+(i) Representatives of coordinated care organizations and private insurers;
+(j) Suicide prevention specialists; [ and]
+(k) Representatives of members of the military and their families[ .]; and
+(L) Current or former court appointed special advocates, as defined in ORS 419A.004.
+(3) Members of the advisory committee other than members employed  in full-time public service
+may be compensated for their services and may be  reimbursed by the authority for the member’s
+actual and necessary expenses incurred in the performance of the member’s duties. Members of  the
+advisory committee who are employed in full-time public  service may be reimbursed by the member’s
+employing agency for the member’s actual and necessary expenses incurred in the performance  of
+the member’s duties. Reimbursements under this subsection are subject to  the provisions of ORS
+292.210 to 292.288.
+(4) The advisory committee shall meet no less than once every three months.
+(5) The advisory committee may  recommend potential members for appointment to the advisory
+committee.
+(6) The advisory committee  shall consult with the Youth Suicide Intervention and Prevention
+Coordinator on updates to the Youth Suicide Intervention and Prevention Plan under ORS 418.733.
+SECTION 4.
+ ORS 418.747, as amended by section 62, chapter 73, Oregon Laws 2024,  is amended
+to read:
+418.747. (1) The district attorney in each county shall be responsible for developing  county child
+abuse multidisciplinary teams to consist of but not  be limited to law enforcement personnel, De-
+partment of Human Services child  protective service workers, school officials, local health depart-
+ment personnel, county mental health department personnel who have  experience with children and
+family mental health issues, child abuse intervention center  workers, if available, current or for-
+mer court appointed special advocates and juvenile department representatives, as well as others
+specially trained in child abuse, child sexual abuse and rape of children investigation.
+(2) The teams shall develop a written protocol for  immediate investigation of and notification
+procedures for child abuse cases, including child  sexual abuse, and for interviewing child abuse
+victims. Each team also shall develop written agreements signed by member agencies that are re-
+presented on the team that specify:
+(a) The role of each agency;
+(b) Procedures to be followed to assess risks to the child;
+(c) Guidelines for timely communication between member agencies;
+(d) Guidelines for completion of responsibilities by member agencies;
+(e) That upon  clear disclosure that the alleged child abuse occurred in a child care facility as
+defined in ORS 329A.250, immediate notification of parents or guardians of children attending  the
+child care facility is required regarding any abuse allegation and pending investigation; and
+(f) Criteria and procedures to be followed when  removal of the child is necessary for the child’s
+safety.
+[4]
+SB 135
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) Each team member and the  personnel conducting child abuse investigations and interviews
+of child abuse victims shall be trained in risk assessment, the dynamics of child abuse, child  sexual
+abuse and rape of children, and forensic interviewing.
+(4) All investigations of child abuse and interviews  of child abuse victims shall be carried out
+by appropriate personnel using the protocols and procedures called for in this section. If trained
+personnel are not available in a timely fashion and, in the judgment of a  law enforcement officer
+or child protective services worker, there is reasonable cause to believe a delay in investigation  or
+interview of the child abuse victim could place the child in jeopardy of physical harm, the investi-
+gation may proceed without full participation of all personnel. This authority applies only  for as
+long as reasonable danger  to the child exists. A law enforcement officer or child protective services
+worker shall make a reasonable effort to find and provide a trained investigator or interviewer.
+(5) To ensure the protection and safe placement of a child, the Department of  Human Services
+may request  that team members obtain criminal history information on any person who is part of
+the household where the department may place or has placed a child who  is in the department’s
+custody. All information obtained by the team members and the department in the exercise of  their
+duties is confidential and may be disclosed only when necessary to ensure the safe placement of a
+child.
+(6) Each team shall classify, assess and review cases under investigation.
+(7)(a) Each team shall develop and implement procedures for evaluating and  reporting compli-
+ance of member agencies with the protocols and procedures required under this section. Each  team
+shall submit to the administrator  of the Child Abuse Multidisciplinary Intervention Program copies
+of the protocols and procedures required under this section and the results of the evaluation  as re-
+quested.
+(b) The administrator may:
+(A) Consider the evaluation results when making eligibility determinations under ORS 418.746
+(3);
+(B) If requested by  the Advisory Council on Child Abuse Assessment, ask a team to revise the
+protocols and procedures being used by the team based on the evaluation results; or
+(C) Ask a team  to evaluate the team’s compliance with the protocols and procedures in a par-
+ticular  case.
+(c) The information and records compiled under this subsection  are exempt from ORS 192.311
+to 192.478.
+(8) Each  team shall develop policies that provide for an independent review of investigation
+procedures of sensitive  cases after completion of court actions on particular cases. The policies shall
+include independent citizen input. Parents of child abuse victims  shall be notified of the review
+procedure.
+(9) Each team shall designate at  least one physician, physician associate or nurse practitioner
+who has been trained to conduct child abuse assessments, as defined in ORS 418.782, and who  is,
+or who may designate  another physician, physician associate or nurse practitioner who is, regularly
+available to conduct the medical assessment described in ORS 419B.023.
+(10) If photographs are taken pursuant to ORS 419B.028, and if the team  meets to discuss the
+case, the photographs shall be made available to each member of the team at the first meeting re-
+garding the child’s case following the taking of the photographs.
+(11) No later than September 1, 2008, each team shall submit  to the Department of Justice a
+written summary identifying the designated medical professional described in subsection (9)  of this
+[5]
+SB 135
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+section.  After  that date, this information shall be included in each regular report to the Department
+of Justice.
+(12) If, after reasonable effort,  the team is not able to identify a designated medical professional
+described in subsection (9) of this section, the team shall develop a written plan  outlining the nec-
+essary steps, recruitment and training needed to make  such a medical professional available to the
+children of the county. The team shall also  develop a written strategy to ensure that each child in
+the county who is a suspected victim of child abuse will receive a medical  assessment in compliance
+with ORS 419B.023. This strategy, and  the estimated fiscal impact of any necessary recruitment and
+training, shall be  submitted to the Department of Justice no later than September 1, 2008. This in-
+formation shall be included in each regular report to the Department of  Justice for each reporting
+period in which a team is not able to identify a designated medical professional described in sub-
+section (9) of this section.
+SECTION 5.
+ ORS 418.782, as amended by section 63, chapter 73, Oregon Laws 2024,  is amended
+to read:
+418.782. As used in ORS 418.746 to 418.796:
+(1) “Child abuse” means “abuse” as defined by ORS 419B.005.
+(2) “Child  abuse assessment” means services provided by a children’s advocacy center for the
+purpose of determining whether or not  a child has been abused and identifying the appropriate
+treatment or referral for follow-up for the child. “Child abuse  assessment” may include one or more
+of the following:
+(a) A medical assessment;
+(b) A forensic interview;
+(c) Care coordination; or
+(d) Family support.
+(3) “Children’s advocacy center” means a facility  that meets the facility standards described in
+ORS 418.788, to which a child from the community may be referred to receive a thorough child abuse
+assessment for the  purpose of determining whether the child has been abused or neglected, and that
+facilitates a coordinated, comprehensive and multidisciplinary response to cases of child abuse.
+(4) “Court appointed  special advocate” means a person in a CASA Volunteer Program
+who is appointed by a court  to act as a court appointed special advocate pursuant to ORS
+419B.112.
+[(4)] (5)  “Forensic interview” means an interview that  is conducted by an individual who has
+completed training described in ORS 418.788  for the purpose of preserving a child’s statements and
+that is conducted in a manner that is legally  sound, age appropriate, of a neutral, fact-finding nature
+and coordinated to avoid duplicative interviewing.
+[(5)] (6)  “Medical assessment” means the taking of a child’s thorough medical history and a
+complete physical examination of the child, for the purpose of making a  medical diagnosis, by or
+under the direction of an  individual trained in the evaluation, diagnosis and treatment of child abuse
+who is a licensed physician, physician associate or nurse practitioner.
+[(6)] (7)  “Regional children’s advocacy center” means a facility operated by a children’s advo-
+cacy  center  that meets the facility standards described in ORS 418.788 and is selected by the Child
+Abuse Multidisciplinary Intervention Program to provide training and complex case assistance.
+[(7)] (8) “Training and complex case assistance” includes one or more of the following:
+(a) Consultation;
+(b) Education;
+[6]
+SB 135
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Referral;
+(d) Technical assistance; and
+(e) If authorized by the Department of Justice, other services as needed.
+SECTION 6.
+ ORS 418.784 is amended to read:
+418.784. (1) There is created the Advisory Council on  Child Abuse Assessment, consisting of at
+least [ nine] ten  members appointed by the Attorney General.  The Attorney General shall serve as
+an ex officio member  of the council. The council shall direct the administrator of the Child Abuse
+Multidisciplinary Intervention Program on the  administration of funds to establish and maintain
+children’s advocacy centers or regional children’s advocacy centers under ORS 418.746 to 418.796.
+(2) Of the members appointed to the council:
+(a) One member [ shall] must  be an employee of the Department of Human Services with duties
+related to child protective services;
+(b) One member [ shall] must  be a  physician licensed to practice medicine in Oregon who spe-
+cializes in children and families;
+(c) One member [ shall] must  be a person having experience dealing with child abuse;
+(d) One member [ shall] must  be a district attorney or the designee of a district attorney;
+(e) One  member [ shall] must  be an employee of a law enforcement agency, in addition to the
+member who is a district attorney or the designee of a district attorney;
+(f) One member [ shall] must  be from an operating regional children’s advocacy center; [ and]
+(g) One member must be a current or former court appointed special advocate; and
+[(g)] (h) At least three members [ shall] must  be citizens with appropriate interest in advocating
+for the medical interest of abused children.
+(3) Members of the council who are not state employees:
+(a) Are not entitled to compensation; and
+(b) Are entitled to reimbursement for actual and necessary travel expenses incurred  by them in
+the performance of their official duties as members of the council  if there are sufficient funds
+available in the Child Abuse Multidisciplinary Intervention Account established in ORS 418.746.
+(4) Members  of the council who are state employees carrying out their state employment func-
+tions are entitled to compensation and  reimbursement by their employing agencies for actual and
+necessary travel and other expenses incurred by them in the performance of their  official duties as
+members of the council.
+(5) The council shall  elect one of its members to serve as chairperson, for such terms and with
+such duties and powers as the council determines.
+(6) The council shall meet at least  four times per year at a place, day and hour determined by
+the council.
+(7) A majority of the members  of the council constitutes a quorum for the transaction of busi-
+ness.
+SECTION 7.
+ ORS 418.811 is amended to read:
+418.811. (1) When the  Department of Human Services becomes aware of a critical incident, the
+department shall assign a Critical Incident Review Team.
+(2) The department shall assign the team required under subsection (1) of this section no  later
+than the earlier of:
+(a) Ten days after the department becomes aware of a fatality  that the department reasonably
+believes is the result of child abuse; or
+(b) Seven days after the  department causes an investigation under ORS 419B.020 to be made into
+[7]
+SB 135
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the nature  and cause of a fatality when the department reasonably believes the fatality is the result
+of child abuse.
+(3)(a) Members of the team shall include, at a minimum, the following:
+(A) The Director of Human Services or a deputy director of the department;
+(B) The lead department personnel responsible for the administration and oversight of  the child
+welfare system within the department or the lead personnel’s deputy; [ and]
+(C) The department personnel responsible for media and communications ; and
+(D) A current court appointed special advocate, as defined in ORS  419A.004, chosen from
+a list furnished by the statewide coordinating entity contracted with  by the Oregon Depart-
+ment of Administrative Services under ORS 184.492  of not fewer than three nor more than
+five nominees who have no prior  contact with or knowledge of the deceased child or the de-
+ceased child’s family .
+(b) Members of the team may include:
+(A) Members of the public, appointed by the director, as appropriate;
+(B) A juvenile court judge appointed by the Chief Justice of the Supreme Court;
+(C) A member of a local citizen review board established under ORS 419A.090 whose service
+area does not include the location where the critical incident occurred; or
+(D) If the  director determines it is appropriate to include one or more legislators as members
+of the team,  up to one state Senator appointed by the President of the Senate and one state Repre-
+sentative appointed by the Speaker  of the House of Representatives. A person is ineligible for ap-
+pointment to a team under this subparagraph if the critical incident occurred  in the person’s
+district, the person had prior  contact with or knowledge of the deceased child or the deceased
+child’s family, or the person is a family member of any person associated with the case.
+(4)(a) During the course  of its review of the case, the team may include or consult with the
+district attorney from the county in which the critical incident occurred.
+(b) All members of the team must  attend meetings of the team in person, by telephone or by
+other two-way electronic  communication device. A team member may not send a delegate to
+meetings of  the team to appear on the member’s behalf. Notwithstanding the provisions of this
+paragraph, a meeting of the team may be convened and held even if one or more members are unable
+to attend the meeting.
+(5)(a) All information and records available  to the department regarding the critical incident
+shall be provided to  team members. Information and records under this subsection include, but are
+not limited to, medical records, hospital records, records maintained by any  state, county or local
+agency, police investigative data, coroner or medical examiner  investigative data and social services
+records, as necessary to complete a case review under this section.
+(b) Information and records provided to team members are confidential and may be  disclosed
+only as necessary to carry out the purposes of the team’s case review.
+(6) In reviewing the case to which the team has been assigned, the  team shall, with the assist-
+ance and cooperation of the department:
+(a) Review the case with the primary focus on the history of the safety and well-being  of the
+child who was involved in the critical incident and any other children who  may be impacted by the
+circumstances surrounding the critical incident.
+(b) Document and make a part of the record of the case review all team conclusions and deci-
+sions.
+(c) Complete the case review even if:
+[8]
+SB 135
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) The team concludes that the critical incident was the result of the actions of one or  more
+department employees or staff and that such actions  were inconsistent with department policy or
+administrative rule; or
+(B) The department’s investigation into  the critical incident results in a finding that the report
+of child abuse is unfounded or cannot be determined, as described in ORS 419B.026.
+(d) Prepare and submit the final report required under ORS 418.813.
+(7) If the team concludes that the critical incident involves personnel matters  relevant to the
+department, the department shall refer the matters to the human resources or personnel divisions
+of the department.
+(8) The team may meet, upon conclusion of a criminal investigation  or prosecution arising out
+of a child fatality to which the team was assigned for review, with  members of law enforcement that
+investigated the child fatality or with the prosecuting attorneys who prosecuted the case for  the
+purpose of  reviewing the conclusions and recommendations of the team and the reports prepared and
+submitted by the team.
+(9) The department shall adopt rules necessary to carry out the  provisions of ORS 418.806 to
+418.816. The rules  adopted by the department shall substantially conform with the department’s child
+welfare protocol regarding Notification and Review of Critical Incidents.
+SECTION 8.
+ ORS 418.978 is amended to read:
+418.978. (1) A commission known as the System of Care Advisory Council is established.
+(2) The council consists of [ 25] 26 members appointed as follows:
+(a) The Chief Justice of the Supreme Court shall appoint  one representative from the Judicial
+Department.
+(b) The Governor shall appoint:
+(A) Two members who are representatives of the  Department of Human Services with extensive
+knowledge of systems of care, one of whom must have direct experience with  intellectual and de-
+velopmental disabilities programs.
+(B) One member who is a representative of the Oregon Youth Authority  with extensive knowl-
+edge of systems of care.
+(C) One member who is a representative of the Oregon Health Authority with  extensive knowl-
+edge of systems of care.
+(D) One member who is a representative of the Department of Education.
+(E) Two members who  are representatives of coordinated care organizations meeting the criteria
+adopted by the Oregon  Health Authority under ORS 414.572, at least one of which must provide
+services to rural communities.
+(F) One psychiatrist, one psychologist and one pediatric physician, each of whom must have
+clinical experience with youth.
+(G) One member who is a representative of an entity that offers commercial insurance.
+(H) Three members who are representatives of agencies that  provide different services and
+supports to youth and families of youth.
+(I) One member who is a representative of organizations that advocate for youth.
+(J) One member who is a representative of organizations that advocate for families of youth.
+(K) Two members of the public, each of whom are family members of:
+(i) Persons with intellectual or developmental disabilities or mental illness; or
+(ii) Persons who  are currently or were previously in the foster care system or the youth criminal
+justice system.
+[9]
+SB 135
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+(L) Two members of the public who are no more than 25  years of age at the time of appointment
+or reappointment and who:
+(i) Are persons with intellectual or developmental disabilities or mental illness; or
+(ii) Are currently or  were previously a ward, youth or adjudicated youth, as those terms are
+defined in ORS 419A.004.
+(M) One member who is a county juvenile department director.
+(N) One member who is a county mental health program director.
+(O) One member who is a member of a federally recognized Indian tribe in this state  or a
+designee of the Indian tribe.
+(P) One  member who is a representative of Oregon’s federally mandated disability protection and
+advocacy agency.
+(Q) One member who is a current or  former court appointed special advocate, as defined
+in ORS 419A.004.
+(3) The term of office of each member  of the council is four years, but a member serves at the
+pleasure of the appointing authority. Before the expiration of the term of a member, a  successor
+shall be appointed whose term  begins on January 2 next following. A member is eligible for reap-
+pointment to  one additional term. If there is a vacancy for any cause, the appointing authority shall
+make an appointment to become immediately effective for the unexpired term.
+(4)(a) Members of the council who are not state  employees are not entitled to compensation or
+reimbursement for expenses and serve as volunteers on the council.
+(b) Notwithstanding paragraph (a) of this subsection,  members of the council described in sub-
+section (2)(b)(K) and (L) of this section may be reimbursed  for travel and other reasonable expenses
+associated with serving on the council.
+(5) Members of the council who are state employees carrying out their state employment  func-
+tions are entitled to compensation and reimbursement by their  employing agencies for actual and
+necessary travel and other  expenses incurred by them in the performance of their official duties as
+members of the council.
+(6) The Governor shall appoint one of the members as chairperson, to serve at the pleasure of
+the Governor.  The members of the council shall elect from among themselves a vice chairperson
+who shall preside  over meetings and exercise the functions of the chairperson during the absence
+or disability of the chairperson. The chairperson and the vice chairperson shall execute the duties
+determined by the council to be necessary.
+(7) The council shall appoint an executive director who shall be in the exempt service  and who
+shall be responsible for the performance of duties assigned by  the council. Subject to the State
+Personnel Relations Law, the executive director may employ appropriate staff to carry out the du-
+ties assigned by the council.
+(8) The council shall meet at least  four times per year at a place, day and hour determined by
+the council.
+(9) A majority of the members  of the council constitutes a quorum for the transaction of busi-
+ness.
+[10]

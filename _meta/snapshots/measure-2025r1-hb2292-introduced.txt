@@ -1,0 +1,124 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2292
+Sponsored by Representative GRAYBER; Representatives  MCDONALD, NELSON, PHAM H, Senator PHAM K
+(Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells some health insurers and Medicaid plans to cover more drugs and treatment for
+HIV. (Flesch Readability Score: 73.1).
+Requires health benefit plans and medical assistance managed plans to provide  coverage with
+no cost-sharing for additional treatment  for human immunodeficiency virus and prohibits requiring
+prior authorization.
+A BILL FOR AN ACT
+Relating to treatment of human  immunodeficiency virus; creating new provisions; and amending ORS
+743B.425.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is  added to and made a part of the Insurance Code.
+SECTION 2. (1) An insurer that offers a health benefit plan, as  defined in ORS 743B.005,
+that reimburses the cost of counseling, prevention services or screening for sexually  trans-
+mitted infections, shall provide coverage for human immunodeficiency virus prevention drugs
+and services  necessary for the commencement and continuation of human immunodeficiency
+virus prevention drugs, including but not limited to office visits,  testing, vaccinations and
+monitoring services.
+(2) The coverage must be provided  without any cost-sharing, coinsurance or deductible
+applicable to the services.
+(3) This section is exempt from ORS 743A.001.
+SECTION 3.
+ ORS 743B.425 is amended to read:
+743B.425. (1) An insurer offering a health benefit plan as defined in ORS 743B.005 may not:
+(a) Require prior authorization:
+(A) During the first 60  days of treatment, including medication therapy, prescribed for opioid
+or opiate withdrawal; or
+(B) For post-exposure prophylactic antiretroviral drugs  or therapies  or [ at least  one ] preexpo-
+sure prophylactic antiretroviral [ drug] drugs;
+(b) Restrict the  reimbursement for medication therapies, preexposure prophylactic antiretroviral
+drugs or post-exposure prophylactic antiretroviral drugs to in-network pharmacists  or pharmacies;
+or
+(c) Subject to ORS 742.008, require a deductible,  copayment, coinsurance or other cost-sharing ,
+or impose an annual or lifetime benefit limit  for the coverage of  human immunodeficiency virus
+post-exposure prophylactic drugs or therapies prescribed following a possible exposure to human
+immunodeficiency virus.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1678
+HB 2292
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+(2) This section is not subject to ORS 743A.001.
+(3) This section does not prohibit prior authorization for opioids or  opiates prescribed for pur-
+poses other than medication therapy or treatment of opioid or opiate abuse or addiction.
+(4) Subsection (1)(b) of this section does not apply to a health maintenance organization as  de-
+fined in ORS 750.005.
+SECTION 4.
+Section 5 of this 2025 Act is added to and made a part of ORS chapter 414.
+SECTION 5. (1) As used in this section:
+(a) “Prior authorization” has the meaning given that term in ORS 743B.001.
+(b) “Step therapy” has the meaning given that term in ORS 743B.001.
+(2) Notwithstanding ORS 414.325, the Oregon Health Authority and a  coordinated care
+organization may  not require prior authorization or step therapy for drugs prescribed for a
+medical assistance recipient for the treatment or prevention of  human immunodeficiency
+virus if:
+(a) The drug  has been approved by the United States Food and Drug Administration for
+the treatment or prevention of human immunodeficiency virus; and
+(b) The prescribing provider has determined that the drug is medically necessary.
+(3) Nothing in this section prevents the authority from performing drug utilization review
+that may be necessary for patient  safety or for ensuring the prescribed drug is medically
+accepted as required by section 1927 of the Social Security Act of 1935 (42 U.S.C. 1396r-8).
+SECTION 6.
+ Section 2 of this 2025 Act and the amendments to  ORS 743B.425 by section
+3 of this 2025 Act apply to health  benefit plans offered, renewed or extended on or after the
+effective date of this 2025 Act.
+[2]

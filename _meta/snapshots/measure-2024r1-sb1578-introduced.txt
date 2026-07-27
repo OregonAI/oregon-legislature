@@ -1,0 +1,147 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1578
+Sponsored by  Senator MANNING JR, Representatives NELSON, DEXTER, Senator GORSEK; Senators CAMPOS,
+DEMBROW, FREDERICK, JAMA, Representatives BYNUM, CHAICHI, GAMBA, GRAYBER,  HARTMAN,
+LIVELY, MARSH, NOSSE,  PHAM H, REYNOLDS, RUIZ, SOSA (at the request of Lamar Wise, AFSCME)
+(Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act directs the OHA to  set up a health care interpreter management system. The
+Act requires the OHA to contract with a nonprofit entity to manage the system. The Act sets  out
+certain requirements for the nonprofit. The Act requires  the nonprofit to submit a report to the
+OHA each year. (Flesch Readability Score: 60.2).
+Directs the Oregon Health Authority to establish and maintain  an online portal with the
+functionality to provide online scheduling for health care providers and coordinated  care organiza-
+tions to use to contact  health care interpreters directly and to process billing. Requires the au-
+thority to contract with a  nonprofit entity to administer the portal. Provides criteria and reporting
+requirements that the contracting nonprofit must meet.
+A BILL FOR AN ACT
+Relating to health care interpreters.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 and 3 of this 2024 Act are added to and made a part of ORS 413.550
+to 413.559.
+SECTION 2. (1) As used in this section and section 3 of this 2024 Act:
+(a) “Interpreter management system” means an online portal that meets the require-
+ments under subsection (3) of this section.
+(b) “Nonprofit entity” means an organization that:
+(A) Is registered in this state;
+(B) Is exempt from taxation under section 501(c)(3) of the Internal Revenue Code; and
+(C) Works with certified  and qualified health care interpreters and individuals from im-
+migrant, refugee, low-income and rural communities.
+(2)(a) For purposes  of improving access to certified and qualified health care interpreters,
+the Oregon Health Authority shall establish and maintain an interpreter management system
+that has the functionality to meet the  requirements described under subsection (3) of this
+section.
+(b) If a software program is available for purchase that is appropriate for the interpreter
+management system, the authority may contract with the vendor of the software program
+in lieu of creating a new software program.
+(3) The interpreter management system shall have the capability to:
+(a) Provide online scheduling resources that health care providers,  including coordinated
+care organizations, may use to directly  schedule appointments with certified and qualified
+health care interpreters; and
+(b) Process billing and payments for  health care interpreter services scheduled through
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 253
+SB 1578
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+the portal.
+SECTION 3.
+(1) The Oregon Health  Authority shall contract with a nonprofit entity for
+the administration and  management of the interpreter management system described under
+section 2 of this 2024 Act. The nonprofit entity  contracting with the authority must meet,
+at a minimum, the following requirements and standards:
+(a) Providing low-cost training and continuing  education opportunities for certified and
+qualified health care interpreters.
+(b) The ability to directly contact qualified and certified health  care interpreters to fill
+empty appointment slots and last-minute cancellations.
+(c) Having a plan for recruiting and retaining certified and qualified health care  inter-
+preters.
+(d) Maintaining a commitment to involving certified and qualified  health care interpret-
+ers and labor organizations that  represent health care interpreters in developing strategies
+to improve education and training, recruitment and support for the  health care interpreter
+workforce.
+(e) Providing information to health care interpreters regarding the  health care inter-
+preter qualification and certification standards established by the Oregon Health Authority.
+(f) Informing health care interpreters  of training and professional development opportu-
+nities, made available through the nonprofit entity or otherwise, that are in accordance with
+standards adopted by the Oregon Health Authority under ORS 413.558.
+(2) A nonprofit entity that contracts with  the Oregon Health Authority under subsection
+(1) of this section shall report annually to the authority on the:
+(a) Amount of moneys received from the authority that were applied toward providing
+training and recruitment of health care interpreters, if any;
+(b) Health care interpreter training provided by the nonprofit entity;
+(c) Outreach and recruitment efforts directed toward certified and  qualified health care
+interpreters that the nonprofit entity has provided or plans to provide; and
+(d) Status of the health care interpreter management  system administered by the
+nonprofit entity.
+SECTION 4.
+The Oregon Health Authority shall take  all steps necessary to secure federal
+financial participation in the costs of directly  reimbursing health care interpreters for health
+care interpretation services provided to medical assistance  recipients, including but not
+limited to  seeking approval from the Centers for Medicare and Medicaid Services for a dem-
+onstration project under 42 U.S.C. 1315.
+[2]

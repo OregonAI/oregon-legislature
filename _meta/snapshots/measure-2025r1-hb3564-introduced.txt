@@ -1,0 +1,143 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3564
+Sponsored by Representative HARBICK; Representatives DIEHL, SKARLATOS, Senator STARR
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes the law about how to ask a  publisher to correct or retract a statement.
+(Flesch Readability Score: 65.1).
+Modifies provisions relating to demands for correction or retraction of a  published defamatory
+statement.
+A BILL FOR AN ACT
+Relating to published defamatory statements; amending ORS 31.205, 31.210, 31.215 and 31.220.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 31.205 is amended to read:
+31.205. Except as provided in ORS 31.210, in an action for damages on account of a defamatory
+statement published or broadcast in a printed or  electronic  newspaper, magazine[ ,] or other
+[printed] periodical, or by radio, television or motion  pictures, the plaintiff may recover any general
+and special damages [ which] that , by competent evidence, the plaintiff can prove to have suffered
+as a direct and proximate result of the publication of the defamatory statement.
+SECTION 2.  ORS 31.210 is amended to read:
+31.210. (1) In an action  for damages on account of a defamatory statement published or broad-
+cast in a printed or electronic  newspaper,  magazine[ ,] or other [ printed] periodical, or by radio,
+television or motion pictures, the plaintiff [ shall] may  not recover general damages unless:
+(a) A correction or retraction is demanded but not published as provided in ORS 31.215; or
+(b) The  plaintiff proves by a preponderance of the evidence that the defendant actually intended
+to defame the plaintiff.
+(2) Where the plaintiff is entitled  to recover general damages, the publication of a correction
+or retraction may be considered in mitigation of damages.
+SECTION 3.
+ ORS 31.215 is amended to read:
+31.215. (1) [The] A demand for correction or retraction [ shall] of a defamatory statement must
+be in writing, signed by the defamed person or the attorney of the  person and be delivered to the
+publisher of the defamatory statement, either  personally,  by electronic mail,  by registered mail or
+by certified mail with return receipt at the publisher’s place of business or residence within [ 20] 60
+days after the defamed person receives actual knowledge of  the defamatory statement. The demand
+[shall] must specify which statements are false and  defamatory and request that they be corrected
+or retracted. The demand may also  refer to the sources from which the true facts may be ascer-
+tained with accuracy.
+[(2) The publisher of the defamatory  statement shall have not more than two weeks after receipt
+of the demand for correction or retraction in which to investigate the demand; and,  after making such
+investigation, the publisher shall publish the correction or retraction in: ]
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4328
+HB 3564
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+[(a) The  first issue thereafter published, in the case of newspapers, magazines or other printed pe-
+riodicals.]
+[(b) The first broadcast or telecast thereafter made, in the case of radio or television stations. ]
+[(c) The first public exhibition thereafter made, in the case of motion picture theaters. ]
+(2) The publisher of the allegedly defamatory statement shall investigate the demand for
+correction or retraction within  two weeks after receiving the demand. If the publisher agrees
+to the demand for correction or retraction, and the defamatory statement was published  via:
+(a) A printed newspaper, magazine or other periodical, the publisher shall publish the
+correction or retraction in the first issue thereafter published.
+(b) An electronic newspaper, magazine  or other periodical, the publisher shall imme-
+diately place a link to the correction or retraction on the front page of the publisher’s
+website and on any page containing  the defamatory statement or retract the defamatory
+statement by removing  the defamatory statement from the electronic newspaper, magazine
+or other periodical.
+(c) A radio  or television station, the publisher shall publish the correction or retraction
+in the first broadcast or telecast thereafter made.
+(d) A motion picture  theater, the publisher shall publish the correction or retraction in
+the first public exhibition thereafter made.
+(3) Except when the publisher removes  the defamatory statement under subsection (2)(b)
+of this section:
+(a) [ The] A correction or retraction [ shall] must consist of a statement by the publisher sub-
+stantially to the effect that the defamatory statements previously  made are not factually supported
+and that the publisher regrets the original publication [ thereof] of the defamatory statements .
+[(4)] (b) The correction or retraction [ shall] must be published in substantially as conspicuous
+a manner as the defamatory statement.
+SECTION 4.
+ ORS 31.220 is amended to read:
+31.220. A  correction or retraction published [ prior to notice of demand therefor shall have the
+same effect as a correction or retraction after demand, if the requirements of ORS 31.215  (2), (3) and
+(4) are substantially  complied with ] before a publisher receives a demand under ORS 31.215 for
+the correction or retraction has the same effect as a correction or retraction  after demand,
+if the publisher substantially complies with the requirements of ORS 31.215 (2) and (3) .
+[2]

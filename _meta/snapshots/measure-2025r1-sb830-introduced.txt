@@ -1,0 +1,199 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 830
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Governor Tina Kotek for Department of Environmental Quality)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act changes laws for the on-site  septic system loan program to allow for grants and
+to expand who qualifies for help. (Flesch Readability Score: 65.2).
+Modifies provisions of the on-site septic system loan program to allow for grants. Expands el-
+igibility for the program.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to on-site septic systems;  amending ORS 454.777 and 454.779; and prescribing an effective
+date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 454.777 is amended to read:
+454.777. The Legislative Assembly declares it to  be the policy of this state to assist the people
+of this state in protecting public health and safety and  the quality of the waters of this state by
+making [ grants] financial assistance  available for [the development of low-interest loan programs
+for] the repair, replacement, upgrade or evaluation of  residential or small business on-site septic
+systems. The Legislative Assembly also declares it to be the policy of  this state to support the
+availability of affordable loans to assist residents  to remain in their homes and thereby promote
+long-term home ownership and sustainable housing opportunities.
+SECTION 2.  ORS 454.779 is amended to read:
+454.779. (1) As used in this section and ORS 454.777:
+(a) “Available sewer” means an existing public sewer system that a residence  or small business
+is capable of being connected to:
+(A) In compliance with state and local law; and
+(B) Without a significant extension of the public sewer system.
+(b) [ “Loan program” ] “Financial assistance program”  means a  program to provide grants,
+loans or other assistance that is  funded by a program grant awarded under this section.
+(c)(A) “On-site septic system”  means a subsurface on-site sewage treatment and disposal system,
+including, but not limited to, alternative sewage disposal systems,  nonwater-carried sewage disposal
+facilities and subsurface sewage disposal systems as those terms are defined in ORS 454.605.
+(B) “On-site septic system” does not  include any system that is designed to treat and dispose
+of industrial waste.
+(d)(A) “Residence” or “residential” means single-unit or multiple-unit  housing, whether
+occupied by the owner or a tenant.
+(B) “Residence” or  “residential” does not include property used to provide short-term
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 387
+SB 830
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+lodging.
+[(d)] (e)  “Small business” means a  corporation, partnership, sole proprietorship or other legal
+entity formed for the purpose of making a  profit and that generates less than 3,500 gallons of
+wastewater per day.
+(2) The Department of  Environmental Quality shall award  program  grants for the purpose of
+developing  and  administering [ loan] financial assistance  programs [ to provide low-interest loans ] for
+the purposes described in subsection  (3)(b) of this section. The Environmental Quality Commission
+may adopt rules necessary to implement the provisions of this section.
+(3) The department may not disburse program grant funds under  this section unless the de-
+partment and  the intended program grant award recipient first enter into a grant agreement. The
+grant agreement must:
+(a) Provide that a lender that participates in a [ loan] financial assistance  program must  agree
+to subordinate the lender’s lien to the borrower’s consensual mortgage lien.
+(b) Require that [ loans] financial assistance  provided to  property owners  [ borrowers  under a
+loan program ] must be used for at least one of the following purposes to address a  public health and
+safety risk or to otherwise protect or maintain water quality in the waters of this state:
+(A) To repair a damaged, malfunctioning  or inoperable residential or small business on-site
+septic system.
+(B) To replace a  damaged, malfunctioning or inoperable residential or small business on-site
+septic system with:
+(i) A new, used or reconditioned functional residential or small business on-site septic system;
+(ii) A new, used or reconditioned functional cluster on-site septic system; or
+(iii) A connection to an  available sewer, and to properly decommission and discontinue use of
+the on-site septic system.
+(C) To upgrade a residential or small business on-site septic  system with a newer or more ad-
+vanced on-site septic system. An upgrade may include alterations if the  work is part of a repair or
+if the on-site septic system being upgraded is more than 25 years old.
+(D) To replace  the waste disposal well or sewage drill hole of an otherwise functional residential
+or small business on-site septic system.
+(E) To  conduct a regional evaluation of community, residential or small business on-site septic
+systems to determine whether repair or replacement is necessary.
+(c) Require that, if a residence or small business  with a damaged, malfunctioning or inoperable
+on-site septic system is located within the territory of  an available sewer, and is required to connect
+to the available sewer, [ a loan] financial assistance  provided [ under a loan program ] to  address the
+damaged, malfunctioning or inoperable on-site septic system must be used to  install a connection to
+the available sewer and to properly decommission and discontinue use of the on-site septic system.
+(d) Require that a  loan provided under a [ loan] financial assistance  program must be in an
+amount that covers 100 percent of  the costs associated with the purposes under paragraph (b) of this
+subsection for which the loan is provided, unless the borrower requests  and consents to a loan that
+covers a lower percentage of the costs.
+(e) Require  that a program grant award recipient must provide a mechanism for ensuring
+compliance with any locally required operation and maintenance of  an on-site septic system for
+which [ a loan ] financial assistance  is provided [ under a loan program ].
+(f) Require that a program grant award  recipient use accounting, auditing and fiscal procedures
+that conform to generally accepted government accounting standards.
+[2]
+SB 830
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+(4) In  selecting program grant award recipients under this section, the department shall give
+preference to applicants that:
+(a) [ Prioritize, but do not limit themselves to, providing loans to ] Provide financial assistance
+to low and  moderate income  households, residential housing providers and small business [ ap-
+plicants] property owners  that are unable to obtain traditional financing;
+(b) Can  demonstrate prior success in offering, underwriting, servicing and managing loans , or
+providing other financial assistance,  to:
+(A) Members of low and moderate income populations;
+(B) Persons with a range of credit qualifications; and
+(C) Residential and commercial [ borrowers ] property owners ; and
+(c) Plan to engage additional stakeholders in outreach and marketing efforts for a [ loan] finan-
+cial assistance  program.
+SECTION 3.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

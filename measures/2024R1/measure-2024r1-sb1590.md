@@ -1,0 +1,397 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2024r1-sb1590
+title: 'SB 1590 (2024R1): Repeals provisions related to the towed watersports program.'
+doc_type: dataset_doc
+citation: 2024 Regular Session Senate Bill 1590
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1590/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: af260ef9b4b04dc23906f8c3a0983fa5fc3abcc263a97a4dcac812f82c099b8c
+snapshot_id: measure-2024r1-sb1590-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 153.019
+  - ORS 830.035
+  - ORS 830.050
+  - ORS 830.053
+  - ORS 830.060
+  - ORS 830.082
+  - ORS 830.084
+  - ORS 830.086
+  - ORS 830.088
+  - ORS 830.090
+  - ORS 830.092
+  - ORS 830.094
+  - ORS 830.110
+  - ORS 830.175
+  - ORS 830.180
+  - ORS 830.185
+  - ORS 830.187
+  - ORS 830.195
+  - ORS 830.210
+  - ORS 830.215
+  - ORS 830.220
+  - ORS 830.225
+  - ORS 830.230
+  - ORS 830.235
+  - ORS 830.240
+  - ORS 830.245
+  - ORS 830.250
+  - ORS 830.260
+  - ORS 830.300
+  - ORS 830.302
+  - ORS 830.305
+  - ORS 830.315
+  - ORS 830.325
+  - ORS 830.375
+  - ORS 830.383
+  - ORS 830.390
+  - ORS 830.415
+  - ORS 830.475
+  - ORS 830.480
+  - ORS 830.565
+  - ORS 830.591
+  - ORS 830.605
+  - ORS 830.624
+  - ORS 830.640
+  - ORS 830.643
+  - ORS 830.646
+  - ORS 830.649
+  - ORS 830.652
+  - ORS 830.655
+  - ORS 830.710
+  - ORS 830.720
+  - ORS 830.730
+  - ORS 830.770
+  - ORS 830.780
+  - ORS 830.785
+  - ORS 830.805
+  - ORS 830.810
+  - ORS 830.850
+  - ORS 830.950
+  - ORS 830.955
+  - ORS 830.990
+  - ORS 835.200
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2024r1
+- sb
+session_key: 2024R1
+measure_prefix: SB
+measure_number: 1590
+prefix_meaning: Senate Bill
+catch_line: Repeals provisions related to the towed watersports program.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act repeals laws related to boats and towed sports. The Act changes laws\
+  \ about boating safety education. The Act goes into effect 91 days after the session ends. (Flesch Readability\
+  \ Score: 65.7). \n\tRepeals provisions related to the towed watersports program. \n\tProvides that the\
+  \ minimum standard for boating safety education must include instruction relating to towed watersports\
+  \ safety education. \n\tTakes effect on the 91st day following adjournment sine die."
+relating_to: Relating to boats; prescribing an effective date.
+relating_to_full: Relating to boats; creating new provisions; amending ORS 830.084, 830.110 and 830.990;
+  repealing ORS 830.640, 830.643, 830.646, 830.649, 830.652 and 830.655 and section 4, chapter 119, Oregon
+  Laws 2022; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 113
+measure_created_date: '2024-01-16T09:21:07'
+measure_modified_date: '2024-02-05T12:19:16'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 12205
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 153.019
+  - ORS 830.035
+  - ORS 830.050
+  - ORS 830.053
+  - ORS 830.060
+  - ORS 830.082
+  - ORS 830.084
+  - ORS 830.086
+  - ORS 830.088
+  - ORS 830.090
+  - ORS 830.092
+  - ORS 830.094
+  - ORS 830.110
+  - ORS 830.175
+  - ORS 830.180
+  - ORS 830.185
+  - ORS 830.187
+  - ORS 830.195
+  - ORS 830.210
+  - ORS 830.215
+  - ORS 830.220
+  - ORS 830.225
+  - ORS 830.230
+  - ORS 830.235
+  - ORS 830.240
+  - ORS 830.245
+  - ORS 830.250
+  - ORS 830.260
+  - ORS 830.300
+  - ORS 830.302
+  - ORS 830.305
+  - ORS 830.315
+  - ORS 830.325
+  - ORS 830.375
+  - ORS 830.383
+  - ORS 830.390
+  - ORS 830.415
+  - ORS 830.475
+  - ORS 830.480
+  - ORS 830.565
+  - ORS 830.591
+  - ORS 830.605
+  - ORS 830.624
+  - ORS 830.640
+  - ORS 830.643
+  - ORS 830.646
+  - ORS 830.649
+  - ORS 830.652
+  - ORS 830.655
+  - ORS 830.710
+  - ORS 830.720
+  - ORS 830.730
+  - ORS 830.770
+  - ORS 830.780
+  - ORS 830.785
+  - ORS 830.805
+  - ORS 830.810
+  - ORS 830.850
+  - ORS 830.950
+  - ORS 830.955
+  - ORS 830.990
+  - ORS 835.200
+  from_relating_to_full:
+  - ORS 830.084
+  - ORS 830.110
+  - ORS 830.640
+  - ORS 830.643
+  - ORS 830.646
+  - ORS 830.649
+  - ORS 830.652
+  - ORS 830.655
+  - ORS 830.990
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1590>.
+
+# SB 1590 — 2024 Regular Session (2024R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1590, 2024 Regular Session (2024R1)
+- **LC number:** 113
+- **Created:** 2024-01-16T09:21:07
+- **Metadata last modified (upstream):** 2024-02-05T12:19:16
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 12205 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1590/Introduced>.
+
+## Summary
+
+**Catchline:** Repeals provisions related to the towed watersports program.
+
+**Relating to:** Relating to boats; prescribing an effective date.
+
+Digest: The Act repeals laws related to boats and towed sports. The Act changes laws about boating safety education. The Act goes into effect 91 days after the session ends. (Flesch Readability Score: 65.7). 
+ Repeals provisions related to the towed watersports program. 
+ Provides that the minimum standard for boating safety education must include instruction relating to towed watersports safety education. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to boats; creating new provisions; amending ORS 830.084, 830.110 and 830.990; repealing ORS 830.640, 830.643, 830.646, 830.649, 830.652 and 830.655 and section 4, chapter 119, Oregon Laws 2022; and prescribing an effective date.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1590
+Sponsored by Senators MEEK,  SMITH DB, Representatives BYNUM, ELMER; Senators MANNING JR, WOODS,
+Representatives BOICE, HIEB, RUIZ (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act repeals laws related to boats  and towed sports. The Act changes laws about
+boating safety education. The Act goes into effect 91 days after the session ends. (Flesch  Read-
+ability Score: 65.7).
+Repeals provisions related to the towed watersports program.
+Provides that the minimum standard for boating  safety education must include instruction re-
+lating to towed watersports safety education.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to boats; creating new provisions; amending ORS 830.084, 830.110 and 830.990;  repealing
+ORS 830.640, 830.643,  830.646, 830.649, 830.652 and 830.655 and section 4, chapter 119, Oregon
+Laws 2022; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) ORS 830.640, 830.643, 830.646, 830.649, 830.652 and 830.655 are repealed.
+(2) Section 4, chapter 119, Oregon Laws 2022, is repealed.
+SECTION 2.
+ ORS 830.084 is amended to read:
+830.084. In establishing the  mandatory boating safety education program pursuant to ORS
+830.082, the State Marine Board shall:
+(1) Set a minimum standard of boating safety education. The minimum standard  shall be con-
+sistent with the applicable standard established or approved by  the National Association of State
+Boating Law Administrators and include instruction relating to towed watersports safety edu-
+cation. The board by rule may update the minimum standard as necessary.
+(2) Create a boating  safety course and examination designed to educate and test for the mini-
+mum standard established pursuant to subsection (1) of this section.
+(3) Create an equivalency exam that may substitute for taking the boating safety course.
+(4) Incorporate volunteer boating safety education programs to the maximum extent possible.
+(5) Allow use of commercially provided  boating safety courses, provided the courses meet the
+standard adopted by the board.
+(6) Accept proof of  prior completion of any approved boating safety course as meeting the re-
+quirement for a boating safety course.
+(7) Establish a fee for the boating safety education  card issued under ORS 830.086 that may not
+exceed  $20.
+(8) Promote the fact that insurance discounts  of 10 percent to 15 percent are widely available
+for taking a boating  safety course that meets the minimum standard established pursuant to sub-
+section (1) of this section.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 113
+SECTION 3.
+ ORS 830.110 is amended to read:
+830.110. In addition to the powers and duties  otherwise provided in this chapter, the State Ma-
+rine Board shall have the power and duty to:
+(1) Make all rules necessary to carry out the provisions of this chapter. The rules  shall be made
+in accordance with ORS chapter 183.
+(2) Devise a  system of identifying numbers for boats, floating homes and boathouses. If an
+agency of the  federal government has an overall system of identification numbering for boats within
+the United States, the system devised by the board shall conform with the federal system.
+(3) Cooperate with state and federal agencies to promote  uniformity of the laws relating to
+boating and their enforcement.
+(4) Make contracts  necessary to carry out the provisions of ORS 830.060 to 830.140, 830.565 to
+830.575, 830.630, [ 830.640 to 830.649, ] 830.700 to 830.715, 830.725, 830.730,  830.770, 830.780, 830.785,
+830.795 to 830.820 and 830.830 to 830.870.
+(5) Advise and assist county sheriffs and other peace  officers in the enforcement of laws relating
+to boating.
+(6) Study, plan and recommend the development of boating facilities  throughout the state which
+will promote the safety and pleasure of the public through boating.
+(7) Publicize the advantage of safe boating.
+(8) Accept gifts and grants of property and money to be used to further  the purposes of this
+chapter.
+(9) Exempt from any provisions of this chapter any class of boats if it  determines that the safety
+of persons  and property will not be materially promoted by the applicability of those provisions to
+the class of boats. The board may not exempt from numbering any class of boats unless:
+(a) The board determines that the numbering will not materially aid in their identification; and
+(b) The secretary of the department of the federal government under which the United States
+Coast Guard is operating has exempted from numbering the same boats or classes of boats.
+(10) Appoint and require the bonding of agents to issue a temporary permit  to operate a boat.
+In addition to the prescribed fees, the agents  may charge a fee prescribed by the board for their
+services in issuing the temporary permit. Every three years the board shall  issue an order revising
+the fee imposed under this subsection on January 1, based on changes in  the Consumer Price Index
+for All Urban Consumers, West  Region (All Items), as published by the Bureau of Labor Statistics
+of the United States Department of Labor. The board shall round the  amount of the fee to the
+nearest half-dollar.  The revised fee takes effect on January 1 and applies for the following three
+years.
+(11) Publish and distribute to  the interested public the boating laws of this state and resumes
+or explanations of those laws.
+(12) Publish and distribute forms for any application required under  this chapter and require the
+use of such forms.
+(13) Make rules for the uniform navigational marking of the waters of this state. Such rules shall
+not conflict with markings prescribed by the United States Coast Guard. No  political subdivision
+or person shall mark the waters of this state in  any manner in conflict with the markings prescribed
+by the board.
+(14) Make rules regarding marine toilets  and their use consistent with the prevention and con-
+trol of pollution of the waters of this  state and not in conflict with the rules of the Oregon Health
+Authority or the Environmental Quality Commission.
+(15) Institute proceedings to enjoin  unlawful obstructions injuring free navigation on the waters
+of this state.
+(16) Make rules regulating water ski course markers, ski jumps and other special use  devices
+placed in the waters of this state. Such  rules may regulate the installation and use of the devices
+and may require a permit.
+(17) Adopt rules necessary to carry out and enforce the  provisions of ORS 830.950 and 830.955.
+The rules shall include but need not be limited to:
+(a) The kinds of protective covering or physical barriers that are acceptable to be used between
+a submersible polystyrene device and the water.
+(b) Guidelines for the use of submersible polystyrene devices for the repair  or maintenance of
+existing docks or floats.
+(18) Adopt rules providing for establishment  of a Safe Boating Education Course to be made
+available  to  courts and law enforcement agencies within this state for use as a sentencing option
+for those individuals  convicted of boating offenses. The board shall specify the content of the Safe
+Boating Education Course and shall prescribe procedures for  making the course available to local
+courts and law enforcement agencies, including procedures for  promptly notifying such courts
+whether individuals required to enroll in the course have taken and successfully passed the  course.
+Such rules may provide for  administration of the course through nonprofit organizations, such as the
+United States Coast Guard Auxiliary, United States Power Squadrons or similar groups.
+(19) For purposes of ORS 830.175, 830.180, 830.185, 830.187 and 830.195,  in cooperation with the
+State Aviation Board, regulate boats that are seaplanes as provided in ORS 830.605 and 835.200.
+SECTION 4.
+ ORS 830.990 is amended to read:
+830.990. (1) Violation  of ORS 830.302 by a person operating a motorboat or violation of ORS
+830.565 by a person operating a sailboat that is at least 12 feet in length or a motorboat is a Class
+D violation. Notwithstanding ORS 153.019, the presumptive fine for a  violation of ORS 830.302 or
+830.565 by a person operating a motorboat is $50.
+(2) A person who violates  ORS 830.050, 830.088, 830.090, 830.092, 830.094, 830.215, 830.230,
+830.415, 830.624, 830.710, 830.720, 830.770, 830.780, 830.810, 830.850 or 830.855, or rules adopted to
+carry out the purposes of those statutes, commits a Class D violation.
+(3) A person who violates ORS 830.220, 830.240, 830.245, 830.250, 830.375, 830.475 (4), 830.480,
+830.785, 830.805 or 830.825, or rules adopted to carry out  the purposes of those statutes, commits a
+Class C violation.
+(4) A person who violates  ORS 830.110, 830.175, 830.180, 830.185, 830.187, 830.195, 830.210,
+830.225, 830.235, 830.260, 830.300, 830.315  (2) and (3), 830.335, 830.340, 830.345, 830.350, 830.355,
+830.360, 830.362, 830.365, 830.370, 830.410, 830.420, 830.425, 830.495, 830.560, [830.649,] 830.775, 830.795
+or 830.830, or rules adopted to carry out the purposes  of those statutes, commits a Class B violation.
+(5) A person who violates ORS 830.305, 830.390 or 830.944, or rules adopted to  carry out the
+purposes of those statutes, commits a Class A violation.
+[(6)(a) Notwithstanding subsection (4) of this section,  a person who violates ORS 830.649 and has
+one or more prior convictions for violation of  ORS 830.649 within a three-year period preceding the
+date of the person’s current conviction, commits a Class A violation. ]
+[(b) In addition to the penalty imposed under this subsection, the court shall: ]
+[(A) Order the person not to operate a boat for a period of one year; and ]
+[(B) Order the person to complete a boating safety course approved by the State Marine Board. ]
+[(7)] (6) A person who violates ORS 830.591 commits a Class C misdemeanor.
+[(8)] (7) A person who violates ORS 830.383 commits a Class B misdemeanor.
+[(9)] (8) A person who violates ORS 830.035 (2), 830.053, 830.315 (1), 830.325, 830.475 (1),  830.730
+or 830.955 (1) commits a Class A misdemeanor.
+[(10)] (9) A person who violates ORS 830.475 (2) commits a Class C felony.
+SECTION 5.
+The amendments to ORS 830.990 by  section 4 of this 2024 Act and the repeal
+of statutes by section 1 of this 2024 Act:
+(1) Apply to conduct constituting, or alleged to constitute,  an offense occurring on or
+after the effective date of this 2024 Act.
+(2) Do not affect proceedings  based on conduct constituting, or alleged to constitute, an
+offense occurring before the effective date of this 2024 Act.
+(3) Do not release or extinguish any penalty incurred under the statutes repealed by
+section 1 of  this 2024 Act. The statutes repealed by section 1 of this 2024 Act remain in force
+for the purpose of maintaining  an action or prosecution for the enforcement of such a pen-
+alty.
+(4) Do not relieve a person of any obligation with respect to a fine,  penalty, liability or
+other duty or obligation accruing under the statutes repealed by section  1 of this 2024 Act.
+After the effective date of this  2024 Act, a court may undertake the collection or enforce-
+ment of such fine, penalty or other liability, duty or obligation.
+SECTION 6. This 2024 Act takes effect on the 91st day after the date on which the 2024
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 830.084, ORS 830.110, ORS 830.640, ORS 830.643, ORS 830.646, ORS 830.649, ORS 830.652, ORS 830.655, ORS 830.990
+- From bill text (Introduced version): ORS 153.019, ORS 830.035, ORS 830.050, ORS 830.053, ORS 830.060, ORS 830.082, ORS 830.084, ORS 830.086, ORS 830.088, ORS 830.090, ORS 830.092, ORS 830.094, ORS 830.110, ORS 830.175, ORS 830.180, ORS 830.185, ORS 830.187, ORS 830.195, ORS 830.210, ORS 830.215, ORS 830.220, ORS 830.225, ORS 830.230, ORS 830.235, ORS 830.240, ORS 830.245, ORS 830.250, ORS 830.260, ORS 830.300, ORS 830.302, ORS 830.305, ORS 830.315, ORS 830.325, ORS 830.375, ORS 830.383, ORS 830.390, ORS 830.415, ORS 830.475, ORS 830.480, ORS 830.565, ORS 830.591, ORS 830.605, ORS 830.624, ORS 830.640, ORS 830.643, ORS 830.646, ORS 830.649, ORS 830.652, ORS 830.655, ORS 830.710, ORS 830.720, ORS 830.730, ORS 830.770, ORS 830.780, ORS 830.785, ORS 830.805, ORS 830.810, ORS 830.850, ORS 830.950, ORS 830.955, ORS 830.990, ORS 835.200
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `af260ef9b4b04dc23906f8c3a0983fa5fc3abcc263a97a4dcac812f82c099b8c` (snapshot `_meta/snapshots/measure-2024r1-sb1590-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1590/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1590> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

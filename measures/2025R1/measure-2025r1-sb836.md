@@ -1,0 +1,343 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb836
+title: 'SB 836 (2025R1): Increases fees charged by the State Department of Geology and Mineral Industries.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 836
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB836/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 08b7c535f3e24f94372e0e44377dc4800c7ac4cbc8794ad27931350f48bb1c14
+snapshot_id: measure-2025r1-sb836-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 516.070
+  - ORS 517.702
+  - ORS 517.705
+  - ORS 517.710
+  - ORS 517.750
+  - ORS 517.753
+  - ORS 517.755
+  - ORS 517.790
+  - ORS 517.800
+  - ORS 517.910
+  - ORS 517.952
+  - ORS 517.961
+  - ORS 517.973
+  - ORS 517.979
+  - ORS 517.980
+  - ORS 520.017
+  - ORS 522.055
+  - ORS 522.115
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 836
+prefix_meaning: Senate Bill
+catch_line: Increases fees charged by the State Department of Geology and Mineral Industries.
+minority_catch_line: null
+measure_summary: "\tDigest: This Act increases fees charged by DOGAMI. (Flesch Readability Score: 66.7).\
+  \ \n\tIncreases fees charged by the State Department of Geology and Mineral Industries."
+relating_to: Relating to fees imposed by the State Department of Geology and Mineral Industries.
+relating_to_full: Relating to fees imposed by the State Department of Geology and Mineral Industries.
+at_the_request_of: (at the request of Governor Tina Kotek for State Department of Geology and Mineral
+  Industries)
+lc_number: 424
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-08-08T08:11:04'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 14606
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 516.070
+  - ORS 517.702
+  - ORS 517.705
+  - ORS 517.710
+  - ORS 517.750
+  - ORS 517.753
+  - ORS 517.755
+  - ORS 517.790
+  - ORS 517.800
+  - ORS 517.910
+  - ORS 517.952
+  - ORS 517.961
+  - ORS 517.973
+  - ORS 517.979
+  - ORS 517.980
+  - ORS 520.017
+  - ORS 522.055
+  - ORS 522.115
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 836>.
+
+# SB 836 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 836, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for State Department of Geology and Mineral Industries)
+- **LC number:** 424
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-08-08T08:11:04
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 14606 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB836/Enrolled>.
+
+## Summary
+
+**Catchline:** Increases fees charged by the State Department of Geology and Mineral Industries.
+
+**Relating to:** Relating to fees imposed by the State Department of Geology and Mineral Industries.
+
+Digest: This Act increases fees charged by DOGAMI. (Flesch Readability Score: 66.7). 
+ Increases fees charged by the State Department of Geology and Mineral Industries.
+
+**RelatingToFull (verbatim upstream field):** Relating to fees imposed by the State Department of Geology and Mineral Industries.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 836
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Governor  Tina Kotek for State Department of Geology and Mineral
+Industries)
+CHAPTER .................................................
+AN ACT
+Relating to fees imposed by the State Department of Geology  and Mineral Industries; amending ORS
+517.710, 517.753, 517.800, 517.973, 520.017, 522.055 and 522.115.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 517.710 is amended to read:
+517.710. (1) If the person conducting an exploration under a permit  issued under ORS 517.705 is
+not in violation of ORS 517.702 to 517.740 or 517.810 or any terms of the permit and has paid an
+annual renewal fee not  to exceed [ $1,460] $1,500 prior to the anniversary date of the permit as es-
+tablished by the State Department of Geology and Mineral  Industries, the department shall renew
+the permit.
+(2) Nothing in this section prevents the department from suspending or revoking a  permit for
+violations of ORS  517.702 to 517.740 or 517.810 or taking any other action authorized under this
+chapter.
+SECTION 2.
+ ORS 517.753 is amended to read:
+517.753. (1) Notwithstanding the yard and acre limitations of ORS 517.750  (16), a person may not
+engage in surface mining that results in the extraction of 5,000  cubic yards or less of minerals or
+affects less than one acre of land within a period of  12 consecutive calendar months except in
+compliance with an  exclusion certificate issued by the State Department of Geology and Mineral
+Industries under this section. Except as provided in ORS 517.755, a mining operation subject to  a
+valid exclusion  certificate is not subject to the operating permit or reclamation requirements set
+forth in ORS 517.702 to 517.989.
+(2) A person shall submit an exclusion certificate application on a form provided by  the de-
+partment, accompanied by a fee not to exceed $400. If the department does not  approve or disap-
+prove the application within 90 days after the date the application is  filed with the department, the
+application shall be deemed approved.
+(3) Each holder of  an exclusion certificate shall annually pay to the department a renewal fee
+not to exceed [ $165] $200, accompanied by a description of:
+(a) The amount of minerals extracted  pursuant to the certificate during the previous 12 months;
+(b) The total acreage of surface disturbance by the mining operation as of the date  that the
+renewal is submitted; and
+(c) Any additional information required by the department to determine that the  mining opera-
+tion continues to qualify for an exclusion certificate.
+Enrolled Senate Bill 836 (SB 836-A) Page 1
+SECTION 3.  ORS 517.800 is amended to read:
+517.800. (1)(a) Except for an application for a mining operation submitted under ORS 517.910 to
+517.989, each applicant for an operating permit under ORS 517.702 to 517.989 shall  pay to the State
+Department of Geology and Mineral  Industries a fee established by the State Geologist in an amount
+not to exceed [ $2,000] $6,500.
+(b) If an application for a new permit or an amendment  to an existing permit requires extraor-
+dinary department resources  because of concerns about slope stability or proximity to waters of the
+state or  other environmentally sensitive areas, the applicant shall pay to the department an addi-
+tional fee in an amount the State  Geologist deems adequate to cover the additional costs for staff
+and other related expenses. The  State Geologist shall consult with the applicant when determining
+the amount of the fee.
+(2) A holder of an  operating permit that did not extract minerals during the preceding 12-month
+period shall pay to  the department an annual renewal fee of [ $1,200] $2,300. A holder of an operating
+permit that extracted minerals during the preceding 12-month period shall  pay to the department
+an annual renewal fee of [ $1,460] $2,300 and [ $0.0125] $0.03 per ton of minerals extracted during the
+preceding 12-month period.
+(3) If a reclamation plan is changed, the operator may be assessed for staff time  and other re-
+lated costs in an amount not to exceed [ $2,000] $4,000 in addition to the annual renewal fee. This
+subsection does not apply  to a mining operation that is subject to the fee established by ORS 517.973
+(2)(a).
+(4) If an operator requests that the department respond to requests for information  required by
+a local government in  making a land use planning decision, the State Geologist may require the
+operator to pay the department a fee for staff  time and related costs. The department shall notify
+the operator in advance of the estimated costs of providing the  information, and the assessment may
+not exceed the estimate.
+(5) The State Geologist may require the operator of a site to pay  to the department a special
+inspection fee in an amount not to exceed [ $2,000] $4,000 for an inspection conducted under the
+following circumstances:
+(a) Investigation of surface mining operations conducted without the operating  permit required
+under ORS 517.790; or
+(b) Investigation of surface mining  operations conducted outside the area authorized in an op-
+erating permit.
+(6) Upon request of an applicant  or operator, the department shall provide an itemized list and
+documentation of expenses used to determine a fee under subsection (1)(b), (3)  or (4) of this section.
+(7) Notwithstanding the per ton fee established in subsection (2)  of this section, the governing
+board of the department may lower to zero or raise the per ton fee up to [ $0.015] $0.0325 to reflect
+actual expenses of the department in administering ORS 517.702 to 517.951.
+(8) All  fees collected by the department under this section shall be deposited in the Mined Land
+Regulation and Reclamation Program Subaccount within the Geology  and Mineral Industries Ac-
+count. The department shall prepare and submit to  the governing board of the department an annual
+report on the financial status of the Mined Land Regulation and Reclamation Program Subaccount.
+(9) The governing board of the department shall adopt rules establishing:
+(a) Procedures for the administrative review of the determinations of fees under this section.
+(b) The payment date for fees required under this section.
+(c) Late fees of up to five percent of the unpaid amount of a fee owed  under this section if the
+fee is more than 60 days past due.
+SECTION 4.
+ ORS 517.973 is amended to read:
+517.973. (1) In addition to any permit fee required by any  other permitting agency, each notice
+of intent to submit a consolidated application under  ORS 517.961 must be accompanied by an initial
+fee established by the State Geologist in an amount not to exceed [ $2,000] $10,000.
+Enrolled Senate Bill 836 (SB 836-A) Page 2
+(2)(a) Annually on the anniversary date of an operating permit, each holder of an operating
+permit shall pay to the  State Department of Geology and Mineral Industries a renewal fee estab-
+lished by the State Geologist in an amount not less than $2,500.
+(b) In addition to  the fee prescribed in paragraph (a) of this subsection, the department may
+charge an amount not to exceed [ $1,200] $4,000 for inspections made at sites if the surface  mining
+is:
+(A) Conducted without the permit required by ORS 517.790;
+(B) Abandoned; or
+(C) Conducted in an area not described in the surface mining permit.
+(3) Subject to  the provisions of subsection (5) of this section, the prospective applicant or ap-
+plicant shall pay all expenses incurred  by the department and the permitting and cooperating
+agencies related to  the consolidated application process under ORS 517.952 to 517.989. These ex-
+penses may include legal expenses, expenses incurred in  processing and evaluating the consolidated
+application, issuing a permit or final order and expenses of hiring a  third party contractor under
+ORS 517.979 and 517.980.
+(4) If the costs exceed the fee, the  prospective applicant or applicant shall pay any excess costs
+shown in  an itemized statement prepared by the department. The department and permitting and
+cooperating agencies may not incur evaluation expenses in excess  of 110 percent of the fee initially
+paid unless the department provides prior notification to the prospective  applicant or applicant and
+a detailed projected budget the department believes necessary to complete the process or a portion
+of the  process under ORS 517.952 to 517.989. If the actual costs are less than the fee paid, the de-
+partment shall refund the excess to the prospective applicant or applicant.
+(5) All expenses incurred by the department and the permitting  and cooperating agencies under
+ORS 517.952 to 517.989 that are charged to or allocated to the fee paid by a  prospective applicant
+or an applicant shall be necessary, just and reasonable. Upon request, the department  shall provide
+a detailed justification for all charges to the prospective applicant or applicant.
+SECTION 5.
+ ORS 520.017 is amended to read:
+520.017. (1) The following fees are established under this chapter:
+(a) The application fee for a permit to drill a well is [ $2,000] $5,000.
+(b) The fee to modify a well permit,  information hole permit or seismic program permit is
+[$2,000] $5,000.
+(c) The annual renewal fee for a well permit, information hole permit or seismic program  permit
+is [ $1,160] $4,000.
+(d) The application fee for a permit to drill  an information hole may not exceed [ $2,000] $2,500
+per five information holes drilled in a contiguous  640-acre area. The State Department of Geology
+and Mineral Industries shall base the fee on the estimated cost of  review and approval and the
+number and location of information holes to be drilled.
+(e) The fee for approval of  a seismic program may not exceed [ $2,000] $2,500. The department
+shall base the fee on the estimated cost of review and approval.
+(f) A permittee that requests to transfer a well permit, information hole permit or seismic  pro-
+gram permit must pay a nonrefundable fee of [ $2,000] $5,000 at the time of the request.
+(2) The governing board of the department by rule may specify a schedule of fees for costs  in-
+curred by the department for activities related to field designation for purposes of this section.
+(3) All moneys received by the department under this section shall be paid into the State
+Treasury and deposited in the General  Fund to the credit of the Geology and Mineral Industries
+Account established in ORS 516.070.
+SECTION 6.
+ ORS 522.055 is amended to read:
+522.055. (1) A person may not  engage in drilling a prospect well except in compliance with a
+permit issued by the State Department of Geology and Mineral Industries under this section.
+(2) An application for a permit to drill prospect wells must include:
+(a) A plugging and decommissioning plan;
+Enrolled Senate Bill 836 (SB 836-A) Page 3
+(b) Such other  information as the department by rule may require to assess the impacts of the
+proposed prospect well; and
+(c) A nonrefundable fee as determined by the department based on the  estimated cost of review
+of the proposed prospect wells, not to exceed [ $2,000] $5,000 per application or  permit modification.
+(3) Each application may include  up to five prospect wells per project area. The project area
+must be contiguous and include no more than 640 acres.
+(4) A permit to drill remains valid until  it is revoked or modified by the department based on
+new information or changed conditions.
+(5) The permittee shall pay the department an annual  nonrefundable renewal fee of [ $2,725]
+$4,000 on or before the anniversary of each active permit.
+(6) A permittee that requests to transfer a permit issued under  this section shall pay a
+nonrefundable fee of [ $2,000] $5,000 at the time of the request.
+(7) All moneys received by the department under this section shall be paid into the State
+Treasury and deposited in the General  Fund to the credit of the Geology and Mineral Industries
+Account established by ORS 516.070.
+SECTION 7.  ORS 522.115 is amended to read:
+522.115. (1) A person may not engage in the  drilling or operating of any geothermal well except
+in compliance with a  permit issued by the State Department of Geology and Mineral Industries un-
+der this section.
+(2) An application for a permit to drill or operate a geothermal well must include:
+(a) The location and elevation of the floor of the proposed derrick.
+(b) The number or other designation approved by the department by which the well shall  be
+known.
+(c) The applicant’s estimate of the depths to be drilled.
+(d) The nature and character of the geothermal resource sought.
+(e) A reclamation plan for the well pad.
+(f) Such other information  as the department by rule may require to assess the impact of the
+proposed geothermal well.
+(g) A nonrefundable fee of [ $2,000] $5,000.
+(3) The permittee shall pay an annual nonrefundable renewal fee of [ $2,725] $4,000 on  or before
+the anniversary of each active permit.
+(4) A request by a permittee to modify a permit shall be accompanied by a nonrefundable fee
+not to exceed [ $2,000] $5,000.
+(5) A request by a permittee to transfer a permit issued under this section must be  accompanied
+by a nonrefundable fee of [ $2,000] $5,000.
+(6) All moneys received by the department under this section shall be paid into the State
+Treasury and deposited in the General  Fund to the credit of the Geology and Mineral Industries
+Account established by ORS 516.070.
+Enrolled Senate Bill 836 (SB 836-A) Page 4
+Passed by Senate June 17, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 24, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 836 (SB 836-A) Page 5
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 516.070, ORS 517.702, ORS 517.705, ORS 517.710, ORS 517.750, ORS 517.753, ORS 517.755, ORS 517.790, ORS 517.800, ORS 517.910, ORS 517.952, ORS 517.961, ORS 517.973, ORS 517.979, ORS 517.980, ORS 520.017, ORS 522.055, ORS 522.115
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `08b7c535f3e24f94372e0e44377dc4800c7ac4cbc8794ad27931350f48bb1c14` (snapshot `_meta/snapshots/measure-2025r1-sb836-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB836/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `96c17cde9ee0420a60c015c33fc30e6dc94d3b612c4c1354f82255f8f4bdeb5a` (snapshot `_meta/snapshots/measure-2025r1-sb836-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB836/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 836> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

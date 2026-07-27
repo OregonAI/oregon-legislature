@@ -1,0 +1,224 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3554
+Sponsored by Representative BOWMAN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes changes intended to help  support health care providers. (Flesch Read-
+ability Score: 64.9).
+Directs the Oregon Health Authority to establish a primary care provider  loan repayment pro-
+gram to provide loan repayment subsidies to  specified primary care providers. Defines “primary care
+provider.” Directs the authority  to establish a primary care incentive program to provide financial
+incentives to eligible primary care practices. Defines “primary  care practice.” Directs the authority
+to provide low-interest loans  to eligible primary care practices to implement or upgrade interoper-
+ative electronic health records systems.
+Directs the authority,  in collaboration with the Department of Consumer and Business Services,
+to establish a centralized online portal for reporting  data on health outcome and quality measures.
+Requires the authority and the department  to report to the interim committees of the Legislative
+Assembly on the implementation of the portal.
+Directs the authority to  study past barriers to and potential solutions for establishing a cen-
+tralized system for health care practitioner credentialing information  and report to the interim
+committees of the Legislative Assembly on the authority’s findings and recommendations.
+A BILL FOR AN ACT
+Relating to support for health care providers.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Primary care practice” means a health care clinic that is owned  and operated by one
+or more primary care providers.
+(b) “Primary care provider” means a physician licensed under  ORS chapter 677, a physi-
+cian associate licensed  under ORS 677.505 to 677.525 or a nurse practitioner licensed under
+ORS 678.375 to 678.390 who  practices in primary care, general family medicine, pediatrics,
+internal medicine or obstetrics and gynecology.
+(2) The Oregon  Health Authority shall establish a primary care provider loan repayment
+program for the  purpose of providing loan repayment subsidies to primary care providers
+who:
+(a) Provide primary care services in suburban and  urban areas of this state in which the
+authority determines there is a primary care provider workforce shortage; and
+(b) Are employed by or contracted with a primary care practice that meets the  financial
+incentive eligibility requirements under section 2 of this 2025 Act.
+(3) The  authority may receive gifts, grants or contributions from any source, whether
+public or private, to carry out the provisions of this section. Moneys received  under this
+section shall  be deposited in the Primary Care Incentive Fund established under section 4
+of this 2025 Act.
+SECTION 2. (1) As used  in this section, “primary care practice” and “primary care pro-
+vider” have the meanings given those terms in section 1 of this 2025 Act.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3927
+HB 3554
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) The Oregon Health Authority shall establish a primary care incentive  program to
+provide financial incentives to eligible primary care practices in order to increase the pri-
+mary care capacity in this state. The financial incentives provided under this  section may
+include, but are not limited  to, short-term low-interest loans to eligible primary care prac-
+tices in order to support necessary infrastructure for practice operation.
+(3) In order to be eligible  to receive financial incentives under this section, a primary
+care practice must:
+(a) Include no more than 20 primary care providers;
+(b) Be located in a  suburban or urban area of this state in which the authority deter-
+mines there is a primary care provider workforce shortage; and
+(c) Serve patients who are state medical  assistance program enrollees or Medicare
+enrollees in a proportion that  is substantially equivalent to the proportion of those patients
+in the geographical area in which the primary care practice is located.
+(4) In providing financial  incentives under this section, the authority shall structure the
+financial incentives in a manner that encourages a  primary care practice to continue its
+operations in the geographical area in which it is located.
+(5) The authority may receive gifts, grants or other contributions  from any source,
+whether public or private, to carry out this section. Moneys received under this  section shall
+be deposited in the Primary Care Incentive Fund established under section  4 of this 2025 Act.
+SECTION 3.
+(1) As used in this section:
+(a) “Electronic health record” has the meaning given that term in ORS 413.300.
+(b) “Primary care practice” has the meaning given that term in section 1  of this 2025
+Act.
+(2) The  Oregon Health Authority shall provide low-interest loans to primary care prac-
+tices for the  purpose of implementing and upgrading interoperative electronic health records
+systems used by the primary care practices.
+(3) In order to be eligible  for a low-interest loan under this section, a primary care
+practice must meet the requirements for financial incentive eligibility under section 2 of  this
+2025 Act.
+(4) The authority may receive gifts, grants or other contributions  from any source,
+whether public or private, to carry out this section. Moneys received under this  section shall
+be deposited in the Primary Care Incentive Fund established under section  4 of this 2025 Act.
+SECTION 4.
+The Primary Care Incentive Fund is established in  the State Treasury, sep-
+arate and  distinct from the General Fund. Interest earned by the Primary Care Incentive
+Fund shall be credited to the fund. The fund consists of moneys appropriated to the fund by
+the Legislative Assembly and gifts,  grants or other moneys contributed to the fund by any
+source, whether public or  private. Moneys in the fund are continuously appropriated to the
+Oregon Health Authority to carry out sections 1 to 3 of this 2025 Act.
+SECTION 5.
+(1) The Oregon Health Authority,  in collaboration with the Department of
+Consumer and  Business Services, shall establish a centralized online portal for reporting
+data on health outcome and quality measures. The portal shall:
+(a) Be accessible to all health care providers in this state.
+(b) Provide a standardized format for data submission.
+(c) Offer real-time feedback and performance tracking.
+(d) Have the capacity to communicate and exchange data  with existing electronic health
+[2]
+HB 3554
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+record systems for automated data extraction.
+(2) A coordinated  care organization, as defined in ORS 414.025, or a health insurer, as
+defined in ORS 746.600, may not require a provider  to report health outcome and quality
+measure data through any means other than the portal established under this section.
+SECTION 6.
+No later than September 15, 2026, the Oregon Health Authority and the De-
+partment of  Consumer and Business Services shall report to the interim committees of the
+Legislative Assembly related to health, in the manner provided  in ORS 192.245, on the im-
+plementation of section 5 of this 2025 Act.
+SECTION 7. (1) The Oregon Health Authority shall study:
+(a) The factors that contributed to the  suspension of the authority’s program for estab-
+lishing a centralized system for health care practitioner credentialing information;
+(b) The extent  to which the factors described in paragraph (a) of this subsection may be
+mitigated by changes to the program structure;
+(c) Market research on information technology solutions for health care practitioner
+credentialing information, including how  those solutions have changed since the suspension
+of the program described in paragraph (a)  of this subsection and ways in which those sol-
+utions could potentially be optimized;
+(d) Whether current delays and administrative burdens  associated with credentialing
+health care practitioners  could be meaningfully addressed by solutions other than informa-
+tion technology solutions; and
+(e) Whether the authority is the appropriate agency for establishing  a centralized system
+for health care practitioner credentialing information.
+(2) No later than September 15, 2026, the authority shall  report its findings and recom-
+mendations to the interim committees of the Legislative Assembly related to health, in  the
+manner provided in ORS 192.245.
+SECTION 8. Section 7 of this 2025 Act is repealed on January 2, 2027.
+[3]

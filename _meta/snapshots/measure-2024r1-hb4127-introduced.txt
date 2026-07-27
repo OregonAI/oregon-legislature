@@ -1,0 +1,294 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4127
+Sponsored by Representative RUIZ, Senators  MANNING JR, CAMPOS, GORSEK; Representatives BOWMAN,
+BYNUM, CHAICHI, EVANS, GAMBA, HARTMAN, HELM,  HUDSON, LIVELY, NOSSE, REYNOLDS,
+WALTERS, Senators FREDERICK, GOLDEN, JAMA, PATTERSON, SOLLMAN (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes quota guidelines for some warehouse workers. Not following this  Act is a reason
+to make a claim to BOLI. (Flesch Readability Score: 69.7).
+Creates rules and standards for warehouse employees’ quota requirements.  Establishes a proce-
+dure through Bureau of Labor and Industries if employers violate the Act.
+A BILL FOR AN ACT
+Relating to protections for warehouse workers.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 to 5 of this 2024 Act are added to and  made a part of ORS chapter
+653.
+SECTION 2. Definitions. As used in sections 2 to 5 of this 2024 Act:
+(1) “Defined time period” means any unit of time measurement equal to  or less than the
+duration of an employee’s shift, including but not limited to hours, minutes, seconds  and any
+fraction of those units of time.
+(2)(a) “Employee” means an employee who  is subject to federal and state laws relating
+to minimum wage and overtime and who works at a warehouse distribution center  and is
+subject to a quota.
+(b) “Employee” does not include a  driver or courier to or from a warehouse distribution
+center.
+(3) “Employer” means a person who directly or indirectly, through an agent or any other
+person, including through the services of a third-party, temporary services or staffing agency
+or any other similar entity, employs or exercises control over the wages,  hours or working
+conditions of the  employees employed at a warehouse distribution center of 100 or more
+employees at a single  warehouse distribution center or 1,000 or more employees at one or
+more warehouse distribution centers in this state.
+(4) “Quota” means a work standard under which an employee is  assigned or required to
+perform at a specified productivity or  speed, perform a quantified number of tasks or handle
+or produce a quantified number of materials, within a defined  time period and under which
+the employee may suffer an adverse employment action if they fail to complete  the per-
+formance standard.
+(5)(a) “Warehouse distribution center” means an  establishment engaged in any services
+relating to:
+(A) Warehousing and storage, as that term is used in the 2022 North  American Industry
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 161
+HB 4127
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Classification System code 493.
+(B) Merchant wholesale of durable goods, as those terms are used in the 2022 North
+American Industry Classification System code 423.
+(C) Merchant wholesale of nondurable goods, as those terms are used in the 2022 North
+American Industry Classification System code 424.
+(D) Retailing using electronic shopping and mail-order houses, as those terms are used
+in the 2017 North American Industry Classification System code 454110.
+(b) “Warehouse distribution  center” does not mean an establishment engaged in any
+services relating to:
+(A) Farm  product warehousing and storage, as those terms are used in the 2022 North
+American Industry Classification System code 493130.
+(B) Refrigerated warehousing and storage, as those terms are used in the 2022  North
+American Industry Classification System code 493120.
+(C) Merchant wholesale of professional medical,  dental and hospital equipment and sup-
+plies, as those terms are used in the 2022 North  American Industry Classification System
+code 423450.
+(D) Merchant wholesale distribution of  drugs and druggists’ sundries, as those terms are
+used in the 2022 North American Industry Classification System code 424210.
+(E) Couriers and express delivery services, as  those terms are used in the 2022 North
+American Industry Classification System code 492110.
+(F) Merchant wholesale distribution of carbonated beverages, as those terms are  used in
+the 2022 North American Industry Classification System code 424490.
+(G) Merchant wholesale distribution of wine and  distilled alcoholic beverages, as those
+terms are used in the 2022 North American Industry Classification System code 424820.
+(H) Merchant  wholesale distribution of beer and ale, as those terms are used in the 2022
+North American Industry Classification System code 424810.
+(6)(a) “Work speed  data” includes any of the following information that is collected or
+maintained by an employer for purposes of evaluating  an employee’s performance regarding
+meeting a quota to which the employee is subject:
+(A) The quantity of tasks performed;
+(B) The quantity of items or materials handled or produced;
+(C) The rate or speed at which the employee performs assigned tasks;
+(D) Measurements or metrics of employee  performance in relation to an applicable quota;
+and
+(E) Time categorized as performing tasks or not performing tasks.
+(b) “Work speed data” does not include  data or information that does not relate to the
+performance of a quota, including but not limited to:
+(A) Qualitative performance assessments;
+(B) Personnel records; and
+(C) Itemized wage statements required under ORS 652.610.
+SECTION 3.
+Quotas. (1) An employer shall provide each  employee with written doc-
+umentation summarizing the quota  to which the employee is subject. The documentation
+must include:
+(a) The quantified number of tasks to be performed, or materials  to be produced or
+handled, within a defined time period; and
+[2]
+HB 4127
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) A description of the potential  consequences, including any adverse employment
+actions, that an employee may face as a  result of the employee’s failure to meet the appli-
+cable quota.
+(2) The employer shall provide the written documentation  required under subsection (1)
+of this section as follows:
+(a) To a new employee at the time of hire.
+(b) To an existing employee within two business days following  the date on which the
+employer makes a change to a quota to which the employee is subject.
+(c) To an employee when an employer takes an adverse employment action against the
+employee for failing to meet the applicable quota.
+(3) An employer may not:
+(a) Impose any quota that would:
+(A) Unreasonably interfere  with an employee’s right to take meal and rest breaks under
+applicable federal or state laws relating to meal and rest breaks;
+(B) Unreasonably interfere with an employee’s ability to use bathroom facilities,  includ-
+ing reasonable travel time to and from facilities; or
+(C) Unreasonably interfere with any right to which an employee is  entitled under any
+applicable federal or state law relating to occupational health and safety standards.
+(b) Take an adverse employment action against an employee for:
+(A) Failing to meet a quota that interfered with or caused an employee to forgo a  meal
+or rest break or did not comply with federal  or state law relating to occupational health and
+safety standards.
+(B) Failing to meet a quota for which an employee did not receive written  documentation
+required under subsection (1) of this section.
+SECTION 4.
+Employee right to request. (1) If a  current or former employee of an em-
+ployer believes that  the employee has been disciplined for failing to meet a quota, or that
+meeting a quota  caused a violation of the employee’s right to a meal or rest break, including
+reasonable travel time to and from bathroom facilities, the current or former employee  shall
+have a right, upon request, to receive records as follows:
+(a) If the requesting employee is  a current employee, the employee shall have a right to
+a copy of a record that includes:
+(A) The information described in section 3 (1) of this 2024 Act; and
+(B) The employee’s work speed data  for the 90 days immediately preceding the date of
+the employee’s request.
+(b) If  the requesting employee is a former employee, the employee shall have a right to
+make one request for a copy of a record that includes:
+(A) The information described under section 3 (1) of this 2024 Act  related to the quota
+to which the former employee was subject for the 90 days  immediately preceding the date
+of the employee’s separation from the employer; and
+(B) The  former employee’s work speed data for the 90 days immediately preceding the
+date of the former employee’s most recent separation from employment.
+(2) A former employee has the right  to request records under subsection (1) of this sec-
+tion within three years following the date of the employee’s separation from employment.
+(3) An employer shall provide records requested pursuant to  this section free of charge
+and as soon as practicable upon request of a  current or former employee, but not later than
+[3]
+HB 4127
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+21 calendar days from the date of the request.
+(4) Nothing in this section may obligate an employer:
+(a) To impose a quota or monitor work speed data.
+(b) To provide the  records described in this section if the employer does not monitor
+work speed data.
+SECTION 5.
+Remedies. A violation of the provisions of sections 2 to 4 of this 2024 Act is
+an unlawful practice under ORS chapter 659A. An employee alleging a violation of sections
+2 to 4 of this 2024 Act may file a complaint under ORS 659A.820 with the Commissioner  of
+the Bureau of Labor and Industries. The commissioner shall enforce the provisions of  this
+section in the manner provided in ORS chapter 659A regarding other unlawful practices.
+SECTION 6. Section 3 of this 2024 Act becomes operative 30  days after the effective date
+of this 2024 Act.
+SECTION 7. The section captions used  in this 2024 Act are provided only for the con-
+venience of the reader and do not become  part of the statutory law of this state or express
+any legislative intent in the enactment of this 2024 Act.
+[4]

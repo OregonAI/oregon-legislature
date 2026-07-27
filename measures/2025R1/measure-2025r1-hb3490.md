@@ -1,0 +1,744 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3490
+title: 'HB 3490 (2025R1): Removes the limits on the duration of medical services, the number of visits
+  and the areas of practice for chiropractic physicians serving as attending physicians in workers'' compensation
+  claims.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3490
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3490/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 60b1e6e45e03408ede217157c3988fa80dcddd7093ce18eed2ffc7ae594533f3
+snapshot_id: measure-2025r1-hb3490-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 441.055
+  - ORS 656.005
+  - ORS 656.017
+  - ORS 656.023
+  - ORS 656.027
+  - ORS 656.054
+  - ORS 656.225
+  - ORS 656.245
+  - ORS 656.248
+  - ORS 656.260
+  - ORS 656.273
+  - ORS 656.278
+  - ORS 656.327
+  - ORS 656.407
+  - ORS 656.430
+  - ORS 656.704
+  - ORS 656.735
+  - ORS 656.740
+  - ORS 656.752
+  - ORS 656.790
+  - ORS 656.794
+  - ORS 656.850
+  - ORS 670.600
+  - ORS 677.100
+  - ORS 677.505
+  - ORS 677.805
+  - ORS 678.375
+  - ORS 689.515
+  - ORS 705.145
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3490
+prefix_meaning: House Bill
+catch_line: Removes the limits on the duration of medical services, the number of visits and the areas
+  of practice for chiropractic physicians serving as attending physicians in workers' compensation claims.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would lift certain limits on the practice of chiropractors in workers'\
+  \ comp claims. (Flesch Readability Score: 67.5). \n\tRemoves the limits on the duration of medical services,\
+  \ the number of visits and the areas of practice for chiropractic physicians serving as attending physicians\
+  \ in workers' compensation claims."
+relating_to: Relating to chiropractic physicians.
+relating_to_full: Relating to chiropractic physicians; amending ORS 656.005, 656.245 and 656.260.
+at_the_request_of: null
+lc_number: 3682
+measure_created_date: '2025-01-30T11:47:18'
+measure_modified_date: '2025-02-06T13:21:11'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 49236
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 441.055
+  - ORS 656.005
+  - ORS 656.017
+  - ORS 656.023
+  - ORS 656.027
+  - ORS 656.054
+  - ORS 656.225
+  - ORS 656.245
+  - ORS 656.248
+  - ORS 656.260
+  - ORS 656.273
+  - ORS 656.278
+  - ORS 656.327
+  - ORS 656.407
+  - ORS 656.430
+  - ORS 656.704
+  - ORS 656.735
+  - ORS 656.740
+  - ORS 656.752
+  - ORS 656.790
+  - ORS 656.794
+  - ORS 656.850
+  - ORS 670.600
+  - ORS 677.100
+  - ORS 677.505
+  - ORS 677.805
+  - ORS 678.375
+  - ORS 689.515
+  - ORS 705.145
+  from_relating_to_full:
+  - ORS 656.005
+  - ORS 656.245
+  - ORS 656.260
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3490>.
+
+# HB 3490 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3490, 2025 Regular Session (2025R1)
+- **LC number:** 3682
+- **Created:** 2025-01-30T11:47:18
+- **Metadata last modified (upstream):** 2025-02-06T13:21:11
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 49236 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3490/Introduced>.
+
+## Summary
+
+**Catchline:** Removes the limits on the duration of medical services, the number of visits and the areas of practice for chiropractic physicians serving as attending physicians in workers' compensation claims.
+
+**Relating to:** Relating to chiropractic physicians.
+
+Digest: The Act would lift certain limits on the practice of chiropractors in workers' comp claims. (Flesch Readability Score: 67.5). 
+ Removes the limits on the duration of medical services, the number of visits and the areas of practice for chiropractic physicians serving as attending physicians in workers' compensation claims.
+
+**RelatingToFull (verbatim upstream field):** Relating to chiropractic physicians; amending ORS 656.005, 656.245 and 656.260.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3490
+Sponsored by Representative TRAN; Representatives ELMER, YUNKER, Senators GELSER BLOUIN,  THATCHER
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  would lift certain limits on the practice of chiropractors in workers’ comp
+claims. (Flesch Readability Score: 67.5).
+Removes the limits on the duration of medical services, the number of visits and the  areas of
+practice for chiropractic  physicians serving as attending physicians in workers’ compensation
+claims.
+A BILL FOR AN ACT
+Relating to chiropractic physicians; amending ORS 656.005, 656.245 and 656.260.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 656.005, as amended by section 110,  chapter 73, Oregon Laws 2024, is
+amended to read:
+656.005. (1) “Average weekly wage” means the Oregon average weekly wage in  covered em-
+ployment, as determined by the  Employment Department, for the last quarter of the calendar year
+preceding the fiscal year in which the injury occurred.
+(2)(a) “Beneficiary” means an injured worker, and the spouse in a marriage, child  or dependent
+of a worker, who is entitled to receive payments under this chapter.
+(b) “Beneficiary” does not  include a person who intentionally causes the compensable injury to
+or death of an injured worker.
+(3) “Board” means the Workers’ Compensation Board.
+(4) “Carrier-insured employer” means an employer who provides workers’ compensation cover-
+age with the State Accident Insurance Fund Corporation or  an insurer authorized under ORS
+chapter 731 to transact workers’ compensation insurance in this state.
+(5) “Child” means a child of an injured worker, including:
+(a) A posthumous child;
+(b) A child legally adopted before the injury;
+(c) A child toward whom the worker stands in loco parentis;
+(d) A child born out of wedlock;
+(e) A stepchild, if the stepchild was, at the time of the injury,  a member of the worker’s family
+and substantially dependent upon the worker for support; and
+(f) A child of any age who was incapacitated at  the time of the accident and thereafter remains
+incapacitated and substantially dependent on the worker for support.
+(6) “Claim” means a written request for  compensation from a subject worker or someone on the
+worker’s behalf, or any compensable injury of which a subject employer has notice or knowledge.
+(7)(a) A “compensable  injury” is an accidental injury, or accidental injury to prosthetic appli-
+ances, arising out of and in the course of employment  requiring medical services or resulting in
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3682
+disability or death. An injury is accidental if the result  is an accident, whether or not due to acci-
+dental means, if it is established by medical  evidence supported by objective findings, subject to the
+following  limitations:
+(A) An  injury or disease is not compensable as a consequence of a compensable injury unless
+the compensable injury is the major contributing cause of the consequential condition.
+(B) If an otherwise  compensable injury combines at any time with a preexisting condition to
+cause or prolong disability or a need  for treatment, the combined condition is compensable only if,
+so long  as and to the extent that the otherwise compensable injury is the major contributing cause
+of the disability of the combined condition or the major contributing  cause of the need for treatment
+of the combined condition.
+(b) “Compensable injury” does not include:
+(A) Injury to any active participant in assaults  or combats that are not connected to the job
+assignment and that amount to a deviation from customary duties;
+(B) Injury incurred  while engaging in or performing, or as the result of engaging in or per-
+forming, any recreational or social activities primarily for the worker’s personal pleasure; or
+(C) Injury the major contributing cause  of which is demonstrated to be by a preponderance of
+the evidence the injured worker’s consumption  of alcoholic beverages or cannabis or the unlawful
+consumption of any controlled substance, unless the employer permitted, encouraged or had actual
+knowledge of such consumption.
+(c) A “disabling compensable injury” is an injury that entitles the worker  to compensation for
+disability or death. An injury is not disabling if no temporary benefits are due  and payable, unless
+there is a reasonable expectation that permanent disability will result from the injury.
+(d) A “nondisabling compensable injury” is any injury that requires medical services only.
+(8) “Compensation” includes all benefits,  including medical services, provided for a compensable
+injury to a subject worker or the worker’s beneficiaries by an insurer or self-insured  employer pur-
+suant to this chapter.
+(9) “Department” means the Department of Consumer and Business Services.
+(10) “Dependent” means any of the following individuals who, at the time of an  accident, de-
+pended in whole or in part for the individual’s support on the earnings of a worker who  dies as a
+result of an injury:
+(a) A parent of a worker or the parent’s spouse or domestic partner;
+(b) A grandparent of a worker or the grandparent’s spouse or domestic partner;
+(c) A grandchild of a worker or the grandchild’s spouse or domestic partner;
+(d) A sibling or  stepsibling of a worker or the sibling’s or stepsibling’s spouse or domestic
+partner; and
+(e) Any  individual related by blood or affinity whose close association with a worker is the
+equivalent of a family relationship.
+(11) “Director” means the Director of the Department of Consumer and Business Services.
+(12)(a) “Doctor” or “physician”  means a person duly licensed to practice one or more of the
+healing arts in any country or in any state, territory  or possession of the United States within the
+limits of the license of the licensee.
+(b) Except as otherwise provided for workers subject to a managed care  contract, “attending
+physician” means a doctor, physician or physician associate  who is primarily responsible for the
+treatment of a worker’s compensable injury and who is:
+(A)(i) A physician licensed under ORS 677.100 to 677.228 by the  Oregon Medical Board, or a
+podiatric physician and surgeon  licensed under ORS 677.805 to 677.840 by the Oregon Medical
+Board, an  oral and maxillofacial surgeon licensed by the Oregon Board of Dentistry or a similarly
+licensed doctor in any country or in any state, territory or possession of the United States; or
+(ii) A doctor or physician licensed by the State  Board of Chiropractic Examiners for the
+State of Oregon  under ORS chapter 684 or a similarly licensed doctor or physician in any
+country or in any state, territory or possession of the United States;
+(B) For a  cumulative total of 60 days from the first visit on the initial claim or for a cumulative
+total of 18 visits, whichever  occurs first, to any of the medical service providers listed in this sub-
+paragraph, a[ :]
+[(i) Doctor or  physician licensed by the State Board of Chiropractic Examiners for the State of
+Oregon under ORS chapter 684 or a similarly licensed doctor or physician  in any country or in any
+state, territory or possession of the United States; or ]
+[(ii)] doctor of naturopathy or  naturopathic physician licensed by the Oregon Board of
+Naturopathic Medicine under ORS chapter 685 or a similarly  licensed doctor or physician in any
+country or in any state, territory or possession of the United States; or
+(C) For a cumulative total of 180 days from the  first visit on the initial claim, a physician as-
+sociate licensed by the Oregon Medical Board in accordance with ORS 677.505 to 677.525 or  a sim-
+ilarly licensed physician associate in any country or in any state, territory or  possession of the
+United States.
+(c) Except as otherwise provided for workers subject to a managed care contract,  “attending
+physician” does not include a physician who provides care in  a hospital emergency room and refers
+the injured worker to a primary care physician for follow-up care and treatment.
+(d) “Consulting physician” means a doctor or physician who  examines a worker or the worker’s
+medical record to advise  the attending physician or nurse practitioner authorized to provide
+compensable medical services under ORS 656.245 regarding treatment of  a worker’s compensable
+injury.
+(13)(a) “Employer” means any person, including receiver, administrator, executor or  trustee, and
+the state, state agencies, counties, municipal corporations,  school districts and other public corpo-
+rations or political subdivisions, that contracts to pay a  remuneration for the services of any
+worker.
+(b) Notwithstanding paragraph  (a) of this subsection, for purposes of this chapter, the client of
+a temporary service provider is not the employer of temporary workers provided  by the temporary
+service provider.
+(c) As used in paragraph (b)  of this subsection, “temporary service provider” has the meaning
+given that term in ORS 656.850.
+(d) For the purposes of this chapter, “subject employer” means an employer  that is subject to
+this chapter as provided in ORS 656.023.
+(14) “Insurer” means the State  Accident Insurance Fund Corporation or an insurer authorized
+under ORS chapter 731 to transact workers’ compensation insurance in this state  or an assigned
+claims agent selected by the director under ORS 656.054.
+(15) “Consumer and Business Services Fund” means the fund created by ORS 705.145.
+(16) “Incapacitated” means an individual is physically or mentally unable to earn a livelihood.
+(17) “Medically  stationary” means that no further material improvement would reasonably be
+expected from medical treatment or the passage of time.
+(18) “Noncomplying employer” means a subject employer that has failed to comply with ORS
+656.017.
+(19) “Objective findings” in support of medical evidence are verifiable indications of injury or
+disease that may include, but  are not limited to, range of motion, atrophy, muscle strength and
+palpable muscle spasm. “Objective findings” does not include physical findings or subjective  re-
+sponses to physical examinations that are not reproducible, measurable or observable.
+(20) “Palliative care” means medical  service rendered to reduce or moderate temporarily the
+intensity of an otherwise stable medical condition, but does not include  those medical services ren-
+dered to diagnose, heal or permanently alleviate or eliminate a medical condition.
+(21) “Party” means a  claimant for compensation, the employer of the injured worker at the time
+of injury and the insurer, if any, of the employer.
+(22) “Payroll” means a record of wages payable  to workers for their services and includes
+commissions, value of exchange labor and the reasonable  value of board, rent, housing, lodging or
+similar advantage received from the employer.  However, “payroll” does not include overtime pay,
+vacation pay, bonus  pay, tips, amounts payable under profit-sharing agreements or bonus payments
+to reward workers for safe working  practices. Bonus pay is limited to payments that are not antic-
+ipated under the contract of employment and that are  paid at the sole discretion of the employer.
+The exclusion from payroll of bonus payments to reward workers for safe working  practices is only
+for the purpose of calculations  based on payroll to determine premium for workers’ compensation
+insurance, and does not affect any other calculation or  determination based on payroll for the pur-
+poses of this chapter.
+(23) “Person” includes  a partnership, joint venture, association, limited liability company and
+corporation.
+(24)(a) “Preexisting  condition” means, for all industrial injury claims, any injury, disease, con-
+genital abnormality, personality disorder or similar condition that contributes to disability or  need
+for treatment, provided that:
+(A) Except for claims in which a preexisting condition is arthritis or an arthritic  condition, the
+worker has been diagnosed with the  condition, or has obtained medical services for the symptoms
+of the condition regardless of diagnosis; and
+(B)(i) In claims for an  initial injury or omitted condition, the diagnosis or treatment precedes
+the initial injury;
+(ii) In claims for a new medical condition, the diagnosis or treatment  precedes the onset of the
+new medical condition; or
+(iii) In claims for a worsening pursuant to ORS 656.273 or 656.278,  the diagnosis or treatment
+precedes the onset of the worsened condition.
+(b) “Preexisting condition” means, for all occupational disease claims, any injury, disease,  con-
+genital abnormality, personality disorder or similar condition that contributes to disability or  need
+for treatment and that precedes the onset  of the claimed occupational disease, or precedes a claim
+for worsening in such claims pursuant to ORS 656.273 or 656.278.
+(c) For the purposes of  industrial injury claims, a condition does not contribute to disability or
+need for treatment if the condition merely renders the worker more susceptible to the injury.
+(25) “Self-insured employer” means an employer  or group of employers certified under ORS
+656.430 as meeting the qualifications set out by ORS 656.407.
+(26) “State Accident Insurance Fund Corporation” and “corporation” mean  the State Accident
+Insurance Fund Corporation created under ORS 656.752.
+(27) “Wages”  means the money rate at which the service rendered is recompensed under the
+contract of hiring in force at the time of the  accident, including reasonable value of board, rent,
+housing, lodging or similar advantage received from the employer, and includes the amount of  tips
+required to  be reported by the employer pursuant to section 6053 of the Internal Revenue Code of
+1954, as amended, and  the regulations promulgated pursuant thereto, or the amount of actual tips
+reported, whichever amount is greater. The State  Accident Insurance Fund Corporation may estab-
+lish assumed minimum and maximum wages, in conformity with recognized insurance principles, at
+which any worker  shall be carried upon the payroll of the employer for the purpose of determining
+the premium of the employer.
+(28)(a) “Worker” means any person,  other than an independent contractor, who engages to fur-
+nish services for a remuneration, including a minor whether  lawfully or unlawfully employed and
+salaried, elected and appointed officials of the state, state agencies, counties,  cities, school districts
+and other public corporations, but does not include any person whose services are performed as  an
+adult in custody or ward of a state institution or as  part of the eligibility requirements for a general
+or public assistance grant.
+(b) For the purpose of determining entitlement to  temporary disability benefits or permanent
+total disability benefits under this chapter, “worker” does not include a person who  has withdrawn
+from the workforce during the period for which such benefits are sought.
+(c) For the purposes of  this chapter, “subject worker” means a worker who is subject to this
+chapter as provided in ORS 656.027.
+(29) “Independent contractor” has the meaning given that term in ORS 670.600.
+SECTION 2.
+ ORS 656.245, as amended by  section 111, chapter 73, Oregon Laws 2024, is
+amended to read:
+656.245. (1)(a) For every compensable injury, the insurer or the  self-insured employer shall cause
+to be provided medical services for conditions caused in material part by  the injury for such period
+as the nature of the injury or the process of the recovery requires, subject  to the limitations in ORS
+656.225, including such medical services as may  be required after a determination of permanent
+disability. In addition, for consequential and combined conditions described in ORS 656.005 (7), the
+insurer or the self-insured employer shall cause to be provided only those medical  services directed
+to medical conditions caused in major part by the injury.
+(b) Compensable  medical services shall include medical, surgical, hospital, nursing, ambulances
+and other related services, and drugs, medicine, crutches and  prosthetic appliances, braces and
+supports and where necessary, physical restorative services. A  pharmacist or dispensing physician
+shall dispense generic drugs to  the worker in accordance with ORS 689.515. The duty to provide
+such medical services continues for the life of the worker.
+(c) Notwithstanding any other provision of this chapter, medical services  after the worker’s
+condition is medically stationary are not compensable except for the following:
+(A) Services provided to  a worker who has been determined to be permanently and totally dis-
+abled.
+(B) Prescription medications.
+(C) Services necessary to administer prescription medication or  monitor the administration of
+prescription medication.
+(D) Prosthetic devices, braces and supports.
+(E) Services necessary to monitor the status, replacement or repair of prosthetic devices,  braces
+and supports.
+(F) Services provided pursuant to an accepted claim for aggravation under ORS 656.273.
+(G) Services provided pursuant to an order issued under ORS 656.278.
+(H) Services that are necessary to diagnose the worker’s condition.
+(I) Life-preserving modalities similar to insulin therapy, dialysis and transfusions.
+(J) With the approval of the insurer or self-insured employer, palliative care  that the worker’s
+attending physician  referred to in ORS 656.005 (12)(b)(A) prescribes and that is necessary to enable
+the worker to continue  current employment or a vocational training program. If the insurer or
+self-insured employer  does not approve, the attending physician or the worker may request approval
+from the Director of the Department of Consumer and Business  Services for such treatment. The
+director may order a medical review by a physician or panel  of physicians pursuant to ORS 656.327
+(3) to aid in the review of such treatment. The decision of  the director is subject to review under
+ORS 656.704.
+(K) With  the approval of the director, curative care arising from a generally recognized, non-
+experimental advance in medical  science since the worker’s claim was closed that is highly likely
+to improve the worker’s condition and that is otherwise justified by the  circumstances of the claim.
+The decision of the director is subject to review under ORS 656.704.
+(L) Curative  care provided to a worker to stabilize a temporary and acute waxing and waning
+of symptoms of the worker’s condition.
+(d) When  the medically stationary date in a disabling claim is established by the insurer or
+self-insured employer and is not based on the findings  of the attending physician, the insurer or
+self-insured employer is responsible  for reimbursement to affected medical service providers for
+otherwise compensable services rendered until the  insurer or self-insured employer provides written
+notice to the attending physician of the worker’s medically stationary status.
+(e) Except for services  provided under a managed care contract, out-of-pocket expense re-
+imbursement to receive care from the  attending physician or nurse practitioner authorized to pro-
+vide compensable medical services under this  section shall not exceed the amount required to seek
+care from an appropriate nurse practitioner  or attending physician of the same specialty who is in
+a medical community geographically closer to the  worker’s home. For the purposes of this para-
+graph, all physicians and nurse practitioners within a metropolitan area are  considered to be part
+of the same medical community.
+(2)(a) The worker may choose an  attending doctor, physician or nurse practitioner within the
+State of Oregon. The worker  may choose the initial attending physician or nurse practitioner and
+may subsequently change attending physician or nurse practitioner two times  without approval from
+the director. If the  worker thereafter selects another attending physician or nurse practitioner, the
+insurer or self-insured employer may  require the director’s approval of the selection. The decision
+of the director is subject to review under ORS 656.704. The  worker also may choose an attending
+doctor or physician in another country or in any state or territory or possession  of the United
+States with the prior approval of the insurer or self-insured employer.
+(b) A medical service provider who is not a member of a managed care  organization is subject
+to the following provisions:
+(A) A medical  service provider who is not qualified to be an attending physician may provide
+compensable medical service to an injured worker for a period of 30 days from the date of the  first
+visit on  the initial claim or for 12 visits, whichever first occurs, without the authorization of an
+attending physician. Thereafter, medical service provided to an  injured worker without the written
+authorization of an attending physician is not compensable.
+(B) A medical service provider who is not an attending  physician cannot authorize the payment
+of temporary  disability compensation. However, an emergency room physician who is not authorized
+to serve as an attending  physician under ORS 656.005 (12)(c) may authorize temporary disability
+benefits for a maximum of 14 days.  A medical service provider qualified to serve as an attending
+physician under ORS 656.005 (12)(b)(B) may authorize the payment of  temporary disability compen-
+sation for a period not to exceed 30 days from the date of the first visit on the initial claim.
+(C) Except as otherwise provided in this chapter,  only a physician qualified to serve as an at-
+tending physician under ORS 656.005 (12)(b)(A) or [ (B)(i)] (B) who is  serving as the attending phy-
+sician at the time of claim closure may make findings regarding the  worker’s impairment for the
+purpose of evaluating the worker’s disability.
+(D) Notwithstanding subparagraphs (A) and (B) of  this paragraph, a nurse practitioner licensed
+under ORS 678.375 to 678.390  or a physician associate licensed by the Oregon Medical Board in
+accordance with ORS 677.505 to 677.525 or a similarly licensed physician associate in any  country
+or in any state, territory or possession of the United States:
+(i) May provide compensable medical services for 180 days from the date of the first visit  on the
+initial claim;
+(ii) May authorize the payment of temporary disability benefits  for a period not to exceed 180
+days from the date of the first visit on the initial claim; and
+(iii) When an injured worker treating with a nurse practitioner or physician associate authorized
+to provide compensable services under this section becomes  medically stationary within the 180-day
+period in which the  nurse practitioner or physician associate is authorized to treat the injured
+worker, shall refer the  injured worker to a physician qualified to be an attending physician as de-
+fined in ORS 656.005 for the  purpose of making findings regarding the worker’s impairment for the
+purpose of evaluating the worker’s disability. If a worker returns to the nurse practitioner or phy-
+sician associate  after initial claim closure for evaluation of a possible worsening of the worker’s
+condition, the nurse practitioner or physician associate shall refer  the worker to an attending phy-
+sician and the insurer shall  compensate the nurse practitioner or physician associate for the exam-
+ination performed.
+(3) Notwithstanding any other provision of this chapter, the  director, by rule, upon the advice
+of the committee created by ORS  656.794 and upon the advice of the professional licensing boards
+of practitioners affected by the  rule, may exclude from compensability any medical treatment the
+director finds to be unscientific,  unproven, outmoded or experimental. The decision of the director
+is subject to review under ORS 656.704.
+(4) Notwithstanding subsection (2)(a) of this section, when a self-insured employer or the  insurer
+of an employer contracts with a managed care organization certified pursuant to ORS 656.260  for
+medical services required by this chapter to be provided to injured workers:
+(a) Those workers who are subject to the contract shall receive  medical services in the manner
+prescribed in the contract. Workers  subject to the contract include those who are receiving medical
+treatment for an accepted compensable injury or occupational disease,  regardless of the date of in-
+jury or medically stationary status, on or after the effective date of  the contract. If the managed
+care  organization  determines that the change in provider would be medically detrimental to the
+worker, the worker shall not become subject to  the contract until the worker is found to be med-
+ically stationary, the worker changes physicians or nurse practitioners,  or the managed care or-
+ganization determines that  the change in provider is no longer medically detrimental, whichever
+event first occurs. A worker becomes subject  to the contract upon the worker’s receipt of actual
+notice of the worker’s enrollment in the managed care  organization, or upon the third day after the
+notice was sent by regular mail by the insurer or self-insured employer, whichever event first oc-
+curs. A worker shall not  be subject to a contract after it expires or terminates without renewal. A
+worker may continue to treat with the attending physician or  nurse practitioner authorized to pro-
+vide compensable medical services under this section under an expired or  terminated managed care
+organization contract if the physician or nurse practitioner agrees to comply with the  rules, terms
+and conditions regarding services  performed under any subsequent managed care organization con-
+tract to which  the worker is subject. A worker shall not be subject to a contract if the worker’s
+primary residence is more than 100 miles outside  the managed care organization’s certified ge-
+ographical area. Each such contract must comply with the certification  standards provided in ORS
+656.260. However, a worker may receive immediate emergency medical treatment that is
+compensable  from  a medical service provider who is not a member of the managed care organization.
+Insurers or self-insured employers who contract with a managed care organization for medical  ser-
+vices shall give notice to the workers of eligible medical service  providers and such other informa-
+tion regarding the contract and  manner of receiving medical services as the director may prescribe.
+Notwithstanding any provision  of law or rule to the contrary, a worker of a noncomplying employer
+is considered to be subject to a contract between the State Accident Insurance  Fund Corporation
+as a processing agent or the assigned claims agent and a managed care organization.
+(b)(A) For initial or  aggravation claims filed after June 7, 1995, the insurer or self-insured em-
+ployer may require an injured worker, on a case-by-case basis, immediately to receive medical ser-
+vices from the managed care organization.
+(B) If the  insurer or self-insured employer gives notice that the worker is required to receive
+treatment from the managed care organization, the insurer or self-insured employer must  guarantee
+that any  reasonable and necessary services so received, that are not otherwise covered by health
+insurance, will be paid as provided in ORS 656.248, even if the claim is denied,  until the worker
+receives  actual  notice of the denial or until three days after the denial is mailed, whichever event
+first occurs. The worker may elect to receive care from a  primary care physician, nurse practitioner
+or physician associate authorized to provide compensable medical services under this section  who
+agrees to the conditions of ORS 656.260  (4)(g). However, guarantee of payment is not required by the
+insurer or self-insured employer if this election is made.
+(C) If the insurer or self-insured  employer does not give notice that the worker is required to
+receive  treatment  from the managed care organization, the insurer or self-insured employer is under
+no obligation to pay for services received by the worker unless the claim is later accepted.
+(D) If  the claim is denied, the worker may receive medical services after the date of denial from
+sources other than the managed  care organization until the denial is reversed. Reasonable and
+necessary medical services received from sources other than  the managed care organization after
+the date  of claim denial must be paid as provided in ORS 656.248 by the insurer or self-insured em-
+ployer if the claim is finally determined to be compensable.
+(5)(a) A nurse practitioner, or a physician associate  described in ORS 656.005 (12)(b)(C), who is
+not a member of the managed care  organization is authorized to provide the same level of services
+as a primary care physician as established by ORS 656.260  (4) if the nurse practitioner or physician
+associate:
+(A) Maintains the worker’s medical records;
+(B) Has a documented history of treatment with the worker;
+(C) Agrees to refer the worker to the managed care organization for any specialized  treatment,
+including physical therapy, to be furnished by another provider that the worker may require; and
+(D) Agrees to  comply with all the rules, terms and conditions regarding services performed by
+the managed care organization.
+(b)(A) A nurse practitioner or physician associate authorized to provide medical services  to a
+worker enrolled in the managed care organization may:
+(i) Provide medical treatment  to the worker if the treatment is determined to be medically ap-
+propriate according to the service utilization review process of the managed care organization; and
+(ii) Authorize temporary disability payments as provided in subsection (2)(b)(D) of this section.
+(B) The managed  care organization may also authorize the nurse practitioner or physician as-
+sociate to provide medical services and authorize temporary disability payments  beyond the periods
+established in subsection (2)(b)(D) of this section.
+(6) Subject to the provisions of ORS 656.704, if  a claim for medical services is disapproved, the
+injured worker, insurer  or self-insured employer may request administrative review by the director
+pursuant to ORS 656.260 or 656.327.
+SECTION 3.
+ ORS 656.260, as amended by section 112,  chapter 73, Oregon Laws 2024, is
+amended to read:
+656.260. (1) Any health care provider  or group of medical service providers may make written
+application to the Director of the Department of Consumer and Business Services to become  certi-
+fied to provide managed care to injured workers for injuries and diseases compensable under this
+chapter. However, nothing in this section authorizes an organization that is formed, owned or  op-
+erated by  an insurer or employer other than a health care provider to become certified to provide
+managed care.
+(2) Each application for certification shall be accompanied by a  reasonable fee prescribed by the
+director. A certificate is valid for such period as  the director may prescribe unless sooner revoked
+or suspended.
+(3) Application for certification shall be made in such  form and manner and shall set forth such
+information regarding the proposed plan  for providing services as the director may prescribe. The
+information shall include, but not be limited to:
+(a) A list of the names of all individuals who will provide services under the  managed care plan,
+together with appropriate  evidence of compliance with any licensing or certification requirements
+for that individual to practice in this state.
+(b) A description of the times, places and manner of providing services under the plan.
+(c) A description of the times, places and manner of providing other  related optional services
+the applicants wish to provide.
+(d) Satisfactory evidence of ability to comply with any  financial requirements to insure delivery
+of service in accordance with the plan which the director may prescribe.
+(4) The director shall certify a health care provider or group of  medical service providers to
+provide managed care under a plan if the director finds that the plan:
+(a) Proposes to provide medical and health care services required by this chapter in a manner
+that:
+(A) Meets quality, continuity and other treatment standards adopted  by the health care provider
+or group of medical service providers in accordance with processes approved by the director; and
+(B) Is timely, effective and convenient for the worker.
+(b) Subject to any other provision of law,  does not discriminate against or exclude from partic-
+ipation in the plan any category of medical service  providers and includes an adequate number of
+each category of  medical service providers to give workers adequate flexibility to choose medical
+service providers from among those individuals who provide services  under the plan. However,
+nothing in the requirements of this paragraph shall affect the provisions of ORS 441.055 relating to
+the granting of medical staff privileges.
+(c) Provides appropriate financial incentives to reduce service  costs and utilization without
+sacrificing the quality of service.
+(d) Provides adequate methods of  peer review, service utilization review, quality assurance,
+contract review and  dispute resolution to ensure appropriate treatment or to prevent inappropriate
+or excessive treatment, to exclude from participation in the plan those individuals who  violate these
+treatment standards and to provide for the resolution of  such medical disputes as the director con-
+siders appropriate. A majority of the  members of each peer review, quality assurance, service utili-
+zation and contract review committee shall be physicians licensed to practice medicine by the
+Oregon Medical Board. As used in this paragraph:
+(A) “Peer review” means evaluation or review of  the performance of colleagues by a panel with
+similar types and degrees of expertise. Peer review requires participation of at least three physicians
+prior to final determination.
+(B) “Service utilization review”  means evaluation and determination of the reasonableness, ne-
+cessity and appropriateness of a worker’s use of medical care  resources and the provision of any
+needed assistance to clinician  or member, or both, to ensure appropriate use of resources. “Service
+utilization review” includes prior authorization, concurrent review, retrospective review,  discharge
+planning and case management activities.
+(C) “Quality assurance” means activities to safeguard or improve the quality of  medical care
+by assessing the quality of care or service and taking action to improve it.
+(D) “Dispute resolution” includes  the resolution of disputes arising under peer review, service
+utilization review and quality  assurance activities between insurers, self-insured employers, workers
+and medical and health care service providers, as required under the certified plan.
+(E) “Contract review” means the methods  and processes whereby the managed care organization
+monitors and enforces  its contracts with participating providers for matters other than matters
+enumerated in subparagraphs (A), (B) and (C) of this paragraph.
+(e) Provides a program  involving cooperative efforts by the workers, the employer and the
+managed care organizations to  promote workplace health and safety consultative and other services
+and early return to work for injured workers.
+(f) Provides a timely and  accurate method of reporting to the director necessary information
+regarding medical and health care service cost and  utilization to enable the director to determine
+the effectiveness of the plan.
+(g)(A) Authorizes workers to receive compensable medical treatment  from a primary care phy-
+sician or chiropractic physician who is not a member  of the managed care organization, but who
+maintains the worker’s medical records  and is a physician with whom the worker has a documented
+history of treatment, if:
+(i) The primary care physician or chiropractic physician  agrees to refer the worker to the
+managed care organization for any specialized treatment, including physical  therapy, to be furnished
+by another provider that the worker may require;
+(ii) The primary care physician or chiropractic physician agrees to comply  with all the rules,
+terms and conditions regarding services performed by the managed care organization; and
+(iii) The treatment is determined to be medically appropriate according  to the service utilization
+review process of the managed care organization.
+(B) Nothing in this paragraph is intended to limit the worker’s right to  change primary care
+physicians or chiropractic physicians prior to the filing of a workers’ compensation claim.
+(C) A chiropractic physician authorized to provide compensable medical treatment under  this
+paragraph may provide services and authorize temporary disability compensation as provided in ORS
+656.005 (12)(b)(A) [ (12)(b)(B) and 656.245 (2)(b). However, the managed care organization may au-
+thorize chiropractic physicians to provide  medical services and authorize temporary disability payments
+beyond the periods established in ORS 656.005 (12)(b)(B) and 656.245 (2)(b) ].
+(D) As used  in this paragraph, “primary care physician” means a physician who is qualified to
+be an attending physician referred to in ORS 656.005 (12)(b)(A) and who is a family practitioner, a
+general practitioner or an internal medicine practitioner.
+(h) Provides a written explanation for denial of participation  in the managed care organization
+plan to  any licensed health care provider that has been denied participation in the managed care
+organization plan.
+(i) Does not prohibit the injured worker’s attending physician from advocating for medical  ser-
+vices and temporary disability benefits for the injured worker that are supported  by the medical
+record.
+(j) Complies with any other requirement the director determines is necessary  to provide quality
+medical services and health care to injured workers.
+(5)(a) Notwithstanding ORS 656.245 (5) and  subsection (4)(g) of this section, a managed care or-
+ganization may deny or terminate the authorization of a  primary care physician or chiropractic
+physician to serve as an attending physician under subsection (4)(g) of  this section or of a nurse
+practitioner or physician associate to provide medical services  as provided in ORS 656.245 (5) if the
+physician, nurse practitioner or physician associate, within two years prior to  the worker’s enroll-
+ment in the plan:
+(A) Has been terminated from serving as an attending physician, nurse practitioner or  physician
+associate for a  worker enrolled in the plan for failure to meet the requirements of subsection (4)(g)
+of this section or of ORS 656.245 (5); or
+(B) Has failed to satisfy the credentialing standards for participating in the managed care  or-
+ganization.
+(b) The director shall adopt by rule reporting  standards for managed care organizations to re-
+port denials and terminations of the authorization of primary care physicians, chiropractic physi-
+cians, nurse practitioners and physician  associates who are not members of the managed care
+organization to provide compensable medical treatment under  ORS 656.245 (5) and subsection (4)(g)
+of this section. The director shall annually report to the Workers’ Compensation Management-Labor
+Advisory Committee the information reported to the director by managed  care organizations under
+this paragraph.
+(6) The director shall refuse to certify or may revoke or suspend the certification  of any health
+care provider or group of medical service providers to provide managed care if the director  finds
+that:
+(a) The plan for providing medical or health  care services fails to meet the requirements of this
+section.
+(b) Service under the plan is not  being provided in accordance with the terms of a certified plan.
+(7) Any issue concerning the provision of medical services  to injured workers subject to a
+managed care contract and service utilization review,  quality assurance, dispute resolution, contract
+review and peer review activities as well as authorization of medical  services to be provided by
+other than an attending physician pursuant to ORS 656.245 (2)(b) shall be subject  to review by the
+director or the  director’s designated representatives. The decision of the director is subject to re-
+view under ORS 656.704. Data generated by or  received in connection with these activities, includ-
+ing written reports, notes or records of any such activities, or  of any review thereof, shall be
+confidential, and shall not be disclosed except as considered necessary by  the director in the ad-
+ministration of this chapter. The director may report professional  misconduct to an appropriate li-
+censing  board.
+(8) No data generated by service utilization  review, quality assurance, dispute resolution or peer
+review activities and  no physician profiles or data used to create physician profiles pursuant to this
+section or a review thereof shall be used in any  action, suit or proceeding except to the extent
+considered necessary by the director in the administration of this chapter. The confidentiality pro-
+visions of this section shall not apply in  any action, suit or proceeding arising out of or related to
+a contract between a managed care organization and a  health care provider whose confidentiality
+is protected by this section.
+(9) A person participating in service utilization review, quality assurance,  dispute resolution or
+peer review  activities pursuant to this section shall not be examined as to any communication made
+in the course of such activities or the findings thereof, nor  shall any person be subject to an action
+for civil damages for affirmative actions taken or statements made in good faith.
+(10) No person who participates in forming  consortiums, collectively negotiating fees or other-
+wise solicits or enters  into contracts in a good faith effort to provide medical or health care services
+according to the provisions of this section shall be examined or subject to administrative  or civil
+liability regarding any such  participation except pursuant to the director’s active supervision of
+such activities and the managed care organization. Before engaging in such  activities, the person
+shall provide notice of intent to the director in a form prescribed by the director.
+(11) The provisions of this section  shall not affect the confidentiality or admission in evidence
+of a claimant’s medical treatment records.
+(12) In consultation with the committees referred  to in ORS 656.790 and 656.794, the director
+shall adopt such rules as may be necessary to carry out the provisions of this section.
+(13) As used  in this section, ORS 656.245, 656.248 and 656.327, “medical service provider” means
+a person duly licensed to practice one or more of the healing  arts in any country or in any state
+or territory or possession of the United States.
+(14) Notwithstanding ORS 656.005 (12) or subsection (4)(b) of this section, a  managed care or-
+ganization contract may designate any  medical service provider or category of providers as attend-
+ing physicians.
+(15) If a worker, insurer, self-insured employer, the attending physician or an  authorized health
+care provider is dissatisfied  with an action of the managed care organization regarding the provision
+of medical services pursuant to this chapter, peer review, service utilization review or quality  as-
+surance  activities,  that person or entity must first apply to the director for administrative review
+of the matter before requesting a hearing. Such application must be made not later  than the 60th
+day after the date the managed care organization has completed and issued its final decision.
+(16) Upon a request  for administrative review, the director shall create a documentary record
+sufficient for judicial review. The director shall complete administrative review  and issue a pro-
+posed order within a reasonable time. The  proposed order of the director issued pursuant to this
+section shall become final and not subject to further review unless  a written request for a hearing
+is filed with the director within 30 days of the mailing of the order to all parties.
+(17) At the contested case hearing, the order may be modified only  if it is not supported by
+substantial evidence in the record or reflects an error of law. No new medical evidence  or issues
+shall be admitted. The dispute  may also be remanded to the managed care organization for further
+evidence taking, correction or other necessary action  if the Administrative Law Judge or director
+determines the record has been improperly, incompletely or otherwise  insufficiently developed. De-
+cisions by the director regarding medical disputes are subject to review under ORS 656.704.
+(18) Any person who is dissatisfied with an action of a managed care organization  other than
+regarding  the  provision of medical services pursuant to this chapter, peer review, service utilization
+review or quality assurance activities may request review under ORS 656.704.
+(19) Notwithstanding  any other provision of law, original jurisdiction over contract review dis-
+putes is with the director. The director may resolve the matter by issuing an order subject to  re-
+view under ORS 656.704, or the director may determine that  the matter in dispute would be best
+addressed in another forum and so inform the parties.
+(20) The director shall conduct such  investigations, audits and other administrative oversight in
+regard to managed care as the director deems necessary to carry out the purposes of this chapter.
+(21)(a) Except as otherwise provided in this chapter,  only a managed care organization certified
+by the director may:
+(A) Restrict the choice of a health care provider or medical service provider by a worker;
+(B) Restrict the access of a worker to any category of medical service providers;
+(C) Restrict the ability of a medical service provider to refer a worker to another provider;
+(D) Require preauthorization or precertification to  determine the necessity of medical services
+or treatment; or
+(E) Restrict treatment provided to a worker by a medical service provider  to specific treatment
+guidelines, protocols or standards.
+(b) The provisions of paragraph (a) of this subsection do not apply to:
+(A) A medical service provider who refers a worker to another medical service provider;
+(B) Use of an on-site medical service facility by  the employer to assess the nature or extent of
+a worker’s injury; or
+(C) Treatment provided by a medical service provider or transportation of a worker in  an
+emergency or trauma situation.
+(c) Except as provided in paragraph (b) of this subsection, if the director finds that a  person has
+violated a provision of paragraph (a) of this  subsection, the director may impose a sanction that may
+include a civil penalty not to exceed $2,000 for each violation.
+(d) If violation of paragraph (a) of this subsection is repeated or willful, the director may  order
+the person committing the violation to cease and  desist from making any future communications
+with injured workers or medical service providers or from taking any other  actions that directly or
+indirectly affect the delivery of medical services provided under this chapter.
+(e)(A) Penalties imposed under this subsection are subject to ORS 656.735  (4) to (6) and 656.740.
+(B) Cease and desist orders issued under this subsection are subject to ORS 656.740.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 656.005, ORS 656.245, ORS 656.260
+- From bill text (Introduced version): ORS 441.055, ORS 656.005, ORS 656.017, ORS 656.023, ORS 656.027, ORS 656.054, ORS 656.225, ORS 656.245, ORS 656.248, ORS 656.260, ORS 656.273, ORS 656.278, ORS 656.327, ORS 656.407, ORS 656.430, ORS 656.704, ORS 656.735, ORS 656.740, ORS 656.752, ORS 656.790, ORS 656.794, ORS 656.850, ORS 670.600, ORS 677.100, ORS 677.505, ORS 677.805, ORS 678.375, ORS 689.515, ORS 705.145
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `60b1e6e45e03408ede217157c3988fa80dcddd7093ce18eed2ffc7ae594533f3` (snapshot `_meta/snapshots/measure-2025r1-hb3490-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3490/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3490> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

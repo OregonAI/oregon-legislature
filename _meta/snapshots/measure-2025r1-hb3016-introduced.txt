@@ -1,0 +1,264 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3016
+Sponsored by Representative NERON; Representative HELM (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act tells the  EQC to give rebates to people that replace gas lawn and garden tools
+with electric lawn and garden tools. (Flesch Readability Score: 73.1).
+Directs the Environmental Quality Commission to establish a program to provide rebate vouch-
+ers for the replacement of combustion lawn and garden equipment with zero-emission lawn and
+garden equipment.
+Establishes the Lawn and Garden Equipment Rebate Fund.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to a rebate program for zero-emission landscaping equipment;  and prescribing an effective
+date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 and 3 of  this 2025 Act are added to and made a part of ORS
+chapter 468.
+SECTION 2. (1) As used in this section:
+(a) “Approved disposal facility” means a facility that has been approved by the Depart-
+ment of Environmental Quality to accept, destroy and dispose of eligible equipment in  ac-
+cordance with all applicable laws.
+(b) “Combustion lawn and garden equipment” means equipment that:
+(A) Is a chainsaw, trimmer, edger, brushcutter, leaf  blower, leaf vacuum, walk-behind
+lawn mower or ride-on lawn mower;
+(B) Is powered by an internal combustion engine; and
+(C) Meets any other  criteria established by the Environmental Quality Commission by
+rule.
+(c) “Eligible equipment” means combustion lawn and garden equipment that:
+(A) Is in working condition; and
+(B) Has been owned and used in this state by an applicant for at least two years.
+(d) “Participating retailer” means a retail seller of  zero-emission lawn and garden
+equipment that has entered into  an agreement with the program administrator to participate
+in the rebate program established under this section.
+(e) “Program administrator” means:
+(A) A third-party organization that the department hires or contracts with to administer
+the program established under this section; or
+(B) The department, if  the department does not hire or contract with a third-party or-
+ganization.
+(f) “Zero-emission lawn and garden equipment” means equipment that:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 770
+HB 3016
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Is a chainsaw, trimmer, edger, brushcutter, leaf  blower, leaf vacuum, walk-behind
+lawn mower or ride-on lawn mower;
+(B) Is cordless;
+(C) Is powered by an electric motor; and
+(D) Meets any other criteria established by the commission by rule.
+(2) The Environmental Quality Commission shall establish by rule a program  to provide
+rebate vouchers to residential and commercial applicants for the  replacement of combustion
+lawn and garden equipment with zero-emission  lawn and garden equipment. The Department
+of Environmental Quality may hire  or contract with a third-party organization to implement
+and serve as the program administrator.
+(3) To be eligible to  receive a rebate voucher, an applicant must complete an application
+in the form and manner prescribed by the commission that includes:
+(a) A description of the eligible equipment that the applicant intends to replace;
+(b) Certification that the applicant owns the eligible equipment and has operated the  eli-
+gible equipment in this state for at least two years;
+(c) A description of the zero-emission lawn  and garden equipment the applicant intends
+to purchase;
+(d) Certification that the applicant will own and operate  the zero-emission lawn and
+garden equipment in this state for at least three years;
+(e) Certification that the applicant will surrender the eligible equipment to the program
+administrator or an approved disposal facility for destruction and disposal; and
+(f) Evidence that the applicant is an Oregon resident.
+(4)(a) A voucher recipient must surrender eligible equipment to the program adminis-
+trator or an approved disposal facility for destruction and disposal within 30  days of pur-
+chasing replacement zero-emission lawn and garden equipment using  a rebate voucher
+provided under the program.
+(b) The program administrator or the approved disposal facility shall verify that  eligible
+equipment surrendered for disposal:
+(A) Matches the  description of the eligible equipment in the voucher recipient’s applica-
+tion; and
+(B) Is in working condition.
+(5) The maximum amount of a rebate voucher allowed for an applicant shall be as follows:
+(a) For chainsaws, trimmers, edgers or brushcutters:
+(A) $300 for residential applicants; and
+(B) $700 for commercial applicants.
+(b) For leaf blowers or leaf vacuums:
+(A) $200 for residential applicants; and
+(B) $1,400 for commercial applicants.
+(c) For walk-behind lawn mowers:
+(A) $330 for residential applicants; and
+(B) $1,500 for commercial applicants.
+(d) For ride-on lawn mowers:
+(A) $2,000 for residential applicants; and
+(B) $15,000 for commercial applicants.
+(6)(a) Rebate vouchers may only be used to purchase  zero-emission lawn and garden
+[2]
+HB 3016
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+equipment and any batteries or charging cables necessary for the  use of zero-emission lawn
+and garden equipment that are purchased as part of the same transaction.
+(b) A rebate voucher  may not be issued for an amount that exceeds the cost of all zero-
+emission lawn and garden equipment, batteries and charging cords that the voucher recipient
+plans to purchase.
+(c) A rebate voucher may only be used to purchase  zero-emission lawn and garden
+equipment that is of the same equipment type and performs  the same function as the eligible
+equipment that it will replace.
+(7) The program  administrator shall enter into agreements with participating retailers.
+A participating retailer must:
+(a) Agree to accept rebate vouchers for the  purchase of zero-emission lawn and garden
+equipment and be reimbursed by the program administrator at a later date; and
+(b) Comply with all program rules and policies established by the commission.
+(8)(a) The department  may designate as an approved disposal facility, any facility that the
+department determines is equipped to accept, destroy  and dispose of eligible equipment in
+accordance with all applicable laws.
+(b) Before participating in the  rebate program, an approved disposal facility must enter
+into an agreement with the program administrator stating that  the approved disposal facility
+will:
+(A) Accept, destroy and dispose of eligible equipment;
+(B) Verify that eligible equipment is in working  condition at the time it is presented for
+disposal; and
+(C) Comply with all program rules and policies established by the commission.
+(9) A  voucher recipient that does not satisfy the requirements of subsection (4) of this
+section shall reimburse the program administrator for the full amount of the voucher.
+SECTION 3.
+(1) The Lawn and Garden Equipment Rebate Fund is established  in the State
+Treasury, separate and distinct from the  General Fund. Interest earned by the Lawn and
+Garden Equipment Rebate Fund shall be credited to the fund.
+(2) Moneys in the Lawn and Garden Equipment Rebate Fund shall consist of:
+(a) Amounts donated to the fund;
+(b) Amounts appropriated  or otherwise transferred to the fund by the Legislative As-
+sembly;
+(c) Other amounts deposited in the fund from any public or private source; and
+(d) Interest earned by the fund.
+(3) Moneys in the Lawn and Garden Equipment Rebate Fund are  continuously appropri-
+ated to Department of Environmental  Quality to carry out the provisions of section 2 of this
+2025 Act.
+(4) No more than 10 percent of the moneys deposited in the fund per biennium may  be
+expended to pay administrative expenses incurred in the  administration of section 2 of this
+2025 Act by:
+(a) The department; and
+(b) Any third-party organization that the  department hires or contracts with under sec-
+tion 2 of this 2025 Act.
+SECTION 4.
+This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]
+HB 3016
+1
+[4]

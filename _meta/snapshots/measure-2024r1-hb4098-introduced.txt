@@ -1,0 +1,217 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4098
+Sponsored by Representative  WALTERS, Senator SOLLMAN, Representatives PHAM H, BYNUM, NGUYEN H,
+RUIZ; Representatives BOWMAN, HARTMAN, LEVY  E, NGUYEN D, REYNOLDS, SOSA, Senators CAMPOS,
+FREDERICK, GELSER BLOUIN, JAMA, PATTERSON (at  the request of Family Forward Oregon) (Presession
+filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates the  CHIPS Child Care Fund. The Act tells the Oregon Business Devel-
+opment Department to make some programs for child care and to create a work group related  to
+funding child care. (Flesch Readability Score: 72.6).
+Establishes the CHIPS Child Care Fund.
+Directs the Oregon  Business Development Department to develop and administer a child care
+infrastructure grant program. Directs the department to develop and administer a  financial support
+program for  the construction workforce. Requires the department to report to the committees of the
+Legislative Assembly related to child care and workforce development by September 15, 2025.
+Directs the department  to establish a work group to adopt recommendations for requiring cer-
+tain businesses to make a financial contribution  to the CHIPS Child Care Fund. Requires work
+group to report to the committees of the Legislative Assembly related to child  care and workforce
+development by September 15, 2024.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to child care; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+CHIPS Child Care Work Group.  (1) The Oregon Business Development  De-
+partment shall establish the CHIPS Child Care Work Group to develop recommendations:
+(a) To require financial contributions to the CHIPS Child Care  Fund by businesses that
+receive a program grant or  loan under section 3, chapter 25, Oregon Laws 2023, and federal
+semiconductor financial assistance, as defined in section 1, chapter 25, Oregon Laws 2023.
+(b) To determine the monetary  amount of financial contributions and the mechanism by
+which those contributions are made under paragraph (a) of this subsection.
+(2) The work group must include, at a minimum, representation of  relevant state agen-
+cies, businesses described in subsection (1) of this section and child care advocates.
+SECTION 2. Child care infrastructure grant program. (1) The  Oregon Business Develop-
+ment Department shall develop and administer a child care infrastructure grant  program for
+the purpose of building new child care infrastructure in this state.
+(2) The following entities may receive a grant under subsection (1) of this section:
+(a) A family child care provider that is certified under ORS 329A.280 or registered  under
+ORS 329A.330.
+(b) A child care facility as defined in ORS 329A.250.
+(c) A child care center that is certified under ORS 329A.280.
+(d) An entity that submits a satisfactory proposal,  as determined by the department or
+a third party  that has entered into a contract with the department as provided in subsection
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 70
+HB 4098
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) of this section, for the development of new infrastructure  in order to operate one of the
+entities described in paragraphs (a) to (c) of this subsection.
+(3) In awarding grants under this section, the department or third  party shall give pri-
+ority to entities whose applications entail  a proposal to create new child care slots that are
+suitable for children who have family, as defined  in ORS 329A.500, employed in the con-
+struction workforce. In analyzing prioritization under this subsection, the  department or
+third party shall consider factors including but not limited to:
+(a) Whether the proposed child care infrastructure will be located in  a geographic area
+in this state where semiconductor or other advanced  manufacturing facilities are presently
+located or scheduled to be constructed under sections 1 to 6, chapter 25, Oregon Laws 2023.
+(b) Whether the proposed child care infrastructure will provide  nonstandard working
+hours that accommodate the schedules of the construction workforce.
+(c) Whether the proposed child care infrastructure will offer culturally and  linguistically
+specific and appropriate early learning and care.
+(4) The department shall establish reasonable application requirements  and processes by
+rule.
+(5) The department may enter into a contract with  a third party to administer the grant
+program under this section.
+SECTION 3.
+Financial support for construction workforce.  (1) The Oregon Business De-
+velopment Department shall enter an interagency agreement with the Bureau of Labor and
+Industries to develop and administer a program to provide  financial support for child care
+services to:
+(a) An apprentice who is  participating in a course of study in construction under ORS
+660.002 to 660.210.
+(b) A journeyworker  who has completed an apprenticeship in construction under ORS
+660.002 to 660.210 within the last five years.
+(2) Financial  support under subsection (1) of this section may be provided to the ap-
+prentice or journeyworker or to the  child care provider that is providing child care services
+for the apprentice or journeyworker.
+(3)(a) The department shall adopt rules necessary to administer this section.
+(b) The bureau may adopt rules,  consistent with any rules adopted by the department,
+to carry out this section.
+SECTION 4.
+CHIPS Child Care Fund. (1) The CHIPS Child Care Fund is established in the
+State Treasury, separate  and distinct from the General Fund. Interest earned by the CHIPS
+Child Care Fund shall be credited to the fund.
+(2) Moneys in the fund  are continuously appropriated to the Oregon Business Develop-
+ment Department to carry out sections 2 and 3 of this 2024 Act, including  but not limited to
+providing to the Bureau of Labor and Industries to develop and  administer the program de-
+scribed in section 3 of this 2024 Act.
+(3) The Oregon Business Development Department shall administer the  fund in consul-
+tation with the Bureau of Labor and Industries.
+(4) The fund shall consist of moneys credited to the fund, including:
+(a) Moneys appropriated to the fund by the Legislative Assembly;
+(b) Moneys transferred to the fund by the Oregon Business Development Department;
+(c) Earnings on moneys in the fund;
+[2]
+HB 4098
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+(d) Moneys received from the federal or state government; and
+(e) Moneys from any other source, including but not limited to grants and gifts.
+SECTION 5.
+Reports. (1) On or before September 15, 2025, the Oregon Business Develop-
+ment Department shall submit a  report, in the manner provided in ORS 192.245, on the
+department’s progress in implementing sections 2 and 3 of this 2024 Act, and may  include
+recommendations for  legislation, to the committees of the Legislative Assembly related to
+child care and workforce development.
+(2) On or before September 15, 2024,  the work group established in section 1 of this 2024
+Act shall submit  a report, in the manner provided in ORS 192.245, on its recommendations
+as required by section 1 of this 2024 Act, to the  committees of the Legislative Assembly re-
+lated to child care and workforce development.
+SECTION 6. Appropriation. In addition to and not in lieu of any other  appropriation,
+there is appropriated to the Oregon Business Development Department,  for the biennium
+ending June 30, 2025, out of the General Fund, the amount  of $ , to be deposited into
+the CHIPS Child Care Fund established under section 4 of this 2024 Act.
+SECTION 7. Repeal. (1) Section 1 of this 2024 Act is repealed on January 2, 2025.
+(2) Section 5 of this 2024 Act is repealed on January 2, 2026.
+SECTION 8.
+Captions disclaimer. The section captions used in this 2024 Act  are provided
+only for the convenience of the reader and do not become part  of the statutory law of this
+state or express any legislative intent in the enactment of this 2024 Act.
+SECTION 9. Effective date. This 2024 Act being  necessary for the immediate preservation
+of the public peace, health and safety, an  emergency is declared to exist, and this 2024 Act
+takes effect on its passage.
+[3]

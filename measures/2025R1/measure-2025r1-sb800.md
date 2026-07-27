@@ -1,0 +1,359 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb800
+title: 'SB 800 (2025R1): Expands provisions requiring tax compliance as a condition of receiving a license
+  to conduct a business, trade or profession or of entering into a contract with a state agency or political
+  subdivision.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 800
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB800/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: ebf4a645569bcc4bf5436a48d92c6d9e25f426bfec74b129dd7a89ae261355a6
+snapshot_id: measure-2025r1-sb800-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 118.525
+  - ORS 183.315
+  - ORS 183.605
+  - ORS 192.311
+  - ORS 25.790
+  - ORS 305.220
+  - ORS 305.380
+  - ORS 305.385
+  - ORS 305.620
+  - ORS 314.835
+  - ORS 314.840
+  - ORS 316.207
+  - ORS 320.005
+  - ORS 60.470
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 800
+prefix_meaning: Senate Bill
+catch_line: Expands provisions requiring tax compliance as a condition of receiving a license to conduct
+  a business, trade or profession or of entering into a contract with a state agency or political subdivision.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act requires people who seek licenses to show tax compliance. (Flesch\
+  \ Readability Score: 64.9). \n\tExpands provisions requiring tax compliance as a condition of receiving\
+  \ a license to conduct a business, trade or profession or of entering into a contract with a state agency\
+  \ or political subdivision. Requires licensees and contractors to provide a tax compliance certificate\
+  \ from the Department of Revenue, unless a certain compliance rate is demonstrated by holders of the\
+  \ type of license. \n\tApplies to licenses issued, reissued, reinstated or renewed and contracts entered\
+  \ into on or after January 1, 2026. \n\tTakes effect on the 91st day following adjournment sine die."
+relating_to: Relating to compliance with tax laws; prescribing an effective date.
+relating_to_full: Relating to compliance with tax laws; creating new provisions; amending ORS 9.565, 305.380
+  and 305.385; and prescribing an effective date.
+at_the_request_of: (at the request of Governor Tina Kotek for Department of Revenue)
+lc_number: 303
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-05-09T12:07:26'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 18444
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 118.525
+  - ORS 183.315
+  - ORS 183.605
+  - ORS 192.311
+  - ORS 25.790
+  - ORS 305.220
+  - ORS 305.380
+  - ORS 305.385
+  - ORS 305.620
+  - ORS 314.835
+  - ORS 314.840
+  - ORS 316.207
+  - ORS 320.005
+  - ORS 60.470
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 800>.
+
+# SB 800 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 800, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for Department of Revenue)
+- **LC number:** 303
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-05-09T12:07:26
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 18444 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB800/Introduced>.
+
+## Summary
+
+**Catchline:** Expands provisions requiring tax compliance as a condition of receiving a license to conduct a business, trade or profession or of entering into a contract with a state agency or political subdivision.
+
+**Relating to:** Relating to compliance with tax laws; prescribing an effective date.
+
+Digest: The Act requires people who seek licenses to show tax compliance. (Flesch Readability Score: 64.9). 
+ Expands provisions requiring tax compliance as a condition of receiving a license to conduct a business, trade or profession or of entering into a contract with a state agency or political subdivision. Requires licensees and contractors to provide a tax compliance certificate from the Department of Revenue, unless a certain compliance rate is demonstrated by holders of the type of license. 
+ Applies to licenses issued, reissued, reinstated or renewed and contracts entered into on or after January 1, 2026. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to compliance with tax laws; creating new provisions; amending ORS 9.565, 305.380 and 305.385; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 800
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Governor Tina Kotek for Department of Revenue)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act requires people who seek  licenses to show tax compliance. (Flesch Readability
+Score:  64.9).
+Expands provisions requiring tax compliance as  a condition of receiving a license to conduct a
+business, trade or profession or of entering into a contract with a state agency or political subdivi-
+sion. Requires licensees and contractors to provide a tax compliance certificate from the Department
+of Revenue, unless a certain compliance rate is demonstrated by holders of the type of license.
+Applies to licenses issued, reissued,  reinstated or renewed and contracts entered into on or after
+January 1, 2026.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to compliance with tax laws; creating new provisions; amending  ORS 9.565, 305.380 and
+305.385; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 305.380 is amended to read:
+305.380. As used in this section and  ORS 305.385:
+(1) “Agency” means any department,  board, commission, division or authority of the State of
+Oregon, or any political  subdivision of this state which imposes a local tax administered by the
+Department of Revenue under ORS 305.620.
+(2) “License” means any written authority required by law or ordinance as a prerequisite to the
+conduct of a business, trade or profession.
+(3) “Licensee” means a person holding a license in Oregon, or a person applying for  the
+issuance, reissuance, reinstatement or renewal of a license.
+(4) “Owner” means an owner, as defined in ORS 60.470, of a licensee or provider.
+[(3)] (5) “Provider” means any person who contracts to  supply goods, services or real estate
+space to an agency.
+[(4)] (6)(a)  “Tax” means [ a state tax imposed by ORS  320.005 to 320.150 and 403.200 to 403.250
+and ORS chapters 118, 314,  316, 317, 318, 321 and 323 ] state taxes administered by the depart-
+ment under the tax laws of this state and local taxes administered by the Department of Revenue
+under ORS 305.620 , and any associated penalties and interest imposed in addition to the tax.
+(b) “Tax” does not include ad valorem property taxes .
+SECTION 2.  ORS 305.385 is amended to read:
+305.385. (1) Annually, on or before March  1,  and  upon request of the Department  of
+Revenue[, an agency issuing or renewing a license to conduct a business,  trade or profession shall
+annually, on or before March  1, supply the department with a list of specified licenses issued or re-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 303
+newed by the agency during the preceding calendar year. ]:
+(a) An agency that  issues or renews licenses shall supply the department with a list of
+all licensees holding, during the preceding calendar year, specified licenses issued  or renewed
+by the agency.
+(b) The Oregon  State Bar shall supply the department with a list of all members who are
+active or inactive during the preceding calendar year.
+(2) Upon request of the department, an agency shall annually, on or  before March 1, supply the
+department with a list of [ specified persons contracting with the agency to  provide goods, services or
+real estate space to the agency ] the agency’s providers  during the preceding calendar year.
+(3) The lists required by subsections (1) and (2) of this section shall contain :
+(a) The name, address, Social Security or federal employer identification  number of each
+licensee or provider [ or such other information as the  department may by rule require. ] and any
+owner of each licensee or provider;
+(b) The renewal period of the license, if any; and
+(c) Any other information as the department  may by rule require, in the format and
+manner specified by the department.
+(4) The department may:
+(a) By rule establish  types of licenses for the purpose of categorizing and compiling in-
+formation received under this section; and
+(b) Use the information obtained under  subsections (1) to (3) of this section for the pur-
+pose of tax administration, including determination of tax compliance  and calculation of the
+average rate of tax compliance for each specified license  type. The information is exempt
+from disclosure by the department under ORS 192.311 to 192.478.
+(5)(a) If required to do so under subsection (6) of this  section, at the time of application
+for the issuance, reissuance, reinstatement or renewal  of a license, the licensee and each
+owner of the licensee shall submit to the licensing agency a certificate issued by  the de-
+partment stating that, as of the date of the certificate, the licensee or owner is in compliance
+with respect to any returns due and taxes payable to the department.
+(b) The certificate described in this subsection must be dated no earlier than 90 days
+prior to the date that a licensee submits an application for a license.
+(c) An application for  a license shall be incomplete if not accompanied by a certificate
+as described in this subsection.
+(d) Upon request of  a licensee, if the licensee is in compliance with taxes administered
+by the  department, the department shall, within 30 days after a request from the licensee,
+provide to the licensee a certificate as described in this subsection.
+(6) A licensee and each owner of the licensee is subject to subsection (5) of this section:
+(a) If, with respect to  the entity that seeks a license, the licensee is not an employee as
+defined in ORS 25.790; and
+(b) If the department determines that the average tax compliance rate for  licensees
+holding the type of license  sought is less than the average rate of compliance for other tax-
+payers.
+(7) Subsections (5) and (6) of this section do not  apply if the average tax compliance rate
+for licensees holding the type of license sought meets or exceeds 95 percent  for the five most
+recent consecutive calendar  years for which compliance rate information is available at the
+time of the department’s determination.
+(8) Notwithstanding ORS 314.835, 314.840 or 314.991, the department shall notify an agency
+if the average tax compliance rate for a type of license issued by  the agency is less than 95
+percent, as described in subsection (7) of this section.
+[(4)(a)] (9)(a) If the department determines that any licensee , owner  or provider has neglected
+or refused to  file any return or to pay any tax and [ that such person has not filed ] has not  in good
+faith [ a petition before the department ] timely requested a conference with the department,
+submitted a written objection to the department or timely filed an appeal in  the Oregon Tax
+Court contesting the tax, and the department has been  unable to obtain payment of the tax [ through
+other methods of collection ], the Director of the  Department of Revenue may, notwithstanding ORS
+118.525, 314.835 or 314.840 or any similar provision of law, notify the agency and the person  in
+writing.
+(b) Upon receipt of such notice, the agency shall refuse to  reissue, reinstate, renew or extend
+any license, contract or agreement until the agency receives a certificate issued by the  department
+that the person is in [ good standing] compliance with respect to any returns due and taxes payable
+to the department as of the date of the certificate.
+(c) Upon the written request of the director and after a  hearing and notice to the licensee as
+required under any applicable provision of law, the agency shall suspend the person’s license if  the
+agency finds that the returns and taxes have not been filed or paid and that the  licensee or owner
+has not  [ filed in good faith a petition before the department contesting the tax ] contested the tax
+through a request for a  conference with the department, submission of a written objection
+to the department or timely filing of  an appeal in the Oregon Tax Court  and the department
+has been unable to obtain payment of the tax [ through other methods  of collection ]. For the purpose
+of the  agency’s findings, the written representation to that effect by the department to the agency
+shall constitute prima facie evidence of the person’s failure to file returns or  pay the tax. The de-
+partment shall have the right to intervene in any license suspension proceeding.
+(d) Any license suspended under this subsection [ shall] may not be reissued , reinstated  or  re-
+newed until the agency  receives a certificate issued by the department that the licensee and each
+owner is in [ good standing ] compliance with respect to any returns due and taxes payable to the
+department, including any fee imposed under subsection (10) of this  section,  as of the date of
+the certificate.
+(10) The department may  impose a fee to be paid, in addition to any tax due, by any
+licensee subject to suspension under subsection (9) of this section. The fee imposed  under
+this subsection may not  exceed the actual legal costs to the department related to a license
+suspension under subsection (9) of this  section. A fee may not be added under this subsection
+unless the department has provided notice to the licensee of the authority of  the department
+to impose a fee.
+[(5)] (11)(a) Following a suspension for which a final order has been issued,  the department
+and the licensee, owner or provider  may enter into  an agreement with respect to any filing
+requirement or into an  installment payment agreement [ with a licensee  or provider ] with respect
+to any unpaid tax, penalty and interest. The agreement shall provide for interest on [ the] any out-
+standing amount at the rate prescribed by ORS 305.220. The agreement shall provide that any
+failure, without reasonable cause, by the licensee, owner or provider to satisfy the agreement
+shall constitute a waiver of  the right to a hearing and cause any suspension to remain in
+place.
+(b) The department may issue a provisional  certificate of [ good standing ] compliance pursuant
+to subsection [ (4)(b) and (d) ] (9)(b) and  (d)  of this section which shall remain in effect so long as
+the licensee , owner or provider fully complies with the terms of the  [installment] agreement. Failure
+by the licensee , owner  or provider to fully comply with the terms of the  [ installment] agreement
+shall render the agreement  and the provisional certificate of [ good standing ] compliance null and
+void, unless the department determines that the failure was due  to reasonable cause. If the depart-
+ment determines that the failure was not due to reasonable cause, the total  amount of the tax,
+penalty and interest shall be immediately due and payable, and the department shall notify  any af-
+fected agency that the licensee , owner  or provider is not in [ good standing. The  agency shall then
+take appropriate action under subsection (4)(b) and (d) of  this section. ] compliance with the tax
+system. The agency shall immediately suspend or decline to issue  a license upon notification
+by the department that the licensee, owner or provider is not in compliance.
+(c) The licensee, owner or provider may, within 21 days of a determination of  lack of
+reasonable cause, appeal the determination to the Director of the  Department of Revenue.
+Within 14 days after the filing of the appeal, the director must  either make a finding in favor
+of the licensee, owner or provider or give that person opportunity for hearing. If the licensee,
+owner or provider requests a hearing, the  director shall immediately refer the matter to the
+Office of Administrative Hearings established under ORS 183.605. The hearing  shall be con-
+ducted as soon as possible. Notwithstanding ORS 183.315, the hearing  shall be conducted as
+a contested case hearing. An issue that was decided in  a previous hearing, or for which the
+licensee, owner or provider was previously afforded an opportunity for  hearing, may not be
+reconsidered. Upon resolution in favor of the licensee,  owner or provider, the department
+shall notify the agency and the agency shall issue, renew or reinstate the license.
+[(6)] (12) [No] A  contract or other  agreement for the purpose of providing goods, services or real
+estate space to any agency [ shall] may not  be  entered into, renewed or extended with any person,
+unless the person certifies in writing, under penalty of perjury, that the person or any owner or
+provider associated with the person for purposes of the contract  is, to the best  of the person’s
+knowledge, not in violation of the provisions of any tax [ laws described ] as defined in ORS 305.380
+[(4)].
+[(7)] (13) The certification under subsection [ (6)] (12) of this section shall be required  for each
+contract and renewal or extension of  a contract or may be provided on an annual basis. A certi-
+fication [ shall] is not [ be] required for a  contract if the consideration for the goods, services or real
+estate space provided under the contract is no more than [ $1,000] $10,000.
+[(8)(a)] (14)(a) The requirements of the certification  under subsection [ (6)] (12) of this section
+shall be subject to the rules adopted by the department in accordance with this section.
+(b) The department may by rule exempt certain contracts  from the requirements of subsection
+[(6)] (12) of this section.
+SECTION 3.
+ ORS 9.565 is amended to read:
+9.565. (1) The Department of  Revenue may provide to the Oregon State Bar the name and ad-
+dress of any person admitted to practice law in this state if  the department has reasonable grounds
+to believe that:
+(a) The person admitted to practice law prepared a return or  report for another person that is
+filed with the  department and the return or report was prepared in violation of any provision of ORS
+9.460 to 9.542 or 9.705 to 9.757 or the disciplinary rules adopted thereunder;
+(b) The person admitted to practice law failed to file a required return,  the person has not
+timely filed an  appeal contesting the tax [ with the department by the filing deadline ] and the de-
+partment has been unable to obtain payment of the tax [ through other methods of collection ];
+[(c) The person admitted  to practice law failed to withhold or remit personal income taxes on behalf
+of an employee of an entity, the  person has been held liable for the failure under ORS 316.207, the
+person has not filed an appeal contesting the tax with the department by the filing deadline  and the
+department has been unable to obtain payment of the tax through other methods of collection; or ]
+[(d) The person  admitted to practice law failed to withhold or remit personal income taxes on be-
+half of an employee of an entity in which the person has a direct  ownership interest, the person has
+not filed an  appeal contesting the tax with the department by the filing deadline and the department
+has been unable to obtain payment of the tax through other methods of collection. ]
+(c) The person admitted to practice law, having a fiduciary duty to withhold, collect  or
+remit taxes on  behalf of an employee of an entity, has failed to do so, has been held liable
+for the failure, has not timely  filed an appeal contesting the tax and the department has been
+unable to obtain payment of the tax; or
+(d) The  person admitted to practice law failed to withhold, collect or remit taxes due
+from an entity in which the person has a direct ownership interest, the person has not timely
+filed an appeal contesting the tax and the department has been unable to  obtain payment of
+the tax.
+(2) If the department provides the name and address  of a person admitted to practice law under
+subsection (1) of this section, the department shall  also provide to the bar a statement of the basis
+of the department’s belief that a violation may have occurred.
+(3) If the department provides the name and address  of a person admitted to practice law under
+subsection (1) of this section [ with regard to a  return or report prepared for a person other than the
+person admitted to practice law, or with regard to a failure to withhold and remit personal  income
+taxes withheld ], the department may also provide to the bar the name and address of the taxpayer.
+(4) The bar and any person or board  described in ORS 9.537 (2) shall use the names, addresses
+and other information provided under this section solely in  the enforcement of ORS 9.460 to 9.542
+or 9.705 to 9.757 or the disciplinary rules adopted thereunder. Information disclosed by the depart-
+ment pursuant to this section may be  used in any bar proceeding relating to discipline or admission
+or reinstatement of any person to the bar.
+(5) Information disclosed by  the department pursuant to this section is confidential and not
+subject to disclosure by the bar unless the state professional  responsibility board appointed under
+ORS 9.532 has found probable cause of a rule violation or the matter investigated is finally resolved
+by disciplinary board action, a diversion or agreement or an order of the Supreme Court.
+SECTION 4.
+The amendments to ORS 305.385 by section 2 of this 2025 Act apply to li-
+censes issued, reissued, reinstated or  renewed and to contracts entered into on or after
+January 1, 2026.
+SECTION 5. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 118.525, ORS 183.315, ORS 183.605, ORS 192.311, ORS 25.790, ORS 305.220, ORS 305.380, ORS 305.385, ORS 305.620, ORS 314.835, ORS 314.840, ORS 316.207, ORS 320.005, ORS 60.470
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `ebf4a645569bcc4bf5436a48d92c6d9e25f426bfec74b129dd7a89ae261355a6` (snapshot `_meta/snapshots/measure-2025r1-sb800-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB800/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 800> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

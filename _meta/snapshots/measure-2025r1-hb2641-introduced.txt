@@ -1,0 +1,267 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2641
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Judiciary for Oregon Criminal Defense Lawyers Association)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes how prior convictions may be used. (Flesch Readability Score: 75.5).
+Modifies when a prior conviction is admissible to impeach the character of a witness.
+Limits prior convictions that may be used to calculate the criminal  history of a defendant for
+the purposes of sentencing.
+A BILL FOR AN ACT
+Relating to prior convictions; creating new provisions; and amending ORS 40.355.
+Be It Enacted by the People of the State of Oregon:
+PRIOR CONVICTIONS AS EVIDENCE
+SECTION 1.
+ ORS 40.355 is amended to read:
+40.355. [(1) For the purpose of attacking the credibility of a witness, evidence that the  witness has
+been convicted of a crime shall be admitted  if elicited from the witness or established by public record,
+but only if the crime: ]
+[(a) Was punishable by death or imprisonment in excess of one year under the  law under which
+the witness was convicted; or ]
+[(b) Involved false statement or dishonesty. ]
+[(2)(a) If a defendant is charged with one or more of the crimes listed in paragraph (b) of this
+subsection, and the  defendant is a witness, evidence that the defendant has been convicted of committing
+one or  more of the following crimes against a family or household member, as defined in ORS 135.230,
+may be elicited from the defendant, or established by public record, and admitted into evidence for  the
+purpose of attacking the credibility of the defendant: ]
+[(A) Assault in the fourth degree under ORS 163.160. ]
+[(B) Menacing under ORS 163.190. ]
+[(C) Harassment under ORS 166.065. ]
+[(D) Attempted assault in the fourth degree under ORS 163.160 (1). ]
+[(E) Attempted assault in the fourth degree under ORS 163.160 (3). ]
+[(F) Strangulation under ORS 163.187. ]
+[(G) The statutory counterpart in another jurisdiction to a crime listed in this paragraph. ]
+[(b) Evidence may be admitted into evidence for the  purpose of attacking the credibility of a de-
+fendant under the  provisions of this subsection only if the defendant is charged with committing one
+or more of the following crimes against a family or household member, as defined in ORS 135.230: ]
+[(A) Aggravated murder under ORS 163.095. ]
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3677
+HB 2641
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(B) Murder in the first degree under ORS 163.107. ]
+[(C) Murder in the second degree under ORS 163.115. ]
+[(D) Manslaughter in the first degree under ORS 163.118. ]
+[(E) Manslaughter in the second degree under ORS 163.125. ]
+[(F) Assault in the first degree under ORS 163.185. ]
+[(G) Assault in the second degree under ORS 163.175. ]
+[(H) Assault in the third degree under ORS 163.165. ]
+[(I) Assault in the fourth degree under ORS 163.160. ]
+[(J) Rape in the first degree under ORS 163.375 (1)(a). ]
+[(K) Sodomy in the first degree under ORS 163.405 (1)(a). ]
+[(L) Unlawful sexual penetration in the first degree under ORS 163.411 (1)(a). ]
+[(M) Sexual abuse in the first degree under ORS 163.427 (1)(a)(B). ]
+[(N) Kidnapping in the first degree under ORS 163.235. ]
+[(O) Kidnapping in the second degree under ORS 163.225. ]
+[(P) Burglary in the first degree under ORS 164.225. ]
+[(Q) Coercion under ORS 163.275. ]
+[(R) Stalking under ORS 163.732. ]
+[(S) Violating a court’s stalking protective order under ORS 163.750. ]
+[(T) Menacing under ORS 163.190. ]
+[(U) Harassment under ORS 166.065. ]
+[(V) Strangulation under ORS 163.187. ]
+[(W) Attempting to commit a crime listed in this paragraph. ]
+[(3) Evidence of a conviction under this section is not admissible if: ]
+[(a) A period of more than 15 years has elapsed since the date of the conviction or of the  release
+of the witness from the confinement imposed for that conviction, whichever is the later date; or ]
+[(b) The conviction has been expunged by pardon,  reversed, set aside or otherwise rendered
+nugatory.]
+[(4) When the credibility  of a witness is attacked by evidence that the witness has been convicted
+of a  crime, the witness shall be allowed to explain briefly the circumstances of the crime or former
+conviction;  once  the witness explains the circumstances, the opposing side shall have the opportunity
+to rebut the explanation. ]
+[(5) The pendency of an appeal therefrom does  not render evidence of a conviction inadmissible.
+Evidence of the pendency of an appeal is admissible. ]
+[(6) An adjudication by a juvenile court  that a child is within its jurisdiction is not a conviction
+of a crime. ]
+[(7) A conviction of any  of the statutory counterparts of offenses designated as violations as de-
+scribed in ORS 153.008 may not  be used to impeach the character of a witness in any criminal or civil
+action or proceeding. ]
+(1) The following rules apply to attacking a  witness’s character for truthfulness by evi-
+dence of a criminal conviction:
+(a) For a  crime that, in the convicting jurisdiction, was punishable by death or
+imprisonment for more than one year, the evidence:
+(A) Must be admitted, subject to ORS 40.160, in a civil case or  in a criminal case in which
+the witness is not a defendant.
+(B) Must be admitted in a criminal case in which the witness  is a defendant, if the
+[2]
+HB 2641
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+probative value of the evidence outweighs its prejudicial effect to that defendant.
+(b) For any crime, regardless of the punishment, the  evidence must be admitted if the
+court can readily determine that establishing the  elements of the crime required proving,
+or the witness’s admitting, a dishonest act or false statement.
+(2) If more  than 10 years have passed since the witness’s conviction or release from
+confinement for the conviction, whichever is later, evidence of the conviction is  admissible
+only if:
+(a) The  probative value of the conviction, supported by specific facts and circumstances,
+substantially outweighs its prejudicial effect; and
+(b) The proponent gives an adverse party reasonable written notice of the intent  to use
+the conviction so that the party has a fair opportunity to contest the use of the conviction.
+(3) Evidence of a conviction is not admissible if:
+(a) The conviction has been the  subject of a pardon, annulment, certificate of rehabili-
+tation or other equivalent procedure based on  a finding that the person has been rehabili-
+tated, and the person has not  been convicted of a later crime punishable by death or by
+imprisonment for more than one year; or
+(b) The conviction has been the subject of a  pardon, annulment or other equivalent pro-
+cedure based on a finding of innocence.
+(4) Evidence of a juvenile adjudication is admissible under this rule only if:
+(a) The adjudication is offered in a criminal case;
+(b) The adjudication was of a witness other than the defendant;
+(c) The  adjudication is for conduct that, if committed by an adult, would result in a
+conviction that would be admissible to attack the adult’s credibility; and
+(d) Admitting the evidence is necessary to fairly determine guilt or innocence.
+(5) A conviction that satisfies the provisions of this section is admissible even if an appeal
+of the conviction is pending. Evidence of the pendency of the appeal is also admissible.
+PRIOR CONVICTIONS IN SENTENCING
+SECTION 2.
+(1) When determining a defendant’s  criminal history category for purposes
+of the sentencing guidelines, only the following convictions may be considered:
+(a) Convictions for which  the date of entry of the judgment of conviction is within the
+15 years prior to the date of the crime for which the defendant is being sentenced; and
+(b) Convictions for which the defendant was incarcerated within the 15 years prior to  the
+date of the crime for which the defendant is being sentenced.
+(2) The Oregon Criminal Justice Commission, in the rules  of the commission concerning
+the sentencing guidelines grid,  shall limit when a conviction may be used to determine a
+defendant’s criminal history category in accordance with subsection (1) of this section.
+APPLICABILITY
+SECTION 3. (1) The amendments to ORS 40.355 by  section 1 of this 2025 Act apply to
+proceedings based on conduct occurring on or after the effective date of this 2025 Act.
+(2) Section 2 of this 2025 Act applies to sentencing proceedings for convictions based on
+conduct occurring on or after the effective date of this 2025 Act.
+[3]
+HB 2641
+1
+2
+3
+4
+5
+6
+CAPTIONS
+SECTION 4.
+The unit captions used in this 2025 Act are provided only for the convenience
+of the reader  and do not become part of the statutory law of this state or express any leg-
+islative intent in the enactment of this 2025 Act.
+[4]

@@ -1,0 +1,593 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4056
+Sponsored by Representative CONRAD; Representatives DIEHL, GOODWIN, HELFRICH, HIEB, LEVY  B, LEWIS,
+MANNIX, MCINTIRE, OSBORNE, OWENS, RESCHKE, WRIGHT (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act lets people claim a tax foreclosure surplus. (Flesch Readability Score: 75.5).
+Allows former owner, or their heirs or successors, to claim from the county any  surplus from
+a property tax foreclosure. Establishes conditions and time limitations for making a claim. Requires
+county tax foreclosure notices to include information about claims.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to property tax foreclosure surplus; amending ORS 275.275, 312.125 and 312.190; and pre-
+scribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 to 4 of this 2024 Act are added to and  made a part of ORS chapter
+312.
+SECTION 2. Definitions. As used in sections 2 to 4 of this 2024 Act:
+(1)(a) “Claimant” means a former owner of a property that  was subject to a foreclosure
+sale, or the former owner’s estate, heirs, devisees or a successor in interest  that has ac-
+quired substantially all of the former owner’s assets  by merger, acquisition, dissolution or
+takeover.
+(b) “Claimant” does not include:
+(A) The creditors or garnishor of a former owner or the former owner’s estate;
+(B) Other persons holding an interest in the property that was foreclosed  by the county;
+or
+(C) Voluntary or involuntary assignees of a claim against a surplus by a former owner.
+(2) “Surplus” means the value of the property less the  allowable costs to the county as
+calculated under section 4 of this 2024 Act.
+SECTION 3.
+Claim of surplus. (1) A claimant is  entitled to a return of the amount of a
+surplus from the county, if any,  as calculated under section 4 of this 2024 Act upon the
+earlier of:
+(a) The county selling, transferring, exchanging, leasing for a period  of more than one
+year, or otherwise disposing of the property under ORS chapter 275;
+(b) The county making  a determination that the county will retain the property for public
+purposes; or
+(c) The date 120  days after the property is deeded to the county following tax foreclosure
+under ORS 312.122 or 312.200.
+(2)(a) A claim for a surplus must be made by delivering the claim in the form and  format
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 107
+HB 4056
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+prescribed by the county and must include sufficient proof  of identity, the basis for the claim
+and such other information as may be required by the county.
+(b) A county may require that a claim made under this section be made as a sworn  affi-
+davit or upon declaration under penalty of perjury.
+(3) If the estate of a deceased former owner  will not be probated, a county shall allow a
+claim to be made  by heirs, devisees or a person named as a personal representative in the
+deceased former owner’s will. A claim made under this subsection must include:
+(a) A copy of the former owner’s death certificate;
+(b) A copy of the former owner’s will, if any;
+(c) A statement that the estate is not being probated and that a small estate affidavit  is
+not being filed for the estate;
+(d) The identity of each beneficiary of the claim;
+(e) The proportion of the surplus distributable to each beneficiary; and
+(f) Signatures of all  beneficiaries of the claim acknowledging their participation in the
+claim.
+(4) A claimant does  not have any interest in a surplus during the period of redemption
+or any other time prior to the date the claim arises under subsection (1) of this section.
+(5) A person other than  a claimant may not claim the surplus under this section and does
+not have a claim against the county based upon the surplus or a valid lien against the pro-
+ceeds before their delivery to the claimant. Any purported assignment of a claim of proceeds
+is void except for an assignment  made for the protection of the interests of the claimant,
+including an assignment via a power of attorney or  custodianship or guardianship pro-
+ceedings.
+(6) The statute of limitations  on claims for a surplus under this section is not governed
+by ORS 312.230, but is the earliest of:
+(a) Two years after the date that the claim arises under subsection (1) of this section;
+(b) For a claimant who, after  the deeding of the property under subsection (1) of this
+section, received actual notice from the county of the claimant’s ability to claim  a surplus,
+the date of a deadline provided in the notice that is at least 60 days following its receipt; or
+(c) Sixty days following a county’s final determination of a claim under ORS 34.030.
+SECTION 4.
+Calculation of surplus. (1)(a) The value of the property is the purchase price
+received by the county from a bona fide purchaser, as defined in ORS 275.088, if any.
+(b) If the county has  not sold the property to a bona fide purchaser, the value of the
+property is the fair market value of the  property at the time that it is deeded to the county.
+The fair market value may be based on a reliable appraisal.
+(c) In the absence of a sale or an appraisal or other reliable indication of fair  market
+value of the property, the value of the property is the real market value of  the property as
+shown on the tax statement for the property tax year in which the property  was deeded to
+the county.
+(2) In calculating the surplus, the allowable costs that the county  may elect to deduct
+include:
+(a) The amount of the judgment under ORS 312.090 and accruing  post-judgment interest;
+(b) The amount of  taxes and interest thereon that would have been due following the
+judgment during the redemption period and through the earlier of:
+(A) The date that the county sold or conveyed the property to a third-party; or
+[2]
+HB 4056
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) The date that the claim is made;
+(c) Additional costs that the county may claim under ORS 275.275 (1)(a) to (c);
+(d) Costs to reimburse the claim of a municipal corporation that has filed a claim  notice
+under ORS 275.130;
+(e) Amounts recoverable by waste caused  by the former owner, including penalties al-
+lowed under ORS 312.990, or the costs paid by the county to mitigate  or abate a nuisance,
+including as described in ORS 105.555, that was  caused or permitted by negligence or neglect
+of the former owner; or
+(f) In lieu of the  penalty and fee under ORS 312.120, the reasonable fees of the foreclosure
+and sale of the property, including the costs of  legal fees, delivering notices, county staff
+time, court filing fees, appraisals, professional real estate activity and auction fees.
+SECTION 5.
+Applicability. (1) Sections 2 to 4 of  this 2024 Act apply to claims for a surplus
+made on or after the effective date of this 2024 Act.
+(2) The statute of limitations under section 3 (6) of  this 2024 Act applies to claimants of
+properties deeded to the county before, on or after the effective date of this 2024  Act. Claims
+for a surplus based on a property that was deeded  to the county more than two years prior
+to the effective date of this 2024 Act and not filed before the effective date of this 2024  Act
+are therefore barred.
+SECTION 6.  ORS 312.125 is amended to read:
+312.125. (1) Not  less than one year prior to the expiration of the period of redemption of any real
+property ordered sold to the county under a  judgment under ORS 312.100, the tax collector shall
+provide notice of the expiration of the period of redemption to any person or entity entitled to re-
+deem the property under ORS 312.120 (2) whose interest appears in the records of  the county as of
+the date foreclosure proceedings were instituted. Any person or entity whose interest has terminated
+by any means other than a judgment of foreclosure under ORS 312.120 shall not  be entitled to such
+notice.
+(2) The notice shall contain:
+(a) The date of the judgment;
+(b) The date of expiration of the period of redemption;
+(c) A warning to the effect that the property  ordered sold under the judgment, unless sooner
+redeemed, will be deeded to the county immediately on expiration of the period  of redemption and
+that upon the expiration of the period for claiming a surplus  every right or interest of  any
+person in the property will be forfeited forever to the county;
+(d) A legal description of the property and a tax account number; [ and]
+(e) The name of the owner as it appears on the latest tax roll[ .]; and
+(f) Information regarding an owner’s right to claim a surplus,  if any, under sections 2 to
+4 of this 2024 Act.
+(3) The notice required to be given under subsections (1) and (2) of this section  shall be given
+by both certified mail  and by regular first class mail and subsections (4) and (5) of this section shall
+apply to both mailings.  Copies of notices must be publicly posted to the county’s website.
+(4)(a) If the notice required under subsections (1) and (2) of this section is  to be given to an
+owner, the notice shall be addressed  to the owner or owners, as reflected in the county records of
+deeds, at the true and correct address of the owner as appearing on the instrument  of conveyance
+under ORS 93.260 or as furnished under ORS 311.555 or as otherwise ascertained by the tax collec-
+tor pursuant to ORS 311.560.
+[3]
+HB 4056
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) If the person or entity to whom the notice  is required under subsection (1) of this section to
+be given is a lienholder, or person or entity other  than the owner, having or appearing to have a
+lien or other  interest in the property, the notice shall be addressed to the lienholder, person or en-
+tity at  the address that the tax collector knows or after reasonable inquiry has reason to believe
+to be  the address at which the lienholder, person or entity will most likely receive actual notice.
+For the convenience of the county, any lien, instrument or other  document, memorandum or writing,
+filed on or  after September 27, 1987, that creates an interest with respect to which notice is required
+to be given under this paragraph, shall contain:
+(A) The address of the person or entity holding lien  or other interest created by the instrument
+or other document, memorandum or writing; and
+(B) The tax account number, if any, and if known,  of the property subject to the lien or in which
+the interest is created.
+(5) Failure of a lien, instrument or other document,  memorandum or other writing to contain the
+address and tax account number information required under subsection (4)(b) of  this section does
+not invalidate the lien, instrument or other  document, memorandum or writing, nor shall the failure
+of the writing to contain the information relieve the tax collector of the duty to obtain and mail  the
+notice required under subsection (4)(b) of this section to the address that the  tax collector believes
+to be the address at which the lienholder, person or entity is most likely to receive actual notice.
+(6) For purposes of subsection (4)(b)  of this section, if the lienholder is a corporation or a limited
+partnership, the tax collector shall be considered to  have made reasonable inquiry if the notice is
+mailed to the registered  agent or last registered office of the corporation or limited partnership, if
+any, as shown by the records on file in the office of the Corporation Commissioner,  or if the cor-
+poration or limited partnership is not authorized to transact business  in this state, to the principal
+office or place of business of the corporation or limited partnership.
+(7)(a) As used in this section, “records of the county” means the following:
+(A) The grantor-grantee indexes.
+(B) Other records of deeds, mortgages, powers  of attorney, contracts and other instruments,
+documents or memorandum  of conveyance or otherwise of real property that are described in ORS
+205.130 (1) and (2).
+(C) The County Clerk Lien Record described in ORS 205.130 (3).
+(D) Records of federal tax liens and other liens,  instruments or other documents or writings
+reflecting an interest in real property described in ORS 205.246, if those records are kept  separately
+from the records described in paragraph (b) of this subsection.
+(E) Records of statutory liens on real property described in ORS 87.372.
+(F) Any other records of interests in real property  required to be kept by the county clerk, if
+the records contain a legal description  of the property and an address specifically designated as
+indicated on the instrument, document or other memorandum or writing for  purposes of mailing the
+notice required by this section.
+(b) For purposes of this section only, “records of the county” includes:
+(A) The appropriate records of the courts described in ORS 7.010 in the custody of the clerk of
+the appropriate court or court administrator under ORS 7.110; and
+(B) Probate records in the custody of the clerk  of the appropriate court or court administrator
+under ORS 7.230 and 7.240. Notwithstanding any provision to the contrary in ORS chapter 7 or other
+law, the clerk  of the appropriate court or the court administrator shall make available to and assist
+the tax collector in  the examination of the records described in this paragraph for purposes of car-
+[4]
+HB 4056
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+rying out the obligations of the tax collector under this section without charge.
+SECTION 7.
+ ORS 312.190 is amended to read:
+312.190. Subject to an exemption from disclosure that applies under ORS 192.345:
+(1) Not more than 30 days nor less than 10 days prior to the expiration of the  period of re-
+demption of any real property ordered sold to the county under a judgment under ORS 312.100, the
+tax collector shall publish a general notice relative to the expiration of the period of redemption.
+(2) The notice shall contain :
+(a) The date of the judgment[ ,];
+(b) The date of expiration of the period of redemption[ , and];
+(c) A  warning to the effect that all the  properties ordered sold under the judgment, unless
+sooner redeemed, will be deeded  to the county immediately on expiration of the period of redemption
+and that  upon the expiration of the period for claiming a surplus  every right or interest  of any
+person in the properties will be forfeited forever to the county[ .]; and
+(d) Information regarding an owner’s right to claim a surplus,  if any, under sections 2
+to 4 of this 2024 Act.
+(3) The notice [ shall be] must be publicly posted to the county’s website and  published in two
+weekly issues of a duly designated newspaper  of general circulation in the county within the period
+of 20 days as specified in  this section. Proof of publication shall be attached to and made a part of
+the deed issued to the county. The published notice may be a general notice and it shall not be
+necessary to include therein  descriptions of the several properties or the names of the respective
+owners.
+SECTION 8.
+Applicability. The  amendments to ORS 312.125 and 312.190 by sections 6 and
+7 of this 2024 Act apply to notices given on or after January 1, 2025.
+SECTION 9.  ORS 275.275 is amended to read:
+275.275. (1) Except as limited by sections 2 to 4 of this 2024 Act,  the proceeds arising under
+ORS 275.090 to 275.290 and 275.296 to 275.310 must be:
+(a) First, applied to refund the county general fund  for the full amount actually paid by the
+county to advance the state tax  upon all properties upon which the county has foreclosed liens for
+delinquent taxes;
+(b) Second, applied to the county general fund in an amount equal to  the penalty and fee de-
+scribed in ORS 312.120 for each property upon which the county has foreclosed  a lien for delinquent
+taxes;
+(c) Third,  applied to refund the county general fund for all the costs and expenses actually in-
+curred by the county in the maintenance and supervision of the properties and  in any suits or pro-
+ceedings by the county to quiet title to or to defend the county’s title to property sold,  including
+suits or land use proceedings to ascertain and determine the actual boundaries of the properties;
+(d) Fourth, in a county with a population of 650,000 or more or in  a county with a population
+of 200,000 or more and that elects to distribute funds under this subsection:
+(A) First, distributed to a local government, as defined in ORS 174.116, that has filed a  notice,
+in accordance with ORS 275.130, relating to a local improvement lien arising under ORS 223.680 or
+223.685 against the property in the principal amount of the lien, plus any interest and penalties that
+have accrued to the date of sale of the property.
+(B) Second, if the proceeds arise under ORS  275.090 from the sale of real property acquired by
+foreclosure of delinquent tax liens or by exchange for land originally  acquired by foreclosure of
+delinquent tax liens, applied to an account or fund created in the discretion of the  county treasurer,
+[5]
+HB 4056
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+in or outside of the county general fund, for use under ORS 271.330 to provide:
+(i) Funds for housing placement and retention  support services for youth and families with
+children;
+(ii) Flexible rental assistance for housing placement for youth and families with children; or
+(iii) Funds to develop new low income housing that is affordable to youth and families  with
+children with 30 percent or lower median family income.
+(C) Third, except as provided in subparagraph (B) of this paragraph,  applied to the county gen-
+eral fund; and
+(e) Fifth, except  as provided in paragraph (d) of this subsection, if the proceeds arise from the
+sale of real property acquired by the county in a  manner other than by foreclosure of delinquent tax
+liens or by exchange for land originally acquired by foreclosure of delinquent  tax liens, applied to
+the county general fund. The proceeds described in this paragraph include payments for the  real
+property sold under a purchase agreement pursuant to ORS 275.190 or 275.200.
+(2) The proceeds arising under ORS 275.294:
+(a) Must be credited to the county general fund  by the county treasurer, if received from a lease
+or conveyance granting rights to explore, prospect for  or remove biogas that is produced by de-
+composition of solid waste at any land disposal site or former land disposal site owned by  the
+county. As used in  this paragraph, “land disposal site” has the meaning given that term in ORS
+459.005.
+(b) Must be segregated from the portion of the proceeds  described in paragraph (a) of this sub-
+section and deposited in  a separate account maintained by the county. Interest earned on the seg-
+regated portion of the proceeds must be credited to the account established under this paragraph.
+(c) May be used, in an amount that does not exceed 10 percent of the proceeds,  to reimburse a
+taxing district within the county for  costs and expenses necessarily incurred by the district in pro-
+viding improved, additional or extraordinary services required on lands in the county as a  result of
+exploration, drilling, mining, logging or other activities authorized under a lease or conveyance  un-
+der ORS 275.294. As used in this  paragraph, “improved, additional or extraordinary services” in-
+cludes, but is not limited to, fire protection and road construction and maintenance.
+(d) May be used to reimburse the county for its actual costs and expenses incurred under this
+subsection and under ORS 275.294 for:
+(A) The  maintenance and supervision of a lease or conveyance granting rights to explore, pros-
+pect for, mine or remove valuable minerals, oil or gas from the lands;
+(B) The maintenance and supervision  of a lease or conveyance granting rights to conduct
+underground storage, as defined in ORS 520.005; and
+(C) Litigation resulting from a lease or conveyance described in subparagraph  (A) or (B) of this
+paragraph.
+(3)(a) After a portion of the proceeds arising under ORS 275.090 to 275.290 and 275.296 to 275.310
+and a portion of the proceeds arising under ORS 275.294 are  applied as provided in subsections (1)
+and (2) of this section, the balance of the proceeds arising under ORS 275.090 to 275.290 and  275.296
+to 275.310 and the  balance of the proceeds arising under ORS 275.294, including the payments for
+land sold under contract pursuant to ORS 275.190 or 275.200, must  be distributed by the county
+treasurer as follows:
+(A) First, to a municipal corporation that has filed a notice, in accordance with ORS 275.130,
+relating to a local improvement lien against the property from which  the sale proceeds are derived.
+The amount of the distribution to each municipal corporation must  be in the principal amount of the
+[6]
+HB 4056
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+lien, plus the interest and any penalties that accrued to the date of sale of the property.
+(B) Second, to governmental units in accordance with the formula provided in ORS 311.390  for
+the distribution of  tax collections. The amount distributed to governmental units must be the amount
+remaining after the distribution, if any, under subparagraph (A) of this paragraph.
+(b) Notwithstanding ORS 294.080, as used in this subsection, “balance of  the proceeds” includes
+all accumulated interest earned on  the proceeds arising under ORS 275.294 that are segregated
+pursuant to subsection (2)(b) of this  section, unless a court of competent jurisdiction rules otherwise.
+(4) Distribution of moneys under subsections (2) and (3) of this section must  be made on or be-
+fore June 30 in each year.
+(5) The county treasurer or auditor shall verify the  costs and expenses to be reimbursed under
+subsection (2) of this section.
+(6) The county treasurer shall distribute reimbursements  under subsection (2) of this section in
+accordance with an order of the governing body of the county.
+(7) Notwithstanding subsection (1) of this section, a county with a population of 650,000 or more
+may convey real property  acquired by foreclosure of delinquent tax liens or by exchange for land
+originally acquired by foreclosure of delinquent tax liens as provided in ORS 271.330.
+(8) In order to  accommodate claims for surpluses that have been or may be made under
+sections 2 to 4 of this 2024 Act, a county may delay,  hold, offset or make subject to a claim
+for reimbursement any distribution that is allowed or required under this section and  that
+is inferior in priority to a claim for a surplus.
+SECTION 10.
+Captions. The section captions  used in this 2024 Act are provided only for
+the convenience of the reader and do not become part of the statutory  law of this state or
+express any legislative intent in the enactment of this 2024 Act.
+SECTION 11. Effective Date.  This 2024 Act takes effect on  the 91st day after the date on
+which the 2024 regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[7]

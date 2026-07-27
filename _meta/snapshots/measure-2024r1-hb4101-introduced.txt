@@ -1,0 +1,183 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4101
+Sponsored by Representatives BYNUM, NELSON, NGUYEN H; Representatives HARTMAN, NGUYEN  D, PHAM
+H, PHAM K, SOSA, TRAN, Senators FREDERICK, JAMA, WOODS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells the  Secretary of State to get data about a person’s background if the person tries
+to register a business in this state and wants to give the data. Lets the Secretary of State share the
+data with some people, but says to keep it secret otherwise. (Flesch Reading Score: 60.5).
+Requires the Secretary of State  to collect, and share with state agencies, small business devel-
+opment centers and certain organizations, information about the ethnicity, gender and veteran status
+of an owner  or principal of a business that applies for or renews a business registration in this state,
+if the owner or principal chooses to provide the information. Prohibits the Secretary of  State from
+mandating an owner or principal to submit the information as  a condition of applying for or re-
+newing a business registration. Exempts the information from disclosure as a public record.
+Becomes operative January 1, 2028.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to information  collected in conjunction with business registrations in this state; creating
+new provisions; amending ORS 56.180; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 56.180 is amended to read:
+56.180. (1) A Business Registration Information Center is established within the Office of  the
+Secretary of State.
+(2) The primary functions of the center are:
+(a) To develop a system within the center by which accurate and easily understandable infor-
+mation with respect  to the business registration requirements of participating state agencies  and
+agencies of local government, as defined in ORS 174.116,  may be  made available to persons
+undertaking a new business or operating an existing business;
+(b) To establish a business portal as provided in subsection (3) of this section; [ and]
+(c) To advertise and make the business portal described in subsection (3) of this  section and
+information described in this subsection  available to all persons who request the information[ .]; and
+(d) To share information the Secretary of State collects  under subsection (4) of this
+section with:
+(A) All agencies within the executive department of state government;
+(B) All small business development centers  established within the state or within local
+governments; and
+(C) Organizations that the center determines are:
+(i) Community-based;
+(ii) Fostering economic development; and
+(iii) Engaged  in substantive efforts to increase in this state the number of minority-
+owned businesses, women-owned businesses and veteran-owned businesses.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 293
+HB 4101
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3)(a) The center shall establish, maintain and update a business portal called the “One Stop
+Shop for Oregon Business” that is accessible through the Internet and  that provides information,
+services and resources for:
+(A) Starting, expanding and operating a business in Oregon  or relocating a business within or
+to Oregon;
+(B) Understanding  state and local government rules, ordinances and policies that apply to busi-
+ness;
+(C) Understanding how to classify a business for registration purposes;
+(D) Registering, licensing and obtaining needed permits for a business;
+(E) Obtaining information about financing and tax credits available to businesses;
+(F) Understanding business taxes and rules and policies concerning taxation that apply  to busi-
+nesses;
+(G) Obtaining information about and assistance with exporting;
+(H) Obtaining information about and resources for hiring workers in Oregon;
+(I) Obtaining information about public contracting;
+(J) Obtaining information about and resources for business relocation;
+(K) Obtaining information about and assistance with training for businesses; and
+(L) Obtaining other information, services and resources related to business in Oregon.
+(b) All agencies of state government, as defined in ORS 174.111, and local government, as defined
+in ORS 174.116, that  have functions related to business registration, licensing, permitting or taxation
+or that otherwise can provide information  for or assist with establishing, expanding, operating or
+relocating a business are directed to cooperate with and assist the center in performing  the center’s
+duties under subsection (3) of this section.
+(4)(a) The Secretary of State shall  collect information about the ethnicity, gender and
+veteran status of each owner and principal of a  business that applies for or renews a busi-
+ness registration, if the owner or principal chooses to provide the information, together  with
+the owner’s or principal’s street address and electronic  mail address. The Secretary of State
+shall provide an accessible and easy to  use method for submitting the information electron-
+ically in connection with a business registration, but may not mandate that a person provide
+information about an owner’s or principal’s ethnicity, gender or veteran status as a condition
+of applying for or renewing a business registration.
+(b) The Secretary of State may not  make the information that the Secretary of State
+collects under paragraph (a) of this subsection available or searchable on the  Internet unless
+the person to whom the information pertains has given  explicit written consent to make the
+information available and searchable. Information the Secretary of State collects under this
+subsection is not subject to disclosure as a public record under ORS 192.311 to 192.478.
+(c) The Secretary of State may share  or communicate with organizations described in
+subsection (2)(d) of this section, by electronic means  or otherwise, the information that the
+Secretary of State collects under paragraph (a) of this subsection.
+[(4)] (5) The Secretary of State may adopt rules necessary to implement the provisions [ of sub-
+section (3) ] of this  section , including rules that protect the confidentiality of the information
+the Secretary of State collects under subsection (4) of this section .
+SECTION 2.
+(1) The amendments to ORS 56.180 by section 1 of  this 2024 Act become op-
+erative on January 1, 2028.
+(2) The Secretary of State may adopt rules and take any other action before the operative
+[2]
+HB 4101
+1
+2
+3
+4
+5
+6
+7
+date specified in  subsection (1) of this section that is necessary to enable the Secretary of
+State, on and after the operative date specified in subsection (1) of this  section, to undertake
+and exercise all of the duties, functions and powers  conferred on the Secretary of State by
+the amendments to ORS 56.180 by section 1 of this 2024 Act.
+SECTION 3.
+This 2024 Act takes effect on the 91st day after the date on  which the 2024
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[3]

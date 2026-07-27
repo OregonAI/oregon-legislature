@@ -1,0 +1,1551 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb141
+title: 'SB 141 (2025R1): Requires specified entities that receive moneys from the State School Fund to
+  measure the outcomes of the students of the entity.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 141
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB141/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 0bbea24aa190903823b1a4d38699113978fc2a543877dbdc7a6f23ea75f6f605
+snapshot_id: measure-2025r1-sb141-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 192.245
+  - ORS 293.265
+  - ORS 30.297
+  - ORS 326.011
+  - ORS 326.051
+  - ORS 327.006
+  - ORS 327.013
+  - ORS 327.016
+  - ORS 327.019
+  - ORS 327.026
+  - ORS 327.029
+  - ORS 327.103
+  - ORS 327.128
+  - ORS 327.141
+  - ORS 327.175
+  - ORS 327.180
+  - ORS 327.185
+  - ORS 327.190
+  - ORS 327.195
+  - ORS 327.201
+  - ORS 327.208
+  - ORS 327.214
+  - ORS 327.222
+  - ORS 327.224
+  - ORS 327.235
+  - ORS 327.250
+  - ORS 327.254
+  - ORS 327.362
+  - ORS 327.367
+  - ORS 327.500
+  - ORS 327.511
+  - ORS 327.831
+  - ORS 327.833
+  - ORS 327.835
+  - ORS 327.837
+  - ORS 327.843
+  - ORS 327.856
+  - ORS 329.095
+  - ORS 329.119
+  - ORS 329.451
+  - ORS 329.485
+  - ORS 334.015
+  - ORS 334.175
+  - ORS 334.217
+  - ORS 336.680
+  - ORS 336.685
+  - ORS 337.050
+  - ORS 337.065
+  - ORS 338.005
+  - ORS 338.115
+  - ORS 338.155
+  - ORS 338.165
+  - ORS 339.133
+  - ORS 339.341
+  - ORS 339.877
+  - ORS 342.173
+  - ORS 342.437
+  - ORS 343.243
+  - ORS 343.961
+  - ORS 417.300
+  - ORS 417.305
+  - ORS 659.850
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 141
+prefix_meaning: Senate Bill
+catch_line: Requires specified entities that receive moneys from the State School Fund to measure the
+  outcomes of the students of the entity.
+minority_catch_line: null
+measure_summary: "\tDigest: Creates framework for school districts to measure the outcomes of students\
+  \ and to improve the outcomes. (Flesch Readability Score: 63.6). \n\tRequires specified entities that\
+  \ receive moneys from the State School Fund to measure the outcomes of the students of the entity. Directs\
+  \ entities to develop performance growth targets and prescribes requirements that will be imposed by\
+  \ the Department of Education if targets are not met. \n\tDirects school districts and public charter\
+  \ schools to administer and review interim assessments in mathematics and language arts to measure student\
+  \ academic growth. \n\tAuthorizes the department to direct school districts and public charter schools\
+  \ to adopt specified instructional materials or to participate in training or improvement activities\
+  \ if the district or school does not meet the goals established in the early literacy success plan.\
+  \ Removes the requirement that publishers submit a fee for each instructional material proposed by the\
+  \ publisher to the State Board of Education. \n\tDirects the department to study the reporting requirements\
+  \ imposed on school districts and to identify reporting requirements that can be decreased in frequency,\
+  \ eliminated or consolidated. \n\tDirects the department to contract with an entity to review the administrative\
+  \ rule requirements for a school district or an education service district to be considered standard.\
+  \ \n\tDirects the department to submit to the Legislative Assembly a report summarizing administrative\
+  \ and organizational changes. \n\tDeclares an emergency, effective on passage."
+relating_to: Relating to education; and declaring an emergency.
+relating_to_full: Relating to education; and declaring an emergency.
+at_the_request_of: (at the request of Governor Tina Kotek for Office of the Governor)
+lc_number: 531
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-07-02T16:44:03'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 91025
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 192.245
+  - ORS 293.265
+  - ORS 30.297
+  - ORS 326.011
+  - ORS 326.051
+  - ORS 327.006
+  - ORS 327.013
+  - ORS 327.016
+  - ORS 327.019
+  - ORS 327.026
+  - ORS 327.029
+  - ORS 327.103
+  - ORS 327.128
+  - ORS 327.141
+  - ORS 327.175
+  - ORS 327.180
+  - ORS 327.185
+  - ORS 327.190
+  - ORS 327.195
+  - ORS 327.201
+  - ORS 327.208
+  - ORS 327.214
+  - ORS 327.222
+  - ORS 327.224
+  - ORS 327.235
+  - ORS 327.250
+  - ORS 327.254
+  - ORS 327.362
+  - ORS 327.367
+  - ORS 327.500
+  - ORS 327.511
+  - ORS 327.831
+  - ORS 327.833
+  - ORS 327.835
+  - ORS 327.837
+  - ORS 327.843
+  - ORS 327.856
+  - ORS 329.095
+  - ORS 329.119
+  - ORS 329.451
+  - ORS 329.485
+  - ORS 334.015
+  - ORS 334.175
+  - ORS 334.217
+  - ORS 336.680
+  - ORS 336.685
+  - ORS 337.050
+  - ORS 337.065
+  - ORS 338.005
+  - ORS 338.115
+  - ORS 338.155
+  - ORS 338.165
+  - ORS 339.133
+  - ORS 339.341
+  - ORS 339.877
+  - ORS 342.173
+  - ORS 342.437
+  - ORS 343.243
+  - ORS 343.961
+  - ORS 417.300
+  - ORS 417.305
+  - ORS 659.850
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 141>.
+
+# SB 141 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 141, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for Office of the Governor)
+- **LC number:** 531
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-07-02T16:44:03
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 91025 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB141/Enrolled>.
+
+## Summary
+
+**Catchline:** Requires specified entities that receive moneys from the State School Fund to measure the outcomes of the students of the entity.
+
+**Relating to:** Relating to education; and declaring an emergency.
+
+Digest: Creates framework for school districts to measure the outcomes of students and to improve the outcomes. (Flesch Readability Score: 63.6). 
+ Requires specified entities that receive moneys from the State School Fund to measure the outcomes of the students of the entity. Directs entities to develop performance growth targets and prescribes requirements that will be imposed by the Department of Education if targets are not met. 
+ Directs school districts and public charter schools to administer and review interim assessments in mathematics and language arts to measure student academic growth. 
+ Authorizes the department to direct school districts and public charter schools to adopt specified instructional materials or to participate in training or improvement activities if the district or school does not meet the goals established in the early literacy success plan. Removes the requirement that publishers submit a fee for each instructional material proposed by the publisher to the State Board of Education. 
+ Directs the department to study the reporting requirements imposed on school districts and to identify reporting requirements that can be decreased in frequency, eliminated or consolidated. 
+ Directs the department to contract with an entity to review the administrative rule requirements for a school district or an education service district to be considered standard. 
+ Directs the department to submit to the Legislative Assembly a report summarizing administrative and organizational changes. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to education; and declaring an emergency.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 141
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Governor Tina Kotek for Office of the Governor)
+CHAPTER .................................................
+AN ACT
+Relating to education; creating new provisions; amending ORS 326.051,  327.016, 327.180, 327.185,
+327.190, 327.201, 327.208, 327.222,  327.224, 327.235, 327.254, 327.362, 327.837, 329.095, 329.485,
+334.217 and 336.680; repealing ORS 327.214 and 337.065; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+PERFORMANCE GROWTH METRICS
+SECTION 1. Sections 2 to 6 of this  2025 Act are added to and made a part of ORS 327.006
+to 327.133.
+SECTION 2. As used in sections 2 to 6 of this 2025 Act:
+(1) “Disaggregated” means separated based on student group.
+(2) “Eighth-grade mathematics proficiency rate” means the percentage  of students in the
+eighth grade who are determined to be proficient or above in  mathematics, as determined
+under rules adopted by the State Board of Education.
+(3) “Five-year completion rate” means the percentage of students who received a high
+school diploma, a modified diploma or an extended  diploma or who received a certificate for
+passing an approved high school equivalency test such as the General  Educational Develop-
+ment test (GED) within five years of the student beginning the ninth grade.
+(4) “High school diploma” means a diploma  that is awarded to a student upon satisfaction
+of the requirements prescribed by ORS 329.451 (2).
+(5) “Local metric rate” means the  percentage of students who meet or exceed an indi-
+cator of a measurable student performance outcome.
+(6) “Ninth-grade on-track rate” means the percentage of students  who, at the end of the
+summer following the year the  students began ninth grade, completed one quarter of the
+credits required for high school graduation.
+(7) “On-time graduation rate” means the percentage of students who received  a high
+school diploma or a modified diploma within four years of the students  beginning the ninth
+grade.
+(8) “Regular attendance rate” means the  percentage of students who are absent, as de-
+termined by Department of Education policy, for less than 10 percent of the  school days for
+which the students are enrolled.
+Enrolled Senate Bill 141 (SB 141-B) Page 1
+(9) “Regular early-grade attendance rate” means the percentage  of students in
+kindergarten through grade two who are absent, as determined by  Department of Education
+policy, for less than 10 percent of the school days for which the students are enrolled.
+(10) “School district” means:
+(a) A common school district or a union high school district;
+(b) An education service district that has enrolled students in any grade from
+kindergarten through grade 12 for specialized services;
+(c) A public charter school;
+(d) An approved recovery school;
+(e) The Youth Corrections Education Program;
+(f) The Juvenile Detention Education Program;
+(g) The Oregon School for the Deaf; or
+(h) Eligible day treatment programs and eligible  residential treatment programs for ed-
+ucation services to children who are in treatment programs as described in ORS 343.961.
+(11) “Student group” means the following student groups:
+(a) Economically disadvantaged  students, as determined based on rules adopted by the
+State Board of Education;
+(b) Students from racial or ethnic groups that have historically  experienced academic
+disparities, as determined under rules adopted by the State Board of Education;
+(c) Students with disabilities;
+(d) Students who are English language learners;
+(e) Students who are foster children, as defined in ORS 30.297;
+(f) Students who  are homeless, as determined under rules adopted by the State Board
+of Education; and
+(g) Any other student  groups that have historically experienced academic disparities, as
+determined by the State Board of Education by rule.
+(12) “Third-grade reading proficiency rate” means the percentage of students  in the third
+grade who are determined to be  proficient or above in English language arts, as determined
+under rules adopted by the State Board of Education.
+SECTION 3.
+(1) Each school district that  receives moneys from the State School Fund
+shall measure outcomes of the students of the school district as provided by this section.
+(2)(a) The State Board of Education shall  develop statewide targets for the following
+metrics:
+(A) On-time graduation rate;
+(B) Five-year completion rate;
+(C) Ninth-grade on-track rate;
+(D) Eighth-grade mathematics proficiency rate;
+(E) Third-grade reading proficiency rate;
+(F) Regular attendance rate;
+(G) Regular early-grade attendance rate; and
+(H) Local metric rates.
+(b) For the purpose of this subsection:
+(A) The board shall develop a list of no more than five local metrics; and
+(B) Each school district shall select one local metric from the list developed under sub-
+paragraph (A) of this paragraph.
+(3) Based on  the statewide metric targets developed under subsection (2) of this section,
+the Department of  Education shall establish metric targets for similar school districts, as
+determined by the department. The metric targets for similar school districts shall include:
+(a) On-time graduation rates, including:
+(A) The overall on-time graduation rate.
+(B) Gaps in disaggregated on-time graduation rates.
+(b) Five-year completion rates, including:
+Enrolled Senate Bill 141 (SB 141-B) Page 2
+(A) The overall five-year completion rate.
+(B) Gaps in disaggregated five-year completion rates.
+(c) Ninth-grade on-track rates, including:
+(A) The overall ninth-grade on-track rate.
+(B) Gaps in disaggregated ninth-grade on-track rates.
+(d) Eighth-grade mathematics proficiency rates, including:
+(A) The overall eighth-grade mathematics proficiency rate.
+(B) Gaps in disaggregated eighth-grade mathematics proficiency rates.
+(e) Third-grade reading proficiency rates, including:
+(A) The overall third-grade reading proficiency rate.
+(B) Gaps in disaggregated third-grade reading proficiency rates.
+(f) Regular attendance rates, including:
+(A) The overall regular attendance rate.
+(B) Gaps in disaggregated regular attendance rates.
+(g) Regular early-grade attendance rates, including:
+(A) The overall regular early-grade attendance rate.
+(B) Gaps in disaggregated regular early-grade attendance rates.
+(h) Local metric rates, including:
+(A) The overall local metric rate.
+(B) Gaps in disaggregated local metric rates.
+(4)(a) The department shall  collaborate with each school district to develop performance
+growth targets for the school district to  make progress toward meeting the metric targets
+established under subsection (3) of this section. The board shall adopt  by rule requirements
+for a school district not identified in section 2 (10)(a) or  (c) of this 2025 Act for the purpose
+of developing differentiated performance growth targets for the school district.
+(b) The performance growth targets must:
+(A) Be based on data available for longitudinal analysis; and
+(B) Be developed based on guidance established by the department.
+(5) When developing performance growth targets, the department and  school district
+shall:
+(a) Review disaggregated student data;
+(b) Apply a process adopted by the department for the  purpose of strategically developing
+equitable policies and programs; and
+(c) Identify which student groups are most at risk of not meeting  performance growth
+targets.
+(6)(a) The department shall  make available technical assistance to school districts to
+assist school districts in meeting performance  growth targets. The technical assistance must
+include identifying and implementing best practices for meeting  performance growth targets.
+(b) For the purpose of providing  technical assistance under this subsection, the depart-
+ment may enter into a  contract with any entities the department determines are qualified
+to provide the technical assistance.
+SECTION 4.
+For purposes of section 3 of this 2025 Act:
+(1) Any performance  growth targets developed prior to the effective date of this 2025 Act
+by a school district with the Department of Education for the purpose of  making progress
+toward meeting the metric targets identified in section 3  (3)(a), (b), (c), (e) or (f) of this 2025
+Act shall be the performance growth targets for the school district for  the 2025-2026 school
+year.
+(2) For any metric target for which, on the effective date of this 2025 Act,  the school
+district does not have  a performance growth target developed with the department, the
+school district and the department must develop  the performance growth target and first
+apply the performance growth target to the 2026-2027 school year.
+Enrolled Senate Bill 141 (SB 141-B) Page 3
+SECTION 5. (1) Each year, each school district that receives moneys from the State
+School Fund  shall review the school district’s progress toward meeting the performance
+growth targets developed as provided by section 3 of this 2025 Act.
+(2) Results of the school district’s review of progress made toward meeting performance
+growth targets must be:
+(a) Made available at the main  office of the school district and on the school district’s
+website.
+(b) Presented to the governing body of the school district at an open meeting, following:
+(A) Oral presentation of the results by an administrator of  the school district to the
+governing body of the school district; and
+(B) Opportunity for the public to comment on the results at an open meeting.
+(c) Provided to the Department of Education.
+(3)(a) Based on information received  under subsection (2) of this section, the department
+shall determine each year whether the school district met  the performance growth targets
+developed for the school district as provided by section 3 of this 2025 Act.
+(b) In  addition to determinations made under paragraph (a) of this subsection, the de-
+partment may establish a procedure for  conducting performance audits on a random basis
+or based on  just cause as allowed under rules adopted by the State Board of Education and
+consistent with ORS 327.141.
+(4) If a school  district does not meet the performance growth targets developed as pro-
+vided by section 3 of this 2025 Act:
+(a) After two years of the  district’s not meeting the performance growth targets, the
+department shall offer and the school district must accept coaching and  support from the
+department. Through the coaching, the department shall advise and counsel a school district
+on how to meet performance growth targets and shall  assist a school district with ongoing
+professional development and peer collaboration.
+(b) After three or more years of  the district’s not meeting the performance growth tar-
+gets, the  department shall provide and the school district must participate in intensive
+coaching as described in ORS 327.222. A school district that participates in intensive coaching
+shall receive additional funding based on rules  adopted by the State Board of Education. The
+school district must use the additional funding as prescribed by the department based on rule
+of the board.
+(c) After four or more years of the district’s not meeting the  performance growth tar-
+gets, the department shall require the school district to authorize the department to  pre-
+scribe the uses of moneys available to the school district  as provided by this paragraph. An
+authorization made under this paragraph is in addition to the requirement that  the school
+district participate in intensive coaching as described in paragraph (b) of this  subsection. A
+school district must authorize the department to prescribe the uses of up to 25 percent of
+the moneys available to the school district from:
+(A) The State School Fund as follows:
+(i) For a  common school district or a union high school district, the amount received as
+a general purpose grant under ORS 327.013.
+(ii) For an education service district, the amount received under ORS 327.019.
+(iii) For a public charter school, the amount received under ORS 338.155.
+(iv) For an approved recovery school, the amount received under ORS 327.029.
+(v) For the Youth Corrections Education Program, the amount received  under ORS
+327.026.
+(vi) For the Juvenile Detention Education Program, the amount received  under ORS
+327.026.
+(vii) For the Oregon School for the Deaf, the amount received under ORS 343.243.
+(viii) For eligible day treatment programs  and eligible residential treatment programs,
+the amount received under ORS 343.243.
+Enrolled Senate Bill 141 (SB 141-B) Page 4
+(B) Grants awarded from the Student Investment Account under ORS 327.195.
+(5) For the purpose of providing coaching under this section, the  department may enter
+into a contract  with any entities the department determines are qualified to provide the
+coaching.
+(6) For the purpose of  prescribing the uses of the moneys identified in subsection (4)(c)
+of this section, the department shall:
+(a) Present the proposed uses of the moneys to the governing body  of the school district
+at an open meeting  of the governing body that occurs no later than January 31 of the school
+year preceding the school year during which the department will be prescribing the uses  of
+the moneys; and
+(b) Enter into a partnership  with an organization that specializes in budgets for public
+kindergarten through grade 12 schools to provide additional training and consultation ser-
+vices for a school district for which the uses of moneys will be prescribed.
+(7) The State Board of Education  shall adopt by rule timelines and criteria for reconsid-
+eration of whether a school district shall remain subject to the provisions  of subsection (4)
+of this section. The criteria:
+(a) Must take  into consideration data from the statewide assessment system and interim
+assessments;  and
+(b) May allow the department to determine that a school district  is making satisfactory
+progress, as defined by rule, toward meeting  performance growth targets and is no longer
+subject to the provisions of subsection (4) of this section.
+SECTION 6.
+(1) The review of a school district’s progress toward meeting performance
+growth targets under section 5 (3) of  this 2025 Act shall first be made based on the 2026-2027
+school year and a school  district may first be required to accept coaching and support under
+section 5 (4)(a) of this 2025 Act for the 2028-2029 school year.
+(2) Notwithstanding subsection (1) of this section, a school district that  had agreed to
+participate in the intensive program under  ORS 327.222 prior to the effective date of this 2025
+Act:
+(a) May complete the terms of the school district’s agreement for participation; and
+(b) Is not subject to  a review of the school district’s progress toward meeting perform-
+ance growth targets under section 5 (3) of  this 2025 Act until the school district completes
+the terms of the school district’s agreement for participation.
+SECTION 7.
+ORS 327.222, 327.224 and 327.235 are added to and made  a part of sections 2
+to 6 of this 2025 Act.
+SECTION 8.  ORS 327.222 is amended to read:
+327.222. (1) The Department of Education shall establish an  intensive coaching program for
+school districts [ with the highest needs in this state. ] that do not meet performance growth tar-
+gets for three or more years, as described in section 5 of this 2025 Act.
+[(2)(a) The department  shall identify and select school districts to participate in the intensive pro-
+gram. The department may not select a public charter school under this section. ]
+[(b) A school district that agrees to participate in the intensive program must  participate in the
+program for at least four years. ]
+[(3) A school district that agrees to participate in the intensive program shall  be eligible for addi-
+tional funding from the Statewide Education Initiatives  Account. The additional funding shall be based
+on rules adopted by the  State Board of Education and shall be calculated based on the ADMw of the
+school district, as calculated under ORS 327.195. ]
+[(4)] (2) A school district that [ agrees to participate ] participates  in the intensive coaching
+program shall:
+(a) Commit to regular student success plan meetings to monitor practices;
+(b) Use data to track student progress;
+(c) Ensure school employees receive appropriate professional development and training;
+(d) Create safe and inclusive learning environments;
+Enrolled Senate Bill 141 (SB 141-B) Page 5
+(e) Improve school and school district practices and  structures to support teaching and learning;
+and
+(f) Improve the skills of the members of the school board.
+[(5)] (3)(a) For the purpose of assisting school districts  participating in the intensive coaching
+program, the department shall establish student success teams.  To the greatest extent practicable,
+student success teams shall assist school districts in person  and while on site at the school
+district.
+(b) Student success teams shall be [ composed of ]:
+(A) Led by a person who has at least seven years of relevant experience, as  determined
+by the department, in systems change,  curriculum and instruction, leadership, finance, hu-
+man resources, school district board governance, local district continuous  improvement
+plans, labor and management relations or community engagement; and
+(B) Supported by personnel with expertise in school and school district improvement strategies,
+including the use of differentiated instruction and inclusionary practices.
+(c) A student success team is not  a government body and is not subject to any statute or rule
+applicable to a public body.
+[(6)(a)] (4)(a) Under the intensive coaching program, student success teams shall:
+(A) Advise and counsel school districts on how to improve performance outcomes; and
+(B) Develop recommendations for meeting performance growth targets.
+(b) School district boards and  superintendents of school districts participating in an intensive
+coaching program must:
+(A) Accept all recommendations of the student success teams related to  the use of State School
+Fund moneys,  Student Investment Account  grant moneys and additional funding received under
+this section.  A school district that does not accept the recommendations made under this subpara-
+graph is not eligible for additional funding under this section.
+(B) Consider, and may accept, all recommendations of the student success teams not  described
+in subparagraph (A) of this paragraph.
+(c) A school district that receives recommendations under this subsection must issue a report
+that:
+(A) Describes the recommendations;
+(B) Identifies the recommendations that will be implemented and  the timelines for implementing
+the recommendations; and
+(C) Identifies the recommendations that will not be implemented and an explanation for why  the
+recommendations will not be implemented.
+(d) The report required under paragraph (c) of this subsection must be:
+(A) Made available at the school district’s main office and on the school district’s website; and
+(B) Distributed to the school district community, including employees of the school  district and
+families of the students of the school district.
+SECTION 9.
+ ORS 327.224 is amended to read:
+327.224. (1)  The Student Success Teams Account is established in the State Treasury, separate
+and distinct from the General Fund.
+(2) The Student Success Teams Account shall consist of:
+(a) Moneys transferred to the account from the Statewide Education Initiatives Account;
+(b) Moneys appropriated or  otherwise transferred to the Student Success Teams Account by the
+Legislative Assembly; and
+(c) Other amounts deposited into the account from any source.
+(3) Moneys  in the Student Success Teams Account are continuously appropriated to the De-
+partment of Education for the purpose of funding the intensive coaching program  for school dis-
+tricts [ with the highest needs ] established under ORS  327.222, including funding any costs incurred
+for student success teams under that program.
+SECTION 10.
+ ORS 327.235 is amended to read:
+Enrolled Senate Bill 141 (SB 141-B) Page 6
+327.235. The Department  of Education shall make a report to the committees of the Legislative
+Assembly related to education no later than February 1 of each year  regarding the implementation
+of ORS 327.175 to 327.235  and sections 2 to 5 of this 2025 Act . The report must include an annual
+performance review of each school district  and, if applicable,  each eligible applicant, as defined
+in ORS 327.185. The report must:
+(1) For eligible applicants for a grant awarded from the Student Investment Account
+under ORS 327.195, identify whether  the eligible applicant received a grant under ORS 327.175 to
+327.235.
+(2) For school districts and  grant recipients, include a comparison of the school district’s or
+grant recipient’s progress toward meeting performance growth targets compared with  the actual
+performance growth targets [ established] developed by the department for the following:
+(a) On-time graduation rates and five-year completion rates, including the overall rate and dis-
+aggregated student group rates;
+(b) Ninth-grade  on-track rates, including the overall rate and disaggregated student group rates;
+(c) Eighth-grade mathematics proficiency rates and  third-grade reading proficiency rates,
+including the overall rate and disaggregated student group rates;
+(d) Regular  attendance rates  and regular early-grade attendance rates , including the overall
+rate and disaggregated student group rates; [ and]
+(e) Local metrics rates, including the overall rate and  the disaggregated student group
+rates; and
+[(e)] (f) Any optional local metrics or any targets related to student  mental and behavioral
+health needs established by the State Board of Education  for purposes of ORS 327.175 to
+327.235.
+SECTION 11. (1) The amendments to ORS 327.235 by section 10 of this 2025 Act become
+operative on January 1, 2028.
+(2) The Department of Education shall make the first report required under ORS 327.235,
+as amended by section 10 of  this 2025 Act, no later than February 1, 2028, based on the
+2026-2027 school year.
+ALIGNMENT WITH OTHER PROGRAMS
+SECTION 12.  ORS 327.180 is amended to read:
+327.180. (1) In addition to those  moneys distributed through the State School Fund, the Depart-
+ment of Education  shall award grants from the Student Investment Account. Grants shall be dis-
+tributed as provided under ORS 327.195.
+(2) The purposes of grants distributed under ORS 327.195 shall be to:
+(a) Meet students’ mental or behavioral health needs; and
+(b) Increase academic achievement for students, including reducing academic  disparities for
+each student group identified in section 2 (11) of this 2025 Act. [:]
+[(A) Economically disadvantaged students, as determined based  on rules adopted by the State
+Board of Education; ]
+[(B) Students from  racial or ethnic groups that have historically experienced academic disparities,
+as determined under rules adopted by the State Board of Education; ]
+[(C) Students with disabilities; ]
+[(D) Students who are English language learners; ]
+[(E) Students who are foster children, as defined in ORS 30.297; ]
+[(F) Students who are homeless, as determined under  rules adopted by the State Board of Educa-
+tion; and]
+[(G) Any other student groups that have historically  experienced academic disparities, as deter-
+mined by the State Board of Education by rule. ]
+(3) Grant moneys received under ORS 327.195 may be used by a grant recipient only for:
+(a) Increasing instructional time, which may include:
+Enrolled Senate Bill 141 (SB 141-B) Page 7
+(A) More hours or days of instructional time;
+(B) Summer programs;
+(C) Before-school or after-school programs; or
+(D) Technological investments that minimize class time used for  assessments administered to
+students.
+(b) Addressing students’ health or safety needs, which may include:
+(A) Social-emotional learning and development;
+(B) Student mental and behavioral health;
+(C) Improvements to teaching and learning practices or organizational structures that  lead to
+better interpersonal relationships at the school;
+(D) Student health and wellness;
+(E) Trauma-informed practices;
+(F) School health professionals and assistants; or
+(G) Facility improvements directly related to improving student health or safety.
+(c) Reducing class sizes,  which may include increasing the use of instructional assistants, by
+using evidence-based criteria to ensure appropriate student-teacher ratios or staff caseloads.
+(d) Expanding availability of and student participation in well-rounded learning  experiences,
+which may include:
+(A) Developmentally appropriate and  culturally responsive early literacy practices and programs
+in prekindergarten through third grade;
+(B) Culturally responsive practices and  programs in grades six through eight, including learning,
+counseling and student support that is connected to colleges and careers;
+(C) Broadened curricular options at all grade levels, including access to:
+(i) Art, music and physical education classes;
+(ii) Science, technology, engineering and mathematics education;
+(iii) Career and technical education,  including career and technical student organization pro-
+grams and payment of student fees, costs and instructors of those programs;
+(iv) Electives that are engaging to students;
+(v) Accelerated college credit programs, including dual credit  programs, International
+Baccalaureate programs and advanced placement programs;
+(vi) Dropout prevention programs and transition supports;
+(vii) Life skills classes; or
+(viii) Talented and gifted programs; or
+(D) Access to licensed educators with a library media endorsement.
+SECTION 13.
+ ORS 327.185 is amended to read:
+327.185. (1) As used in this section, “eligible applicant” means any of the following entities:
+(a) Common school districts and union high school districts.
+(b) The Youth Corrections Education Program or the Juvenile Detention Education Program.
+(c) Public charter schools that are not virtual public charter schools, as defined in ORS 338.005,
+and that have a student population of which:
+(A) At least 35 percent of the student population is composed of students from the following
+student groups:
+(i) Economically disadvantaged,  as described in [ ORS 327.180 (2)(b)(A) ] section 2 (11)(a) of this
+2025 Act ;
+(ii) Racial or ethnic groups that have historically experienced academic disparities, as  described
+in [ ORS 327.180 (2)(b)(B) ] section 2 (11)(b) of this 2025 Act ; or
+(iii) Students with disabilities, as described in [ ORS 327.180 (2)(b)(C) ] section 2 (11)(c) of  this
+2025 Act; and
+(B) The percentage of the  students from student groups identified under subparagraph (A) of this
+paragraph is greater than or equal to:
+(i) The percentage of all students in the school  district who are economically disadvantaged, if
+eligibility is determined based on the percentage of students who are economically disadvantaged;
+Enrolled Senate Bill 141 (SB 141-B) Page 8
+(ii) The percentage of all students  in the school district who are from racial or ethnic groups
+that have historically experienced academic disparities, if eligibility is determined based on  the
+percentage of students who are from those racial or ethnic groups; or
+(iii) The percentage of  all students in the school district who are disabled, if eligibility is de-
+termined based on the percentage of students who are disabled.
+(2)(a) Eligible applicants may apply for a grant  from the Student Investment Account to receive
+a distribution under ORS 327.190.
+(b) Notwithstanding ORS 338.155 (9),  a public charter school that is not an eligible applicant
+may not apply for a grant under this section.
+(3) Prior to preparing a grant application, an eligible applicant must:
+(a) If the eligible applicant is a school district, determine whether the  school district will allow
+public charter schools sponsored by, or located within, the school  district to participate in the grant
+application and the grant agreement.
+(b) If the eligible applicant is a public charter school, determine whether  the public charter
+school intends to apply for a grant and provide notice of that intent to the school district  in which
+the public charter school is located and to the Department of Education.
+(4)(a) If an eligible applicant is a school  district and decides to include public charter schools
+in the  grant application and grant agreement, the school district must provide all public charter
+schools sponsored by, or located within, the  school district the opportunity to participate in the
+grant application and grant agreement.
+(b)(A) A public charter school is not required to participate  in the grant application and grant
+agreement of a school district.
+(B) If a public charter school does not participate  in a grant application and grant agreement
+under this subsection:
+(i) The ADMw of the public charter school may not be used in the  calculation of the school
+district ADMw for grants distributed under ORS 327.195; and
+(ii) The public charter school is not entitled to  any grant moneys distributed under ORS 327.195.
+(C) If a public charter school participates in a grant application and grant  agreement under this
+subsection:
+(i) The public charter school  and school district shall enter into an agreement for the distrib-
+ution of moneys or  the provision of services, including any accountability measures required of the
+public charter school by the school district;
+(ii) The ADMw of  the public charter school shall be used in the calculation of the school district
+ADMw for grants distributed under ORS 327.195; and
+(iii) The public  charter school is entitled to any grant moneys or services provided for in the
+agreement entered into under this subparagraph.
+(5)(a) For the purpose of preparing a grant application, an eligible applicant must determine:
+(A) Which of the allowed uses identified in ORS 327.180 (3)  the eligible applicant will fund with
+grant moneys; and
+(B) Which of the eligible uses identified under  subparagraph (A) of this paragraph the eligible
+applicant will designate to meeting student mental and behavioral health needs.
+(b) An eligible applicant shall make the determinations required under paragraph (a) of  this
+subsection by:
+(A) Engaging in strategic planning; and
+(B) Considering the  recommendations of the Quality Education Commission established under
+ORS 327.500 and recommendations from the advisory groups formed  by the Department of Education
+for the purposes of the statewide education plans developed and implemented by the department.
+(6)(a) The strategic planning required under subsection (5) of this section must include:
+(A) A completed needs assessment, as described in ORS 329.095;
+(B) An analysis of the potential academic impact, both for the students of  the eligible applicant
+and for student groups identified in [ ORS 327.180 (2)(b) ] section 2 (11) of this 2025 Act , from  the
+allowed uses that would be funded by grant moneys; and
+Enrolled Senate Bill 141 (SB 141-B) Page 9
+(C) The creation of budgets for the allowed uses that would be funded by grant moneys.
+(b) The strategic planning required under subsection (5) of this section must take  into consid-
+eration:
+(A) Input from the community of the eligible applicant, including school employees, students
+from student groups  identified in [ ORS 327.180 (2)(b) ] section 2 (11) of this 2025 Act  and parents
+of those students; and
+(B) Data collected by the eligible applicant to enable the eligible  applicant to make equity-based
+decisions.
+(7) Based  on the strategic planning described in subsection (6) of this section, the eligible ap-
+plicant shall  develop a four-year plan for the use of grant moneys. The plan must be updated every
+two years and must:
+(a) Identify which allowed uses identified in ORS 327.180 (3) will be funded with grant  moneys
+and which of those uses will be designated to meet student mental and behavioral health needs.
+(b) Describe how the allowed uses identified under paragraph  (a) of this subsection will be used
+to:
+(A) Meet students’ mental and behavioral health needs;
+(B) Increase academic achievement for students of the eligible applicant; and
+(C) Reduce academic disparities  for student groups identified in [ ORS 327.180 (2)(b) ] section 2
+(11) of this 2025 Act  who are served by the eligible applicant, and  identify which of those student
+groups will benefit from the allowed uses that are being funded with grant moneys.
+(c) Include the budgets for the allowed uses to be funded with grant moneys.
+(d) Be approved by the governing body of the eligible applicant at an open meeting, following:
+(A) Provision of the plan at the main  office of the eligible applicant and on the eligible
+applicant’s website;
+(B) Oral presentation of the plan by an administrator of the eligible applicant  to the governing
+body of the eligible applicant; and
+(C) Opportunity for the public to comment on the plan at an open meeting.
+(e) Be a part of the local district continuous improvement plan described in ORS 329.095,  if the
+eligible applicant is a school district.
+(8) To apply for a grant, an eligible applicant must submit  an application every two years in a
+format and according to timelines prescribed  by the Department of Education. The application must
+include:
+(a) A completed needs assessment, as described in ORS 329.095;
+(b) The plan developed under subsection (7) of this section; and
+(c) Budget estimates for each  of the allowed uses identified in the plan developed under sub-
+section (7) of this section that will be funded by grant moneys.
+SECTION 14.
+ ORS 327.190 is amended to read:
+327.190. [(1) As used in this section: ]
+[(a) “Disaggregated” means separated  based on the student groups identified in ORS 327.180
+(2)(b).]
+[(b) “Five-year  completion rate” means the percentage of students who received a high school di-
+ploma, a modified diploma or an extended diploma or who received a certificate for passing  an ap-
+proved high school equivalency test such as the General Educational Development test (GED) within
+five years of the student beginning the ninth grade. ]
+[(c) “High school diploma” means a  diploma that is awarded to a student upon satisfaction of the
+requirements prescribed by ORS 329.451 (2). ]
+[(d) “Ninth-grade on-track rates” means the  percentage of students who, at the end of the summer
+following the year the students began ninth  grade, completed one quarter of the credits required for
+high school graduation. ]
+[(e) “On-time graduation rate” means the percentage of students who  received a high school di-
+ploma or a modified diploma within four years of the students beginning the ninth grade. ]
+Enrolled Senate Bill 141 (SB 141-B) Page 10
+[(f) “Regular attendance rates” means the percentage of  students who are absent, as determined by
+Department of Education policy, for less than 10 percent of the school days for which the  students are
+enrolled.]
+[(g) “Third-grade reading proficiency  rate” means the percentage of students in the third grade who
+are determined to be proficient or above in English  language arts, as determined under rules adopted
+by the State Board of Education. ]
+[(2)] (1) The Department of Education shall review  all applications for grants from the Student
+Investment Account that comply with the requirements prescribed by ORS 327.185.
+[(3)] (2) If an application complies with the requirements of ORS 327.185, the department shall :
+(a) If the grant applicant has developed performance growth targets  as provided by sec-
+tion 3 of this 2025 Act, confirm the applicable performance growth targets; or
+(b) If the grant applicant has not developed performance growth targets  under section 3
+of this 2025  Act, collaborate with the grant [ recipient] applicant  to develop applicable
+[longitudinal] performance growth targets  that are in alignment with section 3 of this  2025 Act .
+[The longitudinal performance growth targets must: ]
+[(a) Be based on data available for longitudinal analysis; ]
+[(b) Be developed based on guidance established by the department; and ]
+[(c) Use the following applicable metrics: ]
+[(A) On-time graduation rates and five-year completion rates, including: ]
+[(i) The overall on-time graduation rate and five-year completion rate. ]
+[(ii) Gaps in disaggregated on-time graduation rates and five-year completion rates. ]
+[(B) Ninth-grade on-track rates, including: ]
+[(i) The overall ninth-grade on-track rate. ]
+[(ii) Gaps in disaggregated ninth-grade on-track rates. ]
+[(C) Third-grade reading proficiency rates, including: ]
+[(i) The overall third-grade reading proficiency rate. ]
+[(ii) Gaps in disaggregated third-grade reading proficiency rates. ]
+[(D) Regular attendance rates, including: ]
+[(i) The overall regular attendance rate. ]
+[(ii) Gaps in disaggregated regular attendance rates. ]
+[(4)] (3) In addition to the metrics [ identified] confirmed or developed in subsection [ (3)] (2) of
+this section, the following may be used to develop applicable performance growth targets:
+(a) Local metrics; and
+(b) Targets related to student mental and behavioral  health needs, as established by the State
+Board of Education by rule.
+[(5) When developing performance growth targets, the department and grant recipient shall: ]
+[(a) Review disaggregated student data; ]
+[(b) Apply a process  adopted by the department for the purpose of strategically developing equitable
+policies and programs; and ]
+[(c) Identify which student groups identified in ORS 327.180 (2)(b) are most at risk of not meeting
+performance growth targets. ]
+[(6)(a)] (4)(a) After confirming or developing performance growth targets, the department and
+grant [ recipient] applicant shall enter into a grant agreement.  The grant agreement must include
+applicable performance growth targets for measuring the academic growth of the students of  the
+grant recipient.
+(b) A grant agreement is not valid until approved by the governing body of the  grant
+[recipient] applicant at an open meeting following:
+(A) Provision  of the plan at the main office of the grant recipient and on the grant recipient’s
+website;
+(B) Oral presentation of the plan by  an administrator of the grant recipient to the governing
+body of the grant recipient; and
+(C) Opportunity for the public to comment on the plan at an open meeting.
+Enrolled Senate Bill 141 (SB 141-B) Page 11
+[(7)] (5) Any agreements between a public charter school and a grant recipient that is a school
+district shall become part of the grant agreement.
+SECTION 15.  ORS 327.201 is amended to read:
+327.201. (1)(a) Each year, each recipient of a  grant from the Student Investment Account
+shall[:]
+[(A)] conduct  a financial audit of the use of grant moneys that is prepared in accordance with
+the Municipal Audit Law . [ ; and ]
+[(B) Review the grant recipient’s progress toward meeting the performance growth targets in  the
+grant agreement. ]
+(b) Results of the financial audit [ and progress review ] must be:
+(A) Made available at the main  office of the grant recipient and on the grant recipient’s website.
+(B) Presented to the governing body of the grant recipient at an open meeting, following:
+(i) Oral presentation of  the results by an administrator of the grant recipient to the governing
+body of the grant recipient; and
+(ii) Opportunity for the public to comment on the results at an open meeting.
+(C) Forwarded to the Department of Education.
+(2)(a) Based on information received under subsection (1) of this section, the  department shall
+determine each year whether grant moneys received by a grant recipient were used as provided  by
+the grant agreement.
+(b) If a grant recipient did not use grant moneys as provided by the grant  agreement, the de-
+partment shall:
+(A) Collaborate with the grant recipient to identify and implement specific interventions;
+(B) Provide technical assistance to the grant recipient as described in ORS 327.208; [ or]
+(C) Direct amounts of future grant distributions for specific investments; or
+[(C)] (D) Deduct amounts from future grant distributions.
+(c) If amounts are to be deducted from future grant distributions under paragraph  [(b)(C)] (b)(D)
+of this subsection, the grant  recipient may appeal to the State Board of Education for review as
+provided by the board by rule.
+(d) If a grant recipient  fails to commit to spending all available grant moneys, the department
+may deduct amounts not committed from future grant distributions.
+[(3)(a) The department shall determine each  biennium if a grant recipient does not meet perform-
+ance growth targets identified in the grant agreement. ]
+[(b) If a grant recipient does not meet the performance growth targets: ]
+[(A) The grant recipient may submit  an explanation for the reasons why the performance growth
+targets were not met; and ]
+[(B) The department may: ]
+[(i) Take into consideration the explanation submitted by the grant recipient; ]
+[(ii) Require the grant recipient to enter into a coaching program described in ORS 327.214; or ]
+[(iii) Direct the expenditure of grant moneys. ]
+[(4) Each grant  recipient must conduct a performance review every four years, as required by
+standards adopted by the board by rule. ]
+[(5)(a)] (3) Based on a review of the information received under subsection (1) of this section,
+the department may require a grant recipient to conduct a financial audit on  a specific funding area
+or multiple funding areas.
+[(b) The department may establish a procedure for conducting performance audits  on a random
+basis or based on just cause as allowed under rules adopted by the board. ]
+SECTION 16.
+ ORS 327.208 is amended to read:
+327.208. (1) The Department of Education shall make available technical assistance to  eligible
+applicants, as defined in ORS 327.185, and to recipients of a grant from the Student Investment
+Account. The technical assistance shall include the provision of assistance with:
+(a) Strategic planning for the use of grant moneys;
+(b) Developing an application for a grant from the Student Investment Account;  and
+Enrolled Senate Bill 141 (SB 141-B) Page 12
+[(c) Identifying and implementing best practices for meeting performance growth targets; and ]
+[(d)] (c)  Identifying and implementing promising practices related to a grant agreement.
+(2) When providing technical assistance, the department shall:
+(a) Apply a process adopted  by the department to strategically develop equitable policies and
+programs; and
+(b) Ensure that  technical assistance is based on the eligible applicant’s or grant recipient’s
+specific needs and demographics.
+(3) For the purpose  of providing technical assistance under this section, the department may
+enter into contracts with entities the department determines are qualified to provide the technical
+assistance.
+SECTION 17.
+ ORS 327.254, as amended by section  25, chapter 95, Oregon Laws 2024, is
+amended to read:
+327.254. (1) The Department of Education shall use  moneys in the Statewide Education Initi-
+atives Account to provide funding for statewide education initiatives, including:
+(a) Funding the High School Graduation and College and Career Readiness Act at the  levels
+prescribed by ORS 327.856;
+(b) Expanding school breakfast and lunch programs;
+(c) Operating youth reengagement programs or providing youth reengagement services;
+(d) Establishing and  maintaining the Statewide School Safety and Prevention System under ORS
+339.341;
+(e) Developing and  providing statewide equity initiatives, including any statewide education plan
+developed and implemented by the department;
+(f) Providing summer learning programs at  schools that are considered high poverty under Title
+I of the federal Elementary and Secondary Education Act of 1965;
+(g) Funding early warning systems to assist students in graduating  from high school, as de-
+scribed in ORS 327.367;
+(h) Developing and implementing professional development programs  and training programs, in-
+cluding programs that increase educator diversity and retain diverse educators;
+(i) Planning for increased transparency and accountability in the  public education system of this
+state;
+(j) Providing additional funding to school districts participating in the intensive coaching pro-
+gram under ORS 327.222;
+(k) Providing technical assistance, including costs incurred for:
+(A) The coaching [ program] and support  described in [ ORS 327.214 ] section 5 of  this 2025
+Act; and
+(B) The intensive coaching program described in ORS 327.222, including costs for student suc-
+cess teams;
+(L) Funding public charter schools, as described in ORS 327.362;
+(m) Funding the Early Literacy Success School Grant program, as provided by ORS 327.833;
+(n) Funding the Early Literacy Success Community  Grant program, as established by ORS
+327.843;
+(o) Funding any additional amounts for approved recovery schools, as provided by rules of  the
+State Board of Education adopted under ORS 327.029;
+(p) Funding education service districts, as described in subsection (2) of this section;
+(q) Funding the  Youth Corrections Education Program and the Juvenile Detention Education
+Program through the Juvenile  Justice Education Fund established under section 22, chapter 95,
+Oregon Laws 2024, when necessary as provided by section 23, chapter 95, Oregon Laws 2024; and
+(r) Funding costs incurred  by the department in implementing this section and ORS 327.175 to
+327.235 and 327.274.
+(2)(a) The amount of a distribution to an education service  district under this section shall be
+made as provided by paragraph (b) of this subsection after calculating  the following for each edu-
+cation service district:
+Enrolled Senate Bill 141 (SB 141-B) Page 13
+(A) One percent of the total amount available for distribution to education  service districts in
+each biennium.
+(B) The education service district’s ADMw ×  (the total amount available for distribution to
+education service districts in each biennium ÷  the total ADMw of all education service  districts
+that receive a distribution).
+(b) The amount of the distribution to an education service district shall be the greater  of the
+amounts calculated under paragraph (a) of this subsection, except that, for distributions made  as
+provided by paragraph (a)(B) of this subsection,  the total amount available for distribution to edu-
+cation service districts shall be the amount remaining after any distributions  required under para-
+graph (a)(A) of this subsection have been made.
+(c) For  purposes of this subsection, ADMw equals the ADMw as calculated under ORS 327.013,
+except that the additional amount allowed for students who are in poverty  families, as determined
+under ORS 327.013 (1)(c)(A)(v)(I), shall be 0.5.
+(d) An education service  district shall use moneys received under this section as provided by a
+plan developed by the school districts located within the  education service district. A school district
+that declines to participate in the development of the plan or that has withdrawn from an  education
+service district as provided by ORS  334.015 is not entitled to any moneys distributed to the educa-
+tion service district under this subsection.
+(e) A plan developed under this subsection must:
+(A) Align with and support the meeting of performance growth targets established for  recipients
+of moneys under ORS 327.195 that are located within the education service district;
+(B) Include the provision, to recipients of moneys under ORS 327.195 that  are located within the
+education service district, of technical assistance in developing, implementing and reviewing a plan
+for receiving a grant from the Student Investment Account;
+(C) Provide  for coordination with the department in administering and providing technical as-
+sistance to recipients of moneys under ORS 327.195 that are located within the  education service
+district, including coordinating any coaching [ programs] and  support  established under [ ORS
+327.214] section 5 of this 2025 Act ; and
+(D) Be adopted and amended as provided for local service plans under ORS 334.175 and approved
+by the department.
+(f) For the purposes of paragraph  (e) of this subsection, recipients of moneys under ORS 327.195
+that are located within the education service district include, as applicable:
+(A) Common school districts and union high school districts;
+(B) Any charter school that is an eligible applicant, as defined in ORS 327.185; and
+(C) The Youth Corrections Education Program or the Juvenile Detention Education Program.
+(g) Each education service district must submit an annual report to the department that:
+(A) Describes how the  education service district spent moneys received under this subsection;
+and
+(B) Includes an evaluation of the education service district’s compliance with the  plan from the
+superintendent of each school district that participated in the development of the plan.
+(3) The State Board of Education shall adopt rules necessary for the distribution of moneys un-
+der this section.
+SECTION 18.
+ ORS 327.362 is amended to read:
+327.362. (1) As used in this section:
+(a) “ADMw” means weighted average daily membership, as calculated under ORS 327.013.
+(b) “Eligible public charter school” means a public charter school that is not a virtual  public
+charter school, as  defined in ORS 338.005, and that has a student population of which at least 65
+percent of the  total student population is composed of students from the following combined student
+groups:
+(A) Racial or ethnic groups that have historically  experienced academic disparities, as described
+in [ ORS 327.180 (2)(b)(B) ] section 2 (11)(b) of this 2025 Act ; and
+Enrolled Senate Bill 141 (SB 141-B) Page 14
+(B) Students with disabilities, as described in [ ORS 327.180 (2)(b)(C) ] section 2 (11)(c) of this
+2025 Act .
+(2) In addition to those moneys distributed through the State School Fund, the Department  of
+Education shall award grants under this section to eligible public charter schools from the  State-
+wide Education Initiatives Account.
+(3) The amount of a grant awarded to an eligible public charter school under this section =  the
+public charter school’s ADMw ×  the difference between:
+(a) The amount of the General  Purpose Grant per ADMw for the school district that has
+contractually established payment for the provision  of educational services to the public charter
+school’s students under ORS 338.155 (2) or (3); and
+(b) The amount of the General Purpose  Grant per ADMw that the public charter school receives
+under a contract for the provision of educational services to  the public charter school’s students
+under ORS 338.155 (2) or (3).
+(4) The  purpose of grants distributed under this section shall be to increase academic achieve-
+ment, including reducing academic disparities, for:
+(a) Students from racial  or ethnic groups that have historically experienced academic dispari-
+ties, as determined under rules adopted by the State Board of Education; and
+(b) Students with disabilities.
+(5) Any eligible public charter school may apply for and receive a grant as provided by  this
+section. A grant application must:
+(a) Describe how grant moneys will  be used to advance the purpose described in subsection (4)
+of this section.
+(b) Specify the supports that will be:
+(A) Provided to students with a disability; or
+(B) Used  to enhance special education and related services that are provided by a school district
+under ORS 338.165 to the students of the public charter school.
+(c) Identify any applicable longitudinal performance growth targets for  the public charter school
+that have been established:
+(A) Under contract between the  public charter school and the sponsor of the public charter
+school; or
+(B) By the public charter  school or the school district in which the public charter school is lo-
+cated for purposes of grants from the Student Investment Account, as provided by ORS 327.190.
+(d) Be submitted based on the timelines and forms prescribed by the department.
+(6)(a) If the department determines that a grant application complies with the requirements
+prescribed under this section, the department shall enter into a grant  agreement with the eligible
+public charter school.
+(b) A grant agreement must include longitudinal  performance growth targets for the public
+charter school. If the grant application identified longitudinal performance growth targets,  those
+targets shall be included in the grant agreement. If the grant application did not  identify longitudi-
+nal performance growth targets, the public  charter school shall collaborate with the department to
+develop longitudinal performance growth targets. Longitudinal performance growth targets must:
+(A) Be based on data available for longitudinal analysis; and
+(B) Use the following applicable metrics:
+(i) Third-grade reading  proficiency rates, as defined in [ ORS 327.190 ] section 2 of this 2025
+Act;
+(ii) Regular attendance rates, as defined in [ ORS 327.190] section 2 of this 2025 Act ; and
+(iii) Any other metrics identified by the department in collaboration with the public charter
+school.
+(7) After the department and the public charter school have entered into a grant  agreement, the
+department shall award a grant to the public charter school in  the amount calculated under sub-
+section (3) of this  section. A grant recipient shall deposit grant moneys received under this section
+Enrolled Senate Bill 141 (SB 141-B) Page 15
+into a  separate account and shall apply the amounts in that account as provided by the grant
+agreement.
+(8)(a) Each year, each grant recipient must submit to the department a description of:
+(A) How grant  moneys received under this section were used to advance the purpose described
+in subsection (4) of this section and  to meet performance growth targets in the grant agreement; and
+(B) Progress made  by the grant recipient toward meeting the performance growth targets in the
+grant agreement.
+(b) A grant recipient shall provide the information required under  this subsection based on the
+timelines and forms prescribed by the department. To the  greatest extent practicable, the depart-
+ment shall accept the information described  in this subsection in the manner that it is made avail-
+able by a public charter school to the sponsor of the public charter school.
+(9) To the greatest extent practicable, any requirements prescribed by the department  or the
+board under  this section in relation to an application, a grant agreement or the submission of in-
+formation under  subsection (8) of this section shall reduce any redundancies between a grant
+awarded under this section and a  grant awarded from the Student Investment Account. Reduction
+in redundancies includes accepting  for the purposes of grants awarded under this section any ap-
+plicable forms or information submitted by the public charter school to  the department or a school
+district for the purposes of a grant awarded from the Student Investment Account.
+(10) A public charter school and a school district may not consider moneys received  by the
+public charter school under this section when establishing payment for  the provision of educational
+services to the public charter school’s students under ORS 338.155 (2) or (3).
+(11) Prior to February 1 of each year, the department shall submit to the appropriate interim
+legislative committees a report related to the grants awarded under this section.  The report must
+describe:
+(a) The public charter schools that applied for the grants and the public charter schools  that
+received the grants;
+(b) The longitudinal performance growth targets included in grant agreements, as  provided by
+subsection (6)(b) of this section; and
+(c) Progress  made toward meeting longitudinal performance growth targets, as reported under
+subsection (8)(a) of this section.
+(12) The State Board of Education shall  adopt any rules necessary for the distribution of grants
+under this section.
+SECTION 19.
+ ORS 329.095 is amended to read:
+329.095. (1)(a) The Department of Education  shall require school districts and schools to conduct
+self-evaluations and to periodically update their local district continuous improvement plans. Except
+as provided by paragraph (b)(C) of this subsection,  the department may not require school districts
+or schools to conduct self-evaluations or to update their local  district continuous improvement plans
+more frequently than biennially.
+(b) The department may require a school district to:
+(A) File, periodically, or at the department’s request, its local district continuous  improvement
+plan with the department;
+(B) Notify  the department of any substantial changes, as defined by rule of the State Board of
+Education, to the school district; or
+(C) Update its local district continuous improvement plan when there has  been a substantial
+change, as defined by rule of the board, to the school district.
+(c) The self-evaluation process  conducted as provided by this subsection shall involve the public
+in the setting of local goals. The school districts shall  ensure that representatives from the demo-
+graphic groups of their school population are invited to participate in the development of local  dis-
+trict continuous improvement plans to achieve the goals.
+(2) As part of setting local goals, school districts shall  undertake a communications process that
+involves parents, students, teachers, school employees, the educational equity advisory committee
+Enrolled Senate Bill 141 (SB 141-B) Page 16
+and community representatives to explain and discuss the local goals and  their relationship to pro-
+grams under this chapter.
+(3) At the  request of the school district, department staff shall provide ongoing technical as-
+sistance in the development and implementation of the local district continuous improvement plan.
+(4) The local district continuous improvement plan shall include:
+(a) Goals to implement the following:
+(A) A rigorous curriculum aligned with state standards;
+(B) High-quality instructional programs;
+(C) Short-term and long-term professional development plans;
+(D) Programs and policies that achieve a safe educational environment;
+(E) A plan for family and community engagement;
+(F) Staff leadership development;
+(G) High-quality data systems;
+(H) Improvement planning that is data-driven;
+(I) Education service plans for  students who have or have not exceeded all of the academic
+content standards; and
+(J) A strong school library program;
+(b) A review of demographics, student performance, staff characteristics and  student access to,
+and use of, educational opportunities;
+(c) A description of district efforts to achieve local  efficiencies and efforts to make better use
+of resources; and
+(d) A needs assessment, which shall:
+(A) Be conducted in a  manner that is inclusive of school employees, students from student
+groups identified in [ ORS 327.180 (2)(b) ] section 2 (11) of this 2025 Act  and parents of those stu-
+dents.
+(B) Address the following priorities:
+(i) Reducing academic disparities for students from student groups identified in [ ORS 327.180
+(2)(b)] section 2 (11) of this 2025 Act ;
+(ii) Meeting students’ mental or behavioral health needs;
+(iii) Providing equitable access to academic courses across the school district or public  charter
+school, with specific emphasis on access by students from  student groups identified in [ ORS 327.180
+(2)(b)] section 2 (11) of this 2025 Act ;
+(iv) Allowing teachers and staff to have sufficient time to:
+(I) Collaborate with other teachers and staff;
+(II) Review data on students’  grades, absences and discipline, based on school and on grade level
+or course; and
+(III) Develop strategies to ensure that at-risk students stay on track to graduate; and
+(v) Possible partnerships  with other organizations, federally recognized Indian tribes, school
+districts, education service  districts, regional achievement collaboratives, post-secondary institutions
+of education, education partners or nonprofit programs and  community-based programs that have
+demonstrated achievement of positive outcomes  in work with students from student groups identified
+in [ ORS 327.180 (2)(b) ] section 2 (11) of this 2025 Act .
+SECTION 20.
+ ORS 336.680, as amended by section  45, chapter 95, Oregon Laws 2024, is
+amended to read:
+336.680. (1) As used in this section, “approved recovery school” means a school that  is under
+an agreement with the Department of  Education to provide students enrolled in the school with a
+holistic approach to:
+(a) Educational services for grades 9 through 12; and
+(b) Health care services related to recovery from substance use disorders.
+(2) The department shall provide  or cause to be provided appropriate education for students
+enrolled in an  approved recovery school. For the purpose of paying the costs of providing education
+Enrolled Senate Bill 141 (SB 141-B) Page 17
+to students enrolled in an approved recovery  school, the Superintendent of Public Instruction shall
+make the following:
+(a) Payments from amounts available from the State School Fund under ORS 327.029.
+(b) Payments  from the Statewide Education Initiatives Account, as provided by rule adopted by
+the State Board of Education in collaboration with the  advisory committee convened under ORS
+336.685. The rules adopted as  provided by this paragraph may include a minimum amount, a maxi-
+mum amount or both for approved recovery schools.
+(3) The Superintendent of Public Instruction may contract with a  school district, an education
+service district or a public charter school to provide or cause to  be provided appropriate education
+to students enrolled  in an approved recovery school. Unless otherwise specified, any educational
+services provided under a contract entered into under this subsection  shall be paid as described in
+this section and not by any other state moneys distributed based on average daily  membership that
+are available to the school district, education service district or public charter school for the pur-
+pose of providing educational services.
+(4) The State Board of Education shall adopt by rule the standards for a  recovery school to
+become and operate as an approved recovery school. The standards must provide that:
+(a) The recovery  school must align, to the extent identified by the board, with standards for
+accreditation established by a nonprofit accrediting organization composed of representatives of  re-
+covery schools and individuals who support the growth of recovery schools. The standards must in-
+clude requirements that:
+(A) The recovery school, in compliance with timelines established by the department, be ac-
+credited by a nonprofit accrediting  organization that establishes standards for recovery schools.
+Nothing in this subparagraph requires the  recovery school to be accredited at the time the super-
+intendent first enters into a contract with the recovery school.
+(B) Student enrollment in the recovery school is voluntary. No school district  or state or local
+agency may compel or otherwise require a student to enroll in a recovery  school. Students enrolled
+in an approved recovery school may not be counted in determining  the number of pupils in average
+daily membership for purposes of ORS 334.175 (5).
+(C) All students who reside in this state and who meet the eligibility criteria established under
+subsection (8) of this section may enroll in an  approved recovery school if space is available. If
+space is not available,  the approved recovery school may prioritize for enrollment student groups
+identified in [ ORS 327.180 (2)(b) ] section 2 (11) of this 2025 Act .
+(D) The school district, education service district or public charter school with which the  de-
+partment has entered into a contract for a recovery  school must agree to award high school diplo-
+mas, modified diplomas, extended diplomas and alternative certificates as provided by  ORS 329.451
+and 339.877. An entity that awards high school diplomas as provided by this subparagraph:
+(i) May not impose requirements for a high school diploma that are in addition to the  require-
+ments prescribed by ORS 329.451 (2)(a) or by rule of the State Board of Education; and
+(ii) Must accept any credits previously earned by students  in another school or educational
+program in this state and apply those credits toward the requirements prescribed by ORS  329.451
+(2)(a) or by rule of the State Board of Education.
+(E) Except as provided by  subparagraphs (F) and (G) of this paragraph, the recovery school must
+satisfy the same laws that apply to public charter schools under ORS 338.115.
+(F) All administrators and teachers at the recovery school must be licensed by the Teacher
+Standards and Practices Commission.
+(G) An approved recovery school is not required  to comply with the enrollment requirements
+prescribed by ORS 338.115 (1)(bb) or (5).
+(H) An approved recovery school must comply with the  requirements of the uniform budget and
+accounting system adopted by rule of the State Board of Education under ORS 327.511.
+(b) Recovery schools will be approved, to the greatest extent practicable, in a manner that:
+(A) Represents a geographic distribution across this state; and
+Enrolled Senate Bill 141 (SB 141-B) Page 18
+(B) Takes into consideration the needs for services by the community  in which the recovery
+school would be located.
+(5) Any school that provides the services  of a recovery school may enter into a contract with
+the superintendent to become an approved recovery school, including schools already providing the
+services  of  a recovery school and schools that are proposing to provide the services of a recovery
+school.
+(6) An approved  recovery school may enter into agreements with other entities, including
+community-based organizations and federally recognized tribes of this state, for  the purposes of
+providing educational and health care services to students  enrolled in the approved recovery school.
+(7)(a) The department shall be responsible for:
+(A) Identifying, locating and evaluating students enrolled in an approved  recovery school who
+may be in need of special education and related services; and
+(B) Ensuring that eligible students receive special education and related services.
+(b) For the purpose of this subsection, the  department may enter into a contract with a school
+district or an education service district.
+(8) The department shall establish eligibility criteria for students to enroll in an approved re-
+covery school, based on input from the advisory committee  convened under ORS 336.685 and based
+on research from a  nonprofit organization composed of representatives of recovery schools and in-
+dividuals who support the growth of recovery schools and other relevant organizations.
+(9) For the purposes of administering this section:
+(a) The State Board of Education shall adopt any necessary rules.
+(b) The department shall collaborate with the Oregon Health Authority, the Youth Development
+Division, the Alcohol  and Drug Policy Commission, the Oregon Youth Authority, the Department
+of Human Services and local  public health and mental health authorities or providers and shall co-
+ordinate, to the greatest extent practicable,  funding of services provided in relation to approved
+recovery schools.
+(10) Each biennium, the Department of Education shall prepare a report on the  progress, suc-
+cesses and challenges of approved recovery schools and submit that report to:
+(a) The interim committees of the Legislative Assembly related to education; and
+(b) The advisory committee convened under ORS 336.685.
+NOTE:
+ Section 21 was deleted by amendment. Subsequent sections were not renumbered.
+SECTION 22.  ORS 327.016 is amended to read:
+327.016. (1) The Department of Education shall prepare an annual report that:
+(a) Identifies the total amounts that are:
+(A) Allocated to each school district from the State School Fund for students eligible for  and
+enrolled in an English language learner program as provided by ORS 327.013 (1)(c)(A)(ii);
+(B) Expended from the amounts identified in subparagraph (A) of this paragraph for  students in
+average daily membership who are eligible for and enrolled in  an English language learner program;
+and
+(C) Expended as described in subparagraph (B) of this  paragraph by category of expenditure, as
+identified and defined by the State Board of Education by rule.
+(b) Summarizes the progress for each school district on meeting objectives and the needs  of
+students eligible for and enrolled in an English language learner program , including progress of
+English language learners toward meeting performance growth  targets developed as provided
+by section 3 of this 2025 Act .
+(c) Provides information on the demographics of students in English language learner programs
+in each school district, including:
+(A) The average  number of years students have been enrolled in an English language learner
+program;
+(B) The average number of years the students have attended their current schools;
+(C) The percentage of students who also receive special education and related services; and
+(D) Any other information identified by the department.
+Enrolled Senate Bill 141 (SB 141-B) Page 19
+(2) The report prepared under subsection (1) of this section must:
+(a) Be made available on the department’s website by June 30 of each year;
+(b) Be provided to  each school district board by September 1 of each year and made available
+at the school district’s main office and on the school district’s website; and
+(c) Cover the school year ending June 30 of the prior year.
+(3) Prior  to January 1 of each odd-numbered year, the department shall submit to the interim
+legislative committees on education a  summary of the two most recent reports prepared under sub-
+section (1) of this section.
+SECTION 23.
+ORS 327.214 is repealed.
+INTERIM ASSESSMENTS
+SECTION 24.  ORS 329.485 is amended to read:
+329.485. (1) As used in this section:
+(a) “Content-based assessment”  means testing of the understanding of a student of a predeter-
+mined body of knowledge.
+(b) “Criterion-referenced assessment”  means testing of the knowledge or ability of a student
+with respect to some standard.
+(c) “Performance-based assessment” means testing of the ability of a student to use  knowledge
+and skills to create a complex or multifaceted product or complete a complex task.
+(2)(a) The Department of Education shall implement statewide a valid and reliable assessment
+system for all  students that meets technical adequacy standards. The assessment system shall in-
+clude criterion-referenced assessments including performance-based assessments, content-based  as-
+sessments, and other valid methods to measure the  academic content standards and to identify
+students who meet or exceed the standards.
+(b) The  department shall develop the statewide assessment system in mathematics, science, lan-
+guage arts, history, geography, economics and civics.
+(3) In addition to the assessment system implemented under subsection (2) of this section,  the
+department may make available to school districts and  public charter schools an assessment system
+that uses criterion-referenced assessments, including performance-based assessments  and content-
+based assessments to:
+(a) Measure a student’s progress toward mastery of the  knowledge and skills of the student’s
+current grade level or course content level;
+(b) Determine the student’s level of mastery, which shall  be determined regardless of the actual
+grade level of the student and may be determined by adapting the assessment during the  assessment
+process as a result of the performance of the student;
+(c) Track and provide reports on the progress of a student based on the  information provided
+under paragraphs (a) and (b) of this subsection; and
+(d) Provide predictions of anticipated student progress that are based  on the information pro-
+vided under this subsection and not on the current grade level of the student.
+(4)(a) School districts and public charter schools shall  implement the statewide assessment sys-
+tem in mathematics, science and language arts.  In addition, school districts and public charter
+schools may implement the  statewide assessment system in history, geography, economics and civics.
+(b) School districts and public charter schools  may choose to implement the assessment system
+described in subsection (3) of this section.
+(5)(a) School districts and  public charter schools shall administer interim assessments in
+mathematics and language arts to measure student academic growth during the school year.
+(b) To comply with the provisions of this subsection, school districts and public  charter
+schools must:
+(A) Select interim  assessments that measure student performance growth from the list
+of interim assessments adopted by the State Board of Education;
+Enrolled Senate Bill 141 (SB 141-B) Page 20
+(B) At least three times each  school year, administer interim assessments selected under
+subparagraph (A) of this paragraph in mathematics and language arts; and
+(C) For interim assessments in mathematics and language arts  administered as provided
+by subparagraph (B) of  this paragraph to students in any grade from kindergarten through
+grade eight, review the data collected from the interim assessments:
+(i) At least three times  each school year, for the administrators of each of the schools
+of the school district and for the administrators of each public charter school; and
+(ii) At least three times each school year during a public meeting, for the  superintendent
+of the school district, the school district board and, if applicable, the governing body of the
+public charter school.
+(c) For the purpose  of this subsection, the State Board of Education shall adopt a list
+of no more than four approved interim assessments.
+[(5)(a)] (6)(a) Each year  the resident school district shall be accountable for determining the
+student’s progress toward achieving the academic content standards. Progress toward the academic
+content standards:
+(A) Shall clearly show the  student and parents whether the student is making progress toward
+meeting or exceeding the academic content standards  at the student’s current grade level or course
+content  level;
+(B) Shall be based on  the student’s progress toward mastery of a continuum of academic know-
+ledge and skills; and
+(C) May be based on  the student’s progress in a continuum of knowledge and skills that are not
+academic and that may include student behaviors that are defined by the school district.
+(b) School districts shall determine the method and format for showing  student progress toward
+achieving  the  academic content standards. Communications on student progress shall include a
+reasonable number, as determined by the  school district, of academic knowledge and skills in a
+content area to enable parents and students to understand a student’s progress toward meeting  or
+exceeding the academic content standards. No  more than three indicators of academic knowledge
+and skills per content area reporting  category shall be required as provided by this section. A
+school district may use more than three indicators of academic  knowledge and skills per content
+area reporting category if the school district implements a proficiency education system as  provided
+by ORS 329.119.
+[(6)] (7) In addition to the requirements described in subsection [ (5)] (6) of this section, the
+school district shall adopt  and implement a reporting system based on the school district board
+adopted course content of the school district’s curriculum. The reporting system:
+(a) Shall clearly show the student and parents whether the student  is achieving course re-
+quirements at the student’s current grade level or course content level;
+(b) Shall be based on the student’s progress toward mastery  of a continuum of academic know-
+ledge and skills; and
+(c) May be based on the student’s progress in a continuum  of knowledge and skills that are not
+academic and that may include student behaviors that are defined by the school district.
+[(7)] (8) If  a student has not met or has exceeded all of the academic content standards, the
+school district shall make additional services or alternative educational or  public school options
+available to the student.
+[(8)] (9) If the student to whom additional  services or alternative educational options have been
+made available does  not meet or exceed the academic content standards within one year, the school
+district, with the consent of the parents, shall  make an appropriate placement, which may include
+an alternative  education program or the transfer of the student to another public school in the
+school district or to a public school in another school  district that agrees to accept the student. The
+school district that receives the student shall be entitled to payment. The payment shall consist of:
+(a) An amount equal to the school district’s expenses  from its local revenues for each student
+in average daily membership, payable by the resident school district in the same year; and
+Enrolled Senate Bill 141 (SB 141-B) Page 21
+(b) Any state and federal funds the attending  school district is entitled to receive payable as
+provided in ORS 339.133 (2)(b).
+SECTION 25. (1) The amendments to ORS 329.485 by section 24 of this 2025 Act become
+operative on July 1, 2026.
+(2) Notwithstanding the operative date set  forth in subsection (1) of this section, the
+State Board  of Education shall adopt a list of approved interim assessments to measure
+student performance growth no later than January 31, 2026.
+(3) The amendments to ORS 329.485 by section 24 of this 2025 Act first apply  to the
+2026-2027 school year.
+CURRICULA STANDARDS
+SECTION 26.  ORS 327.837 is amended to read:
+327.837. (1)  Based on the reports submitted under ORS 327.835, the Department of Education
+shall monitor a school district’s  or a public charter school’s progress toward achieving the goals
+established in the early literacy success plan, as described in ORS 327.831 (3).
+(2) The department shall intervene when  a school district or public charter school does not meet
+the goals established in the early literacy success plan.
+(3) When the department intervenes, as  provided by subsection (2) of this section, the depart-
+ment:
+(a) Shall assist the  school district or the public charter school in developing a corrective action
+plan; [ and]
+(b) May retain any or all of the amount the school district or  public charter school would have
+received as a distribution under ORS 327.833 and may use a portion of the amount  retained to pre-
+pare and assist the school  district or the public charter school in implementing the corrective action
+plan[.];
+(c) May require the  school district or public charter school to adopt textbooks or other
+instructional materials  from the list of textbooks and other instructional materials adopted
+by the State Board of Education under ORS 337.050 for early literacy; and
+(d) May require the school district or public charter school to participate in school  or
+school district training or improvement activities, as identified by the department.
+(4) An intervention and corrective action plan shall continue until  the school district or public
+charter school makes sufficient and sustained progress  toward achieving the goals established in the
+early literacy success plan. The department shall  determine when sufficient and sustained progress
+has been achieved.
+(5) If a school district or public charter school continues to fail to make progress toward
+achieving the goals established in the early literacy success plan,  the department may take addi-
+tional action, including not allowing for the distribution to the school district or public  charter
+school of any additional moneys under ORS 327.833.
+SECTION 27. ORS 337.065 is repealed.
+REDUCTION OF REDUNDANCIES
+SECTION 28. (1) The  Department of Education shall study the reporting requirements
+imposed on school districts, as defined in section 2 of this 2025 Act.
+(2) As part of the study conducted under this section, the department shall identify:
+(a) Requirements for school districts to report to the department;
+(b) State reporting  requirements that can be decreased in frequency, eliminated or con-
+solidated;
+(c) State reporting requirements that  can be aligned with federal reporting requirements,
+including any necessary changes to state programs to align with federal programs; and
+Enrolled Senate Bill 141 (SB 141-B) Page 22
+(d) Statutory  changes that would provide for the alignment of grants, programs, plan-
+ning, reporting and monitoring processes.
+(3) The department  shall submit a report on the study conducted under this section in
+the manner  provided by ORS 192.245, and may include recommendations for legislation, to
+the interim committees of the Legislative Assembly related to education no later than  De-
+cember 15, 2026.
+DISTRICT STANDARDS
+SECTION 29. (1) The Department of Education  shall contract with a public or private
+entity to review the administrative rule requirements that must be  met for a school district
+to be considered standard under ORS 327.103 or an education service district to be considered
+standard under ORS 334.217.
+(2) When  conducting the review under subsection (1) of this section, the entity shall
+identify:
+(a) Standards that best support student  outcomes and that should be prioritized by the
+department and districts.
+(b) Standards  that make less significant contributions to the support of student out-
+comes and can be removed.
+(c) Effective methods for enforcing whether a district is standard.
+(d) A process for  a person who resides in the district, or a parent or guardian of a stu-
+dent who attends school in the district, to submit  a complaint about noncompliance with a
+standard, including timelines for investigating and  resolving the complaint. The process may
+require the person, parent or guardian to first attempt to  resolve the complaint with the
+district when the complaint involves specified types of standards.
+(3) The department shall submit a report  on the review required under this section in the
+manner provided by ORS 192.245, and may include recommendations for legislation, to  the
+interim committees of the Legislative Assembly related to education no later  than December
+15, 2026.
+SECTION 30.
+Section 29 of this 2025 Act is repealed on January 2, 2027.
+SECTION 31.  ORS 326.051 is amended to read:
+326.051. Subject to ORS 417.300 and 417.305:
+(1) In addition to such other duties as are prescribed  by law and pursuant to the requirement
+of ORS chapter 183, the State Board of Education shall:
+(a) Establish and enforce state standards for public kindergartens and public elementary and
+secondary schools consistent with the  policies stated in ORS 326.011 , including providing a proc-
+ess for a person who resides in the district, or a  parent or guardian of a student who attends
+school in the district, to file a complaint about noncompliance with a standard .
+(b) Adopt rules for the general governance of public kindergartens and public  elementary and
+secondary  schools.
+(c) Prescribe required or minimum courses of study.
+(d) Adopt rules for public kindergartens and public elementary and  secondary schools consistent
+with the policy stated in ORS 342.437.
+(e) Adopt rules regarding school and interscholastic activities.
+(f) Adopt rules that provide that no public  elementary or secondary school shall discriminate in
+determining participation in interscholastic activities. As used  in this paragraph, “discrimination”
+has the meaning given that term in ORS 659.850.
+(g) Adopt rules that will eliminate the use and purchase  of elemental mercury, mercury com-
+pounds and mercury-added instructional materials by public elementary and secondary schools.
+(2) The State Board of Education may:
+(a) Consistent with the laws of this state, accept money or property not  otherwise provided for
+under paragraph (b) of this subsection, which is donated for the use or benefit of the public
+Enrolled Senate Bill 141 (SB 141-B) Page 23
+kindergartens and public elementary and  secondary schools and use such money or property for the
+purpose for which it was donated. Until it is used, the board shall deposit any money received  un-
+der this paragraph in a special fund with the State Treasurer as provided in  ORS 293.265 to 293.275.
+(b) Apply for federal funds,  accept and enter into any contracts or agreements on behalf of the
+state for  the receipt of funds from the federal government or its agencies and disburse or expend
+the federal funds as provided by ORS 327.128. This paragraph  applies to federal funds to be used for:
+(A) Educational purposes, including but not limited to any  funds available for the school lunch
+program;
+(B) Career and technical education programs in public elementary and secondary schools; and
+(C) Any grants  available to the state or its political subdivisions for general federal aid for
+public kindergartens, public elementary schools and public secondary  schools and their auxiliary
+services, improvement of teacher preparation, teacher salaries, construction of school buildings, ad-
+ministration of the Department of Education and any other educational activities  under the juris-
+diction of the State Board of Education.
+(c) Adopt rules to administer the United  States Department of Agriculture’s National School
+Lunch Program and School Breakfast Program for public  and private prekindergarten through grade
+12 schools and residential child care facilities.
+SECTION 32.
+ ORS 334.217 is amended to read:
+334.217. (1) The  State Board of Education by rule shall establish and enforce standards to de-
+termine the adequacy of services and facilities provided by the education service districts.  In es-
+tablishing such standards, the state board shall :
+(a) Consider  the most economic method of providing services and facilities, the quality of the
+services and facilities according to the best educational standards, and the needs of the students[ .];
+and
+(b) Provide a process for a person who  resides in the district, or a parent or guardian
+of a student who  attends school in the district, to file a complaint about noncompliance with
+a standard.
+(2) When the Superintendent of Public  Instruction determines pursuant to rule that an education
+service district is nonstandard, the district designated nonstandard shall file a plan to  meet stand-
+ards over a specified period of time. The Superintendent of Public Instruction  may accept, reject or
+modify the plan and order the nonstandard district to  comply with the plan as approved by the su-
+perintendent. Once a  plan is approved, the district shall be conditionally standard until all defi-
+ciencies are corrected. If  a district corrects all deficiencies, the district shall be designated as
+standard. The  district shall have 180 days from the date the plan is accepted to make all corrections.
+After that time,  the Superintendent of Public Instruction may impose sanctions on the district if the
+district has not made the necessary corrections.
+(3) The state board shall establish  by rule appropriate sanctions for noncompliance. The sanc-
+tions may include:
+(a) Mandatory merger of the nonstandard education service district with  a contiguous education
+service district that is standard;
+(b) The sanctions described in ORS 342.173, if applicable;
+(c) The withholding of funds from the State School Fund;
+(d) The removal of the superintendent of the education service district;
+(e) The temporary governance of the education service district by the state board; or
+(f) Dissolution of the education service district.
+SECTION 33.
+(1) The amendments to ORS 326.051  and 334.217 by sections 31 and 32 of this
+2025 Act become operative on December 31, 2026.
+(2) When adopting  rules for the purposes of determining how to enforce standards and
+of providing a complaint process for a person who resides in the district, or  a parent or
+guardian of a  student who attends school in the district, to file a complaint about noncom-
+pliance with  a standard, including the timelines for the investigation and resolution of a
+Enrolled Senate Bill 141 (SB 141-B) Page 24
+complaint, the State Board of Education shall take into consideration the review  conducted
+as provided by section 29 of this 2025 Act.
+DEPARTMENT OF EDUCATION REPORT
+SECTION 34. No later than December 15, 2025, the Department of Education shall submit
+a report in  the manner provided by ORS 192.245 to the interim committees of the Legislative
+Assembly related to education. The report must provide a summary of:
+(1) The administrative and organizational changes made to the department  between
+January 1, 2025, and December 1, 2025, to:
+(a) Improve grant  consolidation, reporting, data collection and public transparency before
+the 2026-2027 school year;
+(b) Improve and align internal operations across programs and  offices in the department
+before the 2026-2027 school year; and
+(c) Organize state  and regional efforts to elevate best practices and responsive support
+for school districts before the 2026-2027 school year.
+(2) The status on the implementation of the provisions of this 2025 Act.
+SECTION 35.
+Section 34 of this 2025 Act is repealed on January 2, 2026.
+APPROPRIATION
+SECTION 36. Notwithstanding any other law limiting expenditures,  the amount of
+$2,625,296 is established for the biennium beginning July 1, 2025, as the maximum limit  for
+payment of expenses by the Department of Education from the Statewide Education  Initi-
+atives Account established under ORS 327.250 for  the purpose of increasing accountability
+and transparency in the public kindergarten through grade  12 system as provided by sections
+3, 6, 28, 29 and 34 of this 2025 Act and  the amendments to ORS 326.051, 327.222, 327.235,
+329.485 and 334.217 by sections 8, 10, 24, 31 and 32 of this 2025 Act.
+MISCELLANEOUS
+SECTION 37. The unit captions  used in this 2025 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2025 Act.
+SECTION 38. This 2025 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2025 Act takes effect
+on its passage.
+Enrolled Senate Bill 141 (SB 141-B) Page 25
+Passed by Senate June 5, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 16, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 141 (SB 141-B) Page 26
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 192.245, ORS 293.265, ORS 30.297, ORS 326.011, ORS 326.051, ORS 327.006, ORS 327.013, ORS 327.016, ORS 327.019, ORS 327.026, ORS 327.029, ORS 327.103, ORS 327.128, ORS 327.141, ORS 327.175, ORS 327.180, ORS 327.185, ORS 327.190, ORS 327.195, ORS 327.201, ORS 327.208, ORS 327.214, ORS 327.222, ORS 327.224, ORS 327.235, ORS 327.250, ORS 327.254, ORS 327.362, ORS 327.367, ORS 327.500, ORS 327.511, ORS 327.831, ORS 327.833, ORS 327.835, ORS 327.837, ORS 327.843, ORS 327.856, ORS 329.095, ORS 329.119, ORS 329.451, ORS 329.485, ORS 334.015, ORS 334.175, ORS 334.217, ORS 336.680, ORS 336.685, ORS 337.050, ORS 337.065, ORS 338.005, ORS 338.115, ORS 338.155, ORS 338.165, ORS 339.133, ORS 339.341, ORS 339.877, ORS 342.173, ORS 342.437, ORS 343.243, ORS 343.961, ORS 417.300, ORS 417.305, ORS 659.850
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `0bbea24aa190903823b1a4d38699113978fc2a543877dbdc7a6f23ea75f6f605` (snapshot `_meta/snapshots/measure-2025r1-sb141-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB141/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `19dc168435f1b4f83ba65b4cf15f8f438ec8ef855c516d0a615cfbce4e7bc0e5` (snapshot `_meta/snapshots/measure-2025r1-sb141-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB141/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 141> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

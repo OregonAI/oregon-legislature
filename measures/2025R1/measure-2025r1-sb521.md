@@ -1,0 +1,355 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb521
+title: 'SB 521 (2025R1): Requires additional cities to develop urban reserves.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 521
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB521/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 59d2cf6d7d1cc4884a94fb8064849226b4e85755ac64370eb83061b09427189e
+snapshot_id: measure-2025r1-sb521-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 190.003
+  - ORS 197.274
+  - ORS 197.319
+  - ORS 197.610
+  - ORS 197.626
+  - ORS 197.628
+  - ORS 197.651
+  - ORS 197.732
+  - ORS 197.830
+  - ORS 197A.235
+  - ORS 197A.242
+  - ORS 197A.245
+  - ORS 197A.270
+  - ORS 197A.280
+  - ORS 197A.355
+  - ORS 268.354
+  - ORS 268.390
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 521
+prefix_meaning: Senate Bill
+catch_line: Requires additional cities to develop urban reserves.
+minority_catch_line: null
+measure_summary: "\tDigest: This Act makes more cities create urban reserves and allows building on them.\
+  \ (Flesch Readability Score: 76.5). \n\tRequires additional cities to develop urban reserves. \n\tAllows\
+  \ approval of certain types of development within urban reserves not designated by Metro and expansion\
+  \ of urban growth boundaries to include the development."
+relating_to: Relating to urban reserves.
+relating_to_full: Relating to urban reserves; creating new provisions; and amending ORS 197.651, 197A.242,
+  197A.245 and 268.390.
+at_the_request_of: null
+lc_number: 2222
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-01-24T09:18:45'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 16463
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 190.003
+  - ORS 197.274
+  - ORS 197.319
+  - ORS 197.610
+  - ORS 197.626
+  - ORS 197.628
+  - ORS 197.651
+  - ORS 197.732
+  - ORS 197.830
+  - ORS 197A.235
+  - ORS 197A.242
+  - ORS 197A.245
+  - ORS 197A.270
+  - ORS 197A.280
+  - ORS 197A.355
+  - ORS 268.354
+  - ORS 268.390
+  from_relating_to_full:
+  - ORS 197.651
+  - ORS 197A.242
+  - ORS 197A.245
+  - ORS 268.390
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 521>.
+
+# SB 521 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 521, 2025 Regular Session (2025R1)
+- **LC number:** 2222
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-01-24T09:18:45
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 16463 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB521/Introduced>.
+
+## Summary
+
+**Catchline:** Requires additional cities to develop urban reserves.
+
+**Relating to:** Relating to urban reserves.
+
+Digest: This Act makes more cities create urban reserves and allows building on them. (Flesch Readability Score: 76.5). 
+ Requires additional cities to develop urban reserves. 
+ Allows approval of certain types of development within urban reserves not designated by Metro and expansion of urban growth boundaries to include the development.
+
+**RelatingToFull (verbatim upstream field):** Relating to urban reserves; creating new provisions; and amending ORS 197.651, 197A.242, 197A.245 and 268.390.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 521
+Sponsored by Senator SMITH DB, Representative OSBORNE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act makes more cities create urban  reserves and allows building on them. (Flesch
+Readability Score: 76.5).
+Requires additional cities to develop urban reserves.
+Allows approval of certain types  of development within urban reserves not designated by Metro
+and expansion of urban growth boundaries to include the development.
+A BILL FOR AN ACT
+Relating to urban reserves; creating new provisions; and amending  ORS 197.651, 197A.242, 197A.245
+and 268.390.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 197A.245 is amended to read:
+197A.245. (1) To ensure that the supply of land available for urbanization is maintained:
+(a) [ Local governments may ] Each city outside of Metro with a population of more than
+10,000 in a county with a population of more than 20,000 shall, with the county,  cooperatively
+designate lands outside urban growth boundaries as  urban reserves subject to ORS 197.610 to
+197.625 and 197.626.
+(b) A city and county not subject  to paragraph (a) of this subsection may designate urban
+reserves under the process and criteria adopted pursuant  to paragraph (a) of this subsection.
+[(b)] (c) Alternatively, Metro and a county or a  city and a county may enter into a written
+agreement pursuant to ORS 190.003 to 190.130, 195.025  or 197.652 to 197.658 to designate urban re-
+serves. A process and criteria developed pursuant to this paragraph are an  alternative to a process
+or criteria adopted pursuant to paragraph (a) of this subsection.
+(2) The Land Conservation and Development Commission may require a local  government to
+designate urban reserves pursuant to subsection [ (1)(a)] (1)(b) of this section during  its periodic re-
+view in accordance with the conditions for periodic review under ORS 197.628.
+(3) In carrying out subsections (1) and (2) of this section:
+(a) Within an urban reserve, a local government may not prohibit  the siting on a legal parcel
+of a single family dwelling that would otherwise have been allowed under  law existing prior to
+designation as an urban reserve.
+(b) The commission shall provide to local governments a list of options, rather  than prescribing
+a single planning technique, to ensure the efficient transition from rural to urban use in urban  re-
+serves.
+(4) Urban reserves designated under this section  must be planned to accommodate population
+and employment growth for:
+(a) At least 40 years and not more than 50 years; or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2222
+(b) At  least 20 years, and not more than 30 years, after the 20-year period for which the local
+government has inventoried buildable lands under ORS 197A.270, 197A.280 or 197A.350.
+(5) Urban reserves may be  established at any time without regard to a schedule under ORS
+197A.270 (2), 197A.280 (2) or 197A.350 (2).
+(6) The designation of urban reserves under subsection [ (1)(b)] (1)(c)  of this section  must be
+based upon consideration of factors including, but not limited to,  whether land proposed for desig-
+nation as urban reserves, alone or in conjunction with land inside the urban growth boundary:
+(a) Can be developed at urban densities in  a way that makes efficient use of existing and future
+public infrastructure investments;
+(b) Includes sufficient development capacity to support a healthy urban economy;
+(c) Can be served by public schools and other urban-level public facilities and services efficiently
+and cost-effectively by appropriate and financially capable service providers;
+(d) Can be designed to be walkable and served by a well-connected  system of streets by appro-
+priate service providers;
+(e) Can be designed to preserve and enhance natural ecological systems; and
+(f) Includes sufficient land suitable for a range of housing types.
+(7) A county may take an  exception under ORS 197.732 to a statewide land use planning goal
+to allow the establishment of a transportation facility  in an area designated as urban reserve under
+this section.
+(8) The commission shall adopt by goal or by rule a process  and criteria for designating urban
+reserves pursuant to this section.
+SECTION 2.
+Section 3 of this 2025 Act is added to and made  a part of ORS chapter 197A.
+SECTION 3. (1) A local government may approve a land use application on lands desig-
+nated as urban reserves under ORS 197A.245 (1)(a) or (b) for:
+(a) The subdivision of 10 or more lots for residential development;
+(b) The development of a multifamily dwelling with 10 or more units; or
+(c) The development of a commercial or industrial use  that will result in 10 or more jobs
+that will pay salaries greater than the area median income.
+(2) During or after the approval of  an application under subsection (1) of this section, and
+notwithstanding ORS 197.626, ORS chapter 197A or  any statewide planning goal, a city may
+amend its urban growth boundary to include the developed or subdivided lands.
+SECTION 4.
+ ORS 197A.242 is amended to read:
+197A.242. (1) A  county and Metro must consider simultaneously the designation and establish-
+ment of:
+(a) Rural reserves pursuant to ORS 197A.235; and
+(b) Urban reserves pursuant to ORS 197A.245 [ (1)(b)] (1)(c) .
+(2) An agreement to establish rural reserves pursuant to ORS 197A.235 and urban reserves
+pursuant to ORS 197A.245 [ (1)(b)] (1)(c)  must provide for a coordinated and concurrent process for
+adoption by the county of comprehensive plan  provisions and by Metro of regional framework plan
+provisions to implement the agreement.  Metro may not designate urban reserves pursuant to ORS
+197A.245 [ (1)(b)] (1)(c)  in a county until the  county and Metro have entered into an agreement
+pursuant to ORS 197A.245  [(1)(b)] (1)(c) that identifies the land to be designated by Metro in Metro’s
+regional framework plan as urban reserves. A county may not designate rural reserves  pursuant to
+ORS 197A.235 until the county and Metro have entered into an agreement pursuant to ORS 197A.235
+that identifies the land to be designated as rural reserves by the county in the  county’s compre-
+hensive plan.
+(3) A county and Metro may not enter into an intergovernmental agreement  to designate urban
+reserves in the county pursuant to ORS 197A.245 [ (1)(b)] (1)(c)  unless the county and Metro also
+agree to designate rural reserves in the county.
+SECTION 5.
+ ORS 197.651 is amended to read:
+197.651. (1) Judicial review of a final order of the Land Conservation and Development  Com-
+mission under ORS 197.626 concerning  the designation of urban reserves under ORS 197A.245
+[(1)(b)] (1)(c)  or rural reserves under ORS 197A.235 is as provided in subsections (3)  to (12) of this
+section.
+(2) Judicial review of any other final order of the commission under ORS  197.626 or of a final
+order of the commission under 197.180, 197.251, 197.628  to 197.651, 197.652 to 197.658, 197.659,
+215.780 or 215.788 to 215.794 is  as provided in subsections (3) to (7), (9), (10) and (12) of this section.
+(3) A proceeding for judicial review  under this section may be instituted by filing a petition in
+the Court of Appeals. The petition must be filed within 21 days after  the date the commission de-
+livered or mailed the order upon which the petition is based.
+(4) The filing of the petition, as set forth in subsection (3) of this section, and service of a peti-
+tion on the persons who submitted oral or written testimony in the proceeding  before the commis-
+sion are jurisdictional and may not be waived or extended.
+(5) The petition must state the nature of the order the petitioner seeks  to have reviewed. Copies
+of the petition must be served by registered  or certified mail upon the commission and the persons
+who submitted oral or written testimony in the proceeding before the commission.
+(6) Within 21 days after  service of the petition, the commission shall transmit to the Court of
+Appeals the original or a certified copy of the entire record of the proceeding under review. How-
+ever, by stipulation of the parties to the review proceeding, the record may be  shortened. The Court
+of Appeals may tax a party that unreasonably refuses to stipulate to limit the record for the addi-
+tional costs. The Court of  Appeals may require or permit subsequent corrections or additions to the
+record. Except  as specifically provided in this subsection, the Court of Appeals may not tax the cost
+of the record to the petitioner or an intervening party. However, the Court of Appeals may tax  the
+costs to a party that files a frivolous petition for judicial review.
+(7) Petitions and briefs must be filed within time periods and in  a manner established by the
+Court of Appeals by rule.
+(8) The Court of Appeals shall:
+(a) Hear oral argument within 49 days of the date of transmittal of the record  unless the Court
+of Appeals determines that the ends of justice served  by holding oral argument on a later day out-
+weigh the best interests of the public and the parties. However, the Court of Appeals may not hold
+oral argument more than 49 days after the date of transmittal of the record because  of general
+congestion of the court calendar or lack of diligent preparation or attention to the case by a member
+of the court or a party.
+(b) Set forth in writing and provide  to the parties a determination to hear oral argument more
+than 49 days  from the date the record is transmitted, together with the reasons for the determi-
+nation. The Court of Appeals shall schedule oral argument as soon as is practicable.
+(c) Consider, in making a determination under paragraph (b) of this subsection:
+(A) Whether the case is so unusual or complex, due to  the number of parties or the existence
+of novel questions of law, that 49 days is an unreasonable amount of time for  the parties to brief
+the case and for the Court of Appeals to prepare for oral argument; and
+(B) Whether the failure to hold  oral argument at a later date likely would result in a miscar-
+riage of justice.
+(9) The court:
+(a) Shall limit judicial review of an order reviewed under this section to the record.
+(b) May not substitute its judgment for that of the Land Conservation and Development Com-
+mission as to an issue of fact.
+(10) The Court of Appeals may affirm, reverse or remand an order  reviewed under this section.
+The Court of Appeals shall reverse or remand the order only if the court finds the order is:
+(a) Unlawful in substance or procedure.  However, error in procedure is not cause for reversal
+or remand unless the  Court of Appeals determines that substantial rights of the petitioner were
+prejudiced.
+(b) Unconstitutional.
+(c) Not supported by substantial  evidence in the whole record as to facts found by the commis-
+sion.
+(11) The Court of Appeals shall issue a final order on the petition for judicial review with the
+greatest possible expediency.
+(12) If  the order of the commission is remanded by the Court of Appeals or the Supreme Court,
+the commission shall respond to the court’s appellate judgment within 30 days.
+SECTION 6.
+ ORS 268.390 is amended to read:
+268.390. (1) A district may define and apply a planning procedure that  identifies and designates
+areas and activities having significant impact upon the orderly and responsible development  of the
+metropolitan area, including, but not limited to, impact on:
+(a) Air quality;
+(b) Water quality; and
+(c) Transportation.
+(2) A district may prepare and adopt functional plans for those areas  designated under sub-
+section (1) of this  section to control metropolitan area impact on air and water quality, transporta-
+tion and other aspects of metropolitan area development the district may identify.
+(3)(a) A district shall adopt an urban growth boundary for the district in compliance with ap-
+plicable goals adopted under ORS chapters 195,  196, 197 and 197A. When a district includes land
+designated as  urban reserve under ORS 197A.245 [ (1)(b)] (1)(c)  within an urban growth boundary
+pursuant to ORS  197A.355 (1), the district is not required to consider the capability classification
+system or the cubic foot site class of the land as described in ORS 197A.355 (2).
+(b) Notwithstanding the  procedural requirements for boundary changes under ORS 268.354, when
+the district adopts an urban growth boundary,  the urban growth boundary becomes the boundary
+of the district.
+(4) A  district may review the comprehensive plans adopted by the cities and counties within the
+district that affect areas designated by the district under subsection (1)  of this section or the urban
+growth boundary adopted under subsection (3) of this section and recommend or  require cities and
+counties, as it  considers necessary, to make changes in any plan to ensure that the plan and any
+actions taken under the plan substantially  comply with the district’s functional plans adopted under
+subsection (2) of this section and its urban growth boundary  adopted under subsection (3) of this
+section.
+(5) Pursuant to a regional framework plan, a district may adopt implementing ordinances that:
+(a) Require local comprehensive plans and implementing  regulations to substantially comply
+with the regional framework plan within two years after compliance acknowledgment.
+(b) Require adjudication and determination by the  district of the consistency of local compre-
+hensive plans with the regional framework plan.
+(c) Require each city and county within the jurisdiction of the district and making land use  de-
+cisions  concerning  lands within the land use jurisdiction of the district to make those decisions
+consistent with the regional framework plan.  The obligation to apply the regional framework plan
+to land use decisions shall not  begin until one year after the regional framework plan is acknowl-
+edged as complying with the statewide land use planning goals adopted under ORS chapters 195, 196,
+197 and 197A.
+(d) Require changes in local land use standards and procedures if the  district determines that
+changes are necessary to remedy a pattern or practice  of decision-making inconsistent with the re-
+gional framework plan.
+(6) A process established by the district to enforce the requirements of this section must provide:
+(a) Notice of noncompliance to the city or county.
+(b) Opportunity for the city or county to be heard.
+(c) Entry of an order by the district explaining its  findings, conclusions and enforcement reme-
+dies, if any.
+(7) Enforcement remedies ordered  under subsection (6) of this section may include, but are not
+limited to:
+(a) Direct application of specified requirements  of functional plans to land use decisions by the
+city or county;
+(b) Withholding by the district of discretionary funds from the city or county; and
+(c) Requesting an enforcement action pursuant to ORS 197.319 to 197.335  and withholding mon-
+eys pursuant to an enforcement order resulting from the enforcement action.
+(8) An order issued under subsection (6) of this section:
+(a) Must provide for relief  from enforcement remedies upon action by the city or county that
+brings the comprehensive plan and implementing  regulations into substantial compliance with the
+requirement.
+(b) Is subject to review under ORS 197.830 to 197.845 as a land use decision.
+(9) The regional framework plan, ordinances that  implement the regional framework plan and
+any determination by the  district of consistency with the regional framework plan are subject to
+review under ORS 197.274.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 197.651, ORS 197A.242, ORS 197A.245, ORS 268.390
+- From bill text (Introduced version): ORS 190.003, ORS 197.274, ORS 197.319, ORS 197.610, ORS 197.626, ORS 197.628, ORS 197.651, ORS 197.732, ORS 197.830, ORS 197A.235, ORS 197A.242, ORS 197A.245, ORS 197A.270, ORS 197A.280, ORS 197A.355, ORS 268.354, ORS 268.390
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `59d2cf6d7d1cc4884a94fb8064849226b4e85755ac64370eb83061b09427189e` (snapshot `_meta/snapshots/measure-2025r1-sb521-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB521/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 521> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

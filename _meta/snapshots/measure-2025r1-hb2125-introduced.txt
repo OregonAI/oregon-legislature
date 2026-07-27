@@ -1,0 +1,147 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2125
+Sponsored by Representative NOSSE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  would let the unpaid first week of an unemployment claim be waived for a
+worker who is  away from work due to a severe weather emergency. (Flesch Readability Score: 60.5).
+Authorizes the Director of the Employment Department to waive the unpaid  waiting week pe-
+riod for unemployment insurance claimants who  are unable to perform services due a state-declared
+emergency related to severe weather.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to unemployment benefits for weather-related emergencies;  creating new provisions;
+amending ORS 657.155 and section 4, chapter  180, Oregon Laws 2023; repealing section 5,
+chapter 43, Oregon Laws 2021; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 657.155 is amended to read:
+657.155. (1) An unemployed individual shall be eligible to receive benefits with respect to any
+week only if the Director of the Employment Department finds that all of the following are true :
+(a)(A) The individual has registered for work [ at and thereafter  has ], and  continued to report ,
+at an employment office in accordance with such rules as the director may prescribe.
+(B) [ However ] Notwithstanding subparagraph (A) of this paragraph , the director may, [ by
+rule] under rules prescribed by the director , waive or alter [ either or both of ] the requirements
+of this [ subsection as to individuals attached to regular jobs and as  to such other types of cases or
+situations with respect to which ] paragraph if  the  director finds that compliance with [ such] the
+requirements would be oppressive[ ,] or [ would be ] inconsistent with  the purposes of this chapter[ ;
+provided, that no such rule conflicts ]. A rule prescribed pursuant to this subparagraph may not
+conflict with ORS 657.255.
+(b) The individual has made a claim for  benefits with respect to such week in accordance with
+ORS 657.260.
+(c) The individual is able to work, is available for work[ ,] and is actively  seeking and unable to
+obtain suitable work. No individual participating in a community work  and training program, as
+defined in ORS 411.855, shall, solely by reason [ thereof] of the  participation, be considered una-
+vailable for work [ within the meaning ] for purposes of this section.
+(d) The individual has been unemployed for a waiting period of one week, unless :
+(A) The Governor has waived the required waiting period as provided in ORS 401.186[ .]; or
+(B) The director, under  rules prescribed by the director, has waived the waiting period
+for individuals temporarily unable to perform services for the individuals’ employers  due to
+an emergency declared under ORS 401.186 in response to severe weather.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1946
+HB 2125
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+(e) The individual is not disqualified from benefits or ineligible for benefits under any other
+section of this chapter.
+(f) The individual is qualified for benefits under ORS 657.150.
+(2)(a) An individual who leaves the individual’s normal labor market area for the major  portion
+of any week is presumed to be unavailable for work [ within the  meaning] for purposes of this sec-
+tion.
+(b) The presumption  described in paragraph (a) of this subsection may be overcome if the indi-
+vidual establishes to the satisfaction of the director that the individual:
+(A) Has  conducted a bona fide search for work and has been reasonably accessible to suitable
+work in the labor market area in which the individual spent the major portion of the week to  which
+the presumption applies; or
+(B) Was required to  be outside the individual’s normal labor market area to apply for suitable
+employment within the individual’s normal labor market.
+(3) The director shall  [ either], in the manner provided in ORS 657.267 and 657.268,  promptly
+allow credit or pay benefits for any week for which benefits are claimed or promptly give notice of
+denial [ thereof in the manner provided in ORS 657.267 and 657.268 ] of the claim .
+SECTION 2.
+The amendments to ORS 657.155 by  section 1 of this 2025 Act apply to cal-
+endar quarters as defined in ORS 657.010 that begin on or after January 1, 2026.
+SECTION 3.  Section 4, chapter 180, Oregon Laws 2023, is amended to read:
+Sec. 4.  (1) If the United States Secretary of Labor serves notice that any provisions  of [ ORS
+657.221, as amended by section  1 of this 2023 Act, or rules adopted under ORS 657.221, as amended
+by section 1 of this 2023 Act, ] the statutes listed in subsection (2) of this section, or rules
+adopted under the statutes, fail to meet the requirements of the Social Security Act or the Federal
+Unemployment Tax Act, the nonconforming provisions or rules shall no longer be of any force or
+effect.
+(2) The statutes referred to in subsection (1) of this section are:
+(a) ORS 657.010, as amended by section 1, chapter 43, Oregon Laws 2021.
+(b) ORS 657.221, as amended by section 1, chapter 180, Oregon Laws 2023.
+(c) ORS 657.155, as amended by section 1 of this 2025 Act.
+[(2)] (3) The Director  of the Employment Department shall notify the Legislative Counsel as
+soon as practicable after receipt of the notice described in subsection (1) of this section.
+SECTION 4.
+Section 5, chapter 43, Oregon Laws 2021, is repealed.
+SECTION 5. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

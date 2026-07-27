@@ -1,0 +1,99 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2645
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that a law enforcement unit may not discipline  a police officer because the
+officer’s name has been put on  a certain list of witnesses kept by the DA. The Act tells DAs to write
+policies. (Flesch Readability Score: 65.1).
+Prohibits a law enforcement unit  from disciplining a police officer because the officer’s name
+has been placed on a list maintained by a prosecutor’s office of  recurring witnesses for whom there
+is known potential impeachment information, or  because the officer’s name may otherwise be subject
+to disclosure pursuant to Brady v. Maryland, 373 U.S. 83 (1963).
+Requires a district attorney to develop and adopt a written protocol addressing  potential
+impeachment disclosures.
+A BILL FOR AN ACT
+Relating to disclosures of impeachment information by prosecutors.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section and section 2 of this 2025 Act:
+(a) “Law enforcement unit” has the meaning given that term in ORS 181A.355.
+(b) “Police officer” has the meaning given that term in ORS 181A.355.
+(2) A law enforcement  unit may not take disciplinary action or any other adverse em-
+ployment action against a police officer solely because:
+(a) The officer’s name has been placed on a list maintained  by a prosecutor’s office of
+recurring witnesses for whom there is known potential impeachment information; or
+(b) The officer’s name may otherwise be  subject to disclosure pursuant to Brady v.
+Maryland, 373 U.S. 83 (1963).
+(3) This section does not prohibit a law enforcement unit from taking disciplinary  action
+or any other adverse employment action against a police officer based  on the underlying acts
+or omissions for which the officer’s name was  placed on a list maintained by a prosecutor’s
+office of recurring witnesses for whom there is known potential impeachment information,
+or for  which the officer’s name is otherwise subject to disclosure pursuant to Brady v.
+Maryland, 373 U.S. 83  (1963), if the actions taken by the law enforcement unit otherwise
+conform to the rules  and procedures adopted by the law enforcement unit as determined
+through collective bargaining.
+SECTION 2.
+(1) Each district  attorney shall develop and adopt a written protocol ad-
+dressing potential impeachment disclosures pursuant to Brady  v. Maryland, 373 U.S. 83
+(1963), and subsequent case  law. The protocol must provide guidance including, but not lim-
+ited to:
+(a) The  types of conduct that should be recognized as potentially exculpatory or as cre-
+ating potential impeachment material;
+(b) Provisions for written notice to a police officer when the district attorney proposes
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3664
+HB 2645
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+to place the officer on a list of potential impeachment disclosures and an opportunity for the
+officer to respond in person or in writing;
+(c) Provisions for written notice to  the officer of the district attorney’s final decision to
+place the officer on a list of potential impeachment disclosures;
+(d) How information about an officer or an officer’s conduct should be shared  and main-
+tained; and
+(e) Under what circumstances an officer’s information or name may  be removed from a
+list of potential impeachment disclosures.
+(2) A district  attorney shall consult with agencies representing police officers and local
+law enforcement units that will be impacted in developing the protocol under this section.
+[2]

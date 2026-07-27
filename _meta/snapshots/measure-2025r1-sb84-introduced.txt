@@ -1,0 +1,60 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 84
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Natural Resources and Wildfire)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells a city or county  that went by earlier building code rules to protect houses against
+wild fires that  the city or county can still use the earlier rules even if the state makes new rules.
+Says that the city or county  shall keep using the rules that it used before. (Flesch Readability Score:
+68.1).
+Exempts local governments  that adopted and continue to enforce certain wildfire hazard miti-
+gation standards from the application of state standards that are based on specified wildfire hazard
+classes.
+A BILL FOR AN ACT
+Relating to local government authority on wildfire policy; amending ORS 455.612.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 455.612 is amended to read:
+455.612. (1) For the high wildfire hazard zone in  the wildland-urban interface that is identified
+[pursuant to ] under  ORS 477.490, the Department of Consumer and Business  Services shall adopt
+wildfire hazard mitigation building code standards that  apply to new dwellings and the accessory
+structures of dwellings, as described in section  R327 of the 2021 Oregon Residential Specialty Code.
+(2) The department shall amend section R327 of the Oregon  Residential Specialty Code to in-
+clude standards for additions to existing dwellings and accessory structures  and for replacement of
+existing exterior elements covered in section R327 of the 2021 Oregon Residential Specialty Code.
+(3) The department shall incorporate the standards described in subsections (1)  and (2) of this
+section into any updates to the Oregon Residential Specialty Code.
+(4) Notwithstanding subsections (1) to (3) of this section, a local government  that before
+July 19, 2021, adopted and continues to enforce wildfire hazard mitigation building code
+standards described in section R327 of the 2021 Oregon Residential Specialty  Code is not
+subject to restrictions based  on the wildfire hazard classifications described in subsection (1)
+of this section. The local government  shall adhere to the version of section R327 of the
+Oregon Residential Specialty Code that the local government most recently adopted.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3456

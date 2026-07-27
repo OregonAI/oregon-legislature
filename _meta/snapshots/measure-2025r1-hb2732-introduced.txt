@@ -1,0 +1,132 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2732
+Sponsored by Representative BOICE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes the tax credit  for crop gifts by raising percentage of value allowed.
+(Flesch Readability Score: 67.5).
+Increases, for purposes of  tax credit allowed for crop donation, percentage of wholesale price
+allowed as amount of credit.
+Applies to tax years beginning on or after January 1, 2025.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to tax credits for crop donation; creating new provisions; amending ORS  315.156 and sec-
+tion 5, chapter 913, Oregon Laws 2009; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 315.156 is amended to read:
+315.156. (1) A taxpaying individual or corporation that is a grower of a crop  and that makes a
+qualified donation of the crop shall be allowed a credit against the taxes otherwise  due under ORS
+chapter 316 or, if the taxpayer is a corporation, under ORS chapter 317 or 318, as follows:
+(a) In the case of a qualified donation made under circumstances described in ORS 315.154  (5)(a)
+or (b),  the amount of the credit shall be [ 15] 25 percent of the value of the quantity of the crop do-
+nated computed at the wholesale market price.
+(b) In the case of a qualified donation  made under circumstances described in ORS 315.154 (5)(c),
+the amount of the credit shall be [ 15] 25 percent of the value of the quantity of the crop donated
+computed at the wholesale market price that the grower would have received  had the quantity of
+the crop donated been sold or salable.
+(2) At the  time of donation, the director, supervisor or other appropriate official of the entity
+to which a qualified donation  is made shall supply to the grower of the crop donated two copies of
+a form prescribed by the Department of Revenue. The forms shall contain:
+(a) The name and address of the grower;
+(b) The description and quantity of the donated crop;
+(c) The signature of the director, supervisor or other appropriate  official of the entity receiving
+the donated crop verifying that the produce was or  will be distributed to children or homeless, un-
+employed, elderly or low-income individuals;
+(d) The wholesale market price; and
+(e) Other information required by the Department of Revenue by rule.
+(3) Tax claim for tax credit shall be substantiated by submission  with the tax return, of the form
+described in subsection (2) of  this section, a statement verified by the taxpayer that the qualified
+donation was made under circumstances described in ORS  315.154 (5) and a copy of an invoice or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2744
+HB 2732
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+other statement identifying the  price received by the grower for the crops of comparable grade or
+quality if there is  a previous cash buyer. The requirement for substantiation may be waived par-
+tially, conditionally or absolutely, as provided under ORS 315.063.
+(4) Any tax credit otherwise allowable under this  section that is not used by the taxpayer in a
+particular tax year may be carried forward and offset against the taxpayer’s tax liability for the next
+succeeding tax year. Any credit remaining unused in the next succeeding tax year  may be carried
+forward and used in  the second succeeding tax year, and likewise, any credit not used in that second
+succeeding tax year may be carried forward and used  in the third succeeding tax year, but may not
+be carried forward for any tax year thereafter.
+(5)(a) A nonresident individual  shall be allowed the credit computed under this section in the
+same manner and subject  to the same limitations as the credit allowed a resident by this section.
+However, the credit shall be prorated using the proportion provided in ORS 316.117.
+(b) If a change in the taxable year of a taxpayer occurs as described in ORS 314.085,  or if the
+department terminates the taxpayer’s taxable year under ORS 314.440, the credit allowed by this
+section shall be prorated or computed in a manner consistent with ORS 314.085.
+(c) If a change in the status of a taxpayer from resident to  nonresident or from nonresident to
+resident occurs, the credit allowed by this section shall be determined  in a manner consistent with
+ORS 316.117.
+SECTION 2.
+ Section 5, chapter 913, Oregon Laws 2009, as amended by section  1, chapter 115,
+Oregon Laws 2014, and section 38, chapter 579, Oregon Laws 2019, is amended to read:
+Sec. 5.  Except as provided in ORS 315.156  (4), a credit may not be claimed under ORS 315.156
+for tax years beginning on or after January 1, 2012, and before January 1, 2014, or  on or after
+January 1, [ 2026] 2032.
+SECTION 3. The amendments to ORS 315.156 by section 1 of this 2025 Act apply to tax
+years beginning on or after January 1, 2025, and before January 1, 2032.
+SECTION 4. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

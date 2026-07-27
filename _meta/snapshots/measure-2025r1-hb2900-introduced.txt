@@ -1,0 +1,277 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2900
+Sponsored by Representative NERON; Representatives CHAICHI, FRAGALA,  NGUYEN H, PHAM H, Senator
+GOLDEN (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would change  some law for probationary teachers. (Flesch Readability Score:
+66.1).
+Clarifies the definitions of  “contract teacher” and “probationary teacher.” Requires a
+probationary teacher who has completed a three-year probationary period at one school district  to
+complete a maximum one-year  probationary period upon assuming employment with a new school
+district. Establishes a mandatory 60-day  improvement period for those probationary teachers if per-
+formance deficiencies arise.
+A BILL FOR AN ACT
+Relating to teachers; amending ORS 342.815, 342.835 and 342.850.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 342.815 is amended to read:
+342.815. As used in ORS 342.805 to 342.937 unless the context requires otherwise:
+(1) Notwithstanding ORS  342.120, “administrator” includes any teacher the majority of whose
+employed time is devoted to service as a supervisor, principal, vice  principal or director of a de-
+partment or  the equivalent in a fair dismissal district but shall not include the superintendent,
+deputy superintendent or assistant superintendent of any such district  or any substitute or tempo-
+rary teacher employed by such a district.
+(2) “Board” means the board of directors of a fair dismissal school district.
+(3) “Contract teacher” means :
+(a) Any teacher who  has been regularly employed by a [ school district ] fair dismissal district
+for a probationary period of three successive school  years, and who has been retained for the next
+succeeding school year.
+(b) Any teacher who has been regularly employed  by a fair dismissal district for a mini-
+mum duration not to exceed one year and  who has already satisfied the three-year
+probationary period in another Oregon school district.  [ The district  school board may enter into
+agreements that provide for a  shorter probationary period of not less than one year for teachers who
+have satisfied the three-year probationary period in another Oregon school district. ]
+(4) “District superintendent” means the superintendent of schools of a fair dismissal district or,
+in the absence of the superintendent, the person designated to fulfill the  superintendent’s functions.
+(5) “Fair dismissal district” means any common or union high school district  or education ser-
+vice district.
+(6) “Probationary teacher” means  any teacher employed by a fair dismissal district who is not
+a contract teacher  and who is in the process of completing:
+(a) The probationary period of three successive school years of service; or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1771
+HB 2900
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) The probationary period of not more  than one year of service at a school district if
+the teacher has already satisfied the three-year probationary period  in another Oregon
+school district.
+(7) “Program  of assistance for improvement” means a written plan for a contract teacher  or a
+probationary teacher that with reasonable specificity:
+(a) Helps teachers adapt and  improve to meet changing demands of the Oregon Educational Act
+for the 21st Century in ORS chapter 329 if applicable.
+(b) Identifies specific deficiencies in the [ contract] teacher’s conduct or performance.
+(c) Sets forth corrective  steps the [ contract] teacher may pursue to overcome or correct the de-
+ficiencies.
+(d) Establishes  the assessment techniques by which the district will measure and determine
+whether the teacher has sufficiently corrected the deficiencies to meet district standards.
+(8) “Substitute teacher”  means any teacher who is employed to take the place of a probationary
+or contract teacher who is temporarily absent.
+(9) Notwithstanding  ORS 342.120, “teacher” means any person who holds a teaching license or
+registration as provided in ORS 342.125 or 342.144 or  who is otherwise authorized to teach in the
+public schools of this state and who is employed half-time or more as  an instructor or administrator.
+(10) “Temporary teacher” means a teacher employed to fill a position designated as  temporary
+or experimental or to fill a vacancy which occurs after the opening of school because of unantic-
+ipated enrollment or because of the death, disability, retirement, resignation, contract  nonextension
+or dismissal of a contract or probationary teacher.
+SECTION 2.
+ ORS 342.835 is amended to read:
+342.835. (1) Except as provided in ORS 342.850 (1)(b),  the district board of any fair dismissal
+district may discharge or  remove any probationary teacher in the employ of the district at any time
+during a probationary period for any cause considered in good faith sufficient by the board. The
+probationary teacher shall be given a written copy of the reasons for the dismissal, and upon request
+shall be provided a hearing thereon by the board, at which time the  probationary teacher shall have
+the opportunity to be heard either in person or by a representative of the teacher’s choice.
+(2) For any cause it may deem in good faith sufficient, the district  board may refuse to renew
+the contract of any probationary teacher. However, the teacher  shall be entitled to notice of the
+intended action by March 15, and upon request  shall be provided a hearing before the district board.
+Upon request of the  probationary teacher the board shall provide the probationary teacher a written
+copy of the reasons for the nonrenewal, which shall provide the basis for the hearing.
+(3) If an appeal is taken from any hearing,  the appeal shall be to the circuit court for the county
+in which the headquarters of the school district is located and shall be limited to the following:
+(a) The procedures at the hearing;
+(b) Whether the written copy  of reasons for dismissal required by this section was supplied; and
+(c) In the case of nonrenewal, whether notice of nonrenewal was timely given.
+SECTION 3.
+ ORS 342.850 is amended to read:
+342.850. (1)(a) The district  superintendent of every school district, including superintendents of
+education service districts, shall cause to  have made at least annually but with multiple observa-
+tions an evaluation of performance for each  probationary teacher employed by the district. The
+purpose of the evaluation is to aid  the teacher in making continuing professional growth and to
+determine the teacher’s performance of the teaching responsibilities. Evaluations shall  be based
+upon at least two observations and other relevant information developed by the district.
+[2]
+HB 2900
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) If a probationary teacher is in the  process of completing a probationary period of not
+more than one year of service at a school district after having already satisfied the  three-
+year probationary period in another Oregon school district, and the  teacher receives notice
+of any performance deficiencies, the school  district shall provide the teacher a 60-day pro-
+gram of assistance for improvement. Upon completion of the program of assistance  for im-
+provement, the school district has discretion to renew or refuse to  renew the contract of the
+probationary teacher.
+(2)(a) The  district school board shall develop an evaluation process  for contract teachers  in
+consultation with school administrators and [ with] contract  teachers. If the district’s  teachers are
+represented by a local bargaining organization,  the board shall consult with teachers belonging to
+and appointed by the local bargaining organization in the consultation required by this paragraph.
+(b) The district school board shall implement the evaluation process that includes:
+(A) The establishment of  job descriptions and performance standards which include but are not
+limited to items included in the job description;
+(B) A preevaluation interview which includes but is not limited to the establishment of  per-
+formance goals for the teacher, based on the job description and performance standards;
+(C) An evaluation based on written criteria which include the performance goals;
+(D) A post-evaluation interview in which:
+(i) The results of the evaluation are discussed with the teacher; and
+(ii) A written program of assistance for improvement is established,  if one is needed to remedy
+any deficiency specified in ORS 342.865 (1)(a), (d), (g) or (h); and
+(E) The utilization of peer assistance  whenever practicable and reasonable to aid teachers to
+better meet the needs of students. Peer assistance shall  be voluntary and subject to the terms of any
+applicable collective bargaining agreement.  No witness or document related to the peer assistance
+or the record of peer assistance shall be admissible in  any proceeding before the Fair Dismissal
+Appeals Board, or in a probationary teacher nonrenewal hearing before a  school board under ORS
+342.835, without the mutual consent of the district and the teacher provided with peer assistance.
+(c) Nothing in this subsection is intended to prohibit a district from consulting with any other
+individuals.
+(3) Except in  those districts having an average daily membership, as defined in ORS 327.006, of
+fewer than 200 students, the person or persons making the evaluations must hold teaching  licenses.
+The evaluation shall  be signed by the school official who supervises the teacher and by the teacher.
+A copy of the evaluation shall be delivered to the teacher.
+(4) The evaluation reports shall be maintained in the personnel files of the district.
+(5) The evaluation report shall be placed in the teacher’s personnel  file only after reasonable
+notice to the teacher.
+(6) A teacher may make a written statement relating to any evaluation, reprimand, charge,
+action or any matter placed in the  teacher’s personnel file and such teacher’s statement shall be
+placed in the personnel file.
+(7) All charges resulting in disciplinary action shall be considered a permanent part of a
+teacher’s personnel file and shall not be removed for any reason. A  teacher shall have the right to
+attach the  teacher’s response, or other relevant documents, to any document included under this
+subsection.
+(8) The personnel file shall be  open for inspection by the teacher, the teacher’s designees and
+the district school board and its designees. District school boards  shall adopt rules governing access
+[3]
+HB 2900
+1
+2
+3
+4
+5
+6
+7
+8
+to personnel  files, including rules specifying whom school officials may designate to inspect person-
+nel files.
+(9) A program of assistance for improvement or evaluation procedure  shall not be technically
+construed,  and no alleged error or unfairness in a program of assistance for improvement shall cause
+the overturning of a dismissal, nonextension of contract, nonrenewal of contract or other discipli-
+nary action unless the contract teacher suffered a substantial and prejudicial impairment in the
+teacher’s ability to comply with school district standards.
+[4]

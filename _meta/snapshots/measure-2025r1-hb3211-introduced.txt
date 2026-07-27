@@ -1,0 +1,166 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3211
+Sponsored by Representative LEVY E; Senator BROADMAN (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act directs  OHA to create a directive form about certain drugs a person does not
+want to be given. (Flesch Readability Score: 68.6).
+Requires the Oregon Health Authority to develop and make available a nonopioid directive form.
+A BILL FOR AN ACT
+Relating to health directives.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Emergency medical services provider” means a  person practicing within the scope
+of the person’s license to practice as an emergency medical services provider under  ORS
+chapter 682.
+(b) “Health care advocate” has the meaning given that term in ORS 127.765.
+(c) “Health care facility” has the meaning given that term in ORS 442.015.
+(d) “Health care provider” has the meaning given that term in ORS 127.505.
+(e) “Health care representative” has the meaning given that term in ORS 127.505.
+(f) “Hospital” has the meaning given that term in ORS 442.015.
+(2) The Oregon Health Authority shall develop by rule a nonopioid directive form indi-
+cating to health care providers and emergency medical services providers that,  except as
+otherwise provided in subsection (4) of this section or by rule, an individual who has executed
+the nonopioid directive form or who has had a nonopioid directive form executed on  the
+individual’s behalf may not be administered an opioid or offered a prescription for an opioid.
+The authority shall include on the  nonopioid directive form instructions on how the form
+may be revoked  and any other information that the authority considers relevant. The au-
+thority shall make the form electronically available to the public.
+(3)(a) An individual or an individual’s health care representative or health care  advocate
+may execute a nonopioid directive form on the individual’s behalf.
+(b) If  a nonopioid directive form is executed by or on behalf of an individual and is pre-
+sented to a health care provider, the  health care provider shall make the nonopioid directive
+form a part of the individual’s medical record.
+(c) A nonopioid directive form may be revoked:
+(A) If the form was executed by  the individual, by the individual at any time and in any
+manner by which the individual is able to communicate the individual’s intent to revoke the
+form;
+(B) If the form was executed by the individual’s health care representative, by  the health
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3311
+HB 3211
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+care representative at any time by  issuing the revocation in writing and providing notice of
+the revocation to the individual’s health care provider; or
+(C) If the form was executed by the individual’s health care  advocate, by the health care
+advocate at any time by issuing the revocation  in writing and providing notice of the revo-
+cation to the individual’s health care provider.
+(4) A health  care provider who is authorized to prescribe controlled substances may ad-
+minister or direct the  administration of an opioid to an individual who has executed a
+nonopioid directive form or who has had a nonopioid directive form  executed on the
+individual’s behalf if:
+(a) The individual is being treated at a hospital or in a setting outside of a  hospital in the
+case of an emergency and, in the health care provider’s professional  opinion, the adminis-
+tration of the opioid is medically necessary to treat the individual. If an  opioid is adminis-
+tered under this paragraph, the health care  provider shall ensure that the individual is
+provided with information on substance use disorder treatment  and services as defined in
+ORS 414.780; or
+(b) The opioid is for intraoperative use.
+(5) Except as otherwise provided  by law, the following are not subject to civil or criminal
+liability or  professional disciplinary action for failing to administer, prescribe or dispense an
+opioid, or for the inadvertent administration of an opioid, to an  individual who has executed
+a nonopioid directive form or  who has had a nonopioid directive form executed on the
+individual’s behalf, if the failure to act or act was done reasonably and in good faith:
+(a) A health  care provider whose scope of practice includes the prescribing, administering
+or dispensing of a controlled substance.
+(b) A health care facility.
+(c) An employee of a health care provider.
+(d) An employee of a health care facility.
+(e) Emergency medical services providers.
+(6) Subject to subsection (7) of this section, the authority shall  adopt rules to implement
+this section. The rules must include, but are not limited to, the following:
+(a) Procedures to record a nonopioid directive form in a patient’s medical record.
+(b) Procedures to revoke a nonopioid directive form.
+(c) Procedures to  ensure that the recording, disclosure or distribution of data relating
+to a nonopioid directive form or the transmission of  a nonopioid directive form complies with
+state and federal confidentiality and consent laws, rules and regulations.
+(d) Exemptions for administering or prescribing  an opioid to an individual who has exe-
+cuted a nonopioid directive form or who has had a nonopioid directive form  executed on the
+individual’s behalf if the opioid is administered or prescribed to treat the individual for  a
+substance use disorder.
+(e) Exemptions for administering or prescribing an opioid  to an individual who has exe-
+cuted a nonopioid directive form or who has had a nonopioid directive form executed on the
+individual’s behalf if the individual is a hospice patient.
+(7) The rules adopted under this section must allow a health care provider or health care
+facility to incorporate a nonopioid directive form into an existing patient form  or into other
+documentation used by the health care provider or health care facility or agency.
+[2]

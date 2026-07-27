@@ -1,0 +1,247 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3127
+Sponsored by Representative OWENS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would tell people with medical  jobs to report deaths to the state using an
+electronic system. (Flesch Readability Score: 61.6).
+Requires medical certifiers and medical examiners to use the state electronic reporting system
+to report deaths to the Center for Health Statistics.
+A BILL FOR AN ACT
+Relating to reports of death; amending ORS 432.133.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 432.133 is amended to read:
+432.133. (1)(a) A report of death for each death  that occurs in this state must be submitted to
+the county registrar of the county in which the death occurred or to the Center  for Health Statis-
+tics, or as otherwise directed by the State Registrar of the Center for Health Statistics,  within five
+calendar days after death or the  finding of a dead body and before final disposition, and must be
+registered if it has been completed and submitted in accordance with this section.
+(b) If the place of death is unknown, but the dead body is found  in this state, the report of death
+must be completed and submitted in  accordance with this section. The place where the body is found
+must be noted as the place of death except,  if in an emergency the decedent is moved by conveyance
+to another county and is dead on arrival, the death shall be considered to have occurred  in the
+county from where the body was originally moved.
+(c) When death occurs in a moving conveyance within  or outside the United States and the body
+is first removed from the conveyance in this state, the death  must be registered in this state and the
+place where the body is first  removed shall be deemed the place of death. The report of death may
+note the actual location of death insofar as it can be determined.
+(d) In all other cases, the place where death is pronounced shall be considered  the place where
+death occurred.
+(e) If the date  of death is unknown, the medical certifier shall determine the date by approxi-
+mation. If the date cannot be determined by approximation,  the date that the body was found shall
+be entered on the report of death.
+(2)(a) The funeral service practitioner or person acting as a funeral service  practitioner who
+first assumes custody of the dead body shall submit the  report of death to the county registrar of
+the county in which the death occurred or  to the Center for Health Statistics. In cases where there
+is no funeral service practitioner or  person acting as a funeral service practitioner, the medical
+examiner shall submit the report of death through the state electronic reporting system .
+(b) The funeral service practitioner or person acting as the funeral service practitioner  shall
+obtain the personal data from the next of kin or the best qualified  person or source available and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1862
+HB 3127
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+shall obtain the medical certification from the person responsible for the medical certification.
+(c) The funeral service practitioner or person acting as the funeral service practitioner shall
+provide sufficient information to identify the decedent to the medical certifier within  48 hours after
+death unless the medical certification has already been submitted.
+(3) A medical certification shall be completed  through the state  electronic reporting system
+within 48 hours after having access to the report  of death by the decedent’s primary or attending
+medical certifier who was in charge of  the care of the patient for the illness or condition that re-
+sulted in death, except when inquiry is required under ORS chapter  146. In the absence or inability
+of the medical certifier, or with the medical certifier’s approval, the report of death  may be com-
+pleted through the state electronic reporting system  by an associate of  the medical certifier, the
+chief medical officer of the institution where death occurred  or the physician who performed an
+autopsy upon the decedent, provided that the associate,  chief medical officer or physician has access
+to the medical history of the case and death is due to natural causes. The person completing  the
+cause of death shall attest to its accuracy [ either by signature or ] by electronic signature.
+(4) When inquiry is required under ORS chapter 146, the medical examiner in the  jurisdiction
+where death occurred or the body was found shall determine the cause  and manner of death and
+shall use the state electronic reporting system to  complete and sign the medical  certification
+within 48 hours after taking charge of the case. If the cause or manner of death  is unknown or
+pending investigation, the cause or manner of death shall be noted as such on the report of death.
+(5) When the death  occurs in a hospital where more than 10 deaths occurred during the previous
+calendar year, the person in charge of the hospital shall require  the medical certification to be re-
+ported through the state  electronic reporting system and the report of death to include the elec-
+tronic signature of the medical certifier.
+(6)(a) When a death occurs in a hospital described in subsection (5)  of this section and the death
+is not under the jurisdiction of a medical examiner, the person in charge of  the hospital or the
+designated representative of the person in  charge of the hospital shall enter the following informa-
+tion on the report of death within 48 hours of death:
+(A) If the report of death does not exist in the state electronic reporting  system, the name of
+the decedent, the  date of the decedent’s birth, the date of the decedent’s death and the county in
+which the decedent died; and
+(B) The medical certification of death, accompanied by the [ signature or ] electronic signature
+of the person completing the cause of death as described in subsection (3) of this section.
+(b) The partially completed report of death prepared under  this subsection shall be made avail-
+able to the funeral  service practitioner or person acting as a funeral service practitioner within 48
+hours of death.
+(7) Upon receipt  of autopsy results or other information that would change the information re-
+lated to the cause or  manner of death, a medical certifier or medical examiner shall  use the state
+electronic reporting system to  submit an amendment to the record of death within five calendar
+days to the Center for Health Statistics.
+(8) When a death that is not the subject of a presumptive death  proceeding in a court in this
+state or another state is presumed to have occurred in this state as the result of a known  event in
+this state, but  no remains of the presumed deceased can be located, a report of death may be pre-
+pared by the Chief Medical  Examiner upon receiving an order from a court of competent jurisdiction
+that contains findings of fact necessary to complete the report of death.  A report of death prepared
+under this subsection [ shall] must be submitted  through the state electronic reporting system,
+[2]
+HB 3127
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+be marked or flagged “Presumptive” and [ must] show on its face the  date of death as determined
+by the court, the date of registration, the identity of the court and the date of the order.
+(9) When a death of a missing person domiciled in this state, and that is not the subject  of a
+presumptive death proceeding in a court of this state or another state, has been determined  by a
+court of competent jurisdiction to  have presumptively occurred in another state, a report of death
+may be prepared by the Chief Medical Examiner upon receiving an order from the court that  con-
+tains findings of fact necessary to complete  the report of death. A report of death prepared under
+this subsection [ shall] must be  submitted through the state electronic reporting system,  be
+marked or flagged “Presumptive” and [ must] show on its face the date  of death as determined by the
+court, the date of registration, the identity of the court and the date of the order.
+(10) When a death occurring in this state has not been registered as prescribed by  this section,
+a report  of death may be submitted to the state registrar as described in this section provided that
+the medical certifier or medical examiner  and the funeral service practitioner or person acting as
+a funeral service practitioner are available to complete the  report of death. If the report of death
+is submitted more than one  year after the date of death or the date on which the body was found,
+the medical certifier or  medical examiner and funeral service practitioner or person acting as a fu-
+neral service practitioner shall state in accompanying  notarized statements that the information
+submitted is based on records kept in the files  of the medical certifier or medical examiner and fu-
+neral service practitioner or person acting as a funeral service practitioner. If the  medical certifier
+or medical  examiner and funeral service practitioner or person acting as a funeral service practi-
+tioner are unavailable to complete the report of death, or decline to complete the report  death, then
+the death shall  not be registered except upon the receipt of an order from a court of competent ju-
+risdiction.  A medical certifier or medical examiner that submits a report of  death under this
+subsection shall use the state electronic reporting system.
+(11) A report of death required  to be submitted under this section must contain the Social Se-
+curity number of the decedent when the  Social Security number is reasonably available from other
+records related to the decedent or can be obtained from the person in charge  of the final disposition
+of the decedent.
+(12) For a decedent who was homeless at the time of  death, including a decedent who was
+homeless but receiving care at a hospital or other institution, a report of death required to  be sub-
+mitted under this section must  indicate that the decedent’s residence address was “Domicile Un-
+known.”
+(13) If a decedent’s death was caused by suicide, the person who submits the report of death  to
+the county registrar or to the Center  for Health Statistics, or as otherwise directed by the state
+registrar, shall make reasonable efforts to ascertain whether  the decedent was a veteran and, if the
+decedent was a veteran, whether the decedent served in  combat and, if so, where the decedent
+served. Information acquired under this subsection must be reported  to the Center for Health Sta-
+tistics through the state electronic reporting system.
+[3]

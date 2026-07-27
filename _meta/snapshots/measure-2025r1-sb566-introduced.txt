@@ -1,0 +1,161 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 566
+Sponsored by Senator ANDERSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: For the part of the state in the Pacific Time Zone, stops the one-hour  change of time in
+the spring and fall  of each year and keeps the zone at standard time year-round if CA and WA states
+do the same within 10 years. (Flesch Readability Score: 64.1).
+For the part of the state located in the Pacific Time Zone,  abolishes the annual one-hour change
+in time from standard time  to daylight saving time and maintains the Pacific Time Zone portion of
+Oregon on standard time for all 12 months of the calendar  year, if California and Washington make
+the same change within the next 10 years. Restores  current time standards if California and
+Washington do not make the standard time change within 10 years.
+A BILL FOR AN ACT
+Relating to standards of time; creating new provisions; amending  ORS 187.110; and repealing
+sections 2 and 3, chapter 421, Oregon Laws 2019.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 and 3, chapter 421, Oregon Laws 2019, are repealed.
+SECTION 2.  ORS 187.110 is amended to read:
+187.110. (1) The standard of time  for the State of Oregon shall be the United States standard
+of time as established by the Congress of the United States for any particular area of the  state un-
+der 15 U.S.C. 261[ , except that from 2 a.m. on the second Sunday in March  until 2 a.m. on the first
+Sunday in November the standard of time for any area of this state  shall be one hour in advance of
+the standard established for that particular area by the Congress  of the United States under 15 U.S.C.
+261].
+(2) The portion of the State of Oregon that is located  in the Pacific Time Zone is exempt
+from 15 U.S.C. 260a, pursuant to the authority set forth in 15 U.S.C. 260a (a)(2).
+[(2)] (3) No  department of the state government and no county, city or other political subdivision
+shall employ any other time  or adopt any statute, ordinance or order providing for the use of any
+other standard of time.
+SECTION 3.  ORS 187.110, as amended by section 1, chapter 421, Oregon Laws 2019,  is amended
+to read:
+187.110. (1) The standard of time for the State of Oregon shall be [ one hour  in advance of ] the
+United States standard  of time as established by the Congress of the United States for any partic-
+ular area of the state under 15 U.S.C. 261 . [ , except that: ]
+[(a) The standard of time for that portion of the State  of Oregon that is in the Mountain Time Zone
+shall be the United States standard of time as established by the Congress of the United  States for that
+area under 15 U.S.C. 261; and ]
+[(b) From 2 a.m. on the second Sunday in March until 2 a.m. on the first Sunday in November the
+standard of time for that portion  of the State of Oregon that is in the Mountain Time Zone shall be
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1319
+SB 566
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+one hour in advance of the standard established for that area  by the Congress of the United States
+under 15 U.S.C. 261. ]
+(2) The portion of the State of Oregon that is located  in the Pacific Time Zone is exempt
+from 15 U.S.C. 260a, pursuant to the authority set forth in 15 U.S.C. 260a (a)(2).
+[(2)] (3) No  department of the state government and no county, city or other political subdivision
+shall employ any other time or adopt any statute, ordinance or order providing for  the use of any
+other standard of time.
+SECTION 4.
+ ORS 187.110, as amended by sections 1 and 4, chapter 421, Oregon Laws  2019, is
+amended to read:
+187.110. (1) The standard of time for the State of Oregon shall  be the United States standard
+of time as  established by the Congress of the United States for any particular area of the state un-
+der 15 U.S.C. 261[ , except that from  2 a.m. on the second Sunday in March until 2 a.m. on the first
+Sunday in November the standard of time for  any area of this state shall be one hour in advance of
+the standard established for that particular area by the Congress  of the United States under 15 U.S.C.
+261].
+(2) The portion of the State of Oregon that is located  in the Pacific Time Zone is exempt
+from 15 U.S.C. 260a, pursuant to the authority set forth in 15 U.S.C. 260a (a)(2).
+[(2)] (3) No  department of the state government and no county, city or other political subdivision
+shall employ any other time or adopt any statute, ordinance or order providing for  the use of any
+other standard of time.
+SECTION 5. The amendments  to ORS 187.110 by sections 2, 3 and 4 of this 2025 Act be-
+come operative at 2 a.m. on the second Sunday  of the first March in which the standard time
+in the  States of California and Washington is the United States standard of time for
+California and Washington and does not contain a one-hour advancement of the  standard
+time in those states.
+SECTION 6. If the amendments to ORS 187.110 by sections 2, 3 and 4 of this 2025 Act
+have not become operative by March 1, 2035, section 5 of this 2025 Act is repealed on March
+1, 2035.
+SECTION 7.
+ If section  5 of this 2025 Act is repealed by section 6 of this 2025 Act, on March
+1, 2035, ORS 187.110, as amended by sections 2, 3 and 4 of this 2025 Act, is amended to read:
+187.110. (1) The standard of time for the State of Oregon shall  be the United States standard
+of time as  established by the Congress of the United States for any particular area of the state un-
+der 15 U.S.C. 261 , except that from 2 a.m. on the second Sunday  in March until 2 a.m. on the
+first Sunday in November the standard of time for any area of this state shall  be one hour
+in advance of the standard established for that particular area by the Congress of  the United
+States under 15 U.S.C. 261 .
+[(2) The portion  of the State of Oregon that is located in the Pacific Time Zone is exempt from 15
+U.S.C. 260a, pursuant to the authority set forth in 15 U.S.C. 260a (a)(2). ]
+[(3)] (2) No  department of the state government and no county, city or other political subdivision
+shall employ any other time or adopt any statute, ordinance or order providing for  the use of any
+other standard of time.
+[2]

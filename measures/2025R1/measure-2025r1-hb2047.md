@@ -1,0 +1,561 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2047
+title: 'HB 2047 (2025R1): Declares the state''s public policy regarding the rights of a parent to the
+  care, custody and control of the parent''s child.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2047
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2047/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: b4d46034c4c7ea2fae9fc5e9c5702aa6381d2bc2f79aed30b7464cf63da1160d
+snapshot_id: measure-2025r1-hb2047-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 109.510
+  - ORS 109.520
+  - ORS 109.640
+  - ORS 109.650
+  - ORS 109.670
+  - ORS 109.675
+  - ORS 109.680
+  - ORS 109.685
+  - ORS 109.690
+  - ORS 109.695
+  - ORS 174.109
+  - ORS 31.260
+  - ORS 329.901
+  - ORS 419A.004
+  - ORS 419B.005
+  - ORS 419B.010
+  - ORS 419B.090
+  - ORS 419B.502
+  - ORS 419B.600
+  - ORS 430.620
+  - ORS 435.190
+  - ORS 442.015
+  - ORS 675.530
+  - ORS 676.802
+  - ORS 676.810
+  - ORS 676.815
+  - ORS 677.495
+  - ORS 677.505
+  - ORS 678.375
+  - ORS 683.010
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2047
+prefix_meaning: House Bill
+catch_line: Declares the state's public policy regarding the rights of a parent to the care, custody and
+  control of the parent's child.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act describes a parent's rights to the care, custody and control of the\
+  \ parent's minor child. (Flesch Readability Score: 70.1). \n\tDeclares the state's public policy regarding\
+  \ the rights of a parent to the care, custody and control of the parent's child. \n\tRequires treatment\
+  \ providers to notify and disclose certain information to a minor's parent or guardian when providing\
+  \ services to a minor without parental consent."
+relating_to: Relating to parental rights.
+relating_to_full: Relating to parental rights; creating new provisions; amending ORS 109.640, 109.650,
+  109.670, 109.675, 109.685, 109.690, 109.695 and 419B.090; and repealing ORS 109.680.
+at_the_request_of: null
+lc_number: 827
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-01-21T08:16:43'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 29662
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 109.510
+  - ORS 109.520
+  - ORS 109.640
+  - ORS 109.650
+  - ORS 109.670
+  - ORS 109.675
+  - ORS 109.680
+  - ORS 109.685
+  - ORS 109.690
+  - ORS 109.695
+  - ORS 174.109
+  - ORS 31.260
+  - ORS 329.901
+  - ORS 419A.004
+  - ORS 419B.005
+  - ORS 419B.010
+  - ORS 419B.090
+  - ORS 419B.502
+  - ORS 419B.600
+  - ORS 430.620
+  - ORS 435.190
+  - ORS 442.015
+  - ORS 675.530
+  - ORS 676.802
+  - ORS 676.810
+  - ORS 676.815
+  - ORS 677.495
+  - ORS 677.505
+  - ORS 678.375
+  - ORS 683.010
+  from_relating_to_full:
+  - ORS 109.640
+  - ORS 109.650
+  - ORS 109.670
+  - ORS 109.675
+  - ORS 109.680
+  - ORS 109.685
+  - ORS 109.690
+  - ORS 109.695
+  - ORS 419B.090
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2047>.
+
+# HB 2047 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2047, 2025 Regular Session (2025R1)
+- **LC number:** 827
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-01-21T08:16:43
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 29662 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2047/Introduced>.
+
+## Summary
+
+**Catchline:** Declares the state's public policy regarding the rights of a parent to the care, custody and control of the parent's child.
+
+**Relating to:** Relating to parental rights.
+
+Digest: The Act describes a parent's rights to the care, custody and control of the parent's minor child. (Flesch Readability Score: 70.1). 
+ Declares the state's public policy regarding the rights of a parent to the care, custody and control of the parent's child. 
+ Requires treatment providers to notify and disclose certain information to a minor's parent or guardian when providing services to a minor without parental consent.
+
+**RelatingToFull (verbatim upstream field):** Relating to parental rights; creating new provisions; amending ORS 109.640, 109.650, 109.670, 109.675, 109.685, 109.690, 109.695 and 419B.090; and repealing ORS 109.680.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2047
+Sponsored by Representative WRIGHT (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act describes a parent’s rights to the care,  custody and control of the parent’s mi-
+nor child. (Flesch Readability Score: 70.1).
+Declares the state’s public policy regarding the  rights of a parent to the care, custody and
+control of the parent’s child.
+Requires treatment providers to notify and disclose certain  information to a minor’s parent or
+guardian when providing services to a minor without parental consent.
+A BILL FOR AN ACT
+Relating to  parental rights; creating new provisions; amending ORS 109.640, 109.650, 109.670,
+109.675, 109.685, 109.690, 109.695 and 419B.090; and repealing ORS 109.680.
+Be It Enacted by the People of the State of Oregon:
+FUNDAMENTAL RIGHTS OF PARENTS
+SECTION 1.
+Parental Rights.  (1) As used in this section:
+(a)(A) “Biometric data” means data generated by automatic  measurements of an
+individual’s biological characteristics, including fingerprint, voiceprint or eye retina or iris,
+that is used to identify a specific individual.
+(B) “Biometric data” does not include a physical or digital photograph, a  video or audio
+recording or data generated from the recording, or information collected, used or stored  for
+health care treatment, payment or operations  under the Health Insurance Portability and
+Accountability Act of 1996 (P.L. 104-191), or data  or information collected, used or stored for
+law enforcement purposes.
+(b) “Child” means  an unemancipated, unmarried individual who has not attained 18 years
+of age.
+(c) “Parent” has the meaning given that term in ORS 419A.004.
+(d) “Public body” means a public body as defined in ORS  174.109 and the Oregon Health
+and Science University.
+(2)(a) It is the policy of the State of Oregon to recognize the liberty  of a parent to the
+care, custody and control of  the parent’s child, including the right to direct the upbringing,
+education, health care and mental health of the child, as a fundamental right.
+(b) It is the policy of the State of Oregon that a government entity  may not substantially
+burden the fundamental rights of a parent as provided  under this section unless the gov-
+ernment entity demonstrates that the burden, as applied to the parent and the child, is  re-
+quired by a compelling governmental interest of the highest order and is  the least restrictive
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 827
+means of furthering that compelling governmental interest.
+(c) All parental rights are exclusively reserved  to a parent of a child without obstruction
+by or interference from a government entity, including, but not limited to,  the following
+rights and responsibilities:
+(A) To direct the upbringing of the child;
+(B) To direct the moral or religious training of the child;
+(C) To make all physical and mental health care decisions for the child  and consent to
+all physical and mental health care on the child’s behalf;
+(D) To access and review all health and medical records of the child;
+(E) To direct the education of the child, including the right to choose public,  private,
+religious or home schools, and the right to make reasonable  choices within public schools for
+the education of the child;
+(F) To access and review all educational records of the child maintained by the  school,
+including those maintained in  accordance with the federal Family Educational Rights and
+Privacy Act (20 U.S.C. 1232g);
+(G) To have the child excused from school attendance for religious purposes;
+(H) To participate in parent-teacher associations and school organizations  that are
+sanctioned by a school board;
+(I) To be notified promptly if an  employee of a public body reasonably believes that abuse,
+neglect or any criminal  offense has been committed against the child by someone other than
+the parent, unless doing so would interfere with a criminal investigation or Department of
+Human Services’ abuse investigation, or unless an employee  of the state, a public education
+program as  defined in ORS 329.901 or any other public body is required by law to withhold
+such information;
+(J) To consent before the collection, storing or  sharing of any individual biometric data,
+data relative to  analysis of facial expressions, electroencephalogram brain wave patterns,
+skin conductance, galvanic skin response, heart-rate variability, pulse, blood  volume, posture
+and eye-tracking;
+(K) To consent before any record of the child’s blood  or deoxyribonucleic acid is created,
+stored or shared, unless authorized by law or pursuant to a court order; and
+(L) To consent before any government entity makes a  video or voice recording of the
+child, unless the video or voice recording is made during or as part of:
+(i) A court proceeding;
+(ii) A law enforcement interaction;
+(iii) A forensic interview in a criminal or child abuse investigation;
+(iv) The security or surveillance of buildings or grounds;
+(v) A photo identification card; or
+(vi) A public event where the child has no reasonable expectation of privacy.
+(d)(A) This section does not authorize or allow any individual  to abuse, neglect or en-
+danger a child;
+(B) This section  does not prevent the department from conducting a child abuse investi-
+gation or otherwise carrying out its responsibilities under state law,  consistent with the
+policy described in ORS 419B.090; and
+(C) This section does not apply if:
+(i) A parent  of the minor has given blanket consent authorizing the person or entity to
+perform an activity listed in subsection (2)(c) of this section;
+(ii) A public body or  any other person reasonably relies in good faith on an individual’s
+representations that the individual is the parent of a minor or has otherwise  been granted
+authority to make decisions regarding a minor’s care under state law;
+(iii) A person, including a law enforcement officer, participates or assists  in rendering
+emergency care;
+(iv) An employee of a local  education agency acts to control bleeding using a bleeding
+control kit; or
+(v) Services are provided to or information is received or maintained about a minor  en-
+rolled in an institution of higher education or a minor participating in a  program for which
+the minor’s parent  has consented to the child’s participation by an employee of the institu-
+tion of higher education or other school official.
+(e) An employee of a public  body, other than law enforcement personnel, may not en-
+courage or coerce a child to withhold information from the child’s parent. An employee of a
+public body may not withhold from a child’s  parent information that is relevant to the
+physical, emotional or mental health of the  child unless required by law to withhold such
+information.
+(f)(A) A  parent whose rights have been burdened by a government entity in violation of
+this section may assert that violation of this section as a claim or defense in any judicial  or
+administrative proceeding, without regard to whether the proceeding is brought by  or in the
+name of the state, private person or another party.
+(B) A parent who prevails in a proceeding to enforce this  section against a government
+entity may recover the following from a court of competent jurisdiction:
+(i) Declaratory relief;
+(ii) Injunctive relief; or
+(iii) Compensatory damages, including reasonable costs and attorney fees.
+(g) A person that  is not a parent does not have standing to raise in any proceeding in this
+state the fundamental rights of a parent established in this section.
+(3) This section shall be construed using the following rules:
+(a) The protections of the right of parents to  the care, custody and control of their child
+under this section  are in addition to the protections provided under any other state or fed-
+eral law;
+(b) This section must be construed in favor of a broad protection of the right of  parents
+to the care, custody and control of their children, including the  right to direct the upbring-
+ing, education, health care and mental health of their child; and
+(c) This section  does not give a parent the right to consent to medical treatments on the
+child’s behalf if the medical treatment has been prohibited by state law.
+SECTION 2.
+ ORS 419B.090 is amended to read:
+419B.090. (1) The juvenile court is a court of record and exercises  jurisdiction as a court of
+general and equitable jurisdiction and not as  a court of limited or inferior jurisdiction. The juvenile
+court is called “The  Court of  County, Juvenile Department.”
+(2)(a) It is the policy  of the State of Oregon to recognize that children are individuals who have
+legal rights. Among those rights are the right to:
+(A) Permanency with a safe family;
+(B) Freedom from physical, sexual or emotional abuse or exploitation; and
+(C) Freedom from substantial neglect of basic needs.
+(b) Parents and guardians have a duty to afford their children the  rights listed in paragraph (a)
+of this subsection. Parents and guardians have a duty  to remove any impediment to their ability to
+perform parental duties that afford these  rights to their children. When a parent or guardian fails
+to fulfill these duties, the juvenile court may determine that it is in the best interests of the  child
+to remove the child from the parent or guardian either temporarily or permanently.
+(c) The provisions of this chapter shall be liberally construed  to the end that a child coming
+within the jurisdiction of the court  may receive such care, guidance, treatment and control as will
+lead to the child’s welfare and the protection of the community.
+(3) It is the policy of the State of Oregon to safeguard and promote  each child’s right to safety,
+stability and  well-being and to safeguard and promote each child’s relationships with parents, sib-
+lings, grandparents, other relatives and adults with whom  a child develops healthy emotional at-
+tachments.
+(4) It is the policy of the State of Oregon to guard the liberty interest of parents [ protected by
+the Fourteenth Amendment  to the United States Constitution ] as provided in section 1 of this 2025
+Act and to protect the rights and interests of  children, as provided in subsection (2) of this section.
+The provisions of this chapter shall be  construed and applied in compliance with  section 1 of this
+2025 Act.  [ federal constitutional limitations on state action established by the  United States Supreme
+Court with respect to interference with the  rights of parents to direct the upbringing of their children,
+including, but not limited to, the right to: ]
+[(a) Guide the secular and religious education of their children; ]
+[(b) Make health care decisions for their children; and ]
+[(c) Discipline their children. ]
+(5) It is the policy of the  State of Oregon, in those cases not described as extreme conduct under
+ORS 419B.502, to offer appropriate reunification services  to parents and guardians to allow them the
+opportunity to adjust their circumstances, conduct or conditions  to make it possible for the child to
+safely return home within a reasonable time. The state shall provide to parents and guardians  with
+disabilities opportunities to benefit from  or participate in reunification services that are equal to
+those extended to individuals without  disabilities. The state shall provide aids, benefits and services
+different from those provided to parents and guardians without disabilities, when necessary  to en-
+sure that parents and guardians with disabilities are provided with an equal opportunity under  this
+subsection. Although there is a strong preference that children live in their own homes  with their
+own families, the state recognizes that it is not always possible or in the best interests of  the child
+or the public for children who have been abused or neglected to be reunited with their parents  or
+guardians. In those cases, the State of Oregon  has the obligation to create or provide an alternative,
+safe and permanent home for the child.
+(6) It is the policy of the State of Oregon, in a case involving an Indian child, to  safeguard and
+promote the  Indian child’s connections with the Indian child’s family, culture and tribe in accord-
+ance with the policies regarding Indian children in child custody proceedings under ORS 419B.600.
+CONSENT TO HEALTH CARE FOR MINORS
+SECTION 3.
+Medical decision-making. (1) As used in this section:
+(a) “Health care provider” means a health care provider, as defined in ORS 31.260, and a
+health care facility, as defined in ORS 442.015.
+(b)(A) “Minor” means an individual who has not attained eighteen years of age.
+(B) “‘Minor” does not include an individual who:
+(i) Is emancipated;
+(ii) Is married;
+(iii) Is or was  previously a member of the Armed Forces of the United States or a
+member of a reserve or national guard unit; or
+(iv) Is the custodial parent of a minor child.
+(c) “Parent” has the meaning given that term under ORS 419A.004.
+(d) “Public body” means a public  body as defined in ORS 174.109, the Oregon Health and
+Science University and the Oregon State Bar.
+(2) Except as otherwise provided by statutory law, case law or court order,  a public body,
+a health care provider or any  other person may not knowingly take any of the following
+actions with regard to a minor without first obtaining the consent of a parent of the  minor:
+(a) Treat, profess  to diagnose, operate on or prescribe for any physical ailment, physical
+injury or deformity;
+(b) Prescribe, dispense, deliver or administer any drug or medication;
+(c) Render psychological services; or
+(d) Render counseling services.
+(3) This section does not apply when:
+(a) A parent of the minor has  given blanket consent authorizing the person or entity to
+perform an activity listed in subsection (2) of this section;
+(b) A public body, health  care provider or any other person reasonably relies in good faith
+on an individual’s representations that the individual is the  parent of a minor or has other-
+wise been granted authority to make decisions regarding a minor’s  health care under state
+law;
+(c) A licensed physician performs emergency medical or surgical treatment;
+(d) Licensed personnel render appropriate emergency medical care  or provide emergency
+medical services;
+(e) A person, including  a law enforcement officer, participates or assists in rendering
+emergency care; or
+(f) An employee of a public education  program, as defined in ORS 329.901, acts to control
+bleeding using a bleeding control kit.
+(4) A violation of this section is an unlawful practice and is grounds for the  offending
+health care provider’s  licensing board to suspend, revoke, or refuse to renew the health care
+provider’s license or take other disciplinary action allowed by law.
+(5) If the licensing board  of a health care provider receives information of a violation or
+potential violation of this section by the  health care provider, the licensing board shall con-
+duct an immediate investigation and take appropriate disciplinary action.
+(6) A parent may  bring a civil cause of action to recover compensatory damages, rea-
+sonable attorney fees, court costs, expenses, and other appropriate relief against  an entity
+or health care provider alleged to have violated this section.
+(7) If a  court in any civil action brought pursuant to this section finds that a health care
+provider knowingly violated this section, then the court shall notify the appropriate regula-
+tory authority and the attorney general and reporter by mailing a certified copy of  the
+court’s order to  the regulatory authority and the attorney general and reporter. Notification
+pursuant to this subsection must be made upon the judgment of the court being made final.
+(8)(a) A civil action commenced against a health care provider under this section  must
+be brought within the time period for commencing actions established in ORS chapter 12.
+(b) A civil action commenced against another  entity under this section must be brought
+within one year from the date of discovery of the violation of this section.
+(9) This section is declared to be remedial in nature, and this section must be liberally
+construed to effectuate its purposes.
+SECTION 4.
+ ORS 109.640, as amended by section 27, chapter 73, Oregon Laws 2024,  is amended
+to read:
+109.640. (1) As used in this section,  “reproductive health care” has the meaning given that term
+in ORS 435.190, except that “reproductive health care” does not  include the elective sterilization
+of a minor under 15 years of age.
+(2)(a) As used in this subsection, “health care provider” means a  physician, physician associate
+licensed under ORS 677.505 to  677.525, nurse practitioner licensed under ORS 678.375 to 678.390 or
+a pharmacist licensed under ORS chapter 689.
+(b) Notwithstanding section 3 of this 2025 Act,  a minor under 15 years  of age may give con-
+sent, without the consent of a parent or guardian of the minor, to  an abortion only if the abortion
+is provided by a health care provider who is acting within the health care provider’s scope of
+practice and who reasonably believes, in the health care provider’s professional judgment, that:
+(A) Involving  the parent or guardian of the minor may result in the physical or emotional abuse
+of the minor or the neglect of the minor; or
+(B) Requiring the consent of a parent or guardian of the minor would not be in the  best interest
+of the minor, for the reasons documented by  the health care provider after obtaining the concur-
+rence of another health care provider who is associated with a separate medical practice  or facility.
+(3) Except as provided in subsection (2) of this  section and notwithstanding subsection (4) of this
+section  and section 3 of this 2025 Act , a minor of any age may  give consent, without the consent
+of a parent or guardian of the minor, to receive reproductive health care information and  services
+from a  health care provider who is a physician, physician associate licensed under ORS 677.505 to
+677.525, nurse practitioner  licensed under ORS 678.375 to 678.390, pharmacist licensed under ORS
+chapter 689 or naturopathic physician licensed under ORS chapter 685, and  who is acting within the
+provider’s scope of practice.
+(4) Notwithstanding section 3 of this 2025 Act,  a  minor 15 years of age or older may give
+consent, without the consent of a parent or guardian of the minor, to:
+(a) Hospital care,  medical or surgical diagnosis or treatment by a physician licensed by the
+Oregon Medical Board or a naturopathic physician licensed under ORS chapter 685, and dental  or
+surgical diagnosis or treatment by a dentist licensed by the Oregon Board of Dentistry.
+(b) Diagnosis or  treatment by a physician associate who is licensed under ORS 677.505 to
+677.525 and who is acting pursuant to a collaboration agreement as defined in ORS 677.495.
+(c) Diagnosis and treatment by a nurse practitioner who is licensed by the Oregon  State Board
+of Nursing under ORS 678.375 and who is acting within the scope  of practice for a nurse practi-
+tioner.
+(d) Except when the minor is obtaining contact lenses for the  first time, diagnosis and treatment
+by an optometrist who is licensed by the Oregon Board of Optometry under ORS 683.010 to  683.340
+and who is acting within the scope of practice for an optometrist.
+(5) If a person, including a health care provider, has reasonable cause  to believe that a minor
+the person comes into contact with under this section has suffered abuse, as defined in ORS
+419B.005, the person shall immediately  comply with the person’s mandatory child abuse reporting
+duties under ORS 419B.010.
+(6) Nothing in this section grants  a minor the authority to withhold consent to treatment
+consented to on the minor’s behalf by the minor’s parent or guardian.
+SECTION 5.
+ ORS 109.650, as amended by section 28, chapter 73, Oregon Laws 2024,  is amended
+to read:
+109.650. [ A hospital or a physician, physician associate, nurse practitioner, naturopathic physician,
+dentist or optometrist described in ORS 109.640 may advise a parent or legal guardian  of a minor of
+the care, diagnosis or treatment of the minor or the need for any  treatment of the minor, without the
+consent of the minor, and is not liable for advising  the parent or legal guardian without the consent
+of the minor. ]
+(1) A person providing information, services, diagnosis or treatment to a minor without
+parental consent as authorized by ORS 109.640 or 109.675 shall provide  the minor’s parent or
+guardian with  notice of the information, services, diagnosis or treatment provided by the
+person to the minor.
+(2) Except as otherwise provided by federal law, a person providing information,  services,
+diagnosis or treatment to a minor without parental consent as authorized  by ORS 109.640 or
+109.675 shall, at the request of the minor’s parent or guardian, disclose relevant health in-
+formation about the minor with or without the minor’s consent.
+(3) Subsections (1) and (2) of this section do not apply if:
+(a) The minor is married;
+(b) The minor is the custodial parent of a minor child;
+(c) The minor is emancipated,  whether emancipated under the provisions of ORS 109.510
+and 109.520 or 419B.550 to 419B.558 or emancipated by virtue of having lived apart  from the
+parents or legal guardian while being self-sustaining for a  period of 90 days prior to obtaining
+treatment as provided by ORS 109.640 or 109.675;
+(d) The minor has been sexually abused by the minor’s parent; or
+(e) The person reasonably believes, in the person’s professional judgment, that providing
+notice to the minor’s parent or guardian:
+(A) May result in the physical or emotional abuse of the minor or the neglect of the
+minor; or
+(B) Would not be in  the best interest of the minor, for the reasons documented by the
+person after obtaining the concurrence of a health care provider who is associated  with a
+separate medical practice or facility.
+(4) A person who provides information, services, diagnosis or treatment to a  minor
+without parental consent as authorized by ORS 109.640 or 109.675 is not subject to any civil
+liability for providing such information, services, diagnosis or treatment if:
+(a) The information, services, diagnosis or treatment is provided in good faith; and
+(b) The person provides the minor’s parent or guardian with notice required in subsection
+(1) of this section unless an exception under subsection (3) of this section applies.
+(5) A person who notifies or  discloses information to a minor’s parent or guardian as
+described in this  section is not liable for making the notification or disclosure without the
+minor’s consent.
+SECTION 6.
+ ORS 109.670 is amended to read:
+109.670. (1) Any person 16 years of  age or over may donate blood to any blood program without
+obtaining permission of a parent or guardian.
+(2) If a person under 18 years of age donates blood as provided in  this section, the blood
+program shall provide notice of the minor’s blood donation to the minor’s parent or guardian.
+[(2)] (3)  As used in subsection (1) of this  section, “blood program” means any voluntary and
+noncompensatory program for the drawing of blood which is approved by  the American Association
+of Blood Banks or the American Red Cross.
+SECTION 7.
+ ORS 109.675, as amended by section 29, chapter 73, Oregon Laws 2024,  is amended
+to read:
+109.675. (1) Notwithstanding section 3 of this 2025 Act,  a minor 14 years of age or older may
+obtain, without [ parental knowledge or consent ] the consent of the minor’s parent or guardian :
+(a) Outpatient diagnosis or treatment of  a mental or emotional disorder or a chemical depend-
+ency, excluding methadone maintenance, by a physician or  physician associate licensed by the
+Oregon Medical Board, a psychologist licensed by  the Oregon Board of Psychology, a nurse practi-
+tioner registered by the Oregon State Board of Nursing, a clinical social worker licensed by the
+State Board of Licensed Social Workers, a professional counselor or marriage and family  therapist
+licensed by the Oregon Board of Licensed Professional Counselors and Therapists,  a naturopathic
+physician licensed by the Oregon Board of Naturopathic Medicine or a  community mental health
+program established and operated  pursuant to ORS 430.620 when approved to do so by the Oregon
+Health Authority pursuant to rule.
+(b) Outpatient applied behavior analysis, as defined  in ORS 676.802, as a treatment of a mental
+or emotional disorder or a chemical dependency, excluding  methadone maintenance, by a behavior
+analyst or assistant  behavior analyst licensed under ORS 676.810 or a behavior analysis
+interventionist  registered  by the Health Licensing Office under ORS 676.815 if the treatment is
+within the scope of practice  of the behavior analyst, assistant behavior analyst or behavior analysis
+interventionist.
+(2) [ However, the person providing treatment shall have the parents of the minor  involved ] The
+person providing treatment to a minor  under this section shall provide notice of the treat-
+ment to the  minor’s parent or guardian as required under ORS 109.690 and shall involve the
+minor’s parent or guardian in the minor’s  treatment before the end of treatment unless the
+[parents refuse ] parent or guardian refuses  or unless there are clear clinical indications to the
+contrary, which [ shall] must  be documented in the treatment record. The  provisions of this sub-
+section do not apply to  a minor described in ORS 109.650 (3)(c) or (d). [:]
+[(a) A minor who has been sexually abused by a parent; or ]
+[(b) An emancipated minor, whether emancipated under the provisions of ORS 109.510 and  109.520
+or 419B.550 to 419B.558 or, for the purpose of this section only, emancipated by  virtue of having lived
+apart from the parents or legal guardian while being self-sustaining  for a period of 90 days prior to
+obtaining treatment as provided by this section. ]
+(3) Nothing in this section grants  a minor the authority to withhold consent to treatment
+consented to on the minor’s behalf by the minor’s parent or guardian.
+SECTION 8.
+ ORS 109.685, as amended by section 31, chapter 73, Oregon Laws 2024,  is amended
+to read:
+109.685. [A physician, physician associate, psychologist, nurse practitioner, clinical social worker
+licensed under ORS 675.530, professional counselor or marriage and family therapist  licensed by the
+Oregon Board of Licensed Professional Counselors and Therapists,  naturopathic physician licensed
+under ORS chapter 685 or community mental health program described in ORS 109.675 ] A person
+who in good faith provides information, services,  diagnosis or treatment to a minor as authorized
+by ORS 109.640 or 109.675 [ shall] may  not be subject to any civil liability for providing  such in-
+formation, services,  diagnosis  or treatment without consent of the minor’s parent or [ legal]
+guardian [ of the minor ] if the  person provides notice to the minor’s parent or guardian as re-
+quired by ORS 109.650.
+SECTION 9.
+ ORS 109.690 is amended to read:
+109.690. If information, services,  diagnosis or treatment [ services ] are provided to  a minor
+pursuant to ORS 109.640 or 109.675 without  consent of the minor’s parent or [ legal] guardian, the
+minor’s parent, parents or [ legal] guardian [ of the minor shall ] may  not be liable for payment for
+any such services rendered.
+SECTION 10.  ORS 109.695 is amended to read:
+109.695. For the purpose of carrying out the policy and intent of ORS 109.675 [ to 109.695] while
+taking into account the respective rights of minors at risk of  chemical dependency or mental or
+emotional disorder and the rights and interests of parents or legal  guardians of such minors, the
+Oregon Health Authority shall adopt rules for the implementation of ORS 109.675 [ to 109.695] by
+community mental health programs  approved to do so. Such rules shall provide for the earliest fea-
+sible involvement of the  parents or guardians in the treatment plan consistent with clinical re-
+quirements of the minor.
+SECTION 11. ORS 109.680 is repealed.
+MISCELLANEOUS
+SECTION 12. The unit and section captions used in this 2025 Act are provided only for
+the convenience of the reader and do not become part of the statutory  law of this state or
+express any legislative intent in the enactment of this 2025 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 109.640, ORS 109.650, ORS 109.670, ORS 109.675, ORS 109.680, ORS 109.685, ORS 109.690, ORS 109.695, ORS 419B.090
+- From bill text (Introduced version): ORS 109.510, ORS 109.520, ORS 109.640, ORS 109.650, ORS 109.670, ORS 109.675, ORS 109.680, ORS 109.685, ORS 109.690, ORS 109.695, ORS 174.109, ORS 31.260, ORS 329.901, ORS 419A.004, ORS 419B.005, ORS 419B.010, ORS 419B.090, ORS 419B.502, ORS 419B.600, ORS 430.620, ORS 435.190, ORS 442.015, ORS 675.530, ORS 676.802, ORS 676.810, ORS 676.815, ORS 677.495, ORS 677.505, ORS 678.375, ORS 683.010
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `b4d46034c4c7ea2fae9fc5e9c5702aa6381d2bc2f79aed30b7464cf63da1160d` (snapshot `_meta/snapshots/measure-2025r1-hb2047-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2047/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2047> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

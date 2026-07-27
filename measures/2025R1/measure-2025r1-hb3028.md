@@ -1,0 +1,296 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3028
+title: 'HB 3028 (2025R1): Removes the statutory amounts that the Higher Education Coordinating Commission
+  may charge for determining whether a school may confer or offer to confer a degree upon a person or
+  provide academic credit applicable to a degree.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3028
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3028/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 7766473875c8f6182559cb8a982dcda457968fc371d901cad0d22c82ac3326ec
+snapshot_id: measure-2025r1-hb3028-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 348.594
+  - ORS 348.601
+  - ORS 348.604
+  - ORS 348.606
+  - ORS 348.607
+  - ORS 350.075
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3028
+prefix_meaning: House Bill
+catch_line: Removes the statutory amounts that the Higher Education Coordinating Commission may charge
+  for determining whether a school may confer or offer to confer a degree upon a person or provide academic
+  credit applicable to a degree.
+minority_catch_line: null
+measure_summary: "\tDigest: Allows the HECC to set fees by rule to pay the cost of reviewing a school's\
+  \ application for approval. (Flesch Readability Score: 67.3). \n\tRemoves the statutory amounts that\
+  \ the Higher Education Coordinating Commission may charge for determining whether a school may confer\
+  \ or offer to confer a degree upon a person or provide academic credit applicable to a degree. Authorizes\
+  \ the commission to adopt rules imposing fees necessary to recover designated costs in reviewing a school's\
+  \ application for commission approval."
+relating_to: Relating to degree authorization by the Higher Education Coordinating Commission.
+relating_to_full: Relating to degree authorization by the Higher Education Coordinating Commission.
+at_the_request_of: (at the request of Governor Tina Kotek for Higher Education Coordinating Commission)
+lc_number: 506
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-07-25T10:52:12'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 11959
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 348.594
+  - ORS 348.601
+  - ORS 348.604
+  - ORS 348.606
+  - ORS 348.607
+  - ORS 350.075
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3028>.
+
+# HB 3028 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3028, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for Higher Education Coordinating Commission)
+- **LC number:** 506
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-07-25T10:52:12
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 11959 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3028/Enrolled>.
+
+## Summary
+
+**Catchline:** Removes the statutory amounts that the Higher Education Coordinating Commission may charge for determining whether a school may confer or offer to confer a degree upon a person or provide academic credit applicable to a degree.
+
+**Relating to:** Relating to degree authorization by the Higher Education Coordinating Commission.
+
+Digest: Allows the HECC to set fees by rule to pay the cost of reviewing a school's application for approval. (Flesch Readability Score: 67.3). 
+ Removes the statutory amounts that the Higher Education Coordinating Commission may charge for determining whether a school may confer or offer to confer a degree upon a person or provide academic credit applicable to a degree. Authorizes the commission to adopt rules imposing fees necessary to recover designated costs in reviewing a school's application for commission approval.
+
+**RelatingToFull (verbatim upstream field):** Relating to degree authorization by the Higher Education Coordinating Commission.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 3028
+Introduced and printed pursuant to House  Rule 12.00. Presession filed (at the request of Governor
+Tina Kotek for Higher Education Coordinating Commission)
+CHAPTER .................................................
+AN ACT
+Relating to degree authorization by the Higher Education Coordinating  Commission; amending ORS
+348.604, 348.606 and 348.607.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 348.606 is amended to read:
+348.606. (1) A  school may not confer or offer to confer any academic degree upon a person, or
+provide services purporting to lead  to a degree in whole or in part, without first obtaining approval
+from the Higher Education Coordinating Commission.  The commission shall adopt by rule standards
+and procedures for the approval of schools.
+(2) A school based outside of Oregon may not offer any educational credit  or degree within
+Oregon, including through the  Internet, mail or telephone, without first obtaining approval from the
+commission. This subsection does not apply to schools operating as part of an interstate  agreement
+entered into under ORS 350.075 (3).
+(3)[(a)] The commission, by rule, may impose fees on any school applying for approval to  confer
+or offer to confer a degree upon a person or to provide academic  credit applicable to a degree , with
+the amount of  each fee being established to recover the expenses incurred by the commission
+in carrying out  the administration of ORS 348.594 to 348.615 . Any fee [ imposed] authorized un-
+der this section is nonrefundable.
+[(b) The amount of each fee in this section is established to recover designated expenses  incurred
+by the commission in carrying out the administration of ORS 348.594 to  348.615, and may not exceed
+the amounts  specified in this section adjusted for inflation annually, beginning on July 1, 2012, pur-
+suant to the increase, if any,  from the preceding year in the U.S. City Average Consumer Price Index
+for All Urban Consumers (All Items) as published by the Bureau of Labor Statistics of the  United
+States Department of Labor. ]
+[(4) For periodic review  of a school’s general administrative and academic operations, and contin-
+ued oversight and support of the school, the commission may  impose the following fee on each school,
+to be paid biennially: ]
+[(a) $2,000 for a full review and oversight of a school with a complex organizational structure. ]
+[(b) $1,000 for a full  review and oversight of a school wholly administered and governed at a single
+campus in this state. ]
+[(5) For periodic evaluation  of academic programs offered by schools subject to continued oversight,
+the commission may impose the following fees per program for the following degrees or certificates: ]
+[(a) $2,000 for a nondegree certificate. ]
+[(b) $3,000 for an associate degree. ]
+Enrolled House Bill 3028 (HB 3028-INTRO) Page 1
+[(c) $4,000 for a bachelor’s degree, master’s degree or doctoral degree. ]
+[(6) Notwithstanding subsections (4) and  (5) of this section, the commission may impose the fol-
+lowing fees on each school that is not based  in this state, offers distance learning courses or programs
+in this state and is not operating as part of  an interstate agreement entered into under ORS 350.075
+(3):]
+[(a) $7,000, to be paid biennially, for a full review and oversight of a school. ]
+[(b) $1,000 for each new program application not offered at the time of the school’s  initial appli-
+cation to the commission. ]
+[(7)(a) In  addition to the fees described in subsections (4) to (6) of this section, the commission may
+impose on each school that is not based in this state a fee of $1,000 per program that, as part  of the
+program, places students in a practicum based in this state. ]
+[(b) This subsection does not apply to a placement that is part of an online  program offered by a
+school.]
+[(c) The commission may waive the fee imposed under this subsection for  limited placements or
+special circumstances that involve Oregon residents who return to this state for a practicum. ]
+[(8) In addition to the fees described in subsections (4) to (7) of this section: ]
+[(a) The commission may impose  a fee of not more than $500 for a change in program, based on
+the scope and complexity of the proposed program change. ]
+[(b) For review of qualifications of staff prior to hiring, the commission may impose a fee of: ]
+[(A) Not more than $50 for each new instructor. ]
+[(B) Not more than $100 for each new administrator or senior academic staff person. ]
+[(9) In addition to the fees described in subsections (4) to (8) of this  section, the commission may
+assess: ]
+[(a) The actual costs related to the use of experts to evaluate  programs leading to professional
+licensure by the state, if such costs exceed 10 percent of the base fees. ]
+[(b) Costs associated with travel expenses for: ]
+[(A) Schools subject to review and oversight under subsection (4) of this section; or ]
+[(B) Schools located outside this state that seek authorization to offer degrees  without accreditation
+to residents of this state. ]
+[(10)] (4)(a) The fees the commission may impose by rule under this section include  fees
+for expenses relating to:
+(A) The review or oversight of a school’s administrative or academic operations;
+(B) The evaluation of practicums, academic programs or changes in academic programs;
+(C) The review of the qualifications of  new faculty, administrators or senior academic
+staff prior to hiring;
+(D) The use of experts or travel necessary to decide whether to approve a school’s  ap-
+plication under this section; and
+(E) Any other action the commission deems necessary to  determine whether a school
+should be authorized to confer or offer to confer a degree upon a person or to provide aca-
+demic credit applicable to a degree.
+(b) The fees imposed by rule by the commission under this section may  account for dif-
+ferences in the anticipated complexity or time required  to review an application depending
+on the type of school or program that is the subject of the application.
+(5) Any fees collected  under this section shall be deposited in the Degree Authorization Account
+established under ORS 348.601.
+[(11)] (6) As used in this section, “practicum”  means a portion of a degree program that involves
+a supervised field placement in a professional or workplace environment.
+SECTION 2.
+ ORS 348.607 is amended to read:
+348.607. (1)(a) The Higher Education Coordinating Commission may by rule impose a fee on a
+school that applies for an exemption under ORS 348.604.
+Enrolled House Bill 3028 (HB 3028-INTRO) Page 2
+(b) The amount of the fee the commission may impose by rule under this section  may not
+exceed the actual cost to  the commission of determining the school’s compliance with the require-
+ments for an exemption under ORS 348.604[ , and may not exceed $1,000 ].
+(2) Except as provided in ORS 348.604 or 348.608 or section  6, chapter 546, Oregon Laws 2005,
+the commission may not impose requirements for a religious exemption from ORS  348.594 to 348.615.
+SECTION 3.  ORS 348.604 is amended to read:
+348.604. Upon application from  a school, as defined in ORS 348.594, the Higher Education Co-
+ordinating Commission shall  grant an exemption from ORS 348.594 to 348.615 to the school if the
+school:
+(1) Is, or is operated by, a nonprofit corporation;
+(2) Offers only associate, bachelor’s or master’s degrees leading to occupations in theology or
+religious occupations, or, if the school also offers doctoral degrees, offers  doctoral degrees in the-
+ology or religious occupations that have been approved by a  post-secondary accrediting agency as
+defined in ORS 348.594;
+(3) Teaches students with faculty members who:
+(a) Hold degrees:
+(A) From a school that, at the time of the conferral of the  degrees, was accredited by a post-
+secondary accrediting agency as  defined in ORS 348.594, held an exemption under this section, or
+was a school that, on July 14, 2005, met the criteria and followed procedures to obtain  a religious
+exemption adopted by rule by the Oregon  Student Access Commission and that offered only degrees
+leading to occupations in theology or religious occupations;
+(B) That are at least one level above the degree level of  the program in which the faculty
+members teach or that are the terminal degrees in  the field in which the faculty members teach; and
+(C) That are not honorary degrees; or
+(b) Possess sufficient compensatory  qualifications to substitute for academic degrees in the fields
+in which the faculty members teach;
+(4) Offers a curriculum:
+(a) Of a duration and  level that is comparable to the curriculums offered by schools that are
+not exempt under this section; and
+(b) That, with higher degrees, increases the difficulty of the work expected of students;
+(5) Requires students to complete academic assignments and to demonstrate learning appropriate
+to the curriculum;
+(6) Awards credit toward degrees proportionate to the work done by students;
+(7) Offers admission:
+(a) To a student:
+(A) With a high school diploma or an equivalent credential; or
+(B) Who completed the equivalent of a high school education through home study; and
+(b) Based on evidence that the student can reasonably expect to complete  a degree and benefit
+from the education offered;
+(8) Provides or arranges  for faculty members and students to have access to information that
+supports instruction and stimulates research or independent study in all areas of the curriculum;
+(9) Provides accurate and appropriate credit transcripts  to students of the school and accurate
+and appropriate diplomas to graduates of the school;
+(10) Charges tuition by the credit hour or other fixed rate  for instruction during an academic
+term and does not charge tuition or fees for the award of a degree or charge a single fee  for an
+entire degree program;
+(11) Provides the  oversight required by the Higher Education Coordinating Commission over a
+faculty member or administrator who has:
+(a) Been convicted of a felony; or
+(b) Violated a state or federal law related to the operation of a school;
+(12) Provides facilities that permit private communication  between faculty members and stu-
+dents;
+Enrolled House Bill 3028 (HB 3028-INTRO) Page 3
+(13) Provides  a number of faculty members that is adequate for the number of students enrolled;
+(14) Provides clear  and accurate information to students about the school’s expectations of stu-
+dents in the school’s courses;
+(15) Ensures that a student who is pursuing a degree  is making continuous progress toward the
+degree;
+(16) Before a student enrolls in  the school, informs the student that a school to which the stu-
+dent might transfer  retains the discretion whether to accept the transfer of credits earned at the
+school;
+(17) Provides  official transcripts of faculty members to the Higher Education Coordinating
+Commission; and
+(18) Pays the fee [ imposed] authorized by ORS 348.607.
+Passed by House March 6, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate June 12, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 3028 (HB 3028-INTRO) Page 4
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 348.594, ORS 348.601, ORS 348.604, ORS 348.606, ORS 348.607, ORS 350.075
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `7766473875c8f6182559cb8a982dcda457968fc371d901cad0d22c82ac3326ec` (snapshot `_meta/snapshots/measure-2025r1-hb3028-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3028/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `3ae0298681ad8bfde0171914334dd8ba84cad5a77fcf2e4360f3bb093985ee78` (snapshot `_meta/snapshots/measure-2025r1-hb3028-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3028/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3028> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

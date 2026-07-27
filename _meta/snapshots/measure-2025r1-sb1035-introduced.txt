@@ -1,0 +1,209 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1035
+Sponsored by Senator NASH
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells ODEM to  take certain actions to improve firefighting resources at certain
+airports. The Act also changes some laws to make it  easier to move fuel. (Flesch Readability Score:
+68.7).
+Directs the Oregon Department of Emergency Management to  procure and maintain vehicles for
+purposes related to fuel and personnel needs at certain airports.
+Provides that the Director of Transportation may exercise the authority to suspend  certain
+statutes when the Emergency Conflagration Act is invoked.  Provides that the suspension may apply
+to geographic areas other than the area where an emergency or conflagration occurs.
+Authorizes the Oregon National Guard and the Oregon Civil Defense Force to transport aviation
+fuel under certain circumstances.
+Directs the department to issue grants to increase fuel storage capacity at certain airports.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to augmentation of  firefighting capacity of airports; creating new provisions; amending ORS
+823.012; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section, “pilot  program airports” means Burns Municipal
+Airport and La Grande/Union County Airport.
+(2) The Oregon  Department of Emergency Management shall maintain the following ve-
+hicle fleets for use at pilot program airports:
+(a) A fleet of vehicles capable of transporting aviation fuel, including  Jet A and low lead
+fuels, to and between pilot program airports;
+(b) A fleet of vehicles appropriate for transporting aviation personnel, including  pilots
+and crew members, to and between pilot program airports; and
+(c) A fleet of airport refuel trucks capable of transferring aviation  fuel from storage to
+aircraft.
+(3) The department shall  identify and procure vehicles appropriate for the functions de-
+scribed in subsection (2) of this section. The department shall stage  the vehicles at appro-
+priate locations throughout this state such that the department can deploy the vehicles when
+necessary to augment existing  resources at pilot program airports for firefighting purposes.
+The department shall retain ownership of the vehicles and shall be responsible for ongoing
+maintenance of the vehicles.
+(4) As soon as practicable  after procurement of the vehicles, the department shall enter
+into contracts, memoranda of understanding  or other agreements with owners or operators
+of pilot program airports that govern the use of the vehicles.
+(5) The department may adopt rules necessary for the administration of this section.
+SECTION 2.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1673
+SB 1035
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ated to the Oregon Department of  Emergency Management, for the biennium beginning July
+1, 2025, out of the General Fund, the amount  of $___ to carry out the provisions of section
+1 of this 2025 Act.
+SECTION 3.
+ ORS 823.012 is amended to read:
+823.012. (1) If the Director of Transportation determines that an emergency, as defined  in ORS
+401.025, has occurred or is imminent, or when authority  relating to a conflagration is exercised
+pursuant to ORS 476.510 to 476.610,  the director may suspend operation of one or more of the
+following statutes involving motor carriers for the purpose of expediting the  movement of persons
+or property:
+(a) ORS 818.400, compliance with commercial vehicle enforcement  requirements related to com-
+mercial vehicle weight, size, load, conformation or equipment.
+(b) ORS 825.100, certificate or permit  requirement for commercial transportation of persons or
+property.
+(c) ORS  825.104, registration requirement for for-hire or private carrier engaged in interstate
+operations.
+(d) ORS 825.160,  requirement for person operating as motor carrier to have policy of public li-
+ability and property damage insurance.
+(e) ORS 825.162, requirement for person operating as for-hire carrier of freight or  express to
+have cargo insurance.
+(f) ORS 825.250, requirement to stop and submit to an inspection of the  driver, the cargo or the
+vehicle or combination of vehicles.
+(g) ORS 825.252, safety regulations for for-hire and private carriers.
+(h) ORS 825.258, rules for transportation of hazardous waste, hazardous material and PCB.
+(i) ORS 825.450, weight identifiers issued by Department of Transportation.
+(j) ORS 825.470, temporary pass for single trip or short-time operation of vehicle.
+(k) ORS 825.474, assessment of tax for use of highways.
+(L) ORS 826.031, registration of certain vehicles not already registered with state.
+(2) A suspension under this section  may occur prior to a declaration of a state of emergency
+under ORS 401.165, but may not exceed 72 hours unless a state of emergency is declared under  ORS
+401.165. If a state of emergency is declared under  ORS 401.165, the suspension shall last until the
+state of emergency is terminated as provided under ORS 401.204.
+(3) The director may designate by rule a  line of succession of deputy directors or other em-
+ployees of the department who may suspend operations of  statutes under this section in the event
+the director is not available.  Any suspension by a person designated by the director under this
+subsection has the  same force and effect as if issued by the director, except that, if the director can
+be reached, the  suspension must be affirmed by the director when the director is reached. If the
+director does not set aside  a suspension within 24 hours of being reached, the suspension shall be
+considered affirmed by the director.
+(4) A  suspension under this section may apply to geographic areas other than the area
+in which the emergency or  conflagration occurs if the suspension applying to such areas is
+reasonably necessary to address the emergency or conflagration.
+SECTION 4.
+(1) Members  of the Oregon National Guard, as described in ORS 396.105, and
+the Oregon Civil Defense Force, as described in ORS 399.035,  are authorized to transport
+aviation fuel to and between airports in  this state for firefighting purposes if the Director
+of the Oregon Department of Emergency Management determines  that such transportation
+[2]
+SB 1035
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+is necessary due to an insufficiency of commercial carriers.
+(2) Nothing in this section suspends or nullifies generally applicable statutes, rules  or
+regulations relating to transportation of aviation fuel.
+SECTION 5.
+(1) The Oregon Department of Emergency Management shall issue grants
+to owners or operators of pilot program airports to be used for capital  projects to increase
+the capacity of the airports to store aviation fuel, including Jet A and low lead fuels.
+(2) Owners or operators of pilot  program airports shall submit plans to the department
+for increasing fuel storage capacity. The  department must approve a recipient’s plans before
+issuing a grant to the recipient under this section.
+(3) As used in this section, “pilot program airports” has the meaning given  that term in
+section 1 of this 2025 Act.
+SECTION 6. In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Oregon Department of  Emergency Management, for the biennium beginning July
+1, 2025, out of the General Fund, the amount  of $___ to carry out the provisions of section
+5 of this 2025 Act.
+SECTION 7. Section 5 of this 2025 Act is repealed on January 2, 2029.
+SECTION 8. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

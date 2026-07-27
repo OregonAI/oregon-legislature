@@ -1,0 +1,954 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb834
+title: 'SB 834 (2025R1): Prohibits state hospitals from providing inpatient services to individuals who
+  are under 18 years of age.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 834
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB834/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: fecdd303ab455c65fed486d51aa7d2d0e83b033631a08962144cbcb9eb1d0341
+snapshot_id: measure-2025r1-sb834-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 131.007
+  - ORS 131.125
+  - ORS 135.230
+  - ORS 137.700
+  - ORS 161.355
+  - ORS 161.362
+  - ORS 161.365
+  - ORS 161.367
+  - ORS 161.370
+  - ORS 161.371
+  - ORS 161.372
+  - ORS 164.055
+  - ORS 164.305
+  - ORS 166.210
+  - ORS 179.325
+  - ORS 179.505
+  - ORS 192.338
+  - ORS 192.345
+  - ORS 192.355
+  - ORS 40.230
+  - ORS 40.235
+  - ORS 40.240
+  - ORS 40.250
+  - ORS 414.575
+  - ORS 426.005
+  - ORS 426.010
+  - ORS 426.020
+  - ORS 426.070
+  - ORS 426.110
+  - ORS 426.130
+  - ORS 426.220
+  - ORS 426.650
+  - ORS 426.701
+  - ORS 426.702
+  - ORS 430.630
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 834
+prefix_meaning: Senate Bill
+catch_line: Prohibits state hospitals from providing inpatient services to individuals who are under 18
+  years of age.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act makes changes to some laws about places that provide mental health\
+  \ treatment. (Flesch Readability Score: 77.8). \n\tProhibits state hospitals from providing inpatient\
+  \ services to individuals who are under 18 years of age. \n\tModifies the description of when a qualifying\
+  \ mental disorder is resistant to treatment for purposes of involuntary civil commitment of an extremely\
+  \ dangerous person. \n\tDirects the Oregon Health Authority to designate a licensed physician to serve\
+  \ as the chief medical officer of a state hospital, regardless of whether the superintendent of the\
+  \ hospital is a licensed physician. \n\tRequires certain evaluations to be conducted by a certified\
+  \ evaluator."
+relating_to: Relating to facilities that provide mental health treatment.
+relating_to_full: Relating to facilities that provide mental health treatment.
+at_the_request_of: (at the request of Governor Tina Kotek for Oregon Health Authority)
+lc_number: 409
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-06-06T15:15:40'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 60124
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 131.007
+  - ORS 131.125
+  - ORS 135.230
+  - ORS 137.700
+  - ORS 161.355
+  - ORS 161.362
+  - ORS 161.365
+  - ORS 161.367
+  - ORS 161.370
+  - ORS 161.371
+  - ORS 161.372
+  - ORS 164.055
+  - ORS 164.305
+  - ORS 166.210
+  - ORS 179.325
+  - ORS 179.505
+  - ORS 192.338
+  - ORS 192.345
+  - ORS 192.355
+  - ORS 40.230
+  - ORS 40.235
+  - ORS 40.240
+  - ORS 40.250
+  - ORS 414.575
+  - ORS 426.005
+  - ORS 426.010
+  - ORS 426.020
+  - ORS 426.070
+  - ORS 426.110
+  - ORS 426.130
+  - ORS 426.220
+  - ORS 426.650
+  - ORS 426.701
+  - ORS 426.702
+  - ORS 430.630
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 834>.
+
+# SB 834 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 834, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for Oregon Health Authority)
+- **LC number:** 409
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-06-06T15:15:40
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 60124 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB834/Enrolled>.
+
+## Summary
+
+**Catchline:** Prohibits state hospitals from providing inpatient services to individuals who are under 18 years of age.
+
+**Relating to:** Relating to facilities that provide mental health treatment.
+
+Digest: The Act makes changes to some laws about places that provide mental health treatment. (Flesch Readability Score: 77.8). 
+ Prohibits state hospitals from providing inpatient services to individuals who are under 18 years of age. 
+ Modifies the description of when a qualifying mental disorder is resistant to treatment for purposes of involuntary civil commitment of an extremely dangerous person. 
+ Directs the Oregon Health Authority to designate a licensed physician to serve as the chief medical officer of a state hospital, regardless of whether the superintendent of the hospital is a licensed physician. 
+ Requires certain evaluations to be conducted by a certified evaluator.
+
+**RelatingToFull (verbatim upstream field):** Relating to facilities that provide mental health treatment.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 834
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Governor Tina Kotek for Oregon Health Authority)
+CHAPTER .................................................
+AN ACT
+Relating to facilities that provide mental  health treatment; creating new provisions; and amending
+ORS 161.362, 161.371, 426.010, 426.020, 426.220, 426.650, 426.701 and 430.630.
+Be It Enacted by the People of the State of Oregon:
+MINIMUM AGE REQUIREMENT FOR PATIENTS TREATED AT STATE HOSPITALS
+SECTION 1.  ORS 426.010 is amended to read:
+426.010. (1) Except as otherwise ordered by the Oregon Health Authority  pursuant to ORS
+179.325, the Oregon State Hospital campuses in Salem, Marion County, and in Junction  City, Lane
+County, shall be used as state hospitals for the inpatient care and treatment of persons with mental
+illness who are assigned to the  care of the institutions by the authority or who have previously been
+committed to the institutions.
+(2) The state hospitals described in this section may not provide care or treatment  to
+individuals under 18 years of age.
+SECTION 2.  ORS 426.220 is amended to read:
+426.220. (1) Pursuant to rules and regulations promulgated by  the Oregon Health Authority, the
+superintendent of any state hospital for the treatment and care  of persons with mental illness may
+admit and hospitalize therein as a patient, any person who may have a  nervous disorder or a mental
+illness, and who voluntarily  has made written application for such admission. No person under the
+age of 18 years  shall be admitted as a patient to any such state hospital [ unless an application
+therefor in behalf of the person has been executed by the  parent, adult next of kin or legal guardian
+of the person ]. Except when a period of longer hospitalization has been imposed as a condition of
+admission, pursuant to rules  and regulations of the authority, no person voluntarily admitted to any
+state hospital shall be detained therein more than 72 hours after the person[ , if at least 18 years of
+age,] has  given notice in writing of a desire to be discharged therefrom[ , or, if the patient is under
+the age of 18 years, after notice in writing has been given  by the parent, adult next of kin or legal
+guardian of the person that such parent, adult next of kin or  legal guardian desires that such person
+be discharged therefrom ].
+(2) Any person voluntarily admitted to a state hospital pursuant to this section may upon ap-
+plication and notice to the superintendent of the hospital  concerned, be granted a temporary leave
+of absence from the hospital  if such leave, in the opinion of the superintendent, will not interfere
+with the successful treatment or examination of the applicant for leave.
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 1
+[(3) Upon admission or discharge of a  minor to or from a state hospital the superintendent shall
+immediately notify the parent or guardian. ]
+SECTION 3.  ORS 426.650 is amended to read:
+426.650. (1) Pursuant to rules promulgated by the  Oregon Health Authority, the superintendent
+of any state hospital for the treatment and care  of persons with mental illness may admit and hos-
+pitalize therein as a patient any person in need of medical or mental therapeutic  treatment as a
+sexually dangerous person who voluntarily has made written application for  such admission. No
+person under the age of 18 years  shall be admitted as a patient to any such state hospital [ unless
+an application therefor in behalf  of the person has been executed by the parent, adult next of kin or
+legal guardian of the person ]. Pursuant to rules and regulations of the  authority, no person volun-
+tarily admitted to  any state hospital shall be detained therein more than 72 hours after  the
+person[, if at least 18 years of age,] has given notice in writing of desire to be discharged
+therefrom[, or, if the patient is under  the age of 18 years, after notice in writing has been given by the
+parent, adult next of kin or legal guardian of the person that such parent,  adult next of kin or legal
+guardian desires that such person be discharged therefrom ].
+(2) Any person voluntarily admitted to a  state facility pursuant to this section may upon appli-
+cation and notice to the superintendent  of the institution concerned, be granted a temporary leave
+of absence from the institution if such leave, in the opinion of the chief  medical officer, will not
+interfere with the successful treatment or examination of the applicant.
+SECTION 4.  ORS 430.630 is amended to read:
+430.630. (1) In addition to any other requirements that may  be established by rule by the Oregon
+Health Authority, each community mental health program, subject to the  availability of funds, shall
+provide guidance and assistance to local Behavioral  Health Resource Networks for the joint devel-
+opment of programs and activities to increase access to  treatment and shall provide the following
+basic services to persons with alcoholism or drug dependence, and  persons who are alcohol or drug
+abusers:
+(a) Outpatient services;
+(b) Aftercare for persons released from hospitals;
+(c) Training, case and program consultation and education for community agencies, related
+professions and the public;
+(d) Guidance and assistance  to other human service agencies for joint development of prevention
+programs and activities to reduce  factors causing alcohol abuse, alcoholism, drug abuse and drug
+dependence; and
+(e) Age-appropriate treatment options for older adults.
+(2) As alternatives to state hospitalization, it is the responsibility of the community mental
+health program to ensure that, subject to the availability of  funds, the following services for persons
+with alcoholism or drug dependence, and persons who are alcohol or drug abusers, are  available
+when needed and approved by the Oregon Health Authority:
+(a) Emergency services on a 24-hour basis, such  as telephone consultation, crisis intervention
+and prehospital screening examination;
+(b) Care and treatment  for a portion of the day or night, which may include day treatment
+centers, work activity centers and after-school programs;
+(c) Residential  care and treatment in facilities such as halfway houses, detoxification centers
+and other community living facilities;
+(d) Continuity of care, such as that provided by service coordinators, community case develop-
+ment specialists and core staff of federally assisted community mental health centers;
+(e) Inpatient treatment in community hospitals; and
+(f) Other alternative services to  state hospitalization as defined by the Oregon Health Authority.
+(3) In addition to any other requirements that may be established by rule of the  Oregon Health
+Authority, each community mental health program, subject to the availability of funds, shall  provide
+or ensure the provision of the following services to persons with mental or emotional disturbances:
+(a) Screening and evaluation to determine the client’s service needs;
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 2
+(b) Crisis stabilization to meet  the needs of persons with acute mental or emotional disturb-
+ances, including  the costs of investigations and prehearing detention in community hospitals or
+other facilities approved by the authority for persons  involved in involuntary commitment proce-
+dures;
+(c) Vocational and social services that are appropriate for the client’s age,  designed to improve
+the client’s vocational, social, educational and recreational functioning;
+(d) Continuity of care to link the client to housing and appropriate and available  health and
+social service needs;
+(e) Psychiatric  care in state and community hospitals, subject to the provisions of subsection (4)
+of this section;
+(f) Residential services;
+(g) Medication monitoring;
+(h) Individual, family and group counseling and therapy;
+(i) Public education and information;
+(j) Prevention of mental or emotional disturbances and promotion of mental health;
+(k) Consultation with other community agencies;
+(L) Preventive mental health services for  children and adolescents, including primary prevention
+efforts, early identification and early intervention services. Preventive services should be patterned
+after service models that have demonstrated  effectiveness in reducing the incidence of emotional,
+behavioral and cognitive disorders in children. As used in this paragraph:
+(A) “Early identification” means detecting emotional disturbance  in its initial developmental
+stage;
+(B) “Early intervention services” for children at risk of later development of emotional disturb-
+ances means programs and activities for children and their families that promote conditions, oppor-
+tunities and experiences that encourage and develop emotional  stability, self-sufficiency and
+increased personal competence; and
+(C) “Primary prevention efforts” means efforts that prevent  emotional problems from occurring
+by addressing issues early so that disturbances do not have an opportunity to develop; and
+(m) Preventive  mental health services for older adults, including primary prevention efforts,
+early identification and early intervention services. Preventive services should be patterned  after
+service models that have demonstrated effectiveness in reducing the incidence of emotional  and be-
+havioral disorders and suicide attempts in older adults. As used in this paragraph:
+(A) “Early identification” means detecting emotional disturbance  in its initial developmental
+stage;
+(B) “Early intervention services” for older adults at risk of development of emotional disturb-
+ances means programs and activities for older adults and  their families that promote conditions,
+opportunities and experiences that encourage and maintain  emotional stability, self-sufficiency and
+increased personal competence and that deter suicide; and
+(C) “Primary prevention efforts” means efforts that prevent  emotional problems from occurring
+by addressing issues early so that disturbances do not have an opportunity to develop.
+(4) A community  mental health program shall assume responsibility for psychiatric care in state
+and community hospitals, as provided in subsection  (3)(e) of this section, in the following circum-
+stances:
+(a) The person receiving care is a resident of the county served by the program. For purposes
+of this paragraph, “resident” means the resident of a county in which the person maintains a current
+mailing address or, if the  person does not maintain a current mailing address within the state, the
+county in which the person is found, or the county in  which a court-committed person with a mental
+illness has been conditionally released.
+(b) The person has been hospitalized  involuntarily or voluntarily, pursuant to ORS 426.130 or
+426.220, [ except for persons confined to the Secure Child and Adolescent Treatment Unit at Oregon
+State Hospital, ] or has been hospitalized as the result of a revocation of conditional release.
+(c) Payment is made for the first 60 consecutive days of hospitalization.
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 3
+(d) The hospital has collected all available patient payments and third-party reimbursements.
+(e) In the case of a community hospital, the authority has approved the hospital for the  care of
+persons with mental or emotional disturbances, the community mental health  program has a con-
+tract with the hospital for the psychiatric care of residents and a representative of  the program
+approves voluntary or involuntary admissions to the hospital prior to admission.
+(5) Subject to  the review and approval of the Oregon Health Authority, a community mental
+health program may initiate additional services after the  services defined in this section are pro-
+vided.
+(6) Each  community mental health program and the state hospital serving the program’s ge-
+ographic area shall enter into a written agreement concerning the policies and procedures to be
+followed by the program and the hospital when a patient is  admitted to, and discharged from, the
+hospital and during the period of hospitalization.
+(7) Each community mental health program  shall have a mental health advisory committee, ap-
+pointed by the board of county commissioners or the county court or, if two or more  counties have
+combined to provide mental health services, the boards or courts of the participating  counties or,
+in the case of a Native American reservation, the tribal council.
+(8) A community mental health program may request and  the authority may grant a waiver re-
+garding provision of  one or more of the services described in subsection (3) of this section upon a
+showing by the county and a determination by the authority that persons with mental  or emotional
+disturbances in that county would be better served and unnecessary institutionalization avoided.
+(9)(a) As used in this subsection, “local mental health authority” means  one of the following
+entities:
+(A) The board of  county commissioners of one or more counties that establishes or operates a
+community mental health program;
+(B) The tribal council, in the case of a federally recognized tribe of Native Americans that elects
+to enter into an agreement to provide mental health services; or
+(C) A regional local mental health authority  comprising two or more boards of county commis-
+sioners.
+(b) Each local mental health authority that provides mental health services shall determine the
+need for local mental health services and adopt a comprehensive local plan for the delivery  of
+mental health services for children, families,  adults and older adults that describes the methods by
+which the local mental health authority shall  provide those services. The purpose of the local plan
+is to  create a blueprint to provide mental health services that are directed by and responsive to the
+mental health needs of  individuals in the community served by the local plan. A local mental health
+authority shall coordinate its local planning with the development of the community health im-
+provement plan under ORS 414.575 by the  coordinated care organization serving the area. The
+Oregon Health Authority may require a local mental health authority to review and  revise the local
+plan periodically.
+(c) The local plan shall identify ways to:
+(A) Coordinate and ensure accountability for all levels of care described in paragraph (e) of  this
+subsection;
+(B) Maximize resources for consumers and minimize administrative expenses;
+(C) Provide supported employment and other vocational opportunities for consumers;
+(D) Determine the most appropriate service provider among a range of qualified providers;
+(E) Ensure that appropriate mental health referrals are made;
+(F) Address local housing needs for persons with mental health disorders;
+(G) Develop a process for discharge from state and local psychiatric hospitals  and transition
+planning between levels of care or components of the system of care;
+(H) Provide peer  support services, including but not limited to drop-in centers and paid peer
+support;
+(I) Provide transportation supports; and
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 4
+(J) Coordinate services among the criminal and juvenile  justice systems, adult and juvenile
+corrections  systems  and local mental health programs to ensure that persons with mental illness
+who come into contact with the justice and corrections  systems receive needed care and to ensure
+continuity of services for adults and juveniles leaving the corrections system.
+(d) When developing a local plan, a local mental health authority shall:
+(A) Coordinate with  the budgetary cycles of state and local governments that provide the local
+mental health authority with funding for mental health services;
+(B) Involve consumers, advocates, families, service providers, schools and other  interested par-
+ties in the planning process;
+(C) Coordinate with the local public safety coordinating council to address the services  de-
+scribed in paragraph (c)(J) of this subsection;
+(D) Conduct a population based needs assessment to  determine the types of services needed lo-
+cally;
+(E) Determine the ethnic, age-specific, cultural and diversity needs of  the population served by
+the local plan;
+(F) Describe the anticipated outcomes of services and the actions to  be achieved in the local
+plan;
+(G) Ensure that the local plan coordinates planning, funding and services with:
+(i) The educational needs of children, adults and older adults;
+(ii) Providers of social supports, including but not limited to housing, employment, transporta-
+tion and education; and
+(iii) Providers of physical health and medical services;
+(H) Describe how funds, other than state resources, may be  used to support and implement the
+local  plan;
+(I) Demonstrate  ways to integrate local services and administrative functions in order to support
+integrated service delivery in the local plan; and
+(J) Involve the local mental health advisory committees described in subsection (7) of this sec-
+tion.
+(e) The local plan must describe how the local mental health authority will ensure the delivery
+of and be accountable for clinically appropriate services in a continuum of care  based on consumer
+needs. The local plan shall include, but not be limited to,  services providing the following levels of
+care:
+(A) Twenty-four-hour crisis services;
+(B) Secure and nonsecure extended psychiatric care;
+(C) Secure and nonsecure acute psychiatric care;
+(D) Twenty-four-hour supervised structured treatment;
+(E) Psychiatric day treatment;
+(F) Treatments that maximize client independence;
+(G) Family and peer support and self-help services;
+(H) Support services;
+(I) Prevention and early intervention services;
+(J) Transition assistance between levels of care;
+(K) Dual diagnosis services;
+(L) Access to placement in state-funded psychiatric hospital beds;
+(M) Precommitment and civil commitment in accordance with ORS chapter 426; and
+(N) Outreach to older adults at locations appropriate for making contact with older adults, in-
+cluding senior centers, long term care facilities and personal residences.
+(f) In developing the part of the local  plan referred to in paragraph (c)(J) of this subsection, the
+local mental health authority shall collaborate with the local public safety coordinating council to
+address the following:
+(A) Training for all law enforcement officers on ways to recognize and  interact with persons
+with mental illness, for the purpose of diverting them  from the criminal and juvenile justice systems;
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 5
+(B) Developing voluntary locked facilities for  crisis treatment and follow-up as an alternative
+to custodial arrests;
+(C) Developing a plan for sharing a daily jail and juvenile detention center  custody roster and
+the identity of persons of concern and offering mental health services to those in custody;
+(D) Developing a  voluntary diversion program to provide an alternative for persons with mental
+illness in the criminal and juvenile justice systems; and
+(E) Developing mental health services, including housing, for persons with mental  illness prior
+to and upon release from custody.
+(g) Services described in the local plan shall:
+(A) Address the vision, values and guiding principles described in  the Report to the Governor
+from the Mental Health Alignment Workgroup, January 2001;
+(B) Be provided to children, older adults and families as close to their homes as possible;
+(C) Be culturally appropriate and competent;
+(D) Be, for children, older adults and adults with mental health needs, from  providers appropri-
+ate to deliver those services;
+(E) Be delivered in an integrated service delivery system with  integrated service sites or proc-
+esses, and with the use of integrated service teams;
+(F) Ensure consumer choice among a range of qualified providers in the community;
+(G) Be distributed geographically;
+(H) Involve consumers, families, clinicians, children and schools in treatment as appropriate;
+(I) Maximize early identification and early intervention;
+(J) Ensure appropriate  transition planning between providers and service delivery systems, with
+an emphasis on transition between children and adult mental health services;
+(K) Be based on the ability of a client to pay;
+(L) Be delivered collaboratively;
+(M) Use age-appropriate, research-based quality indicators;
+(N) Use best-practice innovations; and
+(O) Be delivered using a community-based, multisystem approach.
+(h) A local mental health  authority shall submit to the Oregon Health Authority a copy of the
+local plan and  revisions adopted under paragraph (b) of this subsection at time intervals established
+by the Oregon Health Authority.
+PSYCHIATRIC MENTAL HEALTH NURSE PRACTITIONER
+SECTION 5.
+ ORS 426.701 is amended to read:
+426.701. (1) For the purposes of this section and ORS 426.702:
+(a) A person is “extremely dangerous” if the person:
+(A) Is at least 18 years of age;
+(B) Is exhibiting symptoms or behaviors  of a qualifying mental disorder substantially similar to
+those that preceded the act described in subsection (3)(a)(C) of this section; and
+(C) Because of a qualifying mental disorder:
+(i) Presents a serious danger to the safety  of other persons by reason of an extreme risk that
+the person will inflict grave or potentially lethal physical injury on other persons; and
+(ii) Unless committed,  will continue to represent an extreme risk to the safety of other persons
+in the foreseeable future.
+(b) “Qualifying mental disorder” does not include:
+(A) A disorder manifested solely by repeated criminal or otherwise antisocial conduct; or
+(B) A disorder constituting solely a personality disorder.
+(c) A qualifying mental disorder is “resistant to treatment” if[ , after  receiving care from a li-
+censed psychiatrist and exhausting all reasonable psychiatric  treatment, or after refusing psychiatric
+treatment,] the person continues to  be significantly impaired in the person’s ability to make compe-
+tent decisions and to be aware of and control extremely dangerous behavior  after:
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 6
+(A) Receiving care from a licensed psychiatrist or a licensed  nurse practitioner with a
+specialty in psychiatric mental health and exhausting all reasonably psychiatric  treatment;
+or
+(B) Refusing psychiatric treatment .
+(2)(a) A  district attorney may petition the court to initiate commitment proceedings described
+in this section if there is reason to believe a person is an  extremely dangerous person with mental
+illness. Venue is  proper in the county in which the person is alleged to have committed the quali-
+fying act or the county in which the person lives. The petition shall immediately be served  upon the
+person.
+(b) If a person  is committed to a state hospital under ORS 161.365 or 161.370 and the state
+hospital intends to discharge the person, the district attorney may provide notice  to the super-
+intendent of the state hospital indicating an intent to file a petition  under this section. Upon receipt
+of the notice, the superintendent may delay discharge of the person for  up to seven judicial days to
+allow for the petition to be filed  and for the court to make findings under paragraph (f) of this
+subsection.
+(c) The person shall be advised in writing of:
+(A) The allegation that the person is an extremely dangerous person with mental illness  and
+may be committed to the jurisdiction of the Psychiatric Security Review Board for a maximum pe-
+riod of 24 months; and
+(B) The right to a hearing to  determine whether the person is an extremely dangerous person
+with mental illness, unless the person consents to the commitment by waiving the right  to a hearing
+in writing after consultation with legal counsel.
+(d) A person against whom a petition described in this subsection is filed shall have  the fol-
+lowing:
+(A) The  right to obtain suitable legal counsel possessing skills and experience commensurate
+with the nature of the allegations and complexity of the case and, if the person is without funds  to
+retain legal counsel, the right to have the court appoint legal counsel;
+(B) The right to subpoena  witnesses and to offer evidence on behalf of the person at the hearing;
+(C) The right to cross-examine any witnesses who appear at the hearing; and
+(D) The right to examine all reports, documents  and information that the court considers, in-
+cluding the right to examine the reports, documents and information prior to the  hearing, if avail-
+able.
+(e) Upon receipt of the petition, the court shall schedule a hearing and shall  appoint an exam-
+iner as described in ORS 426.110 to evaluate the  person. If the person is in custody or committed
+while the hearing is pending, the hearing must commence within 30 days  of filing the petition unless
+good cause is found by the court. If the court finds good cause, the hearing  must commence no later
+than 60  days after the filing of the petition or, if the district attorney provided notice under para-
+graph (b) of this subsection, the date of the notice, whichever occurs first. As used in this paragraph,
+“good cause” means:
+(A) The person who would be  considered the victim of the act described in subsection (3)(a)(C)
+of this section if the act  were criminally prosecuted, or an essential witness for either the state or
+the person, is unable to testify within the 30-day period.
+(B) The attorney for the person cannot reasonably be  expected to participate in the hearing
+within the 30-day period, cannot  be adequately prepared to represent the person at the hearing
+within the  30-day period, or has a schedule conflict that cannot be resolved in a manner that allows
+the attorney to represent the person at a hearing within the 30-day period.
+(C) An examiner cannot be appointed to conduct  the examination, or conduct the examination
+and prepare a report, within the 30-day period.
+(D) If a guardian ad litem is  appointed on the case, the guardian ad litem cannot be prepared
+for a hearing within the 30-day period.
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 7
+(f)(A) The court may order that the person be  committed to the custody of the superintendent
+of a state hospital or the director of a secure mental health facility while the petition is pending if
+the court finds probable cause that:
+(i) The person is at least 18 years of age;
+(ii) The person has a qualifying mental disorder that is resistant to treatment;
+(iii) The person committed an act described in subsection (3)(a)(C) of this section; and
+(iv) Failure to commit the person while the  hearing is pending would pose serious harm or
+danger to the person or others.
+(B) If a person committed  under this paragraph is held in a secure facility other than a state
+hospital or secure mental health facility, including but not limited to a jail or prison,  at the time
+the petition  is filed, the court may further order that the person remain at that placement for suf-
+ficient time to allow the superintendent or director to safely admit the person. Any order  of the
+court concerning the placement of a person  under this subparagraph must be in accordance with the
+person’s constitutional right to  due process. If the person remains in a secure facility under this
+subparagraph, the superintendent, director or  designee may consult with the facility to ensure con-
+tinuity of care for the person.
+(C) Commitment to the  custody of the superintendent of a state hospital or the director of a
+secure mental health facility  under this paragraph may not exceed 60 days. If the hearing does not
+occur within 60 days, if the district attorney dismisses the petition, or if the court  holds the hearing
+but does not commit  the person, the person shall be returned to the county in which the petition
+was filed and the court shall hold a disposition hearing within five judicial days to  determine how
+to proceed on the petition and any outstanding criminal charges. A person who is returned to a
+secure facility other than a state hospital  or secure mental health facility, including but not limited
+to a jail or prison, under this paragraph may remain at the  placement until the disposition hearing.
+(g) If the hearing is not commenced within the time period required by paragraph (e)  of this
+subsection, the court shall either dismiss the petition or release  the person on personal recogni-
+zance, to the custody of a third  party or upon any additional reasonable terms and conditions the
+court deems appropriate.
+(3)(a) At the hearing on the petition,  the court shall order the person committed as an extremely
+dangerous person with mental illness under  the jurisdiction of the Psychiatric Security Review
+Board for a maximum of 24 months if the court finds, by clear and convincing evidence, that:
+(A) The person is extremely dangerous;
+(B) The person suffers from a qualifying mental disorder that is resistant to treatment; and
+(C) Because of the  qualifying mental disorder that is resistant to treatment, the person com-
+mitted one of the following acts:
+(i) Caused the death of another person;
+(ii) Caused serious physical injury to another person by means of a dangerous weapon;
+(iii) Caused physical injury to another person by  means of a firearm as defined in ORS 166.210
+or an explosive as defined in ORS 164.055;
+(iv) Engaged in oral-genital contact with a child under 14 years of age;
+(v) Forcibly compelled sexual intercourse, oral-genital contact or the  penetration of another
+person’s anus or vagina; or
+(vi) Caused a fire or  explosion that damaged the protected property of another, as those terms
+are defined in ORS 164.305, or placed another  person in danger of physical injury, and the fire or
+explosion was not the incidental result of normal and usual daily activities.
+(b) The court shall further commit the person  to a state hospital for custody, care and treatment
+if the court finds, by clear and convincing evidence, that the person cannot be controlled in the
+community with proper care, medication, supervision and treatment on conditional release.
+(c) The court shall specify in the order whether any person who would be considered a victim
+as defined in ORS 131.007 of the act described in paragraph (a)(C) of this subsection, if the act had
+been criminally prosecuted, requests notification of any order or  hearing, conditional release, dis-
+charge or escape of the person committed under this section.
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 8
+(d) The court shall be  fully advised of all drugs and other treatment known to have been ad-
+ministered to the alleged extremely dangerous person with mental illness that may substantially af-
+fect the ability of the person to prepare for, or to function effectively at, the hearing.
+(e) The provisions of ORS 40.230, 40.235, 40.240, 40.250 and 179.505  do not apply to the use of
+the examiner’s report and the court may consider the report as evidence.
+(4) The findings of the court that a person committed an  act described in subsection (3)(a)(C)
+of this section may not be admitted in a criminal prosecution.
+(5)(a) If the court commits a person under this section and the person has  pending criminal
+charges at the time of the hearing, the court shall dismiss the criminal charges without  prejudice,
+and if the person is further committed to a state hospital under this  section, the dismissal shall not
+take effect until the person’s transportation to the state hospital.
+(b) If the court commits a person to the state hospital under this section and:
+(A) The person is in a setting other than  a state hospital, the court may additionally order that
+the person  remain in that placement until the person can be safely transported to a state hospital
+pursuant to the order. Any order of the court concerning the placement of  the person under this
+subparagraph must be in accordance with the person’s constitutional right to due process.
+(B) The person is at a state hospital at the time of the hearing, the person may remain at  the
+state hospital under the commitment.
+(c) A person committed under this section shall remain under the jurisdiction of  the board for
+a maximum of 24 months unless the board conducts a hearing and makes the findings  described in
+subsection (6)(d) of this section.
+(6)(a) The board shall hold  a hearing six months after the initial commitment described in sub-
+section (3) of this  section, and thereafter six months after a further commitment described in ORS
+426.702, to determine the placement of the person  and whether the person is eligible for conditional
+release or early discharge. The board shall provide written notice of the hearing to the person, the
+person’s legal  counsel and the office of the district attorney who filed the initial petition under
+subsection (2) of this section within a reasonable time prior to the hearing. The board  shall further
+notify the person of the following:
+(A) The nature of the hearing and possible outcomes;
+(B) The right to appear at the hearing and present evidence;
+(C) The  right to be represented by legal counsel and, if the person is without funds to retain
+legal counsel, the right to have the court appoint legal counsel;
+(D) The right to subpoena witnesses;
+(E) The right to cross-examine witnesses who appear at the hearing; and
+(F) The right to examine all reports, documents and  information that the board considers, in-
+cluding the right to examine the reports, documents and information prior to  the hearing if avail-
+able.
+(b) If the board determines at the hearing that the person still suffers from  a qualifying mental
+disorder that is resistant to treatment and continues to be  extremely dangerous, and that the person
+cannot be controlled in the community with proper care, medication, supervision and treatment  if
+conditionally released, the person shall remain committed to a state hospital.
+(c) If the board determines at the hearing that the person still suffers  from a qualifying mental
+disorder that is resistant to treatment and continues to be extremely dangerous,  but finds that the
+person can be controlled in the community with proper care,  medication, supervision and treatment
+if conditionally released, the board shall conditionally release the person.
+(d) If the  board determines at the hearing that the person no longer suffers from a qualifying
+mental disorder that is resistant to treatment or is  no longer extremely dangerous, the board shall
+discharge the person. The discharge of a person  committed under this section does not preclude
+commitment of the person pursuant to ORS 426.005 to 426.390.
+(7)(a) At any time during the commitment to a  state hospital, the superintendent of the state
+hospital may request a hearing to determine the status of the person’s commitment under the juris-
+diction of the board. The request shall be accompanied by a  report setting forth the facts supporting
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 9
+the request. If the request is for conditional release, the request shall  be accompanied by a verified
+conditional release plan. The hearing shall be conducted as described in subsection (6) of this  sec-
+tion.
+(b) The board may make the findings described in subsection (6)(c) of this section and  condi-
+tionally release the person without a hearing if the office of the district attorney  who filed the ini-
+tial petition under subsection (2) of this section does not object to the conditional release.
+(c) At any time during conditional release, a state or local  mental health facility providing
+treatment to the person may request a hearing to determine the  status of the person’s commitment
+under the jurisdiction of the board. The hearing shall be conducted as described in  subsection (6)
+of this section.
+(8)(a) If the board orders the conditional release of a person under subsection (6)(c)  of this sec-
+tion, the board shall order  conditions of release that may include a requirement to report to any
+state or  local mental health facility for evaluation. The board may further require cooperation with,
+and acceptance of, psychiatric or psychological treatment from the facility. Conditions  of release
+may be modified by the board from time to time.
+(b) When a person is referred  to a state or local mental health facility for an evaluation under
+this subsection, the facility shall perform the evaluation and submit a written  report of its findings
+to the board. If the facility finds that treatment of the person is appropriate, the  facility shall in-
+clude its recommendations for treatment in the report to the board.
+(c) Whenever treatment is  provided to the person by a state or local mental health facility under
+this subsection, the facility shall furnish reports  to the board on a regular basis concerning the
+progress of the person.
+(d) Copies of all reports submitted to the board pursuant to  this subsection shall be furnished
+to the person and to the person’s legal counsel, if applicable. The confidentiality of  these reports is
+determined pursuant to ORS 192.338, 192.345 and 192.355.
+(e) The state or local  mental health facility providing treatment to the person under this sub-
+section shall comply with the conditional release order and any modifications of the  conditions or-
+dered by the board.
+(9)(a) If at any time while the person is conditionally released it appears that  the person has
+violated  the  terms of the conditional release, the board may order the person returned to a state
+hospital for evaluation or treatment. A written order of the board is sufficient warrant for any  law
+enforcement officer to take the person into custody. A sheriff, municipal police officer, parole or
+probation officer or other peace officer shall execute the order, and  the person shall be returned to
+the state hospital as soon as practicable.
+(b) The director of a state or local mental  health facility providing treatment to a person under
+subsection (8) of this section may request that the board issue a written order for  a person on
+conditional release to be taken into custody if there is reason to believe that the  person can no
+longer be controlled in the community with proper care, medication, supervision and treatment.
+(c) Within 30 days following the return of the person to  a state hospital, the board shall conduct
+a hearing to determine if, by a preponderance of the evidence, the person is no longer  fit for con-
+ditional release. The board shall provide written notice of the hearing to the  person, the person’s
+legal counsel and the office of  the district attorney who filed the initial petition under subsection
+(2) of this section within a reasonable time prior to the hearing. The notice shall advise the  person
+of the nature of the hearing, the right to have the  court appoint legal counsel and the right to
+subpoena witnesses, examine documents considered by the  board and cross-examine all witnesses
+who appear at the hearing.
+(10)(a) If the person had unadjudicated criminal charges at the time of the filing of the petition
+for the person’s initial commitment under this section and the state hospital or the state  or local
+mental health facility providing treatment to the  person intends to recommend discharge of the
+person at  an upcoming hearing, the superintendent of the state hospital or the director of the fa-
+cility shall provide written notice to the board and the district attorney of  the county where the
+criminal charges were  initiated of the discharge recommendation at least 45 days before the hearing.
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 10
+The notice shall be accompanied by a report describing  the person’s diagnosis and the treatment the
+person has received.
+(b) Upon receiving the notice described in this subsection, the district attorney may request an
+order  from  the court in the county where the criminal charges were initiated for an evaluation to
+determine if the person is fit to proceed in the  criminal proceeding. The court may order the state
+hospital or the state or local mental health facility providing treatment  to the person to perform the
+evaluation. The hospital or  facility shall provide copies of the evaluation to the district attorney,
+the person and the person’s legal counsel, if applicable.
+(c) The person committed under this section may not waive an evaluation ordered by  the court
+to determine if the person is fit to proceed with the criminal proceeding as  described in this sub-
+section.
+(11) The board shall make reasonable efforts to notify any person  described in subsection (3)(c)
+of this section of any order or hearing,  conditional release, discharge or escape of the person com-
+mitted under this section.
+(12) Unless the court orders otherwise or either party objects, any party  or witness may attend
+a hearing held under this section via simultaneous electronic transmission.
+(13) The board shall adopt rules to carry out the provisions of this section and ORS 426.702.
+(14) Any time limitation described in ORS 131.125 to 131.155 does  not run during a commitment
+described in this section or a further commitment described in ORS 426.702.
+CHIEF MEDICAL OFFICER OF STATE HOSPITAL
+SECTION 6.
+ ORS 426.020 is amended to read:
+426.020. (1) The superintendent of a hospital referred to  in ORS 426.010 [ shall] must  be a person
+the Oregon Health Authority considers qualified to administer the hospital. [ If the superintendent
+of any hospital is a physician licensed by the Oregon Medical Board, the superintendent shall serve
+as chief medical officer. ]
+(2) [If the superintendent is not a physician, ] The Director of the Oregon Health  Authority or the
+designee of  the director shall designate a physician licensed by the Oregon Medical Board  to
+serve as chief  medical officer  of a hospital referred to in ORS 426.010 . The designated chief
+medical officer may be an appointed state employee in the unclassified  service, a self-employed
+contractor or an employee of a public  or private entity that contracts with the authority to provide
+chief medical  officer services. Unless the designated chief medical officer is specifically appointed
+as a state employee in the unclassified service,  the designated chief medical officer shall not be
+deemed a state employee for purposes of any state statute, rule or policy.
+(3)(a) Notwithstanding  any other provision of law, the designated chief medical officer may su-
+pervise physicians and naturopathic physicians who are employed  by the hospital or who provide
+services at the hospital pursuant to a contract.
+(b) The designated chief medical officer may delegate all  or part of the authority to supervise
+other physicians and naturopathic physicians at the hospital to a physician who  is employed by the
+state, a self-employed contractor or an employee of a public or private entity that  contracts with
+the authority to provide physician services.
+CERTIFIED EVALUATORS
+SECTION 7.
+ ORS 161.362 is amended to read:
+161.362. (1) A recommendation provided  by a certified evaluator, pursuant to ORS 161.355 to
+161.371, that a defendant requires a hospital level of care due to the acuity of the defendant’s
+symptoms must be based upon  the defendant’s current diagnosis and [ symptomology]
+symptomatology, the defendant’s current  ability to engage in treatment, present safety concerns
+relating to the  defendant and any other pertinent information known to the evaluator. If the de-
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 11
+fendant is in a placement in a facility, the evaluator may defer to the  treatment provider’s recom-
+mendation regarding whether a hospital level of care is needed.
+(2) A determination by a community mental health program director, or the  director’s designee,
+pursuant to ORS 161.355 to 161.371, that  appropriate community restoration services are not present
+and available in the community  must include information concerning the specific services necessary
+to safely allow the defendant to gain or regain fitness to proceed  in the community and must specify
+the necessary services that are not present and available in the community.
+(3)(a) Reports resulting from  examinations performed by a certified evaluator, and documents
+containing the recommendations of or resulting from consultations with a community  mental health
+program director  or the director’s designee, prepared under ORS 161.355 to 161.371, and any docu-
+ment submitted to the court  by a state mental hospital related to the proceedings under ORS 161.355
+to 161.371, are confidential and may be made available only:
+(A) To the court, prosecuting attorney, defense attorney, agent of the prosecuting or defense
+attorney, defendant, community mental health program director or designee,  state mental hospital
+and any facility in which the defendant is housed; or
+(B) As ordered by a court.
+(b) Any facility in which a defendant is housed  may not use a report or document described in
+paragraph (a) of this subsection to support a disciplinary action against the defendant.
+(c) Nothing in this subsection prohibits the  prosecuting attorney, defense attorney or agent of
+the prosecuting or defense attorney from discussing the contents of a report  or document described
+in paragraph (a) of this subsection with witnesses or victims as otherwise permitted by law.
+(4) The court shall ensure that an  order entered under ORS 161.355 to 161.371 is provided, by
+the end of the next judicial day, to any entity ordered to provide restoration services.
+(5) Unless the court orders otherwise or either party objects,  a defendant committed to a state
+mental hospital or other facility, or a certified evaluator  or other expert witness, may attend
+hearings held under ORS 161.355 to 161.371 via simultaneous electronic transmission.
+SECTION 8.
+ ORS 161.371 is amended to read:
+161.371. (1) The superintendent of a state  mental hospital or director of a facility to which the
+defendant is committed under ORS 161.370 shall cause the defendant  to be evaluated by a certified
+evaluator within  60 days from the defendant’s delivery into the superintendent’s or director’s cus-
+tody, for the purpose of determining whether  there is a substantial probability that, in the foresee-
+able future, the defendant will have fitness to proceed. In  addition, the superintendent or director
+shall:
+(a) Immediately notify the committing court if the defendant, at  any time, gains or regains fit-
+ness to proceed or if there is no substantial probability that, within the foreseeable  future, the de-
+fendant will gain or regain fitness to proceed.
+(b) Within 90 days  of the defendant’s delivery into the superintendent’s or director’s custody,
+notify the committing court that:
+(A) The defendant has present fitness to proceed;
+(B) There is no  substantial probability that, in the foreseeable future, the defendant will gain
+or regain fitness to proceed; or
+(C) There is a substantial probability that, in the foreseeable future,  the defendant will gain or
+regain fitness to proceed. If the probability exists, the superintendent or director shall give the court
+an estimate of the time in which the defendant, with appropriate treatment, is expected to  gain or
+regain fitness to proceed.
+(c) Notify the court if  court-ordered involuntary medication is necessary for the defendant to
+gain or  regain fitness to proceed and, if appropriate, submit a report to the court under ORS 161.372.
+(2)(a) If the superintendent of the state mental hospital or director of the facility to  which the
+defendant is committed determines that there is a substantial probability that, in the  foreseeable
+future, the defendant will  gain or regain fitness to proceed, unless the court otherwise orders, the
+defendant shall remain in the superintendent’s or director’s custody where the defendant shall re-
+ceive treatment designed for the purpose of enabling the  defendant to gain or regain fitness to
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 12
+proceed. In keeping  with the notice requirement under subsection (1)(b) of this section, the super-
+intendent or director shall, for the  duration of the defendant’s period of commitment, submit a
+progress report to the committing court, concerning the defendant’s fitness to proceed, at  least once
+every 180 days as measured from the date of the  defendant’s delivery into the superintendent’s or
+director’s  custody.
+(b) A progress report described in paragraph (a) of this subsection may consist of an  update to:
+(A) The original examination report conducted under ORS 161.365; or
+(B) An evaluation conducted under subsection  (1) of this section, if the defendant did not receive
+an examination under ORS 161.365.
+(3)(a) Notwithstanding subsection (2) of this section, if the most serious  offense in the charging
+instrument is a felony, and the superintendent of the state mental hospital or director of the facility
+to which the defendant is committed determines that a hospital level  of care is no longer necessary
+due to  present public safety concerns and the acuity of symptoms of the defendant’s qualifying
+mental disorder, the superintendent or director may file notice of the determination with the  court.
+Upon receipt of the notice, the court shall order that  a community mental health program director
+or the director’s designee, within five judicial days:
+(A) Consult with the defendant and with  any local entity that would be responsible for providing
+community restoration services, if the defendant were to be released  in the community, to determine
+whether community restoration services are present and available in the community; and
+(B) Provide the court and the parties with recommendations from the consultation.
+(b) Notwithstanding subsection (2) of this section, if the most serious offense in  the charging
+instrument is a felony, and the  community mental health program director determines that commu-
+nity restoration services that would mitigate any risk posed by the defendant are  present and
+available in the community, the community mental health program director may file notice of  the
+determination with the court.  Upon receipt of the notice, the court shall order that the superinten-
+dent of the state  mental hospital or director of the facility to which the defendant is committed,
+within five judicial days:
+(A) Evaluate the defendant to  determine whether a hospital level of care is no longer necessary
+due to present public  safety concerns, or no longer necessary due to the acuity of symptoms of the
+defendant’s qualifying mental disorder; and
+(B) Provide the court and the parties with recommendations from the evaluation.
+(c) Within 10 judicial days of receiving the  recommendations described in paragraph (a) or (b)
+of this subsection, the court  shall hold a hearing to determine an appropriate action in accordance
+with ORS 161.370 (2)(c) as follows:
+(A) If, after consideration of the factors and possible actions described in ORS 161.370 (2)(c)  and
+any recommendations received under paragraph (a) or (b) of this subsection, the court determines
+that a hospital level of care is necessary  due to public safety concerns or the acuity of symptoms
+of the defendant’s qualifying mental disorder, and that based on the consultation or  evaluation de-
+scribed in paragraph (a) or (b) of  this subsection, any information provided by community-based
+mental health providers or any other sources,  primary and secondary release criteria as defined in
+ORS 135.230, and any other information the court finds to be trustworthy and  reliable, the appro-
+priate community restoration services are not present and available in the community,  the court
+may continue the commitment of the defendant.
+(B) If the court does not make the determination described in subparagraph (A)  of this para-
+graph, the court shall terminate the commitment and shall set a review hearing seven  days from the
+date of the commitment termination for any defendant remaining  in custody. At the review hearing,
+the court shall consider all relevant information, determine an appropriate action in  the case as
+described in ORS 161.370 (2)(c) and enter an order in accordance with the defendant’s  constitutional
+rights to due process.
+(4)(a) Notwithstanding subsection (2) of  this section, if the most serious offense in the charging
+instrument is a misdemeanor, and the superintendent of the state mental hospital or director  of the
+facility to which the defendant is committed determines that the defendant  no longer needs a hos-
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 13
+pital level of  care due to the acuity of symptoms of the defendant’s qualifying mental disorder or
+there are not present public safety  concerns, the superintendent or director shall file notice of the
+determination with the court, along with recommendations  regarding the necessary community res-
+toration services that would mitigate any risk presented by the defendant. Upon receipt of the no-
+tice, the court shall order that a community mental  health program director or the director’s
+designee, within five judicial days:
+(A) Consult with the defendant and with  any local entity that would be responsible for providing
+community restoration services, if the defendant were to be released  in the community, to determine
+whether appropriate community restoration services  are present and available in the community;
+and
+(B) Provide the court and the parties with recommendations from the consultation.
+(b) Notwithstanding subsection  (2) of this section, if the most serious offense in the charging
+instrument is a misdemeanor, and the  community mental health program director determines that
+the community  restoration services that would mitigate any risk posed by the defendant are present
+and available in the community, the  community mental health program director may file notice of
+the determination with  the court. Upon receipt of the notice, the court shall order that the super-
+intendent of the state  mental hospital or director of the facility to which the defendant is committed,
+within five judicial days:
+(A) Evaluate the defendant to  determine whether a hospital level of care is no longer necessary
+due to present public safety concerns, or no longer necessary due to the acuity of  symptoms of the
+defendant’s qualifying mental disorder; and
+(B) Provide the court and the parties with recommendations from the evaluation.
+(c) Within 10 judicial days of receiving the  recommendations described in paragraph (a) or (b)
+of this subsection, the court shall hold a hearing to determine an  appropriate action in accordance
+with ORS 161.370 (2)(c) as follows:
+(A) After consideration of the  factors and possible actions described in ORS 161.370 (2)(c), the
+consultation or evaluation and any recommendations  described in paragraph (a) or (b) of this sub-
+section,  and  any other information the court finds to be trustworthy and reliable, the court may
+continue the commitment of the defendant  if the court makes written findings that a hospital level
+of care is necessary due to public safety concerns  and the acuity of symptoms of the defendant’s
+qualifying mental disorder, and that appropriate community restoration services are not  present and
+available in the community.
+(B) If the court does  not make the findings described in subparagraph (A) of this paragraph, the
+court shall terminate the  commitment and shall set a review hearing seven days from the date of
+the commitment termination for any defendant remaining in custody. At the review  hearing, the
+court shall consider all relevant information, determine  an appropriate action in the case as de-
+scribed in ORS 161.370 (2)(c)  and enter an order in accordance with the defendant’s constitutional
+rights to due process.
+(5)(a) If  a defendant remains committed under this section, the court shall determine within a
+reasonable period of time whether there is a substantial  probability that, in the foreseeable future,
+the defendant will gain or regain fitness to  proceed. However, regardless of the number of charges
+with which the defendant is accused, in no event shall  the defendant be committed for longer than
+whichever of the following, measured from the defendant’s initial custody date, is shorter:
+(A) Three years; or
+(B) A period of time equal to the maximum  sentence the court could have imposed if the de-
+fendant had been convicted.
+(b) For purposes of calculating the maximum period  of commitment described in paragraph (a)
+of this subsection:
+(A) The initial custody date is the date  on which the defendant is first committed under this
+section on any charge alleged in the accusatory instrument; and
+(B) The defendant shall be given credit against  each charge alleged in the accusatory instru-
+ment:
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 14
+(i) For each day the defendant is committed under this section, whether the days are consecutive
+or are interrupted by a period of time during which the defendant  has gained or regained fitness to
+proceed;  and
+(ii) Unless the defendant is charged on any charging instrument with aggravated murder  or a
+crime listed in ORS 137.700 (2), for each day the defendant is held  in jail before and after the date
+the defendant is first committed, whether the days are consecutive or  are interrupted by a period
+of time during which the defendant lacks fitness to proceed.
+(c) The superintendent of the state mental hospital or director  of the facility to which the de-
+fendant is committed shall notify the committing court of the  defendant’s impending discharge 30
+days before the date on which  the superintendent or director is required to discharge the defendant
+under this subsection.
+(6)(a) All notices required under this section shall be filed with  the court and may be filed
+electronically. The clerk of the court  shall cause copies of the notices to be delivered to both the
+district attorney and the counsel for the defendant.
+(b) When the  committing court receives a notice from the superintendent or director under
+subsection (1) of this  section concerning the defendant’s progress or lack thereof, or under sub-
+section (5) of this section concerning the defendant’s impending discharge,  the committing court
+shall determine, after a hearing if  a hearing is requested, whether the defendant presently has fit-
+ness to proceed.
+(7) If at any time the court determines that  the defendant lacks fitness to proceed, the court
+shall further determine whether the defendant is entitled to  discharge under subsection (5) of this
+section. If the court determines that the defendant  is entitled to discharge under subsection (5) of
+this section, the court shall dismiss, without prejudice and in accordance with ORS 161.367  (6), all
+charges against the defendant and:
+(a) Order that the defendant be discharged; or
+(b) Initiate commitment proceedings under ORS 426.070, 426.701 or 427.235 to 427.292.
+CAPTIONS
+SECTION 9.
+The unit captions used in this 2025 Act are provided only for the convenience
+of the reader and do not become part of the statutory law of this state or express any  leg-
+islative intent in the enactment of this 2025 Act.
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 15
+Passed by Senate February 20, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House May 15, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 834 (SB 834-INTRO) Page 16
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 131.007, ORS 131.125, ORS 135.230, ORS 137.700, ORS 161.355, ORS 161.362, ORS 161.365, ORS 161.367, ORS 161.370, ORS 161.371, ORS 161.372, ORS 164.055, ORS 164.305, ORS 166.210, ORS 179.325, ORS 179.505, ORS 192.338, ORS 192.345, ORS 192.355, ORS 40.230, ORS 40.235, ORS 40.240, ORS 40.250, ORS 414.575, ORS 426.005, ORS 426.010, ORS 426.020, ORS 426.070, ORS 426.110, ORS 426.130, ORS 426.220, ORS 426.650, ORS 426.701, ORS 426.702, ORS 430.630
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `fecdd303ab455c65fed486d51aa7d2d0e83b033631a08962144cbcb9eb1d0341` (snapshot `_meta/snapshots/measure-2025r1-sb834-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB834/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `a3386ca6b5e4113df9dff99d385de510bba0e6224a794e75d1153366e0873ac7` (snapshot `_meta/snapshots/measure-2025r1-sb834-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB834/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 834> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

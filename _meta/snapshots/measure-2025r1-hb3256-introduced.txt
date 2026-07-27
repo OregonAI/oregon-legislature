@@ -1,0 +1,112 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3256
+Sponsored by Representative EVANS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act says that vehicles that are eight years old or newer  do not need a certified
+pollution control system. (Flesch Readability Score: 63.8).
+Exempts motor vehicles with model years that predate by  eight years or less the date of regis-
+tration or renewal of registration from the requirement to be equipped with  a certified pollution
+control system.
+A BILL FOR AN ACT
+Relating to motor vehicle pollution control systems; amending ORS 815.300.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 815.300 is amended to read:
+815.300. This section establishes  exemptions from the requirements under ORS 815.295 to be
+equipped with a certified pollution control  system. Exemptions established by this section are in
+addition to any exemptions  established by ORS 801.026. The exemptions established in this section
+are also applicable to requirements for certification of pollution control equipment before  registra-
+tion under ORS 803.350 and 803.465. All of the following  vehicles are exempt from the requirements
+under ORS 815.295:
+(1) Any vehicle that is not a motor vehicle.
+(2) Any vehicle unless the vehicle is registered within:
+(a) The boundaries of  the metropolitan service district formed under ORS chapter 268 for the
+metropolitan area, as defined in ORS 268.020, which includes the City of Portland, Oregon.
+(b) Boundaries designated by the Environmental Quality Commission under ORS 468A.390.
+(3) Any new motor vehicle or new  motor vehicle engine when the registration results from the
+initial retail sale thereof.
+(4) Any motor vehicle:
+(a) Not registered in areas designated under subsection (2)(a) of this section, including any ex-
+pansion of such boundary under subsection (2)(b) of this section, with a  model year that predates
+by more than 20 years the year in which registration or renewal of registration is required; or
+(b) Registered in areas designated under subsection (2)(a) of  this section, including any expan-
+sion of such boundary under subsection (2)(b) of this section, with a model year of 1974 or earlier.
+(5) Motor vehicles that are registered  as farm vehicles under ORS 805.300 or apportioned farm
+vehicles under ORS 805.300.
+(6) Special interest vehicles that are maintained as  collectors’ items and used for exhibitions,
+parades, club activities and similar uses but not used primarily for the transportation of persons  or
+property.
+(7) Fixed load vehicles.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3812
+HB 3256
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+(8) Vehicles that  are proportionally registered under ORS 826.009 and 826.011 in accordance
+with agreements established under ORS 826.007.
+(9) Electric motor vehicles. This subsection does  not exempt hybrid motor vehicles that use
+electricity and another source of motive power.
+(10) First  response rescue units operated by political subdivisions of this state that are not used
+to transport persons who are ill or injured or who have disabilities.
+(11) A vehicle that is currently registered in Oregon at  the time application for new registration
+is received by the Department of Transportation if the new registration is  a result of a change in
+the registration or plate type and the  application is received at least four months prior to the ex-
+piration of the existing registration.
+(12) Golf carts.
+(13) Any Class I, Class II, Class III or Class IV all-terrain vehicle.
+(14) An original  equipment manufacturer vehicle that is engineered, designed, produced and
+warranted to use natural gas as its only fuel source.
+(15) Racing activity vehicles.
+(16) Any motor vehicle with a model  year that predates the year in which registration
+or renewal is required by eight years or less.
+[2]

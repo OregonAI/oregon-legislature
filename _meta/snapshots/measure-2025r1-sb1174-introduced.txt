@@ -1,0 +1,3538 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1174
+Sponsored by Senator PATTERSON; Senator BONHAM, Representative GOMBERG
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes some changes to the laws about licensed dietitians. The Act  also makes
+a new profession called a licensed nutritionist. The Act says a person may not  practice dietetics or
+nutrition if the person  does not have a license, and that a person may not use some titles or ab-
+breviations if the person does not have a license. (Flesch Readability Score: 62.4).
+Directs the Health Licensing Office to  issue a license to engage in the practice of nutrition to
+a qualified applicant. Changes the requirements for a license  to engage in the practice of dietetics.
+Defines the “practice of dietetics” and the “practice of nutrition.” Changes the name of the Board
+of Licensed Dietitians to the  Board of Licensed Dietitians and Nutritionists. Allows a licensed
+dietitian and a licensed nutritionist to provide services  via telehealth. Prohibits a person from en-
+gaging in the practice of dietetics or the practice of nutrition, or from using specified titles  and
+abbreviations, without a license. Makes exceptions to the licensure requirement.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to the Board of Licensed Dietitians and Nutritionists; creating new provisions; amending
+ORS 192.556, 401.651, 413.164, 413.550, 431A.850, 433.045, 433.443, 441.044,  676.108, 676.150,
+676.350, 676.400, 676.410, 676.565, 676.595, 676.850, 676.992, 691.405, 691.415,  691.435, 691.445,
+691.465, 691.475, 691.477, 691.485, 743B.454 and 746.600 and  section 3, chapter 380, Oregon Laws
+2015; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+LICENSED DIETITIANS AND LICENSED NUTRITIONISTS
+SECTION 1.
+Sections 2 to 5 of this 2025  Act are added to and made a part of ORS 691.405
+to 691.485.
+SECTION 2. The Health Licensing Office, in consultation with  the Board of Licensed
+Dietitians and Nutritionists, shall issue a license to engage in  the practice of nutrition to an
+applicant who:
+(1) Is at least 18 years of age;
+(2) Submits to the office an application prescribed by the office;
+(3) Pays the fee described in ORS 676.576; and
+(4) Submits to the office proof, as determined sufficient by the office, that:
+(a)(A) The applicant holds  a master’s degree or doctoral degree in a program of study,
+approved by the board, from an  educational institution that at the time the degree was
+awarded was accredited by a United States institutional accrediting body for higher education
+recognized by the United States Department of Education, that includes:
+(i) Coursework leading to competence in medical nutrition therapy;
+(ii) At least 15 semester hours  on clinical or life sciences, including at least three se-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4193
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+mester hours on human anatomy and physiology or equivalent; and
+(iii) At least 15 semester hours on nutrition and  metabolism, including at least six hours
+on biochemistry; or
+(B) An academic degree  from another country that the board determines is equivalent
+to a degree described in subparagraph (A) of this paragraph;
+(b) Subject to  subsection (5) of this section, the applicant has successfully completed,
+within the five  years immediately preceding the date of application, a planned, documented
+and continuously supervised  experience in the practice of nutrition approved by the board
+that:
+(A) Includes at least 1,000  hours of supervised practice under a qualified supervisor as
+described in section 4 of this  2025 Act that includes the following practice areas, with at least
+200 hours in each practice area:
+(i) Nutrition assessment;
+(ii) Nutrition intervention; and
+(iii) Nutrition monitoring and evaluation; and
+(B) Has prepared the applicant to provide nutrition care services for various  populations
+of diverse  cultures and genders and across the life cycle, and to competently formulate
+actionable medical nutrition therapies and nutrition interventions, education, counseling and
+ongoing care for the prevention, modulation and  management of a range of chronic medical
+conditions; and
+(c) Subject to subsection (5) of this section,  the applicant has passed, within the five
+years immediately preceding the date of application, the  certified nutrition specialist exam-
+ination administered by the Board for  Certification of Nutrition Specialists, or its successor
+organization, and approved by the Board of Licensed Dietitians  and Nutritionists, or an ex-
+amination that the board determines is equivalent.
+(5)(a) If more than five years have passed between the date on which  an applicant com-
+pleted the supervised experience described in  subsection (4) of this section and the date on
+which the applicant submits an application to the office, the office may  in its discretion ex-
+tend the five-year limit.
+(b) If more than five  years have passed between the date on which an applicant passed
+the examination described in subsection (4) of this section and the date on which the appli-
+cant submits an application to  the office, the office shall require that the applicant submit
+proof of completion of 75 hours  of continuing education for each additional five years that
+have passed since the date of the examination.
+SECTION 3.
+The Health Licensing Office, in consultation with  the Board of Licensed
+Dietitians and Nutritionists, may waive the examination requirement prescribed in section 2
+of this 2025 Act and grant a license to engage in the practice of nutrition to  an applicant
+who:
+(1) Files an application as prescribed by the office;
+(2) Submits to the office proof, as determined sufficient by  the board, of completion of
+the education and supervised practice requirements  described under section 2 of this 2025
+Act;
+(3) Pays the applicable fees established under ORS 676.576; and
+(4) Presents satisfactory evidence of:
+(a) A valid and current certification, as approved by the Board of Licensed Dietitians  and
+[2]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Nutritionists, from the Board for  Certification of Nutrition Specialists, or its successor or-
+ganization, that allows the applicant to use the title “certified nutrition specialist”; or
+(b) Current authorization as a nutritionist  under the laws of any other state or territory
+in the United States, if the requirements for authorization of nutritionists in  that state or
+territory are not less than those required by ORS 691.405 to 691.485.
+SECTION 4.
+(1) In order to act as a qualified supervisor, a person must be:
+(a) A licensed dietitian or licensed nutritionist;
+(b) A licensed health care  provider whose scope of practice includes the provision of
+medical nutrition therapy; or
+(c) An employee of the federal government, whether or not the  person is licensed in this
+state, whose scope  of employment authorizes the person to provide medical nutrition ther-
+apy.
+(2) A qualified supervisor may:
+(a) Supervise only a clinical activity or nutrition care service that  the qualified supervi-
+sor is qualified and authorized to perform; and
+(b) Assign to the  supervised student or trainee only those nutrition care services that
+are within the training and experience of the supervised student or trainee and customary
+to the qualified supervisor’s practice.
+(3) A qualified supervisor shall:
+(a) Develop and implement a program for advancing  and optimizing the quality of care
+that the supervised student or trainee provides;
+(b) With the supervised student or trainee, identify and document:
+(A) Goals for the supervised practice experience;
+(B) The clinical tasks  assigned to the supervised student or trainee that are appropriate
+to the student or trainee’s evolving level of competence;
+(C) The methods by which the supervised student or trainee may access the qualified
+supervisor; and
+(D) A process for the qualified  supervisor to evaluate the supervised student or trainee’s
+performance;
+(c) Oversee, approve and accept responsibility for the nutrition care  services provided
+by the supervised student or trainee; and
+(d) Regularly review the charts,  records and clinical notes of the supervised student or
+trainee and maintain responsibility for the supervised student or trainee’s recordkeeping.
+(4)(a) A qualified supervisor shall be physically  on site at the premises where the super-
+vised student or trainee is providing nutrition care services or immediately and continuously
+available to the  supervised student or trainee via two-way real-time audiovisual technology
+that allows for direct  and contemporaneous interaction by sight and sound between the
+qualified supervisor and the supervised student or trainee.
+(b) If a qualified supervisor assigns to a supervised student or trainee  a nutrition care
+service to be provided in a  care setting where the qualified supervisor is not routinely pres-
+ent, the qualified supervisor shall ensure that the means and methods of  supervision are
+adequate to provide appropriate patient care, such as  synchronous videoconferencing or an-
+other method of communication and oversight appropriate to the care  setting and the
+training and education of the supervised student or trainee.
+(c) A qualified supervisor shall be available  to render assistance as requested by a patient
+[3]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+when the supervised student or trainee is providing nutrition  care services to the patient.
+If the qualified supervisor is unable to be available  as described in this paragraph, the qual-
+ified supervisor shall ensure that another qualified health care provider  is available in the
+qualified supervisor’s absence.
+SECTION 5.
+A licensed dietitian may engage in the  practice of dietetics or the practice
+of nutrition or provide  medical nutrition therapy via telehealth. A licensed nutritionist may
+engage in the practice of nutrition or provide medical nutrition therapy via telehealth.
+SECTION 6.  ORS 691.405 is amended to read:
+691.405. As used in ORS 691.405 to 691.485:
+[(1) “Dietetics practice” means the  integration and application of principles derived from the sci-
+ences of nutrition, biochemistry, food, management,  physiology and behavioral and social sciences to
+achieve and maintain the health of people through: ]
+[(a) Assessing the nutritional needs of clients; ]
+[(b) Establishing priorities, goals and objectives that meet nutritional needs of clients; ]
+[(c) Advising and assisting individuals or groups on appropriate  nutritional intake by integrating
+information from a nutritional assessment with information on  food and other sources of nutrients and
+meal preparation; and ]
+[(d) Evaluating and making changes in food, diets and nutrition services,  maintaining appropriate
+standards of nutritional quality in food and maintaining appropriate standards of nutrition services. ]
+[(2) “Licensed dietitian” means a dietitian licensed as provided in ORS 691.435. ]
+(1) “Licensed dietitian” means an individual licensed  under ORS 691.435 to engage in the
+practice of dietetics and the practice of nutrition.
+(2) “Licensed nutritionist” means an individual licensed under section 2 of this 2025 Act
+to engage in the practice of nutrition.
+(3) “Medical nutrition therapy” means the  provision of the following services for the
+purpose of managing or treating a disease or medical condition:
+(a) Nutrition assessment;
+(b) Nutrition diagnosis by  identifying and labeling nutrition problems managed and
+treated by a licensed dietitian;
+(c) Nutrition intervention; and
+(d) Nutrition monitoring and evaluation.
+(4) “Nonmedical weight control” means nutrition care services that do not constitute  the
+management or treatment of a disease or medical condition and that are provided  for the
+purpose of reducing,  maintaining or gaining weight, or for assisting a healthy population
+group in achieving or maintaining a healthy weight.
+(5) “Nutrition assessment” means:
+(a) The ongoing, dynamic and systemic process of ordering, obtaining, verifying  and in-
+terpreting biochemical,  anthropometric, physical, nutrigenomic and dietary data to make
+decisions about the  nature and cause of nutrition-related problems relative to patient and
+community needs;
+(b) The reassessment and analysis of patient and community needs; and
+(c) The ordering of laboratory testing to check and track a patient’s nutritional status.
+(6) “Nutrition care service” means any of the following services when provided within a
+systematic process:
+(a) Assessing and evaluating the nutritional needs  of individuals and groups and deter-
+[4]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+mining resources and  constraints in a practice setting by ordering as necessary any
+nutrition-related laboratory tests to check and track nutrition status.
+(b) Identifying nutrition problems and establishing priorities, goals  and objectives that
+meet nutritional needs and are consistent with available resources and constraints.
+(c) Creating individualized dietary plans and issuing and implementing orders to meet the
+nutritional needs of healthy patients or patients with diseases or medical conditions, by  or-
+dering as needed therapeutic diets and monitoring the effectiveness of therapeutic diets.
+(d) Determining and providing appropriate nutrition  intervention in health and disease
+and providing nutrition counseling on food and prescription drug interactions.
+(e) Developing, implementing and managing nutrition care systems.
+(f) Evaluating, revising and maintaining appropriate standards of quality in food  and nu-
+trition services.
+(7) “Nutrition intervention” means:
+(a) Purposefully planned actions intended to positively change  a nutrition-related behav-
+ior, risk factor, environmental condition or aspect of a patient’s health status or  that of
+target groups or communities at large;
+(b) Approving, ordering and monitoring of therapeutic diets; and
+(c) Counseling on interactions between foods and prescription drugs.
+(8) “Practice of dietetics” means:
+(a) The integration and  application of scientific principles derived from the study of food,
+nutrition, biochemistry, metabolism, nutrigenomics, physiology, pharmacology, food systems
+and behavioral and social sciences to achieve and maintain optimal nutrition status of indi-
+viduals and groups;
+(b) The provision of nutrition care services and medical nutrition  therapy to prevent,
+manage or treat chronic or acute diseases or medical conditions  and promote wellness in
+inpatient and outpatient settings; and
+(c) The development and ordering of therapeutic  diets via oral, enteral and parenteral
+routes and the provision of other advanced medical nutrition  therapy and related support
+activities consistent with current competencies required of academic and  supervised practice
+programs accredited by the  Accreditation Council for Education in Nutrition and Dietetics,
+or its successor organization, and  approved by the Board of Licensed Dietitians and
+Nutritionists, and in accord  with the Commission on Dietetic Registration’s, or its successor
+organization’s, Scope and Standards of Practice for the Registered  Dietitian, as approved by
+the board.
+(9) “Practice of nutrition” means:
+(a) The  integration and application of scientific principles derived from the study of nu-
+trition science, cellular and systemic metabolism, biochemistry, physiology and  behavioral
+sciences for achieving and maintaining health throughout the lifespan;
+(b) The provision of  nutrition care services and medical nutrition therapy to prevent,
+manage or treat chronic diseases or medical  conditions and promote wellness in outpatient
+settings; and
+(c) Consistent with competency:
+(A) The ordering of medical laboratory tests  related to nutritional therapeutic treat-
+ments; and
+(B) The  provision of recommendations on vitamin, mineral and other dietary supple-
+[5]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ments.
+(10) “Qualified supervisor” means a  person who provides supervision, assumes full pro-
+fessional responsibility for the work of the supervised student or trainee and meets  the re-
+quirements described in section 4 of this 2025 Act.
+SECTION 7.
+ ORS 691.415 is amended to read:
+691.415. [A person who is not licensed under ORS 691.435 may not practice or attempt to  practice
+as a licensed dietitian using  in connection with the name of the person the words or letters “L.D.,” or
+“Licensed Dietitian.”  ]  (1) Unless a person is licensed under ORS 691.405 to  691.485, the person
+may not:
+(a) Engage in the practice of dietetics or the practice of nutrition;
+(b) Provide medical nutrition therapy;
+(c) Designate or hold themselves out as a licensed dietitian or licensed nutritionist; or
+(d) Use the titles or abbreviations, “licensed dietitian,”  “dietitian,” “dietitian
+nutritionist,” “dietician,” “L.D.,” “L.D.N.,” “licensed nutritionist,” “nutritionist” or “L.N.”
+(2) Subsection (1) of this section does not prohibit:
+(a) A licensed health care provider from providing medical nutrition  therapy if medical
+nutrition therapy is within the scope of the health care provider’s license  and is incidental
+to the profession in which the health care provider is licensed.
+(b) The practice of dietetics or the practice of nutrition by a student or trainee  as part
+of a course of study  or planned supervised practice experience to satisfy the requirements
+specified in ORS 691.435 or section 2 of this  2025 Act if the supervised student or trainee does
+not provide unrestricted medical nutritional therapy  and uses a title that clearly indicates
+the supervised student or trainee is a student or trainee.
+(c) A dietitian or nutritionist who  is serving in or employed by the Armed Forces of the
+United States, the United States Public  Health Service or the United States Department of
+Veterans Affairs from providing medical nutrition therapy or using titles issued by the  fed-
+eral government in the scope of the person’s service or employment.
+(d) A person from providing nutrition care services and using the  title “nutritionist,” if
+the person is employed by or contracted with this state  or a political subdivision of this state
+for the purposes of providing nutrition care services  for the Women, Infants and Children
+Program established under ORS 413.500, and the provision of nutrition care services is in  the
+course of the person’s employment or contract.
+(e) A person from providing medical  weight control services for obesity if the person does
+not use a title or abbreviation listed in subsection (1) of this section and  the provision of
+medical weight control services is part of:
+(A) An instructional program approved in writing by  a licensed dietitian, licensed
+nutritionist or licensed health care provider whose  scope of practice includes medical nutri-
+tion therapy; or
+(B) A plan of  care overseen by a licensed health care provider whose scope of practice
+authorizes the health care provider to provide and delegate medical nutrition therapy, if  the
+medical weight control services are not discretionary and do not require the person  to ex-
+ercise professional judgment.
+(f) A person who has  completed the educational and supervised experience requirements
+to sit for an examination described  in ORS 691.435 or section 2 of this 2025 Act from engaging
+in the practice of dietetics or the practice of nutrition  under the supervision of a licensed
+[6]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+dietitian or licensed nutritionist for up to one year after the date on which the person com-
+pletes the requirements, if the  person does not use the titles or abbreviations listed in sub-
+section (1) of this section.
+(g) A person from assisting in the provision of medical nutrition therapy if  the person,
+under the direct supervision of  a licensed dietitian, licensed nutritionist or licensed health
+care provider whose scope  of practice includes medical nutrition therapy, performs only
+nondiscretionary support activities that do not require the person to exercise  professional
+judgment and the person does not use the titles or  abbreviations listed in subsection (1) of
+this section.
+(h) A person from disseminating nonindividualized  written general nonmedical nutrition
+information in connection with the  marketing and distribution of dietary supplements, food,
+herbs or food materials if the information does not constitute  medical nutrition therapy and
+the person does not use the titles or abbreviations listed in subsection (1) of this section.
+(i) A person from  providing individualized nutrition recommendations for wellness and
+primary prevention of chronic disease, health  coaching, holistic and wellness education,
+guidance, motivation, behavior change management, nonmedical  weight control services or
+other nutrition care services if the services do not constitute medical  nutrition therapy, the
+person does not  hold themselves out as authorized or qualified to provide medical nutrition
+therapy and the person does not use  a title or abbreviation listed in subsection (1) of this
+section.
+(j) A health care  provider located out of state from providing medical nutrition therapy
+via telehealth to a patient located in this state if the provider  holds a compact privilege un-
+der the Dietitian Licensure Compact or is a health care  provider authorized and in good
+standing in another state or territory with a scope of practice that includes medical nutrition
+therapy and provides the medical nutrition therapy under this paragraph:
+(A) In  consultation with a health care provider licensed in this state whose scope of
+practice includes medical nutrition therapy and who has a patient-provider  relationship with
+the patient;
+(B) For a patient with whom the out-of-state health care  provider has a patient-provider
+relationship and who is temporarily located in this state; or
+(C) Pursuant to a patient-provider relationship, and the provision  of medical nutrition
+therapy is follow-up medical nutrition therapy to ensure continuity of the patient’s care.
+(3) By providing medical nutrition therapy via telehealth as described in subsection  (2)(j)
+of this section, a health care provider  located out of state consents to the jurisdiction of the
+Board of Licensed Dietitians and Nutritionists and the Health Licensing Office.
+SECTION 8.
+ ORS 691.435 is amended to read:
+691.435. The Health Licensing Office, in consultation with  the Board of Licensed Dietitians  and
+Nutritionists, shall issue a [ dietitian] license to engage in the practice of dietetics  to an applicant
+who:
+[(1) Files an application as prescribed by the office; ]
+[(2) Pays the applicable fees established under ORS 676.576; and ]
+[(3) Demonstrates to the satisfaction of the office that the applicant has: ]
+[(a) Received a baccalaureate or  postbaccalaureate degree from a regionally accredited college or
+university in the United States with a major course  of study in human nutrition, dietetics, foods and
+nutrition or food systems management approved by the board as meeting the  standards for approval
+[7]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of the course of study under ORS 691.405 to 691.485; ]
+[(b) Completed a planned, continuous program of dietetic experience approved by the office  of 900
+hours under the supervision of a licensed dietitian; and ]
+[(c) Passed an examination prescribed by the office. ]
+(1) Is at least 18 years of age;
+(2) Submits to the office an application prescribed by the office;
+(3) Pays the fee described in ORS 676.576; and
+(4) Submits to the office proof, as determined sufficient by the office, that:
+(a)(A) The applicant holds a master’s degree or doctoral degree in a program of  study
+accredited by the Accreditation Council for Education in Nutrition and  Dietetics, or its suc-
+cessor organization, as approved by the board, from an educational institution  that at the
+time the degree was awarded  was accredited by a United States institutional accrediting body
+for higher education recognized by the United States Department of Education; or
+(B) An academic degree  from another country that the board determines is equivalent
+to a degree described in subparagraph (A) of this paragraph;
+(b) Subject to  subsection (5) of this section, the applicant has successfully completed,
+within the five years immediately preceding the date of application, a planned  and docu-
+mented supervised experience in the practice of dietetics and the practice of  nutrition ap-
+proved by the board and accredited by the Accreditation Council for Education in Nutrition
+and Dietetics, or its successor organization, that includes at least 1,000 hours  of supervised
+practice under a qualified supervisor described in section 4 of this 2025 Act; and
+(c) Subject to subsection (5) of this section, the  applicant has successfully passed, within
+the five years immediately preceding the date  of application, the registration examination for
+dietitians administered by the Commission on Dietetic Registration, or its  successor organ-
+ization, and approved by the board.
+(5)(a) If more than five years have passed between the date on which  an applicant com-
+pleted the supervised experience described in  subsection (4) of this section and the date on
+which the applicant submits an application to the office, the office may  in its discretion ex-
+tend the five-year limit.
+(b) If more than five  years have passed between the date on which an applicant passed
+the examination described in subsection (4) of this section and the date on which the appli-
+cant submits an application to  the office, the office shall require that the applicant submit
+proof of completion of 75 hours  of continuing education for each additional five years that
+have passed since the date of the examination.
+SECTION 9.
+ ORS 691.445 is amended to read:
+691.445. The Health Licensing Office, in consultation with  the Board of Licensed Dietitians and
+Nutritionists, may waive the examination requirement and grant a [ dietitian] license to engage in
+the practice of dietetics  to an applicant who:
+(1) Files an application as prescribed by the office;
+(2) Pays the applicable fees established under ORS 676.576; and
+(3) Presents satisfactory evidence of:
+(a) [ Current registration as a  dietitian with a credentialing body approved by the board; ] A valid
+and current registration, as approved by the board, from the Commission on  Dietetic Regis-
+tration, or its successor organization, that allows the applicant to use the  title “registered
+dietitian” or “registered dietitian nutritionist” and the abbreviation “R.D.” or “R.D.N.”;  or
+[8]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Current [ licensure] authorization as a dietitian  under the  laws of any other state or terri-
+tory in the United States, if the requirements for [ licensure] authorization of dietitians  in [ the] that
+state or territory [ in which the applicant is licensed ] are not less  than those required by ORS 691.405
+to 691.485.
+SECTION 10.
+ ORS 691.465 is amended to read:
+691.465. To renew a license issued under ORS 691.405  to 691.485, the [ licensee must ] licensed
+dietitian or licensed nutritionist shall  submit to the Health Licensing Office:
+(1) A completed renewal application;
+(2) The applicable renewal fee established under ORS 676.576; and
+(3) Satisfactory evidence of having completed any required continuing education credits on or
+before the expiration date of the license as specified by office rule.
+SECTION 11.
+ ORS 691.475 is amended to read:
+691.475. The Health Licensing Office, in consultation with  the Board of Licensed Dietitians  and
+Nutritionists, shall:
+(1) Adopt rules necessary for the administration of ORS 691.405 to 691.485;
+(2) Issue, deny, revoke, suspend and renew [ dietitian] licenses  issued under ORS 691.405  to
+691.485;
+(3) Determine the qualifications, training, education and fitness of applicants for  [ licenses, re-
+newals of licenses  and reciprocal licenses for dietitians ] initial licensure to engage in the practice
+of dietetics or the practice of nutrition and the renewal of a license ;
+(4) Determine requirements for reciprocity and  equivalency for [ licensed dietetics practice ] the
+licensed practice of dietetics and the practice of nutrition ;
+(5) Establish a code of professional responsibility and standards of practice for  licensed
+dietitians and licensed nutritionists ;
+(6) Develop, approve  or recognize examinations to test an applicant’s knowledge relating to
+dietitian and nutritionist  techniques and methods and any other subjects  the board may determine
+to be necessary to assess an applicant’s fitness to practice as  a licensed dietitian  or licensed
+nutritionist; and
+(7) Provide for waivers of examinations.
+SECTION 12.
+ ORS 691.477 is amended to read:
+691.477. In the  manner prescribed in ORS chapter 183 for contested cases and in consultation
+with the Board of Licensed Dietitians  and Nutritionists , the  Health Licensing Office may impose
+a form  of discipline listed in ORS 676.612 against any person [ practicing] engaged in the practice
+of dietetics or the practice of nutrition  for any  of the grounds listed in ORS 676.612 and for any
+violation of the provisions  of ORS 691.405 to 691.485, or the rules adopted under ORS 691.405 to
+691.485.
+SECTION 13.  ORS 691.485 is amended to read:
+691.485. (1) There  is established, within the Health Licensing Office, the Board of Licensed
+Dietitians and Nutritionists  to advise the office with regard to the regulation of  [ dietitians] li-
+censed dietitians, licensed nutritionists, the  practice of dietetics and the practice of
+nutrition. The board consists of seven  members appointed by the Governor. All members of the
+board must be residents of this state. Of the members of the board:
+(a) Two must be members of the general public who are not  otherwise qualified for membership
+on the board and who are not a spouse, domestic partner, child, parent or sibling of  a licensed
+dietitian or licensed nutritionist ;
+[9]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) One must be a physician licensed under ORS chapter 677 who is  trained in clinical nutri-
+tion; [ and]
+(c) [ Four] Three must be licensed dietitians who have been engaged in the practice  of dietetics
+for at least five years[ .]; and
+(d) One must be a licensed nutritionist who has been engaged in the practice of nutrition
+for at least five years.
+(2) The term of office of each member is four years, but a member serves  at the pleasure of the
+Governor. A member is  eligible for reappointment. If a person serves two consecutive full terms, a
+period of at least four years must elapse before the person is again eligible for  appointment to serve
+on the board.  If there is a vacancy on the board for any reason, the Governor shall make an ap-
+pointment to become immediately effective  for the unexpired term. A member shall hold the
+member’s office until the appointment and qualification of a successor.
+(3) Members of the board are entitled to compensation  and expenses as provided in ORS 292.495.
+The office may provide by rule for compensation  to board members for the performance of official
+duties at a rate that is greater than the rate provided in ORS 292.495.
+(4) The board shall meet at least once per year.
+SECTION 14.
+(1) Sections 2 to 5 of this 2025 Act and the amendments to ORS 691.405,
+691.415, 691.435, 691.445, 691.465, 691.475, 691.477 and 691.485 by sections  6 to 13 of this 2025
+Act apply to individuals who apply for initial licensure under ORS 691.405 to 691.485 on or
+after the operative date specified in section 36 of this 2025 Act.
+(2) A person who  holds a license issued under ORS 691.435 prior to the operative date
+specified in section 36 of this 2025 Act is  not required to meet the requirements of ORS
+691.435 as amended by section 8 of this 2025 Act.
+(3) The amendments to ORS 691.485 by section 13 of this  2025 Act apply to members ap-
+pointed to  the Board of Licensed Dietitians and Nutritionists on or after the operative date
+specified in section 36 of this 2025 Act.
+CONFORMING AMENDMENTS
+SECTION 15.
+ ORS 192.556, as amended by section 47,  chapter 73, Oregon Laws 2024, is
+amended to read:
+192.556. As used in ORS 192.553 to 192.581:
+(1) “Authorization” means a document written in plain language that contains at  least the fol-
+lowing:
+(a) A description of the information to be used or  disclosed that identifies the information in a
+specific and meaningful way;
+(b) The name or other specific identification of the person or persons authorized  to make the
+requested use or disclosure;
+(c) The name or other specific identification of the person or persons to whom the covered entity
+may make the requested use or disclosure;
+(d) A description of each purpose of the  requested use or disclosure, including but not limited
+to a statement that the use or disclosure is at the request of the individual;
+(e) An expiration date or an expiration event that relates to the individual  or the purpose of the
+use or disclosure;
+(f) The signature of the individual or personal representative of the individual and the date;
+[10]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(g) A description of the authority of the personal representative, if applicable; and
+(h) Statements adequate to place the individual on notice of the following:
+(A) The individual’s right to revoke the authorization in writing;
+(B) The exceptions to the right to revoke the authorization;
+(C) The ability or inability to condition treatment, payment, enrollment or eligibility  for benefits
+on whether the individual signs the authorization; and
+(D) The  potential for information disclosed pursuant to the authorization to be subject to
+redisclosure by the recipient and no longer protected.
+(2) “Covered entity” means:
+(a) A state health plan;
+(b) A health insurer;
+(c) A health care provider that  transmits any health information in electronic form to carry out
+financial or administrative activities in  connection with a transaction covered by ORS 192.553 to
+192.581; or
+(d) A health care clearinghouse.
+(3) “Health care” means care, services or supplies related to the health of an individual.
+(4) “Health care operations” includes but is not limited to:
+(a) Quality assessment, accreditation, auditing and improvement activities;
+(b) Case management and care coordination;
+(c) Reviewing the competence, qualifications or performance of health care  providers or health
+insurers;
+(d) Underwriting activities;
+(e) Arranging for legal services;
+(f) Business planning;
+(g) Customer services;
+(h) Resolving internal grievances;
+(i) Creating deidentified information; and
+(j) Fundraising.
+(5) “Health care provider” includes but is not limited to:
+(a) A psychologist, occupational therapist, regulated social worker, professional  counselor or
+marriage and family therapist  licensed or otherwise authorized to practice under ORS chapter 675
+or an employee of the psychologist, occupational therapist,  regulated social worker, professional
+counselor or marriage and family therapist;
+(b) A physician or physician associate licensed under  ORS chapter 677, an acupuncturist li-
+censed under ORS 677.759 or an employee of the physician, physician associate or acupuncturist;
+(c) A nurse or nursing home administrator licensed  under ORS chapter 678 or an employee of
+the nurse or nursing home administrator;
+(d) A dentist licensed under ORS chapter 679 or an employee of the dentist;
+(e) A dental hygienist or denturist licensed under ORS chapter 680 or an employee of the  dental
+hygienist or denturist;
+(f) A speech-language  pathologist or audiologist licensed under ORS chapter 681 or an employee
+of the speech-language pathologist or audiologist;
+(g) An emergency medical services provider licensed under ORS chapter 682;
+(h) An optometrist licensed under ORS chapter 683 or an employee of the optometrist;
+(i) A chiropractic physician licensed under ORS chapter 684 or an employee of  the chiropractic
+[11]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+physician;
+(j) A naturopathic physician licensed under ORS chapter 685  or an employee of the naturopathic
+physician;
+(k) A massage therapist licensed  under ORS 687.011 to 687.250 or an employee of the massage
+therapist;
+(L) A direct  entry midwife licensed under ORS 687.405 to 687.495 or an employee of the direct
+entry midwife;
+(m) A physical therapist licensed under ORS 688.010 to 688.201 or an employee of the  physical
+therapist;
+(n) A medical imaging licensee under ORS  688.405 to 688.605 or an employee of the medical
+imaging licensee;
+(o) A respiratory care practitioner  licensed under ORS 688.815 or an employee of the respiratory
+care practitioner;
+(p) A polysomnographic technologist  licensed under ORS 688.819 or an employee of the poly-
+somnographic technologist;
+(q) A pharmacist licensed under ORS chapter 689 or an employee of the pharmacist;
+(r) A dietitian or nutritionist  licensed under ORS 691.405 to 691.485  or an employee of the
+dietitian or nutritionist ;
+(s) A funeral service practitioner licensed  under ORS chapter 692 or an employee of the funeral
+service  practitioner;
+(t) A health care facility as defined in ORS 442.015;
+(u) A home health agency as defined in ORS 443.014;
+(v) A hospice program as defined in ORS 443.850;
+(w) A clinical laboratory as defined in ORS 438.010;
+(x) A pharmacy as defined in ORS 689.005; and
+(y) Any other person or  entity that furnishes, bills for or is paid for health care in the normal
+course of business.
+(6) “Health information” means any oral or written information in any form or medium that:
+(a) Is created or received by a  covered entity, a public health authority, an employer, a life
+insurer, a school, a university or a health care provider that is not a covered entity; and
+(b) Relates to:
+(A) The past, present or future physical or mental health or condition of an individual;
+(B) The provision of health care to an individual; or
+(C) The past, present or future payment for the provision of health care to an individual.
+(7) “Health insurer” means an insurer as defined in ORS 731.106 who offers:
+(a) A health benefit plan as defined in ORS 743B.005;
+(b) A short term health insurance policy,  the duration of which does not exceed three months
+including renewals;
+(c) A student health insurance policy;
+(d) A Medicare supplemental policy; or
+(e) A dental only policy.
+(8) “Individually identifiable health information” means any oral  or written health information
+in any form or medium that is:
+(a) Created or received by a covered entity, an employer or a health care provider that is not
+a covered entity; and
+[12]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Identifiable to an individual, including  demographic information that identifies the individual,
+or for which there is a reasonable basis to believe the information can  be used to identify an indi-
+vidual, and that relates to:
+(A) The past, present or future physical or mental health or condition of an individual;
+(B) The provision of health care to an individual; or
+(C) The past, present or future payment for the provision of health care to an individual.
+(9) “Payment” includes but is not limited to:
+(a) Efforts to obtain premiums or reimbursement;
+(b) Determining eligibility or coverage;
+(c) Billing activities;
+(d) Claims management;
+(e) Reviewing health care to determine medical necessity;
+(f) Utilization review; and
+(g) Disclosures to consumer reporting agencies.
+(10) “Personal representative” includes but is not limited to:
+(a) A person appointed as a guardian under ORS 125.305, 419B.372,  419C.481 or 419C.555 with
+authority to make medical and health care decisions;
+(b) A person appointed as a health care representative under ORS 127.505 to 127.660 or a rep-
+resentative under ORS 127.700 to 127.737 to make health care decisions or mental health  treatment
+decisions;
+(c) A person appointed as a personal representative under ORS chapter 113; and
+(d) A person described in ORS 192.573.
+(11)(a) “Protected health information” means  individually identifiable health information that is
+maintained or transmitted in any form of electronic or other medium by a covered entity.
+(b) “Protected health information” does  not mean individually identifiable health information in:
+(A) Education records covered  by the federal Family Educational Rights and Privacy Act (20
+U.S.C. 1232g);
+(B) Records described at 20 U.S.C. 1232g(a)(4)(B)(iv); or
+(C) Employment records held by a covered entity in its role as employer.
+(12) “State health plan” means:
+(a) Medical assistance as defined in ORS 414.025;
+(b) The Cover All People program; or
+(c) Any medical assistance or premium assistance program operated by the Oregon Health  Au-
+thority.
+(13) “Treatment” includes but is not limited to:
+(a) The provision, coordination or management of health care; and
+(b) Consultations and referrals between health care providers.
+SECTION 16.
+ ORS 401.651 is amended to read:
+401.651. As used in ORS 401.651 to 401.670:
+(1) “Health care facility” means  a health care facility as defined in ORS 442.015 that has been
+licensed under ORS chapter 441.
+(2) “Health care provider” means:
+(a) An individual licensed, certified or otherwise  authorized or permitted by the laws of this
+state or another state to administer health care services in the ordinary course of business or
+practice of a profession; and
+[13]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) A person entered in the emergency health care provider registry under ORS 401.658.
+(3) “Health professional regulatory board”  means a health professional regulatory board, as de-
+fined in ORS 676.160, the Long Term Care Administrators Board, the Board of Licensed  Dietitians
+and Nutritionists and the Behavior Analysis Regulatory Board.
+SECTION 17.
+ ORS 413.164 is amended to read:
+413.164. (1) As used in this section and ORS 413.163 and 413.167:
+(a) “Board” means the:
+(A) State Board of Examiners for Speech-Language Pathology and Audiology;
+(B) State Board of Chiropractic Examiners;
+(C) State Board of Licensed Social Workers;
+(D) Oregon Board of Licensed Professional Counselors and Therapists;
+(E) Oregon Board of Dentistry;
+(F) State Board of Massage Therapists;
+(G) Oregon Board of Naturopathic Medicine;
+(H) Oregon State Board of Nursing;
+(I) Oregon Board of Optometry;
+(J) State Board of Pharmacy;
+(K) Oregon Medical Board;
+(L) Occupational Therapy Licensing Board;
+(M) Oregon Board of Physical Therapy;
+(N) Oregon Board of Psychology;
+(O) Board of Medical Imaging;
+(P) Long Term Care Administrators Board;
+(Q) State Board of Direct Entry Midwifery;
+(R) State Board of Denture Technology;
+(S) Respiratory Therapist and Polysomnographic Technologist Licensing Board;
+(T) Board of Licensed Dietitians  and Nutritionists ; and
+(U) Oregon Health Authority, to the extent that the authority:
+(i) Licenses emergency medical services providers under ORS 682.216; and
+(ii) Regulates traditional health workers under ORS 414.665.
+(b) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(c) “Health care provider” means an  individual licensed, certified, registered or otherwise au-
+thorized to practice by a board.
+(d) “Health insurer” has the meaning given that term in ORS 746.600.
+(2) At least once each calendar year and  in accordance with timelines established by the au-
+thority by rule, a coordinated care organization, a health  care provider or health care provider’s
+designee, or a health insurer shall collect data on race, ethnicity, preferred  spoken and written
+languages, disability status, sexual orientation and gender identity  from the coordinated care
+organization’s, health care provider’s or health insurer’s patients, clients and  members, in accord-
+ance with standards adopted  by the authority pursuant to ORS 413.161. A coordinated care organ-
+ization, health care provider or health insurer shall submit the data to the authority in  the manner
+prescribed by the authority by rule.
+(3)(a) The authority shall adopt rules, including but not limited to rules:
+(A) Establishing  standards for collecting, securely transmitting and reporting the data described
+in subsection (2) of this section;
+[14]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) Establishing the timelines for collection and submission of  data described in subsection (2)
+of this section;
+(C) Permitting  coordinated care organizations, health care providers and health insurers to re-
+port to the authority that a patient, client or member refused to  answer questions regarding race,
+ethnicity, preferred spoken  and written languages, disability status, sexual orientation and gender
+identity;
+(D) Establishing criteria for extensions of timelines established under this subsection  and a
+process for reviewing requests for extensions; and
+(E) Establishing criteria for exempting certain health care providers or classes of health care
+providers from the requirements of subsection (2) of this section and  a process for reviewing re-
+quests for exemptions.
+(b) In adopting rules under subsection (2) of this section, the authority shall:
+(A) Consult with the advisory committee established under ORS 413.161;
+(B) Allow coordinated care organizations, health care providers and health insurers to  collect
+the data described in subsection (2) of this section on electronic or paper forms; and
+(C) Require coordinated care organizations, health care providers and health insurers  to inform
+patients, clients and members:
+(i) That data collected under subsection (2) of this section is reported to the authority;
+(ii) How the authority, coordinated care organization, health care provider and health  insurer
+use the data;
+(iii) Of the purposes for which the data may not be used; and
+(iv) That  the patient, client or member is not required to answer questions regarding race,
+ethnicity, preferred spoken  and written languages, disability status, sexual orientation and gender
+identity.
+(4) Data collected under this section is confidential and not subject to disclosure under  ORS
+192.311 to 192.478. The authority may  release the data collected under this section only if the data
+to be released is anonymized and aggregated so that the data released does  not reasonably allow
+an individual whose information is included in the data to be identified.
+(5) A coordinated care organization or health  insurer transacting insurance in this state may
+not consider any data collected under subsection (2) of this section:
+(a) In determining whether to  deny, limit, cancel, rescind or refuse to renew an insurance policy;
+(b) To establish premium rates for an insurance policy; or
+(c) To establish the terms and conditions of an insurance policy.
+(6) The authority may provide incentives to coordinated care  organizations, health care provid-
+ers and health insurers to assist in deferring the costs of making  changes to electronic health re-
+cords systems or similar systems to facilitate the collection of data described in subsection (2) of this
+section.
+(7)(a) The authority  shall monitor coordinated care organizations, health care providers and
+health insurers for compliance with the standards established under subsection (1) of this section.
+(b) The authority may impose on a coordinated care  organization, health care provider or health
+insurer a civil penalty for a violation of the requirements of this section or rules adopted under  this
+section:
+(A) Not to exceed $200 for the first violation;
+(B) Not to exceed $400 for the second violation; and
+(C) Not to exceed $500 for the third and subsequent violations.
+[15]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Prior to imposing  a penalty under paragraph (b) of this subsection, the authority shall pro-
+vide notice to  the coordinated care organization, health care provider or health insurer of the al-
+leged violation and  provide the coordinated care organization, health care provider or health insurer
+a reasonable time in which to correct the violation.
+SECTION 18.
+ ORS 413.550 is amended to read:
+413.550. As used in ORS 413.550 to 413.559:
+(1) “Certified health care interpreter” means an individual  who has been approved and certified
+by the Oregon Health Authority under ORS 413.558.
+(2) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(3) “Health care” means medical, surgical, oral or hospital care or  any other remedial care re-
+cognized by state law, including physical and behavioral health care.
+(4)(a) “Health care interpreter” means an individual who is readily able to:
+(A) Communicate in  English and communicate with a person with limited English proficiency
+or who communicates in signed language;
+(B) Accurately interpret  the oral statements of a person with limited English proficiency, or the
+statements of a person who communicates in signed language, into English;
+(C) Accurately interpret oral statements in English  to a person with limited English proficiency
+or who communicates in signed language;
+(D) Sight translate documents from a person with limited English proficiency; and
+(E) Interpret the oral statements of other persons into the language of the  person with limited
+English proficiency or into signed language.
+(b) “Health  care interpreter” also includes an individual who can provide the services described
+in paragraph (a) of this subsection using relay or indirect interpretation.
+(5) “Health care interpreter registry” means the registry described in ORS 413.558 that is ad-
+ministered by the authority.
+(6)(a) “Health care provider” means any of the following that are reimbursed with  public funds,
+in whole or in part:
+(A) An individual licensed or certified by the:
+(i) State Board of Examiners for Speech-Language Pathology and Audiology;
+(ii) State Board of Chiropractic Examiners;
+(iii) State Board of Licensed Social Workers;
+(iv) Oregon Board of Licensed Professional Counselors and Therapists;
+(v) Oregon Board of Dentistry;
+(vi) State Board of Massage Therapists;
+(vii) Oregon Board of Naturopathic Medicine;
+(viii) Oregon State Board of Nursing;
+(ix) Oregon Board of Optometry;
+(x) State Board of Pharmacy;
+(xi) Oregon Medical Board;
+(xii) Occupational Therapy Licensing Board;
+(xiii) Oregon Board of Physical Therapy;
+(xiv) Oregon Board of Psychology;
+(xv) Board of Medical Imaging;
+(xvi) State Board of Direct Entry Midwifery;
+(xvii) Respiratory Therapist and Polysomnographic Technologist Licensing Board;
+[16]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(xviii) Board of Registered Polysomnographic Technologists;
+(xix) Board of Licensed Dietitians and Nutritionists; and
+(xx) State Mortuary and Cemetery Board;
+(B) An  emergency medical services provider licensed by the Oregon Health Authority under
+ORS 682.216;
+(C) A clinical laboratory licensed under ORS 438.110;
+(D) A health care facility as defined in ORS 442.015;
+(E) A home health agency licensed under ORS 443.015;
+(F) A hospice program licensed under ORS 443.860; or
+(G) Any other person that provides health care or that bills for  or is compensated for health
+care provided, in the normal course of business.
+(b) “Health  care provider” does not include any individual listed in paragraph (a) of this sub-
+section when providing services as an employee of or under contract with:
+(A) A school district, as defined in ORS 332.002;
+(B) A public charter school, as defined in ORS 338.005; or
+(C) An education service district, as defined in ORS 334.003.
+(7) “Interpretation service company” means an entity, or  a person acting on behalf of an entity,
+that is in the business of arranging for health care interpreters to work with health care  providers
+in this state.
+(8) “Person with limited English proficiency” means a person  who, by reason of place of birth
+or culture, communicates in a language other than  English and does not communicate in English
+with adequate ability to communicate effectively with a health care provider.
+(9) “Prepaid managed care health services organization”  has the meaning given that term in
+ORS 414.025.
+(10) “Qualified health care interpreter” means an  individual who has been issued a valid letter
+of qualification from the authority under ORS 413.558.
+(11) “Sight translate” means to translate a written document into spoken or signed language.
+SECTION 19.
+ ORS 431A.850, as amended by section 3, chapter 438, Oregon Laws  2023, is
+amended to read:
+431A.850. As used in ORS 431A.855 to 431A.900:
+(1) “Dental  director” means a dentist, as defined in ORS 679.010, employed by a coordinated care
+organization,  dental  clinic or office, or a system of dental clinics or offices, for the purpose of
+overseeing the operations of the dental clinic or office, or  the system of dental clinics or offices, and
+ensuring the delivery of quality dental care within the clinic, office or system.
+(2) “Dispense” and “dispensing” have the meanings given those terms in ORS 689.005.
+(3) “Drug outlet” has the meaning given that term in ORS 689.005.
+(4) “Health professional regulatory board”  means a health professional regulatory board, as de-
+fined in ORS 676.160, the Long Term Care Administrators Board, the Board of Licensed  Dietitians
+and Nutritionists and the Behavior Analysis Regulatory Board.
+(5) “Medical director” means a physician employed by a coordinated care organization, hospital,
+health care clinic or system of hospitals or health care clinics for the purposes of overseeing the
+operations of the coordinated care  organization, hospital, clinic or system and ensuring the delivery
+of quality health care within the coordinated care organization, hospital, clinic or system.
+(6) “Patient” means:
+(a) The individual to whom the prescription drug is prescribed; or
+[17]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) If the prescription drug is prescribed by a veterinarian  for an animal, the individual to whom
+the prescription drug is dispensed on behalf of the animal.
+(7) “Pharmacist” means:
+(a) A pharmacist as defined in ORS 689.005; or
+(b) An individual licensed to practice pharmacy in another state, if  the requirements for
+licensure  are  similar, as determined by the Oregon Health Authority, to the requirements for being
+licensed as a pharmacist as defined in ORS 689.005.
+(8) “Pharmacy director” means a  pharmacist employed by a coordinated care organization,
+pharmacy or system of pharmacies for the purposes of overseeing the operations of the  coordinated
+care organization, pharmacy or system and ensuring the delivery of quality pharmaceutical care
+within the coordinated care organization, pharmacy or system.
+(9) “Practitioner” means:
+(a) A practitioner as defined in ORS 689.005; or
+(b) An individual licensed to practice a profession in another state, if the requirements  for
+licensure are similar, as determined  by the authority, to the requirements for being licensed as a
+practitioner as defined in ORS 689.005.
+(10) “Prescription” has the meaning given that term in ORS 475.005.
+(11) “Prescription drug” has the meaning given that term in ORS 689.005.
+(12) “Veterinarian” means a  person licensed to practice veterinary medicine under ORS chapter
+686.
+SECTION 20.
+ ORS 433.045 is amended to read:
+433.045. (1) As used in this section:
+(a) “Health care provider” means an individual licensed by a health  professional regulatory
+board, as defined in ORS 676.160, the  Long Term Care Administrators Board, the Board of Licensed
+Dietitians and Nutritionists  or the Behavior Analysis Regulatory Board.
+(b) “HIV test” means a test of an individual for the presence of HIV, or for  antibodies or
+antigens that result from HIV infection, or  for any other substance specifically indicating infection
+with HIV.
+(c) “Insurance producer” has the meaning given that term in ORS 746.600.
+(d) “Insurance-support organization” has the meaning given that term in ORS 746.600.
+(e) “Insurer” has the meaning given that term in ORS 731.106.
+(2) Except as provided in ORS 433.017,  433.055 (2) and 433.080, a health care provider or the
+provider’s designee shall, before subjecting an individual to an HIV test:
+(a) Notify the individual being tested; and
+(b) Allow the individual being tested the opportunity to decline the test.
+(3) The notification and opportunity to decline testing required under subsection (2) of this sec-
+tion may be verbal or in writing, and may be contained in a general medical consent form.
+(4)(a) Regardless of the manner  of receipt or the source of the information, including information
+received from the tested individual, a person may not disclose or be compelled to disclose the iden-
+tity of any individual upon whom an HIV-related test is performed, or the results  of such a test in
+a manner that permits identification of the subject  of the test, except as required or permitted by
+federal law, the law of this state or any rule, including any authority rule considered  necessary for
+public health or health care purposes, or as authorized by the individual whose blood is tested.
+(b) This subsection does not apply to an individual acting in a  private capacity and not in an
+employment, occupational or professional capacity.
+[18]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) A person who complies with the requirements of this section is  not subject to an action for
+civil  damages.
+(6) Whenever an insurer, insurance producer or insurance-support organization asks an  appli-
+cant for insurance to take an HIV test  in connection with an application for insurance, the insurer,
+insurance producer or insurance-support organization  must reveal the use of the test to the appli-
+cant and obtain the written consent of the applicant. The consent form must  disclose the purpose
+of the test and the persons to whom the results may be disclosed.
+SECTION 21.
+ ORS 433.443, as amended by section 81,  chapter 73, Oregon Laws 2024, is
+amended to read:
+433.443. (1) As used in this section:
+(a) “Covered entity” means:
+(A) The Children’s Health Insurance Program;
+(B) A health  insurer that is an insurer as defined in ORS 731.106 and that issues health insur-
+ance as defined in ORS 731.162;
+(C) The state medical assistance program; and
+(D) A health care provider.
+(b) “Health care provider” includes but is not limited to:
+(A) A psychologist, occupational therapist, regulated  social worker, professional counselor or
+marriage and family therapist licensed or otherwise authorized to practice under  ORS chapter 675
+or an employee of the  psychologist, occupational therapist, regulated social worker, professional
+counselor or marriage and family therapist;
+(B) A physician or physician associate licensed under ORS chapter 677, an  acupuncturist li-
+censed under ORS 677.759 or an employee of the physician, physician associate or acupuncturist;
+(C) A nurse  or nursing home administrator licensed under ORS chapter 678 or an employee of
+the nurse or nursing home administrator;
+(D) A dentist licensed under ORS chapter 679 or an employee of the dentist;
+(E) A dental hygienist or denturist licensed under ORS chapter  680 or an employee of the dental
+hygienist or denturist;
+(F) A speech-language pathologist or audiologist  licensed under ORS chapter 681 or an employee
+of the speech-language pathologist or audiologist;
+(G) An emergency medical services provider licensed under ORS chapter 682;
+(H) An optometrist licensed under ORS chapter 683 or an employee of the optometrist;
+(I) A chiropractic physician licensed under ORS chapter 684 or an  employee of the chiropractic
+physician;
+(J) A  naturopathic physician licensed under ORS chapter 685 or an employee of the naturopathic
+physician;
+(K) A massage therapist  licensed under ORS 687.011 to 687.250 or an employee of the massage
+therapist;
+(L) A direct entry midwife licensed under ORS 687.405 to 687.495 or an employee of  the direct
+entry midwife;
+(M) A physical therapist licensed under ORS  688.010 to 688.201 or an employee of the physical
+therapist;
+(N) A medical  imaging licensee under ORS 688.405 to 688.605 or an employee of the medical
+imaging licensee;
+(O) A respiratory care practitioner  licensed under ORS 688.815 or an employee of the respir-
+[19]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+atory care practitioner;
+(P) A polysomnographic technologist licensed under ORS 688.819 or an employee of the poly-
+somnographic technologist;
+(Q) A pharmacist licensed under ORS chapter 689 or an employee of the pharmacist;
+(R) A dietitian  or nutritionist licensed under ORS 691.405 to 691.485 or an employee of the
+dietitian or nutritionist ;
+(S) A  funeral service practitioner licensed under ORS chapter 692 or an employee of the funeral
+service  practitioner;
+(T) A health care facility as defined in ORS 442.015;
+(U) A home health agency as defined in ORS 443.014;
+(V) A hospice program as defined in ORS 443.850;
+(W) A clinical laboratory as defined in ORS 438.010;
+(X) A pharmacy as defined in ORS 689.005; and
+(Y) Any other person or entity that furnishes, bills for or is  paid for health care in the normal
+course of business.
+(c) “Individual” means a natural person.
+(d) “Individually identifiable health information” means any  oral or written health information
+in any form or medium that is:
+(A) Created or received by a covered entity,  an employer or a health care provider that is not
+a covered entity; and
+(B) Identifiable to an individual, including demographic information that identifies the individual,
+or for which there is a reasonable basis to believe the information can  be used to identify an indi-
+vidual, and that relates to:
+(i) The past, present or future physical or mental health or condition of an individual;
+(ii) The provision of health care to an individual; or
+(iii) The past, present or future payment for the provision of health care to an individual.
+(e) “Legal representative” means attorney at law, person holding  a general power of attorney,
+guardian, conservator or  any person appointed by a court to manage the personal or financial affairs
+of a person, or agency legally responsible for the welfare or support of a person.
+(2)(a) During a public health emergency declared under ORS 433.441, the Public Health  Director
+may, as necessary to appropriately respond to the public health emergency:
+(A) Adopt reporting  requirements for and provide notice of those requirements to health care
+providers, institutions and facilities for the purpose of obtaining  information directly related to the
+public health emergency;
+(B) After consultation with appropriate medical experts,  create and require the use of diagnostic
+and treatment protocols to respond to the public health emergency and  provide notice of those
+protocols to health care providers, institutions and facilities;
+(C) Order, or authorize local public health administrators  to order, public health measures ap-
+propriate to the public health threat presented;
+(D) Authorize pharmacists licensed under ORS chapter 689 to administer vaccines to persons
+who are three years of age or older;
+(E) Upon approval  of the Governor, take other actions necessary to address the public health
+emergency and provide notice of those actions to health care  providers, institutions and facilities,
+including public health actions authorized by ORS 431A.015;
+(F) Take  any enforcement action authorized by ORS 431A.010, including the imposition of civil
+[20]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+penalties of up to $500 per day against individuals, institutions or facilities  that knowingly fail to
+comply with requirements resulting from actions taken in accordance  with the powers granted to
+the Public Health Director under subparagraphs (A), (B) and (E) of this paragraph; and
+(G) The authority granted to the Public Health Director under this section:
+(i) Supersedes any authority granted to a local  public health authority if the local public health
+authority acts in a manner inconsistent with guidelines  established or rules adopted by the director
+under this section; and
+(ii) Does not  supersede the general authority granted to a local public health authority or a
+local public health administrator  except as authorized by law or necessary to respond to a public
+health emergency.
+(b) The authority of the Public Health Director to take administrative action,  and the effec-
+tiveness of any action taken, under paragraph (a)(A), (B) and (D) to  (G) of this subsection terminates
+upon the expiration of the declared state  of public health emergency, unless the actions are con-
+tinued under other applicable law.
+(3) Civil penalties under subsection (2) of this section shall be  imposed in the manner provided
+in ORS 183.745. The  Public Health Director must establish that the individual, institution or facility
+subject to the civil penalty had actual notice of the action taken that is the basis for  the penalty.
+The maximum aggregate total for penalties that may be imposed against an individual, institution
+or facility under subsection (2) of this section is $500 for each day  of violation, regardless of the
+number of violations of subsection (2) of this section that occurred on each day of violation.
+(4)(a) During a declared state  of public health emergency, the Public Health Director and local
+public health  administrators shall be given immediate access to individually identifiable health in-
+formation necessary to:
+(A) Determine the causes of an illness related to the public health emergency;
+(B) Identify persons at risk;
+(C) Identify patterns of transmission;
+(D) Provide treatment; and
+(E) Take steps to control the disease.
+(b) Individually identifiable  health information accessed as provided by paragraph (a) of this
+subsection may not be used for  conducting nonemergency epidemiologic research or to identify
+persons at risk  for post-traumatic mental health problems, or for any other purpose except the pur-
+poses listed in paragraph (a) of this subsection.
+(c) Individually identifiable health information obtained by the Public  Health Director or local
+public health administrators under this subsection may not be  disclosed without written authori-
+zation of the identified individual except:
+(A) Directly to the individual  who is the subject of the information or to the legal representative
+of that individual;
+(B) To state, local or federal agencies authorized to receive such information by state or  federal
+law;
+(C) To identify or to determine the cause or manner of death of a deceased individual; or
+(D) Directly to a health care provider for the evaluation or treatment  of a condition that is the
+subject of a declaration of a state of public health emergency issued under ORS 433.441.
+(d) Upon expiration of the state of  public health emergency, the Public Health Director or local
+public health administrators  may not use or disclose any individually identifiable health information
+that has been obtained under this  section. If a state of emergency that is related to the state of
+[21]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+public health emergency has been declared under ORS 401.165, the Public Health Director and local
+public health administrators may continue to use any individually  identifiable information obtained
+as provided under this section until termination of the state of emergency.
+(5) All civil penalties recovered under this section shall be paid into the State Treasury and
+credited to the General Fund and are available for general governmental expenses.
+(6) The Public Health Director may request  assistance in enforcing orders issued pursuant to
+this section from state or local law enforcement authorities. If so requested by  the Public Health
+Director, state and local law enforcement authorities,  to the extent resources are available, shall
+assist in enforcing orders issued pursuant to this section.
+(7) If the Oregon Health Authority adopts temporary rules  to implement the provisions of this
+section,  the  rules adopted are not subject to the provisions of ORS 183.335 (6)(a). The authority may
+amend temporary  rules adopted pursuant to this subsection as often as necessary to respond to the
+public health emergency.
+SECTION 22.
+ ORS 441.044 is amended to read:
+441.044. (1) Rules adopted pursuant to ORS  441.025 shall include procedures for the filing of
+complaints  as  to the standard of care in any health care facility and provide for the confidentiality
+of the identity of any complainant.
+(2) A health care facility, or person acting in the interest of the  facility, may not take any dis-
+ciplinary or other adverse action against any  employee who in good faith brings evidence of inap-
+propriate care or any other violation of law or rules to the attention of the proper authority  solely
+because of the employee’s action as described in this subsection.
+(3) Any employee who has knowledge of inappropriate care  or any other violation of law or
+rules shall utilize established reporting procedures of the health  care facility administration before
+notifying the Department of Human Services, Oregon Health Authority  or other state agency of the
+alleged violation, unless the employee believes that patient  health or safety is in immediate jeopardy
+or the employee makes the report to the department or the authority under the  confidentiality pro-
+visions of subsection (1) of this section.
+(4) The  protection of health care facility employees under subsection (2) of this section shall
+commence  with  the reporting of the alleged violation by the employee to the administration of the
+health care facility or to the department,  authority or other state agency pursuant to subsection (3)
+of this section.
+(5) Any person suffering loss or damage due to any violation of subsection  (2) of this section has
+a right of action for damages in addition to other appropriate remedy.
+(6) The provisions of this section do not apply to a nursing staff, as defined in ORS  441.179, who
+claims to be aggrieved by a violation of ORS 441.181 committed by a hospital.
+(7) Information obtained by the department or the authority during an investigation  of a com-
+plaint or reported violation under this section is confidential and not  subject to public disclosure
+under ORS 192.311  to 192.478. Upon the conclusion of the investigation, the department or the au-
+thority may publicly release a  report of the department’s or the authority’s findings but may not
+include information in the report that could be used  to identify the complainant or any patient at
+the health care  facility. The department or the authority may use any information obtained during
+an investigation  in an administrative or judicial proceeding concerning the licensing of a health care
+facility, and may report information obtained during an  investigation to a health professional regu-
+latory board as defined in ORS  676.160, the Long Term Care Administrators Board, the Board of
+Licensed Dietitians and Nutritionists or the Behavior  Analysis Regulatory Board as that informa-
+[22]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tion pertains to a licensee of the board.
+SECTION 23.
+ ORS 676.108 is amended to read:
+676.108. For purposes  of ORS 676.110, 676.115, 676.120 and 676.130, “health professional regula-
+tory board” means a health professional regulatory board, as defined  in ORS 676.160, the Long Term
+Care Administrators Board, the Board of Licensed Dietitians  and Nutritionists  and the  Behavior
+Analysis Regulatory Board.
+SECTION 24.  ORS 676.150 is amended to read:
+676.150. (1) As used in this section:
+(a) “Board” means the:
+(A) State Board of Examiners for Speech-Language Pathology and Audiology;
+(B) State Board of Chiropractic Examiners;
+(C) State Board of Licensed Social Workers;
+(D) Oregon Board of Licensed Professional Counselors and Therapists;
+(E) Oregon Board of Dentistry;
+(F) Board of Licensed Dietitians and Nutritionists;
+(G) State Board of Massage Therapists;
+(H) Oregon Board of Naturopathic Medicine;
+(I) Oregon State Board of Nursing;
+(J) Long Term Care Administrators Board;
+(K) Oregon Board of Optometry;
+(L) State Board of Pharmacy;
+(M) Oregon Medical Board;
+(N) Occupational Therapy Licensing Board;
+(O) Oregon Board of Physical Therapy;
+(P) Oregon Board of Psychology;
+(Q) Board of Medical Imaging;
+(R) State Board of Direct Entry Midwifery;
+(S) State Board of Denture Technology;
+(T) Respiratory Therapist and Polysomnographic Technologist Licensing Board;
+(U) Oregon  Health Authority, to the extent that the authority licenses emergency medical ser-
+vices  providers;
+(V) Oregon State Veterinary Medical Examining Board;
+(W) State Mortuary and Cemetery Board; or
+(X) Behavior Analysis Regulatory Board.
+(b) “Licensee” means a health professional licensed or certified by or registered with a board.
+(c) “Prohibited conduct” means conduct by a licensee that:
+(A) Constitutes a criminal act against a patient or client; or
+(B) Constitutes a criminal act that creates a risk of harm to a patient or client.
+(d) “Unprofessional  conduct” means conduct unbecoming a licensee or detrimental to the best
+interests of the public, including conduct contrary to recognized standards of  ethics of the licensee’s
+profession or conduct that endangers the health, safety or welfare of a patient or client.
+(2) Unless  state or federal laws relating to confidentiality or the protection of health information
+prohibit disclosure, a licensee who has reasonable cause to believe that another licensee has en-
+gaged in prohibited or unprofessional conduct shall report the conduct to the  board responsible for
+the licensee who  is believed to have engaged in the conduct. The reporting licensee shall report the
+[23]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+conduct without undue delay,  but in no event later than 10 working days after the reporting licensee
+learns of the conduct.
+(3) A licensee who is convicted of a misdemeanor or felony or  who is arrested for a felony crime
+shall report  the conviction or arrest to the licensee’s board within 10 days after the conviction or
+arrest.
+(4) The board  responsible for a licensee who is reported to have engaged in prohibited or un-
+professional conduct shall investigate in accordance with the board’s rules. If the board has rea-
+sonable cause to believe that  the licensee has engaged in prohibited conduct, the board shall present
+the facts to an appropriate law  enforcement agency without undue delay, but in no event later than
+10 working days after the board finds reasonable cause to believe that the licensee engaged in pro-
+hibited conduct.
+(5) A licensee who fails to report prohibited or unprofessional  conduct as required by subsection
+(2) of this section or the licensee’s conviction or arrest as required by subsection  (3) of this section
+is subject to discipline by the board responsible for the licensee.
+(6) A licensee who fails to report prohibited conduct  as required by subsection (2) of this section
+commits a Class A violation.
+(7)(a) Notwithstanding any other provision of law, a report under  subsection (2) or (3) of this
+section is confidential under ORS 676.175.
+(b) A board may disclose a report as provided in ORS 676.177.
+(c) If the  Health Licensing Office receives a report described in this subsection, the report is
+confidential and the office may only disclose the report pursuant to ORS 676.595 and 676.599.
+(8) Except as part of an application for a license or for renewal of a license and except as  pro-
+vided in subsection (3) of this section, a board may not require  a licensee to report the licensee’s
+criminal conduct.
+(9) The obligations imposed by this section are in addition to  and not in lieu of other obligations
+to report unprofessional conduct as provided by statute.
+(10) A licensee who reports to a board in good faith as required by subsection (2) of this  section
+is immune from civil liability for making the report.
+(11) A board and the members, employees  and contractors of the board are immune from civil
+liability for actions taken in good faith as a result of a report received under subsection (2) or (3)
+of this section.
+SECTION 25.
+ ORS 676.350 is amended to read:
+676.350. (1) As used in this section:
+(a) “Expedited partner therapy” means the practice of prescribing or dispensing antibiotic  drugs
+for the treatment of a sexually transmitted infection to the partner of a patient  without first exam-
+ining the partner of the patient.
+(b) “Partner of a patient” means a person whom a patient diagnosed with a  sexually transmitted
+infection identifies as a sexual partner of the patient.
+(c) “Practitioner” has the meaning given that term in ORS 475.005.
+(2) A health professional regulatory board, as  defined in ORS 676.160, the Long Term Care Ad-
+ministrators Board, the Board  of Licensed Dietitians and Nutritionists and the Behavior Analysis
+Regulatory Board may adopt rules permitting practitioners to  practice expedited partner therapy.
+If a board adopts rules permitting practitioners  to practice expedited partner therapy, the board
+shall consult with the Oregon Health Authority to determine  which sexually transmitted infections
+are appropriately addressed with expedited partner therapy.
+[24]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) A prescription issued in the practice of expedited partner  therapy authorized by the rules
+of a board is valid even if the name of the patient for whom the prescription  is intended is not on
+the prescription.
+(4) The authority shall make available informational material about expedited partner  therapy
+that a practitioner may distribute to patients.
+SECTION 26.
+ ORS 676.400 is amended to read:
+676.400. (1) It is the intention of the Legislative Assembly to achieve the goal of universal access
+to adequate levels of high quality health care at an affordable cost for all Oregonians, regardless
+of ethnic or cultural background.
+(2) The Legislative Assembly finds that:
+(a) Access to health care is of value when it leads to treatment that  substantially improves
+health outcomes;
+(b) Health  care is most effective when it accounts for the contribution of culture to health status
+and health outcomes;
+(c) Ethnic and racial minorities experience  more than their statistically fair share of undesirable
+health outcomes;
+(d) The lack of licensed  health care professionals from ethnic and racial minorities or who are
+bilingual contributes to the inadequacy of health outcomes in communities of  color in this state; and
+(e) The development of a partnership between health  professional regulatory boards and com-
+munities of color to  increase the representation of people of color and bilingual people in health
+care professions has significant potential to improve  the health outcomes of people of color and bi-
+lingual citizens of this state.
+(3) Health professional regulatory boards  shall establish programs to increase the representation
+of people of color and bilingual people on the boards and in the professions that they regulate.  Such
+programs must include activities to promote the education,  recruitment and professional practice
+of members of these targeted populations in Oregon.
+(4) Each  health professional regulatory board shall maintain records of the racial and ethnic
+makeup of applicants and professionals regulated by the board. Such information shall  be requested
+from applicants and the professionals regulated who shall be informed in writing that the  provision
+of such information is voluntary and not required.
+(5) Each health professional regulatory board shall  report biennially to the Legislative Assembly
+in the manner required by ORS 192.245. The report shall contain:
+(a) Data detailing the efforts of the board to comply with the  requirements of subsection (3) of
+this section; and
+(b) Data collected under subsection (4) of this  section documenting the ethnic and racial makeup
+of the applicants and of the professionals regulated by the board.
+(6) For purposes of this section, “health  professional regulatory board” means a health profes-
+sional regulatory board, as defined in ORS 676.160, the  Long Term Care Administrators Board, the
+Board of Licensed Dietitians  and Nutritionists  and the Behavior Analysis Regulatory Board.
+SECTION 27.
+ ORS 676.410 is amended to read:
+676.410. (1) As used in this section, “health care workforce regulatory board” means the:
+(a) State Board of Examiners for Speech-Language Pathology and Audiology;
+(b) State Board of Chiropractic Examiners;
+(c) State Board of Licensed Social Workers;
+(d) Oregon Board of Licensed Professional Counselors and Therapists;
+[25]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) Oregon Board of Dentistry;
+(f) Board of Licensed Dietitians and Nutritionists;
+(g) State Board of Massage Therapists;
+(h) Oregon Board of Naturopathic Medicine;
+(i) Oregon State Board of Nursing;
+(j) Respiratory Therapist and Polysomnographic Technologist Licensing Board;
+(k) Oregon Board of Optometry;
+(L) State Board of Pharmacy;
+(m) Oregon Medical Board;
+(n) Occupational Therapy Licensing Board;
+(o) Oregon Board of Physical Therapy;
+(p) Oregon Board of Psychology; and
+(q) Board of Medical Imaging.
+(2) An individual applying to renew a license with a health care workforce  regulatory board
+must provide the information prescribed by the Oregon Health Authority pursuant to  subsection (3)
+of this section to the health care workforce regulatory board. Except as provided in subsection  (4)
+of this section, a health care workforce regulatory board  may not approve an application to renew
+a license until the applicant provides the information.
+(3) The authority shall collaborate with each  health care workforce regulatory board to adopt
+rules establishing:
+(a) The information that must be provided to a health care workforce regulatory board  under
+subsection (2) of this section, which may include:
+(A) Demographics, including race and ethnicity.
+(B) Education and training information.
+(C) License information.
+(D) Employment information.
+(E) Primary and secondary practice information.
+(F) Anticipated changes in the practice.
+(G) Languages spoken.
+(b) The manner and form of providing information under subsection (2) of this section.
+(4)(a) Subject to paragraph (b) of this subsection, a health care workforce  regulatory board shall
+report health care workforce information collected under subsection (2) of  this section to the au-
+thority.
+(b) Except as provided in paragraph (c) of this subsection, personally identifiable  information
+collected under subsection (2) of this section is confidential and a health  care workforce regulatory
+board and the authority may not release such information.
+(c) A health care workforce regulatory board may  release personally identifiable information
+collected under subsection (2) of this section to a law enforcement agency  for investigative purposes
+or to the authority for state health planning purposes.
+(5) A health  care workforce regulatory board may adopt rules to perform the board’s duties
+under this section.
+(6) In addition to renewal fees that may be imposed by a health care workforce regulatory board,
+the authority shall establish fees to be paid by individuals applying to renew a license with  a health
+care workforce regulatory board. The amount of fees established under this subsection  must be
+reasonably calculated to reimburse the actual cost of obtaining or reporting information as required
+[26]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+by subsection (2) of this section.
+(7) Using information collected under subsection (2) of this section, the  authority shall create
+and maintain a health care workforce database.  The authority shall provide data from the health
+care workforce database and may provide data from other relevant sources, including data  related
+to the diversity of this state’s health care workforce, upon request to state  agencies and to the
+Legislative Assembly. The authority  may contract with a private or public entity to establish and
+maintain the database and to perform data analysis.
+SECTION 28.
+ Section 3, chapter 380, Oregon Laws 2015, is amended to read:
+Sec. 3.  (1) For individuals applying to  renew a license to practice a regulated profession with
+the Oregon Board of Dentistry, Board of  Licensed Dietitians and Nutritionists, Oregon State Board
+of Nursing, State Board of Pharmacy, Oregon Medical Board, Occupational Therapy Licensing Board
+and Physical Therapist Licensing Board, the amendments to ORS 676.410 by section 1,  chapter 380,
+Oregon Laws 2015, apply to applications to renew a  license to practice a regulated profession that
+are submitted on or after January 1, 2016.
+(2) For individuals applying to renew  a license to practice a regulated profession with the State
+Board of Examiners for Speech-Language Pathology and Audiology, State Board of Chiropractic
+Examiners, State Board of Licensed Social Workers, Oregon  Board of Licensed Professional Coun-
+selors and Therapists, State Board of Massage Therapists, Oregon Board  of Naturopathic Medicine,
+Respiratory Therapist and  Polysomnographic Technologist Licensing Board, Oregon Board of
+Optometry, Oregon Board of Psychology  and Board of Medical Imaging, the amendments to ORS
+676.410 by section 1, chapter 380, Oregon  Laws 2015, apply to applications to renew a license to
+practice a regulated profession that are submitted on or after the  date on which rules are adopted
+for health care workers regulated by a health care workforce regulatory board pursuant to  ORS
+676.410 (3).
+SECTION 29.
+ ORS 676.565 is amended to read:
+676.565. Pursuant to ORS 676.568, the Health Licensing Office  shall provide administrative and
+regulatory oversight and centralized service for the following boards, councils and programs:
+(1) Board of Athletic Trainers, as provided in ORS 688.701 to 688.734;
+(2) Board of Cosmetology, as provided in ORS 690.005 to 690.225;
+(3) State Board of Denture Technology, as provided in ORS 680.500 to 680.565;
+(4) State Board of Direct Entry Midwifery, as provided in ORS 687.405 to 687.495;
+(5) Respiratory Therapist and Polysomnographic Technologist Licensing  Board, as provided in
+ORS 688.800 to 688.840;
+(6) Environmental Health Registration Board, as provided in ORS chapter 700;
+(7) Board of Electrologists and Body Art Practitioners, as provided in ORS 690.350 to 690.410;
+(8) Advisory Council on Hearing Aids, as provided in ORS 694.015 to 694.170;
+(9) Sexual Offense Treatment Board, as provided in ORS 675.365 to 675.410;
+(10) Long Term Care Administrators Board, as provided in ORS 678.710 to 678.820;
+(11) Board of Licensed Dietitians  and Nutritionists , as provided in ORS 691.405 to 691.485;
+(12) Behavior Analysis Regulatory Board, as provided in ORS 676.806;
+(13) Board of Certified Advanced Estheticians, as provided in ORS 676.630 to 676.660;
+(14) Art therapy, as provided in ORS 681.740 to 681.758;
+(15) Lactation consultation, as provided in ORS 676.665 to 676.689;
+(16) Music therapy, as provided in ORS 681.700 to 681.730;
+(17) Genetic counseling, as provided in ORS 676.730 to 676.748;
+[27]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(18) State Board of Sign Language Interpreters, as provided in ORS 676.750 to 676.789; and
+(19) Temporary staffing agencies, as provided in ORS 676.695 to 676.725.
+SECTION 30.
+ ORS 676.595 is amended to read:
+676.595. (1) As used in this section, “board” means the:
+(a) Sexual Offense Treatment Board established under ORS 675.395.
+(b) Behavior Analysis Regulatory Board created under ORS 676.806.
+(c) Long Term Care Administrators Board established under ORS 678.800.
+(d) State Board of Denture Technology established under ORS 680.556.
+(e) State Board of Direct Entry Midwifery established under ORS 687.470.
+(f) Board of Athletic Trainers established under ORS 688.705.
+(g) Respiratory Therapist  and Polysomnographic Technologist Licensing Board established under
+ORS 688.820.
+(h) Board of Licensed Dietitians  and Nutritionists  established under ORS 691.485.
+(i) Environmental Health Registration Board established under ORS 700.210.
+(2) Except  to the extent that disclosure is necessary to conduct a full and proper investigation,
+the Health Licensing Office may not  disclose information, including complaints and information
+identifying complainants, obtained by the office as part of an investigation conducted under:
+(a) ORS 675.365 to 675.410, 676.802 to 676.830, 678.710 to 678.820, 680.500  to 680.565, 687.405 to
+687.495, 688.701 to 688.734, 688.800 to 688.840 or 691.405 to 691.485 or ORS chapter 700.
+(b) ORS 676.560 to 676.625 if the investigation is related to the regulation of:
+(A) Sexual abuse specific treatment under ORS 675.365 to 675.410;
+(B) Applied behavior analysis under ORS 676.802 to 676.830;
+(C) Nursing home administration and residential care facility administration under ORS  678.710
+to 678.820;
+(D) The practice of denture technology under ORS 680.500 to 680.565;
+(E) Direct entry midwifery under ORS 687.405 to 687.495;
+(F) Athletic training under ORS 688.701 to 688.734;
+(G) Respiratory care and polysomnography under ORS 688.800 to 688.840;
+(H) Dietetics under ORS 691.405 to 691.485; or
+(I) Environmental or waste water sanitation under ORS chapter 700.
+(3) Notwithstanding  subsection (2) of this section, if the office or board decides not to impose
+a disciplinary sanction after conducting an investigation described in subsection (2) of this section:
+(a) The office shall disclose information obtained as part of the investigation if  the person re-
+questing the information demonstrates by clear  and convincing evidence that the public interest in
+disclosure outweighs other interests  in nondisclosure, including the public interest in nondisclosure.
+(b) The office may disclose to a complainant who made a complaint related to the investigation
+a written summary of information obtained  as part of the investigation to the extent that disclosure
+is necessary to explain the office’s or board’s decision. The person who is  the subject of the inves-
+tigation may review and obtain a copy  of a written summary disclosed under this paragraph after
+the office has redacted any information identifying the complainant.
+(4) Notwithstanding subsection (2) of this section, if a decision is made to impose a  disciplinary
+sanction and to issue a notice of intent to impose a  disciplinary sanction after conducting an in-
+vestigation described in subsection (2) of this section, upon written request by  the person who is the
+subject of the investigation, the office  shall disclose to the person all information obtained by the
+office or board during the investigation, except that the office may not disclose:
+[28]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Information that is otherwise privileged or confidential under state or federal law.
+(b) Information identifying a person who provided information  that led to the investigation, un-
+less the person will provide testimony at a hearing arising out of the investigation.
+(c) Information identifying a complainant.
+(d) Reports of expert witnesses.
+(5) Information disclosed to  a person under subsection (4) of this section may be further dis-
+closed by the person  only to the extent that disclosure is necessary to prepare for a hearing arising
+out of the investigation.
+(6) The office shall disclose:
+(a) Any notice related to the imposition of a disciplinary sanction.
+(b) A final order related to the imposition of a disciplinary sanction.
+(c) An emergency suspension order.
+(d) A consent order or stipulated agreement that involves the conduct of a person  against whom
+discipline is sought.
+(e) Information to further an investigation into board conduct under ORS 192.685.
+(7) The office or board must summarize the  factual basis for the office’s or board’s disposition
+of:
+(a) A final order related to the imposition of a disciplinary sanction;
+(b) An emergency suspension order; or
+(c) A consent order or stipulated agreement that involves the conduct of a person against  whom
+discipline is sought.
+(8)(a) An office or board record or order,  or any part of an office or board record or order, that
+is obtained during an investigation described in subsection (2) of this section,  during a contested
+case proceeding or as a result of entering into  a consent order or stipulated agreement is not ad-
+missible as evidence and may not preclude an issue or claim in a civil proceeding.
+(b) This subsection does not apply to a proceeding between the office or board  and a person
+against whom discipline is sought as otherwise authorized by law.
+(9)(a) Notwithstanding subsection (2) of this section, the office is not publicly disclosing infor-
+mation when the office permits other public officials and members of the press  to attend executive
+sessions where information obtained as  part of an investigation is discussed. Public officials and
+members of the press attending such executive sessions may not  disclose information obtained as
+part of an investigation to any other member of the public.
+(b) For purposes of this  subsection, “public official” means a member, member-elect or employee
+of a public entity as defined in ORS 676.177.
+(10) The office may establish fees reasonably calculated to reimburse the actual cost  of disclos-
+ing information to a person against whom discipline is sought as required by subsection (4)  of this
+section.
+SECTION 31.
+ ORS 676.850 is amended to read:
+676.850. (1) As used in this section, “board” means the:
+(a) State Board of Examiners for Speech-Language Pathology and Audiology;
+(b) State Board of Chiropractic Examiners;
+(c) State Board of Licensed Social Workers;
+(d) Oregon Board of Licensed Professional Counselors and Therapists;
+(e) Oregon Board of Dentistry;
+(f) Board of Licensed Dietitians and Nutritionists;
+[29]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(g) State Board of Massage Therapists;
+(h) Oregon Board of Naturopathic Medicine;
+(i) Oregon State Board of Nursing;
+(j) Long Term Care Administrators Board;
+(k) Oregon Board of Optometry;
+(L) State Board of Pharmacy;
+(m) Oregon Medical Board;
+(n) Occupational Therapy Licensing Board;
+(o) Oregon Board of Physical Therapy;
+(p) Oregon Board of Psychology;
+(q) Board of Medical Imaging;
+(r) State Board of Direct Entry Midwifery;
+(s) State Board of Denture Technology;
+(t) Respiratory Therapist and Polysomnographic Technologist Licensing Board;
+(u) Home Care Commission;
+(v) Oregon Health Authority, to the extent that the authority  licenses emergency medical ser-
+vice providers; and
+(w) Health Licensing Office, to the extent that the office licenses lactation consultants.
+(2)(a) A board shall  adopt rules to require a person authorized to practice the profession regu-
+lated by the board to complete cultural competency continuing education.  Completion of the con-
+tinuing education described in this subsection shall be a condition of renewal  of an authorization
+to practice the profession regulated by the board every  other time that the person’s authorization
+is subject to renewal.
+(b) Cultural competency  continuing education courses may be taken in addition to or, if a board
+determines that the cultural competency  continuing education fulfills existing continuing education
+requirements, instead of any other continuing education requirement imposed by the board.
+(c) A board shall consider the availability of the continuing  education described in this sub-
+section when adopting rules regarding the required number of credits of continuing education.
+(d) A board shall encourage, but may not  require, the completion of continuing education ap-
+proved by the Oregon Health Authority under ORS 413.450. A board shall accept  as meeting the
+requirements of this subsection continuing education that meets  the skills requirements established
+by the authority by rule.
+(3) The  requirements of subsection (2) of this section do not apply to a person authorized to
+practice a profession regulated by a board if the person is:
+(a) Retired and not practicing the profession in any state;
+(b) Not practicing the profession in this state; or
+(c) Residing in this state but not practicing the profession in any state.
+SECTION 32.
+ ORS 676.992 is amended to read:
+676.992. (1) Except as provided  in subsection (3) of this section, and in addition to any other
+penalty or remedy provided by  law, the Health Licensing Office may impose a civil penalty not to
+exceed $5,000 for each violation of the following statutes and any  rule adopted under the following
+statutes:
+(a) ORS 688.701 to 688.734 (athletic training);
+(b) ORS 690.005 to 690.225 (cosmetology);
+(c) ORS 680.500 to 680.565 (denture technology);
+[30]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) Subject to ORS 676.616 and 687.445, ORS 687.405 to 687.495 (direct entry midwifery);
+(e) ORS 690.350 to 690.410 (tattooing, electrolysis, body piercing, earlobe piercing,  dermal im-
+planting and scarification);
+(f) ORS 694.015 to 694.170 (dealing in hearing aids);
+(g) ORS 688.800 to 688.840 (respiratory therapy and polysomnography);
+(h) ORS chapter 700 (environmental sanitation);
+(i) ORS 675.365 to 675.410 (sexual abuse specific treatment);
+(j) ORS 678.710 to 678.820 (nursing home administrators and residential care facility  adminis-
+trators);
+(k) ORS 691.405 to 691.485 (dietitians  and nutritionists );
+(L) ORS 676.612 (prohibited acts);
+(m) ORS 676.802 to 676.830 (applied behavior analysis);
+(n) ORS 681.700 to 681.730 (music therapy);
+(o) ORS 676.630 to 676.660 (advanced nonablative esthetics procedure);
+(p) ORS 681.740 to 681.758 (art therapy);
+(q) ORS 676.665 to 676.689 (lactation consultation);
+(r) ORS 676.730 to 676.748 (genetic counseling); and
+(s) ORS 676.750 to 676.789 (signed language interpretation).
+(2) The office may  take any other disciplinary action that it finds proper, including but not
+limited to assessment of costs of disciplinary proceedings, not to exceed $5,000, for violation of  any
+statute listed in subsection (1) of this section or  any rule adopted under any statute listed in sub-
+section (1) of this section.
+(3) Subsection (1) of this section does not limit the amount of the civil penalty resulting from  a
+violation of ORS 694.042.
+(4) In imposing a civil penalty under this section,  the office shall consider the following factors:
+(a) The immediacy and extent to which the violation threatens the public health or safety;
+(b) Any prior violations of statutes, rules or orders;
+(c) The history of the person incurring a penalty in taking all feasible steps to correct any vio-
+lation; and
+(d) Any other aggravating or mitigating factors.
+(5) Civil penalties under this section shall be imposed as provided in ORS 183.745.
+(6) The moneys received by the office from civil penalties  under this section shall be deposited
+in the  Health Licensing Office Account and are continuously appropriated to the office for the ad-
+ministration and enforcement of the laws the office is  charged with administering and enforcing that
+govern the person against whom the penalty was imposed.
+SECTION 33.
+ ORS 743B.454 is amended to read:
+743B.454. (1) As used in this section:
+(a) “Complete application” means a provider’s application to a health insurer to become a  cre-
+dentialed provider that includes:
+(A) Information required by the health insurer;
+(B) Proof that the provider is licensed  by a health professional regulatory board as defined in
+ORS 676.160, the Long Term Care Administrators  Board, the Board of Licensed Dietitians  and
+Nutritionists or the Behavior Analysis Regulatory Board;
+(C) Proof of current registration with the  Drug Enforcement Administration of the United States
+Department of Justice, if applicable to the provider’s practice; and
+[31]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(D) Proof that the provider is  covered by a professional liability insurance policy or certification
+meeting the health insurer’s requirements.
+(b) “Credentialing period” means the period beginning  on the date a health insurer receives a
+complete  application  and ending on the date the health insurer approves or rejects the complete
+application or 90 days after the health  insurer receives the complete application, whichever is ear-
+lier.
+(c) “Health insurer” means an insurer that  offers managed health insurance or preferred pro-
+vider organization insurance, other than a  health maintenance organization as defined in ORS
+750.005.
+(2) A health insurer shall approve or reject a complete application within 90 days of  receiving
+the application.
+(3)(a) A health insurer  shall pay all claims for medical services covered by the health insurer
+that are provided by a provider during the credentialing period.
+(b) A provider may submit claims  for medical services provided during the credentialing period
+during or after the credentialing period.
+(c) A health insurer may pay claims for medical services provided during the credentialing  pe-
+riod:
+(A) During or after the credentialing period.
+(B) At the rate paid to nonparticipating providers.
+(d) If a provider submits a  claim for medical services provided during the credentialing period
+within six  months after the end of the credentialing period, the health insurer may not deny payment
+of the claim on the basis of the health insurer’s rules relating to timely claims submission.
+(4) Subsection (3) of this section does not require a health insurer to pay claims for medical
+services provided during the credentialing period if:
+(a) The provider was previously rejected or terminated as a participating provider in any health
+benefit plan underwritten or administered by the health insurer;
+(b) The rejection or termination was due to the objectively  verifiable failure of the provider to
+provide medical services within the recognized standards of the provider’s profession; and
+(c) The provider was given the opportunity to contest the rejection or termination before a panel
+of peers in a proceeding conducted in conformity with  the Health Care Quality Improvement Act
+of 1986, 42 U.S.C. 11101 et seq.
+SECTION 34.
+ ORS 746.600, as amended by  section 161, chapter 73, Oregon Laws 2024, is
+amended to read:
+746.600. As used in ORS 746.600 to 746.690:
+(1)(a) “Adverse underwriting decision”  means any of the following actions with respect to in-
+surance transactions involving insurance coverage that is individually underwritten:
+(A) A declination of insurance coverage.
+(B) A termination of insurance coverage.
+(C) Failure of an insurance  producer to apply for insurance coverage with a specific insurer that
+the insurance producer represents and that is requested by an applicant.
+(D) In the case of life or health insurance  coverage, an offer to insure at higher than standard
+rates.
+(E) In the case of insurance coverage other than life or health insurance coverage:
+(i) Placement by an insurer or insurance producer of a risk  with a residual market mechanism,
+an unauthorized insurer or an insurer that specializes in substandard risks.
+[32]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(ii) The charging of a higher rate on the basis  of information that differs from that which the
+applicant or policyholder furnished.
+(iii) An increase in any charge imposed  by the insurer for any personal insurance in connection
+with the underwriting of  insurance. For purposes of this sub-subparagraph, the imposition of a ser-
+vice fee is not a charge.
+(b) “Adverse underwriting decision” does not  mean any of the following actions, but the insurer
+or insurance producer responsible for the occurrence  of the action must nevertheless provide the
+applicant or policyholder with the specific reason or reasons for the occurrence:
+(A) The termination of an individual policy form on a class or statewide basis.
+(B) A declination of insurance coverage solely because the coverage is not available on a  class
+or statewide basis.
+(C) The rescission of a policy.
+(2) “Affiliate of” a specified person or “person affiliated  with” a specified person means a person
+who directly, or  indirectly, through one or more intermediaries, controls, or is controlled by, or is
+under common control with, the person specified.
+(3) “Applicant” means a person who seeks to contract for insurance coverage,  other than a
+person seeking group insurance coverage that is not individually underwritten.
+(4) “Consumer” means an individual,  or the personal representative of the individual, who seeks
+to obtain, obtains or has obtained one or more insurance  products or services from a licensee that
+are to be used primarily  for personal, family or household purposes, and about whom the licensee
+has personal information.
+(5) “Consumer report” means any written,  oral or other communication of information bearing
+on a natural person’s creditworthiness, credit standing, credit capacity, character, general reputa-
+tion, personal characteristics  or mode of living that is used or expected to be used in connection
+with an insurance transaction.
+(6) “Consumer reporting agency” means a person that, for monetary fees or dues, or on a  co-
+operative or nonprofit basis:
+(a) Regularly engages, in whole or in part, in assembling or preparing consumer reports;
+(b) Obtains information primarily from sources other than insurers; and
+(c) Furnishes consumer reports to other persons.
+(7) “Control” means, and  the terms “controlled by” or “under common control with” refer to,
+the possession, directly or indirectly, of the power to direct or  cause the direction of the manage-
+ment and policies of a person, whether through the ownership  of voting securities, by contract other
+than a commercial contract for goods or nonmanagement services, or otherwise, unless  the power
+of the person is the result of a  corporate office held in, or an official position held with, the con-
+trolled person.
+(8) “Covered entity” means:
+(a) A health insurer;
+(b) A health care provider  that transmits any health information in electronic form to carry out
+financial or administrative activities in connection with a  transaction covered by ORS 746.607 or
+by rules adopted under ORS 746.608; or
+(c) A health care clearinghouse.
+(9) “Credit history” means any written or other communication of any information  by a con-
+sumer reporting agency that:
+(a) Bears on a consumer’s creditworthiness, credit standing or credit capacity; and
+[33]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Is used or expected to be used, or collected in whole or in part, as a  factor in determining
+eligibility, premiums or rates for personal insurance.
+(10) “Customer” means a consumer who has a continuing relationship with a licensee under
+which the licensee provides one or more insurance products or services to the consumer  that are
+to be used primarily for personal, family or household purposes.
+(11) “Declination of insurance coverage” or “decline coverage” means a denial, in  whole or in
+part, by an insurer or insurance producer of an application for requested insurance coverage.
+(12) “Health care” means care, services or supplies related to the health of an individual.
+(13) “Health care operations” includes but is not limited to:
+(a) Quality assessment, accreditation, auditing and improvement activities;
+(b) Case management and care coordination;
+(c) Reviewing the competence, qualifications or performance of health care  providers or health
+insurers;
+(d) Underwriting activities;
+(e) Arranging for legal services;
+(f) Business planning;
+(g) Customer services;
+(h) Resolving internal grievances;
+(i) Creating deidentified information; and
+(j) Fundraising.
+(14) “Health care provider” includes but is not limited to:
+(a) A psychologist, occupational therapist, regulated social worker, professional  counselor or
+marriage and family therapist  licensed or otherwise authorized to practice under ORS chapter 675
+or an employee of the psychologist, occupational therapist,  regulated social worker, professional
+counselor or marriage and family therapist;
+(b) A physician or physician associate licensed under  ORS chapter 677, an acupuncturist li-
+censed under ORS 677.759 or an employee of the physician, physician associate or acupuncturist;
+(c) A nurse or nursing home administrator licensed  under ORS chapter 678 or an employee of
+the nurse or nursing home administrator;
+(d) A dentist licensed under ORS chapter 679 or an employee of the dentist;
+(e) A dental hygienist or denturist licensed under ORS chapter 680 or an employee of the  dental
+hygienist or denturist;
+(f) A speech-language  pathologist or audiologist licensed under ORS chapter 681 or an employee
+of the speech-language pathologist or audiologist;
+(g) An emergency medical services provider licensed under ORS chapter 682;
+(h) An optometrist licensed under ORS chapter 683 or an employee of the optometrist;
+(i) A chiropractic physician licensed under ORS chapter 684 or an employee of  the chiropractic
+physician;
+(j) A naturopathic physician licensed under ORS chapter 685  or an employee of the naturopathic
+physician;
+(k) A massage therapist licensed  under ORS 687.011 to 687.250 or an employee of the massage
+therapist;
+(L) A direct  entry midwife licensed under ORS 687.405 to 687.495 or an employee of the direct
+entry midwife;
+(m) A physical therapist licensed under ORS 688.010 to 688.201 or an employee of the  physical
+[34]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+therapist;
+(n) A medical imaging licensee under ORS  688.405 to 688.605 or an employee of the medical
+imaging licensee;
+(o) A respiratory care practitioner  licensed under ORS 688.815 or an employee of the respiratory
+care practitioner;
+(p) A polysomnographic technologist  licensed under ORS 688.819 or an employee of the poly-
+somnographic technologist;
+(q) A pharmacist licensed under ORS chapter 689 or an employee of the pharmacist;
+(r) A dietitian or nutritionist licensed  under ORS 691.405 to 691.485 or an employee of the
+dietitian or nutritionist ;
+(s) A funeral service practitioner licensed  under ORS chapter 692 or an employee of the funeral
+service  practitioner;
+(t) A health care facility as defined in ORS 442.015;
+(u) A home health agency as defined in ORS 443.014;
+(v) A hospice program as defined in ORS 443.850;
+(w) A clinical laboratory as defined in ORS 438.010;
+(x) A pharmacy as defined in ORS 689.005;
+(y) A diabetes self-management program as defined in ORS 743.694; and
+(z) Any other person or entity that furnishes, bills for or is paid for health care in the  normal
+course of business.
+(15) “Health information” means any oral or written information in any form or medium that:
+(a) Is created or received  by a covered entity, a public health authority, a life insurer, a school,
+a university or a health care provider that is not a covered entity; and
+(b) Relates to:
+(A) The past, present or future physical or mental health or condition of an individual;
+(B) The provision of health care to an individual; or
+(C) The past, present or future payment for the provision of health care to an individual.
+(16) “Health insurer” means an insurer who offers:
+(a) A health benefit plan as defined in ORS 743B.005;
+(b) A short term health insurance policy,  the duration of which does not exceed three months
+including renewals;
+(c) A student health insurance policy;
+(d) A Medicare supplemental policy; or
+(e) A dental only policy.
+(17) “Homeowner  insurance” means insurance for residential property consisting of a combina-
+tion of property insurance and casualty insurance  that provides coverage for the risks of owning
+or occupying a dwelling and that is not intended to cover an owner’s interest in rental property or
+commercial exposures.
+(18) “Individual” means a natural person who:
+(a) In the  case of life or health insurance, is a past, present or proposed principal insured or
+certificate holder;
+(b) In the case of other kinds of insurance, is  a past, present or proposed named insured or
+certificate holder;
+(c) Is a past, present or proposed policyowner;
+(d) Is a past or present applicant;
+[35]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) Is a past or present claimant; or
+(f) Derived, derives or  is proposed to derive insurance coverage under an insurance policy or
+certificate that is subject to ORS 746.600 to 746.690.
+(19) “Individually identifiable  health information” means any oral or written health information
+that is:
+(a) Created or received by a covered entity or a health care  provider that is not a covered en-
+tity; and
+(b) Identifiable to an individual, including  demographic information that identifies the individual,
+or for which there is a reasonable basis to believe the information can  be used to identify an indi-
+vidual, and that relates to:
+(A) The past, present or future physical or mental health or condition of an individual;
+(B) The provision of health care to an individual; or
+(C) The past, present or future payment for the provision of health care to an individual.
+(20) “Institutional source”  means a person or governmental entity that provides information
+about an individual  to an insurer, insurance producer or insurance-support organization, other than:
+(a) An insurance producer;
+(b) The individual who is the subject of the information; or
+(c) A natural  person acting in a personal capacity rather than in a business or professional ca-
+pacity.
+(21) “Insurance producer” or “producer” means a person licensed by the  Director of the De-
+partment of Consumer and Business Services as a resident or nonresident insurance producer.
+(22) “Insurance score” means a number or rating that is derived from an  algorithm, computer
+application, model or other process that is based in whole or in part on credit history.
+(23)(a) “Insurance-support organization” means a person who regularly engages, in whole or in
+part, in assembling or collecting information about natural persons for  the primary purpose of pro-
+viding the information to an insurer or insurance producer for insurance transactions, including:
+(A) The furnishing of consumer reports to an insurer or insurance  producer for use in con-
+nection with insurance transactions; and
+(B) The collection of personal  information from insurers, insurance producers or other
+insurance-support organizations for the purpose of  detecting or preventing fraud, material misrep-
+resentation or material nondisclosure in  connection with insurance underwriting or insurance claim
+activity.
+(b) “Insurance-support organization” does not mean insurers, insurance producers, governmental
+institutions or health care providers.
+(24) “Insurance transaction” means any transaction that involves  insurance primarily for per-
+sonal, family or household needs rather than business or professional needs and that entails:
+(a) The  determination of an individual’s eligibility for an insurance coverage, benefit or payment;
+or
+(b) The servicing of an insurance application, policy or certificate.
+(25) “Insurer” has the meaning given that term in ORS 731.106.
+(26) “Investigative consumer report” means a  consumer report, or portion of a consumer report,
+for which information about a natural person’s character, general reputation, personal  character-
+istics  or  mode of living is obtained through personal interviews with the person’s neighbors, friends,
+associates, acquaintances or others who may have knowledge concerning  such items of information.
+(27) “Licensee” means an insurer, insurance producer or  other person authorized or required to
+[36]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+be authorized, or licensed or required to be licensed, pursuant to the Insurance Code.
+(28) “Loss history report” means a report provided by,  or a database maintained by, an
+insurance-support organization or consumer reporting agency that  contains information regarding
+the claims history  of the individual property that is the subject of the application for a homeowner
+insurance policy or the consumer applying for a homeowner insurance policy.
+(29) “Nonaffiliated third party” means any person except:
+(a) An affiliate of a licensee;
+(b) A person that is employed jointly by a licensee and by a person that is  not an affiliate of the
+licensee; and
+(c) As designated by the director by rule.
+(30) “Payment” includes but is not limited to:
+(a) Efforts to obtain premiums or reimbursement;
+(b) Determining eligibility or coverage;
+(c) Billing activities;
+(d) Claims management;
+(e) Reviewing health care to determine medical necessity;
+(f) Utilization review; and
+(g) Disclosures to consumer reporting agencies.
+(31)(a) “Personal financial information” means:
+(A) Information that is identifiable with an individual, gathered in connection with an insurance
+transaction  from  which judgments can be made about the individual’s character, habits, avocations,
+finances, occupations, general reputation, credit or any other personal characteristics; or
+(B) An individual’s name, address and policy number or similar form  of access code for the
+individual’s policy.
+(b) “Personal financial information” does not mean  information that a licensee has a reasonable
+basis to believe is lawfully made available to the general public from federal, state or local  gov-
+ernment records, widely distributed media or disclosures to the public that are  required by federal,
+state or local law.
+(32) “Personal information” means:
+(a) Personal financial information;
+(b) Individually identifiable health information; or
+(c) Protected health information.
+(33) “Personal insurance” means the following types of insurance  products or services that are
+to be used primarily for personal, family or household purposes:
+(a) Private passenger automobile coverage;
+(b) Homeowner, mobile  homeowners, manufactured homeowners, condominium owners and
+renters coverage;
+(c) Personal dwelling property coverage;
+(d) Personal liability and theft coverage, including excess personal liability  and theft coverage;
+and
+(e) Personal inland marine coverage.
+(34) “Personal representative” includes but is not limited to:
+(a) A person appointed as  a guardian under ORS 125.305, 419B.372, 419C.481 or 419C.555 with
+authority to make medical and health care decisions;
+(b) A person appointed as a health care representative under ORS 127.505 to  127.660 or 127.700
+[37]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+to 127.737 to make health care decisions or mental health treatment decisions;
+(c) A person appointed as a personal representative under ORS chapter 113; and
+(d) A person described in ORS 746.611.
+(35) “Policyholder” means a person who:
+(a) In the case of individual policies of life or health insurance, is a current policyowner;
+(b) In the case of individual policies of other kinds of insurance, is currently a  named insured;
+or
+(c) In the case of group policies of insurance under which coverage is  individually underwritten,
+is a current certificate holder.
+(36) “Pretext interview” means an interview wherein the interviewer, in  an attempt to obtain
+personal information about a natural person, does one or more of the following:
+(a) Pretends to be someone the interviewer is not.
+(b) Pretends to represent a person the interviewer is not in fact representing.
+(c) Misrepresents the true purpose of the interview.
+(d) Refuses upon request to identify the interviewer.
+(37) “Privileged information” means information that is identifiable with an individual and  that:
+(a) Relates to a claim for insurance benefits or a civil or criminal proceeding  involving the in-
+dividual; and
+(b) Is collected in connection with or  in reasonable anticipation of a claim for insurance benefits
+or a civil or criminal proceeding involving the individual.
+(38)(a) “Protected health information” means individually identifiable  health information that is
+transmitted or maintained in any form of electronic or other medium by a covered entity.
+(b) “Protected health information” does  not mean individually identifiable health information in:
+(A) Education records covered by the federal Family Educational Rights and  Privacy Act (20
+U.S.C. 1232g);
+(B) Records described at 20 U.S.C. 1232g(a)(4)(B)(iv); or
+(C) Employment records held by a covered entity in its role as employer.
+(39) “Residual market mechanism” means an  association, organization or other entity involved
+in the insuring of risks under ORS 735.005 to 735.145, 737.312 or other provisions of  the Insurance
+Code relating to insurance applicants who are unable to procure insurance through normal insur-
+ance markets.
+(40) “Termination of insurance coverage” or “termination  of an insurance policy” means either
+a cancellation or a  nonrenewal of an insurance policy, in whole or in part, for any reason other than
+the failure of a premium to be paid as required by the policy.
+(41) “Treatment” includes but is not limited to:
+(a) The provision, coordination or management of health care; and
+(b) Consultations and referrals between health care providers.
+CAPTIONS
+SECTION 35.
+The unit captions used in this 2025 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+OPERATIVE AND EFFECTIVE DATES
+[38]
+SB 1174
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+SECTION 36.
+(1) Sections 2 to 5 of this 2025 Act and the amendments to ORS 192.556,
+401.651, 413.164,  413.550, 431A.850, 433.045, 433.443, 441.044, 676.108, 676.150, 676.350, 676.400,
+676.410, 676.565, 676.595, 676.850, 676.992,  691.405, 691.415, 691.435, 691.445, 691.465, 691.475,
+691.477, 691.485, 743B.454 and 746.600 and section 3,  chapter 380, Oregon Laws 2015, by
+sections 6 to 13 and 15 to 34 of this 2025 Act become operative on January 1, 2026.
+(2) The  Board of Licensed Dietitians and Nutritionists and the Health Licensing Office
+may take any action before the operative date specified in subsection (1)  of this section that
+is necessary for the board or the office to exercise, on or after the operative date  specified
+in subsection (1) of this section, all of the duties, functions and powers conferred on the
+board and the office by sections 2 to 5 of this 2025 Act and the amendments  to ORS 192.556,
+401.651, 413.164, 413.550, 431A.850, 433.045, 433.443, 441.044, 676.108, 676.150, 676.350,  676.400,
+676.410, 676.565, 676.595, 676.850, 676.992, 691.405, 691.415,  691.435, 691.445, 691.465, 691.475,
+691.477, 691.485, 743B.454 and 746.600 and section  3, chapter 380, Oregon Laws 2015, by
+sections 6 to 13 and 15 to 34 of this 2025 Act.
+SECTION 37.
+This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[39]

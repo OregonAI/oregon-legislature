@@ -1,0 +1,212 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3104
+Sponsored by Representative OWENS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would have Business Oregon  set up a resource center to help rural areas of this
+state apply for grants and manage grant funds. (Flesch Readability Score: 63.0).
+Directs the Oregon Business Development  Department to enter into an agreement with a
+nonprofit organization or local  government association to serve as a statewide rural community re-
+source center. Requires the center to provide technical assistance to rural jurisdictions  to assist
+them with developing and submitting proposals for public and private awards and  to manage funds
+that are awarded as a result.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to rural community resources; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in sections 1 to 3 of this 2025 Act:
+(a) “Nonprofit organization” means an entity:
+(A) Organized not for profit, pursuant  to ORS chapter 65 or any predecessor or successor
+of ORS chapter 65; or
+(B) Described in section 501(c)(3) of  the Internal Revenue Code that is exempt from in-
+come tax under section 501(a) of the Internal Revenue Code.
+(b) “Rural” means located entirely outside the  acknowledged Portland Metropolitan Area
+Regional Urban Growth Boundary and  the acknowledged urban growth boundaries of all
+cities with populations of 30,000 or more.
+(c) “Service jurisdiction” means:
+(A) Rural cities and counties;
+(B) Economic development districts as defined in ORS 285B.636  other than the Greater
+Portland, Inc.—Portland-Vancouver Economic Development District; and
+(C) Regional councils of government other than Metro.
+(2)(a) The Oregon Business Development Department shall select an entity to serve as a
+statewide rural community resource center  with the duties and powers set forth in this
+section and section 2 of this 2025 Act.
+(b) The entity shall be:
+(A) A nonprofit organization that specializes in public-private partnerships; or
+(B) A statewide local government association of cities or counties.
+(3)(a) The department shall prescribe by rule an application process  for the selection of
+the entity, including the forms, the information  and materials to be included with applica-
+tions and the deadlines.
+(b) Upon approval of an application,  the department shall negotiate an agreement with
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 783
+HB 3104
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the entity under  which the entity shall perform the duties and exercise the powers assigned
+to it as the rural community resource center under law and the agreement.
+(4)(a) The rural community resource center shall provide  technical assistance to service
+jurisdictions that lack staff capacity and expertise to:
+(A) Develop plans for community  facilities, infrastructure, revitalization, housing and
+economic development;
+(B) Develop and submit proposals for any public and private awards to fund such  plans,
+including but not limited to grants; and
+(C) Manage the funds awarded them to carry out the plans.
+(b) The rural community resource center shall have a staff of seven professionals, each
+of whom provides the  technical assistance described in paragraph (a) of this subsection in
+one of the following areas:
+(A) Public works.
+(B) Engineering.
+(C) Community development.
+(D) Housing.
+(E) Transportation.
+(F) Project management.
+(G) Public administration and finance.
+(c) In addition to providing  the technical assistance described in this subsection, the ru-
+ral community resource center shall:
+(A) Serve as a hub for funding and resources available to service jurisdictions.
+(B) Provide a network to connect  service jurisdictions to resources for project develop-
+ment, grant writing and management assistance.
+(C) Support leaders of service jurisdictions in establishing priorities for plans described
+in subsection (4)(a)(A) of this section.
+(D) Connect service jurisdictions with  regional intermediaries that also provide such
+technical assistance.
+(E) Research the gaps in public and civic investment systems and identify opportunities
+for improvement and leverage.
+SECTION 2.
+(1)(a) The rural community resource center described in section  1 of this
+2025 Act shall use moneys available  in the Rural Community Resource Leverage Fund es-
+tablished under section 3 of this 2025  Act to assist service jurisdictions in developing and
+submitting proposals for public and private awards, including but  not limited to grants, to
+fund plans described in section 1 (4)(a)(A) of this 2025 Act.
+(b) In  awarding assistance grants under this section, the rural community resource
+center shall give preference to proposals to obtain public or private grants or other  awards
+that require matching funds.
+(2) The center may also use moneys in the fund to directly seek public and private awards
+for deposit in the fund.
+SECTION 3. (1) There is established in the State Treasury, separate and distinct from the
+General Fund, the Rural Community Resource Leverage  Fund. All moneys in the fund are
+continuously appropriated to the Oregon  Business Development Department for distribution
+to the entity selected by the department under section 1 of this 2025 Act to serve as the rural
+community resource center. The center may use the moneys solely to fund:
+[2]
+HB 3104
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+(a) The activities of the  professional staff described in section 1 (4)(b) of this 2025 Act
+and other operating expenses of the center; and
+(b) The uses specified in section 2 of this 2025 Act.
+(2) The Rural Community Resource Leverage Fund shall consist of:
+(a) Moneys appropriated  or otherwise allocated or transferred to the fund by the Legis-
+lative Assembly or the department;
+(b) Interest earned on moneys in the fund; and
+(c) Moneys or property, or the proceeds of property, of any  kind received from any public
+or private source by the department or the center for deposit in the fund.
+SECTION 4.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Oregon  Business Development Department, for the biennium beginning July 1,
+2025, out of  the General Fund, the amount of $6,000,000, to be distributed to the entity se-
+lected by the department under section 1 of this 2025  Act to serve as the rural community
+resource center, as follows:
+(1) $3,000,000 for the activities of the professional  staff described in section 1 (4)(b) of this
+2025 Act and other operating expenses of the center; and
+(2) $3,000,000 for the uses specified in section 2 of this 2025 Act.
+SECTION 5.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[3]

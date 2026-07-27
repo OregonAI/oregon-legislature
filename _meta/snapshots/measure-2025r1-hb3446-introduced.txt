@@ -1,0 +1,200 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3446
+Sponsored by Representative MCINTIRE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Changes how moneys are given to schools for CTE  activities. (Flesch Readability Score:
+61.3).
+Reallocates how moneys from the  Connecting Education to Careers Account for activities re-
+lated to career and technical education are distributed to schools.
+A BILL FOR AN ACT
+Relating to funding to support career and technical education; creating new provisions; and amend-
+ing ORS 327.372.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 327.372 is amended to read:
+327.372. (1) Activities  related to science, technology, engineering and mathematics education and
+activities  related  to career and technical education that can lead to high wage and high demand jobs
+shall be funded as provided by this section.
+(2) The Department of Education shall distribute moneys in the Connecting Education to  Ca-
+reers Account established by ORS 327.376 as follows:
+(a) Forty percent for activities related  to science, technology, engineering and mathematics ed-
+ucation that are described in subsection  (3) of this section. Moneys shall be distributed by the de-
+partment under this paragraph based on recommendations of the STEM Investment Council.
+(b) Sixty percent for activities related to career and technical education that can  lead to high
+wage and  high demand jobs and that are described in subsection (4) of this section. Moneys shall
+be distributed by the department under this paragraph based on recommendations of  the committee
+established under ORS 344.075.
+(3) Moneys distributed as provided by subsection  (2)(a) of this section to fund activities related
+to science, technology, engineering and mathematics education shall be used to:
+(a) Expand and sustain regional networks that support science, technology, engineering and
+mathematics.
+(b) Award grants that expand the implementation of  effective programs related to science,
+technology, engineering and  mathematics, that propose innovative approaches or programs related
+to science, technology, engineering and mathematics or that provide professional development re-
+lated to teaching science, technology, engineering and mathematics.
+(c) Provide funding to recruit, retain and support underserved students, as defined by  the State
+Board of Education by rule, for programs that are offered at community colleges and public uni-
+versities and that can lead to high wage  and high demand jobs related to science, technology, en-
+gineering and mathematics.
+(d) Develop a systematic survey of facility use to determine  how savings for science, technology,
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4120
+HB 3446
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+engineering and mathematics education can be achieved.
+(e) Fund any other activities related to science, engineering and  mathematics education that are
+identified by the STEM Investment Council.
+(4) Moneys distributed as provided by subsection  (2)(b) of this section to fund activities related
+to career and technical education that can lead to high  wage and high demand jobs shall be used
+for:
+(a) Programs that expose students  to career and technical education programs that can lead to
+high wage and high demand jobs.
+(b) Career and Technical Education Revitalization grants awarded under ORS 344.075.
+(c) Student leadership  organizations related to career and technical education programs that can
+lead to high wage and high demand jobs.
+[(d) Distribution to  school districts to support career and technical education programs in the
+school district that are approved by the Department of Education as  being high quality and that can
+lead to high wage and high demand  jobs. Moneys must be distributed to each school and public charter
+school in the school  district based on the number of students enrolled at the school with the following
+characteristics: ]
+[(A) Students who are enrolled in and earned three or more  credits for courses that are part of a
+career and technical education program that  can lead to high wage and high demand jobs and that
+are approved by the Department of Education. ]
+[(B) Students who acquire an industry credential that can lead to a high wage and high demand
+job and that is approved by the Department of Education. ]
+[(C) Students described in subparagraph (A) or (B) of this  paragraph who are historically under-
+served, as defined by the State Board of Education by rule. ]
+(d) Distribution to school districts to  support career and technical education programs
+in the school district that  are approved by the Department of Education as being high quality
+and that can lead to high wage and high demand jobs. Moneys must  be distributed to each
+school and public charter school in the school district based on:
+(A) The number of students enrolled at the school  who are enrolled in and earned three
+or more credits for courses that are part of a career and technical education  program that
+can lead to high wage and high demand jobs and that are approved by the Department  of
+Education; and
+(B) The number of students enrolled at the school who are described  in subparagraph (A)
+of this paragraph and who:
+(i) Acquire  an industry credential that can lead to a high wage and high demand job and
+that is approved by the Department of Education; or
+(ii) Are historically underserved, as defined by the State Board of Education by rule.
+(e) Administration of grants for the purpose of expanding teacher training programs  and oppor-
+tunities related  to career and technical education that can lead to high wage and high demand jobs.
+(f) Administration of a pilot  program to increase students’ exposure and access to career and
+technical education that can lead to high wage and high demand jobs.
+(g) Funding any other activities related to career and technical education  that can lead to high
+wage and high demand jobs and that are identified by the committee established under ORS 344.075.
+(5) Except as otherwise provided,  moneys distributed under subsections (3) and (4) of this section
+shall be distributed to school districts, education service districts, public schools, public  charter
+schools,  community  colleges, public universities or statewide nonprofit organizations promoting stu-
+[2]
+HB 3446
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+dent leadership in career and technical education or any combination thereof or in partnership with
+youth job development organizations, as defined in ORS 344.415, other  nonprofit organizations or
+other entities identified by the State Board of Education by rule.
+(6) From the moneys available under subsection (2) of  this section, the Department of Education,
+the STEM Investment Council and the committee established under ORS 344.075 combined  may re-
+tain no more  than a total of five percent of all moneys distributed for a fiscal year for administrative
+expenses incurred under this section.
+(7) The Department of Education, in collaboration with the STEM  Investment Council and the
+committee established under ORS 344.075, shall submit a biennial  report to the Legislative Assembly
+related to distributions made under this section. The  report must include metrics that identify how
+distributions made under  this section are contributing to the development of a skilled workforce that
+is able to secure high wage and high demand jobs.
+SECTION 2.
+The amendments to ORS 327.372 by section  1 of this 2025 Act apply to dis-
+tributions made to school districts on or after the effective date of this 2025 Act.
+[3]

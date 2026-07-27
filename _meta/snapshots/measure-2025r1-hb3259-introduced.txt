@@ -1,0 +1,149 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3259
+Sponsored by Representative EVANS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells ODEM to run a grant  program to support PSAP consolidation and up-
+grades. (Flesch Readability Score: 61.8).
+Directs the Oregon Department of Emergency Management to administer a grant program  in
+support of projects to consolidate and modernize or upgrade public safety answering points.
+Sunsets on January 2, 2045.
+A BILL FOR AN ACT
+Relating to public safety answering points.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Emergency communications system” has the meaning given  that term in ORS
+403.105.
+(b) “9-1-1 jurisdiction” has the meaning given that term in ORS 403.105.
+(c) “Public safety answering point” has the meaning given that term in ORS 403.105.
+(2) The Oregon Department of Emergency Management  shall administer a program to
+provide grants,  from the Public Safety Answering Point Consolidation Fund established under
+section 2 of this 2025 Act, in support of projects to consolidate and modernize or  upgrade
+public safety answering points.
+(3)(a) 9-1-1  jurisdictions may apply for grants under the program. An application must
+include, at a minimum:
+(A) A plan for consolidating two or more public safety answering points into  a single
+public safety answering point; and
+(B) A plan for modernizing or upgrading software or hardware.
+(b) Plans must specify that all equipment acquired  for radio infrastructure will support
+interoperable two-way digital radio standards or be capable of being upgraded to support such
+standards.
+(c) Plans may rely on or include information previously collected  or plans previously de-
+veloped by a 9-1-1 jurisdiction.
+(4)(a) The department shall approve a grant application if:
+(A) The department determines  that the project described in the application will improve
+the efficiency of the emergency communications system;
+(B) The department determines that 9-1-1 system  modernization or upgrades and radio
+infrastructure modernization or upgrades described in the application are either in compli-
+ance with applicable provisions of the Oregon Statewide Communication Interoperability Plan
+described in ORS 403.455 or capable of being modernized or upgraded to bring them  into
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3505
+HB 3259
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+compliance; and
+(C) The application has been presented to  the following entities for review and comment:
+(i) The official within the department  with primary responsibility for the emergency
+communications system; and
+(ii) Any relevant advisory committees established under ORS 403.120.
+(b) The  department may approve applications for a maximum of two projects per
+biennium, notwithstanding paragraph (a) of this subsection. The  department shall review and
+approve applications in the order in which they are received.
+(5) The  department may provide additional grants of up to $500,000 for modernizing or
+upgrading software or hardware  to 9-1-1 jurisdictions whose grant applications are approved
+under this section. To be eligible for an additional grant under this subsection, a  9-1-1 juris-
+diction must commit an amount of at least $150,000 to the modernization or upgrade.
+(6) Grants under the program may not exceed, per project:
+(a) $25,000 for costs related to developing consolidation plans; and
+(b) $50,000 for technical support to implement consolidation plans.
+(7) On or  before December 1 of each year, the department shall report on the status of
+the grant program described in this section to the  interim committees of the Legislative
+Assembly related to emergency preparedness.
+(8) The department shall adopt rules to carry out the provisions of  this section, including
+rules governing the form and process for grant applications.
+SECTION 2.
+The Public Safety Answering Point Consolidation  Fund is established in the
+State Treasury, separate and distinct from the General  Fund. The Public Safety Answering
+Point Consolidation Fund consists  of moneys appropriated, allocated, deposited or trans-
+ferred to  the fund by the Legislative Assembly or otherwise. Moneys in the fund are con-
+tinuously appropriated to the Oregon Department of  Emergency Management to carry out
+the provisions of section 1 of this 2025 Act.
+SECTION 3. (1) Sections 1 and 2 of this 2025 Act are repealed on January 2, 2045.
+(2) Any moneys remaining in the Public  Safety Answering Point Consolidation Fund es-
+tablished under section 2 of this 2025 Act on the date  specified in subsection (1) of this sec-
+tion that are unexpended, unobligated and not subject  to any conditions shall revert to the
+General Fund.
+SECTION 4. There is appropriated to the Oregon Department of Emergency Manage-
+ment, for the  biennium beginning July 1, 2025, out of the General Fund, the amount of
+$ , for deposit in the Public Safety Answering  Point Consolidation Fund established
+under section 2 of this 2025 Act.
+[2]

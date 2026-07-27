@@ -1,0 +1,576 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2908
+title: 'HB 2908 (2025R1): Allows a school district or a public charter school to require a student to
+  demonstrate proficiency in civics by a method other than completion of a civics course.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2908
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2908/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 3ce1d89fc0584c91bce053b4319a9c185839a592feb071d924e0b6d7c1123de0
+snapshot_id: measure-2025r1-hb2908-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 30.297
+  - ORS 329.045
+  - ORS 329.451
+  - ORS 332.112
+  - ORS 336.680
+  - ORS 343.243
+  - ORS 343.261
+  - ORS 343.961
+  - ORS 419B.550
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2908
+prefix_meaning: House Bill
+catch_line: Allows a school district or a public charter school to require a student to demonstrate proficiency
+  in civics by a method other than completion of a civics course.
+minority_catch_line: null
+measure_summary: "\tDigest: Allows a school district or a public charter school to decide how a student\
+  \ shows civics knowledge. (Flesch Readability Score: 65.1). \n\tAllows a school district or a public\
+  \ charter school to require a student to demonstrate proficiency in civics by a method other than completion\
+  \ of a civics course."
+relating_to: Relating to civics proficiency for a high school diploma.
+relating_to_full: Relating to civics proficiency for a high school diploma; amending ORS 329.451.
+at_the_request_of: null
+lc_number: 1659
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-02-04T17:26:45'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 34913
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 30.297
+  - ORS 329.045
+  - ORS 329.451
+  - ORS 332.112
+  - ORS 336.680
+  - ORS 343.243
+  - ORS 343.261
+  - ORS 343.961
+  - ORS 419B.550
+  from_relating_to_full:
+  - ORS 329.451
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2908>.
+
+# HB 2908 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2908, 2025 Regular Session (2025R1)
+- **LC number:** 1659
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-02-04T17:26:45
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 34913 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2908/Introduced>.
+
+## Summary
+
+**Catchline:** Allows a school district or a public charter school to require a student to demonstrate proficiency in civics by a method other than completion of a civics course.
+
+**Relating to:** Relating to civics proficiency for a high school diploma.
+
+Digest: Allows a school district or a public charter school to decide how a student shows civics knowledge. (Flesch Readability Score: 65.1). 
+ Allows a school district or a public charter school to require a student to demonstrate proficiency in civics by a method other than completion of a civics course.
+
+**RelatingToFull (verbatim upstream field):** Relating to civics proficiency for a high school diploma; amending ORS 329.451.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2908
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Allows a school district or  a public charter school to decide how a student shows civics
+knowledge. (Flesch Readability Score: 65.1).
+Allows a school district or a public charter school to  require a student to demonstrate profi-
+ciency in civics by a method other than completion of a civics course.
+A BILL FOR AN ACT
+Relating to civics proficiency for a high school diploma; amending ORS 329.451.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 329.451, as amended by  section 1, chapter 175, Oregon Laws 2021, section 6,
+chapter 81, Oregon Laws 2022,  section 3, chapter 202, Oregon Laws 2023, section 9, chapter 513,
+Oregon Laws 2023, and section 2, chapter 4, Oregon Laws 2024, is amended to read:
+329.451. (1)(a) At or before grade 12, a school district or public charter school shall award a high
+school diploma to a student who completes the requirements established by  subsection (2) of this
+section.
+(b) A school  district or public charter school shall award a modified diploma to a student who
+satisfies the requirements established by subsection  (7) of this section, an extended diploma to a
+student who satisfies the requirements established by subsection (8) of this section or a  certificate
+of attendance  to a student who satisfies the requirements established by subsection (9) of this sec-
+tion.
+(c) A school district  or public charter school may not deny a student who has the documented
+history described in subsection (7)(b)  or (8)(b) of this section the opportunity to pursue a diploma
+with more stringent requirements than a modified diploma or an extended diploma.
+(d) A school district or public charter  school may award a modified diploma or extended diploma
+to a student only upon receiving consent as provided by subsection (6) of this section.
+(2)(a) In order to receive a high school diploma from a  school district or public charter school,
+a student must satisfy the requirements established by the State Board  of Education and the school
+district or public charter school and, while in grades 9  through 12, must complete at least 24 total
+credits, which must include at least:
+(A) Three credits of mathematics;
+(B) Four credits of language arts; and
+(C) Except as provided by paragraph (b) of this subsection,  one half-credit of civics.
+(b) In lieu of the  credit requirement for civics prescribed by paragraph (a)(C) of this
+subsection, a school district or public charter school may require a student to  demonstrate
+proficiency in civics by an alternative method identified by  the school district or public
+charter school, including:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1659
+(A) A passing grade on a civics test  selected or developed by the school district or public
+charter school; or
+(B) The successful completion of academic work that  is equivalent to one-half credit,
+regardless of whether the academic work complies with the academic content standards
+adopted for civics by the State Board of Education.
+[(b)] (c) If a school district or  public charter school requires a student to complete more than
+24 total credits, as provided by paragraph (a) of this subsection, the school  district or public charter
+school may only require the student to complete additional credits for:
+(A) Subjects for which the State Board of Education has established  academic content standards
+under ORS 329.045;
+(B) Courses provided as part of a career and technical education program; or
+(C) Courses  that provide, or qualify to provide, credit at post-secondary institutions of education.
+[(c)(A) ] (d)(A) A school district or public charter  school that requires students to satisfy any
+requirements not specified by paragraph (a)  of this subsection or by rule of the State Board of Ed-
+ucation  must  grant to a student a waiver of the requirements established by the school district or
+public charter school if the student is or, at any time from grade 9 to 12, was:
+(i) A foster child, as defined in ORS 30.297;
+(ii) Homeless, as determined under rules adopted by the State  Board of Education based on
+standards adopted by the Department of Human Services;
+(iii) A runaway, as determined under rules adopted by the State Board  of Education based on
+standards adopted by the Department of Human Services;
+(iv) A child in a military family covered by the Interstate Compact on Educational Opportunity
+for Military Children, as determined under rules adopted by the State Board of Education;
+(v) A child of a migrant worker, as determined under rules adopted by  the State Board of Edu-
+cation;
+(vi) Enrolled in the Youth Corrections Education Program or the Juvenile Detention Education
+Program; or
+(vii) Enrolled in an approved recovery school under ORS 336.680.
+(B)(i) For any student identified under subparagraph (A) of this paragraph, a school district or
+public charter school must accept any credits earned by the student in  an educational program in
+this state and apply those credits toward requirements specified by paragraph (a) of  this subsection
+or by rule of the State Board of Education if the credits satisfied  those requirements in that edu-
+cational program in this state.
+(ii) As used in this subparagraph, “educational program in this state” means  an educational
+program that is:
+(I) Provided by a school district, a public charter school, an approved recovery school, the
+Youth Corrections Education Program or the Juvenile Detention Education Program; or
+(II) Funded as  provided by ORS 343.243 for students in a long term care or treatment facility
+described in ORS 343.961 or a hospital identified in ORS 343.261.
+[(d)(A)] (e)(A) The State Board of Education shall adopt  rules by which a student who has
+completed an International Baccalaureate program may satisfy  the credit requirements prescribed
+by paragraph (a) of this subsection and any or all of the requirements  established by rule of the
+State Board of Education under paragraph (a) of this subsection. The rules:
+(i) Must provide that the student has satisfied those requirements if the student has satisfied:
+(I) All of the requirements for an International  Baccalaureate Diploma Programme or an Inter-
+national Baccalaureate Career-related Programme; and
+(II) Any  other requirements prescribed by the board by rule for a student who has completed
+an International Baccalaureate program.
+(ii) May provide that, only  for the purpose of satisfying requirements as provided by this para-
+graph, a person  who is not an external International Baccalaureate examiner may grade assessments
+or examinations for either program.
+(B) Nothing in this paragraph prohibits a school district or public  charter school from estab-
+lishing requirements that  are in addition to the credit requirements prescribed by paragraph (a) of
+this subsection or any requirements established by  rule under paragraph (a) of this subsection or
+subparagraph (A) of this paragraph.
+(C) When establishing requirements under this paragraph, the board or a school  district or
+public charter school shall attempt not to establish requirements that may  discourage access to or
+participation in the International Baccalaureate program.
+(3) A student  providing work samples to demonstrate proficiency in Essential Learning Skills
+as may be required  under subsection (2) of this section must be allowed to use accommodations de-
+scribed in the student’s individualized  education program or the student’s plan developed in ac-
+cordance with section 504 of the Rehabilitation  Act of 1973, 29 U.S.C. 794. As used in this
+subsection, the term “accommodations”:
+(a) Includes, but is not limited to:
+(A) Additional time to demonstrate proficiency.
+(B) The ability to demonstrate proficiency in an alternative  location that is secure and
+proctored.
+(C) The use of text-to-speech or speech-to-text technology or other assistive technology.
+(b) Does not  include modifications that lower the proficiency standards or that are used solely
+to earn modified credit.
+(4) A student may  satisfy the requirements of subsection (2) of this section in less than four
+years. If a student satisfies the requirements of subsection (2) of  this section and a school district
+or public charter school has received consent as provided by  subsection (6) of this section, the
+school district or public charter school shall award a high school diploma to the student.
+(5) If a school district  or public charter school has received consent as provided by subsection
+(6) of this  section, the school district or public charter school may advance the student to the next
+grade level if the student has satisfied the requirements for the student’s current grade level.
+(6)(a) For  the purpose of receiving consent as provided by subsections (1)(d), (4) and (5) of this
+section, consent shall be provided by:
+(A) The parent or guardian of the student, if the student:
+(i) Is under 18 years of age and is not emancipated pursuant to ORS 419B.550 to 419B.558; or
+(ii) Has been determined not to have  the ability to give informed consent regarding the student’s
+education pursuant to a protective proceeding under ORS chapter 125; or
+(B) The student, if the student is 18 years of age  or older or is emancipated pursuant to ORS
+419B.550 to 419B.558.
+(b) For the purpose of awarding a modified diploma or extended diploma as provided by sub-
+section (1)(d) of this section or of awarding a high school diploma as provided by subsection (4) of
+this section, consent must be received  during the school year for which the diploma will be awarded.
+(7) A school  district or public charter school shall award a modified diploma only to students
+who have demonstrated  the inability to meet the full set of academic content standards for a high
+school diploma with reasonable modifications and accommodations. To be eligible for  a modified di-
+ploma, a student must:
+(a) Satisfy the requirements  for a modified diploma established by the State Board of Education;
+and
+(b) Have a documented history of an inability to  maintain grade level achievement due to sig-
+nificant learning and  instructional barriers or have a documented history of a medical condition that
+creates a barrier to achievement.
+(8) A school district or public charter school shall award an extended diploma  only to students
+who have demonstrated  the inability to meet the full set of academic content standards for a high
+school diploma with reasonable modifications and accommodations. To be eligible for  an extended
+diploma, a student must:
+(a) While in grade nine through completion of high school, complete 12  credits, which may not
+include more than six credits earned in a self-contained special education  classroom and shall in-
+clude:
+(A) Two credits of mathematics;
+(B) Two credits of language arts;
+(C) Two credits of science;
+(D) Three credits of history, geography, economics or civics;
+(E) One credit of health;
+(F) One credit of physical education; and
+(G) One credit of the arts or a world language; and
+(b) Have a documented history of:
+(A) An inability to maintain  grade level achievement due to significant learning and instruc-
+tional barriers;
+(B) A medical condition that creates a barrier to achievement; or
+(C) A change in the student’s ability to participate in  grade level activities as a result of a se-
+rious illness or injury that occurred after grade eight.
+(9) A school district or public charter  school shall award a certificate of attendance to a student
+who does not satisfy the requirements for a  high school diploma, a modified diploma or an extended
+diploma if the  student has maintained regular full-time attendance for at least four years beginning
+in grade nine and meets requirements established by the board of the school district  or public
+charter school.
+(10) A student shall have the opportunity to satisfy  the requirements of subsection (7), (8) or (9)
+of this section by the later of:
+(a) Four years after starting grade nine; or
+(b) The student reaching the age  of 21 years, if the student is entitled to a public education until
+the age of 21 years under state or federal law.
+(11)(a) A student may satisfy  the requirements described in subsection (7), (8) or (9) of this sec-
+tion in less than four years if consent is  provided in the manner described in subsection (6)(a) of this
+section.
+(b) The consent provided under this subsection must be written and must clearly  state that the
+parent, guardian or student is waiving the time allowed under subsection (10) of  this section. A
+consent may not be  used to allow a student to satisfy the requirements of subsection (7), (8) or (9)
+of this section in less than three years.
+(c) A copy of all consents provided under this subsection  for students in a school district must
+be forwarded to the district superintendent.
+(d) Each school district must provide to the Superintendent of Public  Instruction information
+about the number of consents provided during a school year.
+(12)(a) A student  who qualifies to receive or receives a modified diploma, an extended diploma
+or a certificate of attendance shall:
+(A) Have the option of participating in a high  school graduation ceremony with the class of the
+student; and
+(B) Have access to  instructional hours, hours of transition services and hours of other services
+that are designed to:
+(i) Meet the unique needs of the student; and
+(ii) When added together, provide a total number of hours of  instruction and services to the
+student that equals at least the total number of  instructional hours that is required to be provided
+to students who are attending a public high school.
+(b) A school district may not unilaterally decrease the total number of hours of  instruction and
+services to which the student has access under paragraph (a)(B) of this subsection, regardless of the
+age of the student.
+(c) For purposes  of paragraph (a)(B) of this subsection, transition services and other services
+designed to meet the unique needs of  the student may be provided to the student through an inter-
+agency agreement entered into by the school district if the individualized  education program devel-
+oped for the student indicates that the services may be  provided by another agency. A school
+district that enters into an interagency agreement as allowed under this  paragraph retains the re-
+sponsibility for ensuring that the student has access to  the number of service hours required to be
+provided to the student under this subsection. An  agency is not required to change any eligibility
+criteria or enrollment standards prior to entering into an interagency agreement  as provided by this
+paragraph.
+(13) A school district or public charter school shall:
+(a) Ensure that all students have on-site access to the appropriate resources and  courses to
+achieve high school diplomas, modified diplomas and extended diplomas at each high school  in the
+school district or at the public charter school.
+(b) Provide literacy instruction to all students until graduation.
+(c)(A) Provide to the parents or guardians of a student who has the documented  history de-
+scribed in subsection (8)(b) of this section:
+(i) Information about the availability of high school diplomas, modified diplomas  and extended
+diplomas and the requirements for the diplomas; and
+(ii) A disclosure that a student awarded a  certificate of attendance will not be counted as a high
+school graduate in any reporting for the state or school district  and that a student awarded a cer-
+tificate of attendance may not indicate that the  student received a high school diploma on applica-
+tions for employment, military service,  financial aid, admittance to an institution of higher education
+or any other purpose.
+(B) The information and disclosure required under subparagraph (A) of this paragraph  must be
+provided annually:
+(i) Beginning in grade five; or
+(ii) Beginning after a documented history described in subsection (8)(b) of this section  has been
+established.
+(14) A school district or public charter school shall allow a  student to participate in the high
+school graduation ceremony with the class of the student and to wear:
+(a) Native American items of cultural significance as provided by ORS 332.112; or
+(b) A dress uniform issued to the student by  a branch of the Armed Forces of the United States
+if the student:
+(A) Qualifies to receive a high  school diploma, a modified diploma, an extended diploma or a
+certificate of attendance under this section; and
+(B) Has completed basic  training for, and is an active member of, a branch of the Armed Forces
+of the United States.
+SECTION 2.
+ ORS 329.451, as amended by  section 1, chapter 175, Oregon Laws 2021, section 6,
+chapter 81, Oregon Laws 2022,  section 3, chapter 202, Oregon Laws 2023, section 9, chapter 513,
+Oregon Laws 2023, section 1, chapter 564, Oregon Laws  2023, and section 3, chapter 4, Oregon Laws
+2024, is amended to read:
+329.451. (1)(a) At or before grade 12, a school district or public charter school shall award a high
+school diploma to a student who completes the requirements established by  subsection (2) of this
+section.
+(b) A school  district or public charter school shall award a modified diploma to a student who
+satisfies the requirements established by subsection  (7) of this section, an extended diploma to a
+student who satisfies the requirements established by subsection (8) of this section or a  certificate
+of attendance  to a student who satisfies the requirements established by subsection (9) of this sec-
+tion.
+(c) A school district  or public charter school may not deny a student who has the documented
+history described in subsection (7)(b)  or (8)(b) of this section the opportunity to pursue a diploma
+with more stringent requirements than a modified diploma or an extended diploma.
+(d) A school district or public charter  school may award a modified diploma or extended diploma
+to a student only upon receiving consent as provided by subsection (6) of this section.
+(2)(a) In order to receive a high school diploma from a  school district or public charter school,
+a student must satisfy the requirements established by the State Board  of Education and the school
+district or public charter school and, while in grades 9  through 12, must complete at least 24 total
+credits, which must include at least:
+(A) Three credits of mathematics;
+(B) Four credits of language arts;
+(C) Except as provided by paragraph (b) of this subsection,  one half-credit of civics;
+(D) One half-credit of higher education and career path skills; and
+(E) One half-credit of personal financial education.
+(b) In lieu of the  credit requirement for civics prescribed by paragraph (a)(C) of this
+subsection, a school district or public charter school may require a student to  demonstrate
+proficiency in civics by an alternative method identified by  the school district or public
+charter school, including:
+(A) A passing grade on a civics test  selected or developed by the school district or public
+charter school; or
+(B) The successful completion of academic work that  is equivalent to one-half credit,
+regardless of whether the academic work complies with the academic content standards
+adopted for civics by the State Board of Education.
+[(b)] (c) If a school district or  public charter school requires a student to complete more than
+24 total credits, as provided by paragraph (a) of this subsection, the school  district or public charter
+school may only require the student to complete additional credits for:
+(A) Subjects for which the State Board of Education has established  academic content standards
+under ORS 329.045;
+(B) Courses provided as part of a career and technical education program; or
+(C) Courses  that provide, or qualify to provide, credit at post-secondary institutions of education.
+[(c)(A) ] (d)(A) A school district or public charter  school that requires students to satisfy any
+requirements not specified by paragraph (a) of this subsection or by rule of  the State Board of Ed-
+ucation must grant to a student a waiver of the requirements established by the school district  or
+public charter school if the student is or, at any time from grade 9 to 12, was:
+(i) A foster child, as defined in ORS 30.297;
+(ii) Homeless, as determined under rules  adopted by the State Board of Education based on
+standards adopted by the Department of Human Services;
+(iii) A runaway, as determined  under rules adopted by the State Board of Education based on
+standards adopted by the Department of Human Services;
+(iv) A child in a military family covered by the Interstate Compact on Educational Opportunity
+for Military Children, as determined under rules adopted by the State Board of Education;
+(v) A child of a migrant  worker, as determined under rules adopted by the State Board of Edu-
+cation;
+(vi) Enrolled in the Youth Corrections Education Program or the Juvenile Detention Education
+Program; or
+(vii) Enrolled in an approved recovery school under ORS 336.680.
+(B)(i) For any student identified under subparagraph (A) of this paragraph, a school district or
+public charter school must accept  any credits earned by the student in an educational program in
+this state and apply those credits toward requirements specified by paragraph (a) of  this subsection
+or by rule of the State  Board of Education if the credits satisfied those requirements in that edu-
+cational program in this state.
+(ii) As used  in this subparagraph, “educational program in this state” means an educational
+program that is:
+(I) Provided by a school district, a public charter school, an approved recovery school, the
+Youth Corrections Education Program or the Juvenile Detention Education Program; or
+(II) Funded as provided by ORS 343.243 for students in a long term care or  treatment facility
+described in ORS 343.961 or a hospital identified in ORS 343.261.
+[(d)] (e) The State Board of Education may  adopt by rule requirements for courses, including
+teachers of courses, related to higher education and  career path skills and personal financial edu-
+cation that allow the courses to satisfy multiple credit requirements for a high school  diploma, in-
+cluding mathematics.
+[(e)(A) ] (f)(A) The  State Board of Education shall adopt rules by which a student who has
+completed an International Baccalaureate program may satisfy  the credit requirements prescribed
+by paragraph (a) of this subsection and any or all of the requirements  established by rule of the
+State Board of Education under paragraph (a) of this subsection. The rules:
+(i) Must provide that the student has satisfied those requirements if the student has satisfied:
+(I) All of the requirements for an International  Baccalaureate Diploma Programme or an Inter-
+national Baccalaureate Career-related Programme; and
+(II) Any  other requirements prescribed by the board by rule for a student who has completed
+an International Baccalaureate program.
+(ii) May provide that, only  for the purpose of satisfying requirements as provided by this para-
+graph, a person  who is not an external International Baccalaureate examiner may grade assessments
+or examinations for either program.
+(B) Nothing in this paragraph prohibits a school district or public  charter school from estab-
+lishing requirements that  are in addition to the credit requirements prescribed by paragraph (a) of
+this subsection or any requirements established by  rule under paragraph (a) of this subsection or
+subparagraph (A) of this paragraph.
+(C) When establishing  requirements under this paragraph, the board or a school district or
+public charter school shall attempt  not to establish requirements that may discourage access to or
+participation in the International Baccalaureate program.
+(3) A student providing work samples to demonstrate proficiency in Essential  Learning Skills
+as may be required under subsection (2) of this section must be allowed to  use accommodations de-
+scribed in the student’s individualized education program or the student’s  plan developed in ac-
+cordance with section 504 of the Rehabilitation Act of 1973, 29  U.S.C. 794. As used in this
+subsection, the term “accommodations”:
+(a) Includes, but is not limited to:
+(A) Additional time to demonstrate proficiency.
+(B) The ability to demonstrate proficiency in an alternative  location that is secure and
+proctored.
+(C) The use of text-to-speech or speech-to-text technology or other assistive technology.
+(b) Does not  include modifications that lower the proficiency standards or that are used solely
+to earn modified credit.
+(4) A student may  satisfy the requirements of subsection (2) of this section in less than four
+years. If a student satisfies the requirements of subsection (2) of  this section and a school district
+or public charter school has received consent as provided by  subsection (6) of this section, the
+school district or public charter school shall award a high school diploma to the student.
+(5) If a school district  or public charter school has received consent as provided by subsection
+(6) of this  section, the school district or public charter school may advance the student to the next
+grade level if the student has satisfied the requirements for the student’s current grade level.
+(6)(a) For  the purpose of receiving consent as provided by subsections (1)(d), (4) and (5) of this
+section, consent shall be provided by:
+(A) The parent or guardian of the student, if the student:
+(i) Is under 18 years of age and is not emancipated pursuant to ORS 419B.550 to 419B.558; or
+(ii) Has been determined not to have  the ability to give informed consent regarding the student’s
+education pursuant to a protective proceeding under ORS chapter 125; or
+(B) The student, if the student is 18 years of age  or older or is emancipated pursuant to ORS
+419B.550 to 419B.558.
+(b) For the purpose of awarding a modified diploma or extended diploma as provided by sub-
+section (1)(d) of this section or of awarding a high school diploma as provided by subsection (4) of
+this section, consent must be received  during the school year for which the diploma will be awarded.
+(7) A school  district or public charter school shall award a modified diploma only to students
+who have demonstrated  the inability to meet the full set of academic content standards for a high
+school diploma with reasonable modifications and accommodations. To be eligible for  a modified di-
+ploma, a student must:
+(a) Satisfy the requirements  for a modified diploma established by the State Board of Education;
+and
+(b) Have a documented history of an inability to  maintain grade level achievement due to sig-
+nificant learning and  instructional barriers or have a documented history of a medical condition that
+creates a barrier to achievement.
+(8) A school district or public charter school shall award an extended diploma  only to students
+who have demonstrated  the inability to meet the full set of academic content standards for a high
+school diploma with reasonable modifications and accommodations. To be eligible for  an extended
+diploma, a student must:
+(a) While in grade nine through completion of high school, complete 12  credits, which may not
+include more than six credits earned in a self-contained special education  classroom and shall in-
+clude:
+(A) Two credits of mathematics;
+(B) Two credits of language arts;
+(C) Two credits of science;
+(D) Three credits of history, geography, economics or civics;
+(E) One credit of health;
+(F) One credit of physical education; and
+(G) One credit of the arts or a world language; and
+(b) Have a documented history of:
+(A) An inability to maintain  grade level achievement due to significant learning and instruc-
+tional barriers;
+(B) A medical condition that creates a barrier to achievement; or
+(C) A change in the student’s ability to participate in  grade level activities as a result of a se-
+rious illness or injury that occurred after grade eight.
+(9) A school district or public charter  school shall award a certificate of attendance to a student
+who does not satisfy the requirements for a  high school diploma, a modified diploma or an extended
+diploma if the  student has maintained regular full-time attendance for at least four years beginning
+in grade nine and meets requirements established by the board of the school district  or public
+charter school.
+(10) A student shall have the opportunity to satisfy  the requirements of subsection (7), (8) or (9)
+of this section by the later of:
+(a) Four years after starting grade nine; or
+(b) The student reaching the age  of 21 years, if the student is entitled to a public education until
+the age of 21 years under state or federal law.
+(11)(a) A student may satisfy  the requirements described in subsection (7), (8) or (9) of this sec-
+tion in less than four years if consent is  provided in the manner described in subsection (6)(a) of this
+section.
+(b) The consent provided under this subsection must be written and must clearly  state that the
+parent, guardian or student is waiving the time allowed under subsection (10) of  this section. A
+consent may not be  used to allow a student to satisfy the requirements of subsection (7), (8) or (9)
+of this section in less than three years.
+(c) A copy of all consents provided under this subsection  for students in a school district must
+be forwarded to the district superintendent.
+(d) Each school district must provide to the Superintendent of Public  Instruction information
+about the number of consents provided during a school year.
+(12)(a) A student  who qualifies to receive or receives a modified diploma, an extended diploma
+or a certificate of attendance shall:
+(A) Have the option of participating in a high  school graduation ceremony with the class of the
+student; and
+(B) Have access to instructional hours, hours of transition services and hours  of other services
+that are designed to:
+(i) Meet the unique needs of the student; and
+(ii) When added together, provide a  total number of hours of instruction and services to the
+student that equals at least the total number of  instructional hours that is required to be provided
+to students who are attending a public high school.
+(b) A school district may not unilaterally decrease the total number of hours of  instruction and
+services to which the student has access under paragraph (a)(B) of this subsection, regardless of the
+age of the student.
+(c) For purposes of paragraph (a)(B) of this subsection, transition services and  other services
+designed to meet the unique needs of the student may be provided  to the student through an inter-
+agency agreement entered into  by the school district if the individualized education program devel-
+oped for the student indicates that the  services may be provided by another agency. A school
+district that enters into an  interagency agreement as allowed under this paragraph retains the re-
+sponsibility for ensuring that the student has access to  the number of service hours required to be
+provided to the student under this subsection. An agency  is not required to change any eligibility
+criteria or enrollment standards prior to entering into an interagency agreement  as provided by this
+paragraph.
+(13) A school district or public charter school shall:
+(a) Ensure that  all students have on-site access to the appropriate resources and courses to
+achieve high school  diplomas, modified diplomas and extended diplomas at each high school in the
+school district or at the public charter school.
+(b) Provide literacy instruction to all students until graduation.
+(c)(A) Provide to  the parents or guardians of a student who has the documented history de-
+scribed in subsection (8)(b) of this section:
+(i) Information about  the availability of high school diplomas, modified diplomas and extended
+diplomas and the requirements for the diplomas; and
+(ii) A disclosure that a student awarded a  certificate of attendance will not be counted as a high
+school graduate in any reporting for the state  or school district and that a student awarded a cer-
+tificate of attendance may not indicate that the student  received a high school diploma on applica-
+tions for employment, military service,  financial aid, admittance to an institution of higher education
+or any other purpose.
+(B) The information  and disclosure required under subparagraph (A) of this paragraph must be
+provided  annually:
+(i) Beginning in grade five; or
+(ii) Beginning after  a documented history described in subsection (8)(b) of this section has been
+established.
+(14) A school district or public charter  school shall allow a student to participate in the high
+school graduation ceremony with the class of the student and to wear:
+(a) Native American items of cultural significance as provided by ORS 332.112; or
+(b) A dress uniform issued to the student by  a branch of the Armed Forces of the United States
+if the student:
+(A) Qualifies to receive a high school diploma, a modified diploma,  an extended diploma or a
+certificate of attendance under this section; and
+(B) Has completed basic  training for, and is an active member of, a branch of the Armed Forces
+of the United States.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 329.451
+- From bill text (Introduced version): ORS 30.297, ORS 329.045, ORS 329.451, ORS 332.112, ORS 336.680, ORS 343.243, ORS 343.261, ORS 343.961, ORS 419B.550
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `3ce1d89fc0584c91bce053b4319a9c185839a592feb071d924e0b6d7c1123de0` (snapshot `_meta/snapshots/measure-2025r1-hb2908-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2908/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2908> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

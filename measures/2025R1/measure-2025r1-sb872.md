@@ -1,0 +1,326 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb872
+title: 'SB 872 (2025R1): Modifies laws related to the State Mortuary and Cemetery Board''s authority to
+  impose disciplinary actions on applicants and those subject to the board''s regulatory authority.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 872
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB872/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 2b948a9530f2cb48e94a4d581bbac7e5a180f9dbf46dc338ff88300562038d36
+snapshot_id: measure-2025r1-sb872-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 183.413
+  - ORS 183.745
+  - ORS 676.165
+  - ORS 676.175
+  - ORS 676.303
+  - ORS 692.010
+  - ORS 692.025
+  - ORS 692.045
+  - ORS 692.160
+  - ORS 692.180
+  - ORS 692.230
+  - ORS 692.260
+  - ORS 692.265
+  - ORS 692.270
+  - ORS 692.375
+  - ORS 97.923
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 872
+prefix_meaning: Senate Bill
+catch_line: Modifies laws related to the State Mortuary and Cemetery Board's authority to impose disciplinary
+  actions on applicants and those subject to the board's regulatory authority.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act modifies SMCB laws. (Flesch Readability Score: 66.4). \n\tModifies\
+  \ laws related to the State Mortuary and Cemetery Board's authority to impose disciplinary actions on\
+  \ applicants and those subject to the board's regulatory authority."
+relating_to: Relating to disciplinary actions imposed by the State Mortuary and Cemetery Board.
+relating_to_full: Relating to disciplinary actions imposed by the State Mortuary and Cemetery Board.
+at_the_request_of: (at the request of Governor Tina Kotek for State Mortuary and Cemetery Board)
+lc_number: 546
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-06-20T13:19:42'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 13821
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 183.413
+  - ORS 183.745
+  - ORS 676.165
+  - ORS 676.175
+  - ORS 676.303
+  - ORS 692.010
+  - ORS 692.025
+  - ORS 692.045
+  - ORS 692.160
+  - ORS 692.180
+  - ORS 692.230
+  - ORS 692.260
+  - ORS 692.265
+  - ORS 692.270
+  - ORS 692.375
+  - ORS 97.923
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 872>.
+
+# SB 872 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 872, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for State Mortuary and Cemetery Board)
+- **LC number:** 546
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-06-20T13:19:42
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 13821 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB872/Enrolled>.
+
+## Summary
+
+**Catchline:** Modifies laws related to the State Mortuary and Cemetery Board's authority to impose disciplinary actions on applicants and those subject to the board's regulatory authority.
+
+**Relating to:** Relating to disciplinary actions imposed by the State Mortuary and Cemetery Board.
+
+Digest: The Act modifies SMCB laws. (Flesch Readability Score: 66.4). 
+ Modifies laws related to the State Mortuary and Cemetery Board's authority to impose disciplinary actions on applicants and those subject to the board's regulatory authority.
+
+**RelatingToFull (verbatim upstream field):** Relating to disciplinary actions imposed by the State Mortuary and Cemetery Board.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 872
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Governor Tina Kotek for State Mortuary and Cemetery Board)
+CHAPTER .................................................
+AN ACT
+Relating to disciplinary actions imposed by the State Mortuary and Cemetery Board; creating  new
+provisions; amending ORS 692.180, 692.230, 692.265 and 692.270; and repealing ORS 692.260.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 692.180 is amended to read:
+692.180. [(1) Upon complaint or upon its own motion, the State Mortuary and  Cemetery Board may
+investigate a complaint made by any  person or by the board. If the board finds any of the causes de-
+scribed in this section in regard to any person, licensee or applicant or the holder  of a certificate of
+authority, the board may impose a civil penalty of not more than $1,000 for each  violation, suspend or
+revoke a license to practice or to operate under this chapter or refuse to grant  or renew a license. The
+causes are as follows: ]
+(1) An applicant or person subject to the authority  of the State Mortuary and Cemetery
+Board commits a prohibited act if the person engages in:
+(a) Misrepresentation in the conduct of business or in obtaining a license.
+(b) Fraudulent or  dishonest conduct, when the conduct bears a demonstrable relationship to fu-
+neral service  practice, embalming practice or the operation of cemeteries, crematoriums or other
+facilities for final disposition of human remains.
+(c) Except as provided in this paragraph, solicitation of human remains by the licensee or any
+agent, assistant or employee of the licensee, either before or after  death. This paragraph does not
+apply to:
+(A) Activities permissible under ORS 97.923 to 97.949; or
+(B) The sale, in accordance with provisions of the Insurance  Code, of prearranged funeral or
+cemetery merchandise or services, or any combination  thereof, to be funded by the contemporaneous
+or subsequent assignment of a life insurance policy or an annuity contract.
+(d) Offensive treatment of dead human  bodies or evidence that a body in the person’s custody
+has been disposed of in violation of ORS chapter 432 or rules adopted pursuant thereto.
+(e) Aiding or abetting a person who is not a  licensee or a trainee in any act involving the dis-
+position of dead human bodies before the bodies undergo final disposition or before  the bodies are
+transported out of the State of Oregon.
+(f) Sale or reuse  of any casket or body container that has been previously utilized for the
+placement of a deceased human body. This  does not include use of a rental cover as defined in ORS
+692.010.
+Enrolled Senate Bill 872 (SB 872-A) Page 1
+(g) Violation of any  of the provisions of ORS chapter 97 or 432 or  this chapter or violation
+of any rules adopted [ under this chapter ] by the board .
+(h) Violation of any provision of ORS [ 97.929 or ] 97.937 or regulations adopted by the Federal
+Trade Commission regulating funeral industry practices.
+(i) Conviction of a crime, when the crime bears a demonstrable  relationship to funeral service
+practice,  embalming  practice, death care consultant practice or the operation of cemeteries,
+crematoriums or other facilities for final disposition of human remains. A certified copy of  the con-
+viction is conclusive evidence of the conviction.
+(j) Violation of ORS chapter 97 as it relates to disposition of human bodies and to cemeteries.
+(k) Refusing to surrender promptly the  custody of a dead human body, upon the express order
+of the person lawfully entitled to the custody of the body.
+(L) Acting as the legal representative of any deceased person for whom  the licensee has ren-
+dered services governed by this  chapter. This subsection does not prohibit a licensee from acting
+as the legal representative of a deceased  relative or a deceased licensee if the deceased licensee
+was a partner, employee or employer in the licensee’s practice.
+(m) Failure to pay any civil penalty imposed  by the board within 10 days after the order is en-
+tered or, if appealed, within 10 days after the order is sustained on appeal.
+(n) Impairment as defined in ORS 676.303.
+(2) If the board finds that a person has committed an act described in this section the
+board may, in the manner provided in ORS chapter  183 for contested cases, take any of the
+following disciplinary actions:
+(a) Issue a reprimand.
+(b) Place limitations on a license to prohibit a licensee  from performing certain actions
+or from engaging in  the scope of practice in a particular manner for a period of time deter-
+mined by the board.
+(c) Place a licensee on probation for  a period of time determined by the board and subject
+to any conditions specified by the board including supervision by the board or a third party
+selected by the board.
+(d) Suspend a license for a period of time determined by the board.
+(e) Revoke a license for a period  of time determined by the board, including permanent
+revocation.
+(f) Refuse to grant or renew a license.
+(g) Assess a civil penalty not to exceed $5,000.
+(3)(a) In addition to the disciplinary action authorized by subsection (2) of this section,
+if the board has  reasonable cause to believe that any person has engaged, is engaging or is
+about to engage in any violation of any provision of  this chapter or any rule or order adopted
+under this chapter, the board may issue an order  of emergency suspension without a hearing
+or an order directed to the person to  cease and desist from the violation or threatened vio-
+lation and take corrective action.
+(b) The board shall mail  a copy of an order issued under this subsection to the person
+by first class mail with certificate of mailing.
+(c) An order issued under this subsection must include the following:
+(A) A statement of the facts constituting the violation;
+(B) The effective date of the order; and
+(C) A notice to the person named in the order of the  right to request a hearing and that
+any hearing request for an  emergency suspension action must be received by the board no
+later than 90 days after the date the order was mailed by the  board. For a cease and desist
+order, a request for a hearing must be received by the board no later than  21 days after the
+date the order was mailed by the board.
+(d) If the  board receives a timely request for a hearing concerning an order issued under
+paragraph (c) of this  subsection, the board shall schedule the hearing no later than 30 days
+after receiving the request. The board shall mail written notice of the  hearing to the person
+Enrolled Senate Bill 872 (SB 872-A) Page 2
+by first class mail with certificate of mailing no later than seven days before  the scheduled
+hearing date.
+(e) In the event of a contested case  hearing, the civil penalties assessed in the cease and
+desist order are suspended until issuance of a final order,  but the remaining provisions of
+the cease and desist order shall remain in full force and effect until  issuance of the final
+order. After the hearing, the board  shall enter a final order vacating, modifying or affirming
+the cease and desist order. A cease and desist order described in this subsection  becomes
+final if the person does  not file a timely request for a hearing concerning the order or fails
+to appear at the requested hearing as scheduled.
+(f) A person aggrieved by a cease and  desist order of the board that was the subject of
+a timely application for hearing  shall be entitled to judicial review of the cease and desist
+order under ORS chapter 183.
+(g) A judgment of a reviewing court under ORS chapter 183 does not bar  the board from
+thereafter vacating or modifying a cease and desist order involved in  the proceeding for re-
+view, or entering any new order,  for a proper cause that was not decided by the reviewing
+court.
+(h) The board may file an injunction against  a person for failure to comply with a cease
+and desist order.
+(i) An emergency suspension order is an interim order and not a final order.
+(j) The issuance of a board order under this  subsection is subject to ORS 183.413 to
+183.497.
+[(2)] (4)  All  amounts recovered under this section shall be deposited in the State Mortuary and
+Cemetery Board Account established under ORS 692.375.
+[(3)] (5) Civil penalties under this section shall be imposed as provided in ORS 183.745.
+[(4)] (6) Upon  receipt of a complaint, or upon its own motion,  the board shall conduct an in-
+vestigation as described under ORS 676.165.
+[(5)] (7) Information  that the board obtains as part of an investigation into licensee or applicant
+conduct or as  part of a contested case proceeding, consent order or stipulated agreement involving
+licensee or applicant conduct is confidential as provided under ORS 676.175.
+SECTION 2.
+ ORS 692.230 is amended to read:
+692.230. (1) The State Mortuary and Cemetery  Board may [ suspend or revoke the registration of
+a trainee, after notice and upon hearing, ] take disciplinary action as described in ORS 692.180  if
+the board finds [ any of  the causes specified in ORS 692.180 in regard to the trainee ] that a trainee
+committed a prohibited act described in ORS 692.180 .
+(2) A trainee  whose registration has been suspended or revoked  under ORS 692.180  may apply
+for reregistration within one year after completion of the suspension or revocation  period, but the
+board [ shall] may  not allow more than two reregistrations. When the  circumstances warrant, the
+board may allow a trainee credit under  a reregistration for time actually served under a previous
+registration. However, if the previous registration has been suspended or revoked under [ subsection
+(1) of this section ] ORS 692.180, the board [ shall] may not provide credit for more than 75 percent
+of the time previously served.
+(3) Upon receipt of  a complaint, or upon its own motion,  the board shall conduct an investi-
+gation as described under ORS 676.165.
+(4) Information that the board obtains as part of  an investigation into trainee conduct or as part
+of a contested case  proceeding, consent order or stipulated agreement involving trainee conduct is
+confidential as provided under ORS 676.175.
+SECTION 3.  ORS 692.265 is amended to read:
+692.265. (1) If the State Mortuary and Cemetery Board  proposes to [ impose a civil penalty or to
+revoke, suspend or refuse to issue or renew any license or certificate ] take disciplinary action as
+described in ORS 692.180 , the board shall accord an opportunity for hearing as  provided in ORS
+chapter  183.
+Enrolled Senate Bill 872 (SB 872-A) Page 3
+(2) Adoption of rules, conduct of hearings and issuance of orders and  judicial review of rules
+and orders shall be as provided in ORS chapter 183.
+SECTION 4.  ORS 692.270 is amended to read:
+692.270. (1) The State Mortuary and Cemetery Board shall issue a certificate of removal regis-
+tration to a funeral establishment licensed in another state contiguous to Oregon with laws  sub-
+stantially similar  to the provisions of this section for the limited purpose of removing dead human
+bodies from Oregon, prior to submitting a report of  death, if the establishment that will make the
+removals applies to the board for a certificate  of removal registration on a form provided by the
+board. The application fee established under ORS 692.160 shall accompany the application.  A cer-
+tificate issued under this subsection expires upon a change  of ownership of the funeral establish-
+ment.
+(2) For purposes of this section,  each branch of a registrant’s funeral establishment is a separate
+establishment and must be registered as a fixed place of business.
+(3) Notwithstanding ORS 692.025 (1) and 692.045, a funeral service practitioner who files  reports
+of death in another state may file  an Oregon report of death if the funeral service practitioner is
+employed by a licensed funeral establishment registered with the board under this section.
+(4) The conduct  of a funeral service practitioner or any other person employed by or acting on
+behalf of a removal  registrant shall be the direct responsibility of the holder of a certificate of re-
+moval registration.
+(5) For any of the [ causes] prohibited acts  described in ORS 692.180, or  for violation of any
+death care rule or law in another state,  the board may impose upon the holder of a certificate of
+removal registration or applicant any of the sanctions described in ORS 692.180.
+SECTION 5. ORS 692.260 is repealed.
+SECTION 6. The amendments to ORS 692.180,  692.230, 692.265 and 692.270 by sections 1
+to 4 of this 2025 Act and the repeal of ORS 692.260 by section 5 of  this 2025 Act apply to
+conduct occurring on or after the effective date of this 2025 Act.
+Passed by Senate April 10, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 3, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 872 (SB 872-A) Page 4
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 183.413, ORS 183.745, ORS 676.165, ORS 676.175, ORS 676.303, ORS 692.010, ORS 692.025, ORS 692.045, ORS 692.160, ORS 692.180, ORS 692.230, ORS 692.260, ORS 692.265, ORS 692.270, ORS 692.375, ORS 97.923
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `2b948a9530f2cb48e94a4d581bbac7e5a180f9dbf46dc338ff88300562038d36` (snapshot `_meta/snapshots/measure-2025r1-sb872-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB872/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `0dcb7d025fd0539216d6a82bff4a71c402e92e833a5c11d6a998c1ccf37c798d` (snapshot `_meta/snapshots/measure-2025r1-sb872-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB872/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 872> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

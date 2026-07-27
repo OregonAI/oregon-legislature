@@ -1,0 +1,75 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 726
+Sponsored by Senators GELSER BLOUIN, MANNING  JR, GOLDEN; Senator PATTERSON, Repre-
+sentatives ANDERSEN, FRAGALA, GAMBA, MCDONALD (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to landfill emissions monitoring; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and  made a part of ORS chapter 468A.
+SECTION 2. (1) As used in this section:
+(a) “Advanced methane detection technology”  means satellite monitoring, airflight mon-
+itoring, drones or remote direct  monitoring technology that yields emission rates and the
+location of a methane emissions point source, as further defined by the Environmental
+Quality Commission by rule.
+(b) “Municipal solid  waste landfill” means a municipal solid waste landfill unit, as defined
+in 40 C.F.R. 257.2, as in effect on January 1, 2025, located in Benton County.
+(2) The commission  shall establish by rule requirements for surface emissions monitoring
+and mitigation of methane gas emissions from municipal  solid waste landfills. The owner or
+operator of a municipal solid waste landfill required to conduct surface  emissions monitoring
+must:
+(a) Use advanced methane detection technology  that meets minimum standards estab-
+lished by the commission, to conduct surface  emissions monitoring above all areas of the
+surface of the landfill;
+(b) Report all surface emissions monitoring results to the Department of Environmental
+Quality as follows:
+(A) Results must include a spatial  geographic information system map drawn to scale
+that includes:
+(i) The longitude and latitude coordinates  of each exceedance carried to the fifth decimal
+place; and
+(ii) The monitoring path taken along the surface of the landfill, where applicable.
+(B) For monitoring conducted using a drone:
+(i) The longitude and latitude coordinates, carried to the fifth  decimal place, of
+anemometer readings taken at five-minute intervals;
+(ii) Collected meteorological data;
+(iii) Flight transects with  path-integrated or surface concentration results that identify
+results by concentration range or locations where concentrations  constitute an exceedance;
+and
+(iv) Equipment calibration records;
+(c) Maintain all surface emissions monitoring records for no less than five years; and
+Enrolled Senate Bill 726 (SB 726-B) Page 1
+(d)(A) Monitor  the site of any exceedance within 10 days of first detecting the
+exceedance, after taking any corrective action required by the commission by rule.
+(B) If the  owner or operator cannot take corrective action at the site of an exceedance
+because the exceedance is located within the active or working face of  the landfill, the owner
+or operator must submit a mitigation plan to the department for approval.
+SECTION 3. (1) Section 2 of this 2025 Act becomes operative on January 1, 2027.
+(2) The Department of Environmental  Quality and the Environmental Quality Commis-
+sion may take any action before the operative date specified in subsection (1)  of this section
+that is necessary to enable the department or the commission to  exercise, on and after the
+operative date specified in subsection (1) of this section, all of  the duties, functions and
+powers conferred on the department and the commission by section 2 of this 2025 Act.
+SECTION 4. This 2025 Act takes effect on the 91st day after the date  on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+Passed by Senate April 10, 2025
+Repassed by Senate June 4, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 2, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 726 (SB 726-B) Page 2

@@ -1,0 +1,707 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2931
+title: 'HB 2931 (2025R1): Modifies, adds and repeals laws related to the Interstate 5 bridge replacement
+  project.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2931
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2931/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 1f96fbd70ed5d9e2def65f4ffe8b8017f1a4a81f3b4f02ba39400b7bb6e293d3
+snapshot_id: measure-2025r1-hb2931-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.116
+  - ORS 179.610
+  - ORS 183.310
+  - ORS 183.745
+  - ORS 190.420
+  - ORS 192.324
+  - ORS 276A.270
+  - ORS 276A.276
+  - ORS 286A.001
+  - ORS 291.050
+  - ORS 291.055
+  - ORS 295.001
+  - ORS 352.002
+  - ORS 367.605
+  - ORS 367.615
+  - ORS 367.620
+  - ORS 381.205
+  - ORS 381.310
+  - ORS 381.312
+  - ORS 381.705
+  - ORS 381.725
+  - ORS 382.305
+  - ORS 382.310
+  - ORS 383.001
+  - ORS 383.003
+  - ORS 383.004
+  - ORS 383.005
+  - ORS 383.009
+  - ORS 383.015
+  - ORS 383.035
+  - ORS 383.075
+  - ORS 383.150
+  - ORS 383.200
+  - ORS 383.205
+  - ORS 383.225
+  - ORS 383.235
+  - ORS 390.124
+  - ORS 408.362
+  - ORS 408.365
+  - ORS 456.562
+  - ORS 456.595
+  - ORS 469.421
+  - ORS 477.210
+  - ORS 477.760
+  - ORS 656.506
+  - ORS 656.612
+  - ORS 656.614
+  - ORS 697.005
+  - ORS 706.008
+  - ORS 706.530
+  - ORS 723.114
+  - ORS 731.804
+  - ORS 756.310
+  - ORS 801.305
+  - ORS 810.010
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2931
+prefix_meaning: House Bill
+catch_line: Modifies, adds and repeals laws related to the Interstate 5 bridge replacement project.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act makes changes to laws about the I-5 bridge project and tolling. (Flesch\
+  \ Readability Score: 83.0). \n\tModifies, adds and repeals laws related to the Interstate 5 bridge replacement\
+  \ project."
+relating_to: Relating to the interstate bridge replacement program.
+relating_to_full: Relating to the interstate bridge replacement program.
+at_the_request_of: (at the request of Governor Tina Kotek for Department of Transportation)
+lc_number: 440
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-06-19T18:30:34'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 35517
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.116
+  - ORS 179.610
+  - ORS 183.310
+  - ORS 183.745
+  - ORS 190.420
+  - ORS 192.324
+  - ORS 276A.270
+  - ORS 276A.276
+  - ORS 286A.001
+  - ORS 291.050
+  - ORS 291.055
+  - ORS 295.001
+  - ORS 352.002
+  - ORS 367.605
+  - ORS 367.615
+  - ORS 367.620
+  - ORS 381.205
+  - ORS 381.310
+  - ORS 381.312
+  - ORS 381.705
+  - ORS 381.725
+  - ORS 382.305
+  - ORS 382.310
+  - ORS 383.001
+  - ORS 383.003
+  - ORS 383.004
+  - ORS 383.005
+  - ORS 383.009
+  - ORS 383.015
+  - ORS 383.035
+  - ORS 383.075
+  - ORS 383.150
+  - ORS 383.200
+  - ORS 383.205
+  - ORS 383.225
+  - ORS 383.235
+  - ORS 390.124
+  - ORS 408.362
+  - ORS 408.365
+  - ORS 456.562
+  - ORS 456.595
+  - ORS 469.421
+  - ORS 477.210
+  - ORS 477.760
+  - ORS 656.506
+  - ORS 656.612
+  - ORS 656.614
+  - ORS 697.005
+  - ORS 706.008
+  - ORS 706.530
+  - ORS 723.114
+  - ORS 731.804
+  - ORS 756.310
+  - ORS 801.305
+  - ORS 810.010
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2931>.
+
+# HB 2931 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2931, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for Department of Transportation)
+- **LC number:** 440
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-06-19T18:30:34
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 35517 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2931/Enrolled>.
+
+## Summary
+
+**Catchline:** Modifies, adds and repeals laws related to the Interstate 5 bridge replacement project.
+
+**Relating to:** Relating to the interstate bridge replacement program.
+
+Digest: The Act makes changes to laws about the I-5 bridge project and tolling. (Flesch Readability Score: 83.0). 
+ Modifies, adds and repeals laws related to the Interstate 5 bridge replacement project.
+
+**RelatingToFull (verbatim upstream field):** Relating to the interstate bridge replacement program.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 2931
+Introduced and printed pursuant to House  Rule 12.00. Presession filed (at the request of Governor
+Tina Kotek for Department of Transportation)
+CHAPTER .................................................
+AN ACT
+Relating to  the interstate bridge replacement program; creating new provisions; amending ORS
+291.055, 381.312, 383.003, 383.004, 383.005,  383.009, 383.035, 383.075 and 383.200 and section 2,
+chapter 4, Oregon Laws 2013; and repealing section 8, chapter 4, Oregon Laws 2013.
+Be It Enacted by the People of the State of Oregon:
+INTERSTATE 5 BRIDGE REPLACEMENT PROJECT
+SECTION 1. Section 2, chapter 4, Oregon Laws 2013, is added to  and made a part of ORS
+383.001 to 383.245.
+SECTION 2.  Section 2, chapter 4, Oregon Laws 2013, is amended to read:
+Sec. 2. (1) The Legislative Assembly finds that it is in the interests of this state to undertake
+the Interstate 5 bridge replacement project[ ,].
+(2) The Interstate 5 bridge replacement project is a bistate, multimodal  corridor improve-
+ment project between the Washington State Route 500 interchange  with Interstate 5 in Vancouver,
+Washington, and the Columbia Slough, south of the  Victory Boulevard interchange with Interstate
+5 in Portland, Oregon. The project includes:
+[(1)] (a)  New multimodal river crossings;
+[(2)] (b) Replacement, modification and removal of the existing Interstate 5 bridges;
+[(3)] (c)  Improvements to existing interchanges; and
+[(4)] (d) Multimodal improvements to facilitate travel in the bistate corridor.
+(3) The Oregon Transportation Commission  may enter into agreements with the State
+of Washington, or the State  of Washington’s designee, relating to the Interstate 5 bridge
+replacement project.
+(4) The portion of toll revenues accruing to the State  of Oregon from the Interstate 5
+bridge replacement project may be used only for the purposes described in Article IX, section
+3a, of the Oregon Constitution.
+(5) Subject to approval by the State Treasurer,  the portion of toll revenues accruing to
+the State of Oregon from the Interstate 5 bridge replacement project is  not subject to ORS
+295.001 to 295.108 while fully collateralized pursuant to an agreement with the  State of
+Washington regarding collection, retention  and disbursement of toll revenues on behalf of
+the State of Oregon.
+SECTION 3.  ORS 383.003 is amended to read:
+383.003. As used in ORS 383.001 to 383.245:
+Enrolled House Bill 2931 (HB 2931-A) Page 1
+(1) “Department” means the Department of Transportation.
+(2) “Electronic toll collection system” means a system for collecting tolls that:
+(a) Does not require a vehicle to stop at a toll booth to pay the toll; and
+(b) Uses transponder readers and license plate capture cameras to aid in collecting tolls.
+(3) “Interstate 5 bridge replacement project” means the project described in section  2,
+chapter 4, Oregon Laws 2013.
+[(3)] (4)  “Private entity” means any  nongovernmental entity, including a corporation, partner-
+ship, company or other legal entity, or any natural person.
+[(4)] (5) “Related facility” means any real or personal property that:
+(a) Will be used to operate, maintain, renovate or facilitate the use of the tollway;
+(b) Will provide goods or services to the users of the tollway; or
+(c) Will generate  revenue that may be used to reduce tolls or will be deposited in the Toll
+Program Fund.
+[(5)] (6) “Toll” means any fee or charge for the use of a tollway.
+[(6)] (7)  “Tollway” means any roadway,  path, highway, bridge, tunnel, railroad track, bicycle
+path or other paved surface or structure specifically designed as a land vehicle  transportation route
+for the use of which tolls are assessed.
+[(7)] (8)  “Tollway operator” means the unit of government or the private entity that  is respon-
+sible for all or  any portion of the construction, reconstruction, improvement, financing, maintenance,
+repair and operation of a tollway or a related facility.
+[(8)] (9)  “Tollway project” means any capital project involving the development, operation or
+equipping of a tollway, related facilities or any portion thereof.
+[(9)] (10)  “Tollway project revenue bonds” means revenue bonds designated  as tollway project
+revenue bonds under ORS 383.200.
+[(10)] (11) “Unit  of government” means any department or agency of the federal government, any
+state, any  department or agency of a state, any bistate entity created by agreement under ORS
+190.420 or  other law for the purposes of the Interstate 5 bridge replacement project, and any city,
+county, district, port or other public corporation organized and existing  under statutory law or un-
+der a voter-approved charter.
+SECTION 4.
+ ORS 383.004 is amended to read:
+383.004. (1) Except as  provided in subsection [ (2)] (3)  of this section, a toll may not be estab-
+lished unless the Oregon Transportation Commission has reviewed  and approved the toll. The com-
+mission shall adopt rules specifying the process under which proposals to establish tolls will be
+reviewed.  When  reviewing a proposal to establish tolls, the commission shall take into consideration:
+(a) The amount and classification of the traffic using, or anticipated to use, the tollway;
+(b) The amount of the toll proposed to be established for  each class or category of tollway user
+and, if applicable, the different amounts of the toll depending on time and day of use;
+(c) The extent of the  tollway, including improvements necessary for tollway operation and im-
+provements necessary to support the flow of traffic onto or off of the tollway;
+(d) The location of toll booths or electronic toll collection systems to collect  the toll for the
+tollway;
+(e) The cost of constructing, reconstructing, improving, installing, maintaining, repairing and
+operating the tollway;
+(f) The amount of indebtedness incurred for the construction of  the tollway and all expenses and
+obligations related to the indebtedness including, without limitation, financial covenants,  debt ser-
+vice requirements, reserve requirements and any other funding requirements established  under the
+terms of any  indenture prepared under ORS 383.225 and any other contracts establishing the terms
+of the indebtedness, if any;
+(g) The value of assets, equipment and services required for the operation of the tollway;
+(h) The period of time during which the toll will be in effect;
+(i) The process for altering the amount of the  toll during the period of operation of the tollway;
+(j) The method of collecting the toll; [ and]
+Enrolled House Bill 2931 (HB 2931-A) Page 2
+(k) The rate of return that would be fair and reasonable  based on equivalent market  stand-
+ards for a private equity holder, if any, in the tollway ; and
+(L) Traffic demand management .
+(2) The Oregon Transportation Commission shall  maintain tolls at rates sufficient to
+meet:
+(a) Obligations to the holders of  tollway project revenue bonds issued under ORS 383.200;
+(b) Obligations and covenants under any  revenue declaration or indenture entered into
+under ORS 383.225 for outstanding tollway project  revenue bonds issued by the State Treas-
+urer; and
+(c) The requirements of any related credit enhancement devices, as defined  in ORS
+286A.001, or instruments  defining the rights of holders of such instruments entered in con-
+nection with tollway project revenue bonds.
+[(2)(a)] (3)(a)  Nothing in ORS 383.001 to 383.245 prohibits a city or county from  establishing a
+toll on any highway, as defined in ORS  801.305, that the city or county has jurisdiction over as a
+road authority pursuant to ORS 810.010.
+(b) Nothing in ORS 383.001 to 383.245 prohibits Multnomah County from establishing a  toll on
+the bridges across the Willamette River  that are within the boundaries of the City of Portland and
+that are operated and maintained by Multnomah County as required under  ORS 382.305 and 382.310.
+(c) Nothing in ORS 383.001 to 383.245 prohibits the Port of Hood River  from establishing a toll
+on the bridges across the Columbia River that are operated and maintained by the port.
+(d) Nothing in ORS 383.001 to 383.245 prohibits the Port of Cascade Locks from establishing a
+toll on the bridges across the Columbia River that are operated and maintained by the port.
+(e) Nothing  in ORS 383.001 to 383.245 prohibits a commission formed under ORS 381.705 from
+establishing a toll on  a bridge across the Columbia River that is operated and maintained by the
+commission or the commission’s designee.
+SECTION 5. Section 6 of this 2025 Act is added to and made a part  of ORS 383.001 to
+383.245.
+SECTION 6. Interstate 5 Bridge Toll Account.  (1) The Interstate 5  Bridge Toll Account
+is established in the State Treasury, separate and distinct  from the General Fund and the
+State Highway Fund. Interest earned by the Interstate 5 Bridge Toll  Account shall be cred-
+ited to the account. Moneys in the account are continuously appropriated to the Department
+of Transportation for the Interstate 5 bridge replacement project.
+(2) The department may transfer moneys from the account to the Toll Program  Fund for
+the purposes described in ORS 383.009 (2)(k).
+SECTION 7.
+ ORS 383.005 is amended to read:
+383.005. (1) For  purposes of the acquisition, design, construction, reconstruction, operation or
+maintenance and repair of tollways or tollway projects, the Department of Transportation may en-
+ter into any combination of contracts, agreements  and other arrangements with any one or more
+private entities or units of government, or  any combination thereof, including but not limited to the
+following:
+(a) Design-build contracts with private entities pursuant to which a portion or all aspects of the
+design, construction  and installation of all or any portion of a  tollway or a  tollway project are ac-
+complished by the private entity;
+(b) Lease agreements, lease-purchase agreements and installment sale  arrangements for the
+lease, sale or purchase of real and personal property for tollways or tollway projects by the state
+from private entities or units of government or by private entities  or units of government from the
+state;
+(c) Licenses,  franchises or other agreements for the periodic or long-term operation or mainte-
+nance of  a tollway or  a tollway project;
+(d) Financing agreements for a tollway or  a tollway  project pursuant to which the department
+borrows from, or makes any loan, grant, guaranty or other financing arrangement to or with,  a
+private entity or unit of government; and
+Enrolled House Bill 2931 (HB 2931-A) Page 3
+(e) Agreements for purchase or acquisition of fee ownership,  easements, rights of way or any
+other interests in land upon which  a tollway or  a tollway project is to be built.
+(2) The department  may operate tollways or  tollway projects and impose , [ and] collect  and
+disburse tolls  on any tollway or tollway project the department operates  or that is operated on
+behalf of the department . The department may, under any combination of reciprocal agree-
+ments with a unit of government or private entity, operate or cause to  be operated on its
+behalf, tollways or tollway projects, and  set, impose, retain, collect and disburse tolls on any
+tollway or tollway project. [Any private entity or unit of government that operates a tollway  project
+pursuant to an agreement with the department may impose and collect tolls on the tollway project. ]
+SECTION 8.  ORS 383.009 is amended to read:
+383.009. (1) [ There is  hereby established ] The Toll Program Fund [ as a ] is established, separate
+and distinct [ fund] from the  General Fund and  the  State Highway Fund. The Toll Program Fund
+shall consist of:
+(a) All moneys and  revenues received by the Department of Transportation from , or made
+available to the department  by , the federal government [ to the department ] for any tollway project
+or for the operation or maintenance of any tollway;
+(b) Any moneys received by the department from any other unit of  government or any private
+entity for a tollway project or from the operation or maintenance of any tollway;
+(c) All moneys and revenues received by the department from  any agreement entered into or
+loan made by the department for a tollway project pursuant  to ORS 383.005, and from any lease,
+agreement, franchise or license for  the right to the possession and use, operation or management
+of a tollway project;
+(d) All tolls and other revenues received by the department  or tollway operator from the users
+of any tollway project;
+(e) The proceeds of any bonds authorized to be issued for tollway projects;
+(f) Any moneys that  the department has legally transferred from the State Highway Fund to the
+Toll Program Fund for tollway projects;
+(g) All moneys and revenues received  by the department from all other sources that by gift,
+bequest, donation, grant, contract  or law from any public or private source are for deposit in the
+Toll Program Fund;
+(h) All interest earnings on investments made from any of the moneys held  in the Toll Program
+Fund;
+(i) All civil penalties and administrative fees paid to  the department from the enforcement of
+tolls;
+(j) Fees paid to the department for information provided under ORS 383.075;
+(k) Moneys appropriated for deposit in or otherwise transferred to the  Toll Program Fund by
+the Legislative Assembly; [ and]
+(L) Moneys received from federal sources or other state or local sources,  excluding proceeds
+of Highway User Tax Bonds issued  under ORS 367.615 that finance projects other  than toll
+projects ; and
+(m) Any moneys transferred from the Interstate 5 Bridge Toll Account to the Toll  Pro-
+gram Fund.
+(2) Moneys in the Toll Program Fund may be used by  the department for the following purposes:
+(a) To finance preliminary studies and reports for any tollway project;
+(b) To acquire land to be owned by the state for tollways and any related facilities therefor;
+(c) To finance the construction, renovation, operation,  improvement, maintenance or repair of
+any tollway project;
+(d) To make grants or loans to a unit of government for tollway projects;
+(e) To make loans to private entities for tollway projects;
+(f) To pay the principal, interest and  premium due with respect to, and to pay the costs con-
+nected with the issuance or ongoing administration of,  any bonds or other financial obligations au-
+thorized to be issued by, or the proceeds of which  are received by, the department for any tollway
+Enrolled House Bill 2931 (HB 2931-A) Page 4
+project, including capitalized interest and any rebates or penalties due to the United States in  con-
+nection with the bonds;
+(g) To provide a guaranty or other security for any bonds or  other financial obligations, in-
+cluding but not limited to financial obligations with respect to any  bond insurance, surety or credit
+enhancement device issued or incurred by the  department, a unit of government or a private entity,
+for the purpose of financing a single tollway project or any related group  or system of tollway
+projects or related facilities;
+(h) To pay the costs incurred by the  department in connection with its oversight, operation and
+administration of the Toll Program Fund, the proposals  and projects submitted under ORS 383.015
+and the tollway projects financed under ORS 383.005;
+(i) To  develop, implement and administer the toll program established under ORS 383.150, in-
+cluding the cost of consultants, advisors, attorneys or other professional service providers appointed,
+retained or approved by the department; [ and]
+(j) To make improvements or fund efforts on the tollway and on adjacent, connected  or parallel
+highways to the tollway to reduce  traffic congestion as a result of a tollway project, improve safety
+as a result of a tollway project and reduce impacts of diversion as a result of a tollway  project[ .];
+and
+(k) For moneys transferred  to the Toll Program Fund from the Interstate 5 Bridge Toll
+Account under section 6 of this 2025 Act, to pay costs or  provide funds for any purpose au-
+thorized in this subsection for the Interstate 5 bridge replacement project  and any related
+facility.
+(3) For purposes of paying or securing bonds or providing a guaranty,  surety or other security
+authorized by this section, the department may:
+(a) Irrevocably pledge all or any portion of the amounts  that are credited to, or are required to
+be credited to, the Toll Program Fund;
+(b) Establish subaccounts in the Toll  Program Fund, and make covenants regarding the credit
+to and use of amounts in those subaccounts; and
+(c) Establish separate trust funds or accounts  and make covenants to transfer to those separate
+trust funds or  accounts all or any portion of the amounts that are required to be deposited in the
+Toll Program Fund.
+(4) Notwithstanding any other provision  of ORS 383.001 to 383.245, the department shall not
+pledge any funds or amounts  at any time held in the Toll Program Fund as security for the obli-
+gations of a unit of government or a private entity unless the department has  entered into a binding
+and enforceable agreement that provides the  department reasonable assurance that the department
+will be repaid, with appropriate interest, any amounts that the department  is required to advance
+pursuant to that pledge.
+(5) Moneys in the Toll Program Fund are continuously  appropriated to the department for pur-
+poses authorized by this section.
+(6) Notwithstanding subsection (1) of this section, a city, county, district, port  or other public
+corporation organized and existing under statutory law or under a  voter-approved charter is not
+required to deposit into the Toll Program Fund tolls, or other  revenues are received from the users
+of any tollway, that are assessed by a city, county, district, port or other public corporation organ-
+ized and existing under statutory law or under a voter-approved charter.
+(7) Moneys in the Toll Program Fund that are transferred from the State Highway Fund or are
+derived from any revenues under Article  IX, section 3a, of the Oregon Constitution, may be used
+only for purposes permitted by Article IX, section 3a, of the Oregon Constitution.
+SECTION 9.
+ ORS 383.200 is amended to read:
+383.200. (1) In accordance  with the applicable provisions of ORS chapter 286A, the State
+Treasurer, at the request of the Department of  Transportation, may issue and sell revenue bonds
+known as tollway project revenue bonds for the purpose of financing tollway projects  authorized
+by the Oregon Transportation Commission or  the Department of Transportation , provided
+that such bonds do not constitute a debt or general obligation of the department or of  this state or
+Enrolled House Bill 2931 (HB 2931-A) Page 5
+any of its political subdivisions, but shall be payable solely from the revenues, amounts, funds and
+accounts described in ORS 383.009, 383.205 and 383.235.
+(2) The proceeds of bonds issued under this section may be used  by the department or loaned
+or granted  to a private entity or a local government, as defined in ORS 174.116, for the purposes
+of:
+(a) Financing any portion of the costs related to the purposes described in ORS 383.009 (2);
+(b) Funding any required reserves; [ and]
+(c) Paying costs of issuing the bonds ; and
+(d) Reimbursing the department for any eligible costs associated  with the establishment,
+oversight, operation and maintenance of a tollway or a tollway project .
+(3) The bonds authorized by this section  may be issued as taxable bonds or as tax-exempt bonds
+under the income tax laws of the United States.
+(4) Notwithstanding  the status of the bonds for federal income tax purposes, interest paid to the
+owners of the bonds shall be exempt from personal income taxes imposed by this state.
+(5) Subject to the limitations under ORS 383.004 and 383.009, when  issuing bonds under this
+section, the department and the State Treasurer may make covenants with  bondholders regarding
+the imposition and regulation of  tolls to meet the department’s obligations under the terms of any
+indenture prepared under ORS  383.225, any loan agreement and any grant agreement, including
+without limitation:
+(a) Financial  covenants, debt service requirements, reserve requirements and any other funding
+requirements;
+(b) The use of the amounts required to be deposited in the Toll Program Fund; and
+(c) The issuance of additional bonds.
+(6) The state may not in any way impair obligations of any agreement between  the state and
+holders of tollway project revenue bonds issued under this section.
+(7) The department, with the approval of the  State Treasurer, may designate the extent to which
+a series of tollway project revenue bonds authorized under this section is secured and payable:
+(a) On a parity of lien or on a subordinate basis to existing  or future Highway User Tax Bonds
+issued under ORS 367.615, but only if  sufficient moneys described under ORS 367.605 may be pledged
+to:
+(A) First, pay the annual bond debt service of all Highway  User Tax Bonds issued pursuant to
+ORS 367.615 and 367.620; and
+(B) Second,  pay the annual bond debt service for all tollway project revenue bonds issued under
+this subsection; or
+(b) From additional revenue sources as permitted under ORS 383.205.
+(8) A holder of tollway  project revenue bonds issued under this section may not compel the
+payment of federal transportation funds to the department.
+(9) This section is supplemental and in  addition to any other authority in ORS chapters 286A,
+366 and 367 for the issuance of bonds by the State Treasurer at the request of the department.
+SECTION 10.
+ ORS 383.035 is amended to read:
+383.035. (1) A [ person] registered owner of a motor vehicle  shall pay a toll established  under
+ORS 383.004 in accordance with rules adopted by the Department of Transportation .
+(2) A  person who fails to pay a toll established under ORS 383.004  when due  shall pay to the
+Department of Transportation the amount of  the toll[ , a civil penalty ] and an administrative fee es-
+tablished by the tollway operator not to exceed the actual cost of collecting the unpaid toll.
+(3) The department may impose a civil penalty on a registered owner who fails  to pay any
+toll established under ORS 383.004 when due. The department  shall  adopt by rule the amount
+of civil penalty that may be imposed for [ each] violation of subsection (1) of this section.
+[(3)] (4) A civil penalty imposed  under this section may be remitted or reduced upon such terms
+and conditions as the department considers proper and consistent.
+(5) A toll, administrative fee or civil penalty imposed is a personal liability of the  regis-
+tered owner of the motor  vehicle at the time the toll is imposed. More than one registered
+Enrolled House Bill 2931 (HB 2931-A) Page 6
+owner of a motor vehicle may be held jointly and severally liable  for payment of the toll,
+administrative fee or civil penalty.
+[(4)] (6)  In addition to any other penalty, the department [ shall] may  refuse to  issue or  renew
+the motor vehicle registration for any person  who was or is the registered owner  of a motor
+vehicle when the registered owner of the motor vehicle has not paid [ the] a toll, [ the] a civil penalty
+[and] or  any administrative fee [ charged] imposed under this section.
+[(5)] (7) This section does not apply to:
+(a) A person who is a member of a category of  persons exempted by the Oregon Transportation
+Commission from paying a toll; or
+(b) A person  who is a member of a category of persons made eligible by the commission for
+paying a reduced toll, to the extent of the reduction.
+[(6)] (8) Civil penalties imposed under this section shall be imposed in the manner provided by
+ORS 183.745.
+[(7)] (9)  The department may enter  into an agreement with a commission or a commission’s
+designee under ORS 381.725 (3) to enforce the  payment of tolls and other charges for use of an
+interstate toll bridge.
+(10) To enforce the payment of tolls, the  department may enter into agreements with
+units of government, private entities or tribal governments.  An agreement may provide that:
+(a) The department and  a unit of government, private entity or tribal government may
+exchange information to  identify registered owners of vehicles who fail to pay a toll, admin-
+istrative fee or civil penalty related to the use of the tollway.
+(b) If the unit of government, private entity or tribal government gives notice to the
+department that the registered owner  has not paid a toll, administrative fee or civil penalty
+for use of  a tollway operated by the unit of government, private entity or tribal government,
+the department may  refuse to issue or renew the motor vehicle registration of a motor ve-
+hicle operated by the registered owner at the time of the violation.
+(c) The department may issue or renew a motor vehicle  registration for a registered
+owner upon receipt of a notice from the unit of government,  private entity or tribal gov-
+ernment indicating that all tolls, administrative fees or civil penalties and other  charges
+described in this section owed by the registered owner have been paid.
+SECTION 11.  ORS 383.075 is amended to read:
+383.075. (1) Except as provided in subsections (2) and (3) of this section,  records and information
+used to collect and enforce tolls are exempt from disclosure  under public records law and are to be
+used solely for toll collection.
+(2) Information collected or maintained by an electronic toll collection  system may not be dis-
+closed to anyone except:
+(a) The owner of an account that is charged for the use of a tollway;
+(b) A collection agency,  as defined in ORS 697.005, a payment processor as defined by the De-
+partment of Transportation by rule, an agency, as  defined in ORS 183.310, or a financial institution,
+as necessary to collect tolls , civil penalties and administrative fees  owed;
+(c) Employees of the department;
+(d) The tollway operator and authorized employees of the operator;
+(e) A law enforcement officer who is acting  in the officer’s official capacity in connection with
+toll enforcement;
+(f) An administrative law judge  or court in an action or proceeding in relation to unpaid tolls
+or administrative fees or civil penalties related to unpaid tolls; [ and]
+(g) As requested for use in any civil, criminal or other  legal proceeding or investigation that
+relates to the use of a tollway[ .]; and
+(h) A  unit of government responsible for the issuance of vehicle registration, under an
+agreement with the department, to impose a motor vehicle registration penalty related to
+unpaid tolls, civil penalties and administrative fees.
+Enrolled House Bill 2931 (HB 2931-A) Page 7
+(3) Information collected or  maintained by a photo enforcement system may not be disclosed to
+anyone except:
+(a) The registered owner of the vehicle;
+(b) Employees of the department;
+(c) The tollway operator and authorized employees of the operator;
+(d) A law enforcement officer who is acting  in the officer’s official capacity in connection with
+toll enforcement; and
+(e) An administrative  law judge or court in an action or proceeding in relation to unpaid tolls
+or administrative fees or civil penalties related to unpaid tolls.
+(4) The department may charge a reasonable fee under ORS 192.324 for providing information
+under this section.
+(5) The department may adopt rules specifying conditions that must be met by a person or  unit
+of government requesting information under this section. Conditions may include but are  not limited
+to:
+(a) Providing reasonable assurance of the identity of the requester;
+(b) Providing reasonable assurance of the uses to which the  information will be put, if applica-
+ble;
+(c) Showing that the person whose information is to  be disclosed has given permission for the
+disclosure, if permission is required; and
+(d) Submitting a written request for the information in a form prescribed by the department.
+SECTION 12.
+ ORS 291.055 is amended to read:
+291.055. (1) Notwithstanding any other law that grants to  a state agency the authority to es-
+tablish fees, all new state  agency fees or fee increases adopted during the period beginning on the
+date of adjournment sine die of a  regular session of the Legislative Assembly and ending on the date
+of adjournment sine die of the next regular session of the Legislative Assembly:
+(a) Are not effective  for agencies in the executive department of government unless approved
+in writing by the Director of the Oregon Department of Administrative Services;
+(b) Are not effective for agencies in the judicial department of  government unless approved in
+writing by the Chief Justice of the Supreme Court;
+(c) Are not effective for agencies in  the legislative department of government unless approved
+in writing by the President of the Senate and the Speaker of the House of Representatives;
+(d) Shall be reported by the state agency to the Oregon Department  of Administrative Services
+within 10 days of their adoption; and
+(e) Are rescinded on adjournment sine die of the next  regular session of the Legislative As-
+sembly as  described in this subsection, unless otherwise authorized by enabling legislation setting
+forth the approved fees.
+(2) This section does not apply to:
+(a) Any tuition or fees charged by a public university listed in ORS 352.002.
+(b) Taxes or other payments made or collected  from employers for unemployment insurance re-
+quired by ORS chapter 657 or premium assessments required by  ORS 656.612 and 656.614 or con-
+tributions and assessments calculated  by cents per hour for workers’ compensation coverage
+required by ORS 656.506.
+(c) Fees or payments required for:
+(A) Health care services provided by the Oregon Health and Science University,  by the Oregon
+Veterans’ Homes pursuant to ORS 408.362 and  408.365 to 408.385 and by other state agencies and
+institutions pursuant to ORS 179.610 to 179.770.
+(B) Copayments and premiums paid to the Oregon medical assistance program.
+(C) Assessments paid to the Department of Consumer and  Business Services under sections 3
+and 5, chapter 538, Oregon Laws 2017.
+(d) Fees created or authorized by statute that have no established rate or amount but are cal-
+culated for each separate instance for  each fee payer and are based on actual cost of services pro-
+vided.
+Enrolled House Bill 2931 (HB 2931-A) Page 8
+(e) State agency charges on employees for benefits and services.
+(f) Any intergovernmental charges.
+(g) Forest protection district assessment rates established by ORS 477.210 to 477.265 and the
+Oregon Forest Land Protection Fund fees established by ORS 477.760.
+(h) State Department of Energy assessments required by ORS 456.595 and 469.421 (8).
+(i) Assessments on premiums charged by the Director of the Department of  Consumer and
+Business Services pursuant to ORS 731.804 or fees charged by the director to  banks, trusts and
+credit unions pursuant to ORS 706.530 and 723.114.
+(j) Public Utility Commission operating assessments  required by ORS 756.310 or charges paid to
+the Residential Service Protection Fund required by chapter 290, Oregon Laws 1987.
+(k) Fees charged by the Housing  and Community Services Department for intellectual property
+pursuant to ORS 456.562.
+(L) New or increased fees that  are anticipated in the legislative budgeting process for an
+agency, revenues from  which are included, explicitly or implicitly, in the legislatively adopted
+budget or the legislatively approved budget for the agency.
+(m) Tolls approved by the Oregon Transportation Commission pursuant to  ORS 383.004  and
+administrative fees imposed for failure  to pay tolls when due as required under ORS
+383.035.
+(n) Portal provider fees as defined in ORS 276A.270 and established  by the State Chief Infor-
+mation Officer under ORS 276A.276 (3) and recommended by the  Electronic Government Portal Ad-
+visory  Board.
+(o) Fees set by the State  Parks and Recreation Director and approved by the State Parks and
+Recreation Commission under ORS 390.124 (2)(b).
+(3)(a) Fees temporarily decreased for competitive or promotional reasons or  because of unex-
+pected and temporary revenue surpluses  may be increased to not more than their prior level without
+compliance with subsection (1) of this section if, at the time the fee is  decreased, the state agency
+specifies the following:
+(A) The reason for the fee decrease; and
+(B) The conditions under which the fee will be increased to not more than its prior level.
+(b) Fees that are decreased for reasons other than those described in paragraph (a) of this  sub-
+section may not be subsequently increased except as allowed by ORS 291.050 to  291.060 and 294.160.
+SECTION 13.
+ ORS 381.312 is amended to read:
+381.312. (1) The Port  of Hood River, or any private entity or unit of government that the port
+designates to  operate a bridge in an agreement the port enters into under ORS 381.205 to 381.314,
+may establish, collect or alter a reasonable toll, administrative fee  or civil penalty in connection
+with the bridge.
+(2) The port or the private entity or unit of government that  the port designates shall deposit
+any proceeds from a toll, administrative fee or civil penalty into an account established  under an
+agreement described in ORS 381.310. The port or unit  of government shall deposit the share of
+proceeds that the port or unit of government  receives with a depository that meets the requirements
+set forth in ORS chapter 295. A private entity shall deposit the share of proceeds that the  private
+entity receives with an insured institution, as defined in ORS 706.008.
+(3)(a) The Department of Transportation, on behalf of the port, shall:
+(A) Assess  and collect the amount of a toll that a person fails to pay, plus a civil penalty and
+administrative fee; and
+(B) Refuse to renew the motor vehicle registration of the motor vehicle  of a person that failed
+to pay a toll, a civil penalty or an administrative fee assessed under this subsection.
+(b) For the purpose of  conducting the activities described in paragraph (a) of this subsection, the
+department shall:
+(A) Treat a toll established in connection with the bridge as a toll that was  established under
+ORS 383.004;
+(B) Apply the exemptions set forth in ORS 383.035 [ (5)] (7); and
+Enrolled House Bill 2931 (HB 2931-A) Page 9
+(C) Adopt rules to establish a process by means of which the port, a private entity or a unit of
+government may request action from the department under this subsection.
+REPEALS
+SECTION 14. Section 8, chapter 4, Oregon Laws 2013, is repealed.
+CAPTIONS
+SECTION 15. The unit and section captions used in this 2025 Act are provided only for
+the convenience of the reader and do not become part of the statutory law  of this state or
+express any legislative intent in the enactment of this 2025 Act.
+Passed by House May 7, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate May 22, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 2931 (HB 2931-A) Page 10
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 174.116, ORS 179.610, ORS 183.310, ORS 183.745, ORS 190.420, ORS 192.324, ORS 276A.270, ORS 276A.276, ORS 286A.001, ORS 291.050, ORS 291.055, ORS 295.001, ORS 352.002, ORS 367.605, ORS 367.615, ORS 367.620, ORS 381.205, ORS 381.310, ORS 381.312, ORS 381.705, ORS 381.725, ORS 382.305, ORS 382.310, ORS 383.001, ORS 383.003, ORS 383.004, ORS 383.005, ORS 383.009, ORS 383.015, ORS 383.035, ORS 383.075, ORS 383.150, ORS 383.200, ORS 383.205, ORS 383.225, ORS 383.235, ORS 390.124, ORS 408.362, ORS 408.365, ORS 456.562, ORS 456.595, ORS 469.421, ORS 477.210, ORS 477.760, ORS 656.506, ORS 656.612, ORS 656.614, ORS 697.005, ORS 706.008, ORS 706.530, ORS 723.114, ORS 731.804, ORS 756.310, ORS 801.305, ORS 810.010
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `1f96fbd70ed5d9e2def65f4ffe8b8017f1a4a81f3b4f02ba39400b7bb6e293d3` (snapshot `_meta/snapshots/measure-2025r1-hb2931-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2931/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `cf296173becb8d132bcfd0c516a4d99b044234fcc35c23430925257a42122df1` (snapshot `_meta/snapshots/measure-2025r1-hb2931-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2931/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2931> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

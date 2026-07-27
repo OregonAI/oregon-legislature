@@ -1,0 +1,581 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1538
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee  on Rules and Executive Appointments for Secretary of State LaVonne Griffin-
+Valade)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes many changes to election laws. (Flesch Readability Score: 71.8).
+Specifies the information to be included in county voters’ pamphlets.  Permits an agent of a
+candidate to file a translation  of a candidate statement with the Secretary of State. Permits candi-
+date statements,  certain arguments regarding measures and legislative arguments in support of
+statewide measures to be translated into  the most commonly spoken languages of each county in
+which the statements will appear in  a voters’ pamphlet. Removes the requirement for a repeat public
+certification test of  a vote tally system immediately before ballot scanning begins. Reduces the lim-
+itation on the number of voter registration cards that may be requested.  Establishes that the two-
+year term of certain members of the financial estimate committee begins  on July 1 of an
+even-numbered year. Permits the Secretary of State to issue  a certificate of ascertainment of presi-
+dential electors in accordance with the requirements of federal law.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to election law;  amending ORS 247.176, 250.125, 251.026, 251.170, 254.485 and 254.555; and
+prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 251.026 is amended to read:
+251.026. (1) The Secretary of State shall prepare and have printed in the voters’ pamphlet  for
+the state primary election, the general election and any special  election described in ORS 251.022
+a statement containing, if applicable:
+(a) Requirements for a citizen to qualify as an elector.
+(b) When an elector is required to register or update a registration.
+(c) In the voters’ pamphlet for the primary  election, a statement of the duties and responsibil-
+ities of a precinct committeeperson to be elected at the primary election.
+(d) Any other information the Secretary of State  considers relevant to the conduct of the
+election.
+(2) The Secretary of State, in cooperation with the county clerks, shall include:
+(a) A statement on the cover of  the voters’ pamphlet that the pamphlet may be used to assist
+electors in voting; and
+(b)(A) Statements in the information section of the voters’ pamphlet on the pages  immediately
+following the page containing the [ Secretary of State ] letter  of the county clerk, filing  office or
+other public official , to the extent reasonably practicable, that, for residents  of each county to
+which the voters’ pamphlet is distributed:
+(i) Are written in English and the five additional common languages for the county listed by  the
+Secretary of State under ORS 251.167;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 194
+SB 1538
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(ii) Explain that an electronic copy of portions of the  voters’ pamphlet is publicly available in
+that language; and
+(iii) Provide the website address to the translated voters’ pamphlet.
+(B) The statements required under subparagraph (A) of this paragraph must be written so  as to
+be clearly readable.
+(C) The Secretary of State may adopt rules necessary to implement this paragraph.
+(3) The Secretary of State may include in the voters’ pamphlet the following information:
+(a) Maps showing the boundaries of senatorial and representative districts.
+(b) Voter registration forms.
+(c) Elector instructions, including the right of an elector to request a second ballot if  the first
+ballot is spoiled and the right of an elector to seek assistance in marking the ballot.
+(4)(a) The name of the county clerk or other filing officer may not appear in the voters’ pamphlet
+in the county clerk’s or filing officer’s official capacity if the county clerk or filing officer  is a
+candidate in the election for which the voters’ pamphlet is printed.
+(b) As used in this subsection, “filing officer” has the meaning given that term in ORS 254.165.
+SECTION 2.
+ ORS 251.170 is amended to read:
+251.170. (1) The translation of a state  voters’ pamphlet or county voters’ pamphlet required un-
+der ORS 251.167 shall be made in the manner described in this section.
+(2) For each state voters’ pamphlet and county voters’ pamphlet mailed to residents of a county,
+the Secretary of State shall have the following  portions of the voters’ pamphlet professionally
+translated into each language for which a translation is required under ORS 251.167:
+(a) Any official statement or  communication made by the Secretary of State, county clerk, filing
+office or other public  elections official, including any information described in ORS 251.026 or
+251.315 (1)(a) to (d) and (g) and any other information regarding services offered by  elections offices,
+how to cast a ballot and key dates for the election;
+(b) The ballot title for each measure;
+(c) The explanatory statement for each measure;
+(d) The financial estimate for each measure and  any statement prepared for a measure under
+ORS 250.125;
+(e) Any racial and ethnic impact statement prepared for a measure under ORS 137.685;
+(f) Any statement submitted for a measure by a citizen panel under ORS 250.141; and
+(g) Except  an argument for a measure prepared by the Legislative Assembly under ORS 251.245,
+any other statement for a measure created by a public body as defined in ORS 174.109.
+(3) In addition to the materials that the Secretary of State  is required to have professionally
+translated under  subsection (2) of this section, the Secretary of State shall allow to be included in
+the translated version of each state voters’ pamphlet that is made  available on the website of the
+Secretary of State or of a county under ORS 251.167:
+(a) Translations of a candidate statement submitted under ORS 251.065, provided that:
+(A) The candidate is a candidate for federal or statewide office;
+(B) The translation is filed by a candidate or the [ principal campaign committee ] agent of a
+candidate described in subparagraph (A) of this paragraph;
+(C) Neither the translation nor the candidate statement submitted under  ORS 251.065 is rejected
+under ORS 251.055;
+(D) The candidate statement  meets the requirements of a candidate statement set forth in this
+chapter; and
+[2]
+SB 1538
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(E) Any translation  filed under this paragraph is in one of the [ five] most commonly spoken
+languages in this state  or of any county the  office represents , other than English, as listed by the
+Secretary of State under ORS 251.167.
+(b) Translations of an argument in support of  or in opposition to a state measure filed under
+ORS 251.255, provided that:
+(A) The  translation is filed by the person who filed the argument in support of or in opposition
+to a state measure under ORS 251.255;
+(B) Neither the translation  nor the argument in support of or in opposition to a state measure
+filed under ORS 251.255 is rejected under ORS 251.055;
+(C) The statement  in support of or in opposition to a state measure meets the requirements of
+a statement in support of or in opposition to a state measure set forth in this chapter; and
+(D) Any translation filed under  this paragraph is in one of the [ five] most commonly spoken
+languages in this state  or of any county in which the measure will be voted  on , other than
+English, as listed by the Secretary of State under ORS 251.167.
+(c) Translations of  any argument for a measure prepared by the Legislative Assembly under ORS
+251.245 submitted by the Legislative Assembly, provided that any translation filed under this para-
+graph is in one of the [ five] most commonly spoken languages in this state  or  of any county in
+which the measure will be  voted on , other than English, as listed by the Secretary of State under
+ORS 251.167.
+(4)(a) A translation that is permitted or required under this section is not required to be  iden-
+tical  in  words to the original version but must be consistent with the meaning of the original ver-
+sion.
+(b) A translation  is not subject to any limitations on the number of words allowed set forth in
+this chapter.
+(5) A county may  at its own expense make or accept for publication on the county’s website,
+as part of a translated  voters’ pamphlet required under ORS 251.167, any portion of a state or
+county voters’ pamphlet that is not described in this section.
+(6) The Secretary of State:
+(a) May adopt any rules necessary to implement this section; and
+(b) Except as  provided in subsection (5) of this section, is responsible for all costs necessary to
+comply with this section.
+(7) As used in this section, “statewide office”  means Governor, Secretary of State, State Treas-
+urer, Attorney General, Commissioner  of the Bureau of Labor and Industries, or judge on the
+Oregon Supreme Court, the Oregon Court of Appeals or the Oregon Tax Court.
+SECTION 3.
+ ORS 254.485 is amended to read:
+254.485. (1) Ballots may be tallied by a vote tally system or  by a counting board. A counting
+board may tally ballots at the  precinct or in the office of the county clerk. In any event, the ballots
+shall be tallied and returned by precinct.
+[(2) If a vote tally  system is used, the county clerk shall repeat the public certification test described
+under ORS  254.235 (1). The test shall be conducted immediately prior to scanning any ballots. The test
+may be observed by  persons described in ORS 254.235 (2). The county clerk shall certify the results
+of the test. ]
+[(3)] (2) If a counting board has been appointed, the tally of ballots may begin  on the date of the
+election.
+[(4)(a)] (3)(a) If ballots are tallied by a counting board, after the tally has begun it shall continue
+[3]
+SB 1538
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+until completed. Except as provided in paragraph (b) of this subsection, a  counting board shall tally
+without adjournment and in the presence of the clerks and persons authorized to attend.
+(b) A counting board may be relieved by  another board if the tally is not completed after 12
+hours.
+[(5)] (4) A counting board shall audibly announce the tally as it proceeds. The board shall use
+only pen and ink to tally.
+[(6)] (5) For ballots cast using a voting machine, the county clerk shall:
+(a) Enter the ballots cast using the machine into the vote tally system; and
+(b) In the event of a recount, provide the paper record copy recorded  by the machine to the
+counting board.
+[(7)] (6) A person other than the county clerk, a member of a  counting board or any other
+elections official designated by the county clerk may not tally ballots under this chapter.
+[(8)] (7) The Secretary of State shall by rule establish a procedure for announcing the status of
+the tally of the ballots received after the date of the election. Rules adopted  under this subsection
+must:
+(a) Consider the number of ballots being released in relation to the size of the district;
+(b) Prioritize voter anonymity; and
+(c) After prioritizing voter anonymity under paragraph (b) of this  subsection, prioritize the im-
+portance of timely reporting election results.
+SECTION 4.
+ ORS 254.485, as amended by section 11,  chapter 220, Oregon Laws 2023, is
+amended to read:
+254.485. (1) Ballots may be tallied by a vote tally system, by a counting  board or in the manner
+determined by the Secretary of State under ORS 246.200. A counting board may tally ballots at  the
+precinct or in the office of the county clerk. Except as otherwise determined by the secretary under
+ORS 246.200, the ballots shall be tallied and returned by precinct.
+[(2) If a vote tally  system is used, the county clerk shall repeat the public certification test described
+under ORS  254.235 (1). The test shall be conducted immediately prior to scanning any ballots. The test
+may be observed by  persons described in ORS 254.235 (2). The county clerk shall certify the results
+of the test. ]
+[(3)] (2) If a counting board has been appointed, the tally of ballots may begin  on the date of the
+election.
+[(4)(a)] (3)(a) If ballots are tallied by a counting board, after the tally has begun it shall continue
+until completed. Except as provided in paragraph (b) of this subsection, a  counting board shall tally
+without adjournment and in the presence of the clerks and persons authorized to attend.
+(b) A counting board may be relieved by  another board if the tally is not completed after 12
+hours.
+[(5)] (4) A counting board shall audibly announce the tally as it proceeds. The board shall use
+only pen and ink to tally.
+[(6)] (5) For ballots cast using a voting machine, the county clerk shall:
+(a) Enter the ballots cast using the machine into the vote tally system; and
+(b) In the event of a  recount, provide the paper record copy recorded by the machine to the
+counting board.
+[(7)] (6) A person other than the Secretary of State, county clerk, a member of a counting board
+or any other elections official designated by the secretary or  county clerk may not tally ballots
+under this chapter.
+[4]
+SB 1538
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(8)] (7) The Secretary of State shall by rule establish a procedure for announcing the status of
+the tally of the  ballots received after the date of the election. Rules adopted under this subsection
+must:
+(a) Consider the number of ballots being released in relation to the size of the district;
+(b) Prioritize voter anonymity; and
+(c) After prioritizing voter anonymity  under paragraph (b) of this subsection, prioritize the im-
+portance of timely reporting election results.
+SECTION 5.
+ ORS 247.176 is amended to read:
+247.176. (1) During  the period extending from the 250th day before the primary election to the
+date of the primary election and the period extending from the day after the primary election to the
+250th day before the next primary election:
+(a) Any person may request delivery from the Secretary of State  of not more than an aggregate
+total of [ 5,000] 500 registration cards prepared under ORS 247.171; and
+(b) Upon receiving a request under this  subsection, the Secretary of State shall deliver to the
+person the number of registration cards requested that does not exceed  an  aggregate total of
+[5,000] 500, along with a registration card in electronic form that may be used  by the person
+to print additional registration cards .
+(2) The Secretary of State shall  adopt rules describing when the Secretary of State will honor
+requests for delivery of more than [ 5,000] 500 registration cards prepared under ORS 247.171.
+SECTION 6.
+ ORS 250.125 is amended to read:
+250.125. (1) When a state measure  involves expenditure of public moneys by the state, reduction
+of expenditure of public moneys by the state, reduction of state revenues or raising of funds by the
+state by imposing any tax or incurring any indebtedness,  the financial estimate committee created
+under this section shall estimate:
+(a) The amount of direct expenditure, direct reduction of expenditure, direct  reduction in state
+revenues, direct tax revenue or indebtedness and  interest that will be required to meet the pro-
+visions of the measure if it is enacted; and
+(b) The aggregate amount  of direct expenditure, direct reduction of expenditure, direct reduction
+in revenues, direct  tax revenue or indebtedness and interest that will be required by any city,
+county or district to meet the provisions of the measure if it is enacted.
+(2) For a state measure for which  an estimate is required to be prepared under subsection (1)
+of this section, the financial estimate  committee may estimate the aggregate amount of direct ex-
+penditure, direct reduction of expenditure, direct reduction in revenues, direct tax revenue or
+indebtedness and interest that will be required  by any federally recognized Native American or
+American Indian tribal government to meet the provisions of the measure if it is enacted.
+(3) If the Legislative Assembly has enacted a law that will apply only if the  measure for which
+an estimate is required to be prepared under subsection (1) of this section  is not enacted, the fi-
+nancial estimate committee may also estimate the amount of direct expenditure, direct reduction  of
+expenditure, direct reduction in revenues, direct  tax revenue or indebtedness and interest that will
+result for the state, any city, county or  district or any federally recognized Native American or
+American Indian tribal government if the measure is not enacted.
+(4) For a state measure for which an estimate is required  to be prepared under subsection (1)
+of this section, the financial  estimate committee shall consult with the Legislative Revenue Officer
+to determine if the measure has potentially significant indirect economic or fiscal effects. If the
+committee determines that the indirect economic or  fiscal effects of the measure are significant and
+[5]
+SB 1538
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+can be estimated, the Legislative Revenue Officer shall prepare  on behalf of the committee an im-
+partial estimate of the  indirect economic or fiscal effects of the measure. The Legislative Revenue
+Officer shall use the best available economic models and data to produce the  estimate. The financial
+estimate committee shall incorporate relevant parts of the estimate prepared by the Legislative Re-
+venue Officer into the estimate prepared by the committee under subsection (1) of this section.
+(5) Except as provided  in subsection (6) of this section, the estimates described in subsections
+(1) to (3) of this section shall be printed in the voters’ pamphlet and on the ballot. The estimates
+shall be impartial, simple and understandable and shall include the following information:
+(a) A statement of the amount of financial  effect on state, local or tribal government expen-
+ditures, revenues or indebtedness, expressed as a specific amount or as a range of amounts;
+(b) A statement of any recurring annual amount of financial effect on state, local or tribal  gov-
+ernment expenditures, revenues or indebtedness;
+(c) A description of the most likely financial effect  or effects of the adoption of the measure; and
+(d) If an estimate is  made under subsection (3) of this section, a description of the most likely
+financial effect or effects if the measure is not enacted.
+(6) If the financial estimate committee  determines that the measure will have no financial effect
+on state, local or tribal government expenditures,  revenues or indebtedness or that the financial
+effect on state, local  or tribal government expenditures, revenues or indebtedness will not exceed
+$100,000, the committee shall prepare and file with the Secretary  of State a statement declaring that
+the measure will have no financial effect or that the financial effect will not  exceed $100,000. The
+statement shall be printed in the voters’ pamphlet and on the ballot.
+(7) If the financial estimate committee determines that the measure  will have a financial effect
+on state, local or tribal  government expenditures in excess of $100,000 and that the measure does
+not include  a dedicated funding source to pay for the new expenditures required, the committee shall
+prepare and file with the Secretary of State the statement  “MEASURE SPENDS MONEY WITH-
+OUT IDENTIFYING A FUNDING SOURCE.” A statement prepared under this subsection shall be
+printed in bold in the voters’ pamphlet immediately following the printing of the estimates  described
+in subsections (1) to (3) of this section.
+(8) In addition to the estimates  described in subsections (1) to (3) of this section, if the financial
+estimate committee considers it necessary, the committee  may prepare and file with the Secretary
+of State  an impartial, simple and understandable statement explaining the financial effects of the
+measure. The statement may not exceed 500 words. The statement  shall be printed in the voters’
+pamphlet with the measure to which it relates.
+(9) The Legislative Policy and Research  Committee shall provide any administrative staff as-
+sistance required by the financial estimate committee to facilitate the work of  the financial estimate
+committee under this section or ORS 250.127.
+(10) The financial estimate committee  is created, consisting of the Secretary of State, the State
+Treasurer, the Director of the Oregon Department of Administrative Services, the Director of the
+Department of Revenue and a representative of  a city, county or district with expertise in local
+government finance. The representative of a city,  county or district shall be selected by the four
+other members of the financial  estimate committee and shall serve for a term of two years that be-
+gins on [ March 1 ] July 1 of the [ odd-numbered] even-numbered year.
+SECTION 7.
+ ORS 254.555 is amended to read:
+254.555. (1)  Except as provided in ORS 254.548  or as necessary to comply with federal law
+concerning the issuance of a certificate of ascertainment of presidential electors , not later
+[6]
+SB 1538
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+than the 37th day after any election, the Secretary of State, regarding offices for which  the secre-
+tary receives filings for nomination, shall:
+(a) Canvass the votes for the offices, except the office of Governor after the general election.
+(b) Enter in a register of nominations after the primary election the name and, if  applicable,
+major political party of each candidate nominated, the office for which the candidate is  nominated
+and the date of entry.
+(c) Prepare and deliver a certificate  of nomination or election to each candidate having the most
+votes for nomination for or election to the office.  The Secretary of State shall sign the certificate
+under the seal of the state.
+(d) Issue a proclamation declaring the election of candidates to the offices.
+(2) Not later than the 30th day after the election:
+(a) The Secretary of State, regarding measures for which the secretary is the filing officer, shall
+canvass the votes for each measure.
+(b) The Governor  shall issue a proclamation giving the number of votes cast for or against each
+such measure, and declaring the approved measures as the law on the effective date of the measure.
+If two or more approved measures contain conflicting provisions, the Governor shall  proclaim which
+is paramount.
+SECTION 8.
+This 2024 Act takes effect on the 91st day after the date on  which the 2024
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[7]

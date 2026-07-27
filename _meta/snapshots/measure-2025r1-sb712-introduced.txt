@@ -1,0 +1,1055 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 712
+Sponsored by Senator GORSEK (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would increase the maximum value of property for each tax year by  three per-
+cent. (Flesch Readability Score: 68.9).
+Provides for an annual increase of three percent in the maximum assessed value of property.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to maximum assessed value;  creating new provisions; amending ORS 307.032, 308.146,
+308.707, 308A.107, 308A.256, 308A.315, 321.354, 321.722, 321.833 and  358.505 and section 4, chap-
+ter 96, Oregon Laws 2016, and section 1, chapter 94,  Oregon Laws 2024; and prescribing an ef-
+fective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 308.146 is amended to read:
+308.146. (1) The  maximum assessed value of property equals 103 percent of the property’s as-
+sessed value from the prior year or [ 100] 103 percent  of the property’s maximum assessed value from
+the prior year, whichever is greater.
+(2) Except as provided in subsections (3) and (4) of this section, the assessed  value of property
+to which this section applies equals the lesser of:
+(a) The property’s maximum assessed value; or
+(b) The property’s real market value.
+(3) Notwithstanding subsections (1) and (2) of this section, the  maximum assessed value and as-
+sessed value of property must be determined as provided in ORS 308.149 to 308.166 if:
+(a) The property is new property or new improvements to property;
+(b) The property is partitioned or subdivided;
+(c) The property is rezoned and used consistently with the rezoning;
+(d) The property is first taken into account as omitted property;
+(e) The property becomes disqualified from exemption, partial exemption or  special assessment;
+or
+(f) A lot line adjustment is made  with respect to the property, except that the total assessed
+value of all property affected by a lot line adjustment may not exceed  the total maximum assessed
+value of the affected property under subsection (1) of this section.
+(4) Notwithstanding subsections  (1) and (2) of this section, if property is subject to partial ex-
+emption or  special assessment, the property’s maximum assessed value and assessed value must be
+determined as provided under the provisions of law  governing the partial exemption or special as-
+sessment.
+(5)(a) Notwithstanding subsection (1) of this section, when a portion of property is destroyed or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 559
+SB 712
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+damaged due to fire or act of God, for  the year in which the destruction or damage is reflected by
+a reduction in real market value, the maximum assessed value of the property must  be reduced to
+reflect the loss from fire or act of God.
+(b) This subsection does not apply:
+(A) To any property that is assessed under ORS 308.505 to 308.674.
+(B) If the  damaged or destroyed property is property that, when added to the assessment and
+tax roll, constituted minor  construction for which no adjustment to maximum assessed value was
+made.
+(c) As used in this  subsection, “minor construction” has the meaning given that term in ORS
+308.149.
+(6)(a) If, during the period beginning on January 1 and ending on July 1 of an assessment year,
+any real or personal property is destroyed or damaged, the owner or purchaser under  a recorded
+instrument of  sale in the case of real property, or the person assessed, person in possession or owner
+in the case of personal property, may apply to the county assessor to have  the real market value
+and assessed value of the property determined as of July 1 of the current assessment year.
+(b) The person described in paragraph (a) of  this subsection must file the application for as-
+sessment under this section with the county assessor on or before the later of:
+(A) August 1 of the current year; or
+(B) The 60th day following the date on which the property was damaged or destroyed.
+(c) Notwithstanding paragraph (b) of this  subsection, an application may be filed under this
+subsection on or before December  31 of the current assessment year, if the application is accompa-
+nied by a late filing fee of the greater of $200 or one-tenth of one percent of the  real market value
+as of the most recent assessment date of  the property to which the application relates. The county
+assessor shall deposit a late filing fee collected under this paragraph in the county general fund.
+(d) If the conditions described in this subsection are  applicable to the property, then
+notwithstanding ORS 308.210, the property must  be assessed as of July 1, at 1:00 a.m. of the as-
+sessment year, in the manner otherwise provided by law.
+(7)(a) Paragraph (b) of this subsection applies if:
+(A) A conservation  easement or highway scenic preservation easement is in effect on the as-
+sessment date;
+(B) The tax year is the first tax year in which the  conservation easement or highway scenic
+preservation easement is taken into account in determining the property’s assessed value; and
+(C) A report has been issued by the county assessor under ORS 271.729 within  12 months pre-
+ceding or following the date the easement was recorded.
+(b) The assessed value of the property must be as determined in the report  issued under ORS
+271.729, but may be further adjusted by changes in value as a result of  any of the factors described
+in ORS 309.115 (2), to the  extent adjustments do not cause the assessed value of the property to
+exceed the property’s maximum assessed value.
+(8)(a) Notwithstanding subsection (1) of this section, when a building is  demolished or removed
+from property, for the year in which the demolition or removal  of the building is reflected by a re-
+duction in real market value, the maximum assessed value of the property may be reduced  to reflect
+the demolition or removal of the building.
+(b) This subsection does not apply:
+(A) To any property that is assessed under ORS 308.505 to 308.674.
+(B) If  the demolished or removed property is property that, when added to the assessment and
+[2]
+SB 712
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tax roll, constituted minor  construction for which no adjustment to maximum assessed value was
+made.
+(c) To receive  the reduction in maximum assessed value of the property under this subsection,
+the property owner must  file an application with the county assessor after the demolition or removal
+and on or before December 31 following the assessment date if the demolition or removal  occurred:
+(A) Before the January 1 assessment date; or
+(B) During the period beginning January 1 and ending on the July 1 assessment date  if the
+property owner has applied to have the real market value and assessed value  of the property de-
+termined under subsection (6) of this section.
+(d) As used in this subsection:
+(A) “Minor construction” has the meaning given that term in ORS 308.149.
+(B) “Property owner” means an  owner or purchaser under a recorded instrument of sale in the
+case of real property, or the person assessed, person in possession or owner  in the case of personal
+property.
+SECTION 2.
+ ORS 307.032 is amended to read:
+307.032. (1) Unless determined under a provision of law governing the partial exemption that
+applies to the property, the maximum  assessed value and assessed value of partially exempt property
+shall be determined as follows:
+(a) The maximum assessed value:
+(A) For the first tax year in which the property is  partially exempt, shall equal the real market
+value of the property, reduced by the value of the  partial exemption, multiplied by the ratio, not
+greater than 1.00, of the average maximum  assessed value over the average real market value for
+the tax year of property in the same area and property class.
+(B) For  each tax year after the first tax year in which the property is subject to the same partial
+exemption, shall equal 103 percent of the property’s  assessed value for the prior year or [ 100] 103
+percent of the property’s maximum assessed value under this paragraph from the prior  year,
+whichever is greater.
+(b) The assessed value of the property shall equal the lesser of:
+(A) The real market value of the property reduced by the partial exemption; or
+(B) The maximum assessed value of the property under paragraph (a) of this subsection.
+(2) Unless determined under a  provision of law governing the special assessment, the maximum
+assessed value subject to  special assessment and the assessed value of property subject to special
+assessment shall be determined as follows:
+(a) The maximum assessed value:
+(A) For the first tax year in which the property is specially assessed, shall equal the specially
+assessed value of the property multiplied by  the ratio, not greater than 1.00, of the average maxi-
+mum assessed value  over the average real market value for the tax year of property in the same
+area and property class.
+(B) For each tax year after the first tax year in which property is subject to the same  special
+assessment, shall equal 103 percent of the property’s assessed value for the  prior year or [ 100] 103
+percent of the property’s maximum assessed value subject to special assessment from the prior  year,
+whichever is greater.
+(b) The assessed value of the property shall equal the lesser of:
+(A) The specially assessed value  of the property as determined under the law establishing the
+special assessment; or
+[3]
+SB 712
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) The property’s maximum assessed value  subject to special assessment as determined under
+paragraph (a) of this subsection.
+(3) As used in this section, “area” and “property  class” have the meanings given those terms in
+ORS 308.149.
+SECTION 3.
+ ORS 308.707 is amended to read:
+308.707. (1)  The specially assessed value, maximum assessed value and assessed value of multi-
+unit rental housing shall be determined under this section if:
+(a) The property is subject to a government restriction on use; and
+(b) The owner  of the property has filed an application for special assessment under ORS 308.709
+and that application has been approved.
+(2) The specially assessed value of property assessed under this section shall be  determined in
+the manner elected by the property owner under ORS 308.712.
+(3)(a) For the first tax year  for which property is assessed under this section, the maximum as-
+sessed value of property subject to special assessment under this section shall equal the  product of
+the specially assessed value of the  property under subsection (2) of this section multiplied by the
+ratio, not greater than 1.00, of the average  maximum assessed value to the average real market
+value of property in the same area and property class as the specially assessed property.
+(b) For each  tax year after the first tax year in which the property is assessed under this section
+and prior to  any disqualification from special assessment, the maximum assessed value of property
+assessed under this section shall equal 103 percent of the property’s assessed value from the  prior
+year or [ 100] 103 percent  of the property’s maximum assessed value from the prior year, whichever
+is greater.
+(c) If omitted property is added to the property assessed under this section or a lot  line adjust-
+ment is  made to property assessed under this section, the maximum assessed value of property sub-
+ject to special assessment under this section shall be determined as prescribed in ORS  308.149 to
+308.166, substituting the specially assessed value under subsection (2) of this section for real market
+value.
+(4) The assessed value  of property subject to special assessment under this section shall equal
+the lowest of:
+(a) The specially assessed value of the property determined under subsection (2) of  this section;
+(b) The maximum  assessed value of the property determined under subsection (3) of this section;
+or
+(c) The real market value of the property.
+(5) For each tax year following the first tax year in which property is subject to  special as-
+sessment under this section, the owner of the multiunit rental housing must comply with  any re-
+quirements prescribed by the Department of Revenue by rule  for the continued special assessment
+of the property under this section.
+(6) The definitions in ORS 308.149 apply to this section.
+SECTION 4.
+ ORS 308A.107 is amended to read:
+308A.107. (1) The value for farm use, maximum assessed value and  assessed value shall be de-
+termined under this section for both:
+(a) Exclusive farm use zone farmland that qualifies for special assessment under  ORS 308A.062;
+and
+(b) Nonexclusive  farm use zone farmland that qualifies for special assessment under ORS
+308A.068.
+[4]
+SB 712
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) The value for farm use for each property  subject to special assessment under this section
+shall equal the applicable  value derived from the tables created pursuant to ORS 308A.092 for the
+tax year multiplied by the acreage of the property within the applicable class and area.
+(3)(a) The maximum  assessed value for property subject to special assessment under this section
+shall be determined as provided in this subsection.
+(b) The county assessor  shall develop tables for each tax year that provide, for each class and
+area, a maximum assessed value per acre that is equal to 103 percent of the assessed value  per acre
+for the preceding tax year or [ 100] 103 percent of the maximum assessed value per acre for the
+preceding tax year, whichever is greater.
+(4) Property subject to special assessment under this section shall have an assessed  value for
+the tax year  equal to the acreage of the property that is within the same class and area multiplied
+by the  lesser of the value per acre applicable to the property under subsection (2) of this section
+or under subsection (3) of this section.
+(5) If property subject to  special assessment under this section consists of different classes, the
+assessed value of the property shall be  the sum of the assessed values computed for each applicable
+class under subsection (4) of this section.
+(6) Property that newly qualifies for farm use special assessment  shall, for the first tax year for
+which the special assessment applies, have:
+(a) A value for farm use as determined under subsection (2) of this section;
+(b) A maximum assessed value as determined under  the tables developed under subsection (3)
+of this section; and
+(c) An assessed value as determined under subsections (4) and (5) of this section.
+SECTION 5.
+ ORS 308A.256 is amended to read:
+308A.256. (1) The maximum assessed value and assessed value of a homesite shall be determined
+as provided in this section.
+(2) A homesite shall have an assessed value for ad valorem property tax purposes for the  tax
+year equal to the lesser of the homesite’s maximum assessed value or homesite value.
+(3) The homesite value for purposes of ORS 308A.250 to 308A.259 shall equal the  real market
+value of the bare land of the total  parcel and contiguous acres under same ownership, as determined
+under ORS 308.205, divided by the number of acres in the total parcel and contiguous acres under
+the same ownership, plus the lesser of:
+(a) $4,000; or
+(b) The depreciated replacement cost of land improvements necessary to  establish the homesite.
+(4) For the purposes of establishing  a homesite value, the value of one acre of land for each
+homesite, as determined in subsection (3) of this section shall be used.
+(5) The homesite’s maximum assessed value shall equal 103 percent of the  homesite’s assessed
+value for the previous tax year or [ 100] 103 percent of the homesite’s maximum assessed value  for
+the previous tax year, whichever is greater.
+(6) For the first tax year for which property constitutes a homesite under this  section, the
+homesite’s maximum assessed value shall equal the homesite’s value as determined under subsection
+(3) of this section  multiplied by the ratio of average maximum assessed value to real market value
+of the residential property class in the county.
+SECTION 6.
+ ORS 308A.315 is amended to read:
+308A.315. (1) The maximum assessed value and  assessed value of land classified as open space
+land under ORS 308A.300 to 308A.330 shall be determined as provided in this section.
+[5]
+SB 712
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) Land classified as open space land shall have an assessed value for the tax year equal  to the
+lesser of the land’s maximum assessed value or the land’s open space  value determined under sub-
+section (5) of this section.
+(3) The land’s maximum assessed value shall equal 103 percent of the  land’s assessed value for
+the previous tax year or [ 100] 103 percent of  the land’s maximum assessed value for the previous tax
+year, whichever is greater.
+(4)(a) For the first tax year for which the land  is classified as open space land, the land shall
+have a maximum assessed  value equal to the land’s open space value determined under subsection
+(5) of this section multiplied by the ratio of the total maximum assessed value of all  open space land
+within the county over the total open space value of all open space land in the county.
+(b) If there is an insufficient amount of land classified as open  space land in a county to permit
+a statistically reliable ratio to be determined under paragraph (a) of this subsection, the statewide
+totals of maximum assessed  value of open space land and open space value shall be used in deter-
+mining the ratio.
+(c) The Department  of Revenue shall prescribe rules setting forth the minimum amount of open
+space land in a county needed to establish a statistically reliable ratio.
+(5) The open space value of land classified as such under ORS 308A.300 to 308A.330 shall be  the
+land’s real market value under ORS 308.205:
+(a) Assuming the highest and best use of  the land to be the current open space use, such as
+park, sanctuary or golf course. The assessor shall not consider  alternative uses to which the land
+might be put.
+(b) Valuing the improvements on the land, if any, as required by ORS 308.205.
+SECTION 7.
+ ORS 321.354 is amended to read:
+321.354. (1)(a) The Department of Revenue shall identify the forestland that is  held in common
+ownership of 5,000 acres or more as of the assessment date for each tax year.
+(b) Forestland that the department has identified under paragraph (a) of this  subsection that, for
+the previous tax year, was subject to small tract forestland assessment  shall be disqualified from
+small tract forestland assessment and shall be subject to  special assessment as provided in this
+section as of the first tax year the forestland is held in common ownership of 5,000 acres or more.
+(c) For purposes of this subsection, “forestland” includes  land that meets the definition of
+forestland under ORS 321.805.
+(2) Forestland assessed under this section shall have a specially assessed value per  acre equal
+to the value certified to the county assessor for the tax  year under ORS 321.216 for the applicable
+land class of the forestland.
+(3) For each land class described in ORS  321.210, the forestland maximum assessed value per
+acre shall equal 103 percent of the forestland assessed value per acre for  the preceding tax year or
+[100] 103 percent of the  forestland maximum assessed value per acre for the preceding tax year,
+whichever is greater.
+(4)(a) The assessor shall compute the assessed value of forestland by multiplying the  acreage of
+the forestland in each land class by the lesser of:
+(A) The specially assessed value per acre; or
+(B) The maximum assessed value per acre.
+(b) If the forestland being assessed consists of different land classes,  the assessed value of the
+forestland shall be the sum  of the assessed values computed for each land class under paragraph (a)
+of this subsection.
+[6]
+SB 712
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) Notwithstanding subsection (4) of this section, the forestland shall be  assessed as provided
+in ORS 308.232 if  the real market value of the forestland is less than the value established under
+subsection (4) of this section.
+(6) For purposes of this section:
+(a) The department shall certify to  the county assessor of a county in which forestland identified
+in subsection (1) of this section is located a list of the  property tax accounts containing forestland
+so identified.
+(b) Forestland shall be considered to be in common ownership if the forestland is owned by the
+person directly or is  owned by a corporation, partnership, association or other entity in which the
+person owns a majority interest.
+(c) Additional taxes may not be imposed  as a result of a disqualification under subsection (1)
+of this section.
+(d) The notification requirements and other procedures that  the county assessor must follow in
+disqualifying forestland do not apply to a disqualification occurring under  subsection (1) of this
+section.
+(e) The  department shall notify the county assessor of forestland identified under subsection
+(1)(a) of this section that is located in that county.
+SECTION 8.
+ ORS 321.722 is amended to read:
+321.722. (1) Small tract forestland shall have a specially assessed value per acre:
+(a) Equal to 20 percent of the specially assessed value per acre  determined under ORS 321.354,
+if located in western Oregon; or
+(b) Equal to 20 percent  of the specially assessed value per acre determined under ORS 321.833,
+if located in eastern Oregon.
+(2) For each land class, the maximum assessed value per acre of  small tract forestland shall
+equal 103 percent of the small tract forestland assessed  value per acre for the preceding tax year
+or [ 100] 103 percent of the small tract forestland  maximum assessed value per acre for the preceding
+tax year, whichever is greater.
+(3) The county assessor shall  compute the assessed value of small tract forestland by multiplying
+the acreage of the small tract forestland in each land class by the lesser of:
+(a) The specially assessed value per acre; or
+(b) The maximum assessed value per acre.
+(4) If the small tract  forestland being assessed consists of different land classes, the assessed
+value of the small tract forestland shall be the sum of the assessed values computed for each  land
+class under subsection (3) of this section.
+SECTION 9.
+ ORS 321.833 is amended to read:
+321.833. (1)(a) The Department of Revenue shall identify the forestland that is  held in common
+ownership of 5,000 acres or more as of the assessment date for each tax year.
+(b) Forestland that the department has identified under paragraph (a) of this  subsection that, for
+the previous tax year,  was subject to small tract forestland assessment shall be disqualified from any
+small tract forestland assessment and shall be  subject to special assessment as provided in this
+section as of the first tax year the forestland is held in common ownership of 5,000 acres or more.
+(c) For purposes of this subsection, “forestland”  includes land that meets the definition of
+forestland under ORS 321.257.
+(2) Forestland assessed  under this section shall have a specially assessed value per acre equal
+to the value certified to the county assessor for the tax year under ORS 321.216.
+[7]
+SB 712
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) Forestland assessed under this section shall have a  maximum assessed value per acre equal
+to 103 percent of the forestland assessed value per acre  for the preceding tax year or [ 100] 103
+percent of the forestland maximum assessed value per acre for the preceding tax year,  whichever
+is greater.
+(4)(a) The assessor shall compute the assessed value of forestland by multiplying the  acreage of
+the forestland by the lesser of:
+(A) The specially assessed value per acre; or
+(B) The maximum assessed value per acre.
+(b) Notwithstanding paragraph  (a) of this subsection, the forestland shall be assessed as provided
+in ORS 308.232 if the real market value of the forestland is less than the  value established under
+paragraph (a) of this subsection.
+(5) For purposes of this section:
+(a) The department shall certify to  the county assessor of a county in which forestland identified
+in subsection (1) of this section  is located a list of the property tax accounts containing forestland
+so identified.
+(b) Forestland shall be considered to be in common ownership if the forestland is owned by the
+person directly or is owned by a corporation, partnership, association or other entity  in which the
+person owns a majority interest.
+(c) Additional taxes may not be imposed as a result  of a disqualification under subsection (1)
+of this section.
+(d) The notification requirements and other procedures  that the county assessor must follow in
+disqualifying forestland do not apply  to a disqualification occurring under subsection (1) of this
+section.
+(e) The  department shall notify the county assessor of forestland identified under subsection
+(1)(a) of this section that is located in that county.
+SECTION 10.
+ ORS 358.505 is amended to read:
+358.505. (1)(a) Except as provided in paragraphs  (b) and (c) of this subsection, for property cer-
+tified for special assessment as historic property under ORS 358.490,  the county assessor shall for
+10 consecutive  tax years list on the assessment and tax roll a specially assessed value that equals
+the real market value of the property at the time application was made under ORS 358.487.
+(b) If the property  certified for special assessment as historic property is a condominium unit
+being assessed upon initial sale by the developer, the county assessor shall for the tax years of the
+remaining term of historic property special assessment list on the assessment and tax roll a specially
+assessed value that equals the real market value  of the property for the tax year in which the initial
+sale took place.
+(c) For property certified under ORS  358.490 for a second term of special assessment as historic
+property under ORS 358.540, the county assessor shall, for 10 consecutive tax years after  the date
+of the filing of the application under ORS 358.487 for the  second term, list on the assessment and
+tax roll a specially assessed value that equals the real market value of the property  for the assess-
+ment year in which the application is made.
+(2)(a)(A) Notwithstanding ORS 308.149 (2), and  except as provided in subparagraph (B) of this
+paragraph, for the first tax year of an initial  or second 10-year period of historic property special
+assessment, the maximum assessed value of property subject  to historic property special assessment
+shall equal the specially assessed value of the property as  determined under subsection (1) of this
+section multiplied by the ratio, not greater than 1.00, of the maximum assessed value  the property
+[8]
+SB 712
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+would have had from the prior year if the property were not specially assessed over  the real market
+value of the property from the prior year.
+(B) If the property was specially assessed or exempt in the prior year,  for the first tax year of
+an initial or second 10-year period of historic property special  assessment, the maximum assessed
+value of the property subject to historic property special assessment  shall equal the specially as-
+sessed value  of the property multiplied by the ratio of the maximum assessed value the property
+would have had if disqualified from the special assessment or  exemption in the prior year over the
+real market value of the property from the prior year.
+(b) For each tax year after the first tax  year during which the property is subject to special
+assessment as historic property, the property’s maximum assessed value equals 103 percent of the
+property’s assessed value from the prior  year or [ 100] 103 percent of the property’s maximum as-
+sessed value from the prior year, whichever is greater.
+(3) The assessed value of property  that is classified as historic property for the tax year shall
+equal the least of:
+(a) The property’s specially assessed value as determined under subsection (1) of this section;
+(b) The property’s maximum assessed value  as determined under subsection (2) of this section;
+or
+(c) The property’s real market value as of the assessment date for the tax year.
+(4) The entitlement of property to the special assessment  provisions of this section shall be de-
+termined as of July 1. If the property becomes disqualified on or after July 1,  its assessment for that
+year shall continue as provided in this section.
+(5) Assessed value, as  defined and determined under ORS 308.146, shall be determined for prop-
+erty classified as historic property by the county assessor each year.  The assessed value so deter-
+mined for any  year shall be subject to appeal to the county property value appeals board within the
+time and in the manner provided in ORS chapter 309 and  shall be subject to appeal thereafter to the
+Oregon Tax Court and to the Oregon Supreme Court within the time and  in the manner provided
+for appeals of value determination for purposes of ad valorem property taxation.
+SECTION 11.
+ Section 4, chapter 96, Oregon Laws 2016, is amended to read:
+Sec. 4.  (1)(a) For the first property tax year of the period for which special assessment is cer-
+tified under  section 2 [ of this 2016 Act ], chapter 96, Oregon Laws 2016,  for land constituting a
+brownfield, the county assessor shall  list on the assessment and tax roll a specially assessed value
+for the land that equals the  real market value the land would have if it were not a brownfield less
+the eligible costs determined under section 3 [ of this 2016 Act ], chapter 96,  Oregon Laws 2016, and
+apportioned to each tax account included  in the application. The specially assessed value of the land
+determined under  this subsection shall be listed on the assessment and tax rolls for the number of
+years certified for the land under section 2 [ of this 2016 Act ], chapter 96, Oregon Laws 2016 .
+(b) Notwithstanding paragraph (a) of this subsection, the specially assessed value of the land
+may not be less than $100 for any property tax year.
+(2)(a) For the first property tax year  for which the land is specially assessed, the maximum as-
+sessed value of the land shall equal the specially assessed value of the  land determined under sub-
+section (1) of this section multiplied by the ratio,  not greater than 1.00, of the average maximum
+assessed value  divided by the average real market value, as those terms are defined in ORS 308.149.
+(b) For each property tax year after the first property tax year for which the land  is specially
+assessed, the  maximum assessed value of the land shall equal the greater of 103 percent of the as-
+sessed value  of the land from the prior year or [ 100] 103 percent of the maximum assessed value of
+[9]
+SB 712
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the land from the prior year.
+(3) For each property tax year for which the land is  specially assessed, the assessed value of the
+land shall equal the least of:
+(a) The specially assessed value of the land as determined under subsection (1) of this section;
+(b) The maximum assessed value of the land as determined  under subsection (2) of this section;
+or
+(c) The real market value of the land as of the assessment date for the tax year.
+(4) The entitlement of land to the special assessment provisions of this section shall  be deter-
+mined as of July 1. If the land becomes disqualified on  or after July 1, the land shall be specially
+assessed for the property tax year as provided in this section.
+(5) Each  year the county assessor shall add to the assessment and tax rolls of the county, with
+respect to land specially assessed under this section, the notation “potential additional tax.”
+SECTION 12.
+ Section 1, chapter 94, Oregon Laws 2024, is amended to read:
+Sec. 1. (1) As used in this section:
+(a) “Destroyed homestead” means a homestead that was  destroyed by wildfire between Septem-
+ber 1, 2020, and September 30, 2020, in a county included in the geographical area covered by a state
+of emergency declared in response to the wildfire.
+(b) “Eligible property” means a rebuilt homestead  to the extent that the total square footage
+of the rebuilt homestead does not exceed the total square footage of the destroyed homestead  that
+the rebuilt homestead replaces.
+(c) “Homestead” has the meaning given that term in ORS 311.666.
+(d) “Rebuilt homestead”  means a homestead that is constructed to replace a destroyed home-
+stead by the same owner on the same lot.
+(2)(a) The governing  body of a county may elect by ordinance or resolution to allow eligible
+property to be assessed and taxed in accordance with this section.
+(b) The ordinance or resolution may:
+(A) Prescribe  the methods by which the assessor administers this section, including, but not
+limited to, how claims are made; and
+(B) Impose a fee on the  owner of the rebuilt homestead for the actual cost to the county of re-
+cording the notice under subsection (8)(b) of this section.
+(3)(a) Eligible property  may be granted a specially assessed value that equals the real market
+value of the destroyed homestead as shown on the  tax statement delivered pursuant to ORS 311.250
+for the property tax year that began on July 1, 2020.
+(b) For the first  property tax year for which eligible property is assessed under this section, the
+eligible property’s maximum specially assessed value shall equal the product of the specially as-
+sessed value multiplied by the ratio, not greater than 1.00, of the maximum assessed value  the eli-
+gible property would have had for the applicable property tax year if it  were not specially assessed
+to the real market value of the eligible property for the applicable property tax year.
+(c) For each year after the first property tax year for which the eligible property is  specially
+assessed under this section and before disqualification from the specially assessed value, the  maxi-
+mum specially assessed value shall equal the greater of 103 percent of the eligible  property’s as-
+sessed value from the  prior property tax year or [ 100] 103 percent of the eligible property’s
+maximum specially assessed value from the prior property tax year.
+(d) Property within the same property tax account that is not eligible property shall  be assessed
+and taxed as other property similarly situated is assessed and taxed.
+[10]
+SB 712
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) For purposes  of this section, square footage shall be determined by the assessor of the county
+in which the rebuilt homestead is located.
+(4) The assessed value of the  eligible property for any property tax year during which the eli-
+gible property is granted a specially assessed value under this section shall be the least of:
+(a) The eligible property’s maximum specially  assessed value as determined under subsection (3)
+of this section;
+(b) The eligible property’s real market value; or
+(c) The eligible  property’s specially assessed value as determined under subsection (3) of this
+section.
+(5) A specially assessed value may be claimed for property tax years  beginning on or after July
+1, 2021.
+(6) A claim for a specially assessed value for property under this section must:
+(a) Be in writing on a form supplied by the Department of Revenue;
+(b) Describe both the destroyed homestead and the rebuilt homestead;
+(c) Recite all  facts establishing the eligibility of the rebuilt homestead for the specially assessed
+value; and
+(d) Have attached:
+(A) Any information or documentation required by the department; and
+(B) A written declaration by the applicant, subject to penalties for false  swearing, that the
+statements contained in the claim are true.
+(7)(a)(A) A  claim for an initial year of specially assessed value must be filed with the assessor
+of the  county in which the rebuilt homestead is located after January 1 and on or before April 1
+immediately preceding the first property tax year for which the specially assessed value is  claimed.
+(B) Notwithstanding  subparagraph (A) of this paragraph, a claim for an initial year of specially
+assessed value for the property tax years  beginning on July 1, 2021, July 1, 2022, July 1, 2023, or
+July 1, 2024, must be filed no later than December 31, 2025.
+(b) For each  subsequent property tax year for which the specially assessed value is claimed, the
+owner of the rebuilt homestead must file an attestation, under penalties  for false swearing, that the
+owner will continue to occupy the rebuilt homestead as the  owner’s principal dwelling for the en-
+tirety of the property tax year.
+(8)(a) If all or any part of the  rebuilt homestead is determined to be eligible property, a timely
+claim for the specially assessed value  has the effect of requiring the county assessor to determine
+the total amount of taxes due  on the eligible property in accordance with this section until the
+property tax year determined under subsection (9) of this section.
+(b) Each year that eligible  property is granted a specially assessed value under this section, the
+county  assessor  shall enter on the assessment and tax roll that the eligible property is specially
+assessed and is subject to potential additional taxes by  adding the notation “potential additional
+taxes.”
+(9) Eligible property shall be  assessed and taxed as other property similarly situated is assessed
+and taxed beginning with the property tax year that immediately succeeds the earliest of:
+(a) The date on which the rebuilt homestead is  no longer occupied by the owner as a homestead,
+except when the owner is required to be absent by reason of health or active military service;
+(b) The date on which the rebuilt homestead is rented to another person for any duration; or
+(c) The date on which the rebuilt homestead is transferred to new ownership.
+(10) If the grant of a specially assessed value under this section results in  an overpayment of
+[11]
+SB 712
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+taxes paid, the amount of the overpayment shall be refunded in the manner prescribed in ORS
+311.806.
+(11) Any individual aggrieved by  the denial of a claim for a specially assessed value under this
+section may appeal to the Oregon Tax Court in the manner provided under ORS 305.404  to 305.560.
+(12) Property other than eligible property that is added  to the property tax account of the re-
+built homestead during the period of specially assessed value shall be  considered to be new property
+or new improvements to property under ORS  308.153 for the assessment year in which the added
+property is first taken into account.
+(13) If the governing body of a county adopts an ordinance or  resolution that amends or ends
+the specially assessed value in the county, eligible property that has been granted  a specially as-
+sessed value under this section  before the effective date of the ordinance or resolution shall con-
+tinue to receive the specially assessed value on the same terms  in effect when the specially assessed
+value was first granted until a circumstance listed in subsection (9) of this section occurs.
+(14) The specially assessed value available  under this section is in addition to and not in lieu
+of any other property tax limit, exemption or partial exemption, special assessment or deferral.
+(15) ORS 315.037 does not apply to this section.
+SECTION 13.
+The amendments to ORS 307.032,  308.146, 308.707, 308A.107, 308A.256,
+308A.315, 321.354, 321.722, 321.833 and 358.505 and section 4, chapter 96, Oregon Laws 2016, and
+section 1, chapter 94, Oregon Laws 2024, by sections 1 to  12 of this 2025 Act apply to property
+tax years beginning on or after July 1, 2026.
+SECTION 14. This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[12]

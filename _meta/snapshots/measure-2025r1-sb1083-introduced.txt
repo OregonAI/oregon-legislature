@@ -1,0 +1,97 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1083
+Sponsored by Senator ANDERSON
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act adds crimes to  the sexually violent dangerous offender law. The Act goes into
+effect when the Governor signs it. (Flesch Readability Score: 63.2).
+Adds crimes of conviction that qualify for sexually violent dangerous offender  sentencing, re-
+quiring lifetime post-prison supervision if the court makes certain findings.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to sexually violent dangerous offenders; amending ORS 137.765; and  declaring an emer-
+gency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 137.765 is amended to read:
+137.765. (1) As used in this section:
+(a) “History  of sexual assault” means that a person has engaged in unlawful sexual conduct that:
+(A) Was not committed as part of the  same criminal episode as the crime for which the person
+is currently being sentenced; and
+(B) Seriously endangered the life or  safety of another person or involved a victim under 12 years
+of age.
+(b) “Sexually violent dangerous offender” means a person who has  psychopathic personality
+features, sexually deviant arousal patterns or interests and a history of sexual assault  and presents
+a substantial probability of committing a crime listed in subsection (3) of this section.
+(2) Notwithstanding ORS 161.605, when a person is convicted of a crime listed in subsection (3)
+of this section, in addition to any sentence of imprisonment required by  law, a court shall impose
+a period of post-prison supervision that extends for the life of the person if:
+(a) The person was 18 years of age or older at the time the person committed the crime; and
+(b) The person is a sexually violent dangerous offender.
+(3) The crimes to which subsection (2) of this section applies are:
+(a) Rape in the first degree and sodomy in the first degree if the victim was:
+(A) Subjected to forcible compulsion by the person;
+(B) Under 12 years of age; [ or]
+(C) Under 14 years of age and is the person’s sibling, of the  whole or half blood, the
+person’s child or the person’s spouse’s child; or
+[(C)] (D) Incapable of  consent by reason of mental incapacitation, physical helplessness or in-
+capability of appraising the nature of the victim’s conduct;
+(b) Unlawful sexual penetration in the first degree; [ and]
+(c) An attempt to commit a crime listed in paragraph (a) or (b) of this subsection[ .];
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3948
+SB 1083
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+(d) Rape in the second degree;
+(e) Sodomy in the second degree;
+(f) Unlawful sexual penetration in the second degree;
+(g) Purchasing sex with a minor;
+(h) Sexual abuse in the first degree; and
+(i) Online sexual corruption of a child in the first degree.
+SECTION 2.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[2]

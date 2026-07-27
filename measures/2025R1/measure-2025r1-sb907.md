@@ -1,0 +1,780 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb907
+title: 'SB 907 (2025R1): Requires an applicant for a license to manufacture psilocybin to submit to the
+  Oregon Health Authority information regarding the ownership and location of the premises to be licensed
+  or for which a license will be renewed.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 907
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB907/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 6ed5f80211f938b5a7efcacaf9d1062e780826e8959c60c7c6fdce91a7063346
+snapshot_id: measure-2025r1-sb907-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 181A.195
+  - ORS 192.311
+  - ORS 475.005
+  - ORS 475.125
+  - ORS 475.752
+  - ORS 475A.210
+  - ORS 475A.245
+  - ORS 475A.250
+  - ORS 475A.290
+  - ORS 475A.492
+  - ORS 475A.590
+  - ORS 475C.005
+  - ORS 475C.009
+  - ORS 475C.033
+  - ORS 475C.037
+  - ORS 475C.065
+  - ORS 475C.085
+  - ORS 475C.137
+  - ORS 475C.141
+  - ORS 475C.297
+  - ORS 475C.544
+  - ORS 475C.770
+  - ORS 475C.783
+  - ORS 475C.789
+  - ORS 475C.792
+  - ORS 475C.795
+  - ORS 475C.806
+  - ORS 475C.815
+  - ORS 475C.821
+  - ORS 475C.824
+  - ORS 475C.827
+  - ORS 475C.856
+  - ORS 475C.859
+  - ORS 475C.897
+  - ORS 571.260
+  - ORS 571.269
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 907
+prefix_meaning: Senate Bill
+catch_line: Requires an applicant for a license to manufacture psilocybin to submit to the Oregon Health
+  Authority information regarding the ownership and location of the premises to be licensed or for which
+  a license will be renewed.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act changes some requirements for a person who wants to be allowed to\
+  \ grow marijuana or psilocybin. The Act states that the person must tell the OHA or the OLCC where the\
+  \ person plans to grow, process or produce the marijuana or psilocybin and who owns the site that the\
+  \ person plans to use. The Act specifies some cases when the OHA or the OLCC cannot give permission\
+  \ to the person. (Flesch Readability Score: 60.2). \n\tRequires an applicant for a license to manufacture\
+  \ psilocybin to submit to the Oregon Health Authority information regarding the ownership and location\
+  \ of the premises to be licensed<b> or for which a license will be renewed</b>. Prohibits the authority\
+  \ from issuing <b>or renewing</b> a license in specified circumstances. \n\tRequires an applicant for\
+  \ a license to produce or process marijuana to submit to the Oregon Liquor and Cannabis Commission information\
+  \ regarding the ownership and location of the premises to be licensed<b> or for which a license will\
+  \ be renewed</b>. Prohibits the commission from issuing <b>or renewing</b> a license in specified circumstances.\
+  \ \n\tRequires an applicant for a medical marijuana grow site or medical marijuana processing site registration\
+  \ to submit to the authority information regarding the ownership and location of the premises to be\
+  \ registered<b> or for which a registration is being renewed</b>. Prohibits the authority from issuing\
+  \ <b>or renewing</b> a registration in specified circumstances. <b>Allows the authority to release certain\
+  \ information about a marijuana grow site to a county for purposes of verifying ownership of a premises\
+  \ for which a marijuana grow site registration may be issued or renewed.</b> \n\tTakes effect on the\
+  \ 91st day following adjournment sine die."
+relating_to: Relating to ownership of premises; and prescribing an effective date.
+relating_to_full: Relating to ownership of premises; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 3767
+measure_created_date: '2025-01-14T11:24:41'
+measure_modified_date: '2025-06-06T16:11:08'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 42355
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 181A.195
+  - ORS 192.311
+  - ORS 475.005
+  - ORS 475.125
+  - ORS 475.752
+  - ORS 475A.210
+  - ORS 475A.245
+  - ORS 475A.250
+  - ORS 475A.290
+  - ORS 475A.492
+  - ORS 475A.590
+  - ORS 475C.005
+  - ORS 475C.009
+  - ORS 475C.033
+  - ORS 475C.037
+  - ORS 475C.065
+  - ORS 475C.085
+  - ORS 475C.137
+  - ORS 475C.141
+  - ORS 475C.297
+  - ORS 475C.544
+  - ORS 475C.770
+  - ORS 475C.783
+  - ORS 475C.789
+  - ORS 475C.792
+  - ORS 475C.795
+  - ORS 475C.806
+  - ORS 475C.815
+  - ORS 475C.821
+  - ORS 475C.824
+  - ORS 475C.827
+  - ORS 475C.856
+  - ORS 475C.859
+  - ORS 475C.897
+  - ORS 571.260
+  - ORS 571.269
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 907>.
+
+# SB 907 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 907, 2025 Regular Session (2025R1)
+- **LC number:** 3767
+- **Created:** 2025-01-14T11:24:41
+- **Metadata last modified (upstream):** 2025-06-06T16:11:08
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 42355 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB907/Enrolled>.
+
+## Summary
+
+**Catchline:** Requires an applicant for a license to manufacture psilocybin to submit to the Oregon Health Authority information regarding the ownership and location of the premises to be licensed or for which a license will be renewed.
+
+**Relating to:** Relating to ownership of premises; and prescribing an effective date.
+
+Digest: The Act changes some requirements for a person who wants to be allowed to grow marijuana or psilocybin. The Act states that the person must tell the OHA or the OLCC where the person plans to grow, process or produce the marijuana or psilocybin and who owns the site that the person plans to use. The Act specifies some cases when the OHA or the OLCC cannot give permission to the person. (Flesch Readability Score: 60.2). 
+ Requires an applicant for a license to manufacture psilocybin to submit to the Oregon Health Authority information regarding the ownership and location of the premises to be licensed<b> or for which a license will be renewed</b>. Prohibits the authority from issuing <b>or renewing</b> a license in specified circumstances. 
+ Requires an applicant for a license to produce or process marijuana to submit to the Oregon Liquor and Cannabis Commission information regarding the ownership and location of the premises to be licensed<b> or for which a license will be renewed</b>. Prohibits the commission from issuing <b>or renewing</b> a license in specified circumstances. 
+ Requires an applicant for a medical marijuana grow site or medical marijuana processing site registration to submit to the authority information regarding the ownership and location of the premises to be registered<b> or for which a registration is being renewed</b>. Prohibits the authority from issuing <b>or renewing</b> a registration in specified circumstances. <b>Allows the authority to release certain information about a marijuana grow site to a county for purposes of verifying ownership of a premises for which a marijuana grow site registration may be issued or renewed.</b> 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to ownership of premises; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 907
+Sponsored by Senator  THATCHER, Representative LEWIS; Representatives DIEHL, MANNIX,
+WRIGHT, YUNKER
+CHAPTER .................................................
+AN ACT
+Relating to ownership of premises; creating new provisions; amending ORS  475A.250, 475A.290,
+475C.037, 475C.065, 475C.085, 475C.792, 475C.815 and 475C.859; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. Section 2 of this 2025 Act is added to and made a part of  ORS 475A.210 to
+475A.722.
+SECTION 2. (1) The Oregon Health Authority may not issue a psilocybin  manufacturer
+license under ORS 475A.290  unless the applicant submits with the application a statement
+accurately identifying the legal address and owner  of the premises to be licensed and the
+requirements of subsections (2) and (3) of this section are met.
+(2) The authority shall  independently verify the information provided under subsection
+(1) of  this section regarding the ownership of the premises with the county in which the
+premises to be licensed under ORS 475A.290 is located.
+(3) If the applicant described in subsection (1) of this section is not  the owner of the
+premises to be licensed under ORS 475A.290, the applicant shall:
+(a) Inform the  owner in writing that the premises is intended to be licensed under ORS
+475A.290;
+(b) If the  owner wishes to consent to the use of the premises for the purposes of manu-
+facturing psilocybin, obtain from the owner the owner’s written signature, witnessed by  a
+notary public, confirming ownership of the premises and consenting to  the applicant’s use
+of the premises for the purpose of manufacturing psilocybin; and
+(c) Provide the owner’s witnessed signature as  described in paragraph (b) of this sub-
+section to the authority.
+(4) An owner who consents as described in subsection (3) of this section to the  use of the
+owner’s premises for  the purpose of manufacturing psilocybin may specify in the document
+that contains  the owner’s witnessed signature the number of annual licensure terms for
+which the owner’s consent to the use of the premises is valid.
+(5) The authority shall cancel an application for a license under  ORS 475A.290 if the au-
+thority:
+(a) Is not able to verify ownership of the premises described in subsection (1) of this
+section; or
+(b) Does not receive, if the application is  from an applicant described in subsection (3)
+of this section, the witnessed signature described in subsection (3) of this section.
+Enrolled Senate Bill 907 (SB 907-A) Page 1
+(6) The authority may adopt rules to carry out this  section. Rules adopted under this
+section may include rules to establish a form for the purposes of this section.
+SECTION 3.  ORS 475A.250 is amended to read:
+475A.250. [ Grounds for refusing to issue license or issuing restricted license. ] (1) The Oregon
+Health Authority may not license an applicant under the provisions of ORS 475A.210 to  475A.722
+if the applicant is under 21 years of age.
+(2) The authority may refuse to issue  a license or may issue a restricted license to an applicant
+under the provisions of ORS 475A.210 to 475A.722 if the authority  makes a finding that the appli-
+cant:
+(a) Has not completed any education or training required by the provisions of ORS 475A.210 to
+475A.722 or rules adopted under ORS 475A.210 to 475A.722.
+(b) Has not passed any examination required by the provisions of ORS 475A.210  to 475A.722 or
+rules adopted under ORS 475A.210 to 475A.722.
+(c) Is in the habit of using alcoholic beverages, habit-forming drugs,  or controlled substances to
+excess.
+(d) Has made false statements to the authority.
+(e) Is incompetent or physically unable to carry on the management of the establishment pro-
+posed to be licensed.
+(f) Has been convicted of violating a federal law, state law or  local ordinance if the conviction
+is substantially related  to the fitness and ability of the applicant to lawfully carry out activities
+under the license.
+(g) Is not of good repute and moral character.
+(h) Does not have a good record of compliance with ORS 475A.210 to 475A.722 or any  rule
+adopted under ORS 475A.210 to 475A.722.
+(i) Except as provided in section 2  of this 2025 Act,  is not the legitimate owner of the
+premises proposed to be licensed, or  has not disclosed that other persons have ownership interests
+in the premises proposed to be licensed.
+(j) Has  not demonstrated financial responsibility sufficient to adequately meet the requirements
+of the premises proposed to be licensed.
+(k) Is unable to understand the laws of this state relating to psilocybin products, psilocybin
+services, or the rules adopted under ORS 475A.210 to 475A.722.
+(3) Notwithstanding subsection (2)(f) of this section, in determining whether to issue a license
+or a restricted license to an applicant, the  authority may not consider the prior conviction of the
+applicant or  any owner, director, officer, manager, employee, agent or other representative of the
+applicant for:
+(a) The manufacture of psilocybin or the manufacture of a marijuana item, as defined  in ORS
+475C.009, if:
+(A) The date of the conviction is two or more years before the date of the application; and
+(B) The person has not been convicted more  than once for the manufacture of psilocybin or a
+marijuana item; or
+(b) The possession of a controlled substance, as defined in  ORS 475.005, or a marijuana item,
+as defined in ORS 475C.009, if:
+(A) The date of the conviction is two or more years before the date of the application; or
+(B) The person has not been convicted more than once for  the possession of a controlled sub-
+stance or a marijuana item.
+SECTION 4.
+ ORS 475A.290 is amended to read:
+475A.290. [Manufacturer license; fees; rules. ] (1) The  manufacture of psilocybin products is sub-
+ject to regulation by the Oregon Health Authority.
+(2) A psilocybin product manufacturer must have a manufacturer license issued by  the authority
+for the  premises at which the psilocybin products are manufactured. To hold a manufacturer license
+issued under this section, a psilocybin product manufacturer:
+(a) Must apply for a license in the manner described in ORS 475A.245;
+Enrolled Senate Bill 907 (SB 907-A) Page 2
+(b) Must provide proof that the applicant is 21 years of age or older; and
+(c) Must meet the requirements of any rule adopted by the authority under  this section.
+[(c) Must, until January 1, 2025: ]
+[(A) If the direct owner of the business operating  or to be operated under the license is a legal
+entity, provide proof that more than 50 percent of the shares, membership interests, partnership  inter-
+ests, or other ownership interests of the legal entity are held, directly or indirectly, by  one or more
+individuals who have been residents of this state for two or more years; ]
+[(B) If the direct owner of the business operating or to be operated under the license is a  partner-
+ship that  is not a legal entity, provide proof that more than 50 percent of the partnership interests of
+the partnership are held, directly or indirectly, by one or more individuals who have been  residents of
+this state for two or more years; and ]
+[(C) If the direct  owner of the business operating or to be operated under the license is an indi-
+vidual, provide proof that the individual has been a resident of this state for two or more years; and ]
+[(d) Must meet the requirements of any rule  adopted by the authority under subsections (3) and (4)
+of this section. ]
+(3)[(a) If the applicant is not the owner of the premises at which the psilocybin is to be  manufac-
+tured,] The applicant shall [ submit to the authority signed  informed consent from the owner of the
+premises to  manufacture psilocybin at the premises ], with the application submitted to the au-
+thority, provide the information described under and meet the requirements of  section 2 of
+this 2025 Act .
+[(b) The authority may adopt rules regarding the informed consent described in this subsection. ]
+(4) The authority shall adopt rules that:
+(a) Require a psilocybin product manufacturer to annually  renew a license issued under this
+section and, if the applicant or licensee is  not the owner of the premises for which the license
+is being renewed, to submit with the application for renewal the owner’s written signature,
+witnessed by a notary public, confirming ownership of the premises  and consenting to the
+applicant’s or licensee’s use of the premises for the purpose of manufacturing psilocybin, if
+the owner’s consent to the use of the premises is expired ;
+(b) Establish application, licensure and renewal of licensure  fees for psilocybin product man-
+ufacturers; and
+(c) Require psilocybin  products manufactured by psilocybin product manufacturers to be tested
+in accordance with ORS 475A.590.
+(5) Fees adopted under subsection (4)(b) of this section:
+(a) May not exceed, together with other  fees collected under ORS 475A.210 to 475A.722, the cost
+of administering ORS 475A.210 to 475A.722; and
+(b) Shall be deposited in the Psilocybin Control and Regulation  Fund established under ORS
+475A.492.
+SECTION 5.
+Section 6 of this 2025 Act is added to and made a part of ORS 475C.005 to
+475C.525.
+SECTION 6. (1) The Oregon Liquor  and Cannabis Commission may not issue a marijuana
+production license under ORS 475C.065 or a marijuana processor license under ORS 475C.085
+unless the applicant submits with the  application a statement accurately identifying the legal
+address and owner of the  premises to be licensed and the requirements of subsections (2) and
+(3) of this section are met.
+(2) The commission shall independently verify the  information provided under subsection
+(1) of this section regarding the ownership of the premises with the county in which  the
+premises to be licensed under ORS 475C.065 or 475C.085 is located.
+(3) If the applicant described  in subsection (1) of this section is not the owner of the
+premises to be licensed under ORS 475C.065 or 475C.085, the applicant shall:
+(a) Inform the owner in writing that the premises is intended to be licensed  under ORS
+475C.065 or 475C.085;
+Enrolled Senate Bill 907 (SB 907-A) Page 3
+(b) If the owner wishes to consent to the use of the premises for  the purposes of
+producing or processing marijuana, obtain from the owner the owner’s  written signature,
+witnessed by a notary public,  confirming ownership of the premises and consenting to the
+applicant’s use of the premises for the purpose of producing or processing marijuana; and
+(c) Provide the owner’s witnessed signature as described  in paragraph (b) of this sub-
+section to the commission.
+(4) An owner who consents as described in subsection (3) of this section to the  use of the
+owner’s premises for the purpose of producing or processing marijuana may specify  in the
+document that contains  the owner’s witnessed signature the number of annual licensure
+terms for which the owner’s consent to the use of the premises is valid.
+(5) The commission shall cancel an application for a license under ORS 475C.065 or
+475C.085 if the commission:
+(a) Is not able to verify ownership of the premises described in subsection (1) of this
+section; or
+(b) Does not receive, if the application is  from an applicant described in subsection (3)
+of this section, the witnessed signature described in subsection (3) of this section.
+(6) The commission may adopt rules to carry out this section. Rules adopted under this
+section may include rules to establish a form for the purposes of this section.
+SECTION 7.  ORS 475C.037 is amended to read:
+475C.037. (1) The Oregon Liquor and Cannabis Commission  may not license an applicant under
+the provisions of ORS 475C.005 to 475C.525 or 475C.548 if the applicant is under 21 years of age.
+(2) The commission may refuse  to issue a license or may issue a restricted license to an appli-
+cant under the provisions of ORS 475C.005 to 475C.525 or 475C.548 if the commission makes a find-
+ing that the applicant:
+(a) Is in the habit of using alcoholic beverages,  habit-forming drugs, marijuana or controlled
+substances to excess.
+(b) Has made false statements to the commission.
+(c) Is incompetent or physically unable to carry on the management of the establishment pro-
+posed to be licensed.
+(d) Has been convicted of violating a federal law, state law or local ordinance if  the conviction
+is substantially related  to the fitness and ability of the applicant to lawfully carry out activities
+under the license.
+(e) Is not of good repute and moral character.
+(f) Does not have a good record of compliance with ORS 475C.005 to 475C.525 or 475C.540 to
+475C.586 or any rule adopted under ORS 475C.005 to 475C.525 or 475C.540 to 475C.586.
+(g) Except as provided in section 6 of this 2025 Act,  is not the legitimate owner of  the
+premises proposed to be licensed, or  has not disclosed that other persons have ownership interests
+in the premises proposed to be licensed.
+(h) Has not demonstrated financial  responsibility sufficient to adequately meet the requirements
+of the premises proposed to be licensed.
+(i) Is unable to understand the laws of this state relating to  marijuana items or the rules
+adopted under ORS 475C.005 to 475C.525 and 475C.540 to 475C.586.
+(3) Notwithstanding subsection (2)(d) of this section, in  determining whether to issue a license
+or a restricted license to an applicant, the commission may not  consider the prior conviction of the
+applicant or  any owner, director, officer, manager, employee, agent or other representative of the
+applicant for:
+(a) The manufacture of marijuana, if:
+(A) The date of the conviction is two or more years before the date of the application; and
+(B) The person has not been convicted more than  once for the manufacture or delivery of
+marijuana;
+(b) The delivery of marijuana to a person 21 years of age or older, if:
+(A) The date of the conviction is two or more years before the date of the application; and
+Enrolled Senate Bill 907 (SB 907-A) Page 4
+(B) The person has not been convicted more  than once for the manufacture or delivery of
+marijuana; or
+(c) The possession of marijuana.
+SECTION 8.
+ ORS 475C.065 is amended to read:
+475C.065. (1)  The production of marijuana is subject to regulation by the Oregon Liquor and
+Cannabis Commission.
+(2) A marijuana producer must have a production license issued by the commission for the
+premises at which the marijuana is produced. To  hold a production license issued under this section,
+a marijuana producer:
+(a) Must apply for a license in the manner described in ORS 475C.033;
+(b) Must provide proof that the applicant is 21 years of age or older; and
+(c) Must meet  the requirements of any rule adopted by the commission under [ subsections (3) and
+(4) of ] this section.
+(3)[(a) If the applicant is not the owner of the premises at which the marijuana is to be
+produced,] The applicant shall [ submit to the commission signed informed  consent from the owner of
+the premises to produce  marijuana at the premises ], with the application submitted to the com-
+mission, provide the information described under and meet  the requirements of section 6 of
+this 2025 Act .
+[(b) The commission may  adopt rules regarding the informed consent described in this
+subsection.]
+(4) The commission shall adopt rules that:
+(a) Require a marijuana producer to annually renew a license issued under this section;
+(b) Establish application, licensure and renewal of licensure fees for marijuana producers;
+(c) Require marijuana produced by marijuana producers to be  tested in accordance with ORS
+475C.544;
+(d) Assist the viability of marijuana producers that are independently owned and operated and
+that are limited in size and  revenue with respect to other marijuana producers, by minimizing bar-
+riers to entry into the regulated system and by expanding, to the extent practicable,  transportation
+options that will support their access to the retail market;
+(e) Allow a  marijuana producer registered under ORS 475C.137 to produce marijuana for medical
+purposes in the same manner that  rules adopted under ORS 475C.005 to 475C.525 allow a marijuana
+producer to produce marijuana for nonmedical purposes, excepting those circumstances where dif-
+ferentiating between the production of marijuana for medical purposes and  the production of
+marijuana for nonmedical purposes is necessary to protect the public health and safety;
+(f) Require marijuana producers to  submit, at the time of applying for or renewing a license
+under ORS 475C.033[ , a report describing the applicant’s or licensee’s electrical or water usage; ]:
+(A) A report describing the applicant’s or licensee’s electrical or water usage; and
+(B) If the applicant or licensee is not the owner of the premises for  which the license is
+being renewed, the owner’s  written signature, witnessed by a notary public, confirming
+ownership of the premises and consenting to the applicant’s  or licensee’s use of the premises
+for the purpose of producing marijuana, if the owner’s consent to the use  of the premises is
+expired;
+(g) Require a marijuana producer to meet any public health and safety standards  and industry
+best practices established by the commission by rule related to the production  of marijuana or the
+propagation of immature marijuana plants and marijuana seeds; and
+(h) Support marijuana plant  diversity by allowing a qualified marijuana producer to receive
+marijuana seeds from any source in  this state, but not more than a total of 200 marijuana seeds per
+month from all sources combined.
+(5) Fees adopted under subsection (4)(b) of this section:
+(a) May not exceed, together with other fees collected under ORS  475C.005 to 475C.525, the cost
+of administering ORS 475C.005 to 475C.525;
+Enrolled Senate Bill 907 (SB 907-A) Page 5
+(b) Shall be in the form of a schedule that imposes a greater fee for premises  with more square
+footage or on which more marijuana plants are grown; and
+(c) Shall be deposited in the Marijuana Control and  Regulation Fund established under ORS
+475C.297.
+SECTION 9.  ORS 475C.085 is amended to read:
+475C.085. (1) The processing of marijuana items is  subject to regulation by the Oregon Liquor
+and Cannabis Commission.
+(2) A marijuana processor must have a processor  license issued by the commission for the
+premises at which marijuana items are processed. To hold a processor license under  this section, a
+marijuana processor:
+(a) Must apply for a license in the manner described in ORS 475C.033;
+(b) Must provide proof that the applicant is 21 years of age or older;
+(c) If  the marijuana processor processes marijuana extracts or industrial hemp extracts, as de-
+fined in ORS 571.269, may not be located in an area zoned exclusively for residential use; [ and]
+(d) Must  meet the requirements of any rule adopted by the commission under subsection (3) of
+this section ; and
+(e) Must, with the application submitted to the  commission, provide the information de-
+scribed under and meet the requirements of section 6 of this 2025 Act .
+(3) The commission shall adopt rules that:
+(a) Require a marijuana processor to annually renew a license issued under  this section and,
+if the applicant or licensee is not the owner of the premises for which the license is  being
+renewed, submit with the application the owner’s written signature, witnessed by a  notary
+public, confirming ownership of the premises and  consenting to the applicant’s or licensee’s
+use of the premises for the purpose  of processing marijuana, if the owner’s consent to the
+use of the premises is expired ;
+(b) Establish application, licensure and renewal of licensure fees for marijuana processors;
+(c) Require marijuana processed by a marijuana processor to be tested  in accordance with ORS
+475C.544;
+(d) Require industrial hemp commodities and products processed by a marijuana processor  to
+meet any requirements for industrial  hemp commodities or products established under ORS 571.260
+to 571.348 or rules adopted under ORS 571.260 to 571.348;
+(e) Allow a marijuana processor registered under ORS  475C.141 to process marijuana and usable
+marijuana into medical grade cannabinoid products, cannabinoid concentrates  and cannabinoid ex-
+tracts in the same manner that rules adopted under ORS 475C.005 to 475C.525 allow  a marijuana
+processor to process marijuana and  usable marijuana into general use cannabinoid products,
+cannabinoid concentrates and cannabinoid extracts, excepting those circumstances where  differen-
+tiating between the processing of  medical grade cannabinoid products, cannabinoid concentrates and
+cannabinoid extracts and the processing of general  use cannabinoid products, cannabinoid concen-
+trates and cannabinoid extracts is necessary to protect the public health and safety; and
+(f) Require  a marijuana processor to meet any public health and safety standards and industry
+best practices established by the commission by rule related to:
+(A) Cannabinoid edibles;
+(B) Cannabinoid concentrates;
+(C) Cannabinoid extracts; and
+(D) Any  other type of cannabinoid product or industrial hemp commodity or product identified
+by the commission by rule.
+(4) Fees adopted under subsection (3)(b) of this section:
+(a) May not exceed, together with other fees collected under ORS  475C.005 to 475C.525, the cost
+of administering ORS 475C.005 to 475C.525; and
+(b) Shall be deposited in the Marijuana  Control and Regulation Fund established under ORS
+475C.297.
+Enrolled Senate Bill 907 (SB 907-A) Page 6
+SECTION 10. Section 11 of  this 2025 Act is added to and made a part of ORS 475C.770 to
+475C.919.
+SECTION 11. (1) The Oregon Health Authority may not issue a  marijuana grow site
+registration under ORS 475C.792 or a marijuana processing site registration  under ORS
+475C.815 unless  the applicant submits with the application a statement accurately identifying
+the legal address and owner of the premises to be registered and the requirements  of sub-
+sections (2) and (3) of this section are met.
+(2) The authority shall independently verify the information  provided under subsection
+(1) of this section regarding the ownership of the premises with the county in which  the
+premises to be registered under ORS 475C.792 or 475C.815 is located.
+(3) If the applicant described  in subsection (1) of this section is not the owner of the
+premises to be registered under ORS 475C.792 or 475C.815, the applicant shall:
+(a) Inform the owner in writing that the premises is  intended to be registered under ORS
+475C.792 or 475C.815;
+(b) If the owner wishes to consent to the use of the premises for the purpose  of a
+marijuana grow site or marijuana processing  site, obtain from the owner the owner’s written
+signature, witnessed by a notary  public, confirming ownership of the premises and consent-
+ing to the applicant’s use of  the premises for the purpose of a marijuana grow site or
+marijuana processing site; and
+(c) Provide the owner’s witnessed signature as  described in paragraph (b) of this sub-
+section to the authority.
+(4) An owner who consents as described in subsection (3) of this section to the  use of the
+owner’s premises for the purpose  of a marijuana grow site or marijuana processing site may
+specify in the document that contains the owner’s witnessed signature the number  of annual
+licensure terms for which the owner’s consent to the use of the premises is valid.
+(5) The authority shall cancel an application for a registration  under ORS 475C.792 or
+475C.815 if the authority:
+(a) Is not able to verify ownership of the premises described in subsection (1) of this
+section; or
+(b) Does not receive, if the application is  from an applicant described in subsection (3)
+of this section, the witnessed signature described in subsection (3) of this section.
+(6) The authority may adopt rules to carry out this  section. Rules adopted under this
+section may include rules to establish a form for the purposes of this section.
+SECTION 12.  ORS 475C.792 is amended to read:
+475C.792. (1)(a)  The Oregon Health Authority shall establish by rule a marijuana grow site
+registration system to track and regulate the production of marijuana  by a registry identification
+cardholder or a person designated by the registry identification  cardholder to produce marijuana for
+the registry identification cardholder.
+(b) Except as provided in paragraph (c) of this subsection, a person may not  produce marijuana
+unless the person is registered under this section.
+(c) Paragraph (b) of  this subsection does not apply to the production of marijuana as provided
+in ORS 475C.005 to 475C.525 or as otherwise provided for by the statutory laws of this state.
+(2) Rules adopted  under this section must require an applicant for a registry identification card,
+or a registry identification cardholder who produces marijuana  or who designates another person
+to produce marijuana, to submit an application to  the authority containing the following information
+at the time of making an application under ORS 475C.783 (2),  renewing a registry identification card
+under ORS 475C.783 (6)(b), or notifying the authority of a change under ORS 475C.783 (6)(a):
+(a) The name of the person responsible for the marijuana grow site;
+(b) Proof that the person is 21 years of age or older;
+(c) [ If the registry identification cardholder or the person  responsible for the marijuana grow site
+is not the owner of the premises of the marijuana grow site, signed informed consent from the  owner
+Enrolled Senate Bill 907 (SB 907-A) Page 7
+of the premises to register the premises  as a marijuana grow site ] The information required under
+section 11 of this 2025 Act ;
+(d) The address of the marijuana grow site; and
+(e) Any other information that the  authority considers necessary to track the production of
+marijuana under ORS 475C.770 to 475C.919.
+(3)(a) The authority  shall conduct a criminal records check under ORS 181A.195 of any person
+whose name is submitted under this section as the person responsible for a marijuana grow site.
+(b) A  person convicted of a Class A or Class B felony under ORS 475.752 to 475.920 for the
+manufacture or delivery of a  controlled substance in Schedule I or Schedule II may not act as or
+be designated  a person responsible for a marijuana grow site for two years from the date of con-
+viction.
+(c) A person convicted more than once of a Class A or  Class B felony under ORS 475.752 to
+475.920 for the manufacture or delivery of  a controlled substance in Schedule I or Schedule II may
+not act as or be designated a person responsible for a marijuana grow site.
+(4) Subject to subsection (11) of this section, the authority shall issue a marijuana  grow site
+registration card if the requirements of subsections (2) and (3) of  this section and section 11 of this
+2025 Act are met.
+(5) A person who holds a marijuana grow site registration card under this section must display
+the card at the marijuana grow site at all times.
+(6) A marijuana grow site registration card must be obtained  and posted for each registry
+identification cardholder for whom marijuana is being produced at a marijuana grow site.
+(7)(a) All seeds, immature marijuana plants, mature marijuana  plants and usable marijuana as-
+sociated with the production of marijuana  for a registry identification cardholder by a person re-
+sponsible for a marijuana grow site are the property of the registry identification cardholder.
+(b) All seeds,  immature marijuana plants, mature marijuana plants and usable marijuana asso-
+ciated with the production of marijuana for a registry  identification cardholder by a person re-
+sponsible for a marijuana grow site  must be transferred to the registry identification cardholder
+upon the request of the registry identification cardholder.
+(c) All usable marijuana associated  with the production of marijuana for a registry identification
+cardholder by a person responsible  for a marijuana grow site must be transferred to a marijuana
+processing site upon the request  of the registry identification cardholder. For purposes of this par-
+agraph, a request to transfer usable  marijuana constitutes an assignment of the right to possess the
+usable marijuana.
+(d) All seeds, immature marijuana plants and usable marijuana  associated with the production
+of marijuana for a registry identification cardholder by a person responsible for  a marijuana grow
+site must be  transferred to a medical marijuana dispensary upon request of the registry identifica-
+tion cardholder.  For purposes of this paragraph, a request to transfer seeds, immature marijuana
+plants or usable marijuana constitutes an assignment of the right to  possess the seeds, immature
+marijuana plants or usable marijuana.
+(e) Information related to transfers made under this subsection must be  submitted to the au-
+thority in the manner required by ORS 475C.795.
+(8) A  registry identification cardholder, or the designated caregiver of a registry identification
+cardholder, may reimburse a  person responsible for a marijuana grow site for all costs associated
+with the production of marijuana for the registry identification cardholder.
+(9) The authority may inspect:
+(a) The marijuana  grow site of a person designated to produce marijuana by a registry identifi-
+cation cardholder to ensure compliance with this section and ORS  475C.795 and 475C.806 and any
+rule adopted under this section and ORS 475C.795 and 475C.806; and
+(b) The  records of the marijuana grow site of a person designated to produce marijuana by a
+registry identification cardholder to ensure compliance with  this section and ORS 475C.795 and any
+rule adopted under this section and ORS 475C.795.
+Enrolled Senate Bill 907 (SB 907-A) Page 8
+(10) The authority may refuse  to register a registry identification cardholder or a designee un-
+der this section or may suspend or revoke the registration of  a person responsible for a marijuana
+grow site if the authority determines that the applicant  or the person responsible for a marijuana
+grow site violated a provision of ORS 475C.770 to 475C.919, a  rule adopted under ORS 475C.770 to
+475C.919 or an ordinance adopted pursuant to ORS 475C.827.
+(11) The authority may require  a person responsible for a marijuana grow site, prior to issuing
+a marijuana grow site registration card under  subsection (4) of this section, to pay a fee reasonably
+calculated to pay costs incurred under this section and ORS 475C.795 and 475C.856.
+(12) When submitting an application for renewal of registration under  this section, the
+applicant or person responsible for the marijuana grow site shall,  if the applicant or person
+is not the owner of the premises for which the  registration is being renewed, submit with
+the application the owner’s written  signature, witnessed by a notary public, confirming
+ownership of the premises and consenting to the applicant’s or person’s use of the  premises
+for the purpose of a marijuana  grow site, if the owner’s consent to the use of the premises
+is expired.
+SECTION 13.  ORS 475C.815 is amended to read:
+475C.815. (1)(a) The Oregon Health Authority shall establish by rule a marijuana  processing site
+registration system to track and regulate the processing of marijuana by a person responsible  for
+a marijuana processing site.
+(b) Except as provided in paragraph (c) of this subsection, a  person may not process marijuana
+unless the person is registered under this section.
+(c) Paragraph (b) of this subsection does  not apply to the processing of marijuana as provided
+in ORS 475C.005 to 475C.525 or as otherwise provided for by the statutory laws of this state.
+(2) The registration system established  under subsection (1) of this section must require an ap-
+plicant for a marijuana processing site to submit an application to the authority that includes:
+(a) The name of the individual who owns the marijuana processing site or, if a business  entity
+owns the marijuana processing site, the name of each individual who has a  financial interest in the
+marijuana processing site;
+(b) The name of the individual or individuals responsible  for the marijuana processing site, if
+different from the name of the individual who owns the marijuana processing site;
+(c) The address of the marijuana processing site;
+(d) Proof that each individual responsible for the marijuana processing site is 21  years of age
+or older;
+(e) Documentation, as required by the authority by rule, that demonstrates  the marijuana proc-
+essing site meets the requirements of subsection (3) of this section; [ and]
+(f) The information required under section 11 of this 2025 Act; and
+[(f)] (g) Any other information that the authority considers necessary.
+(3) To qualify for registration under this section, a marijuana processing site:
+(a) May not be located in an area that is zoned for residential  use if the marijuana processing
+site processes cannabinoid extracts;
+(b) Must be registered as a business, or  have filed an application to register as a business, with
+the office of the Secretary of State; and
+(c) Must meet the requirements of any rule adopted by the authority under subsection (10) of
+this section.
+(4)(a) The authority  shall conduct a criminal records check under ORS 181A.195 for each indi-
+vidual named in an application under subsection (2) of this section.
+(b) An individual convicted for the manufacture or delivery of  a controlled substance in Sched-
+ule I or Schedule II may not own or be responsible for a marijuana processing  site for two years
+from the date the individual is convicted.
+(c) An individual convicted more than  once for the manufacture or delivery of a controlled
+substance in Schedule I or Schedule II may not own or be  responsible for a marijuana processing
+site.
+Enrolled Senate Bill 907 (SB 907-A) Page 9
+(5) If a person submits the  application required under subsection (2) of this section, if the
+marijuana processing site identified  in the application meets the requirements of this section and
+section 11 of this 2025 Act  and any rules adopted under  this section and section 11 of this 2025
+Act and  if each individual named in the application passes the criminal records check required un-
+der subsection (4) of  this section, the authority shall register the marijuana processing site and issue
+proof of registration. Proof of registration must be  displayed on the premises of the marijuana
+processing site at all times.
+(6) A marijuana processing site that is  registered under this section is not required to register
+with the State Board of Pharmacy under ORS 475.125.
+(7) The individual or individuals responsible for a marijuana processing site shall maintain doc-
+umentation of each transfer of usable  marijuana, medical cannabinoid products, cannabinoid con-
+centrates and cannabinoid extracts.
+(8) The authority may inspect:
+(a) The premises of a proposed marijuana processing site or a registered  marijuana processing
+site to ensure compliance with this section and ORS 475C.821 and 475C.824 and any rules adopted
+under this section and ORS 475C.821 and 475C.824; and
+(b) The records of a registered marijuana processing  site to ensure compliance with subsection
+(7) of this section.
+(9) Subject to the provisions  of ORS chapter 183, the authority may refuse to register an appli-
+cant under this section or may suspend or revoke the registration of a marijuana  processing site if
+the authority determines that  the applicant, the owner of the marijuana processing site, a person
+responsible for the marijuana processing site, or an employee of the  marijuana processing site, vio-
+lated a provision of ORS 475C.770  to 475C.919, a rule adopted under ORS 475C.770 to 475C.919 or
+an ordinance adopted pursuant to ORS 475C.897.
+(10) The authority shall adopt rules to implement this section, including rules that:
+(a) Require a registered marijuana processing site to annually renew the registration for  that
+site and, if the applicant or individual responsible for a marijuana processing site  is not the
+owner of the premises for which the registration is  being renewed, submit with the applica-
+tion for renewal the owner’s written signature, witnessed by a notary public,  confirming
+ownership of the premises and consenting to the applicant’s or individual’s use of  the
+premises for the purpose of a marijuana processing site, if the owner’s consent to the use
+of the premises is expired ;
+(b) Establish fees for registering, and renewing the registration of, a marijuana processing site;
+(c) Require that medical cannabinoid products, cannabinoid concentrates  and cannabinoid ex-
+tracts transferred by a marijuana  processing site be tested to ensure the public health and safety;
+and
+(d) Impose any other standard on the operation of a marijuana processing site to ensure  the
+public health and safety.
+SECTION 14.
+ ORS 475C.859 is amended to read:
+475C.859. (1)(a) The Oregon Health Authority shall establish and maintain a list of:
+(A) The names of persons to whom a registry identification card has been issued under ORS
+475C.783;
+(B) The names of persons designated as primary caregivers under ORS 475C.789; and
+(C) The addresses of marijuana grow sites registered under ORS 475C.792.
+(b) Except as provided in subsection (2) of this section, the list  is confidential and not subject
+to public disclosure under ORS 192.311 to 192.478.
+(c) The authority shall develop a system by which authorized employees of state  and local law
+enforcement agencies may verify that:
+(A) A person lawfully possesses a registry identification card;
+(B) A person is the designated primary caregiver of a lawful possessor of a registry identifica-
+tion card; or
+(C) A location is a registered marijuana grow site.
+Enrolled Senate Bill 907 (SB 907-A) Page 10
+(2) Names, addresses and other identifying information from the list established and maintained
+pursuant to subsection (1) of this section may be released to:
+(a) Authorized employees of the authority  as necessary to perform official duties of the author-
+ity.
+(b) Authorized  employees of state or local law enforcement agencies who provide to the au-
+thority adequate identification, but only as necessary to verify that:
+(A) A person lawfully possesses a registry identification card;
+(B) A person is the designated primary caregiver of a lawful possessor of a registry identifica-
+tion card; or
+(C) A location is a registered marijuana grow site.
+(c) A county, for  the purposes of verifying the information described in section 11 of this
+2025 Act.
+(3) Authorized employees of state or local law enforcement agencies who obtain identifying in-
+formation as authorized by  this section may not release or use the information for any purpose other
+than to verify that:
+(a) A person lawfully possesses a registry identification card;
+(b) A  person is the designated primary caregiver of a lawful possessor of a registry identification
+card; or
+(c) A location is a registered marijuana grow site.
+(4) In  addition to releasing information to authorized employees of state or local law enforce-
+ment agencies for purposes of verifying information under  subsection (2)(b) of this section, the au-
+thority may release to authorized  employees of state or local law enforcement agencies the minimum
+amount of information necessary to enable an employee to determine whether an  individual or lo-
+cation is in compliance with a provision of ORS 475C.770 to 475C.919 or a rule adopted under  ORS
+475C.770 to 475C.919.
+(5) If the authority determines, after conducting an investigation or  receiving a complaint of an
+alleged violation of a provision of ORS 475C.770 to 475C.919 or a rule adopted under  ORS 475C.770
+to 475C.919, that a violation of  a provision of ORS 475C.770 to 475C.919 or a rule adopted under
+ORS 475C.770 to 475C.919 has occurred, the authority may provide information  obtained by the au-
+thority, except for information related to a  registry identification cardholder’s debilitating medical
+condition, to authorized employees of state or local  law enforcement agencies, or to another state
+or local government agency with jurisdiction over the matter.
+SECTION 15.
+Sections 2, 6 and 11 of this 2025 Act and the  amendments to ORS 475A.250,
+475A.290, 475C.037, 475C.065, 475C.085, 475C.792, 475C.815 and 475C.859 by sections 3, 4,  7, 8,
+9, 12, 13 and 14 of this 2025 Act apply to licenses or registrations issued  or renewed on or
+after the operative date specified in section 16 of this 2025 Act.
+SECTION 16. (1) Sections 2, 6 and 11 of this 2025 Act and the amendments to ORS
+475A.250, 475A.290, 475C.037, 475C.065, 475C.085, 475C.792, 475C.815 and 475C.859 by sections 3,
+4, 7, 8, 9, 12, 13 and 14 of this 2025 Act become operative on January 1, 2026.
+(2) The Oregon Health Authority and the Oregon Liquor and Cannabis Commission may
+take any action before the operative  date specified in subsection (1) of this section that is
+necessary to enable the authority and the commission to exercise,  on and after the operative
+date specified in subsection (1) of this section, all of the duties, functions and powers con-
+ferred on the authority and the commission by sections 2,  6 and 11 of this 2025 Act and the
+amendments to ORS 475A.250, 475A.290, 475C.037, 475C.065, 475C.085, 475C.792, 475C.815 and
+475C.859 by sections 3, 4, 7, 8, 9, 12, 13 and 14 of this 2025 Act.
+SECTION 17.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+Enrolled Senate Bill 907 (SB 907-A) Page 11
+Passed by Senate April 22, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House May 20, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 907 (SB 907-A) Page 12
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 181A.195, ORS 192.311, ORS 475.005, ORS 475.125, ORS 475.752, ORS 475A.210, ORS 475A.245, ORS 475A.250, ORS 475A.290, ORS 475A.492, ORS 475A.590, ORS 475C.005, ORS 475C.009, ORS 475C.033, ORS 475C.037, ORS 475C.065, ORS 475C.085, ORS 475C.137, ORS 475C.141, ORS 475C.297, ORS 475C.544, ORS 475C.770, ORS 475C.783, ORS 475C.789, ORS 475C.792, ORS 475C.795, ORS 475C.806, ORS 475C.815, ORS 475C.821, ORS 475C.824, ORS 475C.827, ORS 475C.856, ORS 475C.859, ORS 475C.897, ORS 571.260, ORS 571.269
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `6ed5f80211f938b5a7efcacaf9d1062e780826e8959c60c7c6fdce91a7063346` (snapshot `_meta/snapshots/measure-2025r1-sb907-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB907/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `9d1561210029698f24b5aa14dfab4fca49f0ca7adbd81b2b29970113fdd8f5ed` (snapshot `_meta/snapshots/measure-2025r1-sb907-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB907/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 907> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

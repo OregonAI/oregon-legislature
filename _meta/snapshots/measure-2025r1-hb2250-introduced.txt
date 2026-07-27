@@ -1,0 +1,128 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2250
+Sponsored by Representative FRAGALA,  Senator MANNING JR; Representatives ANDERSEN, CHOTZEN,
+MCDONALD, NELSON, NOSSE, Senators FREDERICK, PHAM K, PROZANSKI (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would have the state use the  last known address of adults in custody, if avail-
+able, to create some voting districts. (Flesch Readability Score: 65.2).
+Directs the Department of Corrections to determine the last-known address of adults  in custody,
+if the address is readily known or available to  an adult in custody, and submit information to the
+Portland State University Population  Research Center. Directs the center to adjust the population
+data reported  in the federal decennial census to reflect the residence status of adults in custody
+before incarceration.
+Requires the Legislative Assembly or Secretary of State, whichever is applicable, to  reapportion
+the state  into legislative districts based on the adjusted population data. Requires use of the ad-
+justed population data to apportion county or municipal boundaries.
+A BILL FOR AN ACT
+Relating to redistricting.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Adult in custody” means a person committed to  the physical and legal custody of the
+Department of Corrections.
+(b) “County of residence” means the Oregon county in which an  adult in custody resided
+before incarceration with the department, if any.
+(2) The department  shall maintain an electronic filing system to record the following
+demographic information for each adult in custody serving a sentence imposed  by a court in
+this state:
+(a) Name.
+(b) Date of birth.
+(c) Race and ethnicity.
+(d) County of residence, if readily known to the adult in custody or the department.
+(3) On or before January 1 of the year  following the federal decennial census, the de-
+partment shall report to  the Portland State University Population Research Center the de-
+mographic information described in subsection (2) of this section as of April 1 of  the year for
+which the federal decennial census counts population.
+(4) Upon publication of the federal decennial redistricting  data for this state by the
+United States Census Bureau, the center shall, for the purposes described in subsections  (6)
+and (7) of this  section, adjust the data by applying the demographic information received
+under subsection (3) of this section as follows:
+(a) For each adult in custody whose county of residence is readily known:
+(A) Determine the geographic units for which population counts are reported  in the fed-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3561
+HB 2250
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+eral decennial redistricting data that contain the address of the facility of incarceration  and
+the address of the  office of the county clerk in the county of residence for the adult in cus-
+tody;
+(B) Modify all  relevant population counts reported in the federal decennial redistricting
+data as if the adult  in custody had resided at the office of the county clerk in the county of
+residence on the date of the federal decennial census; and
+(C) Remove the adult in custody from any population count reported in the federal
+decennial redistricting data for the geographic units that include the facility of incarceration.
+(b) For each adult in custody whose county of  residence is not readily known, the center
+may not undertake the modification or  removal actions described in paragraph (a) of this
+subsection.
+(5) Not later than 10 days after the United States Census Bureau  publishes the federal
+decennial redistricting data for this state, the center  shall provide the adjusted population
+data described under subsection (4) of this section to a  committee or interim committee of
+the Legislative Assembly related to redistricting.
+(6) The adjusted population data provided to the Legislative Assembly under subsection
+(5) of this section shall be the population  data used by the Legislative Assembly or the Sec-
+retary of  State, whichever is applicable, when apportioning this state into congressional and
+legislative districts.
+(7) The adjusted population data provided to the Legislative Assembly under subsection
+(5) of this section shall be the population data used to apportion boundaries for each  public
+body, as defined in ORS 174.109, in this state.
+(8) The adjusted population data provided to the Legislative Assembly under subsection
+(5) of  this section shall be used only to apportion this state into congressional and legislative
+districts and to apportion boundaries for public bodies, and may not be used for  any other
+purpose.
+[2]

@@ -1,0 +1,528 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 401
+Sponsored by Senator GIROD (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Sends more money to schools for students who are in  poverty. (Flesch Readability Score:
+80.3).
+Increases the weight allotted for children in  poverty for purposes of State School Fund distrib-
+utions.
+Declares an emergency, effective July 1, 2025.
+A BILL FOR AN ACT
+Relating to State  School Fund adjustments for children in poverty; creating new provisions; amend-
+ing ORS 286A.801, 327.013, 327.195, 327.254 and 338.157; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 327.013 is amended to read:
+327.013. The State School Fund distributions for school districts include the following grants:
+(1) General Purpose Grant = Funding Percentage ×  Target Grant ×  District  extended ADMw.
+For the purpose of the calculation made under this subsection:
+(a) The funding percentage shall be calculated  by the Superintendent of Public Instruction to
+distribute as nearly as practicable the total sum of money available for distribution.
+(b) Target Grant =  Statewide Target per ADMw Grant + Teacher Experience Factor. For the
+purpose of the calculation made under this paragraph:
+(A) Statewide Target per ADMw Grant = $4,500.
+(B) Teacher Experience Factor = $25 ×  {District average teacher experience − statewide av-
+erage teacher experience}. As used in this  subparagraph, “average teacher experience” means the
+average, in years, of teaching experience of licensed teachers as reported to the Department of  Ed-
+ucation.
+(c) District extended ADMw = ADMw or  ADMw of the prior year, whichever is greater. The
+calculation of the district extended ADMw must  be made as provided by ORS 338.155 if a public
+charter school is located in the school district. For the purpose of this paragraph:
+(A) Weighted average daily membership or ADMw = average  daily membership + an additional
+amount computed as follows:
+(i) 1.0 for each  student in average daily membership eligible for special education as a child with
+a disability under ORS 343.035,  which may not exceed 11 percent of the district’s ADM without re-
+view and  approval by the Department of Education. Children with disabilities eligible for special
+education in adult local correctional facilities, as defined in  ORS 169.005, or adult regional
+correctional facilities, as defined in ORS 169.620, may not be included in the  calculation made under
+this sub-subparagraph.
+(ii) 0.5 for each student  in average daily membership eligible for and enrolled in an English
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1453
+SB 401
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+language learner program under ORS 336.079.
+(iii) 0.2  for each student in average daily membership enrolled in a union high school district
+or in an area of  a unified school district where the district is only responsible for educating students
+in grades 9 through 12 in that area.
+(iv) −0.1 for each student in average daily membership enrolled in an elementary district  oper-
+ating kindergarten through grade six  or kindergarten through grade eight or in an area of a unified
+school district where the district is only responsible  for educating students in kindergarten through
+grade eight.
+(v) [ 0.25] 0.5 times [ the sum of the following: ]
+[(I)] the number of students who are in average daily membership and  who are also in poverty
+families, as determined by the Department of Education based on rules  adopted by the State Board
+of Education that incorporate poverty data published by the United States Census  Bureau, student
+data provided by school districts and other data identified by the board[ ;].
+(vi) 0.25 times the sum of the following:
+[(II)] (I) The number of children in foster homes in the district as determined by the  report of
+the Department of Human Services to the United States Department of  Education, “Annual Statis-
+tical Report on Children  in Foster Homes and Children in Families Receiving AFDC Payments in
+Excess of the Poverty Income Level,” or its successor, for October 31 of the year prior to  the year
+of distribution; and
+[(III) ] (II) The number of children in the district in state-recognized facilities for  neglected and
+delinquent children, based on information from the Department of Human Services for October  31
+of the year prior to the year of distribution.
+[(vi)] (vii) The amount determined under ORS 327.077 for each remote small elementary school
+and for each small high school in the district.
+(B) All numbers of children used  for the computation in this paragraph must reflect any district
+consolidations that have occurred since the numbers were compiled.
+(C) The total additional weight that shall be assigned to any student in  average daily member-
+ship in a district, exclusive of students described in subparagraph (A)(v) [ and (vi) ] to (vii)  of this
+paragraph, may not exceed 2.0.
+(2) High cost disabilities grant = the total amount received by a  school district under ORS
+327.348 for providing special education and related services to resident pupils with disabilities.
+(3)(a) Transportation grant equals:
+(A) 70 percent of approved transportation  costs for those school districts ranked below the 80th
+percentile under paragraph (b) of this subsection.
+(B) 80 percent of approved transportation costs for those school districts ranked in or  above the
+80th percentile but below the 90th percentile under paragraph (b) of this subsection.
+(C) 90 percent of approved transportation costs for those school districts ranked in or  above the
+90th percentile under paragraph (b) of this subsection.
+(b) Each fiscal year, the Department of  Education shall rank school districts based on the ap-
+proved transportation  costs per ADM of each school district, ranking the school district with the
+highest approved transportation costs per ADM at the top of the order.
+SECTION 2.
+The amendments to ORS 327.013 by section 1 of this 2025 Act  apply to State
+School Fund distributions commencing with the 2025-2026 distributions.
+SECTION 3.  ORS 286A.801 is amended to read:
+286A.801. (1) The Department  of Education shall administer a grant program that is financed
+[2]
+SB 401
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+with the net proceeds of Article XI-P bonds and  that provides matching fund grants to school dis-
+tricts for capital costs of the school districts.  Any construction, improvement, remodel, equipment,
+maintenance or repair of  a building of a school district that is financed with a grant received under
+this section is not required to meet the standards specified in ORS 286A.810.
+(2) A school district that seeks a grant under this section must prepare and  submit a facilities
+assessment and a long-range facilities plan to the department with the application for the grant.
+(3) A school district is eligible to receive a grant under this section if:
+(a) The school district  complies with the requirements of this section and rules adopted pursuant
+to this section; and
+(b) Moneys are available to the school district pursuant to subsection (6) of this section.
+(4) A school district that receives a  grant under this section must provide matching funds that
+meet or exceed the amount of the grant. The matching  funds must be from general obligation bonds
+approved by the voters of the school district to finance capital costs of the school district.
+(5) Grants  awarded under this section shall be calculated as follows, subject to subsection (8)
+of this section:
+(a) For a school district that provides matching funds in any amount up to $6 million,  a match-
+ing ratio for state to local funds of one to one.
+(b) For a school district  that provides matching funds in any amount greater than $6 million, a
+matching ratio for state to local funds that is based on the funding formula developed  as provided
+in subsection (7)(c) of this  section. Grants awarded under this paragraph shall be for a minimum of
+$6 million per grant and a maximum of $12 million per grant.
+(6)(a) The department shall award grants to school districts as follows:
+(A) Sixty-six percent of funds available for grants shall be based on the priority list  established
+under subsection (7)(b) of this section; and
+(B) Thirty-four percent  of funds available for grants shall be provided to school districts based
+on the order in which the  Department of Education receives the completed applications for the
+grants.
+(b) To the extent that moneys are available, a school  district that receives moneys as provided
+by paragraph  (a)(A) of this subsection also may receive moneys as provided by paragraph (a)(B) of
+this subsection. The total amount the school district receives may not exceed the  maximum amount
+allowed under subsection (5) of this section.
+(7)(a) For the purpose of awarding grants under this  section, the department shall develop a
+priority list and a funding formula that are based on factors that may include:
+(A) The total assessed value of all tangible property located in the school district;
+(B) The percentage of poverty families within the school district, as calculated  under ORS
+327.013 [(1)(c)(A)(v)(I) ] (1)(c)(A)(v) ;
+(C) The number of students in average daily membership for the school district, as calculated
+under ORS 327.061; and
+(D) Other factors adopted by the State Board of Education by rule.
+(b) The priority list developed under this subsection shall be used to rank the order  in which
+school districts may qualify to receive a grant under subsection (6)(a)(A) of this section.
+(c) The funding formula developed under  this subsection shall be used to determine the matching
+ratio for state to local funds. The funding formula must comply with the limits described in  sub-
+section (5) of this section.
+(8) To account for effects of inflation, the State Board of Education shall, by  rule, biennially
+[3]
+SB 401
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+adjust the dollar amounts specified in subsection (5) of  this section based on the Consumer Price
+Index for All Urban Consumers, West Region  (All Items), as published by the Bureau of Labor Sta-
+tistics of the United States Department of Labor.
+(9) The State Board of Education may adopt any rules necessary for the administration of  this
+section.
+SECTION 4.
+ ORS 327.195 is amended to read:
+327.195. (1)(a) Except as provided by paragraph (d) of this subsection, the  amount of a grant
+awarded from the Student Investment Account = the grant recipient’s ADMw ×  (the  total amount
+available for distribution as grants in each biennium ÷ the total ADMw of all grant recipients).
+(b) For  purposes of this subsection and except as provided by paragraph (c) of this subsection,
+ADMw  equals:
+(A) For school districts, the ADMw as calculated under ORS 327.013[ , except that the additional
+amount allowed for students who are in  poverty families, as determined under ORS 327.013
+(1)(c)(A)(v)(I), shall be 0.5 ].
+(B) For an  educational program under the Youth Corrections Education Program or the Juvenile
+Detention Education Program, as provided in ORS 327.026.
+(c) When calculating ADMw  for a school district, the Department of Education shall remove
+from the calculation any amounts that are attributable to:
+(A) A virtual public charter school, as defined in ORS 338.005;
+(B) A public charter school that provided  notice of the public charter school’s intent to apply
+for a grant as an eligible applicant; and
+(C) A public charter school sponsored by, or located within, the school district  that did not
+participate in the grant application or grant agreement.
+(d) The amount of a grant distributed under this  section may be adjusted by the department to
+ensure that:
+(A) A grant recipient does not receive any  moneys for uses that are not allowed uses under ORS
+327.180 (3).
+(B) A school district with an ADMw of 50 or less receives a minimum grant amount.
+(C) Each site of the Youth Corrections Education  Program and the Juvenile Detention Educa-
+tion Program receives a grant amount that is no less than the minimum grant amount provided  to
+a school district under subparagraph (B) of this paragraph.
+(2) The State Board of Education shall adopt any  rules necessary for the distribution of grants
+under this section, including establishing:
+(a) The minimum grant amounts under subsection (1)(d) of this section; and
+(b) Any percentages and timelines for installment  payments and adjustments of those installment
+payments.
+(3) A grant recipient shall deposit the grant moneys the grant recipient  receives under this
+section into a separate account and shall apply  amounts in that account as provided by the grant
+agreement.
+SECTION 5.
+ ORS 327.254, as amended by section 25, chapter 95, Oregon Laws 2024,  is amended
+to read:
+327.254. (1) The Department of Education shall  use moneys in the Statewide Education Initi-
+atives Account to provide funding for statewide education initiatives, including:
+(a) Funding the High School Graduation and College and Career Readiness Act at the levels
+prescribed by ORS 327.856;
+[4]
+SB 401
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Expanding school breakfast and lunch programs;
+(c) Operating youth reengagement programs or providing youth reengagement services;
+(d) Establishing and maintaining  the Statewide School Safety and Prevention System under ORS
+339.341;
+(e) Developing and providing  statewide equity initiatives, including any statewide education plan
+developed and implemented by the department;
+(f) Providing summer learning programs at schools  that are considered high poverty under Title
+I of the federal Elementary and Secondary Education Act of 1965;
+(g) Funding early warning systems to assist students in  graduating from high school, as de-
+scribed in ORS 327.367;
+(h) Developing and implementing professional development programs and  training programs, in-
+cluding programs that increase educator diversity and retain diverse educators;
+(i) Planning for increased transparency and accountability in the public  education system of this
+state;
+(j) Providing additional funding to school  districts participating in the intensive program under
+ORS 327.222;
+(k) Providing technical assistance, including costs incurred for:
+(A) The coaching program described in ORS 327.214; and
+(B) The intensive program described in ORS 327.222, including costs for student success teams;
+(L) Funding public charter schools, as described in ORS 327.362;
+(m) Funding the Early Literacy Success School Grant program, as provided by ORS 327.833;
+(n) Funding the Early Literacy Success  Community Grant program, as established by ORS
+327.843;
+(o) Funding any  additional amounts for approved recovery schools, as provided by rules of the
+State Board of Education adopted under ORS 327.029;
+(p) Funding education service districts, as described in subsection (2) of this section;
+(q) Funding the Youth Corrections Education Program and the  Juvenile Detention Education
+Program through the Juvenile Justice Education Fund established under section 22,  chapter 95,
+Oregon Laws 2024, when necessary as provided by section 23, chapter 95, Oregon Laws 2024; and
+(r) Funding costs incurred by the department in implementing this section  and ORS 327.175 to
+327.235 and 327.274.
+(2)(a) The amount of a distribution to an  education service district under this section shall be
+made as provided by paragraph  (b) of this subsection after calculating the following for each edu-
+cation service district:
+(A) One percent of the  total amount available for distribution to education service districts in
+each biennium.
+(B) The education service district’s ADMw ×  (the  total amount available for distribution to
+education service districts  in each biennium ÷  the total ADMw of all education service districts
+that receive a distribution).
+(b) The  amount of the distribution to an education service district shall be the greater of the
+amounts calculated under  paragraph (a) of this subsection, except that, for distributions made as
+provided by paragraph (a)(B) of this subsection, the  total amount available for distribution to edu-
+cation service districts shall be  the amount remaining after any distributions required under para-
+graph (a)(A) of this subsection have been made.
+(c) For purposes of  this subsection, ADMw equals the ADMw as calculated under ORS
+[5]
+SB 401
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+327.013[, except that the additional amount allowed  for students who are in poverty families, as deter-
+mined under ORS 327.013 (1)(c)(A)(v)(I), shall be 0.5 ].
+(d) An education service district shall use moneys received under this section  as provided by a
+plan developed by the school districts located within the education  service district. A school district
+that declines to participate in the development of the plan or that has withdrawn from an education
+service district as provided by ORS 334.015 is not entitled to any moneys  distributed to the educa-
+tion service district under this subsection.
+(e) A plan developed under this subsection must:
+(A) Align with and support the meeting of performance growth targets established for recipients
+of moneys under ORS 327.195 that are located within the education service district;
+(B) Include the provision, to recipients of moneys under ORS 327.195 that are  located within the
+education  service  district, of technical assistance in developing, implementing and reviewing a plan
+for receiving a grant from the Student Investment Account;
+(C) Provide for coordination with the department in administering and providing  technical as-
+sistance to recipients of  moneys under ORS 327.195 that are located within the education service
+district, including coordinating any coaching programs established under ORS 327.214; and
+(D) Be  adopted and amended as provided for local service plans under ORS 334.175 and approved
+by the department.
+(f) For the purposes of paragraph (e)  of this subsection, recipients of moneys under ORS 327.195
+that are located within the education service district include, as applicable:
+(A) Common school districts and union high school districts;
+(B) Any charter school that is an eligible applicant, as defined in ORS 327.185; and
+(C) The Youth Corrections Education Program or the Juvenile Detention Education Program.
+(g) Each education service district must submit an annual report to the department that:
+(A) Describes how  the education service district spent moneys received under this subsection;
+and
+(B) Includes an evaluation of the education service district’s compliance with the plan  from the
+superintendent of each school district that participated in the development of the plan.
+(3) The  State Board of Education shall adopt rules necessary for the distribution of moneys un-
+der this section.
+SECTION 6.
+ ORS 338.157 is amended to read:
+338.157. For purposes of calculating the weighted average daily membership (ADMw) of a  public
+charter school, it shall  be assumed that the public charter school has the same percentage of chil-
+dren in poverty families,  as calculated under ORS 327.013 [ (1)(c)(A)(v)(I) ] (1)(c)(A)(v) , as the school
+district in which the public charter school is located. Based on this  percentage, an additional
+amount shall be added to the average daily membership (ADM) of the public charter school.
+SECTION 7. This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+July 1, 2025.
+[6]

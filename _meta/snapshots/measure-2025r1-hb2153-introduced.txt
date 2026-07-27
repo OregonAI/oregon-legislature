@@ -1,0 +1,499 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2153
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the  request of Joint Committee on
+Transportation for Oregon Department of Aviation)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would raise and index the tax rate  on fuel used in aircraft with turbine engines.
+(Flesch Readability Score: 85.0).
+Increases the tax on aircraft fuel usable in aircraft  operated by turbine engines and adjusts the
+rate biennially according to any increase in the Consumer Price Index.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to aviation fuel; creating new provisions; amending ORS 319.020,  319.023, 319.330, 319.410,
+835.060 and 836.072;  prescribing an effective date; and providing for revenue raising that re-
+quires approval by a three-fifths majority.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 319.020 is amended to read:
+319.020. (1) Subject to subsections (2) to (4) of this section, in addition to the taxes  otherwise
+provided for by law, every dealer engaging in the dealer’s own name, or in  the name of others, in
+the first  sale, use or distribution of motor vehicle fuel or aircraft fuel or withdrawal of motor vehicle
+fuel or aircraft fuel for  sale, use or distribution within areas in this state within which the state
+lacks the power to tax the sale, use or distribution of motor vehicle fuel or aircraft fuel, shall:
+(a) Not later than the 25th  day of each calendar month, render a statement to the Department
+of Transportation of all motor vehicle fuel or aircraft fuel sold, used, distributed  or so withdrawn
+by the dealer in  the State of Oregon as well as all such fuel sold, used or distributed in this state
+by a purchaser thereof upon which sale, use or distribution the dealer has assumed liability for  the
+applicable license tax during the  preceding calendar month. The dealer shall render the statement
+to the department in the manner provided by the department by rule.
+(b) Except as provided in ORS 319.270, pay a license tax computed on the basis of 34  cents per
+gallon on the first  sale, use or distribution of such motor vehicle fuel or aircraft fuel so sold, used,
+distributed or withdrawn as shown by such statement in the manner and  within the time provided
+in ORS 319.010 to 319.430.
+(2)(a) When aircraft fuel is sold, used  or distributed by a dealer, the license tax shall be com-
+puted on the basis of 11 cents per  gallon of fuel so sold, used or distributed, except that when air-
+craft fuel usable in aircraft operated by turbine engines (turbo-prop or jet) is  sold, used or
+distributed, the tax rate shall be [ three] six cents per gallon.
+(b)(A) On or before July 1 of each odd-numbered year, the license tax rate  for aircraft
+fuel usable in aircraft  operated by turbine engines (turbo-prop or jet) shall be adjusted for
+inflation since 2025 by the percentage increase, if any, in  the Consumer Price Index for All
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 285
+HB 2153
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Urban Consumers, West Region (All  Items), as published by the Bureau of Labor Statistics
+of the United States Department of Labor.
+(B) The license tax rate determined under  subparagraph (A) of this paragraph shall be-
+come operative on the following January 1.
+(3) In lieu of claiming refund of the  tax paid on motor vehicle fuel consumed by such dealer in
+nonhighway use as  provided in ORS 319.280, 319.290 and 319.320, or of any prior erroneous payment
+of license tax  made to the state by such dealer, the dealer may show such motor vehicle fuel as a
+credit or deduction on the monthly statement and payment of tax.
+(4) The license tax computed on the basis of the sale, use, distribution or withdrawal of  motor
+vehicle or aircraft fuel may not be imposed  wherever such tax is prohibited by the Constitution or
+laws of the United States with respect to such tax.
+SECTION 2.
+ ORS 319.330 is amended to read:
+319.330. (1) Whenever any  statement and invoices are presented to the Department of Trans-
+portation showing that motor vehicle fuel or  aircraft fuel has been purchased and used in operating
+aircraft engines and upon which the  full tax for motor vehicle fuel has been paid, the department
+shall refund the tax paid, but only after deducting from the tax paid  11 cents for each gallon of such
+fuel so purchased and  used, except that when such fuel is used in operating aircraft turbine engines
+(turbo-prop or jet) the deduction  shall be [ three cents ] the greater of six cents, or the rate de-
+termined under ORS 319.020 (2)(b),  for each gallon. No deduction provided under this subsection
+shall be made on claims  presented by the United States or on claims presented where a satisfactory
+showing has been made to the department that such aircraft fuel has been used solely in aircraft
+operations from a point within the State of Oregon directly to a point  not within any state of the
+United States. The amount so deducted shall be paid on warrant of the Oregon Department of  Ad-
+ministrative Services to the State Treasurer, who shall credit the amount to  the State Aviation
+Account for the purpose of carrying out the  provisions of the state aviation law. Moneys credited
+to the account under this section are continuously appropriated to the Oregon Department of Avi-
+ation.
+(2) If satisfactory evidence  is presented to the Department of Transportation showing that air-
+craft fuel upon which the tax has been paid has been purchased and used solely  in aircraft oper-
+ations from a point within the State of Oregon directly to a point not within any  state of the United
+States, the department shall refund the tax paid.
+SECTION 3.
+ ORS 319.023, as amended by section 1, chapter 82, Oregon Laws 2024, is  amended
+to read:
+319.023. (1)(a) The following amounts shall be distributed in the manner prescribed  in this sec-
+tion:
+[(a)] (A) Any amount of tax on aircraft fuel usable in aircraft  operated by turbine engines that
+is computed on a basis in excess of [ one cent ] two cents  per gallon and any amount of tax on all
+other aircraft fuel that is computed on a basis in excess of nine cents per gallon,  under ORS 319.020
+(2); and
+[(b)] (B) Any amount of tax on aircraft fuel usable in aircraft  operated by turbine engines in
+excess of [ one cent ] two cents  per gallon and any amount of tax on  all other aircraft fuel in excess
+of nine cents per gallon, that is deducted before the refunding of tax under ORS 319.330 (1).
+(b)(A) On or  before July 1 of each odd-numbered year, the per-gallon rate used to deter-
+mine the excess amount of tax on aircraft fuel usable in aircraft operated by  turbine engines
+under paragraph (a) of this subsection shall be adjusted for  inflation since 2025 by the same
+[2]
+HB 2153
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+percentage increase determined under ORS 319.020 (2)(b).
+(B) The per-gallon rate determined under subparagraph (A) of this  paragraph shall be-
+come operative on the following January 1.
+[(2)(a) Applications for distributions under subsection (5) of this section may not be approved  un-
+less the applicant  demonstrates a commitment to contribute at least five percent of the costs of the
+project to which  the application relates. The Oregon Department of Aviation shall adopt rules for
+purposes of this paragraph. ]
+[(b) The department may adopt rules that: ]
+[(A) Set higher minimum contribution commitment requirements; or ]
+[(B) Establish maximum grant amounts. ]
+[(3)(a) The State Aviation Board shall establish a review committee composed of  one member from
+each of the area commissions on transportation chartered by the Oregon Transportation Commission. ]
+[(b) The review committee shall meet as necessary to review applications for  distributions of
+amounts pursuant to this section. In reviewing applications, the review committee shall consider: ]
+[(A) Whether a proposed project: ]
+[(i) Reduces transportation costs for Oregon businesses or improves access to jobs and sources of
+labor in this state; ]
+[(ii) Results in an economic benefit to this state; ]
+[(iii) Connects elements of Oregon’s aviation system in a way  that will measurably improve utili-
+zation and efficiency of the system; ]
+[(iv) Is ready for construction or implementation; and ]
+[(v) Has a useful life expectancy that offers maximum benefit to this state; and ]
+[(B) How much of the cost of the proposed project can be borne  by the applicant from sources other
+than Oregon Department of Aviation funds or the Connect Oregon Fund. ]
+[(c) The review committee shall recommend applications to  the State Aviation Board for
+approval.]
+[(4)(a)] (2)(a) Five percent of the amounts described in subsection (1)  of this section are appro-
+priated to the  Oregon Department of Aviation for the costs of the department and the State Aviation
+Board in administering this section.
+(b) The remaining 95 percent of the amounts described in subsection (1) of this section shall  be
+distributed pursuant to subsections [ (5) and (6) ] (3) and (4)  of this section.
+[(5)(a)] (3)(a) Seventy-five percent of the amounts described in subsection [ (4)(b)] (2)(b) of  this
+section shall be distributed for the following purposes:
+(A) To assist airports in Oregon with match requirements  for Federal Aviation Administration
+grants.
+(B) To make grants for emergency preparedness and  infrastructure projects, in accordance with
+the Oregon Resilience Plan or the Oregon Aviation Plan.
+(C) To make grants for:
+(i) Services critical or essential to aviation, including, but not  limited to, fuel, sewer, water and
+weather equipment;
+(ii) Aviation-related business development, including, but not limited to, hangars, parking for
+business aircraft and related facilities; or
+(iii) Airport development for local  economic benefit, including, but not limited to, signs and
+marketing.
+(D)(i) To assist commercial air service to rural Oregon.
+[3]
+HB 2153
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(ii) The Oregon Department of Aviation may adopt a definition of “rural Oregon” for purposes
+of this subparagraph.
+(b) The  State Aviation Board may establish by rule priorities for the distributions made pursuant
+to this subsection.
+[(6)] (4) Twenty-five percent of the amounts described in  subsection [ (4)(b)] (2)(b) of this section
+shall be distributed to state-owned airports for the purposes of:
+(a) Safety improvements recommended by the  State Aviation Board and local community air-
+ports.
+(b) Infrastructure projects at public use airports.
+[(7)(a) Not later than  September 15 of each year, the State Aviation Board shall submit the reports
+described in paragraph (b)  of this subsection, in the manner provided in ORS 192.245, to the interim
+committees, as applicable, of the Legislative Assembly related to air transportation. ]
+[(b) The reports required under this subsection shall describe in detail the  projects for which ap-
+plications have been submitted and  approved, the airports affected, the names of the applicants and the
+persons who will perform  the work proposed in the applications, the progress of projects for which
+applications have been approved and any other information the  board considers necessary for a com-
+prehensive analysis of the implementation of this section. ]
+SECTION 4.
+ORS 319.023 and section 5 of this 2025 Act are added to and  made a part of
+ORS 319.010 to 319.430.
+SECTION 5. (1)(a) Applications for distributions under ORS 319.023  (3) may not be ap-
+proved unless the applicant  demonstrates a commitment to contribute at least five percent
+of the costs of the  project to which the application relates. The Oregon Department of Avi-
+ation shall adopt rules for purposes of this paragraph.
+(b) The department may adopt rules that:
+(A) Set higher minimum contribution commitment requirements; or
+(B) Establish maximum grant amounts.
+(2)(a) The State Aviation  Board shall establish a review committee composed of one
+member from each of the area commissions on transportation chartered  by the Oregon
+Transportation Commission.
+(b) The review committee shall meet as necessary to  review applications for distributions
+of amounts pursuant to this section.
+(3) In reviewing applications, the review committee shall consider:
+(a) Whether a proposed project:
+(A) Reduces transportation costs for Oregon businesses or improves access  to jobs and
+sources of labor in this state;
+(B) Results in an economic benefit to this state;
+(C) Connects elements of Oregon’s aviation system in a way that will measurably improve
+utilization and efficiency of the system;
+(D) Is ready for construction or implementation; and
+(E) Has a useful life expectancy that offers maximum benefit to this state; and
+(b) How much of the cost of the proposed project can  be borne by the applicant from
+sources other than Oregon Department of Aviation funds or the Connect Oregon Fund.
+(4) The review committee shall recommend applications to the State Aviation Board for
+approval.
+(5)(a) Not later than September 15 of each year, the State Aviation Board shall  submit
+[4]
+HB 2153
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the reports described in paragraph (b) of this subsection, in the manner  provided in ORS
+192.245, to the interim committees of the Legislative Assembly related to  air transportation.
+(b) The reports required under this subsection shall describe in  detail the projects for
+which applications have been submitted and approved, the airports affected, the names of the
+applicants and the persons  who will perform the work proposed in the applications, the
+progress of projects for which applications have been approved and any other information the
+board considers necessary for a comprehensive analysis  of the implementation of this sec-
+tion.
+SECTION 6.
+ ORS 835.060 is amended to read:
+835.060. (1)(a) The following shall be paid into the State Treasury monthly:
+(A) All fees and other moneys  received by the Oregon Department of Aviation under ORS
+chapter 835, 836 or 837, except moneys received under the provisions of ORS 835.025 and 836.070[ ,
+shall be paid into the State Treasury monthly. ]; and
+(B) Revenue from the license tax imposed under ORS 319.020 (2).
+(b) The State  Treasurer shall credit such payments to the State Aviation Account in the Gen-
+eral Fund.
+(2) Moneys in the account are continuously appropriated to the department for the purpose  of
+carrying out the provisions of this chapter and other provisions of the state aviation laws .
+(3) None of the  funds in this section appropriated or hereafter made available for aviation pur-
+poses shall be expended upon any  aviation project that is not carried out under the supervision and
+direction of the State Aviation Board.
+(4) Fees paid into the account pursuant to ORS 837.045 shall be expended only for  airport
+maintenance and capital construction and for payment of expenses of air search and rescue.
+[(2)] (5) The fiscal officer of the department shall keep a true and accurate account of all sums
+received and all vouchers issued by the department under this section.
+SECTION 7.
+ ORS 319.410 is amended to read:
+319.410. (1) The Department of Transportation shall promptly turn over the license tax to the
+State Treasurer to be disposed of as provided in ORS 802.110.
+(2) The revenue  from the license tax collected from the use, sale or distribution of aircraft fuel
+as imposed by ORS 319.020  (2) shall be transferred upon certification of the department to the State
+Treasurer, who shall credit the certified amount to the State Aviation Account under ORS 835.060
+for the purpose of carrying out the provisions of the state aviation laws.
+SECTION 8.  ORS 836.072 is amended to read:
+836.072. (1) Moneys from the increases in taxes  by the amendments to ORS 319.020 by sections
+1 and 3, chapter 1037, Oregon Laws 1999, shall be  used by the Oregon Department of Aviation to
+establish and fund a program to  maintain and preserve the pavements used for runways, taxiways
+and aircraft parking areas at public use airports in this state.
+(2) Projects for maintenance and preservation of pavements at  public use airports that are
+identified in  the plan developed under ORS 835.015 are eligible for funding under this section. The
+following expenses of projects selected may be funded under this section:
+(a) Construction expenses;
+(b) Engineering expenses; and
+(c) Administrative expenses.
+(3) The Director of the Oregon Department of Aviation shall prepare a list of  recommended
+projects. Factors to be used by the director include, but are not limited to:
+[5]
+HB 2153
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+(a) The age and condition of pavements;
+(b) An airport’s role in the state’s  aviation system, as described by the plan developed under
+ORS 835.015; and
+(c) Local financial participation in projects.
+(4) The  director shall forward the list of recommended projects to the State Aviation Board for
+approval.
+(5) The department  may adopt such rules as it deems necessary for implementation of the airport
+pavement preservation program.
+(6) No more than  [ 55] 77.5 percent of the combined tax revenue from aircraft fuel used or dis-
+tributed by  a dealer and aircraft fuel usable in aircraft operated by turbine engines may be used for
+operating expenses of the department.
+(7) For purposes of this  section, “operating expenses of the department” includes, but is not
+limited to, expenses  for personal services, central business operating services described in ORS
+835.017 (1), supplies and capital outlay.
+SECTION 9.
+(1) The amendments to ORS 319.020 by  section 1 of this 2025 Act apply to
+aircraft fuel usable in aircraft  operated by turbine engines (turbo-prop or jet) that is sold,
+used or distributed on or after January 1, 2026.
+(2) The amendments to ORS 319.330 by section 2 of this 2025 Act apply to  fuel that is
+purchased and used in operating aircraft turbine engines (turbo-prop or jet)  on or after
+January 1, 2026.
+SECTION 10. Section 5 of this 2025 Act and the amendments to ORS 319.023 and 836.072
+by sections 3 and 8 of this 2025 Act become operative on January 1, 2026.
+SECTION 11. This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[6]

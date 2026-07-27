@@ -1,0 +1,1018 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3134
+Sponsored by Representative NOSSE, Senator PATTERSON; Representative PHAM H, Senator  REYNOLDS (Pre-
+session filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act tells insurers, PEBB, OEBB and CCOs  to exempt some health care providers
+from prior authorization in some situations and makes rules about how to do  so. Adds reporting
+rules for these insurers to DCBS and OHA. (Flesch Readability Score: 60.6).
+Creates a process  that exempts certain health care providers from prior authorization require-
+ments under certain circumstances. Requires additional reporting to the  Department of Consumer
+and Business Services and  tells the department to make certain data publicly available. Applies
+these requirements to commercial health insurance, the Public  Employees’ Benefit Board, the
+Oregon Educators Benefit Board and coordinated care organizations.
+A BILL FOR AN ACT
+Relating to prior authorization; creating new provisions; amending  ORS 243.144, 243.877, 414.072,
+677.085, 731.236, 743B.250, 743B.423 and 743B.450; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is  added to and made a part of the Insurance Code.
+SECTION 2. (1) As used in this section, “prior authorization” has the meaning given  that
+term in ORS 743B.001.
+(2) An insurer shall exempt a health care provider from any requirement to obtain  prior
+authorization for the reimbursement of a claim for a health care service covered under  a
+policy or  certificate of health insurance if the insurer has approved 80 percent of the
+provider’s requests for prior authorization for the health care service during the previous
+12-month period, whether in response to an initial request or as a result of an internal appeal
+or an external review. The insurer shall notify the health care provider in  writing of the
+health care service to which  the exemption applies and the duration of the exemption, which
+may be no less than 12 months.
+(3) An insurer may  not require a health care provider to apply for or otherwise request
+an exemption to  qualify for the exemption under subsection (2) of this section. A health care
+provider is entitled to an internal appeal and an external review of an insurer’s  failure to
+provide an exemption.
+(4) An insurer may review and reconsider an exemption granted under subsection (2) of
+this section no more than once in any 12-month period.  An insurer may revoke an exemption
+granted under subsection (2) of  this section or, after 12 months, discontinue the exemption
+only if the insurer:
+(a) Determines that:
+(A) During the previous  three-month period 80 percent of a health care provider’s claims
+for reimbursement of the service did not meet the insurer’s criteria for prior authorization;
+or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3683
+HB 3134
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) The last five of the health care provider’s claims for reimbursement  of the service
+did not meet insurer’s criteria for prior authorization, if  the health care provider filed five
+or fewer claims for reimbursement of the service during the previous three-month period;
+(b) Notifies the health care provider of the determination under paragraph (a) of this
+subsection and provides to the health care provider all of the  information relied upon by the
+insurer in making the determination; and
+(c) Notifies the health care provider, in clear and understandable language,  how to re-
+quest an internal appeal and an external review of this determination.
+(5) An insurer is responsible for the costs associated with an internal appeal or  external
+review pursuant to this section.
+(6) A determination to deny, revoke or discontinue an exemption under this section  must
+be made or reviewed  by an individual who is licensed in this state and authorized to provide
+the service within the scope of the provider’s license.
+(7) An exemption granted under this  section remains in effect until the 30th day after the
+insurer notifies the health care provider of the  determination to revoke the exemption or,
+if the health care provider appealed the decision, until the fifth day  after the revocation is
+upheld on appeal.
+(8) An insurer may not deny or reduce payment  for a health care service exempted from
+prior authorization requirements under this section, including a service  performed or
+supervised by a health care provider other than the provider who ordered the service, unless
+the provider who provides the service:
+(a) Knowingly and materially misrepresented the health care service in the request  for
+payment submitted to the insurer with the intent to deceive or obtain unlawful payment; or
+(b) Failed to perform the health care service to meet professional standards.
+SECTION 3.
+ ORS 743B.250 is amended to read:
+743B.250. All insurers offering a health benefit plan in this state shall:
+(1) Provide to all enrollees directly or in the case of a group policy to the  employer or other
+policyholder for distribution to enrollees, to all applicants, and to prospective  applicants upon re-
+quest, the following information:
+(a) The insurer’s written policy on the rights of enrollees, including the right:
+(A) To participate in decision making regarding the enrollee’s health care.
+(B) To be treated with respect and with  recognition of the enrollee’s dignity and need for pri-
+vacy.
+(C) To have grievances handled in accordance with this section.
+(D) To be provided with the information described in this section.
+(b) An explanation of the procedures described in subsection (2) of this  section for making cov-
+erage determinations and resolving grievances. The explanation  must be culturally and linguistically
+appropriate, as prescribed by the Department of Consumer and Business Services by rule,  and must
+include:
+(A) The procedures for requesting an expedited  response to an internal appeal under subsection
+(2)(d) of this section or for requesting an expedited external  review of an adverse benefit determi-
+nation;
+(B) A statement that if an  insurer does not comply with the decision of an independent review
+organization under ORS 743B.256, the enrollee may sue the insurer under ORS 743B.258;
+(C) The procedure to obtain assistance available from the  insurer, if any, and from the Depart-
+[2]
+HB 3134
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ment of Consumer and Business Services in filing grievances; and
+(D) A description of the process for filing a complaint with the department.
+(c) A summary of  benefits and an explanation of coverage in a form and manner prescribed by
+the department by rule.
+(d) A summary of the insurer’s policies on prescription drugs, including:
+(A) Cost-sharing differentials;
+(B) Restrictions on coverage;
+(C) Prescription drug formularies;
+(D) Procedures by which a provider with prescribing authority  may prescribe clinically appro-
+priate drugs not included on the formulary;
+(E) Procedures for the coverage of clinically appropriate prescription drugs  not included on the
+formulary; and
+(F) A summary of the criteria for determining whether a  drug is experimental or investigational.
+(e) A list of network providers and how the enrollee can obtain current  information about the
+availability of providers and how to access and schedule services  with providers, including clinic
+and hospital networks. The list must be available online and upon request in printed format.
+(f) Notice of the enrollee’s right to select a primary care provider and specialty care  providers.
+(g) How to obtain referrals for specialty care in accordance with ORS 743B.227.
+(h) Restrictions on services obtained outside of the insurer’s network or service area.
+(i) The availability of continuity of care as required by ORS 743B.225.
+(j) Procedures  for accessing after-hours care and emergency services as required by ORS
+743A.012.
+(k) Cost-sharing requirements and other charges to enrollees.
+(L) Procedures, if any, for changing providers.
+(m) Procedures, if any, by which enrollees may  participate in the development of the insurer’s
+corporate policies.
+(n) A summary of how the insurer makes decisions regarding coverage  and payment for treat-
+ment or services, including a  general description of any prior authorization and utilization review
+requirements that affect coverage or payment.
+(o) Disclosure of any risk-sharing  arrangement the insurer has with physicians or other provid-
+ers.
+(p) A summary of  the insurer’s procedures for protecting the confidentiality of medical records
+and other enrollee  information and the requirement under ORS 743B.555 that a carrier or third
+party administrator send communications containing protected health information only  to the
+enrollee who is the subject of the protected health information.
+(q) An explanation of assistance provided to non-English-speaking enrollees.
+(r) Notice of the information available from the department that is filed  by insurers as required
+under ORS 743B.200, 743B.202 and 743B.423.
+(2) Establish procedures, in accordance with requirements adopted  by the department, for mak-
+ing coverage determinations and resolving grievances that provide for all of the following:
+(a) Timely notice of adverse benefit determinations.
+(b) A method for recording all grievances, including the nature of the grievance and  significant
+action  taken.
+(c) Written decisions.
+(d) An expedited response to a request  for an internal appeal that accommodates the clinical
+[3]
+HB 3134
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+urgency of the situation.
+(e) At least one but not more than two levels of internal appeal for group  health benefit plans
+and one level of internal appeal for individual health benefit plans and for any denial of an exception
+to a prescription drug formulary. If an insurer provides:
+(A) Two levels of internal appeal, a person who was involved in the consideration of the initial
+denial or the first level of internal  appeal may not be involved in the second level of internal appeal;
+and
+(B) No more than one level of internal appeal,  a person who was involved in the consideration
+of the initial denial may not be involved in the internal appeal.
+(f)(A) An external review  that meets the requirements of ORS 743B.252, 743B.254 and 743B.255,
+after the enrollee has exhausted internal appeals or  after the enrollee has been deemed to have
+exhausted internal appeals.
+(B) An enrollee shall be deemed to have exhausted internal appeals if an insurer fails to  strictly
+comply with this section and federal requirements for internal appeals.
+(g) The opportunity for the enrollee to receive  continued coverage of an approved and ongoing
+course of treatment under the health benefit plan pending the conclusion of the  internal appeal
+process.
+(h) The opportunity for the enrollee or any authorized  representative chosen by the enrollee to:
+(A) Submit for consideration by the  insurer any written comments, documents, records and other
+materials relating to the adverse benefit determination; and
+(B) Receive from the insurer, upon request and free  of charge, reasonable access to and copies
+of all documents, records and other information relevant to the adverse benefit determination.
+(3) Establish procedures for notifying affected enrollees of:
+(a) A change in or termination of any benefit; and
+(b)(A) The termination of a primary care delivery office or site; and
+(B) Assistance available to enrollees in selecting a new primary care delivery office or site.
+(4) Provide the information described  in subsection (2) of this section and ORS 743B.254 at each
+level of internal appeal to an enrollee  who is notified of an adverse benefit determination or to an
+enrollee who files a grievance.
+(5) Upon the request of an enrollee, applicant or prospective applicant, provide:
+(a) The insurer’s annual report on grievances and internal appeals submitted to the department
+under subsection (8) of this section.
+(b) A description of  the insurer’s efforts, if any, to monitor and improve the quality of health
+services.
+(c) Information about the insurer’s procedures for credentialing network providers.
+(6) In addition to the requirements in ORS 743B.423 and  743B.602, provide, upon the request of
+an enrollee, a written summary of information that the  insurer may consider in its utilization review
+of a particular condition or disease, to the extent the insurer maintains such criteria.  This sub-
+section does not require an insurer to advise an enrollee how  the insurer would cover or treat that
+particular enrollee’s disease or condition. Utilization review criteria that are proprietary  shall be
+subject to oral disclosure only.
+(7) Maintain for a period of at  least six years written records that document all grievances de-
+scribed in ORS 743B.001 (8)(a) and make the written records available for examination by  the de-
+partment or by an enrollee or authorized representative of an  enrollee with respect to a grievance
+made by the enrollee. The written records must include but are not limited to the following:
+[4]
+HB 3134
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Notices and claims associated with each grievance.
+(b) A general description of the reason for the grievance.
+(c) The date the grievance was received by the insurer.
+(d) The date  of the internal appeal or the date of any internal appeal meeting held concerning
+the appeal.
+(e) The result of the internal appeal at each level of appeal.
+(f) The name of the covered person for whom the grievance was submitted.
+(8) Provide to the department, in the format prescribed by  the department, an annual summary
+of the insurer’s aggregate data regarding:
+(a) Grievances;
+(b) Internal appeals;
+(c) Requests for external review; [ and]
+(d) The following information about requests for prior authorization received by the insurer:
+(A) The number of requests  received  and the number of days it took to approve or deny the
+request;
+(B) The number of  requests that were initially denied and the reasons for the denials, including,
+but not  limited to, lack of medical necessity or failure to provide additional clinical information re-
+quested by the insurer;
+(C) The number of requests that were initially approved; and
+(D) The number of denials that were reversed by internal appeals or external reviews[ .];
+(e) The number of  appeals from the revocation or denial of a prior authorization ex-
+emption as described in section 2 of this 2025 Act;
+(f) The number of appeals from the revocation,  denial or discontinuation of prior au-
+thorization exemptions, as described in section 2 of this 2025 Act, that were granted; and
+(g) The time between an appeal from a revocation or denial of a prior authorization  ex-
+emption, as described in section 2 of this 2025 Act, and the approval or denial of the appeal.
+(9) Allow the exercise of any rights described in this section or ORS  743B.252 or 743B.255 by
+an authorized representative.
+(10) Procedures adopted under subsection (2) of this  section for health benefit plans other than
+grandfathered health plans must be consistent  with 42 U.S.C. 300-gg-19 and rules adopted by the
+United States Department of Health and Human Services implementing 42 U.S.C. 300-gg-19.
+(11) An adverse benefit determination under subsection (2)(a) of this section that  is provided to
+an enrollee in a health benefit plan other than a grandfathered health plan must:
+(a) Be provided in a culturally and linguistically appropriate manner;
+(b) Be consistent with federal requirements regarding the manner and content  for notices of
+benefit determinations and federal requirements for the full and fair review of adverse benefit de-
+terminations; and
+(c) Include the information required by subsection (4) of this section and:
+(A) Information sufficient to identify the claim involved, the date  of services, the health care
+provider and, if applicable, the claim amount;
+(B) A statement describing the availability, upon request, of the information described  in sub-
+section (12) of this section;
+(C) The specific  reason for the adverse benefit determination, a reference to the specific plan
+provisions on which the determination is based, the denial code and the meaning  of the denial code
+and a description of the standard that was used to make the determination, if any;
+[5]
+HB 3134
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(D) A description of available internal appeals and  external reviews, including expedited appeals
+and reviews, and instructions on how to initiate an appeal or review; and
+(E) Contact information for the office  of consumer assistance within the Department of Con-
+sumer and Business Services.
+(12) Upon the request of an enrollee,  an insurer that makes an adverse benefit determination
+with respect to the enrollee under a health  benefit plan other than a grandfathered health plan must
+provide the enrollee with the diagnosis code, the meaning of  the diagnosis code, the treatment code
+and the meaning of the treatment code that are associated with the adverse benefit determination.
+(13) An adverse benefit determination issued to an  enrollee following the final level of internal
+appeals by an insurer  under a health benefit plan other than a grandfathered health plan must, in
+addition to the requirements under subsection (11) of this section, include:
+(a) An explanation  and discussion of the decision to uphold the initial adverse benefit determi-
+nation; and
+(b) An authorization form, or other document that complies with state and federal privacy laws
+and is approved by the department, with which an  enrollee that requests an external review under
+ORS 743B.255 may authorize the insurer  and the enrollee’s treating health care provider to disclose
+medical records or other protected health information pertinent to the external review.
+(14) The department shall compile and make publicly available  the information described
+in subsection (8) of this section.
+SECTION 4.
+ ORS 743B.450 is amended to read:
+743B.450. (1) Except as provided in this subsection, when a claim under a health  benefit plan is
+submitted to an insurer by a provider on behalf of an enrollee, the  insurer shall pay a clean claim
+or deny the claim not later than 30 days  after the date on which the insurer receives the claim. If
+an insurer requires additional information before payment of a claim, not  later than 30 days after
+the date on which the insurer receives the claim,  the insurer shall notify the enrollee and the pro-
+vider in writing and give the enrollee and the  provider an explanation of the additional information
+needed to process the claim.  The insurer shall pay a clean claim or deny the claim not later than
+30 days after the date on which the insurer receives the additional information.
+(2) A  contract between an insurer and a provider may not include a provision governing pay-
+ment of claims that limits the rights and remedies  available to a provider under this section and
+ORS 743B.452 or has the  effect of relieving either party of its obligations under this section and
+ORS 743B.452.
+(3) An insurer may  pay a claim using a credit card or electronic funds transfer payment method
+that imposes on the provider a fee or similar charge to process the payment if:
+(a) The insurer notifies the provider, in advance, of the fee or other charges associated with the
+use of the credit card or electronic funds transfer payment method;
+(b) The insurer offers  the provider an alternative payment method that does not impose fees or
+similar charges on the provider; and
+(c) The provider or a  designee of the provider elects to accept a payment of the claim using the
+payment method.
+(4) An insurer shall establish a method of communicating to  providers the procedures and in-
+formation necessary  to complete claim forms. The procedures and information must be reasonably
+accessible to providers.
+(5) This section does not create an assignment of payment to a provider.
+(6) Each insurer shall report to the Director of the  Department of Consumer and Business Ser-
+[6]
+HB 3134
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+vices on its compliance under this section according to requirements established by the director.
+(7) The director shall adopt by rule a definition of “clean claim” and shall consider the definition
+of “clean claim” used by the  federal Department of Health and Human Services for the payment of
+Medicare claims.
+(8) The Department of Consumer and Business Services  shall compile and make publicly
+available the information described in subsection (6) of this section.
+SECTION 5.
+ ORS 731.236 is amended to read:
+731.236. (1) The Director of  the Department of Consumer and Business Services shall enforce the
+provisions of the Insurance Code for the public good,  and shall execute the duties imposed by the
+code.
+(2) The director has the powers and authority expressly conferred  by or reasonably implied from
+the provisions of the Insurance Code.
+(3) The director may conduct such examinations and investigations of  insurance matters, in ad-
+dition to examinations and investigations expressly  authorized, as the director considers proper to
+determine whether any person has violated any provision of the Insurance  Code or to secure infor-
+mation useful in the lawful  administration of any such provision. The cost of such additional exam-
+inations and investigations shall be borne by the state.
+(4) The director may enforce the adjudication  of health insurance benefits and claims in
+this state by actions including but not limited to examining  and investigating health insur-
+ance matters:
+(a) Brought forward by  assignees of insurance benefit rights who file claims with insur-
+ers operating within this state; and
+(b) Arising out of the claims administration activities  of health care clearinghouses op-
+erating within this state.
+[(4)] (5)  The director has such additional powers and duties as may be  provided by other laws
+of this state.
+SECTION 6.  ORS 677.085, as amended by section 122,  chapter 73, Oregon Laws 2024, is
+amended to read:
+677.085. A person is practicing medicine if the person does one or more of the following:
+(1) Advertise, hold out to the public or represent in any  manner that the person is authorized
+to practice medicine in this state.
+(2) For compensation directly or indirectly received or to be received, offer  or undertake to
+prescribe, give or administer any drug or medicine for the use of any other person.
+(3) Offer or undertake to perform any surgical operation upon any person.
+(4) Offer or undertake to diagnose, cure or treat in any manner, or by  any means, methods, de-
+vices or instrumentalities, any disease, illness, pain, wound,  fracture, infirmity, deformity, defect or
+abnormal physical or mental condition of any person.
+(5) Except as provided in ORS 677.060, append  the letters “M.D.,” “D.O.” or “P.A.” to the
+person’s name, or use the words “Doctor,”  “Physician,” “Surgeon,” “Physician Associate,” or any
+abbreviation or combination thereof, or any letters or words of similar import  in connection with
+the person’s name, or any  trade name in which the person is interested, in the conduct of any oc-
+cupation or profession pertaining to the diagnosis or treatment of  human diseases or conditions
+mentioned in this section.
+(6) Render a determination of medical necessity  or a decision affecting the diagnosis or
+treatment of a patient, including but not limited to participating in a  utilization review on
+[7]
+HB 3134
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+behalf of an insurer.
+SECTION 7.
+ ORS 743B.423 is amended to read:
+743B.423. (1) All insurers offering a health  benefit plan in this state that provide utilization re-
+view or have utilization review provided on their behalf shall  file an annual summary with the De-
+partment of Consumer and Business Services that describes all  utilization review policies, including
+delegated utilization review functions, and documents the insurer’s  procedures for monitoring of
+utilization review activities.
+(2) All utilization review activities conducted  pursuant to subsection (1) of this section shall
+comply with the following:
+(a) In addition to the requirements of ORS 743B.602, in establishing utilization  review, the
+insurer must use clinical review criteria that are evidence-based and continuously updated  based
+on new evidence and research, and take into account new developments in treatment.
+(b) The insurer must adjudicate claims for reimbursement  in accordance with ORS 743B.450
+based on the information submitted  by the provider and may not require the provider to resubmit
+the information.
+(c) The criteria and the process used in the utilization  review and the method of development
+of the criteria must be made available for review to contracting providers.
+(d) The insurer must have a website where:
+(A) The following information is clearly posted:
+(i) All requirements for requesting coverage of a treatment, drug, device or diagnostic  or labo-
+ratory test that is subject to utilization review, including the specific documentation  required for a
+request to be considered complete.
+(ii) A list of the specific treatments, drugs, devices or  diagnostic or laboratory tests that are
+subject to utilization review.
+(B) A provider can make a secure electronic submission, meeting industry  standards for privacy,
+of a request for coverage of a treatment, drug, device  or diagnostic or laboratory test that is subject
+to utilization review, along with needed forms and documents, and receive an  electronic acknowl-
+edgement of receipt of the request.
+(e) If the insurer deems as incomplete a request made for coverage of a treatment,  drug, device
+or diagnostic or laboratory test that is subject to utilization review, the insurer  must inform the
+provider of the specific information needed for the request to be considered complete.
+(f) The insurer must use  a physician licensed under ORS 677.100 to 677.228 to make all final
+recommendations regarding coverage  of a treatment, drug, device or diagnostic or laboratory test
+that is subject to utilization review and to consult as needed.
+(g) The insurer must give a provider notice in writing of a denial of a request for coverage  of
+a treatment, drug, device or diagnostic or laboratory test that is subject to utilization  review. The
+notice must be written  in plain language, be understandable to providers and patients, and include
+the specific reason for the denial  based on evidence-based, peer-reviewed literature. If the denial is
+based on terms in a policy or certificate of insurance, the denial must cite  the specific language in
+the policy or certificate.
+(h) The insurer must make available to  any provider who has had a request for treatment or
+payment for services  denied as not medically necessary or as experimental shall be provided an
+opportunity for a timely appeal before an appropriate medical consultant  or peer review committee.
+(i) Except as provided in paragraph (j) of this  subsection, an insurer must issue a determination
+on a provider’s or an enrollee’s request for  coverage of a nonemergency treatment, drug, device or
+[8]
+HB 3134
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+diagnostic or laboratory test that is subject to utilization review  within a reasonable period of time
+appropriate to the medical  circumstances but no later than two business days after receipt of the
+request, and qualified health care personnel must be available for same-day telephone  responses to
+inquiries concerning certification of continued length of stay.
+(j) If the insurer requires additional  information from an enrollee or a provider to make a de-
+termination on a request for coverage of a treatment, drug, device  or diagnostic or laboratory test
+that is subject to utilization review, no later than two business days after receipt  of the request, the
+insurer shall notify the enrollee and the provider in writing of the additional  information needed to
+make the determination. The insurer shall issue the determination by the later of:
+(A) Two business days after receipt of a response from the provider or enrollee to the request
+for additional information; or
+(B) Fifteen days after the date of the request for additional information.
+(k) If a change in a drug formulary or other change in coverage impacts the coverage of  any
+enrollee’s treatment plan and the enrollee has been stabilized on the treatment  plan for at least 90
+days, the insurer must continue to provide  coverage of the treatment until utilization review and
+all internal appeals and external reviews are completed.
+(L) The insurer may not alter utilization  review requirements, or initiate or implement new
+utilization review  requirements, without giving a 60-day advance notice to all participating provid-
+ers.
+(m) In addition to the requirements of ORS  743B.420, an approved request for coverage of a
+treatment, other than a prescription drug, shall be binding on the insurer for a period ending  on the
+later of the following:
+(A) The reasonable duration of the treatment based on clinical standards; or
+(B) [ Sixty days ] Twelve months  after the date that the  treatment begins following approval of
+prior authorization.
+(n) Except as provided in paragraph (o) of this subsection, an  approved request for coverage of
+a prescription drug shall be binding on the insurer for one year from the  date that the treatment
+begins following approval of the request [ if the drug: ]
+[(A) Is prescribed as a maintenance therapy  that is expected to last at least 12 months based on
+medical or scientific evidence; ]
+[(B) Continues to be prescribed throughout the 12-month period; and ]
+[(C)(i) Is prescribed for a condition that is  within the scope of use for the drug as approved by the
+United States Food and Drug Administration; or ]
+[(ii) Has been proven to be a safe and effective form of  treatment for the enrollee’s medical condi-
+tion based on clinical practice guidelines developed from peer-reviewed medical literature ].
+(o) Paragraph (n) of this subsection does not apply if:
+(A) A therapeutic equivalent  of the prescription drug or a generic alternative to the prescription
+drug is or becomes available as a substitute for the drug for which prior authorization  is requested
+or was approved; or
+(B) A biologic product is or becomes available that is determined by the  United States Food and
+Drug Administration to be interchangeable with the  drug for which prior authorization is requested
+or approved.
+(p) Notwithstanding paragraphs (m), (n) and (o) of  this subsection, an approved request
+for coverage for a prescription drug or treatment of  a degenerative disease or condition shall
+be binding on the insurer until either the disease or condition is cured  or the death of the
+[9]
+HB 3134
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+patient occurs.
+[(p)] (q) Paragraphs (k), (m) and (n) of this subsection do not  require an insurer to reimburse the
+cost of care for a patient who is no longer enrolled in the health benefit plan offered  by the insurer.
+SECTION 8.
+ ORS 243.144, as amended by section 9, chapter 17, Oregon Laws 2024, is  amended
+to read:
+243.144. Benefit  plans offered by the Public Employees’ Benefit Board that reimburse the cost
+of medical and other health  services and supplies must comply with the requirements for health
+benefit plan coverage described in:
+(1) ORS 743A.058;
+(2) ORS 743A.140;
+(3) ORS 743A.141;
+(4) ORS 743B.256;
+(5) ORS 743B.287 (4);
+(6) ORS 743B.420;
+(7) ORS 743B.423;
+(8) ORS 743B.601;
+(9) ORS 743B.602;
+[(9)] (10) ORS 743B.810;
+[(10)] (11) ORS 743A.325; [ and]
+[(11)] (12) ORS 743A.051 (2)(c)[ .];
+(13) 743B.250; and
+(14) Section 2 of this 2025 Act.
+SECTION 9.
+ ORS 243.144, as amended by sections 9 and 10, chapter 17, Oregon Laws  2024, is
+amended to read:
+243.144. Benefit plans offered by the Public Employees’ Benefit Board that reimburse the  cost
+of medical and other health services and supplies must comply with  the requirements for health
+benefit plan coverage described in:
+(1) ORS 743A.058;
+(2) ORS 743A.140;
+(3) ORS 743A.141;
+(4) ORS 743B.256;
+(5) ORS 743B.287 (4);
+(6) ORS 743B.420;
+(7) ORS 743B.423;
+(8) ORS 743B.601;
+(9) ORS 743B.602;
+[(9)] (10) ORS 743B.810; [ and]
+[(10)] (11) ORS 743A.325[ .];
+(12) ORS 743B.250; and
+(13) Section 2 of this 2025 Act.
+SECTION 10.
+ ORS 243.877, as amended by  section 11, chapter 17, Oregon Laws 2024, is
+amended to read:
+243.877. Benefit  plans offered by the Oregon Educators Benefit Board that reimburse the cost
+of medical and other health  services and supplies must comply with the requirements for health
+benefit plan coverage described in:
+[10]
+HB 3134
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(1) ORS 743A.058;
+(2) ORS 743A.140;
+(3) ORS 743A.141;
+(4) ORS 743B.256;
+(5) ORS 743B.287 (4);
+(6) ORS 743B.420;
+(7) ORS 743B.423;
+(8) ORS 743B.601;
+(9) ORS 743B.602;
+[(9)] (10) ORS 743B.810;
+[(10)] (11) ORS 743A.325; [ and]
+[(11)] (12) ORS 743A.051 (2)(c)[ .];
+(13) ORS 743B.250; and
+(14) Section 2 of this 2025 Act.
+SECTION 11.
+ ORS 243.877, as  amended by sections 11 and 12, chapter 17, Oregon Laws 2024,
+is amended to read:
+243.877. Benefit plans offered by the Oregon Educators Benefit Board that reimburse the  cost
+of medical and other health services and supplies must comply with  the requirements for health
+benefit plan coverage described in:
+(1) ORS 743A.058;
+(2) ORS 743A.140;
+(3) ORS 743A.141;
+(4) ORS 743B.256;
+(5) ORS 743B.287 (4);
+(6) ORS 743B.420;
+(7) ORS 743B.423;
+(8) ORS 743B.601;
+(9) ORS 743B.602;
+[(9)] (10) ORS 743B.810; [ and]
+[(10)] (11) ORS 743A.325[ .];
+(12) ORS 743B.250; and
+(13) Section 2 of this 2025 Act.
+SECTION 12.
+ ORS 414.072 is amended to read:
+414.072. (1) As used in this section[ ,]:
+(a) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(b) “Prior authorization” has the meaning given the term in ORS 743B.001.
+(2) The Oregon  Health Authority shall compile and annually post to the authority’s website a
+report of the following information, in the aggregate, that  was reported to the authority by coordi-
+nated care organizations regarding  requests for prior authorization received by coordinated care
+organizations or risk-bearing entities acting for or in concert with coordinated care organizations:
+(a) The number of requests received;
+(b) The number of requests that were initially denied  and the reasons for the denials, including,
+but not limited to, lack of medical necessity or incomplete requests; [ and]
+(c) The number of denials that were reversed on an appeal[ .]; and
+(d) The number of days it took to approve or deny a request.
+[11]
+HB 3134
+1
+2
+3
+4
+5
+6
+(3) Notwithstanding ORS  414.325, coordinated care organizations or risk-bearing entities
+acting for or in concert with coordinated care organizations  shall comply with the prior au-
+thorization exemption requirements described in section 2 of this 2025 Act.
+SECTION 13.
+This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[12]

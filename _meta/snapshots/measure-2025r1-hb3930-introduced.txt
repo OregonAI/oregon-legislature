@@ -1,0 +1,537 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3930
+Sponsored by Representatives SCHARF, DRAZAN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that certain public officials may take  donations for certain emergency
+costs. The Act tells the  SOS to post certain documents on the Internet. (Flesch Readability Score:
+60.2).
+Permits a public official to establish a specific purpose account for purposes of expending  do-
+nations of funds to the account for specified emergency expenses.  Requires the public official to
+submit certain notices and reports to  the Secretary of State regarding donations to and expenditures
+from the account. Requires the Secretary of State to make any notice or report filed  with the sec-
+retary for a special purpose account available to the public  on the electronic filing system main-
+tained by the secretary.
+A BILL FOR AN ACT
+Relating to the establishment of specific  purpose accounts by public officials; creating new pro-
+visions; and amending ORS 260.057 and 260.995.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a)(A) “Emergency expenses” means expenses related to  an emergency involving the
+public official or a relative of the public official.
+(B) “Emergency expenses” includes expenses for medical purposes, death and disasters.
+(b) “Lobbying” has the meaning given that term in ORS 171.725.
+(c) “Lobbyist” has the meaning given that term in ORS 171.725.
+(d) “Public official” means any individual who is  serving this state or any of its political
+subdivisions as an elected official.
+(e) “Relative” has the meaning given that term in ORS 244.020.
+(f) “Specific purpose  account” means an account established under this section for pur-
+poses of accepting donations of funds to be expended for emergency expenses.
+(2) Notwithstanding ORS chapters 244 and 260, a public official may establish a specific
+purpose account in accordance with this  section for purposes of accepting donations to the
+account to be expended by the public official for emergency expenses.
+(3) A public official who establishes a specific purpose account shall:
+(a) Provide written notice to the Secretary of State prior to establishing the account;
+(b) Accept any donation of funds to the account for not more than 30 days  following the
+establishment of the account;
+(c) Expend any funds donated to the account solely for the emergency  expenses included
+in the notice under subsection (4) of this section;
+(d) Expend any funds donated to the account not more  than 180 days from the final day
+donations may be accepted to the account under paragraph (b) of this subsection; and
+(e) Not more than 365 days following the date on which notice was provided to the  Sec-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4635
+HB 3930
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+retary of State under paragraph (a) of this subsection, submit a report to  the secretary re-
+garding the amount of any donation of funds  to the account and any expenditure of funds
+made from the account.
+(4) A notice provided to the Secretary of State under subsection (3)(a) of  this section
+must include a description of the emergency expenses that are the  subject of the specific
+purpose account and the total amount of donations  of funds to the account that the public
+official intends to accept.
+(5) The report submitted to the Secretary of State  under subsection (3)(e) of this section
+must include:
+(a) The name of any individual making a donation of funds, regardless  of whether that
+individual is designated as anonymous on  any website that the public official uses for pur-
+poses of establishing the specific purpose account;
+(b) The address of the individual making the donation;
+(c) The date of the donation;
+(d) The amount of the donation; and
+(e) The amount and purpose of any expenditure of funds from the  account. The public
+official shall provide a copy of any  receipt for an expenditure of funds included under this
+paragraph.
+(6)(a) An individual who  is a lobbyist and who engages in lobbying a public official who
+establishes a  specific purpose account under this section may not donate funds to that ac-
+count.
+(b) A public official who establishes a specific purpose account under this section  may
+not accept a donation of funds from an  individual who is a lobbyist and who engages in lob-
+bying the public official.
+(7) A donation  of funds to a specific purpose account established under this section is
+excluded in  computing subtractions or deductions for purposes of ORS chapter 316, 317 or
+318.
+(8) A violation of  any provision of this section is subject to a civil penalty under ORS
+260.995.
+SECTION 2.
+ ORS 260.057 is amended to read:
+260.057. (1) The Secretary of State by rule shall  adopt an electronic filing system to be used by:
+(a) All candidates and political committees to file with the secretary statements  of contributions
+received and expenditures made by the candidates and political committees, as described  in ORS
+260.083.
+(b) Treasurers of petition  committees organized under ORS 260.118 to file with the secretary
+statements of contributions received and expenditures made by the  treasurers or chief petitioners
+as described in ORS 260.083.
+(c) Persons  who make independent expenditures as provided in ORS 260.044 to file with the
+secretary statements of independent expenditures made by the persons  as described in ORS 260.083.
+(d) Public officials who establish a specific purpose account under  section 1 of this 2025
+Act.
+(2) Except as otherwise provided in this section, a candidate or political  committee shall file a
+statement of contributions received  and expenditures made described in subsection (1)(a) of this
+section not later than 30 calendar days after a contribution is received or an expenditure is made.
+(3)(a) A candidate for nomination or election at any  primary or general election or a political
+[2]
+HB 3930
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+committee supporting or opposing  a candidate or measure at any primary or general election shall
+file a statement described in  subsection (1)(a) of this section not later than seven calendar days after
+a contribution is received or an expenditure is made. This paragraph applies to  contributions re-
+ceived and expenditures made:
+(A) During the period beginning on the 42nd calendar day before the date  of any primary
+election and ending on the date of the primary election; and
+(B) During the period beginning on the 42nd calendar day before  the date of any general
+election and ending on the date of the general election.
+(b) For any special election, the secretary by rule  may establish a period during which a can-
+didate for  nomination or election at the special election or a political committee supporting or op-
+posing a candidate or  measure at the special election must file a statement described in subsection
+(1) of this section not later than seven calendar days after a contribution is received or an  expend-
+iture is made.
+(c) If the candidate or political committee receives a contribution  or makes an expenditure prior
+to the 42nd calendar day before the date of the primary or general election and the candidate  or
+political  committee  has not filed a statement of the contribution or expenditure under subsection (2)
+of this section by the 43rd  calendar day before the date of the primary or general election, the
+candidate or political committee shall file a statement described in subsection (1)(a)  of this section
+not later than whichever of the following dates occurs first:
+(A) The date required under subsection (2) of this section; or
+(B) The 35th calendar day before the date of the primary or general election.
+(4) The electronic filing system shall be provided free of charge by the secretary and shall:
+(a) Accept electronic files that conform to the format prescribed by the secretary by rule; or
+(b) Be compatible with any  other electronic filing application provided or approved by the sec-
+retary.
+(5)(a) Except as provided in paragraph (b) of this subsection, the secretary shall make all data
+filed electronically  under subsection (1)(a) of this section , any  [ and all ] information filed with the
+secretary under ORS 260.049  or 260.085  and any written notice provided or report submitted
+under section 1 of  this 2025 Act  available on the Internet to the public free of charge according
+to a schedule adopted by the secretary  by rule. The secretary shall make the data available in a
+searchable database that is easily accessible by the public. When the secretary makes data or in-
+formation available on the Internet under this subsection, the secretary  shall display any contribu-
+tion received from a person or political committee with an out-of-state address in a different  colored
+font than a contribution received from a person or political committee with an in-state address.
+(b) The secretary may not make data that are filed electronically  under subsection (1)(a) of this
+section available to the public under this section, unless the data are required to  be listed under
+ORS 260.083. The secretary may not disclose under ORS 192.311 to 192.478 any data that are filed
+electronically under subsection (1)(a) of this section, unless the data  are required to be listed under
+ORS 260.083.
+(6) Each statement required by this section shall be  signed and certified as true by the candi-
+date, treasurer, designee of the candidate or treasurer or person who files a statement of independ-
+ent expenditures under  ORS 260.044, as appropriate. Signatures shall be supplied in the manner
+specified by the secretary by rule.
+(7) This section does not apply to:
+(a) Candidates for federal office;
+[3]
+HB 3930
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Candidates who are not required to file a statement of organization under ORS 260.043; or
+(c) Candidates, political committees or petition committees that  file certificates under ORS
+260.112.
+SECTION 3.
+ ORS 260.995 is amended to read:
+260.995. (1) Except as provided in subsection (2) of this section, following an investigation under
+ORS 260.345, the Secretary of State or Attorney General may impose a civil penalty  not to exceed
+$1,000 for each violation of any  provision of Oregon Revised Statutes relating to the conduct of any
+election, any rule adopted by the secretary  under ORS chapters 246 to 260 or any other matter
+preliminary to or relating to an election, for which a civil penalty is not  otherwise provided , or any
+violation of section 1 of this 2025 Act .
+(2) The secretary or the Attorney General may impose a civil penalty not to exceed:
+(a)(A) Except as provided in subparagraph (B) of this paragraph, $1,000  plus the amount con-
+verted to personal use for each violation of ORS 260.407;
+(B) Two times the amount of the penalty provision for  violating a nondisclosure agreement that
+is contained within  each nondisclosure agreement entered into in violation of ORS 260.407 or
+260.413;
+(b) 150 percent of the total cost of printing,  transmitting or distributing a communication in
+support of or in opposition to a clearly identified candidate if the  disclosure requirements set forth
+in ORS 260.266 are not met; or
+(c) $10,000 for each violation of ORS 260.555, 260.558, 260.575, 260.695 (1) or (2) or 260.715  (1)
+or Article IV, section 1b, of the Oregon Constitution.
+(3) Except as otherwise provided by this section, civil penalties under this section shall be im-
+posed as provided in ORS 183.745. In addition to the requirements of  ORS 183.745, the notice shall
+include:
+(a) A statement of the authority and jurisdiction under which the hearing is to be held; and
+(b) If the person  is an agency, corporation or an unincorporated association, a statement that
+such person must be represented by an attorney licensed in Oregon, unless  the person is a political
+committee  which  may be represented by any officer identified in the most recent statement of or-
+ganization filed with the filing officer.
+(4) A hearing on whether to impose a civil penalty and to consider circumstances  in mitigation
+shall be held by the secretary or Attorney General:
+(a) Upon request of the person against whom  the penalty may be assessed, if the request is made
+not later than the 20th day after the service  date on the notice sent under subsection (3) of this
+section; or
+(b) Upon the secretary’s or Attorney General’s own motion.
+(5) The person against whom a penalty may be assessed need  not appear in person at a hearing
+held under this section, but instead  may submit written testimony or other evidence, sworn to before
+a notary public, to the secretary or Attorney General for  entry in the hearing record. The testimony
+or other evidence must be received by the secretary or Attorney General not  later than three
+business days before the day of the hearing and may be submitted electronically.
+(6) All hearings under this section shall be held not later than 45 days after  the deadline for the
+person against  whom the penalty may be assessed to request a hearing. However, if requested by
+the person against whom the penalty may be assessed, a hearing under subsection (4) of this section
+shall be held not  later than 60 days after the deadline for the person against whom the penalty may
+be assessed to request a hearing.
+[4]
+HB 3930
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(7) The secretary  or Attorney General shall issue an order not later than 90 days after a hearing
+or after the deadline for requesting a hearing if no hearing is held.
+(8) All penalties recovered under this  section shall be paid into the State Treasury and credited
+to the General Fund.
+(9) In the case of a civil penalty imposed under this section for  a violation of ORS 260.407, the
+person against whom the penalty is assessed:
+(a) Is personally responsible for the payment of the civil penalty;
+(b) Shall pay the civil penalty from personal funds of the person; and
+(c) May not pay the civil penalty from contributions received  by a candidate, a candidate’s
+principal campaign committee, a political committee or a petition committee.
+SECTION 4.
+ ORS 260.995, as amended by section 20, chapter 9, Oregon Laws 2024, is  amended
+to read:
+260.995. (1) Except as provided in subsections (2) to  (4) of this section, following an investigation
+under ORS 260.345, the Secretary of State or Attorney General may impose a  civil penalty not to
+exceed $1,000 for each violation of any provision of Oregon Revised Statutes relating to  the conduct
+of any election, any rule adopted by  the secretary under ORS chapters 246 to 260 or any other
+matter preliminary to or relating to  an election, for which a civil penalty is not otherwise
+provided , or any violation of section 1 of this 2025 Act .
+(2) The secretary or the Attorney General may impose a civil penalty not to exceed:
+(a)(A) Except as provided in  subparagraph (B) of this paragraph, $1,000 plus the amount con-
+verted to personal use for each violation of ORS 260.407; or
+(B) Two times the amount of the penalty provision for  violating a nondisclosure agreement that
+is contained within each nondisclosure agreement entered into in violation of ORS  260.407 or
+260.413;
+(b) 150 percent of the total cost  of printing, transmitting or distributing a communication in
+support of or in opposition  to a clearly identified candidate if the disclosure requirements set forth
+in ORS 260.266 are not met; or
+(c) $10,000 for each violation of ORS 260.555, 260.558, 260.575, 260.695 (1) or (2) or 260.715 (1)
+or Article IV, section 1b, of the Oregon Constitution.
+(3)(a) Except as provided in paragraphs (b) and (c)  of this subsection, the Secretary of State or
+the Attorney General  may impose a civil penalty on the recipient of a contribution that exceeds the
+limits of section 4 or 5, chapter 9,  Oregon Laws 2024. The amount of the civil penalty to be imposed
+shall be at least equal to the amount of the unlawful contribution.
+(b) The recipient of a contribution that violates the contribution limits of  section 4 or 5, chapter
+9, Oregon Laws 2024, may  remedy the violation by refunding to the contributor an amount that
+renders the contribution in compliance with applicable contribution  limits under section 4 or 5,
+chapter 9, Oregon Laws 2024. For this paragraph to apply, the refund must be made to the contrib-
+utor within 14 days of receipt of the unlawful contribution.
+(c) If paragraph (b) of this subsection does not apply, the recipient of a contribution that violates
+the contribution limits of section 4 or 5, chapter 9, Oregon Laws 2024, may reduce the penalty oth-
+erwise applicable under this subsection by 50 percent, if the recipient  refunds to the contributor an
+amount that renders the contribution  in compliance with section 4 or 5, chapter 9, Oregon Laws
+2024, within 14 days of the date the recipient reasonably should have known that  the violation oc-
+curred.
+(d) The  Secretary of State shall adopt rules under this subsection establishing enhanced penal-
+[5]
+HB 3930
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ties for successive knowing and willful  violations of the contribution limit provisions of section 4
+or 5, chapter 9, Oregon Laws 2024.
+(4)(a) The Secretary of State or  the Attorney General may impose a civil penalty on a person
+subject to the reporting requirements of section 13, chapter  9, Oregon Laws 2024, and that is vio-
+lating those requirements.  The penalty to be imposed shall be not less than one-tenth of, nor more
+than four times,  the total amount of contribution or expenditure that was not properly disclosed or
+disclaimed.
+(b) The  Secretary of State shall adopt rules under this subsection establishing enhanced penal-
+ties for successive knowing and willful violations of the disclosure provisions of section 13,  chapter
+9, Oregon Laws 2024.
+(5) Except as otherwise provided by this section, civil penalties under this section shall be im-
+posed as provided in ORS 183.745.  In addition to the requirements of ORS 183.745, the notice shall
+include:
+(a) A statement of the authority and jurisdiction under which the hearing is to be held; and
+(b) If the person is an agency, corporation or an unincorporated association,  a statement that
+such person must be represented by an attorney licensed in Oregon, unless  the person is a political
+committee which may be represented by any officer identified in the most recent statement of  or-
+ganization filed with the filing officer.
+(6) A hearing  on whether to impose a civil penalty and to consider circumstances in mitigation
+shall be held by the secretary or Attorney General:
+(a) Upon request of the person against whom  the penalty may be assessed, if the request is made
+not later than the 20th day after the service date on  the notice sent under subsection (5) of this
+section; or
+(b) Upon the secretary’s or Attorney General’s own motion.
+(7) The person against whom a penalty may be assessed need  not appear in person at a hearing
+held under this section, but instead  may submit written testimony or other evidence, sworn to before
+a notary public, to the secretary or Attorney General for  entry in the hearing record. The testimony
+or other evidence must  be received by the secretary or Attorney General not later than three
+business days before the day of the hearing and may be submitted electronically.
+(8) All hearings under this section shall be held not later than 45 days after  the deadline for the
+person against whom the penalty may be assessed to request a hearing. However, if requested  by
+the person against whom the penalty may be assessed, a hearing under subsection (6) of this section
+shall be held not  later than 60 days after the deadline for the person against whom the penalty may
+be assessed to request a hearing.
+(9) The secretary  or Attorney General shall issue an order not later than 90 days after a hearing
+or after the deadline for requesting a hearing if no hearing is held.
+(10) All penalties recovered under  this section shall be paid into the State Treasury and credited
+to the General Fund.
+(11) In the case of a civil penalty imposed  under this section for a violation of ORS 260.407, the
+person against whom the penalty is assessed:
+(a) Is personally responsible for the payment of the civil penalty;
+(b) Shall pay the civil penalty from personal funds of the person; and
+(c) May not pay the civil penalty from contributions received  by a candidate, a candidate’s
+principal campaign committee, a political committee or a petition committee.
+[6]

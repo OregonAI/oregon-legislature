@@ -1,0 +1,2851 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2708
+title: 'HB 2708 (2025R1): Transfers duties, functions and powers related to administering the federal
+  Workforce Innovation and Opportunity Act and workforce development matters from the Higher Education
+  Coordinating Commission to the Bureau of Labor and Industries.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2708
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2708/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: c62c32a29a00bf0eb0df505c05e75d06618f1203ca24b0bf4a01b6bbafecbe88
+snapshot_id: measure-2025r1-hb2708-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.109
+  - ORS 182.462
+  - ORS 182.472
+  - ORS 183.310
+  - ORS 192.245
+  - ORS 238.005
+  - ORS 238.095
+  - ORS 238.250
+  - ORS 238.260
+  - ORS 238A.100
+  - ORS 238A.115
+  - ORS 238A.220
+  - ORS 238A.350
+  - ORS 238A.353
+  - ORS 255.305
+  - ORS 279C.800
+  - ORS 285A.516
+  - ORS 285A.519
+  - ORS 285A.522
+  - ORS 286A.830
+  - ORS 291.232
+  - ORS 292.495
+  - ORS 293.640
+  - ORS 294.305
+  - ORS 294.311
+  - ORS 294.338
+  - ORS 294.388
+  - ORS 294.393
+  - ORS 294.438
+  - ORS 294.453
+  - ORS 294.456
+  - ORS 294.463
+  - ORS 294.466
+  - ORS 294.471
+  - ORS 294.473
+  - ORS 294.476
+  - ORS 294.478
+  - ORS 310.055
+  - ORS 310.060
+  - ORS 341.005
+  - ORS 341.013
+  - ORS 341.015
+  - ORS 341.019
+  - ORS 341.021
+  - ORS 341.022
+  - ORS 341.024
+  - ORS 341.025
+  - ORS 341.039
+  - ORS 341.076
+  - ORS 341.085
+  - ORS 341.102
+  - ORS 341.105
+  - ORS 341.315
+  - ORS 341.440
+  - ORS 341.446
+  - ORS 341.455
+  - ORS 341.487
+  - ORS 341.526
+  - ORS 341.551
+  - ORS 341.565
+  - ORS 341.569
+  - ORS 341.620
+  - ORS 341.626
+  - ORS 341.655
+  - ORS 341.665
+  - ORS 341.670
+  - ORS 341.675
+  - ORS 341.933
+  - ORS 344.070
+  - ORS 344.080
+  - ORS 344.090
+  - ORS 344.125
+  - ORS 344.415
+  - ORS 345.010
+  - ORS 345.325
+  - ORS 348.180
+  - ORS 350.014
+  - ORS 350.018
+  - ORS 350.075
+  - ORS 350.090
+  - ORS 350.095
+  - ORS 350.150
+  - ORS 350.155
+  - ORS 350.160
+  - ORS 350.165
+  - ORS 350.170
+  - ORS 350.175
+  - ORS 350.350
+  - ORS 350.432
+  - ORS 352.002
+  - ORS 353.606
+  - ORS 408.506
+  - ORS 411.806
+  - ORS 412.001
+  - ORS 413.600
+  - ORS 414.025
+  - ORS 414.665
+  - ORS 417.799
+  - ORS 418.650
+  - ORS 418.653
+  - ORS 418.657
+  - ORS 418.658
+  - ORS 418.660
+  - ORS 421.084
+  - ORS 433.235
+  - ORS 476.694
+  - ORS 476.696
+  - ORS 476.698
+  - ORS 477.503
+  - ORS 576.850
+  - ORS 576.871
+  - ORS 653.025
+  - ORS 657.695
+  - ORS 660.175
+  - ORS 660.300
+  - ORS 660.318
+  - ORS 660.320
+  - ORS 660.324
+  - ORS 660.327
+  - ORS 660.339
+  - ORS 660.340
+  - ORS 660.341
+  - ORS 660.343
+  - ORS 660.346
+  - ORS 660.347
+  - ORS 660.348
+  - ORS 660.349
+  - ORS 660.350
+  - ORS 660.351
+  - ORS 660.352
+  - ORS 660.353
+  - ORS 660.354
+  - ORS 660.380
+  - ORS 660.385
+  - ORS 660.390
+  - ORS 660.400
+  - ORS 660.405
+  - ORS 660.410
+  - ORS 660.415
+  - ORS 660.420
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2708
+prefix_meaning: House Bill
+catch_line: Transfers duties, functions and powers related to administering the federal Workforce Innovation
+  and Opportunity Act and workforce development matters from the Higher Education Coordinating Commission
+  to the Bureau of Labor and Industries.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would make new laws for workforce development. The Act would transfer\
+  \ workforce development duties from HECC to BOLI. The Act would make a new workforce development program\
+  \ and office at BOLI. (Flesch Readability Score: 64.9). \n\tTransfers duties, functions and powers related\
+  \ to administering the federal Workforce Innovation and Opportunity Act and workforce development matters\
+  \ from the Higher Education Coordinating Commission to the Bureau of Labor and Industries. \n\tEstablishes\
+  \ the Office of Workforce Development within the Bureau of Labor and Industries. Establishes the Office\
+  \ of Workforce Development Account. Creates the Oregon Workforce Corps to provide workforce development\
+  \ and employment opportunities. \n\tRenames the Office of Community Colleges and Workforce Development\
+  \ to the Office of Community Colleges. Renames the Office of Community Colleges and Workforce Development\
+  \ Account to the Office of Community Colleges Account. \n\tTakes effect on the 91st day following adjournment\
+  \ sine die."
+relating_to: Relating to workforce development; prescribing an effective date.
+relating_to_full: Relating to workforce development; creating new provisions; amending ORS 285A.516, 285A.519,
+  285A.522, 294.393, 294.456, 341.005, 341.019, 341.021, 341.039, 341.102, 341.105, 341.440, 341.446,
+  341.455, 341.487, 341.526, 341.551, 341.626, 341.655, 341.665, 341.670, 344.070, 344.080, 344.090, 344.125,
+  350.095, 350.150, 350.155, 350.160, 350.170, 350.175, 350.432, 353.606, 408.506, 413.600, 417.799, 418.653,
+  418.657, 418.658, 418.660, 421.084, 476.696, 476.698, 576.871, 660.318, 660.320, 660.324, 660.339, 660.340,
+  660.341, 660.343, 660.346, 660.348, 660.349, 660.352, 660.353, 660.354, 660.380, 660.385, 660.400, 660.405,
+  660.410, 660.415 and 660.420; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 3114
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-01-27T10:28:20'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 186376
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.109
+  - ORS 182.462
+  - ORS 182.472
+  - ORS 183.310
+  - ORS 192.245
+  - ORS 238.005
+  - ORS 238.095
+  - ORS 238.250
+  - ORS 238.260
+  - ORS 238A.100
+  - ORS 238A.115
+  - ORS 238A.220
+  - ORS 238A.350
+  - ORS 238A.353
+  - ORS 255.305
+  - ORS 279C.800
+  - ORS 285A.516
+  - ORS 285A.519
+  - ORS 285A.522
+  - ORS 286A.830
+  - ORS 291.232
+  - ORS 292.495
+  - ORS 293.640
+  - ORS 294.305
+  - ORS 294.311
+  - ORS 294.338
+  - ORS 294.388
+  - ORS 294.393
+  - ORS 294.438
+  - ORS 294.453
+  - ORS 294.456
+  - ORS 294.463
+  - ORS 294.466
+  - ORS 294.471
+  - ORS 294.473
+  - ORS 294.476
+  - ORS 294.478
+  - ORS 310.055
+  - ORS 310.060
+  - ORS 341.005
+  - ORS 341.013
+  - ORS 341.015
+  - ORS 341.019
+  - ORS 341.021
+  - ORS 341.022
+  - ORS 341.024
+  - ORS 341.025
+  - ORS 341.039
+  - ORS 341.076
+  - ORS 341.085
+  - ORS 341.102
+  - ORS 341.105
+  - ORS 341.315
+  - ORS 341.440
+  - ORS 341.446
+  - ORS 341.455
+  - ORS 341.487
+  - ORS 341.526
+  - ORS 341.551
+  - ORS 341.565
+  - ORS 341.569
+  - ORS 341.620
+  - ORS 341.626
+  - ORS 341.655
+  - ORS 341.665
+  - ORS 341.670
+  - ORS 341.675
+  - ORS 341.933
+  - ORS 344.070
+  - ORS 344.080
+  - ORS 344.090
+  - ORS 344.125
+  - ORS 344.415
+  - ORS 345.010
+  - ORS 345.325
+  - ORS 348.180
+  - ORS 350.014
+  - ORS 350.018
+  - ORS 350.075
+  - ORS 350.090
+  - ORS 350.095
+  - ORS 350.150
+  - ORS 350.155
+  - ORS 350.160
+  - ORS 350.165
+  - ORS 350.170
+  - ORS 350.175
+  - ORS 350.350
+  - ORS 350.432
+  - ORS 352.002
+  - ORS 353.606
+  - ORS 408.506
+  - ORS 411.806
+  - ORS 412.001
+  - ORS 413.600
+  - ORS 414.025
+  - ORS 414.665
+  - ORS 417.799
+  - ORS 418.650
+  - ORS 418.653
+  - ORS 418.657
+  - ORS 418.658
+  - ORS 418.660
+  - ORS 421.084
+  - ORS 433.235
+  - ORS 476.694
+  - ORS 476.696
+  - ORS 476.698
+  - ORS 477.503
+  - ORS 576.850
+  - ORS 576.871
+  - ORS 653.025
+  - ORS 657.695
+  - ORS 660.175
+  - ORS 660.300
+  - ORS 660.318
+  - ORS 660.320
+  - ORS 660.324
+  - ORS 660.327
+  - ORS 660.339
+  - ORS 660.340
+  - ORS 660.341
+  - ORS 660.343
+  - ORS 660.346
+  - ORS 660.347
+  - ORS 660.348
+  - ORS 660.349
+  - ORS 660.350
+  - ORS 660.351
+  - ORS 660.352
+  - ORS 660.353
+  - ORS 660.354
+  - ORS 660.380
+  - ORS 660.385
+  - ORS 660.390
+  - ORS 660.400
+  - ORS 660.405
+  - ORS 660.410
+  - ORS 660.415
+  - ORS 660.420
+  from_relating_to_full:
+  - ORS 285A.516
+  - ORS 285A.519
+  - ORS 285A.522
+  - ORS 294.393
+  - ORS 294.456
+  - ORS 341.005
+  - ORS 341.019
+  - ORS 341.021
+  - ORS 341.039
+  - ORS 341.102
+  - ORS 341.105
+  - ORS 341.440
+  - ORS 341.446
+  - ORS 341.455
+  - ORS 341.487
+  - ORS 341.526
+  - ORS 341.551
+  - ORS 341.626
+  - ORS 341.655
+  - ORS 341.665
+  - ORS 341.670
+  - ORS 344.070
+  - ORS 344.080
+  - ORS 344.090
+  - ORS 344.125
+  - ORS 350.095
+  - ORS 350.150
+  - ORS 350.155
+  - ORS 350.160
+  - ORS 350.170
+  - ORS 350.175
+  - ORS 350.432
+  - ORS 353.606
+  - ORS 408.506
+  - ORS 413.600
+  - ORS 417.799
+  - ORS 418.653
+  - ORS 418.657
+  - ORS 418.658
+  - ORS 418.660
+  - ORS 421.084
+  - ORS 476.696
+  - ORS 476.698
+  - ORS 576.871
+  - ORS 660.318
+  - ORS 660.320
+  - ORS 660.324
+  - ORS 660.339
+  - ORS 660.340
+  - ORS 660.341
+  - ORS 660.343
+  - ORS 660.346
+  - ORS 660.348
+  - ORS 660.349
+  - ORS 660.352
+  - ORS 660.353
+  - ORS 660.354
+  - ORS 660.380
+  - ORS 660.385
+  - ORS 660.400
+  - ORS 660.405
+  - ORS 660.410
+  - ORS 660.415
+  - ORS 660.420
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2708>.
+
+# HB 2708 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2708, 2025 Regular Session (2025R1)
+- **LC number:** 3114
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-01-27T10:28:20
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 186376 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2708/Introduced>.
+
+## Summary
+
+**Catchline:** Transfers duties, functions and powers related to administering the federal Workforce Innovation and Opportunity Act and workforce development matters from the Higher Education Coordinating Commission to the Bureau of Labor and Industries.
+
+**Relating to:** Relating to workforce development; prescribing an effective date.
+
+Digest: The Act would make new laws for workforce development. The Act would transfer workforce development duties from HECC to BOLI. The Act would make a new workforce development program and office at BOLI. (Flesch Readability Score: 64.9). 
+ Transfers duties, functions and powers related to administering the federal Workforce Innovation and Opportunity Act and workforce development matters from the Higher Education Coordinating Commission to the Bureau of Labor and Industries. 
+ Establishes the Office of Workforce Development within the Bureau of Labor and Industries. Establishes the Office of Workforce Development Account. Creates the Oregon Workforce Corps to provide workforce development and employment opportunities. 
+ Renames the Office of Community Colleges and Workforce Development to the Office of Community Colleges. Renames the Office of Community Colleges and Workforce Development Account to the Office of Community Colleges Account. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to workforce development; creating new provisions; amending ORS 285A.516, 285A.519, 285A.522, 294.393, 294.456, 341.005, 341.019, 341.021, 341.039, 341.102, 341.105, 341.440, 341.446, 341.455, 341.487, 341.526, 341.551, 341.626, 341.655, 341.665, 341.670, 344.070, 344.080, 344.090, 344.125, 350.095, 350.150, 350.155, 350.160, 350.170, 350.175, 350.432, 353.606, 408.506, 413.600, 417.799, 418.653, 418.657, 418.658, 418.660, 421.084, 476.696, 476.698, 576.871, 660.318, 660.320, 660.324, 660.339, 660.340, 660.341, 660.343, 660.346, 660.348, 660.349, 660.352, 660.353, 660.354, 660.380, 660.385, 660.400, 660.405, 660.410, 660.415 and 660.420; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2708
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would make  new laws for workforce development. The Act would transfer
+workforce development duties from  HECC to BOLI. The Act would make a new workforce develop-
+ment program and office at BOLI. (Flesch Readability Score: 64.9).
+Transfers duties, functions and powers related to administering the federal  Workforce Inno-
+vation and Opportunity Act and workforce development matters from the Higher Education Coordi-
+nating Commission to the Bureau of Labor and Industries.
+Establishes the Office of Workforce  Development within the Bureau of Labor and Industries.
+Establishes the Office of Workforce Development Account. Creates the  Oregon Workforce Corps to
+provide workforce development and employment opportunities.
+Renames the Office of Community Colleges and Workforce Development to the Office of Com-
+munity Colleges.  Renames the Office of Community Colleges and Workforce Development Account
+to the Office of Community Colleges Account.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to workforce development; creating new provisions;  amending ORS 285A.516, 285A.519,
+285A.522, 294.393, 294.456, 341.005, 341.019, 341.021, 341.039,  341.102, 341.105, 341.440, 341.446,
+341.455, 341.487, 341.526, 341.551, 341.626, 341.655, 341.665, 341.670, 344.070,  344.080, 344.090,
+344.125, 350.095, 350.150,  350.155, 350.160, 350.170, 350.175, 350.432, 353.606, 408.506, 413.600,
+417.799, 418.653, 418.657, 418.658, 418.660, 421.084, 476.696, 476.698, 576.871,  660.318, 660.320,
+660.324, 660.339, 660.340,  660.341, 660.343, 660.346, 660.348, 660.349, 660.352, 660.353, 660.354,
+660.380, 660.385, 660.400, 660.405, 660.410, 660.415 and 660.420; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+OFFICE OF WORKFORCE DEVELOPMENT
+SECTION 1.
+(1) The  Office of Workforce Development is established within the Bureau
+of Labor and Industries. The office shall function under the direction and  control of the bu-
+reau, with the Director of the Office of Workforce Development serving as  an administrative
+officer for workforce development matters.
+(2) Except as provided in subsection (3) of this section, the bureau may adopt any rules
+necessary for the effective and  efficient administration of the office or for the administration
+of laws that the office is charged with administering.
+(3) The bureau, in consultation with the State Workforce and  Talent Development Board,
+workforce partners and the Education and Workforce Policy Advisor and pursuant to  ORS
+chapter 183,  may adopt any rules necessary for the administration of laws related to the
+federal Workforce Innovation  and Opportunity Act that the bureau is charged with admin-
+istering.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3114
+(4) The bureau is authorized to request, as part of the funding request  relating to duties
+authorized under ORS 660.300 to 660.420, appropriations for budgetary items, including but
+not limited to workforce  development and coordination of the state workforce development
+system.
+SECTION 2.
+(1) The Office of Workforce Development Account is established  in the State
+Treasury, separate and distinct from the  General Fund. Except for moneys otherwise desig-
+nated by statute, all fees, assessments and  other moneys received by the Office of Workforce
+Development shall be deposited into the State Treasury and credited to  the account. All
+moneys in the account are continuously appropriated to the Bureau of Labor and  Industries
+for purposes authorized by law.
+(2) The office may accept gifts, grants and donations from any source to  carry out the
+duties imposed upon the office. Moneys received under this subsection shall be paid into  the
+account.
+(3) The office shall  keep a record of all moneys deposited into the account. The record
+shall indicate by separate cumulative subaccounts the sources from  which the moneys are
+derived and the individual activity or program against which each withdrawal is charged.
+(4) Disbursements from the account shall be made as directed by the bureau.
+SECTION 3.
+(1) The Commissioner of the Bureau of Labor and Industries shall appoint
+a Director of the Office  of Workforce Development who shall serve at the pleasure of the
+commissioner.
+(2) The director shall:
+(a) Be the executive head of the Office of Workforce Development.
+(b) Direct and supervise all activities of the office.
+(c) Hire staff, as authorized by  the commissioner, to assist in carrying out the duties of
+the office. The staff shall be considered employees of the office for purposes of  ORS chapters
+240 and 243.
+(d) Be responsible directly to the commissioner.
+(3) The commissioner shall be responsible for submitting budget requests for the office
+to the Legislative Assembly. The Bureau of Labor and Industries shall  ensure that the
+budget request for the office is separate and distinct from the  bureau’s other requests to the
+Legislative Assembly.
+TRANSFER
+SECTION 4.
+(1) The  duties, functions and powers of the Higher Education Coordinating
+Commission that pertain  to the administration of the federal Workforce Innovation and Op-
+portunity Act  and related workforce development matters are imposed upon, transferred to
+and vested in the Bureau of Labor and Industries.
+(2) The duties, functions and powers of the Office of  Community Colleges and Workforce
+Development that  pertain to the administration of the federal Workforce Innovation and
+Opportunity Act and related workforce development matters are imposed  upon, transferred
+to and vested in the Office of Workforce Development.
+SECTION 5. (1)(a) The executive director of the Higher Education Coordinating  Com-
+mission shall:
+(A) Deliver to the Bureau of Labor and Industries all records and property within the
+jurisdiction of the executive director that relate to the duties,  functions and powers trans-
+ferred by section 4 of this 2025 Act; and
+(B) Transfer to the Bureau of Labor and Industries those employees engaged primarily
+in the exercise of the duties, functions and powers transferred by section 4 of this 2025 Act.
+(b) The Commissioner of the  Bureau of Labor and Industries shall take possession of the
+records and property, and shall take charge of the employees and  employ them in the exer-
+cise of the duties, functions  and powers transferred by section 4 of this 2025 Act, without
+reduction of  compensation but subject to change or termination of employment or compen-
+sation as provided by law.
+(c) The Governor shall resolve any  dispute between the Higher Education Coordinating
+Commission and the Bureau of Labor and Industries  relating to transfers of records, prop-
+erty and employees under this section, and the Governor’s decision is final.
+(2)(a) The Director of the Office  of Community Colleges and Workforce Development
+shall:
+(A) Deliver  to the Office of Workforce Development all records and property within the
+jurisdiction of the  director that relate to the duties, functions and powers transferred by
+section 4 of this 2025 Act; and
+(B) Transfer to the Office of Workforce Development  those employees engaged primarily
+in the exercise of the duties, functions and powers transferred by section 4 of this 2025 Act.
+(b) The Director of the Office of Workforce Development shall take possession of the
+records and property, and shall take  charge of the employees and employ them in the exer-
+cise of the duties, functions and powers transferred by section 4 of  this 2025 Act, without
+reduction of compensation but subject to change or termination of employment or  compen-
+sation as provided by law.
+(c) The Governor shall resolve any dispute  between the Office of Community Colleges and
+Workforce Development and the Office of Workforce Development relating to transfers of
+records, property and employees under this section, and the Governor’s decision is final.
+SECTION 6.
+(1)(a) The unexpended balances of amounts authorized to be expended  by the
+Higher Education Coordinating Commission for the biennium beginning July 1, 2025,  from
+revenues dedicated, continuously appropriated, appropriated or otherwise made available for
+the purpose of administering and enforcing the duties, functions and powers  transferred by
+section 4 of this 2025 Act are transferred to and are  available for expenditure by the Bureau
+of Labor and Industries  for the biennium beginning July 1, 2025, for the purpose of adminis-
+tering and enforcing the duties, functions and powers transferred by section  4 of this 2025
+Act.
+(b) The expenditure classifications, if any, established by Acts authorizing  or limiting
+expenditures by the Higher Education  Coordinating Commission remain applicable to expen-
+ditures by the Bureau of Labor and Industries under this section.
+(2)(a) The  unexpended balances of amounts authorized to be expended by the Office of
+Community Colleges and Workforce Development  for the biennium beginning July 1, 2025,
+from revenues dedicated, continuously appropriated, appropriated or  otherwise made avail-
+able for  the purpose of administering and enforcing the duties, functions and powers trans-
+ferred by section 4 of this 2025 Act are transferred to and are  available for expenditure by
+the Office of Workforce Development for the biennium beginning July 1, 2025, for the purpose
+of administering and enforcing the duties, functions and powers transferred  by section 4 of
+this 2025 Act.
+(b) The expenditure classifications, if any, established by Acts authorizing  or limiting
+expenditures by the Office  of Community Colleges and Workforce Development that relate
+to the duties, functions  and powers transferred by section 4 of this 2025 Act remain appli-
+cable to expenditures by the Office of Workforce Development under this section.
+SECTION 7.
+(1) The transfer of duties, functions and powers to  the Bureau of Labor and
+Industries by section 4 of  this 2025 Act does not affect any action, proceeding or prosecution
+involving or with respect to the duties, functions and powers  begun before and pending at
+the time of the transfer, except that the Bureau  of Labor and Industries is substituted for
+the Higher Education Coordinating Commission in the action, proceeding or prosecution.
+(2) The transfer of duties, functions and powers to the Office  of Workforce Development
+by section 4 of this 2025 Act does not  affect any action, proceeding or prosecution involving
+or with respect to the duties, functions and powers begun before and pending at the time  of
+the transfer, except  that the Office of Workforce Development is substituted for the Office
+of Community Colleges and Workforce Development in  the action, proceeding or prosecution.
+SECTION 8. (1) Nothing in sections 4 to 6 of  this 2025 Act relieves a person of a liability,
+duty or obligation accruing under or with respect to the duties,  functions and powers
+transferred by  section 4 of this 2025 Act. The Bureau of Labor and Industries or the Office
+of Workforce Development may undertake the collection or enforcement of  any such liabil-
+ity, duty or obligation.
+(2) The rights and obligations of the Higher Education  Coordinating Commission legally
+incurred under contracts, leases and business transactions  executed, entered into or begun
+before the operative date specified in section 82 of this 2025 Act accruing under or with re-
+spect to the duties, functions and powers transferred by  section 4 of this 2025 Act are
+transferred to the Bureau of Labor and Industries. For the purpose of succession to these
+rights and obligations, the Bureau of Labor and Industries is  a continuation of the Higher
+Education Coordinating Commission and not a new authority.
+(3) The  rights and obligations of the Office of Community Colleges and Workforce De-
+velopment legally incurred under contracts, leases  and business transactions executed, en-
+tered into or begun before the operative date specified in section 82 of this 2025 Act accruing
+under or with respect to the duties, functions and powers transferred by  section 4 of this
+2025 Act are transferred to the Office of Workforce  Development. For the purpose of suc-
+cession to these rights and obligations, the Office of Workforce Development is a  continua-
+tion of the Office of Community Colleges and Workforce Development and not  a new
+authority.
+SECTION 9.
+Notwithstanding the transfer of duties, functions and powers by  section 4
+of this 2025 Act, the rules of the Higher  Education Coordinating Commission with respect to
+such duties, functions or powers that are in effect on the operative date specified in  section
+82 of this 2025 Act continue in effect until superseded  or repealed by rules of the Bureau of
+Labor and Industries. References in  such rules of the Higher Education Coordinating Com-
+mission to the Higher Education  Coordinating Commission or an officer or employee of the
+Higher Education  Coordinating Commission are considered to be references to the Bureau
+of Labor and Industries or an officer or employee of the Bureau of Labor and Industries.
+SECTION 10. (1) Whenever, in any uncodified law or resolution of the Legislative As-
+sembly or in any rule, document, record or proceeding authorized by the Legislative Assem-
+bly, in the context of the duties, functions and powers transferred by section  4 of this 2025
+Act, reference is made  to the Higher Education Coordinating Commission, or an officer or
+employee of the Higher Education Coordinating  Commission, whose duties, functions or
+powers are transferred by section 4  of this 2025 Act, the reference is considered to be a
+reference to the Bureau of Labor and Industries or an  officer or employee of the Bureau of
+Labor and Industries who by this  2025 Act is charged with carrying out the duties, functions
+and powers.
+(2) Whenever, in  any uncodified law or resolution of the Legislative Assembly or in any
+rule, document, record or proceeding authorized by the Legislative Assembly, in the  context
+of the duties, functions and powers transferred by section 4 of this 2025 Act,  reference is
+made to  the Office of Community Colleges and Workforce Development, or an officer or
+employee of the Office of Community  Colleges and Workforce Development, whose duties,
+functions or  powers are transferred by section 4 of this 2025 Act, the reference is considered
+to be a reference to the Office of Workforce Development or  an officer or employee of the
+Office of Workforce Development who by this 2025 Act is  charged with carrying out the du-
+ties, functions and powers.
+CONFORMING AMENDMENTS
+SECTION 11.
+ ORS 285A.516 is amended to read:
+285A.516. The [ Higher Education Coordinating Commission ] Office of Workforce Development
+is the state agency that shall be notified when an employer is required to provide written  notice of
+a plant closing or mass layoff under section 3 of the  Worker Adjustment and Retraining Notification
+Act (P.L. 100-379).
+SECTION 12.  ORS 285A.519 is amended to read:
+285A.519. (1) The [ Higher Education Coordinating Commission ] Office of Workforce Develop-
+ment shall notify employers subject to  the Worker Adjustment and Retraining Notification Act (P.L.
+100-379) that the [ commission] office is the state agency that must be notified when  the employers
+are required to provide  notice of a plant closing or mass layoff under the Worker Adjustment and
+Retraining Notification Act (P.L. 100-379).
+(2) When notifying employers  as provided in subsection (1) of this section, the [ commission] of-
+fice shall provide employers  with a statement of the programs, projects, expenditures and other
+forms of assistance the [ commission] office and other state agencies can provide  to communities,
+employers and workers affected by a plant closing or mass layoff.
+SECTION 13.  ORS 285A.522 is amended to read:
+285A.522. (1) The [ Higher Education Coordinating Commission ] Office of Workforce Develop-
+ment shall prepare an annual report concerning plant closings and mass layoffs in  this state. The
+report shall describe  in detail each plant closing or mass layoff during the period covered by the
+report and the assistance and services provided  to the affected employers, workers and communities.
+The report shall also contain the most recent information available relating to the current  status
+of the employer, workers and community affected by each plant closing or mass layoff.
+(2) The report prepared under  this section shall be presented to the Governor, the President of
+the Senate, the Speaker of the House of Representatives and appropriate legislative committees.
+SECTION 14.  ORS 576.871 is amended to read:
+576.871. (1) The report submitted by the Oregon Wine Board under ORS 182.472 must  include a
+description of the long term strategic plan created  by the board and a description of the progress
+made in implementing  the statewide strategic objectives of the board during the most recent
+biennium.
+(2) Notwithstanding ORS 182.462:
+(a) The board shall prepare and submit annual plans and  a budget recommended by the board
+for promotion and for research during the next fiscal year.
+(b) The board shall adopt rules specifying the procedures, criteria and timelines  for the prepa-
+ration and approval of the annual plans and budget for promotion and for research.
+(c) The Director of the Oregon Business Development Department shall review the budget  and
+plans submitted under this  section. In reviewing the annual plans and budget, the director shall
+consider whether the information supplied by the board is  factual and consistent with ORS 576.850
+to 576.877 and the positive development of the Oregon wine grape  growing and wine making indus-
+tries. The director shall either approve the budget and plans prior to the commencement of the  next
+fiscal year or disapprove and return the budget and plans to the board with conditions necessary
+for approval prior to the commencement of the next fiscal year. In reviewing the budget  and plans,
+the director may consult with and receive coordinated support from:
+(A) The State Department of Agriculture;
+(B) The Oregon Tourism Commission;
+(C) Oregon State University;
+(D) The Office of Workforce Development;
+[(D)] (E) The Office of Community Colleges [ and Workforce Development ]; and
+[(E)] (F) The Oregon Liquor and Cannabis Commission.
+SECTION 15.
+ ORS 660.318 is amended to read:
+660.318. (1) To implement and  oversee state implementation of the federal Workforce Innovation
+and Opportunity Act, the [ Higher Education Coordinating Commission ] Bureau of Labor  and In-
+dustries may:
+(a) Receive federal youth  activities funds allotted to this state by the Secretary of Labor pur-
+suant to  the federal Workforce Innovation and Opportunity Act and allocate those funds that are
+not reserved according to an allocation formula recommended by the State  Workforce and Talent
+Development Board and approved by the Governor.
+(b) Receive federal adult  employment and training activities funds allotted to this state by the
+Secretary of Labor pursuant to the federal Workforce Innovation and Opportunity Act and allocate
+those funds that  are not reserved according to an allocation formula recommended by the State
+Workforce and Talent Development Board and approved by the Governor.
+(c) Receive federal dislocated worker funds allotted to this state  by the Secretary of Labor
+pursuant to the federal Workforce Innovation and Opportunity Act  and allocate those funds that are
+not reserved according to an allocation formula recommended by the State  Workforce and Talent
+Development Board and approved by the Governor.
+(d) Establish a procedure for use  by local workforce development boards to identify eligible
+providers of training services  according to section 3174 of the federal Act and to maintain the list
+of providers identified as eligible by the  boards in all local workforce development areas in this
+state.
+(e) Receive the  comprehensive strategic plan developed and implemented by each local
+workforce development board and review  the plan, with input from representatives of state and local
+workforce programs, to determine if the plan meets the requirements  of section 3123 of the federal
+Act and state policy.
+(f) Approve the plans, after review by the State Workforce  and Talent Development Board, that
+are found to meet the  requirements of the federal Workforce Innovation and Opportunity Act and
+review and approve any amendments to the plans.
+(g) Carry out the required and allowable activities described  in section 3174 of the federal Act
+with the advice of the Education and Workforce Policy Advisor.
+(h) Pursuant to ORS 660.339, establish procedures to maintain the confidentiality of  the names
+and records of participants in workforce programs for which  the [ commission] bureau is responsible,
+including circumstances under which the names and records may be disclosed.
+(i) Establish a  method to set performance standards for the Secretary of Labor as required under
+section 3141 of the federal Act.
+(j) Perform planning functions related to programs and performance reporting under  the federal
+Workforce Innovation and Opportunity Act.
+(2)(a) Subject to the availability of funds  from the federal Workforce Innovation and Opportunity
+Act, the [ commission] bureau shall create and operate a summer youth employment program that
+reestablishes meaningful summer work experience for persons between  the ages of 14 and 24 and
+that meets the requirements for funding under the federal Act.
+(b) Programs funded under this subsection:
+(A) Must include representatives of the business community in  the planning, implementation and
+evaluation of the program.
+(B) May provide for private and public sector employment opportunities.
+(C) Shall be managed by  local workforce development boards in a manner that coordinates re-
+gional state-sponsored youth work experience programs.
+(c) Local workforce development boards responsible for managing programs  created under this
+subsection shall provide training  for business, labor and education leaders in use of best practices
+that ensure positive summer work experiences for participants.
+(3) The [ commission] bureau shall collaborate with the State Workforce and Talent Development
+Board and local workforce development boards  to collect data on summer work experience programs
+that identify successful summer work experiences and  allow for the identification and dissemination
+of promising practices.
+(4) The [ commission] bureau, in consultation with the State  Workforce and Talent Development
+Board, may adopt rules pursuant to ORS chapter 183 to implement this section.
+SECTION 16.
+ ORS 660.324 is amended to read:
+660.324. (1) The State Workforce and Talent Development Board shall identify:
+(a) Key industries in  this state and the workforce skills needed for key industries to grow and
+thrive;
+(b) In collaboration with workforce representatives, needs for education, training, work experi-
+ence, and job preparation to ensure Oregonians  access to stable high-wage jobs and employment
+advancement; and
+(c) Opportunities for  partnerships with key industry sectors to coordinate workforce develop-
+ment, economic development and education in response to industry and workforce needs.
+(2) The board shall assist the Governor in:
+(a) Developing Oregon’s workforce development system;
+(b) Ensuring  timely consultation and collaboration with chief elected officials, local workforce
+development boards and other  workforce stakeholders, including but not limited to business and la-
+bor organizations and organizations working with persons  with disabilities, persons living at or be-
+low 100 percent of the federal poverty guidelines and the chronically unemployed  and
+underemployed;
+(c) Reviewing and approving local workforce plans;
+(d) Developing, as required by the  federal Act, allocation formulas for the distribution of funds
+to local workforce development  areas for adult employment and training activities and for youth
+activities that are developed by the local workforce development boards;
+(e) Working with local  workforce development boards to increase efficiencies and align
+workforce programs and services with local needs;
+(f) Recommending the duties and responsibilities of state  agencies to implement the federal Act,
+to avoid  conflicts of interest and to capitalize on the experience developed by workforce partners
+that are efficient and effective at meeting the requirements of the federal Act;
+(g) Participating  in the development of a coordinated statewide system of activities and services
+that includes both mandatory and optional partners of the one-stop delivery system,  as provided in
+the federal Act;
+(h) Providing  for the development, accountability and continuous improvement of comprehensive
+workforce performance measures to assess the  effectiveness of the workforce development activities
+in this state;
+(i) Developing a statewide employment statistics system, as described in section 15(e)  of the
+Wagner-Peyser Act (29 U.S.C. 49L-2(e)); and
+(j) Preparing an annual report and submitting it to the United States Department of Labor.
+(3) The State Workforce and Talent Development Board, in partnership with the  Governor, shall
+establish criteria for use by chief elected officials in appointing members to local workforce devel-
+opment boards  in accordance with the requirements of section 3122 of the federal Workforce Inno-
+vation and Opportunity Act. The State Workforce and Talent Development Board shall establish  the
+following requirements:
+(a) To transact business at a  meeting of a local workforce development board, a quorum of
+members must participate. A  quorum shall consist of a majority of the members. At least 25 percent
+of the members participating must be representatives of business.
+(b) When appropriate and upon a request from the chief elected official of a county or the  City
+of Portland, the State Workforce  and Talent Development Board shall consider the county or the
+City of Portland to be a candidate for designation as a local  workforce development area. The board
+shall consult with the county or the City of Portland before designating the  county or the City of
+Portland as a local workforce development area. After  considering the criteria in section 3121 of the
+federal Act for designating local workforce development areas, chief elected officials  may submit a
+request to the board to combine their  units of government into a local workforce development area.
+The board shall make recommendations to the Governor about the designation  of local workforce
+development areas. Only the Governor may  designate local workforce development areas. The Gov-
+ernor must show just cause  for not designating a requested local workforce development area. A
+county or the City of Portland may submit an appeal to the board, as  provided in section 3121 of
+the federal Act, if the  Governor does not grant the county’s or the city’s request to designate a local
+workforce development area.
+(4) The State Workforce and Talent Development Board shall  provide guidance and direction to
+local  workforce  development boards in the development of local workforce plans. The State
+Workforce and Talent Development Board shall adopt policies that:
+(a) Require each local workforce development board, in partnership with its chief  elected offi-
+cials and in  accordance with section 3123 of the federal Act, to develop and submit to the Governor
+and the State Workforce and Talent Development Board a  strategic local workforce plan that in-
+cludes, but is not limited to, performance goals; and
+(b) Permit each  local workforce development board, in consultation with its chief elected offi-
+cials:
+(A) To determine, consistent with the requirements of the federal Act, the appropriate level of
+services based on the workforce needs in the local workforce development area; and
+(B) To designate or certify  one-stop operators and to terminate for cause the eligibility of such
+operators.
+(5) The State Workforce and Talent Development Board  may charter and enter into performance
+compacts with local workforce development boards.
+(6) The State Workforce and Talent Development Board shall:
+(a) Function as the primary advisory committee to the Employment Department in conjunction
+with the Employment Department Advisory Council established under ORS 657.695;
+(b) Collaborate with other advisory bodies also tasked with workforce  development, including
+but not limited to the Oregon State Rehabilitation Council, the Commission for the Blind, the  State
+Apprenticeship and Training Council , [and] the Higher Education Coordinating  Commission  and the
+Bureau of Labor and Industries ;
+(c) Work with the Oregon Business Development Commission to identify areas  of common in-
+terest to efficiently align resources, recommend  common strategies and provide accountability for
+reaching statewide goals; and
+(d) Hold state workforce agencies  and local workforce development boards accountable for
+meeting performance goals and system outcomes.
+(7) The  State Workforce and Talent Development Board shall convene, engage and coordinate
+with senior executives of identified key industries in this state,  the Oregon Business Development
+Commission, the Higher Education Coordinating Commission, the Department of Education,  the Bu-
+reau of Labor and Industries, the STEM Investment Council, local workforce development boards,
+the Employment Department, the Department of Human Services, the  Commission for the Blind, the
+Youth Development Council and any other partners from training or  workforce development entities
+in this state to:
+(a) Determine needs across identified key industries in  this state, including challenges and op-
+portunities in developing and growing relevant talent pipelines;
+(b) Ensure that the talent pipeline development infrastructure includes:
+(A) A listening  process to collect workforce needs of employers from identified key industries
+in this state;
+(B) Curriculum alignment for high-demand occupation skill needs;
+(C) Prediction and monitoring of national  trends relating to high-demand industries and occu-
+pations;
+(D) Occupation-aligned education and training options with a clearly articulated progression;
+(E) Skills assessments; and
+(F) Academic career counseling;
+(c) Utilize sector partnerships to:
+(A) Advise the development of career pathway programs for critical occupations in identified
+key industries in this state; and
+(B) Ensure the coordination of education,  economic development, business and workforce initi-
+atives between key partners to develop a strong talent pipeline;
+(d) Leverage and optimize existing measures and  data systems to improve systems alignment and
+interagency communication; and
+(e) Ensure state alignment and coordination  between industry sector partnerships and initiatives
+in the local workforce development areas.
+(8)(a) Every biennium, the State Workforce and Talent Development  Board shall coordinate and
+collaborate  with  entities listed under subsection (7) of this section to create a single, unified state
+Workforce and Talent Development Plan.
+(b) The Workforce and Talent Development Plan must include:
+(A) A strategy, with quantitative goals, for the statewide workforce  development system for the
+State of Oregon in accordance with section 3111  of the federal Workforce Innovation and Opportu-
+nity Act;
+(B) Quantifiable goals designed to  promote Oregonians’ self-sufficiency and that will empower
+Oregonians to gain independence from public assistance and move up the socioeconomic ladder;
+(C) Expectations for performance and the priorities for delivery  of services to local workforce
+development boards and state workforce agencies;
+(D) Industry-based information and data from the Employment Department and  other agencies
+and entities listed in subsection (7) of this section related to talent needs and gaps;
+(E) Analysis of data regarding the skills required for identified key industry jobs;
+(F) Information regarding the status of  career pathway programs targeted at identified key in-
+dustries in this state;
+(G) Recommendations related to  advancing talent pipeline and career pathways development
+based on the identified talent issues and trends;
+(H) Recommendations regarding the alignment and consistency of data nomenclature,  collection
+practices and data sharing;
+(I) Utilization and, as appropriate, expansion of existing data-sharing  agreements between
+agencies and partners;
+(J) Identification of talent issues and trends related to identified  key industries in this state that
+are in strategic alignment with state and local workforce and economic priorities;
+(K) Identification and prioritization of the urgent talent gaps of identified key  industries in this
+state;
+(L) A response to immediate talent needs through  the creation of additional opportunities for
+Oregonians to pursue education and training in disciplines critical to the advancement of  identified
+key industries in this state;
+(M) Ways to strengthen efforts to enhance student work experience  and job preparedness in
+high-demand and critical occupations;
+(N) New means of  delivering workforce training and proficiency-based education to enhance
+program efficiency, upgrading and sharing resources and facilities and improving  student outcomes
+and access to typically underrepresented populations while meeting talent needs of traded  sector
+and high growth industries; and
+(O) Ways to increase the skills of the existing professional and  technical workforce, including
+the issuance of certifications, badges and industry-based credentials.
+(c) The State Workforce and Talent Development Board shall:
+(A) Update the plan every biennium; and
+(B) Submit a report about the plan every year to:
+(i) The Governor; and
+(ii) The Legislative Assembly in the manner provided by ORS 192.245.
+SECTION 17.
+ ORS 660.339 is amended to read:
+660.339. (1) All participant records maintained by the local workforce development boards or any
+public or private agency involved  in programs under the federal Workforce Innovation and Oppor-
+tunity Act shall be confidential and except as provided in ORS 660.300 to  660.420 shall be open for
+inspection only in accordance with policies adopted by the [ Higher Education Coordinating  Com-
+mission] Bureau of Labor and Industries .
+(2) A participant may provide written consent for  the examination or release of any record
+pertaining to the participant.
+(3) All information contained in participant  files shall be available for inspection by the partic-
+ipant and by the participant’s parent or legal guardian if the participant is under 18  years of age.
+Participant  behavioral  records shall be released only in the presence of an individual qualified to
+explain or interpret the records.
+(4) The [ commission] bureau may adopt policies and rules to provide the circumstances under
+which participant names or records may be made available for inspection when:
+(a) Ordered by a court of competent jurisdiction.
+(b) Necessary to protect the health or safety of a participant or another.
+(c) Necessary to provide information to state and  local agencies administering ORS 412.001 to
+412.161 and 412.991 and ORS chapters 418 and  657, other programs under the federal Workforce
+Innovation and Opportunity Act and other mandatory  programs under this state’s one-stop service
+delivery  system.
+(d) Necessary for program staff work or studies of a statistical or demographic nature.
+(e) Necessary to carry out  the planning and coordinating functions between state and local
+agencies under the federal  Workforce Innovation and Opportunity Act, other applicable state laws
+or those functions assigned by the Education and Workforce Policy Advisor.
+SECTION 18.
+ ORS 660.340 is amended to read:
+660.340. (1) There is created in the [ Higher Education Coordinating  Commission ] Bureau of
+Labor and Industries  the Oregon Employer Workforce Training Program. Subject to the availabil-
+ity of funding, and in consultation with the State Workforce and Talent  Development Board, the
+[commission] bureau shall operate, and local workforce development boards shall manage, the pro-
+gram for the purpose of:
+(a) Assisting businesses and consortia of  businesses in implementing projects that identify and
+provide cost-effective solutions to the issues of employee training, retention and advancement;
+(b) Maximizing the utilization of public and private resources for providing training  to employed
+persons in skills that are responsive to the need of businesses and industries in Oregon  to become
+and to remain competitive on the national and international level; and
+(c) Responding to the need of workers in Oregon to develop current job skills necessary to  meet
+the current and future needs of employers.
+(2)(a) Businesses in industries identified in the plans developed  by local workforce development
+boards as required by ORS  660.327 are eligible to participate in projects selected for participation
+in the program.
+(b) Priority  for approval of projects submitted under this subsection shall be given to businesses
+in industries that have the greatest impact on the local economy and emerging green jobs.
+(3) Local workforce development boards shall:
+(a) Identify businesses and consortia of businesses for potential participation in the program;
+(b) Develop and implement an application process for projects proposed for the program;
+(c) Notwithstanding the provisions of the  Public Contracting Code, use an open and competitive
+procurement process for agreements entered into with participants in the program;
+(d) Require that businesses participating in a project provide private sector funding  equal to the
+amount of state funding provided for the project; and
+(e) Track and report to the [ commission] bureau the outcomes of projects implemented in the
+local workforce development area, including, but not limited to:
+(A) The number of businesses participating in approved projects;
+(B) The number and types of projects completed;
+(C) The number of employees receiving training;
+(D) The number of jobs retained or created by the businesses participating in the project; and
+(E) The value of the private sector funding provided.
+(4) The [ commission] bureau shall adopt rules necessary  for the implementation and operation
+of the program created under subsection (1) of  this section. The rules shall include, but are not
+limited to, a process by which moneys may be appropriated and allocated to the local  workforce
+development boards to support projects identified by the local workforce development boards  under
+subsection (3) of this section.
+SECTION 19.
+ ORS 660.341 is amended to read:
+660.341. The Oregon Employer Workforce Training Fund  is established in the State Treasury,
+separate and distinct from the General Fund. Interest earned  by the Oregon Employer Workforce
+Training Fund shall be credited to the fund. Moneys in the fund  are continuously appropriated to
+the [ Higher Education Coordinating Commission ] Bureau of Labor and Industries  for the purposes
+of ORS 660.340.
+SECTION 20.  ORS 660.343 is amended to read:
+660.343. (1) There is created in the [ Higher Education Coordinating  Commission ] Bureau of
+Labor and Industries  the Oregon  National Career Readiness Certification Program to certify the
+workplace and college readiness  skills of Oregonians and to better prepare Oregonians for continued
+education and workforce training, successful employment and career advancement  in a demand-
+driven, skills-based economy.
+(2) Program services may be offered through public high schools, community colleges, local  and
+regional career centers and any other institutions determined to be  appropriate by the
+[commission] bureau to residents of Oregon and to employees of businesses located in Oregon.
+(3) Services provided by the program shall include, but are not limited to:
+(a) An assessment process that identifies the proficiency level  of program participants in work-
+ready skills including, but not limited to, reading,  applied mathematics, locating information and any
+additional skills determined by the [ commission] bureau to be necessary to meet business and in-
+dustry skill demands;
+(b) Targeted instruction  and remedial skills training to provide work-ready skills in which pro-
+gram participants are not proficient, as  determined by the assessment process described in para-
+graph (a) of this subsection, and that have been  identified by the [ commission] bureau as work-ready
+skills required by local employers;
+(c) Issuance of a National Career Readiness Certificate to program  participants who demon-
+strate proficiency in work-ready skills, as determined by the assessment process described in para-
+graph (a) of this  subsection, and who satisfy any other requirements for certification adopted by the
+[commission] bureau by rule;
+(d) Providing information to school districts, community  colleges and community college service
+districts about the National Career  Readiness Certificate and the assessments, targeted instruction
+and remedial skills training available through the program; and
+(e) An online database that:
+(A) Serves as the repository for National Career Readiness Certificate attainment data.
+(B) Provides online access to program data that enables employers  to determine the work skill
+proficiency level of individual  program participants and to locate certified individuals on a statewide
+or regional basis.
+(C) Provides individual  program participants the opportunity for career exploration, continuing
+education, job readiness practice and job searches.
+(D) Provides individual program participants the opportunity to opt out of  the database in ac-
+cordance with rules adopted by the [ commission] bureau.
+(4) The [ commission] bureau, after consultation with  the State Workforce and Talent Develop-
+ment Board and the  Department of Education, shall adopt rules for the implementation and admin-
+istration of the program created under subsection (1) of this section.
+(5) By September 1 of each year, school districts, community colleges and community  college
+service districts shall report to the  [ commission] bureau the rate of participation in and the total
+number of students enrolled in the district or community college who utilized the services provided
+by the program in the most recently concluded school year.
+(6) The [ commission] bureau shall submit a report on program outcomes and recommendations
+for improving and funding the program to the appropriate interim legislative committees and  to the
+Governor by January 1 of  each year. The report shall include a summary of the information required
+under subsection (5) of this section.
+SECTION 21.
+ ORS 660.346 is amended to read:
+660.346. (1)(a) The [ Higher Education Coordinating Commission ] Bureau of Labor and Indus-
+tries, in collaboration with the Employment  Department and the State Workforce and Talent De-
+velopment Board, shall develop and implement a demand-driven, skills-based  integrated workforce
+delivery system focused on skills and talent development.
+(b) The integrated workforce  delivery system implemented under paragraph (a) of this subsection
+must include, and the [ commission] bureau shall maintain, a workforce training inventory  of prior-
+itized occupations.
+(c) The [ commission] bureau shall prioritize recommendations for the  allocation of workforce
+training resources by the integrated workforce delivery system based on occupational  prioritization
+data developed by the Employment Department.
+(2) The [ commission] bureau shall adopt rules necessary for the implementation and adminis-
+tration of the integrated workforce delivery system developed under subsection (1) of this section.
+SECTION 22.  ORS 660.349 is amended to read:
+660.349. (1)(a) There is created in the [ Higher Education Coordinating Commission ] Office of
+Workforce Development  a program to make grants to pilot  projects to promote hands-on experi-
+ence and education in the fundamentals and core competencies  in architecture, construction trades
+and engineering for high school juniors and seniors.
+(b) Pilot projects funded by the program  created under this subsection shall be based on
+collaborative  efforts  between local school districts, community colleges, business organizations and
+labor organizations that provide participants the opportunity for education  and training in skills
+required to meet the workforce development needs of local, regional and statewide employers.
+(c) The [ commission] office may apply for and receive grants and gifts from public and private
+sources to fund grants provided under this section.
+(2) The  program created under subsection (1) of this section for making grants to pilot projects
+shall ensure that:
+(a) Local communities are informed about the availability of the grants;
+(b) The pilot projects are geographically distributed throughout Oregon;
+(c) Urban and rural participants have equal opportunity to access quality educational opportu-
+nities;
+(d) Representatives of related, ongoing community efforts  assist in the implementation of archi-
+tecture, construction trades and engineering education and training; and
+(e) The program and timelines are designed to minimize barriers to receiving funds.
+(3) When considering applications for grants, the program  shall give priority to pilot projects
+that:
+(a) Provide access for high school  juniors and seniors to architecture, construction trades and
+engineering education and training through the  efforts of local and regional career centers and
+public-private consortia;
+(b) In combination with other projects receiving funds, contribute to  architecture, construction
+trades and engineering education and training opportunities in every part of the state;
+(c) Use private and federal funds;
+(d) Facilitate sharing of resources  through public-private partnerships including collaboration
+among local school districts, community colleges, business organizations and labor organizations;
+(e) Have a long-term strategic plan and lack only the necessary financial resources;
+(f) Help students connect education and  training with career planning and job opportunities
+through local and regional career centers implemented under the federal Workforce Innovation  and
+Opportunity  Act;
+(g) Provide articulated secondary and post-secondary education programs that are designed to
+lead to a degree or industry-specific skills certification; and
+(h) Establish short-term training programs that meet the  immediate needs of local and regional
+employers.
+(4)(a) The  [ commission] office shall include in the program created under subsection (1) of this
+section a process for the certification of instructors for the program to  provide education and
+practical experience in architecture, construction trades and engineering.
+(b) The [ commission] Bureau of Labor and  Industries shall adopt by rule requirements for the
+certification of instructors described in paragraph (a) of this subsection.
+(c) Notwithstanding the requirements adopted under paragraph (b) of  this subsection, a person
+qualified to serve as an instructor in a state-recognized apprenticeship program is qualified for cer-
+tification as an instructor for projects implemented under this section.
+SECTION 23.
+ ORS 660.352 is amended to read:
+660.352. The Youth Employment  Enhancement Fund is established in the State Treasury, sepa-
+rate and distinct from the General Fund. Moneys in the Youth Employment Enhancement Fund are
+continuously appropriated to the [ Higher Education Coordinating Commission ] Bureau of Labor and
+Industries for the purposes of ORS 660.349.
+SECTION 24.
+ ORS 660.353 is amended to read:
+660.353. (1)(a) There is created in the [ Higher Education Coordinating Commission ] Bureau of
+Labor and Industries  the Oregon Youth Employment Program, which  shall operate subject to the
+availability of funds, including eligible federal funds, for the purpose of providing meaningful  work
+experience and workforce training for persons between the ages of 14 and 24.
+(b) The [ commission] bureau shall, pursuant to criteria  established by the [ commission]
+bureau, and after allocating a portion of program funds  to the Oregon Youth Corps described in
+ORS 418.653, provide grants  to local workforce development boards. The [ commission] bureau shall
+award grants in a manner that ensures no less than 20 percent of  program funds are available to
+organizations with direct experience serving communities of color.
+(2) The program shall:
+(a) Ensure that at least 75  percent of program participants are from communities of color, rural
+communities, communities that have faced generational poverty or other communities that have been
+historically underrepresented in youth employment as identified by the commission by rule;
+(b) Create an individual development plan for each program participant that outlines work
+readiness, career and educational goals;
+(c) Provide work readiness instruction;
+(d) Provide at  least five weeks of paid internships, preapprenticeships or other work experience;
+(e) Pay at least minimum wage  for work performed by program participants while in the pro-
+gram, or, if a program participant is prohibited by other state or federal law or  agreement from
+receiving wages from the program provider, provide an award valued at an amount equal to at least
+the payment of minimum wage;
+(f) Provide academic support for earning high school  graduation credit, completion of approved
+high school equivalency programs such as the  General Educational Development (GED) certificate
+program or earning college credit for work experience or internships provided through the  program;
+(g) Expose program participants to in-demand occupations and targeted sectors;
+(h) Require program providers to submit a community engagement plan that  details how the
+program providers will partner with and serve communities identified in paragraph  (a) of this sub-
+section; and
+(i) Require program providers to offer  English language learner and accessibility services that
+are compliant with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.).
+(3) The program may provide for public and private sector employment opportunities.
+(4)(a) The [ commission] bureau shall collect data on the program, identify successful work ex-
+periences and allow for the identification and dissemination of the most promising practices.
+(b) The data collected shall be disaggregated by:
+(A) The race and ethnicity of program participants;
+(B) Whether program participants come from urban or rural areas;
+(C) The family income of program participants; and
+(D) Any other characteristic of program participants that the  [ commission] bureau determines
+by rule would be useful in evaluating the success of the program.
+(c) The data collected shall include:
+(A) The number of participants in the program;
+(B) The number of participants that complete the program;
+(C) The cost of internships and other work experiences provided;
+(D) The academic credit earned by participants; and
+(E) The number of  certificates for passing approved high school equivalency tests such as the
+General Educational Development (GED) test earned by participants.
+(5) The [ commission] bureau shall conduct culturally responsive outreach and engagement and
+offer technical assistance to prospective program providers.
+(6) In a manner determined by  the [ commission] bureau by rule, the [ commission] bureau shall
+assist identified  program providers in recruiting program participants across diverse communities
+by providing:
+(a) Translation and accessibility services for marketing materials; and
+(b) Training to program providers in culturally  responsive, social emotional health and mental
+health practices.
+(7) The [ commission] bureau shall adopt  rules necessary for the implementation and operation
+of the program created under subsection (1) of this section.  The rules shall include, but are not
+limited to, establishing eligibility criteria for persons participating in the program.
+SECTION 25.
+ ORS 660.354 is amended to read:
+660.354. The Oregon  Youth Employment Fund is established in the State Treasury, separate and
+distinct from the General  Fund. Interest earned by the Oregon Youth Employment Fund shall be
+credited to the fund. Moneys in the fund are continuously appropriated to the [ Higher Education
+Coordinating Commission ] Bureau of Labor and Industries  for the purposes of ORS 660.353.
+SECTION 26.  ORS 418.653 is amended to read:
+418.653. Subject to the  availability of funds, there is created within the Oregon Youth Employ-
+ment Program established under ORS 660.353 an Oregon Youth Corps that shall provide  emergency
+services, public conservation, rehabilitation  and improvement programs. The corps shall be headed
+by a program director, and shall be  administered through the [ Higher Education Coordinating Com-
+mission] Bureau of Labor and Industries . The program director shall operate  the corps in con-
+sultation with the Oregon Youth Works Advisory Board created under ORS 660.320.
+SECTION 27.  ORS 418.657 is amended to read:
+418.657. (1) In  consultation with the Oregon Youth Works Advisory Board created under ORS
+660.320 and the [ executive ] Director of the [ Higher Education Coordinating Commission ] Office of
+Workforce Development , or the designee of the [ executive ] director, the  program director of the
+Oregon Youth Corps shall:
+(a) Establish eligibility criteria  for participants. Such criteria shall not render the program in-
+eligible for federal funds. Participants shall be lawful permanent residents of this state.
+(b) Establish criteria in order  to make the required determination that enrollment in the corps
+was not the reason that an individual ceased attendance at a secondary school.
+(c) Assume that  application of the eligibility and participation criteria results in enrollment of
+at least 75 percent disadvantaged and at-risk youth among the total number of participants.
+(2) The program  director, in consultation with the [ executive ] director, or the designee of the
+[executive ] director, may take the following actions, including but not limited to:
+(a) Applying for and accepting grants or contributions of funds  from any public or private
+source;
+(b) Making agreements  or entering into contracts or other agreements with any local, state or
+federal agency, or with  any private or public organization or tribal government, to utilize, pay for
+or support any service, material or property of any such entity, where such agreements  are consid-
+ered reasonable and necessary; and
+(c) Purchasing, contracting or making payment for necessary services, awards,  equipment, ma-
+terials and property where such are  needed to carry out the projects approved for and undertaken
+by the corps.
+(3) The [ commission] bureau may adopt all necessary rules to carry out the purposes and ob-
+jectives of the program and to regulate the standards of conduct and other operating  guidelines for
+corps members and other personnel.
+(4) Corps members are exempt from:
+(a) State Personnel Relations Law; and
+(b) ORS 279C.800 to 279C.870.
+SECTION 28.
+ ORS 418.658 is amended to read:
+418.658. (1) The program director of  the Oregon Youth Corps shall establish within the Oregon
+Youth Employment Program established under ORS 660.353 a separate program  known as the
+Oregon Community Stewardship Corps. In addition to  the established purposes of the Oregon Youth
+Corps, the purpose of the Oregon Community Stewardship Corps is to promote  community service
+activities throughout the state for a broad cross section of Oregon disadvantaged and  at-risk youth
+through programs that also include  appropriate educational and job training opportunities for par-
+ticipants.
+(2) In addition to projects submitted under ORS 418.660 (1), projects of the Oregon Community
+Stewardship Corps may include, but shall not be limited to:
+(a) Child care services.
+(b) Elderly and disabled care services.
+(c) Literacy education programs.
+(d) Recycling and other waste reduction services.
+(3) The Oregon Community Stewardship Corps shall  offer employment and educational opportu-
+nities of at least three but not more than 12 months’ duration for selected participants.
+(4) Under rules adopted by the  [ Higher Education Coordinating Commission ] Bureau of Labor
+and Industries, participants  who successfully complete any program under this section shall be el-
+igible for up to $1,500 in support vouchers that can be  used to pay for tuition, books or other items
+or services that enhance and support education or employment.
+(5) All Oregonians who are at  least 13 years of age and under 25 years of age are eligible to
+participate in the program. To ensure that Oregon Community Stewardship Corps  participants rep-
+resent a broad  cross section of Oregonians, special emphasis shall be given to recruiting school
+dropouts  and  other disadvantaged and at-risk youth, according to criteria established by the Oregon
+Youth Works Advisory Board created under ORS 660.320.
+(6) To the extent practicable, the program director shall enlist state and federal agencies, local
+government, nonprofit organizations and private businesses,  and any combination of such entities,
+to act as sponsors for programs administered under  this section. Selection of sponsors shall be based
+on criteria that include the following:
+(a) The availability of other  resources on a matching basis, including contributions from private
+sources, other federal, state and local agencies, and moneys  available through the federal Workforce
+Innovation and Opportunity Act;
+(b) The provision  of related educational and job training programs to participants, including but
+not limited to school and college coursework, training for approved high  school equivalency tests
+such as the General  Educational Development (GED), project-related education and professional
+training;
+(c) Assurances that proposed projects will not displace existing employees or duplicate  existing
+private or government programs; and
+(d) Assurances that proposed projects are devoted  to the enhancement of the community and are
+not based in maintenance activities and that these projects meet an identified need.
+(7) In consultation  with the advisory board, the program director shall make grants for programs
+administered under this section.
+SECTION 29.
+ ORS 418.660 is amended to read:
+418.660. (1) The programs established under ORS  418.650 to 418.663 may include, but shall not
+be limited to, projects such as:
+(a) Rangeland conservation, rehabilitation and improvement;
+(b) Endangered species and other wildlife habitat conservation, rehabilitation and improvement;
+(c) Urban revitalization;
+(d) Historical and cultural site preservation and maintenance;
+(e) Recreational area development, maintenance, improvement and beautification;
+(f) Road and trail maintenance and improvement;
+(g) Soil conservation work, including erosion control;
+(h) Flood, drought and storm damage assistance and relief;
+(i) Stream, lake, waterfront harbor and port improvement and pollution control;
+(j) Fish culture and habitat maintenance and improvement;
+(k) Insect, disease, rodent and other pestilence control;
+(L) Improvement of abandoned railroad land and right of way;
+(m) Land reclamation and improvement, including  strip-mined lands, public landscape work and
+tree planting programs;
+(n) Energy conservation projects including assistance in the performance of energy efficiency
+audits, weatherization and renewable resource enhancement;
+(o) Emergency assistance in times of natural or other disaster;
+(p) Recycling projects; and
+(q) Garden, greenhouse and farming programs.
+(2) In consultation with the Oregon Youth Works  Advisory Board created under ORS 660.320
+and the [ executive ] Director of the [ Higher Education Coordinating Commission ] Office of
+Workforce Development , or the designee of the [ executive ] director, the  program director of the
+Oregon Youth Corps shall ensure  that projects selected under ORS 418.650 to 418.663 shall be con-
+sistent with all other provisions of applicable  state and federal law relating to the management,
+oversight and administration of affected public lands.
+SECTION 30.
+ ORS 476.696 is amended to read:
+476.696. (1) As used in this section:
+(a) “Eligible  organization” includes Oregon-based nonprofit youth development organizations,
+federally recognized Indian tribes  in this state, nonprofit associations engaged in workforce devel-
+opment and public entities that provide programs of job training, skill  development and forest-
+related or rangeland-related career path training.
+(b) “Tribe” means a federally recognized Indian tribe in Oregon.
+(2) The Oregon Youth Works Advisory Board created under ORS 660.320 shall, in  collaboration
+with a qualified nonprofit foundation, actively seek and source  private donations to support the
+Oregon Conservation Corps Program.
+(3) The advisory board may direct the expenditure of moneys from the  Oregon Conservation
+Corps Fund for a promotional website and materials to solicit private funds.
+(4) The advisory board shall advise the [ Higher Education Coordinating Commission ] Bureau of
+Labor and Industries  on the implementation of a grant process that:
+(a) Provides funding to support the work conducted by the  Oregon Conservation Corps Program.
+(b) Defines and uses an equity lens in awarding  grants by identifying and supporting populations
+with greater vulnerability, including communities  of color, indigenous communities, communities
+with members who have limited proficiency in English and communities  with lower-income members.
+(c) Awards grants to eligible organizations.
+(d) Ensures that grant awards support activities described  in ORS 476.694 (1) and subsection (5)
+of this section.
+(e) Establishes guidelines  for prioritizing grant-supported projects to reduce community fire
+risks, promote youth and young adult workforce development and educational experiences  and re-
+duce hazardous fuels.
+(5) The [ commission] bureau shall consult  with the State Forestry Department to ensure that
+the grant process awards funds to proposals that:
+(a) Protect at-risk  communities and infrastructure within the wildland-urban interface, as de-
+scribed in ORS 477.503.
+(b) Meet standards for fuel treatment established by the department.
+(6) The advisory board shall biennially submit a report,  on the timeline described in ORS
+293.640, to an appropriate committee or interim committee of the Legislative Assembly, as described
+in ORS  192.245, and to the State Wildfire Programs Director and Wildfire Programs Advisory
+Council, regarding the expenditure of moneys deposited in the Oregon Conservation Corps Fund.
+SECTION 31.
+ ORS 476.698 is amended to read:
+476.698. (1) The Oregon Conservation Corps Fund is established in the  State Treasury, separate
+and distinct from the General Fund. Interest earned by the Oregon Conservation Corps Fund  shall
+be credited to the fund.
+(2) The fund may receive contributions from individuals and private organizations.
+(3) Moneys in the fund are continuously appropriated to the [ Higher Education Coordinating
+Commission] Bureau of Labor and Industries  to be  used as directed by the Oregon Youth Works
+Advisory Board created under ORS 660.320  and for related administrative expenses of the [ commis-
+sion] bureau.
+(4) The [ commission] bureau shall  keep records of all moneys credited to and deposited in the
+fund and the activity or program against which each withdrawal from the fund is charged.
+SECTION 32.
+ ORS 660.320 is amended to read:
+660.320. (1) There is created in the [ Higher Education Coordinating  Commission ] Bureau of
+Labor and Industries the Oregon Youth Works Advisory Board. The purpose of the  advisory board
+is to provide advice on and oversight of  the implementation and alignment of youth workforce de-
+velopment programs for which the [ commission] bureau is responsible, including but not limited to:
+(a) The Oregon Youth Corps created under ORS 418.653;
+(b) The Oregon Conservation Corps Program established under ORS 476.694; and
+(c) The Oregon Youth Employment Program created under ORS 660.353.
+(2) The Governor, in consultation with the [ commission] bureau, shall determine the number of
+members on the advisory board. In determining the number of members on the advisory  board, the
+Governor shall ensure that membership consists of at least seven but not more than 12 members.
+(3) The Governor shall appoint the members of the advisory board. The members must be resi-
+dents of this state who reflect the geographic, racial, ethnic and gender diversity of this  state and
+who have necessary  experience that will enable the advisory board to meaningfully advise the
+[commission] bureau on topics including, but not limited to:
+(a) Career-connected learning that  provides learners with career awareness, exploration, prepa-
+ration and training in connection with professional and industry-based expectations;
+(b) Development of career pathways;
+(c) Youth education programs;
+(d) Workforce development programs;
+(e) Rural workforce needs; and
+(f) Workforce issues affecting underrepresented communities.
+(4) The advisory board must include representation from:
+(a) The forestry or wildfire sector;
+(b) The natural resources sector;
+(c) Workforce sectors that are experiencing workforce demands;
+(d) Communities in which the wildland-urban interface faces a high risk of wildfire exposure;
+(e) Underrepresented communities, including communities of color, rural communities and  com-
+munities that have  faced generational poverty or other communities that have been historically
+underrepresented in youth employment as determined by the [ commission] bureau by rule;
+(f) Tribal communities; and
+(g) Local workforce development boards.
+(5) Members of the advisory board serve for a  term of four years at the pleasure of the Gover-
+nor.
+(6) Members may not receive compensation  for service on the advisory board, but, subject to
+any applicable laws regulating travel and other expenses of state  officers and employees, may be
+reimbursed for actual and necessary  travel and other expenses incurred in the performance of offi-
+cial duties, as provided in ORS 292.495, with moneys available to the advisory board for  the purpose
+of reimbursing members.
+(7) The [ commission] bureau shall provide the advisory board with necessary staff support.
+SECTION 33.
+ ORS 660.348 is amended to read:
+660.348. (1) Once every even-numbered year, the Committee for  Continuous Improvement estab-
+lished under ORS 660.347 shall identify and contract with  an independent third-party entity to con-
+duct a comprehensive assessment  of the public workforce system in this state and to make
+recommendations for improvements.
+(2) The  comprehensive assessment shall include a review of the workforce programs and services
+administered by the following entities through the public workforce system:
+(a) The Higher Education Coordinating Commission;
+(b) Local workforce development boards;
+(c) The Employment Department;
+(d) The Commission for the Blind;
+(e) The Department of Human Services;
+(f) The Housing and Community Services Department; [ and]
+(g) The Bureau of Labor and Industries; and
+[(g)] (h) Any other entities deemed appropriate by the committee.
+(3) The comprehensive assessment shall be conducted with a focus on:
+(a) Advancing racial justice, equity, diversity and inclusion through the programs and  services
+delivered through the public workforce system;
+(b) Aligning state and local efforts to improve the public workforce system in this state;
+(c) Supporting improvements that create a more comprehensive public workforce system;
+(d) Providing quality employment experiences and equitable outcomes for job seekers and  busi-
+nesses participating in workforce programs;
+(e) Improving the  quality of workforce resources, programs and services made available through
+the public workforce system and the transparency of information  regarding performance metrics and
+outcomes related to those resources, programs and services; and
+(f) Building on any current workforce program assessments that are required by law.
+(4)(a) The committee shall present the results of each assessment, along  with any recommen-
+dations for improvements, in reports to  the Governor and to the interim committees of the Legisla-
+tive Assembly related to workforce development, in  the manner provided under ORS 192.245, on or
+before December 15 of each even-numbered year.
+(b) The committee  shall include in the committee’s first report, an update regarding the imple-
+mentation of the recommendations from the assessment  of the public workforce system conducted
+under section 3, chapter 280, Oregon Laws 2021.
+SECTION 34.
+ ORS 660.380 is amended to read:
+660.380. (1) The  Prosperity 10,000 Program is established in the [ Higher Education Coordinating
+Commission] Bureau of Labor and Industries  for the following purposes:
+(a) To provide career coaching, occupational training and job placement services;
+(b) To provide wraparound supports and  services that are necessary to facilitate reengagement
+in the workforce, including, but not limited to, transportation, child care and rental assistance;
+(c) To provide paid work experiences, including stipends and wages and other  income supports
+for individuals from priority populations; and
+(d) To support targeted recruitment and engagement efforts.
+(2) The goals of the Prosperity 10,000 Program are to:
+(a) Include at least 10,000 total individuals who participate in the program;
+(b) Improve the capacity and responsiveness of the public workforce system in this state by
+providing assistance for workforce development program navigation,  expanding access to
+community-based career counseling and wraparound supports and services, and  providing opportu-
+nities to earn industry-recognized certificates,  credentials and degrees through work-based learning
+experiences;
+(c) Ensure that services and  benefits available through workforce programs are provided to in-
+dividuals from priority populations;
+(d) Provide increased access for priority populations to services and benefits  available through
+workforce programs;
+(e) Ensure that at least 50 percent of the individuals who  participate in the program are women;
+(f) Ensure that  at least 80 percent of the individuals who participate successfully complete the
+program;
+(g) Ensure that  at least 75 percent of the individuals who participate in the program successfully
+obtain employment; and
+(h) Ensure that at least 75  percent of the individuals who participate in the program earn at
+least $17 per hour.
+(3)(a) The Prosperity 10,000 Program shall be administered by local workforce  development
+boards. The local workforce development boards shall:
+(A) Distribute resources and available funds to nonprofit community-based organizations,  edu-
+cational institutions, labor organizations and other workforce service providers  to facilitate the
+provision of workforce  development services and wraparound supports to individuals who participate
+in the program;
+(B) Coordinate with state workforce agencies and other workforce partners to  expand regional
+community-based partnerships that work to support and sustain workforce development services  and
+wraparound supports; and
+(C) Connect with  businesses and organizations in targeted industry sectors to identify training
+needs and ensure that business needs relating to a skilled workforce are met.
+(b) An entity that collaborates with a local workforce development  board to accomplish the
+workforce development activities described under this subsection shall, in accordance  with ORS
+660.327, participate with local workforce development boards in developing a proposed local plan.
+(4)(a) If  an entity receives funds distributed from a local workforce development board under
+this section and provides paid work experience to individuals who participate in the  program es-
+tablished under this section, the entity shall:
+(A) Notwithstanding ORS 653.025 and subsection (2)(h) of this section, pay wages  to individuals
+participating in the program at a rate that is:
+(i) Equivalent to an entry-level training wage as determined by  the entity pursuant to paragraph
+(b) of this subsection; and
+(ii) In alignment with the  wage progression schedule established by the entity under subpara-
+graph (B) of this paragraph;
+(B) Establish  a wage progression schedule that includes the step progression requirements and
+the rate  calculation formula upon which the entity shall make determinations about a participating
+individual’s eligibility to increase the individual’s wage rate  from an entry-level training wage to a
+wage rate that  is equivalent to the average area wage standard for an hour’s work in the same trade
+or occupation in the locality where the labor is performed;
+(C) Develop  a training plan for individuals participating in the program that includes, at a
+minimum:
+(i) The entry-level training wage that will be paid to the individual;
+(ii) A statement that the individual shall  be paid according to the wage progression schedule
+established by the entity, along with a description of the requirements  that the individual must meet
+in order to progress to a higher wage rate under the wage progression schedule;
+(iii) A statement that the entry-level training wage paid to  the individual may not be less than
+the federal minimum wage rate or the applicable state  minimum wage rate, whichever is greater;
+and
+(iv) A statement explaining that the entry-level  training wage paid to the individual is a mini-
+mum standard  and that a higher wage rate shall be paid to the individual if so required under other
+applicable federal or state laws, regulations or a collective bargaining agreement; and
+(D) Provide each individual participating in the program with  a copy of the training plan de-
+scribed in subparagraph (C) of this paragraph on the date on  which the individual first begins par-
+ticipating in the program.
+(b) For purposes of paragraph (a)(A) of this subsection, the entry-level training  wage shall be a
+percentage amount of the average area wage standard for an hour’s  work in the same trade or oc-
+cupation in the locality  where the labor is performed, but in no event may the entry-level training
+wage be less than the applicable state minimum wage rate under ORS 653.025.
+(c) Each individual who performs work  for an entity described in this subsection shall be con-
+sidered an employee  of the entity for purposes of state wage and hour laws and state laws prohib-
+iting employment discrimination and retaliation.
+(5)(a) As used in this subsection, “SNAP Employment and Training Program”  means the em-
+ployment and training component of the federal  Supplemental Nutrition Assistance Program under
+7 U.S.C. 2015(d)(4).
+(b) To the extent possible, the Department of Human Services shall:
+(A) Incorporate the Prosperity 10,000 Program into the statewide plan  for the SNAP Employ-
+ment and Training Program;
+(B) Seek federal reimbursement for 50 percent of  the Prosperity 10,000 Program’s costs and for
+other eligible activities as reported by the local workforce development boards;
+(C) Refer individuals who receive supplemental nutrition assistance under ORS 411.806 to
+411.845 to participate in the Prosperity 10,000 Program; and
+(D) Distribute moneys received as reimbursement under  subparagraph (B) of this paragraph to
+local workforce development boards, not later than 60 days after the  department receives an invoice
+that is consistent with  requirements under the SNAP Employment and Training Program, for rein-
+vestment in workforce development and wraparound supports and  services provided under the
+Prosperity 10,000 Program.
+(6) The State Workforce and  Talent Development Board, in consultation with the Committee for
+Continuous Improvement, shall:
+(a) Oversee the progress of the Prosperity 10,000 Program;
+(b) Ensure that program goals are met; and
+(c) Identify areas for program improvement.
+SECTION 35.
+ ORS 660.385 is amended to read:
+660.385. [(1)(a) Not  later than 60 days following March 17, 2022, the Higher Education Coordi-
+nating Commission shall distribute the funds specifically appropriated  to the commission under section
+13, chapter 28, Oregon Laws 2022, to local workforce development boards to administer the  Prosperity
+10,000 Program. ]
+[(b)] (1) The [ commission] Bureau of Labor and Industries  shall distribute all moneys received
+from moneys made available [ under sections 13 and 14, chapter 28,  Oregon Laws 2022, ] by the Leg-
+islative Assembly for the Prosperity 10,000 Program established under  ORS 660.380  to local
+workforce development boards using  the same formula as required under the federal Workforce In-
+novation and Opportunity Act (29 U.S.C. 3101 et seq.) for the allocation of funds to  local workforce
+development  boards.
+(2) Each  local workforce development board shall compile data on the progress made toward
+carrying  out  the Prosperity 10,000 Program. The boards shall prepare and submit a joint report that
+includes data, disaggregated by race, gender and geography, to the  [ commission] bureau and the
+State Workforce and Talent Development Board  no later than October 31 of each year, in the
+manner provided in ORS 192.245.
+SECTION 36.  ORS 660.400 is amended to read:
+660.400. (1) As used in this section:
+(a) “Community-based organization” has the meaning given that term in ORS 660.390.
+(b) “Community college” has the meaning given that term in ORS 341.005.
+(c) “Workforce service provider” includes:
+(A) Nonprofit and public workforce education, training and career services providers.
+(B) Governmental entities that are providers of workforce development services.
+(2) There is established in the [ Higher Education Coordinating Commission ] Bureau of Labor
+and Industries  a program to award grants to workforce service providers  and community-based
+organizations that administer workforce programs  in the health care, manufacturing and technology
+industry sectors and that prioritize equitable program participation  by individuals from priority
+populations.
+(3) The [ commission] bureau shall establish criteria and standards by which a  workforce service
+provider or a community-based organization may submit a proposal to receive a  grant under this
+section. In establishing criteria and standards, the [ commission] bureau shall consider federal non-
+discrimination and equal  opportunity provisions of the Workforce Innovation and Opportunity Act.
+The [ commission] bureau shall award grants on a competitive basis, taking into consideration  pro-
+posals that:
+(a) Describe how the workforce service  provider or the community-based organization intends
+to engage with employers in the  targeted industry sectors to provide workforce development op-
+portunities to individuals from priority populations.
+(b) Demonstrate the workforce service  provider’s or the community-based organization’s experi-
+ence serving individuals from priority populations.
+(c) Describe how the workforce service  provider or the community-based organization intends
+to collaborate with one  or more of the following entities to increase accessibility for priority popu-
+lations to workforce programs and opportunities:
+(A) Other workforce service providers or community-based organizations;
+(B) Kindergarten through grade 12 schools;
+(C) Community colleges;
+(D) Education and training partners;
+(E) Local workforce development boards;
+(F) Economic development organizations;
+(G) Industry associations; and
+(H) Universities, as defined in ORS 660.350.
+(d) Demonstrate that a workforce  partner with which a workforce service provider or a
+community-based organization intends  to partner possesses specific qualifications, including the or-
+ganizational and technical capacity,  necessary to carry out the purposes described under subsection
+(5)(a) to (d) of this section.
+(e) Prioritize opportunities to leverage the use of other funding sources, including federal funds
+and private sector contributions, toward workforce programs and opportunities.
+(4) In awarding grants under this section, the [ commission] bureau shall consult with  the State
+Workforce and Talent Development Board and shall incorporate input from  local workforce devel-
+opment boards and industry consortia convened under ORS 660.410.
+(5) Grant  moneys awarded under this section shall be expended for one or more of the following
+purposes:
+(a) To provide paid work experience, including stipends and wages;
+(b) To offer tuition and fee assistance for workforce programs;
+(c) To provide wraparound workforce development services;
+(d) To develop culturally and linguistically specific career pathways for obtaining  certificates,
+credentials or degrees recognized by targeted industry sectors; and
+(e) To fund organizational investments, including, but not limited to:
+(A) Hiring staff;
+(B) Developing organizational development strategies;
+(C) Purchasing equipment, technology or other training-related supplies;
+(D) Covering administrative costs; and
+(E) Any other activities identified  in a grant proposal as necessary to administer workforce
+programs described under this section.
+(6)(a) If  a grant recipient expends moneys to provide paid work experience to individuals par-
+ticipating in a workforce program administered by the grant recipient, the grant recipient shall:
+(A) Notwithstanding ORS 653.025, pay wages to individuals participating in the  program at a
+rate that is:
+(i) Equivalent to an entry-level training wage as  determined by the grant recipient pursuant to
+paragraph (b) of this subsection; and
+(ii) In alignment with the  wage progression schedule established by the grant recipient under
+subparagraph (B) of this paragraph;
+(B) Establish  a wage progression schedule that includes the step progression requirements and
+the rate  calculation formula upon which the grant recipient shall make determinations about a
+participating individual’s eligibility to increase the individual’s wage rate from  an entry-level train-
+ing wage to a wage rate  that is equivalent to the average area wage standard for an hour’s work
+in the same trade or occupation in the locality where the labor is performed;
+(C) Develop  a training plan for individuals participating in the program that includes, at a
+minimum:
+(i) The entry-level training wage that will be paid to the individual;
+(ii) A statement that the individual shall  be paid according to the wage progression schedule
+established by the grant recipient  entity, along with a description of the requirements that the in-
+dividual must meet in order to progress to a higher wage rate under the wage progression schedule;
+(iii) A statement that the entry-level training wage  paid to the individual may not be less than
+the federal minimum wage rate or the  applicable state minimum wage rate, whichever is greater;
+and
+(iv) A statement explaining that the entry-level training wage paid  to the individual is a mini-
+mum standard  and that a higher wage rate shall be paid to the individual if so required under other
+applicable federal or state laws, regulations or a collective bargaining agreement; and
+(D) Provide each individual participating in the program  with a copy of the training plan de-
+scribed in subparagraph (C) of this paragraph  on the date on which the individual first begins par-
+ticipating in the program.
+(b) For purposes of paragraph  (a)(A) of this subsection, the entry-level training wage shall be a
+percentage amount of the average area wage standard  for an hour’s work in the same trade or oc-
+cupation in the locality where the labor is performed, but in no event may  the entry-level training
+wage be less than the applicable state minimum wage rate under ORS 653.025.
+(c) An individual who performs work for  grant recipient described in this subsection shall be
+considered an employee of the grant  recipient for purposes of state wage and hour laws and state
+laws prohibiting employment discrimination and retaliation.
+(7) The  [commission] bureau shall compile information from each recipient of a grant under this
+section regarding the status and use of grant funds to ensure funding is expended  for permissible
+purposes. At a minimum, the information must include, where applicable:
+(a) The number of individuals who have registered for  or completed a workforce program in
+health care, manufacturing or technology;
+(b) The number of workforce programs developed and  administered by a workforce service pro-
+vider or a community-based organization;
+(c) The job placement rate for and income earnings  by individuals participating in a workforce
+program described under this section;
+(d) The number of individuals from priority populations who  receive services or benefits from
+workforce programs administered by a workforce service provider or a community-based  organiza-
+tion; and
+(e) A description of the  types and amount of wraparound workforce development services pro-
+vided by a workforce service provider or a community-based organization.
+(8) The [ commission] bureau may adopt  any rules necessary for carrying out the provisions of
+this section.
+SECTION 37.
+ ORS 660.405 is amended to read:
+660.405. (1) As used in this section:
+(a) “Community-based organization” has the meaning given that term in ORS 660.390.
+(b) “Comprehensive one-stop center” has the meaning given that term in 34 C.F.R. 361.305.
+(c) “Workforce benefits navigator” means an individual who:
+(A) Is employed at a comprehensive  one-stop center or a community-based organization to advise
+and assist individuals from priority populations in accessing workforce programs and  applying for
+benefits and services that are available under the programs;
+(B) Has comprehensive  knowledge and understanding of workforce programs and the benefits
+and services that are available under those programs;
+(C) Is aware of the cultural and linguistic differences of individuals from priority populations,
+including knowledge of the lived experiences of such individuals; and
+(D) Is trained in trauma-informed practices.
+(2) The [ Higher Education Coordinating Commission ] Bureau of  Labor and Industries , in con-
+sultation with the State Workforce and Talent Development Board,  shall establish and administer
+a program to award grants for  pilot projects implemented by local workforce development boards
+that partner with comprehensive one-stop centers or community-based organizations to  employ a
+workforce benefits navigator to connect individuals from priority  populations to workforce programs
+and to increase access for such  individuals to services and benefits made available under those
+workforce programs.
+(3) The [ commission] bureau shall establish criteria and standards by which local workforce
+development boards may submit proposals to receive a grant under this section.
+(4) The [ commission] bureau may adopt  any rules necessary for carrying out the provisions of
+this section.
+SECTION 38.
+ ORS 660.410 is amended to read:
+660.410. (1) As used in this section, “community-based  organization” has the meaning given that
+term in ORS 660.390.
+(2)(a) The [ Higher Education Coordinating Commission ] Bureau of Labor and Industries , in
+consultation with the  State Workforce and Talent Development Board, shall establish a program to
+convene statewide industry consortia that represent the health care, manufacturing  and technology
+industry sectors. Each individual consortium established under  this section shall represent a single
+targeted industry sector.
+(b) The purpose of the program is to:
+(A) Establish strategic partnerships to align workforce development activities that  aim to in-
+crease participation in workforce programs by individuals from priority populations;
+(B) Develop structured processes to address mutual goals and promote consensus  in decision-
+making;
+(C) Identify industry-specific workforce needs in this state, including the need for high-value
+credentials, to inform the development and implementation of culturally  and linguistically diverse
+workforce education and training curricula;
+(D) Develop targeted recruitment strategies to increase equitable  participation by individuals
+from priority populations in statewide workforce programs;
+(E) Promote workforce development programs and activities in  the targeted industry sectors;
+and
+(F) Establish wage rate standards, varied by locality, for  each skilled occupation within each
+of the sectors specified in paragraph (a) of this subsection.
+(3) Once every two years, each industry consortium established under this section shall:
+(a) Recalculate the wage rate standards  described in subsection (2)(b)(F) of this section using
+relevant economic and  employment data made available by the Employment Department. If there is
+no such data available, the consortium shall recalculate the wage rate standards  using relevant
+economic and employment data made available from other resources, as identified  by the [ commis-
+sion] bureau by rule.
+(b) Submit a statement to the [ commission] bureau summarizing the methodology  used to recal-
+culate the wage rate standards and the date  on which the new wage rate standards shall take effect.
+(4)(a) An industry consortium established under this  section shall operate under the direction
+of a leadership team composed of the following representatives from the consortium’s  targeted in-
+dustry sector:
+(A) A representative who is a business leader.
+(B) A representative of  a community-based organization that administers one or more workforce
+programs.
+(C) One or more representatives of workforce education and training providers.
+(D) A representative of a labor organization.
+(b) To the extent practicable, members of the leadership team shall include individuals who  are
+representative of priority populations.
+(c) The membership of an industry consortium established under  this section must include, in
+addition to the members of the leadership team, the following:
+(A) One or more representatives from the State Workforce and Talent Development Board.
+(B) One or more representatives of the Racial Justice  Council within the Office of the Governor.
+(C) One or more representatives of employers.
+(D) One or more representatives of an industry association.
+(E) One or more representatives of labor organizations.
+(F) One or more representatives of local workforce development boards.
+(G) One or more representatives of economic developers.
+(5) The State Workforce and Talent Development Board, or any other neutral entity designated
+by the board, shall serve as the intermediary between the industry consortia members.
+(6) The [ commission] bureau may adopt any  rules necessary to carry out the provisions of this
+section.
+SECTION 39.
+ ORS 660.415 is amended to read:
+660.415. (1) The Higher Education Coordinating Commission, [ in collaboration with ] the State
+Workforce and Talent Development Board, the Bureau of Labor and Industries and the Department
+of Education[ ,] shall collaborate and review each of the  programs established under ORS 660.175,
+660.350, 660.351, 660.380, 660.390, 660.400, 660.405 and 660.410 to assess performance and expenditure
+outcomes of the programs. In  evaluating the programs, the commission and the bureau, as appli-
+cable, shall compile the following information:
+(a) For  the programs established under ORS 660.175, 660.350, 660.380, 660.390, 660.400, 660.405
+and 660.410:
+(A) The number of individuals from priority populations who have  registered for and who have
+completed a workforce program, including apprenticeship and preapprenticeship training programs;
+(B) Data on job placement rates, wages and salary earnings  and health and retirement benefits
+provided for individuals who participated in an established program;
+(C) A description of any  new or expanded workforce programs, including training programs,
+career pathway programs and apprenticeship and preapprenticeship training programs, established
+as a result of the programs described under ORS 660.175, 660.350,  660.380, 660.390, 660.400, 660.405
+and 660.410; and
+(D) The types and amounts of any wraparound supports  and services provided to individuals
+from priority populations.
+(b) For the program established under ORS 660.351:
+(A) The  number of youth or young adults from priority populations who have registered for or
+completed a youth workforce program;
+(B) Data on job placement rates for youth or young adults from priority populations who  have
+completed a youth workforce program; and
+(C) A description  of any new or expanded paid work experiences, workforce readiness training
+or job placement services created as a result of grants awarded under ORS 660.351.
+(2) In carrying out  the duties described under subsection (1) of this section, the commission and
+the bureau shall coordinate [ its] their activities with relevant state  agencies and other workforce
+partners to:
+(a) Identify opportunities for leveraging existing partnerships to align data  collection standards
+and practices and to integrate data with any common data system among those partnerships;
+(b) Support the [ commission’s] assessment efforts described under this section  and identify
+areas for future workforce development investments; and
+(c) Facilitate communication with workforce stakeholders, including but not  limited to job
+seekers, employers,  community-based organizations and workforce service providers, in an inclusive
+manner and, when appropriate, provide stakeholders with access to the results and findings resulting
+from the [ commission’s] review described under subsection (1) of this section .
+(3) By December 31 of each year, the commission and the bureau shall prepare and submit a
+joint report that includes the information described in subsection (1) of this  section, disaggregated
+by race, age, gender and geographical area, including any recommendations for  future investments
+and opportunities to leverage private and federal funding to support  investments, to the Governor
+and to the interim committees of the Legislative  Assembly related to workforce development, in the
+manner provided in ORS  192.245. In addition to including the information described under subsection
+(1) of this section, the report shall:
+(a) Provide baseline estimates of statewide labor force  participation rates that include, at a
+minimum:
+(A) Long-term employment projections for health care and manufacturing;
+(B) The progress made toward achieving the statewide educational  attainment goals established
+under ORS 350.014 and 350.018; and
+(C) Projections related to post-secondary educational attainment needs; and
+(b) Describe how the programs  established under ORS 660.175, 660.350, 660.380, 660.390, 660.400,
+660.405 and 660.410 contributed  to statewide labor force participation by demonstrating, at a mini-
+mum, the following:
+(A) The percentage of individuals  who participated in an established program as compared to
+the share of the statewide labor force, by race;
+(B) The percentage of individuals who participated in  an established program as compared to
+the share of the statewide labor force, by gender;
+(C) The percentage of individuals who participated in an established program and  who received
+a post-secondary certificate, credential or degree as compared to the share of the statewide  labor
+force, disaggregated by race, age, gender and geographical area;
+(D) The number of individuals who participated in an established program and  who received a
+post-secondary certificate, credential or degree as compared to  the statewide educational attainment
+goals described under ORS 350.014 and 350.018, disaggregated by race, age,  gender and geographical
+area; and
+(E) The job  placement rates of individuals who participated in an established program as com-
+pared to long-term employment projections for health care and manufacturing, disaggregated  by
+race, age, gender and geographical area.
+(4) As used in this section:
+(a) “Community-based organization” has the meaning given that term in ORS 660.390.
+(b) “Workforce service provider” has the meaning given that term in ORS 660.400.
+(c) “Youth workforce program” has the meaning given that term in ORS 660.351.
+SECTION 40.
+ ORS 660.420 is amended to read:
+660.420. (1) There is established a  program in the [ Higher Education Coordinating Commission ]
+Bureau of Labor and  Industries  to support strategic investments in workforce development pro-
+grams and activities in Oregon’s maritime sector, in coordination with:
+(a) Local workforce development boards in regions with a high demand for maritime workers;
+(b) Community colleges operated under ORS chapter 341; and
+(c) Other workforce partners that support maritime workforce  development, including but not
+limited to school  districts and regional networks that support science, technology, engineering and
+mathematics.
+(2) At a minimum, the program shall:
+(a) Make targeted investments  in workforce development programs designed to advance the
+growth, qualifications and availability of Oregon’s maritime workforce.
+(b) Identify and develop  specific sectors within the maritime workforce to initiate new workforce
+education and job skills programs and to increase participation in existing maritime programs.
+(c) Promote growth and development of maritime workforce development  programs in school
+districts and community colleges by  hiring faculty and staff with maritime expertise to assist with
+curriculum selection for educational  programs and the development of such programs to prepare
+individuals for careers in the maritime sector.
+(d) Foster industry involvement in apprenticeship programs,  mentorship and other programs that
+provide training for entry into the maritime workforce.
+(e) Support activities that prepare individuals for careers in the maritime sector,  including but
+not limited to educating, training and mentoring activities related to maritime construction and  en-
+gineering and mariner training.
+(f) Conduct outreach and promote awareness  about opportunities to receive maritime training
+and education.
+(3) The [ commission] bureau may adopt any  rules necessary for the implementation and admin-
+istration of this section.
+RENAMING OFFICE OF COMMUNITY COLLEGES AND WORKFORCE DEVELOPMENT
+SECTION 41.
+(1) The amendments  to ORS 294.393, 294.456, 341.005, 341.019, 341.021,
+341.039, 341.102, 341.105, 341.440, 341.446, 341.455, 341.487,  341.526, 341.551, 341.626, 341.655,
+341.665, 341.670, 344.070, 344.080, 344.090,  344.125, 350.150, 350.155, 350.160, 350.170, 350.175,
+350.432, 353.606, 408.506, 413.600, 417.799, 421.084 and 576.871 by sections 14 and 44 to 76 of this
+2025 Act are intended to change the name of the “Office of Community  Colleges and
+Workforce Development” to the “Office of Community Colleges.”
+(2) For the purpose of harmonizing and clarifying statutory  law, the Legislative Counsel
+may substitute for words designating the “Office of Community Colleges and  Workforce De-
+velopment,” wherever they occur in statutory law, other  words designating the “Office of
+Community Colleges.”
+SECTION 42. (1) The  amendments to ORS 350.155 by section 45 of this 2025 Act are in-
+tended to change the name of the “Office of Community Colleges and Workforce Develop-
+ment Account” to the “Office of Community Colleges Account.”
+(2) For the purpose of  harmonizing and clarifying statutory law, the Legislative Counsel
+may substitute for  words designating the “Office of Community Colleges and Workforce De-
+velopment Account,”  wherever they occur in statutory law, other words designating the
+“Office of Community Colleges Account.”
+SECTION 43.
+ ORS 350.095 is amended to read:
+350.095. (1) The Higher Education Coordinating Commission is authorized to:
+(a) Request, as part of  the funding request under ORS 350.090, appropriations for budgetary
+items, including but not limited to education and general operations, statewide public services,  state
+funded debt service,  capital improvements, deferred maintenance, special initiatives and investments
+or any other purpose listed under ORS 350.075 (3)(e);  and
+(b) Allocate moneys, from funds appropriated to the commission and  other available moneys, to
+public universities listed in ORS 352.002 .[; and ]
+[(c) Request, as part of the funding request relating to duties authorized under ORS 660.300  to
+660.420, appropriations for  budgetary items, including but not limited to workforce development and
+coordination of the state workforce development system. ]
+(2) The  commission shall certify to the Legislative Assembly, in any funding request pursuant
+to subsection (1)(a) of this section  for state bonds under Article XI-F(1) of the Oregon Constitution
+for the benefit  of a public university listed in ORS 352.002, its evaluation of the revenue sufficiency,
+as defined in ORS 286A.830, of the public university that will receive the proceeds of  any Article
+XI-F(1) bonds approved by the Legislative Assembly.
+SECTION 44.
+ ORS 350.150 is amended to read:
+350.150. (1) The Office of Community Colleges [ and Workforce Development ] is established within
+the Higher Education Coordinating Commission. The office shall  function under the direction and
+control of the commission, with the Director  of the Office of Community Colleges [ and Workforce
+Development] serving as an administrative officer for community college matters.
+(2) [ Except as provided in subsection (3) of this section, ] The commission may adopt any  rules
+necessary for the effective and efficient administration of the office  or for the administration of laws
+that the office is charged with administering.
+[(3) The commission, in consultation with the State  Workforce and Talent Development Board,
+workforce partners and the Education and Workforce Policy Advisor and pursuant to ORS  chapter
+183, may adopt any rules necessary  for the administration of laws related to the federal Workforce
+Innovation and Opportunity Act that the commission is charged with administering. ]
+SECTION 45.
+ ORS 350.155 is amended to read:
+350.155. (1) The Office of Community Colleges [ and Workforce Development ] Account is estab-
+lished in the State Treasury, separate and distinct from the General Fund. Except for  moneys oth-
+erwise designated by statute, all fees, assessments and other moneys received by  the Office of
+Community Colleges [ and Workforce Development ] shall be  deposited into the State Treasury and
+credited to the account. All moneys in the account are continuously  appropriated to the Higher
+Education Coordinating Commission for purposes authorized by law.
+(2) The office may accept gifts, grants and donations from any source to carry out  the duties
+imposed upon the office. Moneys received under this subsection shall be paid into the account.
+(3) The office shall keep a record of all moneys deposited into the account.  The record shall
+indicate by separate cumulative subaccounts the  sources from which the moneys are derived and the
+individual activity or program against which each withdrawal is charged.
+(4) Disbursements from the account shall be made as  directed by the Higher Education Coordi-
+nating Commission.
+SECTION 46.  ORS 350.160 is amended to read:
+350.160. (1) The executive  director of the Higher Education Coordinating Commission shall ap-
+point a Director of the  Office of Community Colleges [ and Workforce Development ] who shall serve
+at the pleasure of the executive director.
+(2) The director shall be a person  who by training and experience is well qualified to perform
+the duties of the office and to assist  in carrying out the functions of the Higher Education Coordi-
+nating Commission  under this section and ORS 341.015, 341.440, 341.455, 341.626, 341.655 and 341.933.
+(3) The director shall:
+(a) Be the executive head of the Office of Community Colleges [ and Workforce Development ].
+(b) Direct and supervise all activities of the Office of  Community Colleges [ and Workforce De-
+velopment].
+(c) Hire staff, as authorized by the executive director of the Higher Education Coordinating
+Commission to assist in carrying out the  duties of the director. The staff shall be considered em-
+ployees of the  Office of Community Colleges [ and Workforce Development ] for purposes of ORS
+chapters 240 and 243.
+(d) Be responsible directly to  the executive director of the Higher Education Coordinating
+Commission for those duties enumerated in ORS chapter 341.
+(4) The director, with  approval of the executive director of the Higher Education Coordinating
+Commission, shall  be responsible for the representation of community college interests to the Gov-
+ernor, the Legislative Assembly, state agencies and others.
+(5) The executive director of  the Higher Education Coordinating Commission shall be responsi-
+ble for submitting community college budget requests for the  Office of Community Colleges [ and
+Workforce Development ] to the Legislative Assembly. The Higher Education Coordinating Commis-
+sion shall ensure that the budget request  for community colleges and for the Office of Community
+Colleges [ and Workforce Development ] are separate and distinct from the commission’s other requests
+to the Legislative Assembly.
+SECTION 47.
+ ORS 350.170 is amended to read:
+350.170. (1) The Higher Education Coordinating Commission shall establish by rule a  process for
+making grants or loans to public-private partnerships to provide advanced technology education and
+training opportunities. The purpose of the grants and loans is  to support the development and im-
+plementation of public-private partnerships to  provide advanced technology education and training
+opportunities in all business and industry sectors for individuals in communities throughout Oregon.
+The partnerships shall  be between public and private entities and may include joint ventures among
+business and industry, school districts, education service districts,  eligible post-secondary insti-
+tutions as defined in ORS 348.180 and public bodies as defined in ORS 174.109.
+(2) A public-private partnership that receives a grant or loan under this section must  provide
+advanced technology education and training opportunities that:
+(a) Address current and future workforce development needs dictated by Oregon’s  rapidly
+changing economy;
+(b) Facilitate sustainable  and dynamic economic development in communities by creating flexible
+opportunities for workforce development;
+(c) Establish results oriented, collaborative investments of public and private  resources in com-
+munities throughout Oregon;
+(d) Ensure that Oregon’s  capacity for economic growth and vitality is not limited by a lack of
+opportunities for workforce development; and
+(e) Provide  support to existing community efforts to establish innovative strategies for delivering
+advanced technology education and training.
+(3) The process established by the commission for making grants and loans shall ensure that:
+(a) Local communities are informed about the availability of the grants and loans;
+(b) Advanced technology  education and training projects are geographically distributed
+throughout Oregon;
+(c) There is equal opportunity for urban and rural access  to quality education and training op-
+portunities;
+(d) Representatives  of related, ongoing community efforts assist in the implementation of ad-
+vanced technology education and training projects; and
+(e) Procedures and timelines are designed to minimize barriers to receiving funds.
+(4) When  considering applications for grants and loans, the Office of Community Colleges [ and
+Workforce Development ] shall give priority to advanced  technology education and training projects
+that:
+(a) Provide or increase access for  individuals to advanced technology education and training
+through the efforts of local and regional career  centers and partnerships and distance education
+technology available locally and regionally;
+(b) In  combination with other projects receiving funds, contribute to advanced technology edu-
+cation and training opportunities in every part of the state;
+(c) Use federal funds;
+(d) Have widespread community support as evidenced by a memorandum of  agreement or similar
+documentation;
+(e) Represent an  effective sharing of resources through public-private partnerships among busi-
+ness and industry, school  districts, education service districts, eligible post-secondary institutions
+as defined in ORS 348.180 and public bodies as defined in ORS 174.109;
+(f) Have a long-term strategic plan and lack only the necessary financial resources;
+(g) Provide state-of-the-art technology that meets current standards of business  and industry and
+addresses local and regional economic development priorities;
+(h) Help individuals connect education  and training with career planning and job opportunities
+through local and regional career centers as implemented under  the federal Workforce Innovation
+and Opportunity Act;
+(i) Provide articulated education programs  that lead to a degree or an industry-specific skills
+certification; and
+(j) Establish short-term training programs that meet the immediate needs of local employers  in
+their communities.
+(5)(a) A  public-private partnership awarded a grant or loan under this section shall use the grant
+or loan for any of the following:
+(A) Infrastructure construction or reconstruction.
+(B) Equipment or technology purchases.
+(C) Curriculum development.
+(D) Expansion  or revision of a current project to increase the capacity of the project, alter the
+project plan, change the members of the partnership or  address education or employment deficien-
+cies in the community served by the public-private partnership.
+(b) A grant or loan awarded under this  section for the purpose described in paragraph (a)(D)
+of this subsection may not exceed $25,000.
+(6) The application for a grant or loan under this section shall include:
+(a) The names of the members of the public-private partnership;
+(b) A description of standards used to assess the performance of the project;
+(c) An estimate of the number of individuals who will be served by the project;
+(d) The name of the fiscal agent of the public-private partnership;
+(e) A project plan covering at least the first two years after receipt of a grant or loan; and
+(f) The name of the person who will be responsible for convening the public-private  partnership
+on a regular basis.
+(7) The commission may accept contributions of funds  and assistance from the United States
+Government or its agencies  or from any other source, public or private, and agree to conditions
+placed on the funds not inconsistent with the purposes of this section.
+(8) Any moneys received by the  commission through repayment of a loan awarded under this
+section, or received by the commission under subsection (7) of this section, shall be  deposited by the
+commission in the Advanced Technology Education and  Training Fund established under ORS
+350.165.
+SECTION 48.
+ ORS 350.175 is amended to read:
+350.175. (1) The Director of the Office of Community Colleges [ and Workforce Development ] may
+issue certificates for passing approved high school equivalency  tests such as the General Educa-
+tional Development (GED) test to persons who demonstrate  satisfactory performance in tests pre-
+scribed under subsection (2) of this  section or meet the requirements of any prescribed evaluative
+procedure.
+(2) The Higher  Education Coordinating Commission by rule may prescribe tests and other ap-
+propriate evaluation procedures for the purposes of subsection (1) of this section and may  establish
+age, residence and other relevant qualifications for applicants.
+(3) The Office of Community Colleges [ and Workforce Development ] may utilize its personnel and
+facilities for the administration of this section, and the commission may establish  by rule a
+nonrefundable application fee. The fee may be waived by the commission in case of hardship.
+(4) Subject to prior approval of the Oregon Department  of Administrative Services, the fee es-
+tablished under subsection (3) of this section [ shall] may not exceed the cost of administering the
+program, as authorized by the Legislative Assembly within the office’s budget, as  the budget may
+be modified by the Emergency Board.
+(5) All  moneys received under this section shall be deposited in the State Treasury to the credit
+of the Office of Community Colleges [ and Workforce Development ] and shall be used exclusively for
+administration of this section. The Office of Community Colleges [ and Workforce Development ] shall
+keep a record of all moneys deposited  in such account. The record shall indicate by separate cu-
+mulative accounts  the source from which the moneys are derived and the individual activity against
+which each withdrawal is charged.
+(6) The Director of the Office of Community  Colleges [ and Workforce Development ] shall consult
+with the Superintendent of Public Instruction on all matters related to evaluation procedures used
+to measure equivalent achievement under this section.  The superintendent is authorized to make
+independent recommendations on evaluation procedures to the office in those  cases where the
+superintendent’s judgment differs from that of the director.
+SECTION 49.
+ ORS 294.393 is amended to read:
+294.393. (1) Each school district and each education service district shall  prepare the estimates
+of expenditures required under ORS 294.388 in accordance with the classification of revenue and
+expenditure accounts prescribed by the Department of Education in consultation with the Depart-
+ment of Revenue. The  Department of Revenue is responsible for determining the district’s compli-
+ance with this subsection.
+(2) Each  community college district shall prepare the estimates of expenditures required under
+ORS 294.388 in accordance with the classification of  revenue and expenditure accounts prescribed
+by the Office of  Community Colleges [ and Workforce Development ] in consultation with the Depart-
+ment of Revenue. The  Department of Revenue is responsible for determining the district’s compli-
+ance with this subsection.
+(3) Notwithstanding ORS  294.388 (2), each municipal corporation that operates a public utility
+or hospital shall prepare estimates for  the operations of each public utility or hospital in accordance
+with:
+(a) The applicable generally accepted system of accounts for the operations; or
+(b) The general system of accounts in ORS 294.305 to 294.565.
+SECTION 50.
+ ORS 294.456 is amended to read:
+294.456. (1)(a) After the public hearing required under ORS 294.453 (1)  and consideration of
+matters discussed at the  public hearing, the governing body of a municipal corporation shall enact
+the ordinances or resolutions necessary to adopt  the budget, to make the appropriations, to deter-
+mine, make and declare the ad valorem property tax amount or  rate to be certified to the assessor
+for either the ensuing year or  each of the years of the ensuing budget period and to itemize and
+categorize the ad valorem property tax amount or rate as required under ORS 310.060.
+(b) The governing body may amend the budget estimates and proposed ad valorem  property tax
+amount or rate in the budget document before adoption under paragraph  (a) of this subsection and
+after adoption if the post-adoption  amendments are adopted prior to the commencement of the fiscal
+year or budget period to which the budget relates.
+(c) Notwithstanding paragraph (b) of this subsection, unless the amended  budget document is
+republished pursuant to ORS 294.438 or 294.448 in the same  manner as the original budget and an-
+other public  hearing is held pursuant to ORS 294.453 (1), or except to the extent ad valorem prop-
+erty taxes may be increased under ORS 294.476:
+(A) The amount of  estimated expenditures for each fund in an annual budget may not be in-
+creased by more than $5,000 or 10 percent of the estimated expenditures, whichever is greater;
+(B) The amount of estimated expenditures  for each fund in a biennial budget may not be in-
+creased by more than $10,000 or 10 percent of the estimated expenditures, whichever is greater;  and
+(C) The amount or rate of the total  ad valorem property taxes to be certified by the municipal
+corporation to the assessor may not exceed the amount approved by the budget committee.
+(2)(a) After a  public hearing under ORS 294.453 (2) or (3), receipt of the certification of the tax
+supervising and conservation commission, if required,  and consideration of any orders, recommen-
+dations or objections  made by the tax supervising and conservation commission in accordance with
+law, the  governing body of a municipal corporation shall enact the ordinances or resolutions nec-
+essary to adopt the budget, to make the appropriations,  to determine, make and declare the ad
+valorem property tax amount or rate for either the ensuing  fiscal year or each of the fiscal years
+of the ensuing budget period and to itemize and categorize the ad  valorem property tax amount or
+rate as required under ORS 310.060.
+(b) The action taken by the governing body under paragraph (a) of this subsection on each order,
+recommendation or objection made by  the commission, with the reasons for the action, must be in-
+cluded in the ordinance or resolution adopting the budget.
+(c) The governing body shall  send a certified copy of the ordinance or resolution to the com-
+mission within 15 days after the date the ordinance or resolution is adopted.
+(d) The governing body may  amend the budget estimates, appropriations and ad valorem prop-
+erty tax amount or rate in the budget  document before adoption under paragraph (a) of this sub-
+section and after adoption if the post-adoption amendments are adopted prior to  the commencement
+of the fiscal year or budget period to which the budget relates.
+(e) Notwithstanding paragraph (d) of this subsection, unless the amended  budget document is
+resubmitted to the tax supervising and conservation  commission for another public hearing and for
+recommendations or objections of the commission, or except to  the extent ad valorem property taxes
+may be increased under ORS 294.476:
+(A) The amount of estimated expenditures for each fund in an annual budget may  not be in-
+creased by more than $5,000 or 10 percent of the estimated expenditures, whichever is greater;
+(B) The amount of estimated expenditures  for each fund in a biennial budget may not be in-
+creased by more than $10,000 or 10 percent of the estimated expenditures, whichever is greater;  and
+(C) The amount or rate of the total  ad valorem property taxes to be certified by the municipal
+corporation to the assessor may not exceed the amount approved by the budget committee.
+(3)(a) Except as provided in subsections (4)  and (5) of this section, the appropriations required
+under subsections (1) and (2) of this section must contain:
+(A) One amount for each organizational  unit or program of each fund that is the total of all
+amounts for personnel services, materials and services and capital outlay attributable to the organ-
+izational unit or program; and
+(B) Separate amounts in  each fund for operating expenses for personnel services, materials and
+services and capital outlay that cannot be  allocated to a particular organizational unit or program
+and for debt service, special payments, interfund revenue transfers and operating contingencies.
+(b) Separate amounts for activities within an organizational unit or program  may be appropri-
+ated separately.
+(c) For a municipal corporation to which the terms “organizational unit” and “program”  do not
+apply, the appropriations must contain separate amounts for personnel services,  materials and ser-
+vices, capital outlay,  debt service, special payments, interfund revenue transfers and operating con-
+tingencies for each fund.
+(4) For a school district or an education service district, the appropriations required under
+subsections (1) and (2) of this section must contain separate amounts in each  major fund for each
+major function, as prescribed by the Department of  Education in consultation with the Department
+of Revenue, including instruction, support services, enterprise and community services, facilities
+acquisition and construction, interfund revenue transfers, debt service and operating contingencies.
+(5) For a community college district, the appropriations required under  subsections (1) and (2)
+of this section must contain separate amounts in each fund for:
+(a) Each major function, as prescribed by the Office of Community Colleges [ and Workforce De-
+velopment] in consultation with the Department of Revenue,  including instruction, instructional
+support, student services, community services, college support services, interfund transfers, debt
+service and operating contingencies;
+(b) Each major function as required under subsection (4) of this section; or
+(c) Each organizational unit or program and  each object classification required under subsection
+(3) of this section.
+(6) Except as provided in ORS 294.338, 294.463, 294.466, 294.471,  294.473 and 294.478, after the
+governing body has enacted the ordinances or resolutions necessary to adopt the budget  as required
+under this section, an expenditure, or encumbrance if  encumbrance accounting is used, of public
+money may not be made for any purpose in an amount greater than the amount appropriated.
+(7) The governing body of  a municipal corporation shall record the amount or rate of ad valorem
+property taxes to be certified and the purposes for which  the taxes will be used. Except as provided
+in ORS 294.476, the municipal  corporation may not certify ad valorem property taxes in an amount
+or rate greater than the amount or rate recorded for the purposes indicated.
+(8)(a) The governing body of a municipal corporation shall determine, make  and declare ad
+valorem property taxes under subsections (1) and (2) of this section as a  rate per $1,000 of assessed
+value if the taxes are  operating taxes as defined in ORS 310.055 (1) or rate-based local option taxes.
+(b) The governing body shall determine, make and  declare ad valorem property taxes under
+subsections (1) and (2) of this section as an amount if the taxes  are certified as amount-based local
+option taxes, to  pay principal and interest on exempt bonded indebtedness or to pay other govern-
+ment obligations described in Article XI, section 11 (5), of the Oregon Constitution.
+(c) Notwithstanding  paragraph (a) of this subsection, the governing body may certify operating
+taxes as defined in ORS 310.055  (1) as a rate or an amount if less than the full authority is needed
+to balance the fund that will receive the taxes.
+SECTION 51.
+ ORS 341.005 is amended to read:
+341.005. As used in this chapter, unless the context otherwise requires:
+(1) “Academic year” means the year beginning July  1 of each year and ending June 30 of the
+following year running concurrently with the fiscal year.
+(2) “Board” means the board of education of a community college district.
+(3) “Board member” means a member of the board of education of a  community college district.
+(4)(a) Except as provided in  paragraph (b) of this subsection, “community college” means a
+public institution operated by a community college district for the purposes of  providing courses of
+study limited to not more than  two years’ full-time attendance and designed to meet the needs of a
+geographical  area  by providing educational services, including but not limited to career and tech-
+nical education programs or lower division collegiate programs.
+(b) The two-year limitation described in paragraph (a) of this subsection does not apply to:
+(A) Technical programs in which the curriculum may require  more than two years of attendance
+but less than four years;
+(B) Applied baccalaureate degree programs approved under ORS 341.013; or
+(C) Bachelor of Science: Nursing degree programs approved under ORS 341.013.
+(5) “Community college  district” or “district” means a district formed under this chapter to op-
+erate one or more community colleges or to  secure educational services available at a community
+college. “Community college district” includes a community college service district.
+(6) “Director”  means the Director of the Office of Community Colleges [ and Workforce Develop-
+ment] appointed under ORS 350.160 by the executive director of the Higher Education  Coordinating
+Commission.
+(7) “Full-time equivalent student” means a  student or combination of several students who car-
+ries or carry  among them, within a single academic year, a minimum number of clock hours of in-
+struction, in any  program, to be specified by rule by the Higher Education Coordinating Commission.
+(8) “Paying agent and registrar” means the county treasurer or county fiscal officer of the
+county  in  which the chief administrative officer of the community college district maintains the ad-
+ministrative office.
+(9) “Petitioning territory” means a community college district petitioning to  have an area out-
+side the district included in the district or to have an area inside the district  excluded from the
+district, or an area outside the district petitioning to be included within the district.
+(10) “Principal county” means the county in which the chief  administrative officer of the com-
+munity college district maintains the administrative office.
+SECTION 52.
+ ORS 341.019 is amended to read:
+341.019. (1) All areas  within this state shall be served by a community college district. Such
+services may be provided either:
+(a) Directly by formation of a community college district; or
+(b) Indirectly by contract with an existing community college district.
+(2) The Office  of Community Colleges [ and Workforce Development ] shall fix responsibility for
+serving each area that is not within a community college  district. Where feasible, each area shall
+be a whole county or a group of counties or that part of a  county not already in a community col-
+lege district.
+(3) In order to obtain the services described in subsection (1)(b) of this  section, residents of a
+nondistrict area must indicate their  interest in receiving services by requesting formation of a local
+advisory committee and seeking the advice and counsel of the Office of Community  Colleges [ and
+Workforce Development].
+(4) The  Higher Education Coordinating Commission by rule shall establish standards for the
+Office of Community Colleges [ and Workforce Development ] to  use determining when there is suffi-
+cient interest among the  residents of a nondistrict area to warrant appointment of a local advisory
+committee.
+(5) When the Office of Community Colleges [ and Workforce Development ] has  made the determi-
+nation under subsection (4) of this section, the office and the interested residents of the nondistrict
+area shall apply jointly to the governing body of the county  for the appointment of a local advisory
+committee.
+(6) Upon application, the governing body  of the county shall appoint a local advisory committee
+and shall ensure that the committee is broadly representative of the nondistrict area.
+(7) If the nondistrict area involves two or more counties, the governing body of each county
+shall appoint members  to the local advisory committee in proportion to the number of county resi-
+dents within the nondistrict area.
+(8) The governing body  of a county making appointments under subsection (6) or (7) of this
+section shall not be obligated to fund any part of the budget described in ORS 341.021 (3).
+(9) The duties  of the local advisory committee shall include, but need not be limited to, advising
+the officials of the community college district serving the nondistrict area  on the educational needs
+of the area.
+(10) As used in ORS 341.019 to 341.022, “community college district”  includes a community col-
+lege service district.
+SECTION 53.
+ ORS 341.021 is amended to read:
+341.021. (1) The Office of Community Colleges [ and Workforce Development ] shall invite  existing
+community college districts to submit proposals for the provision of  service to an area that has of-
+ficially indicated its interest in receiving service.
+(2) The responsibilities of the host community college district shall include:
+(a) Preparing a  written agreement for services to be provided to nondistrict areas using a format
+specified by the office; and
+(b) Acting as the fiscal agent for agreements including  establishing tuition and fees for services
+offered under terms of an agreement.
+(3) Agreements between the community college district  and nondistrict entities as listed in ORS
+341.315 shall include an  annual budget setting forth both revenue and expenditures. The budget shall
+be based upon the following conditions:
+(a) Subject to ORS 341.022, eligible full-time equivalent student enrollment  produced under the
+agreement may be claimed  for state reimbursement purposes by the community college district.
+Such reimbursement shall come from the Community College Support Fund established in  ORS
+341.620 and shall be distributed as directed  in ORS 341.626 and the rules of the Higher Education
+Coordinating  Commission.
+(b) A share of  the budget shall be provided by those individuals or agencies receiving service
+under this agreement as specified by rule of the commission adopted under ORS 341.024 (3).
+(4) Agreements developed under  this section shall be wholly supported by Community College
+Support Fund reimbursement, nondistrict student tuition and nondistrict resources.
+SECTION 54.
+ ORS 341.039 is amended to read:
+341.039. (1) A petition submitted  pursuant to ORS 341.025 may specify that the proposed district
+be organized as a community college service district. The formation of a community college  service
+district shall comply with the provisions  of ORS 341.025 to 341.125. A petition affecting a territory
+that, in the judgment of the Director of the Office of Community Colleges [ and Workforce Develop-
+ment], will not generate an annual enrollment in excess of 1,000 full-time  equivalent students after
+three years of operation shall be considered to be a petition for the  formation of a community col-
+lege service district.
+(2) If formed, a community college service district shall in all respects be governed by the  laws
+applicable to community college districts with the following exceptions:
+(a) Notwithstanding ORS 341.675, community  college service districts formed on or after July
+1, 1997, may not incur bonded indebtedness for any purpose. This limitation  shall not be construed
+to prohibit lease-purchase arrangements or  other lawful forms of capital financing. A community
+college service district may hold and  own buildings and grounds acquired through gifts or financing
+methods authorized by this section.
+(b) The board of education for  a community college service district shall annually review the
+programs and services of the service district. This review shall have as  its purpose a determination
+of which services  can most effectively and economically be delivered directly and which services can
+best be delivered through contracting  arrangements. The direct hiring of faculty and staff is ex-
+pressly permitted.
+(3) After having been in operation for at least three years, a community  college service district
+may submit to the electors of the district the question of whether the  district shall operate as a
+community college district.
+(4) Prior to submitting the question to the electors, the community  college service district must
+have been in operation for three years, and must  have secured the approval of the Higher Education
+Coordinating Commission to hold the election. Before granting approval, the commission must find:
+(a) The service district has acquired stability as demonstrated by  a continuity of management,
+regularly adopted policies and procedures and adequate financial resources; and
+(b) The service district has adopted a sound comprehensive plan that sets out the district’s in-
+structional and capital plans for five years.
+SECTION 55.
+ ORS 341.102 is amended to read:
+341.102. If the Legislative Assembly approves the recommendation submitted under  ORS 341.076,
+341.565 or 341.579, the Legislative Assembly shall appropriate to the Higher  Education Coordinating
+Commission for the  purpose of allocation to the Office of Community Colleges [ and Workforce De-
+velopment] moneys necessary to pay the expenses of the election under  ORS 341.085, 341.565, 341.569
+or 341.579 (1) if the election is to occur within 24 months  of the appropriation or allocation. If the
+election does not occur within the biennium immediately following the appropriation or  allocation,
+the question shall be brought before the next Legislative Assembly.  The state shall fund the election
+without regard to the outcome of the election.
+SECTION 56.  ORS 341.105 is amended to read:
+341.105. When at  the request of the Higher Education Coordinating Commission the county clerk
+of the  principal county, in consultation with county clerks of the affected counties, prepares a list
+or lists of names and addresses of the electors registered in the proposed district, the Office of
+Community Colleges [ and Workforce Development ] is authorized to pay the charge as determined
+under ORS 255.305.
+SECTION 57.
+ ORS 341.440 is amended to read:
+341.440. (1) A community college district may contract with another  community college district,
+a common or union high school district, an education service district,  a public university listed in
+ORS 352.002, the Oregon Health and Science University, a private  educational institution accredited
+by the Northwest Commission on Colleges and Universities or its successor or  a career school as
+defined in ORS 345.010 to obtain educational services  for students enrolled in the community college
+of the district. However, the educational services so obtained must meet  the standards for educa-
+tional services  provided by the college and the contract price to the college for such services must
+not exceed the costs that  would otherwise be incurred by the college to provide its students the
+same or similar services.
+(2) Educational services for which a district operating a community college may contract include
+services offered by correspondence and services offered electronically or through  telecommuni-
+cations if such services are accredited by a nationally recognized accrediting association.
+(3) For purposes of ORS 341.626,  costs incurred under subsection (1) of this section shall be
+considered operating expenses of the district if the contract is approved by  the Director of the Of-
+fice of Community Colleges [ and Workforce Development ].
+SECTION 58.
+ ORS 341.446 is amended to read:
+341.446. (1) At the  beginning of each school year, the Office of Community Colleges [ and
+Workforce Development ] shall  make the following information available for distribution to public
+school students who are in grades 11 and 12:
+(a) The academic programs and services provided by community colleges;
+(b) Recommendations for successful completion of community college programs; and
+(c) Any other information identified by the office as being necessary  to assist students in pre-
+paring to succeed in community colleges.
+(2) Representatives of the State Board of  Education and the Higher Education Coordinating
+Commission shall  regularly meet for the purpose of improving coordination between public second-
+ary schools and community colleges.
+SECTION 59.
+ ORS 341.455 is amended to read:
+341.455. (1) A community college may give  credit for courses or programs taken in a career
+school. The courses or programs for which  credit may be given must meet the standards adopted
+by the Higher Education Coordinating Commission under ORS 345.325, must be taken at a  career
+school domiciled in this state and must be  approved for credit by the Director of the Office of
+Community Colleges [ and Workforce Development ].
+(2) A community college board may charge a transcripting fee to a  student for courses taken
+at a career school and accepted  by the community college under subsection (1) of this section. Such
+a fee is to be set by the board and is to be consistent with other student fees.
+(3) Time spent by students on such courses shall not be considered as clock hours of  instruction
+in determining full-time equivalency for purposes of ORS 341.626.
+SECTION 60.  ORS 341.487 is amended to read:
+341.487. (1) Community  colleges in Oregon shall admit students from other states at the same
+tuition rate assessed against Oregon residents who are residents of the  community college district
+if:
+(a) The state in which the student resides agrees to pay and pays its per capita state aid for
+comparable students in the state to the community college;
+(b) The state in which  the students reside agrees to permit and permits one-for-one full-time
+enrollment exchange arrangements that allow an equal number of Oregon residents to be  admitted
+to community colleges or comparable institutions in the  state at the same tuition rate assessed
+against residents  of the state and community colleges or comparable institutions in the state in
+which the students reside agree to  admit and admit approved Oregon residents without assessing
+nonresident tuition; or
+(c) The board of the community college determines out-of-state residents are  essential to pro-
+viding the critical mass to offer programs that would otherwise be unavailable  to Oregon residents.
+(2) The Higher Education  Coordinating Commission shall enter into agreements with such other
+states as are willing to agree to  the provisions of this section to establish reimbursement procedures
+or one-for-one exchange procedures.
+(3) In cases described in subsection (1)(a) of  this section, the Office of Community Colleges [ and
+Workforce Development ] shall pay from funds available  therefor to the state that agrees to pay and
+does pay its per capita state aid to eligible Oregon community colleges to the credit of the commu-
+nity college or comparable institution educating the Oregon  resident an amount equal to the amount
+that would be available under ORS 341.626 if the Oregon resident were enrolled in a community
+college in this  state. From these same funds, the Office of Community Colleges [ and Workforce De-
+velopment] shall pay to the  Oregon community colleges admitting approved one-for-one exchange
+students as provided by  subsection (1)(b) of this section, from other states, an amount equal to the
+amount that would be available under ORS 341.626 as if the  enrolled one-for-one students were
+Oregon residents. The Office of Community Colleges [ and Workforce Development ] shall not reim-
+burse Oregon community colleges  that admit students from other states under subsection (1)(c) of
+this section.
+(4) If a state that has entered into the agreement to pay the per capita state  aid to eligible
+Oregon community colleges as described in subsections (1) and (2) of this section does not make  any
+payment agreed to, the  agreement terminates after the affected community college notifies the
+Higher Education Coordinating Commission of  the lack of payment. The termination is effective 30
+days after  the commission notifies the appropriate agency of the other state that the agreement is
+terminated if no payment is received by the end of the academic period for which  tuition is assessed
+and no payment is received at that time. The agreement may be reinstated by mutual consent of the
+parties.
+(5) The Higher Education Coordinating  Commission shall adopt rules governing attendance in
+community colleges or comparable institutions in other  states for purposes of the reimbursement
+authorized under subsections (1) and (2) of this section  to ensure that Oregon residents shall not be
+the object of such reimbursement if they can obtain the  same education within the state without
+undue hardship.
+SECTION 61.
+ ORS 341.526 is amended to read:
+341.526. (1) The Office of Community Colleges  [ and Workforce Development ] and the Higher Ed-
+ucation Coordinating Commission shall jointly establish a  grant program for the purpose of distrib-
+uting moneys to community  colleges, or any foundations of community colleges, to increase the
+number of underserved, low-income  and first-generation college-bound students who enroll in com-
+munity college and make progress toward a degree or a certificate.
+(2) Moneys distributed under subsection  (1) of this section may be used by a community college,
+or a foundation of a community college, for services that are designed to increase  student enroll-
+ment, retention and degree and certificate completion, including counseling programs,  college initi-
+atives, advising services and assistance in obtaining financial aid.
+(3) The Higher Education Coordinating Commission may  adopt rules necessary for the adminis-
+tration of this section, including rules that  set standards for awarding grants. The standards shall
+give priority to community colleges, or foundations of  community colleges, that have student en-
+rollment, retention and degree and certificate completion programs with demonstrated  support from
+the private sector, the community and local government.
+SECTION 62.  ORS 341.551 is amended to read:
+341.551. (1) Notwithstanding any provision of ORS chapter 238  or 238A, the Office of Community
+Colleges [ and Workforce Development ] may  establish and administer an optional retirement plan for
+administrative employees of community college districts who are eligible for membership  in the
+Public Employees Retirement System. Any community college district  may participate in the plan
+by giving written notice to the office.
+(2) An administrative employee may make an election to participate in the optional retirement
+plan if the community college district that employs the employee is participating in  the plan. The
+election must be made in the following manner:
+(a) An administrative employee who is an active member  of the Public Employees Retirement
+System may make an election to participate in the plan within 180 days after the  community college
+district commences participation in the plan, effective on the first day of the month following  the
+election.
+(b) An administrative employee who is hired after  the community college district commences
+participation in the  plan may make an election to participate in the plan within the first six months
+of employment, effective on the first day of the month following six full months of employment.
+(3) An administrative employee who does not elect to participate in the  optional retirement plan
+remains or  becomes a member of the Public Employees Retirement System in accordance with ORS
+chapters 238 and 238A.
+(4) An administrative employee may elect to participate in the optional retirement plan  only if
+at the time the election becomes  effective the employee is not concurrently employed in a position
+with any participating public  employer other than the community college district in a position that
+entitles the employee to membership in the Public Employees Retirement System. Except  as pro-
+vided in subsection (9) of this section,  employees who elect to participate in the optional retirement
+plan are ineligible for active membership in the Public Employees  Retirement System for as long as
+those employees are employed by a community college district that participates  in the plan, whether
+by reason of employment by the district or any other participating public employer.
+(5)(a) An administrative  employee who elects to participate in the optional retirement plan, who
+has creditable service under ORS chapter 238 as defined by ORS 238.005  and who is not vested shall
+be considered by the  Public Employees Retirement Board to be a terminated member under the
+provisions of ORS 238.095 as of the effective date of the election, and the amounts credited  to the
+member accounts  of the member established under ORS 238.250, 238.260, 238A.350 and 238A.353 shall
+be transferred directly to the optional retirement plan by the Public  Employees Retirement Board
+in the manner provided by subsection (6) of this section.
+(b) An  administrative employee who elects to participate in the optional retirement plan, who
+has creditable service under ORS chapter  238 as defined by ORS 238.005 and who is vested shall
+be considered to be an inactive  member by the Public Employees Retirement Board and shall retain
+all the rights, privileges and options under ORS  chapter 238 unless the employee makes a written
+request to the Public Employees Retirement  Board for a transfer of the amounts credited to the
+member accounts of the member established under ORS 238.250, 238.260, 238A.350 and  238A.353 to
+the optional retirement plan. A request for a transfer must be  made at the time the member elects
+to participate in the optional retirement plan.  Upon receiving the request, the Public Employees
+Retirement Board shall transfer all  amounts credited to the member accounts of the member estab-
+lished under ORS 238.250, 238.260, 238A.350 and 238A.353 directly to the optional retirement  plan
+in the manner provided by subsection (6) of  this section and shall terminate all rights, privileges and
+options of the employee under the Public Employees Retirement System.
+(c) An administrative  employee who elects to participate in the optional retirement plan and
+who is a member of the pension program of the Oregon Public Service Retirement Plan as described
+in ORS 238A.100 on the date that the election becomes effective, but who  has not vested in the
+program under ORS  238A.115 on the date that the election becomes effective, shall be considered
+to be a terminated member of the Public Employees Retirement System by the Public  Employees
+Retirement Board as of the  effective date of the election. The board shall transfer the amounts
+credited  to  the member accounts of the member established under ORS 238A.350 and 238A.353 di-
+rectly to the optional retirement plan in the manner provided by subsection (6) of this section.
+(d) An  administrative employee who elects to participate in the optional retirement plan and
+who is a vested  member of the pension program of the Oregon Public Service Retirement Plan as
+described in ORS 238A.115 on the date that the election becomes effective shall be considered  an
+inactive member of the pension  program by the Public Employees Retirement Board as of the ef-
+fective date of the election. A member who is  subject to the provisions of this paragraph retains all
+the rights, privileges and options of an inactive member of the pension  program, unless the member
+makes a written request to the Public Employees Retirement Board for a transfer of the amounts
+credited to the member accounts  of the member established under ORS 238A.350 and 238A.353 to the
+optional retirement plan. The request must be made at the time the member  elects to participate in
+the optional retirement plan. Upon receiving the request, the Public Employees  Retirement Board
+shall transfer the amounts credited to  the member accounts of the member established under ORS
+238A.350 and 238A.353 directly to the  optional retirement plan in the manner provided by subsection
+(6) of this section and shall terminate the membership of the employee in the Public Employees  Re-
+tirement System.
+(e) Notwithstanding paragraphs (b) and (d) of  this subsection, the Public Employees Retirement
+Board shall not treat any employee as an inactive member under  the provisions of this subsection
+for the purpose of receiving any benefit under  ORS chapter 238 or 238A that requires that the em-
+ployee be separated from all service with  participating public employers and with employers who
+are treated as part of a participating public employer’s controlled  group under the federal laws and
+rules governing the status of the Public Employees Retirement System and the Public  Employees
+Retirement Fund as a qualified governmental retirement plan and trust.
+(6) Any amounts transferred from the Public Employees Retirement Fund under subsection (5)
+of this section shall be transferred directly to  the optional retirement plan by the Public Employees
+Retirement Board and shall not be made available to the employee.
+(7) An employee participating  in the optional retirement plan shall contribute monthly an
+amount equal  to the percentage of the employee’s salary that the employee would otherwise have
+contributed as an employee contribution to the Public Employees  Retirement System if the employee
+had not elected to participate in the optional retirement plan.
+(8) A participating community college district shall contribute monthly to  the optional retire-
+ment plan the percentage of salary for each employee participating in the plan that  is equal to the
+percentage of salary that is required to be made as the employer contribution  under ORS 238A.220,
+less any contributions made  by reason of unfunded liabilities. The district may make contributions
+under this subsection only during periods  of time in which the employee would be eligible for
+membership in the Public Employees Retirement  System if the employee had not elected to partic-
+ipate in the optional retirement plan.
+(9) An administrative employee who elects  to participate in the optional retirement plan may
+make an election to withdraw from the plan. An employee may make an  election under this sub-
+section only once. Upon withdrawing from the plan:
+(a) All contributions made to  the plan before the effective date of the withdrawal remain cred-
+ited to the employee;
+(b) The employee becomes a member of the  Public Employees Retirement System under ORS
+chapter 238A if the member meets all requirements for membership under ORS chapter 238A; and
+(c) The employee is  barred from ever again electing to participate in the optional retirement
+plan.
+(10) For the purposes of this section, “administrative employee”  means a president, vice presi-
+dent or dean, or a person holding a position that is the equivalent of a president,  vice president or
+dean.
+SECTION 63.
+ ORS 341.626 is amended to read:
+341.626. (1) Subject to rules adopted by the Higher Education Coordinating Commission and to
+ORS 291.232 to 291.260, the Director of the Office  of Community Colleges [ and Workforce Develop-
+ment] shall distribute state aid to each community college  district and community college service
+district.
+(2) The rules adopted by the commission shall provide:
+(a) No state aid for hobby and recreation classes;
+(b) Procedures for proper and accurate record keeping;
+(c) Procedures that will ensure reasonable year-to-year  stability in the delivery of appropriated
+moneys to the colleges; and
+(d) Procedures to ensure that the full state appropriation is distributed to the colleges.
+SECTION 64.
+ ORS 341.655 is amended to read:
+341.655. (1) As used in this section, “approved  expenses” means the operating expenses of com-
+munity college districts for career  and technical education programs that have been approved by the
+Director of the Office of Community Colleges [ and Workforce Development ].
+(2) Federal moneys received for  purposes of reimbursing community college districts for career
+and technical education programs may be used by the districts to pay approved expenses.
+SECTION 65.  ORS 341.665 is amended to read:
+341.665. (1) The receiving community college  shall be awarded funds from the contracted out-
+of-district  funds  allocated to the Office of Community Colleges [ and Workforce Development ] if the
+college operates the program under a contract with an apprenticeship training  committee and the
+contract is approved by the office.
+(2) A community college district may  submit full-time equivalencies generated by apprenticeship
+programs to the office for reimbursement from the Community College Support Fund  for purposes
+of ORS 341.626 but may not submit  for reimbursement those full-time equivalencies generated
+through contracts under subsection (1) of this section.
+SECTION 66.  ORS 341.670 is amended to read:
+341.670. (1) The community college districts of this state shall use the same  system for reporting
+finances.
+(2) The Office of Community Colleges [ and Workforce Development ] shall:
+(a) Select the system, which may be an existing system; and
+(b) Provide guidelines for implementation of the system.
+(3) The system selected by the office shall include uniform identification of:
+(a) Funds;
+(b) Revenues by source; and
+(c) Expenditures by function and object classification, as that term is defined in ORS 294.311.
+(4) The office shall place data gathered from the system on the website of the office to ensure
+timely access to the information by the public.
+SECTION 67.
+ ORS 344.070 is amended to read:
+344.070. (1)  The Oregon Department of Administrative Services may draw warrants upon any
+state fund to which federal funds for training or education have been credited, in  payment of
+vouchers  approved  by the Superintendent of Public Instruction or the Director of the Office of
+Community Colleges [ and Workforce Development ] pursuant to rules of the Higher  Education Coor-
+dinating Commission,  in favor of school districts, education service districts and community college
+districts, for such sums, not exceeding $100,000 for a single district in the aggregate, as the  com-
+mission, by rule, shall determine. The warrants, upon delivery to  the districts, shall constitute ad-
+vances from state funds  to enable the districts more readily to effectuate the purposes set forth in
+any federal law or regulation pertaining to career and technical education  or other education or
+training sponsored by the federal government.
+(2) The districts to which moneys are advanced shall be responsible for the full repayment to
+the state of all sums advanced. The advances are not within any limitation upon indebtedness  pre-
+scribed by law for districts. The moneys advanced to districts may not exceed in  the aggregate the
+moneys to the credit of the state fund from which they  are paid, and shall constitute advances to
+the recipient district in anticipation of  verified vouchers to be supplied therefor. The advances are
+to be used as revolving funds for the payment of the costs of career and  technical education pro-
+grams, including but not limited to job training, skill development and academic programs  offered
+by youth job development organizations as defined in ORS 344.415. The advances shall be made  only
+in those cases in which the federal government defrays all or part of the cost of such programs.
+SECTION 68.  ORS 344.080 is amended to read:
+344.080. (1) All reimbursement vouchers  for claims paid from the revolving funds described in
+ORS 344.070 shall be approved by the Superintendent of Public Instruction or the Director of  the
+Office of Community  Colleges [ and Workforce Development ] pursuant to rules of the Higher Educa-
+tion Coordinating Commission. When vouchers are so approved, warrants covering the  same shall
+be drawn by the Oregon Department of Administrative Services, payable from  the appropriate fund,
+and be used to reimburse the revolving funds.
+(2) The districts receiving the advances shall maintain their accounts  and records so as to dis-
+close at all times the true status of the unpaid vouchers issued for the reimbursement of the  funds,
+the district warrants drawn against the funds advanced and the balances to the credit  of the funds.
+(3) The revolving funds and accounts shall be subject to examination and audit  by the state in
+the manner provided by law for other state funds and accounts. The commission may  require an
+audit of the revolving accounts and shall take proper precautions as to the  safety of, and account-
+ability for, all funds advanced.
+(4) The commission may require the filing with it of a bond of a  corporate surety duly licensed
+to transact business in this state to ensure the proper handling of and responsibility  for any funds
+advanced. The bond shall be  cumulative and supplemental to fidelity insurance coverage already
+held by the district concerned. The state may have recourse  to any and all fidelity bonds of clerks
+or other financial officers of the district to protect such advances.
+SECTION 69.  ORS 344.090 is amended to read:
+344.090. When it appears to the Superintendent of  Public Instruction or the Director of the Of-
+fice of Community Colleges [ and Workforce Development ] that the training and  educational programs
+for which  funds are advanced under ORS 344.070 have been completed, or that the need for the ad-
+vances  or  revolving funds no longer exists, or that the sums advanced are not being properly han-
+dled or accounted for, the superintendent or director may require that all or part of the  amounts
+advanced to any district shall be returned, with any interest earned, to the state funds or accounts
+from which the amounts  originally were withdrawn. Upon receipt of notification from the super-
+intendent or director that funds advanced are to  be returned, the district concerned shall imme-
+diately repay the same to the  State Treasurer, for credit to the proper fund or account. To the
+extent that funds advanced are so repaid, security or protection theretofore required by  the Higher
+Education Coordinating Commission under  ORS 344.080 (4) to ensure the safety of such funds may
+be released.
+SECTION 70.
+ ORS 344.125 is amended to read:
+344.125. (1) Representatives from the  Department of Education, the Office of Community Col-
+leges [ and Workforce Development ] and the Bureau of Labor  and Industries shall meet at least four
+times each year for the purpose of promoting collaboration among the  agencies on issues related to
+career and technical education.
+(2) Issues to be  addressed by the agencies shall include the development and implementation of
+long-term goals that:
+(a) Ensure that  career and technical education programs are available at the public schools of
+this state and through youth job development  organizations as defined in ORS 344.415, are founded
+on partnerships with business and industry and receive appropriate investments of time,  money and
+other resources.
+(b) Develop regional centers that establish any appropriate partnerships between public schools,
+community colleges, public universities, businesses,  unions and other entities and that ensure that
+every student of this state has access to a regional center in person or online.
+(c) Encourage the establishment of joint  high school and community college advisory committees
+that may include representatives of  public schools, community colleges, public universities, busi-
+nesses and unions to:
+(A) Make more effective use of resources;
+(B) Promote articulation and pathways between high school programs and post-secondary  school
+programs;
+(C) Ensure that current industry workforce  needs are considered and that curriculum is kept
+current with state standards; and
+(D) Increase opportunities for internships, apprenticeships  and other opportunities that may lead
+to employment in the region.
+(d) Address academic requirements and regulatory barriers that  inhibit successful movement of
+students in career and technical education from high schools to post-secondary school programs  and
+the workforce.
+(e) Implement accelerated college credit programs  that allow students to move seamlessly from
+public schools to post-secondary education or training to the workforce.
+(f) Increase  professional development opportunities for teachers and learning opportunities for
+students through industry mentorships, internships, summer programs, after-school programs and
+career-based student leadership opportunities.
+(g) Establish partnerships between public and private entities for the  purpose of educating stu-
+dents, parents, teachers, school advisors, policymakers and the general  public about the benefits and
+opportunities related to career and technical education.
+(3) The agencies identified in subsection (1) of this section shall make a joint  report by Decem-
+ber 31 of each year to the appropriate legislative committees concerning  progress on the develop-
+ment and implementation of the goals described in subsection (2) of this section and  may submit
+recommendations for legislation that will promote opportunities related  to career and technical ed-
+ucation.
+SECTION 71.
+ ORS 353.606 is amended to read:
+353.606. (1) There is created the Oregon Nursing Shortage Coalition Committee.
+(2) The committee consists of 10 members, as follows:
+(a) Two members who represent the Oregon State Board of Nursing appointed by the board.
+(b) Two members who  represent the Northwest Organization of Nurse Executives appointed by
+the Oregon State Board of Nursing from  a list of persons submitted to the board by the Northwest
+Organization of Nurse Executives.
+(c) Two members who represent the Oregon Nurses  Association appointed by the Oregon State
+Board of Nursing from a list of persons submitted to the board by the Oregon Nurses Association.
+(d) One member appointed by the Oregon State Board of Nursing who  represents Oregon-based,
+generally accredited, not-for-profit private  institutions of higher education from a list of persons
+submitted to the board by the Oregon Independent Colleges Association.
+(e) Two members appointed  by the Director of the Office of Community Colleges [ and Workforce
+Development] from a list  of persons submitted to the director by the Oregon Community College
+Association.
+(f) One member who represents Oregon Health and  Science University appointed by the uni-
+versity.
+(3) When appointing  members to the committee, the Oregon State Board of Nursing, the Director
+of the Office of Community Colleges [ and Workforce Development ] and Oregon Health  and Science
+University shall ensure that there  is at least one member from each of the following areas of the
+state:
+(a) Rural western Oregon.
+(b) Coastal Oregon.
+(c) Eastern Oregon.
+(d) Urban areas.
+(4) The term of office of each member is four years, but a member serves  at the pleasure of the
+appointing authority. Before the expiration of  the term of a member, the appointing authority shall
+appoint a  successor whose term begins on July 1 next following. A member is eligible for reap-
+pointment. If there is a vacancy for any cause, the appointing authority shall make an appointment
+to become immediately effective for the unexpired term.
+(5) The committee shall elect one of its members to serve as chairperson and another  to serve
+as vice chairperson, for the terms and with the duties  and powers necessary for the performance
+of the functions of such offices as the committee determines.
+(6) The committee shall meet at times and places specified by the call  of the chairperson or of
+a majority of the members of the committee.
+(7) A majority of  the members of the committee constitutes a quorum for the transaction of
+business.
+(8) Members of the committee are entitled to actual  and necessary travel expenses in the man-
+ner and amounts provided for in ORS 292.495. Claims for expenses incurred in  performing functions
+of the committee shall be paid out of funds received by Oregon Health  and Science University for
+that purpose.
+(9) Oregon Health and Science University shall provide staff support to the committee.
+SECTION 72.
+ ORS 408.506 is amended to read:
+408.506. The Department of Human  Services, the Department of Transportation, the Housing and
+Community Services Department, the  Employment Department, the Department of Justice, the Ju-
+dicial Department, public universities listed in ORS 352.002, the Bureau of Labor and  Industries, the
+Office of Community Colleges [ and Workforce Development ] and the Department of Veterans’ Affairs
+shall partner with the Oregon Military Department  to provide reintegration services for veterans
+throughout this state through regional strategies.
+SECTION 73.
+ ORS 413.600 is amended to read:
+413.600. (1) There is established within the Oregon  Health Authority the Traditional Health
+Workers Commission.
+(2) The  Director of the Oregon Health Authority shall appoint the following 24 members to serve
+on the commission:
+(a) Fourteen members, of which a majority must be appointed from nominees selected by  the
+Oregon Community Health  Workers Association, who represent traditional health workers, including
+at least one member to represent each of the following:
+(A) Community health workers, as defined in ORS 414.025;
+(B) Personal health navigators, as defined in ORS 414.025;
+(C) Peer wellness specialists, as defined in ORS 414.025;
+(D) Peer support specialists, as defined in ORS 414.025;
+(E) Doulas;
+(F) Family support specialists, as defined in ORS 414.025;
+(G) Youth support specialists, as defined in ORS 414.025; and
+(H) Tribal traditional health workers, as defined in ORS 414.025;
+(b) One member who represents the Office of Community  Colleges [ and Workforce
+Development];
+(c) One member who is a nurse who represents the Oregon Nurses Association;
+(d) One member who is a physician licensed in this state;
+(e) One member selected from nominees provided by the Home Care Commission;
+(f) One member who represents coordinated care organizations;
+(g) One member who represents a labor organization;
+(h) One member who supervises traditional health workers  at a community-based organization,
+local health department, as defined in ORS 433.235, or agency, as defined in ORS 183.310;
+(i) One member who represents community-based organizations or agencies, as  defined in ORS
+183.310, that provide for the training of traditional health workers;
+(j) One member who represents a consumer of services provided by  health workers who are not
+licensed by this state; and
+(k) One member who represents providers of Indian  health services that work with traditional
+health workers qualified under ORS 414.665, a federally recognized tribe or a tribal organization.
+(3) In appointing members under subsection (2) of this section, the director  shall consider
+whether the composition of the  Traditional Health Workers Commission represents the geographic,
+ethnic, gender, racial, disability status, gender  identity, sexual orientation and economic diversity
+of traditional health workers.
+(4) The term of office of each member of the commission is three years, but a member  serves
+at the pleasure of the director. Before the expiration  of the term of a member, the director shall
+appoint a successor whose term begins on  January 1 next following. A member is eligible for re-
+appointment. If there is a vacancy  for any cause, the director shall make an appointment to become
+immediately effective for the unexpired term.
+(5) A majority of the members of the commission constitutes a  quorum for the transaction of
+business.
+(6) Official action by the commission requires the approval of a majority of the  members of the
+commission.
+(7) The commission shall elect one of its members to serve as chairperson.
+(8) The commission shall  meet at times and places specified by the call of the chairperson or
+of a majority of the members of the commission.
+(9) The commission may adopt rules necessary for the operation of the commission.
+(10) A member of the commission is entitled  to compensation and expenses as provided in ORS
+292.495.
+SECTION 74.
+ ORS 417.799 is amended to read:
+417.799. (1) The Department of Human Services is responsible  for coordinating statewide plan-
+ning for delivery of services to runaway and homeless youth and their families.
+(2) The department  shall recommend policies that integrate a system of services and support for
+runaway and homeless youth into the state’s continuum of care for children who are 0 through  17
+years of age. The department shall recommend policies for a system of services and  support for
+youth who are 18 through 20 years of age and who continue to be or who become homeless.
+(3) The department may work with the Youth  Development Division, the Employment Depart-
+ment, the Housing and Community Services Department, the Office  of Community Colleges [ and
+Workforce Development ], the Office of Workforce Development,  the  Department of Education and
+the Oregon Youth Authority to develop  a comprehensive and coordinated approach for services and
+support for runaway and homeless youth and their families, including youth who  are 18 through 20
+years of age and who continue to be or who become homeless.
+(4) In addition to the entities listed  in subsection (3) of this section, the department shall include
+representatives of youth, nonprofit organizations and statewide coalitions related  to runaway and
+homeless youth services and supports, including services and supports for youth who are 18  through
+20 years of age and who continue  to be or who become homeless, in the joint process described in
+subsection (3) of this section.
+(5) The department  may enter into and renew contracts with providers for the provision of ser-
+vices to runaway and homeless youth and their families,  including services to youth who are 18
+through 20 years of age and who continue to be or who become homeless.
+(6) The department shall appoint an advisory committee to advise the department with respect
+to policies and procedures to coordinate statewide planning for  delivery of services to runaway and
+homeless youth and their  families. The advisory committee shall meet with and advise the depart-
+ment on a regular basis, provide the department with information regarding the  status of existing
+services and make recommendations for improvements and additional services. The department  shall
+include as members of the advisory committee stakeholders with expertise in housing, mental health
+and addictions, sex trafficking, child welfare and law enforcement.
+(7) The department shall report annually on or before September 15 of each  year to the interim
+legislative committees on child welfare  regarding the status of the system of services and support
+for runaway and homeless youth developed by  the department, and the advice and information pro-
+vided by the advisory committee appointed by the department, pursuant to this section.
+SECTION 75.
+ ORS 421.084 is amended to read:
+421.084. (1) The Administrator of Correctional  Education shall administer an adult basic skills
+development  program  for all individuals in the custody of the Department of Corrections. The pro-
+gram shall:
+(a) Test individuals for basic reading and mathematics skills  or, for individuals with limited
+English language  proficiency, English speaking skills. Testing for basic intelligence, learning disa-
+bilities, developmental disabilities and adaptive behavior skills shall be administered  as needed ex-
+cept that the administrator may accept equivalent test results from other sources.
+(b) Except as  provided in subsection (2) of this section, be mandatory for all individuals testing
+below a 8.0 grade  equivalency on a standardized reading test approved by the National Reporting
+System for Adult  Education of the United States Department of Education and by the Adult Basic
+Skills Program of the Office of Community Colleges [ and Workforce Development ].
+(c) Provide progress testing and certification.
+(d) Provide strong incentives for entering the program and for  achieving the minimum reading
+level and, for those individuals with demonstrated ability, provide incentives for making  progress
+toward earning a certificate for passing an approved high school equivalency test such  as the Gen-
+eral Educational Development (GED) test.
+(e) Maintain records of an individual’s achievement  in the program and make those records
+available to the State Board of Parole and Post-Prison Supervision.
+(2) Testing for basic skills and participation in the adult basic skills  development program are
+not required for adults in custody:
+(a) Sentenced to or otherwise confined by the department for less than one year;
+(b) Sentenced to life imprisonment without parole;
+(c) Sentenced to death;
+(d) With developmental disabilities; or
+(e) Who are specifically exempted by the Department of  Corrections for security or health rea-
+sons.
+SECTION 76.
+ ORS 350.432 is amended to read:
+350.432. (1) As used in this section, “public institution of higher  education” has the meaning
+given that term in ORS 350.350.
+(2)(a) Each public institution of higher education must have the same developmental  educational
+requirements and require the same placement tests for each subject area for:
+(A) An  incoming student who has completed high school and who the institution determines is
+college ready; and
+(B) An incoming student who has:
+(i) Received a certificate for passing an approved high school equivalency test  such as the
+General Educational Development (GED) test as provided in ORS 350.175; and
+(ii) Received a grade indicating that the student is college ready.
+(b) A student shall be considered college ready in  a subject area in which the student has re-
+ceived a score designated “GED College Ready” on a General Educational Development (GED)  test
+for which the Director of the Office of Community Colleges  [and Workforce Development ] has issued
+a certificate under ORS 350.175.
+(3) The Higher Education Coordinating Commission may adopt rules to implement this section.
+OREGON WORKFORCE CORPS
+SECTION 77.
+(1) Subject to the availability of funds, there is created the Oregon
+Workforce Corps that shall provide  workforce development and employment programs. The
+corps shall be headed by a program director  and shall be administered through the Bureau
+of Labor and Industries.
+(2) Upon implementation of subsection (1) of this section, there shall  be created the
+Oregon Workforce Corps Advisory  Board to consist of nine members, three to be appointed
+by the President of the Senate, three to be appointed by the Speaker of the House  of Rep-
+resentatives and three public members to be appointed by the Governor.
+(3) Board members may receive reimbursement of necessary and actual expenses  under
+ORS 292.495 (2), but may not receive compensation under  ORS 292.495 (1) or otherwise for
+participation as a board member.
+(4) Board members may be removed by the appointing authority. Vacancies shall be filled
+by the appointing authority. Board members shall serve for a term of three  years and may
+be reappointed for an additional consecutive term.
+(5) The advisory  board shall advise the program director on the implementation of
+sections 77 to 79 of this 2025 Act.
+SECTION 78.
+(1) In consultation with the Oregon Workforce  Corps Advisory Board and
+the Director of the Office of Workforce Development, or the designee of the director, the
+program director  of the Oregon Workforce Corps shall establish eligibility criteria for par-
+ticipants in the corps’s workforce development and employment programs. The program di-
+rector may not establish any criteria that would render the programs ineligible for federal
+funds. Participants shall be lawful permanent residents of this state.
+(2) The program director, in consultation with the  Director of the Office of Workforce
+Development, or the designee of  the director, may take the following actions, including but
+not limited to:
+(a) Applying for and accepting grants or contributions of funds from any public or private
+source;
+(b) Making agreements with any local, state or federal agency to utilize  any service,
+material or property of any such agency,  where the agreements are considered reasonable
+and necessary; and
+(c) Purchasing or  contracting for necessary private services, equipment, materials and
+property, if needed to carry out the projects approved for and undertaken by the corps.
+(3) The Bureau of Labor and Industries may adopt all necessary rules to carry  out the
+purposes and objectives of the programs and to regulate the standards of conduct and  other
+operating guidelines for program participants and other personnel.
+(4) Program participants are exempt from:
+(a) State Personnel Relations Law; and
+(b) ORS 279C.800 to 279C.870.
+SECTION 79.
+(1) The programs established under  sections 77 to 79 of this 2025 Act shall
+provide selected participants with paid workforce development and employment  opportu-
+nities:
+(a) In the areas of:
+(A) Agriculture, fisheries and forestry;
+(B) Natural resources sustainability; or
+(C) Technology innovation.
+(b) Of at least three but not more than 12 months’ duration.
+(2) To the extent practicable, the program director of the Oregon Workforce Corps  shall
+enlist state and federal agencies, local government, nonprofit organizations and  private
+businesses, and any combination  of such entities, to act as sponsors for programs adminis-
+tered under sections  77 to 79 of this 2025 Act. Selection of sponsors shall be based on criteria
+that include the following:
+(a) The availability of other resources on a matching basis, including  contributions from
+private sources, other federal, state  and local agencies, and moneys available through the
+federal Workforce Innovation and Opportunity Act;
+(b) The provision of related educational and job training programs to participants, in-
+cluding but not limited to school  and college coursework, training for approved high school
+equivalency tests such as  the General Educational Development (GED) test, project-related
+education and professional training; and
+(c) Assurances that proposed projects will not displace existing employees or duplicate
+existing private or government programs.
+(3) In  consultation with the Oregon Workforce Corps Advisory Board, the program di-
+rector shall make grants for programs administered under this section.
+SECTION 80.
+Notwithstanding the term of  office specified by section 77 of this 2025 Act,
+of the members first appointed to the Oregon Workforce Corps Advisory Board:
+(1) Three shall serve for a term ending June 30, 2027.
+(2) Three shall serve for a term ending June 30, 2028.
+(3) Three shall serve for a term ending June 30, 2029.
+OPERATIVE DATE
+SECTION 81.
+The Director of the Office of Workforce Development may  be appointed
+before the operative date specified in section 82 of this 2025 Act. The Bureau  of Labor and
+Industries, the Higher Education Coordinating Commission, the Office  of Community Col-
+leges and Workforce  Development and the Director of the Office of Workforce Development
+may take any action before that date that is necessary to enable the bureau, the commission,
+the office and the director to exercise, on and after the operative date  specified in section
+82 of this 2025 Act, the duties,  functions and powers conferred on the bureau, the commis-
+sion, the office and the  director by sections 1 to 10, 41, 42 and 77 to 80 of this 2025 Act and
+the amendments to statutes by sections 11 to 40 and 43 to 76 of this 2025 Act.
+SECTION 82. Sections 1 to 10, 41, 42 and 77  to 80 of this 2025 Act and the amendments
+to statutes by sections 11 to 40 and 43 to 76  of this 2025 Act become operative on July 1, 2026.
+CAPTIONS
+SECTION 83. The unit captions used in this 2025 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+EFFECTIVE DATE
+SECTION 84. This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 285A.516, ORS 285A.519, ORS 285A.522, ORS 294.393, ORS 294.456, ORS 341.005, ORS 341.019, ORS 341.021, ORS 341.039, ORS 341.102, ORS 341.105, ORS 341.440, ORS 341.446, ORS 341.455, ORS 341.487, ORS 341.526, ORS 341.551, ORS 341.626, ORS 341.655, ORS 341.665, ORS 341.670, ORS 344.070, ORS 344.080, ORS 344.090, ORS 344.125, ORS 350.095, ORS 350.150, ORS 350.155, ORS 350.160, ORS 350.170, ORS 350.175, ORS 350.432, ORS 353.606, ORS 408.506, ORS 413.600, ORS 417.799, ORS 418.653, ORS 418.657, ORS 418.658, ORS 418.660, ORS 421.084, ORS 476.696, ORS 476.698, ORS 576.871, ORS 660.318, ORS 660.320, ORS 660.324, ORS 660.339, ORS 660.340, ORS 660.341, ORS 660.343, ORS 660.346, ORS 660.348, ORS 660.349, ORS 660.352, ORS 660.353, ORS 660.354, ORS 660.380, ORS 660.385, ORS 660.400, ORS 660.405, ORS 660.410, ORS 660.415, ORS 660.420
+- From bill text (Introduced version): ORS 174.109, ORS 182.462, ORS 182.472, ORS 183.310, ORS 192.245, ORS 238.005, ORS 238.095, ORS 238.250, ORS 238.260, ORS 238A.100, ORS 238A.115, ORS 238A.220, ORS 238A.350, ORS 238A.353, ORS 255.305, ORS 279C.800, ORS 285A.516, ORS 285A.519, ORS 285A.522, ORS 286A.830, ORS 291.232, ORS 292.495, ORS 293.640, ORS 294.305, ORS 294.311, ORS 294.338, ORS 294.388, ORS 294.393, ORS 294.438, ORS 294.453, ORS 294.456, ORS 294.463, ORS 294.466, ORS 294.471, ORS 294.473, ORS 294.476, ORS 294.478, ORS 310.055, ORS 310.060, ORS 341.005, ORS 341.013, ORS 341.015, ORS 341.019, ORS 341.021, ORS 341.022, ORS 341.024, ORS 341.025, ORS 341.039, ORS 341.076, ORS 341.085, ORS 341.102, ORS 341.105, ORS 341.315, ORS 341.440, ORS 341.446, ORS 341.455, ORS 341.487, ORS 341.526, ORS 341.551, ORS 341.565, ORS 341.569, ORS 341.620, ORS 341.626, ORS 341.655, ORS 341.665, ORS 341.670, ORS 341.675, ORS 341.933, ORS 344.070, ORS 344.080, ORS 344.090, ORS 344.125, ORS 344.415, ORS 345.010, ORS 345.325, ORS 348.180, ORS 350.014, ORS 350.018, ORS 350.075, ORS 350.090, ORS 350.095, ORS 350.150, ORS 350.155, ORS 350.160, ORS 350.165, ORS 350.170, ORS 350.175, ORS 350.350, ORS 350.432, ORS 352.002, ORS 353.606, ORS 408.506, ORS 411.806, ORS 412.001, ORS 413.600, ORS 414.025, ORS 414.665, ORS 417.799, ORS 418.650, ORS 418.653, ORS 418.657, ORS 418.658, ORS 418.660, ORS 421.084, ORS 433.235, ORS 476.694, ORS 476.696, ORS 476.698, ORS 477.503, ORS 576.850, ORS 576.871, ORS 653.025, ORS 657.695, ORS 660.175, ORS 660.300, ORS 660.318, ORS 660.320, ORS 660.324, ORS 660.327, ORS 660.339, ORS 660.340, ORS 660.341, ORS 660.343, ORS 660.346, ORS 660.347, ORS 660.348, ORS 660.349, ORS 660.350, ORS 660.351, ORS 660.352, ORS 660.353, ORS 660.354, ORS 660.380, ORS 660.385, ORS 660.390, ORS 660.400, ORS 660.405, ORS 660.410, ORS 660.415, ORS 660.420
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `c62c32a29a00bf0eb0df505c05e75d06618f1203ca24b0bf4a01b6bbafecbe88` (snapshot `_meta/snapshots/measure-2025r1-hb2708-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2708/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2708> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

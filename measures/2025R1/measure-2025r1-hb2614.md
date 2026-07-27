@@ -1,0 +1,942 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2614
+title: 'HB 2614 (2025R1): Directs the Oregon Public Defense Commission to submit an agency request budget
+  to the Oregon Department of Administrative Services after approval by commission members.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2614
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2614/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 345d08b1d492b62d72fa8a2b095ac814826a036da18792bcefae3a312c9ba969
+snapshot_id: measure-2025r1-hb2614-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 135.055
+  - ORS 151.211
+  - ORS 151.213
+  - ORS 151.216
+  - ORS 151.219
+  - ORS 151.225
+  - ORS 151.485
+  - ORS 151.489
+  - ORS 171.562
+  - ORS 171.565
+  - ORS 181A.355
+  - ORS 192.245
+  - ORS 291.208
+  - ORS 292.495
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2614
+prefix_meaning: House Bill
+catch_line: Directs the Oregon Public Defense Commission to submit an agency request budget to the Oregon
+  Department of Administrative Services after approval by commission members.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act makes various changes to the OPDC. The Act takes effect when the Governor\
+  \ signs it. (Flesch Readability Score: 92.9). \n\tDirects the Oregon Public Defense Commission to submit\
+  \ an agency request budget to the Oregon Department of Administrative Services after approval by commission\
+  \ members. Modifies the requirements for policies concerning compensation and caseloads. Removes the\
+  \ authority of the commission to advocate for or against legislation. \n\tModifies the authority of\
+  \ the Governor, beginning January 1, 2026, over the appointment and removal of the executive director\
+  \ of the commission [<i>and the removal of commission members</i>].<b> Changes the date, from July 1,\
+  \ 2027, to January 1, 2026, on which the authority of the Governor over the removal of commission members\
+  \ is limited.</b> \n\t[<i>Extends</i>]<b> Removes the sunset on</b> the authority of the commission\
+  \ to contract with entities that subcontract with other entities or persons for the provision of public\
+  \ defense services [<i>until July 1, 2033</i>]. Specifies standards and requirements for subcontracting\
+  \ entities. \n\tDeclares an emergency, effective on passage."
+relating_to: Relating to the Oregon Public Defense Commission; and declaring an emergency.
+relating_to_full: Relating to the Oregon Public Defense Commission; and declaring an emergency.
+at_the_request_of: (at the request of House Interim Committee on Judiciary for Representative Jason Kropf)
+lc_number: 2876
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2026-04-22T13:58:51'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 59514
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 135.055
+  - ORS 151.211
+  - ORS 151.213
+  - ORS 151.216
+  - ORS 151.219
+  - ORS 151.225
+  - ORS 151.485
+  - ORS 151.489
+  - ORS 171.562
+  - ORS 171.565
+  - ORS 181A.355
+  - ORS 192.245
+  - ORS 291.208
+  - ORS 292.495
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2614>.
+
+# HB 2614 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2614, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of House Interim Committee on Judiciary for Representative Jason Kropf)
+- **LC number:** 2876
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2026-04-22T13:58:51
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 59514 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2614/Enrolled>.
+
+## Summary
+
+**Catchline:** Directs the Oregon Public Defense Commission to submit an agency request budget to the Oregon Department of Administrative Services after approval by commission members.
+
+**Relating to:** Relating to the Oregon Public Defense Commission; and declaring an emergency.
+
+Digest: The Act makes various changes to the OPDC. The Act takes effect when the Governor signs it. (Flesch Readability Score: 92.9). 
+ Directs the Oregon Public Defense Commission to submit an agency request budget to the Oregon Department of Administrative Services after approval by commission members. Modifies the requirements for policies concerning compensation and caseloads. Removes the authority of the commission to advocate for or against legislation. 
+ Modifies the authority of the Governor, beginning January 1, 2026, over the appointment and removal of the executive director of the commission [<i>and the removal of commission members</i>].<b> Changes the date, from July 1, 2027, to January 1, 2026, on which the authority of the Governor over the removal of commission members is limited.</b> 
+ [<i>Extends</i>]<b> Removes the sunset on</b> the authority of the commission to contract with entities that subcontract with other entities or persons for the provision of public defense services [<i>until July 1, 2033</i>]. Specifies standards and requirements for subcontracting entities. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to the Oregon Public Defense Commission; and declaring an emergency.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 2614
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House In-
+terim Committee on Judiciary for Representative Jason Kropf)
+CHAPTER .................................................
+AN ACT
+Relating to the Oregon Public Defense Commission; creating new provisions; amending ORS  151.213,
+151.216 and 151.219 and sections 92 and 102, chapter 281, Oregon Laws 2023; and declaring an
+emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  Section 102, chapter 281, Oregon Laws 2023, is amended to read:
+Sec. 102.  (1)(a) The amendments to ORS 151.211, 151.216 and 151.219 by sections  93 to 95 , [ of
+this 2023 Act ] chapter 281, Oregon Laws 2023,  become operative on July 1, 2025.
+(b) The  amendments to ORS 151.213 [ and 151.216] by [ sections 100 and 101 of this 2023 Act ]
+section 100, chapter 281, Oregon Laws 2023,  become operative  on [ July 1, 2027 ] January 1,
+2026.
+(c) The amendments to ORS 151.216 by section 101, chapter 281, Oregon Laws  2023, be-
+come operative on January 1, 2026.
+(2)(a) A person who is a member of the Oregon Public Defense Commission  on [ July 1, 2027 ]
+January 1, 2026 , may finish the person’s term as a commission member  and is eligible for reap-
+pointment, but, beginning [ July 1, 2027 ] January 1, 2026 , may be removed by the Governor only for
+inefficiency, neglect of duty or malfeasance in office.
+(b) The person serving as executive director of the Oregon  Public Defense Commission on [ July
+1, 2027] January 1, 2026 , may finish the person’s term as executive director and is eligible for re-
+appointment, but, beginning on [ July 1, 2027 ] January 1, 2026 , [ serves at the pleasure  of the voting
+members of the commission ] may be removed by the Governor only for just cause .
+(3) The Oregon Public Defense Commission, the Oregon  Department of Administrative Services
+and the Governor may take any action before the operative dates specified in subsection (1) of  this
+section that is necessary to enable the  commission to exercise, on and after the operative dates
+specified in subsection (1) of this section, all of the duties, functions  and powers conferred on those
+entities by the amendments to  ORS 151.211, 151.213, 151.216 and 151.219 by sections 93 to 95, 100
+and 101, [ of this 2023 Act ] chapter 281, Oregon Laws 2023 .
+SECTION 2.  ORS 151.213, as amended by section  77, chapter 281, Oregon Laws 2023, is
+amended to read:
+151.213. (1) The Oregon Public Defense Commission is established in the executive branch  of
+state government. [ Except for the appointment or removal of commission members, the  commission and
+employees of the commission are  not subject to the exercise of administrative authority and supervision
+by the Governor. ]
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 1
+(2)(a) Nine voting members and four nonvoting members shall be appointed to  the commission
+by the Governor as follows:
+(A) The Governor shall appoint:
+(i) One voting member who has been represented by a public defense provider.
+(ii) Two additional voting members, one of  whom has experience as a public defense provider in
+juvenile delinquency or dependency cases.
+(iii) Two nonvoting members who are currently employed as  public defense providers in this
+state, one of whom is from an urban area and one of whom is from a rural area.
+(B) The Governor shall appoint, from among persons recommended by  the Chief Justice of the
+Supreme Court:
+(i) One voting member  who [ is a retired judge ] previously served as a judge and who is not
+currently engaged in judicial functions, including service as a senior judge  under ORS 1.300
+or in any similar capacity .
+(ii) Two additional voting members, one of  whom has experience as a public defense provider in
+criminal cases.
+(C) The  Governor shall appoint, from among persons recommended by the President of the Sen-
+ate:
+(i) One voting member who is a current dean or faculty member of an Oregon law school.
+(ii) One nonvoting member who is a member of the Senate at the time of appointment.
+(D) The Governor shall appoint,  from among persons recommended by the Speaker of the House
+of Representatives:
+(i) One voting member who has expertise in juvenile law and criminal defense, or who is a  ju-
+venile justice or criminal justice reform advocate.
+(ii) One nonvoting  member who is a member of the House of Representatives at the time of ap-
+pointment.
+(E) The Governor shall appoint one voting member from among persons jointly recommended
+by the President of the Senate and the Speaker of the House of Representatives.
+(b) When recommending  and appointing members of the commission, the Governor, Chief Justice,
+President of the Senate and Speaker of the House of Representatives shall:
+(A) Consider input  from individuals and organizations with an interest in the delivery of public
+defense services.
+(B) Consider geographic, racial, ethnic and gender diversity.
+(C) Ensure that members appointed to the commission have significant experience with  issues
+related to public defense or in the case types subject to representation by public  defense providers.
+(D) Ensure  that members appointed to the commission have demonstrated a strong commitment
+to quality public defense representation.
+(c) Unless the person is a  member of the Legislative Assembly appointed as a nonvoting
+member of the commission under paragraph (a)(C)(ii) or  (a)(D)(ii) of this subsection,  the fol-
+lowing persons may not be appointed to and may not serve as members of the commission:
+(A) A prosecuting attorney.
+(B) A judge, magistrate or other person who performs judicial functions.
+(C) An employee of a law enforcement agency or the Department of Human Services.
+(d) A person who is primarily engaged in providing public defense services  and who has a fi-
+nancial interest in the delivery of public defense services at the state level may  not serve as a
+voting member of the commission.
+(e) As used  in this subsection, “law enforcement agency” means an entity that employs cor-
+rections officers, parole and probation officers, police officers, certified  reserve officers or reserve
+officers, as those terms are defined in ORS 181A.355.
+(3) The term of a member is four years beginning on  the effective date of the Governor’s ap-
+pointment, but members serve at the pleasure of the Governor. A member  is eligible for reappoint-
+ment if qualified for membership at the time of reappointment, but may serve  no more than two
+consecutive four-year terms. The Governor may remove any member of  the commission at any time.
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 2
+If a vacancy occurs for any cause before the expiration of the term of a  member, the Governor shall
+make an appointment to fill the vacancy, in the same manner as an appointment to a full term,  to
+become immediately effective for the unexpired term.
+(4) A chairperson and a vice chairperson shall  be elected by the voting members of the com-
+mission every two years with such functions as the commission may determine.  A member is eligible
+for reelection as chairperson or vice chairperson.
+(5) A majority of the voting members constitutes a quorum for the transaction of business.
+(6)(a) All members of the commission shall:
+(A) Review the policies, procedures, standards and guidelines required by ORS 151.216 and pro-
+vide input before the approval vote described in paragraph (b) of this subsection.
+(B) Review the  agency request  budget of the commission and provide input before the  approval
+vote described in paragraph (b) of this subsection.
+(C) Meet as needed to carry out the duties described in this subsection.
+(b) The voting members of the commission shall:
+(A) Approve by majority  vote the policies, procedures, standards and guidelines required by ORS
+151.216 before those policies, procedures, standards and guidelines may take effect.
+(B) Approve by majority vote the  agency request  budget of the commission before submission
+to the [ Legislative Assembly ] Oregon Department of Administrative Services .
+(7) The members of the commission may not:
+(a) Make any decision regarding the handling of any individual case;
+(b) Have access to any case file; or
+(c) Interfere with the executive director or any member of the staff of  the executive director in
+carrying out professional duties involving the legal representation of public defense clients.
+(8) A member of the commission is entitled to compensation for services as a member,  and to
+expenses, as provided in ORS 292.495.
+(9)(a) The Governor shall appoint an executive director of  the commission, subject to confirma-
+tion by the Senate in the manner prescribed by ORS 171.562 and 171.565. The person appointed  as
+executive director must be well qualified by  training and experience to perform the functions of the
+office.
+(b) The term of office  of the executive director is four years, but the executive director serves
+at the pleasure of the Governor.
+(c) Before the expiration of the executive director’s term, the Governor shall appoint a successor
+to take office upon the date of the expiration. The  executive director is eligible for reappointment.
+If there is a vacancy for any cause, the Governor shall make  an appointment to become immediately
+effective for the unexpired term.
+SECTION 3.
+ ORS 151.213, as amended by sections 77 and 100, chapter 281, Oregon  Laws 2023,
+is amended to read:
+151.213. (1)  The Oregon Public Defense Commission is established in the executive branch of
+state government. [ Except for the appointment or removal of commission members, the  commission and
+employees of the commission are  not subject to the exercise of administrative authority and supervision
+by the Governor. ]
+(2)(a) Nine voting  members and four nonvoting members shall be appointed to the commission
+by the Governor as follows:
+(A) The Governor shall appoint:
+(i) One voting member who has been represented by a public defense provider.
+(ii) Two additional voting members, one of  whom has experience as a public defense provider in
+juvenile delinquency or dependency cases.
+(iii) Two nonvoting members who are currently employed as  public defense providers in this
+state, one of whom is from an urban area and one of whom is from a rural area.
+(B) The Governor shall appoint, from among persons recommended by  the Chief Justice of the
+Supreme Court:
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 3
+(i) One voting member  who [ is a retired judge ] previously served as a judge and who is not
+currently engaged in judicial functions, including service as a senior judge  under ORS 1.300
+or in any similar capacity .
+(ii) Two additional voting members, one of  whom has experience as a public defense provider in
+criminal cases.
+(C) The  Governor shall appoint, from among persons recommended by the President of the Sen-
+ate:
+(i) One voting member who is a current dean or faculty member of an Oregon law school.
+(ii) One nonvoting member who is a member of the Senate at the time of appointment.
+(D) The Governor shall appoint,  from among persons recommended by the Speaker of the House
+of Representatives:
+(i) One voting member who has expertise in juvenile law and criminal defense, or who is a  ju-
+venile justice or criminal justice reform advocate.
+(ii) One nonvoting  member who is a member of the House of Representatives at the time of ap-
+pointment.
+(E) The Governor shall appoint one voting member from among persons jointly recommended
+by the President of the Senate and the Speaker of the House of Representatives.
+(b) When recommending  and appointing members of the commission, the Governor, Chief Justice,
+President of the Senate and Speaker of the House of Representatives shall:
+(A) Consider input  from individuals and organizations with an interest in the delivery of public
+defense services.
+(B) Consider geographic, racial, ethnic and gender diversity.
+(C) Ensure that members appointed to the commission have significant experience with  issues
+related to public defense or in the case types subject to representation by public  defense providers.
+(D) Ensure  that members appointed to the commission have demonstrated a strong commitment
+to quality public defense representation.
+(c) Unless the person is a  member of the Legislative Assembly appointed as a nonvoting
+member of the commission under paragraph (a)(C)(ii) or  (a)(D)(ii) of this subsection,  the fol-
+lowing persons may not be appointed to and may not serve as members of the commission:
+(A) A prosecuting attorney.
+(B) A judge, magistrate or other person who performs judicial functions.
+(C) An employee of a law enforcement agency or the Department of Human Services.
+(d) A person who is primarily engaged in providing public defense services  and who has a fi-
+nancial interest in the delivery of public defense services at the state level may  not serve as a
+voting member of the commission.
+(e) As used  in this subsection, “law enforcement agency” means an entity that employs cor-
+rections officers, parole and probation officers, police officers, certified  reserve officers or reserve
+officers, as those terms are defined in ORS 181A.355.
+(3) The term of a member is four years beginning on  the effective date of the Governor’s ap-
+pointment. A member is eligible  for reappointment if qualified for membership at the time of reap-
+pointment, but may serve no  more than two consecutive four-year terms. The Governor may remove
+any member of the commission at  any time for inefficiency, neglect of duty or malfeasance in office.
+If a vacancy occurs for any cause before the expiration of the term of a  member, the Governor shall
+make an  appointment to fill the vacancy, in the same manner as an appointment to a full term, to
+become immediately effective for the unexpired term.
+(4) A chairperson and a vice chairperson shall  be elected by the voting members of the com-
+mission every two years with such functions as the commission may determine.  A member is eligible
+for reelection as chairperson or vice chairperson.
+(5) A majority of the voting members constitutes a quorum for the transaction of business.
+(6)(a) All members of the commission shall:
+(A) Review the policies, procedures, standards and guidelines required by ORS 151.216 and pro-
+vide input before the approval vote described in paragraph (b) of this subsection.
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 4
+(B) Review the  agency request  budget of the commission and provide input before the  approval
+vote described in paragraph (b) of this subsection.
+(C) Meet as needed to carry out the duties described in this subsection.
+(b) The voting members of the commission shall:
+[(A) Appoint an executive director of the commission. The term  of office of the executive director
+is four years, but the executive director serves at the  pleasure of the voting members of the
+commission.]
+[(B)] (A)  Approve by majority vote the policies,  procedures, standards and guidelines required
+by ORS 151.216 before those policies, procedures, standards and guidelines may take effect.
+[(C)] (B)  Approve by majority vote the  agency request  budget of  the commission before sub-
+mission to the [ Legislative Assembly ] Oregon Department of Administrative Services .
+(7) The members of the commission may not:
+(a) Make any decision regarding the handling of any individual case;
+(b) Have access to any case file; or
+(c) Interfere with the executive director or any member of the staff of  the executive director in
+carrying out professional duties involving the legal representation of public defense clients.
+(8) A member of the commission is entitled to compensation for services as a member,  and to
+expenses, as provided in ORS 292.495.
+(9)(a) The Governor shall appoint an executive director of  the commission after consul-
+tation with the commission. The appointment is subject to confirmation by the Senate in  the
+manner prescribed by ORS 171.562 and 171.565. The person appointed  as executive director
+must be well qualified by training and experience to perform the functions of the office.
+(b) The term of  office of the executive director is four years, but the Governor may re-
+move the executive director at any time for just cause.
+(c) The executive director is eligible for  reappointment. Before the expiration of the
+executive director’s term, the Governor shall either reappoint the executive director or  ap-
+point a successor to take office upon the date of the expiration. If there is a vacancy for  any
+cause, the Governor shall make an appointment to become immediately effective for the
+unexpired term. An appointment  or reappointment described in this paragraph is subject to
+paragraph (a) of this subsection.
+(d) As used in  this subsection, “consultation with the commission” must include, but is
+not limited to, consulting with the chairperson  of the commission prior to the recruitment
+of a new  executive director, allowing the chairperson or another commission member desig-
+nated by  the chairperson to participate in the interview process, and allowing commission
+members to review and provide comment  on the top three candidates prior to the final ap-
+pointment.
+SECTION 3a.
+ Section 92, chapter 281, Oregon Laws 2023, is amended to read:
+Sec. 92.  (1)(a) The Oregon Public Defense Commission is transferred from the judicial  branch
+to the executive branch on January 1, 2025.
+(b) The amendments to ORS 8.105, 42.125, 84.064, 151.213,  151.216, 171.133, 190.490, 283.110,
+291.002, 291.030, 291.045, 291.227, 293.300, 293.590 and 293.875 by sections 77 to 91 , [ of this  2023
+Act] chapter 281, Oregon Laws 2023,  become operative on January 1, 2025.
+(2) The Oregon Public Defense Commission, the Judicial Department, the  Oregon Department
+of Administrative Services  and the Governor may take any action before the operative date specified
+in subsection (1) of this section that is necessary to:
+(a) Facilitate the transfer of the commission to the executive branch.
+(b) Enable those entities to exercise, on and after the operative date  specified in subsection (1)
+of this section, all  of the duties, functions and powers conferred on those entities by the amendments
+to ORS 8.105,  42.125, 84.064, 151.213, 151.216, 171.133, 190.490, 283.110, 291.002, 291.030, 291.045,
+291.227, 293.300, 293.590 and 293.875 by sections 77 to 91 , [ of this 2023 Act ] chapter 281, Oregon
+Laws 2023.
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 5
+(3)(a) A person who is a member of the Oregon Public Defense Commission on January 1, 2025,
+may finish the person’s term as a commission member and is eligible for  reappointment if the person
+meets the requirements  described in ORS 151.213 (2), but, beginning on January 1, 2025, and con-
+tinuing until [ July 1, 2027 ] January 1, 2026 , serves at the pleasure of the Governor.
+(b) The person serving as executive director of  the Oregon Public Defense Commission on Jan-
+uary 1, 2025, may  finish the person’s term as executive director and is eligible for reappointment,
+but, beginning on January 1, 2025, and continuing until [ July 1, 2027] January 1, 2026, serves at the
+pleasure of the Governor.
+SECTION 4.  ORS 151.216, as amended by section  78, chapter 281, Oregon Laws 2023, is
+amended to read:
+151.216. (1) The Oregon Public Defense Commission shall:
+(a) Establish and maintain a public defense system that  ensures the provision of public defense
+services consistent with the Oregon Constitution, the United States  Constitution and Oregon and
+national standards of justice.
+(b) Adopt policies for public defense providers that:
+(A) Ensure compensation, resources and caseloads are in accordance with  [national and regional
+best practices ] the requirements of the Oregon and United States Constitutions ;
+[(B) Ensure all public defense provider contracts provide for compensation that  is commensurate
+with the character of service performed; ]
+[(C)] (B)  Ensure funding  and resources to support required data collection and training re-
+quirements; and
+[(D)] (C) Recognize the need to consider overhead costs that account for  the cost of living and
+business cost differences in each county or jurisdiction, including but not limited to rent,  profes-
+sional membership dues, malpractice insurance and other insurance and other  reasonable and usual
+operating  costs.
+(c) Establish operational and contracting systems that allow for  oversight, ensure transparency
+and stakeholder engagement and promote equity, inclusion and culturally specific representation.
+(d) Review the caseload  policies described in paragraph (b)(A) of this subsection annually, and
+revise the policies as necessary and at least every four years.
+(e) Adopt a statewide workload plan, based  on the caseload policies described in paragraph
+(b)(A) of this subsection, that takes into account the needs of each county or  jurisdiction, practice
+structure and type of practice overseen by the commission.
+(f) Submit [ the budget of the commission to the Legislative Assembly after the budget  is submitted
+to the commission by the executive director and  approved by the voting members of the commission.
+The chairperson of the commission shall present the budget to the Legislative Assembly ] an agency
+request budget  to the Oregon Department of Administrative Services as described in ORS
+291.208.
+(g) Adopt  a compensation plan, classification system and affirmative action plan for the com-
+mission that are commensurate with other state agencies.
+(h) Adopt policies, procedures, standards and guidelines regarding:
+(A) The determination  of financial eligibility of persons entitled to be represented by appointed
+counsel at state expense;
+(B) The appointment of counsel, including the appointment of  counsel at state expense regard-
+less of financial eligibility in juvenile delinquency matters;
+(C) The fair compensation of counsel appointed to represent a person  financially eligible for
+appointed counsel at state expense;
+(D) Appointed counsel compensation disputes;
+(E) The  costs associated with the representation of a person by appointed counsel in the state
+courts that are required to be paid by the state; and
+(F) The types of fees and expenses subject to a preauthorization requirement.
+(i) Reimburse the State Court Administrator from funds  deposited in the Public Defense Services
+Account established by ORS 151.225 for the costs  of personnel and other costs associated with lo-
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 6
+cation of eligibility verification and screening personnel pursuant to  ORS 151.489 by the State Court
+Administrator.
+(j) Develop, adopt and oversee  the implementation, enforcement and modification of policies,
+procedures, minimum standards and guidelines to ensure that public defense providers are providing
+effective assistance of counsel consistently to all eligible persons in this  state as required by statute
+and the Oregon and United States Constitutions. The policies, procedures, standards and guidelines
+described in this paragraph apply to employees of the commission and  to any person or entity that
+contracts with the commission to provide public defense services in this state.
+(k) Set minimum standards by which appointed counsel are trained and supervised.
+(L) Establish a system, policies and procedures for the mandatory collection of  data concerning
+the operation of the commission and all public defense providers.
+(m) Enter into contracts and hire attorneys to bring  the delivery of public defense services into
+and maintain compliance with the minimum  policies, procedures, standards and guidelines described
+in this subsection. All contracts for  the provision of public defense services to which the commission
+is a party must include a requirement for collection by the  commission of data determined by the
+commission to be qualitatively necessary for any report required to be submitted to the  Legislative
+Assembly.
+(n) At least once every two years, report  to the interim committees of the Legislative Assembly
+related to the judiciary, in the manner  provided in ORS 192.245, and to the Governor and Chief
+Justice, concerning compliance metrics for the minimum standards described in this  subsection and
+recommendations for legislative changes.
+(o) Develop standard operating expectations for persons and entities providing public defense
+services.
+(p) In consultation with the Judicial Department, ensure the  existence of policies that create a
+standardized process for determining and verifying financial eligibility for appointed counsel under
+ORS 151.485.
+(q) Ensure access to systematic and  comprehensive training programs for attorneys for the
+purpose of meeting statewide standards set by the commission.
+(r) Enter into contracts or  interagency agreements with the Oregon Department of Administra-
+tive Services for the purpose  of supporting state public defense population forecasts and other re-
+lated forecasts.
+(s) Establish any other policies,  procedures, standards and guidelines for the conduct of the
+commission’s affairs and promulgate policies necessary to carry out all powers and  duties of the
+commission.
+(2) When establishing the minimum policies, procedures, standards and guidelines  described in
+this section, the commission shall adhere to the following principles:
+(a) Appointed  counsel shall be provided sufficient time and a space where attorney-client
+confidentiality is safeguarded for meetings with clients.
+(b) The workload of appointed counsel must be controlled to permit  effective representation.
+Economic  disincentives  or incentives that impair the ability of appointed counsel to provide effective
+assistance of counsel must be avoided. The commission may develop workload controls  to enhance
+appointed counsel’s ability to provide effective representation.
+(c) The ability, training and experience of appointed counsel must match the nature and com-
+plexity of the case to which the counsel is appointed.
+(d) The same appointed counsel shall continuously represent  a client throughout the pendency
+of the case and shall appear at every court appearance other than ministerial hearings.
+(e) The commission shall establish continuing legal education requirements for  public defense
+providers who are employed by or contract with the commission  that are specific to the subject
+matter area and practice of each type of court-appointed counsel.
+(f) The commission and public defense providers shall systematically  review appointed counsel
+for efficiency and for effective representation according to commission standards.
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 7
+(3) The commission shall be organized in a  manner for the effective delivery of public defense
+services as prescribed by the policies  and procedures created pursuant to statute to financially eli-
+gible persons and consistent with  the budgetary structure established for the commission by the
+Legislative Assembly.
+(4) The commission shall hire attorneys to serve  as appointed counsel, including at the trial
+level in Oregon circuit courts, and may establish a trial division within  the commission consisting
+of attorneys employed by the commission who are trial-level public defense providers.
+(5) The policies, procedures, standards and guidelines adopted by the commission must be made
+available in an accessible manner to the public on the commission’s website.
+(6) Policies, procedures, standards and guidelines adopted  by the commission supersede any
+conflicting rules, policies or procedures of the Public Defender  Committee, State Court Administra-
+tor, circuit courts, the  Court of Appeals, the Supreme Court and the Psychiatric Security Review
+Board related  to the exercise of the commission’s administrative responsibilities under this section
+and transferred duties, functions and powers as they occur.
+(7) The commission may accept gifts, grants or contributions from any source, whether public
+or private. However, the commission may not accept  a gift, grant or contribution if acceptance
+would create a conflict of interest. Moneys accepted under this  subsection shall be deposited in the
+Public Defense Services Account established by ORS 151.225  and expended for the purposes for
+which given or granted.
+[(8) With the approval of a majority of the  voting members of the commission, the commission may
+advocate for or against legislation before  the Legislative Assembly or policies or budgets being con-
+sidered by the Legislative Assembly. ]
+[(9)] (8)  The commission shall request that the Governor include in the  Governor’s requested
+budget, for each fiscal period, at  a minimum, the amount of funds identified by the commission as
+being necessary to carry out the duties and activities of the commission.
+[(10)] (9) The commission may adopt rules pursuant to ORS chapter 183.
+SECTION 5.  ORS 151.216,  as amended by sections 78 and 94, chapter 281, Oregon Laws 2023,
+is amended to read:
+151.216. (1) The Oregon Public Defense Commission shall:
+(a) Establish and maintain a public defense system that  ensures the provision of public defense
+services consistent with the Oregon Constitution, the United States  Constitution and Oregon and
+national standards of justice.
+(b) Adopt policies for public defense providers that:
+(A) Ensure compensation, resources and caseloads are in accordance with  [national and regional
+best practices ] the requirements of the Oregon and United States Constitutions ;
+[(B) Ensure all public defense provider contracts provide for compensation that  is commensurate
+with the character of service performed; ]
+[(C)] (B)  Ensure funding  and resources to support required data collection and training re-
+quirements; and
+[(D)] (C) Recognize the need to consider overhead costs that account for  the cost of living and
+business cost differences in each county or jurisdiction, including but not limited to rent,  profes-
+sional membership dues, malpractice insurance and other insurance and other  reasonable and usual
+operating  costs.
+(c) Establish operational and contracting systems that allow for  oversight, ensure transparency
+and stakeholder engagement and promote equity, inclusion and culturally specific representation.
+(d) Review the caseload  policies described in paragraph (b)(A) of this subsection annually, and
+revise the policies as necessary and at least every four years.
+(e) Adopt a statewide workload plan, based  on the caseload policies described in paragraph
+(b)(A) of this subsection, that takes into account the needs of each county or  jurisdiction, practice
+structure and type of practice overseen by the commission.
+(f) Submit [ the budget of the commission to the Legislative Assembly after the budget  is submitted
+to the commission by the executive director and  approved by the voting members of the commission.
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 8
+The chairperson of the commission shall present the budget to the Legislative Assembly ] an agency
+request budget  to the Oregon Department of Administrative Services as described in ORS
+291.208.
+(g) Adopt a compensation plan, classification system and affirmative action plan for the  com-
+mission that are commensurate with other state agencies.
+(h) Adopt policies, procedures, standards and guidelines regarding:
+(A) The determination of financial eligibility of persons entitled to be represented  by appointed
+counsel at state expense;
+(B) The appointment of counsel, including  the appointment of counsel at state expense regard-
+less of financial eligibility in juvenile delinquency matters;
+(C) The fair compensation  of counsel appointed to represent a person financially eligible for
+appointed counsel at state expense;
+(D) Appointed counsel compensation disputes;
+(E) The costs associated with the representation of a person by appointed counsel in the  state
+courts that are required to be paid by the state; and
+(F) The types of fees and expenses subject to a preauthorization requirement.
+(i) Reimburse the State Court Administrator from funds  deposited in the Public Defense Services
+Account established by ORS 151.225 for the costs of  personnel and other costs associated with lo-
+cation of eligibility verification and screening personnel pursuant to  ORS 151.489 by the State Court
+Administrator.
+(j) Develop, adopt and oversee  the implementation, enforcement and modification of policies,
+procedures, minimum standards and guidelines to ensure that public defense providers are providing
+effective assistance of counsel consistently to all eligible persons in this  state as required by statute
+and the Oregon and United States Constitutions. The policies, procedures, standards and guidelines
+described in this paragraph apply to employees of the commission and  to any person or entity that
+contracts with the commission to provide public defense services in this state.
+(k) Set minimum standards by which appointed counsel are trained and supervised.
+(L) Establish a system, policies and procedures for the mandatory collection of  data concerning
+the operation of the commission and all public defense providers.
+(m) Enter into contracts and hire attorneys to bring  the delivery of public defense services into
+and maintain compliance with the minimum  policies, procedures, standards and guidelines described
+in this subsection. All contracts for  the provision of public defense services to which the commission
+is a party must include a requirement for collection by the  commission of data determined by the
+commission to be qualitatively necessary for any report required to be submitted to the  Legislative
+Assembly.
+(n) At least once every two years, report  to the interim committees of the Legislative Assembly
+related to the judiciary, in the manner  provided in ORS 192.245, and to the Governor and Chief
+Justice, concerning compliance metrics for the minimum standards described in this  subsection and
+recommendations for legislative changes.
+(o) Develop standard operating expectations for persons and entities providing public defense
+services.
+(p) In consultation with the Judicial Department, ensure the  existence of policies that create a
+standardized process for determining and verifying financial eligibility for appointed counsel under
+ORS 151.485.
+(q) Ensure access to systematic and  comprehensive training programs for attorneys for the
+purpose of meeting statewide standards set by the commission.
+(r) Enter into contracts or  interagency agreements with the Oregon Department of Administra-
+tive Services for the purpose  of supporting state public defense population forecasts and other re-
+lated forecasts.
+(s) Establish any other policies,  procedures, standards and guidelines for the conduct of the
+commission’s affairs and promulgate policies necessary to carry out all powers and  duties of the
+commission.
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 9
+(2) When establishing the minimum policies, procedures, standards and guidelines  described in
+this section, the commission shall adhere to the following principles:
+(a) Appointed counsel shall be provided sufficient time and a space where  attorney-client
+confidentiality is safeguarded for meetings with clients.
+(b) The workload  of appointed counsel must be controlled to permit effective representation.
+Economic  disincentives  or incentives that impair the ability of appointed counsel to provide effective
+assistance of counsel  must be avoided. The commission may develop workload controls to enhance
+appointed counsel’s ability to provide effective representation.
+(c) The ability, training and experience of appointed counsel must match the nature and com-
+plexity of the case to which the counsel is appointed.
+(d) The same appointed counsel shall  continuously represent a client throughout the pendency
+of the case and shall appear at every court appearance other than ministerial hearings.
+(e) The commission  shall establish continuing legal education requirements for public defense
+providers who are employed by or contract  with the commission that are specific to the subject
+matter area and practice of each type of court-appointed counsel.
+(f) The commission and  public defense providers shall systematically review appointed counsel
+for efficiency and for effective representation according to commission standards.
+(3) The commission shall be organized in a manner  for the effective delivery of public defense
+services as prescribed by the policies and procedures created pursuant  to statute to financially eli-
+gible persons and consistent with the budgetary structure established for  the commission by the
+Legislative Assembly.
+(4) The commission shall hire attorneys to serve  as appointed counsel, including at the trial
+level in Oregon circuit courts, and shall establish  a trial division within the commission consisting
+of attorneys employed by the commission who are trial-level public defense providers.
+(5)(a) The commission shall establish, supervise  and maintain a panel of qualified counsel who
+contract with the commission and are directly  assigned to cases. The commission shall develop a
+process for certification of attorneys to the panel with periodic eligibility  and case review. Panel
+attorneys are not employees of the commission.
+(b) The payment of panel counsel:
+(A) May not be lower than the hourly rate established by the commission.
+(B) Shall  be adjusted to reflect the same percentage amount of any positive cost of living ad-
+justment granted to employees in the management service in other executive branch agencies.
+(C) May not provide a financial conflict of interest  or economic incentives or disincentives that
+impair an attorney’s ability to provide effective representation.
+(6)(a) The commission may enter into  contracts for the provision of public defense services with
+nonprofit public defense organizations  and private law firms .
+(b) The commission may enter into contracts with entities that subcontract with other entities
+or persons for the provision of public defense services.
+(c) The  commission may not enter into a contract or agreement that pays appointed counsel a
+flat fee per case.
+(7) The policies, procedures, standards and guidelines adopted by the commission must be made
+available in an accessible manner to the public on the commission’s website.
+(8) Policies, procedures, standards and guidelines  adopted by the commission supersede any
+conflicting rules, policies or procedures  of the Public Defender Committee, State Court Administra-
+tor, circuit courts, the Court of Appeals, the Supreme Court and the  Psychiatric Security Review
+Board related to the exercise of the commission’s administrative responsibilities under this  section
+and transferred duties, functions and powers as they occur.
+(9) The commission may accept gifts, grants or contributions from any source, whether public
+or private. However, the commission may not accept  a gift, grant or contribution if acceptance
+would create a conflict of interest. Moneys accepted under this  subsection shall be deposited in the
+Public Defense Services Account established by ORS  151.225 and expended for the purposes for
+which given or granted.
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 10
+[(10) With the approval of a majority of the  voting members of the commission, the commission may
+advocate for or against legislation before the Legislative Assembly or  policies or budgets being con-
+sidered by the Legislative Assembly. ]
+[(11)] (10) The commission shall request  that the Governor include in the Governor’s requested
+budget, for each fiscal period, at  a minimum, the amount of funds identified by the commission as
+being necessary to carry out the duties and activities of the commission.
+[(12)] (11) The commission may adopt rules pursuant to ORS chapter 183.
+SECTION 6.  ORS 151.216, as  amended by sections 78, 94 and 101, chapter 281, Oregon Laws
+2023, is amended to read:
+151.216. (1) The Oregon Public Defense Commission shall:
+(a) Establish and maintain a public defense system that  ensures the provision of public defense
+services consistent with the Oregon Constitution, the United States  Constitution and Oregon and
+national standards of justice.
+(b) Adopt policies for public defense providers that:
+(A) Ensure compensation, resources and caseloads are in accordance with  [national and regional
+best practices ] the requirements of the Oregon and United States Constitutions ;
+[(B) Ensure all public defense provider contracts provide for compensation that  is commensurate
+with the character of service performed; ]
+[(C)] (B)  Ensure funding  and resources to support required data collection and training re-
+quirements; and
+[(D)] (C) Recognize the need to consider overhead costs that account for  the cost of living and
+business cost differences in each county or jurisdiction, including but not limited to rent,  profes-
+sional membership dues, malpractice insurance and other insurance and other  reasonable and usual
+operating  costs.
+(c) Establish operational and contracting systems that allow for  oversight, ensure transparency
+and stakeholder engagement and promote equity, inclusion and culturally specific representation.
+(d) Review the caseload  policies described in paragraph (b)(A) of this subsection annually, and
+revise the policies as necessary and at least every four years.
+(e) Adopt a statewide workload plan, based  on the caseload policies described in paragraph
+(b)(A) of this subsection, that takes into account the needs of each county or  jurisdiction, practice
+structure and type of practice overseen by the commission.
+(f) Submit [ the budget of the commission to the Legislative Assembly after the budget  is submitted
+to the commission by the executive director and  approved by the voting members of the commission.
+The chairperson of the commission shall present the budget to the Legislative Assembly ] an agency
+request budget  to the Oregon Department of Administrative Services as described in ORS
+291.208.
+(g) Adopt  a compensation plan, classification system and affirmative action plan for the com-
+mission that are commensurate with other state agencies.
+(h) Adopt policies, procedures, standards and guidelines regarding:
+(A) The determination  of financial eligibility of persons entitled to be represented by appointed
+counsel at state expense;
+(B) The appointment of counsel, including the appointment of  counsel at state expense regard-
+less of financial eligibility in juvenile delinquency matters;
+(C) The fair compensation of counsel appointed to represent a person  financially eligible for
+appointed counsel at state expense;
+(D) Appointed counsel compensation disputes;
+(E) The  costs associated with the representation of a person by appointed counsel in the state
+courts that are required to be paid by the state; and
+(F) The types of fees and expenses subject to a preauthorization requirement.
+(i) Reimburse the State Court Administrator from funds  deposited in the Public Defense Services
+Account established by ORS 151.225 for the costs  of personnel and other costs associated with lo-
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 11
+cation of eligibility verification and screening personnel pursuant to  ORS 151.489 by the State Court
+Administrator.
+(j) Develop, adopt and oversee  the implementation, enforcement and modification of policies,
+procedures, minimum standards and guidelines to ensure that public defense providers are providing
+effective assistance of counsel consistently to all eligible persons in this  state as required by statute
+and the Oregon and United States Constitutions. The policies, procedures, standards and guidelines
+described in this paragraph apply to employees of the commission and  to any person or entity that
+contracts with the commission to provide public defense services in this state.
+(k) Set minimum standards by which appointed counsel are trained and supervised.
+(L) Establish a system, policies and procedures for the mandatory collection of  data concerning
+the operation of the commission and all public defense providers.
+(m) Enter into contracts and hire attorneys to bring  the delivery of public defense services into
+and maintain compliance with the minimum  policies, procedures, standards and guidelines described
+in this subsection. All contracts for  the provision of public defense services to which the commission
+is a party must include a requirement for collection by the  commission of data determined by the
+commission to be qualitatively necessary for any report required to be submitted to the  Legislative
+Assembly.
+(n) At least once every two years, report  to the interim committees of the Legislative Assembly
+related to the judiciary, in the manner  provided in ORS 192.245, and to the Governor and Chief
+Justice, concerning compliance metrics for the minimum standards described in this  subsection and
+recommendations for legislative changes.
+(o) Develop standard operating expectations for persons and entities providing public defense
+services.
+(p) In consultation with the Judicial Department, ensure the  existence of policies that create a
+standardized process for determining and verifying financial eligibility for appointed counsel under
+ORS 151.485.
+(q) Ensure access to systematic and  comprehensive training programs for attorneys for the
+purpose of meeting statewide standards set by the commission.
+(r) Enter into contracts or  interagency agreements with the Oregon Department of Administra-
+tive Services for the purpose  of supporting state public defense population forecasts and other re-
+lated forecasts.
+(s) Establish any other policies,  procedures, standards and guidelines for the conduct of the
+commission’s affairs and promulgate policies necessary to carry out all powers and  duties of the
+commission.
+(2) When establishing the minimum policies, procedures, standards and guidelines  described in
+this section, the commission shall adhere to the following principles:
+(a) Appointed  counsel shall be provided sufficient time and a space where attorney-client
+confidentiality is safeguarded for meetings with clients.
+(b) The workload of appointed counsel must be controlled to permit  effective representation.
+Economic  disincentives  or incentives that impair the ability of appointed counsel to provide effective
+assistance of counsel must be avoided. The commission may develop workload controls  to enhance
+appointed counsel’s ability to provide effective representation.
+(c) The ability, training and experience of appointed counsel must match the nature and com-
+plexity of the case to which the counsel is appointed.
+(d) The same appointed counsel shall continuously represent  a client throughout the pendency
+of the case and shall appear at every court appearance other than ministerial hearings.
+(e) The commission shall establish continuing legal education requirements for  public defense
+providers who are employed by or contract with the commission  that are specific to the subject
+matter area and practice of each type of court-appointed counsel.
+(f) The commission and public defense providers shall systematically  review appointed counsel
+for efficiency and for effective representation according to commission standards.
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 12
+(3) The commission shall be organized in a  manner for the effective delivery of public defense
+services as prescribed by the policies  and procedures created pursuant to statute to financially eli-
+gible persons and consistent with  the budgetary structure established for the commission by the
+Legislative Assembly.
+(4) The commission shall hire attorneys to serve  as appointed counsel, including at the trial
+level in Oregon circuit courts, and shall establish  a trial division within the commission consisting
+of attorneys employed by the commission who are trial-level public defense providers.
+(5)(a) The commission shall establish, supervise and maintain a  panel of qualified counsel who
+contract with the commission and are directly assigned to  cases. The commission shall develop a
+process for certification of attorneys  to the panel with periodic eligibility and case review. Panel
+attorneys are not employees of the commission.
+(b) The payment of panel counsel:
+(A) May not be lower than the hourly rate established by the commission.
+(B) Shall be adjusted to reflect the same percentage amount of any positive cost of living  ad-
+justment granted to employees in the management service in other executive branch agencies.
+(C) May not provide a financial conflict of interest  or economic incentives or disincentives that
+impair an attorney’s ability to provide effective representation.
+(6)(a) The commission may enter into  contracts for the provision of public defense services with
+nonprofit public defense organizations  and private law firms .
+(b) The commission may enter into contracts with entities  that subcontract with other
+entities or persons for the provision of public defense services.
+[(b)] (c)  The commission may not enter into a contract or agreement that pays appointed counsel
+a flat fee per case.
+(7) The policies, procedures, standards and guidelines adopted by the commission must be made
+available in an accessible manner to the public on the commission’s website.
+(8) Policies, procedures, standards and guidelines  adopted by the commission supersede any
+conflicting rules, policies or procedures  of the Public Defender Committee, State Court Administra-
+tor, circuit courts, the Court of Appeals, the Supreme Court and the  Psychiatric Security Review
+Board related to the exercise of the commission’s administrative responsibilities under this  section
+and transferred duties, functions and powers as they occur.
+(9) The commission may accept gifts, grants or contributions from any source, whether public
+or private. However, the commission may not accept  a gift, grant or contribution if acceptance
+would create a conflict of interest. Moneys accepted under this  subsection shall be deposited in the
+Public Defense Services Account established by ORS  151.225 and expended for the purposes for
+which given or granted.
+[(10) With the approval of a majority of the  voting members of the commission, the commission may
+advocate for or against legislation before the Legislative Assembly or  policies or budgets being con-
+sidered by the Legislative Assembly. ]
+[(11)] (10) The commission shall request that the Governor  include in the Governor’s requested
+budget, for each fiscal period, at a minimum, the amount of funds  identified by the commission as
+being necessary to carry out the duties and activities of the commission.
+[(12)] (11) The commission may adopt rules pursuant to ORS chapter 183.
+SECTION 7.
+ ORS 151.219 is amended to read:
+151.219. (1) The executive director of the Oregon Public Defense Commission shall:
+(a) Designate a deputy director of the commission who serves at the pleasure of the  executive
+director.
+(b) Hire necessary staff for the commission.
+(c) Recommend to  the commission how to establish and maintain, in a cost-effective manner, the
+delivery of legal services to persons entitled to, and, where applicable, financially eligible  for, ap-
+pointed counsel at state expense under Oregon statutes, the  Oregon Constitution, the United States
+Constitution and consistent with Oregon and national standards of justice.
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 13
+(d) Implement and ensure compliance  with contracts, policies, procedures, standards and guide-
+lines adopted by the commission or required by statute.
+(e) Prepare and submit to the commission  for its approval the biennial budget of the commission.
+(f) Negotiate contracts, as appropriate, for providing legal services  to persons eligible for ap-
+pointed counsel at state expense.
+(g) Employ personnel or contract for services  as necessary to carry out the responsibilities of
+the executive director and the commission.
+(h) Supervise the personnel, operation and activities of the commission.
+(i) Provide services, facilities and materials necessary for the performance of the duties,  func-
+tions and powers of the commission.
+(j) Pay the expenses of the commission.
+(k) Prepare and submit  to the members of the commission an annual report of the activities of
+the commission.
+(L) Provide  for legal representation, advice and consultation for the commission, its members,
+the executive director and staff of the commission  who require such services or who are named as
+defendants in lawsuits arising from their duties, functions and responsibilities. If  requested by the
+executive director, the  Attorney General may also provide for legal representation, advice and
+consultation for the commission, its  members, the executive director and staff of the commission in
+litigation.
+(m) Maintain an accurate and current list of  all attorneys providing public defense ser-
+vices in this state under the  supervision, employment or contractual authority of the com-
+mission, and the qualifications for each attorney.
+(2) The executive director may:
+(a) Designate persons as representatives of the executive director for the purposes of  determin-
+ing and paying  bills submitted to the commission and determining preauthorization for incurring fees
+and expenses under ORS 135.055.
+(b) Establish an external advisory group to assist in developing the standard operating  expec-
+tations for persons and entities providing public defense services.
+SECTION 8.
+ ORS 151.219, as amended by section  95, chapter 281, Oregon Laws 2023, is
+amended to read:
+151.219. (1) The executive director of the Oregon Public Defense Commission shall:
+(a) Designate  a deputy director of the commission who serves at the pleasure of the executive
+director.
+(b) Hire necessary staff for the commission.
+(c) Recommend to  the commission how to establish and maintain, in a cost-effective manner, the
+delivery of legal  services to persons entitled to, and, where applicable, financially eligible for, ap-
+pointed counsel at state expense under Oregon statutes, the  Oregon Constitution, the United States
+Constitution and consistent with Oregon and national standards of justice.
+(d) Implement and ensure compliance with contracts, policies,  procedures, standards and guide-
+lines adopted by the commission or required by statute.
+(e) Prepare and submit to the commission  for its approval the biennial budget of the commission.
+(f) Negotiate contracts, as appropriate, for  providing legal services to persons eligible for ap-
+pointed counsel at state expense in accordance with ORS 151.216 (5) and (6).
+(g) Employ personnel or contract for services as necessary  to carry out the responsibilities of
+the executive director and the commission.
+(h) Supervise the personnel, operation and activities of the commission.
+(i) Provide  services, facilities and materials necessary for the performance of the duties, func-
+tions and powers of the commission.
+(j) Pay the expenses of the commission.
+(k) Prepare and submit to the members of the commission an annual report of  the activities of
+the commission.
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 14
+(L) Provide for legal representation, advice and consultation for the commission, its  members,
+the executive director and staff of the commission who require  such services or who are named as
+defendants in lawsuits arising  from their duties, functions and responsibilities. If requested by the
+executive director, the Attorney General may also provide for legal representation,  advice and
+consultation for the commission, its  members, the executive director and staff of the commission in
+litigation.
+(m) Maintain an accurate and current list of  all attorneys providing public defense ser-
+vices in this state under the  supervision, employment or contractual authority of the com-
+mission, and the qualifications for each attorney.
+(2) The executive director may:
+(a) Designate persons as representatives of the executive director for the purposes of  determin-
+ing and paying  bills submitted to the commission and determining preauthorization for incurring fees
+and expenses under ORS 135.055.
+(b) Establish an external advisory group to assist in developing the standard operating  expec-
+tations for persons and entities providing public defense services.
+SECTION 9.
+Section 10 of this 2025 Act is added to and made  a part of ORS 151.211 to
+151.221.
+SECTION 10. (1) The Oregon Public Defense Commission may enter into a contract  with
+an entity that  subcontracts with other entities or persons for the provision of public defense
+services only if the  entity operates in accordance with standards and requirements estab-
+lished by the commission either through  adopted policies or contract language approved by
+the Department of Justice.
+(2) The standards and requirements described in subsection (1) of this  section must in-
+clude, but are not limited to:
+(a) A requirement that the entity  have a designated administrator with authority to
+manage case distribution, address concerns and complaints  and serve as the point contact
+for external matters;
+(b) A requirement that the entity have defined policies concerning membership structure,
+including policies on admission criteria,  participation expectations and decision-making au-
+thority;
+(c) A  requirement that the entity have internal policies and procedures for conflict re-
+solution, ethical compliance  and the removal of members due to misconduct or nonpartic-
+ipation;
+(d) A requirement that the entity comply with commission oversight,  reporting require-
+ments and other applicable policies and procedures of the commission; and
+(e) A requirement that the entity  hold regular meetings among its members or governing
+body, as appropriate for its size and structure.
+(3) The standards and requirements  described in subsection (1) of this section for an
+entity with five or more attorney members  must additionally include a requirement that the
+entity have a board of directors or a steering committee with  responsibilities that include
+but are not limited to the following:
+(a) The approval of entity policies, budgets and initiatives;
+(b) Ensuring attorney performance and compliance with legal and financial obligations;
+(c) Oversight of the administrator; and
+(d) Resolving disputes among members of the entity.
+SECTION 11.
+Section 10 of this 2025 Act becomes operative on July 1, 2027.
+SECTION 12. This 2025 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency is declared to exist, and  this 2025 Act takes effect
+on its passage.
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 15
+Passed by House April 22, 2025
+Repassed by House June 26, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate June 11, 2025
+Repassed by Senate June 26, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 2614 (HB 2614-BCCA) Page 16
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 135.055, ORS 151.211, ORS 151.213, ORS 151.216, ORS 151.219, ORS 151.225, ORS 151.485, ORS 151.489, ORS 171.562, ORS 171.565, ORS 181A.355, ORS 192.245, ORS 291.208, ORS 292.495
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `345d08b1d492b62d72fa8a2b095ac814826a036da18792bcefae3a312c9ba969` (snapshot `_meta/snapshots/measure-2025r1-hb2614-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2614/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `48a1f3998defe2958b70cf5ed8ddc427c861077bf84e5bed03ee6fa38a30295f` (snapshot `_meta/snapshots/measure-2025r1-hb2614-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2614/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2614> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,102 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 497
+Sponsored by Senator SMITH DB (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells a city or county that it  may not adopt a standard from the Reach Code or any
+other code that sets tighter standards than what the state  agency that puts out the building code
+says is needed. Takes effect 91 days after the session ends. (Flesch Readability Score: 69.4).
+Prohibits a municipality that administers and enforces a building  inspection program from
+adopting construction standards or  methods from the Reach Code, or a similar or related code of
+standards and methods, that exceed or are more stringent than statewide standards and  methods
+that the Director of Department of Consumer and Business Services adopts and administers.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to  construction standards for energy efficiency; amending ORS 455.500; and prescribing an
+effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 455.500 is amended to read:
+455.500. (1) The Director of the Department of Consumer and  Business Services, in consultation
+with the appropriate advisory boards, shall adopt, amend and  administer a code separate from the
+state building code, to be known as the Reach Code. The director shall design the code to increase
+energy efficiency in buildings that are newly constructed, reconstructed, altered or repaired.
+(2) The Reach Code shall be a set  of statewide optional construction standards and methods that
+are economically and technically feasible, including any published generally accepted codes  and
+standards newly developed for construction  or for the installation of products, equipment and de-
+vices. When adopting or amending the code, the director, in consultation  with the appropriate ad-
+visory boards, shall:
+(a) Review  generally accepted codes and standards that achieve greater energy efficiency than
+the energy efficiency required by the state building code; and
+(b) Review technical components of  generally accepted construction documents as the director
+considers necessary to  address federal, state and local financial incentives and advances in con-
+struction methods, standards and technologies.
+(3) When amending the state building  code under ORS 455.030, the director shall consider
+whether any of the standards and methods contained in the Reach Code should be  removed from the
+Reach Code and adopted in the state building code.
+(4) The inclusion of a standard or method for construction or for the installation of  products,
+equipment or devices in the Reach Code:
+(a) Does not alter  any licensing or certification requirements under ORS 446.003 to 446.200,
+446.225 to 446.285, 447.010 to 447.156, 460.005 to 460.175, 479.510 to 479.945 or 480.510 to 480.670  or
+this chapter or ORS chapter 693 or Department of Consumer and Business Services rules;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2661
+SB 497
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+(b) Exempts products, equipment and devices from product  certification requirements under ORS
+447.010 to 447.156 and 479.510 to 479.945 and the state building code; and
+(c) Requires that a municipality administering and enforcing a building inspection program un-
+der ORS 455.148 or  455.150 must recognize and accept the standard, method, installation, product,
+equipment or device if a person applies to construct,  reconstruct, alter or repair a building in con-
+formance with the Reach Code.
+(5) A municipality that administers and  enforces a building inspection program under
+ORS 455.148 or 455.150 may not adopt construction standards or  methods from the Reach
+Code, or a similar or related code of standards and methods, that exceed  or are more strin-
+gent than the standards and methods the director adopts and  administers under this section.
+SECTION 2.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

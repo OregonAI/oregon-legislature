@@ -1,0 +1,116 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 747
+Sponsored by Senator PHAM K; Senators GOLDEN, MANNING JR,  PATTERSON, TAYLOR, Representatives
+GAMBA, NERON, RUIZ, VALDERRAMA (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells certain persons to report the use  of fertilizer on farmland. The Act allows
+agencies to take certain actions about the reports. (Flesch Readability Score: 60.7).
+Requires persons with ownership interests in at least 200 acres of irrigated  land used for agri-
+culture to annually report information about fertilizer application  to the State Department of Agri-
+culture. Authorizes the department and the Department of Environmental  Quality to take certain
+actions related to the information. Directs the State Department of  Agriculture to report on the
+information to committees  or interim committees of the Legislative Assembly related to agriculture
+on or before September 15 of each odd-numbered year.
+Authorizes the imposition of civil penalties for a violation.
+A BILL FOR AN ACT
+Relating to the application of fertilizer; creating new provisions; and amending ORS 561.995.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section, “fertilizer” has the meaning given that  term in
+ORS 633.311.
+(2) The State Department of Agriculture shall establish a  process and system for re-
+porting the application of fertilizer  to irrigated land that is used for agriculture, pursuant
+to subsection (3) of this section.
+(3) On or before March 15 of each  year, a person that has an ownership interest in at
+least 200 acres of land that was irrigated  and used for agriculture in the previous calendar
+year shall report to the department:
+(a) The rate of fertilizer applied to each field of the land, measured in pounds per acre.
+(b) The type of fertilizer applied to each field of the land.
+(c) The crop grown in each field of the land.
+(4) The department may use information reported under this section:
+(a) To identify persons who are overapplying fertilizer in a manner  that can lead to
+runoff and the contamination of surface water or leaching  and the contamination of ground
+water.
+(b) To take steps to prevent the persons from overapplying  fertilizer in the future, in-
+cluding steps to provide targeted education or technical assistance.
+(c) As part of an enforcement process under any law, rule or order that  the department
+may lawfully enforce.
+(5) The Department of Environmental Quality may use information  reported under this
+section to identify opportunities to reduce air pollution  from the agricultural sector through
+targeted education, technical assistance or other measures.
+(6) On or before  September 15 of each odd-numbered year, the State Department of Ag-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1782
+SB 747
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+riculture shall  report, in the manner provided by ORS 192.245, to committees or interim
+committees of the Legislative Assembly related to agriculture on:
+(a) Information reported to  the department under subsection (3) of this section since the
+department’s last report under this subsection.
+(b) Any department activities  described in subsection (4) of this section since the
+department’s last report under this subsection.
+SECTION 2.
+ ORS 561.995 is amended to read:
+561.995. (1) In addition to any fine  under ORS 561.990 or other penalty, a person who violates
+section 1 of this 2025  Act or  an order, rule or regulation described under ORS 561.590 is subject
+to a civil penalty  imposed by the State Department of Agriculture. The civil penalty shall not exceed
+$10,000.
+(2) Every violation of an order, rule or  regulation described under ORS 561.590 is a separate
+offense subject to a separate civil penalty.
+(3) The department shall  develop one or more schedules setting the amounts of civil penalties
+that may be imposed for particular types of violations.
+(4) The imposition of a civil penalty under this section is subject to ORS 183.745.
+(5) The State Treasurer shall  deposit all moneys from penalties recovered under this section into
+the Department of Agriculture Account.  Moneys deposited under this subsection are continuously
+appropriated to the department for the administration and enforcement of quarantine laws.
+[2]

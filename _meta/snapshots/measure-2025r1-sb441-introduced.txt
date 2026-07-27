@@ -1,0 +1,196 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 441
+Sponsored by Senator PATTERSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act takes  away two steps a pharmacist has to do when substituting some drugs.
+(Flesch Readability Score: 73.1).
+Removes the requirements for notification of substitution and records retention for prescribed
+biological products.
+A BILL FOR AN ACT
+Relating to biological products; amending ORS 689.522.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 689.522 is amended to read:
+689.522. (1) A pharmacy or  pharmacist filling a prescription order for a biological product may
+not substitute a biological product for the prescribed biological product unless:
+(a) The substitute biological product has been determined by the United States  Food and Drug
+Administration to be interchangeable with the prescribed biological product;  and
+(b) The prescribing practitioner has not designated on the prescription  that substitution is
+prohibited[ ;]
+[(c) The patient for whom the biological product is prescribed is informed of  the substitution in a
+manner reasonable under the circumstances; and ]
+[(d) The pharmacy or pharmacist retains a record of the substitution for a  period of not less than
+three years ].
+(2) Not later than five business  days after the dispensing of a biological product, the pharmacy
+or pharmacist, or the pharmacist’s designee,  shall communicate the specific biological product dis-
+pensed to the patient, including the name and  manufacturer of the biological product, by making an
+entry into an electronic system  that the prescribing practitioner can access electronically and that
+is:
+(a) An interoperable electronic medical records system;
+(b) An electronic prescribing technology;
+(c) A pharmacy benefit management system; or
+(d) A pharmacy record.
+(3) If the pharmacy or pharmacist, or  the pharmacist’s designee, does not have access to an
+electronic system described in subsection (2)  of this section, the pharmacy or pharmacist, or the
+pharmacist’s designee, shall communicate not later  than five business days to the prescribing prac-
+titioner the specific biological product dispensed to the patient,  including the name and manufac-
+turer of the biological product. The communication may be by facsimile, electronic mail, telephone
+or another method.
+(4) If the biological product is  dispensed to a patient in a clinic, community-based care facility,
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3009
+SB 441
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+hospital or long term care facility, an entry made to the patient’s medical record of  the specific bi-
+ological product dispensed to the patient, including  the name and manufacturer of the biological
+product, satisfies the communication requirements of subsection (2) of this section.
+(5) Notwithstanding subsections (2) and (3) of this section, the pharmacy or pharmacist,  or the
+pharmacist’s designee, is not required to communicate to the  prescribing practitioner the specific
+biological product dispensed to the patient if:
+(a) The United States Food and Drug Administration has not approved an  interchangeable bi-
+ological product for the prescribed biological product;
+(b) The  pharmacy or pharmacist is refilling a prescription and the pharmacy or pharmacist is
+dispensing the same biological product that was dispensed the last time the pharmacy  or pharmacist
+filled or refilled the patient’s prescription; or
+(c) The pharmacy or pharmacist is filling a prescription for a vaccine.
+(6) The entries described in subsections (2) and (4) of this section or the  communication de-
+scribed in subsection (3) of this section provides notice to  the prescribing provider of the dispensa-
+tion of a biological product to a patient.
+(7) The State Board of  Pharmacy shall, on a website maintained by the board, maintain a link
+to the current list, if available, of biological products determined by the United States Food and
+Drug Administration to be interchangeable.
+(8)(a) For purposes of this section, the board shall adopt by rule definitions for  the terms “bi-
+ological product” and “interchangeable.”
+(b) The rule defining the term “biological product” must be consistent with 42 U.S.C. 262(i)(1).
+(c) The rule defining the term “interchangeable” must:
+(A) For biological products licensed under the Public Health Service Act, define the  biological
+products that may be substituted for other biological products as having been determined by the
+United States Food and Drug Administration as meeting the standards in 42 U.S.C. 262(k)(4); and
+(B) For biological products approved by the United States Food  and Drug Administration under
+the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 301 et  seq., define the biological products that
+may be substituted for  other biological products as having been determined by the United States
+Food and Drug Administration as therapeutically equivalent as set forth in  the latest edition or
+supplement of the Approved Drug Products with Therapeutic Equivalence Evaluations.
+SECTION 2.
+ ORS 689.522, as amended by section 6, chapter 45, Oregon Laws 2022, is  amended
+to read:
+689.522. (1) A pharmacy or  pharmacist filling a prescription order for a biological product may
+not substitute a biological product for the prescribed biological product unless:
+(a) The substitute biological product has been determined by the United States  Food and Drug
+Administration to be interchangeable with the prescribed biological product;  and
+(b) The prescribing practitioner has not designated on the prescription  that substitution is
+prohibited[ ;]
+[(c) The patient for whom the biological product is prescribed is informed of  the substitution in a
+manner reasonable under the circumstances; and ]
+[(d) The pharmacy or pharmacist retains a record of the substitution for a  period of not less than
+three years ].
+(2) The State Board of  Pharmacy shall, on a website maintained by the board, maintain a link
+to the current list, if available, of biological products determined by the United States Food and
+Drug Administration to be interchangeable.
+[2]
+SB 441
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+(3)(a) For purposes of this section, the board shall adopt by rule definitions for  the terms “bi-
+ological product” and “interchangeable.”
+(b) The rule defining the term “biological product” must be consistent with 42 U.S.C. 262(i)(1).
+(c) The rule defining the term “interchangeable” must:
+(A) For  biological products licensed under the Public Health Service Act, define the biological
+products that may be substituted for other biological products as having been determined by the
+United States Food and Drug Administration as meeting the standards in 42 U.S.C. 262(k)(4); and
+(B) For biological products approved by the United States Food  and Drug Administration under
+the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 301 et  seq., define the biological products that
+may be substituted for other biological products as having been determined by  the United States
+Food and Drug Administration as  therapeutically equivalent as set forth in the latest edition or
+supplement of the Approved Drug Products with Therapeutic Equivalence Evaluations.
+[3]

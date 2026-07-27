@@ -1,0 +1,180 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1162
+Sponsored by Senators  PATTERSON, GELSER BLOUIN, MANNING JR; Senator WOODS, Representative
+ANDERSEN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that a  new or expanding hospice program must obtain a certificate of need.
+(Flesch Readability Score: 63.6).
+Requires an individual or entity to obtain a certificate of need from the  Oregon Health Au-
+thority before the individual or entity may establish a new hospice program or expand or  relocate
+a hospice program into a new service area.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to certificates of need  for hospice programs; creating new provisions; amending ORS
+443.864 and 443.869; and declaring an emergency.
+Whereas Oregonians have an interest in ensuring the equitable  distribution, quality and finan-
+cial sustainability of hospice services across this state; and
+Whereas requiring  a hospice program to obtain a certificate of need before establishing a new
+program or expanding or relocating an  existing program would limit new hospice programs to those
+that demonstrate a true community need, reduce  the risk of fraud and ensure ethical, high-quality
+end-of-life care; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this  2025 Act is added to and made a part of ORS 443.850 to
+443.869.
+SECTION 2. (1) As used in this section, “service area” means a  geographic area that is
+within a 60-mile radius from the physical location of a hospice program.
+(2) Except as  provided in subsection (9) of this section, an individual or entity must ob-
+tain a certificate  of need from the Oregon Health Authority before the individual or entity
+may establish a new hospice program or  expand or relocate a hospice program into a new
+service area.
+(3) The authority shall prescribe the form  and manner for applying for a certificate of
+need under this section. An application must include:
+(a) A description of the proposed project;
+(b) Evidence of the need for hospice services in the proposed service area;
+(c) Financial projections and sustainability plans; and
+(d) An analysis of the impact on existing hospice providers.
+(4) An applicant for a  certificate of need under this section shall pay a fee as prescribed
+by the authority. Fees prescribed under this section may  not exceed the cost of administer-
+ing this section.
+(5) The authority shall evaluate applications for a  certificate of need under this section
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3944
+SB 1162
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+based on the following criteria:
+(a) Community need for additional hospice services;
+(b) Accessibility of hospice services for underserved populations;
+(c) Cost-effectiveness and financial viability; and
+(d) Quality standards and compliance with state and federal laws and regulations.
+(6) Within 60 days after receiving  a complete application for a certificate of need under
+this section, the authority shall hold a public hearing to gather input from stakeholders.
+(7)(a) Within  90 days after the public hearing, the authority shall issue a proposed deci-
+sion.
+(b) An applicant or affected  person is entitled to a contested case hearing in accordance
+with ORS chapter 183 to challenge the proposed decision. Following  a contested case hearing,
+or if no applicant or affected person requests a contested case  hearing within a period of
+time prescribed by the authority by rule, the authority shall  issue a final order granting,
+with or without limitations, or denying the certificate of need.
+(8) A certificate of need under this section is not transferable.
+(9) A hospice program that seeks to repair or renovate  existing facilities is not required
+to obtain a certificate of need under this section.
+(10) The authority shall  adopt rules necessary to carry out the provisions of this section.
+SECTION 3.
+ ORS 443.864 is amended to read:
+443.864. The Oregon Health Authority may suspend, revoke  or refuse to renew the license of a
+hospice program for failure to comply with ORS 443.860  or section 2 of this 2025 Act  or with rules
+adopted pursuant to ORS 443.860.
+SECTION 4.  ORS 443.869 is amended to read:
+443.869. (1)(a) In addition to any other liability or penalty provided by law, the Director of  the
+Oregon Health Authority may impose a civil penalty of  $1,000 per day, up to $10,000 in any 30-day
+period, for any of the following:
+[(1)] (A) Violation of any of the terms or conditions of a license issued under ORS  443.860 to a
+hospice  program.
+[(2)] (B) Violation of any rule or general order of the  Oregon Health Authority that pertains to
+a hospice program.
+[(3)] (C) Violation of any final order of the director that pertains specifically to a  hospice pro-
+gram owned or operated by the person incurring the penalty.
+[(4)] (D) Violation of ORS 443.860 or of rules adopted under ORS 443.860.
+(b) The director may  impose a civil penalty of up to $50,000 for operating a hospice pro-
+gram without a valid certificate of need, in violation of section 2 of this 2025 Act.
+[(5)] (2) Civil penalties under this section shall  be imposed in the manner provided by ORS
+183.745.
+[(6)] (3) All penalties recovered under this section shall be paid into the  State Treasury and
+credited to the General Fund and are available for general governmental expenses.
+SECTION 5. (1) Section 2 of this 2025 Act  and the amendments to ORS 443.864 and 443.869
+by sections 3 and 4 of this 2025 Act become operative on January 1, 2026.
+(2) The Oregon Health Authority may take any  action before the operative date specified
+in subsection (1) of this section that is necessary  to enable the authority to exercise, on and
+after the operative date specified in  subsection (1) of this section, all of the duties, functions
+and powers conferred on the authority  by section 2 of this 2025 Act and the amendments to
+[2]
+SB 1162
+1
+2
+3
+4
+5
+ORS 443.864 and 443.869 by sections 3 and 4 of this 2025 Act.
+SECTION 6.
+This 2025 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+on its passage.
+[3]

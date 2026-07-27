@@ -1,0 +1,85 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1009
+Sponsored by Senator HAYDEN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The  Act defines the term “victim” for purposes of the release of sex offender data.
+(Flesch Readability Score: 61.8).
+Defines “victim” for purposes of the release of sex offender information by the  Department of
+State Police.
+A BILL FOR AN ACT
+Relating to sex offenders; amending ORS 163A.230.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 163A.230 is amended to read:
+163A.230. (1)(a) When information about a person is first entered into the Law Enforcement Data
+System under ORS 163A.035, the person will be assigned a registry identification number.
+(b) A victim shall be issued a victim identification number and shall be given the registry  iden-
+tification number of the person who committed the crime against the victim:
+(A) At any time, upon request by the victim; and
+(B) Upon verification of the identification of the victim.
+(2) The Department of State Police shall establish a  toll-free telephone number to provide vic-
+tims with updates on the  prison status, release information, parole status and any other information
+authorized for release under ORS 163A.005 to 163A.235  regarding the person who committed the
+crime against the victim. The telephone line shall be operational within the state during normal
+working hours.
+(3) Access of the victim to the telephone line shall be  revoked if the victim makes public, or
+otherwise misuses, information received.
+(4) When a victim receives notification under ORS 144.750 of upcoming parole  release hearings,
+or at any other time that the victim is notified concerning the offender, the victim shall be provided
+a notice of rights under this section and information about the toll-free telephone number.
+(5) As used in this section, “victim” means:
+(a) Any person determined by the prosecuting attorney, the court or the department to
+have suffered direct psychological or physical harm as a  result of the sex crime that resulted
+in a person having to report as a sex offender;
+(b) Any person determined by the department to  have suffered direct psychological or
+physical harm as a result of some other crime  connected to the sex crime that resulted in
+a person having to report as a sex offender, or connected to the sentence for that sex  crime,
+including but not limited to crimes connected through plea negotiations,  crimes admitted at
+trial to prove an element of the offense or crimes  used as a basis for a departure sentence,
+a merged conviction or a concurrent or consecutive sentence; or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4577
+SB 1009
+1
+2
+3
+4
+(c) Any person against whom the person who must report as a sex offender has admitted
+to committing conduct constituting a sex crime,  if the conduct was not the subject of a
+criminal prosecution due to the time limitations described in ORS 131.125.
+[2]

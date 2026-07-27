@@ -1,0 +1,347 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1073
+Sponsored by Senator NASH
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  creates a program to train people to provide certain home health services to
+their family members. (Flesch Readability Score: 66.3).
+Establishes the Family Home Health Aide Program in the Oregon Health Authority  for the
+purpose of certifying  family caregivers as family home health aides to provide qualified home health
+services to eligible  relatives in the state medical assistance program. Requires the authority to re-
+port on the outcomes of the program every two years.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to family home health aides; and prescribing an effective date.
+Whereas the home health workforce is facing a significant shortage of direct care  workers, in-
+cluding home health aides, personal care aides and private duty nurses; and
+Whereas in addition to a shortage  of direct care workers, the demand for private duty nursing
+services remains high  due to an increasing desire for individuals to receive care in their community
+rather than in an institutional setting; and
+Whereas many families are turning to family  caregivers to fill the gap in care resulting from a
+shortage of available direct care workers and long waiting lists for care; and
+Whereas private duty nursing services require caregivers with proper  education, licensing and
+credentials to allow for the highest standard of care in the home; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(b) “Eligible relative” means an individual of any age who:
+(A) Has a physical, mental  or cognitive impairment that prevents the individual from
+safely living independently; and
+(B) Is eligible to receive skilled nursing services under the  state medical assistance pro-
+gram.
+(c) “Family caregiver” means a parent, guardian  or family member related by
+consanguinity to an eligible relative who:
+(A) Is able, based  on physical proximity, to provide appropriate and consistent care to the
+eligible relative; and
+(B) Has the necessary physical and mental capacity to  assist the eligible relative with
+qualified home health services.
+(d) “Family home health aide” means a family caregiver who has been certified under this
+section to provide qualified home health services to an eligible relative.
+(e) “Home care provider” means:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4298
+SB 1073
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) A home health agency, as defined in ORS 443.014; or
+(B) An entity that provides private duty nursing services.
+(f) “Medical assistance” has the meaning given that term in ORS 414.025.
+(g) “Qualified home health services” means the  home health or private duty nursing
+services that a family home health aide  certified under this section is authorized to provide
+to an eligible relative.
+(2) The Family Home Health Aide Program is established in the Oregon Health Authority
+for the  purpose of certifying a family caregiver as a family home health aide to provide
+qualified home health services to an eligible relative.
+(3)(a) The authority, in consultation with the Oregon State Board of Nursing  and relative
+stakeholders, shall develop a training course, including hands-on experience, for a family
+caregiver to become certified as a family home health aide. The authority  shall ensure that
+a family caregiver that participates in the training course is trained in  skills that are rele-
+vant to the eligible relative’s plan of care and clinical acuity.  The training course may in-
+clude:
+(A) Patient care transfers;
+(B) Assistance with activities of daily living;
+(C) Normal range of motion and position;
+(D) Adequate nutrition and fluid intake;
+(E) Basic infection prevention and control procedures;
+(F) Observation and reporting of a patient’s vital signs, blood pressure  and general pa-
+tient status;
+(G) Urinary catheterization and ostomy care;
+(H) Ambulation;
+(I) Wound care;
+(J) Enteral care;
+(K) Medication administration; and
+(L) Any additional tasks, as determined by the authority,  in consultation with the board.
+(b) The  authority shall provide, or may designate and reimburse selected home care
+providers to provide, the training course developed under this subsection.
+(4) The authority, in consultation with the board, shall certify a family  caregiver as a
+family home health aide if the family caregiver:
+(a) Is at least 18 years of age;
+(b) Has successfully completed the training developed under this section; and
+(c) Has successfully fulfilled any additional requirements, including education or compe-
+tency requirements, established by the authority.
+(5) Notwithstanding any  other provision of law, a home care provider may employ a
+family home health aide to provide qualified home health services to an eligible relative.  A
+home care provider that employs a family home health aide shall:
+(a) Ensure that the family home health aide receives, at least every  90 days, appropriate
+clinical supervision based on the clinical acuity of the eligible relative, which may be deter-
+mined using the acuity tool described in subsection (9) of this section.
+(b) Recertify an eligible relative’s plan of care at least every 180 days.
+(6) Subject to the limitations described  in subsection (7) of this section, a family home
+health aide is authorized to provide the following qualified home health services:
+[2]
+SB 1073
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Assistance with activities of daily living, including personal care;
+(b) Assistance with mobility;
+(c) Assistance with nutrition and hydration;
+(d) Assistance with toileting and elimination;
+(e) Assistance with using assistive devices;
+(f) Assistance with safety and cleanliness;
+(g) Reporting abnormal signs and symptoms;
+(h) Cardiopulmonary resuscitation and emergency care;
+(i) Infection control;
+(j) Assistance with hygiene, grooming, skin care and pressure sore prevention;
+(k) Wound care;
+(L) Assistance with portable oxygen use and safety;
+(m) Enteral care and therapy; and
+(n) Other services appropriate for low-acuity eligible  relatives, as determined by the
+board.
+(7) A family home health aide that provides  qualified home health services to an eligible
+relative:
+(a) Must be employed by a home care provider;
+(b) Must provide qualified home health services in accordance with the eligible  relative’s
+plan of care; and
+(c) May  not provide tracheostomy care or ventilation therapy or care, regardless of the
+clinical acuity of the eligible relative, unless the family home health aide is a  nurse licensed
+under ORS  chapter 678 or is otherwise licensed, certified or authorized by the laws of this
+state to provide such therapy or care.
+(8) To ensure continuity of care, the authority shall ensure that:
+(a) An eligible relative who  receives qualified home health services from a family home
+health aide remains enrolled in any other  home health or private duty nursing services for
+which the eligible relative is eligible;
+(b) An eligible relative with a higher clinical acuity, including an eligible relative  who
+requires tracheostomy care or ventilation therapy or care,  has timely access to any neces-
+sary home health or private duty nursing services; and
+(c) A home care provider  that employs a family home health aide to provide qualified
+home health services to an eligible relative is given preference to  provide any other neces-
+sary home health or private duty nursing  services to the eligible relative, to the extent
+practicable.
+(9)(a) The authority may, in collaboration with home care providers that provide  services
+to medical assistance recipients, medical assistance recipients, patient advocacy groups  and
+other relevant stakeholders, develop a  clinical acuity tool to assist in determining the care
+needs of medically fragile individuals to ensure that  those individuals have access to high-
+quality, clinically appropriate home health services, private  duty nursing services and quali-
+fied home health services.
+(b) If the authority develops a clinical acuity tool under this subsection, the authority
+may use the clinical  acuity tool to conduct an independent assessment of whether an eligible
+relative who is receiving qualified home  health services from a family home health aide is
+receiving services that  are clinically appropriate and consistent with the eligible relative’s
+[3]
+SB 1073
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+plan of care.
+(10) The authority shall establish a program to provide respite care to family home health
+aides, private duty nurses and home health aides. To  ensure continuity of care, the authority
+shall ensure that any respite care is provided to a family home health aide,  private duty
+nurse or  home health aide by the home care provider that employes the family home health
+aide, private duty nurse or home health aide.
+(11)(a) The authority and a coordinated care organization  shall provide reimbursement
+in the state medical assistance program for up to 40 hours per week of  qualified home health
+services provided by a family home health aide. The  authority shall establish fee-for-service
+reimbursement rates  for qualified home health services that take into account any clinical
+supervision that a home care provider must provide to a family home health aide.
+(b) A coordinated care organization shall reimburse a home care provider  for qualified
+home health services provided by a  family home health aide at the rates established in par-
+agraph (a) of this subsection.
+(c) The authority shall require a family home health aide  to submit claims for re-
+imbursement in accordance  with the electronic visit verification requirements for providers
+of services.
+(12) At least once every two  years, the authority shall submit a report, in the manner
+provided in ORS 192.245, to the Legislative Assembly and make the report available  on the
+authority’s website. The report shall include:
+(a) The number of hospitalizations and emergency department visits of eligible relatives
+receiving qualified home health services through the program established under this section;
+(b) For each eligible relative receiving qualified home health services under this section:
+(A) The number of hours of private duty nursing services that the eligible  relative has
+received and analysis of whether that number has increased  or decreased since the eligible
+relative began receiving qualified home health services under this section; and
+(B) The number of hours of qualified home health services that the eligible relative  has
+received;
+(c) The number of overpayments made  to home care providers that employ family home
+health aides and any other evidence of fraud,  waste or abuse in the program established
+under this section; and
+(d) The impact of the program established under this section  on access to home health
+and private duty nursing services for medical assistance recipients.
+(13) The authority, in consultation with the  board, may adopt rules necessary to imple-
+ment this section.
+SECTION 2.
+(1) Section 1 of this 2025 Act becomes operative on January 1, 2026.
+(2) The Oregon Health Authority may take any  action before the operative date specified
+in subsection (1) of this section that is necessary  to enable the authority to exercise, on and
+after the operative date specified in  subsection (1) of this section, all of the duties, functions
+and powers conferred on the authority by section 1 of this 2025 Act.
+SECTION 3. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[4]

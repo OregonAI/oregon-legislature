@@ -1,0 +1,1140 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3134
+title: 'HB 3134 (2025R1): Requires additional reporting about prior authorization to the Department of
+  Consumer and Business Services from insurers offering a health benefit plan and tells the department
+  to make this data publicly available.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3134
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3134/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: c62a2d7eff1607ce500c9f0d3eeb7dcb48b7605d6da30728f94b534df29f5afa
+snapshot_id: measure-2025r1-hb3134-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 293.525
+  - ORS 705.137
+  - ORS 705.138
+  - ORS 705.139
+  - ORS 731.004
+  - ORS 731.098
+  - ORS 731.485
+  - ORS 731.488
+  - ORS 731.504
+  - ORS 731.508
+  - ORS 731.509
+  - ORS 731.510
+  - ORS 731.511
+  - ORS 731.512
+  - ORS 731.574
+  - ORS 732.215
+  - ORS 732.220
+  - ORS 732.230
+  - ORS 732.245
+  - ORS 732.250
+  - ORS 732.320
+  - ORS 732.325
+  - ORS 732.517
+  - ORS 732.582
+  - ORS 732.650
+  - ORS 733.010
+  - ORS 734.014
+  - ORS 734.510
+  - ORS 742.001
+  - ORS 743.004
+  - ORS 743.005
+  - ORS 743.007
+  - ORS 743.008
+  - ORS 743.010
+  - ORS 743.018
+  - ORS 743.020
+  - ORS 743.022
+  - ORS 743.023
+  - ORS 743.025
+  - ORS 743.028
+  - ORS 743.029
+  - ORS 743.035
+  - ORS 743.038
+  - ORS 743.040
+  - ORS 743.044
+  - ORS 743.050
+  - ORS 743.053
+  - ORS 743.100
+  - ORS 743.405
+  - ORS 743.406
+  - ORS 743.524
+  - ORS 743.526
+  - ORS 743.535
+  - ORS 743A.010
+  - ORS 743A.012
+  - ORS 743A.014
+  - ORS 743A.020
+  - ORS 743A.024
+  - ORS 743A.034
+  - ORS 743A.036
+  - ORS 743A.040
+  - ORS 743A.044
+  - ORS 743A.048
+  - ORS 743A.051
+  - ORS 743A.052
+  - ORS 743A.058
+  - ORS 743A.060
+  - ORS 743A.062
+  - ORS 743A.063
+  - ORS 743A.064
+  - ORS 743A.065
+  - ORS 743A.066
+  - ORS 743A.068
+  - ORS 743A.070
+  - ORS 743A.080
+  - ORS 743A.082
+  - ORS 743A.084
+  - ORS 743A.088
+  - ORS 743A.090
+  - ORS 743A.100
+  - ORS 743A.104
+  - ORS 743A.105
+  - ORS 743A.108
+  - ORS 743A.110
+  - ORS 743A.124
+  - ORS 743A.140
+  - ORS 743A.141
+  - ORS 743A.148
+  - ORS 743A.150
+  - ORS 743A.160
+  - ORS 743A.168
+  - ORS 743A.169
+  - ORS 743A.170
+  - ORS 743A.175
+  - ORS 743A.180
+  - ORS 743A.185
+  - ORS 743A.188
+  - ORS 743A.190
+  - ORS 743A.192
+  - ORS 743A.250
+  - ORS 743A.252
+  - ORS 743A.260
+  - ORS 743A.310
+  - ORS 743A.315
+  - ORS 743B.001
+  - ORS 743B.003
+  - ORS 743B.005
+  - ORS 743B.195
+  - ORS 743B.197
+  - ORS 743B.200
+  - ORS 743B.202
+  - ORS 743B.204
+  - ORS 743B.220
+  - ORS 743B.221
+  - ORS 743B.225
+  - ORS 743B.227
+  - ORS 743B.250
+  - ORS 743B.252
+  - ORS 743B.253
+  - ORS 743B.254
+  - ORS 743B.255
+  - ORS 743B.256
+  - ORS 743B.257
+  - ORS 743B.258
+  - ORS 743B.310
+  - ORS 743B.400
+  - ORS 743B.403
+  - ORS 743B.405
+  - ORS 743B.420
+  - ORS 743B.422
+  - ORS 743B.423
+  - ORS 743B.424
+  - ORS 743B.450
+  - ORS 743B.451
+  - ORS 743B.452
+  - ORS 743B.453
+  - ORS 743B.454
+  - ORS 743B.505
+  - ORS 743B.550
+  - ORS 743B.555
+  - ORS 743B.602
+  - ORS 744.052
+  - ORS 744.602
+  - ORS 744.700
+  - ORS 746.005
+  - ORS 750.003
+  - ORS 750.005
+  - ORS 750.025
+  - ORS 750.045
+  - ORS 750.055
+  - ORS 750.301
+  - ORS 750.333
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3134
+prefix_meaning: House Bill
+catch_line: Requires additional reporting about prior authorization to the Department of Consumer and
+  Business Services from insurers offering a health benefit plan and tells the department to make this
+  data publicly available.
+minority_catch_line: null
+measure_summary: "\t<b>Digest: Tells some insurers to report more data to DCBS and makes rules about prior\
+  \ authorization for some procedures. Tells some insurers to use a program by a set date. (Flesch Readability\
+  \ Score: 60.8).</b> \n\t[<i>Digest: This Act tells insurers, PEBB, OEBB and CCOs to exempt some health\
+  \ care providers from prior authorization in some situations and makes rules about how to do so. Adds\
+  \ reporting rules for these insurers to DCBS and OHA. (Flesch Readability Score: 60.6).</i>] \n\t[<i>Creates\
+  \ a process that exempts certain health care providers from prior authorization requirements under certain\
+  \ circumstances.</i>] Requires additional reporting<b> about prior authorization</b> to the Department\
+  \ of Consumer and Business Services<b> from insurers offering a health benefit plan</b> and tells the\
+  \ department to make [<i>certain</i>]<b> this</b> data publicly available. [<i>Applies these requirements\
+  \ to commercial health insurance, the Public Employees' Benefit Board, the Oregon Educators Benefit\
+  \ Board and coordinated care organizations.</i>] \n\t[<i>Takes effect on the 91st day following adjournment\
+  \ sine die.</i>] \n\t<b>Creates restrictions for prior authorization requirements during certain surgical\
+  \ procedures for insurers offering a health benefit plan. \n\tRequires certain insurers offering a health\
+  \ benefit plan to implement a prior authorization programming interface by January 1, 2027.</b>"
+relating_to: Relating to prior authorization.
+relating_to_full: Relating to prior authorization.
+at_the_request_of: null
+lc_number: 3683
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-07-25T10:52:12'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 53112
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 293.525
+  - ORS 705.137
+  - ORS 705.138
+  - ORS 705.139
+  - ORS 731.004
+  - ORS 731.098
+  - ORS 731.485
+  - ORS 731.488
+  - ORS 731.504
+  - ORS 731.508
+  - ORS 731.509
+  - ORS 731.510
+  - ORS 731.511
+  - ORS 731.512
+  - ORS 731.574
+  - ORS 732.215
+  - ORS 732.220
+  - ORS 732.230
+  - ORS 732.245
+  - ORS 732.250
+  - ORS 732.320
+  - ORS 732.325
+  - ORS 732.517
+  - ORS 732.582
+  - ORS 732.650
+  - ORS 733.010
+  - ORS 734.014
+  - ORS 734.510
+  - ORS 742.001
+  - ORS 743.004
+  - ORS 743.005
+  - ORS 743.007
+  - ORS 743.008
+  - ORS 743.010
+  - ORS 743.018
+  - ORS 743.020
+  - ORS 743.022
+  - ORS 743.023
+  - ORS 743.025
+  - ORS 743.028
+  - ORS 743.029
+  - ORS 743.035
+  - ORS 743.038
+  - ORS 743.040
+  - ORS 743.044
+  - ORS 743.050
+  - ORS 743.053
+  - ORS 743.100
+  - ORS 743.405
+  - ORS 743.406
+  - ORS 743.524
+  - ORS 743.526
+  - ORS 743.535
+  - ORS 743A.010
+  - ORS 743A.012
+  - ORS 743A.014
+  - ORS 743A.020
+  - ORS 743A.024
+  - ORS 743A.034
+  - ORS 743A.036
+  - ORS 743A.040
+  - ORS 743A.044
+  - ORS 743A.048
+  - ORS 743A.051
+  - ORS 743A.052
+  - ORS 743A.058
+  - ORS 743A.060
+  - ORS 743A.062
+  - ORS 743A.063
+  - ORS 743A.064
+  - ORS 743A.065
+  - ORS 743A.066
+  - ORS 743A.068
+  - ORS 743A.070
+  - ORS 743A.080
+  - ORS 743A.082
+  - ORS 743A.084
+  - ORS 743A.088
+  - ORS 743A.090
+  - ORS 743A.100
+  - ORS 743A.104
+  - ORS 743A.105
+  - ORS 743A.108
+  - ORS 743A.110
+  - ORS 743A.124
+  - ORS 743A.140
+  - ORS 743A.141
+  - ORS 743A.148
+  - ORS 743A.150
+  - ORS 743A.160
+  - ORS 743A.168
+  - ORS 743A.169
+  - ORS 743A.170
+  - ORS 743A.175
+  - ORS 743A.180
+  - ORS 743A.185
+  - ORS 743A.188
+  - ORS 743A.190
+  - ORS 743A.192
+  - ORS 743A.250
+  - ORS 743A.252
+  - ORS 743A.260
+  - ORS 743A.310
+  - ORS 743A.315
+  - ORS 743B.001
+  - ORS 743B.003
+  - ORS 743B.005
+  - ORS 743B.195
+  - ORS 743B.197
+  - ORS 743B.200
+  - ORS 743B.202
+  - ORS 743B.204
+  - ORS 743B.220
+  - ORS 743B.221
+  - ORS 743B.225
+  - ORS 743B.227
+  - ORS 743B.250
+  - ORS 743B.252
+  - ORS 743B.253
+  - ORS 743B.254
+  - ORS 743B.255
+  - ORS 743B.256
+  - ORS 743B.257
+  - ORS 743B.258
+  - ORS 743B.310
+  - ORS 743B.400
+  - ORS 743B.403
+  - ORS 743B.405
+  - ORS 743B.420
+  - ORS 743B.422
+  - ORS 743B.423
+  - ORS 743B.424
+  - ORS 743B.450
+  - ORS 743B.451
+  - ORS 743B.452
+  - ORS 743B.453
+  - ORS 743B.454
+  - ORS 743B.505
+  - ORS 743B.550
+  - ORS 743B.555
+  - ORS 743B.602
+  - ORS 744.052
+  - ORS 744.602
+  - ORS 744.700
+  - ORS 746.005
+  - ORS 750.003
+  - ORS 750.005
+  - ORS 750.025
+  - ORS 750.045
+  - ORS 750.055
+  - ORS 750.301
+  - ORS 750.333
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3134>.
+
+# HB 3134 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3134, 2025 Regular Session (2025R1)
+- **LC number:** 3683
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-07-25T10:52:12
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 53112 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3134/Enrolled>.
+
+## Summary
+
+**Catchline:** Requires additional reporting about prior authorization to the Department of Consumer and Business Services from insurers offering a health benefit plan and tells the department to make this data publicly available.
+
+**Relating to:** Relating to prior authorization.
+
+<b>Digest: Tells some insurers to report more data to DCBS and makes rules about prior authorization for some procedures. Tells some insurers to use a program by a set date. (Flesch Readability Score: 60.8).</b> 
+ [<i>Digest: This Act tells insurers, PEBB, OEBB and CCOs to exempt some health care providers from prior authorization in some situations and makes rules about how to do so. Adds reporting rules for these insurers to DCBS and OHA. (Flesch Readability Score: 60.6).</i>] 
+ [<i>Creates a process that exempts certain health care providers from prior authorization requirements under certain circumstances.</i>] Requires additional reporting<b> about prior authorization</b> to the Department of Consumer and Business Services<b> from insurers offering a health benefit plan</b> and tells the department to make [<i>certain</i>]<b> this</b> data publicly available. [<i>Applies these requirements to commercial health insurance, the Public Employees' Benefit Board, the Oregon Educators Benefit Board and coordinated care organizations.</i>] 
+ [<i>Takes effect on the 91st day following adjournment sine die.</i>] 
+ <b>Creates restrictions for prior authorization requirements during certain surgical procedures for insurers offering a health benefit plan. 
+ Requires certain insurers offering a health benefit plan to implement a prior authorization programming interface by January 1, 2027.</b>
+
+**RelatingToFull (verbatim upstream field):** Relating to prior authorization.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 3134
+Sponsored by Representative NOSSE,  Senator PATTERSON; Representatives CHOTZEN, PHAM H,
+WALTERS, Senator REYNOLDS (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to prior authorization; creating new provisions; and amending ORS 743B.001, 743B.250,
+750.055 and 750.333.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 743B.250 is amended to read:
+743B.250. All insurers offering a health benefit plan in this state shall:
+(1) Provide to all enrollees directly or in the case of a group policy to  the employer or other
+policyholder for distribution to enrollees, to all applicants, and to prospective applicants  upon re-
+quest, the following information:
+(a) The insurer’s written policy on the rights of enrollees, including the right:
+(A) To participate in decision making regarding the enrollee’s health care.
+(B) To be treated with respect and  with recognition of the enrollee’s dignity and need for pri-
+vacy.
+(C) To have grievances handled in accordance with this section.
+(D) To be provided with the information described in this section.
+(b) An explanation of the procedures described in subsection (2) of this section  for making cov-
+erage determinations and resolving grievances. The  explanation must be culturally and linguistically
+appropriate, as prescribed by the Department of Consumer and Business Services by  rule, and must
+include:
+(A) The procedures for requesting an  expedited response to an internal appeal under subsection
+(2)(d) of this section or for requesting an expedited  external review of an adverse benefit determi-
+nation;
+(B) A statement that if an insurer  does not comply with the decision of an independent review
+organization under ORS 743B.256, the enrollee may sue the insurer under ORS 743B.258;
+(C) The procedure to obtain assistance available from  the insurer, if any, and from the Depart-
+ment of Consumer and Business Services in filing grievances; and
+(D) A description of the process for filing a complaint with the department.
+(c) A summary of benefits  and an explanation of coverage in a form and manner prescribed by
+the department by rule.
+(d) A summary of the insurer’s policies on prescription drugs, including:
+(A) Cost-sharing differentials;
+(B) Restrictions on coverage;
+(C) Prescription drug formularies;
+Enrolled House Bill 3134 (HB 3134-A) Page 1
+(D) Procedures by which a provider with prescribing  authority may prescribe clinically appro-
+priate drugs not included on the formulary;
+(E) Procedures for the coverage of clinically appropriate prescription  drugs not included on the
+formulary; and
+(F) A summary of the criteria for determining whether  a drug is experimental or investigational.
+(e) A list  of network providers and how the enrollee can obtain current information about the
+availability of providers and how to  access and schedule services with providers, including clinic
+and hospital networks. The list must be available online and upon request in printed format.
+(f) Notice of the enrollee’s right to select a primary care provider and specialty  care providers.
+(g) How to obtain referrals for specialty care in accordance with ORS 743B.227.
+(h) Restrictions on services obtained outside of the insurer’s network or service area.
+(i) The availability of continuity of care as required by ORS 743B.225.
+(j) Procedures for accessing after-hours care and emergency services as required by ORS
+743A.012.
+(k) Cost-sharing requirements and other charges to enrollees.
+(L) Procedures, if any, for changing providers.
+(m) Procedures, if any, by which enrollees may participate  in the development of the insurer’s
+corporate policies.
+(n) A summary of how the insurer makes decisions regarding  coverage and payment for treat-
+ment or services, including a general  description of any prior authorization and utilization review
+requirements that affect coverage or payment.
+(o) Disclosure of any  risk-sharing arrangement the insurer has with physicians or other provid-
+ers.
+(p) A summary of the  insurer’s procedures for protecting the confidentiality of medical records
+and other  enrollee information and the requirement under ORS 743B.555 that a carrier or third
+party administrator send communications containing protected health information only to  the
+enrollee who is the subject of the protected health information.
+(q) An explanation of assistance provided to non-English-speaking enrollees.
+(r) Notice of the information available from the department that is  filed by insurers as required
+under ORS 743B.200, 743B.202 and 743B.423.
+(2) Establish procedures, in accordance with requirements  adopted by the department, for mak-
+ing coverage determinations and resolving grievances that provide for all of the following:
+(a) Timely notice of adverse benefit determinations.
+(b) A method for recording all grievances, including the nature of the grievance  and significant
+action  taken.
+(c) Written decisions.
+(d) An expedited response to a request for  an internal appeal that accommodates the clinical
+urgency of the situation.
+(e) At least one but not more than two levels of internal appeal for  group health benefit plans
+and one level of  internal appeal for individual health benefit plans and for any denial of an excep-
+tion to a prescription drug formulary. If an insurer provides:
+(A) Two levels of internal appeal, a person who was involved in the consideration of the  initial
+denial or the first level of  internal appeal may not be involved in the second level of internal appeal;
+and
+(B) No more than one level of internal  appeal, a person who was involved in the consideration
+of the initial denial may not be involved in the internal appeal.
+(f)(A) An external review that meets the requirements of ORS 743B.252, 743B.254  and 743B.255,
+after the enrollee has exhausted internal appeals or  after the enrollee has been deemed to have
+exhausted internal appeals.
+(B) An enrollee shall be deemed to have exhausted internal appeals if an insurer fails  to strictly
+comply with this section and federal requirements for internal appeals.
+Enrolled House Bill 3134 (HB 3134-A) Page 2
+(g) The opportunity for the enrollee to receive continued  coverage of an approved and ongoing
+course  of  treatment under the health benefit plan pending the conclusion of the internal appeal
+process.
+(h) The opportunity for the enrollee or any  authorized representative chosen by the enrollee to:
+(A) Submit for consideration by  the insurer any written comments, documents, records and other
+materials relating to the adverse benefit determination; and
+(B) Receive from the insurer, upon request and  free of charge, reasonable access to and copies
+of all documents, records and other information relevant to the adverse benefit determination.
+(3) Establish procedures for notifying affected enrollees of:
+(a) A change in or termination of any benefit; and
+(b)(A) The termination of a primary care delivery office or site; and
+(B) Assistance available to enrollees in selecting a new primary care delivery office or site.
+(4) Provide the information  described in subsection (2) of this section and ORS 743B.254 at each
+level of internal appeal to an enrollee who  is notified of an adverse benefit determination or to an
+enrollee who files a grievance.
+(5) Upon the request of an enrollee, applicant or prospective applicant, provide:
+(a) The insurer’s annual report on grievances and internal appeals submitted to the  department
+under subsection (8) of this section.
+(b) A description  of the insurer’s efforts, if any, to monitor and improve the quality of health
+services.
+(c) Information about the insurer’s procedures for credentialing network providers.
+(6) In addition to the requirements in ORS 743B.423 and 743B.602,  provide, upon the request of
+an enrollee, a written summary of information that  the insurer may consider in its utilization review
+of a particular condition or disease, to the extent the insurer maintains such  criteria. This sub-
+section does not require an insurer to advise an enrollee  how the insurer would cover or treat that
+particular enrollee’s disease or condition. Utilization review criteria that are proprietary shall  be
+subject to oral disclosure only.
+(7) Maintain for a period of  at least six years written records that document all grievances de-
+scribed in ORS 743B.001 (8)(a) and make the written records available for examination by the  de-
+partment or by an enrollee or authorized representative of  an enrollee with respect to a grievance
+made by the enrollee. The written records must include but are not limited to the following:
+(a) Notices and claims associated with each grievance.
+(b) A general description of the reason for the grievance.
+(c) The date the grievance was received by the insurer.
+(d) The date of  the internal appeal or the date of any internal appeal meeting held concerning
+the appeal.
+(e) The result of the internal appeal at each level of appeal.
+(f) The name of the covered person for whom the grievance was submitted.
+(8) Provide to the department, in the format prescribed  by the department, an annual summary
+of the insurer’s aggregate data regarding:
+(a) Grievances;
+(b) Internal appeals;
+(c) Requests for external review; and
+(d) The following information , which shall be published by the department, in a format  that
+does not identify the insurer,  to the department’s website no later than March 1 of each
+calendar year, about requests for prior authorization received by the insurer:
+[(A) The number of requests received; ]
+[(B) The number of requests that were initially denied and the reasons  for the denials, including,
+but not limited to, lack of medical necessity or failure to provide additional clinical  information re-
+quested by the insurer; ]
+[(C) The number of requests that were initially approved; and ]
+[(D) The number of denials that were reversed by internal appeals or external reviews. ]
+Enrolled House Bill 3134 (HB 3134-A) Page 3
+(A) The  percentage and number of standard prior authorization requests that were ap-
+proved;
+(B) The percentage and  number of standard prior authorization requests that were de-
+nied;
+(C) The percentage and number of standard prior authorization  requests that were ap-
+proved after appeal;
+(D) The percentage  and number of all prior authorization requests for which the time
+frame for review was extended and the request was approved;
+(E) The percentage and number of expedited prior  authorization requests that were ap-
+proved;
+(F) The percentage and number of expedited prior authorization  requests that were de-
+nied;
+(G) The average and median times that elapsed between the submission  of a request and
+a determination by the insurer for standard prior authorization; and
+(H) The average and median times that elapsed between the submission  of a request and
+a decision by the insurer for expedited prior authorization.
+(9) Allow the exercise of any  rights described in this section or ORS 743B.252 or 743B.255 by
+an authorized representative.
+(10) Procedures adopted under subsection (2) of  this section for health benefit plans other than
+grandfathered health plans must be consistent with 42 U.S.C. 300-gg-19 and  rules adopted by the
+United States Department of Health and Human Services implementing 42 U.S.C. 300-gg-19.
+(11) An adverse  benefit determination under subsection (2)(a) of this section that is provided to
+an enrollee in a health benefit plan other than a grandfathered health plan must:
+(a) Be provided in a culturally and linguistically appropriate manner;
+(b) Be consistent with federal  requirements regarding the manner and content for notices of
+benefit determinations and federal requirements for the full and fair review of adverse benefit  de-
+terminations; and
+(c) Include the information required by subsection (4) of this section and:
+(A) Information sufficient to identify the claim  involved, the date of services, the health care
+provider and, if applicable, the claim amount;
+(B) A  statement describing the availability, upon request, of the information described in sub-
+section (12) of this section;
+(C) The specific reason for the adverse benefit determination, a reference to the specific  plan
+provisions on which the determination is based, the denial code and the  meaning of the denial code
+and a description of the standard that was used to make the determination, if any;
+(D) A description of available internal appeals  and external reviews, including expedited appeals
+and reviews, and instructions on how to initiate an appeal or review; and
+(E) Contact information for the office of consumer  assistance within the Department of Con-
+sumer and Business Services.
+(12) Upon the request of an enrollee, an insurer that  makes an adverse benefit determination
+with respect to the enrollee under a  health benefit plan other than a grandfathered health plan must
+provide the enrollee with the diagnosis code, the meaning  of the diagnosis code, the treatment code
+and the meaning of the treatment code that are associated with the adverse benefit determination.
+(13) An adverse benefit determination issued to  an enrollee following the final level of internal
+appeals by an insurer under a health benefit plan other than a grandfathered health plan  must, in
+addition to the requirements under subsection (11) of this section, include:
+(a) An explanation and discussion of the decision to uphold the initial  adverse benefit determi-
+nation; and
+(b) An authorization form, or other document that complies with state and federal privacy  laws
+and is approved by the department, with which an  enrollee that requests an external review under
+ORS 743B.255 may authorize the  insurer and the enrollee’s treating health care provider to disclose
+medical records or other protected health information pertinent to the external review.
+Enrolled House Bill 3134 (HB 3134-A) Page 4
+(14) As used in this section:
+(a) “Expedited prior authorization” means a prior authorization that  must be expedited
+in order to  avoid jeopardizing the enrollee’s life, health or ability to maintain or regain
+maximum function.
+(b) “Standard prior authorization” means a prior authorization request that is  not an
+expedited prior authorization request.
+SECTION 2.
+An insurer offering a health benefit plan that requires prior  authorization
+for surgical procedures may  not require prior authorization for an additional or related
+health care procedure that is identified during the authorized surgical procedure if:
+(1) The provider, while providing an approved surgical procedure, identifies a medical
+condition, disease or ailment that was not identified in the prior authorization request  and,
+in accordance with generally accepted standards of medical practice,  determines that per-
+forming a  related health care procedure, instead of or in addition to the approved surgical
+procedure, is medically necessary  and, in the provider’s judgment, to interrupt or delay the
+provision of care in order to obtain prior authorization for the additional or  related health
+care procedure would not be medically advisable;
+(2) The additional or  related health care procedure is a covered benefit under the
+enrollee’s health benefit plan; and
+(3) The additional or related health care procedure is not experimental  or for investi-
+gation purposes.
+SECTION 3. (1) An insurer offering  a health benefit plan in this state that provides
+utilization review or has utilization review provided on the insurer’s behalf  shall utilize a
+prior authorization application programming interface  as described in 45 C.F.R. 156.223(b),
+as in effect on February 28, 2024.  The application programming interface shall enable a pro-
+vider to:
+(a) Determine whether prior authorization is required;
+(b) Identify the information and documentation necessary to submit the request; and
+(c) Transfer prior authorization requests  and determinations from the provider’s elec-
+tronic health records or practice management system through  a secure electronic trans-
+mission.
+(2) An insurer shall respond through the application programming interface described  in
+subsection (1) of this  section to a request that was submitted by a provider through the ap-
+plication programming interface.
+SECTION 4.
+ ORS 743B.001, as amended by  section 3, chapter 35, Oregon Laws 2024, is amended
+to read:
+743B.001. As  used in this section and ORS 743.008, 743.029, 743.035, 743A.190, 743B.195,
+743B.197, 743B.200, 743B.202, 743B.204, 743B.220,  743B.225, 743B.227, 743B.250, 743B.252, 743B.253,
+743B.254, 743B.255, 743B.256, 743B.257, 743B.258, 743B.310,  743B.400, 743B.403, 743B.405, 743B.420,
+743B.422, 743B.423, 743B.424, 743B.450, 743B.451,  743B.452, 743B.453, 743B.454, 743B.505, 743B.550,
+743B.555 and 743B.602 and section 2, chapter 35, Oregon Laws 2024 , and sections 2 and 3 of this
+2025 Act :
+(1) “Adverse benefit determination” means an insurer’s denial, reduction or termination of  a
+health care item or service, or an insurer’s  failure or refusal to provide or to make a payment in
+whole or in part for a health care item or service, that is based on the insurer’s:
+(a) Denial of eligibility for or termination of enrollment in a health benefit plan;
+(b) Rescission or cancellation of a policy or certificate;
+(c) Imposition  of a preexisting condition exclusion as defined in ORS 743B.005, source-of-injury
+exclusion, network exclusion, annual benefit limit or other limitation on otherwise covered  items
+or services;
+(d) Determination that a health care item or service is experimental, investigational or  not
+medically necessary, effective or appropriate;
+Enrolled House Bill 3134 (HB 3134-A) Page 5
+(e) Determination that a course or  plan of treatment that an enrollee is undergoing is an active
+course of treatment for purposes of continuity of care under ORS 743B.225; or
+(f) Denial, in whole  or in part, of a request for prior authorization, a request for an exception
+to step therapy or a request for coverage of  a treatment, drug, device or diagnostic or laboratory
+test that is subject to other utilization review requirements.
+(2) “Authorized representative” means an individual who by law or by the consent  of a person
+may act on behalf of the person.
+(3) “Clinical review criteria” means screening procedures, decision rules, medical  protocols and
+clinical guidance used by an insurer or other entity in conducting utilization review and evaluating:
+(a) Medical necessity;
+(b) Appropriateness of an  item or health service for which prior authorization is requested or
+for which an exception to step therapy has been requested as described in ORS 743B.602; or
+(c) Any other coverage that is subject to utilization review.
+(4) “Credit card” has the meaning given that term in 15 U.S.C. 1602.
+(5) “Electronic funds transfer” has the meaning given that term in ORS 293.525.
+(6) “Enrollee” has the meaning given that term in ORS 743B.005.
+(7) “Essential  community provider” has the meaning given that term in rules adopted by the
+Department of Consumer and Business  Services consistent with the description of the term in 42
+U.S.C. 18031 and the rules adopted by the United States Department of Health and Human Services,
+the United States Department of the Treasury  or the United States Department of Labor to carry
+out 42 U.S.C. 18031.
+(8) “Grievance” means:
+(a) A communication from an enrollee  or an authorized representative of an enrollee expressing
+dissatisfaction with an adverse benefit  determination, without specifically declining any right to
+appeal or review, that is:
+(A) In writing, for an internal appeal or an external review; or
+(B) In writing  or orally, for an expedited response described in ORS 743B.250 (2)(d) or an expe-
+dited external review; or
+(b) A written complaint submitted by an enrollee or  an authorized representative of an enrollee
+regarding  the:
+(A) Availability, delivery or quality of a health care service;
+(B) Claims payment, handling or reimbursement for health care services and,  unless the enrollee
+has not submitted a request for an internal appeal, the complaint is not  disputing an adverse benefit
+determination; or
+(C) Matters pertaining to the contractual relationship between an enrollee and an insurer.
+(9) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+(10) “Independent practice association” means  a corporation wholly owned by providers, or
+whose membership consists entirely of providers, formed for the sole purpose  of contracting with
+insurers for the provision of health care services to enrollees, or with employers for  the provision
+of health care services to employees, or  with a group, as described in ORS 731.098, to provide health
+care services to group members.
+(11) “Insurer” includes a health care service contractor as defined in ORS 750.005.
+(12) “Internal appeal”  means a review by an insurer of an adverse benefit determination made
+by the insurer.
+(13) “Managed health insurance” means any health benefit plan that:
+(a) Requires an enrollee to use a specified network  or networks of providers managed, owned,
+under contract with or employed by the  insurer in order to receive benefits under the plan, except
+for emergency or other specified limited service; or
+(b) In addition to the requirements of paragraph (a) of this subsection, offers  a point-of-service
+provision that allows an enrollee  to use providers outside of the specified network or networks at
+the option of the enrollee and receive a reduced level of benefits.
+Enrolled House Bill 3134 (HB 3134-A) Page 6
+(14) “Medical services contract” means a contract between an insurer  and an independent
+practice association, between an insurer and a provider, between an independent practice  associ-
+ation and a provider or organization of providers, between medical or mental  health clinics, and
+between a medical or mental health clinic and a provider to provide medical or  mental health ser-
+vices. “Medical services contract” does not include a contract of employment or a  contract creating
+legal entities and ownership thereof that are authorized  under ORS chapter 58, 60 or 70, or other
+similar professional organizations permitted by statute.
+(15)(a) “Preferred provider organization insurance” means any health benefit plan that:
+(A) Specifies a  preferred network of providers managed, owned or under contract with or em-
+ployed by an insurer;
+(B) Does not require an enrollee to use the preferred network of providers in order to  receive
+benefits under the plan; and
+(C) Creates financial incentives for an enrollee to use the preferred network  of providers by
+providing an increased level of benefits.
+(b) “Preferred provider organization insurance” does not mean a health benefit  plan that has
+as its sole financial incentive a hold harmless provision under which  providers in the preferred
+network  agree  to accept as payment in full the maximum allowable amounts that are specified in
+the medical services contracts.
+(16) “Prior authorization” means a form of utilization review that requires a provider or an
+enrollee to request a  determination by an insurer, prior to the provision of health care that is sub-
+ject to utilization review, that the insurer will provide reimbursement for the health care requested.
+“Prior authorization” does not include referral  approval for evaluation and management services
+between providers.
+(17)(a) “Provider” means a  person licensed, certified or otherwise authorized or permitted by
+laws of this state to administer medical or mental health services in the ordinary course of  business
+or practice of a profession.
+(b) With respect to the statutes governing the billing  for or payment of claims, “provider” also
+includes an employee or other designee of the provider who  has the responsibility for billing claims
+for reimbursement or receiving payments on claims.
+(18) “Step therapy” means a utilization review protocol,  policy or program in which an insurer
+requires certain preferred drugs for  treatment of a specific medical condition be proven ineffective
+or contraindicated before a prescribed drug may be reimbursed.
+(19) “Utilization review” means a set of formal techniques  used by an insurer or delegated by
+the insurer designed to monitor the use of or evaluate the medical necessity, appropriateness,  effi-
+cacy or efficiency of health care items, services, procedures or settings.
+SECTION 5.
+ ORS 750.055, as amended by  section 3, chapter 24, Oregon Laws 2024, section 4,
+chapter 35, Oregon Laws  2024, section 21, chapter 70, Oregon Laws 2024, and section 162, chapter
+73, Oregon Laws 2024, is amended to read:
+750.055. (1) The following provisions apply to health care service  contractors to the extent not
+inconsistent with the express provisions of ORS 750.005 to 750.095:
+(a) ORS 705.137, 705.138 and 705.139.
+(b) ORS 731.004 to 731.150, 731.162, 731.216 to 731.362,  731.382, 731.385, 731.386, 731.390, 731.398
+to 731.430, 731.428, 731.450, 731.454,  731.485, as provided in subsection (2) of this section, ORS
+731.488, 731.504,  731.508, 731.509, 731.510, 731.511, 731.512, 731.574 to 731.620, 731.640 to 731.652,
+731.730, 731.731, 731.735, 731.737, 731.750, 731.752, 731.804, 731.808 and 731.844 to 731.992.
+(c) ORS 732.215, 732.220, 732.230, 732.245, 732.250, 732.320, 732.325 and  732.517 to 732.596, not
+including ORS 732.582, and ORS 732.650 to 732.689.
+(d) ORS  733.010 to 733.050, 733.080, 733.140 to 733.170, 733.210, 733.510 to 733.680 and 733.695
+to 733.780.
+(e) ORS 734.014 to 734.440.
+(f) ORS 742.001 to 742.009, 742.013, 742.016, 742.061, 742.065, 742.150 to 742.162 and 742.518 to
+742.542.
+Enrolled House Bill 3134 (HB 3134-A) Page 7
+(g) ORS 743.004, 743.005, 743.007, 743.008, 743.010, 743.018, 743.020, 743.022, 743.023, 743.025,
+743.028, 743.029, 743.038, 743.040, 743.044, 743.050,  743.100 to 743.109, 743.402, 743.405, 743.406,
+743.417, 743.472, 743.492, 743.495, 743.498, 743.522, 743.523, 743.524, 743.526, 743.535, 743.550, 743.650
+to 743.656, 743.680 to 743.689, 743.788 and 743.790.
+(h) ORS 743A.010, 743A.012, 743A.014,  743A.020, 743A.034, 743A.036, 743A.040, 743A.044,
+743A.048, 743A.051, 743A.052, 743A.058, 743A.060, 743A.062, 743A.063, 743A.064,  743A.065, 743A.066,
+743A.068, 743A.070, 743A.080, 743A.082, 743A.084, 743A.088, 743A.090, 743A.100, 743A.104, 743A.105,
+743A.108, 743A.110, 743A.124, 743A.140, 743A.141, 743A.148, 743A.150, 743A.160,  743A.168, 743A.169,
+743A.170, 743A.175,  743A.185, 743A.188, 743A.190, 743A.192, 743A.250, 743A.252, 743A.260, 743A.310
+and 743A.315 and section 2, chapter 771, Oregon Laws 2013, and section 2, chapter  70, Oregon Laws
+2024.
+(i) ORS 743B.001, 743B.003 to 743B.127, 743B.128, 743B.130, 743B.195,  743B.197, 743B.200,
+743B.202, 743B.204, 743B.220, 743B.221, 743B.222,  743B.225, 743B.227, 743B.250, 743B.252, 743B.253,
+743B.254, 743B.255, 743B.256, 743B.257, 743B.258, 743B.280 to 743B.285, 743B.287, 743B.300, 743B.310,
+743B.320, 743B.323, 743B.330, 743B.340, 743B.341, 743B.342, 743B.343 to 743B.347, 743B.400, 743B.403,
+743B.407, 743B.420, 743B.423, 743B.450, 743B.451, 743B.452,  743B.453, 743B.470, 743B.475, 743B.505,
+743B.550, 743B.555, 743B.601, 743B.602 and 743B.800 and section 2,  chapter 24, Oregon Laws 2024,
+[and] section 2, chapter 35, Oregon Laws 2024 , and section 2 of this 2025 Act .
+(j) The following provisions of ORS chapter 744:
+(A) ORS 744.052 to 744.089, 744.091 and 744.093, relating to the regulation  of insurance produc-
+ers;
+(B) ORS 744.602 to 744.665, relating to the regulation of insurance consultants; and
+(C) ORS 744.700 to 744.740, relating to the regulation of third party administrators.
+(k) ORS 746.005 to 746.140, 746.160, 746.220 to 746.370, 746.600, 746.605, 746.607, 746.608,  746.610,
+746.615, 746.625, 746.635, 746.650, 746.655, 746.660, 746.668, 746.670, 746.675, 746.680 and 746.690.
+(2) The following provisions of the  Insurance Code apply to health care service contractors ex-
+cept in the case of group practice health maintenance  organizations that are federally qualified
+pursuant to Title XIII of the Public Health Service Act:
+(a) ORS 731.485, if the group practice health maintenance organization  wholly owns and oper-
+ates an in-house drug outlet.
+(b) ORS 743A.024, unless the patient is referred by a physician, physician associate  or nurse
+practitioner associated with a group practice health maintenance organization.
+(3) For the purposes of this section, health care service contractors are insurers.
+(4) Any for-profit health care service contractor organized under the laws of any other state that
+is not governed by the insurance laws  of the other state is subject to all requirements of ORS
+chapter 732.
+(5)(a) A health  care service contractor is a domestic insurance company for the purpose of de-
+termining whether the health care service contractor is a debtor, as defined in 11 U.S.C. 109.
+(b) A health care service contractor’s  classification as a domestic insurance company under
+paragraph (a) of this subsection does not subject the health care service contractor to ORS  734.510
+to 734.710.
+(6) The Director of the Department of Consumer and Business Services  may, after notice and
+hearing, adopt reasonable rules not inconsistent with this section and ORS  750.003, 750.005, 750.025
+and 750.045 that are necessary for the proper administration of these provisions.
+SECTION 6.
+ ORS 750.055, as amended by section 21, chapter 771, Oregon Laws  2013, section
+7, chapter 25, Oregon Laws 2014, section 82, chapter 45, Oregon Laws 2014, section  9, chapter 59,
+Oregon Laws 2015, section 7, chapter 100, Oregon Laws  2015, section 7, chapter 224, Oregon Laws
+2015, section 11, chapter 362, Oregon Laws 2015, section 10, chapter 470, Oregon Laws  2015, section
+30, chapter 515, Oregon Laws 2015, section  10, chapter 206, Oregon Laws 2017, section 6, chapter
+417, Oregon Laws 2017, section 22, chapter 479, Oregon Laws 2017, section 10, chapter  7, Oregon
+Laws 2018, section 69, chapter  13, Oregon Laws 2019, section 38, chapter 151, Oregon Laws 2019,
+section 5, chapter  441, Oregon Laws 2019, section 85, chapter 97, Oregon Laws 2021, section 12,
+Enrolled House Bill 3134 (HB 3134-A) Page 8
+chapter 37, Oregon Laws 2022, section  5, chapter 111, Oregon Laws 2023, section 2, chapter 152,
+Oregon Laws 2023, section 4, chapter 24, Oregon Laws 2024, section  5, chapter 35, Oregon Laws
+2024, section 22, chapter  70, Oregon Laws 2024, and section 163, chapter 73, Oregon Laws 2024, is
+amended to read:
+750.055. (1) The following provisions apply to health care service  contractors to the extent not
+inconsistent with the express provisions of ORS 750.005 to 750.095:
+(a) ORS 705.137, 705.138 and 705.139.
+(b) ORS 731.004 to 731.150, 731.162, 731.216 to 731.362,  731.382, 731.385, 731.386, 731.390, 731.398
+to 731.430, 731.428, 731.450, 731.454,  731.485, as provided in subsection (2) of this section, ORS
+731.488, 731.504,  731.508, 731.509, 731.510, 731.511, 731.512, 731.574 to 731.620, 731.640 to 731.652,
+731.730, 731.731, 731.735, 731.737, 731.750, 731.752, 731.804, 731.808 and 731.844 to 731.992.
+(c) ORS 732.215, 732.220, 732.230, 732.245, 732.250, 732.320, 732.325 and  732.517 to 732.596, not
+including ORS 732.582, and ORS 732.650 to 732.689.
+(d) ORS  733.010 to 733.050, 733.080, 733.140 to 733.170, 733.210, 733.510 to 733.680 and 733.695
+to 733.780.
+(e) ORS 734.014 to 734.440.
+(f) ORS 742.001 to 742.009, 742.013, 742.016, 742.061, 742.065, 742.150 to 742.162 and 742.518 to
+742.542.
+(g) ORS 743.004, 743.005, 743.007, 743.008, 743.010, 743.018, 743.020, 743.022, 743.023, 743.025,
+743.028, 743.029, 743.038, 743.040, 743.044, 743.050,  743.100 to 743.109, 743.402, 743.405, 743.406,
+743.417, 743.472, 743.492, 743.495, 743.498, 743.522, 743.523, 743.524, 743.526, 743.535, 743.550, 743.650
+to 743.656, 743.680 to 743.689, 743.788 and 743.790.
+(h) ORS 743A.010, 743A.012, 743A.014,  743A.020, 743A.034, 743A.036, 743A.040, 743A.044,
+743A.048, 743A.051, 743A.052, 743A.058, 743A.060, 743A.062, 743A.063, 743A.064,  743A.065, 743A.066,
+743A.068, 743A.070, 743A.080, 743A.082, 743A.084, 743A.088, 743A.090, 743A.100, 743A.104, 743A.105,
+743A.108, 743A.110, 743A.124, 743A.140, 743A.141, 743A.148, 743A.150, 743A.160,  743A.168, 743A.169,
+743A.170, 743A.175,  743A.185, 743A.188, 743A.190, 743A.192, 743A.250, 743A.252, 743A.260, 743A.310
+and 743A.315 and section 2, chapter 70, Oregon Laws 2024.
+(i) ORS 743B.001, 743B.003 to 743B.127, 743B.128, 743B.130, 743B.195,  743B.197, 743B.200,
+743B.202, 743B.204, 743B.220, 743B.221, 743B.222,  743B.225, 743B.227, 743B.250, 743B.252, 743B.253,
+743B.254, 743B.255, 743B.256, 743B.257, 743B.258, 743B.280 to 743B.285, 743B.287, 743B.300, 743B.310,
+743B.320, 743B.323, 743B.330, 743B.340, 743B.341, 743B.342, 743B.343 to 743B.347, 743B.400, 743B.403,
+743B.407, 743B.420, 743B.423, 743B.450, 743B.451, 743B.452,  743B.453, 743B.470, 743B.475, 743B.505,
+743B.550, 743B.555, 743B.601, 743B.602 and 743B.800 and section 2,  chapter 24, Oregon Laws 2024,
+[and] section 2, chapter 35, Oregon Laws 2024 , and section 2 of this 2025 Act .
+(j) The following provisions of ORS chapter 744:
+(A) ORS 744.052 to 744.089, 744.091 and 744.093, relating to the regulation  of insurance produc-
+ers;
+(B) ORS 744.602 to 744.665, relating to the regulation of insurance consultants; and
+(C) ORS 744.700 to 744.740, relating to the regulation of third party administrators.
+(k) ORS 746.005 to 746.140, 746.160, 746.220 to 746.370, 746.600, 746.605, 746.607, 746.608,  746.610,
+746.615, 746.625, 746.635, 746.650, 746.655, 746.660, 746.668, 746.670, 746.675, 746.680 and 746.690.
+(2) The following provisions of the  Insurance Code apply to health care service contractors ex-
+cept in the case of group practice health maintenance  organizations that are federally qualified
+pursuant to Title XIII of the Public Health Service Act:
+(a) ORS 731.485, if the group practice health maintenance organization  wholly owns and oper-
+ates an in-house drug outlet.
+(b) ORS 743A.024, unless the patient is referred by a physician, physician associate  or nurse
+practitioner associated with a group practice health maintenance organization.
+(3) For the purposes of this section, health care service contractors are insurers.
+Enrolled House Bill 3134 (HB 3134-A) Page 9
+(4) Any for-profit health care service contractor organized under the laws of any other state that
+is not governed by the insurance laws  of the other state is subject to all requirements of ORS
+chapter 732.
+(5)(a) A health care service contractor is a domestic insurance company for the purpose  of de-
+termining whether the health care service contractor is a debtor, as defined in 11 U.S.C. 109.
+(b) A health care service contractor’s classification as  a domestic insurance company under
+paragraph (a) of this subsection does not subject the health care service contractor to ORS  734.510
+to 734.710.
+(6) The Director of the  Department of Consumer and Business Services may, after notice and
+hearing, adopt reasonable rules not inconsistent with this section and ORS  750.003, 750.005, 750.025
+and 750.045 that are necessary for the proper administration of these provisions.
+SECTION 7.  ORS 750.055, as amended by section 3, chapter  24, Oregon Laws 2024, section 4,
+chapter 35, Oregon Laws 2024, section 21, chapter 70, Oregon Laws 2024, and  section 162, chapter
+73, Oregon Laws 2024, and section 5 of this 2025 Act, is amended to read:
+750.055. (1) The following provisions apply  to health care service contractors to the extent not
+inconsistent with the express provisions of ORS 750.005 to 750.095:
+(a) ORS 705.137, 705.138 and 705.139.
+(b) ORS 731.004 to 731.150, 731.162, 731.216 to 731.362,  731.382, 731.385, 731.386, 731.390, 731.398
+to 731.430, 731.428, 731.450, 731.454, 731.485, as provided in subsection (2)  of this section, ORS
+731.488, 731.504, 731.508, 731.509, 731.510, 731.511, 731.512, 731.574 to 731.620, 731.640 to  731.652,
+731.730, 731.731, 731.735, 731.737, 731.750, 731.752, 731.804, 731.808 and 731.844 to 731.992.
+(c) ORS 732.215, 732.220, 732.230,  732.245, 732.250, 732.320, 732.325 and 732.517 to 732.596, not
+including ORS 732.582, and ORS 732.650 to 732.689.
+(d) ORS 733.010 to 733.050, 733.080, 733.140 to 733.170, 733.210, 733.510 to 733.680 and  733.695
+to 733.780.
+(e) ORS 734.014 to 734.440.
+(f) ORS 742.001 to 742.009, 742.013, 742.016, 742.061, 742.065, 742.150 to 742.162 and 742.518 to
+742.542.
+(g) ORS 743.004, 743.005, 743.007, 743.008, 743.010, 743.018, 743.020, 743.022, 743.023, 743.025,
+743.028, 743.029, 743.038, 743.040, 743.044, 743.050, 743.100  to 743.109, 743.402, 743.405, 743.406,
+743.417, 743.472, 743.492, 743.495, 743.498, 743.522, 743.523, 743.524, 743.526, 743.535, 743.550, 743.650
+to 743.656, 743.680 to 743.689, 743.788 and 743.790.
+(h) ORS 743A.010, 743A.012, 743A.014, 743A.020,  743A.034, 743A.036, 743A.040, 743A.044,
+743A.048, 743A.051, 743A.052, 743A.058, 743A.060, 743A.062, 743A.063, 743A.064, 743A.065, 743A.066,
+743A.068, 743A.070, 743A.080, 743A.082, 743A.084, 743A.088, 743A.090, 743A.100,  743A.104, 743A.105,
+743A.108, 743A.110, 743A.124, 743A.140, 743A.141, 743A.148, 743A.150, 743A.160, 743A.168, 743A.169,
+743A.170, 743A.175, 743A.185, 743A.188, 743A.190, 743A.192, 743A.250, 743A.252, 743A.260,  743A.310
+and 743A.315 and section 2, chapter 771, Oregon Laws 2013, and section 2, chapter  70, Oregon Laws
+2024.
+(i) ORS 743B.001,  743B.003 to 743B.127, 743B.128, 743B.130, 743B.195, 743B.197, 743B.200,
+743B.202, 743B.204, 743B.220, 743B.221, 743B.222, 743B.225,  743B.227, 743B.250, 743B.252, 743B.253,
+743B.254, 743B.255, 743B.256, 743B.257, 743B.258, 743B.280 to 743B.285, 743B.287, 743B.300, 743B.310,
+743B.320, 743B.323, 743B.330, 743B.340, 743B.341, 743B.342, 743B.343 to 743B.347, 743B.400, 743B.403,
+743B.407, 743B.420, 743B.423, 743B.450, 743B.451,  743B.452, 743B.453, 743B.470, 743B.475, 743B.505,
+743B.550, 743B.555, 743B.601, 743B.602 and 743B.800  and section 2, chapter 24, Oregon Laws 2024,
+section 2, chapter 35, Oregon Laws 2024, and [ section 2 ] sections 2 and 3  of this 2025 Act.
+(j) The following provisions of ORS chapter 744:
+(A) ORS 744.052 to  744.089, 744.091 and 744.093, relating to the regulation of insurance produc-
+ers;
+(B) ORS 744.602 to 744.665, relating to the regulation of insurance consultants; and
+(C) ORS 744.700 to 744.740, relating to the regulation of third party administrators.
+Enrolled House Bill 3134 (HB 3134-A) Page 10
+(k) ORS 746.005 to 746.140, 746.160, 746.220 to 746.370, 746.600, 746.605, 746.607, 746.608,  746.610,
+746.615, 746.625, 746.635, 746.650, 746.655, 746.660, 746.668, 746.670, 746.675, 746.680 and 746.690.
+(2) The following provisions of the  Insurance Code apply to health care service contractors ex-
+cept in the case of group practice health maintenance  organizations that are federally qualified
+pursuant to Title XIII of the Public Health Service Act:
+(a) ORS 731.485, if the group practice health maintenance organization  wholly owns and oper-
+ates an in-house drug outlet.
+(b) ORS 743A.024, unless the patient is referred by a physician, physician associate  or nurse
+practitioner associated with a group practice health maintenance organization.
+(3) For the purposes of this section, health care service contractors are insurers.
+(4) Any for-profit health care service contractor organized under the laws of any other state that
+is not governed by the insurance laws  of the other state is subject to all requirements of ORS
+chapter 732.
+(5)(a) A health  care service contractor is a domestic insurance company for the purpose of de-
+termining whether the health care service contractor is a debtor, as defined in 11 U.S.C. 109.
+(b) A health care service contractor’s  classification as a domestic insurance company under
+paragraph (a) of this subsection does not subject the health care service contractor to ORS  734.510
+to 734.710.
+(6) The Director of the Department of Consumer and Business Services  may, after notice and
+hearing, adopt reasonable rules not inconsistent with this section and ORS  750.003, 750.005, 750.025
+and 750.045 that are necessary for the proper administration of these provisions.
+SECTION 8.
+ ORS 750.055, as amended by section 21, chapter 771, Oregon Laws  2013, section
+7, chapter 25, Oregon Laws 2014, section 82, chapter 45, Oregon Laws 2014, section  9, chapter 59,
+Oregon Laws 2015, section 7, chapter 100, Oregon Laws  2015, section 7, chapter 224, Oregon Laws
+2015, section 11, chapter 362, Oregon Laws 2015, section 10, chapter 470, Oregon Laws  2015, section
+30, chapter 515, Oregon Laws 2015, section  10, chapter 206, Oregon Laws 2017, section 6, chapter
+417, Oregon Laws 2017, section 22, chapter 479, Oregon Laws 2017, section 10, chapter  7, Oregon
+Laws 2018, section 69, chapter  13, Oregon Laws 2019, section 38, chapter 151, Oregon Laws 2019,
+section 5, chapter  441, Oregon Laws 2019, section 85, chapter 97, Oregon Laws 2021, section 12,
+chapter 37, Oregon Laws 2022, section  5, chapter 111, Oregon Laws 2023, section 2, chapter 152,
+Oregon Laws 2023, section 4, chapter 24, Oregon Laws 2024, section  5, chapter 35, Oregon Laws
+2024, section  22, chapter 70, Oregon Laws 2024, and section 163, chapter 73, Oregon Laws 2024, and
+section 6 of this 2025 Act, is amended to read:
+750.055. (1) The following provisions apply  to health care service contractors to the extent not
+inconsistent with the express provisions of ORS 750.005 to 750.095:
+(a) ORS 705.137, 705.138 and 705.139.
+(b) ORS 731.004 to 731.150, 731.162, 731.216 to 731.362,  731.382, 731.385, 731.386, 731.390, 731.398
+to 731.430, 731.428, 731.450, 731.454, 731.485, as provided in subsection (2)  of this section, ORS
+731.488, 731.504, 731.508, 731.509, 731.510, 731.511, 731.512, 731.574 to 731.620, 731.640 to  731.652,
+731.730, 731.731, 731.735, 731.737, 731.750, 731.752, 731.804, 731.808 and 731.844 to 731.992.
+(c) ORS 732.215, 732.220, 732.230,  732.245, 732.250, 732.320, 732.325 and 732.517 to 732.596, not
+including ORS 732.582, and ORS 732.650 to 732.689.
+(d) ORS 733.010 to 733.050, 733.080, 733.140 to 733.170, 733.210, 733.510 to 733.680 and  733.695
+to 733.780.
+(e) ORS 734.014 to 734.440.
+(f) ORS 742.001 to 742.009, 742.013, 742.016, 742.061, 742.065, 742.150 to 742.162 and 742.518 to
+742.542.
+(g) ORS 743.004, 743.005, 743.007, 743.008, 743.010, 743.018, 743.020, 743.022, 743.023, 743.025,
+743.028, 743.029, 743.038, 743.040, 743.044, 743.050, 743.100  to 743.109, 743.402, 743.405, 743.406,
+743.417, 743.472, 743.492, 743.495, 743.498, 743.522, 743.523, 743.524, 743.526, 743.535, 743.550, 743.650
+to 743.656, 743.680 to 743.689, 743.788 and 743.790.
+Enrolled House Bill 3134 (HB 3134-A) Page 11
+(h) ORS 743A.010, 743A.012, 743A.014, 743A.020,  743A.034, 743A.036, 743A.040, 743A.044,
+743A.048, 743A.051, 743A.052, 743A.058, 743A.060, 743A.062, 743A.063, 743A.064, 743A.065, 743A.066,
+743A.068, 743A.070, 743A.080, 743A.082, 743A.084, 743A.088, 743A.090, 743A.100,  743A.104, 743A.105,
+743A.108, 743A.110, 743A.124, 743A.140, 743A.141, 743A.148, 743A.150, 743A.160, 743A.168, 743A.169,
+743A.170, 743A.175,  743A.185, 743A.188, 743A.190, 743A.192, 743A.250, 743A.252, 743A.260, 743A.310
+and 743A.315 and section 2, chapter 70, Oregon Laws 2024.
+(i) ORS 743B.001, 743B.003 to 743B.127, 743B.128, 743B.130, 743B.195,  743B.197, 743B.200,
+743B.202, 743B.204, 743B.220, 743B.221, 743B.222,  743B.225, 743B.227, 743B.250, 743B.252, 743B.253,
+743B.254, 743B.255, 743B.256, 743B.257, 743B.258, 743B.280 to 743B.285, 743B.287, 743B.300, 743B.310,
+743B.320, 743B.323, 743B.330, 743B.340, 743B.341, 743B.342, 743B.343 to 743B.347, 743B.400, 743B.403,
+743B.407, 743B.420, 743B.423, 743B.450, 743B.451, 743B.452,  743B.453, 743B.470, 743B.475, 743B.505,
+743B.550, 743B.555, 743B.601, 743B.602 and 743B.800 and section 2,  chapter 24, Oregon Laws 2024,
+section 2, chapter 35, Oregon Laws 2024, and [ section 2 ] sections 2 and 3  of this 2025 Act.
+(j) The following provisions of ORS chapter 744:
+(A) ORS 744.052 to 744.089, 744.091 and 744.093, relating to the regulation  of insurance produc-
+ers;
+(B) ORS 744.602 to 744.665, relating to the regulation of insurance consultants; and
+(C) ORS 744.700 to 744.740, relating to the regulation of third party administrators.
+(k) ORS 746.005 to 746.140, 746.160, 746.220 to 746.370, 746.600, 746.605, 746.607, 746.608,  746.610,
+746.615, 746.625, 746.635, 746.650, 746.655, 746.660, 746.668, 746.670, 746.675, 746.680 and 746.690.
+(2) The following provisions of the  Insurance Code apply to health care service contractors ex-
+cept in the case of group practice health maintenance  organizations that are federally qualified
+pursuant to Title XIII of the Public Health Service Act:
+(a) ORS 731.485, if the group practice health maintenance organization  wholly owns and oper-
+ates an in-house drug outlet.
+(b) ORS 743A.024, unless the patient is referred by a physician, physician associate  or nurse
+practitioner associated with a group practice health maintenance organization.
+(3) For the purposes of this section, health care service contractors are insurers.
+(4) Any for-profit health care service contractor organized under the laws of any other state that
+is not governed by the insurance laws  of the other state is subject to all requirements of ORS
+chapter 732.
+(5)(a) A health  care service contractor is a domestic insurance company for the purpose of de-
+termining whether the health care service contractor is a debtor, as defined in 11 U.S.C. 109.
+(b) A health care service contractor’s  classification as a domestic insurance company under
+paragraph (a) of this subsection does not subject the health care service contractor to ORS  734.510
+to 734.710.
+(6) The Director of the Department of Consumer and Business Services  may, after notice and
+hearing, adopt reasonable rules not inconsistent with this section and ORS  750.003, 750.005, 750.025
+and 750.045 that are necessary for the proper administration of these provisions.
+SECTION 9.
+ ORS 750.333, as amended by section 5,  chapter 24, Oregon Laws 2024, and section
+23, chapter 70, Oregon Laws 2024, is amended to read:
+750.333. (1) The following provisions apply  to trusts carrying out a multiple employer welfare
+arrangement:
+(a) ORS 705.137, 705.138 and 705.139.
+(b) ORS 731.004 to 731.150, 731.162, 731.216 to 731.268, 731.296 to 731.316, 731.324, 731.328,
+731.378, 731.386, 731.390, 731.398, 731.406, 731.410, 731.414,  731.418 to 731.434, 731.454, 731.484,
+731.486, 731.488, 731.512, 731.574 to 731.620, 731.640 to 731.652,  731.804, 731.808 and 731.844 to
+731.992.
+(c) ORS 733.010 to  733.050, 733.140 to 733.170, 733.210, 733.510 to 733.680 and 733.695 to 733.780.
+(d) ORS 734.014 to 734.440.
+(e) ORS 742.001 to 742.009, 742.013, 742.016, 742.061 and 742.065.
+Enrolled House Bill 3134 (HB 3134-A) Page 12
+(f) ORS 743.004, 743.005, 743.007, 743.008, 743.010, 743.018,  743.020, 743.023, 743.028, 743.029,
+743.053, 743.405, 743.406, 743.524, 743.526, 743.535 and 743B.221.
+(g) ORS 743A.010, 743A.012, 743A.014, 743A.020,  743A.024, 743A.034, 743A.036, 743A.040,
+743A.048, 743A.051, 743A.052, 743A.058, 743A.060, 743A.062, 743A.063, 743A.064,  743A.065, 743A.066,
+743A.068, 743A.070, 743A.080, 743A.082, 743A.084, 743A.088, 743A.090, 743A.100, 743A.104, 743A.105,
+743A.108, 743A.110, 743A.124, 743A.140, 743A.141, 743A.148, 743A.150, 743A.160,  743A.168, 743A.169,
+743A.170, 743A.175,  743A.180, 743A.185, 743A.188, 743A.190, 743A.192, 743A.250, 743A.252, 743A.260
+and 743A.310 and section 2, chapter 70, Oregon Laws 2024.
+(h) ORS 743B.001, 743B.003 to 743B.127 (except 743B.125 to 743B.127), 743B.195, 743B.197,
+743B.200, 743B.202, 743B.204, 743B.220, 743B.222,  743B.225, 743B.227, 743B.250, 743B.252, 743B.253,
+743B.254, 743B.255, 743B.256, 743B.257, 743B.258, 743B.310,  743B.320, 743B.321, 743B.330, 743B.340,
+743B.341, 743B.342, 743B.343, 743B.344, 743B.345,  743B.347, 743B.400, 743B.403, 743B.407, 743B.420,
+743B.423, 743B.451, 743B.453, 743B.470, 743B.505, 743B.550, 743B.555  and 743B.601 and section 2,
+chapter 24, Oregon Laws 2024 , and section 2 of this 2025 Act .
+(i) The following provisions of ORS chapter 744:
+(A) ORS 744.052 to  744.089, 744.091 and 744.093, relating to the regulation of insurance produc-
+ers;
+(B) ORS 744.602 to 744.665, relating to the regulation of insurance consultants; and
+(C) ORS 744.700 to 744.740, relating to the regulation of third party administrators.
+(j) ORS 746.005 to 746.140, 746.160 and 746.220 to 746.370.
+(2) For the purposes of this section:
+(a) A trust carrying out a multiple employer welfare arrangement is an insurer.
+(b) References to certificates of authority are references to certificates of multiple employer
+welfare arrangement.
+(c) Contributions are premiums.
+(3) The  provision of health benefits under ORS 750.301 to 750.341 is the transaction of health
+insurance.
+(4) The Department of Consumer and Business Services may adopt rules that  are necessary to
+implement the provisions of ORS 750.301 to 750.341.
+SECTION 10.
+ ORS 750.333, as amended by section  5, chapter 24, Oregon Laws 2024, and section
+23, chapter 70, Oregon Laws 2024, and section 9 of this 2025 Act, is amended to read:
+750.333. (1) The following provisions apply  to trusts carrying out a multiple employer welfare
+arrangement:
+(a) ORS 705.137, 705.138 and 705.139.
+(b) ORS 731.004 to 731.150, 731.162, 731.216 to 731.268, 731.296 to 731.316, 731.324, 731.328,
+731.378, 731.386, 731.390, 731.398, 731.406, 731.410, 731.414,  731.418 to 731.434, 731.454, 731.484,
+731.486, 731.488, 731.512, 731.574 to 731.620, 731.640 to 731.652,  731.804, 731.808 and 731.844 to
+731.992.
+(c) ORS 733.010 to  733.050, 733.140 to 733.170, 733.210, 733.510 to 733.680 and 733.695 to 733.780.
+(d) ORS 734.014 to 734.440.
+(e) ORS 742.001 to 742.009, 742.013, 742.016, 742.061 and 742.065.
+(f) ORS 743.004, 743.005, 743.007, 743.008, 743.010, 743.018,  743.020, 743.023, 743.028, 743.029,
+743.053, 743.405, 743.406, 743.524, 743.526, 743.535 and 743B.221.
+(g) ORS 743A.010, 743A.012, 743A.014,  743A.020, 743A.024, 743A.034, 743A.036, 743A.040,
+743A.048, 743A.051, 743A.052, 743A.058, 743A.060, 743A.062, 743A.063, 743A.064, 743A.065, 743A.066,
+743A.068, 743A.070, 743A.080, 743A.082, 743A.084, 743A.088, 743A.090, 743A.100,  743A.104, 743A.105,
+743A.108, 743A.110, 743A.124, 743A.140, 743A.141, 743A.148, 743A.150, 743A.160, 743A.168, 743A.169,
+743A.170, 743A.175, 743A.180, 743A.185, 743A.188, 743A.190, 743A.192, 743A.250, 743A.252,  743A.260
+and 743A.310 and section 2, chapter 70, Oregon Laws 2024.
+(h) ORS 743B.001, 743B.003 to 743B.127 (except 743B.125 to 743B.127), 743B.195, 743B.197,
+743B.200, 743B.202, 743B.204, 743B.220, 743B.222, 743B.225,  743B.227, 743B.250, 743B.252, 743B.253,
+743B.254, 743B.255, 743B.256, 743B.257, 743B.258,  743B.310, 743B.320, 743B.321, 743B.330, 743B.340,
+Enrolled House Bill 3134 (HB 3134-A) Page 13
+743B.341, 743B.342, 743B.343, 743B.344, 743B.345, 743B.347,  743B.400, 743B.403, 743B.407, 743B.420,
+743B.423, 743B.451, 743B.453, 743B.470, 743B.505, 743B.550,  743B.555 and 743B.601 and section 2,
+chapter 24, Oregon Laws 2024, and [ section 2 ] sections 2 and 3  of this 2025 Act.
+(i) The following provisions of ORS chapter 744:
+(A) ORS 744.052 to  744.089, 744.091 and 744.093, relating to the regulation of insurance produc-
+ers;
+(B) ORS 744.602 to 744.665, relating to the regulation of insurance consultants; and
+(C) ORS 744.700 to 744.740, relating to the regulation of third party administrators.
+(j) ORS 746.005 to 746.140, 746.160 and 746.220 to 746.370.
+(2) For the purposes of this section:
+(a) A trust carrying out a multiple employer welfare arrangement is an insurer.
+(b) References to certificates of authority are references to certificates of multiple employer
+welfare arrangement.
+(c) Contributions are premiums.
+(3) The  provision of health benefits under ORS 750.301 to 750.341 is the transaction of health
+insurance.
+(4) The Department of Consumer and Business Services may adopt rules that  are necessary to
+implement the provisions of ORS 750.301 to 750.341.
+SECTION 11.
+Sections 2 and 3 of this  2025 Act are added to and made a part of the In-
+surance Code.
+SECTION 12. Section 3 of this 2025 Act and the amendments to ORS 750.055 and 750.333
+by sections 7, 8 and 10 of this 2025 Act become operative on January 1, 2027.
+Passed by House May 7, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate June 12, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 3134 (HB 3134-A) Page 14
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 293.525, ORS 705.137, ORS 705.138, ORS 705.139, ORS 731.004, ORS 731.098, ORS 731.485, ORS 731.488, ORS 731.504, ORS 731.508, ORS 731.509, ORS 731.510, ORS 731.511, ORS 731.512, ORS 731.574, ORS 732.215, ORS 732.220, ORS 732.230, ORS 732.245, ORS 732.250, ORS 732.320, ORS 732.325, ORS 732.517, ORS 732.582, ORS 732.650, ORS 733.010, ORS 734.014, ORS 734.510, ORS 742.001, ORS 743.004, ORS 743.005, ORS 743.007, ORS 743.008, ORS 743.010, ORS 743.018, ORS 743.020, ORS 743.022, ORS 743.023, ORS 743.025, ORS 743.028, ORS 743.029, ORS 743.035, ORS 743.038, ORS 743.040, ORS 743.044, ORS 743.050, ORS 743.053, ORS 743.100, ORS 743.405, ORS 743.406, ORS 743.524, ORS 743.526, ORS 743.535, ORS 743A.010, ORS 743A.012, ORS 743A.014, ORS 743A.020, ORS 743A.024, ORS 743A.034, ORS 743A.036, ORS 743A.040, ORS 743A.044, ORS 743A.048, ORS 743A.051, ORS 743A.052, ORS 743A.058, ORS 743A.060, ORS 743A.062, ORS 743A.063, ORS 743A.064, ORS 743A.065, ORS 743A.066, ORS 743A.068, ORS 743A.070, ORS 743A.080, ORS 743A.082, ORS 743A.084, ORS 743A.088, ORS 743A.090, ORS 743A.100, ORS 743A.104, ORS 743A.105, ORS 743A.108, ORS 743A.110, ORS 743A.124, ORS 743A.140, ORS 743A.141, ORS 743A.148, ORS 743A.150, ORS 743A.160, ORS 743A.168, ORS 743A.169, ORS 743A.170, ORS 743A.175, ORS 743A.180, ORS 743A.185, ORS 743A.188, ORS 743A.190, ORS 743A.192, ORS 743A.250, ORS 743A.252, ORS 743A.260, ORS 743A.310, ORS 743A.315, ORS 743B.001, ORS 743B.003, ORS 743B.005, ORS 743B.195, ORS 743B.197, ORS 743B.200, ORS 743B.202, ORS 743B.204, ORS 743B.220, ORS 743B.221, ORS 743B.225, ORS 743B.227, ORS 743B.250, ORS 743B.252, ORS 743B.253, ORS 743B.254, ORS 743B.255, ORS 743B.256, ORS 743B.257, ORS 743B.258, ORS 743B.310, ORS 743B.400, ORS 743B.403, ORS 743B.405, ORS 743B.420, ORS 743B.422, ORS 743B.423, ORS 743B.424, ORS 743B.450, ORS 743B.451, ORS 743B.452, ORS 743B.453, ORS 743B.454, ORS 743B.505, ORS 743B.550, ORS 743B.555, ORS 743B.602, ORS 744.052, ORS 744.602, ORS 744.700, ORS 746.005, ORS 750.003, ORS 750.005, ORS 750.025, ORS 750.045, ORS 750.055, ORS 750.301, ORS 750.333
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `c62a2d7eff1607ce500c9f0d3eeb7dcb48b7605d6da30728f94b534df29f5afa` (snapshot `_meta/snapshots/measure-2025r1-hb3134-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3134/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `b3061861c92e8e06bcb0b5bf0f1ffbe8db810d9263692718c95014b2d66f573c` (snapshot `_meta/snapshots/measure-2025r1-hb3134-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3134/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3134> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

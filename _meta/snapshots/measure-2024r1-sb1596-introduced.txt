@@ -1,0 +1,598 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1596
+Sponsored by Senators SOLLMAN, DEMBROW, Representative NERON,  Senator GOLDEN, Representatives
+BYNUM, NOSSE; Senators CAMPOS, FREDERICK,  GELSER BLOUIN, GORSEK, JAMA, LIEBER, MANNING
+JR, PATTERSON, PROZANSKI, TAYLOR, THATCHER, WAGNER, Representatives ANDERSEN, BOWMAN,
+CHAICHI, DEXTER, FAHEY, GOMBERG, HARTMAN, HELM, HOLVEY, HUDSON, LEVY  E, LIVELY,
+MARSH, MCLAIN, NATHANSON, NELSON, NGUYEN D, NGUYEN H,  PHAM K, REYNOLDS, RUIZ, SMITH
+G, TRAN, WALTERS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Requires a person that makes  electronic items for consumers to give on fair terms to
+people who look at, maintain or repair the items what they need to do  effective maintenance or
+make effective  repairs. Fair terms means, in part, giving independent people what they need on the
+same terms as people the maker authorizes to  make repairs. Lets the state fine people who violate
+the Act. Takes effect 91 days after session ends. (Flesch Readability Score: 61.1).
+Requires an original equipment manufacturer to make available to an owner of consumer  elec-
+tronic equipment or  an independent repair provider on fair and reasonable terms any documentation,
+tool, part or  other device or implement that the original equipment manufacturer makes available
+to an authorized service provider for  the purpose of diagnosing, maintaining or repairing consumer
+electronic equipment. Permits the Attorney General to  make an investigative demand of a man-
+ufacturer that appears to have violated the Act. Specifies  the contents of the investigative demand
+and the method of service. Subjects a manufacturer that violates  the Act to a civil penalty of not
+more than $1,000 for each day of the violation.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to a right to repair consumer electronic equipment; and prescribing an effective date.
+Whereas the Legislative Assembly finds and declares that reusing, repairing  and extending the
+product  life  of electronics is a critical component of Oregon’s 2050 Vision and Framework for
+Action, that repairing and  reusing electronics rather than throwing out electronics reduces waste,
+greenhouse gas emissions and raw material use and  that barriers to repairing electronics make ac-
+cess to technology difficult by increasing costs; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section and section 2 of this 2024 Act:
+(a) “Authorized service provider” means:
+(A) A person that has an arrangement with an original equipment manufacturer  under
+which:
+(i) The original equipment manufacturer grants a license to or  otherwise permits the
+person to use the  original equipment manufacturer’s trade name, service mark or other
+proprietary identification for the purpose of offering  the services of diagnosing, maintaining
+or repairing consumer electronic equipment; or
+(ii) The person offers the services of diagnosing, maintaining or  repairing consumer
+electronic equipment on behalf of  the original equipment manufacturer or under the original
+equipment manufacturer’s warranty; or
+(B) An original equipment manufacturer, but only in instances where the  original equip-
+ment manufacturer does not have an arrangement described in subparagraph (A) of  this
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 111
+SB 1596
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+paragraph and  offers the services of diagnosing, maintaining or repairing consumer elec-
+tronic equipment that the original equipment manufacturer makes or sells.
+(b) “Cell phone”  means a handheld product that includes a battery, microphone, speaker
+and display designed to send and receive transmissions through a cellular radiotelephone
+service.
+(c) “Consumer electronic equipment” means a product that:
+(A) Functions, in whole or in part, on the basis of digital electronics  that are embedded
+within or attached to the product;
+(B) Is tangible personal property;
+(C) Is generally used for personal, family or household purposes;
+(D) Is sold,  used or supplied in this state one year or more after the product was first
+manufactured and sold or used in this state; and
+(E) Might be, but is not  necessarily, capable of attachment to or installation in real
+property.
+(d) “Documentation” means any manual, diagram, reporting output,  service code de-
+scription, schematic diagram, security code, password or  other guidance or information that
+enables a person to diagnose, maintain or repair consumer electronic equipment.
+(e) “Fair and reasonable  terms” means terms under which an original equipment man-
+ufacturer:
+(A) Makes documentation available at no charge, except that the  original equipment
+manufacturer may charge  for the reasonable and actual costs of printing, preparing and
+sending or preparing and sending documentation that a person requests in print;
+(B) Makes tools  for diagnosing, maintaining and repairing consumer electronic equipment
+available at no charge and without impeding access to the tools or the efficient  and cost-
+effective use of the tools, except that  the original equipment manufacturer may charge for
+the reasonable and actual costs  of preparing and shipping a physical tool that a person re-
+quests; and
+(C) Makes parts available directly or through an authorized service provider to:
+(i) An independent repair provider and an owner at costs and on terms that are  equiv-
+alent to the most favorable costs and terms  at which the original equipment manufacturer
+offers the parts to an authorized service provider and that:
+(I) Account for any discount, rebate, convenient  means of delivery, means of enabling
+fully restored and updated functionality, rights of use or other incentive or  preference the
+original equipment manufacturer offers to an authorized service provider, or that impose any
+additional cost, burden or  impediment the original equipment manufacturer also imposes on
+an authorized service provider;
+(II) Do not impose a substantial  condition, obligation or restriction that is not reasonably
+necessary to enable an independent repair provider or owner  to diagnose, maintain or repair
+consumer electronic equipment that the original equipment manufacturer  makes or sells;
+and
+(III) Do not require an independent repair provider or owner to become an authorized
+service provider or  enter into an arrangement described in paragraph (a)(A) of this sub-
+section; and
+(ii) All authorized service providers that the  original equipment manufacturer permits,
+by contract or otherwise, to sell parts to independent repair providers and owners, without:
+[2]
+SB 1596
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(I) Imposing allocation limitations or advertising restrictions upon  the authorized service
+provider as a means of retaliation or as a means of  hindering the authorized service provider
+in selling parts by any means; or
+(II) Imposing  a substantial condition, obligation or restriction that is not reasonably
+necessary to enable an independent repair provider or owner  to diagnose, maintain or repair
+consumer electronic equipment that the original equipment manufacturer makes or sells.
+(f) “Independent repair provider” means a person that:
+(A) Engages in  the business of diagnosing, maintaining or repairing consumer electronic
+equipment in this state but is not an authorized service provider; and
+(B) Possesses  a valid and unexpired certification that demonstrates that the person has
+the technical capabilities and competence necessary to  safely, securely and reliably repair
+consumer electronic  equipment in accordance with widely accepted standards, such as a
+Wireless Industry Service Excellence Certification,  an A+ certification from the Computing
+Technology Industry  Association, a National Appliance Service Technician Certification or
+another certification that  an original equipment manufacturer accepts as evidence that the
+person can perform safe, secure and reliable repairs to the manufacturer’s consumer elec-
+tronic equipment.
+(g) “Original equipment manufacturer” means a person that engages in  the business of
+selling, leasing or otherwise supplying to another person new  consumer electronic equipment
+that the person makes or has made on the person’s behalf.
+(h) “Owner” means  a person that owns or leases from a lessor consumer electronic
+equipment that the person or the lessor purchased or used in this state.
+(i) “Part” means a new or used replacement component for consumer electronic  equip-
+ment that  an original equipment manufacturer makes available for the purpose of main-
+taining or repairing consumer  electronic equipment that the original equipment
+manufacturer makes or sells.
+(j) “Parts pairing” means a  manufacturer’s practice of using software to identify com-
+ponent parts through a unique identifier.
+(k) “Tool” means software, a hardware implement or an  apparatus by means of which a
+person can diagnose, maintain or  repair consumer electronic equipment including any soft-
+ware, or a mechanism that provisions, programs or pairs a new part, calibrates  functionality
+or performs another function  that is necessary to update or restore a product to a fully
+functional condition.
+(L) “Trade secret” has the meaning given that term in ORS 646.461.
+(m)(A) “Video game console” means a computing device, and  components and peripherals
+for the computing device, that is intended primarily for playing interactive video games.
+(B) “Video game  console” does not include a general purpose personal computer that has
+the capability to run video games alongside other computing functions.
+(2)(a) An original  equipment manufacturer shall make available to an owner or an inde-
+pendent repair provider on fair and reasonable terms any  documentation, tool, part or other
+device or implement  that the original equipment manufacturer makes available to an au-
+thorized service provider for the  purpose of diagnosing, maintaining, repairing or updating
+consumer electronic equipment that the original equipment  manufacturer makes or sells and
+that is sold or used in this state.
+(b) An original  equipment manufacturer shall make available to an owner or independent
+[3]
+SB 1596
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+repair provider on fair and reasonable terms any documentation, tool or part necessary to
+disable and reset any electronic security lock or other security function in  consumer elec-
+tronic equipment that  is or must be disabled or that must be reset while diagnosing, main-
+taining or repairing the consumer electronic equipment. The original equipment
+manufacturer may  make the documentation, tool or part available by means of an appropri-
+ate secure release system.
+(c) An original equipment manufacturer may not use parts pairing to:
+(A) Prevent or inhibit an independent repair provider or  owner from installing or enabl-
+ing the function  of a replacement part or component of consumer electronic equipment, in-
+cluding a replacement  part or component that the original equipment manufacturer has not
+approved;
+(B) Reduce the functionality or performance of consumer electronic equipment; or
+(C) Cause consumer electronic equipment to display unnecessary or  misleading alerts or
+warnings about unidentified parts, particularly if the alerts or warnings cannot  be dismissed.
+(3) This section does not:
+(a) Require an original equipment manufacturer to disclose a trade secret or license  in-
+tellectual property, including copyrights  or patents, to an independent service provider or
+owner except as necessary  to provide, on fair and reasonable terms, any documentation, tool,
+part or other  device or implement used to diagnose, maintain or repair consumer electronic
+equipment.
+(b) Alter the terms of any  agreement or arrangement between an original equipment
+manufacturer and an authorized service provider including, but not limited to, the authorized
+service provider’s performance or provision of warranty service or  recall repair work on the
+original equipment manufacturer’s behalf  under the agreement or arrangement, except that
+any provision in the agreement or arrangement that purports to waive, restrict or limit  the
+original equipment manufacturer’s compliance with this section is void and unenforceable.
+(c) Impose liability upon an original equipment  manufacturer for any bodily injury or
+damage to consumer electronic  equipment that an independent repair provider or owner
+causes while diagnosing, maintaining or  repairing the consumer electronic equipment using
+documentation, tools or parts the original equipment manufacturer made available on  fair
+and reasonable terms to an authorized  service provider, independent repair provider or
+owner before the date of the  diagnosis, maintenance or repair, except that an original
+equipment manufacturer remains liable to the extent that  the laws of this state provide for
+strict liability for defects in the  design or manufacture of the consumer electronic equip-
+ment.
+(d) Require an original equipment manufacturer to make available special documentation,
+tools and parts that would disable or  override, without an owner’s authorization, anti-theft
+security measures that the owner sets for consumer electronic equipment.
+(e) Apply to:
+(A) A person that is engaged in the business of manufacturing or assembling new  motor
+vehicles or  in the business of selling or leasing new motor vehicles and offering the service
+of diagnosing, maintaining or repairing motor vehicles or motor vehicle  engines under the
+terms of a franchise agreement, or to the person’s products or services;
+(B) A product or equipment that:
+(i) Has never been available for retail sale to a consumer;
+[4]
+SB 1596
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(ii) Is a medical device,  as defined in the federal Food, Drug, and Cosmetic Act, 21 U.S.C.
+301 et seq., or a digital electronic  product, software, control equipment or related products
+or services manufactured for  or provided for use in diagnosis or monitoring in an acute care
+hospital, a  long term care facility such as a nursing home or skilled nursing facility, a
+physician’s office, an urgent care center, an outpatient  clinic, a home setting where health
+care is  provided by or at the direction of a licensed health care provider, an emergency
+medical service facility or  at a site where health care is routinely delivered on premises that
+are not otherwise a health care facility, such as a medical clinic within a school;
+(iii) Provides heat, ventilation or air conditioning or recharges refrigerant gases;
+(iv) Is a system, mechanism or series of mechanisms that  generates, stores or combines
+generation and storage of electrical energy from solar radiation;
+(v) Is a video game console; or
+(vi) Is a  system that stores electrical energy for a period of time and transmits the en-
+ergy after storage, that is interconnected with a transmission or  distribution system and is
+approved by an electric utility or located on a customer’s side of an electric utility meter in
+accordance with an applicable utility tariff or interconnection agreement;
+(C) A vehicle, an engine, equipment or a power source,  or a person that engages directly
+in, or  acts for or is subject to the control of another person that engages directly in, man-
+ufacturing, assembling, distributing, selling, importing for  resale, maintaining, servicing or
+repairing a vehicle, an engine, equipment or a power source with any  of the following char-
+acteristics:
+(i) An internal combustion engine, including the engine’s fuel system or  other power
+sources such as an electric battery or fuel cell, that is not  used in a motor vehicle or a ve-
+hicle used solely for competition or that is  not subject to standards of performance for sta-
+tionary sources or emission standards  for new motor vehicles or new motor vehicle engines
+under the federal Clean Air Act, 42 U.S.C. 7411 and 7521 et seq.;
+(ii) A vehicle or equipment that  is not a motor vehicle or a vehicle used solely for com-
+petition and is powered by an engine described in sub-subparagraph (i) of  this subparagraph,
+together with any tools, technology, attachments, accessories, components or repair parts
+for the vehicle or engine;
+(iii) An internal combustion engine or another power source, including an electric battery
+or fuel cell, that is not used in a motor vehicle, a vehicle used solely  for competition or a
+vehicle described in sub-subparagraph (ii) of this subparagraph, or equipment that is powered
+by the internal combustion engine or  power source, together with tools, technology, attach-
+ments, accessories, components or repair parts for the internal  combustion engine or the
+equipment; or
+(iv) An engine or other power source,  including an electric battery or fuel cell, that is
+used for propulsion or power generation in a maritime environment or waterway,  together
+with any tools, technology, attachments, accessories, components or repair parts for  the
+engine or power source; or
+(D) A manufacturer, distributor or dealer of  any off-road equipment and tools, technol-
+ogy, attachments, accessories,  components and repair parts for off-road equipment including,
+but not limited  to, farm and utility tractors, farm implements and machinery, equipment for
+forestry, industry, utilities, construction, mining or maintaining a yard, garden or  turf,
+outdoor power equipment and portable generators,  vehicles used in marine environments, for
+[5]
+SB 1596
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+sports, recreation and racing, all-terrain vehicles, power tools and stand-alone  or integrated
+mobile or stationary internal combustion engines  or power sources such as generator sets
+and battery or fuel cell power.
+SECTION 2.
+(1) As used in this section:
+(a) “Certification entity” means a person that engages  in evaluating and certifying the
+technical capabilities and competence of independent repair  providers in accordance with
+standards that the person adopts or that an original equipment manufacturer specifies.
+(b) “Repair certification”  means evidence that an independent repair provider has the
+technical and financial capability and competence necessary to safely, securely and reliably
+repair digital electronic equipment  in accordance with standards that a certification entity
+specifies.
+(2) Before repairing consumer electronic  equipment, an authorized service provider and
+an independent repair provider shall:
+(a) Post  at the authorized service provider’s or independent repair provider’s place of
+business or on the authorized service provider’s or independent repair  provider’s website, or
+provide directly to customers, a notice that:
+(A) Specifies the steps the authorized  service provider or independent repair provider
+takes to ensure the customer’s privacy and the security of consumer  electronic equipment
+the customer entrusts to the authorized service provider or independent repair provider;
+(B) Recommends steps the consumer should take to ensure privacy  and security, in-
+cluding but not limited to:
+(i) Backing up  data from the consumer electronic equipment onto another device and
+permanently erasing the data from the  consumer electronic equipment the customer will
+bring in for repair;
+(ii) Sharing only  those passwords or access to functions that are necessary to effect the
+repair; and
+(iii) Logging out of applications and closing websites and deleting caches or records of
+application or website use that have  sensitive information or that otherwise pose a security
+risk, such as financial applications or websites, electronic mail or  messaging or social media
+accounts; and
+(C) Informs the  customer about the customer’s rights to privacy under the laws of this
+state.
+(b) Display all of the authorized service provider’s  or independent repair provider’s repair
+certifications.
+(3) Before repairing consumer electronic equipment, an independent repair provider shall
+disclose to each customer:
+(a) That the independent repair provider is not an authorized service provider; and
+(b) Whether replacement parts the independent repair provider  incorporates into repairs
+are used replacement parts or are replacement parts provided  by suppliers other than the
+original equipment manufacturer of the consumer electronic equipment.
+SECTION 3.
+(1) If the Attorney General determines that a manufacturer  has or controls
+any information, documents, physical evidence or other material  that is relevant to an in-
+vestigation of  a violation of section 1 of this 2024 Act, or that could lead to a discovery of
+relevant information in an investigation of a violation of section 1 of  this 2024 Act, the At-
+torney General may execute and cause an investigative  demand to be served upon the man-
+[6]
+SB 1596
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+ufacturer. The investigative demand may require that the manufacturer:
+(a) Appear and testify under oath at the  time and place stated in the investigative de-
+mand;
+(b) Answer written interrogatories; and
+(c) Produce relevant information, documents, physical evidence  or other material for
+examination at the time and place stated in the investigative demand.
+(2) An investigative demand under this section must be  served as provided in ORS 646.622
+and may be enforced as provided in ORS 646.626. Within the earlier of  the return date spec-
+ified in the investigative demand or 20 days after the date on which the  investigative demand
+was served, a manufacturer may petition a circuit court of this  state to extend the return
+date or modify  or set aside the investigative demand. The petition must state good cause,
+including any privileged material.
+(3) If the Attorney General finds that  a manufacturer has violated section 1 of this 2024
+Act, the Attorney General may bring a civil action in a circuit court of this state to:
+(a) Impose a civil penalty of  not more than $1,000 for each day in which the violation
+continues; or
+(b) Obtain an injunction to restrain the violation.
+SECTION 4.
+(1) Except as provided  in subsection (2) of this section, section 1 of this 2024
+Act applies to consumer electronic equipment that is sold or is in  use on or after the effec-
+tive date of this 2024 Act.
+(2) Section 1 of this 2024 Act does not apply to:
+(a) A cell phone that was manufactured for the first time, and first sold  or used in this
+state, before July 1, 2021; or
+(b) Consumer electronic equipment other than a  cell phone that was manufactured for
+the first time, and first sold or used in this state, before July 1, 2015.
+SECTION 5.
+Section 3  of this 2024 Act applies to violations of section 1 of this 2024 Act
+that occur on or after July 1, 2026.
+SECTION 6. This 2024 Act takes effect on the 91st day after the date on which the 2024
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[7]

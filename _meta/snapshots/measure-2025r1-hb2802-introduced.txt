@@ -1,0 +1,65 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2802
+Introduced and printed pursuant to  House Rule 12.00. Presession filed (at the request of Governor Tina Kotek for
+Department of Consumer and Business Services)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would change when a lump sum payment for permanent partial  disability has
+to be made. (Flesch Readability Score: 65.1).
+Requires an insurer to make a lump sum payment  of a permanent partial disability award if the
+worker waives reconsideration of the notice of closure or the award  has become final by operation
+of law.
+A BILL FOR AN ACT
+Relating to lump sum payments of permanent partial disability awards; amending ORS 656.230.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 656.230 is amended to read:
+656.230. (1)(a) When a worker  has been awarded compensation for permanent partial disability,
+and the worker requests  payment of all or part of the award in a lump sum payment, the insurer
+or self-insured employer  shall make the payment requested [ unless the ] if:
+[(a)] (A) The  worker has [ not] waived the  right to [ appeal the adequacy of the award ] request
+reconsideration of the notice of closure ; or
+[(b)] (B) The  award has [ not] become final by operation of law[ ;].
+(b) The insurer or self-insured employer is  not required to make the payment requested
+if:
+[(c)] (A) Payment of compensation  has been stayed pending a request for hearing or review un-
+der ORS 656.313; [ or]
+[(d)] (B) The  worker is enrolled and actively engaged in training according to rules  adopted
+pursuant to ORS 656.340 and 656.726[ .]; or
+(C) The insurer or self-insured employer timely requests  reconsideration of the notice
+of closure under ORS 656.268 (5)(e).
+(2) Any unpaid balance of the award that is  not paid in a lump sum payment shall be paid
+pursuant to ORS 656.216.
+(3) In all cases where the total amount of  the award for permanent partial disability  does not
+exceed $6,000, the  insurer or the self-insured employer shall pay [ all] the total amount of the award
+to the worker in a lump sum payment.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 394

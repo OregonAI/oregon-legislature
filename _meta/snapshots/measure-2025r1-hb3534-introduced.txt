@@ -1,0 +1,180 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3534
+Sponsored by Representative WRIGHT
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act adds certain schools and hands-on programs to the tuition program  for veterans
+and their children. (Flesch Readability Score: 65.1).
+Provides for a waiver of tuition, fees and the cost of textbooks  for veterans and the children
+of veterans  from eligible post-secondary institutions. Includes community colleges and apprenticeship
+programs that  are partnered with community colleges as eligible post-secondary institutions. Pro-
+hibits the amount of tuition that is waived for qualified students from being reduced by  the amount
+of specified student aid received by the qualified students.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to tuition waivers; amending ORS 350.285; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 350.285 is amended to read:
+350.285. (1) As used in this section:
+(a) “Child” means  a child, adopted child or stepchild of either a service member or a Purple
+Heart recipient.
+(b) “Eligible post-secondary institution” means:
+(A) A public university listed in ORS 352.002 ;
+(B) A community college operated under ORS chapter 341;
+(C) An apprenticeship program that is registered with the State Apprenticeship and
+Training Council and  is partnered with a community college operated under ORS chapter
+341; and
+[(B)] (D) The Oregon Health and Science University.
+(c) “Purple Heart recipient” means a person, alive or deceased[ , who ]:
+(A) Who was relieved or discharged from service in the Armed  Forces of the United States with
+either an honorable discharge or a general discharge under honorable conditions; [ and]
+(B) Who was awarded the Purple Heart in 2001 or thereafter for wounds received in combat[ .];
+and
+(C) Whose  home of record at the time of entry into active duty with the Armed Forces
+of the United States was Oregon, as indicated on a federal DD Form 214 or 215.
+(d) “Qualified student” means a child, a spouse or an unremarried  surviving spouse of a service
+member or a child of a Purple Heart recipient.
+(e) “Service member” means a person who:
+(A) As a member of the Armed Forces of the United States, died on active duty;
+(B) As a member of the Armed Forces of the United States, died as  a result of a military service
+connected disability; or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4001
+HB 3534
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(C) Is [ 100] at least 80  percent disabled as the result of a military service connected  disability,
+as certified by the United States Department of Veterans  Affairs or any branch of the Armed Forces
+of the United States.
+(2) Subject to subsections (3) to (7) of this section, an  eligible post-secondary institution shall
+waive tuition , fees and the  cost of textbooks  for a qualified student for courses that may lead to
+an apprenticeship certificate, an associate degree,  a baccalaureate degree or a  master’s degree.
+A qualified student who received a tuition waiver  for an apprenticeship certificate or an as-
+sociate degree may also qualify for a tuition waiver for  a baccalaureate degree.  A qualified
+student who received a tuition waiver for a baccalaureate degree may also qualify  for a tuition
+waiver for a master’s degree.
+(3)(a) The maximum waiver granted under this section shall be as follows:
+(A) For apprenticeship courses and certificates and associate degrees,  the total number
+of credit hours that equals two years of full-time attendance at an eligible  post-secondary
+institution if the qualified student has opted not to accept a grant  from the Oregon Promise
+program described in ORS 341.522, if the qualified student is eligible for the grant.
+[(A)] (B)  For a baccalaureate  degree, the total number of credit hours that equals four years
+of full-time attendance at an eligible post-secondary institution  if  the baccalaureate degree is
+completed within 10 semesters or 15 terms after initiation of the waiver .
+[(B)] (C) For a master’s degree, the total number of credit hours that equals two years of full-
+time attendance at an  eligible post-secondary institution  if the master’s degree is completed
+within six semesters or nine terms after initiation of the waiver .
+(b) Notwithstanding paragraph (a) of this subsection, a  waiver may not exceed the total number
+of credit hours  the qualified student needs to graduate with an apprenticeship certificate, an as-
+sociate degree, a baccalaureate degree or a master’s degree.
+(4) A waiver may be granted under this  section only for credit hours for courses that are offered
+by an eligible post-secondary institution and are available for enrollment.
+(5) A qualified student may receive a waiver under this section if the student:
+(a) At the time of application  for a waiver, is considered a resident of this state for the purpose
+of determining tuition to be paid at an eligible post-secondary institution; and
+(b) Has been admitted to an eligible post-secondary institution for an apprenticeship program
+registered with the State Apprenticeship  and Training Council, an associate degree program,
+a baccalaureate degree program or [ has been admitted to ] a  master’s degree program [ at an eligible
+post-secondary institution ].
+(6)(a) A child who applies for a waiver under this section must be [ 23] 25 years of age or
+younger at the time the child applies for a waiver.
+(b) Notwithstanding paragraph (a) of this subsection, a child who  is older than [ 23] 25 years of
+age is eligible for a waiver for a master’s degree if the child:
+(A) Applied for and received a waiver for a baccalaureate degree  when the child was [ 23] 25
+years of age or younger; and
+(B) Applied for a  waiver for a master’s degree within 12 months of receiving a baccalaureate
+degree.
+(7)(a) The amount of tuition waived under this section may  not be reduced by the amount of any
+federal aid scholarships or grants, awards from  the Oregon Opportunity Grant program established
+under ORS 348.205, or any other aid from the eligible post-secondary institution, received by the
+qualified student.
+[2]
+HB 3534
+1
+2
+3
+4
+5
+6
+(b) The  amount of tuition waived under this section may not be reduced by the amount of any
+Survivors’ and Dependents’ Educational  Assistance under 38 U.S.C. chapter 35 paid to a qualified
+student.
+SECTION 2.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

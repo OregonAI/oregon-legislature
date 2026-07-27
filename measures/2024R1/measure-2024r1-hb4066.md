@@ -1,0 +1,411 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2024r1-hb4066
+title: 'HB 4066 (2024R1): Requires insurance coverage for motor vehicles to be made available as part
+  of a peer-to-peer car sharing arrangement.'
+doc_type: dataset_doc
+citation: 2024 Regular Session House Bill 4066
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4066/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 48b0add6b72f7067ab68ae92d87b05176824ac1260512e8e0568ad368d78316a
+snapshot_id: measure-2024r1-hb4066-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 646A.140
+  - ORS 742.500
+  - ORS 742.518
+  - ORS 742.585
+  - ORS 742.590
+  - ORS 742.595
+  - ORS 742.600
+  - ORS 803.219
+  - ORS 806.070
+  - ORS 807.020
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2024r1
+- hb
+session_key: 2024R1
+measure_prefix: HB
+measure_number: 4066
+prefix_meaning: House Bill
+catch_line: Requires insurance coverage for motor vehicles to be made available as part of a peer-to-peer
+  car sharing arrangement.
+minority_catch_line: null
+measure_summary: "\tDigest: Requires insurance for cars shared for money and that some information be\
+  \ given to the shared car owner and the shared car driver. (Flesch Readability Score: 61.4). \n\tRequires\
+  \ insurance coverage for motor vehicles to be made available as part of a peer-to-peer car sharing arrangement.\
+  \ Specifies coverage requirements and apportions responsibility for coverage among the car sharing program\
+  \ operator, the shared vehicle owner and the shared vehicle driver. \n\tRequires certain disclosures\
+  \ to the shared vehicle owner and shared vehicle driver in a car sharing program agreement. Requires\
+  \ the shared vehicle owner to address recall notices for defects that affect the safety of a shared\
+  \ vehicle."
+relating_to: Relating to peer-to-peer car sharing arrangements.
+relating_to_full: Relating to peer-to-peer car sharing arrangements; creating new provisions; and repealing
+  ORS 742.585, 742.590, 742.595 and 742.600.
+at_the_request_of: null
+lc_number: 73
+measure_created_date: '2024-01-12T19:17:20'
+measure_modified_date: '2024-02-05T12:19:15'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 20385
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 646A.140
+  - ORS 742.500
+  - ORS 742.518
+  - ORS 742.585
+  - ORS 742.590
+  - ORS 742.595
+  - ORS 742.600
+  - ORS 803.219
+  - ORS 806.070
+  - ORS 807.020
+  from_relating_to_full:
+  - ORS 742.585
+  - ORS 742.590
+  - ORS 742.595
+  - ORS 742.600
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4066>.
+
+# HB 4066 — 2024 Regular Session (2024R1)
+
+## At a glance
+
+- **Measure:** House Bill 4066, 2024 Regular Session (2024R1)
+- **LC number:** 73
+- **Created:** 2024-01-12T19:17:20
+- **Metadata last modified (upstream):** 2024-02-05T12:19:15
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 20385 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4066/Introduced>.
+
+## Summary
+
+**Catchline:** Requires insurance coverage for motor vehicles to be made available as part of a peer-to-peer car sharing arrangement.
+
+**Relating to:** Relating to peer-to-peer car sharing arrangements.
+
+Digest: Requires insurance for cars shared for money and that some information be given to the shared car owner and the shared car driver. (Flesch Readability Score: 61.4). 
+ Requires insurance coverage for motor vehicles to be made available as part of a peer-to-peer car sharing arrangement. Specifies coverage requirements and apportions responsibility for coverage among the car sharing program operator, the shared vehicle owner and the shared vehicle driver. 
+ Requires certain disclosures to the shared vehicle owner and shared vehicle driver in a car sharing program agreement. Requires the shared vehicle owner to address recall notices for defects that affect the safety of a shared vehicle.
+
+**RelatingToFull (verbatim upstream field):** Relating to peer-to-peer car sharing arrangements; creating new provisions; and repealing ORS 742.585, 742.590, 742.595 and 742.600.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4066
+Sponsored by Representative OWENS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Requires insurance  for cars shared for money and that some information be given to the
+shared car owner and the shared car driver. (Flesch Readability Score: 61.4).
+Requires insurance coverage for motor vehicles  to be made available as part of a peer-to-peer
+car sharing  arrangement. Specifies coverage requirements and apportions responsibility for cover-
+age among  the car sharing program operator, the shared vehicle owner and the shared vehicle
+driver.
+Requires certain disclosures to the shared vehicle owner and shared vehicle driver in  a car
+sharing program agreement. Requires the shared vehicle owner to address  recall notices for defects
+that affect the safety of a shared vehicle.
+A BILL FOR AN ACT
+Relating to peer-to-peer car sharing arrangements; creating new provisions;  and repealing ORS
+742.585, 742.590, 742.595 and 742.600.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 to 15 of this 2024 Act are added to and made a part of ORS
+chapter 742.
+SECTION 2. As used in sections 2 to 15 of this 2024 Act:
+(1)(a) “Car sharing program  operator” means a person that owns and engages in the
+business of operating a peer-to-peer car sharing program for use by residents of this state.
+(b) “Car sharing program operator” does not include  a rental company, as defined in ORS
+646A.140 or 744.850, or a car rental company, as defined in ORS 803.219.
+(2) “Delivery period” means the time  during which a shared vehicle is being delivered to
+a location where the start time specified in the program agreement will commence.
+(3)(a) “Peer-to-peer car sharing” means authorizing, for consideration, an  individual
+other than the owner of a shared vehicle to use the shared vehicle.
+(b) “Peer-to-peer car sharing” does not  include leasing a motor vehicle or renting a mo-
+tor vehicle from a rental company, as defined in  ORS 646A.140 or 744.850, or from a car
+rental company, as defined in ORS 803.219.
+(4)(a) “Peer-to-peer car  sharing program” means software or another method by which,
+for consideration, an owner of a shared vehicle can communicate with  and authorize another
+person to use the shared vehicle.
+(b) “Peer-to-peer car sharing program” does not include business  in which a rental
+company, as defined in ORS 646A.140  or 744.850, or a car rental company, as defined in ORS
+803.219, engages.
+(5)(a) “Program agreement” means the terms and  conditions that set forth the duties
+of a shared vehicle owner  and a shared vehicle driver with respect to use of a shared vehicle
+by means of a peer-to-peer car sharing program.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 73
+(b) “Program agreement” does not include a rental  agreement, as defined in ORS
+646A.140 or 744.850.
+(6)(a) “Shared  vehicle” means a motor vehicle that a shared vehicle owner makes avail-
+able for  peer-to-peer car sharing under the terms and conditions of a program agreement
+and by means of a peer-to-peer car sharing program.
+(b) “Shared vehicle” does not include a motor vehicle that a car rental company, as de-
+fined in ORS 803.219, rents or makes available for rent.
+(7)(a) “Shared vehicle driver” means  an individual who has authorization from a shared
+vehicle owner to drive a shared vehicle under the terms and  conditions of a program agree-
+ment.
+(b) “Shared vehicle driver” does not include an  authorized driver or renter, both as de-
+fined in ORS 646A.140.
+(8)(a) “Shared  vehicle owner” means the registered owner of a shared vehicle who makes
+the shared vehicle available for peer-to-peer car  sharing under the terms and conditions of
+a program agreement and communicates the availability of the shared vehicle by  means of
+a peer-to-peer car sharing program, or a  designee of the registered owner that the registered
+owner authorizes to make the shared vehicle available for sharing as described  in this sub-
+section.
+(b) “Shared vehicle owner” does not  include a rental company, as defined in ORS 646A.140
+or 744.850, or a car rental company, as defined in ORS 803.219.
+(9) “Sharing period” means a period of time that:
+(a) Begins when a  delivery period begins or, in the absence of a delivery period, at the
+start time; and
+(b) Ends at the termination time.
+(10) “Start time” means the time at which  a shared vehicle becomes subject to the con-
+trol of a  shared vehicle driver, either at the time specified for a reservation of the shared
+vehicle in the records  of a car sharing program operator or after the time specified in the
+reservation.
+(11) “Termination time” means  the time at which the earliest of the following events
+occurs:
+(a) The period during which a shared vehicle driver is authorized to  use a shared vehicle
+under the terms and conditions of a program  agreement expires, if the shared vehicle driver
+delivers the shared vehicle to a location specified in a car sharing program agreement;
+(b) A shared  vehicle driver delivers a shared vehicle to a location other than the location
+originally specified in the program agreement if through the peer-to-peer car sharing pro-
+gram the shared vehicle owner and the shared vehicle driver agree upon the alternative lo-
+cation and incorporate the agreement into the program agreement; or
+(c) The shared vehicle owner, or a designee of the shared  vehicle owner, takes possession
+and control of the shared vehicle.
+SECTION 3.
+(1)(a) Except as provided in subsection (2) of this section, a car sharing
+program operator shall assume a shared vehicle owner’s liability  that arises during a sharing
+period if the liability involves:
+(A) Bodily injury to another person;
+(B) Damage to the property of another person;
+(C) Uninsured motorist coverage, as defined in ORS 742.500; or
+(D) Personal injury protection losses.
+(b) A program agreement between a shared vehicle owner and a car  sharing program
+operator governs the limits of liability that the  car sharing program operator assumes, ex-
+cept that the limits of  liability may not be less than the minimum required payments set
+forth in ORS 806.070.
+(2) The duties of a car sharing program operator under subsection (1)(a)  of this section
+do not apply if a shared vehicle owner:
+(a) Makes an intentional or fraudulent misrepresentation or omission  with respect to a
+material provision of a program agreement or to a  car sharing program operator before a
+sharing period in which a loss occurs; or
+(b) Acts in concert with a shared vehicle driver in failing to return  a shared vehicle in
+accordance with the provisions of the program agreement.
+(3)(a) A car sharing program operator shall ensure that a motor vehicle liability  insur-
+ance policy covers the shared vehicle owner and shared vehicle driver during  each sharing
+period and that during the sharing period the motor vehicle liability insurance policy:
+(A) Provides the  coverages that the financial responsibility provisions of the Oregon Ve-
+hicle Code require, including the minimum required payments set forth in ORS 806.070; and
+(B) Recognizes that the motor vehicle that the motor vehicle liability insurance policy
+covers is a shared vehicle that is  available to and used by persons other than the shared
+vehicle owner by means of peer-to-peer car sharing or does  not exclude a shared vehicle
+driver’s use of the shared vehicle.
+(b) A car sharing program operator  meets the requirements set forth in paragraph (a)
+of this subsection if:
+(A) A shared vehicle owner or a shared vehicle driver maintains  a motor vehicle liability
+insurance policy with the required coverage;
+(B) The car sharing program operator maintains a motor vehicle liability insurance policy
+with the required coverage; or
+(C) The motor vehicle  liability insurance policies that two or more of the persons de-
+scribed in subparagraphs (A) and (B) of this paragraph maintain combine  to provide the re-
+quired coverage.
+(c) The insurance described in paragraph (b) of  this subsection that satisfies the re-
+quirements specified in paragraph (a) of this  subsection is primary during each sharing pe-
+riod. If a claim occurs in another state that has minimum  financial responsibility limits
+higher than the limits specified in ORS 806.070, during each sharing period  the coverage in
+the insurance described in paragraph (b) of  this subsection must satisfy the difference be-
+tween the minimum coverage amount in the  state in which the claim occurs and the mini-
+mum coverage amount specified in ORS 806.070, up to the applicable policy limits.
+(4)(a) A car sharing  program operator that under subsection (3) of this section provides
+coverage under a motor vehicle liability insurance policy, or an insurer  that issues a motor
+vehicle liability insurance policy required under subsection (3) of this section, shall assume
+primary liability for a claim if:
+(A) A dispute exists as to  who controlled the shared vehicle at the time of a loss and the
+car sharing program operator does not have available, did not retain or fails to provide the
+information required under section 7 of this 2024 Act; or
+(B) A dispute exists as to whether the shared vehicle was returned  to a location specified
+in the program agreement or to an alternative location upon which the shared vehicle owner
+and the shared vehicle driver agreed through the peer-to-peer car sharing program.
+(b) Except under the circumstances described  in subsection (2) of this section, the car
+sharing program operator shall provide coverage  under the car sharing program operator’s
+motor vehicle liability insurance policy beginning with the first dollar of a claim, and shall
+defend against the claim, if the shared vehicle owner’s or the shared  vehicle driver’s motor
+vehicle liability insurance policy has lapsed or does not  provide the coverage required under
+subsection (3) of this section.
+(5) Coverage under a  motor vehicle liability insurance policy that a car sharing program
+operator provides may not  require as a condition of coverage that another insurer first deny
+a claim.
+SECTION 4.
+Sections 2 to 15 of this 2024 Act do not:
+(1) Limit a car sharing program operator’s  liability for the car sharing program
+operator’s own act or omission with respect to the use of a  shared vehicle through a pro-
+gram agreement if the act or omission results in an injury to another person; or
+(2) Limit a car sharing program operator’s  ability to seek by contract indemnification
+from a shared vehicle owner or shared vehicle driver for economic losses that the  car shar-
+ing program operator suffers as a result of a shared vehicle owner’s  or shared vehicle
+driver’s breach of a program agreement.
+SECTION 5. At the time  a vehicle owner registers as a shared vehicle owner on a peer-
+to-peer car sharing program  and before the owner makes the owner’s vehicle available for
+use as a shared vehicle, the car sharing program operator shall  notify the owner that use
+by means of peer-to-peer car sharing of  a shared vehicle against which another person has
+a lien, including use without coverage for  physical damage to the shared vehicle, might vio-
+late the terms of the shared vehicle owner’s contract with the lienholder.
+SECTION 6. (1) An authorized  insurer that issues motor vehicle liability insurance in this
+state may exclude any and all coverage under, and the duty to  defend or indemnify any claim
+made under,  a shared vehicle owner’s motor vehicle liability insurance policy including, but
+not limited to:
+(a) Liability coverage for bodily injury and property damage;
+(b) Personal injury protection coverage under ORS 742.518 to 742.542;
+(c) Uninsured and underinsured motorist coverage under ORS 742.500 to 742.506;
+(d) Medical payments coverage;
+(e) Comprehensive physical damage coverage; and
+(f) Collision physical damage coverage.
+(2) This section does not limit, invalidate or restrict:
+(a) An exclusion, including an exclusion  of coverage for motor vehicles made available for
+rent, sharing or hire or for a business use, in any  motor vehicle liability insurance policy,
+including an existing motor vehicle liability insurance policy or a  motor vehicle liability in-
+surance policy approved for use in this state; or
+(b) An insurer’s ability to underwrite, cancel or decline to renew any insurance policy.
+SECTION 7.
+A car sharing program operator shall collect and verify records of each use
+of a shared vehicle during a sharing period and shall  retain the records for at least two
+years. The car sharing program operator shall  make the records available to the shared ve-
+hicle owner and to insurers that issued motor vehicle  liability insurance policies to the
+shared vehicle owner or the shared vehicle driver for the purposes of investigating, adjusting,
+negotiating, settling or litigating a claim. The records must include, at a minimum:
+(1) The times in which a shared vehicle driver used the shared vehicle;
+(2) The locations at which the shared vehicle driver picked up and dropped off the shared
+vehicle;
+(3) The fees that the shared vehicle driver paid; and
+(4) The revenue that the shared vehicle owner received from use of the shared vehicle.
+SECTION 8.
+A car sharing program operator and a shared vehicle driver are exempt from
+vicarious liability under a law of this state or a local law that imposes liability solely on the
+basis of vehicle ownership to the same  extent provided for owners and affiliates under 49
+U.S.C. 30106.
+SECTION 9. An insurer that defends against or indemnifies a claim against a shared ve-
+hicle owner or shared vehicle driver under a motor vehicle liability  insurance policy that
+excludes coverage for the claim may seek contribution against the insurer that issued a
+motor vehicle liability insurance policy to a car sharing program operator if the  claim is
+against the shared vehicle owner or the shared vehicle driver for a loss or  injury that occurs
+during a sharing period.
+SECTION 10.
+(1) Notwithstanding any other law to the contrary, a car sharing  program
+operator has an insurable interest in a shared vehicle during a sharing period.
+(2) A car sharing program  operator may have and maintain as a named insured one or
+more motor vehicle liability insurance policies with coverage for:
+(a) Liabilities that  the car sharing program operator assumes under a program agree-
+ment;
+(b) Any liability of a shared vehicle owner or shared vehicle driver; or
+(c) Damage or loss with respect to a shared vehicle.
+(3) This section does not create liability for a  car sharing program operator to maintain
+the coverage described in section 3 of this 2024 Act.
+SECTION 11.
+A program agreement must  disclose to a shared vehicle owner and a shared
+vehicle driver:
+(1) Whether a car sharing program operator has  any right to seek indemnification from
+the shared  vehicle owner or shared vehicle driver for economic loss that the car sharing
+program operator suffers as a result  of a breach of the terms and conditions of the program
+agreement;
+(2) That a motor vehicle liability insurance policy an insurer issues to a  shared vehicle
+owner for the shared  vehicle or to a shared vehicle driver does not provide a defense against
+or indemnify a claim the car sharing program operator may assert;
+(3) That the insurance coverage a car  sharing program operator has for shared vehicles
+is in effect only  during sharing periods and that the shared vehicle owner and shared vehicle
+driver may not have insurance coverage for any use of the shared vehicle after the  termi-
+nation time;
+(4) The daily fees for use of the shared vehicle and, if  applicable, the costs of any insur-
+ance or protection  package that the shared vehicle owner or shared vehicle driver has
+elected to receive;
+(5) That the shared vehicle owner’s motor vehicle liability insurance  policy might not
+cover use of the shared vehicle by means of peer-to-peer car sharing;
+(6) An emergency telephone number the shared vehicle owner or  shared vehicle driver
+can use for roadside assistance or customer service; and
+(7) Any conditions under which a  shared vehicle driver must maintain a motor vehicle
+liability insurance policy with specified primary coverage limits  in order to participate in
+peer-to-peer car sharing.
+SECTION 12.
+(1) A car sharing program operator may not enter into a program  agree-
+ment with an individual unless the individual is 18 years of age or older and:
+(a) Has a driver license issued in this state  that authorizes the individual to operate ve-
+hicles in the  same class as the shared vehicle the individual will operate as a shared vehicle
+driver;
+(b) Has a driver license issued in another state  or nation that authorizes the individual
+to operate vehicles in the same class as the shared vehicle that the individual will operate
+as a shared vehicle driver; or
+(c) Has a specific authorization under ORS 807.020 to drive vehicles of the  same class as
+the shared vehicle the individual will operate as a shared vehicle driver.
+(2) A car sharing program operator shall keep a record  of the name, address, driver li-
+cense number and jurisdiction that issued the driver  license of the shared vehicle driver and
+of any other person who operates the shared vehicle.
+SECTION 13.
+A car sharing  program operator has sole responsibility for equipment the
+car sharing program operator installed in a shared vehicle  and uses to facilitate or monitor
+the peer-to-peer car sharing transaction and shall agree to indemnify and hold harmless  the
+shared vehicle owner for damage to or theft of the equipment  that the shared vehicle owner
+did not cause. A car sharing program operator may  require indemnity from a shared vehicle
+driver for damage to or loss of the equipment that occurs during the sharing period.
+SECTION 14. (1) At the time a vehicle owner agrees with  a car sharing program operator
+to make the owner’s vehicle available for use as a shared  vehicle by means of a peer-to-peer
+car sharing program and again before the vehicle owner makes the  vehicle available for use
+as a shared vehicle, a car sharing program operator shall:
+(a) Verify that the shared vehicle does not have any defects that were identified  in a
+safety recall and not repaired; and
+(b) Notify the shared vehicle owner of the requirements set forth  in subsection (2) of this
+section.
+(2) An owner that receives actual notice of  a safety recall for the owner’s motor vehicle:
+(a) May not make the motor vehicle available for peer-to-peer car sharing until the defect
+identified in the safety recall is repaired.
+(b) Shall, as  soon as practicable, remove the motor vehicle from peer-to-peer car sharing
+until the defect is repaired, if the motor vehicle is a shared vehicle.
+(c) Shall notify the car sharing program operator of the recall as soon as practicable  af-
+ter receiving notice of the safety recall so that  the shared vehicle owner may have the defect
+repaired, if the motor vehicle is a shared vehicle that is in the possession of a shared vehicle
+driver.
+SECTION 15.
+The Director  of the Department of Consumer and Business Services may
+adopt rules necessary to carry out the provisions of sections 2 to 15 of this 2024 Act.
+SECTION 16. ORS 742.585, 742.590, 742.595 and 742.600 are repealed.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 742.585, ORS 742.590, ORS 742.595, ORS 742.600
+- From bill text (Introduced version): ORS 646A.140, ORS 742.500, ORS 742.518, ORS 742.585, ORS 742.590, ORS 742.595, ORS 742.600, ORS 803.219, ORS 806.070, ORS 807.020
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `48b0add6b72f7067ab68ae92d87b05176824ac1260512e8e0568ad368d78316a` (snapshot `_meta/snapshots/measure-2024r1-hb4066-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4066/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4066> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

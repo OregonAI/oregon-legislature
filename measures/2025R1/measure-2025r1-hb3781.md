@@ -1,0 +1,235 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3781
+title: 'HB 3781 (2025R1): Creates a rebuttable presumption against negligence and liability for property
+  damage, injuries or death that results from criminal activity in or around multifamily residential property
+  if the owner or operator of the multifamily residential property implements certain security measures
+  and completes certain training and assessments.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3781
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3781/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 34806763b6b43ed9014be64c510edf15255889730c75e527396560f884881db1
+snapshot_id: measure-2025r1-hb3781-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3781
+prefix_meaning: House Bill
+catch_line: Creates a rebuttable presumption against negligence and liability for property damage, injuries
+  or death that results from criminal activity in or around multifamily residential property if the owner
+  or operator of the multifamily residential property implements certain security measures and completes
+  certain training and assessments.
+minority_catch_line: null
+measure_summary: "\tDigest: Says that an owner is not at fault for an injury from a crime at an apartment\
+  \ complex if the owner makes sure to have security in place. (Flesch Readability Score: 63.6). \n\t\
+  Creates a rebuttable presumption against negligence and liability for property damage, injuries or death\
+  \ that results from criminal activity in or around multifamily residential property if the owner or\
+  \ operator of the multifamily residential property implements certain security measures and completes\
+  \ certain training and assessments. \n\tDeclares an emergency, effective on passage."
+relating_to: Relating to a presumption against liability for claims that result from criminal activity
+  in multifamily residential property; declaring an emergency.
+relating_to_full: Relating to a presumption against liability for claims that result from criminal activity
+  in multifamily residential property; and declaring an emergency.
+at_the_request_of: null
+lc_number: 3755
+measure_created_date: '2025-02-25T13:04:15'
+measure_modified_date: '2025-03-05T10:27:14'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 9551
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text: []
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3781>.
+
+# HB 3781 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3781, 2025 Regular Session (2025R1)
+- **LC number:** 3755
+- **Created:** 2025-02-25T13:04:15
+- **Metadata last modified (upstream):** 2025-03-05T10:27:14
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 9551 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3781/Introduced>.
+
+## Summary
+
+**Catchline:** Creates a rebuttable presumption against negligence and liability for property damage, injuries or death that results from criminal activity in or around multifamily residential property if the owner or operator of the multifamily residential property implements certain security measures and completes certain training and assessments.
+
+**Relating to:** Relating to a presumption against liability for claims that result from criminal activity in multifamily residential property; declaring an emergency.
+
+Digest: Says that an owner is not at fault for an injury from a crime at an apartment complex if the owner makes sure to have security in place. (Flesch Readability Score: 63.6). 
+ Creates a rebuttable presumption against negligence and liability for property damage, injuries or death that results from criminal activity in or around multifamily residential property if the owner or operator of the multifamily residential property implements certain security measures and completes certain training and assessments. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to a presumption against liability for claims that result from criminal activity in multifamily residential property; and declaring an emergency.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3781
+Sponsored by Representative LEVY E
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Says that an owner is not  at fault for an injury from a crime at an apartment complex
+if the owner makes sure to have security in place. (Flesch Readability Score: 63.6).
+Creates a rebuttable presumption against negligence and  liability for property damage, injuries
+or death that results from criminal  activity in or around multifamily residential property if the
+owner or operator of the multifamily residential property implements  certain security measures and
+completes certain training and assessments.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to a presumption against liability for claims that  result from criminal activity in multi-
+family residential property; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Crime deterrence and safety training” means education that creates awareness  of,
+and enables proper and effective  preparation for implementing, security principles, security
+devices, crime prevention and reporting and other means for  carrying out the security
+measures described in this section.
+(b) “Crime prevention through environmental design” means a planned use in  a neigh-
+borhood or community of  access control, surveillance and territorial reinforcement to reduce
+opportunities for criminal activity and to promote positive social interaction among  legiti-
+mate residents of the neighborhood or community.
+(c) “Multifamily  residential property” means a residential building or group of residential
+buildings that consists  of at least five dwelling units, such as an apartment buildings,
+townhouses or condominiums.
+(2) A court shall  rebuttably presume in an action brought against an owner or operator
+of a multifamily residential property  for property damage, injury or death that results from
+criminal activity on the  premises of, or in the immediate vicinity of, the multifamily resi-
+dential property  that the owner or operator is not negligent or otherwise liable for the
+property damage, injury or death if:
+(a) A party other than an agent or employee of the owner or operator engages in  the
+criminal activity;
+(b) The owner or operator demonstrates that the owner or operator has completed  the
+assessments and training described in subsection  (5) of this section, and has complied with
+recommendations provided in the  assessments and timely conducted and updated the train-
+ing; and
+(c) The owner or operator establishes prima facie that the  owner or operator imple-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3755
+mented at least the following security measures, unless  the structure and design of the
+multifamily residential property does not permit, and cannot reasonably be modified to per-
+mit, the implementation:
+(A) A security camera system  at points of entry into, and exit from, the multifamily
+residential property that continuously records activity at a resolution and from angles  that
+enable an identification of persons and actions. The recordings must be stored and retrieva-
+ble for a period of at least 30 days.
+(B) Bright lighting at the entrances  of dwelling units and in common areas of the
+multifamily residential property such as parking  lots, walkways, laundry rooms, decks and
+porches. The lighting must be on, or must  be controlled by a photocell or another device that
+activates and maintains the lighting, from dusk until dawn or  must illuminate in response
+to sensed motion. Lighting in a parking lot must have an intensity of at  least, on average,
+1.8 foot-candles per square foot at 18 inches above the surface.
+(C) Secure access points to all dwelling entrances  and indoor common areas and fencing,
+gates and secure access  points that restrict access to outdoor common areas such as pools,
+gardens or other areas with spaces that are  not readily visible from outside the area. A
+dwelling unit must provide at least a 1-inch deadbolt and  a peephole or breakage-resistant
+window on each entry door along with a tamper-resistant locking device on each window and
+exterior sliding door. Access points may use  as security measures electronic or smart locks,
+passcodes, key fobs and other control measures.
+(3) A court may give additional weight  to the presumption described in subsection (2) of
+this section if in addition  to the security measures described in subsection (2) of this section
+an owner or operator of a multifamily residential property demonstrates  to the court’s sat-
+isfaction that the owner or operator implemented the following security measures:
+(a) A watch  program that encourages residents of the multifamily residential property
+to form or join an organization that actively monitors activity in and around the multifamily
+residential property for the purpose of preventing and  reporting crime. The program may
+include in-person patrols, social media reporting or other methods.
+(b) Community rules that  discourage loitering, unauthorized visitors or disruptive be-
+haviors and that include adequate enforcement measures.
+(c) Cooperation with local law enforcement that may include regular visits or  patrols of
+the multifamily residential property,  safety presentations and awareness of the functions and
+capabilities of law enforcement.
+(d) Private security officers or patrol services for the multifamily residential property.
+(e) Regular presentations, education or training about crime  prevention and safety
+measures for residents of the multifamily residential property.
+(4) A plaintiff in an action may rebut the presumption described in subsection (2) of  this
+section if the plaintiff demonstrates with clear and convincing evidence that  an owner or
+operator willfully failed to:
+(a) Properly install, operate, maintain, repair or replace, as appropriate, a security  cam-
+era system, lighting  or secure access points in accordance with commercially reasonable
+standards and as otherwise described in subsection (2) of this section;
+(b) Provide security measures consistently and  regularly to the extent that consistency
+and regularity are necessary for the security measures to be effective; or
+(c) Properly screen, train and monitor, in accordance  with commercially reasonable
+standards and applicable law, any employees, staff, agents, contractors,  security officers or
+other personnel with  responsibility for installing, operating, maintaining, repairing or re-
+placing a security measure or providing security services to residents  of multifamily resi-
+dential property.
+(5) Appropriate assessments and training that an  owner or operator of multifamily resi-
+dential property must complete under subsection (2)(b) of this section consist of the following
+elements:
+(a) A crime  prevention through environmental design assessment that meets standards
+described in subsection (6)  of this section and that a law enforcement agency conducted
+within the three years before the  date on which an action against the owner or operator
+began. The assessment must include any applicable recommendations for:
+(A) Security measures,  upgrades or changes to the structure, layout or design of the
+multifamily residential property that are needed for adequate or improved security; and
+(B) Best practices for installing, operating, maintaining, repairing or replacing security
+measures or for screening,  training and monitoring employees, staff, agents, contractors,
+security officers or other personnel with  responsibility for implementing security measures
+or providing security services.
+(b) Crime deterrence and safety training for  employees, staff, agents, contractors, secu-
+rity officers or other personnel with responsibility  for implementing security measures or
+providing security services that occurs within 60 days  after employment begins. The owner
+or operator must review and update the crime deterrence and  safety training at least once
+every three years.
+(6) The Department of Public Safety Standards and Training, not later than January 1,
+2026, shall devise or approve  appropriate standards for crime prevention through environ-
+mental design assessments  and crime deterrence and safety training and shall make the
+standards available to  law enforcement agencies within this state. The department may
+conduct or approve training necessary to implement the  standards that the department
+makes available under this subsection.
+SECTION 2.
+Section 1 of this 2025 Act applies  to actions that commence on or after the
+effective date of this 2025 Act.
+SECTION 3. This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): (none found)
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `34806763b6b43ed9014be64c510edf15255889730c75e527396560f884881db1` (snapshot `_meta/snapshots/measure-2025r1-hb3781-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3781/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3781> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

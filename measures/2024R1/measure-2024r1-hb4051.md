@@ -1,0 +1,769 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2024r1-hb4051
+title: 'HB 4051 (2024R1): Prohibits wagering on dog races.'
+doc_type: dataset_doc
+citation: 2024 Regular Session House Bill 4051
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4051/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 2abfceb49145f58cf68283ceb990e601f25eb26fb872de5842c119d40c1a1ed7
+snapshot_id: measure-2024r1-hb4051-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 181A.195
+  - ORS 183.745
+  - ORS 293.605
+  - ORS 462.010
+  - ORS 462.020
+  - ORS 462.030
+  - ORS 462.040
+  - ORS 462.057
+  - ORS 462.062
+  - ORS 462.067
+  - ORS 462.070
+  - ORS 462.073
+  - ORS 462.075
+  - ORS 462.080
+  - ORS 462.110
+  - ORS 462.125
+  - ORS 462.135
+  - ORS 462.140
+  - ORS 462.142
+  - ORS 462.155
+  - ORS 462.157
+  - ORS 462.190
+  - ORS 462.195
+  - ORS 462.279
+  - ORS 462.510
+  - ORS 462.700
+  - ORS 462.710
+  - ORS 462.725
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2024r1
+- hb
+session_key: 2024R1
+measure_prefix: HB
+measure_number: 4051
+prefix_meaning: House Bill
+catch_line: Prohibits wagering on dog races.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act makes betting on dog races illegal. The Act requires veterinarians\
+  \ to make reports if horses involved in racing show signs of abuse, injury or bad health. The Act allows\
+  \ the ORC to impose civil penalties for certain actions. (Flesch Readability Score: 60.0). \n\tProhibits\
+  \ wagering on dog races. Modifies animal racing law to remove references to greyhound racing. \n\tRequires\
+  \ a veterinarian to report to the Oregon Racing Commission if a horse involved in horse racing shows\
+  \ signs of abuse, injury or inadequate health. \n\tAuthorizes the commission to impose civil penalties\
+  \ for certain violations of animal racing law. \n\tDeclares an emergency, effective on passage."
+relating_to: Relating to racing; declaring an emergency.
+relating_to_full: Relating to racing; creating new provisions; amending ORS 462.010, 462.020, 462.030,
+  462.040, 462.057, 462.067, 462.070, 462.075, 462.110, 462.125, 462.140, 462.155, 462.510, 462.710 and
+  462.725; repealing ORS 462.135 and 462.279; and declaring an emergency.
+at_the_request_of: (at the request of House Interim Committee on Gambling Regulation for Representative
+  John Lively)
+lc_number: 212
+measure_created_date: '2024-01-12T10:18:49'
+measure_modified_date: '2024-02-09T17:00:55'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 46964
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 181A.195
+  - ORS 183.745
+  - ORS 293.605
+  - ORS 462.010
+  - ORS 462.020
+  - ORS 462.030
+  - ORS 462.040
+  - ORS 462.057
+  - ORS 462.062
+  - ORS 462.067
+  - ORS 462.070
+  - ORS 462.073
+  - ORS 462.075
+  - ORS 462.080
+  - ORS 462.110
+  - ORS 462.125
+  - ORS 462.135
+  - ORS 462.140
+  - ORS 462.142
+  - ORS 462.155
+  - ORS 462.157
+  - ORS 462.190
+  - ORS 462.195
+  - ORS 462.279
+  - ORS 462.510
+  - ORS 462.700
+  - ORS 462.710
+  - ORS 462.725
+  from_relating_to_full:
+  - ORS 462.010
+  - ORS 462.020
+  - ORS 462.030
+  - ORS 462.040
+  - ORS 462.057
+  - ORS 462.067
+  - ORS 462.070
+  - ORS 462.075
+  - ORS 462.110
+  - ORS 462.125
+  - ORS 462.135
+  - ORS 462.140
+  - ORS 462.155
+  - ORS 462.279
+  - ORS 462.510
+  - ORS 462.710
+  - ORS 462.725
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4051>.
+
+# HB 4051 — 2024 Regular Session (2024R1)
+
+## At a glance
+
+- **Measure:** House Bill 4051, 2024 Regular Session (2024R1)
+- **At the request of:** (at the request of House Interim Committee on Gambling Regulation for Representative John Lively)
+- **LC number:** 212
+- **Created:** 2024-01-12T10:18:49
+- **Metadata last modified (upstream):** 2024-02-09T17:00:55
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 46964 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4051/Introduced>.
+
+## Summary
+
+**Catchline:** Prohibits wagering on dog races.
+
+**Relating to:** Relating to racing; declaring an emergency.
+
+Digest: The Act makes betting on dog races illegal. The Act requires veterinarians to make reports if horses involved in racing show signs of abuse, injury or bad health. The Act allows the ORC to impose civil penalties for certain actions. (Flesch Readability Score: 60.0). 
+ Prohibits wagering on dog races. Modifies animal racing law to remove references to greyhound racing. 
+ Requires a veterinarian to report to the Oregon Racing Commission if a horse involved in horse racing shows signs of abuse, injury or inadequate health. 
+ Authorizes the commission to impose civil penalties for certain violations of animal racing law. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to racing; creating new provisions; amending ORS 462.010, 462.020, 462.030, 462.040, 462.057, 462.067, 462.070, 462.075, 462.110, 462.125, 462.140, 462.155, 462.510, 462.710 and 462.725; repealing ORS 462.135 and 462.279; and declaring an emergency.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4051
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Gambling Regulation for Representative John Lively)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  makes betting on dog races illegal. The Act requires veterinarians to make re-
+ports if horses involved in racing show signs of abuse,  injury or bad health. The Act allows the ORC
+to impose civil penalties for certain actions. (Flesch Readability Score: 60.0).
+Prohibits wagering on dog races. Modifies animal racing law to remove references to  greyhound
+racing.
+Requires a veterinarian to report to the Oregon Racing Commission if a horse involved in horse
+racing shows signs of abuse, injury or inadequate health.
+Authorizes the commission to impose civil penalties for certain violations of animal racing law.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to  racing; creating new provisions; amending ORS 462.010, 462.020, 462.030, 462.040, 462.057,
+462.067, 462.070, 462.075, 462.110, 462.125, 462.140, 462.155, 462.510, 462.710 and 462.725; repealing
+ORS 462.135 and 462.279; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+GREYHOUND RACING
+SECTION 1.
+Section 2 of this 2024 Act is added to and made a part of ORS chapter 462.
+SECTION 2. No person may wager money or any other thing of value on the outcome of
+a greyhound race or other dog race, or accept or  facilitate such wagering, regardless of the
+location at which the race takes place.
+SECTION 3.  ORS 462.725 is amended to read:
+462.725. (1) Notwithstanding any other provision of this chapter, the Oregon Racing Commission
+may adopt rules to:
+(a) License and  regulate all phases of operation of Multi-Jurisdictional Simulcasting and Inter-
+active Wagering Totalizator Hubs located in Oregon; and
+(b) Authorize and license Multi-Jurisdictional  Simulcasting and Interactive Wagering Totalizator
+Hubs to  conduct simulcast broadcasting of, and mutuel wagering on, animal races, including previ-
+ously held races on which mutuel wagering is lawful in Oregon.
+(2) In addition to the  other rules of operation adopted by the commission, the commission shall
+adopt a rule setting the amount that may be taken from the gross receipts  of the multi-jurisdictional
+mutuel system.
+(3) All employees working in Oregon and all officers of any Multi-Jurisdictional Simulcasting
+and Interactive Wagering Totalizator Hubs located and  operating in Oregon must obtain a license
+from the commission prior to the commencement of business or employment.  The commission shall
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 212
+adopt rules establishing license fees for the employees and officers, not to exceed $30 per year.
+(4) Payments to be made to the commission include:
+(a) Multi-Jurisdictional Simulcasting and Interactive Wagering Totalizator Hub license fee  not
+more than $200 per operating day.
+(b) Not more than one percent of total gross receipts of  mutuel wagering recorded by the
+totalizator system.
+(5) Of the moneys received by the commission under  subsection (4)(b) of this section, 25 percent
+shall be paid to the  State Treasurer for deposit in the General Fund and 75 percent shall be retained
+by the commission. The commission  may adopt rules under which the moneys retained by the com-
+mission may be distributed for the benefit of the Oregon pari-mutuel racing industry.
+(6) Wagers on previously held races authorized under subsection (1) of this section are  subject
+to the provisions of ORS 462.157.
+[(7) A Multi-Jurisdictional  Simulcasting and Interactive Wagering Totalizator Hub licensee may
+establish an account for wagering on greyhound racing for an  individual unless wagering on live
+greyhound racing is unlawful in the jurisdiction of the individual’s principal residence. ]
+(7) A Multi-Jurisdictional  Simulcasting and Interactive Wagering Totalizator Hub
+licensee may not accept or  facilitate mutuel wagers on greyhound racing or other dog racing,
+regardless of the location at which the race takes place.
+SECTION 4.
+ ORS 462.010 is amended to read:
+462.010. As used in this chapter, unless the context otherwise requires:
+(1) “Breaks”  means the odd cents remaining after the payoff prices have been computed in ac-
+cordance with ORS 462.140 (3).
+(2) “Calendar year” means a 12-month year, January 1 through December 31.
+(3) “Commission” means the Oregon Racing Commission.
+(4) “Continuous race meet”  includes any exhibition of animal racing continuously at the same
+race course by two or more licensees where the mutuel system  is used in conjunction with any race.
+(5) “Drug” means  any narcotic, sedative, anesthetic, analgesic, drug or other medication of any
+kind or description intended for use in any manner, directly or indirectly, internally or  externally,
+in the diagnosis, treatment, mitigation or cure of injury  or disease or for use in the prevention of
+disease that could affect, in any manner, the racing condition  or performance of an animal as a
+depressant, stimulant, local anesthetic, analgesic, sedative or otherwise. “Drug” includes:
+(a) Substances, other than foods, intended to affect the structure or any function of the  body of
+the animal and all substances affecting the central  nervous system, respiratory system or blood
+pressure of any animal other than vitamins or supplemental feeds; and
+(b) Any identified substance that can affect or interfere with the true  and accurate testing and
+analysis of blood, saliva, urine or other samples taken from racing animals.
+(6) “Fiscal year” means a 12-month year, as described in ORS 293.605.
+(7) “Gross mutuel wagering” means all mutuel wagering that is made in person:
+(a) At the race course of a race meet licensee;
+(b) At an off-race course mutuel wagering location approved by the commission; or
+(c) Through account wagering authorized under ORS 462.142.
+(8) “Licensee” means a  person, partnership, corporation, political subdivision, municipal corpo-
+ration or any other body holding a license under this chapter.
+(9) “Mutuel” means a system whereby:
+(a) Wagers with respect to the outcome of a race are placed with  a wagering pool in which the
+participants are not wagering against the operator; and
+(b) The operator distributes to one or more winning participants the total  amount in the
+wagering pool, less amounts deducted by the operator as approved by the commission.
+(10) “Public training track” means any race course or  other facility that is available or open to
+the public for use in the training or schooling of racing animals.
+(11) “Race” means any race conducted in  a race meet. “Race” includes races conducted without
+wagering, provided one or more races in the meet are conducted with wagering.
+(12) “Race course” means all  the premises used in connection with the conduct of a race meet,
+including but not limited to, the race track, grandstands, paddock, stables[ , kennels ] and  all other
+buildings and grounds adjacent to or appurtenant to the physical limits of the race track.
+(13) “Race meet” means any exhibition  of animal racing where the mutuel system is used in
+conjunction with any race.
+SECTION 5.
+ ORS 462.020 is amended to read:
+462.020. (1) A person may not hold a race meet without having first obtained and  having in full
+force and effect a license therefor issued by the Oregon Racing Commission.
+(2) A trainer, driver,  jockey, apprentice jockey, horse owner, [ dog owner, ] exercise person, agent,
+authorized agent, jockey’s agent, stable foreman, groom, valet, veterinarian, horseshoer,  steward,
+stable guard, starter, timer, judge or other person acting as a participant or official at any race
+meet, including all employees of the pari-mutuel department, may not participate in  race meets
+without having first obtained and having in  full force and effect a license issued by the commission,
+pursuant to such rules as the commission shall make. The commission  by rule may require other
+employees of a race meet licensee  who are engaged in or performing duties at the race course to
+obtain a license issued by the commission prior to engaging or  performing such duties. The com-
+mission by rule may  also require persons, including corporations, who are not employees of a race
+meet licensee, but who are authorized to do business at  the race course, to obtain a license issued
+by the commission prior to conducting such business.
+(3) A person may not operate a public training track [ or public kennel for greyhounds  partic-
+ipating in a race meet ] without having first obtained and having  in full force and effect a license
+issued by the commission.
+(4) The commission may  require each applicant for a license to be photographed and shall re-
+quire each applicant to be fingerprinted as part of the licensing  procedure for the purpose of re-
+questing a state or nationwide criminal records check under ORS 181A.195.
+(5) Each person holding a license under this chapter shall comply with  all rules and orders of
+the commission.
+(6) Notwithstanding the requirements  of subsection (2) of this section, the commission, upon re-
+ceipt of a written application for a license on forms provided by the commission, may in its  sound
+discretion issue a temporary license valid for a period not to exceed  10 days pending final approval
+or disapproval of the written application for a license.
+SECTION 6.
+ ORS 462.030 is amended to read:
+462.030. No person is eligible to operate a race meet with a license  issued under this chapter
+unless the person is  the owner or controls the possession of a properly constructed race track
+suitable for the [ class of ] races which are proposed to  be conducted at such race track and improved
+with safe and suitable grandstands, equipped with  reasonably sanitary accommodations, adequate
+stables for livestock together with  adequate fire protection equipment, and such other proper im-
+provements as in the judgment of the Oregon Racing Commission may be required, taking into con-
+sideration the location of such race track and the probable capacity requirements  to accommodate
+the crowd and the number of people that will reasonably be expected  to occupy the grandstands and
+attend the race meets.
+SECTION 7.
+ ORS 462.040 is amended to read:
+462.040. (1) Race meet licenses granted by the Oregon Racing Commission shall be limited to[ :]
+[(a)] licenses for horse and mule race meets [ (Class A) ].
+[(b) Licenses for greyhound race meets (Class B). ]
+[(2)(a) Except as the commission otherwise may provide by rule, no licensee  shall be granted li-
+censes of both classes nor shall licenses be issued for more than one  class of racing on the same race
+course, track or location. ]
+[(b) In adopting rules to carry out  the provisions of this subsection, the commission shall consider,
+among other matters,  the impact on existing race meet licensees in the county in which application for
+a license referred to in paragraph (a) of this subsection is made. ]
+[(3) The commission may not grant any license for greyhound race meets after July 1, 2022. ]
+[(4)] (2)  The license shall  specify the number of days the race meet shall continue and the
+number of races per day.
+SECTION 8.  ORS 462.057 is amended to read:
+462.057. (1) A race meet licensee designated in subsection (2) of this section shall make payments
+as follows:
+(a) License fee - $25 per fiscal year payable to the Oregon Racing Commission.
+[(b) A percentage of gross mutuel wagering shall be paid to the commission as follows: ]
+[(A) If the race meet is for horses or mules - one percent. ]
+[(B) If the race meet is for greyhounds - 1.6 percent. ]
+(b) One percent of gross mutual wagering payable to the commission.
+(c) If [ the race meet is for  horses or mules and ] the average daily gross mutuel wagering during
+the preceding fiscal year exceeded $150,000, a percentage of  the gross mutuel wagering shall be paid
+as follows:
+(A) To purses - such amount, subject to prior approval  by the commission, as the race meet
+licensee and the horse owners, or mule owners  if the race is for mules, may agree upon, plus an
+additional 0.1 percent. The additional 0.1 percent shall not become  part of the regular purse account
+but shall be used only to supplement purses  of races consisting exclusively of Oregon bred horses
+or mules;
+(B) To the Oregon Thoroughbred Owners and Breeders Association, Incorporated,  purse sup-
+plements for owners of Oregon bred  thoroughbred horses - one percent of gross mutuel wagering on
+thoroughbred horse races, to be apportioned among the owners in the same  ratio that each owner’s
+purses for Oregon bred thoroughbred horses for the race meet bears to the total purses for Oregon
+bred thoroughbred horses for the race meet;
+(C) To the  Oregon Quarter Horse Racing Association, Incorporated, purse supplements for
+owners of Oregon bred quarter horses - one percent of gross mutuel wagering on quarter  horse
+races, to be apportioned among the owners in the same ratio that each owner’s purses for  Oregon
+bred quarter horses for the race meet bears to  the total purses for Oregon bred quarter horses for
+the race meet;
+(D) To each association of  horse or mule owners, trainers or breeders recognized by the com-
+mission as representing the other breeds of horses or mules  not designated in subparagraphs (B) and
+(C) of this  paragraph, purse supplements for owners of other Oregon bred horses or mules, not des-
+ignated in subparagraphs (B) and (C) of this paragraph, one percent of gross mutuel wagering for
+races of other horses or mules, to be apportioned among the  owners in the same ratio that each
+owner’s purses for other Oregon bred horses or  mules for the race meet bears to the total purses
+for other Oregon bred horses or mules for the race meet;
+(E) Subject to prior approval of  the commission, each horse or mule owners, trainers or breeders
+association designated in subparagraphs (B), (C) and (D) of this paragraph may use a portion  of the
+purse supplements as operating expenses only for receipt, handling  and payment of these funds; and
+(F) To a special track fund to be  used primarily for improving the race track facilities benefiting
+the horse and mule owners, trainers or breeders in the barn area - 0.2 percent. All such funds shall
+be retained by the licensee in a separate account from all other funds and  no disbursements or
+transfers shall be made therefrom without prior approval  of the commission. All physical improve-
+ments paid from such funds shall  satisfy reasonable fire, health, quality and construction standards
+established or approved by  the commission. Unless the commission provides otherwise, such im-
+provements shall  be made on the race course where the race meet which created the fund was held.
+[(d) If the race meet is for greyhounds, a percentage of the gross mutuel wagering  shall be paid
+as follows: ]
+[(A) To a special fund to be used primarily for the  development and operation of a training track
+and related  facilities upon which to train greyhounds - 0.1 percent. All such funds shall be retained
+by the licensee in a  separate account from all other funds and no disbursements or transfers shall be
+made therefrom without prior approval of  the commission. All physical improvements paid from such
+funds shall satisfy reasonable fire, health, quality  and construction standards established or approved
+by the commission. Unless the commission provides otherwise, such improvements shall be made on the
+race course of the race meet licensee; and ]
+[(B) To the Oregon Greyhound Breeders Association, Incorporated, purse  supplements for owners
+of Oregon bred greyhounds - 0.5 percent of gross  mutuel wagering, to be apportioned among the own-
+ers, in accordance with the rules of  the commission and subject to approval by the commission, in the
+same ratio that each owner’s purses for Oregon bred greyhounds for  the race meet bears to the total
+purses for Oregon bred greyhounds for the race meet. ]
+(2) Licensees subject to the provisions of this section are:
+(a) The Pendleton Roundup.
+(b) The Eastern Oregon Livestock Fair.
+(c) The Pacific International Livestock Exposition.
+(d) Any county fair.
+(e) All other nonprofit, fair-type  associations which conducted a licensed race meet in calendar
+year 1968 or 1969.
+(f) The Pine Valley Fair Association.
+SECTION 9.
+ ORS 462.067 is amended to read:
+462.067. All licensees of race meets except those subject to  ORS 462.057 and 462.062 shall make
+payments as follows:
+(1) License fee - $100 per racing day, payable to the Oregon Racing Commission.
+(2) Percentage of gross mutuel wagering payable to the commission - 1.6 percent.
+[(3) Percentage of gross mutuel wagering on  greyhound races payable to the Oregon Greyhound
+Breeders Association, Incorporated - 0.5 percent for purse supplements for owners  of Oregon bred
+greyhounds, to be apportioned among the owners, in accordance with  the rules of the commission and
+subject to  approval by the commission, in the same ratio that each owner’s purses for Oregon bred
+greyhounds for the race meet  bears to the total purses for Oregon bred greyhounds for the race meet.
+Subject to the prior written approval of the commission,  the Oregon Greyhound Breeders Association,
+Incorporated, may use  a portion of the funds received pursuant to this section and ORS 462.057
+(1)(d)(B) to offset expenses for receipt, accounting, handling and payment of those funds. ]
+[(4) To a special fund to be used primarily for the development and operation of a training  track
+and related facilities upon which to train greyhounds - 0.1 percent. All such funds shall be  retained
+by the licensee in a separate account from all other funds and no disbursements  or transfers shall be
+made therefrom without prior approval of the commission. All  physical improvements paid from such
+funds shall satisfy reasonable fire, health, quality  and construction standards established or approved
+by the commission. Unless the commission provides otherwise, such improvements shall be made on the
+race course of the race meet licensee. ]
+SECTION 10.
+ ORS 462.070 is amended to read:
+462.070. (1) The Oregon Racing Commission  may adopt rules establishing license fees for persons
+described in ORS 462.020  (2), not to exceed $30 per year. Prior to adopting a rule that establishes
+a fee for a  license, the commission shall review the fees charged for similar licenses in other states.
+The commission also may charge a reasonable fee for claiming  certificates in an amount not to ex-
+ceed  $10.
+(2) The license fee per fiscal year for operators of public training  tracks [ or kennels ] required
+to be licensed under ORS 462.020 (3) shall be:
+(a) For the Oregon State Fair or a county or district fair, $10.
+(b) For all other operators of public training tracks [ or kennels ], $25.
+(3) The commission may by rule  provide for a license that is issued to a person described in ORS
+462.020 (2) to be valid  for one, two or three years from date of issuance. The commission may fix
+the expiration date of the license and may prorate the fee established for the license.
+SECTION 11.
+ ORS 462.075 is amended to read:
+462.075. (1) The Oregon Racing Commission may refuse to issue to  or renew the license of any
+applicant if it has reasonable ground to believe that the applicant:
+(a) Has been suspended or ruled off a recognized course in another jurisdiction by the racing
+board or commission thereof.
+(b) Is not of good repute and moral character.
+(c) Does not have, when previously licensed, a good record of compliance with the  racing or
+gaming laws  of this state or of any other state and with the rules of the commission or of any other
+racing or gaming commission.
+(d) If the applicant is a corporation, firm or association, is not  duly authorized to conduct
+business within the State of Oregon.
+(e) If an individual, has been convicted of a crime involving moral  turpitude or of any gambling
+or gambling-related offense, or, if a corporation, firm  or association, is in whole or in part controlled
+or operated directly or indirectly by a person who has been convicted of a  crime involving moral
+turpitude or of any gambling or gambling-related offense.
+(f) If  an individual, is engaged in wagering by other than the mutuel method or in pool selling
+or bookmaking in any  state of the United States or foreign country or, if a corporation, firm or as-
+sociation, is in whole or  in part controlled or operated directly or indirectly by a person who is
+engaged in wagering by other than the mutuel method or in pool selling or bookmaking in any state
+of the United States or foreign country.
+(g) Has been found guilty by the commission  of a violation of this chapter or any rules of the
+commission.
+(h) Should not,  in the best interest of the safety, welfare, health, peace and morals of the people
+of the state, be granted a license.
+(2) The commission may refuse to issue or renew a license to conduct  a race meet for any
+ground set forth in  subsection (1) of this section or if it has reasonable ground to believe any of the
+following to be true:
+(a) That the  applicant is not possessed of or has not demonstrated financial responsibility suffi-
+cient to meet adequately the requirements of the enterprise proposed to be licensed.
+(b) That the applicant is not the true owner of the  enterprise proposed to be licensed, that other
+persons have ownership in the enterprise which has not been disclosed or, if the applicant is  a
+corporation, that any of the stock of such corporation is subject to a contract or option to purchase
+at any time during the period for which the license is issued.
+(c) That the granting of a license in the locality set out in the application  is not demanded by
+public interest or convenience.
+(d) That the applicant, if  a corporation, transferred any of its stock after an application for a
+license to hold a race meet was filed with the commission without prior commission approval. The
+provisions  of  this paragraph shall not apply to day-to-day transfers of stock of a publicly held cor-
+poration whose shares are publicly quoted and regularly traded in  the marketplace unless the
+transfer, or a combination of transfers, involves a controlling interest in or affects the operational
+control of the corporation, or involves 10 percent or more of any class of stock of the corporation.
+(e) That the applicant  lacks, or if the applicant is a corporation, its officers, managerial em-
+ployees, directors and principal stockholders lack, the requisite  character, reputation, general busi-
+ness and managerial competence  and ability, and experience in the business of racing so as to justify
+or command public confidence.
+(f) That the  granting of the application would adversely and unreasonably affect the economy
+of the State of Oregon and its people and the revenues of this state and of other  beneficiaries of
+racing funds designated in this chapter.
+(3) The  commission may refuse to issue or renew a license to any person who has made a false
+statement of a material fact to the commission.
+(4) The commission may refuse to issue  or renew a license to any applicant for a race meet li-
+cense if the applicant has failed to meet any monetary obligation in connection with any  race meet
+held in this state.
+[(5) The commission  may deny a license to any applicant for a race meet license under ORS 462.067
+unless the applicant for the license and  the greyhound kennel owners, or their representative associ-
+ation, have previously agreed upon a purse schedule. ]
+[(6)] (5)  Before refusing to license any applicant  for a race meet license, the commission shall
+afford the applicant an opportunity for hearing  after reasonable notice as provided in ORS chapter
+183. When the commission refuses to license an applicant on the basis of grounds provided in  sub-
+section (1)(b), (c) or (h) of this section, the commission  shall specify the particular activities that
+constitute the grounds for refusal and shall give the applicant written notice thereof.
+SECTION 12.
+ ORS 462.110 is amended to read:
+462.110. (1) For the protection of the  public, and all members thereof, the exhibitors and visitors,
+every race meet  licensee shall carry public liability insurance written on an approved form by a
+company licensed to do business in Oregon and in  an amount approved by the Oregon Racing
+Commission.
+(2) Every person  licensed to conduct a race meet shall provide and deliver to the commission
+a bond signed by a surety company authorized to do  business in Oregon in such form as is required
+by the commission and in an amount determined by  the commission. The bond shall be conditioned
+that the licensee will pay to  the state all moneys due it under this chapter, including moneys which
+escheat pursuant to ORS  462.073 and any fines imposed by any court or by any state agency; to
+horsemen [ or greyhound owners ], all moneys owing and all moneys required to be paid for breakage,
+purses and Oregon-bred purse supplements; to persons presenting valid winning tickets, the  amounts
+owing to  them; and to the special track fund or training track fund, all moneys required to be paid
+to those funds by statute or rule.  In lieu of a surety bond the commission may accept a certificate
+of deposit, an irrevocable letter of credit, or equivalent which will assure that the  obligations de-
+scribed above are paid, up to the designated amount.
+(3) The Attorney General or the district attorney of the county wherein  the race meet is held
+shall prosecute all actions on such bonds on behalf of the state.
+(4) Any person having a claim against the licensee for any obligation covered by the bond  or
+bond substitute, except cause of action covered by public liability insurance, may prosecute the same
+in an action in behalf of the claimant brought in the name of  the state for the use and benefit and
+at the expense of such  claimant. The court may award reasonable attorney fees to the prevailing
+party in an action  under this subsection. If the amount of the bond or bond substitute is insufficient
+to cover all obligations, amounts owing to and for the benefit of the state pursuant  to ORS 462.073
+(3) shall have priority over any other claims. No action may  be brought for recovery on the bond
+or bond substitute unless written  notice of the claim is made to the commission and to the race meet
+licensee within 120 days after the last day of the race meet or continuous race meet in  which the
+obligation arose. The  notice must be by registered mail, certified mail with return receipt or per-
+sonal service to the licensee or to  the licensee’s registered agent. Any action for recovery on the
+bond or bond substitute must  be brought no earlier than 60 days and no later than 180 days after
+service of the written notice on the race  meet licensee or on the licensee’s registered agent. These
+limitations shall not apply to claims for valid winning tickets  if the claimant has made a timely
+claim pursuant to ORS 462.073 (2).
+(5) Every person licensed to conduct a race meet for horses shall carry insurance  to protect
+jockeys and, if appropriate, drivers. The type,  form and amount of insurance, and the carrier, must
+be approved by the commission.
+SECTION 13.
+ ORS 462.125 is amended to read:
+462.125. (1) The Oregon Racing  Commission shall determine the number [ and classes ] of race
+meets to  be held in any fiscal year, and the total number of racing dates to be granted to a licensee
+subject to provisions of ORS 462.062 and 462.067.  Not more than 350 days of racing, exclusive of
+racing days authorized to designated licensees pursuant to subsection  (5) of this section, shall be
+held in any metropolitan area in any fiscal year. A licensee  shall conduct at least 720 live races
+under the license during each fiscal year race meets are held under the  license. The commission
+may reduce the  number of races required under this section upon application by a horsemen’s as-
+sociation that negotiates with the race meet licensee.
+(2) If a licensee under ORS 462.062 or 462.067 fails, for good cause,  to complete all of the allo-
+cated days in a licensed race meet or if the commission does not receive and approve license ap-
+plications for all of the days allocated to [ either class of ] racing,  the commission may add the unused
+or unallocated days no later than June  30 of the following fiscal year, to the racing days allocated
+to and available to the licensee or, in the discretion  of the commission, to any other licensee [ of
+either class of racing ] in the  metropolitan area. Additional race days allocated under this subsection
+are exempt from  the limit of 350 days of racing in a fiscal year imposed by subsection (1) of this
+section. The additional racing days granted  by the commission to any eligible licensee may not ex-
+ceed the total of the unused or unallocated racing days in any one fiscal year.
+(3) If an emergency occurs on the day of  racing, and a night racing program runs past the hour
+of midnight, such time after midnight is not considered an additional racing day.
+(4) As used in subsections (1) and (2) of this section, “metropolitan area” means:
+(a) Multnomah, Clackamas and Washington Counties.
+(b) Marion and Polk Counties.
+(c) Linn and Benton Counties.
+(d) A county other than those designated in paragraphs (a), (b) and (c) of this subsection.
+(5) Each licensee designated in ORS 462.057  may be granted up to 12 days of horse[ ,] or  mule
+[or greyhound ] racing to be held within the county in which the licensee holds its  fair or show or
+at a race course owned by a  governmental agency or a nonprofit corporation in an adjoining county.
+If a licensee does not use  all of the licensee’s allocated race days during the fiscal year, the com-
+mission, in the commission’s discretion, may allow that licensee to  use the leftover days in the next
+fiscal  year.  If a licensee referred to in this subsection wishes to make application to the commission
+to schedule racing days that conflict with racing days previously scheduled  by another such
+licensee, at least 30 days prior  to the date of a meeting of the commission, the governing bodies of
+the applicant and the previous licensee shall  meet at a time and place prescribed by the previous
+licensee to discuss the applicant’s proposed racing day schedule. The  conclusion of the parties re-
+garding the proposals for conflicting racing days and the matters upon which  the parties agree or
+disagree shall be reduced to writing signed by the parties and submitted  to the commission not later
+than 14 days  prior to a meeting of the commission. The commission may approve or disapprove
+proposals  for  conflicting racing days upon such terms and conditions as the commission considers
+appropriate.
+(6) The commission may not grant a license for any race meet within a county for dates  that
+conflict with racing dates granted to the county fair of such county.
+(7) The commission may not grant a licensee that is  subject to ORS 462.062 a license for a race
+meet for a date  that conflicts with a race meet date granted to a licensee that is subject to ORS
+462.057, unless the commission has the consent of the licensee  that is subject to ORS 462.057. This
+subsection applies only if the licensee  that is subject to ORS 462.057 held a race meet during the
+2002 calendar year on a date substantially similar to the date  that is the subject of the conflict. A
+licensee  that  is subject to ORS 462.057 may not unreasonably withhold consent under this sub-
+section.
+SECTION 14.
+ORS 462.135 and 462.279 are repealed.
+SECTION 15.  ORS 462.140 is amended to read:
+462.140. (1) A person may not conduct or commit,  attempt or conspire to conduct or commit pool
+selling, bookmaking, or circulate handbooks, or bet or wager on any licensed race meet,  other than
+by the mutuel method. All  moneys wagered in Oregon must be accounted for through a computerized
+mutuel wagering system in use by an operating race  meet in this state and approved by the Oregon
+Racing  Commission.  Wagering into pools outside of Oregon via telephone or other device is prohib-
+ited unless the wagering information is transmitted by  a licensee that conducts off-race course
+mutuel wagering pursuant to ORS 462.700 to 462.740.
+(2) A race meet licensee may not take  more than 22 percent of the gross receipts of any mutuel
+wagering system subject to approval by the commission.
+(3) A race meet licensee  shall compute breaks in the mutuel system at 10 cents for each dollar
+wagered in a specific mutuel pool except,  when the breaks in the mutuel system compute to less
+than 10 cents total for each dollar wagered, the race meet  licensee shall compute the breaks on that
+specific mutuel pool at five cents. When  the breaks in the mutuel system compute at 10 cents or
+more for each dollar wagered, the race meet licensee shall pay in increments of  10 cents for each
+dollar wagered. When the breaks in the mutuel system compute to less than 10 cents  for each dollar
+wagered, the  race meet licensee shall pay five cents for each dollar wagered. For horses, 45 percent
+of the breaks shall be retained by the licensee. [ For greyhounds, 33-1/3 percent shall  be retained by
+the licensee. ] The other 55 percent [ for horses and 66-2/3 percent for greyhounds ] shall be paid as
+follows:
+(a) For thoroughbred  horse races, to the Oregon Thoroughbred Owners and Breeders Associ-
+ation, Incorporated, to be used by that association subject to  prior approval of the commission, in
+such amounts and for such of the following purposes as the association deems desirable:
+(A) For breeders awards;
+(B) For stallion awards;
+(C) For education of the members  of the association and other horsemen regarding the breeding
+and racing of thoroughbred horses; or
+(D) For the promotion and development of thoroughbred horse breeding and racing in Oregon.
+(b) For quarter horse races, to the Oregon Quarter  Horse Racing Association, Incorporated, to
+be used by that association subject to prior approval of the commission, in such amounts  and for
+such of the following purposes as the association deems desirable:
+(A) For breeders awards;
+(B) For stallion awards;
+(C) For education of the members  of the association and other horsemen regarding the breeding
+and racing of quarter horses; or
+(D) For the promotion and development of quarter horse breeding and racing in Oregon.
+(c) For races for any other horses not designated in paragraphs (a)  and (b) of this subsection,
+to each association of horsemen recognized by the commission as representing the  other breeds of
+horses, to be used by that association subject to prior approval of the commission,  in such amounts
+and for such of the following purposes as each recognized association deems desirable:
+(A) For breeders awards;
+(B) For stallion awards;
+(C) For education of the members  of the association and other horsemen regarding the breeding
+and racing of horses; or
+(D) For the promotion and development of horse breeding and racing in Oregon.
+[(d) By a licensee of a race meet for greyhounds: ]
+[(A) One-half thereof to  augment purses subject to reasonable regulations prescribed by the com-
+mission.]
+[(B) The other one-half thereof for  benefit and improvement of the breeding, ownership, training
+and racing of greyhounds in  Oregon, subject to reasonable regulations prescribed by the commission.
+Included, but not by way of limitation, would be payment of purses for maiden graduation or  special
+schooling races without  wagering, and construction and operation of one or more appropriate public
+training facilities within the state.  All such funds shall be retained by the licensee in an account sep-
+arate from all other funds, and no disbursements or transfers shall  be made therefrom without prior
+approval of the commission. ]
+SECTION 16.
+ ORS 462.155 is amended to read:
+462.155. (1) The Oregon Racing Commission may allow a race meet operator [ that holds a  Class
+A license ] to conduct mutuel wagering at the  licensee’s race course on horse races previously held
+if:
+(a) The races were actual events held at race courses during race meets;
+(b) The races were subject to mutuel wagering at the time the races were originally held; and
+(c) The  race meets at which the races were originally held were approved by the commission
+or by an equivalent regulatory body in another state.
+(2) Subsection (1) of this section allows mutuel wagering on a  horse race displayed as a video
+or audio recording, or  another form of recording approved by the commission, but does not authorize
+wagering on any animation, computer simulation or other artificial representation of horse racing.
+(3) Subsection (1) of this section does not apply to a race meet operator described in ORS
+462.057 (2). Subsection (1) of this section does  not authorize off-race course wagering or multi-
+jurisdictional simulcasting for horse races previously held.
+(4) Wagers authorized under subsection (1) of this section are  subject to the provisions of ORS
+462.157.
+SECTION 17.
+ ORS 462.510 is amended to read:
+462.510. (1) Any person who attempts to, or does  persuade, procure or cause another person to
+wager on an animal participating in a race, and upon  which money is wagered, and who asks or
+demands, or accepts compensation as a reward for information or purported information  given in
+such case is a tout, and is guilty of touting.
+(2) Predictions on the outcome of horse  races [ and greyhound races ] may be sold on the
+licensee’s premises in accordance with rules promulgated by the Oregon Racing Commission.
+SECTION 18.  ORS 462.710 is amended to read:
+462.710. (1) Any race meet licensee may make written application to the Oregon Racing Com-
+mission to conduct off-race course mutuel wagering:
+(a) On races held at the licensee’s race course; or
+(b) On races held at race courses outside this state.
+(2) The application shall be in such form, shall contain such information and  shall be submitted
+at such time and in such manner as the commission  may require. Information required by the com-
+mission may include, but is  not limited to, a description of the facilities, equipment and method of
+operation whereby the applicant proposes to conduct off-race course mutuel wagering activities.
+(3) The commission shall authorize off-race course mutuel wagering upon such terms and con-
+ditions regarding the time, location  and manner of operation as the commission considers appropri-
+ate. The commission may not authorize more than 20  locations for off-race course mutuel wagering
+to be in operation at  any one time and shall permit off-race course mutuel wagering only at an au-
+thorized location. The commission may not authorize the conduct of  off-race course mutuel wagering
+at any time or place or in any manner that the commission determines would have  substantial ad-
+verse impact upon mutuel wagering on  races held at a race course in this state. The commission
+may not authorize a race meet licensee to conduct off-race  course mutuel wagering within the
+boundaries of any city or county  that has adopted an ordinance prohibiting the conduct of that ac-
+tivity within the city or county. The commission may not  authorize a race meet licensee to conduct
+off-race course mutuel wagering in  any county with a population of less than 250,000 at a location
+that is within 40  miles of any other location where another race meet licensee is conducting a live
+race meet without written consent of the live race meet licensee.
+(4) In addition to other grounds provided in this chapter, the  commission may refuse to issue
+or renew or may revoke or suspend the license of any race meet licensee, or any  employee thereof,
+for failure to comply with ORS 462.700 to 462.740 or commission rules.
+(5) If a race  meet licensee proposes to conduct off-race course mutuel wagering at a physical
+facility separate from the race course:
+(a) Individuals working at the separate facility must obtain a license for such employment from
+the commission if the individuals are performing duties for which  a license would be required if the
+duties were performed at a race course. The fee for any such license shall be the  same as the fee
+for the license required if the individual were working at a race course.
+(b) ORS 462.080, 462.190 and 462.195 apply to the  race meet licensee and to individuals at the
+facility in the same manner as if the mutuel  wagering activity were being conducted at a race
+course.
+(6) In  addition to other requirements of ORS 462.700 to 462.740, the commission may authorize
+a race meet licensee to conduct off-race course  mutuel wagering on a particular race that is held
+at a race course outside this state subject to the following [ conditions] provisions:
+(a) The commission may authorize only one race meet licensee,  that is the holder of a license
+under ORS 462.062 or 462.067, to conduct off-race course mutuel wagering on the race.
+(b) The commission may authorize such off-race course mutuel wagering to be conducted at the
+licensee’s race course and any off-race course wagering site approved by the commission.
+[(c) The  commission may authorize a race meet licensee to conduct off-race course mutuel wagering
+on either horse races or greyhound races, except that: ]
+[(A) A horse race meet licensee may conduct off-race course mutuel wagering  on greyhound races
+only if there is no active greyhound race meet licensee; and ]
+[(B) A greyhound  race meet licensee may conduct off-race course mutuel wagering on horse races
+only if there is no active horse race meet licensee. ]
+[(d)] (c)  If a licensee applies for authority to conduct  mutuel wagering on horse races held at
+race courses outside this state, the commission  may require that the licensee provide such evidence
+as the commission considers appropriate regarding the ability of the licensee to comply with the
+Interstate Horseracing Act of 1978, 15 U.S.C. 3001 to 3007, as amended.
+REPORTING BY VETERINARIANS
+SECTION 19.
+Section 20 of this  2024 Act is added to and made a part of ORS chapter 686.
+SECTION 20. (1) A veterinarian  shall make a report as described in subsection (2) of this
+section if the veterinarian comes into contact with a horse:
+(a) That shows signs of abuse, injury or inadequate health; and
+(b) That the veterinarian has reasonable cause to believe is involved in horse racing.
+(2) A report under this section must be made to the Oregon Racing Commission and must
+include:
+(a) The name and description of each animal involved;
+(b) The  address, telephone number or other contact information for the owner or other
+person responsible for the care of the animal;
+(c) The nature and extent of the signs of abuse, injury or inadequate health; and
+(d) Any  other information that the person making the report believes may be helpful in
+ensuring the welfare of horses involved in horse racing.
+(3) As used in this section, “veterinarian” means a person licensed to practice veterinary
+medicine under ORS chapter 686.
+CIVIL PENALTIES
+SECTION 21.
+Section 22 of this  2024 Act is added to and made a part of ORS chapter 462.
+SECTION 22. (1) In addition to any other liability or  penalty provided by law, the Oregon
+Racing Commission may impose a civil penalty on a person for any of the following:
+(a) Violation of ORS 462.020 (1).
+(b) Accepting or facilitating  wagers on animal racing, if the person is not authorized to
+do so under this chapter.
+(2) The commission shall adopt  rules establishing the civil penalties that may be imposed
+under this section.
+(3) Civil penalties under this section shall be  imposed in the manner provided by ORS
+183.745.
+(4) A civil penalty imposed  under this section may be remitted or reduced upon such
+terms and conditions as the commission considers proper and consistent with  the public
+good.
+(5) In imposing  a civil penalty pursuant to this section, the commission shall consider
+at least the following factors:
+(a) The past history of the person incurring a penalty in taking all feasible steps  or pro-
+cedures necessary or appropriate to correct any violation;
+(b) Any prior violations of statute, rules or orders;
+(c) The economic and financial conditions of the person incurring the penalty; and
+(d) The immediacy and extent to which the violation threatens the public good.
+(6) All penalties recovered under this section shall be paid into the State Treasury and
+credited to the General Fund and are available for general governmental expenses.
+CAPTIONS
+SECTION 23.
+The unit captions used in this 2024 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2024 Act.
+EMERGENCY CLAUSE
+SECTION 24. This 2024 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2024 Act takes effect
+on its passage.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 462.010, ORS 462.020, ORS 462.030, ORS 462.040, ORS 462.057, ORS 462.067, ORS 462.070, ORS 462.075, ORS 462.110, ORS 462.125, ORS 462.135, ORS 462.140, ORS 462.155, ORS 462.279, ORS 462.510, ORS 462.710, ORS 462.725
+- From bill text (Introduced version): ORS 181A.195, ORS 183.745, ORS 293.605, ORS 462.010, ORS 462.020, ORS 462.030, ORS 462.040, ORS 462.057, ORS 462.062, ORS 462.067, ORS 462.070, ORS 462.073, ORS 462.075, ORS 462.080, ORS 462.110, ORS 462.125, ORS 462.135, ORS 462.140, ORS 462.142, ORS 462.155, ORS 462.157, ORS 462.190, ORS 462.195, ORS 462.279, ORS 462.510, ORS 462.700, ORS 462.710, ORS 462.725
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `2abfceb49145f58cf68283ceb990e601f25eb26fb872de5842c119d40c1a1ed7` (snapshot `_meta/snapshots/measure-2024r1-hb4051-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4051/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4051> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,210 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 347
+Sponsored by Senator SMITH DB; Senator PHAM K, Representatives LEVY B, WRIGHT (Presession
+filed.)
+CHAPTER .................................................
+AN ACT
+Relating to farm use land  used for illegal growing of marijuana; creating new provisions; amending
+ORS 308A.083, 308A.703, 308A.706 and 475C.421; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. Section 2 of this 2025 Act is added to and made a part of ORS 308A.050 to
+308A.128.
+SECTION 2. (1) This section applies to:
+(a) Land within an exclusive farm use zone qualified for special assessment under  ORS
+308A.062; and
+(b) Nonexclusive farm use zone farmland  qualified for special assessment under ORS
+308A.068.
+(2) Land described in subsection (1) of this section shall be disqualified from the special
+assessment upon either of the following outcomes against the owner of the land,  or the
+person with legal possession and control of the land, based on conduct constituting illegal
+growing of marijuana on that land:
+(a) An order  imposing a civil penalty becoming final by operation of law or on appeal in
+accordance with ORS 183.745.
+(b) Entry of a final judgment of conviction.
+(3) Notwithstanding subsection (2) of this  section, land shall not be disqualified from
+special assessment under this section if the landowner, or other person obligated to  pay ad
+valorem property taxes on the land:
+(a) Reasonably lacked knowledge of the illegal growing of marijuana on the land;
+(b) Notified a law enforcement agency as soon  as practicable after the date on which the
+landowner or other person knew or should have known that illegal growing of  marijuana was
+occurring on the land; or
+(c) Acquired the land in an arm’s-length transaction in the period between the  date on
+which a civil penalty was imposed or a criminal complaint upon which  the final judgment of
+conviction is based was filed and the date on which an order  or a final judgment described
+in subsection (2) of this section was issued or entered.
+(4)(a) Notwithstanding any provision of  ORS 308.210, 308A.056, 308A.062, 308A.068,
+308A.071, 308A.113,  308A.116, 308A.718, 308A.724, 311.405 or 311.410 to the contrary, disquali-
+fication under subsection (2) of this section shall be deemed to have occurred as of the Jan-
+uary 1 assessment date of the earlier  of the assessment year in which a civil penalty was
+Enrolled Senate Bill 347 (SB 347-A) Page 1
+imposed or a criminal complaint  upon which the final judgment of conviction is based was
+filed.
+(b) The disqualification shall apply  to the portion of the land that is granted special as-
+sessment under a program referred to in subsection (1) of this section  only for the year in
+which the disqualification is deemed to have occurred under  paragraph (a) of this subsection.
+(c) The county assessor shall correct the tax roll for the year in  which the disqualifica-
+tion is deemed to have occurred.
+(5) Upon disqualification, additional taxes  shall be determined as provided in ORS
+308A.700 to 308A.733.
+(6) As used in this section:
+(a) “Final judgment of conviction” means  a criminal judgment for which the time to ap-
+peal has expired without any party filing  an appeal or that is not subject to further appeal
+or review.
+(b) “Illegal growing of marijuana” means the production of marijuana  in a manner or
+place that subjects the production  or producer to civil or criminal enforcement under ORS
+475C.005 to 475C.525.
+SECTION 3.
+ ORS 308A.703 is amended to read:
+308A.703. (1) This section applies to land upon the  land’s disqualification from special assess-
+ment under any of the following sections:
+(a) Exclusive farm use zone farmland under ORS 308A.113 or section 2 of this 2025 Act ;
+(b) Nonexclusive farm use zone farmland under ORS 308A.116  or section 2 of this 2025 Act ;
+(c) Western Oregon designated forestland under ORS 321.359;
+(d) Eastern Oregon designated forestland under ORS 321.842;
+(e) Wildlife habitat special assessment under ORS 308A.430; or
+(f) Conservation easement special assessment under ORS 308A.465.
+(2) Following a disqualification listed in subsection  (1) of this section, an additional tax shall
+be added to the tax extended against the land on the next assessment  and tax roll, to be collected
+and distributed in the same manner as other ad valorem property tax moneys. The  additional tax
+shall be equal to the difference between the taxes assessed against the land and the taxes that
+would otherwise have been assessed against the  land, for each of the number of years determined
+under subsection (3) of this section.
+(3) The number of years  for which additional taxes shall be calculated shall equal the lesser of
+the number of consecutive years the  land had qualified for the special assessment program for which
+disqualification has occurred or:
+(a) Ten years, in the  case of exclusive farm use zone farmland, but only if the land, immediately
+following disqualification, remains outside an urban growth boundary;
+(b) Ten years, in the case of wildlife  habitat special assessment land within an exclusive farm
+use zone, but only  if the land, immediately following disqualification, remains outside an urban
+growth boundary;
+(c) Ten years, in the case of conservation  easement special assessment land within an exclusive
+farm use zone, but  only if the land, immediately following disqualification, remains outside an urban
+growth boundary; [ or]
+(d) Five years, in the case of:
+(A) Nonexclusive farm use zone farmland;
+(B) Western Oregon designated forestland;
+(C) Eastern Oregon designated forestland;
+(D) Exclusive farm use zone farmland that is not described in paragraph (a) of this subsection;
+(E) Wildlife habitat special assessment  land that is not described in paragraph (b) of this sub-
+section; or
+(F) Conservation easement special  assessment land that is not described in paragraph (c) of this
+subsection[ .]; or
+Enrolled Senate Bill 347 (SB 347-A) Page 2
+(e) Notwithstanding paragraphs  (a) and (d) of this subsection, 10 years in the case of
+exclusive farm use  zone farmland and nonexclusive farm use zone farmland disqualified un-
+der section 2 of this 2025 Act.
+(4)(a) Except as  provided in paragraph (b) of this subsection, if disqualification under subsection
+(1)(a) or (b) of this section occurs within five years  after the end of a period of farm use special
+assessment pursuant to a remediation plan as defined  in ORS 308A.053, the number of years for
+which the additional tax  shall be calculated shall be the number of years determined under sub-
+section (3) of this section plus the number of years during which  farm use special assessment was
+granted pursuant to the remediation plan.
+(b) Additional tax may not be collected for the number of years during which  farm use special
+assessment was granted pursuant to the remediation plan if the plan:
+(A) Is implemented in good faith; and
+(B) Fails to render continued farm use practicable.
+(5) The additional taxes described in this section shall be deemed assessed and imposed  in the
+year to which the additional taxes relate.
+(6) If  the disqualification of the land is the result of the sale or transfer of the land to an own-
+ership making the land exempt from ad valorem property taxation, the  lien for additional taxes shall
+attach as of the day preceding the sale or transfer.
+(7) The amount determined to be  due under this section may be paid to the tax collector prior
+to the time of the next general property tax roll, pursuant to the provisions of ORS 311.370.
+SECTION 4.
+ ORS 308A.706 is amended to read:
+308A.706. (1) Notwithstanding that land is  disqualified from special assessment, the additional
+taxes described under ORS 308A.703 may not be imposed and shall remain a potential tax liability
+if, as of the date the disqualification is taken into account on the assessment and tax roll, the land
+is any of the following:
+(a) Disqualified exclusive farm use zone farmland or nonexclusive farm use zone farmland that:
+(A) Is not being used as farmland; and
+(B) Is not being used for industrial, commercial, residential or other  use that is incompatible
+with a purpose to return the land to farm use.
+(b) Acquired by a governmental agency or body as a result of an exchange of the land for  land
+of approximately equal value held by the governmental agency or body.
+(c) Acquired and used for natural  heritage purposes and all of the following additional require-
+ments are met:
+(A) The land is registered under ORS 273.581 as a state natural area;
+(B) The land is acquired by a private nonprofit corporation;
+(C) The land  is retained by the corporation, or transferred to the state by the corporation, for
+the purpose of educational, scientific and passive recreational use consistent with conservation  of
+the ecological values and natural heritage resources of the area;
+(D) If the land is retained by the corporation, it remains open  to the public without charge for
+the uses described in subparagraph (C) of this paragraph; and
+(E) The land is managed pursuant to a voluntary management agreement under ORS 273.581 (5).
+(d) Qualified for special assessment under:
+(A) ORS 308A.062, relating to farm use special assessment of  land in an exclusive farm use zone;
+(B) ORS 308A.068, relating to farm use special  assessment of nonexclusive farm use zone
+farmland;
+(C) ORS 321.358, relating to classification as designated forestland in western Oregon;
+(D) ORS 321.839, relating to classification as designated forestland in eastern Oregon;
+(E) ORS 321.709, relating to qualification as small tract forestland;
+(F) ORS 308A.424, relating to wildlife habitat special assessment; or
+(G) ORS 308A.456, relating to conservation easement special assessment.
+(e) Disqualified nonexclusive farm use zone farmland, to the extent  the additional taxes are de-
+ferred or abated as provided in ORS 308A.119.
+Enrolled Senate Bill 347 (SB 347-A) Page 3
+(2) This section does not apply to the additional taxes imposed under :
+(a) ORS 308A.703 (4)(a) for the number of years  during which farm use special assessment was
+granted pursuant to a remediation plan as defined in ORS 308A.053.
+(b) Section 2 of this 2025 Act.
+(3) In any case where the additional tax is deferred under the provisions of this section  but may
+subsequently be imposed  under ORS 308A.712, the county assessor shall continue to enter the no-
+tation “potential additional tax liability” on the assessment and tax roll.
+SECTION 5.
+ ORS 475C.421 is amended to read:
+475C.421. (1) The county courts,  district attorneys and municipal authorities, immediately upon
+the conviction of  a licensee of a violation of ORS 475C.005 to 475C.525, or of a violation of any other
+law of this state or ordinance of a city or county located in this state an  element of which is the
+possession, delivery or manufacture  of a marijuana item, shall notify the Oregon Liquor and
+Cannabis Commission of the conviction.
+(2) Immediately upon a judicial outcome  subject to notice in the case of a licensee, or a
+person required to be  licensed under ORS 475C.005 to 475C.525, for a violation subject to no-
+tice, the county courts, district  attorneys and municipal authorities shall notify the com-
+mission, each county assessor having jurisdiction over the farmland  on which the prohibited
+conduct occurred and the Department of Revenue of  the judicial outcome subject to notice
+and the location of the farmland.
+(3) As used in this section:
+(a) “Final judgment of conviction” has the meaning given that term in section 2  of this
+2025 Act.
+(b) “Illegal growing of marijuana” has the meaning given that  term in section 2 of this
+2025 Act.
+(c) “Judicial outcome subject to notice” means the issuance of  an order imposing a civil
+penalty, or the entry of a final judgment of conviction, as  described in section 2 (2) of this
+2025 Act.
+(d) “Violation subject to notice” means a violation of ORS 475C.005 to 475C.525,  or a vio-
+lation of any other law of this state or ordinance of a city or county located in this  state,
+an element of which is the illegal growing of marijuana on farmland.
+SECTION 6.
+ ORS 308A.083 is amended to read:
+308A.083. In the  case of exclusive farm use zone farmland that qualifies for special assessment
+under ORS 308A.062  or nonexclusive farm use zone farmland that qualifies for special assessment
+under ORS 308A.068, the county assessor shall enter on the assessment  and tax roll the notation
+“potential additional tax liability” until the land is disqualified under ORS 308A.113 or  308A.116 or
+section 2 of this 2025 Act .
+SECTION 7. Section 2 of this 2025 Act and the amendments to ORS 308A.083,  308A.703,
+308A.706 and 475C.421 by sections 3 to 6 of this 2025 Act apply  to conduct constituting illegal
+growing of marijuana that occurs on or after the effective date of this 2025 Act.
+SECTION 8. This 2025 Act  takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+Enrolled Senate Bill 347 (SB 347-A) Page 4
+Passed by Senate June 3, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 19, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 347 (SB 347-A) Page 5

@@ -1,0 +1,356 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1078
+Sponsored by Senator WEBER, Representatives EDWARDS, MANNIX;  Senator WOODS, Representatives DIEHL,
+DRAZAN, LEVY B, WRIGHT
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that a public servant commits official misconduct if they fail to report child
+abuse when they are required to do so. The Act also says that the state has extra time  to bring an
+action against the public servant for the official misconduct. (Flesch Readability Score: 62.1).
+Specifies that a public servant’s failure to make a  mandatory report of suspected child abuse
+constitutes a crime of official misconduct in the second degree. Extends time period for commencing
+prosecution for official misconduct arising from the defendant’s failure to make a  mandatory report
+of suspected child abuse.
+A BILL FOR AN ACT
+Relating to official misconduct; creating new provisions; and amending ORS 131.125,  162.405 and
+419B.010.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 419B.010 is amended to read:
+419B.010. (1) Any  public or private official having reasonable cause to believe that any child
+with whom the official comes in contact has suffered  abuse or that any person with whom the offi-
+cial comes in contact  has abused a child shall immediately report or cause a report to be made in
+the manner required in ORS 419B.015.  Nothing contained in ORS 40.225 to 40.295 or 419B.234 (6)
+affects the duty to report  imposed by this section, except that a psychiatrist, psychologist, member
+of the clergy,  attorney or guardian ad litem appointed under ORS 419B.231 is not required to report
+such information communicated by a person if the  communication is privileged under ORS 40.225 to
+40.295 or 419B.234 (6). An attorney is not required to make a report under  this section by reason
+of information communicated to the attorney in the course of representing a client if disclosure of
+the information would be detrimental to the client.
+(2) Notwithstanding subsection (1) of this section, a report need not be made under this  section
+if the public or private official acquires information relating to abuse by reason of a  report made
+under this section, or by reason of a proceeding arising out of a report made under  this section, and
+the public or private  official reasonably believes that the information is already known by a law
+enforcement agency or the Department of Human Services.
+(3) The duty to report under this section is personal to the public or private official alone, re-
+gardless of whether the official is employed by, a volunteer of or a  representative or agent for any
+type of entity or organization  that employs persons or uses persons as volunteers who are public
+or private officials in its operations.
+(4) The duty to report under this  section exists regardless of whether the entity or organization
+that employs the public or private  official or uses the official as a volunteer has its own procedures
+or policies for reporting abuse internally within the entity or organization.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3987
+SB 1078
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) Except as  provided in ORS 131.125 and 162.405, a person who violates subsection (1) of this
+section commits a  Class A violation. Prosecution under this subsection shall be commenced at any
+time within 18 months after commission of the offense.
+SECTION 2.
+ ORS 131.125 is amended to read:
+131.125. (1) A prosecution for  aggravated murder, murder, attempted murder or aggravated
+murder, conspiracy or solicitation to commit aggravated murder or  murder or any degree of
+manslaughter may be commenced at any time after the commission of the attempt,  conspiracy or
+solicitation to commit aggravated murder or murder, or the death of the person killed.
+(2) A prosecution for any of the following felonies may be commenced within 20 years  after the
+commission of the crime or, if  the victim at the time of the crime was under 18 years of age, anytime
+before the victim attains 30 years of age, whichever occurs later:
+(a) Rape in the first degree under ORS 163.375.
+(b) Sodomy in the first degree under ORS 163.405.
+(c) Unlawful sexual penetration in the first degree under ORS 163.411.
+(d) Sexual abuse in the first degree under ORS 163.427.
+(3) A prosecution for any of  the following felonies may be commenced within six years after the
+commission of the crime or, if  the victim at the time of the crime was under 18 years of age, anytime
+before the victim attains 30 years of age or within 12 years  after the offense is reported to a law
+enforcement agency or the Department of Human Services, whichever occurs first:
+(a) Strangulation under ORS 163.187 (4).
+(b) Criminal mistreatment in the first degree under ORS 163.205.
+(c) Rape in the third degree under ORS 163.355.
+(d) Rape in the second degree under ORS 163.365.
+(e) Sodomy in the third degree under ORS 163.385.
+(f) Sodomy in the second degree under ORS 163.395.
+(g) Unlawful sexual penetration in the second degree under ORS 163.408.
+(h) Sexual abuse in the second degree under ORS 163.425.
+(i) Using a child in a display of sexual conduct under ORS 163.670.
+(j) Encouraging child sexual abuse in the first degree under ORS 163.684.
+(k) Incest under ORS 163.525.
+(L) Promoting prostitution under ORS 167.012.
+(m) Compelling prostitution under ORS 167.017.
+(n) Luring a minor under ORS 167.057.
+(4) A prosecution for any of the  following misdemeanors may be commenced within four years
+after the commission of the crime or, if the victim at the time of the crime was under  18 years of
+age, anytime before the victim  attains 22 years of age or within four years after the offense is re-
+ported to a law enforcement agency or the Department of Human Services, whichever occurs first:
+(a) Strangulation under ORS 163.187 (3).
+(b) Sexual abuse in the third degree under ORS 163.415.
+(c) Exhibiting an obscene performance to a minor under ORS 167.075.
+(d) Displaying obscene materials to minors under ORS 167.080.
+(5) In  the case of crimes described in subsection (3)(i) of this section, the victim is the child
+engaged in sexual conduct. In the  case of the crime described in subsection (3)(k) of this section,
+the victim is the  party to the incest other than the party being prosecuted. In the case of crimes
+described in subsection (3)(L) and (m) of this section, the  victim is the child whose acts of
+[2]
+SB 1078
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+prostitution are promoted or compelled.
+(6) A prosecution for arson in any degree may be commenced within six  years after the com-
+mission of the crime.
+(7) A prosecution for any of  the following felonies may be commenced within six years after the
+commission of the crime if the victim at the time of the crime was 65 years of age or older:
+(a) Theft in the first degree under ORS 164.055.
+(b) Aggravated theft in the first degree under ORS 164.057.
+(c) Extortion under ORS 164.075.
+(d) Robbery in the third degree under ORS 164.395.
+(e) Robbery in the second degree under ORS 164.405.
+(f) Robbery in the first degree under ORS 164.415.
+(g) Forgery in the first degree under ORS 165.013.
+(h) Fraudulent use of a credit card under ORS 165.055 (4)(b).
+(i) Identity theft under ORS 165.800.
+(8) Except as provided in subsection (9)  of this section or as otherwise expressly provided by
+law, prosecutions for other  offenses must be commenced within the following periods of limitations
+after their commission:
+(a) For any other felony, three years.
+(b) For any misdemeanor, two years.
+(c) For a violation, six months.
+(9) If the period prescribed in subsection (8) of this section  has expired, a prosecution never-
+theless may be commenced as follows:
+(a) If the offense has as a material element either fraud or the breach of a fiduciary  obligation,
+prosecution may be commenced within one year after discovery of the offense by an  aggrieved party
+or by a person who has a legal duty to represent an aggrieved party and who is not a party to the
+offense, but in no case shall the period of limitation otherwise applicable  be extended by more than
+three years;
+(b) If the offense is based on official misconduct in office by a public officer or  employee
+for failure to report suspected child abuse as required under ORS 419B.010,  prosecution may
+be commenced at any time  while the defendant is in public office or employment or within
+five years thereafter, but in no case shall  the period of limitation otherwise applicable be
+extended by more than six years;
+[(b)] (c)  If the offense is based upon misconduct in office by a  public officer or employee , other
+than as  described in paragraph (b) of this subsection , prosecution may be commenced at any
+time while the defendant is in public office or  employment or within two years thereafter, but in no
+case shall the period of limitation otherwise applicable be extended by more than three years;
+[(c)] (d)  If the offense is an invasion of personal privacy under ORS 163.700  or 163.701, prose-
+cution may be commenced within one year after discovery of the offense by the person  aggrieved
+by the offense, by  a person who has a legal duty to represent the person aggrieved by the offense
+or by a law enforcement agency, but in no case shall the period of limitation otherwise  applicable
+be extended by more than three years; or
+[(d)] (e)  If the offense  is sexual abuse by fraudulent representation under ORS 163.429, prose-
+cution may be commenced within six years after the victim becomes aware or reasonably should
+have become aware of the criminal nature of the conduct.
+(10) Notwithstanding subsections (2) and (3) of this section, if the defendant is identified  after
+[3]
+SB 1078
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the period described in subsection (2) or (3) of this section  on the basis of DNA (deoxyribonucleic
+acid) sample comparisons, a prosecution for:
+(a) Rape in  the first degree, sodomy in the first degree, unlawful sexual penetration in the first
+degree or sexual abuse in the first degree may be commenced at any time after the commission  of
+the crime.
+(b) Rape in the second degree, sodomy in  the second degree or unlawful sexual penetration in
+the second degree may be commenced within 25 years after the commission of the crime.
+(11) Notwithstanding subsection (10) of this section, if a prosecution for  a felony listed in sub-
+section (10) of this section  would otherwise be barred by subsection (2) or (3) of this section, the
+prosecution must be commenced within two years of the DNA-based identification of the defendant.
+(12)(a) Notwithstanding subsection (2) of this section, if  a prosecuting attorney obtains corrob-
+orating evidence of the  crimes of rape in the first degree, sodomy in the first degree, unlawful sexual
+penetration in the first degree or sexual abuse in the first degree, after the  period described in
+subsection (2) of this section, the prosecution may be  commenced at any time after the commission
+of the crime.
+(b) The corroborating evidence  described in paragraph (a) of this subsection must consist of one
+of the following:
+(A) Physical evidence other than a DNA sample, including but not limited to  audio, video or
+other electronic recordings, text messages, guest book logs, telephone recordings and photographs.
+(B) A confession, made by the defendant, to the crime the victim reported.
+(C) An oral statement, made by the victim to another person in temporal proximity to  the com-
+mission of the crime, corroborating the victim’s report of the crime to a law enforcement agency.
+(D) A written statement, created by the victim in temporal proximity to the commission of  the
+crime and subsequently delivered to another person or  to a law enforcement agency, corroborating
+the victim’s report of the crime to a law enforcement agency.
+(E) A report made  by a different victim to a law enforcement agency, made either before or after
+the victim’s report, alleging that the defendant  committed another crime of the same or similar
+character such that the two crimes could be  charged in the same charging instrument under ORS
+132.560.
+(13)(a) A prosecuting attorney commencing a  prosecution pursuant to subsection (12) of this
+section shall present any evidence reasonably tending to negate the  guilt of the defendant to the
+grand jury considering the indictment for the offense.
+(b) The failure to present evidence reasonably tending to negate guilt as  required by paragraph
+(a) of this subsection does not affect the validity of an indictment or prosecution.
+SECTION 3.
+ ORS 162.405 is amended to read:
+162.405. (1) A public servant commits the  crime of official misconduct in the second degree if the
+person knowingly violates any statute relating to the office of the person.
+(2) Official misconduct in the second degree is a Class C misdemeanor.
+(3) As used in this section,  “relating to the office of the person” includes a duty described
+in ORS  419B.010 if the person is a public or private official as defined in ORS 419B.005 based
+on the person’s position as a public servant.
+SECTION 4.
+The amendments to ORS 131.125 by section 2 of  this 2025 Act apply to of-
+fenses committed before, on or after the effective date of this 2025 Act but  do not operate
+to revive a prosecution barred by the operation of ORS 131.125 before the effective date  of
+this 2025 Act.
+[4]
+SB 1078
+1
+[5]

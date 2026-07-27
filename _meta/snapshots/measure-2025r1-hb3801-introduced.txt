@@ -1,0 +1,152 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3801
+Sponsored by Representatives OWENS, HELM
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes changes to the law that allows agreements among persons that  use
+ground water. (Flesch Readability Score: 68.9).
+Makes certain changes related to voluntary agreements among ground water users.
+A BILL FOR AN ACT
+Relating to voluntary agreements among ground water users; amending ORS 537.745.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 537.745 is amended to read:
+537.745. (1)  In the administration of ORS 537.505 to 537.795 and 537.992, the Water Resources
+Commission [ may] shall  encourage, promote and recognize voluntary agreements among  ground
+water users from the same ground water reservoir[ .] or from the same portion of  a ground water
+reservoir that:
+(a) Further ground water users’ understanding of ground water resources; and
+(b) Allow ground water users to determine how to achieve long-term  stability of ground
+water resources in ways that best serve local communities.
+(2) [ When the  commission finds that any such agreement, ] The commission shall approve an
+agreement described in subsection (1)  of this section if the commission finds that the
+agreement is:
+(a) Executed in writing and filed with the commission[ ,];
+(b) [ Is] Consistent with the intent, purposes and requirements of ORS 537.505 to 537.795 and
+537.992, and in particular ORS  537.525, 537.730 to 537.740 and 537.780[ , the commission shall approve
+the agreement. ];
+(c) Likely to lead to a reduction in the volume of water  used over time that protects the
+economic viability of ground water users; and
+(d) Likely to promote long-term stability of the ground water resource.
+(3) The commission’s approval of an agreement under  subsection (2) of this section may
+not:
+(a) Be contingent on a minimum participation level.
+(b) Require specific outcomes such as a reduction in ground water use by a  specific date
+or a specific amount of a reduction in ground water use.
+(4) The commission’s approval of an agreement under subsection (2) of this section  shall
+constitute an order other than contested cases for purposes of ORS chapter 183.
+(5) Notwithstanding ORS 536.025 (2), the commission may not delegate authority or duties
+under this section to the Water Resources Director.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4300
+HB 3801
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+(6) This state may only be a party to,  or have rights as a party to, a voluntary agreement
+described in this section in this state’s capacity as a landowner.
+(7) [ Thereafter the agreement, until terminated as provided in this subsection, ] An  agreement
+under this section  shall control in lieu of a formal order or rule of the commission under ORS
+537.505 to 537.795 and 537.992  until the agreement is terminated as  described in subsection (8)
+of this section .
+(8) [ Any ] An  agreement [ approved by the commission ] under this section  may be terminated
+only by:
+(a) The lapse of time as provided in the agreement[ , by ];
+(b) Consent of the parties to the agreement ; or [ by]
+(c) Order of the commission if the commission finds, after investigation and a  public hearing
+upon adequate notice, that :
+(A) The agreement is not being substantially complied with by the parties thereto ; or [ that]
+(B) Changed conditions have made the continuance of  the agreement a detriment to the public
+welfare, safety and health or contrary in any  particular to the intent, purposes and requirements
+of ORS 537.505 to 537.795 and 537.992.
+[(2)] (9)  When any irrigation  district, drainage district, other district organized for public pur-
+poses or other public corporation or political subdivision of this state is authorized by law  to enter
+into agreements [ of the kind referred to ] described in subsection (1) of this section, the commission
+may approve such agreements as provided in subsection [ (1)] (2) of this section.
+(10) [Any such ] An  agreement  described in subsection (9) of this section and  approved by the
+commission shall:
+(a) Have the [ same] effect  described in subsection (7) of this section;  and [ shall]
+(b) Be subject to termination in the  same manner and for the same reasons set forth in sub-
+section [ (1)] (8) of this section.
+(11) Any water  right that has not been canceled as described in ORS 540.610 may be in-
+cluded in an agreement under this section.
+(12) The parties to an agreement under this section:
+(a) May make minor amendments to  the agreement, such as the addition of a party,
+without seeking approval from the commission.
+(b) Notwithstanding ORS 540.520 and 540.523, may make changes described in  ORS 540.520
+and 540.523 without applying for approval for the changes.
+(c) Shall meter any water well used to appropriate ground water.
+(d) Shall report the parties’ total annual use of ground water under  the agreement to the
+commission.
+(e) Shall establish plans for the parties’ total  annual use of ground water under the
+agreement before an irrigation season.
+[2]

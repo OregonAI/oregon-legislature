@@ -1,0 +1,163 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 737
+Sponsored by Senator GELSER BLOUIN; Senators JAMA, MEEK, Representative FRAGALA (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act gives more neighbors notice of middle housing land divisions  and adds content
+to the notice. (Flesch Readability Score: 65.1).
+Expands the  radius for giving notices of proposed middle housing land division and requires
+additional content in the notices.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to middle housing land division; amending ORS 197.365; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 197.365 is amended to read:
+197.365. Unless the applicant requests to use the procedure set forth in a  comprehensive plan
+and land use regulations, a local government shall use  the following procedure for an expedited land
+division, as described in ORS 197.360, or a middle housing land division under ORS 92.031:
+(1)(a) If the application for a land division is incomplete, the local government shall notify  the
+applicant of exactly what information is missing within 21 days of receipt of the application and
+allow the applicant to submit the missing information. For purposes of computation of time under
+this section, the application shall be deemed complete on the date the applicant submits  the re-
+quested information or refuses in writing to submit it.
+(b) If the application was complete when first submitted or the  applicant submits the requested
+additional information within 180  days of the date the application was first submitted, approval or
+denial of the application shall be based upon the standards and criteria that were applicable at  the
+time the application was first submitted.
+(2) The local government shall provide written notice of the  receipt of the completed application
+for a land division to  any state agency, local government or special district responsible for providing
+public facilities or services to the development  and to owners of property within 100 feet , or no less
+than 300 feet for a middle housing  land division, of the entire contiguous site for which the ap-
+plication is made. The notification list shall be compiled from the most recent property tax  assess-
+ment roll. For purposes of appeal to the referee under ORS 197.375, this requirement shall be deemed
+met when the local government can provide an affidavit or other certification that such notice  was
+given. Notice shall also be provided to any neighborhood  or community planning organization re-
+cognized by the governing body and whose boundaries include the site.
+(3) The notice required under subsection (2) of this section shall:
+(a) State:
+(A) The deadline for submitting written comments;
+(B) That issues that may provide the basis for an appeal to the  referee must be raised in writing
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3449
+SB 737
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+prior to the expiration of the comment period; and
+(C) That issues must be raised with sufficient specificity to enable the local government  to re-
+spond to the issue.
+(b) Set forth, by commonly used citation, the applicable criteria for the decision.
+(c) Set forth the street address or other easily  understood geographical reference to the subject
+property.
+(d) State the place, date and time that comments are due.
+(e) State a time  and place where copies of all evidence submitted by the applicant will be
+available for review.
+(f) Include the name and telephone number of a local government contact person.
+(g) Briefly summarize the local decision-making process for the land division  decision being
+made.
+(h) State, for middle housing land divisions:
+(A) The conditions under which the application may be denied;
+(B) An explanation that the local  government must approve an application that is com-
+plete and meets the statutory requirements;
+(C) The local government’s assessment of whether approval  of the application will trigger
+the need for a traffic study;
+(D) The local government’s assessment  of whether approval of the application will trigger
+the need to enhance other infrastructure; and
+(E) Where residents  may get more information about how systems development charges
+will be  applied to the development and how infrastructure need and traffic safety are as-
+sessed.
+(4) After notice under subsections (2) and (3) of this section, the local government shall:
+(a) Provide a 14-day period for submission of written comments prior to the decision.
+(b) Make a decision to approve or deny the application within 63 days  of receiving a completed
+application, based on whether it satisfies the substantive requirements of the applicable land  use
+regulations. An approval may include conditions  to ensure that the application meets the applicable
+land use regulations. For applications subject to this section, the local government:
+(A) Shall not hold a hearing on the application; and
+(B) Shall issue a written determination of compliance or noncompliance  with applicable land use
+regulations that includes a summary statement explaining the  determination. The summary state-
+ment may be in any form reasonably intended to communicate  the local government’s basis for the
+determination.
+(c) Provide notice of the decision to the applicant  and to those who received notice under sub-
+section (2) of  this section within 63 days of the date of a completed application. The notice of deci-
+sion shall include:
+(A) The summary statement described in paragraph (b)(B) of this subsection; and
+(B) An explanation of appeal rights under ORS 197.375.
+SECTION 2.
+This 2025 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+on its passage.
+[2]

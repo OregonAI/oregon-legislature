@@ -1,0 +1,197 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 782
+Sponsored by Senator NASH, Representative LEVY B (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act increases the amount of grant funds a county may receive  to fund a deflection
+program. (Flesch Readability Score: 65.1).
+Increases the minimum amount of grant funds that  a county may receive to fund a behavioral
+health deflection program.
+A BILL FOR AN ACT
+Relating to behavioral health deflection programs;  amending section 76, chapter 70, Oregon Laws
+2024.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ Section 76, chapter 70, Oregon Laws 2024, is amended to read:
+Sec. 76.  (1) As used  in this section, “deflection program” means a collaborative program be-
+tween law enforcement agencies and behavioral health entities that assists  individuals who may
+have substance use disorder,  another behavioral health disorder or co-occurring disorders, to create
+community-based pathways to  treatment, recovery support services, housing, case management or
+other services.
+(2) The Oregon Behavioral Health Deflection Program is  established within the Improving
+People’s Access to Community-based Treatment, Supports and  Services Grant Review Committee
+established under ORS 430.234.  The program consists of grants awarded by the committee to coun-
+ties and federally recognized tribal governments to fund deflection programs.
+(3)(a) The purpose of the program described in this section is to:
+(A) Address the need for more deflection programs to assist individuals whose behavioral health
+conditions, including substance use disorder, lead to interactions with  law enforcement,
+incarceration, conviction and other engagement with the criminal justice system.
+(B) Track and report data  concerning deflection program outcomes in order to determine the
+best practices for deflection programs within this state.
+(b) ORS 430.230 to 430.236 do not apply to the program described in this section.
+(4)(a) The  committee shall develop a grant application process for awarding grants under this
+section.
+(b) An application for a grant under this section may be submitted by a county or the designee
+of a county, or by a tribal government or designee  of a tribal government. Only one application per
+county may be submitted, but the application may request funding  multiple programs within a
+county.
+(c) Prior to submitting an  application for a grant under this section, the applicant shall coordi-
+nate with all partners of the development and administration of the proposed deflection program  to
+ensure that the partners have  the resources necessary to implement the deflection program. The
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1753
+SB 782
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+partners shall include at least a  district attorney, a law enforcement agency, a community mental
+health program established under ORS 430.620 and a provider from a Behavioral  Health Resource
+Network established under ORS 430.389. Partners may also include a treatment  provider, a local
+mental health authority, a tribal government, a peer support organization, a court or a local  gov-
+ernment body.
+(d) An application for a grant under this section must contain:
+(A) A description of  the coordination with program partners required by paragraph (c) of this
+subsection that has occurred;
+(B) A description of the individuals who would be eligible for the program and what qualifies
+as a successful outcome, formulated in cooperation with the program partners  described in para-
+graph (c) of this subsection;
+(C) A  description of how the program for which the applicant is seeking funding is culturally
+and linguistically responsive, trauma-informed and evidence-based;
+(D) A description of  a plan to address language access barriers when communicating program
+referral options and program procedures to non-English speaking individuals; and
+(E) A description of how  the program coordinator will communicate with program partners
+concerning persons participating in the program  and any other matter necessary for the adminis-
+tration of the program.
+(5) To be eligible for funding under this section, a deflection program:
+(a) Must be coordinated by or in consultation with a  community mental health program, a local
+mental health authority or a federally recognized tribal government;
+(b) Must have a coordinator with the following program coordinator duties:
+(A) Convening deflection program partners as needed for the operation of the program;
+(B) Managing grant program funds awarded under this section; and
+(C) Tracking  and reporting data required by the Oregon Criminal Justice Commission under
+section 37 , chapter 70, Oregon Laws 2024  [ of this 2024 Act ];
+(c) Must involve the partners described in subsection (4)(c) of this section; and
+(d) May involve a partnership with one or more of the following entities:
+(A) A first responder agency other than a law enforcement agency;
+(B) A community provider;
+(C) A treatment provider;
+(D) A community-based organization;
+(E) A case management provider;
+(F) A recovery support services provider; or
+(G) Any other individual  or entity deemed necessary by the program coordinator to carry out
+the purposes of the deflection program, including individuals  with lived experience with substance
+use disorder, a behavioral health disorder or co-occurring disorders.
+(6) During a grant application period established by  the committee, the maximum proportion of
+grant funds available to an applicant shall be determined as follows:
+(a) The proportion of grant funds available  to an applicant other than a tribal government shall
+be determined based on the county  formula share employed by the Oversight and Accountability
+Council established under ORS 430.388, but an applicant may not receive  less than [ $150,000]
+$500,000.
+(b) The committee shall determine the proportion of funds available  to an applicant that is a
+federally recognized tribal government.
+[2]
+SB 782
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+(7)(a) Grant funds awarded under this section may be used for:
+(A) Deflection program expenses including but not limited  to law enforcement employees, deputy
+district attorneys and behavioral health treatment workers, including peer navigators  and mobile
+crisis and support services workers.
+(B) Behavioral health workforce development.
+(C) Capital construction of behavioral health treatment infrastructure.
+(b) Notwithstanding paragraph (a) of this subsection, the committee may award planning grants
+for the development of deflection programs.
+(c) The committee may allocate up to three percent of program funds  to support grantee data
+collection and analysis or evaluation of outcome measures.
+(8) The Oregon Criminal Justice Commission shall provide staff support to the grant program.
+(9) The committee  and the commission may adopt rules to carry out the provisions of this sec-
+tion.
+[3]

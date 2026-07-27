@@ -1,0 +1,230 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3758
+Sponsored by Representative EDWARDS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act lets a city add lands to its UGB to make up  for unbuildable lands in the city’s
+inventory of buildable lands. (Flesch Readability Score: 62.1).
+Allows a city to expand  its urban growth boundary in proportion to the unbuildable lands within
+the city’s buildable lands inventory.
+A BILL FOR AN ACT
+Relating to urban growth boundary expansion; creating new provisions; and amending ORS 197A.285.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made  a part of ORS chapter 197A.
+SECTION 2. (1) If a city outside of Metro determines that one or more acres of lands
+within an inventory of buildable  lands no longer meet the definition of buildable lands, the
+city may add a roughly equal number of acres to its urban growth boundary.
+(2) An addition of lands to an urban growth boundary under this section:
+(a) Is subject to the process provided in ORS 197A.285;
+(b) Is a land use decision;
+(c) Is not subject to review by  the Land Conservation and Development Commission un-
+der ORS 197.626; and
+(d) May only be made after a city inventories  its buildable lands and at least two years
+prior to  the date that the city is next required to complete the inventory under ORS
+197A.270, 197A.280 or 197A.335.
+(3) The right to  add lands to an urban growth boundary under this section is in addition
+to any other right to add lands  to an urban growth boundary or to exchange lands within
+an urban growth boundary for lands outside of an urban growth boundary.
+SECTION 3.
+ ORS 197A.285 is amended to read:
+197A.285. (1) A city outside Metro  shall comply with this section when determining which lands
+to include within  the urban growth boundary of the city, including when amending an urban growth
+boundary under ORS 197A.270 (5)(a), 197A.310 or 197A.312  or section 2 of this 2025 Act .
+(2) The Land Conservation and Development Commission shall provide, by rule, that:
+(a) When evaluating  lands for inclusion within the urban growth boundary, the city shall es-
+tablish a study area that includes all land that is contiguous to the urban growth  boundary and
+within a distance specified by commission.
+(b) The city shall evaluate all land in the study area for inclusion  in the urban growth boundary
+as provided in subsection (4) of this section, except for land excluded from the study area because:
+(A) It is impracticable, as provided in subsection (3) of this section, to  provide necessary public
+facilities or services to the land.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4374
+HB 3758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) The land is  subject to significant development hazards, including a risk of land slides, a risk
+of flooding because the land is within the 100-year floodplain or is subject to inundation  during
+storm surges or tsunamis, and other risks determined by the commission.
+(C) The long-term preservation of significant scenic, natural, cultural  or recreational resources
+requires limiting or prohibiting urban development of the land that contains the resources.
+(D) The land is owned by the federal government and managed primarily for rural uses.
+(E) The land is designated as rural reserve under ORS 197A.230 to 197A.250.
+(c) When evaluating the priority of land for inclusion under paragraph (b) of this subsection:
+(A) The city shall evaluate the  land within the study area that is designated as an urban reserve
+under ORS 197A.245 in an acknowledged comprehensive plan.
+(B) If the amount of land appropriate for selection under subparagraph (A)  of this paragraph is
+not sufficient to satisfy the need for the land,  the city shall evaluate the land that is subject to an
+acknowledged exception under ORS 197.732 or land that is nonresource land  and select as much of
+the land as necessary to satisfy the need  for land using criteria established by the commission and
+criteria in an acknowledged comprehensive plan and land use regulations.
+(C) If the amount of land appropriate for  selection under subparagraphs (A) and (B) of this
+paragraph is not sufficient  to satisfy the need for land, the city shall evaluate the land within the
+study area that is  designated as marginal land under ORS 197.247 (1991 Edition) in the acknowl-
+edged comprehensive plan and select as much of the land  as necessary to satisfy the need for land
+using criteria established by the commission and criteria in  an acknowledged comprehensive plan
+and land use regulations.
+(D) If the amount  of land appropriate for selection under subparagraphs (A) to (C) of this para-
+graph is not sufficient to satisfy the amount of land needed, the city  shall evaluate land within the
+study area  that is designated for agriculture or forest uses in the acknowledged comprehensive plan
+that is not predominantly high-value farmland, as defined in ORS 195.300,  or does not consist pre-
+dominantly of prime or unique soils, as determined by the United States Department of  Agriculture
+Natural Resources Conservation Service, and select as much of that land as necessary to satisfy  the
+need for land:
+(i) Using criteria established by the  commission and criteria in an acknowledged comprehensive
+plan and land use regulations; and
+(ii) Using the predominant  capability classification system or the predominant cubic site class,
+as appropriate for the acknowledged comprehensive plan designation,  to select lower capability or
+cubic site class lands first.
+(E) If the amount  of land appropriate for selection under subparagraphs (A) to (D) of this para-
+graph is not sufficient to satisfy the need for land, the city shall  evaluate land within the study area
+that is designated as agricultural land in an acknowledged  comprehensive plan and is predominantly
+high value farmland and select as much of that land as necessary to satisfy  the need for land. A
+local government may not  select land that is predominantly made up of prime or unique farm soils,
+as defined by the United States Department of Agriculture Natural Resources Conservation Service,
+unless there is an insufficient amount of other land to satisfy its land need.
+(3) For purposes of subsection (2)(b)(A) of this  section, the commission shall determine
+impracticability by rule, considering the likely amount of development that could occur on  the lands
+within the  planning period, the likely cost of facilities and services, physical, topographical or other
+impediments to service provision and whether urban development has occurred on similarly situated
+lands such that it is likely that the  lands will be developed at an urban level during the planning
+[2]
+HB 3758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+period. When  impracticability is primarily a result of existing development patterns, the rules of the
+commission shall require that the lands be included within the study area,  but may allow the de-
+velopment capacity forecast for the lands  to be specified at a lower level over the planning period.
+The rules of the commission must be based on an evaluation of how  similarly situated lands have,
+or have not, developed over time.
+(4) For purposes of subsection (2)(b)(C) of this  section, the commission by rule shall determine
+the circumstances in which and the resources to which this exclusion will apply.
+(5) Notwithstanding subsection (2)(c)(E) of this section, the rules  must allow land that would
+otherwise be excluded from an urban growth boundary to be included if:
+(a) The land contains a small amount of resource land  that is not important to the commercial
+agricultural enterprise in the area and the land must be included to connect a nearby and  signif-
+icantly larger area of land of higher priority for inclusion within the urban growth boundary; or
+(b) The land contains a small  amount of resource land that is not predominantly high-value
+farmland or predominantly made up of prime or unique farm soils and the land is completely  sur-
+rounded by land of higher priority for inclusion into the urban growth boundary.
+(6) When the primary purpose for expansion  of the urban growth boundary is to accommodate
+a particular industry use that  requires specific site characteristics, or to accommodate a public fa-
+cility that requires specific site characteristics and the site characteristics may  be found in only a
+small number of locations, the city may limit the study area to land that has, or could be  improved
+to provide, the  required site characteristics. Lands included within an urban growth boundary for
+a particular industrial use,  or a particular public facility, must remain planned and zoned for the
+intended use:
+(a) Except as allowed by rule of the commission  that is based on a significant change in cir-
+cumstance or the passage of time; or
+(b) Unless the city removes the land from within the urban growth boundary.
+(7) Notwithstanding any other provision of this section, the commission may adopt  rules that
+specify circumstances under which a city  may exchange land within the urban growth boundary of
+the city  for land that is outside of the urban growth boundary and that is designed to avoid adverse
+effects of an exchange on agricultural or forest operations in the surrounding area.
+[3]

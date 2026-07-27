@@ -1,0 +1,67 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 763
+Sponsored by Senator NASH (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates a new crime if a health care provider makes an  unlawful disclosure
+about certain crime victims. (Flesch Readability Score: 62.8).
+Creates the crime of unlawful disclosure of information  about a victim of sexual assault or sex
+trafficking. Punishes the first offense by a maximum of 364 days’ imprisonment, $6,250  fine, or both.
+Punishes the second or subsequent offense by a maximum  of five years’ imprisonment, $125,000 fine,
+or both.
+A BILL FOR AN ACT
+Relating to the unlawful disclosure of information about crime victims.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Health care provider” has the meaning given that term in ORS 192.556.
+(b) “Sex trafficking” has the meaning given that term in ORS 137.221.
+(c) “Sexual assault” has the meaning given that term in ORS 181A.323.
+(2) A person commits the crime of unlawful disclosure of information  about a victim of
+sexual assault or sex trafficking if the person is a health care provider who:
+(a) In the course of providing  health care to a patient learns that the patient was a vic-
+tim of sexual assault or sex trafficking; and
+(b) Without the  patient’s consent or authorization, knowingly discloses the information
+regarding the sexual assault or sex  trafficking to a third person in writing, in person or
+electronically, including by posting the information to a website.
+(3) Subsection (2) of this section does not apply to a  health care provider disclosing pro-
+tected health information as permitted by ORS 192.553 to  192.581 or the federal Health In-
+surance Portability and Accountability Act of 1996  (P.L. 104-191) and regulations adopted
+under that law including 45 C.F.R. parts 160 and 164.
+(4)(a) Unlawful disclosure of information about a victim of sexual assault or sex traf-
+ficking is a Class A misdemeanor.
+(b) Notwithstanding paragraph (a) of this subsection, unlawful disclosure of  information
+about a  victim of sexual assault or sex trafficking is a Class C felony if the health care pro-
+vider, at the time  of committing the offense, has one or more prior convictions under this
+section.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1219

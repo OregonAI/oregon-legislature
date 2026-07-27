@@ -9,12 +9,12 @@ citation: 2024 Regular Session House Bill 4001
 issuing_body: Oregon State Legislature
 source_url: https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4001/Enrolled
 source_format: pdf
-retrieved: '2026-07-26'
+retrieved: '2026-07-27'
 source_sha256: 528e971deaf59ae2c76c26a7029a0178eca6e4f0680136450acadabfa298ca12
 snapshot_id: measure-2024r1-hb4001-enrolled
 status: current
 content_mode: verbatim
-last_verified: '2026-07-26'
+last_verified: '2026-07-27'
 verified_by: '@dzinck'
 maintainer: '@dzinck'
 relationships:
@@ -68,7 +68,7 @@ candidate_ors_citations:
   from_relating_to_full: []
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-26 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4001>.
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4001>.
 
 # HB 4001 — 2024 Regular Session (2024R1)
 
@@ -200,8 +200,8 @@ Enrolled House Bill 4001 (HB 4001-A) Page 3
 
 ## Provenance & related versions
 
-- **Embedded full text:** Enrolled version, retrieved 2026-07-26, sha256 `528e971deaf59ae2c76c26a7029a0178eca6e4f0680136450acadabfa298ca12` (snapshot `_meta/snapshots/measure-2024r1-hb4001-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4001/Enrolled>.
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `528e971deaf59ae2c76c26a7029a0178eca6e4f0680136450acadabfa298ca12` (snapshot `_meta/snapshots/measure-2024r1-hb4001-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4001/Enrolled>.
 - **Also captured, not embedded:** Introduced version, sha256 `b63797a54ee0f158cdd33718fba35e7784e6a187063b019ab8f10bb2180dc91f` (snapshot `_meta/snapshots/measure-2024r1-hb4001-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4001/Introduced>.
-- **Measure metadata:** retrieved 2026-07-26 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4001> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4001> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
 - See [CHANGELOG](../../CHANGELOG.md).
 

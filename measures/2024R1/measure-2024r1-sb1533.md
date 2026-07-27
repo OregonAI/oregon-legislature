@@ -1,0 +1,408 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2024r1-sb1533
+title: 'SB 1533 (2024R1): Increases, from 5 to 10, the number of the most commonly spoken languages in
+  each county, other than English, that the Secretary of State must include on a publicly available list
+  and into which the secretary must translate voters'' pamphlets.'
+doc_type: dataset_doc
+citation: 2024 Regular Session Senate Bill 1533
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1533/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 55c0136b84313e0114d5898bff63d369de4ee2bece0f12076e36a2109c07f441
+snapshot_id: measure-2024r1-sb1533-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 137.685
+  - ORS 174.109
+  - ORS 250.125
+  - ORS 250.141
+  - ORS 251.022
+  - ORS 251.026
+  - ORS 251.055
+  - ORS 251.065
+  - ORS 251.167
+  - ORS 251.170
+  - ORS 251.173
+  - ORS 251.245
+  - ORS 251.255
+  - ORS 251.305
+  - ORS 251.315
+  - ORS 254.165
+  - ORS 254.470
+  - ORS 292.495
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2024r1
+- sb
+session_key: 2024R1
+measure_prefix: SB
+measure_number: 1533
+prefix_meaning: Senate Bill
+catch_line: Increases, from 5 to 10, the number of the most commonly spoken languages in each county,
+  other than English, that the Secretary of State must include on a publicly available list and into which
+  the secretary must translate voters' pamphlets.
+minority_catch_line: null
+measure_summary: "\tDigest: Tells the SOS to translate the voters' pamphlet into the 10 most common languages\
+  \ used in each county. (Flesch Readability Score: 61.6). \n\tIncreases, from 5 to 10, the number of\
+  \ the most commonly spoken languages in each county, other than English, that the Secretary of State\
+  \ must include on a publicly available list and into which the secretary must translate voters' pamphlets.\
+  \ Increases the number of translator members on the Translation Advisory Council. \n\tIncreases, from\
+  \ 100 or more individuals to 300 or more individuals, the number of people in a county who must speak\
+  \ one of 10 listed languages in order to require a county voters' pamphlet to be translated into that\
+  \ language."
+relating_to: Relating to elections.
+relating_to_full: Relating to elections.
+at_the_request_of: null
+lc_number: 29
+measure_created_date: '2024-01-12T11:47:52'
+measure_modified_date: '2024-03-28T12:50:20'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 18613
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 137.685
+  - ORS 174.109
+  - ORS 250.125
+  - ORS 250.141
+  - ORS 251.022
+  - ORS 251.026
+  - ORS 251.055
+  - ORS 251.065
+  - ORS 251.167
+  - ORS 251.170
+  - ORS 251.173
+  - ORS 251.245
+  - ORS 251.255
+  - ORS 251.305
+  - ORS 251.315
+  - ORS 254.165
+  - ORS 254.470
+  - ORS 292.495
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1533>.
+
+# SB 1533 — 2024 Regular Session (2024R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1533, 2024 Regular Session (2024R1)
+- **LC number:** 29
+- **Created:** 2024-01-12T11:47:52
+- **Metadata last modified (upstream):** 2024-03-28T12:50:20
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 18613 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1533/Enrolled>.
+
+## Summary
+
+**Catchline:** Increases, from 5 to 10, the number of the most commonly spoken languages in each county, other than English, that the Secretary of State must include on a publicly available list and into which the secretary must translate voters' pamphlets.
+
+**Relating to:** Relating to elections.
+
+Digest: Tells the SOS to translate the voters' pamphlet into the 10 most common languages used in each county. (Flesch Readability Score: 61.6). 
+ Increases, from 5 to 10, the number of the most commonly spoken languages in each county, other than English, that the Secretary of State must include on a publicly available list and into which the secretary must translate voters' pamphlets. Increases the number of translator members on the Translation Advisory Council. 
+ Increases, from 100 or more individuals to 300 or more individuals, the number of people in a county who must speak one of 10 listed languages in order to require a county voters' pamphlet to be translated into that language.
+
+**RelatingToFull (verbatim upstream field):** Relating to elections.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Enrolled
+Senate Bill 1533
+Sponsored by Senators  JAMA, MANNING JR, FREDERICK, Representative PHAM K; Senators
+CAMPOS, DEMBROW, GELSER BLOUIN, GORSEK,  HANSELL, MEEK, PATTERSON,
+PROZANSKI, SOLLMAN, TAYLOR,  Representatives CHAICHI, DEXTER, GAMBA,
+HARTMAN, NGUYEN D, NGUYEN H, SOSA, TRAN, WALTERS (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to elections; creating new provisions;  and amending ORS 251.026, 251.167, 251.170, 251.173
+and 251.315.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 251.167 is amended to read:
+251.167. (1) The Secretary of State shall create and make publicly available a list of:
+(a) The five most commonly spoken languages in the state, other than English; and
+(b) The [ five] 10 most commonly spoken languages in each county, other than English.
+(2) The lists created under subsection (1) of this section must:
+(a) Be based on the best available data, which may include the most recent American Commu-
+nity Survey  from the United States Census Bureau, estimates from the Portland State University
+Population Research Center and any other necessary data sources;
+(b) Include, when complying with subsection (1)(b) of this section, the estimated  number of in-
+dividuals in each county who speak each listed language; and
+(c) Be updated at least once every five years.
+(3) The Secretary of State shall:
+(a) Ensure each state voters’ pamphlet mailed to residents of a county is translated in the
+manner described in ORS 251.170 into:
+(A) Each language listed by the Secretary of State under subsection (1)(a) of this section;
+(B) Each language listed by the Secretary of State under subsection (1)(b) of  this section that
+the Secretary of State estimates under subsection (2)(b) of this section to be spoken by [ 100] 300 or
+more individuals in any one county; and
+(C) Each language that has previously been listed by the Secretary of  State under subsection
+(1)(b) of this  section, even if the language is not included in the most recent list created by the
+Secretary of State;
+(b) Ensure each county voters’ pamphlet mailed to residents of a county is  translated in the
+manner described in ORS 251.170 into:
+(A) Each language listed by the Secretary of State under subsection (1)(a) of this section;
+(B) Each language listed for the county for that county voters’  pamphlet by the Secretary of
+State under subsection  (1)(b) of this section that the Secretary of State estimates under subsection
+(2)(b) of this section to be spoken by [ 100] 300 or more individuals in the county; and
+Enrolled Senate Bill 1533 (SB 1533-INTRO) Page 1
+(C) Each language that has previously been listed by the Secretary of State for the  county for
+that county voters’  pamphlet under subsection (1)(b) of this section, even if the language is not in-
+cluded in the most recent list created by the Secretary of State;
+(c) Make each translation of the voters’ pamphlet that is made under  paragraph (a) or (b) of this
+subsection or subsection (4) of this section available on the website of the  Secretary of State and
+of the county as applicable; and
+(d) Prominently provide the website address for each translation in the manner set forth in  ORS
+251.026 and 251.315.
+(4) Notwithstanding subsection (3)(a)(B) and (b)(B) of this section, if the Secretary of  State esti-
+mates under subsection  (2)(b) of  this section that no  language, other than English, is spoken by
+[100] 300 or more individuals in a particular county, the Secretary of State shall ensure:
+(a) Each state voters’ pamphlet mailed to residents of the county is  translated in the manner
+described in ORS 251.170 into the  most commonly spoken language in that county, other than Eng-
+lish, as listed by the Secretary of State under subsection (1)(b) of this section; and
+(b) Each county voters’ pamphlet mailed to residents of  the county is translated in the manner
+described in ORS 251.170 into the  most commonly spoken language in that county, other than Eng-
+lish, as listed by the Secretary of State under subsection (1)(b) of this section.
+(5) The Secretary of State:
+(a) May adopt any rules necessary to implement this section; and
+(b) Is responsible for all costs necessary to comply with this section.
+SECTION 2.
+ ORS 251.026 is amended to read:
+251.026. (1) The Secretary of State shall prepare and have printed in the voters’ pamphlet for
+the state primary election, the general election and any  special election described in ORS 251.022
+a statement containing, if applicable:
+(a) Requirements for a citizen to qualify as an elector.
+(b) When an elector is required to register or update a registration.
+(c) In the voters’ pamphlet for the primary election,  a statement of the duties and responsibil-
+ities of a precinct committeeperson to be elected at the primary election.
+(d) Any other information the Secretary of  State considers relevant to the conduct of the
+election.
+(2) The Secretary of State, in cooperation with the county clerks, shall include:
+(a) A statement on the cover of the  voters’ pamphlet that the pamphlet may be used to assist
+electors in voting; and
+(b)(A) Statements in the information section of the voters’ pamphlet on the  pages immediately
+following the page containing the Secretary of State letter, to the  extent reasonably practicable,
+that, for residents of each county to which the voters’ pamphlet is distributed:
+(i) Are written in English and the [ five] 10 additional common languages  for the county listed
+by the Secretary of State under ORS 251.167;
+(ii) Explain that an electronic copy of portions of the voters’  pamphlet is publicly available in
+that language; and
+(iii) Provide the website address to the translated voters’ pamphlet.
+(B) The statements required under subparagraph (A) of this paragraph must be written  so as to
+be clearly readable.
+(C) The Secretary of State may adopt rules necessary to implement this paragraph.
+(3) The Secretary of State may include in the voters’ pamphlet the following information:
+(a) Maps showing the boundaries of senatorial and representative districts.
+(b) Voter registration forms.
+(c) Elector instructions, including the right of an elector to request a second ballot  if the first
+ballot is spoiled and the right of an elector to seek assistance in marking the ballot.
+(4)(a) The name of the  county clerk or other filing officer may not appear in the voters’ pam-
+phlet in the county clerk’s or filing officer’s official capacity if the county clerk  or filing officer is
+a candidate in the election for which the voters’ pamphlet is printed.
+Enrolled Senate Bill 1533 (SB 1533-INTRO) Page 2
+(b) As used in this subsection, “filing officer” has the meaning given that term in ORS 254.165.
+SECTION 3.
+ ORS 251.170 is amended to read:
+251.170. (1) The translation of a  state voters’ pamphlet or county voters’ pamphlet required un-
+der ORS 251.167 shall be made in the manner described in this section.
+(2) For each state voters’ pamphlet and county voters’ pamphlet mailed to residents of a  county,
+the Secretary of State shall have the following portions  of the voters’ pamphlet professionally
+translated into each language for which a translation is required under ORS 251.167:
+(a) Any official statement  or communication made by the Secretary of State, county clerk, filing
+office or other  public elections official, including any information described in ORS 251.026 or
+251.315 (1)(a) to (d) and (g) and any other information regarding services offered  by elections offices,
+how to cast a ballot and key dates for the election;
+(b) The ballot title for each measure;
+(c) The explanatory statement for each measure;
+(d) The financial estimate for each measure and any  statement prepared for a measure under
+ORS 250.125;
+(e) Any racial and ethnic impact statement prepared for a measure under ORS 137.685;
+(f) Any statement submitted for a measure by a citizen panel under ORS 250.141; and
+(g) Except an argument for a measure prepared by the Legislative Assembly under ORS 251.245,
+any other statement for a measure created by a public body as defined in ORS 174.109.
+(3) In addition to the materials that the Secretary of  State is required to have professionally
+translated under subsection  (2) of this section, the Secretary of State shall allow to be included in
+the translated version of each state voters’ pamphlet that is  made available on the website of the
+Secretary of State or of a county under ORS 251.167:
+(a) Translations of a candidate statement submitted under ORS 251.065, provided that:
+(A) The candidate is a candidate for federal or statewide office;
+(B) The  translation is filed by a candidate or the principal campaign committee of a candidate
+described in subparagraph (A) of this paragraph;
+(C) Neither the translation nor the candidate statement submitted  under ORS 251.065 is rejected
+under ORS 251.055;
+(D) The candidate  statement meets the requirements of a candidate statement set forth in this
+chapter; and
+(E) Any translation filed under  this paragraph is in one of the [ five] 10 most commonly spoken
+languages in this state, other than English, as listed by the Secretary of State under ORS 251.167.
+(b) Translations of an argument in support  of or in opposition to a state measure filed under
+ORS 251.255, provided that:
+(A) The translation is filed by the person who filed the argument in support of or in opposition
+to a state measure under ORS 251.255;
+(B) Neither the translation nor  the argument in support of or in opposition to a state measure
+filed under ORS 251.255 is rejected under ORS 251.055;
+(C) The  statement in support of or in opposition to a state measure meets the requirements of
+a statement in support of or in opposition to a state measure set forth in this chapter; and
+(D) Any translation filed under this paragraph  is in one of the [ five] 10 most commonly spoken
+languages in this state, other than English, as listed by the Secretary of State under ORS 251.167.
+(c) Translations  of any argument for a measure prepared by the Legislative Assembly under ORS
+251.245 submitted by the Legislative Assembly, provided that any translation filed under this  para-
+graph is in one of the [ five] 10 most commonly spoken languages in this state,  other than English,
+as listed by the Secretary of State under ORS 251.167.
+(4)(a) A translation that is permitted or required under this section is not required to be iden-
+tical in words to the original version but must be consistent with the meaning of the original ver-
+sion.
+(b) A translation is not subject to any limitations on the number of words allowed  set forth in
+this chapter.
+Enrolled Senate Bill 1533 (SB 1533-INTRO) Page 3
+(5) A county may at its own expense make or accept for publication on the  county’s website,
+as part of a translated voters’ pamphlet required under ORS 251.167, any  portion of a state or
+county voters’ pamphlet that is not described in this section.
+(6) The Secretary of State:
+(a) May adopt any rules necessary to implement this section; and
+(b) Except  as provided in subsection (5) of this section, is responsible for all costs necessary to
+comply with this section.
+(7) As used in this section, “statewide office” means  Governor, Secretary of State, State Treas-
+urer, Attorney General,  Commissioner of the Bureau of Labor and Industries, or judge on the
+Oregon Supreme Court, the Oregon Court of Appeals or the Oregon Tax Court.
+SECTION 4.
+ ORS 251.173 is amended to read:
+251.173. (1)(a) The Translation Advisory Council is established. The council shall consist  of five
+at-large members and at least one translator member for each of  the [ five] 10 most commonly spoken
+languages in this state, other than English, and for each language in  each county that the Secretary
+of State reasonably anticipates a voters’ pamphlet at the next election  will be required to be
+translated into under ORS  251.167. The secretary may appoint more than one translator member for
+languages that are more commonly spoken throughout this state. Members shall be appointed  by
+and serve at the pleasure of the secretary.
+(b) The term of a member of the council is two years. A member may be reappointed  twice and
+may not serve more than a  total of six years. Before the expiration of the term of a member, the
+Secretary of State shall appoint a successor or reappoint the member. If there is a  vacancy for any
+cause, the secretary shall make an appointment to be immediately effective.
+(c) The Secretary of State shall ensure, to the extent practicable,  that members appointed to the
+council are geographically  diverse and reside in counties throughout this state. Prior to appointing
+each translator member, the secretary shall confer  with, and seek recommendations from, the board
+of county commissioners for each county in which the secretary reasonably  anticipates a voters’
+pamphlet will  be required to be translated into the language for which the translator member is
+appointed.
+(d) To qualify to be appointed as a translator member, a translator member must be  proficient
+in reading and writing in  English and in the translated language for which the translator member
+is appointed. A translator member may demonstrate proficiency by providing:
+(A) Proof of  being certified as an interpreter by a public body of this state for the translated
+language;
+(B) Proof of holding a bachelor’s degree or higher in the translated language;
+(C) At least one example of a written translation of the translated language that the  translator
+member conducted as part of the translator member’s job duties or contracted services; or
+(D) Proof of volunteer experience in  translating the translated language with a nonprofit or-
+ganization, educational institution, social service agency or public body.
+(2)(a) Members  of the council shall elect at least one chairperson of the council but may elect
+two co-chairpersons of the council.
+(b) A majority of  the members of the council constitutes a quorum for the transaction of busi-
+ness.
+(c) The council shall meet  at least once every calendar year. To the extent practicable, the
+council shall meet by telephone or video conference but may meet in person.
+(d) The members of the council are entitled to compensation and expenses in the manner  and
+amounts provided for in ORS 292.495.
+(e) The Secretary of State shall provide clerical and other necessary  support services to the
+council.
+(3) The Secretary of State shall consult with the council and to the maximum extent practicable
+implement recommendations for ensuring that a translation  of a voters’ pamphlet required under
+ORS 251.167 is:
+(a) Conducted with professionalism and by a clear process with review;
+Enrolled Senate Bill 1533 (SB 1533-INTRO) Page 4
+(b) Culturally responsive and based in the context of a particular community  being served by
+the translation;
+(c) As accurate in context and sentence structure as the original version; and
+(d) Held to the same standards as, but not subject to a higher scrutiny than, the original version.
+SECTION 5.
+ ORS 251.315 is amended to read:
+251.315. (1) If a county produces a county voters’ pamphlet, the county voters’ pamphlet  shall
+include, when applicable, at least the following information:
+(a) Requirements for a citizen to qualify as an elector.
+(b) Requirements for registration and updates of registration.
+(c) Elector instructions, including  the right of an elector to request a second ballot if the first
+ballot is spoiled and the right of an elector to seek assistance in marking the ballot.
+(d) The hours and locations of places designated under ORS 254.470 for deposit of official ballots.
+(e) Any portraits and statements relating to candidates submitted in accordance with  the pro-
+visions of ORS 251.305 to 251.435.
+(f) Any  ballot titles, explanatory statements and arguments submitted in accordance with the
+provisions of ORS 251.305 to 251.435.
+(g)(A) Statements in the information section of the voters’ pamphlet on the  pages immediately
+following the page containing the Secretary of State letter, to the  extent reasonably practicable,
+that:
+(i) Are written in English and the [ five] 10 additional common languages  for the county listed
+by the Secretary of State under ORS 251.167;
+(ii) Explain that an electronic copy of portions of the voters’  pamphlet is publicly available in
+that language; and
+(iii) Provide the website address to the translated voters’ pamphlet.
+(B) The statements required under subparagraph (A) of this paragraph must be written  so as to
+be clearly readable.
+(C) The Secretary of State may adopt rules necessary to implement this paragraph.
+(h) Such other information  as the county clerk considers to be appropriate or necessary to in-
+form the voters.
+(2) The  county clerk shall mail or otherwise distribute the county voters’ pamphlet not later
+than the last day for mailing ballots to electors as provided in ORS 254.470.
+(3)(a) The name of the county clerk or other filing officer may not appear in the county  voters’
+pamphlet in the county clerk’s or filing officer’s  official capacity if the county clerk or filing officer
+is a candidate in the election for which the voters’ pamphlet is printed.
+(b) As used in this subsection, “filing officer” has the meaning given that term in ORS 254.165.
+SECTION 6.
+The amendments to ORS 251.026, 251.167, 251.170, 251.173 and 251.315 by
+sections 1 to 5 of this 2024 Act first apply to state voters’ pamphlets and  county voters’
+pamphlets that are distributed on or after January 31, 2025.
+Enrolled Senate Bill 1533 (SB 1533-INTRO) Page 5
+Passed by Senate March 4, 2024
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House March 6, 2024
+..................................................................................
+Dan Rayfield, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2024
+Approved:
+........................M.,........................................................., 2024
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2024
+..................................................................................
+LaVonne Griffin-Valade, Secretary of State
+Enrolled Senate Bill 1533 (SB 1533-INTRO) Page 6
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 137.685, ORS 174.109, ORS 250.125, ORS 250.141, ORS 251.022, ORS 251.026, ORS 251.055, ORS 251.065, ORS 251.167, ORS 251.170, ORS 251.173, ORS 251.245, ORS 251.255, ORS 251.305, ORS 251.315, ORS 254.165, ORS 254.470, ORS 292.495
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `55c0136b84313e0114d5898bff63d369de4ee2bece0f12076e36a2109c07f441` (snapshot `_meta/snapshots/measure-2024r1-sb1533-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1533/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `c3c118c84ec85ea7c85cda870ea52a209209a1d3a4357504125be8e497cfbd60` (snapshot `_meta/snapshots/measure-2024r1-sb1533-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1533/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1533> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

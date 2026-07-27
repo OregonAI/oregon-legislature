@@ -1,0 +1,174 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2064
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Climate, Energy, and Environment for Representative John Lively)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes the PUC  take certain actions to support microgrids. (Flesch Readability Score:
+66.1).
+Requires the Public Utility Commission to take certain actions  to support the operations of
+microgrids and community microgrids.
+Requires the Department of  Consumer and Business Services to adopt rules that support the
+integration of buildings with community microgrids.
+Allows local governments to adopt land use regulations that correspond to  microgrid zones and
+designate a geographical area as a microgrid zone, subject to the approval of the commission.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to microgrids; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS chapter 757.
+SECTION 2. (1) As used in this section:
+(a) “Community microgrid” means a  microgrid that is composed of a localized group of
+customers and distributed energy resources within clearly defined electrical boundaries.
+(b) “Energy resource” means a small-scale energy system or mechanism that generates,
+stores or consumes energy or works  to balance and match energy demand with energy sup-
+ply.
+(c) “Front-of-meter” means the utility side  of a transmission or distribution system in
+reference to a customer’s meter.
+(d) “Microgrid” means an interconnected system  of loads and energy resources appro-
+priately sized to meet customer needs within clearly defined electrical boundaries that  can
+function as a single, controllable system independent from a utility transmission or distrib-
+ution system.
+(e) “Microgrid operator” means an entity that is responsible for operating a  microgrid,
+including coordinating and optimizing the operations of the distributed energy resources that
+make up the microgrid. A microgrid operator may operate one or more microgrids.
+(2) The Public Utility Commission shall:
+(a) Investigate and create a standard for  reasonable shared costs for community energy
+resilience that is provided  by a microgrid. The standards must allow for owners or operators
+of a microgrid to recover the costs for designing, constructing and maintaining the microgrid
+from customers who use:
+(A) The microgrid;
+(B) The distribution system located within a microgrid zone within which  the microgrid
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1516
+HB 2064
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+is located; or
+(C) The distribution system local to the microgrid.
+(b) Allow for redundant infrastructure that supports community microgrids.
+(c) Approve a community microgrid if the community microgrid enhances  local energy
+resilience and is capable of supporting critical infrastructure during and after an  emergency,
+natural disaster or disruption to the electric grid or energy supply.
+(d) Allow a microgrid operator to operate one or  more microgrids independently from the
+electric grid system and direct the microgrid’s front-of-meter energy resources during  and
+after an emergency to provide energy resilience services to the customers within the elec-
+trical boundaries of the microgrid.
+SECTION 3.
+Section 4 of this 2025 Act is added to and made a part of ORS chapter 455.
+SECTION 4. (1) As used in this section:
+(a) “Community microgrid” means a microgrid that is composed of  a localized group of
+customers and distributed energy resources within clearly defined electrical boundaries.
+(b) “Energy resource” means a small-scale energy system or mechanism that generates,
+stores or consumes energy or works to balance and match  energy demand with energy sup-
+ply.
+(c) “Microgrid” means an interconnected system of  loads and energy resources appro-
+priately sized to meet customer needs within clearly defined electrical boundaries that  can
+function as a single, controllable system independent from a utility transmission or distrib-
+ution system.
+(2) The Department of Consumer and  Business Services shall adopt rules to the state
+building code that support the integration of buildings with community microgrids.
+SECTION 5.
+Section 6 of this 2025 Act is added to and made a part of ORS chapter 197.
+SECTION 6. (1) As used in this section:
+(a) “Community microgrid” means a microgrid that is composed of  a localized group of
+customers and distributed energy resources within clearly defined electrical boundaries.
+(b) “Energy resource” means a small-scale energy system or mechanism that generates,
+stores or consumes energy or works to balance and match  energy demand with energy sup-
+ply.
+(c) “Microgrid” means an interconnected system of  loads and energy resources appro-
+priately sized to meet customer needs within clearly defined electrical boundaries that  can
+function as a single, controllable system independent from a utility transmission or distrib-
+ution system.
+(2) A local government may:
+(a) Adopt land use regulations that correspond to microgrid zones to encourage develop-
+ment that is compatible with microgrids and community microgrids.
+(b) Designate a  geographical area based on existing electric service infrastructure located
+within the jurisdiction of the local government as a microgrid zone, subject to the approval
+of the Public Utility Commission.
+(c) Enter into an intergovernmental agreement with one or more local governments to
+designate a geographical area based on existing electric service infrastructure located within
+and across the jurisdictions of the local governments as a microgrid zone, subject to the
+approval of the commission.
+SECTION 7.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+[2]
+HB 2064
+1
+2
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

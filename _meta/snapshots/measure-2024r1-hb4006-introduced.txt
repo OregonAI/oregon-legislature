@@ -1,0 +1,749 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4006
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Business and Labor for Associated General Contractors, Associated Wall and Ceiling Contractors, Sheet
+Metal and Air  Conditioning Contractors of North America, Plumbing and Mechanical Contractors Association)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Requires state agencies to accept  surety bonds from people who perform construction
+work for the state, instead of holding onto some  of the money the agencies owe for the work, in
+order to make sure the work is done correctly. Gives  a form for the surety bond. (Flesch Readability
+Score: 60.5).
+Requires a contracting agency to accept  from contractors surety bonds in lieu of retainage for
+construction projects and  public improvement contracts. Specifies requirements for submitting
+surety bonds. Specifies relations between a contractor and a  subcontractor when the contractor
+submits a surety bond on behalf of the subcontractor.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to submitting surety bonds  in lieu of retainage; creating new provisions; amending ORS
+279C.560, 279C.570, 701.420 and 701.435; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 279C.560 is amended to read:
+279C.560. (1)(a) [ Unless a contracting agency that reserves an amount  as retainage under ORS
+279C.570 (7) finds in writing  that accepting a bond or instrument described in paragraph (a) or (b) of
+this subsection poses an extraordinary risk that is not typically  associated with the bond or instrument,
+the] A contractor may submit and a  contracting agency shall accept from a contractor  in lieu
+of withholding moneys [ from payment shall accept  from a contractor ] for all or a portion of the
+retainage required under a public contract :
+[(a)] (A)  Bonds, securities or other instruments of a character described in subsection (6) of this
+section that are deposited as provided in subsection (4) of this section; or
+[(b)] (B)  A surety bond deposited as provided in subsection (7) of this section.
+(b) A surety bond that a contractor submits under  this section must be executed by a
+surety bonding company that is authorized to transact surety business in this state and may
+not be a surety obligation of an individual.
+(c) A contracting agency may reject bonds, securities or other  instruments that a con-
+tractor submits under paragraph (a)(A)  of this subsection or a surety bond that the con-
+tractor submits under paragraph (a)(B) of this  subsection only if the contracting agency first
+finds in writing good cause for the rejection that is based on unique project circumstances.
+(2) A contracting agency that holds moneys as retainage under ORS 279C.570 (7) shall:
+(a) Hold the moneys in a fund and pay the moneys to  the contractor in accordance with ORS
+279C.570; or
+(b) At the election of the contractor,  pay the moneys to the contractor in accordance with
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 263
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+subsection  (4)  or (5) of this section and in a manner authorized by the Director of the Oregon De-
+partment of Administrative Services.
+(3)(a) If  [ the] a  contracting agency incurs additional costs as a result of the  contractor’s  ex-
+ercise of an  option described in subsection (1) , (4)  or (5) of this section, the contracting agency may
+recover the  additional costs from the contractor by reducing the final payment. As work on  the
+contract progresses, the contracting agency  shall, upon demand, inform the contractor of all accrued
+costs.
+(b) Except as provided in  subsection (8) of this section, a contractor shall bear additional
+costs that arise  from the contractor’s exercise of an option described in subsection (1), (4)
+or (5) of this section after the date  on which the contractor submits a bid or proposal to the
+contracting agency. Such  additional costs are not reimbursable project costs and the con-
+tracting agency is not responsible for paying the costs.
+(4) [The] A  contractor may deposit bonds, securities or other instruments  with [ the] a  contract-
+ing agency or in a bank or [ trust company ] other financial institution  for  the contracting agency
+to hold for the contracting agency’s benefit in lieu of moneys held as  retainage. If [ the contracting
+agency accepts ] a contractor  submits  bonds, securities or other instruments [ deposited] as provided
+in this subsection, the contracting agency shall reduce the moneys held as  retainage in an amount
+equal to the value of the bonds, securities and other instruments and  pay the amount of the re-
+duction to the contractor  in accordance with ORS 279C.570. Interest or earnings on the bonds, se-
+curities or other instruments [ shall] accrue to the contractor.
+(5) If the contractor elects, the contracting agency  shall deposit the retainage as accumulated
+in an interest-bearing account in a  bank[ , savings bank, trust company or savings association ] or
+other financial institution  for the benefit of the contracting agency. [ When] If  the  contracting
+agency is a state contracting agency, the account must be established through the State  Treasurer.
+Earnings on the account accrue to the contractor.
+(6) Bonds, securities and other instruments deposited or acquired  in lieu of retainage, as per-
+mitted by this section, must be of a character approved by  the Director of the Oregon Department
+of Administrative Services, including but not limited to:
+(a) Bills, certificates, notes or bonds of the United States.
+(b) Other obligations of the United States or agencies of the United States.
+(c) Obligations of a corporation wholly owned by the federal government.
+(d) Indebtedness of the Federal National Mortgage Association.
+(e) General obligation bonds of the State of Oregon or a political subdivision of the State of
+Oregon.
+(f) Irrevocable letters of credit issued by an insured institution, as defined in ORS 706.008.
+(7) [ The] A  contractor[ , with the approval of the contracting agency, ] may deposit  a surety bond
+for all or any portion of the amount of funds retained, or to be retained, by the contracting  agency
+in [ a form acceptable to the contracting agency ] substantially the  form specified in ORS 701.435
+(4). The  surety  bond and any proceeds of the  surety  bond must be made subject to all claims and
+liens and in the same manner and priority [ as set forth ] specified for retainage under ORS 279C.550
+to 279C.570 and 279C.600 to 279C.625. The contracting agency shall reduce the moneys the con-
+tracting agency holds as retainage in an amount equal to the  value of the  surety  bond and pay the
+amount of the reduction to  the contractor in accordance with ORS 279C.570. [Whenever a con-
+tracting agency accepts a surety bond from a contractor in lieu of retainage, the contractor shall accept
+like bonds  from a subcontractor or supplier from which the contractor has retainage. The contractor
+[2]
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+shall then reduce the  moneys the contractor holds as retainage in an amount equal to the value of the
+bond and pay the amount of the reduction to the subcontractor or supplier. ]
+(8)(a) When a contracting agency accepts a surety  bond in lieu of retainage from a con-
+tractor under this section, the contractor  shall accept surety bonds from subcontractors or
+suppliers from which  the contractor has withheld retainage. At any time before final pay-
+ment on a public  improvement contract, a subcontractor may submit a surety bond to a
+contractor and may request that the contractor on the public improvement contract submit,
+in the  manner provided in subsection (7) of this section, a surety bond to the contracting
+agency for the portion of the contractor’s retainage that pertains to the subcontractor. The
+surety bond the subcontractor  provides to the contractor must meet the requirements set
+forth in subsection (1)(b) of this section. When a contractor at a subcontractor’s request
+obtains and submits to the contracting agency a surety  bond under this subsection, the
+contractor may withhold from payments  to the subcontractor an amount equivalent to the
+portion of the subcontractor’s surety bond premium for which the subcontractor is  respon-
+sible.
+(b) Within 30 days after a  subcontractor’s request under paragraph (a) of this subsection,
+the contractor shall provide, and the contracting agency shall accept, a surety bond that
+meets the requirements set forth in subsection (1)(b) of this section unless:
+(A) The contracting agency finds good cause in writing to reject the  surety bond based
+on unique project circumstances;
+(B) The surety bond is not commercially available; or
+(C) The subcontractor refuses to pay  to the contractor the subcontractor’s portion of the
+surety bond premium or refuses to provide the contractor with a surety bond  that meets the
+requirements of subsection (1)(b) of this section.
+(c) A surety  bond the contractor submits under this subsection, and any proceeds from
+the surety bond, must be made subject to all claims and liens and in the same manner  and
+priority specified for retainage under ORS 279C.550 to 279C.570.
+(d) A contracting agency shall,  within 30 days after receiving a surety bond under this
+subsection, release  to the contractor an amount the contracting agency holds as retainage
+that is equivalent to the amount the contractor submitted as a surety bond.
+(e) A contractor must, within 30 days after receiving a surety bond from  a subcontractor
+or supplier, release to the subcontractor or supplier the amount  the contractor holds as
+retainage that is equivalent to the amount the  subcontractor or supplier submitted as the
+surety bond.
+(9) A surety bond under this section must be in substantially the form specified in  ORS
+701.435 (4).
+SECTION 2.
+ ORS 279C.570 is amended to read:
+279C.570. (1) [ It is ] The policy of the State of Oregon  is  that all payments due on a public  im-
+provement contract and owed by a contracting agency  [ shall] must  be paid promptly. No contract-
+ing agency is exempt from the provisions of this section.
+(2) Contracting agencies shall make progress  payments on the contract monthly as work
+progresses on a public improvement contract. Payments shall be  based upon estimates of work
+completed that are approved by the contracting  agency. A progress payment is not considered ac-
+ceptance or approval of any work  or waiver of any defects therein. The contracting agency shall
+pay to the contractor  interest on the progress payment, not including retainage, due the contractor.
+[3]
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+The interest shall  commence 30 days after receipt of the invoice from the contractor or 15 days after
+the payment is approved  by the contracting agency, whichever is the earlier date. The rate of in-
+terest charged to the contracting agency on  the amount due shall equal three times the discount
+rate on 90-day commercial paper in effect at  the Federal Reserve Bank in the Federal Reserve dis-
+trict that includes Oregon  on the date that is 30 days after receipt of the invoice from the con-
+tractor or 15 days after the payment is approved by  the contracting agency, whichever is the earlier
+date, but the rate of interest  may not exceed 30 percent. [ If the contract price exceeds $500,000, the
+contracting agency shall place amounts deducted as  retainage into an interest-bearing escrow account.
+Interest on the retainage amount accrues from the date the payment request is approved until  the date
+the retainage is paid to the contractor to which it is due. ]
+(3) Interest shall be paid automatically when payments become overdue. The contracting agency
+shall document, calculate and pay any  interest due when payment is made on the principal. Interest
+payments shall  accompany payment of net due on public improvement contracts. The contracting
+agency may not  require the contractor to petition, invoice, bill or wait additional days to receive
+interest due.
+(4) [ When] If  an  invoice is filled out incorrectly, [ when] if there is any defect or impropriety in
+any submitted invoice or [ when] if  there is a good faith dispute, the contracting agency  shall so
+notify the contractor within 15 days stating the  reason or reasons the invoice is defective or im-
+proper or the reasons for the  dispute. A defective or improper invoice, if corrected by the contractor
+within seven days of being  notified by the contracting agency, may not cause a payment to be made
+later than specified in this section unless interest is also paid.
+(5) If requested in writing by  a first-tier subcontractor, the contractor, within 10 days after re-
+ceiving the request, shall send to the first-tier subcontractor a copy  of that portion of any invoice,
+request for payment submitted to the contracting agency or pay document provided  by the con-
+tracting agency to the contractor specifically related to any labor or materials  supplied by the
+first-tier subcontractor.
+(6) Payment of interest may be postponed when payment on the  principal is delayed because of
+disagreement between the contracting agency  and the contractor. Whenever a contractor brings
+formal administrative  or judicial action to collect interest due under this section, the prevailing
+party is entitled to costs and reasonable attorney fees.
+(7) A contracting  agency may reserve as retainage from any progress payment on a public im-
+provement contract an amount not  to exceed five percent of the payment. As work progresses, a
+contracting agency may reduce the amount of the  retainage and the contracting agency may elimi-
+nate retainage on any remaining monthly contract payments after  50 percent of the work under the
+contract is completed if, in the contracting agency’s opinion, such  work is progressing satisfactorily.
+Elimination or reduction of retainage shall be allowed only upon written application  by the con-
+tractor, and the  application shall include written approval of the contractor’s surety. However, when
+the contract work is 97.5  percent completed the contracting agency may, at the contracting agency’s
+discretion and without application by the contractor,  reduce the retained amount to 100 percent of
+the value of  the contract work remaining to be done. Upon receipt of a written application by the
+contractor, the contracting agency shall respond in writing within a reasonable time.
+(8) The retainage held by a contracting agency [ shall] must  be included in and paid to the
+contractor as part of the final payment of the contract price. The contracting  agency shall pay to
+the contractor interest at the rate of 1.5 percent per  month on the final payment due the contractor,
+interest to commence 30  days after the work under the contract has been completed and accepted
+[4]
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+and to run until the date when the final payment is tendered to the contractor.  The contractor shall
+notify the contracting agency in  writing when the contractor considers the work complete and the
+contracting agency shall, within 15 days after receiving the written notice, either accept the  work
+or notify the contractor of work yet to be performed on the contract. If the contracting  agency does
+not, within the time  allowed, notify the contractor of work yet to be performed to fulfill contractual
+obligations, the interest provided by this subsection shall commence to run  30 days after the end
+of the 15-day period.
+(9)(a) The contracting agency shall pay, upon settlement or judgment in favor of the contractor
+regarding any dispute as to the compensation due a contractor for  work performed under the terms
+of a public improvement contract, the amount due plus interest at  the rate of two times the discount
+rate, but not to exceed 30 percent, on 90-day commercial paper in effect at the Federal Reserve Bank
+in the Federal Reserve district that includes Oregon on the  date of the settlement or judgment, and
+accruing from the later of:
+(A) The due date of any progress payment received under the contract  for the period in which
+such work was performed; or
+(B) Thirty days after the date on which the claim for the payment under dispute was presented
+to the contracting agency by the contractor in  writing or in accordance with applicable provisions
+of the contract.
+(b) Interest shall be added to and not made a part of the settlement or judgment.
+SECTION 3.
+ ORS 701.420 is amended to read:
+701.420. (1) Partial payment is allowed and may be made  on contracts for construction and home
+improvement. An owner, contractor or subcontractor may withhold  as retainage an amount equal
+to not more than five percent of the contract price of the work  completed. Partial payment allowed
+under this subsection is not acceptance or approval of some of the work or a waiver  of defects in
+the work.
+[(2)(a)] (2)  The owner, contractor or subcontractor shall pay interest at the rate of one percent
+per month on the final payment due the contractor or subcontractor. The  interest shall commence
+30 days after the contractor or subcontractor has completed and the  owner has accepted the work
+under the contract for construction for which the final payment is due. The interest shall run  until
+the date when final payment is tendered to the contractor or subcontractor. When the  contractor
+or subcontractor considers  the work that the contractor or subcontractor is contracted to perform
+to be complete, the contractor or  subcontractor shall notify the party to whom the contractor or
+subcontractor is responsible for performing  the construction work under the contract. The party
+shall, within 15 days after receiving the notice, either accept the work or notify the contractor or
+subcontractor of work yet to be performed under the contract. If  the party does not accept the work
+or does not notify the contractor  or subcontractor of work yet to be performed within the time al-
+lowed, the interest required under this subsection shall commence 30 days  after the end of the
+15-day period.
+[(b) If the contract price exceeds $500,000, the owner, contractor or  subcontractor shall place
+amounts withheld as retainage into  an interest-bearing escrow account. Interest on the retainage
+amount accrues from the date the payment request is approved until the date the retainage is  paid to
+the contractor or subcontractor to which it is due. ]
+(3) When a contractor pays a subcontractor in full, including the  amount the contractor with-
+held as retainage, the owner with whom the contractor  has the contract shall pay the contractor,
+out of the amount that the owner withheld from the contractor as  retainage, a sum equal to the
+[5]
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+amount of retainage that the contractor paid the  subcontractor. The contractor shall notify the
+owner when the contractor pays a subcontractor in full under this section and  the owner shall,
+within 15 days after receiving the notice, pay the contractor the amount due the contractor under
+this subsection. Interest on the amount due the contractor at the rate of one percent per month shall
+commence 30 days after the owner receives notice of full payment to the subcontractor.
+SECTION 4.
+ ORS 701.435 is amended to read:
+701.435. [ (1) When a contractor on a public contract deposits bonds, securities or other instruments
+under ORS 279C.560 (4), if the subcontract price exceeds $50,000 and constitutes more  than 10 percent
+of the cost of the public contract, a subcontractor on the public  contract may deposit bonds, securities
+or other instruments  with the contractor or in a bank or trust company for the contractor to hold for
+the contractor’s benefit in lieu of moneys  held as retainage. If the contractor accepts the bonds, secu-
+rities or other instruments  deposited as provided in this subsection, the contractor shall reduce the
+moneys held as retainage in an amount equal to the value of the bonds, securities and other instruments
+and pay the amount of the reduction to the subcontractor in accordance with  ORS 701.420 and 701.430.
+Interest or earnings on the bonds, securities or other instruments shall accrue to the subcontractor. ]
+(1)(a) A contractor that performs work on a large commercial structure or under  a
+public improvement contract may submit to  the project owner and any lender, and the owner
+or lender shall accept, a surety  bond in lieu of all or any portion of the retainage required
+for the large commercial structure or under the public improvement contract.
+(b) When an owner or lender accepts a surety  bond in lieu of retainage from a contractor
+under this section, the contractor shall accept surety bonds from subcontractors or suppliers
+from which the contractor has withheld retainage. At any time before final  payment for
+work on a  large commercial structure or under a public improvement contract, a subcon-
+tractor may submit a surety  bond to the contractor on the large commercial structure or
+under the public improvement contract and request that the contractor submit a surety bond
+to the project  owner and lender for the portion of the contractor’s retainage that pertains
+to the subcontractor. The surety bond must be from  a surety bonding company that is au-
+thorized to transact business in this state  and may not be a surety obligation of an individ-
+ual. The surety bond the subcontractor submits to the contractor must be  in substantially
+the form specified in subsection (4) of this section.  When a contractor at the subcontractor’s
+request obtains and submits to the owner  or lender a surety bond under this subsection, the
+contractor may withhold from payments  to the subcontractor an amount equivalent to the
+portion of the contractor’s surety bond premium for which  the subcontractor is responsible.
+(c) Within 30 days after a subcontractor’s  request under paragraph (b) of this subsection,
+the contractor shall  provide, and the owner and lender shall accept, a surety bond that meets
+the requirements set forth in this subsection unless:
+(A) The surety bond is not commercially available; or
+(B) The subcontractor refuses  to pay to the contractor the subcontractor’s portion of the
+surety bond premium or refuses to provide the contractor with a surety bond  that meets the
+requirements of this subsection.
+(d) A  surety bond the contractor submits under this subsection, and any proceeds from
+the surety bond, are subject to all  claims and liens and in the same manner and priority
+specified for retainage under this section  and ORS 279C.550 to 279C.570, 701.410, 701.420,
+701.430 and 701.440.
+(e) An owner and  any lender shall, within 30 days after receiving a surety bond under this
+[6]
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+subsection, release to the contractor an amount the  owner or lender holds as retainage that
+is equivalent to the amount the contractor submitted as a surety bond.
+(f) The contractor must, within 30 days after receiving a surety bond from a subcon-
+tractor or supplier, reduce the  amount the contractor holds as retainage in an amount
+equivalent to  the amount the subcontractor or supplier submitted as a surety bond and shall
+pay the amount of the reduction to the subcontractor  or supplier in accordance with ORS
+701.420 and 701.430.
+(2) [When a  contractor on a public contract elects to have the public contracting agency deposit the
+accumulated retainage in an interest-bearing account under ORS 279C.560 (5), ] If a contractor or a
+subcontractor performing work on a large commercial structure  or under a public improve-
+ment contract does not deposit a surety bond in lieu of  retainage, the contractor may elect
+to have the project owner or contracting agency deposit  accumulated retainage in an
+interest-bearing account with a bank or other financial institution or pay interest  on the
+accumulated retainage at the rate of two  percent plus the discount rate on 90-day commer-
+cial paper that is in effect at  the Federal Reserve Bank in the Federal Reserve district that
+includes this state on the date that the retainage  is paid. Subject to subsection (3) of this
+section, if the contractor elects to have accumulated retainage pay interest,  the  contractor,
+within 30 days following payment of the final amount due for construction of  the  project or  public
+improvement, shall pay to each subcontractor [ who] that  performed work on the construction the
+subcontractor’s  proportional  share of the interest earnings that accrued to the contractor as a result
+of the election. A  subcontractor’s share of the total amount of interest earnings under this sub-
+section [ shall] must  be determined  by the proportion that the amount of retainage withheld from
+the subcontractor bears to the amount of retainage withheld  from the contractor and the length of
+time the retainage was withheld from the subcontractor. A  share of the interest earnings shall be
+paid to a subcontractor under this subsection only when:
+(a) Retainage is withheld from the subcontractor for more than 60 days  after the day on which
+the first partial payment was due the subcontractor under the terms of the subcontract; and
+(b) The amount of interest earnings due the subcontractor exceeds $100.
+(3) If [ the] a contractor incurs additional costs as a result of the exercise of an option described
+in subsection (1) or (2) of this section, the contractor may recover the  additional costs from the
+subcontractor by reducing the final payment. As work on the subcontract progresses,  the contractor
+shall, upon demand, inform the subcontractor of all accrued additional costs.
+[(4) Bonds, securities and other instruments deposited or acquired in  lieu of retainage, as permitted
+by this section, must be of a  character approved by the Director of the Oregon Department of Admin-
+istrative Services, including but not limited to: ]
+[(a) Bills, certificates, notes or bonds of the United States. ]
+[(b) Other obligations of the United States or agencies of the United States. ]
+[(c) Obligations of a corporation wholly owned by the federal government. ]
+[(d) Indebtedness of the Federal National Mortgage Association. ]
+[(e) General obligation bonds of the State of Oregon or a political subdivision of the  State of
+Oregon.]
+[(f) Irrevocable letters of credit issued by an insured institution, as defined in ORS 706.008. ]
+(4) A surety bond under this section and ORS 279C.560 must be  in substantially the fol-
+lowing form:
+[7]
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+RETAINAGE SURETY BOND
+KNOW ALL BY  THESE PRESENTS: That 
+, a 
+authorized to do business  in the State of Oregon, as Principal, and , a
+corporation organized and existing under the  laws of the State of  and
+authorized to transact the business of surety in the State of  Oregon, as Surety, are jointly
+and severally held and bound to  (“Obligee”)
+and (“Owner”), and their  lenders, heirs, executors, administrators,
+successors and  assigns in the penal sum of $ , plus  % (not
+more than five percent) of any increases in the contract amount that may  occur because of
+change orders or increases in the quantities of or that addition of any new item of work.
+WHEREAS the Principal has executed a contract  for with the
+Obligee; and
+WHEREAS Oregon law allows the Obligee  to withhold from the Principal a sum equiv-
+alent to  % (not more than five percent)  from moneys the Principal earns on es-
+timates or progress payments during the progress of the work (“Earned  Retained Funds”);
+and
+WHEREAS the Principal has requested that the Obligee or Owner accept a surety bond
+in lieu of Earned Retained Funds as allowed under ORS 279C.560 or 701.435;
+NOW, THEREFORE, this obligation is  such that the Surety and the Surety’s successors
+and assigns are  held and bound to Obligee, Owner and any lender, and to all beneficiaries for
+the sum set forth in the first paragraph of this retainage surety bond. This  surety bond and
+any proceeds from this surety bond  are subject to all claims and liens by the Obligee against
+the Principal in the same manner and priority as specified for  retainage under ORS 279C.550
+to 279C.570, 701.410, 701.420, 701.430, 701.435 and 701.440, as applicable. The condition of this
+obligation is such that if the Principal satisfies all payment obligations  to any Obligee that
+may lawfully claim against project sums due to the Principal and indemnify and hold the
+Obligee harmless from any and all loss, costs and damages that the  Obligee may sustain by
+release of the retainage to the Principal or Surety, this obligation is null and void  if the
+Obligee notifies the Surety that the Obligee  released the obligation. The obligation otherwise
+remains in full force and effect.
+IT IS HEREBY DECLARED AND AGREED that the Surety is liable under this obligation
+in the same manner and to  the same extent as is Principal. The Surety will not be discharged
+or released from liability for any act, omission or defense of any kind or nature that  would
+not also discharge the Principal.
+IT IS HEREBY FURTHER  DECLARED AND AGREED that this obligation is binding
+upon and inures to the benefit of the Principal, the Surety, the Obligee, the Owner,  the
+[8]
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+lender and the beneficiaries of this obligation and their respective heirs, executors, admin-
+istrators, successors and assigns.
+SIGNED AND SEALED this 
+ day of , 20
+Principal Surety 
+Name Name 
+Title Title 
+Address Address 
+City/State/Zip City/State/Zip 
+Phone Phone 
+SECTION 5. The amendments to ORS 279C.560,  279C.570, 701.420 and 701.435 by sections
+1 to 4 of this 2024 Act apply to contracts into  which a contractor or subcontractor enters
+on and after the effective date of this 2024 Act.
+SECTION 6. This 2024 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2024 Act takes effect
+on its passage.
+[9]

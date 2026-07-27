@@ -1,0 +1,136 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3520
+Sponsored by Representatives SMITH G, LEVY E, Senator NASH; Representative LIVELY
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes a person that wants to build a building or structure near an  interstate pipeline
+to give notice. (Flesch Readability Score: 66.3).
+Requires a person that proposes to construct a building or structure located  within 1,000 feet
+of an interstate pipeline to notify the Oregon Utility Notification Center.
+Prohibits a state agency or municipality  from issuing a building permit for a building or struc-
+ture unless the agency or municipality receives a copy of the notice and a  copy of a reply from the
+owner or operator of the interstate pipeline.
+Requires an owner or operator of an  interstate pipeline each year to provide contact informa-
+tion to the Oregon Utility Notification Center.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to notification requirements for structures located  within 1,000 feet of an interstate pipe-
+line; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this  2025 Act is added to and made a part of ORS 455.410 to
+455.450.
+SECTION 2. (1) As used in this section:
+(a) “Interstate pipeline” means a pipeline that:
+(A) Is actually carrying or is capable of carrying liquid or gaseous substances; and
+(B) Originates  within this state and extends outside the boundaries of this state, or
+originates from outside of and crosses one or more of the boundaries of this state.
+(b) “National Pipeline Mapping System”  means the publicly accessible online map viewer
+for the electronic mapping system that the  United States Department of Transportation’s
+Pipeline and Hazardous Materials Safety Administration  operates and maintains for the
+purpose of locating pipelines and utility systems, or a similar system that a successor agency
+operates and maintains.
+(2)(a) A person that intends to construct a building or structure that is or  will be located
+within 1,000 feet of the center line of an  interstate pipeline shall notify the Oregon Utility
+Notification Center at the time the person applies for a building permit for the  building or
+structure or 180 days before beginning construction, whichever is earlier. The person  shall
+send a copy of the notice to the state agency or municipality  from which the person expects
+to obtain a building permit for the building or structure. In the notice,  the person shall de-
+scribe the extent and location of the construction,  list the equipment and supplies the person
+will use in the construction and identify any  locations within 1,000 feet of the center line of
+the interstate pipeline in which the person  will use, park or store the equipment or supplies.
+(b) To determine whether a notice  is required under paragraph (a) of this subsection, a
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4016
+HB 3520
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+person shall  consult the National Pipeline Mapping System before applying for a building
+permit to construct a building or structure within this state.
+(3)(a) Not later than 30 calendar days after an owner  or operator of an interstate pipeline
+receives through the Oregon  Utility Notification Center a notice described in subsection (2)
+of this section, the owner or operator  of an interstate pipeline shall send a written reply to
+the person that sent the notice to indicate that the owner or operator received the  person’s
+notice and shall review details of the proposed construction.  The owner or operator may not
+unreasonably delay or withhold the reply.
+(b) In the review described in  paragraph (a) of this subsection, the owner or operator
+may inspect the  person’s plans and designs and the proposed site of the construction. To the
+extent reasonably necessary for the review, the  person shall cooperate with and make the
+plans, designs and site available to the owner or operator during regular business hours.
+(4) A state agency  or municipality may not issue a building permit for a building or
+structure if, after consulting the National Pipeline Mapping  System, the state agency or
+municipality determines that the building or structure is or  will be located within 1,000 feet
+of the center line of an interstate pipeline, unless and until the  state agency or municipality
+receives:
+(a) A copy of the notice described in subsection (2) of this section; and
+(b) A copy of the reply described in subsection (3)(a) of this section or  a statement in
+writing that the owner or operator of the interstate pipeline did not reply to the notice  de-
+scribed in subsection (2) of this section.
+(5) An owner or operator  of an interstate pipeline each year shall provide to the Oregon
+Utility Notification Center contact information  sufficient to provide the owner or operator
+with the notice described in subsection (2) of this section.
+SECTION 3.
+Section 2 of this 2025 Act applies to the construction of a building or struc-
+ture for which a person seeks a building permit  on or after the effective date of this 2025
+Act.
+SECTION 4. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

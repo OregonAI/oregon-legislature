@@ -1,0 +1,161 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 224
+Sponsored by Senators MANNING JR, BONHAM, PATTERSON;  Senators FREDERICK, GOLDEN, MEEK,
+PROZANSKI, REYNOLDS, SOLLMAN, TAYLOR, Representative GAMBA (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act keeps the SOS from  posting the address of those persons who are linked to a
+campaign committee on the secretary’s website. (Flesch Readability Score: 62.1).
+Prohibits the Secretary of  State from publishing the residence address of certain individuals who
+are affiliated with a candidate’s principal campaign committee on the electronic filing system main-
+tained by the secretary.
+A BILL FOR AN ACT
+Relating to addresses of individuals associated with candidate campaign committees;  amending ORS
+260.057.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 260.057 is amended to read:
+260.057. (1) The Secretary of State by rule shall  adopt an electronic filing system to be used by:
+(a) All candidates and political committees to file with the secretary statements  of contributions
+received and expenditures made by the candidates and political committees, as described  in ORS
+260.083.
+(b) Treasurers of petition  committees organized under ORS 260.118 to file with the secretary
+statements of contributions received and expenditures made by the  treasurers or chief petitioners
+as described in ORS 260.083.
+(c) Persons  who make independent expenditures as provided in ORS 260.044 to file with the
+secretary statements of independent expenditures made by the persons  as described in ORS 260.083.
+(2) Except as otherwise provided  in this section, a candidate or political committee shall file a
+statement of contributions received and expenditures made described in subsection  (1)(a) of this
+section not later than 30 calendar days after a contribution is received or an expenditure is made.
+(3)(a) A candidate for nomination or election at  any primary or general election or a political
+committee supporting or opposing a candidate or measure at any primary or  general election shall
+file a statement described in  subsection (1)(a) of this section not later than seven calendar days after
+a contribution is  received or an expenditure is made. This paragraph applies to contributions re-
+ceived and expenditures made:
+(A) During the period beginning on the 42nd calendar day before the date  of any primary
+election and ending on the date of the primary election; and
+(B) During the period beginning on the 42nd calendar day before  the date of any general
+election and ending on the date of the general election.
+(b) For any special election, the secretary by rule  may establish a period during which a can-
+didate for  nomination or election at the special election or a political committee supporting or op-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 202
+SB 224
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+posing a candidate or  measure at the special election must file a statement described in subsection
+(1) of this section not later than seven calendar days after a contribution is received or an  expend-
+iture is made.
+(c) If the candidate or political committee receives a contribution  or makes an expenditure prior
+to the 42nd calendar day before the date of the primary or general election and the candidate  or
+political  committee  has not filed a statement of the contribution or expenditure under subsection (2)
+of this section by the 43rd  calendar day before the date of the primary or general election, the
+candidate or political committee shall file a statement described in subsection (1)(a)  of this section
+not later than whichever of the following dates occurs first:
+(A) The date required under subsection (2) of this section; or
+(B) The 35th calendar day before the date of the primary or general election.
+(4) The electronic filing system shall be provided free of charge by the secretary and shall:
+(a) Accept electronic files that conform to the format prescribed by the secretary by rule; or
+(b) Be compatible with any other electronic filing application provided or  approved by the sec-
+retary.
+(5)(a) Except as provided in paragraph (b) or (c)  of this subsection, the secretary shall make all
+data filed electronically under subsection (1)(a)  of this section and all information filed with the
+secretary under ORS 260.049  or 260.085 available on the Internet to the public free of charge ac-
+cording to a schedule  adopted by the secretary by rule. The secretary shall make the data available
+in a searchable database that is easily accessible by  the public. When the secretary makes data or
+information available on the  Internet under this subsection, the secretary shall display any contri-
+bution received from a person or political committee with an out-of-state  address in a different col-
+ored font than a contribution received from a person or political  committee with an in-state address.
+(b) The secretary may not make data that are filed electronically  under subsection (1)(a) of this
+section available to the  public under this section, unless the data are required to be listed under
+ORS 260.083. The secretary may not disclose under ORS 192.311 to 192.478 any data that are  filed
+electronically under subsection (1)(a) of this section, unless the data  are required to be listed under
+ORS 260.083.
+(c) The secretary may not make the residence  address of any individual who is associated
+with a candidate’s principal campaign committee, as designated under ORS  260.041, available
+to the public  under this section. An individual under this paragraph includes the candidate,
+committee director,  treasurer and any individual authorized to file statements with or re-
+ceive correspondence from the secretary on behalf of the committee.
+(6) Each statement required by this section shall be  signed and certified as true by the candi-
+date, treasurer, designee of the candidate or treasurer or person who files a statement of independ-
+ent expenditures under ORS 260.044, as appropriate. Signatures shall be supplied in  the manner
+specified by the secretary by rule.
+(7) This section does not apply to:
+(a) Candidates for federal office;
+(b) Candidates who are not required to file a statement of organization under ORS 260.043; or
+(c) Candidates, political committees or  petition committees that file certificates under ORS
+260.112.
+[2]

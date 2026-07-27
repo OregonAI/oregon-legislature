@@ -1,0 +1,191 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3633
+Sponsored by Representatives DIEHL, MANNIX
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act limits pretrial release for people charged with  certain crimes. The Act takes
+effect on the 91st day after sine die. (Flesch Readability Score: 76.4).
+Sets a minimum amount of security for persons charged with Ballot Measure  11 (1994) offenses.
+Limits pretrial release of defendants charged with a felony or Class A misdemeanor  who commit a
+new felony or Class A misdemeanor while on release.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to pretrial release; amending ORS 135.233 and 135.240; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 135.233 is amended to read:
+135.233. (1) The presiding judge of a judicial district  shall enter a standing pretrial release order
+specifying to the  sheriff of the county, or to the entity supervising the local correctional facility
+responsible for pretrial incarceration within the judicial district, those persons and offenses:
+(a) Subject to release on recognizance;
+(b) Subject to release with special conditions as specified in the order; and
+(c) That are not eligible for release until arraignment.
+(2) The Chief Justice  of the Supreme Court[ , with input from a criminal justice advisory committee
+appointed by the Chief  Justice, ] shall establish release guidelines for the pretrial release orders de-
+scribed in this section to:
+(a) Provide consistent release decision-making structure [ across the state ] within each county ;
+[(b) Reduce reliance on the use of security; ]
+[(c)] (b) Include provisions for victim notification and input; and
+[(d)] (c)  Balance the rights of the defendant [ and presumption of  pretrial release ] against com-
+munity and victim safety and the risk of failure to appear.
+SECTION 2.
+ ORS 135.240 is amended to read:
+135.240. (1) Except as  provided in subsections (2) and (4)  to (6)  of this section, a defendant shall
+be released in accordance with ORS 135.230 to 135.290.
+(2)(a) When the defendant is charged with murder, aggravated murder or  treason, release shall
+be denied when the proof is evident or the presumption strong that the person is guilty.
+(b) When the defendant is charged with murder or  aggravated murder and the proof is not evi-
+dent nor  the presumption strong that the defendant is guilty, the court shall determine the issue of
+release as provided  in subsection (4) of this section. In determining the issue of release under sub-
+section (4) of this section, the court may consider any evidence used  in making the determination
+required by this subsection.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4093
+HB 3633
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) The  magistrate may conduct such hearing as the magistrate considers necessary to determine
+whether, under subsection (2) of this section, the proof is evident or the  presumption strong that the
+person is guilty.
+(4)(a) When the defendant is  charged with a violent felony, release shall be denied if the court
+finds:
+(A) Except when  the defendant is charged by indictment, that there is probable cause to believe
+that the defendant committed the crime; and
+(B) By clear and convincing evidence, that there  is a danger of physical injury or sexual
+victimization to the victim or members of the public by the defendant while on release.
+(b) If the defendant wants to have a  hearing on the issue of release, the defendant must request
+the hearing at the time of arraignment in circuit court. If the defendant  requests a release hearing,
+the court must hold the hearing within five days of the request.
+(c) At the release hearing,  unless the state stipulates to the setting of security or release, the
+court shall make the inquiry set forth in paragraph (a) of this subsection. The state has the  burden
+of producing evidence at the release hearing subject to ORS 40.015 (4).
+(d) The defendant may be represented by counsel and may present evidence  on any relevant is-
+sue. However, the hearing may not be used for purposes of discovery.
+(e) If the court determines that the defendant is eligible for release  in accordance with this
+subsection, the court shall set security or other appropriate conditions of release.
+(f) When a defendant who has been released violates a condition of release and the violation:
+(A) Constitutes a new  criminal offense, the court shall cause the defendant to be taken back into
+custody and shall order the defendant held pending trial without release.
+(B) Does not constitute  a new criminal offense, the court may order the defendant to be taken
+back into custody , [ and] may order the defendant held pending trial [ or may make a new release
+decision] and may set a security amount of not less than $250,000 .
+(5)(a) Notwithstanding any other provision of  law, the court shall set a security amount
+of not less than $50,000  for a defendant charged with an offense listed in ORS 137.700 or
+137.707 unless the court determines that amount to be unconstitutionally excessive, and may
+not release the defendant on any form of release other than a security release if:
+(A) The United States Constitution or the Oregon Constitution prohibits the denial of
+release under subsection (4) of this section;
+(B) The court determines that the defendant is eligible for release  under subsection (4)
+of this section; or
+(C) The court finds that the offense is not a violent felony.
+(b) In addition to the security  amount described in paragraph (a) of this subsection, the
+court may impose any supervisory  conditions deemed necessary for the protection of the
+victim and the community. When  a defendant who has been released violates a condition of
+release and the violation:
+(A) Constitutes a  new criminal offense, the court shall cause the defendant to be taken
+back into custody, shall order the defendant held  pending trial and shall set a security
+amount of not less than $250,000.
+(B) Does not constitute a new criminal offense, the court may order the  defendant to be
+taken back into custody, may order  the defendant held pending trial and may set a security
+amount of not less than $250,000.
+(6) Notwithstanding any other provision of this section, when a defendant who has been
+[2]
+HB 3633
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+released on a case in which the most serious charge is a  felony or a Class A misdemeanor
+violates a condition of release, and the violation constitutes a new criminal offense that  is
+a felony or a Class A misdemeanor, the  court shall cause the defendant to be taken back into
+custody and  shall order the defendant held pending arraignment on the new offense. A de-
+fendant ordered held pending arraignment under this subsection is not eligible for security
+release.
+[(5)] (7) For purposes of this section, “violent felony” means a felony offense in which there was
+an actual or threatened serious physical injury to the victim, or a felony sexual offense.
+SECTION 3.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

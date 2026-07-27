@@ -1,0 +1,504 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1002
+Sponsored by Senator THATCHER; Senator WEBER, Representatives DIEHL, RESCHKE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act allows a court to evict a squatter or a tenant who returns  after eviction.
+(Flesch Readability Score: 63.6).
+Allows a court to  enter a supplemental eviction judgment within 180 days of an eviction judg-
+ment against a tenant who reenters the property, subject to the  tenant’s right to request a hearing.
+Allows a court to evict an unauthorized occupant under the process for eviction of a residential
+tenant. Applies to existing occupancies.
+A BILL FOR AN ACT
+Relating to eviction; creating  new provisions; and amending ORS 105.115, 105.130, 105.152 and
+105.153.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this  2025 Act is added to and made a part of ORS 105.100 to
+105.168.
+SECTION 2. (1) Within 180 days following a judgment, a court may enter a  supplemental
+judgment of restitution in favor of the plaintiff upon receipt of an affidavit or declaration
+that:
+(a) The defendant vacated the premises following a judgment of restitution given  in favor
+of the plaintiff under ORS 105.128, 105.137, 105.145, 105.146 or 105.149;
+(b) For reasons outside of the plaintiff’s reasonable control, the defendant has since re-
+turned to and is occupying  the premises without authorization, permission or a new rental
+agreement;
+(c) A notice of restitution under ORS 105.151 (1)(a):
+(A) Has not been issued;
+(B) Was previously served on the defendant; or
+(C) Has expired as described in ORS 105.159 (3); and
+(d) A writ of execution of judgment of restitution under ORS 105.151 (1)(b):
+(A) Has not been issued; or
+(B) Has expired as described in ORS 105.159 (3) or 105.161 (3).
+(2) A supplemental judgment of restitution under this section may  be enforced as pro-
+vided in ORS 105.151.
+(3) The court shall  establish a procedure that allows the defendant to request a hearing
+on the plaintiff’s affidavit or declaration under this section and delay expiration  of the notice
+of restitution period or execution upon a supplemental judgment of restitution pending  the
+hearing.
+(4)(a) To contest a plaintiff’s affidavit or declaration of noncompliance under subsection
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 858
+SB 1002
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) of this section and delay expiration of the notice of restitution period or  execution upon
+the supplemental judgment of restitution, a defendant shall file  a request for hearing with
+the clerk of the court.
+(b) The request must be filed prior to issuance by the clerk of  a writ of execution of
+supplemental judgment of restitution and must include a statement by the defendant  that
+either:
+(A) The defendant has entered into a new rental  agreement for the premises following
+the original judgment of restitution; or
+(B) The defendant has not returned and does not intend to return to the premises.
+(c) A court may provide an ex parte review of the hearing request in the manner provided
+by ORS 105.148 (1)(b).
+SECTION 3.
+ ORS 105.152 is amended to read:
+105.152. (1) If the court entered  a judgment pursuant to ORS 105.146, a notice of restitution is-
+sued by the clerk of the court pursuant to ORS 105.151 must be in  substantially the following form:
+_______________________________________________________________________________________
+IN THE CIRCUIT COURT FOR
+THE COUNTY OF 
+Notice of Restitution
+because of not complying
+with a court-approved agreement
+Case Number 
+TO: 
+(Tenant/Defendant)
+(Address of rental property)
+You and your landlord  made a court-approved agreement allowing you to stay in the property.
+Your landlord claims that you have not kept that agreement. (A copy of  the landlord’s claim is at-
+tached.) Unless you can prove to the court why you should not have  to move out, you must move
+by the MOVE OUT DATE listed below. If you do not, the landlord can have the  Sheriff physically
+remove you.
+If you believe that you have kept the agreement or that you have a legal  reason for not keeping
+the agreement, you are  entitled to a court hearing. Legal reasons are listed in ORS 105.148 and
+105.149. They include  the landlord interfering with your effort to keep the agreement and your
+complying with a modification of the agreement made by you and your landlord.
+To request a  hearing, you must go to the court and complete a form explaining why you believe
+that you have kept (or should not  be required to keep) the agreement. You have to do this
+before  a.m./p.m. on . The Sheriff will not physically remove you from the
+property before the hearing.
+If the  judge rules against you at the hearing, the landlord can have the Sheriff physically re-
+[2]
+SB 1002
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+move you.
+DEADLINE TO MOVE OUT
+MOVE OUT DATE: 
+If you do not request a hearing, you must move out of the property no later than 11:59  p.m. on
+the Move Out Date.
+If you and  everyone else living there do not move out by that time, the Sheriff will physically
+remove you. You must also move all of your  belongings by that time. Anything you leave behind
+will be stored or disposed of as allowed by law.
+Deputy Court Administrator
+_______________________________________________________________________________________
+(2) If the court entered a supplemental judgment pursuant to  section 2 of this 2025 Act,
+a notice of restitution issued by the clerk of the court pursuant to  ORS 105.151 must be in
+substantially the following form:
+IN THE CIRCUIT COURT FOR
+THE COUNTY OF 
+Notice of Restitution
+of tenant returning after
+judgment of restitution
+Case Number 
+TO: 
+(Tenant/Defendant)
+(Address of rental property)
+Your landlord claims that despite the previous judgment of restitution, you have not
+vacated or have returned to the property.  A copy of your landlord’s claim is attached. The
+Court has issued a supplemental judgment of restitution.
+Unless you can prove to  the court that you have not reentered the property or why you
+should not have to move out, you must move by the MOVE OUT DATE listed below.
+You are entitled to a court hearing. To request a hearing, you must go to the court  and
+complete a form. You  have to do this before  a.m./p.m. on . The
+Sheriff will not physically remove you from the property before the hearing.
+If the judge rules against you at the hearing, the landlord can have the Sheriff  physically
+remove you.
+[3]
+SB 1002
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+DEADLINE TO MOVE OUT
+MOVE OUT DATE: 
+If you do not request a hearing, you must move out of the property no later than  11:59
+p.m. on the Move Out Date.
+If you and everyone else  living there do not move out by that time, the Sheriff will
+physically remove  you. You must also move all of your belongings by that time. Anything
+you leave behind will be stored or disposed of as allowed by law.
+Deputy Court Administrator
+SECTION 4.  ORS 105.153 is amended to read:
+105.153. If a court entered a judgment other than pursuant to  ORS 105.146 or section 2 of this
+2025 Act , a notice of restitution issued by the clerk of the court  pursuant to ORS 105.151 must be
+in substantially the following form:
+_______________________________________________________________________________________
+In the Circuit Court for the
+County of 
+NOTICE OF RESTITUTION
+Case Number 
+ TO: 
+(Defendant/Tenant)
+(Address of property)
+DEADLINE TO MOVE OUT
+MOVE OUT DATE: 
+The Court has ordered you to move out  of the property. You must move out no later than 11:59
+p.m. on the Move Out Date.
+If you and everyone else living there do not move out by that time, the Sheriff  will physically
+remove you. You must also move all of your  belongings by that time. Anything you leave behind
+will be stored or disposed of as allowed by law.
+[4]
+SB 1002
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Deputy Court Administrator
+_______________________________________________________________________________________
+SECTION 5.
+ ORS 105.115 is amended to read:
+105.115. (1) Except as  provided by subsections (2) and (3) of this section, the following are causes
+of unlawful holding by force within the meaning of ORS 105.110, 105.123 and 105.126:
+(a) When the tenant or  person in possession of any premises fails or refuses to pay rent within
+10 days after  the rent is due under the lease or agreement under which the tenant or person in
+possession holds, or to deliver possession of the premises  after being in default on payment of rent
+for 10 days.
+(b) When the lease by its terms has expired and has not been renewed, or when the  tenant or
+person in possession is holding from month to month, or year  to year, and remains in possession
+after notice to quit as provided in ORS  105.120, or is holding contrary to any condition or covenant
+of the lease or is holding possession without any written lease or agreement.
+(c) When the owner or possessor of a recreational vehicle that was placed or driven onto prop-
+erty without the prior consent of the property owner, operator or  tenant fails to remove the recre-
+ational vehicle. The property owner  or operator is not required to serve a notice to quit the
+property before commencing an action under  ORS 105.126 against a recreational vehicle owner or
+possessor holding property by force as described in this paragraph.
+(d) When the person in possession of  a premises remains in possession after the time when a
+purchaser of the premises is entitled to possession in accordance with the provisions of  ORS 18.946
+or 86.782.
+(e) When the person in possession of a premises remains  in possession after the time when a
+deed given in lieu of foreclosure entitles  the transferee named in the deed to possession of the
+premises.
+(f) When the person  in possession of a premises remains in possession after the time when a
+seller is entitled to possession in accordance with the provisions of ORS 93.930 (2)(c) or pursuant
+to a judgment of strict foreclosure of a recorded contract for transfer or  conveyance of an interest
+in real property.
+(g) When the  person in possession of a premises remains in possession after the expiration of a
+valid notice  terminating the person’s right to occupy the premises pursuant to ORS 91.120, 91.122
+or 91.130.
+(h) When the person in possession of a premises, including a  person who is a squatter,
+as defined in ORS 90.100, remains in  possession if that person has entered the premises not
+pursuant to a tenancy, a rental agreement or  another agreement authorizing occupancy, or
+has entered as a  guest and refuses to depart after the owner has demanded, orally or in
+writing, that the person vacate the premises.
+(2) In the case of a dwelling unit to which ORS chapter 90 applies:
+(a) The following are causes of  unlawful holding by force within the meaning of ORS 105.110 and
+105.123:
+(A) When the tenant or person in possession of any premises fails or refuses to  pay rent within
+the time period required by a notice under ORS 90.392 or 90.394.
+(B) When a rental agreement by its terms has expired and has not been renewed, or when  the
+tenant or person in possession remains in possession after a valid notice  terminating the tenancy
+pursuant to ORS chapter 90, or is holding contrary to  any valid condition or covenant of the rental
+[5]
+SB 1002
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+agreement or ORS chapter 90.
+(b) A landlord may not file an action for the return of possession of a  dwelling unit based upon
+a cause of unlawful holding by force as described in paragraph (a) of this subsection until  after the
+expiration of a rental agreement for a fixed term tenancy or after the expiration of the time  period
+provided in a notice terminating the tenancy.
+(c) The court may dismiss a claim for possession at any time if the complaint does not  comply
+with this subsection.
+(3) In an action under subsection (2) of this section, ORS chapter 90 shall  be applied to deter-
+mine the rights of the parties, including:
+(a) Whether and in what amount rent is due;
+(b) Whether a tenancy or rental agreement has been validly terminated; and
+(c) Whether the tenant is entitled to  remedies for retaliatory conduct by the landlord as pro-
+vided by ORS 90.385 and 90.765.
+SECTION 6.
+ ORS 105.130 is amended to read:
+105.130. (1) Except as provided in this section  and ORS 105.135, 105.137 and 105.140 to 105.161,
+an action pursuant to ORS 105.110 shall be conducted in all respects as other actions in courts  of
+this state.
+(2) Upon filing  a complaint in the case of a dwelling unit to which ORS chapter 90 applies, the
+clerk shall:
+(a) Collect a filing fee of $88;
+(b) Collect any other fee authorized by law or ordinance; and
+(c) With the assistance of the plaintiff or an agent of the plaintiff, complete the applicable
+summons and provide to the plaintiff or an agent of the plaintiff sufficient copies of the  summons
+and complaint for service.
+(3) The court shall collect a filing fee of $88 from a defendant that demands a trial under  this
+section.
+(4) An action pursuant to ORS 105.110 shall be brought in  the name of a person entitled to
+possession as plaintiff. The plaintiff may appear in person or  through an attorney. In an action to
+which ORS chapter 90 applies, the plaintiff may  also appear through a nonattorney who is an agent
+or employee of the plaintiff or an agent or employee of an agent of the plaintiff.
+(5) Notwithstanding ORS 9.160, 9.320 and ORS chapter 180, a state agency  may appear in an
+action brought pursuant to ORS 105.110 through an officer or employee of the agency if:
+(a) The Attorney General consents to the  representation of the agency by an officer or employee
+in the particular action or in the class of actions that includes the particular action; and
+(b) The agency, by rule, authorizes an officer or employee to appear on its behalf in the  partic-
+ular type of action being conducted.
+(6) An action brought under ORS 105.110 by a  person entitled to possession of premises on the
+basis of circumstances described in ORS 105.115 (1)(d), (e) , (f) or (h)  [ or (f) ] is subject to the filing
+fees and other court or sheriff fees applicable to  an action concerning a dwelling unit that is subject
+to ORS chapter 90. The procedure under ORS 105.100 to 105.168 that is applicable  to an action
+concerning a dwelling unit subject to ORS chapter 90 shall also  apply to an action brought under
+ORS 105.115 (1)(d), (e) , (f) or (h)  [ or (f) ], except that the complaint must be in  the form prescribed
+in ORS 105.126.
+SECTION 7.
+The amendments to ORS 105.115 and 105.130 by sections 5 and 6 of this 2025
+Act apply to  persons who have commenced possession of a premises before, on or after the
+[6]
+SB 1002
+1
+2
+effective date of this 2025 Act.
+[7]

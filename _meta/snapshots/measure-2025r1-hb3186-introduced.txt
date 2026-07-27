@@ -1,0 +1,134 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3186
+Sponsored by Representative SOSA (at the request of State Board of Towing) (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says  that the State Board of Towing is an independent agency. (Flesch Read-
+ability Score: 69.9).
+Establishes the State Board of Towing as an independent board.
+A BILL FOR AN ACT
+Relating to the State Board of Towing; amending ORS 822.250, 822.270 and 822.285.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 822.250 is amended to read:
+822.250. (1) The State Board of Towing is established [ within the Department of Transportation ].
+(2) The State Board of Towing consists of nine members appointed by the Governor as follows:
+(a) One tower who holds a towing business certificate  issued under ORS 822.205 and who re-
+presents a city in Oregon with a population of 100,000 or more;
+(b) One tower who holds a towing business  certificate issued under ORS 822.205 and who re-
+presents a city in Oregon with a population of less than 100,000;
+(c) One tower who holds a towing business certificate issued under ORS 822.205 and  who has
+specialized knowledge in towing equipment and vehicles with a gross vehicle weight rating of more
+than 44,000 pounds;
+(d) One tower who  holds a towing business certificate issued under ORS 822.205 and who has
+specialized knowledge in towing vehicles with a gross vehicle  weight rating of 26,000 pounds or less;
+(e) One member who represents the insurance industry;
+(f) One member from a tow program within the Department of State Police;
+(g) One member who is a chief of police or a county sheriff;
+(h) One member who is a member of the public; and
+(i) One member who is a consumer advocate.
+(3) All members of the board must be residents of Oregon.
+(4) The term of office of each member of the board is four years, but a member  serves at the
+pleasure of the Governor. Before the expiration of the term of  a member, the Governor shall appoint
+a successor whose term begins on July 1 next following. A member is  eligible for reappointment. If
+there is a vacancy for any cause, the Governor shall make an appointment to become immediately
+effective for the unexpired term.
+(5) A member of the board is entitled to compensation and expenses as provided in ORS  292.495.
+SECTION 2.
+ ORS 822.270 is amended to read:
+822.270. (1) The State Board of Towing  Account is established in the State Treasury, separate
+and distinct from the General Fund.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3389
+HB 3186
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+(2) The account consists of the following:
+(a) Moneys collected from fees imposed under ORS 822.285.
+(b) Moneys appropriated to the account by the Legislative Assembly.
+(c) Moneys from any other source.
+(3) Moneys  in the account are continuously appropriated to the [ Department of Transportation ]
+State Board of Towing  to carry out the provisions of ORS 822.250 to 822.290 and 822.995.
+SECTION 3.
+ ORS 822.285 is amended to read:
+822.285. (1) In carrying out its investigative and enforcement duties,  functions and powers, and
+notwithstanding any other provision of law, the State Board of  Towing may procure services and
+award a contract for the personal services of  a subject matter expert, on a case-by-case basis, in any
+manner deemed practical or convenient. The price of such contracts, including any amendments, may
+not exceed $25,000.
+(2) If the board has reason to believe that any person has been engaged or is engaging in any
+violation of ORS 98.853, 98.854, 98.856, 98.858, 181A.350, 822.200, 822.215, 822.225, 822.230,  822.235,
+822.250 to  822.290, 822.605 or 822.995 or any rule adopted under those statutes, or any order issued
+by the board, the board may, without bond,  bring suit in the name and on behalf of the State of
+Oregon in the circuit court of any county of this state to enjoin the acts or  practices and to enforce
+compliance with ORS  98.853, 98.854, 98.856, 98.858, 181A.350, 822.200, 822.215, 822.225, 822.230,
+822.235, 822.250 to 822.290, 822.605 or 822.995 or any rule adopted  under those statutes, or any order
+issued by the board. Upon a proper showing, a permanent  or temporary injunction, restraining order
+or writ of mandamus shall be granted.
+(3) The board, by  rule, may impose a fee on any person holding or applying for a towing business
+certificate. The amount of the fee shall be established to recover expenses  incurred by the board in
+carrying  out  ORS 822.250 to 822.290 and 822.995. Any fees collected under this subsection shall be
+deposited into the State Board of Towing Account established under ORS 822.270.
+(4) The Department of Transportation shall provide office facilities, administrative sup-
+port and technical assistance to the board.
+[2]

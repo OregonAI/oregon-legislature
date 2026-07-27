@@ -1,0 +1,218 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3634
+Sponsored by Representatives OWENS, HELM, MCLAIN; Representative MCDONALD,  Senators ANDERSON,
+WEBER
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  makes new laws with respect to workforce development activities with respect
+to the water workforce. The  Act takes effect when the Governor signs it. (Flesch Readability Score:
+63.4).
+Establishes the Water  Workforce Program in the Higher Education Coordinating Commission to
+support workforce development initiatives within the water workforce.
+Directs the commission to award  grants to local workforce development boards to administer
+the program.  Requires the commission to disburse funds appropriated for the purpose of adminis-
+tering the program to local workforce development boards within a certain timeline.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to the water workforce; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Environmental justice  communities” has the meaning given that term in ORS
+182.535.
+(b) “Nonprofit organization” means an organization that is described in  section 501(c)(3)
+of the Internal Revenue Code and that is exempt from income tax under  section 501(a) of the
+Internal Revenue Code.
+(2) The Water Workforce Program is established in the  Higher Education Coordinating
+Commission to increase and diversify the  supply of skilled water professionals within the
+water workforce through workforce development initiatives that include, but  are not limited
+to, providing operator training and certification opportunities to individuals seeking entry
+into the water and wastewater utilities sector and related industries.
+(3) The commission shall operate and the local workforce development boards  shall
+manage the program. The commission shall provide grants to  local workforce development
+boards to administer the program for the following purposes:
+(a) To identify and address solutions, at the state  and regional level, for eliminating
+barriers to and leveraging opportunities for developing and sustaining pathways  that connect
+individuals to career opportunities within the water and wastewater utilities sector by ex-
+amining factors that include, but are not limited to:
+(A) Current education and training pathways for individuals to enter the  water and
+wastewater utilities workforce;
+(B) Opportunities for building partnerships  and sharing resources between water and
+wastewater utilities and related industries experiencing a shortage of  skilled water profes-
+sionals; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3981
+HB 3634
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(C) Factors  that impact the ability of water and wastewater utilities to attract, recruit,
+retain and replace qualified water and wastewater utility operators.
+(b) To develop regionally specific strategies for  addressing the water workforce needs
+with a focus on the water and wastewater utilities sector.
+(c) To partner with nonprofit organizations that  serve environmental justice communi-
+ties to conduct targeted outreach to such  communities, promoting awareness of career op-
+portunities in  the water and wastewater utilities sector. Priority shall be given to
+organizations that have demonstrated knowledge and experience with and an established
+connection to water and wastewater utilities.
+(d) To identify and implement strategies to attract, recruit, retain and replace water and
+wastewater utility operators and support succession planning in rural, coastal and  remote
+communities and communities with limited funding and workforce capacity.
+(e) To coordinate with state  workforce agencies and regional workforce development
+partners to expand community-based partnerships that  aim to support and sustain water
+workforce development initiatives.
+(f) To develop education and training pathways within the water workforce, including  but
+not limited to:
+(A) Apprenticeship opportunities; and
+(B) Opportunities that provide paid work experience, including stipends and wages.
+(g) To provide wraparound supports and services  necessary to facilitate engagement in
+the water workforce, including  but not limited to tuition assistance and fee assistance to
+obtain industry-recognized certificates.
+(h) To  engage and coordinate with federally recognized tribal governments to assess and
+address the water and wastewater utilities needs of  federally recognized Indian tribes in
+Oregon.
+(i) To fund organizational investments, including but not limited to:
+(A) Hiring staff;
+(B) Purchasing equipment, technology and other training-related supplies; and
+(C) Covering administrative costs.
+(j) To  work with community colleges and nonprofit organizations that provide water and
+wastewater utilities training, education and apprenticeship programs  to develop and operate
+pilot programs that are designed to:
+(A) Provide paid on-the-job career and  education pathways for obtaining operator certif-
+ications for water and wastewater systems;
+(B) Engage with water and wastewater utilities to explore and identify potential options
+to provide financial support to on-the-job  career and education pathways for individuals to
+obtain employment in the water and wastewater utilities sector;
+(C) Facilitate partnerships with water and wastewater  utilities experiencing skilled
+workforce shortages to provide job placement services to program participants; and
+(D) Identify potential sources for sustainable funding to support the programs.
+(4) Prior  to distributing any grant funds to a local workforce development board under
+this section, the commission and the recipient shall enter into an agreement:
+(a) Indicating the purposes for which the funds may be used; and
+(b) Requiring the recipient to report on the use of funds in a manner  described by the
+commission.
+[2]
+HB 3634
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+(5) A local workforce development board receiving a grant under this section  may dis-
+tribute grant funds to subgrantees that are:
+(a) Nonprofit organizations that partner  with the local workforce development board to
+carry out the targeted outreach described in subsection (3)(c) of this section.
+(b) Nonprofit organizations and community colleges that partner with the local workforce
+development board to develop and operate pilot programs described in subsection (3)(j) of this
+section.
+(6) No later than September  15, 2026, and every two years thereafter, the Higher Educa-
+tion Coordinating Commission shall submit a report to the interim committees of the Leg-
+islative Assembly relating to labor and business, in the manner provided in ORS 192.254,  on
+the outcomes of the Water Workforce Program, including information reported by a grant
+recipient, and any recommendations for legislation.
+(7) The commission may adopt  rules necessary to carry out the provisions of this section.
+SECTION 2.
+Not later than 90 days following the effective date of this 2025 Act, the
+Higher Education Coordinating Commission shall distribute the funds specifically appropri-
+ated to the commission  under section 3 of this 2025 Act to local workforce development
+boards for the purposes described under section 1 of this 2025 Act.
+SECTION 3. In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the Higher Education Coordinating Commission, for the biennium beginning  July 1,
+2025, out of the General Fund, the amount of $5,500,000, to be  distributed to local workforce
+development boards for the purposes described under section 1 of this 2025 Act.
+SECTION 4. This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[3]

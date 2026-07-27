@@ -1,0 +1,286 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2024r1-sb1571
+title: 'SB 1571 (2024R1): Requires a disclosure of the use of synthetic media in campaign communications.'
+doc_type: dataset_doc
+citation: 2024 Regular Session Senate Bill 1571
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1571/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 2fa4e8746fdf0918c834cdf396533be66522e6d733b25d381dd12c639f1e8cbc
+snapshot_id: measure-2024r1-sb1571-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 260.005
+  - ORS 260.234
+  - ORS 260.345
+  - ORS 260.537
+  - ORS 260.993
+  - ORS 260.995
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2024r1
+- sb
+session_key: 2024R1
+measure_prefix: SB
+measure_number: 1571
+prefix_meaning: Senate Bill
+catch_line: Requires a disclosure of the use of synthetic media in campaign communications.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would require a disclosure of the use of AI or other similar technology\
+  \ in campaign ads. The Act would create a way to enforce the requirement and to impose a fine for violations.\
+  \ (Flesch Readability Score: 60.7). \n\tRequires a disclosure of the use of synthetic media in campaign\
+  \ communications. Provides for the enforcement of the requirement. Subjects a violation of the requirement\
+  \ to a civil penalty not to exceed $10,000. Exempts certain entities and content from the requirement.\
+  \ \n\tDeclares an emergency, effective on passage."
+relating_to: Relating to the use of artificial intelligence in campaign communications; declaring an emergency.
+relating_to_full: Relating to the use of artificial intelligence in campaign communications; creating
+  new provisions; amending ORS 260.345; and declaring an emergency.
+at_the_request_of: null
+lc_number: 132
+measure_created_date: '2024-01-12T16:22:57'
+measure_modified_date: '2024-03-28T12:50:20'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 12663
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 260.005
+  - ORS 260.234
+  - ORS 260.345
+  - ORS 260.537
+  - ORS 260.993
+  - ORS 260.995
+  from_relating_to_full:
+  - ORS 260.345
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1571>.
+
+# SB 1571 — 2024 Regular Session (2024R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1571, 2024 Regular Session (2024R1)
+- **LC number:** 132
+- **Created:** 2024-01-12T16:22:57
+- **Metadata last modified (upstream):** 2024-03-28T12:50:20
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 12663 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1571/Enrolled>.
+
+## Summary
+
+**Catchline:** Requires a disclosure of the use of synthetic media in campaign communications.
+
+**Relating to:** Relating to the use of artificial intelligence in campaign communications; declaring an emergency.
+
+Digest: The Act would require a disclosure of the use of AI or other similar technology in campaign ads. The Act would create a way to enforce the requirement and to impose a fine for violations. (Flesch Readability Score: 60.7). 
+ Requires a disclosure of the use of synthetic media in campaign communications. Provides for the enforcement of the requirement. Subjects a violation of the requirement to a civil penalty not to exceed $10,000. Exempts certain entities and content from the requirement. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to the use of artificial intelligence in campaign communications; creating new provisions; amending ORS 260.345; and declaring an emergency.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Enrolled
+Senate Bill 1571
+Sponsored by Senators  WOODS, MANNING JR, GELSER BLOUIN, Representative NERON; Sen-
+ators CAMPOS, DEMBROW, FREDERICK, GOLDEN, HANSELL, HAYDEN, JAMA,  KNOPP,
+PATTERSON, PROZANSKI, WEBER, Representatives ANDERSEN, BOWMAN, BYNUM,
+DEXTER, EVANS, FAHEY, GAMBA, GOMBERG, GRAYBER,  HARTMAN, HUDSON, LEVY
+E, LIVELY, MANNIX, NATHANSON, NELSON, NGUYEN D, PHAM H, PHAM K, SOSA (Pre-
+session filed.)
+CHAPTER .................................................
+AN ACT
+Relating to the use of  artificial intelligence in campaign communications; creating new provisions;
+amending ORS 260.345; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a)(A) “Campaign  communication” means a communication in support of or in opposition
+to a clearly identified candidate or measure, as defined in ORS 260.005 (10)(c).
+(B) Notwithstanding  ORS 260.005 (10)(c)(B)(i), a campaign communication may involve
+aggregate expenditures of any amount.
+(b) “Synthetic media” means  an image, audio recording or video recording of an
+individual’s appearance, speech or conduct that has been  intentionally manipulated with the
+use of artificial intelligence techniques or similar digital technology in a manner to create a
+realistic but false image, audio recording or video recording that produces:
+(A) A depiction that a  reasonable person would believe is of a real individual in appear-
+ance, speech or conduct but that did not actually occur in reality; and
+(B) A materially different understanding or impression than a reasonable person would
+have from the unaltered, original version of the image, audio recording or video recording.
+(2) A campaign communication that includes any form of  synthetic media must include
+a disclosure stating  that the image, audio recording or video recording has been manipulated.
+(3) The Secretary of State may institute proceedings to enjoin any violation of this  sec-
+tion. The Attorney General may institute proceedings to  enjoin any violation of this section
+by the Secretary of State, a candidate  for the office of the Secretary of State, or any political
+committee or person supporting  the Secretary of State or a candidate for the office of the
+Secretary of State. In any action brought under this section, the circuit court may at any
+time enter such injunctions, prohibitions or restraining orders, or take any other  actions as
+the court may deem proper. A restraining order, prohibition or injunction  may be issued
+under this  section without proof of injury or damage to any person. The circuit court shall
+give priority to the hearing and determination under this section. The court  shall award the
+prevailing party reasonable attorney fees at trial and on appeal.
+Enrolled Senate Bill 1571 (SB 1571-B) Page 1
+(4) Upon proof of any violation  of this section, the court shall impose a civil penalty of
+not more than $10,000. All penalties recovered under  this section shall be paid into the State
+Treasury and credited to the General Fund.
+(5) The remedy provided by this section is the exclusive remedy for a  violation of this
+section.
+(6) This section does not apply to:
+(a) A provider of an interactive computer service, as defined in 47 U.S.C. 230(f), or an
+information service, as defined in 47 U.S.C. 153;
+(b) A radio or television station, including a cable or satellite television operator, pro-
+grammer or producer, that broadcasts  a campaign communication that includes synthetic
+media as part of a  bona fide newscast, news interview, news documentary, or on-the-spot
+coverage of a bona fide news event, if the broadcast or publication clearly acknowledges
+through content or disclosure, in a manner that can be easily heard and understood or  read
+by the average listener or viewer,  that there are questions about authenticity in the com-
+munication;
+(c) A radio or television broadcasting station, including a cable or satellite television op-
+erator, programmer or producer, an internet website or an  online platform, when the sta-
+tion, website or platform  is paid to broadcast or publish a campaign communication that
+includes synthetic media;
+(d) A regularly published newspaper, magazine or other periodical of general circulation,
+including an internet or electronic publication, or an internet service or  website provider,
+that publishes a campaign communication that includes synthetic media, if the  communi-
+cation includes a statement that the synthetic media contained therein does not accurately
+represent a ballot issue or candidate; or
+(e) Content that constitutes satire, parody or that is substantially dependent on the
+ability of an individual to physically or verbally impersonate a candidate without the  use of
+technology.
+SECTION 2.
+Section 1 of this 2024 Act is added to and made a part of ORS chapter 260.
+SECTION 3.  ORS 260.345 is amended to read:
+260.345. (1) Any elector may file with  any filing officer a written complaint alleging that a vio-
+lation of an election law or  rule adopted by the Secretary of State under ORS chapters 246 to 260
+has occurred and stating the reason for believing that the violation occurred and  any evidence re-
+lating to it. A complaint and any evidence relating to  it may be filed electronically. A complaint
+alleging a violation involving the Secretary of State, a candidate for the office of  Secretary of State,
+or any political committee or person supporting the Secretary of State or a candidate  for the office
+of Secretary of State may be filed with the Attorney General.  The Secretary of State or Attorney
+General shall not accept an anonymous complaint.
+(2) The Secretary of State  by rule shall prescribe the procedure for processing a complaint filed
+with any person  other than the Secretary of State. If the complaint concerns the Secretary of State,
+any candidate for the office of the Secretary of State,  or any political committee or person sup-
+porting the candidacy of the  Secretary of State or of another person for the office of Secretary of
+State, the complaint  and any additional information relating to the complaint shall be sent to the
+Attorney General.
+(3) Upon receipt of a complaint  under subsection (1) or (2) of this section the Secretary of State
+or Attorney General immediately shall examine the complaint  to determine whether a violation of
+an election law or rule has occurred and shall make any investigation the Secretary of State or
+Attorney General considers necessary. Except as  provided in this subsection, within three business
+days of determining that an investigation is necessary to determine whether a violation  of an
+election law or rule has  occurred, the Secretary of State or Attorney General shall notify the person
+who is  the subject of the complaint that an investigation will take place. If the Secretary of State
+or Attorney General receives a complaint or complaints involving 10 or more  individuals, political
+committees or petition committees in any 48-hour  period, the Secretary of State or Attorney General
+Enrolled Senate Bill 1571 (SB 1571-B) Page 2
+need not notify the persons who are the  subjects of those complaints within three business days of
+receiving the complaints but shall notify  those persons not later than 10 business days after deter-
+mining that an investigation is necessary  to determine whether a violation of election law or rule
+has occurred.
+(4) If the Secretary of State believes after an investigation under subsection (3) of this section
+that a violation of an election law or rule has occurred, the secretary:
+(a) In the case of a violation that is subject  to a penalty under ORS 260.993, immediately shall
+report the findings  to the Attorney General and request prosecution. If the violation involves the
+Attorney General, a candidate for that  office or a political committee or person supporting or op-
+posing the Attorney General or  a candidate for that office, the Secretary of State shall appoint an-
+other prosecutor for that purpose;
+(b) In the case of a violation not subject to a penalty under ORS 260.537 or 260.993  or section
+1 of this 2024 Act , may impose a civil penalty under ORS 260.995; [ or]
+(c) In the case of a violation under  ORS 260.537, may institute civil proceedings in the manner
+described in ORS 260.537 ; or
+(d) In  the case of a violation under section 1 of this 2024 Act, may institute civil pro-
+ceedings in the manner described in section 1 of this 2024 Act .
+(5) Upon receipt of a complaint or report under subsection (1), (2)  or (4) of this section involving
+an alleged violation subject to a penalty  under ORS 260.993 or an alleged violation of ORS 260.537
+or section 1  of this 2024 Act , the Attorney General or other prosecutor immediately shall examine
+the complaint or  report to determine whether a violation of an election law has occurred. If the
+Attorney General or prosecutor determines that a violation has occurred, the  Attorney General or
+prosecutor immediately shall begin prosecution or civil proceedings in the name of the state. The
+Attorney General or other  prosecutor shall have the same powers in any county of this state as the
+district attorney for the county.
+(6) Upon  receipt of a complaint under subsection (1) or (2) of this section involving an alleged
+violation  of  an election law or rule not subject to a penalty under ORS 260.537 or 260.993  or section
+1 of this 2024 Act , the Attorney  General shall examine the complaint to determine whether a vio-
+lation of an election law or rule has occurred and shall make any investigation the  Attorney Gen-
+eral considers necessary. If the Attorney General believes after an investigation that a  violation of
+an election law or rule has occurred, the Attorney General may impose a civil  penalty under ORS
+260.995.
+(7) In the case of an alleged violation subject to a civil penalty under ORS  260.995 or an alleged
+violation of ORS 260.537  or section 1  of this 2024 Act , a complaint shall be filed by an elector
+under this section no later  than 90 days following the election at which a violation of an election
+law or rule is alleged to have occurred, or 90 days following  the date the violation of an election
+law or rule is alleged to have occurred, whichever is later.
+(8) A filing officer having  reason to believe that a violation of an election law or rule has oc-
+curred shall proceed promptly as  though the officer had received a complaint. Except as provided
+in ORS 260.234, a filing officer shall proceed under this subsection  no later than two years following
+the election at which a violation of an election law or  rule is alleged to have occurred, or two years
+following the date the violation of an election law or rule is alleged to have  occurred, whichever
+is later. If a filing officer has not proceeded  within two years because of fraud, deceit, misleading
+representation or the filing officer could not  have reasonably discovered the alleged violation, the
+filing officer shall proceed no later than five years following  the election at which a violation of an
+election law or rule is alleged to have occurred, or  five years following the date the violation of an
+election law or rule is alleged to have occurred, whichever is later.
+SECTION 4. The Secretary of  State may adopt rules necessary to implement section 1
+of this 2024 Act.
+SECTION 5. This 2024 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist, and  this 2024 Act takes effect
+on its passage.
+Enrolled Senate Bill 1571 (SB 1571-B) Page 3
+Passed by Senate February 26, 2024
+Repassed by Senate March 6, 2024
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House March 5, 2024
+..................................................................................
+Dan Rayfield, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2024
+Approved:
+........................M.,........................................................., 2024
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2024
+..................................................................................
+LaVonne Griffin-Valade, Secretary of State
+Enrolled Senate Bill 1571 (SB 1571-B) Page 4
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 260.345
+- From bill text (Enrolled version): ORS 260.005, ORS 260.234, ORS 260.345, ORS 260.537, ORS 260.993, ORS 260.995
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `2fa4e8746fdf0918c834cdf396533be66522e6d733b25d381dd12c639f1e8cbc` (snapshot `_meta/snapshots/measure-2024r1-sb1571-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1571/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `7338db1887912527889045e13fe35e43affc6fc3272b300f75efcb783eaccc82` (snapshot `_meta/snapshots/measure-2024r1-sb1571-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1571/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1571> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

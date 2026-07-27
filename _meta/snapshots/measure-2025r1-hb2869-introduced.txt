@@ -1,0 +1,186 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2869
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Requires a school district to keep money paid for a public contract  for services until the
+contract is complete. (Flesch Readability Score: 62.8).
+Requires school districts to withhold retainage when entering into a public  contract to provide
+services required by state or federal law.
+A BILL FOR AN ACT
+Relating to services provided by school districts;  creating new provisions; and amending ORS
+332.075.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 332.075 is amended to read:
+332.075. (1) Any district school board may:
+(a) Fix the days of the year and the hours of the day when schools shall be in session.
+(b) Adopt textbooks and other instructional materials as provided in ORS  337.120 and 337.141
+and courses of study for the use of such schools as provided in ORS 336.035.
+(c) Authorize the use of the  schools for purposes of training students of an approved educator
+preparation provider, as defined in ORS 342.120, and for such purposes  may enter into contracts
+with the  approved educator preparation provider on such terms as may be agreed upon. Such con-
+tracts as they  relate to student teachers shall have the same effect and be subject to the same
+regulations as a contract between a licensed teacher and a district school board.
+(d) Develop and operate with other  school districts or community college districts secondary
+career and technical education programs for  pupils of more than one district and fix by agreement
+the duration  of the district’s obligation to continue such activity, subject to the availability of funds
+therefor.
+(e) Authorize the  school district to be a member of and pay fees, if any, to any voluntary or-
+ganization that administers interscholastic activities or that  facilitates the scheduling and pro-
+gramming of interscholastic activities only if the organization:
+(A) Implements equity focused policies that:
+(i) Address the use of derogatory or  inappropriate names, insults, verbal assaults, profanity or
+ridicule that occurs at an interscholastic activity, including by spectators  of the interscholastic ac-
+tivity;
+(ii) Prohibit discrimination as defined in ORS 659.850;
+(iii) Permit a student to wear religious clothing in accordance with the student’s sincerely held
+religious belief and consistent with any safety and health requirements; and
+(iv) Balance the  health, safety and reasonable accommodation needs of participants on an
+activity-by-activity basis;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2067
+HB 2869
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) Maintains a transparent complaint process that:
+(i) Has a reporting system to allow participants of interscholastic activities or members of  the
+public to make complaints about student, coach or spectator behavior;
+(ii) Responds to a complaint made  under sub-subparagraph (i) of this subparagraph within 48
+hours of the complaint being received; and
+(iii) Strives to resolve a complaint received  under sub-subparagraph (i) of this subparagraph
+within 30 days of the complaint being received;
+(C) Develops and implements a system of sanctions against schools, students, coaches and spec-
+tators if a complaint made under subparagraph (B) of this paragraph is verified; and
+(D) Performs an annual  survey of students and their parents to understand and respond to po-
+tential violations of equity focused policies adopted under subparagraph (A) of  this paragraph or
+violations of ORS 659.850.
+(f) Accept money or property donated for the use or  benefit of the school district and, consistent
+with the laws of this state, use such money or property for the purpose for which it was donated.
+(g) Enter into an approved  written agreement with the governing body of a federally recognized
+Native American tribe in Oregon to allow the use of a mascot that represents, is  associated with
+or is significant to  the Native American tribe entering into the agreement. An agreement entered
+into under this paragraph must:
+(A) Describe the acceptable uses of the mascot;
+(B) Comply with rules adopted by the State Board of Education that:
+(i) Are  adopted after consultation with the federally recognized tribes in Oregon pursuant to
+ORS 182.164 (3); and
+(ii) Prescribe the requirements for approval; and
+(C) Be approved by the State Board of Education, which the board must provide if the agreement
+meets the requirements of this paragraph and the rules adopted under this paragraph.
+(2)(a) All  contracts of the school district must be approved by the district school board before
+an order can  be drawn for payment. If a contract is made without the authority of the district school
+board, the individual making such contract shall be personally liable.
+[(3)] (b) Notwithstanding  [ subsection (2) of this section ] paragraph (a) of this subsection , a
+district school board may, by resolution or policy, authorize its  superintendent or the
+superintendent’s designee to enter into and approve payment on contracts for products,  materials,
+supplies, capital outlay, equipment and services that are within appropriations made by  the district
+school board pursuant to ORS 294.456. A district school  board may not authorize its superintendent
+or the superintendent’s designee under this [ subsection] paragraph to enter  into and approve pay-
+ment on contracts that  are collective bargaining agreements or service contracts that include the
+provision of labor performed by employees of the school district.
+(c)(A) As used in this paragraph:
+(i) “Public contract” has the meaning given that term in ORS 279A.010.
+(ii) “Retainage” means the difference between the amount a school district must pay  to
+a contractor under  the terms of a public contract and the amount the school district actually
+pays, during the term of the public contract,  pending a contractor’s completed performance
+of the public contract.
+(B) A school district that enters into a public  contract to provide services required by
+state or federal law shall provide in the public contract  for withholding, and shall actually
+withhold, not less than ___ percent of the  contract price as retainage until the contractor
+[2]
+HB 2869
+1
+2
+3
+4
+5
+6
+7
+8
+completes performance of the public contract and the school district accepts the contractor’s
+performance.
+(C) A school district shall state in any solicitation documents  the school district issues
+in a procurement for services required by state or federal law that the  school district will
+withhold the retainage described in subparagraph (B) of this paragraph.
+SECTION 2.
+The amendments to ORS 332.075 by section 1 of this 2025 Act  apply to con-
+tracts entered into on or after the effective date of this 2025 Act.
+[3]

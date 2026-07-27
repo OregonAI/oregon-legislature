@@ -1,0 +1,104 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3747
+Sponsored by Representatives LIVELY, HUDSON
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes a new tax credit for the purchase of solar energy equipment.  (Flesch
+Readability Score: 65.7).
+Establishes a refundable income tax credit  for the purchase of battery energy storage systems
+and solar photovoltaic electric systems.
+Applies to tax years beginning on or after January 1, 2026, and before January 1, 2032.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to an income tax credit for solar energy systems; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS chapter 315.
+SECTION 2. (1) As used in this section:
+(a) “Battery energy storage system” means  a battery energy storage system as defined
+in ORS 469.300, except that the system must be intended for personal, noncommercial use.
+(b) “Pair” means pairing a battery energy storage system with a solar photovoltaic elec-
+tric system such that the battery energy storage  system provides storage capacity for elec-
+trical energy produced by the solar photovoltaic electric system.
+(c) “Solar photovoltaic electric system” means a solar electric system, as defined  in
+section 1, chapter 655, Oregon Laws 2019, that is a photovoltaic system.
+(2)(a) A credit against taxes that are otherwise due under ORS chapter 316  shall be al-
+lowed for the purchase  of battery energy storage systems and solar photovoltaic electric
+systems.
+(b) In order to claim a  credit under this section for the purchase of a battery energy
+storage system, the battery energy storage system must be paired at the time of installation
+with a solar photovoltaic electric system.
+(3) The total amount of the credit allowed under this section  for purchases made during
+the tax year shall be:
+(a) For one solar photovoltaic electric system, $1,000.
+(b) For one battery energy storage system, $2,500.
+(c) For both a solar photovoltaic electric system  and a battery energy storage system;
+$3,500.
+(4) The State Department of Energy may adopt rules relating to the administration and
+enforcement of this section.  The department shall prescribe a form on which the taxpayer
+may substantiate that the individual qualifies for the credit allowed under this section.
+(5) If the amount allowable as a credit under this section, when added to the sum of the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3696
+HB 3747
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+amounts allowable as payment of tax under ORS  316.187 or 316.583, other tax prepayment
+amounts and other refundable credit amounts, exceeds the taxes imposed  by ORS chapters
+314 and 316 for the tax year after application of any  nonrefundable credits allowable for
+purposes of ORS chapter 316 for the tax year, the amount of the  excess shall be refunded to
+the taxpayer as provided in ORS 316.502.
+(6) A nonresident shall be  allowed the credit under this section in the proportion provided
+in ORS 316.117. If a change in the status of a taxpayer  from resident to nonresident or from
+nonresident to resident occurs, the credit allowed by this section  shall be determined in a
+manner consistent with ORS 316.117.
+SECTION 3.
+Section 2 of this 2025  Act applies to tax years beginning on or after January
+1, 2026, and before January 1, 2032.
+SECTION 4. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

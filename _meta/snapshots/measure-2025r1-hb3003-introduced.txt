@@ -1,0 +1,69 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3003
+Sponsored by Representative NELSON; Senator GELSER BLOUIN (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes changes to the data that DHS  must put in its annual reports about foster
+children. (Flesch Readability Score: 71.0).
+Modifies the list of data  that the Department of Human Services must include in its annual child
+welfare report.
+A BILL FOR AN ACT
+Relating to Department of Human Services annual child welfare reporting; amending ORS 418.036.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 418.036 is amended to read:
+418.036. On or before November 1 of each even-numbered year, the Department of Human  Ser-
+vices shall develop and submit a report to the appropriate legislative interim committees dealing
+with child welfare matters. The report [ shall] must be disaggregated  by race,  cover the prior
+24-month period and [ shall] include, but need not be limited to:
+(1) The number of children in foster care;
+(2) The number of children that have had more than one foster care placement;
+(3) The number of placements for each child described in subsection (2) of this section;
+(4) The percentage of foster children placed apart from siblings;
+(5) The number of placement changes experienced by foster children;
+(6) The number and percentage of children placed with relatives; [ and]
+(7) The department’s Status of Children in Oregon’s Child Protection System annual report[ .];
+(8) The number and percentage of foster children  of one or more parents whose parental
+rights have been terminated;
+(9) The number and percentage of foster children  who spent at least one night in con-
+gregate care;
+(10) The number and percentage of foster children who spent  at least one night placed
+in temporary lodging;
+(11) The number and percentage of foster children who spent more  than seven nights
+placed in temporary lodging;
+(12) The number and percentage of dual system involved foster children; and
+(13) The average length of time a foster  child spent in foster care, disaggregated by
+county.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2668

@@ -1,0 +1,151 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 2684
+Sponsored by Representative  HUDSON, Senator GORSEK; Representatives FRAGALA, GAMBA,
+NERON, NOSSE, Senator GELSER BLOUIN (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to integrated pest management; creating  new provisions; and amending ORS 634.700 and
+634.705.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 634.705 is amended to read:
+634.705. (1)(a) The governing body responsible for a  school shall adopt an integrated pest man-
+agement plan for  use on the campuses of the school. The governing body shall also adopt provisions
+for:
+[(a)] (A)  Designating an integrated pest management plan coordinator;
+[(b)] (B)  Identifying plan coordinator responsibilities;
+[(c)] (C) Giving notices under ORS 634.740;
+[(d)] (D)  Retaining pesticide application records under ORS 634.750;
+[(e)] (E)  Providing a process for responding to inquiries and complaints about  noncompliance
+with the integrated pest management plan; and
+[(f)] (F)  Conducting outreach to the school  community about the school’s integrated pest man-
+agement plan.
+(b) Not less than once every five years, the governing body shall review the  integrated
+pest management plan, make any necessary updates  and readopt the integrated pest man-
+agement plan. A final integrated pest management plan must include  the day, month and
+year that the governing body adopted or readopted the plan.
+(c) A governing body shall make the  integrated pest management plan available to the
+public through the governing body’s website.  A governing body may satisfy this paragraph
+by including the integrated pest management plan with the  Healthy and Safe Schools Plan,
+adopted under ORS 332.331, posted on the governing body’s website.
+(2) If a governing body has control over only  part of a building, a structure or property where
+a campus is  located, the governing body may limit an integrated pest management plan to those
+parts of the building, structure or property over  which the governing body exerts substantial con-
+trol.
+(3) A  governing body is not required to adopt an integrated pest management plan for off-campus
+buildings, structures or property, notwithstanding any incidental use for instruction.
+(4) Unless a governing body expressly provides otherwise, the application of a  germicide,
+disinfectant, sanitizer, deodorizer, antimicrobial  agent or insecticidal soap at a campus is not subject
+to the requirements for a pesticide application under an integrated pest  management plan. However,
+this subsection does not permit the application  at a campus of a germicide, disinfectant, sanitizer,
+Enrolled House Bill 2684 (HB 2684-B) Page 1
+deodorizer, antimicrobial agent or insecticidal soap that is a  pesticide in a manner that is incon-
+sistent with the goal of the integrated pest management plan.
+(5)(a) A governing body shall adopt a list of low-impact pesticides  for use with the integrated
+pest management plan.
+(b) A governing body shall make the list of low-impact pesticides available to the  public
+through the governing body’s website. A governing body  may satisfy this paragraph by in-
+cluding the list of low-impact pesticides with the Healthy and  Safe Schools Plan, adopted
+under ORS 332.331, posted on the governing body’s website.
+(c) The [ governing body ] list of low-impact pesticides  may include any product [ on the list ]
+except products that:
+[(a)] (A)  Contain a pesticide product or active ingredient that has  the signal words “warning”
+or “danger” on the label;
+[(b)] (B)  Contain a pesticide product classified as a  human carcinogen or probable human
+carcinogen under the United States Environmental Protection Agency 1986  Guidelines for
+Carcinogen Risk Assessment; or
+[(c)] (C)  Contain a pesticide product classified  as carcinogenic to humans or likely to be
+carcinogenic to humans under the United  States Environmental Protection Agency 2003 Draft Final
+Guidelines for Carcinogen Risk Assessment.
+SECTION 2. For integrated pest management plans adopted  before the effective date of
+this 2025 Act, a governing body shall review, update and  readopt the integrated pest man-
+agement plan, as required by ORS 634.705 (1)(b), no later than January 1, 2027,  or five years
+from the date of the most recent approval of the plan, whichever is later.
+SECTION 3.  ORS 634.700 is amended to read:
+634.700. As used in ORS 634.700 to 634.750:
+(1) “Campus” means the buildings, other  structures, playgrounds, athletic fields , school gardens
+and parking  lots of a school and any other areas on the school property that are accessed by stu-
+dents on a regular basis.
+(2) “Governing body” means  a board of directors, agency or other body or person having
+policymaking and general oversight responsibility for a community college district, education service
+district, school district,  other unit of education governance, private school or other educational en-
+tity.
+(3) “Integrated pest management plan” means a proactive strategy that:
+(a) Focuses on the long-term prevention  or suppression of pest problems through economically
+sound measures that:
+(A) Protect the health and safety of students, staff and faculty;
+(B) Protect the integrity of campus buildings and grounds;
+(C) Maintain a productive learning environment; and
+(D) Protect local ecosystem health;
+(b) Focuses  on the prevention of pest problems by working to reduce or eliminate conditions of
+property construction, operation and maintenance that promote or allow  for the establishment,
+feeding, breeding and proliferation of pest populations or other conditions that  are conducive to
+pests or that create harborage for pests;
+(c) Incorporates the use of  sanitation, structural remediation or habitat manipulation or of me-
+chanical,  biological  and chemical pest control measures that present a reduced risk or have a low
+impact and,  for the purpose of mitigating a declared pest emergency, the application of pesticides
+that are not low-impact pesticides;
+(d) Includes regular monitoring and inspections  to detect pests, pest damage and unsanctioned
+pesticide  usage;
+(e) Evaluates the need for pest control by identifying acceptable pest population density levels;
+(f) Monitors and evaluates the effectiveness of pest control measures;
+(g) Excludes the application of pesticides on a routine schedule  for purely preventive purposes,
+other than applications of pesticides designed to attract or be consumed by pests;
+Enrolled House Bill 2684 (HB 2684-B) Page 2
+(h) Excludes the application of pesticides for purely aesthetic purposes;
+(i) Includes school staff education about sanitation, monitoring and  inspection and about pest
+control measures;
+(j) Gives preference to the use of nonchemical pest control measures;
+(k) Allows the use  of low-impact pesticides if nonchemical pest control measures are ineffective;
+and
+(L) Allows the application of a pesticide that is not a low-impact pesticide only to  mitigate a
+declared pest emergency or if the application is by,  or at the direction or order of, a public health
+official.
+(4) “Low-impact pesticide” means a product that does not contain a pesticide  product or active
+ingredient described in ORS 634.705 (5).
+(5) “Pest” means:
+(a) An insect or other arthropod;
+(b) A weed, moss, slime or mildew or a plant disease caused by a fungus, bacterium or virus;
+(c) A nematode, snail, slug, rodent or predatory animal;
+(d) A bacterium, spore, virus, fungus or  other microorganism that is harmful to human health;
+or
+(e) Other forms of plant or animal life that may infest or be detrimental to vegetation, humans,
+animals, structures, managed landscapes or other human environments.
+(6) “Pest emergency” means an urgent need to eliminate or  mitigate a pest situation that
+threatens:
+(a) The health or safety of students, staff, faculty members or members of the public using  the
+campus; or
+(b) The structural integrity of campus facilities.
+(7) “Registration number” means the pesticide registration number assigned by the United
+States Environmental Protection Agency.
+(8) “School” means:
+(a) A federal Head Start program or a provider under the Oregon Prenatal to  Kindergarten
+Program;
+(b) A public  or private educational institution offering education in all or part of kindergarten
+through grade 12;
+(c) An education service district as defined in ORS 334.003;
+(d) A community college as  defined in ORS 341.005, for the community college’s own buildings
+and ground maintenance;
+(e) The Oregon School for the Deaf; and
+(f) A regional residential academy operated by the Oregon Youth Authority.
+Enrolled House Bill 2684 (HB 2684-B) Page 3
+Passed by House April 2, 2025
+Repassed by House June 16, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate June 12, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 2684 (HB 2684-B) Page 4

@@ -1,0 +1,193 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 315
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Education)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells ODE  to take actions about how school districts record and respond to student
+absences. (Flesch Readability Score: 67.5).
+Directs the Department of Education to review and  make recommendations related to the re-
+cording of student absences and how school districts respond to student absences.
+Requires school districts to report to the department when a  student is not considered to have
+regular attendance.
+A BILL FOR AN ACT
+Relating to the recording of student absences; creating new provisions; and amending ORS 339.065.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The  Department of Education shall review and make recommendations
+related to the state requirements for determining  if a student is on a school district’s active
+roll when the student has 10 or more consecutive absences, as those requirements are pre-
+scribed by rules adopted by the State Board of Education.
+(2) The review conducted under subsection (1) of this section must include consideration
+of:
+(a) How the rule for  determining active enrollment after 10 consecutive absences, and
+any resulting disenrollment of a student, affects a school district’s finances;
+(b) Whether the process of disenrolling a student after 10 consecutive  absences consti-
+tutes disciplinary action due to nonattendance; and
+(c) How the rule for determining  active enrollment after 10 consecutive absences, and
+any resulting disenrollment of a student, affects students who are absent due to an extended
+illness.
+(3) The recommendations required by  subsection (1) of this section must include recom-
+mendations on:
+(a) Potential changes to  the rule for determining active enrollment and for prescribing
+when a student is disenrolled due to absences; and
+(b) Procedures for a reporting system that tracks the outcomes of  disenrollments due
+to absences  and for determining whether those outcomes equitably serve the interests of
+students and families, school districts and the state.
+(4) For the purpose of conducting the review and  making the recommendations required
+by this section, the Department of Education shall consult with:
+(a) School district administrators;
+(b) School district board members;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1574
+SB 315
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Teachers and other relevant school district staff;
+(d) Social workers;
+(e) Parents of students; and
+(f) Advocates for protected classes.
+(5)(a) Not later than December 15, 2026, the department shall provide a report to:
+(A) The interim committees of the Legislative Assembly related to education; and
+(B) The State Board of Education.
+(b) The report required under paragraph (a) of this subsection shall:
+(A) Summarize the review conducted and the recommendations made as  described in this
+section; and
+(B) Recommend any statutory changes or changes in administrative rules.
+SECTION 2.
+Section 1 of this 2025 Act is repealed on January 2, 2027.
+SECTION 3.  ORS 339.065 is amended to read:
+339.065. (1)  In estimating regular attendance for purposes of the compulsory attendance pro-
+visions of ORS 339.005 to 339.030, 339.040 to 339.125, 339.137  and 339.420, the principal or teacher
+shall consider all unexcused absences. Eight unexcused one-half day absences in any four-week pe-
+riod during which the school is in session shall be considered irregular attendance.
+(2)(a) An absence may be excused by a principal or teacher if the absence is caused by:
+(A) The pupil’s sickness, including the mental or behavioral health of the pupil;
+(B) The sickness of some member of the pupil’s family; or
+(C) An emergency.
+(b) In addition  to the reasons identified in paragraph (a) of this subsection, a principal or
+teacher:
+(A) Shall excuse not more than seven days of absences during the school  year if the pupil is a
+dependent of a member of the Armed Forces of the United States who is on active duty or who is
+called  into  active duty. For the purpose of this subparagraph, “Armed Forces of the United States”
+includes:
+(i) The Army, Navy, Air Force, Marine Corps and Coast Guard of the United States;
+(ii) Reserve components of the Army, Navy, Air Force, Marine Corps and Coast Guard of the
+United States; and
+(iii) The National Guard of the United States and the Oregon National Guard.
+(B) May excuse absences for other reasons  when satisfactory arrangements are made in advance
+of the absence.
+(3)(a) Any pupil may be excused from  attendance by the district school board for a period not
+to exceed five days in a term of  three months or not to exceed 10 days in any term of at least six
+months. Any such excuse shall be in writing directed to  the principal of the school that the pupil
+attends.
+(b) When calculating the number of excused absences under this  subsection, any absences ex-
+cused under subsection (2)(b)(A) of this section shall not be counted.
+(4)(a) The Department of Education shall develop, and  a school district shall implement,
+a common coding system for reporting absences that cause a student to  be considered to not
+have regular attendance and to be disenrolled from a school district.
+(b) The coding system required under this subsection shall allow the department to col-
+lect for each student:
+(A) The date of the student’s disenrollment;
+[2]
+SB 315
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+(B) The school district in which the student was enrolled;
+(C) The grade of the student;
+(D) The demographics of the student; and
+(E) Any other relevant information identified by the department.
+(c) Each school  district shall report to the department when a student is not considered
+to have regular attendance, as prescribed by the coding system and rules adopted by the
+State Board of Education.
+SECTION 4.
+(1) The amendments to  ORS 339.065 by section 3 of this 2025 Act become
+operative on July 1, 2026.
+(2) The amendments to ORS 339.065 by section 3 of this 2025 Act first  apply to the
+2026-2027 school year.
+[3]

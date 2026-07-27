@@ -1,0 +1,296 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1594
+Sponsored by Senator GORSEK, Representatives RUIZ, HARTMAN; Senators  CAMPOS, DEMBROW, JAMA,
+LIEBER, MEEK, PATTERSON, PROZANSKI, TAYLOR, WEBER, WOODS, Representatives CHAICHI, EVANS,
+FAHEY, HUDSON, NELSON, NGUYEN D, WALTERS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act requires each  person who runs a place that provides mental health care and
+substance use care to have a safety plan to protect the person’s workers. The  Act sets out how a
+safety plan must be created and requires a person to submit the  safety plan to OHA by a certain
+date. The Act puts civil penalties on persons who  do not have safety plans, who do not submit the
+plans to OHA by the due date or who fail to comply with the safety plans.
+The Act creates a program  in which OHA pays persons who run places that provide mental
+health care or substance use care so that the persons can  provide their workers with on-the-job
+training or other types of training. (Flesch Readability Score: 61.4).
+Requires a behavioral health care  facility to have in place a safety plan to ensure the safety
+of the employees of the facility. Specifies  procedures for creating the safety plan that include in-
+volving the exclusive representative of  any employees who are in a collective bargaining unit. Re-
+quires behavioral health facilities to submit safety  plans to the Oregon Health Authority by
+September 1, 2025, and every two years thereafter.
+Requires the authority to establish a process for individuals to file  a complaint regarding a vi-
+olation of a safety plan and allows  the authority to audit a facility for compliance with a facility’s
+safety plan.
+Authorizes the authority to impose specified civil penalties.
+Establishes the United We Heal Medicaid Payment Program in the authority  to make payments
+to behavioral  health facilities to offer apprenticeship and training opportunities to their employee
+behavioral health providers.
+A BILL FOR AN ACT
+Relating to behavioral health providers.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in  this section, “behavioral health care facility” includes any of
+the following that primarily provide care or treatment to individuals with behavioral health
+disorders:
+(a) Residential treatment facilities as defined in ORS 443.400;
+(b) Secure residential treatment facilities as described in ORS 443.465;
+(c) Health care facilities as defined in ORS 442.015;
+(d) Sobering facilities, detoxification centers and halfway houses as  those terms are de-
+fined in ORS 430.306; or
+(e) Other facilities prescribed by rule by the Oregon Health Authority.
+(2) A behavioral health care facility must have in place a safety plan to ensure  the safety
+of the employees of the facility from harm caused by clients of the facility. A safety plan:
+(a) May include staff training in  mental health awareness, substance use and addiction,
+crisis intervention and de-escalation, patient acuity assessments or trauma-informed care;
+(b) Must include safe staffing ratios for employees in each department of the facility  who
+engage directly with clients;
+(c) Must take into account client acuity; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 14
+SB 1594
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) May include but is not limited to:
+(A) Proper internal communication procedures;
+(B) Procedures restricting  access to high-risk areas such as roofs or balconies and lim-
+iting the access of clients to objects that  could be used to injure oneself or others such as
+knives, sharp glass, scissors or certain types of medication; or
+(C) Procedures restricting client access to staff.
+(3) A facility’s  management must submit the safety plan to the authority by September
+1 and every two years thereafter.
+(4) If any employee of a behavioral health  care facility is included within a collective
+bargaining unit, the management of the behavioral health care facility shall:
+(a) Provide the management’s proposed safety plan to and solicit feedback  from the labor
+organization that is the exclusive representative of the collective bargaining unit.
+(b) Give the exclusive representative of the collective bargaining unit  60 days from re-
+ceipt of the proposed safety plan to provide feedback.
+(c) Submit the final safety plan to the exclusive representative of  the collective bargain-
+ing unit to submit to the employees within the collective bargaining unit for  approval by a
+majority vote. The collective bargaining unit must approve or reject the safety  plan no later
+than 30 days after receipt of the plan from management.
+(5) If a collective bargaining unit fails to approve a safety plan by a majority  vote, the
+exclusive representative of the collective bargaining unit  may submit an alternative safety
+plan no later than 60 days after the  date the plan was rejected. The management of the be-
+havioral health care facility shall submit to the authority the final  safety plan proposed by
+the management and the alternative safety plan proposed by  the exclusive representative of
+the collective bargaining unit. The authority may modify the  management’s final safety plan
+based on the feedback from the exclusive representative  of the collective bargaining unit or
+based on best practices.
+(6) If the  management of the facility fails to submit a safety plan or submits a safety plan
+to the authority 90 days  or more after the September 1 deadline, the employees within the
+collective bargaining unit may develop and adopt a safety plan for the facility.
+(7)(a) The authority shall maintain a process for a behavioral health care  facility staff
+person or an exclusive representative of the staff person’s collective bargaining  unit to sub-
+mit a  complaint to the authority through the authority’s website, anonymously if the
+complainant so chooses, alleging a violation of the facility’s safety plan.
+(b) No later than 14  days after receiving a complaint, the authority shall send a copy of
+the complaint to the exclusive representative, if any, of the complainant’s or complainants’
+collective bargaining unit.
+(c) No later than 30 days after receiving a  complaint of a violation of a facility’s safety
+plan, the authority shall open an investigation of the facility and provide  a notice of the in-
+vestigation to the facility, the complainant or the complainants and the exclusive represen-
+tative, if any, of the complainant  or complainants. The notice must include a summary of the
+complaint that does not include a complainant’s name or the specific date, shift or  unit, but
+does include the calendar week, in which the complaint arose.
+(d) No later than 90 days after opening the investigation,  the authority shall conclude the
+investigation and provide a written report on the complaint to the facility, the complainant
+or complainants and the exclusive representative, if any, of the complainant or complainants.
+[2]
+SB 1594
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+The report:
+(A) Shall include a summary of the complaint;
+(B) Shall include the nature of the alleged violation or violations;
+(C) Shall include the authority’s findings and factual bases for the findings;
+(D) Shall include any other information  the authority determines is appropriate to in-
+clude in the report; and
+(E) May not include the name of  any complainant, the name of any patient or the names
+of any individuals that the authority interviewed in investigating the complaint.
+(e) If the authority issues a warning or imposes one or more civil  penalties based on the
+report described in paragraph (d) of this subsection, the  authority shall provide a notice of
+the civil penalty to the facility, the complainant  or complainants and the exclusive repre-
+sentative, if any, of the complainant or  complainants. The notice must comply with ORS
+183.415 and 183.745.
+(f) In determining whether to impose a civil penalty under section  2 of this 2024 Act, the
+authority shall consider all relevant evidence, including but not limited  to witness testimony,
+written documents and the observations of the investigator.
+(8) The authority shall maintain  a database of all safety plans and make them available
+to the public.
+(9) The authority shall track any trends of violations in behavioral health care facilities
+that are  found by the Occupational Safety and Health Division of the Department of Con-
+sumer and Business Services to identify root causes of incidents and develop harm reduction
+strategies.  The  authority shall periodically report on its findings under this subsection and
+make its reports publicly available.
+(10) The authority may audit a behavioral health care facility for the purpose of  ensuring
+that the facility meets rules and standards for the safety of behavioral health care facility
+staff.
+SECTION 2.
+(1) The Oregon Health Authority shall impose a civil penalty in  accordance
+with ORS 183.745 on a behavioral health care facility, as defined in section 1 of this 2024 Act,
+that demonstrates a pattern of failing to comply with section 1 of this 2024 Act.
+(2) If the management  of a facility fails to submit a safety plan to the authority by the
+September 1 deadline, the authority may impose a civil penalty of:
+(a) $250 for submitting a safety plan to the authority 30 to 59 days  after the September
+1 deadline;
+(b) $500 for submitting a safety plan  to authority 60 to 89 days after the September 1
+deadline; and
+(c) $750 for submitting a safety plan 90 days or more after the September 1 deadline.
+(3) If the management of a facility fails to submit  a safety plan to the authority more
+than 90 days after  the September 1 deadline, the penalties shall increase by $250 every 30
+days unless the employees of the facility are in a collective bargaining unit and the bargain-
+ing unit adopts a safety plan for the facility in accordance with section 1 (6) of this 2024 Act.
+(4) If a behavioral health care facility fails to comply with an element of the facility’s
+safety plan, the authority shall issue  a warning for the first violation and may impose a civil
+penalty of:
+(a) $250 for the second violation;
+(b) $500 for the third violation; and
+[3]
+SB 1594
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+(c) $1000 for the fourth and each subsequent violation.
+SECTION 3.
+(1) The United We Heal Medicaid Payment Program is established in the
+Oregon Health Authority.  The goal of the program is to increase the available behavioral
+health care workforce in this state. The authority shall provide payments to  employers of
+behavioral health care providers to enable the employers to  offer the providers enhanced
+apprenticeship and training programs and opportunities.
+(2) The authority shall prescribe by rule eligibility criteria for  receiving the payments
+consistent with the goal of the program expressed in subsection (1) of this section.
+(3) To  participate in the program, an employer must enter into a memorandum of
+understanding with the authority specifying how the payments will  be used. The authority
+shall terminate payments if the employer fails to abide by or violates the terms  of the
+memorandum of understanding. An employer may request a contested case proceeding to
+challenge a termination.
+SECTION 4.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Oregon Health Authority for the biennium ending June  30, 2025, out of the Gen-
+eral Fund, the amount of $4,700,000, which may be expended  for carrying out section 3 of this
+2024 Act.
+[4]

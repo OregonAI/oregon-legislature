@@ -1,0 +1,249 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 968
+Sponsored by Senator TAYLOR
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would make new  laws for deductions from employees’ wages to recoup amounts
+that were paid in error. (Flesch Readability Score: 67.3).
+Provides requirements for employer deductions for erroneous overpayments of wages for em-
+ployees who are not subject to a collective bargaining agreement. Clarifies that,  for employees who
+are subject to a collective  bargaining agreement, employer deductions for erroneous overpayments
+of wages made pursuant to the terms  of the applicable collective bargaining agreement are not
+prohibited.
+A BILL FOR AN ACT
+Relating to deductions from employee wages; creating  new provisions; and amending ORS 292.063
+and 652.610.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 652.610 is amended to read:
+652.610. (1)(a) All persons,  firms, partnerships, associations, cooperative associations, corpo-
+rations, municipal corporations, the  state and its political subdivisions, except the federal govern-
+ment and its agencies, employing, in this state, during any calendar month one or more persons,
+shall provide the employee on regular paydays and at other times payment  of wages, salary or
+commission is made, with an itemized statement as described in paragraph (b) of this subsection.
+(b) The  statement required under this subsection must be a written statement, sufficiently
+itemized to show:
+(A) The date of the payment;
+(B) The dates of work covered by the payment;
+(C) The name of the employee;
+(D) The name and business registry number or business identification number;
+(E) The address and telephone number of the employer;
+(F) The rate or rates of pay;
+(G) Whether the employee is paid  by the hour, shift, day or week or on a salary, piece or com-
+mission basis;
+(H) Gross wages;
+(I) Net wages;
+(J) The amount and purpose of each deduction made during the respective period of  service that
+the payment covers;
+(K) Allowances, if any, claimed as part of minimum wage;
+(L) Unless the employee is paid on a salary basis and is exempt  from overtime compensation as
+established by local, state or federal law, the regular hourly rate or rates of pay, the  overtime rate
+or rates of pay, the number of regular hours worked and pay for those hours, and  the number of
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4068
+SB 968
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+overtime hours worked and pay for those hours; and
+(M) If  the employee is paid a piece rate, the applicable piece rate or rates of pay, the number
+of pieces completed at each piece rate and the total pay for each rate.
+(c) Notwithstanding paragraph (b) of this subsection, the employer  may provide the statement
+required under this subsection to the employee in electronic form pursuant to ORS 84.001 to 84.061
+if:
+(A) The statement contains the information described in paragraph (b) of this section;
+(B) The employee expressly agrees to receive the statement in electronic form; and
+(C) The employee has the ability to print or store the statement at the time of receipt.
+(2)(a) The statement may be attached to or be  a part of the check, draft, voucher or other in-
+strument by which payment is made, or may be delivered separately from the instrument.
+(b) The statement shall be provided electronically at the time payment is made to all state  offi-
+cers and employees paid electronically under the state payroll system as provided by ORS 292.026.
+(c) State agencies shall provide  access to electronic statements to employees who do not have
+regular access to computers in their workplace.
+(d) Notwithstanding paragraph (b) of this subsection, if an officer or employee  paid under the
+state payroll system as provided by ORS 292.026 wants to receive payment of net salary and wages
+by check  or to receive a paper statement of itemized payroll deductions, the officer or employee
+shall request paper statements or payment by check in  accordance with the procedures adopted by
+rule by the Oregon Department of Administrative Services.
+(3) An employer may not withhold, deduct or divert any portion of an employee’s wages unless:
+(a) The employer is required to do so by law;
+(b) The deductions are voluntarily authorized in writing by the employee, are for the employee’s
+benefit and are recorded in the employer’s books;
+(c) The  employee has voluntarily signed an authorization for a deduction for any other item,
+provided that the ultimate recipient of the money withheld is  not the employer and that the de-
+duction is recorded in the employer’s books;
+(d) The deduction is authorized by a collective bargaining agreement to which the employer is
+a party;
+(e) The deduction is authorized under ORS 18.736; or
+(f) The deduction is made from the payment of wages  upon termination of employment and is
+authorized pursuant to a written agreement  between the employee and employer for the repayment
+of a loan made to the employee by the employer, if all of the following conditions are met:
+(A) The employee has voluntarily signed the agreement;
+(B) The loan was paid to the employee in cash or other medium permitted by ORS 652.110;
+(C) The loan was made solely for the  employee’s benefit and was not used, either directly or
+indirectly, for any purpose required by the employer  or connected with the employee’s employment
+with the employer;
+(D) The amount of the deduction at termination of employment does not exceed  the amount
+permitted to be garnished under ORS 18.385; and
+(E) The deduction is recorded in the employer’s books.
+(4) When an employer deducts an  amount from an employee’s wages as required or authorized
+by law or agreement,  the employer shall pay the amount deducted to the appropriate recipient as
+required by  the law or agreement. The employer shall pay the amount deducted within the time re-
+quired by the law  or the agreement or, if the time for payment is not specified by the law or
+[2]
+SB 968
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+agreement, within seven days after the date the wages from which the deductions are made are  due.
+Failure to pay the amount as required constitutes an unlawful deduction.
+(5) This section does not:
+(a) Prohibit the withholding  of amounts authorized in writing by the employee to be contributed
+by the employee to charitable organizations, including contributions made  pursuant to ORS 663.110;
+(b) Prohibit deductions by checkoff dues to labor organizations or service fees when the de-
+ductions are not otherwise prohibited by law; [ or]
+(c) Diminish or enlarge  the right of any person to assert and enforce a lawful setoff or
+counterclaim  or  to attach, take, reach or apply an employee’s compensation on due legal
+process[ .];
+(d) For employees who are not subject to a collective bargaining agreement,  prohibit de-
+ductions made by an employer  for an erroneous overpayment of wages in an amount greater
+than the employee’s entitlement provided that:
+(A) The deduction is for an overpayment that occurred during the 90-day period  imme-
+diately preceding the date on  which the employee received the written statement described
+under subparagraph (C) of this paragraph;
+(B) The employer gives the employee at least  14 days to provide the written acknowl-
+edgment described under subparagraph (D) of this paragraph;
+(C) The employer provides the following to the employee, prior to making the deduction:
+(i) A written statement  itemizing the overpayment amount and purpose of each de-
+duction; and
+(ii) A written statement that provides that in no event may the total  amount of a de-
+duction exceed 10 percent of the employee’s  gross pay each pay period, unless the employee
+otherwise requests and specifies a greater percentage be deducted; and
+(D) The employee provides  written acknowledgment of receipt of the written statements
+described under subparagraph (C) of this paragraph; or
+(e) For employees who are  subject to a collective bargaining agreement, prohibit de-
+ductions for an erroneous  overpayment of wages that are made by an employer pursuant to
+the terms of  an applicable collective bargaining agreement concerning employer deductions
+for erroneous overpayments.
+SECTION 2.
+ ORS 292.063 is amended to read:
+292.063. (1) Subject to the requirements under ORS 652.610,  when a state employee receives
+payment of salary  or wages in an amount greater than the employee’s entitlement, the amount of
+overpayment may be deducted from salary or wages earned by the employee.
+(2) The deduction may be in such form and manner as the Oregon Department of  Administrative
+Services, by rule, may prescribe.
+SECTION 3. The amendments to ORS 292.063 and 652.610 by sections 1 and 2 of this 2025
+Act apply to collective bargaining agreements entered into, renewed or extended on or  after
+the effective date of this 2025 Act.
+[3]

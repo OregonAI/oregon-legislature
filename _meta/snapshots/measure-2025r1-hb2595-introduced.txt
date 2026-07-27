@@ -1,0 +1,260 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2595
+Sponsored by Representative HUDSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates a system  to track Parkinson’s disease in Oregon. (Flesch Readability
+Score: 64.9).
+Establishes Parkinson’s disease registry.
+A BILL FOR AN ACT
+Relating to Parkinson’s disease registry; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Definitions. (1) As used in sections 1 to 6 of this 2025 Act:
+(a) “Clinical laboratory” has the meaning given that term in ORS 432.500.
+(b) “Health care facility” has the meaning given that term in ORS 432.500.
+(c) “Parkinsonisms” means related conditions that cause a combination of the  movement
+abnormalities seen  in Parkinson’s disease, such as tremor at rest, slow movement, muscle
+rigidity, impaired speech or muscle stiffness, which often overlap with and  can evolve from
+what appears to be Parkinson’s disease, and that include multiple system atrophy, dementia
+with Lewy bodies, corticobasal degeneration and progressive supranuclear palsy.
+(d) “Parkinson’s disease” means a chronic and progressive  neurologic disorder that re-
+sults from deficiency of the neurotransmitter dopamine as the consequence of  specific de-
+generative changes in the area of the brain called the basal ganglia and that is characterized
+by tremor  at rest, slow movement, muscle rigidity, stooped posture and unsteady or shuffling
+gait.
+SECTION 2.
+Parkinson’s disease registry; advisory committee; rules.  (1) The Oregon
+Health Authority  shall establish a registry system to collect data on the incidence and pre-
+valence of Parkinson’s disease in Oregon and other related data.
+(2) A  health care facility, licensed health care practitioner or clinical laboratory diag-
+nosing or providing treatment to patients with Parkinson’s disease  or related parkinsonisms
+shall report each case of Parkinson’s disease  or related parkinsonisms to the authority in a
+format prescribed by the authority.
+(3) The authority may contract with a public or private third party to:
+(a) Operate or maintain the statewide registry; and
+(b) Fulfill the authority’s duties under sections 1 to 6 of this 2025 Act.
+(4) The authority  shall adopt rules establishing a Parkinson’s Disease Registry Advisory
+Committee to assist in the development and implementation of the registry,  determine what
+data shall be collected and generally advise the authority on issues related to carrying  out
+the duties described in sections 1 to 6 of this 2025 Act. Membership of the advisory  commit-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 149
+HB 2595
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tee must include a neurologist, a movement disorder specialist, a primary care physician,  a
+physician informaticist, a patient diagnosed with Parkinson’s  disease, a person who is
+knowledgeable about public health and  safety, a population health researcher familiar with
+registries and a Parkinson’s disease researcher and  other individuals the department deems
+necessary. The advisory committee shall meet at least biannually.
+(5) All  patients diagnosed with Parkinson’s disease or related parkinsonisms shall be no-
+tified orally and in writing regarding  the collection of information and patient data on
+Parkinson’s disease. Patients who do not wish to participate in the collection of data under
+the registry system for purposes of  research shall affirmatively opt out in writing after
+having been provided with an opportunity to review the documents and ask questions. A pa-
+tient may not be forced to participate in the registry.
+(6) The authority shall establish a system for the collection and  dissemination of infor-
+mation determining the incidence and prevalence  of Parkinson’s disease and related
+parkinsonisms.
+(7) Diagnoses of Parkinson’s disease and related parkinsonisms shall be reported, but the
+mere incidence of a patient diagnosis shall be the  sole required information for the registry
+for any patient who chooses not to participate. For  the subset of patients who choose not
+to participate, further data may not be reported to the registry.
+(8) No later than December 1 of each  year, the advisory committee shall submit a report
+in the manner provided in ORS 192.245, and may include recommendations for legislation,  to
+the interim committees of  the Legislative Assembly related to health care. The report sub-
+mitted under this subsection must include, but  is not limited to, a summary of the
+committee’s findings relating to patients diagnosed  with Parkinson’s disease and related
+parkinsonisms.
+SECTION 3.
+Confidentiality of information.  (1) All  identifying information regarding in-
+dividual patients, health  care facilities and practitioners reported pursuant to section 2 of
+this 2025 Act  shall be confidential and privileged. Except as required in connection with the
+administration or  enforcement of public health laws or rules, no public health official, em-
+ployee or agent shall be examined in an administrative or judicial proceeding as to  the ex-
+istence or contents of  data collected under the registry system for Parkinson’s disease and
+related parkinsonisms.
+(2) All additional information reported in connection with a special study shall be  confi-
+dential and privileged and shall be used solely for the purposes of the study, as provided by
+ORS 413.196. Nothing  in this section shall prevent the Oregon Health Authority from pub-
+lishing statistical compilations relating to morbidity and mortality studies that do not  iden-
+tify individual cases or prevent use of this data by third  parties to conduct research as
+provided by section 4 of this 2025 Act.
+SECTION 4.
+Use of confidential data; rules.  (1) The Oregon Health Authority shall adopt
+rules under which  confidential data may be used by third parties to conduct research and
+studies for the public good. Research and studies  conducted using confidential data from the
+registry must be  reviewed and approved by an institutional review board in accordance with
+45 C.F.R. 46.
+(2) The authority may enter into agreements to exchange  information with other regis-
+tries for patients diagnosed  with Parkinson’s disease and related parkinsonisms to obtain
+complete reports of Oregon residents diagnosed or treated in other states and to  provide
+[2]
+HB 2595
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+information to other states regarding the residents of other states diagnosed or treated in
+Oregon. Before  providing information to any other registry, the authority shall ensure that
+the recipient registry has comparable confidentiality protections.
+SECTION 5.
+Action for  damages; license; disciplinary action prohibited for good faith
+participation in reporting of data.  (1) An action for damages arising from the disclosure of
+confidential or privileged information may not be maintained against any person,  or the
+employer or employee of any person, who participates in good faith in the reporting of reg-
+istry data  for Parkinson’s disease and related parkinsonisms in accordance with sections 1
+to 6 of this 2025 Act.
+(2) A license of a health care facility or practitioner may  not be denied, suspended or
+revoked for the good faith disclosure of confidential or  privileged information in the report-
+ing of registry data for Parkinson’s disease and related  parkinsonisms in accordance with
+sections 1 to 6 of this 2025 Act.
+(3) Nothing in this section shall be construed to apply to the unauthorized disclosure of
+confidential or privileged information when such disclosure is due to gross negligence or
+willful misconduct.
+SECTION 6.
+No prohibition or  requirement to operate separate registry.  Nothing in
+sections 1 to 6 of this 2025 Act shall prohibit a health care facility from  operating its own
+registry for Parkinson’s disease and related parkinsonisms or  require a health care facility
+to operate its own registry for Parkinson’s disease and related parkinsonisms.
+SECTION 7. Temporary provisions. At least  90 days before requiring information to be
+reported, the  Oregon Health Authority shall provide notification of the mandatory reporting
+of diagnoses of  Parkinson’s disease and related parkinsonisms on its website, and shall also
+provide that information to associations representing physicians  and hospitals and directly
+to the boards regulating health care professionals.
+SECTION 8. Section 7 sunset.  Section 7 of this 2025 Act is repealed on January 2, 2027.
+SECTION 9. Operative date. (1) Sections 1 to 7 of this  2025 Act become operative January
+1, 2026.
+(2) The members  of the Parkinson’s Disease Registry Advisory Committee shall be ap-
+pointed no later than January 1, 2026.
+(3) The registry system described  in section 2 of this 2025 Act must be operative no later
+than July 1, 2026.
+(4) The Oregon Health Authority may adopt rules and take  any other action before the
+operative date specified in subsection (1) of this section that is necessary  to enable the au-
+thority, on and after the operative date specified in subsection (1) of this  section, to under-
+take and exercise all of the duties, functions and powers conferred on the authority by
+sections 1 to 7 of this 2025 Act.
+SECTION 10.
+Captions. The section captions  used in this 2025 Act are provided only for
+the convenience of the reader and do not become part of the statutory  law of this state or
+express any legislative intent in the enactment of this 2025 Act.
+SECTION 11. Effective date.  This 2025 Act takes effect on the 91st day after the date on
+which the 2025 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

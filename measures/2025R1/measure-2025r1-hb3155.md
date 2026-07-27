@@ -1,0 +1,399 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3155
+title: 'HB 3155 (2025R1): Permits a person to operate Class I, Class III and Class IV all-terrain vehicles
+  on highways that are not interstate highways if the all-terrain vehicle meets vehicle equipment standards
+  and the all-terrain vehicle is registered.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3155
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3155/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 4d9946707ffda7c77aaef53814080e5f4dfc12a847b1b76a6ae3e2da7e15250a
+snapshot_id: measure-2025r1-hb3155-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 801.026
+  - ORS 803.305
+  - ORS 803.310
+  - ORS 803.350
+  - ORS 803.370
+  - ORS 803.525
+  - ORS 803.530
+  - ORS 803.555
+  - ORS 805.010
+  - ORS 806.010
+  - ORS 806.020
+  - ORS 807.010
+  - ORS 807.020
+  - ORS 807.060
+  - ORS 807.062
+  - ORS 807.070
+  - ORS 807.280
+  - ORS 810.070
+  - ORS 811.725
+  - ORS 815.060
+  - ORS 815.110
+  - ORS 815.115
+  - ORS 815.120
+  - ORS 821.055
+  - ORS 821.150
+  - ORS 821.170
+  - ORS 821.172
+  - ORS 821.176
+  - ORS 821.190
+  - ORS 821.191
+  - ORS 821.200
+  - ORS 821.310
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3155
+prefix_meaning: House Bill
+catch_line: Permits a person to operate Class I, Class III and Class IV all-terrain vehicles on highways
+  that are not interstate highways if the all-terrain vehicle meets vehicle equipment standards and the
+  all-terrain vehicle is registered.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act allows ATVs on the roads if the ATV meets certain requirements and\
+  \ does not go on the freeway. (Flesch Readability Score: 66.1). \n\tPermits a person to operate Class\
+  \ I, Class III and Class IV all-terrain vehicles on highways that are not interstate highways if the\
+  \ all-terrain vehicle meets vehicle equipment standards and the all-terrain vehicle is registered. \n\
+  \tDirects the Department of Transportation to permit optional registration for Class I, Class III or\
+  \ Class IV all-terrain vehicles if the applicant provides satisfactory proof that the all-terrain vehicle\
+  \ meets equipment standards for highway use."
+relating_to: Relating to all-terrain vehicles.
+relating_to_full: Relating to all-terrain vehicles; creating new provisions; and amending ORS 803.310,
+  803.525, 806.020, 807.020, 815.110 and 821.190.
+at_the_request_of: null
+lc_number: 936
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-01-28T14:37:23'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 16208
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 801.026
+  - ORS 803.305
+  - ORS 803.310
+  - ORS 803.350
+  - ORS 803.370
+  - ORS 803.525
+  - ORS 803.530
+  - ORS 803.555
+  - ORS 805.010
+  - ORS 806.010
+  - ORS 806.020
+  - ORS 807.010
+  - ORS 807.020
+  - ORS 807.060
+  - ORS 807.062
+  - ORS 807.070
+  - ORS 807.280
+  - ORS 810.070
+  - ORS 811.725
+  - ORS 815.060
+  - ORS 815.110
+  - ORS 815.115
+  - ORS 815.120
+  - ORS 821.055
+  - ORS 821.150
+  - ORS 821.170
+  - ORS 821.172
+  - ORS 821.176
+  - ORS 821.190
+  - ORS 821.191
+  - ORS 821.200
+  - ORS 821.310
+  from_relating_to_full:
+  - ORS 803.310
+  - ORS 803.525
+  - ORS 806.020
+  - ORS 807.020
+  - ORS 815.110
+  - ORS 821.190
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3155>.
+
+# HB 3155 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3155, 2025 Regular Session (2025R1)
+- **LC number:** 936
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-01-28T14:37:23
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 16208 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3155/Introduced>.
+
+## Summary
+
+**Catchline:** Permits a person to operate Class I, Class III and Class IV all-terrain vehicles on highways that are not interstate highways if the all-terrain vehicle meets vehicle equipment standards and the all-terrain vehicle is registered.
+
+**Relating to:** Relating to all-terrain vehicles.
+
+Digest: The Act allows ATVs on the roads if the ATV meets certain requirements and does not go on the freeway. (Flesch Readability Score: 66.1). 
+ Permits a person to operate Class I, Class III and Class IV all-terrain vehicles on highways that are not interstate highways if the all-terrain vehicle meets vehicle equipment standards and the all-terrain vehicle is registered. 
+ Directs the Department of Transportation to permit optional registration for Class I, Class III or Class IV all-terrain vehicles if the applicant provides satisfactory proof that the all-terrain vehicle meets equipment standards for highway use.
+
+**RelatingToFull (verbatim upstream field):** Relating to all-terrain vehicles; creating new provisions; and amending ORS 803.310, 803.525, 806.020, 807.020, 815.110 and 821.190.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3155
+Sponsored by Representative CATE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act allows ATVs on the roads if the ATV meets  certain requirements and does not
+go on the freeway. (Flesch Readability Score: 66.1).
+Permits a person to operate Class I, Class III and Class IV all-terrain vehicles on highways  that
+are not interstate highways if the all-terrain vehicle meets vehicle equipment standards and  the
+all-terrain vehicle is registered.
+Directs the Department of Transportation to permit optional  registration for Class I, Class III
+or Class IV all-terrain vehicles if the applicant provides satisfactory proof  that the all-terrain vehi-
+cle meets equipment standards for highway use.
+A BILL FOR AN ACT
+Relating to all-terrain  vehicles; creating new provisions; and amending ORS 803.310, 803.525, 806.020,
+807.020, 815.110 and 821.190.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this  2025 Act is added to and made a part of ORS 821.150 to
+821.292.
+SECTION 2. A Class I, Class III or Class  IV all-terrain vehicle may be lawfully operated
+on a highway under the following circumstances:
+(1) The all-terrain vehicle is registered under ORS 803.310; and
+(2) The vehicle is operated on a highway that is not an interstate highway.
+SECTION 3.
+ ORS 821.190 is amended to read:
+821.190. (1) A person commits the offense of unlawful operation of an off-road vehicle on  a
+highway or railroad if the person operates a vehicle described in subsection (2) of this  section in
+any of the following described areas:
+(a) On or across the paved portion, the shoulder,  inside bank or slope of any highway, on or
+across the median  of any divided highway or on or across any portion of a highway right of way
+under construction.
+(b) On or across a railroad right of way.
+(2) This section applies to:
+(a) Snowmobiles.
+(b) Class I all-terrain vehicles  that:
+(A) Are not properly equipped for operation on a highway; and
+(B) Are not registered under ORS 803.310 .
+(c) Class II all-terrain vehicles that are not properly equipped for operation on a highway.
+(d) Class III all-terrain vehicles that:
+(A) Are not properly equipped for operation on a highway; and
+(B) Are not registered under ORS 803.310 .
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 936
+(e) Class IV all-terrain vehicles that:
+(A) Are not properly equipped for operation on a highway; and
+(B) Are not registered under ORS 803.310 .
+(3) Exemptions from this section are established under ORS 821.055 and 821.200.
+(4) Subsection (1) of this section does not apply to Class I, Class III or Class IV all-terrain
+vehicles that are  registered under ORS 803.310 and operate on highways that are not inter-
+state highways as permitted under section 2 of this 2025 Act.
+[(4)] (5) In addition to penalties provided by this section, the operator or owner of a  snowmobile
+or Class I, Class II, Class III or Class  IV all-terrain vehicle may be liable as provided under ORS
+821.310.
+[(5)] (6)  The offense described in this section, unlawful  operation of an off-road vehicle on a
+highway or railroad, is a Class B traffic violation.
+SECTION 4.
+ ORS 803.310 is amended to read:
+803.310. (1) The Department of Transportation, by rule, may provide for optional registration of
+vehicles that are exempt from vehicle registration requirements by  ORS 803.305. The rules adopted
+for purposes of this subsection may provide for the registration of categories of vehicles,  types of
+vehicles or otherwise.  Upon request of an owner, the department may issue registration for a vehicle
+that meets the requirements of rules adopted under this section.
+(2) The department, by rule, shall provide for optional registration of Class I,  Class III
+and Class IV all-terrain  vehicles. Notwithstanding the requirement in ORS 803.350 (9) that a
+vehicle registered in this state be designed for operation on highways, an applicant may re-
+quest optional registration of a Class I, Class III or Class IV all-terrain  vehicle if the appli-
+cant provides the department  with satisfactory proof that the all-terrain vehicle meets
+equipment requirements imposed by statute or rule for the lawful operation of a vehicle on
+the highways. The  department may adopt rules to carry out the provisions of this subsection,
+including but not limited to specifying what constitutes  satisfactory proof under this sub-
+section and the amount of the registration fee.
+[(2)] (3)  A vehicle that  is registered under this section is subject to the same provisions, condi-
+tions, fees and other requirements for registration as are other vehicles under the vehicle code.
+SECTION 5.
+ ORS 807.020, as amended by section 3, chapter 12, Oregon Laws 2024, is  amended
+to read:
+807.020. A person who is granted a driving privilege by this section  may exercise the driving
+privilege described without  violation of the requirements under ORS 807.010. A grant of driving
+privileges to operate a motor vehicle under this section is subject to suspension  and revocation the
+same as other  driving privileges granted under the vehicle code. This section is in addition to any
+exemptions from the vehicle code under ORS 801.026. The following persons are  granted the de-
+scribed driving privileges:
+(1) A person who is not a resident of this  state or who has been a resident of this state for less
+than 30 days may operate a motor vehicle without an Oregon license or driver permit  if the person
+holds a current out-of-state license issued to the person. For the purpose of this subsection, a  person
+is a resident of this state if the person meets the residency requirements described in  ORS 807.062.
+To qualify under this subsection, the person must have the  out-of-state license or driver permit in
+the person’s possession. A person is not granted driving privileges under this subsection:
+(a) If the person is under the minimum age required to be eligible for  driving privileges under
+ORS 807.060;
+(b) During a period of suspension or revocation by this state or any other jurisdiction of  driving
+privileges or of the right to apply for a license or driver permit  issued by this state or any other
+jurisdiction;  or
+(c) That exceed the driving privileges granted  to the person by the out-of-state license or driver
+permit.
+(2) A person who is a member  of the Armed Forces of the United States or a member of the
+commissioned corps of the National  Oceanic and Atmospheric Administration may operate a motor
+vehicle without an Oregon license or  driver permit if the person is operating a motor vehicle in the
+course of the person’s duties in the Armed Forces or the National  Oceanic and Atmospheric Ad-
+ministration.
+(3) A person without a license or driver permit may operate a  road roller or road machinery
+that is not required to be registered under the laws of this state.
+(4) A person without a license or  driver permit may temporarily operate, draw, move or propel
+a farm tractor or implement of husbandry.
+(5) A person without a license or driver permit may operate a motor  vehicle to demonstrate
+driving ability during the course of  an examination administered under ORS 807.070 for the purpose
+of qualifying for a license or driver permit. This subsection only  applies when an authorized exam-
+iner is in a seat beside the driver of the motor vehicle.
+(6) Driving privileges for snowmobiles are exclusively as provided in ORS 821.150.
+(7) Driving privileges for Class  I all-terrain vehicles are exclusively as provided in ORS 821.170,
+unless:
+(a) A person  is operating a Class I all-terrain vehicle on an all-terrain vehicle highway access
+route that is designated by the Oregon Transportation  Commission as open to all-terrain vehicles ;
+or
+(b) A person  registers the Class I all-terrain vehicle under ORS 803.310 and is operating
+the Class I all-terrain vehicle on a highway as permitted under section 2 of this 2025 Act .
+(8) Driving privileges for Class III all-terrain vehicles are exclusively as provided in ORS
+821.172, unless:
+(a) A person is operating  a Class III all-terrain vehicle on an all-terrain vehicle highway access
+route that is designated by the commission as open to all-terrain vehicles ; or
+(b) A person registers the Class III all-terrain vehicle under ORS 803.310 and  is operating
+the Class III all-terrain vehicle on a highway as permitted under section 2 of this 2025 Act .
+(9) Driving privileges for Class IV all-terrain vehicles are exclusively as provided in ORS
+821.176, unless:
+(a) A person is operating  a Class IV all-terrain vehicle on an all-terrain vehicle highway access
+route that is designated by the commission as open to all-terrain vehicles ; or
+(b) A  person registers the Class IV all-terrain vehicle under ORS 803.310 and is operating
+the Class IV all-terrain vehicle on a highway as permitted under section 2 of this 2025 Act .
+(10) A person without a license or driver permit may operate a golf cart in  accordance with an
+ordinance adopted under ORS 810.070.
+(11) The spouse of a member of the Armed Forces of the United States on active duty or the
+spouse of a member of the commissioned corps of the National  Oceanic and Atmospheric Adminis-
+tration who  is accompanying the member on assignment in this state may operate a motor vehicle
+if the spouse has a current out-of-state  license or driver permit issued to the spouse by another state
+in the spouse’s possession.
+(12) A person who is a member of the Armed Forces of  the United States on active duty or a
+member of the commissioned corps of the National Oceanic and  Atmospheric Administration may
+operate a motor vehicle if the person  has a current out-of-state license or driver permit in the
+person’s possession that is issued to the  person by the person’s state of domicile or by the Armed
+Forces of the United States in a foreign country. Driving privileges described  under this subsection
+that are granted by the Armed Forces  apply only for a period of 45 days from the time the person
+returns to the United States.
+(13) A person who does not  hold a motorcycle endorsement may operate a motorcycle if the
+person is:
+(a) Within an enclosed cab;
+(b) Operating a vehicle designed to travel  with three wheels in contact with the ground at
+speeds of less than 15 miles per hour; or
+(c) Operating an autocycle.
+(14) Except  as provided in subsection (15) of this section, a person may operate a bicycle without
+any grant of driving privileges.
+(15) A person may operate the following without any grant of driving  privileges if the person is
+16 years of age or older:
+(a) A Class 1 electric assisted bicycle;
+(b) A Class 2 electric assisted bicycle; or
+(c) A Class 3 electric assisted bicycle.
+(16) A  person may operate a motor assisted scooter without a driver license or driver permit if
+the person is 16 years of age or older.
+(17) A person who is not a resident of this state or who has been  a resident of this state for less
+than 30 days may operate a motor vehicle without an Oregon license or driver permit  if the person
+is at least 15 years of age  and has in the person’s possession a current out-of-state equivalent of a
+Class C instruction driver permit issued to the person. For the purpose of this subsection, a person
+is a resident  of this state if the person meets the residency requirements described in ORS 807.062.
+A person operating a motor  vehicle under authority of this subsection has the same privileges and
+is subject to the same  restrictions as a person operating under the authority of a Class C instruction
+driver permit issued as provided in ORS 807.280.
+(18) A person may operate an electric personal assistive mobility device without any grant of
+driving privileges if the person is 16 years of age or older.
+SECTION 6.
+ ORS 803.525 is amended to read:
+803.525. The Department of Transportation shall issue  two registration plates for every vehicle
+that is registered by the department except as otherwise provided in this section or ORS  803.530.
+Upon renewal or when otherwise provided  under ORS 803.555, the department may issue stickers in
+lieu of or in addition to registration plates. The following shall be issued plates as described:
+(1) Only one registration plate  shall be issued for a moped, motorcycle, trailer, antique vehicle
+or vehicle of special interest registered by the department.
+(2) Only one plate shall be issued  for a camper  or Class I, Class III or Class IV all-terrain
+vehicle that is registered. Stickers may be issued in lieu of a plate.
+SECTION 7.  ORS 806.020 is amended to read:
+806.020. This section provides exemptions from the necessity for  compliance with or proof of
+compliance with financial responsibility requirements in accident reports under ORS 811.725,  when
+applying for vehicle  registration under ORS 803.370 or 803.460 and for operating a vehicle under
+ORS 806.010. The owner or operator of a vehicle is exempt, as provided by this section, from finan-
+cial responsibility  requirements if the vehicle involved in the accident, sought to be registered or
+operated is any of the following:
+(1) An antique vehicle issued permanent registration under ORS 805.010.
+(2) A farm trailer.
+(3) A farm tractor.
+(4) An implement of husbandry.
+(5) A vehicle of special interest that is maintained as a collector’s item and  used for exhibitions,
+parades, club activities and similar uses, but not  used primarily for the transportation of persons
+or property.
+(6) A snowmobile or a Class I, Class III or Class IV all-terrain vehicle, unless the  vehicle is
+operating on an all-terrain vehicle highway access route  that is designated by the Oregon Trans-
+portation Commission as open to all-terrain  vehicles  or on a highway as permitted under section
+2 of this 2025 Act .
+(7) Any motor vehicle  not operated on any highway or premises open to the public in this state.
+(8) A motor assisted scooter.
+(9) An electric personal assistive mobility device.
+SECTION 8.
+ ORS 815.110 is amended to read:
+815.110. This section establishes requirements for ORS 815.115. The  requirements under this
+section are in addition to any other requirements for lighting  equipment provided by law. Except
+as specifically provided by an exemption under ORS 815.120, a person violates ORS 815.115 if the
+person does not comply with any of the following requirements:
+(1) The following types of vehicles must display slow-moving vehicle emblems  described under
+ORS 815.060:
+(a) Vehicles or combinations  of vehicles designed for customary use at speeds of less than 25
+miles per hour.
+(b) Golf carts or similar vehicles when operated by a person with a disability.
+(c) [ Class I, Class II and Class IV ] All-terrain vehicles operated  on a highway under ORS
+821.191 (1) or section 2 of this 2025 Act .
+(2) Slow-moving vehicle emblems must meet the requirements for such emblems  established by
+the Department of Transportation by rule under ORS 815.060.
+(3) Slow-moving vehicle emblems shall be displayed on the rear of the power unit.  When a
+combination of vehicles is being operated in a manner that  obscures the emblem mounted on the
+power unit, an additional emblem shall be displayed on the  rear of the rearmost vehicle in the
+combination.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 803.310, ORS 803.525, ORS 806.020, ORS 807.020, ORS 815.110, ORS 821.190
+- From bill text (Introduced version): ORS 801.026, ORS 803.305, ORS 803.310, ORS 803.350, ORS 803.370, ORS 803.525, ORS 803.530, ORS 803.555, ORS 805.010, ORS 806.010, ORS 806.020, ORS 807.010, ORS 807.020, ORS 807.060, ORS 807.062, ORS 807.070, ORS 807.280, ORS 810.070, ORS 811.725, ORS 815.060, ORS 815.110, ORS 815.115, ORS 815.120, ORS 821.055, ORS 821.150, ORS 821.170, ORS 821.172, ORS 821.176, ORS 821.190, ORS 821.191, ORS 821.200, ORS 821.310
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `4d9946707ffda7c77aaef53814080e5f4dfc12a847b1b76a6ae3e2da7e15250a` (snapshot `_meta/snapshots/measure-2025r1-hb3155-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3155/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3155> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

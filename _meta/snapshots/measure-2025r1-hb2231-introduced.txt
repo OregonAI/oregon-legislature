@@ -1,0 +1,94 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2231
+Sponsored by Representative SCHARF (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act defines the  term “quality standard” for certain seed contracts. (Flesch Read-
+ability Score: 64.9).
+Instructs the Oregon  Seed Certification Service of Oregon State University to continue to peri-
+odically produce, and make available to the public, the Oregon Seed Certification Handbook.
+Defines the term “quality standard” for certain seed contracts as a  specification in the hand-
+book.
+A BILL FOR AN ACT
+Relating to seed quality standards; creating new provisions; and amending ORS 576.715.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this  2025 Act is added to and made a part of ORS 576.715 to
+576.744.
+SECTION 2. The Oregon Seed Certification Service of Oregon State University shall:
+(1) Periodically produce an Oregon Seed Certification Handbook that, among other things,
+describes certified seed; and
+(2) Make the handbook available to the public.
+SECTION 3.
+ ORS 576.715 is amended to read:
+576.715. As used in ORS 576.715 to 576.744:
+(1) “Agricultural seed” means grass seed of a type commonly sold for use in turf lawns or as
+forage seed.
+(2) “Authenticate” has the meaning given that term in ORS 79.0102.
+(3) “Producer” means a person that grows agricultural seed in this state on a  commercial basis
+for a seed dealer.
+(4) “Quality standard” means certified seed as  described in the most current version of
+the Oregon Seed Certification  Handbook produced by the Oregon Seed Certification Service
+of Oregon State University.
+[(4)] (5) “Seed bailment contract” means a seed production  contract under which the seed dealer
+retains title to all seed, seed stock and plant life grown or used by  the producer under the terms
+of the contract.
+[(5)] (6) “Seed dealer” means a person that in the  ordinary course of business contracts to buy
+agricultural seed grown in this state by a producer or contracts with a producer for the growing
+of agricultural seed in this state.
+[(6)] (7) “Seed delivery” means the date on which the seed grower delivers grass seed to the seed
+dealer pursuant to a notice from the dealer.
+[(7)] (8) “Seed grower” means a person  that grows grass seed in this state on a commercial basis
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1431
+HB 2231
+1
+2
+3
+4
+5
+6
+7
+8
+9
+without entering into a contract with a seed dealer prior to harvesting of the seed.
+[(8)] (9) “Seed production contract” means a written agreement between a  producer and a seed
+dealer for the growing of agricultural seed in this state.
+[(9)] (10)  “Seed purchase contract” means a written agreement for a seed dealer to  purchase
+grass seed  that has been grown by a seed grower. “Seed purchase contract” does not include a seed
+production  contract.
+[(10)] (11) “Variety Not Stated Seed” means agricultural  seed that is sold in unmarked plastic
+bags or other unmarked containers without any reference to a variety name for the seed.
+[2]

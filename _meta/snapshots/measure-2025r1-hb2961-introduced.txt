@@ -1,0 +1,141 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2961
+Sponsored by Representative GAMBA; Senators GORSEK, PHAM K (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Increases the number of parking spaces in some new  buildings that must have what is
+needed to charge electric cars. (Flesch Readability Score: 68.0).
+Increases the percentage of electrical service capacity for charging electric  vehicles or electric
+vehicle charging stations that must be installed  at vehicle parking spaces in the garages or parking
+areas of newly constructed commercial buildings, multifamily buildings  with five or more units and
+mixed-use buildings consisting of privately owned commercial space and five or more  residential
+dwelling units.
+A BILL FOR AN ACT
+Relating to the capacity for electric vehicle charging required  in certain newly constructed
+buildings; creating new provisions; and amending ORS 455.417.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 455.417 is amended to read:
+455.417. (1) As used in this section:
+(a) “Electric vehicle charging station” means a device or facility for delivering  electricity for
+motor vehicles that use electricity for propulsion.
+(b) “Municipality” has the meaning given that term in ORS 455.010.
+(c) “Provisions for electrical service capacity” means:
+(A)(i) Building electrical service, sized for the anticipated load of electric vehicle charging
+stations, that has overcurrent devices necessary for electric vehicle charging stations or  has ade-
+quate space to add the overcurrent devices;
+(ii) Designated space within a building  to add electrical service with capacity for electric vehi-
+cle charging stations; or
+(iii) A designated location on building property, in or adjacent to a landscaped area, for in-
+stalling remote service for electric vehicle charging stations; and
+(B) A conduit system installed from  building electrical service, or from the dedicated spaces or
+locations described in subparagraph (A) of this paragraph, to parking spaces that  can support, at a
+minimum, electrical wiring for  installation of level 2 electric vehicle charging stations and, if the
+conduit is for future installation of  electric vehicle charging stations, that labels both ends of the
+conduit to mark the conduit as provided for future electric vehicle charging stations.
+(d) “Townhouse” has the meaning given that term in ORS 197A.420.
+(2)(a) The Director of the Department  of Consumer and Business Services shall adopt amend-
+ments to the state  building code to require newly constructed buildings [ described in subsection (3)(a)
+of this section ] to include provisions for electrical service capacity for charging electric vehicles.
+The code must require that :
+(A) Each  commercial  building  in private ownership  include, at a minimum, provisions for
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 826
+HB 2961
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+electrical service capacity at no less than 20 percent of the vehicle parking spaces in the  garage
+or parking area for the building.
+(B) Each  multifamily residential building or mixed-use building with five or more resi-
+dential dwelling units include:
+(i) Provisions for electrical service capacity  at no less than 50 percent of the vehicle
+parking spaces in the garage or parking area for the building; or
+(ii) Electrical service capacity  for charging electric vehicles in 20 percent of the vehicle
+parking spaces in the garage or parking area for the building, one  quarter of which per-
+centage, but not less than one parking space, must consist of vehicle parking  spaces with
+level 2 or level 3 electric vehicle charging stations installed and ready for use.
+(b) Fractional numbers derived from a calculation of the vehicle parking spaces must be rounded
+up to the nearest whole number.
+[(3)(a) The director shall make code requirements under subsection (2) of this section  applicable
+only to:]
+[(A) Commercial buildings under private ownership; ]
+[(B) Multifamily residential buildings with five or more residential dwelling units; and ]
+[(C) Mixed-use buildings consisting of privately owned  commercial space and five or more resi-
+dential dwelling units. ]
+[(b)] (3)  The director may not make code  requirements under subsection (2) of this section ap-
+plicable to townhouses.
+(4) Notwithstanding ORS  455.040, a municipality may, by process concerning land use, require
+that each newly constructed building described  in subsection [ (3)(a)] (2) of this section include pro-
+visions for electrical service capacity to accommodate more than [ 20 percent  of ] the percentages
+specified in subsection (2) of this section for  vehicle parking spaces in the garage or  parking
+area for the building.
+SECTION 2.
+The Director of the Department of Consumer and Business Services shall
+ensure that the initial amendments to the state building code required under the  amend-
+ments to ORS 455.417 by section 1 of this 2025 Act:
+(1) Take effect on July 1, 2026; and
+(2) Apply to new construction for which a person first applies  for a building permit on
+or after July 1, 2026.
+[2]
