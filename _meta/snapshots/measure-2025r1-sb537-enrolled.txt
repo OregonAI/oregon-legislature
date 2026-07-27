@@ -1,0 +1,520 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 537
+Sponsored by Senator PATTERSON, Representative NELSON,  Senators TAYLOR, JAMA, MEEK,
+REYNOLDS, Representative NOSSE; Senators BROADMAN, FREDERICK, GELSER BLOUIN,
+MANNING JR, NERON,  PROZANSKI, SOLLMAN, Representatives ANDERSEN, CHOTZEN,
+ISADORE, MCDONALD, PHAM H, WATANABE (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to violence in  health care settings; creating new provisions; and amending ORS 441.096,
+654.062, 654.182, 654.412, 654.414 and 654.416.
+Be It Enacted by the People of the State of Oregon:
+WORKPLACE VIOLENCE PREVENTION FOR
+HEALTH CARE EMPLOYERS
+(Safety Committees)
+SECTION 1.
+ ORS 654.182 is amended to read:
+654.182. (1) In carrying out ORS 654.176, the  Director of the Department of Consumer and
+Business Services shall adopt rules that include, but are not limited to, provisions:
+(a) Prescribing the membership of the committees to ensure equal numbers of employees, who
+are volunteers or  are elected by their peers, and employer representatives and specifying the fre-
+quency of meetings.
+(b) Requiring employers to make adequate written records of  each meeting and to file and
+maintain the records subject to inspection by the director.
+(c) Requiring employers to compensate employee representatives  on safety committees at the
+regular hourly wage while the employees are  engaged in safety committee training or are attending
+safety committee meetings.
+(d) Prescribing the duties and functions of  safety committees, which include, but are not limited
+to:
+(A) Establishing procedures for workplace safety inspections by the committee.
+(B) Establishing procedures for investigating all safety incidents,  accidents, illnesses and deaths.
+(C) Evaluating accident and illness prevention programs.
+(e) Prescribing guidelines for the training of safety committee members.
+(f) Prescribing alternate forms of safety committees and safety meetings  to meet the special
+needs of small employers, agricultural employers and employers with mobile worksites.
+(g) Prescribing procedures for health care  employers for investigating, collecting and
+reporting on incidents of workplace violence.
+(2) An employer that is a member of a multiemployer group operating under  a collective bar-
+gaining agreement that  contains provisions regulating the formation and operation of a safety com-
+Enrolled Senate Bill 537 (SB 537-B) Page 1
+mittee that meets or exceeds the minimum requirements of this section  and ORS 654.176 shall be
+considered to have met the requirements of this section and ORS 654.176.
+(3) As used  in this section, “health care employer” and “workplace violence” have the
+meanings given those terms in ORS 654.412.
+(Workplace Violence Prevention Program)
+SECTION 2.  ORS 654.412 is amended to read:
+654.412. As used in ORS 654.412 to 654.423:
+(1) “Assault” means intentionally, knowingly or recklessly causing physical injury.
+(2) “Energy generating device” means  a tool that performs a surgical function using heat, laser,
+electricity or other form of energy.
+(3) “Health care employer” means:
+(a) An ambulatory surgical center as defined in ORS 442.015.
+(b) A hospital as defined in ORS [ 442.015] 441.760, except for the Oregon State Hospital .
+(c) A home health agency as defined in ORS 443.014.
+(d) A home hospice program.
+(4) “Home health care services” means items or services furnished to a patient by an  employee
+of a health care employer in a place of temporary  or permanent residence used as the patient’s
+home.
+(5) “Home hospice program” means a coordinated program of home care,  available 24
+hours a day, that utilizes an interdisciplinary team of personnel trained to provide  palliative
+and supportive services to a patient-family unit experiencing a life threatening  disease with
+a limited prognosis.
+[(5)] (6) “Smoke evacuation system” means equipment that effectively  captures or neutralizes
+surgical smoke before the smoke makes contact with the eyes or  the respiratory tract of the occu-
+pants of a room.
+[(6)] (7) “Surgical smoke” means the by-product that results  from contact with tissue by an en-
+ergy generating device.
+(8) “Workplace violence” includes any act or threat of  physical violence, harassment,
+intimidation, assault, homicide or any other  threatening behavior that occurs in the
+workplace.
+SECTION 3.
+ ORS 654.414 is amended to read:
+654.414. (1) A  health care employer , in consultation with the employer’s workplace safety
+committee described in ORS 654.176,  shall:
+(a) Conduct  periodic security and safety assessments to identify existing or potential [ hazards
+for assaults committed against employees ] threats of workplace violence ;
+(b) Develop  and implement [ an assault ] a workplace violence  prevention and protection pro-
+gram for employees based on assessments conducted under paragraph (a) of this subsection; and
+(c) Provide [ assault] workplace violence prevention  and protection training on [ a regular and
+ongoing] an annual basis for employees  and any contracted security personnel who work  at the
+premises of the health care employer .
+(2) An assessment conducted  under subsection (1)(a) of this section shall include, but need not
+be limited to:
+(a) A measure of the frequency of [ assaults] workplace violence, including attempts of
+workplace violence, that  are committed against employees [ that occur ] on the premises of a health
+care employer or in  the home of a patient receiving home health care services during the preceding
+five years or for the years that records are available if fewer than five years of records  are avail-
+able; [ and]
+(b) An [ identification] analysis of the root causes and consequences  of [ assaults] workplace
+violence committed against employees[ .], including a plan for addressing the analyzed  causes;
+and
+Enrolled Senate Bill 537 (SB 537-B) Page 2
+(c) Findings on the extent to which the security considerations described in  subsection
+(3) of this section were implemented to mitigate risks of workplace violence.
+(3) [ An assault ] A workplace violence  prevention and protection program developed and im-
+plemented by a health care employer under subsection (1)(b) of this section shall  incorporate and
+implement a workplace violence prevention and response plan. The plan shall:
+(a) Be based on an assessment conducted under subsection (1)(a) of this section . [ and shall]
+(b) Address security considerations related to the following:
+[(a)] (A) Physical attributes of the health care setting;
+[(b)] (B) Staffing plans, including security staffing;
+[(c)] (C) Personnel policies;
+[(d)] (D) First aid and emergency procedures;
+[(e)] (E) Procedures for reporting [ assaults] incidents of workplace violence; and
+[(f)] (F) Education and training for employees.
+(c) Include policies and procedures for:
+(A) Conducting internal investigations of  incidents of workplace violence that occur on
+the premises of the health care employer.
+(B) Identifying employees involved in a workplace violence incident.
+(C) Conducting post-incident employee interviews for the  purpose of gathering factual
+details about an incident of workplace violence.
+(D) Implementing post-incident response strategies that address the provision of:
+(i) First aid or medical care to employees who have been injured in a  workplace violence
+incident; and
+(ii) Trauma counseling for employees affected by an incident of workplace violence.
+(4)(a) [ Assault ] Workplace violence  prevention and protection training required under  sub-
+section (1)(c) of this section shall address the following topics:
+(A) General safety and  personal safety procedures , including emergency response guidelines
+that may be  used to notify employees and contracted security personnel who work at the
+premises of the health care employer of a threat or occurrence of workplace violence ;
+(B) The meaning of workplace violence;
+[(B)] (C) Escalation cycles for assaultive behaviors and other violent or threatening behav-
+iors;
+[(C)] (D)  [ Factors that predict assaultive behaviors ] Predictive factors of workplace violence ;
+[(D)] (E) Techniques for obtaining medical  history from a patient with assaultive or other
+threatening or violent  behavior;
+[(E)] (F) Verbal  and physical techniques to de-escalate and minimize assaultive behaviors and
+threats of workplace violence ;
+[(F)] (G) Strategies for avoiding physical harm and minimizing use of restraints;
+[(G)] (H) Restraint techniques consistent with regulatory requirements;
+[(H)] (I) Self-defense, including:
+(i) The amount  of physical force that is reasonably necessary to protect the employee or a third
+person from assault; and
+(ii) The  use of least restrictive procedures necessary under the circumstances, in accordance
+with an approved behavior management  plan, and any other methods of response approved by the
+health care employer;
+[(I)] (J) Procedures for documenting and reporting incidents involving assaultive behaviors and
+incidents of workplace violence;
+[(J)] (K) Programs for post-incident counseling and follow-up;
+[(K)] (L) Resources available to employees  for coping with [ assaults] workplace violence ;
+[and]
+[(L)] (M) The health care employer’s workplace [ assault] violence  prevention and protection
+program[.], including the health care employer’s internal investigation process for investigat-
+ing incidents of workplace violence;
+Enrolled Senate Bill 537 (SB 537-B) Page 3
+(N) Visual cues and other methods that may be used to identify or notify  employees
+about individuals exhibiting behavioral indicators of workplace violence; and
+(O) Responding to active shooter incidents.
+(b) A  health care employer shall provide [ assault] workplace violence prevention and protection
+training to:
+(A) A new employee , other than a temporary employee,  within 90 days of the employee’s in-
+itial hiring date.
+(B) A temporary employee, within 14 days of the employee’s initial hiring date.
+(c) A health care employer may  use classes, video recordings, brochures, verbal or written
+training or other training that the employer determines to be appropriate, based  on an employee’s
+job duties, under the [ assault] workplace violence prevention  and protection program developed by
+the employer.
+(d) A health care employer shall ensure that a person with the appropriate knowledge
+and expertise is available  to employees to answer questions and clarify any aspects of the
+workplace violence prevention and protection  training through in-person interaction, phone,
+electronic mail or other reasonable means of communication.
+(5) [ At least once every  two years ] Once a year , a health care employer shall establish, in co-
+ordination with the health care employer’s workplace safety committee as described in ORS  654.176,
+a process by which the  committee shall review the health care employer’s [ assault] workplace vi-
+olence prevention and protection program developed  and implemented under subsection (1)(b) of this
+section in order to evaluate the efficacy of the program and consider any  changes to the program
+that are necessary to promote the prevention of workplace violence .
+(6)(a) A health care employer  shall provide to each employee and, if applicable, to the
+employee’s union  representative, a written copy of the workplace violence prevention and
+response plan described  under subsection (3) of this section, including a written statement
+explaining that an employee who reports an incident of workplace violence has a right to  be
+protected from retaliation.
+(b) For  newly hired employees, the health care employer shall provide the copy of the
+plan and the accompanying statement within 30 calendar days from the date of hire.
+(Reporting)
+SECTION 4.
+Section 5 of this 2025 Act is added to and made a part  of ORS 654.412 to
+654.423.
+SECTION 5. (1) Not later than December 31 of each year, the Department of Consumer
+and Business Services  shall prepare and submit a consolidated report that includes the as-
+sault records that are made available under  ORS 654.416 and the following information re-
+garding incidents of workplace violence occurring on the premises of a  health care employer:
+(a) The location where each workplace violence incident occurred.
+(b) The nature of the incident.
+(c) The nature and severity of any employee  injuries stemming from the workplace vi-
+olence incident.
+(d) The job titles of any employees who were injured as a result of workplace violence.
+(e) Any increases or decreases in the number  of incidents of workplace violence since the
+previous study conducted under this section.
+(2) The department shall submit the report, in the  manner provided in ORS 192.245, in-
+cluding recommendations for legislation, if  any, to the interim committees of the Legislative
+Assembly related to business and labor.
+(Conforming Amendments)
+SECTION 6.
+ ORS 654.062 is amended to read:
+Enrolled Senate Bill 537 (SB 537-B) Page 4
+654.062. (1) Every  employee should notify the employer of any violation of law, regulation or
+standard pertaining to safety and health in the  place of employment when the violation comes to the
+knowledge of the employee.
+(2) However, any employee  or representative of the employee may complain to the Director of
+the Department  of Consumer and Business Services or any authorized representatives of the director
+of any violation of law, regulation or standard pertaining  to safety and health in the place of em-
+ployment, whether or not the employee also notifies the employer.
+(3) Upon receiving any employee complaint, the director shall make inquiries, inspections and
+investigations that the director considers reasonable and appropriate. When an employee or  repre-
+sentative of the employee has complained in writing of an  alleged violation and no resulting citation
+is issued to the employer, the director shall  furnish to the employee or representative of the em-
+ployee, upon written request, a statement of reasons for the decision.
+(4) The director shall establish procedures  for keeping confidential the identity of any employee
+who requests protection in writing.  When a request has been made, neither a written complaint from
+an employee, or representative of  the employee, nor a memorandum containing the identity of a
+complainant may be disclosed under ORS 192.311 to 192.478.
+(5) It is an unlawful employment practice for any person to bar or discharge from  employment
+or otherwise discriminate against any employee or prospective employee because the employee  or
+prospective employee has:
+(a) Opposed any practice forbidden by ORS 654.001 to 654.295,  654.412 to 654.423 and 654.750 to
+654.780;
+(b) Made any  complaint or instituted or caused to be instituted any proceeding under or related
+to ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780,  or has testified or is about to
+testify in any such proceeding;
+(c) Exercised on behalf of  the employee, prospective employee or others any right afforded by
+ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780;
+(d) In good faith reported an assault or other incident of workplace violence  that  occurred
+on the  premises of a health care employer as defined in ORS 654.412 or in the home of a patient
+receiving home health care services; or
+(e) With no  reasonable alternative and in good faith, refused to expose the employee or pro-
+spective employee to serious injury or  death arising from a hazardous condition at a place of em-
+ployment.
+(6)(a) Any employee or prospective employee alleging to have been barred or discharged from
+employment or otherwise discriminated against in compensation, or in  terms, conditions or privi-
+leges of employment, in violation of subsection (5) of this section may, within one year  after the
+employee or prospective employee  has reasonable cause to believe that the violation has occurred,
+file a complaint with the Commissioner of the Bureau of Labor and  Industries alleging discrimi-
+nation under the provisions of ORS 659A.820. Upon receipt of the complaint  the commissioner shall
+process the complaint under the procedures, policies and remedies established by ORS chapter 659A
+and the policies established by ORS 654.001 to 654.295, 654.412 to 654.423  and 654.750 to 654.780 in
+the same way and to the same extent  that the complaint would be processed if the complaint in-
+volved allegations of unlawful employment practices under ORS 659A.030 (1)(f).
+(b) Within 90 days after receipt of a complaint filed  under this subsection, the commissioner
+shall notify the complainant of the commissioner’s determination.
+(c) The affected employee or prospective employee may bring a civil action  in any circuit court
+of the State of Oregon against any person alleged to  have violated subsection (5) of this section.
+The civil action must be commenced within one year  after the employee or prospective employee
+has reasonable cause to believe  a violation has occurred, unless a complaint has been timely filed
+under ORS 659A.820.
+(d) The commissioner or the circuit court may order all appropriate relief including rehiring  or
+reinstatement to the employee’s former position with back pay.
+Enrolled Senate Bill 537 (SB 537-B) Page 5
+(7)(a) In any action brought  under subsection (6) of this section, there is a rebuttable
+presumption that a violation of subsection (5) of this  section has occurred if a person bars or dis-
+charges an employee or prospective employee from employment  or otherwise discriminates against
+an employee or prospective employee within 60 days  after the employee or prospective employee has
+engaged in any of the protected activities described in subsection (5)(a) to  (e) of this section. The
+person may rebut the presumption that a violation of subsection (5) of this section has occurred  by
+a demonstration of a preponderance of the evidence.
+(b) If a person bars or discharges an  employee or prospective employee from employment or
+otherwise discriminates against  the employee or prospective employee more than 60 days after the
+employee or prospective employee has engaged in any of  the protected activities described under
+subsection (5)(a) to (e) of this section,  such action does not create a presumption in favor of or
+against finding that a violation of subsection (5) of this section has  occurred. Where such action has
+occurred more than  60 days after the protected activity, this subsection does not modify any existing
+rule of case law relating to the proximity of time between  a protected activity and an adverse em-
+ployment action. The burden of proof shall be on the employee or  prospective employee to demon-
+strate by a preponderance of the evidence that a violation occurred.
+(8) The director shall adopt rules necessary for the administration  of subsection (5)(e) of this
+section that are in accordance  with the federal Occupational Safety and Health Act of 1970 (29
+U.S.C. 651 et seq.).
+SECTION 7.  ORS 654.416 is amended to read:
+654.416. (1) A health care employer shall maintain a record of assaults  committed against em-
+ployees that occur on the premises of the  health care employer or in the home of a patient receiving
+home health care services. The record shall include, but need not be limited to, the following:
+(a) The name and address of the premises on which each assault occurred;
+(b) The date, time and specific location where the assault occurred;
+(c) The name, job title and department or ward assignment of the employee who was assaulted;
+(d) A description of the person who committed the assault  as a patient, visitor, employee or
+other category;
+(e) A description of the assaultive behavior as:
+(A) An assault with mild soreness, surface abrasions, scratches or small bruises;
+(B) An assault with major soreness, cuts or large bruises;
+(C) An assault with severe lacerations, a bone fracture or a head injury; or
+(D) An assault with loss of limb or death;
+(f) An identification of the physical injury;
+(g) A description of any weapon used;
+(h) The number of  employees, including nursing staff as defined in ORS 441.179, in the immediate
+area of the assault when it occurred; and
+(i) A  description of actions taken by the employees and the health care employer in response
+to the assault.
+(2) A health care employer shall maintain the record of assaults described  in subsection (1) of
+this section for no fewer than five years following a reported assault.
+(3)(a) Upon the request of an employee or of  a workplace safety committee conducting a review
+pursuant to ORS 654.414, the health care employer  shall generate and make available to the re-
+questing party a report summarizing:
+(A) The information in the record required under subsection (1) of this section; and
+(B) Information regarding  work-related injuries and illnesses recorded by the health care em-
+ployer to comply with applicable federal health and safety recordkeeping requirements.
+(b) A report made available under this subsection:
+(A) May not include any personally identifiable information; and
+(B) May be used only for the purposes  of conducting a review of the [ assault] workplace vi-
+olence prevention and protection program under ORS 654.414 or for other purposes that are related
+to improving the program.
+Enrolled Senate Bill 537 (SB 537-B) Page 6
+(4) The Director of the Department of Consumer  and Business Services shall adopt by rule a
+common recording form for the purposes of this section.
+SAFETY REQUIREMENTS FOR HEALTH CARE SETTINGS
+(Identification Badges)
+SECTION 8.  ORS 441.096 is amended to read:
+441.096. (1) Except as provided in subsection (2)(b) of  this section,  a health care practitioner
+working at a health care facility and providing direct care to a patient shall wear  an identification
+badge indicating the practitioner’s name and professional title.
+(2)(a) A health  care facility shall develop policies that specify the size and content of the iden-
+tification badge required by subsection (1) of this section.
+(b) Except where applicable federal law or  rules and regulations require otherwise, no
+person working in a hospital, a home  health agency or a home hospice program shall be re-
+quired to wear an identification badge that includes the worker’s last name unless  the
+worker specifically requests that the badge include the worker’s last name.
+(3) As used in this section[ ,]:
+(a) “Health care facility” means :
+(A) A health care facility as defined in ORS 442.015 [ or], except for a hospital.
+(B) A mental  health facility, alcohol treatment facility or drug treatment facility licensed or
+operated under ORS chapter 426 or 430.
+(b) “Home health agency” has the meaning given that term in ORS 443.014.
+(c) “Home hospice program” has the meaning given that term in ORS 654.412.
+(d) “Hospital”  has the meaning given that term in ORS 441.760, except for the Oregon
+State Hospital.
+(Flagging Systems)
+SECTION 9.
+(1) As used in this section:
+(a) “Authorized staff” means  the staff of a covered entity who are responsible for cre-
+ating and tracking electronic health record flags.
+(b) “Covered entity” means:
+(A) A hospital as defined in ORS 441.760, except for the Oregon State Hospital.
+(B) A home health agency as defined in ORS 443.014.
+(C) A home hospice program as defined in ORS 654.412.
+(c) “Disruptive behavior” includes physically  aggressive, harassing or destructive behav-
+ior.
+(d) “Electronic health record” has the meaning given that term in ORS 413.300.
+(e) “Electronic health record flag”  means an alert generated within the electronic health
+record of a patient that  notifies providers that a patient may pose a potential safety risk to
+themselves or to others due to the patient’s history of violent or disruptive behavior.
+(f) “Flagging system” means a system used to identify, communicate,  monitor and man-
+age potential threats of violence or disruptive behavior  by patients or other individuals who
+may encounter health care providers and staff.
+(g) “Health care provider” or  “provider” has the meaning given those terms in ORS
+413.300.
+(h) “Visual flags”  means paper-based physical cues, including wristbands, signage, color-
+coded indicators, symbols and other visible  cues built within the care environment to facili-
+tate immediate recognition of potential threats of violence or disruptive behavior  without
+having to access an electronic health record.
+Enrolled Senate Bill 537 (SB 537-B) Page 7
+(2) A covered entity shall implement flagging  systems with the capabilities and functions
+to communicate potential threats of violence or disruptive behavior to providers and staff
+of the covered entity using electronic health record flags and visual flags.
+(3) Each covered  entity shall establish protocols and procedures regarding implementa-
+tion and use of flagging systems. At a minimum, the protocols and procedures must address:
+(a) For electronic health record flags and visual flags:
+(A) Criteria and  processes for initiation, continuation, inactivation and reactivation of
+such flags.
+(B) Requirements for new and revised electronic health record flags and visual flags that
+include:
+(i) The reasons for initiating or revising such flags; and
+(ii) Specific recommended actions that providers  and staff of the covered entity should
+take when interacting with a flagged individual.
+(b) For electronic health record flags:
+(A) Designating authorized staff to initiate an electronic health record flag.
+(B) Training and education requirements for persons authorized to initiate  an electronic
+health record flag, including training on identifying and preventing bias in  the assignment
+of such flags.
+(C) Provider and staff responsibilities when an electronic health record flag is present.
+(D) Evaluating and identifying potential threats of violence or disruptive behavior.
+(E) Consistent practices for assigning, tracking,  monitoring and documenting informa-
+tion in the electronic health record flag.
+(F) Reviewing and updating electronic health record flags, as necessary, for purposes  of
+determining whether to remove or maintain a flag.
+(G) Communication and collaboration about flagged  conduct or behaviors recorded in an
+electronic health record flag.
+(H) Safety protocols and precautions for engaging with patients with an electronic  health
+record flag.
+(I) Patient privacy in relation  to worker safety, including compliance with patient privacy
+requirements under the  federal Health Insurance Portability and Accountability Act privacy
+regulations, 45 C.F.R. parts 160 and 164 when communicating information through the elec-
+tronic health record regarding an electronic health record flag.
+(J) Requiring that every flag-related action, including but not  limited to initiation, con-
+tinuation, inactivation or reactivation, be  supported by a linked clinical note that documents
+the justification for the action.
+(K) Establishing a process by which a patient, or a person authorized to make health care
+decisions on  behalf of the patient, may request review and removal of an electronic health
+record flag.
+(c) For visual flags, education and training for authorized staff of a covered entity on:
+(A) Identifying circumstances and assessing behaviors and actions  of patients and other
+individuals that may increase risk for potential violence or disruptive behavior;
+(B) Consistent approaches to initiating a visual flag; and
+(C) Safety protocols and precautions to take when encountering patients  or other indi-
+viduals when a visual flag is present.
+(4) Providers and staff of a  covered entity may not take any of the following actions
+based solely on the presence of an electronic health record flag:
+(a) Deny admission to a program or service  provided by the covered entity to which the
+patient would otherwise be eligible.
+(b) Make decisions regarding the patient’s access to care.
+(c) Prevent or restrict the right of the patient to file a complaint with the  appropriate
+federal or state agency concerning the patient’s right to privacy.
+Enrolled Senate Bill 537 (SB 537-B) Page 8
+(d) Deny or restrict the patient’s right to access  or obtain the patient’s protected health
+information.
+(e) Contact, report or disclose information to law enforcement.
+(f) Deny, restrict or withhold  medical or nonmedical care that is appropriate for the pa-
+tient.
+(g) Punish or penalize the patient.
+(Bullet-Resistant Requirements for Emergency Rooms)
+SECTION 10.
+(1) As used in this section:
+(a) “Emergency  room intake window” means the designated area within an emergency
+department of a hospital where patients are registered.
+(b) “Hospital” has the meaning given that term in ORS 441.760, except for the  Oregon
+State Hospital.
+(2) Every hospital in this state shall be  required to install a bullet-resistant barrier or
+enclosure at each  emergency room intake window to provide a protective barrier between
+hospital employees and potential threats of violence.
+SECTION 11. Section 10 of this 2025 Act applies to any hospital that is newly constructed,
+or that undergoes renovations or  remodeling to the emergency department of the hospital,
+on or after the effective date of this 2025 Act.
+WORKER SAFETY IN HOME HEALTH CARE SETTINGS
+(Client Intake Requirements)
+SECTION 12. (1) As used in this section and section 13 of this 2025 Act:
+(a) “Client” means a person who receives home health care services.
+(b) “Client intake” means  the process of gathering information from new clients to fa-
+cilitate the provision of home health care services.
+(c) “Home health care services” means items and services furnished to an individual by
+a home  health care services entity, or by others under arrangements with such entity, on a
+visiting basis, in a place of temporary or permanent residence used as the individual’s  home
+for the purpose of maintaining that individual at home.
+(d) “Home health care services entity” means any  of the following entities that provide
+for the delivery of home health care services in a home health care setting:
+(A) A home health agency as defined in ORS 443.014.
+(B) A home hospice program as defined in ORS 654.412.
+(e) “Home health care setting” means a place  of temporary or permanent residence of
+an individual where home health care services are furnished to the individual.
+(f) “Home health care staff” means individuals who provide home health care services.
+(g) “Hospital” has the meaning given that term in ORS 441.760.
+(h) “Household individual” means an  individual, other than a client receiving home health
+care services, who is present or reasonably anticipated  to be present in the home health care
+setting within a specified time.
+(2) As part of any client intake process, a home health care services entity shall:
+(a) Collect information necessary to identify and assess potential health and  safety-
+related risks, including workplace violence  as defined in ORS 654.412, that home health care
+staff may encounter  while providing home health care services in home health care settings;
+(b) Provide such information, to the extent known by  the home health care services en-
+tity, to each home health  care staff who will be responsible for providing the home health
+care services; and
+(c) With respect to patients who are discharged from  a hospital and referred to the home
+health care services entity, provide to each home health care staff who will be responsible
+Enrolled Senate Bill 537 (SB 537-B) Page 9
+for providing the home health care  services to a client, any client history of violence that
+was made known to the home health care services entity as part of the continuity of care
+process.
+(3) Information collected by  a home health care services entity under subsection (2) of
+this section  may be gathered using a client intake questionnaire and must, at a minimum,
+inquire about the following:
+(a) The presence of pets at the home health care setting and whether  such pets, if any,
+can be secured away from the area  in which care is given, if so requested by the home health
+care staff.
+(b) Suspected pest infestations.
+(c) The willingness of the client to agree to securely store any weapons that  are present
+at the home health care setting prior to any visit by the home health care staff.
+(Training)
+SECTION 13.
+To support the safety of home health care staff while working in a home
+health care setting, each home health care services entity shall:
+(1) Provide training to home health care staff that:
+(a) Includes, but  is not limited to, training on recognizing hazards that are commonly
+encountered by home health care staff  in home health care settings and protocols for man-
+aging such hazards.
+(b) Is consistent with training for home health  care workers that is endorsed by the
+National Institute  for Occupational Safety and Health and the Occupational Safety and
+Health Administration.
+(2) Conduct quarterly safety assessments with home health  care staff who have been
+assigned to provide home health care services in a home health care setting.
+(3) Provide home health  care staff with identifying information that may be used to
+verify the identity of a client before an initial visit to a home health care setting.
+(4) Provide mechanisms by which home health care staff can  perform safety checks, in-
+cluding but not limited to the use of a mobile application to  access the relevant safety-
+related information collected by the home health care  services entity under section 12 of this
+2025 Act.
+(5) Establish and implement policies and procedures  that allow for home health care staff
+to:
+(a) Perform data entry and  chart updates at a time and place outside of the home health
+care setting.
+(b) Be accompanied by an escort, including but not  limited to another home health care
+staff, to a home health care setting when there are concerns about  safety or security with
+respect to the home health care setting.
+APPROPRIATIONS
+SECTION 14.
+In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Oregon Health Authority, for the biennium beginning July 1, 2025, out of the
+General Fund, the amount  of $394,554, for the Public Health Division, to ensure compliance
+with the building and safety requirements under sections 9, 10, 12 and 13 of  this 2025 Act and
+the amendments to ORS 441.096 by section 8 of this 2025 Act.
+CAPTIONS
+Enrolled Senate Bill 537 (SB 537-B) Page 10
+SECTION 15. The unit captions  used in this 2025 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2025 Act.
+Passed by Senate June 23, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 26, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 537 (SB 537-B) Page 11

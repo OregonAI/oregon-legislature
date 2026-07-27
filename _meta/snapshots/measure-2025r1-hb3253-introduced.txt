@@ -1,0 +1,165 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3253
+Sponsored by Representative EVANS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act changes how counties review the siting of a telecom tower. (Flesch Readability
+Score:  60.7).
+Establishes review criteria for telecommunications towers to be  applied by counties. Requires
+existing telecommunications towers to comply with criteria by January 1, 2032.
+A BILL FOR AN ACT
+Relating to technology support structures.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 to 4 of this 2025 Act are added to and  made a part of ORS chapter
+215.
+SECTION 2. (1) As used in this section:
+(a) “Telecommunications tower” includes  a personal wireless service facility, a broadcast
+communications facility and other technological communications facilities.
+(b) “Telecommunications tower” does not include a roof-mounted,  building-integrated or
+building-mounted communications structure unless the structure:
+(A) Exceeds the height limitation of the zone; or
+(B) Extends more than an additional five  feet above the highest ridge of the building’s
+roof or 15 feet above the highest eave, whichever is higher.
+(2) The development, replacement, alteration, modification  or reconstruction of a tele-
+communications tower is not allowed except through a county’s  administrative review of an
+application filed under subsection (4) of this section or approval of a permit filed under sub-
+section (5) of this section.
+(3) A telecommunications tower application must:
+(a) Identify all communications providers that will colocate on the tower;
+(b) Identify all existing telecommunications towers and all properties  that have obtained
+approval for a telecommunications tower within two miles of the proposed tower location;
+(c) Include certification by a professional engineer that the  construction will comply with
+structural standards for a telecommunications tower;
+(d) Demonstrate that the applicant has legal access to any private road necessary to ac-
+cess the tower and that the applicant is obligated to improve and maintain the  private road;
+and
+(e) Include a site-specific study identifying  the tower site and demonstrating how the
+materials, surfacing and coloration used on the tower and associated fixtures will  appropri-
+ately blend into the background, match the surrounding environment  and minimize glare,
+including by stealth construction or concealed towers.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3476
+HB 3253
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+(4) An application may be approved by  administrative review only if the application in-
+cludes evidence that the telecommunications tower will not:
+(a) Have fewer than two communications providers colocate on the tower, or fewer  than
+three communications providers colocate on the tower if the  tower is more than 100 feet in
+height;
+(b) Be sited within two miles of  any other telecommunications tower upon which the mile
+radius of the tower will be unavailable or would not meet service coverage needs;
+(c) Be more than 180 feet in height;
+(d) If located within an urban growth boundary, be more than 40 feet in height;
+(e) Be a monopole construction;
+(f) Require electronic lighting or reflective material except  as required by Federal Avi-
+ation Administration regulations or other federal or state law;
+(g) Include a whip  antenna that will exceed the height of the tower by more than 20 feet;
+or
+(h) Include a directional or parabolic antenna that will exceed seven feet  in diameter or
+width or 14 feet in height if attached to a tower.
+(5) Approval of  a telecommunications tower that is not permitted under subsection (4)
+of this section may be  approved only by permit under ORS 215.402 to 215.438. An application
+for a telecommunications tower permit under this subsection must demonstrate:
+(a) Why the tower cannot be approved through an application filed under subsection  (4)
+of this section;
+(b) Coverage limitations;
+(c) The type of system, including broadcast or cellular signal;
+(d) Technical and engineering feasibility of the tower;
+(e) Public safety features of the tower; and
+(f) Compliance with other requirements of local, state and federal agencies.
+(6) The owner of a telecommunications tower that has  not operated for more than 18
+months shall decommission and remove the tower.
+(7) A county may impose a fine of up to $7,500 against the  owner of any telecommuni-
+cations tower that does not comply with this section.
+SECTION 3.
+Notwithstanding section 2 of this 2025 Act, counties that have enacted de-
+velopment standards or procedures that are similarly prescriptive  to section 2 of this 2025
+Act relating to the  approval of, aesthetics for and permissible locations of telecommuni-
+cations towers may continue to apply those standards  and procedures to all applications to
+develop, replace, alter, modify or reconstruct a telecommunications tower that are  filed be-
+fore January 1, 2030.
+SECTION 4. No later than January 1, 2032, notwithstanding any county  permit or any
+other order or decision issued before the effective date of this 2025 Act, the owner of a
+telecommunications tower constructed prior to the effective  date of this 2025 Act must have
+the tower approved as a modification under section 2 (2) or 3 of this 2025 Act or must  de-
+commission and remove the tower.
+SECTION 5.
+Section 3 of this 2025 Act is repealed on January 2, 2032.
+[2]

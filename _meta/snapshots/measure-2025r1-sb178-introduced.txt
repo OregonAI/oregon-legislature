@@ -1,0 +1,246 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 178
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Judiciary)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act lets the DA charge a fee before providing  discovery. (Flesch Readability Score:
+64.9).
+Provides that a district attorney may require the payment of a  fee reasonably calculated to re-
+imburse costs before providing discovery to a defendant.
+A BILL FOR AN ACT
+Relating to discovery; amending ORS 135.805 and 135.815.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 135.805 is amended to read:
+135.805. (1) The provisions of ORS 135.805 to 135.873 are applicable  to all criminal prosecutions
+in which the charging instrument has been brought in a court of record.
+(2) Except as otherwise provided in  subsection (3) of  this section,  a protective order entered
+under ORS 135.873, or any other provision of law prohibiting or restricting the  disclosure of specific
+material or information, as used in ORS 135.805 to 135.873, “disclose” means to provide:
+(a) A copy of the material,  including but not limited to any document, photograph, report, audio
+recording, video recording or electronically stored information;
+(b) The opportunity to inspect and photograph tangible physical evidence; and
+(c) The opportunity to conduct independent testing  of tangible physical evidence, provided that
+the testing does not destroy the evidence.
+(3) The meaning of “disclose” described in  subsection  (2)(a) of this section does not apply to
+any material that contains depictions  of sexually explicit conduct involving a child, as those terms
+are defined in ORS 163.665.
+(4) As used in ORS 135.805 to 135.873, “district attorney” includes a  district attorney, a
+deputy district attorney, a municipal prosecutor, the Attorney General and an assistant at-
+torney general acting in the role of a prosecutor at the trial court level.
+SECTION 2.
+ ORS 135.815 is amended to read:
+135.815. (1) Except as otherwise  provided in ORS 135.855 and 135.873, the district attorney shall
+disclose  or otherwise  make available  to a represented defendant the following material and infor-
+mation within the possession or control of the district attorney:
+(a) The names, addresses and telephone  numbers of persons whom the district attorney intends
+to call as witnesses at any stage of the trial, together with their relevant written or recorded
+statements or memoranda of any oral statements of such persons.
+(b) Any written or recorded statements or memoranda  of any oral statements made by the de-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2317
+SB 178
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+fendant, or made by a codefendant if the trial is to be a joint one.
+(c) Any reports or statements  of experts, made in connection with the particular case, including
+results of physical  or mental examinations and of scientific tests, experiments or comparisons which
+the district attorney intends to offer in evidence at the trial.
+(d) Any books, papers, documents, photographs or tangible objects:
+(A) Which the district attorney intends to offer in evidence at the trial; or
+(B) Which were obtained from or belong to the defendant.
+(e) If actually known to the district attorney,  any record of prior criminal convictions of persons
+whom the  district attorney intends to call as witnesses at the trial; and the district attorney shall
+make a good faith effort to determine if such convictions have occurred.
+(f) All prior convictions of the defendant known to the state that would affect the determination
+of the defendant’s criminal history for  sentencing under rules of the Oregon Criminal Justice Com-
+mission.
+(g) Any material or information that tends to:
+(A) Exculpate the defendant;
+(B) Negate or mitigate the defendant’s guilt or punishment; or
+(C) Impeach a person the district attorney intends to call as a witness at the trial.
+(2)(a) The disclosure required by subsection (1)(g) of this section:
+(A) Shall occur regardless of whether the material or information is recorded or in writing.
+(B) Shall  occur without delay in accordance with ORS 135.845 and prior to the entry of any
+guilty plea pursuant to an agreement with the state. If the existence of the material or information
+is not known at that time, the disclosure shall be made upon discovery without regard to  whether
+the represented defendant has entered or agreed to enter a guilty plea.
+(b) Nothing in subsection (1)(g) of this section:
+(A) Expands any obligation under a statutory  provision or the Oregon or United States Consti-
+tution to disclose, or right  to disclosure of, personnel or internal affairs files of law enforcement
+officers.
+(B) Imposes any obligation  on the district attorney to provide material or information beyond
+the obligation imposed by the Oregon and United States Constitutions.
+(3) Except as otherwise provided  in ORS 135.855 and 135.873, in prosecutions for violation of
+ORS 813.010 in which an  instrument was used to test a person’s breath, blood or urine to determine
+the alcoholic  content of the person’s blood the district attorney shall disclose to a represented de-
+fendant at least  the following material and information within the possession or control of the dis-
+trict  attorney:
+(a) Any report prepared by  a police officer relating to field tests, interviews, observations and
+other information relating to the charged offense;
+(b) Any report relating to the test results;
+(c) A copy of the form provided to the defendant under ORS 813.100 (2)(b); and
+(d) Any checklist prepared by the operator of the instrument for the test.
+(4)(a) If a defendant is not represented by a lawyer, the  district attorney shall disclose  or oth-
+erwise make available  to the defendant all of the information described in subsections (1)  and (3)
+of this section except for the personal identifiers of the victim and any witnesses.
+(b) Notwithstanding paragraph (a)  of this subsection, the district attorney shall disclose the
+personal identifiers of the victim and any witnesses if the trial court orders the disclosure. A trial
+court  shall  order the district attorney to disclose the personal identifiers of the victim and any
+[2]
+SB 178
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+witnesses if the trial court finds that:
+(A) The defendant has requested the information; and
+(B)(i) The victim or witness is a business or institution and disclosure of the information would
+not represent a risk of harm to the victim or witness; or
+(ii) The need for the information cannot reasonably be met by other means.
+(5)(a) Unless authorized by the trial court to disclose the information, a lawyer  representing a
+defendant, or a representative of the lawyer, may  not disclose to the defendant personal identifiers
+of a victim or witness obtained under subsections (1) and (3) of this section.
+(b) The trial court shall  order the lawyer, or representative of the lawyer, to disclose to the
+defendant the personal identifiers of a victim or witness if the court finds that:
+(A) The defendant’s lawyer has requested the district attorney to disclose the  information to the
+defendant;
+(B) The district attorney has refused to disclose the information to the defendant; and
+(C) The need for the information cannot reasonably be met by other means.
+(6) The district attorney may charge  a fee reasonably calculated to reimburse costs be-
+fore disclosing or  otherwise providing the material or information described in this section
+to the defendant  or the defendant’s lawyer. Costs that may be taken into account when cal-
+culating the fee include but are not limited to:
+(a) Time spent by district attorney employees reviewing,  redacting, compiling, formatting
+or otherwise preparing discovery materials.
+(b) Physical discovery materials including paper documents,  reports and photographs,
+audio recordings, video recordings and  storage media for electronically stored information
+including compact discs, flash drives, hard drives and similar items.
+(c) Overhead costs including wear and tear  on equipment used to prepare discovery ma-
+terials and building maintenance.
+[(6)] (7) As used in this section:
+(a) “Personal identifiers” means:
+(A) In relation to a witness, the witness’s address, telephone  number, Social Security number
+and date of birth and the identifying number of the  witness’s depository account at a financial in-
+stitution, as defined in ORS 706.008, or credit card account.
+(B) In relation to a victim, the victim’s address, electronic mail  address, telephone number, So-
+cial Security number, date of birth,  any user names or other identifying information associated with
+the victim’s social media accounts and the identifying number of the victim’s  depository account at
+a financial institution, as defined in ORS 706.008, or credit card account.
+(b) “Representative of the lawyer” has the meaning given that term in ORS 40.225.
+(c) “Represented defendant” means a defendant who is represented  by a lawyer in a criminal
+action.
+(d) “Social media” has the meaning given that term in ORS 659A.330.
+[3]

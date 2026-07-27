@@ -1,0 +1,100 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1172
+Sponsored by COMMITTEE ON JUDICIARY
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that harassment is not a crime that can lead to a DV gun  prohibition un-
+der state law. (Flesch Readability Score: 76.2).
+Provides that the crime  of harassment is not a qualifying misdemeanor for purposes of the
+statute prohibiting the possession of firearms and ammunition based on being the subject  of certain
+court orders or being convicted of certain crimes.
+A BILL FOR AN ACT
+Relating to firearm prohibitions based on certain convictions; amending ORS 166.255.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 166.255 is amended to read:
+166.255. (1) It is unlawful for a person to knowingly possess a firearm or ammunition if:
+(a) The person is the subject of a court order that:
+(A)(i) Was issued or continued after  a hearing for which the person had actual notice and during
+the course of which the person had an opportunity to be heard; or
+(ii) Was issued, continued or remains in effect, by order or operation of law, after the  person
+received notice of the  opportunity to request a hearing in which to be heard on the order, and either
+requested a hearing but did not attend the hearing or withdrew the request before  the hearing oc-
+curred, or did not request a hearing during the time period in which  the opportunity was available;
+(B) Restrains the person from stalking,  intimidating, molesting or menacing a family or house-
+hold member of the person, a child of a family or household member of the person or a  child of the
+person; and
+(C) Includes a  finding that the person represents a credible threat to the physical safety of a
+family or household member of the person, a child of  a family or household member of the person
+or a child of the person;
+(b) The person has been convicted of a qualifying misdemeanor and, at the  time of the offense,
+the person was:
+(A) A family or household member of the victim of the offense; or
+(B) A parent or guardian of the victim of the offense; or
+(c) The person has been convicted of stalking under ORS 163.732.
+(2) The prohibition  described in subsection (1)(a) of this section does not apply with respect to
+the transportation, shipment, receipt, possession or importation of any firearm or  ammunition im-
+ported for, sold or shipped to or issued for the use of the United States Government or  any federal
+department or agency, or any state or department, agency or political subdivision of a state.
+(3) As used in this section:
+(a) “Convicted” means:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4190
+SB 1172
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+(A) The person was represented by counsel  or knowingly and intelligently waived the right to
+counsel;
+(B) The case was tried to a jury, if the crime was  one for which the person was entitled to a
+jury trial, or the person knowingly and intelligently waived the person’s right to a jury trial; and
+(C) The conviction has not been set aside or expunged, and the person has not been pardoned.
+(b) “Deadly weapon” has the meaning given that term in ORS 161.015.
+(c) “Family or household member” has the meaning given that term in ORS 135.230.
+(d) “Possess” has the meaning given that term in ORS 161.015.
+(e)(A) “Qualifying misdemeanor” means a misdemeanor that has, as  an element of the offense,
+the use or attempted use of physical force or the threatened use of a deadly weapon.
+(B) “Qualifying misdemeanor” does not include harassment under ORS 166.065.
+[2]

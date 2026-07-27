@@ -1,0 +1,230 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 978
+Sponsored by COMMITTEE ON EDUCATION
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Requires school districts and ESDs to  prepare a report about legal acts occurring during
+the school year. (Flesch Readability Score: 60.1).
+Requires school districts and education service districts to  prepare an annual report of the legal
+processes involved in by the district during the school year, including the legal expenditures of the
+district for the school year.
+A BILL FOR AN ACT
+Relating to legal processes  involving education districts; creating new provisions; and amending
+ORS 334.240.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “504 Plan”  means an education plan developed for a student in accordance with sec-
+tion 504 of the Rehabilitation Act of 1973, 29 U.S.C. 794.
+(b) “Related services” has the meaning given that term in ORS 343.035.
+(c) “Special education” has the meaning given that term in ORS 343.035.
+(2) Each school district shall prepare an annual report that summarizes the legal expen-
+ditures of  the school district and the legal processes involved in by the school district, as
+described in subsections (3) to (5) of this section.
+(3) The report required under this section must include the total amount  paid for legal
+expenditures during the school year, including amounts paid during the school year:
+(a) To law firms or attorneys who are not employees of the school district, disaggregated
+by total amount paid to each attorney or firm and including current accounts payable.
+(b) To attorneys  employed by the school district, including salaries, bonuses and other
+compensation.
+(c) For legal services related to special education and related services  or to 504 Plans,
+including:
+(A) General legal guidance;
+(B) Private study or learning groups led through a law firm or by an attorney;
+(C) Training related  to special education and related services purchased through a law
+firm or from an attorney;
+(D) Attendance  at meetings for special education and related services or for 504 Plans;
+and
+(E) Legal services provided  for mediations, for complaints filed with the Department of
+Education and for lawsuits filed in state or federal court.
+(d) For legal services related to contract negotiations,  internal investigations, personnel
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2108
+SB 978
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+actions and other labor relations, including:
+(A) General legal guidance;
+(B) Private study or learning groups led through a law firm or by an attorney;
+(C) Training in negotiations or human resources purchased through  a law firm or from
+an attorney;
+(D) Attendance at disciplinary meetings or at appeals to disciplinary actions; and
+(E) Legal services provided for  complaints filed by employees or volunteers and for
+lawsuits filed in state or federal court.
+(e) To students or families for settlements or judgments, disaggregated by payment for:
+(A) Whether the payment was for a settlement or a judgment;
+(B) Attorney fees and other costs; and
+(C) Controversies related to special  education and related services, 504 Plans or other
+controversies.
+(f) To employees or volunteers  for settlements or judgments, disaggregated by payment
+for:
+(A) Whether the payment was for a settlement or a judgment; and
+(B) Attorney fees and other costs.
+(g) To a prevailing party not  identified in paragraph (e) or (f) of this subsection for
+settlements or judgments, disaggregated by payment for:
+(A) Whether the payment was for a settlement or a judgment; and
+(B) Attorney fees and other costs.
+(4) The  report required by this section must include the total number of each of the fol-
+lowing legal processes for the school district for the school year:
+(a) Mediations related to special education and related services.
+(b) Formal complaints  filed with the Department of Education related to special educa-
+tion and related services, including due process claims.
+(c) Formal complaints filed with the department related to discrimination.
+(d) Lawsuits filed and  lawsuits resolved in state or federal court against the school dis-
+trict related to special education and related services.
+(e) Lawsuits filed and lawsuits resolved in state or federal court  against the school dis-
+trict that were not related to special education and related services.
+(f) Contested adverse employment actions.
+(5) The report  required by this section must include the case number and the names of
+the parties of any action brought against the school  district that was active in any state or
+federal court during the school year.
+(6) No later than October 15 of the year following the school  year for which the report
+is prepared, each school district  must ensure that the report is made available on the school
+district’s website and is provided to:
+(a) The district school board; and
+(b) The Department of Education in the form and manner  prescribed by the department.
+(7) No later than January 15 of the year  following receipt of the information described
+in subsection (6) of this section, the Department of Education shall:
+(a) Compile the information received under subsection (6) of this section and ORS 334.240
+into a single report that allows for transparency and accountability;
+(b) Make available the report prepared under paragraph (a) of  this subsection on the
+[2]
+SB 978
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+department’s website; and
+(c) Provide a summary of the report prepared under paragraph (a) of this subsection to
+the interim committees of the Legislative Assembly related to education and to the education
+subcommittee of the Joint Interim Committee on Ways and Means.
+SECTION 2.
+ ORS 334.240 is amended to read:
+334.240. (1) Except as  provided in subsection (2) of this section, the education service district
+board shall be subject [ in all respects ] to ORS 294.305 to 294.565,  except that , in addition to other
+qualifications, members of  the budget committee who are not members of the education service dis-
+trict board shall be members of component school district boards within the education  service dis-
+trict or shall be designees of a school district board.
+(2) Notwithstanding ORS 294.414 and 294.423, a majority  of the members of the budget commit-
+tee of an education service district must consist of members of the component school district  boards
+or designees of a  school district board. The budget committee may meet to conduct business if the
+education service district board is unable to fill all of the positions on the budget committee.
+(3) The budget committee shall prepare  a budget for the operational and administrative expenses
+of the education service district. The budget shall include amounts necessary to provide  services
+required by the local service plan of the district developed under ORS 334.175. The budget must  be
+adopted by the board of the education service district.
+(4) The board of the education service district shall ensure that :
+(a) An annual  audit of the accounts of the education service district is prepared in accordance
+with the Municipal Audit Law, as provided in ORS 297.405 to 297.555 and 297.990.
+(b) An annual report that summarizes the legal expenditures of the education service
+district and the legal processes involved in by  the education service district, as described in
+section 1 of this 2025 Act, is prepared and is:
+(A) Made available on the education service district’s website; and
+(B) Provided to the board of directors of the education service district and to the De-
+partment of Education.
+SECTION 3.
+Section 1 of this 2025 Act and the amendments to ORS 334.240 by  section 2
+of this 2025 Act first apply to the 2025-2026 school year.
+[3]

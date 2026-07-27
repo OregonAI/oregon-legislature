@@ -1,0 +1,104 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2430
+Sponsored by Representative WRIGHT, Senator WEBER; Representatives LEVY B, RESCHKE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act increases EV reg fees. (Flesch Readability Score: 87.9).
+Increases the additional amount paid for electric vehicle registration.
+A BILL FOR AN ACT
+Relating to  electric vehicle registration; creating new provisions; amending ORS 366.766, 366.810 and
+803.422; and providing for revenue raising that requires approval by a three-fifths majority.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 803.422 is amended to read:
+803.422. (1) As used in  this section, “miles per gallon” or “MPG” means the distance traveled
+in a vehicle powered by one gallon of fuel.
+(2) The Department of Transportation shall determine  the combined MPG ratings for each motor
+vehicle pursuant to a method determined by the department.
+(3) Except as provided in ORS 319.890 (3), in addition to the  registration fees prescribed under
+ORS 803.420 (6)(a), there shall be paid for each year of the registration period, an  additional amount
+as follows:
+(a) For vehicles that have a rating of 0-19 MPG, $20.
+(b) For vehicles that have a rating of 20-39 MPG, $25.
+(c) For vehicles that have a rating of 40 MPG or greater, $35.
+(d) For electric vehicles, [ $115] $200.
+SECTION 2.
+(1) The amounts attributable to the increase in vehicle registration sur-
+charge fees by  the amendments to ORS 803.422 by section 1 of this 2025 Act shall be deposited
+in the State Highway Fund and allocated for distribution as follows:
+(a) 50 percent to the Department of Transportation.
+(b) 30 percent  shall be appropriated for distribution among the several counties for de-
+posit in the highway funds of the counties.
+(c) 20 percent shall be appropriated for distribution among the several cities for deposit
+in the highway funds of the cities.
+(2) Distributions among the counties and cities under subsection (1)(b) and (c) of  this
+section shall be made in the proportion that the number  of electric vehicles registered to an
+address in each county or city bears  to the total number of electric vehicles registered in
+this state to an address in all counties and cities, respectively.
+SECTION 3.
+ ORS 366.766 is amended to read:
+366.766. The [ appropriation] appropriations made by ORS 366.762 and section 2 of this 2025
+Act shall be remitted to the counties on a monthly basis within 35 days after the end of  the month
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1874
+HB 2430
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+for which a distribution is made in an  amount determined in ORS 366.739 and 366.762 and section
+2 of this 2025 Act  and credited to the highway fund for such remittance.
+SECTION 4.
+ ORS 366.810 is amended to read:
+366.810. Funds accrued and  payable to cities under ORS 366.785 to 366.820 and section 2 of this
+2025 Act  shall be  remitted on a monthly basis within 35 days after the end of the month for which
+a distribution  is made by the Department of Transportation to the financial officer of each city. The
+funds appropriated shall be apportioned on or before the last day  of each month by the department,
+which shall certify to the apportionment. Upon such  certification, warrants shall be drawn payable
+to the cities in the amounts set out.
+SECTION 5. The amendments to ORS 803.422 by section 1 of this 2025 Act apply to reg-
+istration periods for electric vehicles  occurring on or after the effective date of this 2025 Act.
+[2]

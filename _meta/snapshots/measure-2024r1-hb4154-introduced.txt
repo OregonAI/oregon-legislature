@@ -1,0 +1,398 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4154
+Sponsored by Representatives PHAM  H, SOSA, WALLAN, BYNUM, DIEHL, LIVELY, NERON, WALTERS, Sen-
+ators CAMPOS, KNOPP,  SOLLMAN; Representatives BOWMAN, DEXTER, GOMBERG, GRAYBER, HELM,
+HUDSON, LEVY E, MANNIX, MCINTIRE, NGUYEN D,  NGUYEN H, OSBORNE, RESCHKE, REYNOLDS,
+RUIZ, Senators DEMBROW, FREDERICK, HANSELL, JAMA, MEEK, WOODS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Creates a fund to help the electronic chip industry. The Act becomes law 91 days after
+adjournment. (Flesch Readability Score: 63.8).
+Establishes the  Semiconductor Talent Sustaining Fund and subaccounts of the fund. Requires
+the Higher Education Coordinating Commission to allocate moneys from the  fund and subaccounts
+to provide education, training and research to assist the semiconductor industry.
+Requires the commission to establish  a statewide semiconductor industry consortium for the
+purpose of developing  a comprehensive statewide strategy to guide investments and build educa-
+tional pathways and research  capacity for the semiconductor industry and to make recommendations
+to the commission on how best to allocate moneys in the Semiconductor  Talent Sustaining Fund and
+subaccounts.
+Requires the consortium to submit a report  to the Legislative Assembly every two years de-
+tailing progress and investments made to improve semiconductor education and research.
+Requires the commission to award a series of grants to identified entities.
+Sunsets the Semiconductor Talent Sustaining Fund and subaccounts on January 2, 2030.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to semiconductors; and prescribing an effective date.
+Whereas the  federal Creating Helpful Incentives to Produce Semiconductors (CHIPS) Act of
+2022, commonly  called the CHIPS and Science Act, plans to boost domestic research and manufac-
+turing of semiconductors in the United States; and
+Whereas the Oregon Semiconductor Competitiveness Task Force produced recommendations  to
+take advantage of a once-in-a-generation opportunity  for equitable prosperity by intentionally cre-
+ating jobs and investments for a stronger state economy; and
+Whereas the Oregon Legislative Assembly’s passage of  Senate Bill 4 in 2023 directed funding
+through a competitive process to be utilized by companies applying for CHIPS grants for investments
+in the Oregon manufacturing facilities and workforces; and
+Whereas the Governor has announced  SB 4 applications create a potential demand for over
+6,000 new semiconductor-related jobs, and there is an urgent  need to create semiconductor talent
+pathways across Oregon’s education system, from  K-12 STEM through community colleges and uni-
+versities; and
+Whereas Oregon State University, along with the  University of Oregon and the Oregon Health
+and Science University, has a federal planning grant directly related to semiconductors,  including
+a Tech Hub designation focused on microfluidics technologies, that proposes to develop an
+ecosystem that stimulates, drives and supports commercialization of microfluidics-connected tech-
+nologies in the focus areas of semiconductor thermal management and high-performance computing,
+biotechnology, advanced energy technologies, and advanced materials and manufacturing; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 183
+HB 4154
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Whereas Oregon State University  has an additional federal planning grant to develop a Regional
+Innovation Engine, in  partnership with other universities, community colleges and industry partners
+throughout  Oregon,  Washington and Idaho, to advance semiconductor technologies, accelerate
+workforce development programs  and reach populations and areas traditionally underserved in the
+industry; and
+Whereas combined, these two programs could bring over $200 million in federal funding  into the
+region and include significant workforce development; and
+Whereas fulfilling the Oregon Semiconductor Competitiveness Task  Force’s recommendations to
+expand capacity to serve the semiconductor talent pipeline  will enable companies to make good on
+their pledges to invest up to $40 billion in Oregon communities and hire 6,000 new employees; and
+Whereas expanded capacity to serve and  expand the semiconductor talent pipeline will be in-
+strumental to securing additional federally supported industry investments based  on CHIPS and
+Science Act requirements and industry requirements for talent availability; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Higher Education Coordinating Commission shall establish a  state-
+wide semiconductor industry consortium that is composed of  representatives from the
+semiconductor industry, educational institutions, workforce organizations and community-
+based organizations.
+(2) The consortium established under subsection (1) of this section shall:
+(a) Develop a comprehensive statewide strategy  to guide investments and build educa-
+tional pathways and research capacity for the semiconductor industry in a manner that:
+(A) Addresses the semiconductor industry’s most demonstrated and pressing needs;
+(B) Advances a more diverse workforce, with a  focus on increasing career opportunities
+for historically underrepresented youth and adults;
+(C) Utilizes the information  compiled in and recommendations made by the commission’s
+semiconductor talent and workforce investment assessment;
+(D) Produces the greatest educational benefit with the least  short-term and long-term
+cost to the public;
+(E) Avoids duplicating existing public or private resources;
+(F) Leverages existing and future private and federal resources for the public benefit;
+(G) Makes investments with measurable  outcomes to ensure strong linkage between the
+most urgent semiconductor education needs and the implemented solutions;
+(H) Maximizes the leverage of state investment funds to build  faculty and program ca-
+pacity and share existing and new faculty and program resources; and
+(I) Creates new economic growth and pathways to opportunity across the state; and
+(b) Make recommendations to the commission  on how best to allocate moneys deposited
+into the Semiconductor Talent Sustaining Fund established in section 2  of this 2024 Act and
+the subaccounts of the fund. These recommendations must include:
+(A) Criteria and measurements for the commission to use when allocating moneys; and
+(B) Recommendations for  future funding requests that the commission should make to
+the Legislative Assembly.
+(3)(a) The commission shall allocate moneys from the Semiconductor Talent Sustaining
+Fund established in section 2 of this 2024 Act, and the subaccounts of the fund, to  provide
+education, training and research to assist the semiconductor industry in:
+(A) Propelling industry innovation and productivity; and
+[2]
+HB 4154
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) Providing careers to residents of this state who receive technical certificates, cre-
+dentials, technical degrees, associate degrees, bachelor’s degrees and graduate-level  degrees
+in fields related to semiconductors.
+(b) When making allocations under this subsection, the commission must consider the
+recommendations made by the consortium under subsection (2)(b) of  this section. If the
+commission elects not to follow one or more recommendations made by the consortium,  the
+commission shall submit a written explanation for its decision to the consortium.
+(4) No later  than January 2, 2025, and at least once every two years thereafter, the con-
+sortium shall submit a report in the  manner provided by ORS 192.245 to the interim com-
+mittees of the Legislative Assembly related to business  and labor, detailing the progress and
+investments made to improve semiconductor education and research under this section.
+SECTION 2.
+(1) The Semiconductor Talent  Sustaining Fund is established in the State
+Treasury, separate and distinct from the General Fund. Interest earned by  the Semiconduc-
+tor Talent Sustaining Fund shall be credited to the fund.
+(2) Moneys in the Semiconductor Talent Sustaining Fund shall consist of:
+(a) Amounts donated to the fund from individuals, private organizations  and state or
+federal governmental entities;
+(b) Amounts appropriated or otherwise transferred to the fund by the  Legislative As-
+sembly; and
+(c) Interest earned by the fund.
+(3) Moneys in the fund are  continuously appropriated to the Higher Education Coordi-
+nating Commission for the purposes of supporting the semiconductor  industry in the manner
+described in section 1 (3) of this 2024 Act.
+SECTION 3.
+(1) There is established within the Semiconductor Talent  Sustaining Fund
+the STEM Education and Work-Based Learning Subaccount. Interest earned by the  STEM
+Education and Work-Based Learning Subaccount shall be credited to the subaccount.
+(2) Moneys in the STEM Education and Work-Based Learning  Subaccount shall consist
+of:
+(a) Amounts donated to the subaccount from individuals,  private organizations and state
+or federal governmental entities;
+(b) Amounts appropriated or otherwise transferred to the subaccount  by the Legislative
+Assembly; and
+(c) Interest earned by the subaccount.
+(3) Moneys in the subaccount are continuously  appropriated to the Higher Education
+Coordinating Commission for the purposes of  supporting the semiconductor industry in the
+manner described in section 1 (3) of this 2024 Act, with a particular focus on expanding STEM
+education and work-based learning, and increasing awareness of STEM career pathways.
+SECTION 4.
+(1) There is established within the Semiconductor Talent  Sustaining Fund
+the Workforce Training Subaccount. Interest earned by the Workforce Training Subaccount
+shall be credited to the subaccount.
+(2) Moneys in the Workforce Training Subaccount shall consist of:
+(a) Amounts donated to the subaccount from individuals,  private organizations and state
+or federal governmental entities;
+(b) Amounts appropriated or otherwise transferred to the subaccount  by the Legislative
+Assembly; and
+[3]
+HB 4154
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Interest earned by the subaccount.
+(3) Moneys in the subaccount are continuously  appropriated to the Higher Education
+Coordinating Commission for the purposes of  supporting the semiconductor industry in the
+manner described in section 1 (3) of this 2024 Act, with a particular focus on  building ca-
+pacity and  strengthening workforce training for the semiconductor industry at the
+prebaccalaureate level.
+SECTION 5.
+(1) There is established within the Semiconductor Talent Sustaining Fund
+the Advanced Degree Workforce Training Subaccount. Interest  earned by the Advanced De-
+gree Workforce Training Subaccount shall be credited to the subaccount.
+(2) Moneys in the Advanced Degree Workforce Training Subaccount shall consist of:
+(a) Amounts donated to the subaccount from individuals,  private organizations and state
+or federal governmental entities;
+(b) Amounts appropriated or otherwise transferred to the subaccount  by the Legislative
+Assembly; and
+(c) Interest earned by the subaccount.
+(3) Moneys in the subaccount are continuously  appropriated to the Higher Education
+Coordinating Commission for the purposes of  supporting the semiconductor industry in the
+manner described in section 1 (3) of this 2024 Act, with a particular focus on  building ca-
+pacity and  strengthening workforce training for the semiconductor industry at the
+baccalaureate, graduate and research levels.
+SECTION 6.
+Sections 1 to 5 of this 2024 Act are repealed on January 2, 2030.
+SECTION 7. In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the Higher Education Coordinating Commission, for the biennium  ending June 30,
+2025, out of the General Fund, the amount of $14,900,000 for the following purposes:
+(1) A $3,000,000 grant to the University of  Oregon to expand and modernize training fa-
+cilities for workforce development related to the semiconductor industry;
+(2) A $2,900,000 grant to Portland State  University to establish a center for semiconduc-
+tor research, education and workforce development;
+(3) A  $3,000,000 grant to Oregon State University to invest in semiconductor
+infrastructure including faculty, graduate students, equipment and curriculum development;
+(4) A $1,000,000 grant  for Oregon Institute of Technology for semiconductor manufac-
+turing training facilities in Klamath Falls;
+(5) A $2,500,000 grant to Portland Community College to:
+(a) Increase career readiness connections for students in high school  and adult learners;
+(b) Expand stackable micro-credential, certificate and apprenticeship programs;
+(c) Provide tuition assistance and support to students pursuing semiconductor workforce
+training; and
+(d) Support faculty and staff; and
+(6) A $2,500,000 grant to Mt. Hood Community College to build the  semiconductor career
+pipeline, with a  focus on historically underserved populations, through career awareness,
+expansion of stackable credentials, increasing skills of incumbent workers,  tuition assistance
+and support to students, supporting faculty and staff.
+SECTION 8.
+The Semiconductor Talent Sustaining Fund established under section  2 of
+this 2024 Act, and  all subaccounts of the fund, are abolished. Any moneys remaining in the
+fund or subaccounts on the  operative date specified in section 9 of this 2024 Act shall be
+[4]
+HB 4154
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+transferred to the General Fund for general government purposes.
+SECTION 9.
+Section 8 of this 2024 Act becomes operative on January 2, 2030.
+SECTION 10. In addition to and not in lieu of any other  appropriation, there is appro-
+priated to the Higher Education Coordinating Commission, for the biennium ending June  30,
+2025, out of the General Fund, the  amount of $_________, for the purpose of establishing the
+consortium described in section 1 of this 2024 Act.
+SECTION 11. In addition to and not in lieu of any other  appropriation, there is appro-
+priated to  the Higher Education Coordinating Commission, for deposit into the following
+subaccounts of the Semiconductor Talent Sustaining Fund, for  the biennium ending June 30,
+2025, out of the General Fund, the following amounts:
+(1) $5,000,000 shall be deposited into the STEM Education and Work-Based  Learning
+Subaccount established in section 3 of this 2024 Act for the  purposes described in section 3
+of this 2024 Act;
+(2) $5,000,000 shall be deposited into the Workforce Training Subaccount established in
+section 4 of this 2024 Act for the purposes described in section 4 of this 2024 Act; and
+(3) $5,000,000 shall  be deposited into the Advanced Degree Workforce Training Subac-
+count established in section 5 of this 2024 Act for the purposes described in section  5 of this
+2024 Act.
+SECTION 12. This 2024 Act takes effect on the 91st day after the date on which  the 2024
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[5]

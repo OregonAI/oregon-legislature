@@ -1,0 +1,153 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 766
+Sponsored by Senator NASH, Representative LEVY B (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act puts a cap on the amount that the minimum wage rate may be  adjusted for in-
+flation. (Flesch Readability Score: 71.0).
+Imposes a cap on the percentage increase that the minimum wage  rate may be adjusted for in-
+flation.
+A BILL FOR AN ACT
+Relating to minimum wage; amending ORS 653.025.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 653.025 is amended to read:
+653.025. (1) Except as provided in subsections (2) and (3) of this section, ORS 652.020 and the
+rules of the Commissioner of the Bureau of Labor and Industries issued under ORS  653.030 and
+653.261, for each hour of work time that the employee is gainfully employed,  no employer shall em-
+ploy or agree to employ any employee at wages computed at a rate lower than:
+(a) For calendar year 2003, $6.90.
+(b) From January 1, 2004, to June 30, 2016,  a rate adjusted for inflation as calculated by the
+commissioner.
+(c) From July 1, 2016, to June 30, 2017, $9.75.
+(d) From July 1, 2017, to June 30, 2018, $10.25.
+(e) From July 1, 2018, to June 30, 2019, $10.75.
+(f) From July 1, 2019, to June 30, 2020, $11.25.
+(g) From July 1, 2020, to June 30, 2021, $12.
+(h) From July 1, 2021, to June 30, 2022, $12.75.
+(i) From July 1, 2022, to June 30, 2023, $13.50.
+(j) After June 30, 2023, beginning on July 1 of each  year, a rate adjusted annually for inflation
+as described in subsection (5) of this section.
+(2) If the employer is located  within the urban growth boundary of a metropolitan service dis-
+trict organized under ORS chapter  268, except as provided by ORS 652.020 and the rules of the
+commissioner issued under ORS 653.030 and 653.261, for each  hour of work time that the employee
+is gainfully employed, no employer shall employ or agree to employ any employee at wages computed
+at a rate lower than:
+(a) From July 1, 2016, to June 30, 2017, $9.75.
+(b) From July 1, 2017, to June 30, 2018, $11.25.
+(c) From July 1, 2018, to June 30, 2019, $12.
+(d) From July 1, 2019, to June 30, 2020, $12.50.
+(e) From July 1, 2020, to June 30, 2021, $13.25.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1222
+SB 766
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+(f) From July 1, 2021, to June 30, 2022, $14.
+(g) From July 1, 2022, to June 30, 2023, $14.75.
+(h) After June 30, 2023, $1.25  per hour more than the minimum wage determined under sub-
+section (1)(j) of this section.
+(3) If the employer is located within  a nonurban county as described in ORS 653.026, except as
+provided by ORS 652.020 and the rules of the commissioner issued under ORS 653.030 and 653.261,
+for each hour of work time that the employee is gainfully employed, no employer shall employ or
+agree to employ any employee at wages computed at a rate lower than:
+(a) From July 1, 2016, to June 30, 2017, $9.50.
+(b) From July 1, 2017, to June 30, 2018, $10.
+(c) From July 1, 2018, to June 30, 2019, $10.50.
+(d) From July 1, 2019, to June 30, 2020, $11.
+(e) From July 1, 2020, to June 30, 2021, $11.50.
+(f) From July 1, 2021, to June 30, 2022, $12.
+(g) From July 1, 2022, to June 30, 2023, $12.50.
+(h) After June 30, 2023, $1 per hour less than the minimum wage  determined under subsection
+(1)(j) of this section.
+(4) The  commissioner shall adopt rules for determining an employer’s location under subsection
+(2) of this section.
+(5)(a) The Oregon minimum wage shall be adjusted for inflation as provided  in paragraph (b) of
+this subsection.
+(b) No later than April 30 of each year, beginning in 2023, the commissioner  shall calculate [ an
+adjustment of the wage amount  specified in subsection (1)(j) of this section based upon ] the increase,
+if any, from March of the preceding year to March of the year in which  the calculation is made in
+the U.S. City Average Consumer Price Index for All Urban Consumers  for All Items as prepared by
+the Bureau of Labor Statistics of the United States Department  of Labor or its successor and in-
+crease the wage amount specified in subsection (1)(j) of this section by the lesser of:
+(A) Five percent; or
+(B) The percentage increase in the inflation rate as calculated by the commissioner under
+this paragraph.
+(c) The wage  amount as adjusted under this subsection shall be rounded to the nearest five
+cents.
+(d) The wage amount as adjusted under this subsection becomes effective as  the new Oregon
+minimum wage amount, replacing the minimum wage amount  specified in subsection (1)(j) of this
+section, on July 1 of the year in which the calculation is made.
+(e) The wage amount specified in subsection (1)(j) of this section may not  be decreased
+as a result of an adjustment made under this subsection.
+[2]

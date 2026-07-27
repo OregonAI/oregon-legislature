@@ -1,0 +1,132 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 619
+Sponsored by Senator BONHAM (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes how  the Governor may grant pardons and take similar actions. (Flesch
+Readability Score: 63.4).
+Requires that all executive clemency actions by  the Governor be initiated by application and
+follow specified procedures.
+A BILL FOR AN ACT
+Relating to executive clemency; amending ORS 144.649, 144.650 and 144.670.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 144.649 is amended to read:
+144.649. Subject to the procedures described in ORS 144.650, and  upon such conditions  and
+with such restrictions and limitations as the Governor thinks proper, the Governor  may grant
+reprieves, commutations and pardons, after convictions, for all  crimes and may remit, after judgment
+therefor, all penalties and forfeitures.
+SECTION 2.  ORS 144.650 is amended to read:
+144.650. (1) The Governor may grant a reprieve, pardon, commutation or remission only:
+(a) After receiving an application; and
+(b) In accordance with this section.
+[(1)] (2)  When an application for a  reprieve, pardon, commutation or remission is made to the
+Governor, a copy of the application, signed by the person applying and  stating fully the grounds of
+the application, shall be served upon:
+(a) The district attorney of the county where the conviction occurred;
+(b) If the person applying is housed in a  correctional facility within the State of Oregon, the
+district attorney of the county in which the correctional facility is located;
+(c) The State Board of Parole and Post-Prison Supervision; and
+(d) The Director of the Department of Corrections.
+[(2)] (3) Proof by affidavit of the service shall be presented to the Governor.
+[(3)] (4) Upon receiving a copy of the application, the district attorney of the county where the
+conviction occurred shall:
+(a) Notify the victim of the crime concerning the  application and the victim’s right to provide
+the Governor with any information relevant to the Governor’s decision;
+(b) Provide the Governor with any information relevant  to the Governor’s decision that the
+victim wishes to have provided; and
+(c) Provide the Governor with copies of the following documents:
+(A) Police and other investigative reports;
+(B) The charging instrument;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1857
+SB 619
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+(C) The plea petition, if applicable;
+(D) The judgment of conviction and sentence;
+(E) Any victim impact statements submitted or filed; and
+(F) Any documents evidencing the applying  person’s payment or nonpayment of restitution or
+compensatory fines ordered by the court.
+[(4)] (5)  In addition to providing the documents described in subsection [ (3)] (4) of this section,
+upon receiving a copy of  the application for  reprieve, pardon, commutation or remission, any person
+or agency named in subsection [ (1)] (2)  of this section shall provide  to the Governor as soon as
+practicable such information and records relating to  the case as the Governor may request and shall
+provide further information and records relating to the case that the person  or agency considers
+relevant to the issue of  reprieve, pardon, commutation or remission, including but not limited to:
+(a) Statements by the victim of the crime or any member of the victim’s immediate  family, as
+defined in ORS 163.730;
+(b) A statement by the district attorney of the county where the conviction occurred; and
+(c) Photos of the victim and the autopsy report, if applicable.
+[(5)] (6) Following receipt by the Governor of an application  for reprieve, pardon, commutation
+or remission, the Governor shall not grant the application for at least 30  days. Upon the expiration
+of 180 days, if the  Governor has not granted the  reprieve, pardon, commutation or remission applied
+for, the  application shall lapse. Any further proceedings for  reprieve,  pardon, commutation or re-
+mission in the case shall be pursuant only to further application and notice.
+SECTION 3.
+ ORS 144.670 is amended to read:
+144.670. When the  Governor grants a reprieve, commutation or pardon or remits a fine or
+forfeiture, the Governor shall within 10 days thereafter file  all the papers presented to the Governor
+in relation thereto, including any documents provided under ORS 144.650 [ (3)] (4) or [ (4)] (5), in the
+office of the Secretary of State, by  whom they shall be kept as public records, open to public in-
+spection.
+[2]

@@ -1,0 +1,119 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2722
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says ODOT must work with others to help with some of ODOT’s responsibilities.
+(Flesch Readability Score: 61.8).
+Directs the Department of Transportation to enter  into agreements with any qualified provider
+to assist the department with certain functions of the department.
+A BILL FOR AN ACT
+Relating to the use of integrators for vehicle-related transactions; amending ORS 802.600.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 802.600 is amended to read:
+802.600. (1) The Department of Transportation [ may] shall  enter into an agreement with any
+qualified provider to transact on behalf of the department the following functions of the  department:
+(a) Any vehicle-related transaction for which the department is responsible.
+(b) Processing of fees or taxes for a vehicle-related  transaction for which the department is re-
+sponsible.
+(c) Written and skills testing for driver licenses and permits, including  commercial driver li-
+censes.
+(2) An agreement described in subsection (1) of this section may  be in any form and may contain
+any provisions that the department determines to be in the best interests of the public and  conven-
+ient for the department, including  but not necessarily limited to provisions that allow the depart-
+ment to:
+(a) Ensure product quality control.
+(b) Audit activities of the qualified provider entering into the  agreement to ensure compliance
+with the agreement.
+(c) Impose sanctions on a qualified provider for violation of the agreement.
+(3) A qualified provider authorized to transact business for the  department under this section,
+including but not limited to a qualified provider who transacts business under  contract with an
+integrator, may charge a fee for the services provided. Fees  authorized under this subsection are in
+addition to any charges or fees that the department is authorized by statute to collect for the
+transaction.
+(4)(a) The department may adopt such rules as are necessary to  carry out the provisions of this
+section, including but not limited to rules that:
+(A) Specify criteria for eligibility of a  qualified provider to enter into an agreement with the
+department under this section.
+(B) Specify the manner in which fees authorized by this section will be collected and  establish
+any notification the qualified provider is required to give the public about the fees.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2693
+HB 2722
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+(C) Require a bond in  an amount determined by the department from a qualified provider acting
+under an agreement described in this section.
+(D) Prohibit disclosure of personal information from driver or vehicle records except  in accord-
+ance with applicable laws.
+(b) The department may not adopt rules establishing the amount of a  fee to be charged by a
+qualified provider acting under this section.
+(c) Rules adopted under this  subsection shall be developed in consultation with persons who
+might enter into agreements with the department under this section, including but  not limited to
+integrators and vehicle dealers.
+(5) As used in this section:
+(a) “Integrator” means a person  who enters into a contract with the Department of Transpor-
+tation:
+(A) To provide information and  supplies to a qualified provider who transacts business for the
+department under an agreement described in this section; and
+(B) To collect moneys due from qualified providers who transact the business and remit  the
+moneys to the department.
+(b) “Qualified provider” means:
+(A) Community college operated under ORS chapter 341;
+(B) Education service district; or
+(C) Person who is not an employee of the department, including but not  limited to an integrator.
+[2]

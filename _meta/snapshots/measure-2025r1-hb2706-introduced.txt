@@ -1,0 +1,460 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2706
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells ODOT to give car dealers at least two days’ notice before going to  see the
+dealer’s records. The Act makes some exceptions. (Flesch Readability Score: 82.4).
+Directs the Department of Transportation to provide two days’ notice  to vehicle dealers and
+dismantlers before inspecting records unless the department is responding to a complaint.
+A BILL FOR AN ACT
+Relating to businesses regulated by the Department of  Transportation; creating new provisions; and
+amending ORS 822.035, 822.045 and 822.130.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 822.035 is amended to read:
+822.035. The Department of Transportation:
+(1) Upon receipt of an application for a vehicle dealer certificate, shall examine  the application
+and may make an individual investigation relative to statements contained in the application.
+(2) Upon being satisfied that an applicant is entitled to  a vehicle dealer certificate and that the
+proper fees have been paid for the certificate,  shall assign the vehicle dealer a distinctive dealer
+number that allows the dealer to conduct  business under the certificate and shall forward to the
+dealer a vehicle dealer certificate stating thereon the dealer’s number.
+(3) Has authority to determine whether or  not an applicant for a vehicle dealer certificate is a
+vehicle dealer.
+(4) Has authority to make suitable rules for the issuance of  vehicle dealer certificates to expire
+consistently with ORS 822.020.
+(5) May make inspections of any vehicle dealer records required under ORS 822.045  and of any
+vehicles included in a vehicle dealer’s inventory or located on the  vehicle dealer’s premises. For
+inspections instituted by a complaint,  the department may conduct the inspections without
+prior notice. For routine or periodic  inspections, which may be conducted at reasonable in-
+tervals, the department shall provide at least two days’ notice before  the date of the in-
+spection. All  inspections authorized by this subsection [ may be  conducted by the department at
+reasonable intervals and ] may not exceed a  scope of inspection necessary for the department to de-
+termine the following:
+(a) A vehicle dealer’s compliance with statutes regulating vehicle dealers under the  vehicle
+code;
+(b) A vehicle dealer’s compliance with those provisions of the vehicle code regulating the  titling
+and registration of vehicles;
+(c) A vehicle dealer’s compliance with rules adopted by the department  relating to the regu-
+lation of vehicle dealers and the registration and titling of vehicles; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3117
+HB 2706
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) The identification of stolen vehicles.
+(6) May make inspections during  the normal business hours of the department, from Monday
+through Friday.
+(7) Shall provide a vehicle dealer with plates or devices authorized under ORS 805.200 to allow
+the exercise of the privileges granted under ORS 822.040.
+(8) May provide  a vehicle dealer with identification cards in the names of the owners of the
+business or in the names of authorized employees of the business.
+(9) May not issue a vehicle dealer certificate under ORS 822.020  to an applicant who has been
+issued a similar certificate from another jurisdiction that has been revoked or is currently suspended
+unless the applicant possesses a current, valid vehicle dealer certificate issued under ORS 822.020.
+(10) May not use the revocation or  suspension by another jurisdiction of a vehicle dealer cer-
+tificate or similar certificate as  a basis for refusing to allow a vehicle dealer holding a current, valid
+vehicle dealer certificate issued under  ORS 822.020 to obtain a vehicle dealer certificate under ORS
+822.020 or a supplemental certificate under ORS 822.040.
+(11) May adopt any reasonable rules necessary for the administration of the laws  relating to the
+regulation of vehicle dealers, the issuance of vehicle dealer certificates,  the issuance of vehicle
+dealer identification cards, regulation  of vehicle dealers designated as agents under ORS 802.031 and
+the issuance of vehicle dealer plates.  The rules adopted under this subsection must be consistent
+with the statutory provisions of the vehicle  code. The rules may include, but are not limited to,
+grounds and procedures for the revocation,  denial, probation or suspension of vehicle dealer certif-
+icates or of a vehicle dealer’s designation to act as an agent of the department.
+SECTION 2.
+ ORS 822.045 is amended to read:
+822.045. (1) A vehicle dealer improperly  conducts a vehicle dealer business and is subject to the
+penalties under this section if the vehicle dealer commits any of the following offenses:
+(a) A vehicle dealer commits the offense of failure to  obtain a supplemental vehicle dealer cer-
+tificate if the  vehicle dealer opens any additional place of business using the same business name
+as a place of business approved under a vehicle dealer certificate without first obtaining a supple-
+mental dealer certificate under ORS 822.040.
+(b) A  vehicle dealer commits the offense of failure to obtain a corrected vehicle dealer certif-
+icate if the  dealer moves a place of business or changes the business name without first obtaining
+a corrected dealer certificate under ORS 822.040.
+(c) A vehicle dealer  commits the offense of failure to maintain proper vehicle dealer records if
+the dealer does not keep records or  books, whether maintained in paper or electronic form, with all
+of the following information concerning any used  or secondhand vehicles or campers the dealer
+deals with:
+(A) A record of the purchase, sale or exchange or of the dealer’s receipt for purpose of sale.
+(B) A description of the vehicle or camper.
+(C) The name and address of the seller, the purchaser and the alleged owner or other  person
+from whom the vehicle or camper was purchased or received or to whom it was sold or delivered.
+(D) For motor vehicles, the vehicle  identification number and any other numbers or identifica-
+tion marks as may be  thereon and a statement that a number has been obliterated, defaced or
+changed, if such is a fact.
+(E) For trailers and campers, the vehicle  identification number and any other numbers or iden-
+tification marks as may be thereon.
+(F) A duly assigned certificate of title or other primary ownership record or  a bill of sale from
+[2]
+HB 2706
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the registered  owner of the vehicle or camper from the time of delivery to the dealer until the dealer
+disposes of  the vehicle or camper. If title is issued for the vehicle in a form other than a certificate,
+or if  the primary ownership record is in a form other than a document, a dealer shall keep records
+in accordance  with rules adopted by the Department of Transportation for the purpose of complying
+with this subparagraph.
+(d) A vehicle dealer commits  the offense of failure to allow administrative inspection if the
+dealer refuses to allow  the department to conduct an inspection as provided under ORS 822.035
+[at any time during normal business hours ].
+(e) A vehicle dealer commits  the offense of failure to allow police inspection if the dealer refuses
+to allow any police officer to conduct an inspection under ORS 810.480 at any time  during normal
+business hours.
+(f) A vehicle dealer commits the offense of illegal use of dealer vehicle  for hire if the dealer
+allows any vehicle operated under vehicle dealer registration to  be loaned or rented with or without
+driver for hire or direct compensation.
+(g) A vehicle dealer commits the offense of improper use of dealer plates  or devices if the dealer
+or employee of the dealer causes or permits the display or use of any special vehicle  dealer regis-
+tration plate or device on any vehicle not owned or controlled by the dealer.
+(h) A person commits the offense of improper display of  dealer plates if the person operates over
+and along the highways of this state any unregistered vehicle owned or  controlled by the dealer and
+any dealer plates  issued are not displayed in the manner provided in ORS 803.540 for the display
+of registration plates.
+(i) A vehicle dealer commits the offense of failure to  exhibit the dealer certificate if the dealer
+fails to permanently exhibit the certificate  at the place of business of the person at all times while
+the certificate is in force.
+(j) Except  as provided in subsection (2) of this section, a vehicle dealer commits the offense of
+failure to provide clear title if:
+(A) Within 15 days of  transfer of any interest in a vehicle or camper to the dealer by a con-
+sumer, the dealer fails to satisfy:
+(i) The interest of any person  from whom the dealer purchased or obtained the vehicle or
+camper;
+(ii) The interest of any person from  whom the person described in sub-subparagraph (i) of this
+subparagraph leased the vehicle or camper; and
+(iii) All security interests in the vehicle or camper entered into prior to the time of transfer.
+(B) Within 15 days of receiving clear title to a vehicle or camper from  another dealer, the pur-
+chasing dealer fails to satisfy the interest of the dealer from which  the purchasing dealer received
+the certificate of title or other primary ownership document. For purposes  of this subparagraph, a
+purchasing dealer receives a certificate of title or other primary  ownership document from a dealer
+on the date:
+(i) The purchasing dealer or  the Department of Transportation takes physical possession of the
+certificate or document; or
+(ii) A  written notice is mailed by certified or registered mail, return receipt requested, to the
+purchasing dealer from the dealer, stating that  the certificate or document is available to be picked
+up at a place and time prearranged by both parties. The written notice must  be mailed to a business
+address of the purchasing dealer that is on  file with the department. Service by mail under this
+sub-subparagraph is effective on the date of mailing.
+[3]
+HB 2706
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(k) Except as provided in subsection (3) of this section,  a vehicle dealer commits the offense of
+failure to  furnish certificate of title or application for title if, within 90 calendar days of transfer
+of any interest in a vehicle or camper by the dealer, the dealer has failed to:
+(A) Furnish the certificate of title or other primary ownership record for the  vehicle or camper
+and any release thereon or, if title has been issued or is to be issued in a form other  than a certif-
+icate, any information or documents required by rule of the department,  to the security interest
+holder next named, if any, otherwise to the lessor or, if none, to the purchaser; or
+(B) Submit to the department in a manner that complies with any applicable  statutes and rules,
+an application for title on behalf of the person to whom the  title is to be furnished or whose name
+is to be shown on the title record.
+(L) A vehicle dealer commits  the offense of failure to maintain bond or letter of credit coverage
+if the  dealer permits a bond or letter of credit to lapse during the period that the bond or letter of
+credit is required under ORS 822.020 or  if the dealer fails to purchase a bond or letter of credit
+required by ORS 822.030.
+(m) A person commits the offense of acting as a vehicle dealer while  under revocation, cancel-
+lation or  suspension if the person conducts business as a vehicle dealer in this state and the person’s
+vehicle dealer certificate is revoked, canceled  or suspended, regardless of whether the person is li-
+censed as a vehicle dealer in another jurisdiction. This paragraph  does not apply if the person has
+other current, valid dealer certificates issued in this state.
+(n) A vehicle dealer commits the offense of improper  display of a vehicle for advertising pur-
+poses if the dealer displays a vehicle at a location other than the dealer’s place of business  for the
+purpose of advertising and the dealer does not comply with the provisions of ORS 822.040 (4).
+(2) A  dealer is not considered to have committed the offense described in subsection (1)(j)(A) of
+this section if the dealer fails to satisfy an interest in a vehicle or camper  that arises from an in-
+ventory financing security interest for which the dealer is the debtor.
+(3) A dealer  is not considered to have committed the offense described in subsection (1)(k) of this
+section if the dealer demonstrates that:
+(a) The dealer has made a good faith effort to comply; and
+(b) The dealer’s inability to provide title is due to circumstances beyond the dealer’s control.
+(4) The offenses described in this section are subject to the following penalties:
+(a) The offense described in this section, failure to obtain a supplemental vehicle dealer certif-
+icate, is a Class A misdemeanor.
+(b) The offense described in this section, failure to obtain  a corrected vehicle dealer certificate,
+is a Class A misdemeanor.
+(c) The offense described in this section, failure to  maintain proper vehicle dealer records, is a
+Class A misdemeanor.
+(d) The offense  described in this section, failure to allow administrative inspection, is a Class
+A misdemeanor.
+(e) The offense described  in this section, failure to allow police inspection, is a Class A
+misdemeanor.
+(f) The offense described in this section, illegal use of dealer vehicle for  hire, is a Class B traffic
+violation.
+(g) The offense described in this section, improper use  of dealer plates or devices, is a Class D
+traffic violation.
+(h) The offense described in this section, improper display of dealer plates, is a Class B traffic
+[4]
+HB 2706
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+violation.
+(i) The offense described in this  section, failure to exhibit the dealer certificate, is a Class A
+misdemeanor.
+(j) The offense described in this section, failure to provide clear title, is a Class A misdemeanor.
+(k) The offense described in this section, failure to furnish  certificate of title or application for
+title, is a Class A misdemeanor.
+(L) The offense  described in this section, failure to maintain bond or letter of credit coverage,
+is a Class A misdemeanor.
+(m) The offense described  in this section, acting as a vehicle dealer while under revocation,
+cancellation or suspension, is a Class A misdemeanor.
+(n) The offense described in this section, improper display of a vehicle  for advertising purposes,
+is a Class A misdemeanor.
+SECTION 3.
+ ORS 822.130 is amended to read:
+822.130. (1) The Department of Transportation may inspect  the books, records and inventory of
+any business issued a certificate under ORS 822.110  for the purpose of determining compliance with
+any of the following:
+(a) Those laws regulating the issuance of certificates to dismantlers.
+(b) Requirements for records under ORS 822.135 and 822.137.
+(c) ORS 802.200, 803.140, 819.010, 819.016, 819.030, 819.040 or 822.120.
+(d) Rules adopted by the department concerning  businesses issued certificates under ORS
+822.110.
+(2) Except as provided in subsection (4) of this section, each year the  department shall inspect
+the premises used by any  business issued a certificate under ORS 822.110 . For inspections insti-
+tuted by a complaint, the department may conduct the inspections without prior  notice. For
+routine or periodic inspections, which may be conducted at reasonable intervals, the depart-
+ment shall provide at least two days’ notice before the date of the inspection. All inspections
+authorized by this subsection may be conducted during normal business hours and  may not
+exceed a scope of  inspection necessary  for the purpose of determining whether the items listed
+in subsection (3) of this section are on the premises and  determining compliance with any of the
+following:
+(a) Those laws regulating the issuance of certificates to dismantlers.
+(b) Requirements for records under ORS 822.135 and 822.137.
+(c) ORS 802.200, 803.140, 819.010, 819.016, 819.030, 819.040 or 822.120.
+(d) Rules adopted by the department concerning  businesses issued certificates under ORS
+822.110.
+(3) If the Department of Transportation determines that any of the  following items are on the
+premises used by a business issued a  certificate under ORS 822.110, the Department of Transporta-
+tion shall submit a report to the Department of Environmental Quality  and include information
+about the following:
+(a) The presence of piled waste tires, as defined in ORS 459.705, in an amount greater  than 100
+waste tires;
+(b) If there is a metal shredder;
+(c) If there are any open or unlabeled containers of automotive fluids; and
+(d) If there is an underground injection control.
+(4) The Department of Transportation may inspect a premises  under subsection (2) of this sec-
+[5]
+HB 2706
+1
+2
+3
+4
+5
+6
+tion every two years if the three most recent, consecutive inspections show  that the business is in
+compliance with subsection (2)(a) to (d) of this section.
+(5) Provisions for enforcing this section are established under ORS 822.135 and 822.145.
+SECTION 4.
+The amendments to  ORS 822.035, 822.045 and 822.130 by sections 1 to 3 of this
+2025 Act apply to inspections conducted on or after the effective date of this 2025 Act.
+[6]

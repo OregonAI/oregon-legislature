@@ -1,0 +1,268 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2564
+Introduced and printed pursuant to  House Rule 12.00. Presession filed (at the request of Governor Tina Kotek for
+Department of Consumer and Business Services)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes some changes to the process for reviewing insurance rates. (Flesch  Readability
+Score:  61.3).
+Revises the insurance rate review process.
+A BILL FOR AN ACT
+Relating to the insurance rate review process; amending ORS 743.018 and 743.019.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 743.018 is amended to read:
+743.018. (1) Except for group life and  health insurance, and except as provided in ORS 743.015,
+every insurer shall  file with the Director of the Department of Consumer and Business Services all
+schedules and tables of premium rates for life and health insurance to be used on risks in  this state,
+and shall file any amendments to or corrections  of such schedules and tables. Premium rates are
+subject to approval, disapproval or  withdrawal of approval by the director as provided in ORS
+742.003, 742.005, 742.007 and, for health benefit plans as defined in ORS 743B.005, ORS 743.019.
+(2) Except as provided in ORS 743B.013 and subsection (3) of this section, a  rate filing by a
+carrier for any of the following health benefit plans subject to ORS 743.004, 743.022,  743.535 and
+743B.003 to 743B.127 shall be available for public  inspection immediately upon submission of the
+filing to the director:
+(a) Health benefit plans for small employers.
+(b) Individual health benefit plans.
+(3) The director may by rule:
+(a) Specify all information  a carrier must submit  as  part of a rate filing under this section;
+[and]
+(b) Specify the form  and manner of a consumer-friendly summary document to be sub-
+mitted as part of a rate filing under this section; and
+[(b)] (c) Identify the information submitted that will be exempt from disclosure under this section
+because the information constitutes a trade secret and would, if disclosed, harm competition.
+(4) The director, after conducting an actuarial review of the rate filing, may approve a  proposed
+premium rate for a health benefit plan for small employers or for an  individual health benefit plan
+if, in the director’s discretion, the proposed rates are:
+(a) Actuarially sound;
+(b) Reasonable and not excessive, inadequate or unfairly discriminatory; and
+(c) Based upon reasonable administrative expenses.
+(5) In order to determine whether the proposed premium rates  for a health benefit plan for small
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 368
+HB 2564
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+employers or for an individual health benefit plan are reasonable and not excessive, inadequate or
+unfairly discriminatory, the director may consider:
+(a) The  insurer’s financial position, including but not limited to profitability, surplus, reserves
+and investment savings.
+(b) Historical and projected administrative costs and medical  and hospital expenses, including
+expenses for drugs reported under ORS 743.025.
+(c) Historical and  projected loss ratio between the amounts spent on medical services and
+earned premiums.
+(d) Any anticipated change in the number of enrollees if the proposed premium  rate is approved.
+(e) Changes to covered benefits or health benefit plan design.
+(f) Changes in the insurer’s health care cost containment and quality improvement efforts since
+the insurer’s last rate filing for the same category of health benefit plan.
+(g) Whether the proposed change in the  premium rate is necessary to maintain the insurer’s
+solvency or to maintain rate stability and prevent excessive rate increases in the future.
+(h) Any public comments received under ORS 743.019 pertaining to the  standards set forth in
+subsection (4) of this section and this subsection.
+(6) The director shall require insurers  to charge the same premium for a plan sold through the
+health insurance exchange  as the insurer charges for the identical plan sold outside of the exchange.
+(7) The  requirements of this section do not supersede other provisions of law that require
+insurers, health care service contractors or multiple employer  welfare arrangements providing
+health insurance  to file schedules or tables of premium rates or proposed premium rates with the
+director or to seek the director’s approval of rates or changes to rates.
+SECTION 2.
+ ORS 743.019 is amended to read:
+743.019. (1) When an insurer files  a schedule or table of premium rates for individual or small
+employer health benefit plans under ORS 743.018, the  Department of Consumer and Business Ser-
+vices shall open a 30-day public comment period on the rate  filing that begins on the date the
+insurer files the schedule or table of premium rates. The department shall post all of the comments
+received to the department’s website without delay.
+(2) After the close of the public comment  period described in subsection (1) of this section, the
+department shall  issue a [ preliminary decision ] proposed order to approve, disapprove or modify a
+rate filing. The department shall notify the insurer of, and make available to the public,  the [ pre-
+liminary decision ] proposed order, including:
+(a) An explanation of the findings and rationale that  are the basis for the [ preliminary
+decision] proposed order; and
+(b) Any actuarial or other analyses, calculations or evaluations relied upon  by the department
+in arriving at the [ preliminary decision ] proposed order.
+(3) The department shall provide the  insurer or any person adversely affected or aggrieved by
+the [ preliminary decision ] proposed order  the opportunity to meet with the department to discuss
+and respond to the [ preliminary decision ] proposed order. However, an insurer or other person may
+not substitute new facts or data for the facts or data submitted by  the insurer in the filing. The
+meeting shall:
+(a) Include a department employee who reviewed the rate filing; and
+(b) Comply with the requirements of ORS 192.610 to 192.705.
+(4)(a) The department shall issue a [ proposed] final  order, no later  than 30 days after the de-
+partment issues a [ preliminary decision ] proposed order under  subsection (2) of this section, to ap-
+[2]
+HB 2564
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+prove, disapprove or modify the rate filing based on the  information submitted during the public
+comment period  or the meeting held under subsection (3) of this section .
+(b) In issuing the [ proposed] final order, the department may not  consider new facts or data that
+are offered as a substitute for the facts or data submitted by the insurer in the filing.
+(c) The  department shall mail the [ proposed] final order to the insurer and post the [ proposed]
+final order to the department’s website.
+(d) The [ proposed] final order must include[ :]
+[(A)] an explanation of the findings and rationale that are  the basis for the [ proposed] final or-
+der, including any actuarial or other analyses, calculations or evaluations relied upon by the  de-
+partment in its findings or rationale[ ; and ].
+[(B) Notice  of the right of the insurer or any person adversely affected or aggrieved by the proposed
+order to request a review by the Director of the Department  of Consumer and Business Services, in
+accordance with subsection (6) of this section, no later than 10 days after the  date that the proposed
+order was issued. ]
+[(5) If the insurer or person adversely affected or aggrieved by the proposed order does not timely
+request a review of the proposed order by the director, the director shall issue a final order as  de-
+scribed in subsection (6)(d) of this section. ]
+[(6) If the insurer or a person  adversely affected or aggrieved by the proposed order timely requests
+a review by the director of the proposed order: ]
+[(a) The requester may not substitute new facts or data for the facts and data that were submitted
+by the insurer in the filing, but may provide a brief, memorandum or analysis  based on the evidence
+contained in the filing or received and considered by the department during the public comment
+period;]
+[(b) The director may not delegate the  decision-making authority for the request for review to any
+other individual; ]
+[(c) The director shall issue a final order no later  than 30 days after the request for review is re-
+ceived by the director; and ]
+[(d) The final order shall include: ]
+[(A) An explanation of the findings and rationale that are the basis for the final order; and ]
+[(B) Notice of the right to a contested case hearing in accordance with ORS chapter 183. ]
+[(7)(a)] (5)(a) If, following the issuance of a final order under subsection [ (6)(c)] (4) of this section
+but before the effective date of the  premium rates approved by the final order, an event occurs that
+materially affects the director’s decision to approve the rates, the director may open a  new public
+comment period for a period  of time that the director determines is necessary to receive comments
+concerning the event. Based upon the event and the  public comments received, the director shall
+affirm the final order by providing a written explanation of the basis for  affirming the final order
+or issue a new proposed order, as described in subsection [ (4)] (2) of this section.
+(b) In the consideration of public comments or the event described in paragraph (a) of this  sub-
+section or in issuing any new proposed order, the director:
+(A) May not consider new facts  or data that are offered as a substitute for the facts or data
+submitted by the insurer in the original filing.
+(B) May consider supplemental facts or data reasonably related  to the event described in para-
+graph (a) of this subsection.
+[(8)] (6) Subsections (2) to [ (7)] (5) of this section do not require the department to  perform any
+actuarial or other analyses, calculations or evaluations.
+[3]
+HB 2564
+1
+2
+3
+[(9)] (7)  The department may adopt rules modifying the procedures described in subsections  (2)
+to [ (7)] (5) of this section, but only to the extent necessary to comply with 42 U.S.C. 300gg-94.
+[4]

@@ -1,0 +1,205 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2309
+Sponsored by Representatives MANNIX, SCHARF (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes a person who  wants to change their name and who has done some crimes
+prove the need to change the name. The Act gets rid of laws letting a person change the name  on
+a birth certificate for affirming gender identity without going to  court. (Flesch Readability Score:
+74.9).
+Requires an applicant for change of name who has been convicted  of some crimes to prove ne-
+cessity of name change by clear and convincing evidence.
+Removes provisions allowing a person to request an amendment of a record of live birth  to
+change a name for the purpose of affirming gender identity without court approval.
+A BILL FOR AN ACT
+Relating to change of name; creating new provisions; and amending ORS 33.410 and 432.235.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 33.410 is amended to read:
+33.410. (1) Application for change of name of  a person may be heard and determined by the
+probate court or, if the circuit court is not the probate court, the circuit court if  its jurisdiction has
+been extended to include  this section pursuant to ORS 3.275 of the county in which the person re-
+sides. The court shall grant the  change of name [ shall be granted by the court ] unless the court
+finds that the change is not consistent with the public interest.
+(2) If an applicant for change of name has been convicted of a felony or a  Class A
+misdemeanor or the highest level misdemeanor in another jurisdiction, the  court shall de-
+termine whether the change of name  is consistent with the public interest according to the
+standards and procedures set forth in section 2 of this 2025 Act.
+SECTION 2. (1) An applicant for change of name under ORS 33.410 who  has been con-
+victed of  a felony or a Class A misdemeanor or the highest level misdemeanor in another
+jurisdiction shall serve the application on the prosecuting attorney for the jurisdiction of the
+conviction. The prosecuting attorney shall make a reasonable attempt to  notify any victims
+related to the conviction. The  court may not hear the application for change of name sooner
+than 30 days after the date of service on the prosecuting attorney under this section.
+(2) A court may not grant a change of name under ORS 33.410  to an applicant who has
+been convicted of a felony or a Class A misdemeanor or  the highest level misdemeanor in
+another jurisdiction unless:
+(a) The court has reviewed the criminal background of the applicant; and
+(b) The applicant proves by clear  and convincing evidence that the change of name is
+necessary.
+SECTION 3.
+ ORS 432.235 is amended to read:
+432.235. (1) A vital record  registered under this chapter must be amended or corrected in ac-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 628
+HB 2309
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+cordance with this section or rules adopted by the State Registrar of the Center for Health Statistics
+for the purpose of protecting the integrity and accuracy of vital records.
+(2)(a) A vital record that is amended or corrected under this  section shall indicate that it has
+been amended or corrected, except as otherwise provided in this section or  by rule of the state
+registrar.
+(b) The state registrar shall keep and maintain:
+(A) Documentation that identifies the evidence upon which an amendment or correction is based;
+(B) The date of the amendment or correction; and
+(C) The  identity of the individual authorized by the Center for Health Statistics that made the
+amendment or correction.
+(3)(a) Upon the request of an applicant who is 18  years of age or older or an emancipated minor,
+or if the  applicant is not 18 years of age or older or an emancipated minor, upon the request of an
+applicant’s parent, legal guardian or legal representative, the  state registrar shall amend a record
+of live birth that occurred in this state to change the name of the applicant if[ :]
+[(A)] the state registrar receives a certified copy of an order from a  court of competent juris-
+diction changing the name of the applicant[ ; or ]
+[(B) The state registrar receives a request,  on a form prescribed by the state registrar, from the
+applicant to change the name that includes: ]
+[(i) Documentation sufficient, as prescribed by the state registrar by  rule, to allow the state
+registrar to confirm the identity of the applicant and identify the correct record of live birth to  be
+amended; and]
+[(ii) A statement signed by the  applicant in which the applicant attests, as prescribed by the state
+registrar by rule, to making the request for the purpose of affirming the applicant’s gender identity ].
+(b) Upon request, the state registrar shall amend a record of live birth that  occurred in this
+state to change the sex of an  applicant if the applicant is 18 years of age or older or an emancipated
+minor, or if the applicant is not 18 years of age or older or an emancipated minor, the  applicant’s
+parent, legal guardian or legal representative makes the request, and if:
+(A) The state registrar receives a certified copy of  an order from a court of competent juris-
+diction changing the sex of the applicant; or
+(B) The state registrar receives a request, on a form prescribed by the state  registrar, from the
+applicant to change the sex that includes:
+(i) Documentation sufficient, as prescribed by the state registrar by  rule, to allow the state
+registrar to confirm the identity of the applicant  and identify the correct record of live birth to be
+amended;
+(ii) A statement signed by the applicant in which the applicant attests, as prescribed by the state
+registrar by rule, to making the request for  the purpose of affirming the applicant’s gender identity;
+and
+(iii) Any other documentation as required by the state registrar by rule.
+(4)(a) When an applicant to amend a vital record does not  submit the minimum documentation
+required to make  an amendment, or when the state registrar has cause to question the validity or
+adequacy of an application to amend a  vital record, the state registrar, in the state registrar’s dis-
+cretion, may refuse to amend the vital record. If the state registrar refuses to amend  a vital record
+under this subsection, the state registrar shall:
+(A) Enter an order denying the amendment and stating the reasons for the denial; and
+(B) Advise the applicant of the applicant’s right to appeal the order under ORS 183.484.
+[2]
+HB 2309
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+(b) The state registrar may  not amend a record of live birth to change [ the name of an applicant
+under subsection (3)(a)(B) or ] the sex of  an applicant under subsection (3)(b)(B) of this section more
+than once.
+(5) When an amendment is made to a record of marriage or a  record of domestic partnership
+by the county clerk  or other county official who issues marriage licenses and registers domestic
+partnerships, or when an amendment  changes the name, date of birth or birthplace of a party to a
+judgment or final  order of a dissolution of marriage or dissolution of domestic partnership by a court
+of competent jurisdiction, copies  of the amendment must be forwarded to the state registrar and the
+state registrar shall amend the related record.
+(6) If a judgment or final order of dissolution  of marriage or dissolution of domestic partnership
+is set aside by a court of competent jurisdiction, a copy of the notice setting aside the judgment  or
+order must be forwarded to the state registrar and the state registrar  shall void the related record.
+SECTION 4.
+Section 2 of this 2025 Act and the amendments to ORS 33.410 by  section 1
+of this 2025 Act apply to applications for change  of name filed on or after the effective date
+of this 2025 Act.
+SECTION 5. The amendments  to ORS 432.235 by section 3 of this 2025 Act apply to re-
+quests to amend a record of live birth made on or after the effective date of this 2025 Act.
+[3]

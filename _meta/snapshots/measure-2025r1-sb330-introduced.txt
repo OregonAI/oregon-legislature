@@ -1,0 +1,79 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 330
+Sponsored by Senator GOLDEN; Representative GAMBA (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Directs the PUC to adopt standards to require that power lines be  placed underground.
+Provides for exceptions. (Flesch Readability Score: 63.8).
+Directs the Public Utility Commission to adopt  standards requiring the underground placement
+of electric power lines. Provides for exceptions.
+A BILL FOR AN ACT
+Relating to the placement of utility lines.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS chapter 758.
+SECTION 2. (1) In addition to the standards adopted by the Public Utility  Commission
+under ORS 757.035,  the commission shall adopt by rule standards for requiring the under-
+ground placement of electric power lines.
+(2) The standards adopted under this section must:
+(a) Require the underground placement of an electric power line if a person is:
+(A) Placing a new electric power line; or
+(B) Replacing an overhead electric power line that is functionally  obsolete, damaged or
+destroyed; and
+(b) Provide for  criteria that the commission may use to determine whether to grant an
+exception to the requirements under paragraph (a) of this subsection.
+(3)(a) A person may apply to the commission for an  exception to the standards adopted
+under this section for a proposal to place or replace an electric power line.
+(b) In determining whether to grant an exception,  the commission shall take into con-
+sideration the cost of placing an electric power line underground compared  to the cost of
+placing the electric power line overhead.
+(c) Except as provided in subsection (4)  of this section, the commission may not grant
+an exception for the sole reason that the cost of placing an  electric power line underground
+is greater than the cost of placing the electric power line overhead.
+(d) An exception may be granted for all or part of a proposal  to place or replace an
+electric power line.
+(4) The commission shall grant an exception under this section if:
+(a) The incremental  cost of placing an electric power line underground is 
+percent or greater than the incremental cost of placing the electric power line overhead; or
+(b) A person is placing a new electric power line and the cost of acquiring an under-
+ground right of way is  percent or greater than the cost of acquiring the over-
+head right of way.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1340
+SB 330
+1
+[2]

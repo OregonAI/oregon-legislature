@@ -1,0 +1,568 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2024r1-sb1577
+title: 'SB 1577 (2024R1): Directs the Legislative Policy and Research Director to study additional automatic
+  voter registration programs and report to the interim committees of the Legislative Assembly related
+  to rules on or before October 1, 2026.'
+doc_type: dataset_doc
+citation: 2024 Regular Session Senate Bill 1577
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1577/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 8e2af85c51e479f9a1ffb326dc2ffcd1671a1b10226ae232b5f8a8352ebcff5a
+snapshot_id: measure-2024r1-sb1577-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 247.002
+  - ORS 247.012
+  - ORS 247.014
+  - ORS 247.017
+  - ORS 247.018
+  - ORS 247.019
+  - ORS 247.125
+  - ORS 247.171
+  - ORS 247.181
+  - ORS 247.208
+  - ORS 247.292
+  - ORS 254.470
+  - ORS 350.260
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2024r1
+- sb
+session_key: 2024R1
+measure_prefix: SB
+measure_number: 1577
+prefix_meaning: Senate Bill
+catch_line: Directs the Legislative Policy and Research Director to study additional automatic voter registration
+  programs and report to the interim committees of the Legislative Assembly related to rules on or before
+  October 1, 2026.
+minority_catch_line: null
+measure_summary: "\t<b>Digest: The Act tells LPRO to study more options for AVR and to tell the Legislature\
+  \ what they found out before the 2027 session. (Flesch Readability Score: 62.1).</b> \n\t[<i>Digest:\
+  \ The Act allows people to register to vote when they apply for college. The Act tells the DOR to provide\
+  \ the SOS with records related to voter registration. (Flesch Readability Score: 64.6).</i>] \n\t[<i>Extends\
+  \ automatic voter registration to applicants for admission to public institutions of higher education.\
+  \ Requires the Department of Revenue to provide the Secretary of State with records containing information\
+  \ related to voter registration.</i>] \n\t<b>Directs the Legislative Policy and Research Director to\
+  \ study additional automatic voter registration programs and report to the interim committees of the\
+  \ Legislative Assembly related to rules on or before October 1, 2026. \n\t<b>Takes effect on the 91st\
+  \ day following sine die.</b>"
+relating_to: Relating to voter registration; prescribing an effective date.
+relating_to_full: Relating to voter registration; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 233
+measure_created_date: '2024-01-12T16:53:41'
+measure_modified_date: '2024-04-03T16:10:14'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 33179
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 247.002
+  - ORS 247.012
+  - ORS 247.014
+  - ORS 247.017
+  - ORS 247.018
+  - ORS 247.019
+  - ORS 247.125
+  - ORS 247.171
+  - ORS 247.181
+  - ORS 247.208
+  - ORS 247.292
+  - ORS 254.470
+  - ORS 350.260
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1577>.
+
+# SB 1577 — 2024 Regular Session (2024R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1577, 2024 Regular Session (2024R1)
+- **LC number:** 233
+- **Created:** 2024-01-12T16:53:41
+- **Metadata last modified (upstream):** 2024-04-03T16:10:14
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 33179 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1577/Introduced>.
+
+## Summary
+
+**Catchline:** Directs the Legislative Policy and Research Director to study additional automatic voter registration programs and report to the interim committees of the Legislative Assembly related to rules on or before October 1, 2026.
+
+**Relating to:** Relating to voter registration; prescribing an effective date.
+
+<b>Digest: The Act tells LPRO to study more options for AVR and to tell the Legislature what they found out before the 2027 session. (Flesch Readability Score: 62.1).</b> 
+ [<i>Digest: The Act allows people to register to vote when they apply for college. The Act tells the DOR to provide the SOS with records related to voter registration. (Flesch Readability Score: 64.6).</i>] 
+ [<i>Extends automatic voter registration to applicants for admission to public institutions of higher education. Requires the Department of Revenue to provide the Secretary of State with records containing information related to voter registration.</i>] 
+ <b>Directs the Legislative Policy and Research Director to study additional automatic voter registration programs and report to the interim committees of the Legislative Assembly related to rules on or before October 1, 2026. 
+ <b>Takes effect on the 91st day following sine die.</b>
+
+**RelatingToFull (verbatim upstream field):** Relating to voter registration; and prescribing an effective date.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1577
+Sponsored by Senator MANNING JR, Representatives NELSON, NOSSE, ANDERSEN,  NGUYEN H, RUIZ; Sen-
+ators GOLDEN, JAMA, PATTERSON, Representatives  BYNUM, CHAICHI, GAMBA, HELM, HUDSON, PHAM
+H, PHAM K, REYNOLDS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act allows people to register to  vote when they apply for college. The Act tells the
+DOR to provide the SOS with records related to voter registration. (Flesch Readability  Score: 64.6).
+Extends automatic voter registration to applicants for admission  to public institutions of higher
+education. Requires the Department of Revenue to  provide the Secretary of State with records
+containing information related to voter registration.
+A BILL FOR AN ACT
+Relating to voter registration; creating new provisions;  and amending ORS 247.002, 247.012, 247.014,
+247.017, 247.171 and 247.292 and section 9, chapter 492, Oregon Laws 2023.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2024 Act is added to and made a part of ORS chapter 247.
+SECTION 2. (1) As used in this section:
+(a) “Electronic signature” means an electronic form of  a handwritten signature that can
+be verified, in the manner described in ORS 254.470 (11), for the purpose of tallying ballots.
+(b) “Registration information” means:
+(A) An individual’s legal name, age, residence and citizenship information; and
+(B) The individual’s electronic signature.
+(2)(a) The Secretary of State shall by rule establish a schedule by which  each public in-
+stitution of higher education, as that term is defined in  ORS 350.260, shall provide to the
+secretary electronic records, derived from some or all of a person’s information provided  by
+the person to the  public institution of higher education upon the person’s application for
+admission to the public institution of higher education, of each  person who is eligible to be
+a qualified elector under Article II, section 2, of the Oregon Constitution.
+(b) The  secretary may establish by rule what electronic records establish, for purposes
+of this subsection, whether a person may be eligible to be a qualified elector.
+(c) Notwithstanding paragraph (a) of  this subsection, a public institution of higher edu-
+cation may  not provide to the secretary any electronic records demonstrating that a person
+is not a citizen of the United States.
+(3) When establishing a schedule under subsection (2) of  this section, the secretary may
+adopt rules governing the format and frequency of data transfer.
+(4)(a) The secretary:
+(A) Shall by rule develop a  process to obtain any missing registration information from
+the Department of Transportation for each person described in  subsection (2) of this section
+for whom the public institution of higher education does not  provide all registration infor-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 233
+mation; and
+(B) May use any registration information that is obtained under subparagraph (A) of  this
+paragraph, or that is otherwise in the secretary’s possession, for  the purpose of registering
+a person to vote under this section.
+(b) The Department of Transportation may not provide to the secretary registration in-
+formation of a person under this subsection if the department’s records demonstrate  that
+the person is not a citizen of the United States.
+(5) Upon receiving the electronic record  for a person described in subsection (2) of this
+section, and any missing registration information for the person  under subsection (4) of this
+section, the secretary shall provide the person’s registration information to the county clerk
+of the county in which the person  may be registered as an elector. The secretary or county
+clerk shall notify each person of the process to:
+(a) Decline being registered as an elector.
+(b) Adopt a political party affiliation.
+(6) If a person  notified under subsection (5) of this section does not decline to be regis-
+tered as an  elector within 21 calendar days after the secretary or county clerk issues the
+notification, the person’s registration information submitted to the  county clerk under sub-
+section (5) of this section will constitute a completed  registration card for the person for
+purposes of this chapter. The person shall be registered to vote if  the county clerk deter-
+mines that the person is qualified to vote under Article II, section 2, of the Oregon Consti-
+tution, and the person is not already registered to vote.
+(7) A county  clerk may not send a ballot to, or add to an elector registration list, a per-
+son unless:
+(a) The person is already registered to vote; or
+(b)(A) The person is determined under subsection (6)  of this section to be qualified to
+vote; and
+(B) At least 21 calendar days  have passed after the secretary or county clerk provided
+the notification described in subsection (5) of this section to the person.
+(8) The transfer  of personal information and data by a public institution of higher edu-
+cation or the Department of Transportation to the secretary under this section  is limited to
+the information and data that is necessary to register  people as electors. Information and
+data transferred to the secretary under this  section may be used only for the purpose of
+registering people as electors.
+(9) The secretary  shall adopt rules required to implement this section. Any rules adopted
+under this section:
+(a) Are subject to input and public comment; and
+(b) May come into effect only after the secretary  and each public institution of higher
+education test and verify the data transfer processes.
+SECTION 3.
+ ORS 247.017 is amended to read:
+247.017. (1) The Secretary  of State shall by rule establish a schedule by which the Department
+of Transportation and the Department of Revenue  shall provide to the  secretary electronic re-
+cords containing the legal name, age, residence and citizenship  information for, and the electronic
+signature of, each person who meets qualifications identified by the secretary by rule.
+(2) Upon receiving the electronic record for, and electronic signature of, a  person described in
+subsection (1) of this section, the Secretary of  State shall provide the information to the county
+clerk of the county in which the person may  be registered as an elector. The secretary or county
+clerk shall notify each person of the process to:
+(a) Decline being registered as an elector.
+(b) Adopt a political party affiliation.
+(3) If a person notified under subsection (2)  of this section does not decline to be registered as
+an elector within 21 calendar days after the Secretary of State or county  clerk issues the notifica-
+tion, the person’s electronic record and electronic signature submitted under  subsection (1) of this
+section will constitute a completed registration card for the person for  purposes of this chapter. The
+person shall be registered to  vote if the county clerk determines that the person is qualified to vote
+under Article II, section 2, of the Oregon Constitution, and the person is not  already registered to
+vote.
+(4) A county clerk may not send a ballot  to, or add to an elector registration list, a person who
+meets eligibility requirements until at least 21 calendar days after the Secretary of State or  county
+clerk provided notification to the person as described in subsection (2) of this section.
+(5) The Department of Revenue shall provide electronic records to the Secretary of State
+under subsection (1) of this section.
+[(5)] (6) In addition to providing electronic records to the  Secretary of State under subsection
+(1) of  this section, the Department of Transportation may by rule develop, and require the avail-
+ability or use of, any form or  application the department determines is necessary to ensure compli-
+ance with  the voter registration provisions of the National Voter Registration Act of 1993 (P.L.
+103-31).
+[(6)] (7) The Secretary of  State shall adopt rules required to implement subsections (1) to (4) of
+this section.
+SECTION 4.
+ ORS 247.002 is amended to read:
+247.002. As used in this chapter:
+(1) “County clerk” means the county clerk or the county official in charge of elections.
+(2) “Elector”  means an individual qualified to vote under Article II, section 2, Oregon Consti-
+tution.
+(3) “Registration card” means [ a]:
+(a) A  state voter registration card approved by the Secretary of State under ORS 247.171[ , a];
+(b) A  federal voter registration application form prescribed by the Federal Election Commission
+pursuant to the National Voter Registration Act of 1993 (P.L. 103-31) [ or an ];
+(c) An  electronic record containing an  individual’s legal name, age, residence and citizenship
+information and electronic signature  submitted to the Department of Transportation in the manner
+described in ORS 247.017 ; or
+(d) An electronic record created from some or all of an individual’s registration infor-
+mation submitted by the individual to a public institution of higher education in  the manner
+described in section 2 of this 2024 Act.
+(4) As used in this  section, “public institution of higher education” and “registration in-
+formation” have the meanings given those terms in section 2 of this 2024 Act .
+SECTION 5.
+ ORS 247.002, as amended by section 3, chapter 492, Oregon Laws 2023,  is amended
+to read:
+247.002. As used in this chapter:
+(1) “County clerk” means the county clerk or the county official in charge of elections.
+(2) “Elector” means an individual qualified to vote under Article II, section 2, Oregon  Consti-
+tution.
+(3) “Registration card” means:
+(a) A state voter registration card approved by the Secretary of State under ORS 247.171;
+(b) A federal voter registration application form prescribed  by the Federal Election Commission
+pursuant to the National Voter Registration Act of 1993 (P.L. 103-31);
+(c) An electronic record containing an individual’s legal name, age, residence and  citizenship
+information and electronic signature submitted to the Department of Transportation  in the manner
+described in ORS 247.017; [ or]
+(d) An electronic record containing an individual’s legal name, age, residence and citizenship
+information submitted to the Oregon Health Authority in the manner described in ORS 247.018 ; or
+(e) An  electronic record created from some or all of an individual’s registration infor-
+mation submitted by the individual to a public institution of higher education in  the manner
+described in section 2 of this 2024 Act.
+(4) As used in this section, “public institution of higher  education” and “registration in-
+formation” have the meanings given those terms in section 2 of this 2024 Act .
+SECTION 6.
+ ORS 247.012 is amended to read:
+247.012. (1) A qualified person may register to vote or update a registration to vote by:
+(a) Delivering by mail, having a person deliver or otherwise delivering  a completed registration
+card to any county clerk, the Secretary of State, any office of the Department of Transportation or
+any designated voter registration agency as described in ORS 247.208;
+(b) Personally delivering, or having a person  deliver, the card to an official designated by a
+county clerk under subsection (7) of this section;
+(c) Submitting the person’s legal name, age, residence and citizenship information  and electronic
+signature to the Department of Transportation; [ or]
+(d) Submitting some or all of the person’s registration information to a public institution
+of higher education in a manner that allows the  county clerk to register the person to vote
+or update the person’s voter registration through the process described in section  2 of this
+2024 Act; or
+[(d)] (e) Completing a registration card using the electronic voter registration system  described
+in ORS 247.019.
+(2) If a registration card is mailed or delivered to:
+(a) Any person other than a county clerk or the Secretary of State, the  person shall forward the
+card to a county clerk or the Secretary of State not later  than the fifth day after receiving the card;
+or
+(b) The Secretary of State or a county clerk for a county other  than the county in which the
+person applying for registration  resides, the Secretary of State or county clerk shall forward the
+card to the county clerk for the county in which the person  resides not later than the fifth day after
+receiving the card.
+(3) Registration of a qualified person occurs:
+(a) When a legible, accurate and  complete registration card is received in the office of any
+county clerk, the Office of the Secretary of  State, an office of the Department of Transportation, a
+designated voter registration agency under ORS 247.208  or at a location designated by a county
+clerk under subsection (7) of this section;
+(b) On the date a registration  card is postmarked if the card is received after the 21st day im-
+mediately preceding an election but is  postmarked not later than the 21st day immediately preceding
+the election and is addressed to an office of any county  clerk, the Office of the Secretary of State,
+an office of the Department  of Transportation or any designated voter registration agency as de-
+scribed in ORS 247.208; or
+(c) In  the case of a registration card missing a date of birth, containing an incomplete date of
+birth or containing an unintentional scrivener’s error that is supplied or corrected as described  in
+subsection (4) or (6) of this section, on the date that registration would  have occurred if the regis-
+tration card had not been missing the date of birth, contained  an incomplete date of birth or con-
+tained the scrivener’s error.
+(4)(a) Except as provided in ORS 247.125, if a registration card is legible, accurate and  contains,
+at a minimum, the registrant’s name, residence  address, date of birth and signature, the county clerk
+shall register the person.
+(b) If the information required under paragraph  (a) of this subsection is missing from the regis-
+tration card or the date of birth is incomplete, the county clerk shall attempt to  obtain the missing
+or incomplete information from all sources available to the county clerk, including but  not limited
+to current and previous addresses and  phone numbers of the registrant. The county clerk may also
+supply the registrant’s date of birth from any previous  registration of the registrant. If the missing
+or incomplete information cannot be obtained from sources available to the  county clerk, the county
+clerk shall use reasonable efforts to contact the registrant by phone,  mail and electronic mail to
+obtain the missing or incomplete information.
+(5) If a registration card meets the requirements of subsection (4) of  this section but is missing
+an indication of political party affiliation, the registrant  shall be considered not affiliated with any
+political party. This subsection does not apply if an elector is updating a registration.
+(6) If a registration card contains  an unintentional scrivener’s error, the county clerk may at-
+tempt to contact the person to correct the error.
+(7) A county clerk may appoint officials to accept registration of persons at designated locations.
+The appointments and locations shall be in writing and filed in the office of the county clerk. The
+county clerk shall be responsible for the performance of duties by those appointed.
+(8) A registration card received and accepted  under this section shall be considered an active
+registration.
+(9) A registration may be updated at any time.
+(10) As used in this section, “public institution of higher education” and “registration
+information” have the meanings given those terms in section 2 of this 2024 Act.
+SECTION 7.
+ ORS 247.012, as amended by section 4, chapter 492, Oregon Laws 2023,  is amended
+to read:
+247.012. (1) A qualified person may register to vote or update a registration to vote by:
+(a) Delivering by mail, having a person deliver or otherwise delivering  a completed registration
+card to any county clerk, the Secretary of State, any office of the Department of Transportation or
+any designated voter registration agency as described in ORS 247.208;
+(b) Personally delivering, or having a person  deliver, the card to an official designated by a
+county clerk under subsection (7) of this section;
+(c) Submitting the person’s legal name, age, residence and citizenship information  and electronic
+signature to the Department of Transportation;
+(d) Submitting  the person’s legal name, age, residence and citizenship information to the Oregon
+Health Authority for use in the Oregon Health Plan; [ or]
+(e) Submitting some  or all of the person’s registration information to a public institution
+of higher education in a manner that allows the  county clerk to register the person to vote
+or update the person’s voter registration through the process described in section  2 of this
+2024 Act; or
+[(e)] (f) Completing a registration card using the electronic  voter registration system described
+in ORS 247.019.
+(2) If a registration card is mailed or delivered to:
+(a) Any person other than a county clerk or the Secretary of State, the  person shall forward the
+card to a county clerk or the Secretary of State not later  than the fifth day after receiving the card;
+or
+(b) The Secretary of State or a county clerk for a county other  than the county in which the
+person applying for registration  resides, the Secretary of State or county clerk shall forward the
+card to the county clerk for the county in which the person  resides not later than the fifth day after
+receiving the card.
+(3) Registration of a qualified person occurs:
+(a) When a legible, accurate and  complete registration card is received in the office of any
+county clerk, the Office of the Secretary of  State, an office of the Department of Transportation, a
+designated voter registration agency under ORS 247.208  or at a location designated by a county
+clerk under subsection (7) of this section;
+(b) On the date a registration  card is postmarked if the card is received after the 21st day im-
+mediately preceding an election but is  postmarked not later than the 21st day immediately preceding
+the election and is addressed to an office of any county  clerk, the Office of the Secretary of State,
+an office of the Department  of Transportation or any designated voter registration agency as de-
+scribed in ORS 247.208; or
+(c) In  the case of a registration card missing a date of birth, containing an incomplete date of
+birth or containing an unintentional scrivener’s error that is supplied or corrected as described  in
+subsection (4) or (6) of this section, on the date that registration would  have occurred if the regis-
+tration card had not been missing the date of birth, contained  an incomplete date of birth or con-
+tained the scrivener’s error.
+(4)(a)(A) Except as provided in ORS 247.125, if a registration card is  legible, accurate and con-
+tains, at  a minimum, the registrant’s name, residence address, date of birth and signature, the county
+clerk shall register the person.
+(B) The county clerk  shall register a person pursuant to ORS 247.018, regardless of whether the
+person’s registration card contains a signature, if the person’s registration card is  legible, accurate
+and contains, at a minimum, the registrant’s name, residence address and date of birth.
+(b) If the information required under paragraph (a)(A) of this subsection is missing  from the
+registration card or the date of birth is incomplete,  or if the signature of a person described in
+paragraph (a)(B) of this subsection has not been submitted, the county  clerk shall attempt to obtain
+the missing or incomplete information from all sources available to  the county clerk, including but
+not limited to current and previous  addresses and phone numbers of the registrant. The county clerk
+may also  supply the registrant’s date of birth from any previous registration of the registrant. If the
+missing or incomplete information cannot be obtained from sources  available to the county clerk,
+the county clerk  shall use reasonable efforts to contact the registrant by phone, mail and electronic
+mail to obtain the missing or incomplete information.
+(5) If a registration card meets  the requirements of subsection (4) of this section but is missing
+an indication of political party affiliation, the registrant  shall be considered not affiliated with any
+political party. This subsection does not apply if an elector is updating a registration.
+(6) If a registration card contains an unintentional scrivener’s error,  the county clerk may at-
+tempt to contact the person to correct the error.
+(7) A county clerk may appoint officials to accept registration of persons at designated locations.
+The appointments and locations shall be in writing and filed in the office of the county clerk. The
+county clerk shall be responsible for the performance of duties by those appointed.
+(8) A registration card received and accepted under this  section shall be considered an active
+registration.
+(9) A registration may be updated at any time.
+(10) As used in this section, “public institution of higher education” and “registration
+information” have the meanings given those terms in section 2 of this 2024 Act.
+SECTION 8.
+ ORS 247.292 is amended to read:
+247.292. (1) A county clerk shall update the registration of an  elector in the county upon re-
+ceiving evidence from:
+(a) The elector indicating a residence or mailing address that is different from the residence or
+mailing address for the elector as contained in the records of the county clerk;
+(b) The United States Postal Service indicating  a residence address that is different from the
+residence address for the elector as contained in the records of the county clerk; or
+(c) The Secretary of State  as provided in ORS 247.017 or 247.295  or  section  2 of this 2024
+Act.
+(2) When a county clerk updates the registration of  an elector under subsection (1) of this sec-
+tion, the clerk shall send a new voter notification card by  nonforwardable mail to the elector as
+provided in ORS 247.181. The clerk shall include a notice stating that if the residence address or
+mailing address is not correct, the elector must notify the clerk.
+(3) An elector is not  disqualified from voting due to any error relating to an update of regis-
+tration made under this section.
+SECTION 9.
+ ORS 247.292, as amended by section 5, chapter 492, Oregon Laws 2023,  is amended
+to read:
+247.292. (1) A county clerk shall update  the registration of an elector in the county upon re-
+ceiving evidence from:
+(a) The elector indicating a residence or mailing address that is different from the residence or
+mailing address for the elector as contained in the records of the county clerk;
+(b) The United States Postal Service indicating a residence  address that is different from the
+residence address for the elector as contained in the records of the county clerk; or
+(c) The Secretary  of State as provided in ORS 247.017, 247.018 or 247.295  or section 2 of this
+2024 Act .
+(2) When a county clerk updates the registration of  an elector under subsection (1) of this sec-
+tion, the clerk shall send a new  voter notification card by nonforwardable mail to the elector as
+provided in ORS 247.181. The clerk shall include a notice stating that if the residence address or
+mailing address is not correct, the elector must notify the clerk.
+(3) An elector is not disqualified from voting due to any error relating to  an update of regis-
+tration made under this section.
+SECTION 10.
+ ORS 247.014 is amended to read:
+247.014. (1) In implementing ORS 247.012, 247.017 and 247.171  and section 2  of this 2024 Act ,
+the Department of Transportation  and each public institution of higher education shall take steps
+reasonably necessary to allow transfer  of voter registration information by electronic or magnetic
+medium.
+(2) As used in this section,  “public institution of higher education” has the meaning given
+that term in ORS 350.260.
+SECTION 11.
+ ORS 247.014, as amended by section 6,  chapter 492, Oregon Laws 2023, is
+amended to read:
+247.014. (1) In  implementing ORS 247.012, 247.017, 247.018 and 247.171 and section 2 of this
+2024 Act , the Department of Transportation [ and], the Oregon Health Authority and each public
+institution of higher education  shall take steps  reasonably necessary to allow transfer of voter
+registration information by electronic or magnetic medium.
+(2) As used in this section,  “public institution of higher education” has the meaning given
+that term in ORS 350.260.
+SECTION 12.  ORS 247.171 is amended to read:
+247.171. (1) Except as provided in this subsection, the Secretary of  State shall design, prepare
+and distribute  state voter registration cards. The Secretary of State shall also distribute federal
+registration  cards.  Any person may apply in writing to the Secretary of State for permission to print,
+copy or otherwise prepare and distribute the  registration cards designed by the Secretary of State.
+The secretary may revoke any  permission granted under this subsection at any time. All registration
+cards shall be distributed to the public without charge.
+(2) The Secretary  of State shall approve any voter registration application form developed for
+use by any agency designated as a voter registration agency under ORS 247.208.
+(3) Each voter registration card designed  or approved by the Secretary of State shall describe
+the penalties for knowingly supplying false information on the registration card and shall  contain
+space for a person to provide the following information:
+(a) Full name;
+(b) Residence address,  mailing address or any other information necessary to locate the resi-
+dence of the person offering to register to vote;
+(c) The name of the political party with which the person is affiliated, if any;
+(d) Date of birth;
+(e) An indication that the person is a citizen of the United States; and
+(f) [ A] Except for an electronic signature obtained as provided under  section 2 of this 2024
+Act, a  signature attesting to the fact that the person is qualified to be an elector.
+(4) Any  form containing a voter registration card may also include space for a person to provide:
+(a) A telephone number where the person may be contacted; and
+(b) If previously registered to  vote in this state, the name then supplied by the person and the
+county and, if known, the address of previous registration.
+(5) A person shall not supply any information under subsection (3) or (4) of this section  knowing
+it to be false.
+(6) A county clerk or other person  accepting registration cards shall not request any informa-
+tion unless it is authorized by state or federal law.
+(7) [ A] Except as provided in section 2 of this 2024 Act, a  person shall attest to the infor-
+mation supplied on the voter registration card by signing the completed registration card.
+(8) [ Any ] Except as provided in subsection (7) of this section, any  completed  and signed
+registration card described in subsection (3) of this section shall be the official  registration card of
+the elector.
+SECTION 13.
+ ORS 247.171, as amended by section 7,  chapter 492, Oregon Laws 2023, is
+amended to read:
+247.171. (1) Except as provided  in this subsection, the Secretary of State shall design, prepare
+and distribute state voter registration cards. The Secretary of State shall also distribute  federal
+registration  cards.  Any person may apply in writing to the Secretary of State for permission to print,
+copy or otherwise prepare and distribute the registration cards  designed by the Secretary of State.
+The secretary may revoke any  permission granted under this subsection at any time. All registration
+cards shall be distributed to the public without charge.
+(2) The Secretary of State shall approve any voter registration application form  developed for
+use by any agency designated as a voter registration agency under ORS 247.208.
+(3) Each voter registration card designed or approved by the  Secretary of State shall describe
+the penalties  for knowingly supplying false information on the registration card and shall contain
+space for a person to provide the following information:
+(a) Full name;
+(b) Residence address, mailing address or any other information necessary to locate  the resi-
+dence of the person offering to register to vote;
+(c) The name of the political party with which the person is affiliated, if any;
+(d) Date of birth;
+(e) An indication that the person is a citizen of the United States; and
+(f) Except as provided in ORS  247.018 and section 2 of this 2024 Act , a signature attesting to
+the fact that the person is qualified to be an elector.
+(4) Any  form containing a voter registration card may also include space for a person to provide:
+(a) A telephone number where the person may be contacted; and
+(b) If previously registered to  vote in this state, the name then supplied by the person and the
+county and, if known, the address of previous registration.
+(5) A person shall not supply any information under subsection (3) or (4) of this section  knowing
+it to be false.
+(6) A county clerk or other person  accepting registration cards shall not request any informa-
+tion unless it is authorized by state or federal law.
+(7) Except as provided in ORS 247.018  and section 2 of this 2024 Act , a person shall  attest to
+the information supplied on the voter registration card by signing the completed registration card.
+(8) Except as provided in subsection (7) of this section, any completed  and signed registration
+card described in subsection (3) of this section shall be the official registration card of the elector.
+SECTION 14.
+ Section 9, chapter 492, Oregon Laws 2023, is amended to read:
+Sec. 9.  (1)(a) The amendments to ORS 247.019 by section 8, chapter 492, Oregon Laws 2023,
+become operative on the effective date of this 2024 Act.
+(b) Section 2 , chapter 492, Oregon Laws  2023, [ of this 2023 Act ] and the amendments to ORS
+247.002, 247.012, 247.014, [ 247.019,] 247.171 and 247.292 by sections 3 to 7, chapter 492, Oregon
+Laws 2023, [ 8 of this 2023 Act ] become operative on June 1, 2026.
+(2) The Secretary of State, the Oregon Health Authority, the  Department of Transportation and
+the county clerks may take any action before the operative date specified in subsection  (1) of this
+section that is  necessary for the Secretary of State, the Oregon Health Authority, the Department
+of Transportation and the county clerks to exercise, on and after the operative date specified  in
+subsection (1) of this section, all of the duties, functions and powers conferred on the  Secretary of
+State, the Oregon Health Authority,  the Department of Transportation and the county clerks by
+section 2 , chapter 492, Oregon  Laws 2023,  [ of this 2023 Act ] and the amendments to ORS 247.002,
+247.012, 247.014, 247.019, 247.171 and 247.292 by sections 3 to 8 , chapter 492, Oregon Laws 2023
+[of this 2023 Act ].
+SECTION 15.
+The Secretary  of State, the Department of Revenue, each public institution
+of higher education as defined in section 2 of this 2024 Act and the county clerks may take
+any action before the effective date of this 2024 Act that is necessary for the Secretary of
+State, the Department of  Revenue, each public institution of higher education and the county
+clerks to exercise, on and after the effective date of this 2024 Act, all  of the duties, functions
+and powers conferred on the Secretary of State, the Department of Revenue, each  public
+institution of higher education and the county clerks by section 2 of this 2024 Act and the
+amendments to ORS 247.002, 247.012, 247.014, 247.017, 247.171 and 247.292  by sections 3, 4, 5,
+6, 7, 8, 9, 10, 11, 12 and 13 of this 2024 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 247.002, ORS 247.012, ORS 247.014, ORS 247.017, ORS 247.018, ORS 247.019, ORS 247.125, ORS 247.171, ORS 247.181, ORS 247.208, ORS 247.292, ORS 254.470, ORS 350.260
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `8e2af85c51e479f9a1ffb326dc2ffcd1671a1b10226ae232b5f8a8352ebcff5a` (snapshot `_meta/snapshots/measure-2024r1-sb1577-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1577/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1577> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

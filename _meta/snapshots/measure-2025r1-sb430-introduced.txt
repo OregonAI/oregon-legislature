@@ -1,0 +1,123 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 430
+Sponsored by Senator PROZANSKI (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells an online seller to show a summary of all of the fees that come  with a sale to a
+buyer before making  the sale. Says that the buyer has to have a chance to approve the summary
+before buying. (Flesch Readability Score: 74.4).
+Specifies disclosures that a retail seller must make to a retail buyer  for a transaction in goods
+or services that concludes online by  means of a website or other electronic method. Provides that
+the retail buyer must approve the disclosures before the transaction concludes.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to disclosures required in  connection with online transactions; and prescribing an effective
+date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS 83.010 to 83.190.
+SECTION 2. (1)(a) A retail seller that offers  and sells goods or services online to a resi-
+dent of this state,  before concluding an online sale by means of a website or other electronic
+method, shall display a written summary of the transaction that lists:
+(A) The cash sale price of each item of goods or services;
+(B) The amount of the retail  buyer’s down payment, if any, identifying amounts paid in
+money or in goods or services offered in trade;
+(C) The difference between the amounts described in subparagraph (A) and (B)  of this
+paragraph;
+(D) The aggregate  amount, if any, the retail seller charges for insurance, summarizing
+the type of insurance and the coverage provided;
+(E) The aggregate amount of official fees, if any, and the amount of each tax  that applies
+to the transaction;
+(F) The amount of each shipping charge, handling fee or service charge that applies  to
+the transaction; and
+(G) The total amount due for the transaction, which must  be the sum of the amounts
+listed in subparagraphs (C) to (F) of this paragraph.
+(b) The display described in paragraph (a) of this subsection must permit  a retail buyer
+to review the entire transaction and:
+(A) Approve the transaction as displayed; or
+(B) Make changes to the transaction, including removing or substituting goods  or ser-
+vices, removing or adding insurance coverage or making other permissible changes.
+(c) A retail buyer that changes a transaction as described in paragraph (b)(B) of this
+subsection must have an  opportunity to review and approve the revised transaction before
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2786
+SB 430
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+the retail buyer concludes the transaction.
+(2)(a) If a retail seller described in subsection (1)(a) of this section does not  finance or
+enter into a retail charge agreement or retail installment contract  with a retail buyer for
+the purpose of concluding a transaction described in subsection (1) of  this section, the retail
+seller may conclude the transaction as provided in this section and without needing  to com-
+ply with the provisions of ORS 83.010 to 83.190, except that:
+(A) The retail seller is subject to ORS  83.060, 83.090, 83.100, 83.110, 83.120 and 83.150 to the
+extent that the provisions of those laws apply to the transaction; and
+(B) Notwithstanding  ORS 83.160, the retail seller and retail buyer may waive the pro-
+visions of ORS 83.010 to 83.190 other than the statutes listed in subparagraph (A) of  this
+paragraph.
+(b) If a retail seller described in  subsection (1)(a) of this section finances, enters into a
+retail charge agreement or retail installment contract or otherwise extends credit  for the
+purpose of completing a transaction  described in subsection (1) of this section, the retail
+seller and the transaction is subject to this section and to all applicable provisions of ORS
+83.010 to 83.190, except that the retail seller, with the affirmative consent of  the retail buyer,
+may by exclusively electronic means list, display, deliver or notify a retail buyer of the in-
+formation and disclosures required under ORS 83.010 to 83.190.
+SECTION 3.
+Section 2 of this 2025 Act applies to transactions that conclude on or after
+the effective date of this 2025 Act.
+SECTION 4. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

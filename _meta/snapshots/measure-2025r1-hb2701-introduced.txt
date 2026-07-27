@@ -1,0 +1,231 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2701
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that some health  and public safety places have to be prepared for emer-
+gencies. (Flesch Readability Score: 68.9).
+Requires health care facilities, health care  providers, local public health authorities and public
+and private safety agencies to maintain capacity,  including sufficient amounts of certain supplies,
+to continue in normal operation for 120 days at a 25 percent mortality  rate. Defines “25 percent
+mortality rate.” Directs the Oregon Health Authority and health professional  regulatory boards to
+report to the Oregon Department of Emergency Management. Directs the  department to report an-
+nually to an interim committee of the Legislative Assembly related to emergency preparedness.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to emergency preparedness; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+As used in sections 2 to 6 of this 2025 Act:
+(1) “25 percent mortality rate” means the death of 25 percent of the  total population of
+this state due to a pandemic, natural disaster or other similar emergency.
+(2) “Essential service” has the meaning given that term by the  Oregon Health Authority
+by rule.
+(3) “Health care facility” has the meaning given that term in ORS 442.015.
+(4) “Health care provider” means a person who operates an independent practice  location
+and who is:
+(a) An acupuncturist licensed under ORS 677.759;
+(b) A chiropractic physician licensed under ORS chapter 684;
+(c) A dentist licensed under ORS chapter 679;
+(d) A massage therapist licensed under ORS 687.011 to 687.250;
+(e) A naturopathic physician licensed under ORS chapter 685;
+(f) A physician licensed under ORS chapter 677; and
+(g) A physical therapist licensed under ORS 688.010 to 688.201.
+(5) “Health professional regulatory board” means:
+(a) The Oregon Board of Dentistry;
+(b) The Oregon Board of Naturopathic Medicine;
+(c) The Oregon Board of Physical Therapy;
+(d) The Oregon Medical Board;
+(e) The State Board of Chiropractic Examiners; and
+(f) The State Board of Massage Therapists.
+(6) “Holding room” has the meaning given that term in ORS 692.010.
+(7) “Local public health authority” has the meaning given that term in ORS 431.003.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3164
+HB 2701
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(8) “Public or private safety agency” has the meaning given that term in ORS 181A.355.
+SECTION 2.
+(1) A  health care facility shall maintain capacity, including sufficient
+amounts of the following, to continue in normal operation for 120 days at  a 25 percent mor-
+tality rate:
+(a) Generators;
+(b) Personal protective equipment for staff; and
+(c) Ventilators.
+(2)(a) A health care facility  shall report annually to the Oregon Health Authority, not
+later than the date  established by the authority by rule, regarding the health care facility’s
+ability to comply with the requirements of subsection (1) of this section.
+(b) The authority shall compile the information received under paragraph (a) of  this
+subsection and shall report annually to the Oregon Department of  Emergency Management
+pursuant to rules adopted by the department.
+(3) The authority may adopt rules to carry out this section.
+SECTION 3.
+(1) A local public health authority shall:
+(a) Maintain capacity to continue the following in normal operation for 120 days at a 25
+percent mortality rate:
+(A) Essential services; and
+(B) Holding rooms and mortuary refrigeration.
+(b) Consult with private  businesses and housing providers within the jurisdiction of the
+local public health authority regarding the private businesses’ and housing providers’ ability
+to maintain capacity to continue  in normal operation for 120 days at a 25 percent mortality
+rate and assist the private businesses and housing providers as needed.
+(2)(a) A  local public health authority shall report annually to the Oregon Health Au-
+thority, not later than the date established by the Oregon Health Authority  by rule, regard-
+ing the local public health authority’s  ability to comply with the requirements of subsection
+(1) of this section.
+(b) The Oregon  Health Authority shall compile the information received under paragraph
+(a) of this subsection and shall report annually to  the Oregon Department of Emergency
+Management pursuant to rules adopted by the department.
+(3) The Oregon Health Authority may adopt rules to carry out this section.
+SECTION 4.
+(1) A health  care provider shall maintain sufficient amounts of necessary
+supplies, including personal protective equipment for staff,  to continue in normal operation
+for 120 days at a 25 percent mortality rate.
+(2)(a) A health care provider shall report annually  to the health care provider’s health
+professional regulatory board, not later than the  date established by the health professional
+regulatory board by rule, regarding the health care provider’s  ability to comply with sub-
+section (1) of this section.
+(b) A health professional regulatory board  shall compile the information received under
+paragraph (a) of this subsection and shall report annually to  the Oregon Department of
+Emergency Management pursuant to rules adopted by the department.
+(3) A health professional regulatory board may adopt rules to carry out this section.
+SECTION 5.
+(1) A public or private safety agency shall maintain sufficient amounts of
+necessary supplies, including personal protective equipment for staff, to continue in  normal
+operation for 120 days at a 25 percent mortality rate.
+[2]
+HB 2701
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+(2)(a) A public or  private safety agency shall report annually to the Oregon Health Au-
+thority, not  later than the date established by the authority by rule, regarding the public or
+private safety agency’s ability to comply with subsection (1) of this section.
+(b) The  authority shall compile the information received under paragraph (a) of this
+subsection and shall  report annually to the Oregon Department of Emergency Management
+pursuant to rules adopted by the department.
+(3) The authority may adopt rules to carry out this section.
+SECTION 6.
+(1) The  Oregon Department of Emergency Management shall annually sub-
+mit a report in the manner provided in ORS 192.245 to an interim committee  of the Legisla-
+tive Assembly related to emergency preparedness. The department may include in the  report
+recommendations for legislation.
+(2) The department shall adopt rules to carry out sections 2 to 6 of this 2025 Act.
+SECTION 7.
+(1) Sections 2 and 6 of this 2025 Act become operative on January 1, 2026.
+(2) Sections 3 to 5 of this 2025 Act become operative on January 1, 2027.
+(3) The Oregon Health Authority and the Oregon Department  of Emergency Management
+may take any action before the operative date specified in subsection (1)  of this section that
+is necessary to enable the authority and the department to exercise, on  and after the oper-
+ative date specified in subsection (1) of this section, all  of the duties, functions and powers
+conferred on the authority and the department by sections 2 and 6 of this 2025 Act.
+(4) The Oregon Health Authority, the  Oregon Department of Emergency Management
+and the health professional regulatory boards may take any action before  the operative date
+specified in subsection (2) of this section that is necessary to enable the  authority, the
+boards and the department to exercise, on and after the operative date specified in  sub-
+section (2) of this section, all of the duties, functions and powers conferred on the authority,
+the boards and the department by sections 3 to 5 of this 2025 Act.
+SECTION 8.
+This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

@@ -1,0 +1,592 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb160
+title: 'SB 160 (2025R1): Repeals the state payroll tax on wages imposed to finance transportation investments
+  and improvements and maintain existing public transportation services.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 160
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB160/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 88e6a5c0b96563786a9926fe0e2aad992e871aa2bbc630550bc2d09a1d830b50
+snapshot_id: measure-2025r1-sb160-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 178.205
+  - ORS 178.215
+  - ORS 184.642
+  - ORS 184.751
+  - ORS 184.758
+  - ORS 184.761
+  - ORS 184.766
+  - ORS 190.510
+  - ORS 291.040
+  - ORS 305.220
+  - ORS 305.265
+  - ORS 305.404
+  - ORS 314.400
+  - ORS 314.407
+  - ORS 314.835
+  - ORS 314.840
+  - ORS 316.162
+  - ORS 316.164
+  - ORS 316.167
+  - ORS 316.168
+  - ORS 316.169
+  - ORS 316.172
+  - ORS 316.191
+  - ORS 316.197
+  - ORS 316.202
+  - ORS 316.207
+  - ORS 316.212
+  - ORS 320.550
+  - ORS 320.555
+  - ORS 320.560
+  - ORS 323.455
+  - ORS 706.008
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 160
+prefix_meaning: Senate Bill
+catch_line: Repeals the state payroll tax on wages imposed to finance transportation investments and improvements
+  and maintain existing public transportation services.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would end the tax on wages that funds statewide transportation uses.\
+  \ (Flesch Readability Score: 63.4). \n\tRepeals the state payroll tax on wages imposed to finance transportation\
+  \ investments and improvements and maintain existing public transportation services. \n\tTakes effect\
+  \ on the 91st day following adjournment sine die."
+relating_to: Relating to transportation taxes; prescribing an effective date.
+relating_to_full: Relating to transportation taxes; creating new provisions; amending ORS 184.751, 184.758,
+  184.766, 316.164, 316.169, 316.197, 316.202, 316.207 and 316.212; repealing ORS 320.550, 320.555 and
+  320.560; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 1169
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-01-22T16:20:43'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 35050
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 178.205
+  - ORS 178.215
+  - ORS 184.642
+  - ORS 184.751
+  - ORS 184.758
+  - ORS 184.761
+  - ORS 184.766
+  - ORS 190.510
+  - ORS 291.040
+  - ORS 305.220
+  - ORS 305.265
+  - ORS 305.404
+  - ORS 314.400
+  - ORS 314.407
+  - ORS 314.835
+  - ORS 314.840
+  - ORS 316.162
+  - ORS 316.164
+  - ORS 316.167
+  - ORS 316.168
+  - ORS 316.169
+  - ORS 316.172
+  - ORS 316.191
+  - ORS 316.197
+  - ORS 316.202
+  - ORS 316.207
+  - ORS 316.212
+  - ORS 320.550
+  - ORS 320.555
+  - ORS 320.560
+  - ORS 323.455
+  - ORS 706.008
+  from_relating_to_full:
+  - ORS 184.751
+  - ORS 184.758
+  - ORS 184.766
+  - ORS 316.164
+  - ORS 316.169
+  - ORS 316.197
+  - ORS 316.202
+  - ORS 316.207
+  - ORS 316.212
+  - ORS 320.550
+  - ORS 320.555
+  - ORS 320.560
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 160>.
+
+# SB 160 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 160, 2025 Regular Session (2025R1)
+- **LC number:** 1169
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-01-22T16:20:43
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 35050 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB160/Introduced>.
+
+## Summary
+
+**Catchline:** Repeals the state payroll tax on wages imposed to finance transportation investments and improvements and maintain existing public transportation services.
+
+**Relating to:** Relating to transportation taxes; prescribing an effective date.
+
+Digest: The Act would end the tax on wages that funds statewide transportation uses. (Flesch Readability Score: 63.4). 
+ Repeals the state payroll tax on wages imposed to finance transportation investments and improvements and maintain existing public transportation services. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to transportation taxes; creating new provisions; amending ORS 184.751, 184.758, 184.766, 316.164, 316.169, 316.197, 316.202, 316.207 and 316.212; repealing ORS 320.550, 320.555 and 320.560; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 160
+Sponsored by Senator MEEK (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would end the tax on  wages that funds statewide transportation uses. (Flesch
+Readability Score: 63.4).
+Repeals the state payroll tax on wages imposed to finance transportation investments and  im-
+provements and maintain existing public transportation services.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to  transportation taxes; creating new provisions; amending ORS 184.751, 184.758, 184.766,
+316.164, 316.169, 316.197, 316.202, 316.207 and 316.212;  repealing ORS 320.550, 320.555 and
+320.560; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ORS 320.550, 320.555 and 320.560 are repealed.
+SECTION 2.  ORS 184.751 is amended to read:
+184.751. (1) The Statewide Transportation Improvement Fund is established in  the State Treas-
+ury, separate and distinct from the General Fund. Interest earned by  the Statewide Transportation
+Improvement Fund shall be credited to the fund. Moneys in the  fund are continuously appropriated
+to the Department of Transportation to finance investments  and improvements or to maintain ex-
+isting public  transportation services, except that the moneys may not be used for light rail capital
+expenses but may be used for light rail operation expenses.
+(2) The Statewide Transportation Improvement Fund consists of:
+[(a) All moneys received from the tax imposed under ORS 320.550; ]
+[(b)] (a) Moneys appropriated or otherwise transferred to the fund by the  Legislative Assembly;
+[(c)] (b) Moneys transferred to the fund under ORS 184.642, 323.455 or 323.457 (1)(d) and (2)(b);
+[(d)] (c) Distribution repayments, if any; and
+[(e)] (d) Other moneys deposited in the fund from any source.
+(3) Unless approved by the department, the moneys in the Statewide  Transportation Improve-
+ment Fund may not be used to  supplant local and regional agency moneys currently directed to
+public transportation service providers.
+SECTION 3.  ORS 184.758 is amended to read:
+184.758. (1) The Oregon Transportation Commission shall distribute the moneys in the  Statewide
+Transportation Improvement Fund established  under ORS 184.751 to the Department of Transporta-
+tion to pay for:
+(a) Program administration; and
+(b) Projects of statewide significance that support the transit  network and manage the operation
+of public transportation services.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1169
+(2) The moneys described in subsection (1) of this section that  remain after the distribution of
+moneys described in subsection (1) of this section shall be distributed as follows:
+(a) Conditioned upon the commission’s approval  of a public transportation improvement plan, 90
+percent to qualified entities;
+(b) Five percent to  public transportation service providers based on a competitive grant program
+adopted by the commission by rule;
+(c) Four percent to  public transportation service providers to provide funding assistance to
+cover the costs of improving public transportation services between two or more communities; and
+(d) One  percent to the Department of Transportation to establish a statewide public transpor-
+tation technical resource center, the purpose of which is to  assist public transportation service
+providers in rural  areas with technical assistance, training, transportation planning and information
+technology.
+(3) A portion  of the 90 percent distribution under subsection (2)(a) of this section shall be dedi-
+cated to transit services for older adults and individuals with disabilities.  Each biennium the com-
+mission shall first distribute the moneys transferred to the fund under ORS 184.751 as needed  to
+maintain funding that benefits older adults and individuals with disabilities in the  amount distrib-
+uted during the 2019-2021 biennium.  Each biennium thereafter, the commission shall adjust this
+amount upward or downward based on  the rate of growth or decline of the Statewide Transportation
+Improvement Fund. Moneys dedicated to transit services for older  adults and individuals with disa-
+bilities under this subsection shall be distributed as follows:
+(a) Each transportation district and mass transit district shall receive that share of  the moneys
+as the population of the counties in which the district is  situated, determined under ORS 190.510 to
+190.610 last preceding apportionment of the moneys, bears to the total population of  this state.
+However, if two or more districts are situated in a single county, distribution of moneys under  this
+subsection shall be determined as though only the mass transit  district is located in that county or,
+if there are two or more transportation districts in the county, as though only the transportation
+district with the highest population is located in that county.
+(b) Each county in which no part of a mass transit district  or transportation district is located
+shall receive that share of the  moneys as its population, determined under ORS 190.510 to 190.610
+last preceding apportionment of the moneys, bears to the total population of this state.
+(c) Each federally recognized  Indian tribe shall receive that share of the moneys as the popu-
+lation of the tribe residing in Oregon, determined by the commission by rule,  bears to the total
+population of this state.
+(4) Each  qualified entity under subsection (3) of this section shall receive an annual target
+amount of $67,700. Each biennium, the commission shall adjust this amount  upward or downward
+based on the rate of growth or decline of the Statewide Transportation Improvement Fund.
+(5) After a  portion of the 90 percent distribution under subsection (2)(a) of this section is dis-
+tributed to transit services for older adults and  individuals with disabilities under subsection (3) of
+this section, the commission shall distribute the remaining amount to qualified entities as follows:
+(a) Each distribution  must be in such shares that the amount of [ tax paid, as required under ORS
+320.550, in] the moneys described in  ORS 184.751 (2) attributable to the area of each qualified
+entity bears to the total amount of [ the tax paid  statewide] such moneys attributable to the entire
+state, provided that each qualified entity receives an annual target amount  of $100,000. Each
+biennium, the commission shall adjust this amount upward or downward  based on the rate of growth
+or decline of the Statewide Transportation Improvement Fund.
+(b) If more than one mass transit district  or transportation district is located within a single
+county, the commission shall distribute the moneys to the larger district.
+(6) The commission shall adopt by rule:
+(a) A competitive grant program, by which  a public transportation service provider may apply
+for a percentage distribution under subsection (2)(b) of this section, and  the terms and conditions
+of grants.
+(b) A competitive grant program, by which  a public transportation service provider may apply
+for a percentage distribution under subsection (2)(c) of this section,  and the terms and conditions
+of grants.
+(c) A process to  review and approve a public transportation improvement plan submitted under
+subsection (7) of this section.
+(d) Procedures for appealing a  rejection of a public transportation improvement plan submitted
+under subsection (7) of this section.
+(e) Any other provisions or procedures that are necessary for the commission to carry out  the
+provisions of ORS 184.758 to 184.766.
+(7) To be eligible to receive a percentage distribution under subsection (2)(a) of this section,  a
+qualified entity shall prepare and submit a public  transportation improvement plan to the commis-
+sion. The commission must approve the plan submitted by the qualified entity before the  commission
+may make a percentage distribution to the qualified entity.
+(8) At a minimum,  a public transportation improvement plan submitted under this section must
+include:
+(a) For each proposed project, the amount of moneys from the percentage distribution that would
+be allocated to the project to fund the following:
+(A) Increased frequency of  bus service schedules in communities with a high percentage of
+low-income households;
+(B) Procurement of buses that are powered by natural  gas or electricity for use in areas with
+a population of 200,000 or more;
+(C) Implementation of programs  to reduce fares for public transportation in communities with
+a high percentage of low-income households;
+(D) Expansion of bus routes and  bus services to reach communities with a high percentage of
+low-income households;
+(E) Improvement in the frequency and reliability of service connections between communities
+inside and outside of the qualified entity’s service area;
+(F) Coordination  between public transportation service providers to reduce fragmentation in the
+provision of transportation services;
+(G) Implementation of programs to  provide student transit services for students in grades 9
+through 12; and
+(H) Services for older adults and people with disabilities;
+(b) For the current fiscal year, a summary of any plans and  project proposals approved by an
+advisory committee under ORS 184.761; and
+(c) If a qualified entity was a  recipient of a percentage distribution in the preceding fiscal year,
+the amount of moneys  received from the distribution that were allocated to a project for the pur-
+poses described under paragraph (a) of this subsection.
+(9) If practicable, as determined by the commission by rule each  qualified entity shall spend at
+least one percent of the amount received each year under subsection (2)(a) of this  section to imple-
+ment programs to provide student transit services for students in grades 9 through 12.
+(10) After the commission makes a distribution under subsection  (2) of this section, qualified
+entities may  enter into intergovernmental agreements under ORS chapter 190 to combine the mon-
+eys received for public transportation improvements.
+(11) If the commission rejects  a public transportation improvement plan or a grant application
+submitted under this section, the commission shall  notify the entity or provider in writing and state
+the reasons for the rejection.
+(12) The Department of Transportation shall make all grant  applications submitted under this
+section available to the public.
+SECTION 4.
+ ORS 184.766 is amended to read:
+184.766. (1) Every qualified entity that receives a percentage distribution under  ORS 184.758
+shall submit the following to the Department of Transportation:
+[(a) No later than 60 days after the end of  the fiscal year, a report on any actions taken by a public
+transportation service provider located within the area of a  qualified entity to mitigate the impact of the
+tax imposed under ORS 320.550 on passengers who reside in low-income communities; ]
+[(b)] (a) No later than 30 days after adoption, the  annual budget for the upcoming fiscal year;
+and
+[(c)] (b) No later than 30 days after receipt of the  final results of any audits of the qualified
+entity or of  a public transportation service provider located within the area of the qualified entity
+as required by a local, state or federal oversight agency for purposes of statewide  reporting, the
+final results including, but not limited to:
+(A) The state financial report required under ORS 291.040;
+(B) The results of any comprehensive  review completed by the Federal Transit Administration
+or the department;
+(C) Any information  submitted by the qualified entity as a part of the requirements of a state-
+wide audit in  accordance with the federal Single Audit Act of 1984 (31 U.S.C. 7501 to 7507), as
+amended by the Single Audit Act Amendments of 1996 (P.L. 104-156); and
+(D) Any quarterly reports that detail  project progress, outcomes achieved and the expenditure
+of funds described under ORS 184.758 (2)(a).
+(2) The Oregon Transportation Commission shall  establish rules concerning the making of
+agreements for the distributions made to qualified entities under ORS 184.758. Each agreement must
+include a condition that requires a qualified entity to repay,  in full, distributions paid to the quali-
+fied entity, if the commission determines that the  recipient has failed meet to any terms or condi-
+tions of the agreement.
+SECTION 5.
+ ORS 316.164 is amended to read:
+316.164. (1) Except as provided in subsection (3) of this section, if  the Department of Revenue
+makes the findings required under subsection  (2) of this section, the department may require any
+employer subject to ORS 316.162 to 316.221, except the state or its political  subdivisions, to post a
+surety bond, or irrevocable letter of credit issued by an insured institution,  as defined in ORS
+706.008, with the department,  to secure future payment of amounts required to be withheld and paid
+over to the department under ORS 316.162 to 316.221 [ or 320.550]. The  bond or letter of credit shall
+be in an amount equal to the amounts required to be withheld upon the wages  paid or estimated to
+be paid by the employer for a period of four calendar quarters. The bond or letter of  credit shall
+be in a form acceptable to  the department. Posting of the bond or letter of credit shall not relieve
+the employer from withholding and paying over amounts  based on wages paid by the employer under
+any provision of ORS 316.162 to 316.221 [ or 320.550]. The department may, in its  discretion, at any
+time apply such bond or letter of credit or part thereof to  the delinquencies or indebtedness of the
+employer  arising  under any provision of ORS 316.162 to 316.221 [ and 320.550] and accruing after the
+date the bond or letter of credit was posted. Appeal  of an action of the department under this sec-
+tion shall not relieve an employer of the requirement during the pendency of the appeal.
+(2) Before requiring an employer to post a bond or irrevocable letter  of credit under subsection
+(1) of this section, the department shall determine that the employer has failed to make payment  to
+the department of amounts required to be  withheld and paid over under any provision of ORS
+316.162 to 316.221 [ or 320.550] for at least three calendar quarters, and the total amount of delin-
+quent payments exceeds $2,500, exclusive of interest or penalties. For purposes of this  subsection,
+a payment shall not be considered delinquent if the employer’s liability to withhold is subject  to
+appeal to the tax court.
+(3) The department shall not require a bond or irrevocable  letter of credit to be posted under
+this section if the employer elects to notify the department of the times of  payment of wages to the
+employees of the employer, and, notwithstanding ORS 316.197, to pay over amounts  withheld within
+three banking days after the dates the wages were paid.
+(4) Before requiring an employer to  post a bond or irrevocable letter of credit or make payment
+of amounts required to be  withheld in the manner prescribed in subsection (3) of this section, the
+department shall attempt to obtain payment of delinquent amounts through other methods  of col-
+lection, however, the department is not  required to seize or sell real or personal property in order
+to comply with the requirements of this subsection.
+(5) Any bond or irrevocable letter of credit required under subsection (1) of this  section shall
+become the sole property of the department and  shall be held by the department to guarantee pay-
+ment of withholding taxes  by the employer. The bond or letter of credit shall be held for the benefit
+of the State of Oregon, subject only to the provisions of subsection (6) of  this section. The bond or
+letter of credit shall be prior to  all other liens, claims or encumbrances and shall be exempt from
+any process, attachment, garnishment or execution.
+(6) If an employer ceases to be  an employer subject to ORS 316.162 to 316.221 [ or 320.550], the
+department shall, upon receipt  of all payments due from the employer for withheld amounts, cancel
+any bond or irrevocable letter of credit given under  this section. Such bonds or letters of credit held
+for the benefit of the State of Oregon shall  first be applied to any indebtedness or deficiencies due
+from the employer under ORS 316.162 to 316.221 [ and 320.550] and accruing after the  date the bond
+or letter of credit was posted before any return is made to the employer. The employer shall  have
+no interest in such bond or letter of credit prior to full compliance with this section and all pro-
+visions of ORS 316.162 to 316.221 [ and 320.550].
+(7) If an employer required to post a bond or irrevocable letter of credit or make payment of
+amounts withheld in the manner prescribed under this section makes full payment  of all delinquent
+amounts due and owing at the time the bond, letter  of credit or accelerated payment schedule was
+required and makes payment  of amounts due under ORS 316.162 to 316.221 [ and 320.550] and files
+returns required in connection with  those payments in a timely manner for the succeeding four
+calendar quarters, the department shall release  the employer from the requirement to post the bond
+or letter of credit or make accelerated payments of amounts withheld.
+(8) If any employer fails to comply with subsections (1) to (7) of this section, the Oregon  Tax
+Court, upon commencement  of an action by the department for that purpose, may order the employer
+to post the required bond or irrevocable letter of credit or make accelerated payments of  amounts
+withheld. The employer’s failure to obey an order of the court  is punishable by contempt. If the
+Oregon  Tax  Court determines that an order of compliance enforceable by contempt proceedings will
+not assure  the payment of withheld taxes by the employer, the court may enjoin the employer from
+further employing individuals in this state or continuing in business  therein until the employer has
+complied with subsections (1) to (7) of this section.
+SECTION 6.
+ ORS 316.169 is amended to read:
+316.169. (1) If a lender, surety or other person  who is not an employer with respect to an em-
+ployee pays wages directly to the employee, or to  an agent on behalf of the employee, the lender,
+surety or other  person shall deduct and retain from the wages, and shall be liable to this state for,
+an amount equal to the amount required to be withheld  from the employee’s wages by the employer
+under ORS 316.167 [ and 320.550].
+(2) A lender, surety or other person  described under this section shall file a combined quarterly
+tax report and make payment  of the tax or assessment that is due in the time and manner prescribed
+for employers under ORS 316.168.
+(3) Amounts paid under  this section shall be credited against the liability of the employer under
+ORS 316.167 [ and 320.550].
+(4) A lender, surety or other  person described under this section shall be considered to be an
+employer with respect to withholdings made under this section or required to be made  under this
+section for purposes of ORS 316.191, 316.197, 316.202, 316.207[ ,] and 316.212 [ and 320.550].
+(5) The employer of an employee that receives wages from a lender, surety or  other person shall
+not be discharged from  any liability or other obligation under ORS 316.162 to 316.221 [ or 320.550]
+except as provided for in subsection (3) of this section.
+SECTION 7.  ORS 316.197 is amended to read:
+316.197. (1)(a) Except as provided under ORS 316.191 or paragraph (b) of  this subsection, within
+the time that each employer is required to pay over taxes withheld for federal income  tax purposes
+for any period, the employer shall pay over to the  Department of Revenue or to a financial agent
+of the  department the amounts required to be withheld under ORS 316.167[ ,] and 316.172 [ and
+320.550] for the same period. Any employer not required to withhold federal income  taxes for any
+period but who is required to  deduct and retain amounts from wages paid to an employee under ORS
+316.167[,] and 316.172 [ and 320.550] for the  same period shall pay over to the department, or finan-
+cial agent of the  department, taxes withheld for the period, within the time and in the manner, as
+if the employer were required to withhold taxes for the period under federal law.
+(b) Notwithstanding the provisions of paragraph (a) of this  subsection, any employer of agricul-
+tural employees who is  not required to withhold federal income taxes for any period but who is re-
+quired to deduct and retain amounts from wages paid to  those employees under ORS 316.167 and
+316.172 shall pay over to the department,  or financial agent of the department, taxes so withheld
+at the same time and for the same period for which the  employer is required to pay over employer
+and employee taxes under  chapter 21 of the Internal Revenue Code (Federal Insurance Contributions
+Act).
+(2) Every amount so paid over shall be accounted for as part of the collections under this
+chapter. No  employee has any right of action against an employer in respect of any moneys deducted
+from wages and paid over in compliance or intended compliance with this section.
+(3) If any amount required to be  withheld and paid over to the department is delinquent, interest
+shall accrue at the rate prescribed under ORS 305.220 on that amount from the last day of the month
+following the end of the calendar quarter within which the amount was required to be paid to the
+department to the date of payment. The provisions  of this subsection shall not relieve any employer
+from liability for a late payment penalty under any other provision of law.
+SECTION 8.
+ ORS 316.202 is amended to read:
+316.202. (1) With  each payment made to the Department of Revenue, every employer shall de-
+liver to the department, on a form prescribed by the  department showing the total amount of with-
+held taxes in accordance with ORS 316.167[ ,] and 316.172 [ and 320.550 ], and supply any other
+information as the department may require. The employer is charged with the duty of  advising the
+employee of the amount of moneys withheld, in accordance with  any regulations as the department
+may prescribe, using printed forms furnished or approved by the department for this purpose.
+(2) Except as provided in subsection (5) of this section, every  employer shall submit a combined
+quarterly return to the department on a form provided by it showing the number  of payments made
+and the withheld taxes paid during  the quarter. The report shall be filed with the department on
+or before the last day of the month following the end of the quarter.
+(3) The employer shall make an  annual return to the department on forms provided or approved
+by it, summarizing the total compensation paid and the taxes withheld for all employees  during the
+calendar year and shall file the same with  the department on or before the due date of the corre-
+sponding federal  return for the year for which report is made. Failure to file the annual report
+without reasonable excuse  on or before the 30th day after notice has been given to the employer
+of failure subjects the employer to a penalty of $100. The department may by rule require  additional
+information the department finds  necessary to substantiate the annual return, including but not
+limited to  copies of federal form W-2 for individual employees, and may prescribe circumstances
+under which the filing requirement imposed by this subsection is waived.
+(4) The employer shall indicate on the return required by subsection (3) of this  section whether
+the employer offers a qualified retirement plan, as listed in ORS 178.215 (8), that  would allow the
+employer to obtain an exemption from  offering employees enrollment in the retirement plan devel-
+oped under ORS 178.205. The  department shall provide a means on the return by which the employer
+may make this indication.
+(5) Notwithstanding the provisions of  subsection (2) of this section, employers of agricultural
+employees may submit returns annually showing the number of  payments made and the withheld
+taxes paid. However, such employers shall make and  file a combined quarterly tax report with re-
+spect to other tax programs, as required by ORS 316.168.
+(6) In addition to any other penalty required by law:
+(a) A person who fails to substantiate a report required under  subsection (3) of this section, or
+who files incomplete or incorrect  substantiation, shall be subject to a penalty of $50 per federal form
+W-2 after the date on which the substantiation is due, up to a maximum penalty of $2,500.
+(b) A person who knowingly fails to substantiate a report required under subsection  (3) of this
+section, or who knowingly files incomplete or incorrect substantiation, shall  be subject to a penalty
+of $250 per federal form W-2 after the date on which the substantiation is due, up to a  maximum
+penalty of $25,000.
+SECTION 9.
+ ORS 316.207 is amended to read:
+316.207. (1) Every employer who deducts and retains  any amount under ORS 316.162 to 316.221
+[and 320.550] shall hold the same in trust for the State of Oregon and  for the payment thereof to the
+Department of Revenue in the manner and at the time provided in ORS 316.162 to 316.221.
+(2) At any time the employer  fails to remit any amount withheld, the department may enforce
+collection by the issuance of a distraint warrant for the  collection of the delinquent amount and all
+penalties, interest and  collection charges accrued thereon. The warrant shall be issued, recorded
+and proceeded upon in the same manner and shall have the same force and effect as  is prescribed
+with respect to warrants for the collection of delinquent income taxes.
+(3)(a) In the case of an employer that  is assessed pursuant to the provisions of ORS 305.265 (12)
+and 314.407 (1), the department may issue a notice of  liability to any officer, employee or member
+described in ORS  316.162 (1)(b) of the employer within three years from the time of assessment.
+Within 30 days from the date the notice of liability is mailed  to the officer, employee or member, the
+officer, employee or  member shall pay the assessment, plus penalties and interest, or advise the de-
+partment in writing of objections to the liability and, if desired,  request a conference. Any confer-
+ence shall be governed by  the provisions of ORS 305.265 pertaining to a conference requested from
+a notice of deficiency.
+(b) After a conference or, if no conference is requested, a determination of the issues considering
+the written objections, the department shall  mail the officer, employee or member a conference let-
+ter affirming, canceling or adjusting the notice of liability. Within 90 days from the date the con-
+ference letter is mailed to the officer, employee or member,  the officer, employee or member shall
+pay the assessment, plus penalties and interest, or appeal to the tax court in the manner provided
+for an appeal from a notice of assessment.
+(c) If neither payment nor written objection to the notice  of liability is received by the depart-
+ment within  30 days after the notice of liability has been mailed, the notice of liability becomes final.
+In this event, the officer, employee or member may appeal the notice of liability to  the tax court
+within 90 days after  it became final in the manner provided for an appeal from a notice of assess-
+ment.
+(4)(a) In the case of a failure to file a withholding  tax report on the due date, governed by the
+provisions of ORS 305.265  (10) and 314.400, the department, in addition to the provisions of ORS
+305.265 (10) and 314.400, may send notices of determination  and assessment to any officer, employee
+or member described in ORS 316.162 (1)(b) any time  within three years after the assessment of an
+employer described in  ORS 316.162 (1)(a). The time of assessment against the officer, employee or
+member shall be 30 days after the date the notice of determination and assessment is  mailed. Within
+30 days from the date the notice of determination and assessment is mailed  to the officer, employee
+or member, the  officer, employee or member shall pay the assessment, plus penalties and interest,
+or advise the department in writing of objections  to the assessment, and if desired, request a con-
+ference. Any conference shall be governed by the provisions of ORS 305.265  pertaining to a confer-
+ence requested from a notice of deficiency.
+(b) After a conference or, if no conference is requested, a determination of the issues considering
+the written objections, the department shall  mail the officer, employee or member a conference let-
+ter affirming, canceling or  adjusting the notice of determination and assessment. Within 90 days
+from the date the conference letter is  mailed to the officer, employee or member, the officer, em-
+ployee or member shall pay the assessment, plus penalties and interest, or appeal in the  manner
+provided for an appeal from a notice of assessment.
+(c) If neither payment nor written objection to the notice  of determination and assessment is
+received by the department within 30 days after  the notice of determination and assessment has
+been mailed, the notice of determination and assessment becomes final. In this  event, the officer,
+employee or member may  appeal the notice of determination and assessment to the tax court within
+90 days after it became final in the manner provided for an appeal from a notice of assessment.
+(5)(a) More than one officer or employee of a corporation may be held jointly and severally lia-
+ble for payment of withheld taxes.
+(b) Notwithstanding the provisions of ORS 314.835, 314.840 or 314.991, if more than one  officer
+or employee  of a corporation may be held jointly and severally liable for payment of withheld taxes,
+the department may require any or all of the officers, members or employees who  may be held liable
+to appear before the department for a joint determination of liability.  The department shall notify
+each officer, member or employee of the time and place set for the determination of liability.
+(c) Each person notified of a joint determination under this  subsection shall appear and present
+any information as is necessary to  establish that person’s liability or nonliability for payment of
+withheld taxes to the department. If any person notified fails  to appear, the department shall make
+its determination on the basis of all the  information and evidence presented. The department’s de-
+termination shall be binding on all persons notified and required to appear under this subsection.
+(d)(A) If an appeal is  taken to the Oregon Tax Court pursuant to ORS 305.404 to 305.560 by any
+person determined to be liable for unpaid withholding taxes under this subsection, each  person re-
+quired to appear before the department under this subsection shall be impleaded by the  plaintiff.
+The department may implead any officer,  employee or member who may be held jointly and severally
+liable for the payment of withheld taxes. Each person impleaded under this paragraph shall be  made
+a party to the action before the tax court and shall make available to the tax court any information
+as was presented before the department,  as well as any other information as may be presented to
+the court.
+(B) The court may  determine that one or more persons impleaded under this paragraph are lia-
+ble for unpaid withholding taxes without regard to any earlier  determination by the department that
+an impleaded person was not liable for unpaid withholding taxes.
+(C) If any person required to appear  before the court under this subsection fails or refuses to
+appear or bring such information in part or in whole, or  is outside the jurisdiction of the tax court,
+the court shall make its determination on the basis of all  the evidence introduced. All such evidence
+shall constitute a public  record and shall be available to the parties and the court notwithstanding
+ORS 314.835, 314.840 or 314.991. The determination of the tax court shall  be binding on all persons
+made parties to the action under this subsection.
+(e) Nothing in this section shall be construed to preclude a determination  by the department or
+the Oregon Tax Court that  more than one officer, employee or member are jointly and severally li-
+able for unpaid withholding taxes.
+SECTION 10.
+ ORS 316.212 is amended to read:
+316.212. The provisions of the income tax laws in ORS  chapters 305 and 314 and this chapter,
+as to the audit and examination of returns, periods of limitation, determinations of and notices  of
+deficiencies, assessments, collections, liens, delinquencies, claims  for refund and refunds, confer-
+ences, judicial appeals, stays of collection pending appeal, confidentiality of returns and  the related
+penalties, and the related procedures, apply  to employers subject to the provisions of ORS 316.162
+to 316.221 [ and 320.550], and for these  purposes any amount deducted or required to be deducted and
+remitted to the Department of Revenue under ORS 316.162 to 316.221 [ and 320.550] is considered the
+tax of the employer and with respect to the amount the employer is considered as a taxpayer.
+SECTION 11.  The amendments to ORS 184.751,  184.758, 184.766, 316.164, 316.169, 316.197,
+316.202, 316.207 and 316.212 by sections 2 to 10  of this 2025 Act and the repeal of ORS 320.550,
+320.555 and 320.560 by section 1 of this 2025 Act apply to calendar years beginning on or after
+January 1, 2026.
+SECTION 12. This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 184.751, ORS 184.758, ORS 184.766, ORS 316.164, ORS 316.169, ORS 316.197, ORS 316.202, ORS 316.207, ORS 316.212, ORS 320.550, ORS 320.555, ORS 320.560
+- From bill text (Introduced version): ORS 178.205, ORS 178.215, ORS 184.642, ORS 184.751, ORS 184.758, ORS 184.761, ORS 184.766, ORS 190.510, ORS 291.040, ORS 305.220, ORS 305.265, ORS 305.404, ORS 314.400, ORS 314.407, ORS 314.835, ORS 314.840, ORS 316.162, ORS 316.164, ORS 316.167, ORS 316.168, ORS 316.169, ORS 316.172, ORS 316.191, ORS 316.197, ORS 316.202, ORS 316.207, ORS 316.212, ORS 320.550, ORS 320.555, ORS 320.560, ORS 323.455, ORS 706.008
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `88e6a5c0b96563786a9926fe0e2aad992e871aa2bbc630550bc2d09a1d830b50` (snapshot `_meta/snapshots/measure-2025r1-sb160-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB160/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 160> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

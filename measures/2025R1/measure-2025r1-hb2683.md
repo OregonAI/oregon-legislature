@@ -1,0 +1,285 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2683
+title: 'HB 2683 (2025R1): Provides that a person may request that the Department of Transportation include
+  on a registration card, driver license, driver permit or identification card the fact that the person
+  has a disability that interferes with the person''s ability to effectively communicate with a police
+  officer.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2683
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2683/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: fcf730e318d87c54803de44804ee23609025a8bc5d48da2099527de9e7e1d348
+snapshot_id: measure-2025r1-hb2683-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 192.846
+  - ORS 408.225
+  - ORS 802.250
+  - ORS 802.253
+  - ORS 803.500
+  - ORS 807.110
+  - ORS 807.120
+  - ORS 807.150
+  - ORS 807.160
+  - ORS 807.730
+  - ORS 819.012
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2683
+prefix_meaning: House Bill
+catch_line: Provides that a person may request that the Department of Transportation include on a registration
+  card, driver license, driver permit or identification card the fact that the person has a disability
+  that interferes with the person's ability to effectively communicate with a police officer.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act says a person can ask ODOT to add a note on their reg card, driver\
+  \ license, permit or ID card. The note will let police officers know that the person has a disability\
+  \ that makes it hard to communicate with the officer. To do this, the person will need to fill out a\
+  \ form and get a doctor or other listed health professional to confirm the disability. (Flesch Readability\
+  \ Score: 62.1). \n\tProvides that a person may request that the Department of Transportation include\
+  \ on a registration card, driver license, driver permit or identification card the fact that the person\
+  \ has a disability that interferes with the person's ability to effectively communicate with a police\
+  \ officer. Requires the person to submit an application to the department and have a health care professional\
+  \ verify the disability."
+relating_to: Relating to documents issued by the Department of Transportation.
+relating_to_full: Relating to documents issued by the Department of Transportation; creating new provisions;
+  and amending ORS 803.500 and 807.110.
+at_the_request_of: null
+lc_number: 3781
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-01-27T10:27:44'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 10976
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 192.846
+  - ORS 408.225
+  - ORS 802.250
+  - ORS 802.253
+  - ORS 803.500
+  - ORS 807.110
+  - ORS 807.120
+  - ORS 807.150
+  - ORS 807.160
+  - ORS 807.730
+  - ORS 819.012
+  from_relating_to_full:
+  - ORS 803.500
+  - ORS 807.110
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2683>.
+
+# HB 2683 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2683, 2025 Regular Session (2025R1)
+- **LC number:** 3781
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-01-27T10:27:44
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 10976 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2683/Introduced>.
+
+## Summary
+
+**Catchline:** Provides that a person may request that the Department of Transportation include on a registration card, driver license, driver permit or identification card the fact that the person has a disability that interferes with the person's ability to effectively communicate with a police officer.
+
+**Relating to:** Relating to documents issued by the Department of Transportation.
+
+Digest: The Act says a person can ask ODOT to add a note on their reg card, driver license, permit or ID card. The note will let police officers know that the person has a disability that makes it hard to communicate with the officer. To do this, the person will need to fill out a form and get a doctor or other listed health professional to confirm the disability. (Flesch Readability Score: 62.1). 
+ Provides that a person may request that the Department of Transportation include on a registration card, driver license, driver permit or identification card the fact that the person has a disability that interferes with the person's ability to effectively communicate with a police officer. Requires the person to submit an application to the department and have a health care professional verify the disability.
+
+**RelatingToFull (verbatim upstream field):** Relating to documents issued by the Department of Transportation; creating new provisions; and amending ORS 803.500 and 807.110.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2683
+Sponsored by Representative MCINTIRE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says a person can  ask ODOT to add a note on their reg card, driver license,
+permit or  ID card. The note will let police officers know that the person has a disability that makes
+it hard to communicate with the officer. To do this,  the person will need to fill out a form and get
+a doctor or other listed health  professional to confirm the disability. (Flesch Readability Score: 62.1).
+Provides that a person may request that the Department of Transportation  include on a regis-
+tration card, driver license, driver permit or identification card the fact that the person has a disa-
+bility that interferes with the person’s ability to effectively communicate with a police officer.
+Requires the person to submit an application  to the department and have a health care professional
+verify the disability.
+A BILL FOR AN ACT
+Relating to documents issued by the Department of  Transportation; creating new provisions; and
+amending ORS 803.500 and 807.110.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of the Oregon Vehicle
+Code.
+SECTION 2. (1) As used in this section:
+(a) “Disability” means a disability, as defined by the Americans with Disabilities  Act of
+1990 (42 U.S.C. 12101 et seq.) and that interferes with the person’s ability to  effectively
+communicate with a police officer.
+(b) “Health care  professional” means a person licensed in this state to practice as a
+physician, physician associate, naturopathic physician,  nurse practitioner, psychologist, pro-
+fessional counselor or marriage and family therapist.
+(2) A person who has a disability may  request that the Department of Transportation add
+a symbol on the person’s registration card, driver license, driver permit or identification card
+that indicates that the disability  interferes with the person’s ability to effectively communi-
+cate with a police officer.
+(3) The department shall approve a request to include a symbol on the person’s  regis-
+tration card, driver license, driver permit or  identification card by any person whose disa-
+bility is verified by a  health care professional and who submits an application that complies
+with this section.
+(4) An application for approval to include a symbol on a  person’s registration card, driver
+license, driver permit or identification card must include:
+(a) A certificate, signed and dated  within six months preceding the date of application,
+submitted by a health care professional  to the department verifying that the applicant is a
+person with a disability;
+(b) The state-issued licensing number of the  health care professional who signed the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3781
+certificate; and
+(c) The number of the registration card,  driver license, driver permit or identification
+card issued to the applicant by the department.
+(5) At the time of renewal or replacement  of a registration card, driver license, driver
+permit or identification card, a person may elect to remove the symbol.
+(6) The verification requirements under this section do not  apply to a person who elects
+to include a designation on the person’s registration card, driver license, driver permit  or
+identification card as permitted under ORS 803.500 (7) or 807.110 (1)(m) because the  person
+is deaf or hard of hearing.
+(7) A request for the inclusion of a  symbol under this section does not, by itself, consti-
+tute good cause to impose restrictions on driving privileges as provided under ORS 807.120.
+(8) The department may adopt rules to carry out the provisions of this section.
+SECTION 3.
+ ORS 807.110 is amended to read:
+807.110. (1) A driver license issued by the Department  of Transportation shall contain all of the
+following:
+(a) The distinguishing number assigned to the person issued the  driver license by the depart-
+ment.
+(b) For the purpose of identification, a brief description  of the person to whom the driver license
+is issued.
+(c) The full legal name of the person to whom the driver license  is issued, except that the de-
+partment may limit the number of characters displayed on the driver license.
+(d) The date of birth and sex of the person to whom the driver license is issued.
+(e) Except as provided for corrections officers in ORS  802.253, eligible employees in ORS 802.250
+or Address Confidentiality Program participants in ORS 192.846, the residence address of  the person
+to whom the driver license is issued.
+(f) Upon request of the person to whom the driver  license is issued, the fact that the person is
+an anatomical donor.
+(g) Upon request of the person to whom the driver license is issued and  presentation of proof,
+as determined by the department, the fact that the person is a veteran, as defined in ORS 408.225.
+(h) Upon order of the juvenile court, the fact that the person to whom the driver  license is is-
+sued is an emancipated minor.
+(i) Except as otherwise provided in  subsection (2) of this section, a photograph described in this
+paragraph. A photograph required under this paragraph shall:
+(A) Be a full-faced, color photograph of the person to whom the driver license is issued;
+(B) Be of a size approved by the department; and
+(C) Be taken at the time of application  for issuance of the driver license whether the application
+is for an original driver license, replacement of a driver license under ORS 807.160 or renewal of a
+driver license under ORS 807.150, except that the department, by  rule, may allow the applicant to
+use a photograph already on file with the department.
+(j) The class of driver license issued and any endorsements granted.
+(k) The signature of the person to whom the driver license is issued.
+(L) If the driver license is not a Real ID, a design differentiating it from a Real ID.
+(m) Upon request of the person to whom the driver license is issued,  the fact that the person is
+deaf or hard of hearing.
+(n) Subject to approval  under section 2 of this 2025 Act, upon request of the person to
+whom the driver license is issued, the fact that the person has  a disability as defined in
+section 2 of this 2025 Act.
+(2) The department may issue a  valid driver license, other than a commercial driver license,
+without a photograph to an applicant:
+(a) Who objects on religious grounds;
+(b) Who objects because of the applicant’s facial disfigurement; or
+(c) Who is stationed outside  of this state while serving in the active military service in the
+Armed Forces of the United States or the National Guard, and  the department does not have an
+acceptable photograph of the applicant, as determined by the  department by rule. This paragraph
+applies to an applicant who is renewing or replacing a driver license.
+(3) A limited term driver license  or a limited term commercial driver license issued under ORS
+807.730 shall indicate:
+(a) That it is a limited term driver license; and
+(b) The date on which the limited term driver license expires.
+(4) The department shall use  security procedures, processes and materials in the preparation,
+manufacture and issuance of any driver license that prohibit as nearly as possible anyone’s ability
+to alter,  counterfeit, duplicate or modify the driver license without ready detection. The security
+features used in the production of the driver licenses shall provide for:
+(a) The authentication of a genuine document in a reasonable time; and
+(b) The production of the driver license only by equipment that  requires verification of the
+identity of the operator of the equipment before a driver license may be produced.
+SECTION 4.
+ ORS 803.500 is amended to read:
+803.500. The Department of Transportation shall furnish for each  vehicle and camper registered
+by the department, a registration card that shows all of the following information:
+(1) The name of the registered owner.
+(2) The make.
+(3) The year model.
+(4) The vehicle identification number as denoted by the title issued for the vehicle or camper.
+(5) The mileage of the vehicle as reported to the department  at the time the most recent title
+transfer was reported to the department, or the mileage reported to the department at the  time the
+vehicle was initially titled in Oregon, whichever occurred last.
+(6) The  word “totaled” if the vehicle has been reported to the department as a totaled vehicle
+under the provisions of  ORS 819.012 or 819.014, unless the reason for the report was theft and the
+vehicle has been recovered.
+(7) Upon request of the registered owner, the fact  that the registered owner, or a person who
+may operate the vehicle, is deaf or hard of hearing.
+(8) Subject to section 2 of this 2025 Act, upon request of the person to whom the  regis-
+tration card is issued, the fact that the person has a  disability as defined in section 2 of this
+2025 Act.
+[(8)] (9) Any other information required by the department.
+[(9)] (10) Notwithstanding subsection [ (8)] (9) of this section, after receiving the registration card
+from the department, the registered owner may black out or otherwise obscure the  residence ad-
+dress, business address, mailing address or vehicle address shown on the registration card.  No other
+information on the registration card may be blacked out or otherwise obscured.
+SECTION 5.
+The Department of Transportation  shall conduct public awareness cam-
+paigns to inform individuals with disabilities, as defined in  section 2 of this 2025 Act, and
+their families about the availability of the communication impairment  designation on regis-
+tration cards, driver licenses, driver permits and identification cards pursuant to section 2
+of this 2025 Act and the amendments to ORS 803.500 and 807.110 by sections 3 and 4 of this
+2025 Act.
+SECTION 6.
+Section 5 of this 2025 Act is repealed on January 2, 2028.
+SECTION 7. Section 2 of this 2025 Act and the amendments to ORS 803.500 and  807.110
+by sections 3  and 4 of this 2025 Act apply to registration cards, driver licenses, driver permits
+and identification cards issued, renewed or replaced on or after  the effective date of this 2025
+Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 803.500, ORS 807.110
+- From bill text (Introduced version): ORS 192.846, ORS 408.225, ORS 802.250, ORS 802.253, ORS 803.500, ORS 807.110, ORS 807.120, ORS 807.150, ORS 807.160, ORS 807.730, ORS 819.012
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `fcf730e318d87c54803de44804ee23609025a8bc5d48da2099527de9e7e1d348` (snapshot `_meta/snapshots/measure-2025r1-hb2683-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2683/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2683> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

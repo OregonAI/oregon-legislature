@@ -1,0 +1,122 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2095
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Revenue for Representative Nancy Nathanson)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes a fix to the tax credit for semiconductor research. (Flesch  Readability
+Score:  67.7).
+Modifies the tax credit for research conducted by a semiconductor company. Omits  an obsolete
+provision concerning the election of alternative incremental credit under related federal law.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to revenue; amending ORS 315.518; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 315.518 is amended to read:
+315.518. (1)  As used in this section, “qualified semiconductor company” means an entity whose
+primary business  is the research, design, development, fabrication, assembly, testing, packaging or
+validation of semiconductors, or an entity  whose primary business is the creation of semiconductor
+manufacturing equipment, semiconductor core intellectual property or  electronic design automation
+software that is primarily intended for use in the semiconductor industry.
+(2) A credit against taxes otherwise due under ORS chapter 316 or, if the taxpayer  is a corpo-
+ration, under ORS  chapter 317 shall be allowed to eligible taxpayers for increases in qualified re-
+search expenses and basic research payments. The credit shall  be determined in accordance with
+section 41 of the Internal Revenue Code, except as follows:
+(a) The  applicable percentage specified in section 41(a) of the Internal Revenue Code shall be
+15 percent.
+(b) “Qualified research” and  “basic research” shall consist only of research conducted in Oregon
+by a qualified semiconductor company, in support of a trade  or business directly related to semi-
+conductors.
+[(c) Section 41(c)(4) of the Internal Revenue Code (relating to the alternative incremental  credit)
+does not apply to the credit allowable under this section. ]
+(3) The Income Tax Regulations as prescribed by  the Secretary of the Treasury under authority
+of section 41 of the Internal Revenue Code apply for purposes  of this section, except as modified by
+this section or as provided in rules adopted by the Department of Revenue.
+(4) The maximum credit under this section may not exceed $4 million for any taxpayer.
+(5) Prior to claiming a credit  under this section, a taxpayer must obtain from the Oregon Busi-
+ness Development Department:
+(a) If applicable, approval from the Oregon Business Development Department as provided  in
+section 5, chapter 298, Oregon Laws 2023.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3636
+HB 2095
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+(b) Certification as provided in ORS 315.522.
+(6) The Oregon Business Development  Department shall provide information to the Department
+of Revenue about all certifications issued under ORS 315.522, if required by ORS 315.058.
+(7) The Director of the Oregon Business Development Department may order  the suspension or
+revocation of a credit allowed under this section, as provided in ORS 315.061.
+(8) A deduction may  not be taken for the portion of expenses or payments, otherwise allowable
+as a deduction, that is equal to the amount of the credit claimed under this section.
+(9) Notwithstanding ORS 317.090 (3), the refundable portion of a credit under  this section is al-
+lowed against the tax imposed under ORS 317.090 and may reduce the tax imposed under  ORS
+317.090 to zero. Any remaining amount of credit above the minimum shall be refunded as provided
+in ORS 315.519.
+(10) Any tax credit that is otherwise allowable under this section and  that is not used by the
+taxpayer in that year may be carried forward and  offset against the taxpayer’s tax liability for the
+next succeeding tax year. Any credit remaining unused in such  next succeeding tax year may be
+carried forward and used in the  second succeeding tax year, and likewise any credit not used in that
+second succeeding tax year may be carried forward and used  in the third succeeding tax year, and
+any credit not used in that third succeeding tax year may be carried forward and used in the fourth
+succeeding tax year, and any credit not used  in that fourth succeeding tax year may be carried
+forward and used in the fifth succeeding tax year, but may not be carried forward for any tax year
+thereafter.
+SECTION 2.
+This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

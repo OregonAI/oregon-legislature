@@ -1,0 +1,693 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3026
+title: 'HB 3026 (2025R1): Modifies eligibility requirements for a scholarship program for teacher candidates.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3026
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3026/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: aa1a2258111c8231edea79b1a2d27819fb372cf86cf992ae1c756f68e86eb03d
+snapshot_id: measure-2025r1-hb3026-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 131.915
+  - ORS 169.005
+  - ORS 179.040
+  - ORS 181A.410
+  - ORS 181A.500
+  - ORS 181A.520
+  - ORS 181A.530
+  - ORS 181A.630
+  - ORS 181A.640
+  - ORS 181A.650
+  - ORS 181A.790
+  - ORS 184.689
+  - ORS 192.245
+  - ORS 192.610
+  - ORS 192.690
+  - ORS 279A.010
+  - ORS 279A.025
+  - ORS 279A.050
+  - ORS 279A.055
+  - ORS 279A.120
+  - ORS 279A.125
+  - ORS 279A.140
+  - ORS 279A.145
+  - ORS 279C.320
+  - ORS 283.110
+  - ORS 329.075
+  - ORS 329.085
+  - ORS 329.485
+  - ORS 340.315
+  - ORS 342.120
+  - ORS 342.433
+  - ORS 342.437
+  - ORS 348.295
+  - ORS 350.426
+  - ORS 350.429
+  - ORS 352.002
+  - ORS 36.252
+  - ORS 418.747
+  - ORS 418.785
+  - ORS 426.504
+  - ORS 427.335
+  - ORS 441.055
+  - ORS 456.625
+  - ORS 469.530
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3026
+prefix_meaning: House Bill
+catch_line: Modifies eligibility requirements for a scholarship program for teacher candidates.
+minority_catch_line: null
+measure_summary: "\t<b>Digest: The Act makes changes to the education laws of this state. The Act goes\
+  \ into effect when the Governor signs it. (Flesch Readability Score: 79.3).</b> \n\t[<i>Digest: Tells\
+  \ the HECC to study higher learning. (Flesch Readability Score: 78.8).</i>] \n\t[<i>Requires the Higher\
+  \ Education Coordinating Commission to study higher education. Directs the Higher Education Coordinating\
+  \ Commission to submit findings to the interim committees of the Legislative Assembly related to higher\
+  \ education not later than September 15, 2026.</i>] \n\t<b>Modifies eligibility requirements for a scholarship\
+  \ program for teacher candidates. \n\tAuthorizes the Higher Education Coordinating Commission to procure\
+  \ or supervise the procurement of certain goods, services, personal services and information technology.\
+  \ \n\tEstablishes an exception to the requirement that all subcommittees of the Transfer Council consist\
+  \ of equal numbers of faculty from public universities and community colleges. \n\tExempts from public\
+  \ meetings laws meetings of certain subcommittees of the council. \n\tDirects the commission, in consultation\
+  \ with community colleges and public universities, to study reporting requirements affecting public\
+  \ institutions of higher education and the commission and to submit a report to the interim committees\
+  \ of the Legislative Assembly related to higher education no later than November 15, 2026. \n\tExtends\
+  \ the reporting deadline for a forestry workforce study to December 31, 2025. \n\tDeclares an emergency,\
+  \ effective on passage.</b>"
+relating_to: Relating to the Higher Education Coordinating Commission; and declaring an emergency.
+relating_to_full: Relating to the Higher Education Coordinating Commission; and declaring an emergency.
+at_the_request_of: (at the request of Governor Tina Kotek for Higher Education Coordinating Commission)
+lc_number: 501
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2026-04-15T10:31:13'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 36357
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 131.915
+  - ORS 169.005
+  - ORS 179.040
+  - ORS 181A.410
+  - ORS 181A.500
+  - ORS 181A.520
+  - ORS 181A.530
+  - ORS 181A.630
+  - ORS 181A.640
+  - ORS 181A.650
+  - ORS 181A.790
+  - ORS 184.689
+  - ORS 192.245
+  - ORS 192.610
+  - ORS 192.690
+  - ORS 279A.010
+  - ORS 279A.025
+  - ORS 279A.050
+  - ORS 279A.055
+  - ORS 279A.120
+  - ORS 279A.125
+  - ORS 279A.140
+  - ORS 279A.145
+  - ORS 279C.320
+  - ORS 283.110
+  - ORS 329.075
+  - ORS 329.085
+  - ORS 329.485
+  - ORS 340.315
+  - ORS 342.120
+  - ORS 342.433
+  - ORS 342.437
+  - ORS 348.295
+  - ORS 350.426
+  - ORS 350.429
+  - ORS 352.002
+  - ORS 36.252
+  - ORS 418.747
+  - ORS 418.785
+  - ORS 426.504
+  - ORS 427.335
+  - ORS 441.055
+  - ORS 456.625
+  - ORS 469.530
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3026>.
+
+# HB 3026 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3026, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for Higher Education Coordinating Commission)
+- **LC number:** 501
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2026-04-15T10:31:13
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 36357 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3026/Enrolled>.
+
+## Summary
+
+**Catchline:** Modifies eligibility requirements for a scholarship program for teacher candidates.
+
+**Relating to:** Relating to the Higher Education Coordinating Commission; and declaring an emergency.
+
+<b>Digest: The Act makes changes to the education laws of this state. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 79.3).</b> 
+ [<i>Digest: Tells the HECC to study higher learning. (Flesch Readability Score: 78.8).</i>] 
+ [<i>Requires the Higher Education Coordinating Commission to study higher education. Directs the Higher Education Coordinating Commission to submit findings to the interim committees of the Legislative Assembly related to higher education not later than September 15, 2026.</i>] 
+ <b>Modifies eligibility requirements for a scholarship program for teacher candidates. 
+ Authorizes the Higher Education Coordinating Commission to procure or supervise the procurement of certain goods, services, personal services and information technology. 
+ Establishes an exception to the requirement that all subcommittees of the Transfer Council consist of equal numbers of faculty from public universities and community colleges. 
+ Exempts from public meetings laws meetings of certain subcommittees of the council. 
+ Directs the commission, in consultation with community colleges and public universities, to study reporting requirements affecting public institutions of higher education and the commission and to submit a report to the interim committees of the Legislative Assembly related to higher education no later than November 15, 2026. 
+ Extends the reporting deadline for a forestry workforce study to December 31, 2025. 
+ Declares an emergency, effective on passage.</b>
+
+**RelatingToFull (verbatim upstream field):** Relating to the Higher Education Coordinating Commission; and declaring an emergency.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 3026
+Introduced and printed pursuant to House  Rule 12.00. Presession filed (at the request of Governor
+Tina Kotek for Higher Education Coordinating Commission)
+CHAPTER .................................................
+AN ACT
+Relating to the Higher Education Coordinating Commission; creating new provisions;  amending ORS
+181A.410, 192.690, 279A.050, 348.295 and 350.426 and  section 40, chapter 95, Oregon Laws 2024;
+and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 192.690, as amended by section 43, chapter 95, Oregon Laws  2024, is amended
+to read:
+192.690. (1) ORS 192.610 to 192.705 do not apply to any of the following:
+(a) Deliberations  of the Psychiatric Security Review Board or the State Board of Parole and
+Post-Prison Supervision.
+(b) Deliberations of state agencies  conducting hearings on contested cases in accordance with
+the provisions of ORS chapter 183.
+(c) Deliberations of the Workers’ Compensation  Board or the Employment Appeals Board of
+similar hearings on contested cases.
+(d) Meetings of the state lawyers  assistance committee operating under the provisions of ORS
+9.568.
+(e) Meetings of the personal and practice  management assistance committees operating under
+the provisions of ORS 9.568.
+(f) Meetings of county child abuse multidisciplinary teams required to review child  abuse cases
+in accordance with the provisions of ORS 418.747.
+(g) Meetings of child fatality review teams required to  review child fatalities in accordance with
+the provisions of ORS 418.785.
+(h) Meetings of peer review committees in accordance with the provisions of ORS 441.055.
+(i) Mediation conducted under ORS 36.252 to 36.268.
+(j) Any judicial proceeding.
+(k) Meetings of  the Oregon Health and Science University Board of Directors or its designated
+committee regarding candidates for the position of president of the university or regarding sensitive
+business, financial or commercial matters of the university not customarily provided to  competitors
+related to financings, mergers, acquisitions or joint  ventures or related to the sale or other dispo-
+sition of, or substantial change in use of, significant real or personal property,  or related to health
+system strategies.
+(L) Oregon Health and Science University faculty or staff committee meetings.
+(m) Meetings of Transfer Council subcommittees  that are established under ORS 350.426 and
+that relate to the common course  numbering system and the coordination, establishment, alignment,
+Enrolled House Bill 3026 (HB 3026-A) Page 1
+effectiveness and maintenance of foundational curricula  or unified statewide transfer
+agreements.
+(n) Communications between or among members of a governing body that are:
+(A) Purely factual or educational in nature  and that convey no deliberation or decision on any
+matter that might reasonably come before the governing body;
+(B) Not related to any matter that, at any time, could  reasonably be foreseen to come before the
+governing body for deliberation and decision; or
+(C) Nonsubstantive in nature, such as communication relating to scheduling, leaves of  absence
+and other similar matters.
+(2) Because of the grave risk to public health and safety that  would be posed by misappropri-
+ation or misapplication of information considered during such review  and approval, ORS 192.610 to
+192.705 shall not apply to review and approval  of security programs by the Energy Facility Siting
+Council pursuant to ORS 469.530.
+SECTION 2.
+ ORS 350.426 is amended to read:
+350.426. (1) The Transfer Council is established, consisting of 15 voting members, appointed by
+the Higher Education Coordinating Commission, and one nonvoting, ex officio member.
+(2) Before  appointing the voting members, the commission shall request nominations from official
+student, faculty and administrator organizations at  public universities listed in ORS 352.002, com-
+munity colleges operated under ORS chapter 341 and high schools in this state. The  15 voting
+members of the council shall consist of:
+(a) Five academic officers, two of whom are currently employed at a  public university, two of
+whom are currently employed at a community  college and one of whom is currently employed at a
+public high school in this state;
+(b) Four faculty  members, two of whom are currently employed at a public university and two
+of whom are currently employed at a community college;
+(c) One teacher who both teaches accelerated college credit programs as  defined in ORS 340.315
+and is currently employed either by an education service district or at  a public high school in this
+state;
+(d) Two individuals who  specialize in assisting students who transfer between institutions, one
+of whom is currently employed at a public university and one of whom is currently employed  at a
+community college; and
+(e) Three students, one of whom is currently enrolled at a public university, one of whom is
+currently enrolled at a community college and one of whom is currently enrolled  at a high school
+in this state.
+(3) The chairperson of the commission, or a designee of the chairperson of the  commission, shall
+serve as a nonvoting, ex officio member.
+(4)(a) The term of  office of each voting member of the council is two years. Before the expiration
+of the term of  a member, the commission shall appoint a successor. A member is eligible for reap-
+pointment.
+(b) In order to serve as a member of the  council, an individual must at all times meet the
+qualifications  for  the appointment. If at any time a member fails to meet the qualifications for the
+member’s appointment, the position is vacant.
+(c) If there is  a vacancy for any cause, the commission shall make an appointment to become
+immediately effective for the unexpired term.
+(5)(a) The council:
+(A) Shall select one or more of its members as chairperson or as cochairpersons; and
+(B) May establish, in the manner set forth in this subsection, one  or more subcommittees for the
+purpose of advising the council on how to best fulfill its duties.
+(b) For a subcommittee established under this subsection  that will make recommendations to the
+council on issues that primarily relate  to curriculum, the subject matter of courses or disciplines
+or methods of instruction,  the council may appoint any faculty member who is employed by a public
+university listed in ORS 352.002 or a community college operated under  ORS chapter 341, provided
+Enrolled House Bill 3026 (HB 3026-A) Page 2
+that the subcommittee consists of equal  numbers of faculty from public universities and community
+colleges.
+(c) Notwithstanding paragraph (b) of this subsection, the council  may a appoint a sub-
+committee that  does not have equal numbers of faculty from public universities and com-
+munity colleges if the council determines that  equal representation is not practical due to
+the uneven distribution of  responsive curriculum, courses or disciplines between public uni-
+versities and community colleges.
+[(c)] (d)  For  a subcommittee other than a subcommittee described in paragraph (b) of this sub-
+section, the council may  appoint any individual employed by a public university listed in ORS
+352.002 or a community college operated under ORS chapter 341,  including faculty, registrars, aca-
+demic advisors and academic administrators. A subcommittee established under this paragraph may
+not make recommendations to the council on issues that primarily relate to curriculum,  the subject
+matter of courses or disciplines or methods of instruction.
+[(d)] (e)  Appointment to a subcommittee established under this  subsection does not entitle an
+individual to vote as a member of the council.
+(6)(a) A majority of the voting members of the council constitutes a quorum for the  transaction
+of business.
+(b)(A) Except as provided in subparagraph (B) of  this paragraph, official action by the council
+requires the approval of a majority of the voting members of the council.
+(B) Official action by  the council on recommendations to be made to the commission under ORS
+350.429 (1)(d)(A) to (D) requires the approval of three-fifths of the voting members of the council.
+(c) Two or more voting  members of the council who disagree with recommendations that are
+submitted to the commission under ORS 350.429 (1)(d)(A) to (D) may jointly submit  a minority report
+to the commission that  contains alternate recommendations. A minority report created under this
+paragraph shall be submitted to the commission with the majority recommendations.
+(7)(a) A majority of the members of a  subcommittee established under subsection (5) of this
+section constitutes a quorum for the transaction of business of the subcommittee.
+(b)(A) Except as provided in subparagraph (B) of this paragraph, official action by  a subcom-
+mittee established under subsection (5) of this section requires approval of a  majority of the mem-
+bers of the subcommittee.
+(B) Official action by a subcommittee on recommendations to be made  to the council on a sub-
+ject that will be submitted by  the council to the commission under ORS 350.429 (1)(d)(A) to (D) re-
+quires the approval of three-fifths of the members of the subcommittee.
+(c) Two or more members of a subcommittee who  disagree with recommendations that are sub-
+mitted to the council on a subject that will be submitted by the council to the commission  under
+ORS 350.429 (1)(d)(A) to (D) may jointly  submit a minority report to the council that contains al-
+ternate recommendations. A minority report created under this paragraph shall be  submitted to the
+council with the majority recommendations.
+(8)(a) The council shall meet at least every three months at a  place, day and hour determined
+by the chairperson or cochairpersons.
+(b) In addition to the meetings required  under paragraph (a) of this subsection, the commission
+may call a meeting of the council if the commission finds a meeting to  be necessary and a meeting
+is not called by the chairperson or cochairpersons.
+SECTION 3.
+ ORS 181A.410 is amended to read:
+181A.410. (1) In accordance with any  applicable provision of ORS chapter 183, to promote
+enforcement of law and fire services by improving  the competence of public safety personnel and
+their support staffs, and in consultation with  the agencies for which the Board on Public Safety
+Standards and Training and Department of Public  Safety Standards and Training provide standards,
+certification, accreditation and training:
+(a) The department  shall recommend, and the board shall establish by rule, reasonable minimum
+standards of physical, emotional, intellectual and moral fitness for public safety  personnel and in-
+structors.
+Enrolled House Bill 3026 (HB 3026-A) Page 3
+(b) The department  shall recommend, and the board shall establish by rule, reasonable minimum
+training for all levels of professional development, basic  through executive, including but not limited
+to courses or  subjects for instruction and qualifications for public safety personnel and instructors.
+Training requirements shall  be consistent with the funding available in the department’s
+legislatively approved budget.
+(c) The  department, in consultation with the board, shall establish by rule a procedure or pro-
+cedures to be  used by law enforcement units, public or private safety agencies or the Oregon Youth
+Authority to determine whether public safety personnel  meet minimum standards or have minimum
+training.
+(d) Subject to  such terms and conditions as the department may impose, the department shall
+certify instructors and public safety  personnel, except youth correction officers, as being qualified
+under the rules established by the board.
+(e) The department shall deny applications for training and deny,  suspend and revoke certif-
+ication in the manner provided in ORS 181A.630, 181A.640 and 181A.650 (1).
+(f) The department shall cause inspection of standards and training for instructors  and public
+safety personnel, except youth correction officers, to be made.
+(g) The department may recommend, and  the board may establish by rule, accreditation stand-
+ards, levels  and categories for mandated and nonmandated public safety personnel training or edu-
+cational programs. The department and board, in  consultation, may establish to what extent training
+or educational  programs provided by an accredited university, college, community college or public
+safety agency may serve as equivalent to mandated training or as a  prerequisite to mandated
+training. Programs offered by  accredited universities, colleges or community colleges may be con-
+sidered equivalent to mandated training only in academic areas.
+(h) The department shall recommend, and the board shall establish by rule,  an educational pro-
+gram that  the board determines will be most effective in reducing profiling, as defined in ORS
+131.915, by police officers and reserve officers. The program must be required at all  levels of
+training, including basic training and advanced, leadership and continuing training.
+(2) The department may:
+(a) Contract or otherwise cooperate with any person or agency of  government for the procure-
+ment of services or property;
+(b) Procure or supervise the procurement  of goods and services, as defined in ORS 279A.010, and
+personal services designated under ORS  279A.055, to meet the requirements of subsection (1) of this
+section in accordance with ORS 279A.050 [ (6)(n)] (6)(o);
+(c) Accept gifts or grants of services or property;
+(d) Establish fees for determining whether a training or  educational program meets the accred-
+itation standards established under subsection (1)(g) of this section;
+(e) Maintain and furnish  to law enforcement units and public and private safety agencies infor-
+mation on applicants for appointment as  instructors or public safety personnel, except youth cor-
+rection officers, in any part of the state; and
+(f) Establish fees to allow recovery of the full costs  incurred in providing services to private
+entities or in providing services as experts or expert witnesses.
+(3) The department, in consultation with the board, may:
+(a) Upon the request of a law enforcement unit or public safety agency, conduct surveys or aid
+cities and counties to  conduct surveys through qualified public or private agencies and assist in the
+implementation of any recommendations resulting from such surveys.
+(b) Upon the request of  law enforcement units or public safety agencies, conduct studies and
+make recommendations concerning means by which requesting units can coordinate or combine their
+resources.
+(c) Conduct and stimulate research to improve the police, fire service, corrections, adult parole
+and probation, emergency medical dispatch and telecommunicator professions.
+Enrolled House Bill 3026 (HB 3026-A) Page 4
+(d) Provide grants from funds appropriated or available therefor, to law  enforcement units,
+public safety agencies, special districts,  cities, counties and private entities to carry out the pro-
+visions of this subsection.
+(e) Provide optional training programs for persons who operate lockups. The term  “lockup” has
+the meaning given it in ORS 169.005.
+(f) Provide optional training programs for public safety personnel and their support staffs.
+(g) Enter into agreements with federal, state or other governmental agencies  to provide training
+or other services in exchange for receiving training, fees or services of generally equivalent value.
+(h) Upon the request of a law enforcement unit or public safety agency employing  public safety
+personnel, except youth  correction officers, grant an officer, fire service professional, telecommu-
+nicator or emergency medical dispatcher a multidiscipline certification consistent with the  minimum
+requirements adopted or approved by  the board. Multidiscipline certification authorizes an officer,
+fire service professional, telecommunicator or emergency medical dispatcher to work in any of the
+disciplines for which the  officer, fire service professional, telecommunicator or emergency medical
+dispatcher is certified. The provisions of ORS 181A.500, 181A.520 and 181A.530 relating  to lapse of
+certification do not apply to an officer or fire service professional  certified under this paragraph as
+long as the officer  or fire service professional maintains full-time employment in one of the certified
+disciplines and meets the training standards established by the board.
+(i) Establish fees and guidelines for the use of the facilities of the  training academy operated
+by the  department and for nonmandated training provided to federal, state or other governmental
+agencies, private entities or individuals.
+(4) Pursuant to ORS chapter 183,  the board, in consultation with the department, shall adopt
+rules necessary to carry out the board’s duties and powers.
+(5) Pursuant to ORS chapter 183, the department, in consultation  with the board, shall adopt
+rules necessary to carry out the department’s duties and powers.
+(6) For efficiency,  board and department rules may be adopted jointly as a single set of combined
+rules with the approval of the board and the department.
+(7) The department shall obtain approval  of the board before submitting its legislative concepts,
+Emergency Board request or agency request budget to the Oregon Department of  Administrative
+Services.
+(8) The Department of Public Safety Standards and Training shall develop a training program
+for conducting investigations required under ORS 181A.790.
+SECTION 4.
+ ORS 279A.050 is amended to read:
+279A.050. (1)(a) Except as otherwise provided  in the Public Contracting Code, a contracting
+agency  shall  exercise all of the contracting agency’s procurement authority in accordance with the
+provisions of the Public Contracting Code.
+(b) If a contracting agency has authority under this section to carry  out functions described in
+this section, or has authority to make procurements under a provision of law other than  the Public
+Contracting Code, the contracting agency need not exercise the contracting agency’s authority in
+accordance with the provisions of the code if,  under ORS 279A.025, the code does not apply to the
+contract or contracting agency.
+(2)(a) Except as otherwise provided in paragraph (b) of this subsection and  the Public Con-
+tracting Code, for state agencies the Director of the  Oregon Department of Administrative Services
+has all the authority available to carry out the provisions of the Public Contracting Code.
+(b) Except  as otherwise provided in the Public Contracting Code, for state agencies the director
+may delegate to the State Chief Information Officer the authority to procure or supervise  the pro-
+curement of all  goods, services and personal services related to information technology and tele-
+communications for state contracting agencies. This  paragraph does not apply to contracts under
+which the contractor delivers  to the state agency information technology products or services inci-
+dentally in performing a personal  services contract described in ORS chapter 279C or a construction
+contract described in ORS chapter 279C.
+Enrolled House Bill 3026 (HB 3026-A) Page 5
+(3) Except as otherwise provided in the Public Contracting Code, the Director  of Transportation
+has all the authority available to:
+(a) Procure  or supervise the procurement of all services and personal services to construct, ac-
+quire, plan, design, maintain and operate passenger terminal  facilities and motor vehicle parking
+facilities in connection with any public transportation system in accordance with ORS 184.689 (5);
+(b) Procure  or supervise the procurement of all goods, services, public improvements and per-
+sonal services that relate to operating, maintaining or constructing highways, bridges and  other
+transportation facilities that are subject to the authority of the Department of Transportation; and
+(c) Establish standards for,  prescribe forms for and conduct the prequalification of prospective
+bidders on public improvement contracts that relate to  operating, maintaining or constructing
+highways, bridges and other transportation  facilities that are subject to the authority of the De-
+partment of Transportation.
+(4) Except as otherwise provided in the Public Contracting Code, the Secretary of State has  all
+the authority to procure or supervise the procurement of goods, services and personal services  re-
+lated to programs under the authority of the Secretary of State.
+(5) Except as otherwise provided in the  Public Contracting Code, the State Treasurer has all the
+authority to procure or supervise the procurement of goods, services and  personal services related
+to programs under the authority of the State Treasurer.
+(6) The state agencies listed in this subsection have all the authority to do the following  in ac-
+cordance with the Public Contracting Code:
+(a) The Department of  Human Services to procure or supervise the procurement of goods, ser-
+vices  and personal services under ORS 179.040 for the department’s institutions and the procurement
+of goods, services and personal services for  constructing, demolishing, exchanging, maintaining, op-
+erating and equipping housing for the purpose of  providing care to individuals with intellectual
+disabilities or other developmental disabilities, subject to applicable provisions of ORS 427.335;
+(b) The Oregon Health Authority  to procure or supervise the procurement of goods, services and
+personal services under ORS 179.040 and construction materials, equipment and  supplies for the
+authority’s institutions and the procurement of goods, services, personal services, construction ma-
+terials, equipment and  supplies for constructing, demolishing, exchanging, maintaining, operating
+and equipping housing for individuals with chronic mental illness, subject to  applicable provisions
+of ORS 426.504;
+(c) The State Department of Fish  and Wildlife to procure or supervise the procurement of con-
+struction materials, equipment, supplies, services and personal services  for public improvements,
+public works or ordinary construction described in ORS 279C.320  that is subject to the authority
+of the State Department of Fish and Wildlife;
+(d) The State Parks and Recreation  Department to procure or supervise the procurement of all
+goods, services, public improvements and personal services related to state parks;
+(e) The Oregon Department of Aviation to procure or supervise the  procurement of construction
+materials, equipment,  supplies, services and personal services for public improvements, public works
+or ordinary construction described in ORS 279C.320 that is subject to the authority of  the Oregon
+Department of Aviation;
+(f) The Oregon Business Development Department to procure or supervise the procurement  of
+all goods, services, personal services and public improvements related to its foreign trade offices
+operating outside the state;
+(g) The Housing and Community Services Department to  procure or supervise the procurement
+of goods, services and personal services that are unrelated to the department’s duties prescribed in
+ORS chapters 456 and 458, and not otherwise provided for by ORS 456.625 (19);
+(h) The Department of Corrections  to procure or supervise the procurement of construction
+materials, equipment,  supplies, services and personal services for public improvements, public works
+or ordinary construction described in ORS 279C.320 that is subject to the authority of the Depart-
+ment of Corrections;
+Enrolled House Bill 3026 (HB 3026-A) Page 6
+(i) The Department of Corrections, subject to any applicable provisions of ORS 279A.120,
+279A.125, 279A.145 and  283.110 to 283.395, to procure or supervise the procurement of goods, ser-
+vices and personal services under ORS 179.040 for its institutions;
+(j) The Department of Veterans’ Affairs to procure or  supervise the procurement of real estate
+broker and principal real estate broker services related to programs under the department’s au-
+thority;
+(k) The Oregon Military  Department to procure or supervise the procurement of construction
+materials, equipment,  supplies, services and personal services for public improvements, public works
+or ordinary construction described in ORS 279C.320 that is subject to the authority of  the Oregon
+Military Department;
+(L) The Department  of Education, subject to any applicable provisions of ORS 329.075, 329.085
+and 329.485 and the federal Every Student Succeeds Act (P.L. 114-95, 129  Stat. 1802), to procure or
+supervise the procurement of goods, services, personal services and information  technology related
+to student assessment;
+(m) The Department of Early Learning and Care to procure or supervise the procurement  of
+goods, services, personal services and information technology related to the authority of the  de-
+partment or the Early Learning Council; [ and]
+(n) The  Higher Education Coordinating Commission to procure or supervise the pro-
+curement of goods, services, personal services and information technology related to the
+authority of the commission; and
+[(n)] (o)  Any state agency to conduct a procurement when the agency is specifically authorized
+by any provision of law other than the Public Contracting Code to enter into a contract.
+(7)(a) Notwithstanding this section and  ORS 279A.140 (1), the Director of the Oregon Depart-
+ment of Administrative Services has exclusive authority, unless the director delegates  the authority,
+to procure or supervise the procurement of all price agreements  on behalf of the state agencies
+identified in subsection (6) of this section under which more than one  state agency may order goods,
+services or personal services.
+(b) The director may delegate to  the State Chief Information Officer the exclusive authority to
+procure or supervise the procurement  of all price agreements related to information technology and
+telecommunications on behalf of the state agencies identified in subsection (6)  of this section.
+Notwithstanding any authority that a state agency may have under subsection (3) or (6)  of this
+section,  the  state agency may not establish a price agreement or enter into a contract for goods,
+services or personal services  without the approval of the director or the State Chief Information
+Officer if the director or the State Chief Information Officer has established a  price agreement for
+the goods, services or personal services.
+(c) The State Chief  Information Officer may review any solicitation document for procuring in-
+formation technology or telecommunications that a state agency  intends to issue before the state
+agency issues the  solicitation document and may require the state agency to name the State Chief
+Information Officer as a third-party beneficiary with full authority to enforce the terms and condi-
+tions of any public contract for information technology or telecommunications. The State Chief In-
+formation Officer must approve a state agency’s procurement for information technology  or
+telecommunications if the procurement has an anticipated contract price of  $1 million or more. The
+State Chief Information Officer may require the  state agency to name the State Chief Information
+Officer as the contracting party on behalf of the State  of Oregon in a procurement for information
+technology or telecommunications that has an anticipated contract price of $1 million or more.
+SECTION 5.
+ ORS 348.295 is amended to read:
+348.295. (1) In addition to any other form of student financial aid  authorized by law, the Higher
+Education Coordinating Commission may  award scholarships to [ culturally and linguistically
+diverse] teacher candidates  who have experience with diverse populations  to use at approved
+educator preparation providers, as defined in ORS 342.120[ , for the purpose of advancing the  goal
+described in ORS 342.437 (1)(a) ].
+Enrolled House Bill 3026 (HB 3026-A) Page 7
+(2) Scholarships  awarded under this section shall be in amounts of $12,000 each academic year,
+for a maximum of [ two] the equivalent of two full-time  academic years.
+(3) The commission  shall adopt rules necessary for the implementation and administration of this
+section in consultation with the Educator Advancement Council and the Department of Education.
+Rules adopted under this subsection shall address the ways candidates may demonstrate ex-
+perience with diverse populations, the establishment  of grant amounts and parameters for
+awarding grants.
+(4) As used in this section:
+(a) “Diverse” has the meaning given that term in ORS 342.433.
+[(a)] (b)  “Teacher  candidate” means an individual who is preparing to be a teacher or other
+school professional licensed, registered  or certified by the Teacher Standards and Practices Com-
+mission.
+[(b)] (c)  “Teacher candidate” does not mean an individual who is preparing to be an adminis-
+trator.
+SECTION 6.
+Notwithstanding the amendments to ORS 348.295 by section 5 of this 2025
+Act, a student  who has received a grant and is eligible for renewal of that grant under the
+version of ORS 348.295 in effect prior to the effective date of this  2025 Act shall continue to
+be eligible for renewal of the grant, provided the student complies with eligibility require-
+ments established by the Higher Education Coordinating Commission.
+SECTION 7. The amendments to ORS  348.295 by section 5 of this 2025 Act first apply to
+grants awarded for the 2025-2026 academic year.
+SECTION 8. (1) The Higher Education Coordinating Commission, in consultation with
+community colleges and public universities described in ORS 352.002, shall conduct  a study
+regarding reporting requirements affecting public institutions of higher  education and the
+commission.
+(2) The study must:
+(a) Inventory all existing laws that  require public institutions of higher education to re-
+port information to the commission;
+(b) Inventory all existing laws that require public institutions  or the commission to re-
+port information to the Legislative Assembly, a committee of the Legislative  Assembly or
+the Governor; and
+(c) Provide recommendations for improving the efficiency, relevance and quality of re-
+porting in higher education, including but not limited to:
+(A) Proposals to eliminate reports, consolidate reports, alter the frequency  of reports,
+modify due dates of reports or adjust the content of reports; and
+(B) Proposals  for new reporting requirements that improve analysis and comprehension
+of activities and outcomes for the higher education systems in this state.
+(3)(a) The proposals for  new reporting requirements described in subsection (2)(c)(B) of
+this section  must primarily rely on existing human resource and technology capacities, in-
+cluding any capacity that  results from proposals submitted under subsection (2)(c)(A) of this
+section.
+(b) The commission shall specify if any recommendation would require an  increase in
+capacity to carry out, including the potential fiscal impact of the recommendation.
+(4) The commission shall submit a report on the study conducted under this section  in
+the manner  provided by ORS 192.245, and may include recommendations for legislation, to
+the interim committees of the  Legislative Assembly related to higher education no later than
+November 15, 2026.
+SECTION 9.
+Section 8 of this 2025 Act is repealed on January 2, 2027.
+SECTION 10.  Section 40, chapter 95, Oregon Laws 2024, is amended to read:
+Sec. 40.  (1) As used in this section:
+(a) “Forestry sector” means private  businesses, nonprofit organizations, educational and
+workforce providers and public entities that  are engaged in logging, forestation, wildland fire pre-
+Enrolled House Bill 3026 (HB 3026-A) Page 8
+vention and suppression, construction and  maintenance of roads required for forestry, aggregate
+production of forestry products, trucking related to forestry,  tree services, technical and profes-
+sional services required for forestry, forest surveying, fuel  mitigation efforts related to forestry,
+forestry habitat restoration, watershed improvement, crop tree release and  stand improvement, for-
+est tract  management, tree nurseries, mechanical services for forestry, provision of forestry pro-
+ducts, training  resources for the forestry workforce, educational resources for the forestry
+workforce, human resources for the forestry workforce and other in-forest or forest-affiliated ser-
+vices.
+(b) “Forestry workforce” means the owners, proprietors, partners and employees of  companies
+and organizations composing the forestry sector.
+(2) The Higher Education Coordinating Commission shall conduct a forestry  workforce study to
+assist the commission in understanding and addressing challenges in Oregon’s forestry workforce.
+(3) The study conducted under this section shall:
+(a) Identify existing secondary and post-secondary education, training, apprenticeship and
+workforce development programs that prepare Oregonians for careers in the forestry workforce;
+(b) Collect data on participation in, completion of and employment  outcomes for programs
+identified in paragraph (a) of this subsection;
+(c) Identify the number, type and  location of businesses, nonprofit organizations, education and
+workforce providers and public entities composing the forestry sector in this state;
+(d) Collect data on the number, occupations, industries,  wages and demographics of the forestry
+workforce in this state;
+(e) Assess current and projected forestry workforce needs;
+(f) Identify challenges  faced by the forestry sector in retaining and recruiting the forestry
+workforce; and
+(g) Develop recommendations to enhance the recruitment and retention of the  forestry
+workforce.
+(4) When conducting the study under this section, the commission shall:
+(a) Assess the current forestry workforce,  the workforce’s demographics and needs and the
+community benefits of forestry. The assessment required  under this paragraph shall take into con-
+sideration state plans and initiatives related to forest health, climate and economic development that
+may influence the demands on the forestry workforce.
+(b) Collaborate  with Oregon business associations that represent private forest employers and
+forest management enterprises to assess the future forestry  workforce capacity requirements, as
+well as the potential impacts, benefits and opportunities for the forestry workforce.
+(c) Consult with state and  federal economic development, labor, employment and licensing
+agencies to account for current tracking  and monitoring techniques for the forestry workforce and
+to ensure that the study is not duplicative of other studies.
+(d) Consult with state and federal natural resource agencies to align priorities and  understand
+future forestry workforce needs.
+(e) Consult with state training and education agencies to fully understand career pathways  and
+training opportunities for the forestry workforce.
+(5) The commission may enter into a contract with a public or private entity  for the purpose
+of conducting the study described in this section.
+(6) The commission shall submit a report in the manner  provided by ORS 192.245 to the interim
+committees of the Legislative  Assembly related to natural resources, education and higher education
+no later than [ June 30, 2025 ] December 31, 2025 .
+SECTION 11.
+This 2025 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2025 Act takes effect
+on its passage.
+Enrolled House Bill 3026 (HB 3026-A) Page 9
+Passed by House April 21, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate June 12, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 3026 (HB 3026-A) Page 10
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 131.915, ORS 169.005, ORS 179.040, ORS 181A.410, ORS 181A.500, ORS 181A.520, ORS 181A.530, ORS 181A.630, ORS 181A.640, ORS 181A.650, ORS 181A.790, ORS 184.689, ORS 192.245, ORS 192.610, ORS 192.690, ORS 279A.010, ORS 279A.025, ORS 279A.050, ORS 279A.055, ORS 279A.120, ORS 279A.125, ORS 279A.140, ORS 279A.145, ORS 279C.320, ORS 283.110, ORS 329.075, ORS 329.085, ORS 329.485, ORS 340.315, ORS 342.120, ORS 342.433, ORS 342.437, ORS 348.295, ORS 350.426, ORS 350.429, ORS 352.002, ORS 36.252, ORS 418.747, ORS 418.785, ORS 426.504, ORS 427.335, ORS 441.055, ORS 456.625, ORS 469.530
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `aa1a2258111c8231edea79b1a2d27819fb372cf86cf992ae1c756f68e86eb03d` (snapshot `_meta/snapshots/measure-2025r1-hb3026-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3026/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `747726d8c44649394efcedff3d9e66afc097527924c1d8f43cb667377fc8357d` (snapshot `_meta/snapshots/measure-2025r1-hb3026-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3026/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3026> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

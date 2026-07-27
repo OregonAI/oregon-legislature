@@ -1,0 +1,98 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2303
+Sponsored by Representatives MANNIX, DIEHL (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells courts to say that a rule is  invalid if the rule makes a public body break
+federal laws or regulations. (Flesch Readability Score: 66.1).
+Directs the courts to declare a rule invalid if the rule requires  a public body to fail to comply
+with federal laws or regulations.
+A BILL FOR AN ACT
+Relating to judicial review of administrative rules; creating new  provisions; and amending ORS
+137.673 and 183.400.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 183.400 is amended to read:
+183.400. (1) The validity of any rule  may be determined upon a petition by any person to the
+Court of  Appeals in the manner provided for review of orders in contested cases. The court shall
+have jurisdiction to review the validity of the rule  whether or not the petitioner has first requested
+the agency to pass upon  the validity of the rule in question, but not when the petitioner is a party
+to an order or a contested case in which the validity of the rule may be determined by a court.
+(2) The validity of any applicable rule may also be determined by a court,  upon review of an
+order in any manner provided by law or pursuant to ORS 183.480 or upon enforcement  of such rule
+or order in the manner provided by law.
+(3) Judicial review of a rule shall be limited to an examination of:
+(a) The rule under review;
+(b) The statutory provisions authorizing the rule; [ and]
+(c) Relevant federal laws and regulations; and
+[(c)] (d) Copies of  all documents necessary to demonstrate compliance with applicable
+rulemaking procedures.
+(4) The court shall declare the rule invalid only if it finds that the rule:
+(a) Violates constitutional provisions;
+(b) Requires a public body, as defined in ORS 174.109,  to fail to comply with federal laws
+or regulations;
+[(b)] (c) Exceeds the statutory authority of the agency; or
+[(c)] (d) Was adopted without compliance with applicable rulemaking procedures.
+(5) In the case  of disputed allegations of irregularities in procedure which, if proved, would
+warrant reversal or remand, the Court of Appeals may refer the allegations to a master  appointed
+by the court to take evidence and make findings of fact. The  court’s review of the master’s findings
+of fact shall be de novo on the evidence.
+(6) The court shall not declare a rule invalid solely because it was adopted without compliance
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1111
+HB 2303
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+with applicable rulemaking procedures after a  period of two years after the date the rule was filed
+in the office of the Secretary of  State, if the agency attempted to comply with those procedures and
+its failure to do so did not substantially prejudice the interests of the parties.
+SECTION 2.
+ ORS 137.673 is amended to read:
+137.673. Rules  adopted by the Oregon Criminal Justice Commission shall not be declared invalid
+solely  because  of irregularities in procedural rulemaking, including but not limited to the provisions
+of ORS 183.335 or 183.400 [ (4)(c)] (4)(d).
+SECTION 3. The amendments to ORS 183.400 by section 1 of this 2025 Act apply to pe-
+titions for judicial review filed on and after the effective date of this 2025 Act.
+[2]

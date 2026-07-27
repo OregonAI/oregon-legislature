@@ -1,0 +1,1952 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3572
+title: 'HB 3572 (2025R1): Directs the Emergency Medical Services Program to develop a state emergency
+  medical services 10-year strategic plan.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3572
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3572/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 858d3f02d4fe5ead36d1725f63821212a6700ab7067b2fe8ee7fd5cb826e351a
+snapshot_id: measure-2025r1-hb3572-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 179.505
+  - ORS 192.245
+  - ORS 292.495
+  - ORS 403.105
+  - ORS 413.235
+  - ORS 430.105
+  - ORS 431A.055
+  - ORS 431A.105
+  - ORS 431A.525
+  - ORS 442.015
+  - ORS 442.470
+  - ORS 443.400
+  - ORS 660.002
+  - ORS 660.143
+  - ORS 676.165
+  - ORS 676.177
+  - ORS 676.454
+  - ORS 678.010
+  - ORS 682.039
+  - ORS 682.047
+  - ORS 682.204
+  - ORS 682.208
+  - ORS 682.212
+  - ORS 682.216
+  - ORS 688.240
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3572
+prefix_meaning: House Bill
+catch_line: Directs the Emergency Medical Services Program to develop a state emergency medical services
+  10-year strategic plan.
+minority_catch_line: null
+measure_summary: "\t<b>Digest: The Act tells the EMS Program to make a 10-year strategic plan and to give\
+  \ money to some emergency medical services providers. The Act also tells the program to give money to\
+  \ some areas of the state to make EMS better. The Act lets the Governor use EMS resources for emergencies\
+  \ in this state. (Flesch Readability Score: 66.7). </b> \n\t[<i>Digest: The Act tells the EMS Program\
+  \ to make a 10-year plan and give money to some EMS providers. The Act also makes Oregon join a compact\
+  \ to let EMS providers from other states work in this state. The Act also tells the program to give\
+  \ money to some areas of the state to make EMS better. The Act lets the Governor use EMS resources for\
+  \ emergencies in this state. (Flesch Readability Score: 76.6).</i>] \n\tDirects the Emergency Medical\
+  \ Services Program to develop a state emergency medical services 10-year strategic plan. Sunsets on\
+  \ January 2, 2037. \n\tDirects the program to provide loan repayment subsidies to <b>certain</b> licensed\
+  \ emergency medical services providers. Directs the program to subsidize the cost of obtaining an emergency\
+  \ medical services provider license <b>for which an individual must have earned at least an associate\
+  \ degree</b>. [<i>Enacts the EMS Personnel Licensure Interstate Compact. Permits the Oregon Health Authority\
+  \ to disclose specified information to the Interstate Commission for EMS Personnel Practice. Exempts\
+  \ individuals authorized to work as emergency medical services providers from the requirement to obtain\
+  \ a license from the authority. Allows the authority to use moneys to meet the financial obligations\
+  \ imposed on the State of Oregon as a result of participation in the compact. Requires an entity to\
+  \ provide a labor peace agreement prior to engaging certain individuals authorized under compact privilege\
+  \ to practice as emergency medical services providers. Sunsets on January 2, 2030.</i>] \n\tAllows the\
+  \ program to award funding to each regional emergency medical services advisory board for innovation\
+  \ proposals to improve emergency medical services within the emergency medical services regions. Accepts\
+  \ specified emergency medical services training programs and apprenticeships as sufficient for meeting\
+  \ certain emergency medical services provider education requirements for licensure. Allows the Governor\
+  \ to assign and make available for use any emergency medical services resources and equipment in response\
+  \ to an emergency for which emergency medical services are required. Establishes the Emergency Medical\
+  \ Services Mobilization Advisory Board to advise the Governor on the mobilization of emergency medical\
+  \ services in this state. Changes the \"Pediatric Emergency Medical Services Advisory Committee\" to\
+  \ the \"Emergency Medical Services for Children Advisory Committee.\" <b>Directs the Legislative Assembly\
+  \ to allocate moneys from the Criminal Fine Account to the Emergency Medical Services Program Fund.</b>\
+  \ \n\tTakes effect on the 91st day following adjournment sine die."
+relating_to: Relating to emergency medical services; prescribing an effective date.
+relating_to_full: Relating to emergency medical services; creating new provisions; amending ORS 137.300,
+  682.208 and 682.216 and sections 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 31 and 32, chapter 32, Oregon Laws
+  2024; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 3996
+measure_created_date: '2025-02-12T11:07:36'
+measure_modified_date: '2025-04-10T20:00:04'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 135595
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 179.505
+  - ORS 192.245
+  - ORS 292.495
+  - ORS 403.105
+  - ORS 413.235
+  - ORS 430.105
+  - ORS 431A.055
+  - ORS 431A.105
+  - ORS 431A.525
+  - ORS 442.015
+  - ORS 442.470
+  - ORS 443.400
+  - ORS 660.002
+  - ORS 660.143
+  - ORS 676.165
+  - ORS 676.177
+  - ORS 676.454
+  - ORS 678.010
+  - ORS 682.039
+  - ORS 682.047
+  - ORS 682.204
+  - ORS 682.208
+  - ORS 682.212
+  - ORS 682.216
+  - ORS 688.240
+  from_relating_to_full:
+  - ORS 137.300
+  - ORS 682.208
+  - ORS 682.216
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3572>.
+
+# HB 3572 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3572, 2025 Regular Session (2025R1)
+- **LC number:** 3996
+- **Created:** 2025-02-12T11:07:36
+- **Metadata last modified (upstream):** 2025-04-10T20:00:04
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 135595 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3572/Introduced>.
+
+## Summary
+
+**Catchline:** Directs the Emergency Medical Services Program to develop a state emergency medical services 10-year strategic plan.
+
+**Relating to:** Relating to emergency medical services; prescribing an effective date.
+
+<b>Digest: The Act tells the EMS Program to make a 10-year strategic plan and to give money to some emergency medical services providers. The Act also tells the program to give money to some areas of the state to make EMS better. The Act lets the Governor use EMS resources for emergencies in this state. (Flesch Readability Score: 66.7). </b> 
+ [<i>Digest: The Act tells the EMS Program to make a 10-year plan and give money to some EMS providers. The Act also makes Oregon join a compact to let EMS providers from other states work in this state. The Act also tells the program to give money to some areas of the state to make EMS better. The Act lets the Governor use EMS resources for emergencies in this state. (Flesch Readability Score: 76.6).</i>] 
+ Directs the Emergency Medical Services Program to develop a state emergency medical services 10-year strategic plan. Sunsets on January 2, 2037. 
+ Directs the program to provide loan repayment subsidies to <b>certain</b> licensed emergency medical services providers. Directs the program to subsidize the cost of obtaining an emergency medical services provider license <b>for which an individual must have earned at least an associate degree</b>. [<i>Enacts the EMS Personnel Licensure Interstate Compact. Permits the Oregon Health Authority to disclose specified information to the Interstate Commission for EMS Personnel Practice. Exempts individuals authorized to work as emergency medical services providers from the requirement to obtain a license from the authority. Allows the authority to use moneys to meet the financial obligations imposed on the State of Oregon as a result of participation in the compact. Requires an entity to provide a labor peace agreement prior to engaging certain individuals authorized under compact privilege to practice as emergency medical services providers. Sunsets on January 2, 2030.</i>] 
+ Allows the program to award funding to each regional emergency medical services advisory board for innovation proposals to improve emergency medical services within the emergency medical services regions. Accepts specified emergency medical services training programs and apprenticeships as sufficient for meeting certain emergency medical services provider education requirements for licensure. Allows the Governor to assign and make available for use any emergency medical services resources and equipment in response to an emergency for which emergency medical services are required. Establishes the Emergency Medical Services Mobilization Advisory Board to advise the Governor on the mobilization of emergency medical services in this state. Changes the "Pediatric Emergency Medical Services Advisory Committee" to the "Emergency Medical Services for Children Advisory Committee." <b>Directs the Legislative Assembly to allocate moneys from the Criminal Fine Account to the Emergency Medical Services Program Fund.</b> 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to emergency medical services; creating new provisions; amending ORS 137.300, 682.208 and 682.216 and sections 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 31 and 32, chapter 32, Oregon Laws 2024; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3572
+Sponsored by Representative GRAYBER, Senator REYNOLDS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells the EMS Program to make a  10-year plan and give money to some EMS
+providers.  The  Act also makes Oregon join a compact to let EMS providers from other states work
+in this state. The Act also  tells the program to give money to some areas of the state to make EMS
+better. The Act lets  the Governor use EMS resources for emergencies in this state. (Flesch Read-
+ability Score: 76.6).
+Directs the Emergency Medical Services  Program to develop a state emergency medical services
+10-year strategic plan. Sunsets on January 2, 2037.
+Directs the program to provide loan  repayment subsidies to licensed emergency medical services
+providers. Directs the program to subsidize the cost of obtaining an  emergency medical services
+provider license. Enacts the EMS Personnel Licensure Interstate Compact. Permits the Oregon
+Health Authority to disclose  specified information to the Interstate Commission for EMS Personnel
+Practice. Exempts individuals authorized to work as emergency medical services  providers from the
+requirement to obtain a license from the authority. Allows the authority to use  moneys to meet the
+financial obligations imposed on the State of Oregon as a result of participation in  the compact.
+Requires an entity to provide a labor peace agreement prior to engaging certain  individuals au-
+thorized under compact privilege to practice as emergency medical services providers.  Sunsets on
+January 2, 2030.
+Allows the program to  award funding to each regional emergency medical services advisory
+board for innovation  proposals to improve emergency medical services within the emergency medical
+services regions. Accepts specified emergency medical services training programs and  apprentice-
+ships as sufficient for meeting certain  emergency medical services provider education requirements
+for licensure. Allows the Governor to assign  and make available for use any emergency medical
+services resources and equipment in response to an emergency for which  emergency medical ser-
+vices are required. Establishes the  Emergency Medical Services Mobilization Advisory Board to
+advise the Governor on the mobilization of emergency medical services in this state. Changes  the
+“Pediatric Emergency Medical Services Advisory Committee” to  the “Emergency Medical Services
+for Children Advisory Committee.”
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to emergency  medical services; creating new provisions; amending ORS 676.177, 682.204,
+682.208 and 682.216 and sections 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 31 and  32, chapter 32, Oregon Laws
+2024; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+EMERGENCY MEDICAL SERVICES STRATEGIC PLAN
+SECTION 1.
+Sections 2 and 3 of  this 2025 Act are added to and made a part of ORS
+chapter 682.
+SECTION 2. (1) The Emergency  Medical Services Program established in section 2,
+chapter 32, Oregon Laws 2024, shall develop a state  emergency medical services 10-year
+strategic plan to support  emergency medical services operations for time-sensitive medical
+emergencies in this state. The strategic plan must provide for full  operational capacity in
+all emergency medical services regions designated under section 11, chapter 32,  Oregon Laws
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3996
+2024, and include defined minimum quality standards that are consistent with any relevant
+federal guidance regarding time-sensitive medical emergencies.
+(2) The strategic plan must:
+(a) Prioritize the coordination of any existing efforts and technologies related  to emer-
+gency medical services; and
+(b) Strive to employ a variety of funding sources in addition to the General Fund.
+(3) The strategic plan  must provide specific recommendations, and suggest vehicles for
+implementation of the recommendations,  including legislation, rulemaking and policy devel-
+opment, regarding the following topics:
+(a) Emergency medical services workforce, including metropolitan, rural and  volunteer
+staffing targets and recommendations for closing any gaps in staffing targets.
+(b) Assurance of rural access to emergency medical services, including:
+(A) The definition  of an operational minimum for emergency medical services presence
+in each designated emergency medical services region based on population trends and  aver-
+age commuter traffic;
+(B) An analysis of any gap between the current  emergency medical services presence and
+the operational minimum; and
+(C) Recommendations for ensuring that rural areas in  this state meet or exceed the op-
+erational minimum for emergency medical services presence.
+(c) The rates of reimbursement offered by federal  Centers for Medicare and Medicaid
+Services, including an analysis of  the gap between current reimbursement rates and the
+emergency medical services  operating costs in each designated emergency medical services
+region and a schedule for reimbursement rate adjustment submission requests.
+(d) The improved implementation of existing reimbursement programs, including the
+intergovernmental transfer program developed under ORS 413.235.
+(e) Collaborative educational guidance, including:
+(A) Standards, best practices and reimbursement guidance for  treat-in-place protocols,
+alternative emergency medical services treatment destinations, alternative emergency  med-
+ical services transport methods, emergency medical  services provider career improvement
+opportunities, tiered emergency medical services response options and emergency calls,  as
+defined in ORS 403.105, made to the  9-1-1 emergency reporting system, as defined in ORS
+430.105, for medical emergencies;
+(B) Recommendations  for best practices for hospital infrastructure, technology and op-
+erations in order to support  an efficient and robust relationship between hospitals and
+emergency medical services providers;
+(C) Educational outreach plans; and
+(D) An implementation support plan that addresses how the public  sector can financially
+and operationally support  the implementation of the best practices described in this para-
+graph.
+(4) The recommendations provided in the strategic plan developed under this section  are
+not binding. The recommendations  must be modeled on existing state best practices and ac-
+count for a variety of hospital sizes and capacities.
+(5) The program shall publish  the strategic plan developed under this section on a pub-
+licly available website operated by or on behalf of the Oregon Health Authority.
+(6) Not later than December 31,  2026, the program shall, in the manner provided in ORS
+192.245 for  reporting, submit the strategic plan and a summary of the program’s recom-
+mendations for carrying out the plan to the interim committees of the  Legislative Assembly
+related to health care.
+(7) The Emergency Medical Services Advisory Board established in section 4, chapter 32,
+Oregon Laws 2024, shall revise the strategic plan as  necessary when national data on com-
+munity paramedicine are available in standard emergency medical services data technology.
+The program  shall, as soon as practicable, publish the revised strategic plan in the manner
+described in subsection (5)  of this section and submit the revised strategic plan to the in-
+terim committees of the Legislative Assembly related to health care.
+(8) Until the time at which the strategic plan development is complete,  the program shall
+provide staffing sufficient to support:
+(a) The establishment and maintenance of the emergency medical services data system
+described in section 12, chapter 32, Oregon Laws 2024; and
+(b) The operation  of the Time-Sensitive Medical Emergencies Advisory Committee es-
+tablished in section 6, chapter 32, Oregon Laws 2024, the  Emergency Medical Services Advi-
+sory Committee  established in section 7, chapter 32, Oregon Laws 2024, the Emergency
+Medical Services for Children Advisory  Committee established in section 8, chapter 32,
+Oregon Laws 2024, and the Behavioral  Health Emergency Medical Services Advisory Com-
+mittee established in section 9, chapter 32, Oregon Laws 2024.
+SECTION 3.
+(1) In order to  inform the strategic plan described in section 2 of this 2025
+Act, the Emergency Medical Services Program shall:
+(a) Study the rate of utilization  of licensed emergency medical services providers, in-
+cluding:
+(A) The total number of licensed emergency  medical services providers who are actively
+employed to perform work that requires, or that is related to work  that requires, a valid li-
+cense to provide emergency medical services;
+(B) The number of licensed  emergency medical services providers described in this par-
+agraph who are employed in the private sector and who are employed in the public sector;
+(C) The number of licensed emergency medical services providers described in this para-
+graph employed in each care setting; and
+(D) The extent to  which the number of licensed emergency medical providers described
+in this paragraph meets the needs of the state.
+(b) Create a list of all agencies in this state that  use licensed emergency medical services
+providers to respond to emergency calls, as defined in ORS  403.105, made to the 9-1-1 emer-
+gency reporting system, as defined  in ORS 403.105, including the location of the agencies and
+the emergency  medical services region designated under section 11, chapter 32, Oregon Laws
+2024, in which the agencies operate.
+(c) Compile statistics on the total number of emergency calls made to the 9-1-1 emer-
+gency reporting system for medical emergencies, the number of emergency  calls made to the
+9-1-1 emergency reporting system  for medical emergencies in each county, and the average
+response time  to emergencies by emergency medical services providers. The program may
+request and receive data from public safety answering  points, as defined in ORS 403.105, for
+the purpose of carrying out this paragraph.
+(d) Study the holistic impact of  health care delivery system functions on the provision
+of emergency  medical services during the immediately preceding five years, including study-
+ing response times to emergency medical  services needs, rules relating to the transfer of
+patients between health care facilities, any reduction in  emergency medical services provided
+by hospitals, county ambulance service area policies and uncompensated requests  for emer-
+gency medical services.
+(2) In carrying out its duties under this section, the program may use  any existing rele-
+vant data and other information that  the program or the Oregon Health Authority has
+compiled or otherwise possesses.
+(3) Not later than September 15, 2026, the program shall, in  the manner provided in ORS
+192.245, submit a report that includes the information described in subsection (1) of  this
+section to the interim committees of the Legislative Assembly related to health care.
+SECTION 4.
+Sections 2 and 3 of this 2025 Act are repealed on January 2, 2037.
+EMERGENCY MEDICAL SERVICES PROGRAM
+SECTION 5. Sections 6 to 8 of this 2025 Act are added to and  made a part of ORS chapter
+682.
+SECTION 6. The Emergency Medical Services Program may  create the staff position of
+grants manager to secure and coordinate grant funding for the program and the program’s
+partners. The grants manager shall collaborate with local workforce development boards.
+SECTION 7.
+(1) The Emergency Medical Services Program may award, from moneys in
+the Emergency Medical Services Program Fund established under section 8 of this 2025  Act,
+funds in an amount up to $1  million to each regional emergency medical services advisory
+board established under section 11, chapter  32, Oregon Laws 2024, that submits an innovation
+proposal under subsection (2) of this section.  A regional emergency medical services advisory
+board that receives funds under this section  shall use the funds for the purpose of developing
+and implementing emergency medical services workforce pilot programs, improving  emer-
+gency medical services infrastructure or making investments in emergency  medical services
+equipment within the advisory board’s designated emergency medical services region.
+(2) The Emergency Medical Services Advisory  Board established under section 4, chapter
+32, Oregon Laws 2024, shall establish a process to review and approve innovation proposals.
+In reviewing and approving innovation proposals, the board shall consider whether an  inno-
+vation proposal  includes quality assurance metrics and performance measurements. The
+board may not approve an innovation proposal for a workforce pilot program unless the in-
+novation proposal includes consultation with local workforce development boards in the des-
+ignated emergency medical services region in order to maximize existing funding  options and
+work in conjunction with any existing efforts.
+(3) The Emergency  Medical Services Program shall, in partnership with the regional
+emergency medical services advisory boards, implement the approved innovation proposals.
+The program may contract as necessary with third  parties to implement an innovation pro-
+posal.
+SECTION 8.
+The Emergency Medical Services Program Fund  is established in the State
+Treasury, separate and distinct from the General Fund. Interest earned by the Emergency
+Medical Services Program Fund shall be credited to the  fund. The moneys in the fund are
+continuously appropriated to the Oregon Health Authority for the purposes of:
+(1) Carrying out ORS 682.208 and 682.216 and sections 7 and 14 of this 2025 Act; and
+(2) Meeting the financial obligations  imposed on the State of Oregon as a result of the
+state’s  participation in the EMS Personnel Licensure Interstate Compact described in section
+42 of this 2025 Act.
+SECTION 9.
+ Section 8 of this 2025 Act is amended to read:
+Sec. 8.  The Emergency Medical Services Program Fund is established in the State  Treasury,
+separate and distinct from the General Fund. Interest earned by the  Emergency Medical Services
+Program Fund shall be credited to the  fund. The moneys in the fund are continuously appropriated
+to the Oregon Health Authority for [ the purposes of: ]
+[(1)] carrying out ORS 682.208 and 682.216  and [ sections 7 and 14 ] section 7  of this 2025 Act .[;
+and]
+[(2) Meeting the financial obligations imposed on the State of Oregon  as a result of the state’s
+participation in  the EMS Personnel Licensure Interstate Compact described in section 42 of this 2025
+Act.]
+SECTION 10.  ORS 682.208 is amended to read:
+682.208. (1) [ A person desiring ] In order  to be licensed as an emergency medical services pro-
+vider, an applicant  shall submit an application for licensure to the Oregon Health Authority.  The
+application must be upon forms prescribed by the authority and must contain:
+(a) The name and address of the applicant.
+[(b) The name and location of the training course successfully completed  by the applicant and the
+date of completion. ]
+(b)(A) Proof of completion of a  training course, approved by the authority pursuant to
+subsection (2) of  this section, that includes the training course name and location and date
+on which the applicant completed the training course; or
+(B) If the authority requires, by rule, an applicant  to have earned at least an associate
+degree in order to be eligible for the level of  licensure for which the applicant submits an
+application, proof that the applicant successfully completed an emergency medical services:
+(i) On-the-job training program, as defined in ORS 660.143, or  registered apprenticeship
+program approved under ORS 660.002 to 660.210; or
+(ii) Training program offered by the United States Department of Defense  or the Oregon
+National Guard.
+(c) Evidence  that the authority determines is satisfactory to prove that the applicant’s physical
+and mental health is such that it is safe for  the applicant to act as an emergency medical services
+provider.
+(d) Other information as the authority may reasonably  require to determine compliance with
+applicable provisions of this chapter and the rules adopted under this chapter.
+(2) The authority shall adopt a schedule of minimum educational requirements in emer-
+gency and nonemergency  care for emergency medical services providers. The authority may
+approve training courses that meet the minimum educational  requirements and that are
+designed to:
+(a) Protect the welfare of out-of-hospital patients;
+(b) Promote the health and well-being of out-of-hospital patients; and
+(c) Reduce the pain and suffering, and save the lives, of out-of-hospital patients.
+(3) If an extended period  of time, as determined by the authority, has elapsed since the
+date on which an applicant completed a training course approved under subsection (2) of  this
+section, the  authority may require the applicant to provide proof of completion of continuing
+education as further specified by the authority.
+[(2) The application must be accompanied by proof  as prescribed by rule of the authority of the
+applicant’s successful completion of a training course approved by  the authority and, if an extended
+period of time has elapsed since the completion of the course, of a satisfactory amount of  continuing
+education.]
+[(3) The authority shall adopt a schedule of minimum educational requirements  in emergency and
+nonemergency care for emergency medical services providers. A  course approved by the authority must
+be designed to protect the  welfare of out-of-hospital patients, to promote the health, well-being and
+saving of the lives of such patients and to reduce their pain and suffering. ]
+SECTION 11.
+ ORS 682.216 is amended to read:
+682.216. (1) When application has been made as required  under ORS 682.208, the Oregon Health
+Authority shall license the applicant as  an emergency medical services provider if [ it] the authority
+finds:
+(a) The applicant has successfully completed a training course approved by the authority.
+(b) The applicant meets the physical and mental qualifications required under ORS 682.208.
+(c) No matter has been  brought to the attention of the authority which would disqualify the
+applicant.
+(d) A nonrefundable fee has been paid to the authority pursuant to ORS 682.212.
+(e) The applicant for an emergency medical services provider license:
+(A) Is 18 years of age or older if the applicant is applying for a license at a level higher than
+emergency medical responder; or
+(B) Is 16 years of age  or older if the applicant is applying for a license at the emergency medical
+responder level.
+(f) The applicant has successfully completed examination as prescribed by the authority.
+(g) The applicant meets other requirements prescribed by rule of the authority.
+(2) The authority may provide for the issuance of a  provisional license for emergency medical
+services  providers.
+(3) The authority may issue  an emergency medical services provider license by indorsement
+without proof of completion of an approved training course described in ORS 682.208 to an  emer-
+gency medical services  provider who is licensed to practice emergency care in another state or
+jurisdiction of the United  States or [ a foreign ] another country if[ , in the opinion of the authority, ]
+the authority determines  the applicant meets the requirements for licensure in  this state and can
+demonstrate to the satisfaction of the authority competency to practice emergency  care. The au-
+thority is the  sole judge of credentials of any emergency medical services provider applying for
+licensure without proof of completion of an approved training course.
+(4) A person licensed under this section shall submit, at the time of application for renewal  of
+the license to the authority, evidence of the applicant’s satisfactory completion of an  authority ap-
+proved program of continuing education and other requirements prescribed by rule by  the authority.
+(5) The authority shall prescribe criteria and approve programs of continuing  education in
+emergency and nonemergency care to meet the requirements of this section.
+(6) The  authority shall include a fee pursuant to ORS 682.212 for late renewal and for issuance
+of any duplicate license. Each license issued under this section,  unless sooner suspended or revoked,
+expires and is renewable after a period of two years. Each license must be  renewed on or before
+June 30 of every second year or on or before  such date as may be specified by authority rule. The
+authority by rule shall establish  a schedule of license renewals under this subsection and shall
+prorate the fees to reflect any shorter license period.
+(7) Nothing in this chapter  authorizes an emergency medical services provider to operate an
+ambulance without a driver license as required under the Oregon Vehicle Code.
+SECTION 12.
+The amendments to ORS 682.208 and 682.216 by sections 10 and 11 of  this
+2025 Act apply  to applications for licensure received by the Oregon Health Authority on or
+after the operative date specified in section 16 (1) of this 2025 Act.
+SECTION 13. Section 14 of this  2025 Act is added to and made a part of ORS chapter 682.
+SECTION 14. (1)(a) The Emergency Medical Services Program shall provide loan repay-
+ment subsidies to licensed emergency medical services providers.  In awarding the subsidies
+under this subsection, the program shall consider the requirements for health care provider
+eligibility described in ORS 676.454.
+(b) The program may provide up to $500,000 in total per  biennium in loan repayment
+subsidies described in this subsection.
+(2)(a) The program shall reimburse an individual who obtains an initial emergency med-
+ical services provider license under this chapter for up  to 100 percent of the cost of obtaining
+the emergency medical services provider license.
+(b) The program may provide up to $500,000 in total per biennium  in reimbursement as
+described in this subsection.
+SECTION 15.
+Section 14 of this 2025 Act is repealed on January 2, 2030.
+SECTION 16. (1) Sections 6 to  8 and 14 of this 2025 Act and the amendments to ORS
+682.208 and 682.216 by sections 10 and 11 of this 2025 Act become operative on January 1, 2026.
+(2) The amendments to section 8  of this 2025 Act by section 9 of this 2025 Act become
+operative on January 2, 2030.
+(3) The Oregon Health Authority may take any  action before the operative date specified
+in subsection (1) of this section that is necessary  to enable the authority to exercise, on and
+after the operative date specified in  subsection (1) of this section, all of the duties, functions
+and powers conferred on the authority by sections 6 to 8 and 14 of  this 2025 Act and the
+amendments to ORS 682.208 and 682.216 by sections 10 and 11 of this 2025 Act.
+EMERGENCY MEDICAL SERVICES MOBILIZATION
+SECTION 17. Sections 18 to 24 of  this 2025 Act are added to and made a part of ORS
+chapter 682.
+SECTION 18. (1) The Governor may assign and make available for use and duty in  any
+county, city  or district in this state any emergency medical services resources and equip-
+ment of any emergency medical services agency in this state in response to an  emergency
+for which emergency medical services are required.
+(2) If  the Governor is unavailable to timely exercise the authority under sections 18 to
+24 of this 2025  Act, the State Fire Marshal, in consultation with the Emergency Medical
+Services Program, may exercise the authority. Any order, rules or regulations  issued by the
+State Fire Marshal pursuant to this subsection have the same force and  effect as if issued
+by the Governor.
+(3)(a) An order under this section may be issued in writing or, if in the discretion of  the
+Governor the delay in issuing a written order would be dangerous to the welfare of the people
+of this state, may be issued orally.
+(b) If the order is issued in writing, a copy of the order must be filed with the office  of
+the Secretary of State and a second  copy must be provided to the affected county, city or
+district.
+(c) If the order  is issued orally, a written copy of the order must be made as soon as
+practicable and filed in the manner described in paragraph (b) of this subsection.
+SECTION 19.
+(1) Pursuant to an order issued under section 18 of this  2025 Act, a regional
+emergency medical services advisory board established  under section 11, chapter 32, Oregon
+Laws 2024, shall assign and make available for use and duty in any county, city or district
+the emergency medical services resources  and equipment of any emergency medical services
+agency that normally operates within the designated emergency medical services  region ad-
+vised by the board.
+(2) A privately  operated ambulance service may contribute any available emergency
+medical services  resources at the disposal of the ambulance service in response to an emer-
+gency described in section 18 of this 2025 Act.
+SECTION 20. The state shall be liable for any loss of or damage to equipment used under
+sections 18 to 24 of  this 2025 Act and shall pay any expense incurred in the operation or
+maintenance of the equipment. In order to claim reimbursement  under this section, a person
+shall file a  notice of claim of reimbursement with the Emergency Medical Services Program
+not later than 60 days  after the date of the equipment loss, damage or expense, unless oth-
+erwise provided by the Oregon Health Authority by rule. A loss, damage or expense described
+in this section  is payable from the Emergency Medical Services Mobilization Fund established
+under section 24 of this 2025 Act.
+SECTION 21. (1) When the personnel of a county, city,  district or ambulance service
+provide aid under sections 18  to 24 of this 2025 Act, the state shall reimburse the county,
+city, district or ambulance service for the following, as related to the provision of aid:
+(a) The compensation  of the personnel during the time the provision of aid under sections
+18 to 24 of this 2025 Act prevents the personnel from performing their regular duties; and
+(b) The actual cost of the personnel’s travel and maintenance.
+(2) As used in  this section, “personnel” means an emergency medical services provider
+licensed under this chapter, regardless of whether the emergency medical services provider
+is paid, volunteer or on call.
+SECTION 22.
+The state, or a county,  city, district or ambulance service, or an emergency
+medical services provider acting as the agent  of any of the foregoing, is not liable for any
+injury to person or property resulting from the performance of  a duty imposed under
+sections 18 to 24 of this 2025 Act. In carrying out sections 18 to 24 of this 2025  Act, or while
+acting within the scope of a duty imposed under sections 18  to 24 of this 2025 Act, a person
+is not subject to civil liability unless the injury is the result  of the person’s willful miscon-
+duct or gross negligence.
+SECTION 23. (1) There is established within the Emergency Medical Services Program
+the Emergency Medical Services  Mobilization Advisory Board. The board consists of mem-
+bers including but not limited to the following:
+(a) The State Fire Marshal;
+(b) A representative of the Emergency Medical Services Advisory Board;
+(c) A representative from each  regional emergency medical services advisory board es-
+tablished under section 11, chapter 32, Oregon Laws 2024;
+(d) A representative from the Oregon Health Authority Public Health Division;
+(e) A representative from the Oregon Department of Emergency Management;
+(f) A representative from an association that represents fire chiefs in this state;
+(g) A representative  from an association that represents ambulance services in this
+state; and
+(h) A representative from an association that represents counties in this state.
+(2) The Emergency  Medical Services Mobilization Advisory Board shall prepare a plan to
+carry out sections 18  to 24 of this 2025 Act and provide advice and counsel to the Governor
+for the most practical utilization under sections 18  to 24 of this 2025 Act of the emergency
+medical services resources in this state. In developing the plan  described in this subsection,
+the board shall ensure  that the plan reflects the capabilities and resources of state agencies,
+counties, cities, districts and public and private ambulance services.
+(3) The Emergency Medical Services Mobilization Advisory  Board shall provide advice to
+the Oregon Health Authority regarding the adoption of  rules to carry out sections 18 to 24
+of this 2025 Act. The rules must:
+(a) Provide that the State Fire Marshal, in consultation with  the program, is responsible
+for the activation of the  plan described in subsection (2) of this section, resource manage-
+ment and incident command.
+(b) Specify how the State Fire Marshal incident command interacts  with ambulance ser-
+vices in this state.
+SECTION 24.
+The Emergency Medical Services Mobilization Fund is established in  the
+State Treasury, separate and distinct from the  General Fund. The Emergency Medical Ser-
+vices Mobilization Fund consists of  moneys appropriated by the Legislative Assembly for
+deposit in the fund, and any gifts, grants or donations to the  fund. Moneys in the fund are
+continuously appropriated to the Oregon Health Authority  for carrying out the provisions
+of sections 18 to 24 of this 2025 Act.
+SECTION 25. (1) Sections 18 to 24 of this 2025 Act become operative on January 1, 2027.
+(2) The Oregon Health Authority and the State Fire Marshal may take  any action before
+the operative date specified in subsection (1) of this section that is necessary  to enable the
+authority and the State Fire Marshal to exercise, on and after the operative date  specified
+in subsection (1) of this section, all of the duties, functions and powers conferred on the
+authority and the State Fire Marshal by sections 18 to 24 of this 2025 Act.
+HOUSE BILL 4081 (2024)
+SECTION 26.
+ Section 2, chapter 32, Oregon Laws 2024, is amended to read:
+Sec. 2.  (1) The Emergency Medical Services Program is  established within the Oregon Health
+Authority for the purpose of  administering a comprehensive statewide emergency medical services
+system developed by  the Emergency Medical Services Advisory Board and focused on emergency
+medical services and time-sensitive emergencies. The system includes:
+(a) The development of state and regional standards of emergency medical care;
+(b) The development of state, regional and  interstate protocols for patient transfers using
+emergency medical services;
+(c) The training and licensing of emergency medical services providers;
+(d) The development and management of emergency medical services data systems;
+(e) The management and administration of state workforce, recruitment and retention  programs
+related to emergency medical services; and
+[(f) The regulation and administration of  state reimbursement systems for emergency medical ser-
+vices;  and]
+[(g)] (f) Requirements for reporting out measurable performance and equity indicators of  emer-
+gency medical services within this state.
+(2) The program is administered by a director who:
+(a) Is responsible for conducting emergency medical services system oversight and implementing
+the recommendations of the advisory board.
+(b) Shall apply funds allocated to the program in the following order of priority:
+(A) Development of state and regional standards of care;
+(B) Strengthening the state’s emergency medical services workforce;
+(C) Development of statewide educational curriculum to teach the standards of care;
+(D) Implementation of quality improvement programs; and
+(E) Support for and enhancement of the state’s emergency medical services.
+(c) May adopt rules as necessary to carry out  the director’s duties and responsibilities described
+in this subsection.
+(3) The program shall have  a State EMS Medical Director who is the chairperson of the Emer-
+gency  Medical  Services Advisory Board established under [ section 4 of this 2024 Act ] section 4,
+chapter 32, Oregon Laws 2024,  and who is responsible for:
+(a) Providing  specialized medical oversight in the development and administration of the pro-
+gram;
+(b) Implementing emergency medical services quality improvement measures;
+(c) Undertaking research and providing public education regarding emergency  medical services;
+and
+(d) Serving  as a liaison with emergency medical services agencies, emergency medical services
+centers, hospitals, state and  national emergency medical services professional organizations and
+state and federal partners.
+(4) The authority shall:
+(a) Adopt rules to establish statewide  emergency medical services objectives and standards; and
+(b) Publish a biennial report regarding the program’s activities.
+(5)(a) The establishment of the program  does not affect the contracting authority of counties and
+county ambulance service areas.
+(b) The objectives and standards established under subsection (4) of this section  do not prohibit
+a local jurisdiction from implementing objectives and  standards that are more rigorous than those
+established under subsection (4) of this section.
+SECTION 27.
+ Section 3, chapter 32, Oregon Laws 2024, is amended to read:
+Sec. 3.  (1) The Emergency Medical Services Program, with the advice of the Emergency Medical
+Services Advisory Board, the  Time-Sensitive Medical Emergencies Advisory Committee, the Emer-
+gency  Medical  Services Advisory Committee, the [ Pediatric Emergency Medical Services Advisory
+Committee] Emergency Medical Services for Children Advisory  Committee established under
+section 8, chapter 32,  Oregon Laws 2024,  and the Behavioral Health Emergency Medical Services
+Advisory Committee, shall:
+(a) Coordinate with national health organizations involved  in improving the quality of stroke,
+cardiac, trauma, pediatric and behavioral health care to avoid duplicative information and redundant
+processes;
+(b) Use information related to stroke,  cardiac, trauma, pediatric and behavioral health care to
+support improvement in the quality of care in accordance  with guidelines that meet or exceed na-
+tionally recognized standards;
+(c) Encourage the sharing of information among health care providers on practices  that improve
+the quality of stroke, cardiac, trauma, pediatric and behavioral health care;
+(d) Facilitate communication about data trends and treatment developments among  health care
+providers and coordinated care organizations that provide services related  to stroke, cardiac,
+trauma, pediatric and behavioral health care; and
+(e) Provide stroke,  cardiac, trauma, pediatric and behavioral health care data, and recommen-
+dations for improvement to care, to coordinated care organizations.
+(2) Not  later than the beginning of each odd-numbered year regular session of the Legislative
+Assembly, the program shall submit to the Legislative Assembly a  report in the manner provided in
+ORS 192.245 summarizing the program’s activities under this section.
+SECTION 28.
+ Section 4, chapter 32, Oregon Laws 2024, is amended to read:
+Sec. 4.  (1) The Emergency Medical Services Advisory Board is established within the Oregon
+Health Authority. The authority shall provide staffing for the board. The board consists of 19 mem-
+bers appointed by the Director of the Oregon Health Authority. Of the members of the board:
+(a) The State  EMS Medical Director of the Emergency Medical Services Program is an ex officio
+member and serves as the chairperson;
+(b) One must be a  patient advocate or an education professional who specializes in health eq-
+uity;
+(c) One must be [ an emergency medical services provider licensed under ORS 682.216  who re-
+presents] a representative of  a private  emergency medical services agency licensed under ORS
+682.047;
+(d) One must be an emergency medical services provider  licensed under ORS 682.216 who re-
+presents a public emergency medical services agency licensed under ORS 682.047;
+(e) One must be a representative of a nontransport emergency medical services agency;
+(f) One must be a representative of a labor union that represents emergency medical  services
+providers;
+(g) One  must be an emergency medical services provider licensed under ORS 682.216 who works
+for an emergency medical services agency licensed under  ORS 682.047 within a rural emergency
+medical services system or a rural hospital as defined in ORS 442.470;
+(h) One must be a representative of county ambulance service area administrators;
+(i) One must be a representative of special districts that operate ambulances;
+(j) One must be a hospital administrator in a hospital that operates an emergency department;
+(k) One must be a nurse who works in a hospital emergency department;
+(L) One must be a representative of a public safety answering point, as defined in  ORS 403.105;
+(m) One must be an emergency medicine physician;
+(n) One must be a person who works in a long term care facility, as defined in ORS 442.015,  or
+who represents long term care facilities, or who works  in a residential facility, as defined in ORS
+443.400, or who represents residential facilities;
+(o) One must be a public member who is, or has been,  a frequent user of emergency medical
+services;
+(p) One must be a representative of a third-party payer of health care insurance;
+(q) One must be a representative of a patient health care advocacy group;
+(r) One must be a representative of a  rural hospital, or a hospital system that includes a rural
+hospital, as defined in ORS 442.470; and
+(s) One must be an emergency medical services physician.
+(2)(a) The physician  members of the board must be physicians licensed under ORS chapter 677
+who are in good standing.
+(b) The member described in subsection  (1)(k) of this section must be licensed under ORS 678.010
+to 678.410 and in good standing.
+(c) The  members of the board [ who represent emergency medical services agencies ] described in
+subsection (1)(d) and (g) of this section  must hold valid licenses in good standing.
+(d) The members of the board who are emergency medical  services providers must hold valid
+licenses in good standing.
+(3) Board membership must reflect  the geographical, cultural, linguistic and economic diversity
+of this state and must  include at least one representative from each emergency medical services
+region designated under [ section 11 of this 2024 Act ] section 11, chapter 32, Oregon Laws 2024 .
+(4) The term of each  member of the board is four years, but a member serves at the pleasure
+of the Director of the Oregon Health Authority. Before  the expiration of a term of a member, the
+director shall appoint a successor whose term begins on January  1 next following. A member is el-
+igible for reappointment for  no more than two consecutive terms. If there is a vacancy for any
+cause, the director  shall make an appointment to become immediately effective for the unexpired
+term.
+(5) A member of the board is entitled to  compensation and expenses as provided under ORS
+292.495.
+(6) The board may  adopt rules as necessary to carry out its duties under [ sections 2 to 16 of this
+2024 Act ] sections 2 to 16, chapter 32, Oregon Laws 2024 .
+SECTION 29.
+ Section 5, chapter 32, Oregon Laws 2024, is amended to read:
+Sec. 5.  (1)  The Emergency Medical Services Advisory Board shall provide advice and recom-
+mendations to the Emergency Medical Services Program on the following:
+(a) A definition of “patient” for purposes of  time-sensitive medical emergencies, pediatric med-
+ical emergencies and behavioral health medical emergencies;
+(b) Evidence-based practices and standards  for emergency medical services care for defined pa-
+tient types;
+(c) Emergency medical services workforce needs;
+(d) Coordination of care between health care specialties;
+(e) Other issues related  to emergency medical services as determined by the Oregon Health
+Authority and the program;
+(f) The appointment of the regional emergency medical services advisory boards; and
+(g) Approval of the regional emergency medical  services plans described in [ section 11 of this
+2024 Act ] section 11, chapter 32, Oregon Laws 2024 .
+(2) The Emergency Medical Services Advisory  Board may  convene temporary subcommittees
+for matters related to emergency medical services in order to  inform and make recommendations to
+the board.
+(3) In addition to the duties described in subsection (1) of  this section, the board shall convene
+the following permanent advisory committees that  shall inform and make recommendations to the
+board, in addition to other specified duties:
+(a) Time-Sensitive Medical Emergencies Advisory Committee, as described in [ section 6 of this
+2024 Act ] section 6, chapter 32, Oregon Laws 2024 ;
+(b) Emergency Medical Services Advisory Committee, as described in [ section 7 of  this 2024
+Act] section 7, chapter 32, Oregon Laws 2024 ;
+(c) [ Pediatric Emergency Medical Services  Advisory Committee ] Emergency Medical Services
+for Children Advisory Committee , as described in [ section 8 of this  2024 Act ] section 8, chapter
+32, Oregon Laws 2024 ; and
+(d) Behavioral Health  Emergency Medical Services Advisory Committee, as described in [ section
+9 of this 2024 Act ] section 9, chapter 32, Oregon Laws 2024 .
+SECTION 30.
+ Section 6, chapter 32, Oregon Laws 2024, is amended to read:
+Sec. 6.  (1) The Time-Sensitive  Medical Emergencies Advisory Committee is established in the
+Emergency Medical Services Advisory Board. The committee shall consist  of members determined
+by the board and the Oregon Health Authority and must include at least:
+(a) One member who is a physician who practices general surgery and specializes  in the treat-
+ment of trauma patients;
+(b) One member who is a physician  who practices neurology and specializes in the treatment
+of stroke patients;
+(c) One member who  is a physician who practices cardiology and manages acute cardiac condi-
+tions;
+(d) One member who is a physician who practices critical care medicine;
+(e) One member who is a physician who practices emergency medicine;
+(f) One member who is a physician who practices emergency medical services medicine;
+(g) One member who is a physician who practices in  neurological surgery and neurocritical care
+and manages both trauma and stroke patients;
+(h) One member who is an emergency  medical services provider licensed under ORS 682.216; and
+(i) One member who represents a patient equity organization or is an academic professional
+specializing in health equity.
+(2)(a) The committee shall provide  advice and recommendations to the board regarding systems
+of care related to time-sensitive medical  emergencies, including at least cardiac, stroke, airway,
+sepsis and trauma emergencies. The [ commission] committee shall also consider other time-sensitive
+emergencies including but not limited to [ sepsis,] infectious diseases, pandemics,  active seizures and
+severe respiratory emergencies.
+(b) The committee shall provide recommendations to the board on:
+(A) The regionalization and improvement of care for time-sensitive medical emergencies.
+(B) The designation, using  nationally recognized classifications where possible, of emergency
+medical services centers for the provision of care for time-sensitive medical emergencies.  If no na-
+tionally recognized classifications exist,  the committee shall undertake a public deliberation process
+to establish  classifications and submit the established classifications to the board for approval. In
+establishing and approving classifications,  the committee and the board shall prioritize patient care.
+(3) The committee shall:
+(a) Advise the board with respect to the board’s duties related to care  for cardiac, stroke,
+trauma and other identified time-sensitive emergencies;
+(b) Advise the board on potential  rules that the board may recommend to the authority for
+adoption related to care for cardiac, stroke, trauma and other identified  time-sensitive emergencies;
+(c) Analyze data related to care  for cardiac, stroke, trauma and other identified time-sensitive
+emergencies;
+(d) Recommend to  the board improvements to the Emergency Medical Services Program re-
+garding care for cardiac, stroke, trauma and other identified time-sensitive emergencies; and
+(e) Identify inequities in the provision of care and provide recommendations to the  board and
+program to resolve the identified inequities.
+(4) The members of the committee who are physicians must be  physicians licensed under ORS
+chapter  677.
+(5) The authority may adopt rules as necessary to carry out this section, including rules to adopt
+the nationally recognized classifications described in subsection (2) of this section.
+SECTION 31.
+ Section 7, chapter 32, Oregon Laws 2024, is amended to read:
+Sec. 7.  (1) The Emergency  Medical Services Advisory Committee is established in the Emer-
+gency Medical Services Advisory Board. The committee shall consist of members  determined by the
+board and the Oregon Health Authority and must include at least:
+(a) One member who  is a physician licensed under ORS chapter 677 who practices emergency
+medicine or emergency medical services medicine;
+(b) One member who is an emergency medical  services provider licensed under ORS 682.216; and
+(c) One member who represents a patient equity  organization or is an academic professional
+specializing in health equity.
+(2) The committee shall provide advice and recommendations to the board  regarding emergency
+medical services, for the care of time-sensitive medical emergencies, pediatric medical emergencies
+and behavioral health medical emergencies, including the following objectives:
+(a) The regionalization and improvement of emergency medical services, including the  coordi-
+nation and planning of emergency medical services efforts.
+(b) The designation,  using nationally recognized classifications where possible, of emergency
+medical services centers for the provision of care for medical emergencies.  If no nationally recog-
+nized classifications exist, the committee shall undertake a public deliberation process to  establish
+classifications and submit the established classifications to the board for approval. In establishing
+and approving classifications, the committee and the board shall prioritize patient care.
+(c) The adoption of rules related to emergency medical services.
+(3) The chairperson of the committee  shall appoint an advisory subcommittee on the licensure
+and discipline of emergency medical  services providers. The subcommittee shall advise the board on
+potential rules that the board may recommend to the authority for adoption under this section.
+(4) The committee may:
+(a) Assist the Time-Sensitive Medical Emergencies Advisory Committee,  the [ Pediatric Emer-
+gency Medical Services Advisory Committee ] Emergency Medical Services for Children  Advisory
+Committee established under  section 8, chapter 32, Oregon Laws 2024,  and the Behavioral
+Health Emergency Medical Services Advisory Committee in coordination and planning efforts; and
+(b) Provide other assistance to the board as the board requests.
+(5) The authority may adopt rules as necessary to carry out this section, including rules to adopt
+the nationally recognized classifications described in subsection (2) of this section.
+SECTION 32.
+ Section 8, chapter 32, Oregon Laws 2024, is amended to read:
+Sec. 8.  (1) The  [Pediatric Emergency Medical Services Advisory Committee ] Emergency Medical
+Services for Children Advisory Committee  is established in  the Emergency Medical Services
+Advisory Board. The committee shall  consist of members determined by the board and the Oregon
+Health Authority and must include at least:
+(a) Two members who are physicians specializing in the treatment  of pediatric emergency pa-
+tients;
+(b) One member who is a nurse who has pediatric emergency experience;
+(c) One member who is a physician with pediatric training;
+(d) One member who is an emergency medical services provider licensed under ORS 682.216;
+(e) One member who is a representative of the  Emergency Medical Services Program , who shall
+serve as an ex officio member ;
+(f) One member who  has experience as the project director of a statewide committee related to
+emergency medical services for children , who shall serve as an ex officio member ;
+(g) One member who  has experience as the program manager of a statewide committee related
+to emergency medical services for children , who shall serve as an ex officio member ;
+(h) One member who is a family representative; and
+(i) One member who represents a patient equity organization or is an academic professional
+specializing in health equity.
+(2) The committee shall provide advice and recommendations to the board regarding pediatric
+medical emergencies, including the following objectives:
+(a) The integration of pediatric emergency medical services into the Emergency Medical Ser-
+vices Program;
+(b) The regionalization and  improvement of care for time-sensitive pediatric medical emergen-
+cies; and
+(c) The designation, using nationally recognized classifications where possible, of  emergency
+medical services centers for the provision of care for time-sensitive pediatric medical emergencies.
+(3) With the advice of the [ Pediatric Emergency Medical  Services Advisory Committee ] Emer-
+gency Medical Services for Children Advisory Committee , the authority shall:
+(a) Employ or contract with professional,  technical, research and clerical staff to administer a
+statewide program related to emergency medical services for children.
+(b) Provide technical assistance to the Emergency Medical Services  Advisory Committee on the
+integration of pediatric emergency medical services into the Emergency Medical Services Program.
+(c) Provide  technical assistance to the Time-Sensitive Medical Emergencies Advisory Committee
+on the regionalization of pediatric emergency medical services.
+(d) Establish guidelines for:
+(A) The voluntary categorization of emergency medical  services agencies and hospital emer-
+gency departments that meet the [ requirements of the ] United States Health Resources and Services
+Administration Emergency Medical Services  for Children State Partnership  program require-
+ments for pediatric readiness, as adopted by the authority by rule.
+(B) Referring pediatric  patients to appropriate emergency medical services centers or critical
+care centers.
+(C) Necessary pediatric patient care equipment for prehospital  and [ pediatric critical care ] hos-
+pital emergency medical care .
+(D) Developing a  coordinated system that will allow pediatric patients to receive appropriate
+initial stabilization and treatment with timely provision of, or referral to, the appropriate level  of
+care including critical care, trauma care and pediatric subspecialty care.
+(E) An interfacility transfer system for critically ill or injured pediatric patients.
+(F) Continuing education  programs for emergency medical services personnel, including training
+in the emergency care of pediatric patients across different demographics  and physical demon-
+strations of pediatric-specific patient care equipment.
+(G) [ A public education  program promoting ] The promotion of  pediatric emergency medical
+services, including information on emergency and crisis telephone numbers.
+(H) The collection and  analysis of statewide pediatric prehospital, critical care and trauma care
+data from prehospital, critical care and trauma care facilities  for the purpose of quality improve-
+ment, subject to relevant confidentiality requirements.
+(I) The establishment  of cooperative interstate relationships to facilitate the provision of ap-
+propriate care for pediatric patients who must cross state  borders to receive critical care and
+trauma care services.
+(J) Coordination and  cooperation between a statewide program for emergency medical services
+for children and other public and private organizations interested or involved in pediatric  prehos-
+pital and critical care.
+(4)(a) The  members of the committee who are physicians must be physicians licensed under ORS
+chapter 677 and in good standing.
+(b) The member of the committee who  is a nurse must be licensed under ORS 678.010 to 678.410
+and in good standing.
+(c) The member of the committee who  is an emergency medical services provider must
+hold a valid license in good standing.
+(5) The authority may adopt rules as necessary to carry out this section, including rules to adopt
+the nationally recognized classifications described in subsection (2) of this section.
+SECTION 33.
+ Section 10, chapter 32, Oregon Laws 2024, is amended to read:
+Sec. 10.  (1)(a) The Emergency Medical  Services Advisory Board, upon the advice of the Time-
+Sensitive Medical Emergencies Advisory Committee, the Emergency Medical  Services Advisory
+Committee, the [ Pediatric Emergency Medical Services  Advisory Committee ] Emergency Medical
+Services for Children Advisory Committee established under section  8, chapter 32, Oregon
+Laws 2024, and  the Behavioral Health Emergency Medical Services Advisory Committee, shall de-
+termine the nationally recognized classification standards to recommend to the Oregon Health  Au-
+thority to adopt as rules  for categorization and designation of emergency medical services centers
+for the provision of trauma, stroke, cardiac, pediatric and behavioral health care and other identified
+time-sensitive emergencies.
+(b) If  a nationally recognized classification standard used by the authority under this subsection
+requires that an emergency medical  services center use a specific data system or registry in order
+to obtain a specific categorization or designation, the authority shall require  an emergency medical
+services center that intends to obtain the categorization or designation to  adopt the data system or
+registry not later than:
+(A) Eighteen months  after the date on which the Emergency Medical Services Advisory Board
+and the authority determine the data system or registry must be adopted, if the emergency  medical
+services center is a large facility or hospital, with an additional six months in which  to demonstrate
+compliant usage of the data system or registry.
+(B) Three years after the date on which the board and the authority determine  the data system
+or registry must be adopted,  if the emergency medical services center is a critical access or rural
+health care facility or hospital, with an  additional six months in which to demonstrate compliant
+usage of the data system or registry.
+(c) If no relevant nationally recognized classification standard is available for  a specific type
+of emergency medical  services center, the authority shall consider the recommendations of the board
+for one or more new classifications of a type of emergency medical services center.
+(d) The board and the authority may grant, at the request of an emergency medical  services
+center, an extension to the timeline described in paragraph (b) of this subsection.
+(2)(a) An emergency  medical services center is not required to obtain categorization or desig-
+nation as described in subsection (1) of this section but may, at the discretion  of the emergency
+medical services center, strive to obtain a specific categorization or designation.
+(b) An emergency medical services center described in this subsection is not  required to adopt
+and use a specific data system or registry unless the  data system or registry is required in order to
+obtain the categorization or designation  that the emergency medical services center strives to ob-
+tain.
+(c) An emergency  medical services center may concurrently adopt and use data systems or
+registries in addition to any data systems  or registries required for a specific categorization or
+designation.
+(3) An emergency  medical services center that uses any data system or registry shall grant to
+the authority permission to extract data subject to relevant confidentiality requirements.
+(4) An emergency medical services center may not  hold itself out, or operate, as having obtained
+a specific categorization or designation until:
+(a) The emergency medical services center meets all requirements for the  categorization or
+designation within the timelines specified in subsection (1)(b) of this section; and
+(b) The authority, through  the Emergency Medical Services Program, recognizes that the emer-
+gency medical services center meets the categorization or designation requirements.
+(5) The authority shall adopt rules to carry out this section and may adopt as rules of the au-
+thority any relevant nationally recognized classification  standards and proposed classification stan-
+dards described in subsection (1) of this section.
+SECTION 34.
+ Section 11, chapter 32, Oregon Laws 2024, is amended to read:
+Sec. 11.  (1) The Oregon Health  Authority shall, with the advice of the Emergency Medical
+Services Advisory Board, designate emergency medical services regions that are consistent with lo-
+cal resources, geography, current patient referral patterns and existing  regionalized health care
+structures  and  networks. The authority and the Emergency Medical Services Advisory Board shall
+establish a regional  emergency medical services advisory board for each designated emergency
+medical services region.  The authority and the Emergency Medical Services Advisory Board may
+determine the membership of each regional emergency medical services  advisory board, and shall
+ensure that the membership reflects the  geographic, cultural, linguistic and economic diversity of
+the emergency medical services region.
+(2) Each emergency medical services region must include at least  one hospital categorized ac-
+cording to the  emergency medical services region’s emergency medical services capabilities as de-
+termined by standards adopted by the authority by rule.
+(3) The authority, with the advice of the Emergency Medical Services  Advisory Board, shall
+appoint the members of the  regional emergency medical services advisory boards. Members serve
+at the  pleasure of the authority. Each regional emergency medical services advisory board is re-
+sponsible for:
+(a) The development and maintenance of a regional  emergency medical services system plan as
+described in subsection (4) of this section;
+(b) Central medical direction  for all field care and transportation consistent with geographic and
+current communications capability; and
+(c) Patient triage protocols for time-sensitive emergencies.
+(4) Each regional emergency medical services system plan:
+(a) Must include the following:
+(A) A recommendation of hospitals in the emergency medical services region to  be designated
+by the authority as emergency medical services centers under [ section 10 of this 2024 Act ] section
+10, chapter 32, Oregon Laws 2024 ;
+(B) A description of the  patient triage protocols to be used in the emergency medical services
+region;
+(C) A description of the transportation of patients, including the transportation of patients who
+are members of a health maintenance organization, as defined in ORS 442.015;
+(D) Information regarding how the emergency medical services region will coordinate with  state
+and regional disaster preparedness efforts; and
+(E) Any other information required by the authority by rule.
+(b) Must be approved by the authority prior to implementation.
+(c) May be revised with the approval of the authority.
+(5) The authority may,  with the advice of the Emergency Medical Services Advisory Board, im-
+plement the regional emergency medical services plans and may coordinate with  a regional emer-
+gency medical services advisory board to  make changes desired by the authority to the regional
+emergency medical services advisory [ board] plan.
+SECTION 35.
+ Section 12, chapter 32, Oregon Laws 2024, is amended to read:
+Sec. 12. (1) The Emergency Medical Services Program, upon the recommendation of the Emer-
+gency Medical Services Advisory Board, shall establish and maintain  an emergency medical services
+data system. In formulating recommendations, the board shall consider  the advice of the Time-
+Sensitive Medical Emergencies Advisory Committee, the Emergency Medical  Services Advisory
+Committee, the [ Pediatric Emergency Medical Services  Advisory Committee ] Emergency Medical
+Services for Children Advisory Committee established under section  8, chapter 32, Oregon
+Laws 2024,  and the Behavioral Health Emergency Medical Services  Advisory Committee. The
+Oregon Health Authority shall adopt rules for the data system described in this subsection  to es-
+tablish:
+(a) The information that must be reported to the data system;
+(b) A process for the oversight of the data  system and the reporting of information to the data
+system;
+(c) The form and frequency of reporting information:
+(A) To the data system, the authority and the board; and
+(B) From the data  system to health care facilities and providers that report information to the
+data system; and
+(d) The procedures and standards for the administration and maintenance of the data system.
+(2) In determining the information described in subsection (1)(a) of  this section, the authority
+shall require the reporting of information recommended  by the board following consultation with the
+committees.
+(3) The data system established under this section must:
+(a) Use nationally accredited data  registry systems approved by the authority where available
+or, if nationally accredited data registry systems are not  available, use existing established
+data systems authorized and managed by the authority ;
+(b) Have security measures in place to protect individually identifiable information;
+(c) Allow the authority to export data stored in the system;
+(d) Be used for quality assurance, quality  improvement, epidemiological assessment and investi-
+gation, public health implementation, critical response planning, prevention activities and  other
+purposes as the authority determines necessary; and
+(e) Meet other requirements established by the authority by rule.
+(4) If no relevant nationally accredited data registry system is  available , and no relevant es-
+tablished data system authorized and managed by the authority exists , the  authority shall
+convene an advisory committee of stakeholders, including but not limited  to state and community
+partners, to develop a proposal for the establishment  of a data system. The advisory committee
+convened under this  subsection shall prioritize high-quality patient care outcomes in all decision-
+making.
+(5) The authority may not require:
+(a) That a  health care facility adopt a specific registry unless that registry is required for the
+specific categorization or designation that the health care facility seeks to obtain.
+(b) The  reporting of data that is not otherwise required of a health care facility in order for the
+health care facility to  obtain a specific categorization or designation that the health care facility
+seeks to obtain.
+(6) The authority may access and extract data from any registry that a health care  facility has
+adopted for purposes of obtaining a specific categorization or designation, and may  use data de-
+scribed in this subsection in the data system established under this section.
+(7) The Emergency Medical Services Program shall make recommendations to:
+(a) Health care facilities for the  adoption of specific registries and services from the data system
+established under this section for the purpose of health care facility categorization; and
+(b) Emergency medical services providers for the adoption of specific registries and services
+from the data system established under this section for the  purpose of sharing emergency medical
+services data with the authority.
+(8) The authority may  request the inclusion of demographic data from patients who receive
+emergency medical care  from a health care facility or emergency medical services provider, includ-
+ing but not limited to the patients’:
+(a) Age;
+(b) Sex;
+(c) Gender;
+(d) Race and ethnicity;
+(e) Status as a disabled person;
+(f) Status as a veteran; and
+(g) Zip code and emergency medical services region of residence.
+(9) As used in this section, “individually identifiable information” means:
+(a) Individually identifiable health information as that term is defined in ORS 179.505; and
+(b) Information  that could be used to identify a health care provider, emergency medical services
+agency or health care facility.
+SECTION 36.
+ Section 31, chapter 32, Oregon Laws 2024, is amended to read:
+Sec. 31.  The Director of the Oregon Health Authority may appoint to the:
+(1) Time-Sensitive Medical  Emergencies Advisory Committee members of the State Trauma Ad-
+visory Board established under ORS 431A.055 and the Stroke Care Committee established under ORS
+431A.525.
+(2) Emergency Medical Services Advisory Committee members  of the State Emergency Medical
+Service Committee established under ORS 682.039 (2023 Edition).
+(3) [ Pediatric Emergency Medical Services  Advisory Committee ] Emergency Medical Services
+for Children Advisory Committee established under section 8, chapter 32, Oregon Laws 2024,
+members of the Emergency Medical Services for Children Advisory Committee established under
+ORS 431A.105.
+SECTION 37.
+ Section 32, chapter 32, Oregon Laws 2024, is amended to read:
+Sec. 32.  (1) The Emergency Medical Services Advisory  Board, the Time-Sensitive Medical
+Emergencies Advisory Committee, the  [ Pediatric Emergency Medical Services Advisory Committee ]
+Emergency Medical Services for Children Advisory Committee established under section  8,
+chapter 32, Oregon Laws 2024,  and the Behavioral Health Emergency Medical Services Advisory
+Committee may hold their first meetings no earlier than January 1, 2025.
+(2)(a) The emergency medical services regions established under [ section 11 of this 2024  Act ]
+section 11, chapter 32, Oregon Laws 2024,  may hold their  first meetings no earlier than January
+1, 2026.
+(b) The emergency medical services regions shall develop the regional  emergency medical ser-
+vices system plans not later than January 1, 2027.
+SECTION 38.  Section 3,  chapter 32, Oregon Laws 2024, as amended by section 37, chapter 32,
+Oregon Laws 2024, is amended to read:
+Sec. 3.  (1) The Emergency Medical Services Program, with the advice of the Emergency Medical
+Services Advisory Board, the  Time-Sensitive Medical Emergencies Advisory Committee, the Emer-
+gency  Medical  Services Advisory Committee, the [ Pediatric Emergency Medical Services Advisory
+Committee] Emergency Medical Services for Children Advisory  Committee established under
+section 8, chapter 32,  Oregon Laws 2024 , the Behavioral Health Emergency Medical Services
+Advisory Committee and the Long Term Care and Senior Care  Emergency Medical Services Advi-
+sory Committee, shall:
+(a) Coordinate with national health organizations involved  in improving the quality of stroke,
+cardiac, trauma, pediatric, behavioral  health and long term and senior care to avoid duplicative in-
+formation and redundant processes;
+(b) Use information related to stroke, cardiac, trauma,  pediatric, behavioral health and long
+term and senior care to support improvement in  the quality of care in accordance with guidelines
+that meet or exceed nationally recognized standards;
+(c) Encourage the sharing of information among health care providers on practices  that improve
+the quality of stroke, cardiac, trauma, pediatric, behavioral health and long term and senior care;
+(d) Facilitate communication  about data trends and treatment developments among health care
+providers and coordinated care  organizations that provide services related to stroke, cardiac,
+trauma, pediatric, behavioral health and long term and senior care; and
+(e) Provide stroke, cardiac, trauma, pediatric, behavioral health and long term and senior care
+data, and recommendations for improvement to care, to coordinated care organizations.
+(2) Not later than the beginning of each odd-numbered year regular session of the  Legislative
+Assembly, the program shall submit to the Legislative Assembly a  report in the manner provided in
+ORS 192.245 summarizing the program’s activities under this section.
+SECTION 39.  Section 5,  chapter 32, Oregon Laws 2024, as amended by section 38, chapter 32,
+Oregon Laws 2024, is amended to read:
+Sec. 5.  (1) The Emergency Medical Services Advisory Board shall provide advice  and recom-
+mendations to the Emergency Medical Services Program on the following:
+(a) A definition of “patient” for  purposes of time-sensitive medical emergencies, pediatric med-
+ical emergencies, behavioral health medical emergencies and long term  and senior care medical
+emergencies;
+(b) Evidence-based practices and standards  for emergency medical services care for defined pa-
+tient types;
+(c) Emergency medical services workforce needs;
+(d) Coordination of care between health care specialties;
+(e) Other issues related  to emergency medical services as determined by the Oregon Health
+Authority and the program;
+(f) The appointment of the regional emergency medical services advisory boards; and
+(g) Approval of the regional emergency medical  services plans described in [ section 11 of this
+2024 Act ] section 11, chapter 32, Oregon Laws 2024 .
+(2) The Emergency Medical Services Advisory  Board may  convene temporary subcommittees
+for matters related to emergency medical services in order to  inform and make recommendations to
+the board.
+(3) In addition to the duties described  in subsection (1) of this section, the board shall convene
+the following permanent advisory committees that shall inform  and make recommendations to the
+board, in addition to other specified duties:
+(a) Time-Sensitive Medical Emergencies  Advisory Committee, as described in [ section 6 of this
+2024 Act ] section 6, chapter 32, Oregon Laws 2024 ;
+(b) Emergency Medical  Services Advisory Committee, as described in [ section 7 of this 2024
+Act] section 7, chapter 32, Oregon Laws 2024 ;
+(c) [ Pediatric Emergency Medical Services Advisory  Committee ] Emergency Medical Services
+for Children Advisory Committee , as described  in [ section 8 of this 2024 Act ] section 8, chapter
+32, Oregon Laws 2024 ;
+(d) Behavioral Health  Emergency Medical Services Advisory Committee, as described in [ section
+9 of this 2024 Act ] section 9, chapter 32, Oregon Laws 2024 ; and
+(e) Long Term Care and Senior Care Emergency  Medical Services Advisory Committee, as de-
+scribed in [ section 36 of this 2024 Act ] section 36, chapter 32, Oregon Laws 2024 .
+SECTION 40.
+ Section 7,  chapter 32, Oregon Laws 2024, as amended by section 39, chapter 32,
+Oregon Laws 2024, is amended to read:
+Sec. 7.  (1) The Emergency  Medical Services Advisory Committee is established in the Emer-
+gency Medical Services Advisory Board. The committee shall consist of members  determined by the
+board and the Oregon Health Authority and must include at least:
+(a) One member who  is a physician licensed under ORS chapter 677 who practices emergency
+medicine or emergency medical services medicine;
+(b) One member who is an emergency medical  services provider licensed under ORS 682.216; and
+(c) One member who represents a patient equity  organization or is an academic professional
+specializing in health equity.
+(2) The committee shall provide advice and recommendations to the board  regarding emergency
+medical services, for the care of time-sensitive medical emergencies,  pediatric medical emergencies,
+behavioral health medical emergencies and long term and senior care medical emergencies, includ-
+ing the following objectives:
+(a) The  regionalization and improvement of emergency medical services, including the coordi-
+nation and planning of emergency medical services efforts.
+(b) The designation, using nationally recognized classifications where possible,  of emergency
+medical services centers for the  provision of care for medical emergencies. If no nationally recog-
+nized classifications  exist, the committee shall undertake a public deliberation process to establish
+classifications and submit the established classifications to the board for approval. In establishing
+and approving classifications, the committee and the board shall prioritize patient care.
+(c) The adoption of rules related to emergency medical services.
+(3) The chairperson of the committee shall appoint an  advisory subcommittee on the licensure
+and discipline of emergency medical  services providers. The subcommittee shall advise the board on
+potential rules that the board may recommend to the authority for adoption under this section.
+(4) The committee may:
+(a) Assist the Time-Sensitive  Medical Emergencies Advisory Committee, the [ Pediatric Emer-
+gency Medical  Services Advisory Committee ] Emergency Medical Services for Children Advisory
+Committee established under section 8, chapter 32,  Oregon Laws 2024 , the Behavioral Health
+Emergency Medical Services Advisory Committee and the Long Term Care and Senior Care Emer-
+gency Medical Services Advisory Committee in coordination and planning efforts; and
+(b) Provide other assistance to the board as the board requests.
+(5) The authority may adopt rules as necessary to carry out this section, including rules to adopt
+the nationally recognized classifications described in subsection (2) of this section.
+SECTION 41.
+ Section 10, chapter 32, Oregon Laws 2024, as amended by  section 40, chapter 32,
+Oregon Laws 2024, is amended to read:
+Sec. 10.  (1)(a) The Emergency Medical Services Advisory Board, upon  the advice of the Time-
+Sensitive Medical Emergencies  Advisory Committee, the Emergency Medical Services Advisory
+Committee, the [ Pediatric Emergency Medical  Services Advisory Committee ] Emergency Medical
+Services for Children Advisory Committee  established under section 8, chapter 32, Oregon
+Laws 2024, the Behavioral Health Emergency Medical Services Advisory Committee  and the Long
+Term Care and Senior  Care Emergency Medical Services Advisory Committee, shall determine the
+nationally recognized classification standards to  recommend to the Oregon Health Authority to
+adopt as rules for categorization and designation of  emergency medical services centers for the
+provision of trauma, stroke, cardiac, pediatric, behavioral health and  long term and senior care and
+other identified time-sensitive emergencies.
+(b) If  a nationally recognized classification standard used by the authority under this subsection
+requires that an emergency medical  services center use a specific data system or registry in order
+to obtain a specific categorization or designation, the authority shall require  an emergency medical
+services center that intends to obtain the categorization or designation to  adopt the data system or
+registry not later than:
+(A) Eighteen months  after the date on which the Emergency Medical Services Advisory Board
+and the authority determine the data system or registry must be adopted, if the emergency  medical
+services center is a large facility or hospital, with an additional six months in which  to demonstrate
+compliant usage of the data system or registry.
+(B) Three years after the date on which the board and the authority determine  the data system
+or registry must be adopted,  if the emergency medical services center is a critical access or rural
+health care facility or hospital, with an  additional six months in which to demonstrate compliant
+usage of the data system or registry.
+(c) If no relevant nationally recognized classification standard is available for  a specific type
+of emergency medical  services center, the authority shall consider the recommendations of the board
+for one or more new classifications of a type of emergency medical services center.
+(d) The board and the authority may grant, at the request of an emergency medical  services
+center, an extension to the timeline described in paragraph (b) of this subsection.
+(2)(a) An emergency  medical services center is not required to obtain categorization or desig-
+nation as described in subsection (1) of this section but may, at the discretion  of the emergency
+medical services center, strive to obtain a specific categorization or designation.
+(b) An emergency medical services center described in this subsection is not  required to adopt
+and use a specific data system or registry unless the  data system or registry is required in order to
+obtain the categorization or designation  that the emergency medical services center strives to ob-
+tain.
+(c) An emergency  medical services center may concurrently adopt and use data systems or
+registries in addition to any data systems  or registries required for a specific categorization or
+designation.
+(3) An emergency  medical services center that uses any data system or registry shall grant to
+the authority permission to extract data subject to relevant confidentiality requirements.
+(4) An emergency medical services center may not  hold itself out, or operate, as having obtained
+a specific categorization or designation until:
+(a) The emergency medical services center meets all requirements for the  categorization or
+designation within the timelines specified in subsection (1)(b) of this section; and
+(b) The authority, through  the Emergency Medical Services Program, recognizes that the emer-
+gency medical services center meets the categorization or designation requirements.
+(5) The authority shall adopt rules to carry out this section and may adopt as rules of the au-
+thority any relevant nationally recognized classification  standards and proposed classification stan-
+dards described in subsection (1) of this section.
+EMS PERSONNEL LICENSURE INTERSTATE COMPACT
+SECTION 42.
+The provisions of the EMS Personnel Licensure Interstate  Compact are as
+follows:
+EMS PERSONNEL LICENSURE INTERSTATE COMPACT
+SECTION 1. PURPOSE
+In order to protect the public through verification of competency and ensure  account-
+ability for patient care related activities, all  states license emergency medical services (EMS)
+personnel, such as emergency medical technicians (EMTs), advanced  emergency medical
+technicians (AEMTs) and paramedics. This Compact is intended to facilitate the  day-to-day
+movement of EMS personnel across state boundaries in the performance of  their EMS duties
+as assigned by an appropriate  authority and authorize state EMS offices to afford immediate
+legal recognition to EMS personnel licensed in a member state. This Compact recognizes that
+states have  a vested interest in protecting the public’s health and safety through their li-
+censing and regulation of EMS personnel and that such state regulation shared among  the
+member states will  best protect public health and safety. This Compact is designed to achieve
+the following purposes and objectives:
+1. Increase public access to EMS personnel;
+2. Enhance the states’ ability to protect the public’s health and  safety, especially patient
+safety;
+3. Encourage the cooperation of  member states in the areas of EMS personnel licensure
+and regulation;
+4. Support the licensing of military members who are separating from  an active duty
+tour, and the licensing of their spouses;
+5. Facilitate the exchange of information between  member states regarding EMS per-
+sonnel licensure, adverse action and significant investigatory information;
+6. Promote compliance with the laws governing EMS personnel practice in each  member
+state;  and
+7. Invest all member  states with the authority to hold EMS personnel accountable
+through the mutual recognition of member state licenses.
+SECTION 2. DEFINITIONS
+As used in this compact:
+A. “Advanced emergency medical  technician (AEMT)” means an individual licensed with
+cognitive knowledge and a scope of practice that corresponds  to that level in the National
+EMS Education Standards and National EMS Scope of Practice Model.
+B. “Adverse action” means any administrative, civil, equitable or  criminal action per-
+mitted by a state’s laws, which may be imposed against licensed EMS  personnel by a state
+EMS authority or state court, including, but not limited to,  actions against an individual’s
+license such as revocation, suspension, probation, consent agreement,  monitoring or other
+limitation or encumbrance on the  individual’s practice, letters of reprimand or admonition,
+fines, criminal convictions and state court judgments enforcing adverse actions by the state
+EMS authority.
+C. “Alternative program” means a  voluntary, nondisciplinary substance abuse recovery
+program approved by a state EMS authority.
+D. “Certification” means the successful verification of entry-level  cognitive and
+psychomotor competency using a reliable, validated and legally defensible examination.
+E. “Commission” means the national administrative body of  which all states that have
+enacted this Compact are members.
+F. “Emergency medical technician  (EMT)” means an individual licensed with cognitive
+knowledge and a scope of practice that corresponds to that level in the National EMS Edu-
+cation Standards and National EMS Scope of Practice Model.
+G. “Home state” means a member state where an individual is licensed to  practice
+emergency medical services.
+H. “License” means  the authorization by a state for an individual to practice as an EMT,
+AEMT or paramedic or at a level in between EMT and paramedic.
+I. “Medical director” means a physician licensed in a member state who is  accountable
+for the care delivered by EMS personnel.
+J. “Member state” means a state that has enacted this Compact.
+K. “Privilege to practice” means  an individual’s authority to deliver emergency medical
+services in remote states as authorized under this Compact.
+L. “Paramedic” means an individual  licensed with cognitive knowledge and a scope of
+practice that corresponds to that level in the National EMS Education  Standards and Na-
+tional EMS Scope of Practice Model.
+M. “Remote state” means a member state in which an individual is not licensed.
+N. “Restricted” means the outcome of an adverse action that limits a license or  the
+privilege to practice.
+O. “Rule” means a written statement by the Commission promulgated  pursuant to Sec-
+tion 12 of this Compact that is of general applicability, that implements, interprets or  pre-
+scribes a policy or provision of this Compact or is an organizational, procedural or practice
+requirement of the Commission and that has the force and effect of statutory law  in a
+member state and includes the amendment, repeal or suspension of an existing rule.
+P. “Scope of  practice” means defined parameters of various duties or services that may
+be provided by an individual with specific  credentials. Whether regulated by rule, statute or
+court decision, it tends to represent the limits of services an individual may perform.
+Q. “Significant investigatory information” means:
+1. Investigative information that a state EMS authority, after a  preliminary inquiry that
+includes notification and an opportunity to respond if required by  state law, has reason to
+believe, if proved true, would result in the imposition  of an adverse action on a license or
+privilege to practice; or
+2. Investigative information that indicates that the individual represents an immediate
+threat to public health and safety regardless of whether the individual has been notified  and
+had an opportunity to respond.
+R. “State” means any state, commonwealth, district or territory of the United States.
+S. “State EMS authority” means the board, office or other agency with  the legislative
+mandate to license EMS personnel.
+SECTION 3. HOME STATE LICENSURE
+A. Any member state in which an individual  holds a current license shall be deemed a
+home state for purposes of this Compact.
+B. Any  member state may require an individual to obtain and retain a license to be au-
+thorized to practice in the member state under circumstances not authorized by the privilege
+to practice under the terms of this Compact.
+C. A home state’s license authorizes an  individual to practice in a remote state under the
+privilege to practice only if the home state:
+1. Currently requires  the use of the National Registry of Emergency Medical Technicians
+(NREMT) examination  as a condition of issuing initial licenses at the EMT and paramedic
+levels;
+2. Has a mechanism in place for receiving and investigating complaints about individuals;
+3. Notifies the Commission, in compliance  with the terms herein, of any adverse action
+or significant investigatory information regarding an individual;
+4. No later than  five years after activation of this Compact, requires a criminal back-
+ground check of all applicants for initial licensure, including the use of the results of fin-
+gerprint or other biometric data checks compliant  with the requirements of the Federal
+Bureau of Investigation with the exception of federal  employees who have a suitability de-
+termination in accordance with 5 C.F.R. 731.202 and submit documentation of such  as
+promulgated in the rules of the Commission; and
+5. Complies with the rules of the Commission.
+SECTION 4. COMPACT PRIVILEGE TO PRACTICE
+A. Member  states shall recognize the privilege to practice of an individual licensed in
+another member state that is in conformance with Section 3 of this Compact.
+B. To exercise the privilege  to practice under the terms and provisions of this Compact,
+an individual must:
+1. Be at least 18 years of age;
+2. Possess a current unrestricted license in a member state  as an EMT, AEMT or
+paramedic or state-recognized and licensed level with a scope of practice  and authority be-
+tween EMT and paramedic; and
+3. Practice under the supervision of a medical director.
+C. An individual providing patient care in a remote state under the privilege to practice
+shall function within the scope of practice authorized by the home state  unless and until
+modified by an appropriate authority in  the remote state as may be defined in the rules of
+the Commission.
+D. Except as provided in Section 4.C  of this Compact, an individual practicing in a remote
+state will be subject to the remote state’s  authority and laws. A remote state may, in ac-
+cordance with due process and that state’s laws, restrict, suspend or revoke an individual’s
+privilege to practice in the  remote state and may take any other necessary actions to protect
+the health and safety of its citizens. If a remote state takes action,  it shall promptly notify
+the home state and the Commission.
+E. If an individual’s license in any home state is restricted or  suspended, the individual
+shall not be eligible to practice in a remote state under the  privilege to practice until the
+individual’s home state license is restored.
+F. If an individual’s privilege to  practice in any remote state is restricted, suspended or
+revoked, the individual shall  not be eligible to practice in any remote state until the
+individual’s privilege to practice is restored.
+SECTION 5. CONDITIONS OF PRACTICE IN A REMOTE STATE
+An individual may practice in a remote state under a privilege to practice only  in the
+performance of the individual’s EMS duties as assigned by an appropriate  authority, as de-
+fined in the rules of the Commission, and under the following circumstances:
+1. The individual originates a patient transport in a home state  and transports the pa-
+tient to a remote state;
+2. The individual originates in the home state  and enters a remote state to pick up a
+patient and provide care and transport of the patient to the home state;
+3. The individual enters a remote state to provide patient care or  transport within that
+remote state;
+4. The individual enters a remote state to pick up a patient  and provide care and trans-
+port to a third member state; or
+5. Other conditions as determined by rules promulgated by the Commission.
+SECTION 6. RELATIONSHIP TO EMERGENCY  MANAGEMENT ASSISTANCE COM-
+PACT
+Upon a member state’s Governor’s  declaration of a state of emergency or disaster that
+activates the Emergency Management Assistance Compact (EMAC), all relevant terms and
+provisions of EMAC shall apply  and, to the extent any terms or provisions of this Compact
+conflicts with EMAC, the terms of  EMAC shall prevail with respect to any individual prac-
+ticing in the remote state in response to such declaration.
+SECTION 7. VETERANS, SERVICE MEMBERS SEPARATING FROM ACTIVE  DUTY
+MILITARY, AND THEIR SPOUSES
+A. Member states shall consider a veteran, an  active military service member, and a
+member of the National Guard and Reserves separating from an active duty  tour, and a
+spouse thereof, who holds a current valid and unrestricted NREMT certification at or  above
+the level of the state license being sought  as satisfying the minimum training and examina-
+tion requirements for such licensure.
+B. Member states shall  expedite the processing of licensure applications submitted by
+veterans, active military service members, and members of the National  Guard and Reserves
+separating from an active duty tour, and their spouses.
+C. All individuals functioning with a privilege to practice under this  Section remain sub-
+ject to the adverse actions provisions of Section 8 of this Compact.
+SECTION 8. ADVERSE ACTIONS
+A. A home state  shall have exclusive power to impose adverse action against an
+individual’s license issued by the home state.
+B. If an individual’s license in any home state is restricted or  suspended, the individual
+shall not be eligible to practice in a remote state under the  privilege to practice until the
+individual’s home state license is restored.
+1. All home state adverse action orders shall include a statement that the individual’s
+Compact privileges are  inactive. The order may allow the individual to practice in remote
+states with prior written authorization from both  the home state and remote state’s EMS
+authority.
+2. An individual currently subject to adverse action in  the home state shall not practice
+in any remote state without prior written authorization from both the  home state and re-
+mote state’s EMS authority.
+C. A member state shall report adverse actions and any  occurrences that the individual’s
+Compact privileges are restricted, suspended  or revoked to the Commission in accordance
+with the rules of the Commission.
+D. A remote state  may take adverse action on an individual’s privilege to practice within
+that state.
+E. Any member state may take adverse action against  an individual’s privilege to prac-
+tice in that state based on the  factual findings of another member state, so long as each
+state follows its own procedures for imposing such adverse action.
+F. A home state’s EMS authority shall investigate  and take appropriate action with re-
+spect to reported conduct in a remote state as it would if such conduct had occurred  within
+the home state. In such cases, the home  state’s law shall control in determining the appro-
+priate adverse action.
+G. Nothing in this Compact shall override a  member state’s decision that participation
+in an alternative program may be used in lieu of  adverse action and that such participation
+shall remain nonpublic if required by the member state’s  laws. Member states must require
+individuals who enter any alternative programs  to agree not to practice in any other member
+state during the term of the alternative program without  prior authorization from such
+other member state.
+SECTION 9. ADDITIONAL POWERS INVESTED IN A MEMBER  STATE’S EMS AU-
+THORITY
+A member state’s EMS authority, in  addition to any other powers granted under state
+law, is authorized under this Compact to:
+1. Issue subpoenas for both hearings and investigations that  require the attendance and
+testimony of witnesses and the production of evidence. Subpoenas issued by a member state’s
+EMS authority for the attendance and testimony of witnesses, and the production of evidence
+from another member state, shall be enforced in the remote state by  any court of competent
+jurisdiction, according to that court’s practice and procedure in considering subpoenas issued
+in its own proceedings. The issuing state’s EMS  authority shall pay any witness fees, travel
+expenses, mileage and other fees required  by the service statutes of the state where the
+witnesses and evidence are located; and
+2. Issue cease and desist orders to restrict,  suspend or revoke an individual’s privilege
+to practice in the state.
+SECTION 10. ESTABLISHMENT  OF THE INTERSTATE COMMISSION FOR EMS PER-
+SONNEL PRACTICE
+A. The Compact states hereby create and establish a joint  public agency known as the
+Interstate Commission for EMS Personnel Practice.
+1. The Commission is a body politic and an instrumentality of the Compact states.
+2. Venue is proper and judicial proceedings by or against the Commission shall be brought
+solely and exclusively in a court of competent jurisdiction where the principal  office of the
+Commission is located. The Commission may waive venue and jurisdictional defenses to the
+extent it adopts or consents to participate in alternative dispute resolution proceedings.
+3. Nothing in this Compact shall be construed to be a waiver of sovereign immunity.
+B. Membership, Voting and Meetings
+1. Each member state shall have and be limited to one delegate.  The responsible official
+of the state EMS authority, or their  designee, shall be the delegate to this Compact for each
+member state. Any delegate may be removed or suspended  from office as provided by the law
+of the state from which the  delegate is appointed. Any vacancy occurring in the Commission
+shall be filled in accordance with the laws of the member state in which  the vacancy exists.
+In the  event that more than one board, office or other agency with the legislative mandate
+to license EMS personnel at and above the  level of EMT exists, the Governor of the state
+will determine which entity will be responsible for assigning the delegate.
+2. Each delegate shall be  entitled to one vote with regard to the promulgation of rules
+and creation of bylaws and shall otherwise have an opportunity to participate  in the business
+and affairs of the Commission. A delegate shall vote  in person or by such other means as
+provided in  the bylaws. The bylaws may provide for delegates’ participation in meetings by
+telephone or other means of communication.
+3. The Commission shall meet at least once during each calendar  year. Additional
+meetings shall be held as set forth in the bylaws.
+4. All meetings shall be open to  the public, and public notice of meetings shall be given
+in the same manner as required under the rulemaking provisions in  Section 12 of this Com-
+pact.
+5. The Commission may convene in a closed, nonpublic meeting  if the Commission must
+discuss:
+a. Noncompliance of a member state with its obligations under this Compact;
+b. The employment, compensation, discipline  or other personnel matters, practices or
+procedures related to specific  employees or other matters related to the Commission’s
+internal personnel practices and procedures;
+c. Current, threatened or reasonably anticipated litigation;
+d. Negotiation of contracts for the purchase or sale of goods, services or real estate;
+e. Accusing any person of a crime or formally censuring any person;
+f. Disclosure  of trade secrets or commercial or financial information that is privileged
+or confidential;
+g. Disclosure of information of a personal nature where disclosure would constitute  a
+clearly unwarranted invasion of personal privacy;
+h. Disclosure of investigatory records compiled for law enforcement purposes;
+i. Disclosure of  information related to any investigatory reports prepared by or on behalf
+of or  for use of the Commission or other committee charged with responsibility of investi-
+gation or determination of compliance issues pursuant to this Compact; or
+j. Matters specifically exempted from disclosure by federal or member state statute.
+6. If a meeting, or portion of  a meeting, is closed pursuant to this provision, the
+Commission’s legal counsel or designee  shall certify that the meeting may be closed and shall
+reference each relevant exempting provision. The Commission shall keep minutes that  fully
+and clearly describe all matters discussed in a meeting and shall provide a full and accurate
+summary of  actions taken, and the reasons therefor, including a description of the views
+expressed. All documents considered  in connection with an action shall be identified in such
+minutes. All minutes and documents of a closed meeting shall remain under seal,  subject to
+release by a majority vote of the Commission or order of a court of competent jurisdiction.
+C. The Commission shall, by a majority vote of the delegates, prescribe  bylaws and rules
+to govern its  conduct as may be necessary or appropriate to carry out the purposes and ex-
+ercise the powers of this Compact, including but not limited to:
+1. Establishing the fiscal year of the Commission;
+2. Providing reasonable standards and procedures:
+a. For the establishment and meetings of other committees; and
+b. Governing any general or specific delegation of any authority or function  of the Com-
+mission;
+3. Providing reasonable procedures for calling and conducting meetings of the Commis-
+sion, ensuring reasonable advance  notice of all meetings, and providing an opportunity for
+attendance of such meetings by interested parties, with  enumerated exceptions designed to
+protect the public’s interest,  the privacy of individuals and proprietary information, including
+trade secrets. The Commission may  meet in closed session only after a majority of the
+membership votes to close a  meeting in whole or in part. As soon as practicable, the Com-
+mission must make public a copy of the vote to close  the meeting revealing the vote of each
+member with no proxy votes allowed;
+4. Establishing the titles, duties and authority and reasonable procedures for  the election
+of the officers of the Commission;
+5. Providing reasonable standards and procedures for the establishment of the personnel
+policies and programs of the Commission. Notwithstanding any civil service or other similar
+laws of any member state, the bylaws shall exclusively govern  the personnel policies and
+programs of the Commission;
+6. Promulgating a code of ethics to address permissible and prohibited  activities of
+Commission members and employees;
+7. Providing a mechanism for winding up the operations  of the Commission and the eq-
+uitable disposition of any surplus funds that may exist after the termination of this Compact
+after the payment and reserving of all of its debts and obligations;
+8. The Commission shall publish its bylaws and file a  copy thereof, and a copy of any
+amendment thereto, with the appropriate agency or officer in each  of the member states, if
+any.
+9. The Commission shall maintain its financial records in accordance with the bylaws.
+10. The Commission shall meet and take such actions as are consistent  with the pro-
+visions of this Compact and the bylaws.
+D. The Commission shall have the following powers:
+1.a. The authority to promulgate uniform rules to facilitate and coordinate implementa-
+tion and administration of this Compact. The rules shall  have the force and effect of law
+and shall be binding in all member states.
+b. Notwithstanding Section 10.D.1.a. of  this Compact, the Oregon Health Authority shall
+review the rules of the Commission. The authority may  approve and adopt the rules of the
+Commission as rules of the authority. The State of Oregon is subject to a rule of the Com-
+mission only if the rule of the Commission is adopted by the authority;
+2. To  bring and prosecute legal proceedings or actions in the name of the Commission,
+provided that the standing of any  state EMS authority or other regulatory body responsible
+for EMS personnel licensure to sue or be sued under applicable law shall not be affected;
+3. To purchase and maintain insurance and bonds;
+4. To borrow, accept or contract for services of personnel,  including, but not limited to,
+employees of a member state;
+5. To hire employees, elect or appoint officers, fix compensation, define duties, grant such
+individuals appropriate authority to carry out the purposes of this Compact and to  establish
+the Commission’s personnel policies and programs relating to conflicts of interest, quali-
+fications of personnel and other related personnel matters;
+6. To accept any and  all appropriate donations and grants of money, equipment, supplies,
+materials and services, and to  receive, utilize and dispose of the same, provided that at all
+times the Commission shall strive to  avoid any appearance of impropriety or conflict of in-
+terest;
+7. To lease, purchase, accept appropriate gifts or donations of or  otherwise to own, hold,
+improve or use, any property, real, personal or mixed, provided that at all times the Com-
+mission shall strive to avoid any appearance of impropriety;
+8. To  sell convey, mortgage, pledge, lease, exchange, abandon or otherwise dispose of any
+property, real, personal or mixed;
+9. To establish a budget and make expenditures;
+10. To borrow money;
+11. To appoint committees, including advisory committees comprised of  members, state
+regulators, state legislators or their representatives and consumer  representatives, and such
+other interested persons as may be designated in this Compact and the bylaws;
+12. To provide and receive  information from, and to cooperate with, law enforcement
+agencies;
+13. To adopt and use an official seal; and
+14. To perform such other functions  as may be necessary or appropriate to achieve the
+purposes of this Compact consistent with the state regulation of EMS personnel  licensure
+and practice.
+E. Financing of the Commission
+1. The Commission  shall pay, or provide for the payment of, the reasonable expenses of
+its establishment, organization and ongoing activities.
+2. The Commission may accept any and all appropriate  revenue sources, donations and
+grants of money, equipment, supplies, materials and services.
+3.a. The Commission may levy on and collect an annual  assessment from each member
+state or impose fees on other parties to cover the cost of the operations and activities of  the
+Commission and its staff, which  must be in a total amount sufficient to cover its annual
+budget as approved  each year for which revenue is not provided by other sources. The ag-
+gregate annual assessment  amount shall be allocated based upon a formula to be determined
+by the Commission, which shall promulgate a rule binding upon all member states.
+b. An assessment  levied, or any other financial obligation imposed, under this Compact
+is effective against the State of Oregon only to the extent  that moneys necessary to pay the
+assessment or meet the financial obligation have been deposited in the Emergency  Medical
+Services Program Fund established under section 8 of this 2025 Act.
+4. The Commission shall not incur obligations of  any kind prior to securing the funds
+adequate to meet the same, nor shall the  Commission pledge the credit of any of the member
+states, except by and with the authority of the member state.
+5. The Commission shall keep  accurate accounts of all receipts and disbursements. The
+receipts and disbursements of the Commission shall  be subject to the audit and accounting
+procedures established under its bylaws. However, all receipts and disbursements  of funds
+handled by the Commission shall be audited  yearly by a certified or licensed public account-
+ant, and the report of the audit shall be included in and become part of the  annual report
+of the Commission.
+F. Qualified Immunity, Defense and Indemnification
+1. The members,  officers, executive director, employees and representatives of the Com-
+mission shall be immune from suit and liability,  either personally or in their official capacity,
+for any claim for damage to or loss of property or personal injury or other  civil liability
+caused by or arising  out of any actual or alleged act, error or omission that occurred, or that
+the person against whom the claim  is made had a reasonable basis for believing occurred
+within the scope of Commission employment, duties or  responsibilities, provided that nothing
+in this paragraph shall  be construed to protect any such person from suit or liability for any
+damage, loss, injury or liability caused by the intentional or willful  or wanton misconduct
+of that person.
+2. The Commission  shall defend any member, officer, executive director, employee or
+representative of the Commission in any civil action seeking to impose liability arising  out
+of any actual or alleged act, error or omission that occurred within the scope of Commission
+employment, duties or responsibilities, or that the person against whom the claim is made
+had a  reasonable basis for believing occurred within the scope of Commission employment,
+duties or responsibilities, provided that nothing herein shall  be construed to prohibit that
+person from  retaining their own counsel, and provided further that the actual or alleged act,
+error or omission did not result from that person’s intentional  or willful or wanton miscon-
+duct.
+3. The  Commission shall indemnify and hold harmless any member, officer, executive di-
+rector, employee or representative of the Commission for  the amount of any settlement or
+judgment obtained against  that person arising out of any actual or alleged act, error or
+omission that occurred within the scope of Commission  employment, duties or responsibil-
+ities, or that such person had a  reasonable basis for believing occurred within the scope of
+Commission employment, duties or responsibilities, provided that the actual or alleged act,
+error or omission did not result from the intentional or willful or wanton misconduct of that
+person.
+SECTION 11. COORDINATED DATABASE
+A. The Commission shall provide for the development and  maintenance of a coordinated
+database and reporting system containing licensure, adverse  action and significant
+investigatory information on all licensed individuals in member states.
+B. Notwithstanding any other  provision of state law to the contrary, a member state
+shall submit a uniform data  set to the coordinated database on all individuals to whom this
+Compact is applicable as required by the rules of the Commission, including:
+1. Identifying information;
+2. Licensure data;
+3. Significant investigatory information;
+4. Adverse actions against an individual’s license;
+5. An indicator that an individual’s privilege to practice  is restricted, suspended or re-
+voked;
+6. Nonconfidential information related to alternative program participation;
+7. Any denial of application for licensure and the reason for such denial; and
+8. Other information that may facilitate the administration of  this Compact, as deter-
+mined by the rules of the Commission.
+C. The coordinated database administrator shall promptly notify all member states of any
+adverse action taken against, or significant  investigative information on, any individual in a
+member state.
+D. Member states contributing information to the coordinated  database may designate
+information that may not be shared  with the public without the express permission of the
+contributing member state.
+E. Any information submitted to the coordinated  database that is subsequently required
+to be expunged by the laws of the member state contributing the information  shall be re-
+moved from the coordinated database.
+SECTION 12. RULEMAKING
+A. The  Commission shall exercise its rulemaking powers pursuant to the criteria set
+forth in this Section and the rules adopted thereunder. Rules and amendments shall  become
+binding as of the date specified in each rule or amendment.
+B. If a  majority of the legislatures of the member states rejects a rule, by enactment of
+a statute or resolution in  the same manner used to adopt this Compact, then such rule shall
+have no further force and effect in any member state.
+C. Rules or amendments to the rules shall be adopted at  a regular or special meeting of
+the Commission.
+D. Prior to promulgation and adoption of a final rule  or rules by the Commission, and
+at least 60 days in advance of the meeting at which the rule will be considered and voted
+upon, the Commission shall file a notice of proposed rulemaking:
+1. On the website of the Commission; and
+2. On the website  of each member state EMS authority or the publication in which each
+state would otherwise publish proposed rules.
+E. The notice of proposed rulemaking shall include:
+1. The proposed time, date and location of the meeting in which the rule will be consid-
+ered and voted upon;
+2. The text of the proposed rule or amendment and the reason for the proposed rule;
+3. A request for comments on the proposed rule from any interested person; and
+4. The manner in which interested persons may submit  notice to the Commission of their
+intention to attend the public hearing and any written comments.
+F. Prior to adoption of a proposed rule, the Commission shall allow persons to  submit
+written data, facts, opinions and arguments, which shall be made available to the public.
+G. The Commission shall grant an opportunity for a  public hearing before it adopts a rule
+or amendment if a hearing is requested by:
+1. At least 25 persons;
+2. A governmental subdivision or agency; or
+3. An association having at least 25 members.
+H. If a hearing is held  on the proposed rule or amendment, the Commission shall publish
+the place, time and date of the scheduled public hearing.
+1. All persons wishing to be heard at the hearing shall  notify the executive director of
+the Commission or other designated member in  writing of their desire to appear and testify
+at the hearing not less than five business days before the scheduled date of the hearing.
+2. Hearings shall be conducted in a  manner providing each person who wishes to com-
+ment a fair and reasonable opportunity to comment orally or in writing.
+3. No transcript of the hearing is required, unless a written request for a transcript  is
+made, in which case the person  requesting the transcript shall bear the cost of producing the
+transcript. A recording may be made  in lieu of a transcript under the same terms and con-
+ditions as  a transcript. This subsection shall not preclude the Commission from making a
+transcript or recording of the hearing if it so chooses.
+4. Nothing in this Section shall be construed as requiring a separate hearing on each rule.
+Rules may be grouped for the convenience of the Commission at hearings  required by this
+Section.
+I. Following the scheduled  hearing date, or by the close of business on the scheduled
+hearing date if the hearing was not held, the Commission shall consider all written  and oral
+comments received.
+J. The  Commission shall, by majority vote of all members, take final action on the pro-
+posed rule and shall determine the effective date of the rule, if any, based on the rulemaking
+record and the full text of the rule.
+K. If no written notice of intent to attend the public hearing  by interested parties is re-
+ceived, the Commission may proceed with promulgation of the  proposed rule without a public
+hearing.
+L. Upon determination that an emergency exists,  the Commission may consider and
+adopt an emergency  rule without prior notice, opportunity for comment or hearing, provided
+that the usual rulemaking procedures provided in this Compact and in this Section shall be
+retroactively applied to the rule as soon as reasonably possible, in no event later than 90 days
+after the effective  date of the rule. For the purposes of this provision, an emergency rule is
+one that must be adopted immediately in order to:
+1. Meet an imminent threat to public health, safety or welfare;
+2. Prevent a loss of Commission or member state funds;
+3. Meet a deadline for the promulgation of an administrative  rule that is established by
+federal law or rule; or
+4. Protect public health and safety.
+M. The Commission or an authorized committee of the Commission may direct  revisions
+to a previously adopted rule or amendment for purposes of correcting typographical  errors,
+errors in format, errors  in consistency or grammatical errors. Public notice of any revisions
+shall be posted on the website of the Commission. The revision shall  be subject to challenge
+by any person for a period of 30 days after posting. The revision may be  challenged only on
+grounds that the revision results in a material change to a rule. A challenge shall be  made
+in writing, and delivered to the chair of the  Commission prior to the end of the notice period.
+If no challenge is made, the revision  will take effect without further action. If the revision
+is challenged, the revision may not take effect without the approval of the Commission.
+SECTION 13. OVERSIGHT, DISPUTE RESOLUTION AND ENFORCEMENT
+A. Oversight
+1. The  executive, legislative and judicial branches of state government in each member
+state shall enforce this Compact and take all actions necessary and appropriate to  effectuate
+the Compact’s purposes  and intent. The provisions of this Compact and the rules
+promulgated hereunder shall have standing as statutory law.
+2. All courts shall take judicial notice of this Compact and  the rules in any judicial or
+administrative proceeding in a member state  pertaining to the subject matter of this Com-
+pact which may affect the powers, responsibilities or actions of the Commission.
+3. The Commission shall be entitled to receive  service of process in any such proceeding,
+and shall have standing to intervene in such a proceeding for all purposes. Failure to  provide
+service of process to the Commission shall render a judgment or order void as to the  Com-
+mission, this Compact or promulgated rules.
+B. Default, Technical Assistance and Termination
+1. If the Commission determines that a member state has defaulted in the  performance
+of its obligations or responsibilities under this Compact or the  promulgated rules, the Com-
+mission shall:
+a. Provide written notice to  the defaulting state and other member states of the nature
+of the default, the proposed means of curing the  default and any other action to be taken
+by the Commission; and
+b. Provide remedial training and specific technical assistance regarding the default.
+2. If a state in default fails to cure  the default, the defaulting state may be terminated
+from this Compact upon an affirmative vote  of a majority of the member states, and all
+rights, privileges and benefits conferred by this Compact may  be terminated on the effective
+date of termination. A cure of the default does not relieve  the offending state of obligations
+or liabilities incurred during the period of default.
+3. Termination  of membership in this Compact shall be imposed only after all other
+means of securing compliance have been exhausted. Notice of intent to suspend  or terminate
+shall be given by the Commission to the Governor, the majority  and minority leaders of the
+defaulting state’s legislature and each of the member states.
+4. A state that has been terminated is responsible for all assessments,  obligations and
+liabilities incurred through the effective  date of termination, including obligations that ex-
+tend beyond the effective date of termination.
+5. The Commission shall not bear any costs related to a state that is found to be  in de-
+fault or that has been terminated  from this Compact, unless agreed upon in writing between
+the Commission and the defaulting state.
+6. The defaulting state may appeal the action of the Commission by petitioning the United
+States District Court for the District of Columbia or the federal district where the Commis-
+sion has its principal offices. The prevailing member shall be awarded all  costs of such liti-
+gation, including reasonable attorney fees.
+C. Dispute Resolution
+1. Upon request by  a member state, the Commission shall attempt to resolve disputes
+related to  this Compact that arise among member states and between member and non-
+member states.
+2. The Commission shall promulgate a rule providing for  both mediation and binding
+dispute resolution for disputes as appropriate.
+D. Enforcement
+1. The Commission, in the reasonable  exercise of its discretion, shall enforce the pro-
+visions and rules of this Compact.
+2. By majority vote, the Commission may initiate legal  action in the United States Dis-
+trict Court for the District of Columbia  or the federal district where the Commission has its
+principal offices against a  member state in default to enforce compliance with the provisions
+of this Compact and its promulgated rules and bylaws. The  relief sought may include both
+injunctive relief and damages. In the event  judicial enforcement is necessary, the prevailing
+member shall be awarded all costs of such litigation, including reasonable attorney fees.
+3. The remedies  herein shall not be the exclusive remedies of the Commission. The
+Commission may pursue any other remedies available under federal or state law.
+SECTION 14. DATE OF IMPLEMENTATION OF THE  INTERSTATE COMMISSION FOR
+EMS PERSONNEL PRACTICE AND ASSOCIATED  RULES, WITHDRAWAL AND AMEND-
+MENT
+A. This Compact shall come into effect on the date on which  this Compact statute is
+enacted into law in the 10th member state. The provisions, which become effective at that
+time, shall be limited to the powers granted to the  Commission relating to assembly and the
+promulgation of rules. Thereafter, the Commission shall meet and exercise rulemaking pow-
+ers necessary to the implementation and administration of this Compact.
+B. Any state that  joins the Compact subsequent to the Commission’s initial adoption of
+the rules shall  be subject to the rules as they exist on the date on which the Compact be-
+comes law in that state. Any rule that has been previously adopted by the  Commission shall
+have the full force and effect of law on the day the Compact becomes law in that state.
+C. Any member state may withdraw from  this Compact by enacting a statute repealing
+the same.
+1. A member state’s withdrawal shall not take effect until six  months after enactment
+of the repealing statute.
+2. Withdrawal shall not affect  the continuing requirement of the withdrawing state’s
+EMS authority  to comply with the investigative and adverse action reporting requirements
+of this Compact prior to the effective date of withdrawal.
+D. Nothing contained in this Compact shall be construed to invalidate or prevent any
+EMS personnel licensure agreement or  other cooperative arrangement between a member
+state and a nonmember state that does not conflict with the provisions of this Compact.
+E. This Compact may be amended by the member states. No amendment to  this Compact
+shall become effective and binding upon any member state until  it is enacted into the laws
+of all member states.
+SECTION 15. CONSTRUCTION AND SEVERABILITY
+This Compact shall be liberally construed so as to effectuate the purposes  thereof. If this
+Compact shall be held contrary  to the Constitution of any state member thereto, this Com-
+pact shall remain in full force and effect as to the  remaining member states. Nothing in this
+Compact supersedes state law or rules related to licensure of EMS agencies.
+SECTION 43. The Legislative Assembly of the State of Oregon hereby ratifies the EMS
+Personnel Licensure Interstate Compact set forth in section 42 of this 2025 Act.
+SECTION 44. In order to employ or otherwise engage a person who is authorized to  work
+as an emergency medical services provider by privilege to practice,  as defined in section 42
+of this 2025 Act, and who is not  licensed under ORS chapter 682, an entity shall provide a
+labor peace agreement developed in partnership with labor organizations representing emer-
+gency medical services providers licensed under  ORS chapter 682 and approved by the
+Emergency Medical Services Advisory Board established under section 4,  chapter 32, Oregon
+Laws 2024.
+SECTION 45.
+Sections 42 to 44 of this 2025 Act are repealed on January 2, 2030.
+SECTION 46.  ORS 676.177 is amended to read:
+676.177. (1) Notwithstanding any other provision of ORS 676.165 to 676.180 and  except as pro-
+vided in subsection (5) of this section, a health professional regulatory board, upon a determination
+by the board that  it possesses otherwise confidential information that reasonably relates to the
+regulatory or enforcement function of another public entity, may disclose that  information to the
+other public entity.
+(2) Any public  entity that receives information pursuant to subsection (1) of this section shall
+agree to take  all reasonable steps to maintain the confidentiality of the information, except that the
+public entity may use or disclose  the information to the extent necessary to carry out the regulatory
+or enforcement functions of the public entity.
+(3) For purposes of this section, “public entity” means:
+(a) A board or agency of this state, or a board or agency of another  state with regulatory or
+enforcement functions similar to the  functions of a health professional regulatory board of this state;
+(b) A district attorney;
+(c) The Department of Justice;
+(d) A state or local public body of this state that licenses, franchises  or provides emergency
+medical services; or
+(e) A law enforcement agency of this state, another state or the federal government.
+(4) Notwithstanding subsections (1) to (3) of this section[ ,]:
+(a) The Oregon Board of Physical Therapy may disclose information described in  subsection (1)
+of this section to the Physical Therapy Compact Commission [ established] described in ORS 688.240.
+(b) The Oregon Health  Authority may disclose information described in subsection (1) of
+this section  to the Interstate Commission for EMS Personnel Practice described in section
+42 of this 2025 Act.
+(5) A health professional regulatory board may not disclose the information  described in sub-
+section (1) of this section to another public entity or to a commission described in subsection
+(4) of this section  if the information relates to the provision of or referral for reproductive  or
+gender-affirming health care services.
+SECTION 47.
+ ORS 676.177, as amended by section 46 of this 2025 Act, is amended to read:
+676.177. (1) Notwithstanding any other provision of ORS 676.165 to 676.180 and  except as pro-
+vided in subsection (5) of this section, a health professional regulatory board, upon a determination
+by the board that  it possesses otherwise confidential information that reasonably relates to the
+regulatory or enforcement function of another public entity, may disclose that  information to the
+other public entity.
+(2) Any public  entity that receives information pursuant to subsection (1) of this section shall
+agree to take  all reasonable steps to maintain the confidentiality of the information, except that the
+public entity may use or disclose  the information to the extent necessary to carry out the regulatory
+or enforcement functions of the public entity.
+(3) For purposes of this section, “public entity” means:
+(a) A board or agency of this state, or a board or agency of another  state with regulatory or
+enforcement functions similar to the  functions of a health professional regulatory board of this state;
+(b) A district attorney;
+(c) The Department of Justice;
+(d) A state or local public body of this state that licenses, franchises  or provides emergency
+medical services; or
+(e) A law enforcement agency of this state, another state or the federal government.
+(4) Notwithstanding subsections (1) to (3) of this section ,[:]
+[(a)] the Oregon Board of Physical  Therapy may disclose information described in subsection (1)
+of this section to the Physical Therapy Compact Commission described in ORS 688.240.
+[(b) The  Oregon Health Authority may disclose information described in subsection (1) of this sec-
+tion to the Interstate  Commission for EMS Personnel Practice described in section 42 of this 2025
+Act.]
+(5) A health professional regulatory board may not disclose the information  described in sub-
+section (1) of this section to another public entity  [ or to a commission described in subsection (4) of
+this section ] if the information relates to the provision of  or referral for reproductive or gender-
+affirming health care services.
+SECTION 48.
+ ORS 682.204 is amended to read:
+682.204. (1)(a) Except as provided in paragraph (b) of this subsection,  a person may  not act
+as an emergency medical services provider unless the person is licensed under this chapter.
+(b) Paragraph (a) of this subsection does not apply to a person who is authorized to  work
+as an emergency medical services provider by privilege to practice as defined in section  42
+of this 2025 Act.
+(2) A  person or governmental unit which operates an ambulance may not authorize a person to
+act for it as an emergency medical  services provider unless the emergency medical services provider
+is licensed under this chapter.
+(3) A person or governmental unit may not operate or allow to  be operated in this state any
+ambulance unless it is operated with at least one emergency medical  services provider who is li-
+censed at a level higher than emergency medical responder.
+(4) It is a defense to any charge under this section that there  was a reasonable basis for be-
+lieving that the performance of services contrary to this section was necessary to preserve human
+life, that diligent effort was  made to obtain the services of a licensed emergency medical services
+provider and that  the services of a licensed emergency medical services provider were not available
+or were not available in time as under the circumstances appeared necessary to preserve  such hu-
+man life.
+(5) Subsections (1) to  (3) of this section are not applicable to any individual, group of individuals,
+partnership, entity,  association or other organization otherwise subject thereto providing a service
+to the public exclusively by volunteer unpaid  workers, nor to any person who acts as an ambulance
+attendant therefor, provided that in the particular  county in which the service is rendered, the
+county court or board of county commissioners has by order, after public hearing, granted exemption
+from such subsections to the individual, group, partnership, entity, association or organization. When
+exemption is granted  under this section, any person who attends an individual who is ill or injured
+or who has a disability in an ambulance may not purport to be an emergency medical services  pro-
+vider.
+SECTION 49.
+ ORS 682.204, as amended by section 48 of this 2025 Act, is amended to read:
+682.204. (1)[(a) Except as provided in paragraph (b) of this subsection, ] A person may  not act as
+an emergency medical services provider unless the person is licensed under this chapter.
+[(b) Paragraph (a) of this subsection does not  apply to a person who is authorized to work as an
+emergency medical services provider by privilege to practice as defined in section 42 of this 2025 Act. ]
+(2) A  person or governmental unit which operates an ambulance may not authorize a person to
+act for it as an emergency medical  services provider unless the emergency medical services provider
+is licensed under this chapter.
+(3) A person or governmental unit may not operate or allow to  be operated in this state any
+ambulance unless it is operated with at least one emergency medical  services provider who is li-
+censed at a level higher than emergency medical responder.
+(4) It is a defense to any charge under this section that there  was a reasonable basis for be-
+lieving that the performance of services contrary to this section was necessary to preserve human
+life, that diligent effort was  made to obtain the services of a licensed emergency medical services
+provider and that  the services of a licensed emergency medical services provider were not available
+or were not available in time as under the circumstances appeared necessary to preserve  such hu-
+man life.
+(5) Subsections (1) to  (3) of this section are not applicable to any individual, group of individuals,
+partnership, entity, association or other organization otherwise subject thereto providing a  service
+to the public exclusively by volunteer unpaid  workers, nor to any person who acts as an ambulance
+attendant therefor, provided that in the particular county in  which the service is rendered, the
+county court or board of county commissioners has by order, after public hearing, granted exemption
+from such subsections to the individual, group, partnership, entity, association or organization. When
+exemption is granted under this section, any person who attends an individual who is ill  or injured
+or who  has a disability in an ambulance may not purport to be an emergency medical services pro-
+vider.
+SECTION 50.
+(1) The amendments to ORS 676.177 by  section 46 of this 2025 Act apply to
+information disclosed on or after the operative date specified in section 51 (1) of  this 2025
+Act.
+(2) The  amendments to ORS 682.204 by section 48 of this 2025 Act apply to persons au-
+thorized to  work as emergency medical services providers by privilege to practice, as defined
+in section 42 of this 2025 Act,  on or after the operative date specified in section 51 (1) of this
+2025 Act.
+SECTION 51. (1) Sections 42 to 44 of this 2025 Act  and the amendments to ORS 676.177
+and 682.204 by sections 46 and 48 of this 2025 Act become operative on January 1, 2026.
+(2) The amendments to ORS 676.177 and 682.204 by sections 47 and 49 of this 2025  Act and
+the amendments to section 8 of this 2025 Act by section 9 of this 2025 Act become  operative
+on January 2, 2030.
+(3) The Oregon Health Authority may take any  action before the operative date specified
+in subsection (1) of this section that is necessary  to enable the authority to exercise, on and
+after the operative date specified in  subsection (1) of this section, all of the duties, functions
+and powers conferred on the authority by sections 42 to 44 of this 2025  Act and the amend-
+ments to ORS 676.177 and 682.204 by sections 46 and 48 of this 2025 Act.
+APPROPRIATION
+SECTION 52. There is appropriated to the  Emergency Medical Services Program Fund,
+for the  biennium beginning July 1, 2025, out of the General Fund, the amount of $8,750,000
+for the purpose of carrying out the provisions of ORS 682.208 and 682.216 and sections 7,  14
+and 42 of this 2025 Act.
+CAPTIONS
+SECTION 53. The unit captions used in this 2025 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+EFFECTIVE DATE
+SECTION 54. This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 137.300, ORS 682.208, ORS 682.216
+- From bill text (Introduced version): ORS 179.505, ORS 192.245, ORS 292.495, ORS 403.105, ORS 413.235, ORS 430.105, ORS 431A.055, ORS 431A.105, ORS 431A.525, ORS 442.015, ORS 442.470, ORS 443.400, ORS 660.002, ORS 660.143, ORS 676.165, ORS 676.177, ORS 676.454, ORS 678.010, ORS 682.039, ORS 682.047, ORS 682.204, ORS 682.208, ORS 682.212, ORS 682.216, ORS 688.240
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `858d3f02d4fe5ead36d1725f63821212a6700ab7067b2fe8ee7fd5cb826e351a` (snapshot `_meta/snapshots/measure-2025r1-hb3572-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3572/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3572> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

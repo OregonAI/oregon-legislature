@@ -1,0 +1,542 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3716
+Sponsored by Representative ANDERSEN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act makes  some changes to programs that give rebates for vehicles with no emis-
+sions. (Flesch Readability Score: 67.5).
+Modifies the provisions of the zero-emission and electric vehicle rebate programs. Removes
+persons other than individuals from the eligibility  requirements. Limits the availability of rebates
+to one per household every four years. Increases the allocation of  funds to the charge ahead rebate
+program.
+A BILL FOR AN ACT
+Relating to electric vehicle rebates; amending ORS 468.442, 468.444, 468.446 and 468.449.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 468.442 is amended to read:
+468.442. As used in ORS 468.442 to 468.449:
+(1) “Light-duty zero-emission vehicle” means a motor vehicle that:
+(a) Has a gross vehicle weight rating of 8,500 pounds or less;
+(b) Is capable of attaining a speed of 55 miles per hour or more; and
+(c) Is powered:
+(A) Primarily by an electric battery and may or may not use a flywheel energy storage device
+or a capacitor that also stores energy to assist in vehicle operation.
+(B) By polymer electrolyte membrane fuel cells or proton exchange  membrane fuel cells that use
+hydrogen fuel and oxygen from the air to produce electricity.
+(C) Primarily by a zero-emission energy storage device that provides enough power  for the ve-
+hicle to travel 75 miles or more  using only electricity and may or may not use a backup alternative
+power unit that does not operate until the energy storage device is fully depleted.
+(2) “Motor vehicle” has the meaning given that term in ORS 801.360.
+(3) “Neighborhood electric vehicle” means a low-speed vehicle that:
+(a) Is powered using an electric battery;
+(b) Has a gross vehicle weight not exceeding 3,000 pounds; and
+(c) Has at least four wheels.
+(4) “Person” means a person as defined in ORS  174.100 [ or a public body as defined in ORS
+174.109].
+(5) “Plug-in hybrid electric vehicle” means a hybrid electric motor vehicle that:
+(a) Has zero evaporative emissions from its fuel system;
+(b) Has an onboard electrical energy storage device with  useful capacity of 10 or more miles
+of urban dynamometer driving schedule  range, as described by the United States Environmental
+Protection Agency, on electricity alone;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3565
+HB 3716
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Is equipped with an onboard charger;
+(d) Is rechargeable from an external connection to an off-board electrical source;
+(e) Meets the super ultra-low emission vehicle  standards for exhaust emissions, as defined by the
+Environmental Quality Commission by rule;
+(f) Has a warranty of at least 15 years and 150,000 miles on emission control components; and
+(g) Is capable of attaining a speed of 55 miles per hour or more.
+(6) “Qualifying vehicle” means a motor vehicle that:
+(a) Is a:
+(A) Light-duty zero-emission vehicle;
+(B) Neighborhood electric vehicle;
+(C) Plug-in hybrid electric vehicle; or
+(D) Zero-emission motorcycle;
+(b) Is new, or has been previously used only as a dealership floor model or test-drive vehicle;
+(c) Has not previously been registered;
+(d) Is constructed entirely from new parts that have never been the subject of a retail sale;
+(e) Has a base manufacturer’s suggested retail price of less than:
+(A) $50,000; or
+(B) If the motor vehicle is powered as described in subsection (1)(c)(B) of this section, $60,000;
+(f) Is  covered by a manufacturer’s express warranty on the vehicle drive train, including the
+applicable energy storage system or battery pack, for at least 24 months from  the date of purchase;
+and
+(g) Is certified by the manufacturer to comply with all applicable federal safety standards  issued
+by the National Highway Traffic Safety Administration for  new motor vehicles and new motor ve-
+hicle equipment.
+(7)(a) “Vehicle dealer” means:
+(A) A person engaged in business  in this state that has been issued a vehicle dealer certificate
+under ORS 822.020; and
+(B) A person  engaged in business in another state that would be subject to ORS 822.005 if the
+person engaged in business in this state.
+(b) Notwithstanding paragraph (a) of this subsection, a person is not a vehicle dealer for  pur-
+poses of ORS 468.442 to 468.449 to the extent the person:
+(A) Conducts an event that lasts less than seven consecutive days, for  which the public is
+charged admission and at which otherwise qualifying vehicles are sold at auction; or
+(B) Sells an otherwise qualifying vehicle at auction at an event described in this paragraph.
+(8) “Zero-emission motorcycle” means a motorcycle that:
+(a) Has zero evaporative emissions from its fuel system;
+(b) Is capable of attaining a speed of 55 miles per hour or more;
+(c) Is designed to travel on two wheels; and
+(d) Is powered by electricity.
+SECTION 2.
+ ORS 468.444 is amended to read:
+468.444. (1) The Department of  Environmental Quality shall establish a program for providing
+rebates to [ persons] individuals that purchase or lease qualifying vehicles for use in this state. The
+Director of the Department of Environmental Quality  may hire or contract with a third-party or-
+ganization to implement and serve as the administrator of the program required by this section.
+(2) The department may:
+[2]
+HB 3716
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Specify design features for the program; and
+(b) Establish procedures to:
+(A) Prioritize available moneys for specific qualifying vehicles; and
+(B) Limit the number of rebates available for each type of qualifying vehicle.
+(3) The purchaser  or lessee of a qualifying vehicle may apply for a rebate for a portion of the
+purchase price or may choose to assign the rebate to a vehicle dealer or lessor.
+(4) Rebates under the program shall be made from moneys credited to or deposited in the  Zero-
+Emission Incentive Fund established under ORS 468.449.  A rebate may not be made until there are
+sufficient moneys available in the fund to make the rebate.
+(5) The department shall prescribe the rebate application procedure for  purchasers and lessees.
+All rebate applications must include a declaration under penalty of perjury in the form required by
+ORCP 1 E.
+(6) Rebates for qualifying vehicles shall be set annually by the department as follows:
+(a) For light-duty zero-emission vehicles and plug-in  hybrid electric vehicles with an
+electrochemical energy storage capacity of 10 kilowatt hours or  more, up to $2,500 but no less than
+$1,500.
+(b) For light-duty zero-emission vehicles or plug-in  hybrid electric vehicles with an
+electrochemical energy storage capacity of less than 10 kilowatt  hours, up to $1,500 but no less than
+$750.
+(c) For neighborhood electric vehicles, up to $750 but not less than $375.
+(d) For zero-emission motorcycles, up to $750 but not less than $375.
+(7) To be eligible for a rebate, [ a person ] an individual requesting a rebate under the program
+shall:
+(a) Purchase or lease a qualifying vehicle. A lease must have a minimum term of 24 months.
+(b) Provide proof of an intent to use the qualifying vehicle  primarily on the public highways of
+this state, which  may be satisfied by providing proof of registration of the qualifying vehicle in
+Oregon.
+(c) Submit an application for a  rebate to the administrator of the program within six months
+after the date of purchase of the qualifying vehicle or six months  after the date the lease of the
+qualifying vehicle begins.
+(d) Retain registration of the  qualifying vehicle for a minimum of 24 consecutive months after
+the date of purchase or the date the lease begins.
+(8) An individual is not eligible to receive a rebate  if the individual or a member of the
+individual’s household has received a rebate described in this section or  a charge ahead re-
+bate, as defined in ORS 468.446, within the past four years.
+[(8)] (9)  A rebate recipient  may not make or allow any modifications to the qualifying vehicle’s
+emissions control systems, hardware, software calibrations or hybrid system.
+[(9)(a)] (10)(a) If a rebate recipient sells the qualifying vehicle or terminates the qualifying ve-
+hicle lease before the end of 24 months, the rebate recipient shall:
+(A) Notify the administrator of the program of the sale or termination; and
+(B) Reimburse the administrator for the rebate  in a prorated amount based on the number of
+months that the rebate recipient owned or leased the qualifying vehicle.
+(b) The administrator  may waive the reimbursement requirement under paragraph (a) of this
+subsection if the administrator  determines that a waiver is appropriate given unforeseeable or una-
+voidable circumstances that gave rise  to a need for the rebate recipient to sell the qualifying vehicle
+[3]
+HB 3716
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+or terminate the qualifying vehicle lease before the end of 24 months.
+[(10)] (11) Rebate recipients may be requested to participate in ongoing research efforts.
+[(11)] (12) The administrator of the  program shall work to ensure timely payment of rebates with
+a goal of paying rebates within 60 days after receiving an application for a rebate.
+[(12)] (13)  A vehicle dealer may advertise the program on the premises owned or operated  by
+the vehicle dealer. If no moneys are available from the program or the program otherwise changes,
+a vehicle dealer who  advertises the program may not be held liable for advertising false or mis-
+leading information.
+[(13)] (14) The Environmental Quality Commission may adopt any rules necessary to  carry out
+the provisions of this section.
+SECTION 3.
+ ORS 468.446, as amended by section 9, chapter 82, Oregon Laws 2024, is  amended
+to read:
+468.446. (1) As used in this section:
+(a) “Charge ahead rebate” means a rebate for the purchase  or lease of a new or used light-duty
+zero-emission vehicle or plug-in hybrid electric vehicle  issued through the Charge Ahead Oregon
+Program established under this section.
+[(b) “Low-income service provider” means an organization that provides health, dental, social, fi-
+nancial, energy  conservation or other assistive services to low or moderate income individuals or low
+or moderate  income households, as further defined by the Environmental Quality Commission by
+rule.]
+[(c)] (b)  “Qualifying household” means a household with income that does not  exceed 400 per-
+cent of federal poverty guidelines.
+(2) The Department of Environmental Quality shall establish a Charge Ahead Oregon  Program
+for providing charge ahead rebates to  qualifying households [ and low-income service providers ]. The
+Director of the Department of Environmental Quality  may hire or contract with a third-party or-
+ganization to implement and serve as the administrator of the program required by this section.
+(3) The department may:
+(a) Specify design features for the program; and
+(b) Establish procedures to:
+(A) Prioritize available moneys to specific income levels or geographic areas; and
+(B) Limit the number of charge ahead rebates available.
+(4) An eligible purchaser  or lessee of a new or used light-duty zero-emission vehicle or plug-in
+hybrid electric vehicle may apply  for a charge ahead rebate for a portion of the purchase price or
+may choose to assign the charge ahead rebate to a vehicle dealer or lessor.
+(5) Rebates under the Charge Ahead Oregon Program shall  be made from moneys credited to
+or deposited in the Zero-Emission Incentive Fund established under ORS 468.449 or the  Charge
+Ahead Zero-Emission Incentive Fund established under section  13, chapter 82, Oregon Laws 2024.
+A rebate may not be made unless there are sufficient moneys available to make the rebate.
+(6) The department shall prescribe the rebate application  procedure for eligible purchasers and
+lessees. All rebate applications must include a declaration under penalty of  perjury in the form re-
+quired by ORCP 1 E.
+(7) Charge ahead rebates shall be:
+(a) Up to $7,500  for the purchase or lease of a new light-duty zero-emission vehicle or plug-in
+hybrid electric vehicle, but not less than $2,500; or
+(b) Up to $5,000 for the purchase  or lease of a used light-duty zero-emission vehicle or plug-in
+[4]
+HB 3716
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+hybrid electric vehicle, but not less than $2,500.
+(8) To be eligible for a charge ahead rebate, [ a person ] an individual requesting a rebate under
+the program must:
+(a) Be a member of a qualifying household [ or be a low-income service provider ].
+(b) Purchase or  lease a new or used light-duty zero-emission vehicle or plug-in hybrid electric
+vehicle. A lease must have a minimum term of 24 months.
+(c) Provide proof of an intent to use the light-duty  zero-emission vehicle or plug-in hybrid elec-
+tric vehicle primarily on the public highways of  this state, which may be satisfied by providing proof
+of registration of the vehicle in Oregon.
+(d) Submit an application for a charge ahead rebate to the administrator of the program  within
+six months of the date of purchase or six months from the date the lease begins.
+(e) Retain registration of the light-duty zero-emission vehicle for a minimum  of 24 consecutive
+months following the date of purchase or following the date the lease begins.
+(9) [ A person ] An individual that receives a charge ahead rebate may not make or allow any
+modifications to the vehicle’s emissions control systems,  hardware, software calibrations or hybrid
+system.
+(10)(a) If a charge ahead rebate recipient sells the vehicle or terminates the vehicle  lease before
+the end of 24 months, the charge ahead rebate recipient shall:
+(A) Notify the administrator of the program of the sale or termination; and
+(B) Reimburse the administrator for the rebate  in a prorated amount based on the number of
+months that the rebate recipient owned or leased the qualifying vehicle.
+(b) The administrator  may waive the reimbursement requirement under paragraph (a) of this
+subsection if the administrator  determines that a waiver is appropriate given unforeseeable or una-
+voidable circumstances that gave rise  to a need for the rebate recipient to sell the qualifying vehicle
+or terminate the qualifying vehicle lease before the end of 24 months.
+(11) Charge  ahead rebate recipients may be requested to participate in ongoing research efforts.
+(12) The administrator of the program shall work to ensure timely payment of charge ahead re-
+bates with a goal of paying rebates within 60 days  of receiving an application for a charge ahead
+rebate.
+(13) In establishing the Charge Ahead Oregon Program, the department shall  provide opportu-
+nities for public comment by  qualifying households[ , low-income service providers ] and [ other]
+community-based organizations that are located  in areas of this state that have elevated concen-
+trations of air contaminants attributable to motor vehicle emissions, relative to  other areas of the
+state. The department shall use the comments received pursuant to this  subsection to inform, eval-
+uate and strengthen the design of the program in order to increase the usage  of light-duty zero-
+emission vehicles and plug-in hybrid electric vehicles.
+(14) The administrator of the  program shall, throughout the course of implementing the program,
+conduct community outreach  to qualifying households[ , low-income service providers ] and [ other]
+community-based organizations that are located in areas of this state  that have elevated concen-
+trations of air contaminants attributable  to motor vehicle emissions, relative to other areas of the
+state, in order to:
+(a) Solicit feedback on program implementation; and
+(b) Take steps to ensure that the program is promoted effectively.
+(15) A vehicle dealer may advertise the Charge Ahead  Oregon Program on the premises owned
+or operated by the vehicle dealer. If no moneys are available from the program  or the program
+[5]
+HB 3716
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+otherwise changes, a vehicle  dealer who advertises the program may not be held liable for adver-
+tising false or misleading information.
+(16)(a) A charge ahead rebate may not be combined with a rebate described in ORS 468.444.
+(b) An  individual is not eligible to receive a charge ahead rebate if the individual or a
+member of the individual’s household has received a charge ahead rebate or a rebate de-
+scribed in ORS 468.444 within the past four years.
+(17) An organization that the department has hired or contracted with to implement and  serve
+as the administrator of the program may offer  expanded financing mechanisms for program partic-
+ipants, including, but not limited to, a loan or loan-loss reserve credit enhancement program  to in-
+crease consumer access to new or used light-duty zero-emission vehicles and plug-in  hybrid electric
+vehicles.
+(18) The Environmental Quality Commission may adopt  any rules necessary to carry out the
+provisions of this section.
+SECTION 4.
+ ORS 468.449, as amended by section 11, chapter 82, Oregon Laws 2024,  is amended
+to read:
+468.449. (1) The  Zero-Emission Incentive Fund is established in the State Treasury, separate and
+distinct from the General Fund. Interest earned by the Zero-Emission  Incentive Fund shall be cred-
+ited to the fund.
+(2) Moneys in the Zero-Emission Incentive Fund shall consist of:
+(a) Amounts donated to the fund;
+(b) Amounts transferred to the fund by the Department of Revenue under ORS 320.435;
+(c) Amounts appropriated or otherwise transferred to the fund by the Legislative Assembly;
+(d) Other amounts deposited in the fund from any public or private source; and
+(e) Interest earned by the fund.
+(3) The Department of Environmental  Quality shall encourage gifts, grants, donations or other
+contributions to the fund.
+(4) Moneys in the fund are continuously  appropriated to the department to be used to carry out
+the provisions of ORS 468.442 to 468.449.
+(5)(a) No more than 10 percent of the moneys deposited in  the fund per biennium may be ex-
+pended to pay administrative expenses incurred in the administration of ORS 468.442 to 468.449 by:
+(A) The department; and
+(B) Any third-party organization  that the department hires or contracts with under ORS 468.444
+and 468.446.
+(b) As used in this subsection, “administrative expenses” does not include expenses incurred  by
+the department or third-party organizations in:
+(A) Conducting community outreach under ORS 468.446 (14); or
+(B) Otherwise engaging in efforts to promote transportation electrification  through participation
+in the programs established under ORS 468.444 and 468.446.
+(6)(a) The Environmental Quality Commission may adopt by rule  provisions for the allocation
+of moneys deposited in the fund between the programs established under ORS 468.444 and 468.446.
+(b) Rules adopted under this subsection  must require that at least [ 20] 60 percent of the moneys
+deposited in the fund per  biennium are allocated to fund the provision of rebates through the Charge
+Ahead Oregon Program established under ORS 468.446.
+(c) The amount required to be allocated under paragraph (b) of this subsection in  any biennium
+shall be reduced, but not below zero, by the amount deposited from any other source  in the Charge
+[6]
+HB 3716
+1
+2
+Ahead Zero-Emission Incentive Fund established under section 13, chapter 82, Oregon Laws 2024.
+[7]

@@ -1,0 +1,142 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3336
+Sponsored by  Representative GAMBA; Representatives HELM, WALTERS, WRIGHT, Senators GOLDEN,
+SOLLMAN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes a power company file  with the PUC a plan for using grid enhancing technologies
+where doing so is cost-effective. Requires the  plan to be updated every two years. (Flesch Read-
+ability Score: 61.8).
+Declares a state policy regarding the electric transmission system.
+Requires an electric company to file with the Public Utility  Commission a strategic plan for
+using grid enhancing technologies  where doing so is cost-effective. Requires the plan to be updated
+every two years. Requires an electric company to carry out the  electric company’s first filed stra-
+tegic plan not later than January 1, 2030.
+Requires an electric company to  conduct a cost-effectiveness and timetable analysis of multiple
+strategies when proposing additions, improvements or modifications to a transmission system.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to electric transmission systems; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Electric company” means an  electric company as defined in ORS 757.600, that owns
+and operates a transmission system and sells  more than two million megawatt hours of
+electricity in a calendar year.
+(b) “Grid enhancing technology” includes any hardware or  software technology that en-
+hances the performance or improves  performance efficiency of a transmission system in-
+cluding, but not limited to,  dynamic line rating, advanced power flow control technology,
+topology optimization, advanced reconductoring, flexible alternating  current transmission
+systems or energy storage when used as a transmission resource.
+(2) The Legislative Assembly declares that  it is the policy of this state that electric
+companies:
+(a) Meet the required clean energy targets set forth in ORS 469A.410;
+(b) Develop sufficient resources to meet load growth;
+(c) Create efficiencies and resilience in the transmission system; and
+(d) Maintain energy affordability.
+(3) When an electric company files a resource or grid  investment plan with the Public
+Utility Commission proposing additions, improvements or modifications to a transmission
+system, the commission shall require the electric company to conduct an analysis to  deter-
+mine the cost-effectiveness and timetable  of multiple strategies, including strategies that use
+grid enhancing technologies, to:
+(a) Increase transmission capacity;
+(b) Increase transmission reliability;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1902
+HB 3336
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+(c) Reduce transmission system congestion;
+(d) Reduce curtailment of renewable and nonemitting energy resources;
+(e) Increase capacity to connect new renewable and nonemitting energy resources; and
+(f) Reduce risk of wildfires, consistent with the electric  company’s wildfire protection
+plan required under ORS 757.963.
+(4) An electric company  shall file and include as part of the electric company’s clean
+energy plan required under ORS 469A.415, and the electric company’s integrated resource
+plan filed with the commission, a separate section  that provides a strategic plan for using
+grid enhancing technologies where doing so  is cost-effective. The electric company shall up-
+date the strategic plan every two years and make the strategic  plan publicly available. At a
+minimum, the strategic plan must:
+(a) Include a timeline for deploying  grid enhancing technologies where doing so is cost-
+effective;
+(b) Report on the electric company’s continual progress towards  implementing the stra-
+tegic plan; and
+(c) Be designed to:
+(A) Increase transmission capacity;
+(B) Increase transmission reliability;
+(C) Reduce transmission system congestion;
+(D) Reduce curtailment of renewable and nonemitting energy resources;
+(E) Increase capacity to connect new renewable and nonemitting energy resources; and
+(F) Reduce risk of wildfires,  consistent with the electric company’s wildfire protection
+plan required under ORS 757.963.
+(5) For purposes of this section, the commission  shall define “cost-effective” and estab-
+lish criteria for determining where using grid enhancing technologies is cost-effective.
+SECTION 2.
+An electric  company’s strategic plan that is first filed, and as updated, under
+section 1 of this 2025 Act, shall be carried out no later than January 1, 2030.
+SECTION 3. The requirements under section 1 of  this 2025 Act apply to an electric
+company’s clean energy plan or integrated resource plan that is filed with  the Public Utility
+Commission on or after the effective date of this 2025 Act.
+SECTION 4. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

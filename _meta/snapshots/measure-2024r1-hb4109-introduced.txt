@@ -1,0 +1,325 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4109
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the  request of Joint Committee on
+Transportation for Representative Susan McLain, Senator Chris Gorsek)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act states that certain aviation grant funds may be used for matching  shares of any
+FAA grant and the funds are not limited to federal Airport Improvement Program grants.  The Act
+changes photo radar laws. Becomes law 91 days from sine die. (Flesch Readability Score: 68.3).
+Provides that certain aviation grant funds  may be used for matching shares of any Federal
+Aviation  Administration  grant available and the funds are not limited to federal Airport Improve-
+ment Program grants.
+Modifies photo radar laws.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to transportation; creating new provisions; amending ORS 153.054, 319.023 and  810.444; re-
+pealing ORS 810.439, 810.443 and 810.445; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+AVIATION
+SECTION 1.
+ ORS 319.023 is amended to read:
+319.023. (1) The following amounts shall be distributed in the manner  prescribed in this section:
+(a) Any amount  of tax on aircraft fuel usable in aircraft operated by turbine engines that is
+computed on a basis in  excess of one cent per gallon and any amount of tax on all other aircraft fuel
+that is computed on a basis in excess of nine cents per gallon, under ORS 319.020 (2); and
+(b) Any amount of tax  on aircraft fuel usable in aircraft operated by turbine engines in excess
+of one cent per gallon and any amount of tax on all other aircraft fuel  in excess of nine cents per
+gallon, that is deducted before the refunding of tax under ORS 319.330 (1).
+(2)(a) Applications for distributions under subsection (5)  of this section may not be approved
+unless the applicant demonstrates  a commitment to contribute at least five percent of the costs of
+the project to which the application relates. The Oregon Department of Aviation shall  adopt rules
+for purposes of this paragraph.
+(b) The department may adopt rules that:
+(A) Set higher minimum contribution commitment requirements; or
+(B) Establish maximum grant amounts.
+(3)(a) The State Aviation Board shall establish a  review committee composed of one member
+from each of the area commissions on transportation chartered by the Oregon Transportation  Com-
+mission.
+(b) The review committee shall meet as necessary to review applications for  distributions of
+amounts pursuant to this section. In reviewing applications, the review committee shall consider:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 180
+HB 4109
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Whether a proposed project:
+(i) Reduces transportation costs for Oregon businesses  or improves access to jobs and sources
+of labor in this state;
+(ii) Results in an economic benefit to this state;
+(iii) Connects elements of Oregon’s aviation system in a  way that will measurably improve
+utilization and efficiency of the system;
+(iv) Is ready for construction or implementation; and
+(v) Has a useful life expectancy that offers maximum benefit to this state; and
+(B) How much of the cost of the proposed project can be  borne by the applicant from sources
+other than Oregon Department of Aviation funds or the Connect Oregon Fund.
+(c) The review committee shall recommend applications to the State  Aviation Board for ap-
+proval.
+(4)(a) Five percent of the amounts described in subsection (1) of this section  are appropriated
+to the Oregon  Department of Aviation for the costs of the department and the State Aviation Board
+in administering this section.
+(b) The  remaining 95 percent of the amounts described in subsection (1) of this section shall be
+distributed pursuant to subsections (5) and (6) of this section.
+(5)(a) Seventy-five percent of the amounts described in subsection (4)(b) of this  section shall be
+distributed for the following purposes:
+(A) To assist airports in Oregon with match requirements  for Federal Aviation Administration
+[Airport Improvement Program ] grants.
+(B) To make grants for emergency preparedness and  infrastructure projects, in accordance with
+the Oregon Resilience Plan or the Oregon Aviation Plan.
+(C) To make grants for:
+(i) Services critical or essential to aviation, including, but not  limited to, fuel, sewer, water and
+weather equipment;
+(ii) Aviation-related business development, including, but not limited to, hangars, parking for
+business aircraft and related facilities; or
+(iii) Airport development for local  economic benefit, including, but not limited to, signs and
+marketing.
+(D)(i) To assist commercial air service to rural Oregon.
+(ii) The Oregon Department of Aviation may adopt a definition of “rural Oregon” for purposes
+of this subparagraph.
+(b) The  State Aviation Board may establish by rule priorities for the distributions made pursuant
+to this subsection.
+(6) Twenty-five percent  of the amounts described in subsection (4)(b) of this section shall be
+distributed to state-owned airports for the purposes of:
+(a) Safety improvements recommended by the State Aviation  Board and local community air-
+ports.
+(b) Infrastructure projects at public use airports.
+(7)(a) Not later than September 15 of each year, the State Aviation Board  shall submit the re-
+ports described in paragraph (b) of  this subsection, in the manner provided in ORS 192.245, to the
+interim committees, as applicable, of the Legislative Assembly related to air transportation.
+(b) The reports required under this subsection shall describe in detail the projects for  which
+applications have been  submitted and approved, the airports affected, the names of the applicants
+[2]
+HB 4109
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+and the persons who will perform the work proposed in the applications, the  progress of projects for
+which applications have been approved and any other information the board considers necessary for
+a comprehensive analysis of the implementation of this section.
+PHOTO RADAR
+SECTION 2.
+ ORS 810.444 is amended to read:
+810.444. (1) Notwithstanding  any other provision of law, in [ the jurisdiction ] a city  operating a
+[fixed] photo radar system under ORS [ 810.443] 810.438:
+(a) A citation for speeding may be issued on the basis of [ fixed] photo radar if[ :]
+[(A) A sign that  provides drivers with information about the driver’s current rate of speed is posted
+between 100 and 400 yards before the location of each fixed photo radar unit; and ]
+[(B)] a police officer or  a duly authorized traffic enforcement agent who has reviewed the pho-
+tographic evidence of the conduct signs the citation.
+(b) A rebuttable presumption exists that the registered  owner of the vehicle was the driver of
+the vehicle when the citation is issued and delivered as provided in subsection (2) of this section.
+(c) An individual issued a citation under this subsection may respond to the citation by  sub-
+mitting a certificate of innocence under  subsection (3)(a) of this section or may make any other re-
+sponse allowed by law.
+(d) A business or public agency issued a citation under this  subsection may respond to the ci-
+tation by submitting an affidavit of nonliability  under subsection (3)(b) of this section or may make
+any other response allowed by law.
+(2) A  citation issued on the basis of [ fixed] photo radar may be delivered by mail or otherwise
+to the registered owner of the vehicle or to  the driver. The citation may be prepared on a digital
+medium, and the signature may be electronic in accordance  with the provisions of ORS 84.001 to
+84.061.
+(3)(a) An individual named as  the registered owner of a vehicle in current records of the De-
+partment of Transportation may  respond by mail to a citation issued under subsection (1) of this
+section by submitting a certificate  of innocence within 30 days from the mailing of the citation
+swearing or affirming that the registered owner was not the driver of  the vehicle and by providing
+a photocopy of the registered owner’s driver license. A [ jurisdiction] city  that receives  a certificate
+of innocence under this paragraph shall dismiss  the citation without requiring a court appearance
+by the registered owner or any other information  from the registered owner other than the swearing
+or affirmation and the  photocopy. The citation may be reissued only once, only to the registered
+owner and only if the [ jurisdiction] city  verifies that the  registered owner appears to have been the
+driver at the time of the violation. A registered owner may not submit a certificate  of innocence in
+response to a reissued citation.
+(b) If a business  or public agency named as the registered owner of a vehicle in current records
+of the  Department of Transportation responds to a citation issued under subsection (1) of this sec-
+tion by submitting an  affidavit of nonliability within 30 days from the mailing of the citation stating
+that at the time of the  alleged speeding violation the vehicle was in the custody and control of an
+employee, or was in the custody and control of a renter or lessee under  the terms of a rental
+agreement or lease, and if the business or public agency provides the driver license number, name
+and address of the employee, renter or lessee, the  citation shall be dismissed with respect to the
+business or public agency.  The citation may then be issued and delivered by mail or otherwise to
+[3]
+HB 4109
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+the employee, renter or lessee identified in the affidavit of nonliability.
+(4) If the registered owner, employee, renter or lessee fails to respond to a citation issued  under
+this section, a default judgment under ORS 153.102 may be entered for failure to appear after notice
+has been given that the judgment will be entered.
+(5) The penalties  for and all consequences of a speeding violation initiated by the use of [ fixed]
+photo radar are the same as for a speeding violation initiated by any other means.
+(6) A  registered owner, employee, renter or lessee against whom a judgment for failure to appear
+is entered may move the court to relieve the registered owner, employee, renter  or lessee from the
+judgment as provided  in ORS 153.105 if the failure to appear was due to mistake, inadvertence,
+surprise or excusable neglect.
+(7)(a) As used in this section, “duly authorized  traffic enforcement agent” means an individual
+who:
+(A) Is employed, appointed and duly sworn in by the governing body of  the incorporated city in
+which the agent performs the agent’s duties; and
+(B) Has completed all necessary technical, administrative and  other training to review photo-
+graphs and issue citations under this section.
+(b) Duly authorized traffic enforcement agents are not police officers.
+SECTION 3.
+ORS 810.439, 810.443 and 810.445 are repealed.
+SECTION 4.  ORS 153.054 is amended to read:
+153.054. Except as provided in ORS 267.153, [ 810.439] 810.444, 811.590, 811.615 or 811.617 or
+other law, an enforcement officer issuing a violation citation shall cause the summons  to be deliv-
+ered to the person cited and shall cause the complaint and abstract of court record to be delivered
+to the court.
+CAPTIONS
+SECTION 5.
+The unit captions used in this 2024 Act are provided only for the convenience
+of the reader  and do not become part of the statutory law of this state or express any leg-
+islative intent in the enactment of this 2024 Act.
+EFFECTIVE DATE
+SECTION 6. This 2024 Act takes effect on the 91st day after the date on which the 2024
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[4]

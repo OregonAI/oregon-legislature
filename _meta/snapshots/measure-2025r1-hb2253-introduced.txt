@@ -1,0 +1,113 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2253
+Sponsored by Representative WALLAN (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This act makes it a condition of licensing that PBMs need  to act in a patient’s best in-
+terest and tells DCBS to make rules. (Flesch Readability Score: 66.1).
+Requires pharmacy benefit managers to act as fiduciaries to enrollees when negotiating drug
+prices and tells the Department of Consumer and Business Services  to adopt rules explaining the
+fiduciary duty requirements and to establish  a complaint process for reporting breaches of fiduciary
+duty.
+A BILL FOR AN ACT
+Relating to pharmacy benefit managers; amending ORS 735.536.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 735.536, as amended by section 7, chapter 87, Oregon Laws 2024, is  amended
+to read:
+735.536. (1) As used in this section, “out-of-pocket cost” means the amount paid by an  enrollee
+under the enrollee’s coverage,  including deductibles, copayments, coinsurance or other expenses as
+prescribed by the Department of Consumer and Business Services by rule.
+(2) A pharmacy benefit manager licensed under ORS 735.532:
+(a) May not require a prescription to  be filled or refilled by a mail order pharmacy as a condi-
+tion for reimbursing the cost of the drug.
+(b) Except as provided in paragraph (c) of this subsection, may  require a prescription for a
+specialty drug to be filled or refilled at  a specialty pharmacy as a condition for the reimbursement
+of the cost of a drug.
+(c) Shall reimburse the cost of a specialty drug that is filled  or refilled at a network pharmacy
+that is a long term care pharmacy.
+(d)(A) Shall allow a network pharmacy to  mail, ship or deliver prescription drugs to its patients
+as an ancillary service.
+(B) Is not required to reimburse a delivery  fee charged by a pharmacy for a delivery described
+in subparagraph (A) of this paragraph  unless the fee is specified in the contract between the phar-
+macy benefit manager and the pharmacy.
+(e) May  not require a patient signature as proof of delivery of a mailed or shipped prescription
+drug if the network pharmacy:
+(A)(i) Maintains a mailing or shipping log signed by a representative of the pharmacy; or
+(ii) Maintains each notification of delivery  provided by the United States Postal Service or a
+package delivery service; and
+(B) Is responsible for  the cost of mailing, shipping or delivering a replacement for a drug that
+was mailed or shipped but not received by the enrollee.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 984
+HB 2253
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+(f) May  not penalize a network pharmacy by imposing charges or fees, requiring contract
+amendments, canceling or terminating contracts or demanding recoupment or otherwise  retaliate
+against a network pharmacy for:
+(A) Informing an  enrollee of the difference between the out-of-pocket cost to the enrollee to
+purchase a prescription drug using the  enrollee’s pharmacy benefit and the pharmacy’s usual and
+customary charge for the prescription drug;
+(B) Filing an appeal;
+(C) Filing a complaint against the pharmacy benefit manager with the Department  of Consumer
+and Business Services;
+(D) Engaging in the legislative process; or
+(E) Challenging the pharmacy benefit manager’s practices or agreements.
+(g) May not charge a fee to a pharmacy for submitting claims or for the  adjudication of claims.
+(h) Shall act as  a fiduciary on behalf of enrollees when negotiating the price of pre-
+scription drugs. The Department of Consumer and Business Services shall adopt  rules ex-
+plaining the requirements of the fiduciary duty and shall establish  a complaint process that
+allows pharmacy benefit managers to be reported for a breach of fiduciary duty.
+(3) The Department of Consumer  and Business Services may adopt rules to carry out the pro-
+visions of this section.
+[2]

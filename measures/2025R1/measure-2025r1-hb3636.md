@@ -1,0 +1,337 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3636
+title: 'HB 3636 (2025R1): Requires insurers to offer personal injury protection benefits to persons insured
+  under the insurer''s motor vehicle liability policy, but makes the decision to elect to receive personal
+  injury protection benefits optional.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3636
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3636/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 75cbd8d1f075b402a99cd7d5d768c7d202fcfd1d283c09ea80f0a81e658907c7
+snapshot_id: measure-2025r1-hb3636-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 276.598
+  - ORS 278.205
+  - ORS 278.215
+  - ORS 30.260
+  - ORS 30.282
+  - ORS 742.500
+  - ORS 742.518
+  - ORS 742.520
+  - ORS 742.521
+  - ORS 742.522
+  - ORS 742.524
+  - ORS 742.585
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3636
+prefix_meaning: House Bill
+catch_line: Requires insurers to offer personal injury protection benefits to persons insured under the
+  insurer's motor vehicle liability policy, but makes the decision to elect to receive personal injury
+  protection benefits optional.
+minority_catch_line: null
+measure_summary: "\tDigest: Says that an insurer that offers car insurance must also offer PIP benefits.\
+  \ Lets a driver decide whether to accept or not. (Flesch Readability Score: 61.0). \n\tRequires insurers\
+  \ to offer personal injury protection benefits to persons insured under the insurer's motor vehicle\
+  \ liability policy, but makes the decision to elect to receive personal injury protection benefits optional."
+relating_to: Relating to personal injury protection benefits.
+relating_to_full: Relating to personal injury protection benefits; creating new provisions; and amending
+  ORS 278.205, 278.215, 742.520, 742.522, 742.524 and 742.585.
+at_the_request_of: null
+lc_number: 4189
+measure_created_date: '2025-02-18T14:32:36'
+measure_modified_date: '2025-02-22T11:51:28'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 16261
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 276.598
+  - ORS 278.205
+  - ORS 278.215
+  - ORS 30.260
+  - ORS 30.282
+  - ORS 742.500
+  - ORS 742.518
+  - ORS 742.520
+  - ORS 742.521
+  - ORS 742.522
+  - ORS 742.524
+  - ORS 742.585
+  from_relating_to_full:
+  - ORS 278.205
+  - ORS 278.215
+  - ORS 742.520
+  - ORS 742.522
+  - ORS 742.524
+  - ORS 742.585
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3636>.
+
+# HB 3636 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3636, 2025 Regular Session (2025R1)
+- **LC number:** 4189
+- **Created:** 2025-02-18T14:32:36
+- **Metadata last modified (upstream):** 2025-02-22T11:51:28
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 16261 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3636/Introduced>.
+
+## Summary
+
+**Catchline:** Requires insurers to offer personal injury protection benefits to persons insured under the insurer's motor vehicle liability policy, but makes the decision to elect to receive personal injury protection benefits optional.
+
+**Relating to:** Relating to personal injury protection benefits.
+
+Digest: Says that an insurer that offers car insurance must also offer PIP benefits. Lets a driver decide whether to accept or not. (Flesch Readability Score: 61.0). 
+ Requires insurers to offer personal injury protection benefits to persons insured under the insurer's motor vehicle liability policy, but makes the decision to elect to receive personal injury protection benefits optional.
+
+**RelatingToFull (verbatim upstream field):** Relating to personal injury protection benefits; creating new provisions; and amending ORS 278.205, 278.215, 742.520, 742.522, 742.524 and 742.585.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3636
+Sponsored by Representatives RESCHKE, LEVY B, SMITH G; Representatives BOICE, BOSHART  DAVIS,
+HELFRICH, JAVADI, MCINTIRE, OSBORNE, Senators ANDERSON, ROBINSON
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Says that an insurer that offers car insurance must also offer PIP benefits. Lets a driver
+decide whether to accept or not. (Flesch Readability Score: 61.0).
+Requires insurers to offer personal  injury protection benefits to persons insured under the
+insurer’s motor vehicle liability policy, but makes the decision to elect  to receive personal injury
+protection benefits optional.
+A BILL FOR AN ACT
+Relating to personal injury protection benefits;  creating new provisions; and amending ORS 278.205,
+278.215, 742.520, 742.522, 742.524 and 742.585.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 742.520 is amended to read:
+742.520. (1)(a) [ Every] An insurer that issues  a  motor vehicle liability policy [ issued] for de-
+livery in this state that covers any private passenger  motor vehicle shall [ provide] make available
+under the policy personal injury protection benefits [ to] for all of the following persons:
+(A) The person insured [ thereunder] under the motor vehicle liability policy [,];
+(B) Members of that person’s family residing in the same household[ ,];
+(C) Children not related to the insured by blood,  marriage or adoption who are residing in the
+same household as the insured and being reared as the insured’s own[ ,];
+(D) Passengers occupying the insured motor vehicle ; and
+(E) Pedestrians struck by the insured motor vehicle.
+(b) A transportation network company shall  provide a motor vehicle liability policy with per-
+sonal injury protection benefits to each driver who operates a personal  motor vehicle in affiliation
+with the transportation network company.
+(c) A taxi company shall  provide a motor vehicle liability policy with personal injury protection
+benefits to each driver who operates a taxi in affiliation with the taxi company.
+(d) The personal injury  protection benefits described in paragraphs (b) and (c) of this subsection
+must, at all times during which the driver operates the  personal motor vehicle or the taxi to provide
+transportation services to passengers in affiliation with the transportation network company or  the
+taxi company, cover  the driver of the personal motor vehicle or taxi, any passengers that occupy
+the personal motor vehicle or taxi and pedestrians that are struck  by the personal motor vehicle
+or taxi.
+(e) Notwithstanding paragraphs (b), (c) and (d) of this subsection, an insurer may exclude from
+a motor vehicle liability policy for a  private passenger motor vehicle any coverage, including per-
+sonal injury protection benefits, for a loss or injury that occurs  while a driver is operating a private
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4189
+passenger motor vehicle to provide transportation services  for compensation in affiliation with a
+transportation network company.
+(2)(a) A person insured under an insurer’s motor vehicle liability policy, other than  a
+driver described in subsection (1)(b),  (c), (d) or (e) of this section, is not obligated to elect
+to receive personal injury protection  benefits or coverage for injury or death under the cir-
+cumstances described in subsection (3) of this section. The person may refuse personal injury
+protection benefits and coverage orally or in writing and need not submit a  form to the
+insurer to indicate the insured’s refusal.
+(b) In each declarations page that an insurer provides at the time the insurer issues or
+renews a motor vehicle liability policy, the insurer shall note prominently  whether the in-
+sured has elected personal injury protection benefits and coverage for injury or death under
+the circumstances described in subsection (3) of this section. The notation in the declara-
+tions page is  the final and binding expression of the insured’s decision as to whether the in-
+sured consents to or refuses the  insurer’s personal injury protection benefits and coverage
+and the insured’s refusal also constitutes a refusal on behalf of all  persons to whom personal
+injury protection benefits would otherwise apply under subsection (1)(a) of this section.
+[(2)] (3) Personal injury protection benefits  that  an insurer offers as part of a motor vehicle
+liability policy must apply to a person’s injury or death resulting:
+(a) In the case of  the person insured under the policy and members of that person’s family re-
+siding in the same household, from the use, occupancy or maintenance of any  motor vehicle, except
+the following vehicles:
+(A) A motor vehicle, including a motorcycle or moped, that is owned or furnished or  available
+for regular use by any of such persons and that is not described in the policy;
+(B) A motorcycle or moped which is not owned by any of such persons, but this exclusion applies
+only when the injury or death results from such person’s  operating or riding upon the motorcycle
+or moped; and
+(C) A motor vehicle not included in subparagraph (A) or (B) of this paragraph and, except  as
+provided in paragraph (c) of this subsection, not a private  passenger motor vehicle. However, this
+exclusion applies only when the injury or death results from such person’s operating  or occupying
+the motor vehicle.
+(b) In the case of a passenger occupying or a pedestrian struck by the  insured motor vehicle,
+from the use, occupancy or maintenance of the vehicle.
+(c) In the case of a person insured under the policy who operates a personal  motor vehicle or
+a taxi with which the person provides transportation  services to passengers for compensation in
+affiliation with a transportation network company or a taxi company, from the  use, occupancy or
+maintenance of the personal motor vehicle or taxi.
+[(3)] (4)  Personal injury protection benefits  must  consist of payments for expenses, loss of in-
+come and loss of essential services as provided in ORS 742.524.
+[(4)] (5) An insurer shall pay all personal injury protection benefits promptly after proof of  loss
+has been submitted to the insurer.
+[(5)] (6) The potential  existence of a cause of action in tort does not relieve an insurer from the
+duty to pay personal injury protection benefits.
+[(6)] (7)  Disputes between insurers and beneficiaries about the amount  of personal injury pro-
+tection benefits, or about the denial of personal injury protection benefits, [ shall] must  be decided
+by arbitration if  mutually agreed to at the time of the dispute. Arbitration under this subsection
+[shall] must  take place as described in ORS 742.521.
+[(7)] (8) An insurer:
+(a) May not enter into or renew any  contract that provides, or has the effect of providing,
+managed care services to beneficiaries.
+(b) May enter into or renew any contract that provides evaluation services for beneficiaries.
+SECTION 2.
+ ORS 742.522 is amended to read:
+742.522. (1) Costs to the insured of the arbitration proceeding under ORS  742.520 [ (6) shall ] (7)
+may not exceed $100 and  the  insurer shall bear  all other costs of arbitration [ shall be borne by
+the insurer].
+(2) As used in this section, “costs” does not  include attorney fees or expenses incurred in the
+production of evidence or witnesses or the making of transcripts of the arbitration proceedings.
+SECTION 3.  ORS 742.524 is amended to read:
+742.524. (1) Personal injury protection benefits [ required by ] that an insurer makes available
+under ORS 742.520  must  consist of the following payments for the injury or death of each person:
+(a) All reasonable and necessary expenses of medical, hospital,  dental, surgical, ambulance and
+prosthetic  services  incurred within two years after the date of the person’s injury, but not more than
+$15,000 in  the aggregate for all such expenses of the person. Expenses of medical, hospital, dental,
+surgical, ambulance and prosthetic services are presumed to be reasonable and necessary unless  the
+provider  receives  notice of denial of the charges not more than 60 calendar days after the insurer
+receives from the provider notice of the claim for the services. At  any time during the first 50 cal-
+endar days after the insurer receives  notice of claim, the provider shall, within 10 business days,
+answer in writing questions from the insurer regarding the claim. For purposes of determining when
+the 60-day period  provided by this paragraph has elapsed, counting of days shall be suspended if the
+provider does not supply written answers to  the insurer within 10 days and may not resume until
+the answers are supplied.
+(b) If the injured person is usually engaged in a remunerative occupation and if disability  con-
+tinues for at least 14 days, 70 percent of the  loss of income from work during the period of the in-
+jured person’s disability  until the date the person is able to return to the person’s usual occupation.
+This benefit is subject to a maximum payment  of $3,000 per month and a maximum payment period
+in the aggregate of 52 weeks.  As used in this paragraph, “income” includes but is not limited to
+salary, wages, tips, commissions, professional fees and profits from an  individually owned business
+or farm.
+(c) If the injured  person is not usually engaged in a remunerative occupation and if disability
+continues  for  at least 14 days, the expenses reasonably incurred by the injured person for essential
+services that were performed by a person who is not related to the injured person or residing  in the
+injured person’s household in lieu of the services the injured person  would have performed without
+income during the period of the person’s disability until the date  the person is reasonably able to
+perform such essential services. This benefit is subject to a maximum  payment of $30 per day and
+a maximum payment period in the aggregate of 52 weeks.
+(d) All reasonable and necessary funeral expenses incurred within one year after the date  of the
+person’s injury, but not more than $5,000.
+(e) If the injured person is a parent of  a minor child and is required to be hospitalized for a
+minimum of 24  hours, $25 per day for child care, with payments to begin after the initial 24 hours
+of hospitalization and to be made for as long as the person is unable to return to work if the  person
+is engaged in a remunerative occupation or for as long as the  person is unable to perform essential
+services that the person would have performed without income if the person is not usually  engaged
+in a remunerative occupation, but not to exceed $750.
+(2) With respect to the insured  person and members of that person’s family residing in the same
+household, an insurer may offer  forms of coverage for the benefits required by subsection (1)(a), (b)
+and (c) of this section with deductibles of up to $250.
+SECTION 4.
+ ORS 278.205 is amended to read:
+278.205. (1) The Oregon Department of Administrative Services may issue a certificate  of motor
+vehicle liability insurance and make assessments therefor.
+(2) When  issued on vehicles owned by local public bodies, such insurance shall also include
+uninsured motorist coverage and may include personal injury protection benefits and shall  provide
+at least the  minimum coverages and amounts set forth in ORS 742.500 to 742.542. However, at the
+request of a  local public body, the department may provide uninsured motorist coverage or personal
+injury protection benefits for the motor vehicles owned by the  local public body in amounts greater
+than those [ required under ] described in ORS 742.500 to 742.542.
+(3) When issued on state-owned vehicles  furnished for public use including, but not limited to,
+use authorized  under ORS 276.598, such insurance shall include uninsured motorist coverage and
+personal injury protection benefits and shall provide at least  the minimum coverages and amounts
+set forth in ORS 742.500 to 742.542.
+(4) The department by rule may provide personal injury protection benefits in excess of  those
+specified in this section.
+SECTION 5.  ORS 278.215 is amended to read:
+278.215. (1) Any insurance or self-insurance provided by moneys  from the Insurance Fund for or
+on account of the operation of motor vehicles within the state’s  or public body’s control, shall pro-
+vide the uninsured motorist coverage required under ORS 742.500 to  742.504 and, except as specified
+in ORS 278.205, may provide the personal injury protection benefits [ required under ] described in
+ORS 742.518 to 742.542.
+(2) Any local public body, as defined in ORS 30.260,  which establishes a self-insurance program
+under ORS 30.282 for or on account of the operation of motor  vehicles within the local public body’s
+control, shall provide the uninsured motorist coverage required under ORS 742.500 to  742.504 and
+may provide the personal injury protection benefits [ required under ] described in  ORS 742.518 to
+742.542.
+(3) The uninsured motorist coverage provided under this section shall be excess over any other
+collateral benefits to which an injured person  is entitled, including, but not limited to, other
+uninsured motorist coverage, insurance benefits, governmental benefits or gratuitous benefits.
+SECTION 6.  ORS 742.585 is amended to read:
+742.585. As used in ORS 742.585 to 742.600:
+(1) “Owner’s insurance policy” means a private passenger motor vehicle  liability insurance pol-
+icy that includes:
+(a) All coverage necessary to comply with the financial or future responsibility requirements  of
+ORS chapter 806;
+(b) The personal injury protection  coverage [ required under ] described in  ORS 742.518 to
+742.542;
+(c) The uninsured motorist coverage required under ORS 742.500 to 742.506; and
+(d) Any optional coverage selected by the owner.
+(2) “Personal  vehicle sharing” means the use of a private passenger motor vehicle by persons
+other than the vehicle’s registered owner in connection with a personal vehicle sharing program.
+(3) “Personal vehicle sharing program” means  a legal entity qualified to do business in this state
+engaged in the business of facilitating the sharing of private passenger  motor vehicles for noncom-
+mercial use by individuals within this state.
+(4) “Private passenger motor vehicle” means a four-wheel passenger or station wagon type motor
+vehicle insured under a motor vehicle liability insurance  policy covering a single individual or in-
+dividuals residing in the same household as the named insured.
+(5) “Program  insurance policy” means a motor vehicle liability insurance policy that is obtained
+by the personal vehicle sharing program and that:
+(a) Includes all coverage needed to  comply with the financial or future responsibility require-
+ments of ORS chapter 806;
+(b) Includes the personal injury protection coverage [ required under ] described in ORS 742.518
+to 742.542;
+(c) Includes the uninsured motorist coverage required under ORS 742.500 to 742.506;
+(d) Includes comprehensive property damage coverage for the vehicle;
+(e) Includes collision property damage coverage for the vehicle; and
+(f) Does not include any other optional coverage selected by the owner of the vehicle and in-
+cluded in the owner’s insurance policy.
+SECTION 7.
+The amendments to ORS 278.205,  278.215, 742.520, 742.522, 742.524 and 742.585
+by sections 1 to 6 of this 2025 Act become operative January 1, 2027.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 278.205, ORS 278.215, ORS 742.520, ORS 742.522, ORS 742.524, ORS 742.585
+- From bill text (Introduced version): ORS 276.598, ORS 278.205, ORS 278.215, ORS 30.260, ORS 30.282, ORS 742.500, ORS 742.518, ORS 742.520, ORS 742.521, ORS 742.522, ORS 742.524, ORS 742.585
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `75cbd8d1f075b402a99cd7d5d768c7d202fcfd1d283c09ea80f0a81e658907c7` (snapshot `_meta/snapshots/measure-2025r1-hb3636-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3636/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3636> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

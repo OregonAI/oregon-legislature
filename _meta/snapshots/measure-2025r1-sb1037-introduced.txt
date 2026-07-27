@@ -1,0 +1,90 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1037
+Sponsored by Senator THATCHER, Representative RESCHKE; Representatives  DRAZAN, GAMBA, LEVY B,
+MCINTIRE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that higher learning schools must give students certain income  data.
+(Flesch Readability Score: 69.9).
+Requires an institution of higher education  to provide specified information related to a realistic
+expectation of income for an individual in a field related to the degree the student seeks to obtain.
+A BILL FOR AN ACT
+Relating to income information provided to students in higher education; amending ORS 348.100.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 348.100 is amended to read:
+348.100. (1) As used in this section, “institution of higher education” has the meaning given  that
+term in ORS 348.582.
+(2) Each institution of higher education shall provide the following information  to each student
+enrolled at the institution for whom the institution receives federal education loan information:
+(a) An estimate of the  total amount of federal education loans the student has received at the
+time the information is provided;
+(b) The total cumulative amount of tuition and fees the student  has paid to the institution of
+higher education at the time the information is provided;
+(c) An estimate of the total potential payoff amount, or a range within which  the total payoff
+amount may fall, including principal and interest,  of the federal education loans the student has
+received at the time the information is provided;
+(d) An estimate of the amount, including interest, that the student will have to pay  each month
+to service the federal education loan amount set forth in paragraph (a)  of this subsection, including
+the interest  rate and number of repayment years used by the institution of higher education to cal-
+culate the monthly payment estimate pursuant to this paragraph;
+(e) The percentage of the borrowing limit the student has reached for each type of  federal edu-
+cation loan the student has received at the time the information is provided; [ and]
+(f) A statement that the  information provided does not include  private loans or credit card
+debt; and
+(g) A realistic expectation of income during the 10-year  period immediately after obtain-
+ing a degree for an individual who  is working in a field related to the degree the student
+seeks to obtain .
+(3) The institution of higher education shall provide the information required under  subsection
+(2) of  this section on an annual basis. The information required to be provided under subsection (2)
+of this section must:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3766
+SB 1037
+1
+2
+3
+4
+5
+6
+7
+(a) Be provided to the student in a unified and comprehensive manner; and
+(b) Be written in plain language that is easy to understand.
+(4) An institution of higher  education may include additional loan information resources when
+providing the information required under subsection (2) of this section.
+(5) Institutions of  higher education are not liable for any representations made under this sec-
+tion.
+[2]

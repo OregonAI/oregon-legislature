@@ -1,0 +1,105 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 15
+Sponsored by Senator THATCHER; Representative RESCHKE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes the limits  on the fair market value of assets for simple estates. (Flesch
+Readability Score: 67.5).
+Modifies the fair market value limitations for simple estate affidavits.
+A BILL FOR AN ACT
+Relating to simple estates; creating new provisions; and amending ORS 114.510.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 114.510 is amended to read:
+114.510. (1) A person who meets the requirements of ORS 114.515 may file a simple estate affi-
+davit only with regard to an estate in which:
+(a)(A) Not more than [ $75,000] $250,000 of the fair market value of the estate is attributable to
+personal property; [ and]
+(B) Not more than [ $200,000] $750,000 of the fair market value of the estate is attributable to
+real property; and
+(C) The fair market value of the estate is $1 million or less;  or
+(b) The decedent died testate and:
+(A) Not more than [ $75,000] $250,000 of the fair market value  of the estate is attributable to
+specifically devised personal property;
+(B) Not more than [ $200,000] $750,000 of the fair market value of the estate is attributable to
+specifically devised real property; and
+(C) The balance of the fair  market value of the estate is attributable to property that is devised
+to the trustee of  a trust of which the decedent was a settlor, as defined in ORS 130.010, and which
+came into existence prior to the decedent’s date of death.
+(2)(a) The fair market value of the estate under subsection (1) of  this section shall be deter-
+mined:
+(A) As of the date of death; or
+(B) If the date of death is more than one year before the date of filing of  the affidavit, as of a
+date within 45 days before the filing of the affidavit.
+(b) In determining fair market value under this subsection, the  fair market value of the entire
+interest in the property included in the estate shall be used without reduction for liens  or other
+debts.
+(3) Beginning in  2026, and every year thereafter, the State Court Administrator shall
+determine the percentage increase  or decrease in the cost of living for the previous calendar
+year, based on changes in the Consumer Price Index for All Urban Consumers,  West Region
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 857
+SB 15
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+(All Items),  as published by the Bureau of Labor Statistics of the United States Department
+of Labor. On or before July 1 of the year in which the  State Court Administrator makes the
+determination required by this  subsection, the State Court Administrator shall adjust the
+limitations imposed under subsection  (1) of this 2025 Act for the following calendar year by
+multiplying the limitation amounts applicable to the calendar year in  which the adjustment
+is made by the percentage amount determined  under this subsection. The State Court Ad-
+ministrator shall  round the adjusted limitation amount to the nearest $100, but the un-
+rounded amount shall be used to calculate the adjustments  to the limitations in subsequent
+calendar years. The adjusted limitation becomes effective on July 1 of the year in  which the
+adjustment is made, and applies to simple estate affidavits filed on or after  July 1 of that
+year and before July 1 of the subsequent year.
+SECTION 2.
+The amendments to ORS 114.510 by section 1 of this  2025 Act apply to simple
+estate affidavits filed on or after the effective date of this 2025 Act.
+[2]

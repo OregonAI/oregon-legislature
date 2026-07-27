@@ -1,0 +1,138 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3194
+Sponsored by Representative MARSH, Senator MANNING JR, Representative VALDERRAMA, Senator GOLDEN;
+Representative GRAYBER, Senators JAMA, PATTERSON, PHAM K,  PROZANSKI, TAYLOR (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes new laws about farmworker camps. (Flesch Readability Score: 82.3).
+Establishes that landowners and persons acting as  farmworker camp operators are jointly and
+severally liable for operating a farmworker camp on the landowner’s property  unless certain condi-
+tions are met.
+Modifies remedies that may be  sought for violations of certain requirements for farmworker
+camps.
+A BILL FOR AN ACT
+Relating to farmworker camps; creating new provisions; and amending ORS 658.705 and 658.805.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a  part of ORS 658.705 to
+658.850.
+SECTION 2. (1) As used in this  section, “landowner” means any person that has a sub-
+stantial ownership interest in real property.
+(2) A landowner whose property is the location of a farmworker camp  shall be jointly and
+severally liable with the person acting as the farmworker camp operator to the  same extent
+and in the same manner as provided in ORS 658.805 (3) and (4), unless the landowner proves
+that the landowner:
+(a) Delegated the authority to operate the farmworker camp to a farmworker  camp op-
+erator for whom the  landowner has verified compliance with the licensing, registration and
+indorsement requirements under ORS 658.705 to 658.850; and
+(b) Had no actual knowledge or reason  to know of the farmworker camp operator’s fail-
+ure to comply with those requirements.
+SECTION 3.
+ ORS 658.705 is amended to read:
+658.705. As used in ORS 658.705 to 658.850:
+(1) “Applicant” means an individual who proposes to operate a farmworker camp and who  is
+applying for a camp operator indorsement under ORS 658.730.
+(2) “Bureau” means the Bureau of Labor and Industries.
+(3) “Commissioner” means the Commissioner of the Bureau of Labor and Industries.
+(4) “Department” means the Department of Consumer and Business Services.
+(5) “Director” means the Director of the Department of Consumer and Business Services.
+(6) “Farm labor contractor” has the same meaning as that provided in ORS 658.405.
+(7) “Farmworker  camp” means any place or area of land where sleeping places, manufactured
+structures or other housing is  provided or permitted by a farmer, farm labor contractor, employer
+or any other person in connection with the  recruitment or employment of workers to work in the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2072
+HB 3194
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+production and harvesting of farm crops or in the reforestation of lands, as described in ORS
+658.405. “Farmworker camp” does not include:
+(a) A  single, isolated dwelling occupied solely by members of the same family, or by five or fewer
+unrelated individuals; or
+(b) A hotel  or motel which provides housing with the same characteristics on a commercial basis
+to the general public on the same terms and conditions as housing is provided to such workers.
+(8) “Farmworker camp operator” means any person who operates a farmworker camp.
+(9) “Indorsee” means a farm labor contractor licensed under ORS 658.410 who has obtained a
+camp indorsement under ORS 658.730.
+SECTION 4.
+ ORS 658.805 is amended to read:
+658.805. (1) Except to appeal from an act or  determination of the Commissioner of the Bureau
+of Labor and Industries or the Department of  Consumer and Business Services, no person operating
+a farmworker camp, as defined in ORS 658.705, is entitled to  demand, receive or accept any fee di-
+rectly or indirectly or maintain any suit or action in the  courts of this state involving the
+farmworker  camp,  without alleging and proving that the person was registered or indorsed to oper-
+ate a farmworker camp.
+(2) The commissioner, Director  of the Department of Consumer and Business Services or any
+local governmental agency may bring  suit in any court of competent jurisdiction to enjoin any per-
+son from  violating any of the provisions of ORS 658.705 to 658.850, or rules adopted pursuant
+thereto, and from committing future violations.
+(3) Any aggrieved  person may bring suit in any court of competent jurisdiction [ to enjoin ]
+against any person violating ORS  658.715 (1) or 658.755 (2)(a) [ from violating ] who violates  any of
+the provisions of ORS 658.705 to 658.850, or rules adopted pursuant thereto,  to recover damages
+and to enjoin the person  [ and] from committing future violations.
+(4) In actions brought pursuant to this section, the court  may award to the prevailing party
+costs and disbursements and a reasonable attorney fee. In addition, if damages are found, the amount
+of damages  recoverable from a farmworker camp operator who is subject to suit pursuant to sub-
+section (3) of this section [ who violates ] for each violation of any  provision of  ORS 658.705 to
+658.850 is actual damages or [ $500] $2,000, whichever is greater.
+[2]

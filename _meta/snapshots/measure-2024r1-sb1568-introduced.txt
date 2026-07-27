@@ -1,0 +1,129 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1568
+Sponsored by Senator SOLLMAN, Representative FAHEY (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes pay for electricians equal to the  pay in a union contract in parts of the state
+where there is a union contract and the union is the only one that  speaks for electricians. Takes
+effect 91 days after session ends (Flesch Readability Score: 60.6).
+Provides that, for the purpose of specifying the prevailing rate  of wage for electrical workers,
+a locality is the geographical  area within which each local union is the exclusive representative for
+the local union’s membership, and  the collective bargaining agreement is the collective bargaining
+agreement to which the local union is a party.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to a prevailing rate of wage for electrical workers; creating new provisions; amending  ORS
+279C.815; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 279C.815 is amended to read:
+279C.815. (1) As used in this section[ ,]:
+(a) “Electrical worker” means  an electrician, inside wireman, cable splicer, electrical
+welder, electrical material handler, lighting maintenance worker or  limited energy
+electrician.
+(b) “Person”  means an employer, a labor organization or an official representative of an em-
+ployee or employer association.
+(2)(a) The Commissioner of the Bureau of Labor and Industries at least once  each year shall
+determine in accordance with paragraph (b) of this subsection the prevailing rate  of wage for
+workers  in  each trade or occupation in each locality described in ORS 279C.800 and shall make this
+information available at least twice each year. The commissioner may amend the rate at any time.
+(b)(A) Except as provided in subparagraph (B) of this paragraph, the prevailing rate of wage
+for a trade or  occupation in a locality is the rate of wage set forth in the collective bargaining
+agreement for the trade  or occupation in the locality or, if more than one collective bargaining
+agreement covers a trade or occupation in the locality, the highest  rate of wage among the collec-
+tive bargaining agreements for the trade or occupation in the locality.
+(B) Notwithstanding ORS 279C.800 (3),  for the purpose of specifying a prevailing rate of
+wage for electrical workers  in accordance with subparagraph (A) of this paragraph, the ap-
+plicable locality is the geographical area within which each local union is the exclusive rep-
+resentative for the  local union’s membership, and the applicable collective bargaining
+agreement is the collective bargaining agreement to which the local union is a party.
+(c) If a collective bargaining agreement does  not exist for a trade or occupation in a locality,
+the commissioner  shall determine the prevailing rate of wage by conducting an independent wage
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 258
+SB 1568
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+survey in the locality. The commissioner  may also consider additional information such as other
+independent wage surveys and the prevailing rates of wage determined by appropriate federal
+agencies or agencies of adjoining states. If a wage survey under this paragraph does not  show that
+a majority in the same trade or occupation is paid at the same rate, the average rate of hourly wage,
+including all fringe benefits, paid in the locality to workers in the  same trade or occupation is the
+prevailing rate. If the wage a contractor or subcontractor pays to workers on  a public works is
+based on a period of time other than  an hour, the hourly wage must be mathematically determined
+by the number of hours worked in that period of time.
+(3) A person shall make reports and returns to the Bureau  of Labor and Industries that the
+commissioner requires to determine the prevailing rates of wage, using forms the  bureau provides
+and within the time the commissioner prescribes. The person or  an authorized representative of the
+person shall certify to the accuracy of the reports and returns.
+(4) Notwithstanding ORS 192.311 to 192.478, reports and returns or  other information provided
+to the commissioner under this section are confidential and not available for inspection by the
+public.
+(5) The commissioner may enter into a contract with a public or private party to obtain  data
+and information the commissioner needs to determine the prevailing rate of wage. The contract may
+provide  for  the manner and extent of the review of affected trades and occupations and for other
+requirements regarding timelines  of reports, accuracy of data and information and supervision and
+review as the commissioner prescribes.
+SECTION 2.
+The amendments to ORS  279C.815 by section 1 of this 2024 Act apply to de-
+terminations of the prevailing rate of wage that the Commissioner of the Bureau of Labor
+and Industries makes on and after the effective date of this 2024 Act.
+SECTION 3.
+This 2024 Act takes effect on the 91st day after the date on which the 2024
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[2]

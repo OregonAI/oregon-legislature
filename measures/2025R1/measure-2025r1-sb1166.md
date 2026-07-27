@@ -1,0 +1,962 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb1166
+title: 'SB 1166 (2025R1): Requires transportation network companies to pay minimum compensation rates
+  to drivers.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 1166
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1166/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 1c44be602be0fadbbdfc4c36b9c9b926d629db52d47c1778e7f2eebbfad4932f
+snapshot_id: measure-2025r1-sb1166-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.111
+  - ORS 18.385
+  - ORS 18.736
+  - ORS 183.745
+  - ORS 192.245
+  - ORS 652.110
+  - ORS 652.310
+  - ORS 652.320
+  - ORS 653.025
+  - ORS 653.626
+  - ORS 659A.270
+  - ORS 659A.272
+  - ORS 659A.280
+  - ORS 659A.820
+  - ORS 659A.835
+  - ORS 659A.885
+  - ORS 663.110
+  - ORS 742.518
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 1166
+prefix_meaning: Senate Bill
+catch_line: Requires transportation network companies to pay minimum compensation rates to drivers.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would create new laws for transportation network companies. The Act\
+  \ would take effect on July 1 of this year. (Flesch Readability Score: 79.3). \n\tRequires transportation\
+  \ network companies to pay minimum compensation rates to drivers. \n\t[<i>Directs transportation network\
+  \ companies to establish written policies concerning account deactivations and provides requirements\
+  \ for such policies. Requires that such policies include an appeals process that meets certain minimum\
+  \ requirements by which drivers may appeal an account deactivation.</i>] \n\tProhibits transportation\
+  \ network companies from issuing an account deactivation absent just cause. \n\t[<i>Directs the Bureau\
+  \ of Labor and Industries to contract with a nonprofit organization to operate a driver resource center.</i>]\
+  \ \n\tEstablishes minimum paid sick time requirements for transportation network companies. \n\tRequires\
+  \ transportation network companies to provide dispatched trip information and receipt information to\
+  \ drivers and passengers. \n\tImposes recordkeeping requirements for transportation network companies\
+  \ [<i>and requires the companies to compile data to submit reports to the bureau. Directs the bureau\
+  \ to report to the Legislative Assembly on the information received from the transportation network\
+  \ companies</i>]. \n\t[<i>Establishes the Task Force on the Ensuring Meaningful Access to Benefits for\
+  \ Transportation Network Company Drivers.</i>] \n\tRequires transportation network companies to comply\
+  \ with notice requirements to apprise drivers of certain information regarding the rights and protections\
+  \ afforded to drivers. \n\tProvides the Bureau of Labor and Industries with enforcement authority over\
+  \ the provisions of the Act. Provides remedies for drivers alleging unlawful practices. \n\tDeclares\
+  \ an emergency, effective July 1, 2025."
+relating_to: Relating to transportation network companies; declaring an emergency.
+relating_to_full: Relating to transportation network companies; and declaring an emergency.
+at_the_request_of: null
+lc_number: 4186
+measure_created_date: '2025-02-25T16:24:38'
+measure_modified_date: '2025-06-03T18:05:02'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 57431
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.111
+  - ORS 18.385
+  - ORS 18.736
+  - ORS 183.745
+  - ORS 192.245
+  - ORS 652.110
+  - ORS 652.310
+  - ORS 652.320
+  - ORS 653.025
+  - ORS 653.626
+  - ORS 659A.270
+  - ORS 659A.272
+  - ORS 659A.280
+  - ORS 659A.820
+  - ORS 659A.835
+  - ORS 659A.885
+  - ORS 663.110
+  - ORS 742.518
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1166>.
+
+# SB 1166 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1166, 2025 Regular Session (2025R1)
+- **LC number:** 4186
+- **Created:** 2025-02-25T16:24:38
+- **Metadata last modified (upstream):** 2025-06-03T18:05:02
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 57431 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1166/Introduced>.
+
+## Summary
+
+**Catchline:** Requires transportation network companies to pay minimum compensation rates to drivers.
+
+**Relating to:** Relating to transportation network companies; declaring an emergency.
+
+Digest: The Act would create new laws for transportation network companies. The Act would take effect on July 1 of this year. (Flesch Readability Score: 79.3). 
+ Requires transportation network companies to pay minimum compensation rates to drivers. 
+ [<i>Directs transportation network companies to establish written policies concerning account deactivations and provides requirements for such policies. Requires that such policies include an appeals process that meets certain minimum requirements by which drivers may appeal an account deactivation.</i>] 
+ Prohibits transportation network companies from issuing an account deactivation absent just cause. 
+ [<i>Directs the Bureau of Labor and Industries to contract with a nonprofit organization to operate a driver resource center.</i>] 
+ Establishes minimum paid sick time requirements for transportation network companies. 
+ Requires transportation network companies to provide dispatched trip information and receipt information to drivers and passengers. 
+ Imposes recordkeeping requirements for transportation network companies [<i>and requires the companies to compile data to submit reports to the bureau. Directs the bureau to report to the Legislative Assembly on the information received from the transportation network companies</i>]. 
+ [<i>Establishes the Task Force on the Ensuring Meaningful Access to Benefits for Transportation Network Company Drivers.</i>] 
+ Requires transportation network companies to comply with notice requirements to apprise drivers of certain information regarding the rights and protections afforded to drivers. 
+ Provides the Bureau of Labor and Industries with enforcement authority over the provisions of the Act. Provides remedies for drivers alleging unlawful practices. 
+ Declares an emergency, effective July 1, 2025.
+
+**RelatingToFull (verbatim upstream field):** Relating to transportation network companies; and declaring an emergency.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1166
+Sponsored by Senator JAMA, Representative SOSA
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would  create new laws for transportation network companies. The Act would
+take effect on July 1 of this year. (Flesch Readability Score: 79.3).
+Requires transportation network companies to pay minimum compensation rates to drivers.
+Directs transportation network companies to establish written policies concerning  account de-
+activations and provides requirements for such policies. Requires that  such policies include an ap-
+peals process that meets certain minimum requirements by which drivers may appeal an account
+deactivation.
+Prohibits transportation network companies  from issuing an account deactivation absent just
+cause.
+Directs  the  Bureau of Labor and Industries to contract with a nonprofit organization to operate
+a driver resource center.
+Establishes minimum paid sick time requirements for transportation network companies.
+Requires transportation network companies to provide dispatched trip information and receipt
+information to drivers and passengers.
+Imposes recordkeeping requirements for transportation network companies and  requires the
+companies to compile data to submit reports to the bureau. Directs the bureau to  report to the
+Legislative Assembly on the information received from the transportation network companies.
+Establishes the Task Force on the  Ensuring Meaningful Access to Benefits for Transportation
+Network Company Drivers.
+Requires transportation network companies to comply with notice  requirements to apprise
+drivers of certain information regarding the rights and protections afforded to drivers.
+Provides the Bureau of Labor and Industries with enforcement authority over  the provisions of
+the Act. Provides remedies for drivers alleging unlawful practices.
+Declares an emergency, effective July 1, 2025.
+A BILL FOR AN ACT
+Relating to transportation network companies; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+DEFINITIONS
+SECTION 1.
+Definitions. As used in sections 1 to 25 of this 2025 Act:
+(1) “Account deactivation” means one or more of  the following actions imposed upon an
+individual driver by a transportation network company:
+(a) Temporarily or permanently limiting, restricting or  suspending or blocking access to
+the driver platform.
+(b) Suspending a driver’s eligibility to provide network services.
+(2) “Approved unique identifier” means a number, combination of numbers or letters  or
+another identifier that the  Commissioner of the Bureau of Labor and Industries prescribes
+by rule for purposes  of data tracking and managing dispatched trip information in connection
+with individual drivers.
+(3)(a) “Available platform time” means the time a driver spends  logged in to the driver
+platform and is available to receive and accept requests for a dispatched trip.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4186
+(b) “Available platform time” does not mean any period of dispatched platform  time or
+passenger platform time.
+(4) “Average hourly  compensation” means the average amount of total compensation a
+driver earns per hour for time  spent providing network services that is calculated by dividing
+the driver’s total earnings by the total hours of time spent providing network services in  a
+set period.
+(5) “Compensation” includes any of the following payments made  to a driver by a trans-
+portation network company for the driver’s provision of network services:
+(a) The amounts required under section 2 of this 2025 Act.
+(b) Bonuses.
+(c) Incentive payments.
+(d) Tips.
+(6) “Digital network” means the technology  platform or system associated with a trans-
+portation network company that connects drivers with  passengers through online applica-
+tions, websites or other digital means to facilitate the arrangement of dispatched trips.
+(7) “Dispatch location” means the location of a driver at the time the  driver accepts a
+request for a dispatched trip through the driver platform.
+(8)(a) “Dispatched platform time” means the period of time a driver spends  traveling
+from a dispatch location to:
+(A) A passenger pick-up location; or
+(B) The first passenger pick-up location of a shared ride.
+(b) “Dispatched platform time” does not include any period of passenger platform time.
+(9) “Dispatched  trip” means the total duration that a driver spends completing a ride
+starting from the time a driver accepts a real-time request to retrieve  a passenger from a
+passenger pick-up location and ending at the passenger drop-off location.
+(10) “Driver” means an individual who uses a personal motor vehicle  to provide network
+services that are facilitated through a transportation network company’s driver platform.
+(11) “Driver platform” means the driver-facing digital network utilized by a  driver to
+manage the activities related to the network services provided by the driver.
+(12) “Family member” means:
+(a) The spouse or domestic partner of a driver;
+(b) A child of a driver or the child’s spouse or domestic partner;
+(c) A parent of a driver or the parent’s spouse or domestic partner;
+(d) A sibling or stepsibling of a driver or  the sibling’s or stepsibling’s spouse or domestic
+partner;
+(e) A grandparent of a driver or the grandparent’s spouse or domestic partner;
+(f) A grandchild of a driver or the grandchild’s spouse or domestic partner; or
+(g) Any individual related by blood or affinity whose close association with a driver is  the
+equivalent of a family relationship.
+(13) “Incentive payments” means  a sum of money paid to a driver for activities that in-
+clude but are not limited to completion of a certain number of consecutive dispatched  trips
+or completion of a certain number of dispatched trips during a particular  time period or in
+a specific geographical area.
+(14) “Network services” means transportation provided by a driver while  the driver is
+logged in to the driver platform, including available platform time, dispatched platform  time
+and passenger platform time, that are facilitated through the digital network.
+(15) “Nonprofit organization” means an Oregon-based nonprofit organization with  dem-
+onstrated expertise and experience representing and advocating for the  rights of workers in
+freelance jobs.
+(16) “Paid sick time” means time off:
+(a) That is provided to a driver by a transportation network company;
+(b) That may be used for the purposes specified in section 10 of this 2025 Act; and
+(c) That is compensated at a rate equal to a driver’s average  hourly compensation for
+each hour of sick time used without  reductions in benefits, including but not limited to
+health care benefits,  that the driver earns from the transportation network company at the
+time the driver uses the paid sick time.
+(17) “Passenger” means any  individual who is physically present in the personal motor
+vehicle of a  driver and for whom the driver is providing network services that were re-
+quested by the individual or by another third party using the digital network.
+(18) “Passenger drop-off location” means the end point of a dispatched trip  where a pas-
+senger is  expected to disembark that is typically selected by the passenger at the time of
+booking network services.
+(19) “Passenger fare” means the  amount charged to and paid by a passenger for a dis-
+patched trip excluding any amounts levied by state or local government or port  authority for
+taxes, fees and tolls.
+(20) “Passenger pick-up location” means the specific location selected by a passenger at
+which a driver is expected to retrieve the passenger to begin a dispatched trip.
+(21) “Passenger platform miles” means the miles traveled while  one or more passengers
+are being transported by a driver during a dispatched trip.
+(22) “Passenger platform time” means the duration of time that a driver  is actively
+transporting one or more passengers from the passenger pick-up location to  the passenger
+drop-off location.
+(23) “Personal motor vehicle” means a motor vehicle that is authorized by  a transporta-
+tion network  company for use by a driver for purposes of providing network services in
+connection with the transportation network company.
+(24) “Prescheduled ride” means prearranged network  services that an individual sched-
+ules in advance before the actual time of  travel to ensure that a driver will be available at
+a designated pick-up time and date.
+(25) “Shared passenger platform time” means passenger platform time for shared  rides
+that commences  at the first passenger pick-up location and ends at the last passenger
+drop-off location.
+(26) “Shared ride” means a dispatched trip that passengers may request  through the
+digital network that permits multiple passengers to  travel together in the same personal
+motor vehicle and share the costs of the dispatched trip.
+(27) “Sick time” means the leave time that is provided by  a transportation network
+company to a driver for a reason authorized under section 10 of this 2025 Act.
+(28) “Single downloadable and searchable electronic file format” includes a comma-
+separated values file, a smartphone application or an online web portal.
+(29) “Surcharge” means any additional charge that is added  to a passenger fare that ex-
+ceeds 120 percent of the minimum compensation rates provided under section 2 of  this 2025
+Act.
+(30) “Tips” means a verifiable sum presented by a passenger as a gratuity in recognition
+of a driver’s provision of network services.
+(31) “Total earnings” includes bonuses, incentive payments and  compensation, but does
+not include tips.
+(32) “Transportation network company” has the meaning given that term in ORS 742.518.
+COMPENSATION
+SECTION 2.
+Compensation rates.  (1)  Except as otherwise provided in this section, a
+transportation network company may not compensate a driver at a rate that  is less than the
+compensation rates specified this section.
+(2) For each dispatched trip, a transportation network  company shall compensate a
+driver at the greater of the following rates:
+(a)(A) $0.68 per minute of all passenger platform time; and
+(B) $1.59 per passenger platform mile for all driven passenger platform miles; or
+(b) $6.00 per dispatched trip.
+(3) The compensation rates provided under subsection (2)  of this section shall apply as
+follows:
+(a) For dispatched trips other than shared rides, the compensation rates apply to:
+(A) All dispatched platform time and passenger platform miles traveled,  beginning after
+the elapse of nine minutes of dispatched platform time.
+(B) Dispatched  trips that are cancelled by an individual or the transportation network
+company two or more minutes after the driver accepted the dispatched trip, unless  the
+cancellation is due to verified driver misconduct.
+(C) Dispatched trips  that are cancelled by a driver in accordance with the policies of a
+transportation network company allowing for cancellations for good cause.
+(D) Dispatched trips that are cancelled because the expected passenger fails  to appear
+at the passenger pick-up  location within five minutes of the driver’s arrival at the passenger
+pick-up location.
+(b) For shared rides, the compensation rates shall apply to  the full distance traveled and
+the total amount of shared passenger platform time spent during the shared ride.
+(c) For prescheduled rides, the compensation rates shall apply to passenger platform time
+and any time the driver spends waiting at the passenger  pick-up location after the pre-
+scheduled time of arrival.
+(4) When an  individual requests network services to accommodate more than four pas-
+sengers in a single personal motor vehicle, the transportation network company shall pay the
+driver, in addition to any other amounts due as  compensation under subsection (2) of this
+section, an amount equal to 150 percent of the compensation due under subsection (2) of  this
+section.
+(5) When a transportation network company applies a surcharge to a dispatched  trip, the
+transportation network company shall compensate  the driver, in addition to the amounts due
+under subsection (2) of this section, an  amount that is not less than 80 percent of the total
+passenger fare.
+(6)(a) Not later  than April 30 of each year, the Commissioner of the Bureau of Labor and
+Industries shall calculate an adjustment to the minimum compensation rates specified under
+subsection (2) of this section based upon the increase, if any,  from the preceding year to
+March of the year  in which the calculation is made in the U.S. City Average Consumer Price
+Index for All Urban Consumers, West Region (All Items) as prepared by  the Bureau of Labor
+Statistics of the United States Department of Labor or its successor.
+(b) Notwithstanding any adjustment made under paragraph  (a) of this subsection, in the
+case of an adjustment to the minimum wage rates required for employees by ORS  653.025
+that exceeds the  rate specified in subsection (2) of this section, the Commissioner of the
+Bureau of Labor and Industries shall adjust the minimum compensation rates specified under
+subsection (2) of this section by the rate of  increase of the state minimum wage, calculated
+to the nearest cent.
+(7)(a) A transportation network company shall remit to drivers all tips. Tips paid to a
+driver are in addition to, and may not count towards, the minimum compensation rates re-
+quired under subsection (2) of this section.
+(b) Amounts charged to a passenger and remitted to  a driver for tolls, fees or other
+charges incurred by a driver during a dispatched trip may  not be counted in calculating the
+compensation rates under subsection (2) of this section.
+(8)(a) A transportation network company may not  withhold, deduct or divert any portion
+of a driver’s compensation unless:
+(A) The transportation network company is required to do so by law.
+(B) The deductions are voluntarily authorized in writing by the driver, are for  the
+driver’s benefit and are recorded in the transportation network company’s books.
+(C) The driver has voluntarily signed an authorization  for a deduction for any other item,
+provided that the ultimate recipient of the money withheld  is not the transportation network
+company and that the  deduction is recorded in the transportation network company’s books.
+(D) The deduction is authorized by a collective  bargaining agreement to which the
+transportation network company is a party.
+(E) The deduction  is authorized in writing by the driver to be contributed by the driver
+to charitable organizations, including contributions made pursuant to ORS 663.110.
+(F) The deduction is authorized under  ORS 18.736, provided the deduction does not reduce
+the driver’s compensation below the minimum compensation rates  required under subsection
+(2) of this section.
+(G) The deduction is made from the payment of compensation upon  termination and is
+authorized pursuant to a written agreement  between the driver and transportation network
+company for the repayment of a loan made to the driver by the  transportation network
+company, if all of the following conditions are met:
+(i) The driver has voluntarily signed the agreement;
+(ii) The loan was paid to the driver in cash or other medium permitted by ORS 652.110;
+(iii) The loan was made solely for the driver’s benefit and was not  used, either directly
+or indirectly, for any purpose required by the  transportation network company or connected
+with the driver’s network services with the transportation network company;
+(iv) The amount of the deduction at termination does  not exceed the amount permitted
+to be garnished under ORS 18.385; and
+(v) The deduction is recorded in the transportation network company’s books.
+(b) When a transportation network company deducts an amount  from a driver’s com-
+pensation as required or authorized by law  or agreement, the transportation network com-
+pany shall pay the amount deducted to the appropriate recipient as required by the law or
+agreement. The transportation network company shall pay the amount  deducted within the
+time required by the law or the agreement or, if the time for payment is not specified by the
+law or agreement, within seven days after the  date the compensation from which the de-
+ductions are made are due. Failure to pay the amount as required constitutes  an unlawful
+deduction.
+(c) This section does not:
+(A) Prohibit deductions  by checkoff dues to labor organizations or service fees when the
+deductions are not otherwise prohibited by law; or
+(B) Diminish or enlarge the right of any person to assert and enforce a lawful setoff or
+counterclaim or to attach, take, reach or apply a driver’s compensation  on due legal process.
+(9) In addition to any other sanctions  provided by law, a violation of this section is an
+unlawful practice. A  driver alleging an unlawful practice under this section may file a com-
+plaint with the Commissioner of the Bureau of Labor and  Industries in the manner provided
+by ORS 659A.820.
+ACCOUNT DEACTIVATIONS
+SECTION 3.
+Deactivation policy.  (1) A  transportation network company shall establish
+and maintain a written policy regarding account deactivation.  The transportation network
+company shall  make the policy available and accessible at all times to all drivers via the
+driver platform in the five most commonly spoken languages in this state. At  a minimum,
+the policy must:
+(a) Provide  circumstances and conduct that warrant account deactivation, including a
+statement that the  transportation network company may not impose an account deactivation
+against a driver unless for cause as described under section 4 of this 2025 Act.
+(b) Provide information about a driver’s right to appeal an account deactivation.
+(c) Using materials provided  by the driver resource center described in section 5 of this
+2025 Act, communicate  information about the right to representation and support from the
+driver resource center described in section 5 of this 2025 Act.
+(2) A transportation network company shall provide the policy to drivers as follows:
+(a) To  existing drivers, through electronic mail and any other means mostly commonly
+used to communicate with the drivers.
+(b) To new drivers, at the time the new drivers are brought onto the driver platform.
+(3)(a) A transportation network company shall provide a driver with notice of an  account
+deactivation:
+(A) At least 14 days before the account deactivation takes effect; and
+(B) At the time of an account deactivation.
+(b) Notice provided under this section must include:
+(A) The reason for the account deactivation, including the specific policies alleged to have
+been violated by the driver;
+(B) The anticipated length of the deactivation;
+(C) The start date on which the deactivation is set to begin;
+(D) Information regarding the  actions that a driver may take to dispute the account de-
+activation and seek reinstatement;
+(E) Information regarding  a driver’s right to appeal the account deactivation, including
+the processes by which a driver may make such an appeal;
+(F) Information regarding the  driver’s right to request representation throughout the
+appeals process; and
+(G) The contact information for the driver resource center described in section 5 of  this
+2025 Act.
+(4) The advanced notice requirements under this section do not apply to an account de-
+activation related to:
+(a) A driver’s rejection of a passenger because of  a passenger’s real or perceived age,
+race, ethnicity, color, national  origin, language, sex, gender identity, sexual orientation, re-
+ligion or disability;
+(b) Allegations of driving under the influence of drugs or alcohol;
+(c) Allegations of harassment, including sexual harassment; or
+(d) Allegations of physical or sexual assault against a passenger.
+(5) A transportation network company shall provide an opportunity for a driver to  appeal
+or seek resolution of disputes involving account deactivation through:
+(a) Private mediation services; or
+(b) An appeals process that meets the requirements described in subsection  (6) of this
+section.
+(6) If a transportation network company issues an  account deactivation, the transporta-
+tion network company must provide an appeals process that, at a minimum:
+(a) Provides a good faith, informal resolution process by which a  driver may seek resol-
+ution of a dispute regarding an account deactivation within 30  days of the driver notifying
+the transportation network company of the  driver’s intent to appeal the account deacti-
+vation.
+(b) Provides a formal process by which a driver may seek adjudication of  the matter be-
+fore a neutral third party who is mutually  agreed upon by the transportation network com-
+pany and the driver and who has:
+(A) A professional background in arbitration of labor disputes; and
+(B) The authority to make binding decisions and monetary  awards to ensure the injured
+party is made whole, including back pay, interest, liquidated and consequential damages.
+(c) Allows for the driver resource center, acting with the driver’s consent, to take  action
+on behalf of the driver and represent the driver on appeal.
+(d) Ensures that, in  the event that a driver is being represented by the driver resource
+center, all relevant information relied  upon by the transportation network company in de-
+termining to issue an account deactivation will  be disclosed to the driver resource center
+within seven  days after receiving a request to do so. Any disclosure under this paragraph
+must be provided in such a manner  that ensures the confidentiality of the information dis-
+closed.
+(e) Provides an  opportunity for a driver to receive training in lieu of an account deacti-
+vation based on circumstances other than those listed under subsection (4) of this section.
+SECTION 4.
+Just cause standard.  (1) As used in this section, “progressive discipline sys-
+tem” means a disciplinary system under which disciplinary measures involve graduated  and
+proportionate responses to a driver’s misconduct or failure to comply  with the policies of the
+transportation network company.
+(2) A transportation network company may not issue  an account deactivation against a
+driver unless the deactivation is for cause. For purposes of this section:
+(a) A transportation network  company issues an account deactivation for cause only if
+all of the following conditions are satisfied:
+(A) The transportation network company has notified  the driver of policies explaining the
+circumstances and conduct that warrant account deactivation;
+(B) The transportation network company’s policies regarding account deactivation  are
+applied consistently among drivers in similar circumstances;
+(C) A claim of a violation of the transportation network company’s policies  or a claim
+of misconduct is substantiated by satisfactory  evidence after a fair and objective investi-
+gation into the alleged misconduct;
+(D) The  policies or rules of the transportation network company regarding account de-
+activation are reasonably related to the ensuring safe and efficient operations; and
+(E) Any account deactivation imposed by the transportation network company is taken
+in accordance with a progressive discipline system that has been adopted by the  transporta-
+tion network company.
+(b) The transportation network  company has the burden of establishing by clear and
+convincing evidence that any account deactivation for cause  meets the conditions set forth
+in paragraph (a) of this subsection.
+SECTION 5.
+Driver resource center.  The Bureau  of Labor and Industries shall use an
+open and competitive bidding process to contract with a  nonprofit organization to provide
+financial support to the nonprofit organization to operate a  driver resource center dedicated
+to providing low-cost or no-cost support and assistance  to drivers, including but not limited
+to:
+(1) Representing drivers in appeals processes regarding account deactivations; and
+(2) Providing culturally competent assistance, training  and educational resources to
+drivers.
+SECTION 6.
+Driver Resource Center Fund.  (1) The Driver Resource Center Fund is es-
+tablished in the State Treasury, separate and distinct  from the General Fund. Interest
+earned by the Driver Resource Center Fund shall be credited to the fund.
+(2) The fund consists of moneys appropriated to  the Bureau of Labor and Industries by
+the Legislative Assembly and other moneys appropriated to, allocated  to, deposited in, cred-
+ited to or transferred to the fund by the Legislative Assembly or otherwise.
+(3) Moneys in the fund are continuously appropriated the bureau for purposes  described
+in section 5 of this 2025 Act.
+(4) Moneys in the fund may be used solely to carry out the purposes set forth in section
+5 of this 2025 Act, including the payment of administrative costs and expenses.
+SECTION 7. Appropriation. In addition to and not in lieu of any other appropriation,
+there is appropriated to the Bureau of Labor and Industries, for the  biennium beginning July
+1, 2025, out  of the General Fund, the amount of $250,000 for deposit in the Driver Resource
+Center Fund established by section 6 of this 2025 Act to be  expended as described in section
+5 of this 2025 Act.
+SECTION 8. Timelines. Not later than 120 days following the effective date of this 2025
+Act, the Bureau of Labor and Industries shall enter  into a contract with a nonprofit organ-
+ization to serve as the driver resource center described in section 5 of this 2025 Act.
+SICK LEAVE
+SECTION 9.
+Accrual. (1) A transportation network company shall implement  a sick time
+policy that allows a driver to accrue  at least one hour of paid sick time for every 30 hours
+of passenger platform time.
+(2)(a) Except as otherwise  provided in this section, a driver shall begin to earn and ac-
+crue sick time on the first day the driver is authorized to perform network services with  a
+transportation network company. The driver may carry over up to  40 hours of unused sick
+time from one  year to a subsequent year. If a driver carries over unused sick time to a
+subsequent year, accrual of sick time  in the subsequent year must be in addition to the
+hours accrued and carried over from the previous year.
+(b) A transportation network company:
+(A) May  adopt a policy that limits a driver to accruing no more than 80 total hours of
+sick time; and
+(B) May adopt a  policy that limits a driver to using no more than 40 hours of sick time
+in a year.
+(3) A  transportation network company is not required to carry over unused sick time if,
+by mutual consent, the transportation network company and a driver agree that the  driver
+will be paid for all unused paid sick time at the end of  the year in which the sick time is
+accrued and the transportation network company will credit  the driver with an amount of
+paid sick time that meets the requirements of this section on the  first day of the imme-
+diately subsequent year.
+(4)(a) A driver is eligible to use sick time upon recording 90 hours of  passenger platform
+time on the transportation network company’s driver platform and may use sick time as  it
+is accrued.
+(b) A transportation  network company may authorize a driver to use accrued sick time
+prior to the 90th hour of recorded passenger platform time.
+(c) A transportation network company shall pay a driver  for accrued paid sick time used
+at a rate that is equal to the average hourly compensation rate.
+(5)(a) Subject to paragraph (b) of this subsection, if a driver does  not record any pas-
+senger platform time in a transportation  network company’s driver platform for a period of
+180 or more consecutive days, the balance of any  sick time accrued and unused thus far shall
+be forfeited. Nothing in this paragraph requires the forfeiture of any passenger platform time
+recorded thus far.
+(b) If  a driver records any amount of passenger platform time within 180 days of the
+180-day period described in paragraph  (a) of this subsection, the transportation network
+company shall restore the driver’s accrued sick time  balance, which shall be available for the
+driver’s use upon recording 90 hours of passenger platform time  following the 180-day period.
+SECTION 10.
+Allowable uses of sick time.  A driver may use  sick time earned under sec-
+tion 9 of this 2025 Act:
+(1) For a driver’s mental  or physical illness, injury or health condition, need for medical
+diagnosis, care or treatment of a mental or  physical illness, injury or health condition or
+need for preventive medical care.
+(2) For care of a family member with a mental or physical illness, injury or  health con-
+dition, care of a family member who needs medical diagnosis, care or treatment of a  mental
+or physical illness, injury or health condition or  care of a family member who needs pre-
+ventive medical care.
+(3) To care for a child of the driver who is  suffering from an illness, injury or condition
+that requires home care or who requires  home care due to the closure of the child’s school
+or child care provider as a result of a public health emergency.
+(4) To address the death of a family member by:
+(a) Attending the funeral or alternative to a funeral of the family member;
+(b) Making arrangements necessitated by the death of the family member; or
+(c) Grieving the death of the family member.
+(5) Notwithstanding  the definitions of “covered employer” or “eligible employee” under
+ORS 659A.270, for any purpose described under ORS 659A.272.
+(6) To donate accrued sick time to another  driver if the other driver uses the donated
+sick time for a purpose specified in this section  and the transportation network company has
+a policy that allows a driver to donate sick time to another driver for a purpose specified  in
+this section.
+(7) In the event of a public health  emergency. For purposes of this subsection, a public
+health emergency includes but is not limited to:
+(a) An order by a public  official prohibiting the provision of network services due to a
+public health emergency;
+(b) A determination by a lawful public health authority or by  a health care provider that
+the presence of the driver or the family member of  the driver in the community would
+jeopardize the health of others, such that the driver  must provide self-care or care for the
+family member; or
+(c) The exclusion of the driver from the workplace under  any law or rule that requires
+the transportation network company to exclude the driver from the workplace for health
+reasons.
+(8) During a period of a driver’s account  deactivation, other than an account deactivation
+under section 3 (4) of this 2025 Act, or other  status that prevents the driver from performing
+network services on the transportation network company’s digital network.
+SECTION 11.
+Minimum use increments; notice to transportation network company.  (1)
+Upon request of a driver with  accrued sick time available, a transportation network company
+must allow the driver to use sick time. If possible, the driver shall  include the anticipated
+duration of the sick time requested in the request.
+(2) Sick time earned under this section shall be taken in hourly increments.
+(3)(a) A transportation network company shall establish an  accessible system for drivers
+to request and use sick time. The  system must be available to drivers on the driver platform.
+(b) The Commissioner of the Bureau of Labor and Industries shall adopt  rules that pre-
+scribe the minimum criteria for the system to ensure  that drivers have sufficient informa-
+tion to  understand and readily access their sick time. The minimum criteria may include,
+but need not be limited to:
+(A) Instructions and procedures for requesting to use sick time;
+(B) System capabilities to provide timely responses to requests to use sick time;
+(C) Information regarding accrued sick time balances; and
+(D) Information regarding how a driver’s current average hourly compensation rate  was
+calculated for a particular period.
+(4) A transportation  network company may require the driver to comply with the trans-
+portation network company’s usual and customary  notice and procedural requirements for
+absences or for requesting time off provided that those requirements  do not interfere with
+the ability of the driver to use sick time.
+(5)(a) If the need to use sick time is foreseeable, the transportation network company
+may require reasonable advance notice of  the driver’s intention to use sick time, not to ex-
+ceed 10 days prior to the date the sick time is to begin or as soon as otherwise practicable.
+(b) If the need to  use sick time is unforeseeable, the driver shall provide notice to the
+transportation network company as soon as practicable and must comply generally with  the
+transportation network company’s notice or procedural  requirements for requesting or re-
+porting other time off provided that those requirements do not interfere with the  ability of
+the driver to use sick time.
+(6) A transportation network  company may require verification from a health care pro-
+vider or certification of the  need for leave for a purpose described under section 10 of this
+2025 Act in the same manner and to the same extent permitted  under ORS 653.626. If a
+transportation network company requires verification or certification under this subsection,
+the transportation company shall compensate a driver for the use of  sick time not later than
+the driver’s next regularly scheduled date of compensation following the  transportation net-
+work company’s receipt of the requested verification or certification.
+(7) If a driver accepts a prescheduled ride during a period of time for which the  driver
+requested to use sick time, it shall be presumed that the driver did not use the sick time.
+(8) A transportation network company shall compensate a driver for any amount of sick
+time used by the driver at the time of the driver’s next  regularly scheduled date of com-
+pensation but not later than 14 days following the date on which the driver used sick time.
+SECTION 12.
+Accrual amount records.  (1) A transportation network company shall  pro-
+vide to each driver, on a weekly basis, written notification of the following:
+(a) The amount of accrued and unused sick time available for use by the driver.
+(b) The average hourly compensation rate based on passenger platform time  for the cal-
+endar month in which the sick time is used.
+(c) The amount of sick time used by a driver, if any.
+(d) Written notice of the requirements of section 9, 10, 11 and 12 of this  2025 Act in ac-
+cordance with rules adopted by the Commissioner of the Bureau of Labor and Industries.
+(2) The notices provided under this  section must be written in the five most commonly
+spoken languages in this state.
+(3) The Bureau of Labor and Industries shall make available to transportation  network
+companies a template that meets the required notice provisions of this section.
+(4) Health information of  a driver related to sick time is confidential and may not be
+released without the permission  of the driver. Information pertaining to leave for a purpose
+described under section 10 (5) of  this 2025 Act is confidential to the same extent that such
+information is confidential under ORS 659A.280.
+SECTION 13.
+Unlawful practices. (1) It is an unlawful practice for a transportation net-
+work company or any other person to:
+(a) Deny, interfere with, restrain or fail  to pay for sick time to which a driver is entitled
+under sections 9, 10, 11 and 12 of this 2025 Act;
+(b) Retaliate or in any way discriminate  against a driver with respect to any term or
+condition of providing network services because the driver  has inquired about the provisions
+of section 9, 10, 11 and  12 of this 2025 Act, submitted a request for sick time, taken sick time,
+participated in any manner in an investigation, proceeding or hearing related to this section,
+or invoked any provision of this section; or
+(c) Apply an absence control policy that  includes sick time absences covered under
+sections 9, 10, 11 and 12  of this 2025 Act as an absence that may lead to or result in an ad-
+verse action against the driver.
+(2) The Bureau of Labor and Industries may adopt  any rules necessary to implement the
+provisions of sections 9, 10, 11, 12 and 13 of this 2025 Act.
+TRIP RECEIPTS AND EARNINGS DOCUMENTATION
+SECTION 14.
+Driver and passenger receipts.  (1) A transportation network company must
+provide each  driver and passenger with dispatched trip receipt data as provided in this sec-
+tion.
+(2) Within 24 hours of a driver’s completion of  a dispatched trip, a transportation net-
+work company shall:
+(a) Issue to the driver dispatched trip receipts containing the following information  for
+each completed trip:
+(A) The total amount of passenger platform time.
+(B) The total amount of passenger platform miles.
+(C) The passenger fare.
+(D) The amount of dispatched platform  time, passenger platform time and passenger
+platform miles subject to the minimum compensation rates under section 2 of this  2025 Act.
+(E) Any adjustments  made to the passenger fare resulting from an applicable price or
+surge multiplier or other variable pricing policy in effect during the trip.
+(F) Tip amounts, if any.
+(G) The driver’s gross payment.
+(H) The net payment paid to the driver after deductions.
+(I) An itemized statement  of deductions for fees, tolls, commissions, lease fees and other
+charges.
+(J) Whether  a personal motor vehicle with the capacity to transport more than four
+passengers was needed for the dispatched trip.
+(K) Whether the trip was a prescheduled ride.
+(L) General details regarding the passenger pick-up  and passenger drop-off location that,
+at a minimum, provide the specific block number  at which the passenger pick-up and pas-
+senger drop-off occurred. Nothing in this paragraph prohibits a transportation network
+company from describing the details of the passenger  pick-up and passenger drop-off with a
+greater level of specificity.
+(b) Transmit, on behalf of the driver, an  electronic receipt containing the following in-
+formation to each passenger who paid a passenger fare:
+(A) The date and time of the dispatched trip.
+(B) General details regarding the  passenger pick-up and passenger drop-off location that,
+at a minimum, provide the specific block number  at which the passenger pick-up and pas-
+senger drop-off occurred. Nothing in this paragraph prohibits a transportation network
+company from describing the details of the passenger  pick-up and passenger drop-off with a
+greater level of specificity.
+(C) The total duration and distance of the dispatched trip.
+(D) The driver’s first name.
+(E) The total passenger fare paid, including an itemization of all charges and fees.
+(F) Tip amounts paid, if any.
+(G) Any portion of the passenger fare retained by the driver.
+(3) Each  transportation network company shall, on a weekly basis, provide a driver with
+a statement summarizing the dispatched trip information for all dispatched trips completed
+by the driver in the prior week. The statements shall include a summary of:
+(a) The driver’s total passenger platform time.
+(b) Total driver’s total passenger platform miles.
+(c) The amount of  dispatched platform time, passenger platform time and passenger
+platform miles subject to the minimum compensation rates under section 2 of this  2025 Act.
+(d) The total amount of tips, if any.
+(e) The driver’s gross payment, itemized by:
+(A) Rate per minute;
+(B) Rate per mile; and
+(C) Any adjustments made to the passenger fare resulting from  an applicable price or
+surge multiplier or other variable pricing policy in effect during the dispatched trip.
+(f) The net payment paid to the driver after deductions.
+(g) An itemized statement of deductions for fees, tolls, commissions, lease fees and  other
+charges.
+(h) The total amount of passenger fares.
+(4) A transportation network company shall make  the dispatched trip receipt information
+described under subsection (2) of this section available to drivers in a single  downloadable
+and searchable electronic file format. A transportation network company shall  maintain the
+information for not less than three years  after the date on which the transportation network
+company first issues the information to a  driver and make the information available for ex-
+amination by the driver.
+REPORTING AND RECORDKEEPING
+SECTION 15.
+Quarterly report.  Not later than  15 days following the end of each calendar
+quarter, each transportation network company shall compile data and submit a report  to the
+Bureau of Labor and Industries that includes the following information:
+(1) The number of drivers who  are affiliated with the transportation network company
+for purposes of providing network services.
+(2) The number of drivers who provided network  services in connection with the trans-
+portation network company in the quarter immediately preceding.
+(3) The number of dispatched trips in the previous quarter.
+(4) The number of dispatched trips subject to a surcharge imposed  by the transportation
+network company, including the amounts of the surcharge.
+(5) Aggregate account deactivation information, including:
+(a) The number of account deactivations issued by the transportation network company;
+(b) A description of the reasons for the account deactivations;
+(c) Account deactivation duration; and
+(d) The number of drivers who appealed an account deactivation, if any.
+(6) The aggregate percentage  of passenger platform miles for all drivers relative to the
+total miles driven by all drivers during available platform time, dispatched platform  time and
+passenger platform time.
+(7) Any other information deemed necessary by the bureau.
+SECTION 16.
+Monthly report.  (1) Each transportation network company shall,  on a
+monthly basis, prepare, compile and submit to the Bureau of  Labor and Industries reports,
+lists and data concerning the following:
+(a) For each period of  available platform time, dispatched platform time and passenger
+platform time, the distance travelled in miles and time spent in seconds  expressed as a per-
+cent carried to three decimal places.
+(b) Detailed information regarding available platform time, including the date  and start
+and stop times, rounded to the nearest second, of all available platform time.
+(c) Itemized driver compensation for each dispatched trip, including:
+(A) The applicable compensation rates as required by section 2 of this 2025 Act;
+(B) Any premiums applicable to a dispatched trip that required a personal motor  vehicle
+with capacity to transport more than four passengers;
+(C) Applicable surcharges;
+(D) Tip information; and
+(E) Applicable deductions.
+(d) For each dispatched trip, detailed trip information regarding the date, time  and pas-
+senger pick-up and passenger drop-off  locations exclusive of any personally identifiable driver
+information or approved unique identifiers.
+(e) Approved unique identifiers.
+(f) Passenger fares.
+(g) Information regarding new drivers who have joined  the platform since the last report.
+(h) Any other information deemed necessary by the bureau.
+(2) The Commissioner of the Bureau  of Labor and Industries may adopt rules governing
+the preparation, compilation and submission  of the information described under this section.
+The rules may include, but need not be limited to, requirements:
+(a) Regarding the security and privacy of the information.
+(b) For submitting the information using approved unique identifiers that aggregate a
+driver’s information across multiple driver platforms.
+(c) For data aggregation for purposes of summarizing the  disaggregated data required to
+be reported to the bureau under this section.
+SECTION 17.
+Reporting timelines. Each transportation network company shall:
+(1) Submit the first monthly report required under section 16  of this 2025 Act not later
+than nine months following the effective date of this 2025 Act.
+(2) Submit the first quarterly  report required under section 15 of this 2025 Act for the
+quarter immediately following the date on which the first monthly  report prescribed in sub-
+section (1) of this section was submitted.
+SECTION 18.
+Annual report to the legislature.  Not later than December 15 of each  year,
+the Bureau of Labor and Industries shall compile and report to the committees of the Leg-
+islative Assembly  related to business and labor a summary of information received by the
+bureau pursuant to sections 15 and  16 of this 2025 Act for the prior year. The bureau shall
+submit the report, in the manner provided  in ORS 192.245, and may include recommendations
+for legislation.
+SECTION 18a.
+The Bureau of Labor and Industries  shall submit the first report required
+under section  18 of this 2025 Act to the committees of the Legislative Assembly related to
+business and labor not later than December 15, 2026.
+SECTION 19. Transportation network company recordkeeping. Each transportation
+network company shall:
+(1) Keep and maintain records necessary to demonstrate compliance with sections 2, 3,
+4, 9, 10, 11, 12, 14, 15 and 16 of this 2025 Act;
+(2) Keep and maintain the records described under this section for  a period of at least
+three years; and
+(3) Provide records kept and maintained under  this section to the Bureau of Labor of
+Industries upon request.
+TASK FORCE ON ENSURING MEANINGFUL ACCESS TO BENEFITS
+FOR TRANSPORTATION NETWORK COMPANY DRIVERS
+SECTION 20. Task force.  (1) The Task Force on Ensuring Meaningful Access to  Benefits
+for Transportation Network Company Drivers is established.
+(2)(a) The task force consists of at least seven but not more than 13 members who  shall
+be appointed by the Commissioner of the Bureau of Labor and Industries as follows:
+(A) Three members who provide driver representation services through the driver re-
+source center described under section 5 of this 2025 Act.
+(B) One representative  from each of up to three transportation network companies op-
+erating in this state.
+(C) Up to six members representing key stakeholders as deemed necessary by the Com-
+missioner of the Bureau of Labor and Industries.
+(D) One member who represents the Bureau of Labor and Industries.
+(b) The term of a member of the task force  appointed under this subsection is two years
+and a member may be reappointed.
+(3) The representative of the Bureau of Labor and  Industries appointed to the task force
+under subsection (2) of this section shall serve as chairperson of the task  force. The com-
+missioner shall designate one member appointed under subsection (2) of this section to serve
+as vice chairperson.
+(4) The task force shall:
+(a) Recognize and consider the  specific and unique barriers that drivers may face related
+to access to, enrollment in and utilization  of benefits, and craft policy recommendations to
+overcome those barriers.
+(b) Evaluate issues related to eligibility to perform network services,  access to the driver
+platform and utilization of work-related  benefits for and by transportation network company
+drivers.
+(c) Prepare policy recommendations  that ensure full and meaningful access to benefits
+for drivers, including but not limited to:
+(A) Paid family and medical leave benefits;
+(B) Unemployment insurance compensation benefits; and
+(C) Workers’ compensation benefits.
+(d) Consider all available platform time, dispatched platform  time and passenger platform
+time and drivers’ total earnings when preparing the policy recommendations  under para-
+graph (c) of this subsection.
+(5) A majority of the members of the task  force constitutes a quorum for the transaction
+of business.
+(6) Official action by the task force requires the approval of a majority of  the members
+of the task force.
+(7) If there  is a vacancy for any cause, the appointing authority shall make an appoint-
+ment to become immediately effective.
+(8) Subject to subsection (9) of this section, the task force shall meet at times and places
+specified by the chairperson or of a majority of the members of the task force.
+(9) The  task force shall have its first meeting no later than 60 days after a contract has
+been entered into under section 8 of this 2025 Act.
+(10) The task force may adopt rules necessary for the operation of the task force.
+(11) The task force shall submit a report  in the manner provided by ORS 192.245 that sets
+forth the findings and recommendations made by the task force  under this section, and may
+include recommendations for legislation, to the interim committee of  the Legislative As-
+sembly related to business and labor no later than December 15, 2026.
+(12) The  Commissioner of the Bureau of Labor and Industries may employ persons nec-
+essary for the performance of the functions of the task force. The Commissioner of  the Bu-
+reau of Labor and Industries shall fix the duties and amounts of  compensation of the
+employees.
+(13) All agencies of state government, as  defined in ORS 174.111, are directed to assist
+the task force in the performance of  the duties of the task force and, to the extent permitted
+by laws relating to confidentiality, to furnish to the task force information that  the task
+force considers necessary to perform the duties of the task force.
+DRIVER PROTECTIONS
+SECTION 21.
+Notice of  rights.  Each transportation network company shall provide a
+written notice of rights to every driver who provides transportation services in  connection
+with the transportation network company. The notice shall:
+(1) Be written in plain language and in the five most commonly  spoken languages in this
+state;  and
+(2) Include information regarding a driver’s right to:
+(a) Receive compensation in accordance with the  standards under section 2 of this 2025
+Act;
+(b) Accrue and use sick time in accordance with the standards under sections 9, 10 and
+11 of this 2025 Act;
+(c) Be free from retaliation for inquiring about or exercising the  rights afforded to driv-
+ers under sections 1 to 25 of this 2025 Act; and
+(d) Pursue remedies in accordance with section 24 of this 2025 Act.
+SECTION 22.
+Retaliation. It is an unlawful practice under ORS chapter 659A for  a
+transportation network company  to retaliate or take adverse action against a driver for in-
+quiring about or exercising any right afforded  to the driver under sections 1 to 25 of this 2025
+Act.
+ENFORCEMENT
+SECTION 23. Enforcement.  (1)  The Bureau of Labor and Industries shall administer and
+enforce sections 1 to  25 of this 2025 Act and may adopt or establish rules and procedures that
+the bureau considers necessary or appropriate for such administration and enforcement.
+(2) The Commissioner of  the Bureau of Labor and Industries has the same enforcement
+powers with respect to the rights established under sections 2, 4,  9, 10, 11, 12 and 13 of this
+2025 Act as are established in ORS chapters 652 and 653.
+(3) In addition to any other powers granted to the  bureau under state law, the bureau
+has the authority to:
+(a) Commence an investigation of any complaint filed alleging a  violation of sections 1 to
+25 of this 2025 Act and may make inquiries and conduct the investigations  in the same
+manner and to the extent provided under ORS 659A.835.
+(b) Investigate policies and practices of  transportation network companies to ensure
+compliance with the provisions of sections 1 to 25 of this 2025 Act.
+(c) Initiate investigations when the commissioner has  reason to believe that a transpor-
+tation network company has committed an unlawful practice or  violated any provision of
+sections 1 to 25 of this 2025 Act.
+SECTION 24. Remedies. (1) Notwithstanding the definition of “employee”  under ORS
+652.310 and the definition of  “wage claim” under ORS 652.320, and regardless of whether a
+driver is classified as an employee or an independent contractor, a driver has the same rights
+and protections provided under ORS 652.310 to 652.314, including the right to file a wage claim
+with the Bureau of Labor and Industries.
+(2) In addition to any other relief provided by law, a  driver claiming to be aggrieved by
+an unlawful practice in violation of sections 1 to 25 of this  2025 Act may file a complaint with
+the Commissioner of the Bureau of Labor and  Industries in the manner provided by ORS
+659A.820 or bring a civil action under ORS 659A.885.
+(3)(a) In addition to any other relief provided by law, the Commissioner  of the Bureau
+of Labor and Industries may assess a civil penalty of $1,000 against a  transportation network
+company that has  violated any provision under sections 1 to 25 of this 2025 Act or any rule
+adopted under sections 1 to 25 of this 2025 Act.  Each violation is a separate and distinct of-
+fense. In the case of a continuing violation, each day’s continuance is a separate  and distinct
+violation.
+(b) Civil penalties under this subsection shall be imposed in the manner provided in  ORS
+183.745.
+(4) Notwithstanding subsection (3) of  this section, the commissioner shall waive 50 per-
+cent of any civil penalty imposed on a transportation network company  by order under this
+section if the transportation  network company provides evidence satisfactory to the com-
+missioner that the transportation network company paid the full remedy due, not including
+any civil penalty, within 14 days after the order imposing the civil remedy became final by
+operation of law or on appeal.
+(5) Not later than April 30 of each year, the Commissioner of the  Bureau of Labor and
+Industries shall calculate an adjustment  to the penalty amount specified in this section based
+upon the increase, if any, from the preceding year to March of  the year in which the calcu-
+lation is made in  the U.S. City Average Consumer Price Index for All Urban Consumers,
+West Region (All Items) as prepared by the  Bureau of Labor Statistics of the United States
+Department of Labor or its successor.
+(6) Notwithstanding any other  provision of law, a driver’s classification status as an in-
+dependent contractor or an  employee shall not limit, restrict, diminish or constrain a
+driver’s right to pursue a remedy under this section.
+SECTION 25.
+Minimum requirements.  (1) Sections 1 to 25 of this 2025 Act establish min-
+imum requirements pertaining to compensation, benefits and protections for drivers.
+(2) Nothing in sections 1 to 25 of this 2025 shall be  construed to limit or otherwise affect
+the applicability of any transportation network company policy, standard, contract or  other
+agreement that provides compensation and drivers protections that are more generous than
+the minimum requirements of sections 1 to 25 of this 2025 Act for the benefit of workers.
+CAPTIONS
+SECTION 26.
+Captions. The unit and section captions used in this 2025 Act are provided
+only for the convenience of the reader  and do not become part of the statutory law of this
+state or express any legislative intent in the enactment of this 2025 Act.
+EFFECTIVE DATE
+SECTION 27. Effective date.  This 2025 Act being  necessary for the immediate preserva-
+tion of  the public peace, health and safety, an emergency is declared to exist, and this 2025
+Act takes effect July 1, 2025.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 174.111, ORS 18.385, ORS 18.736, ORS 183.745, ORS 192.245, ORS 652.110, ORS 652.310, ORS 652.320, ORS 653.025, ORS 653.626, ORS 659A.270, ORS 659A.272, ORS 659A.280, ORS 659A.820, ORS 659A.835, ORS 659A.885, ORS 663.110, ORS 742.518
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `1c44be602be0fadbbdfc4c36b9c9b926d629db52d47c1778e7f2eebbfad4932f` (snapshot `_meta/snapshots/measure-2025r1-sb1166-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1166/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1166> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

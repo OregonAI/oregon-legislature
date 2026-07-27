@@ -1,0 +1,3340 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4063
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Housing and Homelessness for Representative Maxine Dexter)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The  Act makes counties plan for areas of Metro that are not in a city, lets home builders
+use updated  local rules, lets real estate agents accept love letters, amends middle housing land di-
+visions and mobile home registrations, lets sick or injured tenants pay rent late and lets city  staff
+grant or end tax exemption for single-unit housing. (Flesch Readability Score: 63.8).
+Requires Metro counties to plan for the housing needs of Metro urban unincorporated lands.
+Allows a housing developer with  a pending application to opt in to amended local land use
+regulations.
+Allows sellers’ real estate agents to accept irregular documents from buyers.
+Allows serial middle housing land partitions to be  considered a single partition. Extends the
+applicability of middle housing land divisions to townhouses.
+Removes requirements that a manufactured dwelling owner register the dwelling with the  De-
+partment of Consumer and Business  Services or cancel the registration before obtaining a mortgage
+recorded in the county real property records.
+Delays the deadlines for purposes of late fees or evictions by which tenants must pay  rent dur-
+ing, and up to three days after, the tenants’ hospitalization.
+Allows a city to administratively approve  or terminate the property tax exemption for single-
+unit housing.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to housing; creating new provisions; amending ORS 90.100, 90.260, 90.394, 90.555,  90.634,
+92.010, 92.031, 92.060, 92.305, 92.325, 92.425, 184.451, 184.453,  184.455, 197.320, 197.480, 197.492,
+197.522, 197A.015, 197A.018, 197A.025, 197A.210,  197A.215, 197A.300, 197A.302, 197A.325,
+197A.335, 197A.348, 197A.362, 197A.420, 215.427, 227.178, 307.674, 307.681, 446.571, 446.626 and
+696.805; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+NEEDED HOUSING PLANNING IN UNINCORPORATED METRO
+SECTION 1.
+ ORS 197A.015 is amended to read:
+197A.015. As used in [ ORS 197.475 to 197.493 and ORS chapter 197A ] this chapter :
+(1) “Allocated housing need” means the housing need allocated to a city  under ORS 184.453 (2)
+as segmented by income level under ORS 184.453 (4).
+(2) “Buildable lands” means lands in urban and urbanizable areas  that are suitable, available
+and necessary for the development  of needed housing over a 20-year planning period, including both
+vacant land and developed land likely to be redeveloped.
+(3) “City” and “city with a population of 10,000 or greater” includes, regardless of size[ ,]:
+(a) Any city within Tillamook County and the communities of Barview/Twin Rocks/Watseco,
+Cloverdale, Hebo, Neahkahnie, Neskowin, Netarts, Oceanside and Pacific City/Woods[ .]; and
+(b) A county with respect to its jurisdiction over Metro urban unincorporated lands.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 40
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(4) “Development-ready lands” means buildable lands that  are likely to support the production
+of housing during the period of their housing production target under ORS 184.455 (1) because the
+lands are:
+(a) Currently annexed and zoned to allow housing through clear and objective standards and
+procedures;
+(b) Readily served through adjacent public facilities  or identified for the near-term provision of
+public facilities through an adopted capital improvement plan; and
+(c) Not encumbered by  any applicable local, state or federal protective regulations or have ap-
+propriate entitlements to prepare the land for development.
+(5) “Government assisted housing” means housing that  is financed in whole or part by either a
+federal or state housing agency or a housing authority as defined in  ORS 456.005, or housing that
+is occupied by a tenant or tenants who benefit  from rent supplements or housing vouchers provided
+by either a federal or state housing agency or a local housing authority.
+(6) “Housing capacity” means the number of needed housing units that can  be developed on
+buildable lands within the 20-year planning period based on the land’s comprehensive  plan desig-
+nation and capacity for housing development and redevelopment.
+(7) “Housing production strategy” means a strategy adopted by a local government to  promote
+housing production under ORS 197A.100.
+(8) “Manufactured dwelling,”  “manufactured dwelling park,” “manufactured home” and “mobile
+home park” have the meanings given those terms in ORS 446.003.
+(9) “Metro urban unincorporated lands” means lands within the  Metro urban growth
+boundary that is identified by the county as:
+(a) Not within a city;
+(b) Zoned for urban development;
+(c) Within the boundaries of a sanitary district or sanitary  authority formed under ORS
+chapter 450;
+(d) Within the boundaries of water system subject to regulation as described  in ORS
+448.119; and
+(e) Not zoned with an interim zoning designation to maintain the land’s potential  for fu-
+ture urbanization.
+[(9)] (10)  “Periodic review” means the process and procedures as set  forth in ORS 197.628 to
+197.651.
+[(10)] (11) “Prefabricated structure” means a  prefabricated structure, as defined in ORS 455.010,
+that is relocatable, more than eight and  one-half feet wide and designed for use as a single-family
+dwelling.
+SECTION 2.
+Sections 3 and 4 of this 2024 Act are added to  and made a part of ORS
+chapter 197A.
+SECTION 3. (1) As used  in this section, “Metro urbanizable lands” means lands within
+the Metro urban growth boundary that is not within a city and is not Metro  urban
+unincorporated land.
+(2) In fulfilling a requirement to comply with this  chapter, a local government may plan
+for the appropriate urbanization of Metro urbanizable  lands, by using methods including ad-
+jacent urbanizable lands:
+(a) In an intergovernmental agreement;
+(b) In  a housing production strategy, housing coordination strategy or corrective action
+[2]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+plan under ORS 197A.100, 197A.365 or 197A.372; or
+(c) To accommodate  needed housing identified in an analysis of housing capacity under
+ORS 197A.335 or 197A.350.
+(3) Except as may be explicitly delegated in an intergovernmental  agreement, counties
+are solely responsible for complying with this chapter  with respect to Metro urban
+unincorporated lands that are within their jurisdiction.
+SECTION 4.
+As part of its agency  request budget, as described in ORS 291.206, for the
+biennium beginning July 1, 2025, the Department  of Land Conservation and Development
+shall include one or more requests for appropriations to the department to  implement this
+chapter and statewide land use planning goals related to housing and urbanization  within
+Metro urban unincorporated lands by providing technical and financial support to:
+(1) Counties to amend their  comprehensive plans, land use regulations and procedures
+and to implement land use planning; and
+(2) Local governments and special  districts to plan for adequate infrastructure and to
+support development-readiness for housing.
+SECTION 5.  ORS 184.451 is amended to read:
+184.451. (1) There is established within the Oregon Department of  Administrative Services the
+Oregon Housing Needs Analysis. The purposes of the Oregon Housing Needs Analysis  are to further
+the:
+(a) Production of housing to meet the need of Oregonians at all levels of affordability; and
+(b) Production of housing in a way that  creates more housing choice by affirmatively furthering
+fair housing, as defined in ORS 197A.100.
+(2) The Oregon Housing Needs Analysis consists of three components as follows:
+(a) The annual statewide housing analysis under ORS 184.453 (1);
+(b) The allocated housing need under ORS 184.453 (2); and
+(c) The housing production targets under ORS 184.455.
+(3) Actions taken by the department under ORS 184.451 to 184.455 are  not subject to ORS
+197.180 and are not land use decisions.
+(4) The  Department of Land Conservation and Development and the Housing and Community
+Services Department:
+(a) Shall assist the Oregon Department of Administrative Services with its duties under ORS
+184.451 to 184.455.
+(b) May study and recommend methodological  changes to the Oregon Department of Adminis-
+trative Services to improve the Oregon  Housing Needs Analysis’ functions and suitability for its
+purposes under subsection (1) of this section. The departments shall solicit written and oral  public
+testimony to inform their recommendations.
+(5) As used in ORS 184.451 to  184.455, “city” [ or] and “city with a population of 10,000 or
+greater” [ includes cities, as defined in  ORS 197A.015, and urban unincorporated communities in
+Metro, as defined in ORS 197.015 ] have the meanings given those terms in ORS 197A.015 .
+SECTION 6.
+ ORS 184.453 is amended to read:
+184.453. (1) On an annual basis the Oregon Department of Administrative Services shall  conduct
+a statewide housing analysis. The analysis must be  conducted statewide and segmented into regions
+as determined by the department. The analysis shall estimate factors including, but not limited to:
+(a) Projected needed housing units over the next 20 years;
+(b) Current housing underproduction;
+[3]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Housing units needed for people experiencing homelessness; and
+(d) Housing units  projected to be converted into vacation homes or second homes during the
+next 20 years.
+(2) At the time the department performs the housing analysis under subsection  (1) of this sec-
+tion, the department shall allocate a housing need  for each city.  Allocations for Metro urban
+unincorporated land, as defined in ORS 197A.015, must be combined for each county in Metro.
+(3) In making an allocation under subsection (2) of this section, the department shall consider:
+(a) The forecasted population growth under ORS 195.033 or 195.036;
+(b) The forecasted regional job growth;
+(c) An equitable  statewide distribution of housing for income levels described in subsection (4)
+of this section;
+(d) The estimates made under subsection (1) of this section;
+(e) For cities within Metro, the needed housing projected under ORS 197A.348 (2); and
+(f) The purpose of the Oregon Housing Needs Analysis under ORS 184.451 (1).
+(4) In  estimating and allocating housing need under this section, the department shall segment
+need by the following income levels:
+(a) Housing affordable to households making less than 30 percent of median family income;
+(b) Housing affordable to households making 30 percent or more and less than  60 percent of
+median family income;
+(c) Housing affordable to households  making 60 percent or more and less than 80 percent of
+median family income;
+(d) Housing affordable to households making 80 percent or more and less than 120  percent of
+median family income; and
+(e) Housing affordable to households making 120 percent or more of median family income.
+OPTING IN TO AMENDED HOUSING
+DEVELOPMENT REGULATIONS
+SECTION 7.
+ ORS 215.427 is amended to read:
+215.427. (1) Except as provided in subsections (3), (5) and (10) of this  section, for land within an
+urban growth boundary and applications for mineral aggregate extraction, the governing  body of a
+county or its  designee shall take final action on an application for a permit, limited land use deci-
+sion or zone change, including resolution of all appeals  under ORS 215.422, within 120 days after the
+application is deemed complete. The governing body of a county or its designee shall take  final
+action on all  other applications for a permit, limited land use decision or zone change, including
+resolution of all appeals under ORS 215.422, within 150 days after the application is deemed com-
+plete, except as provided in subsections (3), (5) and (10) of this section.
+(2) If an application for a permit, limited land use decision or  zone change is incomplete, the
+governing body or its designee shall notify  the applicant in writing of exactly what information is
+missing within 30 days of receipt of the application  and allow the applicant to submit the missing
+information. The application shall be deemed  complete for the purpose of subsection (1) of this sec-
+tion and ORS 197A.470 upon receipt by the governing body or its designee of:
+(a) All of the missing information;
+(b) Some of the missing information and written notice  from the applicant that no other infor-
+mation will be provided; or
+[4]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Written notice from the applicant that none of the missing information will be provided.
+(3)(a) If the application was complete when first submitted or  the applicant submits additional
+information[ , as described in subsection (2) of  this section, ] within 180 days of the date the application
+was first submitted [ and the county has a comprehensive plan and  land use regulations acknowledged
+under ORS 197.251 ], approval or denial of the application [ shall be based ] must be based:
+(A) Upon the standards and criteria that were applicable at the time the application was  first
+submitted[.]; or
+(B) For an application to establish a residential use, upon the request of the applicant,
+those standards and criteria that became operative during the pendency of the application.
+(b) If an applicant requests review under different standards  as provided in paragraph
+(a)(B) of this subsection:
+(A) For the purposes of  this section, the date of the application’s submission or receipt
+is the date of the request;
+(B) For  the purposes of this section and ORS 197A.470 the application is not deemed
+complete until:
+(i) The county determines that additional information is  not required under subsection
+(2) of this section; or
+(ii) The applicant makes a submission under subsection (2) of this section in response to
+a county’s request; and
+(C) The county may not require that the applicant:
+(i) Pay a duplicative fee based on completed review;
+(ii) Resubmit a new application or duplicative information; or
+(iii) Repeat redundant processes or  hearings that are inapplicable to the change in stan-
+dards or criteria.
+[(b) If the application is for industrial  or traded sector development of a site identified under sec-
+tion 12, chapter 800, Oregon Laws 2003, and proposes an amendment to the comprehensive  plan, ap-
+proval or denial of the application must be based  upon the standards and criteria that were applicable
+at the  time the application was first submitted, provided the application complies with paragraph (a)
+of this subsection. ]
+(4) On the 181st  day after first being submitted, the application is void if the applicant has been
+notified of the missing information as required under subsection (2) of this section and has not sub-
+mitted:
+(a) All of the missing information;
+(b) Some of the missing  information and written notice that no other information will be pro-
+vided; or
+(c) Written notice that none of the missing information will be provided.
+(5) The period set in subsection (1) of this section or the 100-day period  set in ORS 197A.470
+may be extended for a specified period of  time at the written request of the applicant. The total of
+all extensions, except as  provided in subsection (10) of this section for mediation, may not exceed
+215 days.
+(6) The period set in subsection (1) of this section applies:
+(a) Only to decisions wholly within the authority and control of the governing body of the
+county; and
+(b) Unless the parties have agreed  to mediation as described in subsection (10) of this section
+or ORS 197.319 (2)(b).
+[5]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(7) Notwithstanding subsection (6) of  this section, the period set in subsection (1) of this section
+and the 100-day period set in ORS 197A.470 do not apply to:
+(a) A  decision of the county making a change to an acknowledged comprehensive plan or a land
+use regulation that is submitted to the Director of the Department of Land Conservation and De-
+velopment under ORS 197.610; or
+(b) A decision of a  county involving an application for the development of residential structures
+within an urban growth boundary, where the county has tentatively approved the application and
+extends these periods by no more than seven  days in order to assure the sufficiency of its final or-
+der.
+(8) Except when an applicant requests an extension under subsection  (5) of this section, if the
+governing body of the county or its designee does not take final action on an application for  a
+permit, limited land use decision or zone change within 120 days or 150 days, as applicable, after
+the application is deemed complete, the county  shall refund to the applicant either the unexpended
+portion of any application  fees or deposits previously paid or 50 percent of the total amount of such
+fees or deposits, whichever is greater. The applicant is  not liable for additional governmental fees
+incurred subsequent to the payment of such fees or deposits.  However, the applicant is responsible
+for the costs of providing sufficient additional information  to address relevant issues identified in
+the consideration of the application.
+(9) A county may not compel an applicant to waive  the period set in subsection (1) of this sec-
+tion or to waive the provisions of subsection (8)  of this section or ORS 197A.470 or 215.429 as a
+condition for taking any action on an application for a permit, limited land use decision or  zone
+change except when such applications are filed concurrently  and considered jointly with a plan
+amendment.
+(10) The periods  set forth in subsections (1) and (5) of this section and ORS 197A.470 may be
+extended by up to 90 additional days, if the applicant and the county agree that a dispute concerning
+the application will be mediated.
+SECTION 8.
+ ORS 227.178 is amended to read:
+227.178. (1) Except as provided in subsections (3), (5) and (11) of this  section, the governing body
+of a city or its designee  shall take final action on an application for a permit, limited land use de-
+cision or zone change, including resolution of all appeals under  ORS 227.180, within 120 days after
+the application is deemed complete.
+(2) If an application for a permit, limited land use decision or  zone change is incomplete, the
+governing body or its designee shall notify  the applicant in writing of exactly what information is
+missing within 30 days of receipt of the application  and allow the applicant to submit the missing
+information. The application shall be deemed  complete for the purpose of subsection (1) of this sec-
+tion or ORS 197A.470 upon receipt by the governing body or its designee of:
+(a) All of the missing information;
+(b) Some of the missing information and written notice  from the applicant that no other infor-
+mation will be provided; or
+(c) Written notice from the applicant that none of the missing information will be provided.
+(3)(a) If the application was complete when first submitted or the applicant submits the re-
+quested additional information within 180 days  of the date the application was first submitted [ and
+the city  has a comprehensive plan and land use regulations acknowledged under ORS 197.251 ], ap-
+proval or denial of the application [ shall] must  be based :
+(A) Upon the standards and criteria that were applicable at the time the application was  first
+[6]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+submitted[.]; or
+(B) For an application to establish a residential use, upon the request of the applicant,
+those standards and criteria that became operative during the pendency of the application.
+(b) If an applicant requests review under different standards  as provided in paragraph
+(a)(B) of this subsection:
+(A) For the purposes of  this section, the date of the application’s submission or receipt
+is the date of the request;
+(B) For  the purposes of this section and ORS 197A.470 the application is not deemed
+complete until:
+(i) The city determines that additional information is not required under subsection (2)
+of this section; or
+(ii) The applicant makes a submission under subsection (2) of this section in response to
+a city’s request; and
+(C) The city may not require that the applicant:
+(i) Pay a duplicative fee based on completed review;
+(ii) Resubmit a new application or duplicative information; or
+(iii) Repeat redundant processes or hearings that are inapplicable to  the change in stan-
+dards or criteria.
+[(b) If the application is for industrial or traded sector development  of a site identified under sec-
+tion 12, chapter  800, Oregon Laws 2003, and proposes an amendment to the comprehensive plan, ap-
+proval or denial of the application must be based  upon the standards and criteria that were applicable
+at the time the application was first submitted, provided the application complies with paragraph  (a)
+of this subsection. ]
+(4) On the 181st  day after first being submitted, the application is void if the applicant has been
+notified of the missing information as required under subsection (2) of this section and has not sub-
+mitted:
+(a) All of the missing information;
+(b) Some of the missing  information and written notice that no other information will be pro-
+vided; or
+(c) Written notice that none of the missing information will be provided.
+(5) The 120-day period set in subsection (1) of this  section or the 100-day period set in ORS
+197A.470 may be extended for a specified period of time at  the written request of the applicant. The
+total of  all extensions, except as provided in subsection (11) of this section for mediation, may not
+exceed 245 days.
+(6) The 120-day period set in subsection (1) of this section applies:
+(a) Only to decisions wholly within the authority and control of the governing body of the  city;
+and
+(b) Unless the parties have agreed  to mediation as described in subsection (11) of this section
+or ORS 197.319 (2)(b).
+(7) Notwithstanding subsection (6) of this section, the 120-day period set in subsection (1) of this
+section and the 100-day period set in ORS 197A.470 do not apply to:
+(a) A decision of the city making a change to an acknowledged comprehensive  plan or a land
+use regulation that is submitted to the Director of the Department of Land Conservation and De-
+velopment under ORS 197.610; or
+(b) A decision of a city  involving an application for the development of residential structures
+[7]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+within an urban growth boundary, where the city has tentatively approved the application and  ex-
+tends these periods by no more than seven days in order to  assure the sufficiency of its final order.
+(8) Except when an applicant requests an  extension under subsection (5) of this section, if the
+governing body of the city or its designee does not take final action on  an application for a permit,
+limited land use decision or zone  change within 120 days after the application is deemed complete,
+the city shall refund to the applicant, subject to the provisions of subsection  (9) of this section, ei-
+ther the unexpended portion of any application fees  or deposits previously paid or 50 percent of the
+total amount of such fees or deposits, whichever is greater. The applicant  is not liable for additional
+governmental fees incurred subsequent to the payment of  such fees or deposits. However, the ap-
+plicant is responsible for the costs of providing sufficient  additional information to address relevant
+issues identified in the consideration of the application.
+(9)(a) To obtain a refund under subsection (8) of this section, the applicant may either:
+(A) Submit a written  request for payment, either by mail or in person, to the city or its designee;
+or
+(B) Include the amount claimed in a mandamus petition filed under ORS  227.179. The court shall
+award an amount owed under this section in its final order on the petition.
+(b) Within seven calendar days of  receiving a request for a refund, the city or its designee shall
+determine the amount of any refund owed. Payment, or notice that no payment is  due, shall be made
+to the applicant  within 30 calendar days of receiving the request. Any amount due and not paid
+within 30 calendar days of receipt of the request shall be subject to interest  charges at the rate of
+one percent per month, or a portion thereof.
+(c) If payment due under paragraph (b) of this subsection is not paid within 120 days  after the
+city or its designee receives the refund  request, the applicant may file an action for recovery of the
+unpaid refund. In an action brought by a person  under this paragraph, the court shall award to a
+prevailing applicant, in addition to the relief provided in  this section, reasonable attorney fees and
+costs at trial and  on appeal. If the city or its designee prevails, the court shall award reasonable
+attorney fees and costs at trial and on appeal if the court finds the petition to be frivolous.
+(10) A  city may not compel an applicant to waive the 120-day period set in subsection (1) of this
+section or to waive the provisions of subsection (8) of this section or ORS 197A.470 or 227.179 as a
+condition for taking any action on an application for a permit, limited land use decision or  zone
+change except when such applications are filed concurrently  and considered jointly with a plan
+amendment.
+(11) The periods  set forth in subsections (1) and (5) of this section and ORS 197A.470 may be
+extended by up to 90 additional days, if the  applicant and the city agree that a dispute concerning
+the application will be mediated.
+REALTOR REJECTION OF DOCUMENTS
+SECTION 9.
+ ORS 696.805 is amended to read:
+696.805. (1) A real estate licensee who acts under a listing agreement with the seller acts  as the
+seller’s agent only.
+(2) A seller’s agent owes the seller, other principals and the  principals’ agents involved in a real
+estate transaction the following affirmative duties:
+(a) To deal honestly and in good faith;
+(b) To present all written offers, written notices and other written communications to and from
+[8]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the parties in a timely manner without regard to whether the property  is subject to a contract for
+sale or the buyer is already a party to a contract to purchase; and
+(c) To disclose material facts known by the seller’s agent and  not apparent or readily
+ascertainable to a party.
+(3) A seller’s agent  owes the seller involved in a real estate transaction the following affirmative
+duties:
+(a) To exercise reasonable care and diligence;
+(b) To account in a timely manner for money  and property received from or on behalf of the
+seller;
+(c) To be loyal to the seller by not taking action that is adverse or detrimental  to the seller’s
+interest in a transaction;
+(d) To disclose in  a timely manner to the seller any conflict of interest, existing or contemplated;
+(e) To advise  the seller to seek expert advice on matters related to the transaction that are
+beyond the agent’s expertise;
+(f) To maintain confidential information from or about the seller  except under subpoena or court
+order, even after termination of the agency relationship; and
+(g) Unless agreed otherwise in writing, to make a continuous, good faith effort to find  a buyer
+for the property,  except that a seller’s agent is not required to seek additional offers to purchase
+the property while the property is subject to a contract for sale.
+(4) A seller’s agent may show properties owned by another seller  to a prospective buyer and
+may list competing properties for sale without breaching any affirmative duty to the seller.
+(5) Except as  provided in subsection (3)(g) of this section, an affirmative duty may not be waived.
+(6) Nothing in  this section implies a duty to investigate matters that are outside the scope of
+the real estate licensee’s expertise, including but not limited  to investigation of the condition of
+property, the legal status of the title or the owner’s past conformance with law,  unless the licensee
+or the licensee’s agent agrees in writing to investigate a matter.
+[(7) In order to help a  seller avoid selecting a buyer based on the buyer’s race, color, religion, sex,
+sexual orientation, national origin, marital status or familial status as prohibited by the Fair  Housing
+Act (42 U.S.C. 3601 et seq.), a seller’s agent shall  reject any communication other than customary
+documents in a real estate transaction, including photographs, provided by a buyer. ]
+MIDDLE HOUSING PARTITIONS
+SECTION 10.
+ ORS 92.031 is amended to read:
+92.031. (1) As used in this section, “middle  housing land division” means a partition or subdivi-
+sion of a single lot or parcel on which [ the development of ] will be developed any  middle housing
+type that is allowed under ORS 197A.420 (2) or (3).
+(2) A  city or county shall approve a tentative plan for a middle housing land division if the ap-
+plication includes:
+(a) A  proposal for development of middle housing in compliance with the Oregon residential
+specialty code and land use regulations  applicable to the original lot or parcel or the resulting lots
+or parcels allowed under ORS 197A.420 (5);
+(b) Separate utilities for each dwelling unit;
+(c) Proposed easements necessary for each dwelling unit on the plan for:
+[9]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Locating, accessing, replacing and servicing all utilities;
+(B) Pedestrian access from each dwelling unit to a private or public road;
+(C) Any common use areas or shared building elements;
+(D) Any dedicated driveways or parking; and
+(E) Any dedicated common area;
+(d) Exactly one  dwelling unit on each resulting lot or parcel, except for lots, parcels or tracts
+used as common areas; and
+(e) Evidence demonstrating how buildings or structures on a resulting lot or  parcel will comply
+with applicable building codes provisions relating to new property lines and, notwithstanding  the
+creation of new lots or parcels, how structures or buildings  located on the newly created lots or
+parcels will comply with the Oregon residential specialty code.
+(3) A city or county may add conditions to the approval of a tentative plan for a middle  housing
+land division to:
+(a) Prohibit the further division of the resulting lots or parcels.
+(b) Require that a notation appear  on the final plat indicating that the approval was given under
+this section.
+(4) In reviewing an application for a middle housing land division, a city or county:
+(a) Shall apply the procedures under ORS 197.360 to 197.380.
+(b) May require street frontage improvements where a resulting lot or  parcel abuts the street
+consistent with land use regulations implementing ORS 197A.420.
+(c) May not subject an application to approval criteria except  as provided in this section, in-
+cluding that a lot or parcel require driveways, vehicle access, parking  or minimum or maximum
+street frontage.
+(d) May not subject the application to procedures, ordinances or regulations adopted under  ORS
+92.044 or 92.046 that are inconsistent with this section or ORS 197.360 to 197.380.
+(e) May allow the submission of an application for a middle housing  land division at the same
+time as the submission of an application for building permits for the middle housing.
+(f) May require the dedication of right of way if the original parcel did not previously provide
+a dedication.
+(5) The  type of middle housing developed on the original parcel is not altered by a middle
+housing land division.
+(6) Notwithstanding ORS 197A.425 (1), a  city or county is not required to allow an accessory
+dwelling unit on a lot or parcel resulting from a middle housing land division.
+(7) The tentative approval of a middle housing land division is  void if and only if a final subdi-
+vision or partition plat  is not approved within three years of the tentative approval. Nothing in this
+section or ORS  197.360 to 197.380 prohibits a city or county from requiring a final plat before issu-
+ing building permits.
+SECTION 11.
+ ORS 92.010 is amended to read:
+92.010. As used in ORS 92.010 to 92.192, unless the context requires otherwise:
+(1) “Declarant” means the person who files a declaration under ORS 92.075.
+(2) “Declaration” means the instrument described in ORS 92.075 by  which the subdivision or
+partition plat was created.
+(3)(a) “Lawfully established unit of land” means:
+(A) A lot or parcel created pursuant to ORS 92.010 to 92.192; or
+(B) Another unit of land created:
+[10]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(i) In compliance  with all applicable planning, zoning and subdivision or partition ordinances
+and regulations; or
+(ii) By deed or land sales contract, if there were no applicable planning,  zoning or subdivision
+or partition ordinances or regulations.
+(b) “Lawfully established unit of land” does not mean  a unit of land created solely to establish
+a separate tax account.
+(4) “Lot” means a single unit of land that is created by a subdivision of land.
+(5) “Negotiate” means any activity preliminary to the execution of a binding  agreement for the
+sale of land in a subdivision or partition, including but  not limited to advertising, solicitation and
+promotion of the sale of such land.
+(6) “Parcel” means a single unit of land that is created by a partition of land.
+(7) “Partition” means either an act of partitioning land or an area or tract of land partitioned.
+(8) “Partition plat” includes a final map and other  writing containing all the descriptions, lo-
+cations, specifications, provisions and information concerning a partition.
+(9)(a) “Partitioning land” means :
+(A) Dividing land to create not more than three  parcels of land within a calendar year[ , but ];
+or
+(B) Dividing land  under ORS 92.031 to create any number of parcels within a calendar
+year.
+(b) “Partitioning land” does not include:
+[(a)] (A)  Dividing land as a result of  a lien foreclosure, foreclosure of a recorded contract for
+the sale of real property or the creation of cemetery lots[ ;].
+[(b)] (B)  Adjusting a property line [ as] via a  property line adjustment [ is] as defined in this
+section[ ;].
+[(c)] (C) Dividing land as a result of the recording of a subdivision or condominium plat[ ;].
+[(d)] (D)  Selling or granting by a person to a public agency or  public body of property for state
+highway, county road, city street or other right of way  purposes if the road or right of way complies
+with the applicable comprehensive plan and ORS 215.213  (2)(p) to (r) and 215.283 (2)(q) to (s). How-
+ever, any property sold or granted for state highway, county road, city street or other  right of way
+purposes shall continue to be considered a single unit of land until the property is further subdivided
+or partitioned[ ; or ].
+[(e)] (E)  Selling or granting by a public  agency or public body of excess property resulting from
+the acquisition  of land by the state, a political subdivision or special district for highways, county
+roads, city streets or other right of way purposes when the sale  or grant is part of a property line
+adjustment incorporating the excess right of way  into adjacent property. The property line adjust-
+ment shall be  approved or disapproved by the applicable local government. If the property line ad-
+justment is  approved, it shall be recorded in the deed records of the county where the property is
+located.
+(10) “Plat” includes a final subdivision plat, replat or partition plat.
+(11) “Property line” means the division line between two units of land.
+(12) “Property line adjustment” means a relocation or elimination of all or a  portion of the
+common property line between abutting properties that does not create an additional lot or parcel.
+(13) “Replat” means the act of platting the lots, parcels and easements  in a recorded subdivision
+or partition plat to  achieve a reconfiguration of the existing subdivision or partition plat or to in-
+crease or decrease the number of lots in the subdivision.
+[11]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(14) “Road” or “street” means a  public or private way that is created to provide ingress or
+egress for persons to one or more lots, parcels, areas or tracts of land, excluding a private way  that
+is created to provide ingress or egress to  such land in conjunction with the use of such land for
+forestry, mining or agricultural purposes.
+(15) “Sale” or “sell” includes every disposition  or transfer of land or an interest or estate
+therein.
+(16) “Subdivide land” means to divide land to create , within a calendar year,  four or more  lots
+[within a calendar year ], not including lots formed by partitioning land as defined  in subsection
+(9)(a)(B) of this section .
+(17) “Subdivision” means either an act of subdividing land or an area or a tract of land subdi-
+vided.
+(18) “Subdivision plat” includes a final map  and other writing containing all the descriptions,
+locations, specifications, dedications, provisions and information concerning a subdivision.
+(19) “Utility easement” means an easement noted on a subdivision plat or partition plat for  the
+purpose of installing or maintaining public or private utility  infrastructure for the provision of wa-
+ter, power, heat or telecommunications to the public.
+SECTION 12.
+ ORS 92.060 is amended to read:
+92.060. (1) The initial point, also known  as the point of beginning, of a plat must be on the ex-
+terior boundary of the plat and must be marked with a monument that is either  galvanized iron pipe
+or an iron or steel rod. If  galvanized iron pipe is used, the pipe may not be less than three-quarter
+inch inside diameter and 30 inches long. If an iron or steel rod is used, the rod may  not be less than
+five-eighths of  an inch in least dimension and 30 inches long. The location of the monument shall
+be with reference by survey to a section corner, one-quarter corner, one-sixteenth  corner, Donation
+Land Claim corner or to a monumented lot corner  or boundary corner of a recorded subdivision,
+partition or condominium plat. When setting a required monument  is impracticable under the cir-
+cumstances, the county surveyor may authorize the setting of another type of monument.
+(2) In subdivision plats, the intersections, the initial point, also known as the point  of beginning,
+the point of ending, points of curves and points of tangents, or the point of intersection of the  curve
+if the point is within the  pavement area of the road, of the centerlines of all streets and roads and
+all points on the exterior boundary where the boundary  line changes direction, must be marked with
+monuments either of  galvanized iron pipe or iron or steel rods. If galvanized iron pipe is used, the
+pipe may not be less than three-quarter inch inside diameter and  30 inches long. If iron or steel rods
+are used, the  rod may not be less than five-eighths of an inch in least dimension and 30 inches long.
+When setting a required monument is impracticable under the circumstances:
+(a) The county surveyor may authorize the setting of another type of monument; or
+(b) The county surveyor may waive the setting of the monument.
+(3) All lot and parcel corners except lot corners of cemetery lots must be  marked with monu-
+ments of  either galvanized iron pipe not less than one-half inch inside diameter or iron or steel rods
+not less than five-eighths inch  in least dimension and not less than 24 inches long. When setting a
+required monument is impracticable under the circumstances:
+(a) The surveyor may set another type of monument; or
+(b) The county surveyor may waive the setting of the monument.
+(4) A surveyor shall set monuments with sufficient accuracy that measurements may  be taken
+between monuments within one-tenth of a foot or within one ten-thousandth of the  distance shown
+on the subdivision or partition plat, whichever is greater.
+[12]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) A surveyor shall set monuments on the exterior boundary of a subdivision, unless the  county
+surveyor waives the setting  of a particular monument, where changes in the direction of the
+boundary occur and shall reference the monuments on the plat of the subdivision before the plat  of
+the subdivision is offered for recording. However, the  surveyor need not set the remaining monu-
+ments for the subdivision prior to the recording of the plat of the subdivision if:
+(a) The registered professional  land surveyor performing the survey work certifies that the re-
+maining monuments will be set, unless the  county surveyor waives the setting of a particular mon-
+ument, on or before a specified date as provided in ORS 92.070 (2); and
+(b) The person subdividing the land furnishes to the county  or city by which the subdivision was
+approved a bond, cash deposit, irrevocable letter  of credit issued by an insured institution as defined
+in ORS 706.008 or other security as required  by the county or city guaranteeing the payment of the
+cost of setting the remaining monuments for the subdivision as provided in ORS 92.065.
+(6) A surveyor shall set all  monuments on the exterior boundary and all parcel corner monu-
+ments of partitions, unless the county surveyor waives the setting of a  particular monument, before
+the partition plat is  offered for recording. Unless the governing body provides otherwise, any parcels
+created outside an urban growth boundary  that are greater than 10 acres need not be surveyed or
+monumented.
+(7) Except as provided  in subsections (8) and (9) of this section, a property line adjustment must
+be surveyed and monumented in accordance with subsection  (3) of this section and a survey, com-
+plying with ORS 209.250, must be filed with the county surveyor.
+(8) Unless the governing body of a city or county has otherwise provided  by ordinance, a survey
+or monument is  not required for a property line adjustment when the abutting properties are each
+greater than 10 acres. Nothing in this subsection exempts a local  government from minimum area
+requirements established in acknowledged comprehensive plans and land use regulations.
+(9) The requirements of subsection (7) of this section do not apply to property transferred
+through a property line adjustment as described in ORS 92.010 [ (9)(e)] (9)(b)(E) .
+SECTION 13.
+ ORS 92.305 is amended to read:
+92.305. As used in ORS 92.305 to 92.495:
+(1) “Blanket encumbrance” means a trust deed or mortgage or any other lien or  encumbrance,
+mechanic’s lien or otherwise, securing or evidencing the payment  of money and affecting more than
+one interest in subdivided or series partitioned land, or an agreement affecting more than one  such
+lot, parcel or interest by which the  subdivider, series partitioner or developer holds such subdivision
+or series partition under an option, contract to sell or trust agreement.
+(2) “Commissioner” means the Real Estate Commissioner.
+(3) [ Except as otherwise provided in ORS 92.325 (2), ] “Developer” means a person who purchases
+a lot, parcel or interest in a subdivision or series  partition that does not have a single family resi-
+dential dwelling  or duplex thereon to construct a single family residential dwelling or duplex on the
+lot, parcel or interest and  to resell the lot, parcel or interest and the dwelling or duplex for eventual
+residential use purposes. “Developer” also includes a person who purchases a lot, parcel or  other
+interest in a subdivision or series partition that does not have a  single family residential dwelling
+or duplex thereon for resale to another person. “Developer” does not mean a “developer” as that
+term is defined in ORS 100.005.
+(4) “Interest” includes a lot or parcel, and a share,  undivided interest or membership which in-
+cludes the right to occupy the land  overnight, and lessee’s interest in land for more than three years
+or less than  three years if the interest may be renewed under the terms of the lease for a total pe-
+[13]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+riod more than three years. “Interest” does not include any interest in a  condominium as that term
+is defined in ORS 100.005 or any security interest under a land sales contract, trust deed or mort-
+gage. “Interest” does not include divisions of land created by lien  foreclosures or foreclosures of
+recorded contracts for the sale of real property.
+(5) “Negotiate” means any  activity preliminary to the execution of a binding agreement for the
+sale or lease of land in a subdivision or series partition,  including but not limited to advertising,
+solicitation and promotion of the sale or lease of such land.
+(6) “Lot,” “parcel” and “partition” have the meaning given those terms in ORS 92.010.
+(7) “Person” includes a natural person,  a domestic or foreign corporation, a partnership, an as-
+sociation, a joint stock company, a trust [ and] or any unincorporated organization. [ As used in ORS
+92.305 to  92.495 the term ] “Trust” includes a common law or business trust, but does not include a
+private trust or a  trust created or appointed under or by virtue of any last will and testament, or
+by a court.
+(8) “Real property sales contract” means an agreement wherein one party agrees to lease or  to
+convey title to real property to another party upon the satisfaction of specified conditions  set forth
+in the contract.
+(9) “Sale” or “lease” includes every disposition or transfer of land in a subdivision or  a series
+partition, or an interest or estate therein, by a subdivider or series partitioner or  a developer, or
+their agents, including the offering of such property as a prize or gift when  a monetary charge or
+consideration for whatever purpose is required by the subdivider, series partitioner or developer or
+their agents.
+(10) “Series partitioned lands” and “series partition” mean a series of  partitions of land located
+within this state resulting in the creation of four  or more parcels over a period of more than one
+calendar  year.
+(11) “Series partitioner” means any person who causes land  to be series partitioned into a series
+partition, or who undertakes to  develop a series partition, but does not include a public agency or
+officer authorized by law to make partitions.
+(12) “Subdivided lands” and “subdivision” mean improved or unimproved land or lands  divided,
+or created into interests or sold under an agreement to  be subsequently divided or created into in-
+terests, for the purpose of sale or lease, whether immediate or future, into 11  or more undivided
+interests or four or  more other interests. “Subdivided lands” and “subdivision” include but are not
+limited to a subdivision of land located within this state subject to an ordinance adopted under  ORS
+92.044 and do not include  series partitioned lands. “Subdivided lands” and “subdivision” do not mean
+property submitted to ORS 100.005 to 100.910 or property located outside this state which has  been
+committed to the condominium form of ownership in  accordance with the laws of the jurisdiction
+within which the property is located.
+(13) “Subdivider” means any person who causes land to be subdivided into a subdivision, or  who
+undertakes to develop a subdivision, but does not include a public agency  or officer authorized by
+law to make subdivisions.
+SECTION 14.
+ ORS 92.425 is amended to read:
+92.425. (1) No lot, parcel or interest in a subdivision or series partition shall be sold  by a sub-
+divider, series partitioner or developer by means of a land sale  contract unless a collection escrow
+is established within this state with a person  or firm authorized to receive escrows under the laws
+of this state and all of the following are deposited in the escrow:
+(a) A copy of the title report or abstract, as it relates to the property being sold.
+[14]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) The original  sales document or an executed copy thereof relating to the purchase of real
+property in the subdivision or series partition  clearly setting forth the legal description of the
+property being purchased, the principal amount of the encumbrance outstanding at the date of  the
+sales document and the terms of the document.
+(c) A commitment to give a partial release for the lot, parcel  or other interest being sold from
+the terms and provisions  of any blanket encumbrance as described in ORS 92.305 (1). Except as
+otherwise provided in subsection (4) of this  section, the commitment shall be in a form satisfactory
+to the Real Estate Commissioner.
+(d) A commitment to give a release of any other lien or encumbrance existing against  such lot,
+parcel or other interest being sold as revealed by such title report. Except as otherwise provided
+in subsection (4) of this section, the commitment shall be in a form  satisfactory to the commissioner.
+(e) A warranty or bargain  and sale deed in good and sufficient form conveying merchantable and
+marketable title to the purchaser of such lot, parcel or other interest.
+(2) The subdivider, series partitioner or developer  shall submit written authorization allowing
+the commissioner to inspect all escrow deposits established pursuant to subsection (1) of this sec-
+tion.
+(3) In lieu of the procedures provided in  subsection (1) of this section, the subdivider, series
+partitioner or developer shall conform to such  alternative requirement or method which the com-
+missioner may deem acceptable to carry into effect the intent and provisions of this section.
+(4) The requirements of subsection (1)(c) and (d) of this section relating to  use of a commitment
+form acceptable to the  commissioner and the provisions of subsection (2) of this section shall not
+apply to subdivided or series partitioned lands described by ORS 92.325 [ (3)(h)] (1)(h).
+SECTION 15.
+ ORS 92.325 is amended to read:
+92.325. (1) [ Except as  provided in subsection (2) of this section, no person shall ] A person may
+not sell or lease any subdivided lands or series partitioned lands  without having complied with all
+the applicable provisions of ORS 92.305 to 92.495[ .]
+[(2) With respect  to a developer, chapter 643, Oregon Laws 1975, applies only to a developer who
+acquires a lot, parcel  or interest in a subdivision or series partition for which a public report has been
+issued after September 13, 1975,  and a developer who acquires a lot or parcel in a subdivision for
+which a revised public report has been issued under ORS 92.410. ]
+[(3) Except as otherwise provided in paragraph (g) of this subsection, ] except that ORS 92.305 to
+92.495 do not apply to the sale or leasing of:
+(a) Apartments or similar space within an apartment building;
+(b) Cemetery lots, parcels or units in Oregon;
+(c) Subdivided lands and series partitioned lands in Oregon that are not in unit  ownership or
+being developed as unit ownerships created under ORS chapter 100, to be used for  residential pur-
+poses and that qualify under ORS 92.337;
+(d) Property submitted to the provisions of ORS chapter 100;
+(e) Subdivided lands and  series partitioned lands in Oregon expressly zoned for and limited in
+use to nonresidential industrial or nonresidential commercial purposes;
+(f) Lands in this state sold by lots or parcels of not less than 160 acres each;
+(g) Timeshares regulated or otherwise exempt under ORS 94.803 and 94.807 to 94.945;
+(h) Except as  provided in subsection (2) of this section,  subdivided and series partitioned
+lands in a  city or county which, at the time tentative approval of a subdivision plat and each par-
+tition map for those lands is given  under ORS 92.040 or an ordinance adopted under ORS 92.046,
+[15]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+has a  comprehensive plan and implementing ordinances that have been acknowledged under ORS
+197.251[. The  subdivider or series partitioner of such lands shall comply with ORS 92.425, 92.427,
+92.430, 92.433, 92.460 and 92.485 in the sale or leasing of such lands ]; [ or]
+(i) Mobile home or manufactured dwelling parks, as defined in  ORS 446.003, located in
+Oregon[ .]; or
+(j) Parcels created by series partitions that are  conducted as middle housing land division
+under ORS 92.031.
+(2) The subdivider or series partitioner of lands under subsection (1)(h) of this section
+shall comply with ORS 92.425,  92.427, 92.430, 92.433, 92.460 and 92.485 in the sale or leasing
+of such lands.
+SECTION 16.
+ ORS 197A.420 is amended to read:
+197A.420. (1) As used in this section:
+(a) “City” or “city with a population  of 25,000 or greater” includes, regardless of size, any city
+within Tillamook County and the  communities of Barview/Twin Rocks/Watseco, Cloverdale, Hebo,
+Neahkahnie, Neskowin, Netarts, Oceanside and Pacific City/Woods.
+(b) “Cottage clusters” means groupings of no fewer  than four detached housing units per acre
+with a footprint of less than 900 square feet each and that include a common courtyard.
+(c) “Middle housing” means:
+(A) Duplexes;
+(B) Triplexes;
+(C) Quadplexes;
+(D) Cottage clusters; and
+(E) Townhouses.
+(d) “Townhouses” means a dwelling unit constructed in a row of two  or more attached units,
+where each dwelling unit [ is] will be  located on an individual lot or parcel and [ shares] share  at
+least one common wall with an adjacent unit.
+(2) Except as provided in subsection (4) of this section, each city with a population  of 25,000 or
+greater  and  each county or city within a metropolitan service district shall allow the development
+of:
+(a) All middle housing types in areas zoned for residential use  that allow for the development
+of detached single-family dwellings; and
+(b) A duplex on each lot or parcel  zoned for residential use that allows for the development of
+detached single-family dwellings.
+(3) Except as  provided in subsection (4) of this section, each city not within a metropolitan
+service district with a population of 2,500 or greater  and less than 25,000 shall allow the develop-
+ment of a duplex  on each lot or parcel zoned for residential use that allows for the development of
+detached single-family dwellings. Nothing in this  subsection prohibits a local government from al-
+lowing middle housing types in addition to duplexes.
+(4)(a) Except within Tillamook County, this section does not apply to:
+(A) Cities with a population of 1,000 or fewer, except inside of Tillamook County;
+(B) Lands not within an urban growth boundary;
+(C) Lands that  are not incorporated and also lack sufficient urban services, as defined in ORS
+195.065; or
+(D) Lands that are not incorporated and are zoned under an  interim zoning designation that
+maintains the land’s potential for planned urban development.
+[16]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) This section does  not apply to lands that are not zoned for residential use, including lands
+zoned primarily for commercial, industrial, agricultural or public uses.
+(5) Local governments may regulate  siting and design of middle housing required to be permitted
+under this section, provided that the regulations do not, individually  or cumulatively, discourage the
+development of all middle housing types permitted in the area through unreasonable costs  or delay.
+Local governments may regulate middle housing to comply with protective  measures adopted pur-
+suant to statewide land use planning goals.
+(6) This section does not prohibit local governments from permitting:
+(a) Single-family dwellings in areas zoned to allow for single-family dwellings; or
+(b) Middle housing in areas not required under this section.
+(7) A local government that amends its comprehensive plan or land use regulations relating  to
+allowing additional middle housing is not required to consider  whether the amendments significantly
+affect an existing or planned transportation facility.
+MANUFACTURED STRUCTURE DOCUMENTATION
+SECTION 17.
+ ORS 446.571 is amended to read:
+446.571. (1)(a) Except as provided in paragraph (b)  of this subsection, the owner of a manufac-
+tured structure [ shall] may  apply to the Department of  Consumer and Business Services for an
+ownership document. Upon receipt of  an application in appropriate form as described in ORS 446.736
+(2), the Department of Consumer  and Business Services shall issue an ownership document for a
+manufactured structure. Except as provided in ORS 308.875, a manufactured structure for which an
+ownership document is issued is subject to assessment and taxation as personal  property under the
+ad valorem tax laws of this state.
+(b)(A) For a new manufactured structure, except  as provided in subparagraph (C) of this para-
+graph, the application must be filed on behalf of the owner  by the manufactured structure dealer
+as provided in ORS 446.736, by a lender or by an escrow agent as provided in ORS 446.591.
+(B) For a used manufactured structure, except as provided in subparagraph  (C) of this para-
+graph, [ the owner must ] only the owner may file the application with the county  assessor for the
+county in which the manufactured structure is sited.
+(C) If a dealer, lender or  escrow agent refuses to file an application as required by subparagraph
+(A) of this paragraph, or if a  county assessor refuses to accept an application in appropriate form
+as required by subparagraph (B) of this paragraph, the owner may file an application for an owner-
+ship document directly with the department.
+(2) The department shall maintain ownership records on manufactured structures  for which the
+department has issued ownership documents. The department shall maintain a record of ownership
+documents or other documents evidencing ownership that have been canceled.
+(3) The department shall note all security interests in the manufactured structure  on the own-
+ership document and in the records maintained by the  department pursuant to subsection (2) of this
+section. The recording of the security interests in the records maintained by  the department is
+constructive notice of the interests.
+(4) The department shall send the ownership document to the  holder of the earliest perfected
+unreleased security interest in the manufactured structure or, if none,  to the owner of the structure.
+The department shall also send a  copy of the ownership document to the county assessor for the
+county in which the manufactured structure is being sited.
+[17]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) If an interest in a manufactured structure other than an ownership interest is satisfied  or
+assigned, unless the satisfaction or assignment  is recorded in the deed records of the county,
+the holder of the interest shall notify the department. If the holder of the satisfied  interest is in
+possession of the ownership document for the structure,  the holder shall return the ownership doc-
+ument to the department. The department shall  adjust the ownership document and send the ad-
+justed ownership document and copy as described in subsection (4) of this section.
+SECTION 18.
+ ORS 446.626 is amended to read:
+446.626. (1) The  owner of a manufactured structure that qualifies under this subsection may
+apply to the county  assessor to have the structure recorded in the deed records of the county. The
+county assessor shall accept a mortgage on real property that describes the structure  and
+that is recorded in the real property records of the county as an application  to have the
+structure recorded. Otherwise,  the application must  be on a form approved by the Department
+of Consumer and Business Services. The application  must include a description of the location of the
+real property on which the manufactured structure is or will be sited. If the structure is  being sold
+by a manufactured structure dealer, the dealer may file the application on  behalf of the owner
+within the time described in ORS  446.736 (7). A manufactured structure qualifies for recording in the
+deed records if the owner of the structure:
+(a) Also owns the land on which the manufactured structure is located;
+(b) Is the holder of a  recorded leasehold estate of 20 years or more if the lease specifically
+permits the manufactured structure owner to record the structure under this section; or
+(c) Is a member of a manufactured dwelling park  nonprofit cooperative formed under ORS 62.800
+to 62.815 that owns the land on which the manufactured structure is located.
+(2) If the  assessor, as agent for the department, determines that the manufactured structure
+qualifies for recording in the deed records of the county, the assessor shall cause the  structure to
+be recorded in the deed records. The deed records must contain any unreleased security  interest in
+the manufactured structure. If the  department has issued an ownership document for the manufac-
+tured structure, the owner must submit the ownership document  to the assessor with the application
+described in subsection (1) of this section. Upon recording the  manufactured structure in the deed
+records, the assessor shall  send the ownership document to the department for cancellation. The
+department shall cancel the ownership document and send confirmation of the cancellation to the
+assessor and the owner.
+(3) The recording  of a security interest in the deed records of the county under this section
+satisfies the requirements for filing  a financing statement for a fixture to real property under ORS
+79.0502. The recording of a manufactured structure in the deed records of the county is independent
+of the assessment and taxation of the structure as  real property under ORS 308.875. The recording
+of a manufactured structure  in the deed records of the county makes the structure subject to the
+same provisions of law applicable to any other  building, housing or structure on the land. However,
+the manufactured structure may not be sold separately from the land or leasehold  estate unless the
+owner complies with subsection (4) of this section.
+(4) The owner of a manufactured structure that is recorded in the  deed records of the county
+may apply to have the structure removed from the deed records and an ownership document issued
+for the structure. Unless the manufactured structure is subject to ORS 446.631, the  owner must ap-
+ply to the county assessor, as agent for the department, for  an ownership document as provided in
+ORS 446.571. Upon approval of the application, the assessor shall terminate the recording  of the
+manufactured structure in the deed records.
+[18]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) If a manufactured structure described in subsection (1)(b) or (c) of  this section is recorded
+in the deed records, the owner  of the structure has a real property interest in the manufactured
+structure for purposes of:
+(a) Recordation of documents pursuant to ORS 93.600 to 93.802, 93.804, 93.806 and 93.808;
+(b) Deed forms pursuant to ORS 93.850 to 93.870;
+(c) Mortgages, trust deeds and other liens pursuant to ORS chapters 86, 87 and 88; and
+(d) Real property tax collection pursuant to ORS chapters  311 and 312. The structure owner is
+considered the owner of  the real property for purposes of assessing the structure under ORS 308.875.
+TENANT HOSPITALIZATION
+SECTION 19.
+ ORS 90.260 is amended to read:
+90.260. (1) A landlord may impose a late charge or fee, however designated, only if:
+(a) The rent payment is not received by the fourth day of the  weekly or monthly rental period
+for which rent is payable; and
+(b) There exists a written rental agreement that specifies:
+(A) The tenant’s obligation to pay a late charge on delinquent rent payments;
+(B) The type and amount of the late charge, as described in subsection (2) of this section; and
+(C) The date on which rent payments are due and the date  or day on which late charges become
+due.
+(2) The amount of any late  charge may [ not exceed ] be calculated only in one of the following
+ways:
+(a) A reasonable [ flat] amount, charged once per rental period. As used in this subsection,
+“reasonable amount” means the customary amount charged by landlords for that rental market[ ;].
+(b) A reasonable  amount, charged on a per-day basis, beginning on the fifth day of the rental
+period for which rent is delinquent. This daily charge may accrue every day thereafter until the
+rent, not including any late charge, is paid in full, through that  rental period only. The per-day
+charge may not exceed six percent of the amount described in  paragraph (a) of this subsection[ ;
+or].
+(c) Not more than  five percent of the periodic rent payment  amount, charged once for each
+succeeding [ five-day] period  of at least five days , or portion thereof, for which  the rent payment is
+delinquent, beginning on the fifth day of that  rental period and continuing and accumulating until
+that rent payment, not including any late charge, is paid in full, through that rental period only.
+(3) In periodic tenancies, a landlord may change the type  or amount of late charge by giving 30
+days’ written notice to the tenant.
+(4) A landlord may not deduct a previously imposed late charge  from a current or subsequent
+rental period rent payment, thereby making that rent payment delinquent for imposition of a  new
+or additional late charge or for termination of the tenancy for nonpayment under ORS 90.394.
+(5) A  landlord may charge simple interest on an unpaid late charge at the rate allowed for
+judgments pursuant to ORS 82.010 (2) and accruing from the date the late charge is imposed.
+(6) Nonpayment of a late charge alone is not grounds for termination of a rental agreement for
+nonpayment of rent under ORS 90.394, but is grounds for termination of a rental agreement  for
+cause under ORS  90.392 or 90.630 (1). A landlord may note the imposition of a late charge on a
+nonpayment of rent termination notice under ORS 90.394, so long  as the notice states or otherwise
+makes clear that the  tenant may cure the nonpayment notice by paying only the delinquent rent,
+[19]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+not including any late charge, within the allotted time.
+(7) A late charge includes an increase or decrease  in the regularly charged periodic rent pay-
+ment imposed because a tenant does or does not pay that rent by a certain date.
+(8) A tenant may not be assessed  a late charge under this section based on nonpayment
+occurring on or during the dates that the tenant is hospitalized and for three days after, if
+the tenant gives written  notice to the landlord demonstrating the hospitalization within 15
+days after discharge.
+SECTION 20.
+ ORS 90.394 is amended to read:
+90.394. The landlord may terminate the rental agreement for nonpayment of  rent and take pos-
+session as provided in ORS 105.100 to 105.168, as follows:
+(1) When the tenancy is  a week-to-week tenancy, by delivering to the tenant at least 72 hours’
+written notice of nonpayment and the landlord’s intention to terminate the rental  agreement if the
+rent is not paid within that period. The landlord shall give this notice no sooner than on  the fifth
+day of the rental period, including the first day the rent is due.
+(2) For all tenancies other than week-to-week tenancies, by delivering to the tenant:
+(a) At least 10 days’ written notice of nonpayment and the  landlord’s intention to terminate the
+rental agreement if the rent is not paid within that period. The landlord shall give  this notice no
+sooner than on the eighth day of the rental period, including the first day the rent is due; or
+(b) At least 13 days’ written notice of nonpayment and the  landlord’s intention to terminate the
+rental agreement if the  rent is not paid within that period. The landlord shall give this notice no
+sooner than on the fifth day of the rental period, including the first day the rent is due.
+(3) The notice described in this section must also  specify the amount of rent that must be paid
+and the date and time by which the tenant must pay the rent to cure the nonpayment of rent.
+(4) Payment by a tenant who has received a notice under this section is timely if mailed to  the
+landlord within the period of the notice unless:
+(a) The notice is served on the tenant:
+(A) By personal delivery as provided in ORS 90.155 (1)(a);
+(B) By first class mail and attachment as provided in ORS 90.155 (1)(c); or
+(C) By first class mail and electronic mail as provided in ORS 90.155 (5);
+(b) A written rental agreement and the notice expressly state that payment is to  be made at a
+specified location that is either on the premises or at a place where the tenant  has made all previ-
+ous rent payments in person; and
+(c) The place so specified is available to the tenant for payment throughout the period of  the
+notice.
+(5) A notice period described in this section does not run during the days that  a tenant
+is hospitalized or the three days following hospitalization,  if the tenant provides written no-
+tice to the landlord demonstrating the hospitalization on or before the earlier of:
+(a) Fifteen days following discharge; or
+(b) The date of a first appearance based on the notice as described in ORS 105.137.
+SECTION 21.
+The amendments to ORS 90.260 and 90.394 by sections 19 and 20 of this 2024
+Act apply to hospitalizations occurring on or after the effective date of this 2024 Act.
+SECTION 22.  ORS 90.100 is amended to read:
+90.100. As used in this chapter, unless the context otherwise requires:
+(1) “Accessory building or structure” means any portable, demountable or permanent structure,
+including but not limited to  cabanas, ramadas, storage sheds, garages, awnings, carports, decks,
+[20]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+steps, ramps, piers and pilings, that is:
+(a) Owned and used solely by a tenant of a manufactured dwelling or floating home; or
+(b) Provided pursuant to a written rental agreement for  the sole use of and maintenance by a
+tenant of a manufactured dwelling or floating home.
+(2) “Action” includes recoupment, counterclaim,  setoff, suit in equity and any other proceeding
+in which rights are determined, including an action for possession.
+(3) “Applicant screening charge” means any payment of money required by a  landlord of an
+applicant prior to entering  into a rental agreement with that applicant for a residential dwelling
+unit, the purpose of which  is to pay the cost of processing an application for a rental agreement for
+a residential dwelling unit.
+(4) “Attorney” includes an associate member of the Oregon State Bar practicing  law within the
+member’s approved scope of practice.
+(5) “Bias crime” has the meaning given that term in ORS 147.380.
+(6) “Building and housing codes” includes any law, ordinance or  governmental regulation con-
+cerning fitness for habitation, or the construction, maintenance, operation, occupancy,  use or ap-
+pearance of any premises or dwelling unit.
+(7) “Carbon monoxide alarm” has the meaning given that term in ORS 105.836.
+(8) “Carbon monoxide source” has the meaning given that term in ORS 105.836.
+(9) “Conduct” means the commission of an act or the failure to act.
+(10) “DBH” means the diameter  at breast height, which is measured as the width of a standing
+tree at four and one-half feet above the ground on the uphill side.
+(11) “Dealer” means any person in  the business of selling, leasing or distributing new or used
+manufactured dwellings or  floating homes to persons who purchase or lease a manufactured dwelling
+or floating home for use as a residence.
+(12) “Domestic violence” means:
+(a) Abuse between family or household members, as those terms are defined in ORS 107.705; or
+(b) Abuse, as defined in ORS 107.705, between partners in a dating relationship.
+(13) “Drug and alcohol free housing” means a dwelling unit described in ORS 90.243.
+(14) “Dwelling unit” means a structure or the part of a structure that is used as a home,  resi-
+dence or sleeping place by one person who maintains a household or by two or more persons  who
+maintain a common household. “Dwelling unit” regarding a person who  rents a space for a manu-
+factured dwelling or recreational  vehicle or regarding a person who rents moorage space for a
+floating home as defined in ORS 830.700, but  does not rent the home, means the space rented and
+not the manufactured dwelling, recreational vehicle or floating home itself.
+(15) “Essential service” means:
+(a) For a tenancy not consisting of rental space for a manufactured dwelling, floating home or
+recreational vehicle owned by the tenant and not otherwise subject to ORS 90.505 to 90.850:
+(A) Heat, plumbing, hot and cold running water, gas, electricity, light  fixtures, locks for exterior
+doors, latches for windows and any cooking appliance or refrigerator supplied  or required to be
+supplied by the landlord; and
+(B) Any other service  or habitability obligation imposed by the rental agreement or ORS 90.320,
+the lack or violation of which creates a serious threat to the tenant’s  health, safety or property or
+makes the dwelling unit unfit for occupancy.
+(b) For a tenancy consisting of rental space for  a manufactured dwelling, floating home or rec-
+reational vehicle owned by the tenant or that is otherwise subject to ORS 90.505 to 90.850:
+[21]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Sewage disposal, water supply, electrical supply and, if required by applicable  law, any
+drainage system; and
+(B) Any other service  or habitability obligation imposed by the rental agreement or ORS 90.730,
+the lack or violation of which  creates a serious threat to the tenant’s health, safety or property or
+makes the rented space unfit for occupancy.
+(16) “Facility” means a manufactured dwelling park or a marina.
+(17) “Fee” means a nonrefundable payment of money.
+(18) “First class mail” does not include  certified or registered mail, or any other form of mail
+that may delay or hinder actual delivery of mail to the recipient.
+(19) “Fixed term tenancy” means a tenancy that has a fixed term of existence, continuing  to a
+specific ending date and terminating on that date without requiring further notice to effect the ter-
+mination.
+(20) “Floating home” has the meaning given that term in ORS 830.700. “Floating home”  includes
+an accessory building or structure.
+(21) “Good faith” means honesty in fact in the conduct of the transaction concerned.
+(22) “Hazard tree” means a tree that:
+(a) Is located on a rented space in a manufactured dwelling park;
+(b) Measures at least eight inches DBH; and
+(c) Is considered, by an arborist licensed as a landscape  construction professional pursuant to
+ORS 671.560 and certified by the International Society of Arboriculture, to pose an unreasonable
+risk of causing serious physical harm or damage to individuals or property in the near future.
+(23) “Hospitalized”  means being admitted to a hospital or emergency department for in-
+patient care that results in an overnight stay in a health care facility as defined in ORS
+442.015.
+[(23)] (24) “Hotel or motel” means “hotel” as that term is defined in ORS 699.005.
+[(24)] (25)  “Informal dispute resolution”  includes voluntary consultation between the landlord
+or landlord’s agent and one or more tenants or voluntary mediation utilizing the  services of a third
+party, but does not include mandatory mediation or arbitration.
+[(25)] (26) “Landlord” means the owner, lessor or sublessor of the dwelling  unit or the building
+or premises of which it is a part. “Landlord” includes a person who is authorized by the  owner,
+lessor or sublessor to manage the premises or to enter into a rental agreement.
+[(26)] (27) “Landlord’s agent” means a person who has oral or written authority,  either express
+or implied, to act for or on behalf of a landlord.
+[(27)] (28) “Last month’s rent deposit” means a type of security deposit, however designated,  the
+primary function of which is to secure the payment of rent for the last month of the tenancy.
+[(28)] (29)  “Manufactured dwelling” means a residential trailer, a mobile home or a manufac-
+tured home as those terms are defined in ORS 446.003  or a prefabricated structure. “Manufactured
+dwelling” includes an accessory building or structure.
+[(29)] (30)  “Manufactured  dwelling park” means a place where four or more manufactured
+dwellings are located, the primary purpose of which is to rent space  or keep space for rent to any
+person for a charge or fee.
+[(30)] (31)  “Marina” means a moorage of contiguous dwelling units  that may be legally trans-
+ferred as a single unit and are owned by one person where four or more floating  homes are secured,
+the primary purpose of which is to rent space or keep space for rent to any person for a  charge or
+fee.
+[22]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(31)] (32) “Marina purchase association” means  a group of three or more tenants who reside in
+a marina and have organized for the purpose of eventual purchase of the marina.
+[(32)] (33) “Month-to-month  tenancy” means a tenancy that automatically renews and continues
+for successive monthly periods on the same terms and conditions originally agreed  to, or as revised
+by the parties, until terminated by one or both of the parties.
+[(33)] (34)  “Organization”  includes a corporation, government, governmental subdivision or
+agency, business trust, estate, trust, partnership or association, two or more persons having  a joint
+or common interest, and any other legal or commercial entity.
+[(34)] (35) “Owner” includes a mortgagee in possession and  means one or more persons, jointly
+or severally, in whom is vested:
+(a) All or part of the legal title to property; or
+(b) All or part of the beneficial ownership and a right to present use and enjoyment of the
+premises.
+[(35)] (36) “Person” includes an individual or organization.
+[(36)] (37)  “Prefabricated structure” means a structure that is substantially constructed or as-
+sembled using closed construction at an off-site location in compliance with the state  building code
+and that is sited and occupied by the owner in compliance with local codes.
+[(37)] (38) “Premises” means:
+(a) A dwelling unit and the structure of which it is a part and facilities and appurtenances
+therein;
+(b) Grounds, areas and facilities held out for  the use of tenants generally or the use of which
+is promised to the tenant; and
+(c) A facility for manufactured dwellings or floating homes.
+[(38)] (39) “Prepaid rent” means any payment of money  to the landlord for a rent obligation not
+yet due. In addition, “prepaid rent” means  rent paid for a period extending beyond a termination
+date.
+[(39)] (40) “Recreational vehicle” has the meaning given that term in ORS 174.101.
+[(40)] (41) “Recreational vehicle park” has the meaning given that term in ORS 197.492.
+[(41)(a)] (42)(a) “Rent” means any payment to be made to the landlord under  the rental agree-
+ment, periodic or otherwise, in exchange for the  right of a tenant and any permitted pet to occupy
+a dwelling unit to the exclusion of others and to use the premises.
+(b) “Rent” does not  include security deposits, fees or utility or service charges as described in
+ORS 90.315 (4) and 90.562.
+[(42)] (43) “Rental agreement” means all agreements, written or oral,  and valid rules and regu-
+lations adopted under ORS 90.262 or  90.510 (6) embodying the terms and conditions concerning the
+use and occupancy  of a dwelling unit and premises. “Rental agreement” includes a lease. A rental
+agreement is either a week-to-week tenancy, month-to-month tenancy or fixed term tenancy.
+[(43)] (44) “Roomer” means a person occupying  a dwelling unit that does not include a toilet and
+either a bathtub or a shower and a refrigerator, stove and kitchen, all provided by  the landlord, and
+where one or more of these facilities are used in common by occupants in the structure.
+[(44)] (45) “Screening or admission criteria” means a written statement of  any factors a landlord
+considers in deciding whether  to accept or reject an applicant and any qualifications required for
+acceptance. “Screening or admission criteria” includes, but is not  limited to, the rental history,
+character references, public records, criminal records, credit reports, credit references and  incomes
+or resources of the applicant.
+[23]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(45)] (46) “Security deposit” means a refundable payment  or deposit of money, however desig-
+nated, the primary function of which is to secure the performance of a rental agreement or  any part
+of a rental agreement. “Security deposit” does not include a fee.
+[(46)] (47) “Sexual assault” has the meaning given that term in ORS 147.450.
+[(47)] (48) “Squatter” means a person occupying a dwelling unit who  is not so entitled under a
+rental agreement or  who is not authorized by the tenant to occupy that dwelling unit. “Squatter”
+does not include a tenant who holds over as described in ORS 90.427 (11).
+[(48)] (49) “Stalking” means the behavior described in ORS 163.732.
+[(49)] (50)  “Statement of policy” means the summary explanation of information and facility
+policies to be provided to prospective and existing tenants under ORS 90.510.
+[(50)] (51) “Surrender” means an agreement, express  or implied, as described in ORS 90.148 be-
+tween a landlord and tenant to terminate a rental agreement that gave the tenant the right  to oc-
+cupy a dwelling unit.
+[(51)] (52) “Tenant”:
+(a) Except as provided in paragraph (b) of this subsection:
+(A) Means a person, including a roomer, entitled under a rental agreement to occupy a dwelling
+unit to the exclusion of others, including a dwelling unit owned, operated or controlled  by a public
+housing authority.
+(B) Means a minor, as defined and provided for in ORS 109.697.
+(b) For purposes of ORS 90.505 to 90.850, means  only a person who owns and occupies as a
+residence a manufactured  dwelling or a floating home in a facility and persons residing with that
+tenant under the terms of the rental agreement.
+(c) Does not mean a guest or temporary occupant.
+[(52)] (53) “Transient lodging” means a room or a suite of rooms.
+[(53)] (54)  “Transient  occupancy” means occupancy in transient lodging that has all of the fol-
+lowing  characteristics:
+(a) Occupancy is charged on a daily basis and is not collected more than six days in advance;
+(b) The lodging operator provides maid and linen service daily or every two  days as part of the
+regularly charged cost of occupancy; and
+(c) The period of occupancy does not exceed 30 days.
+[(54)] (55)  “Vacation  occupancy” means occupancy in a dwelling unit, not including transient
+occupancy in a hotel or motel, that:
+(a) Has all of the following characteristics:
+(A) The occupant rents the unit for vacation purposes only, not as a principal residence;
+(B) The occupant has a principal residence other than at the unit; and
+(C) The period of authorized occupancy does not exceed 45 days; or
+(b) Is for the rental of a space in a recreational vehicle park  on which a recreational vehicle
+owned by the occupant will be located and for which:
+(A) The occupant rents the unit for vacation purposes only, not as a principal residence;
+(B) The occupant has a principal residence other than at the space;
+(C) The period of authorized occupancy does not exceed 90 days;
+(D) The recreational vehicle is required to be removed from the park at the  end of the occu-
+pancy period before a new occupancy may begin; and
+(E) A written agreement is signed by the occupant that  substantially states: “Your occupancy
+of this recreational vehicle park  is a vacation occupancy and is NOT subject to the Oregon Resi-
+[24]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+dential Landlord and Tenant Act (ORS chapter 90).”
+[(55)] (56) “Victim” means:
+(a) The person against whom an incident related to domestic violence,  sexual assault, bias crime
+or stalking is perpetrated; or
+(b) The parent or guardian of a minor  household member against whom an incident related to
+domestic violence, sexual assault, bias crime or stalking is perpetrated, unless the  parent or guard-
+ian is the perpetrator.
+[(56)] (57) “Week-to-week tenancy” means a tenancy that has  all of the following characteristics:
+(a) Occupancy is  charged on a weekly basis and is payable no less frequently than every seven
+days;
+(b) There is a written rental agreement that defines the landlord’s  and the tenant’s rights and
+responsibilities under this chapter; and
+(c) There are no fees or security deposits, although the  landlord may require the payment of an
+applicant screening charge, as provided in ORS 90.295.
+SECTION 23.
+ ORS 90.555 is amended to read:
+90.555. (1) As used in this section:
+(a) “Actively markets for sale” means that the facility tenant:
+(A) Places a for-sale sign on the dwelling or home;
+(B) Retains a broker, real  estate agent, or manufactured structure dealer to assist in the sale;
+and
+(C) Advertises the dwelling or home for sale in a newspaper or online.
+(b) “Facility landlord” means the landlord of the facility.
+(c) “Facility tenant” means the owner of the manufactured dwelling  or floating home, who is the
+tenant of the facility landlord under the rental agreement.
+(d) “Rental agreement”  means the rental agreement between the facility landlord and facility
+tenant.
+(e) “Renter” means a person other than the facility tenant who is lawfully occupying the  man-
+ufactured dwelling or floating home under a subleasing agreement.
+(f) “Subleasing agreement” means  the written agreement between the facility landlord, facility
+tenant, and renter concerning the occupancy of the renter and the rights of the parties.
+(2) A facility  tenant may not rent the facility tenant’s manufactured dwelling or floating home
+to another person for a period exceeding three days unless the facility landlord, facility  tenant and
+renter enter into  a written subleasing agreement specifying the rights and obligations of the facility
+landlord, facility tenant and renter during the renter’s occupancy  of the dwelling or home. The
+subleasing agreement shall require  the renter to timely pay to the facility landlord the space rent,
+any separately assessed fees payable  under the rental agreement and any separately billed utility
+or service charge described in ORS 90.560 to 90.584. The subleasing agreement shall  also grant the
+renter the same rights as the facility tenant to cure a  violation of the rental agreement for the fa-
+cility space, to require the facility  landlord to comply with ORS 90.730 and to be protected from
+retaliatory conduct under ORS 90.765. This subsection does not authorize a facility  tenant to sub-
+lease to a renter in violation of the rental agreement.
+(3) [Notwithstanding ORS 90.100 (51), ] A facility tenant who enters into a subleasing agreement
+remains the tenant of the facility space and retains all rights and obligations under the rental
+agreement and this chapter. The occupancy by a renter does not constitute abandonment  of the
+dwelling or home by the facility tenant.
+[25]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(4) The rights and obligations of the renter under  a subleasing agreement are in addition to the
+rights and obligations retained by the facility tenant under subsection (3)  of this section and any
+rights or obligations of the facility tenant and renter under ORS 90.100 to 90.465.
+(5) Unless otherwise provided in  the subleasing agreement, and without regard to whether the
+facility landlord terminates the rental agreement, a facility landlord may terminate  a subleasing
+agreement:
+(a) Without cause by giving the renter written notice not less than 30 days prior to  the termi-
+nation;
+(b) If a condition described in ORS 90.380 (5)(b) exists for the facility space,  by giving the renter
+the same notice to which the facility tenant is entitled under ORS 90.380 (5)(b); or
+(c) Subject to the right to cure:
+(A) For nonpayment of facility space rent under ORS 90.394 or 90.630; or
+(B) For any conduct by the renter  that would be a violation of the rental agreement under ORS
+90.396 or 90.398 if committed by the facility tenant.
+(6) Upon termination of a  subleasing agreement by the facility landlord, whether with or without
+cause, the renter and the facility tenant are excused from continued performance  under any sub-
+leasing agreement.
+(7)(a) If, during the term of a subleasing agreement, the  facility landlord gives notice to the fa-
+cility tenant of a rental agreement violation, a law or ordinance violation or the facility’s closure,
+conversion  or  sale, the landlord shall also promptly give a copy of the notice to the renter. The
+giving of  notice to the renter does not constitute notice to the facility tenant unless the facility
+tenant has  expressly appointed the renter as the facility tenant’s agent for purposes of receiving
+notice.
+(b) If the facility landlord  gives notice to the renter that the landlord is terminating the sub-
+leasing agreement, the landlord  shall also promptly give a copy of the notice to the facility tenant
+by written notice.
+(c) If, during the term  of a subleasing agreement, the facility tenant gives notice to the facility
+landlord of a rental agreement violation, termination of tenancy  or sale of the manufactured dwell-
+ing or floating home, the facility tenant shall also promptly give a copy of the notice to the  renter.
+(d) If the renter  gives notice to the facility landlord of a violation of ORS 90.730, the renter shall
+also promptly give a copy of the notice to the facility tenant.
+(8) Before entering into a sublease agreement,  the facility landlord may screen a renter under
+ORS 90.303, but may not apply to  the renter credit and conduct screening criteria that is more re-
+strictive than the landlord applies to applicants for a tenancy of a dwelling or home that  is either
+owned by the landlord or on consignment with the landlord under ORS 90.680.
+(9) Notwithstanding subsection (2) of this  section, if a facility landlord rents or has a policy of
+renting manufactured dwellings or floating homes  that are listed for sale by the facility landlord, the
+facility  landlord  may not prohibit the facility tenant from entering into a subleasing agreement while
+the facility tenant actively  markets for sale the facility tenant’s manufactured dwelling or floating
+home.
+SECTION 24.
+ ORS 90.634 is amended to read:
+90.634. (1) A landlord may not assert a lien under ORS 87.162 for dwelling  unit rent against a
+manufactured dwelling or  floating home located in a facility. Notwithstanding ORS 90.675 or the
+definition of “tenant” in  ORS 90.100 [ (51) and 90.675 ] and regardless of whether  the owner of a
+manufactured dwelling or floating home occupies the dwelling  or home as a residence, a facility
+[26]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+landlord that is entitled to unpaid rent and  receives possession of the facility space from the sheriff
+following restitution pursuant to ORS 105.161  may sell or dispose of the dwelling or home as pro-
+vided in ORS 90.675.
+(2) If  a manufactured dwelling or floating home was occupied immediately prior to abandonment
+by a person other than the facility tenant, and the name and address  of the person are known to the
+landlord, a landlord selling or disposing of  the dwelling or home under subsection (1) of this section
+shall promptly send the person  a copy of the notice sent to the facility tenant under ORS 90.675 (3).
+Notwithstanding ORS 90.425, the  facility landlord may sell or dispose of goods left in the dwelling
+or home or upon the dwelling unit by the person in the same manner as if  the goods were left by
+the facility tenant. If the name and address of the  person are known to the facility landlord, the
+landlord shall promptly send  the person a copy of the written notice sent to the facility tenant under
+ORS 90.425 (3) and allow the person the time described in the notice to  arrange for removal of the
+goods.
+SINGLE-UNIT HOUSING PROPERTY TAX EXCEPTION APPROVAL
+SECTION 25.
+ ORS 307.674 is amended to read:
+307.674. (1) The city shall  approve or deny an application filed under ORS 307.667 within 180
+days after receipt of the application. An application not acted upon within 180 days shall be  deemed
+approved.
+[(2) Final action upon an application by  the city shall be in the form of an ordinance or resolution
+that shall contain the owner’s name and address,  a description of the structure that is the subject of
+the application  that includes either the legal description of the property or the assessor’s property ac-
+count number and the specific conditions upon which the approval of the application is based. ]
+[(3)] (2)(a) Following approval and  on or before the deadline set forth in ORS 307.512, the city
+shall [ file with the county assessor  and ] send a notice of approval  to the owner [ at the last-known
+address of the owner a copy of the ordinance or resolution approving the application ]. The [ copy shall
+contain or be accompanied by a notice explaining ] notice shall explain the grounds  for possible ter-
+mination of the exemption prior to the end of the exemption period or thereafter, and the  effects of
+termination.
+(b) In addition, the city shall file with the county  assessor a document listing [ the same infor-
+mation otherwise required to be in an ordinance or resolution under subsection (2) of this  section, as
+to each application deemed approved  under subsection (1) of this section ] the owner’s name and
+address, a description of the structure that is the subject of the  application that includes
+either the legal description of the property or the assessor’s property  account number and
+the specific conditions upon which the approval of the application is based .
+[(4)] (3) If the application is denied, the city shall state in writing the reasons  for denial and
+send notice of denial to the applicant at the last-known address  of the applicant within 10 days after
+the denial. The notice shall inform the applicant of the right to appeal under ORS 307.687.
+[(5)] (4)(a) The city, after consultation  with the county assessor, shall establish an application
+fee in an amount sufficient to cover the  cost to be incurred by the city and the assessor in admin-
+istering ORS 307.651 to 307.687.
+(b) The application fee shall be paid to the city at the time the application for exemption is filed.
+(c) If the application is approved, the city shall pay the application fee to the county  assessor
+for deposit in the county general  fund, after first deducting that portion of the fee attributable to
+[27]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+its own administrative costs in processing the application.
+(d) If the application is denied, the city shall retain that portion of  the application fee attrib-
+utable to its own administrative costs and shall refund the balance to the applicant.
+SECTION 26.
+The amendments to ORS 307.674 by section 25 of this 2024 Act apply to ap-
+plications approved on or after the effective date of this 2024 Act.
+SECTION 27.  ORS 307.681 is amended to read:
+307.681. (1)(a) Except as provided in  ORS 307.684, if, after an application has been approved
+under ORS 307.674, the city finds that any provision of ORS 307.651 to 307.687 is  not being complied
+with, or any provision required by the city pursuant to ORS 307.651 to  307.687 is not being complied
+with, the city shall give  notice to the owner, mailed to the owner’s last-known address, of the pro-
+posed termination of the exemption.
+(b) The notice shall state the reasons for the proposed termination and shall  require the owner
+to appear at a specified time, not less than 20 days  after mailing the notice, to show cause, if any,
+why the exemption should not be terminated.
+(2)(a) If the owner fails to show  cause why the exemption should not be terminated, within 10
+days following such failure,  the city shall [ adopt an ordinance or resolution stating its findings and
+terminating the exemption. A copy of the ordinance or  resolution ] give notice to the owner stating
+its findings terminating the exemption.
+(b) A copy of the notice shall be  filed with the county assessor [ and a copy sent to the owner
+at the owner’s last-known address within 10 days after its adoption ].
+SECTION 28. The amendments to ORS 307.681 by section 27 of this 2024 Act apply to
+notices to owners given under ORS 307.681 (1) on or after  the effective date of this 2024 Act.
+HOUSE BILL 2001 (2023) TECHNICAL FIXES
+SECTION 29.  ORS 184.455 is amended to read:
+184.455. (1) The Oregon  Department of Administrative Services shall allocate housing production
+targets to each city with a population of 10,000 or  greater and to each unincorporated urbanized
+area within the Metro urban growth boundary. Housing production targets shall  describe the pro-
+portion of the  allocated housing need that the department determines should be produced by for-
+profit, nonprofit and public builders  in each city within six years for a city or urbanized area inside
+Metro and within eight years for a city or urbanized area outside Metro.
+(2) The housing production targets must be separated into:
+(a) A total target; and
+(b) A target segmented by each income level in ORS 184.453 (4).
+(3) In establishing housing production targets under this section, the department:
+(a) May include  a proportion of the allocated housing need to accommodate people experiencing
+homelessness and housing underproduction within a  city greater than the proportion of the 20-year
+period; and
+[(b) Is not required to consider allocation of needed housing by Metro under ORS 197A.348  or
+197A.350; and]
+[(c)] (b) Shall coordinate the allocation of the targets with a schedule developed by the Depart-
+ment of  Land Conservation and Development for requiring housing production strategies under ORS
+197A.100.
+SECTION 30.
+ ORS 197.320, as amended by section 16, chapter 13, Oregon  Laws 2023, and sec-
+[28]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tion 11, chapter 326, Oregon Laws 2023, is amended to read:
+197.320. The Land Conservation and Development Commission shall issue an  order requiring a
+local government, state agency or special district to take action necessary to bring  its comprehen-
+sive plan, land use regulation, limited land use decisions or other  land use decisions or actions into
+compliance  with  the goals, acknowledged comprehensive plan provisions, land use regulations,
+housing production strategy or housing acceleration agreements if the  commission has good cause
+to believe:
+(1) A comprehensive plan or land use regulation adopted by a local government not on a  com-
+pliance schedule is not in compliance with the goals by the date set in ORS 197.245  or 197.250 for
+such compliance.
+(2) A plan, program, rule  or regulation affecting land use adopted by a state agency or special
+district  is  not in compliance with the goals by the date set in ORS 197.245 or 197.250 for such
+compliance.
+(3) A local  government is not making satisfactory progress toward performance of its compliance
+schedule.
+(4) A state agency is not making satisfactory progress in carrying  out its coordination agree-
+ment or the requirements of ORS 197.180.
+(5) A local government has no comprehensive plan or  land use regulation and is not on a com-
+pliance schedule directed to developing the plan or regulation.
+(6) A local government has engaged in a pattern  or practice of decision-making that violates an
+acknowledged comprehensive plan or land use regulation. In making its determination under  this
+subsection, the commission shall  determine whether there is evidence in the record to support the
+decisions made. The commission shall not judge the issue solely upon adequacy of  the findings in
+support of the decisions.
+(7) A local  government has failed to comply with a commission order entered under ORS 197.644.
+(8) A special district has engaged in a pattern or practice of decision-making that  violates an
+acknowledged comprehensive plan or cooperative agreement adopted pursuant to ORS 197.020.
+(9) A special district is not making satisfactory progress toward performance of its  obligations
+under ORS chapters 195, 197 and 197A.
+(10) A local government’s approval standards, special conditions on approval of  specific devel-
+opment proposals or procedures for approval do not comply with ORS 197A.400 (1) or (3).
+(11) A  local government is not making satisfactory progress toward meeting its obligations un-
+der ORS 195.065.
+(12) A local government within the jurisdiction of a metropolitan  service district has failed to
+make changes to the comprehensive plan or land  use regulations to comply with the regional
+framework plan of the district or has engaged in a pattern  or practice of decision-making that vio-
+lates a requirement of the regional framework plan.
+(13) A city with a population of 10,000 or greater , as defined in ORS 197A.015,  that:
+(a) Has a pattern or practice of violating housing-related statutes or implementing policies that
+create unreasonable cost or delay to the production of housing as described in ORS 197A.400 (1);
+(b) Has a pattern or  practice of creating adverse disparate impacts to state or federal protected
+classes or inhibiting equitable access to housing choice, as described in ORS 197A.100 (2)(b) to (d);
+(c) Has failed to enter into a housing acceleration agreement as required  under ORS 197A.130
+(6); or
+(d) Has materially breached a term  of a housing acceleration agreement under ORS 197A.130 (8),
+[29]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+including a failure to meet the timeline for performance under ORS 197A.130 (8)(a)(A).
+SECTION 31.
+ ORS 197.522 is amended to read:
+197.522. (1) As used in this section:
+(a) “Needed housing” has the meaning given that term in ORS [ 197A.015] 197A.018.
+(b) “Partition” has the meaning given that term in ORS 92.010.
+(c) “Permit” means a permit as defined in ORS 215.402 and a permit as defined in ORS 227.160.
+(d) “Subdivision” has the meaning given that term in ORS 92.010.
+(2) A local government shall approve an application for a permit, authorization or  other ap-
+proval necessary for the subdivision  or partitioning of, or construction on, any land for needed
+housing that is consistent with the comprehensive plan and applicable land use regulations.
+(3) If an application  is inconsistent with the comprehensive plan and applicable land use regu-
+lations, the local government, prior to making a final decision  on the application, shall allow the
+applicant to offer an  amendment or to propose conditions of approval that would make the applica-
+tion consistent with the plan and applicable regulations.  If an applicant seeks to amend the appli-
+cation or propose conditions of approval:
+(a) A county may extend the time limitation under ORS  215.427 for final action by the governing
+body of a county on an application for needed  housing and may set forth a new time limitation for
+final action on the consideration of future amendments or proposals.
+(b) A city may extend  the time limitation under ORS 227.178 for final action by the governing
+body of a city on an application for needed housing and may  set forth a new time limitation for final
+action on the consideration of future amendments or proposals.
+(4) A local government  shall deny an application that is inconsistent with the comprehensive
+plan and applicable land use regulations and that cannot  be made consistent through amendments
+to the application or the imposition of reasonable conditions of approval.
+SECTION 32.
+ORS 197.186, 197.200, 197.475, 197.478, 197.480, 197.485, 197.488, 197.490,
+197.746, 197.748, 197.752, 197.754 and 197.756 are added to and made  a part of ORS chapter
+197A.
+SECTION 33.  ORS 197.480 is amended to read:
+197.480. (1) Each city and county governing body shall provide for  mobile home or manufactured
+dwelling parks as an allowed use:
+(a) By zoning ordinance and  by comprehensive plan designation on buildable lands within urban
+growth boundaries; and
+(b) In areas planned and zoned for a residential density of six to 12 units  per acre sufficient to
+accommodate the need established pursuant to subsections (2) and (3) of this section.
+(2) A city or county shall establish a projection of need  for mobile home or manufactured
+dwelling parks based on:
+(a) Population projections;
+(b) Household income levels;
+(c) Housing market trends of the region; and
+(d) An inventory of mobile home  or manufactured dwelling parks sited in areas planned and
+zoned or generally used for commercial, industrial or high density residential development.
+(3) The inventory required by subsection (2)(d)  and subsection (4) of this section shall establish
+the need for areas to be planned and zoned to accommodate the potential displacement  of the in-
+ventoried mobile home or manufactured dwelling parks.
+(4) Notwithstanding the provisions of subsection (1) of this section, a city  or county within
+[30]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Metro, shall inventory the mobile home or manufactured dwelling parks  sited in areas planned and
+zoned or generally used for commercial, industrial or high density residential development.
+(5)(a) A city or county may establish clear and objective criteria and standards for the  place-
+ment and design of mobile home or manufactured dwelling parks.
+(b) If a  city or county requires a hearing before approval of a mobile home or manufactured
+dwelling park, application of  the criteria and standards adopted pursuant to paragraph (a) of this
+subsection shall be the sole issue to be determined at the hearing.
+(c) No  criteria or standards established under paragraph (a) of this subsection may be adopted
+which would preclude the development of mobile home or  manufactured dwelling parks within the
+intent of ORS 197.475 to [ 197.493] 197.490.
+SECTION 34.
+ ORS 197A.348 is amended to read:
+197A.348. (1) As used in ORS 197A.350 and this section, “needed  housing” means all housing on
+land zoned for residential use or  mixed residential and commercial use that is determined to meet
+the need  shown for housing within an urban growth boundary at price ranges and rent levels that
+are affordable to households within the county  with a variety of incomes, including but not limited
+to households with low incomes, very low incomes and extremely  low incomes, as those terms are
+defined by the United  States Department of Housing and Urban Development under 42 U.S.C. 1437a.
+“Needed housing” includes the following housing types:
+(a) Attached and detached single-family housing, middle housing types as  described in ORS
+197A.420 and multiple family housing for both owner and renter occupancy;
+(b) Government assisted housing;
+(c) Mobile home or manufactured dwelling parks as provided in ORS 197.475 to  [ 197.493]
+197.490;
+(d) Manufactured homes on individual lots planned  and zoned for single-family residential use
+that are in addition to lots within designated manufactured dwelling subdivisions;
+(e) Agriculture workforce housing; and
+(f) Single room occupancies as defined in ORS 197A.430.
+(2) For the purpose  of estimating housing needs, as described in ORS 197A.350 (3)(b), Metro shall
+adopt findings and perform an analysis that estimates each of the following factors:
+(a) Projected needed housing units over the next 20 years;
+(b) Current housing underproduction;
+(c) Housing units needed for people experiencing homelessness; and
+(d) Housing units  projected to be converted into vacation homes or second homes during the
+next 20 years.
+(3) Metro shall make the estimate described in  subsection (2) of this section using a shorter time
+period than since the last review  under ORS 197A.350 (2)(a)(B) if Metro finds that the shorter time
+period will provide more accurate and reliable data  related to housing need. The shorter time period
+may not be less than three years.
+(4) Metro shall use data from a wider geographic area or use a time period  longer than the time
+period described in subsection (2) of this section if the analysis of  a wider geographic area or the
+use of a longer time period will provide more accurate, complete  and reliable data relating to trends
+affecting housing need than an  analysis performed pursuant to subsection (2) of this section. Metro
+must clearly describe the geographic area, time frame and source of data used in  an estimate per-
+formed under this subsection.
+(5) Subsection (1)(a) and  (d) of this section does not apply to a city with a population of less than
+[31]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+2,500.
+(6) Metro may take an exception under ORS 197.732 to the definition  of “needed housing” in
+subsection (1) of this section in the same manner that an exception may be taken under the goals.
+SECTION 35.
+ ORS 197.492 is amended to read:
+197.492. As used in this section and ORS 197.493:
+(1) “Manufactured dwelling park”  and “mobile home park” have the meanings given those
+terms in ORS 446.003.
+[(1)] (2) “Recreational vehicle” has the meaning given that term in ORS 174.101.
+[(2)] (3) “Recreational vehicle park”:
+(a) Means a place where two or more recreational vehicles  are located within 500 feet of one
+another on  a lot, tract or parcel of land under common ownership and having as its primary purpose:
+(A) The renting of space and related facilities for a charge or fee; or
+(B) The provision of space for free in connection with securing the patronage of a person.
+(b) Does not mean:
+(A) An area designated only for picnicking or overnight camping; or
+(B) A manufactured dwelling park or mobile home park.
+SECTION 36.
+ ORS 197A.018 is amended to read:
+197A.018. (1) As used in ORS chapter 197A, and  except as provided in subsection (2) of this
+section:
+(a) “Needed housing” means housing by affordability level, as described  in ORS 184.453 (4), type,
+characteristics and location that is necessary  to accommodate the city’s allocated housing need over
+the 20-year planning period in effect when the city’s housing capacity is determined.
+(b) “Needed housing” includes the following housing types:
+(A) Detached single-family housing, middle housing types as described in ORS 197A.420  and
+multifamily housing that is owned or rented;
+(B) Government assisted housing;
+(C) Mobile home or manufactured dwelling parks  as provided in ORS 197.475 to [ 197.493]
+197.490;
+(D) Manufactured homes on individual lots planned and zoned for single-family residential  use
+that are in addition to lots within designated manufactured dwelling subdivisions;
+(E) Housing for agricultural workers;
+(F) Housing for  individuals with a variety of disabilities, related to mobility or
+communications , that require accessibility features;
+(G) Housing for older persons, as defined in ORS 659A.421;
+(H) Housing for college or university students, if relevant to the region; and
+(I) Single room occupancies as defined in ORS 197A.430.
+(2) Subsection (1)(b)(A) and (D) of this section does not apply to:
+(a) A city with a population of less than 2,500.
+(b) A county with a population of less than 15,000.
+(3) At the time that a city  is required to inventory its buildable lands under ORS 197A.270 (2),
+197A.280 (2) or 197A.335 (1), the city shall determine its needed housing under this section.
+(4) In determining needed housing the city must demonstrate that the  projected housing types,
+characteristics and locations are:
+(a) Attainable for the allocated housing need by income, including consideration of publicly
+supported housing;
+[32]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Appropriately responsive to current and projected market trends; and
+(c) Responsive to the factors in ORS 197A.100 (2)(b) to (d).
+SECTION 37.
+ ORS 197A.210 is amended to read:
+197A.210. (1) At the time that  a city is required to inventory its buildable lands under ORS
+197A.270 (2), 197A.280 (2) or 197A.335 (1), the city shall inventory its development-ready lands.
+(2) If the total housing production  target is greater than the housing capacity of development-
+ready lands, the local government shall take  any actions in ORS 197A.100 (3) that demonstrably
+prepare lands for development or  redevelopment or increase the housing capacity of existing
+development-ready lands.
+SECTION 38.  ORS 197A.025 is amended to read:
+197A.025. (1) In adopting rules under ORS  chapter 197A and statewide planning goals relating
+to housing or urbanization, or  administering the rules or statutes, the Land Conservation and De-
+velopment Commission and Department of Land Conservation  and Development shall be guided by
+the following principles:
+(a) Housing  that is safe, accessible and affordable in the community of their choice should be
+available to every Oregonian.
+(b) Building enough equitable housing must be a top priority.
+(c) The  development and implementation of the housing production strategy should be the focal
+point by which the department collaborates with local governments  to address and eliminate local
+barriers to housing production.
+(d) Expertise, technical assistance, model ordinances and other tools and resources  to address
+housing production  should be provided to local governments, using cooperative planning tools em-
+bodied in ORS 197A.103 and 197A.130, but not to the exclusion of the expedient use of enforcement
+authority, including compliance orders under ORS 197.319 to 197.335.
+(e) Housing production should  support fair and equitable housing outcomes, environmental jus-
+tice, climate resilience and access to opportunity.
+(f) Housing production should not be  undermined by litigation, regulatory uncertainty or repet-
+itive or unnecessary procedures.
+(g) Local governments, to the greatest extent possible,  should take actions within their control
+to facilitate the production of housing to meet housing production targets under ORS 184.455.
+(2) Each public body, as defined in ORS  174.109, shall use its authority to remove barriers to,
+and to create pathways for, the development of needed housing and shall collaborate  with the de-
+partment and local governments to identify and implement strategies to support housing  production
+where there is insufficient housing production and choice.
+(3) In adopting rules implementing ORS chapter 197A and statewide land use  goals relating to
+housing and urbanization, the commission may approve a range  of methodologies, policy options or
+assumptions that a local government may adopt in determining:
+(a) Needed housing;
+(b) Housing production strategies or housing coordination strategies;
+(c) Buildable lands or housing capacity;
+(d) Amendments to urban growth boundaries, including under  ORS 197A.215, 197A.270 (5)(a),
+197A.285, 197A.300 to 197A.325, 197A.350 (6)(a) and 197A.362; or
+(e) Adoption or amendments to urban reserves or  rural reserves under ORS 197A.230 to
+197A.250.
+SECTION 39.
+ ORS 197A.215 is amended to read:
+[33]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+197A.215. (1) A local government may  make a land use decision to approve an application to
+remove a lot or parcel from within an urban growth boundary if:
+(a) The application is submitted by the owner of the lot or parcel;
+(b)(A) The lot or parcel is adjacent to the edge of the urban growth boundary; or
+(B) The lot or parcel is adjacent to another lot or parcel that is removed under this section;
+(c) The lot or parcel is assessed under ORS 308A.050 to 308A.128 for its value for farm use;
+(d) The lot or parcel is not within the boundaries of a city; and
+(e) The lot or parcel is not included in  an area identified for urban services under ORS 197.754.
+(2) A local government, in deciding whether to approve an application under  subsection (1) of
+this section, shall consider:
+(a) The projected costs and other consequences of extending urban services to the  affected lot
+or parcel;
+(b) The  potential value in the investment of providing urban services to the affected lot or par-
+cel;
+(c) Any requirement for expanding the  urban growth boundary in other areas to compensate for
+any loss in buildable lands; and
+(d) The projected costs and other consequences of providing urban services to other  areas
+brought in under an expanded urban growth boundary.
+(3)(a) Land that is removed from within an urban  growth boundary pursuant to an application
+approved under this  section shall be removed from any inventory of buildable lands maintained by
+the local government.
+(b) A local government that  approves an application under this section shall either expand the
+urban growth boundary to compensate for any resulting reduction in  available buildable lands or
+increase the development capacity of the remaining  supply of buildable lands consistent with ORS
+197A.270, 197A.280, 197A.285, 197A.300 to 197A.325 or 197A.350 (6).
+SECTION 40.
+ ORS 197A.300 is amended to read:
+197A.300. As used  in ORS [ 197A.285] 197A.300 to 197A.325, “serviceable” means, with respect
+to land, that:
+(1) Adequate  sewer, water and transportation capacity for planned urban development is avail-
+able or can be either provided or made subject to committed financing; or
+(2) Committed financing can be in place to provide  adequate sewer, water and transportation
+capacity for planned urban development.
+SECTION 41.  ORS 197A.302 is amended to read:
+197A.302. The purpose of ORS [ 197A.285] 197A.300 to 197A.325  is to direct the Land Conserva-
+tion and Development  Commission to develop and adopt simplified methods for a city that is outside
+Metro to evaluate or amend the urban growth boundary of the city. The commission  should design
+the methods to:
+(1) Become, as a result of  reduced costs, complexity and time, the methods that are used by most
+cities with growing populations to manage the urban growth boundaries of the cities;
+(2) Encourage, to  the extent practicable given market conditions, the development of urban
+areas in which individuals desire to live and work and  that are increasingly efficient in terms of
+land uses and in terms of public facilities and services;
+(3) Encourage the conservation of important farm and  forest lands, particularly lands that are
+needed to sustain agricultural and forest products industries;
+(4) Encourage cities to increase the development capacity within the urban  growth boundaries
+[34]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of the cities;
+(5) Encourage the provision of an adequate supply of serviceable land  that is planned for needed
+urban residential and industrial development; and
+(6) Assist residents in understanding the major  local government decisions that are likely to
+determine the form of a city’s growth.
+SECTION 42.
+ ORS 197A.325 is amended to read:
+197A.325. (1) Notwithstanding ORS 197.626, when a city  evaluates or amends the urban growth
+boundary of the city pursuant to ORS 197A.310  or 197A.312, the Land Use Board of Appeals has
+jurisdiction for review of a final decision of the city.
+(2) The board shall review the final decision of the  city under ORS 197A.285  and 197A.300  to
+197A.325 as provided in ORS 197.805 to 197.855, except that:
+(a) In circumstances in  which the Land Conservation and Development Commission has specified
+by rule a number or a range of numbers that the city may use:
+(A) The city is not required to adopt  findings to support the use of the number or a number
+within the range of numbers; and
+(B) The board’s review of the number may determine only that the city has used  a number that
+is allowed by the rule.
+(b) The board shall affirm an interpretation by a local government of its  comprehensive plan or
+land use regulations unless that interpretation is clearly erroneous.
+(3) Notwithstanding ORS  197.628 and 197.629, when a city evaluates or amends the urban growth
+boundary of the city pursuant to  ORS 197A.310 or 197A.312, the city is not required to commence
+or complete periodic  review. The commission shall, by rule, specify alternate means to ensure that
+the comprehensive plan and land use  regulations of the city comply with the statewide land use
+planning goals and are updated over time to reflect changing conditions and needs.
+SECTION 43.  ORS 197A.335 is amended to read:
+197A.335. (1) At least once every six years,  by a date scheduled by the Land Conservation and
+Development Commission, a city that is within Metro and has a population of 10,000  or greater
+shall[:]
+[(a)] determine its needed housing under ORS 197A.018 and  inventory the supply of buildable
+lands within the city and determine the housing capacity of the buildable lands .[; and ]
+[(b) Conduct an analysis of the city’s existing and projected needed housing  under statewide plan-
+ning goals and rules related to housing by  type, mix, affordability and density range to determine the
+number of units and amount  of land needed for each needed housing type under ORS 197A.018 for the
+next 20 years. ]
+(2) The housing capacity determination and the needed housing analysis conducted  under this
+section must be adopted as part  of the city’s comprehensive plan no later than one year after com-
+pletion of the needed housing analysis.
+(3) If the housing capacity and needed housing analysis  conducted under this section demon-
+strates a housing need, the city shall amend its comprehensive plan or land  use regulations or take
+actions to update  or implement its housing production strategy to include new measures that
+demonstrably increase the likelihood  that development of needed housing will occur for the type,
+mix, affordability and densities sufficient to accommodate needed housing for the next 20 years.
+SECTION 44.  ORS 197A.362 is amended to read:
+197A.362. (1) Metro shall complete the  inventory, determination and analysis required under
+ORS 197A.350 (3) not later than six years after completion of the previous  inventory, determination
+[35]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+and analysis.
+(2)(a) Metro shall take such action as necessary under ORS  197A.350 (6)(a) to accommodate
+one-half of a 20-year buildable land supply determined under ORS 197A.350 (3) within one year of
+completing the analysis.
+(b) Metro shall take all final action under ORS 197A.350 (6)(a) necessary to accommodate  a
+20-year buildable land supply determined under ORS 197A.350 (3) within  two years of completing the
+analysis.
+(c) [ The metropolitan service  district ] Metro  shall take action under ORS 197A.350 (6)(b), within
+one year after the analysis required under ORS 197A.350 (3)(b) is  completed, to provide sufficient
+buildable land within  the urban growth boundary to accommodate the estimated housing needs for
+20 years from the time the actions are completed.
+(d) [ The metropolitan service district ] Metro  shall consider and adopt new measures that the
+governing body deems appropriate under ORS 197A.350 (6)(b).
+(3) The commission may grant an extension to the time limits of  subsection (2) of this section
+if the Director of the Department of Land  Conservation and Development determines that [ the met-
+ropolitan service district ] Metro has provided good cause for failing to meet the time limits.
+(4)(a) Metro  shall establish a process to expand the urban growth boundary to accommodate a
+need for land for a public school that cannot reasonably be accommodated within  the existing urban
+growth boundary. Metro shall design the process to:
+(A) Accommodate a  need that must be accommodated between periodic analyses of urban growth
+boundary capacity required by subsection (1) of this section; and
+(B) Provide for a final decision on a proposal to expand  the urban growth boundary within four
+months after submission of  a complete application by a large school district as defined in ORS
+195.110.
+(b) At the request of a large school district, Metro shall  assist the district to identify school
+sites required by the school facility planning process described in ORS 195.110. A need for a  public
+school is a specific type of identified land need under ORS 197A.355 (3).
+(5) At least three years after completing  its most recent demonstration of sufficient buildable
+lands under ORS 197A.350, Metro may, on a single occasion,  revise the determination and analysis
+required as part of the demonstration for the purpose of considering an amendment  to [ the] Metro’s
+urban growth boundary, provided:
+(a) One or more cities within Metro  have proposed a development that would require expansion
+of the urban growth boundary;
+(b) The city or cities proposing the development have provided evidence to Metro  that the pro-
+posed development would  provide additional needed housing to the needed housing included in the
+most recent determination and analysis;
+(c) The location chosen for the proposed development is adjacent to the city proposing the  de-
+velopment; and
+(d) The location chosen for the proposed development  is located within an area designated and
+acknowledged as an urban reserve.
+(6)(a) If Metro, after revising its most recent determination and analysis pursuant  to subsection
+(5) of this section, concludes that an expansion  of its urban growth boundary is warranted, Metro
+may take action to expand its  urban growth boundary in one or more locations to accommodate the
+proposed development, provided the urban growth boundary expansion does not exceed  a total of
+1,000 acres.
+[36]
+HB 4063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+(b) If Metro expands its urban growth boundary under this subsection, Metro:
+(A) Must adopt the urban growth boundary expansion not more  than four years after completing
+its most recent demonstration of sufficient buildable lands under ORS 197A.350; and
+(B) Is exempt from the boundary location requirements described in the statewide  land use
+planning goals relating to urbanization.
+CAPTIONS
+SECTION 45.
+The unit captions used in this 2024 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2024 Act.
+EFFECTIVE DATE
+SECTION 46. This 2024 Act takes effect on the 91st day after the date on which  the 2024
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[37]

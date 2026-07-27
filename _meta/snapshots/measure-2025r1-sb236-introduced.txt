@@ -1,0 +1,2430 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 236
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Joint Interim Committee on Addiction and Community Safety Response)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes separate statutes for fentanyl crimes. The Act also changes parts of
+House Bill 4002 from last session. (Flesch Readability Score: 65.5).
+Separates the possession, delivery  and manufacture of fentanyl from general controlled sub-
+stance offense statutes into separate statutes. Adds fentanyl to certain statutes creating  mandatory
+sentences for manufacture and delivery crimes.
+Expands the definition of  “local correctional facility” for the Oregon Jail-Based Medications for
+Opioid Use Disorder Grant Program  to allow people at other types of county facilities to receive
+opioid use disorder treatment and transition planning services.
+Provides that a pharmacist may prescribe, dispense and administer medications for treatment
+of opioid use disorder under specified circumstances. Modifies prescription drug locker provisions.
+Modifies conditional discharge procedural provisions  and when a deflection program coordinator
+provides notice of completion of the program to the court.
+A BILL FOR AN ACT
+Relating to controlled substances; creating new provisions; and amending  ORS 414.766, 423.478,
+475.245, 475.752, 475.898, 475.900, 475.907, 475.924, 475.934 and 689.005 and sections 2, 7, 8, 35,
+36, 52 and 81, chapter 70, Oregon Laws 2024.
+Be It Enacted by the People of the State of Oregon:
+SEPARATE STATUTES FOR FENTANYL OFFENSES
+SECTION 1.
+Sections 2, 3, 4, 5 and 6 of  this 2025 Act are added to and made a part of
+ORS 475.806 to 475.894.
+SECTION 2. (1) It is unlawful for any person  knowingly or intentionally to possess
+fentanyl, or any substituted derivative of fentanyl as defined by  the rules of the State Board
+of Pharmacy, unless the fentanyl or derivative  was obtained directly from, or pursuant to a
+valid prescription or order of, a practitioner while acting in  the course of professional prac-
+tice, or except as otherwise authorized by ORS 475.005 to 475.285 and 475.752 to 475.980.
+(2)(a) Unlawful possession of fentanyl is a  drug enforcement misdemeanor punishable as
+described in section 35, chapter 70, Oregon Laws 2024.
+(b) Notwithstanding paragraph (a) of this subsection, unlawful possession of fentanyl is
+a Class A misdemeanor if the person  possesses one gram or more or five or more user units
+of a mixture or substance containing a detectable amount of fentanyl,  or any substituted
+derivative of fentanyl as defined by the rules of the State Board of Pharmacy.
+(c) Notwithstanding paragraphs  (a) and (b) of this subsection, unlawful possession of
+fentanyl is a Class C felony if:
+(A) The possession is a commercial drug offense under ORS 475.900 (1)(b); or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2002
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) The person possesses a substantial quantity under ORS 475.900 (3)(b).
+SECTION 3.
+(1) Except as authorized by ORS 475.005 to 475.285 and 475.752 to 475.980, it
+is unlawful for any person to  deliver fentanyl, or any substituted derivative of fentanyl as
+defined by the rules of the State Board of Pharmacy.
+(2) Unlawful delivery of fentanyl is a Class B felony.
+(3) Notwithstanding subsection (2) of this section, unlawful delivery of fentanyl is a Class
+A felony if the delivery is to a person under 18 years of age.
+SECTION 4.
+(1) Except as authorized by ORS 475.005 to 475.285 and 475.752 to 475.980, it
+is unlawful for any person to  deliver fentanyl, or any substituted derivative of fentanyl as
+defined by the rules of the State Board of Pharmacy, within 1,000  feet of the real property
+comprising a public or private elementary, secondary or career school attended  primarily by
+minors.
+(2) Unlawful delivery of fentanyl within 1,000 feet of a school is a Class A felony.
+SECTION 5.
+(1) Except as authorized by ORS 475.005 to 475.285 and 475.752 to 475.980, it
+is unlawful for any person to manufacture fentanyl, or any substituted derivative of fentanyl
+as defined by the rules of the State Board of Pharmacy.
+(2) Unlawful manufacture of fentanyl is a Class B felony.
+SECTION 6.
+(1) Except as authorized by ORS 475.005 to 475.285 and 475.752 to 475.980, it
+is unlawful for any person to manufacture fentanyl, or any substituted derivative of fentanyl
+as defined by the rules of the State Board of Pharmacy, within 1,000 feet of  the real property
+comprising a public or private elementary, secondary or career school attended  primarily by
+minors.
+(2) Unlawful manufacture of fentanyl within 1,000 feet of a school is a Class A felony.
+SECTION 7.
+ ORS 475.752, as amended by sections 28 and 39, chapter 70, Oregon Laws  2024, is
+amended to read:
+475.752. (1) Except as authorized by ORS 475.005 to 475.285  and 475.752 to 475.980, it is unlawful
+for any person to manufacture or deliver a controlled substance. Any person who  violates this sub-
+section with respect to:
+(a) A  controlled substance in Schedule I, is guilty of a Class A felony, except as otherwise pro-
+vided in ORS 475.886 and 475.890.
+(b) A controlled substance in  Schedule II, is guilty of a Class B felony, except as otherwise
+provided in ORS 475.878, 475.880, 475.882, 475.904 and 475.906  and sections 3,  4 and 6 of this 2025
+Act.
+(c) A  controlled substance in Schedule III, is guilty of a Class C felony, except as otherwise
+provided in ORS 475.904 and 475.906.
+(d) A controlled substance in Schedule IV, is guilty of a Class B misdemeanor.
+(e) A controlled substance in Schedule V, is guilty of a Class C misdemeanor.
+(2) Except as authorized in ORS 475.005  to 475.285 and 475.752 to 475.980, it is unlawful for any
+person to create or deliver a counterfeit substance. Any person who violates this subsection with
+respect to:
+(a) A counterfeit substance in Schedule I, is guilty of a Class A felony.
+(b) A counterfeit substance in Schedule II, is guilty of a Class B felony.
+(c) A counterfeit substance in Schedule III, is guilty of a Class C felony.
+(d) A counterfeit substance in Schedule IV, is guilty of a Class B misdemeanor.
+(e) A counterfeit substance in Schedule V, is guilty of a Class C misdemeanor.
+[2]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) It is unlawful for any person  knowingly or intentionally to possess a controlled substance
+unless the substance was obtained directly from, or pursuant to a valid prescription or order of,  a
+practitioner while acting in the course of professional practice, or except as  otherwise authorized
+by ORS 475.005 to 475.285 and 475.752 to 475.980. Any person who  violates this subsection with re-
+spect to:
+(a) A controlled substance in Schedule I, is guilty of  a drug enforcement misdemeanor
+punishable as described in section 35,  chapter 70, Oregon Laws 2024, except as otherwise provided
+in ORS 475.854, 475.874 and 475.894 and subsection (7) of this section.
+(b) A controlled substance in Schedule II, is guilty of a  drug enforcement misdemeanor
+punishable as described in section 35,  chapter 70, Oregon Laws 2024, except as otherwise provided
+in ORS  475.814, 475.824, 475.834 or 475.884  or section 2 of this 2025 Act  or subsection (8) of this
+section.
+(c) A controlled substance in Schedule III, is guilty of a drug enforcement  misdemeanor
+punishable as described in section 35, chapter 70, Oregon Laws 2024.
+(d) A controlled  substance in Schedule IV, is guilty of a drug enforcement misdemeanor
+punishable as described in section 35, chapter 70, Oregon Laws 2024.
+(e) A controlled substance in Schedule V, is guilty of a violation.
+(4) It is an affirmative defense in any prosecution under this section for  manufacture, possession
+or delivery  of the plant of the genus Lophophora commonly known as peyote that the peyote is being
+used or is intended for use:
+(a) In connection with the good faith practice of a religious belief;
+(b) As directly associated with a religious practice; and
+(c) In a manner that is not dangerous to the health of the user or others  who are in the prox-
+imity of the user.
+(5) The  affirmative defense created in subsection (4) of this section is not available to any person
+who has possessed  or delivered the peyote while incarcerated in a correctional facility in this state.
+(6)(a) Notwithstanding subsection (1) of  this section, a person who unlawfully manufactures or
+delivers a controlled substance in Schedule IV and who thereby causes death to another person is
+guilty of a Class C felony.
+(b) For purposes of this subsection, causation is established when the controlled  substance plays
+a substantial role in the death of the other person.
+(7) Notwithstanding subsection (3)(a) of this section:
+(a) Unlawful possession of a controlled substance in Schedule I  is a Class A misdemeanor if the
+person possesses:
+(A) Forty or more user units of a mixture  or substance containing a detectable amount of
+lysergic acid diethylamide; or
+(B) Twelve grams or more of a mixture or  substance containing a detectable amount of
+psilocybin or psilocin.
+(b) Unlawful possession of a controlled substance in Schedule I is a Class B felony if:
+(A) The possession is a commercial drug offense under ORS 475.900 (1)(b); or
+(B) The person possesses a substantial quantity under ORS 475.900 (3)(b).
+(8) Notwithstanding subsection (3)(b) of this section ,[:]
+[(a) Unlawful possession of a controlled substance in Schedule II is a  Class A misdemeanor if the
+person possesses one gram or more or five  or more user units of a mixture or substance containing a
+detectable amount of fentanyl, or any substituted derivative of fentanyl  as defined by the rules of the
+[3]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+State Board of Pharmacy. ]
+[(b)] unlawful possession of a controlled substance in Schedule II is a Class C felony if:
+[(A)] (a)  The possession is a commercial drug offense under ORS 475.900 (1)(b); or
+[(B)] (b) The person possesses a substantial quantity under ORS 475.900 (3)(b).
+SECTION 8.
+ ORS 475.900, as amended by section 25, chapter 70, Oregon Laws 2024,  is amended
+to read:
+475.900. (1) A  violation of ORS 475.752, 475.806 to 475.894, 475.904 or 475.906 shall be classified
+as crime category 8 of the sentencing  guidelines grid of the Oregon Criminal Justice Commission if:
+(a) The violation constitutes delivery or manufacture of a  controlled substance and involves
+substantial quantities of  a controlled substance. For purposes of this paragraph, the following
+amounts constitute substantial quantities of the following controlled substances:
+(A) Five grams or more of a mixture or substance containing a detectable amount of heroin;
+(B) Five grams or  more or 25 or more user units of a mixture or substance containing a de-
+tectable amount of  fentanyl, or any substituted derivative of fentanyl as defined by the rules of the
+State Board of Pharmacy;
+(C) Ten grams or more of a mixture or substance containing a detectable amount of cocaine;
+(D) Ten grams or more of a mixture or substance containing a detectable  amount of metham-
+phetamine, its salts, isomers or salts of its isomers;
+(E) Two hundred or more user units of a mixture or substance  containing a detectable amount
+of lysergic acid diethylamide;
+(F) Sixty grams or more of a mixture or  substance containing a detectable amount of psilocybin
+or psilocin; or
+(G) Five grams or  more or 25 or more pills, tablets or capsules of a mixture or substance con-
+taining a detectable amount of:
+(i) 3,4-methylenedioxyamphetamine;
+(ii) 3,4-methylenedioxymethamphetamine; or
+(iii) 3,4-methylenedioxy-N-ethylamphetamine.
+(b) The violation constitutes possession, delivery or manufacture of a controlled substance and
+the possession,  delivery or manufacture is a commercial drug offense. A possession, delivery or
+manufacture is  a commercial drug offense for purposes of this subsection if it is accompanied by at
+least three of the following factors:
+(A) The delivery was of heroin, fentanyl, cocaine, methamphetamine,  lysergic acid diethylamide,
+psilocybin or psilocin and was for consideration;
+(B) The offender was in possession of $300 or more in cash;
+(C) The offender was unlawfully in possession of a firearm or other weapon as described in ORS
+166.270 (2), or the offender used, attempted to use or threatened to use a deadly or  dangerous
+weapon as defined in ORS 161.015, or the offender was in possession of a  firearm or other deadly
+or dangerous weapon as defined  in ORS 161.015 for the purpose of using it in connection with a
+controlled substance offense;
+(D) The offender was in  possession of materials being used for the packaging of controlled sub-
+stances such as scales, wrapping or foil, other than  the material being used to contain the substance
+that is the subject of the offense;
+(E) The offender was in possession of drug transaction records or customer lists;
+(F) The offender was in possession of stolen property;
+(G) Modification  of structures by painting, wiring, plumbing or lighting to facilitate a controlled
+[4]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+substance offense;
+(H) The offender was in  possession of manufacturing paraphernalia, including recipes, precursor
+chemicals, laboratory equipment, lighting, ventilating or power generating equipment;
+(I) The offender was using public lands for the manufacture of controlled substances;
+(J) The offender had constructed  fortifications or had taken security measures with the potential
+of injuring persons; or
+(K) The offender was in possession of controlled substances in an amount greater than:
+(i) Three grams or more of a mixture or substance containing a detectable amount of heroin;
+(ii) Three grams or more or  15 or more user units of a mixture or substance containing a de-
+tectable amount of  fentanyl, or any substituted derivative of fentanyl as defined by the rules of the
+State Board of Pharmacy;
+(iii) Eight grams or more of a mixture or substance containing a detectable amount of cocaine;
+(iv) Eight grams or more of a  mixture or substance containing a detectable amount of metham-
+phetamine;
+(v) Twenty or more user units of a mixture or substance containing a detectable amount  of
+lysergic acid diethylamide;
+(vi) Ten grams or more of  a mixture or substance containing a detectable amount of psilocybin
+or psilocin; or
+(vii) Four grams or more or 20 or more pills, tablets or capsules of a mixture or substance
+containing a detectable amount of:
+(I) 3,4-methylenedioxyamphetamine;
+(II) 3,4-methylenedioxymethamphetamine; or
+(III) 3,4-methylenedioxy-N-ethylamphetamine.
+(c) The violation constitutes a violation of  ORS 475.848, 475.852, 475.868, 475.872, 475.878,
+475.882, 475.888, 475.892 or 475.904 or section 4 or 6 of this 2025 Act .
+(d) The violation constitutes manufacturing methamphetamine and the  manufacturing consists
+of:
+(A) A chemical reaction involving one or more precursor substances for the  purpose of manu-
+facturing methamphetamine; or
+(B) Grinding, soaking or otherwise  breaking down a precursor substance for the purpose of
+manufacturing methamphetamine.
+(e) The violation  constitutes a violation of ORS 475.906 (1) or (2) that is not described in ORS
+475.907.
+(2) A violation of  ORS 475.752 or 475.806 to 475.894 shall be classified as crime category 7 of
+the sentencing guidelines grid of the Oregon Criminal Justice Commission if the  violation consti-
+tutes delivery for consideration of heroin, cocaine, fentanyl,  methamphetamine or
+3,4-methylenedioxyamphetamine, 3,4-methylenedioxymethamphetamine or
+3,4-methylenedioxy-N-ethylamphetamine and:
+(a) The person knows, or reasonably should have known,  that the delivery is occurring within
+500 feet of the real property comprising a treatment facility;
+(b) The person knows, or reasonably should  have known, that the delivery is occurring within
+500 feet of the real property comprising a temporary residence shelter; or
+(c) The delivery occurs within 30 feet of the real property comprising a public park.
+(3) A violation of  ORS 475.752 or 475.806 to 475.894 shall be classified as crime category 6 of
+the sentencing guidelines grid of the Oregon Criminal Justice Commission if:
+[5]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) The violation constitutes delivery of heroin, cocaine, fentanyl, methamphetamine  or
+3,4-methylenedioxyamphetamine, 3,4-methylenedioxymethamphetamine or
+3,4-methylenedioxy-N-ethylamphetamine and is for consideration.
+(b) The violation constitutes possession of substantial quantities of a controlled substance. For
+purposes of this paragraph, the following amounts  constitute substantial quantities of the following
+controlled  substances:
+(A) Five grams or more of a mixture or substance containing a detectable amount of heroin;
+(B) Five grams or more or 25 or more user units of a mixture or substance  containing a de-
+tectable amount of fentanyl, or any substituted derivative of fentanyl as defined by the rules  of the
+State Board of Pharmacy;
+(C) Ten grams or more of a mixture or substance containing a detectable amount of cocaine;
+(D) Ten grams or  more of a mixture or substance containing a detectable amount of metham-
+phetamine;
+(E) Two hundred or more  user units of a mixture or substance containing a detectable amount
+of lysergic acid diethylamide;
+(F) Sixty grams or more of a mixture or  substance containing a detectable amount of psilocybin
+or psilocin; or
+(G) Five grams or more or 25 or more pills, tablets or capsules of a mixture  or substance con-
+taining a detectable amount of:
+(i) 3,4-methylenedioxyamphetamine;
+(ii) 3,4-methylenedioxymethamphetamine; or
+(iii) 3,4-methylenedioxy-N-ethylamphetamine.
+(4) A violation of  ORS 475.752 or 475.806 to 475.894 shall be classified as crime category 5 of
+the sentencing guidelines grid of the Oregon Criminal Justice Commission if the  violation consti-
+tutes delivery of heroin, cocaine, fentanyl, methamphetamine or  3,4-methylenedioxyamphetamine,
+3,4-methylenedioxymethamphetamine or 3,4-methylenedioxy-N-ethylamphetamine and:
+(a) The person knows, or reasonably should  have known, that the delivery is occurring within
+500 feet of the real property comprising a treatment facility;
+(b) The person knows, or reasonably should have known,  that the delivery is occurring within
+500 feet of the real property comprising a temporary residence shelter; or
+(c) The delivery occurs within 30 feet of the real property comprising a public park.
+(5) Any felony violation of ORS 475.752 or  475.806 to 475.894 not contained in subsections (1) to
+(4) of this section shall be classified as crime category 4  of the sentencing guidelines grid of the
+Oregon Criminal Justice Commission if the violation  involves delivery or manufacture of a con-
+trolled substance.
+(6) In order to prove a commercial drug offense, the state shall  plead in the accusatory instru-
+ment sufficient  factors of a commercial drug offense under subsection (1) of this section. The state
+has the burden of proving each factor beyond a reasonable doubt.
+(7) As used in this section:
+(a) “Mixture or substance”  means any mixture or substance, whether or not the mixture or
+substance is in an ingestible or marketable form at the time of the offense.
+(b) “Public park” means a park operated by the state,  a county, a city or a park and recreation
+district.
+(c) “Temporary residence shelter”  means a building that provides shelter on a temporary basis
+for individuals and families who lack permanent housing.
+[6]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) “Treatment facility” has the meaning given that term in ORS 430.306.
+SECTION 9.
+ ORS 475.907 is amended to read:
+475.907. (1) When  a person is convicted of the unlawful delivery of cocaine, methamphetamine,
+heroin, fentanyl  or ecstasy to a person under  18 years of age, the court shall sentence the person
+to a term  of incarceration ranging from 34 months to 72 months, depending on the person’s criminal
+history.
+(2) The sentence described in subsection (1) of this section does not apply to a person who is less
+than three years older  than the person under 18 years of age to whom the controlled substance was
+delivered, unless the  person has a previous conviction for delivery of cocaine, methamphetamine,
+heroin, fentanyl  or ecstasy to a person under 18 years of age.
+SECTION 10.  ORS 475.924 is amended to read:
+475.924. As used in ORS [ 164.061,] 475.907, 475.924 and 475.925:
+(1) “Controlled substance” means:
+(a) Cocaine;
+(b) Methamphetamine;
+(c) Heroin; [ or]
+(d) Fentanyl; or
+[(d)] (e)  Ecstasy.
+(2) “Ecstasy” means:
+(a) 3,4-methylenedioxymethamphetamine;
+(b) 3,4-methylenedioxyamphetamine; or
+(c) 3,4-methylenedioxy-N-ethylampheta-
+mine.
+(3) “Mixture or substance” means  any mixture or substance, whether or not the mixture or
+substance is in an ingestible or marketable form at the time of the offense.
+SECTION 11.
+ ORS 475.934 is amended to read:
+475.934. (1) When a court sentences a person convicted of a crime listed in subsection (2) of  this
+section, the court may not impose a sentence  of optional probation or grant a downward disposi-
+tional departure or a downward durational  departure under the rules of the Oregon Criminal Justice
+Commission if the  person has a previous conviction for any of the crimes listed in subsection (2) of
+this section.
+(2) The crimes to which subsection (1) of this section applies are:
+(a) Manufacture or delivery of a controlled substance under ORS 475.752 (1);
+(b) Creation or delivery of a counterfeit substance under ORS 475.752 (2);
+(c) Manufacture or delivery of heroin under ORS 475.846, 475.848, 475.850 or 475.852;
+(d) Manufacture or delivery of fentanyl under section 3, 4, 5 or 6 of this 2025 Act;
+[(d)] (e)  Manufacture or delivery of 3,4-methylenedioxymethamphetamine  under ORS 475.866,
+475.868, 475.870 or 475.872;
+[(e)] (f)  Manufacture or delivery of cocaine under ORS 475.876, 475.878, 475.880 or 475.882;
+[(f)] (g)  Manufacture or delivery of methamphetamine under  ORS 475.886, 475.888, 475.890 or
+475.892;
+[(g)] (h)  Manufacture or delivery of a controlled substance within 1,000  feet of a school under
+ORS 475.904;
+[(h)] (i) Delivery of a controlled substance to a person under 18 years of  age under ORS 475.906;
+and
+[7]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(i)] (j)  Possession of a precursor substance with intent  to manufacture a controlled substance
+under ORS 475.967.
+(3)(a) For a crime committed on or after November 1, 1989, a conviction is considered  to have
+occurred upon the pronouncement in open court of sentence.  However, when sentences are imposed
+for two or more convictions arising out of  the same conduct or criminal episode, none of the con-
+victions is considered to have occurred prior to any of the other convictions arising out of  the same
+conduct or criminal episode.
+(b) For  a crime committed prior to November 1, 1989, a conviction is considered to have oc-
+curred upon the pronouncement in open court of a sentence or upon the pronouncement in  open
+court of the suspended imposition of a sentence.
+(4) For purposes of this section, previous convictions must be proven pursuant to ORS 137.079.
+(5) As used in this section, “previous conviction”  includes convictions entered in any other state
+or federal court for comparable offenses.
+SECTION 12.
+ ORS 475.898 is amended to read:
+475.898. (1) A person who contacts emergency medical services or a law enforcement agency  to
+obtain medical  assistance for another person who needs medical assistance due to a drug-related
+overdose is immune from arrest , [or] prosecution  or the imposition of a civil penalty  for an offense
+listed in subsection (3) of this section if the evidence of the offense was  obtained because the person
+contacted emergency medical services or a law enforcement agency.
+(2) A person who is in need of medical assistance due  to a drug-related overdose is immune from
+arrest, [ or] prosecution  or the imposition of a civil penalty  for an offense listed in subsection (3)
+of this section if the evidence of the offense was obtained because any person  contacted emergency
+medical services or a law enforcement agency to obtain medical assistance for the person.
+(3) The immunity conferred under  subsections (1) and (2) of this section applies to arrest , [ and]
+prosecution  and the imposition of a civil penalty  for:
+(a) Frequenting a place where controlled substances are used as described in ORS 167.222;
+(b) Possession of a controlled substance as described in ORS 475.752;
+(c) Unlawful possession of hydrocodone as described in ORS 475.814;
+(d) Unlawful possession of methadone as described in ORS 475.824;
+(e) Unlawful possession of oxycodone as described in ORS 475.834;
+(f) Unlawful possession of heroin as described in ORS 475.854;
+(g) Unlawful possession of fentanyl as described in section 2 of this 2025 Act;
+[(g)] (h)  Unlawful possession  of 3,4-methylenedioxymethamphetamine as described in ORS
+475.874;
+[(h)] (i) Unlawful possession of cocaine as described in ORS 475.884;
+[(i)] (j)  Unlawful possession of methamphetamine as described in ORS 475.894;
+[(j)] (k)  Unlawfully possessing a prescription drug as described in ORS 689.527 (6); and
+[(k)] (L)  Unlawful possession of drug paraphernalia with intent to sell or deliver as described
+in ORS 475.525.
+(4)(a) A person may not be arrested  for violating, or found to be in violation of, the conditions
+of the person’s pretrial release, probation, post-prison supervision or parole if the violation  involves:
+(A) The possession or use of a controlled substance or  frequenting a place where controlled
+substances are used; and
+(B) The evidence of the violation was obtained because the person contacted  emergency medical
+services or a law enforcement agency to obtain medical assistance for another person  who needed
+[8]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+medical assistance due to a drug-related overdose.
+(b) A person may not be arrested for  violating, or found to be in violation of, the conditions of
+the person’s pretrial release, probation, post-prison supervision or parole if the violation involves:
+(A) The possession or use of  a controlled substance or frequenting a place where controlled
+substances are used; and
+(B) The evidence of the violation was obtained because the person  was in need of medical as-
+sistance due to a drug-related overdose and  any person contacted emergency medical services or a
+law enforcement agency to obtain medical assistance for the person.
+(5)(a) A person may  not be arrested on an outstanding warrant for any of the offenses listed in
+subsection (3) of this section, or on an outstanding warrant for a violation, other than  commission
+of a new crime,  of the conditions of the person’s probation, post-prison supervision or parole for
+conduct that would constitute an offense listed in subsection (3) of  this section, if the location of the
+person was obtained because the person  contacted emergency medical services or a law enforcement
+agency to obtain  medical assistance for another person who needed medical assistance due to a
+drug-related overdose.
+(b) A person may not be  arrested on an outstanding warrant for any of the offenses listed in
+subsection (3) of this section, or on an outstanding warrant for a violation, other than  commission
+of a new crime,  of the conditions of the person’s probation, post-prison supervision or parole for
+conduct that would constitute an offense listed in subsection (3) of  this section, if the location of the
+person was obtained because the person was in need of medical assistance due to a drug-related
+overdose and any person contacted emergency medical services or a law enforcement agency to
+obtain medical assistance for the person.
+(c) This subsection does not apply to outstanding  federal warrants or outstanding warrants is-
+sued from other states.
+(6) The immunity from arrest and prosecution described in this section is not grounds for the
+suppression of evidence relating to a criminal offense other than the offenses listed in subsection  (3)
+of this section.
+(7) As used in this section:
+(a) “Controlled substance” has the meaning given that term in ORS 475.005.
+(b) “Drug-related overdose” means an acute condition,  including mania, hysteria, extreme phys-
+ical illness, coma or death, resulting from the consumption  or use of a controlled substance, or an-
+other substance with which a  controlled substance was combined, that a person would reasonably
+believe to be a condition that requires medical attention.
+SECTION 13.
+ ORS 475.245, as amended by section 53,  chapter 70, Oregon Laws 2024, is
+amended to read:
+475.245. (1)(a) Whenever a person is charged with an offense listed in subsection (5) of this sec-
+tion, the court,  with the consent of the district attorney and the person, may defer further pro-
+ceedings and place the person on probation. The terms of the probation  shall be defined by a
+probation agreement.
+(b) A probation agreement carries the understanding  that if the defendant fulfills the terms of
+the agreement, the criminal charges filed against the defendant will be dismissed with prejudice.
+(c) The agreement  must contain a waiver of the following rights of the defendant with respect
+to each criminal charge:
+(A) The right to a speedy trial and trial by jury;
+(B) The right to present evidence on the defendant’s behalf;
+[9]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(C) The right to confront and cross-examine witnesses against the defendant;
+(D) The right to contest evidence presented against the defendant, including the right to object
+to hearsay evidence; and
+(E) The right to appeal from a judgment of  conviction resulting from an adjudication of guilt
+entered under subsection (2) of this section, unless the appeal is based on an allegation  that the
+sentence exceeds the maximum allowed by law or constitutes cruel and unusual punishment.
+(d) The agreement must include a requirement that the defendant  pay any restitution owed to
+the victim as determined by the court, and  any fees for court-appointed counsel ordered by the court
+under ORS 135.050.
+(e) The agreement may not contain a requirement that the defendant  enter a plea of guilty or
+no contest on any charge in the accusatory instrument.
+(f) Entering into a probation agreement does not constitute an  admission of guilt and is not
+sufficient to warrant a finding or adjudication of guilt by a court.
+(g) Police reports or other documents associated with the criminal charges in a  court file other
+than the probation agreement may not be admitted into evidence, and  do not establish a factual
+basis for finding  the defendant guilty, unless the court resumes criminal proceedings [ and enters an
+adjudication of guilt ] under subsection (2) of this section.
+(2) Upon violation of a term or condition of the probation agreement, the court may :
+(a) If  the court finds that the defendant has fulfilled the terms and conditions of the
+probation agreement, discharge the person and dismiss  the proceedings as described in sub-
+section (3) of this section;
+(b) Impose sanctions of up to a total of 30 days of imprisonment[ ,]; or
+(c) Resume the criminal proceedings and may find the defendant  guilty of the offenses in the
+accusatory instrument in  accordance with the waiver of rights in the probation agreement. The
+defendant may not contest the  sufficiency of the evidence establishing the defendant’s guilt of the
+offenses in the accusatory instrument.
+(3) Upon fulfillment  of the terms and conditions of the probation agreement, the court shall
+discharge the person  and dismiss the proceedings against the person. Discharge and dismissal under
+this section shall be without adjudication of guilt  and is not a conviction for purposes of this section
+or for purposes of disqualifications or disabilities imposed by law  upon conviction of a crime. There
+may be only one discharge and dismissal under this section with respect to any person.
+(4) In the event that the period of probation  under this section expires, but the terms and con-
+ditions of the probation agreement have  not been fulfilled and no probation violation proceeding was
+initiated prior to the expiration of the period  of probation, the court may not discharge the person
+and dismiss  the proceedings against the person. The court shall instead issue an order requiring the
+person to appear and to show cause why the court  should not enter an adjudication of guilt as de-
+scribed in subsection (2) of this section due to the failure of the  person to fulfill the terms and
+conditions of the probation agreement prior to expiration of the  period of probation. At the hearing
+on the order  to show cause, after considering any evidence or argument from the district attorney
+and the person, the court may:
+(a) Order a new period of probation to allow the person to  fulfill the terms and conditions of the
+probation agreement; or
+(b) Enter an adjudication of guilt as described in subsection (2) of this section.
+(5) This section applies to the following offenses:
+(a) Possession of a controlled substance under ORS 475.752 (3), 475.814,  475.824, 475.834, 475.854,
+[10]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+475.874, 475.884 or 475.894 or section 2 of this 2025 Act ;
+(b) Unlawfully possessing a prescription drug under ORS 689.527 (6);
+(c) Unlawfully possessing marijuana plants,  usable marijuana, cannabinoid products, cannabinoid
+concentrates  or  cannabinoid extracts as described in ORS 475C.337 or 475C.341, if the offense is a
+misdemeanor or felony;
+(d) Endangering the welfare of a minor under ORS 163.575 (1)(b);
+(e) Frequenting a place where controlled substances are used under ORS 167.222; and
+(f) A property offense that is motivated by  a dependence on a controlled substance or a
+marijuana item as defined in ORS 475C.009.
+SECTION 14.
+ ORS 423.478, as amended by section 2,  chapter 58, Oregon Laws 2024, and section
+47, chapter 70, Oregon Laws 2024, is amended to read:
+423.478. (1) The Department of Corrections shall:
+(a) Operate prisons for offenders sentenced to terms of incarceration for more than 12 months;
+(b) Provide central information and data services sufficient to:
+(A) Allow tracking of offenders; and
+(B) Permit analysis of correlations between sanctions, supervision, services  and programs, and
+future criminal conduct; and
+(c) Provide interstate compact administration and jail inspections.
+(2) Subject to ORS 423.483, each county, in partnership with the department, shall assume  re-
+sponsibility for community-based supervision, sanctions and  services for offenders convicted of felo-
+nies, designated drug-related misdemeanors or designated person misdemeanors, or persons who have
+entered into a probation agreement on a drug enforcement misdemeanor pursuant to section  52,
+chapter 70, Oregon Laws 2024, who are:
+(a) On parole;
+(b) On probation;
+(c) On post-prison supervision;
+(d) Sentenced, on or after January 1, 1997, to 12 months or less incarceration;
+(e) Sanctioned, on or after January  1, 1997, by a court or the State Board of Parole and Post-
+Prison Supervision to 12 months or less incarceration for violation of a condition  of parole, pro-
+bation or post-prison supervision; or
+(f) On conditional release under ORS 420A.206.
+(3) Notwithstanding the  fact that the court has sentenced a person to a term of incarceration,
+when an offender is committed to the custody of the supervisory authority of a county  under ORS
+137.124 (2) or (4),  the supervisory authority may execute the sentence by imposing sanctions other
+than incarceration if deemed appropriate by  the supervisory authority. If the supervisory authority
+releases a person from custody under this subsection and the  person is required to report as a sex
+offender under ORS  163A.010, the supervisory authority, as a condition of release, shall order the
+person to report to the Department of State Police, a city police department or a  county sheriff’s
+office or to the supervising agency, if any:
+(a) When the person is released;
+(b) Within 10 days of a change of residence;
+(c) Once each year within 10 days of the person’s birth date;
+(d) Within 10 days of the first  day the person works at, carries on a vocation at or attends an
+institution of higher education; and
+(e) Within 10 days of a change in work, vocation or attendance  status at an institution of higher
+[11]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+education.
+(4) As used in this section:
+(a) “Attends,” “institution  of higher education,” “works” and “carries on a vocation” have the
+meanings given those terms in ORS 163A.005.
+(b) “Designated drug-related misdemeanor” means:
+(A) Unlawful possession of a Schedule I controlled substance under ORS 475.752 (3)(a);
+(B) Unlawful possession of a Schedule II controlled substance under ORS 475.752 (3)(b);
+(C) Unlawful possession of a Schedule III controlled substance under ORS 475.752 (3)(c);
+(D) Unlawful possession of a Schedule IV controlled substance under ORS 475.752 (3)(d);
+(E) Unlawful possession of a Schedule I controlled substance under ORS 475.752 (7)(a);
+(F) Unlawful possession of fentanyl under [ORS 475.752 (8)(a) ] section 2 (2)(a) of this 2025
+Act;
+(G) Unlawful possession of fentanyl under section 2 (2)(b) of this 2025 Act;
+[(G)] (H) Unlawful possession of hydrocodone under ORS 475.814 (2)(a);
+[(H)] (I)  Unlawful possession of hydrocodone under ORS 475.814 (2)(b);
+[(I)] (J) Unlawful possession of methadone under ORS 475.824 (2)(a);
+[(J)] (K)  Unlawful possession of methadone under ORS 475.824 (2)(b);
+[(K)] (L)  Unlawful possession of oxycodone under ORS 475.834 (2)(a);
+[(L)] (M)  Unlawful possession of oxycodone under ORS 475.834 (2)(b);
+[(M)] (N)  Unlawful possession of heroin under ORS 475.854 (2)(a);
+[(N)] (O)  Unlawful possession of heroin under ORS 475.854 (2)(b);
+[(O)] (P)  Unlawful possession of 3,4-methylenedioxymethamphetamine under ORS 475.874 (2)(a);
+[(P)] (Q)  Unlawful possession of 3,4-methylenedioxymethamphetamine under ORS 475.874 (2)(b);
+[(Q)] (R)  Unlawful possession of cocaine under ORS 475.884 (2)(a);
+[(R)] (S)  Unlawful possession of cocaine under ORS 475.884 (2)(b);
+[(S)] (T)  Unlawful possession of methamphetamine under ORS 475.894 (2)(a);
+[(T)] (U)  Unlawful possession of methamphetamine under ORS 475.894 (2)(b); or
+[(U)] (V)  Interfering with public transportation under ORS 166.116 (1)(e).
+(c) “Designated person misdemeanor” means:
+(A) Assault in the fourth degree constituting domestic violence if the judgment document  is as
+described in ORS 163.160 (4);
+(B) Menacing constituting  domestic violence if the judgment document is as described in ORS
+163.190 (3); or
+(C) Sexual abuse in the third degree under ORS 163.415.
+SECTION 15.
+ Section 35, chapter 70, Oregon Laws 2024, is amended to read:
+Sec. 35.  (1) Unlawful possession of a controlled substance constituting a drug  enforcement
+misdemeanor under ORS 475.752 (3)(a), (b),  (c) or (d), 475.814 (2)(a), 475.824 (2)(a), 475.834 (2)(a),
+475.854 (2)(a), 475.874 (2)(a), 475.884 (2)(a) or 475.894 (2)(a)  or  section 2 (2)(a) of this 2025 Act  is
+punishable as described in this section.
+(2)(a) When imposing a sentence for the crime described in this section:
+(A) The court may  decide to not suspend the imposition or execution of any part of the sentence,
+and impose a term  of incarceration in accordance with ORS 137.010 (7) of up to 180 days, only upon
+the request of the defendant.
+(B) If the  defendant has not requested to be sentenced under subparagraph (A) of this paragraph,
+or if the court has decided not  to sentence the defendant under subparagraph (A) of this paragraph,
+[12]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the court shall  suspend the imposition of any sentence of incarceration and, notwithstanding ORS
+137.010 (4), impose a sentence of supervised probation of a definite period of up to 18 months.
+(b) When imposing a sentence of  probation under this section, the court may not order as a
+condition of probation that the defendant serve a sentence of incarceration or confinement in the
+county jail.
+(c) Notwithstanding ORS 135.050, 137.010 (7), 161.635 and  161.665, the court may not include in
+the judgment of conviction for the crime described in this section a requirement that the  defendant
+pay a fine, cost, assessment or attorney fee.
+(d) ORS 137.540 (2)(a) does not apply to sentences imposed under this section.
+(3)(a) Structured, intermediate sanctions as described in ORS 137.593 may be  imposed in ac-
+cordance with rules adopted  under ORS 137.595 when a condition of a term of probation imposed
+under this section has been violated.
+(b) Upon a finding that the person on probation has violated  a condition of probation imposed
+under this section, the court may impose a sanction, which may include days in jail.
+(c) The total amount of jail that a  person may receive pursuant to structured, intermediate
+sanctions, or a court-imposed sanctions, on a probation imposed under this section is 30 days. Any
+term of incarceration imposed as a sanction must allow for early release to a treatment facility.
+(d) The court may extend the length of a probation sentence imposed under  this section if the
+person on probation consents to the extension. The total term of probation  may not exceed five
+years.
+(4)(a) Notwithstanding ORS 137.545 (5)(a)(B) and  137.593, upon the court’s revocation of a sen-
+tence of probation imposed under this section, the  court may impose as a revocation sentence up to
+180 days’ incarceration. For any  sentence of incarceration imposed under this paragraph, the court
+shall authorize early release  to an inpatient or outpatient drug and alcohol treatment program as
+described in paragraph (b) of this subsection.
+(b) Upon  imposing a revocation sentence of incarceration under this subsection, the court shall
+commit the person to the custody of the  supervisory authority under ORS 137.124. The county
+community corrections agency shall  monitor when an inpatient or outpatient drug and alcohol
+treatment program becomes available for the person and shall notify the person when a  program is
+available. In order  to be released early to the program, the person must enter into a revocation
+release agreement subject to such conditions  as determined by the county community corrections
+agency. If the person violates the terms of the  revocation release agreement, the county community
+corrections agency may cause the  person to return to jail to serve the remainder of the
+incarceration sentence originally imposed.
+(c) When a person has been released to an inpatient or outpatient  drug and alcohol treatment
+program under paragraph (b) of this subsection, each day that the person is in the community  and
+subject to the revocation release agreement shall count toward the total term of incarceration  im-
+posed as a revocation sentence.
+(d) When imposing a revocation sentence of  incarceration under this section, the court shall
+order, and may not deny, that the person receive credit for  time served for any day that the person
+was previously incarcerated on the charge.
+SECTION 16.
+The amendments to ORS 475.907 and 475.924 by sections 9 and 10 of this 2025
+Act apply to conduct occurring on or after the effective date of this 2025 Act.
+OPIOID USE DISORDER MEDICATIONS GRANT PROGRAM CHANGES
+[13]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 17.
+ Section 81, chapter 70, Oregon Laws 2024, is amended to read:
+Sec. 81.  As used in sections 81 to 86 [ of this 2024 Act ], chapter 70, Oregon Laws 2024 :
+(1) “Commission” means the Oregon Criminal Justice Commission.
+(2) “Local correctional facility” has the meaning given that  term in ORS 169.005 and also
+means any facility operated by a county supervisory  authority, as defined in ORS 144.087,
+including facilities for providing corrections supervision services or custodial services .
+(3) “Tribal correctional facility” means a jail or prison in Oregon that is  operated by a federally
+recognized tribe and confines persons for more than 36 hours.
+OPIOID USE DISORDER MEDICATION PRESCRIPTION CHANGES
+SECTION 18.
+ Section 7, chapter 70, Oregon Laws 2024, is amended to read:
+Sec. 7.  [ (1) As used in this section: ]
+[(a) “Early refill” means: ]
+[(A) Up  to three refills of a current prescription for a medication that a patient has lost or that
+has been stolen or destroyed; or ]
+[(B) One refill in a 12-month period of a medication  for which the previous prescription expired in
+the prior 12-month period. ]
+[(b) “Refill” means a supply of a medication consistent with the amount  specified in the most recent
+prescription for the medication. ]
+[(2)] (1) A pharmacist may prescribe , [ and] dispense  and administer  to  a patient[ , to the extent
+permitted by federal law, an early refill of a ] medication for the treatment of opioid  use disorder in
+accordance with [ subsection (3) of this section. ]:
+(a) A statewide drug therapy management protocol developed  by the Public Health and
+Pharmacy Formulary Advisory Committee  convened under ORS 689.649 and adopted by State
+Board of Pharmacy rule pursuant to ORS 689.645; or
+(b) A collaborative drug therapy management agreement.
+[(3) A pharmacist who prescribes and dispenses early refills under this section shall: ]
+[(a) Complete a patient assessment to determine whether the prescription is appropriate; ]
+[(b) Document the patient visit and include  notations regarding evidence of the patient’s previous
+prescription from the patient’s licensed health care provider, information relating to the patient’s
+treatment and other relevant information; and ]
+[(c) Notify the patient’s  primary care provider, and the licensed health care provider who made the
+previous prescription, of  the pharmacist’s dispensing of early refills, to the extent permitted by state and
+federal law.]
+[(4) Notations in a record documenting evidence of a patient’s previous prescription  under sub-
+section (3)(b) of this section constitute verification of a valid prescription. ]
+(2) For the purpose of the prescription, administration and dispensation by a  pharmacist
+of a controlled substance in Schedule II, III, IV or V that is a medication for the  treatment
+of opioid use disorder, pursuant to the provisions of this section, ORS 475.185 and any other
+relevant provision in ORS  475.005 to 475.285, and notwithstanding ORS 475.005,
+“practitioner”  means  physician, dentist, veterinarian, scientific investigator, licensed nurse
+practitioner, pharmacist, pharmacy, physician associate or  other person licensed, registered
+or otherwise permitted by law to dispense, conduct research with respect  to or to administer
+a controlled substance in the course of professional practice or research in this state.
+[14]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(5)] (3)  The State Board of Pharmacy shall  adopt rules to carry out this section, including but
+not limited to rules to allow a[ :]
+[(a)] pharmacist to [ apply for and obtain a  registration number from ] be recognized by the Drug
+Enforcement  Administration  of the United States Department of Justice as a mid-level
+practitioner[ ;] and  to obtain a registration number as a mid-level practitioner.
+[(b) Pharmacy to store on the premises medications for the treatment of opioid use disorder. ]
+[(6)] (4)  In adopting  rules to carry out this section, the board shall consult with the Public
+Health and Pharmacy Formulary Advisory Committee described in ORS 689.649.
+SECTION 19.
+ Section 8, chapter 70, Oregon Laws 2024, is amended to read:
+Sec. 8.  (1) As  used in this section, “prescription drug locker” means a mechanical device that
+serves as  an extension of a retail drug outlet’s will call or point of sale area in which completed
+patient-specific prescription drugs, devices and related supplies and nonprescription  drugs, devices
+and related supplies are stored for pickup.
+[(2) A prescription drug locker located within this  state and at the same physical address as the
+retail drug outlet with which the prescription drug locker is associated: ]
+[(a) Is considered  part of the retail drug outlet and is not required to obtain a license or registra-
+tion from the State Board of Pharmacy; and ]
+[(b) Is not required to  obtain a registration from the Drug Enforcement Administration of the
+United States Department of Justice. ]
+[(3) A prescription drug locker located within this state  but at a physical address other than the
+physical address of the retail drug outlet with which the prescription drug locker is  associated is con-
+sidered a remote dispensing site pharmacy  and must obtain a registration from the Drug Enforcement
+Administration in order to dispense controlled substances. ]
+(2) A retail drug outlet may operate one or more prescription  drug lockers located within
+this state that need not be at the same physical address as the retail drug outlet. A  pre-
+scription drug locker operated pursuant to this section is considered part  of the retail drug
+outlet, and a separate license or registration from the State Board of Pharmacy is not re-
+quired.
+(3) A  retail drug outlet may store controlled substances for pickup in a prescription drug
+locker if the retail drug outlet has a  valid controlled substance registration required under
+ORS 475.125 in the name of and at the principal place of business of the retail drug outlet.
+(4) The board may adopt rules to carry out this section.
+SECTION 20.
+ Section 2, chapter 70, Oregon Laws 2024, is amended to read:
+Sec. 2.  (1) As used in this section:
+(a) “Group health insurance” has the meaning given that term in ORS 731.098.
+(b) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+(c) “Substance use disorder” has  the meaning given that term in the fifth edition of the Diag-
+nostic and Statistical Manual of Mental Disorders published by the  American Psychiatric Associ-
+ation.
+(d) “Utilization review” has the meaning given that term in ORS 743B.001.
+(2) Notwithstanding any provision of ORS 743A.168, an issuer of  group health insurance or an
+individual health benefit plan, other than a health plan that is subject to 42 U.S.C. 18011:
+(a) May not impose a requirement for prior authorization or any  other form of utilization review
+for the reimbursement of a covered medication approved by the  United States Food and Drug Ad-
+ministration that is prescribed for the purpose of treating a substance use disorder, including  but
+[15]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+not limited to opioid addiction and opioid withdrawal.
+(b) Shall reimburse the  cost of refills of medications described in paragraph (a) of this subsection
+if dispensed by a licensed health care professional who is  legally authorized to dispense such
+medications, including [ early] refills [ described in section 7 of this 2024 Act ] dispensed pursuant to
+section 7, chapter 70, Oregon Laws 2024 .
+(3) Subsection (2) of this section applies to  any form of buprenorphine, including but not limited
+to sublingual, tablet or injectable forms.
+(4) This section does  not prohibit prior authorization or other utilization review for opioids or
+opiates prescribed for a purpose other than medication-assisted treatment or the treatment of opiate
+abuse or addiction.
+(5) This section does not prohibit utilization review for the purpose of:
+(a) Auditing claims for improper payments, fraud or abuse; or
+(b) Reasonable periodic redeterminations about the need for continuing care.
+(6) Coverage under this section may be  subject to the same terms and conditions that apply to
+other benefits under the plan  except for utilization review as provided in subsection (2) of this sec-
+tion.
+(7) This section is exempt from ORS 743A.001.
+SECTION 21.
+ ORS 414.766, as amended by section 4, chapter 70, Oregon Laws 2024,  is amended
+to read:
+414.766. (1) Notwithstanding ORS 414.065 and 414.690, a coordinated care organization must
+provide behavioral health services to its members that include but  are not limited to all of the fol-
+lowing:
+(a) For a member who is experiencing a behavioral health crisis:
+(A) A behavioral health assessment; and
+(B) Services that are medically necessary to transition the member to a lower level of care;
+(b) At least the minimum level  of services that are medically necessary to treat a member’s
+underlying behavioral  health condition rather than a mere amelioration of current symptoms, such
+as suicidal ideation or psychosis, as determined in  a behavioral health assessment of the member
+or specified in the member’s care plan;
+(c) Treatment of co-occurring behavioral health disorders or medical conditions  in a coordinated
+manner;
+(d) Treatment at the  least intensive and least restrictive level of care that is safe and effective
+and meets the needs of the individual’s condition;
+(e) For all level of care placement decisions, placement at the level of care consistent with  a
+member’s score or assessment using the relevant level of care placement criteria and guidelines;
+(f) If the  level of placement described in paragraph (e) of this subsection is not available,
+placement at the next higher level of care;
+(g) Treatment to maintain functioning or prevent deterioration;
+(h) Treatment for an appropriate duration based on the individual’s particular needs;
+(i) Treatment appropriate to the unique needs of children and adolescents;
+(j) Treatment appropriate to the unique needs of older adults;
+(k) Treatment that is culturally and linguistically appropriate;
+(L) Treatment that is appropriate to the unique needs of gay, lesbian, bisexual  and transgender
+individuals and individuals of any other minority gender identity or sexual orientation;
+(m) Coordinated care and case management as defined by the  Department of Consumer and
+[16]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Business Services by rule;
+(n) Mental health wellness appointments as prescribed by the Oregon  Health Authority by rule;
+and
+(o) Medications and refills  of medications prescribed for the treatment of opioid use disorder and
+any co-occurring  substance use disorder or mental health condition, including [ early refills as de-
+scribed in ] medications and refills of  medications prescribed pursuant to  section 7, chapter 70,
+Oregon Laws 2024.
+(2) If there is a disagreement about the level of care required  by subsection (1)(e) or (f) of this
+section, a coordinated care  organization shall provide to the behavioral health treatment provider
+full details of the coordinated care organization’s scoring or assessment, to the extent permitted by
+the federal Health  Insurance Portability and Accountability Act privacy regulations, 45 C.F.R. parts
+160 and 164, ORS 192.553 to  192.581 or other state or federal laws limiting the disclosure of health
+information.
+(3) The Oregon Health Authority shall adopt by rule  a list of behavioral health services that
+may not be subject to prior authorization.
+SECTION 22.
+ ORS 689.005, as amended by section 5,  chapter 17, Oregon Laws 2024, and section
+9, chapter 70, Oregon Laws 2024, is amended to read:
+689.005. As used in this chapter:
+(1) “Administer” means the direct  application of a drug or device whether by injection,
+inhalation, ingestion, or any other means, to the body of a patient or research subject by:
+(a) A practitioner or the practitioner’s authorized agent; or
+(b) The patient or research subject at the direction of the practitioner.
+(2) “Approved continuing pharmacy education program” means those seminars,  classes,
+meetings, workshops and other educational programs on the subject of pharmacy approved by the
+State Board of Pharmacy.
+(3) “Clinical pharmacy agreement” means an agreement between  a pharmacist or pharmacy and
+a health care organization or a physician as defined in ORS 677.010 or a naturopathic  physician as
+defined in ORS 685.010 that permits the pharmacist to engage in the practice of clinical pharmacy
+for the benefit of the patients of the health care organization, physician or naturopathic physician.
+(4) “Continuing pharmacy education” means:
+(a) Professional, pharmaceutical post-graduate education in the  general areas of socio-economic
+and legal aspects of health care;
+(b) The properties and actions of drugs and dosage forms; and
+(c) The etiology, characteristics and therapeutics of the disease state.
+(5) “Continuing pharmacy education unit” means the unit of measurement of  credits for ap-
+proved continuing education courses and programs.
+(6) “Deliver” or “delivery” means  the actual, constructive or attempted transfer of a drug or
+device  other  than by administration from one person to another, whether or not for a consideration.
+(7) “Device”  means an instrument, apparatus, implement, machine, contrivance, implant, in vitro
+reagent or  other similar or related article, including any component part or accessory, which is re-
+quired under federal or state law to be prescribed by a practitioner and dispensed  by a pharmacist.
+(8) “Dispense” or  “dispensing” means the preparation and delivery of a prescription drug pur-
+suant to a lawful order of a practitioner in a suitable  container appropriately labeled for subsequent
+administration to or use by a patient or other individual entitled to receive the prescription drug.
+(9) “Distribute” means the delivery of a drug other than by administering or dispensing.
+[17]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(10) “Drug” means:
+(a) Articles recognized as drugs in  the official United States Pharmacopoeia, official National
+Formulary, official Homeopathic  Pharmacopoeia, other drug compendium or any supplement to any
+of them;
+(b) Articles intended for use in the diagnosis, cure, mitigation, treatment  or prevention of dis-
+ease in a human or other animal;
+(c) Articles, other than food, intended to affect the structure or any function of the body of hu-
+mans or other animals; and
+(d) Articles intended for use as a component  of any articles specified in paragraph (a), (b) or (c)
+of this subsection.
+(11) “Drug  order” means a written order, in a hospital or other inpatient care facility, for an
+ultimate user of any drug or device issued and signed by a practitioner, or an order transmitted  by
+other means of communication from a practitioner, that is  immediately reduced to writing by a
+pharmacist, licensed nurse or other practitioner.
+(12) “Drug  outlet” means a pharmacy, nursing home, shelter home, convalescent home, extended
+care facility, drug abuse treatment  center, penal institution, hospital, family planning clinic, student
+health center, retail store, wholesaler, manufacturer, mail-order vendor or other establishment  with
+facilities located within or out of this state that is engaged in dispensing, delivery  or distribution
+of drugs within this state.
+(13) “Drug room” means a secure and  lockable location within an inpatient care facility that
+does not have a licensed pharmacy.
+(14) “Electronically transmitted” or “electronic transmission” means  a communication sent or
+received through technological apparatuses, including  computer terminals or other equipment or
+mechanisms linked by telephone or microwave relays, or similar apparatus having electrical, digital,
+magnetic, wireless, optical, electromagnetic or similar capabilities.
+(15) “Injectable hormonal contraceptive” means a drug composed of a  hormone or a combination
+of hormones that is approved by the United States Food and Drug Administration  to prevent preg-
+nancy and that a health care practitioner administers to the patient by injection.
+(16) “Institutional drug outlet” means hospitals and inpatient care facilities  where medications
+are dispensed  to another health care professional for administration to patients served by the hos-
+pitals or facilities.
+(17) “Intern” means a person who is enrolled in or has completed a course of study at a  school
+or college of pharmacy approved by the board and who is licensed with the board as an intern.
+(18) “Internship” means a  professional experiential program approved by the board under the
+supervision of a licensed pharmacist registered with the board as a preceptor.
+(19) “Labeling” means the process of preparing and affixing of a label to any drug  container
+exclusive, however, of the labeling by a manufacturer, packer or distributor of  a nonprescription
+drug or commercially packaged legend drug or device.
+(20) “Manufacture”  means the production, preparation, propagation, compounding, conversion
+or processing of a  device or a drug, either directly or indirectly by extraction from substances of
+natural origin or independently by means of chemical synthesis or by a combination  of extraction
+and chemical synthesis and includes any packaging or repackaging of the substances or labeling  or
+relabeling of its container, except  that this term does not include the preparation or compounding
+of a drug  by an individual for their own use or the preparation, compounding, packaging or labeling
+of a drug:
+[18]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) By a practitioner as an incident to administering or dispensing of a drug in the course  of
+professional practice; or
+(b) By a practitioner or  by the practitioner’s authorization under supervision of the practitioner
+for the purpose of or as an incident to research, teaching or chemical analysis and not for sale.
+(21) “Manufacturer” means a person engaged in the manufacture of drugs.
+(22) “Nonprescription drug outlet” means a business or  other establishment that is open to the
+general public for the sale or nonprofit distribution of nonprescription drugs and is registered  under
+ORS 689.305.
+(23) “Nonprescription drugs” means drugs that may be sold without a prescription and that  are
+prepackaged for use  by the consumer and labeled in accordance with the requirements of the stat-
+utes and regulations of this state and the federal government.
+(24) “Person” means an individual, corporation, partnership, association or other legal entity.
+(25) “Pharmacist” means an individual licensed by this state to engage  in the practice of phar-
+macy or to engage in the practice of clinical pharmacy.
+(26) “Pharmacy” means a place that meets the requirements of rules of the  board, is licensed
+and approved by the board where the practice  of pharmacy may lawfully occur and includes
+apothecaries, drug stores, dispensaries, hospital outpatient pharmacies, pharmacy departments and
+prescription laboratories but does not include a place used by a manufacturer or wholesaler.
+(27) “Pharmacy technician” means  a person licensed by the board who assists in the practice
+of pharmacy pursuant to rules of the board.
+(28) “Practice of clinical pharmacy” means:
+(a) The health science discipline in which, in conjunction with the patient’s  other practitioners,
+a pharmacist provides patient care to optimize medication therapy  and to promote disease pre-
+vention and the patient’s health and wellness;
+(b) The provision of patient care  services, including but not limited to post-diagnostic disease
+state management services; and
+(c) The practice of pharmacy by a pharmacist pursuant to a clinical pharmacy agreement.
+(29) “Practice of pharmacy” means:
+(a) The interpretation and evaluation of prescription orders;
+(b) The compounding, dispensing and labeling of drugs and devices, except labeling by a  man-
+ufacturer, packer or distributor of nonprescription drugs and commercially packaged legend  drugs
+and devices;
+(c) The prescribing and administering of vaccines and  immunizations and the providing of pa-
+tient care services pursuant to ORS 689.645;
+(d) The administering of drugs and devices to the extent permitted under ORS 689.655;
+(e) The participation in drug selection and drug utilization reviews;
+(f) The proper  and safe storage of drugs and devices and the maintenance of proper records re-
+garding the safe storage of drugs and devices;
+(g) The responsibility for advising,  where necessary or where regulated, of therapeutic values,
+content, hazards and use of drugs and devices;
+(h) The monitoring of therapeutic response or adverse effect to drug therapy;
+(i) The optimizing of drug therapy through the practice of clinical pharmacy;
+(j) Patient care services, including  medication therapy management and comprehensive
+medication review;
+(k) The offering or performing of those acts, services, operations or  transactions necessary in
+[19]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the conduct, operation, management and control of pharmacy;
+(L) The  prescribing and administering of injectable hormonal contraceptives and the prescribing
+and dispensing of self-administered hormonal contraceptives pursuant to ORS 689.689;
+(m) The prescribing and dispensing of emergency refills of insulin  and associated insulin-related
+devices and supplies pursuant to ORS 689.696;
+(n) The prescribing,  dispensing and administering of preexposure prophylactic antiretroviral
+therapies and post-exposure prophylactic antiretroviral therapies, pursuant  to ORS 689.704 and rules
+adopted by the board under ORS 689.645 and 689.704;
+(o) The  delegation of tasks to other health care providers who are appropriately trained and
+authorized to perform the delegated tasks;
+(p) The prescribing , [ and] dispensing  and administering of [ early refills of ] medication for the
+treatment of opioid use disorder pursuant to section 7, chapter 70, Oregon Laws 2024; and
+(q) The testing for severe  acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and the pre-
+scribing, dispensing and administering of treatment for  SARS-CoV-2 pursuant to section 4, chapter
+17, Oregon Laws 2024, and rules adopted by the board  pursuant to section 4, chapter 17, Oregon
+Laws 2024.
+(30) “Practitioner” means a person licensed and operating within the scope of such license to
+prescribe, dispense, conduct research with respect to or administer drugs  in the course of profes-
+sional practice or research:
+(a) In this state; or
+(b) In another state or territory of the United States  if the person does not reside in Oregon and
+is registered under the federal Controlled Substances Act.
+(31) “Preceptor” means a pharmacist or a person licensed by the board to supervise  the
+internship training of a licensed intern.
+(32) “Prescription drug” or “legend drug” means a drug that is:
+(a) Required by federal law, prior to being dispensed or delivered, to be  labeled with either of
+the following statements:
+(A) “Caution: Federal law prohibits dispensing without prescription”; or
+(B) “Caution: Federal law restricts this  drug to use by or on the order of a licensed
+veterinarian”; or
+(b) Required by any applicable federal or state law or regulation to  be dispensed on prescription
+only or is restricted to use by practitioners only.
+(33) “Prescription” or “prescription drug order” means a written,  oral or electronically trans-
+mitted direction, given by a practitioner authorized  to prescribe drugs, for the preparation and use
+of a drug. When the context requires, “prescription” also means the drug  prepared under such
+written, oral or electronically transmitted direction.
+(34) “Retail drug outlet” means a place used for the conduct of  the retail sale, administering or
+dispensing or compounding of drugs or chemicals or for the administering  or dispensing of pre-
+scriptions and licensed by the board as a  place where the practice of pharmacy may lawfully occur.
+(35) “Self-administered hormonal contraceptive”  means a drug composed of a hormone or a
+combination of hormones  that is approved by the United States Food and Drug Administration to
+prevent pregnancy and that the patient to whom the drug is prescribed may administer to  oneself.
+“Self-administered hormonal contraceptive” includes, but is not limited to, hormonal contraceptive
+patches and hormonal contraceptive pills.
+(36) “Third-party logistics provider” means an entity that:
+[20]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Provides or coordinates warehousing of, or other logistics services for, a  product in inter-
+state commerce on behalf of a manufacturer, wholesale distributor or dispenser of the product; and
+(b) Does not take ownership of, or have responsibility to direct the sale or disposition of,  the
+product.
+(37) “Unit  dose” means a sealed single-unit container so designed that the contents are admin-
+istered to the patient  as a single dose, direct from the container. Each unit dose container must bear
+a separate label, be labeled with the name and strength of  the medication, the name of the man-
+ufacturer or distributor,  an identifying lot number and, if applicable, the expiration date of the
+medication.
+(38) “Wholesale  distributor drug outlet” means a person, other than a manufacturer,
+manufacturer’s colicensed partner, third-party logistics provider or  repackager, as defined in 21
+U.S.C. 360eee(16), that is engaged in wholesale distribution, as defined in 21 U.S.C. 353(e)(4).
+SECTION 23.
+ ORS  689.005, as amended by sections 5 and 6, chapter 17, Oregon Laws 2024, and
+section 9, chapter 70, Oregon Laws 2024, is amended to read:
+689.005. As used in this chapter:
+(1) “Administer” means the direct  application of a drug or device whether by injection,
+inhalation, ingestion, or any other means, to the body of a patient or research subject by:
+(a) A practitioner or the practitioner’s authorized agent; or
+(b) The patient or research subject at the direction of the practitioner.
+(2) “Approved continuing pharmacy education program” means those seminars,  classes,
+meetings, workshops and other educational programs on the subject of pharmacy approved by the
+State Board of Pharmacy.
+(3) “Clinical pharmacy agreement” means an agreement between  a pharmacist or pharmacy and
+a health care organization or a physician as defined in ORS 677.010 or a naturopathic  physician as
+defined in ORS 685.010 that permits the pharmacist to engage in the practice of clinical pharmacy
+for the benefit of the patients of the health care organization, physician or naturopathic physician.
+(4) “Continuing pharmacy education” means:
+(a) Professional, pharmaceutical post-graduate education in the  general areas of socio-economic
+and legal aspects of health care;
+(b) The properties and actions of drugs and dosage forms; and
+(c) The etiology, characteristics and therapeutics of the disease state.
+(5) “Continuing pharmacy education unit” means the unit of measurement of  credits for ap-
+proved continuing education courses and programs.
+(6) “Deliver” or “delivery” means  the actual, constructive or attempted transfer of a drug or
+device  other  than by administration from one person to another, whether or not for a consideration.
+(7) “Device”  means an instrument, apparatus, implement, machine, contrivance, implant, in vitro
+reagent or  other similar or related article, including any component part or accessory, which is re-
+quired under federal or state law to be prescribed by a practitioner and dispensed  by a pharmacist.
+(8) “Dispense” or  “dispensing” means the preparation and delivery of a prescription drug pur-
+suant to a lawful order of a practitioner in a suitable  container appropriately labeled for subsequent
+administration to or use by a patient or other individual entitled to receive the prescription drug.
+(9) “Distribute” means the delivery of a drug other than by administering or dispensing.
+(10) “Drug” means:
+(a) Articles recognized as drugs in  the official United States Pharmacopoeia, official National
+Formulary, official Homeopathic  Pharmacopoeia, other drug compendium or any supplement to any
+[21]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of them;
+(b) Articles intended for use in the diagnosis, cure, mitigation, treatment  or prevention of dis-
+ease in a human or other animal;
+(c) Articles, other than food, intended to affect the structure or any function of the body of hu-
+mans or other animals; and
+(d) Articles intended for use as a component  of any articles specified in paragraph (a), (b) or (c)
+of this subsection.
+(11) “Drug  order” means a written order, in a hospital or other inpatient care facility, for an
+ultimate user of any drug or device issued and signed by a practitioner, or an order transmitted  by
+other means of communication from a practitioner, that is  immediately reduced to writing by a
+pharmacist, licensed nurse or other practitioner.
+(12) “Drug  outlet” means a pharmacy, nursing home, shelter home, convalescent home, extended
+care facility, drug abuse treatment  center, penal institution, hospital, family planning clinic, student
+health center, retail store, wholesaler, manufacturer, mail-order vendor or other establishment  with
+facilities located within or out of this state that is engaged in dispensing, delivery  or distribution
+of drugs within this state.
+(13) “Drug room” means a secure and  lockable location within an inpatient care facility that
+does not have a licensed pharmacy.
+(14) “Electronically transmitted” or “electronic transmission” means  a communication sent or
+received through technological apparatuses, including  computer terminals or other equipment or
+mechanisms linked by telephone or microwave relays, or similar apparatus having electrical, digital,
+magnetic, wireless, optical, electromagnetic or similar capabilities.
+(15) “Injectable hormonal contraceptive” means a drug composed of a  hormone or a combination
+of hormones that is approved by the United States Food and Drug Administration  to prevent preg-
+nancy and that a health care practitioner administers to the patient by injection.
+(16) “Institutional drug outlet” means hospitals and inpatient care facilities  where medications
+are dispensed  to another health care professional for administration to patients served by the hos-
+pitals or facilities.
+(17) “Intern” means a person who is enrolled in or has completed a course of study at a  school
+or college of pharmacy approved by the board and who is licensed with the board as an intern.
+(18) “Internship” means a  professional experiential program approved by the board under the
+supervision of a licensed pharmacist registered with the board as a preceptor.
+(19) “Labeling” means the process of preparing and affixing of a label to any drug  container
+exclusive, however, of the labeling by a manufacturer, packer or distributor of  a nonprescription
+drug or commercially packaged legend drug or device.
+(20) “Manufacture”  means the production, preparation, propagation, compounding, conversion
+or processing of a  device or a drug, either directly or indirectly by extraction from substances of
+natural origin or independently by means of chemical synthesis or by a combination  of extraction
+and chemical synthesis and includes any packaging or repackaging of the substances or labeling  or
+relabeling of its container, except  that this term does not include the preparation or compounding
+of a drug  by an individual for their own use or the preparation, compounding, packaging or labeling
+of a drug:
+(a) By a practitioner as an incident to administering or dispensing of a drug in the course  of
+professional practice; or
+(b) By a practitioner or  by the practitioner’s authorization under supervision of the practitioner
+[22]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+for the purpose of or as an incident to research, teaching or chemical analysis and not for sale.
+(21) “Manufacturer” means a person engaged in the manufacture of drugs.
+(22) “Nonprescription drug outlet” means a business or  other establishment that is open to the
+general public for the sale or nonprofit distribution of nonprescription drugs and is registered  under
+ORS 689.305.
+(23) “Nonprescription drugs” means drugs that may be sold without a prescription and that  are
+prepackaged for use  by the consumer and labeled in accordance with the requirements of the stat-
+utes and regulations of this state and the federal government.
+(24) “Person” means an individual, corporation, partnership, association or other legal entity.
+(25) “Pharmacist” means an individual licensed by this state to engage  in the practice of phar-
+macy or to engage in the practice of clinical pharmacy.
+(26) “Pharmacy” means a place that meets the requirements of rules of the  board, is licensed
+and approved by the board where the practice  of pharmacy may lawfully occur and includes
+apothecaries, drug stores, dispensaries, hospital outpatient pharmacies, pharmacy departments and
+prescription laboratories but does not include a place used by a manufacturer or wholesaler.
+(27) “Pharmacy technician” means  a person licensed by the board who assists in the practice
+of pharmacy pursuant to rules of the board.
+(28) “Practice of clinical pharmacy” means:
+(a) The health science discipline in which, in conjunction with the patient’s  other practitioners,
+a pharmacist provides patient care to optimize medication therapy  and to promote disease pre-
+vention and the patient’s health and wellness;
+(b) The provision of patient care  services, including but not limited to post-diagnostic disease
+state management services; and
+(c) The practice of pharmacy by a pharmacist pursuant to a clinical pharmacy agreement.
+(29) “Practice of pharmacy” means:
+(a) The interpretation and evaluation of prescription orders;
+(b) The compounding, dispensing and labeling of drugs and devices, except labeling by a  man-
+ufacturer, packer or distributor of nonprescription drugs and commercially packaged legend  drugs
+and devices;
+(c) The prescribing and administering of vaccines and  immunizations and the providing of pa-
+tient care services pursuant to ORS 689.645;
+(d) The administering of drugs and devices to the extent permitted under ORS 689.655;
+(e) The participation in drug selection and drug utilization reviews;
+(f) The proper  and safe storage of drugs and devices and the maintenance of proper records re-
+garding the safe storage of drugs and devices;
+(g) The responsibility for advising,  where necessary or where regulated, of therapeutic values,
+content, hazards and use of drugs and devices;
+(h) The monitoring of therapeutic response or adverse effect to drug therapy;
+(i) The optimizing of drug therapy through the practice of clinical pharmacy;
+(j) Patient care services, including  medication therapy management and comprehensive
+medication review;
+(k) The offering or performing of those acts, services, operations or  transactions necessary in
+the conduct, operation, management and control of pharmacy;
+(L) The  prescribing and administering of injectable hormonal contraceptives and the prescribing
+and dispensing of self-administered hormonal contraceptives pursuant to ORS 689.689;
+[23]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(m) The prescribing and dispensing of emergency refills of insulin  and associated insulin-related
+devices and supplies pursuant to ORS 689.696;
+(n) The prescribing,  dispensing and administering of preexposure prophylactic antiretroviral
+therapies and post-exposure prophylactic antiretroviral therapies, pursuant  to ORS 689.704 and rules
+adopted by the board under ORS 689.645 and 689.704;
+(o) The  delegation of tasks to other health care providers who are appropriately trained and
+authorized to perform the delegated tasks; and
+(p) The prescribing , [ and] dispensing  and administering of [ early refills of ] medication for the
+treatment of opioid use disorder pursuant to section 7, chapter 70, Oregon Laws 2024.
+(30) “Practitioner” means a person licensed and operating within the scope of such license to
+prescribe, dispense, conduct research with respect  to or administer drugs in the course of profes-
+sional practice or research:
+(a) In this state; or
+(b) In another state or territory of the United States  if the person does not reside in Oregon and
+is registered under the federal Controlled Substances Act.
+(31) “Preceptor” means a pharmacist or a person licensed by the board to supervise  the
+internship training of a licensed intern.
+(32) “Prescription drug” or “legend drug” means a drug that is:
+(a) Required by federal law, prior to being dispensed or delivered, to be  labeled with either of
+the following statements:
+(A) “Caution: Federal law prohibits dispensing without prescription”; or
+(B) “Caution: Federal law restricts this  drug to use by or on the order of a licensed
+veterinarian”; or
+(b) Required by any applicable federal or state law or regulation to  be dispensed on prescription
+only or is restricted to use by practitioners only.
+(33) “Prescription” or “prescription drug order” means a written,  oral or electronically trans-
+mitted direction, given by a practitioner authorized  to prescribe drugs, for the preparation and use
+of a drug. When the context requires, “prescription” also means the drug  prepared under such
+written, oral or electronically transmitted direction.
+(34) “Retail drug outlet” means a place used for the conduct of  the retail sale, administering or
+dispensing or compounding of drugs or chemicals or for the administering  or dispensing of pre-
+scriptions and licensed by the board as a  place where the practice of pharmacy may lawfully occur.
+(35) “Self-administered hormonal contraceptive”  means a drug composed of a hormone or a
+combination of hormones  that is approved by the United States Food and Drug Administration to
+prevent pregnancy and that the patient to whom the drug is prescribed may administer to  oneself.
+“Self-administered hormonal contraceptive” includes, but is not limited to, hormonal contraceptive
+patches and hormonal contraceptive pills.
+(36) “Third-party logistics provider” means an entity that:
+(a) Provides or coordinates warehousing of, or other logistics services for, a  product in inter-
+state commerce on behalf of a manufacturer, wholesale distributor or dispenser of the product; and
+(b) Does not take ownership of, or have responsibility to direct the sale or disposition of,  the
+product.
+(37) “Unit  dose” means a sealed single-unit container so designed that the contents are admin-
+istered to the patient  as a single dose, direct from the container. Each unit dose container must bear
+a separate label, be labeled with the name and strength of  the medication, the name of the man-
+[24]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ufacturer or distributor,  an identifying lot number and, if applicable, the expiration date of the
+medication.
+(38) “Wholesale  distributor drug outlet” means a person, other than a manufacturer,
+manufacturer’s colicensed partner, third-party logistics provider or  repackager, as defined in 21
+U.S.C. 360eee(16), that is engaged in wholesale distribution, as defined in 21 U.S.C. 353(e)(4).
+OTHER HOUSE BILL 4002 (2024) MODIFICATIONS
+SECTION 24.
+ Section 36, chapter 70, Oregon Laws 2024, is amended to read:
+Sec. 36.  (1) Law  enforcement agencies in this state are encouraged to, in lieu of citation or
+arrest, or after citation or arrest  but before referral to the district attorney, refer a person to a
+deflection program when the person is suspected of committing, or has  been cited or arrested for,
+unlawful possession  of a controlled substance constituting a drug enforcement misdemeanor under
+section 35 , [ of this 2024 Act ] chapter 70, Oregon Laws 2024 .
+(2) District attorneys in this state are  encouraged to divert for assessment, treatment and other
+services, in lieu of  conviction, cases involving unlawful possession of a controlled substance consti-
+tuting a drug enforcement misdemeanor under section 35 , [ of this 2024  Act ] chapter 70, Oregon
+Laws 2024.
+(3) If a deflection program is established, the program coordinator  shall be responsible for pro-
+viding notification that  a person has completed the program to those entities responsible for sealing
+records under section 54 , [of this 2024 Act ] chapter 70, Oregon Laws 2024, including but not limited
+to [ law enforcement agencies, district attorneys and courts ] a law enforcement  agency, the district
+attorney and, if requested by the court, the circuit court .
+(4) As used in this section, “deflection program” has the meaning given that term  in section
+37, [ of this 2024 Act ] chapter 70, Oregon Laws 2024 .
+SECTION 25.  Section 52, chapter 70, Oregon Laws 2024, is amended to read:
+Sec. 52.  (1)(a) When a person is charged with unlawful possession  of a controlled substance
+under ORS 475.752 (3)(a), (b),  (c) or (d), 475.814 (2)(a), 475.824 (2)(a), 475.834 (2)(a), 475.854 (2)(a),
+475.874 (2)(a), 475.884 (2)(a) or 475.894 (2)(a)  or section 2 (2)(a) of this  2025 Act constituting a drug
+enforcement misdemeanor as described in section 35 [ of this  2024 Act ], chapter 70, Oregon Laws
+2024, the person is eligible to enter, and subject to paragraphs (b) and  (c) of this subsection may
+request to enter, into a probation agreement as described in this section.
+(b) The district attorney may object to the defendant’s entry  into a probation agreement under
+this section. After hearing the reasons for  the objection, the court may deny the person’s entry if
+the probation agreement  would not serve the needs of the person or the protection and welfare of
+the community.
+(c) A person may request  to enter into a probation agreement under this section no later than
+30 days after the person’s first appearance, unless the  court authorizes a later date for good cause
+shown. For purposes of this paragraph, the filing of a demurrer, a motion  to suppress or a motion
+for an omnibus hearing does not constitute good cause.
+(d) When a person enters into a probation agreement under this section,  the court shall defer
+further proceedings on the charge described in paragraph (a) of  this subsection and place the person
+on probation. The terms of the probation shall be defined by a probation agreement.
+(e) A  person may enter into a probation agreement under this section on the charge described
+in paragraph (a) of this subsection regardless of whether  the person is charged with other offenses
+[25]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+within the same charging instrument or as part of a separate charging instrument, but the  pro-
+ceedings on the other offenses continue in the normal course and are not deferred.
+(2)(a) A probation agreement described in this section carries the understanding  that if the de-
+fendant fulfills the terms of the agreement, the  charge described in subsection (1)(a) of this section
+that is the subject of the agreement will be dismissed with prejudice.
+(b) The initial term of probation shall be 12 months, subject to early termination by  the court.
+The terms of the probation shall include  the general conditions of probation described in ORS
+137.540 (1) and a requirement that the defendant complete a substance abuse evaluation and  any
+treatment recommended by  the evaluator. The court may impose sanctions of up to a total of 30 days
+of imprisonment upon finding that the person  has violated the conditions of probation. Structured,
+intermediate sanctions  as described in ORS 137.593 may be imposed in accordance with rules
+adopted under ORS  137.595 when the conditions of a term of probation described in this section have
+been violated.
+(c) The agreement must contain a waiver of the following rights of the defendant  with respect
+to each criminal charge:
+(A) The right to a speedy trial and trial by jury;
+(B) The right to present evidence on the defendant’s behalf;
+(C) The right to confront and cross-examine witnesses against the defendant;
+(D) The right to contest evidence presented against the defendant, including the right to object
+to hearsay evidence; and
+(E) The right to appeal from a judgment  of conviction resulting from an adjudication of guilt
+entered under subsection  (3) of this section, unless the appeal is based on an allegation that the
+sentence exceeds the maximum allowed by law or constitutes cruel and unusual punishment.
+(d) The agreement may not contain  a requirement that the defendant enter a plea of guilty or
+no contest on any charge in the accusatory instrument.
+(e) The fact that a person has entered into a probation agreement  under this section does not
+constitute  an  admission of guilt and is not sufficient to warrant a finding or adjudication of guilt
+by a court.
+(f) Police reports or other documents associated with the criminal charges in  a court file other
+than the probation agreement may not  be admitted into evidence, and do not establish a factual
+basis for finding the defendant guilty, unless the court resumes criminal proceedings [ and enters an
+adjudication of guilt ] under subsection (3) of this section.
+(3) Upon violation of a term or condition of the probation agreement, the court may :
+(a) If the court finds that the defendant has fulfilled the terms and conditions of  the
+probation agreement, discharge the person and dismiss the charge that is the subject of the
+agreement as described in subsection (4) of this section;
+(b) Impose a sanction ; or [ may]
+(c) Resume  the criminal proceedings and may find the defendant guilty of the charge that is the
+subject of the agreement in accordance with the waiver of rights in the agreement.  The defendant
+may not contest the sufficiency of the evidence establishing the  defendant’s guilt of the offenses in
+the accusatory instrument.
+(4) Upon the  conclusion or early termination of the probation period, if the court has received
+notice from the district attorney or a supervising officer that the person has fulfilled  the terms and
+conditions of the probation agreement, the  court shall discharge the person and dismiss the charge
+that is the subject of the agreement.  Discharge and dismissal under this section shall be without
+[26]
+SB 236
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+adjudication of guilt and is not a  conviction for purposes of this section or for purposes of disqual-
+ifications or disabilities imposed by law upon conviction of a crime.
+(5) In the event that the period  of probation under this section expires, but the court has not
+received notice that the terms and conditions  of the probation agreement have been fulfilled and no
+probation violation proceeding was  initiated prior to the expiration of the period of probation, the
+court may not discharge the person and  dismiss the proceedings against the person. The court shall
+instead issue an order requiring the person to appear  and to show cause why the court should not
+enter an adjudication of guilt as described in subsection (3) of this section due to the failure of the
+person to fulfill the terms and conditions of the probation agreement prior to expiration of the  pe-
+riod of probation. At the hearing on the order to show cause, after considering any evidence or  ar-
+gument from the district attorney and the person, the court may:
+(a) Order a new period of probation to allow the person to  fulfill the terms and conditions of the
+probation agreement; or
+(b) Enter an adjudication of guilt as described in subsection (3) of this section.
+CAPTIONS
+SECTION 26.
+The unit captions used in this 2025 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+[27]

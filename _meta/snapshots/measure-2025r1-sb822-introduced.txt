@@ -1,0 +1,440 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 822
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Governor Tina Kotek for Department of Consumer and Business Services)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Expands network rules for some health benefit  plans. Makes DCBS adopt certain rules.
+Allows some health and dental  plans to use remote providers to meet network rules. (Flesch Read-
+ability Score: 72.3).
+Expands network adequacy  requirements to health benefit plans offered to large employers and
+modifies requirements. Requires the Department of Consumer and Business Services  to adopt speci-
+fied standards for network adequacy.
+Permits a health benefit plan  and a dental-only plan to use telemedicine health care providers
+to meet network adequacy standards only as permitted by rule adopted by the department.
+A BILL FOR AN ACT
+Relating to provider networks; amending ORS 743A.058 and 743B.505.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 743B.505 is amended to read:
+743B.505. (1) [ An insurer ] A carrier  offering [ a] an individual or group  health benefit plan in
+this state that provides coverage  [ to individuals or to small employers, as defined in ORS
+743B.005,] through a specified network of health care providers shall:
+(a) Contract with or employ a network of providers that is sufficient in number,  geographic
+distribution and types of providers to ensure that all covered services under the health benefit plan,
+including mental health , [ and] substance [ abuse treatment, ] use disorder and reproductive health
+care and treatment,  are accessible :
+(A) To  all enrollees for initial and follow-up appointments [ without unreasonable delay. ]; and
+(B) In an appropriate and culturally  competent manner to all enrollees, including those
+with diverse cultural and ethnic backgrounds, varying sexual orientations and gender  iden-
+tities, disabilities or physical or mental health conditions.
+(b)(A) With respect to  health benefit plans offered through the health insurance exchange under
+ORS 741.310, contract with a sufficient number and geographic distribution of essential community
+providers, where available, to ensure reasonable  and timely access to a broad range of essential
+community providers for low-income, medically underserved individuals  in the plan’s service area in
+accordance with the network  adequacy standards established by the Department of Consumer and
+Business Services;
+(B) If  the health benefit plan offered through the health insurance exchange offers a majority
+of the covered services through physicians employed  by the [ insurer] carrier  or through a single
+contracted medical group, have a sufficient number and  geographic distribution of employed or
+contracted providers and hospital facilities to ensure reasonable and timely  access for low-income,
+medically underserved enrollees in the plan’s service area, in accordance with network  adequacy
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 362
+SB 822
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+standards adopted by the department [ of Consumer and Business Services ]; or
+(C) With respect to health benefit plans offered outside of the health insurance exchange,  con-
+tract with or employ a network of providers  that is sufficient in number, geographic distribution and
+types of providers to ensure access to care by  enrollees who reside in locations within the health
+benefit plan’s service area that are [ designated by the Health Resources and Services Administration
+of the United States Department of Health and Human Services as ] health professional shortage  areas
+or low-income zip codes , as prescribed by the department by rule .
+(c) Annually  report to the department [ of Consumer and Business Services ], in the format pre-
+scribed by the department, the [ insurer’s] carrier’s  network of providers  for each health benefit
+plan.
+(2)(a) [ An insurer ] A carrier  may not discriminate with respect to  participation under a health
+benefit plan or coverage under the plan against any health care provider who is acting within  the
+scope of the provider’s license or certification in this state.
+(b) This subsection does not require [ an insurer ] a carrier  to contract with any health care
+provider who is willing to abide by the [ insurer’s] carrier’s terms and  conditions for participation
+established by the [ insurer] carrier.
+(c) This subsection does  not prevent [ an insurer ] a carrier  from establishing varying re-
+imbursement rates based on quality or performance measures.
+(d) Rules adopted  by the department [ of Consumer and Business Services ] to implement this
+[section] subsection  shall be consistent with the provisions of 42 U.S.C. 300gg-5 and the rules
+adopted by the United States Department of Health and Human Services, the United States  De-
+partment of the Treasury or the United States Department  of Labor to carry out 42 U.S.C. 300gg-5
+that are in effect on January 1, [ 2017] 2025.
+(3) The Department of Consumer and Business Services shall [ use one of the following methods
+in] conduct  an annual evaluation of whether the network of providers available to enrollees in  a
+health benefit plan meets the requirements of this section[ :]
+[(a) An approach by which an insurer submits evidence  that the insurer is complying with at least
+one of the factors prescribed by the department by rule from each of the following categories: ]
+[(A) Access to care consistent with the needs of the enrollees served by the network; ]
+[(B) Consumer satisfaction; ]
+[(C) Transparency; and ]
+[(D) Quality of care and cost containment; or ]
+[(b) A ] using a  nationally recognized standard adopted by the department and adjusted, as nec-
+essary, to reflect the age demographics of the enrollees in the plan.
+(4)(a) The department shall adopt by rule standards for evaluating, under subsection (3)
+of this section, the adequacy of a carrier’s network of providers  in meeting the requirements
+of subsection (1) of this section and ensuring access by enrollees to initial and follow-up care
+without unreasonable delay. The standards may include but are not limited to:
+(A) Standards for geographic access  to ensure that specified providers are located within
+a reasonable distance  of the homes and workplaces of all the enrollees in the carrier’s plans;
+(B) Provider-to-patient ratios to ensure that  a sufficient number of providers are avail-
+able within the carrier’s network to serve all the enrollees in the carrier’s plans; and
+(C) Specific limits on the amount of time  an enrollee must wait to be seen between re-
+questing care and receiving care.
+[(4)] (b)  [ In evaluating an insurer’s ] Standards adopted by the department by rule to evalu-
+[2]
+SB 822
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ate a carrier’s  network  of mental and behavioral health providers under subsection (3) of this
+section[ , the department shall ] must  ensure that the network includes[ :]
+[(a)] an adequate number and geographic distribution  in all geographic  areas where the car-
+rier offers plans , as prescribed  by the department by rule, of licensed professional counselors, li-
+censed marriage and  family therapists, licensed clinical social workers, psychologists and
+psychiatrists who are accepting new patients, based on the needs of  the [ insureds under the policy
+or certificate ] enrollees in the carrier’s plans , including but not limited to providers who can ad-
+dress the needs of:
+(A) Children and adults;
+(B) Individuals with limited English proficiency or who are illiterate;
+(C) Individuals with diverse cultural or ethnic backgrounds;
+(D) Individuals with chronic or complex behavioral health conditions; and
+(E) Other groups specified by the department by rule[ ; and ].
+[(b) An adequate number of the providers described in paragraph (a) of this subsection in all  ge-
+ographic areas where the insurer offers plans. ]
+(5) This section  does not require [ an insurer ] a carrier to contract with an essential community
+provider that refuses to accept the [ insurer’s] carrier’s  generally  applicable payment rates for ser-
+vices covered by the plan.
+(6) This section does not require [ an insurer ] a carrier  to submit provider contracts to the de-
+partment for review.
+(7) As used in this section, “carrier” has the meaning given that term in ORS 743B.005.
+SECTION 2.
+ ORS 743A.058 is amended to read:
+743A.058. (1) As used in this section:
+(a)(A) “Audio only” means the use of audio  telephone technology, permitting real-time commu-
+nication between a health care provider and a patient for the  purpose of diagnosis, consultation or
+treatment.
+(B) “Audio only” does not include:
+(i) The use of facsimile, electronic mail or text messages.
+(ii) The delivery of health services that are customarily delivered by  audio telephone technology
+and customarily not billed as separate services by  a health care provider, such as the sharing of
+laboratory results.
+(b) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+(c) “Health professional” means a person licensed, certified or registered in  this state to provide
+health care services or supplies.
+(d) “Health service”  means physical, oral and behavioral health treatment or service provided
+by a health professional.
+(e) “Originating site” means the physical location of the patient.
+(f) “State of emergency” includes:
+(A) A state of emergency declared by the Governor under ORS 401.165; or
+(B) A state of public health emergency declared by the Governor under ORS 433.441.
+(g) “Telemedicine” means the mode of delivering  health services using information and tele-
+communication technologies to provide consultation and  education or to facilitate diagnosis, treat-
+ment, care management or self-management of a patient’s health care.
+(2) A health benefit plan and  a dental-only plan must provide coverage of a health service that
+is provided using telemedicine if:
+[3]
+SB 822
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) The plan provides coverage of the health service when provided in person by a health pro-
+fessional;
+(b) The health service is medically necessary;
+(c) The health service is determined to be safely and effectively  provided using telemedicine
+according to generally accepted health care practices and standards; and
+(d) The application and technology used to provide  the health service meet all standards re-
+quired by state and federal laws governing the privacy and security of protected health information.
+(3) Except as provided in subsection  (4) of this section, permissible telemedicine applications and
+technologies include:
+(a) Landlines, wireless communications, the Internet and telephone networks; and
+(b) Synchronous or asynchronous transmissions using audio only, video only, audio and  video
+and transmission of data from remote monitoring devices.
+(4) During a state of emergency, a health benefit plan or dental-only  plan shall provide coverage
+of a  telemedicine service delivered to an enrollee residing in the geographic area specified in the
+declaration of the state of  emergency, if the telemedicine service is delivered using any commonly
+available technology, regardless of  whether the technology meets all standards required by state and
+federal laws governing the privacy and security of protected health information.
+(5) A health benefit plan and a dental-only plan may not:
+(a) Distinguish between  rural and urban originating sites in providing coverage under subsection
+(2) of this section or restrict originating sites that qualify for reimbursement.
+(b) Restrict a health care provider  to delivering services only in person or only via telemedicine.
+(c) Use telemedicine health care providers to meet network adequacy standards  under ORS
+743B.505, except as permitted by the  Department of Consumer and Business Services under
+criteria prescribed by the department by rule .
+(d) Require an enrollee to have an established  patient-provider relationship with a provider to
+receive telemedicine health services from the provider or require  an enrollee to consent to tele-
+medicine services in person.
+(e) Impose  additional certification, location or training requirements for telemedicine providers
+or restrict the scope  of services that may be provided using telemedicine to less than a provider’s
+permissible scope of practice.
+(f) Impose more restrictive requirements for telemedicine applications and technologies than
+those specified in subsection (3) of this section.
+(g) Impose on telemedicine  health services different annual dollar maximums or prior authori-
+zation requirements  than the annual dollar maximums and prior authorization requirements imposed
+on the services if provided in person.
+(h) Require a medical assistant or other health professional to be present with an enrollee  at
+the originating site.
+(i) Deny an enrollee the choice to receive a health service in person or via telemedicine.
+(j) Reimburse an out-of-network provider at a rate for telemedicine health services that  is dif-
+ferent than the reimbursement paid  to the out-of-network provider for health services delivered in
+person.
+(k) Restrict a provider from providing telemedicine services across state lines  if the services are
+within the provider’s scope of practice and:
+(A) The provider has an established practice within this state;
+(B) The provider’s employer operates health clinics or licensed health  care facilities in this
+[4]
+SB 822
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+state;
+(C) The provider has an established relationship with the patient; or
+(D) The patient was referred to the provider  by the patient’s primary care or specialty provider
+located in this state.
+(L) Prevent a provider from prescribing, dispensing or administering  drugs or medical supplies
+or otherwise providing treatment  recommendations to an enrollee after having performed an appro-
+priate examination of the enrollee in person, through telemedicine or by the use of instrumentation
+and diagnostic equipment through which images  and medical records may be transmitted electron-
+ically.
+(m) Establish standards  for determining medical necessity for services delivered using telemedi-
+cine that are higher than standards for determining medical necessity for services delivered  in per-
+son.
+(6) A health benefit plan and a dental-only plan shall:
+(a) Work with  contracted providers to ensure meaningful access to telemedicine services by as-
+sessing an enrollee’s capacity to use telemedicine technologies that comply with accessibility stan-
+dards, including alternate formats, and providing the optimal quality of care for the  enrollee given
+the enrollee’s capacity;
+(b) Ensure access to auxiliary aids and services to ensure  that telemedicine services accommo-
+date the needs of enrollees who have difficulty communicating due to a medical condition, who need
+an accommodation due to disability or advanced age or who have limited English proficiency;
+(c) Ensure access to telemedicine services for enrollees who have limited English proficiency
+or who are deaf or hard-of-hearing by providing interpreter services  reimbursed at the same rate
+as interpreter services provided in person; and
+(d) Ensure that telemedicine  services are culturally and linguistically appropriate and trauma-
+informed.
+(7) The coverage under subsection (2) of this section is subject to:
+(a) The terms and conditions of the health benefit plan or dental-only plan; and
+(b) Subject to subsection (8) of this section, the reimbursement specified in  the contract between
+the plan and the health professional.
+(8)(a) A health benefit plan and dental-only plan must pay the same reimbursement for a health
+service regardless of  whether the service is provided in person or using any permissible telemedicine
+application or technology.
+(b) Paragraph (a) of  this subsection does not prohibit the use of value-based payment methods,
+including capitated, bundled,  risk-based or other value-based payment methods, and does not require
+that any value-based payment method reimburse telemedicine health  services based on an equivalent
+fee-for-service rate.
+(9) This section does not require a health  benefit plan or dental-only plan to reimburse a health
+professional:
+(a) For a health service that is not a covered benefit under the plan;
+(b) Who has not contracted with the plan; or
+(c) For a service that is not  included within the Healthcare Procedure Coding System or the
+American Medical Association’s Current Procedural Terminology codes or related modifier codes.
+(10) This section is exempt from ORS 743A.001.
+[5]

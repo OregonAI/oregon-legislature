@@ -1,0 +1,191 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2725
+Sponsored by Representative PHAM H,  Senator SOLLMAN; Representatives LIVELY, MCLAIN, SOSA, WALLAN,
+Senators MEEK, REYNOLDS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would limit the kind of port district that must be a party  to a contract in the
+strategic investment program. (Flesch Readability Score: 65.2).
+Limits the  kind of port districts that are required to be involved in strategic investment program
+agreements with respect to eligible projects that are located in the port district’s territory.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to the inclusion of ports in strategic investment program agreements; creating new  pro-
+visions; amending ORS 285C.600 and 285C.609; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 285C.609 is amended to read:
+285C.609. (1) A determination under ORS 285C.606 (1) by the Oregon Business  Development
+Commission that  a project shall be exempt from property taxation under ORS 307.123 must be re-
+quested by official action of the governing body of the county in which the  proposed eligible
+project will be located, taken  at a regular or duly called special meeting [ thereof] of the governing
+body. The request shall require approval  by the affirmative vote of  a majority of [ its] the mem-
+bers of the governing body .
+(2) The governing body of [ any Oregon ] a county shall forward  [ appropriate prospective ] ap-
+proved eligible projects to the Oregon Business Development Department for processing.
+(3) For purposes of this  section, for projects located on a federally recognized Oregon Indian
+reservation, the governing  body of a county shall be considered [ to be ] the governing body of the
+federally recognized Oregon Indian tribe.
+(4) The county may not make the request under subsection (1) of this section unless, after  a
+public hearing:
+(a) The county and, if the proposed eligible project will be located  within the boundaries of a
+city or affected port, the city or affected port have entered into an agreement with the business
+firm, as described in this subsection. The Oregon Business  Development Department shall make
+available, in a timely manner, training materials related  to negotiation techniques in such circum-
+stances to the county, city or affected port, as applicable.
+(b) The agreement provides for the payment of a fee by the business firm, as follows:
+(A) The fee shall be for community services support that  relates to the direct impact of the el-
+igible project on public services.
+(B) The fee shall be in an amount equal to 25 percent of the property taxes that would, but for
+the exemption, be due on the exempt property in each assessment year, but not exceeding  $3 million
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 594
+HB 2725
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+in any year.
+(C) The fee shall be paid annually during the  tax exemption period, as of a date set forth in the
+agreement.
+(c) The agreement provides for  the refunding or crediting of overpayments, for interest on late
+payments or underpayments and for the manner in  which the appeal of the assessed value of the
+property included in the project will affect the fee.
+(5) The maximum fee amount allowed under subsection  (4)(b) of this section shall be adjusted
+each year for the property tax year beginning on July 1 by multiplying  $3 million by the ratio of the
+increase, if any, in the monthly averaged Consumer Price Index for All  Urban Consumers, West
+Region, for the 12 consecutive months ending December  31 of the prior calendar year over the
+monthly averaged index for  the 12 consecutive months ending December 31, 2023. The amount of any
+increase determined under this subsection shall be rounded to the nearest multiple of $1,000.
+(6) The agreement described in subsection (4) of this section may provide  for any other re-
+quirements related to the project.
+(7)(a) The fee collected under subsection (4)(b) of this section shall be  distributed by the county
+based on an agreement. The agreement is effective only  if the following public bodies have entered
+into the agreement:
+(A) The county and the city or affected port, if any, in which the eligible project is located;
+(B) All special districts in the code area in which  the eligible project is located that provide
+services related to public safety, fire prevention and  response, ambulance or other emergency med-
+ical response or emergency communications; and
+(C) Local taxing districts listed in ORS 198.010 or  198.180, other than affected ports, that con-
+stitute at least 75 percent of the property tax authority of all local taxing districts listed in  ORS
+198.010 or 198.180,  other than affected ports, in the code area in which the eligible project is lo-
+cated.
+(b) If an effective agreement is not entered into under paragraph (a) of  this subsection within
+three months  after the date of the determination by the commission under ORS 285C.606 (1), the
+commission shall, by official action,  establish a formula for distributing the fee collected under
+subsection (4)(b) of this section.
+SECTION 2.
+ ORS 285C.600 is amended to read:
+285C.600. As used in ORS 285C.600 to 285C.635:
+(1) “Affected port” means  a port district on the Columbia River formed under ORS
+chapter 777 that owns at least four industrial parks.
+[(1)] (2) “Business firm” has the meaning given that term in ORS 285C.050.
+[(2)] (3) “Consumer Price  Index for All Urban Consumers, West Region” means the Consumer
+Price  Index  for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor
+Statistics of the United States Department of Labor.
+[(3)] (4) “Eligible project” means a project that meets criteria established by  the Oregon Busi-
+ness Development Commission to be exempt from property taxation under ORS 307.123.
+[(4)] (5) “First-source hiring agreement” has the meaning given that term in ORS 285C.050.
+[(5)] (6) “Newly created jobs” means, for an eligible project, total jobs less retained jobs.
+[(6)] (7) “Publicly funded job  training provider” has the meaning given that term in ORS
+285C.050.
+[(7)] (8) “Rural area” means an area located entirely outside of  the urban growth boundary of
+a city with a population  of 40,000 or more, as the urban growth boundary is acknowledged on the
+[2]
+HB 2725
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+date on which an applicant submits an application, pursuant to rules adopted  by the Oregon Busi-
+ness Development Department, for property tax exemption under ORS 307.123.
+[(8)] (9) “Strategic investment zone” means a geographic area established  under ORS 285C.623,
+within which the property of eligible projects may  be exempt from property taxation under ORS
+307.123.
+SECTION 3.
+The amendments  to ORS 285C.600 and 285C.609 by sections 1 and 2 of this
+2025 Act apply to requests made under  ORS 285C.609 on or after the effective date of this
+2025 Act.
+SECTION 4. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

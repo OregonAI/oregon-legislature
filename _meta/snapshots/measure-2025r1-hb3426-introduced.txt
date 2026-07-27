@@ -1,0 +1,85 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3426
+Sponsored by Representative BOICE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that it is an  offense to use a drone to interfere with firefighting and search
+and rescue activities. (Flesch Readability Score: 60.6).
+Expands offenses relating to the use of an unmanned aircraft system to interfere with official
+duties to include firefighting and search and rescue efforts.
+A BILL FOR AN ACT
+Relating to unmanned aircraft systems; amending ORS 837.374.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 837.374 is amended to read:
+837.374. (1) Except  as provided in subsection (3) of this section, a person commits a Class A vi-
+olation if the person possesses or controls  an unmanned aircraft system and recklessly causes the
+unmanned aircraft system to:
+(a) Direct a laser at an aircraft while the aircraft is in the air;
+(b) Crash into an aircraft while the aircraft is in the air;
+(c) Prevent the takeoff or landing of an aircraft; or
+(d) Interfere with a [ wildfire suppression, ] law  enforcement , firefighting, search and rescue  or
+emergency response effort.
+(2) Except as provided in subsection  (3) of this section, a person commits a Class A misdemeanor
+if the person possesses or controls  an unmanned aircraft system and knowingly or intentionally
+causes the unmanned aircraft system to:
+(a) Direct a laser at an aircraft while the aircraft is in the air;
+(b) Crash into an aircraft while the aircraft is in the air;
+(c) Prevent the takeoff or landing of an aircraft; or
+(d) Interfere with a [ wildfire suppression, ] law  enforcement , firefighting, search and rescue or
+emergency response effort.
+(3) A person commits a Class A felony if  the person possesses or controls an unmanned aircraft
+system and knowingly, intentionally or recklessly causes death or serious physical injury,  as defined
+in ORS 161.015, to another person by causing the unmanned aircraft system to:
+(a) Direct a laser at an aircraft while the aircraft is in the air;
+(b) Crash into an aircraft while the aircraft is in the air; or
+(c) Prevent the takeoff or landing of an aircraft.
+(4) Notwithstanding subsection (1) of this section,  a person commits a Class A misdemeanor if
+the person violates subsection (1) of this section and the person has one or more convictions under
+subsection (1) of this section at the time of the offense.
+(5) In addition to and not in lieu of any other sentence the court may impose, upon  a person’s
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1911
+HB 3426
+1
+2
+3
+4
+second or subsequent  conviction under this section, the court shall, at the time of sentencing, de-
+clare the unmanned aircraft system used in  the offense to be contraband and order that the un-
+manned aircraft system be forfeited.
+[2]

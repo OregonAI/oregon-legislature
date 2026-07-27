@@ -1,0 +1,274 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb606
+title: 'SB 606 (2025R1): Adds certain health care employees to the list of workers for whom certain stress
+  disorders give rise to a presumption that a workers'' compensation claim is compensable as an occupational
+  disease.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 606
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB606/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: f11c12d9873e116cb944a9fca58eb916e16c1f86933c68637dc5107ebb971d35
+snapshot_id: measure-2025r1-sb606-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.117
+  - ORS 656.005
+  - ORS 656.027
+  - ORS 656.802
+  - ORS 656.807
+  - ORS 675.010
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 606
+prefix_meaning: Senate Bill
+catch_line: Adds certain health care employees to the list of workers for whom certain stress disorders
+  give rise to a presumption that a workers' compensation claim is compensable as an occupational disease.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would add certain health care workers to those whose stress disorders\
+  \ give rise to a presumption that a workers' comp claim is compensable. (Flesch Readability Score: 63.0).\
+  \ \n\tAdds certain health care employees to the list of workers for whom certain stress disorders give\
+  \ rise to a presumption that a workers' compensation claim is compensable as an occupational disease."
+relating_to: Relating to occupational disease.
+relating_to_full: Relating to occupational disease; amending ORS 656.802.
+at_the_request_of: null
+lc_number: 3507
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-04-07T14:52:25'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 12962
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.117
+  - ORS 656.005
+  - ORS 656.027
+  - ORS 656.802
+  - ORS 656.807
+  - ORS 675.010
+  from_relating_to_full:
+  - ORS 656.802
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 606>.
+
+# SB 606 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 606, 2025 Regular Session (2025R1)
+- **LC number:** 3507
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-04-07T14:52:25
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 12962 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB606/Introduced>.
+
+## Summary
+
+**Catchline:** Adds certain health care employees to the list of workers for whom certain stress disorders give rise to a presumption that a workers' compensation claim is compensable as an occupational disease.
+
+**Relating to:** Relating to occupational disease.
+
+Digest: The Act would add certain health care workers to those whose stress disorders give rise to a presumption that a workers' comp claim is compensable. (Flesch Readability Score: 63.0). 
+ Adds certain health care employees to the list of workers for whom certain stress disorders give rise to a presumption that a workers' compensation claim is compensable as an occupational disease.
+
+**RelatingToFull (verbatim upstream field):** Relating to occupational disease; amending ORS 656.802.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 606
+Sponsored by Senator CAMPOS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would add certain health care workers to those  whose stress disorders give rise
+to a presumption that a workers’ comp claim is compensable. (Flesch Readability Score: 63.0).
+Adds certain health care employees to the list of  workers for whom certain stress disorders give
+rise to a  presumption that a workers’ compensation claim is compensable as an occupational disease.
+A BILL FOR AN ACT
+Relating to occupational disease; amending ORS 656.802.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 656.802 is amended to read:
+656.802. (1)(a)  As used in this chapter, “occupational disease” means any disease or infection
+arising out of and in the course of employment caused by substances or  activities to which an em-
+ployee is not ordinarily subjected or exposed other than during a period  of regular actual employ-
+ment therein, and which requires medical services or results in disability or death, including:
+(A) Any disease or infection caused by ingestion of, absorption of, inhalation  of or contact with
+dust, fumes, vapors, gases, radiation or other substances.
+(B) Any mental disorder, whether sudden or gradual  in onset, which requires medical services
+or results in physical or mental disability or death.
+(C) Any series of traumatic events or occurrences which requires medical  services or results in
+physical disability or death.
+(b) As used in  this chapter, “mental disorder” includes any physical disorder caused or worsened
+by mental stress.
+(2)(a) The worker must prove that employment conditions were the major  contributing cause of
+the disease.
+(b) If the occupational disease claim is based  on the worsening of a preexisting disease or con-
+dition pursuant to ORS 656.005 (7), the worker  must prove that employment conditions were the
+major contributing cause of the combined condition and pathological worsening of the disease.
+(c) Occupational diseases shall be subject to all of  the same limitations and exclusions as acci-
+dental injuries under ORS 656.005 (7).
+(d) Existence of an occupational disease or worsening  of a preexisting disease must be estab-
+lished by medical evidence supported by objective findings.
+(e) Preexisting conditions shall be deemed causes in determining  major contributing cause under
+this section.
+(3) Notwithstanding any other provision of this chapter, a mental disorder is  not compensable
+under this chapter unless the worker establishes all of the following:
+(a) The employment conditions producing the  mental disorder exist in a real and objective sense.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3507
+(b) The employment conditions producing the  mental disorder are conditions other than condi-
+tions generally inherent in every working situation  or reasonable disciplinary, corrective or job
+performance evaluation actions by the  employer, or cessation of employment or employment deci-
+sions attendant upon ordinary business or financial cycles.
+(c) There is a diagnosis of a mental or  emotional disorder which is generally recognized in the
+medical or psychological community.
+(d) There is clear and convincing evidence  that the mental disorder arose out of and in the
+course of employment.
+(4)(a) Death, disability or impairment of health of firefighters of any political  division who have
+completed five or more years of employment as  firefighters, caused by any disease of the lungs or
+respiratory tract, hypertension  or cardiovascular-renal disease, and resulting from their employment
+as firefighters is  an “occupational disease.” Any condition or impairment of health arising under this
+subsection shall be presumed to  result from a firefighter’s employment. However, any such fire-
+fighter must have taken a physical examination upon becoming a firefighter, or subsequently thereto,
+which failed to reveal  any evidence of such condition or impairment of health which preexisted
+employment. Denial of a claim for any condition or  impairment of health arising under this sub-
+section must be on the basis of clear and convincing medical  evidence that the cause of the condi-
+tion or impairment is unrelated to the firefighter’s employment.
+(b) Notwithstanding ORS 656.027 (6), a city that  provides a disability or retirement system for
+firefighters by ordinance or charter that is not  subject to this chapter, when accepting and pro-
+cessing claims for death, disability or impairment of health from firefighters covered by  the disabil-
+ity or retirement system, shall apply:
+(A) The provisions of this subsection; and
+(B) For claims filed under this subsection, the time  limitations for filing claims that are set forth
+in ORS 656.807 (1) and (2).
+(5)(a) Death, disability or  impairment of health of a nonvolunteer firefighter employed by a pol-
+itical division or subdivision who has completed five  or more years of employment as a nonvolunteer
+firefighter is an occupational disease if the death, disability or impairment of health:
+(A) Is caused by brain cancer, colon  cancer, stomach cancer, testicular cancer, prostate cancer,
+multiple myeloma, non-Hodgkin’s lymphoma, cancer of  the throat or mouth, rectal cancer, breast
+cancer, leukemia, bladder cancer or gynecologic cancer of the  uterus, fallopian tubes, ovaries,
+cervix, vagina or vulva;
+(B) Results from the firefighter’s employment as a nonvolunteer firefighter; and
+(C) Is first diagnosed by a physician after July 1, 2009.
+(b) Any condition or impairment of health arising under this subsection is  presumed to result
+from the firefighter’s  employment. Denial of a claim for any condition or impairment of health aris-
+ing under this subsection must be on the basis of clear and convincing medical evidence that the
+condition or impairment was not caused or  contributed to in material part by the firefighter’s em-
+ployment.
+(c) Notwithstanding paragraph (b) of this subsection, the presumption established under para-
+graph (b) of this subsection may be rebutted by clear and convincing evidence that the use of  to-
+bacco by the nonvolunteer firefighter is the major contributing cause of the cancer.
+(d) The presumption established under paragraph (b) of this subsection does  not apply to pro-
+state cancer if the cancer is first diagnosed by a  physician after the firefighter has reached the age
+of 55. However, nothing in this paragraph affects the right of a firefighter to establish the
+compensability of prostate cancer without benefit of the presumption.
+(e) The presumption established under paragraph (b) of this subsection does not  apply to claims
+filed more than  84 months following the termination of the nonvolunteer firefighter’s employment
+as a nonvolunteer firefighter. However, nothing in this paragraph affects the  right of a firefighter
+to establish the compensability of the cancer without benefit of the presumption.
+(f) The presumption established under paragraph (b) of  this subsection does not apply to volun-
+teer firefighters.
+(g) Nothing in this subsection affects the provisions of subsection (4) of this section.
+(h) For purposes of this subsection, “nonvolunteer firefighter” means a  firefighter who performs
+firefighting services and receives salary, hourly wages equal to or greater than the  state minimum
+wage, or other compensation except for room, board,  lodging, housing, meals, stipends, reimburse-
+ment for expenses or nominal payments  for time and travel, regardless of whether any such com-
+pensation is subject to federal, state or local  taxation. “Nominal payments for time and travel”
+includes, but is not limited to,  payments for on-call time or time spent responding to a call or similar
+noncash benefits.
+(6) Notwithstanding ORS 656.027 (6),  any city providing a disability and retirement system by
+ordinance or charter for firefighters and police officers not subject  to this chapter shall apply the
+presumptions established under subsection (5) of  this section when processing claims for firefighters
+covered by the system.
+(7)(a) As used in this subsection:
+(A) “Acute stress disorder” has the meaning given that term in the DSM-5.
+(B) “Covered  employee” means an individual who, on the date a claim is filed under this chapter:
+(i) Was employed for at  least five years by, or experienced a single traumatic event that satisfies
+the criteria set forth  in the DSM-5 as Criterion A for diagnosing post-traumatic stress disorder while
+employed by, the state, a political subdivision of the state, a  special government body, as defined in
+ORS 174.117, or a public agency in any of these occupations:
+(I) A full-time paid firefighter;
+(II) A full-time paid emergency medical services provider;
+(III) A full-time paid police officer;
+(IV) A full-time paid corrections officer or youth correction officer;
+(V) A full-time paid parole and probation officer; [ or]
+(VI) A full-time paid emergency dispatcher or 9-1-1 emergency operator; [ and]
+(VII) A full-time paid  employee of the Oregon State Hospital who has direct contact with
+patients; or
+(VIII) A full-time paid employee of the Department  of Human Services who works at the
+Stabilization and Crisis Unit; and
+(ii) Remains employed in an occupation listed in  sub-subparagraph (i) of this subparagraph or
+separated from employment in the occupation not more than seven years previously.
+(C) “DSM-5” means the fifth edition of the Diagnostic and Statistical Manual  of Mental Disor-
+ders published by the American Psychiatric Association.
+(D) “Post-traumatic stress disorder” has the meaning given that term in the DSM-5.
+(E) “Psychiatrist”  means a psychiatrist whom the Oregon Medical Board has licensed and cer-
+tified as eligible to diagnose the conditions described in this subsection.
+(F) “Psychologist” means  a licensed psychologist, as defined in ORS 675.010, whom the Oregon
+Board of Psychology has certified as eligible to diagnose the conditions described in this  subsection.
+(b) Notwithstanding subsections (2) and (3) of this section, if a  covered employee establishes
+through a preponderance of persuasive medical evidence from  a psychiatrist or psychologist that the
+covered employee has more likely than not satisfied the  diagnostic criteria in the DSM-5 for post-
+traumatic stress disorder or acute stress disorder, any resulting  death, disability or impairment of
+health of the  covered employee shall be presumed to be compensable as an occupational disease.
+An insurer or self-insured employer may rebut the presumption  only by establishing through clear
+and convincing medical evidence that duties as a covered employee were not  of real importance or
+great consequence in causing the diagnosed condition.
+(c) An  insurer’s or self-insured employer’s acceptance of a claim of post-traumatic stress disorder
+or acute stress disorder under this subsection, whether the acceptance was voluntary or was a  re-
+sult of a  judgment or order, does not preclude the insurer or the self-insured employer from later
+denying the  current compensability of the claim if exposure as a covered employee to trauma that
+meets the diagnostic criteria set forth  as Criterion A in the DSM-5 for post-traumatic stress disorder
+or acute stress disorder ceases being of real importance or great consequence in causing the  disa-
+bility, impairment of health or a need for treatment.
+(d) An insurer or self-insured employer may deny  a claim under paragraph (c) of this subsection
+only on the basis of clear and convincing medical evidence.
+(e) Notwithstanding ORS 656.027 (6), a city that provides  a disability or retirement system for
+firefighters and police officers by ordinance or charter that is not subject to this chapter, when ac-
+cepting and processing claims for death, disability or impairment of health from firefighters  and
+police officers covered by the disability or retirement system, shall apply:
+(A) The provisions of this subsection; and
+(B) For claims filed under this subsection, the time  limitations for filing claims that are set forth
+in ORS 656.807 (1) and (2).
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 656.802
+- From bill text (Introduced version): ORS 174.117, ORS 656.005, ORS 656.027, ORS 656.802, ORS 656.807, ORS 675.010
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `f11c12d9873e116cb944a9fca58eb916e16c1f86933c68637dc5107ebb971d35` (snapshot `_meta/snapshots/measure-2025r1-sb606-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB606/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 606> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

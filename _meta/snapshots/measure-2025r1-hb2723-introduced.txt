@@ -1,0 +1,54 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2723
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells ODHS to require certain health care facilities to  have backup power
+sources. (Flesch Readability Score: 67.5).
+Requires the Department of Human Services to  adopt rules requiring licensed long term care
+facilities, outpatient renal dialysis facilities and residential facilities  to acquire and maintain backup
+power sources to be used during power outages.
+A BILL FOR AN ACT
+Relating to backup power sources.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+The Department of Human  Services, in collaboration with the Oregon Health
+Authority, shall adopt by rule requirements for  a long term care facility and an outpatient
+renal dialysis facility, licensed under ORS 441.020, to acquire and maintain a backup power
+source that  the facility may use on a temporary basis during a power outage for the purpose
+of operating dialysis units and other  equipment and appliances, including refrigeration and
+portable heating and cooling devices necessary to preserve medications and supplies, that are
+critical to the care or immediate safety of  residents and patients. The backup power source
+need not be installed or integrated into a facility’s infrastructure.
+SECTION 2. The Department of Human Services shall adopt by  rule requirements for a
+residential facility, licensed under ORS 443.415, to acquire and maintain a backup  power
+source that  the facility may use on a temporary basis during a power outage for the purpose
+of operating equipment and appliances,  including refrigeration and portable heating and
+cooling devices necessary to preserve medications and  supplies, that are critical to the care
+or immediate safety  of residents. The backup power source need not be installed or inte-
+grated into a facility’s infrastructure.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2692

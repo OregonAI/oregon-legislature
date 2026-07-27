@@ -1,0 +1,189 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4032
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Rules for Representative Anna Scharf)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act takes away the  demand for certain judge candidates’ names to be marked as
+“incumbent” on a ballot. (Flesch Readability Score: 62.8).
+Removes the requirement that the word “incumbent” appear on a ballot  along with the name
+of incumbent candidates for specified judgeships.
+A BILL FOR AN ACT
+Relating to ballot contents; amending ORS 254.085, 254.125 and 254.135.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 254.085 is amended to read:
+254.085. (1) The Secretary of State, not later than the 61st  day before the date of a primary or
+general election, shall file with each county clerk a statement of the federal and state offices to be
+filled or  for which candidates are to be nominated in the county at the election, information con-
+cerning all candidates for the offices, and the state measures to be voted on.
+[(2) The information concerning candidates for  the Supreme Court, Court of Appeals, Oregon Tax
+Court and circuit court shall include a designation of incumbent  for each candidate who is the regu-
+larly elected or appointed judge of the court  to which the candidate seeks election. If a candidate was
+regularly elected or appointed to a specific position or department on the court, the  candidate shall be
+designated as the incumbent only if the person is a candidate for that position or department. ]
+[(3)] (2)  Included with each state measure shall be the measure number, the latest ballot  title
+certified by the Attorney General under ORS 250.067 (2) or, if the Supreme Court has  reviewed the
+title under ORS 250.085, the title certified by the court and the financial estimates under ORS
+250.125. The Secretary of State shall keep a copy of the statement.
+SECTION 2.
+ ORS 254.125 is amended to read:
+254.125. (1) The names of candidates for a  nonpartisan office at a nominating election held on
+the date of the primary election shall be  listed without political party designation on a nominating
+ballot under the title, and department or position number if any, of the office.
+(2) At the primary election or general election[ :]
+[(a) The ], the  names of candidates who are opposed for nomination or election to the Supreme
+Court, Court of Appeals,  Oregon Tax Court and circuit court shall be printed on the ballot before
+the names of candidates for those offices who are unopposed[ ; and ]
+[(b) The word “incumbent” shall follow  the name of each candidate for the Supreme Court, Court
+of Appeals, Oregon Tax Court or circuit court who is  designated the incumbent by the Secretary of
+State under ORS 254.085 ].
+SECTION 3.  ORS 254.135 is amended to read:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 301
+HB 4032
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+254.135. (1) The official general or special election ballot shall be styled  “Official Ballot” and
+shall state:
+(a) The name of the county for which it is intended.
+(b) The date of the election.
+(c) The names of all candidates  for offices to be filled at the election whose nominations have
+been made and accepted and who have not died,  withdrawn or become disqualified. The ballot may
+not contain the name of any other person.
+(d) The number, ballot  title and financial estimates under ORS 250.125 of any measure to be
+voted on at the election.
+(2) The names of candidates for President and  Vice President of the United States shall be
+printed in  groups together, with their political party designations. The names of the electors may
+not be printed on the general election ballot. A vote for  the candidates for President and Vice
+President is a vote for the group of  presidential electors supporting those candidates and selected
+as provided by law. The general election ballot shall state that electors  of President and Vice
+President are being elected and that a  vote for the candidates for President and Vice President shall
+be a vote for the electors supporting those candidates.
+(3)(a) The name of each candidate nominated shall be printed on the ballot  in but one place,
+without regard to how many times the candidate may have been nominated, except  in circumstances
+where a candidate may hold  more than one office or nomination without violating ORS 249.013. The
+name of a political party, or names of  political parties, shall be printed with the name of a candidate
+for other than nonpartisan office according to the following rules:
+(A) For a candidate not  affiliated with a political party who is nominated by a minor political
+party, the name of the minor political party shall be printed with the name of the candidate;
+(B) For a candidate not affiliated with a political party who  is nominated by more than one
+minor political party,  the names of not more than three minor political parties selected by the can-
+didate shall be printed with the name of the candidate;
+(C) For a candidate who is a member of a political party who is nominated by  a political party
+of which the  candidate is not a member, the name of the political party that nominated the candi-
+date shall be printed with the name of the candidate;
+(D) For a candidate who is a member of a political  party who is nominated by more than one
+political party of which the candidate is not a member, the names of not  more than three political
+parties selected by the candidate shall be printed with the name of the candidate;
+(E) For  a candidate who is nominated only by a political party of which the candidate is a
+member, the name of the political party of  which the candidate is a member shall be printed with
+the name of the candidate; and
+(F) For a candidate who is nominated by a political party of which the candidate is a  member
+and by any political  party or parties of which the candidate is not a member, the name of the poli-
+tical party of which the candidate is a member and the names of not more than  two other political
+parties selected by the candidate shall be printed with the name of the candidate.
+(b) If a candidate is required to  select the name of a political party to be printed on the ballot
+under paragraph (a) of this subsection, the candidate shall notify  the filing officer of the selection
+not later than the 61st day before the day of the election.
+[(c) The word “incumbent” shall  be printed with the name of each candidate for the Supreme Court,
+Court of Appeals, Oregon  Tax Court or circuit court who is designated the incumbent by the Secretary
+of State under ORS 254.085. ]
+[2]
+HB 4032
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+[(d)] (c) The word “nonaffiliated” shall be printed with the name of each candidate who is not
+affiliated with a political party and who is nominated by an assembly of  electors or individual
+electors.
+[(e)] (d) If two or more candidates for the same  office have the same or similar surnames, the
+location of their places of residence  shall be printed with their names to distinguish one from an-
+other.
+(4) Notwithstanding subsection (3)(a)  of this section, the name of a candidate nominated for more
+than one district office that is to be filled at the same election  shall be separately printed upon the
+ballot for each district office for which the candidate is nominated.
+[3]

@@ -1,0 +1,315 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 890
+Sponsored by Senator THATCHER (at the request of Oregon Sunshine Committee)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes changes to the OSC reports including dates and the committee  which reviews the
+reports. (Flesch Readability Score: 61.8)
+Disestablishes the subcommittee on public records and changes the  committee that reviews the
+Oregon Sunshine Committee reports to the committees or interim committees of the Legislative As-
+sembly related to the judiciary. Modifies dates the reports from the Oregon Sunshine Committee  are
+due.
+A BILL FOR AN ACT
+Relating to the Oregon Sunshine Committee; amending ORS 192.492, 192.499, 192.508,  192.511 and
+192.513.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 192.492 is amended to read:
+192.492. The Legislative Counsel shall  notify the [ Legislative Counsel Committee ] committees
+or interim committees of the Legislative Assembly related to the judiciary , or  [ its] their
+designee, and the Oregon Sunshine Committee if a measure that changes  an exemption from disclo-
+sure for public records or existing standards of disclosure for public records is introduced.
+SECTION 2.  ORS 192.499 is amended to read:
+192.499. [(1) The Legislative Counsel Committee shall establish a public records subcommittee. ]
+[(2) The President of the Senate and the Speaker  of the House of Representatives shall appoint to
+the subcommittee four members of the Legislative Assembly from among the  members of the committee
+as follows: ]
+[(a) The President of the Senate shall appoint: ]
+[(A) One member who is a member of the Senate and a member of the majority party; and ]
+[(B) One member who is a member of the Senate and a member of the minority party. ]
+[(b) The Speaker of the House of Representatives shall appoint: ]
+[(A) One member who is a  member of the House of Representatives and a member of the majority
+party; and ]
+[(B) One member who is a member of the House of Representatives and  a member of the minority
+party.]
+[(c) The President of the Senate  and the Speaker of the House of Representatives shall each appoint
+a cochair from the members described in paragraphs (a) and (b) of this subsection. ]
+[(3)] (1)  The [ subcommittee] committees or interim committees of the Legislative Assembly
+related to  the judiciary shall review and may accept, modify or reject the plan or schedule for
+review  of  exemptions from disclosure for public records established by the Oregon Sunshine Com-
+mittee under ORS 192.511.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1281
+SB 890
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(4)] (2) The [ subcommittee] committees or interim committees of the Legislative  Assembly
+related to the  judiciary shall review the Oregon Sunshine Committee reports required by ORS
+192.511 and may accept, modify or reject the  Oregon Sunshine Committee reports as the reports of
+the [ subcommittee] committees . On  or before September 1 of each even-numbered year, the [ sub-
+committee] committees  shall [ submit the subcommittee ] finalize their  report, with the original
+Oregon Sunshine Committee report as an appendix[ , to the Legislative Counsel Committee ].
+[(5)] (3) The [ subcommittee] committees or interim committees of the Legislative Assembly
+related to the judiciary  shall cooperate with and invite advice and comment from:
+(a) The Attorney General;
+(b) The Governor;
+(c) The Secretary of State;
+(d) The State Treasurer;
+(e) Any committee or task force appointed  by the Attorney General, the Governor or the Sec-
+retary of State to examine any aspect of ORS 192.311 to 192.478 or of  the disclosure of public re-
+cords;  and
+(f) The Oregon Sunshine Committee.
+[(6)] (4) Interested  members of the public may provide comment to the [ subcommittee] commit-
+tees or interim committees of the Legislative Assembly related to the judiciary .
+SECTION 3.
+ ORS 192.508 is amended to read:
+192.508. [(1)] The [ Legislative Counsel Committee and  the public records subcommittee established
+under ORS 192.499 ] committees or interim committees of the Legislative Assembly related to
+the judiciary may adopt rules applicable to deliberations of the [ committee and subcommittee ] com-
+mittees under ORS 192.485 to 192.513. The rules may enhance the opportunity  for public partic-
+ipation in the deliberations of the  [ committee and subcommittee ] committees , including through the
+live-streaming of meetings.
+[(2) All deliberations of the Legislative Counsel Committee  and the public records subcommittee
+shall be conducted in accordance with the open meeting requirements of Article IV, section 14, of  the
+Oregon Constitution, and rules adopted thereunder. ]
+SECTION 4.  ORS 192.511 is amended to read:
+192.511. (1) The Oregon Sunshine  Committee is established, consisting of 15 members as follows:
+(a) [ The] Four members of the [ public records subcommittee established under ORS 192.499 ]
+committees or interim committees of the Legislative Assembly  related to the judiciary shall
+be ex officio nonvoting members of the committee.  The chairs of the committees shall appoint:
+(A) Two members from the  House of Representatives, one from the majority party and
+one from the minority party; and
+(B) Two members from the Senate,  one from the majority party and one from the mi-
+nority party.
+(b) The Governor and the Attorney General, or their designees, shall  be voting members of the
+committee.
+(c) The State Archivist, or a designee of the State Archivist, shall be a voting  member of the
+committee.
+(d) The Attorney General shall appoint to the committee as voting members:
+(A) A person with information technology expertise;
+(B) Three representatives of local government  to represent the interests of counties, cities,
+school districts and special districts;
+[2]
+SB 890
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(C) A representative of broadcasters;
+(D) A representative of professional journalists;
+(E) A representative of newspaper publishers; and
+(F) A representative from a nonprofit open government or public interest group.
+(2)(a) The term of each voting  committee member appointed by the Attorney General is four
+years, but a member so appointed serves at the pleasure of the Attorney General.
+(b) Before the expiration of a term of a member appointed by the Attorney General, the Attorney
+General shall reappoint the member to a new term or appoint a successor.
+(c) If there is a vacancy for any cause in a position that is appointed by the  Attorney General,
+the Attorney General shall make an appointment to become immediately effective.
+(3) The Oregon Sunshine Committee shall do all of the following:
+(a) Establish, and adjust as necessary, a plan  or schedule to review all exemptions from disclo-
+sure for public records included in the Attorney General’s catalog  required by ORS 192.340 that
+provides for review not later than December 31, [ 2026] 2031, except that the following exemptions
+need not be considered:
+(A) Exemptions required by federal law;
+(B) Evidentiary privileges described in ORS 40.225 to 40.295, other  than the lawyer-client privi-
+lege described in ORS 40.225;
+(C) The exemption for trade secrets as described  in the public records law, ORS 192.311 to
+192.478, or the Uniform Trade Secrets Act, ORS 646.461 to 646.475;
+(D) Security records described in ORS 192.345 (23) or 192.355 (11), (32) or (33);
+(E) Personal information of certain scientific workers described in ORS  192.345 (30), care
+workers described in ORS  192.363 and 192.365 or public safety workers or county juvenile depart-
+ment employees described in ORS 192.345 (31); and
+(F) Public safety plans described in ORS 192.345 (18).
+(b) Include in the  review required by this subsection any administrative rule for which a review
+was requested under ORS 183.730.
+(c) Study and identify any inefficiencies and inconsistencies in the application of public records
+laws that impede transparency in public process and government.
+(d) Make recommendations  on changes in existing law, policy and practice to enhance trans-
+parency and facilitate rapid fulfillment of public records requests made to public bodies.
+(e) On or before [ July] May 1 of each even-numbered year,  submit a report to the [ public records
+subcommittee established under  ORS 192.499 ] committees or interim committees of the Legisla-
+tive Assembly related to  the judiciary  and include in the report the recommendations described
+in paragraph (d) of this subsection and recommendations to amend or repeal  the exemptions from
+disclosure reviewed by the committee during the period since  the last report submitted by the
+committee under this section.
+(4) The Oregon Sunshine Committee  may take all lawful actions and exercise any lawful powers
+the committee deems reasonable for facilitating its work, including but not limited to conducting
+public hearings and creating subcommittees. Any subcommittees created by  the committee are sub-
+ject to the public meetings and public records requirements that apply to the committee.
+(5) A majority of the voting members of the Oregon Sunshine Committee constitutes  a quorum
+for the transaction of business.
+(6) Official action by the committee requires the approval of a majority of the voting members
+of the committee.
+[3]
+SB 890
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+(7) The committee shall select one of its members to serve as chairperson.
+(8) The committee shall meet at  times and places specified by the call of the chairperson or of
+a majority of the voting members of the committee and shall meet at least three times per year.
+(9) All meetings of the committee must be open to the public. Any public  records created by
+the committee are subject to disclosure, and any privilege or exemption from  disclosure that would
+otherwise be applicable may not be claimed.
+(10) The committee may adopt rules necessary for the operation of the committee.
+(11) The Department of Justice shall provide administrative support to the committee.
+(12) Members of the committee who are not members of the Legislative  Assembly are not enti-
+tled to  compensation, but may be reimbursed for actual and necessary travel and other expenses
+incurred  by  them in the performance of their official duties in the manner and amounts provided for
+in ORS 292.495.  Claims for expenses incurred in performing functions of the committee shall be paid
+out of funds appropriated to the Department of Justice for purposes of the committee.
+(13) All agencies of state government, as defined in ORS  174.111, are directed to assist the
+committee in the performance  of the committee’s duties and, to the extent permitted by laws relating
+to confidentiality, to furnish information and advice the members of the committee  consider neces-
+sary to perform their duties.
+SECTION 5.
+ ORS 192.513 is amended to read:
+192.513. (1) Pursuant to a plan or schedule for review accepted  by the [ public records subcom-
+mittee of the Legislative Counsel Committee under  ORS 192.499] committees or interim committees
+of the Legislative Assembly related to  the judiciary, the Oregon Sunshine Committee may review
+exemptions from disclosure of public records previously enacted into law for which an open gov-
+ernment impact statement was not prepared.
+(2) On or before [ July] May 1 of each even-numbered year, the Oregon Sunshine Committee shall
+deliver to the [ public records subcommittee ] committees or interim  committees of the Legislative
+Assembly related to the judiciary  the results of any review performed pursuant to this section.
+[4]

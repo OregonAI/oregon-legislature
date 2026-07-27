@@ -1,0 +1,371 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 18
+Sponsored by Senator THATCHER (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Boosts the punishment for certain people who commit voting law  wrongs. (Flesch Read-
+ability Score: 64.9).
+Increases the criminal and civil penalties for subsequent and intentional violations  of specified
+election laws. Enhances the penalties if the person committing the violation is a public  official act-
+ing in an official capacity.
+A BILL FOR AN ACT
+Relating to penalties for election offenses; creating new  provisions; and amending ORS 260.993 and
+260.995.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 260.993 is amended to read:
+260.993. (1) The penalty for violation of ORS 260.532 is limited to  that provided in ORS 260.532
+(6) and (8).
+(2) Violation of ORS 247.125 (1), 247.171 (5), 247.420 (2), 253.710, 260.402, 260.555, 260.558, 260.575,
+260.645 or 260.665 (2) or  (3) involving any action described in ORS 260.665 (2)(d) to (f) or 260.715 is
+a Class C felony.
+(3) Except as provided in subsection (5) of this section, a  violation of  ORS 260.695 (5) is a
+Class A misdemeanor.
+(4) Except as provided in subsection  (5) of this section, a  violation of ORS 247.171 (6) is a
+Class C misdemeanor.
+(5) If a person has previously been found  guilty of violating ORS 247.171 (6), 260.567,
+260.569, 260.635, 260.675, 260.685, 260.695 (5) or 260.705,  a subsequent and intentional violation
+of ORS 247.171 (6), 260.567, 260.569, 260.635, 260.675, 260.685, 260.695 (5) or 260.705 is:
+(a) Except as provided in paragraph (b) of this subsection, a Class C felony.
+(b) A Class B felony, if the subsequent and intentional  violation is committed by a public
+official while acting in an official capacity.
+SECTION 2.
+ ORS 260.995 is amended to read:
+260.995. (1) Except as provided in subsection (2) of this section, following an investigation under
+ORS 260.345, the Secretary  of State or Attorney General may impose a civil penalty not to exceed
+$1,000 for each violation of any  provision of Oregon Revised Statutes relating to the conduct of any
+election, any rule adopted by the secretary under ORS chapters 246  to 260 or any other matter
+preliminary to or relating to an election, for which a civil penalty is not otherwise provided.
+(2) The secretary or the Attorney General may impose a civil penalty not to exceed:
+(a)(A) Except as provided in  subparagraph (B) of this paragraph, $1,000 plus the amount con-
+verted to personal use for each violation of ORS 260.407;  or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 865
+SB 18
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) Two times the amount of the penalty provision for  violating a nondisclosure agreement that
+is contained within each nondisclosure agreement entered into in violation of ORS  260.407 or
+260.413[;].
+(b) 150 percent of the total cost  of printing, transmitting or distributing a communication in
+support of or in opposition  to a clearly identified candidate if the disclosure requirements set forth
+in ORS 260.266 are not met[ ; or ].
+(c) Except as  provided in paragraphs (e) to (g) of this subsection,  $10,000 for each violation
+of ORS 260.555, 260.558, 260.575, 260.685, 260.695 (1) or (2) or 260.715 (1) or Article IV, section 1b,
+of the Oregon Constitution.
+(d) $25,000 for a second or subsequent intentional violation of ORS 260.569.
+(e) $50,000 for a  second or subsequent intentional violation of ORS 260.555, 260.558,
+260.567, 260.575, 260.635 or 260.695 (5).
+(f) $125,000 for a second or subsequent  intentional violation of ORS 247.125 (1), 247.171 (5)
+or (6),  247.420 (2), 253.710, 260.645 or 260.665 (2) or (3) involving any action described in ORS
+260.665 (2)(d) to (f), 260.675, 260.705 or 260.715.
+(g) Twice the amount of the allowed  civil penalty for a second or subsequent intentional
+violation of a statutory provision  listed in this subsection if the violation is committed by a
+public official while acting in an official capacity.
+(3) Except as otherwise provided by this section, civil penalties under this section shall be im-
+posed as provided in ORS 183.745.  In addition to the requirements of ORS 183.745, the notice shall
+include:
+(a) A statement of the authority and jurisdiction under which the hearing is to be held; and
+(b) If the person is an agency, corporation or an unincorporated association,  a statement that
+such person must be represented by an attorney licensed in Oregon, unless  the person is a political
+committee which may be represented by any officer identified in the most recent statement of  or-
+ganization filed with the filing officer.
+(4) A hearing  on whether to impose a civil penalty and to consider circumstances in mitigation
+shall be held by the secretary or Attorney General:
+(a) Upon request of the person against whom  the penalty may be assessed, if the request is made
+not later than the 20th day after the service date on  the notice sent under subsection (3) of this
+section; or
+(b) Upon the secretary’s or Attorney General’s own motion.
+(5) The person against whom a penalty may be assessed need  not appear in person at a hearing
+held under this section, but instead  may submit written testimony or other evidence, sworn to before
+a notary public, to the secretary or Attorney General for  entry in the hearing record. The testimony
+or other evidence must  be received by the secretary or Attorney General not later than three
+business days before the day of the hearing and may be submitted electronically.
+(6) All hearings under this section shall be held not later than 45 days after  the deadline for the
+person against whom the penalty may be assessed to request a hearing. However, if requested  by
+the person against whom the penalty may be assessed, a hearing under subsection (4) of this section
+shall be held not  later than 60 days after the deadline for the person against whom the penalty may
+be assessed to request a hearing.
+(7) The secretary  or Attorney General shall issue an order not later than 90 days after a hearing
+or after the deadline for requesting a hearing if no hearing is held.
+(8) All penalties recovered under this  section shall be paid into the State Treasury and credited
+[2]
+SB 18
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+to the General Fund.
+(9) In the case of a civil  penalty imposed under this section for a violation of ORS 260.407, the
+person against whom the penalty is assessed:
+(a) Is personally responsible for the payment of the civil penalty;
+(b) Shall pay the civil penalty from personal funds of the person; and
+(c) May not pay the civil  penalty from contributions received by a candidate, a candidate’s
+principal campaign committee, a political committee or a petition committee.
+SECTION 3.
+ ORS 260.995, as amended by section 20, chapter 9, Oregon Laws 2024, is  amended
+to read:
+260.995. (1) Except as provided in subsections (2) to  (4) of this section, following an investigation
+under ORS 260.345, the Secretary of State or Attorney General may impose a  civil penalty not to
+exceed $1,000 for each violation of any provision of Oregon Revised Statutes relating to  the conduct
+of any election, any rule adopted by  the secretary under ORS chapters 246 to 260 or any other
+matter preliminary to or relating  to an election, for which a civil penalty is not otherwise provided.
+(2) The secretary or the Attorney General may impose a civil penalty not to exceed:
+(a)(A) Except as provided in subparagraph (B) of this paragraph, $1,000  plus the amount con-
+verted to personal use for each violation of ORS 260.407; or
+(B) Two times the amount of the penalty provision for  violating a nondisclosure agreement that
+is contained within  each nondisclosure agreement entered into in violation of ORS 260.407 or
+260.413[;].
+(b) 150 percent of the total cost of printing,  transmitting or distributing a communication in
+support of or in opposition to a clearly identified candidate if the  disclosure requirements set forth
+in ORS 260.266 are not met[ ; or ].
+(c) Except as  provided in paragraphs (e) to (g) of this subsection,  $10,000 for each violation
+of ORS 260.555, 260.558, 260.575, 260.685, 260.695 (1) or (2) or 260.715 (1) or Article IV, section 1b,
+of the Oregon Constitution.
+(d) $25,000 for a second or subsequent intentional violation of ORS 260.569.
+(e) $50,000 for a second or subsequent intentional violation of  ORS 260.555, 260.558,
+260.567, 260.575, 260.635 or 260.695 (5).
+(f) $125,000 for a second or subsequent  intentional violation of ORS 247.125 (1), 247.171 (5)
+or (6), 247.420 (2), 253.710, 260.645 or 260.665 (2) or (3) involving any action described in  ORS
+260.665 (2)(d) to (f), 260.675, 260.705 or 260.715.
+(g) Twice the amount of the allowed civil penalty  for a second or subsequent intentional
+violation of a statutory provision listed in this subsection if the violation  is committed by a
+public official while acting in an official capacity.
+(3)(a) Except as provided in paragraphs (b) and (c)  of this subsection, the Secretary of State or
+the Attorney General  may impose a civil penalty on the recipient of a contribution that exceeds the
+limits of section 4 or 5, chapter 9,  Oregon Laws 2024. The amount of the civil penalty to be imposed
+shall be at least equal to the amount of the unlawful contribution.
+(b) The recipient of a contribution that violates the contribution limits of  section 4 or 5, chapter
+9, Oregon Laws 2024, may remedy the violation by refunding to the  contributor an amount that
+renders the contribution in compliance with applicable  contribution limits under section 4 or 5,
+chapter 9, Oregon Laws 2024. For this paragraph to apply, the refund must be made to the contrib-
+utor within 14 days of receipt of the unlawful contribution.
+(c) If paragraph (b) of this subsection does not apply, the recipient of a contribution that violates
+[3]
+SB 18
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the contribution limits of section 4 or 5, chapter 9, Oregon Laws 2024, may reduce the penalty oth-
+erwise applicable under this subsection by 50 percent, if the recipient  refunds to the contributor an
+amount that renders the contribution in compliance with section 4 or 5,  chapter 9, Oregon Laws
+2024, within 14 days  of the date the recipient reasonably should have known that the violation oc-
+curred.
+(d) The Secretary of State shall adopt rules under this subsection establishing enhanced  penal-
+ties for successive knowing and willful violations of the contribution  limit provisions of section 4
+or 5, chapter 9, Oregon Laws 2024.
+(4)(a) The Secretary of State or the Attorney General may impose a  civil penalty on a person
+subject to the reporting requirements of section 13, chapter  9, Oregon Laws 2024, and that is vio-
+lating those requirements. The penalty to be imposed shall be not less than one-tenth of,  nor more
+than four times, the total amount of contribution or expenditure that was not properly  disclosed or
+disclaimed.
+(b) The Secretary of State shall adopt rules under this subsection establishing enhanced  penal-
+ties for successive knowing and willful violations of the disclosure provisions of section 13,  chapter
+9, Oregon Laws 2024.
+(5) Except as otherwise provided by this section, civil penalties under this section shall be im-
+posed as provided in ORS 183.745. In addition to the requirements of  ORS 183.745, the notice shall
+include:
+(a) A statement of the authority and jurisdiction under which the hearing is to be held; and
+(b) If the person is an agency, corporation or an unincorporated association,  a statement that
+such person must be represented by an attorney licensed in Oregon, unless  the person is a political
+committee which may be represented by any officer identified in the most recent statement of  or-
+ganization filed with the filing officer.
+(6) A hearing  on whether to impose a civil penalty and to consider circumstances in mitigation
+shall be held by the secretary or Attorney General:
+(a) Upon request of the person against whom  the penalty may be assessed, if the request is made
+not later than the 20th day after the service date on  the notice sent under subsection (5) of this
+section; or
+(b) Upon the secretary’s or Attorney General’s own motion.
+(7) The person against whom a penalty may be assessed need  not appear in person at a hearing
+held under this section, but instead  may submit written testimony or other evidence, sworn to before
+a notary public, to the secretary or Attorney General for  entry in the hearing record. The testimony
+or other evidence must  be received by the secretary or Attorney General not later than three
+business days before the day of the hearing and may be submitted electronically.
+(8) All hearings under this section shall be held not later than 45 days after  the deadline for the
+person against whom the penalty may be assessed to request a hearing. However, if requested  by
+the person against whom the penalty may be assessed, a hearing under subsection (6) of this section
+shall be held not  later than 60 days after the deadline for the person against whom the penalty may
+be assessed to request a hearing.
+(9) The secretary  or Attorney General shall issue an order not later than 90 days after a hearing
+or after the deadline for requesting a hearing if no hearing is held.
+(10) All penalties recovered under  this section shall be paid into the State Treasury and credited
+to the General Fund.
+(11) In the case of a civil penalty imposed  under this section for a violation of ORS 260.407, the
+[4]
+SB 18
+1
+2
+3
+4
+5
+6
+7
+8
+person against whom the penalty is assessed:
+(a) Is personally responsible for the payment of the civil penalty;
+(b) Shall pay the civil penalty from personal funds of the person; and
+(c) May not pay the civil penalty from contributions received  by a candidate, a candidate’s
+principal campaign committee, a political committee or a petition committee.
+SECTION 4.
+The amendments to ORS 260.993 and 260.995  by sections 1 to 3 of this 2025
+Act apply to election  law violations that occur on or after the effective date of this 2025 Act.
+[5]

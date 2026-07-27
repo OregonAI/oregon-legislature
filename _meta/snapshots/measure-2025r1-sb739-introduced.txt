@@ -1,0 +1,610 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 739
+Sponsored by Senators GELSER BLOUIN, PATTERSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes oversight  laws for certain types of long term care facilities. (Flesch
+Readability Score: 63.4).
+Modifies the requirements for investigations of a  residential care facility following a complaint
+of a licensing violation. Prohibits  exceptions to statutory licensing requirements for residential care
+facilities. Requires an administrator of a new  residential care facility to retain a consultant with
+experience in providing residential care.  Requires the Department of Human Services to conduct
+regular inspections of new residential care facilities.  Requires residential care facilities to notify the
+department of an administrator absence or change. Prohibits a person from  serving as an interim
+residential  care  facility administrator without a license. Prohibits issuing a memory care endorse-
+ment unless an applicant has at  least two years’ experience operating a licensed residential care
+facility or long term care facility.
+A BILL FOR AN ACT
+Relating to long term care oversight; creating new provisions; and amending ORS 441.736, 443.416,
+443.441, 443.886 and 678.720.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 443.441 is amended to read:
+443.441. (1) As used in this section:
+(a) “Consistently” means regularly and typically.
+(b) “Direct care staff” means staff who provide services for  residents that include assistance
+with daily living, medication administration, resident-focused activities, supervision and support.
+(c) “Facility” includes a:
+(A) Residential care facility as defined in ORS 443.400; and
+(B) Facility with a memory care endorsement under ORS 443.886.
+(2) In  determining whether a facility has qualified awake direct care staff in sufficient numbers
+to meet the scheduled and unscheduled  needs of each resident 24 hours a day as prescribed by rule,
+the Department of Human Services shall conduct an assessment, in accordance with rules for  home
+and community-based settings adopted by the Centers for Medicare  and Medicaid Services, and
+consider whether the facility consistently:
+(a) Implements and maintains a  current person-centered service plan for each resident as re-
+quired by rule by the Centers for Medicare and Medicaid Services;
+(b) Provides timely access, 24 hours a  day, to all supports needed for activities of daily living
+including eating, hydration, toileting, hygiene,  bathing, dressing, oral care and other supports in-
+cluded in the resident’s person-centered service plan;
+(c) Provides a timely response to issues impacting the dignity of the resident, including but  not
+limited to wet or soiled briefs, clothing or linens; and
+(d) Delivers care according  to the schedule and procedures outlined in the resident’s person-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3444
+SB 739
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+centered service plan, including but not limited to  wound care, medication administration, pain
+control, behavior support, cueing and repositioning.
+(3) For a complaint of a licensing violation that alleges harm or the potential of severe
+harm to a resident,  a complaint of a licensing violation, other than abuse, that alleges [ harm or ]
+potential  harm to a resident or [ for] a complaint that a facility does not have qualified awake direct
+care staff in sufficient numbers to  meet the scheduled and unscheduled needs of each resident 24
+hours a day:
+(a) The department shall  begin an on-site complaint  investigation without undue delay , as
+follows:
+(A) Within 24 hours  or before the end of the next business day for a complaint that al-
+leges a licensing violation resulting in death or serious physical injury; and
+(B) Within seven days for all other complaints ; and
+(b) The investigator shall:
+(A) Assess whether the facility has qualified awake direct care staff in sufficient numbers to
+consistently meet the scheduled and unscheduled needs of each resident  24 hours a day pursuant to
+the criteria prescribed by rule under subsection (2) of this section; [ and]
+(B) Interview relevant witnesses, including  residents, staff, family members and staff or
+volunteers from the Long Term Care Ombudsman; and
+[(B)] (C) Write an investigation report that includes:
+(i) The investigator’s personal observations;
+(ii) A review of documents and records;
+(iii) A summary of all witness statements; [ and]
+(iv) A statement of the factual basis for the  findings for each incident or problem alleged in the
+complaint, including the investigator’s assessment of staffing levels  and whether the facility has
+qualified awake direct  care staff in sufficient numbers to consistently meet the scheduled and un-
+scheduled needs of each resident 24 hours a day ;
+(v) Information about any additional licensing violations, contract violations or
+allegations of abuse observed or reported during the course of the investigation; and
+(vi) A summary of  any compliance deficiencies of the facility or substantiated allegations
+of abuse against the facility in the 12 months preceding the investigation .
+(4) A  complaint investigation under subsection (3) of this section is separate from, and
+not a replacement for, an adult protective services investigation.  The department may initi-
+ate a complaint investigation before or at the same time as an adult protective  services in-
+vestigation.
+SECTION 2.
+ ORS 441.736 is amended to read:
+441.736. (1) As used in this section:
+(a) “Immediate jeopardy” means a situation in which the failure of a residential  care facility or
+a long term care facility to comply with a rule of the Department of Human Services  has caused
+or is likely to cause serious injury, serious harm, serious impairment or death to a resident.
+(b) “License condition” includes but is not limited to:
+(A) Restricting the total number of residents;
+(B) Restricting the number and  impairment level of residents based upon the capacity of the
+licensee and staff to meet the health and safety needs of all residents;
+(C) Requiring additional staff or staff qualifications;
+(D) Requiring additional training for staff;
+[2]
+SB 739
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(E) Requiring additional documentation; or
+(F) Restriction of admissions.
+(c) “Substantial compliance” means a level of compliance with state law  and with rules of the
+department such that any identified deficiencies pose a risk of no more than negligible harm to the
+health or safety of residents of a residential care facility or a long term care facility.
+(2)(a) The department may impose a  condition on the license of a residential care facility or long
+term care facility in response to a substantiated finding of rule  violation, including but not limited
+to a substantiated finding of abuse[ , and].
+(b) The department  shall immediately impose a  condition on the license in response to a
+finding of immediate jeopardy, whether or not the finding of immediate jeopardy is substantiated  at
+the time the license condition is imposed.
+[(b)] (c) The department shall impose a license condition in a scope and manner that is specif-
+ically designed to remediate the finding that led to the license condition.
+[(c)] (d) If the  department imposes a license condition in response to a finding of immediate
+jeopardy to residents of  the facility, and the finding of immediate jeopardy to residents of the facility
+is not  substantiated within 30 days after the imposition of the license condition, the department shall
+immediately remove the license condition.
+[(d)(A)] (e)(A) Except as provided in subparagraph  (B) of this paragraph, the department shall
+provide a facility with  a notice of impending imposition of license condition at least 48 hours before
+issuing an order imposing a license condition. The notice must:
+(i) Describe the acts or omissions of the facility and the  circumstances that led to the substan-
+tiated finding of rule violation or finding  of immediate jeopardy supporting the imposition of the li-
+cense condition;
+(ii) Describe why the acts  or omissions and the circumstances create a situation for which the
+imposition of a license condition is warranted;
+(iii) Provide a brief statement identifying the nature of the license condition;
+(iv) Provide a brief statement describing how the license condition is designed to  remediate the
+circumstances that led to the license condition; and
+(v) Provide a brief statement of the requirements for withdrawal of the license condition.
+(B) If the threat to residents of a facility is so imminent that the department determines  it is
+not safe or practical to give the facility advance notice, the department must provide  the notice
+required under this paragraph within 48 hours of issuing an order imposing the license condition.
+(e) An order imposing a license condition must include:
+(A) A specific description of how the scope and manner of the license condition is designed to
+remediate the findings that led to the license condition; and
+(B) A specific description of the requirements for withdrawal of the license condition.
+(3) The department may impose a license condition that includes  a restriction on admissions to
+the facility only if the department makes a finding of  immediate jeopardy that is likely to present
+an immediate jeopardy to future residents upon admission.
+(4)(a) Following the imposition of a license condition on a facility, the department shall:
+(A) Within 15  business days of receipt of the facility’s written assertion of substantial compli-
+ance with the requirements  set forth by the department for withdrawal of the license condition, re-
+inspect or reevaluate the facility to  determine whether the facility has achieved substantial
+compliance with the requirements;
+(B) Notify the facility by telephone  or electronic means of the findings of the reinspection or
+[3]
+SB 739
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+reevaluation within five business days after completion of the reinspection or reevaluation; and
+(C) Issue a written report to the  facility within 30 days after the reinspection or reevaluation
+notifying the facility of  the department’s determinations regarding substantial compliance with the
+requirements necessary for withdrawal of the license condition.
+(b) If the department  finds that the facility has achieved substantial compliance regarding the
+violation for which the license condition  was imposed, and finds that systems are in place to ensure
+similar deficiencies do not reoccur, the department shall withdraw the license condition.
+(c) If after reinspection or reevaluation  the department determines that the violation for which
+the license condition was imposed continues to exist, the department may not  withdraw the license
+condition, and the department is not obligated to reinspect or reevaluate the facility again for 45
+days after the first reinspection or  reevaluation. The department shall provide the decision not to
+withdraw the license condition to the facility in writing and inform the facility of the  right to a
+contested case hearing pursuant to  ORS chapter 183. Nothing in this paragraph limits the
+department’s authority to visit or inspect the facility at any time.
+(d) If the department does not meet the requirements  of this subsection, a license condition is
+automatically removed on the date the department failed to meet the requirements  of this sub-
+section, unless the Director of Human Services extends the applicable period  for no more than 15
+business days. The director may not delegate the power to make a  determination regarding an ex-
+tension under this paragraph.
+SECTION 3.
+Sections 4 to 6 and 8 of this 2025  Act are added to and made a part of ORS
+443.400 to 443.455.
+SECTION 4. (1) The Department of Human Services may not grant  a residential care
+facility’s request for  an exception to the requirements of ORS 443.400 to 443.455 or any other
+licensing requirements prescribed by state or federal statute.
+(2) Before granting a residential care facility’s request for  an exception to a licensing
+requirement prescribed by the department by rule, the department shall:
+(a) Provide 14 days’ notice to the Long  Term Care Ombudsman of the exception request
+and the department’s intent to approve the request;
+(b) Provide the Long Term Care Ombudsman’s response, if any, to the Director of Human
+Services or the director’s designee; and
+(c) Receive approval from the director or the director’s designee.
+(3) The department shall publish any exception  request approved under subsection (2) of
+this section on the department’s website.
+SECTION 5.
+If the Department of Human Services  determines that a residential care
+facility has  failed to comply with the requirements of ORS 443.400 to 443.455 or rules adopted
+to implement ORS 443.400 to 443.455, the department shall:
+(1) Issue a deficiency notice to the facility; and
+(2) Conduct an on-site visit to confirm  that the facility fully corrects the deficiency in a
+timely manner.
+SECTION 6.
+(1) As used in this section, “administrator”  means a residential care facility
+administrator as defined in ORS 678.710.
+(2) When the Department of Human  Services issues an initial license to a residential care
+facility under ORS 443.415, the administrator shall retain the services of a consultant with
+experience in providing residential care.
+(3) A consultant shall be retained under this section for:
+[4]
+SB 739
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) At least the first six months of the residential care facility’s operation; or
+(b) At least the first 12  months of the residential care facility’s operation if the admin-
+istrator has  less than two years’ experience in directly managing a residential care facility,
+including an assisted living facility, in this state.
+(4) Before the residential care facility may admit a  resident, the administrator shall no-
+tify the department of:
+(a) The name and contact information of the consultant retained under this  section; and
+(b) The start and end dates of the contract with the consultant.
+(5) If the services of the consultant retained under this section are terminated  by either
+the consultant or the administrator before the expected termination date,  the administrator
+shall immediately notify the department of the  termination, retain the services of a new
+consultant and notify the department of:
+(a) The name and contact information of the new consultant; and
+(b) The start and end dates of the contract with the new consultant.
+(6) A consultant retained under this section shall:
+(a) Offer on-site services, including monthly visits to the residential  care facility and
+more frequent visits if the consultant identifies any compliance or safety concerns.
+(b) Provide monthly reports to the department regarding  the operation of the residential
+care facility, including the facility’s compliance with staffing, safety or other licensing  re-
+quirements.
+SECTION 7.
+ ORS 443.416 is amended to read:
+443.416. (1)(a) The Director of Human Services or authorized representative shall  [ periodically]
+visit and inspect every residential care facility, residential training facility or  residential training
+home to determine whether it is maintained and  operated in accordance with ORS 443.400 to 443.455
+and the rules of the director, and to consult  with and advise management concerning methods of
+care, treatment, training, records, housing and equipment. Employees of the Department  of Human
+Services and the State Fire Marshal or authorized  representative on request shall be permitted ac-
+cess to the premises and records of individuals in the facility or home that are pertinent to  fire
+safety.
+(b) After an initial license  is issued under ORS 443.415 to a residential care facility, the
+department shall conduct:
+(A) Monthly in-person inspections for at least the first six months of operation; and
+(B) At least quarterly in-person inspections until the facility has operated for  at least 24
+months.
+(c) At least eight of the inspections conducted under paragraph (b)  of this subsection,
+including at least three in the first six months of operation, must be conducted  at unex-
+pected times and intervals such that the facility does not have advance  notice of the in-
+spection.
+(2) The Director of the Oregon Health Authority or authorized representative  shall periodically
+visit and inspect every residential  treatment facility or residential treatment home to determine
+whether it is maintained and operated in accordance with ORS 443.400 to 443.455 and the rules of
+the director,  and to consult with and advise management concerning methods of care, treatment,
+training, records, housing and equipment. Employees of the Oregon Health  Authority and the State
+Fire Marshal or authorized representative on request shall be permitted access  to the premises and
+records of individuals in the facility or home that are pertinent to fire safety.
+[5]
+SB 739
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 8.
+(1) As used in this section, “administrator”  means a residential care facility
+administrator as defined in ORS 678.710.
+(2) If an administrator will be absent from a residential care facility for  more than 10
+consecutive business days or for more than 20 calendar days in any 90-day period, the  resi-
+dential care facility shall immediately notify the Department of Human Services.
+(3) If a residential care facility  has a change in administrator, the residential care facility
+shall notify the department within one business  day. The notification must include informa-
+tion regarding the new administrator’s active license issued under ORS  678.710 to 678.820 and
+an affirmation that the new administrator has an approved background check.
+(4) The department shall adopt rules to impose enhanced oversight of a residential  care
+facility that has a change in administrator three or more times in any 18-month period.
+SECTION 9.  ORS 678.720 is amended to read:
+678.720. (1)(a) Unless an individual holds an active license issued under ORS  678.710 to 678.820,
+an individual may not:
+(A) Practice or offer to practice as a nursing home administrator; or
+(B) Use in connection with the name of the individual the  words or letters “nursing home ad-
+ministrator,”  “NHA”  or any other words, letters or abbreviations or insignia tending to indicate that
+the individual is a licensed nursing home administrator.
+(b) A nursing home must be conducted or operated under the  supervision of a nursing home
+administrator who holds an active license issued under ORS 678.710 to 678.820.
+(2)(a) Unless an individual holds an active license issued under ORS  678.710 to 678.820, an in-
+dividual may not:
+(A) Practice or offer to practice as a  residential care facility administrator , including on an
+interim basis; [ or]
+(B) Use  in connection with the name of the individual the words or letters “residential care fa-
+cility  administrator,”  “RCFA” or any other words, letters or abbreviations or insignia tending to
+indicate that the individual is a licensed residential care facility administrator ; or
+(C) Assume the duties of a residential care facility  administrator under any alternative
+title.
+(b) [ Subject to rules adopted under paragraph (c) of  this subsection, ] A residential care facility
+must be conducted or operated under the supervision  of a residential care facility administrator who
+holds an active license issued under ORS 678.710 to 678.820.
+[(c) The Department of Human Services shall  adopt rules to allow a residential care facility to be
+operated by an individual who is not a residential care facility administrator who  holds an active li-
+cense under ORS 678.710 to 678.820 in transitional, emergency and similar situations. ]
+SECTION 10.
+ ORS 443.886 is amended to read:
+443.886. (1) If a facility intends to provide care for residents with Alzheimer’s disease or  other
+forms of dementia by means of an endorsed memory care community, the  facility must obtain a
+memory care endorsement on its license  or registration.  A memory care endorsement may be
+issued only if  the applicant has at least two years of experience operating a licensed resi-
+dential care facility, including an assisted living facility,  or long term care facility as defined
+in ORS 442.015.
+(2) The Department of  Human Services, with the input from representatives of advocate groups
+and the long term care industry, shall adopt by rule standards that ensure that the special needs
+of any resident with Alzheimer’s disease or other form of dementia who is cared for in  an endorsed
+[6]
+SB 739
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+memory care community  are met and that quality care is provided. The standards must include but
+are not limited to provisions for:
+(a) Care planning, including  physical design, staffing, staff training, safety, egress control, indi-
+vidual care planning, admission  policy, family involvement, therapeutic activities and social services;
+(b) Continuity of basic care requirements; and
+(c) Marketing and advertising of the  availability of and services from endorsed memory care
+communities.
+(3) The department shall adopt a fee  schedule for memory care endorsement, taking into account
+the type of facility and the number of residents.
+(4) The department shall enforce rules adopted under subsection (2)  of this section and ORS
+443.889 and shall allow a licensee or registrant to retain the memory care endorsement required  to
+care for residents with Alzheimer’s disease or  other forms of dementia only as long as the licensee
+or registrant complies with the rules.
+(5) The memory care endorsement may be suspended or revoked in the same manner as the  li-
+cense or registration is suspended or revoked.
+(6) Unless a facility has obtained the memory care  endorsement required by subsection (1) of
+this section, the facility may not:
+(a) Advertise the facility as providing an Alzheimer’s care unit or memory care community; or
+(b) Market the facility as providing an Alzheimer’s care unit or memory care community.
+SECTION 11.
+(1) The amendments to ORS 443.441 by  section 1 of this 2025 Act apply to
+complaints submitted on or after the effective date of this 2025 Act.
+(2) The amendments to ORS 441.736 by section 2 of this 2025 Act apply to findings of
+immediate jeopardy made on or after the effective date of this 2025 Act.
+(3) Section 4 of this 2025 Act applies to  requests for exceptions made on or after the ef-
+fective date of this 2025 Act.
+(4) Section 5 of this 2025 Act applies to  compliance determinations made on or after the
+effective date of this 2025 Act.
+(5) Section 6 of this 2025 Act and the  amendments to ORS 443.416 by section 7 of this 2025
+Act apply to initial licenses issued on or after the effective date of this 2025 Act.
+(6) Section 8 of this  2025 Act applies to administrator absences beginning, and adminis-
+trator changes occurring, on or after the effective date of this 2025 Act.
+(7) The amendments to ORS 443.886  by section 10 of this 2025 Act apply to memory care
+endorsements issued on or after the effective date of this 2025 Act.
+[7]

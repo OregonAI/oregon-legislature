@@ -1,0 +1,82 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 502
+Sponsored by Senator SMITH DB (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act awards legal fees against a third party who fails in appealing a  land use deci-
+sion. (Flesch Readability Score: 65.1).
+Awards attorney fees against  an intervenor in any unsuccessful appeal of a quasi-judicial land
+use decision.
+A BILL FOR AN ACT
+Relating to attorney fees for appeal of  quasi-judicial land use decisions; creating new provisions; and
+amending ORS 197.843.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 197.843, as amended by  section 10, chapter 110, Oregon Laws 2024, is
+amended to read:
+197.843. (1) The Land Use Board of Appeals shall award attorney fees to:
+(a) An applicant whose application is only for  the development of affordable housing, if the
+board reverses a quasi-judicial land use  decision denying the application , charged against the local
+government and the intervenors, if any ;
+(b) An applicant, if the board reverses a quasi-judicial land use decision denying the ap-
+plication and a party has intervened on behalf of the  local government, charged only against
+the intervenors;
+[(b)] (c)  An applicant whose application [ is only for the development of  housing and ] was ap-
+proved by the local government, if the board affirms the decision; and
+[(c)] (d)  The local government that approved a quasi-judicial land use decision  described in
+paragraph [ (b)] (c)  of this subsection.
+[(2) For housing other  than affordable housing, the attorney fees specified in subsection (1)(b) and
+(c) of this section apply only within urban growth boundaries. ]
+[(3)] (2)  [ A party ] An applicant  who was awarded attorney fees under this section or ORS
+197.850 shall repay the fees plus  any interest from the time of the judgment if the property upon
+which the fees are based is developed for a use other than the [ proposed housing ] use proposed by
+the appealed application.
+[(4)] (3) As used in this section:
+(a) “Affordable housing” means affordable housing,  as defined in ORS 197A.445, or publicly
+supported housing, as defined in ORS 456.250.
+(b) “Attorney fees” includes  prelitigation legal expenses, including preparing and processing the
+application and supporting the application in local land use hearings or proceedings.
+SECTION 2.
+The amendments to ORS 197.843 by section 1 of this 2025 Act apply to ap-
+peals, including appeals for judicial review filed under ORS 197.850, that are filed on or after
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2151
+SB 502
+1
+2
+the effective date of this 2025 Act.
+[2]

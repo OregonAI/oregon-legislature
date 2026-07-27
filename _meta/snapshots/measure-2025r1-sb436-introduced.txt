@@ -1,0 +1,228 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 436
+Sponsored by Senator ANDERSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Says that building a child care center in a place that provides affordable housing  does
+not mean that a  person building the whole place must pay prevailing wage. But building the child
+care center itself does require paying prevailing wage for labor. (Flesch Readability Score: 62.6).
+Provides that constructing a  nonprofit child care facility within a project for affordable housing
+does not  subject the project for affordable housing to prevailing wage requirements if the child care
+facility meets specified  requirements. Provides that prevailing wage requirements do apply to the
+construction of a child care facility.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to constructing child care  facilities within projects for affordable housing; creating new
+provisions; amending ORS 279C.810; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 279C.810 is amended to read:
+279C.810. (1) As used in this section:
+(a) “Funds of a public agency” does not include:
+(A) Funds provided in the form of a government grant to a nonprofit  organization, unless the
+government grant is issued for the purpose of construction,  reconstruction, major renovation or
+painting;
+(B) Building and development permit fees paid or waived by the public agency;
+(C) Tax credits or tax abatements;
+(D) Land that a public agency sells to a private entity at fair market value;
+(E) The difference between:
+(i) The value of land that a public agency sells to a private entity as determined at the time  of
+the sale  after taking into account any plan, requirement, covenant, condition, restriction or other
+limitation, exclusive of zoning or land  use regulations, that the public agency imposes on the de-
+velopment or use of the land; and
+(ii) The fair market value of the land if the land  is not subject to the limitations described in
+sub-subparagraph (i) of this subparagraph;
+(F) Staff resources of the public agency used to manage a project or to  provide a principal
+source of supervision, coordination or oversight of a project;
+(G) Staff resources of the public agency used to design or inspect one or  more components of
+a project;
+(H) Moneys derived from the sale of bonds that are loaned by a state  agency to a private entity,
+unless the moneys will be used for a public improvement;
+(I) Value added  to land as a consequence of a public agency’s site preparation, demolition of real
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1157
+SB 436
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+property or remediation or removal of  environmental contamination, except for value added in ex-
+cess of the expenses the public agency incurred  in the site preparation, demolition or remediation
+or removal when the land is sold for  use in a project otherwise subject to ORS 279C.800 to 279C.870;
+or
+(J) Bonds, or loans from the proceeds of bonds, issued in accordance with ORS chapter 289  or
+ORS 441.525 to 441.595, unless the bonds or loans will be used for a public improvement.
+(b) “Nonprofit  organization” means an organization or group of organizations described in sec-
+tion 501(c)(3) of the Internal  Revenue Code that is exempt from income tax under section 501(a) of
+the Internal Revenue Code.
+(2) ORS 279C.800 to 279C.870 do not apply to:
+(a) Projects  for which the contract price does not exceed $50,000. In determining the price of a
+project, a public agency:
+(A) May not include the value of donated materials or work  performed on the project by indi-
+viduals volunteering to the public agency without pay; and
+(B) Shall include the value of work performed by  every person paid by a contractor or subcon-
+tractor in any manner for the person’s work on the project.
+(b) Projects for which  no funds of a public agency are directly or indirectly used. In accordance
+with ORS chapter 183, the Commissioner of the Bureau  of Labor and Industries shall adopt rules to
+carry out the provisions of this paragraph.
+(c) Projects:
+(A) That are privately owned;
+(B) That use funds of a private entity;
+(C) In which less than 25 percent of the square footage of a completed project will be occupied
+or used by a public agency; and
+(D) For which less than $750,000 of funds of a public agency are used.
+(d) Projects for residential construction that are privately owned and that predominantly provide
+affordable housing. As used in this paragraph:
+(A) “Affordable housing”  means housing that serves occupants whose incomes are no greater
+than 60 percent of the area median income or, if the occupants are owners, whose incomes are  no
+greater than 80 percent of the area median income.
+(B) “Predominantly” means 60 percent or more.
+(C) “Privately owned” includes:
+(i) Affordable housing provided on  real property owned by a public agency if the real property
+and related structures are leased to a private entity for 50 or more years; and
+(ii) Affordable housing owned by a partnership,  nonprofit corporation or limited liability com-
+pany in which a housing authority, as defined in ORS 456.005, is a general partner,  director or
+managing member and the housing authority is  not a majority owner in the partnership, nonprofit
+corporation or limited liability company.
+(D) “Residential construction” includes the construction, reconstruction, major  renovation or
+painting of single-family  houses or apartment buildings not more than four stories in height and all
+incidental items, such as site work, parking areas,  utilities, streets and sidewalks, pursuant to the
+United States Department  of Labor’s “All Agency Memorandum No. 130: Application of the Standard
+of Comparison “Projects of a Character Similar” Under Davis-Bacon  and Related Acts,” dated
+March 17, 1978. However, the commissioner may consider different definitions  of residential con-
+struction  in  determining whether a project is a residential construction project for purposes of this
+[2]
+SB 436
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+paragraph, including definitions that:
+(i) Exist in local ordinances or codes; or
+(ii) Differ, in the prevailing practice of a particular trade  or occupation, from the United States
+Department of Labor’s description of residential construction.
+(3)(a) Except as provided in paragraph (b) of this subsection, projects described in  sub-
+section (2)(d) of  this section do not become subject to ORS 279C.800 to 279C.870 as a conse-
+quence of constructing within the project a child care facility,  as defined in ORS 329A.250,
+and operating the child care facility as a not-for-profit enterprise, if:
+(A) The child care facility throughout  the calendar year serves an average of 75 percent
+of the children who reside in the project and who  are eligible for government-subsidized child
+care or early learning; and
+(B) The owner of the project each year provides evidence to the commissioner of the
+child care facility’s compliance with subparagraph (A)  of this paragraph on a form or in a
+manner the commissioner specifies.
+(b) ORS 279C.800 to 279C.870 apply to the labor costs involved  in constructing a child care
+facility described in paragraph (a) of this subsection.
+SECTION 2.
+The amendments to  ORS 279C.810 by section 1 of this 2025 Act apply to
+contracts entered into by an owner, on or after the  operative date specified in section 3 of
+this 2025 Act, for constructing an affordable housing project.
+SECTION 3. (1) The amendments to ORS 279C.810 by section 1 of this 2025 Act become
+operative on January 1, 2026.
+(2) The Commissioner of the Bureau of Labor and Industries may adopt  rules and take
+any other action before the operative date specified in subsection (1)  of this section that is
+necessary to enable the commissioner, on  and after the operative date specified in subsection
+(1) of this section, to undertake and exercise all  of the duties, functions and powers con-
+ferred on the commissioner by the amendments to ORS 279C.810 by section 1  of this 2025
+Act.
+SECTION 4. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

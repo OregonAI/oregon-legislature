@@ -1,0 +1,550 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb1038
+title: 'SB 1038 (2025R1): Maintains current time standards in Oregon unless certain conditions are met.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 1038
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1038/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 8e2ec8cfd22e47c2a2208f4af2f5bb406c08f1889cce614d9a644ba719f6a299
+snapshot_id: measure-2025r1-sb1038-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 105.100
+  - ORS 105.124
+  - ORS 105.165
+  - ORS 187.110
+  - ORS 659A.421
+  - ORS 659A.425
+  - ORS 86.707
+  - ORS 86.752
+  - ORS 86.764
+  - ORS 86.771
+  - ORS 86.774
+  - ORS 86.778
+  - ORS 86.782
+  - ORS 86.794
+  - ORS 86.797
+  - ORS 90.100
+  - ORS 90.322
+  - ORS 90.375
+  - ORS 90.396
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 1038
+prefix_meaning: Senate Bill
+catch_line: Maintains current time standards in Oregon unless certain conditions are met.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act, for the part of the state in the Pacific Time Zone, stops the one-hour\
+  \ change of time in the spring and fall of each year and keeps the zone at standard time year-round\
+  \ if CA and WA states do the same within 10 years. The Act, for the part of the state in the Pacific\
+  \ Time Zone, permits the one-hour change of time to remain at daylight saving time year-round if Congress\
+  \ authorizes it and if CA and WA states have daylight saving time year-round, within 10 years. The Act\
+  \ keeps the part of the state in the Mountain Time Zone unchanged. (Flesch Readability Score: 64.2).\
+  \ \n\tMaintains current time standards in Oregon unless certain conditions are met. For the part of\
+  \ the state located in the Pacific Time Zone, abolishes the annual one-hour change in time from standard\
+  \ time to daylight saving time and maintains the Pacific Time Zone portion of Oregon on standard time\
+  \ for all 12 months of the calendar year, if California and Washington make the same change within the\
+  \ next 10 years. Restores current time standards if California and Washington do not make the standard\
+  \ time change within 10 years. Alternatively, for the part of the state located in the Pacific Time\
+  \ Zone, abolishes the annual one-hour change in time and maintains the Pacific Time Zone portion of\
+  \ Oregon on daylight saving time for all 12 months of the calendar year, if Congress enacts a law authorizing\
+  \ states to elect year-round daylight saving time and if California and Washington establish daylight\
+  \ saving time as the standard of time year-round. Restores current time standards if Congress fails\
+  \ to authorize daylight saving time or if California and Washington do not make daylight saving time\
+  \ their year-round standard of time within 10 years. Provides that standards of time in the Mountain\
+  \ Time Zone portion of Oregon remain unchanged."
+relating_to: Relating to standards of time.
+relating_to_full: Relating to standards of time; creating new provisions; amending ORS 86.782; and repealing
+  ORS 187.110.
+at_the_request_of: null
+lc_number: 863
+measure_created_date: '2025-02-12T14:45:11'
+measure_modified_date: '2025-04-01T16:22:11'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 31381
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 105.100
+  - ORS 105.124
+  - ORS 105.165
+  - ORS 187.110
+  - ORS 659A.421
+  - ORS 659A.425
+  - ORS 86.707
+  - ORS 86.752
+  - ORS 86.764
+  - ORS 86.771
+  - ORS 86.774
+  - ORS 86.778
+  - ORS 86.782
+  - ORS 86.794
+  - ORS 86.797
+  - ORS 90.100
+  - ORS 90.322
+  - ORS 90.375
+  - ORS 90.396
+  from_relating_to_full:
+  - ORS 187.110
+  - ORS 86.782
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1038>.
+
+# SB 1038 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1038, 2025 Regular Session (2025R1)
+- **LC number:** 863
+- **Created:** 2025-02-12T14:45:11
+- **Metadata last modified (upstream):** 2025-04-01T16:22:11
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 31381 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1038/Introduced>.
+
+## Summary
+
+**Catchline:** Maintains current time standards in Oregon unless certain conditions are met.
+
+**Relating to:** Relating to standards of time.
+
+Digest: The Act, for the part of the state in the Pacific Time Zone, stops the one-hour change of time in the spring and fall of each year and keeps the zone at standard time year-round if CA and WA states do the same within 10 years. The Act, for the part of the state in the Pacific Time Zone, permits the one-hour change of time to remain at daylight saving time year-round if Congress authorizes it and if CA and WA states have daylight saving time year-round, within 10 years. The Act keeps the part of the state in the Mountain Time Zone unchanged. (Flesch Readability Score: 64.2). 
+ Maintains current time standards in Oregon unless certain conditions are met. For the part of the state located in the Pacific Time Zone, abolishes the annual one-hour change in time from standard time to daylight saving time and maintains the Pacific Time Zone portion of Oregon on standard time for all 12 months of the calendar year, if California and Washington make the same change within the next 10 years. Restores current time standards if California and Washington do not make the standard time change within 10 years. Alternatively, for the part of the state located in the Pacific Time Zone, abolishes the annual one-hour change in time and maintains the Pacific Time Zone portion of Oregon on daylight saving time for all 12 months of the calendar year, if Congress enacts a law authorizing states to elect year-round daylight saving time and if California and Washington establish daylight saving time as the standard of time year-round. Restores current time standards if Congress fails to authorize daylight saving time or if California and Washington do not make daylight saving time their year-round standard of time within 10 years. Provides that standards of time in the Mountain Time Zone portion of Oregon remain unchanged.
+
+**RelatingToFull (verbatim upstream field):** Relating to standards of time; creating new provisions; amending ORS 86.782; and repealing ORS 187.110.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1038
+Sponsored by Senator THATCHER, Representative  CATE; Senator GOLDEN, Representatives GAMBA, MANNIX,
+WALLAN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act, for the part  of the state in the Pacific Time Zone, stops the one-hour change
+of time in the spring and fall of each year and keeps the zone  at standard time year-round if CA and
+WA states do the same within 10 years. The Act, for the  part of the state in the Pacific Time Zone,
+permits the one-hour change of time to remain at daylight saving time year-round if Congress au-
+thorizes it and if CA and WA states  have daylight saving time year-round, within 10 years. The Act
+keeps the part of the state in the Mountain Time Zone unchanged. (Flesch Readability Score: 64.2).
+Maintains current time standards in Oregon unless certain conditions are met. For the part  of
+the state located in the Pacific Time Zone, abolishes the annual one-hour  change in time from
+standard time to daylight saving time and maintains the Pacific Time Zone  portion of Oregon on
+standard time for all 12 months of the calendar year, if California and Washington make the  same
+change within the next 10 years.  Restores current time standards if California and Washington do
+not make the standard time change within 10 years. Alternatively, for the  part of the state located
+in the Pacific Time Zone, abolishes the annual one-hour change in time and maintains the  Pacific
+Time Zone  portion of Oregon on daylight saving time for all 12 months of the calendar year, if
+Congress enacts a law authorizing states to elect year-round daylight  saving time and if California
+and Washington establish daylight saving time as the standard of  time year-round. Restores current
+time standards if Congress fails  to authorize daylight saving time or if California and Washington
+do not make daylight  saving time their year-round standard of time within 10 years. Provides that
+standards of time in the Mountain Time Zone portion of Oregon remain unchanged.
+A BILL FOR AN ACT
+Relating to standards of time; creating new provisions; amending ORS 86.782; and repealing ORS
+187.110.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ORS 187.110 is repealed.
+SECTION 2. The standard of time for the State of Oregon shall be the United States
+standard of time as established by the Congress of the United States  for any particular area
+of the state under  15 U.S.C. 261, except that from 2 a.m. on the second Sunday in March until
+2 a.m. on the first Sunday in November the standard of time for any area of this  state shall
+be one hour in advance of the standard established for that particular  area by the Congress
+of the United States under 15 U.S.C. 261. No department of the  state government and no
+county, city or other political subdivision shall  employ any other time or adopt any statute,
+ordinance or order providing for the use of any other standard of time.
+SECTION 3. If the State of California and the  State of Washington have each adopted the
+standard of time  that is the United States standard of time for California and Washington
+and that does not contain a one-hour advancement of  the standard time in those states, then
+notwithstanding section 2 of this 2025 Act:
+(1) The standard of time for the State of Oregon shall be the United  States standard of
+time as established by the Congress of the  United States for any particular area of the state
+under 15 U.S.C. 261.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 863
+(2) The portion of the State of Oregon that is located  in the Pacific Time Zone is exempt
+from 15 U.S.C. 260a, pursuant to the authority set forth in 15 U.S.C. 260a(a)(2).
+(3) From 2 a.m. on  the second Sunday in March until 2 a.m. on the first Sunday in No-
+vember the standard  of time for the portion of the State of Oregon that is located in the
+Mountain Time Zone shall  be one hour in advance of the standard established for that par-
+ticular area by the Congress of the United States under 15 U.S.C. 261.
+(4) No department of the state government and no county, city or  other political subdi-
+vision shall employ any other time or adopt any statute, ordinance or  order providing for the
+use of any other standard of time.
+SECTION 4.
+If the Congress of the United  States has enacted law authorizing states to
+adopt standards of time that are one hour in advance of  the United States standard of time
+as established under 15 U.S.C. 261 and that may  apply for all 12 months of each calendar
+year, and if the standard of time for the States of California and Washington is  one hour in
+advance of the United States standard  of time for California and Washington for all 12
+months of each calendar year, then notwithstanding sections 2 and 3 of this 2025 Act:
+(1) The standard of time for the portion of the State of  Oregon that is located in the
+Pacific Time Zone shall  be one hour in advance of the United States standard of time as es-
+tablished by the Congress of the United States under 15 U.S.C. 261.
+(2) The standard of time for the portion of the State of  Oregon that is located in the
+Mountain Time Zone shall be:
+(a) The United  States standard of time as established by the Congress of the United
+States under 15 U.S.C. 261; and
+(b) From 2 a.m. on the second Sunday in March until 2 a.m. on the first Sunday  in No-
+vember, one hour in advance of the standard established  for that area by the Congress of the
+United States under 15 U.S.C. 261.
+(3) No department of  the state government and no county, city or other political subdi-
+vision shall employ any other time or adopt any statute, ordinance or  order providing for the
+use of any other standard of time.
+SECTION 5. If, on December 31, 2035:
+(1) The standards of time for the State of Oregon are established by  section 4 of this 2025
+Act, sections 2 and 3 of this 2025 Act are repealed.
+(2) The standards of time for the State of Oregon are established by  section 3 of this 2025
+Act, sections 2 and 4 of this 2025 Act are repealed.
+(3) The standards of time for the State of Oregon are established by  section 2 of this 2025
+Act, sections 3 and 4 of this 2025 Act are repealed.
+SECTION 6.  ORS 86.782 is amended to read:
+86.782. (1)(a) A trustee shall hold a trustee’s sale on the date and at the time and place  desig-
+nated in the notice of sale given under ORS 86.764. The designated time of the trustee’s sale  must
+be after 9 a.m. and before 4 p.m., based on the standard  of time set forth in [ ORS 187.110] Oregon
+law, and the designated place of the trustee’s sale must be in the  county or one of the counties in
+which the property is situated. Except as provided  in paragraph (b) of this subsection, the trustee
+may sell the property in one  parcel or in separate parcels and shall sell the parcel or parcels at
+auction to the highest bidder for cash. Any person, including the beneficiary under the trust deed,
+but excluding the trustee, may bid at  the trustee’s sale. An attorney for the trustee, or an agent that
+the trustee or the attorney designates, may conduct the sale and act in the  sale as the trustee’s
+auctioneer.
+(b) If the  trustee sells property upon which a single residential unit that is subject to an af-
+fordable housing covenant  is situated, the eligible covenant holder may purchase the property from
+the trustee at the trustee’s sale for cash or cash equivalent in an amount that is the lesser of:
+(A) The sum of the amounts payable under ORS 86.794 (1) and (2); or
+(B) The highest bid received for the property other than a bid from the  eligible covenant holder.
+(c)(A) Except as provided in subparagraph (B) of this paragraph, if an eligible covenant holder
+purchases the property in accordance with paragraph (b) of this subsection, the  sale forecloses and
+terminates all other interests in the property as provided in ORS 86.797 (1).
+(B) If an interest  in the property exists that is prior to the eligible covenant holder’s interest,
+other than the interest set forth in the trust deed that was the subject of  the foreclosure proceeding
+under ORS 86.752, notwithstanding the provisions of ORS 86.797 (1) the sale does  not foreclose and
+terminate the prior interest and the eligible covenant holder’s  title to the property is subject to the
+prior interest.
+(2)(a) The trustee  or the attorney for the trustee, or an agent that the trustee or the attorney
+designates, may postpone the sale for one or more periods that total not more than  180 days from
+the original sale date,  giving notice of each postponement by public proclamation made at the time
+and place set for sale. The trustee, the attorney or an agent that the trustee or the attorney  desig-
+nates may make the proclamation.
+(b) If a person postpones the sale date as provided in paragraph (a) of  this subsection, the
+trustee, in the manner provided for the notice of sale under ORS 86.764 (1), shall provide  written
+notice of the new time, date and place for the sale to the grantor and to any person to whom notice
+of the sale was given under ORS 86.771. The notice must be given at least  15 days before the new
+sale date. The person may postpone the  sale once, for not more than two calendar days, without
+giving notice as  provided in this paragraph. The person may not postpone the sale for more than two
+calendar days or more than once without giving notice as provided in this paragraph.
+(3) The purchaser  shall pay at the time of sale the price bid or the price determined in accord-
+ance with subsection (1)(b) of this section, and,  within 10 days following payment, the trustee shall
+execute and deliver the trustee’s deed to the purchaser.
+(4)(a) Within 10 calendar days after the  date of the trustee’s sale, the trustee may rescind the
+trustee’s sale and void the trustee’s deed only if:
+(A) The trustee asserts that during the trustee’s sale a bona fide error occurred in:
+(i) Setting, advertising or otherwise specifying the opening bid amount for the property that is
+the subject of the trustee’s sale;
+(ii) Providing a correct legal  description of the property that is the subject of the trustee’s sale;
+or
+(iii) Complying with a requirement or procedure that is imposed by law;
+(B) The grantor and the  beneficiary agreed to a foreclosure avoidance measure, as defined in
+ORS 86.707, that would postpone or discontinue the trustee’s sale; or
+(C) The beneficiary accepted funds to reinstate the trust deed and obligation  in accordance with
+ORS 86.778, even if the beneficiary did not have a legal duty to do so.
+(b) Within 10 calendar days after the date of the trustee’s sale that  the trustee rescinded under
+paragraph (a) of this subsection, the trustee shall provide notice of the rescission of  the trustee’s
+sale to any person to whom notice of the sale was given. The trustee shall  mail or serve notice of
+the rescission in the manner provided for serving or mailing the notice of sale under  ORS 86.764 (1).
+The notice of rescission must:
+(A) Display the date on which the trustee mailed the notice, served  the notice or delivered the
+notice for service; and
+(B) State that, and  explain why, the trustee rescinded the trustee’s sale and voided the trustee’s
+deed.
+(c) Not later than  three calendar days after the date displayed on the rescission notice described
+in paragraph  (b) of this subsection, the trustee shall refund to the purchaser the amount the pur-
+chaser paid for the property that is the subject of the rescission notice.
+(d) If the trustee rescinded a trustee’s sale and voided a  trustee’s deed in accordance with this
+subsection, the trustee, not later than 21 days after the date of the trustee’s  sale that resulted in
+the rescission, shall present  for recording an affidavit that states that the trustee provided the no-
+tice of rescission described in paragraph (b) of this subsection. The affidavit must identify the trust
+deed that was subject to the rescinded trustee’s sale and the voided trustee’s deed.
+(e) The trustee’s deed conveys to the purchaser the interest in  the property that the grantor
+had, or had the power to convey, at the time the grantor executed the trust deed, together with any
+interest the grantor or the  grantor’s successors in interest acquire after the execution of the trust
+deed.
+(5)(a) If property purchased at the trustee’s sale includes one or more dwelling units that are
+subject to ORS chapter 90,  the purchaser must provide written notice of the change in ownership
+to the  occupants of each unit within 30 days after the date of sale and before or concurrently with
+service of a written termination notice authorized by subsection (6)(c)(B) of this section.
+(b) The notice required by this subsection must:
+(A) Explain that the dwelling unit has been sold at a foreclosure sale and that the purchaser
+at the foreclosure sale is the new owner.
+(B) Include the date on which the foreclosure sale took place.
+(C) Include the  name, contact address and contact telephone number of the purchaser or the
+purchaser’s representative.
+(D) Provide information about the rights of bona fide residential tenants  as provided in sub-
+sections (6)(c) and (e) and (9)(a) of this section.
+(E) Include contact information for the Oregon State Bar and a person or organization that
+provides legal help to individuals at no charge to the individual.
+(c) The notice must be served by one or more of the following methods:
+(A) Personal delivery to the tenant.
+(B) First class mail to the tenant at the dwelling unit.
+(C) First class mail to the tenant at the dwelling unit  and attachment of a second notice copy.
+The second notice copy must be attached in a secure manner  to the main entrance to the portion
+of the premises in the possession of the tenant.
+(D) If the purchaser does not know the names of the tenants, the notice may be addressed  to
+“occupants.”
+(d) A notice that contains the information required under paragraph (b)(B) and (C) of this  sub-
+section meets the requirements of paragraph (b) of this subsection if  the notice is in substantially
+the following form:
+_______________________________________________________________________________________
+NOTICE TO RESIDENTIAL TENANTS OF
+CHANGE IN OWNERSHIP
+The property in which you are living has gone  through foreclosure and was sold to a new owner
+on ________ (date). The contact information for the new owner or the  owner’s representative is
+_____________ (name, address, telephone number).
+IF YOU ARE A BONA FIDE  TENANT RENTING THIS PROPERTY AS A RESIDENTIAL
+DWELLING, YOU HAVE THE RIGHT TO  CONTINUE LIVING IN THIS PROPERTY AFTER THE
+FORECLOSURE SALE FOR:
+• 60 DAYS FROM THE DATE YOU ARE GIVEN A WRITTEN  TERMINATION NOTICE, IF
+YOU HAVE A FIXED TERM LEASE; OR
+• AT LEAST 30 DAYS FROM  THE DATE YOU ARE GIVEN A WRITTEN TERMINATION
+NOTICE, IF YOU HAVE A MONTH-TO-MONTH OR WEEK-TO-WEEK RENTAL AGREEMENT.
+If the new owner wants to move in and use this property as  a primary residence, the new owner
+can give you written notice and  require you to move out after 30 days, even though you have a fixed
+term lease with more than 30 days left.
+You must be provided with  at least 30 days’ written notice after the foreclosure sale before you
+can be required to move.
+A bona fide tenant is a residential tenant who is not the borrower  (property owner), or a child,
+spouse or parent of the borrower, and whose rental agreement:
+• Is the result of an arm’s-length transaction;
+• Requires the payment of rent that is not substantially less than fair market rent for  the
+property, unless the rent is reduced or subsidized due to a federal, state or local subsidy; and
+• Was entered into prior to the date of the foreclosure sale.
+IMPORTANT:
+YOU SHOULD CONTACT  THE NEW OWNER OR THE OWNER’S REPRESENTATIVE AT
+THE ADDRESS LISTED ON THIS NOTICE AS SOON AS POSSIBLE TO LET THE NEW OWNER
+KNOW IF YOU ARE A BONA FIDE  TENANT. YOU SHOULD PROVIDE WRITTEN EVIDENCE
+OF THE EXISTENCE OF YOUR RENTAL AGREEMENT, ESPECIALLY IF YOU HAVE  A FIXED
+TERM RENTAL AGREEMENT OR LEASE WITH MORE THAN 30  DAYS LEFT. Written evidence
+of your rental agreement can be a copy of your  lease or rental agreement, or other documentation
+of the existence of your rental agreement. Keep your original documents and a record of any infor-
+mation you give to the new owner.
+YOUR TENANCY
+BETWEEN NOW
+AND THE MOVE-OUT DATE
+The new owner may be willing to allow you  to stay as a tenant instead of requiring you to move
+out after 30 or 60 days. You should contact the new owner if you  would like to stay. If the new
+owner accepts rent from you, signs a new  residential rental agreement with you or does not notify
+you in writing within 30 days after the date of the foreclosure sale that you  must move out, the new
+owner becomes your new landlord and must maintain the property. Otherwise:
+• You do not owe rent;
+• The new owner is not your landlord and is not responsible for maintaining the property; and
+• You must move out by the date the new owner specifies in a notice to you.
+The new owner may offer to pay your moving expenses and any other costs or amounts you and
+the new owner agree on in exchange  for your agreement to leave the premises in less than 30 or
+60 days. You should speak with a lawyer to fully understand your rights before making any decisions
+regarding your tenancy.
+IT IS UNLAWFUL FOR ANY  PERSON TO TRY TO FORCE YOU TO LEAVE YOUR
+DWELLING  UNIT  WITHOUT FIRST GIVING YOU WRITTEN NOTICE AND GOING TO COURT
+TO EVICT YOU. FOR MORE INFORMATION ABOUT YOUR RIGHTS, YOU SHOULD CONSULT
+A LAWYER. If you believe  you need legal assistance, contact the Oregon State Bar and ask for the
+lawyer referral service. Contact information for the Oregon State Bar is included with this notice.
+If you do not have enough money to  pay a lawyer and are otherwise eligible, you may be able to
+receive legal assistance for free. Information about whom to contact for  free legal assistance is in-
+cluded with this notice.
+_______________________________________________________________________________________
+(6)(a) Except as provided in paragraph  (b) or (c) of this subsection, the purchaser at the trustee’s
+sale is entitled to possession of the property on the 10th  day after the sale. A person that remains
+in possession after the 10th day under any interest, except an interest prior to the trust deed, or
+an interest the grantor or a  successor of the grantor created voluntarily, is a tenant at sufferance.
+The purchaser may obtain possession of the property from a  tenant at sufferance by following the
+procedures set forth in ORS 105.100 to 105.168 or other applicable judicial procedure.
+(b) Except as provided in paragraph (c) of this subsection, at  any time after the trustee’s sale
+the purchaser may follow the procedures set forth in ORS 105.100 to 105.168 or other  applicable
+judicial  procedure  to obtain possession of the property from a person that holds possession under
+an interest that the grantor or a successor of the  grantor created voluntarily if, not earlier than 30
+days before the date  first set for the sale, the person was served with not less than 30 days’ written
+notice of the requirement to surrender or deliver possession of the property.
+(c) If the property purchased at the trustee’s  sale includes a dwelling unit that is subject to ORS
+chapter 90 and an  individual occupies the unit under a bona fide tenancy, the purchaser may obtain
+possession by following the procedures set forth in ORS 105.100 to 105.168 and by using the com-
+plaint form provided in ORS 105.124 or 105.126:
+(A) At least 60 days after service of a written  termination notice, if the bona fide tenancy is a
+fixed term tenancy as defined in ORS 90.100; or
+(B) At least 30 days after service of a written termination notice if the bona fide tenancy is:
+(i) A fixed term tenancy and the purchaser intends to occupy, as the purchaser’s primary  resi-
+dence, the dwelling unit that is subject to the fixed term tenancy; or
+(ii) A month-to-month tenancy or week-to-week  tenancy, as those terms are defined in ORS
+90.100.
+(d) If a purchaser gives a 30-day written termination  notice pursuant to paragraph (c) of this
+subsection, the purchaser may include  in the notice a request that a tenant with a fixed term
+tenancy  provide  written evidence of the existence of the tenancy to the purchaser at an address
+described in the notice. Written evidence includes  a copy of the rental agreement or another docu-
+ment that shows the existence of the fixed term  tenancy. The tenant’s failure to provide the re-
+quested written evidence before the purchaser  files an action for possession based on a 30-day
+notice:
+(A) Does not prevent the tenant from asserting the existence of the fixed term tenancy  as a
+defense to the action.
+(B) Prevents the tenant from recovering prevailing party attorney fees or  costs and disburse-
+ments pursuant to subsection (11)(b) of this section. The 30-day  notice must describe the provisions
+of this paragraph.
+(e) A  purchaser may not commence a proceeding under ORS 105.100 to 105.168 that is authorized
+under this subsection before the later of:
+(A) The 10th day after the trustee’s sale;
+(B) The date specified in a written notice of the requirement to surrender or deliver  possession
+of the property if  the notice is required by and is given to the person in accordance with paragraph
+(b) of this subsection;
+(C) The date specified in a written notice of the purchaser’s intent to terminate a tenancy if the
+notice  is  required by and is given to the person in accordance with paragraph (c) of this subsection;
+or
+(D) The date on which the term of a fixed term tenancy ends, if the property is a dwelling  unit
+and the purchaser has not terminated the tenancy  in accordance with paragraph (c) of this sub-
+section.
+(f) A purchaser that seeks to obtain possession pursuant to ORS 105.100 to 105.168 must attach
+proof of service of a written  termination notice required by paragraph (c) of this subsection to the
+pleadings.
+(g) In an action to obtain possession, violation of  the procedures required by subsection (5) of
+this section or paragraph (c) of this subsection is a defense for a bona  fide tenant seeking to retain
+possession.
+(h) As used  in this subsection, “bona fide tenancy” means tenancy of a dwelling unit that is
+subject to ORS chapter 90 that  results from an arm’s-length transaction that occurred before the
+date of a foreclosure sale in which:
+(A) The mortgagor or the child, spouse or parent of the mortgagor under the contract is not  the
+tenant; and
+(B) The rent required is not substantially less than fair market rent  for the dwelling unit, unless
+the rent is reduced or subsidized due to a federal, state or local subsidy.
+(7) A purchaser shall serve a notice under subsection (6) of this section by one  or more of the
+following methods:
+(a) Personal delivery to the tenant.
+(b) First class mail to the tenant at the dwelling unit.
+(c) First  class mail to the tenant at the dwelling unit and attachment of a second notice copy.
+The second notice copy must be attached in  a secure manner to the main entrance to the portion
+of the premises in the possession of the tenant.
+(8) If the notice under subsection (6) of  this section is served by mail pursuant to subsection
+(7)(b) of this section, the minimum period for compliance must be extended by three days and the
+notice must include the extension in the period stated in the notice.
+(9)(a) Notwithstanding the provisions of subsection (6)(c) of  this section and except as provided
+in paragraph (b) of this subsection, the purchaser  is not a landlord subject to the provisions of ORS
+chapter 90 unless the purchaser:
+(A) Accepts rent from the individual  who possesses the property under a tenancy described in
+subsection (6)(c) of this section;
+(B) Enters into a new rental agreement with the individual who possesses the property under
+a tenancy described in subsection (6)(c) of this section; or
+(C) Fails to terminate the tenancy  as provided in subsection (6)(c) of this section within 30 days
+after the date of the sale.
+(b) The purchaser may act as a landlord for purposes of terminating a tenancy in accordance
+with the provisions of ORS 90.396.
+(c) The purchaser is subject to the  provisions of ORS 90.322, 90.375, 105.165, 659A.421 and
+659A.425. The application of ORS 90.375 to a purchaser that does  not become a landlord does not
+impose an affirmative  duty to pay for or provide services. For the purpose of damages pursuant to
+this paragraph, “rent” refers to  the amount the tenant pays to the landlord for the right to occupy
+the unit before the foreclosure.
+(10)(a) Except as provided in paragraph (b) of this subsection, the purchaser is not  liable to the
+individual who possesses the property under a tenancy described in subsection (6)(c) of  this section
+for:
+(A) Damage to the property or diminution in rental value; or
+(B) Returning a security deposit.
+(b) A purchaser that is a landlord under the provisions  of subsection (9)(a) of this section is li-
+able to the individual who  possesses the property under a tenancy described in subsection (6)(c) of
+this section for:
+(A) Damage to the property or diminution  in rental value that occurs after the date of the
+trustee’s sale; or
+(B) Returning a security deposit the individual pays after the date of the trustee’s sale.
+(11)(a) Except  as provided in paragraph (b) of this subsection and notwithstanding an agreement
+to the contrary, in an action or defense arising pursuant to subsection (6)(c), (d), (f)  or (g), (7) or
+(9)(c) of this section, reasonable attorney fees at trial and  on appeal may be awarded to the pre-
+vailing party together with costs and disbursements.
+(b) If a tenant asserts a successful defense to an action for possession pursuant to subsection
+(6)(c), (d), (f) or (g) of this section, the tenant is not entitled to prevailing party  fees, attorney fees
+or costs and disbursements if the purchaser:
+(A) Did not know, and did not have reasonable cause to  know, of the existence of a fixed term
+tenancy when commencing the action for possession; and
+(B) Promptly dismissed the  action upon becoming aware of the existence of a fixed term tenancy.
+(c) As  used in this subsection, “prevailing party” means the party in whose favor final judgment
+is rendered.
+(12)(a) Notwithstanding subsection  (2)(a) of this section, except when a beneficiary has partic-
+ipated in obtaining a stay, foreclosure proceedings that  are stayed by order of the court, by pro-
+ceedings in bankruptcy or for any other lawful reason shall, after release from the stay,  continue
+as if uninterrupted, if within 30 days after release the trustee sends amended notice  of sale by reg-
+istered or certified mail to the persons listed in ORS 86.764 and 86.774 (1).
+(b) In addition to the notice required under paragraph (a) of this subsection, the  trustee shall
+send amended notice of sale:
+(A) By registered or certified mail to:
+(i) The address provided by each person who was present at the time and place set  for the sale
+that was stayed; and
+(ii) The address provided  by each member of the Oregon State Bar who by registered or certified
+mail requests the  amended notice of sale and includes with the request the notice of default or an
+identification number for  the trustee’s sale that would assist the trustee in identifying the property
+subject to the trustee’s sale and a self-addressed, stamped envelope  measuring at least 8.5 by 11
+inches in size; or
+(B) By posting a true copy  or a link to a true copy of the amended notice of sale on the trustee’s
+Internet website.
+(c) The amended notice of sale must:
+(A) Be given at least 15 days before the amended date of sale;
+(B) Set an amended date of sale that may be the same  as the original sale date, or date to which
+the sale was postponed, provided the requirements of this  paragraph and ORS 86.764 and 86.774 are
+satisfied;
+(C) Specify the time and place for sale;
+(D) Conform to the requirements of ORS 86.771; and
+(E) State that the original sale proceedings were stayed and the date the stay terminated.
+(d) If the publication of the notice of sale was not completed before the  date the foreclosure
+proceedings were stayed by order of the court, by proceedings in bankruptcy  or for any other lawful
+reason, after release from the stay, in addition  to complying with the provisions of paragraphs (b)
+and (c) of this subsection, the trustee shall complete the publication by publishing an amended no-
+tice of sale that states that the notice has been amended following release  from the stay and that
+contains the amended date of sale. The amended notice must be published in a newspaper  of general
+circulation in each of the counties in which the property is situated once a  week for four successive
+weeks, except that the required number of publications must be reduced by the number  of publica-
+tions that were completed before the effective date of the stay. The last publication must be  made
+more than 20 days before the date the trustee conducts the sale.
+(e) If  a portion of the defaults specified in the original notice of default or in the original notice
+of sale  was cured during the time the foreclosure proceedings were stayed, or if additional defaults
+have occurred during that time, the trustee shall describe in the amended notice of  sale only those
+defaults that existed on the date on which the stay was terminated.
+(f) After a release from a stay of proceedings, the trustee or the attorney for the trustee, or  an
+agent that the trustee or the attorney designates, may postpone a  sale for one or more periods that
+total not more than the greater of 60  days or the portion of the 180-day period allowed for
+postponement under subsection (2)(a) of this section that remained on the day  before the stay began.
+A postponement under this paragraph must comply with the procedural and notice requirements
+specified in subsection (2) of this section.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 187.110, ORS 86.782
+- From bill text (Introduced version): ORS 105.100, ORS 105.124, ORS 105.165, ORS 187.110, ORS 659A.421, ORS 659A.425, ORS 86.707, ORS 86.752, ORS 86.764, ORS 86.771, ORS 86.774, ORS 86.778, ORS 86.782, ORS 86.794, ORS 86.797, ORS 90.100, ORS 90.322, ORS 90.375, ORS 90.396
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `8e2ec8cfd22e47c2a2208f4af2f5bb406c08f1889cce614d9a644ba719f6a299` (snapshot `_meta/snapshots/measure-2025r1-sb1038-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1038/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1038> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

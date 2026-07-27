@@ -1,0 +1,223 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3708
+Sponsored by Representative EVANS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act relaxes the rules that  relate to home prices for lands that are being added to
+a smaller city’s UGB through a temporary program. (Flesch Readability Score: 63.0).
+Allows a city with a population of 20,000 or fewer to bring lands into  its urban growth bound-
+ary, under a temporary program, under lower requirements for the percentage of  affordable housing.
+A BILL FOR AN ACT
+Relating to modifications to an urban growth boundary; amending sections 55,  56 and 60, chapter
+110, Oregon Laws 2024.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ Section 55, chapter 110, Oregon Laws 2024, is amended to read:
+Sec. 55.  (1) As used in this section:
+(a) “Affordable units” means residential units described in subsection (3)(f)(A) , (4) or (5)  [ or
+(4)] of this section.
+(b) “Market rate units” means residential units other than affordable units.
+(2) Before adopting  an urban growth boundary amendment under section 50 , chapter 110,
+Oregon Laws 2024,  [ of this 2024 Act ] or petitioning  Metro under section 51 , chapter 110, Oregon
+Laws 2024 [ of this 2024 Act ], for  a site larger than 15 net residential acres, a city shall adopt a
+binding conceptual plan as an amendment to its comprehensive plan.
+(3) The conceptual plan must:
+(a) Establish the total net residential  acres within the site and must require for those residential
+areas:
+(A) A diversity  of housing types and sizes, including middle housing, accessible housing and
+other needed housing;
+(B) That the development will be on lands zoned for residential or mixed-use  residential uses;
+and
+(C) That the development will be built at net residential densities not less than:
+(i) Seventeen dwelling units per net residential acre if sited within the Metro urban  growth
+boundary;
+(ii) Ten units per net residential acre if sited in a city with a population of 30,000 or greater;
+(iii) Six units per net  residential acre if sited in a city with a population of 2,500 or greater and
+less than 30,000; or
+(iv) Five units per net residential acre if sited in a city with a population less than 2,500;
+(b) Designate within the site:
+(A) Recreation and open space lands; and
+(B) Lands for commercial uses, either separate or as a mixed use, that:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4108
+HB 3708
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(i) Primarily serve the immediate surrounding housing;
+(ii) Provide goods and services at a smaller scale than provided on typical lands zoned for
+commercial use; and
+(iii) Are provided at the minimum  amount necessary to support and integrate viable commercial
+and residential uses;
+(c) If the city has a  population of 5,000 or greater, include a transportation network for the site
+that provides  diverse transportation options, including walking, bicycling and transit use if public
+transit services are available, as well  as sufficient connectivity to existing and planned transporta-
+tion network facilities as shown in the local  government’s transportation system plan as defined in
+Land Conservation and Development Commission rules;
+(d) Demonstrate that protective measures will be  applied to the site consistent with the state-
+wide land use planning goals for:
+(A) Open spaces, scenic and historic areas or natural resources;
+(B) Air, water and land resources quality;
+(C) Areas subject to natural hazards;
+(D) The Willamette River Greenway;
+(E) Estuarine resources;
+(F) Coast shorelands; or
+(G) Beaches and dunes;
+(e) Include a binding agreement among the  city, each owner within the site and any other nec-
+essary public or private utility provider, local government or district, as defined in ORS  195.060, or
+combination of local governments and districts that  the site will be served with all necessary urban
+services as defined in ORS 195.065, or an equivalent assurance; and
+(f) Include requirements that ensure that:
+(A) At least 30 percent of the residential units are subject to  affordability restrictions, including
+but not limited to affordable housing covenants, as described in ORS 456.270 to 456.295,  that require
+for a period of not less than 60 years that the units be:
+(i) Available for rent, with or without  government assistance, by households with an income of
+80 percent or less of the area median income as defined in ORS 456.270; or
+(ii) Available for purchase, with or without government assistance,  by households with an in-
+come of 130 percent or less of the area median income;
+(B) The construction of  all affordable units has commenced before the city issues certificates
+of occupancy to the last 15 percent of market rate units;
+(C) All common areas and amenities are equally available to residents of affordable units  and
+of market rate units and properties designated  for affordable units are dispersed throughout the site;
+and
+(D) The requirement for affordable housing units is recorded before the building permits  are is-
+sued for any property within the site,  and the requirements contain financial penalties for noncom-
+pliance.
+(4) A city may require greater affordability requirements for residential units  than are required
+under subsection (3)(f)(A) of this section, provided that  the city significantly and proportionally off-
+sets development costs related to:
+(a) Permits or fees;
+(b) System development charges;
+(c) Property taxes; or
+[2]
+HB 3708
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+(d) Land acquisition and predevelopment costs.
+(5) Notwithstanding the requirement under subsection (3)(f)(A) of this  section that the
+affordability restrictions apply to at least 30 percent of residential units, a city  outside of
+Metro with a population of 20,000 or fewer may allow only 20 percent of  residential units to
+be subject to such affordability restrictions.
+SECTION 2.
+ Section 56, chapter 110, Oregon Laws 2024, is amended to read:
+Sec. 56.  (1) A city that intends to add 15 net residential acres  or less is not required to adopt
+a conceptual  plan under section 55 , chapter 110, Oregon Laws 2024,  [ of this 2024 Act ] if the city
+has entered into:
+(a) Enforceable and recordable agreements  with each landowner of a property within the site
+to ensure that  the site will comply with the affordability requirements described in section 55
+(3)(f), (4) or (5), chapter 110, Oregon Laws 2024  [ of this 2024 Act ]; and
+(b) A binding agreement with each owner within the site  and any other necessary public or
+private utility provider, local government or district, as defined in ORS  195.060, or combination of
+local governments and districts to ensure  that the site will be served with all necessary urban ser-
+vices as defined in ORS 195.065.
+(2) This section does not apply to a city within Metro.
+SECTION 3.
+ Section 60, chapter 110, Oregon Laws 2024, is amended to read:
+Sec. 60. (1) Sections 49 to [ 59] 54, chapter 110, Oregon Laws 2024,  [ of this 2024  Act ] are re-
+pealed on January 2, 2033.
+(2) Section 55, chapter 110, Oregon Laws 2024, as amended by section  1 of this 2025 Act,
+is repealed on January 2, 2033.
+(3) Section 56, chapter 110, Oregon  Laws 2024, as amended by section 2 of this 2025 Act,
+is repealed on January 2, 2033.
+(4) Sections 57 to 59, chapter 110, Oregon Laws 2024, are repealed on January 2, 2033.
+[3]

@@ -1,0 +1,182 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2205
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Behavioral Health and Health Care for Representative Rob Nosse)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The  Act changes the contract term to 10 years for contracts between OHA and CCOs.
+(Flesch Readability Score: 73.1).
+Extends the term of  a contract entered into between the Oregon Health Authority and a coor-
+dinated care organization to 10 years. Directs  the authority to review a coordinated care
+organization’s performance after the initial five years of a contract term.
+A BILL FOR AN ACT
+Relating to coordinated care organization contracts;  creating new provisions; and amending ORS
+414.590.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 414.590 is amended to read:
+414.590. (1) As used in this section:
+(a) “Benefit period” means a period of time, shorter than the five-year contract term, for which
+specific terms and conditions in a contract between a coordinated care organization and the  Oregon
+Health Authority are in effect.
+(b) “Renew” means an agreement by a coordinated care organization  to amend the terms or
+conditions of an existing contract for the next benefit period.
+(2) A contract entered  into between the authority and a coordinated care organization under
+ORS 414.572 (1):
+(a) Shall be for a term of [ five] 10 years;
+(b) Except as provided  in subsection [ (4)] (5) of this section, may not be amended more than once
+in each 12-month period; and
+(c) May be terminated  by the authority if a coordinated care organization fails to meet outcome
+and quality measures specified in the contract or is otherwise in breach of the contract.
+(3) After the initial five years of a  contract entered into between the authority and a
+coordinated care organization under subsection (2)(a)  of this section, the authority shall re-
+view the  coordinated care organization’s performance in a manner prescribed by the au-
+thority by rule, including a review of:
+(a) The coordinated care organization’s performance on quality measures  for the pre-
+ceding five years;
+(b) The coordinated care organization’s performance on external quality reviews under
+ORS 414.595 for the preceding five years; and
+(c) The extent to which  the coordinated care organization’s community advisory council
+has been afforded the opportunity for meaningful participation.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2409
+HB 2205
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(3)] (4) This section does not prohibit the authority from allowing  a coordinated care organ-
+ization a reasonable  amount of time in which to cure any failure to meet outcome and quality
+measures specified in the contract prior to the termination of the contract.
+[(4)] (5) A contract entered into between the authority and a coordinated care organization may
+be amended:
+(a) More than once in each 12-month period if:
+(A) The authority and the coordinated care organization mutually agree to amend the  contract;
+or
+(B) Amendments are necessitated by changes in federal or state law.
+(b) Once within the first eight months  of the effective date of the contract if needed to adjust
+the global budget of  a coordinated care organization, retroactive to the beginning of the calendar
+year, to take into account changes in the membership  of the coordinated care organization or the
+health status of the coordinated care organization’s members.
+[(5)] (6) Except as provided in subsection [ (8)] (9) of this section,  the authority must give a co-
+ordinated care organization  at least 60 days’ advance notice of any amendments the authority pro-
+poses to existing contracts between the authority and the coordinated care organization.
+[(6)] (7) Except as provided in subsection [ (4)(b)] (5)(b) of  this section, an amendment to a con-
+tract may apply retroactively only if:
+(a) The amendment does not  result in a claim by the authority for the recovery of amounts paid
+by the authority to the coordinated care organization prior to the date of the amendment; or
+(b) The Centers for Medicare and  Medicaid Services notifies the authority, in writing, that the
+amendment is a condition for approval of the contract by the Centers for Medicare and  Medicaid
+Services.
+[(7)] (8) If an amendment to a contract  under subsection [ (6)(b)] (7)(b) of this section or other
+circumstances arise that result in a claim by the authority for the recovery of amounts previously
+paid to a coordinated care organization by the authority, the authority shall ensure that the  recov-
+ery does not have a material adverse effect on the coordinated care organization’s  ability to main-
+tain the required minimum amounts of risk-based capital.
+[(8)] (9) No later than 134 days prior to the end of a benefit period, the  authority shall provide
+to each coordinated care organization notice of the proposed changes  to the terms and conditions
+of a contract, as will be submitted to the Centers for  Medicare and Medicaid Services for approval,
+for the next benefit period.
+[(9)] (10) A coordinated care organization must  notify the authority of the coordinated care
+organization’s refusal to renew a contract with the authority no later than 14 days  after the au-
+thority provides the notice described in subsection  [ (8)] (9) of this section. Except as provided in
+subsections [ (10)] (11) and [ (11)] (12) of  this section, a refusal to renew terminates the contract at
+the end of the benefit period.
+[(10)] (11) The authority may require a contract to remain in force  into the next benefit period
+and be amended as proposed  by the authority until 90 days after the coordinated care organization
+has, in accordance with criteria prescribed by the authority:
+(a) Notified each of its members and contracted providers of the termination of the contract;
+(b) Provided to the authority a plan to  transition its members to another coordinated care or-
+ganization; and
+(c) Provided to the authority a plan for closing out its coordinated care organization business.
+[(11)] (12) The authority may waive compliance with the deadlines in subsections [ (9)] (10) and
+[2]
+HB 2205
+1
+2
+3
+4
+5
+6
+7
+[(10)] (11) of this section if the Director of the Oregon Health Authority finds that the waiver of  the
+deadlines is consistent with the effective and efficient administration of the  medical assistance pro-
+gram and the protection of medical assistance recipients.
+SECTION 2.
+The amendments to ORS 414.590 by section 1 of this 2025 Act  apply to con-
+tracts between a coordinated care organization and  the Oregon Health Authority entered
+into, amended or renewed on or after the effective date of this 2025 Act.
+[3]

@@ -1,0 +1,433 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2024r1-hb4116
+title: 'HB 4116 (2024R1): Provides that forensic scientists and evidence technicians employed by the Department
+  of State Police qualify as police officers under the Public Employees Retirement System.'
+doc_type: dataset_doc
+citation: 2024 Regular Session House Bill 4116
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4116/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: c2e73a0610230f81c5ced32e38438b842b088708b845604a43dd31da1674876b
+snapshot_id: measure-2024r1-hb4116-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 181A.355
+  - ORS 181A.540
+  - ORS 238.005
+  - ORS 238.008
+  - ORS 238.015
+  - ORS 238.035
+  - ORS 238.095
+  - ORS 238.225
+  - ORS 238.250
+  - ORS 238.260
+  - ORS 238.280
+  - ORS 238.430
+  - ORS 238.442
+  - ORS 238A.330
+  - ORS 238A.335
+  - ORS 240.190
+  - ORS 243.726
+  - ORS 276.021
+  - ORS 332.531
+  - ORS 341.005
+  - ORS 341.556
+  - ORS 350.370
+  - ORS 352.002
+  - ORS 352.121
+  - ORS 352.232
+  - ORS 353.270
+  - ORS 419A.050
+  - ORS 419A.052
+  - ORS 420.005
+  - ORS 421.005
+  - ORS 423.549
+  - ORS 443.400
+  - ORS 461.110
+  - ORS 477.064
+  - ORS 652.190
+  - ORS 824.020
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2024r1
+- hb
+session_key: 2024R1
+measure_prefix: HB
+measure_number: 4116
+prefix_meaning: House Bill
+catch_line: Provides that forensic scientists and evidence technicians employed by the Department of State
+  Police qualify as police officers under the Public Employees Retirement System.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act makes some forensic science workers who work for OSP police officers\
+  \ under PERS. (Flesch Readability Score: 63.6). \n\tProvides that forensic scientists and evidence technicians\
+  \ employed by the Department of State Police qualify as police officers under the Public Employees Retirement\
+  \ System."
+relating_to: Relating to police officers under the Public Employees Retirement System.
+relating_to_full: Relating to police officers under the Public Employees Retirement System; creating new
+  provisions; and amending ORS 238.005.
+at_the_request_of: null
+lc_number: 126
+measure_created_date: '2024-01-14T10:05:32'
+measure_modified_date: '2024-02-05T12:19:15'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 19967
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 181A.355
+  - ORS 181A.540
+  - ORS 238.005
+  - ORS 238.008
+  - ORS 238.015
+  - ORS 238.035
+  - ORS 238.095
+  - ORS 238.225
+  - ORS 238.250
+  - ORS 238.260
+  - ORS 238.280
+  - ORS 238.430
+  - ORS 238.442
+  - ORS 238A.330
+  - ORS 238A.335
+  - ORS 240.190
+  - ORS 243.726
+  - ORS 276.021
+  - ORS 332.531
+  - ORS 341.005
+  - ORS 341.556
+  - ORS 350.370
+  - ORS 352.002
+  - ORS 352.121
+  - ORS 352.232
+  - ORS 353.270
+  - ORS 419A.050
+  - ORS 419A.052
+  - ORS 420.005
+  - ORS 421.005
+  - ORS 423.549
+  - ORS 443.400
+  - ORS 461.110
+  - ORS 477.064
+  - ORS 652.190
+  - ORS 824.020
+  from_relating_to_full:
+  - ORS 238.005
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4116>.
+
+# HB 4116 — 2024 Regular Session (2024R1)
+
+## At a glance
+
+- **Measure:** House Bill 4116, 2024 Regular Session (2024R1)
+- **LC number:** 126
+- **Created:** 2024-01-14T10:05:32
+- **Metadata last modified (upstream):** 2024-02-05T12:19:15
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 19967 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4116/Introduced>.
+
+## Summary
+
+**Catchline:** Provides that forensic scientists and evidence technicians employed by the Department of State Police qualify as police officers under the Public Employees Retirement System.
+
+**Relating to:** Relating to police officers under the Public Employees Retirement System.
+
+Digest: The Act makes some forensic science workers who work for OSP police officers under PERS. (Flesch Readability Score: 63.6). 
+ Provides that forensic scientists and evidence technicians employed by the Department of State Police qualify as police officers under the Public Employees Retirement System.
+
+**RelatingToFull (verbatim upstream field):** Relating to police officers under the Public Employees Retirement System; creating new provisions; and amending ORS 238.005.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4116
+Sponsored by  Representatives SMITH G, HELFRICH, Senator PATTERSON, Representative EVANS, Senator
+GORSEK; Representatives JAVADI, LEVY B, LIVELY, MANNIX, MCINTIRE,  NGUYEN D, OSBORNE,
+SCHARF, TRAN, WRIGHT, Senator SMITH DB (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes some forensic science workers who work  for OSP police officers under
+PERS. (Flesch Readability Score: 63.6).
+Provides that forensic scientists and evidence technicians employed by the Department  of State
+Police qualify as police officers under the Public Employees Retirement System.
+A BILL FOR AN ACT
+Relating to  police officers under the Public Employees Retirement System; creating new provisions;
+and amending ORS 238.005.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 238.005 is amended to read:
+238.005. For purposes of this chapter:
+(1) “Active member” means a member who is presently employed by a participating public  em-
+ployer in a qualifying position and who has  completed the six-month period of service required by
+ORS 238.015.
+(2) “Annuity” means payments for life derived from  contributions made by a member as provided
+in this chapter.
+(3) “Board” means the Public Employees Retirement Board.
+(4) “Calendar year” means 12 calendar months commencing on January 1  and ending on De-
+cember 31 following.
+(5) “Continuous service” means  service not interrupted for more than five years, except that
+such continuous service shall be computed without regard to interruptions in the case of:
+(a) An employee who had returned to the service  of the employer as of January 1, 1945, and
+who remained in that employment until having established  membership in the Public Employees
+Retirement System.
+(b) An employee who was in  the armed services on January 1, 1945, and returned to the service
+of the employer within one year of the date of being otherwise than  dishonorably discharged and
+remained in that employment until  having established membership in the Public Employees Retire-
+ment System.
+(6) “Creditable service” means any period of time during which an active member is being  paid
+a salary by a participating public employer and for  which benefits under this chapter are funded by
+employer contributions and earnings on the fund. For purposes of computing years  of “creditable
+service,” full months and major fractions of a month shall be considered to  be one-twelfth of a year
+and shall be added to all full years. “Creditable service” includes all retirement credit  received by
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 126
+a member.
+(7) “Earliest service retirement age” means the age attained by a member  when the member
+could first make application for retirement under the provisions of ORS 238.280.
+(8) “Employee” means  a person who performs services for a participating public employer, in-
+cluding persons considered employees of a participating public employer under  26 U.S.C. 3121(d)(2),
+as in effect on December 31, 2019, and public officers. “Employee” does not include:
+(a) Persons engaged as independent contractors.
+(b) Seasonal, emergency or casual workers whose periods of employment with any  public em-
+ployer or public employers do not total 600 hours in any calendar year.
+(c) Persons provided sheltered  employment or made-work by a public employer in an employment
+or industries program maintained for the benefit of such persons.
+(d) Persons employed and paid from federal funds received under  a federal program intended
+primarily to alleviate unemployment. However, any such person shall be considered  an “employee”
+if not otherwise excluded by paragraphs (a) to (c) of this subsection and  the public employer elects
+to have the person so considered by an irrevocable written notice to the board.
+(e) Persons who are employees of a railroad,  as defined in ORS 824.020, and who, as such em-
+ployees, are included in a retirement plan under  federal railroad retirement statutes. This paragraph
+shall be deemed to have been in effect since the inception of the system.
+(f) Persons employed in positions classified as post-doctoral scholar positions  by a public uni-
+versity listed in ORS 352.002, or by the Oregon Health and Science University, under ORS 350.370.
+(9) “Final average salary” means whichever of the following is greater:
+(a) The average salary per calendar year paid by one or  more participating public employers to
+an employee who is an active member of the system in three of the  calendar years of membership
+before the effective date of retirement of the employee,  in which three years the employee was paid
+the highest salary. The three calendar years in which the  employee was paid the largest total salary
+may include calendar years in which the employee was employed for less than a full calendar  year.
+If the number of calendar years  of active membership before the effective date of retirement of the
+employee is three or fewer, the final average salary for the employee is the average salary per cal-
+endar year paid by one or more participating public employers to the employee in  all of those years,
+without regard to whether the employee was employed for the full calendar year.
+(b) One-third of the total salary paid by a  participating public employer to an employee who is
+an active member of the system in the  last 36 calendar months of active membership before the ef-
+fective date of retirement of the employee.
+(10) “Firefighter” does not include a volunteer firefighter, but does include:
+(a) The State Fire Marshal, the chief deputy fire marshal and deputy state fire marshals;
+(b) An employee of the State Fire Marshal whose  primary duties include fire investigation, fire
+prevention, fire safety, fire control or fire suppression;
+(c) An employee of the State Forestry Department who is certified by  the State Forester as a
+professional wildland firefighter and whose  primary duties include the abatement of uncontrolled
+fires as described in ORS 477.064; and
+(d) An employee  of the Oregon Military Department whose primary duties include fighting
+structural, aircraft, wildland or other fires.
+(11) “Fiscal year” means 12 calendar months commencing on July 1  and ending on June 30 fol-
+lowing.
+(12) “Fund” means the Public Employees Retirement Fund.
+(13) “Inactive member” means a member who is not employed  in a qualifying position, whose
+membership has not been terminated in the manner described by ORS  238.095 and who is not retired
+for service or disability.
+(14) “Institution of higher education” means a public university  listed in ORS 352.002, the
+Oregon Health and Science University and a community college, as defined in ORS 341.005.
+(15) “Member” means a person who  has established membership in the system and whose mem-
+bership has not been terminated as described in  ORS 238.095. “Member” includes active, inactive
+and retired members.
+(16) “Member account” means the regular account and the variable account.
+(17) “Normal retirement age” means:
+(a) For a person who establishes membership  in the system before January 1, 1996, as described
+in ORS 238.430, 55  years of age if the employee retires at that age as a police officer or firefighter
+or 58 years of age if the employee retires at that age as other than a police officer or firefighter.
+(b) For  a person who establishes membership in the system on or after January 1, 1996, as de-
+scribed in ORS 238.430, 55 years of age if  the employee retires at that age as a police officer or
+firefighter or 60 years of  age if the employee retires at that age as other than a police officer or
+firefighter.
+(18) “Pension” means  annual payments for life derived from contributions by one or more public
+employers.
+(19) “Police officer” includes:
+(a) Employees of institutions defined in  ORS 421.005 as Department of Corrections institutions
+whose duties, as assigned by the Director of the Department  of Corrections, include the custody of
+persons committed to the  custody of or transferred to the Department of Corrections and employees
+of the Department of Corrections who were classified as police officers on or before July  27, 1989,
+whether or not such classification was authorized by law.
+(b) Employees of  the Department of State Police who are classified as police officers , forensic
+scientists or evidence technicians  by the Superintendent of State Police.
+(c) Employees of the Oregon Liquor  and Cannabis Commission who are classified as regulatory
+specialists by the administrator of the commission.
+(d) Sheriffs and those deputy sheriffs or other employees of a  sheriff whose duties, as classified
+by the sheriff, are the regular duties of police officers or corrections officers.
+(e) Police chiefs  and police personnel of a city who are classified as police officers by the
+council or other governing body of the city.
+(f) Police officers who are commissioned by a university under ORS 352.121 or 353.125 and who
+are classified as police officers by the university.
+(g) Parole and probation officers employed by the  Department of Corrections, parole and pro-
+bation officers who are transferred to county employment under ORS 423.549 and adult  parole and
+probation officers, as defined in ORS  181A.355, who are classified as police officers for the purposes
+of this chapter by the county governing body. If a county classifies adult  parole and probation offi-
+cers as police  officers for the purposes of this chapter, and the employees so classified are repres-
+ented by a labor organization, any proposal by the county to change  that classification or to cease
+to classify adult parole  and probation officers as police officers for the purposes of this chapter is
+a mandatory subject of bargaining.
+(h) Police officers appointed under ORS 276.021 or 276.023.
+(i) Employees of the Port of Portland who are classified as airport police by the  Board of Com-
+missioners of the Port of Portland.
+(j) Employees of the  State Department of Agriculture who are classified as livestock police of-
+ficers by the Director of Agriculture.
+(k) Employees of the Department of Public Safety Standards and Training who are classified  by
+the department as other than secretarial or clerical personnel.
+(L) Investigators of the Criminal Justice Division of the Department of Justice.
+(m) Corrections officers as defined in ORS 181A.355.
+(n) Employees of the Oregon State Lottery Commission who are classified by the  Director of the
+Oregon State Lottery as enforcement agents pursuant to ORS 461.110.
+(o) The Director of the Department of Corrections.
+(p) An employee who for seven consecutive years has been classified as  a police officer as de-
+fined by this section, and who is  employed or transferred by the Department of Corrections to fill
+a position designated  by the Director of the Department of Corrections as being eligible for police
+officer  status.
+(q) An employee of the Department of Corrections classified as a police officer on or  prior to
+July 27,  1989, whether or not that classification was authorized by law, as long as the employee
+remains in the position held  on July 27, 1989. The initial classification of an employee under a sys-
+tem implemented pursuant to ORS 240.190 does not affect police officer status.
+(r) Employees of a school district who  are appointed and duly sworn members of a law
+enforcement agency of the district as provided in ORS 332.531 or  otherwise employed full-time as
+police officers commissioned by the district.
+(s) Employees at youth  correction facilities and juvenile detention facilities under ORS 419A.050,
+419A.052 and 420.005 to 420.915 who are required to  hold valid Oregon teaching licenses and who
+have supervisory, control or teaching responsibilities over juveniles committed to the custody of the
+Department of Corrections or the Oregon Youth Authority.
+(t) Employees at youth correction facilities as defined in ORS  420.005 whose primary job de-
+scription involves the custody, control, treatment, investigation or supervision  of juveniles placed
+in such facilities.
+(u) Employees of the Oregon Youth  Authority who are classified as juvenile parole and pro-
+bation officers.
+(v) Employees of the Department of Human Services who are prohibited from striking under ORS
+243.726 and whose duties include the care of residents of residential  facilities, as defined in ORS
+443.400, that house individuals with intellectual or developmental disabilities.
+(w) Employees  appointed as judicial marshals under ORS 1.177 who are certified under ORS
+181A.540.
+(x) Certified parole and probation officers employed by the  State Board of Parole and Post-
+Prison Supervision.
+(y) Deputy district attorneys.
+(20) “Prior service credit” means credit provided  under ORS 238.442 or under ORS 238.225 (2)
+to (6) (1999 Edition).
+(21) “Public employer” means the state, one of its agencies or any  city, county, municipal or
+public corporation, political subdivision of the state or  instrumentality thereof, or an agency created
+by one or more such governmental organizations to provide governmental services. For purposes  of
+this chapter, such agency created by one or  more governmental organizations is a governmental
+instrumentality and a legal entity with power to enter into contracts, hold property  and sue and be
+sued.
+(22) “Qualifying position” means one or more jobs with one or more participating  public em-
+ployers in which an employee performs 600 or more hours of  service in a full calendar year, or
+would perform 600  or more hours of service if the employee were employed for the full calendar
+year, excluding any service in a job for which a participating public employer does not provide
+benefits under this chapter pursuant to an application made under ORS 238.035.
+(23) “Regular account” means the account established  for each active and inactive member un-
+der ORS 238.250.
+(24) “Retired member” means a member who is retired for service or disability.
+(25) “Retirement credit” means a period of time that is  treated as creditable service for the
+purposes of this chapter.
+(26)(a) “Salary” means the remuneration paid an employee in cash out of the funds of a  public
+employer in return for services to the employer, plus the monetary value, as determined by  the
+Public Employees Retirement Board, of whatever living quarters, board, lodging,  fuel, laundry and
+other advantages the employer furnishes the employee in return for services.
+(b) “Salary” includes but is not limited to:
+(A) Payments of employee  and employer money into a deferred compensation plan, which are
+deemed salary paid in each month of deferral;
+(B) The amount of participation in a tax-sheltered or deferred annuity, which is deemed  salary
+paid in each month of participation;
+(C) Retroactive payments described in ORS 238.008;
+(D) Wages of a deceased member paid to a surviving spouse or  dependent children under ORS
+652.190; and
+(E) The full amount of required  employee contributions under ORS 238A.330 that are paid by the
+employer on behalf  of its employees under ORS 238A.335 (2)(b), solely for the purpose of computing
+a member’s final average salary, and not for any other purpose.
+(c) “Salary” or “other advantages” does not include:
+(A) Travel or  any other expenses incidental to employer’s business which is reimbursed by the
+employer;
+(B) Payments  for insurance coverage by an employer on behalf of employee or employee and
+dependents, for which the employee has no cash option;
+(C) Payments made on account of an employee’s death;
+(D) Any lump sum payment for accumulated unused sick leave;
+(E) Any accelerated payment of an employment contract for a future period or an advance
+against future wages;
+(F) Any retirement incentive, retirement severance pay, retirement bonus or retirement
+gratuitous payment;
+(G) Payments for  periods of leave of absence after the date the employer and employee have
+agreed that no future services qualifying pursuant to ORS  238.015 (3) will be performed, except for
+sick leave and vacation;
+(H) Payments for instructional services rendered to public universities listed in  ORS 352.002 or
+the Oregon  Health and Science University when such services are in excess of full-time employment
+subject to this chapter. A person employed under a contract  for less than 12 months is subject to
+this subparagraph only for the months to which the contract pertains;
+(I) Payments made by an employer for insurance coverage provided to a domestic partner  of an
+employee;
+(J) Compensation described and authorized  under ORS 341.556 that is not paid by the community
+college employing the faculty member;
+(K) Compensation described and authorized under ORS 352.232 that is not  paid by the public
+university employing the officer or employee;
+(L) Compensation described and authorized under ORS 353.270 that is not paid by Oregon Health
+and Science University; or
+(M) For years beginning on or after  January 1, 2020, any amount in excess of $195,000 for a
+calendar  year.  If any period over which salary is determined is less than 12 months, the $195,000
+limitation for that period shall be multiplied by a fraction, the numerator of which is the number
+of months  in the determination period and the denominator of which is 12. On January 1 of each
+year, the  board shall adjust the dollar limit provided by this subparagraph to reflect any percentage
+changes in the Consumer Price Index for  All Urban Consumers, West Region (All Items), as pub-
+lished by the Bureau of Labor Statistics of the United States Department of Labor.
+(27) “School year” means the period beginning July 1 and ending June 30 next following.
+(28) “System” means the Public Employees Retirement System.
+(29) “Variable account”  means the account established for a member who participates in the
+Variable Annuity Account under ORS 238.260.
+(30) “Vested” means being an active member of the system in each of five calendar years.
+(31) “Volunteer firefighter” means a firefighter whose position normally  requires less than 600
+hours of service per year.
+SECTION 2.
+(1) The amendments to ORS  238.005 by section 1 of this 2024 Act apply only
+to a person who:
+(a) Is employed  as a forensic scientist or evidence technician by the Department of State
+Police on the effective date of this 2024 Act; or
+(b) Becomes employed as a forensic scientist  or evidence technician by the Department
+of State Police after the effective date of this 2024 Act.
+(2) A person who is employed as  a forensic scientist or evidence technician by the De-
+partment of State Police on or after the effective date of this 2024  Act is entitled to service
+under the Public Employees Retirement System as a  police officer only for service performed
+as a forensic scientist or evidence technician for the Department of State Police on or after
+the effective date of this 2024 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 238.005
+- From bill text (Introduced version): ORS 181A.355, ORS 181A.540, ORS 238.005, ORS 238.008, ORS 238.015, ORS 238.035, ORS 238.095, ORS 238.225, ORS 238.250, ORS 238.260, ORS 238.280, ORS 238.430, ORS 238.442, ORS 238A.330, ORS 238A.335, ORS 240.190, ORS 243.726, ORS 276.021, ORS 332.531, ORS 341.005, ORS 341.556, ORS 350.370, ORS 352.002, ORS 352.121, ORS 352.232, ORS 353.270, ORS 419A.050, ORS 419A.052, ORS 420.005, ORS 421.005, ORS 423.549, ORS 443.400, ORS 461.110, ORS 477.064, ORS 652.190, ORS 824.020
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `c2e73a0610230f81c5ced32e38438b842b088708b845604a43dd31da1674876b` (snapshot `_meta/snapshots/measure-2024r1-hb4116-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4116/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4116> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

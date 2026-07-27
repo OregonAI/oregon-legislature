@@ -1,0 +1,730 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2238
+title: 'HB 2238 (2025R1): Extends the term of a contract entered into between the Oregon Health Authority
+  and a coordinated care organization to 10 years and allows the authority to reevaluate a contract after
+  the initial five years.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2238
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2238/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 04ecee2c411ce1623c458528bf4d4266604210fbc4a607dd14873d24cdd621a6
+snapshot_id: measure-2025r1-hb2238-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 192.245
+  - ORS 192.610
+  - ORS 20.075
+  - ORS 292.495
+  - ORS 413.006
+  - ORS 413.011
+  - ORS 413.017
+  - ORS 413.022
+  - ORS 413.032
+  - ORS 413.072
+  - ORS 414.025
+  - ORS 414.065
+  - ORS 414.570
+  - ORS 414.572
+  - ORS 414.590
+  - ORS 414.609
+  - ORS 414.611
+  - ORS 414.690
+  - ORS 414.769
+  - ORS 418.976
+  - ORS 418.978
+  - ORS 430.073
+  - ORS 430.220
+  - ORS 430.389
+  - ORS 741.340
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2238
+prefix_meaning: House Bill
+catch_line: Extends the term of a contract entered into between the Oregon Health Authority and a coordinated
+  care organization to 10 years and allows the authority to reevaluate a contract after the initial five
+  years.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act makes changes to Oregon's CCO model. (Flesch Readability Score: 71.8).\
+  \ \n\tExtends the term of a contract entered into between the Oregon Health Authority and a coordinated\
+  \ care organization to 10 years and allows the authority to reevaluate a contract after the initial\
+  \ five years. Imposes new restrictions on the authority's ability to amend coordinated care organization\
+  \ contracts. Requires that certain conditions be met before a new or existing coordinated care organization\
+  \ may serve an area that is already served by one or more coordinated care organizations. Directs the\
+  \ authority to study barriers to a coordinated care organization's ability to operate within a global\
+  \ budget. Directs the authority to establish a minimum medical loss ratio for coordinated care organizations.\
+  \ Applies health outcome and quality measure requirements to fee-for-service medical assistance providers.\
+  \ \n\tDeclares an emergency, effective on passage."
+relating_to: Relating to coordinated care organizations; declaring an emergency.
+relating_to_full: Relating to coordinated care organizations; creating new provisions; amending ORS 413.011,
+  413.017, 413.022, 414.590, 414.609, 414.611 and 414.769; and declaring an emergency.
+at_the_request_of: null
+lc_number: 1538
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-01-22T16:28:27'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 42369
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 192.245
+  - ORS 192.610
+  - ORS 20.075
+  - ORS 292.495
+  - ORS 413.006
+  - ORS 413.011
+  - ORS 413.017
+  - ORS 413.022
+  - ORS 413.032
+  - ORS 413.072
+  - ORS 414.025
+  - ORS 414.065
+  - ORS 414.570
+  - ORS 414.572
+  - ORS 414.590
+  - ORS 414.609
+  - ORS 414.611
+  - ORS 414.690
+  - ORS 414.769
+  - ORS 418.976
+  - ORS 418.978
+  - ORS 430.073
+  - ORS 430.220
+  - ORS 430.389
+  - ORS 741.340
+  from_relating_to_full:
+  - ORS 413.011
+  - ORS 413.017
+  - ORS 413.022
+  - ORS 414.590
+  - ORS 414.609
+  - ORS 414.611
+  - ORS 414.769
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2238>.
+
+# HB 2238 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2238, 2025 Regular Session (2025R1)
+- **LC number:** 1538
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-01-22T16:28:27
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 42369 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2238/Introduced>.
+
+## Summary
+
+**Catchline:** Extends the term of a contract entered into between the Oregon Health Authority and a coordinated care organization to 10 years and allows the authority to reevaluate a contract after the initial five years.
+
+**Relating to:** Relating to coordinated care organizations; declaring an emergency.
+
+Digest: The Act makes changes to Oregon's CCO model. (Flesch Readability Score: 71.8). 
+ Extends the term of a contract entered into between the Oregon Health Authority and a coordinated care organization to 10 years and allows the authority to reevaluate a contract after the initial five years. Imposes new restrictions on the authority's ability to amend coordinated care organization contracts. Requires that certain conditions be met before a new or existing coordinated care organization may serve an area that is already served by one or more coordinated care organizations. Directs the authority to study barriers to a coordinated care organization's ability to operate within a global budget. Directs the authority to establish a minimum medical loss ratio for coordinated care organizations. Applies health outcome and quality measure requirements to fee-for-service medical assistance providers. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to coordinated care organizations; creating new provisions; amending ORS 413.011, 413.017, 413.022, 414.590, 414.609, 414.611 and 414.769; and declaring an emergency.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2238
+Sponsored by Representative NOSSE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes changes to Oregon’s CCO model. (Flesch Readability Score: 71.8).
+Extends the term of  a contract entered into between the Oregon Health Authority and a coor-
+dinated care organization to 10  years and allows the authority to reevaluate a contract after the
+initial five years. Imposes new restrictions on the authority’s  ability to amend coordinated care or-
+ganization contracts. Requires that certain conditions be met before a new or existing  coordinated
+care  organization  may serve an area that is already served by one or more coordinated care or-
+ganizations. Directs the authority to study barriers to a coordinated care organization’s  ability to
+operate within a global budget. Directs the authority to establish a  minimum medical loss ratio for
+coordinated care organizations. Applies health outcome  and quality measure requirements to fee-
+for-service medical assistance providers.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to coordinated care organizations; creating new provisions; amending ORS 413.011, 413.017,
+413.022, 414.590, 414.609, 414.611 and 414.769; and declaring an emergency.
+Whereas Oregonians will benefit from the  stability associated with longer base contracts for
+coordinated care organizations that are changed less frequently; and
+Whereas stakeholders in the coordinated care organization model value existing local relation-
+ships and wish to build upon them; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+COORDINATED CARE ORGANIZATION CONTRACTS
+SECTION 1.
+ ORS 414.590 is amended to read:
+414.590. (1) As used in this section:
+(a) “Benefit  period” means a period of time, shorter than the [ five-year] 10-year contract term,
+for which specific terms and conditions in a contract between a  coordinated care organization and
+the Oregon Health Authority are in effect.
+(b) “Good standing” means the status of a coordinated care organization if:
+(A) The coordinated care organization  has met the minimum financial requirements un-
+der ORS 414.572 (1)(b);
+(B) The coordinated care organization has not materially  breached its contract with the
+authority under this section; and
+(C) The authority has not determined that the health or welfare of the  members of the
+coordinated care organization is in jeopardy.
+[(b)] (c) “Renew” means [ an agreement by a coordinated care organization to amend the terms or
+conditions of an existing contract for the next benefit period ] an agreement between  a coordinated
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1538
+care organization and the authority to enter into a contract for a new 10-year term .
+(2) A contract entered into between the authority and a coordinated  care organization under
+ORS 414.572 (1):
+(a) Shall be for a term of [ five] 10 years;
+(b) Except as provided  in subsection [ (4)] (5) of this section, may not be amended more than once
+in each 12-month period; and
+(c) May be terminated or not renewed  by the  authority [ if a coordinated care organization fails
+to meet outcome and quality measures specified  in  the contract or is otherwise in breach  of the
+contract.]:
+(A) If the authority determines that the  health or welfare of the members of the coor-
+dinated care organization is in jeopardy;
+(B) If, within the current term of the contract and for reasons within the control of  the
+coordinated care organization, the coordinated care organization:
+(i) Fails to meet outcome and quality measures specified in the contract;
+(ii) Fails to meet the minimum financial requirements under ORS 414.572 (1)(b); or
+(iii) Is in material breach of the contract; or
+(C) As provided in subsection (4) of this section.
+[(3) This section does not prohibit  the authority from allowing a coordinated care organization a
+reasonable amount of  time in which to cure any failure to meet outcome and quality measures specified
+in the contract prior to the termination of the contract. ]
+(3)(a) No later than 15 months before the expiration of a contract  entered into between
+the authority and a coordinated care organization, the authority and the coordinated  care
+organization shall provide notice, in the form and manner prescribed by the authority,  of the
+intent of the authority or the coordinated care organization to renew or not renew  the con-
+tract.
+(b) If the authority provides notice of intent not to renew a contract under  this sub-
+section, the authority shall provide:
+(A) Written notice, at least six months before the expiration of the contract term, of the
+reasons for the decision;
+(B) A reasonable amount  of time for the coordinated care organization to cure any fail-
+ure to meet outcome and quality measures specified in the contract; and
+(C) An opportunity for a contested case hearing under ORS chapter 183.
+(4)(a) After the initial five years of a contract term, the authority may reevaluate a
+contract entered into between the authority and a coordinated care organization if the  co-
+ordinated care organization is not in good standing.
+(b) As part of a reevaluation under  this subsection, the authority shall develop a cor-
+rective action plan that provides the coordinated care organization at least  six months to
+cure the reason that the coordinated care organization is not in good standing;
+(c) If a coordinated care organization fails to cure the reason that the  coordinated care
+organization is not in good standing, the authority may:
+(A) Modify the  coordinated care organization’s service area if another coordinated care
+organization has requested entry into the service area and a service area  entry assessment
+has been conducted in accordance with section 3 of this 2025 Act; or
+(B) Terminate the contract between the authority and the coordinated  care organization
+and provide the coordinated care organization written notice of  the reasons for the termi-
+nation.
+[(4)] (5) A contract entered into between the authority and a coordinated care organization may
+be amended:
+(a) More than once in each 12-month period if:
+(A) The authority and the coordinated care organization mutually agree to amend the  contract;
+or
+(B) Amendments are necessitated by changes in federal or state law.
+(b) Once within the first eight months  of the effective date of the contract if needed to adjust
+the global budget of  a coordinated care organization, retroactive to the beginning of the calendar
+year, to take into account changes in the membership  of the coordinated care organization or the
+health status of the coordinated care organization’s members.
+[(5) Except as provided in subsection (8) of  this section, the authority must give a coordinated care
+organization at least 60 days’ advance notice of any amendments the  authority proposes to existing
+contracts between the authority and the coordinated care organization. ]
+(6) The process for amending contracts under this section must be transparent and  must
+include:
+(a) An analysis of  the impact of the amendments on the Oregon Integrated and Coordi-
+nated Health Care Delivery System established by ORS 414.570;
+(b) Except as  provided in subsection (10) of this section, 45 days’ notice to a coordinated
+care organization and the opportunity  for the coordinated care organization to comment on
+the proposed changes; and
+(c) The date on which the proposed changes are scheduled to take effect.
+(7) The  authority shall issue the final draft of any guidance on a proposed change to the
+terms and conditions of a contract entered into between the authority and a coordinated care
+organization no less than  60 days before the date on which the proposed change takes effect.
+[(6)] (8) Except as provided in subsection [ (4)(b)] (5)(b) of this section, an amendment to a con-
+tract may apply retroactively only if:
+(a) The amendment does not  result in a claim by the authority for the recovery of amounts paid
+by the authority to the coordinated care organization prior to the date of the amendment; or
+(b) The Centers for Medicare and Medicaid Services notifies the  authority, in writing, that the
+amendment is  a condition for approval of the contract by the Centers for Medicare and Medicaid
+Services.
+[(7)] (9) If an amendment to a contract under subsection  [ (6)(b)] (8)(b) of this section or other
+circumstances arise that result in a claim by the authority for the recovery of amounts previously
+paid to  a coordinated care organization by the authority, the authority shall ensure that the recov-
+ery does not have  a material adverse effect on the coordinated care organization’s ability to main-
+tain the required minimum amounts of risk-based capital.
+[(8)] (10) No later than 134  days prior to the end of a benefit period, the authority shall provide
+to each coordinated care organization notice of the proposed changes  to the terms and conditions
+of a contract, as will be submitted to the Centers for  Medicare and Medicaid Services for approval,
+for the next benefit period.
+[(9)] (11) A coordinated care organization must  notify the authority of the coordinated care
+organization’s refusal to [ renew] amend a contract with the authority to include the changes
+proposed under subsection (10) of this section  no later  than 14 days after the authority provides
+the notice described in subsection [ (8)] (10) of this  section. Except as provided in subsections [ (10)]
+(12) and [ (11)] (13) of this section, a refusal to [ renew] amend terminates the contract  at the end
+of the benefit period.
+[(10)] (12) The authority may require a contract to remain in force  into the next benefit period
+and be amended as proposed  by the authority until 90 days after the coordinated care organization
+has, in accordance with criteria prescribed by the authority:
+(a) Notified each of its members and contracted providers of the termination of the contract;
+(b) Provided to the authority a plan to  transition its members to another coordinated care or-
+ganization; and
+(c) Provided to the authority a plan for closing out its coordinated care organization business.
+[(11)] (13) The authority may waive compliance with the deadlines in subsections [ (9)] (11) and
+[(10)] (12) of this section if the Director of the Oregon Health Authority finds that the waiver of  the
+deadlines is consistent with the effective and efficient administration of the  medical assistance pro-
+gram and the protection of medical assistance recipients.
+SERVICE AREA CHANGE
+SECTION 2.
+Section 3 of this 2025 Act is added to and made a part of ORS chapter 414.
+SECTION 3. (1) After the initial five years of a contract entered into  between the Oregon
+Health Authority and a  coordinated care organization, the coordinated care organization may
+request permission from the authority to expand into a  new service area that is already
+served by one or more coordinated care organizations. The authority shall  approve the re-
+quest if the authority determines that:
+(a) The coordinated care organizations  serving the area have failed to meet quality
+measures relating to access to care for at least five of the last 20 quarters;
+(b) The coordinated care organizations serving the area have failed to meet  the network
+adequacy standards prescribed by ORS 414.609; or
+(c) The  authority determines that adding another coordinated care organization to an
+existing service area is in  the best interest of the service area’s members and issues a
+written report explaining the reasons for the determination.
+(2) If one of the conditions under subsection (1) of this section is  met, the authority shall
+conduct a service area entry assessment to determine whether to allow a new or  existing
+coordinated care organization to begin serving the area. The service area entry assessment
+must:
+(a) Be a public process;
+(b) Be initiated  at least 280 days before a new or existing coordinated care organization
+is allowed to begin serving an area  that is already served by one or more coordinated care
+organizations; and
+(c) Include input from the coordinated care  organizations serving the area and their
+community advisory councils.
+(3) In conducting a service area entry assessment under this  section, the authority shall
+consider whether:
+(a) The service area includes more than 50,000 members;
+(b) The coordinated care organizations serving  the area are in good standing, as defined
+in ORS 414.590; and
+(c) Members in  the service area are likely to work or receive care in an adjoining region.
+(4) The authority shall collect from coordinated care organizations that request entry
+into a service area a fee for conducting a service area entry assessment in an amount rea-
+sonably calculated to cover the costs to the authority of administering the assessment.
+SECTION 4.
+ ORS 414.609, as amended by section 10, chapter 70, Oregon Laws 2024,  is amended
+to read:
+414.609. [(1)] A coordinated care organization that  contracts with the Oregon Health Authority
+must maintain a network of providers, including but not  limited to addiction treatment providers,
+sufficient in numbers and areas of practice and geographically distributed in a  manner to ensure
+that the health services provided under the contract are reasonably accessible to members.
+[(2) A member may transfer from one organization to another organization no more than  once
+during each enrollment period. ]
+GLOBAL BUDGETS
+SECTION 5. The Oregon Health Authority shall study the barriers to the ability of a co-
+ordinated care organization, as defined in ORS 414.025, to  operate within a global budget, as
+defined in ORS 414.025. The authority shall submit a report in the manner  provided by ORS
+192.245, and may include recommendations for legislation to address the barriers, to the in-
+terim committees of  the Legislative Assembly related to health no later than December 15,
+2026.
+SECTION 6. Section 5 of this 2025 Act is repealed on January 2, 2027.
+MINIMUM MEDICAL LOSS RATIO
+SECTION 7. Section 8 of this 2025 Act is added to and made a part of ORS chapter 414.
+SECTION 8. (1) As used in  this section, “medical loss ratio” means total incurred medical
+costs, divided by total medical-related revenues.
+(2) The Oregon Health Authority shall establish a minimum medical loss ratio  for coor-
+dinated care organizations that is consistent with the federally established minimum  medical
+loss ratio under 42 C.F.R. 438.8.
+FEE-FOR-SERVICE PROVIDER METRICS
+SECTION 9.  ORS 413.011 is amended to read:
+413.011. (1) The duties of the Oregon Health Policy Board are to:
+(a) Be the policy-making and  oversight body for the Oregon Health Authority established in ORS
+413.032 and all of the authority’s departmental divisions.
+(b) Develop and  submit a plan to the Legislative Assembly to provide and fund access to af-
+fordable, quality health care for all Oregonians.
+(c) Develop a program to provide health insurance premium assistance to all low  and moderate
+income individuals who are legal residents of Oregon.
+(d) Publish health outcome  and quality measure data collected by the Oregon Health Authority
+at aggregate levels that do not disclose information otherwise protected by law. The  information
+published must report,  for each coordinated care organization , all fee-for-service medical assist-
+ance providers and each health benefit plan  sold through the health insurance exchange or offered
+by the Oregon Educators Benefit Board or the Public Employees’ Benefit Board:
+(A) Quality measures;
+(B) Costs;
+(C) Health outcomes; and
+(D) Other information that is necessary for members of the public to evaluate the value of health
+services delivered by each coordinated care organization , fee-for-service medical assistance  pro-
+vider and [ by each ] health benefit plan.
+(e) Establish evidence-based clinical standards and practice  guidelines that may be used by
+providers.
+(f) Approve and monitor community-centered health initiatives described in  ORS 413.032 (1)(h)
+that are consistent  with public health goals, strategies, programs and performance standards
+adopted by the Oregon Health Policy Board to  improve the health of all Oregonians, and to regu-
+larly report to the  Legislative Assembly on the accomplishments and needed changes to the initi-
+atives.
+(g) Establish cost containment mechanisms to reduce health care costs.
+(h) Ensure that Oregon’s health care workforce is sufficient  in numbers and training to meet the
+demand that will be created by the expansion  in health coverage, health care system transforma-
+tions, an increasingly diverse population and an aging workforce.
+(i) Work with the Oregon  congressional delegation to advance the adoption of changes in federal
+law or policy to promote Oregon’s comprehensive health reform plan.
+(j) Establish a health benefit package in accordance with ORS  741.340 to be used as the baseline
+for all health benefit plans offered through the health insurance exchange.
+(k) Investigate and  report annually to the Legislative Assembly on the feasibility and advis-
+ability of future changes to the health insurance market in Oregon,  including but not limited to the
+following:
+(A) A requirement for every resident to have health insurance coverage.
+(B) A payroll tax as a means to encourage employers to continue providing  health insurance to
+their employees.
+(L) Meet cost-containment goals by structuring reimbursement  rates to reward comprehensive
+management of diseases, quality outcomes and the efficient use of resources by  promoting cost-
+effective procedures, services and programs including, without limitation, preventive  health, dental
+and primary care services, web-based office  visits, telephone consultations and telemedicine consul-
+tations.
+(m) Oversee the expenditure  of moneys from the Health Care Provider Incentive Fund to support
+grants to primary care providers and rural  health practitioners, to increase the number of primary
+care educators and to support efforts to create and develop career ladder opportunities.
+(n) Work  with the Public Health Benefit Purchasers Committee, administrators of the medical
+assistance program and  the Department of Corrections to identify uniform contracting standards for
+health benefit plans that achieve maximum quality and cost outcomes and  align the contracting
+standards for all state programs to the greatest extent practicable.
+(o) Work with the  Health Information Technology Oversight Council to foster health information
+technology systems and practices that promote the  Oregon Integrated and Coordinated Health Care
+Delivery System established by ORS 414.570 and  align health information technology systems and
+practices across this state.
+(2) The Oregon Health Policy Board is authorized to:
+(a) Subject to the approval of the Governor, organize and  reorganize the authority as the board
+considers necessary to properly conduct the work of the authority.
+(b) Submit directly to the Legislative Counsel, no later  than October 1 of each even-numbered
+year, requests for measures  necessary to provide statutory authorization to carry out any of the
+board’s duties or to implement any of the board’s recommendations. The  measures may be filed prior
+to the beginning of the legislative session  in accordance with the rules of the House of Represen-
+tatives and the Senate.
+(3) If the board or the authority is unable to perform, in whole or in part,  any of the duties
+described  in ORS 413.006 to 413.042 and 741.340 without federal approval, the authority is authorized
+to request, in accordance with ORS 413.072, waivers or other approval necessary to perform  those
+duties. The authority shall implement any portions of  those duties not requiring legislative authority
+or federal approval, to the extent practicable.
+(4) The enumeration of duties,  functions and powers in this section is not intended to be exclu-
+sive nor to  limit the duties, functions and powers imposed on the board by ORS 413.006 to 413.042
+and 741.340 and by other statutes.
+(5) The board shall consult  with the Department of Consumer and Business Services in com-
+pleting the tasks set forth in subsection (1)(j) and (k)(A) of this section.
+SECTION 10.
+ ORS 413.017 is amended to read:
+413.017. (1) The Oregon Health Policy Board shall establish the committees described in sub-
+sections (2) to (5) of this section.
+(2)(a) The Public Health  Benefit Purchasers Committee shall include individuals who purchase
+health care for the following:
+(A) The Public Employees’ Benefit Board.
+(B) The Oregon Educators Benefit Board.
+(C) Trustees of the Public Employees Retirement System.
+(D) A city government.
+(E) A county government.
+(F) A special district.
+(G) Any private nonprofit organization  that receives the majority of its funding from the state
+and requests to participate on the committee.
+(b) The Public Health Benefit Purchasers Committee shall:
+(A) Identify and make  specific recommendations to achieve uniformity across all public health
+benefit plan designs based on the best available clinical evidence, recognized best practices  for
+health promotion and disease management, demonstrated  cost-effectiveness and shared demographics
+among the enrollees within the pools covered by the benefit plans.
+(B) Develop an action plan for ongoing collaboration to implement the benefit design alignment
+described in subparagraph (A) of  this paragraph and shall leverage purchasing to achieve benefit
+uniformity if practicable.
+(C) Continuously review and report to the  Oregon Health Policy Board on the committee’s
+progress in aligning benefits while minimizing the cost shift to individual purchasers of  insurance
+without shifting costs to the private sector or the health insurance exchange.
+(c) The Oregon Health Policy Board shall work with  the Public Health Benefit Purchasers
+Committee to identify uniform provisions for state and  local public contracts for health benefit plans
+that achieve maximum quality and  cost outcomes. The board shall collaborate with the committee
+to develop steps to implement joint contract provisions. The committee shall identify  a schedule for
+the implementation of contract  changes. The process for implementation of joint contract provisions
+must include a review process to protect against unintended cost shifts to enrollees or agencies.
+(3)(a) The Health Care Workforce Committee  shall include individuals who have the collective
+expertise, knowledge and experience in a broad range  of health professions, health care education
+and health care workforce development initiatives.
+(b) The Health Care Workforce Committee shall coordinate efforts to recruit and  educate health
+care professionals and retain a quality workforce to meet the demand that will be created  by the
+expansion in health care coverage, system transformations and an increasingly diverse population.
+(c) The Health Care  Workforce Committee shall conduct an inventory of all grants and other
+state resources available for addressing the need to expand the health care workforce to meet the
+needs of Oregonians for health care.
+(4)(a) The  Health Plan Quality Metrics Committee shall include the following members appointed
+by the Oregon Health Policy Board:
+(A) An individual representing the Oregon Health Authority;
+(B) An individual representing the Oregon Educators Benefit Board;
+(C) An individual representing the Public Employees’ Benefit Board;
+(D) An individual representing the Department of Consumer and Business Services;
+(E) Two health care providers;
+(F) One individual representing hospitals;
+(G) One individual representing insurers, large employers or multiple employer welfare  ar-
+rangements;
+(H) Two individuals representing health care consumers;
+(I) Two individuals representing coordinated care organizations;
+(J) One individual with expertise in health care research;
+(K) One individual with expertise in health care quality measures; and
+(L) One individual with expertise in mental health and addiction services.
+(b) The committee shall work  collaboratively with the Oregon Educators Benefit Board, the
+Public Employees’ Benefit Board, the  authority and the department to adopt health outcome and
+quality measures that are focused on specific goals and provide value to the state, employers,
+insurers, health care providers and consumers. The committee shall  be the single body to align
+health outcome and quality measures used in  this state with the requirements of health care data
+reporting to ensure that the measures and  requirements are coordinated, evidence-based and focused
+on a long term statewide vision.
+(c) The committee shall use a public process that includes an opportunity for public comment
+to identify  health outcome and quality measures. The health outcome and quality measures identified
+by the committee,  as updated by the authority under paragraph (g) of this subsection, may be applied
+to services provided by coordinated care organizations  or  fee-for-service medical assistance
+providers or paid for by  health benefit plans sold through the health insurance exchange or offered
+by the  Oregon Educators Benefit Board or the Public Employees’ Benefit Board. The authority, the
+department, the Oregon Educators Benefit Board and the Public Employees’ Benefit Board are not
+required to adopt all  of the health outcome and quality measures identified by the committee but
+may not adopt any health outcome and quality measures that are different  from the measures iden-
+tified by the committee. The measures must take into account the health outcome and  quality
+measures selected by the metrics and scoring subcommittee created in ORS 413.022  and the differ-
+ences  in  the populations served by coordinated care organizations and fee-for-service medical
+assistance providers [ and] versus by commercial insurers.
+(d) In identifying health outcome and quality measures, the committee  shall prioritize measures
+that:
+(A) Utilize existing state and  national health outcome and quality measures, including measures
+adopted by the Centers for Medicare and Medicaid  Services, that have been adopted or endorsed
+by other state or national organizations and have a relevant state or national benchmark;
+(B) Given the context in which each measure is applied, are not prone  to random variations
+based on the size of the denominator;
+(C) Utilize existing data systems, to the extent practicable, for reporting  the measures to mini-
+mize redundant reporting and undue  burden on the state, health benefit plans and health care pro-
+viders;
+(D) Can be meaningfully adopted for a minimum of three years;
+(E) Use a common format in the collection of the data and facilitate the  public reporting of the
+data; and
+(F) Can be reported in a timely manner and without significant delay so  that the most current
+and actionable data is available.
+(e) The  committee shall evaluate on a regular and ongoing basis the health outcome and quality
+measures identified under this section.
+(f) The committee may convene subcommittees to focus on gaining expertise in particular  areas
+such as data collection, health  care research and mental health and substance use disorders in order
+to aid the committee in the development of health outcome  and quality measures. A subcommittee
+may include stakeholders and staff from the authority, the Department of Human  Services, the De-
+partment of Consumer and Business Services, the Early Learning Council or any  other agency staff
+with the appropriate expertise in the issues addressed by the subcommittee.
+(g) The authority shall update annually, if necessary, the health outcome  and quality measures
+identified by the committee to utilize the latest sets of core quality measures published by  the
+Centers for Medicare and Medicaid Services in accordance with 42 U.S.C. 1320b-9a and 1320b-9b.
+(h) This subsection does not prevent the authority, the Department  of Consumer and Business
+Services, commercial insurers, the  Public Employees’ Benefit Board or the Oregon Educators Benefit
+Board from establishing programs that provide financial  incentives to providers for meeting specific
+health outcome and quality measures adopted by the committee.
+(5)(a) The Behavioral Health Committee shall include the following members appointed by the
+Director of the Oregon Health Authority:
+(A) The chairperson of the Health Plan Quality Metrics Committee;
+(B) The chairperson of the committee appointed by the board to address health equity, if any;
+(C) A behavioral health director for a coordinated care organization;
+(D) A representative of a community mental health program;
+(E) An individual with expertise in data analysis;
+(F) A member of the  Consumer Advisory Council, established under ORS 430.073, that represents
+adults with mental illness;
+(G) A representative of the System of Care Advisory Council established in ORS 418.978;
+(H) A member of the  Oversight and Accountability Council, described in ORS 430.389, who re-
+presents adults with addictions or co-occurring conditions;
+(I) One member representing a system of care, as defined in ORS 418.976;
+(J) One consumer representative;
+(K) One representative of a tribal government;
+(L) One representative of  an organization that advocates on behalf of individuals with intellec-
+tual or developmental disabilities;
+(M) One representative of providers of behavioral health services;
+(N) The director of the division of the authority responsible for  behavioral health services, as
+a nonvoting member;
+(O) The  Director of the Alcohol and Drug Policy Commission appointed under ORS 430.220, as
+a nonvoting member;
+(P) The authority’s Medicaid director, as a nonvoting member;
+(Q) A representative of the Department of Human Services, as a nonvoting member; and
+(R) Any other member that the director deems appropriate.
+(b) The board may modify the membership of the committee as needed.
+(c) The division of the authority responsible  for behavioral health services and the director of
+the division shall staff the committee.
+(d) The committee, in collaboration with the Health Plan Quality Metrics Committee, as needed,
+shall:
+(A) Establish quality metrics for  behavioral health services provided by coordinated care or-
+ganizations, health care providers, counties and other government entities; and
+(B) Establish incentives to improve the quality of behavioral health services.
+(e) The quality metrics and incentives shall be designed to:
+(A) Improve timely access to behavioral health care;
+(B) Reduce hospitalizations;
+(C) Reduce overdoses;
+(D) Improve the integration of physical and behavioral health care; and
+(E) Ensure individuals are supported in the  least restrictive environment that meets their be-
+havioral health needs.
+(6) Members of the committees described in subsections (2) to  (5) of this section who are not
+members of the Oregon Health  Policy Board may receive compensation in accordance with criteria
+prescribed by the authority by rule  and shall be reimbursed from funds available to the board for
+actual and necessary  travel and other expenses incurred by them by their attendance at committee
+meetings, in the manner and amount provided in ORS 292.495.
+SECTION 11.
+ ORS 413.022 is amended to read:
+413.022. (1) As used in this section:
+(a) “Downstream health outcome and quality measures” means:
+(A) The sets of core quality measures for the Medicaid program that are  published by the Cen-
+ters for Medicare and Medicaid Services in accordance with 42 U.S.C. 1320b-9a and 1320b-9b; and
+(B) If the  sets of core quality measures for adults published by the Centers for Medicare and
+Medicaid Services do not include quality measures for oral health care for adults,  quality measures
+of oral health care for adults adopted by the metrics and scoring subcommittee.
+(b) “Upstream health outcome and quality measures” means quality measures that  focus on the
+social determinants of health.
+(2) There is created in the Health Plan Quality Metrics Committee a nine-member metrics and
+scoring subcommittee appointed by the Director of the Oregon Health Authority. The members  of
+the subcommittee serve two-year terms and must include:
+(a) Three members at large;
+(b) Three individuals with expertise in health outcomes measures; and
+(c) Three representatives of coordinated care organizations.
+(3) The subcommittee shall use a  public process in accordance with ORS 192.610 to 192.705 that
+includes an opportunity for public comment to  select the downstream health outcome and quality
+measures and a minimum of four upstream health outcome and quality  measures applicable to ser-
+vices provided by coordinated care  organizations  and fee-for-service medical assistance provid-
+ers.
+(4) The Oregon  Health Authority shall incorporate these measures into coordinated care or-
+ganization contracts to hold the organizations accountable for performance and customer satisfac-
+tion requirements. The authority shall notify each coordinated care  organization of any changes in
+the measures at least three months before the  beginning of the contract period during which the
+new measures will be in place.
+(5) The subcommittee shall update the health outcome and quality measures  annually, if neces-
+sary, to conform to  the latest sets of core quality measures published by the Centers for Medicare
+and Medicaid Services.
+(6) All health outcome and quality measures must be consistent with the:
+(a) Terms and conditions of the demonstration project approved for this state by the Centers  for
+Medicare and Medicaid Services under 42 U.S.C. 1315; and
+(b) Written quality strategies approved by the Centers for  Medicare and Medicaid Services un-
+der 42 C.F.R. 438.340 and 457.1240.
+(7) The authority and the Oregon Health Policy Board shall evaluate on  a regular and ongoing
+basis the outcome and quality measures selected by the  subcommittee under this section for mem-
+bers in each coordinated care organization and for members statewide  and for  medical assistance
+recipients who are not enrolled in a coordinated care organization .
+(8) Members of the subcommittee who are not members  of the Oregon Health Policy Board may
+receive compensation and the reimbursement of actual and  necessary travel and other expenses in-
+curred by them in the performance of their official  duties in accordance with criteria adopted by the
+authority by rule and shall be reimbursed from funds available to the authority  in the manner and
+amount provided in ORS 292.495.
+CONFORMING AMENDMENTS
+SECTION 12.
+ ORS 414.611 is amended to read:
+414.611. (1) The Oregon Health Authority may approve the transfer of 500 or more members from
+one coordinated care organization to another coordinated care organization if:
+(a) The members’ provider has contracted  with the receiving organization and has stopped ac-
+cepting patients from or has terminated providing services to members of the transferring  organ-
+ization; and
+(b) Members are offered the choice of remaining members of the transferring organization.
+(2) Members may not be transferred under this section until the authority  has evaluated the
+receiving organization and determined that the organization meets criteria established by  the au-
+thority by rule, including but not limited to criteria that ensure that  the organization meets the
+requirements of ORS 414.609 [ (1)].
+(3) The authority shall  provide notice of a transfer under this section to members that will be
+affected by the transfer at least 90 days before the scheduled date of the transfer.
+(4)(a) The authority may not approve the transfer of members under this section if:
+(A) The transfer results from the termination of a  provider’s contract with a coordinated care
+organization for just cause; and
+(B) The coordinated care organization has  notified the authority that the provider’s contract
+was terminated for just cause.
+(b) A provider is entitled to a contested case hearing in accordance with ORS chapter 183, on
+an expedited basis, to dispute the denial of a transfer of members under this subsection.
+(c) As used in this subsection, “just cause” means that the contract was  terminated for reasons
+related to quality of care, competency, fraud or other similar reasons prescribed by  the authority
+by rule.
+(5) The  provider and the organization shall be the parties to any contested case proceeding to
+determine whether the provider’s contract was terminated for just cause. The  authority may award
+attorney fees and costs to the  party prevailing in the proceeding, applying the factors in ORS 20.075.
+SECTION 13.
+ ORS 414.769 is amended to read:
+414.769. (1) As  used in this section, “gender-affirming treatment” means a procedure, service,
+drug, device or product that a physical  or behavioral health care provider prescribes to treat an
+individual for incongruence between the individual’s gender  identity and the individual’s sex as-
+signment at birth.
+(2) Notwithstanding ORS 414.065 and 414.690, medical assistance provided to a member of a  co-
+ordinated care organization  or a medical assistance recipient who is not enrolled in a coordinated
+care organization shall include gender-affirming treatment.
+(3) The Oregon Health Authority or a coordinated care organization may not:
+(a) Deny or limit gender-affirming treatment that is:
+(A) Medically  necessary as determined by the physical or behavioral health care provider who
+prescribes the treatment; and
+(B) Prescribed in accordance with accepted standards of care.
+(b) Deny  as a cosmetic service a medically necessary procedure prescribed by a physical or be-
+havioral health care provider as gender-affirming treatment, including but not limited to:
+(A) Tracheal shave;
+(B) Hair electrolysis;
+(C) Facial feminization surgery or other facial gender-affirming treatment;
+(D) Revisions to prior forms of gender-affirming treatment; and
+(E) Any combination of gender-affirming treatment procedures.
+(c) Deny or limit  gender-affirming treatment unless a physical or behavioral health care provider
+with experience prescribing or delivering gender-affirming treatment has first reviewed and ap-
+proved the denial of or the limitation on the treatment.
+(4) A coordinated care organization must:
+(a) Contract with a  network of gender-affirming treatment providers that is sufficient in numbers
+and geographic  locations to meet the network adequacy standards prescribed by ORS 414.609 [ (1)];
+and
+(b)(A) Ensure  that gender-affirming treatment services are accessible to all of the coordinated
+care organization’s members without unreasonable delay; or
+(B) Ensure that all members have geographical access to non-contracting providers of gender-
+affirming treatment services without unreasonable delay.
+(5) The authority shall  monitor coordinated care organization compliance with the requirements
+of this section and may adopt rules necessary to carry out the provisions of this section.
+CAPTIONS
+SECTION 14.
+The unit captions used in this 2025 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+APPLICABILITY
+SECTION 15. Sections 3 and 8 of this 2025 Act and the amendments to ORS  414.590 and
+414.609 by sections 1 and 4 of this 2025 Act apply  to contracts between a coordinated care
+organization and the Oregon Health Authority entered  into, amended or renewed on or after
+the operative date specified in section 16 of this 2025 Act.
+OPERATIVE DATE
+SECTION 16. (1) Sections 3 and 8 of this  2025 Act and the amendments to ORS 414.590,
+414.609, 413.011, 413.017 and 413.022 by sections 1, 4 and 9 to  11 of this 2025 Act become op-
+erative on December 1, 2025.
+(2) The Oregon Health Authority may take any  action before the operative date specified
+in subsection (1) of this section that is necessary  to enable the authority to exercise, on and
+after the operative date specified in  subsection (1) of this section, all of the duties, functions
+and powers conferred on the authority by sections 3 and 8 of this 2025  Act and the amend-
+ments to ORS 414.590, 414.609, 413.011, 413.017 and 413.022 by sections 1, 4 and 9 to 11 of this
+2025 Act.
+EFFECTIVE DATE
+SECTION 17.
+This 2025 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+on its passage.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 413.011, ORS 413.017, ORS 413.022, ORS 414.590, ORS 414.609, ORS 414.611, ORS 414.769
+- From bill text (Introduced version): ORS 192.245, ORS 192.610, ORS 20.075, ORS 292.495, ORS 413.006, ORS 413.011, ORS 413.017, ORS 413.022, ORS 413.032, ORS 413.072, ORS 414.025, ORS 414.065, ORS 414.570, ORS 414.572, ORS 414.590, ORS 414.609, ORS 414.611, ORS 414.690, ORS 414.769, ORS 418.976, ORS 418.978, ORS 430.073, ORS 430.220, ORS 430.389, ORS 741.340
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `04ecee2c411ce1623c458528bf4d4266604210fbc4a607dd14873d24cdd621a6` (snapshot `_meta/snapshots/measure-2025r1-hb2238-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2238/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2238> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

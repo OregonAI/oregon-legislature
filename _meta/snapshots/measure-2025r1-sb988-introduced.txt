@@ -1,0 +1,205 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 988
+Sponsored by Senator ANDERSON
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act prescribes the process for a parent or guardian to admit a child, with or without
+the child’s consent, for certain treatment. (Flesch Readability Score: 62.1).
+Permits a child’s parent or guardian to  admit the child, with or without the child’s consent, to
+an inpatient treatment facility or program licensed by the Oregon  Health Authority or the Depart-
+ment of Human Services for certain mental,  emotional or behavioral health or substance use disor-
+der treatment. Requires an  initial assessment of the child and periodic reviews supporting the
+necessity of inpatient treatment. Prohibits the facility or program from declining to admit the  child
+solely based on the child’s unwillingness to consent to admission. Provides a  process for a child who
+is 14 years of age  or older to request review of the admission decision. Directs the licensing agency
+of the facility or program to adopt rules for the review of admission decisions. Creates exceptions.
+Directs the department, in  consultation with the authority, to make written materials available
+regarding resources for  families seeking mental, emotional or behavioral health treatment, or sub-
+stance use disorder treatment, for minor children.
+A BILL FOR AN ACT
+Relating to treatment of minor children.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section, “child” means an unmarried person under  18
+years of age.
+(2) A parent or guardian of a child may admit the child, with or without the child’s  con-
+sent, to  an inpatient treatment facility or program licensed by the Oregon Health Authority
+or the Department of Human Services for mental, emotional or behavioral health treatment
+or for treatment for  a substance use disorder, upon application to the facility or program
+and after a careful diagnostic assessment is made by a neutral fact  finder, consistent with
+the requirements of this section.
+(3) The neutral fact finder who conducts the assessment under this section:
+(a) Must be  a licensed health care professional or other qualified professional, as de-
+scribed by the department by rule;
+(b) Must be trained in the type of treatment for which the parent  or guardian is admit-
+ting the child;
+(c) May not profit, financially or otherwise, from the child’s admission; and
+(d) May not be employed by the facility or program.
+(4) The assessment under this section:
+(a) May be conducted on the premises of the facility or program;
+(b) Must include a private interview with the child, an interview with the child’s parent
+or guardian and an evaluation of the child’s background and need for treatment; and
+(c) Must culminate in a written report.
+(5)(a) The child may be admitted to the  facility or program if the neutral fact finder de-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1015
+SB 988
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+termines that:
+(A)(i) The child’s mental, emotional or behavioral health needs pose a  reasonable risk of
+harm to the child or others; or
+(ii) The child  has a substance use disorder and, because of that disorder, poses a rea-
+sonable risk of harm to the child or others;
+(B) The treatment or rehabilitation is in the child’s best interests; and
+(C) There is no less restrictive  alternative that would be equally as effective, from a
+clinical standpoint, as the facility or program.
+(b) If the child is at least 14 years of age, in determining whether admission to  the fa-
+cility or program is in the child’s best interests  under this subsection, the neutral fact finder
+shall take into consideration the child’s  reluctance or refusal to assent to treatment, the
+child’s maturity level and ability to understand the consequences of refusing treatment,  and
+whether the treatment is essential to the child’s welfare or can be  deferred without sub-
+stantial risk to the child’s welfare.
+(c) A facility or program to which  a child is admitted under this section shall conduct
+periodic reviews, at intervals not to exceed 30 days, to determine  whether the criteria de-
+scribed in this subsection continue to exist.
+(6) A facility  or program may not decline to accept a child for admission under this sec-
+tion solely based on the child’s unwillingness to consent to the admission.
+(7) If a child admitted to a facility or program under this section is at least 14 years of
+age, the child may request administrative review, as provided by the facility’s or program’s
+licensing agency by rule, of the appropriateness of the child’s admission under this section.
+(8)(a) Upon admission of a child under this section, the facility or program shall  notify
+the child’s parent  or guardian and, if the child is at least 14 years of age, the child, both
+orally and in writing, in  easily understandable language, of the process to request the child’s
+discharge from the facility  or program, including the process for a child to request admin-
+istrative review of the admission decision under subsection (7) of this section.
+(b) If the child attains 14 years of age while admitted to  the facility or program, the fa-
+cility or program shall provide the child with  the notice required under paragraph (a) of this
+subsection.
+(9) A child admitted under this section shall be  discharged no later than 72 hours after
+the earliest of the following:
+(a) A facility or program receives a written request from the child’s  parent or guardian
+requesting the child’s discharge from the facility or program;
+(b) A facility or program makes a determination under subsection (5)(c) of this section
+that the child no longer meets the criteria for admission to the facility or program; or
+(c) The child attains 18 years of age.
+(10) This section does not apply to:
+(a) The placement of a child in an inpatient  treatment facility or program by the De-
+partment of Human Services, the Oregon Youth Authority or  a county juvenile department;
+or
+(b) The voluntary admission of a child to a state hospital under ORS 426.220 or 426.650.
+(11) The Oregon Health Authority or the Department of Human Services shall adopt  any
+rules necessary for the implementation of this section.
+SECTION 2.
+(1) As  used in this section, “treatment” means mental, emotional or behav-
+[2]
+SB 988
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+ioral health treatment or substance use disorder treatment.
+(2) The Department of Human Services, in consultation with  the Oregon Health Author-
+ity, shall make the following written materials available on the department’s website:
+(a) A description of  public and private resources that are available to assist parents and
+guardians who are seeking treatment in this state for minor children.
+(b) A directory of inpatient and outpatient facilities  and programs that are licensed by
+the department or authority to provide treatment in this state to minor children.
+(c) A directory of transportation services providers that are licensed  by the department
+or authority to transport minor children to facilities  and programs described in paragraph
+(b) of this subsection.
+(d) A directory of individuals who are  licensed by the department or authority to provide
+in-home treatment in this state to minor children.
+(e) Any  other information the department determines relevant to assist parents and
+guardians who seek treatment in this state for minor children.
+(3) The department and authority, by rule, shall require each facility,  program, service
+provider or individual included in the directories described in subsection (2) of this section
+to inform parents or guardians of patients or prospective  patients about the availability of,
+and how to access, the written materials described in subsection (2) of this section.
+[3]

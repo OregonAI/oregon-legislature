@@ -1,0 +1,240 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3107
+Sponsored by Representatives LIVELY, LEVY B, LEVY E, EVANS; Representatives BOSHART  DAVIS, DRAZAN,
+MCLAIN, NGUYEN D, OWENS, PHAM H, Senators ANDERSON, MEEK (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act  changes the way DEQ can agree to make a regulatory process work better or
+faster. (Flesch Readability Score: 60.1).
+Modifies the authority of the Department of Environmental Quality to  enter into agreements
+with regulated entities to expedite  or enhance a regulatory process. Directs the Environmental
+Quality Commission to establish standards to  guide the department in the exercise of the
+department’s authority.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to Department of Environmental  Quality regulatory processes; creating new provisions; and
+amending ORS 468.073; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 468.073 is amended to read:
+468.073. (1) [ The Department of Environmental Quality  may enter into an agreement with ] Any
+applicant, permittee or regulated entity  may enter into an agreement with the Department of
+Environmental Quality setting a schedule of  payments to the department for the purpose of ena-
+bling the department to expedite or enhance a regulatory process by contracting for services,  hiring
+additional staff or covering costs of activities not otherwise provided during the ordinary course  of
+department business. The department may expend moneys received under the agreements for:
+(a) Activities undertaken by the department under  authority of any provision of ORS chapters
+448, 453, 454, 459, 459A, 465, 466, 467, 468, 468A and 468B and ORS 475.405 to 475.495.
+(b) Administering and reviewing activities described under  subsection [ (3)] (8)  of this section
+that are performed by a third party.
+(2)(a) An  applicant, permittee or regulated entity is entitled to enter into an agreement
+described under subsection (1) of this section unless the department:
+(A) Finds that the department has sufficient resources or staff to complete  the relevant
+regulatory process within six months or the timeline otherwise provided for by statute; and
+(B) Determines under paragraph (b) of this subsection that an  agreement under sub-
+section (1) of this section would not be in the public interest.
+(b) To determine whether an agreement under subsection (1) of this section is in  the
+public interest, the department shall consider:
+(A) The complexity of the regulatory process the requester seeks to expedite or enhance;
+(B) The availability of department personnel to conduct the regulatory process the  re-
+quester seeks to expedite or enhance;
+(C) The benefits and risks that contracting for services,  hiring additional staff or cover-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1435
+HB 3107
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ing costs of activities not otherwise provided during the  ordinary course of department
+business present as related to the regulatory process the requester  seeks to expedite or en-
+hance; and
+(D) The number of outstanding regulatory activities of  the department and the projected
+timeline to complete those activities.
+(3)(a) No  less than 20 business days after receiving a written request to enter into an
+agreement under subsection (1) of this section, the department shall  notify the requester in
+writing that:
+(A) The requester is entitled to enter into an agreement with the department; or
+(B) The requester is not entitled to enter into an agreement  with the department based
+on the department’s findings and determinations under subsection (2) of this section.
+(b) Notices provided to requesters under this subsection  must include the department’s
+findings and consideration of the factors described in subsection (2)(b) of this section.  A no-
+tice provided under this subsection is a final order for purposes of judicial review under ORS
+183.480 to 183.497.
+(4)(a) The Environmental Quality Commission shall establish  by rule standards for guid-
+ing the department regarding:
+(A) The identification of department activities or portions thereof suitable for  contract-
+ing out to third parties; and
+(B) The approval of third parties to  conduct activities described under subsection (8) of
+this section.
+(b) Standards established under paragraph (a)(B) of this subsection must require the  de-
+partment to consider:
+(A) The experience and knowledge of the third party related to department activities;
+(B) The third party’s public reputation; and
+(C) The independence of the third party from the requesting party.
+(5) The department shall make available on the department’s website:
+(a) Agreements entered into under subsection (1) of this section;
+(b) Notices provided to applicants under subsection (3) of this section; and
+(c) A list of third parties hired or contracted by the department and a  description of the
+services rendered.
+(6) The department  may not waive any of the department’s authority or obligations under
+any provision of ORS  chapters 448, 453, 454, 459, 459A, 465, 466, 467, 468, 468A and 468B and
+ORS 475.405 to 475.495 or rules adopted by the commission by entering into  an agreement
+under subsection (1)  of this section. Except as provided in subsection (7) of this section, the
+department may not waive or alter any obligation or requirement of an applicant,  permittee
+or regulated entity under any provision of ORS chapters 448, 453, 454, 459, 459A, 465,  466, 467,
+468, 468A and 468B and ORS 475.405 to 475.495 or any rule adopted by the commission by en-
+tering into an agreement under subsection (1) of this section.
+[(2)] (7) Payments agreed to  under subsection (1) of this section shall be for services voluntarily
+requested by the applicant, permittee or regulated entity. As part of the  agreement, the department
+may waive all or part of any fee otherwise imposed for those services. The  department shall not
+alter or establish processing priorities or schedules based upon an  expectation of entering into an
+agreement under subsection (1) of this section.
+[(3)] (8)  [ Not later than July 1, 1998, ] The department shall identify department activities or
+[2]
+HB 3107
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+portions thereof suitable for contracting out to third parties  and publish that information  on the
+department’s website. Failure of  the department to identify a specific activity shall not prevent the
+expenditure of funds for that activity or for department administration  and review of that activity
+under an agreement entered into pursuant to subsection (1) of this section.
+[(4)] (9) Any moneys received by the department under  an agreement described under subsection
+(1) of  this section shall not exceed the cost to the department of providing the service to the appli-
+cant, permittee or regulated entity.
+[(5)] (10)  Any payments received under an agreement described under  [ subsections (1) to (4) ]
+subsection (1)  of this section shall be deposited in the State Treasury to the credit of  an account
+of the Department of Environmental Quality and are continuously appropriated for the purposes
+specified in the individual agreements.
+(11) Notwithstanding subsection (2) of this section,  the department shall, in a timely
+manner, enter into an agreement under subsection (1) of  this section with the applicant,
+permittee or regulated entity if:
+(a) At least  one year has passed since the department determined that the applicant,
+permittee or  regulated entity was not entitled to enter into an agreement under subsection
+(1) of this section;
+(b) There is not a pending proceeding for judicial review of the notice provided  under
+subsection (3)(a)(B) of this section; and
+(c) The regulatory process for which the applicant,  permittee or regulated entity sought
+to enter into an agreement has not been completed.
+SECTION 2.
+(1) The amendments to  ORS 468.073 by section 1 of this 2025 Act become
+operative on January 1, 2026.
+(2) The Department of  Environmental Quality and the Environmental Quality Commis-
+sion may take any action before the operative date specified in subsection (1) of  this section
+that is necessary to enable the department or the commission to exercise,  on and after the
+operative date specified in subsection (1) of this section, all  of the duties, functions and
+powers conferred on the department and the  commission by the amendments to ORS 468.073
+by section 1 of this 2025 Act.
+SECTION 3. (1) The Environmental Quality Commission shall first adopt  by rule the
+standards described in ORS 468.073 (4) no later than January 1, 2026.
+(2) The Department of Environmental Quality shall first publish  the information required
+by ORS 468.073 (8) on the department’s website no later than January 1, 2026.
+SECTION 4. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

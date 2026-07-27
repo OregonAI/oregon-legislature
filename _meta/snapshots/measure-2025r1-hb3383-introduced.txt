@@ -1,0 +1,161 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3383
+Sponsored by COMMITTEE ON RULES (at the request of Oregon Association of County Clerks)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would raise certain fees charged by county clerks. (Flesch Readability Score:
+95.1).
+Raises certain fees charged by county clerks.
+A BILL FOR AN ACT
+Relating to fees charged by county clerks; amending ORS 205.320 and 205.327.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 205.320 is amended to read:
+205.320. (1) In every county there shall be  charged and collected in advance by the county clerk,
+for the benefit of the county, the following fees, and no more, for the following purposes and  ser-
+vices:
+(a) For filing and making entry when required by law of any instrument required  or permitted
+by law to be filed, when it is not recorded, $5 for each page.
+(b) For filing and making  entry of the assignment or satisfaction of any filed, but not recorded,
+instrument, $5 for each page.
+(c) For each official certificate, [ $3.75] $5.
+(d)(A) For recording any instrument  required or permitted by law to be recorded, $10 for the
+first page and $5 for each  additional page[ , but the minimum fee shall not be less than $5 ]. As used
+in this subparagraph, “page” means one side  of a sheet 14 inches, or less, long and 8-1/2 inches, or
+less, wide.
+(B) For supplying to private parties copies of  records or files, including by electronic delivery
+of images,  not more than [ $3.75] $5 for locating a record requested by the party and 25 cents for
+each page. As used in this subparagraph, “page” means  one side of a sheet 14 inches, or less, long
+and 8-1/2 inches, or less, wide.
+(C) For each official certificate, [ $3.75] $5.
+(e) For taking an affidavit for and making  and issuing a marriage license and registering the
+return of the license, or for taking an  affidavit for and registering a Declaration of Domestic Part-
+nership, [ $25] $35.
+(f) For solemnizing a marriage under ORS 106.120, $117. This paragraph  does not require that
+the county clerk charge a fee for solemnizing a marriage after normal working hours or  on Satur-
+days or legal holidays. This paragraph does not prohibit a county clerk  from charging and accepting
+a personal payment for solemnizing a marriage if otherwise authorized by ORS 106.120.
+(g) For taking and certifying acknowledgment or  proof of execution of any instrument, the fee
+established in the schedule adopted by the Secretary of State under ORS 194.400.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2018
+HB 3383
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+(h) For issuing any license required by law, other than a marriage or liquor license, and for
+which no fee is otherwise provided by law, $5.
+(i) For any service the clerk may be required or authorized  to perform and for which no fee is
+provided by law, such fees as may favorably compare with those established by  this section for
+similar services and as may be established  by order or rule of the county court or board of county
+commissioners.
+(j) For  recording any instrument under ORS 205.130 (2), as required by ordinance pursuant to
+ORS 203.148.
+(k) In addition to and not in lieu of the fees charged under paragraph (d)  of this subsection, for
+each additional municipal assessment lien recorded under ORS 93.643, $5.
+(L) In addition to and not in lieu of the fees charged  under paragraph (d) of this subsection, for
+each additional assignment, release or satisfaction of any recorded instrument, $5.
+(m) In addition to and not in lieu  of the fees charged under paragraph (d) of this subsection, for
+each additional transaction described under ORS 205.236, $5.
+(n) In addition to and not in lieu of the fees charged under paragraph (d)  of this subsection, for
+each additional lien recorded under ORS 311.675, $5.
+(o) For preparing and recording the certificate under ORS 517.280, $20 or such other fee  that
+is established by the county governing body.
+(p) In addition to and not in lieu of the fees charged under paragraph (d) of  this subsection, for
+each additional claim listed on an affidavit of annual compliance under ORS 517.210, $5.
+(q) In addition to and not in lieu of the fees charged under paragraph (d) of  this subsection, for
+each additional name listed on a cooperative contract under ORS 62.360 (2) or for  recording the
+termination of a cooperative contract under ORS 62.360 (4), $5.
+(2) Notwithstanding any other law, five percent of any fee or  tax that is not collected for the
+benefit of the county clerk shall be deducted from the fee or tax. The moneys deducted shall  be
+expended for acquiring storage and  retrieval systems, payment of expenses incurred in collecting the
+fee or tax and maintaining and restoring records as authorized by the county clerk.  Moneys col-
+lected under this subsection  shall be deposited in a county clerk records fund established by the
+county governing body. No moneys shall be deducted under this subsection from:
+(a) Fees collected for the Domestic Violence Fund under ORS 106.045.
+(b) Fees collected for conciliation services under ORS 107.615.
+(c) Real estate transfer taxes enacted prior to January 1, 1998.
+(d) Fees collected under ORS 205.323 for the Oregon Land Information System Fund.
+(e) Fees collected under  ORS 205.323 (1)(c) for the housing-related programs listed in ORS
+294.187 (2)(b).
+SECTION 2.
+ ORS 205.327 is amended to read:
+205.327. When an instrument required or permitted by law to be recorded is  presented to a
+county clerk for recording, if the instrument does not comply  with the requirements of ORS 205.232
+or 205.234, the county clerk shall record the instrument, but shall charge  and collect in advance a
+penalty of [ $20] $30. The penalty authorized  and collected under this section is in addition to and
+not in lieu of the fees charged under ORS 205.320 for recording the instrument.
+[2]

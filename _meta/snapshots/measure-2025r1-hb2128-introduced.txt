@@ -1,0 +1,1130 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2128
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Commerce and Consumer Protection for US Travel Insurance Association)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Updates laws that say how a person can offer or sell travel insurance. (Flesch  Read-
+ability Score: 69.9).
+Updates and standardizes state laws that govern  soliciting, offering, negotiating and selling
+travel insurance and products and services that include or are related to travel insurance.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to travel  insurance; creating new provisions; amending ORS 646.608, 744.101, 744.104,
+744.107 and 744.111; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 to 5 of this 2025  Act are added to and made a part of ORS 744.101
+to 744.107.
+SECTION 2. A person may offer or sell  a travel protection plan that combines various
+features at one price if:
+(1) Before, or at the time, a customer purchases the travel protection plan, the person:
+(a) Discloses clearly in writing which of the following features the travel protection  plan
+includes:
+(A) Travel insurance;
+(B) Travel assistance services; or
+(C) A fee cancellation waiver; and
+(b) Provides additional information about each feature and the pricing for each feature
+or gives an opportunity to obtain more information about each feature and the  pricing for
+each feature; and
+(2) Fulfillment material for the travel protection plan:
+(a) Describes each of the features of the travel protection plan individually;
+(b) Discloses required information about any travel insurance included in the travel pro-
+tection plan; and
+(c) Provides contact information for persons that provide any travel assistance services
+or cancellation fee waivers included in the travel protection plan.
+SECTION 3.
+(1) Except as otherwise provided in  this section, a person that offers travel
+insurance in this state is subject to ORS chapter  746. Sections 2 to 5 of this 2025 Act and
+ORS 744.101 to 744.107 control if a conflict exists between other provisions of the Insurance
+Code and sections 2 to 5 of this 2025 Act and ORS 744.101 to 744.107 with respect to marketing
+or selling travel insurance or a travel protection plan.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3086
+HB 2128
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) Marketing, advertising and sales materials that a prospective purchaser receives be-
+fore or at the time of purchase must be consistent with the provisions of  the policy, includ-
+ing forms, endorsements, rate filings, certificates of  insurance and all other materials that
+constitute the travel insurance policy.
+(3) If a travel  insurance policy excludes a preexisting condition, the person that offers
+the policy must describe the exclusion in  marketing, advertising and sales materials for the
+policy and must provide a prospective purchaser with an opportunity to learn more about the
+exclusion before purchasing the policy.
+(4) A person that sells a travel insurance policy shall provide  to the purchaser fulfillment
+material and the information described in ORS  744.104 (4)(a) as soon as is practicable after
+the purchase.
+(5) If a travel insurance policy holder or certificate holder has  not begun travel that is
+covered by the policy  or submitted a claim under the policy, the policy holder or certificate
+holder may cancel, and receive a full refund of the purchase  price for, a travel protection
+plan that includes a travel insurance policy until the later of:
+(a) Fifteen  days after the policy holder or certificate holder receives fulfillment material
+by hand in person, by postal mail or by electronic mail; or
+(b) Ten days after the policy holder or certificate  holder receives fulfillment material by
+means other than the means described in paragraph (a) of this subsection.
+(6) A  travel insurance policy and fulfillment material for the policy must disclose whether
+the coverage that  the policy provides is primary or secondary with respect to other insur-
+ance coverage.
+(7) Absent fraudulent or criminal intent or other indications of fraud or crime,  a person
+does not  by reason of taking any of the following actions violate the consumer protection
+laws of this state:
+(a) Marketing, advertising  or selling travel insurance on an insurer’s, limited lines travel
+insurance producer’s or travel retailer’s website or on an aggregator  site by means of an
+accurate summary or short description of the coverage the travel insurance provides,  if in-
+formation about all of the provisions of the coverage is available via a  link on the website
+or aggregator site or by other electronic methods.
+(b) Requiring a purchaser to choose between the following options  if a jurisdiction in the
+travel destination requires insurance coverage:
+(A) Purchasing the required coverage from a travel retailer  or limited lines travel in-
+surance producer in direct connection with the purchase of planned travel; or
+(B) Agreeing to obtain and provide proof of coverage  that meets the requirements of the
+jurisdiction in the travel destination before travelling.
+(8) The following acts or practices are unlawful practices under ORS 646.608:
+(a) Offering or selling a travel insurance policy that could never result  in payment of a
+claim to an insured;
+(b) Marketing blanket travel insurance as free or without cost or charge; or
+(c) Offering or selling travel  insurance on a negative option basis in which the purchaser
+must affirmatively decline coverage in order to complete a purchase of planned travel.
+SECTION 4.
+(1) A person may not act as a travel insurance  administrator, or represent
+or otherwise indicate that the person is a travel insurance  administrator, unless the person
+holds a valid license the Director of the Department of Consumer  and Business Services is-
+[2]
+HB 2128
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+sued under ORS 744.062 or 744.710, as appropriate, for:
+(a) An insurance producer in the classes  of casualty insurance or property insurance or
+under an indorsement that authorizes the person to act as a managing general agent; or
+(b) A third party administrator.
+(2) A travel insurance administrator and employees  of the travel insurance administrator
+are not subject to the requirement under ORS 744.505 to obtain a license  to engage in busi-
+ness as  an adjuster with respect to travel insurance policies for which the travel insurance
+administrator performs the functions of a travel insurance administrator.
+(3) An insurer is responsible for the acts that  a travel insurance administrator performs
+on behalf of the insurer or in connection  with travel insurance the insurer issues or under-
+writes. The insurer must ensure  that the travel insurance administrator maintains all books,
+records, documents and other materials the travel insurance administrator keeps on  behalf
+of the insurer  and that the travel insurance administrator can provide the books, records,
+documents and other materials to the director at the director’s request.
+SECTION 5.
+(1) Notwithstanding ORS 737.600 and any  other conflicting provisions of the
+Insurance Code, and except as provided in subsection (2) of this  section, for the purpose of
+rate filings and form  filings travel insurance is insurance that covers inland marine risks
+and an insurer may make travel insurance available to a member of a fictitious group.
+(2) For the purpose of rate filings and form filings, travel insurance that  covers risks of
+sickness, accident,  disability or death that occur during planned travel, whether or not in
+conjunction with other coverage available under a travel insurance policy, is within the class
+of health insurance, casualty insurance or insurance that covers inland marine risks.
+(3) An insurer may issue travel insurance as blanket travel insurance, group travel in-
+surance or as a policy that covers an individual.
+(4) An insurer may develop and use eligibility  and underwriting standards for travel in-
+surance based on travel protection plans that are designed for an individual or an  eligible
+group if the eligibility and  underwriting standards otherwise meet the requirements of
+sections 2 to 5 of this 2025 Act and ORS 744.101 to 744.107 and other standards that apply to
+insurance that covers inland marine risks.
+SECTION 6.
+ ORS 744.101 is amended to read:
+744.101. As used in ORS 744.101 to 744.107:
+(1) “Affiliate” means a person  that controls, is controlled by or is under common control
+with another person.
+(2) “Aggregator site” means a website  that displays information about insurance pro-
+ducts from more than one insurer,  and information about each insurer, for use in compar-
+ison shopping.
+(3) “Blanket travel insurance” means a travel insurance policy that  an insurer issues to
+an eligible group, each member of which the policy covers  without a separate charge to the
+member.
+[(1)] (4) “Business entity” has the meaning given that term in ORS 731.116.
+(5) “Cancellation fee waiver” means a travel retailer’s contractual agreement with  a
+customer to waive some or all of the nonrefundable cancellation  provisions in a contract for
+planned travel without regard to the reason for the cancellation  or the form of reimburse-
+ment.
+(6) “Eligible group” means group of two or more persons  that are engaged in a common
+[3]
+HB 2128
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+enterprise or that have an  economic, educational or social affinity or relationship, including
+but not limited to a group composed of:
+(a) Entities that engage  in the business of providing travel or travel services that have,
+or that have customers that have, a common  exposure to risk that is related to travel, such
+as:
+(A) Tour operators, lodging  providers, owners of vacation property, hotels, resorts, travel
+clubs, travel agencies, property  managers, cultural exchange programs or other business
+entities that engage in the business of providing planned travel or travel services; and
+(B) Airlines,  cruise lines, railroads, steamship companies, bus lines or other common
+carriers or operators, owners or lessors of vehicles, equipment  or other means of trans-
+porting passengers;
+(b) Schools, colleges or other institutions of  learning and the students, teachers, em-
+ployees or volunteers that attend, work at or provide services to the institutions of learning;
+(c) A  business entity and individuals with an economic relationship to the business entity,
+such as:
+(A) Employees;
+(B) Officers and directors; and
+(C) Other persons that perform work for or provide services to the business entity;
+(d) A sports team or sports camp, sponsors of the sports team or sports camp  and
+members, officials, supervisors, employees and  other participants or volunteers associated
+with the sports team or sports camp;
+(e) A  religious, charitable, recreational, educational or civic organization, or a branch of
+the organization, and members and participants in the organization or volunteers for the
+organization;
+(f) A financial  institution or affiliate of a financial institution and directors, officers,
+employees and customers of the financial institution;
+(g) An incorporated or unincorporated association, including a  labor union, that has a
+constitution or bylaws and is organized and maintained in good faith for purposes other than
+obtaining insurance for the association’s members or participants;
+(h) A trust fund or trustees and beneficiaries of a trust fund;
+(i) An entertainment production company, employees of the company  and participants in
+the company’s productions, such as audience members and contestants;
+(j) A group  organized to provide volunteer responses to such emergencies such as fire,
+life-threatening medical conditions, rescues, civil defense or similar or related emergencies;
+(k) A group organized to  provide volunteer responses to a need for law enforcement or
+legal consultation or representation;
+(L) A preschool, day care center or other care facility for children or adults;
+(m) An automobile or  truck rental or leasing company that holds a travel insurance
+policy on behalf of renters, lessees  or passengers of the company’s automobiles or trucks;
+and
+(n) Any other group the Director of the Department of Consumer and Business Services
+specifies by rule.
+(7) “Fulfillment material” means  a document that confirms a purchase of travel insur-
+ance, that  summarizes or provides details of the coverage provided in the travel insurance
+and that may include other information.
+[4]
+HB 2128
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(8) “Group travel insurance” means  travel insurance that an insurer issues to an eligible
+group.
+[(2)] (9) “Limited  lines travel insurance producer” means:
+(a) A managing general agent licensed under ORS 744.300 to 744.316; [ or]
+(b) An insurance producer , including a limited class insurance producer, who is licensed
+under ORS 744.052 to 744.089 to negotiate, sell or solicit travel insurance[ .]; or
+(c) A travel insurance administrator.
+[(3)] (10) “Negotiate” has the meaning given that term in ORS 731.104.
+[(4) “Offer and disseminate travel insurance” means: ]
+[(a) To provide general information regarding the travel insurance, including a description of  cov-
+erage and price; ]
+[(b) To disseminate and process applications for travel insurance coverage; or ]
+[(c) To collect premiums on behalf of a limited travel insurance producer. ]
+(11) “Planned travel” means carriage or transportation, living accommodations  and re-
+lated services that accompany the entirety of, or portions of, a trip from an intended  point
+of departure to an intended destination.
+[(5)] (12) “Sell” has the meaning given that term in ORS 731.104.
+[(6)] (13) “Solicit” has the meaning given that term in ORS 731.104.
+(14)(a) “Travel assistance services” means services that  support or enhance a recipient’s
+ability to engage in planned travel, such as:
+(A) Providing security advisories and information about a destination;
+(B) Recommending or providing information about vaccinations and immunizations;
+(C) Making reservations;
+(D) Providing entertainment;
+(E) Planning activities and events;
+(F) Providing translations or interpretations;
+(G) Enabling emergency communications;
+(H) Making legal and medical referrals, monitoring medical cases  or helping to replace
+prescription medications;
+(I) Coordinating transportation arrangements;
+(J) Providing emergency cash transfers;
+(K) Helping to replace lost passports or other travel documents;
+(L) Locating lost or misplaced luggage;
+(M) Providing concierge services; or
+(N) Providing other services that are similar or related to the services listed in subpar-
+agraphs (A) to (M) of this paragraph.
+(b) “Travel  assistance services” does not include any act or practice to transact insur-
+ance, issue a policy of insurance,  provide coverage under a policy of insurance or otherwise
+shift, spread or indemnify any risk.
+[(7)(a)] (15)(a)  “Travel insurance” means insurance coverage  for personal risks incidental to
+planned travel, including:
+(A) Interruption or cancellation of a trip or event;
+(B) Loss of baggage or personal effects;
+(C) Damages to accommodations or rental vehicles; [ or]
+(D) Sickness, accident, disability or death occurring during  planned travel[ .];
+[5]
+HB 2128
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(E) Emergency evacuation;
+(F) Repatriation of remains;
+(G) Any other contractual obligation to indemnify or pay  a specific amount to a policy
+holder upon the occurrence of a determinable contingency related to planned travel; or
+(H) Other contractual obligations the director specifies by rule.
+(b) “Travel insurance” does not include :
+(A) A  major medical [ plans providing ] plan that provides comprehensive medical protection for
+travelers with trips  [ lasting six months or ] that last  longer[ .] than six months, such as coverage
+for individuals who work or reside outside the United States;
+(B) A class of insurance, other than travel insurance,  that requires possession of a spe-
+cific insurance producer’s license to transact insurance in the class; or
+(C) A cancellation fee waiver.
+(16)(a) “Travel insurance administrator” means a person that  directly or indirectly per-
+forms the following functions or services  with respect to a travel insurance policy issued to
+a resident of this state:
+(A) Underwriting;
+(B) Collecting a charge, collateral or premium; or
+(C) Adjusting or settling a claim.
+(b) “Travel insurance administrator”  does not include a person that, with respect to a
+travel insurance policy issued  to a resident of this state, performs activities that consist
+solely of:
+(A) Work that is under  the direct supervision and control of a travel insurance admin-
+istrator;
+(B) Work as an insurance producer  acting within the scope of a license the director is-
+sued under ORS 744.062;
+(C) Work as a travel retailer to provide travel insurance support;
+(D) Adjusting and settling claims in the ordinary course of work as an  attorney licensed
+or admitted to the practice of  law in this state, if the person does not collect charges or
+premiums in connection with a travel insurance policy; or
+(E) Administration of the direct and assumed insurance  business of an affiliate that is
+an insurer.
+(17) “Travel insurance support” means services that involve:
+(a) Providing general information about travel insurance, including a  description of cov-
+erage and price;
+(b) Making applications for travel insurance coverage available  and processing applica-
+tions that are submitted; or
+(c) Collecting premiums on behalf of a limited lines travel insurance producer.
+(18) “Travel protection plan” means a plan that provides any or  all of the following pro-
+ducts or services:
+(a) Travel insurance;
+(b) Travel assistance services; or
+(c) A cancellation fee waiver.
+[(8)] (19) “Travel retailer” means  a business entity that makes , [ travel arrangements for or pro-
+vides other travel services to customers ] arranges or offers planned travel or that may  offer
+travel insurance as a service to the business entity’s  customers on behalf of or under the
+[6]
+HB 2128
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+direction of a limited lines travel insurance producer .
+SECTION 7.
+ ORS 744.104 is amended to read:
+744.104. (1)(a) Except  as provided in paragraph (b) of this subsection, a person may not
+act as a limited lines travel insurance producer and may not solicit, offer,  negotiate or sell
+travel insurance without a license  from the Director of the Department of Consumer and
+Business Services.
+(b) A person may solicit, offer,  negotiate and sell travel insurance if the director has li-
+censed the person as an insurance producer under ORS 744.062 in any of the classes  of in-
+surance described in ORS 731.150 to  731.194. A person licensed as an insurance producer in
+the classes  of casualty insurance or property insurance may solicit, offer, negotiate and sell
+travel insurance without requiring an insurer’s appointment.
+(2)(a) A person may apply to the director for a license to act as a limited lines travel
+insurance producer on forms, in a format and with  the contents the director specifies by
+rule.
+(b) The director may issue a license described  in paragraph (a) of this subsection to an
+applicant if the director is satisfied  that the person meets the qualifications the director
+establishes by rule for issuing the license.
+(c) A  license the director issues under this subsection authorizes the licensee to solicit,
+offer, negotiate and sell travel insurance through an insurer  that is authorized to transact
+insurance in this state.
+[(1)] (3)  Notwithstanding the  provisions of ORS 744.053, a travel retailer may [ offer and dissem-
+inate] provide travel insurance  support on behalf of and at the direction  of a limited  lines  travel
+insurance producer and may receive compensation for doing so.
+[(2)] (4)  A limited  lines travel insurance producer may direct a travel retailer to [ offer and dis-
+seminate] provide travel insurance [ pursuant to ] support under  subsection [ (1)] (3)  of this section
+only if [ the following conditions are met ]:
+[(a) The name, contact information and license number of the limited travel insurance producer are
+clearly identified  on marketing materials and fulfillment packages distributed by the travel retailer to
+customers;]
+(a) The travel retailer or the limited lines travel insurance producer describes in writing:
+(A) The material terms or actual terms of the coverage  that the travel insurance policy
+provides;
+(B) The process for filing a claim;
+(C) How to review or cancel the travel insurance policy; and
+(D) The name and license number of, and  contact information for, the limited lines travel
+insurance producer;
+(b) The limited  lines  travel insurance producer, at the time  of licensure and thereafter, estab-
+lishes and maintains a register, in a form [ approved by the Director of the Department  of Consumer
+and Business Services ] the director approves , that contains the following information for  each
+travel retailer that [ offers and disseminates ] provides travel insurance  support  at the direction of
+the limited  lines travel insurance producer:
+(A) The name, address, contact information and federal [ employer] tax  identification number of
+the travel retailer;  and
+(B) The name, address and contact information of an officer or person who  directs or controls
+the operations of the travel retailer; [ and]
+[7]
+HB 2128
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(C) An  affidavit executed under oath by the travel retailer stating that the travel retailer is not
+guilty of any offense under 18 U.S.C. 1033; ]
+(c) The  limited  lines travel insurance producer submits the register described in paragraph (b)
+of this subsection to the director within 30 days [ of] after  a request by the director;
+(d) The  limited lines travel insurance producer certifies that the travel retailer complies
+with 18 U.S.C. 1033;
+[(d)] (e)  The limited  lines  travel insurance producer designates an employee who is a [ limited
+travel] licensed insurance producer  as responsible for ensuring [ the compliance of ] the limited  lines
+travel insurance [ producer] producer’s compliance with the laws, rules and regulations of this state
+that apply to  travel insurance, to limited lines travel insurance producers and to travel
+retailers;
+[(e)] (f)  The  directors  and officers of the limited lines travel insurance producer, the  em-
+ployee designated in paragraph [ (d)] (e)  of this subsection[ , as well as the president, secretary,  treas-
+urer] and  any other person who directs or controls the insurance operations of the limited  lines
+travel insurance producer[ ,] all comply with fingerprinting requirements [ established by  the
+director] that apply to insurance producers in the state in which  the limited lines travel in-
+surance producer is licensed or registered ;
+[(f)] (g)  The  limited  lines travel insurance producer does not owe any outstanding fees relating
+to insurance licensing; and
+[(g)] (h) [Each employee of the travel retailer whose  duties include offering and disseminating ] The
+limited lines travel insurance producer requires employees and authorized representatives
+of the travel retailer whose duties include providing  travel insurance  [ receives ] support to un-
+dergo a program of instruction or training that [ contains instructions on the types of insurance  of-
+fered, ethical sales practices,  required disclosures to customers and any other content that the director
+may prescribe. ] the director approves and that, at  a minimum, provides adequate information
+or instruction about:
+(A) The types of insurance the travel retailer offers;
+(B) Ethical sales practices;
+(C) Information that must be disclosed to prospective purchasers; and
+(D) Any other topic the director specifies.
+[(3)] (5)  A travel retailer that [ offers and disseminates ] provides travel insurance  support shall
+make available to [ customers] prospective purchasers  brochures or  other written materials that
+are approved by the insurer that issues the travel insurance and that, at a minimum :
+(a) Provide the identity and contact information  of the insurer and the limited  lines travel in-
+surance  producer;
+(b) Explain that the purchase  of travel insurance is not required in order to purchase any other
+product or service from the travel retailer; and
+(c) Explain that a travel retailer that is not  a limited  lines  travel insurance producer [ is not
+qualified or authorized to ] may not  answer technical questions about the terms and conditions of
+the travel insurance [ offered by ] the travel retailer  offers  [ or to ] and may not  evaluate the ade-
+quacy of a [ customer’s] prospective purchaser’s  existing insurance coverage , but may provide
+only general information about the insurance that the travel retailer offers, including a de-
+scription of the coverage and the price .
+[(4)] (6)  [ A] An employee or authorized representative of a  travel retailer that is not a lim-
+ited lines travel insurance producer may not:
+[8]
+HB 2128
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Evaluate or interpret the technical terms, benefits or conditions  of travel insurance [ offered
+by] the travel retailer  offers ;
+(b) Evaluate or [ advise] provide advice concerning a prospective purchaser’s existing insurance
+coverage;  or
+(c) [ Hold itself out as ] Represent or otherwise indicate that the employee  or authorized
+representative is  an insurance expert , an insurer, a licensed  insurance producer  or a limited
+lines travel insurance producer.
+(7) A limited lines  travel insurance producer is a designee of an insurer and is responsible
+for the acts  of a travel retailer to which the limited lines travel insurance producer has given
+direction or authorization to provide travel insurance support. The limited lines travel  in-
+surance producer shall use reasonable means to  ensure the travel retailer’s compliance with
+this section.
+(8) The director may suspend, revoke or refuse to renew the license of a limited  lines
+travel insurance producer on the same basis  and to the same extent that the director may
+suspend, revoke or refuse to renew the license of an insurance producer under ORS 744.074.
+SECTION 8.
+ ORS 744.107 is amended to read:
+744.107. If the Director of the Department of Consumer and  Business Services determines that
+a travel  retailer has violated any provision of ORS 744.101 [ or 744.104] to 744.107, the director may,
+in addition to imposing any penalties authorized under the Insurance Code , [ :]
+[(1)] direct  the limited lines travel insurance producer to implement a corrective action plan
+with the travel retailer[ ;] or :
+[(2) Direct the limited travel insurance producer to revoke its authorization of the  travel retailer
+to transact travel insurance on its behalf and under its license and to remove the travel  retailer from
+its register described in ORS 744.104 (2)(b). ]
+(1) Revoke any authorization the travel retailer has from the  limited lines travel insur-
+ance producer to transact  insurance on behalf of, and under the license of, the limited lines
+travel insurance producer; and
+(2) Remove the travel retailer from the register described in ORS 744.104 (4)(b).
+SECTION 9.
+ ORS 744.111 is amended to read:
+744.111. The  Director of the Department of Consumer and Business Services [ shall] may  adopt
+rules to implement and administer the provisions of ORS 744.101 to 744.107.
+SECTION 10.  ORS 646.608, as amended by section 6,  chapter 410, Oregon Laws 2023, is
+amended to read:
+646.608. (1) A  person engages in an unlawful practice if in the course of the person’s business,
+vocation or occupation the person does any of the following:
+(a) Passes off real estate, goods or services as the real estate, goods or services of another.
+(b) Causes likelihood of confusion or of misunderstanding as to the source,  sponsorship, ap-
+proval, or certification of real estate, goods or services.
+(c) Causes likelihood of confusion or of misunderstanding as to  affiliation, connection, or asso-
+ciation with, or certification by, another.
+(d) Uses deceptive representations or designations of  geographic origin in connection with real
+estate, goods or services.
+(e) Represents that real estate, goods or services  have sponsorship, approval, characteristics,
+ingredients, uses, benefits, quantities or  qualities that the real estate, goods or services do not have
+or that a person  has a sponsorship, approval, status, qualification, affiliation, or connection that the
+[9]
+HB 2128
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+person does not have.
+(f) Represents that real  estate or goods are original or new if the real estate or goods are de-
+teriorated, altered, reconditioned, reclaimed, used or secondhand.
+(g) Represents that real estate,  goods or services are of a particular standard, quality, or grade,
+or that real estate or goods are of a particular  style or model, if the real estate, goods or services
+are of another.
+(h) Disparages the real estate, goods, services, property or business of  a customer or another
+by false or misleading representations of fact.
+(i) Advertises  real estate, goods or services with intent not to provide the real estate, goods or
+services as advertised, or  with intent not to supply reasonably expectable public demand, unless the
+advertisement discloses a limitation of quantity.
+(j) Makes false or misleading representations of fact  concerning the reasons for, existence of,
+or amounts of price reductions.
+(k) Makes false or misleading representations concerning credit availability or the nature of the
+transaction or obligation incurred.
+(L) Makes false or misleading representations relating  to commissions or other compensation to
+be paid in exchange for permitting real estate, goods or  services to be used for model or demon-
+stration purposes or in exchange for submitting names of potential customers.
+(m) Performs service on or dismantles any goods or real estate if the owner  or apparent owner
+of the goods or real estate does not authorize the service or dismantling.
+(n) Solicits potential customers by telephone or door to door as a seller  unless the person pro-
+vides the information required under ORS 646.611.
+(o) In a sale, rental or other disposition of real estate, goods or  services, gives or offers to give
+a rebate or  discount or otherwise pays or offers to pay value to the customer in consideration of
+the customer giving to the person the names of prospective purchasers, lessees, or  borrowers, or
+otherwise aiding the person in making a sale, lease, or loan to  another person, if earning the rebate,
+discount  or  other value is contingent upon an event occurring after the time the customer enters
+into the transaction.
+(p) Makes any false or misleading statement about a prize, contest or promotion used  to publi-
+cize a product, business or service.
+(q) Promises to deliver real estate, goods or  services within a certain period of time with intent
+not to deliver the real estate, goods or services as promised.
+(r) Organizes or induces or attempts to induce membership in a pyramid club.
+(s) Makes false or misleading representations of fact concerning the  offering price of, or the
+person’s cost for real estate, goods or services.
+(t) Concurrent  with tender or delivery of any real estate, goods or services, fails to disclose any
+known material defect or material nonconformity.
+(u) Engages in any other unfair or deceptive conduct in trade or commerce.
+(v) Violates any of the provisions relating to auction  sales, consignment sales, auctioneers,
+consignees or auction marts under ORS  698.640, whether in a commercial or noncommercial situ-
+ation.
+(w) Manufactures mercury fever thermometers.
+(x) Sells or supplies mercury fever thermometers  unless the thermometer is required by federal
+law, or is:
+(A) Prescribed by a person licensed under ORS chapter 677; and
+[10]
+HB 2128
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) Supplied with instructions on the careful handling of  the thermometer to avoid breakage and
+on the proper cleanup of mercury should breakage occur.
+(y) Sells a thermostat that contains mercury, unless the thermostat is  labeled in a manner to
+inform the purchaser that mercury is present in the thermostat and  that the thermostat may not be
+disposed of until the mercury is removed, reused, recycled or  otherwise managed to ensure that the
+mercury does not become part of the solid waste stream or wastewater. For purposes of this  para-
+graph, “thermostat” means a device commonly used to sense and, through  electrical communication
+with heating, cooling or ventilation equipment, control room temperature.
+(z) Sells or offers for sale a motor vehicle manufactured after January 1, 2006, that  contains
+mercury light switches.
+(aa) Violates the provisions of ORS 803.375, 803.385 or 815.410 to 815.430.
+(bb) Violates ORS 646A.070 (1).
+(cc) Violates any requirement of ORS 646A.030 to 646A.040.
+(dd) Violates the provisions of ORS 128.801 to 128.898.
+(ee) Violates ORS 646.883 or 646.885.
+(ff) Violates ORS 646.569 or 646A.374.
+(gg) Violates the provisions of ORS 646A.142.
+(hh) Violates ORS 646A.360.
+(ii) Violates ORS 646.553 or 646.557 or any rule adopted pursuant thereto.
+(jj) Violates ORS 646.563.
+(kk) Violates ORS 759.680 or any rule adopted pursuant thereto.
+(LL) Violates the provisions  of ORS 759.705, 759.710 and 759.720 or any rule adopted pursuant
+thereto.
+(mm) Violates ORS 646A.210 or 646A.214.
+(nn) Violates any provision of ORS 646A.124 to 646A.134.
+(oo) Violates ORS 646A.095.
+(pp) Violates ORS 822.046.
+(qq) Violates ORS 128.001.
+(rr) Violates ORS 646A.800 (2) to (4).
+(ss) Violates ORS 646A.090 (2) to (5).
+(tt) Violates ORS 87.686.
+(uu) Violates ORS 646A.803.
+(vv) Violates ORS 646A.362.
+(ww) Violates ORS 646A.052 or any rule adopted under ORS 646A.052 or 646A.054.
+(xx) Violates ORS 180.440 (1) or 180.486 (1).
+(yy) Commits the offense of acting as a vehicle dealer without a certificate under ORS 822.005.
+(zz) Violates ORS 87.007 (2) or (3).
+(aaa) Violates ORS 92.405 (1), (2) or (3).
+(bbb) Engages in an unlawful practice under ORS 646.648.
+(ccc) Violates ORS 646A.365.
+(ddd) Violates ORS 98.853, 98.854, 98.856 or 98.858.
+(eee) Sells a gift card in violation of ORS 646A.276.
+(fff) Violates ORS 646A.102, 646A.106 or 646A.108.
+(ggg) Violates ORS 646A.430 to 646A.450.
+(hhh) Violates a provision of ORS 744.318 to 744.384.
+[11]
+HB 2128
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(iii) Violates a provision of ORS 646A.702 to 646A.720.
+(jjj) Violates ORS  646A.530 30 or more days after a recall notice, warning or declaration de-
+scribed in ORS 646A.530 is issued for the children’s product, as defined in ORS 646A.525, that is the
+subject of the violation.
+(kkk) Violates a provision of ORS 697.612, 697.642, 697.652, 697.662, 697.682, 697.692 or 697.707.
+(LLL) Violates the consumer protection  provisions of the Servicemembers Civil Relief Act, 50
+U.S.C. 3901 et seq., as in effect on January 1, 2010.
+(mmm) Violates a provision of ORS 646A.480 to 646A.495.
+(nnn) Violates ORS 646A.082.
+(ooo) Violates ORS 646.647.
+(ppp) Violates ORS 646A.115.
+(qqq) Violates a provision of ORS 646A.405.
+(rrr) Violates ORS 646A.092.
+(sss) Violates a provision of ORS 646.644.
+(ttt) Violates a provision of ORS 646A.295.
+(uuu) Engages in the business of, or acts in  the capacity of, an immigration consultant, as de-
+fined in ORS 9.280, in this state and for compensation, unless federal law authorizes the person to
+do so or unless the person is an active member of the Oregon State Bar.
+(vvv) Violates ORS 702.012, 702.029 or 702.054.
+(www) Violates ORS 646A.806.
+(xxx) Violates ORS 646A.810 (2).
+(yyy) Violates ORS 443.376.
+(zzz) Violates a provision of ORS 646A.770 to 646A.787.
+(aaaa) Violates ORS 815.077.
+(bbbb) Engage in an act or practice that is prohibited under section 3 (8) of  this 2025 Act.
+(2) A representation under subsection (1) of this section or  ORS 646.607 may be any manifesta-
+tion of any assertion by words or conduct, including, but not limited to, a failure to  disclose a fact.
+(3) In order to prevail in an action or suit under ORS 336.184 and  646.605 to 646.652, a prose-
+cuting attorney need not prove competition between the parties or actual confusion  or misunder-
+standing.
+(4) An action or suit may not be brought under subsection (1)(u) of this  section unless the At-
+torney General has  first established a rule in accordance with the provisions of ORS chapter 183
+declaring the conduct to be unfair or deceptive in trade or commerce.
+(5) Notwithstanding any other provision of ORS 336.184 and 646.605 to 646.652, if an  action or
+suit is  brought under subsection (1)(xx) of this section by a person other than a prosecuting attor-
+ney, relief is limited to an injunction, and the  prevailing party may be awarded reasonable attorney
+fees.
+SECTION 11.
+(1) Sections 2 to 5 of this 2025 Act and the amendments to ORS 646.608,
+744.101, 744.104, 744.107 and 744.111 by sections 6 to 10 of this 2025 Act apply to travel insur-
+ance that covers a resident of this state, that is solicited, offered,  negotiated or sold in this
+state or for which policies or  certificates are issued or delivered in this state on or after the
+operative date specified in section 12 of this 2025 Act.
+(2) Sections 2 to 5 of this 2025 Act and the  amendments to ORS 646.608, 744.101, 744.104,
+744.107 and 744.111 by sections 6 to 10 of this 2025 Act do  not apply to travel assistance ser-
+vices or cancellation fee waivers except as otherwise provided  in sections 2 to 5 of this 2025
+[12]
+HB 2128
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+Act and the amendments to  ORS 646.608, 744.101, 744.104, 744.107 and 744.111 by sections 6
+to 10 of this 2025 Act.
+(3) Except as provided in sections 2 to 5 of this  2025 Act and the amendments to ORS
+646.608, 744.101, 744.104, 744.107 and 744.111 by sections 6 to 10 of this 2025  Act, the provisions
+of the Insurance Code apply to travel insurance.
+SECTION 12.
+(1) Sections 2 to 5 of this 2025 Act and the amendments to ORS 646.608,
+744.101, 744.104, 744.107 and 744.111 by sections 6 to 10 of this 2025 Act become operative  on
+January 1, 2026.
+(2) The Director of  the Department of Consumer and Business Services may adopt rules
+and take any  other action before the operative date specified in subsection (1) of this section
+that is necessary to enable the director, on  and after the operative date specified in sub-
+section (1) of this section, to undertake and exercise  all of the duties, functions and powers
+conferred on the director by  sections 2 to 5 of this 2025 Act and the amendments to ORS
+646.608, 744.101, 744.104, 744.107 and 744.111 by sections 6 to 10 of this 2025 Act.
+SECTION 13. This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[13]

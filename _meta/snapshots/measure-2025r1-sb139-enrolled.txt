@@ -1,0 +1,129 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 139
+Sponsored by Senator PATTERSON (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to infectious waste; amending ORS 459.386, 459.390 and 459.395.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 459.386 is amended to read:
+459.386. As used in ORS 459.386 to 459.405:
+(1) “Biological waste” includes blood  and blood products, excretions, exudates, secretions,
+suctionings and other  body fluids that cannot be directly discarded into a municipal sewer system,
+and waste materials saturated  with blood or body fluids, but does not include diapers soiled with
+urine or feces.
+(2) “Cultures and stocks” includes etiologic agents and associated biologicals, including  speci-
+men cultures and dishes and devices used to transfer,  inoculate and mix cultures, wastes from pro-
+duction of biologicals,  and serums and discarded live and attenuated vaccines.  “Cultures and
+stocks” does not include throat and urine cultures.
+(3) “Disposal” means the final placement of  treated infectious waste in a disposal site operating
+under a permit issued by a state or federal agency.
+(4) “Infectious waste” includes biological waste,  cultures and stocks, pathological waste and
+sharps.
+(5)(a) “Pathological waste” includes:
+(A) Biopsy materials and all human tissues;
+(B) Anatomical parts that emanate from  surgeries, autopsies and obstetrical and laboratory
+procedures; and
+(C) Animal carcasses exposed to pathogens in research and the  bedding and other waste from
+such animals.
+(b) “Pathological waste” does not include teeth or formaldehyde or other preservative agents.
+(6) “Sharps” includes needles, IV tubing with needles attached, scalpel blades, lancets,  glass
+tubes that could be broken during handling and syringes that have been  removed from their original
+sterile containers.
+(7) “Storage” means the temporary containment of  infectious waste in a manner that does not
+constitute treatment or disposal of such waste.
+(8) “Transportation” means the movement of infectious waste from the point of generation  over
+a public highway to any intermediate point or to the point of final treatment.
+(9) “Treatment” means incineration, sterilization or other method, technique or process ap-
+proved by the  Oregon Health Authority that changes the character or composition of any infectious
+waste so as to render the waste noninfectious.
+(10) “Waste pharmaceuticals” means discarded pharmaceuticals that are not:
+Enrolled Senate Bill 139 (SB 139-B) Page 1
+(a) Hazardous waste, as defined in ORS 466.005;
+(b) Radioactive waste, as defined in ORS 469.300; or
+(c) A radioactive substance, as defined in ORS 453.005.
+SECTION 2.
+ ORS 459.390 is amended to read:
+459.390. (1)(a) Except as provided in paragraph (b)  of this subsection,  infectious waste shall
+be segregated from other wastes by separate containment at the point of generation.
+(b) A person may consolidate sharps and waste pharmaceuticals into  a single container,
+which may be reusable, provided that:
+(A) The container satisfies the requirements of subsection (3) of this section; and
+(B) The entire contents of the  container are managed as infectious waste in accordance
+with ORS 459.386 to 459.405.
+(c) Enclosures used  for storage of infectious waste shall be secured to prevent access by unau-
+thorized persons and shall be marked with prominent warning signs.
+(2) Infectious waste, except for sharps, shall be contained in disposable red plastic bags  or
+containers made of other materials impervious to moisture  and strong enough to prevent ripping,
+tearing or bursting under normal conditions of use. The bags or containers  shall be closed to pre-
+vent leakage or expulsion of solid or liquid wastes during storage, collection or transportation.
+(3)(a) Sharps  shall be contained for storage, collection, transportation and disposal in leakproof,
+rigid, puncture-resistant red containers that  are taped closed or tightly lidded to prevent loss of the
+contents. Sharps may be stored in such containers for more than seven days.
+(b) Sharps  consolidated with waste pharmaceuticals shall be contained for storage, col-
+lection, transportation and treatment in leakproof,  rigid, puncture-resistant and tightly
+lidded containers that are  a distinctive color other than red and conspicuously labeled with
+the international biohazard symbol. Sharps consolidated with waste pharmaceuticals may be
+stored in such containers for more than seven days.
+(4) All  bags, boxes or other containers for infectious waste and rigid containers of discarded
+sharps shall be clearly identified as containing infectious waste.
+(5) Infectious waste shall be stored at temperatures and only  for times established by rules of
+the Oregon Health Authority.
+(6) Infectious waste shall  not be compacted before treatment and shall not be placed for col-
+lection, storage or transportation in a portable or mobile trash compactor.
+(7) Infectious  waste contained in disposable bags as specified in this section shall be placed for
+collection, storage, handling or transportation in a disposable or reusable pail, carton,  box, drum,
+dumpster, portable bin or similar container. The container  shall have a tight-fitting cover and be
+kept clean and in good repair. The container may be of any  color and shall be conspicuously labeled
+with the international biohazard symbol and the words “Biomedical Waste”  on the sides so as to
+be readily visible from any lateral direction when the container is upright.
+(8) Each time a reusable container for infectious waste is emptied,  the container shall be thor-
+oughly washed and decontaminated  unless the surfaces of the container have been protected from
+contamination by a disposable red liner, bag or other device removed with the waste.
+(9) Trash chutes shall not be used to transfer infectious waste between locations where it  is
+contained or stored.
+(10) Generators that produce 50 pounds or less of infectious waste in any  calendar month shall
+be exempt from the specific requirements of subsections (5), (7) and (8) of this section.
+SECTION 3.
+ ORS 459.395 is amended to read:
+459.395. (1) Pathological  wastes shall be treated by incineration in an incinerator that provides
+complete combustion of waste to carbonized  or mineralized ash. The ash shall be disposed of as
+provided in rules adopted by the  Environmental Quality Commission. However, if the Department
+of Environmental Quality determines that incineration is  not reasonably available within a
+wasteshed, pathological wastes may be disposed of in  the same manner provided for cultures and
+stocks.
+Enrolled Senate Bill 139 (SB 139-B) Page 2
+(2) Cultures and stocks shall  be incinerated as described in subsection (1) of this section or
+sterilized by other means prescribed by  Oregon Health Authority rule. Sterilized waste may be dis-
+posed of in a permitted land disposal site if it is not otherwise classified as hazardous waste.
+(3) Liquid or soluble semisolid biological wastes may be discharged into  a sewage treatment
+system that provides secondary treatment of waste.
+(4)(a) Sharps and biological wastes may be  incinerated as described in subsection (1) of this
+section  or  sterilized by other means prescribed by authority rule. Sharps may be disposed of in a
+permitted land disposal site only if the sharps are in containers as required in ORS  459.390 (3) and
+are placed in a segregated area of the landfill.
+(b) Notwithstanding paragraph  (a) of this subsection, sharps consolidated with waste
+pharmaceuticals shall be treated by incineration in  an incinerator that is authorized to ac-
+cept sharps and waste pharmaceuticals under a permit issued by a state or federal agency.
+(5) Other methods of treatment and disposal may be approved by rule of the commission.
+Passed by Senate April 10, 2025
+Repassed by Senate May 27, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House May 21, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 139 (SB 139-B) Page 3

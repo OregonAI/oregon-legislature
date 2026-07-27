@@ -1,0 +1,519 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 48
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Housing and Development)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act amends laws about home siting and construction. (Flesch  Readability Score:
+66.1).
+Limits to within an urban growth boundary  a dwelling developer’s ability to apply updated land
+use regulations to pending application.
+Amends the temporary urban growth boundary expansion program.
+A BILL FOR AN ACT
+Relating to housing;  amending ORS 215.427 and 227.178 and sections 52 and 58, chapter 110, Oregon
+Laws 2024.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 215.427, as amended by section 7,  chapter 102, Oregon Laws 2024, and section
+8, chapter 110, Oregon Laws 2024, is amended to read:
+215.427. (1) Except as provided in subsections (3), (5) and (10) of this  section, for land within an
+urban growth boundary and applications for mineral aggregate extraction, the governing  body of a
+county or its  designee shall take final action on an application for a permit, limited land use deci-
+sion or zone change, including resolution of all appeals  under ORS 215.422, within 120 days after the
+application is deemed complete. The governing body of a county or its designee shall take  final
+action on all  other applications for a permit, limited land use decision or zone change, including
+resolution of all appeals under ORS 215.422, within 150 days after the application is deemed com-
+plete, except as provided in subsections (3), (5) and (10) of this section.
+(2) If an application for a permit, limited land use decision or  zone change is incomplete, the
+governing body or its designee shall notify  the applicant in writing of exactly what information is
+missing within 30 days of receipt of the application  and allow the applicant to submit the missing
+information. The application shall be deemed  complete for the purpose of subsection (1) of this sec-
+tion and ORS 197A.470 upon receipt by the governing body or its designee of:
+(a) All of the missing information;
+(b) Some of the missing information and written notice  from the applicant that no other infor-
+mation will be provided; or
+(c) Written notice from the applicant that none of the missing information will be provided.
+(3)(a) If the application was complete when first submitted or  the applicant submits additional
+information within 180 days of the date the  application was first submitted, approval or denial of the
+application must be based:
+(A) Upon the standards and criteria that were applicable at  the time the application was first
+submitted; or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1026
+SB 48
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) For an application relating to  development of housing  within an urban growth boundary ,
+upon the request of the applicant, those standards  and criteria that are operative at the time of the
+request.
+(b) If an applicant requests review under  different standards as provided in paragraph (a)(B) of
+this subsection:
+(A) For the  purposes of this section, any applicable timelines for completeness review and final
+decisions restart as if a new application were submitted on the date of the request;
+(B) For the purposes of this section and ORS 197A.470 the application is not  deemed complete
+until:
+(i) The county determines that additional information is not  required under subsection (2) of this
+section; or
+(ii) The applicant  makes a submission under subsection (2) of this section in response to a
+county’s request;
+(C) A county may deny a request under paragraph (a)(B) of this subsection if:
+(i) The county has issued a public notice of the application; or
+(ii) A request under paragraph (a)(B) of this subsection was previously made; and
+(D) The county may not require that the applicant:
+(i) Pay  a fee, except to cover additional costs incurred by the county to accommodate the re-
+quest;
+(ii) Submit a new application or duplicative information, unless information resubmittal is re-
+quired because  the request affects or changes information in other locations in the application or
+additional narrative is required to understand the request in context; or
+(iii) Repeat redundant processes or hearings that are inapplicable to  the change in standards
+or criteria.
+(4) On the 181st  day after first being submitted, the application is void if the applicant has been
+notified of the missing information as required under subsection (2) of this section and has not sub-
+mitted:
+(a) All of the missing information;
+(b) Some of the missing information and written notice that no other  information will be pro-
+vided; or
+(c) Written notice that none of the missing information will be provided.
+(5) The period set in  subsection (1) of this section or the 100-day period set in ORS 197A.470
+may be extended for a specified period of time at the written  request of the applicant. The total of
+all extensions, except as provided in subsection (10) of this section for mediation,  may not exceed
+215 days.
+(6) The period set in subsection (1) of this section applies:
+(a) Only to decisions wholly within the authority and control of the governing body of the
+county; and
+(b) Unless the parties have agreed to mediation as described in  subsection (10) of this section
+or ORS 197.319 (2)(b).
+(7) Notwithstanding subsection (6) of  this section, the period set in subsection (1) of this section
+and the 100-day period set in ORS 197A.470 do not apply to:
+(a) A  decision of the county making a change to an acknowledged comprehensive plan or a land
+use regulation that is submitted to the Director of the Department of Land Conservation and De-
+velopment under ORS 197.610; or
+[2]
+SB 48
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) A decision of a  county involving an application for the development of residential structures
+within an urban growth boundary, where the county has tentatively approved the application and
+extends these periods by no more than seven days in order to  assure the sufficiency of its final or-
+der.
+(8) Except when an applicant requests an  extension under subsection (5) of this section, if the
+governing  body  of the county or its designee does not take final action on an application for a
+permit, limited land use decision or zone change within 120 days or 150 days, as applicable, after
+the application is deemed complete, the county shall refund  to the applicant either the unexpended
+portion of any application  fees or deposits previously paid or 50 percent of the total amount of such
+fees or deposits, whichever is greater. The  applicant is not liable for additional governmental fees
+incurred subsequent to the payment of  such fees or deposits. However, the applicant is responsible
+for the costs of providing sufficient additional  information to address relevant issues identified in
+the consideration of the application.
+(9) A county may not compel an applicant to waive  the period set in subsection (1) of this sec-
+tion or to waive the provisions of subsection (8) of this  section or ORS 197A.470 or 215.429 as a
+condition  for  taking any action on an application for a permit, limited land use decision or zone
+change except when such applications are filed  concurrently and considered jointly with a plan
+amendment.
+(10) The periods set forth in subsections (1) and (5) of this section and ORS 197A.470  may be
+extended by up to 90 additional days, if the applicant and the county agree that a dispute concerning
+the application will be mediated.
+SECTION 2.
+ ORS 227.178, as amended by section 8,  chapter 102, Oregon Laws 2024, and section
+9, chapter 110, Oregon Laws 2024, is amended to read:
+227.178. (1) Except as provided in subsections (3), (5) and (11) of this  section, the governing body
+of a city or its designee shall take final action on an application for a  permit, limited land use de-
+cision or zone change, including resolution of  all appeals under ORS 227.180, within 120 days after
+the application is deemed complete.
+(2) If an application for a  permit, limited land use decision or zone change is incomplete, the
+governing body or its designee shall notify the applicant in  writing of exactly what information is
+missing within 30 days of receipt of the application  and allow the applicant to submit the missing
+information. The application shall be deemed complete for the purpose of  subsection (1) of this sec-
+tion or ORS 197A.470 upon receipt by the governing body or its designee of:
+(a) All of the missing information;
+(b) Some of the missing information and written  notice from the applicant that no other infor-
+mation will be provided; or
+(c) Written notice from the applicant that none of the missing information will be provided.
+(3)(a) If the application was complete when first submitted or the applicant submits the re-
+quested additional information within 180 days of the date  the application was first submitted, ap-
+proval or denial of the application must be based:
+(A) Upon the standards and criteria that were applicable at  the time the application was first
+submitted; or
+(B) For an application relating to  development of housing  within an urban growth boundary ,
+upon the request of the applicant, those standards  and criteria that are operative at the time of the
+request.
+(b) If an applicant requests review under  different standards as provided in paragraph (a)(B) of
+[3]
+SB 48
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+this subsection:
+(A) For the  purposes of this section, any applicable timelines for completeness review and final
+decisions restart as if a new application were submitted on the date of the request;
+(B) For the purposes of this section and ORS 197A.470 the application is not  deemed complete
+until:
+(i) The city determines that additional information is not required  under subsection (2) of this
+section;  or
+(ii) The applicant makes  a submission under subsection (2) of this section in response to a city’s
+request;
+(C) A city may deny a request under paragraph (a)(B) of this subsection if:
+(i) The city has issued a public notice of the application; or
+(ii) A request under paragraph (a)(B) of this subsection was previously made; and
+(D) The city may not require that the applicant:
+(i) Pay a fee, except to cover additional costs incurred by the city to  accommodate the request;
+(ii) Submit a new application or duplicative information, unless information resubmittal is re-
+quired because  the request affects or changes information in other locations in the application or
+additional narrative is required to understand the request in context; or
+(iii) Repeat redundant processes or hearings that are inapplicable to  the change in standards
+or criteria.
+(4) On the 181st  day after first being submitted, the application is void if the applicant has been
+notified of the missing information as required under subsection (2) of this section and has not sub-
+mitted:
+(a) All of the missing information;
+(b) Some of the missing information and written notice that no other  information will be pro-
+vided; or
+(c) Written notice that none of the missing information will be provided.
+(5) The 120-day period set in subsection (1) of  this section or the 100-day period set in ORS
+197A.470 may be extended for a specified period of time at  the written request of the applicant. The
+total of all extensions, except as provided in subsection (11) of this section for mediation, may  not
+exceed 245 days.
+(6) The 120-day period set in subsection (1) of this section applies:
+(a) Only to decisions wholly within the authority and control of the governing body of the  city;
+and
+(b) Unless the parties have agreed to mediation as described in  subsection (11) of this section
+or ORS 197.319 (2)(b).
+(7) Notwithstanding subsection (6) of this section, the 120-day period set in subsection (1) of this
+section and the 100-day period set in ORS 197A.470 do not apply to:
+(a) A decision of the  city making a change to an acknowledged comprehensive plan or a land
+use regulation that is submitted to the Director of the Department of Land Conservation and De-
+velopment under ORS 197.610; or
+(b) A decision of a city involving an application for  the development of residential structures
+within an  urban growth boundary, where the city has tentatively approved the application and ex-
+tends these periods by no more than seven days in order to  assure the sufficiency of its final order.
+(8) Except when an applicant requests an extension under subsection  (5) of this section, if the
+governing body of the city or its designee does not take final action on  an application for a permit,
+[4]
+SB 48
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+limited land use decision or zone change within 120 days after  the application is deemed complete,
+the city shall refund to the  applicant, subject to the provisions of subsection (9) of this section, ei-
+ther the unexpended portion of any application fees  or deposits previously paid or 50 percent of the
+total amount of such fees or deposits, whichever is greater. The applicant  is not liable for additional
+governmental fees incurred subsequent to the payment of  such fees or deposits. However, the ap-
+plicant is responsible for the costs of providing sufficient  additional information to address relevant
+issues identified in the consideration of the application.
+(9)(a) To obtain a refund under subsection (8) of this section, the applicant may either:
+(A) Submit a written  request for payment, either by mail or in person, to the city or its designee;
+or
+(B) Include the amount claimed in a mandamus petition filed under ORS  227.179. The court shall
+award an amount owed under this section in its final order on the petition.
+(b) Within seven calendar days of  receiving a request for a refund, the city or its designee shall
+determine the amount of any refund owed. Payment, or notice that no payment is  due, shall be made
+to the applicant  within 30 calendar days of receiving the request. Any amount due and not paid
+within 30 calendar days of receipt of the request shall be subject to interest  charges at the rate of
+one percent per month, or a portion thereof.
+(c) If payment due under paragraph (b) of this subsection is not paid within 120 days  after the
+city or its designee receives the refund  request, the applicant may file an action for recovery of the
+unpaid refund. In an action brought by a person  under this paragraph, the court shall award to a
+prevailing applicant, in addition to the relief provided in  this section, reasonable attorney fees and
+costs at trial and  on appeal. If the city or its designee prevails, the court shall award reasonable
+attorney fees and costs at trial and on appeal if the court finds the petition to be frivolous.
+(10) A  city may not compel an applicant to waive the 120-day period set in subsection (1) of this
+section or to waive the provisions of subsection (8) of this section or ORS 197A.470 or 227.179 as a
+condition for taking any action on an application for a permit, limited land use decision or  zone
+change except when such applications are filed concurrently  and considered jointly with a plan
+amendment.
+(11) The periods  set forth in subsections (1) and (5) of this section and ORS 197A.470 may be
+extended by up to 90 additional days, if the  applicant and the city agree that a dispute concerning
+the application will be mediated.
+SECTION 3.
+ Section 52, chapter 110, Oregon Laws 2024, is amended to read:
+Sec. 52.  A city may  not add, or petition to add, a site under sections 49 to 59 , chapter 110,
+Oregon Laws 2024 [ of this 2024 Act ], unless:
+(1) The city has demonstrated a need for additional land based on the following factors:
+(a)(A) In the previous 20 years there have been  no urban growth boundary expansions for resi-
+dential use adopted by a city or by Metro in a location adjacent to the city; and
+(B) The city does not have within the existing urban growth boundary an undeveloped, contig-
+uous tract that is zoned for residential use that is larger than 20 net residential acres; or
+(b) Within urban growth boundary expansion areas for residential use  adopted by the city over
+the previous 20 years, or by Metro in locations adjacent to the city, 75 percent of the lands either:
+(A) Are developed; or
+(B) Have an acknowledged comprehensive plan  with land use designations in preparation for
+annexation and have a public facilities plan and associated financing plan.
+(2) The city has demonstrated a need for affordable housing, based on:
+[5]
+SB 48
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+(a) Having a greater percentage of severely cost-burdened households than the average  for this
+state based on the Comprehensive Housing Affordability Strategy data  from the United States De-
+partment of Housing and Urban Development; or
+(b) At least 25 percent of the renter  households in the city being severely rent burdened as in-
+dicated under the most recent housing equity indicator data under ORS 456.602 (2)(g).
+(3) The evaluation of the demonstrations required under this section and the evaluation
+of criteria in an application under sections 49 to 59, chapter 110, Oregon Laws 2024,  must be
+based on the  evidence, data and factors as of the time a public notice is issued under section
+53 (1), chapter 110, Oregon Laws 2024.
+SECTION 4.
+ Section 58, chapter 110, Oregon Laws 2024, is amended to read:
+Sec. 58.  (1)  In lieu of amending its urban growth boundary under any other process provided
+by sections 49 to 59 , chapter 110, Oregon Laws 2024  [ of this 2024 Act ], Metro or a city outside of
+Metro may amend its urban growth boundary  to add one or more sites [ described in section 51 (1)(a)
+and (b) of this 2024 Act ] that satisfy the requirements of section 50 (1)(a) to (c),  chapter 110,
+Oregon Laws 2024, to the urban growth boundary and to remove one or more tracts  of land from
+the urban growth boundary as provided in this section. For Metro, a site added under this section
+must be designated as an urban reserve.
+(2) The acreage of the added site and removed lands must be roughly equivalent.
+(3) The removed lands must have been zoned for residential uses.
+(4) The added  site must be zoned for residential uses at the same or greater density than the
+removed lands.
+(5)(a) Except as provided in paragraph (b) of this subsection, land may be removed from an urban
+growth boundary under this section without landowner consent.
+(b) A landowner may not appeal the removal of the landowner’s land  from an urban growth
+boundary under this section unless the landowner agrees  to enter into a recorded agreement with
+Metro or the  city in which the landowner would consent to annexation and development of the land
+within 20 years if the land remains in the urban growth boundary.
+(6) Review of an exchange of lands made under this section may only be made by:
+(a) For  cities outside of Metro, the county as provided in section 50 (2) , chapter 110, Oregon
+Laws 2024, [of this  2024 Act ] and by the Department of Land Conservation and Development, subject
+to judicial review, as provided in section 57 , chapter 110, Oregon Laws 2024  [ of this 2024 Act ]; or
+(b) For Metro, the Department of Land Conservation and  Development, subject to judicial re-
+view, as provided in section 57 , chapter 110, Oregon Laws 2024  [ of this 2024 Act ].
+(7) Sections 50 (1)(d) to (g), 52, 53, 54, 55 and 56 , chapter 110, Oregon Laws 2024,  [of this 2024
+Act] do not apply to a site addition made under this section.
+[6]

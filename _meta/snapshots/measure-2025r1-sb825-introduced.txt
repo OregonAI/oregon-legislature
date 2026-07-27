@@ -1,0 +1,202 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 825
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Governor Tina Kotek for State Department of Energy)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes a state energy program abate costs of  reports and not make state agencies do the
+same things twice that must be done under another program. (Flesch Readability Score: 60.0).
+Requires the program for state agency facility energy  design to minimize costs of reports to
+state agencies and minimize duplication of reporting requirements under  the energy performance
+program for covered commercial buildings.
+Removes a requirement that  the Director of the State Department of Energy submit a biennial
+report to the Legislative Assembly on the small scale local energy loan program funds.
+A BILL FOR AN ACT
+Relating to reporting requirements for energy programs; amending ORS  276.915, 470.110 and 470.140.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 276.915 is amended to read:
+276.915. (1) An authorized state agency  may construct or renovate a facility only if the author-
+ized state agency determines that the design  incorporates all reasonable cost-effective energy con-
+servation  measures  and alternative energy systems. The determination by the authorized state
+agency shall include consideration of indoor air quality issues and operation and maintenance  costs.
+(2) Whenever an authorized state agency determines  that a major facility is to be constructed
+or renovated, the authorized state agency shall cause to be included in the design phase of  the
+construction or renovation a provision  that requires an energy consumption analysis to be prepared
+for the facility under the  direction of a professional engineer or registered architect or under the
+direction of a person  that is prequalified in accordance with this section. The authorized state
+agency and the State Department of Energy shall agree to  the list of energy conservation measures
+and alternative energy systems that  the energy consumption analysis will include. The energy con-
+sumption analysis and facility design shall be delivered to the  State Department of Energy during
+the design development phase of  the facility design. The State Department of Energy shall review
+the energy consumption  analysis and forward its findings to the authorized state agency within 10
+working days after receiving the energy consumption analysis, if practicable.
+(3) The State Department of Energy, in consultation with authorized state agencies, shall  adopt
+rules to carry out the provisions of ORS 276.900 to 276.915. These rules shall:
+(a) Include a simplified and usable method for determining which  energy conservation measures
+and alternative energy systems are cost-effective. The method shall reflect  the energy costs of the
+utility serving the facility.
+(b) Prescribe procedures for determining if a facility design  incorporates all reasonable cost-
+effective energy conservation measures and alternative energy systems.
+(c) Establish  fees through which an authorized state agency will reimburse the State Department
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 374
+SB 825
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of Energy for the department’s review  of energy consumption analyses and facility designs and the
+department’s reporting tasks. The fees imposed may not exceed 0.2 percent of the capital  con-
+struction cost of the facility and must be  included in the energy consumption analysis required in
+subsection (2) of this section. The State  Department of Energy may provide for a waiver of fees and
+reviews if the authorized state  agency demonstrates that the facility will be designed and con-
+structed in a manner that incorporates only cost-effective energy conservation measures or in a
+manner that exceeds the energy conservation provisions of the state building  code by 20 percent or
+more.
+(d) Periodically define highly efficient  facilities. A facility constructed or renovated after June
+30, 2001, shall exceed the  energy conservation provisions of the state building code by 20 percent
+or more, unless otherwise required by rules adopted under this section.
+[(e) Establish guidelines for implementing subsection (4) of this section. ]
+[(f)] (e) Establish guidelines for incorporating energy efficiency requirements into lease agree-
+ments of 10 or more years to be phased in as current lease agreements expire or as new lease
+agreements are entered into, allowing reasonable time  for the owner to implement the requirements
+of this section.
+[(g)] (f) Establish criteria by which the State Department of Energy determines that a person
+is prequalified to perform work in accordance with this section.
+[(4) Before June 30, 2015, an authorized state agency shall reduce the total amount of energy the
+authorized state agency uses in the authorized state agency’s owned facilities by  at least 20 percent
+from a baseline amount the State Department of Energy determines by rule based on usage in calendar
+year 2000.]
+[(5)] (4) An authorized  state agency shall report annually to the State Department of Energy
+concerning energy use in the authorized state  agency’s facilities. The State Department of Energy
+shall specify by rule the form  and content of and deadlines for the reports. The rules must mini-
+mize costs to state  agencies of the reports and minimize duplication of reporting require-
+ments for building energy performance standards under ORS 469.275 to 469.291.
+[(6) An  authorized state agency that fails to achieve and maintain a 20 percent reduction in energy
+use on and after June 30, 2015, shall submit biennial energy conservation plans to the State Department
+of Energy. The State Department of Energy shall specify by rule the form and content of and deadlines
+for the energy conservation plans. ]
+[(7)] (5) The State Department of  Energy by rule may require mandatory prequalification as a
+condition for a person to submit a bid  or proposal to perform the following work for an authorized
+state agency:
+(a) Direct an energy consumption analysis for an authorized  state agency under subsection (2)
+of this section, unless the person is a professional engineer or a registered architect;
+(b) Enter into an energy savings performance contract; or
+(c) Perform energy  audits, building commissioning, monitoring and verification services and
+other services related to the operation and management  of a facility’s energy systems, except for
+architectural, engineering, photogrammetric mapping, transportation planning or land surveying
+services as defined in ORS 279C.100.
+[(8)] (6) The State Department of Energy  may recover from authorized state agencies the costs
+associated with administering the provisions  of this section, including costs associated with adopting
+rules, maintaining a state energy use database and prequalifying a person under this section.
+[(9)] (7) The State Department of Energy and the Oregon Department  of Administrative Services
+[2]
+SB 825
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+shall jointly prepare a biennial report summarizing the progress  toward achieving the goals of this
+section. The biennial report shall be made available to the public.
+SECTION 2.
+ ORS 470.140 is amended to read:
+470.140. [(1)] In accordance with  the applicable provisions of ORS chapter 183, the Director of
+the State Department of Energy may adopt rules considered necessary to carry out the purposes of
+this chapter.
+[(2) The director  shall submit to the Legislative Assembly and the Governor a biennial report of
+the transactions of the Small Scale Local Energy Project Loan Fund  and the Small Scale Local Energy
+Project Administration and Bond Sinking Fund in such detail as will accurately indicate the  condition
+of the funds. ]
+SECTION 3.
+ ORS 470.110 is amended to read:
+470.110. The Director of the State Department of Energy may accept gifts  of money or other
+property from any source, given for the purposes of ORS 470.050 to 470.120, 470.140 [ (1)] and 470.150
+to 470.210. Money so  received shall be paid into the Small Scale Local Energy Project Loan Fund.
+Money or other property so received shall be used for the purposes for which received.
+[3]

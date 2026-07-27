@@ -1,0 +1,163 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1192
+Sponsored by Senator MANNING JR
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act concerns making power from water under a water right.  The Act provides that
+a person cannot be banned  from using the water right under certain circumstances. (Flesch Read-
+ability Score: 62.7).
+Provides that the Water Resources Director may not  forcibly convert a hydroelectric water
+right whose holder has ceased  generating electricity on instruction from the Federal Energy Regu-
+latory Commission if certain other criteria are met.
+A BILL FOR AN ACT
+Relating to hydroelectric water rights; amending ORS 543A.305.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 543A.305 is amended to read:
+543A.305. (1) As used in this section:
+(a) “Holder” has the meaning given that term in ORS 543.075.
+(b) “In-stream water right” has the meaning given that term in ORS 537.332.
+(c) “Reauthorize” has the meaning given that term in ORS 543.075.
+(2) An in-stream water right [ shall] resulting from a conversion under subsection (3) of this
+section must:
+(a) Be subject to the limitations of ORS 537.350 [ and shall].
+(b) Be maintained in perpetuity, in trust for the people of the State of Oregon.
+(c) [ The] Have a  priority date [ of the in-stream water right shall be ] that is  the same as that
+of the converted hydroelectric water right.
+(d) [ The] Have a  location [ of the  in-stream water right shall be ] that is  the same as the point
+of diversion identified in the hydroelectric water right.
+(3) Upon a finding  by the Water Resources Director that conversion will not result in
+injury to other existing water rights, the director shall convert up to the full amount of a
+water right associated with a hydroelectric project to an in-stream water right:
+[(3)] (a) Five years after the use of water under a hydroelectric water right ceases[ , or ];
+(b) Upon expiration of a hydroelectric water right not otherwise  extended or reauthorized[ ,
+or];
+(c) Upon expiration of a time-limited hydroelectric water right  that is transferred under
+ORS 540.520 and 540.530; or
+(d) At any time  [ earlier] with the written consent of the holder of the hydroelectric water
+right[, up to the full amount of the water right associated with the hydroelectric project shall be  con-
+verted to an  in-stream water right, upon a finding by the Water Resources Director that the conversion
+will not result in injury to other existing water rights ].
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4663
+SB 1192
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+(4) In [ making the evaluation ] determining  whether to issue a finding described in sub-
+section (3) of this section , the director shall consider the actual use of  the hydroelectric project
+and the resulting impacts on actual use by other existing water rights as of October 23, 1999.
+(5) In converting all or part of a hydroelectric water right to an in-stream water right
+under subsection (3) of this section,  the director may include mitigation measures as  conditions
+of the in-stream  water right to avoid injury and to ensure the continuation of authorized water uses
+by other existing water rights.
+[(4)] (6)  If [ the] a  hydroelectric project  is authorized by a pre-1909 unadjudicated claim of
+registration[ ,]:
+(a) [ the] A  determination , under subsection (3) of  this section,  of  whether conversion will
+result in injury  to other existing water rights:
+(A) [ shall] Must  be based upon an evaluation of the actual use as measured  during the five
+years preceding the conversion action[ ,]; and
+(B) [shall] May  not  constitute a determination under ORS 537.670 to 537.695 as to the underly-
+ing claim of registration of the pre-1909 use.
+(b) Judicial review of a final order relating to [ such] a conversion  under subsection (3) of  this
+section shall be limited to review of the conversion action.
+[(5)] (7) Subsection (3) of  this section [ shall] does  not apply to projects on boundary waters
+that operate with water rights issued  by the State of Oregon and by any other state , except upon
+the written request of the water right holder.
+[(6)] (8)  If hydroelectric production is not the sole beneficial use authorized by a water right,
+subsection (3) of  this section [ shall apply ] applies only to conversion of  that portion of the water
+right used exclusively for hydroelectric purposes.
+[(7)] (9) A hydroelectric water  right may not be converted under subsection (3) of  this
+section [ shall not apply ], on the basis that use  of water under the hydroelectric water right
+has ceased for five years,  if :
+(a) The holder, at any time prior to conversion [ under subsection (3) of this  section ], transfers
+the hydroelectric water right under ORS 540.520  and 540.530[ , except that if a time-limited hydro-
+electric water right is transferred under ORS 540.520 and  540.530, the provisions of this section shall
+apply at the time of expiration of the time-limited water right. ]; or
+(b)(A) During any part of the period of five years, the use of water under the hydroelec-
+tric water right ceased as a  result of an instruction from the Federal Energy Regulatory
+Commission to stop generating electricity;
+(B) The hydroelectric project has the capacity to generate power at the  maximum rate
+authorized by the hydroelectric water right; and
+(C) The holder is ready, willing and able to use the  hydroelectric water right to generate
+power.
+SECTION 2.
+The exception described in ORS 543A.305 (9)(b) applies if:
+(1) A use of water ceased, as described in ORS 543A.305 (9)(b)(A), before, on or after  the
+effective date of this 2025 Act; and
+(2) The criteria described in ORS 543A.305 (9)(b)(B) and (C) are also met.
+SECTION 3.
+Section 2 of this 2025 Act is repealed on January 2, 2036.
+[2]

@@ -1,0 +1,194 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2375
+Sponsored by Representative LEVY B; Representatives OSBORNE, SMITH G (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes a person who  builds or updates a wind power facility apply to the FAA to put
+in a system to reduce lighting. (Flesch Readability Score: 62.1).
+Requires a person who is developing or repowering a wind energy facility  to apply to the Fed-
+eral Aviation Administration for installation of a light-mitigating technology system and, if  ap-
+proved, install the system within 24 months.
+A BILL FOR AN ACT
+Relating to wind energy facilities.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Hub height” means the distance  from the ground to the middle of a wind turbine’s
+rotor.
+(b) “Light-mitigating  technology system” means a system approved by the Federal Avi-
+ation Administration that is capable of reducing the impact of obstruction lighting while
+maintaining conspicuity sufficient to assist aircraft in identifying and avoiding collision  with
+a structure or facility.
+(c) “Maintenance” means activities  to keep facilities, including wind-powered turbines, in
+an efficient operating condition and that do  not add to the value or extend the expected
+economic life of the facilities.
+(d) “Person” means a developer, owner or operator.
+(e) “Repower” means to  rebuild or refurbish a facility or wind-powered turbine when re-
+quired due to the  facility or wind-powered turbine reaching the end of its useful or economic
+life, and the rebuild or refurbishment is not part of routine maintenance.
+(f) “Wind energy facility” means an electric power generating facility that is made up of
+five or more wind-powered turbines and one or more of the wind-powered turbines:
+(A) Are required under  Federal Aviation Administration regulations to have obstruction
+lights; or
+(B) Have an  obstruction light and a hub height that is 75 or more feet above the ground
+level.
+(2) A wind energy facility may not be in operation unless  the requirements in subsection
+(3) of this section are met.
+(3)(a) A person who is developing or repowering a wind  energy facility shall apply to the
+Federal Aviation Administration for installation of  a light-mitigating technology system for
+the wind energy facility’s wind-powered turbines.
+(b) If the application is approved  by the administration, the person shall install the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 666
+HB 2375
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+light-mitigating technology system on approved wind-powered turbines within 24 months
+from the date of approval.
+(c) If the application is  not approved by the administration, the person shall not be re-
+quired to install a light-mitigating technology system.
+(4) Nothing in this  section shall require a person to carry out light mitigation in a man-
+ner that conflicts with an applicable federal law or regulation.
+SECTION 2.
+The governing body of a county or city or its designee  may not allow or
+permit a wind energy  facility, as defined in section 1 of this 2025 Act, that does not meet the
+requirements in section 1 of this 2025 Act.
+SECTION 3.  Section 1 of this 2025 Act is amended to read:
+Sec. 1.  (1) As used in this section:
+(a) “Aircraft detection lighting system” means a light-mitigating technology  system that:
+(A) Uses sensors to detect approaching aircraft;
+(B) Automatically activates obstruction lights when approaching  aircraft are detected for
+as long as the obstruction lights are needed by the aircraft; and
+(C) Meets the standards set forth in chapter 10 of the Federal Aviation Administration
+Advisory Circular AC 70/7460-1M, dated November 16, 2020, for marking and lighting struc-
+tures.
+[(a)] (b) “Hub height” means the distance from the ground to the middle of  a wind turbine’s
+rotor.
+[(b)] (c) “Light-mitigating technology system”  means a system approved by the Federal Aviation
+Administration that is capable  of reducing the impact of obstruction lighting while maintaining
+conspicuity sufficient to assist aircraft in identifying and avoiding collision with  a structure or fa-
+cility.
+[(c)] (d) “Maintenance” means activities to keep facilities, including wind-powered turbines,  in
+an efficient  operating condition and that do not add to the value or extend the expected economic
+life of the facilities.
+[(d)] (e) “Person” means a developer, owner or operator.
+[(e)] (f) “Repower” means to rebuild or refurbish a facility or wind-powered turbine  when re-
+quired due to the facility or wind-powered  turbine reaching the end of its useful or economic life,
+and the rebuild or refurbishment is not part of routine maintenance.
+[(f)] (g) “Wind energy facility” means an electric power generating facility that  is made up of
+five or more wind-powered turbines, and one or more of the wind-powered turbines:
+(A) Are required under Federal  Aviation Administration regulations to have obstruction lights;
+or
+(B) Have an obstruction light and a hub height that is 75 or more feet above the ground level.
+(2) A wind energy facility may not be in operation  unless the requirements in subsection (3) of
+this section are met.
+(3)(a) A  person who is developing or repowering a wind energy facility shall apply to the Federal
+Aviation Administration for installation of [ a light-mitigating technology  system ] an aircraft de-
+tection lighting  system or a light-mitigating technology system that achieves comparable
+light mitigation results  for the wind energy facility’s wind-powered turbines.
+(b) If the application is  approved by the administration, the person shall install the light-
+mitigating technology system on approved wind-powered turbines within 24 months from  the date
+of approval.
+[2]
+HB 2375
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+(c) If the application is not approved by the administration, the person shall not  be required to
+install a light-mitigating technology system.
+(4) Nothing in this section shall require a person to carry  out light mitigation in a manner that
+conflicts with an applicable federal law or regulation.
+SECTION 4.
+The amendments to section 1 of this 2025 Act by section 3 of this 2025 Act
+become operative on January 1, 2028.
+SECTION 5. Section 1 of this 2025 Act  applies to a wind energy facility for which a person
+begins commercial operation, develops or repowers on or after January 1, 2026.
+SECTION 6. The amendments to section 1 of this 2025 Act by section 3 of this 2025  Act
+apply to a wind energy facility for which a person begins  commercial operation, develops or
+repowers on or after January 1, 2028.
+[3]

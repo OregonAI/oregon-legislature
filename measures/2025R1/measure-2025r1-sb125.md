@@ -1,0 +1,505 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb125
+title: 'SB 125 (2025R1): Phases in an exemption from commercial activity subject to corporate activity
+  tax reimbursements for certain health care services, including care provided to medical assistance recipients
+  and to Medicare recipients.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 125
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB125/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: ec7858f746eab4473394767a7e9c37aff496935fc6f95094a0cc51041dfbf0f1
+snapshot_id: measure-2025r1-sb125-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.117
+  - ORS 307.872
+  - ORS 314.610
+  - ORS 317.010
+  - ORS 317A.100
+  - ORS 317A.102
+  - ORS 317A.103
+  - ORS 317A.106
+  - ORS 317A.119
+  - ORS 317A.128
+  - ORS 319.010
+  - ORS 319.530
+  - ORS 320.305
+  - ORS 320.400
+  - ORS 320.415
+  - ORS 403.200
+  - ORS 409.801
+  - ORS 414.855
+  - ORS 414.880
+  - ORS 443.305
+  - ORS 443.400
+  - ORS 471.001
+  - ORS 471.023
+  - ORS 471.750
+  - ORS 475C.005
+  - ORS 475C.009
+  - ORS 475C.453
+  - ORS 475C.670
+  - ORS 731.142
+  - ORS 731.574
+  - ORS 731.824
+  - ORS 731.828
+  - ORS 731.854
+  - ORS 731.859
+  - ORS 735.465
+  - ORS 756.310
+  - ORS 757.054
+  - ORS 757.612
+  - ORS 757.736
+  - ORS 759.425
+  - ORS 759.430
+  - ORS 801.360
+  - ORS 822.020
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 125
+prefix_meaning: Senate Bill
+catch_line: Phases in an exemption from commercial activity subject to corporate activity tax reimbursements
+  for certain health care services, including care provided to medical assistance recipients and to Medicare
+  recipients.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act makes payments received for health care services not taxed by the\
+  \ corporate activity tax. (Flesch Readability Score: 63.6). \n\t[<i>Exempts</i>] <b>Phases in an exemption</b>\
+  \ from commercial activity subject to corporate activity tax reimbursements for certain health care\
+  \ services, including care provided to medical assistance recipients and to Medicare recipients. Exempts\
+  \ receipts from medications administered or dispensed in a clinical setting other than a hospital. \n\
+  \tApplies to tax years beginning on or after January 1, 2026[<i>, and before January 1, 2032</i>]. \n\
+  \tTakes effect on the 91st day following adjournment sine die."
+relating_to: Relating to exemption of health care receipts from corporate activity tax; prescribing an
+  effective date.
+relating_to_full: Relating to exemption of health care receipts from corporate activity tax; and prescribing
+  an effective date.
+at_the_request_of: (at the request of Senate Interim Committee on Finance and Revenue)
+lc_number: 3638
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-06-12T18:05:02'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 23620
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.117
+  - ORS 307.872
+  - ORS 314.610
+  - ORS 317.010
+  - ORS 317A.100
+  - ORS 317A.102
+  - ORS 317A.103
+  - ORS 317A.106
+  - ORS 317A.119
+  - ORS 317A.128
+  - ORS 319.010
+  - ORS 319.530
+  - ORS 320.305
+  - ORS 320.400
+  - ORS 320.415
+  - ORS 403.200
+  - ORS 409.801
+  - ORS 414.855
+  - ORS 414.880
+  - ORS 443.305
+  - ORS 443.400
+  - ORS 471.001
+  - ORS 471.023
+  - ORS 471.750
+  - ORS 475C.005
+  - ORS 475C.009
+  - ORS 475C.453
+  - ORS 475C.670
+  - ORS 731.142
+  - ORS 731.574
+  - ORS 731.824
+  - ORS 731.828
+  - ORS 731.854
+  - ORS 731.859
+  - ORS 735.465
+  - ORS 756.310
+  - ORS 757.054
+  - ORS 757.612
+  - ORS 757.736
+  - ORS 759.425
+  - ORS 759.430
+  - ORS 801.360
+  - ORS 822.020
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 125>.
+
+# SB 125 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 125, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Senate Interim Committee on Finance and Revenue)
+- **LC number:** 3638
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-06-12T18:05:02
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 23620 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB125/Introduced>.
+
+## Summary
+
+**Catchline:** Phases in an exemption from commercial activity subject to corporate activity tax reimbursements for certain health care services, including care provided to medical assistance recipients and to Medicare recipients.
+
+**Relating to:** Relating to exemption of health care receipts from corporate activity tax; prescribing an effective date.
+
+Digest: The Act makes payments received for health care services not taxed by the corporate activity tax. (Flesch Readability Score: 63.6). 
+ [<i>Exempts</i>] <b>Phases in an exemption</b> from commercial activity subject to corporate activity tax reimbursements for certain health care services, including care provided to medical assistance recipients and to Medicare recipients. Exempts receipts from medications administered or dispensed in a clinical setting other than a hospital. 
+ Applies to tax years beginning on or after January 1, 2026[<i>, and before January 1, 2032</i>]. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to exemption of health care receipts from corporate activity tax; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 125
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Finance and Revenue)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes payments  received for health care services not taxed by the corporate
+activity tax. (Flesch Readability Score: 63.6).
+Exempts from commercial activity subject to corporate activity tax reimbursements  for certain
+health care services,  including care provided to medical assistance recipients and to Medicare re-
+cipients. Exempts receipts from medications administered or dispensed  in a clinical setting other
+than a hospital. Applies to tax years beginning on or after January 1, 2026, and before  January 1,
+2032.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to exemption of health care receipts from corporate activity tax; creating  new provisions;
+amending ORS 317A.100; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 317A.100, as amended by section 26, chapter 75, Oregon Laws 2024, is
+amended to read:
+317A.100. As used in ORS 317A.100 to 317A.158:
+(1)(a) “Commercial activity” means:
+(A) The total amount realized by a person, arising from  transactions and activity in the regular
+course of the  person’s trade or business, without deduction for expenses incurred by the trade or
+business;
+(B) If received by a financial institution:
+(i) If the reporting person for a financial institution is a  holding company, all items of income
+reported on the FR Y-9 filed by the holding company;
+(ii) If the reporting person for a financial institution is a bank  organization, all items of income
+reported on the call report filed by the bank organization; and
+(iii) If the reporting person for a financial institution is a  nonbank financial organization, all
+items of income reported in accordance with generally accepted accounting principles; and
+(C)(i) If received by an insurer, as reported on the  statement of premiums accompanying the
+annual statement required under ORS 731.574 to be filed with the Director of the  Department of
+Consumer and Business Services, all gross direct  life insurance premiums, gross direct accident and
+health insurance premiums and gross direct property and casualty insurance premiums; and
+(ii) The gross amount of surplus lines premiums received on  Oregon home state risks as shown
+in the report required by ORS 735.465.
+(b) “Commercial activity” does not include:
+(A) Interest income except:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3638
+(i) Interest on credit sales; or
+(ii) Interest income, including service charges, received by financial institutions;
+(B) Receipts from  the sale, exchange or other disposition of an asset described in section 1221
+or 1231 of  the Internal Revenue Code, without regard to the length of time the person held the asset;
+(C) If received by an insurer, federally reinsured premiums or income  from transactions between
+a reciprocal insurer and its attorney in fact operating under ORS 731.142;
+(D) Receipts from hedging transactions, to the extent that the transactions  are entered into
+primarily to protect a financial position,  including transactions intended to manage the risk of ex-
+posure to foreign currency fluctuations that affect assets, liabilities, profits, losses, equity or in-
+vestments in foreign operations, risk of exposure to interest rate fluctuations  or risk of commodity
+price fluctuations;
+(E) Proceeds received attributable to the repayment, maturity or redemption of  the principal of
+a loan, bond, mutual fund, certificate of deposit or marketable instrument;
+(F) The principal amount received  under a repurchase agreement or on account of any trans-
+action properly characterized as a loan to the person;
+(G) Contributions received by a trust, plan or other arrangement, any of which is described in
+section 501(a) of the Internal Revenue Code, or to which title 26,  subtitle A, chapter 1, subchapter
+(D) of the Internal Revenue Code applies;
+(H) Compensation, whether current or deferred, and  whether in cash or in kind, received or to
+be received  by an employee, a former employee or the employee’s legal successor for services ren-
+dered to or for an employer, including reimbursements received  by or for an individual for medical
+or education expenses, health insurance premiums  or employee expenses or on account of a de-
+pendent care spending account, legal services plan, any cafeteria plan described in section  125 of
+the Internal Revenue Code or any similar employee reimbursement;
+(I) Proceeds received from the issuance of the taxpayer’s own stock,  options, warrants, puts or
+calls, or from the sale of the taxpayer’s treasury stock;
+(J) Proceeds received on the account of payments  from insurance policies, including crop in-
+surance policies, owned by the taxpayer,  except those proceeds received for the loss of commercial
+activity;
+(K) Gifts or charitable contributions received, membership dues received by  trade, professional,
+homeowners’ or condominium associations, payments  received for educational courses, meetings or
+meals, or similar payments to a trade, professional or  other similar association, and fundraising re-
+ceipts received by any  person when any excess receipts are donated or used exclusively for chari-
+table purposes;
+(L) Damages received as the result of litigation in  excess of amounts that, if received without
+litigation, would be treated as commercial activity;
+(M) Property, money and other amounts received or acquired  by an agent on behalf of another
+in excess of the agent’s commission, fee or other remuneration;
+(N) Tax refunds from any tax program, other tax benefit recoveries and reimbursements  for the
+tax imposed under ORS 317A.100  to 317A.158 made by entities that are part of the same unitary
+group as provided under ORS 317A.106, and reimbursements made by entities that are  not members
+of a unitary group that  are required to be made for economic parity among multiple owners of an
+entity whose  tax obligation under ORS 317A.100 to 317A.158 is required to be reported and paid
+entirely by one owner, as provided in ORS 317A.106;
+(O) Pension reversions;
+(P) Contributions to capital;
+(Q) Receipts from the sale, transfer, exchange or  other disposition of motor vehicle fuel or any
+other product used for the propulsion of motor vehicles;
+(R) In the case of receipts from the sale of cigarettes or  tobacco products by a wholesale dealer,
+retail dealer, distributor, manufacturer or seller,  an amount equal to the federal and state excise
+taxes paid by any person on or for such cigarettes or tobacco products under subtitle E of the
+Internal Revenue Code or ORS chapter 323;
+(S) In the case of receipts from the sale of malt beverages or wine, as defined in ORS  471.001,
+cider, as defined in ORS  471.023 or distilled liquor, as defined in ORS 471.001, by a person holding
+a license issued under ORS chapter 471, an amount equal to the federal and  state excise taxes paid
+by any person on or for such  malt beverages, wine or distilled liquor under subtitle E of the Internal
+Revenue Code or ORS chapter 471 or  473, and any amount paid to the Oregon Liquor and Cannabis
+Commission for sales of distilled spirits by an agent appointed under ORS 471.750;
+(T) In the case of receipts from the  sale of marijuana items, as defined in ORS 475C.009, by a
+person holding a license issued under ORS 475C.005 to 475C.525, an amount equal  to the federal and
+state excise taxes paid  by any person on or for such marijuana items under subtitle E of the Internal
+Revenue Code or ORS 475C.670 to 475C.734 and any local retail taxes authorized under ORS
+475C.453;
+(U) Local  taxes collected by a restaurant or other food establishment on sales of meals, prepared
+food or beverages;
+(V) Tips or gratuities collected by a  restaurant or other food establishment and passed on to
+employees;
+(W) Receipts realized  by a vehicle dealer certified under ORS 822.020 or a person described in
+ORS 320.400 (8)(a)(B) from the sale  or other transfer of a motor vehicle, as defined in ORS 801.360,
+to another vehicle dealer for the purpose of resale by  the transferee vehicle dealer, but only if the
+sale or  other transfer was based upon the transferee’s need to meet a specific customer’s preference
+for a motor vehicle or is an exchange of new vehicles between franchised motor vehicle  dealerships;
+(X) Registration fees  or taxes collected by a vehicle dealer certified under ORS 822.020 or a
+person described in  ORS 320.400 (8)(a)(B) at the sale or other transfer of a motor vehicle, as defined
+in ORS 801.360, that are owed to a third party by the purchaser of  the motor vehicle and passed to
+the third party by the dealer;
+(Y) Receipts from a financial  institution for services provided to the financial institution in
+connection with the issuance, processing, servicing and management of loans or credit  accounts, if
+the financial institution and the recipient of the receipts have at least 50 percent of  their ownership
+interests owned or controlled, directly or constructively through related interests, by common  own-
+ers;
+(Z) In the case of amounts retained as commissions by a holder of a license under ORS  chapter
+462, an amount equal to the amounts specified under ORS chapter  462 that must be paid to or col-
+lected by the Department of Revenue as a tax and the amounts specified under ORS chapter  462 to
+be used as purse money;
+(AA) Receipts of residential care facilities as defined in ORS 443.400 or  in-home care agencies
+as defined in ORS 443.305, to the extent that the receipts are derived from  or received as compen-
+sation for providing services to a medical assistance or Medicare recipient;
+(BB) Dividends received;
+(CC) Distributive income received from a pass-through entity;
+(DD) Receipts from sales to a wholesaler in this state, if the seller receives  certification at the
+time of sale from the wholesaler that the wholesaler will sell the purchased property outside this
+state;
+(EE) Receipts from the wholesale or retail sale of groceries, including receipts of a person that
+owns groceries at the time of sale and compensation of any consignee engaged in effecting the  sale
+of groceries on behalf the owner of the  groceries, but only to the extent that the compensation re-
+lates to grocery sales;
+(FF) Receipts from transactions among members of a unitary group;
+(GG) Moneys, including public purpose charge moneys collected under  ORS 757.612 and moneys
+collected to plan for  and pursue cost-effective energy efficiency resources under ORS 757.054, that
+are collected from customers, passed to a utility and approved by the Public Utility  Commission and
+that support energy conservation, renewable resource acquisition and low-income assistance  pro-
+grams;
+(HH) Moneys collected  by a utility from customers for the payment of loans through on-bill fi-
+nancing;
+(II) Surcharges collected under ORS 757.736;
+(JJ) Moneys passed to a utility by the Bonneville Power Administration for the  purpose of
+effectuating the Regional Power Act  Exchange credits or pursuant to any settlement associated with
+the exchange credit;
+(KK) Moneys collected or recovered, by  entities listed in ORS 756.310, cable operators as de-
+fined in 47  U.S.C. 522(5), telecommunications carriers as defined in 47 U.S.C. 153(51) and providers
+of information services as defined in 47 U.S.C. 153(24), for fees payable under ORS 756.310, right-of-
+way fees, franchise fees, privilege taxes, federal taxes and local taxes;
+(LL) Charges paid to the Residential Service Protection Fund required by chapter 290, Oregon
+Laws 1987;
+(MM) Universal  service surcharge moneys collected or recovered and paid into the universal
+service fund established in ORS 759.425;
+(NN) Moneys collected for public purpose funding as described in ORS 759.430;
+(OO) Moneys collected or recovered and paid into the federal universal  service fund as deter-
+mined by the Federal Communications Commission;
+(PP) In the case of  a seller or provider of telecommunications services, the amount of tax im-
+posed under ORS 403.200 for access to  the emergency communications system that is collected from
+subscribers or consumers;
+(QQ) In the case of a  transient lodging tax collector, the amount of tax imposed under ORS
+320.305 and of any local transient lodging tax imposed upon the occupancy of transit lodging;
+(RR) In the  case of a seller of bicycles, the amount of tax imposed under ORS 320.415 upon retail
+sales of bicycles;
+(SS) In the case of a qualified heavy equipment provider, the amount  of tax imposed under ORS
+307.872 upon the rental price of heavy equipment;
+(TT) Farmer sales to an  agricultural cooperative in this state that is a cooperative organization
+described in section 1381 of the Internal Revenue Code;
+(UU) Revenue received by a  business entity that is mandated by contract or subcontract to be
+distributed to another  person or entity if the revenue constitutes sales commissions that are paid
+to a person who is  not an employee of the business entity, including, without limitation, a split-fee
+real estate commission;
+(VV) Receipts from the sale of fluid milk by dairy farmers that are not  members of an agricul-
+tural cooperative; [ and]
+(WW) Amounts received as reimbursement paid:
+(i) For the cost of health  care provided to medical assistance recipients under ORS
+chapter 414;
+(ii) By the  Centers for Medicare and Medicaid Services or by a Medicare Advantage plan
+for the cost of health care provided to Medicare recipients; or
+(iii) By the Public Employees’ Benefit Board, the  Oregon Educators Benefit Board, the
+Children’s Health Insurance Program  or the United States Department of Defense, under a
+TRICARE contract for the cost of health care provided;
+(XX) Receipts from the administration or dispensation  of medications in a clinical setting
+other than a hospital; and
+[(WW)(i) ] (YY)(i)  Cost paid by a dealer for items of precious metal.
+(ii) As used in this subparagraph, “item of precious  metal” means an item of gold, silver,
+platinum, rhodium or palladium that has been put through a process of smelting or  refining and that
+is in a state or condition that its value depends on its contents and not its form.
+(2) “Cost inputs” means:
+(a) The cost  of goods sold as calculated in arriving at federal taxable income under the Internal
+Revenue Code; or
+(b) In the case of a taxpayer that is engaged  in a farming operation, as defined in ORS 317A.102,
+and that does not report cost of goods sold for federal  tax purposes, the taxpayer’s operating ex-
+penses excluding labor costs.
+(3) “Doing business” means engaging in any activity, whether legal or illegal,  that is conducted
+for, or results in, the receipt of commercial activity at any time during a calendar year.
+(4) “Excluded person” means any of the following:
+(a) Organizations described  in sections 501(c) and 501(j) of the Internal Revenue Code, unless the
+exemption is denied under section  501(h), (i) or (m) or under section 502, 503 or 505 of the Internal
+Revenue Code.
+(b) Organizations described in section 501(d) of the Internal  Revenue Code, unless the exemption
+is denied under section 502 or 503 of the Internal Revenue Code.
+(c) Organizations described in section 501(e) of the Internal Revenue Code.
+(d) Organizations described in section 501(f) of the Internal Revenue Code.
+(e) Charitable risk pools described in section 501(n) of the Internal Revenue Code.
+(f) Organizations described in section 521 of the Internal Revenue Code.
+(g) Qualified state tuition programs described in section 529 of the Internal Revenue Code.
+(h) Foreign or alien  insurance companies, but only with respect to the underwriting profit de-
+rived from writing wet marine  and transportation insurance subject to tax under ORS 731.824 and
+731.828 or if an insurance company is subject to the retaliatory tax  under ORS 731.854 and 731.859.
+(i) Governmental entities.
+(j) Any  person with commercial activity that does not exceed $750,000 for the tax year, other
+than a person that is part  of a unitary group as provided in ORS 317A.106 with commercial activity
+in excess of $750,000.
+(k) Hospitals subject to assessment under ORS 414.855, long term care facilities  subject to as-
+sessment under ORS 409.801 or any entity subject to assessment under ORS 414.880 or section 3 or
+5, chapter 538, Oregon Laws 2017.
+(L) Manufactured dwelling park nonprofit cooperatives organized under ORS chapter 62.
+(5) “Financial institution” has the meaning  given that term in ORS 314.610, except that “finan-
+cial institution” does not include a credit union.
+(6)(a) “FR Y-9” means the consolidated or parent-only financial statements that a holding com-
+pany is required to file with the Federal Reserve Board pursuant to 12 U.S.C. 1844.
+(b) In the  case of a holding company required to file both consolidated and parent-only financial
+statements, “FR  Y-9” means the consolidated financial statements that the holding company is re-
+quired to file.
+(7) “Governmental entity” means:
+(a) The United States and any of its unincorporated agencies and instrumentalities.
+(b) Any incorporated agency or  instrumentality of the United States wholly owned by the United
+States or by a corporation wholly owned by the United States.
+(c) The State of Oregon and any of its unincorporated agencies and instrumentalities.
+(d) Any county, city, district or other political subdivision of the state.
+(e) A special government body as defined in ORS 174.117.
+(f) A federally recognized Indian tribe.
+(8) “Groceries” means food as defined in  7 U.S.C. 2012(k), but does not include cannabinoid
+edibles or marijuana seeds.
+(9)(a) “Hedging transaction” means a hedging  transaction as defined in section 1221 of the
+Internal Revenue Code or a transaction  accorded hedge accounting treatment under Financial Ac-
+counting Standards Board Statement No. 133.
+(b) “Hedging transaction” does not include a transaction in which an  actual transfer of title of
+real or tangible property to another entity occurs.
+(10) “Insurer” has the meaning given that term in ORS 317.010.
+(11) “Internal Revenue Code,”  except where the Legislative Assembly has provided otherwise,
+refers to the laws of the United States or to the Internal  Revenue Code as they are amended and
+in effect on December 31, 2023.
+(12) “Labor costs” means total compensation of all  employees, not to include compensation paid
+to any single employee in excess of $500,000.
+(13)(a) “Motor vehicle fuel or any other product used for the  propulsion of motor vehicles”
+means:
+(A) Motor vehicle fuel as defined in ORS 319.010; and
+(B) Fuel the use of which in a motor vehicle is subject to taxation under ORS 319.530.
+(b) “Motor vehicle fuel or any other product used for the propulsion of motor  vehicles” does not
+mean:
+(A) Electricity; or
+(B) Electric batteries or any other mechanical  or physical component or accessory of a motor
+vehicle.
+(14) “Person” includes individuals, combinations of individuals  of any form, receivers, assignees,
+trustees in bankruptcy, firms, companies, joint-stock companies, business  trusts, estates, partner-
+ships, limited  liability partnerships, limited liability companies, associations, joint ventures, clubs,
+societies, entities organized as for-profit  corporations under ORS chapter 60, C corporations, S cor-
+porations, qualified subchapter S subsidiaries, qualified subchapter S trusts, trusts, entities that  are
+disregarded for federal income tax purposes and any other entities.
+(15) “Retailer” means a person  doing business by selling tangible personal property to a pur-
+chaser for a purpose other than:
+(a) Resale by  the purchaser of the property as tangible personal property in the regular course
+of business;
+(b) Incorporation by  the purchaser of the property in the course of regular business as an in-
+gredient or component of real or personal property; or
+(c) Consumption by  the purchaser of the property in the production for sale of a new article of
+tangible personal property.
+(16) “Taxable commercial activity” means commercial activity sourced to  this state under ORS
+317A.128, less any subtraction pursuant to ORS 317A.119.
+(17)(a) “Taxpayer” means any person or unitary group required to register, file  or pay tax under
+ORS 317A.100 to 317A.158.
+(b) “Taxpayer” does not include excluded persons, except to  the extent that a tax-exempt entity
+has unrelated business income as described in the Internal Revenue Code.
+(18) “Tax  year” means, except as otherwise provided in ORS 317A.103, a taxpayer’s annual ac-
+counting period used for federal income tax purposes under section 441 of  the Internal Revenue
+Code.
+(19)(a) “Unitary business” means a business enterprise in which there exists  directly or indi-
+rectly between the members or parts of the enterprise a sharing  or exchange of value as demon-
+strated by:
+(A) Centralized management or a common executive force;
+(B) Centralized administrative services or functions resulting in economies of scale; or
+(C) Flow of goods, capital resources or services demonstrating functional integration.
+(b) “Unitary business” may include a business enterprise the activities of which:
+(A) Are  in the same general line of business, such as manufacturing, wholesaling or retailing;
+or
+(B) Constitute steps in a vertically integrated process, such as the steps involved  in the pro-
+duction of natural resources, which might include exploration, mining, refining and marketing.
+(20) “Unitary group” means a group of persons with more than 50 percent common  ownership,
+either direct or indirect, that is engaged in business activities that constitute a unitary business.
+(21) “Wholesaler” means a person primarily doing business by merchant distribution  of tangible
+personal property to retailers or to other wholesalers.
+SECTION 2.
+The amendments to ORS  317A.100 by section 1 of this 2025 Act apply to tax
+years beginning on or after January 1, 2026, and before January 1, 2032.
+SECTION 3. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 174.117, ORS 307.872, ORS 314.610, ORS 317.010, ORS 317A.100, ORS 317A.102, ORS 317A.103, ORS 317A.106, ORS 317A.119, ORS 317A.128, ORS 319.010, ORS 319.530, ORS 320.305, ORS 320.400, ORS 320.415, ORS 403.200, ORS 409.801, ORS 414.855, ORS 414.880, ORS 443.305, ORS 443.400, ORS 471.001, ORS 471.023, ORS 471.750, ORS 475C.005, ORS 475C.009, ORS 475C.453, ORS 475C.670, ORS 731.142, ORS 731.574, ORS 731.824, ORS 731.828, ORS 731.854, ORS 731.859, ORS 735.465, ORS 756.310, ORS 757.054, ORS 757.612, ORS 757.736, ORS 759.425, ORS 759.430, ORS 801.360, ORS 822.020
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `ec7858f746eab4473394767a7e9c37aff496935fc6f95094a0cc51041dfbf0f1` (snapshot `_meta/snapshots/measure-2025r1-sb125-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB125/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 125> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

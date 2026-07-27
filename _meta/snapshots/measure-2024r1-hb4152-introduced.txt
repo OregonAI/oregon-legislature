@@ -1,0 +1,36 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4152
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of Joint Legislative Committee
+on Information Management and Technology for Representative Nancy Nathanson)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes EIS study how secure cyber  assets are. Tells EIS to submit a report by a certain
+date. (Flesch Readability Score: 80.2).
+Requires the office of Enterprise Information Services to study cybersecurity. Directs  the office
+to submit its findings  to the interim committees of the Legislative Assembly related to information
+management and technology not later than September 15, 2025.
+A BILL FOR AN ACT
+Relating to cybersecurity.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+The office of Enterprise Information Services shall study cybersecurity. The
+office shall submit a report in the manner provided by ORS 192.245, and may include recom-
+mendations for legislation, to the interim committees of the Legislative Assembly related to
+information management and technology no later than September 15, 2025.
+SECTION 2.
+Section 1 of this 2024 Act is repealed on January 2, 2026.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 104

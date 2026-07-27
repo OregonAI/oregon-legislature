@@ -1,0 +1,1745 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3746
+Sponsored by COMMITTEE ON HOUSING AND HOMELESSNESS (at the request of Representative Pam Marsh)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: For condos and homes in an HOA, this Act changes  how construction defects and dam-
+ages are handled. (Flesch Readability Score: 74.2).
+Reduces the statute of limitations for construction defect actions for units in  a planned com-
+munity or condominium. Imposes notice, voting and approval requirements  before homeowners or
+condominium association owners may bring or join a construction  defect action. Requires the board
+of directors of a condominium association to conduct a semiannual moisture inspection.
+Creates special procedural requirements for giving notice to contractors prior  to filing con-
+struction defect claims if  the action is brought by a homeowners association or association of unit
+owners. Extends  the time for a sender of a secondary notice of defect to bring an action against the
+recipient of the secondary notice of defect.
+A BILL FOR AN ACT
+Relating to real property; creating new provisions; and amending ORS  12.135, 94.630, 94.662, 100.115,
+100.405, 100.417, 100.490, 100.680, 701.570, 701.575 and 701.585.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 12.135 is amended to read:
+12.135. (1) As used in this section:
+(a) “Association of unit owners” has the meaning given that term in ORS 100.005.
+(b) “Homeowners association” has the meaning given that term in ORS 94.550.
+(c) “Large commercial structure,” “residential structure” and “small commercial struc-
+ture” have the meanings given those terms in ORS 701.005.
+(d) “Public body” has the meaning given that term in ORS 174.109.
+(e) “Substantial completion” means the earliest of:
+(A) The date when the contractee accepts  in writing the construction, alteration or re-
+pair of the improvement to real property or any designated portion thereof as having reached
+that state of completion when it may  be used or occupied for its intended purpose or, if there
+is no such written acceptance,  the date of acceptance of the completed construction, alter-
+ation or repair of such improvement by the contractee;
+(B) The date when a public body issues a certificate of occupancy for  the improvement;
+or
+(C) The date when the  owner occupies the improvement or uses it for its intended pur-
+pose.
+[(1)] (2) An action against a person  by a plaintiff who is not a public body, whether in contract,
+tort or otherwise, arising from the person having performed the construction, alteration or  repair
+of any improvement to real property or the supervision  or inspection thereof, or from the person
+having furnished design, planning, surveying, architectural or engineering  services for the improve-
+ment, must be commenced before the earliest of:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4199
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) The applicable period of limitation otherwise established by law;
+(b) Ten years after substantial completion or abandonment of the construction, alteration or
+repair of a small commercial structure[ , as defined in ORS 701.005,  a ] or residential structure[ , as
+defined in ORS 701.005, or a large commercial structure, as defined in ORS 701.005, that  is owned or
+maintained by a homeowners association, as defined in ORS 94.550, or that is owned or maintained
+by an association of unit owners, as defined in ORS 100.005 ]; or
+(c) Six years after substantial completion  or abandonment of the construction, alteration or re-
+pair of a large commercial structure[ , as defined  in ORS 701.005, other than a large commercial
+structure described in paragraph (b) of this subsection ].
+[(2)] (3)  An action against a person by a  public body, whether in contract, tort or otherwise,
+arising from the person having performed the construction, alteration or  repair of any improvement
+to real property  or the supervision or inspection thereof, or from the person having furnished design,
+planning, surveying, architectural or engineering services for the improvement,  must be commenced
+not more than 10 years after substantial completion or  abandonment of such construction, alteration
+or repair of the improvement to real property.
+(4) Notwithstanding subsection (2) of this section, the period of limitation  for a tort
+action by a homeowners association or association of unit owners arising from  the defective
+construction, alteration or repair of a structure or unit is:
+(a) Six years after substantial completion or abandonment of the construction,  alteration
+or repair of the structure; or
+(b) If a construction defect described in this subsection is discovered more than five  but
+less than  six years after substantial completion or abandonment, one year after discovery
+of the defect.
+[(3)(a)] (5)(a)  Notwithstanding subsections [ (1) and] (2) and (3) of this section, an action against
+a person registered to practice architecture under ORS 671.010 to  671.220, a person registered to
+practice landscape architecture under ORS 671.310 to 671.459 or a person registered to  practice
+engineering under ORS 672.002 to 672.325 to recover damages for injury  to a person, property or to
+any interest in property, including damages for  delay or economic loss, regardless of legal theory,
+arising out of the construction, alteration  or repair of any improvement to real property must be
+commenced before the earliest of:
+(A) Two years after the date the injury or damage is  first discovered or in the exercise of rea-
+sonable care should have been discovered;
+(B) Ten years after substantial completion or abandonment  of the construction, alteration or
+repair of a small commercial structure[ , as defined in ORS 701.005,  a ] or residential structure[ , as
+defined in ORS 701.005, or a large commercial structure, as defined in ORS 701.005, that  is owned or
+maintained by a homeowners association, as defined in ORS 94.550, or that is owned or maintained
+by an association of unit owners, as defined in ORS 100.005 ]; or
+(C) Six years after substantial completion or abandonment of the construction, alteration  or re-
+pair of a large commercial structure[ , as defined  in ORS 701.005, other than a large commercial
+structure described in subparagraph (B) of this paragraph ].
+(b) This subsection applies to actions brought by any person or public body.
+[(4) For purposes of this section: ]
+[(a) “Public body” has the meaning given that term in ORS 174.109; and ]
+[(b) “Substantial completion” means the earliest of: ]
+[(A) The date when  the contractee accepts in writing the construction, alteration or repair of the
+[2]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+improvement to real property or  any designated portion thereof as having reached that state of com-
+pletion when it may be used or occupied for its intended  purpose or, if there is no such written ac-
+ceptance, the date of  acceptance of the completed construction, alteration or repair of such improvement
+by the contractee; ]
+[(B) The date when a public body issues a certificate of occupancy for the improvement; or ]
+[(C) The date when the owner uses or occupies the improvement for its intended purpose. ]
+[(5)] (6) For purposes of this section, an  improvement to real property is considered abandoned
+on the same date that the improvement is considered abandoned under ORS 87.045.
+[(6)] (7) This section:
+(a) Applies to an action against a manufacturer, distributor, seller or lessor of a  manufactured
+dwelling, as defined in ORS 446.003, or of a prefabricated structure, as defined in ORS 455.010; and
+(b) Does not apply to actions against any person in actual possession and  control of the im-
+provement, as owner, tenant or otherwise, at the time such cause of action accrues.
+SECTION 2.
+The amendments to ORS 12.135 by section  1 of this 2025 Act apply to causes
+of action arising on or after the effective date of this 2025 Act.
+SECTION 3.  ORS 94.630 is amended to read:
+94.630. (1) Subject to subsection (2) of this section and ORS 94.762,  94.763, 94.776, 94.778 and
+94.779, and except as otherwise  provided in its declaration or bylaws, a homeowners association
+may:
+(a) Adopt and amend bylaws, rules and regulations for the planned community;
+(b) Adopt and amend budgets for  revenues, expenditures and reserves, and collect assessments
+from owners for common expenses and the reserve account established under ORS 94.595;
+(c) Hire and terminate managing agents and other employees, agents and  independent contrac-
+tors;
+(d) Defend against any claims, proceedings or actions brought against it;
+(e) Subject to [ subsection (4) ] subsections (4) and (5)  of this section,  initiate or intervene in
+litigation or administrative  proceedings in its own name and without joining the individual owners
+in the following:
+(A) Matters relating to the collection of assessments and the enforcement of  governing docu-
+ments;
+(B) Matters arising out of contracts to which the association is a party;
+(C) Actions seeking equitable or other nonmonetary relief regarding matters that affect the
+common interests of the owners, including but not limited to the abatement of nuisance;
+(D) Matters, including but  not limited to actions for damage, destruction, impairment or loss of
+use, relating to or affecting:
+(i) Individually owned real property, the expenses for which, including  maintenance, repair or
+replacement, insurance or other expenses, the association is responsible; or
+(ii) Common property;
+(E) Matters relating to or affecting the lots or interests of the  owners including but not limited
+to damage, destruction, impairment or loss of use of a lot or portion thereof, if:
+(i) Resulting from a nuisance or a defect in or damage to common  property or individually
+owned real  property, the expenses for which, including maintenance, repair or replacement, insur-
+ance or other expenses, the association is responsible; or
+(ii) Required to facilitate repair to any common property; and
+(F) Any other matter to  which the association has standing under law or pursuant to the dec-
+[3]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+laration or bylaws;
+(f) Make contracts and incur liabilities;
+(g) Regulate the use, maintenance, repair, replacement and modification of common property;
+(h) Cause additional improvements to be made as a part of the common property;
+(i) Acquire,  hold, encumber and convey in its own name any right, title or interest to real or
+personal property, except that common property may be conveyed  or subjected to a security interest
+only pursuant to ORS 94.665;
+(j) Grant easements, leases, licenses and concessions through or  over the common property as
+provided in ORS 94.665;
+(k) Modify, close, remove, eliminate  or discontinue the use of common property, including any
+improvement or  landscaping, regardless of whether the common property is mentioned in the decla-
+ration, provided that:
+(A) Nothing in this paragraph is intended  to limit the authority of the association to seek ap-
+proval of the modification, closure, removal, elimination or discontinuance by the owners; and
+(B) Modification, closure, removal, elimination or discontinuance other than  on a temporary
+basis of any swimming pool, spa or recreation or  community building must be approved by at least
+a majority of owners voting on the matter at a meeting or by written ballot  held in accordance with
+the declaration, bylaws or ORS 94.647;
+(L) Impose and receive any payments, fees or charges for the use, rental or operation  of the
+common property and services provided to owners;
+(m) Adopt rules regarding the termination  of utility services paid for out of assessments of the
+association and access to and use of recreational and  service facilities available to owners. The
+rules must provide  for written notice and an opportunity to be heard before the association may
+terminate the rights of  any owners to receive the benefits or services until the correction of any
+violation covered by the rule has occurred;
+(n) Impose charges for late payment of assessments and attorney fees  related to the collection
+of assessments and, after giving written notice and an opportunity  to be heard, levy reasonable fines
+for violations of the  declaration, bylaws, rules and regulations of the association, provided that the
+charge imposed or the fine levied by the association is based:
+(A) On a schedule contained in the declaration or bylaws,  or an amendment to either that is
+delivered to each lot, mailed to the mailing address of each lot or mailed to the mailing addresses
+designated in writing by the owners; or
+(B) On a resolution of the association or its board of directors that is delivered to each  lot,
+mailed to the mailing  address of each lot or mailed to the mailing addresses designated in writing
+by the owners;
+(o) Impose reasonable charges for the preparation and recordation  of amendments to the decla-
+ration;
+(p) Provide for the indemnification of its officers  and the board of directors and maintain li-
+ability insurance for directors and officers;
+(q) Assign its right to future income, including the right to receive common expense assess-
+ments; and
+(r) Exercise any other powers necessary and proper for the administration and operation  of the
+association.
+(2) A declaration may not impose any limitation on the ability of the  association to deal with
+a declarant that is more restrictive than the limitations  imposed on the ability of the association to
+[4]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+deal with any other person, except during the period of declarant control under ORS 94.600.
+(3) A permit or authorization, or an  amendment, modification, termination or other instrument
+affecting a permit or  authorization, issued by the board of directors that is authorized by law, the
+declaration or bylaws may be recorded in the deed records of the county in  which the planned
+community is located. A permit or  authorization, or an amendment, modification, termination or
+other instrument affecting a permit or authorization, recorded under this subsection shall:
+(a) Be  executed by the president and secretary of the association and acknowledged in the
+manner provided for acknowledgment of instruments by the officers;
+(b) Include  the name of the planned community and a reference to where the declaration and
+any applicable supplemental declarations are recorded;
+(c) Identify, by the designations stated  or referenced in the declaration or applicable supple-
+mental declaration, all affected lots and common property; and
+(d) Include other information and  signatures if required by law, the declaration, bylaws or the
+board of directors.
+(4)(a) Subject to paragraph (f)  of this subsection, before initiating litigation or an administrative
+proceeding  in  which the association and an owner have an adversarial relationship, the party that
+intends to initiate litigation or an administrative  proceeding shall offer to use any dispute resolution
+program available within the county in which the planned  community is located that is in substan-
+tial compliance with the standards and guidelines adopted under ORS 36.175. The written offer must
+be hand-delivered or mailed by certified mail, return receipt requested, to the address, contained  in
+the records of the association, for the other party.
+(b) If the party receiving the offer does not  accept the offer within 10 days after receipt by
+written notice hand-delivered or mailed by  certified mail, return receipt requested, to the address,
+contained in the records of the  association, for the other party, the initiating party may commence
+the litigation or the administrative proceeding. The  notice of acceptance of the offer to participate
+in the program must contain  the name, address and telephone number of the body administering the
+dispute resolution program.
+(c) If a qualified dispute resolution  program exists within the county in which the planned
+community is located and an offer to use the program is  not made as required under paragraph (a)
+of this subsection, litigation or an  administrative proceeding may be stayed for 30 days upon a mo-
+tion of the noninitiating party. If  the litigation or administrative action is stayed under this para-
+graph, both parties shall participate in the dispute resolution process.
+(d) Unless  a stay has been granted under paragraph (c) of this subsection, if the dispute resol-
+ution process is not completed within 30 days after receipt of the  initial offer, the initiating party
+may commence litigation or an administrative proceeding without regard to whether the  dispute
+resolution is completed.
+(e) Once made, the decision of the court or administrative body arising from litigation or an
+administrative proceeding may not  be set aside on the grounds that an offer to use a dispute resol-
+ution program was not made.
+(f) The requirements of this subsection do not apply to circumstances in which irreparable harm
+to a party will occur  due to delay or to litigation or an administrative proceeding initiated to collect
+assessments, other than assessments attributable to fines.
+(5) Notwithstanding any contrary provision in a governing document, a homeowners  as-
+sociation may not initiate or intervene in litigation or administrative proceedings regarding
+a matter that results from a defect in, or damage arising from a defect in, common  property
+[5]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+unless the owners representing a majority of the  lots approve in writing of the initiation or
+intervention within 60 days after the mailing date of the notice required under ORS 94.662.
+SECTION 4.
+ ORS 94.662 is amended to read:
+94.662. (1) At least 10 days prior to instituting any litigation or administrative  proceeding to
+recover damages under ORS  94.630 (1)(e)(E), the homeowners association shall provide written no-
+tice to each affected owner of the association’s intent to seek damages on behalf of the owner.  The
+notice shall, at a minimum:
+(a) Be mailed to the mailing address of each lot or to the mailing  address designated in writing
+to the association by the owner;
+(b) Inform each owner of the general nature of the litigation or proceeding;
+(c) Describe the specific nature of the damages to be sought on the owner’s behalf;
+(d) Set forth the terms under which the  association is willing to seek damages on the owner’s
+behalf, including any mechanism proposed for the  determination and distribution of any damages
+recovered;
+(e) Inform  each owner of the owner’s right not to have the damages sought on the owner’s behalf
+and specify the procedure for exercising the right; and
+(f) Inform the owner that exercising the owner’s right not to  have damages sought on the
+owner’s behalf:
+(A) Relieves the association of its duty to reimburse or indemnify the owner for the damages;
+(B) Does not relieve the owner from the owner’s obligation to pay dues or assessments  relating
+to the litigation or proceeding;
+(C) Does not impair any easement owned or possessed by the association; and
+(D) Does not interfere with the association’s right to make repairs to common areas.
+(2) Within 10 days of the mailing of the notice described in this section, any owner  may request
+in writing  that the association not seek damages on the owner’s behalf. If an owner makes such a
+request, the association [ shall] may  not make or continue any claim or  action for damages with
+regard to the  objecting owner’s lot and shall be relieved of any duty to reimburse or indemnify the
+owner for damages under the litigation or proceeding.
+(3) If the action is for a claim described in ORS 94.630 (5):
+(a) The notice sent under subsection (1) of this section must be sent by certified mail.
+(b) In addition to the contents described in subsection (1) of this section, the notice must:
+(A) State that the association believes that a defect in the common property exists;
+(B) Provide a detailed description of the defect;
+(C) Identify the parties the association considers responsible for the defect; and
+(D) State  that the association may not institute litigation or an administrative proceed-
+ing unless owners representing a majority of the lots approve in writing  of the initiation or
+intervention within 60 days after the mailing date of the notice.
+(c) The association shall send a copy of the notice by certified  mail to each person iden-
+tified in the notice as a  party the association considers responsible for the defect. The re-
+quirement for sending notice under this subsection is in addition to the notice  of defect
+requirement in ORS  701.565 and does not initiate the procedure described in ORS 701.560 to
+701.595.
+SECTION 5.
+ ORS 100.405 is amended to read:
+100.405. (1)(a) An association of unit owners must be organized to serve as  a means through
+which the unit owners may  take action with regard to the administration, management and opera-
+[6]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tion of the condominium.
+(b) The association of a condominium created on or after September  27, 2007, must be organized:
+(A) As a corporation for profit or a nonprofit corporation; or
+(B) If the condominium consists  of four or fewer units, excluding units used for parking, storage
+or other use ancillary to a unit, as an unincorporated association, corporation for  profit or a
+nonprofit corporation.
+(c) If the association is incorporated:
+(A) The name of the association must include the complete name of the condominium.
+(B) The articles of incorporation must be consistent with the declaration and bylaws.
+(d) For an association described in paragraph (b)(A) of  this subsection, the association must be
+incorporated before conveyance of the first  individual unit unless all units in the condominium are
+conveyed or transferred to one person in one transaction.
+(e) Notwithstanding a provision in the declaration or bylaws of  a condominium created before
+September 27, 2007, that states that the  association must be unincorporated or that requires ap-
+proval of owners to incorporate  as a nonprofit corporation under ORS chapter 65, an unincorporated
+association may be  incorporated as a nonprofit corporation under ORS chapter 65 if the board of
+directors adopts a resolution that states the association will be incorporated.
+(f) A separate association  is not created when an unincorporated association formed under this
+section is incorporated, reinstated after administrative dissolution under ORS 60.654 or  65.654 or
+again incorporated following dissolution. The association automatically continues and,  without any
+further action by incorporators, directors or officers that may otherwise  be required under Oregon
+corporation laws:
+(A) The incorporated association has all of the property, powers  and obligations of the associ-
+ation that  existed immediately prior to incorporation in addition to the powers and obligations under
+Oregon corporation laws.
+(B) The bylaws in effect immediately prior to incorporation or reinstatement  constitute the by-
+laws of the incorporated association.
+(C) The members of the board  of directors and the officers continue to serve as directors and
+officers.
+(g) If an incorporated association is  at any time dissolved, whether inadvertently or deliberately:
+(A) The association continues as an unincorporated association under the same name.
+(B) The unincorporated association  has all of the property, powers and obligations of the in-
+corporated association existing immediately prior to dissolution.
+(C) The unincorporated association is governed by the bylaws, and to  the extent applicable, the
+articles of incorporation of the incorporated association.
+(D) The board of directors and the officers serving immediately prior to the dissolution  continue
+to serve as the directors and officers of the unincorporated association.
+(2) Membership in the association of unit owners is limited to unit owners.
+(3) The affairs of the association are governed by a board  of directors as provided for in the
+bylaws adopted under ORS 100.410.
+(4) Subject  to the provisions of the condominium’s declaration and bylaws, and whether or not
+the association is unincorporated, the association may:
+(a) Adopt and amend bylaws and rules and regulations;
+(b) Adopt and amend budgets for revenues,  expenditures and reserves and levy and collect as-
+sessments for common expenses from unit owners;
+[7]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Hire and  terminate managing agents and other employees, agents and independent contrac-
+tors;
+(d) Defend against any claims, proceedings or actions brought against it;
+(e) Subject to [ subsection (11) ] subsections (11) and (12)  of this section, initiate or intervene in
+litigation or administrative proceedings in  its own name, and without joining the individual unit
+owners, in the following:
+(A) Matters  relating to the collection of assessments and the enforcement of declarations and
+bylaws;
+(B) Matters arising out of contracts to which the association is a party;
+(C) Actions seeking equitable or other nonmonetary relief regarding matters that affect the
+common interests of the unit owners, including but not limited to the abatement of nuisance;
+(D) Matters relating to or  affecting common elements, including but not limited to actions for
+damage, destruction, impairment or loss of use of any common element;
+(E) Matters relating to or affecting the units or interests of unit  owners including but not lim-
+ited to damage, destruction, impairment or loss of use of a unit or portion thereof, if:
+(i) Resulting from a nuisance or a defect in or damage to a common element; or
+(ii) Required to facilitate repair to any common element; and
+(F) Any other matter to which the association has standing under law or  pursuant to the dec-
+laration, bylaws or any articles of incorporation;
+(f) Make contracts and incur liabilities;
+(g) Regulate the use, maintenance, repair, replacement and modification of common elements;
+(h) Cause additional improvement to be made as a part of the common elements;
+(i) Acquire by purchase, lease, devise, gift or voluntary grant real or personal property  or any
+interest therein and take, hold, possess  and convey real or personal property or any interest therein;
+(j) Impose and receive any payments, fees or  charges for the use, rental or operation of the
+common elements;
+(k) Impose charges for late payments of assessments, attorney fees  for collection of assessments
+and, after giving written notice and an opportunity to be heard, levy reasonable  fines for violations
+of the declaration,  bylaws and rules and regulations of the association, provided that the charge
+imposed or fine levied by the association is based:
+(A) On a schedule contained in the declaration or bylaws,  or an amendment to either that is
+delivered to each unit, mailed to the mailing address of each unit or mailed  to the mailing addresses
+designated in writing by the owners; or
+(B) On a resolution  adopted by the board of directors or the association that is delivered to each
+unit, mailed to the mailing address of each unit  or mailed to the mailing addresses designated by the
+owners in writing;
+(L) Adopt rules regarding the termination of utility services paid for out of assessments of  the
+association and access to and use of recreational and service facilities available to unit owners that
+must provide for written notice and  an opportunity to be heard before the association may terminate
+the rights of any owners to  receive such benefits or services until the correction of any violation
+covered by the rule has occurred;
+(m) Impose reasonable charges for the preparation and recordation of amendments to  the dec-
+laration or statements of assessments;
+(n) Assign  its right to future income, including the right to receive common expense assess-
+ments;
+[8]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(o) Provide for the indemnification of its officers and executive board, as may be limited  by ORS
+61.218 (3)(d) (1987 Replacement Part), and maintain directors’ and officers’ liability insurance;
+(p) Exercise any other powers conferred by the declaration or bylaws;
+(q) Exercise all other powers that may be exercised in this state by any such association; and
+(r) Exercise any other powers determined by the association to  be necessary and proper for the
+governance and operation of the association.
+(5) Subject to subsection (6) of  this section, unless expressly limited or prohibited by the decla-
+ration, the association has the authority to grant, execute, acknowledge and deliver on behalf  of the
+unit owners leases, easements, rights of way,  licenses and other similar interests affecting the gen-
+eral common elements and  consent to vacation of roadways within and adjacent to the condominium.
+(6)(a)(A) Except as provided in subparagraph (B) of this paragraph, the granting  of a lease,
+easement, right of way, license or other similar interest pursuant to subsection (5) of this section
+must first be approved by at least 75 percent of owners present at a meeting of the  association or
+with the consent of at least 75 percent of all  owners solicited by any means the board of directors
+determines is reasonable. If a meeting is  held to conduct the vote, the meeting notice must include
+a statement that the approval of the grant will be an item of business on the agenda of the meeting.
+(B) Unless the declaration otherwise provides:
+(i) The granting of a lease, easement, right of way, license or other similar  interest affecting the
+general common elements for a term of two years or  less shall require the approval of a majority
+of the board of directors.
+(ii) The granting of a lease, easement, right of way, license or other similar interest affecting
+the general common elements for a term of more than two years to a public body,  as defined in ORS
+174.109, to a utility, to a communications  company or to any other person for installation and
+maintenance of power, gas, electric, water or other utility and  communication lines and services
+requires the approval of a majority of the board of directors.
+(iii) The granting of  a lease, easement, license or other similar interest to an owner for the ex-
+clusive use of a part of  the general common elements to which the owner’s unit provides primary
+access requires the approval of a majority of the board of directors. If the approval by the  board
+of directors includes the right of the owner to make improvements to  the general common elements
+to which  the owner is being granted exclusive use, ORS 100.535 applies to the general common el-
+ements to the same extent that ORS 100.535 applies to a unit, including the right  of the board under
+ORS 100.535 to require an  owner, at owner’s expense, to submit an opinion of a registered architect
+or registered professional engineer that the proposed  improvement will not impair the structural
+integrity or mechanical systems of the condominium.
+(b) Unless the declaration otherwise provides, the consent to  vacation of roadways within and
+adjacent to the condominium must be approved first  by at least a majority of unit owners present
+and voting at a meeting of the association or with consent of at least a majority of all owners so-
+licited by any means the board of directors determines is reasonable. If a meeting is  held to conduct
+the vote, the meeting notice must  include a statement that the roadway vacation will be an item
+of business on the agenda of the meeting.
+(7) The instrument granting an interest or consent  pursuant to subsection (5) of this section
+must be executed by the association and  acknowledged and shall state that such grant or consent
+was approved, if appropriate, by at least  the percent of owners required under subsection (6) of this
+section.
+(8)(a) Unless expressly prohibited by the  declaration, any action permitted under subsections (5)
+[9]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+and (6) of  this section regarding a general common element may be taken with respect to any limited
+common element as provided in this subsection.
+(b) Except as provided in paragraph (c) of this subsection, the  easement, lease or other action
+under this section requires the  approval or consent of the owner of the unit to which the use of the
+limited common element is reserved and the holder of a first mortgage  or first trust deed affecting
+the unit. However, if the use of the limited common element is reserved for five or more units:
+(A) When the action is for more than two years, the owners of  75 percent of the units to which
+the use of the limited common element is reserved must approve or consent.
+(B) When the action is for two years or less, the  owners of a majority of the units to which the
+use of the limited common element is reserved must approve or consent.
+(c) The instrument granting an interest or consent under this section must:
+(A) Be executed by the association and acknowledged.
+(B) State that the grant or consent is given pursuant to this subsection.
+(C) Include a certification executed by the association stating  that the action was approved by
+the owners in accordance with this subsection.
+(9) Except as otherwise provided in  the association’s declaration or bylaws, the board of direc-
+tors of the association may modify, close, remove, eliminate or discontinue the use of a  general
+common element facility or improvement or portion of  the common element landscaping, regardless
+of whether such facility, improvement or landscaping  is mentioned in the declaration or shown on
+the plat provided that:
+(a) This subsection does not limit the authority of the board of directors,  in its discretion, to
+seek approval of such modification, closure, removal, elimination or  discontinuance by the unit
+owners; and
+(b) Modification, closure, removal, elimination or discontinuance other than on a  temporary ba-
+sis of any swimming pool, spa or recreation or community building must be  approved by at least a
+majority of the unit owners voting on such matter at a meeting or by written  ballot held in ac-
+cordance with the declaration, bylaws or ORS 100.425.
+(10)(a) A permit or authorization issued by the board of  directors pursuant to authority granted
+to the board under law, the declaration or the bylaws, may be recorded in  the deed records of the
+county where the condominium is located. An instrument recorded under this subsection must:
+(A) Include the name of the condominium and a  reference to where the declaration and any
+applicable supplemental declarations are recorded;
+(B) Identify, by the designations stated in the declaration or applicable supplemental declaration,
+all affected units and common elements;
+(C) Include such other information and signatures as may be required by law,  under the decla-
+ration or bylaws or as the board of directors may desire; and
+(D) Be executed by the association and acknowledged.
+(b) The board of directors may record an amendment, modification, termination or  other instru-
+ment relating to the  permit or authorization described in this subsection. Any such instrument shall
+include a reference to the location of the recorded  instrument and be executed by the association
+and acknowledged.
+(11)(a) Subject  to paragraph (f) of this subsection, before initiating litigation or an administrative
+proceeding  in  which the association and an owner have an adversarial relationship, the party that
+intends to initiate litigation or an administrative  proceeding shall offer to use any dispute resolution
+program available within the county  in which the condominium is located that is in substantial
+[10]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+compliance with the standards and guidelines adopted under ORS 36.175. The written offer  must be
+hand-delivered or mailed  by certified mail, return receipt requested, to the address, contained in the
+records of the association, for the other party.
+(b) If the party receiving the offer does not  accept the offer within 10 days after receipt by
+written notice hand-delivered or mailed by  certified mail, return receipt requested, to the address,
+contained in the records of the  association, for the other party, the initiating party may commence
+the litigation or the administrative proceeding. The  notice of acceptance of the offer to participate
+in the program must contain  the name, address and telephone number of the body administering the
+dispute resolution program.
+(c) If a qualified dispute resolution program exists within the county in  which the condominium
+is located  and an offer to use the program is not made as required under paragraph (a) of this sub-
+section, litigation or an  administrative proceeding may be stayed for 30 days upon a motion of the
+noninitiating party. If the litigation or administrative action is  stayed under this paragraph, both
+parties shall participate in the dispute resolution process.
+(d) Unless  a stay has been granted under paragraph (c) of this subsection, if the dispute resol-
+ution process is not completed within 30 days after receipt of the  initial offer, the initiating party
+may commence litigation or an administrative proceeding without regard to whether the  dispute
+resolution is completed.
+(e) Once made, the decision of the court or administrative body arising from litigation or an
+administrative proceeding may not  be set aside on the grounds that an offer to use a dispute resol-
+ution program was not made.
+(f) The requirements of this subsection do not apply to circumstances in which irreparable harm
+to a party will occur  due to delay or to litigation or an administrative proceeding initiated to collect
+assessments, other than assessments attributable to fines.
+(12) Notwithstanding any contrary provision in a governing document, an association may
+not initiate or intervene in litigation or administrative proceedings regarding a matter that
+results from a defect in, or damage  arising from a defect in, common elements of the con-
+dominium unless owners representing a majority of the units  approve in writing of the ini-
+tiation or intervention within 60 days after the mailing date of the notice required under ORS
+100.490. This subsection does not apply to a  breach of warranty claim against a declarant
+under ORS 100.185.
+SECTION 6.
+ ORS 100.490 is amended to read:
+100.490. (1) At least 10  days prior to instituting any litigation or administrative proceeding to
+recover damages under ORS 100.405 (4)(e)(E), the association of unit owners shall provide written
+notice to each affected owner of the association’s intent to seek damages on behalf of the owner.
+The notice shall, at a minimum:
+(a) Be mailed to the mailing address of each unit or to the mailing addresses designated by the
+owners in writing to the association;
+(b) Inform each owner of the general nature of the litigation or proceeding;
+(c) Describe the specific nature of the damages to be sought on the owner’s behalf;
+(d) Set forth the terms under which the  association is willing to seek damages on the owner’s
+behalf, including any mechanism proposed for the  determination and distribution of any damages
+recovered;
+(e) Inform  each owner of the owner’s right not to have the damages sought on the owner’s behalf
+and specify the procedure for exercising the right; and
+[11]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(f) Inform the owner that exercising the owner’s right not to  have damages sought on the
+owner’s behalf:
+(A) Relieves the association of its duty to reimburse or indemnify the owner for the damages;
+(B) Does not relieve the owner from the owner’s obligation to pay dues or assessments  relating
+to the litigation or proceeding;
+(C) Does not impair any easement owned or possessed by the association; and
+(D) Does not interfere with the association’s right to make repairs to common elements.
+(2) Within 10 days of the mailing of the notice described in this section, any owner  may request
+in writing  that the association not seek damages on the owner’s behalf. If an owner makes such a
+request, the association [ shall] may  not make or continue any claim or  action for damages with
+regard to the objecting owner’s unit or interest and shall be  relieved of any duty to reimburse or
+indemnify the owner for damages under the litigation or proceeding.
+(3) If the action is for a claim described in ORS 105.405 (12):
+(a) The notice sent under subsection (1) of this section must be sent by certified mail.
+(b) In addition to the contents described in subsection (1) of this section, the notice must:
+(A) State that the association believes that a defect in the common property exists;
+(B) Provide a detailed description of the defect;
+(C) Identify the parties the association considers responsible for the defect; and
+(D) State  that the association may not institute litigation or an administrative proceed-
+ing unless owners representing a majority of the units  approve in writing of the initiation
+or intervention within 60 days after the mailing date of the notice.
+(c) The association shall send a copy of the notice by certified  mail to each person iden-
+tified in the notice as a  party the association considers responsible for the defect. The re-
+quirement for sending notice under this subsection is in addition to the notice  of defect
+requirement in ORS  701.565 and does not initiate the procedure described in ORS 701.560 to
+701.595.
+SECTION 7.
+ ORS 100.115 is amended to read:
+100.115. (1) A plat of the land described in the declaration or a supplemental plat described in
+a supplemental declaration, complying with ORS 92.050, 92.060 (1) and  (2), 92.080 and 92.120, shall
+be recorded simultaneously with the declaration or supplemental declaration. The  plat or supple-
+mental plat shall be titled in accordance with subsection (3) of this section and shall:
+(a) Show the location of:
+(A) All buildings and  public roads. The location shall be referenced to a point on the boundary
+of the property; and
+(B) For a  condominium containing units described in ORS 100.020 (3)(b)(C) or (D), the moorage
+space or floating  structure. The location shall be referenced to a point on the boundary of the up-
+land property regardless of a change in the location resulting from a fluctuation  in the water level
+or flow.
+(b) Show the designation, location, dimensions and area in square feet of each unit including:
+(A) For units in a building described in ORS 100.020 (3)(b)(A),  the horizontal and vertical
+boundaries of each unit and the common elements to which each unit has access. The vertical
+boundaries shall be referenced to a  known benchmark elevation or other reference point as ap-
+proved by the city or county surveyor;
+(B) For a space described in ORS  100.020 (3)(b)(B), the horizontal boundaries of each unit and
+the common elements to which  each unit has access. If the space is located within a structure, the
+[12]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+vertical boundaries also shall be shown and referenced to a known benchmark  elevation or other
+reference point as approved by the city or county surveyor;
+(C) For a moorage space described in ORS 100.020 (3)(b)(C), the  horizontal boundaries of each
+unit and the common elements to which each unit has access; and
+(D) For a floating structure described in ORS 100.020 (3)(b)(D), the horizontal and  vertical
+boundaries of each unit and the common elements to which each unit has access. The vertical
+boundaries shall be referenced to an assumed elevation  of an identified point on the floating struc-
+ture even  though the assumed elevation may change with the fluctuation of the water level where
+the floating structure is moored.
+(c) Identify and show, to the extent feasible, the location [ and dimensions] of all limited common
+elements described in  the declaration. The plat may not include any statement indicating to which
+unit the use of any noncontiguous limited common element is reserved.
+(d) Include a statement, including  signature and official seal, of a registered architect, registered
+professional land surveyor or registered professional engineer certifying that the plat fully and ac-
+curately depicts the boundaries of the units of the building and that  construction of the units and
+buildings as depicted on the  plat has been completed, except that the professional land surveyor who
+prepared the plat need not affix a seal to the statement.
+(e) Include a surveyor’s certificate, complying with ORS  92.070, that includes information in the
+declaration in accordance with ORS 100.105 (1)(a) and a metes  and bounds description or other de-
+scription approved by the city or county surveyor.
+(f) Include a statement by the declarant that the property and improvements described and  de-
+picted on the plat are subject to the provisions of ORS 100.005 to 100.627.
+(g) Include any  other information or data not inconsistent with the declaration that the
+declarant desires to include.
+(h) If the condominium is a  flexible condominium, show the location and dimensions of all vari-
+able property identified in the  declaration and label the variable property as “WITHDRAWABLE
+VARIABLE PROPERTY” or “NONWITHDRAWABLE VARIABLE PROPERTY,” with a letter dif-
+ferent from those designating a unit,  building or other tract of variable property. If there is more
+than one tract, each tract shall be labeled in the same manner.
+(2) The supplemental plat required under ORS 100.150 (1) shall  be recorded simultaneously with
+the supplemental declaration. The supplemental  plat shall be titled in accordance with subsection
+(3) of this section and shall:
+(a) Comply with ORS 92.050, 92.060 (1), (2) and (4), 92.080,  92.120 and subsection (3) of this sec-
+tion.
+(b) If any property is withdrawn:
+(A) Show the resulting perimeter boundaries of the condominium after the withdrawal; and
+(B) Show the information required under subsection (1)(h) of this section as it relates to  any
+remaining variable property.
+(c) If any property  is reclassified, show the information required under subsection (1)(a) to (d)
+of this section.
+(d) Include a “Declarant’s  Statement” that the property described on the supplemental plat is
+reclassified or withdrawn from the condominium  and that the condominium exists as described and
+depicted on the plat.
+(e) Include a surveyor’s certificate complying with ORS 92.070.
+(3) The title of each supplemental plat  described in ORS 100.120 shall include the complete name
+[13]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of the condominium,  followed by the additional language specified in this subsection and the appro-
+priate reference to the stage being annexed or tract  of variable property being reclassified. Each
+supplemental plat for a  condominium recorded on or after January 1, 2002, shall be numbered se-
+quentially and shall:
+(a) If property is annexed under ORS 100.125,  include the words “Supplemental Plat No.
+: Annexation of Stage ”; or
+(b) If property is reclassified under ORS 100.150, include the words “Supplemental Plat No.
+: Reclassification of Variable Property, Tract .”
+(4) Upon request of the county surveyor or assessor, the person offering a plat or supplemental
+plat for recording shall also file an exact copy, certified by the surveyor who  made the plat to be
+an exact copy of the plat, with the county assessor and the county surveyor. The  exact copy shall
+be made on suitable drafting material having the characteristics of strength, stability and  transpar-
+ency required by the county surveyor.
+(5) Before a plat  or a supplemental plat may be recorded, it must be approved by the city or
+county surveyor as provided in ORS 92.100. Before  approving the plat as required by this section,
+the city or county surveyor shall:
+(a) Check the boundaries of the plat and units and take measurements and make  computations
+necessary to determine that the plat complies with this section.
+(b) Determine that the name complies with ORS 100.105 (5) and (6).
+(c) Determine that the following are consistent:
+(A) The designation and area in square feet of each  unit shown on the plat and the unit desig-
+nations and areas contained in the declaration in accordance with ORS 100.105 (1)(d);
+(B) Limited common  elements identified on the plat and the information contained in the decla-
+ration in accordance with ORS 100.105 (1)(h);
+(C) The description of the  property in the surveyor’s certificate included on the plat and the
+description contained in the declaration in accordance with ORS 100.105 (1)(a); and
+(D) For a flexible condominium, the variable property depicted on the plat and  the identification
+of the property contained in the declaration in accordance with ORS 100.105 (7)(c).
+(6) The person offering the plat or supplemental plat for approval shall:
+(a) Submit a copy of the proposed declaration  and bylaws or applicable supplemental declaration
+at the time the plat is submitted; and
+(b) Submit the original or  a copy of the executed declaration and bylaws or the applicable sup-
+plemental declaration approved by the commissioner if required by law prior to approval.
+(7) For performing the services described in subsection (5)(a) to (c) of this section, the  city sur-
+veyor or county surveyor shall collect from the person offering the plat for approval a fee of $150
+plus $25 per building. The governing body of a city or county may establish a higher fee  by resol-
+ution or order.
+SECTION 8.
+ ORS 100.680 is amended to read:
+100.680. (1) Unless the developer of a  condominium has complied with subsection (2) of this
+section, the developer and a purchaser may not enter into a unit sales  agreement before the re-
+cording  of  the declaration or supplemental declaration and plat under ORS 100.115 or, if the con-
+dominium is located outside of this state, before the  condominium has been created under the laws
+of the jurisdiction within which the condominium is located.
+(2) Any purchaser’s funds, the unit sales agreement, any notes or  security documents and any
+loan commitments  must be placed in an escrow located within this state with a person or firm au-
+[14]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+thorized under ORS 696.505 to 696.582. [ The escrow instructions  may not allow distribution of the
+purchaser’s funds until the declaration or any applicable supplemental declaration is  recorded and the
+legal title or other interest bargained for has been transferred  to the purchaser as provided in the unit
+sales agreement. ] If any funds of the purchaser are invested, the funds must be invested in  federally
+insured accounts or other investments approved  by the Real Estate Commissioner. If the developer
+defaults under  the unit sales agreement, the purchaser’s funds held in escrow and all income earned
+from investment of the funds held in escrow must be returned.
+(3) In lieu of the  requirements of subsection (2) of this section, the commissioner may approve
+any alternative requirement or method that the commissioner finds will ensure the same  protection
+to the purchaser as the protection provided by the escrow.
+SECTION 9.
+ ORS 100.417 is amended to read:
+100.417. (1) The board of directors of an association of unit owners  may act on behalf of the
+association except as  limited by the declaration or bylaws. In the performance of their duties, offi-
+cers and members of  the board of directors shall be governed by this section and the applicable
+provisions of ORS 65.357, 65.361, 65.367, 65.369 and 65.377 whether or not  the association is incor-
+porated under ORS chapter 65.
+(2) Subject to subsection [ (8)] (9)  of this section, unless otherwise provided in the bylaws, the
+board of directors of an  association may fill vacancies in its membership for the unexpired portion
+of any term.
+(3) At  least annually, the board of directors of an association shall review the insurance cover-
+age of the association.
+(4) The board of directors of the association annually shall  cause to be filed the necessary in-
+come tax returns for the association.
+(5) The board of directors  of the association may record a statement of association information
+as provided in ORS 94.667.
+(6) The board of directors, in  the name of the association, shall maintain a current mailing ad-
+dress.
+(7) The board of  directors shall cause to be maintained and kept current the information re-
+quired to enable the association to comply with ORS 100.480 (11).
+(8) The board of directors shall semiannually procure inspections of the condominium for
+moisture intrusion.
+[(8)(a)] (9)(a)  Unless otherwise provided in the declaration or bylaws, at  a meeting of the unit
+owners at which a  quorum is present, the unit owners may remove a director from the board of di-
+rectors, other than directors appointed by the declarant or individuals who are ex officio  directors,
+with or without cause, by a majority vote of unit owners who are present and entitled to vote.
+(b) Notwithstanding contrary provisions in the declaration or bylaws:
+(A) Before a vote to remove a director, unit owners must give the director  whose removal has
+been proposed an opportunity to be heard at the meeting.
+(B) The unit owners must vote  on the removal of each director whose removal is proposed as
+a separate question.
+(C) Removal of a director by unit owners is effective only if the matter of removal was  an item
+on the agenda and was stated in the notice of the meeting required under ORS 100.407.
+(c) A director who is removed by the unit owners remains a director until  a successor is elected
+by the unit owners or the vacancy is filled as provided in subsection [ (9)] (10) of this section.
+[(9)] (10) Unless the declaration or bylaws specifically  prescribe a different procedure for filling
+[15]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+a vacancy created by the removal of a director by unit owners,  the unit owners shall fill a vacancy
+created  by  the removal of a director by the unit owners at a meeting of unit owners. The notice of
+the meeting must state that filling a vacancy is an item on the agenda.
+SECTION 10.
+ ORS 701.570 is amended to read:
+701.570. (1)  A contractor, subcontractor or supplier that receives a notice of defect sent under
+ORS 701.565 shall, not later than 14 days after receiving the notice of  defect, send a secondary no-
+tice to any other known contractor, subcontractor or supplier that may  be responsible for some or
+all of the defects described in the notice of defect. The contractor, subcontractor  or supplier must
+send the secondary notice by registered or certified mail,  return receipt requested, to an address
+described in ORS 701.565 (2). The secondary notice must be accompanied by a statement  describing
+the basis for contending that the other  contractor, subcontractor or supplier may be responsible for
+some or all of the defects.
+(2) A contractor, subcontractor or  supplier that receives a notice of defect or secondary notice
+may send the owner a written request to conduct a visual examination of the residence.  Except as
+provided in section 14 of this 2025 Act, the written request must be sent not later than  14 days
+after the requesting contractor, subcontractor or  supplier receives a notice of defect or secondary
+notice. The written request to  conduct a visual examination of the residence must state the esti-
+mated time required for the visual examination.
+(3) A contractor, subcontractor or  supplier that receives a notice of defect or secondary notice
+may send the owner a written  request to inspect the residence. Except as provided in section 14
+of this  2025 Act, the written request must be sent not later than 14 days after the requesting con-
+tractor, subcontractor or supplier conducted a  visual examination of the residence. The written re-
+quest to  inspect the residence must state the nature and scope of the inspection, whether any testing
+is to  be performed and the estimated time required for the inspection. The recipient of a secondary
+notice that requests to inspect the residence shall send a copy of the request to the  sender of the
+secondary notice.
+(4) A contractor,  subcontractor or supplier that sends a secondary notice and intends to hold
+the recipient of the secondary notice liable for a defect  described in a notice of defect shall coor-
+dinate the scheduling of any inspection with the owner and all recipients  of a secondary notice from
+the contractor, subcontractor or supplier. The contractor, subcontractor or supplier  shall deliver a
+copy of any written request to inspect the residence to each recipient  of the secondary notice in
+time to provide the recipient with an opportunity to attend the requested inspection  and to partic-
+ipate in any remediation. The sender of a secondary notice shall give reasonable  advance notice to
+the owner or the  owner’s legal representative, if any, of the identity of any contractor, subcontrac-
+tor or supplier who will attend the inspection.  If the sender of  the notice of defect is a home-
+owners association or an association of unit owners, the notice must also conform  to section
+14 of this 2025 Act.
+(5) Except as provided in section 14  of this 2025 Act,  unless otherwise agreed to by the
+owner, a contractor, subcontractor or  supplier that receives a notice of defect or secondary notice
+shall send  a written response to the owner not later than 90 days after the contractor, subcontractor
+or supplier receives a notice  of defect or secondary notice. A contractor, subcontractor or supplier
+that receives a secondary notice also shall send a copy of  the written response to the sender of the
+secondary notice. The written  response must be sent by registered or certified mail, return receipt
+requested. The written response must include:
+(a) One or more of the following for each defect  described in the notice of defect or secondary
+[16]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+notice or discovered during the course of any visual examination or inspection:
+(A) An acknowledgment of the  existence, nature and extent of the defect without regard to re-
+sponsibility for the defect.
+(B) A statement describing the existence of a defect  different in nature or extent from the defect
+described in the notice of defect or secondary notice, without regard to responsibility for the  defect.
+(C) A denial of the existence of the defect.
+(b) A copy of the documents described in ORS 701.575 (4).
+(c) One or more of the following:
+(A) An offer to perform some or all of the remediation. The offer must specify the  date by which
+the offered remediation will be completed.
+(B) An offer to pay a stated amount of monetary compensation to  the owner for some or all of
+the acknowledged defects and any incidental damage.  The offer must specify the date by which
+payment will be made.
+(C) A denial of responsibility for some or all of the acknowledged defects or  incidental damage.
+SECTION 11.
+ ORS 701.575 is amended to read:
+701.575. (1) An owner sending a notice of  defect under ORS 701.565 shall make the residence
+available for visual examination pursuant to any written request sent under ORS 701.570  or section
+14 of this 2025 Act . The owner shall make the residence available for visual examination, during
+normal business hours or as otherwise agreed, not later than 20 days  after receiving the written
+request for visual examination.
+(2) An owner sending a notice of defect under ORS 701.565 shall make  the residence available
+for an inspection pursuant to  any written request sent under ORS 701.570  or section 14 of this 2025
+Act. The owner shall make the residence available for inspection during normal business hours or
+at a time that is mutually agreeable to the owner and the requester.
+(3) An  inspection by a contractor, subcontractor or supplier may include any reasonable meas-
+ures, including testing,  for determining the nature, cause and extent of the defects described in the
+notice of defect or incidental damage and the nature and extent of the necessary remediation. Unless
+the contractor, subcontractor or supplier conducting the inspection and the owner agree  otherwise,
+the contractor, subcontractor or supplier conducting the inspection shall repair any damage  caused
+by the inspection. Any damage caused by the inspection that is not  repaired may be sought as in-
+cidental damage in any subsequent arbitration or court  action by an owner against the contractor,
+subcontractor or supplier conducting the inspection.
+(4) A contractor, subcontractor or supplier that requests to inspect a residence  must include as
+part of the written response of  the contractor, subcontractor or supplier under ORS 701.570[ ,] or
+section 14 of this 2025 Act  a written report or other document evidencing the result of the in-
+spection and the existence or nonexistence of the defects described in the notice of defect or dis-
+covered during the inspection.
+SECTION 12.
+ ORS 701.585 is amended to read:
+701.585. (1) If an owner sends a contractor, subcontractor or supplier a notice of  defect within
+the time  allowed for the owner to commence a court action against that contractor, subcontractor
+or supplier for  a claim described in ORS 701.565, the time for the owner to commence the action
+shall be extended, notwithstanding any statute  of limitation or statute of ultimate repose, until the
+later of:
+(a) One hundred and twenty days after the owner  receives a written response from the con-
+tractor, subcontractor or  supplier that received the notice of defect if the written response does not
+[17]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+contain a written offer to perform remediation or pay monetary  compensation for one or more of the
+defects or incidental damage described in the notice of defect;
+(b) One hundred and  twenty days after the owner rejects a written offer by any contractor,
+subcontractor or supplier to perform remediation or pay monetary compensation for one or  more of
+the defects or incidental damage described in the notice of defect; or
+(c) Thirty days after the date specified in an accepted written offer by which the offering con-
+tractor, subcontractor or supplier is to complete  the remediation or complete payment of monetary
+compensation for one or more of the  defects and any incidental damage described in the notice of
+defect.
+(2) Subsection (1)  of this section does not shorten or terminate the time for bringing a claim in
+accordance with applicable statutes of ultimate repose and statutes of limitation.
+(3) Delivery of a secondary notice sent by a contractor, subcontractor or  supplier under ORS
+701.570 or section 14 of this 2025 Act does not act to toll the expiration of any right of the owner
+to commence a court action against the recipient  of the secondary notice.  However, the right of
+the sender of the  secondary notice to commence a court action against the recipient of the
+secondary notice shall be  extended, notwithstanding any statute of limitation or statute of
+ultimate repose, until the date that the right of the owner to commence  a court action
+against the sender of the secondary notice expires.
+(4) Any remediation performed  pursuant to an accepted offer made under ORS 701.570  or sec-
+tion 14 of this 2025 Act does not constitute a new performance and, for purposes of ORS 12.135,
+relates back to the earliest date of  substantial completion or abandonment of the construction, al-
+teration or repair of the improvement to real property.
+SECTION 13.
+Section 14 of this 2025 Act is added  to and made a part of ORS 701.560 to
+701.595.
+SECTION 14. If the owner sending a notice of  defect under ORS 701.565 is a homeowners
+association or an association of unit owners:
+(1) The period in which a contractor, subcontractor or supplier may  send a request to
+conduct a visual examination or request to  inspect the residence under ORS 701.570 (2) or
+(3) is extended to 30 days after receiving a notice of defect or secondary notice.
+(2)(a) The contractor, subcontractor or supplier may have a technical or  construction
+expert attend an inspection requested under ORS 701.570 (3), provided that:
+(A) The written request identifies one or more acceptable experts; and
+(B) The owner consents to the expert.
+(b) If the owner disapproves of the  proposed expert, the owner shall provide written no-
+tice of the disapproval and of the identity of an expert acceptable to the owner.
+(c) If the contractor,  subcontractor or supplier disapproves of the expert identified by the
+owner, the two identified and  disapproved experts shall jointly select a third expert to be the
+expert that attends the inspection.
+(d) The contractor, subcontractor or supplier shall include the identity of a selected  ex-
+pert in any advance notice that the contractor, subcontractor or supplier sends  under ORS
+701.570 (4).
+(3) The contractor, subcontractor or supplier shall send the owner a  response to the
+notice of defect not later than:
+(a) Fourteen days after conducting an inspection of the residence under  ORS 701.575 (3);
+or
+[18]
+HB 3746
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) If no inspection is conducted, 90 days after the receiving a  notice of defect or sec-
+ondary notice.
+(4) A response under subsection (3) of this section must contain:
+(a) An offer to cure the defect;
+(b) An offer to pay an amount equal to the cost of curing the defect;
+(c) An offer allowing the owner a choice  between cure of the defect or an amount equal
+to the cost of curing the defect; or
+(d) A  statement that the contractor, subcontractor or supplier declines to make any offer
+in lieu of litigation.
+(5) If the contractor, subcontractor or supplier does not send  a response that is timely
+under subsection (3) of this section or  that conforms to the requirements in subsection (4)
+of this section, the owner is excused from further compliance with this section.
+(6) An owner may accept an offer under subsection (4) of this section  by delivering a
+written acceptance to the offering  contractor, subcontractor or supplier within 30 days after
+receiving the offer.  If an owner fails to accept an offer within 30 days after receipt, the offer
+is deemed rejected.
+(7) If an offer under subsection (4) of  this section is to pay an amount equal to the cost
+of curing the defect, the contractor, subcontractor or supplier has 30 days after  sending the
+response to offer  a firm payment amount. The offer is not complete until the owner receives
+the firm amount. If the owner wishes to accept an offer of payment, but disputes  the
+amount, the  parties may select a mediator to attempt resolution. If the parties cannot agree
+on a mediator after 45 days, they may request that the  administrator of the Construction
+Contractors Board inform a professional  mediation association or service that the parties
+wish to have a mediator selected by the association or service.
+(8) If an owner accepts payment of an  amount equal to the cost of curing the defect, the
+owner shall make a good faith effort to have a construction contractor correct the defect.
+(9) If the owner  accepts an offer to perform remediation or to pay monetary compen-
+sation, completion of the remediation or payment satisfies the claims by the owner for those
+defects included in the offer  for which remediation was performed or compensation paid, but
+not for any other defect. Except as provided in subsection (10) of this  section, if the owner
+accepts an offer by  a contractor, subcontractor or supplier that received a secondary notice,
+completion of the remediation or payment  satisfies claims for those defects included in the
+offer for  which remediation was performed or compensation paid, including claims by the
+owner and claims for contribution or indemnity against the contractor,  subcontractor or
+supplier by the sender of the secondary notice, but not for any other defect.
+(10) If  the owner accepts an offer by a contractor, subcontractor or supplier that re-
+ceived a  secondary notice to perform remediation or to pay monetary compensation and the
+contractor, subcontractor or supplier fails to  perform in accordance with the accepted offer,
+the sender of the secondary notice  may perform the remediation or pay the monetary com-
+pensation offered by the nonperforming contractor, subcontractor or supplier.
+(11) A response  under subsection (3) of this section is not admissible to establish a defect,
+liability for a defect, or the damages arising  out of a defect, in an arbitration or court action.
+SECTION 15.
+Section 14 of this 2025 Act and the amendments to ORS  701.570 and 701.585
+by sections 10 and 12 of this 2025 Act apply to notices of construction defect sent by an owner
+on or after the effective date of this 2025 Act and to any resulting secondary notices.
+[19]
+HB 3746
+1
+[20]

@@ -1,0 +1,281 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1147
+Sponsored by Senator THATCHER, Representatives HELFRICH, BOICE; Representatives  OSBORNE, RESCHKE,
+WRIGHT
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates a process for victims of some crimes to request  permanent restraining
+orders. The Act takes effect on the 91st day after sine die. (Flesch Readability Score: 73.2).
+Directs the court, at a victim’s request, to enter an order at sentencing permanently restraining
+the defendant from contacting the victim when the defendant is convicted of specified crimes.
+Creates a process by which  a victim of a crime in which judgment was previously entered can
+request an order permanently restraining the defendant from contacting the victim.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to permanent restraining orders for crime victims; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 and 3 of this 2025 Act shall  be known and may be cited as
+Kayleigh’s Law.
+SECTION 2. (1) At the time of sentencing on a crime described in subsection (4) of this
+section, at the request of the victim of the crime, or the prosecutor on behalf  of the victim,
+the court shall enter a restraining order prohibiting the defendant from contacting the  vic-
+tim.
+(2)(a) A certified true copy of the restraining order shall be provided to the defendant
+at the time of  sentencing. The order must contain a declaration that the defendant appeared
+in person before the court and received a copy of the order.
+(b) The clerk of the court shall immediately deliver to the county sheriff a copy  of the
+restraining order. Upon receipt of a copy of the restraining  order, the county sheriff shall
+immediately enter the  restraining order into the Law Enforcement Data System maintained
+by the Department of State Police and the databases of  the National Crime Information
+Center of the United States Department of Justice.
+(c) Entry into the Law Enforcement Data System constitutes  notice to all law enforce-
+ment agencies of the existence of the restraining order. The restraining order is fully en-
+forceable in any county or tribal land in this state.
+(d) When a restraining order has been entered into the  Law Enforcement Data System
+and the databases of the National Crime Information Center of the  United States Depart-
+ment of Justice under this subsection, a county sheriff shall cooperate with a  request from
+a law enforcement agency from any  other jurisdiction to verify the existence of the re-
+straining order or to transmit a copy of the restraining order to the requesting  jurisdiction.
+(3)(a) A restraining order described in this section does not expire, and is valid for  the
+defendant’s natural lifetime unless any of the following occurs:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3982
+SB 1147
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) The defendant makes a showing to the court that either the victim has died, or  that
+the conviction has been dismissed, set aside or overturned or  that the defendant has been
+pardoned; or
+(B) The victim  submits a written request to the court for early termination of the order.
+(b) The defendant may make a showing as described  in this subsection by filing a motion
+for early termination of the  order. If the court grants the motion, the court shall cause the
+victim to be notified of the termination of the order.
+(c) If the  victim files a written request for early termination of the order under this
+subsection, the court may hold a hearing to verify the victim’s request. If the court  termi-
+nates the  order pursuant to the victim’s request, the court shall cause the defendant to be
+notified of the termination of the order.
+(d) If  the court enters an order terminating a restraining order described in this section,
+the clerk of the  court shall immediately deliver a copy of the termination order to the county
+sheriff with whom the original restraining  order was filed. Upon receipt of the termination
+order, the county sheriff shall promptly remove the original restraining order from the Law
+Enforcement Data System and the databases of the National Crime Information  Center of
+the United States Department of Justice.
+(4) This section applies to convictions for:
+(a) A crime listed in ORS 137.700 or 137.707;
+(b) A sex crime as defined in ORS 163A.005 constituting a felony;
+(c) Strangulation under ORS 163.187 constituting a felony;
+(d) Assault in the fourth degree under ORS 163.160 (3), constituting domestic violence;
+(e) Invasion of personal privacy in the first degree under ORS 163.701;
+(f) Stalking under ORS 163.732 constituting a felony; and
+(g) Any felony involving the  discharge, use or threatened use of a dangerous or deadly
+weapon or knowingly or intentionally causing serious physical injury to another person.
+SECTION 3.
+(1) A victim of a  crime described in subsection (8) of this section may peti-
+tion the court for a restraining order prohibiting  the defendant from contacting the victim
+if:
+(a) The judgment of conviction was entered before the effective date of this 2025 Act; or
+(b) The victim did not request issuance of the order at the time of sentencing.
+(2) A petition for an  order described in this section must be filed in the circuit court in
+which the judgment of conviction was entered.
+(3) The court shall review the  petition and may hold a hearing. If the court determines
+that the petitioner was the victim of a crime  described in subsection (8) of this section, the
+court shall enter a  restraining order prohibiting the defendant from contacting the
+petitioner.
+(4)(a) If the circuit court enters a restraining order under this section:
+(A) The clerk  of the court shall provide, without charge, certified true copies of the pe-
+tition and the restraining order to the petitioner and shall have a  certified true copy of the
+petition and the restraining order delivered to the county sheriff for service  upon the de-
+fendant.
+(B) The county sheriff shall cause the defendant to be served personally.
+(b) Upon completion of service, the  county sheriff shall immediately enter the restraining
+order into the Law Enforcement Data System maintained by  the Department of State Police
+[2]
+SB 1147
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+and the databases of  the National Crime Information Center of the United States Depart-
+ment of Justice.
+(c) Entry into the Law Enforcement  Data System constitutes notice to all law enforce-
+ment agencies of the existence of the restraining order. The restraining order is fully en-
+forceable in any county or tribal land in this state.
+(d) When a restraining order  has been entered into the Law Enforcement Data System
+and the databases of  the National Crime Information Center of the United States Depart-
+ment of Justice  under this subsection, a county sheriff shall cooperate with a request from
+a law enforcement agency from any other jurisdiction to verify  the existence of the re-
+straining order or to transmit a copy of the restraining order to the requesting  jurisdiction.
+(e) If the county sheriff cannot complete service within 14 days after accepting the re-
+straining order  and petition, the sheriff shall notify the petitioner, at the address provided
+by the petitioner, that the  documents have not been served. If the petitioner does not re-
+spond within 10 days, the sheriff shall hold the restraining order and petition for future
+service and file a return to the clerk of the court showing that service was not completed.
+(5)(a) A restraining order described in this section does not expire, and is valid for  the
+defendant’s natural lifetime unless any of the following occurs:
+(A) The defendant makes a showing to the  court that either the petitioner has died, or
+that the conviction has been dismissed, set aside or overturned or that  the defendant has
+been pardoned; or
+(B) The petitioner  submits a written request to the court for early termination of the
+order.
+(b) The defendant may make a showing as described  in this subsection by filing a motion
+for early termination of the  order. If the court grants the motion, the court shall cause the
+petitioner to be notified of the termination of the order.
+(c) If the petitioner files a written request  for early termination of the order under this
+subsection, the court may hold a hearing to verify the petitioner’s request. If the court  ter-
+minates the  order pursuant to the petitioner’s request, the court shall cause the defendant
+to be notified of the termination of the order.
+(d) If  the court enters an order terminating a restraining order described in this section,
+the clerk of the  court shall immediately deliver a copy of the termination order to the county
+sheriff with whom the original restraining  order was filed. Upon receipt of the termination
+order, the county sheriff shall promptly remove the original restraining order from the Law
+Enforcement Data System and the databases of the National Crime Information  Center of
+the United States Department of Justice.
+(6) A filing  fee, service fee or hearing fee may not be charged for proceedings described
+in this section.
+(7)(a) The State Court Administrator shall produce  the forms for petitions and restrain-
+ing orders for use under this section and section 2 of this 2025 Act.
+(b) The State Court Administrator shall provide the forms to the clerks of the  circuit
+court who shall make the forms available to the public.
+(8) This section applies to convictions for:
+(a) A crime listed in ORS 137.700 or 137.707;
+(b) A sex crime as defined in ORS 163A.005 constituting a felony;
+(c) Strangulation under ORS 163.187 constituting a felony;
+[3]
+SB 1147
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+(d) Assault in the fourth degree under ORS 163.160 (3), constituting domestic violence;
+(e) Invasion of personal privacy in the first degree under ORS 163.701;
+(f) Stalking under ORS 163.732 constituting a felony; and
+(g) Any felony involving the  discharge, use or threatened use of a dangerous or deadly
+weapon or knowingly or intentionally causing serious physical injury to another person.
+SECTION 4.
+Section 2 of this 2025 Act applies to sentencing proceedings occurring on or
+after the effective date of this 2025 Act.
+SECTION 5. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[4]

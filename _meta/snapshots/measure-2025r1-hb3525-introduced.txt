@@ -1,0 +1,370 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3525
+Sponsored by Representatives HARTMAN, OWENS, HELM; Representatives GAMBA, MCDONALD,  NATHANSON,
+WALTERS, Senators MANNING JR, MEEK, PHAM K
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act requires  landlords to test tenants’ wells and DEQ to analyze its well data.
+(Flesch Readability Score: 67.5).
+Requires, for  each dwelling unit rented by a landlord for which the source of drinking water is
+a well that is subject to  regulation, that the landlord collect and test samples of drinking water from
+the dwelling unit for arsenic, E. coli and  nitrates. Requires the Department of Environmental
+Quality to adopt implementation rules. Becomes operative on June 1, 2026.
+A BILL FOR AN ACT
+Relating to exempt wells that supply ground water for domestic purposes;  creating new provisions;
+and amending ORS 90.320.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS chapter 90.
+SECTION 2. (1) As used in this section:
+(a) “Contaminants” includes arsenic, E. coli and nitrates.
+(b) “Exempt well” means a well used for purposes exempt under ORS  537.545 (1)(b) or (d).
+(2) If a dwelling unit has an exempt well or wells as  a source of drinking water, the
+landlord shall collect and test samples of drinking water for the unit and, if necessary,  have
+the drinking water treated or well repaired or replaced, in accordance with this section.
+(3) A landlord shall ensure that each source for  which drinking water is collected under
+subsection (5)(a) of this section is tested as follows:
+(a) The water must be tested for arsenic  no later than 30 days after installing the exempt
+well.
+(b) Except as provided in subsection (4)  of this section, the drinking water must be tested
+for each contaminant at least once each year.
+(4) Following a test that indicates that the drinking water does not contain any contam-
+inants, the landlord is not required to test drinking water for  contaminants for four years,
+if the test is:
+(a) The first test conducted for the dwelling unit;
+(b) The first test conducted after an extension allowed under this subsection; or
+(c) The second successful annual test  conducted over two consecutive years following a
+failed test.
+(5) A landlord subject to this section:
+(a) Shall collect samples of  water from a dwelling unit’s primary dispenser of drinking
+water and may collect  supplementary samples of water from a dwelling unit’s other
+dispensers of drinking water or from a dwelling unit’s wellhead;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2769
+HB 3525
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) May delegate the landlord’s duty to collect samples of drinking water under paragraph
+(a) of this subsection to a tenant if the landlord and the tenant agree  to the delegation in
+writing and the agreement is made in good faith and for adequate consideration; and
+(c) Shall, when submitting  samples of drinking water collected under this section to a
+laboratory for testing:
+(A) Take reasonable steps to confirm that the laboratory is accredited  as provided in
+subsection (6)(a) of this section;
+(B) Inform the laboratory that the testing is required pursuant to this section; and
+(C) Request that the laboratory report the results of the test to the Department  of En-
+vironmental Quality.
+(6) A laboratory conducting a test pursuant to this section:
+(a) Must be accredited under the environmental laboratory accreditation program  estab-
+lished under ORS 438.615;
+(b) Shall electronically  report the results of the test to the department in a form and
+manner prescribed by the department, which may include reporting  of the results through
+electronic mail using a spreadsheet; and
+(c) Shall  send the full laboratory report to the landlord, and to the tenant if requested
+by the landlord, in a form showing the absence or presence of  E. coli and the concentration
+of other contaminants in milligrams per liter or parts per million.
+(7) Each time the landlord has drinking water  tested for a contaminant under this sec-
+tion, the landlord shall provide the results  of the test to the tenant no less than 30 days after
+receiving the results in a form:
+(a) As provided to the landlord under subsection (6)(c) of this section; or
+(b) Showing only the tests performed and whether the dwelling unit passed or failed each
+test and notifying the tenant that the tenant may  obtain or inspect the full laboratory report
+upon request. This form must be substantially in the format adopted by the  department un-
+der subsection (10)(a) of this section.
+(8) Prior to assessing a screening charge  or entering into a rental agreement for a
+dwelling unit  for which a landlord must collect and test drinking water under this section,
+the landlord must provide to the tenant written notice providing:
+(a) That the dwelling unit has an exempt well as a source of drinking water;
+(b) The dates and the results of the most  recent test for each contaminant, in a form
+described in subsection (7) of this section, or a  statement that the contaminant has not yet
+been tested for; and
+(c) The latest date by which the next test for each contaminant must be conducted.
+(9) If the results of a  test conducted under this section indicate that the drinking water
+collected under this section contains any amount of E. coli or  an amount of other contam-
+inants that exceeds  the maximum contamination level in drinking water as established by
+the United States Environmental Protection Agency, the landlord shall, as soon as  practica-
+ble:
+(a) Provide the results of the test to the tenant as  required under subsection (7) of this
+section;
+(b) Notify the tenant of the date on which the landlord will:
+(A) Treat the drinking water or repair or  replace the exempt well, or, if the landlord has
+already treated the drinking  water or repaired or replaced the well, the date on which it was
+[2]
+HB 3525
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+done; and
+(B) Next test the drinking water;
+(c) Provide the tenant with the  handout adopted by the department under subsection
+(10)(b) of this section;
+(d) Treat the drinking water or repair or replace the exempt well;
+(e) Collect, test and treat the drinking water as provided in this section; and
+(f) Thereafter  retest the exempt well according to a schedule set by rule by the depart-
+ment, notwithstanding subsections (3) and (4) of this section.
+(10) The department shall adopt rules to  implement this section, including rules specify-
+ing the content of:
+(a) A form that a  landlord subject to this section must use to provide information de-
+scribed in subsection (7)(b) of this section. The form must include:
+(A) A section that  must be filled out by the landlord to indicate, in plain language,
+whether the dwelling unit passed or failed each test; and
+(B) A section  that may be filled out by the landlord to indicate the absence or presence
+in the drinking water of E. coli and the  concentration of other contaminants in milligrams
+per liter or parts per million.
+(b) A handout providing information on testing drinking water for contaminants and the
+impact that drinking water that contains contaminants can have on a person’s health.
+(11) This section does not apply to  a dwelling unit that is part of a premises subject to
+regulation under ORS 448.119 to 448.285, 454.235 and 454.255, as described in ORS 448.119.
+(12) If a landlord  fails to conduct a test or disclose test results as required by this sec-
+tion, the tenant may recover the greater of actual damages or $300.
+SECTION 3.
+Between January 1, 2026, and the operative date specified in section  5 of this
+2025 Act, and  notwithstanding section 2 (3)(b) of this 2025 Act, for each dwelling unit that,
+on the operative date specified in section 5 of this 2025 Act, is subject to section 2 of this 2025
+Act, the landlord  shall sample, test for all contaminants and, if necessary, remedy the
+drinking water as provided under section 2 of this 2025 Act.
+SECTION 4.  ORS 90.320 is amended to read:
+90.320. (1) A landlord shall at all times during  the tenancy maintain the dwelling unit in a
+habitable condition. For purposes of this section, a  dwelling unit shall be considered unhabitable if
+it substantially lacks:
+(a) Effective waterproofing and weather protection of roof  and exterior walls, including windows
+and doors;
+(b) Plumbing facilities that conform to applicable law in effect at  the time of installation and
+are maintained in good working order;
+(c) A water supply approved under applicable law that is:
+(A) Under the control  of the tenant or landlord and is capable of producing hot and cold running
+water;
+(B) Furnished to appropriate fixtures;
+(C) Connected to a sewage disposal system approved under applicable law; and
+(D) Maintained so  as to provide safe drinking water , including as required under section 2
+of this 2025 Act for a dwelling unit with an exempt well as  a source of its drinking water,  and
+to be in good working order to the extent that the system can be controlled by the landlord;
+(d) Adequate  heating facilities that conform to applicable law at the time of installation and are
+[3]
+HB 3525
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+maintained in good working order;
+(e) Electrical lighting  with wiring and electrical equipment that conform to applicable law at the
+time of installation and is maintained in good working order;
+(f) Buildings, grounds and appurtenances at the  time of the commencement of the rental agree-
+ment in every part safe for normal and reasonably foreseeable uses, clean, sanitary  and free from
+all accumulations of debris, filth, rubbish, garbage, rodents and vermin, and all areas under  control
+of the  landlord kept in every part safe for normal and reasonably foreseeable uses, clean, sanitary
+and free from all accumulations of debris, filth, rubbish, garbage, rodents and vermin;
+(g) Except as otherwise provided by local ordinance or by written agreement between the land-
+lord and the tenant, an adequate  number of appropriate receptacles for garbage and rubbish in clean
+condition and good repair at the  time of the commencement of the rental agreement, and the land-
+lord shall provide and maintain appropriate serviceable  receptacles thereafter and arrange for their
+removal;
+(h) Floors, walls, ceilings, stairways and railings maintained in good repair;
+(i) Ventilating, air  conditioning and other facilities and appliances, including elevators, main-
+tained in good repair if supplied or required to be supplied by the landlord;
+(j) Safety from fire hazards,  including a working smoke alarm or smoke detector, with working
+batteries  if  solely battery-operated, provided only at the beginning of any new tenancy when the
+tenant first takes possession of the premises, as provided in ORS 479.270, but not to  include the
+tenant’s testing of the smoke alarm or smoke detector as provided in ORS 90.325 (1);
+(k) A carbon monoxide alarm, and the dwelling unit:
+(A) Contains a carbon monoxide source; or
+(B) Is located  within a structure that contains a carbon monoxide source and the dwelling unit
+is connected to the room in which the carbon monoxide source is located by a door, ductwork or a
+ventilation shaft;
+(L) Working locks for all  dwelling entrance doors, and, unless contrary to applicable law,
+latches for all windows, by  which access may be had to that portion of the premises that the tenant
+is entitled under the rental agreement  to occupy to the exclusion of others and keys for those locks
+that require keys; or
+(m) For a dwelling unit in a building  where building permits for its construction were issued on
+or after April 1, 2024, adequate cooling facilities that:
+(A) Provide cooling in at least one room of the dwelling unit, not including a bathroom;
+(B) Conform to applicable law at the time of installation and are maintained in good working
+order; and
+(C) May  include central air conditioning, an air-source or ground-source heat pump or a portable
+air conditioning device that is provided by the landlord.
+(2) The landlord and tenant may agree in writing that the tenant is to perform specified repairs,
+maintenance tasks and minor remodeling only if:
+(a) The agreement of the parties is entered into in good faith and not for the  purpose of evading
+the obligations of the landlord;
+(b) The agreement does not diminish the obligations of the landlord to  other tenants in the
+premises; and
+(c) The terms and conditions of the agreement are clearly  and fairly disclosed and adequate
+consideration for the agreement is specifically stated.
+(3) Any provisions of this section that reasonably apply only to a  structure that is used as a
+[4]
+HB 3525
+1
+2
+3
+4
+5
+6
+7
+8
+home, residence or sleeping place do not apply to  a manufactured dwelling, recreational vehicle or
+floating home where the tenant owns the manufactured  dwelling, recreational vehicle or floating
+home, rents the  space and, in the case of a dwelling or home, the space is not in a facility. Manu-
+factured dwelling or floating home tenancies in which the tenant owns  the dwelling or home and
+rents space in a facility are governed by ORS 90.730 and not by this section.
+SECTION 5.
+Section 2 of this 2025 Act and the amendments to ORS 90.320 by  section 4
+of this 2025 Act become operative on June 1, 2026.
+[5]

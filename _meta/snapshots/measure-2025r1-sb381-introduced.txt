@@ -1,0 +1,77 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 381
+Sponsored by Senators WEBER, BONHAM; Senator LINTHICUM (at the request of former Senator  Lynn Findley)
+(Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Raises the exempt amount  and the filing threshold for the CAT. (Flesch Readability
+Score: 72.6).
+Increases the exempt amount and  the filing threshold for purposes of the corporate activity tax.
+Applies to tax years beginning on or after January 1, 2026.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to exempt amount  under corporate activity tax; creating new provisions; amending ORS
+317A.125 and 317A.137; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 317A.125 is amended to read:
+317A.125. (1) The corporate activity tax imposed  under ORS 317A.116 for each tax year shall
+equal $250 plus the product of the taxpayer’s taxable  commercial activity in excess of [ $1 million]
+$5 million for the tax year multiplied by 0.57 percent.
+(2) A tax is not owed  under this section if the person’s taxable commercial activity does not
+exceed [ $1 million] $5 million.
+SECTION 2.  ORS 317A.137 is amended to read:
+317A.137. (1) For purposes of the corporate activity tax imposed under ORS 317A.116, every
+person doing  business in this state with commercial activity for the tax year in excess of [ $1
+million] $5 million shall file an annual return not later than the 15th day of the fourth month fol-
+lowing the end of the  tax year. If the 15th day of the fourth month falls on a Saturday, Sunday or
+legal holiday, including any legal holiday in the District of Columbia, the return is due on the  next
+business day following the Saturday, Sunday or legal holiday. The  return must be filed with the
+Department of Revenue in a form prescribed by the department.
+(2) The corporate activity  tax imposed under ORS 317A.116 is due and estimated tax payments
+for the previous quarter are payable to  the department on or before the last day of the 4th, 7th and
+10th months of the tax year and of the first month immediately following the end of the tax year.
+(3) The department may by rule extend the time for making any return. If  the time for filing a
+return is extended, interest on any unpaid tax at the rate established under ORS  305.220 from the
+time the return was originally required to be filed to the time of payment, shall be added and paid.
+SECTION 3. The amendments to ORS 317A.125 and 317A.137 by sections 1 and  2 of this
+2025 Act apply to tax years beginning on or after January 1, 2026.
+SECTION 4. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3834
+SB 381
+1
+[2]

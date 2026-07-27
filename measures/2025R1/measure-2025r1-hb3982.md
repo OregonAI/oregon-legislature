@@ -1,0 +1,2672 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3982
+title: 'HB 3982 (2025R1): Redirects revenues from the bicycle excise tax, tax on wages and vehicle privilege
+  tax to the State Highway Fund.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3982
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3982/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: ec85ef3e83194757f5638027029e0fa397532f8aeb34bd034c7e66c543b49ee0
+snapshot_id: measure-2025r1-hb3982-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 153.022
+  - ORS 153.992
+  - ORS 171.072
+  - ORS 174.101
+  - ORS 174.109
+  - ORS 184.639
+  - ORS 184.642
+  - ORS 184.643
+  - ORS 184.657
+  - ORS 184.661
+  - ORS 184.751
+  - ORS 184.758
+  - ORS 184.761
+  - ORS 184.766
+  - ORS 184.906
+  - ORS 190.510
+  - ORS 192.245
+  - ORS 200.035
+  - ORS 200.055
+  - ORS 200.180
+  - ORS 200.190
+  - ORS 267.570
+  - ORS 279.835
+  - ORS 279A.015
+  - ORS 279A.050
+  - ORS 279A.065
+  - ORS 279A.142
+  - ORS 279C.335
+  - ORS 279C.355
+  - ORS 279C.412
+  - ORS 279C.414
+  - ORS 291.040
+  - ORS 292.495
+  - ORS 293.445
+  - ORS 293.701
+  - ORS 295.001
+  - ORS 295.103
+  - ORS 319.010
+  - ORS 319.020
+  - ORS 319.280
+  - ORS 319.290
+  - ORS 319.375
+  - ORS 319.390
+  - ORS 319.410
+  - ORS 319.415
+  - ORS 319.417
+  - ORS 319.510
+  - ORS 319.520
+  - ORS 319.530
+  - ORS 319.535
+  - ORS 319.550
+  - ORS 319.600
+  - ORS 319.665
+  - ORS 319.671
+  - ORS 319.820
+  - ORS 319.831
+  - ORS 319.885
+  - ORS 320.405
+  - ORS 320.410
+  - ORS 320.415
+  - ORS 320.435
+  - ORS 320.440
+  - ORS 320.550
+  - ORS 320.560
+  - ORS 323.455
+  - ORS 336.795
+  - ORS 336.800
+  - ORS 336.805
+  - ORS 336.810
+  - ORS 336.815
+  - ORS 366.005
+  - ORS 366.505
+  - ORS 366.506
+  - ORS 366.514
+  - ORS 366.550
+  - ORS 366.551
+  - ORS 366.552
+  - ORS 366.762
+  - ORS 366.774
+  - ORS 366.785
+  - ORS 366.790
+  - ORS 367.080
+  - ORS 367.081
+  - ORS 367.091
+  - ORS 367.093
+  - ORS 367.605
+  - ORS 367.615
+  - ORS 374.302
+  - ORS 390.950
+  - ORS 401.025
+  - ORS 401.165
+  - ORS 401.204
+  - ORS 407.135
+  - ORS 407.145
+  - ORS 466.005
+  - ORS 468.449
+  - ORS 468A.265
+  - ORS 468A.266
+  - ORS 646.910
+  - ORS 801.041
+  - ORS 801.042
+  - ORS 801.237
+  - ORS 801.350
+  - ORS 802.100
+  - ORS 802.110
+  - ORS 802.120
+  - ORS 802.320
+  - ORS 803.300
+  - ORS 803.315
+  - ORS 803.420
+  - ORS 803.440
+  - ORS 803.455
+  - ORS 803.505
+  - ORS 803.535
+  - ORS 803.540
+  - ORS 803.550
+  - ORS 803.560
+  - ORS 805.205
+  - ORS 805.207
+  - ORS 805.222
+  - ORS 805.240
+  - ORS 807.010
+  - ORS 807.040
+  - ORS 807.150
+  - ORS 807.170
+  - ORS 807.370
+  - ORS 807.410
+  - ORS 810.170
+  - ORS 810.410
+  - ORS 810.440
+  - ORS 810.450
+  - ORS 810.490
+  - ORS 810.530
+  - ORS 811.175
+  - ORS 811.590
+  - ORS 811.595
+  - ORS 815.140
+  - ORS 815.142
+  - ORS 815.155
+  - ORS 815.160
+  - ORS 815.170
+  - ORS 815.185
+  - ORS 818.020
+  - ORS 818.040
+  - ORS 818.060
+  - ORS 818.090
+  - ORS 818.110
+  - ORS 818.130
+  - ORS 818.160
+  - ORS 818.200
+  - ORS 818.225
+  - ORS 818.300
+  - ORS 818.320
+  - ORS 818.340
+  - ORS 818.350
+  - ORS 818.400
+  - ORS 821.060
+  - ORS 821.100
+  - ORS 821.160
+  - ORS 822.009
+  - ORS 822.700
+  - ORS 822.705
+  - ORS 823.012
+  - ORS 823.023
+  - ORS 823.027
+  - ORS 823.085
+  - ORS 823.991
+  - ORS 825.005
+  - ORS 825.100
+  - ORS 825.102
+  - ORS 825.104
+  - ORS 825.106
+  - ORS 825.108
+  - ORS 825.110
+  - ORS 825.141
+  - ORS 825.160
+  - ORS 825.162
+  - ORS 825.247
+  - ORS 825.250
+  - ORS 825.252
+  - ORS 825.258
+  - ORS 825.320
+  - ORS 825.326
+  - ORS 825.402
+  - ORS 825.450
+  - ORS 825.470
+  - ORS 825.474
+  - ORS 825.476
+  - ORS 825.480
+  - ORS 825.486
+  - ORS 825.490
+  - ORS 825.492
+  - ORS 825.506
+  - ORS 825.515
+  - ORS 825.555
+  - ORS 825.950
+  - ORS 825.990
+  - ORS 826.007
+  - ORS 826.009
+  - ORS 826.031
+  - ORS 835.017
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3982
+prefix_meaning: House Bill
+catch_line: Redirects revenues from the bicycle excise tax, tax on wages and vehicle privilege tax to
+  the State Highway Fund.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act changes laws about money for roads. The Act says that diesel will\
+  \ be taxed in the same way that gas is taxed now. (Flesch Readability Score: 82.3). \n\tRedirects revenues\
+  \ from the bicycle excise tax, tax on wages and vehicle privilege tax to the State Highway Fund. Directs\
+  \ the Department of Transportation to use redirected funds for specific purposes related to highways.\
+  \ \n\tCreates the Trucking Overpayment Credit Account. Directs the department to provide refunds to\
+  \ taxpayers who overpaid weight-mile taxes. \n\tDirects the Oregon Department of Administrative Services\
+  \ to decrease either the weight-mile tax or the motor vehicle fuel taxes if the highway cost allocation\
+  \ study indicates that a vehicle class is paying more than its fair share for the use of the highways\
+  \ in the state and the Legislative Assembly does not enact a measure to correct the imbalance within\
+  \ 120 days of the Joint Committee on Transportation receiving a report on the study. \n\tRevises the\
+  \ formula for weight-mile taxes. \n\tProvides for diesel fuel to be taxed in the same manner as gasoline.\
+  \ \n\tModifies the definition of \"combined weight\" for purposes of motor carrier regulation. Allows\
+  \ the Department of Transportation to use a motor carrier's registration card as the tax enrollment\
+  \ document instead of the vehicle's weight identifier. Eliminates reinstatement fees for weight identifiers."
+relating_to: Relating to transportation.
+relating_to_full: Relating to transportation; creating new provisions; amending ORS 184.642, 184.661,
+  184.751, 184.758, 184.766, 279C.335, 295.103, 319.010, 319.390, 319.520, 319.550, 319.665, 320.435,
+  320.440, 320.560, 366.505, 366.506, 366.552, 366.774, 366.790, 367.081, 367.091, 468A.266, 802.100,
+  802.110, 805.205, 805.222, 810.530, 818.400, 823.012, 823.023, 823.027, 823.085, 825.005, 825.104, 825.141,
+  825.250, 825.326, 825.450, 825.474, 825.476, 825.492, 825.555 and 825.990; and repealing ORS 200.180,
+  200.190, 279A.142, 366.514 and 825.486.
+at_the_request_of: null
+lc_number: 4934
+measure_created_date: '2025-06-05T17:15:16'
+measure_modified_date: '2026-01-14T11:06:27'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 160907
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 153.022
+  - ORS 153.992
+  - ORS 171.072
+  - ORS 174.101
+  - ORS 174.109
+  - ORS 184.639
+  - ORS 184.642
+  - ORS 184.643
+  - ORS 184.657
+  - ORS 184.661
+  - ORS 184.751
+  - ORS 184.758
+  - ORS 184.761
+  - ORS 184.766
+  - ORS 184.906
+  - ORS 190.510
+  - ORS 192.245
+  - ORS 200.035
+  - ORS 200.055
+  - ORS 200.180
+  - ORS 200.190
+  - ORS 267.570
+  - ORS 279.835
+  - ORS 279A.015
+  - ORS 279A.050
+  - ORS 279A.065
+  - ORS 279A.142
+  - ORS 279C.335
+  - ORS 279C.355
+  - ORS 279C.412
+  - ORS 279C.414
+  - ORS 291.040
+  - ORS 292.495
+  - ORS 293.445
+  - ORS 293.701
+  - ORS 295.001
+  - ORS 295.103
+  - ORS 319.010
+  - ORS 319.020
+  - ORS 319.280
+  - ORS 319.290
+  - ORS 319.375
+  - ORS 319.390
+  - ORS 319.410
+  - ORS 319.415
+  - ORS 319.417
+  - ORS 319.510
+  - ORS 319.520
+  - ORS 319.530
+  - ORS 319.535
+  - ORS 319.550
+  - ORS 319.600
+  - ORS 319.665
+  - ORS 319.671
+  - ORS 319.820
+  - ORS 319.831
+  - ORS 319.885
+  - ORS 320.405
+  - ORS 320.410
+  - ORS 320.415
+  - ORS 320.435
+  - ORS 320.440
+  - ORS 320.550
+  - ORS 320.560
+  - ORS 323.455
+  - ORS 336.795
+  - ORS 336.800
+  - ORS 336.805
+  - ORS 336.810
+  - ORS 336.815
+  - ORS 366.005
+  - ORS 366.505
+  - ORS 366.506
+  - ORS 366.514
+  - ORS 366.550
+  - ORS 366.551
+  - ORS 366.552
+  - ORS 366.762
+  - ORS 366.774
+  - ORS 366.785
+  - ORS 366.790
+  - ORS 367.080
+  - ORS 367.081
+  - ORS 367.091
+  - ORS 367.093
+  - ORS 367.605
+  - ORS 367.615
+  - ORS 374.302
+  - ORS 390.950
+  - ORS 401.025
+  - ORS 401.165
+  - ORS 401.204
+  - ORS 407.135
+  - ORS 407.145
+  - ORS 466.005
+  - ORS 468.449
+  - ORS 468A.265
+  - ORS 468A.266
+  - ORS 646.910
+  - ORS 801.041
+  - ORS 801.042
+  - ORS 801.237
+  - ORS 801.350
+  - ORS 802.100
+  - ORS 802.110
+  - ORS 802.120
+  - ORS 802.320
+  - ORS 803.300
+  - ORS 803.315
+  - ORS 803.420
+  - ORS 803.440
+  - ORS 803.455
+  - ORS 803.505
+  - ORS 803.535
+  - ORS 803.540
+  - ORS 803.550
+  - ORS 803.560
+  - ORS 805.205
+  - ORS 805.207
+  - ORS 805.222
+  - ORS 805.240
+  - ORS 807.010
+  - ORS 807.040
+  - ORS 807.150
+  - ORS 807.170
+  - ORS 807.370
+  - ORS 807.410
+  - ORS 810.170
+  - ORS 810.410
+  - ORS 810.440
+  - ORS 810.450
+  - ORS 810.490
+  - ORS 810.530
+  - ORS 811.175
+  - ORS 811.590
+  - ORS 811.595
+  - ORS 815.140
+  - ORS 815.142
+  - ORS 815.155
+  - ORS 815.160
+  - ORS 815.170
+  - ORS 815.185
+  - ORS 818.020
+  - ORS 818.040
+  - ORS 818.060
+  - ORS 818.090
+  - ORS 818.110
+  - ORS 818.130
+  - ORS 818.160
+  - ORS 818.200
+  - ORS 818.225
+  - ORS 818.300
+  - ORS 818.320
+  - ORS 818.340
+  - ORS 818.350
+  - ORS 818.400
+  - ORS 821.060
+  - ORS 821.100
+  - ORS 821.160
+  - ORS 822.009
+  - ORS 822.700
+  - ORS 822.705
+  - ORS 823.012
+  - ORS 823.023
+  - ORS 823.027
+  - ORS 823.085
+  - ORS 823.991
+  - ORS 825.005
+  - ORS 825.100
+  - ORS 825.102
+  - ORS 825.104
+  - ORS 825.106
+  - ORS 825.108
+  - ORS 825.110
+  - ORS 825.141
+  - ORS 825.160
+  - ORS 825.162
+  - ORS 825.247
+  - ORS 825.250
+  - ORS 825.252
+  - ORS 825.258
+  - ORS 825.320
+  - ORS 825.326
+  - ORS 825.402
+  - ORS 825.450
+  - ORS 825.470
+  - ORS 825.474
+  - ORS 825.476
+  - ORS 825.480
+  - ORS 825.486
+  - ORS 825.490
+  - ORS 825.492
+  - ORS 825.506
+  - ORS 825.515
+  - ORS 825.555
+  - ORS 825.950
+  - ORS 825.990
+  - ORS 826.007
+  - ORS 826.009
+  - ORS 826.031
+  - ORS 835.017
+  from_relating_to_full:
+  - ORS 184.642
+  - ORS 184.661
+  - ORS 184.751
+  - ORS 184.758
+  - ORS 184.766
+  - ORS 200.180
+  - ORS 200.190
+  - ORS 279A.142
+  - ORS 279C.335
+  - ORS 295.103
+  - ORS 319.010
+  - ORS 319.390
+  - ORS 319.520
+  - ORS 319.550
+  - ORS 319.665
+  - ORS 320.435
+  - ORS 320.440
+  - ORS 320.560
+  - ORS 366.505
+  - ORS 366.506
+  - ORS 366.514
+  - ORS 366.552
+  - ORS 366.774
+  - ORS 366.790
+  - ORS 367.081
+  - ORS 367.091
+  - ORS 468A.266
+  - ORS 802.100
+  - ORS 802.110
+  - ORS 805.205
+  - ORS 805.222
+  - ORS 810.530
+  - ORS 818.400
+  - ORS 823.012
+  - ORS 823.023
+  - ORS 823.027
+  - ORS 823.085
+  - ORS 825.005
+  - ORS 825.104
+  - ORS 825.141
+  - ORS 825.250
+  - ORS 825.326
+  - ORS 825.450
+  - ORS 825.474
+  - ORS 825.476
+  - ORS 825.486
+  - ORS 825.492
+  - ORS 825.555
+  - ORS 825.990
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3982>.
+
+# HB 3982 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3982, 2025 Regular Session (2025R1)
+- **LC number:** 4934
+- **Created:** 2025-06-05T17:15:16
+- **Metadata last modified (upstream):** 2026-01-14T11:06:27
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 160907 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3982/Introduced>.
+
+## Summary
+
+**Catchline:** Redirects revenues from the bicycle excise tax, tax on wages and vehicle privilege tax to the State Highway Fund.
+
+**Relating to:** Relating to transportation.
+
+Digest: The Act changes laws about money for roads. The Act says that diesel will be taxed in the same way that gas is taxed now. (Flesch Readability Score: 82.3). 
+ Redirects revenues from the bicycle excise tax, tax on wages and vehicle privilege tax to the State Highway Fund. Directs the Department of Transportation to use redirected funds for specific purposes related to highways. 
+ Creates the Trucking Overpayment Credit Account. Directs the department to provide refunds to taxpayers who overpaid weight-mile taxes. 
+ Directs the Oregon Department of Administrative Services to decrease either the weight-mile tax or the motor vehicle fuel taxes if the highway cost allocation study indicates that a vehicle class is paying more than its fair share for the use of the highways in the state and the Legislative Assembly does not enact a measure to correct the imbalance within 120 days of the Joint Committee on Transportation receiving a report on the study. 
+ Revises the formula for weight-mile taxes. 
+ Provides for diesel fuel to be taxed in the same manner as gasoline. 
+ Modifies the definition of "combined weight" for purposes of motor carrier regulation. Allows the Department of Transportation to use a motor carrier's registration card as the tax enrollment document instead of the vehicle's weight identifier. Eliminates reinstatement fees for weight identifiers.
+
+**RelatingToFull (verbatim upstream field):** Relating to transportation; creating new provisions; amending ORS 184.642, 184.661, 184.751, 184.758, 184.766, 279C.335, 295.103, 319.010, 319.390, 319.520, 319.550, 319.665, 320.435, 320.440, 320.560, 366.505, 366.506, 366.552, 366.774, 366.790, 367.081, 367.091, 468A.266, 802.100, 802.110, 805.205, 805.222, 810.530, 818.400, 823.012, 823.023, 823.027, 823.085, 825.005, 825.104, 825.141, 825.250, 825.326, 825.450, 825.474, 825.476, 825.492, 825.555 and 825.990; and repealing ORS 200.180, 200.190, 279A.142, 366.514 and 825.486.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3982
+Sponsored by Representative DRAZAN, Senator BONHAM
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes laws about money for roads. The Act says that diesel will  be taxed in
+the same way that gas is taxed now. (Flesch Readability Score: 82.3).
+Redirects revenues from the bicycle excise tax, tax on wages and vehicle privilege tax to the
+State Highway Fund. Directs the Department of  Transportation to use redirected funds for specific
+purposes related to highways.
+Creates the Trucking Overpayment Credit  Account. Directs the department to provide refunds
+to taxpayers who overpaid weight-mile taxes.
+Directs the Oregon  Department of Administrative Services to decrease either the weight-mile
+tax or the motor vehicle  fuel taxes if the highway cost allocation study indicates that a vehicle class
+is paying more than its fair share for the use of the highways in the state and the Legislative  As-
+sembly does not enact  a measure to correct the imbalance within 120 days of the Joint Committee
+on Transportation receiving a report on the study.
+Revises the formula for weight-mile taxes.
+Provides for diesel fuel to be taxed in the same manner as gasoline.
+Modifies the definition of  “combined weight” for purposes of motor carrier regulation. Allows
+the Department of Transportation to use a motor carrier’s  registration card as the tax enrollment
+document instead of the vehicle’s weight identifier.  Eliminates reinstatement fees for weight identi-
+fiers.
+A BILL FOR AN ACT
+Relating to transportation; creating new provisions; amending ORS  184.642, 184.661, 184.751, 184.758,
+184.766, 279C.335, 295.103, 319.010, 319.390,  319.520, 319.550, 319.665, 320.435, 320.440, 320.560,
+366.505, 366.506, 366.552, 366.774, 366.790,  367.081, 367.091, 468A.266, 802.100, 802.110, 805.205,
+805.222, 810.530, 818.400,  823.012, 823.023, 823.027, 823.085, 825.005, 825.104, 825.141, 825.250,
+825.326, 825.450, 825.474, 825.476, 825.492, 825.555 and 825.990; and repealing  ORS 200.180,
+200.190, 279A.142, 366.514 and 825.486.
+Be It Enacted by the People of the State of Oregon:
+STATE HIGHWAY FUND
+SECTION 1.
+ ORS 366.505 is amended to read:
+366.505. (1) The State Highway Fund shall consist of:
+(a) All moneys and revenues derived under and by  virtue of the sale of bonds, the sale of which
+is authorized by law and the proceeds thereof to be dedicated to highway purposes.
+(b) All moneys and  revenues accruing from the licensing of motor vehicles, operators and
+chauffeurs.
+(c) Moneys and revenues derived from any tax levied upon gasoline,  distillate, liberty fuel or
+other volatile  and inflammable liquid fuels, except moneys and revenues described in ORS 184.642
+(2)(a) that become part of the Department of Transportation Operating Fund.
+(d) Moneys and revenues derived from the road usage charges imposed under ORS 319.885.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4934
+(e) Moneys  and revenues derived from  a portion of the privilege tax imposed as prescribed
+under ORS 320.405, the use tax imposed under ORS 320.410  and the bicycle excise tax  imposed
+under ORS 320.415.
+(f) Moneys and revenues derived from or made  available by the federal government for road
+construction, maintenance or betterment purposes.
+(g) Moneys and  revenues from the sale of customized and specialty vehicle registration
+plates under ORS 802.110, 805.205 and 805.222.
+[(g)] (h)  All moneys and revenues received from all other sources which by law are allocated
+or dedicated for highway purposes.
+(2) The State Highway Fund shall  be deemed and held as a trust fund, separate and distinct from
+the General Fund, and may  be used only for the purposes authorized by law and is continually ap-
+propriated for such purposes.
+(3) Moneys in the State Highway Fund may be invested  as provided in ORS 293.701 to 293.857.
+All interest earnings on any of the funds designated in subsection  (1) of this section shall be placed
+to the credit of the highway fund.
+SECTION 1a.
+ ORS 366.505, as amended by section 1 of this 2025 Act, is amended to read:
+366.505. (1) The State Highway Fund shall consist of:
+(a) All moneys and revenues derived under and by  virtue of the sale of bonds, the sale of which
+is authorized by law and the proceeds thereof to be dedicated to highway purposes.
+(b) All moneys and  revenues accruing from the licensing of motor vehicles, operators and
+chauffeurs.
+(c) Moneys and revenues derived from any tax levied upon gasoline,  distillate, liberty fuel or
+other volatile  and inflammable liquid fuels, except moneys and revenues described in ORS 184.642
+(2)(a) that become part of the Department of Transportation Operating Fund.
+(d) Moneys and revenues derived from the road usage charges imposed under ORS 319.885.
+(e) Moneys and revenues derived  from a portion of the privilege tax imposed as prescribed under
+ORS 320.405, the use tax imposed under ORS  320.410 and the bicycle excise tax imposed under ORS
+320.415.
+(f) Moneys and revenues derived from or made  available by the federal government for road
+construction, maintenance or betterment purposes.
+(g) Moneys  and revenues from the sale of customized and specialty vehicle registration plates
+under ORS 802.110, 805.205 and 805.222.
+(h) Moneys and revenues from the tax on wages imposed under ORS 320.550.
+[(h)] (i) All moneys and revenues received from all other sources which by  law are allocated or
+dedicated for highway purposes.
+(2) The State Highway Fund shall  be deemed and held as a trust fund, separate and distinct from
+the General Fund, and may be used only for the purposes authorized by law  and is continually ap-
+propriated for such purposes.
+(3) Moneys in the State Highway Fund may  be invested as provided in ORS 293.701 to 293.857.
+All interest earnings on any of the funds designated in subsection  (1) of this section shall be placed
+to the credit of the highway fund.
+SECTION 1b.
+The amendments to ORS 366.505  by section 1a of this 2025 Act become op-
+erative on January 1, 2028.
+SECTION 2. (1) As used  in this section, “highway” has the meaning given that term in
+ORS 366.005.
+(2) To improve, repair, maintain, preserve  and operate the highways in this state, the
+Department of Transportation  shall use an amount equal to the amount of moneys in the
+State Highway Fund that become available for its use from all of the following:
+(a) Moneys and revenues derived from the portion of the privilege tax imposed under ORS
+320.405 and transferred to the State Highway Fund.
+(b) The bicycle excise tax imposed under ORS 320.415.
+(c) Moneys and revenues from the sale of customized and specialty vehicle  registration
+plates under ORS 802.110, 805.205 and 805.222.
+SECTION 3.
+ Section 2 of this 2025 Act is amended to read:
+Sec. 2. (1) As used in this section, “highway” has the meaning given that term in ORS 366.005.
+(2) To improve, repair, maintain, preserve and operate the highways in this state, the Depart-
+ment of Transportation shall use an amount  equal to the amount of moneys in the State Highway
+Fund that become available for its use from all of the following:
+(a) Moneys and revenues derived from  the portion of the privilege tax imposed under ORS
+320.405 and transferred to the State Highway Fund.
+(b) The bicycle excise tax imposed under ORS 320.415.
+(c) Moneys and revenues from the sale of customized and specialty vehicle registration plates
+under ORS 802.110, 805.205 and 805.222.
+(d) Moneys and revenues from the tax on wages imposed under ORS 320.550.
+SECTION 4.
+Section 3 of this 2025 Act becomes operative on January 1, 2028.
+SECTION 5. (1) The Trucking Overpayment Credit Account is created in the State High-
+way Fund. Moneys in the account are continuously appropriated to the Department of
+Transportation for the purpose of providing  credits against weight-mile tax liability under
+this section. Interest earned by the account shall be credited to the account.
+(2) As used in this section:
+(a) “Credit source revenues” means revenues from the tax  on wages imposed under ORS
+320.550.
+(b) “Taxpayer” means a person liable for the payment of weight-mile taxes.
+(3) Each calendar quarter that ends between January 1,  2026, and September 30, 2027,
+$37.5 million of credit source revenues shall be transferred to  the account for the purpose
+of providing credits to taxpayers in accordance with this section.
+(4) As soon as practicable after the end of each calendar quarter  described in subsection
+(3) of this section, the Department of Transportation shall:
+(a) Determine the total amount of weight-mile taxes that became due  from all taxpayers
+in the calendar quarter just ended.
+(b) Divide each taxpayer’s total amount of weight-mile taxes due for that calendar quar-
+ter into the amount determined under paragraph (a) of this subsection.
+(c) Multiply each percentage computed under paragraph (b) of this subsection  by $37.5
+million.
+(5) Each taxpayer shall be allowed a credit  against the taxpayer’s weight-mile taxes for
+the calendar quarter succeeding the calendar quarter to which  the computations made under
+subsection (4) of this section relate in an amount  equal to the taxpayer’s respective share
+of the $37.5 million as computed under subsection (4)(c) of this section.
+(6) The Department of Transportation shall adopt rules specifying the manner  of com-
+puting and allowing credits under this section.
+SECTION 6.
+Section 5 of this 2025 Act is repealed on January 2, 2028.
+SECTION 7.  ORS 184.642 is amended to read:
+184.642. (1) The Department  of Transportation Operating Fund is established in the State
+Treasury separate and distinct from  the General Fund and separate and distinct from the State
+Highway Fund. Except as otherwise provided in subsection (3)(e) of  this section, moneys in the De-
+partment of Transportation Operating Fund are continuously appropriated to the  Department of
+Transportation to pay expenses of the department  that are incurred in the performance of functions
+the department is statutorily required or authorized to perform [ and that may not constitutionally be
+paid from revenues described in section 3a, Article IX of the Oregon Constitution ].
+(2) The operating fund shall consist of the following:
+(a) Taxes paid on motor vehicle fuels or on the use of fuel  in a motor vehicle for which a person
+is entitled to a refund under a provision described in this  paragraph but for which no refund is
+claimed, in amounts determined under ORS 184.643. This paragraph applies to refund  entitlements
+described in ORS 319.280 (1)(a) and (e), 319.320 (1)(a) and 319.831 (1)(b).
+(b) Fees collected under ORS 822.700 for issuance or renewal of:
+(A) Dismantler certificates;
+(B) Vehicle dealer certificates;
+(C) Show licenses;
+(D) Vehicle transporter certificates;
+(E) Driver training instructor certificates;
+(F) Commercial driver training school certificates; and
+(G) Vehicle appraiser certificates.
+(c) Late fees collected under ORS 822.700.
+(d) Fees collected under ORS 822.705.
+(e) Moneys from civil penalties imposed under ORS 822.009.
+(f) Fees collected under ORS 807.410 for identification cards.
+(g) Fees collected by the department for issuance  of permits to engage in activities described in
+ORS 374.302 to 374.334 that are not  directly connected to the construction, reconstruction, im-
+provement, repair,  maintenance, operation and use of a [ public] highway[ , road, street ] or roadside
+rest area.
+(h) Fees collected under ORS  835.017 for services provided to the Oregon Department of Avi-
+ation.
+(i) Interest and other earnings on moneys in the operating fund.
+(3) Moneys  in the Department of Transportation Operating Fund established by subsections (1)
+and (2) of this section may be spent [ only] as follows:
+(a) Taxes described in subsection (2)(a) of this section may be used  only for payment of expenses
+of the Department of Transportation that:
+[(A) May not constitutionally be paid  from revenues described in section 3a, Article IX of the
+Oregon Constitution;]
+[(B)] (A)  Are incurred in the performance of functions  the department is statutorily required or
+authorized to perform; and
+[(C)] (B)  Are not payable from moneys described in paragraphs (b) to (e) of this subsection.
+(b) Fees collected under subsection (2)(b) of this section may be used only to carry out the reg-
+ulatory functions of the department relating to the businesses that generate the fees.
+(c) Fees collected under ORS 822.705 may be used only for  the purposes described in ORS
+822.705.
+(d) Moneys collected from civil penalties  imposed under ORS 822.009 may be used only for reg-
+ulation of vehicle dealers.
+(e) Moneys collected under ORS 807.410 from fees for identification  cards shall be used first to
+pay the expenses of the department for performing the  functions of the department relating to
+identification cards. After  paying the expenses related to identification cards, the department shall
+transfer the remaining moneys collected under ORS 807.410 to the [ Statewide Transportation Im-
+provement Fund established in ORS 184.751 ] State Highway Fund .
+(f) Moneys from the permits described in subsection (2)(g) of this section  may be used for costs
+of issuing the permits and monitoring the activities that generate the fees.
+(g) Each year, $18.5 million shall  be spent on the improvement, repair, maintenance,
+preservation and operation of highways.
+[(g)] (h)  Moneys from interest and other earnings on moneys in  the operating fund may be used
+for any purpose for which other moneys in the fund may be used.
+(4) As used in this section, “highway” has the meaning given that term in ORS 366.005.
+SECTION 8.
+ ORS 184.751 is amended to read:
+184.751. (1) The Statewide Transportation Improvement Fund is established in  the State Treas-
+ury, separate and distinct from the General Fund. Interest earned by  the Statewide Transportation
+Improvement Fund shall be credited to the fund. Moneys in the  fund are continuously appropriated
+to the Department of Transportation to finance investments  and improvements or to maintain ex-
+isting public  transportation services, except that the moneys may not be used for light rail capital
+expenses but may be used for light rail operation expenses.
+(2) The Statewide Transportation Improvement Fund consists of:
+(a) [ All] A portion of the  moneys received  from the tax imposed under ORS 320.550  as pre-
+scribed in ORS 320.560;
+(b) Moneys appropriated or otherwise transferred to the fund by the Legislative Assembly;
+(c) Moneys transferred to the fund under ORS 184.642, 323.455 or 323.457 (1)(d) and (2)(b);
+(d) Distribution repayments, if any; and
+(e) Other moneys deposited in the fund from any source.
+(3) Unless approved  by the department, the moneys in the Statewide Transportation Improve-
+ment Fund may not be used to supplant local and  regional agency moneys currently directed to
+public transportation service providers.
+SECTION 8a.
+ ORS 184.751, as amended by section 8 of this 2025 Act, is amended to read:
+184.751. (1) The Statewide Transportation Improvement Fund is established in  the State Treas-
+ury, separate and distinct from the General Fund. Interest earned by  the Statewide Transportation
+Improvement Fund shall be credited to the fund. Moneys in the  fund are continuously appropriated
+to the Department of Transportation to finance investments  and improvements or to maintain ex-
+isting public  transportation services, except that the moneys may not be used for light rail capital
+expenses but may be used for light rail operation expenses.
+(2) The Statewide Transportation Improvement Fund consists of:
+[(a) A portion of the moneys received from the tax imposed under ORS 320.550 as  prescribed in
+ORS 320.560;]
+[(b)] (a)  Moneys appropriated or otherwise transferred to the fund by the  Legislative Assembly;
+[(c)] (b) Moneys transferred to the fund under ORS 184.642, 323.455 or 323.457 (1)(d) and (2)(b);
+[(d)] (c)  Distribution repayments, if any; and
+[(e)] (d) Other moneys deposited in the fund from any source.
+(3) Unless approved  by the department, the moneys in the Statewide Transportation Improve-
+ment Fund may not be used to supplant local and  regional agency moneys currently directed to
+public transportation service providers.
+SECTION 8b.
+The amendments to ORS 184.751  by section 8a of this 2025 Act become op-
+erative on January 1, 2028.
+SECTION 9.  ORS 320.435 is amended to read:
+320.435. (1) The Department  of Revenue shall deposit all revenue collected from the privilege tax
+imposed under ORS 320.405 and the use tax imposed under ORS  320.410 in a suspense account es-
+tablished under ORS 293.445  for the purpose of receiving the revenue. The department may pay ex-
+penses for the administration and enforcement of the privilege and use taxes out of  moneys received
+from the privilege and use taxes. Amounts necessary  to pay administrative and enforcement ex-
+penses are continuously appropriated to the department from the suspense account.
+(2) After payment of administrative  and enforcement expenses under subsection (1) of this sec-
+tion and refunds or credits arising from  erroneous overpayments, the department shall transfer the
+balance of the moneys received from the privilege and use taxes as follows:
+(a) Moneys attributable to the privilege tax shall be transferred as follows:
+(A) The greater of $12 million or  45 percent of the gross amount of the moneys received from
+the privilege tax shall be transferred annually :
+(i) 50 percent  to the Zero-Emission Incentive Fund established under ORS 468.449 ; and
+(ii) 50 percent to the State Highway Fund .
+(B) After the transfer required under subparagraph (A) of this paragraph,  the balance of the
+moneys shall be transferred to the Connect Oregon Fund established under ORS 367.080.
+(b) Moneys attributable to the use tax shall be transferred to the State Highway Fund.
+SECTION 9a.
+ ORS 320.435, as amended by section 9 of this 2025 Act, is amended to read:
+320.435. (1) The Department  of Revenue shall deposit all revenue collected from the privilege tax
+imposed under ORS 320.405 and the use  tax imposed under ORS 320.410 in a suspense account es-
+tablished under ORS 293.445 for the purpose of receiving the revenue. The department  may pay ex-
+penses for the administration and enforcement of the privilege and use taxes out of  moneys received
+from the privilege and use taxes. Amounts  necessary to pay administrative and enforcement ex-
+penses are continuously appropriated to the department from the suspense account.
+(2) After payment of administrative and enforcement expenses under subsection  (1) of this sec-
+tion and refunds or credits arising from erroneous  overpayments, the department shall transfer the
+balance of the moneys received from the privilege and use taxes as follows:
+(a) Moneys attributable to the privilege tax shall be transferred as follows:
+(A) The greater of $12 million or 45 percent of the gross  amount of the moneys received from
+the privilege tax shall be transferred annually[ :]
+[(i) 50 percent to the Zero-Emission Incentive Fund established under ORS 468.449; and ]
+[(ii) 50 percent ] to the State Highway Fund.
+(B) After the transfer required  under subparagraph (A) of this paragraph, the balance of the
+moneys shall be transferred to the Connect Oregon Fund established under ORS 367.080.
+(b) Moneys attributable to the use tax shall be transferred to the State Highway Fund.
+SECTION 9b.
+The amendments to ORS 320.435 by section 9a  of this 2025 Act become op-
+erative on January 1, 2028.
+SECTION 10.  ORS 320.440 is amended to read:
+320.440. (1) The Department of Revenue shall deposit all revenue collected from the excise  tax
+imposed under ORS 320.415 in a suspense account established under  ORS 293.445 for the purposes
+of receiving the excise tax revenue. The department may pay expenses for the  administration and
+enforcement of the excise tax out of moneys received from the  excise tax. Amounts necessary to pay
+administrative and enforcement expenses are continuously appropriated to the department  from the
+suspense account.
+(2) After payment of administrative  and enforcement expenses under subsection (1) of this sec-
+tion and refunds or credits arising from  erroneous overpayments, the department shall transfer the
+balance of the moneys received from the excise tax to the [ Multimodal Active Transportation Fund
+established under ORS 367.091 for the purpose of providing grants for bicycle and pedestrian  trans-
+portation projects under ORS 367.093 ] State Highway Fund .
+SECTION 11.
+ ORS 320.560 is amended to read:
+320.560. (1) All moneys received by the Department of Revenue from the tax  imposed under ORS
+320.550 shall  be deposited in the State Treasury and credited to a suspense account established un-
+der ORS 293.445. The department may pay expenses for the administration and enforcement of  ORS
+320.550 out of moneys received from the tax imposed under ORS  320.550. Amounts necessary to pay
+administrative and enforcement expenses are continuously appropriated to the department  from the
+suspense account.
+(2) After  the payment of administrative and enforcement expenses and refunds or credits arising
+from erroneous overpayments, the department shall  credit the balance of the moneys received by the
+department:
+(a) Each calendar quarter that ends between  January 1, 2026, and September 30, 2027,
+$37.5 million of credit source revenues shall be transferred to the Trucking  Overpayment
+Credit Account established under section 5 of this 2025 Act; and
+(b) After the transfer  under paragraph (a) of this subsection, the remaining balance  to
+the Statewide Transportation Improvement Fund established under ORS 184.751.
+SECTION 11a.  ORS 320.560, as amended by section 11 of this 2025 Act, is amended to read:
+320.560. (1) All moneys received by the Department of Revenue from the tax  imposed under ORS
+320.550 shall be deposited in the State Treasury and credited to a suspense account established  un-
+der ORS 293.445. The department may pay expenses for the administration and enforcement of  ORS
+320.550 out of moneys received from the tax imposed under ORS  320.550. Amounts necessary to pay
+administrative and enforcement  expenses are continuously appropriated to the department from the
+suspense account.
+(2) After  the payment of administrative and enforcement expenses and refunds or credits arising
+from erroneous overpayments, the department shall  credit the balance of the moneys received by the
+department[:]
+[(a) Each calendar  quarter that ends between January 1, 2026, and September 30, 2027, $37.5
+million of credit  source revenues shall be transferred to the Trucking Overpayment Credit Account es-
+tablished under section 5 of this 2025 Act; and ]
+[(b) After the transfer under paragraph (a) of this subsection, the remaining balance to the State-
+wide Transportation Improvement Fund established  under ORS 184.751 ] to the State Highway
+Fund.
+SECTION 11b. The amendments to ORS 320.560 by  section 11a of this 2025 Act become
+operative on January 1, 2028.
+SECTION 12.  ORS 802.100 is amended to read:
+802.100. The following accounts  are established separate and distinct from the General Fund for
+the financial administration of those functions of the Department of Transportation  dealing with
+driver and motor vehicle services in accordance with ORS 802.110:
+(1) The Department of Transportation Driver  and Motor Vehicle Suspense Account. The account
+established under this subsection is a suspense account in the State Treasury that  is used to deposit
+moneys received by the department related to driver and  motor vehicle services and to make ap-
+proved payments and disbursals of funds before the department pays  administrative expenses related
+to the provision of driver and motor vehicle services. The department  shall transfer the money that
+is not to be used to make approved payments and disbursals from the  account established under this
+subsection and that remains in the account at the close of business on the last day of  each month
+to the Department of Transportation Driver  and Motor Vehicle Services Administrative Account on
+or before the 15th day of the following month.
+(2) The Department of Transportation Driver and  Motor Vehicle Services Administrative Ac-
+count. The account established under this subsection  shall be used for the payment of administrative
+expenses payable before money from the account is transferred  to the State Highway Fund. The
+department shall transfer the money that is not  to be used to make payments from the account es-
+tablished under this subsection and that remains in the account at the close of  business on the last
+day of each month to the State Highway Fund on or before the 15th day of the following month.
+[(3) The Passenger Rail  Transportation Account. The account established under this subsection is
+a separate account in the State Treasury that shall be  used to deposit moneys received from the sale
+of customized registration plates under ORS  805.240. Moneys in the account shall be used for pas-
+senger rail programs. Moneys shall be deposited in the account  after payment of administrative ex-
+penses as provided under ORS 802.110. ]
+[(4)] (3)  The  Revolving Account for Emergency Cash Advances. The account established under
+this subsection is a separate account that  shall be maintained for the payment of emergency cash
+advances and taking up of dishonored remittances.
+SECTION 13.
+Any balance in the Passenger Rail Transportation Account that is unex-
+pended and unobligated on the operative date of the amendments to ORS 802.100 by  section
+12 of this 2025 Act, and all moneys that  would have been deposited in the Passenger Rail
+Transportation Account had ORS 802.100 (3) remained in effect, shall  be transferred and de-
+posited in the State Highway Fund, and  are appropriated for expenditure as in the case of
+other moneys in the State Highway Fund.
+SECTION 14.  ORS 367.081 is amended to read:
+367.081. (1) Each  biennium, the Department of Transportation may provide grants for transpor-
+tation projects under ORS  367.080 only if the department determines that $50 million or more will
+be available in the Connect Oregon Fund for grants awarded under ORS 367.080 to 367.086.
+(2) The department may  use up to one percent of the amounts available within the Connect
+Oregon Fund to pay administrative costs incurred by the department in carrying out  the provisions
+of ORS 367.080 to 367.086.
+(3) Each biennium, the department  shall transfer seven percent of the moneys in the Connect
+Oregon Fund to the [ Multimodal Active Transportation Fund established under ORS 367.091 for the
+purpose of providing grants for bicycle and pedestrian transportation projects ] State Highway Fund .
+SECTION 15.  ORS 367.091 is amended to read:
+367.091. (1) As used in this section and ORS 367.093:
+(a) “Private entity” means any entity that is not a public  body, including but not limited to a
+corporation, partnership, company, nonprofit organization or other legal entity or natural person.
+(b) “Public body” has the meaning given that term in ORS 174.109.
+(c) “Transportation project” means a project or undertaking for  bicycle and pedestrian capital
+infrastructure, including bridges, paths and ways. A transportation project  does not include costs
+associated with operating expenses or the purchase of bicycles.
+(2) The Multimodal Active Transportation Fund is established in the State Treasury,  separate
+and distinct from the General  Fund. Earnings on moneys in the Multimodal Active Transportation
+Fund shall  be deposited into the fund. Moneys in the fund are continuously appropriated to the
+Department of Transportation for the  purposes described in subsection (3) of this section and in ORS
+367.093. The fund consists of the following:
+[(a) Moneys transferred to the fund under ORS 320.440. ]
+[(b) Moneys transferred to the fund under ORS 367.081. ]
+[(c)] (a)  Moneys appropriated to the fund by the Legislative Assembly.
+[(d)] (b) Earnings on moneys in the fund.
+[(e)] (c)  Moneys from any other source.
+(3) The department shall use moneys in the fund  to award grants for bicycle and pedestrian
+transportation projects as provided in ORS 367.093.
+SECTION 16.
+ ORS 802.110 is amended to read:
+802.110. Any procedures the Department of Transportation  establishes for financial adminis-
+tration of those functions of  the department dealing with driver and motor vehicle services and for
+the disposition and payment of moneys it receives from the provision of driver  and motor vehicle
+services shall comply with all of the following:
+(1) The department  shall deposit all moneys it receives related to driver and motor vehicle ser-
+vices in the  Department of Transportation Driver and Motor Vehicle Suspense Account for approved
+expenses and disbursals before payment of general administrative expenses of the department related
+to the provision of driver and motor  vehicle services. Notwithstanding this subsection, the depart-
+ment may  return a bank check or money order when received in incorrect or incomplete form or
+when not accompanied by the proper application.
+(2) The department shall pay the following  approved expenses and disbursals from the Depart-
+ment of Transportation Driver  and Motor Vehicle Suspense Account before payment of the general
+administrative expenses of the department related to driver and motor vehicle services:
+(a) Refunds authorized by any statute administered  by the department when such refunds are
+approved by the department.
+(b) Amounts transferred to the  State Treasurer under ORS 319.410 (2) for the purpose of carry-
+ing out the state aviation laws, amounts transferred to the Boating Safety,  Law Enforcement and
+Facility Account and to the Marine Navigation Improvement Fund by ORS  319.415, amounts trans-
+ferred to the State Aviation Account by ORS 319.417 and amounts  transferred to the Department
+of Transportation Operating Fund by ORS 184.643.
+(c) After deduction  of expenses of collection, transfer and administration, the department shall
+pay moneys collected from the Student Driver Training Fund eligibility fee under  ORS 807.040,
+807.150 and  807.370 to the State Treasurer for deposit in the Student Driver Training Fund. The
+moneys deposited in the Student Driver Training Fund under  this paragraph are continuously ap-
+propriated to the department for the following purposes:
+(A) To the extent of not more than 10 percent of the  amount transferred into the Student Driver
+Training Fund  in any biennium, to pay the expenses of administering ORS 336.795, 336.800, 336.805,
+336.810 (2) and 336.815.
+(B) The remaining moneys, for  reimbursing school districts and commercial driver training
+schools as provided under ORS 336.805.
+(d) After  deduction of expenses of collection, transfer and administration, the department shall
+pay moneys collected for the  Motorcycle Safety Subaccount under ORS 807.170 to the State Treas-
+urer for deposit in the Motorcycle Safety Subaccount of the Transportation Safety Account. Moneys
+paid to the State Treasurer under this paragraph shall be used for the purpose of ORS 802.320.
+(e) After deduction of expenses for  the administration of the issuance of customized registration
+plates under ORS 805.240, the department shall place moneys received from the sale of customized
+registration plates in the [ Passenger Rail Transportation Account ] State  Highway Fund. [ The mon-
+eys placed  in the account are continuously appropriated to the department and shall be used for the
+payment of expenses incurred in administering passenger rail programs. ]
+(f) After deduction of expenses of collection, transfer and  administration, the department shall
+pay moneys from any registration fees established by the governing bodies of counties  or a district,
+as defined in ORS 801.237, under ORS 801.041  or 801.042 to the appropriate counties or districts.
+The department shall make the payments  on at least a monthly basis unless another basis is estab-
+lished by the intergovernmental agreements required by ORS 801.041 and 801.042 between  the de-
+partment and the governing bodies of a county or a district.
+(g) After deducting the  expenses of the department in collecting and transferring the moneys,
+the department  shall make disbursals and payments of moneys collected for or dedicated to any
+other purpose or fund except  the State Highway Fund, including but not limited to, payments to the
+Department of Transportation Operating Fund established by ORS 184.642 (1) and (2).
+(3) The department shall refund from the Department of  Transportation Driver and Motor Ve-
+hicle Suspense Account any excess or erroneous payment to a person who made  the payment or to
+the person’s legal representative when the department determines that money has been received by
+it in excess of the amount legally due and payable or that it has received money in which it has
+no legal interest. Refunds payable under this subsection are continuously appropriated for such
+purposes in the manner for payment of refunds under this section. If the  department determines that
+a refund is due,  the department may refund the amount of excess or erroneous payment without a
+claim being  filed. Except as provided in ORS 319.290, 319.375, 319.820 and 319.831, any claim for a
+refund from the department must be filed within 12 months after the date payment is received  by
+the department.
+(4) After payment of those expenses and disbursals approved for payment before general admin-
+istrative expenses related to the provision of  driver and motor vehicle services, the department shall
+pay from the Department of Transportation Driver and Motor Vehicle Services Administrative  Ac-
+count its general administrative expenses incurred in the  administration of any law related to driver
+and motor vehicle services that the department is  charged with administering and any other ex-
+penses the department is permitted by law  to pay from moneys held by the department before
+transfer of the moneys  to the State Highway Fund. The following limitations apply to payments of
+administrative expenses under this subsection:
+(a) The department shall make payment of the expenses of administering the issuance of  winter
+recreation parking permits under  ORS 811.595 from those moneys received from issuing the permits.
+(b) The department shall pay  its expenses for administering the registration and titling of
+snowmobiles under ORS 821.060 and 821.100 from the fees collected from administering those
+sections. The department shall also pay its expenses for the  administration of the snowmobile driver
+permit program under ORS 821.160 from the moneys otherwise described in this paragraph.
+(c) The department shall  pay its expenses for determining the amount of money to be withheld
+under ORS 802.120 from the fees collected for administering  the registration and titling of
+snowmobiles. The amount used to pay expenses under  this paragraph shall be such sum as necessary
+but may not exceed $10,000 during each biennium.
+(d) The department shall retain not more than  $15,000 in any biennium for the expenses of col-
+lecting and transferring moneys to the Student Driver Training Fund under  this section and for the
+administration of ORS 336.810 (3).
+(5) Except as otherwise provided in this subsection, the department  shall transfer to the State
+Highway Fund the moneys not used for payment of the  general administrative expenses or for ap-
+proved expenses and disbursals before payment of general administrative expenses. The  following
+apply to this subsection:
+(a) If the Director of Transportation  certifies the amount of principal or interest of highway
+bonds due on any particular date, the department may make available  for the payment of such in-
+terest or principal any sums that  may be necessary to the extent of moneys on hand available for
+the State Highway Fund regardless of the dates otherwise specified under this section.
+(b) Notwithstanding paragraph (a) of this subsection, the department may  not make available for
+purposes described in paragraph (a) of this subsection any  moneys described in ORS 367.605 when
+there are not sufficient  amounts of such moneys in the State Highway Fund for purposes of bonds
+issued under ORS 367.615.
+(6) Notwithstanding any other provision  of this section, the following moneys shall be trans-
+ferred to the State Highway Fund at the times described:
+(a) Moneys received under ORS 802.120 and not  used for the payment of administrative expenses
+of the department shall be transferred before July 31 of each year.
+(b) Moneys received from the  registration of snowmobiles that are not to be used for payment
+of administrative expenses of the department shall be transferred within 30 days  after the end of the
+quarter.
+(c) Moneys received from  the issuance of winter recreation parking permits that are not used
+for payment of administrative expenses of the department shall be transferred within 30  days after
+the end of the quarter.
+(7) The following moneys transferred to the State Highway Fund under this section may be  used
+only for the purposes described as follows:
+(a) Moneys collected from the issuance of winter recreation parking permits,  and the interest
+on such moneys, shall  be used to enforce the requirement for winter recreation parking permits and
+to remove snow from  winter recreation parking locations designated under ORS 810.170. Any re-
+maining moneys shall, upon approval by the Winter Recreation Advisory Committee:
+(A) Be used to maintain parking locations developed with moneys  obtained under ORS 810.170
+and snowmobile facilities that are parking lots developed with  moneys as provided under this sec-
+tion;
+(B) Be used to develop additional winter recreation parking locations under ORS 810.170; or
+(C) Be carried over to be used in  subsequent years for the purposes and in the manner described
+in this paragraph.
+(b) Moneys received from the registration of snowmobiles or under ORS 802.120 may  be used for
+development and maintenance of multiuse trails within urban growth boundaries  or for the devel-
+opment and maintenance of snowmobile facilities, including the acquisition of land therefor by  any
+means other than the exercise of eminent domain. Moneys received under ORS 802.120 may also  be
+used for the enforcement of ORS 811.590, 821.100 to 821.120, 821.140, 821.150, 821.190, 821.210 and
+821.240 to 821.290.
+(8) The department shall maintain the Revolving  Account for Emergency Cash Advances sepa-
+rate from other moneys described in this section. From the account, the department may pay  for the
+taking up of dishonored remittances returned by banks or the State Treasurer and for  emergency
+cash advances to be  subsequently reimbursed. The account shall be used only as a revolving
+fund. The department shall at all times be accountable for the amount of  the account, either in cash
+or unreimbursed items and advances. The moneys in  the account are continuously appropriated for
+the purposes of this subsection. The amount of moneys in the account  under this subsection may not
+exceed $40,000 from  moneys received by the department in the performance of its driver and motor
+vehicle services functions  and moneys otherwise appropriated for purposes of this subsection. The
+account under this subsection shall be kept on  deposit with the State Treasurer. The State Treas-
+urer is authorized to honor and  pay all properly signed and indorsed checks or warrants drawn
+against the account.
+SECTION 17.
+ ORS 805.205 is amended to read:
+805.205. (1) Except as provided in subsection (7) of this section, the Department of  Transporta-
+tion shall provide for issuance of  registration plates described in this section for nonprofit groups
+meeting the qualifications  for tax exempt status under section 501(c)(3) of the Internal Revenue Code
+and for institutions of higher education. Plates issued under this section may be  issued to owners
+of motor  vehicles registered under the provisions of ORS 803.420 (6)(a). Plates issued under this
+section  may  not contain expressions of political opinion or religious belief. Rules adopted under this
+section shall include, but need not be limited to, rules that:
+(a) Specify circumstances under which the department may cease to issue plates for any partic-
+ular group.
+(b) Require each group for which plates are  issued to file an annual statement on a form de-
+signed by the department showing that the group is a nonprofit group or is an institution of  higher
+education and that the group or institution otherwise meets the qualifications imposed for  eligibility
+for plates issued under this section. The statement shall include  names and addresses of current
+directors or officers of the group or institution or  of other persons authorized to speak for the group
+or institution on matters affecting plates issued under this section.
+(2)(a) Except as otherwise provided in paragraphs (b) and (c)  of this subsection, in addition to
+any other fee authorized by law,  upon issuance of a plate under this section and upon renewal of
+registration for a vehicle that has plates issued under this section, the department shall collect  a
+surcharge for each  year of the registration period. The surcharge shall be determined by the de-
+partment by rule and may not be less than $2.50 per plate or more than $16 per plate. In  setting the
+amount of the surcharge, the department shall consult with the nonprofit group for which the  plates
+are issued.
+(b) In addition  to any other fee authorized by law, upon issuance of a plate under this section
+that recognizes an institution of higher  education in this state, and upon renewal of registration for
+a vehicle that has such plates, the department  shall collect a surcharge of $8 per plate for each year
+of the registration period.
+(c) In addition to any other fee authorized by law,  upon issuance of a Share the Road registra-
+tion plate the department shall collect a surcharge of $5 per year of registration.
+(3) Plates issued under this section shall be from the current regular issue of plates except that:
+(a) If the group requesting the plates is an institution of higher education, the plates  shall, upon
+request, contain words that indicate the plates are issued to recognize  the institution or shall con-
+tain the institution’s logo or an image of the institution’s mascot; or
+(b) If the group requesting the  plates is a group that recognizes fallen public safety officers, the
+plates shall, upon request, contain a decal that indicates the plates are issued to recognize  fallen
+public safety officers.
+(4) Except as otherwise required by  the design chosen, the plates shall comply with the re-
+quirements of ORS 803.535. The department shall determine how many sets of plates shall be man-
+ufactured for each group approved under  this section. If the department does not sell or issue
+renewal for 500 sets of plates for a particular group in any one  year, the department shall cease
+production of those plates.
+(5) Except as otherwise provided in subsection (6) of  this section, each group that is found by
+the department to be eligible for plates issued under this section may  designate an account into
+which the net proceeds of the surcharge collected  by the department under subsection (2) of this
+section are to be deposited. The department shall keep accurate records of the number of plates  is-
+sued for each group that qualifies. After payment  of administrative expenses of the department,
+moneys collected under  this section for each group shall be deposited by the department into an
+account specified by that group. If any group  does not specify an account for the moneys collected
+from the sale of plates issued under this section, the  department shall deposit moneys collected for
+those plates into the [ Passenger Rail Transportation Account established under  ORS 802.100 to be
+used as other moneys in the account are used ] State Highway Fund . Deposits under this  subsection
+shall be made at least quarterly.
+(6)(a) Each institution of higher education that  requests a plate under this section shall desig-
+nate an account in the general fund of the institution, and the proceeds in  the account shall be used
+for the purpose of academic enrichment at the institution.
+(b) Net proceeds of the surcharge collected by the department for Share the  Road registration
+plates shall be deposited into two accounts designated by The  Street Trust Community Fund and
+Cycle Oregon. The department shall evenly distribute  the net proceeds to each account. Deposits
+under this paragraph shall be  made at least quarterly. At any time that the department determines
+that the accounts designated by The Street Trust Community Fund and Cycle  Oregon cease to exist,
+the department  may deposit the proceeds into the [ Passenger Rail Transportation Account established
+under ORS 802.100 ] State Highway Fund .
+(c) Net proceeds of the surcharge collected by the department for  Keep Kids Safe registration
+plates shall be deposited into an account designated by  the Children’s Trust Fund of Oregon Foun-
+dation to fund  strategies and approaches shown to prevent or reduce child abuse. Deposits made
+under this paragraph shall be  made at least quarterly. At any time that the department determines
+that the account designated by the Children’s  Trust Fund of Oregon Foundation ceases to exist, the
+department shall deposit the proceeds into the Keep Kids Safe Registration Plate Account estab-
+lished in ORS  805.207. At the beginning of each biennium, the Department of Early Learning and
+Care shall evenly distribute the moneys in the Keep Kids Safe  Registration Plate Account to the
+counties  in  this state, until each county receives $1,000. After each county has received $1,000, the
+Department of Early Learning and Care shall distribute any remaining  moneys to each county in
+an amount equal to the percentage of Keep Kids Safe  registration plates sold in that county. Each
+county  shall  use the moneys received under this paragraph solely for the purpose of funding strat-
+egies and approaches shown to prevent or reduce child abuse.
+(7) The Department of  Transportation may not accept applications to create new group regis-
+tration plates on or after August 12, 2015.
+SECTION 18.
+ ORS 805.222 is amended to read:
+805.222. (1) The Department of Transportation shall establish a special registration program  and
+provide for issuance of special registration plates for nonprofit groups meeting the qualifications for
+tax exempt status under section 501(c)(3)  of the Internal Revenue Code, for institutions of higher
+education and for public bodies, as defined in ORS 174.109.
+(2) Plates issued under this section may be issued to owners of motor vehicles registered under
+the provisions of  ORS 803.420 (6)(a). In addition, the department may adopt rules for issuance of
+special registration plates issued pursuant to this section for vehicles not registered under  ORS
+803.420 (6)(a).
+(3) Plates issued under this section may not  contain expressions of political opinion or religious
+belief.
+(4) Rules adopted under this section shall include, but need not be limited to, rules that:
+(a) Describe  general qualifications to be met by any nonprofit group, institution of higher edu-
+cation or public body in order to be eligible for plates issued under this section.
+(b) Specify circumstances  under which the department may cease to issue plates under this
+section.
+(c) Require each nonprofit group, institution of higher education or public body for which plates
+are issued to file an annual statement on a form designed by the department showing  that the group
+is a nonprofit group, institution of higher education or public body  and that the nonprofit group,
+institution of higher education or public body otherwise meets  the qualifications imposed for eligi-
+bility for plates issued under this section. The statement shall include  names and addresses of cur-
+rent directors or officers of the nonprofit group, institution of higher education or public body or
+of other persons authorized to speak for the nonprofit group, institution  of higher education or
+public body on matters affecting plates issued under this section.
+(d) Specify the manner in which a  nonprofit group, institution of higher education or public body
+may apply for a special registration plate.
+(5) In addition to  any other fee authorized by law, for each set of special registration plates is-
+sued pursuant to this section, the department shall  collect a surcharge of $40 payable when the
+plates are issued and upon each  subsequent renewal of registration of a vehicle bearing the plates.
+The department shall distribute the moneys from the surcharge as provided  in subsection (8) of this
+section.
+(6) The department, in consultation with the nonprofit group, institution  of higher education or
+public body requesting the special registration plate, shall develop a unique design for each plate
+issued under this section. Any design must comply with requirements described under ORS 803.535.
+(7) The department  shall determine how many sets of plates shall be manufactured for each plate
+approved under this section. If the department does not issue 2,000 sets of plates  for a particular
+nonprofit group, institution of higher education or public body in any  one year, the department shall
+cease production of those plates.
+(8) Each nonprofit group, institution of  higher education or public body that is found by the
+department to be eligible for plates issued  under this section may designate an account into which
+the net proceeds of the surcharge  collected by the department under subsection (5) of this section
+are to be deposited. The department shall keep accurate records of  the number of plates issued for
+each nonprofit group, institution of higher education or public  body that qualifies. After payment
+of administrative expenses of the department,  moneys collected under this section for a nonprofit
+group, institution of higher education or public  body shall be deposited by the department into an
+account specified by that nonprofit group, institution of higher education or  public body. If any
+nonprofit group, institution of higher education or public body does not specify an account for the
+moneys collected from the sale of plates issued under this section,  the department shall deposit
+moneys collected for those plates into the [ Passenger Rail Transportation Account established  under
+ORS 802.100 to be used as other moneys in the account are used ] State Highway Fund . Deposits
+under this subsection shall be made at least quarterly.
+SECTION 19.
+ ORS 184.758 is amended to read:
+184.758. (1) The Oregon Transportation Commission shall distribute the moneys in the  Statewide
+Transportation Improvement Fund established  under ORS 184.751 to the Department of Transporta-
+tion to pay for:
+(a) Program administration; and
+(b) Projects of statewide significance that support the transit  network and manage the operation
+of public transportation services.
+(2) The moneys described in subsection (1) of this section that  remain after the distribution of
+moneys described in subsection (1) of this section shall be distributed as follows:
+(a) Conditioned upon the commission’s approval  of a public transportation improvement plan, 90
+percent to qualified entities;
+(b) Five percent to  public transportation service providers based on a competitive grant program
+adopted by the commission by rule;
+(c) Four percent to  public transportation service providers to provide funding assistance to
+cover the costs of improving public transportation services between two or more communities; and
+(d) One  percent to the Department of Transportation to establish a statewide public transpor-
+tation technical resource center, the purpose of which is to  assist public transportation service
+providers in rural  areas with technical assistance, training, transportation planning and information
+technology.
+(3) A portion of the 90 percent distribution under subsection (2)(a) of this section shall  be dedi-
+cated to transit services for  older adults and individuals with disabilities. Each biennium the com-
+mission shall  first distribute the moneys transferred to the fund under ORS 184.751 as needed to
+maintain funding that  benefits older adults and individuals with disabilities in the amount distrib-
+uted during the 2019-2021 biennium. Each biennium thereafter, the  commission shall adjust this
+amount upward or downward based on  the rate of growth or decline of the Statewide Transportation
+Improvement Fund. Moneys dedicated to transit  services for older adults and individuals with disa-
+bilities under this subsection shall be distributed as follows:
+(a) Each transportation district and mass transit district shall receive that share of  the moneys
+as the population of the counties in which the district is  situated, determined under ORS 190.510 to
+190.610 last preceding  apportionment of the moneys, bears to the total population of this state.
+However,  if  two or more districts are situated in a single county, distribution of moneys under this
+subsection shall be determined as though only the mass transit  district is located in that county or,
+if there are two or more transportation districts in the county, as though only the transportation
+district with the highest population is located in that county.
+(b) Each county in which no  part of a mass transit district or transportation district is located
+shall receive that share of the moneys as its population, determined  under ORS 190.510 to 190.610
+last preceding apportionment of the moneys, bears to the total population of this state.
+(c) Each federally recognized Indian tribe shall receive that share of the moneys  as the popu-
+lation of the tribe residing  in Oregon, determined by the commission by rule, bears to the total
+population of this state.
+(4) Each qualified entity under subsection (3) of this section shall receive an annual  target
+amount of $67,700. Each  biennium, the commission shall adjust this amount upward or downward
+based on the rate of growth or decline of the Statewide Transportation Improvement Fund.
+(5) After a portion of the 90 percent distribution under subsection (2)(a) of this section  is dis-
+tributed to transit services for older adults and  individuals with disabilities under subsection (3) of
+this section, the commission shall distribute the remaining amount to qualified entities as follows:
+(a) [ Each distribution must be in such shares that the amount of  tax paid, as required under ORS
+320.550, in the area of each qualified entity bears to the total amount of the tax paid statewide, provided
+that each qualified entity receives an annual target amount of $100,000. ] The commission shall dis-
+tribute the funds and determine the minimum amount each qualified entity  receives annu-
+ally. Each biennium,  the commission shall adjust [ this] the amount distributed upward or downward
+based on the rate of growth or decline of the Statewide Transportation Improvement Fund.
+(b) If more than one mass transit district or  transportation district is located within a single
+county, the commission shall distribute the moneys to the larger district.
+(6) The commission shall adopt by rule:
+(a) A competitive grant program, by which a  public transportation service provider may apply
+for a percentage distribution under  subsection (2)(b) of this section, and the terms and conditions
+of grants.
+(b) A competitive grant program, by which a  public transportation service provider may apply
+for a percentage distribution under subsection  (2)(c) of this section, and the terms and conditions
+of grants.
+(c) A process to review and approve a public transportation improvement  plan submitted under
+subsection (7) of this section.
+(d) Procedures for appealing a rejection of a public  transportation improvement plan submitted
+under subsection (7) of this section.
+(e) Any  other provisions or procedures that are necessary for the commission to carry out the
+provisions of ORS 184.758 to 184.766.
+(7) To  be eligible to receive a percentage distribution under subsection (2)(a) of this section, a
+qualified entity shall prepare and submit a  public transportation improvement plan to the commis-
+sion. The commission must approve the plan submitted by the qualified entity before the  commission
+may make a percentage distribution to the qualified entity.
+(8) At a minimum, a public transportation improvement plan submitted under  this section must
+include:
+(a) For each proposed project, the amount of moneys from the percentage distribution that would
+be allocated to the project to fund the following:
+(A) Increased frequency of bus service schedules in communities with a  high percentage of
+low-income households;
+(B) Procurement of buses that are powered by natural  gas or electricity for use in areas with
+a population of 200,000 or more;
+(C) Implementation of programs to reduce fares for public transportation  in communities with
+a high percentage of low-income households;
+(D) Expansion of bus routes and bus services to reach communities  with a high percentage of
+low-income households;
+(E) Improvement in the frequency and reliability of service connections between communities
+inside and outside of the qualified entity’s service area;
+(F) Coordination  between public transportation service providers to reduce fragmentation in the
+provision of transportation services;
+(G) Implementation of programs to provide student transit services for  students in grades 9
+through 12; and
+(H) Services for older adults and people with disabilities;
+(b) For the current fiscal year,  a summary of any plans and project proposals approved by an
+advisory committee under ORS 184.761; and
+(c) If a qualified entity was a  recipient of a percentage distribution in the preceding fiscal year,
+the amount of moneys received from the distribution that were allocated to a project  for the pur-
+poses described under paragraph (a) of this subsection.
+(9) If practicable, as determined by  the commission by rule each qualified entity shall spend at
+least one percent of  the amount received each year under subsection (2)(a) of this section to imple-
+ment programs to provide student transit services for students in grades 9 through 12.
+(10) After the commission makes a  distribution under subsection (2) of this section, qualified
+entities may enter into intergovernmental agreements under ORS chapter 190 to combine the  mon-
+eys received for public transportation improvements.
+(11) If the commission rejects a public transportation improvement plan  or a grant application
+submitted under this section, the commission shall  notify the entity or provider in writing and state
+the reasons for the rejection.
+(12) The Department of Transportation  shall make all grant applications submitted under this
+section available to the public.
+SECTION 19a.
+The amendments  to ORS 184.758 by section 19 of this 2025 Act become
+operative on January 1, 2028.
+SECTION 20.  ORS 184.766 is amended to read:
+184.766. (1) Every qualified entity that receives a percentage distribution under  ORS 184.758
+shall submit the following to the Department of Transportation:
+[(a) No later than 60 days after the end of  the fiscal year, a report on any actions taken by a public
+transportation service provider located within the area of a  qualified entity to mitigate the impact of the
+tax imposed under ORS 320.550 on passengers who reside in low-income communities; ]
+[(b)] (a)  No later than 30 days after adoption, the  annual budget for the upcoming fiscal year;
+and
+[(c)] (b)  No later than 30 days after receipt of the  final results of any audits of the qualified
+entity or of  a public transportation service provider located within the area of the qualified entity
+as required by a local, state or federal oversight agency for purposes of statewide  reporting, the
+final results including, but not limited to:
+(A) The state financial report required under ORS 291.040;
+(B) The results of any comprehensive  review completed by the Federal Transit Administration
+or the department;
+(C) Any information  submitted by the qualified entity as a part of the requirements of a state-
+wide audit in  accordance with the federal Single Audit Act of 1984 (31 U.S.C. 7501 to 7507), as
+amended by the Single Audit Act Amendments of 1996 (P.L. 104-156); and
+(D) Any quarterly reports that detail  project progress, outcomes achieved and the expenditure
+of funds described under ORS 184.758 (2)(a).
+(2) The Oregon Transportation Commission shall  establish rules concerning the making of
+agreements for the distributions made to qualified entities under ORS 184.758. Each agreement must
+include a condition that requires a qualified entity to repay,  in full, distributions paid to the quali-
+fied entity, if the commission determines that the  recipient has failed meet to any terms or condi-
+tions of the agreement.
+FOOTPATHS AND BICYCLE TRAILS
+SECTION 21.
+ORS 366.514 is repealed.
+SECTION 22.  ORS 366.552 is amended to read:
+366.552. (1) The Department of Transportation and the State  Parks and Recreation Department
+shall prepare and manage a historic road program, in consultation with the Historic  Columbia River
+Highway Advisory  Committee and other affected entities, consistent with the purposes of the
+Columbia River Gorge National  Scenic Area Act of 1986 and the public policy of this state declared
+in ORS 366.551.
+(2) The departments shall inform the advisory committee of those activities of the  departments
+which may affect the continuity, historic integrity and scenic qualities of the Historic  Columbia
+River Highway.
+(3) The departments shall undertake efforts to  rehabilitate, restore, maintain and preserve all
+intact and usable segments of the Historic Columbia River Highway and  associated state parks.
+[The Department of Transportation may  expend funds dedicated for footpaths and bicycle trails under
+ORS 366.514 to construct footpaths and bicycle trails on  those portions of the Historic Columbia River
+Highway that are parts of the state highway system or that are county roads or city streets and the
+State Parks and Recreation Department may incorporate those segments into  the Oregon recreation
+trails system under the provisions of ORS 390.950 to 390.989 and 390.995 (2). ]
+(4) The departments may acquire real  property, or any right or interest therein, deemed neces-
+sary for the preservation of historic, scenic  or recreation qualities of the Historic Columbia River
+Highway, for  the connection of intact and usable segments, or for the development and maintenance
+of parks along or in close proximity to the highway. The departments shall encourage  the acquisi-
+tion of lands, or interests in lands, by donation, agreement, exchange or purchase.
+(5) The departments shall assist and cooperate with other agencies and political subdivisions  of
+the state, state agencies, the federal government,  special purpose districts, railroads, public and
+private organizations and individuals to the extent necessary to carry out the provisions of  ORS
+366.550 to 366.553. The departments may enter into such contracts  as are necessary to carry out
+these provisions.
+SECTION 23.  ORS 366.774 is amended to read:
+366.774. (1) Moneys paid to counties under ORS  366.762 to 366.768 shall be used only for the
+purposes stated in sections 3 and 3a, Article  IX of the Oregon Constitution, and the statutes enacted
+pursuant thereto [ including ORS 366.514 ].
+(2) Counties receiving moneys under ORS  366.762 to 366.768 shall report annually to the Legis-
+lative Assembly the expenditures of those moneys in each of the following areas:
+(a) Administration;
+(b) Bicycle paths;
+(c) Construction and expansion;
+(d) Operations and maintenance;
+(e) Other payments;
+(f) Payments to other governments; and
+(g) Repair and preservation.
+(3) The Association of Oregon Counties shall  make an annual report to the Legislative Assembly
+presenting the information required by subsection (2) of this section. The report shall be  made to
+the committees of the Legislative Assembly with primary jurisdiction over transportation matters.
+(4) For the purposes of  subsection (2) of this section, each county shall account for moneys paid
+to the county under ORS 366.762 to 366.768 separately from any other county moneys.
+SECTION 24.
+ ORS 366.790 is amended to read:
+366.790. (1) Moneys paid to cities under ORS 366.785 to 366.820 shall be used only  for the pur-
+poses stated in sections 3 and 3a, Article IX of the Oregon Constitution and the statutes enacted
+pursuant thereto [ including ORS 366.514 ].
+(2) Cities receiving  moneys under ORS 366.785 to 366.820 shall report annually to the Legislative
+Assembly the expenditures of those moneys in each of the following areas:
+(a) Administration;
+(b) Bicycle paths;
+(c) Construction and expansion;
+(d) Operations and maintenance;
+(e) Other payments;
+(f) Payments to other governments; and
+(g) Repair and preservation.
+(3) The League  of Oregon Cities shall make an annual report to the Legislative Assembly pre-
+senting the information required by subsection (2) of this section. The report shall  be made to the
+committees of the Legislative Assembly with primary jurisdiction over transportation matters.
+(4) For the purposes of subsection (2) of this section, each city shall account for moneys  paid
+to the city under ORS 366.785 to 366.820 separately from any other city moneys.
+(5) This section does not apply to a city with a population under 5,000.
+EMERGING SMALL BUSINESSES
+SECTION 25.
+ORS 200.180, 200.190 and 279A.142 are repealed.
+SECTION 26. Any balance in the Emerging Small Business Account that is unexpended
+and unobligated on the date of the repeal of ORS 200.180 by section 25 of this  2025 Act, and
+all moneys that would have  been deposited in the Emerging Small Business Account had ORS
+200.180 remained in effect, shall be transferred and deposited in the  State Highway Fund, and
+are appropriated for expenditure as in the case of other moneys in the State Highway  Fund.
+SECTION 27.  ORS 279C.335 is amended to read:
+279C.335. (1) A  contracting agency may award a public improvement contract only in response
+to competitive bids, except for:
+(a) A public improvement contract with a qualified nonprofit agency that provides employment
+opportunities for individuals with disabilities under ORS 279.835 to 279.855.
+(b) A public improvement contract that is exempt under subsection (2) of this section.
+(c) A public improvement  contract with a value of less than $25,000. A state contracting agency
+that awards a public improvement contract with a contract price of $10,000 or more  under this
+paragraph shall document in the state contracting agency’s procurement file the actions  the state
+contracting agency takes to:
+(A) Comply with ORS 200.035; and
+(B) Invite  to participate in the procurement qualified businesses or enterprises that the Certi-
+fication Office for Business Inclusion and Diversity certifies under ORS 200.055.
+(d) A public improvement contract with a contract price that does not exceed $100,000  made
+under procedures for competitive quotes in ORS 279C.412 and 279C.414.
+(e) A  contract to repair, maintain, improve or protect property the Department of Veterans’
+Affairs obtains under ORS 407.135 and 407.145 (1).
+(f) An energy  savings performance contract that a contracting agency enters into in accordance
+with rules of procedure adopted under ORS 279A.065.
+[(g) A public improvement contract  with an estimated contract price of $250,000 or less that a
+contracting agency awards to an emerging small business certified  under ORS 200.055 and funds with
+moneys from the Emerging Small Business Account established  under ORS 200.180. A contracting
+agency that awards a public contract  exempted from competitive bidding under this paragraph shall
+solicit competitive quotes as provided in ORS 279C.414 before making the award. ]
+[(h)] (g)  A public improvement contract  that the Department of Transportation awards to a
+qualified small business under the small business development program described  in ORS 184.906.
+The department may choose  to award a public improvement contract described in this paragraph
+competitively or using other selection methods that comply with the policies set forth in ORS
+279A.015.
+(2) Subject  to subsection (4)(b) and (c) of this section, the Director of the Oregon Department
+of Administrative Services,  a local contract review board or, for contracts described in ORS
+279A.050 (3)(b), the Director of Transportation may exempt a  public improvement contract or a class
+of public improvement contracts from the competitive bidding requirement of subsection (1)  of this
+section after the Director of the Oregon Department of Administrative Services, the Director of
+Transportation or the local contract review board  approves the following findings that the con-
+tracting agency submits or, if a state agency is not the contracting  agency, that the state agency
+that is seeking the exemption submits:
+(a) The exemption is unlikely to encourage favoritism in awarding public  improvement contracts
+or substantially diminish competition for public improvement contracts.
+(b) Awarding a  public improvement contract under the exemption will likely result in substantial
+cost savings and other substantial  benefits to the contracting agency or the state agency that seeks
+the exemption or, if the contract  is for a public improvement described in ORS 279A.050 (3)(b), to
+the contracting agency or  the public. In approving a finding under this paragraph, the Director of
+the Oregon Department of Administrative  Services, the Director of Transportation or the local
+contract review board shall consider the type, cost and amount  of the contract and, to the extent
+applicable to the particular public improvement contract or class of public improvement contracts,
+the following:
+(A) How many persons are available to bid;
+(B) The construction  budget and the projected operating costs for the completed public im-
+provement;
+(C) Public benefits that may result from granting the exemption;
+(D) Whether value engineering techniques may decrease the cost of the public improvement;
+(E) The cost  and availability of specialized expertise that is necessary for the public improve-
+ment;
+(F) Any likely increases in public safety;
+(G) Whether granting the exemption may reduce risks  to the contracting agency, the state
+agency or the public that are related to the public improvement;
+(H) Whether granting the exemption will affect the sources of funding for the public improve-
+ment;
+(I) Whether granting the exemption will better enable the contracting agency to  control the
+impact that market conditions may have on the cost of and  time necessary to complete the public
+improvement;
+(J) Whether  granting the exemption will better enable the contracting agency to address the size
+and technical complexity of the public improvement;
+(K) Whether the public improvement involves new construction or renovates or remodels an
+existing structure;
+(L) Whether the public improvement will be occupied or unoccupied during construction;
+(M) Whether the public improvement will require a single phase of  construction work or multi-
+ple phases of construction work to address specific project conditions; and
+(N) Whether the  contracting agency or state agency has, or has retained under contract, and
+will use contracting agency or state agency personnel, consultants and legal counsel that  have
+necessary expertise and substantial experience in alternative contracting  methods to assist in de-
+veloping the alternative contracting method that the  contracting agency or state agency will use to
+award the public improvement contract and to help negotiate, administer and enforce the terms  of
+the public improvement contract.
+(c) As an alternative to the finding  described in paragraph (b) of this subsection, if a contracting
+agency or state agency seeks an exemption that would allow the  contracting agency or state agency
+to use an alternative contracting method that the contracting agency or state agency has not pre-
+viously used, the contracting agency or state agency may make a finding that identifies the project
+as a  pilot project for which the contracting agency or state agency intends to determine whether
+using the alternative contracting  method actually results in substantial cost savings to the con-
+tracting agency, to the state agency or, if the  contract is for a public improvement described in ORS
+279A.050 (3)(b), to the contracting agency or the public. The contracting agency  or state agency
+shall include an analysis and conclusion  regarding actual cost savings, if any, in the evaluation re-
+quired under ORS 279C.355.
+(3) In making findings to support an exemption for a class of public improvement  contracts, the
+contracting agency or  state agency shall clearly identify the class using the class’s defining char-
+acteristics.  The  characteristics must include a combination of project descriptions or locations, time
+periods, contract values, methods of procurement or other factors that distinguish the  limited and
+related class  of public improvement contracts from the agency’s overall construction program. The
+agency may not  identify a class solely by funding source, such as a particular bond fund, or by the
+method of procurement, but shall  identify the class using characteristics that reasonably relate to
+the exemption criteria set forth in subsection (2) of this section.
+(4) In granting exemptions under subsection (2) of this section, the Director of the Oregon De-
+partment of Administrative Services, the Director of Transportation  or the local contract review
+board shall:
+(a) If  appropriate, direct the use of alternative contracting methods that take account of market
+realities and modern practices and are consistent with the public policy of encouraging competition.
+(b) Require and approve or disapprove written findings by the contracting agency or  state
+agency that support awarding a particular public improvement contract or a class  of public im-
+provement contracts, without  the competitive bidding requirement of subsection (1) of this section.
+The findings must show that the exemption  of a contract or class of contracts complies with the
+requirements of subsection (2) of this section.
+(c) Require a contracting agency or state agency that procures  construction manager/general
+contractor services to conduct the procurement in accordance with model rules the Attorney  Gen-
+eral adopts under ORS 279A.065 (3).
+(5)(a) A contracting agency or state agency may hold a public hearing before  approving the
+findings required by subsection (2) of this section and before the Director of  the Oregon Department
+of Administrative Services, the Director of Transportation or the local contract review  board grants
+an exemption from the competitive bidding requirement for  a public improvement contract or a class
+of public improvement contracts.
+(b) Notification of a proposed exemption under subsection (2) of this section must  be published
+in at least one trade newspaper  of general statewide circulation a minimum of 14 days before the
+date on which the contracting agency intends to take  action to approve or disapprove the ex-
+emption.
+(c) The notice must state that in response to a written request, the  contracting agency or state
+agency will hold a public hearing for the purpose of taking  comments on the draft findings for an
+exemption from the competitive bidding requirement.
+(d) If the contracting agency or state agency conducts a public hearing,  the contracting agency
+or state agency shall offer an opportunity for any interested party to appear and comment.
+(e) If a contracting agency or state agency must act promptly because of circumstances beyond
+the agency’s control that do not constitute an emergency, notification of the proposed  exemption
+may be published simultaneously with the  agency’s solicitation of contractors for the alternative
+public contracting method, as  long as responses to the solicitation are due at least five days after
+the agency intends to take action to approve or disapprove the proposed exemption.
+(6) The purpose of an exemption is  to exempt one or more public improvement contracts from
+competitive bidding requirements. The representations in and the accuracy of the  findings, including
+any general  description of the resulting public improvement contract, are the bases for approving
+the findings and granting the exemption.  The findings may describe anticipated features of the re-
+sulting public improvement contract, but the final parameters  of the contract are those character-
+istics or specifics announced in the solicitation document.
+(7) A public  improvement contract awarded under the competitive bidding requirement of sub-
+section (1) of this section  may be amended only in accordance with rules adopted under ORS
+279A.065.
+(8) A  public improvement contract that is excepted from the competitive bidding requirement
+under subsection (1)(a), (c), (d), (e),  (f) or (g) of this section is not subject to the exemption require-
+ments of subsection (2) of this section.
+LOW CARBON FUEL STANDARDS
+SECTION 28.
+ ORS 468A.266 is amended to read:
+468A.266. (1) The Environmental Quality Commission, by rule:
+(a) Shall adopt low carbon fuel standards for gasoline, diesel  and fuels used as substitutes or
+alternatives for gasoline or diesel; and
+(b) Shall adopt a clean fuels program for  facilitating compliance with the low carbon fuel stan-
+dards and for managing and containing the costs of compliance with the low carbon fuel  standards,
+in accordance with the requirements of ORS 468A.265 to 468A.277.
+(2) The commission may adopt rules related to the low carbon fuel standards, including but not
+limited to:
+(a) A schedule to phase in implementation of the standards in a manner that reduces the average
+amount of greenhouse gas emissions per unit of  fuel energy of the fuels by  no more than  10 percent
+below 2010 levels by the year 2025 [ or by a later date if the commission determines  that an extension
+is appropriate to implement the low carbon fuel standards ];
+(b) Standards  for greenhouse gas emissions attributable to the fuels throughout the lifecycles
+of the fuels,  including but not limited to emissions from the production, storage, transportation and
+combustion of the fuels and from changes in land use associated with the fuels;
+(c) Provisions allowing the use of all  types of low carbon fuels to meet the low carbon fuel
+standards, including but not limited to biofuels, biogas, natural gas, liquefied petroleum gas, gaso-
+line, diesel, hydrogen and electricity;
+(d) Exemptions for fuels that  are used in volumes below thresholds established by the commis-
+sion;
+(e) Standards, specifications, testing requirements and other measures  as needed to ensure the
+quality of fuels produced in accordance  with the low carbon fuel standards, including but not limited
+to the requirements of ORS 646.910 to 646.923 and administrative rules adopted by the  State De-
+partment of Agriculture for motor fuel quality; and
+(f) Adjustments to the amounts of greenhouse gas emissions per  unit of fuel energy assigned to
+fuels for combustion and drive train efficiency.
+(3) Before adopting low carbon fuel standards under this section, the commission shall consider
+the low carbon  fuel standards of other states for the purpose of determining schedules and goals for
+the reduction of the  average amount of greenhouse gas emissions per unit of fuel energy and the
+default values for these reductions for applicable fuels.
+(4) The commission shall exempt from the low carbon fuel standards any  person who imports in
+a calendar year less than 500,000 gallons of gasoline and diesel fuel, in  total. Any fuel imported by
+persons that are  related or share common ownership or control shall be aggregated together to de-
+termine whether a person is exempt under this subsection.
+(5) In adopting rules under this section, the commission shall evaluate:
+(a) Safety, feasibility, net reduction of greenhouse gas emissions and cost-effectiveness;
+(b) Potential adverse impacts to public health and the environment,  including but not limited to
+air quality, water quality and the generation and disposal of waste in this state;
+(c) Flexible implementation approaches to minimize compliance costs; and
+(d) Technical and economic studies of comparable  greenhouse gas emissions reduction measures
+implemented in other states and any other studies as determined by the commission.
+HIGHWAY COST ALLOCATION STUDY
+SECTION 29.
+ ORS 366.506 is amended to read:
+366.506. (1) Once every two years,  the Oregon Department of Administrative Services shall
+conduct a highway cost allocation study. The purpose of the study is to determine:
+(a) The proportionate share that the  users of each class of vehicle should pay for the costs of
+maintenance, operation and improvement of the highways, roads and streets in the state; and
+(b) Whether the users of each class are paying that share.
+(2) Each study must include:
+(a) An examination of the most recent study  period for which actual data are available for the
+purpose of determining the accuracy of the most recently published study results; and
+(b) An examination of the prospective study  period based on projected data for the purpose de-
+scribed in subsection (1) of this section.
+(3) The department may use any study design the department determines will best accomplish
+the purposes stated in  subsection (1) of this section. In designing the study, the department may
+make decisions that include, but are not limited to, the methodology to be used for the study,  what
+constitutes a class of vehicle for purposes of  collection of data under subsections (1) to (5) of this
+section and the nature and scope of costs that will be included in the study.
+(4) The department may appoint a study review team to participate in the study required  by
+subsection (1) of this section. The team may perform any functions assigned by  the department, in-
+cluding, but not limited to, consulting on the design of the study.
+(5) A report on  the results of the study shall be submitted to the legislative revenue committees
+and the Joint Committee on Transportation by January 31 of each odd-numbered year.
+(6) The Legislative Assembly  shall use the report described in subsection (5) of this section to
+determine whether adjustments to revenue sources described in Article  IX, section 3a (3), of the
+Oregon Constitution, are needed in order to carry  out the purposes of Article IX, section 3a (3), of
+the Oregon Constitution. If such adjustments are needed,  the Legislative Assembly shall enact
+whatever measures are necessary to make the adjustments.
+(7)(a) On or after September 1 of  each odd-numbered year, notwithstanding the weight-
+mile tax rates described under ORS 825.476, the department shall, by rule,  decrease the rates
+in an amount to achieve equity between light and heavy vehicle classes, if:
+(A) The highway cost allocation report indicates that the equity  ratio for the heavy ve-
+hicle class is greater than one; and
+(B) The Legislative Assembly has  not enacted whatever measures are necessary to make
+the adjustments needed to carry out the purposes of Article IX, section 3a (3), of the  Oregon
+Constitution, within 120 days of the Joint Committee on Transportation receiving the  report
+under subsection (5) of this section.
+(b) On or after September 1 of each odd-numbered year, notwithstanding the fuel tax
+rates described under ORS 319.020 (1)(b)  and 319.530 (1), the department shall, by rule, de-
+crease the rates in an amount to achieve equity between light and heavy vehicle classes, if:
+(A) The highway cost allocation  report indicates that the equity ratio for the light vehicle
+class is greater than one; and
+(B) The Legislative Assembly has  not enacted whatever measures are necessary to make
+the adjustments needed to carry out the purposes of Article IX, section 3a (3), of the  Oregon
+Constitution, within 120 days of the Joint Committee on Transportation receiving the  report
+under subsection (5) of this section.
+(8) The department shall repeal an administrative rule decreasing tax rates adopted
+pursuant to subsection (7) of this section if the department  determines that, after the rule
+was adopted, the Legislative Assembly adjusted revenue sources described in Article  IX,
+section 3a (3), of the Oregon Constitution, to carry out the purposes of Article IX, section
+3a (3), of the Oregon Constitution.
+WEIGHT-MILE TAXES
+SECTION 30.
+ ORS 825.474 is amended to read:
+825.474. (1) In  addition to other fees and taxes imposed by law upon carriers, there shall be as-
+sessed against and collected from every carrier a tax for the use  of the highways, to apply to the
+cost of administration of this chapter and for the maintenance, operation, construction  and recon-
+struction of public highways.
+(2) The tax rate  which shall apply to each motor vehicle shall be based upon the declared
+combined weight of the  motor vehicle and in accordance with the weight group tax rates as shown
+in the tables set forth in ORS 825.476.
+(3) For the purpose of computing the tax due:
+(a) Table “A”  in ORS 825.476  applies to motor vehicles subject to  the tax imposed by this sec-
+tion that are not issued an annual variance permit under ORS 818.200 (1)(a) to (c) to operate with
+a combined weight of more than 80,000 pounds.
+[(b) Table “B” applies to motor vehicles subject  to the tax imposed by this section that are issued
+or required to obtain an annual variance permit under  ORS 818.200 (1)(a) to (c) to operate with a
+combined weight of more than 80,000 pounds. ]
+(b) Table “E” applies to electric motor vehicles subject to the tax imposed  by this section
+that are not issued an annual variance permit under ORS 818.200 (1)(a) to (c) to operate  with
+a combined weight of 26,001 pounds or more.
+(c) The declared combined weight shall be  the combined weight, as defined in ORS 825.005, de-
+clared in the [ application for authority under ORS 825.100, subject to audit and approval by the De-
+partment of Transportation ] registration weight .
+(d) In addition to any tax  due under this chapter, motor vehicles that exceed the maximum ve-
+hicle weight limits for annual variance permits  under ORS 818.200 (1)(a) to (c) are subject to the
+road use assessment fee imposed under ORS 818.225 for the  entire motor vehicle weight, minus the
+road use assessment fee for the maximum vehicle weight  allowed under the annual variance permit.
+(4) The tax for each motor vehicle [ when table “A” or “B” is used ] shall be computed by multi-
+plying the extreme mileage of travel in Oregon by the appropriate weight group  tax rate as it ap-
+pears in the table.
+SECTION 31.
+ ORS 825.476 is amended to read:
+825.476.
+[ ___________________________________________________________________________________ ]
+MILEAGE TAX RATE TABLE “A”
+Declared Combined Fee Rates
+Weight Groups Per Mile
+(Pounds) (Mills)
+26,001 to 28,000 76.4
+28,001 to 30,000 80.9
+30,001 to 32,000 84.6
+32,001 to 34,000 88.4
+34,001 to 36,000 91.8
+36,001 to 38,000 96.6
+38,001 to 40,000 100.2
+40,001 to 42,000 103.8
+42,001 to 44,000 107.7
+44,001 to 46,000 111.3
+46,001 to 48,000 114.9
+48,001 to 50,000 118.7
+50,001 to 52,000 123.1
+52,001 to 54,000 127.7
+54,001 to 56,000 132.5
+56,001 to 58,000 138.0
+58,001 to 60,000 144.3
+60,001 to 62,000 151.7
+62,001 to 64,000 160.1
+64,001 to 66,000 169.3
+66,001 to 68,000 181.3
+68,001 to 70,000 194.1
+70,001 to 72,000 206.9
+72,001 to 74,000 218.7
+74,001 to 76,000 230.0
+76,001 to 78,000 241.1
+78,001 to 80,000 251.2
+[ ___________________________________________________________________________________ ]
+AXLE-WEIGHT MILEAGE
+TAX RATE TABLE “B”
+Declared Combined Number of Axles
+Weight Groups 5 6 7 8 9 or
+(Pounds) (Mills) more
+80,001 to 82,000 259.4 237.3 221.8 210.7 198.7
+82,001 to 84,000 267.8 241.1 225.4 213.4 201.4
+84,001 to 86,000 275.8 246.6 229.1 216.1 204.2
+86,001 to 88,000 285.2 252.0 232.7 219.9 206.9
+88,001 to 90,000 296.2 258.4 236.5 223.5 210.7
+90,001 to 92,000 309.0 265.9 239.9 227.1 214.4
+92,001 to 94,000 323.0 273.1 243.8 230.8 217.2
+94,001 to 96,000 337.7 281.5 248.3 234.6 220.7
+96,001 to 98,000 353.3 291.7 253.9 238.4 224.5
+98,001 to 100,000 302.5 259.4 242.8 228.1
+100,001 to 102,000   264.9 248.3 231.9
+102,001 to 104,000   270.5 253.9 236.5
+104,001 to 105,500   277.7 259.4 241.1
+[ ___________________________________________________________________________________ ]
+MILEAGE TAX RATE TABLE “A”
+Declared Combined Fee Rates
+Weight Groups Per Mile
+(Pounds) (Mills)
+26,001 to 32,000
+32,001 to 38,000
+38,001 to 44,000
+44,001 to 50,000
+50,001 to 56,000
+56,001 to 62,000
+62,001 to 68,000
+68,001 to 74,000
+74,001 to 80,000
+80,001 to 105,500
+MILEAGE TAX RATE TABLE “E”
+Declared Combined Fee Rates
+Weight Groups Per Mile
+(Pounds) (Mills)
+26,001 to 32,000
+32,001 to 38,000
+38,001 to 44,000
+44,001 to 50,000
+50,001 to 56,000
+56,001 to 62,000
+62,001 to 68,000
+68,001 to 74,000
+74,001 to 80,000
+80,001 to 105,500
+SECTION 32. The amendments to ORS 825.474 and 825.476 by sections 30 and 31 of  this
+2025 Act become operative on July 1, 2028.
+SECTION 33. The amendments to ORS 825.474 and 825.476 by sections 30 and 31 of this
+2025 Act apply to taxes imposed on or after July 1, 2028.
+DIESEL FUEL TAX ADMINISTRATION
+SECTION 34.  ORS 319.010 is amended to read:
+319.010. As used in ORS 319.010 to 319.430, unless the context requires otherwise:
+(1) “Aircraft” means every contrivance now  known, or hereafter invented, used or designed for
+navigation of or flight in the air, operated or propelled by the use of aircraft fuel.
+(2) “Aircraft fuel” means any gasoline and any other inflammable or  combustible gas or liquid
+by whatever name such  gasoline, gas or liquid is known or sold, usable as fuel for the operation of
+aircraft, except gas or liquid,  the chief use of which, as determined by the Department of Trans-
+portation is for purposes other than the propulsion of aircraft.
+(3) “Airport” means any area of  land or water, except a restricted landing area, which is de-
+signed for the landing and takeoff of aircraft.
+(4) “Broker” means [ and includes ] every person other than  a dealer engaged in business as a
+broker, jobber or wholesale merchant dealing in motor vehicle fuel or aircraft fuel.
+(5) “Bulk  transfer” means any change in ownership of motor vehicle fuel or aircraft fuel con-
+tained in a terminal storage facility or any physical movement of  motor vehicle fuel or aircraft fuel
+between terminal storage facilities by pipeline or marine transport.
+(6) “Dealer” means any person who:
+(a) Imports or  causes to be imported motor vehicle fuels or aircraft fuels for sale, use or dis-
+tribution in, and after the same  reaches the State of Oregon, but “dealer” does not include any
+person who imports  into this state motor vehicle fuel in quantities of 500 gallons or less purchased
+from a supplier who is licensed as a dealer under ORS 319.010 to 319.430  and who assumes liability
+for the payment of the applicable license tax to this state;
+(b) Produces, refines, manufactures or compounds motor vehicle fuels  or aircraft fuels in the
+State of Oregon for use, distribution or sale in this state;
+(c) Acquires in this state for sale, use or distribution in this  state motor vehicle fuels or aircraft
+fuels with respect to which there has been no license tax previously incurred; or
+(d) Acquires title to or possession of motor  vehicle fuels or aircraft fuels in this state and ex-
+ports the product out of this state.
+(7) “Department” means the Department of Transportation.
+(8) “Diesel” or “diesel fuel” includes biodiesel and renewable diesel fuel and  other diesel
+fuel blends.
+[(8)] (9) “Distribution” means, in addition to its ordinary  meaning, the delivery of motor vehicle
+fuel or aircraft fuel by a dealer to any service station or into any tank, storage facility or  series
+of tanks or storage facilities  connected by pipelines, from which motor vehicle fuel or aircraft fuel
+is withdrawn directly for sale  or for delivery into the fuel tanks of motor vehicles whether or not
+the service station, tank or storage facility is owned, operated or controlled by the dealer.
+[(9)] (10) “First sale, use or distribution of  motor vehicle fuel or aircraft fuel” means the first
+withdrawal, other than by bulk transfer, of motor vehicle  fuel or aircraft fuel from terminal storage
+facilities for sale, use or distribution. “First sale, use  or distribution of motor vehicle fuel or aircraft
+fuel” also means the first sale, use or distribution of motor vehicle  fuel or aircraft fuel after import
+into this state if the motor vehicle fuel or aircraft fuel is delivered other than to the terminal stor-
+age facilities of a licensed dealer.
+[(10)] (11)  “Highway” means every  way, thoroughfare and place, of whatever nature, open for
+use of the public for the purpose of vehicular travel.
+[(11)] (12) “Motor vehicle”  means all vehicles, engines or machines, movable or immovable, op-
+erated or propelled by the use of motor vehicle fuel.
+[(12)] (13)(a)  “Motor vehicle fuel” means [ and includes ] gasoline , diesel  and any other
+inflammable or combustible gas or liquid, by whatever name such  gasoline, gas or liquid is known
+or sold, usable as fuel for the operation of motor vehicles, except gas or liquid[ ,] the chief use of
+which, as  determined by the department, is for purposes other than the propulsion of motor vehicles
+upon the highways of this state.
+(b) “Motor vehicle fuel” does not include dyed diesel as defined in ORS 319.520.
+[(13)] (14) “Person” includes every natural person, association, firm,  partnership, corporation or
+the United States.
+[(14)] (15)  “Restricted landing area” means  any area of land or water, or both, which is used
+or made available for the landing and  takeoff of aircraft, the use of which, except in case of emer-
+gency, is provided from time to time by the department.
+[(15)] (16) “Service station” means [ and includes] any place operated for the purpose of retailing
+and delivering motor vehicle  fuel into the fuel tanks of motor vehicles or aircraft fuel into the fuel
+tanks of aircraft.
+[(16)] (17) “Terminal storage facility” means any fuel storage  facility that has marine or pipeline
+access.
+SECTION 35.
+ ORS 295.103 is amended to read:
+295.103. (1) This section applies to the following moneys:
+(a) Motor vehicle fuel taxes, penalties and interest that are:
+(A) Imposed on motor carriers; and
+(B) Payable through a clearinghouse operated under an  international fuel tax agreement entered
+into under ORS 825.555; and
+(b) Registration fees and other fixed fees and taxes that are:
+(A) Imposed on motor carriers for motor vehicles proportionally registered in this state  and
+other jurisdictions;
+(B) Apportioned to this state; and
+(C) Payable through  a clearinghouse operated under an agreement for proportional registration
+entered into under ORS 826.007.
+(2) Moneys described in subsection (1) of this  section are not public funds for purposes of ORS
+295.001 to 295.108 for the period during which the moneys are held by a clearinghouse described  in
+subsection (1) of this section pending disbursement to, or payment on behalf of, the state.
+SECTION 36.
+ ORS 319.390 is amended to read:
+319.390. [Every dealer in motor vehicle fuel shall  keep a record in such form as may be prescribed
+by the Department of Transportation of all purchases, receipts, sales and distribution of  motor fuel.
+The records shall include copies of all invoices or bills of all such sales and shall at  all times during
+the business hours of the day be subject to inspection by the department  or its deputies or other officers
+duly authorized by the department. Upon request from the officials  to whom is entrusted the enforce-
+ment of the motor fuel tax law of another state, territory, country or the federal  government, the de-
+partment shall forward to such officials any information which it may have  relative to the import or
+export of any motor vehicle fuel by any dealer,  provided such other state, territory, country or federal
+government furnishes like information to this state. ]
+(1) As used in this section:
+(a) “Department of  Transportation” or “department” includes deputies or other officers
+or representatives duly authorized by the department.
+(b) “Inspection” means any inspection, audit, examination or test reasonably required  in
+the administration of this section.
+(c) “Premises” means any premises, equipment, rolling stock or  facilities operated or
+occupied by any dealer or broker.
+(d) “Records”  means any records of purchases, receipts, sales and distribution of motor
+vehicle fuel, including  copies of invoices or bills of such sales, and related books, papers,
+statements and reports.
+(2) The department may, at any time  during a dealer’s or broker’s business hours, upon
+demand, enter upon the premises in order to:
+(a) Conduct an inspection of records and equipment;
+(b) Set  up and use any apparatus or appliance, and occupy necessary space, for the in-
+spection;
+(c) Verify the completeness, truth and accuracy of any records; and
+(d) Determine  whether the dealer or broker has violated any provision of ORS 319.010 to
+319.430.
+(3) Any dealer or broker that refuses entry to the  department for an inspection, or a
+demand to furnish records necessary  for the inspection, is subject to a civil penalty under
+section 49 of this 2025 Act.
+SECTION 37.
+ ORS 825.555 is amended to read:
+825.555. (1) The Department of Transportation may enter into an international fuel  tax agree-
+ment with jurisdictions outside [ of] this state to provide for cooperation and assistance among
+member jurisdictions in the administration and collection of taxes imposed on motor carriers for  the
+consumption of all fuels used in vehicles operated interstate.
+(2) An agreement under this section may:
+(a) Provide for determining a base state for motor carriers for purposes of the agreement.
+(b) Impose record keeping requirements.
+(c) Specify audit procedures.
+(d) Provide for exchange of information among jurisdictions.
+(e) Provide criteria for determining which carriers are eligible  to receive the benefits of the
+agreement.
+(f) Define qualified motor vehicles.
+(g) Specify conditions under which bonds are required.
+(h) Specify reporting requirements and periods, including but not limited to specifying  penalty
+and interest rates for late reporting.
+(i) Determine methods for collecting and forwarding of motor  vehicle fuel taxes, penalties and
+interest to another jurisdiction.
+(j) Provide that the  Department of Transportation may deny any person further benefits under
+the agreement until all motor  vehicle fuel taxes  have been paid, if the department determines that
+additional motor vehicle fuel taxes are owed by the person.
+(k) Authorize the department to suspend , [ or] cancel  or  refuse to renew  benefits under the
+agreement for any  person who violates any term or condition of the agreement or any law or rule
+of this state relating to motor carriers or vehicles.
+(L) Contain such other provisions as will facilitate the agreement.
+(m) Authorize the department to  deny an international fuel tax agreement license if the
+department has reasonable grounds to believe, based  on information contained in the de-
+partment files and records or based on  evidence presented during an administrative hearing,
+that the  department has authority to deny or revoke an international fuel tax agreement li-
+cense.
+(3) An agreement may not  provide for any benefit, exemption or privilege with respect to any
+fees or taxes levied or assessed against the use of highways or use or ownership of vehicles except
+for motor vehicle fuel taxes and requirements related to motor  vehicle fuel taxes.
+(4) The department may adopt any rules the  department deems necessary to enforce, effectuate
+and administer the provisions of an agreement entered into under this section.  Nothing in the
+agreement shall affect  the right of the department to adopt rules as provided in ORS chapter 823
+and this chapter.
+(5) An agreement shall  be in writing and shall be filed with the department within 10 days after
+execution or on the effective date of the agreement, whichever is later.
+(6)(a) The department shall adopt rules  establishing an annual fee to be paid by each motor
+carrier receiving benefits from an agreement entered into under this section.
+(b) In establishing fees, the department shall consider the size of the motor carrier’s fleet.
+(c) Fees established under this subsection shall be  designed to recover the full direct and indi-
+rect costs to the  department that result from participation in the agreement[ , but the department
+may not establish a fee under this subsection that exceeds $650 ].
+SECTION 38.
+Section 39 of this 2025 Act is added  to and made a part of ORS 319.010 to
+319.430.
+SECTION 39. (1) The Department of Transportation shall  allow refunds as provided in
+this section to a user of motor vehicle fuel presenting a claim as follows:
+(a) For diesel fuel  used in a motor vehicle designed to carry logs, poles, pilings, sand or
+gravel, a claimant shall be allowed a refund of:
+(A) Up to 25 percent of the  tax paid on all diesel fuel used by the claimant in this state,
+provided that the claimant shows evidence of the total number of  gallons of diesel fuel used
+in this state  on the highways and of the total number of gallons used in this state off the
+highways; or
+(B) Up to 15 percent of the tax paid without providing evidence of  the total number of
+gallons of diesel fuel used in this state on the highways or of the total number of gallons used
+in this state off the highways.
+(b) For diesel fuel used in a motor vehicle  exclusively owned and operated by an
+investor-owned utility, a claimant shall be allowed a refund of 70 percent of the tax paid.
+(c) For diesel fuel used in a separate  fuel supply dedicated to the operation of ancillary
+equipment and not used  to propel the motor vehicle, a claimant shall be allowed a refund of
+100 percent of the tax paid.
+(2) A claim for a refund under  this section must be submitted to the department within
+15 months after the payment of the tax for which a refund is claimed.
+(3)(a) A claim  for a refund under this section must include a signed statement by the
+claimant indicating the amount  of diesel fuel for which a refund is claimed and the manner
+in which the diesel fuel was used that qualifies the claimant for a refund.
+(b) If the diesel fuel for which the refund is claimed was obtained from a seller to  which
+the diesel fuel tax was paid,  the claim must be supported by the invoices that cover the
+purchase of the diesel fuel.
+(c) If the claimant paid the diesel fuel tax directly to  the department, the claimant must
+indicate the source of the diesel fuel and the date the fuel was obtained.
+(4) The department may require any claimant  for a refund under this section to furnish
+a statement, under penalties for false swearing, setting forth the claimant’s occupation,  a
+description of the machines or equipment in which the diesel fuel was used, the  place where
+the diesel fuel was used and any other information the department may require.
+SECTION 40.
+ ORS 810.530 is amended to read:
+810.530. (1) A weighmaster or motor carrier enforcement officer in whose presence  an offense
+described in this  subsection is committed may arrest or issue a citation for the offense in the same
+manner as under ORS 810.410 as  if the weighmaster or motor carrier enforcement officer were a
+police officer. This subsection applies to the following offenses:
+(a) Violation of maximum weight limits under ORS 818.020.
+(b) Violation of posted weight limits under ORS 818.040.
+(c) Violation of administratively imposed weight or size limits under ORS 818.060.
+(d) Violation of maximum size limits under ORS 818.090.
+(e) Exceeding maximum number of vehicles in combination under ORS 818.110.
+(f) Violation of posted limits on use of road under ORS 818.130.
+(g) Violation of towing safety requirements under ORS 818.160.
+(h) Operating with sifting or leaking load under ORS 818.300.
+(i) Dragging objects on highway under ORS 818.320.
+(j) Unlawful use of devices without wheels under ORS 815.155.
+(k) Unlawful use of metal objects on tires under ORS 815.160.
+(L) Operation without pneumatic tires under ORS 815.170.
+(m) Operation in violation of vehicle variance permit under ORS 818.340.
+(n) Failure to carry and display permit under ORS 818.350.
+(o) Failure to comply with commercial vehicle enforcement requirements under ORS 818.400.
+(p) Violation of any provision of ORS chapter 825.
+(q) Operation without proper fenders or mudguards under ORS 815.185.
+(r) Operating a vehicle without  driving privileges in violation of ORS 807.010 if the person is
+operating a commercial motor vehicle and the person does not have commercial driving privileges.
+(s) Violation driving while suspended or revoked in violation of ORS 811.175 if the person is
+operating a commercial  motor vehicle while the person’s commercial driving privileges are sus-
+pended or revoked.
+(t) Failure to use vehicle traction tires or chains in violation of ORS  815.140 if the person is
+operating a motor vehicle subject to ORS chapter 825 or 826.
+(u) Failure to carry  vehicle traction tires or chains in violation of ORS 815.142 if the person is
+operating a motor vehicle subject to ORS chapter 825 or 826.
+(v) Illegally altering or displaying registration plate in violation of ORS 803.550.
+(2) A weighmaster or motor carrier enforcement officer in whose presence  an offense described
+in this subsection is committed by a person operating a commercial  motor vehicle may issue a ci-
+tation for the offense. A weighmaster or  motor carrier enforcement officer who finds evidence that
+an offense  described in this subsection has been committed by a person operating a commercial
+motor vehicle or by a motor carrier for  which the person is acting as an agent may issue a citation
+for the offense. A weighmaster or motor carrier enforcement officer issuing a citation under this
+subsection  has the authority granted a police officer issuing a citation under ORS 810.410. A citation
+issued under this subsection to the operator of a commercial  motor vehicle shall be considered to
+have been issued to the motor carrier that owns the commercial motor vehicle if the operator  is not
+the owner. This subsection applies to  the following offenses, all of which are Class A traffic vio-
+lations under ORS 825.990 (1):
+(a) Repeatedly violating or avoiding any order or rule of the Department of Transportation.
+(b) Repeatedly refusing or repeatedly  failing, after being requested to do so, to furnish service
+authorized by certificate.
+(c) Refusing or failing to file the annual report as required by ORS 825.320.
+(d) Refusing or failing to maintain records required by the department or to produce such  re-
+cords for examination as required by the department.
+(e) Failing to appear for a hearing after notice that the carrier’s certificate  or permit is under
+investigation.
+(f) Filing  with the department an application that is false with regard to the ownership, pos-
+session or control of the equipment being used or the operation being conducted.
+(g) Delinquency in reporting or paying any fee, tax or penalty due to the department  under ORS
+chapter 825 or 826.
+(h) Refusing or failing to file a deposit or bond as required under ORS 825.506.
+(i) Failing to comply with  the applicable requirements for attendance at a motor carrier educa-
+tion program as required by ORS 825.402.
+(3) A weighmaster or motor carrier  enforcement officer who finds evidence that a person oper-
+ating a  commercial motor vehicle has committed [ the offense of failure to pay the appropriate regis-
+tration fee under ORS 803.315 ] one or more of the following offenses  may  issue a citation for the
+offense in the same manner as under ORS 810.410 as  if the weighmaster or motor carrier enforce-
+ment officer were a police officer[ .]:
+(a) Failure to register a vehicle under ORS 803.300.
+(b) Failure to pay the appropriate registration fee under ORS 803.315.
+(c) Failure to submit a declaration of weight under ORS 803.440.
+(d) Failure to renew vehicle registration under ORS 803.455.
+(e) Failure to carry a registration card under ORS 803.505.
+(f) Failure to display registration plates under ORS 803.540.
+(g) Improper display of validating stickers under ORS 803.560.
+(h) Failure to comply with an international fuel tax agreement under section  43 of this
+2025 Act.
+(4) The authority of  a weighmaster or motor carrier enforcement officer to issue citations or
+arrest under this section is subject to ORS chapter 153.
+(5)(a) A person is a weighmaster for purposes of this section if the person is  a county
+weighmaster or a police officer.
+(b) A person is a  motor carrier enforcement officer under this section if the person is duly au-
+thorized as a motor carrier enforcement officer by the Department of Transportation.
+(6) A weighmaster or motor carrier enforcement officer may accept security in  the same manner
+as a police officer under ORS 810.440 and 810.450 and may  take as security for the offenses, in ad-
+dition to other security permitted under  this section, the sum fixed as the presumptive fine for the
+offense.
+(7) A weighmaster or motor carrier  enforcement officer may arrest a person for the offense of
+failure to appear in a violation proceeding under ORS 153.992 if the  violation is based upon a cita-
+tion for any offense described in subsection (1) or (3) of this  section except those described in sub-
+section (1)(p) of this section.
+(8) A weighmaster or motor carrier enforcement officer may exercise the same authority as a
+police officer under ORS 810.490 to enforce vehicle  requirements and detain vehicles. A person who
+fails to comply with the authority of a weighmaster or motor carrier  enforcement officer under this
+subsection is subject to penalty under ORS 818.400.
+SECTION 41.
+Sections 42 and 43 of this 2025 Act are added to and made a part of the
+Oregon Vehicle Code.
+SECTION 42. “Dyed diesel” has the meaning given that term in ORS 319.520.
+SECTION 43. (1) A person commits the offense of failure to comply with an international
+fuel tax agreement if the  person is required to comply with the requirements of an interna-
+tional fuel tax agreement  entered into under ORS 825.555 or any rule adopted by the De-
+partment of Transportation under ORS 825.555, and the person fails to comply.
+(2) The offense described  under this section, failure to comply with an international fuel
+tax agreement, is a Class A traffic violation.
+NOTE: Section 44 was deleted. Subsequent sections were not renumbered.
+SECTION 45.  ORS 319.520 is amended to read:
+319.520. As used in ORS 319.510 to 319.880, unless the context clearly indicates  a different
+meaning:
+(1) “Cardlock card” means a fuel card:
+(a) Capable of generating an electronic invoice or electronic statement that includes the infor-
+mation required by ORS 319.671 and the applicable fuel tax amount;
+(b) Issued for a specific vehicle, a specific piece of equipment or a group of equipment;
+(c) That includes the qualifying information, as  designated by the Department of Transportation
+by rule, that is printed on the electronic invoice or electronic statement;
+(d) That allows the tax status of the cardlock card to be indicated  on the electronic invoice or
+electronic statement and includes state tax as a separate item on the invoice or statement; and
+(e) That allows a cardlock card issuer to generate a statement recording, by fuel type, gallons
+of fuel purchased for domestic and foreign customers each month.
+(2) “Combined weight” means the total empty weight of  all vehicles in a combination plus the
+total weight of the load carried on that combination of vehicles.
+(3) “Delinquent” means having failed to pay a tax or penalty within the time provided by law.
+(4) “Department” means the Department of Transportation.
+(5) “Diesel” and “diesel fuel” have the meanings given those terms in ORS 319.010.
+[(5)] (6) “Domestic customer” means a customer making a purchase  at a nonretail facility owned
+by the cardlock card issuer.
+(7) “Dyed diesel” means diesel fuel that  is dyed a color and meets the dyeing and marking
+requirements of the Internal Revenue Service.
+[(6)] (8) “Foreign customer”  means a customer making a purchase at a nonretail facility owned
+by a seller other than the cardlock card issuer.
+[(7)] (9) “Fuel” means any combustible gas, liquid or material of a kind used for  the generation
+of power to propel a motor vehicle  on the highways except motor vehicle fuel as defined in ORS
+319.010.
+[(8)] (10) “Highway” means every way, thoroughfare and place, of whatever nature, open to  the
+use of the public for the purpose of vehicular travel.
+[(9)] (11) “Light weight” means the  weight of a vehicle when fully equipped for moving over the
+highway.
+[(10)] (12) “Liquefied petroleum gas” includes propane, pentane and  any mixture of propane and
+pentane.
+[(11)] (13) “Motor vehicle” means every self-propelled vehicle operated  on the highway, except
+an implement of husbandry used in agricultural operations and only incidentally operated  or moved
+upon the highway.
+[(12)] (14) “Nonretail facility” means:
+(a) An unattended facility accessible only by cardlock card  and not associated with a retail fa-
+cility; or
+(b) An unattended portion of a retail facility separate from the  retail operations and accessible
+only by cardlock card.
+[(13)] (15) “Person” means any  individual, firm, copartnership, joint venture, association, corpo-
+ration, trust, receiver or any group or combination acting as a unit.
+[(14)] (16) “Seller” means:
+(a) A person that sells fuel to a user; or
+(b) If the fuel is dispensed at a nonretail facility, the person that  owns the user’s accounts and
+bills the user for fuel purchased at a nonretail facility.
+[(15)] (17) “To sell fuel for use in a motor vehicle” means to dispense or place fuel  for a price
+into a receptacle on a motor vehicle, from which  receptacle the fuel is supplied to propel the motor
+vehicle.
+[(16)] (18) “To use fuel in  a motor vehicle” means to receive into any receptacle on a motor
+vehicle, fuel to be consumed in propelling the motor vehicle on  the highways of this state; and, if
+the fuel is received into the receptacle outside the  taxing jurisdiction of the state, “to use fuel in
+a motor vehicle” means to consume in propelling the motor vehicle on the highways of this state.
+SECTION 46.
+ ORS 319.550 is amended to read:
+319.550. (1) Except as provided in this section,  a person may not use fuel in a motor vehicle in
+this state unless the person holds a valid user’s license.
+(2) A nonresident may use fuel in a motor vehicle not registered in Oregon for a period  not
+exceeding 30 consecutive days without  obtaining a user’s license or the emblem issued under ORS
+319.600, if, for all fuel used in a motor vehicle in this state, the nonresident pays to a seller, at  the
+time of the sale, the tax provided in ORS 319.530.
+(3) A user’s license is not required for a person who uses fuel in a motor vehicle if, for all  fuel
+used in a motor vehicle in this state, the person pays to a seller, at the time of the  sale, the tax
+provided in ORS 319.530.
+(4) A user’s license is not required for a person who is subject to the weight-mile  tax described
+in ORS 825.474 and 825.476 or the flat fee rate described in ORS 825.480.
+(5)(a) A user’s license is not required for a person who uses fuel  [ as described in ORS 319.520
+(7)] in the motor vehicles specified in this subsection if the person pays to a  seller, at the time of
+the sale, the tax provided in ORS 319.530.
+(b) Paragraph (a) of this subsection applies to the following vehicles:
+(A) Motor homes as defined in ORS 801.350.
+(B) Recreational vehicles as defined in ORS 174.101.
+(6) A user’s license is not required for a person who uses fuel in a motor vehicle:
+(a) Metered use  by which is subject to the per-mile road usage charge imposed under ORS
+319.885; and
+(b) That also uses fuels subject to ORS 319.510 to 319.880.
+(7) A user’s license is not required for a person who uses fuel in a motor vehicle on which  an
+emblem issued for the motor vehicle pursuant to ORS 319.535 is displayed.
+SECTION 47.
+Section 48 of this 2025 Act is added  to and made a part of ORS 319.510 to
+319.880.
+SECTION 48.
+(1) A person may operate or maintain a motor vehicle on the highways of
+this state with dyed diesel in the fuel supply tank only if the use is authorized by an agency
+of the United States or the person is eligible for a refund under ORS 267.570 (2) or 319.831.
+(2) A person that owns, operates  or maintains a fuel storage tank or terminal storage
+facility:
+(a) Shall provide markings consistent with those directed by federal law; and
+(b) May not  knowingly store, or cause to be stored, dyed diesel in a fuel storage tank or
+terminal storage facility if the purpose of the tank or facility is to store undyed diesel.
+NOTE:
+ Sections 49 and 50 were deleted. Subsequent sections were not renumbered.
+SECTION 51.  ORS 823.012 is amended to read:
+823.012. (1) If the Director of Transportation determines that an emergency, as defined  in ORS
+401.025, has occurred or is imminent, the director may suspend operation of one or more of the  fol-
+lowing statutes involving  motor carriers for the purpose of expediting the movement of persons or
+property:
+(a) ORS 818.400, compliance with commercial vehicle enforcement  requirements related to com-
+mercial vehicle weight, size, load, conformation or equipment.
+(b) ORS 825.100, certificate or permit  requirement for commercial transportation of persons or
+property.
+(c) ORS  825.104, registration requirement for for-hire or private carrier engaged in interstate
+operations.
+(d) ORS 825.160,  requirement for person operating as motor carrier to have policy of public li-
+ability and property damage insurance.
+(e) ORS 825.162, requirement for person operating as for-hire carrier of freight or  express to
+have cargo insurance.
+(f) ORS 825.250, requirement to stop and submit to an inspection of the  driver, the cargo or the
+vehicle  or  combination of vehicles or an inspection of the fuel supply tank of the vehicle or
+combination of vehicles.
+(g) ORS 825.252, safety regulations for for-hire and private carriers.
+(h) ORS 825.258, rules for transportation of hazardous waste, hazardous material and PCB.
+(i) ORS 825.450, [ weight identifiers ] tax enrollments  issued by Department of Transportation.
+(j) ORS 825.470, temporary pass for single trip or short-time operation of vehicle.
+(k) ORS 825.474, assessment of tax for use of highways.
+(L) ORS 826.031, registration of certain vehicles not already registered with state.
+(m) ORS 319.020 and 319.530 and section 48 of this 2025 Act  related to the payment of
+motor vehicle fuel taxes or the use of dyed diesel on the highways.
+(2) A suspension under this section  may occur prior to a declaration of a state of emergency
+under ORS 401.165, but may not exceed 72 hours unless a state of emergency is declared under  ORS
+401.165. If a state of emergency is declared under  ORS 401.165, the suspension shall last until the
+state of emergency is terminated as provided under ORS 401.204.
+(3) The director may designate by rule a  line of succession of deputy directors or other em-
+ployees of the department who may suspend operations of  statutes under this section in the event
+the director is not available.  Any suspension by a person designated by the director under this
+subsection has the  same force and effect as if issued by the director, except that, if the director can
+be reached, the  suspension must be affirmed by the director when the director is reached. If the
+director does not set aside  a suspension within 24 hours of being reached, the suspension shall be
+considered affirmed by the director.
+SECTION 52.
+ ORS 823.023 is amended to read:
+823.023. (1) The Department of Transportation  or authorized representatives may enter upon any
+premises, or any equipment, rolling stock , motor vehicles  or facilities , operated or occupied  by any
+motor carrier or railroad for the purpose of making  any inspection, examination or test reasonably
+required in the administration of ORS chapters 319, 823, 824, 825 and  826, and to set up and use on
+such premises, equipment, rolling stock , motor vehicles  or facilities any apparatus or appliance and
+occupy reasonable space therefor.
+(2) The department or authorized representatives shall, upon  demand, have the right to inspect
+the motor vehicles,  books, accounts,  papers, records and memoranda of any motor carrier or rail-
+road and to examine under oath any officer, agent or employee of such  motor carrier or railroad in
+relation to its business and affairs.
+(3) Any person who on behalf of the department makes  demand of a motor carrier or railroad
+for an examination, inspection or test shall, upon request therefor, produce a certificate under  the
+seal of the department showing authority to make such examination, inspection or test.
+(4) The department or authorized representatives shall, upon demand,  have the right to enter
+any premises of a business that the department has  reasonable cause to believe tendered for ship-
+ment, by motor or rail, any hazardous  material and to make any examination, inspection or test
+reasonably required to determine compliance with the health and safety  regulations administered
+or enforced by the  department. Any person, who on behalf of the department demands to make an
+examination, inspection or test, shall produce upon request a certificate under the seal of  the de-
+partment showing authority to make the examination, inspection or test.
+(5) Nothing in this  section authorizes the department to use any information developed there-
+under for any purpose inconsistent with any statute governing motor carriers  or railroads and ad-
+ministered by the department or to make a disclosure thereof for other than regulatory purposes.
+SECTION 53.  ORS 823.027 is amended to read:
+823.027. (1)  Every motor carrier and railroad shall furnish to the Department of Transportation
+all information required by the department to carry into effect the provisions of  ORS chapters  319,
+823, 824, 825 and 826 and shall make specific answers to  all questions submitted by the department.
+(2) If a motor carrier  or railroad is unable to furnish any information required under subsection
+(1) of this section for any reason beyond its control, it is a good  and sufficient reason for such
+failure. The answer or information shall be verified under oath  and returned to the department at
+the department’s office within the period fixed by the department.
+SECTION 54.  ORS 823.085 is amended to read:
+823.085. (1) Any motor  carrier or railroad that does, or causes or permits to be done, any matter,
+act or thing prohibited by ORS chapters 319, 823, 824, 825 and 826, or  omits to do any act, matter
+or thing required to be done by ORS chapters 319, 823, 824, 825 and 826, is liable to  the person in-
+jured thereby in the amount  of damages sustained in consequence of such violation. If the party
+seeking damages alleges  and proves that the wrong or omission was the result of gross negligence
+or willful misconduct, the motor carrier or railroad is liable to the person injured thereby  in treble
+the amount of damages sustained  in consequence of the violation. The court may award reasonable
+attorney fees to the prevailing party in an action under this section.
+(2) Any recovery under this section does not affect recovery  by the state of the penalty, forfei-
+ture or fine prescribed for such violation.
+(3) This section does not apply with respect to the liability of any motor carrier or  railroad for
+personal injury or property damage.
+SECTION 55.
+ ORS 825.005 is amended to read:
+825.005. As used in this chapter:
+(1) “Carrier” or “motor carrier” means for-hire carrier or private carrier.
+(2) “Cartage carrier” means any person who undertakes to transport any class  of property by
+motor vehicle  for compensation when the transportation is performed wholly within an incorporated
+city or a commercial zone adjacent to an incorporated city.
+(3) “Certificate” means an authority issued to a for-hire carrier under ORS 825.110.
+(4) “Combined weight” means the [ weight of the motor vehicle plus  the weight of the maximum
+load which the applicant  has declared such vehicle will carry ] total empty weight of all vehicles
+in a combination plus  the total weight of the load carried on that combination of vehicles
+as listed in the vehicle registration for the time period shown on the registration document .
+Any declared combined weight is subject to audit and approval by the Department of Transporta-
+tion.
+(5) “Department” means the Department of Transportation.
+(6) “Electric vehicle” means a motor  vehicle that uses electricity as its only source of
+motive power.
+[(6)] (7) “Extreme  miles” or “extreme mileage” means the total miles operated by a vehicle over
+the public highways, except  the extra miles necessarily operated in traversing detours or temporary
+routes on account of road blockades in the state.
+[(7)] (8) “For-hire carrier” means:
+(a) Any person who transports persons or property for hire or who  publicly purports to be
+willing to transport persons or property for hire by motor vehicle; or
+(b) Any person who leases, rents or otherwise provides a motor vehicle to the  public and who
+in connection therewith in the regular course of business provides,  procures or arranges for, di-
+rectly, indirectly or by course of dealing, a driver or operator therefor.
+[(8)] (9) “Household  goods” means the personal effects or other property used or to be used in
+a dwelling but does not include property transported from a store or factory or property exclusively
+for office use.
+[(9)] (10) “Motor vehicle” means any self-propelled vehicle and any such vehicle in  combination
+with any  trailing units, used or physically capable of being used upon any public highway in this
+state in the transportation of persons or property, except vehicles operating wholly on fixed  rails
+or tracks and electric  trolley buses. “Motor vehicle” includes overdimension vehicles or vehicles
+permitted excessive weights pursuant to a special authorization issued by a  city, county or the De-
+partment of Transportation.
+[(10)] (11) “Permit” means an authority issued to a carrier under ORS 825.102, 825.104, 825.106,
+825.108 or 825.127.
+[(11)] (12)  “Private carrier” means any person  who operates a motor vehicle over the public
+highways of this state for the purpose  of transporting persons or property when the transportation
+is incidental to a primary business enterprise, other  than transportation, in which such person is
+engaged.
+[(12)] (13) “Privilege taxes” means the weight-mile tax and fees prescribed in this chapter.
+[(13)] (14) “Property” includes, but is not  limited to, permanent loads such as equipment, appli-
+ances, devices, or ballast that are attached to, carried on, or made a  part of the vehicle and that
+are designed to serve some functional purpose.
+[(14)] (15) “Public highway”  means every street, alley, road, highway and thoroughfare in this
+state used by the public or dedicated or appropriated to public use.
+[(15)] (16) “Transit-type motor vehicle” means any passenger-carrying  vehicle that does not have
+a separate space for transporting baggage or express.
+[(16)] (17) “Transporter” has the meaning given that term in ORS 466.005.
+SECTION 56.
+Section 57 of this  2025 Act is added to and made a part of ORS chapter 825.
+SECTION 57. (1) Before operating a motor vehicle on  the public highways of this state,
+an out-of-state motor  carrier not licensed under an international fuel tax agreement shall
+obtain a  valid fuel trip permit from the Department of Transportation in accordance with
+this section.  A motor carrier shall obtain a fuel trip permit under this section if the motor
+carrier:
+(a) Is operating a motor vehicle with a combined weight of  more than 26,000 pounds or
+more or a motor vehicle with three or  more axles, regardless of weight, on the public high-
+ways of this state; and
+(b) The vehicle is not registered under ORS 826.009 or 826.031.
+(2) This section does not apply to a motor carrier who  has a valid international fuel tax
+agreement license issued by a jurisdiction other than Oregon.
+(3) The  Department of Transportation shall develop a standardized application form for
+a fuel trip permit issued under this section.
+(4) The department may not issue more  than three fuel trip permits in a calendar year
+for any one motor vehicle.
+(5) No report of mileage is required for the motor  vehicle to which the fuel trip permit
+relates.
+(6) A fuel trip permit issued under this section is valid:
+(a) For three consecutive days  beginning and ending on the dates specified on the face
+of the fuel trip permit; and
+(b) Only for the motor vehicle for which the fuel trip permit was issued.
+(7) The fee for each fuel trip permit is $
+.
+(8) The department may adopt rules to carry out the provisions of this section.
+SECTION 58.
+ ORS 825.326 is amended to read:
+825.326. (1) Except as provided in subsection  (2) of this section, all fees, taxes, charges and other
+sums collected by the Department of  Transportation or from International Fuel Tax Agreement
+member jurisdictions under this chapter shall be paid into the State Treasury  and shall be placed
+to the credit of an  account, separate and distinct from the General Fund, to be known as the Motor
+Carrier Account. Interest earned by the account shall be credited to the account.
+(2) Notwithstanding  ORS 823.991, all fees collected under ORS 825.247 and all penalties collected
+under ORS 825.950  for offering to transport or transporting household goods without a certificate
+shall be paid into the State Treasury and shall be placed  to the credit of an account, separate and
+distinct from the General Fund,  to be known as the Consumer Protection Household Moves Account.
+Interest earned by the account shall be credited to the account. Moneys in  the account are con-
+tinuously appropriated to the department for purposes specified in subsection (5) of this section.
+(3) The  department may purchase the necessary supplies and equipment and provide for all
+necessary and incidental expenses incurred by the department in administering and enforcing  this
+chapter.
+(4) All claims, duly approved by the department, that have been  incurred in pursuance of law,
+shall be paid by warrants drawn in the manner provided by law, payable out of  the Motor Carrier
+Account or the Consumer Protection Household Moves Account.
+(5) Moneys in the Consumer Protection  Household Moves Account shall be used by the depart-
+ment exclusively for administration and  enforcement of provisions of this chapter relating to persons
+that offer to provide or provide transportation of household goods without a certificate.
+SECTION 59.
+ ORS 825.104 is amended to read:
+825.104. An interstate for-hire carrier or private carrier required  to obtain a United States De-
+partment of Transportation registration number engaged or to engage in interstate  operations may
+not perform transportation services on the public highways of this state without having first :
+(1) Complied with federal registration and financial responsibility requirements ; and
+(2) Obtained a certificate or permit for the remittance of privilege  taxes as required un-
+der 825.100 or a temporary pass under ORS 825.470 .
+SECTION 60.  ORS 825.141 is amended to read:
+825.141. In  addition to any other requirements of this chapter, a carrier whose operating au-
+thority  or permit has been suspended  shall pay a reinstatement fee of $25 to the Department of
+Transportation before the operating authority may be  reinstated[ , plus $5 for each vehicle issued a
+weight identifier under ORS 825.450, ] and shall demonstrate operational activity at the time of
+reinstatement.
+SECTION 61.  ORS 825.450 is amended to read:
+825.450. (1) [ Upon application by  a carrier, ] The Department of Transportation may [ issue a
+weight identifier ] utilize a motor carrier’s registration card  as the tax enrollment document
+for each eligible vehicle the carrier enrolls with the department[ , which ]. The tax enrollment
+document must state the combined weight of the vehicle or combination of vehicles. [ The depart-
+ment shall  record each weight identifier electronically. ] This subsection does not apply to vehicles is-
+sued a temporary pass under ORS 825.470.
+(2) A person may not load any motor vehicle in excess of  the combined weight stated on the
+[weight identifier issued ] tax enrollment document  for that  motor vehicle under subsection (1) of
+this section.
+(3) [ Weight identifiers issued ] Tax enrollments  under this section are valid [ from the first day
+of any calendar quarter to the last day of the fourth consecutive  calendar quarter. Each carrier may
+select the calendar quarter in which the period will begin  except that, if necessary for administrative
+convenience, the department may require a carrier to adopt a starting date chosen by  the department ]
+based on the dates shown on the  motor vehicle’s registration card, as issued by the juris-
+diction in which the vehicle is registered .
+[(4) All vehicles operating under the carrier’s authority shall have the same four-quarter period of
+weight identifier  validity. The department may allow a carrier to operate with expired weight identifiers
+for up to one extra  quarter if the renewal application has been submitted. The extension of time allowed
+by this subsection shall be granted only if the department determines that the extension is necessary
+for the administrative convenience of the department. ]
+[(5)] (4) The department may adopt rules necessary to administer the provisions of this section.
+SECTION 62.
+ ORS 825.492 is amended to read:
+825.492. [ (1) Whenever in the judgment of the Department of Transportation the estimated annual
+tax payable by a carrier will be  less than $100, and the vehicles operated by the carrier are of less than
+30,000 pounds combined weight, the department may authorize the carrier to file reports  annually in
+lieu of monthly  reports required by ORS 825.490 and 825.515. Annual reports and accompanying re-
+mittances shall be filed on or before the due date of February 28 for the preceding calendar year. ]
+[(2)] (1) At the request of a  motor carrier, the Department  of Transportation may authorize the
+carrier to file quarterly reports in lieu of  monthly reports required by ORS 825.490 and 825.515.
+Quarterly reports and accompanying remittances due shall be filed on or  before the due date as
+follows: First calendar quarter,  May 31; second quarter, August 31; third quarter, November 30;
+fourth quarter, February 28.
+[(3)] (2)  Such authorizations may be withdrawn at any time upon the mailing of notice  to the
+carrier at the last address of record of the carrier with the  department. Any provisions of ORS
+825.490 and 825.515 otherwise applicable to reports and remittances shall be applicable to reports
+and remittances under this section.
+SECTION 63.
+ ORS 319.665 is amended to read:
+319.665. (1)  The seller of fuel for use in a motor vehicle shall collect the tax provided by ORS
+319.530 at the time the fuel is sold, unless one of the following situations applies:
+(a) The Department of Transportation has issued for the vehicle  into which the seller delivers
+or places the fuel a [ weight identifier ] tax enrollment document  under ORS 825.450 or a valid
+user’s emblem under ORS 319.600.
+(b) The fuel is dispensed at a nonretail facility, in which case the seller shall collect any  tax
+owed at the same time the seller collects the purchase price from the person to whom the fuel was
+dispensed at the nonretail facility. A seller is not required to collect the tax under this paragraph
+from a person who certifies to the seller that the use of the fuel is exempt from  the tax imposed
+under ORS 319.530.
+(c) A cardlock card is used for purchase of the fuel at an attended  portion of a retail facility
+equipped with a cardlock card reader, in which case the cardlock card issuer  licensed in this state
+is responsible for collecting and remitting  the tax unless the person making the purchase certifies
+to the seller that the use of the fuel is exempt from the tax imposed under ORS 319.530.
+(2) If a cardlock card is used for purchase of fuel  at an attended portion of a retail facility
+equipped with a cardlock card reader,  the seller at the retail facility may deduct fuel purchases
+made with a cardlock card from  the seller’s retail transactions if the seller provides the department
+with the following information:
+(a) A monthly  statement from a cardlock card issuer that details the cardlock card purchases
+at the retail facility; and
+(b) A listing of cardlock card issuers and gallons of fuel purchased at  the retail facility by the
+issuers’ customers.
+(3) The department shall supply each seller of fuel for use in  a motor vehicle with a chart which
+sets forth the tax imposed on given quantities of fuel.
+SECTION 64.
+ ORS 825.250 is amended to read:
+825.250. (1) An authorized representative of the  Department of Transportation may require a
+person driving a vehicle or combination of vehicles  subject to regulation by the department on a
+street or highway to stop and submit to an inspection of the driver, the cargo or the vehicle or
+combination of vehicles at  any location where representatives of the department are conducting
+tests and inspections when signs are displayed requiring such stop.
+(2) An authorized representative of the department may require a person driving a vehi-
+cle or combination of vehicles subject to regulation by the department on a street or highway
+to stop and submit to an inspection of the fuel  supply tank of the vehicle or combination of
+vehicles at any location where  representatives of the department are conducting tests and
+inspections when signs are displayed requiring such stop.
+[(2)] (3)  As used in this section, “authorized representative” means a  city, county or state em-
+ployee who has been trained and certified by the  department as a commercial vehicle inspector and
+who is employed either by the  department or by an agency that has an agreement with the depart-
+ment to provide inspections of commercial vehicles, drivers, general cargo or hazardous materials.
+SECTION 65.
+ ORS 825.990 is amended to read:
+825.990. (1) Except as otherwise provided in subsection  (2)  or (5)  of this section, every person
+who violates or  procures, aids or abets violation of this chapter and any person who refuses or fails
+to obey any order, decision or  rule, made under or pursuant to this chapter commits a Class A
+traffic violation.
+(2) Knowingly  violating an out-of-service notice issued under authority of the Department of
+Transportation is a Class A misdemeanor.
+(3) A person is subject to the penalties under  subsection (4) of this section if the person know-
+ingly:
+(a) Transports any hazardous waste listed under ORS 466.005 or rules adopted  thereunder to a
+facility that does not have appropriate authority to receive the waste  under ORS 466.005 to 466.385
+and 466.992.
+(b) Disposes of any  hazardous waste listed under ORS 466.005 or rules adopted thereunder
+without appropriate authority under ORS 466.005 to 466.385 and 466.992.
+(c) Materially violates terms of any permit or authority issued to the  person under this chapter
+or ORS 466.005 to 466.385 and 466.992 in the transporting or disposing of hazardous waste.
+(d) Makes any false material statement or representation in any application, label, manifest, re-
+cord, report, permit or other document filed, maintained or used for purposes  of compliance with
+requirements under this chapter for the safe transportation of hazardous wastes.
+(e) Fails to include material information required under rules of  the Department of Transporta-
+tion in  any application for any permit or authority to transport hazardous waste under this chapter.
+(f) Violates any rules  adopted by the Department of Transportation concerning the transporta-
+tion of hazardous wastes.
+(4) Subject to ORS 153.022, violation of subsection (3) of this section is a Class B misdemeanor.
+(5) Violating ORS 825.250 (2) is a Class B misdemeanor.
+SECTION 66.
+ ORS 818.400 is amended to read:
+818.400. (1) A person commits the offense of failure to comply with  commercial vehicle enforce-
+ment requirements if the person is driving a vehicle  or combination of vehicles and the person does
+not comply with any of the following or if the  person is the owner of a vehicle or combination of
+vehicles and the person causes or permits the  vehicle or combination not to comply with any of the
+following:
+(a) A vehicle or combination of vehicles must stop and submit  to any enforcement of commercial
+vehicle weight, size,  load, conformation or equipment regulation when directed to do so by an
+“OPEN” sign displayed at a permanently established truck scale.
+(b) A vehicle or combination of vehicles must stop and submit  to any enforcement of commercial
+vehicle weight, size, load, dyed diesel use,  conformation  or equipment regulation when directed to
+do so by any sign or signal displayed or given by  a police officer, motor carrier enforcement officer
+or weighmaster acting in accordance with authority granted under ORS 810.490.
+(c) A vehicle or combination of vehicles must move into the right lane for  purposes of a weight
+or size check when instructed to do so by a  sign indicating the presence of a weigh-in-motion scale.
+(d) The directions of any police officer, motor  carrier enforcement officer or weighmaster that
+are given in accordance with authority granted under ORS 810.490 or 810.530 must be complied with.
+(2) The requirement of subsection (1)(a) of this section does not apply to:
+(a) An empty combination of a log  truck and pole trailer if the pole trailer is bunked on the log
+truck and there is no other load; or
+(b) A vehicle or combination of vehicles if:
+(A) The normal route of the  vehicle or combination of vehicles requires turning off the highway
+after passing the “OPEN” sign but before reaching the scale; and
+(B) The vehicle or combination of vehicles is  en route to a terminal or other legitimate business.
+(3) Operation of any vehicle or combination of vehicles in violation of this section  is prima facie
+evidence that the owner of such vehicle or combination  caused or permitted it to be so operated and
+the owner shall be liable for any penalties imposed under this section.
+(4) The offense described in this  section, failure to comply with commercial vehicle enforcement
+requirements, is a Class  B misdemeanor. The penalty provided under this subsection is in addition
+to any penalty provided for violation of any  prohibition relating to vehicle weight, size, load, con-
+formation or equipment.
+SECTION 67.
+ORS 825.486 is repealed.
+SECTION 68. Sections 39, 42, 43, 48 and 57 of  this 2025 Act and the amendments to ORS
+295.103, 319.010, 319.390, 319.520, 319.550, 319.665, 810.530,  818.400, 823.012, 823.023, 823.027,
+823.085, 825.005, 825.104, 825.141, 825.250, 825.326, 825.450,  825.492, 825.555 and 825.990 by
+sections 34 to 37, 40, 45, 46, 51 to 55 and 58 to 66 of this 2025 Act and the repeal of ORS 825.486
+by section 67 of this 2025 Act become operative on July 1, 2028.
+MAJOR PROJECTS
+SECTION 69. (1) As used in this section and section 71 of this 2025 Act:
+(a) “Highway” has the meaning given that term in ORS 366.005.
+(b) “Major project” means any highway project that costs at least $99  million to com-
+plete.
+(2) The Office of Major Projects is created within the Department of Transportation.
+(3) The  Director of Transportation shall assign employees of the department to work in
+the office. Employees must include personnel that have expertise in alternative  contracting
+methods described under ORS 279C.335.
+(4) The office shall:
+(a) Oversee the project management of no more than five major projects selected  by the
+director at one time; and
+(b) Submit quarterly reports on the status of each major project to the Major Project
+Advisory Council established under section 71 of this 2025 Act.
+(5) If the director must choose among more than five major projects  for the office to
+oversee, the director shall submit a  report to the Joint Committee on Transportation, in the
+manner provided in ORS 192.245.  The report must include information about the director’s
+reasoning behind why the director has chosen certain major projects for the office to manage
+among all the major projects available at the time of selection.
+SECTION 70.
+ ORS 184.661 is amended to read:
+184.661. (1) The Oregon Transportation Commission, through the Department of  Transportation,
+shall develop a website.
+(2) The website must include:
+(a) A list of  all transportation projects in the Statewide Transportation Improvement Program
+and for each project the website must include:
+(A) A description of the project and the project benefits;
+(B) The estimated cost and estimated completion date;
+(C) Updated information about the projects as they proceed,  including the actual amount spent
+to date on the project; and
+(D) After a project is completed, updated information, including the amount  a project is under
+or over the original estimated cost and whether a project was completed  by the original estimated
+completion date.
+(b) Information on the reports required under ORS 366.774  and 366.790 for all cities with a
+population of 5,000 or greater and all counties in the state,  including the amount of transportation
+funds collected by each county and city  and the source of the funds and the amount of money spent
+on transportation projects by type of expenditure as listed in ORS 366.774 (2) and 366.790 (2). This
+information shall be displayed for the most current six-year period.
+(c) Information on the condition of Oregon’s transportation infrastructure, as required under
+ORS 184.657.
+(d) Information about the results the audits performed pursuant to ORS 184.639.
+(e) Links to all available county and city transportation project websites.
+(f) Links to websites about transportation  projects receiving moneys from the Connect Oregon
+Fund.
+(g) For each major project, as defined in section 69 of this 2025 Act, easy-to-understand
+summaries of each major  project’s budget, schedule, current phase and projected completion
+cost and timeline. Visual tools such as graphs  and progress indicators should be used for
+clarity.
+(h) Information about road closures and detours.
+(i) Information about the Major Projects  Advisory Council, established under section 71
+of this 2025 Act, including the council’s agendas and minutes from meetings.
+SECTION 71.
+(1) The Major Projects Advisory Council is established in the  Department
+of Transportation. The council consists of 13 members as follows:
+(a) The chairpersons and vice chairpersons of the Joint Committee on Transportation.
+(b) The Governor shall appoint nine members as follows:
+(i) One member from an association that represents contractors in this state.
+(ii) One member from the American Council of Engineering Companies.
+(iii) One member from the Oregon Transportation Commission.
+(iv) One member from the Association of Oregon Counties.
+(v) The Director of Transportation, or the director’s designee.
+(vi) One member representing the League of Oregon Cities;
+(vii) One member who represents the American Automobile Association;
+(viii) One member who represents the trucking industry; and
+(ix) The manager of the Office of Major Projects.
+(2) The term of office of each member of the council appointed by the  Governor is four
+years, but a member serves at the pleasure of the  Governor. A member is eligible for reap-
+pointment but may not serve more than two consecutive terms. If there is a  vacancy for
+any cause, the Governor shall make  an appointment to become immediately effective for the
+unexpired term.
+(3) Each legislative member  serves at the pleasure of the appointing authority and may
+serve as long as the member  remains in the chamber of the Legislative Assembly from which
+the member was appointed.
+(4) The members of the council shall  select from among themselves a chair person and
+vice chairperson.
+(5) A  majority of the voting members of the council constitutes a quorum for the trans-
+action of business.
+(6) The council shall meet quarterly at the time and place specified by  the chairperson
+or a majority of the members of the council.  The council may meet at other times and places
+as determined by the chairperson or a majority of the members of the council.
+(7) The Department of Transportation shall provide staff support to the council.
+(8)(a) Voting  members of the council may be reimbursed for actual and necessary travel
+and other expenses incurred by the member in the performance of official duties  in the same
+manner and amount as provided by ORS 292.495.
+(b) Members of the council who are members of the Legislative Assembly  are entitled to
+payment of compensation and expenses as provided in ORS 171.072, payable from funds ap-
+propriated to the Legislative Assembly.
+(9) The council shall provide technical guidance to the  Office of Major Projects estab-
+lished in section 69 of this 2025 Act.
+(10) Members of the Legislative Assembly serving on the  council are nonvoting members
+of the council and may act in an advisory capacity only.
+(11) No later than January  30 of each year, the council shall submit a report to the Joint
+Committee on Transportation and  the Legislative Assembly in the manner provided by ORS
+192.245. The report must include, but is not limited to, the following:
+(a) An  assessment of the progress and performance of the Office of Major Projects based
+on the information received during the quarterly  meetings and in quarterly reports described
+in section 69 of this 2025 Act;
+(b) The progress on the highest-rated project  that is not required to be financially con-
+strained, as defined in 23 C.F.R. 450, and that has  not completed the compliance process
+required under the National Environmental Policy Act, 42 U.S.C. 4321 et seq.;
+(c) A cost estimate for completion of  the highest-rated project that is not financially
+constrained, as defined in 23 C.F.R. 450, and has not completed the compliance  process re-
+quired under the National Environmental Policy Act, 42 U.S.C. 4321 et seq.;
+(d) Recommendations for legislation;
+(e) Proposed improvements to the structure and function of the council;
+(f) The ratio of consultant engineers to engineers employed by the department; and
+(g) Total number of claims on highway projects across the state.
+(12) In accordance with the provisions of ORS  chapter 183, the council may adopt rules
+necessary for the administration of the laws that the council is charged with administering.
+DISPUTE REVIEW BOARDS
+SECTION 72.
+(1) As used in this section:
+(a) “Dispute review board” means a panel of qualified professionals established  to provide
+recommendations or decisions on disputes arising  during the execution of a highway project.
+(b) “Highway” has the meaning given that term in ORS 366.005.
+(c) “Highway project” means a highway projects that costs at least $5 million to com-
+plete.
+(2) Notwithstanding any other provision of law,  the Department of Transportation shall
+include in its contract documents for a highway project the establishment of a dispute review
+board to provide an alternative dispute  resolution process to be attempted prior to the ini-
+tiation of litigation if a dispute arises in the course of completing a highway project.
+(3) The department shall maintain a list of prequalified candidates to  serve on a dispute
+review board. To be eligible, candidates must  meet criteria outlined in the dispute resolution
+procedures created by the department.
+(4) Each dispute review board shall consist of three members selected  from the prequal-
+ified list. One member shall be selected by the department, one member shall be selected by
+the contractor and the third member shall be jointly selected by the department and  the
+contractor. If the parties cannot agree on  a third member, the remaining member shall be
+selected through a defined dispute resolution procedure established by the department.
+(5) Each dispute review board shall hold  regular meetings during the construction period
+to stay informed of the project’s progress.
+(6) When a  dispute arises, the dispute review board shall convene a hearing, review the
+facts and issue a written recommendation within 30 days of the date of the hearing.
+(7) Recommendations of the dispute review board are nonbinding  unless the contract
+specifies otherwise.
+(8) Parties are encouraged  to accept the dispute review board’s recommendations to
+avoid litigation.
+(9) Any communication made by a participant in  a dispute review board session subject
+to this section, and any oral  or written information conveyed in a dispute review board ses-
+sion subject to this section,  is not admissible in any judicial proceeding, administrative pro-
+ceeding, arbitration proceeding or other adjudicatory proceeding. Communications and
+information made confidential under this section may not be disclosed  by the participants in
+any judicial proceeding, administrative proceeding, arbitration proceeding or other
+adjudicatory proceeding. The limitations on disclosure imposed by this subsection include
+disclosure during any discovery conducted as part of an adjudicatory proceeding.
+(10) The department shall:
+(a) Maintain a list of qualified dispute review board members.
+(b) Establish procedures and training requirements for dispute review board operation.
+(c) Monitor the effectiveness of the dispute review boards  and report annually to the
+Joint Committee on Transportation.
+(11) The department may charge  fees in an amount necessary to cover the cost of dispute
+review board member training and administration.
+(12) The department shall adopt rules to carry out the provisions of this section.
+SECTION 73.
+Section 72 of this 2025 Act applies to contracts entered into or renewed on
+or after the effective date of this 2025 Act.
+CAPTIONS
+SECTION 74.
+The unit captions used in this 2025 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 184.642, ORS 184.661, ORS 184.751, ORS 184.758, ORS 184.766, ORS 200.180, ORS 200.190, ORS 279A.142, ORS 279C.335, ORS 295.103, ORS 319.010, ORS 319.390, ORS 319.520, ORS 319.550, ORS 319.665, ORS 320.435, ORS 320.440, ORS 320.560, ORS 366.505, ORS 366.506, ORS 366.514, ORS 366.552, ORS 366.774, ORS 366.790, ORS 367.081, ORS 367.091, ORS 468A.266, ORS 802.100, ORS 802.110, ORS 805.205, ORS 805.222, ORS 810.530, ORS 818.400, ORS 823.012, ORS 823.023, ORS 823.027, ORS 823.085, ORS 825.005, ORS 825.104, ORS 825.141, ORS 825.250, ORS 825.326, ORS 825.450, ORS 825.474, ORS 825.476, ORS 825.486, ORS 825.492, ORS 825.555, ORS 825.990
+- From bill text (Introduced version): ORS 153.022, ORS 153.992, ORS 171.072, ORS 174.101, ORS 174.109, ORS 184.639, ORS 184.642, ORS 184.643, ORS 184.657, ORS 184.661, ORS 184.751, ORS 184.758, ORS 184.761, ORS 184.766, ORS 184.906, ORS 190.510, ORS 192.245, ORS 200.035, ORS 200.055, ORS 200.180, ORS 200.190, ORS 267.570, ORS 279.835, ORS 279A.015, ORS 279A.050, ORS 279A.065, ORS 279A.142, ORS 279C.335, ORS 279C.355, ORS 279C.412, ORS 279C.414, ORS 291.040, ORS 292.495, ORS 293.445, ORS 293.701, ORS 295.001, ORS 295.103, ORS 319.010, ORS 319.020, ORS 319.280, ORS 319.290, ORS 319.375, ORS 319.390, ORS 319.410, ORS 319.415, ORS 319.417, ORS 319.510, ORS 319.520, ORS 319.530, ORS 319.535, ORS 319.550, ORS 319.600, ORS 319.665, ORS 319.671, ORS 319.820, ORS 319.831, ORS 319.885, ORS 320.405, ORS 320.410, ORS 320.415, ORS 320.435, ORS 320.440, ORS 320.550, ORS 320.560, ORS 323.455, ORS 336.795, ORS 336.800, ORS 336.805, ORS 336.810, ORS 336.815, ORS 366.005, ORS 366.505, ORS 366.506, ORS 366.514, ORS 366.550, ORS 366.551, ORS 366.552, ORS 366.762, ORS 366.774, ORS 366.785, ORS 366.790, ORS 367.080, ORS 367.081, ORS 367.091, ORS 367.093, ORS 367.605, ORS 367.615, ORS 374.302, ORS 390.950, ORS 401.025, ORS 401.165, ORS 401.204, ORS 407.135, ORS 407.145, ORS 466.005, ORS 468.449, ORS 468A.265, ORS 468A.266, ORS 646.910, ORS 801.041, ORS 801.042, ORS 801.237, ORS 801.350, ORS 802.100, ORS 802.110, ORS 802.120, ORS 802.320, ORS 803.300, ORS 803.315, ORS 803.420, ORS 803.440, ORS 803.455, ORS 803.505, ORS 803.535, ORS 803.540, ORS 803.550, ORS 803.560, ORS 805.205, ORS 805.207, ORS 805.222, ORS 805.240, ORS 807.010, ORS 807.040, ORS 807.150, ORS 807.170, ORS 807.370, ORS 807.410, ORS 810.170, ORS 810.410, ORS 810.440, ORS 810.450, ORS 810.490, ORS 810.530, ORS 811.175, ORS 811.590, ORS 811.595, ORS 815.140, ORS 815.142, ORS 815.155, ORS 815.160, ORS 815.170, ORS 815.185, ORS 818.020, ORS 818.040, ORS 818.060, ORS 818.090, ORS 818.110, ORS 818.130, ORS 818.160, ORS 818.200, ORS 818.225, ORS 818.300, ORS 818.320, ORS 818.340, ORS 818.350, ORS 818.400, ORS 821.060, ORS 821.100, ORS 821.160, ORS 822.009, ORS 822.700, ORS 822.705, ORS 823.012, ORS 823.023, ORS 823.027, ORS 823.085, ORS 823.991, ORS 825.005, ORS 825.100, ORS 825.102, ORS 825.104, ORS 825.106, ORS 825.108, ORS 825.110, ORS 825.141, ORS 825.160, ORS 825.162, ORS 825.247, ORS 825.250, ORS 825.252, ORS 825.258, ORS 825.320, ORS 825.326, ORS 825.402, ORS 825.450, ORS 825.470, ORS 825.474, ORS 825.476, ORS 825.480, ORS 825.486, ORS 825.490, ORS 825.492, ORS 825.506, ORS 825.515, ORS 825.555, ORS 825.950, ORS 825.990, ORS 826.007, ORS 826.009, ORS 826.031, ORS 835.017
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `ec85ef3e83194757f5638027029e0fa397532f8aeb34bd034c7e66c543b49ee0` (snapshot `_meta/snapshots/measure-2025r1-hb3982-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3982/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3982> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

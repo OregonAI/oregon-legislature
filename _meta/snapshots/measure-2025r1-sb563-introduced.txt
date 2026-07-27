@@ -1,0 +1,151 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 563
+Sponsored by Senator ANDERSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes a new tax subtraction for banks that loan for  rural farms, houses or
+boats. (Flesch Readability Score: 72.3).
+Creates Oregon tax subtraction for interest received by  financial institutions from loans made
+for purchase or improvement of agricultural real estate, rural residences and coastal fishing boats.
+Applies to tax years beginning on or after January 1, 2026, and before January 1, 2032.
+Exempts from commercial activity subject  to corporate activity tax interest received by finan-
+cial institutions from loans made for purchase or improvement of agricultural  real estate, rural
+residences and coastal fishing boats.
+Applies to tax years beginning on or after January 1, 2026, and before January 1, 2032.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to tax incentives for financial institution lending in rural areas; and  prescribing an effec-
+tive date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 and 3 of this 2025 Act are added to  and made a part of ORS
+chapter 317.
+SECTION 2. As used in this section and section 3 of this 2025 Act:
+(1) “Coastal fishing boat” means a commercial fishing vessel that holds  a valid boat li-
+cense issued under ORS 508.260 and a permit issued under ORS chapter 508 or under the laws
+of the State of Washington or California that is valid for operation in the ocean fishery.
+(2) “Farm products” has the meaning given that term in ORS 576.006.
+(3) “Financial institution” has the meaning given that term in ORS 314.610.
+(4) “Interest” means interest on indebtedness attributed to Oregon and incurred  in the
+ordinary course of  the active conduct of any business or interest on indebtedness incurred
+that is secured by a single family residence.
+(5) “Qualified agricultural real estate loan” means  a loan made on real property that is
+substantially used for the production of one or more farm products and that:
+(a) Has a maturity of not less than five years and not more than 40 years;
+(b) Is  secured by a first lien interest in real estate, except that the loans may be secured
+by a second lien interest if the financial institution also holds the first lien  on the property;
+and
+(c) Has an outstanding loan  balance when made that is less than 85 percent of the ap-
+praised value of the  real estate, except that a loan for which private mortgage insurance is
+obtained may  exceed 85 percent of the appraised value of the real estate to the extent the
+loan amount in excess of 85 percent is covered by the insurance.
+(6) “Qualified coastal fishing boat loan” means  a loan for the purchase or improvement
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1058
+SB 563
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+of a coastal fishing boat that has an  outstanding loan balance when made that is less than
+85 percent of the appraised value of the coastal  fishing boat and is made to an Oregon resi-
+dent.
+(7) “Qualified net interest income” means total net interest received from:
+(a) Qualified agricultural real estate loans;
+(b) Qualified coastal fishing boat loans; and
+(c) Qualified single family residence loans.
+(8) “Qualified  single family residence loan” means a loan secured by a single family resi-
+dence that is substantially used for the purchase or improvement of the residence.
+(9) “Single family residence” means a residence that:
+(a) Is the principal residence of its occupant;
+(b) Is located in Oregon:
+(A) In a rural area as defined by the United States Department of  Agriculture that is not
+within a metropolitan statistical area; or
+(B) In a city that has a population of fewer than 2,500 inhabitants according  to the most
+recent federal decennial census; and
+(c) Is purchased or improved with the proceeds of a loan made  by a financial institution.
+SECTION 3.
+To derive Oregon taxable income, there shall  be subtracted from federal
+taxable income that amount of interest income received by  a financial institution that is
+determined by taking the ratio of  the qualified net interest income received by the financial
+institution over the total interest income  earned by the financial institution, multiplied by
+the total net income of the financial institution as determined before taking the subtraction
+under this section.
+SECTION 4.
+Sections 2 and 3 of this 2025  Act apply to tax years beginning on or after
+January 1, 2026, and before January 1, 2032.
+SECTION 5. Section 6 of this 2025 Act is added to and made a part of ORS 317A.100 to
+317A.158.
+SECTION 6. (1) The definitions provided by section 2 of this 2025  Act apply to this sec-
+tion.
+(2) Notwithstanding ORS 317A.100, an amount equal  to the amount calculated as a sub-
+traction under section  3 of this 2025 Act is excluded from the definition of commercial ac-
+tivity and is exempt from the tax imposed under ORS 317A.116.
+SECTION 7. Section 6 of this 2025  Act applies to tax years beginning on or after January
+1, 2026, and before January 1, 2032.
+SECTION 8. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

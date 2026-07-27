@@ -1,0 +1,298 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3806
+Sponsored by Representatives LEVY E, HELM, OWENS; Representative KROPF, Senator BROADMAN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act allows an agency  to approve a Deschutes water bank pilot program. The Act
+sunsets the pilot program. (Flesch Readability Score: 63.6).
+Authorizes the Water Resources Commission to approve a Deschutes River water  bank pilot
+program.
+Establishes certain requirements for the pilot program.
+Sunsets the pilot program on January 2, 2034.
+A BILL FOR AN ACT
+Relating to water banks.
+Whereas the Deschutes River supports the cultural, spiritual  and economic needs of tribal
+members whose ancestors have inhabited the watershed since time immemorial; and
+Whereas today the Deschutes River also supports a thriving economy  based on agriculture, re-
+creation and strong communities; and
+Whereas the Deschutes River provides  habitat for fish and wildlife as well as a range of other
+environmental benefits and ecosystem services; and
+Whereas meeting all water needs in the Deschutes River basin is  challenging due to overallo-
+cation, ongoing drought, climate change and other factors; and
+Whereas a voluntary, market-based tool such as a water bank would  allow for management and
+movement of water to increase water supply reliability  for junior irrigation districts, provide cities
+with access to ground water mitigation and restore in-stream flows in the Deschutes  River; now,
+therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Water Resources  Commission may approve a Deschutes River water
+bank pilot program that:
+(a) Is approved by the Confederated Tribes of the Warm Springs.
+(b) Has a water bank charter described in subsection (3) of this section.
+(2) The persons and entities  that are eligible to participate in a water bank described in
+subsection (1) of this section are:
+(a) Water rights holders that divert surface water from the Deschutes  River, including
+irrigation districts.
+(b) The Confederated Tribes of the Warm Springs.
+(c) Cities in central Oregon.
+(d) Franchises, and domestic water supply districts organized under  ORS chapter 264,
+that supply water to cities in central Oregon.
+(e) The Deschutes River Conservancy.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3831
+HB 3806
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) A water bank charter must include:
+(a) A description  of the geographic area for water bank operations, which must be limited
+to the Deschutes River above Lake Billy Chinook;
+(b) Identification of, and signatures from authorized representatives of,  the participants.
+(c) A forbearance agreement that  allows for out-of-priority water use by the participants.
+(d) An agreement that the Deschutes River Conservancy will manage the operations of
+the water bank, in coordination with the participants.
+(e) A requirement that the following be dedicated to in-stream flow:
+(A) Twenty-five percent of the volume of water loaned to the water bank  as a result of
+the fallowing of acres during all or part of an irrigation season, which must be protected by
+an in-stream lease during the irrigation season.
+(B) One hundred percent of the volume of water loaned to the water bank as a  result of
+activities other than the fallowing of acres,  which must be released from the Wickiup Res-
+ervoir and protected by an in-stream lease or flow augmentation  right in the Deschutes
+River during the winter following the loan of the water.
+(C) Any water loaned to the water bank that  is more than the water used, which must
+be protected by an in-stream lease or flow augmentation right.
+(f) A requirement that the participants measure water use and report the measurements
+to the Water Resources Department.
+(g) A requirement that the operations of the water bank may not:
+(A) Injure existing water rights.
+(B) Diminish the flows of state scenic waterways.
+(C) Enlarge existing water rights.
+(h) A description of how water rights will be vetted for inclusion in the water bank.
+(i) A description  of how the participants will manage water use during the irrigation
+season, in coordination with department employees.
+SECTION 2.
+(1) On or before January 1 of each year, for a water bank  approved under
+section 1 of this 2025 Act, the Deschutes  River Conservancy shall submit a proposed annual
+operating plan to the Water Resources Department.
+(2) A water  bank described in section 1 of this 2025 Act may operate only under an annual
+operating plan that is approved on or before March 1 of the year in which  the water bank is
+operating.
+(3) Notwithstanding  any contrary provision of ORS chapter 183, the department shall
+make a proposed annual operating plan available for public comment for 30 days.
+(4) Before approving a proposed annual operating plan, the department shall seek com-
+ments on the proposed annual operating plan  from the State Department of Fish and Wildlife
+and the Confederated Tribes of the Warm Springs.
+(5) A proposed annual operating plan must:
+(a) Include the report described in section 4 (1) of this 2025 Act.
+(b) Describe the following activities:
+(A) How water supply is made available to loan to the water bank  that is subject to the
+annual operating plan.
+(B) How water deposited in the  water bank may be withdrawn from the water bank and
+used.
+(6) In  describing activities pursuant to subsection (5)(b) of this section, an annual oper-
+[2]
+HB 3806
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ating plan must include information sufficient for the department to determine  whether the
+proposed activities will cause injury to, or enlargement of, any existing water rights.
+(7) The participants  in a water bank may loan or withdraw water during an irrigation
+season only as described pursuant to subsection (5)(b) of this section.
+SECTION 3.
+(1) Not less  than 30 days before the start of an irrigation season, a water
+bank approved under section 1 of this 2025 Act  shall submit a report to the relevant
+watermaster of the Water Resources Department that identifies:
+(a) Acres from which  surface water irrigation will be removed to be deposited into the
+water bank,  the associated point of diversion and the amount of water associated with the
+acres and point of diversion, measured in acre feet and cubic feet per second.
+(b) The  primary diversions from which water deposited into the water bank will be
+withdrawn, measured in acre feet and cubic feet per second.
+(c) The amount of water, measured  in acre feet and cubic feet per second, to be dedicated
+to in-stream use as  part of the operations of the water bank during the calendar year and
+the location of the applicable water gage.
+(d) The beneficial uses to which water rights in the water bank are put.
+(e) The anticipated transactions of the water bank.
+(2) The watermaster shall integrate  transactions of a water bank described in subsection
+(1)(e) of this section into management operations for the irrigation season.
+(3) The water bank shall post the report described in subsection (1) of this section on a
+publicly available website of the water bank.
+SECTION 4.
+(1) On or before January 1 of each year, a water bank approved under sec-
+tion 1 of this 2025 Act shall submit a report  to the Water Resources Department that sum-
+marizes the activities of the water  bank during the previous irrigation season and includes
+the report described in section 3 of this 2025 Act.
+(2) The report must describe in-stream flow benefits, including, at a minimum:
+(a) Whether 25 percent of  the volume of water loaned to the water bank was available
+due to the fallowing of acres during all or part of an irrigation season.
+(b) Whether all water loaned to the water bank was available for  reasons other than the
+fallowing of acres.
+(3) After submitting the report,  the water bank shall make all records of water rights
+and monitoring information associated with operations of the water bank  available to the
+department for an assessment, upon the request of the department.
+SECTION 5.
+(1) A water bank approved under section 1 of this 2025 Act may operate  only
+if, during a calendar year, a minimum of  1,500 acre feet of water, from water rights from
+any participants in the water bank, are protected by a lease under ORS 537.348.
+(2) Acre feet of water that  are permanently converted to an in-stream water right under
+ORS 537.348, on or after the effective date of this 2025 Act, by a participant in the water bank
+may count toward the minimum acre feet described in subsection (1) of this section.
+(3) On or before March 1, the participants may agree to increase the acre  feet protected
+by a lease under ORS 537.348 to an amount of acre feet that is  higher than the minimum
+described in subsection (1) of this section.
+(4) A deposit of water into  a water bank approved under this section as a result of
+fallowing acres shall constitute beneficial use for purposes of ORS 540.610.
+(5) If, during an irrigation season, the  Water Resources Department determines, alone
+[3]
+HB 3806
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+or in consultation with the participants, the Confederated Tribes of  the Warm Springs or the
+State Department of Fish and Wildlife, that operations of the water bank are causing  injury
+to or enlarging an existing water right, the department shall:
+(a) Regulate off the operations that are causing the injury or enlargement; and
+(b) Instruct the water bank to pause operations for the  remainder of the irrigation sea-
+son.
+(6) The operations of the water bank may not result in an increase in:
+(a) The use of water within the geographic area of the water bank during a calendar year.
+(b) The diversion of surface water within the geographic area of the water bank.
+(c) The number of acres within  the geographic area of the water bank that are irrigated.
+(7) If the participants in a water bank do not adhere to all applicable requirements, the
+department shall deactivate the water bank.
+(8) A water bank that is deactivated as described in  subsection (7) of this section must
+submit a new charter as described in section 1 of this 2025 Act  and receive approval for the
+new charter before resuming operations.
+SECTION 6.
+Sections 1 to 5 of this 2025 Act are repealed on January 2, 2034.
+[4]

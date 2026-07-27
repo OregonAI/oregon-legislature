@@ -1,0 +1,188 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 495
+Sponsored by Senator SMITH DB (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act repeals rent increase limits near the coast. (Flesch Readability Score: 84.9).
+Exempts residential tenancies within 25 miles of the  coastline from maximum limits on rent in-
+creases.
+A BILL FOR AN ACT
+Relating to residential rent increase limits; creating new provisions;  and amending ORS 90.323 and
+90.600.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 90.323 is amended to read:
+90.323. (1) If a tenancy is a week-to-week tenancy, the landlord may not increase the rent with-
+out giving the tenant written notice  at least seven days prior to the effective date of the rent in-
+crease.
+(2) During any tenancy other than week-to-week, the landlord may not increase the rent:
+(a) During the first year after the tenancy begins.
+(b) At any time after the  first year of the tenancy without giving the tenant written notice at
+least 90 days prior to the effective date of the rent increase.
+(c) More than once in any 12-month period.
+(d) Except as  permitted under subsection (5) of this section, by a percentage greater than the
+maximum calculated under ORS 90.324 (1).
+(3) The notices required under this section must specify:
+(a) The amount of the rent increase;
+(b) The amount of the new rent;
+(c) Facts supporting the exemption authorized by subsection  (5) of this section, if the increase
+is above the amount allowed in subsection (2)(d) of this section; and
+(d) The date on which the increase becomes effective.
+(4) A landlord terminating a tenancy  with a 30-day notice without cause as authorized by ORS
+90.427 (3) or (4) during the first year of a tenancy may not charge rent for the  next tenancy in an
+amount greater than the maximum amount the landlord could have charged the terminated  tenancy
+under this section.
+(5) A landlord is not subject to subsection (2)(d) or (4) of this section if:
+(a) The first certificate of occupancy for  the dwelling unit was issued less than 15 years from
+the date of the notice of the rent increase; [ or]
+(b) The dwelling unit is located within 25 miles of any coastline of this state; or
+[(b)] (c)  The dwelling unit is regulated or certified as affordable housing by a federal, state or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2105
+SB 495
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+local government and the change in rent:
+(A) Does not increase the tenant’s portion of the rent; or
+(B) Is required by program eligibility requirements or by a change in the tenant’s income.
+(6) A landlord that increases rent in violation of subsection (2)(d) or (4) of this section  is liable
+to the tenant in an amount equal to three months’ rent plus actual damages suffered by  the tenant.
+(7) This section does not apply to tenancies governed by ORS 90.505 to 90.850.
+SECTION 2.
+ ORS 90.600 is amended to read:
+90.600. (1) If a rental agreement is a  month-to-month tenancy to which ORS 90.505 to 90.850
+apply, the landlord may not increase the rent:
+(a) Without giving each affected tenant notice in writing  at least 90 days prior to the effective
+date of the rent increase;
+(b) More than once in any 12-month period; or
+(c) By a percentage greater than the maximum calculated under ORS 90.324 (1).
+(2) The written notice required by subsection (1)(a) of this section must specify:
+(a) The amount of the rent increase;
+(b) The amount of the new rent;
+(c) Facts supporting the exemption authorized by subsection  (3) of this section, if the increase
+is above the amount allowed in subsection (1)(c) of this section; and
+(d) The date on which the increase becomes effective.
+(3) A landlord is not subject to subsection (1)(c) of this section if:
+(a) The first certificate of occupancy for  the dwelling unit was issued less than 15 years from
+the date of the notice of the rent increase; [ or]
+(b) The dwelling unit is located within 25 miles of any coastline of this state; or
+[(b)] (c)  The dwelling unit is regulated or certified as affordable housing by a federal, state or
+local government and the change in rent:
+(A) Does not increase the tenant’s portion of the rent; or
+(B) Is required by program eligibility requirements or by a change in the tenant’s income.
+(4) A landlord that increases rent in violation of subsection (1)(c) of  this section shall be liable
+to the tenant in an amount equal to three months’ rent plus actual damages suffered by  the tenant.
+(5) This section does not create a right to increase rent that does not otherwise exist.
+(6) This section does not require  a landlord to compromise, justify or reduce a rent increase that
+the landlord otherwise is entitled to impose.
+(7) Neither ORS 90.510 (1), requiring a landlord to provide a statement  of policy, nor ORS 90.510
+(4), requiring a landlord to provide a written rental agreement, creates a basis for  tenant challenge
+of a rent increase, judicially or otherwise.
+(8)(a) The tenants who reside in a facility may elect  one committee of seven or fewer members
+in a facility-wide election to represent the tenants. One tenant of record for  each rented space may
+vote in the election. Upon written request from the tenants’ committee,  the landlord or a represen-
+tative of the landlord shall meet with the committee within 10  to 30 days of the request to discuss
+the tenants’ nonrent  concerns regarding the facility. Unless the parties agree otherwise, upon a
+request from the tenants’ committee, a landlord  or representative of the landlord shall meet with the
+tenants’ committee at least once, but not more than twice, each calendar year. The meeting  shall
+be held on the premises if the facility has suitable meeting space for that  purpose, or at a location
+reasonably convenient to the tenants. After the meeting, the tenants’ committee shall send a  written
+summary of the issues and concerns addressed at the meeting to the landlord. The landlord or the
+[2]
+SB 495
+1
+2
+3
+4
+5
+6
+7
+8
+9
+landlord’s representative shall make a good faith response in writing to the  committee’s summary
+within 60 days.
+(b) The tenants’ committee may be entitled to informal dispute resolution  under ORS 90.769 if
+the landlord or landlord’s representative fails to meet with the tenants’ committee or fails to respond
+in good faith to the written summary as required by paragraph (a) of this subsection.
+SECTION 3.
+The amendments to ORS 90.323 and 90.600 by sections 1 and 2 of this 2025
+Act apply to rent increases for which notice is given on or after the effective date of this 2025
+Act.
+[3]

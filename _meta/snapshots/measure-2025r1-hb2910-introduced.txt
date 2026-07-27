@@ -1,0 +1,325 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2910
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would change some laws related to energy and  property taxes. (Flesch Read-
+ability Score: 60.7).
+Authorizes local governments to  adopt additional criteria to encourage energy efficiency and
+energy generation on property granted certain exemptions from ad valorem property taxation.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to energy-related improvements; creating new provisions; amending ORS  307.517, 307.518,
+307.541 and 307.606; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 307.517 is amended to read:
+307.517. (1) Property or  a portion of the property is exempt from taxation as provided under ORS
+307.515 to 307.523 if:
+(a) The property is:
+(A) Offered for rent; or
+(B) Held for the purpose  of developing low income rental housing, for a period not exceeding a
+reasonable maximum period, if any, adopted by the governing body;
+(b) The property, if occupied, is occupied solely by low income persons;
+(c) The required rent payment reflects the full value of the property tax exemption;
+(d) The exemption has been approved  as provided in ORS 307.523, pursuant to an application
+filed before July 1, 2030;
+(e) The housing units on the property were constructed  after the local governing body adopted
+the provisions of ORS 307.515 to 307.523; and
+(f) The information  disclosed on the application filed pursuant to ORS 307.521 meets any other
+criteria adopted by the governing body.
+(2) A governing body that adopts the provisions of ORS  307.515 to 307.523 may adopt additional
+criteria for exemption that  encourage energy efficiency and energy  generation on the property
+provided the criteria  do not conflict with the criteria described  in subsection (1)(a) to (e) of this
+section.
+(3) For the  purposes of subsection (1) of this section, a person that has only a leasehold interest
+in property is deemed to be a purchaser of that property if:
+(a) The  person is obligated under the terms of the lease to pay the ad valorem taxes on the real
+and personal property used in this activity on that property; or
+(b) The rent payable has been established to reflect the  savings resulting from the exemption
+from taxation.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1631
+HB 2910
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 2.
+ ORS 307.518 is amended to read:
+307.518. (1) Property or a portion of property is exempt from taxation as provided under ORS
+307.515 to 307.523 if:
+(a) The property, if unoccupied, is:
+(A) Offered for rental solely as a residence for low income persons; or
+(B) Held for the purpose of developing low income rental housing, for a  period not exceeding a
+reasonable maximum period, if any, adopted by the governing body;
+(b) The property, if occupied, is occupied solely as a residence for low income persons;
+(c) An exemption for the property has been approved as provided  under ORS 307.523, pursuant
+to an application filed before July 1, 2030;
+(d) The property is owned or being  purchased by a nonprofit corporation organized in a manner
+that meets the criteria for a public benefit corporation or a religious corporation, both  terms as
+defined in ORS 65.001;
+(e) The property is owned  or being purchased by a nonprofit corporation that expends no more
+than 10 percent of the nonprofit corporation’s annual  income from residential rentals for purposes
+other than the acquisition, maintenance or repair of residential rental property for low income per-
+sons or for the provision of on-site child care services for the residents of the rental property; and
+(f) The information disclosed on the application filed pursuant to ORS 307.521 meets  any other
+criteria adopted by the governing body.
+(2) A governing body that adopts the provisions of ORS  307.515 to 307.523 may adopt additional
+criteria for exemption that  encourage energy efficiency and energy  generation on the property
+provided the criteria do not conflict with the  criteria described in subsection (1)(a) to (e) of this
+section.
+(3) For the purposes of this  section, a nonprofit corporation that has only a leasehold interest
+in property is considered to be a purchaser of that property if:
+(a) The nonprofit corporation  is obligated under the terms of the lease to pay the ad valorem
+taxes on the real and personal property used in the rental activity on that property; or
+(b) The rent payable has been  established to reflect the savings resulting from the exemption
+from taxation.
+(4) A partnership shall be considered a nonprofit corporation for purposes of this section if:
+(a) A nonprofit corporation is a general partner of the partnership; and
+(b) The nonprofit corporation is responsible for the day-to-day operation  of the property that is
+the subject of the exemption under ORS 307.515 to 307.523.
+SECTION 3.
+ ORS 307.541 is amended to read:
+307.541. (1) Property is exempt from taxation as provided under ORS 307.540 to 307.548 if:
+(a) The property is owned or being purchased by a corporation described in section  501(c)(3) or
+(4) of  the Internal Revenue Code that is exempt from income taxation under section 501(a) of the
+Internal Revenue Code;
+(b) Upon liquidation, the  assets of the corporation are required to be applied first in payment
+of all  outstanding obligations, and the balance remaining, in cash and in kind, to be distributed to
+corporations exempt from taxation and operated exclusively  for religious, charitable, scientific, lit-
+erary or educational purposes or to the State of Oregon;
+(c) The property is:
+(A) Occupied by low income persons; or
+(B) Held for the purpose  of developing low income housing, for a period not exceeding a rea-
+[2]
+HB 2910
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+sonable maximum period, if any, adopted by the governing body;
+(d) The property or portion of the property  receiving the exemption, if occupied, is actually and
+exclusively used for the purposes described in section 501(c)(3) or (4) of the  Internal Revenue Code;
+(e) The exemption has been approved as provided in ORS 307.547; and
+(f) The information disclosed on the application filed pursuant to ORS 307.545 meets  any other
+criteria adopted by the governing body.
+(2) A governing body that adopts the provisions of ORS  307.540 to 307.548 may adopt additional
+criteria for exemption that  encourage energy efficiency and energy  generation on the property
+provided the criteria do not conflict with the  criteria described in subsection (1)(a) to (e) of this
+section.
+(3) For the purposes of subsection  (1) of this section, a corporation that has only a leasehold
+interest in property is deemed to be a purchaser of that property if:
+(a) The corporation is obligated under the terms of the lease to pay the ad valorem  taxes on the
+real and personal property used in this activity on that property; or
+(b) The rent payable by the corporation has been established to reflect the  savings resulting
+from the exemption from taxation.
+(4) A partnership shall be treated the same as a  corporation to which this section applies if the
+corporation  is:
+(a) A general partner of the partnership; and
+(b) Responsible for  the day-to-day operation of the property that is the subject of the exemption.
+SECTION 4.
+ ORS 307.606 is amended to read:
+307.606. (1)  ORS 307.600 to 307.637 apply to multiple-unit housing preserved, constructed, estab-
+lished, added to or converted in cities or counties that adopt, after a public hearing and  determi-
+nation pursuant to subsection (3) of this section, by resolution  or ordinance, the provisions of ORS
+307.600 to 307.637. The tax exemption provided by ORS 307.600 to 307.637 only  applies to the tax
+levy of a city or county that adopts the provisions of ORS 307.600  to 307.637, except that the tax
+exemption shall apply to the ad valorem property taxes of all taxing districts when upon  request of
+the city or county that has  adopted the provisions of ORS 307.600 to 307.637, the rates of ad valorem
+taxation of taxing  districts whose governing boards agree by resolution to the policy of providing
+tax exemptions for multiple-unit housing as provided in ORS 307.600 to 307.637, when  combined with
+the rate of taxation of the city or county that adopts the provisions  of ORS 307.600 to 307.637, equal
+51 percent or more of the  total combined rate of taxation levied on the property which is tax exempt
+under ORS 307.600 to 307.637.
+(2) The city or county shall  designate an area within which it proposes to allow exemptions
+provided for under the provisions of  ORS 307.600 to 307.637. Core areas, light rail station areas or
+transit oriented areas may be designated by  a city. A city may designate the entire city as the area
+in which the city proposes to allow exemptions under ORS 307.600 to 307.637 for housing that  is or
+becomes subject to a low income housing  assistance contract with an agency or subdivision of this
+state or the United States. A county may designate areas as light rail station areas  or transit ori-
+ented areas but may not designate  areas as core areas. A county may designate the entire county
+as the area in which the county proposes to allow exemptions under  ORS 307.600 to 307.637 for
+housing that is or becomes subject to a low income housing  assistance contract with an agency or
+subdivision of this state or the United States. A city or  county from time to time may, by amending
+its resolution or ordinance, add or withdraw territory  from the area originally designated as a light
+rail station area or a transit oriented area, but any area added must  be within the boundaries of the
+[3]
+HB 2910
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+area as limited by ORS 307.603 (3) or (6).
+(3) The city or county shall, prior to  passage of a resolution or ordinance electing to utilize the
+provisions of ORS 307.600 to 307.637, hold a public hearing in order to determine whether  multiple-
+unit housing  meeting the qualifications of subsection (4) of this section would not otherwise be built
+in the designated area or preserved without the benefits provided by ORS 307.600 to 307.637.
+(4) Prior to accepting project applications  under ORS 307.600 to 307.637, cities or counties shall
+promulgate standards  and guidelines to be utilized in considering applications and making the de-
+terminations required by ORS 307.618. The standards and guidelines shall establish policy governing
+basic requirements for an application, including but not limited to:
+(a) Existing utilization of proposed project site, including justification  of the elimination of any
+existing sound or rehabilitable housing.
+(b) Design elements , including elements that encourage energy efficiency  and energy gen-
+eration.
+(c) Rental rates or sales prices.
+(d) Extensions of public benefits from the project beyond the period of the exemption.
+(e) Minimum number of units.
+(f) For housing that is or becomes subject to a low income housing assistance contract with  an
+agency or subdivision of this state or  the United States, a demonstration that the exemption is
+necessary to preserve or establish the low income units.
+(g) For housing that is to become subject to a low  income housing assistance contract with an
+agency or subdivision of this state or the United States, the date on which the housing must be  es-
+tablished in order to be exempt under ORS 307.600 to 307.637.
+SECTION 5.
+The amendments to ORS 307.517, 307.518,  307.541 and 307.606 by sections 1
+to 4 of this 2025 Act apply to exemptions granted pursuant to applications filed:
+(1) On or after the date on which additional criteria adopted pursuant  to this 2025 Act
+become effective; and
+(2) On or after the effective date of this 2025 Act.
+SECTION 6.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[4]

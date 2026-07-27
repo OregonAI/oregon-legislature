@@ -1,0 +1,116 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2463
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Judiciary for Oregon State Bar)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that the amount of a claim needed to  request a jury trial in small claims
+court includes some interest, costs and fees. (Flesch Readability Score: 69.7).
+Clarifies that the total amount  or value of a claim required to request a jury trial in small
+claims court includes identified prejudgment or preaward interest, fees and costs.
+A BILL FOR AN ACT
+Relating to small claims; creating new provisions; and amending ORS 46.455 and 55.065.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 46.455 is amended to read:
+46.455. Within 14 days after  the date of service of the notice and claim upon the defendant as
+provided in ORS 46.445:
+(1) If the defendant admits the claim, the defendant may settle it by:
+(a) Paying to the plaintiff the amount of the claim plus the amount of  all filing fees and service
+expenses paid by the plaintiff and mailing proof of that payment to the court.
+(b) If the claim is for recovery  of specific personal property, delivering the property to the
+plaintiff and paying  to the plaintiff the amount of all filing fees and service expenses paid by the
+plaintiff and mailing proof of that delivery and payment to the court.
+(2) If the defendant denies the claim, the defendant:
+(a) May demand a hearing in the small claims department in a written request to  the clerk in
+the form prescribed by the court, accompanied by payment of the defendant’s fee prescribed; and
+(b) When demanding a hearing, may assert a counterclaim in the form provided by the court.
+(3) If  the total amount or value claimed , including identified prejudgment or preaward in-
+terest, fees and  costs,  exceeds $750, the defendant has a constitutional right to a jury trial and
+may claim that right in a written request to the clerk in the form prescribed by the court,  accom-
+panied by payment of the appearance fee required from defendants  under ORS 21.160. The request
+shall designate a mailing  address to which a summons and copy of the complaint may be served by
+mail. Thereafter, the plaintiff’s claim will not be limited to the amount stated in the claim, though
+it must involve the same controversy.
+SECTION 2.
+ ORS 55.065 is amended to read:
+55.065. Within 14 days after  the date of service of the notice and claim upon the defendant as
+provided in ORS 55.045:
+(1) If the defendant admits the claim, the defendant may settle it by:
+(a) Paying to the court the amount of  the claim plus the amount of the small claims fee and
+service expenses paid by the plaintiff. The court shall pay to the plaintiff the amounts paid by  the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 515
+HB 2463
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+defendant.
+(b) If the claim is for recovery  of specific personal property, delivering the property to the
+plaintiff and paying to the plaintiff the amount of the small claims  fee and service expenses paid by
+the plaintiff.
+(2) If the defendant denies the claim, the defendant:
+(a) May demand a hearing in the small claims department in a written request to the court in
+the form prescribed by the court, accompanied by payment of the defendant’s fee prescribed; and
+(b) When demanding a hearing, may assert a counterclaim in the form  provided by the court;
+or
+(c) If  the total amount or value claimed , including identified prejudgment or preaward in-
+terest, fees and costs,  exceeds $750, may demand a jury trial in a written request to  the court in
+the form  prescribed by the court, accompanied by payment of the appearance fee prescribed by ORS
+51.310 (1)(b) together with the trial fee prescribed by ORS 52.410. The request  shall designate a
+mailing address to which a summons and copy of the  complaint may be served by mail. Thereafter,
+the plaintiff’s claim will not be limited to the amount stated in the claim, though it must  involve the
+same controversy.
+SECTION 3.
+The amendments to ORS 46.455 and 55.065 by sections 1 and 2 of this 2025
+Act apply to demands for jury trial submitted on or after the effective date  of this 2025 Act.
+[2]

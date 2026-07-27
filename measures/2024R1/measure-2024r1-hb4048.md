@@ -1,0 +1,1203 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2024r1-hb4048
+title: 'HB 4048 (2024R1): Requires local governments to approve certain adjustments to land use regulations
+  for housing development within urban growth boundaries.'
+doc_type: dataset_doc
+citation: 2024 Regular Session House Bill 4048
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4048/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 41a9b5d7ea2e6490de82b9e1ad2b42a088a4645c9e1257ce3508af7234248671
+snapshot_id: measure-2024r1-hb4048-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.109
+  - ORS 183.413
+  - ORS 183.417
+  - ORS 183.471
+  - ORS 183.484
+  - ORS 183.625
+  - ORS 183.635
+  - ORS 184.455
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 192.324
+  - ORS 192.338
+  - ORS 192.345
+  - ORS 192.355
+  - ORS 195.060
+  - ORS 195.065
+  - ORS 195.300
+  - ORS 197.015
+  - ORS 197.090
+  - ORS 197.195
+  - ORS 197.247
+  - ORS 197.319
+  - ORS 197.324
+  - ORS 197.335
+  - ORS 197.626
+  - ORS 197.628
+  - ORS 197.629
+  - ORS 197.652
+  - ORS 197.732
+  - ORS 197.754
+  - ORS 197.758
+  - ORS 197.805
+  - ORS 197.825
+  - ORS 197.830
+  - ORS 197.843
+  - ORS 197.850
+  - ORS 197.860
+  - ORS 197A.018
+  - ORS 197A.025
+  - ORS 197A.103
+  - ORS 197A.110
+  - ORS 197A.130
+  - ORS 197A.215
+  - ORS 197A.230
+  - ORS 197A.245
+  - ORS 197A.270
+  - ORS 197A.280
+  - ORS 197A.285
+  - ORS 197A.300
+  - ORS 197A.302
+  - ORS 197A.310
+  - ORS 197A.325
+  - ORS 197A.445
+  - ORS 197A.470
+  - ORS 215.416
+  - ORS 215.422
+  - ORS 227.180
+  - ORS 308A.050
+  - ORS 446.003
+  - ORS 455.160
+  - ORS 455.770
+  - ORS 455.775
+  - ORS 455.895
+  - ORS 456.005
+  - ORS 456.250
+  - ORS 456.270
+  - ORS 456.280
+  - ORS 456.548
+  - ORS 657.010
+  - ORS 657B.010
+  - ORS 657B.150
+  - ORS 657B.200
+  - ORS 657B.210
+  - ORS 657B.220
+  - ORS 92.010
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2024r1
+- hb
+session_key: 2024R1
+measure_prefix: HB
+measure_number: 4048
+prefix_meaning: House Bill
+catch_line: Requires local governments to approve certain adjustments to land use regulations for housing
+  development within urban growth boundaries.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act relaxes housing standards, establishes a housing office to enforce\
+  \ housing laws, allows a new UGB amendment and limits counties' role in UGB amendments. The Act goes\
+  \ into effect when the Governor signs it. (Flesch Readability Score: 61.9). \n\tRequires local governments\
+  \ to approve certain adjustments to land use regulations for housing development within urban growth\
+  \ boundaries. Establishes alternate appellate procedures for adjustments. Requires certain cities to\
+  \ report to the Department of Land Conservation and Development on the use of adjustments. Requires\
+  \ the department to report biennially to an interim committee of the Legislative Assembly. Sunsets January\
+  \ 2, 2032. \n\tRequires the Department of Land Conservation and Development and the Department of Consumer\
+  \ and Business Services to jointly establish and administer the Housing Accountability and Production\
+  \ Office. Requires the office to assist local governments and housing developers with housing laws relating\
+  \ to land use and land divisions. \n\tAuthorizes the office to take certain actions to enforce housing\
+  \ laws. Establishes new process through which the office may request enforcement orders relating to\
+  \ land use housing laws. Becomes operative April 1, 2025. \n\tRequires the office to commission a report\
+  \ on developing efficiencies in housing production and to deliver the report to an interim committee\
+  \ of Legislative Assembly on or before September 15, 2025. \n\tDevelops an alternative process to amend\
+  \ urban growth boundaries to include up to 150 net residential acres per city. Provides for limitations\
+  \ and review by Metro, where applicable, and for review by the Department of Land Conservation and Development\
+  \ and courts. Sunsets January 2, 2033. \n\tExpands eligibility for attorney fees for appeals of residential\
+  \ development proposals to include local governments and all needed housing. \n\tLimits counties' role\
+  \ in reviewing cities' amendments to urban growth boundaries. \n\tAppropriates moneys from the General\
+  \ Fund to the department to establish and operate the office and to provide grants to local governments\
+  \ for housing law compliance. \n\tDeclares an emergency, effective on passage."
+relating_to: Relating to housing; declaring an emergency.
+relating_to_full: Relating to housing; creating new provisions; amending ORS 183.471, 197.843, 197A.025,
+  197A.215, 197A.285, 197A.300, 197A.302, 197A.325 and 455.770; and declaring an emergency.
+at_the_request_of: null
+lc_number: 24
+measure_created_date: '2024-01-12T09:31:47'
+measure_modified_date: '2024-02-05T12:19:15'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 67179
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.109
+  - ORS 183.413
+  - ORS 183.417
+  - ORS 183.471
+  - ORS 183.484
+  - ORS 183.625
+  - ORS 183.635
+  - ORS 184.455
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 192.324
+  - ORS 192.338
+  - ORS 192.345
+  - ORS 192.355
+  - ORS 195.060
+  - ORS 195.065
+  - ORS 195.300
+  - ORS 197.015
+  - ORS 197.090
+  - ORS 197.195
+  - ORS 197.247
+  - ORS 197.319
+  - ORS 197.324
+  - ORS 197.335
+  - ORS 197.626
+  - ORS 197.628
+  - ORS 197.629
+  - ORS 197.652
+  - ORS 197.732
+  - ORS 197.754
+  - ORS 197.758
+  - ORS 197.805
+  - ORS 197.825
+  - ORS 197.830
+  - ORS 197.843
+  - ORS 197.850
+  - ORS 197.860
+  - ORS 197A.018
+  - ORS 197A.025
+  - ORS 197A.103
+  - ORS 197A.110
+  - ORS 197A.130
+  - ORS 197A.215
+  - ORS 197A.230
+  - ORS 197A.245
+  - ORS 197A.270
+  - ORS 197A.280
+  - ORS 197A.285
+  - ORS 197A.300
+  - ORS 197A.302
+  - ORS 197A.310
+  - ORS 197A.325
+  - ORS 197A.445
+  - ORS 197A.470
+  - ORS 215.416
+  - ORS 215.422
+  - ORS 227.180
+  - ORS 308A.050
+  - ORS 446.003
+  - ORS 455.160
+  - ORS 455.770
+  - ORS 455.775
+  - ORS 455.895
+  - ORS 456.005
+  - ORS 456.250
+  - ORS 456.270
+  - ORS 456.280
+  - ORS 456.548
+  - ORS 657.010
+  - ORS 657B.010
+  - ORS 657B.150
+  - ORS 657B.200
+  - ORS 657B.210
+  - ORS 657B.220
+  - ORS 92.010
+  from_relating_to_full:
+  - ORS 183.471
+  - ORS 197.843
+  - ORS 197A.025
+  - ORS 197A.215
+  - ORS 197A.285
+  - ORS 197A.300
+  - ORS 197A.302
+  - ORS 197A.325
+  - ORS 455.770
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4048>.
+
+# HB 4048 — 2024 Regular Session (2024R1)
+
+## At a glance
+
+- **Measure:** House Bill 4048, 2024 Regular Session (2024R1)
+- **LC number:** 24
+- **Created:** 2024-01-12T09:31:47
+- **Metadata last modified (upstream):** 2024-02-05T12:19:15
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 67179 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4048/Introduced>.
+
+## Summary
+
+**Catchline:** Requires local governments to approve certain adjustments to land use regulations for housing development within urban growth boundaries.
+
+**Relating to:** Relating to housing; declaring an emergency.
+
+Digest: The Act relaxes housing standards, establishes a housing office to enforce housing laws, allows a new UGB amendment and limits counties' role in UGB amendments. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 61.9). 
+ Requires local governments to approve certain adjustments to land use regulations for housing development within urban growth boundaries. Establishes alternate appellate procedures for adjustments. Requires certain cities to report to the Department of Land Conservation and Development on the use of adjustments. Requires the department to report biennially to an interim committee of the Legislative Assembly. Sunsets January 2, 2032. 
+ Requires the Department of Land Conservation and Development and the Department of Consumer and Business Services to jointly establish and administer the Housing Accountability and Production Office. Requires the office to assist local governments and housing developers with housing laws relating to land use and land divisions. 
+ Authorizes the office to take certain actions to enforce housing laws. Establishes new process through which the office may request enforcement orders relating to land use housing laws. Becomes operative April 1, 2025. 
+ Requires the office to commission a report on developing efficiencies in housing production and to deliver the report to an interim committee of Legislative Assembly on or before September 15, 2025. 
+ Develops an alternative process to amend urban growth boundaries to include up to 150 net residential acres per city. Provides for limitations and review by Metro, where applicable, and for review by the Department of Land Conservation and Development and courts. Sunsets January 2, 2033. 
+ Expands eligibility for attorney fees for appeals of residential development proposals to include local governments and all needed housing. 
+ Limits counties' role in reviewing cities' amendments to urban growth boundaries. 
+ Appropriates moneys from the General Fund to the department to establish and operate the office and to provide grants to local governments for housing law compliance. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to housing; creating new provisions; amending ORS 183.471, 197.843, 197A.025, 197A.215, 197A.285, 197A.300, 197A.302, 197A.325 and 455.770; and declaring an emergency.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4048
+Sponsored by Representatives HELFRICH, BREESE-IVERSON; Representatives BOICE, JAVADI,  WRIGHT (Pre-
+session filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act relaxes housing standards,  establishes a housing office to enforce housing laws,
+allows a new UGB amendment  and limits counties’ role in UGB amendments. The Act goes into ef-
+fect when the Governor signs it. (Flesch Readability Score: 61.9).
+Requires local governments to approve  certain adjustments to land use regulations for housing
+development within urban growth boundaries. Establishes alternate appellate procedures  for ad-
+justments. Requires certain cities to  report to the Department of Land Conservation and Develop-
+ment on the use  of adjustments. Requires the department to report biennially to an interim
+committee of the Legislative Assembly. Sunsets January 2, 2032.
+Requires the Department of Land Conservation and Development and the  Department of Con-
+sumer and Business Services  to jointly establish and administer the Housing Accountability and
+Production Office. Requires the office to assist local governments  and housing developers with
+housing laws relating to land use and land divisions.
+Authorizes the office to take certain actions  to enforce housing laws. Establishes new process
+through which the office may request  enforcement orders relating to land use housing laws. Be-
+comes operative April 1, 2025.
+Requires the office to commission a report on developing efficiencies in  housing production and
+to deliver  the report to an interim committee of Legislative Assembly on or before September 15,
+2025.
+Develops an alternative process to amend urban growth boundaries to  include up to 150 net
+residential acres per city. Provides for limitations  and review by Metro, where applicable, and for
+review by the Department of Land Conservation and Development and courts. Sunsets  January 2,
+2033.
+Expands eligibility  for attorney fees for appeals of residential development proposals to include
+local governments and all needed housing.
+Limits counties’ role in reviewing cities’ amendments to urban growth boundaries.
+Appropriates moneys from the General Fund to the department to establish  and operate the of-
+fice and to provide grants to local governments for housing law compliance.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to  housing; creating new provisions; amending ORS 183.471, 197.843, 197A.025, 197A.215,
+197A.285, 197A.300, 197A.302, 197A.325 and 455.770; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+HOUSING LAND USE ADJUSTMENTS
+SECTION 1.
+Sections 2 to 4 of this 2024 Act are added to and  made a part of ORS chapter
+197A.
+SECTION 2. (1) As used in sections 2 to 4 of this 2024 Act:
+(a) “Adjustment” means a deviation from an existing land use regulation.
+(b) “Adjustment” does not include:
+(A) A request to allow a use of property not otherwise permissible  under applicable zon-
+ing requirements;
+(B) Deviations from land use regulations or  requirements related to accessibility,
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 24
+affordability, fire ingress or egress or statewide  land use planning goals relating to natural
+resources, natural hazards, Willamette River Greenway, estuarine  resources, coastal
+shorelands, beaches and dunes or ocean resources;
+(C) A complete waiver of land use regulations; or
+(D) Deviations to requirements of building codes, federal or state water quality require-
+ments or requirements of any federal, state or local law other than a land use regulation.
+(2) This section applies only if all of the following conditions are met:
+(a) Applications are for a building permit or a quasi-judicial,  limited or ministerial land
+use decision;
+(b) Development is on lands zoned for residential or mixed-use residential uses;
+(c) Development is within an urban growth boundary, not including lands  that have not
+been annexed by a city; and
+(d) Development is of  net new housing units, including single-family or multifamily,
+mixed-use residential, manufactured dwelling parks, accessory  dwelling units or middle
+housing as defined in ORS 197.758.
+(3) A local government may not approve more than 10 distinct  adjustments under this
+section. Each development standard described in subsection (4) of this section and  each de-
+sign standard described in subsection (5) of this  section is considered a distinct adjustment.
+Adjustments that meet  the criteria under this section must be granted by a local govern-
+ment and may be resolved  through an existing or new administrative process of the local
+government that allows for flexibility in addressing development or design standards for
+residential development.
+(4) A local  government shall grant an adjustment to the following development standards:
+(a) Side and rear setbacks  and step-backs, provided that the setbacks comply with utility
+siting requirements;
+(b) The common area, open space or area that must be  landscaped, common area or open
+space, for a reduction of not more than  25 percent, provided that stormwater management
+requirements and tree codes are met and that there is no impact to  tree canopy require-
+ments or ground or surface water resources;
+(c) Parking minimums;
+(d) Minimum or maximum lot sizes, not more than a 10 percent adjustment;
+(e) Minimum or maximum lot widths and depths, not more than  a 10 percent adjustment;
+(f) Requirements for bicycle parking that establish:
+(A) The minimum number of spaces, provided that there is  at least one-half space per
+residential unit; or
+(B) The location of the spaces, provided that secure, covered bicycle parking spaces are
+within or adjacent to the residential development;
+(g) Minimum or maximum building lot coverage requirements:
+(A) Not more  than 15 percent adjustment for accessory dwelling units with a single-
+family detached house; or
+(B) Not more than a 20 percent  adjustment for multifamily, mixed-use residential and
+middle housing;
+(h) Unit density maximums, not more than an amount necessary to account for  other
+adjustments under this section;
+(i) Building height maximums that:
+(A) Are not for single-family detached houses;
+(B) Do not create a fire, life or safety issue;
+(C) Are in addition to existing applicable height bonuses; and
+(D) Are not more than an increase of the greater of:
+(i) One story; or
+(ii) A 20 percent  increase to base zone height with rounding consistent with methodology
+outlined in city code, if any; and
+(j) Prohibitions, for the ground floor of a mixed-use building, against:
+(A) Residential uses except for one face of the building  that faces the street and is within
+20 feet of the street; and
+(B) Nonresidential active uses that support the  residential uses of the building, including
+lobbies, day care, passenger loading, community  rooms, exercise facilities, offices, activity
+spaces or  live-work spaces, except for active uses in specifically and clearly defined mixed-
+use areas or commercial corridors designated by local governments.
+(5) A local government shall grant an adjustment to design standards that regulate:
+(a) Facade materials, articulation, color or pattern;
+(b) Roof forms and materials;
+(c) Entry and garage door materials and patterns;
+(d) Garage door orientation, unless the building is adjacent to  or across from a school
+or public park;
+(e) Window material and design;
+(f) Window size or total window area, for up to a 30 percent adjustment;
+(g) Building orientation requirements, not including transit street orientation  require-
+ments;
+(h) Building height transition requirements, not more than:
+(A) A 50 percent adjustment from the base zone; or
+(B) A lesser maximum adjustment necessary to address a fire, life or safety issue; or
+(i) Balconies, porches, recesses and offsets.
+(6) An application qualifies for  an adjustment under this section only if the application
+states that at least one of the following criteria applies:
+(a) The adjustment will enable development of housing that is not otherwise feasible  due
+to cost or delay resulting from the unadjusted land use regulations;
+(b) The adjustment will enable development of housing that reduces the sale  or rental
+prices per residential unit;
+(c) The adjustment will increase the number of housing units within the application;
+(d) All of the units in the application are subject to an affordable  housing covenant, as
+described in ORS 456.270 to 456.295, making them  affordable to moderate income households
+as defined in ORS 456.270 for a minimum of 30 years; or
+(e) At least 20 percent of the units in the application are subject to  an affordable housing
+covenant, as described in ORS 456.270 to 456.295, making them  affordable to low income
+households as defined in ORS 456.270 for a minimum of 60 years.
+SECTION 3.
+(1) Notwithstanding ORS 197.015 (10)(b), a decision on an application  for an
+adjustment under section 2 of this 2024 Act is a land use decision.
+(2)(a) Within 30 days after receiving a complete application under  section 2 of this 2024
+Act, the local  government shall notify the applicant whether the local government believes
+that the adjustments requested by the application satisfy the criteria  under section 2 of this
+2024 Act.
+(b) If a local government notifies the applicant that any proposed adjustments do  not
+satisfy such criteria, the applicant may submit additional evidence for  evaluation under this
+subsection within 30 days following the notice.
+(c) A decision by a local government under this subsection is not a land use decision.
+(3) Unless an appeal is filed before a final decision under subsection (6) of this section,
+a local government shall make a final decision on an  application for an adjustment under
+section 2 of this 2024 Act on  or before the development application decision and within any
+timelines imposed by ORS 197A.470, 215.416 or 227.175.
+(4) A denial of an application for an adjustment under section 2 of this 2024  Act must be
+in a brief written statement that explains the criteria and standards considered relevant to
+the decision, states the facts relied on in rendering  the decision and explains the justification
+for the decision based on the stated criteria, standards and facts. If  the denial of an appli-
+cation for an adjustment is made separately from any other related  application, the decision
+does not require notice under ORS 197.195 or 197.797.
+(5) Only the applicant or the Housing Accountability and Production Office established
+under section 7 of this 2024 Act may appeal a land use decision made under section  2 of this
+2024 Act.
+(6) In lieu of any other appeal process,  an applicant may appeal a land use decision made
+under section 2 of this 2024 Act to the Land Use  Board of Appeals under an expedited ap-
+pellate process that, notwithstanding ORS 197.825 (2)(a) or  197.830 to 197.845, is subject to the
+following process:
+(a) The petition for appeal may be made only once from any  decision, including a decision
+other than a  final decision, made by a local government’s governing body, planning commis-
+sion, hearings body, hearings officer, planning director  or any other local government staff
+or body that may make a binding decision.
+(b) The appeal serves to waive any  unexhausted right of appeal prescribed by the local
+government, including a right as described in ORS 215.422 and 227.180.
+(c) The caption of the petition must request review under this subsection.
+(d) The board may, by order, require  that issues on appeal under this subsection be
+bifurcated and decided separately from any other related application.
+(e) The issues on appeal  must be argued without oral argument on an expedited petition
+and briefing schedule established by an order of the board.
+(f) All issues on appeal must  be decided by a final order of the board made before the
+latter of:
+(A) 60 days after the receipt of the notice of appeal; or
+(B) 40 days after the transmittal of the record.
+(7) During an appeal taken under subsection (6) of this section any other related  appli-
+cation or its appeal is stayed and any decision  deadline is tolled, including deadlines under
+ORS 197A.470, 215.416 or 227.175.
+(8) As used in this section, “other related application” means  a land use decision, if any
+exists, for which the developer has requested an approval of an adjustment under  section 2
+of this 2024 Act.
+SECTION 4.
+(1) A city required to provide a report under ORS 197A.110 shall include as
+part of that  report information reasonably requested from the Department of Land Conser-
+vation and Development on residential development  produced through approvals of adjust-
+ments granted under section 2 of this 2024 Act. The department may not develop a  separate
+process for collecting this data or otherwise place an undue burden on local governments.
+(2) On or before September 15  of each even-numbered year, the department shall provide
+a report to an interim committee of the Legislative Assembly related to  housing in the
+manner provided in ORS 192.245 on the data  collected under subsection (1) of this section.
+The committee shall invite the League of Oregon Cities to provide feedback on the  report
+and the efficacy of section 2 of this 2024 Act.
+SECTION 5.
+Sections 2 to 4 of this 2024 Act become operative on January 1, 2025.
+SECTION 6. Sections 2 to 4 of this 2024 Act are repealed on January 2, 2032.
+HOUSING ACCOUNTABILITY AND PRODUCTION OFFICE
+SECTION 7. (1) The Department of Land Conservation and Development and the De-
+partment of Consumer and Business  Services shall enter into an interagency agreement to
+establish and administer the Housing Accountability and Production Office.
+(2) The Housing Accountability and Production Office shall:
+(a) Provide technical assistance to local jurisdictions to:
+(A) Comply with housing laws;
+(B) Reduce permitting and land use barriers to housing production; and
+(C) Support reliable  and effective implementation of local procedures and standards re-
+lating to the approval of residential development projects;
+(b) Serve as a resource for housing developers experiencing permitting and land use
+barriers related to housing  production, which includes providing responses to developers’
+requests for technical assistance with housing laws;
+(c) Investigate and respond to complaints of violations of housing  laws under section 8
+of this 2024 Act; and
+(d) Provide mediation of active disputes relating to housing laws between a local  gov-
+ernment and residential developer, including mediation under ORS 197.860.
+(3) The Land Conservation and Development Commission and the Department of  Con-
+sumer and Business Services may jointly or separately adopt, amend or repeal rules for:
+(a) Carrying out the respective responsibilities of the departments and the  office under
+sections 7 to 10 of this 2024 Act; and
+(b) Establishing model  codes, procedures and practices by which local governments may
+comply with housing laws.
+(4) The office  shall prioritize assisting jurisdictions voluntarily undertaking changes to
+come into compliance with housing laws.
+(5) As used in sections 7 to 10 of this 2024 Act, “housing law” means ORS chapter 197A
+and ORS 92.010 to 92.192, 92.830 to 92.845, 197.360 to 197.380,  197.475 to 197.493, 197.505 to
+197.540, 197.660 to 197.670, 197.748, 215.402 to 215.438, 227.160 to 227.186,  455.148, 455.150,
+455.152, 455.153, 455.156, 455.157, 455.165, 455.170, 455.175,  455.180, 455.185 to 455.198, 455.200,
+455.202 to 455.208, 455.210, 455.220, 455.465 and 455.467 and administrative rules implementing
+those laws, to the extent that the law or rule imposes a mandatory duty on  a local govern-
+ment or its agent and the application of the law or rule relates to residential  development
+or pertains to a permit for a residential use or division of land for residential purposes.
+SECTION 8.
+(1) The Housing Accountability and Production Office shall establish a form
+or format through which the office  receives allegations of local governments’ violations of
+housing laws. For complaints that relate to a specific development project, the office  may
+receive complaints only from the residential developer of  the project. For complaints not
+related to a specific development project, the office may receive complaints  from any person,
+including the Department of Land Conservation and Development or the  Department of
+Consumer and Business Services.
+(2)(a) Except as provided in paragraph (b) of this subsection, the office shall investigate
+suspected violations of housing laws or violations  credibly alleged under subsection (1) of this
+section.
+(b) If a complainant  has filed a notice of appeal with the Land Use Board of Appeals or
+has initiated private litigation  regarding any aspect of the application decision that was al-
+leged to have been the subject of the housing law  violation, the office’s continuing involve-
+ment may only consist of providing:
+(A) Agency briefs, including briefs under ORS 197.830 (8), to the board or the court;
+(B) Technical assistance to  the local government unrelated to the resolution of the spe-
+cific complaint; or
+(C) Mediation at the request of the local  government and complainant, including medi-
+ation under ORS 197.860.
+(3) If the office has a  reasonable basis to conclude that a violation was or is likely to be
+committed, the office  shall deliver written warning notice to the local government specifying
+the violation and any authority under this section that the office intends  to invoke if the
+violation continues or is not remedied. The notice may include an invitation to address the
+suspected violation through mediation, the  execution of a voluntary compliance agreement
+or the adoption of suitable models developed by the office under section 7  (3)(b) of this 2024
+Act. The office  shall prioritize technical assistance funding to local governments that agree
+to comply with housing laws under this subsection. A determination  by the office is not a
+legislative or judicial decision.
+(4) No earlier than 60 days after a warning notice is delivered  under subsection (3) of this
+section, the office may:
+(a) Initiate a request for an enforcement order  of the Land Conservation and Develop-
+ment Commission by delivering a notice of request under section 9 (3) of this 2024 Act.
+(b) Seek a court order against a local government as described under ORS  455.160 (3)
+without being adversely affected or serving the demand as described in ORS 455.160 (2).
+(c) Notwithstanding ORS 197.090  (2)(b) to (e), participate in and seek review of a matter
+under ORS 197.090 (2)(a) that pertains to housing laws without the notice or consent of  the
+commission. No  less  than once every two years, the office shall report to the commission
+on the matters in which the office participated under this paragraph.
+(d) Except regarding matters under the exclusive jurisdiction  of the Land Use Board of
+Appeals, apply to a circuit court  for an order compelling compliance with any housing law.
+If the court finds that  the defendant is not complying with a housing law, the court may
+grant an injunction requiring compliance.
+(5) The office may not,  in the name of the office, exercise the authority of the Depart-
+ment of Land Conservation and Development under ORS 197A.130.
+(6) The office  shall send notice to each complainant under subsection (1) of this section
+at the time that the office:
+(a) Takes any action under subsection (3) or (4) of this section; or
+(b) Has determined that it will not take further actions or make further investigations.
+(7) The actions authorized of the office under this section  are in addition to and may be
+exercised in conjunction with any other investigative or  enforcement authority that may be
+exercised by the Department of Land  Conservation and Development, the Land Conservation
+and Development Commission or the Department of Consumer and Business Services.
+(8) Nothing in this section:
+(a) Amends the jurisdiction of the Land Use Board of Appeals or of a circuit court;
+(b) Creates a new cause of action; or
+(c) Tolls or extends:
+(A) The statute of limitations for any claim; or
+(B) The deadline for any appeal or other action.
+SECTION 9.
+(1) The Housing Accountability and Production Office may request an
+enforcement order under section 8 (4)(a) of this 2024 Act requiring that a local government
+take action necessary to bring its comprehensive plan, land  use regulation, limited land use
+decisions or other land use decisions or actions into compliance  with a housing law, except
+for a housing law that pertains to building codes or the administration of building codes.
+(2) Except as otherwise provided in  this section, a request for an enforcement order by
+the office is subject to the applicable provisions of ORS 197.335 and ORS  chapter 183 and is
+not subject to ORS 197.319, 197.324 or 197.328.
+(3) The office  shall make a request for an enforcement order under this section by de-
+livering a notice to  the local government that states the grounds for initiation and summa-
+rizes the procedures for  the enforcement order proceeding along with a copy of the notice
+to the Land Conservation and Development Commission. A decision of the office to initiate
+an enforcement order is final and is not subject to appeal.
+(4) After receiving notice of an enforcement  order request under subsection (3) of this
+section, before making  any subsequent land use decision that could be affected by the
+enforcement order, the local government shall deliver a  notice to that applicant in substan-
+tially the following form:
+NOTICE: The  Housing Accountability and Production Office has found good cause for an
+enforcement proceeding against  (name of local government). An
+enforcement order may be  adopted that could limit, prohibit or require the application of
+specified criteria to any action authorized by this decision but not applied for  until after the
+adoption of the  enforcement order. Future applications for building permits or time exten-
+sions may be affected.
+(5) Within 14  days after receipt by the commission of the notice under subsection (3) of
+this section, the Director  of the Department of Land Conservation and Development shall
+assign the enforcement order proceedings to a hearings officer who is:
+(a) An administrative law judge assigned under ORS 183.635; or
+(b) A hearings officer  randomly selected from a pool of officers appointed by the com-
+mission to review proceedings initiated under this section.
+(6) The hearings officer shall schedule a contested case hearing within 60 days of  the
+delivery of the notice to the commission under subsection (3) of this section.
+(7)(a) The hearings officer shall prepare a proposed enforcement order,  including recom-
+mended findings and conclusions of law.
+(b) A proposed enforcement  order may require the local government to adopt models that
+have been developed by the office under section  7 (3)(b) of this 2024 Act that are suitable to
+address the basis for the proposed enforcement order.
+(c) The hearings officer must issue and serve the proposed enforcement order on  the
+office and all parties to the hearing within 30 days of the date the record closed.
+(8)(a) The  proposed enforcement order becomes a final order of the commission 14 days
+after service on the office and  all parties to the hearing, unless the office or a party to the
+hearing appeals  the proposed enforcement order to the commission prior to the proposed
+enforcement order becoming final.
+(b) If the proposed enforcement order is appealed, the commission shall consider the
+matter at:
+(A) Its next regularly scheduled meeting; or
+(B) If the appeal is made 45 or fewer days prior  to the next regularly scheduled meeting,
+at the following regularly scheduled meeting or a special meeting held earlier.
+(9) The commission shall affirm, affirm with modifications  or reverse the proposed
+enforcement order. The commission shall issue a final  order no later than 30 days after the
+meeting at which it considered the matter.
+(10) The commission may adopt rules administering this  section, including rules related
+to standing, preserving issues for commission review or other  provisions concerning the
+commission’s scope and standard for review of proposed enforcement orders  under this sec-
+tion.
+SECTION 10.
+On or before September 15, 2026,  the Housing Accountability and Pro-
+duction Office established under section 7 of this 2024 Act shall:
+(1) Contract with an organization  possessing relevant expertise to produce a report
+identifying improvements in the  local building plan approval, land use, zoning and permitting
+processes, including but not limited to  plan approval timelines, process efficiency, local best
+practices and other ways  to accelerate and improve the efficiency of the development process
+for construction, with a focus on increasing housing production; and
+(2) Provide the report  under subsection (1) of this section to an appropriate interim
+committee of the Legislative Assembly in the manner provided in ORS 192.245.
+SECTION 11.  ORS 183.471 is amended to read:
+183.471. (1) When an  agency issues a final order in a contested case, the agency shall maintain
+the final order in a digital format that:
+(a) Identifies the final order by the date it was issued;
+(b) Is suitable for indexing and searching; and
+(c) Preserves  the textual attributes of the document, including the manner in which the docu-
+ment is paginated and any boldfaced, italicized or underlined writing in the document.
+(2) The Oregon State Bar may request that an agency provide the Oregon State Bar, or  its
+designee, with electronic  copies of final orders issued by the agency in contested cases. The request
+must be in writing. No later than  30 days after receiving the request, the agency, subject to ORS
+192.338, 192.345 and 192.355, shall provide the Oregon State Bar, or its designee,  with an electronic
+copy of all final orders identified in the request.
+(3) Notwithstanding ORS 192.324, an agency may not  charge a fee for the first two requests
+submitted under this section in a  calendar year. For any subsequent request, an agency may impose
+a fee in  accordance with ORS 192.324 to reimburse the agency for the actual costs of complying with
+the request.
+(4) For purposes of  this section, a final order entered in a contested case by an administrative
+law judge under ORS 183.625 (3) is a final order issued by the  agency that authorized the adminis-
+trative law judge to conduct the hearing.
+(5) This section does not apply to final orders by default  issued under ORS 183.417 (3) or to final
+orders issued in contested cases by:
+(a) The Department of Revenue;
+(b) The State Board of Parole and Post-Prison Supervision;
+(c) The Department of Corrections;
+(d) The Employment Relations Board;
+(e) The Public Utility Commission of Oregon;
+(f) The Oregon Health Authority;
+(g) The Land Conservation and Development Commission , except for enforcement orders un-
+der section 9 of this 2024 Act ;
+(h) The Land Use Board of Appeals;
+(i) The Division of Child Support of the Department of Justice;
+(j) The Department of Transportation, if the final order relates to the  suspension, revocation or
+cancellation of identification cards, vehicle registrations, vehicle titles or driving privileges or to the
+assessment of taxes or stipulated settlements in the regulation of vehicle related businesses;
+(k) The Employment Department or the Employment  Appeals Board, if the final order relates to
+benefits as defined in ORS 657.010;
+(L) The Employment Department,  if the final order relates to an assessment of unemployment
+tax for which a hearing was not held;
+(m) The Employment Department, if the final order relates to:
+(A) Benefits, as defined in ORS 657B.010;
+(B) Employer and employee contributions under ORS 657B.150 for which  a hearing was not held;
+(C) Employer-offered benefit plans  approved under ORS 657B.210 or terminated under ORS
+657B.220; or
+(D) Employer assistance grants under ORS 657B.200; or
+(n) The Department of Human Services, if the final order was not  related to licensing or certi-
+fication.
+SECTION 12.
+ ORS 455.770 is amended to read:
+455.770. (1) In addition to any other authority and power granted to  the Director of the De-
+partment of Consumer and Business Services under ORS 446.003  to 446.200, 446.225 to 446.285,
+446.395 to 446.420, 479.510  to 479.945, 479.995 and 480.510 to 480.670 and [ this chapter and ] ORS
+chapters 447, 455, 460 and 693  and sections 7 to 9 of this 2024 Act , with respect to municipalities,
+building officials and inspectors,  if the director has reason to believe that there is a failure to en-
+force or a violation of any provision of the  state building code or ORS 446.003 to 446.200, 446.225
+to 446.285, 446.395 to 446.420, 479.510 to 479.945, 479.995 or 480.510 to 480.670 [ or this chapter ] or
+ORS chapter 447, 455, 460 or 693 or any rule adopted under those statutes, the director may:
+(a) Examine building code activities of the municipality;
+(b) Take sworn testimony; and
+(c) With the authorization of the Office of the Attorney General, subpoena  persons and records
+to obtain testimony on official actions  that were taken or omitted or to obtain documents otherwise
+subject to public inspection under ORS 192.311 to 192.478.
+(2) The investigative authority authorized in  subsection (1) of this section covers the violation
+or omission by a  municipality related to enforcement of codes or administrative rules, certification
+of inspectors or financial transactions dealing with permit fees  and surcharges under any of the
+following circumstances when:
+(a) The duties are clearly established by law, rule or agreement;
+(b) The duty involves procedures for which the means and methods are clearly established by
+law, rule or agreement; or
+(c) The duty is described by clear performance standards.
+(3) Prior to starting an investigation under subsection (1) of this section, the director shall notify
+the municipality in writing setting  forth the allegation and the rules or statutes pertaining to the
+allegation and give the municipality 30 days to respond to the  allegation. If the municipality does
+not satisfy the director’s concerns, the director may then commence an investigation.
+(4) If the Department of Consumer and Business Services or the director directs  corrective
+action[ , the following shall be done ]:
+(a) The corrective action [ shall] must  be in writing and served on the building official and the
+chief executive officers of all municipalities affected;
+(b) The corrective action [ shall] must  identify the facts and  law relied upon for the required
+action; and
+(c) A reasonable time [ shall] must  be provided to the municipality for compliance.
+(5) The director  may revoke any authority of the municipality to administer any part of the state
+building code or ORS 446.003 to 446.200, 446.225 to 446.285, 446.395 to 446.420,  479.510 to 479.945,
+479.995 or 480.510 to 480.670 [ or this chapter ] or ORS  chapter 447, 455, 460 or 693 or any rule
+adopted under those statutes if  the director determines after a hearing conducted under ORS 183.413
+to 183.497 that:
+(a) All of the requirements of this section and ORS 455.775 and 455.895 were met; and
+(b) The municipality did not comply with the corrective action required.
+SECTION 13.
+(1) Section 7 of this 2024 Act becomes operative on January 1, 2025.
+(2) Sections 8 and 9 of this 2024 Act become operative on April 1, 2025.
+(3) Sections 8 and 9 of  this 2024 Act apply only to violations of housing laws occurring
+on or after April 1, 2025.
+SITE ADDITIONS TO URBAN GROWTH BOUNDARIES
+SECTION 14.
+Sections 15 to 22 of this 2024 Act are added to  and made a part of ORS
+chapter 197A.
+SECTION 15. As used in sections 15 to 22 of this 2024 Act:
+(1) “Net residential acre” means an acre of residentially designated buildable land, not
+including nondevelopable rights of way for streets, roads or utilities.
+(2) “Site” means a  lot or parcel or contiguous lots or parcels, or both, with or without
+common ownership.
+SECTION 16.
+(1) Notwithstanding any other provision  of this chapter, a city outside of
+Metro may adopt an amendment to the city’s urban growth boundary to include a site if:
+(a) The site is adjacent to  the existing urban growth boundary of the city or is separated
+from the existing urban growth boundary by only a street or road;
+(b) The site is:
+(A) Designated as an  urban reserve under ORS 197A.230 to 197A.250, including sites
+whose designations are adopted under ORS 197.652 to 197.658;
+(B) Designated as nonresource land; or
+(C) Subject to  an acknowledged exception to a statewide land use planning goal relating
+to farmland or forest land;
+(c) The city has not previously  adopted an urban growth boundary amendment under
+sections 15 to 22 of this 2024 Act;
+(d) The city has adopted a conceptual plan for the site that  satisfies the requirements
+of section 18 of this 2024 Act; and
+(e) The total acreage of the site:
+(A) For a city with a population of  25,000 or greater, does not exceed 150 net residential
+acres; or
+(B) For a city with a population of less than 25,000, does not exceed  75 net residential
+acres.
+(2) The adoption of an amendment to an urban growth boundary under this  section does
+not require county approval.
+SECTION 17.
+(1) A city within Metro may petition Metro to include a site within the ur-
+ban growth boundary if the site satisfies the requirements of section 16 (1) of this 2024 Act
+and is designated as an urban reserve.
+(2) Within 120 days of receiving a petition, Metro  shall determine whether the petition
+substantially complies with the provisions  of section 18 of this 2024 Act. If Metro determines
+that a petition does not substantially comply with  the provisions of section 18 of this 2024
+Act, Metro shall:
+(a) Notify the city of deficiencies in the petition, specifying sufficient detail  to allow the
+city to remedy any deficiency in a subsequent resubmittal; and
+(b) Allow the city to amend its conceptual  plan and resubmit it as a petition to Metro
+under this section.
+(3) If Metro determines that a petition does comply with section 18  of this 2024 Act,
+notwithstanding any other provision of this chapter, Metro shall adopt amendments to  its
+urban growth boundary to include the site in the petition, provided  the amendment does not
+result in more than 600 total net residential acres added under this subsection.
+(4) If the  net residential acres included in approved petitions received on or before July
+1, 2025, total less than 600 net residential acres, Metro shall adopt amendments to  its urban
+growth boundary under subsection (3) of this section:
+(a) On or before November 1, 2026, for petitions received on or before July 1, 2025; or
+(b) Within 120 days  after the receipt of a petition received after July 1, 2025, in the order
+in which the petitions are received.
+(5) If the  net residential acres included in approved petitions received on or before July
+1, 2025, total 600 or more net residential  acres, on or before January 1, 2027, Metro shall
+adopt amendments to its urban  growth boundary under subsection (3) of this section to in-
+clude the sites in those petitions that Metro determines will:
+(a) Best comply with the provisions of section 18 of this 2024 Act; and
+(b) Maximize the development of needed housing.
+(6) Metro may not conduct a hearing to  review or select petitions or adopt amendments
+to its urban growth boundary under this section.
+SECTION 18.
+(1) As used in this section:
+(a) “Affordable  units” means residential units described in subsection (3)(f)(A) or (4) of
+this section.
+(b) “Market rate units” means residential units other than affordable units.
+(2) Before adopting an urban growth boundary amendment under section 16 of this 2024
+Act or petitioning Metro under section 17 of  this 2024 Act, a city shall adopt a conceptual
+plan for the site as an amendment to its comprehensive plan.
+(3) The conceptual plan must:
+(a) Establish the total net residential acres  within the site and must require for those
+residential areas:
+(A) A diversity of housing types and sizes, including middle housing  as defined in ORS
+197.758; and
+(B)(i) For a city within Metro, an average  density of at least 15 dwelling units per net
+residential acre;
+(ii) For cities  within Baker, Clatsop, Coos, Crook, Curry, Gilliam, Grant, Harney,
+Jefferson, Klamath, Lake, Lincoln, Malheur, Morrow, Sherman, Tillamook, Umatilla, Union,
+Wallowa and Wheeler Counties and the cities of Dunes City, Florence and Reedsport, an av-
+erage density of at least  four dwelling units per net residential acre, whether for affordable
+units, market rate units or both; or
+(iii) For all other cities, an average density of at least eight dwelling units per net  resi-
+dential acre, whether for affordable units, market rate units or both;
+(b) Designate within the site:
+(A) Recreation and open space lands; and
+(B) Lands for commercial uses, either separate or as mixed use, that:
+(i) Primarily serve the immediate surrounding housing;
+(ii) Provide goods and services at a smaller scale than provided on  typical lands zoned for
+commercial use; and
+(iii) Are provided at the  minimum amount necessary to support and integrate viable
+commercial and residential uses;
+(c) If the city has a population of 5,000 or greater, include a  transportation network for
+the site  that provides diverse transportation options, including walking, bicycling and transit
+use if public transit services are available, along with  both sufficient internal connections
+and connections to areas within the existing urban growth boundary of the city;
+(d) Retain the designation or the protections of the area that is designated  for protection
+in an acknowledged comprehensive plan under a statewide land use planning goal relating to:
+(A) Open spaces, scenic and historic areas or natural resources;
+(B) Areas subject to natural hazards;
+(C) The Willamette River Greenway;
+(D) Estuarine resources;
+(E) Coast shorelands; or
+(F) Beaches and dunes;
+(e) Ensure that the  site will be served with all necessary urban services as defined in
+ORS 195.065. Such assurance may  include a binding agreement among the city, each owner
+within the site and  any other necessary public or private utility provider, local government
+or district, as defined in ORS  195.060, or combination of local governments and districts; and
+(f) Include requirements that ensure that:
+(A) At least 30 percent of the residential units are subject  to affordability restrictions,
+including but not limited to affordable housing  covenants, as described in ORS 456.270 to
+456.295, that require for a period of not less than 60 years that the units be:
+(i) Available for rent, with or  without government assistance, by households with an in-
+come of 80 percent or less of the area median income as defined in ORS 456.270; or
+(ii) Available for purchase, with or without government  assistance, by households with
+an income of 130 percent or less of the area median income;
+(B) The construction of all affordable units has commenced before the city issues certif-
+icates of occupancy to the last 15 percent of market rate units;
+(C) All common areas and amenities  are equally available to residents of affordable units
+and of market rate units; and
+(D) Necessary restrictions to ensure the development of affordable units are  recorded
+under ORS 456.280 (1)(b) before building permits are issued for any property within the site.
+(4) A city may require greater affordability requirements for residential units  than are
+required under subsection (3)(f)(A) of  this section, provided that the city significantly and
+proportionally offsets development costs related to:
+(a) Permits or fees;
+(b) System development charges;
+(c) Property taxes; or
+(d) Land acquisition and predevelopment costs.
+SECTION 19.
+(1) Before  adopting a conceptual plan under section 18 of this 2024 Act, a
+city shall:
+(a) Review a petition filed by a property owner or group of property owners  proposing
+an urban growth boundary amendment under sections 15 to 22 of this 2024 Act.
+(b) Provide opportunities for public participation, including, at least:
+(A) One public comment period;
+(B)(i) One meeting of the city’s planning commission at which public  testimony is con-
+sidered;
+(ii) One meeting of the city’s council at which public testimony is considered; or
+(iii) One public open house; and
+(C) Notice on the city’s website or published in a paper of record at  least 14 days before:
+(i) A meeting under subparagraph (B) of this paragraph; and
+(ii) The beginning of a comment period under subparagraph (A) of this paragraph.
+(c) Consult with, request necessary information from  and provide the opportunity for
+written comment from:
+(A) The owners of each lot or parcel within the site;
+(B) If  the city does not currently exercise land use jurisdiction over the entire site, the
+governing body of each county with land use jurisdiction over the site;
+(C) Any special district that provides urban services to the site; and
+(D) Any public or private utility that provides utilities to the site.
+(2) The petition under subsection (1)(a) of this section must:
+(a) Be in writing in a form and format as required by the city;
+(b) Specify the lots or parcels that are the subject of the petition; and
+(c) Be signed by all owners of lots  or parcels included within the petition, including a
+consent to annexation if the property is added to the urban growth boundary.
+(3) If the city has received approval for the amendment to the petition  from all property
+owners of such lands, in writing in  a form and format specified by the city, a city may adopt
+a conceptual plan for all or a  portion of the lands contained within a petition filed under
+subsection (1)(a) of this section.
+(4) A  conceptual plan must include findings identifying reasons for inclusion of lands
+within the conceptual plan and reasons  why lands for which a petition was submitted were
+not included within the conceptual plan.
+SECTION 20.
+(1) Within 21 days after the adoption of  an amendment to an urban growth
+boundary and the adoption or amendment of a conceptual plan under sections  15 to 22 of this
+2024 Act, the conceptual plan  and amendment must be submitted to the Department of Land
+Conservation and Development for review by:
+(a) The city, for an amendment under section 16 of this 2024 Act; or
+(b) Metro, for an amendment under section 16 of this 2024 Act.
+(2) Within 60 days after receiving a submittal under subsection (1) of this  section, the
+department shall:
+(a) Review the submittal for  compliance with the provisions of sections 15 to 22 of this
+2024 Act.
+(b)(A) If the submittal substantially  complies with the provisions of sections 15 to 22 of
+this 2024 Act, issue an order approving the submittal; or
+(B) If  the submittal does not substantially comply with the provisions of sections 15 to
+22 of this 2024 Act, issue an order remanding the submittal to the city or to Metro  with a
+specific determination of deficiencies in the submittal and with sufficient detail to identify  a
+specific remedy for any deficiency in a subsequent resubmittal.
+(3) If a conceptual plan is remanded to Metro under subsection (2)(b) of this section:
+(a) The department shall notify the city; and
+(b) The city may amend its  conceptual plan and resubmit a petition to Metro under sec-
+tion 16 of this 2024 Act.
+(4) Judicial review of the department’s order:
+(a) Must be as a review of orders other than a contested case under ORS 183.484; and
+(b) May be initiated only by the city or an owner of a proposed site.
+SECTION 21.
+A city  for which an amendment was made to an urban growth boundary
+under section  16 or 17 of this 2024 Act and approved under section 20 of this 2024 Act shall
+submit a report describing the status  of development within the included area to the De-
+partment of Land Conservation and Development every two years until:
+(1) January 2, 2033; or
+(2) The city determines that development consistent with  the acknowledged conceptual
+plan is deemed complete.
+SECTION 22.
+Notwithstanding ORS 197.626, an action by a local government under
+sections 15 to 22 of this 2024 Act is not a land use decision as defined in ORS 197.015.
+SECTION 23.
+Sections 15 to 22 of this 2024 Act are repealed on January 2, 2033.
+ATTORNEY FEES FOR NEEDED HOUSING CHALLENGES
+SECTION 24.  ORS 197.843 is amended to read:
+197.843. (1) The Land Use Board of Appeals shall  award attorney fees to [ an applicant whose
+application is only for the development of affordable housing, as defined  in ORS 197A.445, or publicly
+supported housing, as defined in ORS 456.250 ] a person whose application includes the  develop-
+ment of needed housing, as defined in ORS 197A.018, and any  local government that approved
+the quasi-judicial land use decision , if the board affirms a quasi-judicial land use decision ap-
+proving the application or reverses a quasi-judicial land use decision denying the application.
+(2) A  [ party who was ] person  awarded attorney fees under this section or ORS 197.850 shall
+repay the fees plus any interest from the time of the judgment  if the property upon which the fees
+are based is developed for a use other than [ affordable] the proposed needed housing.
+(3) As used in this section[ :],
+[(a) “Applicant” includes: ]
+[(A) An applicant with a funding reservation agreement with a public funder  for the purpose of
+developing publicly supported housing; ]
+[(B) A housing authority, as defined in ORS 456.005; ]
+[(C) A qualified housing sponsor, as defined in ORS 456.548; ]
+[(D) A religious nonprofit corporation; ]
+[(E) A  public benefit nonprofit corporation whose primary purpose is the development of affordable
+housing; and]
+[(F) A  local government that approved the application of an applicant described in this
+paragraph.]
+[(b)] “attorney fees” includes prelitigation  legal expenses, including preparing the application
+and supporting the application in local land use hearings or proceedings.
+SECTION 25. (1) The  amendments to ORS 197.843 by section 24 of this 2024 Act become
+operative on January 1, 2025.
+(2) The amendments  to ORS 197.843 by section 24 of this 2024 Act apply to decisions for
+which a notice of intent to appeal under ORS 197.830 is filed on or after January 1, 2025.
+NON-METRO CITIES URBAN GROWTH BOUNDARY AMENDMENTS
+SECTION 26. ORS 197A.285 is  added to and made a part of ORS chapter 197A.
+Notwithstanding any other provision of law, ORS 197A.285 shall not be considered to  have
+been added to or made a part of  ORS 197A.285 to 197A.325 for the purpose of statutory
+compilation or for the application of definitions, penalties or  administrative provisions ap-
+plicable to statute sections in that series.
+SECTION 27.  ORS 197A.285 is amended to read:
+197A.285. (1) A city outside Metro  shall comply with this section when determining which lands
+to include within  the urban growth boundary of the city, including when amending an urban growth
+boundary under ORS 197A.215, 197A.270 (5)(a), 197A.310 or 197A.312.
+(2) The Land Conservation and Development Commission shall provide, by rule, that:
+(a) When evaluating  lands for inclusion within the urban growth boundary, the city shall es-
+tablish a study area that includes all land that is contiguous to the urban growth  boundary and
+within a distance specified by commission.
+(b) The city shall evaluate all land in the study area for inclusion  in the urban growth boundary
+as provided in subsection (4) of this section, except for land excluded from the study area because:
+(A) It is impracticable, as provided in subsection (3) of this section, to  provide necessary public
+facilities or services to the land.
+(B) The land is  subject to significant development hazards, including a risk of land slides, a risk
+of flooding because the land is within the 100-year floodplain or is subject to inundation  during
+storm surges or tsunamis, and other risks determined by the commission.
+(C) The long-term preservation of significant scenic, natural, cultural  or recreational resources
+requires limiting or prohibiting urban development of the land that contains the resources.
+(D) The land is owned by the federal government and managed primarily for rural uses.
+(E) The land is designated as rural reserve under ORS 197A.230 to 197A.250.
+(c) When evaluating the priority of land for inclusion under paragraph (b) of this subsection:
+(A) The city shall evaluate the  land within the study area that is designated as an urban reserve
+under ORS 197A.245 in an acknowledged comprehensive plan.
+(B) If the amount of land appropriate for selection under subparagraph (A)  of this paragraph is
+not sufficient to satisfy the need for the land,  the city shall evaluate the land that is subject to an
+acknowledged exception under ORS 197.732 or land that is nonresource land  and select as much of
+the land as necessary to satisfy the need  for land using criteria established by the commission and
+criteria in an acknowledged comprehensive plan and land use regulations.
+(C) If the amount of land appropriate for  selection under subparagraphs (A) and (B) of this
+paragraph is not sufficient  to satisfy the need for land, the city shall evaluate the land within the
+study area that is  designated as marginal land under ORS 197.247 (1991 Edition) in the acknowl-
+edged comprehensive plan and select as much of the land  as necessary to satisfy the need for land
+using criteria established by the commission and criteria in  an acknowledged comprehensive plan
+and land use regulations.
+(D) If the amount  of land appropriate for selection under subparagraphs (A) to (C) of this para-
+graph is not sufficient to satisfy the amount of land needed, the city  shall evaluate land within the
+study area  that is designated for agriculture or forest uses in the acknowledged comprehensive plan
+that is not predominantly high-value farmland, as defined in ORS 195.300,  or does not consist pre-
+dominantly of prime or unique soils, as determined by the United States Department of  Agriculture
+Natural Resources Conservation Service, and select as much of that land as necessary to satisfy  the
+need for land:
+(i) Using criteria established by the  commission and criteria in an acknowledged comprehensive
+plan and land use regulations; and
+(ii) Using the predominant  capability classification system or the predominant cubic site class,
+as appropriate for the acknowledged comprehensive plan designation,  to select lower capability or
+cubic site class lands first.
+(E) If the amount  of land appropriate for selection under subparagraphs (A) to (D) of this para-
+graph is not sufficient to satisfy the need for land, the city shall  evaluate land within the study area
+that is designated as agricultural land in an acknowledged  comprehensive plan and is predominantly
+high value farmland and select as much of that land as necessary to satisfy  the need for land. A
+local government may not  select land that is predominantly made up of prime or unique farm soils,
+as defined by the United States Department of Agriculture Natural Resources Conservation Service,
+unless there is an insufficient amount of other land to satisfy its land need.
+(3) For purposes of subsection (2)(b)(A) of this  section, the commission shall determine
+impracticability by rule, considering the likely amount of development that could occur on  the lands
+within the  planning period, the likely cost of facilities and services, physical, topographical or other
+impediments to service provision and whether urban development has occurred on similarly situated
+lands such that it is likely that the  lands will be developed at an urban level during the planning
+period. When  impracticability is primarily a result of existing development patterns, the rules of the
+commission shall require that the lands be included within the study area,  but may allow the de-
+velopment capacity forecast for the lands  to be specified at a lower level over the planning period.
+The rules of the commission must be based on an evaluation of how  similarly situated lands have,
+or have not, developed over time.
+(4) For purposes of subsection (2)(b)(C) of this  section, the commission by rule shall determine
+the circumstances in which and the resources to which this exclusion will apply.
+(5) Notwithstanding subsection (2)(c)(E) of this section, the rules  must allow land that would
+otherwise be excluded from an urban growth boundary to be included if:
+(a) The land contains a small amount of resource land  that is not important to the commercial
+agricultural enterprise in the area and the land must be included to connect a nearby and  signif-
+icantly larger area of land of higher priority for inclusion within the urban growth boundary; or
+(b) The land contains a small  amount of resource land that is not predominantly high-value
+farmland or predominantly made up of prime or unique farm soils and the land is completely  sur-
+rounded by land of higher priority for inclusion into the urban growth boundary.
+(6) When the primary purpose for expansion  of the urban growth boundary is to accommodate
+a particular industry use that  requires specific site characteristics, or to accommodate a public fa-
+cility that requires specific site characteristics and the site characteristics may  be found in only a
+small number of locations, the city may limit the study area to land that has, or could be  improved
+to provide, the  required site characteristics. Lands included within an urban growth boundary for
+a particular industrial use,  or a particular public facility, must remain planned and zoned for the
+intended use:
+(a) Except as allowed by rule of the commission  that is based on a significant change in cir-
+cumstance or the passage of time; or
+(b) Unless the city removes the land from within the urban growth boundary.
+(7) Notwithstanding any other provision of this section, the commission may adopt  rules that
+specify circumstances under which a city  may exchange land within the urban growth boundary of
+the city  for land that is outside of the urban growth boundary and that is designed to avoid adverse
+effects of an exchange on agricultural or forest operations in the surrounding area.
+(8) A county’s role in the amendment of an  urban growth boundary is limited to giving
+advice and providing relevant information for  the department to review the amendment un-
+der ORS 197.626 (3) or to appeal a decision under 197.626 (4) or  197A.325. A county is not
+required to approve an urban growth boundary amendment  or to update its maps for an
+amendment to become effective.
+CONFORMING AMENDMENTS
+SECTION 28.
+ ORS 197A.025 is amended to read:
+197A.025. (1) In adopting rules under ORS  chapter 197A and statewide planning goals relating
+to housing or urbanization, or  administering the rules or statutes, the Land Conservation and De-
+velopment Commission and Department of Land Conservation  and Development shall be guided by
+the following principles:
+(a) Housing  that is safe, accessible and affordable in the community of their choice should be
+available to every Oregonian.
+(b) Building enough equitable housing must be a top priority.
+(c) The  development and implementation of the housing production strategy should be the focal
+point by which the department collaborates with local governments  to address and eliminate local
+barriers to housing production.
+(d) Expertise, technical assistance, model ordinances and other tools and resources  to address
+housing production  should be provided to local governments, using cooperative planning tools em-
+bodied in ORS 197A.103 and 197A.130, but not to the exclusion of the expedient use of enforcement
+authority, including compliance orders under ORS 197.319 to 197.335.
+(e) Housing production should  support fair and equitable housing outcomes, environmental jus-
+tice, climate resilience and access to opportunity.
+(f) Housing production should not be  undermined by litigation, regulatory uncertainty or repet-
+itive or unnecessary procedures.
+(g) Local governments, to the greatest extent possible,  should take actions within their control
+to facilitate the production of housing to meet housing production targets under ORS 184.455.
+(2) Each public body, as defined in ORS  174.109, shall use its authority to remove barriers to,
+and to create pathways for, the development of needed housing and shall collaborate  with the de-
+partment and local governments to identify and implement strategies to support housing  production
+where there is insufficient housing production and choice.
+(3) In adopting rules implementing ORS chapter 197A and statewide land use  goals relating to
+housing and urbanization, the commission may approve a range  of methodologies, policy options or
+assumptions that a local government may adopt in determining:
+(a) Needed housing;
+(b) Housing production strategies or housing coordination strategies;
+(c) Buildable lands or housing capacity;
+(d) Amendments to urban growth boundaries, including under  ORS 197A.215, 197A.270 (5)(a),
+197A.285, 197A.300 to 197A.325, 197A.350 (6)(a) and 197A.362; or
+(e) Adoption or amendments to urban reserves or  rural reserves under ORS 197A.230 to
+197A.250.
+SECTION 29.
+ ORS 197A.215 is amended to read:
+197A.215. (1) A local government may  make a land use decision to approve an application to
+remove a lot or parcel from within an urban growth boundary if:
+(a) The application is submitted by the owner of the lot or parcel;
+(b)(A) The lot or parcel is adjacent to the edge of the urban growth boundary; or
+(B) The lot or parcel is adjacent to another lot or parcel that is removed under this section;
+(c) The lot or parcel is assessed under ORS 308A.050 to 308A.128 for its value for farm use;
+(d) The lot or parcel is not within the boundaries of a city; and
+(e) The lot or parcel is not included in  an area identified for urban services under ORS 197.754.
+(2) A local government, in deciding whether to approve an application under  subsection (1) of
+this section, shall consider:
+(a) The projected costs and other consequences of extending urban services to the  affected lot
+or parcel;
+(b) The  potential value in the investment of providing urban services to the affected lot or par-
+cel;
+(c) Any requirement for expanding the  urban growth boundary in other areas to compensate for
+any loss in buildable lands; and
+(d) The projected costs and other consequences of providing urban services to other  areas
+brought in under an expanded urban growth boundary.
+(3)(a) Land that is removed from within an urban  growth boundary pursuant to an application
+approved under this  section shall be removed from any inventory of buildable lands maintained by
+the local government.
+(b) A local government that  approves an application under this section shall either expand the
+urban growth boundary to compensate for any resulting reduction in  available buildable lands or
+increase the development capacity of the remaining  supply of buildable lands consistent with ORS
+197A.270, 197A.280, 197A.285, 197A.300 to 197A.325 or 197A.350 (6).
+SECTION 30.
+ ORS 197A.300 is amended to read:
+197A.300. As used  in ORS [ 197A.285] 197A.300 to 197A.325, “serviceable” means, with respect
+to land, that:
+(1) Adequate  sewer, water and transportation capacity for planned urban development is avail-
+able or can be either provided or made subject to committed financing; or
+(2) Committed financing can be in place to provide  adequate sewer, water and transportation
+capacity for planned urban development.
+SECTION 31.  ORS 197A.302 is amended to read:
+197A.302. The purpose of ORS [ 197A.285] 197A.300 to 197A.325  is to direct the Land Conserva-
+tion and Development  Commission to develop and adopt simplified methods for a city that is outside
+Metro to evaluate or amend the urban growth boundary of the city. The commission  should design
+the methods to:
+(1) Become, as a result of  reduced costs, complexity and time, the methods that are used by most
+cities with growing populations to manage the urban growth boundaries of the cities;
+(2) Encourage, to  the extent practicable given market conditions, the development of urban
+areas in which individuals desire to live and work and  that are increasingly efficient in terms of
+land uses and in terms of public facilities and services;
+(3) Encourage the conservation of important farm and  forest lands, particularly lands that are
+needed to sustain agricultural and forest products industries;
+(4) Encourage cities to increase the development capacity within the urban  growth boundaries
+of the cities;
+(5) Encourage the provision of an adequate supply of serviceable land  that is planned for needed
+urban residential and industrial development; and
+(6) Assist residents in understanding the major  local government decisions that are likely to
+determine the form of a city’s growth.
+SECTION 32.  ORS 197A.325 is amended to read:
+197A.325. (1) Notwithstanding ORS 197.626, when a  city evaluates or amends the urban growth
+boundary of the city pursuant to ORS 197A.310 or 197A.312,  the Land Use Board of Appeals has
+jurisdiction for review of a final decision of the city.
+(2) The board shall review the final decision  of the city under ORS 197A.285 and 197A.285 to
+197A.325 as provided in ORS 197.805 to 197.855, except that:
+(a) In circumstances in  which the Land Conservation and Development Commission has specified
+by rule a number or a range of numbers that the city may use:
+(A) The city is not required to adopt findings to support the  use of the number or a number
+within the range of numbers; and
+(B) The board’s review of the number may determine only that the city has used  a number that
+is allowed by the rule.
+(b) The board shall affirm an interpretation by a local government of its  comprehensive plan or
+land use regulations unless that interpretation is clearly erroneous.
+(3) Notwithstanding ORS  197.628 and 197.629, when a city evaluates or amends the urban growth
+boundary of the city pursuant to ORS 197A.310 or 197A.312, the city  is not required to commence
+or complete periodic review. The commission shall, by rule, specify alternate means to  ensure that
+the comprehensive plan and land use regulations of the city comply  with the statewide land use
+planning goals and are updated over time to reflect changing conditions and needs.
+APPROPRIATION
+SECTION 33.
+In addition to and not in lieu of any other  appropriation, there is appro-
+priated to  the Department of Land Conservation and Development, for the biennium ending
+June 30, 2025, out of the General Fund:
+(1) The amount of $4,805,198  to perform the duties of the Housing Accountability and
+Production Office under sections 7 to 10 of this 2024 Act.
+(2) The amount of $10,000,000 to provide:
+(a) Programs or documents relating to education, guidance or best practices for local
+governments regarding compliance with state housing laws, as defined in section 7 of  this
+2024 Act;
+(b) Grants to local governments or nonprofit organizations to develop  programs or doc-
+uments under paragraph (a) of this subsection;
+(c) Before April 1, 2025, technical assistance and grants to local governments that  pro-
+actively acknowledge the need to update  the local implementation of land use regulations and
+building code enforcement to comply with housing laws; and
+(d) On and after April 1,  2025, technical assistance and grants to assist local governments
+with:
+(A) The implementation of  voluntary compliance agreements as described in section 8 (3)
+of this 2024 Act; or
+(B) Updates to land use regulations needed to comply with changes to Land Conservation
+and Development Commission rules or  the legal interpretations of land use laws or rules, if
+those changes relate to housing.
+CAPTIONS
+SECTION 34.
+The unit captions used in this 2024 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2024 Act.
+EMERGENCY CLAUSE
+SECTION 35.
+This 2024 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2024 Act takes effect
+on its passage.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 183.471, ORS 197.843, ORS 197A.025, ORS 197A.215, ORS 197A.285, ORS 197A.300, ORS 197A.302, ORS 197A.325, ORS 455.770
+- From bill text (Introduced version): ORS 174.109, ORS 183.413, ORS 183.417, ORS 183.471, ORS 183.484, ORS 183.625, ORS 183.635, ORS 184.455, ORS 192.245, ORS 192.311, ORS 192.324, ORS 192.338, ORS 192.345, ORS 192.355, ORS 195.060, ORS 195.065, ORS 195.300, ORS 197.015, ORS 197.090, ORS 197.195, ORS 197.247, ORS 197.319, ORS 197.324, ORS 197.335, ORS 197.626, ORS 197.628, ORS 197.629, ORS 197.652, ORS 197.732, ORS 197.754, ORS 197.758, ORS 197.805, ORS 197.825, ORS 197.830, ORS 197.843, ORS 197.850, ORS 197.860, ORS 197A.018, ORS 197A.025, ORS 197A.103, ORS 197A.110, ORS 197A.130, ORS 197A.215, ORS 197A.230, ORS 197A.245, ORS 197A.270, ORS 197A.280, ORS 197A.285, ORS 197A.300, ORS 197A.302, ORS 197A.310, ORS 197A.325, ORS 197A.445, ORS 197A.470, ORS 215.416, ORS 215.422, ORS 227.180, ORS 308A.050, ORS 446.003, ORS 455.160, ORS 455.770, ORS 455.775, ORS 455.895, ORS 456.005, ORS 456.250, ORS 456.270, ORS 456.280, ORS 456.548, ORS 657.010, ORS 657B.010, ORS 657B.150, ORS 657B.200, ORS 657B.210, ORS 657B.220, ORS 92.010
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `41a9b5d7ea2e6490de82b9e1ad2b42a088a4645c9e1257ce3508af7234248671` (snapshot `_meta/snapshots/measure-2024r1-hb4048-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4048/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4048> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

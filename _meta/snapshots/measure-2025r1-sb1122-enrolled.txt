@@ -1,0 +1,146 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 1122
+Sponsored by COMMITTEE ON JUDICIARY
+CHAPTER .................................................
+AN ACT
+Relating to sex offender risk assessments;  creating new provisions; amending ORS 163A.100 and
+163A.105; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 163A.100 is amended to read:
+163A.100. The State Board of  Parole and Post-Prison Supervision shall, in consultation with
+community corrections  agencies, adopt by rule a sex offender risk assessment methodology for use
+in classifying sex offenders.  The methodology may consider  exclusively the risk the sex
+offender presented at the time  the sex offender was released from custody, sentenced or
+otherwise discharged from the jurisdiction of a court of this state, or another  United States
+court, for the crime or act for which the sex offender is required to report.  Application of the
+risk assessment methodology to a sex offender must result in placing the sex offender in one of  the
+following  levels:
+(1) A level  one sex offender who presents , or presented at the time of release, sentencing
+or discharge, the lowest risk of reoffending and requires a limited range of notification.
+(2) A level two sex offender who presents , or presented at the  time of release, sentencing
+or discharge, a moderate risk of reoffending and requires a moderate range of notification.
+(3) A level three sex offender who presents , or presented at the time  of release, sentencing
+or discharge, the highest risk of reoffending and requires the widest range of notification.
+SECTION 2.  ORS 163A.105 is amended to read:
+163A.105. (1) When  a person convicted of a crime described in ORS 163.355 to 163.427 is sen-
+tenced to a term of imprisonment in  a Department of Corrections institution for that crime, the
+State Board of Parole and Post-Prison Supervision shall assess the person utilizing  the risk assess-
+ment methodology described in ORS 163A.100. The board shall apply the results  of the assessment
+to place the person in one of the levels described in ORS 163A.100 before the person is released from
+custody.
+(2) When a person convicted of a sex crime is sentenced to a term of incarceration in  a jail, or
+is discharged,  released or placed on probation by the court, the supervisory authority as defined in
+ORS 144.087 shall assess  the person utilizing the risk assessment methodology described in ORS
+163A.100 and apply the results  of the assessment to place the person in one of the levels described
+in ORS 163A.100 no later than 90  days after the person is released from jail or discharged, released
+or placed on probation by the court.
+(3)(a) When a person is found guilty except for insanity  of a sex crime, the Psychiatric Security
+Review  Board  shall assess the person utilizing the risk assessment methodology described in ORS
+Enrolled Senate Bill 1122 (SB 1122-A) Page 1
+163A.100 and apply the results  of the assessment to place the person in one of the levels described
+in ORS 163A.100 no later than 90 days after the person is:
+(A) Placed on conditional release by the Psychiatric Security Review Board;
+(B) Discharged from the jurisdiction of the Psychiatric Security Review Board;
+(C) Placed on conditional release by the court pursuant to ORS 161.327; or
+(D) Discharged by the court pursuant to ORS 161.329.
+(b) If the State Board of Parole and Post-Prison Supervision previously completed a risk as-
+sessment and assigned  a classification level described in ORS 163A.100 for a person described in
+paragraph (a) of this subsection, the  Psychiatric Security Review Board need not complete a reas-
+sessment for an initial classification.
+(c) The court shall notify the Psychiatric Security Review  Board when the court conditionally
+releases or discharges a person described in paragraph (a) of this subsection.
+(d) The Psychiatric Security Review Board shall notify  the State Board of Parole and Post-
+Prison Supervision no later than seven days after the Psychiatric Security  Review Board condi-
+tionally releases or discharges  a person who has a prior sex crime conviction that obligates the
+person to report as a sex offender, unless the person has also been found guilty except for  insanity
+of a sex crime that obligates the person to report as a sex offender.
+(4)(a) Within 90 days after receiving notice  of a person’s obligation to report in this state from
+the Department of State Police, the  State Board of Parole and Post-Prison Supervision shall assess
+the person utilizing the risk assessment methodology  described in ORS 163A.100 and apply the re-
+sults of the assessment to place the person in one of the levels described in ORS  163A.100 if the
+person has been convicted in another United States court of a crime:
+(A) That would constitute a sex crime if committed in this state; or
+(B) For which the person would  have to register as a sex offender in that court’s jurisdiction,
+or as required under federal law, regardless of whether the crime would constitute  a sex crime in
+this state.
+(b) If a person has been convicted of a sex crime and was sentenced to a term of imprisonment
+in a Department of Corrections institution for that sex crime, but was not subjected to a  risk as-
+sessment utilizing the risk assessment methodology described in ORS 163A.100  before release under
+subsection (1) of this section, within 90 days after the person’s release  the State Board of Parole
+and Post-Prison Supervision shall assess the person utilizing the risk  assessment methodology de-
+scribed in ORS 163A.100  and apply the results of the assessment to place the person in one of the
+levels described in ORS 163A.100.
+(5) When the State Board of Parole and Post-Prison Supervision, the Psychiatric Security Review
+Board or  a supervisory authority applies the results of a risk assessment to place a person in one
+of the  levels described in ORS 163A.100, the agency shall notify the Department of State Police of
+the results of the risk assessment within three business days after  the agency’s classification. Upon
+receipt, the Department of State Police shall enter the results of the  risk assessment into the Law
+Enforcement Data System.
+(6) The State Board of Parole and Post-Prison Supervision, the Psychiatric Security Review
+Board or a supervisory authority may reassess or reclassify a person placed in one  of the levels
+described in ORS 163A.100 under this section if :
+(a) The classifying board or authority determines that a factual mistake  caused an erroneous
+assessment or classification ; or
+(b) The person has committed a sexually motivated rule violation while in  custody, has
+committed a sexually motivated violation of a condition of probation,  parole or post-prison
+supervision or has been arrested for or charged with a sex crime .
+(7)(a) A person classified under this section as a level two or level three sex  offender as de-
+scribed in ORS  163A.100 may petition the classifying board or authority for review. Except for good
+cause shown, the petition may be filed no later than 60 days after  the notice of the classification is
+provided to the person or, if the notice is mailed, no later than 60 days after the notice is sent.
+Enrolled Senate Bill 1122 (SB 1122-A) Page 2
+(b) When good cause is shown, the time for filing  a petition under this subsection may not be
+extended more than 60 days beyond  the date of the person’s next annual report under ORS 163A.010,
+163A.015 or 163A.020.
+(c) Upon receipt of a petition described in this subsection, the classifying board or  authority
+shall afford the  person an opportunity to be heard as to all factual questions related to the classi-
+fication.
+(d) After providing the person with notice and an  opportunity to be heard in accordance with
+this subsection, the  board or authority shall classify the person in accordance with the classifica-
+tions described in ORS 163A.100, based on all of the information available to the  classifying board
+or authority.
+(e) As used  in this subsection, “good cause” means that, due to a person’s transience, lack of
+housing, ongoing mental health concerns or other similar circumstances,  a notice mailed to the
+person under paragraph (a) of this subsection was not received by the person.
+(8)(a) If the State Board of Parole and Post-Prison Supervision, the  Psychiatric Security Review
+Board or a supervisory authority does not classify a person under ORS 163A.100 because  the person
+has failed or refused to participate in a sex offender risk assessment as directed  by the board or
+authority, the classifying  board or authority shall classify the person as a level three sex offender
+under ORS 163A.100 (3).
+(b) If a person classified as a level three sex offender under this subsection notifies the classi-
+fying board or authority  of the willingness to participate in a sex offender risk assessment, the
+classifying board or authority shall  perform the assessment and classify the person in one of the
+levels described in ORS 163A.100.
+(9) The State Board  of Parole and Post-Prison Supervision and the Psychiatric Security Review
+Board may adopt rules to carry out the provisions of this section.
+SECTION 3. The amendments to ORS 163A.100 by section 1 of this 2025 Act  apply to sex
+offenders released from custody, sentenced or otherwise discharged  from the jurisdiction of
+a court of this state, or another United States court, for the crime or act for which  the sex
+offender is required to report, before, on or after the effective date of this 2025 Act.
+SECTION 4. The State Board of Parole and  Post-Prison Supervision may reassess and
+reclassify, in accordance with the amendments to ORS 163A.100 by section 1 of  this 2025 Act,
+any sex offender who was previously assessed and classified on or after July 10, 2024.
+SECTION 5. This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist, and  this 2025 Act takes effect
+on its passage.
+Enrolled Senate Bill 1122 (SB 1122-A) Page 3
+Passed by Senate April 3, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House May 15, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 1122 (SB 1122-A) Page 4

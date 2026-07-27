@@ -1,0 +1,735 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2087
+title: 'HB 2087 (2025R1): Extends sunsets for certain tax credits and exemptions.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2087
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2087/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: f973eda97cda72f6ffb8cf867fdd34fdf347e16c3528a289f62b57e79fd89428
+snapshot_id: measure-2025r1-hb2087-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 192.245
+  - ORS 284.367
+  - ORS 286A.001
+  - ORS 314.085
+  - ORS 314.440
+  - ORS 315.056
+  - ORS 315.058
+  - ORS 315.063
+  - ORS 315.154
+  - ORS 315.156
+  - ORS 315.266
+  - ORS 315.271
+  - ORS 315.514
+  - ORS 315.516
+  - ORS 315.622
+  - ORS 316.090
+  - ORS 316.117
+  - ORS 316.157
+  - ORS 316.796
+  - ORS 316.798
+  - ORS 316.800
+  - ORS 317.097
+  - ORS 442.561
+  - ORS 446.003
+  - ORS 456.055
+  - ORS 458.610
+  - ORS 458.685
+  - ORS 458.690
+  - ORS 466.706
+  - ORS 706.008
+  - ORS 825.475
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2087
+prefix_meaning: House Bill
+catch_line: Extends sunsets for certain tax credits and exemptions.
+minority_catch_line: null
+measure_summary: "\t<b>Digest: The Act makes changes to tax credits. (Flesch Readability Score: 90.9).</b>\
+  \ \n\t[<i>Digest: The Act tells the LRO to study the personal income tax system. (Flesch Readability\
+  \ Score: 74.8).</i>] \n\t[<i>Requires the Legislative Revenue Officer to study the personal income tax\
+  \ system. Directs the Legislative Revenue Officer to submit findings to the interim committees of the\
+  \ Legislative Assembly related to revenue not later than December 1, 2026.</i>] \n\t<b>Extends sunsets\
+  \ for certain tax credits and exemptions. Increases allowed amounts and statewide caps and otherwise\
+  \ modifies certain tax credits and exemptions. \n\tTakes effect on the 91st day following adjournment\
+  \ sine die.</b>"
+relating_to: Relating to revenue; and prescribing an effective date.
+relating_to_full: Relating to revenue; and prescribing an effective date.
+at_the_request_of: (at the request of House Interim Committee on Revenue for Representative Nancy Nathanson)
+lc_number: 3632
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-08-13T12:44:25'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 43681
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 192.245
+  - ORS 284.367
+  - ORS 286A.001
+  - ORS 314.085
+  - ORS 314.440
+  - ORS 315.056
+  - ORS 315.058
+  - ORS 315.063
+  - ORS 315.154
+  - ORS 315.156
+  - ORS 315.266
+  - ORS 315.271
+  - ORS 315.514
+  - ORS 315.516
+  - ORS 315.622
+  - ORS 316.090
+  - ORS 316.117
+  - ORS 316.157
+  - ORS 316.796
+  - ORS 316.798
+  - ORS 316.800
+  - ORS 317.097
+  - ORS 442.561
+  - ORS 446.003
+  - ORS 456.055
+  - ORS 458.610
+  - ORS 458.685
+  - ORS 458.690
+  - ORS 466.706
+  - ORS 706.008
+  - ORS 825.475
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2087>.
+
+# HB 2087 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2087, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of House Interim Committee on Revenue for Representative Nancy Nathanson)
+- **LC number:** 3632
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-08-13T12:44:25
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 43681 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2087/Enrolled>.
+
+## Summary
+
+**Catchline:** Extends sunsets for certain tax credits and exemptions.
+
+**Relating to:** Relating to revenue; and prescribing an effective date.
+
+<b>Digest: The Act makes changes to tax credits. (Flesch Readability Score: 90.9).</b> 
+ [<i>Digest: The Act tells the LRO to study the personal income tax system. (Flesch Readability Score: 74.8).</i>] 
+ [<i>Requires the Legislative Revenue Officer to study the personal income tax system. Directs the Legislative Revenue Officer to submit findings to the interim committees of the Legislative Assembly related to revenue not later than December 1, 2026.</i>] 
+ <b>Extends sunsets for certain tax credits and exemptions. Increases allowed amounts and statewide caps and otherwise modifies certain tax credits and exemptions. 
+ Takes effect on the 91st day following adjournment sine die.</b>
+
+**RelatingToFull (verbatim upstream field):** Relating to revenue; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 2087
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House In-
+terim Committee on Revenue for Representative Nancy Nathanson)
+CHAPTER .................................................
+AN ACT
+Relating to revenue; creating new provisions; amending ORS 315.156, 315.271, 315.514,  315.622,
+316.798 and 317.097 and sections 7 and 10, chapter 826, Oregon Laws 2005, section 66,  chapter
+832, Oregon Laws 2005, section 9, chapter 765, Oregon Laws 2007, section  6, chapter 880,
+Oregon  Laws  2007, section 18, chapter 906, Oregon Laws 2007, sections 5 and 36, chapter 913,
+Oregon Laws 2009, section 9, chapter 109, Oregon  Laws 2018, section 41, chapter 579, Oregon
+Laws 2019, and section 30, chapter 525, Oregon Laws 2021; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  Section 6, chapter 880, Oregon Laws 2007, as amended by  section 1, chapter 750,
+Oregon Laws 2013, and section 32, chapter 579, Oregon Laws 2019, is amended to read:
+Sec. 6.  ORS 315.266 applies to tax years beginning before January 1, [ 2026] 2032.
+SECTION 2.  ORS 315.156 is amended to read:
+315.156. (1) A taxpaying individual or  corporation that is a grower of a crop and that makes a
+qualified donation of  the crop shall be allowed a credit against the taxes otherwise due under ORS
+chapter 316 or, if the taxpayer is a corporation, under ORS chapter 317 or 318, as follows:
+(a) In the case of a qualified donation made under circumstances described in ORS  315.154 (5)(a)
+or (b), the amount of the credit shall be [ 15] 25 percent of the value of the quantity of the crop do-
+nated computed at the wholesale market price.
+(b) In the case of a qualified  donation made under circumstances described in ORS 315.154 (5)(c),
+the amount of the credit shall be [ 15] 25 percent of the value of the quantity of the crop donated
+computed at the wholesale market price that the grower would have  received had the quantity of
+the crop donated been sold or salable.
+(2) At the time  of donation, the director, supervisor or other appropriate official of the entity
+to which a qualified  donation is made shall supply to the grower of the crop donated two copies of
+a form prescribed by the Department of Revenue. The forms shall contain:
+(a) The name and address of the grower;
+(b) The description and quantity of the donated crop;
+(c) The signature of the director, supervisor or other  appropriate official of the entity receiving
+the donated crop verifying that the produce was or will  be distributed to children or homeless, un-
+employed, elderly or low-income individuals;
+(d) The wholesale market price; and
+(e) Other information required by the Department of Revenue by rule.
+(3) Tax claim for tax credit shall be substantiated by  submission with the tax return, of the form
+described in subsection (2)  of this section, a statement verified by the taxpayer that the qualified
+Enrolled House Bill 2087 (HB 2087-A) Page 1
+donation was made under circumstances described in ORS 315.154  (5) and a copy of an invoice or
+other statement identifying  the price received by the grower for the crops of comparable grade or
+quality if there is a  previous cash buyer. The requirement for substantiation may be waived par-
+tially, conditionally or absolutely, as provided under ORS 315.063.
+(4) Any tax credit otherwise allowable under  this section that is not used by the taxpayer in a
+particular tax year  may be carried forward and offset against the taxpayer’s tax liability for the
+next succeeding tax year. Any credit remaining unused in the next succeeding tax year  may be
+carried forward and used in the second succeeding tax year, and likewise, any credit not  used in
+that second succeeding tax year may be carried forward and used in the third succeeding tax  year,
+but may not be carried forward for any tax year thereafter.
+(5)(a) A nonresident  individual shall be allowed the credit computed under this section in the
+same manner and subject to  the same limitations as the credit allowed a resident by this section.
+However, the credit shall be prorated using the proportion provided in ORS 316.117.
+(b) If a change in the taxable year of a taxpayer occurs as described in ORS  314.085, or if the
+department terminates  the taxpayer’s taxable year under ORS 314.440, the credit allowed by this
+section shall be prorated or computed in a manner consistent with ORS 314.085.
+(c) If a change in the status of a taxpayer from resident  to nonresident or from nonresident to
+resident occurs, the credit allowed by this section shall be determined in  a manner consistent with
+ORS 316.117.
+SECTION 3.  Section 5, chapter 913, Oregon Laws 2009, as amended by  section 1, chapter 115,
+Oregon Laws 2014, and section 38, chapter 579, Oregon Laws 2019, is amended to read:
+Sec. 5.  Except as provided in ORS 315.156 (4),  a credit may not be claimed under ORS 315.156
+for tax years beginning on or after January 1, 2012, and before January 1, 2014,  or on or after
+January 1, [ 2026] 2032.
+SECTION 4. The amendments  to ORS 315.156 by section 2 of this 2025 Act apply to tax
+years beginning on or after January 1, 2025.
+SECTION 5.  Section 36, chapter 913, Oregon Laws 2009, as amended  by section 9, chapter 750,
+Oregon Laws 2013, and section 27, chapter 579, Oregon Laws 2019, is amended to read:
+Sec. 36.  A credit may not be claimed  under ORS 316.157 for tax years beginning on or after
+January 1, [ 2026] 2032.
+SECTION 6.  Section 18, chapter 906, Oregon Laws 2007, as  amended by section 33, chapter 913,
+Oregon Laws 2009, section 33, chapter 750, Oregon Laws 2013, and section 23, chapter 579, Oregon
+Laws 2019, is amended to read:
+Sec. 18.  [ Section 17, chapter 906, Oregon Laws  2007,] ORS 316.090  applies to individuals whose
+household ends tenancy at a manufactured dwelling park during  a tax year that begins on or after
+January 1, 2007, and before January 1, [ 2026] 2032.
+SECTION 7.
+ Section 7, chapter 826, Oregon Laws 2005, as amended  by section 21, chapter 906,
+Oregon Laws 2007, section 36, chapter 750,  Oregon Laws 2013, section 14, chapter 217, Oregon Laws
+2015, section 20, chapter 579, Oregon Laws 2019, and section 22, chapter 528, Oregon  Laws 2021, is
+amended to read:
+Sec. 7.  (1) Section 6, chapter 826, Oregon Laws  2005, applies to tax years beginning on or after
+January 1, 2006, and before January 1, [ 2026] 2032.
+(2) The amendments to section 6, chapter 826, Oregon  Laws 2005, by section 9, chapter 217,
+Oregon Laws 2015, apply to  tax years beginning on or after January 1, 2015, and before January
+1, [2026] 2032.
+(3) The amendments to section 6, chapter 826, Oregon  Laws 2005, by section 21 , chapter 528,
+Oregon Laws 2021, [ of this 2021 Act ] apply to tax years  beginning on or after January 1, 2021, and
+before January 1, [ 2026] 2032.
+SECTION 8.  Section 10, chapter 826, Oregon Laws 2005, as  amended by section 22, chapter 906,
+Oregon Laws 2007, section 37, chapter 750,  Oregon Laws 2013, section 15, chapter 217, Oregon Laws
+2015, section 22, chapter 579, Oregon Laws 2019, and section 24, chapter 528, Oregon  Laws 2021, is
+amended to read:
+Enrolled House Bill 2087 (HB 2087-A) Page 2
+Sec. 10.  (1) Section 9, chapter 826, Oregon Laws 2005,  applies to tax years beginning on or after
+January 1, 2006, and before January 1, [ 2026] 2032.
+(2) The amendments to section 9, chapter  826, Oregon Laws 2005, by section 10, chapter 217,
+Oregon Laws 2015, apply to tax years beginning on or after January 1,  2015, and before January
+1, [2026] 2032.
+(3) The amendments to section 9, chapter 826,  Oregon Laws 2005, by section 23 , chapter 528,
+Oregon Laws 2021, [ of this 2021 Act ] apply to tax years  beginning on or after January 1, 2021, and
+before January 1, [ 2026] 2032.
+SECTION 9.  ORS 317.097, as amended by section 25, chapter 75, Oregon Laws  2024, is amended
+to read:
+317.097. (1) As used in this section:
+(a) “Annual rate” means the yearly interest rate specified on the note, and  not the annual per-
+centage rate, if any, disclosed to the applicant to comply with the federal Truth in Lending Act.
+(b) “Bonds”  means a bond, as defined in ORS 286A.001, if issued on behalf of the Housing and
+Community Services  Department, or bonds, as defined in ORS 456.055, if issued by a housing au-
+thority.
+(c) “Finance charge” means the total of all interest, loan  fees, interest on any loan fees financed
+by the lending institution, and other charges related to the cost of obtaining credit.
+(d) “Lending institution” means  any insured institution, as that term is defined in ORS 706.008,
+any mortgage banking company that maintains an office  in this state or any community development
+corporation that is organized under the Oregon Nonprofit Corporation Law.
+(e) “Limited equity cooperative” means  a cooperative corporation formed under ORS chapter 62
+whose articles of incorporation, in addition  to the other requirements of ORS chapter 62, prohibit
+members from selling their ownership interests:
+(A) To any person other than a low income person; or
+(B) For a sales price that exceeds the sum of:
+(i) The price the member paid for the ownership interest;
+(ii) The cost of  any permanent improvements the member made to the housing unit during the
+member’s ownership;
+(iii) Any special assessments the member  paid to the limited equity cooperative during the
+member’s ownership that were expended to make permanent improvements to the building in  which
+the member’s housing unit is located; and
+(iv) A return  on the amounts described in sub-subparagraphs (i) to (iii) of this subparagraph,
+computed from the year in which the  respective amount was paid, that equals the greater of the
+result of adjusting each amount by the  percentage increase, if any, in the Consumer Price Index for
+All Urban Consumers,  West Region (All Items), as published by the Bureau of Labor Statistics of
+the United States Department of Labor, or of  increasing each amount by three percent compounded
+annually.
+(f) “Manufactured dwelling park” has the meaning given that term in ORS 446.003.
+(g) “Nonprofit corporation” means a corporation that  is exempt from income taxes under section
+501(c)(3) or (4) of the Internal Revenue Code as amended and in effect on December 31, 2023.
+(h) “Preservation project” means housing that was previously developed as affordable housing
+with a contract for rent assistance from the United States Department  of Housing and Urban De-
+velopment or the United  States Department of Agriculture and that is being acquired by a spon-
+soring entity.
+(i) “Qualified assignee” means any investor participating  in the secondary market for real estate
+loans.
+(j) “Qualified borrower” means any borrower that is a sponsoring entity  that has a controlling
+interest in the real property that is financed by a qualified  loan. A controlling interest includes a
+controlling interest in the general partner of a limited partnership that owns the real property.
+(k) “Qualified loan” means:
+Enrolled House Bill 2087 (HB 2087-A) Page 3
+(A) A  loan that meets the criteria stated in subsection (5) of this section or that is made to re-
+finance a loan that meets the criteria described in subsection (5) of this section; [ or]
+(B) The purchase by a lending institution of bonds, the proceeds  of which are used to finance
+or refinance a loan that meets the criteria described in subsection (5) of this section[ .]; or
+(C) A qualified mortgage loan fund.
+(L) “Qualified mortgage loan fund” means a fund that:
+(A) Is operated by a lending institution described in subsection (12) of this section;
+(B) Makes mortgages to first-time home buyers;
+(C) Makes mortgages for homes subject to a land trust mortgage; and
+(D) Makes mortgages  to households that, at the time of mortgage origination, have in-
+come that is 80 percent or less of area median income as defined in ORS 458.610.
+[(L)] (m) “Sponsoring entity” means a nonprofit  corporation, nonprofit cooperative, state gov-
+ernmental entity, local unit of  government as defined in ORS 466.706, housing authority or any other
+person, provided that the person has agreed to  restrictive covenants imposed by a nonprofit corpo-
+ration, nonprofit cooperative, state governmental entity, local unit of government  or housing au-
+thority.
+(2) The Department of Revenue  shall allow a credit against taxes otherwise due under this
+chapter for the tax year to a lending institution that  makes a qualified loan certified by the Housing
+and Community Services Department as provided in subsection  (7) of this section. The amount of the
+credit is equal to the difference between:
+(a) The amount of finance charge charged by the lending institution during the tax year at an
+annual rate less than the  market rate for a qualified loan [ that is made before January 1, 2026, ] that
+complies with the requirements of this section; and
+(b) The amount of finance charge that would  have been charged during the tax year by the
+lending institution for the qualified loan for housing construction,  development, acquisition or re-
+habilitation measured at the annual rate charged by the lending  institution for nonsubsidized loans
+made under like terms and conditions  at the time the qualified loan for housing construction, de-
+velopment, acquisition or rehabilitation is made.
+(3) The maximum amount of  credit for the difference between the amounts described in sub-
+section (2)(a) and (b) of this section may not exceed four percent of the average unpaid  balance of
+the qualified loan during the tax year for which the credit is claimed.
+(4) Any tax credit allowed under  this section that is not used by the taxpayer in a particular
+year may be carried forward and offset against the taxpayer’s tax liability for the  next succeeding
+tax year. Any credit remaining unused in the next succeeding tax year may be  carried forward and
+used in the second succeeding  tax year, and likewise, any credit not used in that second succeeding
+tax year may be carried forward  and used in the third succeeding tax year, and any credit not used
+in that  third succeeding tax year may be carried forward and used in the fourth succeeding tax year,
+and any credit not used in that fourth succeeding tax year may be carried forward and used in the
+fifth succeeding tax year, but may not be carried forward for any tax year thereafter.
+(5) To be eligible for the tax credit  allowable under this section, a lending institution must make
+a qualified loan by either purchasing bonds, the proceeds of which are used to finance or  refinance
+a loan that meets the criteria stated in this subsection, or making a loan directly to:
+(a) An individual or individuals who own a  dwelling, participate in an owner-occupied commu-
+nity rehabilitation program and are certified by the  local government or its designated agent as
+having an income level when the loan is made of 80 percent of the area median income or less;
+(b) A qualified borrower who:
+(A) Uses the loan proceeds to finance  construction, development, acquisition or rehabilitation
+of housing, including housing in the form of a limited equity cooperative; and
+(B) Provides a written certification executed by the Housing and Community Services  Depart-
+ment that the:
+(i) Housing created by the  loan is or will be occupied by households earning 80 percent of the
+area median income or less; and
+Enrolled House Bill 2087 (HB 2087-A) Page 4
+(ii) Full amount  of savings from the reduced interest rate provided by the lending institution is
+or will  be passed on, in the form of reduced housing payments, to the tenants or to the holders of
+proprietary leases in a limited equity cooperative;
+(c) Subject to subsection (14) of this section, a qualified borrower who:
+(A) Uses the loan proceeds to  finance construction, development, acquisition or rehabilitation
+of housing consisting of a manufactured dwelling park; and
+(B) Provides  a written certification executed by the Housing and Community Services Depart-
+ment that  the housing will continue to be operated as a manufactured dwelling park during the pe-
+riod for which the tax credit is allowed;
+(d) A qualified borrower who:
+(A) Uses the loan proceeds  to finance acquisition or rehabilitation of housing consisting of a
+preservation project; and
+(B) Provides a written certification executed by the Housing and Community Services  Depart-
+ment that the housing preserved by the loan:
+(i) Is or will be occupied by households earning 80 percent of the area median income or  less;
+and
+(ii) Is the subject of a rent  assistance contract with the United States Department of Housing
+and Urban Development or the United States Department of Agriculture  that will be maintained by
+the qualified borrower; [ or]
+(e) A qualified borrower who:
+(A) Uses the loan proceeds to finance  construction, development, acquisition or rehabilitation
+of housing; and
+(B) Provides a written certification executed by the Housing and Community Services  Depart-
+ment or the governmental party to the rent assistance contract that the  housing preserved by the
+loan:
+(i) Is  or will be occupied by households earning 80 percent of the area median income or less;
+and
+(ii) Is the  subject of a rent assistance contract with the federal government or with a state or
+local  government  that will be maintained by the qualified borrower and that limits a tenant’s rent
+to no more than 30 percent of their income[ .];
+(f) A qualified borrower who:
+(A) Uses the loan proceeds to finance preservation or rehabilitation of housing; and
+(B) Provides a written certification executed by the Housing and Community  Services
+Department that the housing preserved or rehabilitated by the loan:
+(i) Is or will be occupied by households earning 80 percent of the area median income or
+less; and
+(ii) Is currently characterized by  financial or physical distress that threatens its ongoing
+viability as an affordable housing resource; or
+(g) A qualified mortgage loan fund.
+(6) A loan made to refinance a loan that meets  the criteria stated in subsection (5) of this sec-
+tion must be treated the same as a loan that meets the criteria stated in  subsection (5) of this sec-
+tion.
+(7) For a qualified loan  to be eligible for the tax credit allowable under this section, the Housing
+and Community Services Department must execute a  written certification for the qualified loan that:
+(a) States  that the qualified loan is within the limitation imposed by subsection (8) of this sec-
+tion; and
+(b) Specifies  the period, as determined by the Housing and Community Services Department,
+during which the tax credit is allowed for the qualified loan, not to exceed:
+(A) 30 years, for a qualified loan with a contract for rent assistance or financing  resources from
+the United States Department of  Agriculture, for new housing construction, acquisition of housing
+or a preservation project; or
+(B) 20 years, for any other type of qualified loan.
+Enrolled House Bill 2087 (HB 2087-A) Page 5
+(8) The Housing and Community Services Department may certify qualified loans that are eligi-
+ble under subsection (5) of this section if the total credits attributable  to all qualified loans eligible
+for credits under this section and then outstanding do not exceed  $35 million for any fiscal year. In
+making loan certifications under subsection (7) of this section, the Housing and Community  Services
+Department shall attempt to distribute the tax credits statewide,  but shall concentrate the tax
+credits in those areas of the state  that are determined by the Oregon Housing Stability Council to
+have the greatest need for affordable housing.
+(9) The tax credit provided for in this section may be taken whether or not:
+(a) The financial institution is eligible to take a federal  income tax credit under section 42 of
+the Internal Revenue Code with respect to the project financed by the qualified loan; or
+(b) The project receives financing from bonds, the interest on  which is exempt from federal
+taxation under section 103 of the Internal Revenue Code.
+(10) For a qualified loan defined in subsection (1)(k)(B)  of this section financed through the
+purchase of bonds, the interest of which is exempt from federal taxation under section 103 of the
+Internal Revenue Code, the  amount of finance charge that would have been charged under sub-
+section (2)(b) of this section is determined by reference to the finance charge that would  have been
+charged if the federally tax exempt bonds had been issued and the tax credit under  this section did
+not apply.
+(11) A lending institution  may sell a qualified loan for which a certification has been executed
+to a qualified assignee whether or not the lending institution retains servicing of the qualified  loan
+so long  as a designated lending institution maintains records, annually verified by a loan servicer,
+that establish the amount of tax credit earned by the taxpayer throughout each year of eligibility.
+(12) Notwithstanding any other provision of law,  a lending institution that is a community de-
+velopment corporation organized under the Oregon Nonprofit Corporation Law may transfer all or
+part of a tax credit allowed under this section to one or more other lending institutions that  are
+stockholders or members of  the community development corporation or that otherwise participate
+through the  community development corporation in the making of one or more qualified loans for
+which the tax credit under this section is allowed.
+(13) The lending institution shall file an annual statement with the Housing and  Community
+Services  Department,  specifying that it has conformed with all requirements imposed by law to
+qualify for a tax credit under this section.
+(14) Notwithstanding subsection (1)(j) and [ (L)] (m) of this section, a qualified borrower on  a
+loan to finance the  construction, development, acquisition or rehabilitation of a manufactured
+dwelling park under subsection (5)(c) of this section must be:
+(a) A nonprofit corporation, manufactured  dwelling park nonprofit cooperative, state govern-
+mental entity, local unit of government as defined in ORS 466.706 or housing authority; or
+(b) A  nonprofit corporation or housing authority that has a controlling interest in the real
+property that is financed by a qualified  loan. A controlling interest includes a controlling interest
+in the general partner of a limited partnership that owns the real property.
+(15) The Department of Revenue may require that a lending institution  that has earned the
+credit and a lending institution that intends  to claim the credit jointly file a notice, as prescribed
+by the Department of Revenue. The notice must comply with ORS 315.056 (2) or 315.058 (2).
+(16) The Housing and Community Services Department shall provide information to the  Depart-
+ment of Revenue about all certifications executed under this section, if required by ORS 315.058.
+(17) The Housing and  Community Services Department and the Department of Revenue may
+adopt rules to carry out the provisions of this section.
+SECTION 10.
+The amendments to ORS 317.097 by section 9 of this 2025 Act  apply to loans
+made or modified on or after January 1, 2026, and to tax years beginning on  or after January
+1, 2026.
+SECTION 11.  Section 30, chapter 525, Oregon Laws 2021, is amended to read:
+Sec. 30.  The amendments to ORS 317.097 by section 29  [of this 2021 Act ], chapter 525, Oregon
+Laws 2021, apply to tax years beginning on or after January 1, 2022[ , and before January 1, 2026 ].
+Enrolled House Bill 2087 (HB 2087-A) Page 6
+SECTION 12.  ORS 315.622 is amended to read:
+315.622. (1) A resident or nonresident individual who is certified as eligible  under ORS 442.561
+to 442.570 and who is licensed as an  emergency medical services provider under ORS chapter 682
+shall be allowed a credit against the taxes that are otherwise due under ORS  chapter 316 if the
+Office of Rural Health  certifies that the individual provides volunteer emergency medical services
+in a rural area that comprise at least 20 percent of the total emergency  medical services provided
+by the individual in the tax year.
+(2) The amount of the credit shall equal [ $250] $1,000.
+(3) A nonresident shall be allowed the credit under this section in the proportion provided in
+ORS 316.117. If a change in the status of a taxpayer from resident to nonresident or  from nonresi-
+dent to resident occurs, the credit allowed by this section shall be determined in a manner  consist-
+ent with ORS 316.117.
+(4) As used in this section, “rural area” means a geographic area that is located at  least 25
+miles from any city with a population of 30,000 or more.
+(5) The Office of Rural Health shall provide information to the  Department of Revenue about
+all taxpayers that are eligible for a tax credit under this section, if required by ORS 315.058.
+(6) Not  later than September 15 of each year, the office shall, in the manner provided in
+ORS 192.245, submit a report on the number of taxpayers eligible for the tax credit described
+under this section to the  interim committees of the Legislative Assembly related to health
+care and to the Emergency Medical Services Program  established in section 2, chapter 32,
+Oregon Laws 2024.
+SECTION 13.
+ Section 66, chapter 832, Oregon Laws 2005, as amended  by section 26, chapter
+913, Oregon Laws 2009, section 16, chapter 750, Oregon Laws 2013, section  28, chapter 579, Oregon
+Laws 2019, and section 10, chapter 490, Oregon Laws 2023, is amended to read:
+Sec. 66.  ORS 315.622 applies to tax  credit certifications issued by the Office of Rural Health
+on or after January 1, 2006, and before January 1, [ 2028] 2030.
+SECTION 14. The amendments to ORS 315.622 by section 12 of this 2025 Act  apply to tax
+years beginning on or after January 1, 2026.
+SECTION 15.  ORS 315.271 is amended to read:
+315.271. (1) A credit against taxes otherwise due under ORS  chapter 316, 317 or 318 shall be
+allowed for donations to a fiduciary organization for  distribution to individual development accounts
+established under  ORS 458.685. The credit shall equal a percentage of the taxpayer’s donation
+amount, as determined by  the fiduciary organization, but not to exceed 90 percent of any donation
+amount. A credit may be  claimed for a donation made not later than April 15 following December
+31 of the tax year  for which the credit is allowed. [ To qualify for a credit under this section, do-
+nations to a fiduciary organization must be made prior to April 15, 2028. ]
+(2) If a credit allowed under this section is claimed, the amount upon which the credit is  based
+that is allowed or allowable as a  deduction from federal taxable income under section 170 of the
+Internal Revenue  Code shall be added to federal taxable income in determining Oregon taxable in-
+come. As  used in this subsection, the amount upon which a credit is based is the allowed credit di-
+vided by the applicable percentage, as determined by the fiduciary organization.
+(3) The allowable tax credit that may be used in any one tax year shall not exceed the  tax li-
+ability of the taxpayer.
+(4) Any tax credit otherwise allowable under  this section that is not used by the taxpayer in a
+particular year may be carried  forward and offset against the taxpayer’s tax liability for the next
+succeeding tax year. Any tax credit remaining unused  in the next succeeding tax year may be car-
+ried forward and  used in the second succeeding tax year. Any tax credit not used in the second
+succeeding tax year may be carried forward and  used in the third succeeding tax year, but may not
+be carried forward for any tax year thereafter.
+(5) The total credits allowed to all  taxpayers in any tax year under this section and ORS 458.690
+may not exceed [ $7.5 million] $7.7 million . The total credit allowed to a taxpayer in any tax year
+under this section and ORS 458.690 may not exceed $500,000.
+Enrolled House Bill 2087 (HB 2087-A) Page 7
+SECTION 16.  ORS 315.271, as amended by section 15 of this 2025 Act, is amended to read:
+315.271. (1) A credit against taxes otherwise due  under ORS chapter 316, 317 or 318 shall be
+allowed for donations to a fiduciary organization for  distribution to individual development accounts
+established under ORS 458.685. The credit shall equal a percentage of the taxpayer’s  donation
+amount, as determined by the fiduciary organization, but not to exceed 90 percent  of any donation
+amount. A credit may be claimed for a donation made not later than  April 15 following December
+31 of the tax year for which the credit is allowed.
+(2) If a credit allowed under this section is claimed, the amount upon which the credit is  based
+that is allowed or allowable as a  deduction from federal taxable income under section 170 of the
+Internal Revenue  Code shall be added to federal taxable income in determining Oregon taxable in-
+come. As  used in this subsection, the amount upon which a credit is based is the allowed credit di-
+vided by the applicable percentage, as determined by the fiduciary organization.
+(3) The allowable tax credit that may be used in any one tax year shall not exceed the  tax li-
+ability of the taxpayer.
+(4) Any tax credit otherwise allowable under  this section that is not used by the taxpayer in a
+particular year may be carried  forward and offset against the taxpayer’s tax liability for the next
+succeeding tax year. Any tax credit remaining unused  in the next succeeding tax year may be car-
+ried forward and  used in the second succeeding tax year. Any tax credit not used in the second
+succeeding tax year may be carried forward and  used in the third succeeding tax year, but may not
+be carried forward for any tax year thereafter.
+(5) The total credits allowed to all  taxpayers in any tax year under this section and ORS 458.690
+may not exceed [ $7.7 million ] $8 million. The total credit allowed to a taxpayer in any  tax year
+under this section and ORS 458.690 may not exceed $500,000.
+SECTION 17. (1) The amendments to ORS 315.271 by section  15 of this 2025 Act apply to
+tax years beginning on or after January 1, 2025, and before January 1, 2026.
+(2) The amendments to ORS 315.271 by  section 16 of this 2025 Act apply to tax years be-
+ginning on or after January 1, 2026.
+SECTION 18.  Section 9, chapter 765, Oregon Laws 2007, as amended  by section 7, chapter 701,
+Oregon Laws 2015, section 7, chapter 525, Oregon Laws 2021, and section 16, chapter 490,  Oregon
+Laws 2023, is amended to read:
+Sec. 9.  (1) A credit may not be claimed under ORS 315.271 and 458.690 for tax years beginning
+on or after January 1, 2030.
+(2) For a taxpayer  to qualify for a credit under ORS 315.271, donations to a fiduciary or-
+ganization must be made prior to April 15, 2030.
+[(2)] (3) The amendments to ORS 315.271 by section 6, chapter 525, Oregon Laws  2021, apply to
+tax years beginning on or after January 1, 2022, and before January 1, 2030.
+SECTION 19.  ORS 315.514 is amended to read:
+315.514. (1) A credit against the taxes that are otherwise due under  ORS chapter 316 or, if the
+taxpayer is a corporation, under ORS chapter 317 or 318, is allowed to a  taxpayer for certified film
+production development contributions  made by the taxpayer to the Oregon Production Investment
+Fund established under ORS 284.367.
+(2)(a) The Department of Revenue shall, in cooperation with the Oregon Film and Video  Office,
+conduct an auction of tax credits under this  section. The auction may be conducted no later than
+April 15 following December 31 of any tax year  for which the credit is allowed. The department may
+conduct the auction in the manner that it determines is best suited  to maximize the return to the
+state on the sale of tax credit certifications and shall  announce a reserve bid prior to conducting
+the auction. The reserve amount shall  be at least 90 percent of the total amount of the tax credit.
+Moneys  necessary  to reimburse the department for the actual costs incurred by the department in
+administering an auction, not to exceed 0.25 percent of auction  proceeds, are continuously appro-
+priated to the department. The department shall deposit net receipts  from the auction required un-
+der this section in the Oregon Production Investment Fund.
+(b) The Oregon Film and Video Office shall adopt rules in order to achieve the  following goals:
+Enrolled House Bill 2087 (HB 2087-A) Page 8
+(A) Subject  to paragraph (a) of this subsection, generate contributions for which tax credits of
+[$20 million] $20.6 million are certified for each fiscal year;
+(B) Maximize income  and excise tax revenues that are retained by the State of Oregon for state
+operations;  and
+(C) Provide the necessary financial incentives for taxpayers to make contributions, taking into
+consideration the impact of granting a credit upon a taxpayer’s federal income tax liability.
+(3) Contributions made under this section shall be deposited in the Oregon Production Invest-
+ment Fund.
+(4)(a) Upon receipt of a contribution, the  Oregon Film and Video Office shall, except as provided
+in ORS 315.516, issue to  the taxpayer written certification of the amount certified for tax credit
+under this section to the extent the amount certified for tax credit, when added to all amounts
+previously certified for tax credit under this section, does not  exceed [ $20 million] $20.6 million for
+the fiscal year in which certification is made.
+(b) The Oregon Film and Video Office may issue a  certification for a credit under this section,
+and a credit may be allowed, for the tax  year in which a contribution is made, or for the tax year
+immediately preceding the tax year in which  a contribution is made and for auctions conducted no
+later than April 15 following  December 31 of any tax year for which the credit is allowed, if no
+return has yet been filed for the preceding tax year.
+(c) The Oregon Film and Video Office and the department are not liable, and  a refund of a
+contributed amount need not be made, if a  taxpayer who has received tax credit certification is
+unable to use all or a portion of the tax credit to offset the tax liability of the taxpayer.
+(5) To the  extent the Oregon Film and Video Office does not certify contributed amounts as el-
+igible for a  tax credit under this section, the taxpayer may request a refund of the amount the
+taxpayer contributed, and the office shall refund that amount.
+(6)(a) Except as provided in paragraph (b) of this subsection, a tax credit claimed under this
+section may not exceed the tax  liability of the taxpayer and may not be carried over to another tax
+year.
+(b) Any tax credit otherwise allowable under this section that is not used  by the taxpayer in a
+particular tax year may be carried forward and offset against the taxpayer’s tax liability  for the
+next succeeding tax  year. Any credit remaining unused in the next succeeding tax year may be
+carried forward and  used in the second succeeding tax year, and likewise, any credit not used in
+that second succeeding tax year may be carried forward and  used in the third succeeding tax year
+but may not be carried forward for any tax year thereafter.
+(c) A taxpayer is not eligible for a tax credit under this section if the first tax  year for which
+the credit would otherwise be allowed begins on or after January 1, 2030.
+(7) If a tax credit is claimed under this section by  a nonresident or part-year resident taxpayer,
+the amount shall be allowed without proration under ORS 316.117.
+(8) If the amount of contribution  for which a tax credit certification is made is allowed as a
+deduction for federal tax purposes, the amount of the contribution shall  be added to federal taxable
+income for Oregon tax purposes.
+SECTION 20.
+ ORS 315.514, as amended by section 19 of this 2025 Act, is amended to read:
+315.514. (1) A credit against the taxes  that are otherwise due under ORS chapter 316 or, if the
+taxpayer is a corporation, under ORS chapter 317 or 318, is allowed to a  taxpayer for certified film
+production development contributions made by the taxpayer to the Oregon  Production Investment
+Fund established under ORS 284.367.
+(2)(a) The  Department of Revenue shall, in cooperation with the Oregon Film and Video Office,
+conduct an auction of tax credits under this section. The  auction may be conducted no later than
+April 15 following December 31 of any tax year  for which the credit is allowed. The department may
+conduct the auction in the manner that  it determines is best suited to maximize the return to the
+state on the sale of tax credit certifications  and shall announce a reserve bid prior to conducting
+the auction. The reserve amount shall be at least 90 percent of the total  amount of the tax credit.
+Moneys necessary to reimburse the department for the actual costs incurred by the department  in
+Enrolled House Bill 2087 (HB 2087-A) Page 9
+administering an auction, not to  exceed 0.25 percent of auction proceeds, are continuously appro-
+priated to the department. The department  shall deposit net receipts from the auction required un-
+der this section in the Oregon Production Investment Fund.
+(b) The Oregon Film and Video Office shall adopt rules in order to achieve the  following goals:
+(A) Subject to paragraph (a) of this subsection, generate contributions for which tax credits  of
+[$20.6 million] $21.2 million are certified for each fiscal year;
+(B) Maximize income  and excise tax revenues that are retained by the State of Oregon for state
+operations;  and
+(C) Provide the necessary financial incentives for taxpayers to make contributions, taking into
+consideration the impact of granting a credit upon a taxpayer’s federal income tax liability.
+(3) Contributions made under this section shall be deposited in the Oregon Production Invest-
+ment Fund.
+(4)(a) Upon receipt of a contribution, the  Oregon Film and Video Office shall, except as provided
+in ORS 315.516, issue to the taxpayer written certification of the amount  certified for tax credit
+under this section to the extent the amount certified for tax credit, when added to all amounts
+previously certified for tax credit  under this section, does not exceed [ $20.6 million] $21.2 million
+for the fiscal year in which certification is made.
+(b) The Oregon Film and Video Office may issue a  certification for a credit under this section,
+and a credit may be allowed, for the tax  year in which a contribution is made, or for the tax year
+immediately preceding the tax year in which  a contribution is made and for auctions conducted no
+later than April 15 following  December 31 of any tax year for which the credit is allowed, if no
+return has yet been filed for the preceding tax year.
+(c) The Oregon Film and Video Office and the department are not liable, and  a refund of a
+contributed amount need not be made, if a  taxpayer who has received tax credit certification is
+unable to use all or a portion of the tax credit to offset the tax liability of the taxpayer.
+(5) To the  extent the Oregon Film and Video Office does not certify contributed amounts as el-
+igible for a  tax credit under this section, the taxpayer may request a refund of the amount the
+taxpayer contributed, and the office shall refund that amount.
+(6)(a) Except as provided in paragraph (b) of this subsection, a tax credit claimed under this
+section may not exceed the tax  liability of the taxpayer and may not be carried over to another tax
+year.
+(b) Any tax credit otherwise allowable under this section that is not used  by the taxpayer in a
+particular tax year may be carried forward and offset against the taxpayer’s tax liability  for the
+next succeeding tax  year. Any credit remaining unused in the next succeeding tax year may be
+carried forward and  used in the second succeeding tax year, and likewise, any credit not used in
+that second succeeding tax year may be carried forward and  used in the third succeeding tax year
+but may not be carried forward for any tax year thereafter.
+(c) A taxpayer is not eligible for a tax credit under this section if the first tax  year for which
+the credit would otherwise be allowed begins on or after January 1, 2030.
+(7) If a tax credit is claimed under this section by  a nonresident or part-year resident taxpayer,
+the amount shall be allowed without proration under ORS 316.117.
+(8) If the amount of contribution  for which a tax credit certification is made is allowed as a
+deduction for federal tax purposes, the amount of the contribution shall  be added to federal taxable
+income for Oregon tax purposes.
+SECTION 21.
+(1) The amendments to ORS 315.514  by section 19 of this 2025 Act apply to
+fiscal years beginning on or after July 1, 2025, and before July 1, 2026.
+(2) The amendments to ORS 315.514 by section 20 of this 2025 Act apply to fiscal  years
+beginning on or after July 1, 2026.
+SECTION 22.  Section 41, chapter 579, Oregon Laws 2019, is amended to read:
+Sec. 41.  The repeal of ORS 825.475  by section 40 [ of this 2019 Act ], chapter 579, Oregon Laws
+2019, becomes operative on January 1, [ 2026] 2032.
+SECTION 23.  ORS 316.798 is amended to read:
+Enrolled House Bill 2087 (HB 2087-A) Page 10
+316.798. (1) Subject to ORS 316.800, and in addition to the other modifications to federal taxable
+income contained in this chapter, there shall be subtracted from federal  taxable income the amount
+of funds contributed by an account holder to the account holder’s  first-time home buyer savings
+account during the tax year, not to exceed $5,000 for  an account holder who files an individual in-
+come tax return or $10,000 for joint account holders who file a joint income tax return.
+(2) Earnings, including interest and other income, on the principal in the  account during the tax
+year are  exempt from taxation until withdrawn by the taxpayer, subject to subsection (3) of this
+section.
+(3) An account holder may claim the subtraction and exemption under  subsections (1) and (2)
+of this section:
+(a) For  contributions made into a first-time home buyer savings account opened before January
+1, [2027] 2032;
+(b) For  a period not to exceed 10 years from the date the account holder first opens any first-
+time home buyer savings account; and
+(c) For an aggregate total  amount of principal and earnings not to exceed $50,000 during the
+10-year period.
+(4) A person other  than the account holder who deposits funds in a first-time home buyer
+savings account is not entitled to the subtraction and exemption provided for in this section.
+SECTION 24.  Section 9, chapter 109, Oregon Laws 2018, is amended to read:
+Sec. 9.  [ Sections 2 to 8 of this  2018 Act ] ORS 316.796 to 316.803  apply to tax years beginning
+on or after January 1, 2019, and before January 1, [ 2037] 2042.
+SECTION 25. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+Passed by House June 26, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate June 27, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 2087 (HB 2087-A) Page 11
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 192.245, ORS 284.367, ORS 286A.001, ORS 314.085, ORS 314.440, ORS 315.056, ORS 315.058, ORS 315.063, ORS 315.154, ORS 315.156, ORS 315.266, ORS 315.271, ORS 315.514, ORS 315.516, ORS 315.622, ORS 316.090, ORS 316.117, ORS 316.157, ORS 316.796, ORS 316.798, ORS 316.800, ORS 317.097, ORS 442.561, ORS 446.003, ORS 456.055, ORS 458.610, ORS 458.685, ORS 458.690, ORS 466.706, ORS 706.008, ORS 825.475
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `f973eda97cda72f6ffb8cf867fdd34fdf347e16c3528a289f62b57e79fd89428` (snapshot `_meta/snapshots/measure-2025r1-hb2087-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2087/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `f087f594d5c58e541d1a238077ebd2e6cd2bcac2fde448c103dcbacdf3065f28` (snapshot `_meta/snapshots/measure-2025r1-hb2087-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2087/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2087> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

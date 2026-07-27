@@ -1,0 +1,70 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 533
+Sponsored by Senator PATTERSON, Representative NOSSE; Senator MEEK (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act bans drug makers from taking actions that make it  hard for some drug outlets
+to get certain drugs  on behalf of health care providers, deliver the drugs to the providers or dis-
+pense the drugs. The Act makes these actions subject to a civil  penalty for violations. (Flesch
+Readability Score: 60.8).
+Creates a civil  penalty for drug manufacturers that interfere directly or indirectly with certain
+entities acquiring 340B drugs, delivering  340B drugs to certain health care providers or dispensing
+340B drugs. Creates a civil penalty for drug manufactures that require certain entities  to submit
+utilization review data as a condition of acquiring, delivering or dispensing 340B drugs.
+A BILL FOR AN ACT
+Relating to restrictions on 340B covered entities.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Covered entity” has the meaning given that term in 42 U.S.C. 256b(a)(4).
+(b) “Manufacturer” has the meaning given that term in ORS 646A.689.
+(c) “340B drug” means a drug that has been subject to an offer  of a reduced price by a
+manufacturer pursuant to 42 U.S.C. 256b and is purchased by a covered entity.
+(d) “Utilization review” has the meaning given that term in ORS 743B.001.
+(2) A manufacturer or third party on behalf of a manufacturer may not:
+(a) Deny, restrict, prohibit or otherwise interfere directly  or indirectly with the acquisi-
+tion of a 340B drug, delivery of a 340B drug to  or dispensation of a 340B drug by a pharmacy
+that has contracted with a covered entity to receive  and dispense 340B drugs on behalf of the
+covered entity in this state unless the  acquisition delivery or dispensation is prohibited by
+the United states Department of Health and Human Services.
+(b) Require, either directly or indirectly, a covered entity to submit a claim or utilization
+review data as a condition for the  acquisition of a 340B drug by, delivery of a 340B drug to
+or dispensation of a 340B drug by a pharmacy that has contracted with  a covered entity to
+receive and dispense 340B  drugs on behalf of the covered entity in this state unless the
+claims or utilization review data submission is required by the  United States Department of
+Health and Human Services.
+SECTION 2.
+In addition to any other  penalty provided by law, the State Board of Phar-
+macy may impose a civil penalty, in the manner provided in  ORS 183.745, not to exceed $5,000
+per day on a manufacturer for each violation of section 1 of this 2025 Act.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1148

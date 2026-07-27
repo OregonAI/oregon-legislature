@@ -1,0 +1,191 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3621
+Sponsored by Representative RESCHKE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act requires a doctor to do an ultrasound at least  three days before providing an
+abortion. (Flesch Readability Score: 60.1).
+Prohibits abortions unless a health care provider first performs an ultrasound on the pregnant
+person, except in  the case of a medical emergency. Creates a civil penalty for a violation of the
+ultrasound requirement. Directs the Oregon Health Authority to deposit penalties assessed into the
+Oregon Student Assistance Fund for purposes of providing scholarships to foster children.
+A BILL FOR AN ACT
+Relating to prerequisites  to performing abortions; creating new provisions; and amending ORS
+435.240.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+As used in sections 1 to 4 of this 2025 Act:
+(1) “Abortion”  means the use or prescription of any instrument, medicine, drug or any
+other substance  or device to terminate the pregnancy of a person known to be pregnant, if
+the intention is other than to increase the probability of  a live birth, to preserve the life or
+health of  the child after live birth or to remove a dead unborn child who died as the result
+of natural causes in utero, accidental trauma or a criminal assault  on the pregnant person
+or the unborn child, and that use or prescription causes the premature termination of the
+pregnancy.
+(2) “Attempt to perform or induce an abortion”  means an act, or an omission of a
+statutorily required act, that, under the  circumstances as the actor believes them to be,
+constitutes a substantial step in a course of conduct planned to culminate in  the perform-
+ance or induction of an abortion.
+(3) “Fertilization” means the fusion of a human spermatozoon with a human ovum.
+(4) “Health care provider” means:
+(a) A physician licensed under ORS chapter 677;
+(b) A physician assistant licensed under ORS 677.505 to 677.525; and
+(c) A nurse practitioner licensed under ORS 678.375 to 678.390.
+(5) “Unborn child” means  an individual organism of the species Homo sapiens from
+fertilization until live birth.
+SECTION 2.
+(1) A pregnant person’s condition is a medical emergency  for purposes of
+section 3 of this 2025 Act if, in the professional judgment of the health care provider:
+(a) Failure to immediately terminate  the pregnancy is reasonably likely to result in the
+pregnant person’s death; or
+(b) The delay necessary to comply with the requirements under section 3 of this 2025 Act
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3963
+HB 3621
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+is reasonably likely to create a serious risk of substantial and irreversible physical impair-
+ment of one or more of the pregnant person’s major  bodily functions, not including psycho-
+logical or emotional functions.
+(2) A pregnant person’s likelihood to engage in conduct  that will result in the pregnant
+person’s death or in substantial and  irreversible physical impairment of a major bodily
+function is not a medical emergency for purposes of section 3 of this 2025 Act.
+SECTION 3.
+(1) Except in the case of  a medical emergency that prevents compliance with
+this section, a person may not perform or induce, or attempt to perform  or induce, an
+abortion unless a health care provider has performed an  ultrasound on the pregnant person,
+consistent with subsection (2) of this section.
+(2) An ultrasound performed under this section must be performed:
+(a) No fewer than 72 hours prior to the performance or inducement of the abortion;
+(b) While the pregnant person is awake; and
+(c) In a manner  that permits the pregnant person for a minimum of 20 seconds to hear
+the unborn child’s heartbeat, if any, and view the image of the ultrasound.
+SECTION 4.
+(1) In addition to any  other liability or penalty provided by law, the Director
+of the Oregon Health Authority shall impose a  civil penalty in the amount of not less than
+$10,000 per violation on a person  who fails to comply with the requirements of section 3 of
+this 2025 Act before performing  or inducing, or attempting to perform or induce, an abortion.
+(2) The Oregon Health Authority shall  deposit civil penalties assessed under this section
+into the  Oregon Student Assistance Fund established under ORS 348.570, for the purpose of
+providing scholarships under ORS 348.272 to current and former foster children.
+SECTION 5. Civil penalties under section 4 of this 2025 Act shall be imposed in the
+manner provided by ORS 183.745.
+SECTION 6.  ORS 435.240 is amended to read:
+435.240. (1) A public  body or, except as provided in ORS 435.225  and section 3 of this 2025
+Act, an officer, employee or agent of a public body may not:
+(a) Deprive a consenting individual of the choice of exercising the individual’s  reproductive
+health rights under ORS 435.210;
+(b) Interfere with  or restrict, in the regulation of benefits, facilities, services or information, the
+choice of a consenting individual to exercise  the individual’s reproductive health rights under ORS
+435.210;
+(c) Prohibit a health care provider, who is acting within the scope  of the health care provider’s
+license, from providing reproductive health care information and services  to a consenting individual;
+(d) Interfere with  or restrict, in the regulation of benefits, facilities, services or information, the
+choice of a  health care provider, who is acting within the scope of the health care provider’s license,
+to provide reproductive health care information and services to a consenting individual;
+(e) Subject an individual to criminal or civil liability or penalty, or otherwise deprive  the indi-
+vidual of any rights, based on the individual’s actions or  omissions in exercising the individual’s
+reproductive  health  rights under ORS 435.210, including any action or omission affecting an actual,
+potential or alleged pregnancy outcome; or
+(f) Subject any person to  criminal or civil liability or penalty, or otherwise deprive any person
+of the person’s rights, based solely on the  person’s actions in the provision of aid, assistance, re-
+sources  or  support to an individual in the exercise of the individual’s reproductive health rights,
+provided that the person’s actions do not otherwise violate the laws of this state.
+[2]
+HB 3621
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+(2)(a) Nothing in this section  is intended to prevent the application of laws, rules, ordinances
+or taxes that affect  the method or manner of sales or distribution of contraceptive devices or the
+provision of reproductive health care, provided that the laws, rules, ordinances or taxes are designed
+to promote public health and safety and do not unreasonably burden public access  to contraception
+or other reproductive health care.
+(b) Nothing in this section requires a public  body to provide or pay for reproductive health care.
+SECTION 7.
+Sections 1  to 5 of this 2025 Act and the amendments to ORS 435.240 by sec-
+tion 6 of this 2025 Act apply to abortions that are performed or  induced, or attempted to be
+performed or induced, on or after the effective date of this 2025 Act.
+[3]

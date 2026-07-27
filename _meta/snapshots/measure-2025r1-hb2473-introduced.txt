@@ -1,0 +1,913 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2473
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Judiciary for Oregon District Attorneys Association)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes some rules for criminal cases. (Flesch Readability Score: 71.8).
+Modifies the requirements for providing a declaration for the purposes  of authenticating records
+in response to criminal process.
+Authorizes a law enforcement agency to  use forensic imaging to obtain information from a
+portable electronic device belonging to  a deceased user if the death is the subject of a law
+enforcement investigation.
+Provides that a warrant authorizing the installation or tracking  of a mobile tracking device may
+be issued when an individual has committed a crime.
+Authorizes a prosecuting attorney to  turn over grand jury recordings to the defense attorney
+as soon as a decision not to file a motion for a protective order has been made.
+Provides that a person released pretrial on a violent felony who violates  a condition of release
+may be held in custody if the violation constitutes a new criminal offense.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to criminal procedures; creating new  provisions; amending ORS 132.270, 133.539, 133.619,
+135.240, 135.280 and 136.583; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+AUTHENTICATION OF RECORDS
+SECTION 1.
+ ORS 136.583 is amended to read:
+136.583. (1) Notwithstanding ORS 136.557, 136.563, 136.565 or 136.567 and  subject to ORS 136.580
+(2), criminal process authorizing or commanding the seizure or production of  papers, documents,
+records or other  things may be issued to a recipient, regardless of whether the recipient or the pa-
+pers, documents, records or things are located within this state, if:
+(a) The criminal matter is triable in Oregon under ORS 131.205 to 131.235; and
+(b) The exercise of jurisdiction over the recipient is not inconsistent  with the Constitution of
+this state or the Constitution of the United States.
+(2) Criminal process that authorizes or commands the seizure or production of papers,  docu-
+ments, records or other things from a recipient may be served by:
+(a) Delivering a copy to the recipient personally; or
+(b) Sending a copy by:
+(A) Certified or registered mail, return receipt requested;
+(B) Express mail; or
+(C) Facsimile or electronic transmission,  if the copy is sent in a manner that provides proof of
+delivery.
+(3) When criminal process is served under subsection (2) of this section,  the recipient shall
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2631
+HB 2473
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+provide the applicant, or if the process is  described in ORS 136.447 or 136.580 (2), the court, with
+all of the papers, documents, records or other things described in the criminal process  within 20
+business days from the date the criminal process is received, unless:
+(a) The court, for good cause shown,  includes in the process a requirement for production within
+a period of time that is less than 20 business days;
+(b) The court, for good cause shown, extends the time for production to  a period of time that is
+more than 20 business days; or
+(c) The applicant consents to a request from the recipient for  additional time to comply with the
+process.
+(4) A recipient who seeks to quash or otherwise  challenge the criminal process must seek relief
+from the court that  issued the process within the time required for production. The court shall hear
+and decide the issue as soon as practicable. The consent  of the applicant to additional time to
+comply with the process under subsection (3)(c)  of this section does not extend the date by which
+a recipient must seek relief under this subsection.
+(5) Criminal  process issued under this section must contain a notice on the first page of the
+document that indicates:
+(a) That the process was issued under this section;
+(b) The date before which the recipient must respond to the process; and
+(c) That the deadline for seeking relief is not altered by the  applicant’s consent to additional
+time to respond to the process.
+(6) Upon order of the court or the written request of the applicant, the recipient  of the process
+shall verify the authenticity of the  papers, documents, records or other things that the recipient
+produces in response to the criminal process by providing  an affidavit or declaration that [ includes
+contact information for ] identifies the custodian or other qualified person completing  the document
+and attests to the nature of the  papers, documents, records or other things. An affidavit or decla-
+ration that complies with this subsection [ may fulfill ] fulfills  the requirements of ORS 40.460  (6),
+40.505 and 132.320.
+(7) A party that intends to offer a paper, document, record or other thing  into evidence under
+this section must file written notice of that intention with the court and must disclose the affidavit
+or declaration sufficiently in advance of offering the paper, document, record or other thing  into
+evidence to provide the adverse party with an opportunity to  challenge the affidavit or declaration
+and to have that challenge determined without prejudice  to the ability of the moving party to
+produce the custodian or other qualified person at trial. A motion opposing admission of  the paper,
+document, record or other thing into evidence must be filed  and determined by the court before trial
+and with sufficient time to allow the party offering the paper, document, record or other  thing, if
+the motion is granted, to produce  the custodian of the record or other qualified person at trial,
+without creating a hardship on the party or the custodian or other qualified person.
+(8) Failure by a party that receives notice under subsection  (7) of this section to timely file a
+motion opposing admission of the paper, document, record or other thing constitutes a waiver  of
+objection to the admission  of the evidence on the basis of the insufficiency of the affidavit or dec-
+laration unless the court finds good cause to grant relief from the waiver. If the court grants  relief
+from the waiver, the court shall order the trial continued upon the request  of the proponent of the
+evidence and allow the proponent sufficient time to arrange for the necessary witness to appear.
+(9) A recipient of criminal process under this section  or any individual that responds to the
+process is immune from civil and criminal liability for complying with the process and for any failure
+[2]
+HB 2473
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+to provide  notice of any disclosure to a person who is the subject of, or identified in, the disclosure.
+(10) Nothing in this section limits  the authority of a court to issue criminal process under any
+other provision of law or prohibits a party from calling  the custodian of the evidence or other
+qualified person to testify regarding the evidence.
+(11) As used in this section:
+(a) “Applicant” means:
+(A) A police  officer or district attorney who applies for a search warrant or other court order
+or seeks to issue a subpoena under this section; or
+(B) A defense attorney who applies for a court order or seeks to issue a subpoena  under this
+section.
+(b) “Criminal process” means a subpoena, search warrant or other court order.
+(c) “Declaration” means a declaration [ under penalty of perjury  under ORCP 1 E or an unsworn
+declaration under ORS 194.800 to 194.835, if  the declarant is physically outside the boundaries of the
+United States ] stating that the information contained therein is correct  that is made under
+penalty of perjury and signed by the custodian of records or other qualified person .
+(d) “Defense attorney” means an attorney of record  for a person charged with a crime who is
+seeking the issuance of criminal process for the defense of the criminal case.
+(e) “Recipient” means a business entity or  nonprofit entity that has conducted business or en-
+gaged in transactions occurring at least in part in this state.
+IMAGING OF DIGITAL DEVICES
+SECTION 2.
+ ORS 133.539 is amended to read:
+133.539. (1) As used in this section:
+(a)(A) “Forensic imaging” means using  an electronic device to download or transfer raw data
+from a portable electronic device onto another medium of digital storage.
+(B) “Forensic imaging” does not include photographing or transcribing information  observable
+from the portable electronic device by normal unaided human senses.
+(b) “Location information service” means  a global positioning service or other mapping,
+locational or directional information service.
+(c) “Portable electronic device” means any device designed  to be easily moved from one location
+to another and that contains electronic data or that enables access to, or  use of, an electronic
+communication service as defined in 18 U.S.C. 2510, remote computing service as defined in 18 U.S.C.
+2711 or location information service.
+(d) “Raw data” means data collected from a source that has not been  subsequently altered or
+manipulated after collection.
+(2) A law enforcement agency may not  use forensic imaging to obtain information contained in
+a portable electronic device except:
+(a) Pursuant to a search warrant issued under ORS 133.525 to 133.703; [ or]
+(b) As authorized by lawful consent ; or
+(c) When the  user of the device is deceased and the death is the subject of a law
+enforcement investigation.
+(3) Information obtained in violation of this section:
+(a) Is not admissible in and may not be disclosed in a judicial proceeding, administrative  pro-
+ceeding, arbitration proceeding or other adjudicatory proceeding, against either the owner of  the
+[3]
+HB 2473
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+portable electronic device or a person with a reasonable expectation of  privacy in the contents of
+the device; and
+(b) May not be used to establish  reasonable suspicion or probable cause to believe that an of-
+fense has been committed.
+(4) A portable electronic device that has been forensically imaged pursuant to  subsection (2) of
+this section may be returned as described in ORS 133.633 and 133.643.
+(5) Subsection (2) of this section does not apply to:
+(a) A correctional facility, youth correction  facility or state hospital, as those terms are defined
+in ORS 162.135, when the  facility or state hospital obtains information from a portable electronic
+device in an otherwise lawful manner.
+(b) A parole and  probation officer, juvenile community supervision officer as defined in ORS
+420.905, community corrections agency or agency that supervises youths  or adjudicated youths,
+when the officer or agency obtains information from a  portable electronic device in an otherwise
+lawful manner.
+MOBILE TRACKING DEVICE WARRANTS
+SECTION 3.
+ ORS 133.619 is amended to read:
+133.619. (1) A warrant authorizing the installation or tracking of a mobile tracking device  shall
+be executed as provided in this section.
+(2) The officer need not  inform any person of the existence or content of the warrant prior to
+its execution.
+(3) Except as provided in subsection (4) of this section, the officer need  not deliver or leave a
+receipt for things seized or observations made under authority of the warrant.
+(4) Within five days of the execution  of the warrant, or, in the case of an ongoing investigation,
+within such additional  time as the issuing judge may allow upon application, the officer shall mail
+a receipt for things seized or observations made under authority of the warrant to the following:
+(a) If the mobile tracking device has been affixed to a vehicle, to the registered owner; and
+(b) To such other persons as the court may direct in the warrant.
+(5) The receipt provided  for in subsection (4) of this section must include the dates and times
+during which the officer monitored or attempted to monitor the mobile tracking device.
+(6) A warrant authorizing the installation or  tracking of a mobile tracking device shall be issued
+only when based upon the submission of an affidavit or oral statement  as described in ORS 133.545,
+which affidavit or statement demonstrates that probable cause exists to believe  that an individual
+is committing , has committed  or is about to commit:
+(a) A particular  felony of murder, kidnapping, arson, robbery or other crime dangerous to life
+and punishable as a felony;
+(b) A crime punishable  as a felony arising under ORS 475.752, 475.806 to 475.894, 475C.005 to
+475C.525 or 475C.770 to 475C.919;
+(c) The crime of unlawfully transporting metal property under ORS 164.857 or a crime described
+in ORS 165.118;
+(d) Bribery, extortion, burglary or unauthorized use of a motor vehicle punishable as a felony;
+(e) A violation of a criminal provision of the wildlife laws as described in ORS 496.002;
+(f) A violation of a criminal provision  of the commercial fishing laws as described in ORS
+506.001;
+[4]
+HB 2473
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(g) A violation of ORS 704.020, 704.021, 704.030 or 704.065; or
+(h) A conspiracy to commit a crime listed in this subsection.
+(7) A court may authorize the installation or tracking of a mobile tracking device for  a period
+not to exceed 30 days. Upon application, the court may grant one or more extensions for  a period
+not to exceed 30 days per extension.
+GRAND JURY RECORDINGS
+SECTION 4.
+ ORS 132.270 is amended to read:
+132.270. (1) Audio recordings and the notes or report of a shorthand reporter produced pursuant
+to ORS 132.250 and 132.260 are confidential and may not be released except as described  in this
+section.
+(2) When an indictment  resulting from grand jury proceedings is indorsed “a true bill,” the audio
+recording or the notes or report of a shorthand reporter of the grand jury proceedings may  be re-
+leased only in the following manner:
+(a) The prosecuting attorney may access a copy of the audio  recording or the notes or report
+of a shorthand reporter at any time.
+(b) When the defendant has been arraigned on the indictment and is represented  by an attorney,
+the [ district] prosecuting attorney shall  make an expedited determination on whether to file a
+motion for a protective order under subsection (4)(a)(A) of this section,  including whether
+to file an order on behalf of a victim or witness. If the prosecuting attorney  decides not to
+file a motion for a  protective order and the decision is made within 10 days after the
+arraignment on the indictment, the prosecuting attorney shall file a certification of the de-
+cision with the court and shall immediately provide  a copy of the audio recordings, or the
+notes or report of  a shorthand reporter, to the defense attorney. If the prosecuting attorney
+has not filed a certification under this paragraph within 10  days after the arraignment, or
+decides to file a motion for a protective order, the prosecuting attorney shall :
+(A) Provide  a copy to the defense attorney of all audio recordings, or the notes or report of a
+shorthand reporter, related to an indictment after 10 days have passed since  the defendant’s
+arraignment on  the indictment , if a [and no ] motion described in subsection (4) of this section has
+not been filed; or
+(B) Provide a copy of the audio  recordings, or the notes or report of a shorthand reporter, to
+the defense attorney in  accordance with the court’s ruling on the motion described in subsection (4)
+of this section, if a motion has been filed.
+(c) Unless the court orders otherwise for good cause shown, the  prosecuting attorney and the
+defense attorney may not copy, disseminate  or republish the audio recording, the notes or report
+of a shorthand reporter, or a transcript prepared from the audio recording, notes or report,  released
+pursuant to this subsection, except to provide a copy to an agent of the prosecuting  attorney or
+defense attorney for the limited purpose of case  preparation. Unless a court orders otherwise for
+good cause shown, in consulting with the defendant  the defense attorney may not disclose to the
+defendant:
+(A) Any personal identifiers of a victim, witness or grand juror obtained from the  audio re-
+cording, report, notes or transcript; or
+(B) Any portion of the audio recording, report, notes or transcript that contains any  personal
+identifiers of a victim, witness or grand juror.
+[5]
+HB 2473
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) The defense attorney may not provide a copy  of the audio recording, notes or report, or a
+transcript prepared from the audio recording, notes or report, to the defendant.
+(e) When the defendant has  been arraigned but is not represented by an attorney, the defendant
+may request by motion that the court issue an order allowing the defendant access to review  the
+contents of the audio recording or the notes or  report of the shorthand reporter. A copy of the
+motion must be  provided to the prosecuting attorney. The prosecuting attorney may request a
+hearing on the motion within 10 days after receiving a copy. At the hearing, or in response  to re-
+ceiving the motion, the court shall appoint counsel for the defendant for the limited  purpose of re-
+viewing the audio recording, notes or report and may set reasonable conditions on the  review of the
+audio recording, notes or report.
+(3)(a) When a grand jury inquires into the conduct of a public servant as defined  in ORS 162.005
+for acts occurring in the performance of the public  servant’s duties, and an indictment resulting
+from the grand jury proceedings is indorsed “not a true bill”:
+(A) The  public servant or the prosecuting attorney may file a motion requesting a court order
+releasing all or a portion of a transcript of the  grand jury proceedings. A copy of the motion must
+be served on the opposing party. In deciding  whether to issue such an order, the court shall deter-
+mine whether the public interest in disclosure outweighs the interest  in maintaining the secrecy of
+the grand jury proceedings. If the court orders disclosure, the court  may set reasonable conditions
+on copying, disseminating or republishing the transcript.
+(B) A member of the public may file a motion requesting  a court order for production and re-
+lease of a transcript of  the grand jury proceedings. A copy of the motion must be served on the
+prosecuting attorney and the public servant’s attorney, or the public servant  if the public servant
+is not represented by an attorney. The person filing the motion is responsible  for the cost of
+producing the transcript and a court order for production and release of  the transcript must be
+conditioned on receipt of payment. In deciding whether to issue such an  order, the court shall de-
+termine whether the public  interest in disclosure outweighs the interest in maintaining the secrecy
+of the grand jury proceedings. If the court orders disclosure, the court may set reasonable conditions
+on copying, disseminating or republishing the transcript.
+(b) The release of any transcript under this subsection may not include:
+(A) The release of any personal identifiers of a victim or witness; or
+(B) The release of the name or any personal identifiers of a grand juror.
+(4)(a) A motion for a protective order concerning an  audio recording, the notes or report of a
+shorthand reporter or a transcript of grand jury proceedings may be filed as follows:
+(A) Except when the prosecuting attorney has filed a certification of the  decision to not
+file a motion for a protective order under subsection (2)(b)  of this section,  the prosecuting
+attorney may file a motion for a protective order within 10 days after the  defendant’s arraignment
+on the indictment. The motion may be  filed on behalf of a victim or a witness. The prosecuting at-
+torney shall inform the victim of the ability to seek a protective order.
+(B) The prosecuting attorney may file a motion  for a protective order within 10 days after re-
+ceiving a motion described in subsection (2)(e) of this section.
+(C) The prosecuting attorney, the public servant who is the subject of an indictment indorsed
+“not a true bill” or the public servant’s attorney may file a motion for a protective  order within 10
+days of receiving a motion described in subsection (3)(a) of this section.
+(b) If the motion for a protective order  requests that a portion of the audio recording, notes,
+report or transcript be redacted, the motion  must be accompanied by a specific description, includ-
+[6]
+HB 2473
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ing the date and time, of the portion of the  audio recording, notes, report or transcript to be
+redacted.
+(c) In response to a motion filed under this subsection, the court may order that the access of
+the person requesting release to a copy of the audio recording,  notes, report or transcript be denied,
+restricted or deferred, or may make any other order,  upon a finding of substantial and compelling
+circumstances. In deciding whether to grant the motion and enter a protective order under this
+paragraph, the court may consider the following:
+(A) Protection of witnesses and others from physical harm, threats of harm,  bribes, economic
+interference, reprisal and other forms of intimidation;
+(B) Maintenance  of secrecy regarding informants, as required for effective investigation of
+criminal activity;
+(C) Confidential information recognized under law, including  the protection of confidential re-
+lationships and privileges and  the contents of confidential records unrelated to a crime alleged in
+the indictment; and
+(D) Any other relevant considerations.
+(d) The court may permit the  evidence of substantial and compelling circumstances described in
+paragraph (c) of this subsection to be made in the form  of a written statement to be inspected by
+the court only or by oral testimony given on the record.
+(5)(a) Except as provided in paragraph (b) of this subsection, when grand  jury proceedings do
+not result in an indictment indorsed as either “a true bill” or “not a true  bill,” the audio recording
+or notes or  report of the shorthand reporter produced pursuant to ORS 132.250 and 132.260 may not
+be disclosed or released.
+(b) When subsequent grand jury proceedings occur inquiring into the same criminal episode  as
+the grand jury proceedings described in paragraph (a) of this  subsection, and the subsequent pro-
+ceedings result in an indictment indorsed as “a true bill,” the prosecuting attorney  shall provide
+notice to the person charged in the indictment of the occurrence of the earlier  grand jury pro-
+ceedings. After the person is arraigned on the  indictment [ and the time period described in subsection
+(2)(b) of this section has passed ], the audio recording  or the notes or report of the shorthand reporter
+produced during the earlier  grand jury proceedings may be obtained in the manner set forth in
+subsection (2) of this section.
+(c) As used  in this subsection, “criminal episode” has the meaning given that term in ORS
+131.505.
+(6) The district attorney of each county may establish  a fee for the cost of providing a copy of
+any audio  recording, or the notes or report of a shorthand reporter, of a grand jury proceeding to
+a person requesting a copy under this section.
+(7) An audio recording, the notes or  report of a shorthand reporter or a transcript of a grand
+jury proceeding obtained pursuant to this section and ORS 132.250 and 132.260:
+(a) May not be used as evidence in any subsequent proceeding,  except as permitted under ORS
+40.375, 40.380, 40.450, 40.460 or 40.465.
+(b) May not be used to challenge the  indorsement of an indictment “a true bill” or the pro-
+ceedings that led to the indorsement.
+(c) May be used as evidence in a prosecution for perjury or false swearing committed by a wit-
+ness while giving testimony during the grand jury proceeding or during trial.
+(d) May be used as evidence  in a proceeding for contempt of court against a person alleged to
+have violated the terms of a court order concerning the audio recording, notes, report or transcript.
+[7]
+HB 2473
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) May be submitted to the court and used as evidence for a hearing on a protective order de-
+scribed in subsection (4) of this section.
+(8) The  release of audio recordings, shorthand reporter notes or reports or transcripts of grand
+jury proceedings under this section does not affect  discovery obligations under ORS 135.805 to
+135.873.
+(9) As used in this section:
+(a) “Personal identifiers” means:
+(A) In relation to a witness  or a grand juror, the person’s address, telephone number, driver li-
+cense, vehicle registration information, Social Security number, date of birth and the identifying
+number of the person’s depository account  at a financial institution, as defined in ORS 706.008, or
+credit card account.
+(B) In relation to a victim, the victim’s address, electronic mail address, telephone  number,
+driver license, vehicle registration information, Social Security number, date of birth, any  user
+names or other identifying  information associated with the victim’s social media accounts and the
+identifying number of the victim’s depository account at a financial institution, as defined in  ORS
+706.008, or credit card account.
+(b) “Social media” has the meaning given that term in ORS 659A.330.
+PRETRIAL RELEASE
+SECTION 5.
+ ORS 135.240 is amended to read:
+135.240. (1) Except as provided in subsections  (2) and (4) of this section, a defendant shall be
+released in accordance with ORS 135.230 to 135.290.
+(2)(a) When the defendant  is charged with murder, aggravated murder or treason, release shall
+be denied when the proof is evident or the presumption strong that the person is guilty.
+(b) When the defendant is charged with murder or  aggravated murder and the proof is not evi-
+dent nor the presumption strong that the defendant is guilty, the court shall determine the issue  of
+release as provided in subsection (4) of this section. In determining the issue of release  under sub-
+section (4) of this section,  the court may consider any evidence used in making the determination
+required by this subsection.
+(3) The  magistrate may conduct such hearing as the magistrate considers necessary to determine
+whether, under subsection (2) of this section, the proof is evident or the  presumption strong that the
+person is guilty.
+(4)(a) When the defendant is charged with a violent felony, release shall be  denied if the court
+finds:
+(A) Except when  the defendant is charged by indictment, that there is probable cause to believe
+that the defendant committed the crime; and
+(B) By clear and convincing evidence, that there is  a danger of physical injury or sexual
+victimization to the victim or members of the public by the defendant while on release.
+(b) If the defendant wants to have a  hearing on the issue of release, the defendant must request
+the hearing at the time of arraignment in circuit court. If the defendant  requests a release hearing,
+the court must hold the hearing within five days of the request.
+(c) At the release hearing,  unless the state stipulates to the setting of security or release, the
+court shall make the inquiry set forth in paragraph (a) of this subsection. The state has the  burden
+of producing evidence at the release hearing subject to ORS 40.015 (4).
+[8]
+HB 2473
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) The defendant may be represented by counsel and may present evidence  on any relevant is-
+sue. However, the hearing may not be used for purposes of discovery.
+(e) If the court determines that the defendant is eligible for release  in accordance with this
+subsection, the court shall set security or other appropriate conditions of release.
+(f) When a defendant [ who] is charged with a violent  felony,  has been released , regardless
+of whether the court conducted the inquiry or made the findings  described in paragraph (a)
+of this subsection, and  violates a condition of release [ and the violation ]:
+(A) That constitutes a new  criminal offense, the court shall cause the defendant to be taken
+back into custody and shall order the defendant held pending trial without release.
+(B) That does not constitute a new criminal offense, the court may  order the defendant to be
+taken back into  custody and may order the defendant held pending trial or may make a new release
+decision.
+(C) The state may request that the  court proceed with the inquiry described in paragraph
+(a) of this subsection and deny release.
+(5) For purposes of this section, “violent  felony” means a felony offense in which there was an
+actual or threatened serious physical injury to the victim, or a felony sexual offense.
+SECTION 6.
+ ORS 135.280 is amended to read:
+135.280. (1) Upon failure of a person to comply with  any condition of a release agreement or
+personal recognizance, the court having jurisdiction may, in  addition to any other action provided
+by law, issue a warrant for the arrest of the person at liberty upon a personal recognizance, condi-
+tional or security release.  After the person is returned to custody, the  court may make a new
+release decision except as otherwise provided in ORS 135.240.
+(2) A warrant  issued under subsection (1) of this section by a municipal judge may be executed
+by any peace officer authorized to execute arrest warrants.
+(3) If the defendant does not comply with the conditions of  the release agreement, the court
+having jurisdiction shall enter an order declaring the entire security amount to be forfeited. Notice
+of the order of forfeiture shall be  given forthwith by personal service, by mail or by such other
+means as are reasonably calculated to bring  to the attention of the defendant and, if applicable, of
+the sureties the order of forfeiture. If, within 30 days after the court declares the forfeiture, the
+defendant does not appear or satisfy the  court having jurisdiction that appearance and surrender
+by the defendant was,  or still is, impossible and without fault of the defendant, the court shall enter
+judgment for the state, or appropriate political subdivision thereof, against the  defendant and, if
+applicable, the sureties for the entire security amount set under  ORS 135.265 and the costs of the
+proceedings. At any time before or after entry  of the judgment, the defendant or the sureties may
+apply to the court for a  remission of the forfeiture or to modify or set aside the judgment. The court,
+upon good cause  shown, may remit the forfeiture or any part thereof or may modify or set aside the
+judgment as in other criminal cases, except the portion of  the security deposit that the court or-
+dered to be applied to child support under subsection (4) of this section, as the court considers
+reasonable under the circumstances of the case. The court shall adopt  procedures to ensure that the
+amount deposited under ORS 135.265 is available for a reasonable period of time for disposition un-
+der subsection (4) of this section.
+(4) After entry of a judgment for the  state, the court, upon a motion filed under ORS 25.715,
+may order that  a portion of the security deposit be applied to any unsatisfied child support award
+owed by the defendant and to provide security for  child support payments in accordance with ORS
+25.230. The portion of the security deposit that may be applied to the child support award:
+[9]
+HB 2473
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Is limited to the amount deposited under ORS 135.265 (2);
+(b) May  not exceed 66 percent of the entire security amount set under ORS 135.265 if the deposit
+has been made under ORS 135.265 (3); and
+(c) Does not reduce the money award in the judgment entered under  subsection (3) of this sec-
+tion that is owed to the state.
+(5) When judgment is entered in favor of the  state, or any political subdivision of the state, on
+any security given for a release, the judgment may  be enforced as a judgment in a civil action. If
+entered in circuit court, the judgment shall be entered in the register, and the clerk of the court
+shall note in the register that the judgment  creates a judgment lien. The district attorney, county
+counsel or city attorney may have execution issued on the  judgment and deliver same to the sheriff
+to be executed by levy on the deposit or security amount made in accordance with ORS  135.265, or
+may collect  the judgment as otherwise provided by law. The proceeds of any execution or collection
+shall be used to satisfy the judgment and costs and paid  into the treasury of the municipal corpo-
+ration wherein the security was  taken if the offense was defined by an ordinance of a political
+subdivision of this state,  or paid into the treasury of the county wherein the security was taken if
+the offense was defined by a statute of this state  and the judgment was entered by a justice court,
+or paid over as directed  by the State Court Administrator for deposit in the Criminal Fine Account,
+if the offense was defined by a statute of this state and the judgment was  entered by a circuit court.
+The provisions of this section shall not apply  to amounts deposited upon appearance under ORS
+153.061.
+(6) When the judgment of forfeiture is entered, the security deposit  or deposit with the clerk is,
+by virtue of the judgment alone and without requiring  further execution, forfeited to and may be
+kept by the  state or its appropriate political subdivision. Except as provided in subsection (4) of this
+section, the clerk shall reduce, by the value of the  deposit so forfeited, the debt remaining on the
+judgment and shall cause the amount on deposit to be transferred to the revenue  account of the
+state or political subdivision thereof entitled to receive  the proceeds of execution under this section.
+(7) The stocks, bonds, personal property and real property shall be  sold in the same manner as
+in execution sales in civil actions and the proceeds of such sale shall be used to  satisfy all court
+costs, prior encumbrances, if any, and from the balance a sufficient amount  to satisfy the judgment
+shall be paid into the  treasury of the municipal corporation wherein the security was taken if the
+offense was defined  by an ordinance of a political subdivision of this state, or paid into the treasury
+of the county wherein the security was  taken if the offense was defined by a statute of this state
+and the judgment was entered by a justice court, or deposited in the  General Fund available for
+general governmental expenses if the offense was defined by a statute  of this state and the judgment
+was entered by a circuit court. The balance shall be returned to the owner.  The real property sold
+may be redeemed in the same  manner as real estate may be redeemed after judicial or execution
+sales in civil actions.
+APPLICABILITY
+SECTION 7.
+The amendments to  ORS 132.270, 135.240 and 135.280 by sections 4 to 6 of this
+2025 Act  apply to criminal proceedings based on conduct occurring on or after the effective
+date of this 2025 Act.
+CAPTIONS
+[10]
+HB 2473
+1
+2
+3
+4
+5
+6
+7
+8
+9
+SECTION 8.
+The unit captions used in this 2025 Act are provided only for the convenience
+of the reader  and do not become part of the statutory law of this state or express any leg-
+islative intent in the enactment of this 2025 Act.
+EFFECTIVE DATE
+SECTION 9. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[11]

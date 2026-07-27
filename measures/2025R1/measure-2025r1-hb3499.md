@@ -1,0 +1,333 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3499
+title: 'HB 3499 (2025R1): Requires the approval of an urban renewal plan by the electors of a municipality
+  proposing a plan or a substantial amendment to a plan.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3499
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3499/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 1804e17ccd41663c7b1bcc7bdfcca0d837641c3f130007c3e2f049d49d1eeab8
+snapshot_id: measure-2025r1-hb3499-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 203.085
+  - ORS 221.230
+  - ORS 35.500
+  - ORS 457.085
+  - ORS 457.089
+  - ORS 457.095
+  - ORS 457.105
+  - ORS 457.115
+  - ORS 457.120
+  - ORS 457.125
+  - ORS 457.135
+  - ORS 457.220
+  - ORS 457.420
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3499
+prefix_meaning: House Bill
+catch_line: Requires the approval of an urban renewal plan by the electors of a municipality proposing
+  a plan or a substantial amendment to a plan.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would require that an urban renewal plan or an amendment to a plan\
+  \ be approved by voters. (Flesch Readability Score: 67.3). \n\tRequires the approval of an urban renewal\
+  \ plan by the electors of a municipality proposing a plan or a substantial amendment to a plan."
+relating_to: Relating to urban renewal.
+relating_to_full: Relating to urban renewal; creating new provisions; and amending ORS 457.085, 457.089,
+  457.095, 457.105, 457.120, 457.125 and 457.135.
+at_the_request_of: null
+lc_number: 3965
+measure_created_date: '2025-01-31T14:54:06'
+measure_modified_date: '2025-02-06T13:21:42'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 15206
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 203.085
+  - ORS 221.230
+  - ORS 35.500
+  - ORS 457.085
+  - ORS 457.089
+  - ORS 457.095
+  - ORS 457.105
+  - ORS 457.115
+  - ORS 457.120
+  - ORS 457.125
+  - ORS 457.135
+  - ORS 457.220
+  - ORS 457.420
+  from_relating_to_full:
+  - ORS 457.085
+  - ORS 457.089
+  - ORS 457.095
+  - ORS 457.105
+  - ORS 457.120
+  - ORS 457.125
+  - ORS 457.135
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3499>.
+
+# HB 3499 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3499, 2025 Regular Session (2025R1)
+- **LC number:** 3965
+- **Created:** 2025-01-31T14:54:06
+- **Metadata last modified (upstream):** 2025-02-06T13:21:42
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 15206 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3499/Introduced>.
+
+## Summary
+
+**Catchline:** Requires the approval of an urban renewal plan by the electors of a municipality proposing a plan or a substantial amendment to a plan.
+
+**Relating to:** Relating to urban renewal.
+
+Digest: The Act would require that an urban renewal plan or an amendment to a plan be approved by voters. (Flesch Readability Score: 67.3). 
+ Requires the approval of an urban renewal plan by the electors of a municipality proposing a plan or a substantial amendment to a plan.
+
+**RelatingToFull (verbatim upstream field):** Relating to urban renewal; creating new provisions; and amending ORS 457.085, 457.089, 457.095, 457.105, 457.120, 457.125 and 457.135.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3499
+Sponsored by Representative DRAZAN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  would require that an urban renewal plan or an amendment to a plan be ap-
+proved by voters. (Flesch Readability Score: 67.3).
+Requires the approval of an urban renewal plan by the electors of  a municipality proposing a
+plan or a substantial amendment to a plan.
+A BILL FOR AN ACT
+Relating to urban renewal; creating new provisions;  and amending ORS 457.085, 457.089, 457.095,
+457.105, 457.120, 457.125 and 457.135.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 457.095 is amended to read:
+457.095. (1) The governing  body of a municipality, upon receipt of a proposed urban renewal plan
+and report from  the municipality’s urban renewal agency and after public notice and hearing and
+consideration of public testimony and planning commission and taxing  district recommendations, if
+any, may approve the urban renewal plan , subject to approval by registered electors  of the
+municipality pursuant to subsection (3) of this  section . [ The approval shall be by nonemergency
+ordinance that incorporates the  plan by reference. Notice of adoption of the ordinance approving the
+urban renewal plan, and the provisions of ORS 457.135, shall be published by the governing body  of
+the municipality in accordance with ORS 457.115 no later than four  days following the ordinance
+adoption.]
+(2) [ The ordinance shall include ] The approval by the governing body shall be  by nonemer-
+gency ordinance that incorporates the plan by reference and includes  determinations and
+findings by the governing body of the municipality that:
+(a) Each urban renewal area is blighted;
+(b) The rehabilitation and  redevelopment is necessary to protect the public health, safety or
+welfare of the municipality;
+(c) The urban renewal plan conforms  to the comprehensive plan and economic development plan,
+if any, of the municipality as  a whole and provides an outline for accomplishing the urban renewal
+projects the urban renewal plan proposes;
+(d) Provision has been made to house displaced persons  within their financial means in accord-
+ance with ORS 35.500 to 35.530 and,  except in the relocation of elderly individuals or individuals
+with disabilities, without displacing on priority lists persons already waiting for existing federally
+subsidized housing;
+(e) If acquisition of real property is provided for, it is necessary;
+(f) Adoption and carrying  out of the urban renewal plan is economically sound and feasible; and
+(g) The municipality  shall assume and complete any activities prescribed it by the urban renewal
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3965
+plan.
+(3)(a) Upon  adoption of the ordinance approving the plan, the governing body of the
+municipality shall refer the  ordinance to the electors for their approval or rejection at the
+next election date specified in ORS 203.085 if the municipality is a county, or  ORS 221.230 if
+the municipality is a city, that is not sooner than the 90th day following the date of adoption
+of the ordinance.
+(b) If the electors approve the plan, the governing body of  the municipality shall publish
+notice of the adoption of the ordinance and  the provisions of ORS 457.135 in accordance with
+ORS 457.115 no later than seven days following the election.
+SECTION 2.
+ ORS 457.085 is amended to read:
+457.085. (1) An urban renewal agency shall provide for public  involvement in all stages in the
+development of an urban renewal plan.
+(2) An urban  renewal plan proposed by an urban renewal agency shall include all of the fol-
+lowing:
+(a) A description of each urban renewal project to be undertaken.
+(b) An outline for the development,  redevelopment, improvements, land acquisition, demolition
+and removal of structures, clearance, rehabilitation or  conservation of the urban renewal areas of
+the plan.
+(c) A map and legal description of the urban renewal areas of the plan.
+(d) An  explanation of the plan’s relationship to definite local objectives regarding appropriate
+land uses and improved traffic, public transportation,  public utilities, telecommunications utilities,
+recreational and community facilities and other public improvements.
+(e) An indication of proposed land uses, maximum densities and  building requirements for each
+urban renewal area.
+(f) A description of the methods to  be used for the temporary or permanent relocation of persons
+living in, and businesses situated in, the urban renewal area of the plan.
+(g) An indication of which real property may be acquired and the  anticipated disposition of such
+real property, whether by retention, resale, lease or other  legal use, together with an estimated time
+schedule for such acquisition and disposition.
+(h) If the plan provides  for a division of ad valorem taxes under ORS 457.420 to 457.470, the
+maximum amount of indebtedness that can be issued or incurred under the plan.
+(i) A description of [ what] the types of  possible future amendments to the plan that are sub-
+stantial amendments and require  the same notice, hearing and approval procedure required of the
+original plan under ORS 457.095 as provided in ORS 457.220, including but  not limited to amend-
+ments:
+(A) Adding land to the urban renewal  area [ if the addition results in a cumulative addition of
+more than one percent of the urban renewal area ].
+(B) Increasing the maximum amount of indebtedness that can be issued or incurred under  the
+plan.
+(j) For a project that  includes a public building, an explanation of how the public building serves
+or benefits the urban renewal area.
+SECTION 3.
+ ORS 457.089 is amended to read:
+457.089. (1) An urban renewal agency shall forward an urban renewal  plan and the accompany-
+ing report to  the planning commission of the municipality for recommendations before presenting the
+plan to the governing body of the municipality for approval under ORS 457.095.
+(2)(a) The urban renewal agency shall deliver the urban renewal plan and accompanying report
+to the governing body of each taxing district affected by the urban renewal plan, by certified  mail
+or any form of delivery that requires a signature upon delivery or that  may otherwise be tracked.
+The agency shall consult and confer with the  taxing districts before presenting the plan to the
+governing body of the municipality for approval under ORS 457.095.
+(b) The  governing body of each taxing district shall have 45 days following receipt of the plan
+and report to submit written recommendations  to the urban renewal agency. In adopting the plan,
+the governing  body of the municipality shall accept, reject or modify the recommendations of each
+taxing district.
+(3)(a) An urban renewal plan proposed on or after September  29, 2019, that includes a public
+building project requires the concurrence of at least three of the four taxing districts that are esti-
+mated to forgo the most property tax revenue as computed in the report  accompanying the proposed
+plan. The question of concurrence shall be determined by a vote  of the governing body of each of
+the four taxing districts.
+(b) The urban renewal agency shall include  with the urban renewal plan and accompanying re-
+port provided pursuant to subsection (2) of this section  a request for concurrence in the inclusion
+of the public building project in the proposed plan.
+(c) The governing  body of each taxing district described in paragraph (a) of this subsection shall,
+by written resolution, concur or  decline to concur in the inclusion of the public building project in
+the proposed plan.
+(d)(A) If at least three of the  four taxing districts described in paragraph (a) of this subsection
+concur, the public building project may be included in the proposed plan.
+(B) If at least two of the four taxing  districts described in paragraph (a) of this subsection do
+not concur, the public building project may not be included in the proposed plan.
+(e) If the governing body of a taxing  district described in paragraph (a) of this subsection does
+not respond within 45 days after receiving the  plan and report under subsection (2) of this section,
+the taxing district shall be  deemed to have concurred in the inclusion of all public building projects
+included in the plan.
+(4) Subsections (2) and (3) of this section also apply to:
+(a) The addition on or after September 29, 2019, of a public  building project to an urban renewal
+plan that is not included in the plan before September 29, 2019.
+(b) An amendment proposed on or after September  29, 2019, to an urban renewal plan that sig-
+nificantly increases the scope of work for a public building project  to be paid for with division of
+taxes pursuant to ORS 457.420 to 457.470.
+(5) An urban renewal plan may not be  carried out until the plan has been approved [ by the
+governing body of each municipality ] in accordance with ORS 457.095 and 457.105.
+SECTION 4.
+ ORS 457.105 is amended to read:
+457.105. (1) In addition  to the approval of a plan [ by the governing body of the municipality ] un-
+der ORS 457.095, when any portion of the area  of a proposed urban renewal plan extends beyond the
+boundaries of the municipality  into any other municipality and, in the case of a proposed plan by
+a county agency, when any portion of such area is within the  boundaries of a city, the governing
+body of the other municipality may approve the plan and  may do so by resolution, rather than by
+ordinance.
+(2) A proposed plan for an  urban renewal area [ which] that is wholly within the boundaries of
+a city, or [ which] that is wholly within the boundaries of a county and  does not include any area
+within the boundaries of a city, must be approved only [ by the governing  body of the municipality ]
+in accordance with ORS 457.095.
+SECTION 5.
+ ORS 457.120 is amended to read:
+457.120. (1) In addition to any required public notice of hearing on a proposed  urban renewal
+plan or substantial amendment or change to a plan, as described in ORS 457.085  (2)(i) and 457.220,
+the municipality shall cause notice of a hearing by the governing body on  a proposed plan for a new
+urban renewal area or on a proposed  change containing one of the types of amendments specified
+in ORS 457.085 (2)(i) to be mailed to each individual or household in one of the following groups:
+(a) Owners of real property that is located in the municipality;
+(b) Electors registered in the municipality;
+(c) Sewer, water, electric or other utility customers in the municipality; or
+(d) Postal patrons in the municipality.
+(2) If the  urban renewal area governed by the plan or substantial amendment thereof extends
+beyond the boundaries of the  municipality, notice shall also be sent to each individual in the se-
+lected group who is located in the urban renewal area.
+(3) The notice required by this section shall contain a statement in plain language that:
+(a) The  governing body, on a specified date, will hold a public hearing and consider an ordinance
+adopting or substantially amending an urban renewal plan;
+(b) If the plan is a standard rate plan, or a reduced rate  plan for which the consolidated billing
+tax rate includes  a tax pledged to repay exempt bonded indebtedness that was approved by taxing
+district electors on or before October 6, 2001, the adoption  or amendment may affect property tax
+rates;
+(c) Sets forth the proposed maximum amount of indebtedness that can be issued  or incurred
+under the plan or amendment;
+(d) The ordinance, if approved[ , is subject to referendum ] by the governing body, must be
+submitted to a vote of the electors for approval ; and
+(e) A copy of the ordinance, urban renewal plan and  accompanying report can be obtained by
+contacting a designated person within the municipality.
+(4) If the municipality that activated the urban renewal agency is a county:
+(a) The notice required by subsection (1) of this section shall  be sent to each individual or
+household in one of the groups listed in subsection (1)(a) to  (d) of this section, except that the notice
+need be sent only to those individuals or households  located in a school district with territory af-
+fected or to be affected by the tax increment financing  for the new urban renewal area or proposed
+change.
+(b) In addition to  the notice under paragraph (a) of this subsection, the county shall cause notice
+to be published in a paper of general circulation throughout the county.  The published notice shall
+contain the information described in subsection (3) of this  section, be published in an advertisement
+not less than three inches in height and three inches  in width and be located in a general interest
+section of the newspaper other than the classified advertisement section.
+SECTION 6.
+ ORS 457.125 is amended to read:
+457.125. (1) A copy of the ordinance  approving an urban renewal plan under ORS 457.095 , and
+an official notice of the results of the election required under ORS  457.095 (3), shall be sent
+by the governing body of the municipality to the urban renewal agency.
+(2) A copy of the resolution approving an  urban renewal plan under ORS 457.105 shall be sent
+by the governing body of a municipality to the urban renewal agency.
+(3) Upon receipt of the necessary approval of each municipality governing body and the elec-
+tors of the municipality that proposed  the urban renewal plan , the urban renewal plan shall
+be recorded by the urban renewal agency with the recording officer of each county in which any
+portion of an urban renewal area within the plan is situated.
+SECTION 7.
+ ORS 457.135 is amended to read:
+457.135. After October 3, 1979, any urban renewal plan purported to  be adopted in conformance
+with applicable  legal requirements shall be conclusively presumed valid for all purposes 90 days af-
+ter [ adoption of the plan by ordinance of the  governing body of the municipality ] approval of the plan
+by the electors of the  municipality pursuant to ORS 457.095 (3) . No direct or collateral attack
+on the action may thereafter be commenced.
+SECTION 8. The amendments to ORS 457.085, 457.089, 457.095,  457.105, 457.120, 457.125 and
+457.135 by sections 1 to 7 of this 2025 Act apply to urban renewal plans  proposed or sub-
+stantially amended on or after the effective date of this 2025 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 457.085, ORS 457.089, ORS 457.095, ORS 457.105, ORS 457.120, ORS 457.125, ORS 457.135
+- From bill text (Introduced version): ORS 203.085, ORS 221.230, ORS 35.500, ORS 457.085, ORS 457.089, ORS 457.095, ORS 457.105, ORS 457.115, ORS 457.120, ORS 457.125, ORS 457.135, ORS 457.220, ORS 457.420
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `1804e17ccd41663c7b1bcc7bdfcca0d837641c3f130007c3e2f049d49d1eeab8` (snapshot `_meta/snapshots/measure-2025r1-hb3499-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3499/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3499> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

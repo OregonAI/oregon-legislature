@@ -1,0 +1,184 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 60
+Sponsored by Senators HAYDEN, GELSER BLOUIN (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that claims about child abuse are not subject to  the notice requirement
+of the OTCA. The Act revives some claims. (Flesch Readability Score: 77.4).
+Exempts claims based on conduct that  constitutes child abuse, or conduct that constitutes
+knowingly allowing, permitting or encouraging child abuse, from the notice requirement of  the
+Oregon Tort Claims Act.
+Revives certain causes of  action barred because of the notice requirement or the statute of
+limitations or repose. Requires a revived claim to be filed  within two years after the effective date
+of the Act.
+A BILL FOR AN ACT
+Relating to the Oregon Tort Claims Act; creating new provisions; and amending ORS 30.275.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 30.275 is amended to read:
+30.275. (1) No action arising from any act or omission of a public body or an  officer, employee
+or agent of a public body within the scope of ORS 30.260 to 30.300 shall be maintained  unless notice
+of claim is given as required by this section.
+(2) Notice of claim shall be given within the following applicable  period of time, not including
+the period, not exceeding 90 days, during which the person  injured is unable to give the notice be-
+cause of the injury or because of minority, incompetency or other incapacity:
+(a) For wrongful death, within one year after the alleged loss or injury.
+(b) For all other claims, within 180 days after the alleged loss or injury.
+(3) Notice of claim required by this section is satisfied by:
+(a) Formal notice of claim as provided in subsections (4) and (5) of this section;
+(b) Actual notice of claim as provided in subsection (6) of this section;
+(c) Commencement of an action on the claim by or on behalf  of the claimant within the appli-
+cable period of time provided in subsection (2) of this section; or
+(d) Payment of all or any part of the claim by or on behalf of the public body at any time.
+(4) Formal notice of claim  is a written communication from a claimant or representative of a
+claimant containing:
+(a) A statement that a claim for  damages is or will be asserted against the public body or an
+officer, employee or agent of the public body;
+(b) A description of the time, place and circumstances giving rise to the claim, so  far as known
+to the claimant; and
+(c) The name of the claimant and the mailing address to which correspondence  concerning the
+claim may be sent.
+(5) Formal notice of claim shall be given by mail or personal delivery:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3027
+SB 60
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) If the claim is against the state or an officer, employee or agent  thereof, to the office of the
+Director of the Oregon Department of Administrative Services.
+(b) If the claim  is against a local public body or an officer, employee or agent thereof, to the
+public body at  its principal administrative office, to any member of the governing body of the public
+body, or to an attorney designated by the governing body as its general counsel.
+(6) Actual notice of claim is any communication by which any individual  to whom notice may
+be given  as provided in subsection (5) of this section or any person responsible for administering tort
+claims on behalf of the public body acquires actual knowledge of the time, place  and circumstances
+giving rise to the claim, where the communication is such that a  reasonable person would conclude
+that a  particular person intends to assert a claim against the public body or an officer, employee
+or agent of the public  body. A person responsible for administering tort claims on behalf of a public
+body is a person who, acting within the scope of the person’s responsibility,  as an officer, employee
+or agent of a public body or as an employee or agent of an insurance carrier insuring the public
+body for risks within the scope of ORS 30.260 to 30.300, engages in investigation, negotiation,  ad-
+justment or defense of claims within the scope of ORS 30.260 to 30.300, or  in furnishing or accepting
+forms for claimants to provide claim information, or in supervising any of those activities.
+(7) In an action arising from any act or  omission of a public body or an officer, employee or
+agent of a public body within the scope of ORS 30.260  to 30.300, the plaintiff has the burden of
+proving that notice of claim was given as required by this section.
+(8) The requirement that a notice of claim be given under subsections (1) to (7) of this section
+does not apply if:
+(a)(A) The claimant was under  the age of 18 years when the acts or omissions giving rise to a
+claim occurred;
+(B) The claim is against the Department of Human Services  or the Oregon Youth Authority; and
+(C) The  claimant was in the custody of the Department of Human Services pursuant to an order
+of a juvenile court under ORS 419B.150, 419B.185, 419B.337 or 419B.527, or was in the custody of
+the Oregon Youth Authority under the provisions of ORS  419C.478, 420.011 or 420A.040, when the
+acts or omissions giving rise to a claim occurred.
+(b) The claim is against a private, nonprofit organization that  provides public transportation
+services described under ORS 30.260 (4)(d).
+(c) The claim is based on conduct that constitutes child abuse, as  defined in ORS 12.117,
+against a person under 18 years of age, or conduct that  constitutes knowingly allowing,
+permitting or encouraging  child abuse, as defined in ORS 12.117, against a person under 18
+years of age.
+(9) Except as  provided in ORS 12.120, 12.135 and 659A.875, but notwithstanding any other pro-
+vision of ORS chapter 12  or other statute providing a limitation on the commencement of an action,
+an action arising from any act  or omission of a public body or an officer, employee or agent of a
+public body within the scope of ORS 30.260 to 30.300 shall be commenced within two years after the
+alleged loss or injury.
+SECTION 2.
+(1) The amendments to  ORS 30.275 by section 1 of this 2025 Act apply to all
+causes of action arising before, on or after the effective date of this 2025 Act.
+(2) The amendments to ORS 30.275 by section 1 of this 2025  Act revive a cause of action
+based on conduct that constitutes child abuse, as defined in  ORS 12.117, against a person
+under 18 years of  age, or conduct that constitutes knowingly allowing, permitting or en-
+couraging child abuse, as defined in ORS 12.117, against a person under 18 years of age if:
+[2]
+SB 60
+1
+2
+3
+4
+5
+6
+7
+8
+(a) A civil action alleging the cause of action was filed before the effective date  of this
+2025 Act; and
+(b) The cause of action was adjudicated based on the provisions of ORS 30.275  as in effect
+immediately before the  effective date of this 2025 Act, or based on the plaintiff’s failure to
+comply with a statute of limitations or statute of repose.
+(3) A cause of  action revived under subsection (2) of this section must be refiled within
+two years after the effective date of this 2025 Act.
+[3]

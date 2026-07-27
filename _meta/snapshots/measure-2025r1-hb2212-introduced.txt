@@ -1,0 +1,194 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2212
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Behavioral Health and Health Care for Representative Rob Nosse)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates the Task Force  on the Prioritized List of Health Services. (Flesch
+Readability Score: 83.0).
+Establishes the Task Force on the Prioritized List of Health Services. Directs the task force  to
+study the impacts of eliminating the prioritized list of health services and report to the interim
+committees of the Legislative Assembly related to health no later than March 15, 2026.
+Sunsets the task force on January 2, 2028.
+Declares an emergency, effective July 1, 2025.
+A BILL FOR AN ACT
+Relating to the prioritized list of health services; and declaring an emergency.
+Whereas Oregon’s prioritized list of health services has  been a core principle of the state’s
+medical assistance program for 30 years; and
+Whereas the Centers for Medicare and Medicaid Services has required the state to  phase out
+use of the prioritized  list from the state’s demonstration project under section 1115 of the Social
+Security Act (42 U.S.C. 1315); and
+Whereas the principles and underlying intent of  the prioritized list are essential to the state’s
+medical assistance program; and
+Whereas the Health Evidence Review  Commission serves the goal of health care transformation
+by using data-driven evidence to make funding and coverage decisions; and
+Whereas Oregon seeks to ensure, to the greatest  extent possible, an equitable and sustainable
+application of the prioritized list in future state plan amendments; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Task Force on the Prioritized List of Health Services is established.
+(2) The task force consists of 24 members appointed as follows:
+(a) The President of the Senate  shall appoint two members who are not members of the
+same political party from among members of the Senate.
+(b) The Speaker of the House of Representatives shall appoint  two members who are not
+members of the same political party from among members of the House of Representatives.
+(c) The Governor shall  appoint 20 members who reflect the geographic diversity of this
+state, as follows:
+(A) One representative of the Oregon Health Authority;
+(B) One representative of the Department of Human Services;
+(C) One health care advisor to the Governor;
+(D) Two representatives of the disability community;
+(E) One representative of the nine federally recognized Indian tribes in this state;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2567
+HB 2212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(F) One representative of a dental care organization;
+(G) One representative of a statewide association representing behavioral  health provid-
+ers;
+(H) Five representatives of  coordinated care organizations, as defined in ORS 414.025,
+including at least one from a rural service area and one from an urban service area;
+(I) Two representatives with expertise in actuarial data;
+(J) Two representatives with expertise in medical management;
+(K) One representative with expertise in claims adjudication; and
+(L) Two community members who currently receive medical assistance, as defined  in
+ORS 414.025.
+(3) The task force shall study the potential impacts of eliminating the  prioritized list of
+health services compiled by the Health Evidence Review Commission under  ORS 414.690, in-
+cluding:
+(a) The  transition to determining coverage of health services in the state’s medical as-
+sistance program without  use of the prioritized list of health services, including how “med-
+ical necessity” will be defined;
+(b) The future role of the Health Evidence  Review Commission, including with regard to
+state plan amendments;
+(c) Impacts to the use of sustainability in the  Oregon Integrated and Coordinated Health
+Care Delivery System established in ORS 414.570; and
+(d) Impacts to  the claims adjudication process in the state’s medical assistance program.
+(4) A  majority of the voting members of the task force constitutes a quorum for the
+transaction of business.
+(5) Official action by the task force requires the approval of a majority  of the voting
+members of the task force.
+(6) The task force shall elect one of its members to serve as chairperson.
+(7) If there  is a vacancy for any cause, the appointing authority shall make an appoint-
+ment to become immediately effective.
+(8) The task force shall meet at least quarterly until June 30, 2027, and at any  other
+times and places specified by the call of the chairperson or of a majority of  the voting
+members of the task force.
+(9) The task force may adopt rules necessary for the operation of the task force.
+(10) The task force shall submit a report in the  manner provided by ORS 192.245, and
+may include recommendations for addressing the impacts  of eliminating the use of the pri-
+oritized list of health services  in the state’s medical assistance program, to the interim
+committees of the Legislative Assembly related to health no later than March 15, 2026.
+(11)(a) The Legislative Policy and Research Director, in collaboration with  the Oregon
+Health Authority, shall provide staff support to the task force.
+(b) The director may  contract with third parties to study the potential impacts described
+in subsection (3) of this section.
+(12) Members of the Legislative Assembly appointed to the task force  are nonvoting
+members of the task force and may act in an advisory capacity only.
+(13) Members of the task force who are not members of the Legislative  Assembly are not
+entitled to compensation or reimbursement for expenses and serve as volunteers on the  task
+force.
+[2]
+HB 2212
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+(14) All agencies of state government, as defined in  ORS 174.111, are directed to assist
+the task force in the performance of  the duties of the task force and, to the extent permitted
+by laws relating to confidentiality, to furnish information and advice the members of the task
+force consider necessary to perform their duties.
+SECTION 2.
+Section 1 of this 2025 Act is repealed on January 2, 2028.
+SECTION 3. In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Legislative Policy and Research Committee, for the biennium beginning  July 1,
+2025, out of the General  Fund, the amount of $500,000, which may be expended for the pur-
+pose of carrying out the provisions of section 1 of this 2025 Act.
+SECTION 4. This 2025 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+July 1, 2025.
+[3]

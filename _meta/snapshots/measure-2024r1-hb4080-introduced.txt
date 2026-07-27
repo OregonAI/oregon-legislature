@@ -1,0 +1,294 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4080
+Sponsored by Representative GRAYBER; Representatives ANDERSEN, BOWMAN, DEXTER, HUDSON, LEVY  E,
+LIVELY, MARSH, PHAM K, TRAN, WALTERS,  Senators CAMPOS, DEMBROW, FREDERICK, GOLDEN,
+PATTERSON, TAYLOR (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: States a state policy on offshore wind energy. Tells the  state agency on energy to make
+a road map  on standards for offshore wind energy. Makes a person involved in an offshore wind
+energy or port project to meet certain labor and supply  chain standards. Tells the state agency on
+land use to conduct,  or support, federal reviews of offshore wind leasing decisions. (Flesch Read-
+ability Score: 60.5).
+Declares a state policy to support engagement between offshore wind developers and impacted
+organizations, communities and tribes. Declares a  state policy regarding offshore wind energy de-
+velopment and labor and supply chain standards.
+Directs the State Department of Energy to  develop an Offshore Wind Roadmap that defines
+standards regarding the development of offshore wind energy.
+Requires a developer or  contractor involved in an offshore wind energy project or port devel-
+opment project that is necessary for the development of an offshore  wind energy project to meet
+certain labor and supply chain standards.
+Directs the Department of Land Conservation and Development to conduct, or support,  consist-
+ency reviews of offshore wind leasing decisions  and related actions. Directs the department to sub-
+mit a report on the department’s activities to the interim committees of the  Legislative Assembly
+related to energy and development not later than September 1, 2025.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to offshore wind energy development; and declaring an emergency.
+Whereas Oregon will benefit  from an Offshore Wind Roadmap that is developed in consultation
+with a broad group of stakeholders; and
+Whereas an  Offshore Wind Roadmap should consider all benefits and ramifications of offshore
+wind energy development to this state; and
+Whereas Oregon’s state agencies are poised to best facilitate the  development of an Offshore
+Wind Roadmap and should be adequately funded,  supported and engaged in the development of an
+Offshore Wind Roadmap  so that Oregon’s interests are fully considered in decision-making processes;
+and
+Whereas the interconnection of offshore energy projects to the  electric grid along the Oregon
+coast should be carried out in a manner that promotes the reliability and resilience  of this state’s
+electric system; and
+Whereas the jobs created from offshore  wind energy development should meaningfully sustain
+and support local Oregon workers and align with Oregon’s existing labor standards, including sup-
+port of registered apprenticeship programs that ensure  the highest quality of work and career-
+supporting jobs, outreach to historically  marginalized communities to perform those jobs, living
+wages, compliance with state and federal laws and use of domestic supply chains whenever possible;
+now, therefore,
+Be It Enacted by the People of the State of Oregon:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 58
+HB 4080
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 1.
+It is  the policy of the State of Oregon to support ongoing engagement be-
+tween offshore wind energy developers and:
+(1) The Southwestern Oregon Workforce Investment Board;
+(2) The Oregon International Port of Coos Bay;
+(3) The Port of Brookings Harbor;
+(4) The Port of Newport; and
+(5) Any communities or Indian tribes impacted by offshore wind  energy development that
+want to engage in the offshore wind energy development process.
+SECTION 2.
+The State Department of Energy shall develop an Offshore  Wind Roadmap
+that defines standards to be considered in the development process for offshore wind energy.
+The standards must support:
+(1) Effective stakeholder engagement;
+(2) Local and regional coastal communities;
+(3) The creation of economic opportunities and sustainment of existing local and regional
+economies;
+(4) The creation of  an offshore wind energy workforce that is local, trained, housed and
+equitable;
+(5) Protection of cultural resources, treaty rights and interests of Indian tribes;
+(6) Protection of the environment; and
+(7) The achievement of state energy policy objectives.
+SECTION 3.
+It is the policy of the State  of Oregon to promote economic diversification
+and resilience in offshore wind energy development by ensuring  that all developers and con-
+tractors involved in the construction, operation or maintenance of offshore wind energy
+projects and the construction of a port  development project that is necessary for the devel-
+opment of offshore wind energy  projects follow industry-leading strong labor and supply
+chain standards.
+SECTION 4.
+(1) As used in this section, except  as otherwise specified, “project” means
+an offshore wind energy project or port development project necessary for the development
+of an offshore wind energy project.
+(2) A developer or contractor that is involved  in the construction, operation or mainte-
+nance of an offshore wind energy project or the construction of a port development project
+that is necessary for the development of an offshore wind energy project shall:
+(a) Participate as a  training agent, as defined in ORS 660.010, in an apprenticeship pro-
+gram registered with the State Apprenticeship and Training Council to provide on-the-job
+training opportunities for apprentices in apprenticeable occupations to  perform work on the
+project such that  at least 15 percent of the work hours of each apprenticeable occupation is
+performed by apprentices;
+(b) Establish  and execute a plan for outreach, recruitment and retention of women, mi-
+nority individuals and veterans to perform  work on the project, with the aspirational target
+of having at least 15 percent of total  work hours performed by individuals in one or more
+of those groups;
+(c) Pay wages to workers who perform work  on the project at a rate that is no less than
+the greater of:
+(A) The living wage for the locality or region where the work is performed;
+(B) The prevailing rate of wage that the Commissioner of the Bureau of Labor and In-
+[2]
+HB 4080
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+dustries determines under ORS 279C.815 for the trade or occupation in  the locality where the
+work is performed;
+(C) The  minimum wage specified under the federal Service Contract Act (41 U.S.C.
+351-401) for the work, or similar work, in the locality where the work is performed;
+(D) The wage calculated  under the Massachusetts Institute of Technology living wage
+calculator for the county or region where the work is performed; or
+(E) The wage determined under an applicable  collective bargaining agreement, if any, if
+the collective bargaining agreement provides for employer-paid retirement and family and
+medical insurance benefits;
+(d) Demonstrate a history of material compliance in  the previous three years, or provide
+available history for a new business, with federal and state wage and hour laws; and
+(e) Demonstrate a history of material compliance in the  previous three years, or provide
+available history  for a new business, with the rules and other requirements of state agencies
+with oversight regarding occupational safety and health.
+(3)(a) A developer or contractor that  is involved in the construction, operation or main-
+tenance of an offshore wind energy project or the construction of a  port development project
+that is  necessary for the development of an offshore wind energy project shall require, in
+each contract entered into under the project with an estimated contract price of $250,000 or
+more, that steel, iron, coatings for  steel and iron and manufactured products that a devel-
+oper or contractor  purchases for or uses in the project, and that become part of a permanent
+structure, must be produced in the United States.
+(b) The requirements set forth in paragraph (a) of this subsection do not apply if:
+(A) The requirement is inconsistent with the public interest;
+(B) Steel, iron, coatings for steel and iron or manufactured products required  for the
+project are not produced in the United States in sufficient and reasonably available quantities
+and with satisfactory quality; or
+(C) Using steel,  iron, coatings for steel and iron or manufactured products produced in
+the United States for the  project will increase the cost of the project by more than 25 per-
+cent.
+(4)(a) In lieu of complying with the requirements described  in subsections (2) and (3) of
+this section, a developer or contractor that is involved in the construction, operation or
+maintenance of an offshore wind energy project or the construction of a  port development
+project that is necessary for the development of an offshore wind energy  project may enter
+into a workforce development agreement that covers  work to be performed under the project
+and shall be exempted from the requirements described in subsections  (2) and (3) of this
+section.
+(b) As used in this subsection,  “workforce development agreement” means an agreement
+that provides for, at a minimum, the following:
+(A) A project labor agreement, as  defined in 48 C.F.R.  52.222-34, as in effect on the ef-
+fective date of this 2024 Act;
+(B) A labor peace agreement that includes terms:
+(i) Recognizing the card check  process for employees to form or join a labor organization;
+and
+(ii) Requiring the developer or contractor to remain neutral with respect to labor or-
+ganization for all non-construction portions of a project; and
+[3]
+HB 4080
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+(C) An agreement to utilize or develop domestic supply chains  for the manufactured
+products used in the construction, maintenance or operation of a project.
+SECTION 5.
+The Department of Land Conservation and Development shall conduct,  or
+support, consistency reviews of offshore wind leasing decisions and related actions related
+to offshore wind energy development off of the Oregon coast made  by the federal Bureau of
+Ocean Energy Management.
+SECTION 6.
+The Department of Land Conservation  and Development shall draft a report
+that summarizes the department’s activities  in carrying out section 5 of this 2024 Act. The
+department shall submit the report in the manner provided  by ORS 192.245, and may include
+recommendations for legislation, to the interim committees of the Legislative Assembly  re-
+lated to energy and development no later than September 1, 2025.
+SECTION 7. Section 6 of this 2024 Act is repealed on January 2, 2026.
+SECTION 8. This 2024 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2024 Act takes effect
+on its passage.
+[4]

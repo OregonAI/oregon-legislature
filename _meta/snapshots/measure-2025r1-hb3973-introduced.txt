@@ -1,0 +1,441 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3973
+Sponsored by Representative LEVY E
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act removes paint from a recycling law. (Flesch Readability Score: 82.3).
+Removes the requirement that architectural paint be collected  by a stewardship organization to
+be excluded from the definition of “covered product” under  the packaging, printing and writing pa-
+per and food serviceware producer responsibility law.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to paint; creating new provisions; amending ORS 459A.863; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 459A.863 is amended to read:
+459A.863. As used in ORS 459A.860 to 459A.975:
+(1) “Brand” means  any mark, word, name, symbol, design, device or graphical element, or a
+combination thereof, including a registered or unregistered trademark, that  identifies a product and
+distinguishes the product from other products.
+(2) “Commingled recycling” means the recycling or recovery  of two or more materials that are
+mixed together and that generally would be separated  into individual materials at a commingled
+recycling processing facility in order to be marketed.
+(3)(a) “Commingled recycling processing facility” means a facility that:
+(A) Receives source separated commingled recyclable materials that are  collected commingled
+from a collection program providing the opportunity to recycle; and
+(B) Separates the recyclable materials described in subparagraph (A) of this paragraph  into
+marketable commodities  or streams of materials that are intended for use or further processing by
+others.
+(b) “Commingled recycling processing facility” does not include:
+(A) Scrap metal recycling facilities;
+(B) Scrap automotive or appliance recycling facilities;
+(C) Full-service redemption centers or dealer redemption centers,  as those terms are defined in
+ORS 459A.700, and recycling facilities owned  and operated by a distributor cooperative established
+under ORS 459A.718;
+(D) Recycling facilities handling covered electronic devices, as defined in ORS 459A.305;
+(E) Recycling processing facilities  that process only noncommingled, source separated recyclable
+material from commercial entities;
+(F) Recycling processing facilities that recover commingled recyclable material primarily from
+the construction and demolition debris waste stream;
+(G) Recycling depots;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4767
+HB 3973
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(H) Recycling reload facilities; or
+(I) Limited sort facilities, as defined by rule by the Environmental Quality Commission.
+(4) “Contaminant” means:
+(a) A material set out for recycling collection that is  not properly prepared and on the list of
+materials accepted for recycling collection by a recycling collection program; or
+(b) A material shipped to a  recycling end market that is not accepted or desired by that end
+market.
+(5) “Contamination” means  the presence of one or more contaminants in a recycling collection
+or commodity stream in  an amount or concentration that negatively impacts the value of the mate-
+rial or negatively impacts a processor’s ability to sort that material.
+(6)(a) “Covered product” means:
+(A) Packaging;
+(B) Printing and writing paper; and
+(C) Food serviceware.
+(b) “Covered product” does not include:
+(A) A beverage container, as defined in ORS 459A.700.
+(B) Bound books.
+(C) Napkins, paper towels or other paper intended to be  used for cleaning or the absorption of
+liquids.
+(D) Rigid pallets used as the structural foundation for transporting goods lifted by a  forklift,
+pallet jack or similar device.
+(E) Specialty packaging  items that are used exclusively in industrial or manufacturing processes,
+including but not limited to:
+(i) Cores and wraps for rolls of packaging sold by a mill  to a packaging converter or food
+processor; and
+(ii) Trays, whether  designed for a single use or multiple uses, used for the transport of compo-
+nent parts from a parts supplier to a manufacturer that assembles those parts.
+(F) Liquified petroleum gas containers that are designed to be refilled.
+(G) A material that the producer demonstrates is exempt under ORS 459A.869.
+(H) Pallet wrap or similar  packaging used to secure a palletized load if added by a person that
+is not the producer of the palletized covered products.
+(I) Packaging related to containers for architectural paint, as defined in ORS  459A.822[, that has
+been collected  by a producer responsibility organization under the program established under ORS
+459A.820 to 459A.855 ].
+(J) Any item that is not ultimately discarded inside  this state, whether for purposes of recovery
+or disposal.
+(K) Items sold on a farm or used on a farm, including items  used for farm use, as defined in ORS
+215.203, or for  processing on a farm, provided that an item used on a farm is not subsequently sold
+at a retail establishment that is not located on a farm.
+(L) Items used by a nursery  licensed under ORS 571.055 that generates the majority of the
+nursery’s revenue through the sale of nursery stock, as defined in ORS 571.005, provided  that the
+items are not sold through retail sales.
+(M) Packaging and paper products sold or supplied in connection with:
+(i) Prescription drugs as defined in ORS 689.005;
+(ii) Nonprescription drugs as defined in ORS 689.005;
+[2]
+HB 3973
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(iii) Drugs marketed under a brand name as defined in ORS 689.515; or
+(iv) Drugs marketed under a generic name as defined in ORS 689.515.
+(N) Packaging and paper products sold or supplied in  connection with drugs that are used for
+animal medicines, including but not limited to parasiticide drugs for animals.
+(O) Packaging and paper products sold or supplied in connection with:
+(i) Infant formula as defined in 21 U.S.C. 321(z);
+(ii) Medical food as defined in 21 U.S.C. 360ee(b)(3); or
+(iii) Fortified oral nutritional  supplements used for individuals who require supplemental or sole
+source nutrition to meet nutritional needs due to special dietary needs directly related to  cancer,
+chronic kidney disease, diabetes, malnutrition, or failure to thrive, as those terms are  defined as by
+the International Classification of Diseases, Tenth  Revision, or other medical conditions as deter-
+mined by the commission.
+(P) Wine and spirit containers for which a refund value is established under Oregon law.
+(Q) Packaging for products:
+(i) That are required under 40  C.F.R. 156.140, or other federal regulation pertaining to toxic or
+hazardous materials, to  state on the label or container that the packaging should not be recycled
+or should be disposed of in a manner other than recycling; or
+(ii) Identified by the commission by  rule as product that is required by law to state on the label
+or container that the packaging should  not be recycled or should be disposed of in a manner other
+than recycling.
+(R) Any other material, as determined by the  commission by rule, after consultation with the
+Oregon Recycling System Advisory Council.
+(7) “Food serviceware” means paper  or plastic plates, wraps, cups, bowls, pizza boxes, cutlery,
+straws, lids, bags, aluminum foil or clamshells or similar containers:
+(a) That are generally intended for single use; and
+(b) That are sold to a retailer or a  dine-in food establishment or a take-out food establishment,
+regardless of whether  the item is used to prepackage food for resale, is filled on site for food ordered
+by a customer or is resold as is.
+(8) “Large producer” means a producer that is among the 25 largest producers of  covered pro-
+ducts based on market share.
+(9) “Licensee” means a person that is licensed by a brand  and manufactures a covered product
+or a packaged item under that brand.
+(10) “Litter” means waste that is improperly placed so  as to be a nuisance or aesthetic, health
+or environmental concern.
+(11) “Local government” means:
+(a) A city;
+(b) A county; or
+(c) A metropolitan service district.
+(12) “Local government’s service provider” means:
+(a) A collection service franchise holder under ORS 459A.085;
+(b) Any person authorized by a  city or county to provide recycling collection services described
+in subsection (25)(a) to (d) of this section; or
+(c) Any person authorized by a metropolitan service district to  provide recycling collection
+services described in subsection (25)(d) of this section.
+(13) “Market share” means a producer’s percentage of all  covered products sold in or into this
+[3]
+HB 3973
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+state during a specified time period, as calculated in accordance with  methods established by the
+commission by rule.
+(14) “Mechanical recycling” means a form of recycling that does not change  the basic molecular
+structure of the material being recycled.
+(15) “Metropolitan service district” means a metropolitan service district established  under ORS
+chapter 268.
+(16) “Nonprofit organization” means an organization or group of organizations described  in
+section 501(c)(3) of the Internal Revenue Code that is exempt  from income tax under section 501(a)
+of the Internal Revenue Code.
+(17) “Opportunity to recycle” has the meaning given that term in ORS 459A.005.
+(18)(a) “Packaging” means:
+(A) Materials used for the containment or protection of products, including but not  limited to
+paper, plastic, glass or metal or a mixture thereof;
+(B) Single-use bags, including but not limited to shopping bags; and
+(C) Nondurable materials used in storage, shipping or moving, including but not  limited to
+packing materials, moving boxes, file boxes and folders.
+(b) “Packaging” does not include:
+(A) Food serviceware; or
+(B) Sharps, as defined in ORS 459.386.
+(19) “Person” has the meaning given that term in ORS 459.005.
+(20) “Printing and writing paper”  includes, but is not limited to, newspaper, magazines, flyers,
+brochures, booklets, catalogs, telephone directories and paper used for copying, writing or  other
+general use.
+(21) “Processor” means a person that owns or operates a commingled recycling processing fa-
+cility.
+(22) “Producer” means a person that is determined to be the producer of a covered product un-
+der ORS 459A.866.
+(23) “Producer responsibility organization” means  a nonprofit organization established by a
+producer or group of producers to administer a producer responsibility program.
+(24) “Producer  responsibility program” means a statewide program for the responsible manage-
+ment of covered products that is  administered by a producer responsibility organization pursuant to
+a plan approved by the Department of Environmental Quality under ORS 459A.878.
+(25) “Recycling collection” means the act or process of gathering recyclable materials by:
+(a) On-route residential collection from the generator at the place of generation;
+(b) On-site nonresidential collection from the generator at the place of generation;
+(c) Multifamily on-route residential collection from each multifamily dwelling  that has five or
+more units;
+(d) Recycling depots at  a disposal site or another designated location that is more convenient
+to the population being served and expanded depots as described in ORS 459A.007; or
+(e) Other collection methods included in an approved producer responsibility program plan.
+(26) “Recycling depot”  means a location where recyclable materials are accepted from the public
+or commercial businesses and transported to a location for processing or to an end market.
+(27) “Recycling  reload facility” means a facility other than a recycling depot where recyclable
+materials are received, consolidated and made ready for transport  to another location for processing
+or to a responsible end market.
+[4]
+HB 3973
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+(28) “Recycling system” means all aspects of the programs and participants  that have a role in
+Oregon’s statewide recycling structure, including producers  of products sold in or into Oregon,
+generators of recyclable materials, governments that  regulate materials management programs,
+businesses that collect and process recyclable materials and persons  that receive recyclable mate-
+rials to convert to new feedstock or products.
+(29) “Responsible end market” means a materials market  in which the recycling or recovery of
+materials or the disposal of  contaminants is conducted in a way that benefits the environment and
+minimizes risks to public health and worker health and safety.
+(30) “Responsible management”  means the handling, tracking and disposition of covered pro-
+ducts from the point of collection  through the final destination of the collected material in a way
+that benefits the environment and minimizes risks to public health and worker health and safety.
+(31) “Responsible recycling” means the handling of  covered products for recycling and removal
+of contaminants by a certified or permitted processor and disposition to a responsible end market.
+(32) “Small producer” means a producer that:
+(a) Is a nonprofit organization;
+(b) Is a public body, as defined in ORS 174.109;
+(c) Has a gross revenue of less than $5 million for the organization’s most recent fiscal year;
+(d) Sold in or into Oregon less than one metric ton of covered  products for use in this state in
+the most recent calendar year;
+(e) Is a manufacturer of  a beverage sold in a beverage container, as those terms are defined in
+ORS 459A.700, that sold in or into Oregon less than five metric tons of covered products, including
+but not limited to secondary and tertiary packaging  for beverage containers, for use in this state in
+the most recent calendar year;
+(f)(A) Is a restaurant, food cart  or similar business establishment that primarily sells to members
+of the public food  that is generally intended to be consumed immediately and without the need for
+further preparation, either on or off the premises; and
+(B) Is not a producer of food serviceware as described in ORS 459A.866; or
+(g) Operates a single retail sales establishment, has no online sales and  is not supplied or op-
+erated as part of a franchise or a chain.
+(33) “Specifically identified material” means a material or covered product identified  by the de-
+partment under ORS 459A.917.
+(34) “Uniform statewide  collection list” means the list of materials established in accordance
+with the requirements of ORS 459A.914 (4).
+SECTION 2.
+It is the intent of the Legislative Assembly that the amendments to ORS
+459A.863 by section 1 of this 2025 Act remove any requirements  pertaining to architectural
+paint, as defined in ORS 459A.822, from ORS 459A.860 to  459A.975. If this 2025 Act becomes
+effective after July 1, 2025, any enforcement action initiated  by the Department of Environ-
+mental Quality against  any person for a violation of ORS 459A.860 to 459A.975, with respect
+to architectural paint, occurring on or after July 1, 2025, and before the  effective date of this
+2025 Act, must be stayed or dismissed consistent with this section.
+SECTION 3. This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[5]

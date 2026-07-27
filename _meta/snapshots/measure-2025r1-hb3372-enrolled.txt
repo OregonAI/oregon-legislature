@@ -1,0 +1,222 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 3372
+Sponsored by Representatives  OWENS, HELM, Senator PROZANSKI; Representatives GAMBA,
+GOMBERG, HARTMAN, JAVADI, MARSH, Senators NERON, SOLLMAN
+CHAPTER .................................................
+AN ACT
+Relating to exempt uses of water; creating new  provisions; and amending ORS 536.900, 537.545 and
+540.045.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 537.545 is amended to read:
+537.545. (1) Subject to subsection (3) of this section,  a registration, certificate  of registration,
+application for a permit, permit, certificate of completion or ground  water right certificate under
+ORS 537.505 to 537.795 and 537.992 is not required for the use of ground water for:
+(a) Stockwatering purposes, unless the use exceeds 12,000 gallons  per day and occurs at a new
+confined animal feeding operation, as defined in ORS 468B.215;
+(b) Watering any lawn or noncommercial or commercial  garden not exceeding  one-half acre in
+area in an amount not exceeding 3,000 gallons a day ;
+(c) Watering the lawns, grounds and fields not exceeding 10 acres in area of schools  located
+within a critical ground water area established pursuant to ORS 537.730 to 537.740;
+(d) Single or group domestic purposes in an amount not exceeding 15,000 gallons a day;
+(e) Down-hole heat exchange purposes;
+(f) Any single industrial or commercial purpose , other than for watering any lawn or com-
+mercial garden, in an amount not exceeding 5,000 gallons a day; or
+(g) Land application, so long as the ground water:
+(A) Has first been appropriated and used under a permit or certificate  issued under ORS 537.625
+or 537.630 for a water right issued  for industrial purposes or a water right authorizing use of water
+for confined animal feeding purposes;
+(B) Is reused for irrigation purposes and the period of irrigation is a  period during which the
+reused water has never been discharged to the waters of the state; and
+(C) Is applied pursuant to a permit issued by the Department of Environmental  Quality or the
+State Department of Agriculture under either ORS 468B.050 to construct and  operate a disposal
+system or ORS 468B.215 to operate a confined animal feeding operation.
+(2) A ground water use for a purpose that is exempt under subsection (1) of this section,  to the
+extent that the use is beneficial, constitutes a right to  appropriate ground water equal to that es-
+tablished by a ground water right certificate issued under ORS 537.700.
+(3) A ground water use for purposes of watering a commercial  garden that is exempt
+under subsection (1)(b) of this  section, when combined with the use of water for purposes
+that are exempt under subsection (1)(f) of this section, may not exceed 5,000 gallons a day.
+Enrolled House Bill 3372 (HB 3372-B) Page 1
+[(3)] (4) Except for the  use of water under subsection (1)(g) of this section, the Water Resources
+Commission by rule may require any person or public  agency using ground water for any such
+purpose to furnish information with regard to such ground water  and the use thereof. For a use of
+water described in subsection  (1)(g) of this section, the Department of Environmental Quality or the
+State Department of Agriculture shall provide to the Water Resources Department a  copy of the
+permit issued under ORS 468B.050 or 468B.215 authorizing the land application of ground  water for
+reuse. The permit shall provide the information regarding the place of use of such water  and the
+nature of the beneficial reuse.
+[(4)] (5) If it is necessary for the Water Resources Department to regulate the use or distribution
+of ground water, including uses for purposes that are exempt under subsection (1) of this  section,
+the department shall use as a  priority date for the exempt uses the date indicated in the log for the
+well filed with the department under ORS 537.765  or other documentation provided by the well
+owner showing when water use began.
+[(5)] (6) The person licensed  under ORS 537.747 or permitted under ORS 537.753 (4) that con-
+structs a well to allow ground water use for a purpose that is exempt under subsection (1)  of this
+section shall provide the Water Resources Department with a map  showing the exact location of the
+well on the tax lot. The person  licensed under ORS 537.747 or permitted under ORS 537.753 (4) that
+constructs a well shall provide a map required by  this subsection to the department, along with the
+well log required by ORS 537.765, no later  than 30 days after the well is completed. The map must
+be prepared in accordance with standards  established by the department. The map and well log must
+be accompanied by the  fee described in subsection [ (6)] (7) of this section to record the exempt
+ground water use.
+[(6)] (7) The  Water Resources Department shall collect a fee of $300 for recording an exempt
+ground water use  under subsection [ (5)] (6)  of this section. Moneys from fees collected under this
+subsection shall be deposited to the credit  of the Water Resources Department Water Right Oper-
+ating Fund. Notwithstanding ORS 536.009, moneys deposited to the fund under this subsection  shall
+be used for the purposes of evaluating  ground water supplies, conducting ground water studies,
+carrying out ground water monitoring, processing ground  water data and the administration and
+enforcement of this subsection and subsections [ (3), (5) and (7) ] (4), (6) and (8)  of this section.
+[(7)] (8) The  Water Resources Commission shall adopt rules to implement, administer and en-
+force subsections [ (5) and (6) ] (6) and (7)  of this section.
+(9) As used in this section, “commercial garden”:
+(a) Means a garden that is used to grow plants to be sold, traded or bartered.
+(b) Does  not mean a location at which plants in the plant Cannabis family Cannabaceae
+are grown, unless the plants are grown by a person licensed under ORS 571.281.
+SECTION 2.
+ ORS 537.545, as amended by section  11, chapter 465, Oregon Laws 2023, is
+amended to read:
+537.545. (1) Subject to subsection (3) of this section, a registration, certificate  of registration,
+application for a permit, permit, certificate of completion or ground  water right certificate under
+ORS 537.505 to 537.795 and 537.992 is not required for the use of ground water for:
+(a) Stockwatering purposes;
+(b) Watering any lawn or noncommercial or commercial  garden not exceeding  one-half acre in
+area in an amount not exceeding 3,000 gallons a day ;
+(c) Watering  the lawns, grounds and fields not exceeding 10 acres in area of schools located
+within a critical ground water area established pursuant to ORS 537.730 to 537.740;
+(d) Single or group domestic purposes in an amount not exceeding 15,000 gallons a day;
+(e) Down-hole heat exchange purposes;
+(f) Any single industrial or commercial purpose , other than  for watering any lawn or com-
+mercial garden, in an amount not exceeding 5,000 gallons a day; or
+(g) Land application, so long as the ground water:
+Enrolled House Bill 3372 (HB 3372-B) Page 2
+(A) Has first been appropriated and used under a permit or certificate  issued under ORS 537.625
+or 537.630 for a water right issued  for industrial purposes or a water right authorizing use of water
+for confined animal feeding purposes;
+(B) Is reused for irrigation purposes and the period of irrigation is a  period during which the
+reused water has never been discharged to the waters of the state; and
+(C) Is applied pursuant to a permit issued by the Department of Environmental  Quality or the
+State Department of Agriculture under either ORS 468B.050 to construct and  operate a disposal
+system or ORS 468B.215 to operate a confined animal feeding operation.
+(2) A ground water use for a purpose that is exempt under subsection (1) of this section,  to the
+extent that the use is beneficial, constitutes a right to  appropriate ground water equal to that es-
+tablished by a ground water right certificate issued under ORS 537.700.
+(3) A ground water use for purposes of watering a commercial  garden that is exempt
+under subsection (1)(b) of this  section, when combined with the use of water for purposes
+that are exempt under subsection (1)(f) of this section, may not exceed 5,000 gallons a day.
+[(3)] (4) Except for the  use of water under subsection (1)(g) of this section, the Water Resources
+Commission by rule may require any person or public  agency using ground water for any such
+purpose to furnish information with regard to such ground water  and the use thereof. For a use of
+water described in subsection  (1)(g) of this section, the Department of Environmental Quality or the
+State Department of Agriculture shall provide to the Water Resources Department a  copy of the
+permit issued under ORS 468B.050 or 468B.215 authorizing the land application of ground  water for
+reuse. The permit shall provide the information regarding the place of use of such water  and the
+nature of the beneficial reuse.
+[(4)] (5) If it is necessary for the Water Resources Department to regulate the use or distribution
+of ground water, including uses for purposes that are exempt under subsection (1) of this  section,
+the department shall use as a  priority date for the exempt uses the date indicated in the log for the
+well filed with the department under ORS 537.765  or other documentation provided by the well
+owner showing when water use began.
+[(5)] (6) The person licensed  under ORS 537.747 or permitted under ORS 537.753 (4) that con-
+structs a well to allow ground water use for a purpose that is exempt under subsection (1)  of this
+section shall provide the Water Resources Department with a map  showing the exact location of the
+well on the tax lot. The person  licensed under ORS 537.747 or permitted under ORS 537.753 (4) that
+constructs a well shall provide a map required by  this subsection to the department, along with the
+well log required by ORS 537.765, no later  than 30 days after the well is completed. The map must
+be prepared in accordance with standards  established by the department. The map and well log must
+be accompanied by the  fee described in subsection [ (6)] (7) of this section to record the exempt
+ground water use.
+[(6)] (7) The  Water Resources Department shall collect a fee of $300 for recording an exempt
+ground water use  under subsection [ (5)] (6) of this section. Moneys from fees collected under this
+subsection shall be deposited to the credit  of the Water Resources Department Water Right Oper-
+ating Fund. Notwithstanding ORS 536.009, moneys deposited to the fund under this subsection  shall
+be used for the purposes of evaluating  ground water supplies, conducting ground water studies,
+carrying out ground water monitoring, processing ground  water data and the administration and
+enforcement of this subsection and subsections [ (3), (5) and (7) ] (4), (6) and (8)  of this section.
+[(7)] (8) The  Water Resources Commission shall adopt rules to implement, administer and en-
+force subsections [ (5) and (6) ] (6) and (7)  of this section.
+(9) As used in this section, “commercial garden”:
+(a) Means a garden that is used to grow plants to be sold, traded or bartered.
+(b) Does  not mean a location at which plants in the plant Cannabis family Cannabaceae
+are grown, unless the plants are grown by a person licensed under ORS 571.281.
+SECTION 3.
+The exemption established by  ORS 537.545 (1)(b) for the use of ground water
+for watering any commercial garden does not apply to the use of ground water for  watering
+any commercial garden in the Lower Umatilla Basin Groundwater Management Area.
+Enrolled House Bill 3372 (HB 3372-B) Page 3
+SECTION 4. Section 3 of this 2025 Act is repealed on January 2, 2028.
+SECTION 5.  ORS 536.900 is amended to read:
+536.900. (1) In addition to  any other liability or penalty provided by law, the Water Resources
+Commission may impose a civil penalty on a person for violation of:
+(a) A term or condition of a permit, certificate or license  issued under ORS chapters 536 to
+543A.
+(b) ORS 537.130 or 537.535.
+(c) ORS 537.545 [ (5)] (6) or a rule described in ORS 537.545 [ (7)] (8).
+(d) A commission rule or order that pertains to well maintenance.
+(e) ORS 540.045, 540.145, 540.210, 540.310, 540.320, 540.330,  540.340, 540.435, 540.440, 540.570 (5),
+540.710, 540.720 and 540.730 or rules adopted under ORS 540.145.
+(f) ORS 537.897 or 537.898 (2).
+(g) ORS 537.387.
+(2) A civil penalty may be imposed under this section for each day of violation  of ORS 537.130,
+537.535, 540.045, 540.310, 540.330, 540.570 (5), 540.710, 540.720 or 540.730.
+(3) In the event the petitioner knowingly misrepresents the map and petition required  in ORS
+541.329, the commission may assess a penalty of up  to $1,000 based upon guidelines to be established
+by the commission. In addition, the petition and map shall be amended to correct  the error at the
+petitioner’s cost. Affected users shall be given notice as provided in ORS 541.329 (5).
+(4) A  civil penalty may not be imposed until the commission prescribes a reasonable time to
+eliminate the violation. The commission shall notify the violator of  the time allowed to correct a
+violation within 10 business days after the commission first becomes aware of the violation.
+(5) Notwithstanding any term or condition of a  permit, certificate or license, the rotation of the
+use of water under ORS  540.150 may not be considered a violation under subsection (1) of this sec-
+tion.
+(6) The commission may impose  a civil penalty of not more than $2,000 per occurrence for a
+violation described in subsection (1)(g) of this section.
+SECTION 6.
+ ORS 540.045 is amended to read:
+540.045. (1) Each watermaster shall:
+(a) Regulate the  distribution of water among the various users of water from any natural surface
+or ground water supply in accordance with the users’ existing water rights  of record in the Water
+Resources Department.
+(b) Upon the request of the users, distribute water among the various users  under any partner-
+ship ditch,  pipeline or well or from any reservoir, in accordance with the users’ existing water rights
+of record in the department.
+(c) Divide the waters of the natural surface and ground water sources and  other sources of
+water supply among the canals, ditches, pumps, pipelines  and reservoirs taking water from the
+source  for  beneficial use, by regulating, adjusting and fastening the headgates, valves or other con-
+trol works at the several points of diversion of surface water or the  several points of appropriation
+of ground water, according to the users’ relative entitlements to water.
+(d) Attach to  the headgate, valve or other control works the watermaster regulates under par-
+agraph (c) of this  subsection, a written notice dated and signed by the watermaster, setting forth
+that the headgate, valve or other control works has  been properly regulated and is wholly under the
+control of the watermaster.
+(e) Perform any other duties the Water Resources Director may require.
+(2) When a watermaster must rely on a well log or other documentation  to regulate the use or
+distribution of ground water, the regulation shall be in accordance with ORS 537.545 [ (4)] (5).
+(3) For purposes of regulating  the distribution or use of water, any stored water released in
+excess of the needs of water rights calling on that stored water shall be considered natural flow,
+unless the release  is part of a water exchange under the control of, and approved by, the
+watermaster.
+Enrolled House Bill 3372 (HB 3372-B) Page 4
+(4) As used in this  section, “existing water rights of record” includes all completed permits,
+certificates, licenses and ground water registration statements filed  under ORS 537.605 and related
+court decrees.
+Passed by House April 22, 2025
+Repassed by House May 29, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate May 27, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 3372 (HB 3372-B) Page 5

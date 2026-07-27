@@ -1,0 +1,618 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2024r1-hb5201
+title: 'HB 5201 (2024R1): Modifies the recipient of revenues from a previously approved lottery bond.'
+doc_type: dataset_doc
+citation: 2024 Regular Session House Bill 5201
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB5201/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 9a1600ee8874fbb91d7f09c03fdb875725c7a9c058c2a3865e71baf197ba143f
+snapshot_id: measure-2024r1-hb5201-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 200.005
+  - ORS 286A.035
+  - ORS 286A.560
+  - ORS 350.379
+  - ORS 401.552
+  - ORS 408.225
+  - ORS 461.553
+  - ORS 461.557
+  - ORS 660.010
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2024r1
+- hb
+session_key: 2024R1
+measure_prefix: HB
+measure_number: 5201
+prefix_meaning: House Bill
+catch_line: Modifies the recipient of revenues from a previously approved lottery bond.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act changes the recipient of a lottery bond. (Flesch Readability Score:\
+  \ 66.1). \n\tModifies the recipient of revenues from a previously approved lottery bond. \n\tDeclares\
+  \ an emergency, effective on passage."
+relating_to: Relating to state financial administration; declaring an emergency.
+relating_to_full: Relating to state financial administration; amending section 32, chapter 599, Oregon
+  Laws 2023; and declaring an emergency.
+at_the_request_of: null
+lc_number: 308
+measure_created_date: '2024-02-09T12:22:58'
+measure_modified_date: '2024-04-18T14:54:35'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 28585
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 200.005
+  - ORS 286A.035
+  - ORS 286A.560
+  - ORS 350.379
+  - ORS 401.552
+  - ORS 408.225
+  - ORS 461.553
+  - ORS 461.557
+  - ORS 660.010
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 5201>.
+
+# HB 5201 — 2024 Regular Session (2024R1)
+
+## At a glance
+
+- **Measure:** House Bill 5201, 2024 Regular Session (2024R1)
+- **LC number:** 308
+- **Created:** 2024-02-09T12:22:58
+- **Metadata last modified (upstream):** 2024-04-18T14:54:35
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 28585 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB5201/Enrolled>.
+
+## Summary
+
+**Catchline:** Modifies the recipient of revenues from a previously approved lottery bond.
+
+**Relating to:** Relating to state financial administration; declaring an emergency.
+
+Digest: The Act changes the recipient of a lottery bond. (Flesch Readability Score: 66.1). 
+ Modifies the recipient of revenues from a previously approved lottery bond. 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to state financial administration; amending section 32, chapter 599, Oregon Laws 2023; and declaring an emergency.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Enrolled
+House Bill 5201
+Sponsored by JOINT COMMITTEE ON WAYS AND MEANS
+CHAPTER .................................................
+AN ACT
+Relating to state financial  administration; creating new provisions; amending section 8, chapter 111,
+Oregon Laws 2022, sections 1, 2 and 11, chapter 596, Oregon Laws  2023, and sections 21, 33, 44
+and 45, chapter 599,  Oregon Laws 2023; repealing sections 24 and 32, chapter 599, Oregon Laws
+2023; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  Section 1, chapter 596, Oregon Laws 2023, is amended to read:
+Sec. 1.  The amounts authorized,  as provided by ORS 286A.035, for issuance of general obligation
+bonds of the state during the 2023-2025 biennium are as follows:
+GENERAL OBLIGATION BONDS
+General Fund Obligations
+(1) Higher Education Coordinating
+Commission (Art. XI-G):
+(a) Chemeketa Community
+College, Building 7 Remodel ........ $ 8,110,000
+(b) Klamath Community College,
+Childcare Resource Learning
+Center ...............................................$ 1,535,000
+(c) Rogue Community College,
+Transportation Technology
+[Center...............................................$ 7,105,000]
+Centers ................................... $ 7,105,000
+(d) Central Oregon Community
+College, Renovation and
+Expansion of CTE Facilities
+at Redmond Campus ...................... $ 4,050,000
+(e) Clatsop Community College,
+Maritime Science Building ........... $ 8,010,000
+(f) Oregon Coast Community
+College, Center for Trades
+Education .........................................$ 8,110,000
+(g) Columbia Gorge Community
+College, Campus Renovations
+for Student Safety and
+Enrolled House Bill 5201 (HB 5201-A) Page 1
+Success ............................................$ 5,595,000
+(h) Lane Community College,
+Science, Mathematics and
+Engineering Building
+Renovation .......................................$ 8,110,000
+(i) Portland Community College,
+Rock Creek Campus Building
+Complex - Phase I .......................... $ 8,110,000
+(j) Southwestern Oregon
+Community College,
+Student Uplift and
+Collaboration Create Expanded
+Support and Success ...................... $ 8,110,000
+(k) Umpqua Community College,
+Welcome Center and Medical
+Careers Training Hub ................... $ 8,110,000
+(L) University of Oregon,
+Friendly Hall Renovation ............. $ 7,650,000
+(m) Oregon State University,
+Collaborative Innovation
+Complex ............................................$ 72,680,000
+(n) Portland State University,
+Vernier Science Center and
+Gateway Art and Design
+Project Completions ....................... $ 4,330,000
+(2) Department of Environmental
+Quality (Art. XI-H) ......................... $ 10,333,333
+(3) Oregon Business Development
+Department (Art. XI-M) ................ $ 100,885,000
+(4) Oregon Business Development
+Department (Art. XI-N) ................. $ 50,570,000
+(5) Department of Education
+(Art. XI-P) ........................................$ 100,885,000
+(6) Oregon Department of
+Administrative
+Services (Art. XI-Q):
+(a) Oregon Military Department:
+(A) Salem Owen Summers Building
+Service Life Extension .................. $ 2,955,000
+(B) Salem Owen Summers Building
+Seismic Strengthening and
+Life Safety Improvements ............. $ 5,595,000
+(b) Department of State Police:
+(A) Central Point Office
+Expansion .........................................$ 26,845,000
+(B) Springfield Forensic Lab and
+Medical Examiner’s Office ........... $ 21,545,000
+(C) Springfield Patrol Area
+Command Office .............................. $ 7,385,000
+(c) Department of Corrections:
+(A) Camera System ............................... $ 8,615,000
+(B) Capital Improvement and
+Enrolled House Bill 5201 (HB 5201-A) Page 2
+Renewal ............................................$ 50,570,000
+(C) Wireless Communication
+System...............................................$ 13,070,000
+(d) Oregon Youth Authority:
+(A) Camp Riverbend Dorm
+[Renovation ......................................$ 5,455,000]
+Renovation.............................. $ 9,005,000
+(B) Capital Improvements -
+All Facilities ....................................$ 11,795,000
+(C) Control Room Renovations .......... $ 330,000
+(D) JJIS IT System
+Modernization ................................. $ 7,850,000
+(E) MacLaren West Cottages
+Renovations .....................................$ 11,425,000
+(F) Rogue Valley Facility
+Improvements .................................. $ 1,509,910
+[(G) Tillamook Dorm Renovation ......... $ 8,420,000]
+(G) Tillamook Dorm Renovation ... $ 12,070,000
+(H) Tillamook Medical and
+Dental Renovations................. $ 830,000
+(I) Oak Creek Youth
+Correctional Facility............... $ 4,050,000
+(e) Department of Education,
+Oregon School for the Deaf
+Capital Improvements ................... $ 3,550,000
+(f) State Forestry Department:
+(A) Capital Improvements ................... $ 2,461,687
+(B) Toledo Facility Replacement,
+Phase II ............................................$ 1,134,135
+[(C) Multi-Mission Aircraft ................... $ 7,444,980]
+(C) Multi-Mission Aircraft ............ $ 4,720,020
+[(D) Salem Airport Hangar ................... $ 1,248,480]
+(D) Salem Airport Hangar ............ $ 791,520
+(g) State Department of Fish
+and Wildlife, Capital
+Improvement and Renewal ........... $ 2,540,000
+(h) Housing and Community
+Services Department, Local
+Innovation and Fast Track
+(LIFT)/Permanent Supportive
+Housing Programs .......................... $ 604,280,000
+(i) Higher Education
+Coordinating Commission:
+(A) Public Universities Capital
+Improvement and Renewal ........... $ 100,885,000
+(B) FAMIS System Replacement,
+Phase II ............................................$ 5,095,000
+(C) University of Oregon,
+Friendly Hall Renovation ............. $ 65,840,000
+(D) Portland State University,
+Vernier Science Center and
+Gateway Art and Design
+Enrolled House Bill 5201 (HB 5201-A) Page 3
+Project Completions ....................... $ 53,175,000
+(E) Oregon Institute of
+Technology, Geothermal
+System Emergency
+Renovation .......................................$ 18,160,000
+(F) Southern Oregon University,
+Central Hall Capital
+Improvements (Phase II) ........ $ 6,100,000
+(j) Oregon Health Authority:
+(A) Junction City Single
+Unit Remodel .................................. $ 5,095,000
+(B) PLC System Replacement ............. $ 3,045,000
+(k) Department of Revenue,
+Electronic Valuation
+Information System ........................ $ 14,265,000
+(L) Legislative Administration
+Committee, Capitol
+Accessibility, Maintenance
+and Safety Phase III ...................... $ 216,920,000
+(m) Judicial Department:
+[(A) Benton County Courthouse ........... $ 8,950,000]
+(A) Benton County Courthouse .... $ 15,925,000
+(B) Clackamas County
+[Courthouse ......................................$ 30,365,000]
+Courthouse ............................. $ 45,535,000
+(C) Morrow County Courthouse ........ $ 12,745,000
+(D) Curry County Courthouse ............ $ 10,760,000
+(n) Oregon Department of
+Emergency Management,
+Resiliency Grant Fund
+established under
+ORS 401.552............................. $ 5,095,000
+(7) Department of
+Transportation (Art. XI,
+section 7), Interstate 5
+Bridge Replacement Project ........ $ 251,825,000
+Dedicated Fund Obligations
+(8) Department of Veterans’
+Affairs (Art. XI-A) .......................... $ 109,023,670
+(9) Higher Education Coordinating
+Commission (Art. XI-F(1)):
+(a) Portland State University,
+Smith Memorial Union .................. $ 8,315,000
+(b) Portland State University,
+Vernier Science Center and
+Gateway Art and Design
+[Project Completions ....................... $ 16,190,000]
+Project Completions................ $ 18,205,000
+(10) Department of Environmental
+Quality (Art. XI-H) ......................... $ 20,000,000
+(11) Housing and Community
+Services Department
+Enrolled House Bill 5201 (HB 5201-A) Page 4
+(Art. XI-I(2)).....................................$ 50,000,000
+(12) Oregon Department of
+Administrative Services
+(Art. XI-Q):
+(a) Yellow Parking Lot Paving ......... $ 4,050,000
+(b) State Forestry Department:
+(A) Capital Improvements ................... $ 2,418,313
+(B) Toledo Facility Replacement,
+Phase II ............................................$ 1,575,865
+[(C) Multi-Mission Aircraft ................... $ 4,720,020]
+(C) Multi-Mission Aircraft ............ $ 7,444,980
+[(D) Salem Airport Hangar ................... $ 791,520]
+(D) Salem Airport Hangar ............ $ 1,248,480
+(c) Department of Justice,
+Legal Tools Replacement
+System 3.0 ........................................$ 21,520,000
+(d) Oregon Liquor and Cannabis
+Commission:
+(A) Liquor Warehouse Conveyor
+[System..............................................$ 15,185,000]
+System .................................... $ 24,305,000
+(B) Liquor Warehouse Land
+[and Building .................................. $ 55,515,000]
+and Building............................ $ 46,395,000
+(C) Liquor Warehouse
+Management IT System ................ $ 16,695,000
+Total General Obligation
+[Bonds ...............................................$2,351,436,913]
+Bonds...................................... $2,398,871,913
+SECTION 2.  Section 2, chapter 596, Oregon Laws 2023, is amended to read:
+Sec. 2.  The amounts  authorized, as provided by ORS 286A.035, for issuance of revenue bonds
+of the state during the 2023-2025 biennium are as follows:
+REVENUE BONDS
+Direct Revenue Bonds
+Housing and Community
+Services Department ................... $ 500,000,000
+Department of Transportation,
+Highway User Tax ....................... $ 360,000,000
+Department of Transportation,
+Grant Anticipation Revenue
+Vehicle ............................................$ 300,000,000
+Oregon Business Development
+Department .................................... $ 30,000,000
+Oregon Department of
+Administrative Services,
+[Lottery Revenue Bonds .............. $ 501,100,000]
+Lottery Revenue Bonds ........ $ 528,330,000
+Total Direct Revenue
+[Bonds .............................................$ 1,691,100,000]
+Enrolled House Bill 5201 (HB 5201-A) Page 5
+Bonds ....................................  $ 1,718,330,000
+Pass-Through Revenue Bonds
+Oregon Business Development
+Department, Industrial
+Development Bonds ..................... $ 600,000,000
+Oregon Business Development
+Department, Beginning and
+Expanding Farmer Loan
+Program ..........................................$ 2,000,000
+Oregon Facilities Authority ...... $ 1,000,000,000
+Housing and Community
+Services Department ................... $ 1,300,000,000
+Total Pass-Through Revenue
+Bonds ..............................................$ 2,902,000,000
+[Total Revenue Bonds ............................ $ 4,593,100,000]
+Total Revenue Bonds .................... $ 4,620,330,000
+SECTION 3.  Section 8, chapter 111, Oregon Laws 2022, is amended to read:
+Sec. 8.  (1) For the biennium ending June  30, 2023, at the request of the Oregon Department of
+Administrative Services, after the  department consults with the McKenzie River Discovery Center,
+the State Treasurer is authorized to issue lottery bonds pursuant to ORS  286A.560 to 286A.585 in
+an amount that  produces $3 million in net proceeds for the purposes described in subsection (2) of
+this section, plus an additional amount estimated  by the State Treasurer to be necessary to pay
+bond-related costs.
+(2) Net proceeds of lottery bonds issued under this section must be transferred to the  depart-
+ment for deposit in the ODAS Economic Development Distributions  Fund established under ORS
+461.553 for distribution to the McKenzie River  Discovery Center to [ construct a central exhibition
+structure] restore, renovate, remodel or rebuild several historic buildings to create exhibition
+space and undertake site improvements at the site of the Historic Old Leaburg Fish Hatchery.
+(3) The Legislative Assembly finds that the use of lottery bond  proceeds will create jobs, further
+economic development, finance public education or  restore and protect parks, beaches, watersheds
+and native fish and wildlife, and is authorized based on the  finding that the [ central exhibition
+structure] new exhibition space  and site improvements  will enhance the economic viability of the
+region through increased tourism, job creation and improved quality of life for the community.
+SECTION 4.  Section 33, chapter 599, Oregon Laws 2023, is amended to read:
+Sec. 33.  (1) For the biennium beginning July  1, 2023, at the request of the Oregon Department
+of Administrative Services, after the department consults with the Department of  Transportation,
+the State Treasurer is authorized  to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in
+an amount that produces $20 million in net proceeds for the purposes described in subsection  (2) of
+this section, plus an additional amount estimated  by the State Treasurer to be necessary to pay
+bond-related costs.
+(2) Net proceeds of lottery bonds issued  under this section must be transferred to the Depart-
+ment of Transportation for deposit in the DOT Economic  Development Distributions Fund estab-
+lished under ORS 461.557, for distribution to the [ Port of Hood River ] Hood River-White Salmon
+Bridge Authority  to support the Hood River-White Salmon Interstate Bridge replacement project.
+(3) The Legislative Assembly finds that the use of lottery bond  proceeds will create jobs, further
+economic development, finance public education or  restore and protect parks, beaches, watersheds
+and native fish  and wildlife, and is authorized based on the finding that a safe, efficient and reliable
+transportation infrastructure supports the long-term economic development and livability  of this
+state.
+SECTION 5.  Section 44, chapter 599, Oregon Laws 2023, is amended to read:
+Sec. 44.  (1) For the biennium beginning July 1, 2023,  at the request of the Oregon Department
+of Administrative Services, after the department consults with the  Oregon Business Development
+Enrolled House Bill 5201 (HB 5201-A) Page 6
+Department, the State  Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to
+286A.585 in an amount that produces $20 million in net proceeds for the purposes described in sub-
+section (2) of this section, plus an additional amount estimated by  the State Treasurer to be neces-
+sary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under this section must be  transferred to the Oregon
+Business Development Department for deposit  in the Coos Bay Channel Fund established by section
+15, chapter 746, Oregon Laws  2007, for distribution to the Oregon International Port of Coos Bay
+to deepen  and widen the Coos Bay Federal Navigation Channel  and for the design, engineering,
+permitting and land acquisition efforts related to the Pacific Coast Intermodal Port project .
+(3) The Legislative Assembly finds that the use of lottery bond  proceeds will create jobs, further
+economic development, finance public education or restore  and protect parks, beaches, watersheds
+and native fish and wildlife, and  is authorized based on the finding that port facilities and related
+infrastructure are an integral part of the  commercial and industrial infrastructure of this state, and
+promote economic development.
+SECTION 6.
+ Section 45, chapter 599, Oregon Laws 2023, is amended to read:
+Sec. 45.  (1) For the biennium beginning July  1, 2025, at the request of the Oregon Department
+of Administrative Services, after  the department consults with the Oregon Business Development
+Department, the State Treasurer is authorized to issue lottery bonds pursuant to ORS  286A.560 to
+286A.585 in an amount that produces $20 million in net proceeds for the purposes described in sub-
+section (2) of this section, plus an  additional amount estimated by the State Treasurer to be neces-
+sary to pay bond-related costs.
+(2) Net proceeds of lottery  bonds issued under this section must be transferred to the Oregon
+Business Development Department for deposit  in the Coos Bay Channel Fund established by section
+15, chapter 746, Oregon Laws 2007, for distribution to the Oregon International  Port of Coos Bay
+to deepen and widen the Coos Bay Federal Navigation Channel  and for the design,  engineering,
+permitting and land acquisition efforts related to the Pacific Coast Intermodal Port project .
+(3) The Legislative Assembly finds that the use of lottery bond  proceeds will create jobs, further
+economic development, finance public education or  restore and protect parks, beaches, watersheds
+and native fish and wildlife, and is authorized based on the finding  that port facilities and related
+infrastructure are an integral part of the  commercial and industrial infrastructure of this state, and
+promote economic development.
+SECTION 7.
+ Section 21, chapter 599, Oregon Laws 2023, is amended to read:
+Sec. 21.  (1) For the biennium beginning July 1, 2023,  at the request of the Oregon Department
+of Administrative Services, after the department consults with the  Oregon Business Development
+Department, the State  Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to
+286A.585 in an amount that produces [ $5 million ] $9 million  in  net proceeds for the purposes de-
+scribed in subsection (2)  of this section, plus an additional amount estimated by the State Treasurer
+to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under this section must be  transferred to the Oregon
+Business Development Department for deposit in the OBDD  Economic Development Distributions
+Fund established  under section 28, chapter 748, Oregon Laws 2017, for distribution to the City of
+Aumsville to build a [ mechanical processing wastewater treatment plant ] wastewater treatment
+plant and increase the capacity of several segments of the gravity collection sewer system .
+(3) The Legislative Assembly finds that the use of lottery bond  proceeds will create jobs, further
+economic development, finance public education or  restore and protect parks, beaches, watersheds
+and native fish and  wildlife, and is authorized based on the finding that wastewater treatment sys-
+tems and related sewer infrastructure  are an integral part  of the commercial and industrial
+infrastructure of this  state, and improving wastewater treatment will promote economic development
+and watershed health.
+SECTION 8. Sections 24 and 32, chapter 599, Oregon Laws 2023, are repealed.
+SECTION 9. (1) For the biennium ending June 30, 2025, at the  request of the Oregon
+Department of Administrative Services,  after the department consults with Parrott Creek
+Enrolled House Bill 5201 (HB 5201-A) Page 7
+Child and Family Services,  the State Treasurer is authorized to issue lottery bonds pursuant
+to ORS 286A.560 to 286A.585 in  an amount that produces $4 million in net proceeds for the
+purposes described in subsection (2) of this section, plus an additional  amount estimated by
+the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under this section must be  transferred to the
+department for deposit in the ODAS  Economic Development Distributions Fund established
+under ORS 461.553, for distribution to Parrott Creek Child and  Family Services for con-
+struction of a youth residential treatment campus in Clackamas County.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and is authorized based on the finding  that
+individuals increase their potential for self-sufficiency, increase their economic productivity
+and use fewer public resources when they have access to treatment programs and services.
+SECTION 10.
+(1) For the biennium ending June 30, 2025, at the request  of the Oregon
+Department of Administrative Services, after  the department consults with the Family
+YMCA of Marion  and Polk Counties, the State Treasurer is authorized to issue lottery bonds
+pursuant to ORS 286A.560 to 286A.585 in an amount that produces  $3 million in net proceeds
+for the purposes described in subsection (2) of  this section, plus an additional amount esti-
+mated by the State Treasurer to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under this section must be  transferred to the
+department for deposit in the ODAS  Economic Development Distributions Fund established
+under ORS 461.553, for distribution to the Family YMCA of Marion and Polk Counties to de-
+velop a centralized social service and resource  center that includes affordable housing in
+downtown Salem.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and  is authorized based on the following
+findings:
+(a) Having housing  and social services for at-risk populations is essential to Oregon’s
+healthy economic growth; and
+(b) A severe shortage of affordable housing facilities and related social services exists  in
+Oregon, and market indicators demonstrate a  growing gap between the supply of and the
+demand for affordable housing.
+SECTION 11. (1) For  the biennium ending June 30, 2025, at the request of the Oregon
+Department of Administrative  Services, after the department consults with Lane County, the
+State Treasurer is authorized to issue lottery bonds pursuant  to ORS 286A.560 to 286A.585
+in an amount that produces $7.5 million in net proceeds for the purposes  described in sub-
+section (2) of this section, plus an additional amount estimated by  the State Treasurer to be
+necessary to pay bond-related costs.
+(2) Net proceeds of  lottery bonds issued under this section must be transferred to the
+department for deposit in the ODAS  Economic Development Distributions Fund established
+under ORS 461.553, for distribution to Lane County  for construction of the Fairgrounds
+Multi-Use Facility.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and is authorized based on the finding  that
+constructing the multi-use facility will enhance the economic viability of the region through
+increased tourism, job creation and improved quality of life for the community.
+(4) Issuance of bonds and  distribution of net proceeds to Lane County is contingent upon
+all other financing for the project being secured.
+SECTION 12.
+(1) For the biennium ending June 30, 2025, at the request  of the Oregon
+Department of Administrative Services, after the department consults with  the City of
+Enrolled House Bill 5201 (HB 5201-A) Page 8
+Hillsboro, the State Treasurer is authorized  to issue lottery bonds pursuant to ORS 286A.560
+to 286A.585 in an amount that produces $15 million in net proceeds for the purposes described
+in subsection (2) of this section,  plus an additional amount estimated by the State Treasurer
+to be necessary to pay bond-related costs.
+(2) Net proceeds of lottery bonds issued under this section must be  transferred to the
+department for deposit in the ODAS  Economic Development Distributions Fund established
+under ORS 461.553, for distribution to  the City of Hillsboro for construction of the Hillsboro
+Hops Ballpark.
+(3) The Legislative Assembly finds that the use of lottery bond proceeds will  create jobs,
+further economic development, finance public education  or restore and protect parks,
+beaches, watersheds and native fish and wildlife, and is authorized based on the finding  that
+constructing the ballpark will enhance the  economic viability of the region through increased
+tourism, job creation and improved quality of life for the community.
+(4) Issuance of bonds and distribution of net proceeds to the City of Hillsboro  is contin-
+gent upon all other financing for the project being secured.
+SECTION 13.
+ Section 11, chapter 596, Oregon Laws 2023, is amended to read:
+Sec. 11.  (1) A public university that is carrying out a qualified project shall require each con-
+tractor in a contract with an estimated cost of $200,000 or greater to:
+(a) Employ apprentices to perform 15 percent of the work hours that workers  in apprenticeable
+occupations perform under the contract, in a manner consistent with the  apprentices’ respective
+apprenticeship training programs;
+(b) Establish and execute a plan for  outreach, recruitment and retention of women, minority
+individuals and veterans to perform work under the contract,  with the aspirational target of having
+at least 15 percent of total work hours performed by individuals in one or more of those groups;
+(c) Provide health insurance and retirement benefits to workers; and
+(d) Require any subcontractor engaged by the contractor  to abide by the requirements set forth
+in paragraphs (a), (b) and (c) of this subsection, if the  work to be performed under the subcontract
+has an estimated cost of $200,000 or greater.
+(2) On or before February 1  of each year, each public university that is carrying out a qualified
+project shall report to  the Joint Committee on Ways and Means or Joint Interim Committee on
+Ways and Means, as part of the report required under ORS 350.379, on:
+(a) The amount of work performed on qualified projects by apprentices;
+(b) The amount  of work performed on qualified projects by women, minority individuals and
+veterans; and
+(c) The types and costs of health insurance  and retirement benefits provided to workers by
+contractors and subcontractors.
+(3) The requirements of this section are in addition  to, and not in lieu of, the requirements im-
+posed under ORS 350.379.
+(4) As used in this section:
+(a) “Apprentice” has the meaning given that term in ORS 660.010.
+(b) “Apprenticeable occupation” has the meaning given that term in ORS 660.010.
+(c) “Apprenticeship  training program” means the total system of apprenticeship that a particular
+local joint committee, as defined in ORS 660.010,  operates, including the local joint committee’s
+registered standards and all other terms and conditions for qualifying,  recruiting, selecting, em-
+ploying and training apprentices in an apprenticeable occupation.
+(d) “Minority individual” has the meaning given that term in ORS 200.005.
+(e) “Qualified project” means the following capital construction projects:
+(A) The University of Oregon Friendly Hall renovation referenced in section 1 (1)(L) [ of this 2023
+Act], chapter 596, Oregon Laws 2023 ;
+(B) The Oregon State University Collaborative Innovation Complex referenced  in section 1
+(1)(m) [of this 2023 Act ], chapter 596, Oregon Laws 2023 ;
+Enrolled House Bill 5201 (HB 5201-A) Page 9
+(C) The Portland State University Vernier Science Center and Gateway Art and  Design project
+completions  referenced  in section 1 (1)(n) [ of this 2023 Act ], chapter 596, Oregon Laws 2023 ;
+[and]
+(D) The  Oregon Institute of Technology geothermal system emergency renovation referenced in
+section 1 (6)(i)(E) [ of this 2023 Act. ], chapter 596, Oregon Laws 2023; and
+(E) The Southern Oregon University Central Hall Capital  Improvements (Phase II) ref-
+erenced in section 1 (6)(i)(F),  chapter 596, Oregon Laws 2023, as amended by section 1 of this
+2024 Act.
+(f) “Veteran” has the meaning given that term in ORS 408.225.
+(g) “Woman” has the meaning given that term in ORS 200.005.
+SECTION 14.
+This 2024 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2024 Act takes effect
+on its passage.
+Passed by House March 7, 2024
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Dan Rayfield, Speaker of House
+Passed by Senate March 7, 2024
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2024
+Approved:
+........................M.,........................................................., 2024
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2024
+..................................................................................
+LaVonne Griffin-Valade, Secretary of State
+Enrolled House Bill 5201 (HB 5201-A) Page 10
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 200.005, ORS 286A.035, ORS 286A.560, ORS 350.379, ORS 401.552, ORS 408.225, ORS 461.553, ORS 461.557, ORS 660.010
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `9a1600ee8874fbb91d7f09c03fdb875725c7a9c058c2a3865e71baf197ba143f` (snapshot `_meta/snapshots/measure-2024r1-hb5201-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB5201/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `5d73931effb046404003ad6704b7acddf25eeb4e0b844e866cba6ab205a9a9f2` (snapshot `_meta/snapshots/measure-2024r1-hb5201-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB5201/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2024R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 5201> (part of the batched per-session fetch), sha256 `1183bfeb8d41d57221d38a5a407738949976c2ace30f86900a3204ea31696ad5` of the shared session snapshot `_meta/snapshots/measures-2024r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

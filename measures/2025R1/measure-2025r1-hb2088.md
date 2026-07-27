@@ -1,0 +1,574 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2088
+title: 'HB 2088 (2025R1): Provides for a process by which former owners of real property deeded to the
+  county for delinquent property taxes may claim the surplus value after the property has been disposed
+  of by the county.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2088
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2088/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 57ed8e5c258a1faac814f4ba10b0abe42dd2131666b1172388d07247ad14bdbb
+snapshot_id: measure-2025r1-hb2088-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 105.555
+  - ORS 195.332
+  - ORS 205.130
+  - ORS 205.246
+  - ORS 251.167
+  - ORS 275.088
+  - ORS 275.130
+  - ORS 275.275
+  - ORS 311.555
+  - ORS 311.560
+  - ORS 312.040
+  - ORS 312.050
+  - ORS 312.090
+  - ORS 312.100
+  - ORS 312.120
+  - ORS 312.125
+  - ORS 312.270
+  - ORS 312.990
+  - ORS 34.010
+  - ORS 87.372
+  - ORS 93.260
+  - ORS 98.302
+  - ORS 98.352
+  - ORS 98.392
+  - ORS 98.396
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2088
+prefix_meaning: House Bill
+catch_line: Provides for a process by which former owners of real property deeded to the county for delinquent
+  property taxes may claim the surplus value after the property has been disposed of by the county.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would set up a means for the former owners of foreclosed real property\
+  \ to get the surplus after the property is sold by the county. (Flesch Readability Score: 60.3). \n\t\
+  Provides for a process by which former owners of real property deeded to the county for delinquent property\
+  \ taxes may claim the surplus value after the property has been disposed of by the county. \n\tTakes\
+  \ effect on the 91st day following adjournment sine die."
+relating_to: Relating to surpluses from the disposition of foreclosed property; prescribing an effective
+  date.
+relating_to_full: Relating to surpluses from the disposition of foreclosed property; creating new provisions;
+  amending ORS 312.040 and 312.125; and prescribing an effective date.
+at_the_request_of: (at the request of House Interim Committee on Revenue for Representative Nancy Nathanson)
+lc_number: 2240
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-06-13T07:43:58'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 30641
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 105.555
+  - ORS 195.332
+  - ORS 205.130
+  - ORS 205.246
+  - ORS 251.167
+  - ORS 275.088
+  - ORS 275.130
+  - ORS 275.275
+  - ORS 311.555
+  - ORS 311.560
+  - ORS 312.040
+  - ORS 312.050
+  - ORS 312.090
+  - ORS 312.100
+  - ORS 312.120
+  - ORS 312.125
+  - ORS 312.270
+  - ORS 312.990
+  - ORS 34.010
+  - ORS 87.372
+  - ORS 93.260
+  - ORS 98.302
+  - ORS 98.352
+  - ORS 98.392
+  - ORS 98.396
+  from_relating_to_full:
+  - ORS 312.040
+  - ORS 312.125
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2088>.
+
+# HB 2088 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2088, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of House Interim Committee on Revenue for Representative Nancy Nathanson)
+- **LC number:** 2240
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-06-13T07:43:58
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 30641 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2088/Introduced>.
+
+## Summary
+
+**Catchline:** Provides for a process by which former owners of real property deeded to the county for delinquent property taxes may claim the surplus value after the property has been disposed of by the county.
+
+**Relating to:** Relating to surpluses from the disposition of foreclosed property; prescribing an effective date.
+
+Digest: The Act would set up a means for the former owners of foreclosed real property to get the surplus after the property is sold by the county. (Flesch Readability Score: 60.3). 
+ Provides for a process by which former owners of real property deeded to the county for delinquent property taxes may claim the surplus value after the property has been disposed of by the county. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to surpluses from the disposition of foreclosed property; creating new provisions; amending ORS 312.040 and 312.125; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2088
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Revenue for Representative Nancy Nathanson)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would set up a  means for the former owners of foreclosed real property to get
+the surplus after the property is sold by the county. (Flesch Readability Score: 60.3).
+Provides for a process by which former owners of real property deeded to the county  for delin-
+quent property taxes may claim the surplus value after the  property has been disposed of by the
+county.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to surpluses from the  disposition of foreclosed property; creating new provisions; amending
+ORS 312.040 and 312.125; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+FORECLOSURE NOTICES
+SECTION 1.
+ ORS 312.040 is amended to read:
+312.040. (1)(a) At least 60 days but not more than  120 days prior to the date of a foreclo-
+sure proceeding, notice of [ each] the  foreclosure proceeding shall be given by [ publication and  by
+both certified and regular first class mail as provided in this section ] both of the following means :
+[(a)] (A) [ Notice shall be given by ] One publication of the foreclosure list in a newspaper of
+general circulation in the county, to be designated by the governing body of the  county [ court or
+board of county commissioners ]. The price charged by the newspaper shall be  at the legal rate as
+provided by law. A copy of the newspaper notice shall be mailed by the  county to each incorporated
+city in the county.
+[(b)] (B) [ In addition, notice of the foreclosure  proceeding shall be sent by certified and regular
+first class mail to the owner  or owners ] Delivery of notice to any owners, heirs of deceased
+owners, lienholders and mortgagees , as shown in the county deed records, of each property in-
+cluded on the  foreclosure list at the address or addresses as reflected in the county records under
+ORS 93.260, 311.555 or 311.560.
+(b) Notwithstanding paragraph (a) of this subsection, if  it is deemed expedient, notice of
+the institution of a foreclosure proceeding may be given by personal service. Notice by per-
+sonal service shall be in lieu of service  by the means required under paragraph (a) of this
+subsection as  to the defendant or defendants so served, and it shall not be necessary to in-
+clude in the publication of the foreclosure list the names  of such defendants or the de-
+scriptions or other matters relating to their respective properties.
+(2) For all notices of  foreclosure proceedings, counties shall conduct due diligence to lo-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2240
+cate property owners or heirs of  deceased owners by means including, but not limited to,
+searches of land, court and other records,  online databases and other resources and notifi-
+cation of adjacent property owners.
+(3)(a) Each notice of a foreclosure proceeding shall be made in English and the five other
+most commonly spoken languages in this state listed by the Secretary of State pursuant to
+ORS 251.167.
+(b) Each notice shall include:
+(A) The exact amount of unpaid taxes owed, including interest and fees.
+(B) The following language, in capital letters, in at least 20-point type:
+WARNING: THERE ARE UNPAID  TAXES AND FEES IN THE AMOUNT OF $
+ON PROPERTY AT (ADDRESS) WHICH YOU MAY  OWN OR HAVE A LEGAL INTEREST
+IN. THE PROPERTY WILL BE DEEDED TO THE  COUNTY AND YOUR INTEREST WILL
+BE TERMINATED UNLESS THE BACK  TAXES ARE PAID. THE REDEMPTION PERIOD
+TO PAY THE BACK TAXES  AND RETAIN YOUR PROPERTY ENDS ON (DATE). TO MAKE
+PAYMENT, OR TO RECEIVE FURTHER INFORMATION ABOUT  PAYMENT, CONTACT
+(TAX COLLECTOR) IMMEDIATELY AT (ADDRESS), (TELEPHONE NUMBER).
+IF THE PROPERTY IS DEEDED TO THE COUNTY AS  A WAY OF COLLECTING THE
+BACK TAXES OWED, AND THE  PROPERTY IS WORTH MORE THAN YOU OWE, YOU
+ARE ENTITLED TO A RETURN OF  MONEY FROM THE COUNTY. IN ORDER TO RECEIVE
+A NOTICE OF  A POTENTIAL SURPLUS FROM THE COUNTY, PLEASE PROVIDE THE
+COUNTY WITH NOTICE OF A CURRENT ADDRESS, AND UPDATE THAT ADDRESS  IF
+YOU MOVE.
+THERE ARE GOVERNMENT AGENCIES AND NONPROFIT  ORGANIZATIONS THAT
+CAN GIVE YOU INFORMATION ABOUT FORECLOSURE  AND HELP YOU DECIDE WHAT
+TO DO. FOR GENERAL INFORMATION AT NO  COST TO YOU, CONTACT A CERTIFIED
+HOUSING COUNSELOR. YOU CAN FIND A HOUSING COUNSELOR NEAR  YOU AT
+HTTPS://WWW.HUD.GOV/STATES/OREGON#HOMEOWNERSHIP. YOU MAY  ALSO WANT
+TO TALK TO A LAWYER. YOU  CAN REACH THE OREGON STATE BAR’S LAWYER RE-
+FERRAL SERVICE AT 800-452-7636 (TOLL-FREE IN OREGON) OR VISIT THE WEBSITE
+AT WWW.OSBAR.ORG. FREE LEGAL ASSISTANCE MAY ALSO  BE AVAILABLE. FOR
+MORE INFORMATION  AND A DIRECTORY OF LEGAL AID PROGRAMS, GO TO
+WWW.OREGONLAWHELP.ORG.
+(C) At a minimum, the name, requirements  and application process of any existing
+property tax deferral program operated by  this state or by any county or municipal govern-
+ment within this state.
+(D) Information regarding local lawyer referral  services, legal aid programs or foreclo-
+sure avoidance programs  known by the county and operated by local state agencies, the
+Oregon State Bar or charitable nonprofit organizations that may be able to provide the
+owner with assistance in the foreclosure process.
+(c) A copy of the  notice, including the warning statement required under paragraph
+(b)(B) of this subsection, shall be posted in a conspicuous place on  the property that is the
+subject of the notice by the sheriff of the county in which the property is located.
+[(2)] (4) Each notice given under  [subsection (1) or (4) of ] this section shall identify the particular
+property or properties that is the subject of the notice.
+[(3)] (5) All persons owning or claiming to own, or having or claiming to have, any interest  in
+[any] property included in the foreclosure list are required to take notice of  [such] the foreclosure
+proceeding and of all steps [ thereunder] under the proceeding.
+[(4) If it is deemed expedient to do so,  notice of the institution of the foreclosure proceeding may
+be given by personal service. Notice by personal service shall be in lieu of  service by publication and
+certified and regular first class mail required by subsection  (1) of this section as to the defendant or
+defendants so served, and it shall not be  necessary to include in the publication of the foreclosure list
+the names of such defendants or  the descriptions or other matters relating to their respective
+properties.]
+SECTION 2.
+ ORS 312.125 is amended to read:
+312.125. (1)(a) Not less than one year prior to the expiration of  the period of redemption of any
+real property ordered sold to the county under a judgment under ORS 312.100, the tax collector shall
+provide notice of the expiration of the period of redemption to any person or entity entitled to re-
+deem the property under ORS 312.120 (2) whose interest appears in the records of  the county as of
+the date foreclosure proceedings were instituted.
+(b) Any person or entity whose interest has  terminated by any means other than a judgment
+of foreclosure under ORS 312.120 shall not be entitled to such notice.
+(c) Counties shall conduct due diligence  to locate interested property owners or heirs of
+deceased owners by means including but not limited to searches of land, court  and other
+records, online databases and other resources.
+[(2) The notice shall contain: ]
+(2)(a) Each notice of the expiration of the period of redemption shall be made  in English
+and the five other most commonly spoken languages in this  state listed by the Secretary of
+State pursuant to ORS 251.167.
+(b) Each notice shall include:
+(A) The exact amount of unpaid taxes owed, including interest and fees.
+(B) The following language, in capital letters, in at least 20-point type:
+WARNING: THERE ARE UNPAID  TAXES AND FEES IN THE AMOUNT OF $
+ON PROPERTY AT (ADDRESS) WHICH YOU MAY  OWN OR HAVE A LEGAL INTEREST
+IN. THE PROPERTY WILL BE DEEDED TO THE  COUNTY AND YOUR INTEREST WILL
+BE TERMINATED UNLESS THE BACK  TAXES ARE PAID. THE REDEMPTION PERIOD
+TO PAY THE BACK TAXES  AND RETAIN YOUR PROPERTY ENDS ON (DATE). TO MAKE
+PAYMENT, OR TO RECEIVE FURTHER INFORMATION ABOUT  PAYMENT, CONTACT
+(TAX COLLECTOR) IMMEDIATELY AT (ADDRESS), (TELEPHONE NUMBER).
+IF THE PROPERTY IS DEEDED TO THE COUNTY AS  A WAY OF COLLECTING THE
+BACK TAXES OWED, AND THE  PROPERTY IS WORTH MORE THAN YOU OWE, YOU
+ARE ENTITLED TO A RETURN OF  MONEY FROM THE COUNTY. IN ORDER TO RECEIVE
+A NOTICE OF  A POTENTIAL SURPLUS FROM THE COUNTY, PLEASE PROVIDE THE
+COUNTY WITH NOTICE OF A CURRENT ADDRESS, AND UPDATE THAT ADDRESS  IF
+YOU MOVE.
+THERE ARE GOVERNMENT AGENCIES AND NONPROFIT  ORGANIZATIONS THAT
+CAN GIVE YOU INFORMATION ABOUT FORECLOSURE  AND HELP YOU DECIDE WHAT
+TO DO. FOR GENERAL INFORMATION AT NO  COST TO YOU, CONTACT A CERTIFIED
+HOUSING COUNSELOR. YOU CAN FIND A HOUSING COUNSELOR NEAR  YOU AT
+HTTPS://WWW.HUD.GOV/STATES/OREGON#HOMEOWNERSHIP. YOU MAY  ALSO WANT
+TO TALK TO A LAWYER. YOU  CAN REACH THE OREGON STATE BAR’S LAWYER RE-
+FERRAL SERVICE AT 800-452-7636 (TOLL-FREE IN OREGON) OR VISIT THE WEBSITE
+AT WWW.OSBAR.ORG. FREE LEGAL ASSISTANCE MAY ALSO  BE AVAILABLE. FOR
+MORE INFORMATION  AND A DIRECTORY OF LEGAL AID PROGRAMS, GO TO
+WWW.OREGONLAWHELP.ORG.
+[(a)] (C) The date of the judgment;
+[(b)] (D) The date of expiration of the period of redemption;
+[(c)] (E) A warning to the effect that the  property ordered sold under the judgment, unless
+sooner redeemed, will be deeded  to the county immediately on expiration of the period of redemption
+[and that every right or interest of any person in the property will be forfeited forever to the county ];
+[(d)] (F) A legal description of the property and a tax account number; [ and]
+[(e)] (G) The name of the owner as it appears on the latest tax roll[ .];
+(H) Information regarding  an owner’s right to claim a surplus, if any, under sections 3
+to 9 of this 2025 Act;
+(I) Information regarding local lawyer  referral services, legal aid programs or foreclosure
+avoidance programs known by the county and operated by local  state agencies, the Oregon
+State Bar or charitable nonprofit organizations that may be able to provide the owner with
+assistance in the foreclosure process; and
+(J) Information regarding any relief programs including but not  limited to exemptions,
+grants or payment plans that are available to the owner.
+(3)(a) The notice required [ to be given under subsections (1)  and (2) of ] under this section shall
+be given by both certified mail and by regular first class  mail and subsections (4) and (5) of this
+section shall apply to both mailings.
+(b) A copy of the notice shall be posted to the county’s public website.
+(4)(a) If the notice required under [ subsections (1) and (2) of ] this section is to be given to an
+owner, the notice shall be addressed to the owner or owners, as reflected  in the county records of
+deeds, at the  true and correct address of the owner as appearing on the instrument of conveyance
+under ORS 93.260 or as furnished under ORS 311.555 or as otherwise ascertained by the tax collec-
+tor pursuant to ORS 311.560.
+(b) If the person or entity to whom the notice  is required under subsection (1) of this section to
+be given is a lienholder, or person or entity other  than the owner, having or appearing to have a
+lien or other interest in the property, the notice shall be addressed to the lienholder, person  or en-
+tity at the address that the tax collector knows or after reasonable inquiry has reason to  believe
+to be the address at which the lienholder, person or entity will most likely receive actual  notice.
+For the convenience of the county, any lien, instrument or other  document, memorandum or writing,
+filed on or  after September 27, 1987, that creates an interest with respect to which notice is required
+to be given under this paragraph, shall contain:
+(A) The address of the person or entity holding lien  or other interest created by the instrument
+or other document, memorandum or writing; and
+(B) The tax account number, if any, and if known,  of the property subject to the lien or in which
+the interest is created.
+(5) Failure of a lien, instrument or other document,  memorandum or other writing to contain the
+address and tax account number information required under subsection (4)(b) of  this section does
+not invalidate the lien, instrument or other  document, memorandum or writing, nor shall the failure
+of the writing to contain the information relieve the tax collector of the duty to obtain and mail  the
+notice required under subsection (4)(b) of this section to the address that the  tax collector believes
+to be the address at which the lienholder, person or entity is most likely to receive actual notice.
+(6) For purposes of subsection (4)(b)  of this section, if the lienholder is a corporation or a limited
+partnership, the tax collector shall be considered to  have made reasonable inquiry if the notice is
+mailed to the registered  agent or last registered office of the corporation or limited partnership, if
+any, as shown by the records on file in the office of the Corporation Commissioner,  or if the cor-
+poration or limited partnership is not authorized to transact business  in this state, to the principal
+office or place of business of the corporation or limited partnership.
+(7)(a) As used in this section, “records of the county” means the following:
+(A) The grantor-grantee indexes.
+(B) Other records of deeds, mortgages, powers  of attorney, contracts and other instruments,
+documents or memorandum  of conveyance or otherwise of real property that are described in ORS
+205.130 (1) and (2).
+(C) The County Clerk Lien Record described in ORS 205.130 (3).
+(D) Records of federal tax liens and other liens,  instruments or other documents or writings
+reflecting an interest in real property described in ORS 205.246, if those records are kept  separately
+from the records described in paragraph (b) of this subsection.
+(E) Records of statutory liens on real property described in ORS 87.372.
+(F) Any other records of interests in real property  required to be kept by the county clerk, if
+the records contain a legal description  of the property and an address specifically designated as
+indicated on the instrument, document or other memorandum or writing for  purposes of mailing the
+notice required by this section.
+(b) For purposes of this section [ only], “records of the county” includes:
+(A) The appropriate records of the courts described in ORS 7.010 in the custody of the clerk of
+the appropriate court or court administrator under ORS 7.110; and
+(B) Probate records in the custody of the clerk  of the appropriate court or court administrator
+under ORS 7.230 and 7.240. Notwithstanding any provision to the contrary in ORS chapter 7 or other
+law, the clerk  of the appropriate court or the court administrator shall make available to and assist
+the tax collector in  the examination of the records described in this paragraph for purposes of car-
+rying out the obligations of the tax collector under this section without charge.
+SECTION 3.
+Notice of surplus.  (1) Within 60 days after the date on  which a claim for a
+surplus could arise under section 7 of this 2025 Act, the county  shall deliver notice of a
+surplus to:
+(a) The claimant at the claimant’s last known address;
+(b) The Estates Administration Program of the State Treasury;
+(c) The Department of Revenue;
+(d) The Department of Justice; and
+(e) The municipality, if any, in which the  property to which the surplus relates is located.
+(2) Each notice  shall be made in English and the five other most commonly spoken lan-
+guages in this state listed by the Secretary of State pursuant to ORS 251.167.
+(3) Each notice shall include:
+(a) At  the top of the notice in capital letters, in at least 20-point type, the following lan-
+guage:
+NOTICE: YOU ARE ENTITLED TO A REFUND OF MONEY HELD BY THE  COUNTY.
+TO RECEIVE MORE INFORMATION AND ASSISTANCE, CONTACT THE OREGON  STATE
+TREASURY AT (ADDRESS) (PHONE NUMBER). THERE  ARE GOVERNMENT AGENCIES
+AND NONPROFIT ORGANIZATIONS THAT CAN  GIVE YOU INFORMATION ABOUT
+FORECLOSURE AND HELP YOU DECIDE WHAT TO DO.  FOR GENERAL INFORMATION
+AT NO COST TO  YOU, CONTACT A CERTIFIED HOUSING COUNSELOR. YOU CAN FIND
+A HOUSING COUNSELOR NEAR YOU AT
+HTTPS://WWW.HUD.GOV/STATES/OREGON#HOMEOWNERSHIP. YOU MAY  ALSO WANT
+TO TALK TO A LAWYER. YOU  CAN REACH THE OREGON STATE BAR’S LAWYER RE-
+FERRAL SERVICE AT 800-452-7636 (TOLL-FREE IN OREGON) OR VISIT THE WEBSITE
+AT WWW.OSBAR.ORG. FREE LEGAL ASSISTANCE MAY ALSO  BE AVAILABLE. FOR
+MORE INFORMATION  AND A DIRECTORY OF LEGAL AID PROGRAMS, GO TO
+WWW.OREGONLAWHELP.ORG.
+(b) The following information in clear and understandable terms:
+(A) The amount of the surplus that the county has determined is owed to the claimant;
+(B) An explanation of who may be a claimant;
+(C) An explanation of the process  by which a claimant may file a claim under section 8
+of this 2025 Act; and
+(D) The claimant’s right to seek a  writ of review of the surplus from the county circuit
+court under ORS 34.010 to 34.100 and the deadline for filing for the writ.
+(4) Publication of an available surplus,  a description of the property to which the surplus
+relates, the names of the claimants and information about the process by which  a claimant
+may file a claim under section 8 of this 2025 Act shall be made available on the websites of
+the state and the county in which the property is located.
+SECTION 4.
+Additional notices. A county  shall provide notice to the Department of Re-
+venue, the Department of  Justice and the municipality, if any, in which the property is lo-
+cated:
+(1) That proceedings to foreclose liens  for delinquent taxes on the property have been
+instituted under ORS 312.050, to be provided on the date on which the proceedings are  insti-
+tuted; and
+(2) That one year remains before the period of redemption for the property  expires under
+ORS 312.120, to be provided not  less than one year prior to the expiration of the period of
+redemption.
+DEFINITIONS
+SECTION 5.
+Definitions. As used in sections 3 to 9 of this 2025 Act:
+(1)(a) “Claimant” means:
+(A) The owner of real property at the time the property was sold  to the county on fore-
+closure for delinquent taxes under ORS 312.100; or
+(B) The former owner’s estate, heirs, devisees, power of attorney,  trustee, guardian,
+custodian or bankruptcy estate or a successor in interest that has acquired  substantially all
+of the former owner’s  assets by intestate succession, probate, merger, acquisition, dissol-
+ution or takeover.
+(b) “Claimant” does not include:
+(A) The creditors or garnishor of a claimant;
+(B) Other persons holding an interest in the property that was sold to the county; or
+(C) Voluntary or involuntary assignees of a claimant’s interest in a surplus.
+(2) “Fair market value” has the meaning given that term in ORS 195.332.
+(3) “Former owner” means an owner described in subsection (1)(a)(A) of this section.
+(4) “Surplus” means an amount equal to the value of real property  sold to a county on
+foreclosure under this chapter and disposed of  by the county in accordance with section 6
+of this 2025 Act less  the allowable costs to the county as determined under section 7 of this
+2025 Act.
+DISPOSITION OF FORECLOSED PROPERTY
+SECTION 6.
+Sale, retention or transfer of foreclosed  property; deposit of sale proceeds.
+(1) Except as provided in subsection (4) of this section,  after the expiration of the statutory
+redemption period under ORS 312.120 or 312.122, the county shall sell the property by listing
+the property for sale, with a real estate broker or agent who does not hold  an elected or
+appointed office and is not employed by any government entity, at the highest price at which
+the property is reasonably expected to sell.
+(2)(a) If, after three attempts, a county is unable to enter into an agreement  with a real
+estate broker or agent for  the sale of the property or the real estate broker or agent is un-
+able to sell the property within 12 months after listing the property  for sale, the county shall
+conduct a public, high-bid auction for sale of the property.
+(b) The property shall be sold to the highest bidder at auction, provided the bid exceeds
+the outstanding taxes and allowable costs owing on the property.
+(c) The auction shall include the following:
+(A) An online bidding  process in which bids are received electronically over the Internet
+in real time.
+(B) Advertisements in a multiple listing service for at least 30 days prior to the date  of
+the auction.
+(C) If a private party is engaged to operate and advertise the auction,  a limited fee to the
+private party in an amount equal to three percent of the surplus related to the property.
+(D) A minimum starting bid of  two-thirds of the property’s fair market value, which shall
+be the higher  of a current appraisal or current assessment conducted within 60 days after
+the expiration of  the redemption period. The appraisal shall be conducted by a licensed ap-
+praiser that is unaffiliated with the county.
+(3) Upon sale of real property foreclosed under this  chapter, the county treasurer shall
+deposit the gross amount of the sales  proceeds in a separate, interest-bearing account until
+the amount  of the surplus has been determined. Interest earned on the proceeds in the ac-
+count shall be included in the amount to be distributed.
+(4)(a) After the expiration of  the statutory redemption period, the county may retain the
+property for public purposes or transfer title to the property to a nonprofit organization  for
+purposes of public benefit.
+(b) If the county retains  the property or transfers title to a nonprofit organization, the
+county shall determine the fair market value  of the property with a current, third-party
+appraisal or current  assessment, whichever is greater, conducted within 60 days after the
+expiration of the redemption period.
+SURPLUSES
+SECTION 7.
+Determination of surplus.  (1) The  amount of a surplus shall be determined
+within 60 days after the date on which the gross sales proceeds from the sale  of the property
+are deposited in a separate, interest-bearing account under section 6 (3) of this 2025 Act  or
+the value has otherwise been determined under subsection (2) of this section.
+(2)(a)(A) In determining a  surplus, the value of the property is the stated consideration
+on a deed from the county to a bona fide purchaser, as defined in ORS 275.088, if any.
+(B) If the  county has not sold the property to a bona fide purchaser, the value of the
+property is  the fair market value of the property as of the date on which it is deeded to the
+county.
+(C) In the absence of  a sale or an appraisal or other reliable indication of fair market
+value, the value of the property is the real market value of the property as shown  on the tax
+statement for the property tax year in which the claim arose.
+(b)(A) For purposes of this subsection, the fair  market value of the property shall be the
+higher of a current appraisal of the property, conducted within 60 days after the expiration
+of the redemption period, by a licensed appraiser that is unaffiliated with the county, or the
+current assessment of the property for ad valorem property tax purposes.
+(B) The county shall procure an appraisal if the  real market value or assessed value of
+the property exceeds $10,000 for the property tax year in which the claim arose.
+(3) In determining a surplus, the allowable costs that the county may  elect to deduct
+from the value of the property include:
+(a) The amount of the judgment under ORS 312.090 and accruing  post-judgment interest;
+(b) The amount of taxes and interest on the taxes  that would have been due following the
+judgment during the redemption period and through the earlier of:
+(A) The date on which the county sold or conveyed the property to a third party; or
+(B) The date on which the claim is made;
+(c) Additional costs that the county may claim under ORS 275.275 (1)(a) to (c);
+(d) Costs to reimburse the claim of a municipal corporation that has filed a claim  notice
+under ORS 275.130;
+(e) Penalties allowed under ORS 312.990, or the actual costs paid by  the county to miti-
+gate or abate a nuisance, including  as described in ORS 105.555, that was caused or permitted
+by the negligence or neglect of the former owner; and
+(f) In lieu of the  penalty and fee under ORS 312.120, the reasonable fees of the foreclosure
+and sale of the property, including the costs of  legal fees, delivering notices, county staff
+time, court filing fees, appraisals, professional real estate commission and auction fees.
+(4) The county shall provide a claimant with an itemized accounting of all  allowable costs
+deducted when determining the surplus.
+SECTION 8.
+Claim of surplus.  (1) A claimant is  entitled to a return of the amount of a
+surplus, if any, from the disposition of the claimant’s property, as determined under  section
+7 of this 2025 Act, upon the earliest of the date on which the county:
+(a) Sells, transfers, exchanges, leases  for a period of more than one year or otherwise
+disposes of the property under ORS chapter 275; or
+(b) Determines that the county will retain the property for public purposes or transfer
+title to a nonprofit organization for purposes of public benefit.
+(2) A claim for a  surplus must be made with the State Treasurer in the manner provided
+by ORS 98.392 and 98.396.
+(3)(a) If the estate of a deceased former owner will not be probated, the  State Treasurer
+shall allow a claim to be made by the heirs, devisees or  a person named as a personal rep-
+resentative in the deceased former owner’s  will or an estate administrator appointed by the
+State Treasurer.
+(b) A claim made under this subsection must include:
+(A) A copy of the former owner’s death certificate;
+(B) A copy of the former owner’s will, if any;
+(C) A statement that the estate is not being probated and that a  small estate affidavit
+is not being filed for the estate;
+(D) The identity of each beneficiary of the claim;
+(E) The proportion of the surplus distributable to each beneficiary; and
+(F) Signatures of all beneficiaries of  the claim acknowledging their participation in the
+claim.
+(c) If there are multiple heirs, an heir who has occupied the property  as a primary resi-
+dence for  more than one year is presumed to have authority to receive the surplus on behalf
+of all heirs, in the absence of a written agreement among heirs or objection  by a nonresident
+heir.
+(4) A claimant does not have any interest in a surplus during the  period of redemption
+or any other time prior to the date on which the claim arises  under subsection (1) of this
+section.
+(5)(a) A person other than a claimant may claim the surplus based  upon a valid lien
+against the property or a debt of the claimant.
+(b) Any purported assignment of a claim to the surplus is void except for an assignment
+made for the protection of the interests of the claimant, including an assignment in  a
+bankruptcy proceeding, power of attorney or custodianship or guardianship proceedings.
+(6) Nothing in sections 3 to 9  of this 2025 Act extinguishes any debt obligation of a former
+owner that is outstanding as  of the date on which title to the property is conveyed to the
+county under ORS  312.270, other than the property tax amounts that were extinguished by
+the conveyance to the county.
+SECTION 9.
+Surplus as unclaimed property.  (1) A surplus is unclaimed  property under
+ORS 98.302 to 98.436.
+(2) The governing body of the county shall file the report and deliver a surplus in the
+amount determined under section 7 of this 2025 Act to the State Treasurer for deposit  as
+provided in ORS 98.352.
+(3) The report shall include an itemized accounting of all  allowable costs deducted from
+the value of the property when determining the surplus under section 7 (3) of this 2025 Act.
+PROCEDURAL SECTIONS
+SECTION 10.
+Sections 3 to 9 of this 2025 Act are added to and made a part of ORS
+chapter 312.
+SECTION 11. Applicability to new foreclosures.  (1) Sections 3 to  9 of this 2025 Act and
+the amendments to ORS 312.040 and 312.125 by sections 1 and 2 of  this 2025 Act apply to
+claims for which the claimant received notice under ORS 312.125 on or after May 25, 2017.
+(2) For claims for a surplus that could arise under section 7 of this 2025 Act with respect
+to which the claimant received notice under ORS  312.125 before the effective date of this 2025
+Act, the notice of a  surplus required under section 3 of this 2025 Act shall be made within
+60 days after the effective date of this 2025 Act.
+SECTION 12. The unit and section captions used in this 2025 Act are provided only for
+the convenience of the reader and do not become part of the statutory  law of this state or
+express any legislative intent in the enactment of this 2025 Act.
+EFFECTIVE DATE
+SECTION 13. This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 312.040, ORS 312.125
+- From bill text (Introduced version): ORS 105.555, ORS 195.332, ORS 205.130, ORS 205.246, ORS 251.167, ORS 275.088, ORS 275.130, ORS 275.275, ORS 311.555, ORS 311.560, ORS 312.040, ORS 312.050, ORS 312.090, ORS 312.100, ORS 312.120, ORS 312.125, ORS 312.270, ORS 312.990, ORS 34.010, ORS 87.372, ORS 93.260, ORS 98.302, ORS 98.352, ORS 98.392, ORS 98.396
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `57ed8e5c258a1faac814f4ba10b0abe42dd2131666b1172388d07247ad14bdbb` (snapshot `_meta/snapshots/measure-2025r1-hb2088-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2088/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2088> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

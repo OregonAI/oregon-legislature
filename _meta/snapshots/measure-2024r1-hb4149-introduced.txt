@@ -1,0 +1,1121 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4149
+Sponsored by Representatives NATHANSON, GOODWIN, NOSSE, LEVY B, SMITH G, Senators  GELSER BLOUIN,
+MANNING JR; Representatives DEXTER, DIEHL, GAMBA, GRAYBER,  HOLVEY, MARSH, OWENS,
+WALLAN, Senators DEMBROW, HANSELL, TAYLOR (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act requires PBMs to  be licensed and changes the definition of a PBM. The Act
+changes how drug stores can appeal the amounts that a PBM pays the drug  store for drugs sold by
+the drug store. The Act changes  the way PBMs can audit drug stores. The Act requires PBMs to
+report certain information each year to DCBS. The Act  requires health insurance policies to allow
+the individuals covered  by the policies to choose their own drug store or druggist. The Act requires
+insurers that offer health insurance to contract  with any drug store that is willing to agree to the
+terms of the insurance contract. The Act makes changes  to the way 340B drugs are covered by in-
+surance. (Flesch Readability Score: 67.4).
+Requires pharmacy benefit managers to be  licensed by the Department of Consumer and Busi-
+ness Services beginning January  1, 2025. Modifies the definition of “pharmacy benefit manager” and
+imposes new requirements  on pharmacy benefit managers. Modifies the procedures for a pharmacy
+to appeal the payment made by a pharmacy benefit manager on  a claim for reimbursement. Restricts
+audits of pharmacy claims for reimbursement.
+Requires pharmacy benefit managers to report specified information to the department on  an
+annual basis.
+Requires policies or certificates of health insurance and contracts providing for  the reimburse-
+ment of the cost of prescription drugs to allow a  policyholder, certificate holder and beneficiary to
+select a pharmacy or pharmacist for filling prescriptions and  for prescription renewals. Requires
+policies, certificates and contracts to contract  with any pharmacy or pharmacist willing to abide by
+the terms  and conditions of the policy, certificate or contract. Imposes new requirements with re-
+spect to the insurance coverage of 340B drugs.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to pharmacy benefits; creating new provisions;  amending ORS 646A.694, 735.530, 735.532,
+735.533, 735.534, 735.536, 735.537, 735.540, 735.542 and 743A.062; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 and 3 of this 2024 Act are added to and made a part of ORS 735.530
+to 735.552.
+SECTION 2. (1) As used in this section, “pharmacy services administrative
+organization” means an entity that:
+(a) Contracts with a pharmacy to act as the pharmacy’s agent  with respect to matters
+involving a pharmacy benefit manager, third party payer  or other entity, including by nego-
+tiating, executing or administering contracts with the pharmacy benefit manager, third party
+payer or other entity; and
+(b) Provides administrative services to pharmacies.
+(2) Upon the request of the Department  of Consumer and Business Services, a pharmacy
+benefit manager shall submit to the department the  pharmacy benefit manager’s contracts
+and amendments to contracts with  pharmacies or pharmacy services administrative organ-
+izations and the pharmacy benefit manager’s provider manuals.
+(3) Contracts, contract amendments and provider manuals submitted to the department
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 17
+HB 4149
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+under this section are exempt from disclosure under ORS 192.311 to 192.478.
+SECTION 3.
+Nothing in ORS 735.530 to 735.552 regulates health benefit plans, as  defined
+in ORS 743B.005.
+SECTION 4. (1) No later than December 31, 2025, the Oregon Health Authority,  in con-
+sultation with the Prescription Drug Affordability Board, shall  establish by rule dispensing
+fees to be paid  by pharmacy benefit managers under ORS 735.534 (2)(j) for prescription drugs
+that are not covered by the medical assistance program.
+(2) Until the authority has adopted  a dispensing fee by rule, the dispensing fee paid by a
+pharmacy benefit manager under ORS 735.534 (2)(j) for the dispensing of a prescription  drug
+that is not covered by the medical assistance program may be no less than $10.
+SECTION 5.  ORS 735.530 is amended to read:
+735.530. As used in ORS 735.530 to 735.552:
+(1) “Claim” means a  request from a pharmacy or pharmacist to be reimbursed for the cost of
+filling or refilling a prescription for a drug or for providing a medical supply or service.
+(2) “Enrollee” means an individual who has enrolled for coverage in a health benefit plan for
+which a pharmacy benefit manager has contracted with  the insurer to reimburse claims submitted
+by pharmacies or pharmacists for the costs of drugs prescribed for the individual.
+(3) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+(4) “Insurer” has the meaning given that term in ORS 731.106.
+(5) “Long term care  pharmacy” means a pharmacy for which the primary business is to serve
+a:
+(a) Licensed long term care facility, as defined in ORS 442.015;
+(b) Licensed residential facility, as defined in ORS 443.400; or
+(c) Licensed adult foster home, as defined in ORS 443.705.
+(6) “Mail order  pharmacy” means a pharmacy for which the primary business is to receive pre-
+scriptions by mail, telephone or electronic transmission  and dispense drugs to patients through the
+use of the United States Postal Service, a package delivery service or home delivery.
+(7) “Network pharmacy” means a pharmacy that contracts with a pharmacy benefit manager.
+(8) “Pharmacist” has the meaning given that term in ORS 689.005.
+(9) “Pharmacy” includes:
+(a) A pharmacy as defined in ORS 689.005;
+(b) A long term care pharmacy; and
+(c) An entity that provides or oversees administrative services for two or more pharmacies.
+(10) “Pharmacy benefit” means the payment for or reimbursement of an  enrollee’s cost for pre-
+scription drugs.
+(11)(a) “Pharmacy benefit manager” means a person that contracts with  pharmacies on behalf
+of [ an insurer offering a health benefit plan, a third  party administrator ] an insurer, entities that
+accept risk, third-party payers of claims, coordinated care organizations as defined in ORS
+414.025, an employer who is self-insured or the Oregon Prescription Drug Program established in
+ORS 414.312 to:
+(A) Process claims for prescription drugs or  medical supplies or provide retail network man-
+agement for pharmacies or pharmacists;
+(B) Pay pharmacies or pharmacists for prescription drugs or medical supplies; [ or]
+(C) Negotiate rebates , discounts or  other financial incentives or arrangements  with man-
+ufacturers for drugs paid for or procured as described in this paragraph ;
+[2]
+HB 4149
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(D) Receive payments for pharmacy services;
+(E) Disburse or distribute rebates;
+(F) Manage or participate in incentive programs or arrangements with  manufacturers
+of drugs;
+(G) Negotiate or enter into contracts with pharmacies;
+(H) Develop formularies;
+(I) Design pharmacy benefit programs; or
+(J) Advertise or promote pharmacy services .
+(b) “Pharmacy benefit manager” does not include a health care service  contractor as defined in
+ORS 750.005.
+(12) “Pharmacy services” means the provision of products, goods or services in  the
+course of the practice of pharmacy.
+[(12)] (13) “Specialty drug” means a drug that:
+(a) Is subject to restricted distribution by the United States Food and Drug Administration; or
+(b) Requires special handling, provider coordination or  patient education that cannot be pro-
+vided by a retail pharmacy.
+[(13)] (14) “Specialty pharmacy” means a pharmacy capable of  meeting the requirements appli-
+cable to specialty drugs.
+[(14)] (15) “Third party administrator” means a person licensed under ORS 744.702.
+[(15)] (16) “340B pharmacy” means a pharmacy  that is authorized to purchase drugs at a dis-
+count under 42 U.S.C. 256b.
+SECTION 6.
+ ORS 735.532 is amended to read:
+735.532. [ (1) To conduct business in this state, a pharmacy benefit manager must register with the
+Department of Consumer and Business Services and annually renew the registration. ]
+[(2) To register under this section, a pharmacy benefit manager must: ]
+(1) A person may not transact business or purport to transact business in this state  as
+a pharmacy benefit manager unless the person has a license to transact business  as a
+pharmacy benefit manager issued by the Department of Consumer and Business Services.
+(2) To obtain a license under this section, a person must:
+(a) Submit an application to the department on a form prescribed by the department by rule.
+(b) Pay a [ registration] fee in an amount adopted by the department by rule.
+(3) A license to  transact business as a pharmacy benefit manager must be renewed every
+12 months.  To renew a [ registration] license  under this [ section] subsection , a pharmacy benefit
+manager must pay a renewal fee in an amount adopted by the department by rule.
+(4) The department shall deposit all moneys collected under this section into the  Consumer and
+Business Services Fund created in ORS 705.145.
+(5) Any fee adopted by the department under this  section must be [ based on ] sufficient to pay
+the department’s reasonable costs in administering ORS 735.530 to 735.552.
+SECTION 7.
+ ORS 735.533 is amended to read:
+735.533. (1) In accordance  with ORS chapter 183, the Department of Consumer and Business
+Services may deny an  application for [ registration] a license to transact business  as a pharmacy
+benefit manager or  deny an application for renewal of a [ registration] license to transact business
+as a pharmacy benefit manager, and may suspend or revoke a  [ registration] a license to transact
+business as  a pharmacy benefit manager, if the department finds that an applicant or [ registrant]
+licensee:
+[3]
+HB 4149
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Falsified an application for [ registration] a license  or for the renewal of a [ registration] li-
+cense or engaged in any dishonest act in relation to the application;
+(b) Engaged in dishonesty, fraud or gross negligence in the conduct of business as  a pharmacy
+benefit manager;
+(c) Engaged in conduct that resulted in a conviction of a felony under the  laws of any state or
+of the United States, to the extent that such conduct may be considered under ORS 670.280;
+(d) Was convicted under the laws of any state or of the United  States of any crime of which an
+essential element is dishonesty or fraud;
+(e) Had  a certificate of authority or authority to conduct business as a pharmacy benefit man-
+ager denied, revoked or suspended in another state;
+(f) Failed to pay a civil penalty imposed by final order of the department or to  comply with the
+terms of suspension set by the department;
+(g) Failed to meet the terms of a consent  decree approved by a court of competent jurisdiction
+in this state, or a consent order made between the department and the pharmacy benefit manager;
+(h) Refused to be examined or to produce accounts, records  or files for examination, including
+the refusal by any officer of the applicant or [ registrant] licensee to give information with respect
+to the affairs of the pharmacy benefit  manager, or refused to perform any other legal obligation with
+respect to an examination by the department; or
+(i) Violated  any [ rule or order of the department or any ] provision of the Insurance Code , any
+rule adopted by the department pursuant  to the Insurance Code or any order of the depart-
+ment.
+(2) The department may prescribe by rule a  procedure by which a pharmacy or an entity acting
+on behalf of a pharmacy may file a complaint with the department  alleging that a pharmacy benefit
+manager has engaged in conduct [ described in this section ] in violation of ORS 735.530 to 735.552 .
+The department may restrict the right of a pharmacy or entity to file a complaint only to  the extent
+necessary to prevent abuse of the complaint process.
+SECTION 8.
+ ORS 735.534 is amended to read:
+735.534. (1) As used in this section:
+(a)(A) “Generally  available for purchase” means a drug is available for purchase in this state
+by a pharmacy from a national  or regional wholesaler at the time a claim for reimbursement is
+submitted by a network pharmacy.
+(B) A drug is not “generally available for purchase” if the drug:
+(i) May be dispensed only in a hospital or inpatient care facility;
+(ii) Is unavailable due to a shortage of the product or an ingredient;
+(iii) Is available to a  pharmacy at a price that is at or below the maximum allowable cost only
+if purchased in substantial quantities that are inconsistent with the business needs of a pharmacy;
+(iv) Is sold at a discount due to a short expiration date on the drug; or
+(v) Is the subject of an active or pending recall.
+(b) “List” means the list of drugs for which maximum allowable costs have been established.
+(c) “Maximum allowable cost” means the maximum amount that a pharmacy benefit  manager
+will reimburse a pharmacy for the cost of a drug.
+(d) “Multiple source drug” means a therapeutically  equivalent drug that is available from at
+least two manufacturers.
+(e) “Therapeutically equivalent” has the meaning given that term in ORS 689.515.
+(2) A pharmacy benefit manager [ registered ] licensed under ORS 735.532:
+[4]
+HB 4149
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) May  not place a drug on a list unless there are at least two multiple source drugs, or at least
+one generic drug generally available for purchase.
+(b) Shall ensure that all drugs on a list are generally available for purchase.
+(c) Shall ensure that no drug on a list is obsolete.
+(d) Shall make available to each network pharmacy  at the beginning of the term of a contract,
+and upon renewal of a contract, the specific authoritative industry sources, other  than proprietary
+sources, the pharmacy benefit manager uses to determine the  maximum allowable cost set by the
+pharmacy benefit manager.
+(e) Shall make a list available to a network pharmacy upon request in a format that:
+(A) Is electronic;
+(B) Is computer accessible and searchable;
+(C) Identifies all drugs for which maximum allowable costs have been established; and
+(D) For each drug specifies:
+(i) The national drug code; and
+(ii) The maximum allowable cost.
+(f) Shall update  each list maintained by the pharmacy benefit manager every seven business days
+and make the updated lists, including all changes in the price of drugs, available to  network phar-
+macies in the format described in paragraph (e) of this subsection.
+(g) Shall  ensure that dispensing fees are not included in the calculation of maximum allowable
+cost.
+(h) May not reimburse a 340B pharmacy differently than any other network  pharmacy based on
+its status as a 340B pharmacy.
+(i) Shall comply with the provisions of ORS 743A.062.
+(j) Shall pay a professional dispensing fee in an amount no less  than the dispensing fee
+established by the Oregon Health Authority by rule to a:
+(A) Critical access pharmacy; and
+(B) A pharmacy, other than a  pharmacy the caters primarily to veterinary customers,
+that has nine or fewer locations under common ownership in this state.
+[(i)] (k) May not retroactively deny or reduce payment on a claim for reimbursement of the  cost
+of services after the claim has been adjudicated by the pharmacy benefit manager unless the:
+(A) Adjudicated claim was submitted fraudulently;
+(B) Pharmacy  benefit manager’s payment on the adjudicated claim was incorrect because the
+pharmacy had already been paid for the services;
+(C) Services were improperly rendered by the pharmacy  in violation of state or federal law ;
+or
+[(D) Pharmacy agrees  to the denial or reduction prior to the pharmacy benefit manager notifying
+the pharmacy that the claim has been denied or reduced; or ]
+[(E)] (D)  [ The] Payment was incorrect due to an error that the pharmacy and pharmacy  benefit
+manager agree was a clerical error.
+[(j)] (L)  May not impose a fee on a pharmacy after the point of sale.
+[(k)] (m)  Shall provide notice to a pharmacy of any  claim for reimbursement of the cost of a
+prescription drug that is denied or reduced. The notice shall  identify the specific disaggregated
+claim that was denied or reduced and a detailed explanation for  why the specific claim was denied
+or reduced.
+(3) Subsection [ (2)(i)] (2)(k)  of this section may not be construed  to limit pharmacy claim audits
+[5]
+HB 4149
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+under ORS 735.540 to 735.552.
+(4) A pharmacy benefit manager must establish a process  by which a network pharmacy may
+appeal its reimbursement for a drug [ subject to  maximum allowable cost pricing ]. A network phar-
+macy may appeal [ a maximum allowable cost if ] the reimbursement for the drug if the reimburse-
+ment is less than the [ net amount  that the network pharmacy paid to the supplier of the drug ]
+dispensing fee described in subsection (2)(j) of this section . The process must allow a network
+pharmacy a period of no less than 60 days after a claim is reimbursed in which to file the  appeal.
+An appeal requested under this section must be completed  within 30 calendar days of the pharmacy
+making the claim for which appeal has been requested.
+(5) A pharmacy benefit manager shall allow  a network pharmacy to submit the documentation
+in support of its appeal on paper or electronically and may not:
+(a) Refuse  to accept an appeal submitted by a person authorized to act on behalf of the network
+pharmacy;
+(b) Refuse to adjudicate an appeal for the reason that the appeal is  submitted along with other
+claims that are denied; or
+(c) Impose requirements or establish procedures that  have the effect of unduly obstructing or
+delaying an appeal.
+(6) A  pharmacy benefit manager must provide as part of the appeals process established under
+subsection (4) of this section:
+(a) A telephone  number at which a network pharmacy may contact the pharmacy benefit man-
+ager and speak with an individual who is responsible for processing appeals;
+(b) A final response to an appeal of [ a maximum allowable cost ] the reimbursement for a drug
+within seven business days; and
+(c) If the  appeal is denied, the reason for the denial [ and the national drug code of a drug that
+may be  purchased by similarly situated pharmacies at a price that is equal to or less than the maximum
+allowable cost].
+(7)(a) If an appeal is upheld under this section, the pharmacy benefit manager shall:
+(A) Make an adjustment for the pharmacy  that requested the appeal from the date of initial
+adjudication forward; and
+(B) Allow the pharmacy to reverse the claim and  resubmit an adjusted claim without any addi-
+tional charges.
+(b) If the request for an adjustment has come from a critical access pharmacy, [ as defined  by the
+Oregon Health Authority by rule for purposes related  to the Oregon Prescription Drug Program, ] the
+adjustment approved under paragraph (a) of this subsection shall  apply only to critical access
+pharmacies.
+[(8) This section does not apply to the state medical assistance program. ]
+(8) A pharmacy may file a complaint with the Department of Consumer  and Business
+Services to contest a finding of a pharmacy benefit manager in response  to an appeal under
+subsection (4) of this section  or a pharmacy benefit manager’s failure to comply with the
+provisions of this section.
+(9) The Department of Consumer  and Business Services may adopt rules to carry out the pro-
+visions of this section.
+SECTION 9.
+ ORS 735.536 is amended to read:
+735.536. (1) As used in this section, “out-of-pocket cost” means the amount paid by an  enrollee
+under the enrollee’s coverage,  including deductibles, copayments, coinsurance or other expenses as
+[6]
+HB 4149
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+prescribed by the Department of Consumer and Business Services by rule.
+(2) A pharmacy benefit manager [ registered ] licensed under ORS 735.532:
+(a) May not require a prescription to  be filled or refilled by a mail order pharmacy as a condi-
+tion for reimbursing the cost of the drug.
+(b) Except as provided in paragraph (c) of this subsection, may  require a prescription for a
+specialty drug to be filled or refilled at  a specialty pharmacy as a condition for the reimbursement
+of the cost of a drug.
+(c) Shall reimburse the cost of a specialty drug that is filled  or refilled at a network pharmacy
+that is a long term care pharmacy.
+(d)(A) Shall allow a network pharmacy to  mail, ship or deliver prescription drugs to its patients
+as an ancillary service.
+(B) Is not required to reimburse a delivery  fee charged by a pharmacy for a delivery described
+in subparagraph (A) of this paragraph  unless the fee is specified in the contract between the phar-
+macy benefit manager and the pharmacy.
+(e) May  not require a patient signature as proof of delivery of a mailed or shipped prescription
+drug if the network pharmacy:
+(A)(i) Maintains a mailing or shipping log signed by a representative of the pharmacy; or
+(ii) Maintains each notification of delivery  provided by the United States Postal Service or a
+package delivery service; and
+(B) Is responsible for  the cost of mailing, shipping or delivering a replacement for a drug that
+was mailed or shipped but not received by the enrollee.
+(f) May not penalize a network pharmacy  by  imposing charges or fees, requiring contract
+amendments, canceling or terminating contracts or demanding recoupment or otherwise re-
+taliate against a network pharmacy  for : [ or otherwise directly or indirectly prevent a network
+pharmacy from]
+(A) Informing an enrollee of the difference between  the out-of-pocket cost to the enrollee to
+purchase a prescription drug using the  enrollee’s pharmacy benefit and the pharmacy’s usual and
+customary charge for the prescription drug[ .];
+(B) Filing an appeal;
+(C) Filing a complaint against the pharmacy benefit manager with  the Department of
+Consumer and Business Services;
+(D) Engaging in the legislative process; or
+(E) Challenging the pharmacy benefit manager’s practices or agreements.
+(g) May not charge a fee to a pharmacy  for submitting claims or for the adjudication of
+claims.
+(3) The Department of Consumer  and Business Services may adopt rules to carry out the pro-
+visions of this section.
+SECTION 10.
+ ORS 735.537 is amended to read:
+735.537. (1) As used in this section:
+(a) “Administrative fee” means the administrative  and service fees charged by pharmacy
+benefit managers to manufacturers and carriers  that are typically a percentage of the list
+price of a prescription drug.
+[(a)] (b) “Carrier” has the meaning given that term in ORS 743B.005.
+[(b)] (c)  “Manufacturer” has the meaning given that term in ORS 646A.689.
+[(c)] (d) “Prescription drug” has the meaning given that term in ORS 646A.689.
+[7]
+HB 4149
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) “Spread pricing” means the difference between the amount an insurer pays  a phar-
+macy benefit manager and the amount that the pharmacy benefit manager  reimburses a
+pharmacy for a beneficiary’s prescription.
+(2) Not later than June 1 of each  calendar year, a pharmacy benefit manager [ registered ] li-
+censed under ORS 735.532 shall file a  report with the Department of Consumer and Business Ser-
+vices. The report must contain, for the immediately preceding calendar year[ ,]:
+(a) The aggregated dollar amount of rebates, fees,  price protection payments and any other
+payments the pharmacy benefit manager received from manufacturers:
+[(a)] (A)  Related to  managing the pharmacy benefits for carriers issuing health benefit plans in
+this state; and
+[(b)] (B)  That were:
+[(A)] (i) Passed on to carriers issuing health benefit plans  in this state or enrollees at the point
+of sale of a prescription drug in this state; or
+[(B)] (ii) Retained as revenue by the pharmacy benefit manager.
+(b) The total dispensing fees paid to the pharmacy benefit manager and to pharmacies.
+(c) The total  administrative fees obtained and retained from manufacturers and carriers.
+(d) Moneys obtained through spread pricing, pay-for-performance or similar means.
+(e) Deidentified claims data.
+(3) The report described in subsection (2) of this section may not disclose:
+(a) The identity of a carrier or an enrollee;
+(b) The price charged for a specific prescription drug or class of drugs; or
+(c) The amount of any rebate or fee provided for a specific  prescription drug or class of pre-
+scription drugs.
+(4) Information submitted  to the department under this section is confidential and not subject
+to disclosure except as provided in subsection (5) of this section and ORS 705.137.
+(5) Not later than October 1 of  each calendar year, the department shall publish on the
+department’s website the aggregated data from all reports filed  by pharmacy benefit managers under
+this section for the preceding calendar year. The department shall  publish the data in a manner that
+does not disclose confidential information of pharmacy benefit managers.
+SECTION 11.
+ ORS 735.540 is amended to read:
+735.540. As used in ORS 735.540 to 735.552:
+(1) “Audit” means an on-site or remote review of the records  of a pharmacy , or a request for
+records from a pharmacy for the purpose of an audit,  by or on behalf of an entity.
+(2) “Clerical error” means a minor error:
+(a) In the keeping, recording or transcribing  of records or documents or in the handling of
+electronic or hard copies of correspondence;
+(b) That does not result in financial harm to an entity; and
+(c) That does not involve  dispensing an incorrect dose, amount or type of medication or dis-
+pensing a prescription drug to the wrong person.
+(3) “Entity” includes:
+(a) A pharmacy benefit manager;
+(b) An insurer;
+(c) A third party administrator;
+(d) A state agency; or
+(e) A person that represents or is employed by one of the entities described in this subsection.
+[8]
+HB 4149
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(4) “Fraud” means knowingly  and willfully executing or attempting to execute a scheme, in
+connection with the  delivery of or payment for health care benefits, items or services, that uses false
+or misleading pretenses, representations or promises to obtain any  money or property owned by or
+under the custody or control of any person.
+SECTION 12.
+ ORS 735.542 is amended to read:
+735.542. An entity that audits claims or an independent third  party that contracts with an entity
+to audit claims:
+(1) Must establish, in writing, a procedure for a  pharmacy to appeal the entity’s findings with
+respect to a  claim and must provide a pharmacy with a notice regarding the procedure, in writing
+or electronically, prior to conducting an audit of the pharmacy’s claims;
+(2) Must submit requests for records from a pharmacy for the purpose of an audit by:
+(a) Electronic mail; and
+(b) Facsimile or certified mail;
+[(2)] (3) May not conduct an audit of a claim more than [ 24] 12 months  after the date the claim
+was adjudicated by the entity;
+[(3)] (4)  Must give at least 15  days’ advance written notice of an on-site audit to the pharmacy
+or corporate headquarters of the pharmacy  by electronic mail ;
+[(4)] (5)  May not conduct  an on-site audit during the first five days of any month without the
+pharmacy’s consent;
+[(5)] (6)  Must conduct the audit in consultation with a  pharmacist who is licensed by this or
+another state if the audit involves clinical or professional judgment;
+[(6)] (7)(a)  May not [ conduct an on-site ] audit , [ of more than 250 unique prescriptions of a phar-
+macy] in any 12-month period [ except in cases of alleged fraud; ], more than:
+(A) 250 unique prescriptions during an on-site audit; or
+(B) 250 unique prescriptions through a remote audit.
+(b) The limits  on the number of drugs that may be audited described in paragraph (a) of
+this subsection do not include an audit conducted by a pharmacy benefit manager resulting
+from a  reasonable suspicion by the pharmacy benefit manager of fraud, waste or abuse sup-
+ported by preliminary evidence that  the pharmacy benefit manager produces for the phar-
+macy.
+[(7)] (8) May not conduct more than one on-site audit of a pharmacy in any 12-month period;
+(9) Must give a pharmacy at least 30 days to respond to an audit;
+[(8)] (10)  Must audit each pharmacy under the same standards and parameters  that the entity
+uses to audit other similarly situated pharmacies;
+[(9)] (11) Must pay any outstanding claims of a pharmacy no more than 45 days after the  earlier
+of the date all appeals are concluded or the date a final report is issued under ORS 735.550 (3);
+[(10)] (12)  May not include dispensing fees or interest in the amount of any overpayment  as-
+sessed on a claim unless the overpaid claim was for a prescription that was not filled correctly;
+[(11)] (13) May not recoup costs associated with:
+(a) Clerical errors; or
+(b) Other errors that do not result in financial harm to the entity or a consumer; and
+[(12)] (14)  May  not charge a pharmacy for a denied or disputed claim until the audit and the
+appeals procedure established under subsection (1) of this section are final.
+SECTION 13.
+ ORS 743A.062 is amended to read:
+743A.062. (1) As used in this section[ ,]:
+[9]
+HB 4149
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) “Medical assistance program” means the state  program that provides medical assistance as
+defined in ORS 414.025.
+(b) “340B drug”  means a covered drug dispensed by a covered entity, as those terms are
+defined in 42 U.S.C. 256b, that is subject to the cap on amounts  required to be paid in 42
+U.S.C. 256b(a)(1).
+(2) [ An insurance policy or ] A policy or certificate of health insurance  or other  contract
+providing [ coverage for ] for the reimbursement of the cost of  a prescription drug to a  resident
+of this state [ may not]:
+(a) May not  exclude coverage of the drug  for a particular indication solely on the grounds that
+the indication has not been approved by the  United States Food and Drug Administration if the
+Health Evidence Review Commission established under ORS 414.688 or the  Pharmacy and
+Therapeutics Committee established under ORS 414.353  determines that the drug is recognized as
+effective for the treatment of that indication:
+(A) In publications that the commission or the committee determines to be equivalent to:
+(i) The American Hospital Formulary Service drug information;
+(ii) “Drug Facts and Comparisons” (Lippincott-Raven Publishers);
+(iii) The United States Pharmacopoeia drug information; or
+(iv) Other publications that  have been identified by the United States Secretary of Health and
+Human Services as authoritative;
+(B) In the majority of relevant peer-reviewed medical literature; or
+(C) By the United States Secretary of Health and Human Services; [ or]
+(b) For an insured who is enrolled in the medical assistance program , may not :
+(A) Except as provided in subsection (3) of  this section, require a prescription for the drug to
+be filled or refilled at a mail order pharmacy; or
+(B) Require a prescription for the drug to be filled or refilled at a pharmacy that is not a local
+pharmacy enrolled in the medical assistance program[ .];
+(c) Must permit the policyholder, certificate holder or beneficiary, at the time of  issu-
+ance, amendment or  renewal, to select a licensed pharmacy or licensed pharmacist for the
+dispensing of prescription drugs reimbursed by the policy, certificate or contract;
+(d) May not deny a  pharmacy or pharmacist licensed in this state the opportunity to
+participate as a preferred provider  or a contracting provider under the same terms and
+conditions applicable to all other preferred or contracting providers if the  pharmacy or
+pharmacist agrees to the terms and conditions;
+(e) May not discriminate in the reimbursement of a prescription for 340B  drugs from
+other prescription drugs;
+(f) May not assess a fee, chargeback, clawback or other adjustment  for the dispensing
+of a 340B drug;
+(g) May not  exclude a pharmacy from a pharmacy network on the basis that the phar-
+macy dispenses a 340B drug;
+(h) May not restrict  the methods by which a 340B drug may be dispensed or delivered;
+or
+(i) May not  restrict the number of pharmacies within a pharmacy network that may
+dispense or deliver 340B drugs.
+(3) Subsection (2)(b)(A) of this section does not prohibit an insurer from requiring a medical as-
+sistance recipient to fill or refill a prescription for a specialty drug at  a mail order pharmacy that
+[10]
+HB 4149
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+is a specialty pharmacy.
+(4) Required coverage of a prescription drug under this  section shall include coverage for med-
+ically necessary services associated with the administration of that drug.
+(5) Nothing in this section requires coverage for any prescription drug  if the United States Food
+and Drug Administration has determined use of the drug to be contraindicated.
+(6) Nothing in this section requires coverage for  experimental drugs not approved for any indi-
+cation by the United States Food and Drug Administration.
+(7) Notwithstanding ORS 750.055 (1)(h), this section does not apply to a  health mainte-
+nance organization as defined in ORS 750.005.
+[(7)] (8) This section is exempt from ORS 743A.001.
+SECTION 14.
+ ORS 646A.694 is amended to read:
+646A.694. (1) The Department of Consumer  and Business Services shall provide to the Pre-
+scription Drug Affordability Board each  calendar quarter a list of prescription drugs included in
+reports submitted to the department under ORS 646A.689  (2) and (6), a list of drugs included in re-
+ports submitted to the  department under ORS 646A.683 and 743.025 and a list of insulin drugs mar-
+keted in this state during the previous calendar year. Each calendar year, the  board shall identify
+nine drugs and at least one insulin product from the lists provided under this  subsection that the
+board determines may create affordability challenges for health  care systems or high out-of-pocket
+costs for patients in this state based on criteria adopted by the board by rule,  including but not
+limited to:
+(a) Whether the prescription drug has led to health inequities in communities of color;
+(b) The number of residents in this state prescribed the prescription drug;
+(c) The price for the prescription drug sold in this state;
+(d) The estimated average monetary price concession, discount or  rebate the manufacturer pro-
+vides to health insurance plans in this state or is expected to  provide to health insurance plans in
+this state, expressed as a percentage of the price for the prescription drug under review;
+(e) The estimated  total amount of the price concession, discount or rebate the manufacturer
+provides to each pharmacy benefit  manager [ registered ] licensed in this state for the prescription
+drug under review, expressed as a percentage of the prices;
+(f) The estimated price for therapeutic alternatives to the drug that are sold in this state;
+(g) The estimated average price concession, discount or  rebate the manufacturer provides or is
+expected to provide to  health insurance plans and pharmacy benefit managers in this state for
+therapeutic alternatives;
+(h) The estimated costs to health insurance plans based on patient use of the drug  consistent
+with the  labeling approved by the United States Food and Drug Administration and recognized
+standard medical practice;
+(i) The impact on  patient access to the drug considering standard prescription drug benefit de-
+signs in health insurance plans offered in this state;
+(j) The relative  financial impacts to health, medical or social services costs as can be quantified
+and compared to the costs of existing therapeutic alternatives;
+(k) The estimated average patient copayment or other cost-sharing for  the prescription drug in
+this state;
+(L) Any information a manufacturer chooses to provide; and
+(m) Any other factors as determined by the board in rules adopted by the board.
+(2) A  drug that is designated by the Secretary of the United States Food and Drug Adminis-
+[11]
+HB 4149
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tration, under 21 U.S.C. 360bb, as  a drug for a rare disease or condition is not subject to review
+under subsection (1) of this section.
+(3) The board shall accept testimony from patients and caregivers affected by  a condition or
+disease that is treated by a prescription drug  under review by the board and from individuals with
+scientific or medical training with respect to the disease or condition.
+(4)(a) If the  board considers the cost-effectiveness of a prescription drug in criteria adopted by
+the board under subsection (1) of this section, the board may not  use quality-adjusted life-years, or
+similar formulas  that take into account a patient’s age or severity of illness or disability, to identify
+subpopulations for which a prescription drug would be less  cost-effective. For any prescription drug
+that extends life, the board’s analysis of cost-effectiveness must weigh the  value of the quality of life
+equally for all patients, regardless of the patients’ age or severity of illness or disability.
+(b) As used in this subsection:
+(A) “Health utility” means a measure of the degree to which having a particular form  of disease
+or disability or having particular functional  limitations negatively impacts the quality of life as
+compared to a state of perfect health, expressed as a number between zero and one.
+(B) “Quality-adjusted life-year” is the product of a health utility multiplied by the extra  months
+or years of life that a patient might gain as a result of a treatment.
+(5) To  the extent practicable, the board shall access pricing information for prescription drugs
+by:
+(a) Accessing pricing information collected by the department under ORS 646A.689 and  743.025;
+(b) Accessing data reported to the Oregon Health Authority under ORS 442.373;
+(c) Entering into a memorandum of  understanding with another state to which manufacturers
+already report pricing information; and
+(d) Accessing other publicly available pricing information.
+(6) The information  used to conduct an affordability review may include any document and re-
+search related to the introductory price or price increase of a prescription drug, including life cycle
+management, net average price in this state, market competition and context, projected revenue  and
+the estimated value or cost-effectiveness of the prescription drug.
+(7) The department and the board shall keep  strictly confidential any information collected, used
+or relied upon for the review conducted under this section if the information is:
+(a) Information submitted to the department by a manufacturer under ORS 646A.689; and
+(b) Confidential, proprietary or a trade secret as defined in ORS 192.345.
+SECTION 15.
+No later than January 1, 2025, the Department of Consumer  and Business
+Services shall hire at least one additional full-time employee to assist in the  regulation of
+pharmacy benefit managers under ORS 735.530 to 735.552.
+SECTION 16. The amendments to ORS 735.534,  735.536, 735.540 and 735.542 by sections 8,
+9, 11 and 12 of this 2024 Act apply  to contracts between pharmacies and pharmacy benefit
+managers that are entered into,  renewed, extended or automatically renewed on or after
+January 1, 2025.
+SECTION 17. (1) Sections 2 and 3 of this 2024 Act and the amendments to ORS  646A.694,
+735.530, 735.532, 735.533, 735.534, 735.536, 735.537, 735.540, 735.542 and 743A.062 by sections 5 to
+14 of this 2024 Act become operative on January 1, 2025.
+(2) The Department of Consumer and Business Services shall  take all steps necessary
+before January 1, 2025, to carry out the amendments to  ORS 735.532 and 735.533 by sections
+6 and 7 of this 2024 Act on and after January 1, 2025.
+[12]
+HB 4149
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+SECTION 18.
+Notwithstanding any other law limiting expenditures, the  amount of
+$  is established for the biennium ending June 30, 2025, as the maximum limit  for
+payment of expenses  from fees, moneys or other revenues, including Miscellaneous Receipts,
+but excluding lottery  funds and federal funds, collected or received by the Department of
+Consumer and Business Services  for the purpose of carrying out sections 2 to 4 and 15 of this
+2024 Act and the  amendments to ORS 646A.694, 735.530, 735.532, 735.533, 735.534, 735.536,
+735.537, 735.540, 735.542 and 743A.062 by sections 5 to 14 of this 2024 Act.
+SECTION 19. Section 15 of this 2024 Act is repealed on January 2, 2025.
+SECTION 20. This 2024 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2024 Act takes effect
+on its passage.
+[13]

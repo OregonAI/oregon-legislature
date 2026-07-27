@@ -1,0 +1,80 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 508
+Sponsored by Senator SMITH DB (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells an insurer that it may not  use a device or technology to track where a person is
+when the person is driving. (Flesch Readability Score: 65.7).
+Prohibits insurers from using any device or  technology that records, discloses or allows access
+to information that tracks or reveals the geographic location  of an insured during any time in which
+the insured is  occupying or operating a motor vehicle that the motor vehicle liability insurance
+policy covers. Specifies exceptions.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to prohibiting geographic tracking in connection with motor vehicle  liability insurance
+policies; creating new provisions; amending ORS 742.449; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 742.449 is amended to read:
+742.449. (1) An  insurer [ issuing] that issues  motor vehicle liability insurance policies in this
+state may not :
+(a) Assign an insured or applicant for insurance  to a higher risk category than the [ person]
+insured or applicant  would otherwise be assigned  to solely because the [ person] insured or ap-
+plicant has:
+[(1)] (A)  Let a prior motor vehicle liability policy lapse, unless the  [ person] insured or appli-
+cant was in violation of ORS 806.010 at any time after the prior policy lapsed; or
+[(2)] (B)  Had driving privileges suspended [ pursuant to ] under ORS 809.280 (6) or  (8) if the sus-
+pension is based on a nondriving offense.
+(b) Use or require the use of any device  or technology that records, discloses or allows
+access to information that tracks or  reveals the geographic location of an insured during any
+time in which the insured is occupying or operating a motor vehicle that the motor vehicle
+liability insurance policy covers.
+(2) Notwithstanding the prohibition in subsection (1)(b) of this  section, an insurer may
+obtain and use information that  reveals the geographic location of an insured solely for the
+purpose of providing emergency services or roadside assistance to an insured if  under the
+motor vehicle liability insurance policy the insurer provides or agrees with  another person
+to provide such services or assistance and the insured affirmatively consents  to the use of
+the information for the purpose of receiving emergency services or roadside assistance.
+SECTION 2. The amendments to ORS 742.449 by section 1 of this 2025 Act apply to motor
+vehicle liability insurance policies that an insurer  issues or renews on or after the effective
+date of this 2025 Act.
+SECTION 3. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2306
+SB 508
+1
+2
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

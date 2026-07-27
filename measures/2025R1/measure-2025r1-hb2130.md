@@ -1,0 +1,416 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2130
+title: 'HB 2130 (2025R1): Makes various changes to the responsibilities of the Oregon Insurance Guaranty
+  Association with respect to providing coverage for the obligations of member insurers.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2130
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2130/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: ef196640226b06da1325997846bd46c8a1e31c9084a95731bcb8f30ab0f2f0a4
+snapshot_id: measure-2025r1-hb2130-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 646A.602
+  - ORS 734.510
+  - ORS 734.540
+  - ORS 734.550
+  - ORS 734.570
+  - ORS 734.580
+  - ORS 734.590
+  - ORS 734.640
+  - ORS 734.695
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2130
+prefix_meaning: House Bill
+catch_line: Makes various changes to the responsibilities of the Oregon Insurance Guaranty Association
+  with respect to providing coverage for the obligations of member insurers.
+minority_catch_line: null
+measure_summary: "\tDigest: Updates the law that makes a pool of insurers cover losses from a member of\
+  \ the pool. (Flesch Readability Score: 75.1). \n\tMakes various changes to the responsibilities of the\
+  \ Oregon Insurance Guaranty Association with respect to providing coverage for the obligations of member\
+  \ insurers."
+relating_to: Relating to the Oregon Insurance Guaranty Association.
+relating_to_full: Relating to the Oregon Insurance Guaranty Association.
+at_the_request_of: (at the request of House Interim Committee on Commerce and Consumer Protection for
+  Oregon Insurance Guaranty Association)
+lc_number: 3195
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-05-20T11:56:20'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 21936
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 646A.602
+  - ORS 734.510
+  - ORS 734.540
+  - ORS 734.550
+  - ORS 734.570
+  - ORS 734.580
+  - ORS 734.590
+  - ORS 734.640
+  - ORS 734.695
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2130>.
+
+# HB 2130 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2130, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of House Interim Committee on Commerce and Consumer Protection for Oregon Insurance Guaranty Association)
+- **LC number:** 3195
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-05-20T11:56:20
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 21936 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2130/Enrolled>.
+
+## Summary
+
+**Catchline:** Makes various changes to the responsibilities of the Oregon Insurance Guaranty Association with respect to providing coverage for the obligations of member insurers.
+
+**Relating to:** Relating to the Oregon Insurance Guaranty Association.
+
+Digest: Updates the law that makes a pool of insurers cover losses from a member of the pool. (Flesch Readability Score: 75.1). 
+ Makes various changes to the responsibilities of the Oregon Insurance Guaranty Association with respect to providing coverage for the obligations of member insurers.
+
+**RelatingToFull (verbatim upstream field):** Relating to the Oregon Insurance Guaranty Association.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 2130
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House In-
+terim Committee on Commerce and Consumer  Protection for Oregon Insurance Guaranty Asso-
+ciation)
+CHAPTER .................................................
+AN ACT
+Relating to the Oregon Insurance Guaranty Association; creating new  provisions; and amending
+ORS 734.510, 734.540, 734.570, 734.580, 734.640 and 734.695.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. Section 2 of this 2025 Act is added to and made a part  of ORS 734.510 to
+734.710.
+SECTION 2. (1) Notwithstanding any other provision of ORS 734.510  to 734.710, if an
+insurer assumes sole responsibility for an insurance policy  that a member insurer issued and
+the insurer that assumes responsibility for the insurance policy  is subject to liquidation, the
+Oregon Insurance Guaranty Association is subject under ORS 734.510 to  734.710 to a claim
+that arises from the insurance policy even if:
+(a) The insurer that is subject to liquidation assumed sole responsibility for the insurance
+policy under an allocation, transfer, assumption or other  operation in accordance with a law
+of this state that provides for dividing an insurer or allocating, transferring or  assuming
+designated insurance policies; and
+(b) A court order or novation released the  member insurer from any obligation under the
+insurance policy.
+(2) The association is not subject  under ORS 734.510 to 734.710 to a claim that arises from
+an insurance policy if an insurer that was not a member  insurer issued the insurance policy
+and a member insurer later assumed  sole responsibility for the insurance policy under a
+novation or an allocation, transfer  or assumption in accordance with a law of this state that
+provides for dividing an insurer or allocating, transferring or assuming designated insurance
+policies.
+SECTION 3.  ORS 734.510 is amended to read:
+734.510. As used in ORS 734.510 to 734.710, unless the context requires otherwise:
+(1) “Association” means the Oregon Insurance Guaranty Association created by ORS 734.550.
+(2) “Board” means the board of directors of the association.
+(3) “Controlled insurer” means an insurer  70 percent or more of whose stock is owned by a
+corporation, or by two or more corporations that are under common ownership.
+(4)(a) “Covered claim” means an unpaid claim, including a claim for unearned premiums and  a
+claim by the Workers’ Benefit Fund for payments made [ pursuant to ] under ORS chapter 656,  that
+arises out of and is within the coverage and limits of an  insurance policy to which ORS 734.510 to
+734.710 apply and which is in force at the time  of the occurrence giving rise to the unpaid claim,
+Enrolled House Bill 2130 (HB 2130-INTRO) Page 1
+made by a person insured under [ such] the  policy or by a person suffering injury or damage for
+which a person insured under [ such] the  policy is legally liable, if:
+(A) The insurer issuing the policy becomes an insolvent insurer after September 9, 1971; and
+(B) The claimant or insured is a resident of this state at the time of the occurrence giving rise
+to the unpaid claim, or the  property for which  the claim arises is permanently located in this state.
+(b) “Covered claim” does not include:
+(A) Any amount in excess of the applicable limits of liability provided by an insurance policy
+to which ORS 734.510 to 734.710 apply;
+(B) Any amount due any reinsurer, insurer, insurance pool or underwriting association as
+subrogated recoveries or otherwise;
+(C) Any amount due to a state or to  the federal government, except for a claim by the
+Workers’ Benefit Fund under this section;
+[(C)] (D)  [ Except for  claims arising out of workers’ compensation policies subject to ORS chapter
+656,] A claim filed with the association after  the final date set by the court for the filing of claims
+against the liquidator or  receiver of an insolvent insurer , except for a claim that arises out of
+a workers’ compensation policy that is subject to ORS chapter 656 ; or
+[(D)] (E)  Any first party claim  by an insured whose net worth exceeds $25 million on December
+31 of the year next preceding  the date the insurer becomes an insolvent insurer, provided that an
+insured’s net worth on such date is deemed to include the aggregate net worth of the insured  and
+all of [ its] the insured’s  subsidiaries as calculated on a consolidated basis.
+(5) “Cybersecurity insurance” means  direct insurance that is not otherwise excluded
+under ORS 734.540 from the application of ORS 734.510 to 734.710 and that:
+(a) Involves first-party and third-party coverage in a policy or endorsement;
+(b) Is written on a direct, admitted basis; and
+(c) Covers losses and loss mitigation that arise out of or are related to:
+(A) A breach of security, as defined in ORS 646A.602;
+(B) An unauthorized intrusion into a network or security system;
+(C) Identity theft;
+(D) The presence, and the effects or results, of a computer virus or ransomware;
+(E) Cyber extortion; or
+(F) Risks and exposures that  are similar or related to the risks or exposures described
+in subparagraphs (A) to (E) of this paragraph.
+[(5)] (6) “Dividend” means any payment made to the  stockholders of a controlled insurer, which
+payment is directly related to ownership of the stock.
+(7) “Incident or occurrence” means:
+(a) One proximate, uninterrupted or continuing cause  that results in an injury or dam-
+age, even if:
+(A) The damage or injury consists of  separable components or affects different items;
+and
+(B) More than one claim or claimant results from the cause.
+(b) A single cause or condition, exposure to  which over a period of years results in con-
+tinuous, indivisible injury or damage.
+[(6)] (8) “Insolvent insurer” means a member insurer:
+(a) Authorized to transact insurance in this state either at the time the policy was  issued or at
+the time of the occurrence giving rise to the unpaid claim;
+(b) Against which a final order of liquidation, with a finding of insolvency, has  been entered by
+a court of competent jurisdiction in the insurer’s domicile after September 9, 1971; and
+(c) With respect to which no  order, judgment or finding relating to the insolvency of the insurer,
+whether preliminary or temporary in nature or otherwise, has been  issued by a court of competent
+jurisdiction  or  by any insurance commissioner, insurance department or similar official or body prior
+to September 9, 1971, or which was in fact insolvent prior to  September 9, 1971, and such de facto
+Enrolled House Bill 2130 (HB 2130-INTRO) Page 2
+insolvency was or should have been known by the chief insurance regulatory official of [ its] the
+insurer’s domicile.
+[(7)] (9)  “Member insurer” means an insurer, including a reciprocal insurer, authorized to
+transact insurance in this state that writes any  kind of insurance to which ORS 734.510 to 734.710
+apply.
+[(8)] (10)(a)  “Net direct written premiums” means  direct gross premiums written in this state
+on insurance policies to which ORS 734.510 to 734.710 apply,  less return premiums thereon and
+dividends paid or credited to policyholders on such direct business.
+(b) “Net direct written premiums” does not include premiums on contracts between insurers  or
+reinsurers.
+(11) “Novation” means a transaction in which one insurer’s or entity’s existing  policy
+obligation, or  a claim, becomes the direct obligation of another insurer or entity with the
+policyholder’s express consent,  or consent implied from the circumstances, from the notice
+provided to the policyholder  or from the conduct of the parties, at which point the
+policyholder releases the insurer or entity from the existing policy obligation or claim.
+[(9)] (12)  “Plan” means the plan of  operation of the association established pursuant to ORS
+734.590.
+SECTION 4.  ORS 734.540 is amended to read:
+734.540. ORS 734.510 to 734.710 apply to all kinds  of direct insurance except life, health, title,
+surety, credit, mortgage  guaranty, home protection insurance, wet marine and transportation insur-
+ance , [ and] insurance against  the risk of economic loss assumed under a less than fully insured
+employee health benefit plan , whether issued or delivered  as health or casualty insurance , and any
+insurance that a state or the federal government provides or guarantees .
+SECTION 5.  ORS 734.570 is amended to read:
+734.570. The Oregon Insurance Guaranty Association [ shall]:
+[(1) Be obligated to  pay covered claims existing at the time of determination of insolvency of an
+insurer or arising within  30 days after the determination of insolvency. Except for covered claims
+arising out of workers’ compensation policies,  such obligation shall include only that amount of each
+covered claim that is less than $300,000.  The association shall pay the full amount of any covered claim
+arising out of a workers’ compensation policy, less  any amount paid on a covered claim by the
+Workers’ Benefit Fund pursuant to ORS chapter 656. In no event  shall the association be obligated in
+an amount in excess of the obligation of the  insolvent insurer under the policy from which the claim
+arises, or for claims arising after the policy expiration, policy replacement by the  insured or policy
+cancellation caused by the insured. ]
+[(2) Be the insurer to the extent of the association’s obligation on the covered claims and to  such
+extent have all the rights, duties and obligations of the insolvent  insurer as if the insurer had not be-
+come insolvent. ]
+(1) Shall pay covered claims that exist at the time, or that arise within 30 days after,  a
+member insurer has been determined to be insolvent, subject to the following limits  and ex-
+ceptions:
+(a) The association’s obligation to pay a covered claim  that arises from the insolvency
+of a member insurer between September 9, 1971, and December  31, 2024, is only the amount
+of the covered claim that is less than $300,000.
+(b) The association’s obligation to pay a covered claim  that arises from the insolvency
+of a member insurer on or after January 1, 2025, may not exceed $600,000.
+(c) Notwithstanding the  limitations set forth in paragraphs (a) and (b) of this subsection,
+the association shall pay the full amount of any covered claim that  arises out of a workers’
+compensation policy, less any amount the Workers’ Benefit Fund pays on the covered claim
+under ORS chapter 656.
+(d) The association is not obligated to pay:
+(A) Any amount that exceeds the obligation of the  insolvent member insurer under the
+policy from which the claim arises;
+Enrolled House Bill 2130 (HB 2130-INTRO) Page 3
+(B) A claim that arises  after the policy expires or after the insured cancels or replaces
+the policy; or
+(C) More than $600,000 in the aggregate for any claim,  including any first-party or
+third-party claim, that arises out of or is related to  a single incident or occurrence that is
+covered under a cybersecurity  insurance policy or endorsement, regardless of the number
+of claims made or the number of claimants.
+(2) Is  the insurer to the extent of the association’s obligations on covered claims, with
+all of the rights, duties and obligations the insolvent member insurer  would have had if the
+insolvent member insurer had not become insolvent.
+(3) Shall assess member insurers the amounts necessary  to pay the expenses [ incurred by ] the
+association  incurs  in meeting [ its] the association’s  obligations and exercising  [ its] the
+association’s duties and powers under ORS 734.510 to 734.710. The assessments of each  member
+insurer [ shall] must  be in the proportion that the net  direct written premiums of the member
+insurer for the preceding  calendar year bears to the net direct written premiums of all member
+insurers for the preceding calendar  year, but [ shall in no event ] may not  exceed in any one year two
+percent of the  member insurer’s net direct written premiums for the preceding calendar year. Each
+member insurer [ shall] must  be notified of an assessment not later than the 30th day  before the day
+[it] the assessment  is due. If the funds of the association  do not provide in any one year an amount
+sufficient to pay the obligations and expenses of the association, the  funds available [ shall] must
+be prorated among  the obligations and expenses, and the unpaid portions [ shall] must  be paid as
+soon thereafter as funds  become available. If an assessment would cause a member insurer’s finan-
+cial statement to reflect  amounts of capital or surplus less than the minimum amounts required for
+a certificate of authority by any jurisdiction in which the member insurer is authorized to  transact
+insurance, the association may exempt from or defer payment of the assessment,  in whole or in part,
+by the member insurer. However, if the member insurer is a controlled insurer, the association, in
+making determinations regarding the exemption or deferral of assessments, shall treat all  dividends
+paid during the three calendar years  immediately preceding the year in which the assessment is
+made as assets of the insurer just as if such dividends had not  been paid. Each member insurer
+designated as a servicing facility may set off  against any assessment authorized payments made on
+covered claims and expenses  the member insurer  incurred in [ the payment of such ] paying covered
+claims [ by the member insurer in its ] in the member insurer’s  capacity as a servicing facility.
+(4) Shall investigate claims brought against the association and adjust,  compromise,  defend,
+settle and pay covered claims to the extent of the association’s obligation[ , and].
+(5) Shall  review settlements, releases and judgments to which the insolvent  member  insurer
+or [ its] the insolvent member insurer’s  insureds were parties to  determine the extent to which
+such settlements, releases and judgments may be properly  contested. The association’s obligation
+to defend an insolvent member  insurer’s insured ceases when the association tenders or pays
+an amount that  is equal to the lesser of the statutory limit that applies to the covered claim
+or the policy limit that applies to the covered claim.
+[(5)] (6) Shall reimburse servicing facilities and employees of the association for obligations and
+expenses the servicing facilities and employees  incurred  and paid in the handling of claims on
+behalf of the association[ , and].
+(7) Shall pay all other expenses the association incurs in carrying out ORS 734.510 to 734.710.
+SECTION 6.
+ ORS 734.580 is amended to read:
+734.580. The Oregon Insurance Guaranty Association may:
+(1) [ With the approval of  the Director of the Department of Consumer and Business Services, ]
+Employ or retain [ such] persons or designate [ such] servicing facilities  [ as] that  are necessary to
+handle claims and perform the other duties  of the association , subject to the approval of the Di-
+rector of the Department of Consumer and Business Services . Servicing facilities  so designated
+may be foreign corporations or associations.
+(2) Borrow funds necessary to  carry out ORS 734.510 to 734.710, in such manner as may be
+specified in the plan.
+Enrolled House Bill 2130 (HB 2130-INTRO) Page 4
+(3) Sue or be sued.
+(4) Negotiate and become a party to [ such] contracts [ as] that  are necessary to carry out ORS
+734.510 to 734.710.
+(5) Refund to member insurers,  at the end of any calendar year, [ refund to member insurers, ]
+in proportion to [ an] each member  insurer’s payments to the association,  that amount by which the
+board of  directors [ find] finds that the funds of the association exceed [ its] the association’s  cur-
+rent claims and expenses plus the liabilities estimated for the coming year.
+(6) Pay any claim made under a cybersecurity insurance  policy, at the association’s sole
+discretion and without assuming any duty to pay, if  the claim is covered by a cybersecurity
+insurance policy of an insolvent insured on behalf of an insured with the  net worth described
+in ORS 734.695 (2)(a). In all cases in which the association pays under  this subsection a claim
+made on behalf of an insured with the net worth described in ORS  734.695 (2)(a), the associ-
+ation may recover the amount paid as provided under ORS 734.695.
+[(6)] (7)  Perform [ such] any  other acts [ as] that  are  necessary or proper to carry out ORS
+734.510 to 734.710.
+SECTION 7.
+ ORS 734.640 is amended to read:
+734.640. [(1) Any person who has  a claim under an insurance policy against an insurer other than
+an insolvent insurer which would also be a covered claim against an  insolvent insurer must first ex-
+haust the remedies under such policy. ]
+(1)(a) A person need not exhaust  any right available under an insolvent member insurer’s
+policy, but if the person has a claim under an insurance  policy that arises from the same
+facts, injury or loss from  which a covered claim against the association arises, whether or
+not the  insolvent member insurer issued the policy, the person must first exhaust all cov-
+erage under the policy, including the right to a defense, before the association  must pay the
+covered claim. The association’s payment obligation must be reduced by  the full applicable
+limits set forth in the other  insurance policy and the association must receive a full credit
+for the limits. If the policy does not set forth  applicable limits, the claim against the asso-
+ciation must be reduced by the amount of the total recovery.
+(b) A claim under this subsection includes any amount that  is payable by or on behalf
+of a self-insured claimant.
+(c) A claim arises from the same facts, injury or loss  from which a covered claim against
+the association arises if the person that makes a claim under a policy of liability insurance
+is jointly and severally liable, or is a joint tortfeasor, with a  person that is covered under the
+policy of an insolvent member insurer under which the covered claim arises.
+(d) Before making a claim against the association, a person  that has a claim in which the
+injury or loss is alleged to result from exposure to, or the release of, asbestos or any envi-
+ronmental pollutant or contaminant must first exhaust all coverage available to the person
+under any and all other insurance policies that cover the claim  during all periods in which
+the other  insurance policies are available to the person, even if an insolvent member insurer
+provided the only coverage for the claim when the exposure or release allegedly occurred.
+(2) Any person [ who] that has a claim that may also be  recovered from one or more insurance
+guaranty agencies  that perform functions similar to that of the Oregon Insurance Guaranty Associ-
+ation shall first seek recovery from whichever organization  serves the place of residence of the in-
+sured, except that:
+(a) Recovery on  first party claims for damage to property with a permanent location [ shall]
+must first be sought from whichever organization serves the location of the property; and
+(b) Recovery on workers’ compensation claims [ shall] must  first be  sought from whichever or-
+ganization serves the residence of the claimant.
+(3) Any recovery under ORS 734.510 to 734.710 from the  association [ shall] must  be reduced by
+the amount of any recovery [ pursuant to subsections (1) and (2) of ] under this section.
+SECTION 8.
+ ORS 734.695 is amended to read:
+Enrolled House Bill 2130 (HB 2130-INTRO) Page 5
+734.695. (1) The insured of an insolvent insurer [ may not be ] is not  personally liable for amounts
+due any reinsurer, insurer, insurance pool or underwriting association as subrogation recoveries or
+otherwise up to the applicable limits of liability provided by the insurance policy issued by  the in-
+solvent insurer.
+(2) Notwithstanding the provisions of subsection (1) of this  section, and except for claims arising
+out of workers’ compensation policies subject to ORS chapter 656, the  Oregon Insurance Guaranty
+Association may recover from the following persons the amount of any covered  claim , including
+defense fees,  paid on behalf of such person under ORS 734.510 to 734.710:
+(a) Any insured whose net worth exceeds $25 million  on December 31 of the year next preceding
+the date the insurer becomes  an insolvent insurer and whose liability obligations to other persons
+are satisfied in whole or in part by payments made under ORS 734.510 to 734.710; and
+(b) Any person who is an affiliate of the insolvent  insurer and whose liability obligations to
+other persons are satisfied in whole or in part by payments made under ORS 734.510 to 734.710.
+(3) Notwithstanding subsection (1) of this section, the association  may recover from an
+insured with the net worth described in subsection (2)(a) of this section:
+(a) All payments the association made  to or on behalf of the insured for a claim under
+a cybersecurity insurance policy, whether the payment was for indemnity, defense or an-
+other purpose; and
+(b) The association’s legal  fees and court costs in any action the association brings to
+recover the payments.
+Passed by House March 11, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate April 29, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 2130 (HB 2130-INTRO) Page 6
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 646A.602, ORS 734.510, ORS 734.540, ORS 734.550, ORS 734.570, ORS 734.580, ORS 734.590, ORS 734.640, ORS 734.695
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `ef196640226b06da1325997846bd46c8a1e31c9084a95731bcb8f30ab0f2f0a4` (snapshot `_meta/snapshots/measure-2025r1-hb2130-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2130/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `091ffd14605ef54e532321b724bdd68e0568480f99d49ce2272b8d0cbf983434` (snapshot `_meta/snapshots/measure-2025r1-hb2130-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2130/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2130> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

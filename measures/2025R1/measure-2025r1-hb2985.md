@@ -1,0 +1,811 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2985
+title: 'HB 2985 (2025R1): Modifies provisions relating to the administrative proceedings of the Public
+  Utility Commission.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2985
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2985/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: c249846cc0ab5f1f8492553cfaf017b6332acd45ac25856f4a5b556765134fa5
+snapshot_id: measure-2025r1-hb2985-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 137.124
+  - ORS 161.315
+  - ORS 183.315
+  - ORS 183.410
+  - ORS 183.413
+  - ORS 183.415
+  - ORS 183.417
+  - ORS 183.425
+  - ORS 183.440
+  - ORS 183.450
+  - ORS 183.452
+  - ORS 183.458
+  - ORS 183.460
+  - ORS 183.464
+  - ORS 183.470
+  - ORS 183.471
+  - ORS 183.480
+  - ORS 183.482
+  - ORS 183.625
+  - ORS 183.745
+  - ORS 192.324
+  - ORS 192.338
+  - ORS 192.345
+  - ORS 192.355
+  - ORS 199.430
+  - ORS 246.190
+  - ORS 396.125
+  - ORS 396.160
+  - ORS 469A.005
+  - ORS 469A.120
+  - ORS 469A.180
+  - ORS 469A.400
+  - ORS 469A.445
+  - ORS 657.010
+  - ORS 657B.010
+  - ORS 657B.150
+  - ORS 657B.200
+  - ORS 657B.210
+  - ORS 657B.220
+  - ORS 660.060
+  - ORS 756.090
+  - ORS 756.115
+  - ORS 756.125
+  - ORS 756.160
+  - ORS 756.450
+  - ORS 756.512
+  - ORS 756.515
+  - ORS 756.518
+  - ORS 756.521
+  - ORS 756.543
+  - ORS 756.558
+  - ORS 756.568
+  - ORS 756.610
+  - ORS 756.990
+  - ORS 757.039
+  - ORS 757.072
+  - ORS 757.210
+  - ORS 757.215
+  - ORS 757.963
+  - ORS 757.991
+  - ORS 757.993
+  - ORS 757.994
+  - ORS 757.995
+  - ORS 758.010
+  - ORS 758.015
+  - ORS 758.017
+  - ORS 758.020
+  - ORS 758.302
+  - ORS 758.455
+  - ORS 759.450
+  - ORS 759.455
+  - ORS 759.990
+  - ORS 774.180
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2985
+prefix_meaning: House Bill
+catch_line: Modifies provisions relating to the administrative proceedings of the Public Utility Commission.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act changes the laws about how the PUC conducts proceedings. (Flesch Readability\
+  \ Score: 72.6). \n\tModifies provisions relating to the administrative proceedings of the Public Utility\
+  \ Commission."
+relating_to: Relating to the Public Utility Commission.
+relating_to_full: Relating to the Public Utility Commission; creating new provisions; amending ORS 183.315,
+  183.464, 183.471, 469A.120, 469A.445, 756.515, 756.518, 756.558, 756.568, 756.610, 756.990, 757.991,
+  757.993, 757.994, 757.995, 758.020, 758.302, 758.455 and 759.455; and repealing ORS 756.450, 756.512,
+  756.521 and 756.543.
+at_the_request_of: null
+lc_number: 2187
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-04-15T23:01:32'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 44429
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 137.124
+  - ORS 161.315
+  - ORS 183.315
+  - ORS 183.410
+  - ORS 183.413
+  - ORS 183.415
+  - ORS 183.417
+  - ORS 183.425
+  - ORS 183.440
+  - ORS 183.450
+  - ORS 183.452
+  - ORS 183.458
+  - ORS 183.460
+  - ORS 183.464
+  - ORS 183.470
+  - ORS 183.471
+  - ORS 183.480
+  - ORS 183.482
+  - ORS 183.625
+  - ORS 183.745
+  - ORS 192.324
+  - ORS 192.338
+  - ORS 192.345
+  - ORS 192.355
+  - ORS 199.430
+  - ORS 246.190
+  - ORS 396.125
+  - ORS 396.160
+  - ORS 469A.005
+  - ORS 469A.120
+  - ORS 469A.180
+  - ORS 469A.400
+  - ORS 469A.445
+  - ORS 657.010
+  - ORS 657B.010
+  - ORS 657B.150
+  - ORS 657B.200
+  - ORS 657B.210
+  - ORS 657B.220
+  - ORS 660.060
+  - ORS 756.090
+  - ORS 756.115
+  - ORS 756.125
+  - ORS 756.160
+  - ORS 756.450
+  - ORS 756.512
+  - ORS 756.515
+  - ORS 756.518
+  - ORS 756.521
+  - ORS 756.543
+  - ORS 756.558
+  - ORS 756.568
+  - ORS 756.610
+  - ORS 756.990
+  - ORS 757.039
+  - ORS 757.072
+  - ORS 757.210
+  - ORS 757.215
+  - ORS 757.963
+  - ORS 757.991
+  - ORS 757.993
+  - ORS 757.994
+  - ORS 757.995
+  - ORS 758.010
+  - ORS 758.015
+  - ORS 758.017
+  - ORS 758.020
+  - ORS 758.302
+  - ORS 758.455
+  - ORS 759.450
+  - ORS 759.455
+  - ORS 759.990
+  - ORS 774.180
+  from_relating_to_full:
+  - ORS 183.315
+  - ORS 183.464
+  - ORS 183.471
+  - ORS 469A.120
+  - ORS 469A.445
+  - ORS 756.450
+  - ORS 756.512
+  - ORS 756.515
+  - ORS 756.518
+  - ORS 756.521
+  - ORS 756.543
+  - ORS 756.558
+  - ORS 756.568
+  - ORS 756.610
+  - ORS 756.990
+  - ORS 757.991
+  - ORS 757.993
+  - ORS 757.994
+  - ORS 757.995
+  - ORS 758.020
+  - ORS 758.302
+  - ORS 758.455
+  - ORS 759.455
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2985>.
+
+# HB 2985 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2985, 2025 Regular Session (2025R1)
+- **LC number:** 2187
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-04-15T23:01:32
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 44429 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2985/Introduced>.
+
+## Summary
+
+**Catchline:** Modifies provisions relating to the administrative proceedings of the Public Utility Commission.
+
+**Relating to:** Relating to the Public Utility Commission.
+
+Digest: The Act changes the laws about how the PUC conducts proceedings. (Flesch Readability Score: 72.6). 
+ Modifies provisions relating to the administrative proceedings of the Public Utility Commission.
+
+**RelatingToFull (verbatim upstream field):** Relating to the Public Utility Commission; creating new provisions; amending ORS 183.315, 183.464, 183.471, 469A.120, 469A.445, 756.515, 756.518, 756.558, 756.568, 756.610, 756.990, 757.991, 757.993, 757.994, 757.995, 758.020, 758.302, 758.455 and 759.455; and repealing ORS 756.450, 756.512, 756.521 and 756.543.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2985
+Sponsored by Representative HELM (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes the laws about how the PUC conducts proceedings. (Flesch  Readability
+Score: 72.6).
+Modifies provisions relating to the administrative proceedings  of the Public Utility Commission.
+A BILL FOR AN ACT
+Relating to the Public Utility Commission; creating new provisions; amending ORS 183.315, 183.464,
+183.471, 469A.120, 469A.445, 756.515, 756.518, 756.558, 756.568, 756.610, 756.990, 757.991, 757.993,
+757.994, 757.995, 758.020, 758.302, 758.455 and 759.455; and repealing ORS  756.450, 756.512,
+756.521 and 756.543.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 183.315 is amended to read:
+183.315. (1) The provisions of ORS 183.410, 183.415, 183.417, 183.425, 183.440,  183.450, 183.452,
+183.458, 183.460, 183.470 and 183.480 do not apply to local government boundary commissions created
+pursuant to  ORS 199.430, the Department of Revenue, State Accident Insurance Fund Corporation,
+Department of Consumer and Business Services with respect  to its functions under ORS chapters
+654 and  656, State Board of Parole and Post-Prison Supervision or Psychiatric Security Review
+Board with respect to its functions under ORS 161.315 to 161.351.
+(2) This chapter does not apply with respect to actions of the Governor authorized under ORS
+chapter 240 and ORS 396.125 or actions of  the Adjutant General authorized under ORS 396.160 (14).
+(3) The provisions of ORS 183.410, 183.415, 183.417,  183.425, 183.440, 183.450, 183.452, 183.458 and
+183.460 do not apply to the Employment Appeals Board or the Employment Department.
+(4) The Employment Department shall be exempt from the provisions of this chapter  to the ex-
+tent that a formal finding of the United States Secretary of Labor is made that such  provision con-
+flicts with the terms of  the federal law, acceptance of which by the state is a condition precedent
+to continued certification by the United States Secretary of Labor of the state’s law.
+(5) The provisions of  ORS 183.415 to 183.430, 183.440 to 183.460, 183.470 to 183.485 and 183.490
+to 183.500 do not apply to orders issued to persons who:
+(a) Have been committed pursuant to ORS 137.124 to  the custody of the Department of Cor-
+rections or are otherwise confined in a Department of Corrections facility; or
+(b) Seek to visit an adult in custody confined in a Department of Corrections facility.
+[(6) ORS 183.410, 183.415, 183.417,  183.425, 183.440, 183.450, 183.460, 183.470 and 183.482 (3) do
+not apply to the Public Utility Commission. Except  as provided in ORS 774.180, judicial review of an
+order issued by the commission in a contested case may  be sought only  by a party to the contested
+case.]
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2187
+[(7)] (6) The provisions of this chapter do not apply to the suspension, cancellation or  termi-
+nation of an apprenticeship or training agreement under ORS 660.060.
+[(8)] (7) The provisions of ORS 183.413 to 183.497 do not apply to administrative proceedings
+conducted under rules adopted by the Secretary of State under ORS 246.190.
+SECTION 2.
+ ORS 183.464 is amended to read:
+183.464. (1) Except as otherwise provided in subsections (1) to (4) of this section, unless a hear-
+ing officer is authorized  or required by law or agency rule to issue a final order, the hearing officer
+shall prepare and serve on the agency and  all parties to a contested case hearing a proposed order,
+including recommended  findings of fact and conclusions of law. The proposed order shall become
+final after the 30th day following the date of service of the proposed  order, unless the agency within
+that period issues an amended order.
+(2) An agency may  by rule specify a period of time after which a proposed order will become
+final that is different from that specified in subsection (1) of this section.
+(3) If an agency determines that  additional time will be necessary to allow the agency ade-
+quately to review a proposed order in a contested case, the agency may extend the time after  which
+the proposed order will become final by a specified period of time. The agency shall  notify the par-
+ties to the hearing of the period of extension.
+(4) Subsections (1) to [ (4)] (3) of this section do not apply to [ the Public Utility Commission  or ]
+the Energy Facility Siting Council.
+(5) The Governor may exempt any agency or any class  of contested case hearings before an
+agency from the requirements in whole or part of subsections (1) to [ (4)] (3) of this section by
+executive order. The executive order shall contain a statement of the reasons for the exemption.
+SECTION 3.  ORS 183.471, as amended by  section 65, chapter 110, Oregon Laws 2024, is
+amended to read:
+183.471. (1) When an  agency issues a final order in a contested case, the agency shall maintain
+the final order in a digital format that:
+(a) Identifies the final order by the date it was issued;
+(b) Is suitable for indexing and searching; and
+(c) Preserves  the textual attributes of the document, including the manner in which the docu-
+ment is paginated and any boldfaced, italicized or underlined writing in the document.
+(2) The Oregon State Bar may request that an agency provide the Oregon State Bar, or  its
+designee, with electronic  copies of final orders issued by the agency in contested cases. The request
+must be in writing. No later than  30 days after receiving the request, the agency, subject to ORS
+192.338, 192.345 and 192.355, shall provide the Oregon State Bar, or its designee,  with an electronic
+copy of all final orders identified in the request.
+(3) Notwithstanding ORS 192.324, an agency may not  charge a fee for the first two requests
+submitted under this section in a  calendar year. For any subsequent request, an agency may impose
+a fee in  accordance with ORS 192.324 to reimburse the agency for the actual costs of complying with
+the request.
+(4) For purposes of  this section, a final order entered in a contested case by an administrative
+law judge under ORS 183.625 (3) is a final order issued by the  agency that authorized the adminis-
+trative law judge to conduct the hearing.
+(5) This section does not apply to final orders by default  issued under ORS 183.417 (3) or to final
+orders issued in contested cases by:
+(a) The Department of Revenue;
+(b) The State Board of Parole and Post-Prison Supervision;
+(c) The Department of Corrections;
+(d) The Employment Relations Board;
+[(e) The Public Utility Commission of Oregon; ]
+[(f)] (e) The Oregon Health Authority;
+[(g)] (f) The Land Conservation and  Development Commission, except for enforcement orders
+under section 3, chapter 110, Oregon Laws 2024;
+[(h)] (g) The Land Use Board of Appeals;
+[(i)] (h) The Division of Child Support of the Department of Justice;
+[(j)] (i) The  Department of Transportation, if the final order relates to the suspension, revocation
+or cancellation of identification cards, vehicle registrations, vehicle  titles or driving privileges or
+to the assessment of taxes or stipulated settlements in the regulation of vehicle related businesses;
+[(k)] (j) The Employment Department or the Employment Appeals Board, if the final order  re-
+lates to benefits as defined in ORS 657.010;
+[(L)] (k) The  Employment Department, if the final order relates to an assessment of unemploy-
+ment tax for which a hearing was not held;
+[(m)] (L) The Employment Department, if the final order relates to:
+(A) Benefits, as defined in ORS 657B.010;
+(B) Employer and employee contributions under ORS 657B.150 for which  a hearing was not held;
+(C) Employer-offered benefit plans approved under ORS 657B.210 or  terminated under ORS
+657B.220; or
+(D) Employer assistance grants under ORS 657B.200; or
+[(n)] (m) The Department  of Human Services, if the final order was not related to licensing or
+certification.
+SECTION 4.
+ ORS 756.515 is amended to read:
+756.515. (1) Whenever the Public Utility Commission believes that any  rate may be unreasonable
+or unjustly discriminatory, or that any service is unsafe or inadequate, or is  not afforded, or that
+an investigation  of any matter relating to any public utility or telecommunications utility or other
+person should be made, or relating to  any person to determine if such person is subject to the
+commission’s regulatory jurisdiction,  the commission may on motion summarily investigate any such
+matter, with or without notice.
+(2) If after making such investigation the commission  is satisfied that sufficient grounds exist
+to warrant a hearing being ordered upon any such matter,  the commission shall furnish any public
+utility or telecommunications utility or other person  interested a statement notifying it of the mat-
+ters under investigation, which statement shall  be accompanied by a notice fixing the time and place
+for the hearing [ upon such matters in the manner provided in ORS 756.512 for  notice of complaint ]
+in the manner provided in ORS 183.415 .
+[(3) Thereafter proceedings shall  be had and conducted in reference to the matters investigated in
+like manner as though complaint had been filed with the commission relative thereto, and the same
+orders may be made in reference thereto as if such investigation had been made on complaint. ]
+(3) Proceedings under subsection (2)  of this section shall be conducted as provided in ORS
+183.413 to 183.470 and 756.500 to 756.610.
+(4) The commission may, after making an investigation on the  commission’s motion, but without
+notice or hearing, make  such findings and orders as the commission deems justified or required by
+the results of such investigation. Except as provided in subsections (5) and (6) of this section  such
+findings and orders have the same legal force and effect as any other finding or order of the  com-
+mission.
+(5) In addition to any other  remedy provided by law, any party aggrieved by an order entered
+pursuant to subsection (4) of this section  may request the commission to hold a hearing to determine
+whether the order should continue in effect. Any such request for  hearing shall be submitted to the
+commission  not  later than 15 days after the date of service of the order, and the commission shall
+hold the hearing not later than 60 days after receipt of such a request for hearing.
+(6) If the commission receives a request for hearing pursuant  to subsection (5) of this section,
+the order is suspended pending the outcome of the hearing  unless the commission finds that the
+order is necessary for the  public health or safety or to prevent the dissipation of assets of a business
+or activity subject to the commission’s regulatory jurisdiction.
+SECTION 5.
+ ORS 756.518 is amended to read:
+756.518. [(1) Except as otherwise  provided ] The provisions of ORS 183.413 to 183.470 and 756.500
+to 756.610 apply to and govern  all hearings upon any matter or issue coming before the Public
+Utility Commission under any statute administered by  the commission, whether instituted on the
+application, petition or complaint of others or initiated by the  commission, together with the orders
+of the commission therein and the review thereof in the courts.
+[(2) Upon request  of any party in a major proceeding before the commission, the commission shall
+afford the parties an opportunity for oral argument before a final order is issued. There must be a
+quorum of the commission present  at the time the oral argument is made. The commission shall adopt
+rules that establish criteria for determining which proceedings  give rise to a right to oral argument
+under this subsection. In addition, the commission may adopt rules governing participation in oral ar-
+guments, cross-examination of witnesses, draft or proposed orders  or such other matters as the com-
+mission deems appropriate. ]
+SECTION 6.
+ ORS 756.558 is amended to read:
+756.558. (1) At the conclusion  of the taking of evidence  in a proceeding held by the Public
+Utility Commission, the [ Public Utility ] commission shall declare the taking of evidence concluded.
+Thereafter no additional evidence shall be  received except upon the order of the commission and a
+reasonable opportunity of the parties to examine any witnesses with reference to the additional  ev-
+idence and otherwise rebut and meet such additional evidence.
+[(2) After the completion of the taking of evidence,  and within a reasonable time, the commission
+shall prepare and enter findings of fact and  conclusions of law upon the evidence received in the matter
+and shall make and enter the order of the commission thereon. The findings of fact and  conclusions
+of law may be embodied in the same instrument with the order or may be embodied  in a separate in-
+strument. The findings of fact, conclusions of law and order thereon shall  be signed by the commission.
+The order shall state the date it becomes effective. A copy of the  findings of fact and conclusions of law
+and a copy of the order shall, forthwith upon the entry  of the same, be served upon each of the parties
+to the proceeding. ]
+[(3)] (2) Upon application of  any person, the commission shall furnish certified copies, under the
+seal of any order made by the commission.
+SECTION 7.  ORS 756.568 is amended to read:
+756.568. The Public Utility Commission may at any time, upon notice to the public utility  or
+telecommunications utility and after opportunity to be heard as provided in  ORS 183.413 to 183.470
+and 756.500 to 756.610, rescind, suspend or  amend any order made by the commission. [ Copies of the
+same shall be served and take effect as provided in ORS 756.558 for original orders. ]
+SECTION 8.
+ ORS 756.610 is amended to read:
+756.610. (1)[(a)] Except as provided in  [ subsections (2) and (3) ] subsection (2)  of this section,
+final orders of the Public Utility Commission are subject to judicial review as orders under the
+provisions of ORS 183.480 to 183.497.
+[(b) Binding rulings issued under ORS 756.450 are subject to review in the Court  of Appeals in
+the manner provided in ORS 183.480 for the review of orders in contested cases. ]
+[(2) ORS 183.482 (3) does not apply  to judicial review of an order of the Public Utility Commission.
+At any time after filing a petition for judicial review of a final order of the commission in a contested
+case, the petitioner may  apply to the Court of Appeals for a stay of the order until the final disposition
+of the appeal. The court may grant a stay for cause shown. As a condition of granting a stay, the court
+may require a bond or other security, or impose such other conditions as the court deems appropriate.
+A stay may be granted only after notice to the  commission and opportunity for hearing. Any bond re-
+quired by the court must  be executed in favor of the commission for the benefit of interested persons,
+and may be enforced by the commission or by any interested person. ]
+[(3)] (2) An order of the Public Utility  Commission related to the petition for a certificate of
+public convenience and necessity under ORS 758.015, where the petitioner also  seeks approval from
+the Energy Facility Siting Council  for the proposed transmission line, is subject to judicial review
+as provided in ORS 758.017.
+SECTION 9.
+ ORS 756.990 is amended to read:
+756.990. (1) Any public utility or  telecommunications utility that fails to comply with an order
+or subpoena issued pursuant to ORS 756.090 shall forfeit, for each day it so fails,  a sum of not less
+than $50 nor more than $500.
+(2) Except where a penalty is otherwise provided by law,  any public utility, telecommunications
+utility or other person  subject to the jurisdiction of the Public Utility Commission shall forfeit a sum
+of not less than $100 nor more than $10,000 for each time that the person:
+(a) Violates any statute administered by the commission;
+(b) Does any act prohibited, or fails to perform any duty enjoined upon the person;
+(c) Fails to obey any lawful requirement or order made by the commission; or
+(d) Fails to obey any judgment made by any court upon the application of the commission.
+(3) Violation of ORS 756.115 is a Class A violation.
+(4) Violation of ORS 756.125 is a Class C misdemeanor.
+[(5) Violation of ORS 756.543 (1) is a Class A misdemeanor. ]
+[(6)] (5) In construing and enforcing this section, the act, omission or failure of any officer, agent
+or other person acting for or employed by any public utility, telecommunications utility or other
+person subject to  the jurisdiction of the commission acting within the scope of the person’s em-
+ployment shall in every case be deemed  to be the act, omission or failure of such public utility,
+telecommunications utility or other person subject to the  jurisdiction of the commission. With re-
+spect to any violation of any statute  administered by the commission, any penalty provision applying
+to such a violation by a public utility or telecommunications utility  shall apply to such a violation
+by any other person.
+[(7)] (6) Except when provided by law that a penalty, forfeiture or other sum  be paid to the
+aggrieved party, or as provided in ORS 757.994 (1),  all penalties or forfeitures or other sums col-
+lected or paid under the provisions of any law administered  by the commission shall be paid into the
+General Fund and credited to the Public Utility Commission Account.
+SECTION 10.
+ ORS 469A.120 is amended to read:
+469A.120. (1) Except  as provided in ORS 469A.180 (5), all prudently incurred costs associated
+with complying with ORS 469A.005 to  469A.210 are recoverable in the rates of an electric company,
+including interconnection costs, costs associated with using physical or financial  assets to integrate,
+firm or shape  renewable energy sources on a firm annual basis to meet retail electricity needs,
+above-market costs and other costs associated with transmission and delivery of qualifying electric-
+ity to retail electricity consumers.
+(2)(a) The Public Utility Commission shall establish an automatic  adjustment clause as defined
+in ORS 757.210 or another method that allows timely recovery of costs prudently  incurred by an
+electric company to construct  or otherwise acquire facilities that generate electricity from
+renewable energy sources, costs related to associated electricity  transmission and costs related to
+associated energy storage.
+(b) Notwithstanding any other provision of law,  upon the request of any interested person the
+commission shall conduct a proceeding to establish the terms of the  automatic adjustment clause
+or other method for timely recovery  of costs. The commission shall provide parties to the proceeding
+with the procedural rights described in ORS 183.413 to 183.470 and 756.500 to 756.610, including but
+not limited to the opportunity to develop an evidentiary  record, conduct discovery, introduce evi-
+dence, conduct cross-examination and  submit written briefs and oral argument. The commission shall
+issue a written order with findings on the evidentiary record developed in the proceeding.
+(3)(a) An electric company must file with the commission for approval of  a proposed rate change
+to recover costs under the terms of an automatic adjustment clause or other  method for timely re-
+covery of costs established under subsection (2) of this section. As part of an electric company’s
+request for approval under this subsection, the electric company may specify the  date or the dates
+on which the electric company will begin to include in the electric  company’s rates, in full or in
+part, the costs recoverable under subsection (2)  of this section. The commission may accept or reject
+the date or dates specified by the electric company.
+(b) Notwithstanding any other provision of law, upon the  request of any interested person the
+commission shall conduct a proceeding  to determine whether to approve a proposed change in rates
+under the automatic adjustment  clause or other method for timely recovery of costs. The commission
+shall provide parties to the proceeding with the procedural rights described in ORS 183.413 to
+183.470 and  756.500 to 756.610, including  but not limited to the opportunity to develop an
+evidentiary record, conduct  discovery, introduce evidence, conduct cross-examination and submit
+written briefs and oral argument. The commission  shall issue a written order with findings on the
+evidentiary record developed in the proceeding.
+(c) A filing made  under this subsection is subject to the commission’s authority under ORS
+757.215 to suspend a rate, or schedule of rates, for investigation.
+SECTION 11.
+ ORS 469A.445 is amended to read:
+469A.445. (1) An electric company  or an organization that represents broad customer interests
+and that has a written agreement with  an electric company pursuant to ORS 757.072 may request
+that the Public Utility Commission open an investigation to provide accounting for investments
+made, costs incurred or forecasted costs estimated by the electric company for  the purpose of com-
+pliance with ORS 469A.400 to 469A.475. In making a request under this  section, the petitioner shall
+provide information regarding the investments or costs sufficient to  determine whether the invest-
+ments or costs contribute to compliance with ORS 469A.400 to 469A.475.
+(2)(a) The commission shall provide parties to the proceeding with the  procedural rights de-
+scribed in ORS 183.413 to 183.470 and  756.500 to 756.610, including the opportunity to develop an
+evidentiary record, conduct  discovery, introduce evidence, conduct cross-examination and submit
+written briefs and oral arguments.
+(b) The petitioner shall have the burden of showing, by a  preponderance of the evidence, that
+the investment or cost contributes to compliance with ORS 469A.400 to 469A.475.
+(c) The commission shall issue a written order with findings on  the evidentiary record develop-
+ment in the proceeding.
+(d) Except as provided under  ORS 756.610, a determination by the commission that an invest-
+ment or cost contributes to compliance  with ORS 469A.400 to 469A.475 is final and may not be re-
+examined.
+(3) Upon  determining that an investment or cost of an electric company contributes to compli-
+ance with ORS 469A.400 to 469A.475, the commission shall determine the actual  or anticipated rate
+impact for the investment  or cost on the same basis and with the same treatment for similarly sit-
+uated investments or costs in  the most recently approved general rate case or other relevant rate
+making proceeding. The commission shall use the actual or anticipated rate impact of each  invest-
+ment or cost to calculate the cumulative rate impact and shall:
+(a) Cumulatively calculate the rate impact caused by  all investments or costs that have been the
+subject of a proceeding pursuant to this section, and must be included in calculation for  the time
+period that the investment or cost would affect rates, as adjusted by any  change in net costs ex-
+pected or foreseeable at the time of inclusion;
+(b) Make any  adjustments to the cumulative rate impact if the initial rate treatment was cal-
+culated on the basis of forecasted rate impact;
+(c) Allow parties to the proceeding to propose alternative  rate or accounting treatment of the
+investment or cost to limit the potential rate impact of the investment or cost; and
+(d) Utilize cost allocation methodologies for attributing rate impacts of  investments or costs for
+multistate electric companies.
+(4) Upon a determination that the actual or anticipated cumulative rate  impact calculated under
+subsection (3) of this section exceeds six percent of the annual revenue requirement for a year, the
+commission shall provide an exemption from  further compliance with the requirements of ORS
+469A.400 to 469A.475. An exemption must be:
+(a) Narrowly tailored to otherwise give full force and effect to the requirements of ORS 469A.400
+to 469A.475 that can be complied with without regard to the cumulative rate impact; and
+(b) Limited in duration to only such time as is necessary to  allow for additional investments and
+actual or forecasted costs to be made or incurred without exceeding the cumulative rate impact.
+(5) A determination by the commission made under  this section shall have no effect on and may
+not be used as collateral or presumptive evidence  in any other proceeding that determines rate re-
+covery of the investment or cost, including in a general  rate case or in a proceeding under ORS
+469A.120.
+(6) The commission  may, on its own motion pursuant to ORS 756.515, open a proceeding under
+this section and direct an  electric company to make a filing described under subsection (1) of this
+section.
+SECTION 12.
+ ORS 757.991 is amended to read:
+757.991. (1)(a) Any person or municipality, or any agent, lessee, trustee  or receiver of the person
+or municipality, engaged in the management, operation, ownership or control  of facilities for the
+transmission or distribution of gas by pipeline, or of  facilities for the storage or treatment of gas to
+be transmitted or distributed by pipeline, that fails to comply with ORS 757.039, or fails  to comply
+with any order, rule or regulation of the Public Utility Commission  made pursuant to ORS 757.039,
+is subject to a civil penalty established by rule by the commission.
+(b) The civil penalty amount for a violation or  series of violations described in this section may
+not exceed the administrative civil penalty amount set forth in 49 C.F.R. 190.223 for  a violation or
+series of violations of the applicable federal law described therein.
+(2) Notwithstanding ORS [ 183.315 (6),] 183.745 (7)(d) [and 756.500 to 756.610], civil penalties under
+this section must be imposed by the commission as provided in ORS 183.745.
+(3) Civil penalties collected under this section must be paid into the  General Fund and credited
+to the Public Utility Commission Account as described in ORS 756.990 [ (7)] (6).
+SECTION 13.
+ ORS 757.993 is amended to read:
+757.993. (1) Except as  provided in subsection (2) of this section and in addition to all other
+penalties provided  by law, every person who violates or who procures, aids or abets in the violation
+of any rule of the Oregon Utility Notification Center shall incur  a penalty of not more than $1,000
+for the first violation and not more than $5,000 for each subsequent violation.
+(2) In addition  to all other penalties provided by law, every person who intentionally violates
+or who intentionally procures, aids or abets in the violation of any rule of  the Oregon Utility No-
+tification Center shall incur a penalty of not more than $5,000 for the first violation and  not more
+than $10,000 for each subsequent violation.
+(3) Each violation  of any rule of the Oregon Utility Notification Center shall be a separate of-
+fense. In the case of a continuing violation, each day that the  violation continues shall constitute
+a separate violation.
+(4) Penalties under this section  shall not be imposed except by order following complaint as
+provided in ORS 183.413 to 183.470 and  756.500 to 756.610. A complaint must be filed within two
+years following the date of the violation.
+(5) The Public Utility Commission may reduce any penalty  provided in this section on such
+terms as the commission considers proper if:
+(a) The defendant admits to the violation or violations alleged in the complaint and  makes a
+timely request for reduction of the penalty; or
+(b) The defendant submits to the  commission a written request for reduction of the penalty
+within 15 days from the date of the penalty order.
+(6) If the  amount of the penalty is not paid to the commission, the Attorney General, at the re-
+quest of the commission, shall bring an action in the  name of the State of Oregon in the Circuit
+Court for Marion County to recover the penalty. The action shall not  be commenced until after the
+time has expired for an appeal from the findings, conclusions and order of the commission.
+(7) Notwithstanding any other provision of law, the commission shall  pay penalties recovered
+under this section to the Oregon Utility Notification Center.
+(8) The commission shall not seek penalties under this section except in response  to a complaint
+alleging a violation of  a rule or rules adopted by the Oregon Utility Notification Center. The
+commission may investigate  any such complaint, and the commission shall have sole discretion to
+seek penalties under this section.
+SECTION 14.  ORS 757.994 is amended to read:
+757.994. (1) In addition to all other penalties provided by law, a  person who violates any statute,
+rule or order of the Public Utility Commission related  to water utilities is subject to a civil penalty
+of not more than $500 for each violation. The  commission may require that penalties imposed under
+this section be used for the benefit of the customers of water utilities affected by the violation.
+(2) Notwithstanding ORS 183.745 (7)(d)[ , 183.315 (6) and  756.500 to 756.610], civil penalties under
+this section must be imposed by the commission as provided in ORS 183.745.
+SECTION 15.
+ ORS 757.995 is amended to read:
+757.995. (1) In addition to all other penalties provided by law, violation of ORS 757.963 or a rule
+adopted pursuant to ORS 757.963 is subject to a civil penalty not to exceed $10,000.
+(2) Notwithstanding ORS [ 183.315 (6),] 183.745 (7)(d) [and 756.500 to 756.610], civil penalties under
+this section must be imposed by the Public Utility Commission as provided in ORS 183.745.
+(3) Civil penalties collected under this section must be paid into the  General Fund and credited
+to the Public Utility Commission Account as described in ORS 756.990 [ (7)] (6).
+SECTION 16.  ORS 758.020 is amended to read:
+758.020. (1) The county court,  board of county commissioners or the Department of Transporta-
+tion, when designating the location where poles or  other aboveground facilities described in ORS
+758.010 may be placed on a road or highway which fronts on the ocean or on a  river or other body
+of water and  the water frontage of the highway is being developed or maintained for its scenic or
+recreational value, may require all lines to occupy  the opposite side of the right of way, if such joint
+occupancy  can  be maintained without undue impairment of service or damage to public life and
+property.
+(2) If the owners of such lines are unable to agree on the terms and conditions of  joint occu-
+pancy, such department, court or board  shall request the Public Utility Commission to determine the
+practicability of such joint occupancy and the effect thereof upon adequate  and safe service by the
+prospective joint occupants, the location of the lines, and, if found to be practicable, to fix and
+prescribe the terms  and conditions pursuant to which joint occupancy shall be accomplished. Before
+making or entering an order, such commission shall hold a hearing and make findings  in accordance
+with ORS 183.413 to 183.470 and 756.500 to 756.610. The order of the  commission is subject to ju-
+dicial review in the manner provided by ORS 756.610. In fixing  terms and conditions pursuant to
+which joint occupancy shall be accomplished, the Public Utility Commission shall  require the in-
+stallation by each occupant of standards, devices and equipment  reasonably necessary to protect the
+equipment of the other occupants from damage and the public from injury arising from  such joint
+occupancy.
+(3) The right of any public utility,  telecommunications utility or transmission company to con-
+struct, maintain and  operate on a public highway poles or fixtures is contingent on compliance with
+reasonable requirements established by the Department of  Transportation, county courts, boards of
+county commissioners or the  Public Utility Commission under authority of this section and ORS
+758.010. Such rights are likewise contingent and conditioned on all facilities,  equipment and instal-
+lations being constructed and maintained in strict conformance with  modern and approved stan-
+dards.
+SECTION 17.
+ ORS 758.302 is amended to read:
+758.302. (1) A water utility may  apply to the Public Utility Commission for an order designating
+an area as an exclusive service territory for the water utility.  The commission may designate as an
+exclusive service territory any area that on the date of application is being served in  an adequate
+manner by the applicant and is not being served by any other water provider.
+(2) In addition to the area described in subsection (1) of this section, a private  water utility may
+apply for inclusion in an exclusive service territory  designated for the private water utility any area
+adjacent to the area described in subsection (1) of this section if:
+(a) The applicant plans to extend service  to the adjacent area in the six months immediately
+following the date of the application;
+(b) The adjacent area is not being served by any other water provider; and
+(c) The applicant demonstrates that it is more economical  and feasible to provide services to the
+adjacent area by an extension of the applicant’s existing facilities than by an extension of  the fa-
+cilities of another water provider or community water supply system.
+(3) An application under this section must be made on forms provided by the commission,  con-
+tain all information required  by commission rule and include a copy of the notice of the filing to
+be given to all customers of record. The  applicant shall, within 30 days after filing an application
+under this section, give notice of the filing in the manner  provided by subsection (5) of this section.
+(4) Within 30 days after the filing of an application under this  section, the commission shall give
+notice of the filing to  all other water providers in the areas adjacent to the area described in the
+application.
+(5)(a) A notice given pursuant to this subsection shall be given:
+(A) By mail or electronic mail to all customers  of record of the water utility in the area de-
+scribed in the application;
+(B) By press release to news media local to the area described in the application; and
+(C) By publication in one or more newspapers of general circulation  in the area described in the
+application at least once weekly for two successive weeks.
+(b) The notice must describe  the area of the proposed exclusive service territory and the general
+rate impact to existing customers.
+(6) If the commission, on its own motion, chooses, or if any customer or  customers of the water
+utility request a hearing on the  application within 30 days of the date notice is given under sub-
+section (3) of this section, the commission shall hold  a hearing. The commission shall give notice
+of the time and place of the hearing in the manner provided by subsection (5) of this  section. If the
+hearing is held by reason of  a customer’s request, the commission shall give notice of the hearing
+within 30 days after  the request is received by the commission. The hearing shall be held at a place
+within or conveniently accessible to the area described in the application.
+(7) The  commission may make such investigations relating to an application under this section
+as the commission deems proper, including physical  examination and evaluation of the facilities and
+systems of the  applicant, estimates of their operating costs and revenues, and studies of such other
+information as the commission deems relevant.
+(8) The commission shall enter an order  granting or denying an application for an exclusive
+service  territory  under this section. The order must contain findings of fact supporting the order.
+The commission may grant an application subject to such conditions  and limitations as the com-
+mission deems appropriate.
+(9) ORS 183.413 to 183.470 and  756.500 to 756.610 govern the conduct  of hearings under this
+section and any appeal of the commission’s order.
+(10) If the commission considers  competing applications under subsection (2) of this section to
+extend exclusive service to the same area, there is a disputable presumption that applicants have
+an equal ability to extend, improve, enlarge, build, operate  and maintain existing or proposed facil-
+ities.
+SECTION 18.
+ ORS 758.455 is amended to read:
+758.455. (1) The Public Utility Commission may make such investigations respecting  a contract
+or an application for  the allocation of territory as the commission deems proper including the
+physical examinations and  evaluations of the facilities and systems of the parties to the contract,
+estimates of their operating costs  and revenues and studies of such other information as the com-
+mission deems pertinent.
+(2) Insofar as  applicable and consistent herewith, the provisions of ORS 183.413 to 183.470 and
+756.500 to 756.610 shall govern the conduct of hearings.
+(3) In considering competing applications to serve the same territory,  there shall be a disputable
+presumption that  applicants have an equal ability to extend, improve, enlarge, build, operate and
+maintain existing or proposed facilities.
+SECTION 19.
+ ORS 759.455 is amended to read:
+759.455. (1) Unless exempt  from compliance under section 251(f) of the federal Telecommuni-
+cations Act of 1996 (47 U.S.C. 251(f)), a telecommunications utility shall not:
+(a) Discriminate  against another provider of retail telecommunications services by unreasonably
+refusing or delaying access to the telecommunications utility’s local exchange services.
+(b) Discriminate against another  provider of retail telecommunications services by providing
+access to required facilities on terms or conditions less  favorable than those the telecommunications
+utility provides to itself and its  affiliates. A telecommunications facility, feature or function is a
+required facility if:
+(A) Access to a proprietary facility, feature or function is necessary; and
+(B) Failure to provide access to the  facility, feature or function would impair a telecommuni-
+cations carrier seeking access from providing the services the carrier is seeking to provide.
+(c) Unreasonably degrade or impair the speed, quality or efficiency of access or any other  ser-
+vice, product or facility provided to another provider of telecommunications services.
+(d) Fail to disclose in a timely and uniform manner, upon reasonable request and pursuant to  a
+protective  agreement  concerning proprietary information, all information reasonably necessary for
+the design of network interface equipment, services or software that will  meet the specifications of
+the telecommunications utility’s local exchange network.
+(e) Unreasonably refuse or delay interconnections or provide inferior  interconnections to an-
+other provider of telecommunications services.
+(f) Use basic exchange services  rates, directly or indirectly, to subsidize or offset the cost of
+other products or services offered by the telecommunications utility.
+(g) Discriminate in favor  of itself or an affiliate in the provision and pricing of, or extension of
+credit for, any telephone service.
+(h) Fail to provide a service, product or  facility in accordance with applicable contracts, and
+tariffs and rules of the Public Utility Commission.
+(i) Impose unreasonable or discriminatory restrictions on network elements or the resale  of its
+services, except that:
+(A) The telecommunications utility may require that  residential service not be resold as a dif-
+ferent class of service; and
+(B) The commission may prohibit the resale  of services the commission has approved for pro-
+vision to a not-for-profit entity at rates below those offered to the general public.
+(j) Provide telephone service to a person acting as a  telecommunications provider if the com-
+mission has ordered the telecommunications utility to discontinue telephone service to the person.
+(2) A complaint alleging a violation of subsection (1) of this section shall be heard by the Public
+Utility Commission or, at the  commission’s discretion, by an Administrative Law Judge designated
+by the commission. A hearing under this subsection  shall be conducted in an expedited manner
+consistent with the following:
+(a) The complaint shall be served upon the telecommunications carrier and filed with the  com-
+mission.
+(b) An answer or other responsive pleading to the complaint shall be filed with  the commission
+not more than 10 days  after receipt of the complaint. Copies of the answer or responsive pleading
+shall be served upon the complainant and upon the commission.
+(c) A prehearing conference  shall be held not later than 15 days after the complaint is filed.
+Hearing on the complaint shall commence not later  than 30 days after the complaint is filed. Within
+45 days after the complaint is filed, the commission shall either prepare a final decision or  approve
+as final the decision of the Administrative Law Judge. The final decision shall be issued as an  order
+of the commission [ in the manner provided under ORS 756.558 ].
+(3) If  the commission or Administrative Law Judge finds that a violation of this section has oc-
+curred, the commission shall, within five business days, order  the telecommunications utility to
+remedy the violation within a specified period of time. The commission  may prescribe specific action
+to be taken by the utility, including but not limited to submitting a plan for  preventing future vio-
+lations. If the violation continues beyond the time  period specified in the commission’s order, the
+commission on its own motion or upon the motion of an interested party may seek penalties  as
+provided in ORS 759.990 or otherwise may seek enforcement under  ORS 756.160 or 756.180, or both.
+(4) Total annual penalties imposed on a telecommunications utility under this  section and ORS
+759.450 shall not exceed two percent of the utility’s gross intrastate revenue from the sale of  tele-
+communications services for the year preceding the year in which the violation occurred.
+(5) An order  of the commission under this section is subject to judicial review in the manner
+provided by ORS 756.610.
+(6) The  Court of Appeals shall give proceedings brought before the court under this section
+priority over all other matters before the court.
+SECTION 20.
+ORS 756.450, 756.512, 756.521 and 756.543 are repealed.
+SECTION 21. The amendments to ORS 183.315,  183.464, 183.471, 469A.120, 469A.445,
+756.515, 756.518, 756.558, 756.568, 756.610, 756.990, 757.991,  757.993, 757.994, 757.995, 758.020,
+758.302, 758.455 and 759.455 by sections 1 to 19  of this 2025 Act and the repeal of ORS 756.450,
+756.512, 756.521 and 756.543 by section 20  of this 2025 Act apply to hearings and proceedings
+held by the Public Utility Commission and orders issued by the commission  on or after the
+effective date of this 2025 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 183.315, ORS 183.464, ORS 183.471, ORS 469A.120, ORS 469A.445, ORS 756.450, ORS 756.512, ORS 756.515, ORS 756.518, ORS 756.521, ORS 756.543, ORS 756.558, ORS 756.568, ORS 756.610, ORS 756.990, ORS 757.991, ORS 757.993, ORS 757.994, ORS 757.995, ORS 758.020, ORS 758.302, ORS 758.455, ORS 759.455
+- From bill text (Introduced version): ORS 137.124, ORS 161.315, ORS 183.315, ORS 183.410, ORS 183.413, ORS 183.415, ORS 183.417, ORS 183.425, ORS 183.440, ORS 183.450, ORS 183.452, ORS 183.458, ORS 183.460, ORS 183.464, ORS 183.470, ORS 183.471, ORS 183.480, ORS 183.482, ORS 183.625, ORS 183.745, ORS 192.324, ORS 192.338, ORS 192.345, ORS 192.355, ORS 199.430, ORS 246.190, ORS 396.125, ORS 396.160, ORS 469A.005, ORS 469A.120, ORS 469A.180, ORS 469A.400, ORS 469A.445, ORS 657.010, ORS 657B.010, ORS 657B.150, ORS 657B.200, ORS 657B.210, ORS 657B.220, ORS 660.060, ORS 756.090, ORS 756.115, ORS 756.125, ORS 756.160, ORS 756.450, ORS 756.512, ORS 756.515, ORS 756.518, ORS 756.521, ORS 756.543, ORS 756.558, ORS 756.568, ORS 756.610, ORS 756.990, ORS 757.039, ORS 757.072, ORS 757.210, ORS 757.215, ORS 757.963, ORS 757.991, ORS 757.993, ORS 757.994, ORS 757.995, ORS 758.010, ORS 758.015, ORS 758.017, ORS 758.020, ORS 758.302, ORS 758.455, ORS 759.450, ORS 759.455, ORS 759.990, ORS 774.180
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `c249846cc0ab5f1f8492553cfaf017b6332acd45ac25856f4a5b556765134fa5` (snapshot `_meta/snapshots/measure-2025r1-hb2985-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2985/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2985> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

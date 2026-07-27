@@ -1,0 +1,186 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 874
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Governor Tina Kotek for Oregon Medical Board)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says what the term “Oriental medicine” means. (Flesch Readability Score:  75.5).
+Defines “Oriental medicine.”
+A BILL FOR AN ACT
+Relating to Oriental medicine; amending ORS 677.010 and 677.275.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 677.010 is amended to read:
+677.010. As used  in this chapter, subject to the exemptions in ORS 677.060 and unless the con-
+text requires otherwise:
+(1) “Approved internship” means the first year of post-graduate training served in a hospital that
+is approved by the Oregon Medical Board or by the  Accreditation Council [ of] for Graduate Med-
+ical Education or its successor organization , the American Osteopathic Association or its suc-
+cessor organization  or the Royal College of Physicians  and Surgeons of Canada or its successor
+organization.
+(2) “Approved school of medicine” means a school offering  a full-time resident program of study
+in medicine or osteopathic medicine leading to a degree  of Doctor of Medicine or Doctor of
+Osteopathic Medicine, such program having been fully accredited or conditionally approved by  the
+Liaison Committee on Medical Education, or its successor agency, or  the American Osteopathic
+Association, or its successor agency, or  having been otherwise determined by the board to meet the
+association standards as specifically incorporated into board rules.
+[(3) “Board” means the Oregon Medical Board. ]
+[(4)] (3) “Diagnose” means to examine another person in any manner to determine the source
+or nature of a disease or other physical or mental condition, or to  hold oneself out or represent that
+a person is so examining another person. It is  not necessary that the examination be made in the
+presence of such other person; [ it] the examination  may be made  on information supplied either
+directly or indirectly by such other person.
+[(5)] (4) “Dispense”  means the preparation and delivery of a prescription drug, pursuant to a
+lawful order of a practitioner,  in a suitable container appropriately labeled for subsequent adminis-
+tration to or use by a patient or other individual entitled to receive the prescription drug.
+[(6)] (5) “Dispensing physician” means a physician or podiatric physician  and surgeon who pur-
+chases prescription drugs for the purpose  of dispensing them to patients or other individuals entitled
+to receive the prescription drug and who dispenses them accordingly.
+[(7)] (6) “Drug” means all medicines  and preparations for internal or external use of humans,
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 551
+SB 874
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+intended to be used for the cure, mitigation  or prevention of diseases or abnormalities of humans,
+which are recognized in  any published United States Pharmacopoeia or National Formulary, or
+otherwise established as a drug.
+[(8)] (7) “Fellow” means an individual  who has not qualified under ORS 677.100 (1) and (2) and
+who is pursuing some special line of study as part of a supervised program of a school  of medicine,
+a hospital approved for internship or residency training, or an institution for medical research or
+education that provides for a period of study under the supervision of a  responsible member of that
+hospital or institution, such school, hospital or institution having been approved by the board.
+[(9)] (8) “Intern” means an individual who has entered into a hospital or  hospitals for the first
+year of post-graduate training.
+[(10)] (9) “License” means permission to practice,  whether by license, registration or certifica-
+tion.
+[(11)] (10) “Licensee” means an individual holding a valid license issued by the board.
+(11) “Oriental medicine” means the practice of medicine,  specifically acupuncture and
+traditional Chinese medicine, regulated by this chapter if the medicine is practiced within the
+context of a person’s license to practice acupuncture issued under ORS 677.757 to 677.770.
+(12) “Physical incapacity” means a condition that renders  an individual licensed under this
+chapter unable to practice under that license  with professional skill and safety by reason of physical
+illness or physical deterioration that adversely affects cognition, motor or perceptive skill.
+(13) “Physician” means a person who holds a degree of Doctor of Medicine or Doctor of
+Osteopathic Medicine, or a person  who holds a degree of Doctor of Podiatric Medicine if the context
+in which the term “physician” is  used does not authorize or require the person to practice outside
+the scope of a license issued under ORS 677.805 to 677.840.
+(14) “Podiatric physician and surgeon” means a physician licensed under ORS 677.805 to  677.840
+to practice podiatry.
+(15)(a) “Podiatry” means:
+(A) The diagnosis or the medical, physical  or surgical treatment of ailments of the human foot,
+ankle and tendons directly attached to and governing the function of the foot and  ankle, and treat-
+ment involving the use of a general or spinal  anesthetic if that treatment is performed in a hospital
+licensed under ORS 441.025 or in an ambulatory surgical center licensed by the Oregon Health Au-
+thority and is under the supervision of or in collaboration with a podiatric physician and surgeon;
+(B) Assisting in the performance of surgery, as provided in ORS 677.814; and
+(C) The treatment of skin, skin-related structures and subcutaneous masses, and wounds involv-
+ing skin, skin-related  structures and subcutaneous masses, on the human leg no further proximal
+than the tibial tubercle.
+(b) “Podiatry” does not include administering general or  spinal anesthetics or the amputation
+of the entire foot.
+(16) “Prescribe” means to  direct, order or designate the use of or manner of using by spoken
+or written words or other means.
+(17) “Resident” means an individual who, after the first year of post-graduate training, in  order
+to qualify for some particular specialty in the field of  medicine, pursues a special line of study as
+part of a supervised program of a hospital approved by the board.
+SECTION 2.
+ ORS 677.275 is amended to read:
+677.275. Each administrative law judge conducting hearings on behalf  of the Oregon Medical
+Board is vested with the full authority  of the board to schedule and conduct hearings on behalf and
+[2]
+SB 874
+1
+2
+3
+4
+5
+6
+7
+8
+in the name of the board on  all matters referred by the board, including issuance of licenses, pro-
+ceedings for placing licensees on probation and for suspension and revocation of licenses, and  shall
+cause to be prepared and furnished to the board, for decision thereon by the board,  the complete
+written transcript of  the record of the hearing. This transcript shall contain all evidence introduced
+at the hearing and  all pleas, motions and objections, and all rulings of the administrative law judge.
+Each administrative law judge may administer oaths and  issue summonses, notices and subpoenas,
+but may not place any licensee on probation or issue, refuse, suspend or revoke a license.
+[3]

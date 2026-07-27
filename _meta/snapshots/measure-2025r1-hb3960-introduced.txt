@@ -1,0 +1,222 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3960
+Sponsored by Representative TRAN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that OHA and some other boards can  say that CEs on suicide prevention
+can count as cultural competency CEs. (Flesch Readability Score: 61.4).
+Allows the Oregon Health Authority to approve as cultural competency  continuing education
+opportunities relating to suicide prevention.  Requires that approved cultural competency continuing
+education opportunities enable health care professionals to effectively care for patients  who are
+members or veterans of the Armed Forces of the United States.
+Allows certain health professional  regulatory boards to count continuing education relating to
+suicide prevention and lethal means counseling toward a licensee’s  requirement to complete cultural
+competency continuing education.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to continuing education for health care providers; creating new  provisions; amending ORS
+413.450 and 676.850; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 413.450 is amended to read:
+413.450. (1) The Oregon Health Authority shall approve continuing  education opportunities re-
+lating to cultural competency , which may include opportunities relating to suicide prevention .
+(2) The authority  shall develop a list of continuing education opportunities relating to cultural
+competency , which may  include opportunities relating to suicide prevention  and make the list
+available to each board, as defined in ORS 676.850.
+(3) The continuing education opportunities may include, but need not be limited to:
+(a) Courses delivered either in person or electronically;
+(b) Experiential learning such as cultural or linguistic immersion;
+(c) Service learning; or
+(d) Specially designed cultural experiences.
+(4) The continuing education opportunities must teach attitudes, knowledge and  skills that ena-
+ble a health care professional to care effectively for patients from  diverse cultures, groups and
+communities, [ including but not limited to: ] including patients  who are members of the Armed
+Forces of the United States or veterans, as defined  in ORS 408.225. The attitudes, knowledge
+and skills taught under this subsection must include, but are not limited to:
+(a) Applying linguistic skills to communicate effectively with patients from diverse  cultures,
+groups and communities , including patients who are members of the  Armed Forces of the
+United States or veterans, as defined in ORS 408.225 ;
+(b) Using cultural information to establish therapeutic relationships; and
+(c) Eliciting, understanding and applying cultural and ethnic data in  the process of clinical care.
+(5) The authority may accept gifts, grants or contributions from any public or private  source for
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4808
+HB 3960
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the purpose of carrying out this section. Moneys received by the authority  under this subsection
+shall be deposited into the Oregon Health Authority Fund established by ORS 413.101.
+(6) The authority may contract with or award grant funding to a  public or private entity to
+develop the list of or offer approved continuing education  opportunities relating to cultural compe-
+tency. The authority is not subject to the requirements of ORS chapters  279A, 279B and 279C with
+respect to contracts entered into under this subsection.
+SECTION 2.
+ ORS 676.850 is amended to read:
+676.850. (1) As used in this section, “board” means the:
+(a) State Board of Examiners for Speech-Language Pathology and Audiology;
+(b) State Board of Chiropractic Examiners;
+(c) State Board of Licensed Social Workers;
+(d) Oregon Board of Licensed Professional Counselors and Therapists;
+(e) Oregon Board of Dentistry;
+(f) Board of Licensed Dietitians;
+(g) State Board of Massage Therapists;
+(h) Oregon Board of Naturopathic Medicine;
+(i) Oregon State Board of Nursing;
+(j) Long Term Care Administrators Board;
+(k) Oregon Board of Optometry;
+(L) State Board of Pharmacy;
+(m) Oregon Medical Board;
+(n) Occupational Therapy Licensing Board;
+(o) Oregon Board of Physical Therapy;
+(p) Oregon Board of Psychology;
+(q) Board of Medical Imaging;
+(r) State Board of Direct Entry Midwifery;
+(s) State Board of Denture Technology;
+(t) Respiratory Therapist and Polysomnographic Technologist Licensing Board;
+(u) Home Care Commission;
+(v) Oregon Health Authority, to the extent that the authority  licenses emergency medical ser-
+vice providers; and
+(w) Health Licensing Office, to the extent that the office licenses lactation consultants.
+(2)(a)(A) A board shall adopt rules to require  a person authorized to practice the profession
+regulated by the board to complete cultural competency  continuing education , which may include
+continuing education relating to lethal  means counseling and suicide prevention . Completion
+of the continuing education described in this subsection shall be a condition of renewal of an au-
+thorization to practice the profession regulated by the board every other time that the person’s  au-
+thorization is subject to renewal.
+(B) Continuing education relating to lethal means counseling  must include the assess-
+ment of whether a patient is at an elevated risk for suicide  and has access to lethal means,
+and working with the patient and the patient’s family and support system to limit the
+patient’s access to the lethal means until the patient is  no longer at an elevated risk for
+suicide.
+(b) Cultural competency  continuing education courses may be taken in addition to or, if a board
+determines that the cultural competency continuing education  fulfills existing continuing education
+[2]
+HB 3960
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+requirements, instead of any other continuing education requirement imposed by the board.
+(c) A board shall consider the  availability of the continuing education described in this sub-
+section when adopting rules regarding the required number of credits of continuing education.
+(d) A board shall encourage, but may not  require, the completion of continuing education ap-
+proved by the Oregon  Health Authority under ORS 413.450. A board shall accept as meeting the
+requirements of this subsection continuing  education that meets the skills requirements established
+by the authority by rule.
+(3) The requirements of subsection (2) of this section do not apply to a person authorized  to
+practice a profession regulated by a board if the person is:
+(a) Retired and not practicing the profession in any state;
+(b) Not practicing the profession in this state; or
+(c) Residing in this state but not practicing the profession in any state.
+SECTION 3.
+The amendments to ORS  413.450 and 676.850 apply to individuals who apply
+for initial licensure or renewal of a license issued by a board as defined  in ORS 676.850 on
+or after the operative date specified in section 4 of this 2025 Act.
+SECTION 4. (1) The amendments to ORS 413.450 and  676.850 by sections 1 and 2 of this
+2025 Act become operative on January 1, 2026.
+(2) The Oregon Health Authority and a board as defined in ORS  676.850 may take any
+action before the operative date specified  in subsection (1) of this section that is necessary
+to enable the authority and the boards to exercise, on and after the  operative date specified
+in subsection (1) of this section, all of the duties, functions and powers conferred on the
+authority and the boards by the amendments to ORS 413.450 and 676.850  by sections 1 and 2
+of this 2025 Act.
+SECTION 5.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

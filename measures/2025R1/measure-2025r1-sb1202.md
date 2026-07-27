@@ -1,0 +1,5665 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb1202
+title: 'SB 1202 (2025R1): Creates the Oregon Rail and Transit Department.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 1202
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1202/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: d2cb8b59a7d1de595c297332d82a5474ef1aafd8f01fa8b968f953a04bebfb42
+snapshot_id: measure-2025r1-sb1202-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 113.235
+  - ORS 153.022
+  - ORS 164.365
+  - ORS 164.805
+  - ORS 171.562
+  - ORS 171.565
+  - ORS 174.109
+  - ORS 174.116
+  - ORS 179.040
+  - ORS 183.400
+  - ORS 183.413
+  - ORS 183.440
+  - ORS 183.480
+  - ORS 183.482
+  - ORS 183.484
+  - ORS 183.745
+  - ORS 184.610
+  - ORS 184.615
+  - ORS 184.617
+  - ORS 184.632
+  - ORS 184.642
+  - ORS 184.643
+  - ORS 184.651
+  - ORS 184.670
+  - ORS 184.675
+  - ORS 184.685
+  - ORS 184.689
+  - ORS 184.691
+  - ORS 184.705
+  - ORS 184.710
+  - ORS 184.720
+  - ORS 184.725
+  - ORS 184.730
+  - ORS 184.733
+  - ORS 184.751
+  - ORS 184.758
+  - ORS 184.761
+  - ORS 184.766
+  - ORS 184.906
+  - ORS 190.510
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 197.794
+  - ORS 197.825
+  - ORS 197A.018
+  - ORS 197A.210
+  - ORS 197A.270
+  - ORS 197A.500
+  - ORS 197A.505
+  - ORS 197A.507
+  - ORS 197A.509
+  - ORS 197A.511
+  - ORS 197A.515
+  - ORS 199.410
+  - ORS 200.035
+  - ORS 200.055
+  - ORS 200.180
+  - ORS 209.300
+  - ORS 215.213
+  - ORS 244.050
+  - ORS 244.060
+  - ORS 244.070
+  - ORS 244.090
+  - ORS 244.350
+  - ORS 25.080
+  - ORS 267.010
+  - ORS 267.020
+  - ORS 267.210
+  - ORS 267.230
+  - ORS 267.510
+  - ORS 267.575
+  - ORS 271.300
+  - ORS 271.310
+  - ORS 276.110
+  - ORS 279.835
+  - ORS 279A.015
+  - ORS 279A.025
+  - ORS 279A.050
+  - ORS 279A.065
+  - ORS 279A.120
+  - ORS 279A.125
+  - ORS 279A.130
+  - ORS 279A.140
+  - ORS 279A.145
+  - ORS 279C.307
+  - ORS 279C.320
+  - ORS 279C.335
+  - ORS 279C.345
+  - ORS 279C.350
+  - ORS 279C.355
+  - ORS 279C.360
+  - ORS 279C.390
+  - ORS 279C.412
+  - ORS 279C.414
+  - ORS 279C.430
+  - ORS 279C.800
+  - ORS 283.110
+  - ORS 285A.050
+  - ORS 285B.410
+  - ORS 285B.630
+  - ORS 286A.100
+  - ORS 286A.102
+  - ORS 286A.120
+  - ORS 291.040
+  - ORS 291.047
+  - ORS 291.208
+  - ORS 291.405
+  - ORS 291.407
+  - ORS 292.495
+  - ORS 293.250
+  - ORS 293.445
+  - ORS 314.085
+  - ORS 314.440
+  - ORS 314.835
+  - ORS 315.056
+  - ORS 315.061
+  - ORS 315.591
+  - ORS 315.593
+  - ORS 315.595
+  - ORS 315.597
+  - ORS 315.599
+  - ORS 315.603
+  - ORS 316.117
+  - ORS 319.280
+  - ORS 319.290
+  - ORS 319.375
+  - ORS 319.410
+  - ORS 319.415
+  - ORS 319.417
+  - ORS 319.820
+  - ORS 319.831
+  - ORS 320.550
+  - ORS 323.005
+  - ORS 323.030
+  - ORS 323.031
+  - ORS 323.455
+  - ORS 323.457
+  - ORS 323.459
+  - ORS 329.075
+  - ORS 329.085
+  - ORS 329.485
+  - ORS 332.427
+  - ORS 336.795
+  - ORS 336.800
+  - ORS 336.805
+  - ORS 336.810
+  - ORS 336.815
+  - ORS 352.002
+  - ORS 352.121
+  - ORS 353.020
+  - ORS 367.067
+  - ORS 367.070
+  - ORS 367.080
+  - ORS 367.084
+  - ORS 367.605
+  - ORS 367.615
+  - ORS 367.620
+  - ORS 374.020
+  - ORS 374.302
+  - ORS 390.308
+  - ORS 391.120
+  - ORS 391.125
+  - ORS 391.130
+  - ORS 391.140
+  - ORS 391.150
+  - ORS 391.605
+  - ORS 40.065
+  - ORS 40.090
+  - ORS 401.092
+  - ORS 407.135
+  - ORS 407.145
+  - ORS 413.101
+  - ORS 426.504
+  - ORS 427.335
+  - ORS 430.223
+  - ORS 430.630
+  - ORS 431A.153
+  - ORS 441.525
+  - ORS 453.307
+  - ORS 453.374
+  - ORS 453.392
+  - ORS 453.605
+  - ORS 453.635
+  - ORS 456.625
+  - ORS 461.500
+  - ORS 461.510
+  - ORS 461.540
+  - ORS 461.543
+  - ORS 465.600
+  - ORS 466.005
+  - ORS 466.080
+  - ORS 468A.205
+  - ORS 468B.427
+  - ORS 468B.435
+  - ORS 469.300
+  - ORS 469.550
+  - ORS 469.563
+  - ORS 469.603
+  - ORS 469.607
+  - ORS 479.950
+  - ORS 608.310
+  - ORS 657.660
+  - ORS 657.665
+  - ORS 657.673
+  - ORS 657B.210
+  - ORS 657B.400
+  - ORS 772.020
+  - ORS 772.025
+  - ORS 777.005
+  - ORS 801.041
+  - ORS 801.042
+  - ORS 801.237
+  - ORS 801.460
+  - ORS 802.110
+  - ORS 802.120
+  - ORS 802.320
+  - ORS 805.240
+  - ORS 807.040
+  - ORS 807.150
+  - ORS 807.170
+  - ORS 807.370
+  - ORS 807.410
+  - ORS 810.170
+  - ORS 811.460
+  - ORS 811.465
+  - ORS 811.590
+  - ORS 811.595
+  - ORS 820.100
+  - ORS 820.110
+  - ORS 820.120
+  - ORS 821.060
+  - ORS 821.100
+  - ORS 821.160
+  - ORS 822.009
+  - ORS 822.700
+  - ORS 822.705
+  - ORS 823.009
+  - ORS 823.011
+  - ORS 823.013
+  - ORS 823.015
+  - ORS 823.021
+  - ORS 823.023
+  - ORS 823.025
+  - ORS 823.027
+  - ORS 823.029
+  - ORS 823.031
+  - ORS 823.033
+  - ORS 823.035
+  - ORS 823.037
+  - ORS 823.051
+  - ORS 823.061
+  - ORS 823.071
+  - ORS 823.073
+  - ORS 823.075
+  - ORS 823.081
+  - ORS 823.083
+  - ORS 823.101
+  - ORS 823.103
+  - ORS 823.105
+  - ORS 823.991
+  - ORS 824.010
+  - ORS 824.012
+  - ORS 824.014
+  - ORS 824.016
+  - ORS 824.018
+  - ORS 824.019
+  - ORS 824.020
+  - ORS 824.022
+  - ORS 824.026
+  - ORS 824.030
+  - ORS 824.042
+  - ORS 824.045
+  - ORS 824.050
+  - ORS 824.052
+  - ORS 824.054
+  - ORS 824.056
+  - ORS 824.058
+  - ORS 824.060
+  - ORS 824.062
+  - ORS 824.064
+  - ORS 824.068
+  - ORS 824.080
+  - ORS 824.082
+  - ORS 824.084
+  - ORS 824.086
+  - ORS 824.088
+  - ORS 824.090
+  - ORS 824.092
+  - ORS 824.102
+  - ORS 824.106
+  - ORS 824.108
+  - ORS 824.110
+  - ORS 824.200
+  - ORS 824.202
+  - ORS 824.204
+  - ORS 824.206
+  - ORS 824.208
+  - ORS 824.210
+  - ORS 824.212
+  - ORS 824.214
+  - ORS 824.216
+  - ORS 824.218
+  - ORS 824.220
+  - ORS 824.222
+  - ORS 824.223
+  - ORS 824.224
+  - ORS 824.226
+  - ORS 824.228
+  - ORS 824.230
+  - ORS 824.232
+  - ORS 824.234
+  - ORS 824.236
+  - ORS 824.238
+  - ORS 824.240
+  - ORS 824.242
+  - ORS 824.246
+  - ORS 824.250
+  - ORS 824.252
+  - ORS 824.254
+  - ORS 824.300
+  - ORS 824.304
+  - ORS 824.306
+  - ORS 824.400
+  - ORS 824.410
+  - ORS 824.420
+  - ORS 824.430
+  - ORS 824.990
+  - ORS 824.992
+  - ORS 825.005
+  - ORS 825.326
+  - ORS 835.017
+  - ORS 98.302
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 1202
+prefix_meaning: Senate Bill
+catch_line: Creates the Oregon Rail and Transit Department.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act creates a new agency to govern rail and transit in Oregon. The new\
+  \ agency name is the Oregon Rail and Transit Department. Transfers duties of governing rail from ODOT\
+  \ to the ORTD. (Flesch Readability Score: 65.9). \n\tCreates the Oregon Rail and Transit Department.\
+  \ Creates the State Rail and Transit Board. Transfers the duties and functions of the Department of\
+  \ Transportation relating to rail and public transit to the Oregon Rail and Transit Department. \n\t\
+  Takes effect on the 91st day following adjournment sine die."
+relating_to: Relating to transportation; prescribing an effective date.
+relating_to_full: Relating to transportation; creating new provisions; amending ORS 164.805, 184.615,
+  184.617, 184.632, 184.642, 184.651, 184.675, 184.685, 184.689, 184.691, 184.705, 184.710, 184.720, 184.725,
+  184.730, 184.733, 184.751, 184.758, 184.761, 184.766, 197.794, 197A.505, 197A.507, 197A.509, 197A.515,
+  209.300, 244.050, 267.210, 267.230, 267.575, 271.310, 279A.050, 279A.130, 279C.307, 279C.335, 279C.345,
+  279C.350, 279C.355, 279C.360, 279C.390, 291.407, 315.593, 315.595, 315.597, 315.599, 323.455, 323.457,
+  332.427, 367.067, 367.070, 367.084, 374.020, 390.308, 391.120, 391.125, 391.130, 391.140, 391.150, 391.605,
+  453.392, 453.635, 466.080, 469.607, 608.310, 657.665, 657B.400, 772.025, 802.110, 811.465, 823.009,
+  823.011, 823.013, 823.015, 823.021, 823.023, 823.025, 823.027, 823.029, 823.031, 823.033, 823.035, 823.037,
+  823.061, 823.071, 823.081, 823.083, 823.101, 823.103, 823.991, 824.010, 824.012, 824.014, 824.016, 824.018,
+  824.019, 824.020, 824.026, 824.030, 824.042, 824.045, 824.050, 824.052, 824.054, 824.056, 824.058, 824.060,
+  824.068, 824.080, 824.082, 824.086, 824.090, 824.092, 824.108, 824.110, 824.202, 824.204, 824.206, 824.208,
+  824.210, 824.212, 824.214, 824.216, 824.218, 824.220, 824.222, 824.223, 824.224, 824.226, 824.228, 824.230,
+  824.232, 824.234, 824.236, 824.238, 824.240, 824.242, 824.246, 824.250, 824.252, 824.254, 824.400, 824.420,
+  824.430, 824.990 and 824.992 and section 13a, chapter 581, Oregon Laws 2019, and section 9, chapter
+  13, Oregon Laws 2023; repealing ORS 824.410; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 4731
+measure_created_date: '2025-03-28T13:34:22'
+measure_modified_date: '2025-04-11T14:11:19'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 381846
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 113.235
+  - ORS 153.022
+  - ORS 164.365
+  - ORS 164.805
+  - ORS 171.562
+  - ORS 171.565
+  - ORS 174.109
+  - ORS 174.116
+  - ORS 179.040
+  - ORS 183.400
+  - ORS 183.413
+  - ORS 183.440
+  - ORS 183.480
+  - ORS 183.482
+  - ORS 183.484
+  - ORS 183.745
+  - ORS 184.610
+  - ORS 184.615
+  - ORS 184.617
+  - ORS 184.632
+  - ORS 184.642
+  - ORS 184.643
+  - ORS 184.651
+  - ORS 184.670
+  - ORS 184.675
+  - ORS 184.685
+  - ORS 184.689
+  - ORS 184.691
+  - ORS 184.705
+  - ORS 184.710
+  - ORS 184.720
+  - ORS 184.725
+  - ORS 184.730
+  - ORS 184.733
+  - ORS 184.751
+  - ORS 184.758
+  - ORS 184.761
+  - ORS 184.766
+  - ORS 184.906
+  - ORS 190.510
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 197.794
+  - ORS 197.825
+  - ORS 197A.018
+  - ORS 197A.210
+  - ORS 197A.270
+  - ORS 197A.500
+  - ORS 197A.505
+  - ORS 197A.507
+  - ORS 197A.509
+  - ORS 197A.511
+  - ORS 197A.515
+  - ORS 199.410
+  - ORS 200.035
+  - ORS 200.055
+  - ORS 200.180
+  - ORS 209.300
+  - ORS 215.213
+  - ORS 244.050
+  - ORS 244.060
+  - ORS 244.070
+  - ORS 244.090
+  - ORS 244.350
+  - ORS 25.080
+  - ORS 267.010
+  - ORS 267.020
+  - ORS 267.210
+  - ORS 267.230
+  - ORS 267.510
+  - ORS 267.575
+  - ORS 271.300
+  - ORS 271.310
+  - ORS 276.110
+  - ORS 279.835
+  - ORS 279A.015
+  - ORS 279A.025
+  - ORS 279A.050
+  - ORS 279A.065
+  - ORS 279A.120
+  - ORS 279A.125
+  - ORS 279A.130
+  - ORS 279A.140
+  - ORS 279A.145
+  - ORS 279C.307
+  - ORS 279C.320
+  - ORS 279C.335
+  - ORS 279C.345
+  - ORS 279C.350
+  - ORS 279C.355
+  - ORS 279C.360
+  - ORS 279C.390
+  - ORS 279C.412
+  - ORS 279C.414
+  - ORS 279C.430
+  - ORS 279C.800
+  - ORS 283.110
+  - ORS 285A.050
+  - ORS 285B.410
+  - ORS 285B.630
+  - ORS 286A.100
+  - ORS 286A.102
+  - ORS 286A.120
+  - ORS 291.040
+  - ORS 291.047
+  - ORS 291.208
+  - ORS 291.405
+  - ORS 291.407
+  - ORS 292.495
+  - ORS 293.250
+  - ORS 293.445
+  - ORS 314.085
+  - ORS 314.440
+  - ORS 314.835
+  - ORS 315.056
+  - ORS 315.061
+  - ORS 315.591
+  - ORS 315.593
+  - ORS 315.595
+  - ORS 315.597
+  - ORS 315.599
+  - ORS 315.603
+  - ORS 316.117
+  - ORS 319.280
+  - ORS 319.290
+  - ORS 319.375
+  - ORS 319.410
+  - ORS 319.415
+  - ORS 319.417
+  - ORS 319.820
+  - ORS 319.831
+  - ORS 320.550
+  - ORS 323.005
+  - ORS 323.030
+  - ORS 323.031
+  - ORS 323.455
+  - ORS 323.457
+  - ORS 323.459
+  - ORS 329.075
+  - ORS 329.085
+  - ORS 329.485
+  - ORS 332.427
+  - ORS 336.795
+  - ORS 336.800
+  - ORS 336.805
+  - ORS 336.810
+  - ORS 336.815
+  - ORS 352.002
+  - ORS 352.121
+  - ORS 353.020
+  - ORS 367.067
+  - ORS 367.070
+  - ORS 367.080
+  - ORS 367.084
+  - ORS 367.605
+  - ORS 367.615
+  - ORS 367.620
+  - ORS 374.020
+  - ORS 374.302
+  - ORS 390.308
+  - ORS 391.120
+  - ORS 391.125
+  - ORS 391.130
+  - ORS 391.140
+  - ORS 391.150
+  - ORS 391.605
+  - ORS 40.065
+  - ORS 40.090
+  - ORS 401.092
+  - ORS 407.135
+  - ORS 407.145
+  - ORS 413.101
+  - ORS 426.504
+  - ORS 427.335
+  - ORS 430.223
+  - ORS 430.630
+  - ORS 431A.153
+  - ORS 441.525
+  - ORS 453.307
+  - ORS 453.374
+  - ORS 453.392
+  - ORS 453.605
+  - ORS 453.635
+  - ORS 456.625
+  - ORS 461.500
+  - ORS 461.510
+  - ORS 461.540
+  - ORS 461.543
+  - ORS 465.600
+  - ORS 466.005
+  - ORS 466.080
+  - ORS 468A.205
+  - ORS 468B.427
+  - ORS 468B.435
+  - ORS 469.300
+  - ORS 469.550
+  - ORS 469.563
+  - ORS 469.603
+  - ORS 469.607
+  - ORS 479.950
+  - ORS 608.310
+  - ORS 657.660
+  - ORS 657.665
+  - ORS 657.673
+  - ORS 657B.210
+  - ORS 657B.400
+  - ORS 772.020
+  - ORS 772.025
+  - ORS 777.005
+  - ORS 801.041
+  - ORS 801.042
+  - ORS 801.237
+  - ORS 801.460
+  - ORS 802.110
+  - ORS 802.120
+  - ORS 802.320
+  - ORS 805.240
+  - ORS 807.040
+  - ORS 807.150
+  - ORS 807.170
+  - ORS 807.370
+  - ORS 807.410
+  - ORS 810.170
+  - ORS 811.460
+  - ORS 811.465
+  - ORS 811.590
+  - ORS 811.595
+  - ORS 820.100
+  - ORS 820.110
+  - ORS 820.120
+  - ORS 821.060
+  - ORS 821.100
+  - ORS 821.160
+  - ORS 822.009
+  - ORS 822.700
+  - ORS 822.705
+  - ORS 823.009
+  - ORS 823.011
+  - ORS 823.013
+  - ORS 823.015
+  - ORS 823.021
+  - ORS 823.023
+  - ORS 823.025
+  - ORS 823.027
+  - ORS 823.029
+  - ORS 823.031
+  - ORS 823.033
+  - ORS 823.035
+  - ORS 823.037
+  - ORS 823.051
+  - ORS 823.061
+  - ORS 823.071
+  - ORS 823.073
+  - ORS 823.075
+  - ORS 823.081
+  - ORS 823.083
+  - ORS 823.101
+  - ORS 823.103
+  - ORS 823.105
+  - ORS 823.991
+  - ORS 824.010
+  - ORS 824.012
+  - ORS 824.014
+  - ORS 824.016
+  - ORS 824.018
+  - ORS 824.019
+  - ORS 824.020
+  - ORS 824.022
+  - ORS 824.026
+  - ORS 824.030
+  - ORS 824.042
+  - ORS 824.045
+  - ORS 824.050
+  - ORS 824.052
+  - ORS 824.054
+  - ORS 824.056
+  - ORS 824.058
+  - ORS 824.060
+  - ORS 824.062
+  - ORS 824.064
+  - ORS 824.068
+  - ORS 824.080
+  - ORS 824.082
+  - ORS 824.084
+  - ORS 824.086
+  - ORS 824.088
+  - ORS 824.090
+  - ORS 824.092
+  - ORS 824.102
+  - ORS 824.106
+  - ORS 824.108
+  - ORS 824.110
+  - ORS 824.200
+  - ORS 824.202
+  - ORS 824.204
+  - ORS 824.206
+  - ORS 824.208
+  - ORS 824.210
+  - ORS 824.212
+  - ORS 824.214
+  - ORS 824.216
+  - ORS 824.218
+  - ORS 824.220
+  - ORS 824.222
+  - ORS 824.223
+  - ORS 824.224
+  - ORS 824.226
+  - ORS 824.228
+  - ORS 824.230
+  - ORS 824.232
+  - ORS 824.234
+  - ORS 824.236
+  - ORS 824.238
+  - ORS 824.240
+  - ORS 824.242
+  - ORS 824.246
+  - ORS 824.250
+  - ORS 824.252
+  - ORS 824.254
+  - ORS 824.300
+  - ORS 824.304
+  - ORS 824.306
+  - ORS 824.400
+  - ORS 824.410
+  - ORS 824.420
+  - ORS 824.430
+  - ORS 824.990
+  - ORS 824.992
+  - ORS 825.005
+  - ORS 825.326
+  - ORS 835.017
+  - ORS 98.302
+  from_relating_to_full:
+  - ORS 164.805
+  - ORS 184.615
+  - ORS 184.617
+  - ORS 184.632
+  - ORS 184.642
+  - ORS 184.651
+  - ORS 184.675
+  - ORS 184.685
+  - ORS 184.689
+  - ORS 184.691
+  - ORS 184.705
+  - ORS 184.710
+  - ORS 184.720
+  - ORS 184.725
+  - ORS 184.730
+  - ORS 184.733
+  - ORS 184.751
+  - ORS 184.758
+  - ORS 184.761
+  - ORS 184.766
+  - ORS 197.794
+  - ORS 197A.505
+  - ORS 197A.507
+  - ORS 197A.509
+  - ORS 197A.515
+  - ORS 209.300
+  - ORS 244.050
+  - ORS 267.210
+  - ORS 267.230
+  - ORS 267.575
+  - ORS 271.310
+  - ORS 279A.050
+  - ORS 279A.130
+  - ORS 279C.307
+  - ORS 279C.335
+  - ORS 279C.345
+  - ORS 279C.350
+  - ORS 279C.355
+  - ORS 279C.360
+  - ORS 279C.390
+  - ORS 291.407
+  - ORS 315.593
+  - ORS 315.595
+  - ORS 315.597
+  - ORS 315.599
+  - ORS 323.455
+  - ORS 323.457
+  - ORS 332.427
+  - ORS 367.067
+  - ORS 367.070
+  - ORS 367.084
+  - ORS 374.020
+  - ORS 390.308
+  - ORS 391.120
+  - ORS 391.125
+  - ORS 391.130
+  - ORS 391.140
+  - ORS 391.150
+  - ORS 391.605
+  - ORS 453.392
+  - ORS 453.635
+  - ORS 466.080
+  - ORS 469.607
+  - ORS 608.310
+  - ORS 657.665
+  - ORS 657B.400
+  - ORS 772.025
+  - ORS 802.110
+  - ORS 811.465
+  - ORS 823.009
+  - ORS 823.011
+  - ORS 823.013
+  - ORS 823.015
+  - ORS 823.021
+  - ORS 823.023
+  - ORS 823.025
+  - ORS 823.027
+  - ORS 823.029
+  - ORS 823.031
+  - ORS 823.033
+  - ORS 823.035
+  - ORS 823.037
+  - ORS 823.061
+  - ORS 823.071
+  - ORS 823.081
+  - ORS 823.083
+  - ORS 823.101
+  - ORS 823.103
+  - ORS 823.991
+  - ORS 824.010
+  - ORS 824.012
+  - ORS 824.014
+  - ORS 824.016
+  - ORS 824.018
+  - ORS 824.019
+  - ORS 824.020
+  - ORS 824.026
+  - ORS 824.030
+  - ORS 824.042
+  - ORS 824.045
+  - ORS 824.050
+  - ORS 824.052
+  - ORS 824.054
+  - ORS 824.056
+  - ORS 824.058
+  - ORS 824.060
+  - ORS 824.068
+  - ORS 824.080
+  - ORS 824.082
+  - ORS 824.086
+  - ORS 824.090
+  - ORS 824.092
+  - ORS 824.108
+  - ORS 824.110
+  - ORS 824.202
+  - ORS 824.204
+  - ORS 824.206
+  - ORS 824.208
+  - ORS 824.210
+  - ORS 824.212
+  - ORS 824.214
+  - ORS 824.216
+  - ORS 824.218
+  - ORS 824.220
+  - ORS 824.222
+  - ORS 824.223
+  - ORS 824.224
+  - ORS 824.226
+  - ORS 824.228
+  - ORS 824.230
+  - ORS 824.232
+  - ORS 824.234
+  - ORS 824.236
+  - ORS 824.238
+  - ORS 824.240
+  - ORS 824.242
+  - ORS 824.246
+  - ORS 824.250
+  - ORS 824.252
+  - ORS 824.254
+  - ORS 824.400
+  - ORS 824.410
+  - ORS 824.420
+  - ORS 824.430
+  - ORS 824.990
+  - ORS 824.992
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1202>.
+
+# SB 1202 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1202, 2025 Regular Session (2025R1)
+- **LC number:** 4731
+- **Created:** 2025-03-28T13:34:22
+- **Metadata last modified (upstream):** 2025-04-11T14:11:19
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 381846 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1202/Introduced>.
+
+## Summary
+
+**Catchline:** Creates the Oregon Rail and Transit Department.
+
+**Relating to:** Relating to transportation; prescribing an effective date.
+
+Digest: The Act creates a new agency to govern rail and transit in Oregon. The new agency name is the Oregon Rail and Transit Department. Transfers duties of governing rail from ODOT to the ORTD. (Flesch Readability Score: 65.9). 
+ Creates the Oregon Rail and Transit Department. Creates the State Rail and Transit Board. Transfers the duties and functions of the Department of Transportation relating to rail and public transit to the Oregon Rail and Transit Department. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to transportation; creating new provisions; amending ORS 164.805, 184.615, 184.617, 184.632, 184.642, 184.651, 184.675, 184.685, 184.689, 184.691, 184.705, 184.710, 184.720, 184.725, 184.730, 184.733, 184.751, 184.758, 184.761, 184.766, 197.794, 197A.505, 197A.507, 197A.509, 197A.515, 209.300, 244.050, 267.210, 267.230, 267.575, 271.310, 279A.050, 279A.130, 279C.307, 279C.335, 279C.345, 279C.350, 279C.355, 279C.360, 279C.390, 291.407, 315.593, 315.595, 315.597, 315.599, 323.455, 323.457, 332.427, 367.067, 367.070, 367.084, 374.020, 390.308, 391.120, 391.125, 391.130, 391.140, 391.150, 391.605, 453.392, 453.635, 466.080, 469.607, 608.310, 657.665, 657B.400, 772.025, 802.110, 811.465, 823.009, 823.011, 823.013, 823.015, 823.021, 823.023, 823.025, 823.027, 823.029, 823.031, 823.033, 823.035, 823.037, 823.061, 823.071, 823.081, 823.083, 823.101, 823.103, 823.991, 824.010, 824.012, 824.014, 824.016, 824.018, 824.019, 824.020, 824.026, 824.030, 824.042, 824.045, 824.050, 824.052, 824.054, 824.056, 824.058, 824.060, 824.068, 824.080, 824.082, 824.086, 824.090, 824.092, 824.108, 824.110, 824.202, 824.204, 824.206, 824.208, 824.210, 824.212, 824.214, 824.216, 824.218, 824.220, 824.222, 824.223, 824.224, 824.226, 824.228, 824.230, 824.232, 824.234, 824.236, 824.238, 824.240, 824.242, 824.246, 824.250, 824.252, 824.254, 824.400, 824.420, 824.430, 824.990 and 824.992 and section 13a, chapter 581, Oregon Laws 2019, and section 9, chapter 13, Oregon Laws 2023; repealing ORS 824.410; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1202
+Sponsored by Senators GORSEK, PHAM K; Representatives GAMBA, MANNIX
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates a new agency to govern rail  and transit in Oregon. The new agency
+name is the  Oregon Rail and Transit Department. Transfers duties of governing rail from ODOT to
+the ORTD. (Flesch Readability Score: 65.9).
+Creates the Oregon Rail and  Transit Department. Creates the State Rail and Transit Board.
+Transfers the duties and functions of  the Department of Transportation relating to rail and public
+transit to the Oregon Rail and Transit Department.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to transportation; creating new provisions; amending ORS  164.805, 184.615, 184.617, 184.632,
+184.642, 184.651, 184.675,  184.685, 184.689, 184.691, 184.705, 184.710, 184.720, 184.725, 184.730,
+184.733, 184.751, 184.758, 184.761, 184.766, 197.794, 197A.505,  197A.507, 197A.509, 197A.515,
+209.300, 244.050, 267.210, 267.230, 267.575, 271.310, 279A.050, 279A.130, 279C.307,  279C.335,
+279C.345, 279C.350,  279C.355, 279C.360, 279C.390, 291.407, 315.593, 315.595, 315.597, 315.599,
+323.455, 323.457, 332.427,  367.067, 367.070, 367.084, 374.020, 390.308, 391.120, 391.125, 391.130,
+391.140, 391.150, 391.605, 453.392, 453.635, 466.080, 469.607,  608.310, 657.665, 657B.400, 772.025,
+802.110, 811.465, 823.009,  823.011, 823.013, 823.015, 823.021, 823.023, 823.025, 823.027, 823.029,
+823.031, 823.033, 823.035, 823.037, 823.061, 823.071, 823.081, 823.083, 823.101,  823.103, 823.991,
+824.010, 824.012, 824.014,  824.016, 824.018, 824.019, 824.020, 824.026, 824.030, 824.042, 824.045,
+824.050, 824.052, 824.054, 824.056, 824.058, 824.060, 824.068, 824.080, 824.082,  824.086, 824.090,
+824.092, 824.108, 824.110,  824.202, 824.204, 824.206, 824.208, 824.210, 824.212, 824.214, 824.216,
+824.218, 824.220, 824.222, 824.223, 824.224, 824.226, 824.228, 824.230, 824.232,  824.234, 824.236,
+824.238, 824.240, 824.242, 824.246, 824.250, 824.252, 824.254, 824.400, 824.420, 824.430, 824.990 and
+824.992 and section 13a, chapter 581, Oregon Laws 2019,  and section 9, chapter 13, Oregon Laws
+2023; repealing ORS 824.410; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+ESTABLISHMENT OF THE OREGON RAIL AND TRANSIT
+DEPARTMENT AND STATE RAIL AND TRANSIT BOARD
+SECTION 1.
+Sections 2 to 10 of this 2025 Act are added to and made a part of the Oregon
+Vehicle Code.
+SECTION 2. (1) The Oregon Rail and Transit Department is established.
+(2) The department is under the supervision  and control of a director, who is responsible
+for the performance of the duties, functions and powers of the department.
+(3) For purposes of administration,  subject to the approval of the State Rail and Transit
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4731
+Board, the director may organize and reorganize  the department as the director considers
+necessary to conduct properly the work of the department.
+(4) In addition to the powers and duties otherwise provided by law, the department shall
+promote, sustain and expand the availability of passenger and commuter rail service,  com-
+mercial freight  rail and public transit in Oregon. The department shall endeavor to increase
+ridership of such services by connecting population centers with passenger  and commuter
+rail, increasing intracity and intercity  transit options and the availability of such services.
+The department shall collaborate with railroads, as defined in ORS  824.020, and take actions
+that advance the goals of increased statewide freight capacity, improved rail safety and  the
+construction of railroad-highway crossings at separated grades.
+SECTION 3.
+(1) The State Rail and Transit Board is established.
+(2) The State Rail and Transit Board consists of seven members appointed by the Gov-
+ernor.
+(3) The term of office of each member of the board is  four years, but a member serves
+at the pleasure of  the Governor. Before the expiration of the term of a member, the Gover-
+nor shall appoint a successor whose term begins on July 1 next following. A member is  eli-
+gible for reappointment. If there is  a vacancy for any cause, the Governor shall make an
+appointment to become immediately effective for the unexpired term.
+(4) The appointment of each member of the board is subject to confirmation by the  Sen-
+ate in the manner prescribed in ORS 171.562 and 171.565.
+(5) A member of the board is entitled to  compensation and expenses as provided in ORS
+292.495.
+SECTION 4. Notwithstanding the term of  office specified by section 3 of this 2025 Act,
+of the members first appointed to the State Rail and Transit Board:
+(1) One shall serve for a term ending July 1, 2027.
+(2) Two shall serve for terms ending July 1, 2028.
+(3) Two shall serve for terms ending July 1, 2029.
+(4) Two shall serve for terms ending July 1, 2030.
+SECTION 5.
+(1) The Governor shall appoint one member of the State Rail and Transit
+Board as chairperson and another member as vice chairperson. The chairperson and vice
+chairperson shall have such terms, duties and powers as the board determines are necessary
+for the performance of such offices.
+(2) A majority of the members of the board  constitutes a quorum for the transaction of
+business.
+(3) The board shall meet  at least once a quarter, at a time and place determined by the
+members of the board. The board shall also meet at such  other times and places as are
+specified by the call of the chairperson or of a majority of the board.
+(4) No vacancy shall impair the  right of the remaining board members to exercise all the
+powers of the board, except that four members of the board shall constitute a quorum for
+the conduct of business of the board, and, in case the  board members are unable to agree,
+the Governor shall have the right to vote as a member of the board.
+(5) The board may provide an official seal.
+SECTION 6.
+(1) The Governor  shall appoint the Director of the Oregon Rail and Transit
+Department, who holds office at the pleasure of the Governor.
+(2) The appointment of the  director is subject to confirmation by the Senate in the
+manner prescribed in ORS 171.562 and 171.565.
+(3) The Governor may not appoint a person as director unless the person  has experience
+in rail operations or management, or public transit operations or management.
+(4) Subject to section  10 of this 2025 Act and the policy direction by the State Rail and
+Transit Board, the director shall:
+(a) Be the administrative head of the Oregon Rail and Transit Department;
+(b) Have power, within applicable budgetary limitations, and in  accordance with ORS
+chapter 240, to hire, assign, reassign and  coordinate personnel of the department and pre-
+scribe their duties and  fix their compensation, subject to the State Personnel Relations Law;
+(c) Administer the laws of the state concerning rail and public transit; and
+(d) Intervene, as authorized by  the board, pursuant to the rules of practice and proce-
+dure, in the proceedings of state and federal agencies that may substantially affect the in-
+terests of the consumers and providers of rail and public transit services within Oregon.
+(5) Subject to section 10 of this 2025 Act, in  addition to duties otherwise required by law,
+the director shall prescribe regulations for the  government of the department, the conduct
+of its employees, the assignment and performance  of its business and the custody, use and
+preservation of its records, papers and property in a manner consistent with applicable law.
+(6) The director may delegate to any of the employees of the department the exercise  or
+discharge in the  director’s name of any duty, function or power of whatever character,
+vested in or imposed by  law upon the director, including duties, functions or powers deleg-
+ated to the director by the board. The official act of any  person acting in the director’s name
+and by the authority of the director shall be considered to be an official act of the director.
+(7) The director shall have authority to  require a fidelity bond of any officer or employee
+of the department who has charge  of, handles or has access to any state money or property,
+and who is not  otherwise required by law to give a bond. The amounts of the bonds shall be
+fixed by the director, except as otherwise provided by law, and the sureties shall be  approved
+by the director. The department shall pay the premiums on the bonds.
+(8) The director shall prepare and submit to the board  on or about December 31 of each
+year an annual report for the 12 months ending the prior  June 30. The annual report shall
+set forth all that the department has done during the year.  The report shall contain a
+statement of the parts of the state rail and public transit system that were  constructed,
+reconstructed or improved during the period, together  with a statement showing in a general
+way the status of the state rail and public transit system.
+(9) The director shall be paid a salary as provided by  law or, if not so provided, as pre-
+scribed by the Governor.
+SECTION 7.
+Subject to section 10 of this 2025 Act,  the Director of the Oregon Rail and
+Transit Department may enter into any contracts authorized by the  State Rail and Transit
+Board and necessary to the execution of the powers granted by  sections 2 to 10 of this 2025
+Act.  All  contracts made by the director, either as the agent of the state or as the agent of
+any municipality, shall be made pursuant to the laws of the state  governing the making of
+like contracts.
+SECTION 8. In accordance with  applicable provisions of ORS chapter 183, the Director
+of the Oregon Rail and  Transit Department may adopt rules necessary for the administration
+of the laws that the Oregon Rail and Transit Department is charged with administering.
+SECTION 9. The Director of the Oregon Rail and Transit Department  and specially au-
+thorized representatives of the director may administer oaths, take  depositions and issue
+subpoenas to compel the attendance of witnesses and the  production of documents or other
+written information necessary to carry out the functions  of the Oregon Rail and Transit
+Department. If any person fails  to comply with a subpoena issued under this section or re-
+fuses to testify on matters on which the person lawfully may be  interrogated, the procedure
+set out in ORS 183.440 shall be followed to compel obedience.
+SECTION 10.
+(1) At the request  of the Director of the Oregon Rail and Transit Depart-
+ment, the Department of Transportation shall provide any of the following central  business
+operating services for the Oregon Rail and Transit Department:
+(a) Budget preparation services;
+(b) Daily processing for accounts payable, accounts receivable, payroll, receipts and dis-
+bursements;
+(c) Records and inventory maintenance accounting services;
+(d) Financial management reports and revenue and expenditure projections;
+(e) Purchasing, leasing and contracting services;
+(f) Internal audit services;
+(g) Computer and information system services; and
+(h) Human resources services.
+(2) The Oregon Rail and Transit  Department shall comply with all rules adopted by the
+Department of Transportation related to  the services provided by the Department of Trans-
+portation under subsection (1) of this section.
+(3) The Department of Transportation may charge the  Oregon Rail and Transit Depart-
+ment a fee for the  services the Department of Transportation provides under this section.
+The Department of Transportation shall calculate the rate of the fee using the same  meth-
+odology the Department of Transportation uses to calculate the central services  assessment
+imposed within the Department of Transportation for  similar services. The Oregon Rail and
+Transit Department shall pay any fees imposed under this section within 30  days of receiving
+the request for payment.
+(4) All moneys received by the Department of Transportation under this section shall  be
+paid into the State Treasury each month and credited to the Department  of Transportation
+Operating Fund established by ORS 184.642.
+(5) The Department of Transportation  shall adopt rules for the administration and im-
+plementation of this section.
+TRANSFER OF RAIL, LIGHT RAIL AND PUBLIC TRANSIT TO THE
+OREGON RAIL AND TRANSIT DEPARTMENT
+SECTION 11.
+The duties, functions and powers of the Department of  Transportation re-
+lated to rail, light rail and public transit are transferred to the Oregon Rail and Transit De-
+partment.
+SECTION 12.
+(1) Section 2 of this 2025 Act is intended  to establish the Oregon Rail and
+Transit Department as a state agency that is  separate from the Department of Transporta-
+tion.
+(2) Subject to section 10 of this 2025 Act, for the purpose of making the Oregon  Rail and
+Transit Department separate from the Department of Transportation,  the Director of
+Transportation shall:
+(a) Deliver to the Oregon  Rail and Transit Department all records and property within
+the jurisdiction of  the Director of Transportation that relate to the duties, functions and
+powers of the Director of Transportation regarding rail and public transit; and
+(b) Transfer  to the Oregon Rail and Transit Department those employees engaged pri-
+marily in the exercise of the duties, functions and powers relating to rail and public  transit.
+(3) The Oregon Rail and Transit Department shall take possession of  such property, and
+shall take charge of such employees and employ  them in the exercise of their duties, func-
+tions and powers as employees of the Oregon Rail and Transit Department, without re-
+duction of compensation but subject  to change or termination of employment or
+compensation as provided by law.
+(4) The Governor shall resolve any  dispute between the Department of Transportation
+and the Oregon Rail and Transit  Department relating to transfers of records, property and
+employees under this section, and the Governor’s decision is final.
+SECTION 13.
+(1) Except as otherwise provided in section 17 of this 2025 Act, the unex-
+pended balances of amounts authorized to be expended  by the Department of Transportation
+for the biennium beginning July 1,  2025, from revenues dedicated, continuously appropriated,
+appropriated or otherwise made available for the purpose of  administering and enforcing the
+duties, functions and powers transferred by section 11 of  this 2025 Act are transferred to and
+are available for expenditure by the Oregon Rail and Transit Department for the biennium
+beginning July 1, 2025, for the purpose of  administering and enforcing the duties, functions
+and powers transferred by section 11 of this 2025 Act.
+(2) The expenditure classifications, if any, established by Acts authorizing or limiting
+expenditures by the Department of Transportation remain applicable  to expenditures by the
+Oregon Rail and Transit Department under this section.
+SECTION 14.
+The transfer of duties,  functions and powers to the Oregon Rail and Transit
+Department by section 11 of this 2025 Act does not affect any action, proceeding  or prose-
+cution involving or with respect  to such duties, functions and powers begun before and
+pending at the time of the transfer,  except that the Oregon Rail and Transit Department is
+substituted for the Department of Transportation in the action, proceeding or prosecution.
+SECTION 15. (1) Nothing in the transfer  effected by section 11 of this 2025 Act relieves
+any person of any obligation with respect to a tax, fee, fine or other charge, interest, penalty,
+forfeiture or other liability, duty or obligation.
+(2) The rights and obligations of  the Department of Transportation legally incurred under
+contracts, leases and business transactions executed,  entered into or begun before the op-
+erative date  of section 11 of this 2025 Act are transferred to the Oregon Rail and Transit
+Department. For  the purpose of succession to these rights and obligations, the Oregon Rail
+and Transit Department is a  continuation of the Department of Transportation and not a
+new authority.
+SECTION 16.
+Whenever, in any law or  resolution of the Legislative Assembly or in any
+rule, document, record or  proceeding authorized by the Legislative Assembly, reference is
+made to the  rail, light rail or public transit functions of the Department of Transportation,
+or an employee of  the Department of Transportation, whose duties, functions or powers are
+transferred by section 11 of this 2025 Act, except  as otherwise specifically provided, the ref-
+erence is considered  to be a reference to the Oregon Rail and Transit Department or an
+employee of the Oregon Rail and Transit Department, as appropriate.
+SECTION 17.
+(1) Sections 2 to 16, 98, 152, 154, 156, 158, 160, 162, 164, 166, 168, 170,  172, 174,
+176, 177, 179, 182, 184, 186, 188, 189 and 191 to 194 of this 2025 Act, the amendments to statutes
+and session law by sections 22 to 97, 99 to 149, 151, 153, 155, 157,  159, 161, 163, 165, 167, 169,
+171, 173, 175, 178, 180, 181, 183,  185, 187 and 190 of this 2025 Act and the repeal of ORS 824.410
+by section 195 of this 2025 Act become operative on July 1, 2026.
+(2) Notwithstanding the operative date set forth in subsection (1) of this section,  until
+the Director of the Oregon Rail and Transit Department is appointed and has qualified,  the
+Department of Transportation  and the Director of Transportation shall continue to exercise
+and perform the duties, functions and powers transferred by section 11 of this  2025 Act, and
+to have charge of the records, property, employees and moneys transferred under sections
+11 to 13 of this 2025 Act. The Director of  the Oregon Rail and Transit Department and the
+State Rail and Transit Board may be appointed before  the operative date set forth in sub-
+section (1) of this section, and  the Department of Transportation may take any actions be-
+fore the operative date set forth in subsection (1)  of this section that are necessary to enable
+the Oregon Rail and Transit Department and  the State Rail and Transit Board to exercise,
+on and after the operative  date set forth in subsection (1) of this section, all the duties,
+functions and powers conferred on the Oregon Rail and Transit Department and the board
+by sections 2 to 16,  98, 152, 154, 156, 158, 160, 162, 164, 166, 168, 170, 172, 174, 176, 177, 179, 182,
+184, 186, 188, 189 and  191 to 194 of this 2025 Act, the amendments to statutes and session law
+by sections 22 to  97, 99 to 149, 151, 153, 155, 157, 159, 161, 163, 165, 167, 169, 171, 173, 175, 178,
+180, 181, 183, 185,  187 and 190 of this 2025 Act and the repeal of ORS 824.410 by section 195
+of this 2025 Act.
+(3) The Governor shall resolve any dispute  between the Department of Transportation
+and the Oregon Rail and Transit Department relating to  transfers of records, property and
+employees under this section, and the Governor’s decision is final.
+SECTION 18.
+Notwithstanding the transfer of duties, functions and powers by section 11
+of this 2025  Act, the rules of the Department of Transportation in effect on the operative
+date of section 11 of this 2025 Act  continue in effect until superseded or repealed by rules
+of the Oregon Rail and Transit Department. References in rules of  the Department of
+Transportation to the Department of Transportation or  an officer or employee of the De-
+partment of Transportation are considered to be references to the Oregon Rail  and Transit
+Department or an officer or employee of the Oregon Rail and Transit Department.
+SECTION 19. (1) For the purpose  of harmonizing and clarifying statute sections published
+in Oregon Revised Statutes,  the Legislative Counsel may substitute for words designating the
+Department of Transportation and the Director of Transportation,  wherever they occur in
+statutory law, words designating the Oregon Rail and Transit Department and the  Director
+of the Oregon Rail and Transit Department.
+(2) For the purpose of harmonizing and clarifying  statute sections published in Oregon
+Revised Statutes, the Legislative Counsel may substitute for words designating the Oregon
+Transportation Commission, wherever they occur in  statutory law, words designating the
+State Rail and Transit Board.
+REPORT
+SECTION 20.
+(1) No later than September 30, 2027, the Oregon Rail and Transit Depart-
+ment shall prepare and submit a report to the Joint Committee on Transportation.
+(2) The report shall address recommendations for expanding passenger and  freight rail
+service and public  transit service in Oregon, including the status of and recommendations
+for revising and improving:
+(a) The passenger rail plan required under ORS 824.400;
+(b) The use  of the moneys in the State Rail Rehabilitation Fund under ORS 824.016 for
+rail projects; and
+(c) The Oregon State Rail Plan.
+(3) The department may include any recommendations for legislation  or funding neces-
+sary to improve transportation by rail, light rail and public transit in Oregon.
+SECTION 21.
+Section 20 of this 2025 Act is repealed on January 2, 2028.
+CONFORMING AMENDMENTS IN ORS CHAPTER 824
+SECTION 22.  ORS 824.010 is amended to read:
+824.010. (1) Subject to the provisions  of subsections (3) and (4) of this section, each railroad shall
+pay to the [ Department of Transportation ] Oregon Rail and Transit Department  in each year, such
+fee as the department finds and determines to be necessary, with  the amount of all other fees paid
+or payable to the department by such railroads in the current calendar year, to defray  the costs of
+performing the duties imposed by law upon the department in respect  to such railroads and to pay
+such amounts as may  be necessary to obtain matching funds to implement the program referred to
+in ORS 824.058.
+(2) In each calendar year the percentage rate  of the fee required to be paid shall be determined
+by orders entered by the department on or after March  1 of each year, and notice thereof shall be
+given to each railroad. [ Such] Each  railroad shall pay to the department the fee or portion [ thereof
+so] of the fee  computed upon the  date specified in [ such] the  notice, which [ date] shall be at least
+15 days after the date of mailing [ such] the  notice.
+(3) Fifty percent of the cost of carrying out the  duties, functions and powers imposed upon the
+department by ORS 824.200 to 824.256 shall be paid from the Grade Crossing Protection Account.
+(4) The department shall determine the gross operating revenues derived within this  state in the
+preceding calendar year by Class I railroads as a whole and by other railroads  individually subject
+to the following limitations:
+(a) The total of the fees  payable by Class I railroads [ shall] may not exceed thirty-five hun-
+dredths of one percent of the combined gross operating  revenues of Class I railroads derived within
+this state. The fee paid by each Class I railroad shall  bear the same proportion to the total fees paid
+by Class I railroads as such  railroad’s share of railroad-highway crossings, track miles and gross
+operating revenues derived within the state, weighted equally,  bears to the total amount of Class I
+railroad-highway crossings within  the state, track miles within the state and gross operating re-
+venues derived within the state.
+(b) The fees payable by other railroads [ shall] may  not exceed thirty-five hundredths  of one
+percent of any such railroad’s gross operating revenues.
+(5) Payment of each fee or portion thereof provided for in subsections (1) to (4) of this  section
+shall be accompanied by a statement verified by  the railroad involved showing its gross operating
+revenues upon which such fee or portion thereof is computed. This statement shall be  in such form
+and detail as the  [ Department of Transportation ] Oregon Rail and Transit Department  shall pre-
+scribe and shall be subject to  audit by the department. The department may refund any overpay-
+ment of any such fee in the same manner as other claims and expenses of the  department are
+payable as provided by law.
+SECTION 23.
+ ORS 824.012 is amended to read:
+824.012. Every person who fails to  pay any fees provided for in ORS 824.010 after they are due
+and payable shall, in addition  to such fees, pay a penalty of two percent of such fees for each and
+every  month  or fraction thereof that they remain unpaid. If, in the judgment of the [ Department of
+Transportation] Oregon Rail and Transit Department , action is necessary to collect any  unpaid
+fees or penalties, the department shall bring such  action or take such proceedings as may be nec-
+essary thereon  in the name of the State of Oregon in any court of competent jurisdiction, and be
+entitled to recover all costs and disbursements incurred therein.
+SECTION 24.  ORS 824.014 is amended to read:
+824.014. (1) The Railroad Fund is established separate and distinct  from the General Fund. In-
+terest earned, if  any, shall inure to the benefit of the Railroad Fund.  All moneys in the Railroad
+Fund are continuously appropriated to the Oregon Rail and Transit Department.
+(2) All fees, penalties and other moneys collected  by the [ Department of Transportation ] Oregon
+Rail and Transit Department  under ORS 824.010  and 824.012 shall be paid by the department into
+the State Treasury within 30 days after the collection thereof, and shall be placed  by the State
+Treasurer to the credit of the Railroad Fund created by subsection (1) of this section.
+(3) The fees,  penalties and other moneys collected from railroads shall be used only for the
+purpose of paying the expenses of  the department in performing the duties imposed by law upon the
+department in respect to railroads.
+SECTION 25.  ORS 824.016 is amended to read:
+824.016. (1) The State Rail Rehabilitation Fund is established as an account in  the General Fund
+of the State Treasury. All moneys in  the account are appropriated continuously to the [ Department
+of Transportation ] Oregon Rail and  Transit Department  for expenditures for any or all of the
+following:
+(a) Acquisition of a railroad line.
+(b) Rehabilitation or improvement of rail properties.
+(c) Planning for rail services.
+(d) Any other methods of reducing the costs of lost rail service in this state.
+(e) Rail projects, including:
+(A) Capacity improvements, such as:
+(i) New or lengthened sidings;
+(ii) Industrial spur rehabilitation; and
+(iii) Industrial spur construction;
+(B) Capital investments that improve safety; and
+(C) Capital investments that reduce greenhouse gases.
+(f) Providing state matching funds to leverage federal  discretionary grant funding for rail
+projects.
+(2) The program  developed by the [ Department of Transportation ] Oregon Rail and Transit
+Department under this section to provide funds shall include:
+(a) Development of a methodology  for prioritizing funding that takes into consideration an
+applicant’s ability to use funding sources to  leverage federal discretionary grant funding for rail
+projects.
+(b) A requirement  that rail projects selected are projects that are consistent with the goals of
+the Oregon State Rail Plan.
+(3) The [ Department of Transportation ] Oregon Rail  and Transit Department shall provide
+funds under this section only with the approval of  the [ Oregon Transportation Commission ] State
+Rail and Transit Board .
+(4) The department may use  moneys in the fund to pay the department’s administrative costs
+associated with the fund and with carrying out the provisions of this section.
+(5) Not later than December 31 of each  even-numbered year, the department shall report, in the
+manner provided in ORS 192.245, to the Joint Committee on Transportation regarding the expen-
+ditures of moneys in the fund and the status of rail projects  that have received moneys from the
+fund.
+SECTION 26.
+ ORS 824.018 is amended to read:
+824.018. (1) There is established in the State Highway Fund an account to be  known as the
+Grade Crossing  Protection Account. There shall be credited to the account each fiscal year, from
+funds received by the State Highway Fund from the  registration of vehicles and licensing of drivers
+under the Oregon Vehicle Code, the sum of $300,000  plus an amount equal to 50 percent of the cost
+of carrying out the duties, functions  and powers imposed upon the [ Department of Transportation ]
+Oregon Rail and Transit Department  by ORS 824.200 to 824.256.  State-shared highway fund re-
+venues for cities and counties, as well  as [ Department of Transportation ] Oregon Rail and Transit
+Department expenditures for the elimination of hazardous  railroad-highway crossings, shall be
+computed and allocated prior to any appropriation or transfer to the  account. The amount of
+$300,000 credited to the account is continuously  appropriated  to the Oregon Rail and Transit
+Department and  shall be expended for railroad-highway crossing safety as authorized by ORS
+824.242 to 824.248 and subsection (2) of this section. The amount credited to the  account for paying
+the cost of carrying out the duties,  functions and powers of the department by ORS 824.200 to
+824.256 is transferred and appropriated to the [ Department of Transportation ] Oregon Rail and
+Transit Department  and shall be used as provided  in ORS 824.010 (3). No more than $100,000 in
+the aggregate shall be allocated  from the account in any one fiscal year for costs of construction,
+reconstruction, alteration or relocation of separated crossings; provided however the  unapportioned
+amount in the Grade Crossing Protection Account at the end of each fiscal year  may be allocated
+for costs of reconstruction, alteration or relocation of separated crossings.
+(2) Moneys credited to the account may also be allocated for such  highway purposes as the
+[Department of Transportation ] Oregon Rail and Transit Department  deems appropriate in order
+to enhance safety at railroad-highway crossings. The [ Department of Transportation ] Oregon Rail
+and Transit Department  may allocate no more than  $100,000 annually to railroads to defray the
+costs of maintenance of protective devices at railroad-highway crossings.
+(3) As used in this  section, “highway,” “maintenance costs,” “protective device” and “railroad”
+have the meaning given those terms in ORS 824.200.
+SECTION 27.  ORS 824.019 is amended to read:
+824.019. (1) The Grade Crossing Safety Improvement Fund is established separate  and distinct
+from the General  Fund. Interest earned by the Grade Crossing Safety Improvement Fund shall be
+credited to the fund.
+(2) Notwithstanding [ ORS 823.991 ] section 191 of this 2025  Act , all civil penalties collected
+under ORS 824.222 and 824.223 shall be paid by the [ Department of Transportation ] Oregon Rail and
+Transit Department  into the State Treasury within 30 days after the collection thereof and shall
+be placed by the State Treasurer to the  credit of the Grade Crossing Safety Improvement Fund.
+Moneys in the fund are continuously appropriated to the [ Department of  Transportation ] Oregon
+Rail and Transit Department  for the purpose of grade crossing safety improvement projects.
+SECTION 28.
+ ORS 824.020 is amended to read:
+824.020. As used in ORS 824.020 to 824.042, unless the context requires otherwise:
+(1) “Class I railroad” has the meaning given that term in  rules adopted by the [ Department of
+Transportation] Oregon Rail and Transit Department . The definition of “Class I railroad” in  rules
+adopted by the [ Department of Transportation ] Oregon Rail and Transit Department  shall be
+consistent, insofar as practicable, with the definition of the term under federal  law and regulations.
+(2) “Railroad” means all corporations, municipal corporations, counties, companies,  individuals,
+associations of individuals and their lessees, trustees or receivers, that:
+(a) Own, operate by steam, electric or other  motive power, manage or control all or part of any
+railroad  or  interurban railroad as a common or for hire carrier in this state, or cars or other
+equipment used thereon, or  bridges, terminals or sidetracks used in connection therewith, whether
+owned or operated under a contract, agreement, lease or otherwise.
+(b) Are engaged in the ownership, management or control of terminals  in this state, which cor-
+porations, municipal corporations, counties, companies, individuals  and associations hereby are de-
+clared to be common and for hire carriers, or  the transportation of property within this state by
+express.
+SECTION 29.
+ ORS 824.026 is amended to read:
+824.026. (1)  The [ Department of Transportation ] Oregon Rail and Transit Department  shall
+employ at least three full-time railroad inspectors to assist the  department as the department may
+prescribe in:
+(a) Inquiring into any neglect or violation of  and enforcing any law of this state or any law or
+ordinance of any municipality thereof relating to railroad safety;
+(b) Inquiring into any neglect or violation  of and enforcing any rule, regulation, requirement,
+order, term or condition issued by the department relating to railroad safety; and
+(c) Conducting any investigative, surveillance and enforcement activities that  the department is
+authorized to conduct under federal law in  connection with any federal law, rule, regulation, order
+or standard relating to railroad safety.
+(2) A railroad inspector may inspect any train and the contents thereof  that the railroad in-
+spector reasonably believes is being operated in violation of any law,  ordinance, rule, regulation,
+requirement, order, standard, term or condition referred to in subsection (1) of this section.
+SECTION 30.  ORS 824.030 is amended to read:
+824.030. (1) Every railroad  shall annually, on or before May 1, unless additional time is granted,
+file with the [ Department of  Transportation ] Oregon Rail and Transit Department  a report verified
+by a duly authorized officer, in such  form and containing such information as the department shall
+prescribe, covering the year ending December 31 next preceding.
+(2) Any railroad failing to make such report shall forfeit to the state, for each day’s default, a
+sum not to exceed $100, to be recovered in a civil action in the name of the State of Oregon.
+SECTION 31.  ORS 824.042 is amended to read:
+824.042. The [ Department of Transportation ] Oregon Rail and Transit  Department  shall par-
+ticipate before the appropriate federal  agency in all contested railroad line abandonment pro-
+ceedings involving the proposed abandonment of  any railroad line in this state. Prior to such
+participation, the department shall consult with public entities and users of  railroad service affected
+by the proposed abandonment.
+SECTION 32.
+ ORS 824.045 is amended to read:
+824.045. (1) Subject to ORS 479.950, the [ Department of Transportation ] Oregon Rail and Transit
+Department, by rule, shall establish a state safety oversight program that applies to all rail  fixed
+guideway public transportation systems in Oregon that are not subject  to regulation by the Federal
+Railroad  Administration.
+(2) For purposes of 49 U.S.C. 5329(e), the department is designated as the state  safety oversight
+agency to monitor compliance with the program for rail fixed guideway public transportation  sys-
+tems that are not  subject to regulation by the Federal Railroad Administration. The state safety
+oversight agency and rules:
+(a) Shall implement the state safety oversight program in compliance with  the requirements of
+49 U.S.C. 5329.
+(b) Shall review, approve, oversee and enforce the implementation, by  the owner and operator
+of a rail fixed  guideway public transportation system, of the public transportation agency safety plan
+adopted pursuant to 49 U.S.C. 5329(d).
+(c) Shall inspect, investigate and enforce the safety of rail fixed guideway public transportation
+systems.
+(d) Shall audit rail fixed guideway public transportation systems for compliance with the public
+transportation agency safety plan.
+(e) May investigate any hazard or risk that threatens the safety of a rail fixed guideway public
+transportation system.
+(f) May investigate any event involving a rail fixed guideway public transportation system.
+(g) May investigate any allegation of noncompliance with a transit agency safety plan.
+(3) The department shall implement the state safety oversight  program for rail fixed guideway
+public transportation systems that are not subject to regulation by the Federal  Railroad Adminis-
+tration and that are not subject to 49 U.S.C. 5329.
+(4) Unless prohibited by federal  law, the department shall set an annual fee for owners and op-
+erators of rail fixed guideway public transportation systems to defray the costs  of the state safety
+oversight program and the costs associated  with department responsibilities under ORS 267.230 (2).
+The department shall establish by rule the manner and timing of the collection of the fee.
+(5) Fees collected by the department that are in excess of the  combined actual cost of the state
+safety oversight program and the costs associated with department  responsibilities under ORS
+267.230 (2) shall be refunded to owners and operators of rail fixed guideway public  transportation
+systems within one year following the end of  the fiscal year in which the department collected the
+excess fees. In lieu of a refund, an owner or operator of a rail  fixed guideway public transportation
+system may choose to have the excess fees credited against the subsequent year’s fee payment.
+SECTION 33.
+ ORS 824.050 is amended to read:
+824.050. (1) Except as provided in subsection (2) of this section, the [ Department of  Transporta-
+tion] Oregon Rail and Transit  Department shall examine and inspect the physical condition of all
+railroad facilities in the state,  including roadbeds, stations and equipment. Whenever it appears from
+such inspection that the safety of the public or the employees of such railroad may be threatened,
+notice of the condition or practice under investigation shall be given to the railroad and any person
+responsible for the maintenance or use  of the railroad facility. If such condition or practice is not
+corrected to the department’s satisfaction, the department shall set the  matter for hearing. Fol-
+lowing such hearing the department shall order the railroad or person  responsible for the mainte-
+nance or use of the railroad facility to make any repairs,  alterations, or changes necessary to
+correct or eliminate  any condition or practice found to threaten the safety of the public or the em-
+ployees of the railroad. If in the opinion of the department [ of Transportation ] a condition or practice
+is so hazardous as to place the employees of  the railroad in immediate danger the department may
+issue, after hearing,  upon 48 hours’ written notice given the railroad, an order prohibiting the use
+of the facility until such time as necessary repair, alterations or changes are made.
+(2) This section does not apply to a penalty imposed under ORS 824.090 or 824.992 (7) and (8).
+SECTION 34.
+ ORS 824.052 is amended to read:
+824.052. The [ Department of Transportation ] Oregon Rail and Transit Department , upon  the
+department’s own motion or upon application of any person, and with or without hearing:
+(1) May enter an order prescribing standard track clearances for railroads.
+(2) Upon finding good cause, may enter an order  granting authority for a railroad to operate
+at particular points with clearances different from those prescribed as standard track clearances.
+SECTION 35.
+ ORS 824.054 is amended to read:
+824.054. (1)  The [ Department of Transportation ] Oregon Rail and Transit Department  may co-
+operate with, make certifications  to, and enter agreements with the Secretary of Transportation of
+the United States, or any other federal agency with jurisdiction over railroads,  under the Federal
+Railroad Safety Act of 1970, as amended through the effective date of that Act.
+(2) The [ Department of Transportation ] Oregon Rail and Transit Department  may assume re-
+sponsibility for and carry out on behalf of the  Secretary of Transportation of the United States, or
+any other federal agency with jurisdiction over railroads, regulatory jurisdiction over the safety
+practices applicable to railroad facilities and operations in Oregon not  otherwise subject to the ju-
+risdiction of any other agency of this state.
+(3) Notwithstanding  any other provisions of law to the contrary, the [ Department of Transpor-
+tation] Oregon Rail and Transit Department  shall make  public such reports as are required to be
+made public  under the Federal Railroad Safety Act of 1970, as amended through the effective date
+of that Act and shall provide such information as is required thereunder to the Secretary of  Trans-
+portation of the United States.
+SECTION 36.
+ ORS 824.056 is amended to read:
+824.056. (1) The [ Department of Transportation ] Oregon Rail and Transit Department , upon the
+department’s motion  or upon application of any person, shall adopt rules that prescribe standards
+for walkways alongside railroad tracks where necessary for the safety of railroad employees.
+(2) The department may for good cause shown permit variances from the standards  so pre-
+scribed.
+SECTION 37.  ORS 824.058 is amended to read:
+824.058. The [ Department of Transportation ] Oregon Rail and Transit Department  may:
+(1) Identify segments of railroad track in this state that:
+(a) Are abandoned, threatened with abandonment or have physical characteristics that reduce
+freight service; and
+(b) Have the potential for providing renewed, continued or improved rail service that would
+benefit the state or community beyond the cost involved.
+(2) Develop and implement programs to encourage improvement of service  over segments of
+railroad track identified under subsection (1) of this section.
+(3) With the prior approval of the [ Oregon Transportation  Commission ] State Rail and Transit
+Board, enter into agreements with the United States Government, a political  subdivision in this
+state or any person to:
+(a) Continue existing rail service on a segment of railroad  track identified under subsection (1)
+of this section;
+(b) Acquire  a segment of railroad track identified under subsection (1) of this section to maintain
+existing or provide for future rail service;
+(c) Rehabilitate or  improve, to the extent necessary to permit more adequate and efficient rail
+service, railroad property on a segment of railroad track identified under subsection (1) of  this sec-
+tion; or
+(d) Provide funding for less expensive alternatives  to rail service over a segment of railroad
+track identified under subsection (1) of this section.
+(4) Do any  act required of this state under rules adopted by the United States Secretary of
+Transportation under section 1654, title 49, United States Code, for  allocation and distribution of
+funds to any state under section 1654, title 49, United States Code, for preserving  or improving rail
+freight service in this state.
+SECTION 38.
+ ORS 824.060 is amended to read:
+824.060. (1) Every locomotive of every railroad  operating in this state shall be equipped with a
+first aid kit.
+(2) All locomotives shall be equipped with fire extinguishers  meeting the following requirements:
+(a) Each locomotive shall have at least one portable fire extinguisher.
+(b) Fire extinguishers may be of a foam, dry chemical or carbon dioxide type.
+(c) The fire  extinguishers in each locomotive shall provide a minimum capacity of one and one-
+quarter gallons or five pounds. More than one fire extinguisher may be used to comply with the
+minimum capacity requirement under this paragraph.
+(d) Fire extinguishers shall be placed in readily accessible locations.
+(e) Fire extinguishers shall be maintained in working order.
+(3) A railroad may apply  for a temporary exemption from the provisions of subsection (2) of this
+section. The [ Department of Transportation ] Oregon Rail and Transit Department  will consider the
+application of the railroad for  a temporary exemption when accompanied by a full statement of the
+conditions existing and the reasons for the exemption. Any exemption  so granted will be limited to
+a stated period of time.
+SECTION 39.
+ ORS 824.068 is amended to read:
+824.068. (1)  The [ Department of Transportation ] Oregon Rail and Transit Department  shall
+prescribe standards for water quality on railroad locomotives in this state.
+(2) The department may for good cause shown permit variances from the standards  so pre-
+scribed.
+SECTION 40.  ORS 824.080 is amended to read:
+824.080. As used in ORS 824.082 to  824.090, “hazardous materials” means those substances des-
+ignated by the [ Department of  Transportation ] Oregon Rail and Transit Department  pursuant to
+ORS 824.086 (1).
+SECTION 41.  ORS 824.082 is amended to read:
+824.082. (1) Before transporting hazardous materials into this state or from a railroad terminal
+located within this state, a railroad shall, as soon as reasonably possible after it has  notice of such
+train movement, provide such  notification thereof as the [ Department of Transportation ] Oregon Rail
+and Transit Department  determines pursuant to ORS 824.086.  If the information necessary for the
+notification is not available before  beginning the train movement, or if hazardous materials are
+added to the train while en route, notification shall be given as soon as the  information is available.
+For the purposes of this subsection, “train movement” does not include  a switching or transfer
+movement.
+(2) Except to the extent that the [ Department of  Transportation ] Oregon Rail and Transit De-
+partment determines  is necessary to provide for the safe transportation of the hazardous materials,
+the department, an  employee of the department and any person receiving information pursuant to
+this section shall  not divulge or make known the information contained in the notification at any
+time before or during the transportation  of the hazardous materials for which the notification is
+provided.
+SECTION 42.
+ ORS 824.086 is amended to read:
+824.086. After consultation with the State Fire Marshal , the [ Department of Transportation ]
+Oregon Rail and Transit Department  shall determine:
+(1) What material  and quantity thereof the transportation of which is hazardous to public health,
+safety or welfare and shall designate by rule  such materials and quantities as hazardous materials.
+In defining hazardous materials the department  shall adopt definitions in conformity with the federal
+rules and regulations. Rules adopted under this subsection shall  be applicable to any person who
+transports, or causes to be transported, any hazardous material.
+(2) What notification required by ORS 824.082 (1) is  necessary to provide for the safe transpor-
+tation of hazardous materials, including but not limited to the time, content and manner  of notifi-
+cation.
+SECTION 43.  ORS 824.090 is amended to read:
+824.090. (1) The [ Department of Transportation ] Oregon Rail and Transit Department  shall
+adopt rules setting standards for the safe transportation  of hazardous wastes, as defined in ORS
+466.005, by all transporters.
+(2) The authority granted under this section:
+(a) Is in addition to any other authority granted the department.
+(b) Does not supersede the  authority of the Energy Facility Siting Council to regulate the
+transportation of radioactive materials under ORS 469.550, 469.563, 469.603 to 469.619 and 469.992.
+(3) In addition to any other penalty for violation of a rule adopted under this  section, the de-
+partment, in the manner provided in ORS 183.745, may impose a civil penalty of not  more than
+$10,000 for violation of a rule adopted under this section. Each day  of noncompliance with a rule is
+a separate violation.
+(4) As used in this section, “transporter” has the meaning given that term in ORS 466.005.
+SECTION 44.
+ ORS 824.092 is amended to read:
+824.092. Records, reports  and information obtained or used by the [Department of
+Transportation] Oregon Rail  and Transit Department  in administering the hazardous waste pro-
+gram under ORS 824.090 shall be  available to the United States Environmental Protection Agency
+upon request. If the records, reports or information has been submitted to the department  under a
+claim of confidentiality, the state shall make that claim of confidentiality to  the Environmental
+Protection Agency for the requested records, reports or information. The federal agency shall  treat
+the records, reports or information that is subject to the confidentiality claim as confidential in ac-
+cordance with applicable federal law.
+SECTION 45.
+ ORS 824.108 is amended to read:
+824.108. A  register for the reporting of failures of required equipment or standards of mainte-
+nance shall be maintained on all cabooses. The register shall contain sufficient space to  record the
+dates and  particulars of each failure. The [ Department of Transportation ] Oregon Rail and Transit
+Department shall provide rules for the use of this register, including a requirement that the  record
+of reported failures be maintained not less than 80 days from the date of the most recent failure.
+SECTION 46.
+ ORS 824.110 is amended to read:
+824.110. The [ Department of Transportation ] Oregon Rail and Transit  Department  shall regu-
+late and enforce all sections of ORS 824.102 to 824.110 and shall promulgate all rules necessary for
+the enforcement of ORS 824.102 to 824.110.
+SECTION 47.
+ ORS 824.202 is amended to read:
+824.202. It is the policy of this state to achieve  uniform and coordinated regulation of railroad-
+highway crossings and to eliminate  crossings at grade wherever possible. To these ends, authority
+to control and regulate the construction, alteration, and protection of railroad-highway crossings  is
+vested exclusively in the state, and in the [ Department of  Transportation ] Oregon Rail and Transit
+Department as provided in ORS 824.200 to 824.256.
+SECTION 48.  ORS 824.204 is amended to read:
+824.204. (1) Except for the repair of lawfully existing roads and highways or the  replacement of
+tracks, no highway shall be  constructed across the track of any railroad company at grade, nor shall
+the track of any railroad company be  constructed across a highway at grade, without having first
+secured the permission of the [Department of Transportation] Oregon Rail and Transit
+Department.
+(2) Whenever any  railroad company desires to cross any established and existing highway at
+grade or any  public authority desires to lay out and extend any highway over and across any es-
+tablished and existing railroad at grade, it  shall file with the department its application setting forth
+the objections and difficulties of making such crossing either above or below the grade of  the ex-
+isting highway or railroad.
+(3) Upon receipt of the above application the department, after hearing, unless a hearing is not
+required under ORS 824.214, shall:
+(a) Determine whether the public safety, public convenience  and general welfare require a grade
+separation; and
+(b) In the event a grade separation is not required, determine  whether the application should
+be refused or granted, and upon what terms and conditions.
+(4) If the grade crossing is approved,  the department shall determine and prescribe the manner
+of its construction, maintenance and  use, the kind and location of protective devices to be installed,
+the allocation of costs and the place of the crossing.
+SECTION 49.  ORS 824.206 is amended to read:
+824.206. (1) The [ Department of Transportation ] Oregon Rail and  Transit Department  may,
+upon its own motion  or upon application by a railroad or the public authority in interest, subsequent
+to a hearing, unless a hearing is  not required under ORS 824.214, and upon finding that such action
+is required by the public safety, necessity, convenience and general welfare:
+(a) Eliminate a grade crossing by relocation of the highway;
+(b) Alter or abolish any grade crossing or change the location thereof, or require  a separation
+of grades at any such crossing;
+(c) Alter or change any existing crossing at separated grades; and
+(d) Require installation or alteration of protective devices.
+(2) The department shall prescribe the time and manner  of such alteration, change, installation
+or alteration, and the terms and conditions thereof.
+SECTION 50.
+ ORS 824.208 is amended to read:
+824.208. (1) The power to fix and regulate the speed  of railway trains and to regulate the
+sounding of railway train  warning devices at public railroad-highway crossings is vested exclusively
+in the state.
+(2) Upon petition of any public authority in interest or of any railroad or upon  the [ Department
+of Transportation’s ] Oregon Rail and Transit Department’s  own motion, the  department [ of
+Transportation] shall,  after due investigation and hearing, unless a hearing is not required under
+ORS 824.214 enter an  order fixing and regulating the speed of railway trains or regulating the
+sounding of railway train warning devices.
+(3) The speed limits fixed by the department shall be maximum speed limits and shall be
+commensurate with the hazards presented and the practical operation of the trains.
+SECTION 51.  ORS 824.210 is amended to read:
+824.210. [No highway shall ] A highway may not  be  constructed across the track of any railroad
+company above or below grade, nor shall the track of any railroad company  be constructed across
+a highway above or below grade, without having first secured  the permission of the [ Department of
+Transportation] Oregon Rail and Transit Department . If  permission is granted, the department
+shall, after a hearing, unless hearing is  not required under ORS 824.214, prescribe the terms and
+conditions upon which such crossing shall be made and shall allocate the cost of construction and
+maintenance.
+SECTION 52.
+ ORS 824.212 is amended to read:
+824.212. (1) The [ Department of Transportation ] Oregon Rail and Transit Department  shall
+adopt regulations prescribing  specifications for the construction and maintenance of railroad-
+highway crossings, both at grade level and at separated grades. The specifications shall  be devel-
+oped in consultation with representatives of cities and  counties and shall conform to nationally
+recognized and commonly used standards to ensure that the crossings  are constructed and main-
+tained in a manner that conforms to the public safety, necessity, convenience and general welfare,
+including but not limited to the projected transportation needs.
+(2) Specifications for separate crossings  adopted under subsection (1) of this section do not apply
+to crossings in existence on the effective date of  the regulation prescribing the specifications.
+However, within a reasonable period after the effective date, crossings shall be  altered or recon-
+structed to comply with the regulations in effect at the time of the alteration or reconstruction.
+(3) Priorities for such alterations or reconstruction shall be established by the  [ Department of
+Transportation] Oregon Rail and Transit Department , based upon the expressed need of the public
+authority in interest, and upon such other  factors as danger or inconvenience to motorists, age of
+the structure, frequency of reported accidents and degree of noncompliance with regulations.
+(4) If the public authority in interest or the railroad company  fails to so alter or reconstruct a
+crossing, the department, after  following the procedures specified in ORS chapter 183 for contested
+cases, may order the alteration or reconstruction and proceed in accordance with ORS 824.216.
+SECTION 53.
+ ORS 824.214 is amended to read:
+824.214. (1)  Proceedings to carry out ORS 824.204, 824.206, 824.210 to 824.218, 824.224, 824.226
+to 824.230, 824.238, 824.240 and 824.256, including the right to review  any order of the [ Department
+of Transportation ] Oregon Rail  and Transit Department , shall be those specified in ORS chapter
+183 for contested  cases. If the final order of the department, in a proceeding initiated under ORS
+824.206 or 824.226 by a city or county, is appealed and the city  or county prevails, it shall be enti-
+tled to costs and reasonable attorney fees.
+(2) The department may adopt rules to govern the procedure, and to regulate the  mode and
+manner of all  investigations under ORS 824.204, 824.206, 824.210 to 824.218, 824.224, 824.226 to
+824.230, 824.238, 824.240 and 824.256.
+(3) The authority granted the department by ORS 824.200  to 824.256 is in addition to and not in
+lieu of the  authority of any city, county or other political subdivision of the state to use other
+remedies and procedures to provide public highways for the traveling public.
+SECTION 54.
+ ORS 824.216 is amended to read:
+824.216. (1) The railroad company, public authority or  person to whom an order of the [ Depart-
+ment of Transportation ] Oregon  Rail and Transit Department  is directed under ORS 824.200 to
+824.256 shall  comply with such order within such reasonable time as may be prescribed by the de-
+partment. In case of failure to comply, the department shall thereupon take proceedings to  compel
+obedience to such order.
+(2) The circuit  court has power in case of all such orders by the department to compel obedience
+therewith by mandamus,  brought in the name of the state, subject, however, to appeal to the Court
+of Appeals in the same manner and with like  effect as provided in cases of appeal from the order
+of the circuit court.
+SECTION 55.  ORS 824.218 is amended to read:
+824.218. All work and the material for work  done under ORS 824.200, 824.204, 824.206, 824.210
+to 824.218, 824.226 to 824.230, 824.238, 824.240 and 824.256 within the limits of railroad rights  of way
+shall, if the railroad company so desires, be furnished and done by the  railroad company. However,
+the [ Department of Transportation ] Oregon Rail and Transit  Department  shall have supervision
+of the work and may decide the kind of material to be used.
+SECTION 56.  ORS 824.220 is amended to read:
+824.220. The [ Department of Transportation ] Oregon Rail and Transit Department  shall  adopt
+rules prescribing specifications for the design and location of protective devices.
+SECTION 57.  ORS 824.222 is amended to read:
+824.222. (1) The power to fix and regulate the  length of time a public railroad-highway grade
+crossing may be blocked by railroad equipment is vested exclusively in the state.
+(2)(a) Upon petition of the public authority in interest, or of any railroad or upon  the [ Depart-
+ment of Transportation’s ] Oregon Rail  and Transit Department’s  own motion, the department
+shall, after due investigation and hearing, unless hearing is not required under ORS 824.214,  enter
+an order fixing and regulating  the length of time a public railroad-highway grade crossing may be
+blocked by railroad equipment.
+(b) Upon petition of a person, the department  shall investigate and may hold a hearing and,
+following  a  hearing, may enter an order fixing and regulating the length of time a public railroad-
+highway grade crossing may be blocked by railroad equipment.
+(3) The time limits fixed by the department shall be maximum time  limits and shall be
+commensurate with reasonable requirements of train and vehicular traffic operations.
+(4) Violation of a time limit fixed by  the department under this section is punishable by a civil
+penalty of not less than $100 nor more than $3,000 for each offense.
+SECTION 58.  ORS 824.223 is amended to read:
+824.223. (1) The power to regulate the distance from a public railroad-highway  grade crossing
+at which a railroad may stop or park equipment is vested exclusively in the state.
+(2)(a) Upon petition  of the public authority in interest, or of any railroad or upon the [ Depart-
+ment of Transportation’s ] Oregon Rail and Transit Department’s  own motion, the department
+shall, after  due investigation and hearing, unless hearing is not required under ORS 824.214, enter
+an order  establishing a safe distance from a public railroad-highway grade crossing at which a
+railroad may stop or park equipment.
+(b) Upon petition of a person, the department shall  investigate and may hold a hearing and,
+following a hearing, may enter an order establishing a safe distance from a public  railroad-highway
+grade crossing at which a railroad may stop or park equipment.
+(3) In determining what  constitutes a safe distance under subsection (2) of this section, the de-
+partment shall consider issues including, but not limited to, hazards associated  with public
+railroad-highway grade crossings that do not have active protective devices.
+(4) Violation of an order issued under subsection (2) of this section is punishable by a civil
+penalty of not less than $100 nor more than $3,000 for each offense.
+SECTION 59.
+ ORS 824.224 is amended to read:
+824.224. (1) At every farm or private grade  crossing of a railroad where no automatic grade
+crossing protective device is installed, the railroad shall cause to be installed  and maintained, as a
+means of protecting the crossing, one or more stop signs.
+(2) The [ Department of  Transportation ] Oregon Rail and Transit Department  shall, after
+hearing, unless hearing is not required under ORS 824.214, prescribe the number, type and  location
+of the stop signs and  may exempt a farm or private grade crossing if the department finds that the
+installation of such sign or signs at the crossing  would create a hazard or dangerous condition that
+would not otherwise exist.
+(3) After notice to any affected landowner and opportunity for a hearing, unless  a hearing is not
+required under ORS 824.214, the department [ of Transportation ] may alter, relocate or close any farm
+or private grade crossing on any line designated as a high speed rail system.
+(4) If the  department decides to alter, relocate or close a farm or private grade crossing in such
+a manner as to constitute a taking of private property, the  department shall exercise its power of
+eminent domain to acquire such property as is necessary to carry out the decision.  A department
+order under this subsection  shall constitute a resolution of necessity for exercise of the department’s
+power of eminent domain.
+(5) If the department exercises its power  of eminent domain under subsection (4) of this section,
+the department shall use any  combination of state or federal funds allocated for high speed rail
+systems to pay any settlement with or judgment in  favor of an owner of a farm or private grade
+crossing. The department shall have discretion to determine whether to reach a settlement  with an
+owner of a farm or private grade crossing.
+(6) The costs of implementing a department order issued  under subsection (3) of this section
+shall be apportioned to any combination of state or federal  funds specifically allocated for high
+speed rail systems as the department  determines appropriate in order to eliminate farm or private
+grade crossings or to enhance safety at such crossings.
+SECTION 60.  ORS 824.226 is amended to read:
+824.226. (1) The [ Department of Transportation ] Oregon  Rail and Transit Department  on its
+own motion may, or upon application by the common  council or mayor of any city, or any county
+judge or county commissioner or county roadmaster,  or by five or more residents and taxpayers in
+any city, county or road district  to the effect that a public highway and a railroad cross one another
+in such  city, county or road district at the same level, and that such grade crossing is unsafe and
+dangerous to travelers over such highway or railroad, shall, give  notice to the railroad company,
+of the filing of such application, and furnish a copy of the same to the railroad  company, and order
+a hearing thereon in the manner provided for contested case hearings under ORS chapter 183.
+(2) If upon such hearing  it appears to the satisfaction of the department that the crossing com-
+plained of is unsafe and dangerous to  human life, the department may order the crossing closed or
+order and direct the railroad or public authority to install and maintain proper  protective devices,
+and establish a date  by which such devices are to be installed and placed into operation. The de-
+partment shall apportion the installation and maintenance costs  thereof in accordance with ORS
+824.242 to 824.246, and, notwithstanding the provisions of ORS chapter 183, shall  suspend the effec-
+tive date of the order until the public authority in interest has consented to  the apportionment and
+has agreed to comply therewith.
+SECTION 61.
+ ORS 824.228 is amended to read:
+824.228. (1) Whenever it becomes necessary for  the track of one railroad to cross the track of
+another railroad, the [ Department of Transportation ] Oregon Rail  and Transit Department  shall
+ascertain and define either on the application of a railroad or on  its own motion and after notice
+to the affected railroads, in the manner provided for contested cases in ORS chapter  183, the mode
+of such crossing that occasions the least probable injury upon the  safety, welfare and interests of
+the public and the rights of the company owning the road that is intended to be crossed.
+(2) The department shall also determine the compensation to be paid by the  railroad so seeking
+to cross the other, if the railroads are unable to agree thereon, and the  points and manner of such
+connection.
+(3) If it appears to the  department that it is reasonable and practicable to avoid a grade cross-
+ing, the department shall by order prevent the same, and  shall prescribe the manner of such cross-
+ing.
+(4) If any railroad seeks to cross at grade with its  tracks the tracks of another railroad, the
+railroad seeking to cross at grade shall be compelled to pay all  damages caused by such crossing,
+and to interlock or protect such crossing by safety devices  to be designated by the department, and
+to pay all  costs of appliances, together with the expenses of putting them in and maintaining them.
+This requirement does not apply to crossings of sidetracks.
+SECTION 62.  ORS 824.230 is amended to read:
+824.230. (1) In any case where the tracks of  two or more railroads cross each other at a common
+grade in this state, the railroads, when ordered by  the [ Department of Transportation ] Oregon Rail
+and Transit Department , shall protect such crossings by  interlocking or other safety devices, un-
+der regulations to be designated by the department, to  prevent trains colliding at such crossings.
+An order may be  issued under this section only after notice to the affected railroads and a pro-
+ceeding under ORS  chapter 183 initiated by the department on its own motion or upon application
+by one of the railroads.
+(2) The department in making such order shall  designate the manner of such interlocking pro-
+tection, and shall apportion the cost of  installing and maintaining the same between the several
+railroads, if such railroads are unable to agree upon the same between themselves.
+SECTION 63.  ORS 824.232 is amended to read:
+824.232. Any company, corporation, person or receiver operating any railroad who  neglects to
+comply with any order made by the  [ Department of Transportation ] Oregon Rail and Transit De-
+partment pursuant to ORS 824.228 or 824.230 shall forfeit and pay to the state  a penalty of $500
+per week for each week of such neglect.
+SECTION 64.  ORS 824.234 is amended to read:
+824.234. The determinations of the [ Department of Transportation ] Oregon Rail and Transit
+Department under ORS  824.200 to 824.256 as to hazards at crossings shall not be admissible in any
+civil action for damages.
+SECTION 65.
+ ORS 824.236 is amended to read:
+824.236. (1) Except as provided in subsection (2) of this section, the [ Department of  Transporta-
+tion] Oregon  Rail and Transit Department  may, under [ ORS 823.033 ] section 172 of this 2025
+Act, order a railroad to install and maintain protective devices at an unauthorized  railroad-highway
+crossing and order the public authority in interest  to install and maintain stop signs at and other
+protective devices in advance of an unauthorized railroad-highway crossing.
+(2) The department may not order the railroad  to install at an unauthorized railroad-highway
+crossing devices which are activated immediately in advance of, and during, each  train movement
+over the crossing unless the department determines that  the railroad intentionally created the un-
+authorized crossing after June 2, 1995.
+(3) Except as  provided in subsection (4) of this section, in any proceeding under subsections (1)
+and (2) of this section, or unless  the parties agree otherwise, installation and maintenance costs of
+protective devices shall be apportioned to the railroad.
+(4) The railroad may seek reimbursement or indemnity from third parties.
+(5) Under [ ORS 823.033 ] section 172 of this  2025 Act , the department may open an investi-
+gation to consider closure of an unauthorized railroad-highway crossing. If  the department decides
+to open an investigation, it shall post  notice of the investigation at the crossing at least 30 days
+prior to opening the investigation. If the department is unable to complete  an investigation within
+two years from the date it was opened, the department  shall order the crossing closed within one
+year from the expiration of the two-year period allowed for investigation  unless closure of the un-
+authorized railroad-highway crossing would remove the only access to any land.
+SECTION 66.
+ ORS 824.238 is amended to read:
+824.238. The  following costs shall be divided between the railroad and the public authority in
+interest in such  proportion as the [ Department of Transportation ] Oregon Rail and Transit De-
+partment finds just and equitable under the circumstances in each case:
+(1) That portion of the cost of any alteration or change resulting in  the elimination of a grade
+crossing under ORS 824.206 (1) by reason of relocation of the highway which is directly chargeable
+to the grade elimination.
+(2) The costs of construction, change, alteration, abolition and relocation of any  grade crossing
+involved in a proceeding arising under ORS 824.204, 824.206 or 824.226.
+(3) The costs of maintenance of crossings above or below grade  under ORS 824.206 and 824.210.
+(4) Any cost otherwise apportionable under the terms  of ORS 824.242 to 824.246 or 824.248 (1)
+to the extent that funds are not available from the Grade Crossing Protection Account.
+SECTION 67.
+ ORS 824.240 is amended to read:
+824.240. (1) As to all crossings above or  below grade constructed on state highways, the pro-
+portion of expense to be borne  by public authority in interest shall be paid from the state highway
+funds.
+(2) Any public authority in interest acting through its governing body  may, at its option, by
+agreement with the  [ Department of Transportation ] Oregon Rail and Transit Department , bear a
+share of the expense of constructing any railroad crossing above  or below grade on a state highway.
+(3) If federal funds allocated specifically  for removal of hazards at hazardous railroad-highway
+crossings  are  available for any part of the work to be performed, the [ Department of
+Transportation] Oregon Rail and  Transit Department  shall cause such funds to be used for such
+purposes.
+SECTION 68.
+ ORS 824.242 is amended to read:
+824.242. In any  grade crossing proceeding arising under ORS 824.204, 824.206 or 824.226, unless
+the parties agree otherwise, installation costs of protective devices shall be apportioned as follows:
+(1) At an  existing crossing, a crossing relocated pursuant to ORS 824.206 or 824.226, or a
+crossing previously closed by order of the [ Department of  Transportation ] Oregon Rail and Transit
+Department and reopened in a proceeding under ORS 824.204:
+(a) For devices to be installed at or in advance of the crossing and which are activated imme-
+diately in advance of, and during, each train movement over the crossing:
+(A) Seventy-five percent to the Grade Crossing Protection Account;
+(B) Five percent to the public authority in interest; and
+(C) Twenty percent to the railroad company.
+(b) For devices which are primarily designed for the purpose of illuminating  the crossing or its
+approaches during hours of darkness:
+(A) Not less than 90 percent to the Grade Crossing Protection Account;
+(B) Not more than five percent to the public authority in interest; and
+(C) Not more than five percent to the railroad company for such devices  to be installed at the
+crossing.
+(c) For all other protective devices:
+(A) Seventy-five percent to the Grade Crossing Protection Account; and
+(B) Twenty-five percent to the public authority in interest for such devices to be installed by  it
+at or in advance of the crossing; or
+(C) Twenty-five percent to the railroad company for such devices to be installed  by it at the
+crossing.
+(2) Except as provided in subsection (4) of this section, at a new crossing  requested by a public
+authority, 100 percent of the installation costs shall be paid by the public authority in interest.
+(3) Except as  provided in subsection (4) of this section, at a new crossing requested by a railroad
+company, 100 percent of the installation costs shall be paid by the railroad company.
+(4) If the [ Department of Transportation ] Oregon Rail  and Transit Department  converts an
+unauthorized railroad-highway crossing to a crossing authorized  under ORS 824.204, the department
+shall apportion installation costs of protective devices as provided  in subsection (1) of this section,
+or, if federal funds are available, installation costs may be apportioned as provided in ORS 824.250.
+SECTION 69.
+ ORS 824.246 is amended to read:
+824.246. If  in any grade crossing proceeding arising under ORS 824.204, 824.206 or 824.226, the
+[Department of Transportation ] Oregon  Rail and Transit Department  requires the closure of any
+existing crossing within the jurisdiction of the public authority in  interest, the department may ap-
+portion to the railroad company, for such crossing closed, an amount not  to exceed five percent of
+the cost of installation of protective devices at any new or other existing crossing within  the juris-
+diction of the public authority in interest. Any additional costs paid by  the railroad company shall
+reduce the share otherwise apportionable to the public authority in interest.
+SECTION 70.  ORS 824.250 is amended to read:
+824.250. In the event any protective device is to be installed  or altered at an existing or relo-
+cated crossing or any reconstruction or alteration is made at an  existing separation structure, with
+the aid of any  federal funds administered by the Federal Highway Administration of the United
+States Department of  Transportation, the [ Oregon Department of Transportation ] Oregon Rail and
+Transit Department  shall, unless the parties agree otherwise:
+(1) Apportion the amount of such  federal funds to payment of installation, reconstruction, or
+alteration costs; and
+(2) Apportion the remaining costs of  installation, reconstruction, alteration, and maintenance as
+provided by ORS 824.238 and 824.242 to 824.248; however,  in a case where the federal fund assist-
+ance equals or exceeds 75 percent of the cost of installing, altering and reconstructing  protective
+devices at an existing or  relocated crossing, the remaining costs, except for maintenance costs, may
+be allocated entirely to the Grade Crossing Protection Account.
+SECTION 71.
+ ORS 824.252 is amended to read:
+824.252. (1)  In any proceeding under ORS 824.206 or 824.226, where the application to the [ De-
+partment of Transportation ] Oregon Rail and Transit Department  states that the  parties are not
+in agreement as to apportionment of costs,  but the applicant is willing to advance the amount of
+money reasonably necessary to enable the respondent to complete the work which must be  done by
+it or the  amount reasonably necessary is available and can be advanced from the Grade Crossing
+Protection Account, the department shall set the application for hearing as soon as the calendar  of
+the department permits on the questions of:
+(a) The necessity for the project;
+(b) The approval of the  location and the engineering plans, including provisions for handling
+traffic during construction and the work to be performed by each party; and
+(c) The sum to be advanced by the applicant or the account for the work to be done by  the re-
+spondent.
+(2) The department  [ of Transportation ] shall render as promptly as possible an interim order,
+effective within 20 days on such questions, reserving for  later hearing and decision the question of
+the apportionment  of costs. The interim order shall also direct the respondent to proceed upon re-
+ceipt of the sum to be advanced by the applicant or the account  without delay to perform the work
+to be done by respondent, integrating the work with that of the applicant or  its contractor in such
+manner that neither will unreasonably obstruct  or delay the work of the other, to the end that the
+people of the state may have the use of the project at the earliest possible date.
+(3) In the final order apportioning costs, the sum advanced by the applicant  or the account shall
+be credited against its share of the costs. In the final order there  shall also be credited against
+applicant’s share  of the costs any increase in the costs found by the department [ of Transportation ]
+to be directly attributable to respondent’s willful failure or refusal, after the effective date of  the
+interim order,  to proceed with its own work or to integrate the work with that of applicant or its
+contractor.
+SECTION 72.
+ ORS 824.254 is amended to read:
+824.254. (1) Upon issuance of an order apportioning costs to the  Grade Crossing Protection Ac-
+count, the railroad company or the public authority  in interest may submit to the [ Department of
+Transportation] Oregon Rail and Transit Department  progress claims, not to exceed  80 percent
+of the apportionment, for reimbursement for  the cost of labor, and other services provided to date
+of billing, and for the costs of materials stockpiled at the project site or specifically  purchased and
+delivered  for  use on the project. Upon completion of the construction, reconstruction or alteration
+of a crossing, or of the  installation or alteration of grade crossing warning or safety devices at a
+crossing, the railroad company or the public authority in interest shall present to  the department
+for approval its claim  for reimbursement for the costs thereof in the amount apportioned to the
+Grade Crossing Protection Account less progress payments previously made. When  a claim is ap-
+proved, the department shall, as funds become available, order the claim paid from the account.
+(2) The department may make such audit as the department considers necessary before or  after
+each such disbursement for the purpose of  determining that the money is expended for the purposes
+and under  the conditions authorized by ORS 824.242 to 824.248. By presentation of its claim, the
+railroad company and the public authority consent to make pertinent records showing costs  of labor
+and materials available to the department.
+(3) Notwithstanding subsection (1) of  this section, upon issuance of an order apportioning costs
+to the Grade Crossing Protection Account, and upon agreement  with the department [ of Transpor-
+tation], the railroad company or public  authority in interest shall submit an estimate of the costs
+of the project. The railroad company or public authority in interest may submit statements  for
+lump-sum reimbursement from the account  during and at the completion of the construction, recon-
+struction or alteration of a crossing,  or of the installation or alteration of a grade crossing warning
+or safety device at a crossing.
+SECTION 73.
+ ORS 824.400 is amended to read:
+824.400. (1) The [ Department of Transportation ] Oregon Rail and Transit Department  shall
+develop  and  implement a passenger rail plan for the purposes of increasing ridership on passenger
+trains and increasing ticket revenue. The passenger rail plan must include, but is not limited to, the
+following:
+(a) A marketing strategy.
+(b) Strategies for boosting ridership.
+(c) Strategies for boosting tourism through the use of passenger rail.
+(d) Strategies for boosting capacity.
+(e) Strategies for upgrading and improving railroad track and related infrastructure.
+(f) Information about  federal rail infrastructure grant applications submitted, denied and
+approved, provided in summary form.
+(2) The department may coordinate with other state agencies to develop the plan.
+(3) Not  later than December 31 of each even-numbered year, the department shall provide
+a status report, in the manner provided in ORS 192.245, to the Joint  Committee on Trans-
+portation on developing the passenger rail plan, actions taken to implement the plan  and any
+needed legislative changes.
+(4) The department shall submit a quarterly report on the  performance of passenger rail
+to the Joint Committee on Transportation in the  manner provided in ORS 192.245. The report
+must include a summary of the number of passengers  utilizing passenger rail and on-time
+performance for the previous quarter.
+SECTION 74.
+ ORS 824.420 is amended to read:
+824.420. (1) The [ Department of Transportation ] Oregon Rail and Transit Department  may en-
+ter into agreements with the Washington State  Department of Transportation and the British
+Columbia Ministry of Transportation and [ Infrastructure] Transit  to:
+(a) Develop a plan to document the shared vision,  goals and objectives for passenger rail service
+within the Cascades Rail Corridor.
+(b) Develop a plan to  achieve performance goals, manage fleet assets, share costs, prioritize in-
+vestments and resolve interagency disputes.
+(c) Propose funding options to the respective legislative bodies  to support the operation of pas-
+senger trains within the corridor.
+(d) Develop a stakeholder outreach program.
+(e) Oversee operations and marketing of daily passenger rail service in the corridor.
+(2) The [ Department of Transportation ] Oregon Rail and Transit Department  may enter into
+agreements with the Washington State Department of Transportation to coordinate state  rail plans.
+SECTION 75.
+ ORS 824.430 is amended to read:
+824.430. Before January  1 of each odd-numbered year, the [ Department of Transportation ]
+Oregon Rail and Transit Department  shall report to the Legislative Assembly in the manner
+provided in ORS 192.245 about the following:
+(1) The status of agreements with the Washington State Department of Transportation  and the
+British Columbia Ministry  of Transportation and [ Infrastructure] Transit  regarding the Cascades
+Rail Corridor.
+(2) The performance of passenger rail service within the corridor.
+(3) The financial status of the corridor and financial needs  for passenger rail service within the
+corridor.
+SECTION 76.
+ ORS 824.990 is amended to read:
+824.990. (1) In addition to all other penalties provided by law:
+(a) Every person who violates or who procures, aids or abets in the  violation of ORS 824.060 (1),
+824.084, 824.088, 824.304 (1) or 824.306 (1) or any  order, rule or decision of the [ Department of
+Transportation] Oregon Rail and Transit Department  shall incur a civil  penalty of not more than
+$1,000 for every such violation.
+(b) Every person who violates or who procures, aids or abets in  the violation of any order, rule
+or decision of the department promulgated pursuant to ORS 824.052 (1), 824.056 (1), 824.068,  824.082
+(1) or 824.208 shall incur a civil penalty of not more than $1,000 for every such violation.
+(2) Each such violation shall be a separate offense and in case of a continuing violation  every
+day’s continuance is a separate  violation. Every act of commission or omission that procures, aids
+or abets in the violation is a violation under subsection (1) of this  section and subject to the penalty
+provided in subsection (1) of this section.
+(3) Civil penalties imposed under subsection (1) of this section shall be  imposed in the manner
+provided in ORS 183.745.
+(4) The department may reduce any penalty provided  for in subsection (1) of this section on such
+terms as the department considers proper if:
+(a) The defendant admits the violations alleged in the notice and  makes timely request for re-
+duction of the penalty; or
+(b) The defendant submits  to the department a written request for reduction of the penalty
+within 15 days from the date the penalty order is served.
+SECTION 77.
+ ORS 824.992 is amended to read:
+824.992. (1) Violation of ORS 824.062 is a Class D violation.
+(2) Violation of ORS 824.064 is a Class A misdemeanor.
+(3) Violation of ORS 824.082 (1), 824.084 or 824.088 by a railroad is a Class A violation.
+(4) Violation of ORS 824.082 (2) is a Class A violation.
+(5) As used in subsection (3) of this section, “railroad” means a railroad as  defined by ORS
+824.020 and 824.022.
+(6) Subject to ORS 153.022, violation  of ORS 824.060 (2), 824.106 or 824.108 or any rule
+promulgated pursuant thereto is a Class A violation.
+(7) A person is subject to the penalties under subsection  (8) of this section if the person know-
+ingly:
+(a) Transports by railroad any hazardous waste listed under ORS 466.005 or rules  adopted
+thereunder to a facility that does not have appropriate authority to receive the  waste under ORS
+466.005 to 466.385 and 466.992.
+(b) Disposes of any  hazardous waste listed under ORS 466.005 or rules adopted thereunder
+without appropriate authority under ORS 466.005 to 466.385 and 466.992.
+(c) Materially violates any terms of permit or  authority issued to the person under ORS 466.005
+to 466.385 and 466.992 in the transporting or disposing of hazardous waste.
+(d) Makes any false material statement or representation in any application, label, manifest, re-
+cord, report, permit or other document filed, maintained or used for purposes  of compliance with
+requirements under ORS 824.050 to 824.110 for the safe transportation of hazardous wastes.
+(e) Violates any rules adopted  by the Department of Transportation  or the Oregon Rail and
+Transit Department  concerning the transportation of hazardous wastes.
+(8) Subject to ORS 153.022, violation of subsection (7) of this section is a Class B misdemeanor.
+Each day’s violation is a separate offense.
+(9) Violation of ORS 824.300 or 824.302 is a Class D violation.
+(10) Violation of ORS 824.304 is a Class A violation.
+(11) Violation of ORS 824.306 by any railroad company or officer or  agent thereof, or any other
+person is a Class D violation. Each day’s violation is a separate offense.
+CONFORMING AMENDMENTS OUTSIDE OF ORS CHAPTER 824
+SECTION 78.
+ ORS 164.805 is amended to read:
+164.805. (1) A person commits the crime  of offensive littering if the person creates an
+objectionable stench or degrades the beauty or appearance of property  or detracts from the natural
+cleanliness or safety of property by intentionally:
+(a) Discarding  or depositing any rubbish, trash, garbage, debris or other refuse upon the land
+of another without permission of the owner, or upon any public way or in or upon any public
+transportation facility;
+(b) Draining,  or causing or permitting to be drained, sewage or the drainage from a cesspool,
+septic tank, recreational or camping  vehicle waste holding tank or other contaminated source, upon
+the land of another without permission of the owner, or upon any public way; or
+(c) Permitting any rubbish, trash,  garbage, debris or other refuse to be thrown from a vehicle
+that the  person is operating. This subsection does not apply to a person operating a vehicle trans-
+porting passengers for hire  subject to regulation by the Department of Transportation  or the
+Oregon Rail and Transit Department  or a person operating a  school bus described under ORS
+801.460.
+(2) As used in this section:
+(a) “Public transportation facility” has the meaning given that term in ORS 164.365.
+(b) “Public way” includes, but is not limited to, roads, streets, alleys, lanes, trails, beaches, parks
+and all recreational facilities operated by the state, a county or a local municipality for use by  the
+general public.
+(3) Offensive littering is a Class C misdemeanor.
+SECTION 79.
+ ORS 184.615 is amended to read:
+184.615. (1) The Department of Transportation is established.
+(2) The department shall perform the following duties:
+(a) Carry out policies adopted by  the Oregon Transportation Commission and all duties and re-
+sponsibilities vested in it  by law including, but not necessarily limited to, duties and responsibilities
+concerning drivers and motor vehicles,  highways, motor carriers[ , public transit, rail ] and transpor-
+tation safety.
+(b) Provide  strategic planning for statewide transportation systems to meet the transportation
+challenges to be faced by Oregon at least 20 years into the future.
+(c) Promote coordination between different modes of transportation.
+(d) Promote coordination of major transportation projects, as determined  by the commission,
+between the state, cities and counties.
+(e) Integrate governmental functions to reduce the costs incurred by this state in transportation
+matters.
+(f) Obtain the greatest benefit from state, local and federal transportation expenditures.
+(g) Maximize the state’s prospects to  obtain federal funds by responding to federal mandates for
+multimodal transportation planning.
+(h) To the extent  practicable, ensure that the state’s transportation infrastructure is resilient in
+the event of a natural disaster.
+(3) The department shall be the recipient of all federal funds  paid to or to be paid to the state
+to enable the state to provide the programs and services assigned to the department, except that :
+(a) The Oregon Department of Aviation shall be the recipient of all federal  funds paid to or to
+be paid to the state to enable the state to provide aviation programs and services ; and
+(b) The Oregon Rail and Transit Department shall be the recipient of  all federal funds
+paid to or to be paid to the state to enable the state  to provide rail and public transit pro-
+grams and services .
+SECTION 80.
+ ORS 184.617 is amended to read:
+184.617. (1) The Oregon Transportation Commission shall:
+(a) Establish the  policies for the operation of the Department of Transportation in a manner
+consistent with the policies and purposes of ORS 184.610 to 184.665.
+(b) Develop and maintain state transportation policies, including but not limited to  policies re-
+lated to the management, construction and maintenance  of highways and other transportation sys-
+tems in Oregon, including but not limited to aviation, ports and rail.
+(c) Develop and maintain a comprehensive,  20-year long-range plan for a safe, multimodal
+transportation system for the state which encompasses  economic efficiency, orderly economic de-
+velopment and environmental quality. The comprehensive, long-range plan:
+(A) Must include, but not be limited to, aviation, highways, mass transit, ports,  rails and
+waterways; and
+(B) Must be used by all agencies and officers to guide and coordinate transportation activities
+and to ensure transportation planning utilizes the potential  of all existing and developing modes of
+transportation.
+(d) In coordination with the State Marine Board, the  Oregon Business Development Department,
+the State Aviation Board, the State Rail and Transit Board,  cities, counties, mass  transit districts
+organized under ORS 267.010 to 267.394  and transportation districts organized under ORS 267.510
+to 267.650, develop plans for each mode of transportation and multimodal plans for  the movement
+of people  and freight. Subject to paragraph (c) of this subsection, the plans must include a list of
+projects needed to maintain and develop the transportation infrastructure of this state for at  least
+20 years in the future.
+(e) For the plans developed under paragraph (d) of this subsection, include a list of projects  for
+at least 20 years into the future that are capable of  being accomplished using the resources rea-
+sonably expected to be available. As the plans are developed by the commission, the  Director of
+Transportation shall prepare and submit implementation programs  to the commission for approval.
+Work approved by the  commission to carry out the plans shall be assigned to the appropriate unit
+of the Department of Transportation or other appropriate public body, as defined in ORS 174.109.
+(f) Initiate studies, as it  deems necessary, to guide the director concerning the transportation
+needs of Oregon.
+(g) Prescribe the administrative practices followed by the director in the performance of  any
+duty imposed on the director by law.
+(h) Seek to enter into intergovernmental agreements with local governments  and local service
+districts, as those  terms are defined in ORS 174.116, to encourage cooperation between the depart-
+ment and local governments and local service  districts to maximize the efficiency of transportation
+systems in Oregon.
+(i) Review and approve the department’s:
+(A) Proposed transportation projects, as described in the Statewide Transportation Improvement
+Program, and any  significant transportation project modifications, as determined by the commission;
+(B) Proposed  budget form prior to the department submitting the form to the Oregon Department
+of Administrative Services under ORS 291.208;
+(C) Anticipated capital construction requirements;
+(D) Construction priorities; and
+(E) Selection, vacation or abandonment of state highways.
+(j) Adopt a statewide transportation strategy on greenhouse gas emissions to aid in achieving
+the greenhouse gas emissions reduction goals set forth in ORS 468A.205. The  commission shall focus
+on reducing greenhouse gas emissions resulting from transportation. In developing  the strategy, the
+commission  shall  consider state and federal programs, policies and incentives related to reducing
+greenhouse gas emissions. The commission shall  consult and cooperate with metropolitan planning
+organizations, other state agencies, local  governments and stakeholders and shall actively solicit
+public review and comment in the development of the strategy.
+(k) Perform any other duty vested in it by law.
+(2) The commission has general power to take any action necessary to coordinate and administer
+programs relating  to highways, motor carriers, motor vehicles, [ public transit, rail, ] transportation
+safety and such other programs related to transportation.
+(3) The commission may require the director to furnish whatever  reports, statistics, information
+or assistance the commission may request in order  to study the department or transportation-related
+issues.
+SECTION 81.
+ ORS 184.632 is amended to read:
+184.632. (1) The Legislative Assembly finds that:
+(a) The ports in Oregon provide effective local assistance to state transportation  development
+efforts.
+(b) The ports in this state develop and market facilities and services to  support important ex-
+isting industries in this state, such  as aviation, maritime commerce, international trade, tourism,
+recreation and transportation.
+(c) Port facilities, including roads, railroads,  airports, harbors and navigation channels, are an
+integral element of the transportation infrastructure of this state.
+(2) Therefore, the Legislative Assembly declares that it is  the policy of this state to include
+Oregon’s ports in planning and implementing transportation programs. To that end,  the Department
+of Transportation , the Oregon Rail and Transit Department  and the Oregon Department of Avi-
+ation may work to:
+(a) Coordinate with the Oregon Business Development Department to facilitate  port planning
+and development;
+(b) Promote local cooperation in statewide planning and development of the ports;
+(c) Promote long-term economic self-sufficiency of the ports;
+(d) Encourage cost-effective investments  with prudent financial consideration of port develop-
+ment projects; and
+(e) Facilitate the efforts of the  ports to expand and respond to greater domestic and interna-
+tional market opportunities.
+SECTION 82.
+ ORS 184.642 is amended to read:
+184.642. (1) The Department of Transportation Operating Fund is established  in the State
+Treasury separate and distinct from the General Fund and separate and  distinct from the State
+Highway Fund. Except as otherwise provided in  subsection (3)(e) of this section, moneys in the De-
+partment of Transportation  Operating Fund are continuously appropriated to the Department of
+Transportation to pay expenses of the department  that are incurred in the performance of functions
+the department is statutorily required or  authorized to perform and that may not constitutionally
+be paid from revenues described in section 3a, Article IX of the Oregon Constitution.
+(2) The operating fund shall consist of the following:
+(a) Taxes paid on motor vehicle fuels or on the use of fuel  in a motor vehicle for which a person
+is entitled to a refund under a provision described in this  paragraph but for which no refund is
+claimed, in amounts determined under ORS 184.643. This paragraph applies to refund  entitlements
+described in ORS 319.280 (1)(a) and (e), 319.320 (1)(a) and 319.831 (1)(b).
+(b) Fees collected under ORS 822.700 for issuance or renewal of:
+(A) Dismantler certificates;
+(B) Vehicle dealer certificates;
+(C) Show licenses;
+(D) Vehicle transporter certificates;
+(E) Driver training instructor certificates;
+(F) Commercial driver training school certificates; and
+(G) Vehicle appraiser certificates.
+(c) Late fees collected under ORS 822.700.
+(d) Fees collected under ORS 822.705.
+(e) Moneys from civil penalties imposed under ORS 822.009.
+(f) Fees collected under ORS 807.410 for identification cards.
+(g) Fees collected by the department for issuance  of permits to engage in activities described in
+ORS 374.302 to 374.334 that are not directly  connected to the construction, reconstruction, im-
+provement, repair, maintenance, operation and use of a public highway, road, street or roadside rest
+area.
+(h) Fees collected under ORS  835.017 for services provided to the Oregon Department of Avi-
+ation.
+(i) Fees collected under section 10 of this 2025 Act for services provided  to the Oregon
+Rail and Transit Department.
+[(i)] (j)  Interest and other earnings on moneys in the operating fund.
+(3) Moneys in the Department of Transportation Operating Fund established by subsections  (1)
+and (2) of this section may be spent only as follows:
+(a) Taxes described in subsection (2)(a) of this section may be used  only for payment of expenses
+of the Department of Transportation that:
+(A) May not constitutionally be paid  from revenues described in section 3a, Article IX of the
+Oregon Constitution;
+(B) Are incurred in the performance of  functions the department is statutorily required or au-
+thorized to perform; and
+(C) Are not payable from moneys described in paragraphs (b) to (e) of this subsection.
+(b) Fees collected under subsection (2)(b) of this section may be used only to carry out the reg-
+ulatory functions of the department relating to the businesses that generate the fees.
+(c) Fees collected under ORS 822.705  may be used only for the purposes described in ORS
+822.705.
+(d) Moneys collected from civil penalties imposed under ORS 822.009 may  be used only for reg-
+ulation of vehicle dealers.
+(e) Moneys collected under ORS 807.410 from  fees for identification cards shall be used first to
+pay the expenses of the department for  performing the functions of the department relating to
+identification cards. After paying the expenses related to identification cards, the  department shall
+transfer the remaining moneys collected under ORS 807.410 to the Statewide  Transportation Im-
+provement Fund established in ORS 184.751.
+(f) Moneys from the permits described  in subsection (2)(g) of this section may be used for costs
+of issuing the permits and monitoring the activities that generate the fees.
+(g) Moneys from interest and other earnings on moneys in the operating fund may be used  for
+any purpose for which other moneys in the fund may be used.
+SECTION 83.
+ ORS 184.651 is amended to read:
+184.651. The Department  of Transportation shall develop, operate and maintain a full cost ac-
+counting system that accurately and separately accounts for all direct, indirect and  administrative
+costs incurred by each of the following units of the department:
+(1) Central services.
+(2) Driver and motor vehicle services.
+(3) Highways.
+(4) Motor carriers.
+[(5) Rail. ]
+[(6) Transit. ]
+[(7)] (5) Transportation development.
+[(8)] (6) Transportation safety.
+SECTION 84.
+ ORS 184.675 is amended to read:
+184.675. As used in ORS 184.670 to 184.733, unless the context requires otherwise:
+[(1) “Director” means Director of Transportation. ]
+[(2) “Department” means the Department of Transportation. ]
+[(3)] (1)  “Indian  tribe” means a federally recognized Indian tribe in Oregon that has members
+residing on a reservation or tribal trust lands in Oregon.
+[(4)] (2) “Operating  agreement” means an agreement for the operation or maintenance on behalf
+of the [ Department of Transportation ] Oregon Rail and  Transit Department  of all or part of a
+public transportation system, but does not  include agreements by which the department provides
+only financial or technical assistance or  transportation facilities or equipment and which do not
+control routes, rates or levels of service, or agreements under which such control is  exercised by
+the federal government through the department.
+[(5)] (3)  “Public transportation system” means any form of  passenger transportation system,
+whether or not for hire, including but not limited to air, rail, other fixed  guideway, bus, jitney, taxi
+and dial-a-ride passenger transportation systems within, between and outside of  urban and urbanized
+areas, and including related passenger terminal facilities and motor vehicle parking facilities.
+[(6)] (4)  “Person” means the United States or any state or  any department or agency of any of
+the above, or any nonprofit corporation or entity or  any other individual, corporation or entity, ei-
+ther public or private.
+[(7)] (5)  “Public transportation entity” includes a city, county, transportation district, mass
+transit district, metropolitan  service district, Indian tribe or private nonprofit corporation operating
+a public transportation system.
+SECTION 85.
+ ORS 184.685 is amended to read:
+184.685. The  [ Department of Transportation ] Oregon Rail and Transit Department may con-
+duct statewide  coordinating, financing, planning, research and development of public transportation
+systems in this state to insure the most orderly, efficient and economical development of such sys-
+tems.
+SECTION 86.
+ ORS 184.689 is amended to read:
+184.689. In order to carry out the purposes set forth  in ORS 184.685, the [ Department of Trans-
+portation] Oregon Rail and Transit Department may:
+(1) Sue and be sued;
+(2) Acquire  by purchase, lease, devise, gift or voluntary grant real and personal property or any
+interest therein, including access rights, and take, hold, possess and dispose of any such  property
+or interest;
+(3) Conduct or carry out, subject to any  other provision of law, field research, planning, fi-
+nancing, design, construction, acquisition,  lease, preservation, or improvement of any public trans-
+portation system or any portion thereof,  or provide for such activity by entering into agreements
+with any person or  persons principally responsible for the operations of such public transportation
+system and possessing authority to enter into such agreement;
+(4) Enter into any other necessary agreements; employ agents, engineers, consultants and  other
+persons as necessary and fix their compensation;
+(5) Construct, acquire, plan, design, maintain and operate passenger terminal facilities and motor
+vehicle parking facilities in connection with any public transportation system;
+(6) Advise and assist in the formulation of overall public transportation policies and plans;
+(7) Make necessary studies and render technical assistance to local governments;
+(8) Participate in regulatory proceedings affecting public transportation;
+(9) Assist local government, private and nonprofit operators of passenger transportation  systems
+in the planning, experimentation, financing, design, construction, acquisition,  lease, preservation,
+improvement, operation and maintenance of public transportation  systems. The assistance may in-
+clude loans, grants, or the provision of equipment or  facilities or any rights therein by sale, lease
+or grant, or special grants to the users of said systems;
+(10) Subject to the provisions of ORS 184.705, enter into operating agreements  with any person;
+(11) Receive and disburse funds from or to any person under contractual  terms or according to
+other authorized state  or federal procedures. When more than one carrier provides similar services
+in the same or related areas or corridors  pursuant to a certificate of public convenience and ne-
+cessity, the department may select a provider of service  on the basis of written proposals evaluated
+under criteria established by the Oregon Transportation Commission;
+(12) Perform any necessary planning,  administration, review or other functions required to be
+performed by the state or  any agency thereof in connection with the allocation and distribution to
+any person of federal funds pursuant to the Urban Mass Transportation Act of 1964, as amended,
+or any other federal funding program for public transportation systems; and
+(13) Negotiate with existing passenger carriers to preserve or coordinate transportation sched-
+ules to upgrade the existing system of intercity transportation.
+SECTION 87.
+ ORS 184.691 is amended to read:
+184.691. The  Public Transit Account is established in the  State Treasury, separate and dis-
+tinct from the  General Fund [ of the State Treasury ]. Except as otherwise provided  by law, all
+moneys received by the [ Department of Transportation ] Oregon Rail and Transit  Department  for
+public transit purposes, from whatever source, shall  be paid into the State Treasury and credited to
+the account. All moneys in the account are appropriated continuously to the department and shall
+be used for public transit purposes authorized by law.
+SECTION 88.
+ ORS 184.705 is amended to read:
+184.705. (1) The [ Department of Transportation ] Oregon Rail and Transit Department , in a
+manner determined by the  [Oregon Transportation Commission ] State Rail and Transit Board , may
+enter into operating agreements with any person. The agreements may  include, but are not limited
+to, provisions with respect to:
+(a) Services to be rendered;
+(b) Routes to be served;
+(c) Schedules to be provided;
+(d) Compensation to be paid;
+(e) Equipment to be used;
+(f) Points to be served;
+(g) Terminals to be used;
+(h) Qualifications of operating employees;
+(i) Accounting and reporting procedures; and
+(j) Termination dates.
+(2) To the extent practicable the department shall enter into operating  agreements with carriers
+authorized by  the department to perform passenger transportation services pursuant to [ ORS 824.020
+to 824.042 or ] ORS chapter 825.
+SECTION 89.
+ ORS 184.710 is amended to read:
+184.710. The [ Department of Transportation shall ] Oregon Rail  and Transit Department may
+not enter into  operating agreements with any person for service in competition with service being
+provided by a mass transit  district or transportation district formed under ORS chapter 267 without
+the consent of such district.
+SECTION 90.  ORS 184.720 is amended to read:
+184.720. For the purpose of aiding the development of public transportation systems, the [ De-
+partment of Transportation ] Oregon Rail and Transit Department  shall establish criteria and
+standards for the  evaluation of transportation projects considered for assistance under ORS 184.670,
+184.675 and 184.685 to 184.733.
+SECTION 91.
+ ORS 184.725 is amended to read:
+184.725. The [ Department of Transportation ] Oregon Rail and Transit Department  shall  adopt
+such rules as are necessary to carry out the provisions of  ORS 184.670, 184.675 and 184.685 to
+184.733.
+SECTION 92.  ORS 184.730 is amended to read:
+184.730. (1) In addition to the provisions of ORS  184.689, the [ Department of Transportation ]
+Oregon Rail and Transit Department  is authorized to institute a  public transportation develop-
+ment program which may be financed by state, federal, local or  other funds and may be operated in
+conjunction and cooperation with the federal government,  metropolitan planning organizations,
+public and private employers, and public transportation entities.
+(2) The department may apply to the Federal  Transit Administration or Federal Highway Ad-
+ministration of the United States  Department of Transportation or other federal or state government
+agency for participation in any public transportation system development project.
+(3) The department may, with the assistance of the Oregon  Department of Administrative Ser-
+vices or in cooperation with  public transportation entities, or both, write specifications for and or-
+der public transportation equipment on behalf of any number of public transportation entities, to
+purchase real estate or  to purchase, engineer, design, construct or lease public transportation
+structures and facilities under this program.
+(4) If federal funds are being used to finance any project under  this program, the Oregon Rail
+and Transit Department shall  secure assurance from the federal government of the availability and
+amount of federal financial assistance. The department may  also secure obligations by the partic-
+ipating public transportation entities that they will manage and  operate such public transportation
+equipment or facilities at the appropriate time and will supply local funding if such  is being utilized.
+(5) Funding for projects under this section and ORS 184.733 may  be with whatever percentage
+of federal, state or local funds that the [ Oregon Transportation Commission ] State Rail and Transit
+Board deems proper. In the event that the federal percentage is changed by legislation,  the state
+and local percentage may be changed by action of the [ Oregon Transportation Commission ] board.
+(6) In cooperation with metropolitan planning organizations, public and  private employers, and
+public transportation entities, the department may develop transportation demand  management
+projects, air quality  improvement projects, demonstration projects, and planning and research
+projects. As used in this subsection:
+(a) Transportation  demand management projects are measures to reduce traffic congestion and
+travel by single occupant automobiles including but not limited to carpool,  vanpool, buspool, park-
+and-ride facilities, parking management, high occupancy vehicle lanes, bus  bypass lanes, flexible
+hours of employment, work trip reduction programs and incentives to use public transportation.
+(b) Air quality improvement projects are measures to reduce vehicle emissions,  including trans-
+portation  demand  management, development of alternative fuels including fueling stations, conver-
+sion of existing  vehicles or replacement of existing vehicles with vehicles producing lower emissions,
+research into vehicles using alternative fuels and  purchase of new vehicles by public transportation
+entities.
+(c) Demonstration projects show the merits of products, projects, transportation service  designs
+or management techniques. Demonstration projects are of a limited duration.
+SECTION 93.
+ ORS 184.733 is amended to read:
+184.733. (1) There is hereby established an account in the State Treasury, separate and  distinct
+from the General  Fund, to be known as the [ Department of Transportation ] Oregon Rail and Transit
+Department Public Transportation  Development Fund, which account is appropriated continuously
+for, and shall be used for, the purposes of ORS  184.730, developing and improving public transpor-
+tation systems, acquiring transportation equipment and constructing facilities or  participating with
+public transportation entities in the acquisition or construction of equipment or facilities. All  in-
+terest, if any, shall inure to  the benefit of the fund. In order to facilitate financing of the costs of
+transportation demand management projects, air  quality improvement projects, demonstration
+projects, planning and research projects, acquisition or construction, the [ Department of  Transpor-
+tation] Oregon Rail and Transit Department  may at any time, with [ Oregon Transportation Com-
+mission] State Rail and Transit Board  approval,  draw on funds in this account for authorized
+purposes. The [ Director of Transportation ] department  may enter into written agreements with
+public transportation entities that commit the  department to pay anticipated funds from the [ De-
+partment of Transportation ] Oregon Rail and Transit Department  Public Transportation Develop-
+ment Fund to public transportation  entities for the purpose of financing the costs of acquisition and
+construction of transportation  equipment and facilities, including servicing any obligations entered
+into by  a public transportation entity to finance transportation equipment and facilities, which
+written agreements may provide for the remittance of such funds on such periodic  basis, in such
+amounts, over such period of years and with such priority  over other commitments of such funds
+as the director shall specify in the agreements. Any such written  agreement or commitment when
+executed by the director and accepted by  a public transportation entity shall be solely conditioned
+upon actual funds available in the  [ Department of Transportation ] Oregon Rail and Transit De-
+partment Public  Transportation Development Fund and shall be valid, binding and irrevocable in
+accordance with its terms.
+(2) The department may utilize  moneys in the fund to purchase or lease new or rebuilt buses
+and other  public transportation equipment, to purchase real estate or to purchase, lease or construct
+facilities for future sale to public transportation entities either for cash  or by installment contract,
+but no installment contract shall be for more than five years and the balance shall bear interest  at
+a rate indicated by the monthly earnings of the Oregon Short Term Investment Fund.
+(3) The  department may take title to and delivery of buses, other public transportation equip-
+ment or facilities acquired or built pursuant to  this program for eventual transfer to public trans-
+portation entities.
+(4) The department may from the amount appropriated to the [ Department of Transportation ]
+Oregon Rail and Transit Department  Public Transportation Development Fund  deduct its costs
+of developing projects and administering the program authorized by this section and ORS 184.730.
+(5) All moneys received by the department from the sale of buses, other public transportation
+equipment, real estate or facilities  shall be placed in the [ Department of Transportation ] Oregon
+Rail and Transit Department  Public  Transportation Development Fund and subject to budgetary
+limitations, may be used for the acquisition of additional transportation equipment or facilities.
+SECTION 94.
+ ORS 184.751 is amended to read:
+184.751. (1) The Statewide Transportation Improvement Fund is established in  the State Treas-
+ury, separate and distinct from the General Fund. Interest earned by  the Statewide Transportation
+Improvement Fund shall be credited to the fund. Moneys in the  fund are continuously appropriated
+to the [ Department of Transportation ] Oregon Rail and Transit Department  to finance investments
+and improvements or to maintain existing public  transportation services, except that the moneys
+may not be used for new light rail capital expenses but may be used for  capital expenses of
+maintaining existing light rail and for  light rail operation expenses.
+(2) The Statewide Transportation Improvement Fund consists of:
+(a) All moneys received from the tax imposed under ORS 320.550;
+(b) Moneys appropriated or otherwise transferred to the fund by the Legislative Assembly;
+(c) Moneys transferred to the fund under ORS 184.642, 323.455 or 323.457 (1)(d) and (2)(b);
+(d) Distribution repayments, if any; and
+(e) Other moneys deposited in the fund from any source.
+(3) Unless approved by the department, the moneys in the Statewide  Transportation Improve-
+ment Fund may not be used to  supplant local and regional agency moneys currently directed to
+public transportation service providers.
+SECTION 95.
+ ORS 184.758 is amended to read:
+184.758. (1) The  [ Oregon Transportation Commission ] State Rail and Transit Board  shall dis-
+tribute the moneys in the Statewide Transportation Improvement  Fund established under ORS
+184.751 to the [ Department of Transportation ] Oregon Rail and Transit Department  to pay for:
+(a) Program administration; and
+(b) Projects of statewide significance that support the transit  network and manage the operation
+of public transportation services.
+(2) The moneys described in subsection  (1) of this section that remain after the distribution of
+moneys described in subsection (1) of this section shall be distributed as follows:
+(a) Conditioned upon the [ commission’s] board’s  approval of a public transportation improve-
+ment plan, 90 percent to qualified entities;
+(b) Five percent to  public transportation service providers based on a competitive grant program
+adopted by the [ commission] board by rule;
+(c) Four percent to  public transportation service providers to provide funding assistance to
+cover the costs of improving public transportation services between two or more communities; and
+(d) One percent to the [ Department of Transportation ] Oregon Rail and Transit  Department
+to establish a statewide public transportation technical  resource center, the purpose of which is to
+assist public transportation  service providers in rural areas with technical assistance, training,
+transportation planning and information technology.
+(3) A portion  of the 90 percent distribution under subsection (2)(a) of this section shall be dedi-
+cated to transit services  for older adults and individuals with disabilities. Each biennium the [ com-
+mission] board shall first distribute the moneys  transferred to the fund under ORS 184.751 as needed
+to maintain funding that benefits older adults and individuals with disabilities in  the amount dis-
+tributed during the 2019-2021 biennium. Each  biennium thereafter, the [ commission] board shall ad-
+just this amount upward or downward based on the  rate of growth or decline of the Statewide
+Transportation Improvement Fund. Moneys dedicated to transit services for older adults and  indi-
+viduals with disabilities under this subsection shall be distributed as follows:
+(a) Each transportation district and mass transit district shall receive that share of  the moneys
+as the population of the counties in which the district is  situated, determined under ORS 190.510 to
+190.610 last preceding apportionment of the moneys, bears to the total population of  this state.
+However, if two or more districts are situated in a single county, distribution of moneys under  this
+subsection shall be determined as though only the mass transit  district is located in that county or,
+if there are two or more transportation districts in the county, as though only the transportation
+district with the highest population is located in that county.
+(b) Each county in which no part of a mass transit district  or transportation district is located
+shall receive that share of the  moneys as its population, determined under ORS 190.510 to 190.610
+last preceding apportionment of the moneys, bears to the total population of this state.
+(c) Each federally recognized  Indian tribe shall receive that share of the moneys as the popu-
+lation of the tribe residing in Oregon, determined by  the [ commission] board by rule, bears to the
+total population of this state.
+(4) Each  qualified entity under subsection (3) of this section shall receive an annual target
+amount of $67,700.  Each biennium, the [ commission] board shall adjust this amount upward or
+downward based on the rate of growth or decline  of the Statewide Transportation Improvement
+Fund.
+(5) After a portion of the 90 percent distribution under subsection (2)(a) of this section  is dis-
+tributed to transit services for older adults and  individuals with disabilities under subsection (3) of
+this section, the [ commission] board shall distribute the remaining amount to qualified entities as
+follows:
+(a) Each distribution must be in such shares that the amount of  tax paid, as required under ORS
+320.550, in the area of each qualified entity bears to the total amount of the tax paid statewide,
+provided that each qualified entity  receives an annual target amount of $100,000. Each biennium, the
+[commission] board shall adjust this amount upward or downward based on the rate of growth or
+decline of the Statewide Transportation Improvement Fund.
+(b) If more than one mass transit district or  transportation district is located within a single
+county, the [ commission] board shall distribute the moneys to the larger district.
+(6) The [ commission] board shall adopt by rule:
+(a) A competitive grant program, by which a  public transportation service provider may apply
+for a percentage distribution under  subsection (2)(b) of this section, and the terms and conditions
+of grants.
+(b) A competitive grant program, by which a  public transportation service provider may apply
+for a percentage distribution under subsection  (2)(c) of this section, and the terms and conditions
+of grants.
+(c) A process to review and approve a public transportation improvement  plan submitted under
+subsection (7) of this section.
+(d) Procedures for appealing a rejection of a public  transportation improvement plan submitted
+under subsection (7) of this section.
+(e) Any other provisions or procedures that are necessary for the [ commission] board to carry
+out the provisions of ORS 184.758 to 184.766.
+(7) To  be eligible to receive a percentage distribution under subsection (2)(a) of this section, a
+qualified entity shall prepare and submit a public transportation improvement plan to the [ commis-
+sion] board. The [ commission] board must approve the plan submitted by  the qualified entity before
+the [ commission] board may make a percentage distribution to the qualified entity.
+(8) At a minimum, a public transportation improvement plan submitted under  this section must
+include:
+(a) For each proposed project, the amount of moneys from the percentage distribution that would
+be allocated to the project to fund the following:
+(A) Increased frequency of bus service schedules in communities with a  high percentage of
+low-income households;
+(B) Procurement of buses that are powered by natural  gas or electricity for use in areas with
+a population of 200,000 or more;
+(C) Implementation of programs to reduce fares for public transportation  in communities with
+a high percentage of low-income households;
+(D) Expansion of bus routes and bus services to reach communities  with a high percentage of
+low-income  households;
+(E) Improvement in the frequency and reliability of service connections between communities
+inside and outside of the qualified entity’s service area;
+(F) Coordination  between public transportation service providers to reduce fragmentation in the
+provision of transportation services;
+(G) Implementation of programs to provide student transit services for  students in grades 9
+through 12; and
+(H) Services for older adults and people with disabilities;
+(b) For the current fiscal year,  a summary of any plans and project proposals approved by an
+advisory committee under ORS 184.761; and
+(c) If a qualified entity was a  recipient of a percentage distribution in the preceding fiscal year,
+the amount of moneys received from the distribution that were allocated to a project  for the pur-
+poses described under paragraph (a) of this subsection.
+(9) If practicable, as determined by the [ commission] board by rule each qualified  entity shall
+spend at least one percent of the amount  received each year under subsection (2)(a) of this section
+to implement programs to provide student transit services for students in grades 9 through 12.
+(10) After the [ commission] board makes a distribution under subsection (2)  of this section,
+qualified entities may  enter into intergovernmental agreements under ORS chapter 190 to combine
+the moneys received for public transportation improvements.
+(11) If the [ commission] board rejects a public transportation improvement  plan or a grant ap-
+plication  submitted  under this section, the [ commission] board shall notify the entity or provider in
+writing and state the reasons for the rejection.
+(12) The [ Department of Transportation ] Oregon Rail and Transit Department  shall make all
+grant applications submitted under this section available to the public.
+SECTION 96.
+ ORS 184.761 is amended to read:
+184.761. (1) The governing body of each  qualified entity shall appoint an advisory committee to
+advise and assist the governing body in prioritizing plans or projects to be funded from the  moneys
+received  from  a percentage distribution under ORS 184.758 to public transportation service provid-
+ers that provide services within the jurisdiction of the qualified entity.
+(2) Before receiving funding for a project under  ORS 184.758 (2)(a), a public transportation ser-
+vice provider that provides services shall submit a plan or project proposal  to the governing body
+of the qualified entity and receive the advisory committee’s approval of  the plan or project proposal.
+The plans or project proposals submitted under this subsection must describe  how the funds would
+be used. Client-only projects, as defined by the [ Oregon Transportation Commission ] State Rail  and
+Transit Board  by  rule, may be eligible for consideration if the project is part of a planned and
+coordinated community transportation program.
+(3) An advisory committee appointed  under this section shall review every plan or project pro-
+posal required under subsection (2) of this section and may propose any changes to  the policies or
+practices of the governing body relating to the distribution of funding under ORS 184.758 (2)(a)  and
+that the advisory committee considers necessary to ensure that:
+(a) A public transportation service provider that has  received funding under ORS 184.758 (2)(a)
+has applied the moneys received in accordance with and for the  purposes described in the provider’s
+plan or project proposal; and
+(b) A plan or project proposal submitted  by a public transportation service provider does not
+fragment the provision of public transportation services.
+(4) The [ Oregon Transportation Commission ] board shall adopt by rule:
+(a) Requirements for the composition of an advisory committee appointed under this section;
+(b) Criteria that must be included in a plan or project proposal  required under subsection (2)
+of this section; and
+(c) A process by which an advisory committee shall review and approve a plan or project pro-
+posal.
+(5) Notwithstanding subsection (1) of this section,  the governing bodies of two or more qualified
+entities may appoint advisory  committee members to a joint advisory committee under conditions
+determined by the [ commission] board by rule.
+SECTION 97.
+ ORS 184.766 is amended to read:
+184.766. (1) Every qualified entity that receives a percentage distribution under  ORS 184.758
+shall submit the following to the [ Department of Transportation ] Oregon Rail and Transit  Depart-
+ment:
+(a) No later than 60 days after the end of the fiscal year,  a report on any actions taken by a
+public transportation service provider located within the area  of a qualified entity to mitigate the
+impact of the tax imposed under ORS 320.550 on passengers who reside in low-income  communities;
+(b) No later than 30 days after adoption, the annual budget for the upcoming fiscal year; and
+(c) No later than  30 days after receipt of the final results of any audits of the qualified entity
+or of a public transportation service provider located within the area of the qualified entity as re-
+quired by a local, state or federal oversight agency for  purposes of statewide reporting, the final
+results including, but not limited to:
+(A) The state financial report required under ORS 291.040;
+(B) The results of any comprehensive  review completed by the Federal Transit Administration
+or the department;
+(C) Any information  submitted by the qualified entity as a part of the requirements of a state-
+wide audit in  accordance with the federal Single Audit Act of 1984 (31 U.S.C. 7501 to 7507), as
+amended by the Single Audit Act Amendments of 1996 (P.L. 104-156); and
+(D) Any quarterly reports that detail  project progress, outcomes achieved and the expenditure
+of funds described under ORS 184.758 (2)(a).
+(2) The [ Oregon Transportation Commission ] State Rail and Transit Board  shall establish  rules
+concerning the making of agreements for the distributions made to qualified entities  under ORS
+184.758. Each  agreement must include a condition that requires a qualified entity to repay, in full,
+distributions paid to the qualified entity, if the [ commission] board determines that the  recipient has
+failed meet to any terms or conditions of the agreement.
+SECTION 98.
+(1) The Oregon Rail and Transit Department, in a  manner determined by
+the State Rail and Transit Board, may enter into operating agreements with  any person. The
+agreements may include, but are not limited to, provisions with respect to:
+(a) Services to be rendered;
+(b) Routes to be served;
+(c) Schedules to be provided;
+(d) Compensation to be paid;
+(e) Equipment to be used;
+(f) Points to be served;
+(g) Terminals to be used;
+(h) Qualifications of operating employees;
+(i) Accounting and reporting procedures; and
+(j) Termination dates.
+(2) To the extent practicable the department  shall enter into operating agreements with
+carriers authorized by the department to perform  passenger transportation services pursu-
+ant to ORS 824.020 to 824.042.
+(3) As used  in this section, “operating agreement” means an agreement for operation or
+maintenance on  behalf of the Oregon Rail and Transit Department, but does not include
+agreements by which the department provides only financial or technical assistance or
+transportation facilities or equipment and which do not control routes,  rates or levels of
+service, or agreements  under which such control is exercised by the federal government
+through the department.
+SECTION 99.
+ ORS 197.794 is amended to read:
+197.794. (1) As used in this section, “railroad company” has the meaning given that  term in ORS
+824.200.
+(2) If a railroad-highway crossing  provides or will provide the only access to land that is the
+subject of an application for a land  use decision, a limited land use decision or an expedited land
+division, the applicant must indicate that fact in the application submitted to the decision maker.
+(3) The decision maker shall provide notice to the [ Department of Transportation ] Oregon  Rail
+and Transit Department  and the railroad company whenever the decision maker receives  the in-
+formation described under subsection (2) of this section.
+SECTION 100. Section 9, chapter 13, Oregon Laws 2023, as amended by  section 7, chapter 283,
+Oregon Laws 2023, and section 7, chapter 326, Oregon Laws 2023, is amended to read:
+Sec. 9.  (1) The Land Conservation and  Development Commission shall adopt rules and amend-
+ments to rules related to urbanization as follows:
+(a) On or before June 30, 2024, adopt a schedule by which cities,  as defined in ORS [ 197.286]
+197A.015, in Tillamook County shall demonstrate sufficient buildable lands;
+(b) On or before January 1, 2025, to implement  ORS [ 197.290, 197.291, 197.293, ] 197.319 (4),
+197.320 (13), [ and] 197.335 (6), 197A.100, 197A.103 and 197A.130 ; and
+(c) On or before January 1, 2026, to implement ORS  [ 197.286 to 197.314 ] chapter 197A, except
+as provided in paragraph (b) of this subsection.
+(2) In adopting rules under this section, the commission shall prioritize:
+(a) Facilitating and encouraging housing production, affordability and housing  choice on
+buildable lands within an urban growth boundary;
+(b) Providing greater clarity and certainty in the adoption and acknowledgement of housing ca-
+pacity analyses, urban growth boundary amendments, urban growth boundary  exchanges or urban
+reserves to accommodate an identified housing need;
+(c) Reducing analytical burden,  minimizing procedural redundancy and increasing legal certainty
+for local governments pursuing  urban growth boundary amendments, urban growth boundary ex-
+changes or urban reserves where a  housing need is identified, especially for smaller cities, consist-
+ent with the appropriate protection of resource lands; and
+(d) Supporting coordinated public facilities planning,  annexation, and comprehensive plan
+amendments to facilitate the development of lands brought into an urban growth boundary.
+(3) In adopting rules under subsection (1)(b) of this section, the commission shall:
+(a) Consult with the Housing and  Community Services Department, Department of Transporta-
+tion, Oregon Rail and Transit Department,  Department of Environmental Quality, Department  of
+State Lands, Oregon Business Development  Department and Department of Consumer and Business
+Services;
+(b) Provide clear parameters on the types and extent  of actions needed or allowed under ORS
+[197.290] 197A.100 (3) that are consistent with the technical and resource capacities of  varying sizes
+of local governments; and
+(c) Recognize actions already taken by local governments  to support the development of all
+types of needed housing.
+(4) To avoid interference with current planning  activities or to avoid unjust or surprising re-
+sults, the Land Conservation and Development  Commission may postpone, for cities specified by the
+commission, the applicability of [ section 13, 21, 22  or 23, chapter 13, Oregon Laws 2023, ] ORS
+197A.018, 197A.210, 197A.270 or 197A.280  and  the amendments to ORS [ 197.286, 197.290, 197.296,
+197.297 and 197.303 ] 197A.015, 197A.100, 197A.335, 197A.348  and 197A.350  by sections 12 and 25
+to 28, chapter 13, Oregon Laws 2023, until a date that is not later than January 1, 2027.
+(5) To provide for flexibility and  coordination of county resources, the commission may adopt
+any policies or rules necessary to allow cities, as  defined in ORS [ 197.286] 197A.015, in Tillamook
+County to cooperate with the county  in fulfilling any of the cities’ duties under ORS [ 197.286 to
+197.314] chapter 197A  or coordinating the distribution of any funds to the cities for  such purposes.
+SECTION 101.
+ ORS 197A.505 is amended to read:
+197A.505. (1) The Land Conservation  and Development Commission shall establish criteria, ac-
+cording to the procedure described  in this section, to be used by the Metro Council to make deci-
+sions in a land use final order on the project  improvements for the project, including their locations.
+(2) The commission shall hold a public hearing on the criteria to be established by the  commis-
+sion.
+(3) The commission shall publish  notice of a public hearing on criteria to be established by the
+commission in a newspaper of general circulation within the Portland metropolitan area at least  20
+days prior to the public hearing. The notice shall state:
+(a) The general subject matter of the hearing and the date, time and place of the hearing;
+(b) That any criteria to be proposed to the  commission must be filed at the Salem office of the
+Department of Land Conservation and Development at  least 10 days prior to commencement of the
+hearing and will be available for public inspection following filing;
+(c) That notice of adoption of  an order establishing criteria will be provided only to persons who
+provide oral or written testimony at the hearing and who also provide, in  writing, a request for
+written notice and a mailing address to which notice shall be sent;
+(d) That persons whose names appear on petitions submitted into  the public hearing record will
+not be considered by that action to have provided oral or written testimony at the hearing;
+(e) That failure by a person to raise an issue at the hearing in  person or in writing, or failure
+to provide sufficient specificity to afford the commission an opportunity to  respond to the issue
+raised, shall preclude appeal by that person on that issue; and
+(f) That appeals from an order establishing  criteria must be filed within seven days following the
+date written notice of the order  is mailed to the persons described in subsection (9)(b) of this sec-
+tion.
+(4) The commission may provide additional notice as it deems appropriate  to inform interested
+persons of the public hearing.
+(5) A copy of  the staff report, if any, must be made available for public inspection at least four
+days prior to the public hearing.
+(6) At the commencement  of the hearing, a statement shall be made to those in attendance that:
+(a) Identifies the general subject matter of the hearing;
+(b) Submittal of proposed criteria at  the hearing will not be accepted unless the proposed cri-
+teria were  filed at the Salem office of the department at least 10 days prior to the commencement
+of the hearing;
+(c) Failure by a person  to raise an issue at the hearing in person or in writing, or failure to
+raise an  issue with sufficient specificity to afford the commission an opportunity to respond to the
+issue raised, shall preclude appeal by that person on that issue;
+(d) Notice  of adoption of an order establishing criteria will be provided only to persons who
+provide oral or written testimony at the hearing and who also  provide a written request for notice
+and a mailing address to which notice shall be sent;
+(e) Persons whose names appear on petitions submitted into the public hearing record will not
+be considered by that action to have provided oral or written testimony at the hearing; and
+(f) Appeals from an order establishing  criteria must be filed within seven days following the date
+written notice of the order is mailed.
+(7)(a) The commission shall allow for the submission  of oral and written testimony at the hear-
+ing, subject to any hearing procedures that the commission deems necessary.
+(b) The commission may exclude irrelevant, immaterial or unduly repetitious testimony.
+(c) The commission  may allow only the submission of proposed criteria at the hearing that were
+filed at the Salem office of the Department of Land Conservation and Development at least  10 days
+prior to the commencement of the hearing.
+(d) The commission shall designate an individual to take minutes of the hearing.
+(8)(a) Within 14 days following commencement of the hearing, the commission shall close the
+hearing.
+(b) The commission shall consider all statewide planning goals  and plan policies that are rele-
+vant to decisions regarding the project improvements  and their locations in establishing the criteria.
+(c) The commission shall adopt an order  establishing the criteria. The commission’s order must
+include a brief statement  explaining how the criteria established reasonably reflect the statewide
+land use planning goals  and plan policies that are relevant to decisions regarding the project im-
+provements and their locations.
+(9) As soon as reasonably practicable following establishment of  the criteria, the commission
+shall:
+(a) Make copies of the order and the criteria available for public inspection at  both the Salem
+and Portland offices of the Department of Land Conservation and Development; and
+(b) Provide notice of the order and the criteria to:
+(A) The Metro Council;
+(B) TriMet;
+(C) The Department of Transportation;
+(D) The Oregon Rail and Transit Department;
+[(D)] (E)  Each affected local government; and
+[(E)] (F)  Any person who provided oral or written testimony at the hearing and  who also pro-
+vided a written request for notice and a mailing address to which notice shall be sent.
+SECTION 102.
+ ORS 197A.507 is amended to read:
+197A.507. (1) Notwithstanding ORS 183.400, 183.482, 183.484,  197.825 or any other law or regu-
+lation, exclusive jurisdiction to review a Land Conservation and  Development Commission order
+establishing criteria under ORS 197A.505 is conferred on the Supreme Court.
+(2) Proceedings for review of an order by the commission shall be initiated  when any person
+who is adversely affected  by the order files a petition for judicial review with the State Court Ad-
+ministrator. The petition must:
+(a) Be filed within seven days following the date of the written notice of the order;
+(b) State the nature of the order and the manner in which the commission rejected  the position
+raised by the petitioner before the commission; and
+(c) Contain  an affidavit stating facts that show how the petitioner is adversely affected by the
+order.
+(3) The petitioner shall personally deliver copies of the petition for judicial review to:
+(a) The commission, at the Salem office of the Department  of Land Conservation and Develop-
+ment;
+(b) The Salem office of the Department of Transportation;
+(c) The Attorney General;
+(d) The Metro Council, at the office of Metro’s executive officer;
+(e) The Oregon Rail and Transit Department;
+[(e)] (f)  TriMet, at the office of TriMet’s general manager; and
+[(f)] (g)  Each affected local government.
+(4) Within seven  days following filing of the petition for judicial review, the commission shall
+personally deliver or electronically submit to the State  Court Administrator a certified copy of the
+record of the criteria proceedings. The record shall include only:
+(a) The published notice of public hearing;
+(b) The  proposed criteria submitted as described in ORS 197A.505 (6)(b) and by written testimony
+submitted to the commission at the hearing;
+(c) Any written report received  by the commission from the Department of Land Conservation
+and Development at the hearing;
+(d) Minutes of the hearing;
+(e) The order establishing the criteria; and
+(f) Proof of mailing to persons entitled to written notice of the order  and the criteria under ORS
+197A.505 (9)(b).
+(5) Within  14 days following the filing of the petition for judicial review, the petitioner shall file
+a petitioner’s brief with the State Court Administrator. The brief  must comply with the specifica-
+tions for opening briefs set forth in the  rules of appellate procedure. The petitioner shall personally
+deliver a copy of the brief to:
+(a) The Attorney General;
+(b) The Metro Council, at the office of Metro’s executive officer;
+(c) TriMet, at the office of TriMet’s general manager; and
+(d) Each affected local government.
+(6) The court shall consider the petitioner to be adversely affected if:
+(a) The petitioner provided oral or written testimony at the hearing; and
+(b) The petitioner proposed criteria in the manner  described in ORS 197A.505 (6)(b) that the
+commission rejected in its order or the petitioner, in the petitioner’s testimony  at the hearing, op-
+posed the criteria that the commission established in its order.
+(7) Within 28 days following the filing  of the petition for judicial review, an answering brief
+complying with the rules of appellate procedure may be filed by any of the following:
+(a) The commission;
+(b) Metro, unless Metro is the petitioner;
+(c) TriMet, unless TriMet is the petitioner;
+(d) The Department of Transportation, unless the Department of Transportation is the petitioner;
+or
+(e) Any affected local government, unless the local government is the petitioner.
+(8) The court shall decide the  matter at its earliest practicable convenience, consistent with
+ORS 197A.500 to 197A.521. The court may decide the matter on the briefs or it may hold oral  ar-
+guments.
+(9)(a) The court may reverse or remand the order only if the court finds that the order:
+(A) Violates constitutional provisions;
+(B) Exceeds the statutory authority of the commission; or
+(C) Was adopted by the commission without substantial compliance with  the procedures in ORS
+197A.505 or in a manner that prejudiced the substantial rights of the petitioner.
+(b) Failure of the commission to notify a person  entitled to written notice under ORS 197A.505
+(9)(b) is not grounds  for reversal or remand if the commission provides evidence of mailing the no-
+tice to that person.
+(c) The court may not substitute its judgment for that of the commission as  to any issue of fact
+or as to any issue within the discretion of the commission.
+(10) The court may not stay any action by  the Metro Council under ORS 197A.500 to 197A.521
+pending the court’s review under this section.
+SECTION 103.
+ ORS 197A.509 is amended to read:
+197A.509. (1)(a) On or before the date the Land Conservation and Development  Commission
+adopts the order establishing the criteria under ORS 197A.505, Metro shall  establish a steering
+committee, the initial membership of  which shall include a representative from each of the following:
+(A) Metro;
+(B) TriMet;
+(C) The Department of Transportation; [ and]
+(D) The Oregon Rail and Transit Department; and
+[(D)] (E)  Each affected local government.
+(b) The membership of the steering committee shall, at all times, include at  least the members
+described in paragraph (a) of this subsection.  The steering committee may approve additional mem-
+bers by majority vote.
+(c) Metro shall staff the steering committee until  the adoption of the initial land use final order
+for the project.
+(2)(a) The steering committee shall issue recommendations for the siting of the light rail  route
+and other project improvements and their locations to TriMet.
+(b) TriMet shall apply to the Metro Council for a land use final order approving the  project
+improvements and their locations.  The applied for locations must provide sufficient boundaries to
+accommodate adjustments to the specific placements  of the project improvements for which need
+commonly arises upon  the development of more detailed environmental or engineering data following
+approval of a Full Funding Grant Agreement.
+(3) The council shall apply the criteria  established by the Land Conservation and Development
+Commission under ORS 197A.505 when  making decisions in a land use final order on the applied for
+project improvements, including  their locations. The council shall follow the procedures described
+in this section when adopting a land use final order.
+(4) The council shall hold a  public hearing on the project improvements, including their lo-
+cations, for which decisions will be made in the land use final order.
+(5)(a) At least 14 days  prior to the hearing, the council shall publish notice of a public hearing
+on the project improvements, including their locations,  in a newspaper of general circulation within
+Metro’s jurisdictional area. The notice shall state:
+(A) The general subject matter of the hearing and all matters scheduled for consideration  at the
+hearing;
+(B) The date, time and place of the hearing;
+(C) The street address where a staff report and the criteria may be found;
+(D) That failure by a person to raise an issue at the hearing in person  or in writing, or failure
+to provide sufficient specificity to afford the council an opportunity to respond to  the issue raised,
+shall preclude appeal by that person to the Land Use Board of Appeals based on that issue;
+(E) That persons whose names  appear on petitions submitted into the public hearing record will
+not be considered by that action to have provided oral or written testimony at the hearing;
+(F) That  notice of adoption of the land use final order will be provided only to persons who
+provide oral or written testimony at the hearing and who also  provide a written request for notice
+and a mailing address to which notice shall be sent; and
+(G) That appeals from decisions in a land use final order must be filed  within 14 days following
+the date the land use final order is reduced to writing and bears the necessary signatures.
+(b) The council also shall  provide such other notice as the council deems necessary to give no-
+tice to persons who may be substantially affected by its decision. No other  form of notice is re-
+quired.
+(6)(a) At least seven days prior to the hearing, the  council shall make a copy of the staff report
+available for public inspection. The staff report shall:
+(A) Set forth the criteria established under ORS 197A.505;
+(B) Include a description of the proposed boundaries within which  the project improvements will
+be located, as applied for by TriMet under subsection (2) of this section; and
+(C) Address how the proposed boundaries comply with the criteria.
+(b) Without providing additional notice, the council may amend the staff report prior to the
+hearing as the staff considers necessary or desirable.
+(7) At the commencement  of the hearing, a statement shall be made to those in attendance that:
+(a) Lists the criteria or directs those present to a place at the hearing location  where any per-
+son may obtain a list of the criteria at no cost;
+(b) Lists generally the project improvements, including their locations,  for which decisions will
+be made in the land use final order;
+(c) Testimony  shall be directed toward the application of the criteria to the project improve-
+ments, including their locations, to which decisions will be made in the land use final order;
+(d) Failure by a person to raise an issue at the hearing, in person or  in writing, or failure to
+raise an issue with sufficient specificity to  afford the council an opportunity to respond to the issue
+raised, shall preclude appeal by that person to the board based on that issue;
+(e) Persons whose names appear on petitions submitted into the public hearing record will not
+be considered by that action to have provided oral or written testimony at the hearing;
+(f) Notice of adoption of the land use final order will be  provided only to the affected local
+governments and to the persons who have  provided oral or written testimony at the hearing and
+who also have provided a written request for notice and a mailing address to which notice  shall be
+sent; and
+(g) Appeals from decisions in a land use final order on the  project improvements, including their
+locations, must be filed within 14 days following the  date the land use final order is reduced to
+writing and bears the necessary signatures.
+(8)(a) The council shall allow for the  submission of oral and written testimony at the hearing,
+subject to any hearing procedures the council deems necessary or appropriate for the  adoption of
+a land use final order.
+(b) The council may exclude irrelevant, immaterial or unduly repetitious testimony.
+(9) The council may  take official notice at the hearing of any matter identified in ORS 40.065
+and 40.090 or as authorized by resolution of the council establishing hearing procedures for the
+adoption of land use final orders.
+(10) The council is not required to provide any  opportunities in addition to those described in
+this section for interested persons to participate in the  proceedings of the council in adopting a land
+use final order. The council may establish  by resolution additional procedures to govern its pro-
+ceedings in adopting a land use final order, subject to the provisions of this section.
+(11) The council shall close the hearing and shall adopt a  land use final order by resolution or
+continue the matter as provided  in ORS 197A.511 (1) or as the council otherwise considers necessary
+for the purpose of adopting a land use final order.
+SECTION 104.
+ ORS 197A.515 is amended to read:
+197A.515. (1) Notwithstanding  ORS 183.482, 183.484 or 197.825 and as provided by ORS 197A.500
+to 197A.521, the Land  Use Board of Appeals and the Supreme Court have exclusive jurisdiction for
+review of a land use final order adopted under ORS 197A.511 relating to the project.
+(2) Proceedings for review of a land use final order shall be initiated with  the Land Use Board
+of Appeals when any person with standing petitions for review under subsection (3) of this section.
+(3) The board shall consider a person to have standing if the person:
+(a) Appeared before the Metro Council orally  or in writing at the hearing described in ORS
+197A.509 on the project; and
+(b) Personally delivered  a notice of intent to appeal the land use final order as described by
+subsection (5) of this  section within 14 days following the adoption of the land use final order as
+described in ORS 197A.509 (11).
+(4) A person’s failure to raise an issue at the land use final order  hearing, in person or in
+writing, or failure to raise an issue with sufficient specificity  to afford the council an opportunity
+to respond to the issue raised, shall preclude that person from petitioning for review  based on that
+issue.
+(5)(a) A notice of intent to appeal shall:
+(A) Contain an affidavit stating the facts that support  the petitioner’s standing as required by
+subsection (3) of this section;
+(B) State with particularity the grounds on which the petitioner assigns error; and
+(C) State the residence or  business address of the petitioner to which documents may be deliv-
+ered and the telephone number where the petitioner may be reached during normal business hours.
+(b) The petitioner shall personally deliver copies of the notice of intent to appeal to:
+(A) The board;
+(B) Metro, at the office of Metro’s executive officer; and
+(C) Each affected local government.
+(6) Only the following persons may intervene in and thereby be  made a party to the review
+proceedings:
+(a) The board;
+(b) Metro;
+(c) TriMet;
+(d) Oregon Rail and Transit Department;
+[(d)] (e)  The Department of Transportation; and
+[(e)] (f)  Any affected local government.
+(7)(a) Within seven days following delivery of a notice of intent to appeal as required by sub-
+section (5) of this section, Metro shall personally deliver  a certified copy of the record of the
+council’s land use final order proceedings to the board. The record shall consist of:
+(A) The land use final order;
+(B) The statement of findings included with the land use final order;
+(C) The notice of public hearing on the land use final order;
+(D) Audio recordings of the hearing, if any;
+(E) A statement of matters that were officially noticed at the hearing;
+(F) The staff report and any amendments thereto; and
+(G) All documents accepted into the public hearing record.
+(b) Metro shall make available  a copy of the record for inspection by petitioners, and shall
+provide a copy of the record to any petitioner upon request. Metro may  not charge a petitioner an
+amount greater than the actual copying costs for a copy of the record.
+(8)(a) Within four days following delivery of the record to the board, a petitioner may object to
+the record by personal delivery to the board and  the residence or business addresses of the inter-
+vening parties.
+(b) Within four days following delivery of the objections to the record,  Metro shall respond to
+the objections by  personal delivery to the board and the residence or business addresses of the
+petitioners objecting.
+(c) After delivery of the objections and the response, the board shall rule expeditiously  on the
+objections. The board’s ruling  on the objections does not affect the briefing schedule or decision
+timelines set forth in ORS 197A.500 to 197A.521.
+(9) Stays or continuances of proceedings are not  permitted for the proceedings described in this
+section.
+(10)(a) Within 14 days following the filing of the  notice of intent to appeal, a petitioner shall
+personally deliver a petition for review and brief to each entity listed in  subsection (6) of this sec-
+tion that has filed a motion to intervene on the entity’s own behalf in the review proceedings.
+(b) The petition for review and brief shall:
+(A) Set out in detail each assignment of error; and
+(B) Identify those portions of the  record in which the petitioner raised the issues as to which
+error is assigned during the land use final order hearing.
+(c) The petition for review and brief shall comply with the  specifications for opening briefs set
+forth in the rules of appellate procedure.
+(11)(a) Within 28 days following the filing of the  notice of intent to appeal, Metro and any in-
+tervening  party  shall personally deliver their briefs in response to a petition for review and brief
+to the board and to any petitioner at the petitioner’s residence or business address.
+(b) Responding briefs shall comply with the specifications for answering  briefs set forth in the
+rules of appellate procedure.
+(12)(a) Within 35 days following the filing of the notice of  intent to appeal, the board shall hear
+oral argument in the manner provided for in its administrative rules.
+(b) Neither the board nor the court may substitute its judgment for that of  the council as to any
+issue of fact or any issue within the discretion of the council.
+(13)(a) Within  28 days following oral argument, the board shall issue a final opinion affirming
+or remanding the council’s land use final order and stating the reasons for the decision.
+(b) The board may remand the land use final order only if the board finds that the council:
+(A) Improperly construed the criteria;
+(B) Exceeded its statutory or constitutional authority; or
+(C) Made a decision in the land use final order on the project improvements, including their
+locations, that was not supported by substantial evidence in the record.
+(c) The existence in the record of substantial evidence supporting a different  decision on the
+project improvements, including their locations, is not grounds for remand if there was  also sub-
+stantial evidence in the record supporting the land use final order.
+(d) Failure to comply with statutory procedures, including notice  requirements, is not grounds
+for invalidating a land use final order.
+(e) The board shall affirm all portions of the land use final order that it does not remand.
+(14) Upon issuance of its final opinion under subsection (13) of this section, the board shall:
+(a) Transmit copies of the final opinion to the parties; and
+(b) Inform the parties of the filing of the final opinion by telephone.
+(15) Within seven days following issuance of its final opinion, the  board shall personally deliver
+or electronically submit a copy of the record of the board with the State Court Administrator.
+SECTION 105.
+ ORS 209.300 is amended to read:
+209.300. When a  railroad gives notice of its intention to abandon a railroad line within this
+state, the [ Department of Transportation ] Oregon Rail and Transit Department  shall provide a
+copy of the notice to the county surveyor of each county in which the line to  be abandoned is lo-
+cated. Upon written request from a county surveyor so notified, the  railroad shall provide the
+county surveyor with a reproducible copy of the right of way plats  for the line to be abandoned.
+The copy of the right of way plats shall be provided prior to abandonment at no  cost to the county
+surveyor,  and shall show the center line of trackage as originally constructed and currently existing,
+together with ties to monumented public land survey corners, as shown by the right of way plats.
+SECTION 106. ORS 244.050 is amended to read:
+244.050. (1) On or  before April 15 of each year the following persons shall file with the Oregon
+Government Ethics Commission a verified statement of economic interest as required  under this
+chapter:
+(a) The Governor, Secretary of State, State Treasurer, Attorney General, Commissioner  of the
+Bureau of Labor and Industries, district attorneys and members of the Legislative Assembly.
+(b) Any judicial officer, including justices of the peace and municipal judges,  except any pro tem
+judicial officer who does not otherwise serve as a judicial officer.
+(c) Any candidate for a public office designated in paragraph (a) or (b) of this subsection.
+(d) The Deputy Attorney General.
+(e) The Deputy Secretary of State.
+(f) The Legislative Administrator, the Legislative Counsel, the Legislative Fiscal Officer, the
+Legislative Policy and Research Director, the  Secretary of the Senate, the Chief Clerk of the House
+of Representatives and the Legislative Equity Officer.
+(g) The president and vice presidents, or their administrative equivalents, in each public  uni-
+versity listed in ORS 352.002.
+(h) The following state officers:
+(A) Adjutant General.
+(B) Director of Agriculture.
+(C) Manager of State Accident Insurance Fund Corporation.
+(D) Water Resources Director.
+(E) Director of the Department of Environmental Quality.
+(F) Director of the Oregon Department of Administrative Services.
+(G) State Fish and Wildlife Director.
+(H) State Forester.
+(I) State Geologist.
+(J) Director of Human Services.
+(K) Director of the Department of Consumer and Business Services.
+(L) Director of the Department of State Lands.
+(M) State Librarian.
+(N) Administrator of the Oregon Liquor and Cannabis Commission.
+(O) Superintendent of State Police.
+(P) Director of the Public Employees Retirement System.
+(Q) Director of Department of Revenue.
+(R) Director of Transportation.
+(S) Public Utility Commissioner.
+(T) Director of Veterans’ Affairs.
+(U) Executive director of Oregon Government Ethics Commission.
+(V) Director of the State Department of Energy.
+(W) Director and each assistant director of the Oregon State Lottery.
+(X) Director of the Department of Corrections.
+(Y) Director of the Oregon Department of Aviation.
+(Z) Executive director of the Oregon Criminal Justice Commission.
+(AA) Director of the Oregon Business Development Department.
+(BB) Director of the Oregon Department of Emergency Management.
+(CC) Director of the Employment Department.
+(DD) State Fire Marshal.
+(EE) Chief of staff for the Governor.
+(FF) Director of the Housing and Community Services Department.
+(GG) State Court Administrator.
+(HH) Director of the Department of Land Conservation and Development.
+(II) Board chairperson of the Land Use Board of Appeals.
+(JJ) State Marine Director.
+(KK) Executive director of the Oregon Racing Commission.
+(LL) State Parks and Recreation Director.
+(MM) Executive director of the Oregon Public Defense Commission.
+(NN) Chairperson of the Public Employees’ Benefit Board.
+(OO) Director of the Department of Public Safety Standards and Training.
+(PP) Executive director of the Higher Education Coordinating Commission.
+(QQ) Executive director of the Oregon Watershed Enhancement Board.
+(RR) Director of the Oregon Youth Authority.
+(SS) Director of the Oregon Health Authority.
+(TT) Deputy Superintendent of Public Instruction.
+(UU) Director of the Oregon Rail and Transit Department.
+(i) The First Partner, the legal counsel, the deputy  legal counsel and all policy advisors within
+the Governor’s office.
+(j) Every elected city or county official.
+(k) Every member of a city or county planning, zoning or development commission.
+(L) The chief executive officer of a city or county who performs  the duties of manager or prin-
+cipal administrator of the city or county.
+(m) Members of local government boundary commissions formed under ORS 199.410 to 199.519.
+(n) Every member of a governing body of a metropolitan service  district and the auditor and
+executive officer thereof.
+(o) Each member of the board of directors of the State Accident Insurance Fund Corporation.
+(p) The chief administrative officer and the financial  officer of each common and union high
+school district, education service district and community college district.
+(q) Every member of the following state boards, commissions and councils:
+(A) Governing board of the State Department of Geology and Mineral Industries.
+(B) Oregon Business Development Commission.
+(C) State Board of Education.
+(D) Environmental Quality Commission.
+(E) Fish and Wildlife Commission of the State of Oregon.
+(F) State Board of Forestry.
+(G) Oregon Government Ethics Commission.
+(H) Oregon Health Policy Board.
+(I) Oregon Investment Council.
+(J) Land Conservation and Development Commission.
+(K) Oregon Liquor and Cannabis Commission.
+(L) Oregon Short Term Fund Board.
+(M) State Marine Board.
+(N) Mass transit district boards.
+(O) Energy Facility Siting Council.
+(P) Board of Commissioners of the Port of Portland.
+(Q) Employment Relations Board.
+(R) Public Employees Retirement Board.
+(S) Oregon Racing Commission.
+(T) Oregon Transportation Commission.
+(U) Water Resources Commission.
+(V) Workers’ Compensation Board.
+(W) Oregon Facilities Authority.
+(X) Oregon State Lottery Commission.
+(Y) Pacific Northwest Electric Power and Conservation Planning Council.
+(Z) Columbia River Gorge Commission.
+(AA) Oregon Health and Science University Board of Directors.
+(BB) Capitol Planning Commission.
+(CC) Higher Education Coordinating Commission.
+(DD) Oregon Growth Board.
+(EE) Early Learning Council.
+(FF) The Oversight and Accountability Council.
+(GG) State Rail and Transit Board.
+(r) The following officers of the State Treasurer:
+(A) Deputy State Treasurer.
+(B) Chief of staff for the office of the State Treasurer.
+(C) Director of the Investment Division.
+(s) Every member of the board of commissioners of a port governed by ORS 777.005 to 777.725
+or 777.915 to 777.953.
+(t) Every member of the  board of directors of an authority created under ORS 441.525 to 441.595.
+(u) Every member of a governing board of a public university listed in ORS 352.002.
+(v) Every member of the district school board of a common school district or union  high school
+district.
+(w) Every member of the board of directors of an authority  created under ORS 465.600 to
+465.621.
+(2) By April 15 next after the date an appointment takes effect, every appointed public official
+on a board or commission  listed in subsection (1) of this section shall file with the Oregon Govern-
+ment Ethics Commission a statement of economic interest as required under ORS 244.060,  244.070
+and 244.090.
+(3) By  April 15 next after the filing deadline for the primary election, each candidate described
+in subsection (1) of this section shall file with the commission a statement of economic interest  as
+required under ORS 244.060, 244.070 and 244.090.
+(4) Not later than the 40th day before the date of the statewide general election,  each candidate
+described in subsection (1) of this section who will appear on the statewide  general election ballot
+and who was not required to file a statement  of economic interest under subsections (1) to (3) of this
+section shall file with the commission a statement of economic interest as required under  ORS
+244.060, 244.070 and 244.090.
+(5) Subsections (1) to (3) of this section apply only to persons who  are incumbent, elected or
+appointed public officials as of April 15 and to persons who are candidates on April 15.
+(6) If a  statement required to be filed under this section has not been received by the commis-
+sion within five days after the date the statement  is due, the commission shall notify the public of-
+ficial or candidate and give the public official or candidate not less than 15 days to comply with  the
+requirements of this section. If the public official or candidate fails to comply by the date set by  the
+commission, the commission may impose a civil penalty as provided in ORS 244.350.
+SECTION 107.
+ ORS 267.210 is amended to read:
+267.210. (1) A district shall, within a reasonable time after formation, prepare a broad, general
+plan for  a mass transit system for the district. The plan shall be prepared in cooperation with the
+[Department of Transportation ] Oregon Rail and Transit Department  and cities and  counties lo-
+cated within and adjacent to the district.
+(2) The plan shall show existing and proposed  transit systems of the district and of other public
+and private agencies relating to mass transit.  It shall demonstrate a basis for the coordination and
+planning of future construction, improvement and equipment acquisition of the district,  govern-
+mental agencies  and private interests to assure maximum efficiency and use of mass transit in the
+district. The plans shall be based on the needs of the district and take into consideration  the plans
+and programs, if any,  developed by the [ Department of Transportation ] Oregon Rail and Transit
+Department and cities and counties located within  the district. The district may have access to all
+information, statistics, plans and data in the possession of or available to any  state agency or public
+corporation which is pertinent to the preparation of the plan and may reimburse the agency  or
+corporation for any expense incurred in cooperating with the board.
+(3) The district board shall  revise the plan as necessary for the proper control, utilization, de-
+velopment and improvement of the district transit system.
+SECTION 108.
+ ORS 267.230 is amended to read:
+267.230. (1) Except as provided in ORS 824.045 and subsection (2) of this section, a transit system
+operated by a district, including the rates and charges made by a district and the equipment  oper-
+ated by a district, [ shall not  be ] is not  subject to state laws or ordinances of any political subdivi-
+sion regulating public utilities or railroads, including those  laws administered by the [ Department
+of Transportation ] Oregon Rail and Transit Department .
+(2) ORS 824.200 to 824.256 apply to the transit system operated  by a district except for control
+and regulation of any crossing at which the light rail transit vehicles of a  district’s transit system
+cross a highway at separated grades or any grade crossing at which the light rail  transit vehicles
+operate within and parallel to the right of way of a highway and where all  conflicting vehicle
+movements are controlled by standard highway traffic devices. However, upon written request from
+the district and the public authority with jurisdiction over the highway at such a grade  crossing,
+the department shall adjudicate any dispute that  arises between the district and the public authority
+with regard to the grade crossing.
+SECTION 109.
+ ORS 267.575 is amended to read:
+267.575. (1) A district shall, within a reasonable time after formation, prepare a broad,  general
+plan for a public transit system for the district. The plan shall be prepared in cooperation with the
+[Department of Transportation ] Oregon Rail and Transit Department  and cities and  counties lo-
+cated within and adjacent to the district.
+(2) The plan shall show existing and proposed  transit systems of the district and of other public
+and private agencies relating  to public transit. It shall demonstrate a basis for the coordination and
+planning of  future construction, improvement and equipment acquisition of the district, govern-
+mental agencies and private interests to assure maximum efficiency and use of public transit  in the
+district. The plans shall be based on the needs of the district and take into consideration  the plans
+and programs, if any,  developed by the [ Department of Transportation ] Oregon Rail and Transit
+Department and  cities and counties located within and adjacent to the district. The district may
+have access to all information, statistics, plans and data in the possession of  or available to any
+state agency or public corporation which is pertinent to the preparation  of the plan and may reim-
+burse the agency or corporation for any expense incurred in cooperating with the board.
+(3) The district board shall  revise the plan as necessary for the proper control, utilization, de-
+velopment and improvement of the district transit system.
+SECTION 110. ORS 271.310 is amended to read:
+271.310. (1) Except as provided in subsection (2)  of this section and subject to subsection (3) of
+this section, whenever any political subdivision possesses or  controls real property not needed for
+public use, or whenever the public interest may be furthered, a political  subdivision may sell, ex-
+change, convey or lease  for any period not exceeding 99 years all or any part of the political
+subdivision’s interest in the property to a  governmental body or private individual or corporation.
+The consideration for the transfer or lease may be cash or real property, or both.
+(2) If the ownership, right or title of the  political subdivision to any real property set apart by
+deed, will or otherwise for a burial ground or cemetery, or for the purpose  of interring the remains
+of deceased persons, is limited or qualified or the use of the real property is restricted, whether  by
+dedication or otherwise,  the political subdivision may, after the county court or governing body
+thereof has first declared by resolution  that the real property is not needed for public use, or that
+the sale, exchange, conveyance  or lease of the real property will further the public interest, file a
+complaint in the circuit court for the county in which the real property is located against all  per-
+sons claiming  any right, title or interest in the real property, whether the interest be contingent,
+conditional or otherwise, for authority to sell, exchange, convey or lease all or any  part of the real
+property. The resolution is prima facie evidence that the real property is  not needed for public use,
+or that the sale, exchange, conveyance or lease will further the public interest. The action shall  be
+commenced and prosecuted to  final determination in the same manner as an action not triable by
+right to a jury. The complaint shall contain a description of the real  property, a statement of the
+nature of the restriction, qualification or limitations, and a statement that the defendants claim some
+interest therein. The court shall make such judgment as  it shall deem proper, taking into consider-
+ation the limitation, qualifications or restrictions, the resolution, and  all other matters pertinent
+thereto. Neither costs nor disbursements may be recovered against any defendant.
+(3)(a) At least 30 days  before listing or placing real property for sale, exchange or conveyance,
+a political subdivision shall notify  the [ Department of Transportation ] Oregon Rail and Transit
+Department of its intent to sell, exchange or convey the real property  if the real property is within
+100 feet of a railroad right of way or is within 500 feet of an at-grade rail crossing.
+(b) The department shall share the advance notice with private providers  of rail service that
+might be  interested in obtaining the real property to facilitate the current delivery or future ex-
+pansion of rail service. Notwithstanding the benefit of  receiving advance notice, a private provider
+of rail  service may not obtain or enter into negotiations to obtain the real property until the poli-
+tical subdivision offers the  real property for sale, exchange, conveyance or lease to the general
+public. As used in this paragraph, “general public” includes private providers of rail service.
+(c) Paragraph (a) of this subsection does not apply:
+(A) To light rail corridors and any other rail corridors excluded by rule of the department;
+(B) If the proposed sale, exchange or conveyance of the real property is to a  provider of rail
+service; or
+(C) To the proposed sale, exchange or conveyance of easements.
+(d) The department shall adopt rules to implement this  subsection. The rules may include pro-
+visions that:
+(A) Identify rail corridors within which a political subdivision is not required  to provide notice
+of intention to sell, exchange or convey real property within 100 feet of  a railroad right of way or
+within 500 feet of an at-grade rail crossing.
+(B) Establish a process for providing advance notice to private providers of rail service.
+(4) Unless the  governing body of a political subdivision determines under subsection (1) of this
+section that the public interest may be furthered,  real property needed for public use by any poli-
+tical  subdivision  owning or controlling the property may not be sold, exchanged, conveyed or leased
+under the authority of  ORS 271.300 to 271.360, except that it may be exchanged for property that
+is of  equal or superior useful value for public use. Any such property not immediately needed for
+public use may be leased if, in the discretion of the governing body having  control of the property,
+the property will not be needed for public use within the period of the lease.
+(5) The authority to lease  property granted by this section includes authority to lease property
+not owned or controlled by the political subdivision at the time of entering into the lease. A lease
+under this subsection shall be conditioned upon  the subsequent acquisition of the interest covered
+by the lease.
+SECTION 111.
+ ORS 279A.050 is amended to read:
+279A.050. (1)(a) Except as otherwise provided in the Public  Contracting Code, a contracting
+agency shall exercise all of the contracting agency’s procurement authority in accordance  with the
+provisions of the Public Contracting Code.
+(b) If a contracting agency has  authority under this section to carry out functions described in
+this section, or has authority to make procurements under a provision of law other than the  Public
+Contracting Code, the contracting agency need not exercise the contracting agency’s authority  in
+accordance with the provisions of the code if, under ORS 279A.025, the  code does not apply to the
+contract or contracting agency.
+(2)(a) Except as  otherwise provided in paragraph (b) of this subsection and the Public Con-
+tracting Code, for state agencies the Director of the Oregon  Department of Administrative Services
+has all the authority available to carry out the provisions of the Public Contracting Code.
+(b) Except as  otherwise provided in the Public Contracting Code, for state agencies the director
+may delegate to the  State Chief Information Officer the authority to procure or supervise the pro-
+curement of all goods, services and personal services related to information  technology and tele-
+communications for state contracting agencies. This paragraph does not  apply to contracts under
+which the contractor delivers to the state agency information technology  products or services inci-
+dentally in performing a personal services  contract described in ORS chapter 279C or a construction
+contract described in ORS chapter 279C.
+(3) Except as otherwise provided in the Public Contracting Code, the Director of  Transportation
+has all the authority available to:
+[(a) Procure or supervise the procurement of all services and personal services to construct, acquire,
+plan, design, maintain and operate passenger terminal facilities and motor vehicle parking facilities  in
+connection with any public transportation system in accordance with ORS 184.689 (5); ]
+[(b)] (a)  Procure or supervise the procurement of all  goods, services, public improvements and
+personal services that relate to operating, maintaining or constructing highways,  bridges and other
+transportation facilities that are subject to the authority of the Department of Transportation; and
+[(c)] (b)  Establish standards for, prescribe forms for and conduct the prequalification of pro-
+spective bidders on public improvement contracts that relate to operating, maintaining  or con-
+structing highways, bridges and other transportation facilities that are subject to  the authority of
+the Department of Transportation.
+(4) Except as otherwise provided in the Public Contracting Code, the Secretary of State has all
+the authority to procure or supervise the procurement of goods, services and personal  services re-
+lated to programs under the authority of the Secretary of State.
+(5) Except as otherwise provided in the Public  Contracting Code, the State Treasurer has all the
+authority to procure or supervise the procurement of goods, services and personal  services related
+to programs under the authority of the State Treasurer.
+(6) The state agencies listed in this subsection have all the authority to do the  following in ac-
+cordance with the Public Contracting Code:
+(a) The Department of Human  Services to procure or supervise the procurement of goods, ser-
+vices and personal  services under ORS 179.040 for the department’s institutions and the procurement
+of goods, services and personal services  for constructing, demolishing, exchanging, maintaining, op-
+erating and equipping housing for the purpose of providing  care to individuals with intellectual
+disabilities or other developmental disabilities, subject to applicable provisions of ORS 427.335;
+(b) The Oregon Health Authority to  procure or supervise the procurement of goods, services and
+personal services under ORS 179.040 and construction materials, equipment  and supplies for the
+authority’s  institutions  and the procurement of goods, services, personal services, construction ma-
+terials, equipment  and supplies for constructing, demolishing, exchanging, maintaining, operating
+and equipping housing for individuals with chronic mental illness, subject to applicable  provisions
+of ORS 426.504;
+(c) The State Department of  Fish and Wildlife to procure or supervise the procurement of con-
+struction materials, equipment, supplies, services and personal services for  public improvements,
+public works or ordinary construction described in ORS  279C.320 that is subject to the authority
+of the State Department of Fish and Wildlife;
+(d) The State Parks and Recreation Department  to procure or supervise the procurement of all
+goods, services, public improvements and personal services related to state parks;
+(e) The Oregon Department of Aviation to procure or supervise the procurement  of construction
+materials, equipment, supplies,  services and personal services for public improvements, public works
+or ordinary construction described in ORS 279C.320 that is subject to the authority  of the Oregon
+Department of Aviation;
+(f) The Oregon Business Development Department to procure or supervise the procurement of
+all goods, services, personal services and public improvements related to its foreign trade  offices
+operating outside the state;
+(g) The Housing and Community Services Department to procure  or supervise the procurement
+of goods, services and personal services that are unrelated to the department’s duties prescribed  in
+ORS chapters 456 and 458, and not otherwise provided for by ORS 456.625 (19);
+(h) The Department of Corrections to procure or supervise the  procurement of construction
+materials, equipment, supplies,  services and personal services for public improvements, public works
+or ordinary construction described in ORS 279C.320 that is subject to the authority of the  Depart-
+ment of Corrections;
+(i) The  Department of Corrections, subject to any applicable provisions of ORS 279A.120,
+279A.125, 279A.145 and 283.110 to 283.395, to procure or supervise the procurement  of goods, ser-
+vices and personal services under ORS 179.040 for its institutions;
+(j) The Department of Veterans’ Affairs to procure or supervise  the procurement of real estate
+broker and principal real estate broker services related to programs under the department’s  au-
+thority;
+(k) The Oregon Military Department  to procure or supervise the procurement of construction
+materials, equipment, supplies,  services and personal services for public improvements, public works
+or ordinary construction described in ORS 279C.320 that is subject to the authority  of the Oregon
+Military Department;
+(L) The Department of  Education, subject to any applicable provisions of ORS 329.075, 329.085
+and 329.485 and the federal Every Student Succeeds Act (P.L. 114-95,  129 Stat. 1802), to procure or
+supervise the procurement of goods, services, personal services and information technology  related
+to student assessment;
+(m) The Department of Early Learning and Care to procure or supervise the  procurement of
+goods, services, personal services and information technology related to the authority of the de-
+partment or the Early Learning Council; and
+(n) Any state agency to conduct a procurement when the agency is specifically authorized  by
+any provision of law other than the Public Contracting Code to enter into a contract.
+(7)(a) Notwithstanding this section and ORS 279A.140 (1), the Director of  the Oregon Depart-
+ment of Administrative Services has exclusive authority, unless the director delegates the  authority,
+to procure or supervise the procurement  of all price agreements on behalf of the state agencies
+identified in subsection (6) of this section under which more than one state  agency may order goods,
+services or personal services.
+(b) The director may delegate to the State Chief Information Officer  the exclusive authority to
+procure or supervise the procurement of  all price agreements related to information technology and
+telecommunications on behalf  of the state agencies identified in subsection (6) of this section.
+Notwithstanding any authority that  a state agency may have under subsection (3) or (6) of this
+section, the state agency may not establish a price agreement or enter into a contract  for goods,
+services or personal services without the approval of the director or the State  Chief Information
+Officer if the  director or the State Chief Information Officer has established a price agreement for
+the goods, services or personal services.
+(c) The State Chief Information Officer may review any solicitation document for  procuring in-
+formation technology or telecommunications that a  state agency intends to issue before the state
+agency issues the solicitation document and may require the state agency to name the State  Chief
+Information Officer as a third-party beneficiary with full authority to enforce the terms and  condi-
+tions of  any public contract for information technology or telecommunications. The State Chief In-
+formation Officer must approve a state agency’s procurement for information technology or
+telecommunications if the procurement has an anticipated contract price of $1  million or more. The
+State Chief Information Officer may require the state agency to  name the State Chief Information
+Officer as the contracting party on behalf  of the State of Oregon in a procurement for information
+technology or telecommunications that has an anticipated contract price of $1 million or more.
+(8) Except as otherwise  provided in the Public Contracting Code, the Director of the
+Oregon Rail and Transit  Department has all the authority available to procure or supervise
+the procurement of all services and personal  services to construct, acquire, plan, design,
+maintain and operate  passenger terminal facilities and motor vehicle parking facilities in
+connection with any public transportation system in accordance with ORS 184.689 (5).
+SECTION 112.
+ ORS 279A.130 is amended to read:
+279A.130. (1) Notwithstanding  provisions of law that require a contracting agency to award a
+contract to the lowest responsible bidder or best proposer or provider of a quotation,  a contracting
+agency that receives and uses funds from the federal government or an  agency of the federal gov-
+ernment for a  transit project may give preference to a bidder or proposer that exceeds federal Buy
+America requirements that apply to federally funded transit projects, as permitted  under 49 C.F.R.
+661.21 as that regulation existed on March 16, 2012.
+(2) The [ Department of Transportation ] Oregon Rail and Transit Department , the Oregon De-
+partment of Administrative Services and the Attorney General may adopt rules under ORS 279A.065
+and establish policies and procedures to implement subsection (1) of this section.
+SECTION 113.
+ ORS 279C.307 is amended to read:
+279C.307. (1) Except as provided in subsections (2) and (3) of this  section, a contracting agency
+that procures personal services for the purpose of administering, managing, monitoring,  inspecting,
+evaluating  compliance  with or otherwise overseeing a public contract that is subject to this chapter
+may not:
+(a) Procure the personal services from a contractor  or an affiliate of a contractor who is a party
+to the public contract that  is subject to administration, management, monitoring, inspection, evalu-
+ation or oversight by means of the personal services; or
+(b) Procure the personal services through the public contract that  is subject to administration,
+management, monitoring, inspection, evaluation or oversight by means of the personal services.
+(2) Subsection (1) of this section does  not apply to a combination of preconstruction services and
+construction services in a procurement for construction manager/general  contractor services or to
+a combination of design services and construction services in a design-build procurement, as defined
+in rules the Attorney General or a contracting agency adopts under ORS 279A.065.
+(3)(a) If a contracting agency anticipates that the contracting agency must procure personal
+services of the type described in  subsection (1) of this section and the contracting agency intends
+to accept a bid or proposal from a contractor that would be subject to the prohibition  set forth in
+subsection (1) of this section, the contracting agency shall apply to an appropriate authority for  an
+exception to the prohibition before awarding  a public contract for the personal services or amending
+an existing public contract to include the personal services.
+(b) For a state contracting  agency, the appropriate authority is the Director of the Oregon De-
+partment of  Administrative Services. For a local contracting agency, the appropriate authority is the
+local contracting agency’s local contract review board. For the Department of Transportation, with
+respect to a procurement described in ORS 279A.050 [ (3)(b)] (3)(a), the appropriate authority is the
+Director of Transportation.
+(c) In preparing an application under paragraph (a) of this subsection, a contracting agency shall
+consult with legal counsel to ensure compliance with the provisions of this section and this  chapter.
+The requirements of this paragraph are in addition to any requirements  for legal sufficiency ap-
+proval under ORS 291.047.
+(d) An application under paragraph (a) of this subsection must include findings and justifications,
+along with sufficient facts to support the findings and justifications, that enable the authority  to
+make an independent judgment as to whether:
+(A) The contracting agency requires the personal  services described in subsection (1) of this
+section;
+(B) Accepting a bid or proposal from a contractor that would be subject to the prohibition de-
+scribed in subsection (1) of this section is in the best interest of the contracting agency; and
+(C) Approving an exception:
+(i) Is unlikely to encourage favoritism in awarding public contracts or to substantially diminish
+competition for public contracts; and
+(ii)(I) Is reasonably  expected to result in substantial cost savings to the contracting agency or
+the public; or
+(II) Otherwise substantially promotes the public  interest in a manner that could not be
+practicably realized by complying with the prohibition described in subsection (1) of this section.
+(e)(A) If the appropriate authority approves the contracting agency’s application under para-
+graph (a) of  this subsection, the appropriate authority shall prepare written findings and justifica-
+tions for the approval.  The contracting agency’s findings, justifications and facts and the appropriate
+authority’s findings, justifications and approval are public records that  are subject to disclosure as
+provided in ORS 192.311 to 192.478.
+(B) If the appropriate authority disapproves the contracting agency’s application, the  appropri-
+ate authority shall state the reasons for the disapproval in a written notice to  the contracting
+agency and shall indicate whether the disapproval extends only to the  contracting agency’s accept-
+ance of a bid or proposal from a contractor that would be subject to the prohibition described  in
+subsection (1) of this section  or whether the appropriate authority also disagrees with the con-
+tracting agency’s stated need for the personal services.
+(C) The appropriate authority’s approval or disapproval is final.
+(f) In  approving an exception under this subsection, the appropriate authority may direct a
+contracting agency to consult with legal counsel to ensure compliance with applicable  law in con-
+ducting a procurement for personal services of the type described in subsection (1) of this section.
+SECTION 114.
+ ORS 279C.335 is amended to read:
+279C.335. (1) A contracting agency may award a public improvement contract only  in response
+to competitive bids, except for:
+(a) A public improvement contract with a qualified nonprofit agency that provides employment
+opportunities for individuals with disabilities under ORS 279.835 to 279.855.
+(b) A public improvement contract that is exempt under subsection (2) of this section.
+(c) A public improvement  contract with a value of less than $25,000. A state contracting agency
+that awards a  public improvement contract with a contract price of $10,000 or more under this
+paragraph shall document  in the state contracting agency’s procurement file the actions the state
+contracting agency takes to:
+(A) Comply with ORS 200.035; and
+(B) Invite to participate in the procurement qualified businesses or enterprises that the  Certi-
+fication Office for Business Inclusion and Diversity certifies under ORS 200.055.
+(d) A  public improvement contract with a contract price that does not exceed $100,000 made
+under procedures for competitive quotes in ORS 279C.412 and 279C.414.
+(e) A contract to repair, maintain, improve or protect property the Department of  Veterans’
+Affairs obtains under ORS 407.135 and 407.145 (1).
+(f) An energy  savings performance contract that a contracting agency enters into in accordance
+with rules of procedure adopted under ORS 279A.065.
+(g) A public improvement contract  with an estimated contract price of $250,000 or less that a
+contracting agency awards to an emerging small  business certified under ORS 200.055 and funds
+with moneys from the Emerging Small Business  Account established under ORS 200.180. A con-
+tracting agency that awards a public contract  exempted from competitive bidding under this para-
+graph shall solicit competitive quotes as provided in ORS 279C.414 before making the award.
+(h) A public improvement contract that the Department of Transportation awards  to a qualified
+small business under the  small business development program described in ORS 184.906. The de-
+partment may choose to award a  public improvement contract described in this paragraph
+competitively or using other selection methods that comply with the policies set forth in ORS
+279A.015.
+(2) Subject to subsection (4)(b) and (c) of this section, the Director of the Oregon  Department
+of Administrative Services, a local contract review board or, for contracts described  in ORS
+279A.050 [ (3)(b)] (3)(a), the Director of Transportation may exempt a public improvement  contract
+or a class of public improvement contracts from the competitive bidding requirement of subsection
+(1) of this  section after the Director of the Oregon Department of Administrative Services, the Di-
+rector of Transportation or  the local contract review board approves the following findings that the
+contracting agency submits or, if a state agency is  not the contracting agency, that the state agency
+that is seeking the exemption submits:
+(a) The exemption is unlikely to encourage favoritism in awarding public  improvement contracts
+or substantially diminish competition for public improvement contracts.
+(b) Awarding a  public improvement contract under the exemption will likely result in substantial
+cost savings and other substantial  benefits to the contracting agency or the state agency that seeks
+the exemption or, if the contract is for a public improvement described in  ORS 279A.050 [ (3)(b)]
+(3)(a), to the contracting agency or the public. In approving a finding  under this paragraph, the
+Director  of  the Oregon Department of Administrative Services, the Director of Transportation or the
+local contract review board shall consider the type, cost and amount of the contract and,  to the
+extent applicable to the particular public improvement contract  or class of public improvement
+contracts, the following:
+(A) How many persons are available to bid;
+(B) The construction  budget and the projected operating costs for the completed public im-
+provement;
+(C) Public benefits that may result from granting the exemption;
+(D) Whether value engineering techniques may decrease the cost of the public improvement;
+(E) The cost  and availability of specialized expertise that is necessary for the public improve-
+ment;
+(F) Any likely increases in public safety;
+(G) Whether granting the exemption may reduce risks  to the contracting agency, the state
+agency or the public that are related to the public improvement;
+(H) Whether granting the exemption will affect the sources of funding for the public improve-
+ment;
+(I) Whether granting the exemption will better enable the contracting agency to  control the
+impact that market conditions may have on the cost of and  time necessary to complete the public
+improvement;
+(J) Whether  granting the exemption will better enable the contracting agency to address the size
+and technical complexity of the public improvement;
+(K) Whether the public improvement involves new construction or renovates or remodels an
+existing structure;
+(L) Whether the public improvement will be occupied or unoccupied during construction;
+(M) Whether the public improvement will require a single phase of  construction work or multi-
+ple phases of construction work to address specific project conditions; and
+(N) Whether the  contracting agency or state agency has, or has retained under contract, and
+will use contracting agency or state agency personnel, consultants and legal counsel that  have
+necessary expertise and substantial experience in alternative contracting  methods to assist in de-
+veloping the alternative contracting method that the  contracting agency or state agency will use to
+award the public improvement contract and to help negotiate, administer and enforce the terms  of
+the public improvement contract.
+(c) As an alternative to the finding  described in paragraph (b) of this subsection, if a contracting
+agency or state agency seeks an exemption that would allow the  contracting agency or state agency
+to use an alternative contracting method that the contracting agency or state agency has not pre-
+viously used, the contracting agency or state agency may make a finding that identifies the project
+as a  pilot project for which the contracting agency or state agency intends to determine whether
+using the alternative contracting  method actually results in substantial cost savings to the con-
+tracting agency, to the state agency or, if the  contract is for a public improvement described in ORS
+279A.050 [ (3)(b)] (3)(a) , to the contracting agency or the public. The  contracting agency or state
+agency shall include an analysis and conclusion regarding actual  cost savings, if any, in the evalu-
+ation required under ORS 279C.355.
+(3) In making findings to support an exemption for a class of public improvement  contracts, the
+contracting agency or  state agency shall clearly identify the class using the class’s defining char-
+acteristics.  The  characteristics must include a combination of project descriptions or locations, time
+periods, contract values, methods of procurement or other factors that distinguish the  limited and
+related class  of public improvement contracts from the agency’s overall construction program. The
+agency may not  identify a class solely by funding source, such as a particular bond fund, or by the
+method of procurement, but shall  identify the class using characteristics that reasonably relate to
+the exemption criteria set forth in subsection (2) of this section.
+(4) In granting exemptions under subsection (2) of this section, the Director of the Oregon De-
+partment of Administrative Services, the Director of Transportation  or the local contract review
+board shall:
+(a) If  appropriate, direct the use of alternative contracting methods that take account of market
+realities and modern practices and are consistent with the public policy of encouraging competition.
+(b) Require and approve or disapprove written findings by the contracting agency or  state
+agency that support awarding a particular public improvement contract or a class  of public im-
+provement contracts, without  the competitive bidding requirement of subsection (1) of this section.
+The findings must show that the exemption  of a contract or class of contracts complies with the
+requirements of subsection (2) of this section.
+(c) Require a contracting agency or state agency that procures  construction manager/general
+contractor services to conduct the procurement in accordance with model rules the Attorney  Gen-
+eral adopts under ORS 279A.065 (3).
+(5)(a) A contracting agency or state agency may hold a public hearing before  approving the
+findings required by subsection (2) of this section and before the Director of  the Oregon Department
+of Administrative Services, the Director of Transportation or the local contract review  board grants
+an exemption from the competitive bidding requirement for  a public improvement contract or a class
+of public improvement contracts.
+(b) Notification of  a proposed exemption under subsection (2) of this section must be published
+in at least one trade newspaper of general statewide circulation a minimum  of 14 days before the
+date on which the contracting agency intends to  take action to approve or disapprove the ex-
+emption.
+(c) The notice must state that in response to a written request, the  contracting agency or state
+agency will hold a public hearing for the  purpose of taking comments on the draft findings for an
+exemption from the competitive bidding requirement.
+(d) If the contracting agency or state agency conducts a public hearing,  the contracting agency
+or state agency shall offer an opportunity for any interested party to appear and comment.
+(e) If a contracting agency or state agency must act promptly because of circumstances beyond
+the agency’s  control that do not constitute an emergency, notification of the proposed exemption
+may be published simultaneously with the agency’s solicitation  of contractors for the alternative
+public contracting method, as long as responses to the solicitation are due at least  five days after
+the agency intends to take action to approve or disapprove the proposed exemption.
+(6) The purpose of an exemption is to exempt one  or more public improvement contracts from
+competitive bidding requirements. The representations in and the accuracy of the  findings, including
+any general description of the resulting public improvement contract, are the bases for  approving
+the findings and granting the exemption. The findings may describe  anticipated features of the re-
+sulting public improvement contract, but the final  parameters of the contract are those character-
+istics or specifics announced in the solicitation document.
+(7) A public improvement contract awarded under the competitive bidding requirement  of sub-
+section (1) of this section may be amended only in accordance with  rules adopted under ORS
+279A.065.
+(8) A public improvement contract that is excepted from the competitive bidding  requirement
+under subsection (1)(a), (c), (d), (e), (f) or (g) of this section is not  subject to the exemption require-
+ments of subsection (2) of this section.
+SECTION 115.
+ ORS 279C.345 is amended to read:
+279C.345. (1)  Specifications for public improvement contracts may not expressly or implicitly
+require any product by any brand name or mark, nor the product  of any particular manufacturer
+or seller unless the product is exempt under subsection (2) of this section.
+(2) The Director of the Oregon Department of Administrative Services,  a local contract review
+board or,  for contracts described in ORS 279A.050 [ (3)(b)] (3)(a), the Director of Transportation may
+exempt certain products or classes of products from subsection  (1) of this section upon any of the
+following findings:
+(a) It is unlikely that the exemption will encourage favoritism in  the awarding of public im-
+provement contracts or substantially diminish competition for public improvement contracts;
+(b) The specification of a product by brand name or mark, or the product of a particular  man-
+ufacturer or seller, would result in substantial cost savings to the contracting agency;
+(c) There is only one manufacturer or seller of the product of the quality required; or
+(d) Efficient utilization of existing equipment or supplies requires the acquisition  of compatible
+equipment or supplies.
+SECTION 116.
+ ORS 279C.350 is amended to read:
+279C.350. (1) Exemptions granted by the  Director of the Oregon Department of Administrative
+Services under ORS 279C.335 (2) or 279C.345 (2) constitute rulemaking  and not contested cases un-
+der ORS chapter 183. However, an exemption granted with regard to a specific public  improvement
+contract by the Director of the Oregon Department of Administrative Services, or  an exemption
+granted by the Director of Transportation with regard to a specific public  improvement contract or
+class of public improvement contracts described in ORS 279A.050 [ (3)(b)] (3)(a) , shall be  granted by
+order. The order shall set forth findings supporting the decision to grant or deny the  request for the
+exemption. The order is reviewable under ORS 183.484 and does  not constitute a contested case
+order. Jurisdiction for review of  the order is with the Circuit Court of Marion County. The court
+may award costs and attorney fees to the prevailing party.
+(2) Any person except the contracting agency or anyone representing the contracting  agency
+may bring a petition for a  declaratory judgment to test the validity of any rule adopted by the Di-
+rector of the Oregon Department of  Administrative Services under ORS 279C.335 or 279C.345 in the
+manner provided in ORS 183.400.
+(3) Any person except the contracting agency or anyone representing the contracting  agency
+may bring an action for writ of review under ORS chapter 34 to test  the validity of an exemption
+granted under ORS 279C.335 or 279C.345 by a local contract review board.
+SECTION 117.
+ ORS 279C.355 is amended to read:
+279C.355. (1) Upon completion of and final payment for any public improvement contract,  or
+class of public improvement contracts, in excess of $100,000 for which the contracting agency did
+not use the competitive bidding  process, the contracting agency shall prepare and deliver to the
+Director of the Oregon  Department of Administrative Services, the local contract review board or,
+for public improvement contracts described in  ORS 279A.050 [ (3)(b)] (3)(a) , the Director of Trans-
+portation an evaluation of the public improvement contract or  the class of public improvement
+contracts.
+(2) The evaluation must include but is not limited to the following matters:
+(a) The actual project cost as compared with original project estimates;
+(b) The amount of any guaranteed maximum price;
+(c) The number of project change orders issued by the contracting agency;
+(d) A narrative description of successes and failures during  the design, engineering and con-
+struction of the project; and
+(e) An objective assessment of the use of the alternative contracting process as compared  to the
+findings required by ORS 279C.335.
+(3) The evaluations required by this section:
+(a) Must be made available for public inspection; and
+(b) Must be completed within 30 days of the date the contracting agency accepts:
+(A) The public improvement project; or
+(B) The last  public improvement project if the project falls within a class of public improvement
+contracts.
+SECTION 118.
+ ORS 279C.360 is amended to read:
+279C.360. (1) An advertisement for public  improvement contracts must be published at least once
+in at least one newspaper of general circulation  in the area where the contract is to be performed
+and in as many additional issues and publications as the contracting agency may  determine. The
+Director of the Oregon Department of Administrative Services, a local contract review board or,  for
+contracts described in ORS 279A.050 [ (3)(b)] (3)(a), the Director of Transportation, by rule or order,
+may authorize advertisements for public improvement contracts  to be published electronically in-
+stead of in a newspaper  of general circulation if the director or board determines that electronic
+advertisements are likely to be cost-effective. If the public improvement  contract has an estimated
+cost in excess of $125,000, the advertisement must be published in at least one trade newspaper  of
+general statewide circulation. The Director of the Oregon Department  of Administrative Services,
+the Director of Transportation or the local contract review board may,  by rule or order, require an
+advertisement to be published more than once or in one or more additional publications.
+(2) All advertisements for public improvement contracts must state:
+(a) The public improvement project;
+(b) The office where the specifications for the project may be reviewed;
+(c) The  date that prequalification applications must be filed under ORS 279C.430 and the class
+or classes of work for which bidders must be prequalified if prequalification is a requirement;
+(d) The date and time after which bids will not be received, which must be at least five days
+after the date of the last publication of the advertisement;
+(e) The name and title of the person designated for receipt of bids;
+(f) The date, time and place that the contracting agency will publicly open the bids; and
+(g) If the contract is for a public works subject to ORS 279C.800 to 279C.870 or  the Davis-Bacon
+Act (40 U.S.C. 3141 et seq.).
+SECTION 119.
+ ORS 279C.390 is amended to read:
+279C.390. (1)  Subject to the provisions of subsection (2) of this section, the Director of the
+Oregon Department of  Administrative Services, a state contracting agency with procurement au-
+thority under ORS 279A.050, a local contract review board or, for contracts described  in ORS
+279A.050 [ (3)(b)] (3)(a) , the Director of Transportation may exempt certain contracts or classes of
+contracts from all or a portion of the requirement for  bid security and from all or a portion of the
+requirement that good and sufficient bonds be furnished to  ensure performance of the contract and
+payment of obligations incurred in the performance.
+(2) The contracting  agency may require bid security and a good and sufficient performance bond,
+a good and sufficient payment bond, or any combination of such bonds, even though the  public im-
+provement contract is of a class exempted under subsection (1) of this section.
+(3) The Director of Transportation may:
+(a) Exempt contracts or classes of contracts financed from the proceeds  of bonds issued under
+ORS 367.620 (3)(a) from the requirement  for bid security and from the requirement that a good and
+sufficient bond be furnished to ensure performance of the contract; or
+(b) Reduce  the amount of the required performance bond for contracts or classes of contracts
+financed from the proceeds of the  bonds issued under ORS 367.620 (3)(a) to less than 100 percent
+of the contract price.
+(4) Any recoverable damages that exceed the amount of the performance bond required under
+subsection (3) of this section shall be the sole responsibility of the Department of Transportation.
+SECTION 120.
+ ORS 291.407 is amended to read:
+291.407. (1) The Mass Transit Assistance Account is established in the General Fund of the State
+Treasury. The account shall consist of moneys deposited in the account under ORS 291.405 and as
+otherwise provided by law. The moneys  in the account are continuously appropriated to the Oregon
+Department of Administrative Services to be used as provided in this section.
+(2) The Oregon  Department of Administrative Services shall distribute moneys from the account
+established under this  section to districts described in ORS 291.405 on the last day of each calendar
+quarter. Subject to the limitations  in this section, the amount distributed to each district shall be
+equal to the total assessments received by  the department during the immediate preceding three
+months under ORS 291.405 from agencies with employees performing subject services  within that
+district.
+(3) Distributions under this section are subject to the following limitations:
+(a) Except for newly formed districts, the Oregon  Department of Administrative Services shall
+not distribute to a district  during a calendar year an amount that exceeds the amount received by
+the district under  the district’s own taxes during the immediate preceding fiscal year of the district.
+(b) The Oregon Department of Administrative Services  shall not distribute to a newly formed
+district  during  a calendar year an amount that exceeds the amount the budget approved by the
+district board proposes as revenue for the district from the district’s own taxes  during the current
+fiscal year of the district. If the district does not collect the  proposed amount, the department shall
+make adjustments in the distributions during subsequent years to  recover any amount paid under
+this section that is over the amount the district actually received under the district’s own taxes.
+(4) The limitations  imposed under this section that are based on amounts received by a district
+under its own taxes do not include amounts received by  the district from farebox revenues, federal
+moneys, state moneys, gifts, investments, bonds or similar moneys received by the district.
+(5) The [ Department of Transportation ] Oregon Rail and Transit Department  shall provide the
+Oregon Department of Administrative Services with any  information concerning a mass transit dis-
+trict or transportation district that the Oregon Department of Administrative  Services determines
+necessary for the performance  of its duties under this section and ORS 291.405. The [ Department of
+Transportation] Oregon Rail and  Transit Department  shall provide the information in the form
+and at times determined by the Oregon Department of Administrative Services.
+(6) In exchange for payments authorized under this section to transit  districts, the State of
+Oregon  and  its agencies shall be exempt, with respect to existing state buildings and newly con-
+structed, acquired or renovated state buildings, from any parking  code requirements that have been
+or may be established by any political subdivision within the  boundaries of a transit district re-
+ceiving such payments.
+(7) As used in this section, “state  buildings” includes office buildings as defined in ORS 276.110.
+SECTION 121.
+ ORS 315.593 is amended to read:
+315.593. (1) A credit against taxes imposed by ORS chapter 316 (or, if the taxpayer is a corpo-
+ration, under ORS chapter 317 or 318) is allowed to a taxpayer, based upon short line  railroad re-
+habilitation project costs actually paid or incurred by the taxpayer during the  tax year for which
+the credit is claimed.
+(2) The credit allowed under this section shall be the lesser of:
+(a) $3,500 multiplied by the number of  miles of short line railroad track the taxpayer owns or
+leases in this state on the day the short line railroad rehabilitation project is completed; or
+(b) Fifty percent of the short line railroad rehabilitation project  costs paid or incurred by the
+taxpayer during the tax year in which the credit is claimed.
+(3) For the credit to be allowed under this section:
+(a) The infrastructure must be located in Oregon; and
+(b) The taxpayer must:
+(A) Own or lease the infrastructure;
+(B) Be a short line railroad; and
+(C) Receive a final written  certification from the [ Department of Transportation ] Oregon Rail
+and Transit Department  before claiming the credit.
+(4) A credit under this section is not allowed for:
+(a) Costs that are funded by or used to qualify for any state or federal grants.
+(b) The amount that is equal to the greater of:
+(A) Costs that are used to claim a federal tax credit under section  45G of the Internal Revenue
+Code; or
+(B) The credit limitation set out in section 45G(b)(1) of the  Internal Revenue Code, as applied
+to the taxpayer’s miles of short line railroad track in this state.
+(5) The amount of the credit claimed under this section for any  one tax year may not exceed the
+tax liability of the taxpayer.
+(6) Any tax credit otherwise allowable under this section that is  not used by the taxpayer in a
+particular tax year may be carried forward and offset against the taxpayer’s tax liability for the next
+succeeding tax year. Any credit remaining  unused in that next succeeding tax year may be carried
+forward and used in  the second succeeding tax year, and likewise, any credit not used in that second
+succeeding tax year may be carried forward and used in the third  succeeding tax year, and likewise,
+any credit not used in that third succeeding tax year may be carried forward and used in the fourth
+succeeding tax year, and likewise, any credit not used in that fourth succeeding tax year may  be
+carried forward and used in the fifth succeeding tax year but  may not be carried forward for any
+tax year thereafter.
+(7) The credit allowed under this section is not in lieu of any depreciation or  amortization de-
+duction for the short line railroad rehabilitation project to which  the taxpayer otherwise may be
+entitled for purposes of ORS chapter 316, 317 or 318 for the tax year.
+(8) The taxpayer’s adjusted  basis for determining gain or loss may not be decreased by any tax
+credit allowed under this section.
+(9) The credit shall be  claimed on a form prescribed by the Department of Revenue that contains
+the information required by the department.
+(10) In the case of a credit allowed under this section:
+(a) A nonresident shall be allowed the credit under this section in the proportion provided in
+ORS 316.117.
+(b) If a change in the status of a taxpayer from resident  to nonresident or from nonresident to
+resident occurs, the credit allowed by this section shall be determined  in a manner consistent with
+ORS 316.117.
+(c) If a change in the taxable year of a taxpayer occurs as described in ORS 314.085, or  if the
+Department of Revenue terminates a taxpayer’s taxable year under ORS 314.440, the credit  allowed
+under this section shall be prorated or computed in a manner consistent with ORS 314.085.
+(11) A person that  has earned a tax credit under this section may transfer the credit to a tax-
+payer subject to tax under ORS  chapter 316, 317 or 318. The transfer must comply with ORS 315.056.
+(12) The [ Director of Transportation ] Director of  the Oregon Rail and Transit Department
+may order the suspension or revocation of a certification issued under this section,  as provided in
+ORS 315.061.
+SECTION 122.
+ ORS 315.595 is amended to read:
+315.595. (1) Prior to construction  of a short line railroad rehabilitation project, a taxpayer may
+apply to the [ Department of Transportation ] Oregon Rail and Transit Department  for preliminary
+certification of the project in the manner prescribed  by rules adopted under this section, which must
+include:
+(a) Timelines and deadlines for submission of application materials;
+(b) A description of the  information required by the department to determine that the taxpayer
+qualifies for the credit allowed under ORS 315.593;
+(c) Criteria for  determining the amount of the tax credit allowed under ORS 315.593, including
+standards for what constitutes completion of a short line railroad rehabilitation project;
+(d) The  process by which an applicant will be notified of an incomplete application and the time
+allowed for the applicant to provide the missing information; and
+(e) The month and date by which the  department must notify an applicant of the preliminary
+certification decision and the  potential amount of the tax credit for which the applicant has received
+preliminary certification.
+(2)(a) If the total  amount of potential tax credits allowed under ORS 315.593 for all taxpayers
+that have applied for preliminary  certification would exceed the limit in ORS 315.603, the depart-
+ment shall allocate the tax credits allowed under ORS 315.593 so that no railroad is allowed more
+than $400,000 for any tax year.
+(b) After applying the limitation in paragraph (a) of this  subsection, if the total amount of po-
+tential tax credits allowed under ORS  315.593 for all taxpayers that have applied for preliminary
+certification exceeds the limit in ORS 315.603, the department shall allocate the available amount
+among taxpayers proportionally, based on the amount  each taxpayer would have otherwise received
+under ORS 315.593.
+SECTION 123.
+ ORS 315.597 is amended to read:
+315.597. (1) A taxpayer may apply to the  [ Department of Transportation ] Oregon Rail and
+Transit Department  for final certification of a short line railroad rehabilitation project if:
+(a) The taxpayer received preliminary certification for the project under ORS 315.595; and
+(b) The project is completed.
+(2) After  approving the application, the department shall certify the project, including the
+amount of the tax credit  for which the taxpayer has received final certification. The department may
+not certify an amount that is more than the  amount approved in the preliminary certification for the
+project.
+(3) The department may establish by rule  a process for accepting applications and issuing final
+certifications under this section.
+SECTION 124.
+ ORS 315.599 is amended to read:
+315.599. (1) The [ Department of Transportation ] Oregon Rail and Transit Department  may
+charge and collect a fee from taxpayers for preliminary or final certification of short  line rehabili-
+tation projects under ORS 315.595 and 315.597.  The fee may not exceed the cost to the department
+of issuing certifications.
+(2) All fees collected under this section shall be deposited in the State  Treasury to the credit
+of the Railroad Fund established under ORS 824.014. Moneys deposited under this section are con-
+tinuously appropriated to the [ Department of  Transportation ] Oregon Rail and Transit Department
+for the purpose of administering and enforcing the provisions of ORS 315.591 to 315.603.
+SECTION 125.
+ ORS 323.455 is amended to read:
+323.455. (1)  All moneys received by the Department of Revenue from the tax imposed by ORS
+323.030 (1) shall be paid over to  the State Treasurer to be held in a suspense account established
+under ORS 293.445. The department may pay expenses for administration  and enforcement of ORS
+323.005 to 323.482 out of moneys received from  the tax imposed under ORS 323.030 (1), after all
+amounts available under ORS 323.459 for expenses for  administration and enforcement of ORS
+323.005 to 323.482 have  been used. Amounts necessary to pay administrative and enforcement ex-
+penses are continuously appropriated to the  department from the suspense account. After the pay-
+ment of administrative and enforcement  expenses and refunds, 89.65 percent shall be credited to the
+General Fund, 3.45  percent is appropriated to the cities of this state, 3.45 percent is appropriated
+to the counties of this state and  3.45 percent is continuously appropriated to the [ Department of
+Transportation] Oregon Rail and Transit Department  for  the purpose of financing and improving
+transportation services for older adults and individuals with disabilities.
+(2) The moneys appropriated to cities  and counties under subsection (1) of this section shall be
+paid on a monthly basis within 35 days after the end of the  month for which a distribution is made.
+Each city shall receive such share of the money appropriated to all cities as its population, as de-
+termined under ORS 190.510 to 190.590 last preceding such apportionment, bears  to the total popu-
+lation of the cities of the state, and each county shall receive such share of the money as its
+population, determined under ORS 190.510 to 190.590 last preceding such apportionment, bears to the
+total population of the state.
+(3) The moneys appropriated to the [ Department of Transportation ] Oregon Rail and  Transit
+Department under subsection (1) of this  section shall be distributed and transferred to the State-
+wide Transportation Improvement Fund established in  ORS 184.751 at the same time as the cigarette
+tax moneys are distributed to cities and counties under this section.
+(4) Of the  moneys credited to the General Fund under subsection (1) of this section, 51.92 per-
+cent shall be dedicated to funding the maintenance and expansion of the number  of persons eligible
+for the medical assistance program under ORS chapter 414, or to  funding the maintenance of the
+benefits available under the program, or both, and 5.77 percent shall be  credited to the Tobacco Use
+Reduction Account established under ORS 431A.153.
+(5) All moneys received by the Department  of Revenue from the tax imposed by ORS 323.030 (4)
+shall be paid over to  the State Treasurer to be held in a suspense account established under ORS
+293.445. After the payment of  refunds, the balance shall be credited to the Oregon Health Authority
+Fund established by ORS 413.101 and shall be used  to provide the services described in ORS 430.630.
+SECTION 126.
+ ORS 323.457 is amended to read:
+323.457. (1) Moneys received under ORS 323.031 (1) shall be  paid over to the State Treasurer to
+be held in a suspense account established under ORS 293.445. After the payment of refunds:
+(a) 29.37/30 of the moneys  shall be credited to the Oregon Health Authority Fund established
+under ORS 413.101;
+(b) 0.14/30 of the moneys are continuously appropriated to the Oregon Department of  Adminis-
+trative Services for distribution to the cities of this state;
+(c) 0.14/30 of  the moneys are continuously appropriated to the Oregon Department of Adminis-
+trative Services for distribution to the counties of this state;
+(d) 0.14/30 of  the moneys are continuously appropriated to the [ Department of Transportation ]
+Oregon Rail and Transit Department  to be  distributed and transferred to the Statewide Trans-
+portation Improvement Fund established in ORS 184.751; and
+(e) 0.21/30 of the  moneys shall be credited to the Tobacco Use Reduction Account established
+under ORS 431A.153.
+(2)(a) Moneys distributed to cities and counties under  this section shall be distributed to each
+city or county using the proportions used for distributions made under ORS 323.455.
+(b) Moneys shall be distributed to cities, counties and the Statewide Transportation Improve-
+ment Fund at the same  time moneys are distributed to cities, counties and the Statewide Transpor-
+tation Improvement Fund under ORS 323.455.
+SECTION 127. ORS 332.427 is amended to read:
+332.427. (1) A district school  board may enter into contracts whereby motor vehicles operated
+by, or under lease with, the district for transportation of school  children may be leased or otherwise
+made available to qualified persons or agencies, public or  private, or may use such motor vehicles,
+as agreed upon  by the [ Department of Transportation ] Oregon Rail and Transit Department , for
+public transportation purposes, subject to  such terms and conditions as the district school board
+considers consistent with district use of such vehicles.
+(2) Transportation provided pursuant to subsection  (1) of this section shall only serve points
+along a route where the transportation provided will not be in  competition with any passenger
+carrier operated under provisions of ORS chapter 825 or with any  mass transit district organized
+under ORS chapter 267.
+(3) Motor vehicles  used for public transportation purposes pursuant to this section shall not be
+subject to ORS chapter 825.
+(4) Only those vehicles operated by the district that comply with  rules adopted by the State
+Board of Education under  ORS 820.100 and 820.120, relating to standards of vehicle construction and
+equipment may be used for public transportation purposes. Drivers of the  vehicles shall be at least
+18 years of age  and shall comply with rules adopted by the State Board of Education under ORS
+820.110, relating to qualifications of school bus drivers.
+(5) Nothing in  this section shall limit the use of school buses for the transportation of nonstu-
+dents to or from school activities whether a fee is charged or not.
+SECTION 128.
+ ORS 367.067 is amended to read:
+367.067. (1) The Short Line Credit Premium Account is  established as an account in the Oregon
+Transportation Infrastructure Fund. Moneys in the Short Line Credit  Premium Account are contin-
+uously appropriated  to the [ Department of Transportation ] Oregon Rail and Transit Department
+for the purpose of carrying out the provisions of this section.
+(2) A short line railroad  may apply to the [ Department of Transportation ] Oregon Rail and
+Transit Department  for infrastructure assistance in a manner determined by the department  by
+rule.
+(3) In evaluating applications for infrastructure assistance under this section, the  department
+shall give priority to projects that:
+(a) Enhance public safety;
+(b) Enhance the environment;
+(c) Appear creditworthy, providing financially  secure sources of repayment to secure a federal
+credit  instrument;
+(d) Promote rural economic development;
+(e) Reduce demand for expansion of highway capacity;
+(f) Enable Oregon companies to be more competitive in regional, national and  international
+markets;
+(g) Preserve or enhance rail or intermodal service to small communities or rural areas; and
+(h) Will be operated by a short line railroad with federal credit assistance under the RRIFP.
+(4) If a short line railroad receives infrastructure assistance under  this section for a project for
+which federal credit assistance was received under  RRIFP, and if all or part of the credit premium
+is returned to the railroad by the federal government, the railroad shall remit to  the department the
+amount of moneys returned to the railroad.
+(5) All moneys remitted to the department under subsection (4) of this section shall be  deposited
+by the department into the Short Line Credit Premium Account.
+SECTION 129.
+ ORS 367.070 is amended to read:
+367.070. The Industrial Rail Spur Fund  is established separate and distinct from the General
+Fund. The moneys in the Industrial Rail Spur Fund  and the interest earnings of the fund are con-
+tinuously appropriated to the [ Department of  Transportation ] Oregon Rail and Transit Department
+for the  purpose of financing grants and loans to fund industrial rail spurs. The fund consists of
+moneys deposited in the fund under section 10, chapter 741, Oregon Laws 2003, and  may include
+fees, moneys, federal funds, Miscellaneous Receipts or other revenues available for the purpose.
+SECTION 130. ORS 367.084 is amended to read:
+367.084. (1) The Oregon Transportation Commission shall  select transportation projects to be
+funded with moneys in the Connect Oregon Fund established under ORS 367.080.
+(2)(a) Prior  to selecting transportation projects, the commission shall seek input from the appli-
+cable area commission on transportation.
+(b) Prior to selecting aeronautic and airport transportation  projects, the commission shall solicit
+recommendations from the State Aviation Board.
+(c) Prior to  selecting freight transportation projects, the commission shall solicit recommen-
+dations from the Freight Advisory Committee.
+(d) Prior to selecting rail projects, the commission shall solicit recommendations from  the [ rail
+advisory committee ] State Rail and Transit Board .
+(e) Prior to selecting marine projects, the commission shall solicit recommendations from  the
+Oregon Business Development Department.
+(3) In selecting transportation projects, the commission shall consider:
+(a) Whether a proposed transportation project reduces transportation costs  for Oregon busi-
+nesses or improves access to jobs and sources of labor;
+(b) Whether a proposed transportation project results in an economic benefit to this state;
+(c) Whether a proposed transportation project  is a critical link connecting elements of Oregon’s
+transportation system that will measurably improve utilization and efficiency of the system;
+(d) How much of the cost of a proposed transportation project can be borne by the applicant  for
+the grant from any source other than the Connect Oregon Fund;
+(e) Whether a proposed transportation project is ready for construction;
+(f) Whether a proposed  transportation project has a useful life expectancy that offers maximum
+benefit to the state; and
+(g) Whether a proposed transportation project is located near operations conducted  for mining
+aggregate or processing aggregate as described in ORS 215.213 (2)(d) or 215.283 (2)(b).
+(4) To promote fairness in the selection process, the Director of  Transportation may not choose
+a member of a final review committee:
+(a) Who represents an entity that submitted an  application for a Connect Oregon Fund grant
+that is being considered for funding by a final review committee; or
+(b) Has a direct financial interest in an application that  is being considered for funding by a
+final review committee.
+SECTION 131.
+ ORS 374.020 is amended to read:
+374.020. No throughway shall be established upon or across the  tracks, yards, station grounds
+or other operating properties of any common carrier  railroad, or upon or across any industrial or
+business property served by railroad industrial trackage, or upon or  across any property at such a
+location as to unduly interfere with the reasonable access of shippers, passengers  or the public to
+railroad depots, team tracks or other facilities for receiving or delivering freight or  passengers
+transported by railroad unless  the [ Department of Transportation ] Oregon Rail and Transit De-
+partment and the railroad agree on a proposed throughway project.
+SECTION 132. ORS 390.308 is amended to read:
+390.308. (1) The  State Parks and Recreation Department shall, in cooperation with the Depart-
+ment of  Transportation , the Oregon Rail and Transit Department , other interested state agencies,
+local governments, nonprofit  organizations and other stakeholders, develop an action plan to com-
+plete the Oregon Coast Trail. The plan shall identify and address:
+(a) A preferred option for the  development, maintenance and operation of each new trail seg-
+ment intended  to address a gap in the trail system, including the costs associated with the devel-
+opment, maintenance and operation, that:
+(A) Takes into account the existing uses of the land where trail segments are to be constructed,
+including public highway right-of-way, private or public ownership and active rail use;
+(B) Ensures that the designation of trail segments will not  conflict with surrounding private
+property rights, including rights of way and easements; and
+(C) Takes into account the concerns of the public and other interested parties;
+(b) Prioritization of new trail segment construction based  on resulting improved safety,
+immediacy of implementation, potential project sponsors and sources of funding;
+(c) Potential sources of funding for implementation  of the plan, including but not limited to
+federal, state and private sources; and
+(d) Options for designation of final state  agency or other responsible entities for the develop-
+ment, maintenance and operation of the trail and trail facilities as identified in the plan.
+(2) The State Parks and Recreation Department may coordinate with nonprofit organizations to
+raise funds and to develop, maintain and operate the trail and trail facilities as necessary to imple-
+ment the plan.
+(3) The State Parks and Recreation Department shall submit an annual report to the  Legislative
+Assembly on the progress made toward developing  and implementing the plan required by this sec-
+tion.
+SECTION 133.
+ ORS 391.120 is amended to read:
+391.120. (1) The Regional Light Rail Extension Construction Fund, separate and distinct from the
+General Fund, is established in the State Treasury.  All moneys in the fund are appropriated con-
+tinuously to the [ Department of  Transportation ] Oregon Rail and Transit Department  for the
+purposes specified in this  section. Interest received on moneys credited to the Regional Light Rail
+Extension Construction Fund shall accrue to and become part of the Regional Light  Rail Extension
+Construction  Fund.
+(2) The [ Department of Transportation ] Oregon Rail and Transit Department  may expend
+moneys in the Regional Light Rail  Extension Construction Fund to finance the preliminary engi-
+neering phase, final design phase, advanced right of way acquisition phase or construction and ac-
+quisition of equipment and facilities phase  of projects for extensions to the Tri-County Metropolitan
+Transportation District’s light rail system,  as designated in the Regional Transportation Plan
+adopted by the metropolitan service district in 1989, as amended from time to time. The  [ Director
+of Transportation ] Director of the Oregon Rail and Transit Department  may enter into written
+agreements with the Tri-County Metropolitan Transportation District  that commit the department
+to pay anticipated funds from  the Regional Light Rail Extension Construction Fund to the district
+for the purpose of financing such costs of extending the district’s light  rail system, including ser-
+vicing any obligations entered into by the district to finance the costs  of extending the district’s
+light rail system, which written agreements may provide  for the remittance of such funds on such
+periodic basis, in such amounts, over such period of years and  with such priority over other com-
+mitments of  such funds as the director shall specify in the commitment. Any such written agree-
+ments or commitments, when executed by the director and accepted by the district, shall  be solely
+conditioned upon actual funds available in the  Regional Light Rail Extension Construction Fund and
+shall be valid, binding and irrevocable in accordance with its terms, subject only to the requirements
+of subsection (3) of this section. The extensions to the light rail system for which projects  may be
+authorized and financed from the Regional Light Rail Extension Construction Fund include:
+(a) The Westside corridor.
+(b) The Interstate 5 North corridor.
+(c) The Interstate 205 corridor.
+(d) The Milwaukie corridor.
+(e) The Barbur corridor.
+(f) The Lake Oswego corridor.
+(g) Appropriate branches to the Banfield corridor.
+(h) Appropriate branches to the corridors specified in paragraphs (a) to (f) of this subsection.
+(3) Notwithstanding  any written agreement entered into by the director [ of Transportation ] un-
+der subsection (2) of this  section, no moneys shall be expended from the Regional Light Rail Ex-
+tension Construction Fund  for the preliminary engineering phase, final design phase, advanced right
+of way acquisition phase or construction and acquisition  phase of projects unless the director [ of
+Transportation] determines:
+(a) That all state and local approvals are in place for the phase of the specific project  for which
+funding is being sought;
+(b) That assurances are in place for obtaining all moneys, other  than moneys for which the de-
+termination is being made, necessary to enable completion of the phase of the specific  project for
+which funding is being sought and that the Tri-County Metropolitan Transportation District  has
+agreed to provide an  amount of money equal to that being provided by the Regional Light Rail Ex-
+tension Construction Fund for the phase of the specific project for which money is being sought;
+(c) With  respect to the phase of the specific project for which funding is being sought, that the
+body of local officials and state agency representatives designated by the metropolitan service  dis-
+trict which functions wholly or partially within the Tri-County Metropolitan Transportation  District
+and known  as the Joint Policy Advisory Committee on Transportation has certified that the phase
+of the specific project is a regional priority; and
+(d) With respect to construction phases of any project, the elements of the  project that are
+designated for state participation and an estimated total amount of the state’s funding obligation.
+(4) When  the actual expenditures for a phase of a specific light rail project fall short of the es-
+timated expenditures for the project, those moneys, other than federal moneys, that  are not required
+for that phase of the project shall remain in the Regional Light Rail Extension Construction  Fund
+for use in completing other projects described in subsection (2) of this section.
+(5) On or before  August 31 in each year, the director [ of Transportation ] shall certify to the
+Governor and the State Treasurer whether or not there existed, as of the end of the  immediately
+preceding fiscal year, an unobligated balance of moneys in the Regional Light Rail  Extension Con-
+struction Fund that was derived from the moneys required to be transferred to the Regional Light
+Rail Extension  Construction Fund under ORS 391.130. If the director [ of Transportation ] certifies
+that there existed such an unobligated balance of  moneys derived from the moneys required to be
+transferred to the Regional Light  Rail Extension Construction Fund under ORS 391.130, an amount
+equal to the unobligated balance as of the end of the immediately preceding  fiscal year shall revert
+to the Administrative Services Economic Development Fund created  by ORS 461.540, and the State
+Treasurer shall credit such amount to that fund  on or before the September 15 next following the
+date of the certification by the director [ of Transportation ].
+(6) The director [ of Transportation ] shall certify the unobligated balance  of the Regional Light
+Rail Extension Construction Fund, and that unobligated balance shall revert to the Administrative
+Services Economic Development Fund created by ORS 461.540 if the director  [ of Transportation ]
+determines that all projects referred to in subsection (2) of  this section have been completed and the
+projects have been accepted by the director [ of Transportation ] and all  claims, suits and actions
+arising out of the projects have been resolved.
+(7) For purposes of subsections  (5) and (6) of this section, moneys in the Regional Light Rail
+Extension Construction Fund derived from the moneys  required to be transferred to the Regional
+Light Rail Extension Construction Fund  under ORS 391.130 shall be obligated to the extent such
+moneys are needed  to fund the amounts committed to be paid in the current or any future fiscal year
+under any written agreement or commitment entered into by  the director [ of Transportation ] under
+subsection (2) of this section or to pay any amounts owing under or with  respect to any revenue
+bonds issued under ORS 391.140.
+(8) The [ Department of Transportation ] Oregon Rail and Transit Department  may deduct from
+the Regional Light Rail Extension Construction Fund the costs  associated with administering the
+fund.
+SECTION 134.
+ ORS 391.125 is amended to read:
+391.125. (1) The Regional Light Rail Extension Bond Account is created as a separate and dis-
+tinct subaccount in the Regional Light Rail  Extension Construction Fund. In each fiscal year in
+which any amounts of principal or interest are due and payable on any  revenue bonds issued under
+ORS 391.140, the [ Director of Transportation ] Director of the Oregon Rail and Transit Depart-
+ment shall cause to be  transferred from the Regional Light Rail Extension Construction Fund to the
+Regional Light Rail Extension Bond Account an amount, which, when added  to the moneys on de-
+posit in the account that  are available to be used for such purpose, shall be sufficient to pay when
+due all amounts of principal and interest coming due on such bonds in that fiscal year.
+(2) All moneys on deposit from time to time in the Regional Light Rail  Extension Bond Account,
+together with all investment earnings thereon,  shall be pledged and are continuously appropriated
+to the payment of the bonds issued under ORS 391.140. All investment earnings on  moneys on de-
+posit from time to time in the Regional Light Rail Extension Bond Account shall be retained in  that
+account and applied to pay the principal of and interest on bonds issued under ORS 391.140.
+SECTION 135. ORS 391.130 is amended to read:
+391.130. (1) In each fiscal year beginning with the fiscal year commencing July 1, 1991,  there is
+allocated, from the Administrative Services Economic  Development Fund created by ORS 461.540,
+the amount of $8 million. However,  commencing with the first fiscal year next following the fiscal
+year in which bonds are first issued under ORS 391.140,  there shall be allocated from such fund the
+amount of $10 million in each fiscal year. In each  fiscal year after bonds are first issued, the [ Di-
+rector of Transportation ] Director of the Oregon Rail and Transit Department  shall certify any
+funds allotted in excess of amounts necessary to pay the annual debt service on the  outstanding
+bonds and to  fund the amounts committed to be paid in the current or any future fiscal year under
+any written agreement or commitment entered into by the director  [ of Transportation ] pursuant to
+ORS 391.120 (2). The certified amount shall immediately be returned to the Administrative Services
+Economic Development Fund. All amounts allocated under this section shall be transferred to  the
+Regional Light Rail Extension Construction Fund established by ORS 391.120.
+(2) The annual amounts required to be transferred to  the Regional Light Rail Extension Con-
+struction Fund under subsection  (1) of this section, together with all investment earnings on the
+amounts on deposit from time to time in the  Regional Light Rail Extension Construction Fund, are
+continuously appropriated only for the purposes of:
+(a) Funding the Westside corridor extension of light rail referred to in ORS 391.120; and
+(b) Paying the principal and interest on revenue bonds issued under ORS 391.140.
+(3) Except as provided  in subsection (4) of this section, and notwithstanding any other provision
+of law, the annual allocation made  by this section shall be satisfied and credited as and when net
+proceeds from the operation of the state lottery are received and before any other  allocation, ap-
+propriation or disbursement of the net proceeds  from the operation of the state lottery is made in
+the applicable fiscal year.
+(4) For purposes  of this section, net proceeds from the operation of the state lottery in each
+fiscal year include all revenues derived from the operation of  the state lottery in each fiscal year
+less:
+(a) The revenues used in that fiscal year for the payment of prizes and the expenses of the  state
+lottery as provided in Article XV, section 4 (4)(d), of the Oregon Constitution, ORS 461.500 and
+461.510 (3) and (4); and
+(b) The revenues required to be applied, distributed or allocated as provided in ORS 461.543.
+(5) The  transfer of moneys to the Regional Light Rail Extension Construction Fund authorized
+by this section shall cease when  the director [ of Transportation ] certifies in writing that transfers
+of moneys under this section are no longer necessary because:
+(a) Moneys in the Regional Light  Rail Extension Construction Fund are sufficient for the pay-
+ment of all amounts committed to be paid under  all written agreements or commitments entered into
+between the director [ of Transportation ] and  the Tri-County Metropolitan Transportation District
+pursuant to ORS 391.120 with respect to the Westside corridor extension of light rail referred  to in
+ORS 391.120 (2)(a), and to  pay all amounts of principal of and interest on the outstanding revenue
+bonds issued under ORS 391.140; and
+(b) The Westside corridor extension  of light rail referred to in ORS 391.120 (2)(a) has been
+completed and such project has been accepted by the [ Department of  Transportation ] Oregon Rail
+and Transit Department , and all claims, suits  and actions arising out of such project that could
+create a liability payable out of the moneys in the Regional Light Rail Extension  Construction Fund
+have been resolved.
+(6) The director [ of Transportation ] shall deliver a copy  of such certification to the Governor
+and the State Treasurer. Upon receipt of  the director’s written certification that transfer of moneys
+to the  Regional Light Rail Extension Construction Fund under this section is no longer necessary,
+the State Treasurer shall thereafter  credit moneys received by the Regional Light Rail Extension
+Construction Fund under this section to the Administrative Services Economic Development Fund
+created by ORS 461.540.
+SECTION 136.
+ ORS 391.140 is amended to read:
+391.140. (1) In accordance with ORS chapter 286A,  the State Treasurer, at the request of the
+[Director of Transportation ] Director of the Oregon Rail and Transit Department , shall issue
+revenue bonds from time to time in an aggregate amount not to exceed:
+(a) The principal sum of $115 million;
+(b) The costs incurred in connection with the issuance of  the bonds and other administrative
+expenses of the State Treasurer in connection with the issuance of the bonds; and
+(c) The amount of any reserves determined to be necessary or advantageous  in connection with
+the revenue bonds.
+(2) The director [ of Transportation ] shall submit to the State Treasurer from time to time written
+requests to issue the revenue bonds in amounts sufficient to provide  in a timely fashion the moneys
+required to fund the obligations  of the [ Department of Transportation ] Oregon Rail and Transit
+Department under  any written agreements or commitments entered into under ORS 391.120 (2) for
+the purpose of financing the state share of the costs of the  Westside corridor light rail project
+identified in ORS 391.120 (2)(a).
+(3) Moneys received from the issuance of revenue bonds, including any  investment earnings
+thereon, may be expended only for the  purpose of financing the costs of development, acquisition
+and construction  of the Westside corridor light rail project identified in ORS 391.120 (2)(a), and to
+pay the costs of issuing the bonds and other administrative expenses of the  State Treasurer in car-
+rying out the provisions of ORS 391.120 and this section, including the funding of any  reserves de-
+termined to be necessary or advantageous in connection with the revenue bonds.
+(4) Notwithstanding ORS 286A.100, 286A.102 and 286A.120 or any other  provision of law, re-
+venue bonds issued under this section, regardless of whether issued in  one or more issues, shall be
+secured equally and ratably by the pledge of  moneys described in this subsection and ORS 391.130.
+The bonds shall be secured by a pledge of, and a lien on, and shall be secured and payable only from,
+moneys on deposit from time to time in  the Regional Light Rail Extension Construction Fund es-
+tablished by ORS 391.120. The revenue bonds shall not be a general obligation of this state,  and
+shall not be secured by or payable from any funds or assets of this state other than the  moneys on
+deposit from time to time in the Regional Light Rail Extension Construction Fund.
+(5) The moneys in the Regional Light Rail Extension Bond Account shall be  used and applied
+by the director [ of Transportation ] to pay  when due the principal of and interest on any revenue
+bonds issued under this section.
+(6) The interest  on all revenue bonds issued under this section and on any refunding bonds is-
+sued pursuant to ORS chapter 286A is exempt from personal income taxation  imposed by this state
+under ORS chapter 316.
+(7) The proceeds derived from the  issuance and sale of the revenue bonds, including any pro-
+ceeds required to fund  any reserves determined to be necessary or advantageous in connection with
+the revenue  bonds, shall be deposited in a special, segregated subaccount of the Regional Light Rail
+Extension Construction Fund. The moneys on deposit from time to time in the subaccount,  including
+any investment earnings thereon,  shall be disbursed as needed for the purposes described in sub-
+section (3) of this section upon the written request of the director [ of Transportation ].
+SECTION 137.
+ ORS 391.150 is amended to read:
+391.150. (1) The [ Department of Transportation ] Oregon Rail and Transit Department  and the
+Tri-County Metropolitan  Transportation District shall jointly manage the construction phases of the
+Westside corridor light rail project. The final  project management plans of the managing agencies
+shall provide that the district shall manage and oversee construction of the light rail right of  way
+and facilities and  that the department shall manage and oversee the construction of highway im-
+provements related  to the extension of the light rail system. The department and the district shall
+describe in a memorandum of understanding or grant agreement the functions and responsibilities
+assigned to each of the managing  agencies and shall establish an organizational and management
+system for the project  under which significant actions during the construction phase occur only with
+the knowledge of both of the managing agencies.
+(2) Subject to ORS 279.835 to 279.855 and ORS  chapters 279A, 279B and 279C and any applicable
+prohibitions against preferences in contracts related to the construction phase of  the Westside cor-
+ridor light rail  project, the managing agencies shall develop procedures that afford qualified busi-
+nesses in Oregon the opportunity to compete for project contracts to the  maximum extent feasible
+and consistent with federal laws and regulations governing Federal Transit Administration grants.
+(3) The managing agencies  shall seek the cooperation and assistance of contracting and con-
+struction associations in this state when establishing the contracting procedures  for the Westside
+corridor light rail project. The managing agencies shall also establish and implement programs to
+provide contracting and construction businesses with information relating to the project.
+(4) The managing agencies, to the maximum extent  feasible, shall encourage disadvantaged
+business enterprises to bid for contracts and to otherwise participate in the  Westside corridor light
+rail project.
+SECTION 138.
+ ORS 391.605 is amended to read:
+391.605. (1) No transfer authorized by ORS 267.020 of a mass transit district system to a metro-
+politan service district shall take effect while bonds issued by the  Oregon Mass Transportation Fi-
+nancing Authority to finance mass transit facilities for the district are  outstanding until a plan
+designed to repay any outstanding bonds when due is prepared by the  governing body of the met-
+ropolitan service district and approved by:
+(a) The  chairperson of the [ Oregon Transportation Commission ] State Rail and Transit Board
+or the chairperson’s designee;
+(b) The State Treasurer or State Treasurer’s designee; and
+(c) The chairperson of the Oregon Investment Council or the chairperson’s designee.
+(2) Persons given authority to approve a transfer under subsection (1) of  this section may only
+refuse to approve a transfer for reasons relating to the financial effect of the transfer.
+SECTION 139.
+ ORS 453.392 is amended to read:
+453.392. (1) As part of the plan for the effective implementation  of a statewide hazardous mate-
+rial emergency response system established by rule under ORS 453.374, the State Fire Marshal shall
+adopt by rule a plan for the coordinated response to oil or hazardous  material spills or releases that
+occur during rail transport. The plan adopted under this subsection:
+(a) Shall address with a specific focus on oil or hazardous material  spills or releases that occur
+during rail transport all required provisions under ORS 453.374;
+(b) May include requirements and incentives for local governments and other responders  to
+participate in ongoing training programs;
+(c) Shall provide a system for identifying where hazardous material response resources owned
+by railroads are located throughout  this state and how access to those resources is to be coordi-
+nated;
+(d) Shall include a recurring, three-year training cycle of statewide training exercises that:
+(A) Commences with a triennial tabletop exercise that includes the Department  of Environ-
+mental Quality, the [ Department of Transportation ] Oregon Rail and  Transit Department , the
+Oregon Department of Emergency Management, state and local responders, federally recognized In-
+dian tribes in this state and railroads that operate in this state;
+(B) Includes, in the second year of the training cycle, a triennial statewide functional exercise
+to test and evaluate response  capabilities, functional groups, plans, incident command staff and
+emergency operations centers in their abilities to respond to an oil or  a hazardous material spill or
+release that occurs during rail transport; and
+(C) Includes provisions for the planning, preparation and  implementation, in the third year of
+the training cycle, of a triennial full-scale, multiagency, multijurisdictional and multidisciplinary oil
+or hazardous material spill or release training exercise that:
+(i) Involves training for all manner of personnel  necessary for a coordinated response to an oil
+or a hazardous material spill or release;
+(ii) Is intended to examine or validate the  planning, coordination and command and control de-
+cisions that may be made in  the event of an oil or hazardous material spill or release and to also
+examine or validate response-specific capabilities or functions; and
+(iii) Involves training that covers the entire sequence of events that  take place during an oil or
+hazardous material spill or release incident that occurs during rail transport; and
+(e) Shall include any other information deemed necessary by the  Department of the State Fire
+Marshal to provide coordinated  response to oil or hazardous material spills or releases that occur
+during rail transport.
+(2) The department shall  annually coordinate with local governments, other state agencies in-
+volved in hazardous material emergency response, other responders  and representatives of the rail-
+road industry to prepare a report on the coordinated  response plan adopted under this section and
+shall:
+(a) Make the report available as an appendix to the Oregon Department of  Emergency
+Management’s oil and hazardous material response emergency operations plan developed pursuant
+to ORS 401.092; and
+(b) No later than February 1 of each year, submit the  report to the Legislative Assembly in the
+manner provided in ORS 192.245.
+(3) The report required by subsection  (2) of this section shall include, but need not be limited
+to, the following in relation to oil and hazardous material emergency response for rail transport:
+(a) An inventory of all  emergency response resources available in this state, including informa-
+tion on:
+(A) The location of, and the means of access to, the resources;
+(B) Whether the resources are publicly or privately maintained; and
+(C) Additional resources that are needed to provide for adequate response;
+(b) Suggested changes to the structure  for the continued coordination between state agencies
+and industry;
+(c) Possible revisions to the response roles or responsibilities of state agencies, local  govern-
+ments and railroads; and
+(d) Strategies for ensuring adequate funding at the  state and local government levels to cover
+the training, equipment and administrative costs associated  with providing comprehensive response
+and equipment.
+SECTION 140.
+ ORS 453.635 is amended to read:
+453.635. (1) The Oregon Health Authority is the State Radiation Control Agency,  but ORS
+453.605 to 453.800 do not apply to a radiation source while  it is being transported on a railroad car
+or in a motor vehicle subject to and in conformity with rules adopted by the  Oregon  Rail and
+Transit Department or  Department of Transportation nor do they apply to any matter other than
+transportation of radiation sources within the authority  of the Energy Facility Siting Council under
+ORS chapter 469. To protect occupational and  public health and safety against radiation hazards the
+authority shall:
+(a) Develop programs to evaluate hazards associated with the use of radiation sources; and
+(b) With due regard for compatibility with the  regulatory programs of the federal government,
+promulgate standards and make reasonable regulations relating to registration, licensing, use, han-
+dling, transport, storage, disposal, other than disposal  regulated by ORS 469.300 to 469.563, 469.590
+to 469.619 and 469.930,  and control of radiation sources, including but not limited to by-product
+materials, source materials and special nuclear materials.
+(2) To protect occupational  and public health and safety against radiation hazards the authority
+or its authorized representative may:
+(a) Advise, consult and cooperate with  other agencies of this state, the federal government,
+other states, interstate  agencies, political subdivisions of this state or other states and with groups
+concerned with control of radiation sources;
+(b) Encourage, participate in or conduct studies, investigations, training, research  or demon-
+strations relating to control of radiation sources;
+(c) Accept and administer loans, grants or other funds or gifts, conditional  or otherwise, from
+the federal government or from any other source, public or private;
+(d) Collect and disseminate information relating to control of radiation sources; and
+(e) Subject to any applicable provision  of the State Personnel Relations Law, appoint officers
+and employees and prescribe their duties and fix their compensation.
+SECTION 141.
+ ORS 466.080 is amended to read:
+466.080. In adopting rules governing transportation of any hazardous wastes for which a  permit
+is required, the Department of Transportation , the Oregon  Rail and Transit Department  or the
+State Department  of Agriculture must consult with and consider the recommendations of the De-
+partment of Environmental Quality  prior to the adoption of any such rules. Transporters shall be
+required to deliver hazardous  wastes to a site named in the manifest provided for in ORS 466.005
+to 466.385, 466.990 (1) and (2) and 466.992, or to an alternative site approved by the department.
+SECTION 142. Section 13a, chapter 581, Oregon Laws 2019, is amended to read:
+Sec. 13a.  (1) Subject to  subsections (2) and (3) of this section, each railroad that is required to
+submit a contingency plan for a high hazard train route under [ section 5 of this 2019 Act ] ORS
+468B.427 shall pay to the [ Department of Transportation ] Oregon Rail and Transit  Department in
+each year a fee  equal to the amount that the Department of Environmental Quality finds and de-
+termines to be necessary to defray the costs of  only those duties imposed on the Department of
+Environmental Quality  by law for which costs may be paid from the High Hazard Train Route Oil
+Spill Preparedness Fund established under [ section 14 of this 2019 Act ] ORS 468B.435.
+(2) In each calendar year, the percentage rate of the fee required to be paid shall be  determined
+by orders entered by the [ Department of Transportation ] Oregon Rail and Transit Department  on
+or after March 1 of each year. The department shall  provide notice of the order to each railroad.
+Each railroad shall pay  to the [ Department of Transportation ] Oregon Rail and Transit Depart-
+ment the fee or portion of the fee as computed pursuant to this subsection on a  date, as specified
+in the notice, that is at least 15 days after the date of mailing the notice.
+(3) The total of the fees payable by railroads described in  subsection (1) of this section may not
+exceed five hundredths of one percent of the  combined gross operating revenues derived within this
+state of all railroads described in subsection (1) of this section.
+(4) Payment of each fee or portion of the fee,  verification of gross operating revenues by the
+railroad and any refunds of overpayment of the fee shall be  made in the manner provided for and
+at the same time  as payment of the fee required under ORS 824.010 and subject to ORS 824.012.
+Notwithstanding ORS 824.010  (1) and (4), the fee provided for in this section shall be in addition to
+all other fees paid or payable by railroads to the [ Department of Transportation ] Oregon Rail and
+Transit Department.
+(5) Fees collected under this section shall  be paid into the State Treasury and deposited in the
+High Hazard Train Route Oil Spill Preparedness Fund established under  [ section 14 of this  2019
+Act] ORS 468B.435.
+SECTION 143. ORS 469.607 is amended to read:
+469.607. (1) After consultation with the Department  of Transportation , the Oregon Rail and
+Transit Department  and other appropriate state, local and federal agencies,  the Energy Facility
+Siting Council by rule:
+(a) May fix requirements for notification, record keeping, reporting, packaging and emergency
+response;
+(b) May designate those routes by highway, railroad, waterway and air where transportation of
+radioactive material can be accomplished safely;
+(c) May specify conditions of transportation  for certain classes of radioactive material, including
+but not limited to, specific  routes, permitted hours of movement, requirements for communications
+capabilities between carriers and  emergency response agencies, speed limits, police escorts, check-
+points, operator or crew training or other operational  requirements to enhance public health and
+safety; and
+(d) May establish  requirements for insurance, bonding or other indemnification on the part of
+any person transporting radioactive material into or within the State of Oregon under ORS  469.603
+to 469.619 and 469.992.
+(2) The requirements imposed by subsection (1) of this  section must be consistent with federal
+Department of Transportation and Nuclear Regulatory Commission rules.
+(3) Rules adopted under this section shall be adopted in accordance with the provisions of ORS
+chapter 183.
+SECTION 144.
+ ORS 608.310 is amended to read:
+608.310. (1) Every person, or the lessee  or agent of the person, owning or operating any railroad,
+shall erect and  maintain good and sufficient lawful fences on both sides of the railroad line, except
+at the crossings of and upon public roads and highways, within such portions  of cities as are or may
+be laid out and platted in lots and blocks and at railroad station grounds. Such person  shall also
+at the  same time erect and maintain necessary farm crossings and gates and sufficient cattle guards
+at all public crossings.
+(2) Railroad lines shall be so fenced and farm crossings,  gates and cattle guards installed, within
+three months from the time such  lines are put in operation. However, the [ Department of Transpor-
+tation] Oregon Rail and Transit Department  may prescribe by rule the number,  location and
+character of farm crossings which may be necessary and the  manner in which they shall be con-
+structed so that they  are reasonably adequate, safe, sufficient and convenient, but not so as to im-
+pair the terms of any contract between  the landowner and the railroad or judgment in condemnation
+relative to such crossings.
+(3) The [ Department of Transportation ] Oregon Rail and Transit Department  may,  by rule,
+determine and prescribe any other description of fence  than that designated as a lawful fence, which
+shall be constructed and maintained by any such railroad company  between the points which are
+designated in such rule, and may provide for the apportionment of the costs of  reconstruction ne-
+cessitated thereby as between the parties interested.
+(4) The [ Department of Transportation ] Oregon Rail and Transit Department  by  rule may
+suspend the operation of this section as to any particular portion of any line of railroad.
+SECTION 145. ORS 657.665 is amended to read:
+657.665. (1) Except as provided in subsections (2) to (5) of  this section, all information in the
+records of the Employment Department pertaining to the administration  of the unemployment in-
+surance, employment service and workforce and labor market information programs:
+(a) Is confidential  and for the exclusive use and information of the Director of the Employment
+Department in administering the unemployment insurance, employment service  and workforce and
+labor market information programs in Oregon.
+(b) May not be used in any  court action or in any proceeding pending in the court unless the
+director or the state is a party to the action or proceeding  or unless the proceeding concerns the
+establishment, enforcement or modification of  a support obligation and support services are being
+provided by the Division of Child Support or the district attorney pursuant to ORS 25.080.
+(c) Is exempt from disclosure under ORS 192.311 to 192.478.
+(2) The Employment Department shall disclose information:
+(a) To any claimant or legal representative, at a hearing before an administrative law judge,  to
+the extent necessary for the proper presentation of an unemployment insurance claim.
+(b) Upon request to the United States  Secretary of Labor. The Employment Department shall
+disclose the information in a form and containing the  information that the United States Secretary
+of Labor may require. The  information disclosed is confidential and may not be used for any other
+purpose.
+(c) Pursuant to  section 303(a)(7) of the Social Security Act, upon request to any agency of the
+United States charged with the administration of public works or  assistance through public em-
+ployment. Under this paragraph, the Employment Department shall  disclose the name, address, or-
+dinary occupation and employment status of each recipient of  unemployment insurance benefits and
+a statement of the recipient’s right  to further benefits under this chapter. The information disclosed
+is confidential and may not be used for any other purpose.
+(d) Pursuant to section 303(c)(1) of the Social  Security Act, to the Railroad Retirement Board.
+Under this paragraph, the Employment Department  shall disclose unemployment insurance records.
+The information disclosed is confidential and may not be used for any  other purpose. The costs of
+disclosing information under this paragraph shall be paid by the board.
+(e) Pursuant  to section 303(d) of the Social Security Act, upon request to officers and employees
+of the United States Department of Agriculture and  to officers or employees of any state Supple-
+mental Nutrition Assistance Program agency for the purpose of determining an individual’s  eligibil-
+ity for or the amount of supplemental nutrition assistance. The  information disclosed is confidential
+and may not be used for any  other purpose. The costs of disclosing information under this paragraph
+shall be paid by the United States Department of Agriculture.
+(f) Pursuant to section 303(e)(1) and (2)(A)(ii) of the Social Security Act, to state  or local child
+support enforcement agencies enforcing child support obligations under Title IV-D of the  Social Se-
+curity Act for the purposes of  establishing child support obligations, locating individuals owing child
+support obligations and collecting child  support obligations from those individuals. The information
+disclosed is confidential and may not be used for  any other purpose. The costs of disclosing infor-
+mation under this paragraph shall be paid by the child support enforcement agency.
+(g) Pursuant to sections 303(f) and 1137 of  the Social Security Act, to agencies participating in
+the income and  eligibility verification system for the purpose of verifying an individual’s eligibility
+for benefits, or the  amount of benefits, under unemployment insurance, temporary assistance for
+needy families, Medicaid, the Supplemental Nutrition  Assistance Program, Supplemental Security
+Income, child support  enforcement or Social Security programs. The information disclosed is confi-
+dential and may not be used for any other purpose. The  costs of disclosing information under this
+paragraph shall be paid by the requesting agency.
+(h) Pursuant  to section 303(h) of the Social Security Act and section 3304(a)(16)(B) of the Federal
+Unemployment Tax Act, to the United States Department  of Health and Human Services National
+Directory of New Hires. The information disclosed is confidential and may  not be used for any other
+purpose. The costs of disclosing information under this paragraph shall be paid by the  United States
+Department of Health and Human Services.
+(i) Pursuant to section 303(i) of the Social Security  Act, to officers and employees of the United
+States Department of Housing and Urban Development and to representatives of a public housing
+agency for the purpose of determining an individual’s eligibility for benefits, or the  amount of ben-
+efits, under  a housing assistance program of the United States Department of Housing and Urban
+Development. The information disclosed is confidential and  may not be used for any other purpose.
+The costs of disclosing information  under this paragraph shall be paid by the United States De-
+partment of Housing and Urban Development or the public housing agency.
+(j) Pursuant to regulations of the United States Secretary of  Health and Human Services issued
+under section 3304(a)(16)(A) of the Federal Unemployment Tax Act, and except as required by sec-
+tion 303 of the Social Security  Act, to the state, a political subdivision or a federally recognized
+Indian tribe that has signed an agreement with the Department  of Human Services to administer
+Part A of Title IV of the Social Security Act for the purpose of determining an individual’s eligibility
+for assistance, or the amount of assistance, under a  program funded under Part A of Title IV of the
+Social Security Act. The information  disclosed is confidential and may not be used for any other
+purpose.
+(k) Upon request, to  the United States Attorney’s Office. Under this paragraph, the Employment
+Department may disclose an individual’s employment and wage information in response to a  federal
+grand jury subpoena or for the purpose of  collecting civil and criminal judgments, including
+restitution and special assessment fees. The information disclosed is confidential and  may not be
+used for any other purpose. The costs of disclosing information under this paragraph shall be paid
+by the United States Attorney’s Office.
+(3) The Employment Department may disclose information secured from employing units:
+(a) To state agencies, federal agencies, local  government agencies, public universities listed in
+ORS 352.002 and the Oregon Health and Science University established under  ORS 353.020, to the
+extent necessary  to properly carry out governmental planning, performance measurement, program
+analysis, socioeconomic analysis or policy analysis  functions performed under applicable law. The
+information disclosed is confidential and may not be disclosed by the agencies or universities in any
+manner that would identify individuals, claimants, employees  or employing units. If the information
+disclosed under this paragraph is not prepared for the use of the Employment Department, the costs
+of disclosing the information shall be paid by the agency or university requesting the information.
+(b) As part of a geographic information system. Points on a map may  be used to represent eco-
+nomic data, including the  location, employment size class and industrial classification of businesses
+in Oregon. Information presented  as part of a geographic information system may not give specific
+details regarding a business’s address, actual employment or  proprietary information. If the infor-
+mation disclosed under this paragraph is not prepared for the use  of the Employment Department,
+the costs of disclosing the information shall be paid by the party requesting the information.
+(c) In accordance with ORS 657.673.
+(4) The Employment Department may:
+(a) Disclose information to public employees in the performance of their  duties under state or
+federal laws relating to the payment of  unemployment insurance benefits, the provision of employ-
+ment services and the provision of workforce and labor market information.
+(b) At the discretion of the Director of the Employment Department and subject to an  intera-
+gency agreement, disclose information to public officials in the performance  of their official duties
+administering or enforcing laws within their authority and to the  agents or contractors of public
+officials. The public official shall agree to assume responsibility for misuse of the information by
+the official’s agent or contractor.
+(c) Disclose information pursuant  to an informed consent, received from an employer or claim-
+ant, to disclose the information.
+(d) Disclose information to partners under the federal Workforce Innovation  and Opportunity
+Act for the purpose of administering state workforce programs  under the Act. The information dis-
+closed is confidential and may not be  used for any other purpose. The costs of disclosing information
+under this paragraph shall be paid by the requesting partner.
+(e) Disclose the names and addresses of employing units to the  Bureau of Labor and Industries
+for the purpose of disseminating information to employing units.  The names and addresses disclosed
+are confidential and may  not be used for any other purpose. If the information disclosed under this
+paragraph is not prepared for the use of the  Employment Department, the costs of disclosing the
+information shall be paid by the bureau.
+(f) Disclose information to the Commissioner of the Bureau of Labor and  Industries for the
+purpose of performing duties under ORS 279C.800 to 279C.870,  658.005 to 658.245 or 658.405 to
+658.511 or ORS chapter 652, 653 or 659A. The information disclosed may include the names and ad-
+dresses of employers and employees and payroll data of employers and employees. The  information
+disclosed is confidential and may not be used for any other purpose. If the information disclosed
+under this paragraph is not prepared for the use of the Employment  Department, the costs of dis-
+closing the information shall be paid by the bureau.
+(g) Disclose information required under ORS 657.660 (3)  and (4) to the Public Employees Re-
+tirement System for the purpose of determining the eligibility of members  of the retirement system
+for disability under  ORS chapters 238 and 238A. The information disclosed is confidential and may
+not be used for any other purpose. The costs of disclosing information under this paragraph  shall
+be paid by the Public Employees Retirement System.
+(h) Disclose to the Oregon Business Development Commission  and the Oregon Business Devel-
+opment Department information required by the commission  and the department in performing their
+duties under  ORS 285A.050 and 285B.630 to verify changes in employment levels following direct
+employer participation in department programs or indirect participation through  municipalities un-
+der ORS 285B.410 to 285B.482. The information disclosed to the commission  and the department may
+include an employer’s employment level, total subject  wages payroll and whole hours worked. The
+information disclosed is confidential and may not  be used for any other purpose. The commission
+and the  department may not disclose the information in any manner that would identify an employ-
+ing unit or employee except to the  extent necessary to carry out the commission’s and the
+department’s duties under ORS 285A.050 and 285B.630. If the information disclosed under this para-
+graph is not prepared for the use of the Employment Department, the costs  of disclosing the infor-
+mation shall be paid by the commission or the Oregon Business Development Department.
+(i) Disclose information to the Department of Revenue for the purpose of performing its  duties
+under ORS 293.250 or under the revenue and tax laws of this state, or  for the purpose of using in-
+formation reported by  employers and claimants to detect potential identity theft or fraudulent
+claims. The information disclosed may include the  names and addresses of employers and employees
+and payroll data of employers and employees. The  information disclosed is confidential and may not
+be disclosed by the Department of Revenue in  any manner that would identify an employing unit
+or employee except to the extent necessary to carry out  the department’s duties under ORS 293.250
+or in auditing or reviewing any report or return required or permitted to be filed under the  revenue
+and tax laws administered by the department. The Department of Revenue may not disclose any in-
+formation received to any private collection  agency or for any other purpose. If the information
+disclosed under this paragraph is not prepared for the use of the Employment Department, the costs
+of disclosing the information shall be paid by the Department of Revenue.
+(j) Disclose information to  the Department of Consumer and Business Services for the purpose
+of performing  its duties under ORS chapters 654 and 656. The information disclosed may include the
+name, address, number of employees and industrial classification code of  an employer and payroll
+data of employers and employees. The information disclosed is confidential and may  not be disclosed
+by the Department of Consumer and Business Services  in any manner that would identify an em-
+ploying unit or employee except to the extent necessary to carry out the department’s  duties under
+ORS chapters 654 and 656, including administrative hearings and court proceedings in which the
+Department of Consumer and Business Services is a party. If the information disclosed under  this
+paragraph is not prepared for the use of the  Employment Department, the costs of disclosing the
+information shall be paid by the Department of Consumer and Business Services.
+(k) Disclose information to the Construction  Contractors Board for the purpose of performing
+its duties under ORS chapter 701.  The information disclosed to the board may include the names and
+addresses of employers and status of their compliance with this chapter. If the information  disclosed
+under this paragraph is not prepared  for the use of the Employment Department, the costs of dis-
+closing the information shall be paid by the board.
+(L) Disclose information to  the State Fire Marshal to assist the State Fire Marshal in carrying
+out duties under ORS 453.307 to 453.414. The  information disclosed may include the name, address,
+telephone number and industrial classification code of an employer. The information disclosed  is
+confidential and may not be disclosed by the State Fire Marshal in any manner that would  identify
+an employing unit except to the extent necessary to carry out duties under ORS  453.307 to 453.414.
+If the information  disclosed under this paragraph is not prepared for the use of the Employment
+Department, the costs of disclosing the information shall be paid by the Department of the State Fire
+Marshal.
+(m) Disclose information to the  Higher Education Coordinating Commission for the purpose of
+performing the commission’s duties under ORS chapter 348 and Title  IV of the Higher Education
+Act of 1965. The information disclosed may include the names and addresses of employers and em-
+ployees and payroll data of employers  and employees. The information disclosed is confidential and
+may not be disclosed by the commission  in any manner that would identify an employing unit or
+employee except to  the extent necessary to carry out the commission’s duties under ORS chapter
+348 or Title IV of the Higher Education  Act of 1965. If the information disclosed under this para-
+graph is not prepared for the use of the Employment Department, the costs  of disclosing the infor-
+mation shall be paid by the commission.
+(n) Disclose information to the  Department of Transportation to assist the Department of
+Transportation  in  carrying out the duties of the Department of Transportation relating to collection
+of delinquent and liquidated debts, including taxes, under ORS 184.610 to 184.665[ , 184.670 to
+184.733] and 805.263, ORS chapter 319  and the Oregon Vehicle Code. The information disclosed may
+include the names and addresses of  employers and employees and payroll data of employers and
+employees. The information disclosed is confidential and may  not be disclosed by the Department
+of Transportation in any manner that would identify  an employing unit or employee except to the
+extent necessary to  carry out the Department of Transportation’s duties relating to collection of
+delinquent and liquidated debts or in auditing or reviewing  any report or return required or per-
+mitted to  be filed under the revenue and tax laws administered by the Department of Transportation.
+The Department of Transportation may  not disclose any information received to any private col-
+lection agency or for any other  purpose. If the information disclosed under this paragraph is not
+prepared for the use of  the Employment Department, the costs of disclosing the information shall
+be paid by the Department of Transportation.
+(o) Disclose information to the Oregon Rail and Transit Department to assist the Oregon
+Rail and Transit Department in carrying out the duties of the Oregon Rail  and Transit De-
+partment relating to collection  of delinquent and liquidated debts, including taxes, under ORS
+184.670 to 184.733 and the Oregon  Vehicle Code. The information disclosed may include the
+names and addresses of employers and employees and  payroll data of employers and em-
+ployees. The information disclosed  is confidential and may not be disclosed by the Oregon
+Rail and Transit Department in  any manner that would identify an employing unit or em-
+ployee except to the extent necessary to  carry out the Oregon Rail and Transit Department’s
+duties relating to collection of delinquent and  liquidated debts or in auditing or reviewing any
+report or return required or  permitted to be filed under the revenue and tax laws adminis-
+tered by the Oregon Rail and Transit Department. The Oregon Rail and Transit  Department
+may not disclose any information received to any  private collection agency or for any other
+purpose. If the information disclosed under this  paragraph is not prepared for the use of the
+Employment Department, the costs of disclosing the information shall be paid by the Oregon
+Rail and Transit Department.
+[(o)] (p) Disclose  information to the Department of Human Services and the Oregon Health Au-
+thority to assist the Department of Human Services  and the Oregon Health Authority in the col-
+lection of debts that the Department of Human Services  and the Oregon Health Authority are
+authorized by law to collect. The information disclosed may include the names, addresses and pay-
+roll data  of employers and employees. The information disclosed is confidential and may not be dis-
+closed by the  Department of Human Services or the Oregon Health Authority in a manner that
+would identify an employing unit or employee except to the extent necessary  for the collection of
+debts as described in this paragraph.  The Department of Human Services and the Oregon Health
+Authority may not disclose information received under this paragraph  to a private collection agency
+or use the information for a  purpose other than the collection of debts as described in this para-
+graph. If the information disclosed under this paragraph is not prepared  for the use of the Employ-
+ment Department, the costs  of disclosing the information shall be paid by the Department of Human
+Services or the Oregon Health Authority.
+[(p)] (q)  Disclose to the Alcohol and Drug Policy  Commission information required by the com-
+mission in evaluating and measuring the performance of alcohol and drug  prevention and treatment
+programs under ORS 430.223 or the impact of the programs on employment. The information dis-
+closed to the commission may include total  subject wages payroll and whole hours worked. The in-
+formation disclosed under  this paragraph is confidential and may not be used for any other purpose.
+The commission may not disclose the information in any manner that  would identify an employing
+unit or employee except to the extent necessary to  carry out the commission’s duties under ORS
+430.223. If the  information disclosed under this paragraph is not prepared for the use of the Em-
+ployment Department, the costs of disclosing the information shall be paid by the commission.
+[(q)] (r)  Disclose to any person establishment level information secured pursuant to this chapter
+from federal, state and local government agencies,  public universities listed in ORS 352.002 or the
+Oregon Health and Science University established under  ORS 353.020. If the information disclosed
+under this paragraph is not prepared for the use of the Employment  Department, the costs of dis-
+closing the information shall be paid by the person requesting the information.
+[(r)] (s)  Disclose to any person the industrial classification code assigned to  an employing unit.
+If the information  disclosed under this paragraph is not prepared for the use of the Employment
+Department, the costs of disclosing the information shall be paid by the person requesting the in-
+formation.
+[(s)] (t)  Disclose information to  the State Treasurer useful for the purpose of performing the
+State Treasurer’s duties under ORS 98.302 to 98.436, 98.992 and 116.253 and the  role of an estate
+administrator under ORS 113.235.  The information disclosed is confidential and may not be used by
+the State  Treasurer for any other purpose. If the information disclosed is not prepared for the use
+of the Employment Department,  the costs of disclosing the information shall be paid by the State
+Treasurer.
+(5) The Employment Department may make public all decisions  of the Employment Appeals
+Board.
+(6) Any officer appointed by or any employee of the Director of  the Employment Department
+who discloses  confidential information, except with the authority of the director, pursuant to rules
+or as otherwise required by law, may be disqualified from holding any appointment or employment
+with the Employment Department.
+(7) Any person or any officer or employee of an entity to whom information  is disclosed by the
+Employment Department under this section  who divulges or uses the information for any purpose
+other than that specified in the provision of law or agreement authorizing the use or  disclosure may
+be disqualified  from performing any service under contract or disqualified from holding any ap-
+pointment or employment with the state agency that engaged or  employed that person, officer or
+employee. The Employment Department  may immediately cancel or modify any information sharing
+agreement with an entity when a person or an officer or employee of that entity  discloses confi-
+dential information, other than as specified in law or agreement.
+SECTION 146.
+ ORS 657B.400 is amended to read:
+657B.400. (1) Except as provided in subsections  (2) to (7) and (10) of this section, all information
+in the records of the Employment Department or a third  party administrator pertaining to the ad-
+ministration of this chapter:
+(a) Is confidential  and for the exclusive use and information of the Director of the Employment
+Department in administering this chapter;
+(b) May not be used in any court action or in any proceeding  pending in the court unless the
+director or the State of Oregon is a party to the action or proceeding or unless the  action or pro-
+ceeding concerns the establishment, enforcement or modification of a support  obligation and support
+services are being provided by the Division of Child Support of the  Department of Justice or the
+district attorney pursuant to ORS 25.080; and
+(c) Is exempt from disclosure under ORS 192.311 to 192.478.
+(2) The Employment Department may disclose information:
+(a) To the extent necessary for the payment of benefits or  collection of contributions due under
+this chapter:
+(A) To any claimant or employer; or
+(B) To a legal representative or other designee authorized by a claimant  or employer in ac-
+cordance with any rules adopted by the director regarding the  receipt of confidential information
+on behalf of a claimant or employer.
+(b) Upon request to the United States Attorney’s Office. Under this paragraph,  the Employment
+Department may disclose an individual’s employment and wage information in response to a  federal
+grand jury subpoena or for the purpose  of collecting civil and criminal judgments issued by a federal
+court, including restitution and special assessment fees. The  information disclosed is confidential
+and may not be used for any  other purpose. The costs of disclosing information under this paragraph
+shall be paid by the United States Attorney’s Office.
+(3) At  the discretion of the director and subject to an interagency agreement, the Employment
+Department may disclose, upon request, information:
+(a) To state or local child support  enforcement agencies enforcing child support obligations for
+the purposes of establishing child support obligations, locating individuals owing child support  obli-
+gations and collecting child support obligations from those individuals. The information disclosed  is
+confidential and may not  be used for any other purpose. The costs of disclosing information under
+this paragraph shall be paid by the child support enforcement agency.
+(b) To agencies participating in an income and eligibility verification system  for the purpose of
+verifying an individual’s eligibility for benefits,  or the amount of benefits, under a state or federal
+program such as unemployment  insurance, temporary assistance for needy families, medical assist-
+ance, supplemental  nutrition assistance, Supplemental Security Income, child support enforcement
+or Social Security. The information disclosed is confidential and may not be used for  any other
+purpose. The costs of  disclosing information under this paragraph shall be paid by the requesting
+agency.
+(c) To officers and employees of the United States Department of Housing and  Urban Develop-
+ment and to representatives of a state or local public housing agency for  the purpose of determining
+an individual’s eligibility for  benefits, or the amount of benefits, under a housing assistance program.
+The information disclosed is confidential and may not be used for any  other purpose. The costs of
+disclosing information under this paragraph shall be paid by the requesting agency.
+(4) At the discretion of the director and subject to an interagency agreement, the  Employment
+Department may disclose information secured from employers:
+(a) To state agencies, federal agencies, local  government agencies, public universities listed in
+ORS 352.002 and the Oregon  Health and Science University established under ORS 353.020, to the
+extent necessary to properly carry out governmental planning, performance measurement,  program
+analysis, socioeconomic analysis or policy analysis functions performed under applicable  law and at
+the discretion of the  director and subject to an interagency agreement. The information disclosed
+is confidential and may not be disclosed by the agencies or universities in any manner  that would
+identify individuals, claimants, employees or employers. If the information  disclosed under this par-
+agraph is not prepared for the use of the Employment Department, the costs  of disclosing the in-
+formation shall be paid by the agency or university requesting the information.
+(b) As part of a geographic  information system. Points on a map may be used to represent eco-
+nomic data, including the location, employer size and industrial classification  of businesses in
+Oregon. Information presented as part of a geographic information system may not give specific
+details regarding a business’s address, actual  employment or proprietary information. If the infor-
+mation disclosed under this paragraph  is not prepared for the use of the Employment Department,
+the costs of disclosing the information shall be paid by the party requesting the information.
+(5) At  the discretion of the director and subject to an interagency agreement, the Employment
+Department may disclose information received from an employer, an employee or a claimant:
+(a) To public employees in the performance of their duties under state or  federal laws relating
+to the payment of family and medical leave insurance benefits.
+(b) Pursuant to an informed  consent, received from the employer, employee or claimant, to dis-
+close the information.
+(c) To the Bureau of Labor and Industries for the purpose of  performing duties under ORS
+279C.800 to 279C.870, 658.005 to 658.245 or 658.405  to 658.511 or ORS chapter 652, 653 or 659A. The
+information  disclosed  may include the names and addresses of employers and employees, payroll data
+of employers and employees, and information obtained for an appeal from  a determination under a
+plan approved under ORS 657B.210.  The information disclosed is confidential and may not be used
+for any other purpose. If the information disclosed under this paragraph is  not prepared for the use
+of the Employment Department, the costs of disclosing the information shall be paid by the bureau.
+(d) To the Department of Revenue for the purpose of  performing its duties under ORS 293.250
+or under the  revenue and tax laws of this state and identifying potential identity theft and fraud.
+The information disclosed may include the names and addresses of  employers and employees, payroll
+data of employers and employees, and particulars, as defined in ORS  314.835. The information dis-
+closed is confidential and may not be disclosed by the Department of Revenue in any manner  that
+would identify an employer or employee except to the extent necessary to carry out the
+department’s duties under ORS 293.250 or in  auditing or reviewing any report or return required
+or permitted to be filed under the revenue and tax laws administered by the  department. The De-
+partment of Revenue may not disclose any information received to any private  collection agency or
+for any other purpose. If the information disclosed under this paragraph is  not prepared for the use
+of the Employment Department, the costs of disclosing the information shall be paid by the Depart-
+ment of Revenue.
+(e) To the Department of Consumer and Business Services for the purpose of performing its du-
+ties under ORS chapters 654, 656 and 731. The information  disclosed may include, but is not limited
+to, the name, address, number of employees and standard industrial classification code  of an em-
+ployer and payroll data of employers and employees. The  information disclosed is confidential and
+may not be disclosed by the Department of Consumer and Business Services in any  manner that
+would identify an employer or employee except to the extent necessary to carry out the
+department’s duties under ORS chapters 654, 656 and 731, including administrative hearings  and
+court proceedings in which the Department of Consumer and Business Services is  a party. If the
+information disclosed under this paragraph is not prepared for  the use of the Employment Depart-
+ment, the costs of disclosing the information  shall be paid by the Department of Consumer and
+Business Services.
+(f) To the Construction Contractors Board for the  purpose of performing its duties under ORS
+chapter 701. The information disclosed to the board may include the names  and addresses of em-
+ployers  and  status of their compliance with this chapter. If the information disclosed under this
+paragraph is not prepared for the use of  the Employment Department, the costs of disclosing the
+information shall be paid by the board.
+(g) To the Department of Transportation to  assist the department in carrying out its duties re-
+lating to collection of delinquent and liquidated debts, including  taxes, under ORS 184.610 to
+184.665[, 184.670 to 184.733 ] and 805.263, ORS chapter 319  and the Oregon Vehicle Code, or in au-
+diting or reviewing any report or return required or permitted to be filed  under the revenue and tax
+laws administered by the department. The information disclosed may  include the names and ad-
+dresses of  employers and employees and payroll data of employers and employees. The information
+disclosed is confidential and may  not be disclosed by the Department of Transportation in any
+manner that would identify an employer or employee  except to the extent necessary to carry out the
+department’s duties relating to collection of delinquent and liquidated debts or in auditing or re-
+viewing any report or return required or permitted to be filed under the revenue and tax laws  ad-
+ministered by the department.  The Department of Transportation may not disclose any information
+received to any private  collection agency or for any other purpose. If the information disclosed un-
+der this  paragraph is not prepared for the use of the Employment Department, the costs of disclosing
+the information shall be paid by the Department of Transportation.
+(h) To the Oregon Rail and Transit Department to assist the  department in carrying out
+its duties relating to collection  of delinquent and liquidated debts, including taxes, under ORS
+184.670 to 184.733 and the Oregon Vehicle Code, or  in auditing or reviewing any report or
+return required or permitted to be filed under the revenue and  tax laws administered by the
+department. The  information disclosed may include the names and addresses of employers
+and employees and payroll data of employers and employees. The information disclosed  is
+confidential and  may not be disclosed by the Oregon Rail and Transit Department in any
+manner that would identify an employer or employee except to the extent necessary  to carry
+out the department’s duties relating to collection of delinquent and liquidated  debts or in
+auditing or reviewing any report or return  required or permitted to be filed under the re-
+venue and tax laws administered by the department. The  Oregon Rail and Transit Depart-
+ment may not disclose  any information received to any private collection agency or for any
+other purpose. If the information disclosed under this paragraph is not prepared for the use
+of the Employment Department, the costs of disclosing  the information shall be paid by the
+Oregon Rail and Transit Department.
+[(h)] (i)  To the  Department of Human Services and the Oregon Health Authority to assist the
+department and the authority in the  collection of debts that the department and the authority are
+authorized by law  to collect. The information disclosed may include the names and addresses of
+employers and employees  and payroll data of employers and employees. The information disclosed
+is confidential and may not  be disclosed by the Department of Human Services or the Oregon Health
+Authority in any manner that would identify an employer or employee  except to the extent neces-
+sary for the collection of debts as described in  this paragraph. The Department of Human Services
+and the  Oregon Health Authority may not disclose information received under this paragraph to a
+private collection agency or use the information for a purpose other than the collection of  debts as
+described in this paragraph.  If the information disclosed under this paragraph is not prepared for
+the use of the Employment Department, the costs of disclosing the information shall be paid by  the
+Department of Human Services or the Oregon Health Authority.
+[(i)] (j)  To the State Treasurer useful for the  purpose of performing the State Treasurer’s duties
+under ORS 98.302 to 98.436, 98.992, 113.235 and 116.253. The information disclosed is confidential and
+may not be used by the State Treasurer for any other purpose. If  the information disclosed under
+this paragraph  is not prepared for the use of the Employment Department, the costs of disclosing
+the information shall be paid by the State Treasurer.
+(6) At the discretion of  the director and subject to an interagency agreement, the director may
+disclose information to a public official in the performance of the public official’s  official duties ad-
+ministering or enforcing laws within the public official’s authority and to an agent or contractor  of
+a public official.  The public official shall agree to assume responsibility for misuse of the information
+by the public official’s agent or contractor.
+(7) At the discretion of the director, the  director may disclose information to a contractor pur-
+suant to  a contract for actuarial services. The contractor shall agree to assume responsibility for
+misuse of the information by the contractor’s agent.
+(8) Any officer appointed by or any  employee of the director who discloses confidential infor-
+mation, except with the authority of the director, pursuant to rules or as otherwise required  by law,
+may be disqualified  from holding any appointment or employment with the Employment Department.
+(9) Any person or any  officer or employee of an entity to whom information is disclosed by the
+Employment Department under this section who divulges or uses the  information for any purpose
+other than that specified in the provision of law or agreement authorizing the use or  disclosure may
+be disqualified from performing any service under contract or from holding any appointment or em-
+ployment with  the state agency that engaged or employed that person, officer or employee. The
+Employment Department may immediately cancel or  modify any information-sharing agreement with
+an entity when a person or an officer or employee  of that entity discloses confidential information,
+other than as specified in law or agreement.
+(10) At the discretion  of the director, the director may disclose information to an employee or
+officer within any division of  the Employment Department as necessary to conduct research, compile
+aggregate data from the information received and any other purpose deemed  necessary by the di-
+rector to assist the director in carrying out the duties under this chapter  or other duties under ORS
+chapter 657.
+(11) The director may adopt any rules necessary to implement this section.
+SECTION 147.
+ ORS 772.025 is amended to read:
+772.025. (1) Whenever any railroad corporation, authorized by ORS 772.020 to condemn  the right
+to cross or connect with any other right of way or constructed line of railroad,  is unable to agree
+with the owner of the line which it desires to cross, it  may apply to the [ Department of Transpor-
+tation] Oregon Rail and Transit Department  in the manner provided by ORS 824.228 to 824.232.
+(2) Upon such application and upon  notice and hearing as provided in ORS chapter 183 for
+contested  cases,  the department shall determine the right to crossing, intersection or connection, the
+mode and manner thereof and the compensation to be paid therefor.
+(3) No agreement for the crossing of one railroad by another shall be  valid without the approval
+of the department.
+SECTION 148. ORS 802.110 is amended to read:
+802.110. Any procedures the Department of Transportation  establishes for financial adminis-
+tration of those functions of  the department dealing with driver and motor vehicle services and for
+the disposition and payment of moneys it receives from the provision of driver  and motor vehicle
+services shall comply with all of the following:
+(1) The department  shall deposit all moneys it receives related to driver and motor vehicle ser-
+vices in the  Department of Transportation Driver and Motor Vehicle Suspense Account for approved
+expenses and disbursals before payment of general administrative expenses of the department related
+to the provision of driver and motor  vehicle services. Notwithstanding this subsection, the depart-
+ment may  return a bank check or money order when received in incorrect or incomplete form or
+when not accompanied by the proper application.
+(2) The department shall pay the following  approved expenses and disbursals from the Depart-
+ment of Transportation Driver  and Motor Vehicle Suspense Account before payment of the general
+administrative expenses of the department related to driver and motor vehicle services:
+(a) Refunds authorized by any statute administered  by the department when such refunds are
+approved by the department.
+(b) Amounts transferred to the  State Treasurer under ORS 319.410 (2) for the purpose of carry-
+ing out the state aviation laws, amounts transferred to the Boating Safety,  Law Enforcement and
+Facility Account and to the Marine Navigation Improvement Fund by ORS  319.415, amounts trans-
+ferred to the State Aviation Account by ORS 319.417 and amounts  transferred to the Department
+of Transportation Operating Fund by ORS 184.643.
+(c) After deduction  of expenses of collection, transfer and administration, the department shall
+pay moneys collected from the Student Driver Training Fund eligibility fee under  ORS 807.040,
+807.150 and  807.370 to the State Treasurer for deposit in the Student Driver Training Fund. The
+moneys deposited in the Student Driver Training Fund under  this paragraph are continuously ap-
+propriated to the department for the following purposes:
+(A) To the extent of not more than 10 percent of the  amount transferred into the Student Driver
+Training Fund  in any biennium, to pay the expenses of administering ORS 336.795, 336.800, 336.805,
+336.810 (2) and 336.815.
+(B) The remaining moneys, for  reimbursing school districts and commercial driver training
+schools as provided under ORS 336.805.
+(d) After  deduction of expenses of collection, transfer and administration, the department shall
+pay moneys collected for the  Motorcycle Safety Subaccount under ORS 807.170 to the State Treas-
+urer for deposit in the Motorcycle Safety Subaccount of the Transportation Safety Account. Moneys
+paid to the State Treasurer under this paragraph shall be used for the purpose of ORS 802.320.
+(e) After deduction of expenses for  the administration of the issuance of customized registration
+plates under ORS 805.240, the department shall place moneys received from the sale of customized
+registration plates in the Passenger Rail Transportation Account. The moneys placed in the account
+are continuously appropriated to the [ department] Oregon Rail and Transit  Department and shall
+be used for the payment of expenses incurred in administering passenger rail programs.
+(f) After deduction of expenses of collection, transfer and  administration, the Department of
+Transportation shall pay moneys from any registration fees established by the governing  bodies of
+counties or a district, as defined in  ORS 801.237, under ORS 801.041 or 801.042 to the appropriate
+counties or districts. The department shall make the payments on at least a monthly basis  unless
+another basis is established by the intergovernmental agreements  required by ORS 801.041 and
+801.042 between the department and the governing bodies of a county or a district.
+(g) After deducting the expenses of the department in collecting and  transferring the moneys,
+the department shall make disbursals and payments of moneys collected for or dedicated to  any
+other purpose or fund except  the State Highway Fund, including but not limited to, payments to the
+Department of Transportation Operating Fund established by ORS 184.642 (1) and (2).
+(3) The department shall refund from  the Department of Transportation Driver and Motor Ve-
+hicle Suspense Account any excess  or erroneous payment to a person who made the payment or to
+the person’s legal representative when the department determines that money has been received by
+it in excess of the amount legally due and payable or that it has received money in which it has
+no legal interest. Refunds payable under this subsection are continuously appropriated for such
+purposes in the manner for payment of refunds under this section. If the  department determines that
+a refund is due, the department may refund the amount of excess or erroneous  payment without a
+claim being filed. Except as provided in ORS 319.290, 319.375, 319.820 and 319.831, any claim for  a
+refund from  the department must be filed within 12 months after the date payment is received by
+the department.
+(4) After payment of those expenses and disbursals approved for payment before general admin-
+istrative expenses related to the provision of  driver and motor vehicle services, the department shall
+pay from  the Department of Transportation Driver and Motor Vehicle Services Administrative Ac-
+count its general administrative expenses incurred in the  administration of any law related to driver
+and motor vehicle services that the department is  charged with administering and any other ex-
+penses the department is permitted by law to pay from  moneys held by the department before
+transfer of the moneys to the State Highway Fund. The following limitations apply  to payments of
+administrative expenses under this subsection:
+(a) The department shall make payment of the expenses of administering the issuance of  winter
+recreation parking permits under  ORS 811.595 from those moneys received from issuing the permits.
+(b) The department shall pay its expenses for administering the  registration and titling of
+snowmobiles under ORS 821.060 and 821.100 from the fees collected from administering those
+sections. The department shall also pay its expenses for the  administration of the snowmobile driver
+permit program under ORS 821.160 from the moneys otherwise described in this paragraph.
+(c) The department shall pay its expenses for determining the amount of money  to be withheld
+under ORS 802.120 from the fees  collected for administering the registration and titling of
+snowmobiles. The amount used to pay expenses under  this paragraph shall be such sum as necessary
+but may not exceed $10,000 during each biennium.
+(d) The department shall retain not more than  $15,000 in any biennium for the expenses of col-
+lecting and transferring moneys to the Student Driver Training Fund under  this section and for the
+administration of ORS 336.810 (3).
+(5) Except as otherwise provided in this subsection, the department  shall transfer to the State
+Highway Fund the moneys not used for payment of the  general administrative expenses or for ap-
+proved expenses and disbursals before payment of general administrative expenses. The  following
+apply to this subsection:
+(a) If the Director of Transportation  certifies the amount of principal or interest of highway
+bonds due on any particular date, the department may make available  for the payment of such in-
+terest or principal any sums that  may be necessary to the extent of moneys on hand available for
+the State Highway Fund regardless of the dates otherwise specified under this section.
+(b) Notwithstanding paragraph (a) of this subsection, the department may  not make available for
+purposes described in paragraph (a) of this subsection any  moneys described in ORS 367.605 when
+there are not sufficient  amounts of such moneys in the State Highway Fund for purposes of bonds
+issued under ORS 367.615.
+(6) Notwithstanding any other provision  of this section, the following moneys shall be trans-
+ferred to the State Highway Fund at the times described:
+(a) Moneys received under ORS 802.120 and not  used for the payment of administrative expenses
+of the department shall be transferred before July 31 of each year.
+(b) Moneys received from the  registration of snowmobiles that are not to be used for payment
+of administrative expenses of the department shall be transferred within 30 days  after the end of the
+quarter.
+(c) Moneys received from  the issuance of winter recreation parking permits that are not used
+for payment of administrative expenses of the department shall be transferred within 30  days after
+the end of the quarter.
+(7) The following moneys transferred to the State Highway Fund under this section may be  used
+only for the purposes described as follows:
+(a) Moneys collected from the issuance of winter recreation parking permits,  and the interest
+on such moneys, shall  be used to enforce the requirement for winter recreation parking permits and
+to remove snow from  winter recreation parking locations designated under ORS 810.170. Any re-
+maining moneys shall, upon approval by the Winter Recreation Advisory Committee:
+(A) Be used to maintain parking locations developed with moneys  obtained under ORS 810.170
+and snowmobile facilities that are parking lots developed with  moneys as provided under this sec-
+tion;
+(B) Be used to develop additional winter recreation parking locations under ORS 810.170; or
+(C) Be carried over to be used in  subsequent years for the purposes and in the manner described
+in this paragraph.
+(b) Moneys received from the registration of snowmobiles or under ORS 802.120 may  be used for
+development and maintenance of multiuse  trails within urban growth boundaries or for the devel-
+opment and  maintenance of snowmobile facilities, including the acquisition of land therefor by any
+means other than the exercise of eminent domain. Moneys received under ORS 802.120 may also  be
+used for the enforcement of ORS 811.590, 821.100 to 821.120, 821.140, 821.150, 821.190, 821.210 and
+821.240 to 821.290.
+(8) The department shall maintain the Revolving  Account for Emergency Cash Advances sepa-
+rate from other moneys described in this section. From the account, the department may pay  for the
+taking up  of dishonored remittances returned by banks or the State Treasurer and for emergency
+cash advances to be subsequently reimbursed. The account shall be used only  as a revolving
+fund. The department shall at all times be accountable for the amount of  the account, either in cash
+or unreimbursed items and advances. The moneys  in the account are continuously appropriated for
+the purposes of this subsection. The amount of moneys in the account  under this subsection may not
+exceed $40,000 from moneys received by the department in the performance of its driver  and motor
+vehicle services functions and moneys otherwise appropriated for purposes of this  subsection. The
+account under this subsection shall be kept on deposit  with the State Treasurer. The State Treas-
+urer is authorized to honor and pay all properly signed and  indorsed checks or warrants drawn
+against the account.
+SECTION 149.
+ ORS 811.465 is amended to read:
+811.465. This section establishes exemptions from the special crossing  procedures established for
+high-risk vehicles under ORS 811.460. The exemptions are partial or complete  as described in the
+following:
+(1) The vehicles are not required to comply with the procedures at a crossing of a street  or
+highway and rail fixed guideway public transportation system tracks if:
+(a) The rail fixed guideway public transportation system vehicles operate within  and parallel to
+the right of way of a street or highway; and
+(b) All vehicle movements are controlled by traffic control devices.
+(2) The vehicles are not required to comply with the procedures when crossing any  railway
+tracks upon which operation has been abandoned and for  which the [ Department of Transportation ]
+Oregon Rail and Transit Department  has plainly marked that no stop need be made.
+(3) The vehicles are not required to comply  with the procedures when crossing industry track
+crossings across which train operations are required by law to be conducted under flag protection.
+(4) The vehicles are not required to comply  with the procedures when crossing industry track
+crossings within business districts.
+(5) Vehicles are not required to comply with the  procedures when crossing any crossing where
+an officer directs traffic to proceed  or where an operating traffic control signal indicates that other
+traffic may proceed.
+(6) Vehicles are not required to comply with the procedures when  crossing any crossing pro-
+tected by crossing gates. The exemption under this subsection does not apply to:
+(a) School buses or school activity vehicles that are required to stop at crossings  with crossing
+gates under ORS 811.460;
+(b) Tank vehicles, whether loaded or empty, used to transport hazardous materials;
+(c) Vehicles transporting any hazardous material requiring the vehicle to be placarded; or
+(d) High-risk vehicles described in ORS 811.460 that are not  otherwise described in this sub-
+section, when operating in interstate commerce.
+(7) Except when a train, other on-track equipment or rail fixed guideway public  transportation
+system vehicle is approaching, the driver of a commercial bus  is not required to stop at crossings
+where the [ Department of Transportation ] Oregon Rail and Transit Department  has determined
+and plainly marked that no stop need be made.
+CONFORMING AMENDMENTS IN ORS CHAPTER 823
+SECTION 150.
+Sections 152, 154,  156, 158, 160, 162, 164, 166, 168, 170, 172, 174, 176, 177, 179,
+182, 184, 186, 188, 189 and 191 to 194 of this 2025 Act are added to  and made a part of the
+Oregon Vehicle Code.
+SECTION 151. ORS 823.009 is amended to read:
+823.009. (1) In addition to the powers and duties now or  hereafter transferred to or vested in the
+Department of Transportation, the department shall represent the customers of  any motor carrier
+[or railroad ], and the public  generally, in all controversies respecting rates, valuations, service and
+all matters of which the department has jurisdiction  regarding motor carriers [ and railroads ]. In
+respect thereof, the department shall make use of its jurisdiction and powers to protect  such cus-
+tomers, and the public generally, from unjust and unreasonable exactions  and practices and to ob-
+tain for them adequate service at fair and reasonable rates.
+(2) The department is vested with power and jurisdiction to  supervise and regulate every motor
+carrier [ and railroad ] in  this state, and to do all things necessary and convenient in the exercise
+of such power and jurisdiction.
+(3) The department may participate in any proceeding before any public officer, commission or
+body of the United States or any state or other jurisdiction for the purpose  of representing the
+public generally and  the customers of the services of any motor carrier [ or railroad ] operating or
+providing service to or within this state.
+(4) The department may make  joint investigations, hold joint hearings within or without this
+state and issue concurrent  orders in conjunction or concurrence with any official, board, commission
+or agency of any state or of the United States.
+SECTION 152. (1) In addition to the powers and duties now or hereafter transferred to
+or vested  in the Oregon Rail and Transit Department, the department shall represent the
+customers of any railroad, and the public generally, in all  controversies respecting rates,
+valuations, service and all matters of  which the department has jurisdiction regarding rail-
+roads. In respect thereof, the department  shall make use of its jurisdiction and powers to
+protect such  customers, and the public generally, from unjust and unreasonable exactions
+and practices and to obtain for them adequate service at fair and reasonable rates.
+(2) The department is vested with power and  jurisdiction to supervise and regulate every
+railroad in this state, and to do all things necessary and convenient in the exercise of such
+power and jurisdiction.
+(3) The department may participate in any proceeding before any public officer, commis-
+sion or body of the United States or any  state or other jurisdiction for the purpose of rep-
+resenting the public  generally and the customers of the services of any railroad operating
+or providing service to or within this state.
+(4) The department may make  joint investigations, hold joint hearings within or without
+this state and issue concurrent  orders in conjunction or concurrence with any official, board,
+commission or agency of any state or of the United States.
+SECTION 153.
+ ORS 823.011 is amended to read:
+823.011. The Department of Transportation may adopt and amend reasonable and  proper rules
+and regulations relative to all statutes regarding motor  carriers [ and railroads ] administered by the
+department and may adopt and publish reasonable and proper rules to govern  proceedings and to
+regulate  the  mode and manner of all investigations of motor carriers [ and railroads ] subject to reg-
+ulation by the department.
+SECTION 154. The Oregon Rail and Transit Department may adopt and amend reasonable
+and proper rules and regulations relative to all statutes regarding  railroads administered by
+the department and  may adopt and publish reasonable and proper rules to govern pro-
+ceedings and to regulate the mode and manner  of all investigations of railroads subject to
+regulation by the department.
+SECTION 155. ORS 823.013 is amended to read:
+823.013. (1) A  substantial compliance with the requirements of the laws administered by the
+Department of Transportation regarding motor carriers [ and railroads ] is sufficient  to give effect to
+all the rules, orders, acts and  regulations of the department and they shall not be declared inoper-
+ative, illegal or void for any omission of a technical nature in respect thereto.
+(2) The provisions of such laws shall be liberally  construed with a view to the public welfare,
+efficient facilities and substantial justice between customers and motor carriers [ or railroads ].
+SECTION 156. (1) A substantial compliance with the requirements of the laws  adminis-
+tered by the Oregon Rail and Transit  Department regarding railroads is sufficient to give
+effect to  all the rules, orders, acts and regulations of the department and they shall not be
+declared inoperative, illegal or void for any omission of a technical nature  in respect thereto.
+(2) The provisions of such laws shall be liberally construed  with a view to the public
+welfare, efficient facilities and substantial justice between customers and railroads.
+SECTION 157. ORS 823.015 is amended to read:
+823.015. The service or delivery of any notice,  order, form or other document or legal process
+required to be made by the Department of Transportation in connection  with any statute governing
+motor carriers [ or railroads ] may be made by mail. If by mail, service or delivery is  made when the
+required material is deposited in the post office, in a sealed envelope with postage paid,  addressed
+to the  person on whom it is to be served or delivered, at the address as it last appears in the records
+of the department.
+SECTION 158. The service or delivery of any notice, order, form or other  document or
+legal process required to be made by the Oregon Rail and Transit Department in connection
+with any statute governing railroads may be  made by mail. If by mail, service or delivery is
+made when the required material  is deposited in the post office, in a sealed envelope with
+postage paid, addressed to the  person on whom it is to be served or delivered, at the address
+as it last appears in the records of the department.
+SECTION 159.
+ ORS 823.021 is amended to read:
+823.021. The  Department of Transportation may inquire into the management of the business of
+all motor carriers [ and railroads ], and shall keep informed  as to the manner and method in which
+the business is  conducted. The department has the right to obtain from any motor carrier [ or rail-
+road] all necessary information to enable the department to  perform its duties related to motor
+carriers [ and railroads ].
+SECTION 160. The Oregon Rail and Transit Department may inquire into the  manage-
+ment of the business of all railroads, and shall keep informed as  to the manner and method
+in which the business is  conducted. The department has the right to obtain from any railroad
+all necessary information to enable the department to  perform its duties related to railroads.
+SECTION 161. ORS 823.023 is amended to read:
+823.023. (1) The Department of Transportation  or authorized representatives may enter upon any
+premises, or any equipment, rolling stock or facilities operated or occupied by  any motor carrier
+[or railroad ] for the purpose of  making any inspection, examination or test reasonably required in
+the administration of ORS chapters 823, 824, 825 and 826, and to set up  and use on such premises,
+equipment, rolling stock or facilities any apparatus or appliance and occupy reasonable  space
+therefor.
+(2) The department or authorized representatives shall, upon  demand, have the right to inspect
+the books, accounts, papers, records and memoranda of any motor carrier [ or railroad ] and to ex-
+amine under oath any officer, agent or employee of such  motor carrier [ or railroad ] in relation to
+its business and affairs.
+(3) Any person who on behalf of the department makes demand  of a motor carrier [ or railroad ]
+for an  examination, inspection or test shall, upon request therefor, produce a certificate under the
+seal of the department showing authority to make such examination, inspection or test.
+(4) The department or authorized representatives  shall, upon demand, have the right to enter
+any premises of a business that the department  has reasonable cause to believe tendered for ship-
+ment, by motor [ or rail ], any hazardous material and to make any examination, inspection  or test
+reasonably required to  determine compliance with the health and safety regulations administered
+or enforced by the department. Any person, who on behalf of the department demands  to make an
+examination, inspection or  test, shall produce upon request a certificate under the seal of the de-
+partment showing authority to make the examination, inspection or test.
+(5) Nothing in this section authorizes the department to use any  information developed there-
+under for any  purpose inconsistent with any statute governing motor carriers [ or railroads ] and
+administered by the department or to make a disclosure thereof for  other than regulatory purposes.
+SECTION 162. (1) The Oregon Rail and Transit Department  or authorized representatives
+may enter upon any premises, or any equipment, rolling stock or facilities operated  or oc-
+cupied by any railroad for the purpose of making  any inspection, examination or test, and
+to set up and use on such premises,  equipment, rolling stock or facilities any apparatus or
+appliance and occupy reasonable space therefor.
+(2) The  department or authorized representatives shall, upon demand, have the right to
+inspect the books, accounts, papers, records and memoranda of any railroad and  to examine
+under oath any officer, agent or employee of such railroad in relation  to its business and
+affairs.
+(3) Any person who on  behalf of the department makes demand of a railroad for an ex-
+amination, inspection or test shall, upon request therefor, produce a certificate under  the
+seal of the department showing authority to make such examination, inspection or test.
+(4) The  department or authorized representatives shall, upon demand, have the right to
+enter any premises  of a business that the department has reasonable cause to believe
+tendered for shipment, by rail, any hazardous material and to make any  examination, in-
+spection or test reasonably required to determine compliance with the health  and safety
+regulations administered or enforced by the department. Any person, who on behalf of the
+department demands to  make an examination, inspection or test, shall produce upon request
+a certificate under the seal of the department  showing authority to make the examination,
+inspection or test.
+(5) Nothing in this section authorizes the department to use  any information developed
+thereunder for any purpose inconsistent with any statute governing railroads and adminis-
+tered by the department  or to make a disclosure thereof for other than regulatory purposes.
+SECTION 163.
+ ORS 823.025 is amended to read:
+823.025. (1) The Department of Transportation  may require by rule, or by order or subpoena to
+be served on  any motor carrier [ or railroad ], the maintaining within this state or the production
+within this state  at such time and place as the department may designate, of any books, accounts,
+papers or records kept by such motor carrier  [ or railroad ] in any office or place within or without
+this state, or verified copies in lieu thereof, if the department so orders, in  order that an examina-
+tion thereof may be made by the department or under direction of the department.
+(2) When a motor carrier [ or railroad ] keeps and  maintains its books, accounts, papers or re-
+cords outside the state, the department may  examine such documents and shall be reimbursed by the
+motor carrier [ or railroad ] for all expenses incurred in making such out-of-state examination.
+SECTION 164. (1) The Oregon Rail  and Transit Department may require by rule, or by
+order or subpoena to be served on any railroad, the maintaining within this state  or the
+production within this state at  such time and place as the department may designate, of any
+books, accounts, papers or records kept by such railroad in any office or place within  or
+without this state, or verified  copies in lieu thereof, if the department so orders, in order
+that an examination thereof may be made by the department or under direction of  the de-
+partment.
+(2) When a railroad keeps and maintains  its books, accounts, papers or records outside
+the state, the department may  examine such documents and shall be reimbursed by the
+railroad for all expenses incurred in making such out-of-state examination.
+SECTION 165. ORS 823.027 is amended to read:
+823.027. (1) Every motor carrier [ and railroad ] shall furnish to the Department of Transportation
+all information required by the department to carry into effect the  provisions of ORS chapters 823,
+824, 825 and 826 and shall make specific answers to all questions submitted by the department.
+(2) If a motor carrier [ or railroad ] is unable to furnish any information required under subsection
+(1) of this section for any reason beyond its control, it is a good  and sufficient reason for such
+failure. The answer or information shall be verified under oath  and returned to the department at
+the department’s office within the period fixed by the department.
+SECTION 166. (1) Every railroad shall furnish to the Oregon Rail and Transit Department
+all information required by the department to carry into effect the  provisions of ORS chap-
+ters 823, 824, 825 and 826 and shall make specific answers to all questions submitted  by the
+department.
+(2) If a railroad is unable to furnish any information required under  subsection (1) of this
+section for any reason beyond its control, it is a good and sufficient reason for such failure.
+The answer or information shall be verified under oath and returned to the department at
+the department’s office within the period fixed by the department.
+SECTION 167.
+ ORS 823.029 is amended to read:
+823.029. [No] An  officer, agent or employee of any motor carrier [ or railroad shall ] may not :
+(1) Fail  or refuse to provide any information or document required by the Department of
+Transportation;
+(2) Fail or refuse to answer any question therein propounded;
+(3) Knowingly or willfully give a false answer to any such question or evade the  answer to any
+such question where the fact inquired of is within the person’s knowledge;
+(4) Upon proper demand, fail or refuse to  exhibit to the department or any person authorized to
+examine the same, any book, paper,  account, record or memorandum of the motor carrier [ or rail-
+road] that is in possession or under the control of the person;
+(5) Fail to properly use and keep a system of accounting or any part thereof, as prescribed by
+the department; or
+(6) Refuse to do any act or thing in connection with  such system of accounting when so directed
+by the department or authorized representative.
+SECTION 168.
+An officer, agent or employee of any railroad may not:
+(1) Fail or refuse to provide any information or  document required by the Oregon Rail
+and Transit Department;
+(2) Fail or refuse to answer any question therein propounded;
+(3) Knowingly or  willfully give a false answer to any such question or evade the answer
+to any such question where the fact inquired of is within the person’s knowledge;
+(4) Upon proper demand, fail or refuse  to exhibit to the department or any person au-
+thorized to examine the same, any book, paper, account,  record or memorandum of the
+railroad that is in possession or under the control of the person;
+(5) Fail to properly use  and keep a system of accounting or any part thereof, as pre-
+scribed by the department; or
+(6) Refuse to do any act  or thing in connection with such system of accounting when so
+directed by the department or authorized representative.
+SECTION 169.
+ ORS 823.031 is amended to read:
+823.031. (1) The Department of Transportation may investigate any complaint filed against a
+person whose business or activities are regulated by one or more of the statutes regarding  motor
+carriers [ or railroads ], jurisdiction for the enforcement or  regulation of which is conferred upon the
+department.
+(2) Any hearing held as a result of  a complaint or investigation under subsection (1) of this
+section shall be a contested case hearing, in the manner provided in ORS 183.413 to 183.497.
+SECTION 170. (1) The Oregon Rail and Transit Department may investigate any  com-
+plaint filed against a person whose business or activities are regulated by one or more of the
+statutes regarding railroads,  jurisdiction for the enforcement or regulation of which is con-
+ferred upon the department.
+(2) Any hearing held as a result of a complaint or investigation  under subsection (1) of
+this section shall be a contested case hearing, in the  manner provided in ORS 183.413 to
+183.497.
+SECTION 171.
+ ORS 823.033 is amended to read:
+823.033. (1) Whenever the Department of  Transportation believes that any rate subject to regu-
+lation by the department may be unreasonable or unjustly discriminatory, or that  any service sub-
+ject  to  regulation by the department is unsafe or inadequate, or is not afforded, or that an
+investigation of any matter relating to any motor carrier[ , railroad ] or other person should  be made,
+or relating to any person to determine if such person is subject to the  department’s regulatory ju-
+risdiction, the department may on its own motion summarily investigate any such matter, with or
+without notice.
+(2) The department may, after making an  investigation on the department’s motion, provide no-
+tice  to  the motor carrier[ , railroad ] or other person of the department’s proposed action or may,
+without notice or hearing, make such findings and orders as  the department deems justified or re-
+quired by the results of such investigation.
+(3) Any party aggrieved by a  notice of proposed action or by an order entered pursuant to
+subsection (2) of this section may request the department to hold a hearing pursuant  to ORS 183.413
+to 183.497.
+(4) An order issued under this section prior to  a hearing shall be stayed pending the outcome
+of the hearing unless the department  finds that the order is necessary to protect the public health,
+safety or environment.
+SECTION 172.
+(1) Whenever the Oregon Rail and Transit Department believes  that any
+rate subject to regulation by  the department may be unreasonable or unjustly
+discriminatory, or that any service subject to regulation by the department is  unsafe or in-
+adequate, or is  not afforded, or that an investigation of any matter relating to any railroad
+should be made, or relating to any person to determine if such person is subject to the
+department’s regulatory jurisdiction, the department may on its  own motion summarily in-
+vestigate any such matter, with or without notice.
+(2) The department may,  after making an investigation on the department’s motion,
+provide notice to the railroad of the department’s proposed action or may,  without notice
+or hearing, make  such findings and orders as the department deems justified or required by
+the results of such investigation.
+(3) Any party aggrieved by a notice of proposed action or by an  order entered pursuant
+to subsection (2) of this  section may request the department to hold a hearing pursuant to
+ORS 183.413 to 183.497.
+(4) An order issued under this section prior to a  hearing shall be stayed pending the
+outcome of the hearing unless the department finds that the order is necessary to  protect
+the public health, safety or environment.
+SECTION 173.
+ ORS 823.035 is amended to read:
+823.035. (1) Notwithstanding ORS 9.320  and 823.031 (2), an individual who is not an attorney may
+represent  that  individual or other persons who consent to such representation at any proceeding
+before the Department of Transportation  involving the regulation of transportation matters pursuant
+to ORS chapter 825.
+[(2) Notwithstanding ORS 9.320 and 823.031 (2), an individual  who is not an attorney may repre-
+sent that individual or labor organizations, railroads, motor  carriers or government agencies who
+consent to such representation in any proceeding before  the department involving the regulation of
+transportation matters pursuant to  ORS 824.020 to 824.042, 824.050 to 824.110 and 824.200 to
+824.256.]
+[(3)] (2)  Notwithstanding ORS 9.320 and 823.031 (2), an individual who is  not an attorney may
+represent that individual or other persons who consent to such representation in any proceeding
+before the department involving the regulation of  transportation matters pursuant to ORS chapter
+826.
+[(4)] (3) Any  compromises, agreements, admissions, stipulations, statements of fact or other such
+action taken by the representative at any such proceeding is binding on those represented  to the
+same extent as if done by an attorney. A person so represented may not thereafter claim that  any
+such proceeding was legally defective because the person was not represented by an attorney.
+[(5)] (4) As used in this section,  “attorney” has the meaning for that term provided in ORS 9.005.
+SECTION 174.
+(1) Notwithstanding ORS 9.320 and section 170 (2) of this 2025 Act, an in-
+dividual who is not an attorney may represent that individual or labor organizations, rail-
+roads or government agencies who consent to such representation in  any proceeding before
+the Oregon Rail and Transit Department involving the regulation of transportation matters
+pursuant to ORS 824.020 to 824.042, 824.050 to 824.110 and 824.200 to 824.256.
+(2) Any compromises, agreements, admissions, stipulations, statements  of fact or other
+such action taken by the representative at any such proceeding  is binding on those repres-
+ented to the same extent as if done by an attorney.  A person so represented may not
+thereafter claim that  any such proceeding was legally defective because the person was not
+represented by an attorney.
+(3) As used in  this section, “attorney” has the meaning for that term provided in ORS
+9.005.
+SECTION 175. ORS 823.037 is amended to read:
+823.037. On petition of any interested  person, the Department of Transportation may issue a
+declaratory ruling with respect to the applicability to any person, property, or state of facts of any
+rule or statute regarding motor carriers [ or railroads ] that is enforceable by the department. A
+declaratory ruling is  binding between the department and the petitioner on the state of facts alleged,
+unless it is modified, vacated  or set aside by the Court of Appeals. However, the department may
+review the ruling and modify, vacate or set it aside if requested by the petitioner or other party to
+the proceeding. Binding rulings provided by this  section are subject to review in the Court of Ap-
+peals in the manner provided in ORS 183.480 for the review of orders in contested cases.
+SECTION 176.
+On petition  of any interested person, the Oregon Rail and Transit De-
+partment may issue a  declaratory ruling with respect to the applicability to any person,
+property, or state of facts of  any rule or statute regarding railroads that is enforceable by
+the department. A declaratory ruling is binding between the  department and the petitioner
+on the state of facts alleged, unless it is modified, vacated or set aside by the Court of  Ap-
+peals. However, the department may review the ruling and  modify, vacate or set it aside if
+requested by the petitioner or other party to the  proceeding. Binding rulings provided by this
+section are subject to review in the Court of Appeals in the manner provided in ORS  183.480
+for the review of orders in contested cases.
+SECTION 177. A person may  not destroy, injure or interfere with any apparatus or ap-
+pliance owned or operated by or in charge of the  Oregon Rail and Transit Department, or
+any apparatus or appliance sealed by the department.
+SECTION 178. ORS 823.061 is amended to read:
+823.061. The federal hazardous material safety regulations adopted, implemented or  enforced by
+the Department of Transportation shall be applicable to any  person who transports, or causes to be
+transported, by motor [ or rail ], a hazardous material. The department shall define hazardous mate-
+rial by rule. The definition shall be consistent with federal definitions of the term.
+SECTION 179.
+The federal hazardous material safety regulations adopted, implemented
+or enforced by the Oregon Rail and Transit  Department shall be applicable to any person
+who transports, or causes to be transported, by rail, a hazardous  material. The department
+shall define hazardous material by rule. The definition shall be consistent  with federal defi-
+nitions of the term.
+SECTION 180. ORS 823.071 is amended to read:
+823.071. As used in ORS 823.073 and 823.075, the following terms have the following meanings:
+(1) “Agency” means any place provided  by a for-hire carrier for the accommodation of the public
+in the receipt, delivery, billing or routing of freight, or in the loading or discharge  of passengers,
+at which an agent is provided to serve the public.
+(2) “Agent” means the person in charge of the transaction of business with the public  at any
+[station or ] agency.
+(3) “Common carrier” means [ any railroad as defined in ORS 824.020, and ] any for-hire carrier
+by motor vehicle as defined in ORS 825.005 if the carrier transports persons.
+SECTION 181.
+ ORS 823.081 is amended to read:
+823.081. (1) The Department of Transportation shall inquire into any  neglect or violation of any
+law of this state, or any law or ordinance  of any municipality thereof, relating to motor carriers
+[or railroads ] by any motor carrier [ or railroad ] doing business therein, its officers, agents or em-
+ployees and shall enforce all laws of  this state relating to motor carriers [ and railroads ] and may
+enforce all such laws and ordinances of a municipality. The department shall  report all violations
+of any such laws or ordinances to the Attorney General.
+(2) The Attorney General, district  attorney of each county, all state, county and city police of-
+ficers and police officers commissioned by a university under ORS 352.121 or 353.125  shall assist the
+department in the administration and enforcement of all laws related  to motor carriers [ and rail-
+roads] administered by the  department, and they, as well as assistants and employees of the de-
+partment, shall inform  against and diligently prosecute all persons whom they have reasonable cause
+to believe guilty of the violation of any such laws or of the rules, regulations, orders,  decisions or
+requirements of the department made pursuant thereto.
+(3) Upon the request of the department, the Attorney General or the district attorney of the
+proper county shall aid in  any investigation, hearing or trial, and shall institute and prosecute all
+necessary suits, actions or proceedings for the enforcement of those laws and ordinances referred
+to in subsection (1) of this section.
+(4) Any forfeiture or penalty provided for in any law  regarding motor carriers [ or railroads ]
+administered by the department shall be recovered by  an action brought thereon in the name of the
+State of Oregon in any court of appropriate jurisdiction or as provided in ORS 183.745.
+SECTION 182.
+(1) The Oregon Rail and Transit Department shall inquire into any neglect
+or violation of any law of this state, or any law or ordinance of any municipality thereof,
+relating to railroads by any railroad doing  business therein, its officers, agents or employees
+and shall enforce all  laws of this state relating to railroads and may enforce all such laws
+and ordinances of a municipality. The department shall report all violations of any such laws
+or ordinances to the Attorney General.
+(2) The Attorney General, district attorney of  each county, all state, county and city
+police officers and police officers commissioned by a university under ORS 352.121 or 353.125
+shall assist the department  in the administration and enforcement of all laws related to
+railroads administered by the department, and they, as well  as assistants and employees of
+the department, shall inform  against and diligently prosecute all persons whom they have
+reasonable cause to believe guilty of the violation of any  such laws or of the rules, regu-
+lations, orders, decisions or requirements of the department made pursuant thereto.
+(3) Upon the request of the department, the Attorney General or the  district attorney
+of the proper county shall aid in any  investigation, hearing or trial, and shall institute and
+prosecute all necessary suits, actions or proceedings for the enforcement of those laws  and
+ordinances referred to in subsection (1) of this section.
+(4) Any forfeiture or penalty provided for in any law regarding railroads  administered by
+the department shall be recovered by an action brought thereon in the name  of the State
+of Oregon in any court of appropriate jurisdiction or as provided in ORS 183.745.
+SECTION 183.
+ ORS 823.083 is amended to read:
+823.083. (1) Whenever it appears to the Department of  Transportation that any motor carrier[ ,
+railroad] or any other person subject to the jurisdiction of the  department is engaged or about to
+engage in any  acts or practices that constitute a violation of any statute regarding motor carriers
+[or railroads ] administered by the department, or  any rule, regulation, requirement, order, term or
+condition issued thereunder, the department may apply to any circuit court  of the state where such
+motor carrier[ , railroad ] or any other person  subject to the jurisdiction of the department operates
+for the enforcement of such statute, rule, regulation, requirement, order, term or condition.
+(2) Such court, without bond, has jurisdiction  to enforce obedience thereto by injunction, or by
+other processes, mandatory or otherwise, restraining such motor carrier[ , railroad ] or any other
+person subject to  the jurisdiction of the department, or its officers, agents, employees and repre-
+sentatives from further violations of such statute, rule, regulation, requirement, order,  term or con-
+dition, and enjoining upon them obedience thereto.
+(3) The provisions of this section  are in addition to and not in lieu of any other enforcement
+provisions contained in any statute administered by the department.
+SECTION 184. (1) Whenever it appears to the Oregon Rail and Transit Department that
+any railroad subject to the jurisdiction of the department is  engaged or about to engage in
+any acts or practices that  constitute a violation of any statute regarding railroads adminis-
+tered by the department, or any rule, regulation, requirement, order,  term or condition is-
+sued thereunder, the department may apply to  any circuit court of the state where the
+railroad subject to the jurisdiction of  the department operates for the enforcement of such
+statute, rule, regulation, requirement, order, term or condition.
+(2) Such court, without bond,  has jurisdiction to enforce obedience thereto by injunction,
+or by other processes, mandatory or otherwise, restraining the railroad subject to  the ju-
+risdiction of the department, or its officers, agents, employees  and representatives from
+further violations of such statute, rule, regulation, requirement, order, term or  condition,
+and enjoining upon them obedience thereto.
+(3) The provisions of this  section are in addition to and not in lieu of any other enforce-
+ment provisions contained in any statute administered by the department.
+SECTION 185. ORS 823.101 is amended to read:
+823.101. (1) Any for-hire  carrier[ , railroad ] or transportation company receiving property for
+transportation wholly within this state, from one  point in this state to another point in this state,
+shall issue in accordance with the applicable provisions of ORS chapter  77 a receipt or bill of lading
+therefor, and shall be liable to  the lawful holder thereof for any loss, damage or injury to such
+property caused by it, or  by any common carrier to which such property may be delivered, or over
+whose line  or lines such property may pass, when transported on a through bill of lading. No con-
+tract, receipt, rule, regulation or other limitation of any character whatsoever shall  exempt such
+for-hire carrier[ , railroad ] or transportation company from such liability.
+(2) Any for-hire carrier[ , railroad ] or transportation company so receiving property for  trans-
+portation  wholly  within this state shall be liable to the lawful holder of such receipt or bill of lading,
+or to any party entitled to recover thereon, whether such receipt or bill of lading has been issued
+or not, for the  full actual loss, damage or injury to such property caused by it, or by any common
+carrier to which such property may be delivered, or  over whose line such property may pass when
+transported  on  a through bill of lading, notwithstanding any limitation of liability or limitation of
+the amount of recovery, or representation or agreement as to value in any such  receipt or bill of
+lading, or in any contract, rule or  regulation, or in any tariff filed with the Department of Trans-
+portation; and any such limitation, irrespective of the manner or form in which it  is sought to be
+made, is unlawful and void.
+(3) The provisions of  subsection (2) of this section respecting liability for full actual loss, damage
+or injury, shall not apply:
+(a) To baggage carried on passenger trains or boats, or trains or boats carrying passengers.
+(b) To property, except ordinary livestock, concerning which the  carrier is expressly authorized
+or required by  order of the Department of Transportation to establish and maintain rates dependent
+upon the value declared in writing by the shipper or agreed upon in writing as the released value
+of the property. “Ordinary  livestock” includes all cattle, swine, sheep, goats, horses and mules,
+except such as are chiefly used for breeding, racing, show purposes or other special uses.
+(4) The Department of Transportation may make the order referred  to in subsection (3)(b) of this
+section in cases where rates dependent upon and varying  with declared or agreed values would, in
+the opinion of the department, be just and reasonable under the circumstances and conditions  sur-
+rounding the transportation. Any tariff schedule filed with the department pursuant to  such order
+shall contain specific reference thereto and may establish  rates varying with the value so declared
+and agreed upon.
+SECTION 186.
+(1) Any railroad  receiving property for transportation wholly within this
+state, from one  point in this state to another point in this state, shall issue in accordance
+with the applicable provisions of ORS chapter 77 a receipt or bill of lading therefor, and shall
+be liable to the lawful holder thereof for any loss, damage or injury to such  property caused
+by it, or by any railroad to which such property may be delivered, or over whose  line or lines
+such property may pass, when transported on a through bill  of lading. No contract, receipt,
+rule, regulation or other limitation of any character whatsoever shall exempt  such railroad
+from such liability.
+(2) Any railroad so receiving property for transportation wholly within this state shall
+be liable to the lawful holder of such receipt or bill of lading,  or to any party entitled to re-
+cover thereon, whether such receipt or bill of lading has  been issued or not, for the full ac-
+tual loss, damage or injury to such property caused by it, or by any railroad to which such
+property may be delivered, or over whose line such  property may pass when transported on
+a through  bill of lading, notwithstanding any limitation of liability or limitation of the
+amount of recovery, or representation or agreement as to  value in any such receipt or bill
+of lading, or in any contract, rule  or regulation, or in any tariff filed with the Oregon Rail
+and Transit Department; and any such limitation, irrespective of the manner or  form in
+which it is sought to be made, is unlawful and void.
+(3) The provisions of subsection (2) of this section respecting  liability for full actual loss,
+damage or injury, shall not apply:
+(a) To baggage carried on passenger trains or  boats, or trains or boats carrying passen-
+gers.
+(b) To property,  except ordinary livestock, concerning which the railroad is expressly
+authorized or required by order of the department to establish and maintain rates dependent
+upon the value declared in writing by the shipper or agreed upon in writing as the  released
+value of the property. “Ordinary livestock” includes all  cattle, swine, sheep, goats, horses
+and mules, except such as are chiefly used for breeding, racing, show purposes or  other
+special uses.
+(4) The department may make the order referred to in subsection (3)(b) of this  section
+in cases where rates  dependent upon and varying with declared or agreed values would, in
+the opinion of the department, be just  and reasonable under the circumstances and condi-
+tions surrounding the transportation. Any tariff schedule filed  with the department pursuant
+to such order shall contain specific reference  thereto and may establish rates varying with
+the value so declared and agreed upon.
+SECTION 187.
+ ORS 823.103 is amended to read:
+823.103. A for-hire carrier[ , railroad ] or transportation company referred  to in ORS 823.101 may
+not provide by rule, contract, regulation or otherwise a period for filing  claims described in ORS
+823.101 shorter than the following:
+(1) Nine months after delivery of  property or after reasonable time for delivery has elapsed for
+filing of claims in writing, except that if the carrier is a for-hire carrier of household goods, three
+months.
+(2) Two years for the institution of  suits. The period for institution of suits shall be computed
+from the day when notice is given by the carrier  to the claimant that the carrier has disallowed all
+or any part of the claim specified in the notice.
+SECTION 188.
+A railroad referred to in section 186 of  this 2025 Act may not provide by
+rule, contract, regulation or otherwise a period for filing claims described  in section 186 of
+this 2025 Act shorter than the following:
+(1) Nine months after delivery of property or after reasonable time  for delivery has
+elapsed for filing of claims in writing.
+(2) Two years for the institution of suits. The period for institution of suits  shall be
+computed from the day when notice is given by the railroad to the  claimant that the railroad
+has disallowed all or any part of the claim specified in the notice.
+SECTION 189. A railroad, its director  or officer, receiver, trustee, lessee, agent or person
+acting for or employed by it, alone or with any other person,  may not willfully do or cause
+to be done, or willingly suffer or permit to be done, any act,  matter or thing prohibited or
+declared to be unlawful in sections 186 and 188 of this  2025 Act, or aid or abet therein, or
+willfully omit or fail to do any act, matter or thing required to be done by sections 186  and
+188 of this 2025 Act  or cause or willingly suffer or permit any act, matter or thing so directed
+or required by sections 186 and 188  of this 2025 Act to be done, or not to be so done, or aid
+or abet any such omission or failure.
+SECTION 190.
+ ORS 823.991 is amended to read:
+823.991. (1) Any motor  carrier [ or railroad ] that fails to comply with an order or subpoena issued
+pursuant to ORS 823.025 shall pay a civil penalty, for  each day it so fails, of not less than $50 nor
+more than $500.
+(2) Except where a penalty is otherwise provided by law,  any motor carrier [ or railroad ] shall
+pay a civil penalty of not  less than $100 nor more than $10,000 for each time that the motor carrier
+[or railroad ]:
+(a) Violates any statute regarding motor carriers [ or railroads ], as appropriate, administered  by
+the Department of Transportation;
+(b) Does any act prohibited, or  fails to perform any duty enjoined upon the motor carrier [ or
+railroad];
+(c) Fails to obey any lawful requirement or order made by the department; or
+(d) Fails to obey any judgment made by any court upon the application of the department.
+(3) Violation of ORS 823.029 is punishable after issuance of a final order by the  department, by
+a civil  penalty of not less than $1,000 for each offense. A penalty of not less than $500 nor more than
+$1,000 shall be recovered  from the motor carrier [ or railroad ] for each such offense when such offi-
+cer, agent or employee acted in obedience to the direction, instruction or request of the motor  car-
+rier [ or railroad ], or any general officer thereof.
+(4) Violation of ORS 823.029 is a Class A violation.
+(5) Violation of ORS 823.051 is a Class  C misdemeanor. Any motor carrier [ or railroad ] that
+knowingly permits the violation of ORS 823.051 shall forfeit, upon  conviction, not more than $1,000
+for each offense.
+(6) In construing and enforcing this section, the act, omission or failure of any officer,  agent or
+other person acting for or employed  by any motor carrier [ or railroad ] shall in every case be deemed
+to be the act, omission or failure of such motor carrier  [ or railroad ]. With respect to any violation
+of any statute administered by the department regarding motor carriers [ or railroads ], any  penalty
+provision applying to such a violation by  a motor carrier [ or railroad ] shall apply to such a violation
+by any other person.
+(7) Except as provided in  ORS 824.019 and 825.326, and except when provided by law that a
+penalty, forfeiture or other sum be paid to the aggrieved  party, all penalties or forfeitures collected
+from persons subject to the regulatory authority  of the department under ORS chapters 823, 824, 825
+and 826 shall be paid into the General Fund and  credited to the Motor Carrier Account if collected
+from a motor carrier and to the Railroad Fund created under ORS 824.014 (1)  if collected from a
+railroad.
+(8) Violation of ORS 823.105 is punishable, after issuance of a  final order by the department, by
+a civil penalty of not more than $5,000 for each offense.
+(9) Violation of ORS 823.105 is a specific fine violation punishable by a fine  of not more than
+$5,000 for each offense.
+(10) Civil penalties under this section shall be imposed in the manner provided by ORS  183.745.
+SECTION 191.
+(1) Any railroad that fails to comply with an order or  subpoena issued
+pursuant to section 164 of this 2025 Act shall pay a civil penalty, for each day it so  fails, of
+not less than $50 nor more than $500.
+(2) Except where a penalty is otherwise provided by law, any railroad shall pay  a civil
+penalty of not less than $100 nor more than $10,000 for each time that the railroad:
+(a) Violates any statute regarding railroads, as appropriate,  administered by the Oregon
+Rail and Transit Department;
+(b) Does any act prohibited, or fails to perform any duty enjoined upon the railroad;
+(c) Fails to obey any lawful requirement or order made by the department; or
+(d) Fails to obey any judgment made by any court upon the application of the department.
+(3) Violation of section 168 of this 2025 Act is punishable  after issuance of a final order
+by the department, by a civil penalty of not less than $1,000 for each offense. A penalty  of
+not less than $500 nor more than $1,000 shall be  recovered from the railroad for each such
+offense when such officer, agent or  employee acted in obedience to the direction, instruction
+or request of the railroad, or any general officer thereof.
+(4) Violation of section 168 of this 2025 Act is a Class A violation.
+(5) Violation of section 177 of this 2025 Act  is a Class C misdemeanor. Any railroad that
+knowingly permits the violation of section 177 of this 2025 Act shall forfeit, upon conviction,
+not more than $1,000 for each offense.
+(6) In construing  and enforcing this section, the act, omission or failure of any officer,
+agent or other person acting for or employed by any railroad shall in  every case be deemed
+to be the act, omission or failure of such railroad. With respect to any violation of any
+statute administered by the department regarding railroads, any penalty  provision applying
+to such a violation by a railroad shall apply to such a violation by any other person.
+(7) Except as provided in ORS  824.019, and except when provided by law that a penalty,
+forfeiture or other sum  be paid to the aggrieved party, all penalties or forfeitures collected
+from persons subject to the regulatory authority of the department under ORS  chapter 824
+shall be paid into the General Fund and credited to the Motor Carrier Account  if collected
+from a motor carrier and to the Railroad Fund created  under ORS 824.014 (1) if collected
+from a railroad.
+(8) Violation of section 189 of this 2025 Act is punishable, after issuance  of a final order
+by the department, by a civil penalty of not more than $5,000 for each offense.
+(9) Violation of section 189 of this 2025 Act is a specific fine violation punishable  by a fine
+of not more than $5,000 for each offense.
+(10) Civil penalties under this section shall be imposed in  the manner provided by ORS
+183.745.
+GENERAL PROVISIONS
+SECTION 192.
+(1) The Oregon Rail and Transit Department shall work with the
+Washington State Department of  Transportation, the British Columbia Ministry of Trans-
+portation and Transit and other public bodies, as appropriate,  to document and memorialize,
+in whatever form is the  most appropriate, a shared regional approach to Cascades passenger
+rail planning, funding and communications including:
+(a) Developing a plan to  document the shared vision, goals and objectives for passenger
+rail service and freight rail service within the Cascades Rail Corridor.
+(b) Developing a plan to achieve performance goals,  manage fleet assets, share costs,
+prioritize investments, improve infrastructure and resolve interagency disputes.
+(c) Proposing funding options to  the respective legislative bodies to support the
+infrastructure improvements and operation of passenger and freight trains within the corri-
+dor.
+(d) Developing federal funding applications consistent with  the shared plans described in
+paragraphs (a) and (b) of this subsection.
+(e) Developing a stakeholder outreach program.
+(f) Overseeing operations and marketing of daily passenger rail service in the corridor.
+(2) The Oregon Rail and Transit  Department may enter into agreements with the
+Washington State Department of Transportation to coordinate shared passenger  rail service
+development plans.
+(3) As used  in this section, “public body” has the meaning given that term in ORS 174.109.
+SECTION 193.
+Before January 1  of each odd-numbered year, the Oregon Rail and Transit
+Department shall submit a report to the Joint Committee on Transportation, in the manner
+provided in ORS 192.245, about the following:
+(1) The status  of the shared regional approach and plans with the Washington State De-
+partment of Transportation and the British Columbia Ministry  of Transportation and Transit
+regarding transportation by rail within the Cascades Rail Corridor.
+(2) The performance of passenger rail service within the corridor.
+(3) The financial  status of the corridor and financial needs for passenger rail service
+within the corridor.
+SECTION 194.
+The Oregon Rail and Transit  Department may enter into agreements with
+the Washington State Department of Transportation and other  governmental entities in or-
+der to collaborate on developing shared objectives for passenger and freight rail, developing
+regional approaches to rail infrastructure improvements and enabling joint proposals to fed-
+eral and other funding sources.
+SECTION 195.
+ORS 824.410 is repealed.
+CAPTIONS
+SECTION 196. The unit captions used in this 2025 Act are provided  only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+EFFECTIVE DATE
+SECTION 197. This 2025 Act takes effect on the 91st day after the date on which the  2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 164.805, ORS 184.615, ORS 184.617, ORS 184.632, ORS 184.642, ORS 184.651, ORS 184.675, ORS 184.685, ORS 184.689, ORS 184.691, ORS 184.705, ORS 184.710, ORS 184.720, ORS 184.725, ORS 184.730, ORS 184.733, ORS 184.751, ORS 184.758, ORS 184.761, ORS 184.766, ORS 197.794, ORS 197A.505, ORS 197A.507, ORS 197A.509, ORS 197A.515, ORS 209.300, ORS 244.050, ORS 267.210, ORS 267.230, ORS 267.575, ORS 271.310, ORS 279A.050, ORS 279A.130, ORS 279C.307, ORS 279C.335, ORS 279C.345, ORS 279C.350, ORS 279C.355, ORS 279C.360, ORS 279C.390, ORS 291.407, ORS 315.593, ORS 315.595, ORS 315.597, ORS 315.599, ORS 323.455, ORS 323.457, ORS 332.427, ORS 367.067, ORS 367.070, ORS 367.084, ORS 374.020, ORS 390.308, ORS 391.120, ORS 391.125, ORS 391.130, ORS 391.140, ORS 391.150, ORS 391.605, ORS 453.392, ORS 453.635, ORS 466.080, ORS 469.607, ORS 608.310, ORS 657.665, ORS 657B.400, ORS 772.025, ORS 802.110, ORS 811.465, ORS 823.009, ORS 823.011, ORS 823.013, ORS 823.015, ORS 823.021, ORS 823.023, ORS 823.025, ORS 823.027, ORS 823.029, ORS 823.031, ORS 823.033, ORS 823.035, ORS 823.037, ORS 823.061, ORS 823.071, ORS 823.081, ORS 823.083, ORS 823.101, ORS 823.103, ORS 823.991, ORS 824.010, ORS 824.012, ORS 824.014, ORS 824.016, ORS 824.018, ORS 824.019, ORS 824.020, ORS 824.026, ORS 824.030, ORS 824.042, ORS 824.045, ORS 824.050, ORS 824.052, ORS 824.054, ORS 824.056, ORS 824.058, ORS 824.060, ORS 824.068, ORS 824.080, ORS 824.082, ORS 824.086, ORS 824.090, ORS 824.092, ORS 824.108, ORS 824.110, ORS 824.202, ORS 824.204, ORS 824.206, ORS 824.208, ORS 824.210, ORS 824.212, ORS 824.214, ORS 824.216, ORS 824.218, ORS 824.220, ORS 824.222, ORS 824.223, ORS 824.224, ORS 824.226, ORS 824.228, ORS 824.230, ORS 824.232, ORS 824.234, ORS 824.236, ORS 824.238, ORS 824.240, ORS 824.242, ORS 824.246, ORS 824.250, ORS 824.252, ORS 824.254, ORS 824.400, ORS 824.410, ORS 824.420, ORS 824.430, ORS 824.990, ORS 824.992
+- From bill text (Introduced version): ORS 113.235, ORS 153.022, ORS 164.365, ORS 164.805, ORS 171.562, ORS 171.565, ORS 174.109, ORS 174.116, ORS 179.040, ORS 183.400, ORS 183.413, ORS 183.440, ORS 183.480, ORS 183.482, ORS 183.484, ORS 183.745, ORS 184.610, ORS 184.615, ORS 184.617, ORS 184.632, ORS 184.642, ORS 184.643, ORS 184.651, ORS 184.670, ORS 184.675, ORS 184.685, ORS 184.689, ORS 184.691, ORS 184.705, ORS 184.710, ORS 184.720, ORS 184.725, ORS 184.730, ORS 184.733, ORS 184.751, ORS 184.758, ORS 184.761, ORS 184.766, ORS 184.906, ORS 190.510, ORS 192.245, ORS 192.311, ORS 197.794, ORS 197.825, ORS 197A.018, ORS 197A.210, ORS 197A.270, ORS 197A.500, ORS 197A.505, ORS 197A.507, ORS 197A.509, ORS 197A.511, ORS 197A.515, ORS 199.410, ORS 200.035, ORS 200.055, ORS 200.180, ORS 209.300, ORS 215.213, ORS 244.050, ORS 244.060, ORS 244.070, ORS 244.090, ORS 244.350, ORS 25.080, ORS 267.010, ORS 267.020, ORS 267.210, ORS 267.230, ORS 267.510, ORS 267.575, ORS 271.300, ORS 271.310, ORS 276.110, ORS 279.835, ORS 279A.015, ORS 279A.025, ORS 279A.050, ORS 279A.065, ORS 279A.120, ORS 279A.125, ORS 279A.130, ORS 279A.140, ORS 279A.145, ORS 279C.307, ORS 279C.320, ORS 279C.335, ORS 279C.345, ORS 279C.350, ORS 279C.355, ORS 279C.360, ORS 279C.390, ORS 279C.412, ORS 279C.414, ORS 279C.430, ORS 279C.800, ORS 283.110, ORS 285A.050, ORS 285B.410, ORS 285B.630, ORS 286A.100, ORS 286A.102, ORS 286A.120, ORS 291.040, ORS 291.047, ORS 291.208, ORS 291.405, ORS 291.407, ORS 292.495, ORS 293.250, ORS 293.445, ORS 314.085, ORS 314.440, ORS 314.835, ORS 315.056, ORS 315.061, ORS 315.591, ORS 315.593, ORS 315.595, ORS 315.597, ORS 315.599, ORS 315.603, ORS 316.117, ORS 319.280, ORS 319.290, ORS 319.375, ORS 319.410, ORS 319.415, ORS 319.417, ORS 319.820, ORS 319.831, ORS 320.550, ORS 323.005, ORS 323.030, ORS 323.031, ORS 323.455, ORS 323.457, ORS 323.459, ORS 329.075, ORS 329.085, ORS 329.485, ORS 332.427, ORS 336.795, ORS 336.800, ORS 336.805, ORS 336.810, ORS 336.815, ORS 352.002, ORS 352.121, ORS 353.020, ORS 367.067, ORS 367.070, ORS 367.080, ORS 367.084, ORS 367.605, ORS 367.615, ORS 367.620, ORS 374.020, ORS 374.302, ORS 390.308, ORS 391.120, ORS 391.125, ORS 391.130, ORS 391.140, ORS 391.150, ORS 391.605, ORS 40.065, ORS 40.090, ORS 401.092, ORS 407.135, ORS 407.145, ORS 413.101, ORS 426.504, ORS 427.335, ORS 430.223, ORS 430.630, ORS 431A.153, ORS 441.525, ORS 453.307, ORS 453.374, ORS 453.392, ORS 453.605, ORS 453.635, ORS 456.625, ORS 461.500, ORS 461.510, ORS 461.540, ORS 461.543, ORS 465.600, ORS 466.005, ORS 466.080, ORS 468A.205, ORS 468B.427, ORS 468B.435, ORS 469.300, ORS 469.550, ORS 469.563, ORS 469.603, ORS 469.607, ORS 479.950, ORS 608.310, ORS 657.660, ORS 657.665, ORS 657.673, ORS 657B.210, ORS 657B.400, ORS 772.020, ORS 772.025, ORS 777.005, ORS 801.041, ORS 801.042, ORS 801.237, ORS 801.460, ORS 802.110, ORS 802.120, ORS 802.320, ORS 805.240, ORS 807.040, ORS 807.150, ORS 807.170, ORS 807.370, ORS 807.410, ORS 810.170, ORS 811.460, ORS 811.465, ORS 811.590, ORS 811.595, ORS 820.100, ORS 820.110, ORS 820.120, ORS 821.060, ORS 821.100, ORS 821.160, ORS 822.009, ORS 822.700, ORS 822.705, ORS 823.009, ORS 823.011, ORS 823.013, ORS 823.015, ORS 823.021, ORS 823.023, ORS 823.025, ORS 823.027, ORS 823.029, ORS 823.031, ORS 823.033, ORS 823.035, ORS 823.037, ORS 823.051, ORS 823.061, ORS 823.071, ORS 823.073, ORS 823.075, ORS 823.081, ORS 823.083, ORS 823.101, ORS 823.103, ORS 823.105, ORS 823.991, ORS 824.010, ORS 824.012, ORS 824.014, ORS 824.016, ORS 824.018, ORS 824.019, ORS 824.020, ORS 824.022, ORS 824.026, ORS 824.030, ORS 824.042, ORS 824.045, ORS 824.050, ORS 824.052, ORS 824.054, ORS 824.056, ORS 824.058, ORS 824.060, ORS 824.062, ORS 824.064, ORS 824.068, ORS 824.080, ORS 824.082, ORS 824.084, ORS 824.086, ORS 824.088, ORS 824.090, ORS 824.092, ORS 824.102, ORS 824.106, ORS 824.108, ORS 824.110, ORS 824.200, ORS 824.202, ORS 824.204, ORS 824.206, ORS 824.208, ORS 824.210, ORS 824.212, ORS 824.214, ORS 824.216, ORS 824.218, ORS 824.220, ORS 824.222, ORS 824.223, ORS 824.224, ORS 824.226, ORS 824.228, ORS 824.230, ORS 824.232, ORS 824.234, ORS 824.236, ORS 824.238, ORS 824.240, ORS 824.242, ORS 824.246, ORS 824.250, ORS 824.252, ORS 824.254, ORS 824.300, ORS 824.304, ORS 824.306, ORS 824.400, ORS 824.410, ORS 824.420, ORS 824.430, ORS 824.990, ORS 824.992, ORS 825.005, ORS 825.326, ORS 835.017, ORS 98.302
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `d2cb8b59a7d1de595c297332d82a5474ef1aafd8f01fa8b968f953a04bebfb42` (snapshot `_meta/snapshots/measure-2025r1-sb1202-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1202/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1202> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

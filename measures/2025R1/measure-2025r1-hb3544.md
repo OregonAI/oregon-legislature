@@ -1,0 +1,2113 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3544
+title: 'HB 3544 (2025R1): Establishes uniform processes for hearing contested case proceedings relating
+  to the use of water.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3544
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3544/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 8d17ed13e425c97aec19fb789fc76c77593b0db3b492a4c5a20ec81371e00976
+snapshot_id: measure-2025r1-hb3544-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 183.310
+  - ORS 183.413
+  - ORS 183.415
+  - ORS 183.480
+  - ORS 190.003
+  - ORS 261.010
+  - ORS 390.835
+  - ORS 497.141
+  - ORS 509.585
+  - ORS 517.702
+  - ORS 517.952
+  - ORS 536.015
+  - ORS 536.031
+  - ORS 536.045
+  - ORS 536.050
+  - ORS 536.075
+  - ORS 536.295
+  - ORS 536.300
+  - ORS 536.310
+  - ORS 536.340
+  - ORS 536.410
+  - ORS 536.750
+  - ORS 537.120
+  - ORS 537.140
+  - ORS 537.143
+  - ORS 537.145
+  - ORS 537.147
+  - ORS 537.150
+  - ORS 537.153
+  - ORS 537.170
+  - ORS 537.175
+  - ORS 537.211
+  - ORS 537.220
+  - ORS 537.225
+  - ORS 537.227
+  - ORS 537.230
+  - ORS 537.248
+  - ORS 537.250
+  - ORS 537.252
+  - ORS 537.260
+  - ORS 537.289
+  - ORS 537.295
+  - ORS 537.297
+  - ORS 537.332
+  - ORS 537.341
+  - ORS 537.343
+  - ORS 537.348
+  - ORS 537.400
+  - ORS 537.409
+  - ORS 537.410
+  - ORS 537.420
+  - ORS 537.440
+  - ORS 537.445
+  - ORS 537.455
+  - ORS 537.465
+  - ORS 537.470
+  - ORS 537.485
+  - ORS 537.525
+  - ORS 537.610
+  - ORS 537.615
+  - ORS 537.620
+  - ORS 537.621
+  - ORS 537.622
+  - ORS 537.625
+  - ORS 537.627
+  - ORS 537.628
+  - ORS 537.629
+  - ORS 537.635
+  - ORS 537.730
+  - ORS 537.753
+  - ORS 537.762
+  - ORS 537.798
+  - ORS 540.505
+  - ORS 540.510
+  - ORS 540.520
+  - ORS 540.523
+  - ORS 540.524
+  - ORS 540.530
+  - ORS 540.533
+  - ORS 540.535
+  - ORS 540.537
+  - ORS 540.560
+  - ORS 540.570
+  - ORS 540.585
+  - ORS 540.610
+  - ORS 540.631
+  - ORS 540.641
+  - ORS 541.327
+  - ORS 541.329
+  - ORS 541.890
+  - ORS 541.932
+  - ORS 543.010
+  - ORS 543.017
+  - ORS 543.078
+  - ORS 543.082
+  - ORS 543.255
+  - ORS 543.260
+  - ORS 543.270
+  - ORS 543.280
+  - ORS 543.655
+  - ORS 543.660
+  - ORS 543.765
+  - ORS 543A.030
+  - ORS 543A.410
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3544
+prefix_meaning: House Bill
+catch_line: Establishes uniform processes for hearing contested case proceedings relating to the use of
+  water.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act creates a standard process for contested cases about the use of water.\
+  \ (Flesch Readability Score: 65.7). \n\tEstablishes uniform processes for hearing contested case proceedings\
+  \ relating to the use of water."
+relating_to: Relating to water.
+relating_to_full: Relating to water.
+at_the_request_of: null
+lc_number: 3657
+measure_created_date: '2025-02-07T14:00:47'
+measure_modified_date: '2025-08-13T12:44:25'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 139145
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 183.310
+  - ORS 183.413
+  - ORS 183.415
+  - ORS 183.480
+  - ORS 190.003
+  - ORS 261.010
+  - ORS 390.835
+  - ORS 497.141
+  - ORS 509.585
+  - ORS 517.702
+  - ORS 517.952
+  - ORS 536.015
+  - ORS 536.031
+  - ORS 536.045
+  - ORS 536.050
+  - ORS 536.075
+  - ORS 536.295
+  - ORS 536.300
+  - ORS 536.310
+  - ORS 536.340
+  - ORS 536.410
+  - ORS 536.750
+  - ORS 537.120
+  - ORS 537.140
+  - ORS 537.143
+  - ORS 537.145
+  - ORS 537.147
+  - ORS 537.150
+  - ORS 537.153
+  - ORS 537.170
+  - ORS 537.175
+  - ORS 537.211
+  - ORS 537.220
+  - ORS 537.225
+  - ORS 537.227
+  - ORS 537.230
+  - ORS 537.248
+  - ORS 537.250
+  - ORS 537.252
+  - ORS 537.260
+  - ORS 537.289
+  - ORS 537.295
+  - ORS 537.297
+  - ORS 537.332
+  - ORS 537.341
+  - ORS 537.343
+  - ORS 537.348
+  - ORS 537.400
+  - ORS 537.409
+  - ORS 537.410
+  - ORS 537.420
+  - ORS 537.440
+  - ORS 537.445
+  - ORS 537.455
+  - ORS 537.465
+  - ORS 537.470
+  - ORS 537.485
+  - ORS 537.525
+  - ORS 537.610
+  - ORS 537.615
+  - ORS 537.620
+  - ORS 537.621
+  - ORS 537.622
+  - ORS 537.625
+  - ORS 537.627
+  - ORS 537.628
+  - ORS 537.629
+  - ORS 537.635
+  - ORS 537.730
+  - ORS 537.753
+  - ORS 537.762
+  - ORS 537.798
+  - ORS 540.505
+  - ORS 540.510
+  - ORS 540.520
+  - ORS 540.523
+  - ORS 540.524
+  - ORS 540.530
+  - ORS 540.533
+  - ORS 540.535
+  - ORS 540.537
+  - ORS 540.560
+  - ORS 540.570
+  - ORS 540.585
+  - ORS 540.610
+  - ORS 540.631
+  - ORS 540.641
+  - ORS 541.327
+  - ORS 541.329
+  - ORS 541.890
+  - ORS 541.932
+  - ORS 543.010
+  - ORS 543.017
+  - ORS 543.078
+  - ORS 543.082
+  - ORS 543.255
+  - ORS 543.260
+  - ORS 543.270
+  - ORS 543.280
+  - ORS 543.655
+  - ORS 543.660
+  - ORS 543.765
+  - ORS 543A.030
+  - ORS 543A.410
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3544>.
+
+# HB 3544 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3544, 2025 Regular Session (2025R1)
+- **LC number:** 3657
+- **Created:** 2025-02-07T14:00:47
+- **Metadata last modified (upstream):** 2025-08-13T12:44:25
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 139145 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3544/Enrolled>.
+
+## Summary
+
+**Catchline:** Establishes uniform processes for hearing contested case proceedings relating to the use of water.
+
+**Relating to:** Relating to water.
+
+Digest: The Act creates a standard process for contested cases about the use of water. (Flesch Readability Score: 65.7). 
+ Establishes uniform processes for hearing contested case proceedings relating to the use of water.
+
+**RelatingToFull (verbatim upstream field):** Relating to water.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 3544
+Sponsored by Representatives HELM, OWENS; Representative LEVY E
+CHAPTER .................................................
+AN ACT
+Relating to water; creating new provisions; amending ORS 536.050, 536.750,  537.140, 537.147, 537.153,
+537.170, 537.175, 537.225, 537.227, 537.295, 537.297, 537.343, 537.409,  537.420, 537.445, 537.470,
+537.621, 537.622, 537.625, 537.628, 537.629, 540.520, 540.524, 540.537, 540.560, 540.641, 543.255 and
+543.765 and sections 30, 33a and 48, chapter 282, Oregon Laws 2025 (Enrolled House Bill 3342);
+and repealing  sections 5, 32, 33 and 39, chapter 282, Oregon Laws 2025 (Enrolled House Bill
+3342).
+Be It Enacted by the People of the State of Oregon:
+UNIFORM PROCESS FOR CONTESTED CASES
+SECTION 1.
+Sections 2 and 3 of this 2025 Act are added  to and made a part of ORS
+chapter 536.
+SECTION 2. (1) As used in this section and section 3  of this 2025 Act, “contested case”
+has the meaning given that term in ORS 183.310.
+(2) This section and section 3 of this 2025 Act and rules adopted thereunder apply to:
+(a) A contested case proceeding under a provision of ORS chapter 537  or 540 that refer-
+ences this section.
+(b) A contested case proceeding on an application related to the use of water  under a
+provision of ORS chapter 537, 540 or 541 in which the contested case proceeding  is provided
+for in rule or order and the rule or order refers to this section.
+(3) The Water Resources Commission and the Office of  Administrative Hearings shall
+establish a  uniform process for hearing contested cases that is consistent with this section
+and with ORS chapter 183. The contested case proceeding must be conducted in accordance
+with applicable provisions of ORS chapter 183 that govern contested cases,  except as other-
+wise provided in this section and section 3 of this 2025 Act and administrative  rules adopted
+under this section and section 3 of this 2025 Act, or as specified in ORS  chapters 537, 540 and
+541.
+(4) The Water Resources  Department, in consultation with the Office of Administrative
+Hearings, shall establish one or more  default hearing schedules that govern contested case
+hearings and provide that the process, from a referral for a hearing to a completion of the
+hearing, must  be completed in not more than 180 days, except as provided in subsection (5)
+of this section. The default  schedule must include deadlines for discovery requests and re-
+sponses and motions to compel discovery and may include other deadlines.
+Enrolled House Bill 3544 (HB 3544-C) Page 1
+(5) The Office of Administrative Hearings may allow an  extension of the hearing schedule
+only under the following circumstances:
+(a) The department, after consulting with the parties, requests a different  schedule for
+a particular contested case;
+(b) The chief administrative law judge, upon  referral, determines that adhering to the
+default schedule is not feasible in a particular contested case; or
+(c) The administrative law judge assigned to the case  determines that modifying the de-
+fault schedule for a particular contested case serves the  public interest, is necessary to
+provide due process or is in the interest of justice.
+(6) An administrative law  judge shall, to the greatest extent practicable, give preference
+to testimony being provided orally rather than in writing.
+(7) The administrative law judge shall determine the venue for conducting the  hearing,
+subject to the approval of the Water Resources Department, and shall  give preference to
+conducting a hearing by a remote method.
+(8) The department,  after consultation with the parties, may request that the Office of
+Administrative Hearings authorize  the assignment of a settlement administrative law judge.
+If the office assigns a settlement administrative law judge to a case,  the parties have 60 days
+after the date of the referral to reach a settlement of the  case before continuing to a hear-
+ing. If the department refers the case for review with a settlement  administrative law judge
+and the case  does not resolve within 60 days after the date of the referral, the case proceeds
+to a  contested case hearing and the contested case hearing must be completed within 180
+days after the end of the 60-day period, except as provided in subsection (5) of this section.
+(9) The commission shall establish standard timelines for the department to rule  on a
+request for party status.
+(10) The commission may adopt rules necessary to implement this section.
+SECTION 3.
+(1) To initiate a contested case proceeding that is subject to this  section and
+section 2 of this 2025 Act:
+(a) Any person may submit a protest against a proposed final order.
+(b) Unless a timeline is otherwise specified  under ORS chapter 537, 540 or 541, the protest
+must be submitted within 45 days after publication of the  notice of the proposed final order
+in a weekly public notice of the Water Resources  Department or, if weekly public notice is
+not required, within 45 days after issuance of notice of the proposed final order.
+(c) The protest must:
+(A) Be in writing;
+(B) Include the name, address and telephone number of the protestant;
+(C) Include a description of the protestant’s interest in the proposed  final order and, if
+the protestant claims to represent the public interest, a precise statement of the public in-
+terest represented;
+(D) Include a detailed  description of how the action proposed in the proposed final order
+would impair or be detrimental to the protestant’s interest;
+(E) Raise an issue with sufficient specificity to  allow response to the issue, as described
+in subsection (3)(b) of this section;
+(F) Identify any citation of legal authority supporting the protest, if known; and
+(G) Include the protest fee required under ORS 536.050.
+(2) If  a protest is submitted as described in subsection (5) of this section, within 30 days
+after the deadline for filing a protest:
+(a) Any person who supports the proposed  final order may file a request for party status
+for the purpose of  participating in any contested case proceeding on the proposed final order
+or for judicial review of a final order resulting from the proposed final order.
+(b) The request for party status must:
+(A) Be in writing.
+(B) Meet all requirements established in rule by the Water Resources Commission.
+Enrolled House Bill 3544 (HB 3544-C) Page 2
+(C) Include the fees described in ORS 536.050 (1)(n) and (o).
+(3) In a contested case proceeding under this section:
+(a) A hearing need not occur if:
+(A) All issues in the contested case are resolved as part of a settlement;
+(B) The protest is withdrawn; or
+(C) The protestant defaults.
+(b) A  protest must raise an issue with sufficient specificity to allow response to the issue.
+To raise an issue with sufficient specificity, the protest must:
+(A) Identify the recommended findings of fact, conclusions  of law or conditions of ap-
+proval to which the protestant objects; and
+(B) Explain how the issues raised in the protest  are within the jurisdiction of the de-
+partment.
+(c) Not later than  the end of the protest period, each person that submits a protest shall
+raise all reasonably ascertainable issues and  submit all reasonably available arguments that
+support the person’s position.
+(d) A failure to raise a reasonably ascertainable issue in a  protest or a failure to provide
+sufficient specificity to afford the department an opportunity to respond to  the issue pre-
+cludes judicial review of that issue.
+(4) If no protest on a  proposed final order that is subject to this section and section 2
+of this 2025 Act is timely received, as a matter of  law, the proposed final order shall become
+a final order on the date that is 33 days after the close of the time period for submitting  a
+protest, with no further action required by the department.
+(5) Notwithstanding subsection (4) of this section,  not more than 33 days after the close
+of the time period for submitting a protest, the department  may withdraw a proposed final
+order for reconsideration and issuance of a superseding proposed final order.
+(6) The department shall refund the fees described in ORS 536.050 (1)(o) if party status
+is denied.
+(7) The Water Resources Commission  may adopt rules necessary to implement this sec-
+tion.
+SECTION 3a.
+ If House Bill 3342 becomes law, section 3 of this 2025 Act is amended to read:
+Sec. 3.  (1) To initiate a contested case proceeding that is  subject to this section and section 2
+of this 2025 Act:
+(a) Any person may submit a protest against a proposed final order.
+(b) Unless a timeline  is otherwise specified under ORS chapter 537, 540 or 541, the protest must
+be submitted within 45 days after publication  of the notice of the proposed final order in a weekly
+public notice of the Water Resources Department or, if weekly public notice is  not required, within
+45 days after issuance of notice of the proposed final order.
+(c) The protest must:
+(A) Be in writing;
+(B) Include the name, address and telephone number of the protestant;
+(C) Include a description of the protestant’s interest in the  proposed final order and, if the
+protestant claims to represent the public interest, a precise statement of the public  interest repres-
+ented;
+(D) Include a detailed description of how the action proposed in the proposed  final order would
+impair or be detrimental to the protestant’s interest;
+(E) Raise an issue with sufficient specificity  to allow response to the issue, as described in
+subsection (3)(b) of this section;
+(F) Identify any citation of legal authority supporting the protest, if known; and
+(G) Include the protest fee required under ORS 536.050.
+(2) If a protest is submitted [ as described in subsection (5) of  this section ], within 30 days after
+the deadline for filing a protest:
+Enrolled House Bill 3544 (HB 3544-C) Page 3
+(a) Any person  who supports the proposed final order may file a request for party status for the
+purpose of participating in any contested case proceeding on the proposed final order or for judicial
+review of a final order resulting from the proposed final order.
+(b) The request for party status must:
+(A) Be in writing.
+(B) Meet all requirements established in rule by the Water Resources Commission.
+(C) Include the fees described in ORS 536.050 (1)(n) and (o).
+(3) In a contested case proceeding under this section:
+(a) A hearing need not occur if:
+(A) All issues in the contested case are resolved as part of a settlement;
+(B) The protest is withdrawn; or
+(C) The protestant defaults.
+(b) A protest must raise an issue with sufficient specificity to allow response to  the issue. To
+raise an issue with sufficient specificity, the protest must:
+(A) Identify the  recommended findings of fact, conclusions of law or conditions of approval to
+which the protestant objects; and
+(B) Explain how the issues raised in the protest are within the jurisdiction of the department.
+(c) Not later than the end of the protest period, each person that  submits a protest shall raise
+all reasonably  ascertainable issues and submit all reasonably available arguments that support the
+person’s position.
+(d) A failure to raise a  reasonably ascertainable issue in a protest or a failure to provide suffi-
+cient specificity to afford the department an opportunity to respond to the issue precludes judicial
+review of that issue.
+(4) If no protest on a proposed final order that is  subject to this section and section 2 of this
+2025 Act is timely received, as a matter of law, the proposed final order shall become a final  order
+on the date that is 33 days after the close of the  time period for submitting a protest, with no fur-
+ther action required by the department.
+(5) Notwithstanding subsection (4) of  this section, not more than 33 days after the close of the
+time period for submitting a protest, the  department may withdraw a proposed final order for re-
+consideration and issuance of a superseding proposed final order.
+(6) The department shall refund the fees described in  ORS 536.050 (1)(o) if party status is denied.
+(7) The Water Resources Commission may adopt rules necessary to implement this section.
+CONTESTED CASES
+SECTION 4.
+ ORS 537.140 is amended to read:
+537.140. (1)(a) Each application for a permit to appropriate water shall be made to  the Water
+Resources Department on a form prescribed by the department and shall set forth:
+(A) The name and mailing address of the applicant;
+(B) The source of water supply including the name and mailing  address of any owner of the land
+upon which the source of the water supply is located;
+(C) The nature and amount of the proposed use;
+(D) The location and description  of the proposed ditch, canal or other work, including the name
+and mailing address of the owner of any  lands that are not owned by the applicant and that are
+crossed by the proposed ditch, canal or other  work even if the applicant has obtained written au-
+thorization or an easement from the owner;
+(E) A statement declaring whether the  applicant has written authorization or an easement per-
+mitting access to nonowned land crossed by the proposed ditch, canal or other work;
+(F) The time within which it is proposed to begin construction;
+(G) The time required for completion of the construction;
+(H) The time for the complete application of the water to the proposed use; and
+Enrolled House Bill 3544 (HB 3544-C) Page 4
+(I) Any other information required in the application form that is necessary to evaluate the ap-
+plication as established by statute and rule.
+(b) If  for agricultural purposes, the application shall give the legal subdivisions of the land and
+the acreage to be irrigated, as near as may be.
+(c) Except as provided in subsection (2) of this section, if for power  purposes, the application
+shall give the nature of the works by means of  which the power is to be developed, the head and
+amount of water to be utilized, and the uses to which the power is to be applied.
+(d) If for construction of a reservoir,  the application shall give the height of dam, the capacity
+of the reservoir, and the uses to be made of the impounded waters.
+(e) If for municipal water supply, the application shall give  the present population to be served,
+and, as near as may be, the future requirements of the city.
+(f) If for mining purposes, the application  shall give the nature of the mines to be served, and
+the methods of supplying and utilizing the water.
+(2) Any  person who has applied to the Federal Energy Regulatory Commission for a preliminary
+permit or an exemption from licensing shall, at the same time, apply to  the Water Resources De-
+partment for a  permit to appropriate water for a hydroelectric project. An applicant for a permit
+to appropriate water for a new hydroelectric  project shall submit to the department a complete copy
+of any  application for the project filed with the Federal Energy Regulatory Commission or other
+federal agency. If the copy of the federal application is  filed with the department at the same time
+it is filed with the federal agency, at  the department’s discretion such copy may fulfill the require-
+ments for an application under subsection (1) of this section.
+(3) Each application shall be accompanied by any map or drawing and all other data  concerning
+the proposed project  and the applicant’s ability and intention to construct the project, as may be
+prescribed by the Water Resources Commission. The accompanying  data shall be considered a part
+of the application.
+(4) The map or drawing required to accompany  the application shall be of sufficient quality and
+scale to establish the location of the proposed point of diversion and the proposed place of use
+identified by tax lot, township, range, section and nearest quarter-quarter section along with a no-
+tation of the acreage of the proposed place  of use, if appropriate. In addition, the department shall
+accept locational coordinate information,  including latitude and longitude as established by a global
+positioning system. If the application is for a water right for a municipal use, the map  need not
+identify the proposed place of use by tax lot.
+(5) Each application for a  permit to appropriate water shall be accompanied by the examination
+fee set forth in ORS 536.050 (1).
+(6) If the  proposed use of the water is for operation of a mining operation as defined in ORS
+517.952, the applicant shall provide the information required under this section as part of the  con-
+solidated application under ORS 517.952 to 517.989.
+[(7) Notwithstanding any provision of ORS chapter 183,  an application for a permit to appropriate
+water shall be processed in the manner set forth in ORS  537.120 to 537.360. Nothing in ORS chapter
+183 shall be construed to allow additional persons to participate in the  process. To the extent that any
+provision in ORS chapter 183 conflicts  with a provision set forth in ORS 537.120 to 537.360, the pro-
+visions in ORS 537.120 to 537.360 shall control. ]
+SECTION 5.
+ ORS 537.153 is amended to read:
+537.153. (1) Within 60 days after the Water Resources Department proceeds with the application
+under ORS  537.150 (5), the department shall complete application review and issue a proposed final
+order approving or denying the application  or approving the application with modifications or con-
+ditions. The  department may request the applicant to provide additional information needed to
+complete the review. If the department  requests additional information, the request shall be specific
+and shall be sent to the applicant by registered mail. The department shall specify a date  by which
+the information must be returned, which shall be not less than 10 days after the department mails
+the request to the applicant. If the department does not receive the information or  a request for a
+time extension under ORS 537.175 by the date specified  in the request, the department may reject
+Enrolled House Bill 3544 (HB 3544-C) Page 5
+the application and may refund fees in accordance  with ORS 536.050 (4)(a). The time period specified
+by the department in a request for additional information shall allow the department  to comply with
+the 60-day time limit established by this subsection.
+(2) In reviewing the application under subsection (1) of this section, the  department shall pre-
+sume that a proposed use will not impair or be detrimental to the public interest  if the proposed
+use is allowed in the applicable basin program established pursuant to  ORS 536.300 and 536.340 or
+given a preference under ORS 536.310 (12), if water is available, if the proposed use  will not injure
+other water rights and if the proposed use complies with  rules of the Water Resources Commission.
+This shall be  a rebuttable presumption and may be overcome by a preponderance of evidence that
+either:
+(a) One or more of the criteria for establishing the presumption are not satisfied; or
+(b) The proposed use will impair or be detrimental to the public interest  as demonstrated in
+comments, in  a protest under [ subsection (6) of this ] section 3 of this 2025 Act  or in a finding of the
+department that shows:
+(A) The specific public interest under ORS 537.170 [ (8)] (5)  that would be  impaired or detri-
+mentally affected; and
+(B) Specifically how the identified public interest would be impaired or detrimentally affected.
+(3) The proposed final order shall cite findings of fact and conclusions  of law and shall include
+but need not be limited to:
+(a) Confirmation or modification of the preliminary determinations made in the initial review;
+(b) A brief statement that explains the  criteria considered relevant to the decision, including the
+applicable basin program and the compatibility of the proposed use with applicable land use plans;
+(c) An assessment of water availability and the amount of water necessary for the  proposed use;
+(d) An assessment of whether the proposed use would result in injury to existing water rights;
+(e) An assessment of whether the proposed use would impair or be detrimental to the public
+interest as provided in ORS 537.170;
+(f) A draft permit, including any proposed conditions, or a recommendation to  deny the appli-
+cation;
+(g) Whether the rebuttable presumption that the proposed use will not  impair or be detrimental
+to the public interest has been established; and
+(h) The date by which protests to the proposed final order must be received  by the department.
+(4) The department shall mail copies of  the proposed final order to the applicant and to persons
+who have requested copies and paid the fee required under ORS  536.050 (1)(p). The department also
+shall publish notice of  the proposed final order by publication in the weekly notice published by the
+department.
+[(5) Any person who  supports a proposed final order may request standing for purposes of partic-
+ipating in any contested case proceeding on the proposed final order or for judicial  review of a final
+order. A request for standing shall  be in writing and shall be accompanied by the fee established under
+ORS 536.050 (1)(n). ]
+[(6) Any person may submit a protest against  a proposed final order. A protest shall be in writing
+and shall include: ]
+[(a) The name, address and telephone number of the protestant; ]
+[(b) A description  of the protestant’s interest in the proposed final order and, if the protestant
+claims to represent the public interest, a precise statement of the public interest represented; ]
+[(c) A detailed description of how the action proposed in  the proposed final order would impair
+or be detrimental to the protestant’s interest; ]
+[(d) A detailed description of how the  proposed final order is in error or deficient and how to
+correct the alleged error or deficiency; ]
+[(e) Any citation of legal authority supporting the protest, if known; and ]
+[(f) The protest fee required under ORS 536.050. ]
+[(7) Requests for  standing and protests on the proposed final order shall be submitted within 45
+days after publication of the notice of the proposed final order in  the weekly notice published by the
+Enrolled House Bill 3544 (HB 3544-C) Page 6
+department. Any person who asks to receive a copy of the department’s final order shall submit to  the
+department the fee required under ORS 536.050 (1)(p), unless the  person has previously requested
+copies and paid the required fee under ORS 537.150  (7), the person is a protestant and has paid the
+fee required under ORS 536.050 (1)(j) or the person has standing and has paid the fee under ORS
+536.050 (1)(n).]
+(5) A person who asks to receive a copy of the department’s final order shall submit  to
+the department the fee required under ORS 536.050  (1)(p), unless the person has previously
+requested copies and has paid  the fee required under ORS 537.150 (7), the person is a
+protestant and has paid  the fee required under ORS 536.050 (1)(j) or the person has party
+status and has paid the fees required under ORS 536.050 (1)(n) and (o).
+(6) The provisions  of sections 2 and 3 of this 2025 Act, and rules adopted thereunder,
+apply to a contested case proceeding on a proposed final order issued under this section.
+[(8)] (7)  Within 60 days after the close of the period  for receiving protests,  if a protest was
+timely submitted,  the Water Resources Director shall:
+(a) Issue  a final order as provided under ORS 537.170 [ (6); or ] (1) or (2), if the applicant has
+not filed a protest and  the director finds that there are no significant issues related to the
+proposed use of water;
+(b) Schedule a contested case hearing if a protest has been submitted ; or  [ and if: ]
+(c) Provide any person who timely submitted a protest or request for  party status with
+an estimate of the timing of referring the contested case to the Office of Administrative
+Hearings for a hearing and notice that parties may provide settlement proposals.
+[(A) Upon review of the issues, the director finds  that there are significant disputes related to the
+proposed use of water; or ]
+[(B) Within 30 days after the close  of the period for submitting protests, the applicant requests a
+contested case hearing. ]
+SECTION 5a.
+If House Bill 3342 becomes law, section 32, chapter 282, Oregon Laws 2025
+(Enrolled House Bill 3342) (amending ORS 537.153), is repealed and  ORS 537.153, as amended
+by section 5 of this 2025 Act, is amended to read:
+537.153. (1) Within 60 days after the Water Resources Department proceeds with the application
+under ORS  537.150 (5) (c), the department shall complete application review and issue a proposed
+final order approving  or denying the application or approving the application with modifications or
+conditions. The department  may request the applicant to provide additional information needed to
+complete the review. If the department  requests additional information, the request shall be specific
+and shall be sent to the applicant by registered mail. The department shall specify a date  by which
+the information must be returned, which shall be not less than 10 days after the department mails
+the request to the applicant.  If the department does not receive the information or a request for a
+time extension under ORS 537.175 by the date  specified in the request, the department may reject
+the application and may refund fees in accordance  with ORS 536.050 (4)(a). The time period specified
+by the department in a request for additional information shall allow the department  to comply with
+the 60-day time limit established by this subsection.
+(2) In reviewing the  application under subsection (1) of this section, the department shall pre-
+sume that a proposed  use will not impair or be detrimental to the public interest if the proposed
+use is allowed in the applicable  basin program established pursuant to ORS 536.300 and 536.340 or
+given a preference under  ORS 536.310 (12), if water is available, if the proposed use will not injure
+other water rights and if the proposed use complies with  rules of the Water Resources Commission.
+This shall be a rebuttable presumption and may be overcome by a preponderance of  evidence that
+either:
+(a) One or more of the criteria for establishing the presumption are not satisfied; or
+(b) The proposed use  will impair or be detrimental to the public interest as demonstrated in
+comments, in a protest under section 3  of this 2025 Act or in a finding of the department that shows:
+(A) The  specific public interest under ORS 537.170 (5) that would be impaired or detrimentally
+affected;  and
+Enrolled House Bill 3544 (HB 3544-C) Page 7
+(B) Specifically how the identified public interest would be impaired or detrimentally affected.
+(3) The proposed final order shall  cite findings of fact and conclusions of law and shall include
+but need not be limited to:
+(a) Confirmation or modification of the preliminary determinations made in the initial review;
+(b) A brief statement that explains the  criteria considered relevant to the decision, including the
+applicable basin program and the compatibility of the proposed use with applicable land use plans;
+(c) An assessment of water availability and the amount of water necessary for the  proposed use;
+(d) An assessment of whether the proposed use would result in injury to existing water rights;
+(e) An assessment of whether the proposed use would impair or be detrimental to the public
+interest as provided in ORS 537.170;
+(f) A draft permit,  including any proposed conditions, or a recommendation to deny the appli-
+cation;
+(g) Whether the rebuttable presumption that the proposed use will not  impair or be detrimental
+to the public interest has been established; and
+(h) The date by which protests to the proposed final order must be received  by the department.
+(4) The department shall mail copies of  the proposed final order to the applicant and to persons
+who have requested copies and paid the fee required under ORS  536.050 (1)(p). The department also
+shall publish notice  of the proposed final order by publication in the weekly public notice published
+by the department.
+(5) A person who asks to receive a copy of the department’s final  order shall submit to the de-
+partment the  fee required under ORS 536.050 (1)(p), unless the person has previously requested
+copies and has paid the fee required under ORS 537.150 (7), the person  is a protestant and has paid
+the fee required under ORS 536.050 (1)(j)  or the person has party status and has paid the fees re-
+quired under ORS 536.050 (1)(n) and (o).
+(6) The provisions of sections 2 and 3 of this 2025 Act, and rules adopted thereunder,  apply to
+a contested case proceeding on a proposed final order issued under this section.
+(7) Within 60  days after the close of the period for receiving protests, if a protest was timely
+submitted, the Water Resources Director shall:
+(a) Issue a final order as provided under  ORS 537.170 (1) or (2), if the applicant has not filed a
+protest and the director finds that there are no significant issues related to the proposed  use of
+water;
+(b) Schedule a contested case hearing if a protest has been submitted; or
+(c) Provide any person who timely  submitted a protest or request for party status with an esti-
+mate of the timing of referring the contested case  to the Office of Administrative Hearings for a
+hearing and notice that parties may provide settlement proposals.
+SECTION 6.
+ ORS 537.170 is amended to read:
+537.170. [(1) Within 45  days after the Water Resources Director schedules a contested case hearing
+under ORS 537.153 (8), the Water Resources Department shall  hold the contested case hearing. The
+issues to be considered in the contested  case hearing shall be limited to issues identified by the ad-
+ministrative law judge. ]
+[(2) Notwithstanding the provisions of ORS  chapter 183 pertaining to contested case proceedings,
+the parties to any contested case hearing initiated under this section shall be limited to: ]
+[(a) The applicant; ]
+[(b) Any person who timely filed a protest; and ]
+[(c) Any person  who timely filed a request for standing under ORS 537.153 (5) and who requests
+to intervene in the contested case hearing prior to the start of the proceeding. ]
+[(3) The contested case proceeding shall be conducted in  accordance with the applicable provisions
+of ORS chapter 183 except: ]
+[(a) As provided in subsections (1) and (2) of this section; and ]
+[(b) An interlocutory appeal under ORS 183.480 (3) shall not be allowed. ]
+Enrolled House Bill 3544 (HB 3544-C) Page 8
+[(4) If applicable, an  application to appropriate water for the generation of electricity submitted
+under ORS 537.140 shall be included in the consolidated review and hearings process  under ORS
+543.255.]
+[(5) Each person  submitting a protest or a request for standing shall raise all reasonably
+ascertainable issues and submit all reasonably available arguments supporting the person’s  position
+by the close of the protest period. Failure to raise a reasonably ascertainable issue in a protest or in
+a hearing or failure to provide sufficient specificity to afford the Water Resources  Department an op-
+portunity to respond to the issue precludes judicial review based on that issue. ]
+[(6)] (1)  If  a protest of a proposed final order  issued under ORS 537.153 is filed under
+section 3 of this 2025 Act and , after the contested case  hearing or, if a hearing is not held, after
+the close of the period allowed to file a protest, the Water Resources  Director determines that  the
+proposed use does not comply with the standards set forth in ORS 543.017 or  rules adopted by the
+Water Resources Commission under ORS 543.017 or would otherwise impair  or be detrimental to the
+public interest, the director shall issue a final order rejecting the application or  modifying the pro-
+posed final order to conform to the public interest.
+(2) If  a protest of a proposed final order issued under ORS 537.153 is filed under section
+3 of this 2025 Act and , after the contested case  hearing or, if a hearing is not held, after the close
+of the period allowed to file a protest, the director determines that the proposed use  would not im-
+pair or be detrimental to the public interest, the director shall issue a final order  approving the
+application or otherwise modifying the proposed final order.
+(3) A  final order may set forth any of the provisions or restrictions to be included in the permit
+concerning the use, control and management of the water to be appropriated  for the project, in-
+cluding, but not limited to, a specification of reservoir  operation and minimum releases to protect
+the public interest.
+(4) An interlocutory appeal under ORS 183.480 (3) is not allowed in a contested case  pro-
+ceeding under this section.
+[(7) If a contested case hearing is not held: ]
+[(a) Where the final order modifies the proposed final order, the applicant may request and  the
+department shall schedule a contested case hearing as provided under subsection (3) of this  section by
+submitting the information required for a protest under ORS 537.153  (6) within 14 days after the di-
+rector issues the final order. However, the issues on which a contested  case hearing may be requested
+and conducted under this paragraph shall be  limited to issues based on the modifications to the pro-
+posed final order. ]
+[(b) Only the applicant or a protestant may appeal the provisions of the final order in  the manner
+established in ORS chapter 183 for appeal of order other than contested cases. ]
+(5) If a contested case hearing is not held under ORS 537.153 (7)(a) where  the final order
+modifies the proposed final order, the applicant, a person granted party status or  a
+protestant may submit a  protest under section 2 or 3 of this 2025 Act within 14 days after
+the director issues the final order, except that the issues on which a  contested case hearing
+may be requested and conducted under this  subsection are limited to issues based on the
+modifications to the  proposed final order. The department must hold a hearing if the
+protestant is an applicant.
+(6) If a protest of a proposed final order issued under ORS 537.153 is  filed under section
+3 of this 2025 Act by a person other than the applicant and, as described in ORS 537.153 (7)(a),
+the director issues a final order without holding a contested case hearing, a  protestant may
+appeal the provisions of the  final order in the manner established in ORS chapter 183 for
+appeal of orders in other than contested cases.
+[(8)] (7)  If the presumption of public interest under ORS 537.153 (2) is overcome, then before
+issuing a final order, the director or the commission,  if applicable, shall make the final determi-
+nation of whether the proposed use or  the proposed use as modified in the proposed final order
+would impair or be detrimental to the public interest by considering:
+Enrolled House Bill 3544 (HB 3544-C) Page 9
+(a) Conserving the highest use of  the water for all purposes, including irrigation, domestic use,
+municipal water supply, power  development, public recreation, protection of commercial and game
+fishing and wildlife, fire protection,  mining, industrial purposes, navigation, scenic attraction or any
+other beneficial use to which the water may be applied for which it may have a special value to the
+public.
+(b) The maximum economic development of the waters involved.
+(c) The control of the  waters of this state for all beneficial purposes, including drainage, sani-
+tation and flood control.
+(d) The amount of waters available for appropriation for beneficial use.
+(e) The prevention of wasteful,  uneconomic, impracticable or unreasonable use of the waters
+involved.
+(f) All vested and  inchoate rights to the waters of this state or to the use of the waters of this
+state, and the means necessary to protect such rights.
+(g) The state  water resources policy formulated under ORS 536.295 to 536.350 and 537.505 to
+537.534.
+[(9)] (8) Upon issuing a final order, the director shall notify the applicant and each person who
+submitted written comments or protests or otherwise requested notice of the final order  and send
+a copy of the final order to any person who requested a copy and paid the fee required  under ORS
+536.050 (1)(p).
+SECTION 7.
+ ORS 537.175 is amended to read:
+537.175. (1) Except as provided in subsection (2) of this section, the Water Resources Department
+shall issue a final order or schedule a contested case hearing on an application  for a water right
+referred  to  in ORS 537.140 or 537.400 within 180 days after the department proceeds with the ap-
+plication under ORS 537.150 (5).
+(2) At the request of the  applicant, the department may extend the 180-day period set forth in
+subsection (1) of this section for a reasonable period of time.
+[(3) If a contested case hearing is held, the department shall issue a final order: ]
+[(a) Within 270 days after scheduling the  hearing for a contested case proceeding that involves
+three or more parties not including the department; and ]
+[(b) Within 180 days after scheduling the hearing for all other contested case proceedings. ]
+[(4)] (3)  If the applicant does not request an extension under subsection (2) of this section  and
+the department fails to issue a proposed final order or schedule a contested case hearing on an  ap-
+plication for a water right within 180 days after the department  proceeds with the application under
+ORS 537.150 (5), the applicant may apply  in the Circuit Court for Marion County for a writ of
+mandamus to compel the department to issue a final order or schedule a contested case hearing on
+an application for  a water right. If the application is for an out-of-stream use, the writ of mandamus
+shall compel the department to  issue a water right permit, unless the department shows by affidavit
+that to issue a permit may result in harm to an existing water right holder.
+SECTION 8.
+ ORS 537.225 is amended to read:
+537.225. (1) Notwithstanding ORS 537.220 and 537.635, except as provided in  subsection [ (6)] (7)
+of this section, a record landowner holding a water  right permit for an irrigation, nursery, temper-
+ature control, stock watering or agricultural water use that has a  subsequent completion date may
+apply for assignment of all or part  of the water right permit and for the issuance of a replacement
+water right permit that reflects that assignment. To  obtain the assignment and replacement water
+right permits, the  applicant shall submit an application to the Water Resources Department that
+includes, at a minimum:
+(a) A map prepared by a certified water right examiner and meeting department  mapping
+standards that identifies  the authorized place of use, rate of use, any applicable acre-feet allowances,
+tax lots and points of diversion or appropriation;
+(b) A copy of the deed showing that the applicant is an owner of the land;
+(c) An affidavit certifying that the water right has not been conveyed or withheld;
+Enrolled House Bill 3544 (HB 3544-C) Page 10
+(d) A statement by the applicant that the most  recent water use under the permit, if any, has
+been exercised within relevant terms and conditions of the permit; and
+(e)(A) Agreements to the assignment  and to the request for the issuance of replacement water
+right permits submitted jointly or individually by all owners of the land  to which the water right is
+appurtenant; or
+(B) An assignment of interest and request for the issuance of  replacement water right permits
+submitted by one or more of the owners  of land to which the water right is appurtenant and infor-
+mation identifying  the names, addresses and proportionate interests for those owners not submitting
+the assignment and request.
+(2) In addition to the application contents described in subsection (1) of  this section, the de-
+partment may require that the applicant provide  any additional information the department deems
+appropriate to determining whether to approve the application.
+(3) Upon receiving an  application under subsection (1) of this section, the department shall de-
+termine and notify the applicant of the fees payable under ORS 536.050 for processing the  applica-
+tion. Upon receipt of the appropriate processing fees, the department shall:
+(a) Verify the address of  each owner of the lands identified on the map contained in the appli-
+cation;
+(b) Verify that the deed supplied with the application matches  the property proposed for as-
+signment;
+(c) Prepare a statement that the proposed replacement water right permits will not result  in the
+enlargement of the original water  right, a proposed final order and drafts of replacement water right
+permits;
+(d) No later than one week prior to the date of the weekly notice described in paragraph (e)  of
+this subsection, mail  copies of the application, the map, the existing water right permit, the proposed
+final order and  the draft replacement water right permits to each owner of land to which the ex-
+isting water right is appurtenant; and
+(e) Provide public notice of the application in the weekly notice published by the department.
+(4) The department  shall allow comment on the application for 30 days following public notice
+of the  application in the weekly notice published by the department. Any protest against the pro-
+posed final order must be submitted no later than 45 days after the  date of the weekly notice pub-
+lished by the department. [ A protest must be filed in the manner provided in ORS 537.227. ]
+(5) The provisions  of sections 2 and 3 of this 2025 Act, and rules adopted thereunder,
+apply to  a contested case proceeding on a proposed final order issued under this section,
+except that the issues raised in a protest must directly  pertain to whether the proposed re-
+placement water right permits are authorized under and in conformance with this section.
+[(5)] (6) If the department determines that an application under subsection (1) of this section  to
+assign all or part of a  water right permit has been properly filed, and that the issuance of replace-
+ment water right permits will  not result in the enlargement of the original water right or otherwise
+cause injury to other water right holders, the  department shall issue one or more replacement water
+right permits to reflect the assignment. The replacement water right permits:
+(a) Must have the same conditions as the replaced water  right permit, including but not limited
+to priority date, source of water and type of use;
+(b) May not add or change a point of diversion or point of appropriation;
+(c) May not result in the enlargement of the water use authorized under  the replaced water
+right permit;
+(d) Must apportion the rate, and if applicable the duty, in proportion to the amount of land to
+which the water right is appurtenant; and
+(e) Must identify the  land to which the replacement water right permit is appurtenant and the
+owner of that land.
+[(6)] (7)  This section does not apply to municipal or quasi-municipal  permits or to permits held
+by a unit of local government, including but not limited to permits  held by a port or water authority
+Enrolled House Bill 3544 (HB 3544-C) Page 11
+or a district. As used in this subsection, “unit of  local government” has the meaning given that term
+in ORS 190.003 and “district” has the meaning given that term in ORS 540.505.
+SECTION 9.  ORS 537.227 is amended to read:
+537.227. [(1) A record landowner, an assignee, an affected water right  permit holder or other in-
+terested person may protest a  Water Resources Department proposed final order for a water right as-
+signment under ORS 537.225. The protest must be in writing and received by the department  within
+the time provided under ORS 537.225 (4). The protest must be accompanied  by the protest fee required
+under ORS 536.050 and include: ]
+[(a) The name, address and telephone number of the person filing the protest; and ]
+[(b) A detailed explanation of why the proposed order does not conform  with the criteria for a
+water right  permit assignment and a description of the changes to the order that are necessary to cor-
+rect the nonconformity. ]
+[(2) A protest must identify all issues the person wishes to raise that are reasonably  ascertainable
+at the time the protest is filed. The issues must directly pertain to  whether the proposed replacement
+water right permits are authorized under and in conformance with ORS 537.225. ]
+[(3)] (1) In  addition to any other authority the Water Resources Department may have,
+if a protest  is properly filed, the department may work with the applicant for the water right as-
+signment and the person filing the protest to determine whether the issues raised  by the protest can
+be resolved informally. [ The department may: ]
+[(a) Reissue a proposed final order; ]
+[(b) Issue a final order; or ]
+[(c) Refer the matter for a contested case hearing. ]
+[(4) If the department is unable to resolve the issues informally and refers the matter  for a con-
+tested case hearing, the issues properly  before the administrative law judge are limited to whether the
+proposed replacement  water right permits are authorized under and in conformance with ORS 537.225.
+Any unraised issue that was reasonably ascertainable  at the time the protest was filed and any argu-
+ment not raised in the protest with sufficient specificity to afford the department an opportunity for
+response is not subject to review at the contested case hearing. ]
+[(5)] (2) Notwithstanding ORS 183.310,  and sections 2 and 3 of this 2025 Act,  the parties to  a
+contested case hearing held under this section are limited to:
+(a) The applicant for the water right assignment; and
+(b) Persons that timely filed a protest against the proposed order under ORS 537.225 (4).
+SECTION 10.
+ ORS 537.295 is amended to read:
+537.295. (1) If the holder of a permit to appropriate water for hydroelectric purposes under this
+chapter fails, after receiving notice under ORS 537.289 (2), to amend  the joint agreement so the
+holder continues to qualify as a municipal applicant, or if the holder  of the permit has assigned
+ownership of the permit to an entity other than a municipal corporation or district,  the Water Re-
+sources Commission shall initiate proceedings to cancel the permit.
+[(2) A proceeding to cancel a permit under subsection (1) of this section  shall be conducted ac-
+cording to the provisions under ORS chapter 183 for a contested case hearing. ]
+(2) The provisions of sections 2 and 3 of this 2025 Act, and rules  adopted thereunder,
+apply to a contested case proceeding on a proposed final order issued under this section.
+SECTION 11.  ORS 537.297 is amended to read:
+537.297. (1) If the owner of a certificate to appropriate water for hydroelectric purposes  under
+this chapter fails, after receiving  notice under ORS 537.289 (2), to amend the joint agreement so the
+owner continues  to qualify as a municipal applicant, or if the holder of the certificate has assigned
+ownership of the certificate to an entity other than a municipal corporation or district,  the Water
+Resources Commission shall initiate proceedings to cancel the certificate.
+[(2) A proceeding to cancel a  certificate under subsection (1) of this section shall be conducted ac-
+cording to the provisions under ORS chapter 183 for a contested case hearing. ]
+(2) The provisions  of sections 2 and 3 of this 2025 Act, and rules adopted thereunder,
+apply to a contested case proceeding on a proposed final order issued under this section.
+Enrolled House Bill 3544 (HB 3544-C) Page 12
+SECTION 12.  ORS 537.409 is amended to read:
+537.409. (1) In lieu of the process set  forth in ORS 537.140 to 537.211 for applying for a water
+right permit, an owner of a reservoir may submit  an application to the Water Resources Department
+to issue a water right permit under ORS 537.211 or a  certificate under ORS 537.250 according to the
+process set forth in this section if the reservoir:
+(a) Has a storage capacity of less  than 9.2 acre-feet or a dam or impoundment structure less
+than 10 feet in height;
+(b) Does not injure any existing water right;
+(c) Does not pose a significant detrimental impact to existing fishery resources as determined
+on the basis of information submitted by the State Department of Fish and Wildlife; and
+(d) Is not prohibited under ORS 390.835.
+(2) An application for a water right permit for a reservoir under  subsection (1) of this section
+shall provide sufficient information to demonstrate compliance  with the criteria set forth in sub-
+section (1) of this section. The application shall:
+(a) Include the quantity of water to be stored by the reservoir, a map indicating  the location
+of the reservoir and the source of the water used to fill the reservoir; and
+(b) Be accompanied by the fee established in ORS 536.050 (1)(q).
+(3) The map required under subsection (2) of this  section need not be prepared by a water right
+examiner certified under ORS 537.798. The map submitted with the application  shall comply with
+standards established by the Water Resources Commission.
+(4) Within 60 days after receiving an application under subsection (1) of  this section, the Water
+Resources  Department  shall provide public notice of the application in the manner the department
+determines to be the most appropriate.
+(5) Within 60 days after the department provides public notice  under subsection (4) of this sec-
+tion, any person  may submit detailed, legally obtained information in writing, requesting the de-
+partment to deny the application for a permit on the basis that the reservoir:
+(a) Would result in injury to an existing water right; or
+(b) Would pose a significant detrimental impact to existing fishery resources.
+(6) In accordance with rules established by the Water  Resources Commission for an expedited
+public interest review  process for applications submitted under this section or in response to a re-
+quest under subsection (5) of this section, the department shall conduct  a public interest review of
+the reservoir application. The review shall be limited to issues pertaining to:
+(a) Water availability;
+(b) Potential detrimental impact to existing fishery resources; and
+(c) Potential injury to existing water rights.
+(7) Within 180 days after the  department receives an application for a permit under subsection
+(1) of this section, the department shall issue a final order granting or denying the  permit or
+granting the permit with conditions.
+(8) If the department issues an order under subsection (7) of this section denying the  permit, the
+applicant may request a contested case hearing, which shall be conducted in accordance with ap-
+plicable provisions of ORS chapter 183 , sections 2 and 3 of this 2025 Act and rules adopted
+thereunder. The status of an order issued under subsection (7) of this section and for  which
+an applicant has requested a contested case hearing is a proposed final order.
+(9) If the department does not find injury or impact under subsection (6) of  this section and the
+department issues a final order under subsection (7) of this section allowing the issuance of a permit,
+the order shall be subject to judicial review  of orders in other than contested cases as provided in
+ORS chapter 183.
+(10) Notwithstanding the requirement for a survey under ORS 537.230,  a survey of the appro-
+priation is not required for a reservoir that has a storage capacity of less than 9.2 acre-feet of water.
+For a reservoir qualifying under  this subsection, a permittee shall submit to the department a claim
+of beneficial  use within one year after the date of completion of construction. A claim of beneficial
+Enrolled House Bill 3544 (HB 3544-C) Page 13
+use for a reservoir qualifying under this subsection  shall require only a written affidavit signed by
+the permittee that includes the following:
+(a) The dimensions of the reservoir.
+(b) The maximum capacity of the reservoir in acre-feet.
+(c) A  map identifying the location of the reservoir. The map shall comply with standards estab-
+lished by the Water Resources Commission. The map required under this subsection need  not be
+prepared by a water right examiner certified under ORS 537.798.
+(11) Any  person applying for a secondary permit for the use of stored water from a reservoir
+qualifying under subsection (10) of this section shall submit a survey prepared by  a water right ex-
+aminer certified under ORS 537.798. The  survey required under this subsection shall apply to the
+storage reservoir and to the secondary use of the water in the reservoir.
+SECTION 13.
+ ORS 537.420 is amended to read:
+537.420. Whenever a permit  holder fails to comply with the laws of the state and the require-
+ments of the permit as  to the commencement of work with due diligence, completion of the work
+of construction or the application of the water for a beneficial use, and the permit is  subject to
+cancellation as provided in ORS  537.410 to 537.450, the Water Resources Commission shall[ , not less
+than 30  nor more than 60 days prior to the hearing provided for in ORS 537.445, notify each person
+who, according to Water Resources  department records, is the holder of a water right permit or cer-
+tificate whose right may be injured by the proposed cancellation. The notice shall require  the holder
+of the permit to appear before the  commission at the time and place designated in the notice, and show
+cause why  the permit described in the notice should not be canceled for the reasons therein specified.
+The notice  shall contain a brief statement of the grounds for cancellation and shall be served in ac-
+cordance with ORS 183.415. ] issue  a proposed final order canceling the permit and serve notice
+of the proposed final order, in accordance with ORS 183.415, on the holder of the permit that
+is proposed for cancellation and on each person who, according to Water  Resources Depart-
+ment records, is the holder of a water right permit or certificate whose right may be  injured
+by the proposed cancellation. The notice shall provide a period of 60 days from the date  of
+the mailing of the notice within which to protest the proposed cancellation of the permit.
+SECTION 14.  ORS 537.445 is amended to read:
+537.445. [(1) If the Water Resources Commission proposes  to cancel a permit or appropriation un-
+der ORS 537.410  to 537.450, opportunity for  hearing shall be accorded as provided in ORS chapter
+183.]
+(1) The provisions  of sections 2 and 3 of this 2025 Act, and rules adopted thereunder,
+apply to a contested case  proceeding on a proposed final order issued under ORS 537.410 to
+537.450.
+(2) If a petition for review of an order canceling a permit or  appropriation is filed under ORS
+536.075, the Water Resources  Commission [ shall] may not cancel the permit or appropriation under
+ORS 537.440 until the petitioner’s right of review is exhausted and the order is finally approved.
+SECTION 15.  ORS 537.470 is amended to read:
+537.470. (1) Upon receipt  of an application for allocation of conserved water under ORS 537.465,
+the Water Resources Commission shall give notice of  receipt of the application in accordance with
+ORS 540.520 (5).
+(2) The commission  shall allocate conserved water as provided in subsection (3) of this section
+and approve modifications of water rights  as provided in subsection [ (6)] (7) of this section. The
+commission may not  allocate conserved water pursuant to an application under ORS 537.465 if the
+application is filed more than five years after the conservation measure was implemented.
+(3) After determining the quantity  of conserved water, if any, required to mitigate the effects
+on other water  rights, the commission shall allocate 25 percent of the remaining conserved water
+to the state and 75 percent to the applicant, unless the applicant  proposes a higher allocation to the
+state or more than 25 percent of  the funds used to finance the conservation measures comes from
+federal or state public sources.  If more than 25 percent of the funds used to finance the conservation
+measures comes from federal or state public sources and is not subject to repayment, the commission
+Enrolled House Bill 3544 (HB 3544-C) Page 14
+shall allocate to the state a percentage equal to the percentage of public funds used  to finance the
+conservation measures and allocate to the applicant a percentage equal  to the percentage of other
+funds used to finance the conservation measures. If the commission  determines that the water allo-
+cated to the state is necessary to support in-stream flow purposes  in accordance with ORS 537.332
+to 537.360, the water shall be converted to an in-stream  water right. If the water allocated to the
+state is not necessary to  support in-stream flow purposes, it shall revert to the public for appropri-
+ation by the next user in priority.  In no event, however, shall the applicant receive less than 25
+percent of the remaining  conserved water unless the applicant proposes a higher allocation to the
+state.
+[(4) The commission shall notify the applicant and any other person requesting notice, of  the action
+the commission intends to take under subsection (3) of this section. Any person objecting  to the pro-
+posed allocation may file a protest requesting a contested case hearing before the commission. ]
+(4) The commission shall:
+(a) Issue a proposed final order on the application.
+(b) Serve the proposed final order in accordance with ORS 183.415.
+(c) Provide notice of the proposed final order to any other person requesting notice.
+(5) The provisions of sections 2 and 3 of this 2025 Act, and rules  adopted thereunder,
+apply to a contested case proceeding on a proposed final order issued under this section.
+[(5)] (6) The modification of water rights under an allocation of conserved water may not require
+a separate request for transfer under ORS 540.520.
+[(6)] (7) After the commission completes the  allocation of conserved water under subsection (3)
+of this section, the commission shall issue orders for proposed new  certificates covering the changes
+in the original water rights.  Once the conservation project is completed, separate new certificates
+preserving the previously  established priority of rights shall be issued to cover the unaffected por-
+tion of the water  rights and separate new certificates indicating the priority of rights as set forth
+in ORS 537.485 shall be issued to cover the right to the use of the allocated water.
+SECTION 16.
+ ORS 537.621 is amended to read:
+537.621. (1) Within 60 days after the Water Resources Department proceeds with the application
+under ORS 537.620 (5), the department shall complete application review and issue a proposed  final
+order approving or denying the application or approving the  application with modifications or con-
+ditions. The department may request the applicant to provide additional information needed  to
+complete the review. If the department  requests additional information, the request shall be specific
+and shall be sent to the applicant by registered mail. The department shall specify a date  by which
+the information must be returned, which shall be not less than 10 days after the department mails
+the request to the applicant.  If the department does not receive the information or a request for a
+time extension under ORS 537.627 by the date  specified in the request, the department may reject
+the application and may refund fees in accordance  with ORS 536.050 (4)(a). The time period specified
+by the department in a request for additional information shall allow the department  to comply with
+the 60-day time limit established by this subsection.
+(2) In reviewing the  application under subsection (1) of this section, the department shall de-
+termine whether the proposed use will ensure the preservation of the public  welfare, safety and
+health as described in ORS 537.525.  The department shall presume that a proposed use will ensure
+the preservation of the public welfare, safety and health if the proposed use is allowed  in the ap-
+plicable basin program established pursuant to ORS 536.300 and 536.340 or given  a preference under
+ORS 536.310 (12), if water is available, if the proposed use will not injure other  water rights and if
+the proposed use complies with rules of the Water Resources Commission.  This shall be a rebuttable
+presumption and may be overcome by a preponderance of evidence that either:
+(a) One or more of the criteria for establishing the presumption are not satisfied; or
+(b) The proposed use would not ensure the preservation  of the public welfare, safety and health
+as demonstrated in comments, in a protest under [ subsection (7) of this ] section 3 of this  2025 Act
+or in a finding of the department that shows:
+Enrolled House Bill 3544 (HB 3544-C) Page 15
+(A) The specific aspect of the public welfare,  safety and health under ORS 537.525 that would
+be impaired or detrimentally affected; and
+(B) Specifically  how the identified aspect of the public welfare, safety and health under ORS
+537.525 would be impaired or be adversely affected.
+(3) The proposed final order shall cite findings of fact and conclusions  of law and shall include
+but need not be limited to:
+(a) Confirmation or modification of the preliminary determinations made in the initial review;
+(b) A brief statement that explains the  criteria considered relevant to the decision, including the
+applicable basin program and the compatibility of the proposed use with applicable land use plans;
+(c) An assessment of water availability and the amount of water necessary for the  proposed use;
+(d) An assessment of whether the proposed use would result in injury to existing water rights;
+(e) An assessment of whether  the proposed use would ensure the preservation of the public
+welfare, safety and health as described in ORS 537.525;
+(f) A draft permit, including any proposed conditions, or a recommendation to  deny the appli-
+cation;
+(g) Whether the  rebuttable presumption under subsection (2) of this section has been established;
+(h) The date by which protests to the proposed final order must be received  by the department;
+and
+(i) The flow rate and duty of water allowed.
+(4) In establishing the flow rate and  duty of water allowed, the department may consider a
+general basin-wide standard, but first shall evaluate information submitted by the applicant to dem-
+onstrate the need for a flow rate and  duty higher than the general standard. If the applicant pro-
+vides such information,  the department shall authorize the requested rate and duty except upon
+specific findings related to the application to support a determination that  a lesser amount is
+needed. If the applicant does not provide information to  demonstrate the need for a flow rate and
+duty higher than the general basin-wide  standard, the department may apply the general standards
+without specific findings related to the application.
+(5) The department shall mail copies of  the proposed final order to the applicant and to persons
+who have requested copies and paid the fee required under ORS  536.050 (1)(p). The department also
+shall publish notice of  the proposed final order by publication in the weekly notice published by the
+department.
+[(6) Any person who  supports a proposed final order may request standing for purposes of partic-
+ipating in any contested case proceeding on the proposed final order or for judicial  review of a final
+order. A request for standing shall  be in writing and shall be accompanied by the fee established under
+ORS 536.050 (1)(n). ]
+[(7) Any person may submit a protest against  a proposed final order. A protest shall be in writing
+and shall include: ]
+[(a) The name, address and telephone number of the protestant; ]
+[(b) A description  of the protestant’s interest in the proposed final order, and if the protestant
+claims to represent the public interest, a precise statement of the public interest represented; ]
+[(c) A detailed description of how the action proposed in  the proposed final order would impair
+or be detrimental to the protestant’s interest; ]
+[(d) A detailed description of how the  proposed final order is in error or deficient and how to
+correct the alleged error or deficiency; ]
+[(e) Any citation of legal authority supporting the protest, if known; and ]
+[(f) The protest fee required under ORS 536.050. ]
+(6) The provisions  of sections 2 and 3 of this 2025 Act, and rules adopted thereunder,
+apply to a contested case proceeding on a proposed final order issued under this section.
+[(8)] (7) [ Requests for standing and protests on the proposed final order shall be submitted within
+45 days  after publication of the notice of the proposed final order in the weekly notice published by the
+department.] Any person who asks to  receive a copy of the department’s final order shall submit to
+the department the  fee required under ORS 536.050 (1)(p), unless the person has previously requested
+Enrolled House Bill 3544 (HB 3544-C) Page 16
+copies and paid the required fee under ORS 537.620 (7), the person is a protestant and  has paid the
+fee required under ORS 536.050 (1)(j) or the person has [ standing] requested party  status  and has
+paid the fee under ORS 536.050 (1)(n)  and (o) .
+[(9)] (8)  Within 60 days  after the close of the period for receiving protests,  if a timely protest
+was submitted,  the Water Resources Director shall:
+(a) Issue  a final order as provided under ORS 537.625 (1) , if the applicant has not filed a
+protest and the  director finds that there are no significant issues related to the proposed
+use of water ; [ or]
+(b) Schedule a contested case hearing if a protest has been submitted ; or  [ and if: ]
+(c) Provide any person who timely submitted a protest or request for  party status with
+an estimate of the timing of referring the case  to the Office of Administrative Hearings for
+a hearing and notice that parties may provide settlement proposals.
+[(A) Upon review of the issues, the director finds  that there are significant disputes related to the
+proposed use of water; or ]
+[(B) Within 30 days after the close  of the period for submitting protests, the applicant requests a
+contested case hearing. ]
+SECTION 16a. If House Bill 3342 becomes law, section 33, chapter 282, Oregon  Laws 2025
+(Enrolled House Bill 3342) (amending  ORS 537.621), is repealed and ORS 537.621, as amended
+by section 16 of this 2025 Act, is amended to read:
+537.621. (1) Within 60 days after the Water Resources Department proceeds with the application
+under ORS 537.620 (5) (c), the department shall complete application review and issue a  proposed
+final order approving or denying the application or approving the application with  modifications or
+conditions. The department may request the applicant to provide additional information  needed to
+complete the review. If the department  requests additional information, the request shall be specific
+and shall be sent to the applicant by registered mail. The department shall specify a date  by which
+the information must be returned, which shall be not less than 10 days after the department mails
+the request to the applicant. If the department does not receive the information or  a request for a
+time extension under ORS 537.627 by the date specified  in the request, the department may reject
+the application and may refund fees in accordance  with ORS 536.050 (4)(a). The time period specified
+by the department in a request for additional information shall allow the department  to comply with
+the 60-day time limit established by this subsection.
+(2) In reviewing the application under subsection (1) of this section, the  department shall de-
+termine whether the proposed  use will ensure the preservation of the public welfare, safety and
+health as described in ORS 537.525. The department shall presume that  a proposed use will ensure
+the preservation of the  public welfare, safety and health if the proposed use is allowed in the ap-
+plicable basin program established pursuant to ORS 536.300 and 536.340 or given  a preference under
+ORS 536.310 (12), if water  is available, if the proposed use will not injure other water rights and if
+the proposed use complies with rules of the Water Resources Commission.  This shall be a rebuttable
+presumption and may be overcome by a preponderance of evidence that either:
+(a) One or more of the criteria for establishing the presumption are not satisfied; or
+(b) The proposed use would not ensure the preservation  of the public welfare, safety and health
+as demonstrated in comments, in a protest  under section 3 of this 2025 Act or in a finding of the
+department that shows:
+(A) The specific aspect of the public welfare, safety  and health under ORS 537.525 that would
+be impaired or detrimentally affected; and
+(B) Specifically how the identified aspect of the public welfare, safety and health under  ORS
+537.525 would be impaired or be adversely affected.
+(3) The proposed final order shall  cite findings of fact and conclusions of law and shall include
+but need not be limited to:
+(a) Confirmation or modification of the preliminary determinations made in the initial review;
+(b) A brief statement that explains the  criteria considered relevant to the decision, including the
+applicable basin program and the compatibility of the proposed use with applicable land use plans;
+Enrolled House Bill 3544 (HB 3544-C) Page 17
+(c) An assessment of water availability and the amount of water necessary for the  proposed use;
+(d) An assessment of whether the proposed use would result in injury to existing water rights;
+(e) An assessment of whether  the proposed use would ensure the preservation of the public
+welfare, safety and health as described in ORS 537.525;
+(f) A draft permit, including any proposed conditions, or a recommendation to  deny the appli-
+cation;
+(g) Whether the  rebuttable presumption under subsection (2) of this section has been established;
+(h) The date by which protests to the proposed final order must be received  by the department;
+and
+(i) The flow rate and duty of water allowed.
+(4) In establishing the flow rate and  duty of water allowed, the department may consider a
+general basin-wide standard, but first shall evaluate information submitted by the applicant to dem-
+onstrate the need for a flow rate and  duty higher than the general standard. If the applicant pro-
+vides such information,  the department shall authorize the requested rate and duty except upon
+specific findings related to the application to support a determination that  a lesser amount is
+needed. If the applicant does not provide information to  demonstrate the need for a flow rate and
+duty higher than the general basin-wide  standard, the department may apply the general standards
+without specific findings related to the application.
+(5) The department shall mail copies of  the proposed final order to the applicant and to persons
+who have requested copies and paid the fee required under ORS  536.050 (1)(p). The department also
+shall publish notice  of the proposed final order by publication in the weekly public notice published
+by the department.
+(6) The provisions of sections 2 and 3 of this 2025 Act, and rules adopted thereunder,  apply to
+a contested case proceeding on a proposed final order issued under this section.
+(7) Any person who asks to receive a copy of  the department’s final order shall submit to the
+department the fee required under ORS 536.050 (1)(p),  unless the person has previously requested
+copies and paid the required fee under ORS 537.620 (7), the person is a protestant and  has paid the
+fee required under ORS 536.050 (1)(j) or the person has requested party status and has paid the  fee
+under ORS 536.050 (1)(n) and (o).
+(8) Within 60 days after the close of the period for receiving protests, if a timely  protest was
+submitted, the Water Resources Director shall:
+(a) Issue a final  order as provided under ORS 537.625 (1), if the applicant has not filed a protest
+and the director finds that there are no significant issues related to the proposed use of water;
+(b) Schedule a contested case hearing if a protest has been submitted; or
+(c) Provide any person who timely submitted a protest or request for  party status with an esti-
+mate of the timing  of referring the case to the Office of Administrative Hearings for a hearing and
+notice that parties may provide settlement proposals.
+SECTION 16b.
+ If House Bill 3342 becomes law, section 33a, chapter 282,  Oregon Laws 2025
+(Enrolled House Bill 3342), is amended to read:
+Sec. 33a.  The amendments to ORS 537.153 and 537.621 by  sections [ 32 and 33 of this 2025 Act ]
+5a and 16a of this 2025 Act  apply to requests  for standing on proposed final orders issued on or
+after the operative date specified in section 48 [ of this 2025 Act ], chapter 282, Oregon Laws 2025
+(Enrolled House Bill 3342).
+SECTION 17.  ORS 537.622 is amended to read:
+537.622. [(1) Within 45  days after the Water Resources Director schedules a contested case hearing
+under ORS 537.621 (9), the Water Resources  Department shall hold the contested case hearing. The
+issues to be considered in the contested case hearing shall be limited  to issues identified by the ad-
+ministrative law judge. ]
+[(2) Notwithstanding the provisions of ORS chapter 183  pertaining to contested case proceedings,
+the parties to any contested case hearing initiated under this section shall be limited to: ]
+[(a) The applicant; ]
+[(b) Any person who timely filed a protest; and ]
+Enrolled House Bill 3544 (HB 3544-C) Page 18
+[(c) Any person who timely filed a request for standing under ORS 537.621 (6) and  who requests
+to intervene in the contested case hearing prior to the start of the proceeding. ]
+[(3) The ] A contested case proceeding under ORS 537.621 (8)  [ proceeding] shall be conducted
+in accordance with the  applicable provisions of ORS chapter 183  and sections 2 and 3 of this 2025
+Act,  except[ :]
+[(a) As provided in subsections (1) and (2) of this section; and ]
+[(b)] that  an interlocutory appeal under ORS 183.480 (3) [ shall not be ] is not  allowed.
+[(4) Each person submitting a protest or a request for standing shall raise  all reasonably
+ascertainable issues  and submit all reasonably available arguments supporting the person’s position
+by the close of the protest period. Failure to raise a reasonably ascertainable issue in a protest or in
+a hearing or failure  to provide sufficient specificity to afford the Water Resources Department an op-
+portunity to respond to the issue precludes judicial review based on that issue. ]
+SECTION 18.
+ ORS 537.625 is amended to read:
+537.625. (1) If, after the contested case hearing or, if a hearing is not held, after the close of the
+period allowed to file a protest, the Water Resources  Director determines that the proposed use
+that is the subject of an application filed  under ORS 537.615  does not ensure the preservation
+of the public welfare, safety and health as described in ORS 537.525, the director  shall issue a final
+order rejecting the application or modifying the proposed  final order as necessary to ensure the
+preservation of the public  welfare, safety and health as described in ORS 537.525. If, after the
+contested case hearing or, if a hearing is not held, after the close of the period allowed to  file a
+protest, the director determines that the proposed use would ensure the preservation of the public
+welfare, safety and health as described in ORS 537.525, the director shall issue a final  order ap-
+proving the application or otherwise  modifying the proposed final order. A final order may set forth
+any of the provisions or restrictions to be included in the permit concerning the use,  control and
+management of the water to be appropriated for the project.
+[(2) If a contested case hearing is not held: ]
+[(a) Where  the final order modifies the proposed final order, the applicant may request and the
+Water Resources Department shall schedule a contested case hearing as provided  under ORS 537.622
+(3) by submitting the information required for a protest under ORS 537.621 (7) within  14 days after the
+director issues the final order. However, the issues on which  a contested case hearing may be requested
+and conducted under this paragraph shall be limited to issues based  on the modifications to the pro-
+posed final order. ]
+[(b) Only the  applicant or a protestant may appeal the provisions of the final order in the manner
+established in ORS chapter 183 for appeal of order other than contested cases. ]
+(2) If a contested case hearing is not held under ORS 537.621 (8)(a) where  the final order
+modifies the proposed final order, the applicant, a person that requested party  status or a
+protestant may submit a protest under section 2 or 3 of this 2025 Act within  14 days after
+the director issues the final order, except that the issues on which a  contested case hearing
+may be requested and conducted under this subsection are  limited to issues that are based
+on the modifications to the proposed final order. The Water Resources Department must
+hold a hearing if the protestant is an applicant.
+(3) If a  protest is filed by a person other than the applicant and, as provided in ORS
+537.621 (8)(a), the director issues a final order  without holding a contested case hearing, a
+protestant may appeal the provisions of the final order in the manner  established in ORS
+chapter 183 for appeal of orders in other than contested cases.
+[(3)] (4)  If the presumption of public welfare, safety and health under  ORS 537.621 (2) is over-
+come, then before issuing a final  order, the director or the Water Resources Commission, if appli-
+cable, shall make the final determination of whether the proposed use or the proposed use  as
+modified in the proposed final  order would preserve the public welfare, safety and health as de-
+scribed in ORS 537.525 by considering:
+(a) The conservation of the highest use of the water for all purposes, including  irrigation, do-
+mestic use, municipal water supply, power development, public recreation,  protection of commercial
+Enrolled House Bill 3544 (HB 3544-C) Page 19
+and game fishing and wildlife,  fire protection, mining, industrial purposes, navigation, scenic at-
+traction or any other beneficial use to which the water may be applied  for which it may have a
+special value to the public.
+(b) The maximum economic development of the waters involved.
+(c) The control of the  waters of this state for all beneficial purposes, including drainage, sani-
+tation and flood control.
+(d) The amount of waters available for appropriation for beneficial use.
+(e) The prevention of wasteful,  uneconomic, impracticable or unreasonable use of the waters
+involved.
+(f) All vested and  inchoate rights to the waters of this state or to the use of the waters of this
+state, and the means necessary to protect such rights.
+(g) The state water resources policy.
+[(4)] (5) Upon issuing a final order, the [ Water Resources ] department shall notify the applicant
+and each person who submitted written comments or protests or otherwise requested notice  of the
+final order and send a copy of the final order to any person who requested a copy and paid  the fee
+required under ORS 536.050 (1)(p).
+[(5)] (6) A right to appropriate ground water under a permit has a  priority from the date when
+the application was filed with the department.
+[(6)] (7) If the use  of water under the permit is for operation of a mining operation as defined
+in ORS 517.952:
+(a) Review of the application and approval or denial of the  application shall be coordinated with
+the consolidated application process under ORS 517.952 to 517.989. However, such review  and ap-
+proval  or  denial shall take into consideration all policy considerations for the appropriation of water
+as set forth in this chapter and ORS chapter 536.
+(b) The permit may be issued for  exploration under ORS 517.702 to 517.740, but the permit shall
+be conditioned on the applicant’s compliance with the consolidated application process.
+(c) The permit shall include a  condition that additional conditions may be added to the use of
+water when a water right certificate is  issued, or when the use of water is changed pursuant to ORS
+540.520 and 540.530 to use for a mining operation.
+SECTION 19.
+ ORS 537.628 is amended to read:
+537.628. (1) The Water Resources  Department may approve an application for less ground water
+than applied for or upon  terms, conditions and limitations necessary for the protection of the public
+welfare, safety and health.
+(2) In any event the department [ shall] may not approve the application for more ground water
+than is applied for or than can be applied to a beneficial use.
+(3) [ No application shall be approved when the  same will deprive ] The department may not
+approve an application that  deprives those having prior rights of appropriation for a beneficial
+use of the amount of water to which they are lawfully entitled.
+[(2) If a contested case hearing is held, the department shall issue a final order: ]
+[(a) Within 270 days after scheduling the  hearing for a contested case proceeding that involves
+three or more parties not including the department; and ]
+[(b) Within 180 days after scheduling the hearing for all other contested case proceedings. ]
+SECTION 20.  ORS 540.520 is amended to read:
+540.520. (1)(a) Except  when the application is made under ORS 541.327 or when an application
+for a temporary transfer  is made under ORS 540.523, if the holder of a water use subject to transfer
+for irrigation, domestic use, manufacturing purposes, or other use, for any  reason desires to change
+the place of use, the point of diversion, or the use made  of the water, an application to make such
+change, as the case may be, shall be filed with the Water Resources Department.
+(b) A holder of a water right certificate that authorizes the storage of water may change the
+type of use identified in the water right certificate, as described in this section.
+(2) The application required under subsection (1) of this section shall include:
+(a) The name of the owner;
+Enrolled House Bill 3544 (HB 3544-C) Page 20
+(b) The previous use of the water;
+(c) A description of the premises upon which the water is used;
+(d) A description of the premises upon which it is proposed to use the water;
+(e) The use that is proposed to be made of the water;
+(f) The reasons for making the proposed change; and
+(g) Evidence that the water has been used over the  past five years according to the terms and
+conditions of the owner’s water right certificate or that the water right  is not subject to forfeiture
+under ORS 540.610.
+(3) If the application required under subsection (1) of this  section is necessary to allow a change
+in a water right pursuant to  ORS 537.348, is necessary to complete a project funded under ORS
+541.932, or is approved by the State Department of Fish  and Wildlife as a change that will result in
+a net benefit to fish  and wildlife habitat, the department, at the discretion of the Water Resources
+Director, may waive or assist the applicant in satisfying the requirements of  subsection (2)(c) and
+(d) of this section. The assistance provided by the department may include, but  need not be limited
+to, development of an application map.
+(4) If the application is to change the point of diversion, the transfer shall include a condition
+that the holder of the water right provide a proper fish  screen at the new point of diversion, if re-
+quested by the State Department of Fish and Wildlife.
+(5) Upon the filing of the application the department shall give notice by  publication in a
+newspaper having general circulation in the area in which the water rights are  located, for a period
+of at least two weeks and not less than one  publication each week. The notice shall include the date
+on which the last notice by publication will occur. The cost of the publication  shall be paid by the
+applicant in advance to the department.  In applications for only a change in place of use or for a
+change in the point of diversion of less than one-fourth mile, and where there are  no intervening
+diversions  between  the old diversion of the applicant and the proposed new diversion, no newspaper
+notice need be published. The department shall include notice of such  applications in the weekly
+notice published by the department.
+[(6) Within 30 days after the last publication of a newspaper  notice of the proposed transfer or the
+mailing of the department’s weekly notice, whichever is later, any person may file, jointly  or severally,
+with the department, a protest against approval of the application. ]
+(6) The department shall  issue a proposed final order approving or denying the applica-
+tion or approving  the application with modifications or conditions. Within 30 days after the
+publication in the department’s weekly public notice any person  may file a protest against
+the proposed final order.
+(7) The provisions of sections 2 and 3 of this 2025 Act, and rules  adopted thereunder,
+apply to a contested case proceeding on a proposed final order issued under this section.
+[(7)] (8) If [ a timely protest is filed, or ] in the opinion of the Water Resources Director a hearing
+is necessary to determine whether the proposed changes as described by the application  would re-
+sult in injury to existing water rights, the department shall hold a hearing on the matter.  [ Notice
+and conduct of the hearing  shall be under the provisions of ORS chapter 183, pertaining to contested
+cases, and shall be held in the area where the  rights are located unless all parties and persons who
+filed a protest under this subsection stipulate otherwise. ]
+[(8)] (9)  An application for a change of use under  this section is not required if the beneficial
+use authorized by the water use  subject to transfer is irrigation and the owner of the water right
+uses the water for incidental agricultural, stock watering and other uses  related to irrigation use,
+so long as there is no increase in the rate, duty, total acreage benefited or season of use.
+[(9)] (10) A water right transfer under subsection (1) of this section is not  required for a general
+industrial use that was not included in a water  right certificate issued for a specific industrial use
+if:
+(a) The quantity of  water used for the general industrial use is not greater than the rate allowed
+in the original water right and not greater than the quantity of water  diverted to satisfy the au-
+thorized specific use under the original water right;
+Enrolled House Bill 3544 (HB 3544-C) Page 21
+(b) The location where the water is  to be used for general industrial use was owned by the
+holder of the original water right at the time the water right permit was issued; and
+(c) The person who makes the change in  water use provides the following information to the
+Water Resources Department:
+(A) The name and mailing address of the person using water under the water right;
+(B) The water right certificate number;
+(C) A description of  the location of the industrial facility owned by the holder of the original
+water right at the time the water right permit was issued; and
+(D) A description of the general industrial use to be made of the water after the change.
+SECTION 20a.
+If House Bill 3342 becomes law, section 5, chapter 282, Oregon Laws 2025
+(Enrolled House Bill 3342) (amending  ORS 540.520), is repealed and ORS 540.520, as amended
+by section 20 of this 2025 Act, is amended to read:
+540.520. (1)(a) Except  when the application is made under ORS 541.327 or when an application
+for a temporary transfer  is made under ORS 540.523, if the holder of a water use subject to transfer
+for irrigation, domestic use, manufacturing purposes, or other use, for any  reason desires to change
+the place of use, the point of diversion, or the use made  of the water, an application to make such
+change, as the case may be, shall be filed with the Water Resources Department.
+(b) A holder of a water right certificate that authorizes the storage of water may change the
+type of use identified in the water right certificate, as described in this section.
+(2) The application required under subsection (1) of this section shall include:
+(a) The name of the owner;
+(b) The previous use of the water;
+(c) A description of the premises upon which the water is used;
+(d) A description of the premises upon which it is proposed to use the water;
+(e) The use that is proposed to be made of the water;
+(f) The reasons for making the proposed change; and
+(g) Evidence that the water has been used over  the past five years according to the terms and
+conditions of the owner’s water right  certificate or that the water right is not subject to forfeiture
+under ORS 540.610.
+(3) If the application required under subsection (1) of this  section is necessary to allow a change
+in a water right pursuant to ORS 537.348, is necessary to complete  a project funded under ORS
+541.932, or is approved by the State Department of Fish  and Wildlife as a change that will result in
+a net benefit to fish and wildlife habitat, the Water Resources  Department, at the  discretion of the
+Water Resources Director, may waive or assist the applicant  in satisfying the requirements of sub-
+section (2)(c) and (d) of this section. The assistance  provided by the department may include, but
+need not be limited to, development of an application map.
+(4) If the application is to change the point of diversion, the transfer shall include a condition
+that the holder of the water right provide a proper fish  screen at the new point of diversion, if re-
+quested by the State Department of Fish and Wildlife.
+[(5) Upon the filing of the application the department shall give notice by  publication in a news-
+paper having general  circulation in the area in which the water rights are located, for a period of at
+least two weeks and not less than one publication each week. The notice shall include the date on which
+the last notice by publication will occur. The cost of the publication shall be paid  by the applicant in
+advance to the department. In applications for only a change in place of use or for a  change in the
+point of diversion of less than one-fourth mile,  and where there are no intervening diversions between
+the old diversion of the applicant and the proposed new diversion,  no newspaper notice need be pub-
+lished. The department shall include notice of such applications in the  weekly notice published by the
+department.]
+(5) The Water Resources  Department shall undertake an initial review of an application
+under subsection (1) of this section.
+(6)(a) Upon completion of the initial review,  the department shall notify the applicant of
+its preliminary determinations, identify any outstanding information that is  necessary to
+Enrolled House Bill 3544 (HB 3544-C) Page 22
+continue processing the application and allow the  applicant 30 days from the date of notice
+to:
+(A) Notify the department to stop processing the application; or
+(B) Notify the  department to continue processing the application and provide any out-
+standing information to the department.
+(b) If,  within 30 days from the date of the notice, the applicant does not notify the de-
+partment as provided in paragraph (a) of this subsection, does not provide all  outstanding
+information as provided in paragraph (a)(B) of this subsection  or notifies the department to
+stop processing the application, the department shall close the file for the  application and
+take no further action on the application.  The department may allow an applicant up to 60
+additional days to provide outstanding information if the  applicant requests additional time
+and the department determines that the applicant is undertaking reasonable efforts to  pro-
+vide the information in a timely manner to the department.
+(c) If, within 30 days  from the date of the notice or an additional time period allowed
+under paragraph (b) of this subsection, the applicant notifies the department to  proceed with
+the application and provides any outstanding information necessary  to continue processing
+the application, the department shall:
+(A) Proceed with processing the application.
+(B) Give notice of the initial review in the  weekly public notice of the department and
+accept written public comments for 30 days.
+(7) Upon issuance of a proposed final order, the department shall give notice of the order
+in the weekly public notice of the department. If  the department determines that more than
+five water rights would be  injured as a result of the change proposed in an application under
+subsection (1) of this section,  the department shall publish notice once each week for two
+consecutive weeks in a newspaper of general  circulation in the area in which the water
+rights are located. The cost of the publication shall be paid by the applicant  in advance to
+the department.
+[(6)] (8)  [ The department shall issue a proposed final order approving or denying the application
+or approving the application with modifications or conditions. ] Within 30 days after the publication
+in the department’s weekly public notice any person may file a protest against the proposed  final
+order.
+[(7)] (9) The provisions of sections 2 and 3 of this 2025 Act, and rules adopted thereunder, apply
+to a contested case proceeding on a proposed final order issued under this section.
+[(8)] (10) If in the opinion of the Water Resources Director a hearing is necessary  to determine
+whether the proposed changes as described  by the application would result in injury to existing
+water rights, the department shall hold a hearing on the matter.
+[(9)] (11) An application for a change of use under  this section is not required if the beneficial
+use authorized by the water use subject to transfer is irrigation and the  owner of the water right
+uses the water for incidental  agricultural, stock watering and other uses related to irrigation use,
+so long as there is no increase in the rate, duty, total acreage benefited or season of use.
+[(10)] (12) A water right transfer  under subsection (1) of this section is not required for a gen-
+eral industrial use that was not included in a water right certificate issued for a specific  industrial
+use if:
+(a) The quantity of  water used for the general industrial use is not greater than the rate allowed
+in the original water right and  not greater than the quantity of water diverted to satisfy the au-
+thorized specific use under the original water right;
+(b) The location where the water is to be used for general  industrial use was owned by the
+holder of the original water right at the time the water right permit was issued; and
+(c) The person who makes the change in  water use provides the following information to the
+Water Resources Department:
+(A) The name and mailing address of the person using water under the water right;
+(B) The water right certificate number;
+Enrolled House Bill 3544 (HB 3544-C) Page 23
+(C) A description of  the location of the industrial facility owned by the holder of the original
+water right at the time the water right permit was issued; and
+(D) A description of the general industrial use to be made of the water after the change.
+SECTION 21.
+ ORS 540.524 is amended to read:
+540.524. (1) Notwithstanding ORS  540.510 or 540.670, upon approval of an application submitted
+to the Water Resources Department, the holder of both  a primary water right originating from a
+surface water source and a supplemental water right permit or certificate originating  from a ground
+water source may substitute the use of the supplemental water right for the primary water right.
+A substitution may not be made under this  subsection if the use of the supplemental water right
+results in an enlargement or expansion of  the primary water right. This subsection does not au-
+thorize a change in place of use, type of use, point of diversion or point of appropriation.
+(2) An application required under subsection (1) of  this section shall be submitted on forms
+provided by the department. The department may request additional information if necessary to
+assist with the injury  evaluation. Each application shall be submitted with the fee described in ORS
+536.050 (1)(s).
+[(3) Upon receiving an application under subsection (1)  of this section, the department shall provide
+notice, accept protests and conduct hearings on protests in the manner  described in ORS 540.520 (5),
+(6) and (7). ]
+(3) Upon receiving an application under subsection (1) of this section, the department
+shall provide public notice and accept protests as described in ORS 540.520.
+(4) The provisions  of sections 2 and 3 of this 2025 Act, and rules adopted thereunder,
+apply to a contested case proceeding on a proposed final order issued under this section.
+[(4)] (5)  The Water Resources Director shall issue [ an] a  proposed final  order approving or
+denying the substitution. If the proposed substitution will result in injury  to other water rights, the
+director shall prohibit or condition the use to avoid or mitigate the injury. The director shall  issue
+[an] a proposed final  order approving or denying the substitution within 90 days after  the depart-
+ment receives an application under subsection (1) of this section.
+[(5)] (6)  For the purpose of ORS 540.610, a substituted primary surface water  right shall be
+treated as a supplemental  water right, and a substituted supplemental ground water right shall be
+treated as a primary water right.
+[(6)] (7) A completed and approved substitution of a supplemental  ground water right for a pri-
+mary surface water right under this section  may be terminated upon a request by the water right
+holder or by an order of the director if the director determines that the use of the ground water
+as the primary water right causes injury to other water rights. Upon termination, the substituted
+primary and supplemental water rights shall revert back to their original status.
+SECTION 21a.
+If House Bill 3342 becomes law, section 39, chapter 282, Oregon  Laws 2025
+(Enrolled House Bill 3342) (amending ORS 540.524), is repealed.
+SECTION 21b.  If House Bill 3342 becomes law, section  30, chapter 282, Oregon Laws 2025
+(Enrolled House Bill 3342), is amended to read:
+Sec. 30.  Notwithstanding ORS 536.031 (1), sections 9, 24 and 29 [ of this  2025 Act ], chapter 282,
+Oregon Laws 2025 (Enrolled House Bill  3342), and rules adopted thereunder, and the amendments
+to ORS 536.045,  537.145, 537.150, 537.211, 537.252, 537.470, 537.610, 537.620, [540.520,] 540.535, 540.585,
+543.220, by sections 2 to 4, 6,  7, 14, 17, 19, 20, 37  and 42 [ of this 2025 Act ], chapter 282, Oregon
+Laws 2025 (Enrolled House Bill 3342) , and the amendments to ORS 540.520 by  section 20a of
+this 2025 Act,  and rules adopted thereunder, apply to  applications and petitions submitted on or
+after the operative date specified in  section 48 [ of this 2025 Act ], chapter 282, Oregon Laws 2025
+(Enrolled House Bill 3342).
+SECTION 21c.  If House Bill 3342 becomes law,  section 48, chapter 282, Oregon Laws 2025
+(Enrolled House Bill 3342), is amended to read:
+Sec. 48. (1) Sections 9, 13, 24, 29 and 31 [ of this 2025 Act ], chapter  282, Oregon Laws 2025
+(Enrolled House Bill 3342),  and the amendments to ORS 536.045, 536.410, 537.145, 537.147, 537.150,
+[537.153,] 537.211, 537.225, 537.230, 537.252, 537.348, 537.470, 537.610,  537.620, [ 537.621,] 537.630,
+Enrolled House Bill 3544 (HB 3544-C) Page 24
+538.450, [540.520, 540.524,] 540.535, 540.570, 540.580, 540.585, 543.220,  543A.035, 543A.040, 543A.055
+and 543A.120 by sections 2 to 4, 6,  7, 10, 14, 17, 19, 20, 25, 26, [ 32, 33 and ] 34 to 38 and 40 to  46
+[of this 2025 Act ], chapter 282, Oregon Laws 2025 (Enrolled House Bill 3342),  become  operative
+on April 1, 2026.
+(2) The amendments to ORS 537.153,  537.621 and 540.520 by sections 5a, 16a and 20a of this
+2025 Act become operative on April 1, 2026.
+SECTION 22.  ORS 540.560 is amended to read:
+540.560. (1) If the Water Resources Commission considers  that a certificate of water right does
+not identify the lands to  which the right is appurtenant with sufficient specificity for management,
+delivery or transfer of that right, the commission may issue [ an] a proposed final  order  clarifying
+and refining the description of the land to which the water right is appurtenant.
+(2) [ An] A proposed final  order issued under this section may not reduce the rate, duty or
+number of acres stated in the certificate of water  right. The sole purpose of an addendum to a water
+right certificate is to better define the location of acreage to which the water right  is appurtenant,
+where the certificate states only that the use is limited to a number of acres within a larger tract.
+(3) Any  proposed final order issued under this section shall be served on  the legal owner of the
+land to which the water right is appurtenant and on the occupant of the land, by  certified mail,
+return receipt requested. [ If the owner or occupant  files a written request for a hearing within 30 days
+after service of the order, the commission shall conduct a hearing of the matter under ORS 183.413  to
+183.484.] Notwithstanding sections 2 and 3 of this 2025 Act,  if the owner or occupant files a
+written protest within 30 days  after issuance of the proposed final order, the commission
+shall conduct a hearing.
+(4) The provisions of sections 2 and 3 of this 2025 Act, and rules  adopted thereunder,
+apply to a contested case proceeding on a proposed final order issued under this section.
+[(4)] (5) A final order under  this section shall become an addendum to and shall be filed with
+the certificate of water right that the order clarifies. For all purposes,  the final order shall consti-
+tute the description of the land to which the water right is appurtenant.
+SECTION 23.  ORS 540.641 is amended to read:
+540.641. (1) If the legal owner or the occupant  receiving notice as provided in ORS 540.631 fails
+to protest  the proposed cancellation of the water right within the 60-day period prescribed in the
+notice, the Water Resources Commission may enter an order canceling the water right.
+(2) If the legal owner or the occupant  receiving notice as provided in ORS 540.631 files a protest
+against the proposed cancellation of the water right  the  provisions of sections 2 and 3 of this
+2025 Act and the  rules adopted thereunder apply  [ with the commission within the 60-day period
+prescribed in  the notice, the commission shall fix a time and place for a hearing on the protest ]. The
+commission shall cause written  notice of the hearing to be given at least 10 days prior to the
+hearing to the person protesting the cancellation of the water right and to  any other person who
+in the  opinion of the commission is an interested party to the proceeding. [ The hearing shall be held
+by the commission and shall be conducted under  the provisions of ORS chapter 183 pertaining to
+contested cases.]
+(3) After  [ the] a hearing the commission shall enter an order canceling the water right, cancel-
+ing in part or modifying the water right, or declaring that the water right shall not be canceled  or
+modified.
+APPLICABILITY TO COMPLETED APPLICATIONS
+SECTION 24. (1) Notwithstanding ORS 536.031  (1), rules adopted under section 2 or 3 of
+this 2025 Act apply to aspects of a contested case proceeding that occur on or after the ef-
+fective date of this 2025 Act, for a protest:
+(a) That was submitted before, on or after the effective date of this 2025 Act; and
+(b) That was not  referred to the Office of Administrative Hearings before the effective
+date of this 2025 Act.
+Enrolled House Bill 3544 (HB 3544-C) Page 25
+(2) For  protests that were pending on or before the effective date of this 2025 Act, the
+Water Resources Department  shall provide to applicants, protestants, persons that submit-
+ted a request  for standing and persons that have requested or been granted party status
+notice of the provisions  and requirements of sections 2 and 3 of this 2025 Act.
+Notwithstanding section 3 of this 2025 Act, the department shall provide  not less than 90
+days after issuance of the notice for:
+(a) A person that submitted a  request for standing to request party status in an existing
+contested case proceeding.
+(b) A  protestant in an existing contested case proceeding to amend the protest as nec-
+essary to comply with the provisions of section 3 of  this 2025 Act. The amended protest may
+not add issues not raised in the original protest.
+(3) A person that submitted a request for party status before the effective  date of this
+2025 Act need not amend the request.
+APPROPRIATIONS
+SECTION 24a. Notwithstanding any other provision  of law, the General Fund appropri-
+ation made to the Water Resources Department by section 1 (3), chapter , Oregon
+Laws 2025 (Enrolled Senate Bill  5543), for the biennium beginning July 1, 2025, for water
+rights and adjudications, is increased by $226,420 to carry out the provisions of this 2025  Act.
+CONFORMING AMENDMENTS
+SECTION 25.  ORS 536.050 is amended to read:
+536.050. (1) The Water Resources Department may collect the following fees in advance:
+(a) For examining an application for a permit:
+(A) To appropriate water, except as provided under ORS 543.280 for an application for a  hy-
+droelectric project:
+(i) A base fee of $1,090 for an appropriation of water through a single use, point of diversion
+or point of appropriation;
+(ii) $410 for the first second-foot or fraction thereof appropriated under the permit;
+(iii) $410 for each additional second-foot or fraction thereof appropriated under the permit;
+(iv) $410 for each additional use, point of diversion or point of appropriation included in the
+application;
+(v) If appropriating stored water, $41 for the  first acre-foot or fraction thereof up to 20 acre-feet,
+plus $1.40 for each additional acre-foot or fraction thereof; and
+(vi) If appropriating ground water, in addition to any other  fees, $480 for each application filed.
+(B) To store water under ORS 537.400 or 537.534 (4):
+(i) A base fee of $1,090;
+(ii) $41 for the first acre-foot or fraction thereof up  to 20 acre-feet, plus $1.40 for each additional
+acre-foot or fraction thereof; and
+(iii) $160 for each additional storage location.
+(C) To exclusively appropriate stored water:
+(i) A base fee of $610; and
+(ii) $41 for the first acre-foot or fraction thereof up  to 20 acre-feet, plus $1.40 for each additional
+acre-foot or fraction thereof.
+(b) For a permit issued under  ORS 537.147, 537.211, 537.409 or 537.625 to appropriate or store
+water:
+(A) A base fee of $610 for recording the permit; and
+(B) An additional fee of $790 if the permit is issued pursuant to a final  order that contains
+provisions requested by the applicant for mitigating impacts to the proposed water source.
+Enrolled House Bill 3544 (HB 3544-C) Page 26
+(c) For filing and recording the assignment or  partial assignment of a water right application,
+permit or license under ORS 537.220 or 537.635, $120.
+(d) For copying records in  the department, $2.70 for the first page and 70 cents for each addi-
+tional page.
+(e) For certifying copies, documents, records or maps, $14 for each certificate.
+(f) For a blueprint copy of any map or drawing, the actual cost of the work.
+(g) For a computer-generated map, the actual cost of the work.
+(h) For examining an application for approval of a change to an existing water right or permit:
+(A) A base fee of $1,360 for a change to a single water right or permit;
+(B) $1,090 for each additional type of change requested;
+(C) For a request for a change in place of use  or type of use or for a water exchange under ORS
+540.533, $410 for each second-foot or fraction thereof requested beyond the first second-foot;
+(D) $610 for each additional water right or permit included in the application;
+(E) An additional fee of $480 per application, if the application is for  an additional point of ap-
+propriation, a change in a point  of appropriation or a change from surface water to ground water
+or for substitution as described in ORS 540.524; and
+(F) $410 for each additional point of appropriation included in the application.
+(i) For examining an application for a temporary change in place of use under ORS  540.523, for
+a temporary transfer under ORS 540.585 or for a temporary change in  place of use, a change in the
+point of diversion to allow for the appropriation of ground water or a change of a primary right  to
+a supplemental  right under ORS 540.570, a base fee of $950 for the first water right or permit, plus
+$310 for each additional water right or permit included in the application and:
+(A) For nonirrigation uses,  $230 for each second-foot or fraction thereof requested beyond the
+first second-foot; or
+(B) For irrigation uses, $2.70 per acre of land irrigated or, if the  application and required map
+are submitted to the department in a department-approved digital format, 70  cents per acre of land
+irrigated.
+(j) For submitting a protest to the department:
+(A) $950 if the protest is by a nonapplicant; and
+(B) $480 if the protest is by an applicant.
+(k) For filing an application for extension of time within which irrigation or other works  shall
+be completed or a water right perfected, $780.
+(L) For a limited license under ORS 537.143 or 537.534 (2), the fee established  by rule by the
+Water Resources Commission.
+(m) For filing, examining and certifying a petition under ORS  541.329, $480 plus 10 cents per
+acre of water involved in the application. For purposes of computing this fee, when any  acreage
+within a quarter quarter of a  section is involved, the 10 cents per acre shall apply to all acres in
+that quarter quarter of a section. Notwithstanding the fee amount established in this paragraph,  a
+district notifying the department under ORS 541.327 (4) shall pay the  actual cost of filing, examining
+and certifying the petition.
+(n) For requesting standing  under ORS [ 537.153, 537.621 or] 543A.120 or section 3 of this 2025
+Act, $270.
+(o) For participating in a contested case proceeding under ORS  [ 537.170, 537.622 or ] 543A.130
+or section 3 of this 2025 Act , $680.
+(p) Except for an applicant, for obtaining a copy of both a proposed final  order and a final order
+for a water right application  under ORS 537.140 to 537.252, 537.505 to 537.795 or 543A.005 to
+543A.300 or an extension issued under ORS 537.230, 537.248 or 537.630, $35.
+(q) For examining an application to store water under ORS 537.409:
+(A) A base fee of $480; and
+(B) $41 for each acre-foot or fraction thereof.
+(r) For submitting a notice  of intent under ORS 543A.030 or 543A.075, the amount established
+by the Water Resources Director under ORS 543A.410.
+Enrolled House Bill 3544 (HB 3544-C) Page 27
+(s) For examining an application for a substitution made under ORS 540.524:
+(A) A base fee of $990 for the first well substitution; and
+(B) A fee of $480 for each additional well substitution.
+(t) For examining an application for an allocation of conserved water under ORS 537.455  to
+537.500:
+(A) A base fee of $1,360 for the first water right that is part of the allocation; and
+(B) An additional fee of $480 for each water right that is  part of the allocation beyond the first
+water right.
+(u) For submitting a water management and conservation plan pursuant to  rules of the com-
+mission:
+(A) $680, if the plan is submitted by an agricultural water supplier;
+(B) $1,220, if the plan is submitted by a municipal water supplier serving a population  of 1,000
+or fewer persons; or
+(C) $2,450, if  the plan is submitted by a municipal water supplier serving a population of more
+than 1,000 persons.
+(v) For examining a new application for an in-stream water right lease under ORS 537.348:
+(A) $610 for an application  for a lease with four or more landowners or four or more water
+rights; or
+(B) $410 for all other applications.
+(w) For examining an application for an in-stream water right lease renewal, $150.
+(x) For submitting a claim of beneficial use under a permit or transfer having a priority  date
+of July 9, 1987, or later, $230.
+(y) For  submitting a request no later than 60 days after cancellation of a permit under ORS
+537.260 to reinstate the permit, $610.
+(z) For submitting a request for a basin program exception under ORS 536.295, $780.
+(aa) For processing an application under ORS 537.225 for an  assignment of water right to one
+or more landowners and issuance of replacement water right permits, the actual cost of the work.
+(2)(a) The department may charge a dam owner an annual fee based upon the dam’s hazard
+rating as determined by the department. The fees the department may charge the dam owner are:
+(A) $120 for a dam with a low hazard rating.
+(B) $230 for a dam with a significant hazard rating.
+(C) $790 for a dam with a high hazard rating.
+(D) If  the dam owner fails to pay an annual fee on or before six months after the billing date,
+a late fee of $140.
+(b) If a dam owner fails to pay an annual fee or a late fee charged by the department, the de-
+partment may, after  giving the dam owner notice by certified mail, place a lien on the real property
+where the dam is located for the fees owed by the dam owner.
+(3) Notwithstanding the  fees established under subsection (1) of this section, the commission may
+establish lower examination and permit fees by rule for:
+(a) The right to appropriate water for a storage project of five acre-feet or less; or
+(b) The right to appropriate water for  the purpose of allowing the applicant to water livestock
+outside of a riparian area, as that term is defined in ORS 541.890.
+(4)(a) The director may refund all or part of a fee paid to the department under  this section if
+the director determines that a  refund of the fee is appropriate in the interests of fairness to the
+public or necessary to correct an error of the department.
+(b) The director may refund all or part of the protest fee described  in subsection (1)(j) of this
+section to the legal owner or occupant  who filed a protest under ORS 540.641 if an order of the
+Water Resources Commission establishes that all or part of a water right has not been canceled or
+modified under ORS 540.610 to 540.650.
+(5) The director may waive all or part of a fee for a change to  a water right permit under ORS
+537.211 (4), a change to a water right subject to transfer under ORS 540.520 or 540.523 or an  allo-
+cation of conserved water under ORS 537.470, if the change or allocation of conserved water is:
+Enrolled House Bill 3544 (HB 3544-C) Page 28
+(a) Made pursuant to ORS 537.348;
+(b) Necessary to complete a project funded under ORS 541.932; or
+(c) Approved by the State Department of Fish and Wildlife as a change or  allocation of con-
+served water that will result in a net benefit to fish and wildlife habitat.
+(6) Notwithstanding the fees established pursuant to this section, the commission  may adopt by
+rule reduced fees for persons submitting materials to the department in a digital  format approved
+by the department.
+(7) All moneys received under this section, less any amounts refunded under subsection (4)  of
+this section, shall be deposited in the Water Resources Department Water Right Operating Fund.
+(8) Notwithstanding subsection (7) of this section,  all fees received by the department for power
+purposes under ORS  543.280 shall be deposited in the Water Resources Department Hydroelectric
+Fund established by ORS 536.015.
+SECTION 26.
+ ORS 536.750 is amended to read:
+536.750. (1) Notwithstanding any provision of ORS chapters 536 to  543A, after a declaration that
+a severe, continuing drought exists, the Water Resources Commission may:
+(a) Issue without first conducting a hearing under  ORS 537.170  and section 3 of this  2025
+Act, a temporary permit for an emergency use of water;
+(b) Allow a temporary change  in use, place of use or point of diversion of water without com-
+plying with the notice and waiting requirements under ORS 540.520;
+(c) Notwithstanding the priority of water rights, grant preference of use to rights for  human
+consumption or stock watering use;
+(d) Waive the notice requirements under ORS  537.753 and the start card required under ORS
+537.762;
+(e) Allow a temporary exchange of water without giving notice as  required under ORS 540.535;
+and
+(f) Utilize an expedited notice and waiting requirement established by rule for the substitution
+of a  supplemental ground water right for a primary water right under drought conditions [ in place
+of the notice and waiting requirement provided in ORS 540.524 ].
+(2) The commission by rule may establish procedures for carrying out the provisions of this
+section and a schedule of fees that must accompany a request under subsection (1) of this section.
+SECTION 27.  ORS 537.147 is amended to read:
+537.147. (1) Notwithstanding the process  for applying for a water right permit established in
+ORS 537.150 to 537.230, a person may, pursuant  to this section, apply to the Water Resources De-
+partment for a water right permit to use stored water. A person applying  under this section for a
+water right permit to use stored water shall submit:
+(a) A fee, in the amount required by ORS 536.050 for applications to appropriate stored water.
+(b) A completed application for a secondary permit, in a form determined  by the department,
+that contains the information required of applications under ORS 537.140 and 537.400 (1).
+(c) Evidence that the proposed use of the  stored water is one of the authorized uses under the
+water right permit, certificate or decree that allows the storage of water.
+(2) If an applicant provides, to the satisfaction of the department, the  fee and the information
+required by subsection (1) of this section,  the department may, after public notice and a 30-day op-
+portunity to submit comments on the  application, issue a water right permit upon determining that
+no public interest issues as identified in  ORS 537.170 [ (8)] (5)  have been raised through the com-
+ments submitted.
+(3) If the department determines that public interest issues  have been identified, then the de-
+partment shall treat the application under this section  as an application under ORS 537.150 and
+perform the public interest review required by ORS 537.153 (2).
+(4) At a minimum, a water right permit issued by the department for use of stored water under
+this section shall be conditioned to require:
+(a) Fish screens  and by-pass devices and fish passage as may be required by the State Depart-
+ment of Fish and Wildlife; and
+Enrolled House Bill 3544 (HB 3544-C) Page 29
+(b) A measuring device at each point of diversion authorized under the water right permit.
+(5) Within 10 days of  issuing a water right permit under this section, the department shall pro-
+vide notice of the permit issuance in the weekly notice published by the  department and to persons
+who have submitted comments pursuant to subsection (2) of this section.
+SECTION 28.
+ ORS 537.343 is amended to read:
+537.343. (1)  A proposed final order issued under ORS 537.170 [ (6)] (3) or (5)  for an in-stream
+water right certificate  may include any condition the Water Resources Director considers necessary,
+but which is consistent with the intent of ORS 537.332 to 537.360. The proposed final order may:
+(a) Approve the in-stream water right for the quantity of water requested;
+(b) Approve the requested in-stream water right for a lesser quantity of water; or
+(c) Reject the requested in-stream water right.
+(2) If the director reduces or rejects the in-stream water right  as requested, or conditions the
+in-stream water right, the director shall include a statement of findings  that sets forth the basis for
+the reduction, rejection or conditions. The director  shall be the final authority in determining the
+level of in-stream flow necessary to protect the public use.
+(3) After the director  issues a final order approving an in-stream water right, the Water Re-
+sources Department shall issue a certificate for an in-stream water  right according to the provisions
+of ORS 537.341.
+SECTION 29.
+ ORS 537.629 is amended to read:
+537.629. (1) When an application discloses the probability of wasteful use or  undue interference
+with existing wells or that any proposed use or well will impair or substantially interfere  with ex-
+isting rights to  appropriate surface water by others, or that any proposed use or well will impair
+or substantially interfere with existing rights to appropriate ground  water for the beneficial use of
+the water for its  thermal characteristics, the Water Resources Department may impose conditions
+or limitations in the permit to prevent the same or reject the same  after hearing, or, in the
+department’s discretion, request the Water Resources Commission to initiate a  rulemaking proceed-
+ing to declare the affected area a critical ground water area under ORS 537.730 to 537.740.
+(2)(a) When an application discloses  the probability that a proposed use or well will impair or
+interfere with the ability  to extract heat from a well with a bottom hole temperature of at least 250
+degrees Fahrenheit, the department may:
+(A) Approve the permit;
+(B) Impose conditions or limitations  in the permit to prevent the probable interference or
+impairment;
+(C) After a hearing under ORS 537.622  and sections 2  and 3 of this 2025 Act , reject the ap-
+plication;  or
+(D) Request the commission to initiate a rulemaking proceeding to declare  the affected area a
+critical ground water area under ORS 537.730 to 537.740.
+(b) In deciding whether to issue,  deny or condition a permit under this subsection, the depart-
+ment shall consider any orders or permits applicable to the ground water reservoir issued  by the
+State Geologist or the governing board of  the State Department of Geology and Mineral Industries
+under ORS chapter 522.
+SECTION 30.
+ ORS 540.537 is amended to read:
+540.537. (1) The Water Resources Commission shall issue an order allowing an  exchange unless
+the commission finds any of the following:
+(a) The proposed exchange would adversely affect other appropriators.
+(b) The proposed exchanges would be too difficult to administer.
+(c) The proposed exchange would adversely  affect the public interest as determined under ORS
+537.170 [(8)] (5).
+(d) A sufficient quantity of water would not be available to replace the water to be used  under
+the exchange. In determining whether replacement water will be equal to the water  exchanged, the
+commission may consider relative consumptive uses and transmission losses.
+Enrolled House Bill 3544 (HB 3544-C) Page 30
+(2) The commission may include any condition the commission considers necessary in  an order
+allowing an exchange.
+(3) The commission shall issue an order terminating the exchange:
+(a) If water is not applied under the exchange within  the time fixed by the commission in the
+order approving the exchange;
+(b) Upon written request signed by all parties to the exchange;
+(c) Upon finding that any other  termination condition specified in the original order has oc-
+curred; or
+(d) Upon attainment of a termination date specified in the original exchange order.
+(4) For purposes of subsection (3) of this section,  the time fixed for implementing the exchange
+shall include any extension granted by the commission for good cause shown.
+SECTION 31.
+ ORS 543.255 is amended to read:
+543.255. (1) Whenever the Water  Resources Department receives an application to appropriate
+water for a new hydroelectric project under ORS 537.140 to 537.320 or for a hydroelectric permit
+or license under ORS 543.010 to  543.610, the department shall determine whether the impacts of the
+project would be cumulative with:
+(a) Impacts of other proposed hydroelectric  projects for which an application is pending before
+the department; or
+(b) Existing hydroelectric projects in the same river basin.
+(2) If the department  determines that there is no possibility that the hydroelectric projects
+proposed in pending applications or  existing projects may have cumulative effects, the Water Re-
+sources Director shall issue an order setting forth the department’s determination that there  are
+no cumulative effects and the department’s decision that consolidated review is not required.
+(3) If the department determines that pending applications or existing  projects may have cumu-
+lative effects, the Water Resources Commission shall conduct a consolidated review  before approv-
+ing any application in the affected  river basin. A consolidated review process shall be conducted
+as a contested case hearing under the applicable provisions of ORS chapter  183 and shall include
+a study of the individual and  cumulative effects of proposed hydroelectric projects for which appli-
+cations are pending before the department and  existing hydroelectric projects. In its final order on
+an application, the commission or the department shall include its findings  on cumulative impacts.
+The findings of the commission or department  under this section must be sufficient to support the
+department’s decision to approve or deny an application.
+(4) Any application for a project in the same river basin filed after the commission begins  a
+consolidated review contested case hearing shall not be reviewed until the commission  has issued
+final findings on cumulative effects for all projects included in the consolidated review proceeding.
+(5) At the request of an applicant for a permit to appropriate water for a new  hydroelectric
+project under ORS 537.140  to 537.320 or for a permit or license under ORS 543.010 to 543.610, the
+commission may immediately upon receiving such application begin the  consolidated review pro-
+ceeding under subsection (3) of this section.
+(6) If applicable, an application to appropriate  water for the generation of electricity
+submitted under ORS 537.140 shall  be included in the consolidated review and hearings
+process under this section.
+SECTION 32.
+ ORS 543.765 is amended to read:
+543.765. (1) Notwithstanding ORS 537.145 and ORS chapter 543:
+(a) The holder of  a water right may apply to the Water Resources Department for a certificate
+to use water for  hydroelectric purposes within an artificial delivery system under the applicant’s
+existing water right.
+(b) A municipal corporation or people’s utility district, as defined in ORS 261.010, may apply to
+the department for a certificate to use water for hydroelectric  purposes within a piped conduit in
+an artificial delivery system that is delivering  water for municipal uses even if the municipal cor-
+poration or people’s utility  district is not the holder of the underlying municipal water right, if the
+municipal corporation or people’s utility district obtains from the  holder of the underlying municipal
+Enrolled House Bill 3544 (HB 3544-C) Page 31
+water right, and provides to the department with the application, a written statement authorizing
+the municipal corporation or people’s utility district to use the water for hydroelectric purposes.
+(2) If the proposed hydroelectric project meets the applicable capacity limitation under  this
+subsection and meets either the qualifications for a Federal Energy  Regulatory Commission ex-
+emption from  licensing or similar qualifications of another federal agency responsible for authorizing
+the project, the applicant may use the expedited application process under this section  regardless
+of which federal agency issues the authorization. To qualify under this subsection:
+(a) For  a project that is to be built as part of an existing dam, the capacity may not exceed five
+megawatts. Subsection (6)(b) of this section does not apply to a project described  in this paragraph.
+(b) For in-conduit projects, the capacity may not exceed 15 megawatts for a nonmunicipal facil-
+ity or 40 megawatts for a municipal facility. Projects described in this paragraph must  comply with
+subsection (6)(b) of this section.
+(3) An application, which shall be  on a form provided by the Water Resources Department, for
+a hydroelectric certificate under this section must include:
+(a) The certificate number, or decree  reference if no confirming certificate has been issued, of
+the applicant’s existing water  right, or the underlying water right, associated with the proposed
+hydroelectric project.
+(b) A copy of either  a Federal Energy Regulatory Commission exemption application or a similar
+application submitted to the federal agency responsible for authorizing the project, if applicable.
+(c) A proposed schedule of annual water use  and an estimate of the maximum power generation
+of the proposed hydroelectric project.
+(d) A statement by  the applicant that the amount of water used by the proposed hydroelectric
+project will not  exceed the amount authorized and used under the applicant’s existing water right,
+or the underlying water right, for beneficial use without waste.
+(e) A statement that the applicant owns or otherwise controls the water conveyance system.
+(f) An application processing fee of $500. The department shall deposit  fees collected under this
+section into the  Water Resources Department Hydroelectric Fund established pursuant to ORS
+536.015.
+(g) A map or drawing and all other data concerning the proposed hydroelectric project, as  may
+be prescribed by the department. The map or drawing must be of sufficient quality  and scale to es-
+tablish the location of the existing point of  diversion and the proposed location of the hydroelectric
+project.
+(h) If the water to be used for  the proposed hydroelectric project is delivered by a public entity
+other than the applicant for  a certificate under this section, a statement from that entity that the
+entity will be able to deliver water as described in the application.
+(i) Evidence  that the water has been used over the past five years according to the terms and
+conditions of the applicant’s existing water right, or the underlying water right,  described in para-
+graph (a) of this subsection.
+(4) If an applicant provides the information required by subsection (3) of this section:
+(a) The Water Resources Department shall provide notice to both the State Department  of Fish
+and Wildlife and the public, and provide a 30-day period for public comment.
+(b) The Water Resources Department may issue a final order and certificate to use  water for
+hydroelectric purposes upon making a final  determination that the proposed hydroelectric use does
+not impair, or is not detrimental to, the public interest in the manner  provided in ORS 537.170
+[(8)] (5).
+(5) If the Water Resources Department determines that public interest issues  have been identi-
+fied, the department shall issue a final order denying the  application. The department shall also is-
+sue a final order denying the application if the department identifies issues related  to the public
+interest. If  the applicant does not appeal the final order as provided in ORS chapter 183 and, within
+one year of the department’s  final order denying the applicant’s application, files an application with
+the department  for a preliminary permit to operate a hydroelectric project as provided in ORS
+Enrolled House Bill 3544 (HB 3544-C) Page 32
+537.130 and 543.210, the applicant shall receive a credit toward the applicant’s  application fees in
+the amount of $500.
+(6) At a minimum, a certificate issued under this section must contain the following conditions:
+(a) Except as provided in paragraph (b) of this subsection, fish  screens, by-pass devices and fish
+passages as required by the State Department of Fish and Wildlife.
+(b) If the application is for a hydroelectric project that is to be installed in or on a conduit de-
+livery system, the certificate does not need to include a requirement for fish passage at the diversion
+point for the conduit delivery system if:
+(A) The hydroelectric generating equipment for the project is not located on a dam;
+(B) The hydroelectric  generating equipment for the project is installed within or at the end of
+a conduit delivery system;
+(C) The conduit delivery system is operated for the distribution of water for agricultural, mu-
+nicipal or industrial consumption; and
+(D) Except as provided in subsection (16) of this  section, the certificate includes a condition for
+the making of annual payments under subsection (15) of this section.
+(c) That use of  water be limited to periods when the applicant’s existing water right, or the
+underlying water right, is put to beneficial use without  waste and that the amount used is not
+greater than the quantity of water diverted to satisfy the authorized  specific use under the existing
+water right, or the underlying water right, described in subsection (3)(a) of this section.
+(d) That use  of water be limited by rate, duty, season and any other limitations of the applicant’s
+existing water right, or the underlying water right, described in subsection (3)(a) of this section.
+(e) That the applicant measure and report the quantity of water diverted.
+(f) That the restrictions established in ORS 543.660 shall apply  as conditions of use to a certif-
+icate issued under this section to a district as defined in ORS 543.655.
+(g) That a certificate issued under  this section shall be invalidated upon a change in the point
+of diversion of the existing water right,  or the underlying water right, described in subsection (3)(a)
+of this section.
+(h) That the right  to use water under a certificate issued under this section is invalidated if the
+federal exemption or authorization related to the certificate is canceled or invalidated.
+(i) Any other conditions the Water Resources Department deems necessary to protect  the public
+interest.
+(7) The Water Resources Department shall conduct a review of certificates issued under this
+section and shall issue a final order  and a superseding certificate that corresponds to any changes
+or adjustments made to the applicant’s existing water right,  or the underlying water right, described
+in subsection (3)(a) of this section.
+(8) Subsection (6)(b)  of this section does not affect any requirement for fish passage applicable
+to a project that is otherwise required by law.
+(9) Upon request, the State Department of Fish  and Wildlife and the Water Resources Depart-
+ment shall arrange a preapplication meeting with a person to discuss  the requirements associated
+with the installation of a hydroelectric project in an artificial delivery system.
+(10) A certificate issued under this section may not have its own priority date. The Water  Re-
+sources Department may not  regulate for or against any certificate issued under this section based
+on the priority date of the certificate.
+(11) A certificate issued under this section does not grant a right to divert water  for hydro-
+electric purposes.
+(12) A certificate issued under  this section may not be included in the determination of injury
+to other water rights pursuant to ORS chapter 540.
+(13) A certificate issued under  this section is subject to review 50 years after the date of issu-
+ance and pursuant to the terms described in this section.
+(14) Failure to  fully develop and put to use a certificate issued under this section within five
+years of issuance invalidates the hydroelectric certificate.
+Enrolled House Bill 3544 (HB 3544-C) Page 33
+(15)(a) If a certificate contains a condition described in subsection (6)(b) of this section for an-
+nual payments, the payment shall be collected  as provided in paragraph (c) of this subsection. Ex-
+cept as provided in paragraph (b) of this subsection, the annual payment amount must be:
+(A) Except as provided in subparagraph (D) of this paragraph, for the first five years, four  times
+the base hydropower fee amount assessed for the project under ORS 543.078 for the year.
+(B) Except as provided in subparagraph (D) of this paragraph, for  the 6th through 10th years,
+eight times the  base hydropower fee amount assessed for the project under ORS 543.078 for the year.
+(C) Except as provided in subparagraph (D) of this paragraph, after the 10th year,  15 times the
+base hydropower fee amount assessed for the project under ORS 543.078 for the year.
+(D) $100 for any year in which the base  hydropower fee amount assessed for the project under
+ORS 543.078 is less than $100.
+(b) If the certificate is for  a hydroelectric project that will operate on a partial-year basis, the
+fee shall be three-fifths of the amount established in paragraph (a) of this subsection.
+(c) The Water Resources  Department shall collect the fee on behalf of the State Department of
+Fish and Wildlife and forward  the fee moneys for crediting to the Fish Passage Restoration Subac-
+count created under ORS 497.141.
+(16)(a) Notwithstanding subsection (15) of this section, a certificate  for a project to install hy-
+droelectric generating equipment as described  in subsection (6)(b) of this section may provide for the
+termination of annual payments being made  under subsection (15) of this section if, after the date
+the project commences operation:
+(A) The project provides for fish passages;
+(B) There is an agreement between  the applicant and the State Department of Fish and Wildlife
+providing for fish passages associated with the project; or
+(C) A waiver or exemption has been issued under ORS 509.585 for the project.
+(b) A certificate  for a project to install hydroelectric generating equipment as described in
+subsection (6)(b) of this section does not need to  include a condition for the making of annual pay-
+ments under subsection (15) of this section if:
+(A) There is an  agreement between the applicant and the State Department of Fish and Wildlife
+providing for the conduit delivery system to have fish passages associated with the project; or
+(B) A waiver or exemption has been issued under ORS 509.585 for the project.
+(17) If a certificate under this section is issued, the certificate holder must pay  fees consistent
+with the  fees described in ORS 543.078. Failure to pay a required fee invalidates a certificate issued
+under this section.
+(18) The Water Resources  Department shall issue invoices for fees required under this section,
+and the state shall have a preference lien for delinquent fees, as provided in ORS 543.082.
+(19) An applicant for  a certificate issued under this section must provide evidence of a Federal
+Energy Regulatory Commission exemption or approval under  a similar process by the federal agency
+responsible for authorizing the project before a certificate can be issued, if applicable.
+(20) Nothing in this section shall alter the preference of municipalities in  ORS 543.260 (3) and
+543.270.
+CAPTIONS
+SECTION 33.
+The unit captions used in this 2025 Act are provided  only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2025 Act.
+Enrolled House Bill 3544 (HB 3544-C) Page 34
+Passed by House June 23, 2025
+Repassed by House June 27, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate June 27, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 3544 (HB 3544-C) Page 35
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 183.310, ORS 183.413, ORS 183.415, ORS 183.480, ORS 190.003, ORS 261.010, ORS 390.835, ORS 497.141, ORS 509.585, ORS 517.702, ORS 517.952, ORS 536.015, ORS 536.031, ORS 536.045, ORS 536.050, ORS 536.075, ORS 536.295, ORS 536.300, ORS 536.310, ORS 536.340, ORS 536.410, ORS 536.750, ORS 537.120, ORS 537.140, ORS 537.143, ORS 537.145, ORS 537.147, ORS 537.150, ORS 537.153, ORS 537.170, ORS 537.175, ORS 537.211, ORS 537.220, ORS 537.225, ORS 537.227, ORS 537.230, ORS 537.248, ORS 537.250, ORS 537.252, ORS 537.260, ORS 537.289, ORS 537.295, ORS 537.297, ORS 537.332, ORS 537.341, ORS 537.343, ORS 537.348, ORS 537.400, ORS 537.409, ORS 537.410, ORS 537.420, ORS 537.440, ORS 537.445, ORS 537.455, ORS 537.465, ORS 537.470, ORS 537.485, ORS 537.525, ORS 537.610, ORS 537.615, ORS 537.620, ORS 537.621, ORS 537.622, ORS 537.625, ORS 537.627, ORS 537.628, ORS 537.629, ORS 537.635, ORS 537.730, ORS 537.753, ORS 537.762, ORS 537.798, ORS 540.505, ORS 540.510, ORS 540.520, ORS 540.523, ORS 540.524, ORS 540.530, ORS 540.533, ORS 540.535, ORS 540.537, ORS 540.560, ORS 540.570, ORS 540.585, ORS 540.610, ORS 540.631, ORS 540.641, ORS 541.327, ORS 541.329, ORS 541.890, ORS 541.932, ORS 543.010, ORS 543.017, ORS 543.078, ORS 543.082, ORS 543.255, ORS 543.260, ORS 543.270, ORS 543.280, ORS 543.655, ORS 543.660, ORS 543.765, ORS 543A.030, ORS 543A.410
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `8d17ed13e425c97aec19fb789fc76c77593b0db3b492a4c5a20ec81371e00976` (snapshot `_meta/snapshots/measure-2025r1-hb3544-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3544/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `0ea3eb435f02264df8eab1937a3354afadc405a62c37f9287ea0ad67aced9939` (snapshot `_meta/snapshots/measure-2025r1-hb3544-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3544/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3544> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

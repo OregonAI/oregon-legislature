@@ -1,0 +1,111 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3442
+Sponsored by Representative NOSSE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Exempts certain people from having to get a license to transmit money. (Flesch Read-
+ability Score: 60.7).
+Exempts from the requirement to obtain a money transmission license a person  that assists with
+or facilitates payment for goods or services under the terms of a contract  with a payee if the person
+does not engage in money  transmission and if payment to the person satisfies or otherwise extin-
+guishes a payor’s obligation to the payee.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to payment facilitation; amending ORS 717.210; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 717.210 is amended to read:
+717.210. (1) ORS 717.200 to 717.320, 717.900 and 717.905 do not apply to:
+(a) Any company that accepts deposits in this state and  that is insured under the Federal De-
+posit Insurance Act,  12 U.S.C. 1811 et seq., as [ amended] in effect on the effective date of this
+2025 Act.
+(b) Credit unions or trust companies.
+(c) The United States Government or any department, agency or instrumentality thereof.
+(d) The United States Postal Service.
+(e) Any state or political subdivision of a state.
+(f) The provision or electronic transfer of government benefits for any federal,  state or county
+government  or  other agency as defined in the Federal Reserve Board Regulation E (12 C.F.R. part
+205), as in effect on the effective date of this 2025 Act,  by a contractor for and on behalf  of the
+United States  Government or any department, agency or instrumentality of the United States, or any
+state or any political subdivision of a state.
+(g) The provision or handling of  electronic or other transfer of escrowed moneys by an escrow
+agent licensed under ORS 696.511 to the extent that the escrow agent is:
+(A) Closing an escrow, as defined in ORS 696.505;
+(B) Engaging in activity related to a collection escrow, as defined in ORS 696.505; or
+(C) Serving as a trustee of a trust deed in accordance with ORS 86.713.
+(h) Authorized delegates of a licensee, acting within the  scope of authority conferred by a
+written contract as described in ORS 717.270.
+(i) Any bank holding company as defined in the federal Bank Holding  Company Act of 1956, 12
+U.S.C. 1841 et seq., as amended, or any financial holding company as defined in ORS 706.008.
+(j) Any  savings and loan holding company as defined in 12 U.S.C. 1467a (a)(1)(D), as [ amended]
+in effect on the effective date of this 2025 Act .
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3914
+HB 3442
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+(k) A person  that, in accordance with the terms of a written contract with a payee, as-
+sists with or facilitates payment for goods or services through a licensee or through a  fi-
+nancial institution, as defined in ORS 706.008, that  is subject to regulation under the 31
+U.S.C. 5311 to 5332, as  in effect on the effective date of this 2025 Act, if the person does not
+engage in money transmission and if payment to  the person satisfies or otherwise extin-
+guishes a payor’s obligation to the payee.
+(2) The Director of the Department of Consumer  and Business Services by rule or order may
+modify or waive the application of ORS 717.200 to 717.320, 717.900 and 717.905 to any  person or
+group of persons if the director determines that adequate regulation  of the person or group of per-
+sons is provided by law or by another agency of this state.
+(3) The director by rule or order may temporarily suspend the application of ORS 717.200  to
+717.320, 717.900 and 717.905 to any person  or group of persons while the director considers whether
+an exemption should be granted  and during the pendency of any rulemaking proceeding proposing
+to create an exemption.
+SECTION 2.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

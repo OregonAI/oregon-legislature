@@ -1,0 +1,54 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2540
+Sponsored by Representative DIEHL (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes certain health insurers credit certain costs to an enrollee’s health plan.  (Flesch
+Readability Score: 60.7).
+Requires certain  health insurers to credit any amount an enrollee pays directly to a provider
+toward out-of-pocket costs and deductibles in certain circumstances.
+A BILL FOR AN ACT
+Relating to medical out-of-pocket costs.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS 743B.280 to
+743B.285.
+SECTION 2. (1) An insurer offering a health benefit plan as defined in ORS 743B.005  shall
+credit any amount an enrollee pays directly to a health care provider  to the enrollee’s
+deductible and annual out-of-pocket expenses if:
+(a) The health care item or service is medically necessary and covered  under the
+enrollee’s health benefit plan;
+(b) The enrollee does not submit the claim to the insurer; and
+(c) The amount paid to the health care provider is less than the  average discounted rate
+for the item or service paid to an in-network health care provider with the same license.
+(2) An insurer shall establish a process  for an enrollee to submit a claim for the credit
+described in subsection  (1) of this section, including the necessary documentation the
+enrollee is required to submit in support of the claim.
+SECTION 3.
+Section 2 of this 2025 Act applies  to a health benefit plan issued, renewed
+or extended on or after the effective date of this 2025 Act.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2584

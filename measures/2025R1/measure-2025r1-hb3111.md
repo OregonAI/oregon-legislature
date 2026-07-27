@@ -1,0 +1,771 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3111
+title: 'HB 3111 (2025R1): Requires the Housing and Community Services Department to establish an eviction
+  mediation program.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3111
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3111/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 2253ffe0617ffbfee8c4c579dc128a939c8b5879853dd42d9268917839283802
+snapshot_id: measure-2025r1-hb3111-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 105.100
+  - ORS 105.105
+  - ORS 105.110
+  - ORS 105.113
+  - ORS 105.115
+  - ORS 105.124
+  - ORS 105.126
+  - ORS 105.130
+  - ORS 105.135
+  - ORS 105.136
+  - ORS 105.137
+  - ORS 105.140
+  - ORS 105.145
+  - ORS 105.146
+  - ORS 105.148
+  - ORS 105.149
+  - ORS 105.151
+  - ORS 105.163
+  - ORS 105.164
+  - ORS 14.250
+  - ORS 174.109
+  - ORS 36.185
+  - ORS 408.515
+  - ORS 90.130
+  - ORS 90.135
+  - ORS 90.147
+  - ORS 90.155
+  - ORS 90.255
+  - ORS 90.391
+  - ORS 90.392
+  - ORS 90.395
+  - ORS 90.412
+  - ORS 91.120
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3111
+prefix_meaning: House Bill
+catch_line: Requires the Housing and Community Services Department to establish an eviction mediation
+  program.
+minority_catch_line: null
+measure_summary: "\tDigest: This Act requires OHCS to make a mediation program for all evictions. (Flesch\
+  \ Readability Score: 60.7). \n\tRequires the Housing and Community Services Department to establish\
+  \ an eviction mediation program. Requires residential landlords to provide information about the program\
+  \ in termination notices. Requires parties to eviction to participate in the program. Amends eviction\
+  \ mediation and settlement procedures. Becomes operative on July 1, 2026. \n\tAppropriates moneys to\
+  \ the department for the program. \n\tAllows tenants to use nonattorneys in eviction proceedings and\
+  \ allows the prevailing party to recover nonattorney costs. \n\tTakes effect on the 91st day following\
+  \ adjournment sine die.\t."
+relating_to: Relating to evictions; prescribing an effective date.
+relating_to_full: Relating to evictions; creating new provisions; amending ORS 90.255, 90.391, 105.113,
+  105.130, 105.135, 105.137, 105.145, 105.146, 105.148, 105.163 and 105.164; and prescribing an effective
+  date.
+at_the_request_of: null
+lc_number: 1938
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-01-28T14:33:53'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 42689
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 105.100
+  - ORS 105.105
+  - ORS 105.110
+  - ORS 105.113
+  - ORS 105.115
+  - ORS 105.124
+  - ORS 105.126
+  - ORS 105.130
+  - ORS 105.135
+  - ORS 105.136
+  - ORS 105.137
+  - ORS 105.140
+  - ORS 105.145
+  - ORS 105.146
+  - ORS 105.148
+  - ORS 105.149
+  - ORS 105.151
+  - ORS 105.163
+  - ORS 105.164
+  - ORS 14.250
+  - ORS 174.109
+  - ORS 36.185
+  - ORS 408.515
+  - ORS 90.130
+  - ORS 90.135
+  - ORS 90.147
+  - ORS 90.155
+  - ORS 90.255
+  - ORS 90.391
+  - ORS 90.392
+  - ORS 90.395
+  - ORS 90.412
+  - ORS 91.120
+  from_relating_to_full:
+  - ORS 105.113
+  - ORS 105.130
+  - ORS 105.135
+  - ORS 105.137
+  - ORS 105.145
+  - ORS 105.146
+  - ORS 105.148
+  - ORS 105.163
+  - ORS 105.164
+  - ORS 90.255
+  - ORS 90.391
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3111>.
+
+# HB 3111 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3111, 2025 Regular Session (2025R1)
+- **LC number:** 1938
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-01-28T14:33:53
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 42689 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3111/Introduced>.
+
+## Summary
+
+**Catchline:** Requires the Housing and Community Services Department to establish an eviction mediation program.
+
+**Relating to:** Relating to evictions; prescribing an effective date.
+
+Digest: This Act requires OHCS to make a mediation program for all evictions. (Flesch Readability Score: 60.7). 
+ Requires the Housing and Community Services Department to establish an eviction mediation program. Requires residential landlords to provide information about the program in termination notices. Requires parties to eviction to participate in the program. Amends eviction mediation and settlement procedures. Becomes operative on July 1, 2026. 
+ Appropriates moneys to the department for the program. 
+ Allows tenants to use nonattorneys in eviction proceedings and allows the prevailing party to recover nonattorney costs. 
+ Takes effect on the 91st day following adjournment sine die. .
+
+**RelatingToFull (verbatim upstream field):** Relating to evictions; creating new provisions; amending ORS 90.255, 90.391, 105.113, 105.130, 105.135, 105.137, 105.145, 105.146, 105.148, 105.163 and 105.164; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3111
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act requires OHCS to make a mediation program for all evictions. (Flesch  Read-
+ability Score: 60.7).
+Requires the Housing and Community Services  Department to establish an eviction mediation
+program. Requires  residential landlords to provide information about the program in termination
+notices.  Requires  parties to eviction to participate in the program. Amends eviction mediation and
+settlement procedures. Becomes operative on July 1, 2026.
+Appropriates moneys to the department for the program.
+Allows tenants to use nonattorneys in eviction  proceedings and allows the prevailing party to
+recover nonattorney costs.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to evictions; creating new provisions; amending ORS 90.255,  90.391, 105.113, 105.130,
+105.135, 105.137, 105.145, 105.146, 105.148, 105.163 and 105.164; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Eviction mediation program. (1) As used in sections 1 to 3 of this 2025 Act:
+(a) “Eviction” means a claim for possession of real property arising under ORS 105.110.
+(b) “Eviction mediation program” or “program” means the program described in  sections
+1 to 3 of this 2025 Act.
+(c) “First appearance” means a first appearance as described in ORS 105.137.
+(d) “Good faith” means honesty in fact in the conduct of mediation, including  possessing
+the full authority to negotiate and enter a settlement agreement and conformance  to any
+other reasonable requirements imposed by a court or mediator.
+(2) The Housing and Community Services Department shall establish an  eviction medi-
+ation program as described in sections 1 to 3 of this 2025 Act.
+(3) The  purpose of the program is to facilitate the rapid and low-cost resolution of
+eviction matters and  to provide independent, impartial and speedy mediations to landlords
+and tenants.
+(4) Under the program, the department shall establish a mandatory court-connected
+eviction mediation program for each circuit and justice court that hears evictions.
+(5) Notwithstanding ORS 36.185, at the first appearance or at any time before an eviction
+trial, the court shall refer the parties to the eviction mediation program.
+(6) Under the program,  the department shall employ mediators and provide the mediators
+with initial and ongoing education and training that covers topics including mediation strat-
+egies, professionalism, confidentiality and landlord-tenant law.
+(7) The department may:
+(a) Adopt rules implementing sections 1 to 3 of this 2025 Act; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1938
+(b) Contract with third parties to develop, support and implement the program.
+SECTION 2.
+Mediator qualifications. (1) To serve as a mediator under the eviction  medi-
+ation program, a mediator must:
+(a) Complete any training required  by the Housing and Community Services Department;
+(b) Demonstrate  to the satisfaction of the department an understanding of court-
+connected mediations;
+(c) Meet the qualifications of, and be approved  by, each circuit court in which the
+mediator operates;
+(d) Have mediated at least 35  cases in which a mediated agreement was reached, includ-
+ing at least 25 cases with one or more self-represented parties;
+(e) Have at least 200 hours of mediation experience; and
+(f) Have observed at least five first appearances, five eviction mediations and five eviction
+trials.
+(2) Except as otherwise provided in sections 1 to 3  of this 2025 Act, ORS 36.185 to 36.210
+and 36.220 to 36.238 and the rules of the circuit courts of this state related to medication
+apply to mediators and mediations in the program.
+SECTION 3.
+Mediation and court eviction process. (1) Mediations conducted under the
+eviction mediation program:
+(a) Must take place in person whenever possible.
+(b) Must be  conducted as near as practicable in time and location to any first appearance,
+including inside the courthouse whenever possible.
+(c) May be conducted outside of court hours only at the mediators’ discretion.
+(d) Must allow a  party to designate any person, including a non-attorney, to represent
+the interests of the party with the full authority to bind the party.
+(e) May not require a payment of fees by any party or court.
+(f) Must allow the attendance or participation of the Department of Veterans’ Affairs,
+Oregon Health Authority or Housing and Community Services Department under sections 4,
+5 or 6 of this 2025 Act or other public bodies,  as defined in ORS 174.109, or nonprofit organ-
+izations that may be able to provide tenant benefits or assistance.
+(2) The mediator shall:
+(a) Attempt to get the parties to reach a settlement agreement; and
+(b) Report the outcome of the  mediation upon reaching a settlement agreement or upon
+finding that the parties cannot  reasonably reach an agreement, including because one or
+more of the parties is not participating in the mediation in good faith.
+(3) Notwithstanding any confidentiality requirement of the mediator, if an eviction  claim
+has been filed with a court, the mediator shall:
+(a) Notify the court of the basis of any dismissal or settlement; or
+(b) If the  parties have settled the matter, prepare a written settlement agreement and
+provide the agreement to the court for entry of a judgment  or order under section 8 (2) of
+this 2025 Act.
+(4) Notwithstanding any confidentiality requirement or rule of  professional conduct that
+otherwise may apply, a judge and mediator may communicate candidly  together about cases
+and state on the record the facts or reasons supporting the resolution of a case.
+(5) The court shall, under ORS 105.137:
+(a) Dismiss a complaint brought by a landlord  if the court finds that the landlord did not
+participate in mediation in good faith; or
+(b) Enter a  default judgment against a tenant if the court finds that the tenant did not
+participate in mediation in good faith.
+(6) A judge or mediator may  continue a mediation for a reasonable period not to exceed
+seven days, or longer pursuant to  stipulation of the parties, during which time any disputes
+arising under the agreement must be first referred to the mediator  for further mediation
+under this section.
+SECTION 4.
+The Department of Veterans’ Affairs  shall make available a representative
+from the department during mediations operated under the eviction mediation program  un-
+der sections 1 to 3 of this 2025 Act for the purposes of connecting tenants  to available ben-
+efits or resources provided by the department. The representative must  be available in
+person whenever practicable, or may be available electronically or by phone.
+SECTION 5. The Oregon Health Authority shall make available a  representative from the
+authority during mediations operated under the eviction mediation program under  sections
+1 to 3 of this 2025 Act for the purposes of connecting  tenants to available benefits or re-
+sources provided by the authority. The representative must be available in person whenever
+practicable, or may be available electronically or by phone.
+SECTION 6. The Housing and Community Services Department shall make available a
+representative from the department  during mediations operated under the eviction mediation
+program under sections 1 to 3 of this 2025 Act  for the purposes of connecting tenants to
+available benefits or  resources provided by the department. The representative must be
+available in person whenever practicable, or may be available electronically or by phone.
+SECTION 7. Section 8 of this  2025 Act is added to and made a part of ORS 105.105 to
+105.168.
+SECTION 8. Court entry of settlement of eviction claim. (1) Prior to the  close of trial,
+the parties may enter into a settlement agreement,  including an agreement facilitated
+through the eviction mediation program under  sections 1 to 3 of this 2025 Act or other me-
+diation programs.
+(2) Upon receipt of a settlement agreement or other notice of settlement from the parties
+or a mediator, the court may either:
+(a) Enter a judgment dismissing  the matter and including any money award or award of
+costs, disbursements or attorney fees described in the agreement; or
+(b) Enter an order  incorporating a written settlement agreement or the essential terms
+of an oral settlement agreement and  retaining jurisdiction over the matter for the period
+no longer than the lesser of:
+(A) The time necessary or reasonable to implement the agreement to the extent that it
+deviates from the rental agreement; or
+(B) Twelve months.
+(3) The court shall enter a judgment of dismissal in favor of the defendant,  without an
+award of costs  or fees to either party, following the termination of the court’s jurisdiction
+under subsection (2)(b) of this section unless  an affidavit of noncompliance, as described in
+ORS 105.146, is pending before the court.
+SECTION 9.
+ ORS 90.391 is amended to read:
+90.391. [Except as provided in ORS 408.515 (3), ] A notice of termination of tenancy  under any
+provision of this chapter must include :
+(1) The information required by ORS 408.515 ; and
+(2) Information on the eviction mediation program under sections 1 to 3 of this 2025 Act
+substantially in the form provided by the Housing and Community Services Department by
+rule.
+SECTION 10.
+ ORS 105.146 is amended to read:
+105.146. (1) In an action to recover possession of the premises, if the court has entered an order
+by stipulation that provides for the defendant to retain possession of  the premises contingent upon
+the defendant’s performance  or payment of moneys by a certain date as provided under [ ORS 105.145
+(2)] section 8 (2)(b)  of this 2025 Act , and the defendant fails to comply with the order, the plaintiff
+may obtain and enforce a judgment of restitution of the premises pursuant to  this section and ORS
+105.148 and 105.149.
+(2) A plaintiff may obtain and enforce a judgment of restitution  based upon [ an order entered as
+provided under ORS 105.145 (2), provided the order includes only ] the defendant’s noncompliance
+with a judgment or order under section 8 (2) of  this 2025 Act, only if the judgment or order
+provides:
+(a) The defendant’s future performance or conduct [ as described in the order ] for a period of
+not more than six months following entry of the order;
+(b) Payment [ of past due rent and other  past due ] by the defendant of past due rent, attorney
+fees, costs or specified  amounts pursuant to a schedule  [ provided in the order for ] over a period
+of not more than [ six] 12 months following entry of the order;
+(c) Payment of  rent due for [ future rental periods that follow entry of the order pursuant to a
+schedule provided in the order for not more than ] the first three monthly rental periods  following
+entry of the order  pursuant to a schedule ; [ and]
+[(d) Payment of any costs, disbursements or attorney fees  pursuant to a schedule provided in the
+order.]
+(d) That the  defendant voluntarily deliver possession to the plaintiff by a specified date
+and time; or
+(e) That a court may award costs, disbursements, prevailing party fees or  attorney fees
+based on a defendant’s noncompliance with the judgment or order.
+[(3) The order shall contain a statement providing that 12 months  following the entry of the order,
+the court shall automatically dismiss the order without further notice to either the plaintiff or  the de-
+fendant.]
+[(4)] (3)  If the defendant fails to comply with the order, the plaintiff may file with the clerk  of
+the court an affidavit or declaration of noncompliance describing how the defendant has  failed to
+comply. The plaintiff shall attach a copy of the  order to the affidavit or declaration. The affidavit
+or declaration, or the order, must include the terms of the underlying settlement agreement or
+stipulation or have a copy of the agreement attached.
+[(5)] (4) Upon receipt of a plaintiff’s affidavit or declaration:
+(a) The court shall enter a judgment of restitution; and
+(b) The clerk shall issue a notice of restitution as provided by ORS  105.151 and attach to the
+notice a copy of the plaintiff’s  affidavit or declaration of noncompliance and any attachments for
+service.
+[(6)] (5) The court shall establish a procedure  that allows the defendant to request a hearing
+on the plaintiff’s affidavit or declaration of noncompliance and delay expiration of the  notice of
+restitution period or execution upon a judgment of restitution pending the hearing.
+(6) If  a plaintiff does not comply with an order entered under section 8 (2) of this 2025
+Act, as appropriate to enforce the terms of the  order or settlement agreement, a defendant
+may obtain a judgment of dismissal, money award or award of  costs, disbursements, pre-
+vailing party fees or attorney fees.
+[(7) The court shall enter a judgment dismissing the plaintiff’s action in  favor of the defendant
+without assessment of costs, disbursements, prevailing party  fee or attorney fees against either party
+except as provided in the order and without further notice to either party: ]
+[(a) Upon receipt of a writing signed by the plaintiff showing compliance with  or satisfaction of the
+order; or]
+[(b) Twelve months following entry of the order, unless the plaintiff has filed an  affidavit or dec-
+laration of  noncompliance and the court has found in favor of the plaintiff on the affidavit or declara-
+tion.]
+SECTION 11.
+ ORS 105.137 is amended to read:
+105.137. [ In the case of a dwelling unit to  which ORS chapter 90 applies: ] In an action for
+possession of real property under ORS 105.110:
+(1) A default judgment shall be  entered in favor of the plaintiff for possession of the premises
+and costs and disbursements only if:
+(a) The plaintiff appears and the defendant fails to appear at  the first appearance  or has failed
+to participate in good faith in mediation under section 3 (2) of this 2025 Act ;
+(b) The court determines that the complaint complies with ORS 105.115 and 105.124  and is suf-
+ficient to state a cause of action for possession; and
+(c) The plaintiff testifies under oath or  submits an affidavit or declaration under penalty of
+perjury stating that, as of the date of the testimony:
+(A) The plaintiff does not have knowledge that the defendant has delivered  possession to the
+plaintiff as described in ORS 90.147 (2); and
+(B) The plaintiff reasonably believes that the defendant remains in possession of the premises.
+(2) If the defendant  appears and the plaintiff fails to appear at the first appearance  or has failed
+to participate in good faith in mediation under section 3 (2) of this 2025 Act , a default judgment
+shall be entered in  favor of the defendant dismissing the plaintiff’s complaint and awarding costs and
+disbursements.
+(3) An attorney at law shall be entitled to appear on behalf  of any party, but attorney fees may
+not be awarded to the plaintiff if the defendant does not contest the action.
+(4) If the plaintiff dismisses the action  before the first appearance, a judgment of dismissal shall
+be entered  in favor of the defendant dismissing the plaintiff’s complaint and awarding costs and
+disbursements. The defendant may not recover attorney fees for prejudgment legal services  provided
+after the delivery  of written notice of the dismissal by the plaintiff to the defendant, or to an at-
+torney for the defendant, in the manner provided under ORS 90.155.
+(5) The plaintiff or an agent of the plaintiff may obtain  a continuance of the action for as long
+as the plaintiff or the agent of the plaintiff [ deems necessary to obtain  the services of an attorney at
+law].
+(6) If both parties appear [ in court on the date contained in the summons, the court shall ] at the
+first appearance, the court may:
+(a) Continue the first appearance for up to  seven days for the purpose of completing
+mediation made available under section 3 of this 2025 Act;
+(b) Enter any order or judgment under section 8 (2) of this 2025 Act; or
+(c) If mediation is unavailable or has been  completed without resolution, set the matter for
+trial [ unless the court is advised by the parties that the matter has  been settled ]. The trial shall be
+scheduled:
+[(a)] (A)  For a claim based on  nonpayment, as defined in ORS 90.395, no earlier than 15 days,
+and no later than 30 days, following the [ appearance] date that mediation was concluded ; or
+[(b)] (B)  For any other claim,  as soon as practicable and no later than 15 days [ from the date
+of the appearance ] following the date that mediation was concluded .
+(7)(a) A court that continues  the first appearance under subsection (6)(a) of this section
+shall enter an order requiring that the tenant  pay to the landlord the prorated amount of
+rent attributable to the continuance, which the  landlord may accept as rent without consti-
+tuting waiver of the termination of the tenancy, including under ORS 90.412.
+[(7)] (b) If the matter is not tried within the period described in subsection (6) (c) of this  section,
+and the delay in trial is not attributable to the landlord, the court shall order the  defendant to pay
+rent that is accruing into court, provided the  court finds after hearing that entry of such an order
+is just and equitable.
+(8)(a) A defendant shall file an answer and serve a copy upon the plaintiff  by the end of
+the judicial day next following the day mediation was concluded.
+[(8)(a)] (b) The court shall permit an unrepresented defendant to proceed to trial by directing
+the defendant  to , by the end of the judicial day next following the day on which mediation was
+concluded, file an answer in  writing [ on a form which shall be available from the court clerk, ] and
+to serve a copy upon the plaintiff [ on the same day as first appearance ].
+[(b)] (c) The answer [ shall be ] to a claim brought  under ORS chapter 90 by an unrepre-
+sented defendant must be made  in substantially the following form:
+_______________________________________________________________________________________
+IN THE 
+ COURT FOR
+THE COUNTY OF 
+(Landlord), )
+)
+Plaintiff(s), )
+)
+vs. ) No.
+)
+(Tenant), )
+)
+Defendant(s). )
+ANSWER
+I (we) deny that the plaintiff(s) is (are) entitled to possession because:
+ The landlord did not make repairs.
+List any repair problems: 
+ The landlord  is attempting to evict me (us) because of my (our) complaints (or the eviction is
+otherwise retaliatory).
+ The  landlord is attempting to evict me because of my status as a victim of domestic violence,
+sexual assault, bias crime or stalking.
+ The eviction notice is wrong.
+ List any other defenses: 
+I (we) may be entitled as the prevailing party to recover attorney fees from plaintiff(s) if I (we)
+obtain legal services to defend this action pursuant to ORS 90.255.
+I (we) ask that the plaintiff(s) not  be awarded possession of the premises and that I (we) be
+awarded my (our)  costs and disbursements and attorney fees, if applicable, or a prevailing party fee.
+Date Signature of defendant(s)
+_______________________________________________________________________________________
+(d) The court clerk shall make available a copy of  the form described in paragraph (c)
+of this subsection to an unrepresented defendant.
+(9) If an unrepresented defendant files an answer  as provided in subsection (8) of this section,
+the answer does not limit the defenses available to the defendant  at trial under ORS chapter 90.
+If such a defendant seeks to assert at trial a defense  not fairly raised by the answer, the plaintiff
+is entitled to a reasonable continuance for the purposes of preparing to meet the defense.
+SECTION 12.  ORS 105.113 is amended to read:
+105.113. (1) Notwithstanding ORCP 7, for premises to which ORS chapter 90  or ORS 91.120 ap-
+plies, the summons must be  in substantially the following form and be available from the court clerk:
+_______________________________________________________________________________________
+IN THE CIRCUIT COURT
+FOR THE COUNTY OF
+No. 
+SUMMONS
+RESIDENTIAL EVICTION
+PLAINTIFF (Landlord or agent):
+vs.
+DEFENDANT (Tenants/Occupants):
+TO:  (Street address and city of property occupied by defendant)
+ (Mailing address if different)
+NOTICE TO TENANTS:
+READ THESE PAPERS CAREFULLY
+YOUR LANDLORD WANTS TO
+EVICT YOU
+ON , 2  AT  A.M./P.M., you must come to the County Court House
+located at . You do not have to pay any fees to the court for this first hearing.
+• If you do not appear in court  and your landlord does, your landlord will win automatically and
+can have the Sheriff physically remove you.
+• If you do show up in court and your landlord does not, this eviction action will be dropped.
+• If both of you show up:
+• [ The judge may ask  you to try to reach an agreement with your landlord, but this is volun-
+tary. Trained mediators may be  available free of charge to help resolve disputes. ] If you have
+not already participated in mediation, you will  be assigned a trained mediator to help
+you and your landlord reach an agreement.
+• The court will schedule a trial if you and your landlord do not reach an agreement [ or if
+you do not agree to move out ].
+IF YOU WANT A TRIAL, YOU MUST:
+• Show up in court at the time scheduled above;
+• On the same day, file an Answer with the Court giving a legal reason why you  should not be
+evicted (the Court can give you a form);
+• Give a copy of the Answer to your landlord (or your landlord’s agent or attorney); and
+• Pay a  filing fee of $
+ (the judge may allow payment to be deferred in certain circum-
+stances).
+IF YOU HAVE QUESTIONS, YOU  SHOULD SEE AN ATTORNEY IMMEDIATELY. If you need
+help finding an attorney, you can contact  the Oregon State Bar’s Lawyer Referral Service online
+at
+ (current  website) or by calling  (current phone num-
+bers).
+Signature of Plaintiff (landlord or agent)
+Plaintiff’s address:
+Plaintiff’s telephone number: 
+_______________________________________________________________________________________
+(2) Except as provided in  ORS 408.515 (3), the information required under ORS 408.515 must be
+included with the summons.
+SECTION 13.  ORS 105.135 is amended to read:
+105.135. (1) Except as provided in this section, the summons shall  be served and returned as in
+other actions.
+(2)(a) The clerk shall calculate the first appearance, which shall be:
+(A) Seven days after the judicial day next following payment of the filing fees; or
+(B) If the claim for possession is  brought under ORS 90.392 or 90.394 for nonpayment as defined
+in ORS 90.395, 15 days after the judicial day next following payment of the filing fees.
+(b) The clerk may delay the first appearance by up to seven days  to accommodate dates on
+which a judge is unavailable to conduct the first appearance and, if  possible, to accommodate dates
+that the plaintiff has indicated unavailability.
+(c) The clerk shall enter the first appearance date on the summons.
+(d) If the claim for possession is based on nonpayment as defined in ORS 90.395,  the clerk shall
+include as part of the summons a copy of the notice described in ORS 105.136.
+(3) Notwithstanding ORCP 10, by the end of the judicial day  next following the payment of filing
+fees:
+(a) The clerk shall mail  the summons and complaint by first class mail to the defendant at the
+premises.
+(b) The process server shall serve the defendant with the summons and  complaint at the prem-
+ises by personal delivery to the defendant or,  if the defendant is not available for service, by at-
+taching the summons and complaint in a secure manner to the main entrance  to that portion of the
+premises of which the defendant has possession.
+(4) A sheriff may serve a facsimile of a summons and complaint that is transmitted  to the sheriff
+by a trial court administrator or another sheriff by means of facsimile  communication. A copy of the
+facsimile must be attached to the sheriff’s return of  service. Before transmitting a summons and
+complaint to a sheriff under this subsection, the person sending the facsimile must receive confir-
+mation by telephone from the sheriff’s  office that a telephonic facsimile communication device is
+available and operating.
+(5) The process server shall indicate the manner in which  service was accomplished by promptly
+filing with the clerk a certificate of service as provided by ORCP 7 F(2)(a).
+(6) [In the case of premises to which ORS chapter 90 applies, ] The  summons shall inform the de-
+fendant of the procedures, rights and responsibilities of the parties as specified in ORS 105.137.
+SECTION 14.
+ ORS 105.145 is amended to read:
+105.145. (1) If an action for possession of real property  under ORS 105.110 is tried by the
+court [ without a jury, ] and after  hearing the evidence the court or jury concludes that the complaint
+is not true,  the court shall enter judgment against the plaintiff for costs and disbursements. If [ the
+court finds ] the complaint is found true or if judgment is rendered by default, the  court shall render
+a general judgment against the defendant and in favor of the plaintiff,  for restitution of the premises
+and the costs and disbursements of the action. If the [ court finds the ] complaint is found true in
+part, the court shall render judgment for the restitution of such part only, and the costs  and dis-
+bursements shall be taxed as the court deems just and equitable.
+(2) Notwithstanding ORS 14.250 to 14.270, a  judge may not be disqualified from trying an
+action under this section  solely based on the judge’s role in presiding over the first appear-
+ance, mediation or other pretrial settlement matters associated with the action.
+[(2) If, as  a result of a court-sponsored or other mediation or otherwise, the plaintiff and defendant
+agree, in the manner provided by ORCP 67 F for judgment by stipulation, that the  defendant shall
+perform in a certain manner or that the plaintiff shall be paid moneys agreed to be owing by the  de-
+fendant and that as a result of that performance or payment  the defendant shall retain possession of
+the premises, including retention of  possession contingent upon that performance or payment of moneys
+by the defendant by  a certain date, the court shall enter an order or judgment to that effect. In addition,
+if the plaintiff and defendant agree that the plaintiff shall perform in a certain manner or pay moneys
+to the defendant by a certain date, the court shall enter an order or judgment to that effect. ]
+[(3) If, as provided by subsection (2) of this section,  the parties enter an order or judgment by
+stipulation that requires the defendant to perform in a certain  manner or make a payment by a certain
+date and  the defendant later demonstrates compliance with the stipulation, the court shall enter a
+judgment of dismissal in favor of the defendant. ]
+SECTION 15.
+ ORS 105.148 is amended to read:
+105.148. (1)(a) To contest a plaintiff’s  affidavit or declaration of noncompliance under ORS
+105.146 and delay expiration of the notice of restitution period  or execution upon the judgment of
+restitution, a defendant shall file a request for hearing with the clerk  of the court. The request must
+be filed prior to issuance by the clerk of a writ of execution of judgment  of restitution and must
+include a statement  by the defendant describing how the defendant complied with the order or de-
+scribing why the defendant should not be required to comply.
+(b) A court may, as part of  the procedure authorized by ORS 105.146 [ (6)] (5) , require that a
+defendant submit  a hearing request to the court for ex parte review prior to the defendant’s filing
+the request with the clerk. If the court provides for ex parte  review, the ex parte review must be
+available every judicial day for appearance by the defendant before the court within the  time period
+between service of the notice of restitution and  the date of expiration of the notice of restitution.
+The notice of restitution must include or have attached to it a description of the requirements  for
+appearing before the court for ex parte review  and a copy of the hearing request form. The court
+may not require that the defendant notify the plaintiff of the defendant’s intention to appear before
+the court. If, after hearing the defendant at the ex parte review, the court finds that  the reasons
+given by the defendant for opposing the plaintiff’s affidavit or declaration of  noncompliance do not
+relate to the issues listed in ORS 105.149 (2), the court shall deny the request for a hearing.
+(2) The clerk shall make available a document providing for  a request for hearing by a defend-
+ant. The document must be in substantially the following form:
+_______________________________________________________________________________________
+IN THE CIRCUIT COURT
+FOR THE COUNTY OF
+Defendant’s Request for Hearing to
+Contest an Affidavit or Declaration
+of Noncompliance
+Case No. 
+Landlord or agent (Plaintiff):
+vs.
+Tenant/Occupant (Defendant):
+Address of Property:
+1. My landlord has filed a statement  with the court saying that I have not complied with a
+court-approved agreement and that as a result my  landlord is entitled to possession of the property.
+2. I deny the landlord is entitled  to possession of the property because (The reason must be one
+of the following. You must check one or more of these  responses and you must explain in section
+3.):
+ a. The landlord is wrong. As explained below, I did comply with the agreement.
+ b. Before I could comply with the agreement, the landlord was supposed to do  what is
+explained below, which the landlord did not do.
+ c. The landlord and I changed the agreement and I complied with  the agreement as
+changed. The change we agreed to is explained below.
+ d. The landlord prevented me from keeping the agreement. The way the landlord did
+that is explained below.
+ e. The  agreement was not made in good faith as required by ORS 90.130. The lack of
+good faith is explained below.
+ f. The portion of  the agreement described below was unconscionable as described in
+ORS 90.135.
+ g. The landlord is required by law  or contract to have good cause to force me to move
+out and my alleged conduct or performance does not meet the standard of good cause,  as explained
+below.
+ h. The landlord is claiming I  did not pay rent for a period of time following the date
+of the agreement. I did not pay that rent because I have claims for money against  the landlord to
+offset the rent. Those claims arise from the landlord’s violation of the Residential Landlord and
+Tenant Act or the rental agreement since the date of the court order and are explained below. 
+3. Here is my explanation for the reason or reasons checked above:
+4. I understand that if I lose in court, I may be responsible for the landlord’s  costs, disburse-
+ments, any attorney fees and a prevailing party fee.
+I hereby declare that the  above statement is true to the best of my knowledge and belief, and
+that I understand it is made for use as evidence in court and is subject to penalty for perjury.
+(Signature of tenant)
+Date: 
+_______________________________________________________________________________________
+(3) As an alternative to the  document described in subsection (2) of this section, a defendant
+may request a hearing by use of a notarized affidavit.
+SECTION 16.  ORS 105.163 is amended to read:
+105.163. (1) A  person who was a defendant in an action under ORS 105.100 to 105.168 may apply
+by motion to  the court where the judgment was entered for an order setting aside the judgment and
+sealing the official records of the action pertaining to the applicant. The court  shall grant the mo-
+tion if the court finds that:
+(a) The judgment was a judgment of restitution entered against the applicant,  the applicant has
+satisfied any money award included in the judgment and:
+(A) At least five years have passed from the date of the judgment; or
+(B) The judgment was based on claims that arose  on or after April 1, 2020, and before March
+1, 2022; or
+[(b) The judgment was a judgment by stipulation of the parties under ORS 105.145 (2) and  the
+applicant has complied with the terms of the stipulated agreement and satisfied any money award  in-
+cluded in the judgment; or ]
+[(c)] (b) The judgment was a judgment  [or judgment of dismissal ] entered in the applicant’s favor.
+(2) The  applicant shall serve a copy of the motion filed under subsection (1) of this section upon
+the person who was the plaintiff in the action under ORS 105.100 to 105.168. Within 30 days of ser-
+vice of the motion, if a written objection is filed, the court shall schedule a hearing.
+(3) If, under subsection (2) of this section, no objection is filed  or after a hearing the court de-
+termines that the applicant is eligible for relief under subsection (1)  of this section, the court shall
+enter an appropriate order setting aside  the judgment and sealing the official records of the action
+pertaining to the applicant. Upon entry of the order, the judgment that is the subject  of the motion
+shall be deemed not to have been entered, and the applicant may answer  accordingly any questions
+relating to its occurrence.
+(4) The court may not charge a filing fee for  the filing of a motion under subsection (1) of this
+section.
+SECTION 17.
+ ORS 105.163, as amended by section 11,  chapter 39, Oregon Laws 2021, is
+amended to read:
+105.163. (1) A  person who was a defendant in an action under ORS 105.100 to 105.168 may apply
+by motion to  the court where the judgment was entered for an order setting aside the judgment and
+sealing the official records of  the action pertaining to the applicant. The court shall grant the mo-
+tion if the court finds that:
+(a) The judgment was a judgment of restitution entered against the applicant,  the applicant has
+satisfied any  money award included in the judgment and at least five years have passed from the
+date of the judgment;  or
+[(b) The  judgment was a judgment by stipulation of the parties under ORS 105.145 (2) and the
+applicant has  complied with the terms of the stipulated agreement and satisfied any money award in-
+cluded in the judgment; or ]
+[(c)] (b) The judgment was a judgment or  judgment of dismissal entered in the applicant’s favor.
+(2) The  applicant shall serve a copy of the motion filed under subsection (1) of this section upon
+the person who was the plaintiff in the action under ORS 105.100 to 105.168. Within 30 days of ser-
+vice of the motion, if a written objection is filed, the court shall schedule a hearing.
+(3) If, under subsection (2) of this section,  no objection is filed or after a hearing the court de-
+termines that the applicant is eligible for  relief under subsection (1) of this section, the court shall
+enter an appropriate order setting aside the judgment and sealing the  official records of the action
+pertaining to the applicant. Upon entry of the order, the judgment that is the subject  of the motion
+shall be deemed not to have been entered, and the applicant may answer  accordingly any questions
+relating to its occurrence.
+(4) The court may not charge a filing fee for the  filing of a motion under subsection (1) of this
+section.
+SECTION 18.
+ ORS 105.164 is amended to read:
+105.164. (1) On an annual basis, each  justice and circuit court shall enter an order setting aside
+a judgment and sealing the official records for each case  for possession brought under ORS chapter
+90 for which the court finds that:
+(a) [The judgment does not contain ] No judgment or order contains  a money award or that any
+money award has expired or been satisfied or discharged; and
+(b)(A) The judgment  was a judgment of restitution entered for the plaintiff and at least five
+years have passed from the date of the judgment; or
+(B) The judgment [ was a judgment by stipulation of the  parties under ORS 105.145 (2) and at least
+12 months have passed from the date of  the judgment. ] was for dismissal or otherwise in favor of
+the defendant.
+(2) Upon entry of the  order, the judgment that is the subject of the motion is deemed not to have
+been entered, and any party may answer accordingly any questions relating to its occurrence.
+(3) Nothing in this  section limits the ability of a defendant to apply for an order under ORS
+105.163.
+SECTION 19.
+ ORS 105.130 is amended to read:
+105.130. (1) Except as provided in this section  and ORS 105.135, 105.137 and 105.140 to 105.161,
+an action pursuant to ORS 105.110 shall be conducted in all respects as other actions in courts  of
+this state.
+(2) Upon filing  a complaint in the case of a dwelling unit to which ORS chapter 90 applies, the
+clerk shall:
+(a) Collect a filing fee of $88;
+(b) Collect any other fee authorized by law or ordinance; and
+(c) With the assistance of the plaintiff or an agent of the plaintiff, complete the applicable
+summons and provide to the plaintiff or an agent of the plaintiff sufficient copies of the  summons
+and complaint for service.
+(3) The court shall collect a filing fee of $88 from a defendant that demands a trial under  this
+section.
+(4) An action pursuant to ORS 105.110 shall be brought in  the name of a person entitled to
+possession as plaintiff. The [ plaintiff] parties may appear in person or through an attorney[ . In an
+action to which ORS chapter 90 applies, the  plaintiff may also appear ] or through a nonattorney who
+is an agent or employee of the [ plaintiff or an agent or employee of an agent of the plaintiff ] party.
+(5) Notwithstanding ORS 9.160, 9.320 and ORS chapter 180, a state agency  may appear in an
+action brought pursuant to ORS 105.110 through an officer or employee of the agency if:
+(a) The Attorney General consents to the  representation of the agency by an officer or employee
+in the particular action or in the class of actions that includes the particular action; and
+(b) The agency, by rule, authorizes an officer or employee to appear on its behalf in the  partic-
+ular type of action being conducted.
+(6) An action brought under ORS 105.110 by a  person entitled to possession of premises on the
+basis of circumstances described in  ORS 105.115 (1)(d), (e) or (f) is subject to the filing fees and other
+court  or  sheriff fees applicable to an action concerning a dwelling unit that is subject to ORS
+chapter 90. The procedure under ORS 105.100 to  105.168 that is applicable to an action concerning
+a dwelling unit subject to ORS chapter 90 shall also apply to an action brought under ORS  105.115
+(1)(d), (e) or (f), except that the complaint must be in the form prescribed in ORS 105.126.
+SECTION 20.
+ ORS 90.255 is amended to read:
+90.255. In  any action on a rental agreement or arising under this chapter, reasonable attorney
+fees at trial and on appeal [ may] must  be awarded  to the prevailing party together with costs and
+necessary disbursements , plus  the reasonable costs or wages of a nonattorney agent or em-
+ployee appearing under ORS 105.130 (4), notwithstanding any agreement to the contrary.  As used
+in this section, “prevailing party” means the party in whose favor final judgment is rendered.
+SECTION 21. Operative date. (1) Sections 1 to 6 and 8 of this 2025 Act and the  amend-
+ments to ORS 90.391, 105.113, 105.135, 105.137, 105.145, 105.146, 105.148, 105.163 and 105.164 by
+sections 9 to 18 of this 2025 Act become operative on July 1, 2026.
+(2) The Housing and Community Services  Department may take any action before the
+operative date in subsection (1) of this section that is necessary for the department to  ex-
+ercise, on and after the  operative date, all of the duties, functions and powers conferred on
+the department by sections 1 to 3 of this 2025 Act and ORS 90.391 (2).
+SECTION 22.
+Model form.  On or before July 1, 2026, the Judicial Department  shall de-
+velop and publish a model form for a motion that may be filed under ORS 105.163 (1).
+SECTION 23. Appropriation. In addition to and not in lieu  of any other appropriation,
+there is appropriated to the Housing and Community  Services Department, for the biennium
+beginning July 1, 2025, out of the General Fund, the amount of $_____, to implement and op-
+erate the eviction mediation program under sections 1 to 3 of this 2025 Act.
+SECTION 24.
+Section captions. The section captions  used in this 2025 Act are provided
+only for the convenience of the reader  and do not become part of the statutory law of this
+state or express any legislative intent in the enactment of this 2025 Act.
+SECTION 25. Effective date. This 2025 Act takes effect on the 91st day after the date on
+which the 2025 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 105.113, ORS 105.130, ORS 105.135, ORS 105.137, ORS 105.145, ORS 105.146, ORS 105.148, ORS 105.163, ORS 105.164, ORS 90.255, ORS 90.391
+- From bill text (Introduced version): ORS 105.100, ORS 105.105, ORS 105.110, ORS 105.113, ORS 105.115, ORS 105.124, ORS 105.126, ORS 105.130, ORS 105.135, ORS 105.136, ORS 105.137, ORS 105.140, ORS 105.145, ORS 105.146, ORS 105.148, ORS 105.149, ORS 105.151, ORS 105.163, ORS 105.164, ORS 14.250, ORS 174.109, ORS 36.185, ORS 408.515, ORS 90.130, ORS 90.135, ORS 90.147, ORS 90.155, ORS 90.255, ORS 90.391, ORS 90.392, ORS 90.395, ORS 90.412, ORS 91.120
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `2253ffe0617ffbfee8c4c579dc128a939c8b5879853dd42d9268917839283802` (snapshot `_meta/snapshots/measure-2025r1-hb3111-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3111/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3111> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

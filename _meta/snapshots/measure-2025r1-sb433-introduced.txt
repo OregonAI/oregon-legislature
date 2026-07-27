@@ -1,0 +1,142 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 433
+Sponsored by Senators ANDERSON, PROZANSKI (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Lets a person that runs a storage place sell  items that are under a lien after putting a
+notice of the sale online. (Flesch Readability Score: 69.4).
+Permits the owner of a self-service storage  facility to advertise or publish a notice of sale of
+personal property that is subject to a lien once on a publicly accessible website that regularly ad-
+vertises or offers personal property for auction or sale.
+A BILL FOR AN ACT
+Relating to a  self-service storage facility’s sales of personal property subject to a lien; amending
+ORS 87.691.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 87.691 is amended to read:
+87.691. (1) After the time specified in  the notice given under ORS 87.689 expires, if the owner
+determines, based on  the owner’s previous experience, that the personal property subject to the lien
+created by ORS  87.687 has a value of $300 or less, the owner may dispose of the property at the
+owner’s sole discretion.
+(2) After the time specified in the notice given under  ORS 87.689 expires, if the owner deter-
+mines, based on the owner’s previous experience, that  the personal property subject to the lien
+created by ORS 87.687 has a value of more than $300, the  owner shall cause an advertisement of the
+sale to be published once [ a week for two consecutive weeks ] in  a newspaper of general circulation
+in the city or county in which the self-service storage  facility is located  or on a publicly accessible
+website that regularly advertises or offers property  for auction or sale . If there is no news-
+paper of general circulation in the city or county  and the  owner does not publish the adver-
+tisement on  a publicly accessible website that regularly advertises or offers property for
+auction or sale , the advertisement must be posted in not  fewer than six conspicuous places in the
+neighborhood in which the self-service storage facility is located. The advertisement must include:
+(a) The address of the self-service storage facility, the number, if any, of the space where  the
+personal property is located and the name of the occupant.
+(b) The time, place and manner of the sale.
+(3) The sale of the personal property may not take place earlier than 15 days after the  first
+advertisement, publication or posting  concerning the sale. The sale must conform to the terms stated
+in the advertisement published or posted under this section.
+(4) The owner may conduct the lien sale  without obtaining a license and may offer the personal
+property for sale on a publicly accessible website that regularly  advertises or  offers  personal
+property for auction or sale, but  the owner shall complete the sale of the personal property at the
+self-service storage facility or at a suitable place closest to where  the personal property is held or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 961
+SB 433
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+stored.
+(5)(a) If the  owner does not receive any bids at the public sale held under this section, the owner
+may dispose  of the personal property in another manner at the owner’s sole discretion. The owner
+may satisfy the lien created by ORS 87.687 and reasonable expenses associated with the  disposition
+from the proceeds of the disposition but shall hold the balance, if any, for  delivery on demand to the
+occupant. If the occupant does not claim the balance of  the proceeds within two years after the date
+of the disposition, the owner shall presume the balance is abandoned and  shall report and deliver
+the balance to the State Treasurer as provided in ORS 98.352.
+(b) The owner, an  employee of the owner, an affiliate or relative of the owner or an associate
+or relative of the employee may not acquire, directly or indirectly, property  that is subject to dis-
+posal under this section.
+(6)(a) If personal property that is subject to the lien  is a motor vehicle, watercraft or trailer, the
+owner may have the personal property towed away from the self-service storage facility if:
+(A) Rent and other charges  for storing the personal property at the self-service storage facility
+remain unpaid for 60 days or more; and
+(B) The owner sends notice as provided in ORS 87.689.
+(b) An owner is not liable for damage to personal property that  a tower removes from the self-
+service storage facility once the tower takes possession of the personal property.
+(c) A tower has a  lien on personal property the tower removes from the self-service storage fa-
+cility for reasonable towing and storage charges as provided in ORS 98.812.
+(7) Before a sale or other disposition of personal property under this section, the  occupant may
+pay the  amount necessary to satisfy the lien and the reasonable expenses incurred under this section
+and thereby redeem the personal  property. Upon receiving payment, the owner shall return the
+personal property, and thereafter the owner has no liability with respect to the personal property.
+(8) After a sale under this section, the owner may satisfy the lien created by ORS 87.687 from
+the proceeds of the sale, but shall hold the balance, if any, for delivery  on demand to the occupant.
+If the occupant does not claim the balance of the  proceeds within two years after the date of sale,
+the owner shall presume that the balance of  the proceeds is abandoned and shall report and deliver
+the balance to the State Treasurer as provided in ORS 98.352.
+(9) A purchaser in  good faith of the personal property sold to satisfy a lien created by ORS
+87.687 takes the property free of any rights of persons against whom the lien was valid, even  if the
+owner does not comply with the requirements of this section and ORS 87.689.
+[2]

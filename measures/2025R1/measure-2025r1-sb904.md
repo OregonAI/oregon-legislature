@@ -1,0 +1,361 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb904
+title: 'SB 904 (2025R1): Includes school districts among the self-insured employers that may apply for
+  exemption from the rules requiring such employers to demonstrate financial viability and provide security
+  to the Director of the Department of Consumer and Business Services.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 904
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB904/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 7a3ac207d8e89f5245a70183eaf7d0f8c060d0bfd6effa8fc9569b5a7497d596
+snapshot_id: measure-2025r1-sb904-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 190.003
+  - ORS 198.010
+  - ORS 225.050
+  - ORS 255.005
+  - ORS 297.405
+  - ORS 30.282
+  - ORS 354.605
+  - ORS 569.350
+  - ORS 654.097
+  - ORS 656.407
+  - ORS 656.430
+  - ORS 656.440
+  - ORS 656.443
+  - ORS 656.614
+  - ORS 744.305
+  - ORS 757.005
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 904
+prefix_meaning: Senate Bill
+catch_line: Includes school districts among the self-insured employers that may apply for exemption from
+  the rules requiring such employers to demonstrate financial viability and provide security to the Director
+  of the Department of Consumer and Business Services.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would let school districts apply to be exempt from the law that requires\
+  \ self-insured employers to submit proof that they will be able pay workers' comp claims. (Flesch Readability\
+  \ Score: 60.7). \n\tIncludes school districts among the self-insured employers that may apply for exemption\
+  \ from the rules requiring such employers to demonstrate financial viability and provide security to\
+  \ the Director of the Department of Consumer and Business Services."
+relating_to: Relating to self-insured employers.
+relating_to_full: Relating to self-insured employers.
+at_the_request_of: (at the request of Portland Public Schools)
+lc_number: 2914
+measure_created_date: '2025-01-14T11:22:10'
+measure_modified_date: '2025-06-06T16:06:36'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 16438
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 190.003
+  - ORS 198.010
+  - ORS 225.050
+  - ORS 255.005
+  - ORS 297.405
+  - ORS 30.282
+  - ORS 354.605
+  - ORS 569.350
+  - ORS 654.097
+  - ORS 656.407
+  - ORS 656.430
+  - ORS 656.440
+  - ORS 656.443
+  - ORS 656.614
+  - ORS 744.305
+  - ORS 757.005
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 904>.
+
+# SB 904 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 904, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Portland Public Schools)
+- **LC number:** 2914
+- **Created:** 2025-01-14T11:22:10
+- **Metadata last modified (upstream):** 2025-06-06T16:06:36
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 16438 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB904/Enrolled>.
+
+## Summary
+
+**Catchline:** Includes school districts among the self-insured employers that may apply for exemption from the rules requiring such employers to demonstrate financial viability and provide security to the Director of the Department of Consumer and Business Services.
+
+**Relating to:** Relating to self-insured employers.
+
+Digest: The Act would let school districts apply to be exempt from the law that requires self-insured employers to submit proof that they will be able pay workers' comp claims. (Flesch Readability Score: 60.7). 
+ Includes school districts among the self-insured employers that may apply for exemption from the rules requiring such employers to demonstrate financial viability and provide security to the Director of the Department of Consumer and Business Services.
+
+**RelatingToFull (verbatim upstream field):** Relating to self-insured employers.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 904
+Sponsored by Senator TAYLOR (at the request of Portland Public Schools)
+CHAPTER .................................................
+AN ACT
+Relating to self-insured employers; amending ORS 656.407 and 656.430.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 656.407 is amended to read:
+656.407. (1) An employer shall establish proof with the Director  of the Department of Consumer
+and Business Services that the employer is qualified either:
+(a) As a carrier-insured employer  by causing proof of coverage provided by an insurer to be filed
+with the director; or
+(b) As a self-insured employer by establishing proof that the employer has :
+(A) An adequate staff qualified to process claims promptly ; and
+(B) [ has] The financial ability to make certain the prompt payment of all compensation  and
+other payments that may become due to the director under this chapter.
+(2) Except as  provided in subsection [ (3)] (4) of this section, a self-insured employer shall es-
+tablish proof of financial ability required under subsection (1)(b) of this section  by:
+(a) Demonstrating  acceptable financial viability based on information required by the director
+by rule; and
+(b) Providing security that the director determines acceptable by rule.
+(3)(a) [The] Security provided under subsection (2)(b) of this section  must be in an amount
+reasonably sufficient to [ insure] ensure payment of  compensation and other payments that may be-
+come due to the director but not less than the employer’s normal expected annual claim liabilities
+and in no event less than $100,000.
+(b) In arriving at the amount of  security required under this subsection, the director may take
+into consideration the financial ability of the employer to  pay compensation and other payments and
+probable continuity of operation.
+(c) The security shall be held  by the director to secure the payment of compensation for injuries
+to subject workers of the employer and to  secure other payments that may become due from the
+employer to the director under this chapter.
+(d) Moneys received as security under this subsection shall be deposited with  the State Treas-
+urer in an account separate and distinct from the General Fund. Interest earned by  the account
+shall be credited to the account.
+(e) The amount of security may be increased or decreased from time to time by the director.
+[(3)(a)] (4)(a) A city, county , school district  or [ a] qualified self-insured employer group that
+wishes to be exempt from subsection (2) of this  section may make written application [ therefor] for
+the exemption to the director.
+(b) The application shall include :
+Enrolled Senate Bill 904 (SB 904-INTRO) Page 1
+(A) A copy of the  most recent annual audit of the city, county , school district  or qualified
+self-insured employer group filed with the Secretary of State under ORS 297.405 to 297.740[ ,];
+(B) Information regarding the establishment of a loss reserve account for the payment  of com-
+pensation to injured workers ; and
+(C) Such other information as the director may require.
+(c) The director shall approve the application and the city,  county , school district  or qualified
+self-insured employer group shall be exempt  from subsection (2) of this section if the director finds
+that:
+(A) The city, county , school  district  or qualified self-insured employer group has been self-
+insured in compliance with subsection (2) of this  section for more than three consecutive years prior
+to making the application referred to in this subsection.
+(B) The city, county , school district  or qualified  self-insured employer group has in effect a loss
+reserve account:
+(i) That is actuarially sound and that  is adequately funded as determined by an annual audit
+under ORS 297.405 to  297.740 to pay all compensation to injured workers and amounts due the di-
+rector pursuant to this chapter. A copy  of the annual audit shall be filed with the director. Upon
+a finding that there is probable cause to believe that the loss reserve account is not actuarially
+sound, the director  may require a city, county , school district  or qualified self-insured employer
+group to obtain an independent actuarial audit of the loss reserve account. The requirements  of this
+subsection are in addition  to and not in lieu of any other audit or reporting requirement otherwise
+prescribed by or pursuant to law.
+(ii) That is dedicated to and  may be expended only for the payment of compensation and
+amounts due the director by the city,  county , school district  or qualified self-insured employer
+group under this chapter.
+[(b)] (d) The director shall have the first lien and priority  right to the full amount of the loss
+reserve account required to pay  the present discounted value of all present and future claims under
+this chapter.
+[(c)] (e)(A) The city,  county , school district  or qualified self-insured employer group shall notify
+the director no later than 60 days prior to any action to discontinue the loss reserve account.
+(B) The city, county , school district  or qualified  self-insured employer group shall advise the
+director of [ the] its plans [ of the city, county or qualified self-insured employer group ] to submit  the
+security [ deposits required in subsection (2) ] required under subsection (2)(b)  of this section,  or
+obtain coverage  as a carrier-insured employer prior to the date the loss reserve account ceases to
+exist.
+(C) If the city, county , school district  or qualified self-insured employer group elects  to dis-
+continue self-insurance, it shall submit such security as the director  may require to [ insure] ensure
+payment of all compensation and amounts due the director for  the period the city, county , school
+district or qualified self-insured employer group was self-insured.
+[(d)] (f) In order to  requalify as a self-insured employer, the city, county , school district  or
+qualified self-insured employer  group must deposit the security required under subsection (2)(b)
+of this section  prior to discontinuance of the loss reserve account [ such security as is required by
+the director pursuant to subsection (2) of this section ].
+[(e)] (g) Notwithstanding ORS 656.440,  if [ prior to the date of discontinuance of the loss reserve
+account] the director has not received  the security [ deposits required in subsection (2) ] required
+under subsection (2)(b) of this section prior to the date of discontinuance of the loss reserve
+account, the certificate of self-insurance  of the city, county , school district  or qualified self-insured
+employer group is automatically revoked as of that date.
+[(4)] (5) As used in this section[ ,]:
+(a) “Qualified self-insured employer group” means a self-insured employer group that is a mu-
+nicipal corporation or a public corporation, as those terms are defined in ORS 297.405.
+(b) “School district” has the meaning given that term in ORS 255.005.
+SECTION 2.
+ ORS 656.430 is amended to read:
+Enrolled Senate Bill 904 (SB 904-INTRO) Page 2
+656.430. (1) Upon  determining that an employer has qualified as a self-insured employer under
+ORS 656.407, the Director of the Department of Consumer and Business Services shall issue  a cer-
+tificate to that effect to the employer.
+(2) Coverage of a self-insured employer is effective on the date  of certification unless a later
+date is specified in the certificate.
+(3) Two or more entities may not be included in the certification of one employer unless  in each
+entity the  same person, or group of persons, or corporation owns a majority interest. If an entity
+owns a majority interest in another entity which in turn owns the  majority interest in another en-
+tity, all entities  so related may be combined regardless of the number of entities in succession. If
+more than one entity is included in  the certification of one employer, each entity included is jointly
+and severally liable for  any compensation and other amounts due the Department of Consumer and
+Business Services under this chapter by any entity included in the certification.
+(4) In the term “majority interest,” as used in this section, “majority” means more than 50  per-
+cent.
+(5) If an entity other than a partnership:
+(a) Has issued voting stock, “majority interest” means a majority of the issued voting stock;
+(b) Has not issued voting stock, “majority interest” means a majority of the members; or
+(c) Has not issued voting stock and has no  members, “majority interest” means a majority of the
+board of directors or comparable governing body.
+(6) If the entity is a  partnership, majority interest must be determined in accordance with the
+participation of each general partner in the profits of the partnership.
+(7)(a) Notwithstanding any other provision of this section, the director may  certify five or more
+subject employers as a self-insured employer group, which is an employer for purposes  of this
+chapter, if:
+(A) The director finds  that  the employers  as a group meet the requirements of ORS 656.407
+(1)(b), [ and] (2) and (3);
+(B) The director determines that the employers as a group meet  the insurance coverage re-
+tention and combined net worth requirements adopted by the director by rule;
+(C) The director finds that the grouping is likely to  improve accident prevention and claims
+handling for the employer;
+(D) Each employer  executes and files with the designated entity a written agreement, in such
+form as the director may prescribe, in which:
+(i) The employer agrees to be jointly and severally liable  for the payment of any compensation
+and other amounts due to the Department of Consumer and  Business Services under this chapter
+incurred by a member of the group; or
+(ii) The employer, if a city, county, special district  described and listed in ORS 198.010 or
+198.180, translator district formed under ORS 354.605 to 354.715, weed control district organized
+under ORS 569.350 to 569.445, intergovernmental agency created under ORS 225.050, school  district
+as defined in ORS 255.005 [ (9)], public  housing authority created under ORS chapter 456 or regional
+council of governments created under ORS chapter 190, agrees to be  individually liable for the
+payment of any compensation  and other amounts due to the department under this chapter incurred
+by the employer during the period of group self-insurance;
+(E) The director  finds that the employer group is organized as a corporation or cooperative
+pursuant to ORS chapter 60, 62 or 65, is an intergovernmental entity created under ORS  190.003 to
+190.130 or is a self-insurance program under ORS 30.282 (3), and the  bylaws of the employer group
+require the employer group to obtain fidelity bonds;
+(F) The director finds that the employer group has designated an entity responsible for:
+(i) Centralized claims processing in accordance with paragraph (b) of this subsection; and
+(ii) Payroll  records, safety requirements, recording and submitting assessments and contributions
+and making such other reports as the director may require; and
+(G) The employer has presented a method approved by the director to  notify the department of:
+Enrolled Senate Bill 904 (SB 904-INTRO) Page 3
+(i) The commencement or termination  of membership by employers in the group, and the effect
+thereof on the net worth of the employers in the group; and
+(ii) Whether  an employer who terminates membership in the group continues to be a subject
+employer; and
+(b) Except  for employer groups composed of cities, counties, special districts created under ORS
+198.010, intergovernmental agencies created under ORS 225.050, school districts as  defined in ORS
+255.005, public housing authorities  created under ORS chapter 456 and regional councils of govern-
+ments created under ORS chapter 190, a group administrator may not be a  group member or a
+member of the board of the group.
+(8) A self-insured employer must have excess insurance coverage  appropriate for the employer’s
+potential liability under this chapter with an insurer authorized to do  business in this state. A
+self-insured employer certified prior to November 1, 1981, must  have excess insurance coverage ap-
+propriate for the employer’s potential  liability under this chapter either with an insurer authorized
+to do business in this state or  with any other insurer from whom such insurance can be obtained
+pursuant to ORS 744.305 to 744.405 (1985 Replacement Part). Evidence of such coverage must be
+submitted at the time application is made for self-insured certification in the form  of an insurance
+binder providing the appropriate  coverage effective the date of certification. The policy providing
+such coverage must be filed with the director not later than 30 days after the date  the coverage is
+effective. Any changes in the insurer or the coverage must  be filed with the department not later
+than 30 days after the effective date of the change. With respect to such coverage:
+(a) The policy must include a provision, approved by the director, for  reimbursement to the de-
+partment of all expenses paid by the  department on behalf of the employer pursuant to ORS 656.614
+(1) and 656.443 in the same manner as if the department  were the insured employer, subject to the
+policy limitations on amounts and limits of liability to the insured employer; and
+(b) The period of coverage must be continuous and remain in effect until  the certification is
+revoked or canceled.
+(9) Notwithstanding ORS 656.440, the director may revoke the certification of any  self-insured
+employer after giving 30 days’ written notice if the employer:
+(a) Fails to comply with subsection (8) of this section;
+(b) In the case of an employer described  in subsection (7) of this section, fails to comply with
+that subsection; or
+(c) Fails to comply with rules adopted by the  director as required by subsection (11) of this
+section.
+(10) A self-insured  employer must have an occupational safety and health loss control program
+as required by ORS 654.097.
+(11) The director, by rule shall:
+(a) Prescribe methods for determining and approving net worth.
+(b) Prescribe the types and approve the  retention and limitation levels of excess insurance pol-
+icies.
+(c) Establish reporting requirements.
+(d) Prescribe  information to be submitted in applications for self-insured employer certifications.
+(e) Prescribe the form and manner of reporting commencement or termination in a self-insured
+employer  group.
+(f) Prescribe the form, amount and manner for establishing and  operating a common claims fund.
+(g) Prescribe  such other requirements as the director considers necessary so that employers
+certified as self-insured employers will meet the financial responsibilities under this chapter.
+(12) For the purpose of certification as a  self-insured employer group, cities, counties, special
+districts created under ORS 198.010, intergovernmental agencies created under ORS 225.050, school
+districts as defined  in ORS 255.005, public housing authorities created under ORS chapter 456 and
+regional councils of governments created under ORS chapter 190 shall be  considered by the director
+to be of the same industry.
+Enrolled Senate Bill 904 (SB 904-INTRO) Page 4
+(13) Notwithstanding subsection (8) of this section, a public  utility with assets of more than $500
+million may obtain excess insurance coverage from an eligible  surplus lines insurer. As used in this
+subsection, “public utility” has the meaning given that term in ORS 757.005.
+Passed by Senate April 8, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House May 19, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 904 (SB 904-INTRO) Page 5
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 190.003, ORS 198.010, ORS 225.050, ORS 255.005, ORS 297.405, ORS 30.282, ORS 354.605, ORS 569.350, ORS 654.097, ORS 656.407, ORS 656.430, ORS 656.440, ORS 656.443, ORS 656.614, ORS 744.305, ORS 757.005
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `7a3ac207d8e89f5245a70183eaf7d0f8c060d0bfd6effa8fc9569b5a7497d596` (snapshot `_meta/snapshots/measure-2025r1-sb904-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB904/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `55616a5c7508aefacae19bb92158e5f6e2db10e579f9f2c09a0770de0ad7bc9c` (snapshot `_meta/snapshots/measure-2025r1-sb904-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB904/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 904> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,1208 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4138
+Sponsored by Representatives HIEB, NOSSE, Senator FREDERICK; Representatives  DIEHL, SANCHEZ, Senator
+DEMBROW (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says the OLCC can  let a person work before they get a real permit, makes some
+people apply for permits and lets the OLCC charge a new fee. (Flesch Readability Score: 74.8).
+Allows the Oregon Liquor and Cannabis Commission to issue provisional  service permits to an
+applicant for a service permit. Requires an applicant for a license that allows on-premises con-
+sumption to apply for a service permit. Allows the commission to charge  a fee for issuance or re-
+newal of a third-party delivery facilitator service permit.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to  the Oregon Liquor and Cannabis Commission; creating new provisions; amending ORS
+471.175, 471.178, 471.200, 471.221, 471.223, 471.230, 471.360, 471.365, 471.375 and 471.534; and de-
+claring an emergency.
+Be It Enacted by the People of the State of Oregon:
+ALCOHOL SERVICE PERMITS
+SECTION 1.
+ ORS 471.175 is amended to read:
+471.175. (1) The holder of a full on-premises sales license may sell by  the drink at retail wine,
+malt beverages, cider and distilled liquor. Except as provided in this section and ORS  471.176, all
+alcoholic beverages sold under a full on-premises  sales license must be consumed on the licensed
+premises.
+(2) A full on-premises sales license may be issued only to a:
+(a) Nonprofit private club, as described in subsection (11) of this section.
+(b) Public passenger carrier as provided in ORS 471.182.
+(c) Commercial establishment, as defined in ORS 471.001 (2).
+(d) Public location that does not qualify for licensing under paragraphs (a)  to (c) of this sub-
+section if:
+(A) Food is cooked and served at the location;
+(B) The predominant business activity at the location is other than  the preparation or serving
+of food or the serving of alcohol; and
+(C) The location meets any minimum food service requirements  established by Oregon Liquor
+and Cannabis Commission rule.
+(e) Caterer, subject to the requirements of ORS 471.184.
+(3) The  holder of a full on-premises sales license shall allow a patron to remove a partially
+consumed bottle of wine from the  licensed premises if the wine is served in conjunction with the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 190
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+patron’s meal, the patron is not a minor and the patron is not visibly intoxicated.
+(4) The holder of a full  on-premises sales license may purchase any distilled liquor from an agent
+of the commission appointed pursuant to ORS  471.750 at a discount of not more than five percent
+off the regular listed price fixed by the commission, together with all taxes,  in a manner prescribed
+by commission rule. For purposes of compensation by  the commission, the appointed agent shall be
+credited with such sales at full retail cost. The commission  may not require the licensee to purchase
+more than one container of distilled liquor at a time if the distilled liquor:
+(a) Except as provided in subsection (12) of this section, has a retail sales price of $30  or more
+per container;
+(b) Is available through a distributor in the United States that does not  require the commission
+to acquire more than one case of the distilled liquor in a single transaction;
+(c) Is not regularly stocked by the commission; and
+(d) Is ordered in a 750 milliliter container size if available in that size.
+(5) The holder of a full on-premises sales license may purchase distilled liquor only from  a retail
+sales agent of the commission or from another person  licensed under this section who has purchased
+the distilled liquor from a retail sales agent of the commission.
+(6) The holder  of a full on-premises sales license may purchase for sale at retail malt beverages,
+wine and cider only from a holder of a license or permit issued by the commission that  authorizes
+sales of malt beverages, wine or cider at wholesale to licensees of the commission.
+(7) The holder of  a full on-premises sales license may sell for consumption off the licensed
+premises malt beverages, wine and cider in securely  covered containers provided by the consumer
+that have capacities of not more than two gallons each.
+(8) The holder of  a full on-premises sales license may sell for consumption off the licensed
+premises malt beverages, wine and cider in factory-sealed containers.
+(9)(a) The holder of a full on-premises sales license may deliver  malt beverages, wine and cider
+that are sold  for off-premises consumption under the privileges of the license to retail customers in
+this state without a direct shipper permit issued under ORS 471.282. Any  deliveries by the licensee
+are subject to any rules adopted by the commission relating to deliveries  made under this sub-
+section.
+(b) The holder of a full on-premises  sales license that uses a third-party delivery facilitator to
+make deliveries under this subsection is not responsible for ensuring that  the deliveries made by the
+third-party delivery facilitator meet any requirements applicable to the deliveries.
+(10) On or before the 20th day of each month, the holder of a full on-premises sales license  shall
+submit to the commission a  report showing the quantity of malt beverages, wine or cider received
+from the holder of a direct to retailer permit issued under  ORS 471.274 during the immediately
+preceding calendar month, and any other information required by the commission by rule.
+(11) A nonprofit private club, including but not limited to a fraternal  or veterans organization,
+may qualify for a full on-premises sales license under this section only if the club  meets any mini-
+mum membership, nonprofit status and food service requirements established by commission rule.
+(12) Beginning January 1,  2017, the commission may annually adjust the price threshold estab-
+lished in subsection (4)(a) of this section by a percentage equal to the  percentage change in the
+Consumer Price Index for All Urban Consumers, West Region (All  Items), as published by the Bu-
+reau of Labor Statistics  of the United States Department of Labor. However, the commission may
+not adjust the price threshold to be less than $30.
+(13) An applicant for a full on-premises sales license shall at  the time of application apply
+[2]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+for a service permit under ORS 471.375.
+[(13)] (14) The commission may adopt rules to carry out this section.
+SECTION 2.
+ ORS 471.178 is amended to read:
+471.178. (1) The holder of  a limited on-premises sales license may sell by the drink at retail wine,
+malt beverages and cider. Except as provided in this section, all  alcoholic beverages sold under a
+limited on-premises sales license must be consumed on the licensed premises.
+(2) The holder of a limited on-premises sales license may sell malt beverages, wine and cider  in
+factory-sealed containers for consumption off the licensed premises.
+(3) The holder of a  limited on-premises sales license may sell for consumption off the licensed
+premises malt beverages, wine and cider in  securely covered containers provided by the consumer
+and that have capacities of not more than two gallons each.
+(4)(a) The holder of  a limited on-premises sales license may deliver malt beverages, wine and
+cider that are  sold for off-premises consumption under the privileges of the license to retail cus-
+tomers in this state without a direct shipper permit issued under ORS 471.282. Any  deliveries by the
+holder of a limited on-premises sales license are subject to any rules adopted by  the commission
+relating to deliveries made under this subsection.
+(b) The holder of a limited on-premises sales license that uses a third-party delivery facilitator
+to make deliveries under this subsection is not responsible for ensuring that the  deliveries made by
+the third-party delivery facilitator meet any requirements applicable to the deliveries.
+(5) The holder of a limited on-premises sales license shall allow a  patron to remove a partially
+consumed bottle of wine from the licensed premises if the wine is  served in conjunction with the
+patron’s meal, the patron is not a minor and the patron is not visibly intoxicated.
+(6) The holder of a limited on-premises sales license may  purchase for sale at retail malt
+beverages, wine and  cider only from the holder of a license or permit issued by the commission that
+authorizes sales of malt beverages, wine or cider at wholesale to licensees of the commission.
+(7) On or before the 20th day of  each month, the holder of a limited on-premises sales license
+shall submit to the commission a  report showing the quantity of malt beverages, wine or cider re-
+ceived from the holder of a direct to retailer permit issued under ORS 471.274  during the imme-
+diately preceding calendar month, and any other information required by the commission by rule.
+(8) An applicant for a limited on-premises  sales license shall at the time of application
+apply for a service permit under ORS 471.375.
+[(8)] (9) The commission may adopt rules to carry out this section.
+SECTION 3.  ORS 471.200 is amended to read:
+471.200. (1) A brewery-public house license allows the licensee to:
+(a) Manufacture on the licensed premises, store, transport, sell  to wholesale malt beverage and
+wine licensees of the Oregon Liquor and Cannabis Commission and export malt beverages;
+(b) Sell malt beverages manufactured  on or off the licensed premises at retail for consumption
+on or off the premises;
+(c) Sell malt beverages in brewery-sealed packages at retail directly to the  consumer for con-
+sumption off the premises;
+(d) Sell on the licensed premises at retail malt beverages manufactured on or off the licensed
+premises in unpasteurized  or pasteurized form directly to the consumer for consumption off the
+premises, delivery of which may be made in  a securely covered container supplied by the consumer;
+(e) Sell wine and cider at retail for consumption on or off the premises;
+(f) Sell for consumption off the premises wines and cider in  securely covered containers supplied
+[3]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+by the consumer and having capacities of not more than two gallons each;
+(g) Conduct the activities, except manufacturing, described  in paragraphs (a) to (f) of this sub-
+section at two locations other than the premises where the manufacturing occurs;
+(h) Obtain a special events brewery-public house license entitling the holder  to conduct the ac-
+tivities allowed under paragraphs (b) to (f) of this subsection at a designated location  other than the
+location set forth in the brewery-public house license for a period not exceeding five days;
+(i) Distribute malt beverages manufactured at the licensed premises to any other premises  li-
+censed to the same licensee, whether a manufacturer, wholesaler or retail premises; and
+(j) Distribute for export, in any amount, malt beverages manufactured at the licensed premises.
+(2) In addition to the privileges specified in  subsection (1) of this section, in any calendar year
+a brewery-public house licensee may sell at wholesale and distribute to licensees of  the commission
+no more than 7,500 barrels of malt beverages produced by the brewery-public house licensee.
+(3) A brewery-public house licensee, or any  person having an interest in the licensee, is a retail
+licensee for the purposes of ORS  471.394 and, except as otherwise provided by this section and ORS
+471.396, may not acquire or hold any right, title, lien, claim or other  interest, financial or otherwise,
+in, upon or to the premises, equipment, business  or merchandise of any manufacturer or wholesaler,
+as defined in ORS 471.392. A brewery-public house  licensee, or any person having an interest in the
+licensee, is also a manufacturer for the purposes  of ORS 471.394 and, except as otherwise provided
+by this section and ORS 471.396, may not acquire or hold any right, title, lien, claim or other  in-
+terest, financial or otherwise, in, upon or to the premises,  equipment, business or merchandise of
+any other retail licensee, as defined in ORS 471.392.
+(4)(a) Except as  provided in this subsection, a brewery-public house licensee, or any person
+having an  interest in the licensee, is a retail licensee for the purposes of ORS 471.398 and, except
+as otherwise provided by this section and ORS 471.400, may not accept  directly or indirectly any
+financial assistance described in ORS 471.398 from any  manufacturer or wholesaler, as defined in
+ORS 471.392. A brewery-public house licensee, or any person having an interest  in the licensee, is
+also a manufacturer for the purposes of ORS 471.398 and, except as otherwise provided by this sec-
+tion and ORS 471.400, may not provide directly or indirectly any financial  assistance described in
+ORS 471.398 to any retail licensee, as defined in ORS 471.392. The prohibitions on financial assist-
+ance in ORS 471.398 do  not apply to financial assistance between manufacturing and retail busi-
+nesses licensed to the same person under the provisions of this section.
+(b) The commission may issue more than one  brewery-public house license at a single premises
+if each licensee:
+(A) Has a valid Brewer’s Notice issued  by the federal Alcohol and Tobacco Tax and Trade Bu-
+reau at the premises address; and
+(B) Otherwise complies with ORS 471.398.
+(c) A brewery-public house licensee may produce malt beverages for another brewery-public
+house licensee under a  custom order agreement. The commission may adopt rules regarding the
+contents of custom order agreements.
+(5) Notwithstanding subsection (3)  of this section, a brewery-public house licensee, or any person
+having an interest in the licensee, may also hold a winery license authorized by ORS 471.223. A
+brewery-public house licensee,  or any person having an interest in the licensee, may also hold a
+warehouse license authorized by ORS 471.242.
+(6) Notwithstanding subsection (3) of this section,  a brewery-public house licensee is eligible for
+limited on-premises sales licenses and temporary sales licenses.
+[4]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(7) Notwithstanding subsection (3)  of this section, a brewery-public house licensee, or any person
+having an interest in  the licensee, may also hold a full on-premises sales license. If a person holds
+both a brewery-public house license and a full on-premises sales license, nothing in this chapter shall
+prevent the sale by the licensee of both distilled liquor and malt  beverages manufactured under the
+brewery-public house license.
+(8) Notwithstanding any other provision  of this chapter, a brewery-public house licensee, or any
+person having an interest in the licensee, may also hold a distillery  license. No provision of this
+chapter prevents a brewery-public house licensee that  also holds a distillery license from being ap-
+pointed by the commission as the distillery’s  retail outlet agent for the purpose of selling distilled
+liquors under ORS 471.230.
+(9) Notwithstanding subsection (3) of this section, the commission by rule may authorize a
+brewery-public house licensee to coproduce special events with other manufacturers.
+(10)(a) Notwithstanding subsection (3) of this section, a  brewery-public house licensee may hold,
+directly or indirectly, an interest in  a manufacturer or wholesaler, provided that the interest does
+not result in exercise of control over, or participation in the management of, the  manufacturer’s or
+wholesaler’s business or business decisions and does not result  in exclusion of any competitor’s
+brand of alcoholic liquor.
+(b) Notwithstanding subsection (3) of this section, a  manufacturer or wholesaler, and any officer,
+director or substantial stockholder of any corporate manufacturer or wholesaler, may hold,  directly
+or indirectly, an interest in a brewery-public house licensee, provided that the interest does  not re-
+sult in exercise of control over, or participation  in the management of, the licensee’s business or
+business decisions and does not result in exclusion of any competitor’s brand of alcoholic liquor.
+(11) A brewery-public house licensee may purchase for sale at retail:
+(a) Wine and cider only from the holder of a license or permit issued by the commission that
+authorizes the sale of wine or cider at wholesale to licensees of the commission; and
+(b) Malt beverages not manufactured by the brewery-public house licensee only  from the holder
+of a license or permit issued by the commission that authorizes the sale  of malt beverages at
+wholesale to licensees of the commission.
+(12) On or before the 20th day of each month, a  brewery-public house licensee shall submit to
+the commission a  report showing the quantity of malt beverages, wine or cider received from the
+holder of a direct to retailer permit issued  under ORS 471.274 during the immediately preceding
+calendar month, and any other information required by the commission by rule.
+(13) For purposes of ORS chapter 473, a  brewery-public house licensee shall be considered to
+be a manufacturer.
+(14) The  holder of a brewery-public house license that uses a third-party delivery facilitator to
+make deliveries on behalf of the holder is not responsible for ensuring that deliveries made  by the
+third-party delivery facilitator meet any requirements applicable to the deliveries.
+(15) An applicant for  a brewery-public house license shall at the time of application apply
+for a service permit under ORS 471.375.
+[(15)] (16) The commission may adopt rules to carry out this section.
+SECTION 4.
+ ORS 471.221 is amended to read:
+471.221. (1) As used in this section, “common control” means:
+(a) That a manufacturer, or any officer, director, substantial stockholder or other substantial
+equity holder in the manufacturer:
+(A) Directly or indirectly holds 50 percent or more interest in the brewery licensee; or
+[5]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) Has authority to direct the management of the brewery licensee; or
+(b) That a brewery licensee, or any officer, director, substantial stockholder  or other substantial
+equity holder in the brewery licensee:
+(A) Directly or indirectly holds 50 percent or more interest in another manufacturer; or
+(B) Has authority to direct the management of another manufacturer.
+(2) A brewery license authorizes the licensee to:
+(a) Manufacture malt beverages on the licensed premises.
+(b) Sell to wholesale malt beverage and wine licensees, import, store, transport or export:
+(A) Malt beverages produced on the licensed premises; or
+(B) Malt beverages of a brand produced by a manufacturer that is under common  control with
+the brewery licensee.
+(c) Sell wine, malt beverages or cider on the licensed premises at retail for  consumption on or
+off the licensed premises.
+(d) Sell, in  securely covered containers supplied by the consumer and having a capacity of not
+more than two gallons each, wine, malt beverages or cider for off-premises consumption.
+(e) Obtain a special events brewery license that entitles the holder to conduct the activities al-
+lowed under paragraphs (c) and (d) of this subsection at a designated location other  than the one
+set forth in the brewery license for a period not exceeding five days.
+(f) Notwithstanding ORS 471.392 to 471.400, subject to ORS 471.175, hold a  full on-premises sales
+license.
+(g) Conduct any activities authorized under paragraph (c), (d) or (f) of this subsection at up  to
+two additional locations approved by the Oregon Liquor and Cannabis Commission.
+(3) Subject to  ORS 471.235, a brewery licensee may hold a wholesale malt beverage and wine
+license. A brewery licensee must hold a wholesale malt beverage and wine license if the  brewery
+licensee:
+(a) Imports, stores, transports or exports  malt beverages of brands that are not produced by the
+licensee or a manufacturer under common control with the licensee; or
+(b) Except as provided in this  paragraph, sells or distributes malt beverages. This paragraph
+does not apply to malt beverages described in subsection  (2)(a) or (b) of this section sold at a li-
+censed premises described in subsection (2)(a) of this section.
+(4) A brewery licensee and a winery licensee  may not be under common control unless the
+winery licensee:
+(a) Uses its premises to produce wine or cider; and
+(b) Holds a valid producer and blender basic permit issued  by the federal Alcohol and Tobacco
+Tax and Trade Bureau.
+(5) Notwithstanding any other provision of this chapter, a  brewery licensee, a manufacturer that
+is under common  control with the brewery licensee or any officer, director, substantial stockholder
+or other substantial equity holder  in the brewery licensee or in a manufacturer that is under com-
+mon control with  the brewery licensee may not sell malt beverages at retail at more than three lo-
+cations in this state regardless of the number or type of licenses held by the licensee,  manufacturer,
+officer, director, stockholder or equity holder.
+(6) A brewery licensee may produce  malt beverages for a brewery-public house licensee under
+a custom order agreement. The commission may adopt rules  regarding the contents of custom order
+agreements.
+(7) A brewery licensee that uses a  third-party delivery facilitator to make deliveries on behalf
+[6]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of the licensee  is not responsible for ensuring that deliveries made by the third-party delivery
+facilitator meet any requirements applicable to the deliveries.
+(8)(a) An applicant for a brewery license shall at  the time of application apply for a ser-
+vice permit under ORS 471.375.
+(b) The commission may adopt rules to carry out this subsection.
+SECTION 5.
+ ORS 471.223 is amended to read:
+471.223. (1) As used in this section, “control” means that the licensee:
+(a) Owns the brand under which the wine or cider is labeled; or
+(b) Performs or has the  legal right to perform all of the acts common to a brand owner under
+the terms of a trademark  license or similar agreement that for the brand under which the wine or
+cider is labeled has a term of at least three years.
+(2) The holder of a winery license may:
+(a) Import wine or cider in containers that have a capacity of more than four liters.
+(b) Import wine or cider in containers that have a capacity of four liters or less if the  brand of
+wine or cider is under the control of the licensee.
+(c) Bottle, produce, blend, store, transport or export wines or cider.
+(d) Sell wines or cider at wholesale to  the Oregon Liquor and Cannabis Commission or to
+licensees of the commission.
+(e) Sell wines or cider at retail directly to the consumer for consumption on or off the  licensed
+premises.
+(f) Sell malt beverages at retail for consumption on or off the licensed premises.
+(g) Sell for  consumption off the premises malt beverages, wines and cider in securely covered
+containers that are  supplied by the consumer and have capacities of not more than two gallons each.
+(h) Conduct under the  winery license any activities described in paragraphs (a) to (g) of this
+subsection at five or fewer premises designated by the commission.
+(i) Purchase from or through the commission brandy or other distilled liquors for fortifying
+wines or cider.
+(j) Obtain a special events winery  license that entitles the holder to conduct the activities al-
+lowed under paragraphs (e) to (g) of this subsection at a designated location other than  the one set
+forth in the winery license for a period not to exceed five days.
+(3) A  winery licensee shall allow a patron to remove a partially consumed bottle of wine from
+the licensed premises if the patron is not a minor and the patron is not visibly intoxicated.
+(4) Except as provided in subsection (5) of this section, in order  to hold a winery license the
+licensee shall:
+(a) Possess at a  bonded premises within Oregon a valid producer and blender basic permit issued
+by the federal Alcohol and Tobacco Tax and Trade Bureau; or
+(b) Possess a valid wine blender or valid wholesaler  basic permit issued by the federal Alcohol
+and Tobacco Tax and Trade Bureau and have a written contract with a winery licensed under  par-
+agraph (a) of this subsection that authorizes the winery to produce  for the licensee a brand of wine
+or cider that is under the control of the licensee.
+(5) Subsection  (4) of this section does not apply if a licensee produces only cider under the
+winery license.
+(6) A winery licensee  may sell and ship malt beverages, wine or cider directly to a resident of
+this state only if the licensee has a direct shipper permit issued under ORS 471.282.
+(7) A winery licensee, or any person having an interest in the licensee, may also hold a full
+[7]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+on-premises sales license. If a winery licensee, or a person having an interest in the  licensee, also
+holds a full on-premises sales license, the provisions of this chapter do not prevent the  licensee or
+person from both selling wine or cider bottled and produced under the winery license  and selling
+alcoholic liquor as authorized under the full on-premises sales license.
+(8) More than one winery licensee may exercise the privileges of a winery license  at a single
+location. The commission  may not refuse to issue a winery license to a person for the production
+of wine or cider on specified premises based on the fact that other winery licensees also  produce
+wine or cider on those premises.
+(9) If a winery licensee does not possess at a bonded premises within Oregon a valid producer
+and blender basic permit issued by the federal  Alcohol and Tobacco Tax and Trade Bureau, the
+licensee may exercise the privileges described in this section only for wine and cider brands that
+are under the control of the licensee.
+(10) The holder of a winery license that uses a third-party delivery facilitator  to make deliveries
+on behalf of the winery licensee is not responsible for ensuring that deliveries  made by the third-
+party delivery facilitator meet any requirements applicable to the deliveries.
+(11)(a) An applicant for  a winery license shall at the time of application apply for a ser-
+vice permit under ORS 471.375.
+(b) The commission may adopt rules to carry out this subsection.
+SECTION 6.
+ ORS 471.230 is amended to read:
+471.230. (1) A distillery license allows the licensee  to import, manufacture, distill, rectify, blend,
+denature and store  distilled liquor, to sell the distilled liquor to the Oregon Liquor and Cannabis
+Commission and to transport the distilled  liquor out of this state for sale outside this state.
+Distillery licensees may purchase and sell distilled liquor from or to another distillery  licensee in
+containers having a capacity greater than  one U.S. gallon for blending and manufacturing purposes.
+A distillery licensee may not sell any alcoholic beverage within  this state except to the commission
+or as provided in this section.  However, any agricultural producer or association of agricultural
+producers  or  the legal agents of an agricultural producer or association of agricultural producers
+that manufactures and converts agricultural surpluses, by-products and wastes into denatured ethyl
+and industrial alcohol for use in the arts and industry are  not required to obtain a license from the
+commission.
+(2) If a distillery licensee holds a valid  distilled spirits plant basic permit issued by the federal
+Alcohol and Tobacco Tax and Trade Bureau for the licensed premises, the distillery licensee may:
+(a) Permit tastings of distilled liquor approved by the commission for sale in Oregon and manu-
+factured in Oregon  by the distillery licensee or by another distillery licensee. Tastings may be of
+the distilled liquor alone or with a mix of other liquids. If any of the  other liquids are distilled li-
+quors, they must be distilled liquors on the list of products  approved by the commission for retail
+sale in Oregon and must be purchased by the licensee at the retail price established  by the com-
+mission. This paragraph does  not authorize sales by the drink of distilled liquor. The tastings may
+be conducted on the licensed premises of the distillery  and at no more than five other premises
+owned or leased  by the licensee. The commission may allow more than one distillery licensee to use
+the same premises at the same time for conducting tastings if  the premises are a primary production
+location and the licensees share the premises or are owned by the same entity. If  the manufacturer
+of the distilled liquor obtains distilled liquor for conducting  tastings from the inventory of the
+commission, the licensee shall pay the commission a processing fee.
+(b) Obtain a special events distillery license.
+[8]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Apply for appointment by the commission as a distillery  retail outlet agent for purposes of
+retailing distilled liquor at locations  where tastings are permitted under paragraph (a) of this sub-
+section or subsection (4)(a) of this section. A distillery  retail outlet agent may sell at locations
+where tastings are allowed under paragraph (a) of this subsection only distilled liquor that is on  the
+list of products approved by the commission for retail sale  in Oregon and is manufactured in Oregon
+by the distillery licensee or by another distillery licensee that uses the same  premises as a primary
+production location or is owned by the same entity as the distillery licensee.
+(3) Notwithstanding ORS 471.392 to 471.400, a distillery licensee may hold  one or more full on-
+premises sales licenses. All distilled liquor sold under a full on-premises sales license must be pur-
+chased from the commission.
+(4) A distillery licensee that holds a special  events distillery license may conduct an event on
+premises designated in the special events distillery license. Except as provided in  this subsection,
+a special events distillery license may be valid for a period not exceeding five days. The  commission
+shall limit the approval of special events distillery licenses for a distillery licensee at the  same lo-
+cation to not more than 62 days during a calendar year. A distillery licensee conducting  a special
+event may:
+(a) Permit tastings of distilled liquor approved by the commission for sale in Oregon and manu-
+factured in Oregon by the distillery  licensee. Tastings may be of the distilled liquor alone or with
+a mix of other liquids. If any of the other liquids are distilled liquors, they must  be distilled liquors
+on the list of products approved by the  commission for retail sale in Oregon and must be purchased
+by the licensee at the retail price established by the commission. If the manufacturer of  the distilled
+liquor obtains distilled liquor for conducting  tastings from the inventory of the commission, the
+licensee shall pay the commission a processing fee.
+(b) Permit sales by the drink of distilled liquor. A drink  that a distillery licensee sells under this
+paragraph must include distilled liquor that the licensee manufactured in Oregon.  Any distilled li-
+quor contained in the drink must be on the list of products approved  by the commission for retail
+sale in  Oregon. The distillery licensee selling the drink must purchase all distilled liquor contained
+in the drink at the retail price set by the commission for the month in which the drink is sold.
+(c) If the distillery licensee  has been appointed as a distillery retail outlet agent under sub-
+section (2)(c) of this section, sell distilled  liquor in factory-sealed containers for consumption off the
+licensed premises. A distillery retail  outlet agent may sell at a location where tastings are allowed
+under paragraph (a) of  this subsection only distilled liquor that is on the list of products approved
+by the commission for retail sale  in Oregon and is manufactured in Oregon by the distillery licensee.
+The distillery retail outlet agent must sell the distilled liquor at the retail price set  by the com-
+mission for the month of sale.
+(5) The commission shall pay a distillery retail outlet agent  compensation for distilled liquor
+retail sales by the agent under subsection (2)(c) or (4)(c) of this section.  The compensation rate shall
+be:
+(a) For the first $250,000 of  annual total combined retail sales from all distillery retail outlet
+agent tasting locations operated by the distillery licensee under subsection (2)(a) or (4)(a) of this
+section, 45 percent of the retail price set by the commission for the sold distilled liquor.
+(b) For distilled liquor retail sales by the agent that are not described in paragraph (a)  of this
+subsection, 17 percent of the retail price set by the commission for the sold distilled liquor.
+(6)(a) An applicant for a distillery  license shall at the time of application apply for a
+service permit under ORS 471.375.
+[9]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) The commission may adopt rules to carry out this section.
+SECTION 7.
+ ORS 471.230, as amended by section 3, chapter 649, Oregon Laws 2021,  is amended
+to read:
+471.230. (1) A distillery license allows the licensee  to import, manufacture, distill, rectify, blend,
+denature and store  distilled liquor, to sell the distilled liquor to the Oregon Liquor and Cannabis
+Commission and to transport the distilled  liquor out of this state for sale outside this state.
+Distillery licensees may purchase and sell distilled liquor from or to another distillery  licensee in
+containers having a capacity greater than  one U.S. gallon for blending and manufacturing purposes.
+A distillery licensee may not sell any alcoholic beverage within  this state except to the commission
+or as provided in this section.  However, any agricultural producer or association of agricultural
+producers  or  the legal agents of an agricultural producer or association of agricultural producers
+that manufactures and converts agricultural surpluses, by-products and wastes into denatured ethyl
+and industrial alcohol for use in the arts and industry are  not required to obtain a license from the
+commission.
+(2) If a distillery licensee holds a valid  distilled spirits plant basic permit issued by the federal
+Alcohol and Tobacco Tax and Trade Bureau for the licensed premises, the distillery licensee may:
+(a) Permit tastings of distilled liquor approved by the commission for sale in Oregon and manu-
+factured in Oregon  by the distillery licensee or by another distillery licensee. Tastings may be of
+the distilled liquor alone or with a mix of other liquids. If any of the  other liquids are distilled li-
+quors, they must be distilled liquors on the list of products  approved by the commission for retail
+sale in Oregon and must be purchased by the licensee at the retail price established  by the com-
+mission. This paragraph does  not authorize sales by the drink of distilled liquor. The tastings may
+be conducted on the licensed premises of the distillery  and at no more than five other premises
+owned or leased  by the licensee. The commission may allow more than one distillery licensee to use
+the same premises at the same time for conducting tastings if  the premises are a primary production
+location and the licensees share the premises or are owned by the same entity. If  the manufacturer
+of the distilled liquor obtains distilled liquor for conducting  tastings from the inventory of the
+commission, the licensee shall pay the commission a processing fee.
+(b) Obtain a special events distillery license.
+(c) Apply for appointment by the commission  as a distillery retail outlet agent for purposes of
+retailing distilled liquor at locations where tastings are permitted under paragraph  (a) of this sub-
+section or subsection (4)(a) of this section. A  distillery retail outlet agent may sell at locations
+where tastings are allowed under paragraph (a) of this subsection only distilled liquor that is on  the
+list of products approved by the commission for retail sale  in Oregon and is manufactured in Oregon
+by the distillery licensee or by another distillery licensee that uses the same  premises as a primary
+production location or is owned by the same entity as the distillery licensee.
+(3) Notwithstanding ORS 471.392 to 471.400,  a distillery licensee may hold one or more full on-
+premises sales licenses. All distilled liquor sold under a full on-premises sales license must be pur-
+chased from the commission.
+(4) A distillery licensee that holds a special events  distillery license may conduct an event on
+premises designated in  the special events distillery license. Except as provided in this subsection,
+a special events distillery license may be valid for a period not exceeding five days. The  commission
+shall limit the  approval of special events distillery licenses for a distillery licensee at the same lo-
+cation to not  more than 62 days during a calendar year. A distillery licensee conducting a special
+event may:
+[10]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Permit tastings of distilled liquor approved by the commission for sale in Oregon and manu-
+factured in Oregon by the distillery licensee. Tastings may be of the  distilled liquor alone or with
+a mix of other liquids. If any of the other liquids are distilled liquors, they must  be distilled liquors
+on the list of products approved by the  commission for retail sale in Oregon and must be purchased
+by the licensee at the retail price established by the commission. If the manufacturer of  the distilled
+liquor obtains distilled liquor for conducting tastings from the  inventory of the commission, the
+licensee shall pay the commission a processing fee.
+(b) Permit sales by the drink of distilled liquor. A drink  that a distillery licensee sells under this
+paragraph must include distilled  liquor that the licensee manufactured in Oregon. Any distilled li-
+quor contained in the drink must  be on the list of products approved by the commission for retail
+sale in Oregon. The distillery licensee selling the drink must purchase all distilled liquor  contained
+in the drink at the retail price set by the commission for the month in which the drink is sold.
+(c) If the distillery licensee has been appointed as a distillery retail  outlet agent under sub-
+section (2)(c) of this section, sell distilled  liquor in factory-sealed containers for consumption off the
+licensed premises. A distillery retail outlet agent may sell at a location  where tastings are allowed
+under paragraph (a) of this subsection only distilled liquor that is on the list  of products approved
+by the commission for retail sale  in Oregon and is manufactured in Oregon by the distillery licensee.
+The distillery retail outlet  agent must sell the distilled liquor at the retail price set by the com-
+mission for the month of sale.
+(5)(a) An applicant for a distillery license shall at the time  of application apply for a
+service permit under ORS 471.375.
+(b) The commission may adopt rules to carry out this section.
+SECTION 8.
+ ORS 471.360 is amended to read:
+471.360. (1) [Except as otherwise provided in ORS 471.375: ]
+[(a)] Any person employed by a licensee  of the Oregon Liquor and Cannabis Commission must
+have a valid service permit issued by the commission if the person:
+[(A)] (a) Participates  in any manner in the mixing, selling or service of alcoholic liquor for
+consumption on the premises where served or sold; or
+[(B)] (b) Participates in the dispensing of malt beverages, wines or cider sold in securely covered
+containers provided by the consumer.
+[(b)] (2) A licensee of the commission may not [ permit] allow any person who  [ lacks] does not
+hold a service permit required [ of the person under paragraph (a)  of this subsection ] under sub-
+section (1) of this section to :
+[(A)] (a) [ To] Mix, sell or serve any alcoholic liquor for consumption on licensed premises; or
+[(B)] (b) [ To] Dispense malt beverages, wines or cider sold in securely covered containers  pro-
+vided by the consumer.
+[(c)] (3) A  permittee shall make the service permit available at any time while on duty for im-
+mediate inspection by any regulatory specialist or by any other peace officer.
+[(2)] (4) The commission may waive the requirement for a service permit  for an employee of a
+licensee whose primary function is  not the sale of alcoholic liquor or food, including but not limited
+to public passenger carriers, hospitals, or convalescent, nursing or retirement homes.
+[(3)] (5) Violation of the requirements of this section is a Class B violation.
+SECTION 9.  ORS 471.365 is amended to read:
+471.365. (1) A service permit [ shall be ] or a  provisional service permit is  a purely personal
+privilege, valid only upon licensed premises, for the period of time stated [ thereon] on the  service
+[11]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+permit or as otherwise specified , and may be suspended or revoked for any reason set forth in
+ORS 471.360 to 471.385.
+(2) [No service permit shall be used  by any person other than the person to whom it is issued ] A
+service permit or provisional  service permit may not be used by any person other than the
+person to whom the service  permit or provisional service permit is issued . [Except as provided
+in ORS 471.375, ] The licensee shall verify the  identification of the permittee and determine that the
+permittee has in  possession a service permit or provisional service permit  before allowing the
+permittee to mix, sell or serve alcoholic liquor for consumption on the licensed premises.
+SECTION 10.
+ ORS 471.375 is amended to read:
+471.375. [(1) Any person who  has not had a permit refused or revoked or whose permit is not under
+suspension may mix, sell or serve alcoholic beverages as provided under subsection  (3) of this section
+if the person prepares in duplicate an application for a service permit prior to mixing, selling  or serv-
+ing any alcoholic beverage for consumption on licensed premises. Until a person who has prepared  an
+application under  this subsection receives a service permit, the licensee for the premises shall make a
+copy of the application available for immediate inspection by any regulatory specialist or by any other
+peace officer. ]
+[(2)] (1)(a) An applicant for a service permit must be 18 years of age or over.
+(b) Application for a service permit [ shall] must be made on a form acceptable to the  Oregon
+Liquor and Cannabis Commission. The applicant shall truly answer all questions, provide any  fur-
+ther information required and pay a fee not to exceed $50.
+[(3) An applicant described in subsection (1) of this section may: ]
+[(a) Participate in the mixing, selling or service of  alcoholic beverages for consumption on the
+premises where served or sold; and ]
+[(b) Participate in the dispensing of malt beverages, wine or cider sold in  securely covered con-
+tainers provided by the consumer. ]
+(2)(a) Upon receipt of an application for a service permit under  subsection (1) of this
+section, the commission may issue to the applicant a provisional service permit to allow  the
+applicant to participate, as if the applicant held a valid service permit:
+(A) In any manner in the mixing, selling or serving of  alcoholic liquor for consumption
+on the premises where served or sold; and
+(B) In the dispensing of malt beverages, wine or cider  sold in securely covered containers
+provided by the consumer.
+(b) A provisional service permit issued under this subsection:
+(A) Shall be treated in the same manner as a service permit issued under this section.
+(B) Expires upon issuance of a service permit under issued under this section.
+(3) An applicant for  a license under ORS 471.175, 471.178, 471.200, 471.221, 471.223 or
+471.230 shall apply for a service permit under subsection (1) of this section.
+(4) The commission may adopt rules to carry out this section.
+THIRD-PARTY DELIVERY FACILITATORS
+SECTION 11.
+ ORS 471.534 is amended to read:
+471.534. (1) In order to engage  in the delivery of alcoholic beverages, a third-party delivery
+facilitator must hold a permit issued by the Oregon Liquor  and Cannabis Commission and must
+comply with applicable requirements under this chapter.
+[12]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2)(a) The commission may refuse to issue a permit, and may suspend or revoke a permit, if  the
+commission finds or has reasonable grounds to believe that:
+(A) A third-party delivery facilitator is, or has a financial interest in, a manufacturer;
+(B) A third-party delivery  facilitator provided material false or misleading information to the
+commission or omitted information that should have been provided to the commission; or
+(C) Subject to  paragraph (b) of this subsection, a third-party delivery facilitator, or any person
+used by or  acting on behalf or at the direction of the third-party delivery facilitator, does not have
+a good record of compliance under this  chapter, as assessed upon initial application for a permit
+under this section and annually upon application for renewal of a permit issued under this section.
+(b) The  commission shall establish by rule a process through which the commission shall notify
+a third-party delivery facilitator of  a compliance issue as described under paragraph (a)(A) of this
+subsection and allow the third-party delivery facilitator an  opportunity to cure the issue prior to the
+commission’s refusal to  issue or renew the third-party delivery facilitator’s permit under this section.
+(3) A retail licensee, as defined in ORS 471.392, is eligible to qualify as a third-party  delivery
+facilitator. A retail licensee that is also a  third-party delivery facilitator may exercise any privilege
+granted by the retail license.
+(4)(a) A third-party delivery facilitator acting on behalf of an eligible business may:
+(A) Deliver, or cause to be delivered, alcoholic beverages  to the physical possession of a final
+consumer on behalf of an eligible business;
+(B) Advertise alcoholic beverages available for retail sale;
+(C) Solicit, receive and accept orders for alcoholic beverages from final consumers; and
+(D) Receive payment for alcoholic beverages ordered by final consumers.
+(b) A third-party delivery facilitator may engage in an activity described in this section  only
+when the third-party delivery facilitator is acting on behalf of an eligible business.
+(c) A third-party delivery facilitator may use only a delivery person who  meets the requirements
+of ORS 471.524 to deliver alcoholic beverages to a final consumer.
+(d) A third-party delivery facilitator that is  an individual who is a delivery person must meet the
+requirements of ORS 471.524, including the requirement to hold a valid driver license.
+(5) A third-party delivery facilitator may charge an eligible business a fee for delivering alco-
+holic beverages on behalf of the eligible business.
+(6) A third-party delivery facilitator shall maintain and  make available records to the commis-
+sion as required by the commission by rule.
+(7)(a) The commission may adopt  rules as necessary to regulate third-party delivery facilitators.
+(b) The commission may adopt rules  to establish a fee for issuing and renewing a third-
+party delivery facilitator permit under this section.
+(8)(a) An eligible business may use a third-party delivery facilitator to carry out, on behalf  of
+the eligible business, deliveries  of alcoholic beverages to final consumers that the eligible business
+is authorized to make. In carrying out a  delivery described in this subsection, a third-party delivery
+facilitator shall ensure that the delivery is made in compliance  with any requirements applicable to
+the delivery.
+(b) The commission shall adopt rules to carry out this subsection.
+(9) An eligible business that uses a third-party delivery facilitator to deliver alcoholic  beverages
+on behalf of the eligible  business is not responsible for any failure of the third-party delivery
+facilitator, or a delivery person employed by or  contracted with the third-party delivery facilitator,
+to comply  with the requirements of ORS 471.521 to 471.537 or rules adopted under ORS 471.521 to
+[13]
+HB 4138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+471.537.
+CAPTIONS
+SECTION 12.
+The unit captions used in this 2024 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2024 Act.
+EFFECTIVE DATE
+SECTION 13. This 2024 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2024 Act takes effect
+on its passage.
+[14]

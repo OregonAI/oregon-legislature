@@ -1,0 +1,1843 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1526
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Finance and Revenue)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes changes to  certain Oregon tax laws. It takes effect on the 91st day after
+session ends. (Flesch Readability Score: 76.9).
+Makes technical, policy and administrative changes to certain Oregon tax laws.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to changes to certain Oregon tax laws; creating new  provisions; amending ORS 285B.627,
+291.349, 305.140, 307.555, 307.590, 307.627, 307.651, 307.677, 311.701, 311.795,  311.990, 315.283,
+317A.100 and 327.001 and section 5, chapter 414, Oregon Laws 2017,  section 17, chapter 579,
+Oregon Laws 2019, section 3, chapter 589, Oregon Laws 2021, section  16, chapter 82, Oregon
+Laws 2022, and sections  1 and 2, chapter 423, Oregon Laws 2023; repealing ORS 307.157, 311.702,
+311.704, 311.706, 311.708,  311.711, 311.716, 311.718, 311.721, 311.722, 311.723, 311.725, 311.727,
+311.729, 311.730, 311.731, 311.732, 311.735 and 315.288; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+2023 LEGISLATION FOLLOW-UP
+SECTION 1.
+ ORS 307.590 is amended to read:
+307.590. (1) As used in ORS 307.590 to 307.596:
+(a) “Adopting jurisdiction” means the governing body of a  city or county that adopts an ex-
+emption law.
+(b) “Eligible property” means property described in subsection (3) of this section.
+(c) “Exemption law” means an ordinance or resolution adopted pursuant  to subsection (2) of this
+section.
+(2)(a) The governing body of a city or county may adopt by ordinance or  resolution a law
+granting a property tax exemption for property described in subsection (3) of this section.
+(b) The ordinance or resolution may include any other conditions for the  exemption that do not
+conflict with ORS 307.590 to 307.596.
+(3) Property of an owner, lessee  or other person responsible for paying the taxes on the property
+is eligible for exemption under this section if the property is:
+(a)(A) A newly constructed accessory dwelling unit as defined in ORS 215.501; or
+(B) A  duplex, triplex or quadplex that has been newly converted from a single-family dwelling;
+and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 169
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) During the period of the exemption:
+(A) Used as the occupant’s primary residence; and
+(B) Not rented out for consideration as transient lodging for any duration.
+(4) For purposes of this section, property shall  be considered newly constructed or newly con-
+verted if, following the completion  of the construction or conversion, a certificate of occupancy was
+issued for the property at any time within  the 12-month period immediately preceding the date on
+which an application for the exemption is first filed under ORS 307.592.
+(5)(a) Eligible property shall be exempt from taxation for  an initial property tax year and for the
+four succeeding property tax  years, provided the conditions for eligibility are met for each year,
+including the filing of timely applications.
+(b) Only one exemption may be granted per tax account.
+(6) If not all units in a multiunit property are eligible  for the exemption, the percentage
+of exemption shall be the proportion that the square  footage of the exempt units bears to
+the square footage of the entire multiunit property.
+[(6)(a)] (7)(a) An exemption law may not take effect unless:
+(A) Upon request of the adopting jurisdiction, the governing bodies of the  other taxing districts
+having territory within the boundaries of the city or county vote to approve the exemption; and
+(B) The combined rates of taxation of the city or county and all approving  taxing districts equal
+51 percent or more of the total combined rate of taxation on the eligible property.
+(b) If the exemption law takes effect, the exemption shall apply to  all property tax levies of all
+taxing districts in which the exempt property is located.
+(c) The decisions of the  taxing districts under paragraph (a) of this subsection may not be
+changed but are not binding  with respect to an exemption law amended by the adopting jurisdiction
+pursuant to subsection [ (7)] (8) of this section.
+[(7)(a)] (8)(a) An adopting jurisdiction may adopt at any time an ordinance or  resolution
+amending the terms of an exemption  law adopted pursuant to this section, subject to the approval
+of the taxing districts under subsection [ (6)(a)] (7)(a) of this section, or  repealing the exemption law.
+(b) Notwithstanding paragraph (a) of  this subsection, property that has been granted an ex-
+emption under the exemption law before the effective date  of the amendment shall continue to re-
+ceive the exemption under the terms in effect at the time the exemption was first granted.
+[(8)] (9) The exemption granted under this section is in addition to and not in lieu of any other
+property tax limit, exemption or partial exemption, special assessment or deferral.
+[(9)] (10) ORS 315.037 does not apply to this section.
+SECTION 2.
+ Section 17, chapter 579, Oregon Laws 2019, as amended  by section 13, chapter 490,
+Oregon Laws 2023, and section 4, chapter 545, Oregon Laws 2023, is amended to read:
+Sec. 17.  (1) ORS 315.591 to 315.603 apply to tax years beginning on or after January 1,  2020,
+and before January 1, 2030.
+(2) Except as provided in ORS 315.593  (6), a credit may not be claimed under ORS 315.593 for
+tax years beginning on or after January 1, 2030.
+(3) The amendments to ORS 315.591, 315.593 and 315.595 by sections 1 to 3 , chapter  545,
+Oregon Laws 2023, [ of this 2023 Act ] apply to tax years beginning  on or after January 1, 2024, and
+before January 1, [ 2026] 2030.
+SECTION 3.  Section 1, chapter 423, Oregon Laws 2023, is amended to read:
+Sec. 1.  (1)(a) Outstanding ad valorem property taxes, and interest  on the taxes, assessed on real
+property[ , the ownership of  which was transferred, from the federal government to a port district
+[2]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+formed under ORS chapter 777, ] described in paragraph (b) of  this subsection  by the assessor of
+the county in which the real property is located, are hereby canceled.
+(b) This subsection applies to property  in which the federal government held a leasehold
+interest, from a port district formed under ORS chapter 777, that was terminated.
+(2) Ad valorem property taxes, and interest on the taxes, assessed on real property owned by  a
+port without a  working waterfront formed under ORS chapter 777, that have been outstanding since
+a date prior to January 1, 2012, are hereby  canceled, provided the tax collector of the county in
+which the property  is located has exhausted all remedies provided by law for collection of the taxes
+and interest.
+SECTION 4.
+ Section 2, chapter 423, Oregon Laws 2023, is amended to read:
+Sec. 2.  Section 1 , chapter 423, Oregon Laws 2023,  [ of this 2023 Act ] is repealed on  January
+2, [2025] 2026.
+SECTION 5.  Section 16, chapter 82, Oregon Laws 2022, is amended to read:
+Sec. 16.  (1) The amendments to ORS  284.368 by section 1 , chapter 82, Oregon Laws 2022,  [ of
+this 2022 Act ] apply to fiscal years beginning on or after July 1, 2022.
+(2)(a) The amendments to sections 3 and 5, chapter  589, Oregon Laws 2021, by sections 3 and
+4, chapter 82, Oregon Laws 2022,  [ of this  2022 Act ] apply to tax years beginning on or after Jan-
+uary 1, 2022, and before January 1, [ 2024] 2026, and to estimated payments due on and after June
+15, 2022.
+(b) The amendments to section 3, chapter 589, Oregon  Laws 2021, by section 9 of this 2024
+Act apply to tax years beginning on or after January 1, 2024, and before January 1, 2026.
+(3) The amendments to section 2,  chapter 527, Oregon Laws 2021, by section 8 , chapter 82,
+Oregon Laws 2022,  [ of this  2022 Act ] apply to applications for precertification under section 4,
+chapter 527, Oregon Laws 2021, and applications for exemption  under section 5, chapter 527, Oregon
+Laws 2021, without precertification, filed on  or after [ the effective date of this 2022 Act ] June 3,
+2022.
+(4) Section 10 , chapter 82, Oregon Laws  2022, [of this 2022 Act ] applies to tax years beginning
+on or after January 1, 2022, and before January 1, 2026.
+(5) Sections 13 and 15 , chapter 82, Oregon Laws 2022,  [ of this 2022 Act ] apply to tax years
+beginning on or after January 1, 2023, and  before January 1, 2029, and to any tax year to which a
+net operating loss arising in those tax years is carried back.
+SECTION 6. ORS 315.283 applies to sales of publicly supported housing completed in tax
+years beginning on or after January 1, 2024, and before January 1, 2030.
+SECTION 7.  ORS 315.283 is amended to read:
+315.283. (1) A  taxpayer is allowed a credit against the taxes otherwise due under ORS chapter
+316 or, if the taxpayer is  a corporation, under ORS chapter 317 or 318 for a qualifying sale in
+Oregon of publicly supported housing  during the tax year. The amount of the credit allowed under
+this section may not exceed:
+(a) For housing owned by the taxpayer for at least five years, 2.5  percent of the lesser of the
+housing’s sale price or the appraisal under ORS 315.286 (2)(e); or
+(b) For housing owned by the taxpayer for at least 10 years, five percent of the lesser  of the
+housing’s sale price or the appraisal under ORS 315.286 (2)(e).
+(2) In order to claim a credit under this section, a taxpayer must:
+(a) Lack identity of interest with the purchaser; and
+(b) Receive certification of a  credit under ORS 315.286 (6) and submit the certification to the
+[3]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Department of Revenue upon request of the department.
+(3) The Department of Revenue may:
+(a) Adopt rules for carrying out the provisions of this section; and
+(b) Prescribe the form used to claim a credit  under this section and the information required
+on the form.
+(4) Any tax credit otherwise allowable under this  section that is not used by the taxpayer in a
+particular tax year may be carried forward and offset against the taxpayer’s tax liability for the next
+succeeding tax year. Any credit remaining unused in the next succeeding tax year  may be carried
+forward and used in the second succeeding tax year, and likewise any  credit not used in that second
+succeeding tax year may be carried forward and used  in the third succeeding tax year, but may not
+be carried forward for any tax year thereafter.
+(5) In the case of a credit allowed under this section:
+(a) A nonresident is allowed the credit under this section in the proportion provided in  ORS
+316.117.
+(b) If a change in the status  of a taxpayer from resident to nonresident or from nonresident to
+resident occurs, the credit allowed by  this section must be determined in a manner consistent with
+ORS 316.117.
+(c) If a change in  the tax year of a taxpayer occurs as described in ORS 314.085, or if the De-
+partment of Revenue  terminates the taxpayer’s tax year under ORS 314.440, the credit allowed under
+this section must be prorated or computed in a manner consistent with ORS 314.085.
+(6) The Housing  and Community Services Department shall provide information to the
+Department of Revenue about all certifications issued under this section, if required  as pro-
+vided by ORS 315.058.
+SECTION 8.
+ORS 315.288 is repealed.
+POLICY CHANGES
+SECTION 9.  Section 3, chapter 589, Oregon Laws 2021, as amended by section 3,  chapter 82,
+Oregon Laws 2022, is amended to read:
+Sec. 3.  (1) A pass-through entity may elect to be  liable for and pay a pass-through business al-
+ternative income tax if all members of the pass-through entity are:
+(a) Individuals subject to the personal income tax imposed under ORS chapter 316; [ or]
+(b) Entities that are pass-through  entities owned entirely by individuals subject to the personal
+income tax imposed under ORS chapter 316[ .]; or
+(c) Trusts.
+(2) The election to pay the pass-through  business alternative income tax is available if consent
+is given by all members  of the electing pass-through entity who are members at the time the election
+is filed or is made by any officer, manager or member of the electing  pass-through entity who is
+authorized, under law or the entity’s organizational documents,  to make the election and who re-
+presents to having such authorization under penalties of perjury. The election shall  be made annu-
+ally on or before the due date, including extensions, of the pass-through entity’s return,  in the form
+and manner prescribed by the Department of Revenue. The election may not be made retroactively.
+The members of a pass-through  entity may revoke an election under this section for a tax year only
+on or before the due date of the pass-through entity’s return for that  tax year, and only if the re-
+vocation is agreed to by all members who are members at the time of the revocation.
+[4]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3)(a) In determining the sum of distributive proceeds and computing the  tax under this section,
+a member of a pass-through entity shall add back any amount of Oregon tax  [ imposed under this
+chapter and ] deducted by the pass-through entity at the entity level  for federal income tax purposes
+under section 164 of the Internal Revenue Code.
+(b) Any amount that is added back under  this subsection and that meets the conditions for the
+use of elective rates under ORS 316.043 may be treated as qualifying income under ORS 316.043, in
+a proportion determined by the department by rule.
+(4) Each pass-through entity that makes an election for a tax year pursuant to this section shall
+annually report to each of its members, for the tax  year, the member’s share of distributive proceeds
+and share of tax paid under this section and eligible for  the credit allowed under section 8, chapter
+589, Oregon Laws 2021.
+(5) The tax imposed on a pass-through entity pursuant to this  section shall be determined with
+respect to the sum of each member’s share of distributive proceeds attributable to the  pass-through
+entity for the tax year.
+(6) The rate of the tax imposed by and computed under this section is:
+(a) Nine percent of the  first $250,000, or fraction thereof, of the sum of distributive proceeds;
+and
+(b) Nine and nine-tenths percent of any amount of distributive proceeds in excess of $250,000.
+(7) The amount of pass-through business alternative income tax due from a  pass-through entity
+in a tax year shall be exclusive  of any amount of tax due and paid by the pass-through entity under
+[this chapter ] ORS chapter 314 , except as  otherwise provided in sections 2 to 6, chapter 589, Oregon
+Laws 2021.
+(8) Pass-through entities that have made an election under this  section shall file an entity tax
+return. The return shall be accompanied by  payment and shall be due on the date applicable to re-
+turns due under ORS chapter 316, as provided in ORS 314.385.
+SECTION 10.
+ ORS 285B.627 is amended to read:
+285B.627. (1) In consultation with  the Department of Revenue, the Oregon Business Development
+Department shall establish and administer the Oregon Industrial Site Readiness Program. The  pur-
+pose of the program is to:
+(a) Enter into tax  reimbursement arrangements with qualified project sponsors pursuant to
+subsection (5) of this section; or
+(b) Provide loans, including  forgivable loans, to qualified project sponsors pursuant to subsection
+(5) of this section.
+(2)(a) Subject  to standards and procedures that the Oregon Business Development Department
+shall establish by rule, the department shall  designate regionally significant industrial sites for
+inclusion in the program.
+(b) A regionally significant industrial site designated under this section must  be an industrial
+site that is planned and zoned for industrial use.
+(3) A project sponsor may apply to participate in the program by submitting an  application and
+development plan in writing in a form prescribed by the department by rule.
+(4) The department shall establish by rule criteria and standards  for the qualification of project
+sponsors to participate in the program.
+(5) Upon qualification of a project sponsor under this section, and before July 1, [ 2023] 2026, the
+department may:
+(a) Enter into  a tax reimbursement arrangement with the project sponsor pursuant to which the
+[5]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+project sponsor shall receive an amount equal  to 50 percent of the estimated incremental income tax
+revenues generated by  an eligible employer per tax year, beginning with the first tax year following
+the tax year in  which a project sponsor is qualified under this section, until the total investment
+of the qualified project sponsor in the eligible site preparation costs,  including interest, established
+under subsection (7) of this section has been recovered, at  which time the tax reimbursement ar-
+rangement shall end; or
+(b) Enter into a loan agreement with the project sponsor under  terms and conditions specified
+and required by the department. In making  a determination to enter into a loan agreement with the
+project sponsor, the department  shall consider the reasonableness of the project sponsor’s estimated
+costs to prepare the site for industrial use, including  but not limited to eligible site preparation
+costs established by the department pursuant to subsection (7) of this  section. The agreement may
+specify that a portion of the loan may be  forgiven if the project sponsor enters into a contract with
+an eligible employer to conduct a  business in the traded sector industry on a regionally significant
+industrial site within seven years after the project sponsor was qualified under this section.
+(6)(a) The total amount of the  loan that may be forgiven under subsection (5) of this section is
+the lesser of:
+(A) Fifty percent of the total cost of eligible site preparation costs; or
+(B) Fifty  percent of the amount of the estimated incremental income tax revenues for the eligible
+employer for the term of the loan.
+(b) Loan forgiveness may not be allowed under subsection (5) of this section if any  portion of
+the loan that would not  be forgiven would be repaid by the project sponsor with state funds received
+from any source.
+(7) The department shall establish, by rule, eligible site preparation costs  including, but not
+limited to, some or all of the following:
+(a) Acquisition and assembly costs associated with creating large development parcels.
+(b) Transportation improvements such as  access roads, intersections, turning lanes, signals,
+sidewalks, curbs, transit stops and storm drains.
+(c) Water and sewer infrastructure.
+(d) Natural resource mitigation.
+(e) Site grading activities.
+(f) Environmental remediation and mitigation activities to address brownfields  issues in accord-
+ance with state and federally approved remediation plans.
+(g) Planning, engineering  and administrative costs associated with applying for necessary local,
+state and federal permits.
+(h) Interest-carrying costs incurred by a project sponsor for amounts borrowed to  develop a re-
+gionally significant industrial  site, not to exceed 20 percent of the total amount forgiven, if any,
+under subsection (5) of this section.
+(8) The total amount of tax reimbursement arrangements and loan amounts authorized under this
+section may not exceed $10 million per year.
+(9) Funds received pursuant to a tax reimbursement arrangement or  a loan agreement under
+subsection (5) of this section may not be used for the payment of:
+(a) A penalty or fine; or
+(b) Environmental remediation activities conducted at a regionally significant industrial site that
+is listed or proposed to be listed as a national priority pursuant  to the Comprehensive Environ-
+mental Response, Compensation, and Liability Act of 1980 (42  U.S.C. 9605) for which the project
+[6]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+sponsor, eligible employer or any  party to the tax reimbursement arrangement or loan agreement
+is liable under 42 U.S.C. 9607 at that regionally significant industrial site.
+(10) The department shall adopt rules  to administer and implement the provisions of this section.
+PROPERTY TAX CHANGES
+SECTION 11.
+ORS 307.157 is repealed.
+SECTION 12. ORS 311.702, 311.704, 311.706, 311.708, 311.711, 311.716, 311.718,  311.721,
+311.722, 311.723, 311.725, 311.727, 311.729, 311.730, 311.731, 311.732 and 311.735 are repealed.
+SECTION 13. The repeal of ORS 311.702, 311.704, 311.706,  311.708, 311.711, 311.716, 311.718,
+311.721, 311.722, 311.723, 311.725, 311.727, 311.729, 311.730, 311.731, 311.732 and 311.735 by section
+12 of this 2024  Act does not affect the liability of any person for any outstanding amount
+owing under ORS 311.702 to 311.735 as in effect before the effective date of this 2024 Act.
+SECTION 14.  ORS 307.555 is amended to read:
+307.555. (1) As used in this section and ORS 307.558:
+(a) “Affordable housing covenant” and “eligible covenant holder”  have the meanings given those
+terms under ORS 456.270.
+(b) “Condominium unit” or “unit” has the meaning given that term under ORS 100.005.
+(c) [ “Permanent” ] “Long-term”  means for a period of not less than 99 years.
+(2) Upon compliance with ORS 307.162, land owned by an eligible covenant holder  that is bur-
+dened by an  affordable housing covenant requiring [ permanent] long-term affordability is exempt
+from ad valorem property taxation if, for any property tax year:
+(a) The improvements on the land constitute owner-occupied housing;
+(b) Owner-occupied  housing is being constructed or rehabilitated on the land for a reasonable
+period;
+(c) The land is being held for a reasonable period  for the construction of owner-occupied hous-
+ing;
+(d) The owner-occupied housing on the land is unoccupied  while offered for sale as owner-
+occupied housing; or
+(e) The owner is required to be absent from the  owner-occupied housing on the land by reason
+of health or active military service.
+(3)(a) Upon compliance with ORS 307.162, 27 percent of the assessed value of an owner-occupied
+condominium unit burdened by an affordable  housing covenant requiring [ permanent] long-term
+affordability is exempt from ad valorem property taxation.
+(b) An owner-occupied condominium unit that otherwise remains  eligible shall continue to re-
+ceive  the  partial property tax exemption granted under this subsection if, for any property tax year:
+(A) The unit is being rehabilitated for a reasonable period and will constitute owner-occupied
+housing after the rehabilitation is complete;
+(B) The unit is unoccupied while offered for sale as owner-occupied housing; or
+(C) The owner is required to be absent from  the unit by reason of health or active military
+service.
+(4)(a) Except as provided in paragraph (b) of  this subsection, for purposes of subsections (2)(b)
+and (c) and (3)(b)(A) of this section, “reasonable period” means a period not exceeding seven years.
+(b) If, before the end of the sixth consecutive property tax year  for which land or an owner-
+occupied condominium unit is granted an exemption  or partial exemption in the circumstances de-
+[7]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+scribed in subsection (2)(b) or (c) or (3)(b)(A) of this section, the eligible covenant  holder or owner
+believes that the construction, rehabilitation or holding period,  as applicable, will continue past the
+end of the next  following property tax year, the eligible covenant holder or owner may claim a
+three-year extension by filing a notice of extension with the county assessor.
+(c) The extension becomes effective if the notice of extension is filed on or before April 1 pre-
+ceding the first property tax year for which the  extension is claimed and is accompanied by a filing
+fee equal to the greater of $200 or one-tenth of one percent of the real market value of the land  or
+the owner-occupied condominium unit as of the most recent assessment date.
+(5) Each year that a parcel  of land or an owner-occupied condominium unit is granted exemption
+or partial exemption  under this section, the county assessor shall enter on the assessment and tax
+roll that the  property is exempt or partially exempt and is subject to potential additional taxes as
+provided under ORS 307.558 by adding the notation “potential additional taxes.”
+(6) ORS 315.037 does not apply to this section.
+SECTION 15.
+ ORS 307.627 is amended to read:
+307.627. (1) If, after application has  been approved under ORS 307.600 to 307.637, a declaration
+defined in ORS 100.005 with respect to  the property is presented to the county assessor or tax col-
+lector for approval under ORS 100.110, or if the  county assessor discovers that the multiple-unit
+housing or a portion of the multiple-unit housing is changed  to a use that is other than residential
+or housing, or if the exemption was granted for housing being or becoming subject to  a low income
+housing assistance contract with an agency or subdivision of this state or the United States and  the
+housing is not  housing subject to a low income housing assistance contract as of a date the housing
+is required to be subject to a low income housing assistance contract  in order to receive the ex-
+emption:
+(a) The exemption granted the multiple-unit housing or portion under ORS 307.600 to  307.637
+shall terminate immediately, without right of notice or appeal;
+(b) The property or portion shall be assessed and taxed as other  property similarly situated is
+assessed and taxed; and
+(c)(A) Notwithstanding ORS 311.235, there shall  be added to the general property tax roll for the
+tax year next following the presentation or discovery, to be collected and distributed in  the same
+manner as other real property tax, an amount equal to the difference between the amount of tax that
+would have been due on the property or portion had it  not been exempt under ORS 307.600 to
+307.637 for each of the years, not to exceed the last 10 years,  during which the property was exempt
+from taxation under ORS 307.600 to 307.637.
+(B) In the case  of multiple-unit housing described in ORS 307.603 (5)(a), this paragraph applies
+only if the low income housing  assistance contract to which the housing was or was to become
+subject was not entered into, was breached or was terminated prematurely.
+(2) If, at  the time of presentation or discovery, the property is no longer exempt, additional taxes
+shall be imposed  as provided in this section, but the number of years that would otherwise be used
+to compute the additional taxes shall be reduced one year for each year that  has elapsed since the
+year the property was last granted exemption beginning with the oldest  year for which additional
+taxes are due.
+(3) The assessment and tax rolls shall show “potential additional tax liability” for each  property
+granted exemption under ORS 307.600 to 307.637.
+(4) Additional taxes  collected under this section shall be deemed to have been imposed in the
+year to which the additional taxes relate.
+[8]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 16.
+ORS 308.408, 308.411, 308.412 and 308.413  are added to and made a part of
+ORS 308.408 to 308.413.
+SECTION 17.  ORS 311.990 is amended to read:
+311.990. (1) Violation of ORS 311.270 is a Class B violation.
+(2) Violation of ORS 311.350 is a Class B misdemeanor.
+(3) Violation of ORS 311.425 (1) is a Class A violation.
+(4) If a tax collector fails to comply with any of the  provisions of law relating to the receiving
+and receipting of moneys and warrants collected by the tax collector for taxes,  the tax collector
+commits a Class A violation. The court before whom the tax collector is tried shall declare the office
+of the tax collector vacant for the remainder of the tax collector’s  term [ of the tax collector ].
+(5) If a tax collector willfully returns as unpaid any tax [ which] that has been paid to the tax
+collector, the tax collector commits a Class B misdemeanor.
+(6) If a tax  collector or sheriff neglects or refuses to pay over to the county treasurer  all
+moneys collected for taxes  by the tax collector or sheriff [ for taxes  to the county treasurer ], or
+neglects or refuses to make a return of delinquent  taxes of the county, or any other return or
+statement, as required by the laws relating to the collection  of property taxes, the tax collector or
+sheriff commits a Class C felony.
+(7) A person  who knowingly makes a [ false oath ] statement that is untrue with respect to a
+claim under ORS 311.666 to 311.701 commits [ perjury] the crime  of false swearing  and shall be
+punished as provided by ORS [ 162.085] 162.075.
+SECTION 18.
+The amendments to ORS 311.990 by section 17 of this 2024 Act apply to
+statements made on or after the effective date of this 2024 Act.
+SECTION 19.  ORS 307.651 is amended to read:
+307.651. As used in ORS 307.651 to 307.687, unless the context requires otherwise:
+(1) “Governing body” means the city legislative body having  jurisdiction over the property for
+which an exemption may be applied for under ORS 307.651 to 307.687.
+(2) “Manufactured home” means a structure  that complies with any or all of the follow-
+ing placement standards, or any  less restrictive standard, for the approval of manufactured
+homes located outside mobile home parks:
+(a) The structure shall be  multisectional and enclose a space of not less than 1,000 square
+feet.
+(b) The structure shall be placed on an excavated and back-filled foundation and enclosed
+at the perimeter such that the structure is located not more than 12 inches above grade.
+(c) The structure shall have a pitched roof.
+(d) The structure shall have exterior siding  and roofing which in color, material and ap-
+pearance is similar to the exterior siding and roofing material  commonly used on residential
+dwellings within the community or which  is comparable to the predominant materials used
+on surrounding dwellings as determined by the local permit approval authority.
+(e) The structure shall be certified by the manufacturer to have an exterior thermal en-
+velope meeting performance standards that reduce levels equivalent to the performance
+standards required of single-family dwellings  constructed under the state building code as
+defined in ORS 455.010.
+(f) The structure shall have a garage or carport constructed of like materials.
+[(2)] (3) “Qualified dwelling unit” means a dwelling unit that, at the time an  application is filed
+pursuant to ORS 307.667, has a market value for the land and improvements of no  more than 120
+[9]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+percent, or a lesser percentage as adopted by the governing  body by resolution, of the median sales
+price of dwelling units located within the city.
+[(3)] (4) “Single-unit housing” means a structure having one or more dwelling units that:
+(a) Is, or will be, upon purchase, rehabilitation or completion  of construction, in conformance
+with all local plans and planning regulations, including special or district-wide plans developed and
+adopted pursuant to ORS chapters 195, 196, 197, 197A and 227.
+(b) If newly constructed, is completed within two years after application  for exemption is ap-
+proved under ORS 307.674.
+(c) Is designed for each dwelling unit within the structure  to be purchased by and lived in by
+one person or one family.
+(d) Has one or more qualified dwelling units within the single-unit housing.
+(e) Is not a floating home, as  defined in ORS 830.700, or a manufactured structure, other than
+a manufactured home [ described in ORS 197.307 (8)(a) to (f) (2021 Edition) ].
+[(4)] (5) “Structure” does not include the land  or any site development made to the land, as
+those terms are defined in ORS 307.010.
+SECTION 20.
+ ORS 307.677 is amended to read:
+307.677. Notwithstanding ORS 307.651 to 307.687:
+(1) If the city  finds that construction of single-unit housing was not completed in accordance
+with ORS 307.651 [ (3)(b)] (4)(b), the city may extend the deadline for completion of  construction for
+a period not to exceed an additional 24 consecutive months if the city further finds that:
+(a) The failure to  complete construction was due to circumstances beyond the control of the
+owner; and
+(b) The owner had been acting and could reasonably  be expected to act in good faith and with
+due diligence.
+(2) If property granted exemption  under ORS 307.651 to 307.687 is destroyed by fire or act of
+God, or is otherwise no longer capable of occupancy due to circumstances beyond the control of  the
+owner, the exemption shall cease but  no additional taxes or penalty shall be imposed under ORS
+307.651 to 307.687 upon the property.
+SECTION 21.
+ ORS 305.140 is amended to read:
+305.140. (1) Any person having an  interest in or lien upon any real property may request the
+Department of Revenue in writing to release such real property from a cloud on the title of or  lien
+on such property existing, created or continued under any one or more of the following:
+(a) A warrant provided for in ORS 314.430, 321.570, 323.610 or 475C.688; or
+(b) The provisions of ORS 311.673, 311.679, 311.689[ , 311.711] or 311.771.
+(2) If, upon a request under subsection (1) of this section, the department finds that  a sale of
+such real property  would not result in satisfaction in whole or in part of the taxes due, it shall ex-
+ecute a release of such cloud or  lien upon such property, and such release shall be conclusive evi-
+dence of the removal and extinguishment of such cloud or lien in respect of such real property.
+(3) In addition to the release of cloud or lien provided for in subsection (1)  of this section, the
+department may execute releases on part or all of any real property in  the following cases, which
+releases shall be conclusive evidence of the removal and extinguishment of such cloud or lien:
+(a) If the department finds that liability for the amount assessed, together with all  interest
+thereon and penalties and costs in respect thereof, has been satisfied;
+(b) If the department finds that the fair market value of that part of the  property remaining
+subject to the cloud or lien is at least double the amount of the liability remaining unsatisfied  in
+[10]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+respect of such tax and the amount of all prior liens upon the property;
+(c) If there is supplied to  the department either an irrevocable letter of credit issued by an in-
+sured institution as defined in ORS 706.008 or a bond, in such form and with  such surety as the
+department considers sufficient, conditioned  upon the payment of the amount of the warrant, to-
+gether with all interest in respect thereof, within 60 days after the issuance of the release; or
+(d) If there is paid to the  department in partial satisfaction of the amount of the warrant pro-
+vided for in ORS 314.430, 321.570,  323.610 or 475C.688 or the amount of any lien under ORS 311.673,
+311.679, 311.689[, 311.711] or 311.771,  an amount not less than the value, as determined by the de-
+partment, of the lien of the State of Oregon  upon the part of the property so to be released. In de-
+termining such value the  department shall give consideration to the fair market value of the part
+of the property so to be released and to such liens thereon as have priority to the lien  of the State
+of Oregon.
+SECTION 22.
+ ORS 311.701 is amended to read:
+311.701. (1)  There is established in the State Treasury the [ Senior] Homestead Property Tax
+Deferral Revolving Account to be used by the Department of Revenue for the  purpose of making the
+payments to:
+(a) County tax collectors of property  taxes deferred for tax years beginning on or after January
+1, 1983, as required by ORS 311.676.
+[(b) The appropriate local officer of special assessment improvement amounts deferred on or  after
+October 15, 1983, as required by ORS 311.730. ]
+[(c)] (b) The  department for its expenses in administering the [ property tax and special assess-
+ment senior deferral programs ] homestead property  tax deferral program under ORS 311.666 to
+311.701.
+(2) The [ Senior] Homestead Property  Tax Deferral Revolving Account may include a reserve for
+payment of department administrative expenses.
+(3) All sums of  money received by the Department of Revenue under ORS 311.666 to 311.701 as
+repayments of deferred property taxes [ or under ORS 311.702 to 311.735 as repayments of  deferred
+special assessment improvement  amounts ], including the interest accrued under ORS 311.674 (3) [ or
+311.711 (3)] shall, upon receipt, be credited to the revolving account and are continuously  appropri-
+ated to the department for the purposes of subsection (1) of this section.
+(4)(a) If  there are not sufficient moneys in the revolving account to make the payments required
+by subsection (1) of this section, and the amount appropriated from the  General Fund is not suffi-
+cient when added together with the moneys in  the revolving account to provide an amount sufficient
+to make the required payments, the State Treasurer, in the capacity of  investment officer for the
+Oregon  Investment  Council, may lend to the Department of Revenue such amounts as may be nec-
+essary to make the payments.
+(b) The State Treasurer may lend moneys that may be invested  as provided in ORS 293.701 to
+293.857.
+(c) Any moneys lent under this subsection shall be repaid within  five years together with in-
+terest at a rate determined by the State Treasurer and consistent with the investment  standards of
+ORS 293.721 and 293.726.
+SECTION 23.  ORS 311.795 is amended to read:
+311.795. (1) A county governing body  may cancel all delinquent taxes and the interest and pen-
+alties thereon accrued upon property donated to any incorporated city or town  or any park and
+recreation district organized and operating under ORS chapter 266 for parks, playgrounds or a city
+[11]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+hall. This section does not apply if the  city, town or park and recreation district makes any payment
+to the owner, either directly or indirectly, for the property.
+(2) A county governing body may cancel all delinquent real property taxes and  interest and
+penalties due thereon from any taxpayer where the  total of the same is $10 or less, when in the
+judgment of the county governing body the cost of collecting the same will  be greater than the
+amount to be collected.
+(3) A county governing body may cancel all delinquent  personal property taxes and the interest
+and penalties thereon due from any  taxpayer where the total of the same is $10 or less and in the
+judgment of the county governing body the cost of collecting the same will  be greater than the
+amount to be collected.
+(4) Property taxes that are deferred under the homestead  property tax  deferral program  estab-
+lished under ORS 311.666 to 311.701[ , special assessments for local improvements that are deferred
+under ORS 311.702 to 311.735 ] or property taxes that are  deferred under the disaster area tax
+deferral program  established under ORS 311.740 to 311.780 are not delinquent taxes for purposes of
+this section.  A county governing body may not cancel any deferred taxes[ , deferred special assess-
+ments] or interest or penalties  that accrue with respect to deferred taxes [ or deferred special as-
+sessments] described in this subsection.
+SECTION 24.
+ Section 5, chapter 414, Oregon Laws 2017, is amended to read:
+Sec. 5.  (1) A definition of “area” adopted under [ section 2 of this 2017 Act ] ORS 308.151 may
+not be applied to any assessment year beginning before January 1, 2019.
+(2) Notwithstanding subsection (1) of this section, a definition of “area” adopted under  [ section
+2 of this 2017 Act ] ORS 308.151  may be applied to [ assessment years ] the assessment year  begin-
+ning on [ or after ] January  1, 2018, with the written consent of the assessor of the county in which
+the city adopting the definition is located.
+SECTION 25. Any definition  of “area” adopted under ORS 308.151 in accordance with
+section 5 (2), chapter 414, Oregon Laws  2017, for any assessment year beginning on or after
+January 1, 2019, shall  cease to be effective for assessment years beginning on or after Jan-
+uary 1,  2024, unless readopted under ORS 308.151 within 90 days following the effective date
+of this 2024 Act.
+ADMINISTRATIVE CHANGES
+SECTION 26.  ORS 317A.100 is amended to read:
+317A.100. As used in ORS 317A.100 to 317A.158:
+(1)(a) “Commercial activity” means:
+(A) The total amount realized by a person, arising from  transactions and activity in the regular
+course of the  person’s trade or business, without deduction for expenses incurred by the trade or
+business;
+(B) If received by a financial institution:
+(i) If the reporting person for a financial institution is a  holding company, all items of income
+reported on the FR Y-9 filed by the holding company;
+(ii) If the reporting person for a financial institution is a bank  organization, all items of income
+reported on the call report filed by the bank organization; and
+(iii) If the reporting person for a financial institution is a  nonbank financial organization, all
+items of income reported in accordance with generally accepted accounting principles; and
+[12]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(C)(i) If received by an insurer, as reported on the  statement of premiums accompanying the
+annual statement required under ORS 731.574 to be filed with the Director of the  Department of
+Consumer and Business Services, all gross direct  life insurance premiums, gross direct accident and
+health insurance premiums and gross direct property and casualty insurance premiums; and
+(ii) The gross amount of surplus lines premiums received on  Oregon home state risks as shown
+in the report required by ORS 735.465.
+(b) “Commercial activity” does not include:
+(A) Interest income except:
+(i) Interest on credit sales; or
+(ii) Interest income, including service charges, received by financial institutions;
+(B) Receipts from  the sale, exchange or other disposition of an asset described in section 1221
+or 1231 of  the Internal Revenue Code, without regard to the length of time the person held the asset;
+(C) If received by an insurer, federally reinsured premiums or income  from transactions between
+a reciprocal insurer and its attorney in fact operating under ORS 731.142;
+(D) Receipts from hedging transactions, to the extent that the transactions  are entered into
+primarily to protect a financial position,  including transactions intended to manage the risk of ex-
+posure to foreign currency fluctuations that affect assets, liabilities, profits, losses, equity or in-
+vestments in foreign operations, risk of exposure to interest rate fluctuations  or risk of commodity
+price fluctuations;
+(E) Proceeds received attributable to the repayment, maturity or redemption of  the principal of
+a loan, bond, mutual fund, certificate of deposit or marketable instrument;
+(F) The principal amount received  under a repurchase agreement or on account of any trans-
+action properly characterized as a loan to the person;
+(G) Contributions received by a trust, plan or other arrangement, any of which is described in
+section 501(a) of the Internal Revenue Code, or to which title 26,  subtitle A, chapter 1, subchapter
+(D) of the Internal Revenue Code applies;
+(H) Compensation, whether current or deferred, and  whether in cash or in kind, received or to
+be received  by an employee, a former employee or the employee’s legal successor for services ren-
+dered to or for an employer, including reimbursements received  by or for an individual for medical
+or education expenses, health insurance premiums  or employee expenses or on account of a de-
+pendent care spending account, legal services plan, any cafeteria plan described in section  125 of
+the Internal Revenue Code or any similar employee reimbursement;
+(I) Proceeds received from the issuance of the taxpayer’s own stock,  options, warrants, puts or
+calls, or from the sale of the taxpayer’s treasury stock;
+(J) Proceeds received on the account of payments  from insurance policies, including crop in-
+surance policies, owned by the taxpayer,  except those proceeds received for the loss of commercial
+activity;
+(K) Gifts or charitable contributions received, membership dues received by  trade, professional,
+homeowners’ or condominium associations, payments  received for educational courses, meetings or
+meals, or similar payments to a trade, professional or  other similar association, and fundraising re-
+ceipts received by any  person when any excess receipts are donated or used exclusively for chari-
+table purposes;
+(L) Damages received as the result of litigation in  excess of amounts that, if received without
+litigation, would be treated as commercial activity;
+(M) Property, money and other amounts received or acquired  by an agent on behalf of another
+[13]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+in excess of the agent’s commission, fee or other remuneration;
+(N) Tax refunds from any tax program, other tax benefit recoveries and reimbursements  for the
+tax imposed under ORS 317A.100  to 317A.158 made by entities that are part of the same unitary
+group as provided under ORS 317A.106, and reimbursements made by entities that are  not members
+of a unitary group that  are required to be made for economic parity among multiple owners of an
+entity whose  tax obligation under ORS 317A.100 to 317A.158 is required to be reported and paid
+entirely by one owner, as provided in ORS 317A.106;
+(O) Pension reversions;
+(P) Contributions to capital;
+(Q) Receipts from the sale, transfer, exchange or  other disposition of motor vehicle fuel or any
+other product used for the propulsion of motor vehicles;
+[(R) In the case of receipts from the sale of cigarettes or tobacco products by  a wholesale dealer,
+retail dealer, distributor, manufacturer or seller, an amount equal to the federal and state excise taxes
+paid by any person on or for such cigarettes or tobacco products under subtitle E  of the Internal Re-
+venue Code or ORS chapter 323; ]
+[(S) In the  case of receipts from the sale of malt beverages or wine, as defined in ORS 471.001,
+cider, as defined in ORS 471.023 or distilled liquor, as defined in ORS 471.001, by  a person holding
+a license  issued under ORS chapter 471, an amount equal to the federal and state excise taxes paid
+by any person on or for such malt beverages, wine  or distilled liquor under subtitle E of the Internal
+Revenue Code or ORS chapter 471 or 473, and any amount paid to the  Oregon Liquor and Cannabis
+Commission for sales of distilled spirits by an agent appointed under ORS 471.750; ]
+[(T) In the case of receipts from the sale of marijuana items, as defined in  ORS 475C.009, by a
+person holding a license issued  under ORS 475C.005 to 475C.525, an amount equal to the federal and
+state excise taxes paid by any person on or  for such marijuana items under subtitle E of the Internal
+Revenue Code or ORS  475C.670 to 475C.734 and any local retail taxes authorized under ORS
+475C.453;]
+[(U) Local taxes collected by a  restaurant or other food establishment on sales of meals, prepared
+food or beverages; ]
+[(V)] (R) Tips or gratuities collected by a restaurant or other food  establishment and passed on
+to employees;
+[(W)] (S) Receipts realized by a vehicle dealer  certified under ORS 822.020 or a person described
+in ORS 320.400 (8)(a)(B) from the sale or other transfer of a motor vehicle, as defined in ORS 801.360,
+to another vehicle dealer for the purpose of resale  by the transferee vehicle dealer, but only if the
+sale or  other transfer was based upon the transferee’s need to meet a specific customer’s preference
+for a motor vehicle or is an exchange of new vehicles between franchised motor vehicle  dealerships;
+[(X) Registration  fees or taxes collected by a vehicle dealer certified under ORS 822.020 or a person
+described in ORS 320.400 (8)(a)(B) at the sale or other transfer of a motor vehicle, as defined  in ORS
+801.360, that are owed to a third party by the purchaser of the motor vehicle and passed to  the third
+party by the dealer; ]
+[(Y)] (T) Receipts from a financial institution for services provided to the financial institution
+in connection with the  issuance, processing, servicing and management of loans or credit accounts,
+if the financial institution and the recipient of the receipts have at least 50 percent of their owner-
+ship interests owned or  controlled, directly or constructively through related interests, by common
+owners;
+[(Z) In the  case of amounts retained as commissions by a holder of a license under ORS chapter
+[14]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+462, an amount equal to the amounts specified under ORS chapter 462  that must be paid to or collected
+by the Department of Revenue  as a tax and the amounts specified under ORS chapter 462 to be used
+as purse money; ]
+[(AA) ] (U) Receipts of residential care facilities as defined in ORS 443.400 or in-home care
+agencies as defined in ORS 443.305, to the extent that the receipts  are derived from or received as
+compensation for providing services to a medical assistance or Medicare recipient;
+[(BB) ] (V) Dividends received;
+[(CC)] (W)  Distributive income received from a pass-through entity;
+[(DD)] (X) Receipts from sales to  a wholesaler in this state, if the seller receives certification
+at the time of sale from the wholesaler that the wholesaler will sell  the purchased property outside
+this state;
+[(EE)] (Y) Receipts from the wholesale or  retail sale of groceries, including receipts of a person
+that owns groceries at the time of sale and compensation of any consignee engaged  in effecting the
+sale of groceries on behalf the owner of the  groceries, but only to the extent that the compensation
+relates to grocery sales;
+[(FF)] (Z) Receipts from transactions among members of a unitary group;
+[(GG) Moneys, including public purpose charge moneys collected under ORS 757.612  and moneys
+collected to plan for and pursue cost-effective energy efficiency resources under ORS  757.054, that are
+collected from customers, passed to a utility and approved by the Public Utility Commission and that
+support energy conservation, renewable resource acquisition and low-income assistance programs; ]
+[(HH)] (AA)  Moneys collected by a utility from customers for the payment of  loans through
+on-bill financing;
+[(II) Surcharges collected under ORS 757.736; ]
+[(JJ) Moneys passed to  a utility by the Bonneville Power Administration for the purpose of
+effectuating the Regional Power Act Exchange credits  or pursuant to any settlement associated with the
+exchange credit;]
+[(KK) Moneys collected or recovered,  by entities listed in ORS 756.310, cable operators as defined
+in 47 U.S.C. 522(5), telecommunications  carriers as defined in 47 U.S.C. 153(51) and providers of in-
+formation services as  defined in 47 U.S.C. 153(24), for fees payable under ORS 756.310, right-of-way
+fees, franchise fees, privilege taxes, federal taxes and local taxes; ]
+[(LL) Charges paid to the Residential Service Protection Fund required by chapter 290, Oregon
+Laws 1987;]
+[(MM) Universal service surcharge moneys collected or recovered and  paid into the universal ser-
+vice fund established in ORS 759.425; ]
+[(NN) Moneys collected for public purpose funding as described in ORS 759.430; ]
+[(OO) Moneys collected or recovered and paid into the federal universal service  fund as determined
+by the Federal Communications Commission; ]
+[(PP) In the case of a seller  or provider of telecommunications services, the amount of tax imposed
+under ORS 403.200 for access to the  emergency communications system that is collected from sub-
+scribers or consumers; ]
+[(QQ) In the case of a transient lodging tax collector, the amount of tax  imposed under ORS
+320.305 and of any local transient lodging tax imposed upon the occupancy of transit lodging; ]
+[(RR) In the case  of a seller of bicycles, the amount of tax imposed under ORS 320.415 upon retail
+sales of bicycles; ]
+[(SS) In the case of a  qualified heavy equipment provider, the amount of tax imposed under ORS
+[15]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+307.872 upon the rental price of heavy equipment; ]
+[(TT)] (BB) Farmer sales to an agricultural cooperative in this state  that is a cooperative or-
+ganization described in section 1381 of the Internal Revenue Code;
+[(UU)] (CC) Revenue received by a business entity that is mandated by contract  or subcontract
+to be distributed to another person or entity if the revenue constitutes sales commissions that  are
+paid to a person who is not an employee of the business entity, including, without limitation, a
+split-fee real estate commission;
+[(VV) ] (DD) Receipts from the sale of fluid  milk by dairy farmers that are not members of an
+agricultural cooperative; [ and]
+[(WW)(i) ] (EE)(i) Cost paid by a dealer for items of precious metal.
+(ii) As used in this subparagraph, “item of precious  metal” means an item of gold, silver,
+platinum, rhodium or palladium that has been put through a process of smelting or  refining and that
+is in a state or condition that its value depends on its contents and not its form[ .]; and
+(FF) Taxes, fees,  surcharges or similar amounts collected from customers and passed,
+as required, to a governmental entity.
+(2) “Cost inputs” means:
+(a) The cost  of goods sold as calculated in arriving at federal taxable income under the Internal
+Revenue Code; or
+(b) In the case of a taxpayer that is engaged  in a farming operation, as defined in ORS 317A.102,
+and that does not report cost of goods sold for federal  tax purposes, the taxpayer’s operating ex-
+penses excluding labor costs.
+(3) “Doing business” means engaging in any activity, whether legal or illegal,  that is conducted
+for, or results in, the receipt of commercial activity at any time during a calendar year.
+(4) “Excluded person” means any of the following:
+(a) Organizations described  in sections 501(c) and 501(j) of the Internal Revenue Code, unless the
+exemption is denied under section  501(h), (i) or (m) or under section 502, 503 or 505 of the Internal
+Revenue Code.
+(b) Organizations described in section 501(d) of the Internal  Revenue Code, unless the exemption
+is denied under section 502 or 503 of the Internal Revenue Code.
+(c) Organizations described in section 501(e) of the Internal Revenue Code.
+(d) Organizations described in section 501(f) of the Internal Revenue Code.
+(e) Charitable risk pools described in section 501(n) of the Internal Revenue Code.
+(f) Organizations described in section 521 of the Internal Revenue Code.
+(g) Qualified state tuition programs described in section 529 of the Internal Revenue Code.
+(h) Foreign or alien  insurance companies, but only with respect to the underwriting profit de-
+rived from writing wet marine  and transportation insurance subject to tax under ORS 731.824 and
+731.828 or if an insurance company is subject to the retaliatory tax  under ORS 731.854 and 731.859.
+(i) Governmental entities.
+(j) Any  person with commercial activity that does not exceed $750,000 for the tax year, other
+than a person that is part  of a unitary group as provided in ORS 317A.106 with commercial activity
+in excess of $750,000.
+(k) Hospitals subject to assessment under ORS 414.855, long term care facilities  subject to as-
+sessment under ORS 409.801 or any entity subject to assessment under ORS 414.880 or section 3 or
+5, chapter 538, Oregon Laws 2017.
+(L) Manufactured dwelling park nonprofit cooperatives organized under ORS chapter 62.
+[16]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) “Financial institution” has the meaning  given that term in ORS 314.610, except that “finan-
+cial institution” does not include a credit union.
+(6)(a) “FR Y-9” means the consolidated or parent-only financial statements that a holding com-
+pany is required to file with the Federal Reserve Board pursuant to 12 U.S.C. 1844.
+(b) In the  case of a holding company required to file both consolidated and parent-only financial
+statements, “FR  Y-9” means the consolidated financial statements that the holding company is re-
+quired to file.
+(7) “Governmental entity” means:
+(a) The United States and any of its unincorporated agencies and instrumentalities.
+(b) Any incorporated agency or  instrumentality of the United States wholly owned by the United
+States or by a corporation wholly owned by the United States.
+(c) The State of Oregon and any of its unincorporated agencies and instrumentalities.
+(d) Any county, city, district or other political subdivision of the state.
+(e) A special government body as defined in ORS 174.117.
+(f) A federally recognized Indian tribe.
+(8) “Groceries” means food as defined in  7 U.S.C. 2012(k), but does not include cannabinoid
+edibles or marijuana seeds.
+(9)(a) “Hedging transaction” means a hedging  transaction as defined in section 1221 of the
+Internal Revenue Code or a transaction  accorded hedge accounting treatment under Financial Ac-
+counting Standards Board Statement No. 133.
+(b) “Hedging transaction” does not include  a transaction in which an actual transfer of title of
+real or tangible property to another entity occurs.
+(10) “Insurer” has the meaning given that term in ORS 317.010.
+(11) “Internal Revenue Code,” except where the Legislative Assembly  has provided otherwise,
+refers to the laws of the United States  or to the Internal Revenue Code as they are amended and
+in effect on December 31, 2022.
+(12) “Labor costs” means total compensation of all  employees, not to include compensation paid
+to any single employee in excess of $500,000.
+(13)(a) “Motor vehicle fuel or  any other product used for the propulsion of motor vehicles”
+means:
+(A) Motor vehicle fuel as defined in ORS 319.010; and
+(B) Fuel the use of which in a motor vehicle is subject to taxation under ORS 319.530.
+(b) “Motor vehicle fuel or any other product used for the propulsion of motor  vehicles” does not
+mean:
+(A) Electricity; or
+(B) Electric batteries or any other mechanical or physical  component or accessory of a motor
+vehicle.
+(14) “Person” includes individuals, combinations of individuals  of any form, receivers, assignees,
+trustees in bankruptcy, firms,  companies, joint-stock companies, business trusts, estates, partner-
+ships, limited liability partnerships, limited liability companies, associations, joint ventures,  clubs,
+societies, entities organized as for-profit corporations under ORS chapter 60,  C corporations, S cor-
+porations, qualified subchapter S subsidiaries, qualified subchapter S trusts, trusts, entities that  are
+disregarded for federal income tax purposes and any other entities.
+(15) “Retailer” means a person doing business by selling tangible personal  property to a pur-
+chaser for a purpose other than:
+[17]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Resale by the purchaser of the property as tangible personal property in the  regular course
+of business;
+(b) Incorporation by the purchaser of the property in the course of regular business as  an in-
+gredient or component of real or personal property; or
+(c) Consumption by the purchaser of the property in the production for sale of a new  article of
+tangible personal property.
+(16) “Taxable commercial activity” means commercial activity sourced to  this state under ORS
+317A.128, less any subtraction pursuant to ORS 317A.119.
+(17)(a) “Taxpayer” means any person or unitary group required to register, file  or pay tax under
+ORS 317A.100 to 317A.158.
+(b) “Taxpayer” does not include excluded persons, except to  the extent that a tax-exempt entity
+has unrelated business income as described in the Internal Revenue Code.
+(18) “Tax  year” means, except as otherwise provided in ORS 317A.103, a taxpayer’s annual ac-
+counting period used for federal income tax purposes under section 441 of  the Internal Revenue
+Code.
+(19)(a) “Unitary business” means  a business enterprise in which there exists directly or indi-
+rectly between the members or parts of  the enterprise a sharing or exchange of value as demon-
+strated by:
+(A) Centralized management or a common executive force;
+(B) Centralized administrative services or functions resulting in economies of scale; or
+(C) Flow of goods, capital resources or services demonstrating functional integration.
+(b) “Unitary business” may include a business enterprise the activities of which:
+(A) Are in the same general line of business, such as manufacturing, wholesaling or  retailing;
+or
+(B) Constitute steps in  a vertically integrated process, such as the steps involved in the pro-
+duction of natural resources, which might include exploration, mining, refining and marketing.
+(20) “Unitary  group” means a group of persons with more than 50 percent common ownership,
+either direct or indirect, that is engaged in business activities that constitute a unitary business.
+(21) “Wholesaler” means a person primarily doing business by merchant distribution  of tangible
+personal property to retailers or to other wholesalers.
+SECTION 27.
+ ORS 291.349 is amended to read:
+291.349. (1) As soon as practicable after adjournment sine die of the odd-numbered  year regular
+session of the Legislative Assembly, the Oregon Department of Administrative  Services shall report
+to the Legislative Revenue Officer and the Legislative Fiscal Officer the estimate as of  July 1 of the
+first year of the biennium of General Fund and State Lottery  Fund revenues that will be received
+by the state during  that biennium. The Oregon Department of Administrative Services shall base its
+estimate on the  last forecast given to the Legislative Assembly before adjournment sine die of the
+odd-numbered year regular session on which the printed, adopted budget prepared in  the Oregon
+Department of  Administrative Services is based, adjusted only insofar as necessary to reflect
+changes in laws adopted at that session. The report  shall contain the estimated revenues from cor-
+porate income and excise taxes separately from the estimated revenues from other General  Fund
+sources.  The  Oregon Department of Administrative Services may revise the estimate if necessary
+following adjournment sine die of a special session or an  even-numbered year regular session of the
+Legislative Assembly, but any revision does not affect the basis  of the computation described in
+subsection (3) or (4) of this section.
+[18]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) As soon as practicable after the end of  the biennium, the Oregon Department of Adminis-
+trative Services shall report to the Legislative Revenue Officer and  the Legislative Fiscal Officer,
+or the Legislative Assembly if it is in session, the amount of General Fund  revenues collected as
+of the last June 30 of the preceding biennium. The report shall contain  the collections from corpo-
+rate income and excise taxes separately from collections from other sources.
+(3) If the revenues received from the corporate income and excise taxes during  the biennium
+exceed the amounts estimated to be received from  such taxes for the biennium, as estimated after
+adjournment sine die of the odd-numbered year regular session, by two percent or  more, the total
+amount of that excess shall be retained in the General Fund and used, in the manner described in
+ORS 291.345, to provide additional funding for public education, kindergarten through grade 12.
+(4) If the revenues received from General Fund revenue  sources, exclusive of those described in
+subsection (3) of this section, during the biennium exceed the  amounts estimated to be received from
+such sources for the biennium, as estimated after adjournment sine  die of the odd-numbered year
+regular session, by two percent or more, there shall be credited  to personal income taxpayers an
+amount equal to the total amount of that excess, reduced  by the cost certified by the Department
+of Revenue  under ORS 291.351 as being allocable to credits described under this subsection. The
+excess amount to be credited shall be credited to personal  income taxpayers in a percentage amount
+of prior year personal income tax liability as determined under subsection (5) of this section.
+(5)(a) If there is an excess to be credited  under subsection (4) of this section, on or before [ Oc-
+tober] November 1, following the end of each biennium, the  Oregon Department of Administrative
+Services shall determine and certify to the Department of Revenue the percentage  amounts of credit
+for purposes of subsection (4) of this section. The  percentage amounts determined shall be percent-
+age amounts to the nearest one-tenth of a percent that will distribute the excess to be credited to
+personal income taxpayers.
+(b) The percentage amount applicable  to subsection (4) of this section shall equal the amount
+distributed under subsection (4) of  this section divided by the estimated total personal income tax
+liability for all personal income taxpayers for tax years beginning in the  calendar year immediately
+preceding the calendar year in which the excess is determined.
+(c) The amount of the surplus credit under subsection (4) of this section is determined by
+multiplying the  percentage amount determined under paragraph (b) of this subsection by the total
+amount of a personal  income taxpayer’s tax liability for the tax year beginning in the calendar year
+immediately preceding the calendar year in which the excess is determined in order to  calculate the
+amount to be credited to the taxpayer.
+(d) The credit shall  be determined based on the tax liability as shown on the return of the tax-
+payer or as corrected by the Department of Revenue.
+(e) The credit shall be computed after the allowance of  a credit provided under ORS 316.082,
+316.131 or 316.292, but  before the allowance of any other credit or offset against tax liability allowed
+or allowable under any  provision of law of this state, and before the application of estimated tax
+payments, withholding or other advance tax payments.
+(f) For personal income taxpayers,  if a credit applied against tax liability as described in para-
+graph (e) of this subsection reduces tax  liability to zero and an amount of the credit remains unused,
+the remaining unused amount shall be refunded to the taxpayer. For purposes of ORS chapters  305,
+314, 315 and 316, refunds  issued under this paragraph are refunds of an overpayment of tax imposed
+under ORS chapter 316.
+(g) The Department of Revenue may prescribe by rule the  manner of calculating and claiming
+[19]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+a credit if the filing status of a taxpayer changes between the tax year for which a credit may  be
+claimed and the succeeding tax year.
+(6) A refund may not be made under this section to a  taxpayer if the amount of the refund is
+less than $1.
+(7) Not later than [ October] November 15 following the  end of the biennium, the Department
+of Revenue  shall provide information and guidance to taxpayers relating to the calculation of the
+credit. The department may make the information and guidance available electronically or other-
+wise.
+(8) The Department of Revenue may adopt rules specifying the manner for issuing  refunds under
+this section to taxpayers who filed returns for the tax year  on which the credit is computed but who
+are not required to file returns for the year in which the credit could be claimed.
+SECTION 28.
+ ORS 327.001 is amended to read:
+327.001. (1) The Fund for Student Success is established  in the State Treasury, separate and
+distinct from the General Fund.
+(2) The Fund for Student Success shall consist  of moneys appropriated by the Legislative As-
+sembly, moneys transferred  to the fund under ORS 317A.155 and moneys received as provided in
+subsection (3) of this section.
+(3) The Department of Education, on behalf of  the State of Oregon, may solicit and accept gifts,
+grants, donations and other moneys from public and private sources for the  Fund for Student Suc-
+cess. Moneys received as provided in this subsection shall be deposited into the  Fund for Student
+Success.
+(4) Moneys in  the Fund for Student Success are continuously appropriated to the department for:
+(a) Transfer for each  biennium to the State School Fund in the amount calculated by the [ Leg-
+islative Fiscal Officer and the Legislative Revenue Officer ] division of the Oregon Department of
+Administrative Services that serves as office of economic analysis  to be the sum of:
+(A) At least $40 million, for the purpose of a  transfer under ORS 327.008 (10) to the High Cost
+Disabilities Account established in ORS 327.348; and
+(B) The amount of change in General Fund revenue to be collected  in the biennium due to the
+amendments to ORS 316.037 by section  56, chapter 122, Oregon Laws 2019, and the operation of ORS
+317A.100 to 317A.158.
+(b) Retention as a reserve for cash flow and revenue shortfall purposes.
+(c) Of the amount in the Fund for Student Success that is not dedicated  for transfer as pre-
+scribed by paragraph (a) of this subsection or retained under paragraph (b) of  this subsection,
+transfer to other education accounts as follows:
+(A) At least 50 percent to the Student Investment Account established in ORS 327.175.
+(B) Up to 30 percent to the Statewide Education Initiatives Account established in ORS 327.250.
+(C) At least 20 percent to the Early Learning Account established in ORS 327.269.
+(5) The department shall make  the transfers prescribed by subsection (4) of this section on a
+periodic basis. The transfers must be in amounts that, based on the most  recent data available to
+the department, ensure that the amounts and percentages identified in subsection (4)  of this section
+are satisfied by the end of the biennium.
+UNIT CAPTIONS NOT PART OF LAW
+SECTION 29.
+The unit captions used in this 2024 Act are provided only for the conven-
+[20]
+SB 1526
+1
+2
+3
+4
+5
+6
+7
+8
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2024 Act.
+EFFECTIVE DATE
+SECTION 30.
+This 2024 Act takes effect on the 91st day after the date on which  the 2024
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[21]

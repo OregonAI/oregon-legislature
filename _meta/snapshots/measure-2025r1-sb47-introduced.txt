@@ -1,0 +1,1368 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 47
+Sponsored by Senator JAMA (at the request of Governor Tina Kotek) (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  gets rid of old public entities and changes laws about old activities of public
+entities. (Flesch Readability Score: 62.8).
+Eliminates obsolete public entities and modifies laws  about obsolete activities of public entities.
+A BILL FOR AN ACT
+Relating to obsolete activities of public entities; creating new provisions;  amending ORS 31.276,
+221.420, 221.450, 291.227,  411.075, 411.877, 411.890, 411.892, 411.896, 430.050, 442.870, 757.511,
+757.612, 757.613 and 757.698; and repealing ORS 31.280, 182.310, 182.320, 182.330, 182.360, 411.886,
+411.888, 431A.300, 431A.303, 431A.305, 431A.308,  431A.310, 431A.313, 431A.315, 431A.318,
+431A.320, 431A.323, 431A.325, 431A.500, 431A.505, 431A.510, 757.812,  757.814, 757.818, 757.822,
+757.824, 757.830, 757.834, 757.842, 757.852, 757.855, 757.857, 757.862, 757.864,  757.868, 757.872,
+757.880, 757.883, 757.886,  757.890, 757.895, 757.897, 757.900, 757.902, 757.905, 757.910, 757.915,
+757.918, 757.920, 757.922, 757.924, 757.930, 757.935, 757.937, 757.940, 757.942, 757.945, 757.950 and
+757.954 and sections 7 and 9, chapter 807, Oregon Laws 2007.
+Be It Enacted by the People of the State of Oregon:
+SPINAL CORD INJURY RESEARCH BOARD
+SECTION 1.
+ORS 431A.500, 431A.505 and 431A.510 are repealed.
+OREGON COMMUNITY POWER
+SECTION 2. ORS 757.812, 757.814, 757.818, 757.822, 757.824, 757.830, 757.834, 757.842, 757.852,
+757.855, 757.857, 757.862, 757.864, 757.868, 757.872, 757.880,  757.883, 757.886, 757.890, 757.895,
+757.897, 757.900, 757.902, 757.905, 757.910,  757.915, 757.918, 757.920, 757.922, 757.924, 757.930,
+757.935, 757.937, 757.940, 757.942, 757.945, 757.950 and 757.954 and sections 7 and 9, chapter 807,
+Oregon Laws 2007, are repealed.
+SECTION 3.  ORS 757.511 is amended to read:
+757.511. (1) No person, directly or indirectly, shall acquire the power to  exercise any substantial
+influence over the policies and actions of a public utility which  provides heat, light or power with-
+out first securing from the Public Utility  Commission, upon application, an order authorizing such
+acquisition if such person is, or by such acquisition would become, an affiliated interest with such
+public utility as defined in ORS 757.015 (1), (2) or (3).
+(2) Notice must be given to  the commission of an application under this section at least 60 days
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 564
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+before the application is filed with the commission. [ The notice must indicate whether the transaction
+is a transaction described in ORS 757.814 (1). If the transaction is a transaction as described in ORS
+757.814 (1), the commission shall give notice to cities and counties as required by ORS 757.814 (1). ]
+(3) The application required by subsection (1) of  this section shall set forth detailed information
+regarding:
+(a) The applicant’s identity and financial ability;
+(b) The background of the key personnel associated with the applicant;
+(c) The source and amounts of funds or other consideration to be used in the acquisition;
+(d) The applicant’s compliance with federal law in carrying out the acquisition;
+(e) Whether the applicant or the key personnel associated with the applicant have violated any
+state or federal statutes regulating the activities of public utilities;
+(f) All documents relating to the transaction giving rise to the application;
+(g) The applicant’s experience in operating public utilities providing heat, light or power;
+(h) The applicant’s plan for operating the public utility;
+(i) How the acquisition will serve the public utility’s customers in the public interest; and
+(j) Such other information as the commission may require by rule.
+(4)(a) The commission shall examine and investigate each application received pursuant  to this
+section. The commission shall issue an order disposing of the application within 11 months of the
+date the application is filed, unless  extended by agreement between the commission and applicant.
+If the commission determines that approval of the application will serve the public utility’s  custom-
+ers and is in the public interest, the commission shall issue an  order granting the application. The
+commission may condition an  order authorizing the acquisition upon the applicant’s satisfactory
+performance  or  adherence to specific requirements. The commission otherwise shall issue an order
+denying the application. The applicant shall bear the burden of showing that  granting the applica-
+tion is in the public interest.
+(b) In reviewing an application received pursuant to  this section for an electricity or natural
+gas utility, the Public Utility Commission must consider the effect of the acquisition  or merger on
+the amount of income taxes paid by the utility or its affiliated  group and make any necessary ad-
+justments to the rates of the utility, including the establishment of a balancing account to track
+income tax expense, to ensure that the acquisition or  merger serves the utility’s customers and is
+in the public interest.
+(5) Nothing in this section shall prohibit dissemination by any party of information concerning
+the acquisition so long as such dissemination is not otherwise in conflict with state or federal law.
+SECTION 4.
+ ORS 757.612 is amended to read:
+757.612. (1)(a) There is  established an annual public purpose expenditure standard for electric
+companies [ and Oregon Community Power ] to fund:
+(A) The above-market costs of  new renewable energy resources and customer investments in
+distribution system-connected technologies that  support reliability, resilience and the integration of
+renewable energy resources with the distribution systems of electric companies [ and Oregon Com-
+munity Power ];
+(B) New low-income weatherization;
+(C) New energy-related investments in schools; and
+(D) Low-income housing.
+(b) The public  purpose expenditure standard shall be funded by the public purpose charge de-
+scribed in subsection (2) of this section.
+[2]
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2)(a) Until January 1, 2036, an electric company [ or Oregon Community  Power ] shall collect a
+nonbypassable public purpose charge equal to 1.5 percent of the revenues  described in paragraph (b)
+of this  subsection, apportioned as further set forth in subsection (3)(b) of this section. The electric
+company [ or Oregon Community Power ] shall collect the public purpose charge from all of the retail
+electricity consumers located within the electric company’s  [ or Oregon Community Power’s ] service
+territory, including retail electricity consumers served by electricity service suppliers.
+(b) The percentages described in  paragraph (a) of this subsection and subsection (3)(b) of this
+section shall be calculated as percentages of the total revenues  collected by the electric company[ ,
+Oregon Community Power ] or the electricity  service supplier from retail electricity consumers for
+electricity services, distribution services, ancillary  services, metering and billing, transition charges
+and other types of costs included in electric rates on July 23, 1999.
+(3)(a) The Public Utility Commission shall establish rules implementing the  provisions of this
+section relating to electric companies [ and Oregon Community Power ].
+(b) The public purpose charge described in  subsection (2)(a) of this section shall be the sum total
+of the following percentages of revenues described in subsection  (2)(b) of this section, allocated for
+the following purposes:
+(A) 0.3 percent of revenues for school districts that  are located in the service territory of the
+electric company [ or Oregon Community Power ], as further directed under paragraph (e) of  this
+subsection.
+(B) As further directed under paragraph (f) of this subsection, 0.51 percent of revenues for:
+(i) The above-market costs of constructing and  operating new renewable energy resources with
+a nominal electric generating capacity, as defined in ORS 469.300, of 20 megawatts or less; or
+(ii) Customer investments in distribution  system-connected technologies that support reliability,
+resilience and the  integration of renewable energy resources with the distribution system of the
+electric company [ or Oregon Community Power ].
+(C) 0.55 percent  of revenues for new low-income weatherization, as further directed under par-
+agraph (g) of this subsection.
+(D) 0.14 percent of revenues for deposit in the Housing and Community  Services Department
+Electricity Public Purpose Charge Fund established by ORS 456.587 (1) for  the purpose of providing
+grants as described in ORS 458.625 (2).
+(c) The costs of  administering subsections (1) to (5) of this section for an electric company [ or
+Oregon Community Power ] shall be  paid out of the funds collected through public purpose charges.
+The commission may require an electric company [ or Oregon  Community Power ] to direct funds
+collected through public purpose  charges to state agencies responsible for implementing subsections
+(1) to (5) of this section in order to pay the costs of administering subsections (1) to (5)  of this sec-
+tion.
+(d) The commission  shall direct the manner in which public purpose charges are collected and
+spent by an electric company  [ or Oregon Community Power ] and may require an electric company
+[or Oregon Community Power ] to expend funds through competitive bids or  other means designed to
+encourage competition, except that funds dedicated  for new low-income weatherization shall be di-
+rected to the Housing and Community Services Department for purposes related to new low-income
+weatherization, as further directed in paragraph (g) of  this subsection. The commission may also
+require funds collected through public purpose charges to be paid to a nongovernmental entity for
+investment in public purposes described in subsection (1) of this section.
+(e)(A) Funds allocated under subsection (3)(b)(A) of this section shall be  distributed to individual
+[3]
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+school districts according to the weighted average daily membership (ADMw)  of each school district
+for the prior fiscal year as calculated under ORS 327.013. The  commission shall establish by rule a
+methodology for distributing a proportionate share of funds under  this paragraph to school districts
+that are only  partially located in the service territory of the electric company [ or Oregon Community
+Power ].
+(B) A school district that receives funds under this paragraph shall use the funds  first to pay
+for energy audits for schools located within the school district or for a  fleet audit for the school
+district. To the extent practicable, a school  district shall coordinate with the State Department of
+Energy and incorporate federal funding in complying with this paragraph. Following completion  of
+an audit, the school district may  expend funds received under this paragraph to implement the audit.
+(C) Once an energy audit has been conducted and completely implemented  for each school
+within the  school district, the school district may expend funds received under this paragraph for
+any of the following purposes:
+(i) Conducting additional energy audits. A school  district shall conduct an energy audit prior to
+expending funds on any other purpose authorized  under this paragraph unless the school district has
+performed an energy audit within the three years immediately prior to receiving the funds.
+(ii) Weatherizing school district facilities and upgrading  the energy efficiency of school district
+facilities.
+(iii) Energy conservation education programs.
+(iv) Purchasing electricity from environmentally focused sources.
+(v) Investing in renewable energy resources.
+(D) Once a fleet audit has been conducted for the school district, the school  district may expend
+funds received under this paragraph for any of the following purposes:
+(i) Purchasing or leasing zero-emission vehicles, as defined in ORS 283.398, including buses.
+(ii) Purchasing or installing  electric vehicle charging stations to provide electricity to zero-
+emission vehicles.
+(f) Of the  funds allocated under subsection (3)(b)(B) of this section, 25 percent must be used for
+activities, resources and technologies that serve low  and moderate income customers, including for
+technologies that do not have above-market costs.
+(g)(A) Funds collected by an electric  company [ or Oregon Community Power, ] allocated for new
+low-income weatherization under subsection (3)(b)(C) of this section and directed to the  Housing and
+Community Services Department shall be spent within the service territory of the electric  company
+[or Oregon Community Power ] from which the funds are collected.
+(B) As further determined by the Housing and Community Services Department, a portion of  the
+funds described in this paragraph may be used for manufactured housing replacements  as a means
+to deliver energy efficiency, pursuant to  a program dedicated to manufactured housing replacement.
+(C) For purposes of this paragraph and as further determined by the Housing and Community
+Services Department, purposes related to  new low-income weatherization includes providing funding
+for participants in programs by low-income weatherization service  providers to change energy
+sources from bulk fuels to electricity service.
+(h) The commission may not establish a different public  purpose charge than the public purpose
+charge described in subsection (2) of this section.
+(4)(a) A retail electricity consumer that uses more  than one average megawatt of electricity at
+any site in the prior year shall receive a credit  against public purpose charges billed by an electric
+company [ or Oregon Community Power ] for that site. The amount of the  credit shall be equal to the
+[4]
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+total amount of qualifying expenditures for the above-market costs  of new renewable energy re-
+sources and investments in distribution  system-connected technologies incurred by the retail elec-
+tricity consumer, not to exceed 25.5 percent  of the annual public purpose charges, less
+administration costs incurred under this paragraph and paragraphs (b) and (c) of this subsection.
+The credit may not exceed, on an annual basis, the lesser of:
+(A) The amount of the retail electricity consumer’s qualifying expenditures; or
+(B) The portion of the public purpose charge billed to the retail electricity consumer  that is
+dedicated to the above-market costs of new renewable  energy resources and investments in distrib-
+ution system-connected technologies.
+(b) To obtain a credit under paragraph (a) of this subsection, a  retail electricity consumer shall
+file with the State Department of Energy a description of the proposed new renewable energy re-
+source or investment in distribution system-connected technology and a  declaration that the retail
+electricity consumer plans to  incur the qualifying expenditure. The State Department of Energy
+shall issue a notice of precertification within  30 days of receipt of the filing, if such filing is con-
+sistent with paragraph (a) of this subsection. The credit may be taken after a retail electricity con-
+sumer provides a letter  from a certified public accountant to the State Department of Energy
+verifying that the precertified qualifying expenditure has been made.
+(c) Credits earned by a retail electricity consumer  as a result of qualifying expenditures that
+are not used in one year may be carried forward for use in subsequent years.
+(5) Electric utilities and retail electricity consumers shall  receive a fair and reasonable credit
+for the public purpose expenditures of  their energy suppliers. The State Department of Energy shall
+adopt rules to determine eligible expenditures and the method by which such credits are accounted
+for and used.  The State Department of Energy also shall adopt methods to account for eligible public
+purpose expenditures made through consortia or collaborative projects.
+(6) For  purposes of this section, “retail electricity consumers” includes any direct service in-
+dustrial consumer  that purchases electricity without purchasing distribution services from the elec-
+tric utility.
+[(7) For purposes of this section, funds collected by Oregon Community Power through  public
+purpose charges are not considered moneys received from electric utility operations. ]
+SECTION 5.
+ ORS 757.613 is amended to read:
+757.613. (1) If an electric company  invests moneys collected under ORS 757.054 on new cost-
+effective  local  energy conservation, or if the nongovernmental entity described in ORS 757.746 in-
+vests moneys paid to the  nongovernmental entity under ORS 757.054 on new cost-effective local
+energy conservation, and if the investment involves updating the energy  efficiency of a residential
+or nonresidential building, the electric company[ , Oregon Community Power ] or the nongovernmental
+entity may make those investments  by conducting a whole building assessment of the energy effi-
+ciency of the building and, in consideration of the whole building assessment,  by maximizing the
+overall energy efficiency of the building. For purposes of this subsection, a  “whole building assess-
+ment” means a single assessment of savings opportunities, as identified  by the Public Utility Com-
+mission by rule or order.
+(2) An investment described in subsection (1) of this section must be limited to  an investment
+in a single project, as authorized by the commission by rule or order.
+SECTION 6.  ORS 757.698 is amended to read:
+757.698. (1) An electric company, as defined  in ORS 757.600, [ or Oregon Community Power ] shall
+collect funds for low-income electric bill payment and crisis assistance in an amount determined by
+[5]
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the Public Utility Commission. The commission shall:
+(a) Establish the amount to be collected  and rates to be charged by each electric company from
+its customers, including customers  receiving electricity from other sources, such that the forecasted
+collection by all electric companies in a calendar year is at least $20 million.
+(b) Adjust the rates if forecasted collections or actual collections are less than $20 million in
+any calendar year but shall not otherwise adjust the rates once set.
+(c) Ensure that no customer pays more than $500 per month  per customer site for low-income
+electric bill payment and crisis assistance.
+(2) Funds collected by  an electric company [ or Oregon Community Power ] under this section
+must be:
+(a) Paid into the Housing and  Community Services Department Low-Income Electric Bill Pay-
+ment Assistance Fund established by ORS 456.587 (2);
+(b) Used by the Housing and Community Services Department solely for purposes related to
+low-income electric bill payment and crisis assistance and for the Housing and  Community Services
+Department’s cost of administering this section; and
+(c) Expended in the service area of the electric company [ or Oregon Community Power ] from
+which the funds are collected.
+(3) The  Housing and Community Services Department shall determine the manner in which funds
+collected under this section are allocated by the department to energy assistance program  providers
+for the  purpose of providing low-income electric bill payment and crisis assistance. However, the
+department shall:
+(a) In consultation with electric  companies, investigate and may implement alternative delivery
+models to effectively reduce  service disconnections and related costs to customers and electric
+companies; and
+(b) Direct priority assistance to low-income customers who  are in danger of having their elec-
+tricity service disconnected.
+(4) The department shall maintain records and provide those records upon request  to an electric
+company[, Oregon Community Power ] and the  Citizens’ Utility Board established under ORS chapter
+774 on a quarterly basis. Records maintained must include  the numbers of low-income customers
+served, the average amounts paid and  the type of assistance provided. Electric companies [ and
+Oregon Community Power ] shall, if requested, provide the department with aggregate  data relating
+to low-income customers served on a quarterly basis to support program development.
+(5) Interest on moneys deposited in  the Housing and Community Services Department Low-
+Income Electric Bill Payment Assistance Fund established by ORS 456.587 (2) may  be used to pro-
+vide bill payment  and crisis assistance to customers whose primary source of heat is not electricity.
+(6) Notwithstanding ORS 757.310, the commission may allow an electric company [ or Oregon
+Community Power ] to  provide reduced rates or other bill payment or crisis assistance or low-income
+program assistance to a low-income household eligible for assistance under the federal Low Income
+Home Energy Assistance Act of 1981, as amended and in effect on July 23, 1999.
+SECTION 7.
+ ORS 221.420 is amended to read:
+221.420. (1) As used in this section:
+(a) “Public utility” has the meaning for that term provided in ORS 757.005.
+(b) “Commission” means the Public Utility Commission of Oregon.
+(c) “Council” means the common council, city council, commission or any other governing  body
+of any municipality wherein the property of the public utility is located.
+[6]
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) “Municipality” means  any town, city or other municipal government wherein property of the
+public utility is located.
+(e) “Service” is used in its broadest and most inclusive sense and includes  equipment and facil-
+ities.
+(f) “Heating  company” means any person furnishing heat but not electricity or natural gas to
+its customers.
+(2) Subject to ORS 758.025, a city may:
+(a) Determine by contract or prescribe by ordinance or otherwise, the terms and conditions, in-
+cluding payment of charges and fees, upon  which any public utility, electric cooperative, people’s
+utility district or heating company[ , or Oregon Community Power, ] may be permitted to  occupy the
+streets, highways or other public property within such city and exclude or  eject any public utility
+or heating company therefrom.
+(b) Require any public  utility, by ordinance or otherwise, to make such modifications, additions
+and extensions to its physical equipment, facilities or plant or service within such city as shall  be
+reasonable or necessary in the interest of the public, and  designate the location and nature of all
+additions and  extensions, the time within which they must be completed, and all conditions under
+which they must be constructed.
+(c) Fix by contract, prescribe by ordinance, or in any other lawful manner,  the rates, charges
+or tolls to be paid to, or that may be collected by, any  public utility or the quality and character
+of each kind of product or service to be furnished or rendered by  any public utility furnishing any
+product or service within such city. No schedule of rates, charges or tolls, fixed in the  manner
+provided in this paragraph, shall be so  fixed for a longer period than five years. Whenever it is
+proposed by any city to enter into any contract, or to enact any ordinance, or  other municipal law
+or regulation concerning  the matters specified in this paragraph, a copy of such proposed contract,
+ordinance or other municipal law or resolution shall be filed with the  Public Utility Commission of
+Oregon before the same may be lawfully signed  or enacted, as the case may be, and the commission
+shall thereafter have 90 days within which to examine into the terms thereof. If the  commission is
+of the opinion that in any respect the provisions of the proposed contract,  ordinance or other mu-
+nicipal law or resolution are not in the public interest, the commission shall file, in  writing, with
+the clerk or other officer who has the custody of the files and records of the  city, the commission’s
+reasons therefor. If the objections are filed within said period of  90 days, no proposed contract, or-
+dinance or other municipal law or regulation shall be valid or go into effect until it has  been sub-
+mitted to or ratified by the vote  of the electors of the city. Unless and until a city exercises its
+powers  as  provided in this paragraph, the commission is vested with all powers with respect to the
+matters specified in this paragraph. If the schedule of  rates, charges and tolls or the quality and
+character of each  kind of product or service is fixed by contract, ordinance or other municipal law
+or regulation and in the manner provided in this paragraph, the  commission has no power or juris-
+diction to interfere  with, modify or change it during the period fixed thereby. Upon the expiration
+of said period such powers shall again be vested in the commission, to be exercised by the  commis-
+sion unless and until a new schedule of rates or the quality  and character for such service or
+product is fixed or prescribed by contract, ordinance or  other municipal law or regulation in the
+manner provided in this paragraph.
+(d) Provide for a  penalty for noncompliance with the provisions of any charter provision, ordi-
+nance or resolution adopted by the city in furtherance of the powers specified in this subsection.
+SECTION 8.
+ ORS 221.450 is amended to read:
+[7]
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+221.450. Except as provided in ORS 221.655, the city council or  other governing body of every
+incorporated  city  may levy and collect a privilege tax [ from Oregon Community Power and ] from
+every electric cooperative,  people’s utility district, privately owned public utility, telecommuni-
+cations carrier as defined in ORS 133.721 or heating company. The  privilege tax may be collected
+only if the entity is operating for a period of 30 days within the city without a franchise from the
+city and actually using the streets, alleys or highways, or all of  them, in such city for other than
+travel on such streets or highways. The privilege tax shall be for the use of  those public streets,
+alleys or highways, or all of them, in such city in an amount not exceeding five percent of the gross
+revenues of the cooperative, utility, district or company currently  earned within the boundary of the
+city. However, the gross  revenues earned in interstate commerce or on the business of the United
+States Government shall be exempt from the provisions of  this section. The privilege tax authorized
+in this section shall be for each year, or part  of each year, such utility, cooperative, district or
+company[, or Oregon Community Power, ] operates without a franchise.
+SECTION 9.
+ ORS 291.227, as amended by section 88,  chapter 281, Oregon Laws 2023, is
+amended to read:
+291.227. (1)(a) As part of the development of the legislatively  adopted budget, each state agency
+that employs more than 100 employees shall report to the Joint Committee  on Ways and Means the
+state agency’s maximum supervisory ratio for the biennium.
+(b) Before submitting the report to the committee, a state agency shall provide  a copy of the
+report to all labor organizations that represent employees of the state agency.
+(2) A state agency must determine  its maximum supervisory ratio by starting from a baseline
+ratio of one to 11 and adjusting the ratio based on some or all of the following factors:
+(a) Safety of the public or of state agency employees;
+(b) Geographic location of the agency’s employees;
+(c) Complexity of the agency’s duties;
+(d) Industry best practices and standards;
+(e) Size and hours of operation of the agency;
+(f) Unique personnel needs of the agency, including the agency’s use of  volunteers or seasonal
+or temporary employees, or the exercise of supervisory authority by agency supervisory  employees
+over personnel who are not agency employees; and
+(g) Financial scope and responsibility of the agency.
+(3) The Joint Committee on Ways and Means shall review  the maximum supervisory ratios re-
+ported by state agencies.
+(4) Subject to subsection (5) of this section, a state agency whose actual supervisory  ratio is
+greater than its maximum supervisory ratio may not fill a supervisory position.
+(5)(a) The Oregon Department of Administrative Services may  exempt a state agency from the
+limitations of subsection (4)  of this section if the department determines that an additional supervi-
+sory position is reasonably necessary to the state agency. The department must make  the determi-
+nation with reference to some or all of the factors set forth in subsection (2) of this section.
+(b) At least five  business days before granting an exemption under this subsection, the depart-
+ment shall notify all labor organizations that represent employees of the state agency of its  intent
+to grant the exemption.
+(6)(a) The department shall, once per quarter, produce reports on the actual  supervisory ratio
+of each state agency. The reports must include data on  job families within each state agency to the
+extent such data is reasonably available.
+[8]
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) The department shall make the  reports publicly available on the Internet and shall notify
+all labor organizations that represent state employees when the reports are available.
+(7) The department may  adopt rules for the administration of this section, including rules gov-
+erning how temporary, seasonal or part-time employees are accounted for in the calculation of a
+supervisory ratio.
+(8) As used in this section:
+(a) “Job families” means groups of occupations based upon work performed, skills,  education,
+training and credentials.
+(b) “Legislatively adopted budget” has the meaning given that term in ORS 291.002.
+(c)(A) “State agency”  means all state officers, boards, commissions, departments, institutions,
+branches, agencies, divisions and other entities, without regard to the designation given to  those
+entities, that are within the executive branch of government as  described in Article III, section 1,
+of the Oregon Constitution.
+(B) “State agency” does not include:
+(i) The legislative department as defined in ORS 174.114;
+(ii) The judicial department as defined in ORS 174.113;
+(iii) The Secretary of State and the State Treasurer;
+(iv) Semi-independent state agencies listed in ORS 182.454;
+(v) The Oregon Tourism Commission;
+(vi) The Oregon Film and Video Office;
+(vii) Public universities listed in ORS 352.002;
+(viii) The Oregon Health and Science University;
+(ix) The Travel Information Council;
+(x) Oregon Corrections Enterprises;
+(xi) The Oregon State Lottery Commission;
+(xii) The State Accident Insurance Fund Corporation;
+(xiii) The Oregon Utility Notification Center;
+[(xiv) Oregon Community Power; ]
+[(xv)] (xiv) The Citizens’ Utility Board;
+[(xvi)] (xv) A special government body as defined in ORS 174.117;
+[(xvii)] (xvi) Any other public corporation created  under a statute of this state and specifically
+designated as a public corporation; and
+[(xviii)] (xvii) Any other semi-independent state agency denominated by statute as  a semi-
+independent state agency.
+(d) “Supervisory employee” has the meaning given that term in ORS 243.650.
+(e) “Supervisory ratio” means the ratio of employees who  are supervisory employees to em-
+ployees who are not supervisory employees.
+EMPLOYEE SUGGESTION AWARDS COMMISSION
+SECTION 10.
+ORS 182.310, 182.320, 182.330 and 182.360 are repealed.
+FAMILY SERVICES REVIEW COMMISSION
+SECTION 11.  ORS 411.075 is amended to read:
+[9]
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+411.075. (1) There is  established the Family Services Review Commission consisting of no more
+than 16 members.  The members shall be appointed by the [ Governor ] Director of Human Services
+for a term  of four years. In making the appointments, the [ Governor ] director shall consider indi-
+viduals who  are or have participated in programs administered by the Department of Human Ser-
+vices and individuals who represent  diverse geographic areas, cultural and ethnic perspectives and
+professional experiences. The [ Governor ] director may appoint  members who are employees of the
+department but such members  may not compose more than 25 percent of the membership of the
+commission or hold a leadership position in the commission.
+(2) Members of the commission who are  not public employees shall receive compensation and
+expenses as provided in ORS 292.495.
+(3) The commission shall advise and consult with the  director [ of Human Services ] on all matters
+affecting the quality of the experience of and the equitable attainment  of successful outcomes for
+families and individuals seeking stability and self-sufficiency through participation in the
+department’s programs.
+(4) The commission shall,  through its chairperson, have access to information that is reasonably
+necessary to carry out the commission’s advisory and consultative functions.
+JOBS PLUS ADVISORY BOARD
+SECTION 12.
+ORS 411.886 and 411.888 are repealed.
+SECTION 13.  ORS 411.877 is amended to read:
+411.877. As used in ORS 411.877 to 411.896:
+[(1) “Board” means the JOBS Plus Advisory Board established in ORS 411.886. ]
+[(2)] (1) “Job opportunities and basic skills  program” means the program described in ORS
+412.009.
+[(3)] (2) “JOBS Plus” or “program” means the JOBS Plus Program established in ORS 411.878.
+[(4)] (3) “Supplemental Nutrition Assistance Program” has the meaning given that term  in ORS
+411.806.
+SECTION 14.  ORS 411.890 is amended to read:
+411.890. A JOBS Plus Implementation Council shall  be established in service areas to be deter-
+mined by the Director  of Human Services to assist [ the JOBS Plus Advisory Board and ] the De-
+partment of Human Services in  the administration of the JOBS Plus Program and to allow local
+flexibility in dealing with the particular  needs of each county. Each council shall be primarily re-
+sponsible for recruiting and encouraging participation of employment providers in the county.  Each
+council shall be composed of seven members who shall be appointed by the county  commissioners
+in each county in the district. Council members shall be residents of  the district in which they are
+appointed and shall serve four-year terms. Six members of the council shall be  from the local busi-
+ness community.  At least one member shall be a current or former recipient of the temporary as-
+sistance for needy families program or the Supplemental Nutrition Assistance Program.
+SECTION 15.  ORS 411.892 is amended to read:
+411.892. (1)(a) All employers,  including public and private sector employers within the State of
+Oregon, are eligible to participate in the JOBS Plus Program. The  Department of Human Services
+shall adopt by rule a method to disqualify  employers from participating in the program. No employer
+is required to participate in the JOBS Plus Program. In the event that there are unassigned partic-
+ipants whom no employer desires to utilize,  the participants may be assigned to work for a public
+[10]
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+agency.
+(b) The maximum number of program participants that any employer is  authorized to receive at
+any one time may not exceed 10 percent of the total number of the  employer’s employees. However,
+each employer may receive one participant.  The Director of Human Services may waive the limit in
+special  circumstances.
+(c) The Department of Human Services by rule shall establish criteria for excluding  employers
+from participation for failure to abide by program requirements, showing a pattern of terminating
+participants prior to the completion of training or  other demonstrated unwillingness to comply with
+the stated intent of the program.
+(2) The Department of Human Services shall ensure that jobs made available  to program par-
+ticipants:
+(a) Do not require work in excess of 40 hours per week;
+(b) Are not used to displace regular  employees or to fill unfilled positions previously established;
+and
+(c) Do not pay a wage that is substantially less than the wage paid for  similar jobs in the local
+economy with appropriate adjustments for experience and training.
+(3)(a) Eligibility for the program shall be limited to residents who are:
+(A) Adults and caretaker relatives who are receiving temporary assistance  for needy families
+benefits;
+(B) Adult Supplemental Nutrition Assistance Program recipients except as described in sub-
+section (5)(b) of this section; and
+(C) Unemployed noncaretaker parents of children who are receiving temporary assistance  for
+needy families benefits.
+(b) In addition to those residents eligible for the program under  paragraph (a) of this subsection,
+additional residents who are seeking employment may be eligible for the program if there  are
+legislatively allocated funds available in  the temporary assistance for needy families budget of the
+Department of Human Services.
+(4)(a) Individuals desiring work  through the program shall contact the nearest Department of
+Human Services office serving the county in which they reside if they are temporary assistance for
+needy families program or Supplemental Nutrition  Assistance Program applicants or recipients or
+noncustodial parents of individuals receiving temporary assistance for needy families.
+(b) With the assistance of the local JOBS Plus Implementation Councils  [ and the JOBS Plus
+Advisory Board ], the Department of Human Services shall develop a job inventory of sufficient size
+to accommodate all of the participants who desire to work in  the program. In consultation with the
+participant, the department  shall try to match the profile of each participant with the needs of an
+employer when assigning a participant to work with the employer.
+(c) Either the employer or the participant may terminate the assignment by contacting the ap-
+propriate Department of Human Services  office. In such event, the Department of Human Services
+shall reassess the needs of the participant and assign the participant to  another JOBS Plus Program
+placement or another job opportunity and basic skills program component and, at the  employer’s
+request, provide the employer with another participant.
+(d)(A) If after four  months in a placement, a participant has not been hired for an unsubsidized
+position, the employer shall allow the worker to undertake eight hours of  job search per week.
+Participating employers shall consider such time  as hours worked for the purposes of paying wages.
+(B) If after six months in  a placement, a participant has not been hired for an unsubsidized po-
+[11]
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+sition, the placement shall be terminated, and  the caseworker shall reassess the participant’s em-
+ployment development plan.
+(e) The Department of Human Services may pay  placement and barrier removal payments to
+temporary assistance for needy families program and  Supplemental Nutrition Assistance Program
+participants as necessary to enable participation in the JOBS Plus Program.
+(f) The  Department of Human Services shall accept eligible volunteers into the program prior
+to mandating program participation by eligible persons.
+(5)(a) Assignment of participants to  available jobs shall be based on a preference schedule de-
+veloped by the Department of Human Services. Any  temporary assistance for needy families recipi-
+ent or supplemental nutrition assistance recipient may volunteer for the program.
+(b) The following individuals may not be required to participate in the program:
+(A) Recipients under the temporary assistance  for needy families program and the Supplemental
+Nutrition Assistance Program who are eligible for Supplemental Security  Income benefits or other
+ongoing state or federal maintenance benefits based on age or disability.
+(B) Supplemental nutrition assistance  applicants or recipients who are employed full-time or are
+college students eligible for supplemental nutrition assistance and  enrolled full-time in a community
+college or an  institution of higher education, or enrolled half-time in a community college or an in-
+stitution of higher education and working at least 20 hours per week.
+(C) Teenage parents who remain in high school  if progressing toward a diploma. Teenage par-
+ents not in school are eligible for the JOBS Plus Program.
+(c) The Department of Human Services shall provide life skills classes and opportunities to
+achieve a certificate for passing an approved high school  equivalency test such as the General Ed-
+ucational Development (GED) test to  appropriate participants in conjunction with working in the
+JOBS Plus Program.
+(d) Subject to subsection (7) of this section, temporary assistance for needy families and sup-
+plemental nutrition assistance shall be suspended  at the end of the calendar month in which an
+employer makes the first wage payment to a participant who is a  custodial parent in a family that
+receives temporary assistance for needy families  or to any adult member of a household receiving
+supplemental nutrition  assistance. Failure of the participant to cooperate with the requirements of
+the JOBS Plus Program may result in the  participant’s removal, in accordance with rules adopted
+by the Department  of Human Services, from the JOBS Plus Program and suspension of the
+participant’s  temporary  assistance for needy families grant and supplemental nutrition assistance.
+A temporary assistance for needy families and supplemental nutrition assistance recipient  who has
+been removed from the  program for failing to cooperate shall be eligible to reapply to participate
+in the program and shall have eligibility for program services determined without regard  to the
+length of time the person was not participating following removal.
+(6)(a) Employers shall pay all participating individuals at  least the hourly rate of the Oregon
+minimum wage.
+(b) Sick  leave, holiday and vacation absences shall conform to the individual employer’s rules
+for temporary employees.
+(c) Group health insurance benefits shall be provided by the  employer to program participants
+if, and to the extent that, state or federal law requires the employer to provide such benefits.
+(d) All persons participating in the JOBS Plus Program shall  be considered to be temporary
+employees of the individual employer providing  the work and shall be entitled only to benefits re-
+quired by state or federal law.
+[12]
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) Employers shall provide workers’  compensation coverage for each JOBS Plus Program par-
+ticipant.
+(7) In the event that the net monthly full-time wage paid to a participant would be less than the
+level of income from the temporary assistance for needy families program and the supplemental  nu-
+trition assistance amount equivalent that the  participant would otherwise receive, the Department
+of Human Services shall determine and pay a supplemental payment as  necessary to provide the
+participant with that level of net income. The department shall determine and pay  in advance sup-
+plemental payments to  participants on a monthly basis as necessary to ensure equivalent net pro-
+gram wages. Participants shall be compensated only for time worked.
+(8) In addition to and not in lieu of the payments provided for under subsections (6) and (7)  of
+this section, participants shall be entitled to retain the full child support payments  collected by the
+Department of Justice.
+(9) In conformity with existing state day care program regulations, child  day care shall be pro-
+vided for all program participants who require it.
+(10) JOBS Plus Program employers shall:
+(a) Endeavor  to make JOBS Plus Program placements positive learning and training experiences;
+(b) Maintain health, safety  and working conditions at or above levels generally acceptable in the
+industry and no less than that of comparable jobs of the employer;
+(c) Provide on-the-job training to the  degree necessary for the participants to perform their du-
+ties;
+(d) Recruit volunteer mentors  from among their regular employees to assist the participants in
+becoming oriented to work and the workplace; and
+(e) Sign an agreement to abide by all requirements of the program, including the requirement
+that the program not supplant existing jobs. All agreements shall include provisions noting  the
+employer’s responsibility to  repay reimbursements in the event the employer violates program rules.
+When a  professional placement service, professional employment organization or temporary employ-
+ment agency is acting as an employer pursuant to subsection (13) of this section, agreements under
+this paragraph shall require a three-party agreement between the professional  placement service,
+professional employment organization or temporary employment agency, the organization where  the
+participant has been placed  to perform services and the State of Oregon. The three-party agreement
+shall include provisions requiring that all JOBS Plus reimbursements received by the professional
+placement service, professional employment organization  or temporary employment agency be cred-
+ited to the organization where the participant has been placed to perform services.
+(11) Program participant wages shall be subject to  federal and state income taxes, Social Secu-
+rity taxes and unemployment insurance tax or reimbursement as applicable under  ORS chapter 657,
+which shall be withheld and paid in accordance with state and  federal law. Supplemental payments
+made pursuant to subsection (7) of this section shall not be subject to  state income taxes under ORS
+chapter 316 and, to the extent allowed by federal law, shall not be  subject to federal income taxes
+and Social Security taxes.
+(12)(a) The Department of Human Services  shall reimburse employers for the employers’ share
+of Social Security, unemployment insurance and workers’  compensation premiums paid on behalf of
+program participants referred to  the employer by the Department of Human Services, as well as the
+minimum wage earnings paid by the employer to program participants referred to the employer by
+the Department of Human Services.
+(b) If the Department of Human Services finds that an employer has violated  any of the rules
+[13]
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of the JOBS Plus Program, the department:
+(A) Shall withhold any amounts due to employers under paragraph (a) of this subsection.
+(B) May seek repayment of any amounts paid to employers under paragraph (a) of this  sub-
+section.
+(13) For purposes  of this section, “employer” shall include professional placement services, pro-
+fessional employment organizations and temporary employment agencies.
+SECTION 16.
+ ORS 411.896 is amended to read:
+411.896. The Department of Human  Services shall submit an annual written report to the Leg-
+islative Assembly and the Governor containing a full and complete analysis of the JOBS Plus  Pro-
+gram. The report shall include recommendations [ from the department and the JOBS  Plus Advisory
+Board] regarding appropriate revisions to the program.
+POISON PREVENTION TASK FORCE
+SECTION 17. ORS 431A.300, 431A.303, 431A.305, 431A.308, 431A.310, 431A.313,  431A.315,
+431A.318, 431A.320, 431A.323 and 431A.325 are repealed.
+SECTION 18.  ORS 442.870, as amended by  section 27, chapter 32, Oregon Laws 2024, is
+amended to read:
+442.870. (1) The Emergency Medical Services Enhancement Account is established separate  and
+distinct from the General Fund. Interest earned on moneys in the account shall accrue to the  ac-
+count. All moneys deposited in the account are continuously  appropriated to the Department of
+Revenue for the purposes of this section.
+(2) The Department of  Revenue shall distribute moneys in the Emergency Medical Services En-
+hancement Account in the following manner:
+(a) 35 percent of the moneys in the account shall be transferred to  the Office of Rural Health
+established under  ORS 442.475 for the purpose of enhancing emergency medical services in rural
+areas as specified in ORS 442.507.
+(b) 25 percent of the moneys in the account shall be transferred to  the Emergency Medical
+Services Program established under section 2, chapter 32, Oregon Laws 2024.
+(c) 35 percent of the moneys in the account shall be transferred to  the Area Health Education
+Center program established under ORS 353.450.
+(d) 5 percent of the moneys in  the account shall be transferred to the [ Oregon Poison Center
+referred to in ORS 431A.313 ] Oregon Poison Center of the Oregon  Health and Science Univer-
+sity.
+MENTAL HEALTH ADVISORY BOARD AND
+DISABILITY ISSUES ADVISORY COMMITTEE
+SECTION 19.  ORS 430.050 is amended to read:
+430.050. (1) The Director of the Oregon Health Authority[ , with the approval of the  Governor, ]
+shall appoint at least 15 but not more than 20  members of a Mental Health Advisory Board, com-
+posed of both lay and  professionally trained individuals, qualified by training or experience to study
+the problems  of mental health and make recommendations for the development of policies and pro-
+cedures with respect to the state mental health programs.  The membership shall provide balanced
+representation of program areas and shall include persons who represent the  interests of children.
+[14]
+SB 47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+At least four members of the board shall be  persons with disabilities who shall serve as the Disa-
+bility Issues Advisory Committee  which is hereby established. The members of the board shall serve
+for terms of four years and are  entitled to compensation and expenses as provided in ORS 292.495.
+The director may remove any member of the board for misconduct, incapacity or neglect of duty.
+(2) The Oregon Health Authority shall adopt rules specifying  the duties of the board. In addition
+to those duties assigned by rule, the  board shall assist the authority in planning and preparation
+of administrative rules for the assumption of  responsibility for psychiatric care in state and com-
+munity hospitals by community mental health programs, in accordance with ORS 430.630 (3)(e).
+(3) The board shall meet at least once each quarter.
+(4) The director may  make provision for technical and clerical assistance to the Mental Health
+Advisory Board and for the expenses of such assistance.
+(5) The Disability Issues Advisory Committee shall meet at least once  annually to make recom-
+mendations to the Mental Health Advisory Board.
+(6) As used in this section, “person with a disability” means any person who:
+(a) Has a physical or mental impairment which substantially limits one or  more major life ac-
+tivities;
+(b) Has a record of such an impairment; or
+(c) Is regarded as having such an impairment.
+TASK FORCE ON RESOLUTION OF
+ADVERSE HEALTH CARE INCIDENTS
+SECTION 20.
+ORS 31.280 is repealed.
+SECTION 21.  ORS 31.276 is amended to read:
+31.276. (1) The Oregon Patient Safety Commission shall  make rules establishing requirements
+and procedures as necessary to implement ORS 31.260 to 31.278, including, but not limited to:
+(a) Procedures for filing a notice of adverse  health care incident under ORS 31.262 and for
+conducting discussions and mediations under ORS 31.264 and 31.268.
+(b) The form of the notice of adverse health care incident under ORS 31.262.
+(2) The commission shall use notices  of adverse health care incidents filed under ORS 31.262 to:
+(a) Establish quality improvement techniques  to reduce patient care errors that contribute to
+adverse health care incidents.
+(b) Develop  evidence-based prevention practices to improve patient outcomes and disseminate
+information about those practices.
+(c) Upon the request of a health care facility or health care provider, assist the facility  or pro-
+vider in  reducing the frequency of a particular adverse health care incident, including, but not lim-
+ited to, determining the underlying cause of the incident and providing  advice regarding preventing
+reoccurrence of the incident.
+(3) The commission shall:
+(a) Using aggregate, deidentified data, continuously evaluate the implementation and ef-
+fects of ORS 31.260 to 31.278; and
+(b) Before December 31 of each year, report on the implementation and effects of ORS
+31.260 to 31.278 to an appropriate committee  or interim committee of the Legislative As-
+sembly.
+[15]
+SB 47
+1
+2
+3
+4
+5
+6
+CAPTIONS
+SECTION 22.
+The unit captions used in this 2025 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+[16]

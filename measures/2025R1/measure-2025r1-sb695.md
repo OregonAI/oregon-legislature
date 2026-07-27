@@ -1,0 +1,781 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb695
+title: 'SB 695 (2025R1): Requires the Oregon Health Authority and coordinated care organizations to develop
+  and implement a whole-person maternal health model for medical assistance recipients.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 695
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB695/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 15475a9fa28cacebbc8bc13d2cb5c8d5638259b8735915ab7b5beb6c6d47f5fc
+snapshot_id: measure-2025r1-sb695-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 192.610
+  - ORS 279A.250
+  - ORS 292.495
+  - ORS 315.273
+  - ORS 411.447
+  - ORS 413.022
+  - ORS 413.259
+  - ORS 413.500
+  - ORS 413.550
+  - ORS 414.018
+  - ORS 414.025
+  - ORS 414.231
+  - ORS 414.241
+  - ORS 414.570
+  - ORS 414.572
+  - ORS 414.575
+  - ORS 414.577
+  - ORS 414.578
+  - ORS 414.581
+  - ORS 414.584
+  - ORS 414.590
+  - ORS 414.591
+  - ORS 414.595
+  - ORS 414.598
+  - ORS 414.605
+  - ORS 414.609
+  - ORS 414.766
+  - ORS 415.115
+  - ORS 442.372
+  - ORS 442.373
+  - ORS 442.470
+  - ORS 678.375
+  - ORS 731.554
+  - ORS 731.574
+  - ORS 732.225
+  - ORS 732.230
+  - ORS 750.045
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 695
+prefix_meaning: Senate Bill
+catch_line: Requires the Oregon Health Authority and coordinated care organizations to develop and implement
+  a whole-person maternal health model for medical assistance recipients.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act tells OHA and CCOs to make various changes designed to improve maternal\
+  \ and infant health. (Flesch Readability Score: 60.1). \n\t[<i>Directs the Oregon Health Authority,\
+  \ for contracts entered into between the authority and a coordinated care organization, to establish\
+  \ terms and conditions designed to achieve transformational changes to maternal and infant health.</i>]<b>\
+  \ Requires the Oregon Health Authority and coordinated care organizations to develop and implement a\
+  \ whole-person maternal health model for medical assistance recipients.</b> Requires coordinated care\
+  \ organizations to partner with Early Learning Hubs <b>and federally qualified health centers</b> in\
+  \ adopting community health improvement plans. [<i>Directs the authority to require coordinated care\
+  \ organizations to spend a portion of any bonus payment on value-based payments to maternal health or\
+  \ early childhood providers.</i>] Directs the metrics and scoring subcommittee of the Health Plan Quality\
+  \ Metrics Committee to [<i>develop health equity milestones for pregnancy and early childhood</i>]<b>\
+  \ consider the need to prioritize equity-focused health outcome and quality measures relating to pregnancy\
+  \ and early childhood</b>. [<i>Extends the term of a contract entered into between the authority and\
+  \ a coordinated care organization to 10 years and directs the authority to review a coordinated care\
+  \ organization's performance after the initial five years.</i>] \n\tTakes effect on the 91st day following\
+  \ adjournment sine die."
+relating_to: Relating to coordinated care organizations; prescribing an effective date.
+relating_to_full: Relating to coordinated care organizations; creating new provisions; amending ORS 413.022,
+  414.577, 414.578 and 414.598; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 2701
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-04-10T20:00:04'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 45713
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 192.610
+  - ORS 279A.250
+  - ORS 292.495
+  - ORS 315.273
+  - ORS 411.447
+  - ORS 413.022
+  - ORS 413.259
+  - ORS 413.500
+  - ORS 413.550
+  - ORS 414.018
+  - ORS 414.025
+  - ORS 414.231
+  - ORS 414.241
+  - ORS 414.570
+  - ORS 414.572
+  - ORS 414.575
+  - ORS 414.577
+  - ORS 414.578
+  - ORS 414.581
+  - ORS 414.584
+  - ORS 414.590
+  - ORS 414.591
+  - ORS 414.595
+  - ORS 414.598
+  - ORS 414.605
+  - ORS 414.609
+  - ORS 414.766
+  - ORS 415.115
+  - ORS 442.372
+  - ORS 442.373
+  - ORS 442.470
+  - ORS 678.375
+  - ORS 731.554
+  - ORS 731.574
+  - ORS 732.225
+  - ORS 732.230
+  - ORS 750.045
+  from_relating_to_full:
+  - ORS 413.022
+  - ORS 414.577
+  - ORS 414.578
+  - ORS 414.598
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 695>.
+
+# SB 695 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 695, 2025 Regular Session (2025R1)
+- **LC number:** 2701
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-04-10T20:00:04
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 45713 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB695/Introduced>.
+
+## Summary
+
+**Catchline:** Requires the Oregon Health Authority and coordinated care organizations to develop and implement a whole-person maternal health model for medical assistance recipients.
+
+**Relating to:** Relating to coordinated care organizations; prescribing an effective date.
+
+Digest: The Act tells OHA and CCOs to make various changes designed to improve maternal and infant health. (Flesch Readability Score: 60.1). 
+ [<i>Directs the Oregon Health Authority, for contracts entered into between the authority and a coordinated care organization, to establish terms and conditions designed to achieve transformational changes to maternal and infant health.</i>]<b> Requires the Oregon Health Authority and coordinated care organizations to develop and implement a whole-person maternal health model for medical assistance recipients.</b> Requires coordinated care organizations to partner with Early Learning Hubs <b>and federally qualified health centers</b> in adopting community health improvement plans. [<i>Directs the authority to require coordinated care organizations to spend a portion of any bonus payment on value-based payments to maternal health or early childhood providers.</i>] Directs the metrics and scoring subcommittee of the Health Plan Quality Metrics Committee to [<i>develop health equity milestones for pregnancy and early childhood</i>]<b> consider the need to prioritize equity-focused health outcome and quality measures relating to pregnancy and early childhood</b>. [<i>Extends the term of a contract entered into between the authority and a coordinated care organization to 10 years and directs the authority to review a coordinated care organization's performance after the initial five years.</i>] 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to coordinated care organizations; creating new provisions; amending ORS 413.022, 414.577, 414.578 and 414.598; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 695
+Sponsored by Senator REYNOLDS, Representatives GRAYBER,  NERON; Representatives NELSON, PHAM H
+(Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells OHA and CCOs  to make various changes designed to improve maternal
+and infant health. (Flesch Readability Score: 60.1).
+Directs the Oregon Health Authority, for contracts  entered into between the authority and a
+coordinated  care  organization, to establish terms and conditions designed to achieve transforma-
+tional changes to maternal and infant health. Requires coordinated care organizations to  partner
+with Early Learning Hubs  in adopting community health improvement plans. Directs the authority
+to require coordinated care organizations to spend a portion of any bonus payment on  value-based
+payments to maternal health or early  childhood providers. Directs the metrics and scoring subcom-
+mittee of the Health  Plan Quality Metrics Committee to develop health equity milestones for preg-
+nancy and early childhood. Extends the term of a contract entered into between  the authority and
+a coordinated care organization to 10 years and directs the authority  to review a coordinated care
+organization’s performance after the initial five years.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to coordinated care organizations; creating new provisions; amending ORS 413.022, 414.572,
+414.577, 414.578, 414.590, 414.591, 414.598 and 414.609; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section, “coordinated care organization” has the meaning
+given that term in ORS 414.025.
+(2) Beginning in 2026, for contracts entered into between the Oregon  Health Authority
+and a  coordinated care organization, the authority shall establish terms and conditions de-
+signed to achieve the following transformational changes by January 1, 2036:
+(a) A coordinated care organization shall collaborate with  community partners to ensure,
+to the extent allowable by federal law, that members of the coordinated care  organization
+have access to safe, stable housing during pregnancy and for 12 months postpartum;
+(b) A coordinated care organization shall develop plans to  support the perinatal
+workforce, including doulas, community  health workers as defined in ORS 414.025, peer sup-
+port specialists as  defined in ORS 414.025, behavioral health workers and lactation specialists;
+(c) A coordinated care  organization shall engage in workforce development by funding
+educational opportunities for students of secondary and postsecondary educational insti-
+tutions or by  partnering with public or private economic development organizations on pro-
+vider recruitment or retention efforts; and
+(d) A coordinated care organization  shall develop and implement a whole-person maternal
+health model that includes:
+(A) Comprehensive needs assessment  and behavioral health risk screening during a
+pregnant member’s first prenatal care visit;
+(B) Interventions and supports for substance use disorder and  other behavioral health
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2701
+needs;
+(C) Assistance in applying for and obtaining:
+(i) Supplemental nutrition assistance;
+(ii) Women, Infants and Children Program benefits under ORS 413.500;
+(iii) Temporary assistance for needy families;
+(iv) The child tax credit under ORS 315.273;
+(v) State and federal earned income tax credits; and
+(vi) Other means-tested benefits available to low-income individuals;
+(D) Maternity case management services;
+(E) Doula support, peer support and enrollment in a nurse home  visiting program, if
+needed;
+(F) Connection to local parenting or child-focused  organizations to develop a family suc-
+cess plan and receive other maternal and infant health supports;
+(G) Tracking and monitoring of cesarean section  births, postpartum care, chronic health
+conditions and tobacco cessation efforts;
+(H) Contraception education, resources and support; and
+(I) Coordination of efforts with a member’s primary care provider.
+SECTION 2.
+ORS 414.577 and 414.578 are added to and made a part of ORS chapter 414.
+SECTION 3.  ORS 414.577 is amended to read:
+414.577. (1) A coordinated care organization shall  collaborate with local public health authori-
+ties, Early Learning Hubs  and hospitals located in areas served by the coordinated care organ-
+ization to conduct  a community health assessment and adopt a community health improvement plan,
+shared with and endorsed  by the coordinated care organization, local public health authorities ,
+Early Learning Hubs  and hospitals, to serve as a strategic  population health and health care ser-
+vices plan for the residents of the areas served by the coordinated  care organization, local public
+health authorities , Early Learning Hubs  and hospitals. The health improvement plan must  include
+strategies for achieving shared priorities.
+(2) The coordinated care organization shall post the health improvement plan  to the coordinated
+care organization’s website.
+(3) The Oregon Health Authority may prescribe by rule requirements  for health improvement
+plans and provide guidance for aligning the  timelines for the development of the community health
+assessments and health improvement plans  by coordinated care organizations, local public health
+authorities , Early Learning Hubs  and hospitals.
+SECTION 4.  ORS 414.578 is amended to read:
+414.578. (1) A community health improvement plan adopted by a  coordinated care organization
+and its community advisory council in accordance with ORS 414.577 shall include a  component for
+addressing the health of  children and youth in the areas served by the coordinated care organization
+including, to the extent practicable, a strategy and a plan for:
+(a) Working with programs developed by the Early Learning Council, Early Learning Hubs,  the
+Youth Development Council and the school health providers in the region; and
+(b) Coordinating the effective and efficient  delivery of health care to children and adolescents
+in the community.
+(2) A community health improvement plan must be based on research, including research into
+adverse childhood experiences, and must identify funding sources and additional  funding necessary
+to address the health needs of children and adolescents  in the community and to meet the goals of
+the plan. The plan must also:
+(a) Evaluate the adequacy of the  existing school-based health resources including school-based
+health centers and school nurses to meet the specific pediatric and adolescent health care needs in
+the community;
+(b) Make recommendations to improve the school-based health center and  school nurse system,
+including the addition or improvement of electronic medical records and billing systems;
+(c) Take into consideration whether integration of school-based health centers  with the larger
+health system or system of community clinics would further advance the goals of the plan;
+(d) Improve the integration of  all services provided to meet the needs of children, adolescents
+and families , including a focus  on early learning, maternal care and the first 1,000 days of a
+child’s life;
+(e) Focus on primary care, behavioral health and oral health; and
+(f) Address promotion of  health and prevention and early intervention in the treatment of chil-
+dren and adolescents.
+(3) A coordinated care organization shall involve in the development  of its community health
+improvement plan, school-based  health centers, school nurses, school mental health providers and
+individuals representing:
+(a) Programs developed by the Early Learning Council and Early Learning Hubs;
+(b) Programs developed by the Youth Development Council in the region;
+(c) The Healthy Start Family Support Services program in the region;
+(d) The Cover All People program and other medical assistance programs;
+(e) Relief nurseries in the region;
+(f) Community health centers;
+(g) Oral health care providers;
+(h) Community mental health providers;
+(i) Administrators of county health department  programs that offer preventive health services
+to children;
+(j) Hospitals in the region; and
+(k) Other appropriate child and adolescent health program administrators.
+(4) The  Oregon Health Authority may provide incentive grants to coordinated care organizations
+for the purpose of contracting with individuals or  organizations to help coordinate integration
+strategies identified in the community health improvement plan adopted by the community advisory
+council. The authority may also  provide funds to coordinated care organizations to improve systems
+of services that will promote the implementation of the plan.
+(5) Each coordinated care organization shall report to the authority,  in the form and manner
+prescribed by the authority, on the progress of the integration strategies  and implementation of the
+plan for working with the programs developed by the Early Learning Council, Early Learning Hubs,
+the Youth Development Council and school health care  providers in the region, as part of the de-
+velopment and implementation of the community health improvement plan. The authority  shall
+compile the information biennially and report the  information to the Legislative Assembly by De-
+cember 31 of each even-numbered year.
+SECTION 5.
+ ORS 414.572 is amended to read:
+414.572. (1) The Oregon Health Authority shall adopt  by rule the qualification criteria and re-
+quirements for a coordinated care organization and shall  integrate the criteria and requirements
+into each contract with a coordinated care organization. Coordinated  care organizations may be
+local, community-based organizations  or statewide organizations with community-based participation
+in governance or any combination of the two. Coordinated care organizations may  contract with
+counties or with other public or private entities to provide services to members. The authority  may
+not contract with only one statewide organization.  A coordinated care organization may be a single
+corporate  structure  or a network of providers organized through contractual relationships. The cri-
+teria and requirements adopted by the authority under this section must include, but are  not limited
+to, a requirement that the coordinated care organization:
+(a) Have  demonstrated experience and a capacity for managing financial risk and establishing
+financial reserves.
+(b) Meet the following minimum financial requirements:
+(A) Maintain restricted reserves of  $250,000 plus an amount equal to 50 percent of the coordi-
+nated care organization’s total actual or projected liabilities above $250,000.
+(B) Maintain capital or surplus of not less than  $2,500,000 and any additional amounts necessary
+to ensure the solvency of the coordinated care organization, as specified by the authority by rules
+that are consistent with ORS 731.554 (6), 732.225, 732.230 and 750.045.
+(C) Expend a portion of the annual net income or reserves  of the coordinated care organization
+that exceed the financial requirements specified in this paragraph  on services designed to address
+health disparities and the social determinants of  health consistent with the coordinated care
+organization’s community health improvement plan  and transformation plan and the terms and con-
+ditions of the Medicaid demonstration project under section 1115 of the Social  Security Act (42
+U.S.C. 1315).
+(c) Operate within a fixed global budget and  other payment mechanisms described in subsection
+(6) of this section and spend on primary care,  as defined by the authority by rule, at least 12 percent
+of the coordinated  care organization’s total expenditures for physical and mental health care pro-
+vided to members, except for expenditures on prescription drugs, vision care and dental care.
+(d) Develop and  implement alternative payment methodologies that are based on health care
+quality and improved health outcomes.
+(e) Coordinate the delivery of physical health  care, behavioral health care, oral health care and
+covered long-term care services.
+(f) Engage community members and health care providers in improving the health  of the com-
+munity and addressing regional, cultural, socioeconomic  and racial disparities in health care that
+exist among the coordinated care organization’s members and in the coordinated care organization’s
+community.
+(2) In addition to the criteria  and requirements specified in subsection (1) of this section, the
+authority  must adopt by rule requirements for coordinated care organizations contracting with the
+authority so that:
+(a) Each  member of the coordinated care organization receives integrated person centered care
+and services designed to provide choice, independence and dignity.
+(b) Each member has a consistent and stable relationship with a care team  that is responsible
+for comprehensive care management and service delivery.
+(c) The supportive and therapeutic needs of each member  are addressed in a holistic fashion,
+using patient centered primary  care homes, behavioral health homes or other models that support
+patient centered primary care and behavioral  health care and individualized care plans to the extent
+feasible.
+(d) Members receive comprehensive  transitional care, including appropriate follow-up, when en-
+tering and leaving an acute care facility or a long term care setting.
+(e) Members are provided:
+(A) Assistance in navigating the health care delivery system;
+(B) Assistance in accessing community and social support services and statewide resources;
+(C) Meaningful language  access as required by federal and state law including, but not limited
+to, 42 U.S.C. 18116, Title VI of the  Civil Rights Act of 1964, Title VI Guidance issued by the United
+States Department of Justice and  the National Standards for Culturally and Linguistically Appro-
+priate Services  in Health and Health Care as issued by the United States Department of Health and
+Human Services; and
+(D) Qualified health care interpreters or  certified health care interpreters listed on the health
+care interpreter registry, as those terms are defined in ORS 413.550.
+(f) Services and supports are geographically located as close to where members reside as  possi-
+ble and are, if available, offered in nontraditional settings  that are accessible to families, diverse
+communities and underserved populations.
+(g) Each coordinated care organization uses health  information technology to link services and
+care providers across the continuum of care to the greatest extent practicable and if financially vi-
+able.
+(h) Each coordinated care organization  complies with the safeguards for members described in
+ORS 414.605.
+(i) Each  coordinated care organization convenes a community advisory council that meets the
+criteria specified in ORS 414.575.
+(j) Each coordinated care organization prioritizes working with members  who have high health
+care needs, multiple chronic conditions or behavioral health conditions and  involves those members
+in accessing and managing appropriate preventive,  health, remedial and supportive care and ser-
+vices, including the services described in ORS 414.766, to reduce the use  of avoidable emergency
+room visits and hospital admissions.
+(k) Members have a choice of providers within  the coordinated care organization’s network and
+that providers participating in a coordinated care organization:
+(A) Work together  to develop best practices for care and service delivery to reduce waste and
+improve the health and well-being of members.
+(B) Are educated about the integrated  approach and how to access and communicate within the
+integrated system about a patient’s treatment plan and health history.
+(C) Emphasize prevention, healthy  lifestyle choices, evidence-based practices, shared decision-
+making and communication.
+(D) Are permitted to participate in the networks of multiple coordinated care organizations.
+(E) Include providers of specialty care.
+(F) Are selected by coordinated care organizations using universal application and  credentialing
+procedures and objective  quality information and are removed if the providers fail to meet objective
+quality standards.
+(G) Work together  to develop best practices for culturally and linguistically appropriate care
+and service delivery to  reduce waste, reduce health disparities and improve the health and well-
+being of members.
+(L) Each coordinated care organization  reports on outcome and quality measures adopted under
+ORS 413.022 and participates  in the health care data reporting system established in ORS 442.372
+and 442.373.
+(m) Each coordinated care organization uses best practices in the  management of finances,
+contracts, claims processing, payment functions and provider networks.
+(n) Each coordinated care  organization participates in the learning collaborative described in
+ORS 413.259 (3).
+(o) Each coordinated care organization has a  governing body that complies with ORS 414.584
+and that includes:
+(A) At least one member representing persons that share in  the financial risk of the organiza-
+tion;
+(B) A representative of a  dental care organization selected by the coordinated care organization;
+(C) The major components of the health care delivery system;
+(D) At least two health care providers in active practice, including:
+(i) A physician licensed under  ORS chapter 677 or a nurse practitioner licensed under ORS
+678.375, whose area of practice is primary care; and
+(ii) A behavioral health provider;
+(E) At  least two members from the community at large, to ensure that the organization’s
+decision-making is consistent with the values of the members and the community; and
+(F) At least two members of the community advisory council, one of whom is or  was within the
+previous six months a recipient of medical assistance and is at least 16 years of age or a  parent,
+guardian or primary caregiver of  an individual who is or was within the previous six months a re-
+cipient of medical assistance.
+(p) Each coordinated care organization’s governing  body establishes standards for publicizing
+the activities  of the coordinated care organization and the organization’s community advisory
+councils, as necessary, to keep the community informed.
+(q) Each coordinated care organization publishes on a website maintained by or on behalf of  the
+coordinated care organization,  in a manner determined by the authority, a document designed to
+educate members about best practices,  care quality expectations, screening practices, treatment
+options and other support resources available for members who have mental  illnesses or substance
+use disorders.
+(r) Each coordinated care organization works with the Tribal Advisory Council  established in
+ORS 414.581 and has a dedicated tribal liaison, selected by the council, to:
+(A) Facilitate a resolution  of any issues that arise between the coordinated care organization
+and a provider of Indian health  services within the area served by the coordinated care organiza-
+tion;
+(B) Participate  in the community health assessment and the development of the health im-
+provement plan;
+(C) Communicate regularly with the Tribal Advisory Council; and
+(D) Be available for training by the office within  the authority that is responsible for tribal af-
+fairs, any  federally recognized tribe in Oregon and the urban Indian health program that is located
+within the area served by the coordinated care organization and operated by an urban  Indian or-
+ganization pursuant to 25 U.S.C. 1651.
+(s) Each coordinated care organization implements care  coordination benefits for indi-
+viduals residing in a correctional facility, to the extent allowable  under ORS 411.447 and
+federal law.
+(3) The authority shall consider the participation of area agencies and other nonprofit agencies
+in the configuration of coordinated care organizations.
+(4) In selecting one or  more coordinated care organizations to serve a geographic area, the au-
+thority shall:
+(a) For members and potential members, optimize access to care and choice of providers;
+(b) For providers, optimize choice in contracting with coordinated care organizations; and
+(c) Allow more than one coordinated  care organization to serve the geographic area if necessary
+to optimize access and choice under this subsection.
+(5) On or  before July 1, 2014, each coordinated care organization must have a formal contractual
+relationship with any dental care organization that serves members of the coordinated care organ-
+ization in the area where they reside.
+(6) In addition  to global budgets, the authority may employ other payment mechanisms to reim-
+burse coordinated care organizations for specified health services during limited periods of time if:
+(a) Global  budgets remain the primary means of reimbursing coordinated care organizations for
+care and services provided to the coordinated care organization’s members;
+(b) The other payment mechanisms are consistent with the legislative intent expressed  in ORS
+414.018 and the system design described in ORS 414.570 (1); and
+(c) The payment mechanisms are employed only for health-related social needs services, such
+as housing supports, nutritional assistance and climate-related assistance,  approved for the demon-
+stration project under 42 U.S.C. 1315 by the Centers for Medicare and Medicaid Services.
+SECTION 6.
+ ORS 414.609, as amended by section 10, chapter 70, Oregon Laws 2024,  is amended
+to read:
+414.609. (1) A  coordinated care organization that contracts with the Oregon Health Authority
+must maintain a network of providers, including but not limited to addiction treatment providers
+and providers of health-related social needs services approved for the Medicaid demon-
+stration project under section 1115 of the Social Security Act (42  U.S.C. 1315) , sufficient in
+numbers and areas of practice and geographically distributed  in a manner to ensure that the health
+services provided under the contract are reasonably accessible to members.
+(2) The authority shall work with coordinated care organizations  on developing strategies
+to augment the behavioral health provider network, with the goal  that any member who
+needs behavioral health services can receive them within one week.
+[(2)] (3) A member  may transfer from one organization to another organization no more than
+once during each enrollment period.
+SECTION 7.
+ ORS 414.598 is amended to read:
+414.598. (1) As used in this section, “value-based  payment” means payment to a provider
+that explicitly rewards the value that can be produced through the provision of health care
+services to coordinated care organization members.
+[(1)] (2) The Oregon Health Authority shall encourage  coordinated care organizations to use
+alternative payment methodologies that:
+(a) Reimburse providers on the basis of health outcomes and quality measures instead of  the
+volume of care;
+(b) Hold organizations and providers responsible for the efficient delivery of quality care;
+(c) Reward good performance;
+(d) Limit increases in medical costs; and
+(e) Use payment structures that create incentives to:
+(A) Promote prevention;
+(B) Provide person centered care; and
+(C) Reward comprehensive care coordination  using delivery models such as patient centered
+primary care homes and behavioral health homes.
+(3) For any bonus payment made to a coordinated care organization as a reward for
+achieving health outcome and quality measures, the authority shall require the  coordinated
+care organization to spend a  portion of the bonus payment on value-based payments to ma-
+ternal health or early childhood providers.
+[(2)] (4) The authority shall encourage coordinated care organizations to utilize alternative
+payment methodologies that move from a predominantly fee-for-service system  to payment methods
+that base reimbursement on the quality rather than the quantity of services provided.
+[(3)] (5) A coordinated care organization that participates  in a national primary care medical
+home payment model, conducted by the Center for Medicare and Medicaid Innovation  in accordance
+with 42 U.S.C. 1315a, that includes performance-based incentive payments for  primary care, shall
+offer similar alternative payment methodologies to all patient  centered primary care homes identi-
+fied in accordance with ORS 413.259 that serve members of the coordinated care organization.
+[(4)] (6) The authority shall assist  and support coordinated care organizations in identifying
+cost-cutting measures.
+[(5)] (7) If a service  provided in a health care facility is not covered by Medicare because the
+service is related to a health care acquired condition, the cost of the service may not be:
+(a) Charged by a health care facility or any health services provider employed  by or with priv-
+ileges at the facility, to a coordinated care organization, a patient or a third-party payer; or
+(b) Reimbursed by a coordinated care organization.
+[(6)(a)] (8)(a) Notwithstanding subsections [ (1) and] (2) and (4) of this section, until July 1,  2014,
+a coordinated care organization that contracts with a Type  A or Type B hospital or a rural critical
+access hospital, as described in ORS 442.470, shall reimburse the hospital fully for the cost  of cov-
+ered services  based on the cost-to-charge ratio used for each hospital in setting the global payments
+to the coordinated care organization for the contract period.
+(b) The authority shall base the global payments to  coordinated care organizations that contract
+with rural hospitals described in this section on  the most recent audited Medicare cost report for
+Oregon hospitals adjusted to reflect the Medicaid mix of services.
+(c) The authority shall  identify any rural hospital that would not be expected to remain finan-
+cially viable if paid in a manner other than  as prescribed in paragraphs (a) and (b) of this subsection
+based upon an evaluation  by an actuary retained by the authority. On and after July 1, 2014, the
+authority may, on  a case-by-case basis, require a coordinated care organization to continue to re-
+imburse a rural hospital determined to be at financial risk, in the manner prescribed in  paragraphs
+(a) and (b) of this subsection.
+(d) This subsection does not prohibit a coordinated care organization and a hospital from  mu-
+tually agreeing to reimbursement other  than the reimbursement specified in paragraph (a) of this
+subsection.
+(e) Hospitals reimbursed  under paragraphs (a) and (b) of this subsection are not entitled to any
+additional reimbursement for services provided.
+[(7)] (9) Notwithstanding subsections [ (1) and ] (2) and (4) of this section, coordinated care  or-
+ganizations must comply with federal requirements  for payments to providers of Indian health ser-
+vices, including but  not limited to the requirements of 42 U.S.C. 1396j and 42 U.S.C. 1396u-2(a)(2)(C).
+SECTION 8.
+ ORS 413.022 is amended to read:
+413.022. (1) As used in this section:
+(a) “Downstream health outcome and quality measures” means:
+(A) The sets of core quality measures for the Medicaid program that are  published by the Cen-
+ters for Medicare and Medicaid Services in accordance with 42 U.S.C. 1320b-9a and 1320b-9b; and
+(B) If the  sets of core quality measures for adults published by the Centers for Medicare and
+Medicaid Services do not include quality measures for oral health care for adults,  quality measures
+of oral health care for adults adopted by the metrics and scoring subcommittee.
+(b) “Upstream health outcome and quality measures” means quality measures that  focus on the
+social determinants of health.
+(2) There is created in the Health Plan Quality Metrics Committee a nine-member metrics and
+scoring subcommittee appointed by the Director of the Oregon Health Authority. The members  of
+the subcommittee serve two-year terms and must include:
+(a) Three members at large;
+(b) Three individuals with expertise in health outcomes measures; and
+(c) Three representatives of coordinated care organizations.
+(3) The subcommittee shall use a  public process in accordance with ORS 192.610 to 192.705 that
+includes an opportunity for public comment to select :
+(a) The downstream health outcome and quality measures [ and];
+(b) A minimum of four  upstream health outcome and quality measures applicable to services
+provided by coordinated care organizations ; and
+(c) Health equity milestones related to pregnancy  and early childhood, such as maternal
+mortality rates and rates of conducting developmental screenings .
+(4) The Oregon  Health Authority shall incorporate these measures into coordinated care or-
+ganization contracts to hold the organizations accountable for performance and customer satisfac-
+tion requirements. The authority shall notify each coordinated care  organization of any changes in
+the measures at least three months before the  beginning of the contract period during which the
+new measures will be in place.
+(5) The subcommittee shall update the health outcome and quality measures  annually, if neces-
+sary, to conform to  the latest sets of core quality measures published by the Centers for Medicare
+and Medicaid Services.
+(6) All health outcome and quality measures must be consistent with the:
+(a) Terms and conditions of the demonstration project approved for this state by the Centers  for
+Medicare and Medicaid Services under 42 U.S.C. 1315; and
+(b) Written quality strategies approved by the Centers for  Medicare and Medicaid Services un-
+der 42 C.F.R. 438.340 and 457.1240.
+(7) The authority and the Oregon Health Policy Board shall evaluate on  a regular and ongoing
+basis the outcome and quality measures selected by the  subcommittee under this section for mem-
+bers in each coordinated care organization and for members statewide.
+(8) Members of the subcommittee who are not members  of the Oregon Health Policy Board may
+receive compensation and the reimbursement of actual and  necessary travel and other expenses in-
+curred by them in the performance of their official  duties in accordance with criteria adopted by the
+authority by rule and shall be reimbursed from funds available to the authority  in the manner and
+amount provided in ORS 292.495.
+SECTION 9.
+ ORS 414.590 is amended to read:
+414.590. (1) As used in this section:
+(a) “Benefit period” means a period of time, shorter than the five-year contract term, for which
+specific terms and conditions in a contract between a coordinated care organization and the  Oregon
+Health Authority are in effect.
+(b) “Renew” means an agreement by  a coordinated care organization to amend the terms or
+conditions of an existing contract for the next benefit period.
+(2) A contract entered into between the authority and a coordinated  care organization under
+ORS 414.572 (1):
+(a) Shall be for a term of [ five] 10 years;
+(b) Except as provided  in subsection [ (4)] (5) of this section, may not be amended more than once
+in each 12-month period; and
+(c) May be terminated  by the authority if a coordinated care organization fails to meet outcome
+and quality measures specified in the contract or is otherwise in breach of the contract.
+(3) After the initial five years of a contract  entered into between the authority and a
+coordinated care organization under subsection (2)(a) of this  section, the authority shall re-
+view the coordinated care organization’s performance in a manner prescribed by the  au-
+thority by rule, including a review of:
+(a) The coordinated care  organization’s performance on quality measures for the pre-
+ceding five years;
+(b) The coordinated care organization’s performance on external quality reviews under
+ORS 414.595 for the preceding five years; and
+(c) The extent to which  the coordinated care organization’s community advisory council
+has been afforded the opportunity for meaningful participation.
+[(3)] (4) This section does not prohibit the authority from allowing  a coordinated care organ-
+ization a reasonable  amount of time in which to cure any failure to meet outcome and quality
+measures specified in the contract prior to the termination of the contract.
+[(4)] (5) A contract entered into between the authority and a coordinated care organization may
+be amended:
+(a) More than once in each 12-month period if:
+(A) The authority and the coordinated care organization mutually agree to amend the  contract;
+or
+(B) Amendments are necessitated by changes in federal or state law.
+(b) Once within the first eight months  of the effective date of the contract if needed to adjust
+the global budget of  a coordinated care organization, retroactive to the beginning of the calendar
+year, to take into account changes in the membership  of the coordinated care organization or the
+health status of the coordinated care organization’s members.
+[(5)] (6) Except as provided in subsection  [ (8)] (9) of this section, the authority must give a co-
+ordinated care organization at least 60 days’ advance notice of any amendments the  authority pro-
+poses to existing contracts between the authority and the coordinated care organization.
+[(6)] (7) Except as provided in subsection [ (4)(b)] (5)(b) of this section, an amendment to a con-
+tract may apply retroactively only if:
+(a) The amendment does not  result in a claim by the authority for the recovery of amounts paid
+by the authority to the coordinated care organization prior to the date of the amendment; or
+(b) The Centers for Medicare and Medicaid Services notifies the  authority, in writing, that the
+amendment is  a condition for approval of the contract by the Centers for Medicare and Medicaid
+Services.
+[(7)] (8) If an amendment to a contract under subsection  [ (6)(b)] (7)(b) of this section or other
+circumstances arise that result in a claim by the authority for the recovery of amounts previously
+paid to  a coordinated care organization by the authority, the authority shall ensure that the recov-
+ery does not have  a material adverse effect on the coordinated care organization’s ability to main-
+tain the required minimum amounts of risk-based capital.
+[(8)] (9) No later  than 134 days prior to the end of a benefit period, the authority shall provide
+to each coordinated care organization notice  of the proposed changes to the terms and conditions
+of a contract, as will be submitted to the Centers for  Medicare and Medicaid Services for approval,
+for the next benefit period.
+[(9)] (10) A coordinated care organization must notify  the authority of the coordinated care
+organization’s refusal to renew  a contract with the authority no later than 14 days after the au-
+thority provides the notice described in subsection [ (8)] (9) of  this section. Except as provided in
+subsections [ (10)] (11) and [ (11)] (12) of this section, a refusal  to renew terminates the contract at
+the end of the benefit period.
+[(10)] (11) The authority may require  a contract to remain in force into the next benefit period
+and be amended as proposed by the authority until 90 days after  the coordinated care organization
+has, in accordance with criteria prescribed by the authority:
+(a) Notified each of its members and contracted providers of the termination of the contract;
+(b) Provided to the authority a plan to transition  its members to another coordinated care or-
+ganization; and
+(c) Provided to the authority a plan for closing out its coordinated care organization business.
+[(11)] (12) The  authority may waive compliance with the deadlines in subsections [ (9)] (10) and
+[(10)] (11) of this section if the Director of the Oregon Health Authority finds that the waiver of  the
+deadlines is consistent with  the effective and efficient administration of the medical assistance pro-
+gram and the protection of medical assistance recipients.
+SECTION 10.
+ ORS 414.591 is amended to read:
+414.591. (1) The Oregon Health Authority shall use, to the greatest extent possible,  coordinated
+care organizations to provide fully integrated physical health services, chemical dependency  and
+mental health services and oral health services. This section, and any contract entered into pur-
+suant to this section, does not affect and may  not alter the delivery of Medicaid-funded long term
+care services.
+(2)(a) The  authority shall execute contracts with coordinated care organizations that meet the
+criteria adopted by the authority under ORS 414.572 , with special consideration given to the co-
+ordinated care organization’s:
+(A) Performance on quality measures;
+(B) Financial management; and
+(C) Ability to implement  new programs, including but not limited to the bridge program
+described in ORS 414.241, the Cover All People program established in ORS 414.231 and  the
+health-related social  needs services approved for the Medicaid demonstration project under
+section 1115 of the Social Security Act (42 U.S.C. 1315) .
+(b) Contracts under this subsection are not subject to  ORS chapters 279A and 279B, except ORS
+279A.250 to 279A.290 and 279B.235.
+(3)(a) The authority shall establish financial reporting requirements for coordinated care organ-
+izations, consistent with ORS 415.115 and 731.574, no less  than 90 days before the beginning of the
+reporting period. The authority shall  prescribe requirements and procedures for financial reporting
+that:
+(A) Enable the authority to verify that the coordinated care organization’s capital, surplus, re-
+serves and other financial resources are adequate to ensure against the risk of insolvency;
+(B) Include information on the three highest executive salary and benefit packages of each co-
+ordinated care organization;
+(C) Require quarterly reports to be filed with the  authority by May 31, August 31 and November
+30;
+(D) In addition to the annual audited financial statement required by ORS 415.115,  require an
+annual report to be filed with the authority by April 30  following the end of the period for which
+data is reported; and
+(E) Align, to the greatest extent practicable, with the National Association  of Insurance
+Commissioners’ reporting forms to reduce the administrative costs of coordinated care  organizations
+that are also regulated by the Department of Consumer and  Business Services or have affiliates that
+are regulated by the department.
+(b) The authority shall  provide information to coordinated care organizations about the report-
+ing standards of  the National Association of Insurance Commissioners and provide training on the
+reporting  standards  to the staff of coordinated care organizations who will be responsible for com-
+piling the reports.
+(4) The authority shall hold coordinated care  organizations, contractors and providers account-
+able for timely submission of outcome and quality  data, including but not limited to data described
+in ORS 442.373, prescribed by the authority by rule.
+(5) The authority shall require compliance with the  provisions of subsections (3) and (4) of this
+section as a  condition of entering into a contract with a coordinated care organization. A coordi-
+nated care organization, contractor or provider that fails to comply with subsection (3) or (4) of  this
+section may be subject to sanctions, including but not limited  to civil penalties, barring any new
+enrollment in the coordinated care organization and termination of the contract.
+(6)(a) The authority shall adopt rules and procedures to ensure that  if a rural health clinic
+provides a health service  to a member of a coordinated care organization, and the rural health clinic
+is not participating in the member’s coordinated care organization, the rural health clinic  receives
+total aggregate payments from the member’s coordinated  care organization, other payers on the
+claim and the authority that are no less than the  amount the rural health clinic would receive in
+the authority’s fee-for-service payment system. The  authority shall issue a payment to the rural
+health clinic in accordance with this subsection within 45 days of receipt by the authority of  a
+completed billing form.
+(b) “Rural health clinic,” as used in this subsection, shall be defined by the authority by rule
+and shall conform,  as far as practicable or applicable in this state, to the definition of that term in
+42 U.S.C. 1395x(aa)(2).
+(7) The authority may  contract with providers other than coordinated care organizations to
+provide integrated and coordinated health care in areas that are not served by a  coordinated care
+organization or where the organization’s provider  network is inadequate. Contracts authorized by
+this subsection are not subject to  ORS chapters 279A and 279B, except ORS 279A.250 to 279A.290
+and 279B.235.
+(8) The aggregate expenditures by the authority for  health services provided pursuant to this
+chapter may not exceed the total dollars appropriated for health services under this chapter.
+(9) Actions taken by providers, potential providers, contractors  and bidders in specific accord-
+ance with this chapter in  forming consortiums or in otherwise entering into contracts to provide
+health care services  shall be performed pursuant to state supervision and shall be considered to be
+conducted at the direction of this state, shall be considered to be lawful trade practices and  may
+not be considered to be the transaction of insurance for purposes of the Insurance Code.
+(10) Health care  providers contracting to provide services under this chapter shall advise a pa-
+tient of any service,  treatment or test that is medically necessary but not covered under the con-
+tract if an ordinarily careful practitioner in the same or similar community would do  so under the
+same or similar circumstances.
+(11) A coordinated care organization shall provide information to a  member as prescribed by the
+authority by rule, including but not  limited to written information, within 30 days of enrollment with
+the coordinated care organization about available providers.
+(12) Each coordinated care organization shall work to  provide assistance that is culturally and
+linguistically appropriate to the needs of the member to  access appropriate services and participate
+in processes affecting the member’s care and services.
+(13) Each coordinated  care organization shall provide upon the request of a member or pro-
+spective member annual summaries of the organization’s aggregate data regarding:
+(a) Grievances and appeals; and
+(b) Availability and accessibility of services provided to members.
+(14) A coordinated care organization may  not limit enrollment in a geographic area based on the
+zip code of a member or prospective member.
+SECTION 11.
+Section 1 of this 2025 Act is repealed on January 2, 2037.
+SECTION 12. (1) The amendments to ORS 414.577 and  414.578 by sections 3 and 4 of this
+2025 Act apply to community health assessments conducted and community health  improve-
+ment plans adopted on or after the effective date of this 2025 Act.
+(2) The amendments to ORS 414.572, 414.598, 414.590, 414.591 and 414.609  by sections 5 to
+7, 9 and 10 of this 2025 Act apply to contracts between a coordinated care  organization and
+the Oregon Health Authority entered into, amended or renewed on  or after the operative
+date specified in section 13 of this 2025 Act.
+SECTION 13. (1) The amendments to ORS 414.609 by section 6 of  this 2025 Act become
+operative on January 1, 2026.
+(2) The Oregon Health Authority may take any  action before the operative date specified
+in subsection (1) of this section that is necessary  to enable the authority to exercise, on and
+after the operative date specified in  subsection (1) of this section, all of the duties, functions
+and powers conferred on the authority by the amendments to ORS 414.609 by section 6 of this
+2025 Act.
+SECTION 14. This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 413.022, ORS 414.577, ORS 414.578, ORS 414.598
+- From bill text (Introduced version): ORS 192.610, ORS 279A.250, ORS 292.495, ORS 315.273, ORS 411.447, ORS 413.022, ORS 413.259, ORS 413.500, ORS 413.550, ORS 414.018, ORS 414.025, ORS 414.231, ORS 414.241, ORS 414.570, ORS 414.572, ORS 414.575, ORS 414.577, ORS 414.578, ORS 414.581, ORS 414.584, ORS 414.590, ORS 414.591, ORS 414.595, ORS 414.598, ORS 414.605, ORS 414.609, ORS 414.766, ORS 415.115, ORS 442.372, ORS 442.373, ORS 442.470, ORS 678.375, ORS 731.554, ORS 731.574, ORS 732.225, ORS 732.230, ORS 750.045
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `15475a9fa28cacebbc8bc13d2cb5c8d5638259b8735915ab7b5beb6c6d47f5fc` (snapshot `_meta/snapshots/measure-2025r1-sb695-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB695/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 695> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,201 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 975
+Sponsored by Senator THATCHER
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act exempts some people from needing a criminal  background check for a private
+party gun transfer. (Flesch Readability Score: 60.1).
+Exempts a  transferee who is a certified participant in the Address Confidentiality Program, or
+who has a driver license with a continuous  traveler address, from the private firearm transfer
+criminal background check requirement.
+A BILL FOR AN ACT
+Relating to  exempting certain private firearm transfers from the criminal background check re-
+quirement; creating new provisions; and amending ORS 166.435.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 166.435 is amended to read:
+166.435. (1) As used in this section:
+(a) “Transfer” means the delivery of  a firearm from a transferor to a transferee, including, but
+not limited to, the sale,  gift, loan or lease of the firearm. “Transfer” does not include the temporary
+provision of a firearm to a transferee if the  transferor has no reason to believe the transferee is
+prohibited from possessing a firearm or intends to use the firearm in the commission of a  crime, and
+the provision occurs:
+(A) At a shooting range, shooting gallery or other area designed for  the purpose of target
+shooting, for use during target practice, a firearms safety or training course or class  or a similar
+lawful activity;
+(B) For the purpose of hunting, trapping or target shooting, during the time in  which the
+transferee is engaged in activities related to hunting, trapping or target shooting;
+(C) Under circumstances in which the transferee and the firearm are  in the presence of the
+transferor;
+(D) To a transferee who is in  the business of repairing firearms, for the time during which the
+firearm is being repaired;
+(E) To a transferee who is in the business of making  or repairing custom accessories for
+firearms, for the time during which the accessories are being made or repaired; or
+(F) For the  purpose of preventing imminent death or serious physical injury, and the provision
+lasts only as long as is necessary to prevent the death or serious physical injury.
+(b) “Transferee” means a person who is not a  gun dealer or licensed as a manufacturer or
+importer under 18 U.S.C. 923 and who intends to receive a firearm from a transferor.
+(c) “Transferor” means a person who is  not a gun dealer or licensed as a manufacturer or
+importer under 18 U.S.C. 923 and who intends to deliver a firearm to a transferee.
+(2) Except as provided in ORS  166.436 and 166.438 and subsection (4) of this section, a transferor
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 853
+SB 975
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+may not transfer a firearm to a transferee unless the transfer is completed through  a gun dealer as
+described in subsection (3) of this section.
+(3)(a) A transferor may transfer a firearm to a transferee only as provided in this section. Except
+as provided in paragraph (b) of this subsection, prior to the transfer both the transferor  and the
+transferee must appear in person before a gun dealer, with the firearm  and a valid permit-to-
+purchase issued to the  transferee under ORS 166.505, and request that the gun dealer perform a
+criminal background check on the transferee.
+(b) If the transferor and the  transferee reside over 40 miles from each other, the transferor may
+ship or deliver the firearm to a gun dealer located near the transferee or a  gun dealer designated
+by the transferee, and the transferor need not appear before the gun dealer in person.
+(c) A gun dealer who  agrees to complete a transfer of a firearm under this section shall request
+a criminal history record check on the transferee as  described in ORS 166.412 and shall comply with
+all requirements of federal law.
+(d) If, upon completion of a criminal background check, the gun dealer:
+(A) Receives a unique approval number from the Department of  State Police indicating that the
+transferee is qualified to complete the transfer, the gun dealer shall notify the transferor,  enter the
+firearm into the gun dealer’s inventory and transfer the firearm to the transferee.
+(B) Receives notification  that the transferee is prohibited by state or federal law from possessing
+or receiving the firearm or that the department is unable to determine if the transferee is qualified
+or disqualified from completing the  transfer, the gun dealer shall notify the transferor and neither
+the transferor nor the gun dealer shall transfer the firearm to the transferee. If the transferor
+shipped or delivered the firearm to the gun dealer pursuant to paragraph (b) of this subsection, the
+gun dealer shall comply with federal law when returning the firearm to the transferor.
+(e) A gun dealer may  charge a reasonable fee for facilitating a firearm transfer pursuant to this
+section.
+(4) The requirements of subsections (2) and (3) of this section do not apply to:
+(a) The transfer of a firearm by or to a law enforcement agency, or by or  to a law enforcement
+officer, private security professional or member  of the Armed Forces of the United States, while that
+person is acting within the scope of official duties.
+(b) The transfer of a firearm as part of a firearm turn-in or buyback event, in which  a law
+enforcement agency receives or purchases firearms from members of the public.
+(c) The transfer of a firearm to:
+(A) A transferor’s spouse or domestic partner;
+(B) A transferor’s parent or stepparent;
+(C) A transferor’s child or stepchild;
+(D) A transferor’s sibling;
+(E) A transferor’s grandparent;
+(F) A transferor’s grandchild;
+(G) A transferor’s aunt or uncle;
+(H) A transferor’s first cousin;
+(I) A transferor’s niece or nephew; or
+(J) The spouse or domestic partner of a person specified in subparagraphs (B) to (I) of this par-
+agraph.
+(d) The transfer of a firearm that occurs because of the death of the firearm owner,  provided
+that:
+[2]
+SB 975
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+(A) The  transfer is conducted or facilitated by a personal representative, as defined in ORS
+111.005, or a trustee of a trust created in a will; and
+(B) The transferee is related to the deceased firearm owner in a manner specified in  paragraph
+(c) of this subsection.
+(e) The transfer of a firearm to a transferee who is a certified participant in the Address
+Confidentiality Program under ORS 192.820 to 192.868.
+(f) The transfer of a firearm to a transferee with  a driver license bearing a continuous
+traveler residence address.
+(5)(a) A transferor who fails to comply with the requirements of this  section commits a Class
+A misdemeanor.
+(b) Notwithstanding paragraph (a) of this subsection, a transferor who fails  to comply with the
+requirements of this section commits a Class B felony if  the transferor has a previous conviction
+under this section at the time of the offense.
+SECTION 2.
+The amendments  to ORS 166.435 by section 1 of this 2025 Act apply to
+firearm transfers occurring on or after the effective date of this 2025 Act.
+[3]

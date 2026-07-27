@@ -1,0 +1,361 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2743
+title: 'HB 2743 (2025R1): Requires adult entertainment establishments to be registered with the Oregon
+  Liquor and Cannabis Commission in order to operate in this state.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2743
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2743/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: efc95429e0138dba98423f96af6a07149bc702d1f3df03e223e1373a04aff55d
+snapshot_id: measure-2025r1-hb2743-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 30.831
+  - ORS 659A.370
+  - ORS 659A.375
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2743
+prefix_meaning: House Bill
+catch_line: Requires adult entertainment establishments to be registered with the Oregon Liquor and Cannabis
+  Commission in order to operate in this state.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would create new laws for adult entertainment establishments. The\
+  \ Act takes effect 91 days following sine die. (Flesch Readability Score: 63.6). \n\tRequires adult\
+  \ entertainment establishments to be registered with the Oregon Liquor and Cannabis Commission in order\
+  \ to operate in this state. Directs the commission to adopt rules establishing a process for applying\
+  \ for issuance and renewals of registration. Makes registration contingent upon compliance with certain\
+  \ regulatory requirements. \n\tRequires the Department of Business and Consumer Services to make training\
+  \ available to adult entertainers and other staff who work in adult entertainment establishments. \n\
+  \tEstablishes requirements regarding the terms and conditions of leasing fee agreements entered into\
+  \ between adult entertainers and adult entertainment establishments. \n\tRequires adult entertainment\
+  \ establishments to take certain actions to protect the health and safety of adult entertainers. \n\t\
+  Takes effect on the 91st day following adjournment sine die."
+relating_to: Relating to adult entertainment establishments; prescribing an effective date.
+relating_to_full: Relating to adult entertainment establishments; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 1960
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-01-28T14:36:45'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 16416
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 30.831
+  - ORS 659A.370
+  - ORS 659A.375
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2743>.
+
+# HB 2743 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2743, 2025 Regular Session (2025R1)
+- **LC number:** 1960
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-01-28T14:36:45
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 16416 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2743/Introduced>.
+
+## Summary
+
+**Catchline:** Requires adult entertainment establishments to be registered with the Oregon Liquor and Cannabis Commission in order to operate in this state.
+
+**Relating to:** Relating to adult entertainment establishments; prescribing an effective date.
+
+Digest: The Act would create new laws for adult entertainment establishments. The Act takes effect 91 days following sine die. (Flesch Readability Score: 63.6). 
+ Requires adult entertainment establishments to be registered with the Oregon Liquor and Cannabis Commission in order to operate in this state. Directs the commission to adopt rules establishing a process for applying for issuance and renewals of registration. Makes registration contingent upon compliance with certain regulatory requirements. 
+ Requires the Department of Business and Consumer Services to make training available to adult entertainers and other staff who work in adult entertainment establishments. 
+ Establishes requirements regarding the terms and conditions of leasing fee agreements entered into between adult entertainers and adult entertainment establishments. 
+ Requires adult entertainment establishments to take certain actions to protect the health and safety of adult entertainers. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to adult entertainment establishments; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2743
+Sponsored by Representative NELSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would create new laws for  adult entertainment establishments. The Act takes
+effect 91 days following sine die. (Flesch Readability Score: 63.6).
+Requires adult entertainment establishments to be registered with the Oregon  Liquor and
+Cannabis Commission in order to operate in this  state. Directs the commission to adopt rules es-
+tablishing a process for applying for issuance and renewals of  registration. Makes registration
+contingent upon compliance with certain regulatory requirements.
+Requires the Department of Business and Consumer Services to  make training available to adult
+entertainers and other staff who work in adult entertainment establishments.
+Establishes requirements  regarding the terms and conditions of leasing fee agreements entered
+into between adult entertainers and adult entertainment establishments.
+Requires adult  entertainment establishments to take certain actions to protect the health and
+safety of adult entertainers.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to adult entertainment establishments; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+ADULT ENTERTAINMENT ESTABLISHMENTS
+(Definitions)
+SECTION 1.
+As used in sections 1 to 9 of this 2025 Act:
+(1) “Adult entertainer” means a person who engages in adult  entertainment within an
+adult entertainment establishment.
+(2) “Adult entertainment” means any live exhibition, performance or dance of any type:
+(a) In which an adult entertainer is in a state of full or partial nudity; and
+(b) That is conducted within the view of one or more members of  the public inside an
+adult entertainment establishment.
+(3) “Adult  entertainment establishment” means a business establishment that provides
+adult entertainment.
+(4) “Applicant” means  an applicant for registration or renewal of registration issued un-
+der section 2 of this 2025 Act.
+(5) “Nudity” has the meaning given that term in ORS 30.831.
+(Registration)
+SECTION 2.
+(1)(a) The Oregon Liquor and Cannabis Commission shall  establish by rule
+a system for registering adult entertainment establishments.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1960
+(b) A person may not operate an adult entertainment  establishment that has not been
+registered under this section.
+(2) The registration system  established under this section must require an applicant for
+registration to submit an application to the commission that includes:
+(a) The name of the  individual who owns the establishment or, if a business entity owns
+the establishment, the name of each individual who has a financial interest in the  establish-
+ment;
+(b) The name of the individual  or individuals responsible for the adult entertainment es-
+tablishment, if different  from the name of the individual who owns the adult entertainment
+establishment; and
+(c) The address of the adult entertainment establishment.
+(3) For purposes of this section, the commission shall adopt rules establishing:
+(a) Qualifications for an adult entertainment establishment to  be registered under this
+section, including qualifications that require each adult entertainment establishment to:
+(A) Install and maintain in all bathrooms, dressing  or locker rooms, and all private or
+semi-private enclosed spaces where an adult entertainer may be alone with a customer,
+minimum security systems with capabilities to provide a discreet way for  adult entertainers
+to alert security personnel of an immediate danger.
+(B) Ensure there is  at least one designated security personnel on-site during operating
+hours;
+(b) Processes for applying for and renewing a registration issued under this section; and
+(c) Fees for applying for issuance and renewal of a registration under this section.
+(4) A registration issued under this section must be:
+(a) Renewed annually.
+(b) Displayed on the premises of the adult entertainment establishment at all times.
+(5) The commission may inspect the premises  of adult entertainment establishments
+registered under this section to ensure compliance with the requirements under sections 2,
+5, 6 and 7 of this 2025 Act.
+(6) All applicants seeking registration or renewal shall supply  proof of compliance with
+sections 1 to 9 of this 2025 Act and any rules adopted  by the registering agency at the time
+registration is issued or  renewed. The commission by rule shall determine the manner in
+which proof of compliance must be supplied.
+(7) The commission  may refuse to issue or renew or may suspend or revoke a registra-
+tion issued under this section for failing to:
+(a) Comply with any provision of sections 1 to 9 of this 2025 Act; or
+(b) Provide proof of compliance in accordance with subsection (6) of this section.
+(8) Nothing in this section is intended to permit the commission to adopt rules  that re-
+strict adult entertainment from occurring in adult entertainment establishments  that are
+also licensed under ORS chapter 471 to serve alcohol.
+(9) All moneys  collected under this section shall be deposited in the Adult Entertainment
+Establishment Registration and Regulation Fund established under section 3  of this 2025 Act.
+SECTION 3.
+The Adult Entertainment Establishment Registration and Regulation Fund
+is established in the State  Treasury, separate and distinct from the General Fund. Interest
+earned by the Adult Entertainment Establishment  Registration and Regulation Fund shall
+be credited to the fund. Moneys in the fund are continuously appropriated to the  Oregon
+Liquor and Cannabis Commission for the purpose of carrying out the duties and obligations
+of the commission with respect to registration and oversight  of adult entertainment estab-
+lishments in this state. The fund shall consist of all moneys credited  to the fund, including
+moneys paid as registration and renewal fees under section 2 of this  2025 Act, and moneys
+appropriated by the state for  use by the commission in ensuring that adult entertainment
+establishments are in compliance with the requirements under sections 1 to  9 of this 2025
+Act.
+(Training)
+SECTION 4.
+(1) The Department of Consumer and Business Services shall develop and
+make available by or through the department a training course for:
+(a) Adult entertainers who work in adult entertainment  establishments to receive train-
+ing on:
+(A) The rights and responsibilities of adult entertainers with respect to worked per-
+formed as an employee or as an independent contractor.
+(B) The duty of adult entertainment facilities as employers to meet  the requirements
+under ORS 659A.375 regarding the  adopting of policies for reducing and preventing
+harassment, discrimination and sexual assault in the workplace, including a  process for re-
+porting prohibited conduct.
+(C) Reporting workplace injuries, including  incidents of sexual harassment and assault,
+and including sexual assault as defined in ORS 659A.370.
+(D) Human trafficking awareness and prevention.
+(b) For staff, other than adult entertainers, who work in  an adult entertainment estab-
+lishment, to receive training on:
+(A) Preventing sexual harassment and assault, including  sexual assault as defined in ORS
+659A.370, in the workplace.
+(B) Human trafficking awareness and prevention.
+(C) De-escalation techniques to prevent violence or harassment in the workplace.
+(D) Providing first aid assistance during an emergency situation.
+(2) An  adult entertainment establishment shall require staff, other than adult
+entertainers, to complete  a training course described under subsection (1)(b) of this section
+on an annual basis.
+(3) An adult entertainment establishment shall keep and  maintain records necessary to
+demonstrate compliance with this section. An adult entertainment establishment must pro-
+vide the records kept and  maintained under this section to the Oregon Liquor and Cannabis
+Commission upon the request of the commission  and in accordance with any rules regarding
+proof of compliance adopted by the commission under section 2 of this 2025 Act.
+(4) The department may adopt rules to implement the provisions of this section, including
+rules that provide a common recording form for purposes of maintaining records  under this
+section.
+(Labor standards)
+SECTION 5.
+(1) As used in this section:
+(a) “Leasing  fee” means a fixed charge or percentage rate that is paid or payable by an
+adult entertainer to an adult entertainment  establishment for the privilege to use the adult
+entertainment establishment to provide adult entertainment.
+(b) “Leasing  fee agreement” means an agreement entered into between an adult enter-
+tainment establishment and an adult entertainer reflecting the terms and  conditions of
+leasing fees.
+(c) “Percentage rate” means a percentage of the amount of any earnings collected  by the
+adult entertainer for providing adult entertainment  at an adult entertainment establishment.
+(2) Any leasing fees charged by  an adult entertainment establishment must comply with
+the requirements provided under this section.
+(3) An adult entertainment establishment may not charge an  adult entertainer a leasing
+fee unless:
+(a) The charge is made pursuant to a leasing fee agreement; and
+(b) The leasing fees are charged equally among the adult entertainers in  the adult
+entertainment establishment.
+(4) The terms and conditions of a leasing fee agreement:
+(a) May not include terms or conditions that:
+(A) Require the adult entertainer to pay additional fees or interest:
+(i) For nonpayment or a late payment of a leasing fee.
+(ii) For an adult  entertainer’s failure to appear at the adult entertainment establishment
+for a scheduled shift.
+(iii) That would result in the adult entertainer  carrying forward an unpaid balance from
+previously incurred leasing fees.
+(B) Require a leasing  fee in an amount that is greater than what the adult entertainer
+receives in earnings per shift or per day.
+(C) Require a percentage based fee that, for any eight-hour period, exceeds:
+(i) The lesser of $150 or 30  percent of the earnings collected by the adult entertainer,
+excluding earnings from adult entertainment provided in private or  exclusive areas within
+the adult entertainment establishment; or
+(ii) 30 percent of amounts collected by the entertainer for adult entertainment provided
+in a private or exclusive area within the adult entertainment establishment.
+(D) Require an adult entertainer to surrender to the adult entertainment establishment
+the tips and gratuities received by the adult entertainer.
+(b) Must describe the  method used for estimating amounts to be collected as leasing fees
+in any eight-hour period.
+SECTION 6.
+(1) Each adult entertainment establishment shall post  signage that informs
+adult entertainers that the adult entertainment establishment may not:
+(a) Require adult entertainers to surrender any tips or gratuities  collected by the
+entertainers for providing adult entertainment;
+(b) Take an adverse action against an entertainer  in response to an entertainer’s refusal
+to surrender any tips or gratuities to the adult entertainment establishment; and
+(c) Deny an adult entertainer’s request for  a written explanation of the adult enter-
+tainment establishment’s reasons for refusing to rehire the entertainer.
+(2) The signage must be posted in areas  that are designated for adult entertainers, in-
+cluding but not limited to dressing rooms and locker rooms.
+(Safety and health standards)
+SECTION 7.
+(1) Each adult entertainment  establishment must establish written policies
+and procedures maintaining a safe and healthy work place. At a minimum, the  policies must:
+(a) Establish the acceptable  and appropriate behavior between customers and adult
+entertainers.
+(b) Establish protocols for adult entertainers and other staff of  the adult entertainment
+facility to report incidents  or interactions involving customers exhibiting harassing or
+threatening behavior.
+(c) Establish protocols for reporting suspicious or criminal activity involving:
+(A) Prostitution;
+(B) Sex trafficking; and
+(C) Assault, including sexual assault as defined in ORS 659A.370.
+(d) Require  the dissemination of information to adult entertainers regarding resources
+for victims of sex trafficking.
+(e) Require adult entertainers to sign forms affirming that the entertainer:
+(A) Is not a victim of sex trafficking.
+(B) Is of legal age to provide adult entertainment; and
+(C) Is not providing adult entertainment under duress or coercion.
+(f) Require appropriate  cleaning supplies be made available in all adult entertainment
+performance areas.
+(g) Require the installation  of keypad locks or other forms of restricted access to the
+dressing rooms and locker rooms of adult entertainers.
+(2) An adult entertainment establishment shall keep  and maintain a log documenting all
+reports of customer-related issues involving the behaviors and activities  described under
+subsection (1)(b) and (c) of this section. At a minimum, the log must include identifying in-
+formation about the customer and a description of the incident.
+SECTION 8.
+The Oregon Liquor and Cannabis Commission may adopt rules  and conduct
+inspections of the premises of an adult  entertainment establishment as deemed necessary to
+ensure compliance with sections 2, 5, 6 and 7 of this 2025 Act.
+(Preemption of local laws)
+SECTION 9. (1) Sections 1 to 9 of this 2025 Act supersede all charter provisions,  ordi-
+nances, regulations and other enactments adopted  by local governments relating to adult
+entertainment establishments.
+(2) A local  government may not adopt or enforce any ordinance or regulation for adult
+entertainment establishments that:
+(a) Restricts adult entertainment establishments from serving alcohol provided that  the
+adult entertainment is a licensee under ORS chapter 471.
+(b) Limits the location or operations of adult entertainment establishments.
+(c) Imposes permitting, registration  or licensing requirements for adult entertainment
+establishments.
+APPLICABILITY
+SECTION 10.
+An adult entertainment establishment that  is in operation on or before the
+effective date of this 2025 Act must be registered in accordance with the requirements  under
+section 2 of this 2025 Act no later than January 1, 2027.
+CAPTIONS
+SECTION 11. The unit captions used in this 2025 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+OPERATIVE DATE
+SECTION 12. (1) Sections 1 to 9 of this 2025 Act become operative on January 1, 2026.
+(2) The Oregon Liquor and Cannabis  Control Commission and the Department of Con-
+sumer and Business Services may take any  action before the operative date specified in
+subsection (1) of this section that is necessary to enable the commission and the department
+to exercise, on and after the operative date specified in subsection (1) of this section, all of
+the duties, functions and powers conferred on the commission and  the department by
+sections 1 to 9 of this 2025 Act.
+EFFECTIVE DATE
+SECTION 13.
+This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 30.831, ORS 659A.370, ORS 659A.375
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `efc95429e0138dba98423f96af6a07149bc702d1f3df03e223e1373a04aff55d` (snapshot `_meta/snapshots/measure-2025r1-hb2743-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2743/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2743> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

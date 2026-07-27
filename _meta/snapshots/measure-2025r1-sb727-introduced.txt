@@ -1,0 +1,126 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 727
+Sponsored by Senator GELSER BLOUIN (at the request of Oregon Chiropractic Association) (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The  Act modifies a defined term for purposes of OLFA. (Flesch Readability Score: 61.3).
+Modifies the definition of “health care provider” for purposes of laws concerning job-protected
+leave.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to the definition of “health care  provider” for purposes of certain job-protected leave laws;
+amending ORS 659A.150; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 659A.150,  as amended by section 15, chapter 20, Oregon Laws 2024, and sec-
+tion 114, chapter 73, Oregon Laws 2024, is amended to read:
+659A.150. As used in ORS 659A.150 to 659A.186:
+(1) “Covered employer” means an employer described in ORS 659A.153.
+(2) “Eligible employee” means any employee of a covered  employer other than those employees
+exempted under the provisions of ORS 659A.156.
+(3) “Family leave” means a leave of absence described in ORS 659A.150 to 659A.186,  except that
+“family leave” does not include leave taken by an eligible employee who is unable to  work because
+of a disabling compensable injury, as defined in ORS 656.005, under ORS chapter 656.
+(4) “Family member” means:
+(a) The spouse of an eligible employee;
+(b) A child of an eligible employee or the child’s spouse or domestic partner;
+(c) A parent of an eligible employee or the parent’s spouse or domestic partner;
+(d) A sibling or stepsibling of  an eligible employee or the sibling’s or stepsibling’s spouse or
+domestic partner;
+(e) A grandparent of an eligible employee or the grandparent’s spouse or domestic partner;
+(f) A grandchild of an eligible employee or the grandchild’s spouse or domestic partner;
+(g) The domestic partner of an eligible employee; or
+(h) Any individual related by blood or affinity whose close association with an eligible  employee
+is the equivalent of a family relationship.
+(5) “Health care provider” means:
+(a) A person who is primarily responsible for providing health  care to an eligible employee or
+a family member of an eligible  employee, who is performing within the scope of the person’s pro-
+fessional license or certificate and who is:
+(A) A physician licensed under ORS chapter 677;
+(B) A physician associate licensed under ORS 677.505 to 677.525;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 642
+SB 727
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+(C) A dentist licensed under ORS 679.090;
+(D) A psychologist licensed under ORS 675.030;
+(E) An optometrist licensed under ORS 683.070;
+(F) A naturopath licensed under ORS 685.080;
+(G) A registered nurse licensed under ORS 678.050;
+(H) A nurse practitioner licensed under ORS 678.375;
+(I) A direct entry midwife licensed under ORS 687.420;
+(J) A licensed registered nurse licensed by the Oregon State Board of Nursing as a nurse prac-
+titioner specializing in nurse midwifery;
+(K) A regulated social worker authorized to practice regulated social work under ORS 675.510
+to 675.600; or
+(L) A chiropractic physician licensed under ORS 684.054[ , but only to the extent the chiropractic
+physician provides treatment consisting of manual manipulation of the spine to  correct a subluxation
+demonstrated to exist by X-rays ].
+(b) A person who is primarily responsible for the treatment  of an eligible employee or a family
+member of an eligible employee solely through spiritual  means, including but not limited to a
+Christian Science practitioner.
+(6) “Public health emergency” means:
+(a) A public health emergency declared under ORS 433.441.
+(b) An emergency declared under ORS 401.165 if related to a  public health emergency as defined
+in ORS 433.442.
+SECTION 2.
+This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

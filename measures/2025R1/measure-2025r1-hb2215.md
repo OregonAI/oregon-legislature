@@ -1,0 +1,289 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2215
+title: 'HB 2215 (2025R1): Specifies the process the Oregon Health Authority must follow in determining
+  a global budget for a coordinated care organization.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2215
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2215/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: dec75521a4f1fc99117aa9a8fcfb668689a37626a0a47a6d83bb4f2cf86a1b6d
+snapshot_id: measure-2025r1-hb2215-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 192.245
+  - ORS 192.610
+  - ORS 414.065
+  - ORS 414.577
+  - ORS 414.690
+  - ORS 414.710
+  - ORS 414.712
+  - ORS 414.766
+  - ORS 442.386
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2215
+prefix_meaning: House Bill
+catch_line: Specifies the process the Oregon Health Authority must follow in determining a global budget
+  for a coordinated care organization.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act changes the process for adopting global budgets for CCOs. (Flesch\
+  \ Readability Score: 64.9). \n\t[<i>Establishes a process for determining global budgets for coordinated\
+  \ care organizations that is similar to the rate review process for insurers.</i>]<b> Specifies the\
+  \ process the Oregon Health Authority must follow in determining a global budget for a coordinated care\
+  \ organization.</b> \n\tTakes effect on the 91st day following adjournment sine die."
+relating_to: Relating to global budgets for coordinated care organizations; prescribing an effective date.
+relating_to_full: Relating to global budgets for coordinated care organizations; creating new provisions;
+  amending ORS 414.065; and prescribing an effective date.
+at_the_request_of: (at the request of House Interim Committee on Behavioral Health and Health Care for
+  Representative Rob Nosse)
+lc_number: 2617
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-04-07T18:05:01'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 12264
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 192.245
+  - ORS 192.610
+  - ORS 414.065
+  - ORS 414.577
+  - ORS 414.690
+  - ORS 414.710
+  - ORS 414.712
+  - ORS 414.766
+  - ORS 442.386
+  from_relating_to_full:
+  - ORS 414.065
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2215>.
+
+# HB 2215 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2215, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of House Interim Committee on Behavioral Health and Health Care for Representative Rob Nosse)
+- **LC number:** 2617
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-04-07T18:05:01
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 12264 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2215/Introduced>.
+
+## Summary
+
+**Catchline:** Specifies the process the Oregon Health Authority must follow in determining a global budget for a coordinated care organization.
+
+**Relating to:** Relating to global budgets for coordinated care organizations; prescribing an effective date.
+
+Digest: The Act changes the process for adopting global budgets for CCOs. (Flesch Readability Score: 64.9). 
+ [<i>Establishes a process for determining global budgets for coordinated care organizations that is similar to the rate review process for insurers.</i>]<b> Specifies the process the Oregon Health Authority must follow in determining a global budget for a coordinated care organization.</b> 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to global budgets for coordinated care organizations; creating new provisions; amending ORS 414.065; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2215
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Behavioral Health and Health Care for Representative Rob Nosse)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes the process for adopting global  budgets for CCOs. (Flesch Readability
+Score: 64.9).
+Establishes a process for  determining global budgets for coordinated care organizations that is
+similar to the rate review process for insurers.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to global budgets for  coordinated care organizations; creating new provisions; amending
+ORS 414.065; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 and 3 of  this 2025 Act are added to and made a part of ORS
+chapter 414.
+SECTION 2. (1) When determining  a global budget for a coordinated care organization,
+the Director of the Oregon Health Authority shall publish  a proposed global budget reflecting
+the amounts that  the coordinated care organization may be paid for the delivery of, man-
+agement of, access to and quality of the health care delivered to members of the  coordinated
+care organization. A proposed global budget must include sufficient actuarial  or other ana-
+lyses, calculations or evaluations relied on by  the Oregon Health Authority to provide a
+reasonable opportunity for interested persons to be  apprised of the authority’s rationale for
+the proposed global budget. The director shall open a 30-day public comment period on the
+proposed global budget. The  director shall post all of the comments received to the
+authority’s website without delay.
+(2) After the close of the public comment period described in  subsection (1) of this sec-
+tion, the director shall issue a preliminary decision  to approve, disapprove or modify the
+proposed global budget. The director  shall notify the coordinated care organization of, and
+make available to the public, the preliminary decision, including:
+(a) An explanation of the findings and rationale that are the basis for the preliminary
+decision; and
+(b) Any actuarial or other analyses, calculations or evaluations relied on  by the director
+in arriving at the preliminary decision.
+(3) The director shall provide the coordinated care organization, or any  person adversely
+affected or aggrieved by the preliminary decision, the opportunity to  meet with the authority
+to discuss and respond to the preliminary decision. The meeting shall:
+(a) Include an authority employee who reviewed the global budget; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2617
+(b) Comply with the requirements of ORS 192.610 to 192.705.
+(4)(a) The director shall issue a proposed order, no later than 30 days  after the director
+issues a preliminary decision under subsection (2) of this section, to approve, disapprove  or
+modify the proposed global budget based on  the information submitted during the public
+comment period.
+(b) The authority shall mail the proposed order to the coordinated care  organization and
+post the proposed order to the authority’s website.
+(c) The proposed order must include:
+(A) An  explanation of the findings and rationale that are the basis for the proposed order,
+including any actuarial or other analyses, calculations or evaluations  relied on by the direc-
+tor in the director’s findings or rationale; and
+(B) Notice of  the right of the coordinated care organization or any person adversely af-
+fected or aggrieved by the proposed order to request a review  by the director, in accordance
+with subsection  (6) of this section, no later than 10 days after the date that the proposed
+order was issued.
+(5) If the coordinated care organization or a person adversely affected  or aggrieved by
+the proposed order does not timely request a  review of the proposed order by the director,
+the director shall issue a final order as described in subsection (6)(d) of this section.
+(6) If the coordinated care organization or a person adversely affected  or aggrieved by
+the proposed order timely requests a review by the director of the proposed order:
+(a) The requester may not supply new  facts or data, but may provide a brief, memoran-
+dum or analysis based on the evidence contained in the proposed global budget or  received
+and considered by the authority during the public comment period;
+(b) The director may not delegate the decision-making authority  for the request for re-
+view to any other individual;
+(c) The director shall issue a final order to approve, disapprove  or modify the proposed
+global budget no later than 30 days after the request for review is received by the director;
+and
+(d) The final order shall include:
+(A) An explanation of the findings and rationale that are the  basis for the final order;
+and
+(B) Notice of the right to a contested case hearing in accordance with ORS chapter 183.
+(7)(a) If,  following the issuance of a final order under subsection (6)(c) of this section but
+before the effective date of the global budget approved by  the final order, an event occurs
+that materially affects the director’s decision to  approve the global budget, the director may
+open a new public comment period for a period of time that  the director determines is nec-
+essary to receive comments concerning the event. Based upon the event and the public
+comments received, the director shall affirm the final  order by providing a written explana-
+tion of the basis for affirming the final order or issue a new proposed order, as  described in
+subsection (4) of this section.
+(b) In the consideration of public comments  or the event described in paragraph (a) of
+this subsection or  in issuing any new proposed order, the director may consider supplemental
+facts or data reasonably related to the event described in paragraph (a) of this subsection.
+(8) Subsections (2) to (7)  of this section do not require the director or the authority to
+perform any actuarial or other analyses, calculations or evaluations.
+SECTION 3.
+No later than December 31 of each year, the Oregon Health Authority shall
+report to the Health Care Cost Growth Target program established in ORS  442.386 and to the
+interim committees of the Legislative Assembly related to  health, in the manner provided in
+ORS 192.245, the following information  about global budgets for coordinated care organiza-
+tions developed by the authority under section 2 of this 2025 Act:
+(1) Proposed global budgets,  including any actuarial or other analyses, calculations or
+evaluations that the authority relied on in developing the proposed global budgets;
+(2) A summary  of the public comments on the proposed global budgets and a summary
+of any reviews requested by a coordinated care organization  or a person adversely affected
+or aggrieved by a proposed order under section 2 of this 2025 Act; and
+(3) Final orders adopting global budgets.
+SECTION 4.
+ ORS 414.065, as amended by section 1, chapter 18, Oregon Laws 2024, is  amended
+to read:
+414.065. (1)(a) Consistent with ORS 414.690, 414.710, 414.712 and 414.766 and section 2 of this
+2025 Act and other statutes governing the provision of and  payments for health services in medical
+assistance,  the  Oregon Health Authority shall determine, subject to such revisions as it may make
+from time to time and to legislative funding:
+(A) The  types and extent of health services to be provided to each eligible group of recipients
+of medical assistance.
+(B) Standards, including outcome and quality measures,  to be observed in the provision of health
+services.
+(C) The number of days of health services  toward the cost of which medical assistance funds
+will be expended in the care of any person.
+(D) Reasonable fees,  charges, daily rates and global payments for meeting the costs of providing
+health services to an applicant or recipient.
+(E) Reasonable fees for professional medical and  dental services which may be based on usual
+and customary fees in the locality for similar services.
+(F) The amount and application of any copayment  or other similar cost-sharing payment that the
+authority may require a recipient to pay toward the cost of health services.
+(b) The authority shall adopt rules establishing timelines for  payment of health services under
+paragraph (a) of this subsection.
+(2) In making the determinations  under subsection (1) of this section and in the imposition of
+any utilization controls on access to health services, the authority may not consider a  quality of life
+in general measure, either directly or by considering a  source that relies on a quality of life in
+general measure.
+(3) The types and extent of health services and the amounts to be paid in meeting the costs
+thereof,  as  determined and fixed by the authority and within the limits of funds available therefor,
+shall be the total available for medical  assistance, and payments for such medical assistance shall
+be the  total amounts from medical assistance funds available to providers of health services in
+meeting the costs thereof.
+(4) Except for  payments under a cost-sharing plan, payments made by the authority for medical
+assistance shall constitute  payment in full for all health services for which such payments of medical
+assistance were made.
+(5) Notwithstanding subsection  (1) of this section, the Department of Human Services shall be
+responsible  for  determining the payment for Medicaid-funded long term care services and for con-
+tracting with the providers of long term care services.
+(6) In determining a global budget for  a coordinated care organization  pursuant to section 2
+of this 2025 Act :
+(a) The allocation of the payment, the risk and any cost  savings shall be determined by the
+governing body of the organization;
+(b) The authority shall consider the community health  assessment conducted by the organization
+in accordance with ORS  414.577 and reviewed annually, and the organization’s health care costs;
+and
+(c) The authority shall take into account the organization’s provision of  innovative, nontradi-
+tional health services.
+(7) Under the  supervision of the Governor, the authority may work with the Centers for Medi-
+care and Medicaid Services to develop, in addition to global budgets, payment streams:
+(a) To support improved delivery of health care to recipients of medical assistance; and
+(b) That are funded by coordinated care organizations, counties  or other entities other than the
+state whose contributions qualify for federal matching funds under Title XIX or  XXI of the Social
+Security  Act.
+SECTION 5.
+Sections 2 and 3 of this  2025 Act apply to global budget determinations for
+coordinated care organizations initiated on or after the operative date specified in section 6
+of this 2025 Act.
+SECTION 6. (1) Sections 2 and 3 of this 2025 Act become operative on January 1, 2026.
+(2) The Oregon Health Authority may take any  action before the operative date specified
+in subsection (1) of this section that is necessary  to enable the authority to exercise, on and
+after the operative date specified in  subsection (1) of this section, all of the duties, functions
+an powers conferred on the authority by sections 2 and 3 of this 2025 Act.
+SECTION 7. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 414.065
+- From bill text (Introduced version): ORS 192.245, ORS 192.610, ORS 414.065, ORS 414.577, ORS 414.690, ORS 414.710, ORS 414.712, ORS 414.766, ORS 442.386
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `dec75521a4f1fc99117aa9a8fcfb668689a37626a0a47a6d83bb4f2cf86a1b6d` (snapshot `_meta/snapshots/measure-2025r1-hb2215-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2215/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 from <https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2215> (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+
