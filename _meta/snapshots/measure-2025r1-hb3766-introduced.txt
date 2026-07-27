@@ -1,0 +1,87 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3766
+Sponsored by Representatives CHAICHI, HARTMAN, TRAN; Representative WRIGHT, Senators JAMA,  MANNING
+JR, PATTERSON, THATCHER
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act lets a plaintiff sue a person who sends an intimate image to the plaintiff’s de-
+vice. (Flesch Readability Score: 70.1).
+Allows a plaintiff to bring a civil action against a  person who transmits an intimate image to
+the plaintiff’s computer or electronic device in certain circumstances.
+A BILL FOR AN ACT
+Relating to claims for transmission of intimate images.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As  used in this section, “intimate image” means an image depicting
+sexual conduct as defined in ORS 167.051 or uncovered human genitals.
+(2) A  plaintiff may bring a civil action against a person 18 years of age or older who
+transmits an  intimate image by computer or other electronic means to the computer or
+other electronic communication device of the plaintiff, if:
+(a) The person transmitted the intimate image with the intent to harass, degrade  or
+humiliate the plaintiff and without the consent of the plaintiff;
+(b) The person knew or reasonably should  have known that the plaintiff did not consent
+to the transmission of the image;
+(c) The plaintiff is harassed, degraded or humiliated by the transmission  of the image;
+and
+(d) A reasonable person would be harassed, degraded  or humiliated by the transmission
+of the image.
+(3) A plaintiff who prevails in an action under this section may recover the greater of:
+(a) Economic and noneconomic damages, as those terms are defined in ORS 31.705; or
+(b) $____.
+(4) The court shall award reasonable attorney fees to a plaintiff who prevails  in an action
+under this section.
+(5) An action under this section must be commenced not later than two  years after the
+conduct that gives rise to the claim.
+(6) A person may not bring a claim under this section against:
+(a) An Internet service provider, mobile data provider or operator of  an online or mobile
+application, to the extent that the provider or operator is transmitting, routing  or providing
+connections for electronic communications initiated by or at the direction of another;
+(b) A service that transmits an intimate image, including an  on-demand, subscription or
+advertising-supported service; or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2062
+HB 3766
+1
+2
+3
+4
+5
+(c) A health care provider that transmits an intimate image  for a legitimate medical
+purpose.
+SECTION 2.
+Section 1 of  this 2025 Act applies to claims that arise under section 1 of this
+2025 Act on or after the effective date of this 2025 Act.
+[2]

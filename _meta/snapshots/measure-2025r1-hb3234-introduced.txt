@@ -1,0 +1,119 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3234
+Sponsored by Representative NATHANSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Lets the Attorney General look into or sue a health insurer that breaks the law in cer-
+tain ways. (Flesch Readability Score: 66.3).
+Authorizes the Attorney General, at the Attorney General’s own initiative, but in  consultation
+and cooperation with the Director of the Department of  Consumer and Business Services, to inves-
+tigate and bring an action against a health insurer or affiliate of a health  insurer in a court of this
+state to enforce a violation of the antitrust laws of this state, to obtain damages, a civil penalty or
+restitution, and to enjoin an act or practice that constitutes a monopoly, a business combination  in
+restraint of trade or commerce or a substantial reduction or elimination of competition or compet-
+itors within a region  or market of this state, or that otherwise constitutes an unlawful trade prac-
+tice.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to business practices that  reduce access to health care in this state; amending ORS 731.256;
+and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 731.256 is amended to read:
+731.256. (1) The Director of  the Department of Consumer and Business Services may institute
+actions or other lawful proceedings that the director deems necessary to enforce a provision of  the
+Insurance Code or any order or action the director makes or takes in pursuance of law.
+(2) As part of or in addition to any action or proceeding the  director institutes against an
+insurer under subsection (1) of this section, the director may:
+(a) Seek restitution on a consumer’s behalf for actual damages the consumer suffers as a  result
+of the insurer’s violation of a provision of the Insurance  Code or applicable federal law or the
+insurer’s breach of an insurance contract or policy the insurer has with the consumer; and
+(b) Seek other equitable relief the director deems appropriate under the circumstances.
+(3) If the director has reason to believe that a person has violated a provision of the  Insurance
+Code or another law that applies to insurance operations, and if  the violation is subject to criminal
+prosecution and in the opinion of the director criminal  prosecution is warranted, the director shall
+give the information about  the violation to the Attorney General or district attorney that has ju-
+risdiction over the violation. The Attorney General or district attorney promptly shall institute an
+action or a proceeding against the person as the information requires or justifies.
+(4) An action  or proceeding that the director institutes under subsection (1) of this section is
+an exercise of the director’s regulatory authority and, except as otherwise provided  in subsection
+(3) or (5)  of this section, does not create a cause of action for any other person.
+(5)(a) As used in this subsection:
+(A) “Affiliate” has the meaning given that term in ORS 732.548.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1775
+HB 3234
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+(B) “Health insurance” has the meaning given that term in ORS 731.162.
+(b) If an insurer that issues health  insurance, or an affiliate of the insurer, violates ORS
+646.725 or 646.730 or reduces timely consumer access to health care by an act or practice that
+constitutes a monopoly,  a business combination in restraint of trade or commerce or a sub-
+stantial reduction or elimination of competition or competitors within  a region or market
+of this state, or that otherwise constitutes an unlawful trade practice,  the Attorney General,
+in addition to bringing any action under subsection (3)  of this section that is appropriate or
+warranted, may at the  Attorney General’s own initiative but in consultation and cooperation
+with the director:
+(A) Investigate the violation or the act or practice as provided in  ORS 646.618 or 646.750,
+as is appropriate for the violation or for the act or practice;
+(B) Bring an action in a  court of this state under ORS 646.632 to enjoin the act or prac-
+tice or under ORS 646.760 or  646.780, as appropriate, to obtain equitable relief, damages, civil
+penalties or other relief; or
+(C) Bring an action in a court of this state  to obtain relief on behalf of another person
+as provided in ORS 646.775.
+(c) The  director shall cooperate with and provide information to the Attorney General
+that may enable or assist the Attorney  General with an investigation or action described in
+paragraph (b) of this subsection.
+SECTION 2.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

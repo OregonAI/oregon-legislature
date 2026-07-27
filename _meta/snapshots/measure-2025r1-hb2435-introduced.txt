@@ -1,0 +1,85 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2435
+Sponsored by Representative YUNKER;  Representatives BOICE, WRIGHT, Senators NASH, SMITH DB (Presession
+filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells the SOS  to publish a monthly report on voter data in each county. Specifies the
+data to be included in the report. (Flesch Readability Score: 66.4).
+Requires the Secretary of State to publish a monthly statistical report on voter registrations  for
+each county in this state. Specifies the statistical information to be included in the monthly report.
+A BILL FOR AN ACT
+Relating to monthly statistical report on voter registrations.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Secretary of State shall publish each month on  the website main-
+tained by the secretary a  statistical report on voter registrations for each county in this
+state.
+(2) The report published under  subsection (1) of this section must include, for the pre-
+ceding month:
+(a) The number of registration cards, as defined in ORS 247.002, received;
+(b) The number of registration cards rejected;
+(c) The number of voter registration transactions as follows:
+(A) New voter registrations;
+(B) Address changes;
+(C) Political party affiliation changes; and
+(D) Name changes;
+(d) The number of registration cancellations for the following reasons:
+(A) Residential address changes outside of the county;
+(B) Death; and
+(C) Any other reason identified by the secretary in the report; and
+(e) The number of political party affiliations, listed by political party, as of the end of  the
+reporting period, including:
+(A) Active registrations;
+(B) Inactive registrations; and
+(C) Total number of active and inactive registrations.
+(3) The secretary shall establish by rule the process by which each  county clerk in this
+state shall provide each month to the secretary the information required under subsection
+(2) of this section to be published in the report required under  subsection (1) of this section.
+SECTION 2.
+(1) Section 1 of this 2025 Act becomes operative on July 1, 2026.
+(2) The Secretary of State may take any action before the operative date  specified in
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1204
+HB 2435
+1
+2
+3
+4
+subsection (1) of this section that is necessary for the secretary to  exercise, on and after the
+operative date specified in subsection (1)  of this section, all of the duties, functions and
+powers conferred on the secretary by section 1 of this 2025 Act.
+[2]

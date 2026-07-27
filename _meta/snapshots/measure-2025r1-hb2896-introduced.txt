@@ -1,0 +1,358 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2896
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes changes to the education goals of this state. (Flesch Readability Score: 75.5).
+Modifies the educational goals  of the state to take into consideration students’ aspirations, to
+provide students with a well-rounded education and  to provide students with sufficient instructional
+time to meet students’  educational goals. Expands the state’s mission of education beyond high
+school.
+A BILL FOR AN ACT
+Relating to state educational goals; amending ORS 326.011, 329.015, 329.025, 329.045 and 350.014.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 326.011 is amended to read:
+326.011. In establishing policy for the administration and operation of the public elementary and
+secondary schools in the  State of Oregon and in carrying out its duties as prescribed by law, the
+State Board of Education shall consider the goals of modern education, the requirements  of a sound,
+comprehensive curriculum best suited to the needs and aspirations of the students and the  public
+and any other factors consistent with the maintenance of a modern and efficient elementary  and
+secondary school system.
+SECTION 2.  ORS 329.015 is amended to read:
+329.015. (1) The Legislative Assembly believes that education is a major civilizing influence  on
+the development of a  humane, responsible and informed citizenry, able to adjust to and grow in a
+rapidly changing world. Students must be encouraged to  learn of their heritage and their place in
+the global society. The Legislative Assembly concludes that these goals  are not inconsistent with
+the goals to be implemented under this chapter.
+(2) The Legislative Assembly believes that the goals of kindergarten through grade  12 education
+are:
+(a) To equip students with the academic and career skills and information  necessary to pursue
+the future of their choice through a well-rounded program of rigorous [ academic preparation] liberal
+arts academics  and career readiness;
+(b) To provide an environment  that motivates , supports and inspires students to pursue serious
+scholarship and to have experience in applying knowledge and skills and demonstrating
+achievement , whether in technical pursuits, academic pursuits, artistic pursuits  or other
+pursuits;
+(c) To provide students with the skills necessary  to pursue learning throughout their lives in
+an ever-changing world; [ and]
+(d) To prepare students for successful transitions to the next phase of their  educational
+development[ .]; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1762
+HB 2896
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) To ensure that all students have the  opportunity to earn a high school diploma, a
+modified diploma or any other credential equivalent to a high school diploma.
+SECTION 3.
+ ORS 329.025 is amended to read:
+329.025. It  is the intent of the Legislative Assembly to maintain a system of public elementary
+and secondary schools that allows students,  parents, teachers, administrators, school district boards
+and the State Board of Education to be accountable for the  development and improvement of the
+public school system. The public school system shall have the following characteristics:
+(1) Provides equal  and open access and educational opportunities for all students in the state
+regardless of their linguistic background, culture, race, gender, capability or geographic location;
+(2) Assumes that all students can learn  and establishes high, specific skill and knowledge ex-
+pectations and recognizes individual differences at all instructional levels;
+(3) Provides  each student an education experience that supports academic growth beyond profi-
+ciency in established academic content standards and encourages  students to attain aspirational
+goals that are individually challenging;
+(4) Provides special  education, compensatory education, linguistically and culturally appropriate
+education and other specialized programs to all students who need those services;
+(5) Supports the physical and cognitive growth and development of students;
+(6) Provides students with a solid foundation in the skills of reading, writing, problem  solving
+and communication;
+(7) Provides opportunities for students to learn, think, reason,  retrieve information, use tech-
+nology and work effectively alone and in groups;
+(8) Provides for rigorous academic content standards  and instruction in mathematics, science,
+language arts, history, geography, economics, civics,  higher education and career path skills, per-
+sonal financial education, physical education, health, the arts and world languages;
+(9) Provides [ increased] sufficient learning time;
+(10) Provides students an educational background [ to the end that they will ] that enables them
+to function successfully in a constitutional republic, a  participatory democracy and a multicultural
+nation and world;
+(11) Provides students with the knowledge and skills that will  provide the opportunities to suc-
+ceed in the world of work, as members of families and as citizens;
+(12) Provides students with the knowledge and skills that lead to an active, healthy lifestyle;
+(13) Provides students with the knowledge  and skills to take responsibility for their decisions
+and choices;
+(14) Provides opportunities for students to learn through a variety of teaching strategies;
+(15) Emphasizes involvement of parents and the community in the total education of students;
+(16) Transports children safely to and from school;
+(17) Ensures that the funds allocated to schools reflect the uncontrollable differences in costs
+facing each district;
+(18) Ensures  that local schools have adequate control of how funds are spent to best meet the
+needs and aspirations of students in their communities; and
+(19) Provides for a safe, educational environment.
+SECTION 4.
+ ORS 329.045 is amended to read:
+329.045. (1)(a) In order to achieve the goals contained in ORS 329.025, the State Board of Edu-
+cation shall regularly  and periodically review and revise its Common Curriculum Goals, performance
+indicators and diploma requirements.
+[2]
+HB 2896
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) The review and revision conducted under this section shall:
+(A) Include Essential Learning Skills and rigorous academic content  standards in mathematics,
+science, language arts, history, geography, economics, civics, higher education  and career path
+skills, personal financial education, physical education, health, the arts and world languages.
+(B) Involve teachers  and other educators, parents of students and other citizens and shall pro-
+vide ample opportunity for public comment.
+(C) [ Encourage increased ] Provide for sufficient  learning time. As used in this  subparagraph,
+[“increased learning time” ] “sufficient learning time” means a schedule that encompasses a
+[longer] school day,  week or year [ for the purpose of increasing the ] that provides a sufficient  total
+number of school hours [ available to provide ] to enable :
+(i) Students [ with] to receive instruction in core academic subjects, including  mathematics, sci-
+ence, language arts, history, geography, economics, civics, higher education and career path skills,
+personal financial education, the arts and world languages;
+(ii) Students [ with] to receive instruction in subjects other than the subjects identified in sub-
+subparagraph (i) of this subparagraph, including health and physical education;
+(iii) Students [ with] to have  the opportunity to participate  in enrichment activities that con-
+tribute to a well-rounded education, including learning opportunities that  may be based on service,
+experience or work and that may be provided through partnerships with other organizations; and
+(iv) Teachers [ with] to have  the opportunity to collaborate, plan and engage in  professional
+development within and across grades and subjects.
+(c) Nothing in this subsection prevents a school district or  public charter school from main-
+taining control over course content, format, materials and teaching methods.
+(2) The State Board of Education shall continually review and revise all adopted academic con-
+tent standards necessary for students to successfully transition to the next phase of their education.
+(3)(a) School  districts and public charter schools must offer students instruction in mathematics,
+science, language arts, history, geography, economics, civics, higher education  and career path
+skills, personal financial education, physical education, health, the arts and world languages.
+(b) Instruction required under paragraph (a) of this subsection must:
+(A) Meet the academic content standards adopted by the State Board of Education; and
+(B) Meet the  requirements adopted by the State Board of Education and the board of the school
+district or public charter school.
+SECTION 5.
+ ORS 329.045, as amended by  section 1, chapter 202, Oregon Laws 2019, section 6,
+chapter  178, Oregon Laws 2021, section 1, chapter 328, Oregon Laws 2023, and section 7, chapter
+564, Oregon Laws 2023, is amended to read:
+329.045. (1)(a) In order to achieve the goals contained in ORS 329.025, the State Board  of Edu-
+cation shall regularly  and periodically review and revise its Common Curriculum Goals, performance
+indicators and diploma requirements.
+(b) The review and revision conducted under this section shall:
+(A) Include Essential Learning  Skills and rigorous academic content standards in mathematics,
+science, language arts, history,  geography, economics, civics, higher education and career path
+skills, personal financial education, physical education, health, the arts and world languages.
+(B) Ensure that the academic content standards for history, geography,  economics and civics
+include sufficient instruction on the histories, contributions and perspectives of individuals who:
+(i) Are Native American;
+(ii) Are of African, Asian, Pacific Island, Chicano, Latino, Middle Eastern or Jewish descent;
+[3]
+HB 2896
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(iii) Are women;
+(iv) Have disabilities;
+(v) Are immigrants or refugees; or
+(vi) Are lesbian, gay, bisexual or transgender.
+(C) Involve teachers  and other educators, parents of students and other citizens and shall pro-
+vide ample opportunity for public comment.
+(D) [ Encourage increased ] Provide for sufficient  learning time. As used in this subparagraph,
+[“increased learning time” ] “sufficient learning time” means a schedule that encompasses a
+[longer] school day,  week or year [ for the purpose of increasing the ] that provides a sufficient  total
+number of school hours [ available to provide ] to enable :
+(i) Students [ with] to receive instruction in core academic subjects, including  mathematics, sci-
+ence, language arts, history, geography, economics, civics, higher education and career path skills,
+personal financial education, the arts and world languages;
+(ii) Students [ with] to receive  instruction in subjects other than the subjects  identified in sub-
+subparagraph (i) of this subparagraph, including health and physical education;
+(iii) Students [ with] to have  the  opportunity to participate in enrichment activities that con-
+tribute to a well-rounded education, including  learning opportunities that may be based on service,
+experience or work and that may be provided through partnerships with other organizations; and
+(iv) Teachers  [ with] to have  the opportunity to collaborate, plan and engage in professional
+development within and across grades and subjects.
+(c) Nothing in this subsection prevents  a school district or public charter school from main-
+taining control over course content, format, materials and teaching methods.
+(2) The State Board of Education shall continually review and revise all adopted academic con-
+tent standards necessary for students to successfully transition to the next phase of their education.
+(3)(a) School  districts and public charter schools must offer students instruction in mathematics,
+science, language arts, history,  geography, economics, civics, higher education and career path
+skills, personal financial education, physical education, health, the arts and world languages.
+(b) Instruction required under paragraph (a) of this subsection must:
+(A) Meet the academic content standards adopted by the State Board of Education; and
+(B) Meet the  requirements adopted by the State Board of Education and the board of the school
+district or public charter school.
+SECTION 6.
+ ORS 350.014 is amended to read:
+350.014. (1) The Legislative Assembly  declares that the mission of all education beyond high
+school in Oregon includes ensuring that [ by 2025, when adult Oregonians complete their education ]:
+(a) [ At least 40 percent have earned ] All Oregon high  school graduates are given the oppor-
+tunity to attain  a bachelor’s degree or higher;  and
+(b) [ At least 40 percent have earned ] All Oregon high school graduates are given the oppor-
+tunity to attain  an associate’s degree or a post-secondary  credential as their highest level of edu-
+cational attainment . [ ; and ]
+[(c) The remaining 20 percent or less have earned a high school diploma, an extended  or modified
+high school diploma or the equivalent of a high school diploma as their highest  level of educational
+attainment.]
+(2) The earning of a post-secondary credential described in subsection (1)(b) of this section may
+be satisfied by [ adult Oregonians ] Oregon high school graduates  who have completed apprentice-
+ship programs registered with the State Apprenticeship and Training Council.
+[4]
+HB 2896
+1
+[5]

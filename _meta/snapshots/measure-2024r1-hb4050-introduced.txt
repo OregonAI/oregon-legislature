@@ -1,0 +1,165 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4050
+Sponsored by Representative BOSHART DAVIS,  Senators STEINER, MEEK; Representatives ELMER, LEVY E,
+Senators BONHAM, WOODS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act removes an exception to the state law concerning pay equity requirements. The
+Act changes the law to add to the list of factors that an employer can use  as a reason for a pay
+differential. The Act becomes effective when the Governor signs it. (Flesch Readability  Score: 64.3).
+Provides factors upon which compensation differentials may be based for  an employer to law-
+fully pay employees who perform work of comparable character at different compensation levels.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to compensation differentials under pay  equity requirements; amending ORS 652.220; and
+declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 652.220 is amended to read:
+652.220. (1) It is an unlawful employment practice under ORS chapter 659A for an employer to:
+(a) In any manner discriminate between employees on the basis of a protected class in the  pay-
+ment of wages or other compensation for work of comparable character.
+(b) Pay wages or other  compensation to any employee at a rate greater than that at which the
+employer pays wages or other compensation  to employees of a protected class for work of compa-
+rable character.
+(c) Screen job applicants based on current or past compensation.
+(d) Determine compensation for a position  based on current or past compensation of a prospec-
+tive employee. This paragraph is not intended to prevent an employer from considering  the com-
+pensation of a current employee of the employer during a transfer, move or  hire of the employee to
+a new position with the same employer.
+(2) Notwithstanding subsection (1) of this section:
+(a) An employer may pay employees for work of comparable character at different  compensation
+levels if all of the difference in compensation levels is based on [ a bona fide factor ] one  or more
+of the following factors  that [ is] are related to the position in question [ and is based on ]:
+(A) A seniority system;
+(B) A merit system;
+(C) A system that measures earnings by quantity or quality of  production, including piece-rate
+work;
+(D) Workplace locations;
+(E) Travel, if travel is necessary and regular for the employee;
+(F) Education;
+(G) Training;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 8
+HB 4050
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+(H) Experience; or
+[(I) Any combination of the factors described in this paragraph, if the  combination of factors ac-
+counts for the entire compensation differential. ]
+(I) A bona fide factor:
+(i) Other than an employee’s protected class status;
+(ii) That is consistent with a business necessity; and
+(iii) That fulfills the underlying business purpose of the business necessity.
+(b) An employer may pay employees for work of comparable character at different  compensation
+levels on the basis of one or more  of the factors listed in paragraph (a) of this subsection that are
+contained in a collective bargaining agreement.
+(c) An employer may not rely on the bona fide factor described in paragraph  (a)(I) of this
+subsection to justify a compensation  differential if an employee demonstrates the existence
+of alternative business policies or practices that would equally fulfill the same business pur-
+poses as those fulfilled by the  bona fide factor, without producing a compensation differen-
+tial. For purposes of this subsection, “business necessity” means an overriding legitimate
+business purpose.
+(3) An employer may not in any manner discriminate in the payment of  wages or other com-
+pensation against any employee because the employee has filed a complaint under  ORS 659A.820 or
+in a proceeding under ORS 652.210 to 652.235 or 659A.885 or has testified, or is about to testify, or
+because the employer believes that  the employee may testify, in any investigation or proceedings
+pursuant to ORS 652.210 to 652.235, 659A.830 or 659A.885 or in a criminal  action pursuant to ORS
+652.210 to 652.235.
+(4) An employer may not reduce the compensation level of an employee to  comply with the
+provisions of this section.
+(5) It is not a violation  of this section for an employer to pay a different level of compensation
+to an employee who:
+(a) Pursuant  to a claim for a compensable injury under ORS chapter 656, receives wages for
+modified work; or
+(b) As a result of a medical condition, is temporarily performing modified work that is:
+(A) Authorized by a medical professional licensed under ORS chapter 677; or
+(B) Requested by the  employee and authorized by the employer in a manner that does not dis-
+criminate against employees on the basis of a protected class.
+(6) Amounts owed to an employee because of the failure of the employer to comply with the
+requirements of this section are unpaid wages.
+(7) An employee who asserts a violation under this section  may file a complaint with the Com-
+missioner of  the Bureau of Labor and Industries under ORS 659A.820, a civil action under ORS
+652.230 or a civil action under 659A.885.
+(8) An employer shall post a notice of the requirements of this  section in every establishment
+where employees work. The Bureau of Labor and Industries shall make available to employers  a
+template that meets the required notice provisions of this section.
+SECTION 2.
+This 2024 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2024 Act takes effect
+on its passage.
+[2]

@@ -1,0 +1,124 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3625
+Sponsored by Representative EVANS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The  Act says that a public safety agency can charge a fee to an entity that uses a lot
+of services. (Flesch Readability Score: 64.6).
+Allows a public safety agency to charge fees to an entity that overuses the public safety ser-
+vices of the agency. Allows the public safety agency to request that the  governing body of the ju-
+risdiction in which the entity  is located issue a notice to the entity about the overuse of public
+safety services. Requires the  governing body to allow the entity an opportunity to cure the overuse.
+Allows the governing body to petition  the Secretary of State to take action against the entity for
+failure to cure the overuse. Requires a public safety agency that imposes fees to annually  report to
+the interim committees of the Legislative Assembly related to public safety.
+Sunsets on January 2, 2031.
+A BILL FOR AN ACT
+Relating to public safety.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1)(a) A public  safety agency, as defined in ORS 181A.355, may establish
+standards for the typical number of calls for public safety services to which the  public safety
+agency responds and the typical public safety services required in response to calls. The
+public safety agency may impose fees on an entity that, in the determination of the public
+safety agency, makes calls in excess of  the typical number of calls or that require public
+safety services in excess of those typically required in response to a call.
+(b) A public safety agency that establishes standards and imposes fees  under this sub-
+section shall publish on a website operated by or on behalf of the public safety  agency the
+standards and fee schedule established under this subsection.
+(2)(a) A public safety agency may, after  receiving calls from an entity in excess of the
+typical number of calls established under  subsection (1) of this section or that require public
+safety services in excess of the typical  public safety services required as established in sub-
+section (1) of this section,  request that the governing body of the local jurisdiction in which
+the entity is  located issue a notice in writing to the entity that the entity has overused public
+safety services. The governing body may publish  a copy of the notice issued under this sub-
+section on a website operated by or on behalf of the governing body.
+(b) A governing body shall establish a reasonable period of time in which an entity that
+receives a notice issued under this subsection has an opportunity  to cure the overuse of
+public safety services,  and shall publish information about the period of time on the website
+described in this subsection.
+(3)(a) If, after the  period of time described in subsection (2) of this section, the entity
+does not cure the overuse of public safety  services to the satisfaction of the governing body,
+the governing body may petition the Secretary of State to:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3839
+HB 3625
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+(A) If the entity is  a corporation or limited liability company, administratively dissolve
+the corporation under ORS 60.647 or the limited liability company under ORS 63.647;
+(B) If the entity is a foreign corporation or foreign limited  liability company, revoke the
+authority of the foreign corporation to transact business in this state  under ORS 60.737 or
+of the foreign limited liability company to transact business in this state under ORS 63.737;
+(C) If the entity is a limited partnership  or foreign limited partnership, inactivate the
+certificate of limited partnership or the  registration of the foreign limited partnership under
+ORS 70.430;
+(D) If the entity is a business trust, inactivate the trust instrument  of the business trust
+under ORS 128.597; or
+(E) If the entity is a nonprofit corporation  or foreign nonprofit corporation, administra-
+tively dissolve  the nonprofit corporation under ORS 65.647 or revoke the authority of the
+foreign nonprofit corporation to transact business in this state under ORS 65.737.
+(b) The overuse of public safety services described in subsection (2) of this section  by an
+entity is grounds for the Secretary of State to  take an action listed in paragraph (a) of this
+subsection against the entity.
+(4) Not later than September 15 of each year, a public  safety agency that collects fees
+pursuant to a schedule described in subsection (1) of this section shall submit  a report in the
+manner required in  ORS 192.245 to the interim committees of the Legislative Assembly re-
+lated to public safety. The report must include the fee schedule established by the  public
+safety agency and the total amount of fees collected  in the year immediately preceding the
+report.
+SECTION 2.
+Section 1 of this 2025 Act is repealed on January 2, 2031.
+[2]

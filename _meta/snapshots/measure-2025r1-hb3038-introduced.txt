@@ -1,0 +1,994 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3038
+Introduced and printed pursuant to  House Rule 12.00. Presession filed (at the request of Governor Tina Kotek for
+Department of Education)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes many changes in laws that relate to education in this state.  (Flesch Readability
+Score: 67.7).
+Adjusts purposes and eligible recipients of grants related to STEM education.
+Clarifies the method for  funding approved recovery schools that are also public charter schools.
+Provides that children who have a 504 Plan or who are deaf, hard of hearing or deaf-blind  may
+attend the Oregon School for the Deaf.
+Prescribes requirements related to comprehensive safety programs in schools.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to education; creating new provisions; amending ORS 327.372, 327.380,  336.071, 338.155,
+338.165, 346.010, 346.015, 346.035, 346.041, 346.070 and 346.091; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+STEM INVESTMENT COUNCIL AND STEM GRANTS
+SECTION 1.
+ ORS 327.372 is amended to read:
+327.372. (1) Activities  related to science, technology, engineering and mathematics education and
+activities  related  to career and technical education that can lead to high wage and high demand jobs
+shall be funded as provided by this section.
+(2) The  Department of Education shall distribute moneys in the Connecting Education to Ca-
+reers Account established by ORS 327.376 as follows:
+(a) Forty percent for activities related to science,  technology, engineering and mathematics ed-
+ucation that are described in subsection (3) of this section. Moneys shall  be distributed by the de-
+partment under this paragraph based on recommendations of the STEM Investment Council.
+(b) Sixty percent for  activities related to career and technical education that can lead to high
+wage and high demand jobs and that are described in subsection (4) of this section. Moneys  shall
+be distributed by  the department under this paragraph based on recommendations of the committee
+established under ORS 344.075.
+(3) Moneys distributed as provided by subsection (2)(a) of  this section to fund activities related
+to science, technology, engineering and mathematics education shall be used to:
+(a) [Expand and sustain regional networks that support ] Sustain a network of  entities that are
+designated by regional partners to:
+(A) Sustain and expand education in science, technology,  engineering and mathematics[ .]; and
+(B) Coordinate  efforts described in subparagraph (A) of this paragraph with regional
+partners that  support career and technical education and with local workforce development
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 530
+HB 3038
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+boards.
+(b) Award  grants [ that] to an entity that is part of the network described in paragraph (a)
+of this subsection to:
+(A) Expand the implementation of effective programs related  to science, technology, engineering
+and mathematics[ , that];
+(B) Propose innovative approaches or programs related to science, technology, engineering and
+mathematics [ or that ]; or
+(C) Provide professional development related to teaching science, technology, engineering  and
+mathematics.
+(c) Provide funding  to recruit, retain and support underserved students, as defined by the State
+Board of Education by rule, for programs that :
+(A) Are offered [ at] by entities that are part of the network  described in paragraph (a) of
+this subsection in collaboration with  community colleges and public universities [ and that];
+(B) Can lead to high wage and high demand  jobs related to science, technology, engineering and
+mathematics[.]; and
+(C) Are in alignment with regional labor market  needs and with regional career and
+technical education programs.
+[(d) Develop a  systematic survey of facility use to determine how savings for science, technology,
+engineering and mathematics education can be achieved. ]
+[(e)] (d) Fund any  other activities related to science,  technology,  engineering and mathematics
+education that are identified by the STEM Investment Council.
+(4) Moneys distributed as provided by subsection (2)(b) of  this section to fund activities related
+to career and technical education that can lead to  high wage and high demand jobs shall be used
+for:
+(a) Programs that expose students to career and technical education programs  that can lead to
+high wage and high demand jobs.
+(b) Career and Technical Education Revitalization grants awarded under ORS 344.075.
+(c) Student leadership  organizations related to career and technical education programs that can
+lead to high wage and high demand jobs.
+(d) Distribution to school districts to support  career and technical education programs in the
+school district that are approved by the Department of Education  as being high quality and that can
+lead to high wage and high demand jobs. Moneys  must be distributed to each school and public
+charter school in the school district based on the number of  students enrolled at the school with the
+following characteristics:
+(A) Students who are enrolled in and earned  three or more credits for courses that are part of
+a career and technical education program that  can lead to high wage and high demand jobs and that
+are approved by the Department of Education.
+(B) Students who acquire an industry credential that can lead to a high wage and high  demand
+job and that is approved by the Department of Education.
+(C) Students described in subparagraph (A) or (B) of this paragraph who are historically  under-
+served, as defined by the State Board of Education by rule.
+(e) Administration of  grants for the purpose of expanding teacher training programs and oppor-
+tunities related  to career and technical education that can lead to high wage and high demand jobs.
+(f) Administration of a pilot program to increase students’ exposure and  access to career and
+technical education that can lead to high wage and high demand jobs.
+[2]
+HB 3038
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(g) Funding any other activities related to career and technical education  that can lead to high
+wage and high demand jobs and that are identified by the committee established under ORS 344.075.
+(5) Except as otherwise provided,  moneys distributed under subsections (3) and (4) of this section
+shall be  distributed to school districts, education service districts, public schools, public charter
+schools, community colleges, public universities or statewide nonprofit organizations promoting  stu-
+dent leadership in career and technical education or any combination thereof or in partnership with
+youth job development organizations,  as defined in ORS 344.415, other nonprofit organizations or
+other entities identified by the State Board of Education by rule.
+(6) From the moneys available under subsection (2) of  this section, the Department of Education,
+the STEM Investment Council and the committee established under ORS 344.075 combined  may re-
+tain no more  than a total of five percent of all moneys distributed for a fiscal year for administrative
+expenses incurred under this section.
+(7) The Department of Education, in collaboration with the STEM  Investment Council and the
+committee established under ORS 344.075, shall submit a biennial  report to the Legislative Assembly
+related to distributions made under this section. The  report must include metrics that identify how
+distributions made under  this section are contributing to the development of a skilled workforce that
+is able to secure high wage and high demand jobs.
+SECTION 2.
+ ORS 327.380 is amended to read:
+327.380. (1) The  STEM Investment Grant Program is established to provide funding to school
+districts, community colleges and public  universities listed in ORS 352.002 to advance the goals de-
+scribed in ORS 326.500 (2).
+(2) The STEM Investment Council shall evaluate grant applications and make  recommendations
+on the applications to the Superintendent of Public Instruction. Under the direction of  the Super-
+intendent of Public  Instruction, the Department of Education shall distribute moneys for the grant
+program and otherwise administer the grant program.
+(3)(a) An application for a grant awarded under this section may be submitted by:
+[(A) A school district; ]
+[(B) A community college district; ]
+[(C) A public university; ]
+[(D) The Department of Education; ]
+[(E) The Higher Education Coordinating Commission; ]
+[(F) Any other state agency; or ]
+[(G) Any combination of entities identified in this paragraph that are organized  as a partnership
+or a regional effort to  improve student achievement in science, technology, engineering or
+mathematics.]
+(A) An entity that is part of the  network of entities that is designated by regional part-
+ners to:
+(i) Sustain and expand education  in science, technology, engineering and mathematics;
+and
+(ii) Coordinate efforts described in sub-subparagraph (i) of  this subparagraph with re-
+gional partners that support career and technical education and  with local workforce devel-
+opment boards; or
+(B) A fiscal agent  on behalf of an entity described in subparagraph (A) of this paragraph.
+(b) A grant awarded under this section may be used for:
+(A) Classroom or extracurricular activities that further the development of skills related to
+[3]
+HB 3038
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+science, technology, engineering or mathematics; or
+(B) A project that is :
+(i) Related to science, technology, engineering or mathematics and  that involves collaboration
+with a private entity[ .];
+(ii) Designed to increase the awareness of potential  careers in science, technology, engi-
+neering or mathematics; or
+(iii) Designed to make  connections between learning science, technology, engineering or
+mathematics and career opportunities in science, technology, engineering or mathematics.
+(4) When evaluating applications for a grant, the council:
+(a) Shall give priority to applications for activities or projects that produce the largest impact
+at the lowest cost or for the greatest number  of students throughout this state, including grants for
+activities or projects that:
+(A) Are determined by the council to be likely to become self-supporting within three years;
+(B) Expand evidence-based, effective  practices in science, technology, engineering or mathemat-
+ics;
+(C) Can be replicated by other entities in this state;
+(D) Show evidence of attracting matching funds;
+[(E) If the applicant is an entity identified in subsection (3)(a)(A) to (C) of this section,  have de-
+monstrable support from the governing body of the entity; ]
+[(F)] (E) Help improve access  by underrepresented groups to activities that involve science,
+technology, engineering or mathematics; or
+[(G)] (F) Are elements of a partnership or a regional effort to improve student achievement  in
+science, technology, engineering or mathematics;
+(b) May give priority to applications for activities or projects that benefit students in  more than
+one student group among students in kindergarten through grade  12, students in community colleges
+and students in universities;
+(c) Shall attempt to achieve a balance, as determined  by the council, among grants that are
+awarded for the sole benefit of students in kindergarten through grade 12, students in community
+colleges and students in universities; and
+(d) Shall take into consideration geographic and demographic diversity.
+SECTION 3.
+The amendments to ORS 327.380 by section 2 of  this 2025 Act apply to grant
+applications submitted on or after the effective date of this 2025 Act.
+APPROVED RECOVERY SCHOOLS
+SECTION 4.  ORS 338.155 is amended to read:
+338.155. (1)(a) Except as provided by paragraph (d)  of this subsection,  students of a public
+charter school [ shall be ] are considered to be residents of the school district  in which the public
+charter school is located for purposes of distribution of the State School Fund.
+(b) All amounts to be distributed from the  State School Fund for public charter schools shall
+first be distributed to the school district in which the public charter school is located.
+(c) For the purpose of determining the amounts  to be distributed to a school district from the
+State School Fund for  a public charter school, the district extended ADMw described in ORS 327.013
+shall be calculated:
+(A) Except as provided by subparagraph (B) or (C) of this paragraph, as though the  students
+[4]
+HB 3038
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+enrolled at a public charter school are students enrolled at the public schools  of the school district
+in which the public charter school is located.
+(B) By  not including any portion of the ADM of the public charter school for the previous school
+year if  the public charter school ceased to operate because of dissolution or closure or because of
+termination or nonrenewal of a charter.
+(C) By calculating the current school year’s ADMw separately for  a virtual public charter
+school and for the school district if  the school district, without consideration of the ADM of the
+virtual public charter school, had a decrease in ADM or ADMw compared to the previous  school
+year.
+(d) Students who are enrolled in a public charter school  that is an approved recovery
+school under ORS 336.680 are not  considered residents of the school district in which the
+public charter school is located for purposes of distribution of the State School Fund.  A
+public charter school that is an approved recovery school shall be funded as  provided by ORS
+336.680.
+(2) A school district shall contractually establish,  with any public charter school that is spon-
+sored by the board of the school district, payment for provision of educational services to  the public
+charter school’s students. The payment shall equal an amount per weighted average daily  member-
+ship (ADMw) of the public charter school that is at least equal to:
+(a) Eighty percent of the amount of the school district’s General Purpose Grant per ADMw as
+calculated under ORS 327.013 for students who are enrolled  in kindergarten through grade eight;
+and
+(b) Ninety-five percent of the amount of the school district’s General  Purpose Grant per ADMw
+as calculated under ORS 327.013 for students who are enrolled in grades 9 through 12.
+(3) A school district shall contractually establish,  with any public charter school that is spon-
+sored by the State Board of  Education and that is within the boundaries of the school district,
+payment for  provision of educational services to the public charter school’s students. The payment
+shall equal an amount per weighted average daily  membership (ADMw) of the public charter school
+that is at least equal to:
+(a) Ninety percent of the amount of the school district’s General Purpose Grant per  ADMw as
+calculated under ORS 327.013 for students  who are enrolled in kindergarten through grade eight;
+and
+(b) Ninety-five percent of the amount of the school district’s General  Purpose Grant per ADMw
+as calculated under ORS 327.013 for students who are enrolled in grades 9 through 12.
+(4) The estimated amount of each school district’s  General Purpose Grant per ADMw shall be
+determined each year by the Department of Education and made available to all school districts.
+(5) The school district in which the public charter school is  located shall transfer an amount
+per weighted average  daily membership (ADMw) of the public charter school that is equal to 50
+percent of the amount of the school  district’s General Purpose Grant per ADMw as calculated under
+ORS 327.013 that is not paid to the public charter school through a contract created pursuant  to
+subsection (3) of this section to the Department of Education.
+(6) The department may use any moneys received  under this section for activities related to
+public charter schools.
+(7) A school district and a public charter school may negotiate  to establish a payment for the
+provision of educational services to the public charter  school’s students that is more than the min-
+imum amounts specified in subsection (2) or (3) of this section.
+[5]
+HB 3038
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(8) A school district  shall send payment to a public charter school based on a contract negoti-
+ated under  this section within 10 days after receiving payments from the State School Fund pursuant
+to ORS 327.095.
+(9)(a) A public charter  school may apply for any grant that is available to school districts or
+nonchartered public schools from the Department of Education. The  department shall consider the
+application of the public charter school in  the same manner as an application from a school district
+or nonchartered public school.
+(b) The department shall award any grant that is available to school districts  based solely on
+the weighted average daily membership (ADMw)  of the school district directly to the public charter
+school. This paragraph does not apply to any grant from the State School Fund.
+SECTION 5.
+ ORS 338.165 is amended to read:
+338.165. [(1)(a)] (1) Except as  provided by ORS 336.680 for public charter schools that are
+approved recovery schools:
+(a) The school district  in which a public charter school is located shall identify, locate and
+evaluate students enrolled in the public charter school to determine which  students may be in need
+of special education and related services.
+(b) The school district in which a public charter school is located:
+(A) Shall receive funding from the State School Fund as provided by this section for students
+who are eligible for special education and related services  and who are enrolled in the public
+charter school; and
+(B) Is eligible to receive high cost disabilities grants as provided by  ORS 327.348 for students
+who are enrolled in the public charter school.
+(c) Students who are eligible for special education and related services shall  be considered stu-
+dents of the school district in which the public charter school  is located for purposes of data col-
+lection and reporting.
+(2) If a student is enrolled in a  public charter school and is eligible for special education and
+related services, an additional amount shall be added to the ADM of the  public charter school as
+described in ORS  327.013 (1)(c)(A)(i). The payment per ADMw in the public charter school that is
+attributable to the student who is eligible for  special education and related services shall equal an
+amount that is at least equal to:
+(a) 40 percent of the amount of the General  Purpose Grant per ADMw for the school district in
+which the public charter school is located, as calculated  under ORS 327.013, for students who are
+enrolled in kindergarten through grade eight; and
+(b) 47.5 percent of the amount of the General  Purpose Grant per ADMw for the school district
+in which the public charter school is located, as calculated under ORS 327.013, for  students who are
+enrolled in grades 9 through 12.
+(3) If the State Board of Education is the sponsor of a public charter  school, the school district
+in which the  public charter school is located, for each ADMw that is attributable to a student en-
+rolled in a public charter school  who is eligible for special education and related services, shall
+transfer five percent of the amount  of the school district’s General Purpose Grant per ADMw as
+calculated under ORS 327.013 to the State Board of Education.
+(4) Notwithstanding subsection (2) of this section, a school district and a  public charter school
+may negotiate on a case-by-case basis for an alternative distribution of funds other than the  dis-
+tribution prescribed by subsection (2) of this section.
+(5) Payments under this section must be made within 10 days after a  school district receives
+[6]
+HB 3038
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+payment from the State School Fund pursuant to ORS 327.095.
+SECTION 6.
+(1) The amendments to ORS 338.155 and  338.165 by sections 4 and 5 of this
+2025 Act first apply to the 2024-2025 school year.
+(2) For the 2024-2025 school year, the Department of Education  shall adjust the distrib-
+ution to a school district to reflect any differences in the amount to be distributed  under
+ORS 338.155 and 338.165 and the amount to be distributed under ORS 336.680 for a public
+charter school that is an approved recovery school.
+OREGON SCHOOL FOR THE DEAF
+SECTION 7.
+ ORS 346.010 is amended to read:
+346.010. (1) Pursuant to rules of the  State Board of Education, the Superintendent of Public In-
+struction shall provide free training and education services in a school located in Marion County
+for children who are deaf , hard of hearing or deaf-blind .
+(2) The Superintendent of  Public Instruction shall indicate which facilities shall serve as the
+Oregon School for the Deaf.
+(3) The superintendent may order a change in all or part in the purpose and use of the facilities
+available under this section  whenever the superintendent determines that a change in purpose and
+use will better enable the state to meet its responsibilities  for the education and training of children
+who are deaf , hard of hearing or deaf-blind .
+(4) The school shall be operated  primarily for the provision of education and training services
+for children  who are deaf , hard of hearing or deaf-blind and who cannot be efficiently served in
+other schools or programs.
+SECTION 8.
+ ORS 346.015 is amended to read:
+346.015. (1) Prior to convening a meeting to prepare an individualized education program or an
+education plan developed in accordance with section 504 of the Rehabilitation Act of 1973, 29
+U.S.C. 794,  for a child  with an intellectual disability or a developmental disability for whom place-
+ment at the school operated under  ORS 346.010 may be considered, the agency that is providing the
+education for the child shall notify the local community developmental disabilities program.  The
+case manager responsible for programs  for children with intellectual disabilities or developmental
+disabilities, in consultation with the  Department of Human Services, shall evaluate whether the
+child also has needs for alternative residential  care or other support services. If the evaluation de-
+termines this to be the case, but documents that community resources are not  available to meet
+these needs,  the school district may proceed with the meeting to prepare the individualized educa-
+tion program or education plan in which  placement at the school operated under ORS 346.010 may
+be considered.
+(2) An agency providing education under subsection (1) of this section may initiate the proce-
+dure in subsection (1) of this section for any child who  does not have an intellectual disability or
+a developmental disability when in the agency’s judgment a treatment or residential  issue is
+prompting proposed placement under ORS 346.010.
+(3) A child may not be placed in the school operated under ORS  346.010 unless the district su-
+perintendent or the superintendent’s designee has signed a statement declaring that :
+(a) For a child with an individualized education program,  the district cannot provide a  free
+appropriate public education for the child  commensurate with the needs of the child as identified
+by the individualized education program of the child and that the school is  the least restrictive en-
+[7]
+HB 3038
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+vironment in which the child can be educated.
+(b) For a child with an education plan developed in accordance with section  504 of the
+Rehabilitation Act of  1973, 29 U.S.C. 794, the district cannot make reasonable accommo-
+dations for the child commensurate  with the needs of the child as identified in the education
+plan of the child.
+(4) By rule, the State Board of Education shall determine procedures to be followed  by local
+education agencies in carrying out this section.
+SECTION 9.
+ ORS 346.035 is amended to read:
+346.035. For a child who is enrolled under ORS 346.010 and who has an  intellectual disability
+or a developmental disability, the Department of Education shall notify the community develop-
+mental disabilities program of the date of the annual review of the  individualized education program
+or the education plan developed in accordance with  section 504 of the Rehabilitation Act of
+1973, 29 U.S.C. 794, of the child for the purpose of including in  the review the assigned case
+manager’s assessment of community resources that are available for  treatment or residential needs
+the child might have.
+SECTION 10.
+ ORS 346.041 is amended to read:
+346.041. (1) Transportation for  pupils attending the school operated under ORS 346.010 is the
+responsibility of the pupil’s  resident school district. The district may provide transportation directly
+or by agreement with another school district, a public carrier or the Department of Education.
+(2) The actual and necessary transportation expenses incurred under subsection (1)  of this sec-
+tion, at a frequency  consistent with a pupil’s individualized education program or the education
+plan developed in accordance with section 504 of the Rehabilitation Act of 1973 , 29 U.S.C. 794,
+shall be considered approved transportation costs for purposes of ORS 327.006 and 327.033.
+(3) The resident school district  shall reimburse the Department of Education for all transporta-
+tion costs the department incurs on behalf of the district within  10 days after receipt of the itemized
+invoice.
+(4) The payments of the resident school districts required under  subsection (3) of this section
+and an amount  specifically appropriated thereto shall be deposited in the State Treasury to the
+credit of the Special Education Transportation Revolving Account to be used by the Department  of
+Education  for  the transportation of pupils attending the school operated under ORS 346.010. The
+account shall be continuously appropriated to the department for such purpose.
+(5) Any unexpended and unobligated  balance in the Special Education Transportation Revolving
+Account in excess of $70,000 as of  September 1 of any year shall be transferred from the account
+to the General Fund to be available for general governmental purposes.
+SECTION 11.  ORS 346.070 is amended to read:
+346.070. (1) Subject to  subsection (3) of this section, every student who is deaf , hard of hearing
+or deaf-blind and  who has been a resident of Oregon for the three years immediately preceding
+application and who is attending any university, college or  other suitable school is eligible to apply
+for a state grant-in-aid to help defray approved expenses. If the student’s application  for a grant-in-
+aid is approved by the Superintendent of Public Instruction, the Department of Education may  make
+the grant-in-aid contingent upon the student’s attending a school of the superintendent’s choice.
+(2) The grants-in-aid shall not exceed $1,000  to any student for any fiscal year and shall be paid
+out of any funds appropriated to the  department for that purpose. The State Board of Education may
+adopt rules necessary to carry out this section.
+(3) A student who is deaf , hard of  hearing or deaf-blind  may not receive a grant-in-aid under
+[8]
+HB 3038
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+subsection (1) of this section for a period exceeding seven years.
+SECTION 12.
+ ORS 346.091 is amended to read:
+346.091. (1) As used in this section, “school district” means a common or union high school
+district, an education service district, a state-operated school or any legally  constituted combination
+of such entities.
+(2) The Legislative Assembly finds and declares that children who are  deaf, hard of hearing or
+deaf-blind who utilize one or more modes  of communication have the same rights and potential as
+children who are not deaf, hard of hearing or deaf-blind.
+(3) School districts shall:
+(a) Provide children who are deaf, hard of hearing or deaf-blind appropriate  screening and as-
+sessment of hearing and  vision capabilities and communication and language needs at the earliest
+possible age and the continuation  of screening and evaluation services throughout the educational
+experience.
+(b) Provide children who are deaf, hard of hearing or deaf-blind with individualized  and appro-
+priate early  intervention to support the acquisition of solid language bases developed at the earliest
+possible  age.
+(c) Inform the parents or guardians of children who are deaf,  hard of hearing or deaf-blind about
+all relevant services and programs and placement considerations, including the Oregon School  for
+the Deaf, and provide  opportunities for parents and guardians to fully participate in the development
+and implementation of their child’s education plan.
+(d) Strive to provide children who are deaf,  hard of hearing or deaf-blind opportunities to meet
+and associate with adult role  models who are deaf, hard of hearing or deaf-blind and who utilize
+varied communication modalities to learn advocacy skills, including self-advocacy.
+(e) Provide children who are deaf, hard of hearing or deaf-blind opportunities to meet and as-
+sociate with their peers in the school environment and during school-sponsored activities.
+(f) Provide direct instruction to children who are deaf, hard of hearing or deaf-blind.
+(g) Ensure  individualized education programs or education plans developed in accordance
+with section 504 of the Rehabilitation Act of 1973, 29  U.S.C. 794, that are developed, reviewed
+and revised for children who are deaf, hard of hearing or deaf-blind  include communication and ed-
+ucational  plans.
+(h) Provide children who are deaf, hard of  hearing or deaf-blind placement that is best suited to
+each child’s individual needs including, but  not limited to, social, emotional, communication and
+cultural needs, with  consideration for the each child’s age, degree and type of hearing loss, academic
+level, mode of communication, style of learning, motivational level and amount of family support.
+(i) Provide children who are  deaf, hard of hearing or deaf-blind individual considerations for
+free, appropriate education or for reasonable accommodations across a  continuum of placement
+options required by law.
+(j) Provide children who are deaf, hard of hearing or deaf-blind full  support services provided
+by qualified and certified professionals in their educational settings.
+(k) Provide children who are deaf,  hard of hearing or deaf-blind full communication access to
+all programs in the child’s educational settings including, but not limited to,  extracurricular activ-
+ities, recess, lunch, media showings, driver education and public announcements.
+(L) Ensure that parents and guardians of children who are deaf, hard of  hearing or deaf-blind
+receive  information  from appropriately qualified and certified professionals on the medical, ethical,
+cultural and linguistic issues concerning individuals who are deaf, hard of hearing or deaf-blind.
+[9]
+HB 3038
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(m) Ensure that  children who are deaf, hard of hearing or deaf-blind have direct access to
+mental health and supporting services  from qualified and certified providers fluent in the child’s
+primary mode of communication, including American Sign Language.
+EMERGENCY DRILLS AND INSTRUCTION
+SECTION 13.
+(1) As used in this section:
+(a) “Evacuate” means a procedure used when  students and staff need to move from one
+location to another.
+(b) “Hold” means a procedure used to keep students and staff in classrooms  while a dis-
+ruption or minor emergency is resolved.
+(c) “Lockdown” means a procedure used when a threat or hazard is inside the building.
+(d) “Secure” means a procedure used when a threat or hazard is outside the building.
+(e) “Shelter in place” is a procedure used to respond to and take protective  actions based
+on a  threat or hazard that may include an earthquake, tsunami or other natural or envi-
+ronmental hazard.
+(2) Each  school district must maintain a comprehensive safety program for all students
+and staff. The program must include procedures for:
+(a) Responding to emergency situations that address an immediate  threat to safety, in-
+cluding an evacuation, a hold, a lockdown, a secure and a shelter in place;
+(b) Providing communicable disease management;
+(c) Responding to medical emergencies; and
+(d) Providing instruction as described in ORS 336.071.
+(3) The State Board  of Education may adopt rules related to a program required under
+this section, including prescribing any additional requirements for the program.
+SECTION 14.
+ ORS 336.071 is amended to read:
+336.071. (1) All schools are required to instruct and drill students on emergency procedures so
+that the students can  respond to an emergency without confusion or panic. The emergency proce-
+dures shall include drills and instruction on:
+(a) Fires;
+(b) Earthquakes, which shall include tsunami drills and instruction in schools in a tsunami haz-
+ard zone; and
+(c) Safety threats , as identified in section 13 (2)(a) of this 2025 Act .
+(2)(a) Drills and instruction on fire emergencies shall include routes and methods of exiting the
+school building.
+(b) Drills and instruction on earthquake emergencies shall include the earthquake emergency
+response procedure known as “drop, cover and hold on.” A  school may drill earthquake emergency
+response procedures in addition to “drop, cover and hold on” when  the school determines, based on
+evaluation of specific engineering and  structural issues related to a building, that “drop, cover and
+hold on” may not be the most effective earthquake emergency response procedure to prevent or limit
+injury or loss of life.
+(c) Drills and instruction on tsunami emergencies shall include immediate evacuation after an
+earthquake when appropriate or after a tsunami warning  to protect students against inundation by
+tsunamis.
+(d) Drills and instruction on safety threats shall include:
+[10]
+HB 3038
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+(A) Procedures related  to evacuation, hold, lockdown, [ lockout,] secure and  shelter in place
+[and evacuation ], as those terms  are defined in section 13 of this 2025 Act,  including the proce-
+dures described in ORS 339.324; and
+(B) Other appropriate actions to take when there is a threat to safety.
+(3)(a) At least 30 minutes in each school month shall  be used to instruct students on the emer-
+gency procedures described  in subsection (1) of this section  and at least one drill shall be con-
+ducted each month .
+(b) At least two drills on earthquakes shall be conducted each year.
+(c) At least [ two drills on safety threats ] one drill on each safety threat  shall be conducted
+each year.
+(d) In schools in a tsunami hazard zone, at least three drills on earthquakes and tsunamis shall
+be conducted each year.
+(4)(a) In addition to  the instruction required under subsection (3) of this section, schools are
+encouraged to instruct students, in an  age-appropriate manner, on preparing for and recovering from
+events that are:
+(A) Described in subsection (1) of this section; and
+(B) Natural disasters specific to  the region where the school is located, including any relevant
+weather-related events such as flooding, drought or excessive snowfall.
+(b) For the purpose of this subsection, the Department of Education shall:
+(A) Develop, in consultation  with the Oregon Department of Emergency Management, guidance
+that may be used for the instruction and make the guidance available to school districts; and
+(B) Provide, when requested, professional development to teachers and administrators  relating
+to the guidance.
+(5) All schools shall maintain all exit doors so that the doors can be opened from  the inside
+without a key during school hours.
+(6) Units of local  government and state agencies associated with emergency procedures training
+and planning shall:
+(a) Review emergency procedures proposed by schools  under section 13 of this 2025 Act ; and
+(b) Assist schools in the instruction and drilling of students in emergency procedures.
+(7) As used in this section, “school” means any:
+(a) Kindergarten through grade 12 public or private school; or
+(b) Educational institution having an average daily attendance of 50 or more students.
+SECTION 15.
+The amendments to ORS  336.071 by section 14 of this 2025 Act first apply
+to the 2025-2026 school year.
+MISCELLANEOUS
+SECTION 16. The unit captions used in this 2025 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+SECTION 17. This 2025 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[11]

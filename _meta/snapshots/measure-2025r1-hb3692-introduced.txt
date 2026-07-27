@@ -1,0 +1,197 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3692
+Sponsored by Representative RESCHKE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act  ends the mandate that some health insurers and OHP cover gender-affirming
+health care. (Flesch Readability Score: 61.8).
+Repeals the requirement that certain health insurers and  medical assistance programs provide
+health care benefits for gender-affirming health care services.
+A BILL FOR AN ACT
+Relating to gender-affirming care; amending ORS 243.144 and 243.877 and section  59, chapter 228,
+Oregon Laws 2023; and repealing ORS 414.769 and  743A.325 and sections 21 and 22, chapter 228,
+Oregon Laws 2023.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ORS 414.769 and 743A.325 and sections 21 and 22, chapter  228, Oregon Laws
+2023, are repealed.
+SECTION 2.  ORS 243.144, as amended by section 9, chapter 17, Oregon Laws 2024, is  amended
+to read:
+243.144. Benefit plans offered by the Public Employees’ Benefit Board that reimburse the  cost
+of medical and other health services and supplies must comply with  the requirements for health
+benefit plan coverage described in:
+(1) ORS 743A.058;
+(2) ORS 743A.140;
+(3) ORS 743A.141;
+(4) ORS 743B.256;
+(5) ORS 743B.287 (4);
+(6) ORS 743B.420;
+(7) ORS 743B.423;
+(8) ORS 743B.601;
+(9) ORS 743B.810; and
+[(10) ORS 743A.325; and ]
+[(11)] (10) ORS 743A.051 (2)(c).
+SECTION 3.
+ ORS  243.144, as amended by sections 9 and 10, chapter 17, Oregon Laws 2024, is
+amended to read:
+243.144. Benefit  plans offered by the Public Employees’ Benefit Board that reimburse the cost
+of medical and other health  services and supplies must comply with the requirements for health
+benefit plan coverage described in:
+(1) ORS 743A.058;
+(2) ORS 743A.140;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4398
+HB 3692
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) ORS 743A.141;
+(4) ORS 743B.256;
+(5) ORS 743B.287 (4);
+(6) ORS 743B.420;
+(7) ORS 743B.423;
+(8) ORS 743B.601;  and
+(9) ORS 743B.810[ ; and ]
+[(10) ORS 743A.325 ].
+SECTION 4.
+ ORS 243.877, as amended by section 11, chapter 17, Oregon Laws 2024,  is amended
+to read:
+243.877. Benefit  plans offered by the Oregon Educators Benefit Board that reimburse the cost
+of medical and other health  services and supplies must comply with the requirements for health
+benefit plan coverage described in:
+(1) ORS 743A.058;
+(2) ORS 743A.140;
+(3) ORS 743A.141;
+(4) ORS 743B.256;
+(5) ORS 743B.287 (4);
+(6) ORS 743B.420;
+(7) ORS 743B.423;
+(8) ORS 743B.601;
+(9) ORS 743B.810; and
+[(10) ORS 743A.325; and ]
+[(11)] (10) ORS 743A.051 (2)(c).
+SECTION 5.
+ ORS 243.877, as amended by sections 11 and 12, chapter 17, Oregon Laws  2024, is
+amended to read:
+243.877. Benefit  plans offered by the Oregon Educators Benefit Board that reimburse the cost
+of medical and other health  services and supplies must comply with the requirements for health
+benefit plan coverage described in:
+(1) ORS 743A.058;
+(2) ORS 743A.140;
+(3) ORS 743A.141;
+(4) ORS 743B.256;
+(5) ORS 743B.287 (4);
+(6) ORS 743B.420;
+(7) ORS 743B.423;
+(8) ORS 743B.601;  and
+(9) ORS 743B.810[ ; and ]
+[(10) ORS 743A.325 ].
+SECTION 6.
+ Section 59, chapter 228, Oregon Laws 2023, is amended to read:
+Sec. 59.  [(1) Section 20 of this 2023 Act applies to  health benefit plans issued, renewed or extended
+on or after January 1, 2024. ]
+[(2) Section 24 of this 2023 Act applies  to medical assistance provided and to contracts with coor-
+dinated care organizations for periods beginning on or after January 1, 2024. ]
+[(3) The amendments to ORS 243.144 and 243.877 by sections 25 and 26 of this  2023 Act apply to
+[2]
+HB 3692
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+health benefit plans  offered by the Public Employees’ Benefit Board or the Oregon Educators Benefit
+Board that are issued, renewed or extended on or after January 1, 2024, and for self-insured  health
+benefit plans in effect for periods beginning on or after January 1, 2024. ]
+[(4)] (1) [ Sections 31 and 35 of this 2023 Act ] ORS 676.313 and 678.138  and the amendments to
+ORS 675.070, 675.540, 675.745, 677.190, 677.225, 677.320, 678.111, 685.110 and 689.405  by sections 31a
+to 33, 36 to 38 and 51 , chapter 228, Oregon Laws 2023,  [of this 2023  Act ] apply to reproductive and
+gender-affirming health care services provided on or after [ the effective date of this  2023 Act ] July
+13, 2023.
+[(5)] (2) The  amendments to ORS 659A.029 by section 47 , chapter 228, Oregon Laws 2023, [of
+this 2023 Act ] apply to unlawful employment discrimination occurring before, on or after [ the effective
+date of this 2023 Act ] July 13, 2023 .
+[3]

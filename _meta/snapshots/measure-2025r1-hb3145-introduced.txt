@@ -1,0 +1,202 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3145
+Sponsored by Representative MARSH, Senator ANDERSON, Representatives DIEHL, BOWMAN;  Representatives
+FRAGALA, LEVY E, MANNIX, Senator TAYLOR (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act lets OHCS use  LIFT money for prefab homes and makes OHCS hire a con-
+tractor to support the prefab home industry. (Flesch Readability Score: 69.1).
+Allows the Housing and Community Services Department to use Local  Innovation and Fast
+Track Housing Program Fund moneys for factory-built housing. Requires the  department to hire a
+contractor to support the  factory-built housing industry. Requires the department to report on out-
+comes to  the interim committees of the Legislative Assembly related to housing by September 15,
+2027.
+Sunsets January 2, 2028.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to factory-produced housing; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 to 5 of this 2025  Act are added to and made a part of ORS 458.480
+to 458.490.
+SECTION 2. (1) As used in sections 2 to 5 of this 2025 Act:
+(a) “Factory-produced housing” means housing that is  produced through off-site con-
+struction of the housing or housing components, and that includes manufactured dwellings,
+as defined in ORS 446.003, prefabricated  structures, as defined in ORS 197A.015, or other
+types of housing developed through volumetric modular, panelized modular or other modular
+components.
+(b) “Low income households” includes, notwithstanding the definition in  ORS 458.480, for
+housing that may be rented, households of one or more individuals  whose combined incomes
+are at or below 80 percent of the area median income.
+(2) The Housing and Community  Services Department shall use moneys available in the
+Local Innovation and Fast Track Housing Program Fund  to provide funding to acquire or
+construct factory-produced housing for low income households consistent  with the require-
+ments of ORS 458.480 to 458.490.
+(3) The department may provide funding  for up to five separate recipients or locations
+under this section.
+(4) In awarding funding under this section, in addition  to applying criteria adopted under
+ORS 458.485 (4)(a), the department may give preference to funding housing that:
+(a) Uses Oregon-based developers;
+(b) Is geographically diverse, including coastal and eastern Oregon communities, or  is
+sited in more than one location;
+(c) Can benefit from, and provide a benefit to, the industry support intentions of the ad-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1880
+HB 3145
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+visory group under section 4 (2)(b) of this 2025 Act; or
+(d) Uses materials that:
+(A) Is nontraditional, including mass timber;
+(B) Provide energy efficiency, carbon capture or other environmental benefits;
+(C) Are produced in Oregon; or
+(D) Are raw materials sourced from Oregon.
+(5) In developing application criteria or evaluating applications for funding provided under
+this section, the department shall consult with the  advisory group under section 4 (2)(b) of
+this 2025 Act and not the  Oregon Housing Stability Council, notwithstanding ORS 458.485 (1).
+(6) Recipients of funding under this section must cooperate with  the department in pre-
+paring the report required under section 5 of this 2025 Act.
+SECTION 3.
+(1) In  addition to the uses allowed under ORS 458.490 (3), moneys in the
+Local Innovation and Fast Track Housing Program Fund are continuously  appropriated to
+the Housing and Community Services Department to take actions under section 2 of this 2025
+Act.
+(2) To the  extent that moneys are available in the fund and are not otherwise obligated
+and that eligible applications to provide housing are available for funding, it is intended that,
+for the biennium beginning July 1, 2025, the amount of $50,000,000 from the fund be used  for
+purposes described in subsection (1) of this section.
+SECTION 4. (1) The Housing and Community  Services Department shall contract with
+one or more consultants or other organizations to carry out the provisions of this section.
+(2) The contractor under this section shall:
+(a) Provide engagement, education, training and technical assistance needed throughout
+the supply chain, including assistance provided to housing developers, contractors, archi-
+tects, engineers, factory operators, local governments, research institutions, capital provid-
+ers, transport providers, consumers and the department.
+(b) Convene a public-private advisory group to assist applicants  for or recipients of
+funding described in section 2 of this 2025 Act by:
+(A) Providing technical resources to assist  with navigating regulatory frameworks, in-
+novating project delivery mechanisms, determining technical feasibility,  incorporating
+sustainability and resiliency into design and supporting equity and inclusion within  the in-
+dustry.
+(B) Providing systems for the transfer of knowledge  necessary to set the industry up for
+success beyond the housing developed through the use of moneys under section  2 of this 2025
+Act.
+(c) Support industry and consumer awareness by  showcasing factory-produced housing
+in multiple Oregon communities and building a constituency for innovative housing  methods
+and materials.
+(d) Identify sources of ongoing funding to continue the activities under this subsection.
+(3) The contractor shall assist the department in preparing the report  required under
+section 5 of this 2025 Act.
+(4) All agencies of  state government, as defined in ORS 174.111, are directed to assist the
+contractor in performance of the duties of the contractor under this section.
+SECTION 5.
+On or before September 15, 2027, the Housing and Community Services De-
+partment shall  submit a report in the manner provided by ORS 192.245 to the interim com-
+[2]
+HB 3145
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+mittees of the Legislative Assembly related to housing on:
+(1) The results and findings of moneys spent under section  2 of this 2025 Act, including
+information regarding the  recipients’ direct construction costs, total development costs,
+barriers overcome,  barriers identified and ability to secure additional private debt or equity
+partnerships;
+(2) The activities of the contractor under section 4 of this 2025 Act; and
+(3) Recommendations for legislation or  funding to support factory-produced housing
+within this state.
+SECTION 6.
+Sections 2 to 5 of this 2025 Act are repealed on January 2, 2028.
+SECTION 7. In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Housing and  Community Services Department, for the biennium beginning July
+1, 2025, out of the General Fund, the amount of  $650,000 to implement sections 4 and 5 of this
+2025 Act.
+SECTION 8. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

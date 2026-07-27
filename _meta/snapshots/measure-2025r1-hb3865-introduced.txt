@@ -1,0 +1,270 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3865
+Sponsored by Representative SOSA; Representative GOMBERG, Senators JAMA, PATTERSON, PHAM K
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Says that a person may not make a sales call  by voice or text unless the person follows
+certain rules. (Flesch Readability Score: 80.7).
+Requires a person that makes a solicitation  by telephone or text message to self identify, iden-
+tify the purpose of the  solicitation and identify the person on behalf of which the person is making
+the solicitation within the first 10 seconds  of the call or within the body of the initial text message.
+Restricts the hours during which a person may make a solicitation to 9 a.m.  to 7 p.m. and the
+number of solicitations a person may make during a 24-hour period to three.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to telephone solicitations;  amending ORS 646A.370, 646A.372 and 646A.374; and prescribing
+an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 646A.370 is amended to read:
+646A.370. As used in ORS 646A.370 to 646A.374:
+(1) “Automatic dialing and  announcing device” means an automated device that selects and dials
+telephone numbers and that,  working alone or in conjunction with  a person or  another device,
+disseminates a prerecorded or synthesized voice  or text  message to the telephone number that the
+device  calls.
+(2) “Call” means an attempt made to contact or a contact made  with a subscriber by means of
+a telephone or telephone line  or a text  message by means of short message service protocol,
+short message peer-to-peer protocol or  other texting protocols that transmit messages by
+means of a standard telephone network .
+(3) “Caller” means a person  or an automatic dialing and announcing  device that attempts to
+contact or that contacts a subscriber by using a telephone or telephone line.
+(4) “Caller  identification service” means a telephone service that permits subscribers to see a
+caller’s telephone number before answering the telephone.
+(5) “Debt buyer” means a person that engages in  the business of purchasing delinquent or
+charged-off debt for the purpose of collecting the debt.
+(6) “Established  business relationship” means a previous transaction or series of transactions
+between a caller and a subscriber that occurred within the 18 months preceding a call.
+(7) “Subscriber” means an individual who  has obtained residential or wireless telephone services
+from a telecommunications provider, or a person who resides with the individual.
+(8)(a) “Telephone solicitation” means a  call to a subscriber, with or without the use of
+an automatic dialing and announcing device, and a transmission of a communication  to the
+subscriber for the purpose  of encouraging the subscriber to make a donation or engage in a
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2935
+HB 3865
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+transaction for real estate, goods or services.
+(b) “Telephone solicitation” does not include:
+(A) A call that a person makes to a subscriber  in response to request or inquiry from the
+subscriber;
+(B) A call that a  person organized for a charitable purpose, as defined in ORS 128.801,
+or a person that volunteers  or is employed by the organization, makes to a subscriber who
+is a member of the organization or who has  expressed an interest in donating real estate,
+goods or services to the organization;
+(C) A call that a person makes to a subscriber for the purpose  of conducting a poll or to
+solicit an expression of ideas, opinions or votes; or
+(D) A call from a business to another business.
+SECTION 2.
+ ORS 646A.372 is amended to read:
+646A.372. (1)(a) A caller may not  make a telephone solicitation or  use an automatic  dialing
+and announcing device in order to call a subscriber unless:
+(A) The device is designed and operated so  as to disconnect within 10 seconds after the sub-
+scriber terminates the call; [ and]
+(B) The device provides, and the prerecorded or synthesized voice message that  the device plays
+describes,  a  method by which a subscriber, within the first 10 seconds after a call begins, may enter
+a single dual-tone multifrequency signal  or otherwise enter or speak a one-digit code to notify the
+caller that the subscriber does not want to receive any future calls from the caller[ .]; and
+(C) The caller, within the first 10 seconds of the call or within the body  of an initial text
+message, clearly and distinctly and in a volume and cadence that a reasonable  person would
+find easily comprehensible, identifies the caller, the person on behalf of which the  caller is
+making the call and the purpose of the call.
+(b) Paragraph (a)(B) of this subsection does not apply to a caller that:
+(A) Is a collection  agency, as defined in ORS 697.005, a debt buyer or a debt collector, as defined
+in ORS 646.639;
+(B) Is a representative of a public safety or law enforcement agency; or
+(C) Has an established business relationship with the subscriber.
+(2) A caller may not  make a telephone solicitation or  use  an automatic dialing and announc-
+ing device to make a call unless the range of  telephone numbers from which the device chooses the
+number to dial does not include numbers for:
+(a) Fire protection, law enforcement or other emergency agencies;
+(b) Hospital and health  care facilities, physician’s offices, poison control centers or suicide pre-
+vention or domestic violence counseling services; and
+(c) Subscribers who used the method described in subsection (1)(a)(B) of this section  to notify
+the caller that the subscribers do not want to receive any future calls from the caller.
+(3) Subsection (2)(c) of this section does not apply to a caller that:
+(a) Is a collection agency, as defined in ORS 697.005, a  debt buyer or a debt collector, as defined
+in ORS 646.639;
+(b) Is a representative of a public safety or law enforcement agency; or
+(c) Has an established business relationship with the subscriber.
+(4)(a) A caller may not  make a telephone solicitation or  use  an automatic dialing and an-
+nouncing device that  dials telephone numbers randomly or sequentially unless the range of tele-
+phone numbers from which the device chooses the number to dial does not include numbers  for
+[2]
+HB 3865
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+subscribers who appear on an official list that a government agency compiled for the purpose  of
+informing potential callers that the subscribers do not want to receive telephone solicitations.
+(b) Paragraph (a) of this subsection does not apply to a caller that:
+(A) Has an established business relationship with the subscriber;
+(B) Is a debt buyer or is subject to regulation under the Fair Debt Collection Practices Act, 15
+U.S.C. 1692 et seq.;
+(C) Is a representative of a public safety or law enforcement agency; or
+(D) Is a representative of a school  district or school if the subscriber is an employee of the
+school district, a student or the student’s parent, guardian or other family member.
+(5) A caller that uses an automatic dialing and announcing device may use the device to  call a
+subscriber only between the hours of 9 a.m. and [ 9 p.m.] 7  p.m. and may not make a telephone
+solicitation of a subscriber more than three times within a 24-hour period.
+SECTION 3.
+ ORS 646A.374 is amended to read:
+646A.374. (1) As used in this section:
+(a) “Cooperative corporation” means a  cooperative corporation or unincorporated association
+that has a certificate of authority from the Public Utility Commission under ORS 759.025.
+(b) “Radio common carrier” has the meaning given that term in ORS 759.005.
+(c) “Telecommunications service” has the meaning given that term in ORS 759.005.
+(d) “Telecommunications utility” has the meaning given that term in ORS 759.005.
+(2) A caller who  makes a telephone solicitation or  uses an automatic dialing  and announcing
+device in order to call a subscriber may not misrepresent  or falsify, either in speaking with the
+subscriber , [ or] in the prerecorded or  synthesized voice message disseminated during the call  or in
+any text message to the subscriber :
+(a) The caller’s identity and  the identity of any person on behalf of whom the caller is making
+the call;
+(b) The telephone number from which the caller is making the call;
+(c) The location from which the caller is making the call; or
+(d) The purpose for which the caller is making the call.
+(3) A caller may not intentionally alter, misrepresent  or falsify the information that a caller
+identification service would ordinarily provide to a subscriber who uses such a service.
+(4) Except as provided in subsection (5) of this section,  a person who provides a caller identifi-
+cation service is not subject to civil liability for a caller’s violation of this section.
+(5) If a person knows or consciously avoids knowing that  another person is engaging in an act
+or practice that violates the provisions of subsection (2) or (3)  of this section and the person none-
+theless provides substantial assistance or support for the  violation, including permitting, carrying
+or facilitating calls that violate subsection (2) or (3)  of this section, the person is liable for any loss
+and subject to any penalty for the violation to the same  extent as the person that engaged in the
+violation of subsection (2) or (3) of this section.
+(6) A  violation of subsection (2) or (3) of this section is an unlawful practice under ORS 646.608.
+(7) Subsections (5) and (6) of this section do not apply to:
+(a) A telecommunications utility or cooperative corporation when engaged  in providing a tele-
+communications service and operating as a common carrier, as defined in 47 U.S.C.  153(11), as in
+effect on September 24, 2023, including a radio common carrier that engages  in providing cellular
+communications services for hire; and
+(b) A person that enables another  person to complete a voice communication by means of a
+[3]
+HB 3865
+1
+2
+3
+4
+network that the person operates and on which the voice communication terminates.
+SECTION 4.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[4]

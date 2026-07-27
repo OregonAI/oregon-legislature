@@ -1,0 +1,374 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 168
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Judiciary for Oregon State Bar)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes some laws that apply to a person’s estate after the person dies.  (Flesch
+Readability Score: 73.1).
+Modifies evidence required to establish parentage in a probate proceeding.
+Exempts certain specific bequests from the asset limits for simple estates.
+Restricts application of harmless error provisions to  nonelectronic writings that were signed by
+the decedent or at the decedent’s direction.
+Modifies court procedures regarding discovery when there is a contested issue  in a probate
+proceeding.
+A BILL FOR AN ACT
+Relating to estates; creating new provisions; and amending ORS 111.200, 112.105, 112.235, 112.238
+and 114.510.
+Be It Enacted by the People of the State of Oregon:
+INTESTATE SUCCESSION
+SECTION 1.
+ ORS 112.105 is amended to read:
+112.105. (1) For all purposes of intestate succession, full effect shall be given to all relationships
+as described in ORS 109.060, except as otherwise provided by law in case of adoption.
+(2) For all purposes of intestate succession and for those purposes  only, before the relationship
+of parent and child  and other relationships dependent upon the establishment of parentage shall be
+given effect under subsection (1) of this section:
+(a) The parentage of the child shall have been established under  ORS 109.065 during the lifetime
+of the child; [ and] or
+(b) The parent must have acknowledged  being the parent of the child in writing, signed by the
+parent during the lifetime of the child.
+SIMPLE ESTATES
+SECTION 2.  ORS 114.510 is amended to read:
+114.510. (1) A person who meets the requirements of ORS 114.515 may file a simple estate  affi-
+davit only with regard to an estate in which:
+(a)(A) Not more than $75,000 of the fair market  value of the estate is attributable to personal
+property; and
+(B) Not more  than $200,000 of the fair market value of the estate is attributable to real property;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 517
+SB 168
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+or
+(b) The decedent died testate and:
+(A) Not more than  $75,000 of the fair market value of the estate is attributable to personal
+property that is specifically devised [ personal property ] to  distributees other than the trustee
+of a trust described in subparagraph (C) of this paragraph ;
+(B) Not more than $200,000 of the fair market value of the estate is attributable  to real prop-
+erty that is  specifically devised [ real property ] to distributees other than the trustee  of a trust
+described in subparagraph (C) of this paragraph ; and
+(C) The balance of the fair  market value of the estate is attributable to property that is devised
+to the trustee of a trust of which the decedent was a settlor, as defined in ORS  130.010, and which
+came into existence prior to the decedent’s date of death.
+(2)(a) The fair market value of  the estate under subsection (1) of this section shall be deter-
+mined:
+(A) As of the date of death; or
+(B) If the date of death is more than one year before the date of filing of  the affidavit, as of a
+date within 45 days before the filing of the affidavit.
+(b) In determining fair market value under this subsection, the  fair market value of the entire
+interest in the property included in the estate shall be used without reduction for liens  or other
+debts.
+WILL EXECUTION FORMALITIES
+SECTION 3.
+ ORS 112.235 is amended to read:
+112.235. (1) Except as provided in ORS 112.238, a will shall be in writing and  shall be executed
+in accordance with the following formalities:
+(a) The testator, in the presence of each of the witnesses, shall:
+(A) Sign the will;
+(B) Direct  one of the witnesses or some other person to sign the name of the testator and the
+signer’s own name on the will; or
+(C) Acknowledge the signature  previously made on the will by the testator or at the testator’s
+direction.
+(b) At least two witnesses shall each:
+(A)(i) See the testator sign the will;
+(ii) Hear the testator acknowledge the signature on the will; or
+(iii) Hear or observe the testator  direct some other person to sign the name of the testator; and
+(B) Attest the will by signing the witness’ name to the will within a reasonable time  before the
+testator’s  death.
+(2) The signature by a witness on an  affidavit executed contemporaneously with execution of a
+will is considered a signature by the witness on the will in compliance  with subsection (1)(b)(A)(iii)
+of this section if necessary to prove the will was duly executed in compliance with this section.
+(3) A will executed in compliance with the Uniform International  Wills Act shall be deemed to
+have complied with the formalities of this section.
+(4) As used in  this section  and ORS 112.238 , “writing” does not include an electronic record,
+document or image.
+SECTION 4.
+ ORS 112.238 is amended to read:
+[2]
+SB 168
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+112.238. (1) Although a writing was not executed in compliance  with ORS 112.235, the writing
+may be treated as if it had been executed in compliance with ORS 112.235 if :
+(a) The writing was executed before the decedent’s death;
+(b)(A) The decedent signed the writing; or
+(B) At the direction of the decedent, another person signed the  name of the decedent and
+the signer’s own name on the writing; and
+(c) The proponent of the writing establishes by clear and convincing evidence that the  decedent
+intended the writing to constitute:
+[(a)] (A)  The decedent’s will;
+[(b)] (B)  A partial or complete revocation of the decedent’s will; or
+[(c)] (C) An addition to or an alteration of the decedent’s will.
+(2) A writing described in subsection (1) of this section may be filed with the court  for admin-
+istration as the decedent’s will pursuant to ORS 113.035. The  proponent of the writing shall give
+notice of the filing of the petition under ORS 113.035 to those  persons identified in ORS 113.035 (5),
+(7), (8) and (9). Persons receiving notice under this subsection shall have 20 days after the  notice
+was given to file written objections to  the petition. The court may make a determination regarding
+the decedent’s intent after a hearing or on the basis of affidavits.
+(3) The proponent of a writing described in subsection (1) of this section  may file a petition with
+the court to establish the decedent’s intent that  the writing was to be a partial or complete revo-
+cation  of  the decedent’s will or an addition to or an alteration of the decedent’s will. The proponent
+shall give notice of the filing to any personal representative appointed by  the court, the devisees
+named in any will admitted to probate and those persons identified in ORS 113.035 (5).  Persons re-
+ceiving notice under this subsection shall have 20 days after the  notice was given to file written
+objections to the petition. The court may make  a determination regarding the decedent’s intent after
+a hearing or on the basis of affidavits.
+(4)(a) If the court determines that clear and convincing evidence exists showing that a  writing
+described in subsection (1) of this section was intended by the decedent to accomplish  one of the
+purposes set forth in subsection (1) of this section, the court shall:
+(A) Prepare written findings of fact in support of the determination; and
+(B) Enter a limited judgment that admits the writing for probate as the decedent’s will or  oth-
+erwise acknowledges the validity and intent of the writing.
+(b) A determination under this subsection does not preclude the filing of a will contest  under
+ORS 113.075, except that the will may not be  contested on the grounds that the will was not exe-
+cuted in compliance with ORS 112.235.
+(5) The fee imposed and collected by the  court for the filing of a petition under this section shall
+be in accordance with ORS 21.135.
+PROBATE COURT PROCEDURE
+SECTION 5.
+ ORS 111.200 is amended to read:
+111.200. (1) As used in this section:
+(a) “Probate proceeding” means a proceeding under ORS chapter 111, 112, 113,  114, 115, 116 or
+117 for the administration of a decedent’s estate.
+(b) “Probate proceeding” does not include:
+(A) A proceeding for summary determination of a claim under ORS 115.145 (1)(b); or
+[3]
+SB 168
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) A declaratory judgment action under ORS chapter 28.
+(2) Except as otherwise provided in ORS 111.205,  111.218, 112.588, 113.005, 113.105, 114.720,
+115.315, 116.083 or 116.253, the Oregon Rules of  Civil Procedure and the Oregon Evidence Code do
+not apply to probate proceedings.
+(3) Notwithstanding subsection (2) of this section:
+(a) ORCP 12 applies to any probate proceeding.
+(b) ORCP 9, 10 A, 16 B, 16 D, 17,  18, 19, 21, 22, 23, 25, 27, 29, 30, 31, 33, 34 A to F, 36 to 43,
+44 A,  B, D and E, 45, 46, 47, 53, 55, 62, 64 A and C to G, 65, 67, 68, 71, 72 and 78 apply to a contested
+issue in a probate proceeding.
+(c) The Oregon Evidence Code applies to a contested issue in a probate proceeding.
+(4) For the purposes of applying  the Oregon Rules of Civil Procedure to a contested issue in a
+probate  proceeding:
+(a) “Plaintiff” means any party asserting a claim for relief, whether by way of petition or motion;
+and
+(b) “Defendant” means:
+(A) Any party against whom the claim is asserted;
+(B) Any party objecting to the petition or motion; or
+(C) If the court issues a show cause order, the party subject to the order.
+(5)(a) For the purposes of this section, an issue in a probate proceeding is contested if it is or
+arises from:
+(A) A petition or motion for declaratory judgment, including a will contest;
+(B) A petition to remove a court-appointed fiduciary;
+(C) A petition or motion for affirmative relief of any sort against a person;
+(D) A petition or motion to apportion the proceeds of a wrongful death settlement;
+(E) If filed by a person other than the personal representative:
+(i) A motion to increase the amount of the bond of the  personal representative, or to require a
+new bond;
+(ii) A petition to restrict the powers of the personal representative;
+(iii) A petition to determine heirship;
+(iv) A petition for instructions; or
+(v) A petition to appoint a fiduciary  other than the fiduciary nominated in the will admitted to
+probate;
+(F) Any other petition or motion to which another person has filed an objection; or
+(G) Any  other petition, motion or show cause order determined by the court to be a contested
+issue in a probate proceeding.
+(b) Notwithstanding paragraph (a)  of this subsection, unless otherwise determined by the court,
+the following are not contested issues in probate proceedings:
+(A) A petition for summary review of administration of a simple estate under ORS 114.550;
+(B) A petition or motion for summary  determination of a claim as provided in ORS 114.542 or
+115.145 (1)(a); or
+(C) An application for an order directing payment of a claim under ORS 115.185.
+(6) Nothing in this section is intended to affect the burden of proof or standard of proof that is
+applied in probate proceedings.
+APPLICABILITY
+[4]
+SB 168
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+SECTION 6.
+(1) The amendments to ORS 112.105 and  114.510 by sections 1 and 2 of this
+2025 Act apply to decedents dying on or after the effective date of this 2025 Act.
+(2) Notwithstanding section 36, chapter 387, Oregon Laws 2015, the amendments to ORS
+112.235 and 112.238 by sections  3 and 4 of this 2025 Act apply to a writing executed before,
+on or after  the effective date of this 2025 Act, if the writing was executed by or at the di-
+rection of a decedent dying on or after the effective date of this 2025 Act.
+(3) The amendments to ORS  111.200 by section 5 of this 2025 Act apply to contested issues
+first raised in a probate proceeding on or after the effective date of this 2025 Act.
+CAPTIONS
+SECTION 7. The unit captions used in this 2025 Act are provided only for the convenience
+of the reader  and do not become part of the statutory law of this state or express any leg-
+islative intent in the enactment of this 2025 Act.
+[5]

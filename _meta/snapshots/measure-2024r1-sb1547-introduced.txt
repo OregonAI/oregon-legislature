@@ -1,0 +1,346 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1547
+Sponsored by Senators HAYDEN, SMITH DB; Senator BONHAM (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act permits  a treatment facility to admit a minor for inpatient substance use dis-
+order treatment for up to 14 days when the parent consents to treatment  but the minor does not.
+The Act directs the OHA to adopt rules  setting out the criteria and procedure for admission when
+the minor objects or the length of proposed treatment is more than 14  days. The Act requires health
+benefit plans to cover inpatient treatment  for a minor’s cannabis use under certain conditions. The
+Act requires OHA to set up a short-term program to test a way to  help people with drug addiction.
+The Act requires the program to allow people to call the  mental health hotline and get treatment
+right away for drug addiction.  The Act directs the OHA to convene a group to give advice to the
+OHA. The Act requires the group to suggest to OHA how to set up a program to allow  EMTs who
+are licensed in another state to get a license in this state. The Act requires the OHA  to set up the
+program and begin issuing licenses by a certain  date. The Act takes effect when the Governor signs
+it. (Flesch Readability Score: 61.2).
+Permits the director of  a treatment facility to admit a minor for inpatient substance use disorder
+diagnosis, evaluation and treatment for up to  14 days with parental consent when the minor objects
+to the admission. Directs the Oregon Health Authority  to adopt rules setting forth criteria and
+procedure for admission when the minor objects  to the admission or the director of the treatment
+facility recommends a longer period of  treatment. Permits the treatment facility to disclose infor-
+mation regarding the minor’s treatment to the minor’s parent or guardian.
+Requires the Oregon Health Authority to establish  a virtual opioid dependency pilot program
+to provide immediate intervention and a referral to treatment to  callers to the 9-8-8 hotline by a
+qualified health care provider. Gives health care providers civil immunity for actions taken  in good
+faith. Sunsets January 2, 2026.
+Requires health benefit plans to cover inpatient treatment for cannabis use by a  minor under
+certain conditions.
+Directs the Oregon Health Authority to convene an advisory  committee to provide recommen-
+dations on the establishment of an  emergency medical services reciprocal licensing program. Re-
+quires the advisory committee to submit a report to the interim committees of the  Legislative
+Assembly related  to health care not later than September 15, 2024. Requires the authority to es-
+tablish and begin issuing licenses under the reciprocal  license program not later than January 1,
+2025. Sunsets January 2, 2026.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to access to health care; creating new  provisions; amending ORS 430.397; and declaring an
+emergency.
+Be It Enacted by the People of the State of Oregon:
+PARENTAL ADMISSION OF MINOR FOR INPATIENT
+SUBSTANCE USE DISORDER TREATMENT
+SECTION 1.
+(1) As used in this section:
+(a) “Minor” means an  unemancipated individual who has not attained the age of majority,
+as described in ORS 109.510.
+(b) “Treatment facility” has the meaning given that term in ORS 430.306.
+(2) When the director  of a treatment facility receives an application under ORS 430.397
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 265
+SB 1547
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+from the parent or guardian of a minor for  the voluntary admission of the minor for inpa-
+tient diagnosis, evaluation and treatment of a substance  use disorder and the minor objects
+to the admission, the director may only admit the minor if:
+(a) The period of inpatient treatment does not exceed 14 days; and
+(b) In the opinion of the director of the treatment facility:
+(A) The minor has a substance use disorder and has lost  the ability to control the
+minor’s personal use of a controlled substance or another substance with abuse potential,
+or whose use is to the extent that the health of the  minor is substantially impaired or en-
+dangered or the social or economic functioning of the minor is substantially disrupted;
+(B) There is no less restrictive alternative available for the minor’s treatment;
+(C) There is reason to believe that  the minor’s substance use disorder could be improved
+by the recommended course of treatment or would deteriorate further if left untreated; and
+(D) The minor’s condition or circumstances meet any other criteria  for admission es-
+tablished by the Oregon Health Authority by rule.
+(3) A minor admitted to a treatment facility under this  section shall be discharged from
+the treatment facility:
+(a) No later than 72 hours after the facility receives notice, in writing, from the minor’s
+parent or guardian requesting the discharge; or
+(b) If the director of the treatment facility determines that  the minor will no longer
+benefit from continued treatment and  the minor is not dangerous to self or others. Before
+discharging the minor under this paragraph, the treatment facility shall give notice, in
+writing, of the pending discharge to the child’s parent or guardian.
+(4) To the extent permitted under  federal law, the treatment facility may disclose infor-
+mation regarding the minor’s evaluation, diagnosis and treatment,  or need for treatment, to
+the minor’s parent or guardian, without the consent of the  minor. The treatment facility
+shall encourage the minor to sign  an authorization for the disclosure of information that is
+necessary for the parent or guardian to participate in the minor’s  discharge planning and to
+provide appropriate support to the minor following discharge.
+(5) This section does not apply to:
+(a) The voluntary admission of a minor to a state hospital under ORS 426.220; or
+(b) The placement of a child or ward in a congregate care  residential setting by the De-
+partment of Human Services under ORS 418.322.
+(6) The authority shall adopt rules for the  implementation of this section. The rules must
+prioritize the best interests of the minor and  take into consideration any applicable due
+process rights of the minor, the rights and duties of  the minor’s parent or guardian to
+safeguard the mental  and physical well-being of the minor and the state’s interest in pro-
+viding treatment and recovery services and supports for minors  experiencing substance use
+disorders.
+SECTION 2.
+ ORS 430.397 is amended to read:
+430.397. (1) Any person may voluntarily apply for admission to any treatment facility operated
+pursuant to rules of the Oregon Health Authority.
+(2) The director of the treatment facility shall determine whether  the person shall be admitted
+as a patient, or referred to another appropriate treatment facility or denied referral or admission.
+(3) If the person is under 18 years of age or an  incompetent, the director of the treatment fa-
+cility shall notify the person’s parents or guardian of the admission or referral.
+[2]
+SB 1547
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(4) An application for  admission of a minor to a treatment facility made by a parent or
+guardian of the minor is subject to the provisions of section 1 of this 2024 Act.
+INSURANCE COVERAGE OF TREATMENT FOR CANNABIS USE BY MINORS
+SECTION 3.
+Section 4 of this 2024 Act is  added to and made a part of the Insurance Code.
+SECTION 4. (1) As use in this section:
+(a) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+(b) “Mental health care provider” has the meaning given that term in ORS 475.528.
+(2) A health  benefit plan that reimburses the cost of hospital expenses shall reimburse
+the cost of inpatient treatment for cannabis use for an enrollee  who is a minor if prescribed
+by the enrollee’s mental health care provider  based on a determination that the enrollee’s
+use is habitual and likely to lead to the unlawful use of controlled substances.
+(3) The coverage required by this  section may be subject to provisions of the health
+benefit plan that apply to other inpatient benefits under  the plan including, but not limited
+to, deductibles, coinsurance or other cost-sharing.
+SECTION 5.
+Section 4 of this 2024  Act applies to health benefit plans issued, renewed or
+extended on or after January 1, 2025.
+VIRTUAL OPIOID DEPENDENCY PROGRAM
+SECTION 6. (1) The Oregon Health Authority shall  establish a virtual opioid dependency
+pilot program to provide on-demand intervention and treatment for  individuals with opioid
+use disorder through the 9-8-8 suicide prevention and behavioral health crisis hotline. The
+pilot program must enable  an individual to call the hotline 24 hours a day, seven days a week,
+and speak to a health care provider  with prescribing privileges. The provider may imme-
+diately:
+(a) Start the caller on an opioid agonist therapy;
+(b) Refer the caller immediately to treatment, transition services and  ongoing depend-
+ency care; or
+(c) Take other appropriate steps to intervene and provide a pathway to  treatment for the
+caller.
+(2) Health care providers  participating in the pilot program shall be immune from civil
+liability for any actions taken in good faith.
+(3) No later than September 15, 2025, the Oregon Health Authority shall  report to the
+interim committees of the Legislative Assembly related to health on the operation  and out-
+comes of the pilot program. The report may  include recommendations for legislation to es-
+tablish a permanent program.
+SECTION 7.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Oregon Health Authority, for the  biennium ending June 30, 2025, out of the
+General Fund, the amount of $5,000,000, which may be expended to  establish and maintain
+the pilot program described in section 6 of this 2024 Act.
+EMERGENCY MEDICAL SERVICES RECIPROCAL LICENSING
+[3]
+SB 1547
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 8.
+(1) The Oregon  Health Authority shall convene an advisory committee to
+provide recommendations to the authority regarding  the establishment of an emergency
+medical services reciprocal license program for emergency medical services providers,  as
+defined in ORS 682.025, and members of the  Armed Forces of the United States who are
+trained to provide emergency medical care.
+(2) The advisory committee shall consist of at least nine members as follows:
+(a) Two members who are members of the Senate;
+(b) Two members who are members of the House of Representatives;
+(c) One member who represents the authority;
+(d) One member who represents the Oregon Military Department;
+(e) One member who represents a patient advocacy group;
+(f) One member who represents an association of hospitals; and
+(g) One member who represents an ambulance service, as described in ORS 682.025.
+(3) The advisory committee shall:
+(a) Determine the military occupational  specialties that are comparable to each type of
+emergency medical services provider;
+(b) Determine the necessary training and education required to enable a member of  the
+Armed Forces of the  United States to be eligible for a reciprocal license as an emergency
+medical services provider; and
+(c) Provide recommendations for rules to establish the reciprocal  license program, in-
+cluding rules:
+(A) To allow the authority to issue a reciprocal license to a  member of the Armed Forces
+of the United States who has received military training  to provide emergency care, regard-
+less of whether the  member has completed any training and education required for licensure
+under ORS 682.216;
+(B) To  require an ambulance service that employs or contracts with an emergency med-
+ical services provider who  holds a reciprocal license to ensure the licensee is appropriately
+trained; and
+(C) To  establish a fee for an application for a reciprocal license that is the same as the
+fee for an application for an emergency medical services provider license issued under  ORS
+682.216.
+(4) Not later than September 15, 2024, the advisory  committee shall submit a report, in
+the manner provided in ORS 192.245, to  the interim committees of the Legislative Assembly
+related to health. The report must include the recommendations described in  subsection (3)
+of this section.
+(5) The authority,  in consultation with the advisory committee and the department, shall
+establish and begin issuing licenses under the reciprocal license program described in this
+section not later than January 1, 2025.
+SECTION 9.
+Sections 6 and 8 of this 2024 Act are repealed on January 2, 2026.
+SECTION 10. The unit captions used in this 2024 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2024 Act.
+SECTION 11. This 2024 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2024 Act takes effect
+on its passage.
+[4]
+SB 1547
+1
+[5]

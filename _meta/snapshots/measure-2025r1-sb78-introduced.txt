@@ -1,0 +1,148 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 78
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Natural Resources and Wildfire)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act limits the size of replacement homes on forest  or farm land. (Flesch Readability
+Score: 76.5).
+Establishes maximum size of replacement dwellings on lands zoned for forest or farm use.
+A BILL FOR AN ACT
+Relating to replacement dwellings; amending ORS 215.291.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 215.291 is amended to read:
+215.291. (1) A lawfully established dwelling may be altered,  restored or replaced under ORS
+215.213 (1)(q), 215.283 (1)(p) or 215.755 (1) if the county determines that the dwelling to be altered,
+restored or replaced:
+(a) Has, or formerly had:
+(A) Intact exterior walls and roof structure;
+(B) Indoor plumbing consisting of a kitchen sink, toilet  and bathing facilities connected to a
+sanitary waste disposal system;
+(C) Interior wiring for interior lights; and
+(D) A heating system; and
+(b)(A) Unless the value of the dwelling was eliminated  as a result of destruction or demolition,
+was assessed as a dwelling for purposes of ad valorem taxation since the later of:
+(i) Five years before the date of the application; or
+(ii) The date that the dwelling was erected upon or fixed to the land and  became subject to
+property tax assessment; or
+(B) If the  value of the dwelling was eliminated as a result of destruction or demolition, was as-
+sessed as a dwelling for purposes of ad valorem taxation prior to the destruction or demolition and
+since the later of:
+(i) Five years before the date of the destruction or demolition; or
+(ii) The date that the dwelling was erected upon or fixed to the land and  became subject to
+property tax assessment.
+(2) For replacement of a lawfully established dwelling under this section:
+(a) The  dwelling to be replaced must be removed, demolished or converted to an allowable
+nonresidential use within three months after the  date the replacement dwelling is certified for oc-
+cupancy pursuant to ORS 455.055.
+(b) The replacement dwelling:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2008
+SB 78
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+(A) May be sited on any part of the same lot or parcel.
+(B) Must  comply with applicable siting standards. However, the standards may not be applied
+in a manner that prohibits the siting of the replacement dwelling.
+(C) Will not:
+(i) Exceed the floor area of the dwelling being replaced by more than 10 percent; or
+(ii) Have a floor area greater than 2,500 square feet.
+[(C)] (D)  Must comply  with the construction provisions of section R327 of the Oregon Residen-
+tial Specialty Code, if:
+(i) The dwelling  is in an area identified as extreme or high wildfire risk on the statewide map
+of wildfire risk described in ORS 477.490; or
+(ii) No statewide map of wildfire risk has been adopted.
+(c) As a condition of  approval, if the dwelling to be replaced is located on a portion of the lot
+or parcel that is not zoned  for exclusive farm use, the applicant shall execute and cause to be re-
+corded in the deed records of the county in which the property is located  a deed restriction pro-
+hibiting the siting of another dwelling on that portion  of the lot or parcel. The restriction imposed
+is irrevocable unless the county planning director, or the director’s designee,  places a statement of
+release in the deed records of the county to the effect that the  provisions of this section and either
+ORS 215.213 or 215.283 regarding replacement  dwellings have changed to allow the lawful siting of
+another dwelling.
+(3) The county planning director, or the director’s  designee, shall maintain a record of the lots
+and parcels that do not qualify for the siting of a new dwelling under subsection  (2) of this section,
+including a copy of the deed restrictions filed under subsection (2)(c) of this section.
+(4) If an applicant is granted a deferred replacement permit under this section:
+(a) The deferred replacement permit:
+(A) Does not expire but the permit becomes void unless the dwelling to be replaced  is removed
+or demolished within three months after the deferred replacement permit is issued; and
+(B) May not be transferred, by sale or otherwise, except by the  applicant to the spouse or a
+child of the applicant.
+(b) The replacement dwelling  must comply with applicable building codes, plumbing codes, san-
+itation codes and other requirements relating to health and safety or  to siting at the time of con-
+struction.
+(5) An application under this section must be filed  within three years following the date that the
+dwelling last possessed all the features listed under subsection (1)(a) of this section.
+(6) Construction of a  replacement dwelling approved under this section must commence no later
+than four years after the approval of the application under this section becomes final.
+[2]

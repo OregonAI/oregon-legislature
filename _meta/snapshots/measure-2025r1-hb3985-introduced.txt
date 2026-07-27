@@ -1,0 +1,308 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3985
+Sponsored by Representative SKARLATOS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Changes the standards for staffing plans for direct care registered nurses in  an ED.
+(Flesch Readability Score: 65.7).
+Modifies  the  minimum standards for staffing plans for direct care registered nurses in an emer-
+gency department.
+A BILL FOR AN ACT
+Relating to staffing plans for health care provider entities; amending ORS 441.765.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 441.765 is amended to read:
+441.765. (1) As used in this section, “unit” means  a hospital unit as defined by the chief execu-
+tive officer of the hospital or the chief executive officer’s designee.
+(2) With respect to  direct care registered nurses, a nurse staffing plan must ensure that at all
+times:
+(a) In an emergency department:
+(A) A direct care registered nurse is assigned to not more than one trauma patient[ ; and ].
+(B) Except as provided in subparagraph (C) of this paragraph,  the ratio of direct care reg-
+istered nurses to patients averages no more than one to four over a 12-hour shift  and a single direct
+care registered nurse may not be assigned more than five patients at one time. Direct  care regis-
+tered nurses assigned to trauma patients may not be  taken into account in determining the average
+ratio under this subparagraph or subparagraph (C) of this paragraph .
+(C) The ratio of direct care registered nurses to patients averages no more than one to
+six over a 12-hour shift and a single direct care registered nurse  may not be assigned more
+than six patients at one time, for patients that:
+(i) Are directed to an area within the emergency department designated to  provide faster
+care to patients with less serious conditions; or
+(ii) Are  assigned a level four or five on a five-level triage acuity scale using the Emer-
+gency Severity Index.
+(b) In an intensive care unit, a direct care registered nurse is  assigned to no more than two
+patients.
+(c) In a labor and delivery unit, a direct care registered nurse is assigned to no more than:
+(A) Two patients if the patients are not in active labor or experiencing complications; or
+(B) One patient if the patient is in active labor or if the patient is at any stage  of labor and is
+experiencing  complications.
+(d) In a postpartum, antepartum and well-baby nursery, a direct care registered nurse is assigned
+to no more than six patients, counting mother and baby each as separate patients.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4828
+HB 3985
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) In  a mother-baby unit, a direct care registered nurse is assigned to no more than eight pa-
+tients, counting mother and baby each as separate patients.
+(f) In an  operating room, a direct care registered nurse is assigned to no more than one patient.
+(g) In an oncology unit, a direct care registered nurse is assigned to no more  than four patients.
+(h) In a post-anesthesia care unit, a direct  care registered nurse is assigned to no more than two
+patients.
+(i) In an intermediate care unit, a direct care registered nurse is  assigned to no more than three
+patients.
+(j) In a medical-surgical unit, a direct care registered nurse is  assigned to no more than five
+patients.
+(k) In a cardiac telemetry unit, a direct care registered nurse is assigned  to no more than four
+patients.
+(L) In a pediatric unit, a direct care registered nurse is assigned  to no more than four patients.
+(3) Notwithstanding  subsection (2) of this section, the direct care registered nurse-to-patient ra-
+tio for an  individual patient shall be based on a licensed independent practitioner’s classification
+of the patient, as indicated in the patient’s medical record, regardless of the unit where  the patient
+is being cared for.
+(4) With the  approval of a majority of the members of the hospital nurse staffing committee, a
+unit can deviate from the direct care registered nurse-to-patient ratios in subsection (2)  of this sec-
+tion, in pursuit of innovative care models that were  considered by the committee, by allowing other
+clinical care staff to constitute up to 50 percent of the  registered nurses needed to comply with the
+applicable nurse-to-patient ratio. The staffing  in an innovative care model must be reapproved by the
+committee every two years.
+(5) A hospital  shall provide for meal breaks and rest breaks in accordance with ORS 653.261,
+and rules implementing ORS 653.261, and any applicable collective bargaining agreement.
+(6) Each  hospital unit may deviate from a nurse staffing plan, except with respect to meal breaks
+and rest breaks, including the applicable registered nurse-to-patient ratios under this section, within
+a period of 12 consecutive hours, no more than six times during a rolling 30-day period, without
+being in violation of the nurse staffing plan. The unit manager must notify the hospital nurse staffing
+committee no later than 10 days after each  deviation. Each subsequent deviation during the 30-day
+period constitutes a separate violation under ORS 441.792.
+(7) A hospital may not require a direct care registered nurse to be assigned to more  patients
+than as specified in this section or in the nurse staffing plan approved by the hospital nurse  staffing
+committee, as applicable.
+(8) A charge nurse may:
+(a) Take patient  assignments, including patient assignments taken for the purpose of covering
+staff who are on meal breaks or rest breaks, in units with 10 or fewer beds;
+(b) Take patient assignments, including patient assignments taken for the purpose  of covering
+staff who are on meal breaks or rest breaks, in  units with 11 or more beds with the approval of the
+hospital nurse staffing committee; and
+(c) Be taken into account in determining  the direct care registered nurse-to-patient ratio during
+periods when the charge nurse is taking patient assignments under this subsection.
+SECTION 2.
+ ORS 441.765, as amended by section 17,  chapter 507, Oregon Laws 2023, is
+amended to read:
+441.765. (1) As used in this section, “unit” means  a hospital unit as defined by the chief execu-
+[2]
+HB 3985
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tive officer of the hospital or the chief executive officer’s designee.
+(2) With respect to  direct care registered nurses, a nurse staffing plan must ensure that at all
+times:
+(a) In an emergency department:
+(A) A direct care registered nurse is assigned to not more than one trauma patient[ ; and ].
+(B) Except as provided in subparagraph (C) of this paragraph,  the ratio of direct care reg-
+istered nurses to patients averages no more than one to four over a 12-hour shift  and a single direct
+care registered nurse may not be assigned more than five patients at one time. Direct  care regis-
+tered nurses assigned to trauma patients may not be  taken into account in determining the average
+ratio under this subparagraph or subparagraph (C) of this paragraph .
+(C) The ratio of direct care registered nurses to patients averages no more than one to
+six over a 12-hour shift and a single direct care registered nurse  may not be assigned more
+than six patients at one time, for patients that:
+(i) Are directed to an area within the emergency department designated to  provide faster
+care to patients with less serious conditions; or
+(ii) Are assigned a level four or five on a five-level triage acuity scale using the  Emer-
+gency Severity Index.
+(b) In an intensive care unit, a  direct care registered nurse is assigned to no more than two
+patients.
+(c) In a labor and delivery unit, a direct care registered nurse is assigned to no more than:
+(A) Two patients if the patients are not in active labor or experiencing complications; or
+(B) One patient if the  patient is in active labor or if the patient is at any stage of labor and is
+experiencing complications.
+(d) In a postpartum, antepartum and well-baby nursery, a direct care registered nurse is assigned
+to no more than six patients, counting mother and baby each as separate patients.
+(e) In a mother-baby unit, a direct care registered nurse is assigned to no more than eight  pa-
+tients, counting mother and baby each as separate patients.
+(f) In an  operating room, a direct care registered nurse is assigned to no more than one patient.
+(g) In an oncology unit, a direct care registered nurse is assigned to no more  than four patients.
+(h) In a post-anesthesia care unit, a direct  care registered nurse is assigned to no more than two
+patients.
+(i) In an intermediate care unit, a direct care registered nurse is  assigned to no more than three
+patients.
+(j) In a medical-surgical unit,  a direct care registered nurse is assigned to no more than four
+patients.
+(k) In a cardiac telemetry unit, a direct care registered nurse is assigned  to no more than four
+patients.
+(L) In a pediatric unit, a direct care registered nurse is assigned  to no more than four patients.
+(3) Notwithstanding  subsection (2) of this section, the direct care registered nurse-to-patient ra-
+tio for an  individual patient shall be based on a licensed independent practitioner’s classification
+of the patient, as indicated in the patient’s medical record, regardless of the unit where  the patient
+is being cared for.
+(4) With the  approval of a majority of the members of the hospital nurse staffing committee, a
+unit can deviate from the direct care registered nurse-to-patient ratios in subsection (2)  of this sec-
+tion, in pursuit of innovative care models that were  considered by the committee, by allowing other
+[3]
+HB 3985
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+clinical care staff to constitute up to 50 percent of the  registered nurses needed to comply with the
+applicable nurse-to-patient ratio. The staffing  in an innovative care model must be reapproved by the
+committee every two years.
+(5) A hospital  shall provide for meal breaks and rest breaks in accordance with ORS 653.261,
+and rules implementing ORS 653.261, and any applicable collective bargaining agreement.
+(6) Each  hospital unit may deviate from a nurse staffing plan, except with respect to meal breaks
+and rest breaks, including the applicable registered nurse-to-patient ratios under this section, within
+a period of 12 consecutive hours, no more than six times during a rolling 30-day period, without
+being in violation of the nurse staffing plan. The unit manager must notify the hospital nurse staffing
+committee no later than 10 days after each  deviation. Each subsequent deviation during the 30-day
+period constitutes a separate violation under ORS 441.792.
+(7) A  hospital may not require a direct care registered nurse to be assigned to more patients
+than as specified in this section or in the nurse staffing plan approved by the hospital nurse  staffing
+committee, as applicable.
+(8) A charge nurse may:
+(a) Take patient assignments, including patient assignments taken for the purpose  of covering
+staff who are on meal breaks or rest breaks, in units with 10 or fewer beds;
+(b) Take patient  assignments, including patient assignments taken for the purpose of covering
+staff who are on meal breaks or rest breaks, in  units with 11 or more beds with the approval of the
+hospital nurse staffing committee; and
+(c) Be taken into account in determining  the direct care registered nurse-to-patient ratio during
+periods when the charge nurse is taking patient assignments under this subsection.
+[4]

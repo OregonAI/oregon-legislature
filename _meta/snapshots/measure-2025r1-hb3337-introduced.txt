@@ -1,0 +1,276 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3337
+Sponsored by Representative NERON; Representative TRAN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes changes to  the highway worker photo radar laws. (Flesch Readability Score:
+66.1).
+Makes changes to the highway worker photo radar laws.
+A BILL FOR AN ACT
+Relating to photo radar in highway work zones; creating new provisions; and amending ORS 810.441
+and 810.442.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 810.441 is amended to read:
+810.441. (1) The  Department of Transportation [ may] shall, in collaboration with the Oregon
+State Police, establish a highway worker photo radar program and  operate photo radar units
+within [ a] highway work [ zone that is ] zones that are  located  on [ a state highway] state
+highways. The department is responsible for procuring and  administering contracts neces-
+sary to implement the  program, which includes but is not limited to contracts for photo ra-
+dar units, training and administration.  [ The photo radar unit may be operated only: ]
+[(a) In the area within a  highway work zone when highway workers, as defined in ORS 811.230,
+are present. The photo radar unit may not be  operated in a location more than 100 yards from where
+highway workers are present and, in the  case of a divided state highway, the photo radar unit must
+be located on the same roadway where highway workers are present. ]
+[(b) When the configuration of the roadway is  temporarily changed, including but not limited to
+temporary changes made to the number of  usable lanes, lane width, shoulder width or curvature of the
+roadway. The photo radar unit may not be operated  in a location more than 100 yards from where the
+configuration of the roadway is temporarily changed and, in the case of a divided  state highway, the
+photo radar  unit must be located on the same roadway where the highway configuration is temporarily
+changed.]
+[(2) The  department, at its own cost, may ask a jurisdiction authorized to operate photo radar un-
+der ORS 810.438 (1) or the Oregon State Police  to operate a photo radar unit in a highway work zone
+on a state highway. ]
+[(3) A  photo radar unit operated under this section may not be used unless a sign is posted an-
+nouncing that photo radar is in use.  The sign posted under this subsection must be all of the
+following: ]
+[(a) Located on the state highway on which the photo radar unit is being used. ]
+[(b) Between 100 and 400 yards before the location of the photo radar unit. ]
+(2) The photo radar units may be  operated only in the area within a highway work zone
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 651
+HB 3337
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+when highway workers, as defined in  ORS 811.230, are present and, in the case of a divided
+state highway, the photo  radar unit must be located on the same roadway where highway
+workers are present.
+(3) A photo radar unit operated under this section may not be used unless a sign  is
+posted announcing that photo radar is in  use. The sign posted under this subsection must
+be:
+(a) Located on the state highway on which the photo radar unit is being used; and
+(b) Within one mile of the location of the  photo radar unit or the highway work zone in
+which the photo radar unit is in use.
+(4) The department shall, once each biennium, conduct a process  and outcome evaluation for the
+purposes of subsection (5) of this section that includes:
+(a) The effect of the use of photo radar on traffic safety;
+(b) The degree of public acceptance of the use of photo radar; and
+(c) The process of administration of the use of photo radar.
+(5) The department shall report to the Legislative Assembly by March 1 of each  odd-numbered
+year.
+(6) As used in  this section, “highway work zone” has the meaning given that term in ORS
+811.230.
+SECTION 2.
+ ORS 810.442 is amended to read:
+810.442. (1) Notwithstanding any  other provision of law, when [ a jurisdiction or the Oregon State
+Police uses ] photo radar  is used pursuant to ORS 810.441  in a highway work zone:
+(a) A citation for speeding may be issued on  the basis of photo radar if the following conditions
+are met:
+[(A) The photo radar unit is operated by a uniformed police officer. ]
+[(B) The photo radar unit is operated out of a marked police vehicle. ]
+[(C) An indication of the actual speed  of the vehicle is displayed within 150 feet of the location of
+the photo radar unit. ]
+(A) A police officer has reviewed the photographic evidence of the conduct and  signs the
+citation.
+(B) The person operating the vehicle exceeded the speed limit or designated speed by  six
+miles per hour or greater.
+(C) A sign is posted that indicates that photo  radar is in use and the sign meets the re-
+quirements described in ORS 810.441.
+(D) The citation is mailed to  the registered owner of the vehicle within [ six business ] 30 days
+of the alleged violation.
+(E) The registered owner is given  30 days from the date the citation is mailed to respond to the
+citation.
+[(F)(i) One or more highway workers, as defined in ORS 811.230, are  present and the photo radar
+unit is operated within 100 yards from where highway workers are present and located  on the same
+roadway where highway workers are present; or ]
+[(ii) The configuration of the roadway is  temporarily changed within the highway work zone, in-
+cluding but not  limited to temporary changes made to the number of usable lanes, lane width, shoulder
+width or curvature of the roadway, and the photo radar unit is operated within 100 yards  from where
+the configuration  of the roadway is temporarily changed and located on the same roadway where the
+highway configuration is temporarily changed. ]
+[2]
+HB 3337
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(G)] (F) The  [ jurisdiction operating photo radar ] Oregon State Police  complies with the re-
+quirements described in ORS 810.441.
+(b) A rebuttable presumption exists that the registered  owner of the vehicle was the driver of
+the vehicle when the citation is issued and delivered as provided in this section.
+(c) A person issued a citation under this subsection may respond to the citation by  submitting
+a certificate of innocence or a certificate of nonliability under subsection (3) of this section or  may
+make any other response allowed by law.
+(2) A citation issued on the basis of photo radar may be delivered by mail or otherwise to  the
+registered owner of the vehicle or to the driver. The citation may be prepared on  a digital medium
+and the signature may be electronic in accordance with the provisions of ORS 84.001 to 84.061.
+(3)(a) A registered owner of a vehicle may respond by mail to a citation issued under  subsection
+(1) of  this section by submitting, within 30 days from the mailing of the citation, a certificate of in-
+nocence swearing or affirming that the owner was not the driver of the vehicle  and by providing a
+photocopy of the owner’s driver license. [ A jurisdiction that receives a  certificate of innocence under
+this paragraph ] If it reasonably appears that the  registered owner was not the driver at the
+time of the violation, the Oregon  State Police shall dismiss the citation without requiring a court
+appearance by the registered owner or any other information from the registered owner  [other than
+the swearing or affirmation and the photocopy ]. The citation may be  reissued only once, only to the
+registered owner and only if the [ jurisdiction] Oregon State Police  verifies that the registered
+owner appears to have been the driver at the time of the violation. A registered  owner may not
+submit a certificate of innocence in response to a reissued citation.
+(b) If a  business or public agency responds to a citation issued under subsection (1) of this sec-
+tion by submitting,  within 30 days from the mailing of the citation, a certificate of nonliability
+stating that at the time of  the alleged speeding violation the vehicle was in the custody and control
+of an employee, or was in the custody and control of a renter or lessee under the terms  of a rental
+agreement or lease, and if the business or public agency provides the driver license number, name
+and address of the employee, renter or lessee, the  citation shall be dismissed with respect to the
+business or public agency. The citation may then be issued and delivered by mail  or otherwise to
+the employee, renter or lessee identified in the certificate of nonliability.
+(4) If the person named as the registered owner of a vehicle in the  current records of the De-
+partment of Transportation fails to respond to a citation issued under subsection  (1) of this section,
+a default  judgment under ORS 153.102 may be entered for failure to appear after notice has been
+given that the judgment will be entered.
+(5) The penalties for and all consequences  of a speeding violation initiated by the use of photo
+radar are the same as for a speeding violation initiated by any other means.
+(6) A  registered owner, employee, renter or lessee against whom a judgment for failure to appear
+is entered may move the  court to relieve the registered owner, employee, renter or lessee from the
+judgment as provided in ORS 153.105 if the failure to appear was due to  mistake, inadvertence,
+surprise or excusable neglect.
+(7) As used in this section, “highway work zone” has the meaning given that  term in ORS
+811.230.
+SECTION 3.
+Section 4 of this 2025 Act is added to and made a part of the Oregon Vehicle
+Code.
+SECTION 4. (1) Notwithstanding any other provision of law,  all amounts received from
+citations issued under ORS 810.442 shall be used  first for the costs of the highway worker
+[3]
+HB 3337
+1
+2
+3
+4
+5
+6
+7
+photo radar program under ORS 810.441. Any revenue generated  that exceeds program costs
+shall be used for traffic safety purposes as determined by the  Department of Transportation
+in consultation with the Oregon State Police, and shall include  but not be limited to costs
+associated with speed enforcement in highway work zones.
+(2) As used in this  section, “highway work zone” has the meaning given that term in ORS
+811.230.
+[4]

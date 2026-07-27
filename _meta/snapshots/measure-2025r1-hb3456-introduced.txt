@@ -1,0 +1,110 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3456
+Sponsored by Representative BOICE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells schools and libraries  to have a policy for Internet use by minors. (Flesch Read-
+ability Score: 63.4).
+Requires district school boards and public library  boards to adopt policies to provide for Inter-
+net safety for students and minors. Prescribes the requirements of the policies.
+A BILL FOR AN ACT
+Relating to Internet safety policies for minors.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) Each district school board shall adopt a policy to  provide for the Internet
+safety for students of the school district.
+(2) A policy adopted under this section must apply to:
+(a) All situations in which a  student accesses the Internet through school district re-
+sources, including school libraries, online subscriptions, online academic activities  and cur-
+ricula that use technology; and
+(b) All technology purchased, used or made available to the students  of the school dis-
+trict.
+(3) A policy adopted under this section must:
+(a) Require the school district to comply with  the federal Children’s Internet Protection
+Act, 47 U.S.C. 254;
+(b) Establish  a process by which a member of the public may submit a report of any
+concerns about the Internet safety for students of the school district and a  process by which
+the school district may investigate and respond to a report; and
+(c) Require the school district annually to submit  to the district school board and to
+make available on the school district’s website a summary of any  reports received under
+paragraph (b) of this subsection and the outcomes of the reports.
+(4)(a) A  school district that does not comply with the provisions of this section is con-
+sidered to be nonstandard under ORS 327.103.
+(b) A school district that does not comply with  the provisions of this section is not eli-
+gible to receive matching funds under ORS 357.790.
+SECTION 2.
+Section 3 of this  2025 Act is added to and made a part of ORS 357.400 to
+357.621.
+SECTION 3. (1) Each public library board shall adopt a policy to  provide for the Internet
+safety for minors at a public library.
+(2) A policy adopted under this section must apply to:
+(a) All situations in which  a minor accesses the Internet through public library re-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1894
+HB 3456
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+sources; and
+(b) All technology purchased, used or made available to minors at the public library.
+(3) A policy adopted under this section must:
+(a) Require the public library to comply with the federal Children’s  Internet Protection
+Act, 47 U.S.C. 254;
+(b) Establish  a process by which a member of the public may submit a report of any
+concerns about the Internet safety for  minors at the public library and a process by which
+the public library may investigate and respond to a report; and
+(c) Require the public library annually to submit to the public  library board and to make
+available on the public library’s website a summary of  any reports received under paragraph
+(b) of this subsection and the outcomes of the reports.
+(4)(a) A governing body  may withdraw support for a public library that does not comply
+with the provisions of this section as provided by ORS 357.621.
+(b) A public library that does not comply with the provisions  of this section is not eligible
+to receive matching funds under ORS 357.790.
+[2]

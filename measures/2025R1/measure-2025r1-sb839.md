@@ -1,0 +1,649 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb839
+title: 'SB 839 (2025R1): Modifies laws that regulate the operation of commercial vehicles.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 839
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB839/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: d70f851f42971519c54331a6e93356424c276c0fe923ac09db3d7b68e79f4b0e
+snapshot_id: measure-2025r1-sb839-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 153.992
+  - ORS 174.109
+  - ORS 183.745
+  - ORS 267.010
+  - ORS 267.510
+  - ORS 321.005
+  - ORS 329A.250
+  - ORS 332.427
+  - ORS 344.710
+  - ORS 352.002
+  - ORS 451.010
+  - ORS 508.235
+  - ORS 801.260
+  - ORS 803.315
+  - ORS 803.550
+  - ORS 807.010
+  - ORS 810.090
+  - ORS 810.370
+  - ORS 810.410
+  - ORS 810.440
+  - ORS 810.450
+  - ORS 810.490
+  - ORS 810.530
+  - ORS 811.175
+  - ORS 811.555
+  - ORS 811.570
+  - ORS 811.580
+  - ORS 814.020
+  - ORS 815.140
+  - ORS 815.142
+  - ORS 815.155
+  - ORS 815.160
+  - ORS 815.170
+  - ORS 815.185
+  - ORS 818.020
+  - ORS 818.040
+  - ORS 818.060
+  - ORS 818.090
+  - ORS 818.110
+  - ORS 818.130
+  - ORS 818.160
+  - ORS 818.300
+  - ORS 818.320
+  - ORS 818.340
+  - ORS 818.350
+  - ORS 818.400
+  - ORS 825.017
+  - ORS 825.020
+  - ORS 825.022
+  - ORS 825.026
+  - ORS 825.030
+  - ORS 825.100
+  - ORS 825.137
+  - ORS 825.139
+  - ORS 825.141
+  - ORS 825.160
+  - ORS 825.164
+  - ORS 825.166
+  - ORS 825.168
+  - ORS 825.210
+  - ORS 825.320
+  - ORS 825.402
+  - ORS 825.450
+  - ORS 825.470
+  - ORS 825.506
+  - ORS 825.950
+  - ORS 825.990
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 839
+prefix_meaning: Senate Bill
+catch_line: Modifies laws that regulate the operation of commercial vehicles.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act changes laws about vehicles people use to move goods and other people\
+  \ from place to place. (Flesch Readability Score: 71.0). \n\tModifies laws that regulate the operation\
+  \ of commercial vehicles."
+relating_to: Relating to regulation of commercial vehicles.
+relating_to_full: Relating to regulation of commercial vehicles.
+at_the_request_of: (at the request of Governor Tina Kotek for Department of Transportation)
+lc_number: 430
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-05-14T10:12:46'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 30510
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 153.992
+  - ORS 174.109
+  - ORS 183.745
+  - ORS 267.010
+  - ORS 267.510
+  - ORS 321.005
+  - ORS 329A.250
+  - ORS 332.427
+  - ORS 344.710
+  - ORS 352.002
+  - ORS 451.010
+  - ORS 508.235
+  - ORS 801.260
+  - ORS 803.315
+  - ORS 803.550
+  - ORS 807.010
+  - ORS 810.090
+  - ORS 810.370
+  - ORS 810.410
+  - ORS 810.440
+  - ORS 810.450
+  - ORS 810.490
+  - ORS 810.530
+  - ORS 811.175
+  - ORS 811.555
+  - ORS 811.570
+  - ORS 811.580
+  - ORS 814.020
+  - ORS 815.140
+  - ORS 815.142
+  - ORS 815.155
+  - ORS 815.160
+  - ORS 815.170
+  - ORS 815.185
+  - ORS 818.020
+  - ORS 818.040
+  - ORS 818.060
+  - ORS 818.090
+  - ORS 818.110
+  - ORS 818.130
+  - ORS 818.160
+  - ORS 818.300
+  - ORS 818.320
+  - ORS 818.340
+  - ORS 818.350
+  - ORS 818.400
+  - ORS 825.017
+  - ORS 825.020
+  - ORS 825.022
+  - ORS 825.026
+  - ORS 825.030
+  - ORS 825.100
+  - ORS 825.137
+  - ORS 825.139
+  - ORS 825.141
+  - ORS 825.160
+  - ORS 825.164
+  - ORS 825.166
+  - ORS 825.168
+  - ORS 825.210
+  - ORS 825.320
+  - ORS 825.402
+  - ORS 825.450
+  - ORS 825.470
+  - ORS 825.506
+  - ORS 825.950
+  - ORS 825.990
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 839`.
+
+# SB 839 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 839, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for Department of Transportation)
+- **LC number:** 430
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-05-14T10:12:46
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 30510 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB839/Enrolled>.
+
+## Summary
+
+**Catchline:** Modifies laws that regulate the operation of commercial vehicles.
+
+**Relating to:** Relating to regulation of commercial vehicles.
+
+Digest: The Act changes laws about vehicles people use to move goods and other people from place to place. (Flesch Readability Score: 71.0). 
+ Modifies laws that regulate the operation of commercial vehicles.
+
+**RelatingToFull (verbatim upstream field):** Relating to regulation of commercial vehicles.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 839
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Governor Tina Kotek for Department of Transportation)
+CHAPTER .................................................
+AN ACT
+Relating to regulation of commercial vehicles;  creating new provisions; and amending ORS 810.370,
+810.530, 818.400, 825.017, 825.020, 825.100 and 825.950.
+Be It Enacted by the People of the State of Oregon:
+RECORDS OF CONVICTION
+SECTION 1.  ORS 810.370 is amended to read:
+810.370. (1)  Within the time required by this section of the conviction, every court with juris-
+diction over the offenses described in  this section shall forward to the Department of Transportation
+a record of  the conviction of any person in such court for a violation of any of the following that
+regulate the operation of motor vehicles on highways or streets:
+(a) Offenses committed under the vehicle code or any other statute of this state.
+(b) Offenses committed under any municipal ordinance.
+(2) To comply with this  section, a court must forward the record of conviction containing the
+date of any offense,  any arrest and conviction. The record must be forwarded to the department
+within 24 hours of the time the defendant was sentenced by the court.
+(3) A court is not required by this section to forward  to the department a record of conviction
+for violation of any offense under any of the following sections: ORS 810.090,  811.555, 811.570,
+811.580, 814.020 to 814.080, 814.120, 814.230, 814.410 to 814.480, 815.155, 815.160, 815.170,  818.020,
+818.040, 818.060, 818.090, 818.110, 818.130, 818.160, 818.300, 818.320, 818.340, 818.350, [ 818.400,]
+820.400, [ or] 822.220 or 825.990 as it relates to violations under ORS 825.450 and 825.470 only .
+SECTION 2.
+The amendments to ORS 810.370 by section 1 of this 2025 Act apply  to re-
+cords of  conviction forwarded to the Department of Transportation on or after the effective
+date of this 2025 Act.
+FAILURE TO COMPLY WITH COMMERCIAL VEHICLE
+ENFORCEMENT REQUIREMENTS
+SECTION 3.  ORS 818.400 is amended to read:
+818.400. (1) A person commits the offense of failure to comply with commercial  vehicle enforce-
+ment requirements if the person is driving a  vehicle or combination of vehicles and the person does
+not comply with any of the following or if  the person is the owner of a vehicle or combination of
+Enrolled Senate Bill 839 (SB 839-A) Page 1
+vehicles and the person causes or permits  the vehicle or combination not to comply with any of the
+following:
+(a) A vehicle or combination of vehicles must stop and  submit to any enforcement of commercial
+vehicle weight, size, load, conformation or equipment regulation when directed to do  so by an
+“OPEN” sign displayed at a permanently established truck scale.
+(b) A vehicle or combination of vehicles must stop and  submit to any enforcement of commercial
+vehicle weight, size, load, conformation or equipment regulation  when directed to do so by  any
+sign, other than an “OPEN” sign described in paragraph (a) of this subsection, or signal dis-
+played or given  by a police officer, motor carrier enforcement officer or weighmaster acting in ac-
+cordance with authority granted under ORS 810.490.
+(c) A vehicle or combination of vehicles must move into the right lane  for purposes of a weight
+or size check when instructed to do so by  a sign indicating the presence of a weigh-in-motion scale.
+(d) The directions of any police  officer, motor carrier enforcement officer or weighmaster that
+are given in  accordance with authority granted under ORS 810.490 or 810.530 must be complied
+with.
+(2) The requirement of subsection (1)(a) of this section does not apply to:
+(a) An empty combination of a  log truck and pole trailer if the pole trailer is bunked on the log
+truck and there is no other load; or
+(b) A vehicle or combination of vehicles if:
+(A) The normal route of  the vehicle or combination of vehicles requires turning off the highway
+after passing the “OPEN” sign but before reaching the scale; and
+(B) The vehicle or combination of vehicles  is en route to a terminal or other legitimate business.
+(3) Operation of any vehicle or combination of vehicles in violation of this  section is prima facie
+evidence that the owner of such vehicle or  combination caused or permitted it to be so operated and
+the owner shall be liable for any penalties imposed under this section.
+[(4) The offense described in this section, failure to comply with  commercial vehicle enforcement
+requirements, is a Class B misdemeanor. The penalty provided under  this subsection is in addition to
+any penalty provided for violation of  any prohibition relating to vehicle weight, size, load, conformation
+or equipment.]
+(4) Except as provided in subsection (5) of this section, the offense described  in sub-
+section (1)(a) or  (c) of this section, failure to comply with commercial vehicle enforcement
+requirements, is a Class A traffic violation.
+(5) The offense described in subsection (1)(b) or (d) of this section, failure to comply with
+commercial vehicle enforcement requirements, is a Class B misdemeanor.
+(6) The penalties provided under this section are in addition to any penalty provided  for
+violation of  any prohibition relating to vehicle weight, size, load, conformation or equipment.
+SECTION 4.
+The amendments to ORS 818.400 by section 3 of this  2025 Act apply to of-
+fenses committed on or after the effective date of this 2025 Act.
+FEDERAL SAFETY REQUIREMENTS
+SECTION 5.  ORS 825.017 is amended to read:
+825.017. Except as provided in this section and ORS 825.026 and 825.030, this  chapter does not
+apply to the persons or vehicles described in this section. The exemption under this section  applies
+to the following persons and vehicles:
+(1) Vehicles being used by, or under contract with, any school board, district or person  respon-
+sible for the administration of  elementary or secondary school activities, and engaged exclusively
+in transporting students or combinations of students and other persons to or from school,  to or from
+authorized school activities  or other activities sponsored by the governing board of a public uni-
+versity listed in ORS 352.002, or for  purposes provided under ORS 332.427. This exemption shall not
+be affected by the charging of a fee to cover the costs of the transportation.
+(2) Vehicles being used in a taxicab operation if the vehicle:
+Enrolled Senate Bill 839 (SB 839-A) Page 2
+(a) Is a passenger vehicle with a passenger seating capacity that does not exceed five;
+(b) Carries passengers for hire where the destination  and route traveled may be controlled by
+a passenger and the fare is calculated on the basis  of any combination of an initial fee, distance
+traveled or waiting time; and
+(c) Is transporting persons or property, or both, between points in Oregon.
+(3) Vehicles being  used for the transportation of property by private carrier by means of a single
+vehicle or combination of vehicles with a combined weight that does not exceed 8,000 pounds.
+(4) Vehicles being used in operating implements of husbandry.
+(5) Vehicles being used as a hearse or ambulance.
+(6) Vehicles being used over any private road or thoroughfare.
+(7) Vehicles being used on any road, thoroughfare or  property, other than a state highway,
+county road or city street, for  the removal of forest products as defined in ORS 321.005, or the
+product of forest products converted to a form other  than logs at or near the harvesting site, or
+when used for the construction or maintenance of the road,  thoroughfare or property, pursuant to
+a written agreement or permit authorizing the use, construction or maintenance of  the road,
+thoroughfare or property, with:
+(a) An agency of the United States;
+(b) The State Board of Forestry;
+(c) The State Forester; or
+(d) A licensee of an agency named in this subsection.
+(8) Vehicles being used on any county road for the removal of forest products as  defined in ORS
+321.005, or the products of forest  products converted to a form other than logs at or near the har-
+vesting site, if:
+(a) The use is  pursuant to a written agreement entered into with the State Board of Forestry,
+the State  Forester or an agency of the United States, authorizing the owner of the motor vehicle
+to use the road and requiring the owner to pay for or to perform  the construction or maintenance
+of the county road, including any operator of  a motor vehicle retained to transport logs, poles and
+piling for the owners who are exempt under this section;
+(b) The board, officer or agency that entered into the agreement or  granted the permit, by
+contract with the county court or board of county commissioners,  has assumed the responsibility for
+the construction or maintenance of the county road; and
+(c) Copies of the agreements or  permits required by this subsection are filed with the Director
+of Transportation.
+(9) Vehicles being used in transporting persons with disabilities, with or  without their supervi-
+sors or assistants, to or from rehabilitation facilities or child care  services if the motor vehicle is
+a passenger motor vehicle  with a seating capacity of not more than 12 passengers. The exemption
+provided by this subsection applies  only when the motor vehicle is operated by or under contract
+with any person responsible for the administration of rehabilitation  facilities as defined in ORS
+344.710 to 344.730 or child care services provided by a  facility licensed under ORS 329A.250 to
+329A.450.
+(10) Vehicles  owned or operated by the United States or by any governmental jurisdiction within
+the United States except as provided in ORS 825.022. This chapter does apply to vehicles when
+owned or operated:
+(a) As a carrier of property for hire;
+(b) By a transportation district organized under ORS 267.510 to 267.650;
+(c) By a county service district authorized to  provide public transportation under ORS 451.010;
+or
+(d) By an intergovernmental body formed by two or more public bodies, as defined in ORS
+174.109, to provide public transportation.
+(11) Vehicles  owned or operated by a mass transit district organized under ORS 267.010 to
+267.394.
+Enrolled Senate Bill 839 (SB 839-A) Page 3
+(12) Vehicles owned or operated by, or under contract with, a person responsible  for the con-
+struction or reconstruction of a  highway under contract with the Department of Transportation or
+with an agency of the United States  when operated within the immediate construction project as
+described in the governmental agency contract during the construction period.
+(13) Vehicles owned or operated by, or under contract with, a charitable organization when ex-
+clusively engaged in performing transportation,  either one way or round trip, necessary to the op-
+eration of the charitable organization. As used in this subsection,  “charitable organization” means
+an organization that has no capital stock and no provision for making dividends  or profits, but de-
+rives its funds principally  from public and private charity and holds them in trust for the promotion
+of the welfare of others and not for profit. Any organization claiming  an exemption under this sub-
+section shall file an affidavit with the department stating that it is organized and operated in ac-
+cordance with the requirements of this subsection.  Nothing in this  subsection exempts a person
+or vehicle from federal motor carrier safety regulations.
+(14) Passenger vehicles with a passenger seating capacity that does not  exceed five when used
+in the transportation of new telephone books.
+(15) A vehicle that is used in  a limousine service operation in which the destination and route
+traveled may be controlled by the passenger and  the fare is calculated on the basis of any combi-
+nation of initial fee, distance traveled and waiting time if the vehicle:
+(a) Is a passenger vehicle with a passenger seating capacity that does not exceed eight;
+(b) Carries passengers for hire between points in Oregon; and
+(c) Operates on an irregular route basis.
+(16) Fire trucks and rescue vehicles that are designated as  emergency vehicles by the Depart-
+ment of Transportation under ORS 801.260, while involved in emergency and related operations.
+(17) A person who provides services related to the packing or  loading of household goods if the
+person does not:
+(a) Provide or operate a motor vehicle for the movement of the household goods; and
+(b) Act as an agent for any person who does provide or operate a motor vehicle  for the move-
+ment of the household goods.
+SECTION 6.
+ ORS 825.020 is amended to read:
+825.020. Except as  otherwise provided in this section and ORS 825.030, this chapter does not
+apply to the persons or vehicles described in this section. The  provisions of ORS 825.100, 825.137,
+825.139, 825.141, 825.160, 825.164, 825.166, 825.168,  825.210 (1) and (3), 825.212, 825.450, 825.454,
+825.470, 825.472, 825.474, 825.476, 825.480, 825.484, 825.488, 825.490, 825.492, 825.494, 825.496, 825.498,
+825.504, 825.506, 825.507, 825.508 and 825.515 apply to any of the following  vehicles or combinations
+of vehicles with a combined weight of more than 26,000 pounds:
+(1) Vehicles being used exclusively in the transportation of United States mail on a trip basis.
+(2) Vehicles being used in the transportation of persons for hire,  in vehicles with a seating ca-
+pacity of more than five persons, within a city and within three air miles  of the city. When the
+three air mile radius extends into the corporate limits of another city, the two cities shall be  con-
+sidered as one city for the purposes of this subsection. The following apply to this subsection:
+(a) Service may also be provided to or  from any area surrounding the area described under this
+subsection so long as the service does not compete with a carrier granted authority by the Depart-
+ment of Transportation under this chapter to operate in that surrounding area.
+(b) Any vehicle exempt from  the provisions of this chapter under this subsection is subject to
+regulation by the city or cities in which it is operated.
+(3) Vehicles being used for the purpose of transporting persons or property in  connection with
+the patrolling of forests for the prevention or fighting of forest fires.
+(4) Vehicles being used in towing or  otherwise transporting vehicles at the direction of a police
+officer or in servicing, towing or transporting wrecked or disabled vehicles, or in towing  or trans-
+porting a replacement vehicle for such wrecked or disabled vehicle if the vehicle:
+(a) Is not otherwise used in transporting goods and merchandise for compensation; and
+Enrolled Senate Bill 839 (SB 839-A) Page 4
+(b) In the case of towing, is specially constructed for  that use or has a combined weight not
+exceeding 8,000 pounds.
+(5) Vehicles being used by a for-hire  carrier to transport within this state free or at reduced
+rates:
+(a) The carrier’s officers, agents or employees, or dependent members of  the families of those
+individuals, or the personal effects or household goods of those individuals.
+(b) Ministers of religions, inmates of hospitals and  individuals exclusively engaged in charitable
+and eleemosynary work.  Nothing in this subsection exempts vehicles being used  by for-hire
+carriers transporting individuals engaged in charitable and eleemosynary work from federal
+motor carrier safety regulations.
+(c) Indigent, destitute and homeless individuals  and the necessary agents employed in the
+transportation.
+(d) Witnesses attending legal investigations in which the carrier is interested.
+(e) Persons injured in wrecks and physicians and nurses attending those persons.
+(f) Persons providing relief in cases of general epidemic, pestilence or other emergency.
+(g) Persons traveling under commuter, party  or excursion passenger tickets, if available to all
+persons applying under like circumstances or conditions.
+(h) Persons traveling under an exchange of passes between for-hire carriers.
+(6) Vehicles being used to transport plants,  artificial and natural flowers and accompanying
+florist accessories in movements originating at retail shops.
+(7) Any vehicle used by a person licensed under  ORS 508.235 while the person is transporting
+the person’s own, unsold catch of fish from the point  of landing to the first point where fish from
+the catch will be sold, placed in storage or processed in any way.
+(8) Vehicles owned or operated by truck leasing companies operated empty over the  public
+highways for the purpose of relocation of equipment. This  exemption does not apply to motor vehi-
+cles operated empty as a result of or for the purpose of transporting passengers or property.
+COMMERCIAL VEHICLE ENFORCEMENT
+SECTION 7.
+ ORS 810.530 is amended to read:
+810.530. (1) A weighmaster or motor carrier enforcement officer in whose presence an  offense
+described  in  this subsection is committed may arrest or issue a citation for the offense in the same
+manner as under ORS 810.410 as if  the weighmaster or motor carrier enforcement officer were a
+police officer. This subsection applies to the following offenses:
+(a) Violation of maximum weight limits under ORS 818.020.
+(b) Violation of posted weight limits under ORS 818.040.
+(c) Violation of administratively imposed weight or size limits under ORS 818.060.
+(d) Violation of maximum size limits under ORS 818.090.
+(e) Exceeding maximum number of vehicles in combination under ORS 818.110.
+(f) Violation of posted limits on use of road under ORS 818.130.
+(g) Violation of towing safety requirements under ORS 818.160.
+(h) Operating with sifting or leaking load under ORS 818.300.
+(i) Dragging objects on highway under ORS 818.320.
+(j) Unlawful use of devices without wheels under ORS 815.155.
+(k) Unlawful use of metal objects on tires under ORS 815.160.
+(L) Operation without pneumatic tires under ORS 815.170.
+(m) Operation in violation of vehicle variance permit under ORS 818.340.
+(n) Failure to carry and display permit under ORS 818.350.
+(o) Failure to comply with commercial vehicle enforcement requirements under ORS 818.400.
+(p) Violation of any provision of ORS chapter 825.
+(q) Operation without proper fenders or mudguards under ORS 815.185.
+Enrolled Senate Bill 839 (SB 839-A) Page 5
+[(r) Operating a vehicle without driving privileges in violation  of ORS 807.010 if the person is
+operating a commercial motor vehicle and the person does not have commercial driving privileges. ]
+[(s) Violation driving while  suspended or revoked in violation of ORS 811.175 if the person is op-
+erating a commercial motor vehicle while the person’s commercial  driving privileges are suspended or
+revoked.]
+(r) Operating a vehicle without driving privileges in violation of ORS 807.010 if  the person
+does not have driving privileges and is operating:
+(A) A commercial motor vehicle; or
+(B) A commercial vehicle that has:
+(i) A gross vehicle weight rating of 10,001 pounds or more;
+(ii) A gross combination weight rating of 10,001 pounds or more;
+(iii) A gross vehicle weight of 10,001 pounds or more; or
+(iv) A gross combination weight of 10,001 pounds or more.
+(s) Violation driving while suspended or revoked in violation of  ORS 811.175 if the person
+is operating any of the following vehicles while the person’s driving  privileges are suspended
+or revoked:
+(A) A commercial motor vehicle; or
+(B) A commercial vehicle that has:
+(i) A gross vehicle weight rating of 10,001 pounds or more;
+(ii) A gross combination weight rating of 10,001 pounds or more;
+(iii) A gross vehicle weight of 10,001 pounds or more; or
+(iv) A gross combination weight of 10,001 pounds or more.
+(t) Failure to use vehicle  traction tires or chains in violation of ORS 815.140 if the person is
+operating a motor vehicle subject to ORS chapter 825 or 826.
+(u) Failure to carry vehicle traction tires or chains in violation of ORS 815.142 if the  person is
+operating a motor vehicle subject to ORS chapter 825 or 826.
+(v) Illegally altering or displaying registration plate in violation of ORS 803.550.
+(2) A weighmaster  or motor carrier enforcement officer in whose presence an offense described
+in this subsection is committed by a person operating a  [ commercial motor ] vehicle  described in
+subsection (3) of this section  may issue a citation for the offense. A weighmaster or motor  carrier
+enforcement officer who finds evidence that an offense described in this  subsection has been com-
+mitted by a person  operating a [ commercial motor ] vehicle  described in subsection (3) of this
+section or by a  motor carrier for which the person is acting as an agent may issue a citation for
+the offense. A weighmaster or motor  carrier enforcement officer issuing a citation under this sub-
+section has the authority granted  a police officer issuing a citation under ORS 810.410. A citation
+issued under this subsection to the operator of a [ commercial motor ] vehicle described in sub-
+section (3)  of this section  shall be considered to have been issued to the motor carrier that owns
+the [ commercial motor ] vehicle described in subsection (3) of this section  if the operator is not
+the owner. This subsection applies to the following offenses, all of  which are Class A traffic vio-
+lations under ORS 825.990 (1):
+(a) Repeatedly violating or avoiding any order or rule of the Department of Transportation.
+(b) Repeatedly refusing or repeatedly failing, after being requested to do so,  to furnish service
+authorized by certificate.
+(c) Refusing or failing to file the annual report as required by ORS 825.320.
+(d) Refusing or failing to maintain records required by the department or to produce such re-
+cords for examination as required by the department.
+(e) Failing to appear for a  hearing after notice that the carrier’s certificate or permit is under
+investigation.
+(f) Filing with the department an application that is false with regard to the  ownership, pos-
+session or control of the equipment being used or the operation being conducted.
+(g) Delinquency in reporting or paying any fee, tax or penalty due to the  department under ORS
+chapter 825 or 826.
+Enrolled Senate Bill 839 (SB 839-A) Page 6
+(h) Refusing or failing to file a deposit or bond as required under ORS 825.506.
+(i) Failing to comply  with the applicable requirements for attendance at a motor carrier educa-
+tion program as required by ORS 825.402.
+(3) Subsections (2) and (4) of this section apply to the following vehicles:
+(a) A commercial motor vehicle; or
+(b) A commercial vehicle that has:
+(A) A gross vehicle weight rating of 10,001 pounds or more;
+(B) A gross combination weight rating of 10,001 pounds or more;
+(C) A gross vehicle weight of 10,001 pounds or more; or
+(D) A gross combination weight of 10,001 pounds or more.
+[(3)] (4)  A weighmaster or motor carrier enforcement officer  who finds evidence that a person
+operating a [ commercial motor ] vehicle described in subsection (3)  of this section  has committed
+the offense of failure to pay the appropriate registration fee under ORS 803.315 may issue a citation
+for the offense in the same manner as under ORS 810.410 as if the weighmaster  or motor carrier
+enforcement officer were a police officer.
+[(4)] (5)  The authority of a weighmaster or motor carrier  enforcement officer to issue citations
+or arrest under this section is subject to ORS chapter 153.
+[(5)(a)] (6)(a)  A person is a weighmaster for purposes  of this section if the person is a county
+weighmaster or a police officer.
+(b) A person is a motor carrier enforcement officer under this section if  the person is duly au-
+thorized as a motor carrier enforcement officer by the Department of Transportation.
+[(6)] (7)  A weighmaster or motor carrier enforcement officer may accept security in  the same
+manner as  a police officer under ORS 810.440 and 810.450 and may take as security for the offenses,
+in addition to other security permitted under this section, the sum  fixed as the presumptive fine for
+the offense.
+[(7)] (8) A weighmaster or motor carrier enforcement officer may arrest a person for the offense
+of failure to appear in a violation proceeding  under ORS 153.992 if the violation is based upon a
+citation for any offense described in subsection (1) or [ (3)] (4) of this section except those described
+in subsection (1)(p) of this section.
+[(8)] (9)  A weighmaster or motor carrier enforcement officer may exercise the  same authority
+as a police officer under ORS  810.490 to enforce vehicle requirements and detain vehicles. A person
+who fails to comply with the  authority of a weighmaster or motor carrier enforcement officer under
+this subsection is subject to penalty under ORS 818.400.
+UNAUTHORIZED MOVEMENT OF HOUSEHOLD GOODS
+SECTION 8.
+ ORS 825.100 is amended to read:
+825.100. (1) [ No person shall ] A person may not  operate any motor vehicle, whether loaded or
+empty, on  any highway in this state as a carrier in the transportation of persons or property without
+possessing, in addition to  any license required by any other law, a valid certificate or permit from
+the Department of Transportation authorizing the proposed operation. Each operation of a  motor
+vehicle in violation of this [ section] subsection is  a separate violation, whether the prohibited op-
+erations occur within the same day or different days  or relate to the same motor vehicle or different
+motor vehicles.
+(2) A person may not offer to transport,  advertise as willing to transport or transport
+household goods  for-hire in intrastate commerce without a valid certificate from the de-
+partment. Each act described in this subsection is a separate violation subject  to penalties
+under ORS 825.950 (1)(c).
+SECTION 9.  ORS 825.950 is amended to read:
+825.950. (1)(a) Except  as otherwise provided in [ paragraph (b) ] paragraphs (b) and (c)  of this
+subsection, in addition to all  other penalties provided by law, every person who violates or who
+procures, aids or abets in the violation of any provision of this chapter, ORS chapter 818 or 826 or
+Enrolled Senate Bill 839 (SB 839-A) Page 7
+any order,  rule or decision of the Department of Transportation shall incur a civil penalty of not
+more than $100 for every such violation.
+(b) In addition to all other penalties provided by law,  every person who violates or who pro-
+cures, aids or abets in the violation of ORS 825.100  (1)  [ by offering to transport or transporting
+household goods without a certificate ] shall incur a civil penalty of  not more than $1,000 for every
+such violation.
+(c) In addition to all other penalties  provided by law, every person who violates or who
+procures, aids or abets in the violation of ORS 825.100 (2) shall incur a civil penalty  of not
+more than $3,000.
+(2) Each violation  described in this section is a separate offense and in case of a continuing
+violation  every  day’s continuance is a separate violation. Every act of commission or omission that
+procures, aids or abets in the violation is a violation under this section and  subject to the civil
+penalty provided in this section.
+(3) Civil penalties under this section shall be imposed in the manner provided in ORS 183.745.
+(4) The  Department of Transportation may reduce any civil penalty provided for in this section
+on such terms as the department considers proper if:
+(a) The defendant admits the violations alleged  in the notice and makes timely request for re-
+duction of the penalty; or
+(b) The defendant submits to the department a written request for  reduction of the penalty
+within 15 days from the date the penalty order is served.
+(5) If the amount of such penalty is not paid to the department, the Attorney General, at the
+request of the department, shall bring an action in the name of the State of Oregon in  the Circuit
+Court of Marion County to recover such penalty. The action may not be commenced until  after the
+time has expired for an appeal from the findings, conclusions and  order of the department. In all
+such actions the procedure and rules of evidence shall be the same as an ordinary civil action  ex-
+cept as otherwise provided in this chapter.
+(6) Any motor carrier of household goods found knowingly to have  assessed charges for trans-
+portation service less than published in its tariffs or written contracts on file  with the department
+may be directed to  collect the undercharges from the persons liable for the undercharges and to
+remit the undercharges to the department in addition to  any monetary penalties imposed against the
+carrier for charging less than the tariff or contract prescribes.
+(7) Any motor  carrier of household goods found to have assessed charges for transportation
+service more than the rates that have been legally filed with  and prescribed by the department shall
+refund the overcharges to the persons from whom collected. If the carrier is unable to do  so, the
+carrier may be required to  remit such overcharges to the department in addition to any monetary
+penalties imposed against the carrier for charging more than  the applicable tariff or contract pre-
+scribes.
+SECTION 10.
+The amendments to ORS 825.100 and 825.950 by sections 8 and 9 of this  2025
+Act apply to offenses committed on or after the effective date of this 2025 Act.
+SECTION 11. The unit captions used in this 2025 Act are provided  only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2025 Act.
+Enrolled Senate Bill 839 (SB 839-A) Page 8
+Passed by Senate April 15, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House April 24, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 839 (SB 839-A) Page 9
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 153.992, ORS 174.109, ORS 183.745, ORS 267.010, ORS 267.510, ORS 321.005, ORS 329A.250, ORS 332.427, ORS 344.710, ORS 352.002, ORS 451.010, ORS 508.235, ORS 801.260, ORS 803.315, ORS 803.550, ORS 807.010, ORS 810.090, ORS 810.370, ORS 810.410, ORS 810.440, ORS 810.450, ORS 810.490, ORS 810.530, ORS 811.175, ORS 811.555, ORS 811.570, ORS 811.580, ORS 814.020, ORS 815.140, ORS 815.142, ORS 815.155, ORS 815.160, ORS 815.170, ORS 815.185, ORS 818.020, ORS 818.040, ORS 818.060, ORS 818.090, ORS 818.110, ORS 818.130, ORS 818.160, ORS 818.300, ORS 818.320, ORS 818.340, ORS 818.350, ORS 818.400, ORS 825.017, ORS 825.020, ORS 825.022, ORS 825.026, ORS 825.030, ORS 825.100, ORS 825.137, ORS 825.139, ORS 825.141, ORS 825.160, ORS 825.164, ORS 825.166, ORS 825.168, ORS 825.210, ORS 825.320, ORS 825.402, ORS 825.450, ORS 825.470, ORS 825.506, ORS 825.950, ORS 825.990
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `d70f851f42971519c54331a6e93356424c276c0fe923ac09db3d7b68e79f4b0e` (snapshot `_meta/snapshots/measure-2025r1-sb839-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB839/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `c1fce9a73c490ccff593c6f02de61ef755508e728dbbc1656a5d118c68efd3fc` (snapshot `_meta/snapshots/measure-2025r1-sb839-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB839/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 839` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

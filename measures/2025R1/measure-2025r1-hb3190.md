@@ -1,0 +1,1802 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3190
+title: 'HB 3190 (2025R1): Limits the property tax special assessment program for historic property to
+  commercial property.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3190
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3190/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 524beea4666fb475f5c98c69974d622b208259d1808f7e42f139da31afdcdb58
+snapshot_id: measure-2025r1-hb3190-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 100.005
+  - ORS 100.020
+  - ORS 100.100
+  - ORS 100.105
+  - ORS 100.110
+  - ORS 162.135
+  - ORS 195.120
+  - ORS 195.300
+  - ORS 195.301
+  - ORS 197.015
+  - ORS 197.247
+  - ORS 197.251
+  - ORS 197.660
+  - ORS 197.732
+  - ORS 215.203
+  - ORS 215.213
+  - ORS 215.246
+  - ORS 215.255
+  - ORS 215.274
+  - ORS 215.275
+  - ORS 215.279
+  - ORS 215.283
+  - ORS 215.291
+  - ORS 215.296
+  - ORS 215.298
+  - ORS 215.402
+  - ORS 215.446
+  - ORS 215.447
+  - ORS 215.448
+  - ORS 215.449
+  - ORS 215.451
+  - ORS 215.452
+  - ORS 215.461
+  - ORS 215.780
+  - ORS 30.930
+  - ORS 308.146
+  - ORS 308.149
+  - ORS 308A.250
+  - ORS 311.235
+  - ORS 311.370
+  - ORS 311.505
+  - ORS 329A.250
+  - ORS 358.475
+  - ORS 358.480
+  - ORS 358.487
+  - ORS 358.490
+  - ORS 358.495
+  - ORS 358.499
+  - ORS 358.500
+  - ORS 358.505
+  - ORS 358.509
+  - ORS 358.511
+  - ORS 358.515
+  - ORS 358.525
+  - ORS 358.528
+  - ORS 358.540
+  - ORS 358.541
+  - ORS 358.543
+  - ORS 358.545
+  - ORS 358.680
+  - ORS 447.020
+  - ORS 447.145
+  - ORS 454.695
+  - ORS 459.205
+  - ORS 459.245
+  - ORS 468B.050
+  - ORS 468B.053
+  - ORS 468B.095
+  - ORS 469.300
+  - ORS 517.750
+  - ORS 520.005
+  - ORS 522.005
+  - ORS 540.505
+  - ORS 565.210
+  - ORS 671.318
+  - ORS 671.520
+  - ORS 801.580
+  - ORS 92.010
+  - ORS 93.040
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3190
+prefix_meaning: House Bill
+catch_line: Limits the property tax special assessment program for historic property to commercial property.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would make it so that only commercial property may get the tax break\
+  \ for historic property. (Flesch Readability Score: 61.6). \n\tLimits the property tax special assessment\
+  \ program for historic property to commercial property. Makes other structural changes to the program.\
+  \ \n\tTakes effect on the 91st day following adjournment sine die."
+relating_to: Relating to historic property special assessment; and prescribing an effective date.
+relating_to_full: Relating to historic property special assessment; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 1096
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-06-11T16:46:08'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 120770
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 100.005
+  - ORS 100.020
+  - ORS 100.100
+  - ORS 100.105
+  - ORS 100.110
+  - ORS 162.135
+  - ORS 195.120
+  - ORS 195.300
+  - ORS 195.301
+  - ORS 197.015
+  - ORS 197.247
+  - ORS 197.251
+  - ORS 197.660
+  - ORS 197.732
+  - ORS 215.203
+  - ORS 215.213
+  - ORS 215.246
+  - ORS 215.255
+  - ORS 215.274
+  - ORS 215.275
+  - ORS 215.279
+  - ORS 215.283
+  - ORS 215.291
+  - ORS 215.296
+  - ORS 215.298
+  - ORS 215.402
+  - ORS 215.446
+  - ORS 215.447
+  - ORS 215.448
+  - ORS 215.449
+  - ORS 215.451
+  - ORS 215.452
+  - ORS 215.461
+  - ORS 215.780
+  - ORS 30.930
+  - ORS 308.146
+  - ORS 308.149
+  - ORS 308A.250
+  - ORS 311.235
+  - ORS 311.370
+  - ORS 311.505
+  - ORS 329A.250
+  - ORS 358.475
+  - ORS 358.480
+  - ORS 358.487
+  - ORS 358.490
+  - ORS 358.495
+  - ORS 358.499
+  - ORS 358.500
+  - ORS 358.505
+  - ORS 358.509
+  - ORS 358.511
+  - ORS 358.515
+  - ORS 358.525
+  - ORS 358.528
+  - ORS 358.540
+  - ORS 358.541
+  - ORS 358.543
+  - ORS 358.545
+  - ORS 358.680
+  - ORS 447.020
+  - ORS 447.145
+  - ORS 454.695
+  - ORS 459.205
+  - ORS 459.245
+  - ORS 468B.050
+  - ORS 468B.053
+  - ORS 468B.095
+  - ORS 469.300
+  - ORS 517.750
+  - ORS 520.005
+  - ORS 522.005
+  - ORS 540.505
+  - ORS 565.210
+  - ORS 671.318
+  - ORS 671.520
+  - ORS 801.580
+  - ORS 92.010
+  - ORS 93.040
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3190`.
+
+# HB 3190 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3190, 2025 Regular Session (2025R1)
+- **LC number:** 1096
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-06-11T16:46:08
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 120770 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3190/Enrolled>.
+
+## Summary
+
+**Catchline:** Limits the property tax special assessment program for historic property to commercial property.
+
+**Relating to:** Relating to historic property special assessment; and prescribing an effective date.
+
+Digest: The Act would make it so that only commercial property may get the tax break for historic property. (Flesch Readability Score: 61.6). 
+ Limits the property tax special assessment program for historic property to commercial property. Makes other structural changes to the program. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to historic property special assessment; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 3190
+Sponsored by Representatives NOSSE, ANDERSEN; Representatives GRAYBER,  LEVY B, LEVY
+E, MARSH, NATHANSON, NELSON, RESCHKE, SMITH G, WALTERS, WATANABE,
+WRIGHT, Senators ANDERSON, FREDERICK, MANNING JR,  MEEK, PATTERSON,
+REYNOLDS (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to historic property special assessment;  creating new provisions; amending ORS 93.040,
+215.213, 215.283, 358.475, 358.480, 358.487, 358.490, 358.495, 358.499,  358.500, 358.505, 358.509,
+358.515, 358.525, 358.528, 358.543, 358.545 and 447.145 and section  2, chapter 50, Oregon Laws
+2022; repealing ORS 358.511, 358.540 and 358.541; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 358.480 is amended to read:
+358.480. As used in ORS 358.480 to 358.545, unless the context requires otherwise:
+[(1) “Americans  with Disabilities Act” means the Americans with Disabilities Act of 1990 (P.L.
+101-336), as amended.]
+[(2) “Certify,” “certified” and “certification” refer  to the approval of historic property by the State
+Historic Preservation Officer for classification and special assessment under ORS 358.495. ]
+[(3) “Classified” and “classification” refer to the recognition of property  by the State Historic
+Preservation Officer as historic property as defined in this section. ]
+[(4) “Commercial building” means improved property used  in a trade or business or held for the
+production of income, not including residential rental property. ]
+(1)(a) “Commercial property”  means improved real property that is used in a trade or
+business or held for the production of income, including but not limited to:
+(A) Single-family or multifamily residential rental property.
+(B) Office buildings, retail buildings, hotels,  banks, restaurants, service outlets and
+dwelling units inside such buildings.
+(b) “Commercial property” does not mean an owner-occupied private residence.
+[(5) “Condominium” means, with respect to property submitted  to the provisions of ORS 100.005 to
+100.627:]
+[(a) The land, if any, whether fee simple, leasehold, easement or  other interest or combination
+thereof, and whether contiguous or noncontiguous; ]
+[(b) Any buildings, improvements and structures on the property; and ]
+[(c) Any easements, rights and appurtenances belonging to the property. ]
+[(6) “Condominium unit” means a part of the property: ]
+[(a) That is described in ORS 100.020 (3); ]
+[(b) That is intended for any type of independent ownership; and ]
+[(c) The boundaries of which are described pursuant to ORS 100.105 (1)(d). ]
+Enrolled House Bill 3190 (HB 3190-A) Page 1
+[(7) “Condominium unit owner” means, except to the extent the  declaration or bylaws provide oth-
+erwise, the person owning fee simple interest in a condominium unit,  the holder of a vendee’s interest
+in a condominium unit under a recorded installment contract of sale or,  in the case of a leasehold
+condominium, the holder of the leasehold estate in a condominium unit. ]
+[(8)] (2) “Contributing resource” means a building, site or structure that adds to  the historic
+significance of [ a] an historic property or historic district.
+(3) “Date of application” means the date on  which the State Historic Preservation Officer
+determines under ORS 358.490 that an application for  classification and special assessment
+as historic property meets the requirements of ORS 358.487.
+[(9) “Developer” means,  with respect to a condominium, a declarant who records a declaration
+under ORS 100.100 or a supplemental declaration under ORS 100.110 or any person who purchases
+an interest in a condominium from a declarant, successor declarant or subsequent developer  for the
+primary purpose of resale. ]
+[(10)] (4) “Governing body”  means the city or county legislative body having jurisdiction over
+the property that is the subject of an  application for classification and special assessment as
+historic property [ special assessment ] under ORS 358.487 to 358.543.
+[(11) “Historic property” means real property that: ]
+[(a) Is  currently listed, either individually or as a contributing resource, in the National Register
+of Historic Places established and maintained under the National Historic Preservation  Act of 1966
+(P.L. 89-665);]
+[(b) Is currently not a contributing resource in a listed national register district  or property but
+that, in the opinion of the  State Historic Preservation Officer, is eligible to become a contributing re-
+source as a result of a proposed preservation plan; or ]
+[(c) Has been determined to be eligible for listing in the National  Register of Historic Places by the
+State Historic Preservation Officer. ]
+[(12)] (5) “Historic rehabilitation standards”  means the United States Secretary of the Interior’s
+Standards for  Rehabilitation as in effect on [ September 28, 2009 ] the effective date of this 2025
+Act.
+[(13)] (6) “Maintenance” means action taken to :
+(a) Mitigate wear and deterioration of [ a] an historic property without altering the historic
+character of the property[ , including action taken to ]; or
+(b) Protect and repair the condition of the property with the  least possible impact on the his-
+toric character of the property.
+[(14) “Owner” means a  purchaser of real property under a recorded instrument of sale. In the case
+of multiple purchasers, “owner” may be a designee of the purchasers. ]
+(7)(a) “Owner” means:
+(A) A person holding fee simple absolute or fee  simple defeasible estate title to real
+property as shown in the property tax records  of the county in which the property is located,
+including, but not limited to, trusts, limited liability corporations and any other legally or-
+ganized entity that may hold such title in the State of Oregon.
+(B) The purchaser of real  property under a recorded land sale contract in force for the
+real property.
+(C) If the property is owned by the trustee  of a revocable trust, the settlor of the
+revocable trust.
+(D) The trustee of an irrevocable trust.
+(b) “Owner” does not mean:
+(A) Individuals, partnerships,  corporations or public agencies holding easements on the
+property or less than fee interests, including leaseholds, of any nature.
+(B) The life tenant of a life estate.
+(8) “Owner’s legal representative” means a person who has the legal authority to act  on
+behalf of the owner.
+[(15)] (9)(a) “Preservation”[ :]
+Enrolled House Bill 3190 (HB 3190-A) Page 2
+[(a)] means the act or  process of applying measures necessary to sustain the existing form, in-
+tegrity and materials of an historic property, including  but not limited to the ongoing maintenance
+and repair of historic materials.
+(b) “Preservation”  does not include the  extensive replacement of historic materials or new
+construction.
+[(16) “Preservation plan” means a  written document, photographs and drawings that outline the
+work of preservation, maintenance and rehabilitation proposed for completion while the property is re-
+ceiving historic property special assessment or completed not  more than 24 months before the date of
+application for historic property special assessment. ]
+(10) “Preservation plan” means a written  document, photographs and drawings that
+outline the work of preservation, maintenance and rehabilitation that is proposed  for com-
+pletion during the period for which the property is granted special assessment  as historic
+property.
+[(17)] (11) “Rehabilitation” means the process of repairing or altering [ a] an historic  property
+in order to return the property to a state of utility in which an efficient contemporary use  is pos-
+sible, while preserving those  portions and features of the property that are significant to the his-
+toric, architectural and cultural values of the property.
+[(18)] (12) “Seismic  improvement” means construction or other measures that improve the seis-
+mic performance  or structural stability of property or that reduce the potential for heavy structural
+damage to property or harm to people in  or adjacent to the property in the event of an earthquake.
+[(19) “Sustainability” means, with respect to historic property, fulfilling present and  future needs
+by using,  without harming, renewable resources and unique human and environmental systems of a
+site, including air, water, land, energy, human ecology and other sustainable systems. ]
+SECTION 2.
+ ORS 358.487 is amended to read:
+358.487. (1) An owner of [ historic] commercial property [ desiring] may seek  classification and
+special  assessment as historic property  under ORS 358.487 to 358.543 for the property [ shall
+apply] by applying to the State Historic Preservation Officer on forms approved by the officer.
+(2) The application must include or be accompanied by:
+(a) A preservation plan [ as defined in ORS 358.480. The preservation plan must  commit the ap-
+plicant to expend, within the first five years for which historic property special  assessment is granted,
+an amount not less than 10 percent of the historic property’s real market value determined  as of the
+assessment date for the first tax year to which the historic property special assessment applies. ] that:
+(A) Commits the applicant to expend, within the first five years for  which historic prop-
+erty special assessment is granted, an amount not less than 10 percent  of the historic
+property’s real market value on the last certified assessment and tax roll  as of the date of
+application;
+(B) [ The focus of the preservation  plan must be ] Focuses on exterior features, especially those
+visible from a public way, and  on structural members of the property[ .];
+(C) Meets the historic rehabilitation standards with  respect to work proposed in the plan;
+(D) May include  the treatment of significant interior features, as determined by  the State His-
+toric Preservation Officer[ , may also be included in the  plan, but unless specifically required by the
+officer, work in bathrooms, kitchens, basements  and attics is not included in the preservation plan.
+Work proposed in the plan must meet the historic rehabilitation standards. ]; and
+(E) May  address compliance with the Americans with Disabilities Act of 1990 (P.L.
+101-336), as amended, seismic improvements and  improvements in energy and water conser-
+vation.
+(b) [ Payment of ] An application fee [ equal to: ] established by the State Historic Preservation
+Officer by rule.
+[(A) One-tenth  of one percent of the assessed value of the property, as of the assessment date, for
+the year in which application is made; or ]
+[(B) For property that does not have an assessed  value, one-tenth of one percent of the product of
+the real market  value of the property for the tax year in which the application is made multiplied by
+Enrolled House Bill 3190 (HB 3190-A) Page 3
+the ratio of the average maximum assessed value over the average real market value for  that tax year
+of property in the same area and property class. ]
+(c) A copy of the property’s current property tax statement.
+[(d) Proof that the owner has property insurance on the property  in an amount equal to the re-
+placement value of the property. ]
+(d) Proof that the owner has property insurance on the  property in an amount at least
+equal to the real market value of the property on the last certified  assessment and tax roll
+as of the date of application.
+(e) The written consent of the owner to the viewing of the property  by the State Historic
+Preservation Officer.
+[(3) The application must be made before April 1 of the assessment year for  which classification
+and special assessment as historic property are desired. ]
+(3) The application must be received on or before March 1 of the assessment year  for
+which classification and special assessment as historic property are sought.
+(4)(a) Property must be classified as historic property in order to be [ certified for ] specially as-
+sessed as  historic property [ special assessment ].
+[(b) Notwithstanding paragraph (a) of this subsection, property may be certified for historic prop-
+erty special assessment upon a determination of eligibility  by the State Historic Preservation Officer
+under ORS 358.480 (11)(b) or (c). Property certified  under this paragraph must become listed in the
+National Register of Historic Places within two years of certification under ORS 358.490. ]
+(b) Property may be classified as historic property if the property:
+(A) Is  currently listed, either individually or as a contributing resource, in the National
+Register of Historic Places established  and maintained under the National Historic Preser-
+vation Act of 1966 (P.L. 89-665);
+(B) Is a  building, structure, object or site that is on or within an historic property cur-
+rently listed in the National Register of Historic Places; or
+(C) In the opinion of the State Historic Preservation Officer, is eligible:
+(i) To become a contributing resource as a result of a proposed preservation plan; or
+(ii) For listing in the National Register of Historic Places.
+(c) Property classified under paragraph (b)(C) of this subsection  must become listed in
+the National Register of Historic Places within two years following the property’s  classifica-
+tion as historic property under ORS 358.490.
+[(5) Classification and special assessment  pursuant to an application made under this section are
+granted for 10 consecutive property tax years, starting in the tax year beginning on July 1 of the  as-
+sessment year described in subsection (3) of this section. ]
+(5) An owner of historic property that has been granted historic  property special as-
+sessment may reapply for another term  of special assessment for the property to begin fol-
+lowing the completion of the current term.
+[(6)] (6)(a) The application fee required under subsection (2) of this section becomes
+nonrefundable after approval under ORS 358.490 of the application to which the fee relates.
+(b) The application fee  shall be deposited in the State  Parks and Recreation Department Fund
+for use by the State Parks  and Recreation Director or for transfer to the Oregon Property Man-
+agement Account established under ORS 358.680 to 358.690[ , upon the advice  of the State Advisory
+Committee on Historic Preservation. The  application fee becomes nonrefundable after certification as
+described in ORS 358.495 ].
+SECTION 3.
+ ORS 358.490 is amended to read:
+358.490. (1)(a) After an application is [ submitted] filed under ORS  358.487, the State Historic
+Preservation Officer :
+(A) Shall [ first review  the application to ] determine whether the application meets the require-
+ments of ORS 358.487 ; and
+(B) May view the premises of the property that is the subject of the application .
+Enrolled House Bill 3190 (HB 3190-A) Page 4
+(b) If the officer determines that the application does not meet the requirements of  ORS 358.487,
+the officer shall [ return the application ] provide the applicant with [ an] a written explanation for
+the [ nonacceptance] determination.
+(c) If the officer determines that the application [ is complete ] meets the  requirements of ORS
+358.487, the officer shall mail or otherwise transmit copies of the  application to the appropriate
+county assessor, local landmark commission and governing body.
+(2) Within 30  days [ from] after the date on which  the State Historic Preservation Officer
+transmits the copy of the application under subsection (1) (c) of this section[ ,]:
+(a) The  county assessor shall review the application for accuracy and completeness of de-
+scription and other matters within the expertise of the  county assessor[ ,] and shall make recom-
+mendations regarding the validity and appropriateness of the application to the officer.
+[(3)] (b) [ Within 30 days from the date the State Historic Preservation officer  transmits the copy
+of the  application under subsection (1) of this section, ] The governing body shall review the applica-
+tion for matters relating to public benefit and shall make  recommendations regarding the classi-
+fication to the officer.
+[(4)] (3) During the review process of each application, the State Historic  Preservation Officer
+shall consider the county assessor’s and governing body’s recommendations  submitted under [ sub-
+sections (2) and (3) ] subsection (2) of this section.
+[(5)(a)] (4)(a) After [ receiving] considering the recommendations from the county  assessor and
+governing body under [ subsections (2) and  (3) ] subsection (3)  of this section, the State Historic
+Preservation Officer shall approve or deny the application  or approve the application with condi-
+tions.
+(b) The officer may  approve the application with respect to only part of the property that is the
+subject of the application. However, if any part of the  application is denied, the applicant may
+withdraw the application.
+(c) The officer may not [ disapprove the ] deny an application solely because of the potential loss
+of revenue that might result from granting the [ application] special assessment .
+(d) An application that has not been denied under paragraph (a) of this subsection on  or
+before July 1 of the assessment year is deemed approved.
+(e) The approval of an application  under this section has the effect of classifying the
+property that is the  subject of the application as historic property and granting the property
+special assessment under ORS 358.487 to 358.543.
+[(6)] (5) Property classified as historic property  [ under ORS 358.487 to 358.543 ] and granted
+special assessment under this  section  is entitled to any other exemption or special assessment
+provided by law for which the property is eligible .
+[(7)] (6) A preservation plan that has  been approved by the State Historic Preservation Officer
+may be amended from time to time, [ either] at the request of the owner or [ at the request of  the State
+Historic Preservation ] the officer. The amendments may be  approved, approved in part or [ disap-
+proved] denied by the [ State Historic Preservation ] officer. [ To the extent  the] Any amendments that
+are approved[ , amendments shall ] become part of the preservation plan [ that must be carried out in
+order that the property not be disqualified as historic property ] and are subject to all  applicable
+requirements as if the amendments had been included in the original preservation plan .
+SECTION 4.  ORS 358.495 is amended to read:
+358.495. [(1)(a)] (1) [ Immediately] As soon as practicable  following approval or [ disapproval]
+denial of an application under ORS 358.490, but in no event later than July 1 of  the property
+tax year for which classification and special  assessment as historic property are first sought,
+the State Historic Preservation Officer shall notify [ the county assessor, ] in writing:
+(a) The governing body and the applicant of the decision [ in writing not  later than July 1 of the
+tax year for which classification and special assessment are first desired. ]; and
+(b) If the application is approved, the county assessor.
+Enrolled House Bill 3190 (HB 3190-A) Page 5
+[(b) An application not denied on or before July 1 pursuant to paragraph  (a) of this subsection is
+deemed approved, and the  property that is the subject of the application is historic property that qual-
+ifies under ORS 358.487 to 358.543. ]
+(2) [ If the State Historic Preservation officer determines that the historic property qualifies under
+ORS 358.487 to 358.543, the officer shall, ] For each application that is approved:
+(a) Not later than  July 1 of the first property  tax year for which the property that is the
+subject of the application  is [ first certified for ] granted historic property special assessment , the
+State Historic Preservation Officer shall :
+[(a)] (A) Notify the local landmark commission in writing that the property [ is certified. ] has
+been classified and granted special assessment as historic property;
+[(b) Certify the property’s qualification in writing and file a copy of the certificate with the  county
+assessor and the governing body. The certificate shall state the facts and list any condition on which
+the approval is based. ]
+(B) Create a  written record that states the facts and lists any condition on which the
+special assessment is based; and
+(C) Provide a written statement  to the county assessor and the governing body that the
+property has been classified and granted special assessment as  historic property, and provide
+a copy of the written statement to the owner of the historic property.
+[(c)] (b) Within 90 days after providing the written statement under paragraph (a)(C) of
+this subsection, the officer shall  record a notice with the county clerk in the county in  which the
+[certified] historic property  is located stating that the property [ is certified for ] has been classified
+and granted special assessment as  historic property [ special assessment ].
+[(d)] (c) Within one year after receiving the copy  of the written statement under para-
+graph (a)(C) of this subsection,  [ provide the owner of the property with a plaque. ] the owner shall
+install [ the] a plaque on  the historic property in a location that is visible from a public right of way.
+(3) The county assessor shall assess [ historic property certified under this section on  the basis
+provided in ] historic property granted special assessment under  ORS 358.490 in accordance
+with ORS 358.505, and , for  each property tax  year that the  historic property is [ classified and
+assessed under ORS 358.505 ] specially assessed, shall enter on the assessment and tax roll  that the
+property is being  specially assessed as historic property , and is subject to potential additional taxes
+as provided in ORS 358.525 , by adding the notation “historic property (potential additional tax).”
+(4) [ If the State Historic Preservation Officer determines that the property does not qualify for
+classification and assessment under ORS 358.487 to 358.543 ] For each application that is denied ,
+the State Historic Preservation  Officer shall give written notice of the denial to the applicant. The
+notice shall state the reasons for the denial.
+[(5)(a)] (5) Any owner, governing body or county assessor [ affected] aggrieved by  a determi-
+nation of  the State Historic Preservation Officer made under ORS 358.487 to 358.543 may request
+[review of the determination: ] a contested case hearing  of the determination according to the
+provisions of ORS chapter 183.  The administrative law judge presiding at the contested case
+hearing shall determine the final order in the case.
+[(A) Pursuant to an appeal process established by the local governing body, if any; or ]
+[(B) By the Historic Assessment Review Committee. ]
+[(b) After the review described in paragraph (a) of this  subsection, any party may request a con-
+tested case hearing of the decision according to the  provisions of ORS chapter 183. The administrative
+law judge presiding at the contested case hearing shall determine the final order in the case. ]
+SECTION 5.
+ ORS 358.499 is amended to read:
+358.499. [(1) Property first classified  and specially assessed as historic property for a tax year be-
+ginning on or before July 1, 1994, shall continue to be so classified, specially assessed and removed
+from special assessment as provided under ORS 358.487 to 358.543 as those sections were in  existence
+and in effect on December 31, 1992. ]
+Enrolled House Bill 3190 (HB 3190-A) Page 6
+[(2)] (1) Property may be classified and specially assessed  as historic property  under ORS
+358.487 to 358.543 pursuant to an application filed under ORS 358.487 on or after September  9, 1995,
+and first applicable for the property tax year 1996-1997 or any  property tax year thereafter.
+[(3)] (2) Property may not be classified and  specially assessed as historic property  pursuant to
+an application filed under ORS [ 358.487 or] 358.540, [ if the application is filed ] as in effect  on the
+day that is immediately before  the effective date of this 2025  Act,  on or after July 1, [ 2024]
+2031, for property tax years beginning on or after July 1, [ 2025] 2032.
+(3) Property may not be classified and specially  assessed as historic property pursuant
+to an application filed under ORS 358.487 on or after July 1, 2032.
+SECTION 6.  ORS 358.500 is amended to read:
+358.500. (1)(a) The owner of property [ certified for special assessment as historic property  under
+ORS 358.490 ] classified and specially assessed as historic property under ORS 358.480 to
+358.545 shall  submit written progress reports concerning the preservation plan to the State Historic
+Preservation Officer in a form , on a schedule and including content  prescribed by the officer , on
+or before December 31 [ of] for the property tax years  ending on June 30 of the third, sixth and
+ninth years of the  period for which the  historic  property [ special assessment period under ORS
+358.487 to 358.543] is specially assessed .
+[(2)] (b) [ In addition to the reports required under  subsection (1) of this section, at the end of the
+first five years for which historic property  special assessment is granted, the owner shall submit a re-
+port demonstrating ] The report for the  sixth year required under this subsection must dem-
+onstrate compliance with the expenditure commitment under the  preservation  plan as [ described
+in] required under ORS 358.487 (2)(a).
+(c) All reports required under this subsection must  demonstrate that all work meets the
+historic rehabilitation standards.
+[(3)(a)] (2)(a) The State Historic Preservation Officer is at all times  authorized to demand and
+receive [ reports] from owners of property classified and specially assessed as historic  property [ un-
+der ORS 358.487  to 358.543 as to ] reports demonstrating  the continued [ qualification] eligibility
+of the [ property for historic] property for classification and special assessment as historic
+property. [ The content of reports and times for  reporting under this subsection shall be determined
+by the officer. ]
+(b) If [the owner fails ], after 30 days’ written notice by mail, return receipt requested, the owner
+fails to comply with  the officer’s demand, the officer shall immediately notify the county assessor
+and the assessor shall [ withdraw] disqualify the property [ from] for the  special assessment [ and
+apply the penalties provided by ORS 358.525 ] as provided in ORS 358.515 (1)(f) .
+[(b)] (3) The State Historic Preservation  Officer may conduct on-site inspections of historic
+property granted special assessment, with or without cause, upon 30 days’ notice.
+(4)[(a)] Before starting any work that is described  in a preservation plan or that affects historic
+features of property [ certified] classified and specially assessed  as historic property [ pursuant to
+this chapter ] under ORS 358.480 to 358.545 , the owner of the historic property must apply for and
+receive written approval:
+[(A)] (a) From the [ local] governing body if:
+[(i)] (A) The governing body has [ a] an historic preservation  ordinance and review process that
+has been approved by  the State Historic Preservation Officer and under which the historic property
+is already regulated;
+[(ii)] (B) The proposed work requires historic review by the governing body’s historic preserva-
+tion ordinance and review process; and
+[(iii)] (C) The governing body has not  requested that approval of work pursuant to this section
+be handled by the [ State Historic Preservation ] officer; or
+[(B)] (b) If the conditions in [ subparagraph (A) ] paragraph (a) of this [ paragraph] subsection
+have not been met, from the [ State Historic Preservation ] officer.
+[(b) All work must meet the historic rehabilitation standards. ]
+Enrolled House Bill 3190 (HB 3190-A) Page 7
+(5)(a) If the governing body’s  approval is required under subsection (4) of this section, the gov-
+erning body shall :
+(A) Notify the State Historic Preservation Officer  of the proposed work[ . The governing body
+shall]; and
+(B) Allow the officer at least 14 calendar days to comment on the proposed work before making
+a decision on the application.
+(b) The governing body’s approval required under subsection (4) of this section is  not
+valid if the officer is not given the opportunity to comment as provided in paragraph  (a)(B)
+of this subsection.
+SECTION 7.  ORS 358.505 is amended to read:
+358.505. [(1)(a) Except as provided in paragraphs (b)  and (c) of this subsection, for property certi-
+fied for special assessment  as historic property under ORS 358.490, the county assessor shall for 10
+consecutive tax years  list on the assessment and tax roll a specially assessed value that equals the real
+market value of the property at the time application was made under ORS 358.487. ]
+[(b) If the property  certified for special assessment as historic property is a condominium unit being
+assessed upon initial sale by the developer, the county assessor shall for the tax years of the  remaining
+term of historic property  special assessment list on the assessment and tax roll a specially assessed
+value that equals the real market value of the property for the tax year in which the initial  sale took
+place.]
+[(c) For property certified under ORS 358.490 for a second term of special assessment as historic
+property under ORS 358.540, the county assessor  shall, for 10 consecutive tax years after the date of
+the filing of the application under ORS 358.487 for the second term, list on the assessment and tax roll
+a specially assessed value that equals the real market value of the property for the assessment year in
+which the application is made. ]
+(1)(a) Except as provided in paragraph (b) of this subsection, for property granted special
+assessment as historic  property under ORS 358.480 to 358.545, the county assessor shall list
+on the assessment and tax roll for 10 consecutive  tax years a specially assessed value that
+equals the real market value  of the property on the last certified assessment and tax roll
+as of the date of application.
+(b) Work not included in the preservation plan required under  ORS 358.487 (2)(a) but
+undertaken on property within the same property  tax account shall be assessed and taxed
+as other property similarly situated is assessed and taxed.
+(2)(a)(A) [ Notwithstanding ORS 308.149 (2), and ] Except as provided in subparagraph (B) of this
+paragraph, for the first  property  tax year of [ an initial or second ] a 10-year period of  historic
+property special assessment, the  maximum assessed value of the historic  property [ subject to his-
+toric property special assessment ] shall equal the specially assessed value  of the  historic  property
+as determined under subsection (1) of this section multiplied by the ratio, not  greater than 1.00, of
+the maximum assessed value the historic property would have had from the prior  year if the prop-
+erty were not specially assessed as historic property  over the real market value of  the historic
+property from the prior year.
+(B) If the property was specially assessed or exempt in the prior year, for the  first property tax
+year of [ an initial or second ] a 10-year period of historic property special  assessment, the maximum
+assessed value of  the historic property [ subject to historic property special assessment ] shall equal
+the specially assessed value of the historic property multiplied by the ratio  of the maximum as-
+sessed value the historic property would have had if disqualified from the special assessment or
+exemption in the prior year over the real market value of the property from the prior year.
+(b) For each property tax year after the first property tax year during which the property  is
+[subject to special assessment ] specially assessed  as historic property,  the historic property’s max-
+imum assessed value [ equals] shall equal 103 percent of the  property’s assessed value from the prior
+year or 100 percent of the property’s maximum assessed value from the prior year,  whichever is
+greater.
+Enrolled House Bill 3190 (HB 3190-A) Page 8
+(3) The assessed value of property that is [ classified] specially assessed as historic property for
+[the] a property tax year shall equal the least of:
+(a) The historic property’s specially assessed value as  determined under subsection (1) of this
+section;
+(b) The historic property’s  maximum assessed value as determined under subsection (2) of this
+section;  or
+(c) The historic property’s real market value as of the assessment date for the tax year.
+(4) The [ entitlement] eligibility of property [ to the ] for special assessment [ provisions of this sec-
+tion] under ORS 358.480 to  358.545 shall be determined as of July 1. If the property becomes dis-
+qualified on or  after July 1, its assessment for that  property tax  year shall continue as provided
+in this section.
+(5) Assessed value,  as defined and determined under ORS 308.146, shall be determined for prop-
+erty [ classified] specially assessed as historic property  by the county assessor for each  property
+tax year. The assessed value so determined for any  property tax  year shall be subject to appeal
+to the county property value appeals board within the time and  in the manner provided in ORS
+chapter 309 and shall be subject to appeal [ thereafter] to the Oregon Tax Court  and to the Oregon
+Supreme Court within the time and in the manner provided for  appeals of value determination for
+purposes of ad valorem property taxation.
+SECTION 8.  ORS 358.509 is amended to read:
+358.509. (1) A county assessor, local landmark commission or governing body shall re-
+quest the State Historic Preservation Officer to determine whether historic property that  is
+located in their respective jurisdictions and  classified and specially assessed as historic
+property under ORS  358.480 to 358.545 continues to be eligible for classification and special
+assessment  if [ the county assessor, local landmark commission or governing body has ] there is  rea-
+son to believe that the historic  property [ classified as historic property ]:
+(a) Is not being maintained, rehabilitated or preserved as required under :
+(A) The preservation plan approved for the property, as amended[ ,]; or [ as required under ]
+(B) Rules established by the Department of Revenue or  the [ State Historic  Preservation ]
+officer[ ,]; or
+(b) Is  otherwise no longer [ qualifies] eligible for classification [ and] or special assessment as
+historic property[ , the county assessor, local landmark commission or governing body  shall request the
+State Historic Preservation Officer to determine if the property continues to qualify ].
+(2) The request [ shall] must be in writing and state the reasons why the  [ continuing qualifica-
+tion is ] classification or special assessment is being  questioned.
+(3) Upon receipt of the request, the State Historic Preservation Officer  may initiate a [ continu-
+ing qualification ] review of the historic property’s eligibility for the  classification and special
+assessment .
+(4) If a review is initiated, the State Historic Preservation Officer or a designee of  the officer
+shall inspect the historic property and may take whatever steps  are necessary to determine [ if]
+whether the historic property continues to [ qualify] be eligible for the classification and  special
+assessment.
+(5) Within 60 days after receipt of a request under subsection (1)  of this section,  the State
+Historic Preservation Officer shall notify the county assessor , local landmark  commission or
+governing body of the determination made pursuant to  the request [ within 60 days after the request
+is received ].
+SECTION 9.  ORS 358.515 is amended to read:
+358.515. (1) [ When] Property that has [ once] been classified and specially assessed as  historic
+property [ pursuant to application filed under ORS 358.487, it ] under ORS 358.480 to 358.545 remains
+classified and [ is granted  the special assessment provided by ORS 358.505 ] specially assessed until
+it [ becomes] is disqualified for classification and special assessment by:
+(a) Expiration of [ an initial or second ] the 10-year period of special assessment.
+Enrolled House Bill 3190 (HB 3190-A) Page 9
+(b) Sale or  transfer to a governmental or nonprofit entity that is exempt from ad valorem
+property taxation.
+(c) [ The] Destruction  or [ substantial] alteration [ of the property ] by acts of nature or other events
+for which the owner is not responsible.
+[(d) Initial sale of a condominium as provided in ORS 358.543 (3)(b). ]
+[(e)] (d) Written notice by the [ taxpayer] owner to the  county assessor to [ remove] discontinue
+the special assessment.
+[(f)] (e) The owner’s failure to :
+(A) Maintain, preserve or rehabilitate the historic property [ or to ];
+(B) Comply with the  expenditure commitment [ in accordance with ] under the preservation plan
+as required under ORS 358.487 (2)(a); or
+(C) Comply with the historic rehabilitation standards.
+[(g)] (f) The owner’s failure to submit required reports.
+[(h) Failure of the property to  be listed in the National Register of Historic Places either individ-
+ually or as a contributing resource in  a listed historic district or property within two years of certif-
+ication as required under ORS 358.487 (4)(b). ]
+(g) Failure of the property to be listed in the National  Register of Historic Places, either
+individually or as a contributing resource, within two years following classification as re-
+quired under ORS 358.487 (4)(c).
+[(i)] (h) The owner’s failure to obtain[ , or the lapse of, ] or to maintain  the property insurance
+required under ORS 358.487 (2)(d).
+[(j)] (i) The owner’s demolition of the historic property.
+[(k)] (j) The owner’s [ substantial] alteration of the  historic property in a way that does not meet
+the historic rehabilitation standards.
+(k) The property ceasing to be commercial property.
+(2)[(a)] When[ , for any  reason, ] the historic property or any portion of the property  ceases to
+[qualify] be eligible  for classification and special assessment as historic property for any
+reason, the owner [ at the time of change ] shall notify the county assessor and the  State Historic
+Preservation Officer of the change [ prior to ] before the next [ January 1 ] assessment date.
+[(b)] (3) The State Historic Preservation  Officer [ makes] shall make the final
+[determinations] determination of  whether historic property is disqualified for special assessment
+under ORS 358.487 to 358.543.
+[(3)] (4) Except [ as provided by ] in the circumstances described in  subsection (1)(a) of this
+section, disqualification does not constitute completion of a 10-year period of special  assessment
+[certified under ORS 358.490 ] under ORS 358.480 to 358.545  or preclude [ a] the property’s future
+special assessment under ORS 358.487 to 358.543.
+[(4) The State Historic  Preservation Officer shall notify the owner in writing before July 1 of the
+10th and final year for which property is certified for special assessment  under ORS 358.490 that the
+special assessment is due to expire and shall outline the options available to the owner upon  disquali-
+fication upon expiration of an initial or second 10-year period of special assessment, as applicable. ]
+(5) Upon expiration [ of an initial or second ] under subsection  (1)(a) of this section of a
+10-year period of special assessment, the State Historic Preservation Officer shall notify the owner,
+the governing body and the county assessor that the term has expired.
+SECTION 10.
+ ORS 358.525 is amended to read:
+358.525. (1) Except  as provided in subsection (4) of this section, whenever property that has
+[received special assessment ] been specially assessed  as historic property under ORS 358.487 to
+358.543 [becomes] is disqualified for special assessment as provided  in ORS 358.515, there [ is] shall
+be added to the tax extended against the  property on the next general property tax roll, to be col-
+lected and distributed in the same manner as the remainder of [ real property tax ] the ad valorem
+property taxes:
+(a) Additional taxes equal to the difference , as of January 1 of the  assessment year in which
+the property was disqualified for special assessment,  between the taxes  assessed against the
+Enrolled House Bill 3190 (HB 3190-A) Page 10
+property and the taxes that would [ otherwise] have been assessed  against the property had the
+property not been specially assessed as historic property under ORS 358.480 to 358.545,  for
+each of the  [ last 10 ] property tax years [ (or a lesser number of years corresponding to the years of
+assessment as historic property applicable to the property) as of  January 1 of the assessment year for
+which the property was disqualified for special assessment ] for which the historic  property was
+actually specially assessed ;
+[(b) An  amount equal to the sum of the interest on each year’s additional taxes computed under
+ORS 311.505 from November 15 of the tax year for which back taxes are being added to July  1 of the
+tax year of disqualification; and ]
+(b) An  amount equal to the sum of the interest, as computed under ORS 311.505, on each
+year’s additional taxes, from December 15 of the first property  tax year for which additional
+taxes are being added to July 1 of the property tax year of disqualification; and
+(c) A penalty  in the amount of 15 percent of the amount computed under paragraph (a) of this
+subsection.
+(2) Whenever property that has [ received special assessment ] been specially assessed as historic
+property [ under ORS 358.505 becomes ] is disqualified for the special assessment  and the notice re-
+quired [ by] under ORS 358.515 (2) [ is not ] has not been given, the county assessor shall :
+(a) Determine the date [ that] on which the notice should have been given[ , shall ];
+(b) Notify the owner [ thereof] of the failure to give notice and the date of delinquency;
+and[,]
+(c) Notwithstanding ORS 311.235, [ there shall be added ] add to the tax extended against the
+property on the next general property  tax roll, to be collected and distributed in the same manner
+as the remainder of the [ real property tax ] ad valorem property taxes , in full payment  of all taxes
+and penalties accruing from the disqualification, the sum of the following:
+[(a)] (A) Additional taxes equal to the difference between the [ total amount of taxes  that would
+have been due on ] taxes assessed against  the historic property [ for each year,  not to exceed the last
+10 years, in which special assessment under ORS 358.505 was in effect for the property (even though
+erroneously) ] and the taxes that would have been  [ due had special assessment not been in effect ] as-
+sessed against the  property had the property not been specially assessed as historic property,
+for each of the property tax years for which the  historic property was actually specially as-
+sessed;
+[(b) An  amount equal to the sum of the interest on each year’s additional taxes computed under
+ORS 311.505 from November 15 of the  tax year for which additional taxes are being added to July 1
+of the tax year of disqualification; and ]
+[(c) An additional penalty of 15 percent of the amount in paragraph (a) of this subsection. ]
+(B) An amount equal to the sum of the interest, as computed  under ORS 311.505, on each
+year’s additional taxes, from December 15 of the first property  tax year for which additional
+taxes are being added to July 1 of the property tax year of disqualification; and
+(C) A penalty in the amount of 15 percent of the amount  computed under subparagraph
+(A) of this paragraph.
+(3) [ Prior to adding ] For property disqualified under ORS 358.515 (1)(e) to (k), the county
+assessor shall notify the owner of the property by mail,  return receipt requested, of the
+disqualification before adding any additional amount imposed under subsection (1) or  (2) of
+this section  to the tax extended against the property  on the next general property tax roll [ any
+additional amount imposed by subsection (1) or (2) of this section, in the case of disqualification pur-
+suant to ORS  358.515 (1)(f) to (k), the assessor shall notify the owner of the property by mail, return
+receipt requested, of the disqualification ].
+(4) Additional [ tax or penalty ] taxes, interest and penalties  may not be  imposed under sub-
+section (1) or (2) of this section in the case of property disqualified [ pursuant to ] under:
+(a) ORS 358.515 (1)(a), (b)[ , (c) or (d) ] or (c) ; or
+Enrolled House Bill 3190 (HB 3190-A) Page 11
+(b) ORS 358.515 [ (1)(e)] (1)(d) if the written notice is accompanied by  proof that the owner has
+complied with the expenditure  commitment under the preservation plan as [ described in ] required
+under ORS 358.487 (2)(a).
+(5) The amount determined to be due under subsection (1)  or (2) of this section may be paid to
+the tax collector prior to the completion of the next general property tax  roll, pursuant to ORS
+311.370.
+(6) Additional taxes collected under this section shall be deemed to have been  imposed in the
+property tax year to which the additional taxes relate.
+SECTION 11.  ORS 358.528 is amended to read:
+358.528. When any property has been classified  and specially assessed as historic property under
+ORS 358.487 to 358.543 and the owner or [ other qualified  person ] the owner’s legal representative
+applies for a change in the classification  under another special assessment program, the applicant
+shall have  30 calendar days [ thereafter] following the filing of the application  within which to
+withdraw the application, by giving written notice to the public official  or agency to whom the ap-
+plicant applied for the change in classification. If  no notice of withdrawal is given by the applicant,
+the application shall be acted upon and the change in  classification made, as otherwise provided by
+law.
+SECTION 12.  ORS 358.543 is amended to read:
+358.543. [(1)(a)] (1) The value  of new construction or additions to [ historic properties certified for
+special assessment ] property classified and specially assessed as historic property under ORS
+358.487 to 358.543 [ is] shall be assessed in the same manner as the original  historic property under
+ORS 358.505 if the [ additions or ] new construction  or additions:
+[(A)] (a) Were included in the preservation plan approved  [ pursuant to ] under ORS [ 358.540]
+358.490; and
+[(B)] (b) Meet the historic rehabilitation standards [ as defined in ORS 358.480 ].
+(2) Notwithstanding subsection (1) of this section, new construction or additions may not
+be specially assessed as historic property if the governing body or the State Historic  Pres-
+ervation Officer, in accordance with ORS  358.500 (4), determines that the new construction
+or additions are independent structures as determined by use or ownership.
+[(b) Notwithstanding paragraph (a) of this subsection, additions or new  construction are not as-
+sessed under ORS 358.505 if the local  governing body or the State Historic Preservation Officer, in
+accordance with ORS 358.500 (4), determines that the additions or improvements are: ]
+[(A) Sited on the property in a manner more suitable for primary historic buildings in the area; ]
+[(B) Of a size or scale more appropriate to primary historic buildings in the area; or ]
+[(C) Independent structures as determined by use or ownership. ]
+[(c)] (3) If [ additions or ] new construction or additions described in [ paragraph (b) ] subsection
+(2) of this section  are disqualified for any reason listed in ORS 358.515 (1), the  entire property may
+be disqualified for historic property special assessment.
+[(2)(a) Buildings  divided into condominiums are eligible for special assessment as historic property
+under ORS 358.505 only in their entirety on the basis of one application pursuant to ORS 358.487. ]
+[(b) No individual condominium unit owner may opt out at the  time of certification pursuant to this
+chapter or seek disqualification once the building has been certified. At the time  application is made,
+a letter to this effect must be delivered to each condominium unit owner. ]
+[(3)(a) When a building  that is certified as historic property is divided into condominium units, the
+assessor shall calculate the specially assessed value of the entire building pursuant  to ORS 358.505
+(1)(a) or (b), as applicable. ]
+[(b) Initial sale of  a condominium unit by the developer disqualifies the unit within the meaning
+of section 11 (1)(c)(E), Article XI of the Oregon Constitution. ]
+[(c) Upon disqualification due to initial sale, the condominium  unit is requalified without further
+application for the remaining term of the current 10-year period  of historic property special
+assessment.]
+Enrolled House Bill 3190 (HB 3190-A) Page 12
+[(d) Upon requalification after initial sale, the assessor shall calculate the specially  assessed value
+of the condominium unit pursuant to ORS 358.505 (1)(c). ]
+[(e) Upon sale of individual condominium units, a notice of the building’s classification  and special
+assessment as historic property in its entirety must be attached to each  deed. Recording fees for all
+condominium units must be paid by the condominium association. ]
+[(4) If the building qualifies for a second 10-year period  under ORS 358.540, each condominium
+unit is separately assessed pursuant to the applicable provisions of ORS 358.505. ]
+SECTION 13.  ORS 358.545 is amended to read:
+358.545. The Director of  the Department of Revenue and the State Historic Preservation Officer
+shall adopt rules  within their areas of expertise as necessary to carry out the purposes of [ special
+assessment under ] ORS 358.487 to 358.543.
+SECTION 14.  ORS 358.475 is amended to read:
+358.475. The Legislative Assembly hereby declares that it is in the  best interest of the state to
+maintain, preserve and rehabilitate properties of Oregon  historical significance. Historic preserva-
+tion incentive programs  provide a public benefit by encouraging preservation and appropriate re-
+habilitation of significant historic properties. These historically significant  portions of the built
+environment contain the  visual and intellectual record of our irreplaceable cultural heritage. They
+link us with our past traditions  and values, establish standards and perspectives for measuring our
+present achievements and set goals for future accomplishments. To the extent  that Oregon’s historic
+preservation incentive programs  encourage the preservation and appropriate rehabilitation of sig-
+nificant historical property, the programs create a positive partnership between the public good and
+private property that promotes economic development; tourism; energy and resource conservation;
+[sustainability;] neighborhood, downtown and rural revitalization; efficient use  of public
+infrastructure; and civic pride in our shared historical and cultural foundations.
+SECTION 15.
+ Section 2, chapter 50, Oregon Laws 2022, is amended to read:
+Sec. 2.  Notwithstanding ORS 358.499  (3)  (2023 Edition), property that was granted special as-
+sessment as historic property under ORS 358.480  to 358.545 for any property tax year beginning
+before  July  1, 2025, shall continue to be specially assessed under the provisions of ORS 358.480 to
+358.545, including the period for which the special assessment was  granted, in effect as of the date
+on which the property was granted the first year of the property’s current initial  or second 10-year
+period of historic property special assessment.
+SECTION 16.  ORS 93.040 is amended to read:
+93.040. (1) The  following statement shall be included in the body of an instrument transferring
+or contracting to transfer fee title to  real property except for owner’s sale agreements or earnest
+money receipts, or both, as provided in subsection (2) of this section: “BEFORE SIGNING  OR AC-
+CEPTING THIS INSTRUMENT, THE  PERSON TRANSFERRING FEE TITLE SHOULD INQUIRE
+ABOUT THE PERSON’S  RIGHTS, IF ANY, UNDER ORS 195.300, 195.301 AND 195.305 TO 195.336
+AND SECTIONS 5 TO 11, CHAPTER 424, OREGON LAWS 2007, SECTIONS 2 TO  9 AND 17,
+CHAPTER  855, OREGON LAWS 2009, AND SECTIONS 2 TO 7, CHAPTER 8, OREGON LAWS 2010.
+THIS INSTRUMENT DOES  NOT ALLOW USE OF THE PROPERTY DESCRIBED IN THIS IN-
+STRUMENT IN VIOLATION OF APPLICABLE LAND USE  LAWS AND REGULATIONS. BEFORE
+SIGNING OR  ACCEPTING THIS INSTRUMENT, THE PERSON ACQUIRING FEE TITLE TO THE
+PROPERTY SHOULD CHECK  WITH THE APPROPRIATE CITY OR COUNTY PLANNING DE-
+PARTMENT TO VERIFY  THAT THE UNIT OF LAND BEING TRANSFERRED IS A LAWFULLY
+ESTABLISHED LOT OR PARCEL, AS DEFINED IN ORS 92.010 OR 215.010,  TO VERIFY THE
+APPROVED USES OF THE LOT OR PARCEL, TO DETERMINE ANY LIMITS ON  LAWSUITS
+AGAINST FARMING OR FOREST PRACTICES, AS DEFINED  IN ORS 30.930, AND TO INQUIRE
+ABOUT THE RIGHTS OF NEIGHBORING PROPERTY OWNERS, IF  ANY, UNDER ORS 195.300,
+195.301 AND  195.305 TO 195.336 AND SECTIONS 5 TO 11, CHAPTER 424, OREGON LAWS 2007,
+SECTIONS 2 TO 9 AND  17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2 TO 7,
+CHAPTER 8, OREGON LAWS 2010.”
+Enrolled House Bill 3190 (HB 3190-A) Page 13
+(2) In all owner’s sale agreements and  earnest money receipts, there shall be included in the
+body of the instrument the following  statement: “THE PROPERTY DESCRIBED IN THIS INSTRU-
+MENT MAY NOT BE WITHIN A FIRE PROTECTION DISTRICT  PROTECTING STRUCTURES.
+THE PROPERTY IS SUBJECT TO  LAND USE LAWS AND REGULATIONS THAT, IN FARM OR
+FOREST ZONES, MAY NOT AUTHORIZE  CONSTRUCTION OR SITING OF A RESIDENCE AND
+THAT LIMIT LAWSUITS AGAINST  FARMING OR FOREST PRACTICES, AS DEFINED IN ORS
+30.930, IN ALL ZONES. BEFORE SIGNING OR ACCEPTING THIS  INSTRUMENT, THE PERSON
+TRANSFERRING FEE TITLE  SHOULD INQUIRE ABOUT THE PERSON’S RIGHTS, IF ANY,
+UNDER ORS 195.300, 195.301 AND 195.305 TO 195.336 AND SECTIONS 5 TO  11, CHAPTER 424,
+OREGON LAWS 2007, SECTIONS 2 TO 9 AND 17,  CHAPTER 855, OREGON LAWS 2009, AND
+SECTIONS 2 TO 7, CHAPTER  8, OREGON LAWS 2010. BEFORE SIGNING OR ACCEPTING THIS
+INSTRUMENT, THE PERSON ACQUIRING FEE TITLE TO THE PROPERTY SHOULD  CHECK
+WITH THE  APPROPRIATE CITY OR COUNTY PLANNING DEPARTMENT TO VERIFY THAT
+THE UNIT OF LAND BEING TRANSFERRED IS A LAWFULLY  ESTABLISHED LOT OR PAR-
+CEL, AS DEFINED IN ORS 92.010 OR 215.010, TO VERIFY THE  APPROVED USES OF THE LOT
+OR PARCEL, TO VERIFY THE  EXISTENCE OF FIRE PROTECTION FOR STRUCTURES AND
+TO INQUIRE ABOUT THE RIGHTS OF NEIGHBORING PROPERTY  OWNERS, IF ANY, UNDER
+ORS 195.300, 195.301 AND 195.305 TO 195.336 AND SECTIONS 5 TO 11, CHAPTER  424, OREGON
+LAWS 2007, SECTIONS 2 TO 9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND  SECTIONS
+2 TO 7, CHAPTER 8, OREGON LAWS 2010.”
+(3) In all owners’  sale agreements and earnest money receipts  related to property  subject to
+ORS 358.505, there  shall be included in the body of the instrument or by addendum the following
+statement: “THE PROPERTY DESCRIBED  IN THIS INSTRUMENT IS SUBJECT TO SPECIAL
+ASSESSMENT UNDER ORS 358.505.”
+(4) An action may not be maintained against the county recording  officer for recording an in-
+strument that does not contain the statement required in subsection (1) or (2) of this section.
+(5) An action may not be maintained  against any person for failure to include in the instrument
+the statement required in subsection (1) or (2) of  this section, or for recording an instrument that
+does not contain the  statement required in subsection (1) or (2) of this section, unless the person
+acquiring or agreeing to acquire fee title to the real property would not  have executed or accepted
+the instrument but for the absence in the instrument of the statement required by subsection (1)  or
+(2) of this section. An action may not be maintained by  the person acquiring or agreeing to acquire
+fee title to the real property against any person other than the person transferring  or contracting
+to transfer fee title to the real property.
+(6) A transfer [ of] on death deed and an instrument revoking a transfer [ of] on death deed are
+not instruments subject to this section.
+SECTION 17.  ORS 215.213 is amended to read:
+215.213. (1) In counties that have  adopted marginal lands provisions under ORS 197.247 (1991
+Edition), the following uses may be established in any area zoned for exclusive farm use:
+(a) Churches and cemeteries in conjunction with churches.
+(b) The propagation or harvesting of a forest product.
+(c) Utility facilities necessary for  public service, including wetland waste treatment systems but
+not including commercial facilities for the purpose of  generating electrical power for public use by
+sale or transmission towers over 200 feet in height. A utility facility  necessary for public service
+may be established as provided in:
+(A) ORS 215.275; or
+(B) If the utility facility is an associated transmission line, as defined  in ORS 215.274 and
+469.300.
+(d) A dwelling on real property used for farm use if the dwelling is occupied by a  relative of the
+farm operator or the farm operator’s spouse, which means a  child, parent, stepparent, grandchild,
+grandparent, stepgrandparent, sibling, stepsibling, niece, nephew or first cousin of either,  if the farm
+operator does or will require the assistance of  the relative in the management of the farm use and
+Enrolled House Bill 3190 (HB 3190-A) Page 14
+the dwelling  is located on the same lot or parcel as the dwelling of the farm operator.
+Notwithstanding ORS 92.010 to 92.192 or the minimum lot or parcel size requirements under ORS
+215.780, if the owner of a dwelling described in this paragraph obtains  construction financing or
+other financing secured by the dwelling  and the secured party forecloses on the dwelling, the se-
+cured party may also foreclose on the  homesite, as defined in ORS 308A.250, and the foreclosure
+shall operate as a partition of the homesite to create a new parcel.
+(e) Nonresidential buildings customarily provided in conjunction with farm use.
+(f) Subject to ORS 215.279, primary or  accessory dwellings customarily provided in conjunction
+with farm use. For a primary dwelling, the dwelling  must be on a lot or parcel that is managed as
+part of a farm operation and is not smaller than the minimum lot size in a farm zone with a  mini-
+mum lot size acknowledged under ORS 197.251.
+(g) Operations for the exploration for and production  of geothermal resources as defined by ORS
+522.005 and oil and  gas as defined by ORS 520.005, including the placement and operation of
+compressors, separators and other customary production equipment for an individual well adjacent
+to the wellhead.  Any activities or construction relating to such operations shall not be a basis for
+an exception under ORS 197.732 (2)(a) or (b).
+(h) Operations for the exploration for minerals as defined by ORS 517.750. Any  activities or
+construction relating to such operations shall not be a  basis for an exception under ORS 197.732
+(2)(a) or (b).
+(i) One manufactured dwelling or recreational vehicle, or  the temporary residential use of an
+existing building, in conjunction with an existing dwelling as  a temporary use for the term of a
+hardship suffered by the existing resident or a relative of the resident.  Within three months of the
+end of the hardship, the manufactured dwelling or recreational vehicle shall be removed or  demol-
+ished or, in the case of an existing building,  the building shall be removed, demolished or returned
+to an allowed nonresidential use. The governing body or its designee shall provide for periodic re-
+view of the hardship claimed under this paragraph. A temporary residence  approved under this
+paragraph is not eligible for replacement under paragraph (q) of this subsection.
+(j) Climbing and passing lanes within the right of way existing as of July 1, 1987.
+(k) Reconstruction or modification of public roads and highways,  including the placement of
+utility facilities overhead and in the subsurface of public  roads and highways along the public right
+of way, but not including the addition  of travel lanes, where no removal or displacement of buildings
+would occur, or no new land parcels result.
+(L) Temporary public road and  highway detours that will be abandoned and restored to original
+condition or use at such time as no longer needed.
+(m) Minor betterment  of existing public road and highway related facilities, such as maintenance
+yards, weigh stations and rest areas, within right of  way existing as of July 1, 1987, and contiguous
+public-owned property utilized to support  the operation and maintenance of public roads and high-
+ways.
+(n) A replacement dwelling to be used in conjunction with farm use if  the existing dwelling has
+been [ listed in a county inventory as historic property as defined in ORS 358.480 ] classified as his-
+toric property as described in ORS 358.487 (4) .
+(o) Creation, restoration or enhancement of wetlands.
+(p) A winery, as described in ORS 215.452 or 215.453.
+(q) Alteration,  restoration or replacement of a lawfully established dwelling, as described in ORS
+215.291.
+(r) Farm stands if:
+(A) The structures are designed and used for the sale of farm crops or livestock grown  on the
+farm operation, or grown on the farm operation and other farm operations in the  local agricultural
+area, including the sale of retail incidental items and fee-based activity to promote the sale  of farm
+crops or livestock sold at the farm stand if the annual sale of  incidental items and fees from pro-
+motional activity do not make up more than 25 percent of the total annual sales of  the farm stand;
+and
+Enrolled House Bill 3190 (HB 3190-A) Page 15
+(B) The farm stand does not include structures designed for occupancy as a residence or  for
+activity other than the sale of  farm crops or livestock and does not include structures for banquets,
+public gatherings or public entertainment.
+(s) An armed forces reserve center, if the  center is within one-half mile of a community college.
+For purposes of this paragraph, “armed forces reserve center”  includes an armory or National
+Guard support facility.
+(t) A site for the takeoff and landing  of model aircraft, including such buildings or facilities as
+may reasonably be necessary. Buildings or facilities shall not be more than 500 square feet in floor
+area or placed on a permanent foundation  unless the building or facility preexisted the use approved
+under this paragraph. The site shall not include an aggregate  surface or hard surface area unless
+the surface preexisted the use approved under this paragraph. An owner of property used for  the
+purpose authorized in this paragraph may charge  a person operating the use on the property rent
+for the property. An operator may charge users of the property a fee that does not  exceed the
+operator’s cost to maintain the property, buildings and facilities. As used in this paragraph, “model
+aircraft” means a small-scale version of an airplane, glider, helicopter, dirigible or  balloon that is
+used or intended to be used for flight and is controlled by radio, lines or design  by a person on the
+ground.
+(u) A facility for the processing of farm products as described in ORS 215.255.
+(v) Fire service facilities providing rural fire protection services.
+(w) Irrigation reservoirs, canals, delivery lines  and those structures and accessory operational
+facilities, not including parks or other  recreational structures and facilities, associated with a dis-
+trict as defined in ORS 540.505.
+(x) Utility facility service lines. Utility facility  service lines are utility lines and accessory fa-
+cilities or structures that  end at the point where the utility service is received by the customer and
+that are located on one or more of the following:
+(A) A public right of way;
+(B) Land immediately adjacent to a public  right of way, provided the written consent of all ad-
+jacent property owners has been obtained; or
+(C) The property to be served by the utility.
+(y) Subject to the issuance of a license, permit or other approval by  the Department of Envi-
+ronmental Quality under ORS 454.695, 459.205, 468B.050, 468B.053 or 468B.055, or in compliance with
+rules adopted under ORS 468B.095,  and as provided in ORS 215.246 to 215.251, the land application
+of reclaimed water, agricultural or industrial process water or biosolids,  or the onsite treatment of
+septage prior to the land application of biosolids, for  agricultural, horticultural or silvicultural
+production, or for irrigation in connection  with a use allowed in an exclusive farm use zone under
+this chapter. For the purposes of this  paragraph, onsite treatment of septage prior to the land ap-
+plication of biosolids is limited to  treatment using treatment facilities that are portable, temporary
+and transportable by  truck trailer, as defined in ORS 801.580, during a period of time within which
+land application of biosolids is authorized under the license, permit or other approval.
+(z) Dog training classes or testing trials, which may  be conducted outdoors or in farm buildings
+in existence on January 1, 2019, when:
+(A) The number of dogs participating  in training does not exceed 10 dogs per training class and
+the number of training classes to be held on-site does not exceed six per day; and
+(B) The  number of dogs participating in a testing trial does not exceed 60 and the number of
+testing trials to be conducted on-site is limited to four or fewer trials per calendar year.
+(aa) A cider business, as described in ORS 215.451.
+(bb) A farm brewery, as described in ORS 215.449.
+(2) In counties that have adopted marginal lands provisions under  ORS 197.247 (1991 Edition),
+the following uses may be established in any area zoned for exclusive farm use subject  to ORS
+215.296:
+Enrolled House Bill 3190 (HB 3190-A) Page 16
+(a) A primary dwelling in conjunction with farm use or  the propagation or harvesting of a forest
+product on a lot or parcel that is managed  as part of a farm operation or woodlot if the farm op-
+eration or woodlot:
+(A) Consists of 20 or more acres; and
+(B) Is not smaller than the average farm or woodlot in the  county producing at least $2,500 in
+annual gross income from the crops, livestock or forest products  to be raised on the farm operation
+or woodlot.
+(b) A primary dwelling in conjunction with farm use or  the propagation or harvesting of a forest
+product on a lot or parcel that is managed as part of a farm  operation or woodlot smaller than re-
+quired under paragraph (a) of this subsection, if the lot or parcel:
+(A) Has  produced at least $20,000 in annual gross farm income in two consecutive calendar
+years out of the three calendar years before the year in which the application  for the dwelling was
+made or is planted in perennials capable of producing upon harvest an average of  at least $20,000
+in annual gross farm income; or
+(B) Is a woodlot capable  of producing an average over the growth cycle of $20,000 in gross an-
+nual income.
+(c) Commercial activities that are in conjunction with  farm use, including the processing of farm
+crops into biofuel not permitted under ORS 215.203 (2)(b)(K) or 215.255.
+(d) Operations conducted for:
+(A) Mining and processing of geothermal resources as defined by ORS 522.005 and  oil and gas
+as defined by ORS 520.005, not otherwise permitted under subsection (1)(g) of this section;
+(B) Mining, crushing or stockpiling of aggregate and other mineral and other subsurface re-
+sources subject to ORS 215.298;
+(C) Processing, as defined by ORS 517.750, of aggregate into asphalt or portland cement; and
+(D) Processing of other mineral resources and other subsurface resources.
+(e) Community centers owned by a governmental agency or  a nonprofit community organization
+and operated primarily by and for residents of the local rural community, hunting and  fishing pre-
+serves, public and private parks,  playgrounds and campgrounds. Subject to the approval of the
+county governing body or its designee, a private campground  may provide yurts for overnight
+camping. No more than  one-third or a maximum of 10 campsites, whichever is smaller, may include
+a yurt. The yurt shall  be located on the ground or on a wood floor with no permanent foundation.
+Upon request of a county governing body, the Land  Conservation and Development Commission may
+provide by rule for an increase in the number of yurts allowed  on all or a portion of the
+campgrounds in a  county if the commission determines that the increase will comply with the
+standards described in ORS  215.296 (1). A public park or campground may be established as provided
+under ORS 195.120. As used in this paragraph, “yurt”  means a round, domed shelter of cloth or
+canvas on a collapsible frame with no  plumbing, sewage disposal hookup or internal cooking appli-
+ance.
+(f) Golf courses on land determined not to be high-value farmland as defined in ORS 195.300.
+(g) Commercial utility facilities for the purpose  of generating power for public use by sale. If the
+area zoned for exclusive farm use is  high-value farmland, a photovoltaic solar power generation fa-
+cility may be established as a commercial utility facility as provided in  ORS 215.447. A renewable
+energy facility as defined in ORS 215.446 may be established as a commercial utility facility.
+(h) Personal-use airports for  airplanes and helicopter pads, including associated hangar, main-
+tenance and service facilities.  A personal-use airport as used in this section means an airstrip re-
+stricted, except for aircraft emergencies, to use by the owner, and, on an  infrequent and occasional
+basis, by invited  guests, and by commercial aviation activities in connection with agricultural op-
+erations. No aircraft may  be based on a personal-use airport other than those owned or controlled
+by the owner of the airstrip. Exceptions  to the activities permitted under this definition may be
+granted through waiver action by the Oregon Department  of Aviation in specific instances. A
+personal-use airport lawfully existing as of September 13, 1975, shall continue to be permitted sub-
+ject to any applicable rules of the Oregon Department of Aviation.
+Enrolled House Bill 3190 (HB 3190-A) Page 17
+(i) A facility for the primary processing of forest products, provided that such facility is found
+to not seriously interfere with accepted farming practices and is  compatible with farm uses de-
+scribed in ORS 215.203 (2). Such a facility may be approved for a  one-year period which is
+renewable. These facilities are intended to be only portable  or temporary in nature. The primary
+processing of a forest product, as used in this section,  means the use of a portable chipper or stud
+mill or other similar methods  of initial treatment of a forest product in order to enable its shipment
+to market.  Forest products, as used in this section, means timber grown upon a parcel of land or
+contiguous land where the primary processing facility is located.
+(j) A site  for the disposal of solid waste approved by the governing body of a city or county or
+both and for which a permit has been granted under ORS 459.245  by the Department of Environ-
+mental Quality together with equipment, facilities or buildings necessary for its operation.
+(k)(A) Commercial dog boarding kennels; or
+(B) Dog training  classes or testing trials that cannot be established under subsection (1)(z) of
+this section.
+(L) Residential homes as defined in ORS 197.660, in existing dwellings.
+(m) The propagation, cultivation, maintenance and harvesting of aquatic species  that are not
+under the jurisdiction of the State Fish and Wildlife  Commission or insect species. Insect species
+shall not  include any species under quarantine by the State Department of Agriculture or the United
+States Department  of Agriculture. The county shall provide notice of all applications under this
+paragraph to  the State Department of Agriculture. Notice shall be provided in accordance with the
+county’s land use regulations but shall be mailed at least 20  calendar days prior to any adminis-
+trative decision or initial public hearing on the application.
+(n) Home occupations as provided in ORS 215.448.
+(o) Transmission towers over 200 feet in height.
+(p) Construction of additional passing and travel lanes requiring the acquisition of right  of way
+but not resulting in the creation of new land parcels.
+(q) Reconstruction or modification of public roads and highways involving the removal or dis-
+placement of buildings but not resulting in the creation of new land parcels.
+(r) Improvement of public road and highway related facilities  such as maintenance yards, weigh
+stations and rest areas, where additional property  or right of way is required but not resulting in
+the creation of new land parcels.
+(s) A destination resort that is approved consistent with the requirements of any statewide
+planning goal relating to the siting of a destination resort.
+(t) Room and board arrangements for a maximum of five  unrelated persons in existing resi-
+dences.
+(u) A living history museum  related to resource based activities owned and operated by a gov-
+ernmental agency or a local historical society, together with limited commercial activities  and fa-
+cilities  that  are directly related to the use and enjoyment of the museum and located within
+authentic buildings of the depicted historic period  or the museum administration building, if areas
+other than an exclusive farm use zone cannot accommodate the museum and related activities or if
+the museum administration  buildings and parking lot are located within one quarter mile of the
+metropolitan urban growth boundary. As used in this paragraph:
+(A) “Living history museum”  means a facility designed to depict and interpret everyday life and
+culture of some specific  historic period using authentic buildings, tools, equipment and people to
+simulate past activities and events; and
+(B) “Local historical society” means the local historical society, recognized  as such by the
+county governing body and organized under ORS chapter 65.
+(v) Operations for the extraction and bottling of water.
+(w) An aerial fireworks display business that has  been in continuous operation at its current
+location  within  an exclusive farm use zone since December 31, 1986, and possesses a wholesaler’s
+permit to sell or provide fireworks.
+Enrolled House Bill 3190 (HB 3190-A) Page 18
+(x) A landscape contracting business, as defined in ORS 671.520,  or a business providing land-
+scape architecture services, as described in ORS 671.318, if the business  is pursued in conjunction
+with the growing and marketing of nursery stock on the land that constitutes farm use.
+(y) Public or private  schools for kindergarten through grade 12, including all buildings essential
+to the  operation of a school, primarily for residents of the rural area in which the school is located.
+(z) Equine and equine-affiliated therapeutic and counseling activities, provided:
+(A) The activities  are conducted in existing buildings that were lawfully constructed on the
+property before January 1, 2019, or in new buildings that are accessory, incidental and subordinate
+to the farm use on the tract; and
+(B) All individuals conducting therapeutic or counseling activities  are acting within the proper
+scope of any licenses required by the state.
+(aa) Child care  facilities, preschool recorded programs or school-age recorded programs that are:
+(A) Authorized under ORS 329A.250 to 329A.450;
+(B) Primarily for the children of residents and workers of the rural  area in which the facility
+or program is located; and
+(C) Colocated with a community center  or a public or private school allowed under this sub-
+section.
+(3) In counties that have adopted marginal lands provisions under  ORS 197.247 (1991 Edition),
+a single-family residential dwelling not provided  in conjunction with farm use may be established
+on a lot or parcel with soils predominantly in capability classes IV through VIII as  determined by
+the Agricultural Capability Classification System  in use by the United States Department of Agri-
+culture Soil Conservation Service on October  15, 1983. A proposed dwelling is subject to approval
+of the governing body or its designee in any area zoned for  exclusive farm use upon written findings
+showing all of the following:
+(a) The dwelling or activities associated  with the dwelling will not force a significant change in
+or significantly increase the cost of accepted farming practices  on nearby lands devoted to farm use.
+(b) The dwelling  is situated upon generally unsuitable land for the production of farm crops and
+livestock, considering the terrain, adverse  soil or land conditions, drainage and flooding, location
+and size of the tract. A lot or parcel shall not be considered unsuitable solely because of  its size
+or location if it can reasonably be put to farm use in conjunction with other land.
+(c) Complies with such other  conditions as the governing body or its designee considers neces-
+sary.
+(4) In counties that have adopted marginal lands provisions under  ORS 197.247 (1991 Edition),
+one single-family dwelling, not provided in conjunction with farm use, may be  established in any
+area zoned for  exclusive farm use on a lot or parcel described in subsection (7) of this section that
+is not larger than three acres upon written findings showing:
+(a) The dwelling or activities associated  with the dwelling will not force a significant change in
+or significantly increase the cost of accepted farming practices  on nearby lands devoted to farm use;
+(b) If the lot or parcel is located within the Willamette River Greenway, a floodplain or a
+geological hazard area, the dwelling complies with conditions imposed by local  ordinances relating
+specifically to the Willamette River Greenway, floodplains or geological hazard  areas, whichever is
+applicable;  and
+(c) The dwelling  complies with other conditions considered necessary by the governing body or
+its designee.
+(5) Upon  receipt of an application for a permit under subsection (4) of this section, the governing
+body shall notify:
+(a) Owners of land that is within 250  feet of the lot or parcel on which the dwelling will be
+established; and
+(b) Persons who have requested notice of such applications and who  have paid a reasonable fee
+imposed by the county to cover the cost of such notice.
+(6) The notice required in subsection (5)  of this section shall specify that persons have 15 days
+following the date of postmark of  the notice to file a written objection on the grounds only that the
+Enrolled House Bill 3190 (HB 3190-A) Page 19
+dwelling or activities associated with it would force a significant change in or significantly  increase
+the cost of accepted farming practices on nearby lands devoted to farm use. If no objection is re-
+ceived, the governing body or its  designee shall approve or disapprove the application. If an ob-
+jection is received, the governing body shall set the matter for hearing  in the manner prescribed in
+ORS 215.402 to 215.438. The governing body may  charge the reasonable costs of the notice required
+by subsection (5)(a) of this section to the applicant for the permit requested under subsection (4) of
+this section.
+(7) Subsection (4) of this section applies to  a lot or parcel lawfully created between January 1,
+1948, and July 1, 1983. For the purposes of this section:
+(a) Only one lot or parcel exists if:
+(A) A lot or parcel described in this section is contiguous to one  or more lots or parcels de-
+scribed in this section; and
+(B) On July 1, 1983, greater than possessory interests are held in  those contiguous lots, parcels
+or lots and  parcels by the same person, spouses or a single partnership or business entity, separately
+or in tenancy in common.
+(b) “Contiguous” means lots, parcels or lots and parcels  that have a common boundary, includ-
+ing but not limited to, lots, parcels or lots and parcels separated only by a public road.
+(8) A  person who sells or otherwise transfers real property in an exclusive farm use zone may
+retain a life estate in a dwelling on that property and in a tract of  land under and around the
+dwelling.
+(9) No final approval of a nonfarm use under  this section shall be given unless any additional
+taxes imposed upon the change in use have been paid.
+(10) Roads, highways and other  transportation facilities and improvements not allowed under
+subsections  (1) and (2) of this section may be established, subject to the approval of the governing
+body or its designee, in areas zoned for exclusive farm use subject to:
+(a) Adoption of an exception to the goal related to agricultural lands and to any other applicable
+goal with which the facility or improvement does not comply; or
+(b) ORS 215.296 for those  uses identified by rule of the Land Conservation and Development
+Commission as provided in section 3, chapter 529, Oregon Laws 1993.
+(11) The following agri-tourism and other commercial events  or activities that are related to and
+supportive of agriculture may be established in any area zoned for exclusive farm use:
+(a) A county may authorize a single agri-tourism or other commercial event or activity on a
+tract in a calendar year by an authorization  that is personal to the applicant and is not transferred
+by, or transferable  with, a conveyance of the tract, if the agri-tourism or other commercial event
+or activity meets any local standards that apply and:
+(A) The agri-tourism or other commercial event or  activity is incidental and subordinate to ex-
+isting farm use on the tract;
+(B) The duration of the  agri-tourism or other commercial event or activity does not exceed 72
+consecutive  hours;
+(C) The  maximum attendance at the agri-tourism or other commercial event or activity does not
+exceed 500 people;
+(D) The maximum number of motor vehicles parked  at the site of the agri-tourism or other
+commercial event or activity does not exceed 250 vehicles;
+(E) The agri-tourism or other commercial event or activity complies with ORS 215.296;
+(F) The agri-tourism or other commercial event or  activity occurs outdoors, in temporary
+structures, or in existing permitted structures,  subject to health and fire and life safety require-
+ments; and
+(G) The agri-tourism or other commercial event  or activity complies with conditions established
+for:
+(i) Planned hours of operation;
+(ii) Access, egress and parking;
+Enrolled House Bill 3190 (HB 3190-A) Page 20
+(iii) A traffic management plan that identifies the  projected number of vehicles and any antic-
+ipated use of public roads; and
+(iv) Sanitation and solid waste.
+(b) In the  alternative to paragraphs (a) and (c) of this subsection, a county may authorize,
+through an expedited, single-event license, a single agri-tourism  or other commercial event or ac-
+tivity on a tract in a calendar year by an expedited, single-event license that is personal to the ap-
+plicant and is not transferred by, or transferable with, a conveyance  of the tract. A decision
+concerning an expedited, single-event license is not a  land use decision, as defined in ORS 197.015.
+To approve an expedited, single-event license, the governing body of a  county or its designee must
+determine that the proposed agri-tourism or other commercial event or  activity meets any local
+standards that apply, and the agri-tourism or other commercial event or activity:
+(A) Must be incidental and subordinate to existing farm use on the tract;
+(B) May not begin before 6 a.m. or end after 10 p.m.;
+(C) May not involve more than 100 attendees or 50 vehicles;
+(D) May not include the artificial amplification of music or voices before 8 a.m. or after 8 p.m.;
+(E) May not  require or involve the construction or use of a new permanent structure in con-
+nection with the agri-tourism or other commercial event or activity;
+(F) Must be located on  a tract of at least 10 acres unless the owners or residents of adjoining
+properties consent, in writing, to the location; and
+(G) Must comply with applicable health and fire and life safety requirements.
+(c) In the alternative to paragraphs (a) and (b) of this subsection, a  county may authorize up to
+six agri-tourism  or other commercial events or activities on a tract in a calendar year by a limited
+use permit that is personal  to the applicant and is not transferred by, or transferable with, a
+conveyance of the tract. The agri-tourism or other commercial events or  activities must meet any
+local standards that apply, and the agri-tourism or other commercial events or activities:
+(A) Must be incidental and subordinate to existing farm use on the tract;
+(B) May not, individually, exceed a duration of 72 consecutive hours;
+(C) May not  require that a new permanent structure be built, used or occupied in connection
+with the agri-tourism or other commercial events or activities;
+(D) Must comply with ORS 215.296;
+(E) May not, in combination with other agri-tourism or other  commercial events or activities
+authorized in the area, materially alter the stability of the land use pattern in the area; and
+(F) Must comply with conditions established for:
+(i) The types  of agri-tourism or other commercial events or activities that are authorized during
+each calendar year, including the number  and duration of the agri-tourism or other commercial
+events and activities, the anticipated daily attendance and the hours of operation;
+(ii) The location of existing structures and  the location of proposed temporary structures to be
+used in connection with the agri-tourism or other commercial events or activities;
+(iii) The  location of access and egress and parking facilities to be used in connection with the
+agri-tourism or other commercial events or activities;
+(iv) Traffic management, including the projected number of vehicles  and any anticipated use of
+public roads; and
+(v) Sanitation and solid waste.
+(d) In addition to paragraphs (a) to (c) of this subsection, a  county may authorize agri-tourism
+or other  commercial events or activities that occur more frequently or for a longer period or that
+do not otherwise comply with paragraphs (a) to (c) of this subsection if  the agri-tourism or other
+commercial events or activities  comply with any local standards that apply and the agri-tourism or
+other commercial events or activities:
+(A) Are incidental and subordinate to existing commercial farm use  of the tract and are neces-
+sary to support the commercial farm uses or the commercial agricultural enterprises in the area;
+(B) Comply with the requirements of paragraph (c)(C), (D), (E) and (F) of this subsection;
+Enrolled House Bill 3190 (HB 3190-A) Page 21
+(C) Occur on a  lot or parcel that complies with the acknowledged minimum lot or parcel size;
+and
+(D) Do not exceed 18 events or activities in a calendar year.
+(12) A holder of a permit authorized by a county under  subsection (11)(d) of this section must
+request review  of the permit at four-year intervals. Upon receipt of a request for review, the county
+shall:
+(a) Provide public notice and an opportunity for  public comment as part of the review process;
+and
+(b) Limit its review to events and activities authorized by the permit, conformance  with condi-
+tions of approval required by the permit  and the standards established by subsection (11)(d) of this
+section.
+(13) For the purposes of subsection (11) of this section:
+(a) A county may authorize the use of temporary  structures established in connection with the
+agri-tourism or other commercial events or activities authorized under subsection (11) of this  sec-
+tion. However, the  temporary structures must be removed at the end of the agri-tourism or other
+event or activity. The county may not approve an alteration to the land  in connection with an
+agri-tourism or other commercial event or activity authorized  under subsection (11) of this section,
+including, but not limited to, grading, filling or paving.
+(b) The county may issue the  limited use permits authorized by subsection (11)(c) of this section
+for two calendar years. When considering an  application for renewal, the county shall ensure com-
+pliance with the provisions of subsection (11)(c) of this section, any local standards  that apply and
+conditions that apply to the permit or to the agri-tourism or other commercial events or activities
+authorized by the permit.
+(c) The authorizations provided by subsection (11)  of this section are in addition to other au-
+thorizations that may be provided by law, except that “outdoor mass gathering” and  “other gather-
+ing,” as those terms are  used in ORS 197.015 (10)(d), do not include agri-tourism or other commercial
+events and activities.
+SECTION 18.
+ ORS 215.283 is amended to read:
+215.283. (1) The following uses may be established in any area zoned for exclusive farm use:
+(a) Churches and cemeteries in conjunction with churches.
+(b) The propagation or harvesting of a forest product.
+(c) Utility facilities necessary for  public service, including wetland waste treatment systems but
+not including commercial facilities for the purpose of  generating electrical power for public use by
+sale or transmission towers over 200 feet in height. A utility facility  necessary for public service
+may be established as provided in:
+(A) ORS 215.275; or
+(B) If the utility facility is an associated transmission line, as defined  in ORS 215.274 and
+469.300.
+(d) A dwelling on real property used for farm use if the dwelling is occupied by a  relative of the
+farm operator or the farm operator’s spouse, which means a  child, parent, stepparent, grandchild,
+grandparent, stepgrandparent, sibling, stepsibling, niece, nephew or first cousin of either,  if the farm
+operator does or will require the assistance of  the relative in the management of the farm use and
+the dwelling  is located on the same lot or parcel as the dwelling of the farm operator.
+Notwithstanding ORS 92.010 to 92.192 or the minimum lot or parcel size requirements under ORS
+215.780, if the owner of a dwelling described in this paragraph obtains  construction financing or
+other financing secured by the dwelling  and the secured party forecloses on the dwelling, the se-
+cured party may also foreclose on the  homesite, as defined in ORS 308A.250, and the foreclosure
+shall operate as a partition of the homesite to create a new parcel.
+(e) Subject to ORS  215.279, primary or accessory dwellings and other buildings customarily
+provided in conjunction with farm use.
+(f) Operations for the exploration for and production of geothermal resources as defined by ORS
+522.005 and oil and  gas as defined by ORS 520.005, including the placement and operation of
+Enrolled House Bill 3190 (HB 3190-A) Page 22
+compressors, separators and other customary production equipment for an individual well adjacent
+to the wellhead.  Any activities or construction relating to such operations shall not be a basis for
+an exception under ORS 197.732 (2)(a) or (b).
+(g) Operations for the exploration for minerals as defined by ORS 517.750. Any activities  or
+construction relating to such operations shall not be a  basis for an exception under ORS 197.732
+(2)(a) or (b).
+(h) Climbing and passing lanes within the right of way existing as of July 1, 1987.
+(i) Reconstruction or modification of public roads and highways, including the placement of
+utility facilities overhead and in the subsurface of public  roads and highways along the public right
+of way, but not including the addition  of travel lanes, where no removal or displacement of buildings
+would occur, or no new land parcels result.
+(j) Temporary public road and highway detours that will be abandoned and restored to  original
+condition or use at such time as no longer needed.
+(k) Minor betterment of existing  public road and highway related facilities such as maintenance
+yards, weigh stations and rest areas, within right of  way existing as of July 1, 1987, and contiguous
+public-owned property utilized to support  the operation and maintenance of public roads and high-
+ways.
+(L) A replacement dwelling to be used in conjunction with  farm use if the existing dwelling has
+been [ listed in a county inventory as historic property as defined in ORS 358.480 ] classified as his-
+toric property as described in ORS 358.487 (4) .
+(m) Creation, restoration or enhancement of wetlands.
+(n) A winery, as described in ORS 215.452 or 215.453.
+(o) Farm stands if:
+(A) The structures are designed and used for the sale of farm crops or livestock grown  on the
+farm operation, or grown on the farm operation and other farm operations in the  local agricultural
+area, including the sale of retail incidental items and fee-based activity to promote the sale  of farm
+crops or livestock sold at the farm stand if the annual sale of  incidental items and fees from pro-
+motional activity do not make up more than 25 percent of the total annual sales of  the farm stand;
+and
+(B) The farm stand does not include structures designed for occupancy as a residence or  for
+activity other than the sale of  farm crops or livestock and does not include structures for banquets,
+public gatherings or public entertainment.
+(p) Alteration,  restoration or replacement of a lawfully established dwelling, as described in ORS
+215.291.
+(q) A site for the takeoff and landing of model aircraft, including such  buildings or facilities as
+may reasonably be necessary. Buildings or facilities shall not be more than 500 square feet in floor
+area or placed on a permanent foundation  unless the building or facility preexisted the use approved
+under this paragraph. The site shall not include an aggregate  surface or hard surface area unless
+the surface preexisted the use approved under this paragraph. An owner of property used for  the
+purpose authorized in this paragraph may charge  a person operating the use on the property rent
+for the property. An operator may charge users of the property a fee that does not  exceed the
+operator’s cost to maintain the property, buildings and facilities. As used in this paragraph, “model
+aircraft” means a small-scale version of an airplane, glider, helicopter, dirigible or  balloon that is
+used or intended to be used for flight and is controlled by radio, lines or design  by a person on the
+ground.
+(r) A facility for the processing of farm products as described in ORS 215.255.
+(s) Fire service facilities providing rural fire protection services.
+(t) Irrigation reservoirs, canals, delivery  lines and those structures and accessory operational
+facilities, not including parks or other  recreational structures and facilities, associated with a dis-
+trict as defined in ORS 540.505.
+Enrolled House Bill 3190 (HB 3190-A) Page 23
+(u) Utility facility service lines. Utility facility service  lines are utility lines and accessory fa-
+cilities or structures that  end at the point where the utility service is received by the customer and
+that are located on one or more of the following:
+(A) A public right of way;
+(B) Land immediately adjacent to a public  right of way, provided the written consent of all ad-
+jacent property owners has been obtained; or
+(C) The property to be served by the utility.
+(v) Subject to the issuance of a license, permit or other approval by  the Department of Envi-
+ronmental Quality under ORS 454.695, 459.205, 468B.050, 468B.053 or 468B.055, or in compliance with
+rules adopted under ORS 468B.095,  and as provided in ORS 215.246 to 215.251, the land application
+of reclaimed water, agricultural or industrial process water or biosolids,  or the onsite treatment of
+septage prior to the land application of biosolids, for  agricultural, horticultural or silvicultural
+production, or for irrigation in connection  with a use allowed in an exclusive farm use zone under
+this chapter. For the purposes of this  paragraph, onsite treatment of septage prior to the land ap-
+plication of biosolids is limited to  treatment using treatment facilities that are portable, temporary
+and transportable by  truck trailer, as defined in ORS 801.580, during a period of time within which
+land application of biosolids is authorized under the license, permit or other approval.
+(w) A county law enforcement facility that lawfully existed on August 20, 2002, and is used  to
+provide rural law enforcement services  primarily in rural areas, including parole and post-prison
+supervision, but not including a correctional facility as defined under ORS 162.135.
+(x) Dog training classes  or testing trials, which may be conducted outdoors or in preexisting
+farm buildings, when:
+(A) The number of dogs participating  in training does not exceed 10 dogs per training class and
+the number of training classes to be held on-site does not exceed six per day; and
+(B) The number of dogs participating in a testing trial does not exceed 60 and the number  of
+testing trials to be conducted on-site is limited to four or fewer trials per calendar year.
+(y) A cider business, as described in ORS 215.451.
+(z) A farm brewery, as described in ORS 215.449.
+(2) The following nonfarm uses may be  established, subject to the approval of the governing
+body or its designee in any area zoned for exclusive farm use subject to ORS 215.296:
+(a) Commercial activities that are in conjunction  with farm use, including the processing of farm
+crops into biofuel not permitted under ORS 215.203 (2)(b)(K) or 215.255.
+(b) Operations conducted for:
+(A) Mining and processing  of geothermal resources as defined by ORS 522.005 and oil and gas
+as defined by ORS 520.005 not otherwise permitted under subsection (1)(f) of this section;
+(B) Mining, crushing or stockpiling of aggregate and other mineral and other subsurface re-
+sources subject to ORS 215.298;
+(C) Processing, as defined by ORS 517.750, of aggregate into asphalt or portland cement; and
+(D) Processing of other mineral resources and other subsurface resources.
+(c) Private parks, playgrounds, hunting and fishing preserves  and campgrounds. Subject to the
+approval of the county governing body or its designee, a private campground may  provide yurts for
+overnight  camping.  No more than one-third or a maximum of 10 campsites, whichever is smaller,
+may include a yurt. The yurt shall be located on the ground or on a wood floor with no  permanent
+foundation. Upon request of a  county governing body, the Land Conservation and Development
+Commission may provide by rule for an increase in the number of yurts allowed on all  or a portion
+of the campgrounds in a county if the commission determines that the increase will comply with  the
+standards described in ORS  215.296 (1). As used in this paragraph, “yurt” means a round, domed
+shelter of cloth or canvas on a collapsible frame with no plumbing,  sewage disposal hookup or
+internal cooking appliance.
+(d) Parks and playgrounds. A public park may be established consistent  with the provisions of
+ORS 195.120.
+Enrolled House Bill 3190 (HB 3190-A) Page 24
+(e) Community centers owned by a governmental agency or  a nonprofit community organization
+and operated primarily by and for residents of the local rural community. A community center au-
+thorized under  this paragraph may provide services to veterans, including but not limited to emer-
+gency  and  transitional shelter, preparation and service of meals, vocational and educational
+counseling and referral to local,  state or federal agencies providing medical, mental health, disabil-
+ity income replacement and substance abuse services, only in a facility that is in existence  on Jan-
+uary 1, 2006. The  services may not include direct delivery of medical, mental health, disability
+income replacement or substance abuse services.
+(f) Golf courses on land:
+(A) Determined not to be high-value farmland, as defined in ORS 195.300 (10); or
+(B) Determined to be high-value farmland described in ORS 195.300 (10)(c) if the land:
+(i) Is not otherwise described in ORS 195.300 (10);
+(ii) Is surrounded on all sides by an approved golf course; and
+(iii) Is west of U.S. Highway 101.
+(g) Commercial utility facilities for the purpose  of generating power for public use by sale. If the
+area zoned for exclusive farm use is high-value farmland,  a photovoltaic solar power generation fa-
+cility may be established as  a commercial utility facility as provided in ORS 215.447. A renewable
+energy facility as defined in ORS 215.446 may be established as a commercial utility facility.
+(h) Personal-use airports for airplanes and helicopter pads, including  associated hangar, main-
+tenance and service facilities. A personal-use airport, as used in this section,  means an airstrip re-
+stricted, except for aircraft emergencies, to use by the owner, and, on an  infrequent and occasional
+basis, by invited guests, and by commercial aviation activities in connection with  agricultural op-
+erations. No aircraft may be based on a personal-use airport other than those  owned or controlled
+by the owner of the airstrip. Exceptions to the activities  permitted under this definition may be
+granted through waiver action by the Oregon  Department of Aviation in specific instances. A
+personal-use airport lawfully existing as of September 13, 1975, shall continue to be permitted sub-
+ject to any applicable rules of the Oregon Department of Aviation.
+(i) Home occupations as provided in ORS 215.448.
+(j) A facility for the primary processing of forest products, provided that such facility is found
+to not seriously interfere with accepted  farming practices and is compatible with farm uses de-
+scribed in ORS 215.203 (2).  Such a facility may be approved for a one-year period which is
+renewable. These facilities are intended to be  only portable or temporary in nature. The primary
+processing of a forest product, as used in this section,  means the use of a portable chipper or stud
+mill or other similar methods  of initial treatment of a forest product in order to enable its shipment
+to market.  Forest products, as used in this section, means timber grown upon a parcel of land or
+contiguous land where the primary processing facility is located.
+(k) A site for the disposal of solid waste approved by the governing body  of a city or county or
+both and for which a permit  has been granted under ORS 459.245 by the Department of Environ-
+mental Quality together with equipment, facilities or buildings necessary for its operation.
+(L) One manufactured dwelling or  recreational vehicle, or the temporary residential use of an
+existing building, in conjunction with an existing dwelling as  a temporary use for the term of a
+hardship suffered by the existing resident  or a relative of the resident. Within three months of the
+end of  the hardship, the manufactured dwelling or recreational vehicle shall be removed or demol-
+ished or, in the case of an existing building,  the building shall be removed, demolished or returned
+to an allowed nonresidential use. The governing body or its designee shall provide for periodic re-
+view of the hardship  claimed under this paragraph. A temporary residence approved under this
+paragraph is not eligible for replacement under subsection (1)(p) of this section.
+(m) Transmission towers over 200 feet in height.
+(n)(A) Commercial dog boarding kennels; or
+(B) Dog training classes or testing trials that cannot be established under subsection (1)(x)  of
+this section.
+(o) Residential homes as defined in ORS 197.660, in existing dwellings.
+Enrolled House Bill 3190 (HB 3190-A) Page 25
+(p) The  propagation, cultivation, maintenance and harvesting of aquatic species that are not
+under the jurisdiction of the State Fish and Wildlife  Commission or insect species. Insect species
+shall not  include any species under quarantine by the State Department of Agriculture or the United
+States Department  of Agriculture. The county shall provide notice of all applications under this
+paragraph to  the State Department of Agriculture. Notice shall be provided in accordance with the
+county’s land use regulations but shall be mailed at least 20  calendar days prior to any adminis-
+trative decision or initial public hearing on the application.
+(q) Construction of additional passing and travel lanes requiring the acquisition of right  of way
+but not resulting in the creation of new land parcels.
+(r) Reconstruction or modification of public roads and highways involving the  removal or dis-
+placement of buildings but not resulting in the creation of new land parcels.
+(s) Improvement of public road and highway related facilities, such as maintenance yards, weigh
+stations and rest areas, where additional property  or right of way is required but not resulting in
+the creation of new land parcels.
+(t) A destination resort that is approved consistent with the requirements of  any statewide
+planning goal relating to the siting of a destination resort.
+(u) Room and board  arrangements for a maximum of five unrelated persons in existing resi-
+dences.
+(v) Operations for the extraction and bottling of water.
+(w) Expansion of existing county fairgrounds  and activities directly relating to county
+fairgrounds governed by county fair boards established pursuant to ORS 565.210.
+(x) A living history museum related to resource based activities owned and operated  by a gov-
+ernmental agency or  a local historical society, together with limited commercial activities and fa-
+cilities that are directly related to the use and enjoyment of the museum and located  within
+authentic buildings of the depicted historic period or  the museum administration building, if areas
+other than an exclusive farm use zone cannot accommodate the museum and related activities or if
+the museum administration buildings and parking lot are located within one quarter mile  of an ur-
+ban growth boundary. As used in this paragraph:
+(A) “Living history museum”  means a facility designed to depict and interpret everyday life and
+culture of some specific historic period using authentic buildings, tools, equipment  and people to
+simulate past activities and events; and
+(B) “Local historical society” means  the local historical society recognized by the county gov-
+erning body and organized under ORS chapter 65.
+(y) An aerial fireworks display business that has been in continuous operation at its current
+location within an exclusive farm use zone since December 31, 1986, and possesses a  wholesaler’s
+permit to sell or provide fireworks.
+(z) A landscape  contracting business, as defined in ORS 671.520, or a business providing land-
+scape architecture services, as described  in ORS 671.318, if the business is pursued in conjunction
+with the growing and marketing of nursery stock on the land that constitutes farm use.
+(aa) Public or private schools for kindergarten through grade 12, including all buildings  essen-
+tial to the operation of a school, primarily for residents of the  rural area in which the school is
+located.
+(bb) Equine and equine-affiliated therapeutic and counseling activities, provided:
+(A) The activities are conducted in existing buildings that were lawfully constructed  on the
+property before January 1, 2019, or in new buildings that are accessory, incidental and subordinate
+to the farm use on the tract; and
+(B) All individuals conducting therapeutic or  counseling activities are acting within the proper
+scope of any licenses required by the state.
+(cc) Guest ranches in eastern Oregon, as described in ORS 215.461.
+(dd) Child care  facilities, preschool recorded programs or school-age recorded programs that are:
+(A) Authorized under ORS 329A.250 to 329A.450;
+Enrolled House Bill 3190 (HB 3190-A) Page 26
+(B) Primarily for the children of  residents and workers of the rural area in which the facility
+or program is located; and
+(C) Colocated with a community center or a public or private  school allowed under this sub-
+section.
+(3) Roads, highways  and other transportation facilities and improvements not allowed under
+subsections (1) and (2) of this section may be established, subject to the approval of the  governing
+body or its designee, in areas zoned for exclusive farm use subject to:
+(a) Adoption of an exception to the goal related to agricultural lands and to any other applicable
+goal with which the facility or improvement does not comply; or
+(b) ORS 215.296 for those uses identified by rule of the  Land Conservation and Development
+Commission as provided in section 3, chapter 529, Oregon Laws 1993.
+(4) The following agri-tourism and other commercial events or activities  that are related to and
+supportive of agriculture may be established in any area zoned for exclusive farm use:
+(a) A county may authorize a single agri-tourism or other commercial event or activity on a
+tract in a calendar year by an authorization  that is personal to the applicant and is not transferred
+by, or transferable with, a conveyance of the tract, if the agri-tourism or other  commercial event
+or activity meets any local standards that apply and:
+(A) The agri-tourism or other commercial event or  activity is incidental and subordinate to ex-
+isting farm use on the tract;
+(B) The duration of the agri-tourism or other commercial event or activity  does not exceed 72
+consecutive hours;
+(C) The  maximum attendance at the agri-tourism or other commercial event or activity does not
+exceed 500 people;
+(D) The maximum number of motor vehicles parked at  the site of the agri-tourism or other
+commercial event or activity does not exceed 250 vehicles;
+(E) The agri-tourism or other commercial event or activity complies with ORS 215.296;
+(F) The agri-tourism or other commercial  event or activity occurs outdoors, in temporary
+structures, or in existing permitted structures, subject to health and  fire and life safety require-
+ments; and
+(G) The agri-tourism or other commercial event  or activity complies with conditions established
+for:
+(i) Planned hours of operation;
+(ii) Access, egress and parking;
+(iii) A traffic management plan that identifies the  projected number of vehicles and any antic-
+ipated use of public roads; and
+(iv) Sanitation and solid waste.
+(b) In the  alternative to paragraphs (a) and (c) of this subsection, a county may authorize,
+through an expedited, single-event license, a single agri-tourism  or other commercial event or ac-
+tivity on a tract in a calendar year by an expedited, single-event license that is personal to the ap-
+plicant and is not transferred by, or transferable with, a conveyance  of the tract. A decision
+concerning an expedited, single-event license is not a  land use decision, as defined in ORS 197.015.
+To approve an expedited, single-event license, the governing body of a  county or its designee must
+determine that the proposed agri-tourism or other commercial event or  activity meets any local
+standards that apply, and the agri-tourism or other commercial event or activity:
+(A) Must be incidental and subordinate to existing farm use on the tract;
+(B) May not begin before 6 a.m. or end after 10 p.m.;
+(C) May not involve more than 100 attendees or 50 vehicles;
+(D) May not include the artificial amplification of music or voices before 8 a.m. or after 8 p.m.;
+(E) May not  require or involve the construction or use of a new permanent structure in con-
+nection with the agri-tourism or other commercial event or activity;
+(F) Must be located on  a tract of at least 10 acres unless the owners or residents of adjoining
+properties consent, in writing, to the location; and
+Enrolled House Bill 3190 (HB 3190-A) Page 27
+(G) Must comply with applicable health and fire and life safety requirements.
+(c) In the alternative to paragraphs (a) and (b) of this subsection, a  county may authorize up to
+six agri-tourism  or other commercial events or activities on a tract in a calendar year by a limited
+use permit that is personal  to the applicant and is not transferred by, or transferable with, a
+conveyance of the tract. The agri-tourism or other commercial events or  activities must meet any
+local standards that apply, and the agri-tourism or other commercial events or activities:
+(A) Must be incidental and subordinate to existing farm use on the tract;
+(B) May not, individually, exceed a duration of 72 consecutive hours;
+(C) May not  require that a new permanent structure be built, used or occupied in connection
+with the agri-tourism or other commercial events or activities;
+(D) Must comply with ORS 215.296;
+(E) May not, in combination with other agri-tourism or other  commercial events or activities
+authorized in the area, materially alter the stability of the land use pattern in the area; and
+(F) Must comply with conditions established for:
+(i) The types  of agri-tourism or other commercial events or activities that are authorized during
+each calendar year, including the number  and duration of the agri-tourism or other commercial
+events and activities, the anticipated daily attendance and the hours of operation;
+(ii) The location of existing structures and  the location of proposed temporary structures to be
+used in connection with the agri-tourism or other commercial events or activities;
+(iii) The  location of access and egress and parking facilities to be used in connection with the
+agri-tourism or other commercial events or activities;
+(iv) Traffic management, including the projected number of vehicles  and any anticipated use of
+public roads; and
+(v) Sanitation and solid waste.
+(d) In addition to paragraphs (a) to (c) of this subsection, a  county may authorize agri-tourism
+or other  commercial events or activities that occur more frequently or for a longer period or that
+do not otherwise comply with paragraphs (a) to (c) of this subsection if  the agri-tourism or other
+commercial events or activities  comply with any local standards that apply and the agri-tourism or
+other commercial events or activities:
+(A) Are incidental and subordinate to existing commercial farm use  of the tract and are neces-
+sary to support the commercial farm uses or the commercial agricultural enterprises in the area;
+(B) Comply with the requirements of paragraph (c)(C), (D), (E) and (F) of this subsection;
+(C) Occur on a  lot or parcel that complies with the acknowledged minimum lot or parcel size;
+and
+(D) Do not exceed 18 events or activities in a calendar year.
+(5) A holder of a permit authorized by a county under  subsection (4)(d) of this section must re-
+quest review of the permit at four-year intervals. Upon receipt of a request for review, the  county
+shall:
+(a) Provide public notice and an opportunity for  public comment as part of the review process;
+and
+(b) Limit its review to events and activities authorized by the permit, conformance  with condi-
+tions of approval required by the  permit and the standards established by subsection (4)(d) of this
+section.
+(6) For the purposes of subsection (4) of this section:
+(a) A county may authorize the use of temporary  structures established in connection with the
+agri-tourism or other commercial events or activities authorized under subsection (4) of this  section.
+However, the temporary structures must be removed at the end of the agri-tourism  or other event
+or activity. The county  may not approve an alteration to the land in connection with an agri-tourism
+or other commercial event or activity authorized under subsection (4) of this  section, including, but
+not limited to, grading, filling or paving.
+(b) The county may issue the limited  use permits authorized by subsection (4)(c) of this section
+for two calendar years. When considering an  application for renewal, the county shall ensure com-
+Enrolled House Bill 3190 (HB 3190-A) Page 28
+pliance with the provisions of subsection (4)(c) of this section, any local standards that  apply and
+conditions that apply to the permit or to the agri-tourism or other commercial events or activities
+authorized by the permit.
+(c) The authorizations provided by subsection (4) of  this section are in addition to other au-
+thorizations that may be provided by law, except that “outdoor mass gathering” and  “other gather-
+ing,” as those terms are  used in ORS 197.015 (10)(d), do not include agri-tourism or other commercial
+events and activities.
+SECTION 19.
+ ORS 447.145 is amended to read:
+447.145. (1) All new fixtures approved  for installation during construction, reconstruction, al-
+teration and repair of buildings and other structures under  ORS 447.020 shall comply with rules
+adopted by the  Director of the Department of Consumer and Business Services. The rules shall be
+consistent with performance requirements and test  procedures established by the American National
+Standards Institute, or other equivalent recognized North American standards  and procedures. Ex-
+cept for used fixtures allowed under subsection (4) of this  section, the average amount of water used
+by new or replacement fixtures under the applicable test procedures shall not exceed:
+(a) 1.6 gallons or 6.06 liters per flush for toilets;
+(b) 1.0 gallons or 3.785 liters per flush for urinals;
+(c) 2.5 gallons or 9.46 liters per minute for shower heads; and
+(d) 2.5 gallons or 9.46 liters per minute for interior faucets.
+(2) Notwithstanding subsection (1) of this section, the director by rule shall  provide for ex-
+emptions to the requirements under subsection (1) of this section if:
+(a) The reconstruction, alteration or repair of a  building does not include the installation of new
+or replacement toilets or urinals, shower heads or faucets within the building;
+(b) Due to the capacity, design or installation of the plumbing or sewage system within an  ex-
+isting building, toilets  or urinals required by subsection (1) of this section would, if installed in the
+building, be unable to meet the  performance requirements of the American National Standards In-
+stitute or other equivalent recognized North American standards as adopted by rule;
+(c) The fixtures and fittings necessary to perform a specialized function, including but not lim-
+ited to emergency showers and aspirator faucets, cannot meet the requirements;
+(d) The installation of fixtures  that do not comply with subsection (1) of this section is necessary
+to maintain the historic  character of a structure [ listed] classified as historic property  under ORS
+358.480 to 358.545; or
+(e) The fixtures and fittings to be installed  are specifically designed to withstand unusual abuse
+or installation in a penal institution or are  located in an area with special needs, such as a labo-
+ratory, hospital, nursing home or other health care facility.
+(3) No person shall sell or offer for  sale any new toilet, urinal, shower head or faucet that has
+not been approved under ORS 447.020.
+(4) On or after December 31, 1995, no person shall sell  or offer for sale any used toilet, urinal,
+shower head or interior faucet that does not meet the conservation  standards established in sub-
+section (1) of this section.
+(5) The director shall adopt rules and regulations for marking, labeling  or otherwise identifying
+fixtures that meet the standards of this section.
+SECTION 20.
+ORS 358.511, 358.540 and 358.541 are repealed.
+SECTION 21. ORS 358.480, 358.499 and 358.545 are  added to and made a part of ORS
+358.487 to 358.543.
+SECTION 22. The amendments to ORS 93.040, 215.213, 215.283, 358.475,  358.480, 358.487,
+358.490, 358.495, 358.499, 358.500, 358.505, 358.509, 358.515, 358.525, 358.528,  358.543, 358.545 and
+447.145 and section 2, chapter  50, Oregon Laws 2022, by sections 1 to 19 of this 2025 Act and
+the repeal of ORS 358.511, 358.540 and 358.541 by section 20 of this 2025 Act  apply to applica-
+tions for classification and special assessment  under ORS 358.480 to 358.545 filed on or after
+the effective date of this 2025 Act for property tax years beginning on or after July 1, 2026.
+Enrolled House Bill 3190 (HB 3190-A) Page 29
+SECTION 23. Nothing in the amendments to ORS 93.040, 215.213, 215.283,  358.475, 358.480,
+358.487, 358.490, 358.495, 358.499, 358.500, 358.505, 358.509, 358.515,  358.525, 358.528, 358.543,
+358.545 and 447.145 and section 2, chapter 50, Oregon Laws 2022, by sections 1 to  19 of this
+2025 Act and the repeal of ORS 358.511, 358.540 and 358.541 by  section 20 of this 2025 Act af-
+fects the classification of property as historic property  under ORS 358.480 to 358.545 before
+the effective date of this 2025 Act. Such property may continue to receive special assess-
+ment under ORS 358.480 to 358.545 until the completion of the term of special  assessment
+under ORS 358.480 to 358.545 as in effect on the day before  the effective date of this 2025 Act.
+SECTION 24. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+Passed by House April 8, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate May 21, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 3190 (HB 3190-A) Page 30
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 100.005, ORS 100.020, ORS 100.100, ORS 100.105, ORS 100.110, ORS 162.135, ORS 195.120, ORS 195.300, ORS 195.301, ORS 197.015, ORS 197.247, ORS 197.251, ORS 197.660, ORS 197.732, ORS 215.203, ORS 215.213, ORS 215.246, ORS 215.255, ORS 215.274, ORS 215.275, ORS 215.279, ORS 215.283, ORS 215.291, ORS 215.296, ORS 215.298, ORS 215.402, ORS 215.446, ORS 215.447, ORS 215.448, ORS 215.449, ORS 215.451, ORS 215.452, ORS 215.461, ORS 215.780, ORS 30.930, ORS 308.146, ORS 308.149, ORS 308A.250, ORS 311.235, ORS 311.370, ORS 311.505, ORS 329A.250, ORS 358.475, ORS 358.480, ORS 358.487, ORS 358.490, ORS 358.495, ORS 358.499, ORS 358.500, ORS 358.505, ORS 358.509, ORS 358.511, ORS 358.515, ORS 358.525, ORS 358.528, ORS 358.540, ORS 358.541, ORS 358.543, ORS 358.545, ORS 358.680, ORS 447.020, ORS 447.145, ORS 454.695, ORS 459.205, ORS 459.245, ORS 468B.050, ORS 468B.053, ORS 468B.095, ORS 469.300, ORS 517.750, ORS 520.005, ORS 522.005, ORS 540.505, ORS 565.210, ORS 671.318, ORS 671.520, ORS 801.580, ORS 92.010, ORS 93.040
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `524beea4666fb475f5c98c69974d622b208259d1808f7e42f139da31afdcdb58` (snapshot `_meta/snapshots/measure-2025r1-hb3190-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3190/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `db9938609bdf16ab10e9000795defb5686e87b15271eb7e75e832e341e7d9a0d` (snapshot `_meta/snapshots/measure-2025r1-hb3190-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3190/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3190` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

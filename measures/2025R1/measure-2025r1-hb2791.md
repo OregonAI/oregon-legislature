@@ -1,0 +1,627 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2791
+title: 'HB 2791 (2025R1): Allows a worker to receive permanent disability payments and complete the appeal
+  of a notice of closure while engaged in training.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2791
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2791/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 5fb077ccd8622ba9498cef1acbf7ef6a3b668fc5300c713fc048104ada30be82
+snapshot_id: measure-2025r1-hb2791-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 656.005
+  - ORS 656.039
+  - ORS 656.204
+  - ORS 656.208
+  - ORS 656.245
+  - ORS 656.262
+  - ORS 656.268
+  - ORS 656.273
+  - ORS 656.283
+  - ORS 656.340
+  - ORS 656.704
+  - ORS 656.726
+  - ORS 656.790
+  - ORS 659A.043
+  - ORS 659A.046
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2791
+prefix_meaning: House Bill
+catch_line: Allows a worker to receive permanent disability payments and complete the appeal of a notice
+  of closure while engaged in training.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would make changes to provisions of workers' comp law that deal with\
+  \ the timing of a worker's claim and the worker's engagement in training. (Flesch Readability Score:\
+  \ 60.0). \n\tAllows a worker to receive permanent disability payments and complete the appeal of a notice\
+  \ of closure while engaged in training. Allows the redetermination of a worker's permanent total disability\
+  \ compensation after ceasing to engage in training. Allows a worker to postpone the selection of a training\
+  \ program and engagement in the program until after claim closure becomes final."
+relating_to: Relating to workers' compensation.
+relating_to_full: Relating to workers' compensation; amending ORS 656.268 and 656.340.
+at_the_request_of: null
+lc_number: 2375
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-03-25T10:12:29'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 42565
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 656.005
+  - ORS 656.039
+  - ORS 656.204
+  - ORS 656.208
+  - ORS 656.245
+  - ORS 656.262
+  - ORS 656.268
+  - ORS 656.273
+  - ORS 656.283
+  - ORS 656.340
+  - ORS 656.704
+  - ORS 656.726
+  - ORS 656.790
+  - ORS 659A.043
+  - ORS 659A.046
+  from_relating_to_full:
+  - ORS 656.268
+  - ORS 656.340
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2791`.
+
+# HB 2791 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2791, 2025 Regular Session (2025R1)
+- **LC number:** 2375
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-03-25T10:12:29
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 42565 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2791/Introduced>.
+
+## Summary
+
+**Catchline:** Allows a worker to receive permanent disability payments and complete the appeal of a notice of closure while engaged in training.
+
+**Relating to:** Relating to workers' compensation.
+
+Digest: The Act would make changes to provisions of workers' comp law that deal with the timing of a worker's claim and the worker's engagement in training. (Flesch Readability Score: 60.0). 
+ Allows a worker to receive permanent disability payments and complete the appeal of a notice of closure while engaged in training. Allows the redetermination of a worker's permanent total disability compensation after ceasing to engage in training. Allows a worker to postpone the selection of a training program and engagement in the program until after claim closure becomes final.
+
+**RelatingToFull (verbatim upstream field):** Relating to workers' compensation; amending ORS 656.268 and 656.340.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2791
+Sponsored by Representative RUIZ, Senator GORSEK; Representatives HUDSON, MUNOZ,  Senators CAMPOS,
+FREDERICK, MEEK (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would make changes to provisions of workers’ comp  law that deal with the
+timing of a worker’s claim and the worker’s engagement  in training. (Flesch Readability Score: 60.0).
+Allows a worker to receive permanent disability  payments and complete the appeal of a notice
+of closure while  engaged in training. Allows the redetermination of a worker’s permanent total dis-
+ability compensation after ceasing to engage in training. Allows a worker to postpone the selection
+of a training program and engagement in the program until after claim closure becomes final.
+A BILL FOR AN ACT
+Relating to workers’ compensation; amending ORS 656.268 and 656.340.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 656.268 is amended to read:
+656.268. (1) One purpose  of this chapter is to restore the injured worker as soon as possible and
+as near as possible to a condition of self support and maintenance as an able-bodied  worker. The
+insurer or self-insured employer shall close the worker’s claim, as prescribed by  the Director of the
+Department of Consumer and Business  Services, and determine the extent of the worker’s permanent
+disability, provided the worker is not enrolled and  actively engaged in training according to rules
+adopted by the director pursuant to ORS 656.340 and 656.726, when  one of the following conditions
+is met:
+(a) The worker has become medically stationary and there is sufficient information to determine
+permanent disability. Notwithstanding any other provision of this chapter,  a physician or nurse
+practitioner may not retroactively determine a worker to be medically stationary more than 60  days
+prior to the date of the determination  except in the case of claims that are subject to subsection (13)
+of this section. An insurer or self-insured employer must mail or deliver written notice to a worker
+and to the worker’s attorney, if the worker is represented, within seven days following  receipt of
+information that the worker is medically stationary.
+(b) The accepted injury is no longer the major contributing cause of the worker’s combined  or
+consequential condition or conditions pursuant to ORS 656.005 (7). When  the claim is closed because
+the accepted injury is no longer the major contributing cause of the worker’s combined or  conse-
+quential condition or conditions, and there is sufficient information to determine permanent disabil-
+ity, the likely permanent disability that would have been due  to the current accepted condition shall
+be estimated.
+(c) Without the approval of the  attending physician or nurse practitioner authorized to provide
+compensable medical services under ORS 656.245, the worker fails to seek medical treatment for a
+period of 30 days or the worker fails to attend a closing examination, unless the worker
+affirmatively establishes that such failure is attributable to reasons beyond the worker’s control.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2375
+(d) An insurer or self-insured employer finds that a worker who has  been receiving permanent
+total disability benefits  has materially improved and is capable of regularly performing work at a
+gainful and suitable occupation.
+(2) If the worker is enrolled and actively engaged in training according to rules  adopted pursu-
+ant to ORS 656.340 and 656.726, the temporary disability compensation shall be proportionately  re-
+duced by any sums earned during the training.
+(3) A copy of all medical  reports and reports of vocational rehabilitation agencies or counselors
+shall be furnished to the worker, if requested by the worker.
+(4) Temporary total disability  benefits shall continue until whichever of the following events
+first occurs:
+(a) The worker returns to regular or modified employment;
+(b) The attending physician or nurse practitioner who has authorized temporary disability  ben-
+efits for  the worker under ORS 656.245 advises the worker and documents in writing that the worker
+is released to return to regular employment;
+(c) The attending physician or nurse practitioner who has authorized temporary disability ben-
+efits for  the worker under ORS 656.245 advises the worker and documents in writing that the worker
+is released  to return to modified employment, such employment is offered in writing to the worker
+and the  worker fails to begin such employment. However, an offer of modified employment may be
+refused by the worker without the termination of temporary total disability benefits if the offer:
+(A) Requires a  commute that is beyond the physical capacity of the worker according to the
+worker’s attending physician  or the nurse practitioner who may authorize temporary disability un-
+der ORS 656.245;
+(B) Is at a  work site more than 50 miles one way from where the worker was injured unless the
+site is less than 50 miles  from the worker’s residence or the intent of the parties at the time of hire
+or as established by the pattern of  employment prior to the injury was that the employer had mul-
+tiple or mobile work sites and the worker could be assigned to any such site;
+(C) Is not with the employer at injury;
+(D) Is not at a work site of the employer at injury;
+(E) Is not consistent with the existing written  shift change policy or is not consistent with
+common practice of the employer at injury or aggravation; or
+(F) Is not consistent with an existing shift change provision of  an applicable collective bar-
+gaining agreement;
+(d) Any other event that  causes temporary disability benefits to be lawfully suspended, withheld
+or terminated under ORS 656.262 (4) or other provisions of this chapter; or
+(e) Notwithstanding paragraph (c)(C), (D), (E) and  (F) of this subsection, the attending physician
+or nurse practitioner who has authorized temporary disability benefits under ORS 656.245 for a home
+care worker or a personal support worker who has been made a subject worker  pursuant to ORS
+656.039 advises the home care worker or personal support worker  and documents in writing that the
+home care worker or personal support worker is released to return to  modified employment, appro-
+priate modified  employment is offered in writing by the Home Care Commission or a designee of the
+commission to the  home care worker or personal support worker for any client of the Department
+of Human Services who employs a home care worker or personal support worker  and the worker
+fails to begin the employment.
+(5)(a) Findings by the insurer or  self-insured employer regarding the extent of the worker’s dis-
+ability in closure of the claim shall be pursuant to the standards prescribed by the director.
+(b) The  insurer or self-insured employer shall issue a notice of closure of the claim to the worker
+and to the worker’s attorney if the worker is represented. The insurer or self-insured  employer shall
+notify the director of  the closure in the manner the director prescribes by rule. If the worker is
+deceased at the time the notice of closure is  issued, the insurer or self-insured employer shall mail
+the worker’s  copy of the notice of closure, addressed to the estate of the worker, to the worker’s last
+known address and may mail copies of the  notice of closure to any known or potential beneficiaries
+to the estate of the deceased worker.
+(c) The notice of closure must inform:
+(A) The parties, in  boldfaced type, of the proper manner in which to proceed if they are dissat-
+isfied with the terms of the notice of closure;
+(B) The worker of:
+(i) The amount of any further compensation,  including permanent disability compensation to be
+awarded;
+(ii) The duration of temporary total or temporary partial disability compensation;
+(iii) The right of the worker or beneficiaries of the  worker who were mailed a copy of the notice
+of closure under paragraph (b) of this subsection to request reconsideration  by the director under
+this section within 60 days of the date of the notice of closure;
+(iv) The right of beneficiaries who were not  mailed a copy of the notice of closure under para-
+graph (b) of this subsection to request  reconsideration by the director under this section within one
+year of the date the notice of  closure was mailed to the estate of the worker under paragraph (b)
+of this subsection;
+(v) The right  of the insurer or self-insured employer to request reconsideration by the director
+under this section within seven days of the date of the notice of closure;
+(vi) The aggravation rights; and
+(vii) Any other information as the director may require; and
+(C) Any beneficiaries of death benefits to which they may be entitled pursuant to ORS  656.204
+and 656.208.
+(d) If the insurer or self-insured employer has not issued a notice of  closure, the worker may
+request closure. Within 10 days  of receipt of a written request from the worker, the insurer or
+self-insured employer shall issue a notice of closure if the requirements of  this section have been
+met or a notice of refusal to close if the requirements of this section have not been met. A notice
+of refusal to close shall advise the worker of:
+(A) The decision not to close;
+(B) The right of the worker to request a hearing pursuant  to ORS 656.283 within 60 days of the
+date of the notice of refusal to close;
+(C) The right to be represented by an attorney; and
+(D) Any other information as the director may require.
+(e) If a worker, a worker’s  beneficiary, an insurer or a self-insured employer objects to the no-
+tice of closure, the objecting party first must request reconsideration by the  director under this
+section. A worker’s request for reconsideration must be made within  60 days of the date of the no-
+tice of closure. If the worker  is deceased at the time the notice of closure is issued, a request for
+reconsideration by a beneficiary of the worker who was mailed  a copy of the notice of closure under
+paragraph (b) of this subsection must be made within 60 days of  the date of the notice of closure.
+A request for reconsideration by a beneficiary to the estate of a deceased worker who was  not
+mailed a  copy of the notice of closure under paragraph (b) of this subsection must be made within
+one year of the date the notice of closure was mailed  to the estate of the worker under paragraph
+(b) of this subsection. A request for reconsideration by an insurer or self-insured employer may  be
+based only on disagreement with the findings used to  rate impairment and must be made within
+seven days of the date of the notice of closure.
+(f) If an  insurer or self-insured employer has closed a claim or refused to close a claim pursuant
+to this section, if the correctness of that notice of closure or refusal to close  is at issue in a hearing
+on the claim and if a finding is made at the  hearing that the notice of closure or refusal to close
+was not reasonable, a penalty shall  be assessed against the insurer or self-insured employer and paid
+to the worker in an amount equal to 25 percent of all compensation determined  to be then due the
+claimant.
+(g) If, upon reconsideration of a claim closed by an  insurer or self-insured employer, the director
+orders an increase by 25 percent or more of the amount of compensation to be paid  to the worker
+for permanent disability and the worker  is found upon reconsideration to be at least 20 percent
+permanently disabled, a penalty shall be assessed against the insurer  or self-insured employer and
+paid to the worker in an amount equal to  25 percent of all compensation determined to be then due
+the claimant. If the increase in compensation results from information  that the insurer or self-
+insured employer  demonstrates the insurer or self-insured employer could not reasonably have
+known at the time of claim closure, from new information obtained  through a medical arbiter ex-
+amination or from a determination order issued by the director  that addresses the extent of the
+worker’s permanent disability that is not based on the standards adopted pursuant to  ORS 656.726
+(4)(f), the penalty shall not be assessed.
+(6)(a) Notwithstanding any other provision of law, only one reconsideration proceeding may be
+held on each notice of closure. At the reconsideration proceeding:
+(A) A deposition arranged by the worker, limited to the testimony and cross-examination of the
+worker about the worker’s condition  at the time of claim closure, shall become part of the recon-
+sideration  record.  The deposition must be conducted subject to the opportunity for cross-examination
+by the insurer or self-insured employer and  in accordance with rules adopted by the director. The
+cost of the court reporter, interpreter services, if  necessary, and one original of the transcript of the
+deposition for the Department of Consumer and Business  Services and one copy of the transcript
+of the deposition for each party shall be  paid by the insurer or self-insured employer. The recon-
+sideration proceeding may not be postponed to receive a deposition taken under  this subparagraph.
+A deposition taken in accordance with this subparagraph may be received as evidence at  a hearing
+even if the deposition is not prepared in time for use in the reconsideration proceeding.
+(B) Pursuant to rules adopted by the  director, the worker or the insurer or self-insured employer
+may correct information in  the record that is erroneous and may submit any medical evidence that
+should have been  but was not submitted by the attending physician or nurse practitioner authorized
+to provide compensable medical services under ORS 656.245 at the time of claim closure.
+(C) If the director determines that  a claim was not closed in accordance with subsection (1) of
+this section, the director may rescind the closure.
+(b) If necessary,  the director may require additional medical or other information with respect
+to the claims and may postpone the reconsideration for not more than 60 additional calendar days.
+(c) In any reconsideration proceeding under  this section in which the worker was represented
+by an attorney, the director shall order the insurer or self-insured employer to pay to the  attorney,
+out of the additional compensation awarded, an amount equal to 10 percent of any  additional com-
+pensation awarded to the worker.
+(d) Except as provided in subsection (7) of this section,  the reconsideration proceeding shall be
+completed within 18 working days from the date  the reconsideration proceeding begins, and shall
+be performed by a  special evaluation appellate unit within the department. The deadline of 18
+working  days  may be postponed by an additional 60 calendar days if within the 18 working days the
+department mails notice of review by a  medical arbiter. If an order on reconsideration has not been
+mailed on or before 18 working days from  the date the reconsideration proceeding begins, or within
+18 working days plus  the additional 60 calendar days where a notice for medical arbiter review was
+timely mailed or the director postponed the reconsideration pursuant to  paragraph (b) of this sub-
+section, or within such additional time as provided in subsection (8) of this section when reconsid-
+eration is postponed further because the  worker has failed to cooperate in the medical arbiter
+examination, reconsideration shall be deemed denied and any further proceedings  shall occur as
+though an order on reconsideration affirming the notice of closure was mailed on the date the  order
+was due to issue.
+(e) The period for completing the reconsideration proceeding described in  paragraph (d) of this
+subsection begins upon receipt by the director of a  worker’s or a beneficiary’s request for recon-
+sideration pursuant to subsection (5)(e) of this section. If the insurer or self-insured employer re-
+quests reconsideration, the period for reconsideration begins upon the earlier of the date of the
+request for reconsideration by the worker or beneficiary, the date  of receipt of a waiver from the
+worker or beneficiary of  the right to request reconsideration or the date of expiration of the right
+of the worker or beneficiary  to request reconsideration. If a party elects not to file a separate re-
+quest for reconsideration, the  party does not waive the right to fully participate in the reconsider-
+ation proceeding, including the right to proceed with the reconsideration if the initiating party
+withdraws the request for reconsideration.
+(f) Any medical arbiter report may be received as evidence at a hearing even if the report  is
+not prepared in time for use in the reconsideration proceeding.
+(g) If any party objects  to the reconsideration order, the party may request a hearing under ORS
+656.283 within 30 days from the date of the reconsideration order.
+(7)(a) The director may delay the reconsideration  proceeding and toll the reconsideration
+timeline established under subsection (6) of this section for up to 45 calendar days if:
+(A) A  request for reconsideration of a notice of closure has been made to the director within
+60 days of the date of the notice of closure;
+(B) The parties are actively engaged in settlement negotiations that  include issues in dispute
+at reconsideration;
+(C) The parties agree to the delay; and
+(D) Both parties notify the director before the 18th working day after the reconsideration  pro-
+ceeding has begun that they request a delay under this subsection.
+(b) A delay of the reconsideration proceeding  granted by the director under this subsection ex-
+pires:
+(A) If a party requests the director to resume the reconsideration proceeding before the  expi-
+ration of the delay period;
+(B) If the parties reach a settlement and the director receives a copy  of the approved settlement
+documents before the expiration of the delay period; or
+(C) On the next calendar day following the  expiration of the delay period authorized by the di-
+rector.
+(c) Upon expiration of a delay granted under this subsection, the timeline for the completion of
+the reconsideration proceeding shall resume as if the delay had never been granted.
+(d) Compensation due the worker shall continue to be paid during  the period of delay authorized
+under this subsection.
+(e) The director may authorize only one delay period for each reconsideration proceeding.
+(8)(a) If the basis for objection to a notice of closure issued under this  section is disagreement
+with the impairment used in rating of the worker’s disability,  the director shall refer the claim to
+a medical arbiter appointed by the director.
+(b) If the director determines that insufficient medical information is  available to determine
+disability, the director may appoint, and refer the claim to, a medical arbiter.
+(c) At the request of either of the parties, the director shall appoint a panel of as  many as three
+medical arbiters in accordance with criteria that the director sets by rule.
+(d) The arbiter, or panel of medical arbiters,  must be chosen from among a list of physicians
+qualified to be attending physicians referred to in ORS 656.005 (12)(b)(A) whom the director  selected
+in consultation with the Oregon Medical Board and the committee referred to in ORS 656.790.
+(e)(A) The medical arbiter or panel of medical arbiters may examine the  worker and perform
+such tests as may be reasonable and necessary to establish the worker’s impairment.
+(B) If the director determines that the worker failed to attend the examination without  good
+cause or failed to cooperate with the medical arbiter, or panel of medical  arbiters, the director shall
+postpone the reconsideration proceedings  for up to 60 days from the date of the determination that
+the worker  failed to attend or cooperate, and shall suspend all disability benefits resulting from this
+or any prior opening of the claim until such time as the worker  attends and cooperates with the
+examination or the request for reconsideration is withdrawn. Any additional  evidence regarding
+good cause must be submitted prior to the conclusion of the 60-day postponement period.
+(C) At the  conclusion of the 60-day postponement period, if the worker has not attended and
+cooperated with a  medical arbiter examination or established good cause, the worker may not attend
+a medical arbiter examination for this claim closure. The  reconsideration record must be closed, and
+the director shall issue an order on reconsideration based upon the existing record.
+(D) All disability benefits  suspended under this subsection, including all disability benefits
+awarded in the order on reconsideration, or by  an Administrative Law Judge, the Workers’ Com-
+pensation Board or upon court review, are not due and payable to the worker.
+(f) The insurer or self-insured employer shall  pay the costs of examination and review by the
+medical arbiter or panel of medical arbiters.
+(g) The findings of the medical  arbiter or panel of medical arbiters must be submitted to the
+director for reconsideration of the notice of closure.
+(h) After reconsideration, no subsequent medical evidence of  the worker’s impairment is admis-
+sible before the director, the Workers’ Compensation  Board or the courts for purposes of making
+findings of impairment on the claim closure.
+(i)(A) If the basis for objection to a notice of closure issued under this section is a  disagreement
+with the impairment used in rating the worker’s disability, and the director  determines that the
+worker is not medically stationary at the time of the reconsideration or that the closure was not
+made pursuant to this  section, the director is not required to appoint a medical arbiter before
+completing the reconsideration proceeding.
+(B) If the worker’s condition has substantially changed  since the notice of closure, upon the
+consent of all the parties  to the claim, the director shall postpone the proceeding until the worker’s
+condition is appropriate for claim closure under subsection (1) of this section.
+(9) No hearing shall be held on any issue that was not raised  and preserved before the director
+at reconsideration. However,  issues arising out of the reconsideration order may be addressed and
+resolved at hearing.
+(10)(a) If, after the  notice of closure issued pursuant to this section, the worker becomes en-
+rolled and actively engaged in training according to rules adopted pursuant  to ORS 656.340 and
+656.726, [any permanent disability payments due for work disability under the closure shall  be sus-
+pended, and ] the worker shall  receive temporary disability compensation and any permanent disa-
+bility payments due for impairment while the worker is enrolled and  actively engaged in the
+training.
+(b) Nothing in this chapter shall be interpreted to  prevent a worker from completing the
+appeal of a notice  of closure while enrolled and actively engaged in training according to
+rules adopted pursuant to ORS 656.340 and 656.726.
+(c) When the worker ceases to be enrolled and actively engaged in the training,  the insurer or
+self-insured employer shall again close the claim pursuant to this section if the worker  is medically
+stationary or if the worker’s accepted injury is no longer the major contributing cause  of the
+worker’s combined or consequential condition or conditions pursuant to ORS 656.005 (7). The clo-
+sure shall include the duration of temporary total or temporary partial disability  compensation.
+Permanent disability compensation  shall be redetermined for work disability and permanent total
+disability only.
+(d) If the worker has returned to work or the worker’s attending physician has released the
+worker to return to regular or modified employment,  the insurer or self-insured employer shall again
+close the claim. This notice of closure may be appealed only in the same manner as are other notices
+of closure under this section.
+(11) If the attending physician or nurse practitioner authorized to provide  compensable medical
+services under ORS 656.245 has approved the worker’s return to work  and there is a labor dispute
+in progress at the place of  employment, the worker may refuse to return to that employment without
+loss of reemployment rights or any vocational assistance provided by this chapter.
+(12) Any notice of closure made under this section may include  necessary adjustments in com-
+pensation paid or payable prior to the notice of closure, including disallowance of permanent disa-
+bility payments prematurely made, crediting temporary disability payments  against current or future
+permanent or temporary disability  awards or payments and requiring the payment of temporary
+disability payments which were payable but not paid.
+(13) An insurer  or self-insured employer may take a credit or offset of previously paid workers’
+compensation benefits or payments against any further workers’ compensation benefits or  payments
+due a worker  from that insurer or self-insured employer when the worker admits to having obtained
+the previously paid benefits or payments through fraud, or a civil judgment  or criminal conviction
+is entered  against the worker for having obtained the previously paid benefits through fraud. Bene-
+fits or payments obtained through fraud by a worker may not be included in any data used for
+ratemaking or individual employer rating or dividend  calculations by an insurer, a rating organiza-
+tion licensed pursuant to ORS chapter 737, the State Accident  Insurance Fund Corporation or the
+director.
+(14)(a) An insurer or self-insured employer may offset any compensation payable to the  worker
+to recover an overpayment from a claim with the same insurer or  self-insured employer. When
+overpayments  are  recovered from temporary disability or permanent total disability benefits, the
+amount recovered from each payment  shall not exceed 25 percent of the payment, without prior
+authorization from the worker.
+(b) An insurer  or self-insured employer may suspend and offset any compensation payable to the
+beneficiary of the worker,  and recover an overpayment of permanent total disability benefits caused
+by the failure of the worker’s beneficiaries to notify the insurer  or self-insured employer about the
+death of the worker.
+(15) Conditions that are direct medical sequelae to the original accepted condition  shall be in-
+cluded in rating permanent disability of the claim unless they have been specifically denied.
+(16)(a) Except as  provided under subsection (13) of this section, an insurer or self-insured em-
+ployer may not recover an overpayment  from a worker’s permanent partial disability compensation
+for overpayments, offsets or credits of wage loss in  an amount that exceeds 50 percent of the total
+compensation awarded to the worker.
+(b) An insurer or self-insured employer may not declare  an overpayment of any compensation
+that was paid more than two years prior to the date of the declaration.
+SECTION 2.
+ ORS 656.340 is amended to read:
+656.340. (1)(a) The insurer or self-insured employer shall cause vocational assistance to be  pro-
+vided to an injured worker who is eligible for assistance in returning to work.
+(b) For this purpose the insurer or self-insured employer shall contact a worker with a  claim for
+a disabling  compensable injury or claim for aggravation for evaluation of the worker’s eligibility for
+vocational assistance within five days of:
+(A) Having knowledge of  the worker’s likely eligibility for vocational assistance, from a medical
+or investigation report, notification from the worker, or otherwise; or
+(B) The time the worker is medically stationary, if the worker has not returned to or been re-
+leased for the worker’s regular employment or has not  returned to other suitable employment with
+the employer at the time of injury  or aggravation and the worker is not receiving vocational as-
+sistance.
+(c) Eligibility may be redetermined by the  insurer or self-insured employer upon receipt of new
+information that would change the eligibility determination.
+(2) Contact under subsection  (1) of this section shall include informing the worker about reem-
+ployment rights, the responsibility of the worker to  request reemployment, and wage subsidy and job
+site modification assistance and the provisions of the preferred worker program pursuant to rules
+adopted by the Director of the Department of Consumer and Business Services.
+(3) Within five days after notification that the attending  physician or nurse practitioner au-
+thorized to provide compensable medical services under ORS 656.245 has released a  worker to re-
+turn to work, the insurer or self-insured employer shall inform the worker about the  opportunity to
+seek reemployment or reinstatement under ORS 659A.043 and 659A.046.  The insurer shall inform the
+employer of the worker’s reemployment rights, wage subsidy and the  job site modification assistance
+and the provisions of the preferred worker program.
+(4) As soon as possible, and not more than 30 days after the  contact required by subsection (1)
+of this section, the insurer  or self-insured employer shall cause an individual certified by the direc-
+tor to provide vocational assistance to determine whether the worker is  eligible for vocational as-
+sistance. The insurer or self-insured employer shall notify  the worker of the decision regarding the
+worker’s  eligibility  for vocational assistance. If the insurer or self-insured employer decides that the
+worker is not eligible, the worker may apply to  the director for review of the decision as provided
+in subsection (16) of this section. A worker determined  ineligible upon evaluation under subsection
+(1)(b)(B) of this section, or because the worker’s eligibility has  fully and finally expired under stan-
+dards prescribed by the director, may not be found eligible  thereafter unless that eligibility deter-
+mination is rejected  by the director under subsection (16) of this section or the worker’s condition
+worsens so as to constitute  an aggravation claim under ORS 656.273. A worker is not entitled to
+vocational assistance benefits when possible eligibility for such  benefits arises from a worsening of
+the worker’s condition that occurs after the expiration of the worker’s aggravation rights under ORS
+656.273.
+(5) The objectives of  vocational assistance are to return the worker to employment which is as
+close as possible  to the worker’s regular employment at a wage as close as possible to the weekly
+wage currently being paid for  employment which was the worker’s regular employment even though
+the wage available following employment may be less than the  wage prescribed by subsection (6)
+of this section.  As used in this subsection and subsection (6) of this section, “regular employment”
+means the employment the worker held at the  time of the injury or the claim for aggravation under
+ORS 656.273, whichever gave rise to the potential eligibility  for vocational assistance; or, for a
+worker not employed at the time of the aggravation, the employment the worker held on the last
+day of work prior to the aggravation.
+(6)(a) A worker is eligible for vocational assistance if the worker will not be able to return  to
+the previous employment  or to any other available and suitable employment with the employer at
+the time of injury or aggravation, and the worker has a substantial handicap to employment.
+(b) As used in this subsection:
+(A) A “substantial handicap to employment” exists when the worker, because of the  injury or
+aggravation, lacks the necessary physical capacities, knowledge,  skills and abilities to be employed
+in suitable employment.
+(B) “Suitable employment” means:
+(i) Employment of the kind for which the worker  has the necessary physical capacity, knowl-
+edge, skills and abilities;
+(ii) Employment that is located where the worker customarily worked or is  within reasonable
+commuting distance of the worker’s residence; and
+(iii) Employment that produces a weekly wage within 20 percent of that currently  being paid for
+employment that was the worker’s  regular employment as defined in subsection (5) of this section.
+The director shall adopt rules providing methods of calculating the weekly wage  currently being
+paid for the worker’s regular employment for  use in determining eligibility and for providing as-
+sistance to eligible  workers. If the worker’s regular employment was seasonal or temporary, the
+worker’s wage shall be averaged based on a combination of the worker’s  earned income and any
+unemployment insurance payments. Only earned  income evidenced by verifiable documentation such
+as federal or state tax returns shall be used in  the calculation. Earned income does not include
+fringe benefits or reimbursement of the worker’s employment expenses.
+(7) Vocational evaluation, help in directly obtaining employment and training shall be  available
+under conditions prescribed by the  director. The director may establish other conditions for pro-
+viding vocational assistance, including those relating to the worker’s availability for assistance,
+participation in previous assistance programs connected with the same claim and the nature and
+extent of assistance that may be  provided. Such conditions shall give preference to direct employ-
+ment assistance over training.
+(8) An insurer or self-insured employer may utilize its own staff or may  engage any other indi-
+vidual certified by the director to perform the vocational evaluation required by subsection  (4) of
+this section.
+(9) The director shall adopt rules providing:
+(a) Standards for and  methods of certifying individuals qualified by education, training and ex-
+perience to provide vocational assistance to injured workers;
+(b) Standards for registration of vocational assistance providers;
+(c) Conditions  and procedures under which the certification of an individual to provide voca-
+tional assistance services or the registration of a vocational assistance provider  may be suspended
+or revoked for failure to maintain compliance with the certification or registration standards;
+(d) Standards for the nature and extent of services a worker may receive,  for plans for return
+to work and for determining when the worker has returned to work; and
+(e) Procedures, schedules and conditions relating to the payment for services performed by a
+vocational assistance provider, that are based on payment for specific services performed and not
+fees for services performed on an hourly basis. Fee schedules shall reflect a reasonable rate for
+direct worker purchases and for all  vocational assistance providers and shall be the same within
+suitable geographic areas.
+(10) Insurers and  self-insured employers shall maintain records and make reports to the director
+of vocational assistance  actions at times and in the manner as the director may prescribe. The re-
+quirements prescribed shall be for the purpose of assisting  the Department of Consumer and Busi-
+ness Services in monitoring compliance  with this section to insure that workers receive timely and
+appropriate vocational assistance. The director shall minimize to the greatest extent possible the
+number, extent and kinds of reports required.  The director shall compile a list of organizations or
+agencies registered to provide vocational assistance. A current list shall be  distributed by the di-
+rector to all insurers and self-insured employers. The insurer shall send the list  to each worker with
+the notice of eligibility.
+(11) When a worker  is eligible to receive vocational assistance, the worker and the insurer or
+self-insured employer shall attempt to agree on the choice of a vocational assistance provider. If  the
+worker agrees, the insurer or self-insured employer may utilize  its own staff to provide vocational
+assistance. If they are unable to agree on a vocational assistance provider, the  insurer or self-
+insured employer shall  notify the director and the director shall select a provider. Any change in
+the choice of vocational assistance provider is subject to the approval of the director.
+(12) Notwithstanding ORS 656.268, a worker actively engaged in training  may receive temporary
+disability compensation for a  maximum of 16 months. The insurer or self-insured employer may vol-
+untarily extend the payment of temporary disability compensation to a maximum of 21  months. The
+director may order the payment of temporary disability compensation  for up to 21 months upon good
+cause shown by the injured worker. The costs related to vocational  assistance training programs
+may be paid for periods  longer than 21 months, but in no event may temporary disability benefits
+be paid for a period longer than 21 months.
+(13) As used in  this section, “vocational assistance provider” means a public or private organ-
+ization or agency that provides vocational assistance to injured workers.
+(14)(a) Determination of eligibility for vocational assistance does not entitle all workers to the
+same type or extent of assistance.
+(b) Training shall not be provided to an eligible worker solely  because the worker cannot obtain
+employment, otherwise suitable, that will  produce the wage prescribed in subsection (6) of this sec-
+tion unless such training will  enable the worker to find employment which will produce a wage
+significantly closer to that prescribed in subsection (6) of this section.
+(c) Nothing in  this section shall be interpreted to expand the availability of training under this
+section.
+(15) A physical  capacities evaluation shall be performed in conjunction with vocational assist-
+ance or determination of eligibility for such assistance at the  request of the insurer or self-insured
+employer or worker. The request  shall be made to the attending physician or nurse practitioner
+authorized to provide compensable medical  services under ORS 656.245. The attending physician or
+nurse practitioner, within 20 days of the request, shall perform a physical capacities evaluation or
+refer the worker for such evaluation or  advise the insurer or self-insured employer and the worker
+in writing that the injured worker is incapable of participating in a physical capacities evaluation.
+(16)(a) The Legislative Assembly finds  that vocational rehabilitation of injured workers requires
+a high degree of cooperation  between all of the participants in the vocational assistance process.
+Based on this finding, the Legislative Assembly concludes  that disputes regarding eligibility for and
+extent of vocational  assistance services should be resolved through nonadversarial procedures to the
+greatest extent possible consistent with constitutional principles. The director shall adopt  by rule
+a procedure for resolving vocational assistance disputes in the manner provided in this subsection.
+(b) If a worker is dissatisfied with an action of the insurer or  self-insured employer regarding
+vocational assistance, the worker must apply to the director  for administrative review of the matter.
+Application for review must be made not later than the 60th day after the  date the worker was
+notified of the action. The director shall complete the review within a reasonable time.
+(c) If the worker’s dissatisfaction is resolved by agreement of the  parties, the agreement shall
+be reduced to writing, and  the director and the parties shall review the agreement and either ap-
+prove or disapprove it. The agreement is  subject to reconsideration by the director under limitations
+prescribed by the director, but is not subject to review by any other forum.
+(d) If the worker’s dissatisfaction is not resolved by agreement of the parties, the  director shall
+resolve the matter in a  written order based on a record sufficient to permit review. The order is
+subject to review under ORS 656.704. The request for a hearing must be filed within 60 days of  the
+date the order was issued. At the hearing, the order of the director shall be modified only if it:
+(A) Violates a statute or rule;
+(B) Exceeds the statutory authority of the agency;
+(C) Was made upon unlawful procedure; or
+(D) Was characterized by abuse of discretion or clearly unwarranted exercise of discretion.
+(e) For purposes of this subsection, the term “parties” does not include a noncomplying em-
+ployer.
+(17) Notwithstanding any other  provision of this chapter, a worker may postpone the
+selection of a training  program, and the date of enrollment and active engagement in the
+program, according to rules adopted pursuant to this section and ORS 656.726, until the claim
+is closed and any appeal of the claim closure becomes final.
+(18) Nothing in this chapter shall be interpreted to prevent an injured worker from re-
+questing a lump sum payment of the worker’s permanent  partial disability after the date of
+enrollment and active engagement in training according to rules adopted  pursuant to this
+section and ORS 656.726.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 656.268, ORS 656.340
+- From bill text (Introduced version): ORS 656.005, ORS 656.039, ORS 656.204, ORS 656.208, ORS 656.245, ORS 656.262, ORS 656.268, ORS 656.273, ORS 656.283, ORS 656.340, ORS 656.704, ORS 656.726, ORS 656.790, ORS 659A.043, ORS 659A.046
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `5fb077ccd8622ba9498cef1acbf7ef6a3b668fc5300c713fc048104ada30be82` (snapshot `_meta/snapshots/measure-2025r1-hb2791-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2791/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2791` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

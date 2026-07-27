@@ -1,0 +1,189 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3226
+Sponsored by Representatives NATHANSON, NOSSE; Representatives WALLAN, WRIGHT (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Says that if a person that takes claims from drug stores  for payment under a health plan
+signs a contract with another person  that acts for the drug stores, the person must still obey the
+laws that govern pharmacy benefit managers. Says that the person that  acts for or signs contracts
+for the drug stores must get a license to do that business. (Flesch Readability Score: 62.0).
+Includes pharmacy services administrative organizations within the definition of pharmacies  for
+the purpose of ensuring that pharmacy benefit managers  are subject to laws regulating their activ-
+ities even if their contracts are with pharmacy services  administrative organizations. Requires
+pharmacy services administrative organizations to  register with the Department of Consumer and
+Business Services as third party administrators.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to organizations that provide services related  to obtaining prescription drugs; amending
+ORS 735.530 and 744.702; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 735.530, as amended by section 3, chapter 87, Oregon Laws 2024, is  amended
+to read:
+735.530. As used in ORS 735.530 to 735.552:
+(1) “Claim” means a request from a pharmacy or pharmacist to be reimbursed for  the cost of
+filling or refilling a prescription for a drug or for providing a medical supply or service.
+(2) “Enrollee” means an individual who has enrolled for coverage in a health benefit plan for
+which a pharmacy benefit manager has contracted  with the insurer to reimburse claims submitted
+by pharmacies or pharmacists for the costs of drugs prescribed for the individual.
+(3) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+(4) “Insurer” has the meaning given that term in ORS 731.106.
+(5) “Long term care pharmacy” means a pharmacy for which the primary business  is to serve
+a:
+(a) Licensed long term care facility, as defined in ORS 442.015;
+(b) Licensed residential facility, as defined in ORS 443.400; or
+(c) Licensed adult foster home, as defined in ORS 443.705.
+(6) “Mail order pharmacy” means a pharmacy for which the primary business is to  receive pre-
+scriptions by mail, telephone or electronic transmission and  dispense drugs to patients through the
+use of the United States Postal Service, a package delivery service or home delivery.
+(7) “Network pharmacy” means a pharmacy that contracts with a pharmacy benefit manager.
+(8) “Pharmacist” has the meaning given that term in ORS 689.005.
+(9) “Pharmacy” [ includes] means :
+(a) A pharmacy as defined in ORS 689.005;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1102
+HB 3226
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) A long term care pharmacy; and
+(c) An entity that provides or oversees administrative services for two or more pharmacies , in-
+cluding a pharmacy services administrative organization, as defined in section 2, chapter 87,
+Oregon Laws 2024, or a similar or  related organization that advises or represents pharmacies
+that are members of the organization, or enters into contracts on behalf of members,  in
+matters that are related to procuring or supplying prescription drugs .
+(10) “Pharmacy benefit” means the payment for or reimbursement of an  enrollee’s cost for pre-
+scription drugs.
+(11)(a) “Pharmacy benefit manager” means a person that contracts with  pharmacies on behalf
+of an insurer, coordinated  care organizations as defined in ORS 414.025 or the Oregon Prescription
+Drug Program established in ORS 414.312 to:
+(A) Process claims for prescription drugs or medical  supplies or provide retail network man-
+agement for pharmacies or pharmacists;
+(B) Pay pharmacies or pharmacists for prescription drugs or medical supplies;
+(C) Negotiate rebates, discounts or other financial incentives  or arrangements with manufac-
+turers for drugs paid for or procured as described in this paragraph;
+(D) Receive payments for pharmacy services;
+(E) Disburse or distribute rebates;
+(F) Manage or participate in incentive programs or arrangements with manufacturers of drugs;
+(G) Negotiate or enter into contracts with pharmacies;
+(H) Develop formularies;
+(I) Design pharmacy benefit programs; or
+(J) Advertise or promote pharmacy services.
+(b) “Pharmacy benefit manager” does not include a health care service  contractor as defined in
+ORS 750.005.
+(12) “Pharmacy services” means the provision of products, goods  or services in the course of the
+practice of pharmacy.
+(13) “Specialty drug” means a drug that:
+(a) Is subject to restricted distribution by the United States Food and Drug Administration; or
+(b) Requires special handling, provider coordination or  patient education that cannot be pro-
+vided by a retail pharmacy.
+(14) “Specialty pharmacy” means a pharmacy capable of  meeting the requirements applicable to
+specialty  drugs.
+(15) “Third party administrator” means a person licensed under ORS 744.702.
+(16) “340B pharmacy” means a pharmacy that is authorized to purchase  drugs at a discount
+under 42 U.S.C. 256b.
+SECTION 2.
+ ORS 744.702 is amended to read:
+744.702. (1) Subject to ORS 744.704, a person shall not transact business or purport or offer to
+transact business as a third party administrator in this state unless the person  holds a third party
+administrator license issued by the Director of the Department of Consumer and Business Services.
+(2) For purposes of ORS 744.700 to 744.740, a person transacts or purports or offers to transact
+business as a third party administrator [ when] if the person :
+(a) Directly or indirectly solicits or effects coverage of, underwrites, collects charges or  premi-
+ums from, or adjusts or settles claims on, residents of this state or residents of  another state from
+offices in this state, in connection with life insurance or health insurance coverage[ .]; or
+[2]
+HB 3226
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+(b) Acts as a pharmacy services  administrative organization, as defined in section 2,
+chapter 87, Oregon Laws 2024, or  as an organization that advises or represents pharmacies
+that are members of the organization, or that  enters into contracts on behalf of members,
+in matters that are related to procuring or supplying prescription drugs.
+(3) Nothing in ORS 744.700 to 744.740 exempts a third party administrator from  any other ap-
+plicable licensing requirement when the  third party administrator performs the functions of an in-
+surance producer, adjuster or insurance consultant.
+SECTION 3.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

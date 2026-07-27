@@ -1,0 +1,239 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2071
+Sponsored by Representative NOSSE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act gives certain rights about certain acts  related to blockchains. (Flesch Read-
+ability Score: 64.9).
+Prohibits state and  local governments from restricting certain activities related to blockchain
+protocols and digital assets.
+Prohibits state and local governments  from imposing charges on digital assets used as a method
+of payment.
+Exempts certain activities related to  blockchain protocols and digital assets from the Oregon
+Money Transmitters Act.
+A BILL FOR AN ACT
+Relating to blockchains; creating new provisions; and amending ORS 260.011 and 717.210.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The state government  and local governments may not restrict or other-
+wise impair the ability of a person to:
+(a) Accept digital assets as a method of payment for lawful goods and services;
+(b) Perform, participate in or receive a  peer-to-peer transaction via a blockchain network
+or digital asset network;
+(c) Maintain independent control of  digital assets using a self-hosted wallet or hardware
+wallet;
+(d) Develop software on a blockchain protocol or a layer two blockchain protocol;
+(e) Operate a node or series of nodes  for the purpose of connecting to a blockchain pro-
+tocol or a protocol built on top of a blockchain protocol; or
+(f) Exchange digital assets for other digital assets using a blockchain protocol or a  layer
+two blockchain protocol.
+(2)(a) The state government and local governments may not impose a tax,  withholding,
+assessment or other  charge on digital assets used as a method of payment if such charge is
+based solely on the use of the digital asset as the method of payment.
+(b) Nothing in this subsection prohibits the state government  or local governments from
+imposing a tax, withholding, assessment or other charge that would otherwise be imposed  if
+the transaction had taken place with United States dollars.
+(3) Nothing in this section requires  the state government or a local government to accept
+digital assets as a form of payment.
+(4) As used in this section:
+(a) “Blockchain” means data that is shared across a network:
+(A) To create a ledger of verified transactions or information among  network partic-
+ipants;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 808
+HB 2071
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) That uses cryptography to maintain the  integrity of the ledger and to execute other
+functions; and
+(C) That is distributed among network participants in an automated fashion to  concur-
+rently update network participants on the state of the ledger and any other functions.
+(b) “Blockchain  protocol” means any executable software deployed to a blockchain com-
+posed of source code that is publicly available and accessible, including a smart  contract or
+any network of smart contracts.
+(c) “Digital asset” means:
+(A) Virtual currency;
+(B) Cryptocurrency;
+(C) Natively electronic assets, including stablecoins and non-fungible tokens; and
+(D) Any other digital-only asset that confers economic,  proprietary or access rights or
+powers.
+(d) “Hardware wallet” means a physical device that is not continuously connected to  the
+Internet that allows an individual to secure and transfer digital assets and allows  the owner
+of the digital assets to retain independent control over the digital assets.
+(e) “Layer two blockchain protocol” means computer code that functions  in conjunction
+with an existing blockchain protocol and that may provide  extra functionality but records
+all final data on the existing blockchain protocol.
+(f) “Local government” has the meaning given that term in ORS 174.116.
+(g) “Node” means a computational device that:
+(A) Communicates with other devices or participants  on a blockchain to maintain con-
+sensus and integrity of that blockchain;
+(B) Creates and validates transaction blocks; or
+(C) Contains and updates a copy of a blockchain but does  not exercise discretion over
+transactions initiated by end users of the blockchain protocol.
+(h) “Peer-to-peer transaction” means the  direct exchange or movement of assets, ser-
+vices or information between two or more parties, accounts or entities that are not  reliant
+on a third party or intermediary for the transaction to be sent, processed or received.
+(i) “Self-hosted wallet” means  a digital interface that is used to secure and transfer dig-
+ital assets and that allows the owner of the digital assets to  retain independent control over
+the digital assets.
+(j) “Smart contract” means code on a blockchain that automatically executes actions  on
+the blockchain, contingent on specified conditions.
+(k) “Stablecoin” means a cryptocurrency whose value is pegged to that  of another cur-
+rency, commodity or financial instrument.
+(L) “State government” has the meaning given that term in ORS 174.111.
+SECTION 2.
+ ORS 717.210 is amended to read:
+717.210. (1) ORS 717.200 to 717.320, 717.900 and 717.905 do not apply to:
+(a) Any company that accepts deposits in this state and  that is insured under the Federal De-
+posit Insurance Act, 12 U.S.C. 1811 et seq., as amended.
+(b) Credit unions or trust companies.
+(c) The United States Government or any department, agency or instrumentality thereof.
+(d) The United States Postal Service.
+(e) Any state or political subdivision of a state.
+[2]
+HB 2071
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+(f) The provision or  electronic transfer of government benefits for any federal, state or county
+government or other agency as defined in the Federal Reserve Board Regulation E (12 C.F.R.  part
+205), by a contractor for and on behalf of the  United States Government or any department, agency
+or instrumentality of the United States, or any state or any political subdivision of a state.
+(g) The provision or handling of electronic or other transfer of  escrowed moneys by an escrow
+agent licensed under ORS 696.511 to the extent that the escrow agent is:
+(A) Closing an escrow, as defined in ORS 696.505;
+(B) Engaging in activity related to a collection escrow, as defined in ORS 696.505; or
+(C) Serving as a trustee of a trust deed in accordance with ORS 86.713.
+(h) Authorized delegates of a licensee, acting within the  scope of authority conferred by a
+written contract as described in ORS 717.270.
+(i) Any bank holding company as defined in the federal Bank Holding  Company Act of 1956, 12
+U.S.C. 1841 et seq., as amended, or any financial holding company as defined in ORS 706.008.
+(j) Any savings and loan holding company as defined in 12 U.S.C. 1467a (a)(1)(D), as amended.
+(k)(A) The operation of a node or series of nodes on a blockchain protocol;
+(B) The exchange of a digital asset for another digital asset; or
+(C) The development or use of software  on a blockchain protocol or layer two blockchain
+protocol, the purpose of which is to effectuate the exchange of a digital  asset for another
+digital asset.
+(2) The Director of the Department of Consumer and  Business Services by rule or order may
+modify or waive  the application of ORS 717.200 to 717.320, 717.900 and 717.905 to any person or
+group of persons if the director determines that  adequate regulation of the person or group of per-
+sons is provided by law or by another agency of this state.
+(3) The director by rule or order may temporarily suspend the application of ORS 717.200  to
+717.320, 717.900 and 717.905 to any person  or group of persons while the director considers whether
+an exemption should be granted  and during the pendency of any rulemaking proceeding proposing
+to create an exemption.
+(4) As used in  this section, “blockchain protocol,” “digital asset,” “layer two blockchain
+protocol” and “node” have the meanings given those terms in section 1 of this 2025 Act.
+SECTION 3.
+ ORS 260.011 is amended to read:
+260.011. (1) Notwithstanding section 1 of this 2025 Act,  a person may not make a contribution
+to a political candidate, a political committee or a petition committee using cryptocurrency.
+(2) As used in this section,  “cryptocurrency” means digital or virtual currency that relies on
+cryptography to effect transfers and a decentralized network to record transactions.
+[3]

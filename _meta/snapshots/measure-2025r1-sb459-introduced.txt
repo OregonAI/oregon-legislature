@@ -1,0 +1,128 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 459
+Sponsored by  Senator WEBER, Representative JAVADI; Representatives MCLAIN, OSBORNE, WRIGHT (Presession
+filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes it so that licensee members of the OBMP don’t need to be residents  of
+Oregon. (Flesch Readability Score: 71.0).
+Removes the requirement that a licensee member of the Oregon Board of  Maritime Pilots be a
+resident of this state.
+A BILL FOR AN ACT
+Relating to the Oregon Board of Maritime Pilots; amending ORS 776.105.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 776.105 is amended to read:
+776.105. (1) The Oregon Board of Maritime Pilots is established within the Public  Utility Com-
+mission of Oregon, and  shall consist of nine members appointed by the Governor for terms of four
+years. The  appointments of members of the board are subject to confirmation by the Senate in the
+manner prescribed in ORS 171.562 and 171.565.
+(2) Three members of the board shall  be public members, one of whom shall act as chairperson
+of the board. The public members of the board may not:
+(a) During the preceding five  years or during their terms of office, have any interest in the
+ownership, operation or management of any tugs, cargo  or passenger vessels or in the carriage of
+freight or passengers by vessel;
+(b) During the preceding five years or during their terms of office, have any interest in  any as-
+sociation or organization represented under subsection (4) of this section or principally  comprised
+of persons engaged in commercial pursuits in the maritime industry as described in paragraph (a)
+of this subsection in any capacity; or
+(c) Hold or have held a maritime pilot license issued by any state or federal authority.
+(3) Three members shall be licensees under this chapter. One member shall be a Columbia River
+bar licensee, one member shall be a Columbia River licensee and one member  shall be a Coos Bay
+or Yaquina Bay licensee. A licensee member shall:
+(a) Have been licensed for more than three years under this chapter;  and
+(b) Be actively engaged in piloting[ ; and ].
+[(c) Be a resident of this state. ]
+(4) Except as provided in subsection (5) of this section, three members of  the board shall, for
+at least three years immediately preceding their appointment, have been and during their terms of
+office be engaged in the  activities of a person, as defined in ORS 174.100, that operates or represents
+commercial oceangoing vessels.
+(5) The  Governor may appoint a past or present employee or commissioner of a port to serve
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 918
+SB 459
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+on the board in lieu of one of the  operators or representatives of a commercial oceangoing vessel
+under subsection (4) of this section.
+(6)(a) The majority of members shall constitute  a quorum for the transaction of all business if
+at least one member of each group, as described in subsections (2), (3) and (4) of this section,  is
+present.
+(b) Notwithstanding paragraph (a) of this  subsection, when the board fixes pilotage fees under
+ORS 776.115 (5) a quorum shall consist of seven members.
+(c) Notwithstanding paragraph (a) of this subsection, for purposes  of ORS 192.610 to 192.705 a
+quorum shall consist of five members.
+(7) The commission may appoint a member of the commission, or a designee, as a  nonvoting, ex
+officio member of the board.
+(8)(a) The commission is responsible  for the administrative oversight of the board. The respon-
+sibilities of the commission include, but are not limited to:
+(A) Budgeting;
+(B) Financial management;
+(C) Record keeping;
+(D) Staffing;
+(E) Purchasing and contracting;
+(F) Collecting fees; and
+(G) Compliance with rulemaking procedures set forth in ORS chapter 183.
+(b) In consultation with the board, the commission shall:
+(A) Fix the qualifications of and appoint an executive director and an administrative officer  for
+the board; and
+(B) Subject to the State Personnel Relations Law, fix the compensation of  the executive director
+and the administrative officer.
+[2]

@@ -1,0 +1,153 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3948
+Sponsored by Representative LEWIS, Senator BROADMAN,  Representative HELFRICH; Representatives BOICE,
+BOSHART DAVIS, BREESE-IVERSON, DIEHL, DRAZAN, EDWARDS, HARBICK,  LEVY B, OSBORNE,
+OWENS, RESCHKE, SCHARF, SKARLATOS, WRIGHT, YUNKER, Senator SMITH DB
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes it a worse crime to fly a drone over a correctional facility. The Act  says
+that the court can take away the drone upon conviction. (Flesch Readability Score: 74.7).
+Increases the penalty for operating an unmanned aircraft system  over a critical infrastructure
+facility that is a  correctional facility or youth correction facility. Makes the crime punishable by a
+maximum of five years’ imprisonment, $125,000 fine, or both. Provides that, upon conviction, the
+court shall order that the unmanned aircraft system be forfeited.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to unmanned aircraft systems; creating  new provisions; amending ORS 837.372; and pre-
+scribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 837.372 is amended to read:
+837.372. (1) As used in this section, “critical infrastructure facility” means  any of the following
+facilities, if completely enclosed by a fence or  other physical barrier that is obviously designed to
+exclude intruders, or if  marked with a sign conspicuously posted on the property that indicates that
+entry is forbidden:
+(a) A petroleum or alumina refinery;
+(b) An electrical power generating  facility, substation, switching station or electrical control
+center;
+(c) A chemical, polymer or rubber manufacturing facility;
+(d) A water  intake structure, water treatment facility, wastewater treatment plant or pump
+station;
+(e) A natural gas compressor station;
+(f) A liquid natural gas terminal or storage facility;
+(g) A telecommunications central switching office;
+(h) A port, railroad switching yard, trucking terminal or other freight transportation facility;
+(i) A gas processing plant, including a plant used in the processing, treatment or  fractionation
+of natural gas;
+(j) A transmission facility used by a federally licensed radio or television station;
+(k) A steelmaking facility that uses an electric arc furnace to make steel;
+(L) A dam that is classified as a high hazard by the Water Resources Department;
+(m) Any portion of an aboveground oil, gas or chemical pipeline that is  enclosed by a fence or
+other physical barrier that is obviously designed to exclude intruders; [ or]
+(n) A [ correctional facility or ] law enforcement facility[ .]; or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4796
+HB 3948
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+(o) A correctional facility or youth  correction facility, as that term is defined in ORS
+162.135.
+(2) Except as  provided in [ subsection (3) ] subsections (3) and (4)  of this section, a person com-
+mits a Class A violation if the person intentionally or knowingly:
+(a) Operates an unmanned aircraft system over a critical infrastructure facility at an  altitude
+not higher than 400 feet above ground level; or
+(b) Allows an unmanned aircraft system to make contact with a critical infrastructure facility,
+including any person or object on the premises of or within the facility.
+(3)(a) A person commits a Class C felony if the person intentionally or knowingly:
+(A) Operates an unmanned aircraft system over a critical infrastructure  facility that is
+a correctional facility or youth  correction facility at an altitude not higher than 400 feet
+above ground level; or
+(B) Allows an unmanned aircraft system to make  contact with a critical infrastructure
+facility that is a correctional  facility or youth correction facility, including any person or
+object on the premises of or within the facility.
+(b) In addition to and not in lieu of any other sentence the court  may impose, upon
+conviction under this subsection, the  court shall, at the time of sentencing, declare the un-
+manned aircraft system used in the offense to be contraband and order that the unmanned
+aircraft system be forfeited.
+[(3)] (4) This section does not apply to:
+(a) The federal government.
+(b) A public body.
+(c) A law enforcement agency.
+(d) A person under contract with or otherwise acting under the  direction or on behalf of the
+federal government, a public body or a law enforcement agency.
+(e) An owner or operator of the critical infrastructure facility.
+(f) A person who has the prior written consent of the owner or  operator of the critical
+infrastructure facility.
+(g) The  owner or occupant of the property on which the critical infrastructure facility is located.
+(h) A person who has the prior written consent of  the owner or occupant of the property on
+which the critical infrastructure facility is located.
+(i) A person operating an unmanned aircraft system for commercial purposes in  compliance with
+authorization granted by the Federal Aviation Administration.
+SECTION 2.
+The amendments to ORS 837.372 by section 1 of this 2025 Act  apply to con-
+duct occurring on or after the effective date of this 2025 Act.
+SECTION 3. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

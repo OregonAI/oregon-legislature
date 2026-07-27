@@ -1,0 +1,680 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2812
+title: 'HB 2812 (2025R1): Exempts individually identifiable health information in the possession of the
+  Psychiatric Security Review Board from disclosure under public records laws and allows for disclosure
+  in certain circumstances.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2812
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2812/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 22f53eea02d76bf258d5f1f712dce39053657cf0b8f231584daf014272685093
+snapshot_id: measure-2025r1-hb2812-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 131.007
+  - ORS 131.125
+  - ORS 161.315
+  - ORS 161.336
+  - ORS 161.346
+  - ORS 161.351
+  - ORS 161.365
+  - ORS 161.370
+  - ORS 161.390
+  - ORS 161.395
+  - ORS 164.055
+  - ORS 164.305
+  - ORS 166.210
+  - ORS 179.505
+  - ORS 192.311
+  - ORS 192.690
+  - ORS 40.230
+  - ORS 40.235
+  - ORS 40.240
+  - ORS 40.250
+  - ORS 419C.532
+  - ORS 419C.538
+  - ORS 419C.540
+  - ORS 419C.542
+  - ORS 426.005
+  - ORS 426.110
+  - ORS 426.701
+  - ORS 426.702
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2812
+prefix_meaning: House Bill
+catch_line: Exempts individually identifiable health information in the possession of the Psychiatric
+  Security Review Board from disclosure under public records laws and allows for disclosure in certain
+  circumstances.
+minority_catch_line: null
+measure_summary: "\tDigest: Exempts some client health info that the PSRB has from disclosure to the public\
+  \ but allows for its release in some situations. (Flesch Readability Score: 61.4). \n\tExempts individually\
+  \ identifiable health information in the possession of the Psychiatric Security Review Board from disclosure\
+  \ under public records laws and allows for disclosure in certain circumstances."
+relating_to: Relating to individually identifiable health information disclosure.
+relating_to_full: Relating to individually identifiable health information disclosure.
+at_the_request_of: (at the request of Governor Tina Kotek for Psychiatric Security Review Board)
+lc_number: 407
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-06-06T14:14:58'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 40267
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 131.007
+  - ORS 131.125
+  - ORS 161.315
+  - ORS 161.336
+  - ORS 161.346
+  - ORS 161.351
+  - ORS 161.365
+  - ORS 161.370
+  - ORS 161.390
+  - ORS 161.395
+  - ORS 164.055
+  - ORS 164.305
+  - ORS 166.210
+  - ORS 179.505
+  - ORS 192.311
+  - ORS 192.690
+  - ORS 40.230
+  - ORS 40.235
+  - ORS 40.240
+  - ORS 40.250
+  - ORS 419C.532
+  - ORS 419C.538
+  - ORS 419C.540
+  - ORS 419C.542
+  - ORS 426.005
+  - ORS 426.110
+  - ORS 426.701
+  - ORS 426.702
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2812`.
+
+# HB 2812 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2812, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for Psychiatric Security Review Board)
+- **LC number:** 407
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-06-06T14:14:58
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 40267 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2812/Enrolled>.
+
+## Summary
+
+**Catchline:** Exempts individually identifiable health information in the possession of the Psychiatric Security Review Board from disclosure under public records laws and allows for disclosure in certain circumstances.
+
+**Relating to:** Relating to individually identifiable health information disclosure.
+
+Digest: Exempts some client health info that the PSRB has from disclosure to the public but allows for its release in some situations. (Flesch Readability Score: 61.4). 
+ Exempts individually identifiable health information in the possession of the Psychiatric Security Review Board from disclosure under public records laws and allows for disclosure in certain circumstances.
+
+**RelatingToFull (verbatim upstream field):** Relating to individually identifiable health information disclosure.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 2812
+Introduced and printed pursuant to House  Rule 12.00. Presession filed (at the request of Governor
+Tina Kotek for Psychiatric Security Review Board)
+CHAPTER .................................................
+AN ACT
+Relating to individually identifiable health information  disclosure; creating new provisions; and
+amending ORS 161.336, 161.390, 419C.532 and 426.701.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. (1) As used in this section:
+(a) “Client” means an individual whom the Psychiatric Security  Review Board has or
+previously had jurisdiction over pursuant to ORS 161.315 to 161.351.
+(b) “Individually identifiable health information” has  the meaning given that term in ORS
+179.505.
+(c) “Personal  representative” means a person or entity who has the legal authority to
+make decisions for the client or  to communicate the client’s decisions to the board, including
+but not limited to a guardian, a parent of an unemancipated minor or the client’s attorney.
+(2) A client’s individually identifiable health information is exempt from disclosure under
+ORS 192.311 to 192.478 and  shall not be disclosed or used except as authorized or permitted
+by the board as follows:
+(a) To exercise, implement or discharge its statutory obligations;
+(b) To report to the National Instant  Criminal Background Check System the identity
+of a client who is prohibited from possessing a firearm under 18 U.S.C. 922(g)(4);
+(c) As required by judicial or administrative proceedings;
+(d) As required for law enforcement purposes;
+(e) In emergency circumstances; or
+(f) For specific purposes related to a deceased client.
+(3) The board shall adopt rules specifying the circumstances when individually identifiable
+health information can be used or disclosed pursuant to subsection (2) of this section.
+(4) An  individual requesting records under this section is subject to the provisions of ORS
+192.311 to 192.478, except that a client or  a client’s personal representative may not be denied
+access to the client’s individually identifiable health information due to nonpayment.
+(5) Individuals other than the client or the client’s personal  representative who are
+granted access under this section to the client’s  individually identifiable health information
+may not disclose  the contents of that information to any other individual except in accord-
+ance with the provisions of this section.
+SECTION 2.
+ ORS 161.336 is amended to read:
+Enrolled House Bill 2812 (HB 2812-INTRO) Page 1
+161.336. (1)(a) When a person  is conditionally released under ORS 161.315 to 161.351, the person
+is subject to those supervisory orders of the Psychiatric Security Review Board as are in the  best
+interests of justice, the protection of society and the welfare of the person.
+(b) An order of conditional release  entered by the board may designate any person or state,
+county or local agency capable of supervising the person upon release, subject  to the conditions
+described in the order of conditional release.
+(c) Prior to  the designation, the board shall notify the person or state, county or local agency
+to whom conditional release is contemplated and provide  the person or state, county or local agency
+an opportunity to be heard.
+(d) After receiving an order  entered under this section, the person or state, county or local
+agency designated in the order shall assume supervision of the  person in accordance with the con-
+ditions described in the order and any modifications of the conditions ordered by the board.
+(2) Conditions of  release contained in orders entered under this section may be modified from
+time to time and conditional releases may be terminated as provided in ORS 161.351.
+(3)(a) As  a condition of release, the person may be required to report to any state or local
+mental health facility for evaluation. Whenever medical, psychiatric  or psychological treatment is
+recommended, the order may  require the person, as a condition of release, to cooperate with and
+accept the treatment from the facility.
+(b) The facility to which the person has been referred for evaluation shall  perform the evalu-
+ation and  submit a written report of its findings to the board. If the facility finds that treatment of
+the person is appropriate, it shall include its recommendations for  treatment in the report to the
+board.
+(c) Whenever treatment is provided by the facility, it shall furnish reports  to the board on a
+regular basis concerning the progress of the person.
+(d) Copies of all reports submitted to the board pursuant to this section shall be furnished to
+the person and the person’s counsel. The confidentiality of  these reports is determined pursuant to
+ORS [ 192.338, 192.345 and 192.355.] 192.311 to 192.478 and section 1 of this 2025 Act.
+(e) The facility shall comply with the  conditional release order and any modifications of the
+conditions ordered by the board.
+(4)(a)(A) A written or electronic order for the return of a person on conditional  release to a
+state hospital or other facility designated by the supervising entity or, if the person  is under 18
+years of  age, to a secure intensive community inpatient facility or other facility designated by the
+supervising entity, may be issued by:
+(i) The supervising entity;
+(ii) A person designated by the supervising entity, if  the designation is made as part of a written
+policy; or
+(iii) The community mental health program director, if the person has absconded  from condi-
+tional release.
+(B) An order described in this paragraph may be issued when the supervising entity, the au-
+thorized designee or, if  the person has absconded, the community mental health program director,
+has determined that:
+(i) The person has violated the terms of conditional release; or
+(ii) The mental health of the person has  changed such that the supervising entity, or, if appli-
+cable, the authorized designee or the community mental health program director, reasonably  be-
+lieves that the person may no longer be fit for conditional release.
+(C) A written order under this paragraph is sufficient warrant for any law enforcement  officer
+to take into custody and transport the person named  in the order. A peace officer shall execute the
+order and the person shall be transported as described in paragraph (c) of this subsection.
+(b) A peace officer, the director  of the facility providing treatment to a person on conditional
+release or any person responsible for the supervision of a person  on conditional release may take
+a person on conditional release into custody, or request that the person be taken into custody,  if
+Enrolled House Bill 2812 (HB 2812-INTRO) Page 2
+there is reasonable cause to believe the person  is a substantial danger to others because of a mental
+disorder and that the person is in need of immediate care, custody or treatment.
+(c) When a person is taken  into custody by a peace officer under this subsection, the agency
+employing the peace officer  shall cause the person, as soon as practicable, to be transported to a
+state hospital or other facility designated by the supervising entity.  If the person was taken into
+custody pursuant to an order described in paragraph (a) of this subsection, the supervising  entity
+shall facilitate the reimbursement of  reasonable costs of the transport to the agency employing the
+peace officer.
+(d) Within 20 days following the return of the person to a state hospital  or secure intensive
+community inpatient  facility under this subsection, the board shall conduct a hearing. The board
+shall provide notice of the hearing to the person,  the attorney representing the person and the At-
+torney General. The state must prove by a preponderance  of the evidence the person’s unfitness for
+conditional release. The hearing shall be conducted in accordance with ORS 161.346.
+(e) As used in this subsection, “supervising entity”  means the board or the chairperson or
+executive director of the board.
+(5)(a) Any person conditionally released under this section may apply to the board for discharge
+from or  modification of an order of conditional release on the ground that the person is no longer
+affected by a qualifying mental disorder or,  if still so affected, no longer presents a substantial
+danger to others and no longer requires supervision, medication, care or treatment. Notice of the
+hearing on an application for  discharge or modification of an order of conditional release shall be
+made to the Attorney General. The applicant, at the  hearing pursuant to this subsection, must prove
+by a preponderance of the evidence the applicant’s fitness for discharge or modification of the  order
+of conditional release. Applications by  the person for discharge or modification of conditional re-
+lease may not be filed more often than once every six months.
+(b) Upon application by any  person or agency responsible for supervision or treatment pursuant
+to an order of  conditional release, the board shall conduct a hearing to determine if the conditions
+of release  shall be continued, modified or terminated. The application shall be accompanied by a
+report setting forth the facts supporting the application.
+(6) A person who has spent five  years on conditional release shall be brought before the board
+for hearing within 30 days before the expiration of the five-year period. The board shall review  the
+person’s status and  determine whether the person should be discharged from the jurisdiction of the
+board.
+SECTION 3.
+ ORS 161.390 is amended to read:
+161.390. (1) The Oregon  Health Authority shall adopt rules for the assignment of persons to
+state mental hospitals or secure intensive community inpatient facilities  after commitment under
+ORS 161.365 and 161.370 and for establishing standards for evaluation  and treatment of persons
+committed to a state hospital or a  secure intensive community inpatient facility or ordered to a
+community mental health program under ORS 161.315 to 161.351.
+(2) When the Psychiatric Security Review Board requires the preparation of a predischarge  or
+preconditional release plan before a hearing or as a condition of  granting discharge or conditional
+release for a person committed under ORS  161.315 to 161.351 to a state hospital or a secure inten-
+sive community inpatient facility  for custody, care and treatment, the authority is responsible for
+and shall prepare the plan.
+(3) In carrying out a conditional release plan prepared  under subsection (2) of this section, the
+authority may contract with a community mental health program, other public agency  or private
+corporation or an individual to provide supervision and treatment  for the conditionally released
+person.
+(4)(a) The board shall maintain  and keep current the medical, social and criminal history of all
+persons committed to its jurisdiction. The confidentiality  of records maintained by the board shall
+be determined pursuant to ORS [ 192.338, 192.345, 192.355 and 192.398.] 192.311 to 192.478 and sec-
+tion 1 of this 2025 Act.
+Enrolled House Bill 2812 (HB 2812-INTRO) Page 3
+(b) Except as otherwise provided by law, upon request of  the board, a state hospital, a commu-
+nity mental health program  and any other health care service provider shall provide the board with
+all medical records pertaining to a person committed to the jurisdiction of the board.
+(5) The evidentiary phase  of a hearing conducted by the board under ORS 161.315 to 161.351 is
+not a deliberation for purposes of ORS 192.690.
+SECTION 4.  ORS 419C.532 is amended to read:
+419C.532. (1) The juvenile panel of the Psychiatric Security Review Board shall conduct hearings
+on an application for discharge, conditional release, commitment or modification  filed under or re-
+quired by ORS 419C.538, 419C.540  and 419C.542, and shall make findings on the issues before the
+juvenile panel.
+(2) In every hearing before the juvenile panel, the juvenile panel shall determine whether the
+young person:
+(a) Has a serious mental condition; or
+(b) Has a qualifying mental disorder other than a serious mental condition  and presents a sub-
+stantial danger to others.
+(3) The juvenile panel shall order a young person discharged from commitment  or conditional
+release if the juvenile panel finds that the young person:
+(a) No longer has a qualifying mental disorder; or
+(b) Has a qualifying mental disorder other than a serious mental condition but no longer  pre-
+sents a substantial danger to others.
+(4) The juvenile panel  shall order a young person conditionally released subject to ORS 419C.538
+if the juvenile panel finds that:
+(a) The young person:
+(A) Has a serious mental condition; or
+(B) Has a qualifying mental disorder other than a serious  mental condition and presents a sub-
+stantial danger to others;
+(b) The young person can be adequately controlled with treatment services as a condition  of
+release; and
+(c) Necessary supervision and treatment services are available.
+(5) The juvenile panel shall order  a young person committed to, or retained in, a hospital or
+facility designated by the Department of  Human Services or the Oregon Health Authority for cus-
+tody, supervision and treatment  subject to ORS 419C.540 if the juvenile panel finds that the young
+person:
+(a)(A) Has a serious mental condition; or
+(B) Has a qualifying mental disorder other  than a serious mental condition and presents a sub-
+stantial danger to others; and
+(b) Cannot be adequately controlled if conditionally released.
+(6) In determining whether a young person should be committed to  or retained in a hospital or
+facility, conditionally released  or discharged, the primary concern of the juvenile panel is the pro-
+tection of society.
+(7) In a hearing before the juvenile panel, a young person who  has a qualifying mental disorder
+in a state of remission  is considered to have a qualifying mental disorder if the qualifying mental
+disorder may, with reasonable medical probability, occasionally become active.
+(8) At any  time, the juvenile panel may appoint a psychiatrist certified, or eligible to be certi-
+fied, by the Oregon Medical Board in child psychiatry or a licensed psychologist with expertise in
+child psychology to examine the young person and submit a  written report to the juvenile panel.
+Reports filed with the juvenile panel pursuant to the examination must  include, but need not be
+limited to, an opinion as to whether the young person:
+(a)(A) Has a serious mental condition; or
+(B) Has a qualifying mental disorder other  than a serious mental condition and presents a sub-
+stantial danger to others; and
+(b) Could be adequately controlled with treatment services as a condition of release.
+Enrolled House Bill 2812 (HB 2812-INTRO) Page 4
+(9) The juvenile panel may make a determination regarding discharge or  conditional release
+based upon the written report submitted under subsection (8) of this section or ORS 419C.540 (3).
+If a member of the juvenile panel desires further information from  the examining psychiatrist or li-
+censed psychologist who submitted the  report, the juvenile panel shall summon the psychiatrist or
+psychologist to give testimony.
+(10) The juvenile panel shall consider all available evidence that is  material, relevant and reli-
+able regarding the issues before the juvenile panel. Evidence may include, but is not  limited to, the
+record  of  the juvenile court adjudication, information supplied by the attorney representing the state
+or by any other interested  person, including the young person, information concerning the young
+person’s mental condition and the entire  psychiatric and juvenile court history of the young person.
+All evidence of a type commonly relied upon by reasonably prudent persons in the conduct of  their
+serious affairs is admissible at the hearings. Testimony must  be taken upon oath or affirmation of
+the witness from whom received. The officer presiding at the hearing shall  administer oaths and
+affirmations to witnesses.
+(11) The standard of proof on all issues at a hearing of the juvenile panel is by a preponderance
+of the evidence.
+(12)(a) The juvenile panel shall furnish written  notice of any hearing pending under this section
+within a reasonable time prior to the hearing to:
+(A) The young person about whom the hearing is being conducted;
+(B) The attorney representing the young person;
+(C) The young person’s parents or guardians, if known;
+(D) The person having legal custody of the young person;
+(E) The Attorney General or other attorney representing the state, if any; and
+(F) The district attorney of the county in which the young person was adjudicated.
+(b) The juvenile panel shall include in the notice required by paragraph (a) of this subsection:
+(A) The time, place and location of the hearing;
+(B) The nature of the hearing, the  specific action for which the hearing has been requested, the
+issues to be considered at the  hearing and a reference to the particular sections of the statutes and
+rules involved;
+(C) A statement of the authority and jurisdiction under which the hearing is to be held; and
+(D) A statement of all rights under subsection (13) of this section.
+(13) A young person about whom a hearing is being held has the right:
+(a) To appear at all proceedings held under this section, except juvenile panel deliberations.
+(b) To cross-examine all witnesses appearing to testify at the hearing.
+(c) To subpoena witnesses and documents as provided in ORS 161.395.
+(d) To be represented  by suitable legal counsel possessing skills and experience commensurate
+with the nature and  complexity of the case, to consult with counsel prior to the hearing and, if fi-
+nancially eligible, to have suitable counsel appointed at state expense.
+(e) To examine all information, documents and reports that  the juvenile panel considers and, if
+the information, documents and reports are  available to the juvenile panel before the hearing, to
+examine them prior to the hearing.
+(14) Except for deliberations of the juvenile  panel, the juvenile panel shall keep a record of all
+hearings before the juvenile panel.
+(15) Upon request of a person listed in subsection (12)(a) of this section  or on its own motion,
+the juvenile panel may continue a hearing for a reasonable period not to  exceed 60 days to obtain
+additional information or testimony or for other good cause shown.
+(16) Within 30 days after the conclusion of the hearing, the  juvenile panel shall provide written
+notice of the juvenile panel’s  decision to the young person, the attorney representing the young
+person, the young person’s parents or guardians, if known, the  person having legal custody of the
+young person, the district attorney of the county in which the young person was adjudicated  and
+the Attorney General or other attorney representing the state, if any.
+Enrolled House Bill 2812 (HB 2812-INTRO) Page 5
+(17) The  juvenile panel shall maintain and keep current the medical, social and delinquency
+history of all young persons.  The juvenile panel shall determine the confidentiality of records
+maintained by the juvenile panel pursuant to ORS [ 192.338, 192.345 and 192.355.] 192.311 to 192.478
+and section 1 of this 2025 Act.
+SECTION 5.  ORS 426.701 is amended to read:
+426.701. (1) For the purposes of this section and ORS 426.702:
+(a) A person is “extremely dangerous” if the person:
+(A) Is at least 18 years of age;
+(B) Is exhibiting symptoms or behaviors  of a qualifying mental disorder substantially similar to
+those that preceded the act described in subsection (3)(a)(C) of this section; and
+(C) Because of a qualifying mental disorder:
+(i) Presents a serious danger to the safety  of other persons by reason of an extreme risk that
+the person will inflict grave or potentially lethal physical injury on other persons; and
+(ii) Unless committed,  will continue to represent an extreme risk to the safety of other persons
+in the foreseeable future.
+(b) “Qualifying mental disorder” does not include:
+(A) A disorder manifested solely by repeated criminal or otherwise antisocial conduct; or
+(B) A disorder constituting solely a personality disorder.
+(c) A  qualifying mental disorder is “resistant to treatment” if, after receiving care from a li-
+censed psychiatrist and exhausting all reasonable psychiatric treatment, or after  refusing psychiat-
+ric treatment,  the person continues to be significantly impaired in the person’s ability to make
+competent decisions and to be aware of and control extremely dangerous behavior.
+(2)(a) A  district attorney may petition the court to initiate commitment proceedings described
+in this section if there is reason to believe a person is an  extremely dangerous person with mental
+illness. Venue is  proper in the county in which the person is alleged to have committed the quali-
+fying act or the county in which the person lives. The petition shall immediately be served  upon the
+person.
+(b) If a person  is committed to a state hospital under ORS 161.365 or 161.370 and the state
+hospital intends to discharge the person, the district attorney may provide notice  to the super-
+intendent of the state hospital indicating an intent to file a petition  under this section. Upon receipt
+of the notice, the superintendent may delay discharge of the person for  up to seven judicial days to
+allow for the petition to be filed  and for the court to make findings under paragraph (f) of this
+subsection.
+(c) The person shall be advised in writing of:
+(A) The allegation that the person is an extremely dangerous person with mental illness  and
+may be committed to the jurisdiction of the Psychiatric Security Review Board for a maximum pe-
+riod of 24 months; and
+(B) The right to a hearing to  determine whether the person is an extremely dangerous person
+with mental illness, unless the person consents to the commitment by waiving the right  to a hearing
+in writing after consultation with legal counsel.
+(d) A person against whom a petition described in this subsection is filed shall have  the fol-
+lowing:
+(A) The  right to obtain suitable legal counsel possessing skills and experience commensurate
+with the nature of the allegations and complexity of the case and, if the person is without funds  to
+retain legal counsel, the right to have the court appoint legal counsel;
+(B) The right to subpoena  witnesses and to offer evidence on behalf of the person at the hearing;
+(C) The right to cross-examine any witnesses who appear at the hearing; and
+(D) The right to examine all reports, documents  and information that the court considers, in-
+cluding the right to examine the reports, documents and information prior to the  hearing, if avail-
+able.
+(e) Upon receipt of the petition, the court shall schedule a hearing and shall  appoint an exam-
+iner as described in ORS 426.110 to evaluate the  person. If the person is in custody or committed
+Enrolled House Bill 2812 (HB 2812-INTRO) Page 6
+while the hearing is pending, the hearing must commence within 30 days  of filing the petition unless
+good cause is found by the court. If the court finds good cause, the hearing  must commence no later
+than 60  days after the filing of the petition or, if the district attorney provided notice under para-
+graph (b) of this subsection, the date of the notice, whichever occurs first. As used in this paragraph,
+“good cause” means:
+(A) The person who would be considered the victim of the  act described in subsection (3)(a)(C)
+of this section if the act were criminally prosecuted, or an essential witness  for either the state or
+the person, is unable to testify within the 30-day period.
+(B) The attorney for the person cannot  reasonably be expected to participate in the hearing
+within the 30-day period, cannot be adequately prepared to represent the  person at the hearing
+within the  30-day period, or has a schedule conflict that cannot be resolved in a manner that allows
+the attorney to represent the person at a hearing within the 30-day period.
+(C) An examiner cannot be appointed to  conduct the examination, or conduct the examination
+and prepare a report, within the 30-day period.
+(D) If a guardian ad litem is appointed on the case, the  guardian ad litem cannot be prepared
+for a hearing within the 30-day period.
+(f)(A) The court may order that the person  be committed to the custody of the superintendent
+of a state hospital or the director of a secure mental health facility while the petition is pending if
+the court finds probable cause that:
+(i) The person is at least 18 years of age;
+(ii) The person has a qualifying mental disorder that is resistant to treatment;
+(iii) The person committed an act described in subsection (3)(a)(C) of this section; and
+(iv) Failure to commit the person while the hearing  is pending would pose serious harm or
+danger to the person or others.
+(B) If a person committed under this paragraph is held in a secure facility  other than a state
+hospital or secure mental  health facility, including but not limited to a jail or prison, at the time
+the petition is filed, the court may further order that the person remain at that placement for  suf-
+ficient time to  allow the superintendent or director to safely admit the person. Any order of the
+court concerning the placement of a person  under this subparagraph must be in accordance with the
+person’s constitutional right to due process. If the person remains in a secure  facility under this
+subparagraph, the superintendent, director or designee may consult with the  facility to ensure con-
+tinuity of care for the person.
+(C) Commitment to the custody of the superintendent of a state hospital or the  director of a
+secure mental health facility under this paragraph may not exceed 60 days. If the  hearing does not
+occur within 60 days, if the district attorney dismisses the petition, or if the court  holds the hearing
+but does not commit the person, the person shall be returned to the county in  which the petition
+was filed and  the court shall hold a disposition hearing within five judicial days to determine how
+to proceed on the petition and any outstanding criminal charges. A person who is returned to a
+secure facility other than a state hospital  or secure mental health facility, including but not limited
+to a jail or prison, under this paragraph may remain at the  placement until the disposition hearing.
+(g) If the  hearing is not commenced within the time period required by paragraph (e) of this
+subsection, the court shall either dismiss  the petition or release the person on personal recogni-
+zance, to the custody of a third party or upon any  additional reasonable terms and conditions the
+court deems appropriate.
+(3)(a) At the hearing on the petition,  the court shall order the person committed as an extremely
+dangerous person with mental illness under the jurisdiction  of the Psychiatric Security Review
+Board for a maximum of 24 months if the court finds, by clear and convincing evidence, that:
+(A) The person is extremely dangerous;
+(B) The person suffers from a qualifying mental disorder that is resistant to treatment; and
+(C) Because of the qualifying mental disorder that is resistant to treatment,  the person com-
+mitted one of the following acts:
+(i) Caused the death of another person;
+Enrolled House Bill 2812 (HB 2812-INTRO) Page 7
+(ii) Caused serious physical injury to another person by means of a dangerous weapon;
+(iii) Caused physical injury to another person by means of  a firearm as defined in ORS 166.210
+or an explosive as defined in ORS 164.055;
+(iv) Engaged in oral-genital contact with a child under 14 years of age;
+(v) Forcibly compelled sexual  intercourse, oral-genital contact or the penetration of another
+person’s anus or vagina; or
+(vi) Caused a fire or explosion that damaged the protected property of  another, as those terms
+are defined in ORS 164.305, or placed another person in danger  of physical injury, and the fire or
+explosion was not the incidental result of normal and usual daily activities.
+(b) The court shall further commit the person  to a state hospital for custody, care and treatment
+if the court finds, by clear and convincing evidence, that the person cannot be controlled in the
+community with proper care, medication, supervision and treatment on conditional release.
+(c) The court shall specify in the order whether any person who would be considered a victim
+as defined in ORS 131.007 of the act described in paragraph (a)(C) of this subsection, if the act had
+been criminally prosecuted, requests notification  of any order or hearing, conditional release, dis-
+charge or escape of the person committed under this section.
+(d) The court shall be fully advised of all drugs and other treatment known  to have been ad-
+ministered to the alleged extremely dangerous person with mental illness that may substantially af-
+fect the ability of the person to prepare for, or to function effectively at, the hearing.
+(e) The provisions of ORS 40.230, 40.235, 40.240, 40.250 and 179.505  do not apply to the use of
+the examiner’s report and the court may consider the report as evidence.
+(4) The findings of the court that a person committed an  act described in subsection (3)(a)(C)
+of this section may not be admitted in a criminal prosecution.
+(5)(a) If the court commits a person under this section and the person has  pending criminal
+charges at the time of the hearing, the court shall dismiss the criminal charges without  prejudice,
+and if the person is further committed to a state hospital under this  section, the dismissal shall not
+take effect until the person’s transportation to the state hospital.
+(b) If the court commits a person to the state hospital under this section and:
+(A) The person is in a setting other than  a state hospital, the court may additionally order that
+the person  remain in that placement until the person can be safely transported to a state hospital
+pursuant to the order. Any order of the court concerning the placement of  the person under this
+subparagraph must be in accordance with the person’s constitutional right to due process.
+(B) The person is at a state hospital at the time of the hearing, the person may remain at  the
+state hospital under the commitment.
+(c) A person committed under this section shall remain under the jurisdiction of  the board for
+a maximum of 24 months unless the board conducts a hearing and makes the findings  described in
+subsection (6)(d) of this section.
+(6)(a) The board shall hold  a hearing six months after the initial commitment described in sub-
+section (3) of this  section, and thereafter six months after a further commitment described in ORS
+426.702, to determine the placement of the person  and whether the person is eligible for conditional
+release or early discharge. The board shall provide written notice of the hearing to the person, the
+person’s legal  counsel and the office of the district attorney who filed the initial petition under
+subsection (2) of this section within a reasonable time prior to the hearing. The board  shall further
+notify the person of the following:
+(A) The nature of the hearing and possible outcomes;
+(B) The right to appear at the hearing and present evidence;
+(C) The  right to be represented by legal counsel and, if the person is without funds to retain
+legal counsel, the right to have the court appoint legal counsel;
+(D) The right to subpoena witnesses;
+(E) The right to cross-examine witnesses who appear at the hearing; and
+Enrolled House Bill 2812 (HB 2812-INTRO) Page 8
+(F) The right to examine all reports, documents and  information that the board considers, in-
+cluding the right to examine the reports, documents and information prior to  the hearing if avail-
+able.
+(b) If the board  determines at the hearing that the person still suffers from a qualifying mental
+disorder that is resistant to treatment and continues to be  extremely dangerous, and that the person
+cannot  be  controlled in the community with proper care, medication, supervision and treatment if
+conditionally released, the person shall remain committed to a state hospital.
+(c) If the board determines  at the hearing that the person still suffers from a qualifying mental
+disorder that is resistant to  treatment and continues to be extremely dangerous, but finds that the
+person can be controlled in the community with proper care,  medication, supervision and treatment
+if conditionally released, the board shall conditionally release the person.
+(d) If the board determines at the hearing that the person no longer suffers from  a qualifying
+mental disorder that is resistant to treatment or  is no longer extremely dangerous, the board shall
+discharge the person. The discharge of a person  committed under this section does not preclude
+commitment of the person pursuant to ORS 426.005 to 426.390.
+(7)(a) At any time during the commitment to  a state hospital, the superintendent of the state
+hospital may request a hearing to determine the status of the person’s commitment under the juris-
+diction of the board. The request shall be accompanied by a  report setting forth the facts supporting
+the request. If the request is for conditional release, the request shall  be accompanied by a verified
+conditional  release  plan. The hearing shall be conducted as described in subsection (6) of this sec-
+tion.
+(b) The  board may make the findings described in subsection (6)(c) of this section and condi-
+tionally release the person without  a hearing if the office of the district attorney who filed the ini-
+tial petition under subsection (2) of this section does not object to the conditional release.
+(c) At any time during  conditional release, a state or local mental health facility providing
+treatment to the person may request  a hearing to determine the status of the person’s commitment
+under the jurisdiction  of the board. The hearing shall be conducted as described in subsection (6)
+of this section.
+(8)(a) If the board  orders the conditional release of a person under subsection (6)(c) of this sec-
+tion, the board shall order conditions of release that may include a requirement  to report to any
+state or  local mental health facility for evaluation. The board may further require cooperation with,
+and acceptance of,  psychiatric or psychological treatment from the facility. Conditions of release
+may be modified by the board from time to time.
+(b) When a person is referred to a state or local mental health  facility for an evaluation under
+this subsection, the facility shall  perform the evaluation and submit a written report of its findings
+to the board. If  the facility finds that treatment of the person is appropriate, the facility shall in-
+clude its recommendations for treatment in the report to the board.
+(c) Whenever treatment is  provided to the person by a state or local mental health facility under
+this subsection, the facility shall furnish reports to the board  on a regular basis concerning the
+progress of the person.
+(d) Copies of all reports submitted  to the board pursuant to this subsection shall be furnished
+to the person and to the person’s legal counsel, if applicable. The confidentiality of  these reports is
+determined pursuant to ORS [ 192.338, 192.345 and 192.355.] 192.311 to 192.478 and section 1  of this
+2025 Act.
+(e) The state or local mental health facility providing treatment to the  person under this sub-
+section shall comply  with the conditional release order and any modifications of the conditions or-
+dered by the board.
+(9)(a) If at any  time while the person is conditionally released it appears that the person has
+violated the terms of the conditional release, the board may order the person returned to a  state
+hospital for  evaluation or treatment. A written order of the board is sufficient warrant for any law
+enforcement officer to take the person into custody. A sheriff, municipal police officer, parole or
+Enrolled House Bill 2812 (HB 2812-INTRO) Page 9
+probation officer or other peace officer shall execute the order, and  the person shall be returned to
+the state hospital as soon as practicable.
+(b) The director of a state or local mental  health facility providing treatment to a person under
+subsection (8) of this  section may request that the board issue a written order for a person on
+conditional release to be  taken into custody if there is reason to believe that the person can no
+longer be controlled in the community with proper care, medication, supervision and treatment.
+(c) Within 30 days following the return of the person to  a state hospital, the board shall conduct
+a hearing to determine  if, by a preponderance of the evidence, the person is no longer fit for con-
+ditional release. The board  shall provide written notice of the hearing to the person, the person’s
+legal counsel and the office of the district attorney who filed  the initial petition under subsection
+(2) of this section within a reasonable time prior to the hearing. The notice shall advise the  person
+of the nature of the hearing, the right to  have the court appoint legal counsel and the right to
+subpoena witnesses, examine documents considered by  the board and cross-examine all witnesses
+who appear at the hearing.
+(10)(a) If the person had unadjudicated criminal charges at the time of the filing of the petition
+for the person’s  initial commitment under this section and the state hospital or the state or local
+mental health facility providing treatment to the person  intends to recommend discharge of the
+person at an upcoming hearing, the superintendent of the state hospital or the director of the  fa-
+cility shall provide written notice  to the board and the district attorney of the county where the
+criminal charges were  initiated of the discharge recommendation at least 45 days before the hearing.
+The notice shall be accompanied by a report describing  the person’s diagnosis and the treatment the
+person has received.
+(b) Upon receiving the notice described in this subsection, the district attorney may request an
+order from the court in the county where the criminal charges were initiated for an evaluation  to
+determine if the person is fit to proceed in  the criminal proceeding. The court may order the state
+hospital or the state or local mental health facility providing treatment  to the person to perform the
+evaluation. The hospital or facility shall provide copies of the evaluation to  the district attorney,
+the person and the person’s legal counsel, if applicable.
+(c) The person  committed under this section may not waive an evaluation ordered by the court
+to determine if the person  is fit to proceed with the criminal proceeding as described in this sub-
+section.
+(11) The board shall make  reasonable efforts to notify any person described in subsection (3)(c)
+of this section of any order or hearing, conditional release,  discharge or escape of the person com-
+mitted under this section.
+(12) Unless the court orders otherwise or either party objects, any party  or witness may attend
+a hearing held under this section via simultaneous electronic transmission.
+(13) The board shall adopt rules to carry out the provisions of this section and ORS 426.702.
+(14) Any time limitation described in ORS 131.125 to 131.155 does  not run during a commitment
+described in this section or a further commitment described in ORS 426.702.
+Enrolled House Bill 2812 (HB 2812-INTRO) Page 10
+Passed by House March 27, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate May 1, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 2812 (HB 2812-INTRO) Page 11
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 131.007, ORS 131.125, ORS 161.315, ORS 161.336, ORS 161.346, ORS 161.351, ORS 161.365, ORS 161.370, ORS 161.390, ORS 161.395, ORS 164.055, ORS 164.305, ORS 166.210, ORS 179.505, ORS 192.311, ORS 192.690, ORS 40.230, ORS 40.235, ORS 40.240, ORS 40.250, ORS 419C.532, ORS 419C.538, ORS 419C.540, ORS 419C.542, ORS 426.005, ORS 426.110, ORS 426.701, ORS 426.702
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `22f53eea02d76bf258d5f1f712dce39053657cf0b8f231584daf014272685093` (snapshot `_meta/snapshots/measure-2025r1-hb2812-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2812/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `daba033ddf55dc0cd677a9de2d5ab3d8763d1eb77b7186a008f77a453b1033ad` (snapshot `_meta/snapshots/measure-2025r1-hb2812-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2812/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2812` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

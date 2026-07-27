@@ -1,0 +1,131 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3926
+Sponsored by Representative EDWARDS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act directs DSP to create a way for families to exchange messages  with their
+missing family members.  The Act would not force contact among family members. (Flesch Readabil-
+ity Score: 61.5).
+Directs the Department of State Police to create  the SIGNAL program (State Initiated Guidance
+for Notifying and Assisting the Lost). Provides a  way for a parent or former guardian of a missing
+person between 18 years of age and 30 years of age to exchange messages with  the missing family
+member. Requires the department to destroy all information and  materials received under the pro-
+gram within specified time limits.
+A BILL FOR AN ACT
+Relating to missing persons.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS  181A.010 to
+181A.350.
+SECTION 2. (1) As used in this section, “missing family member” means  a person be-
+tween 18 years of age and 30 years of age who has been reported as missing and entered into
+state and federal missing persons records by a law enforcement agency under ORS 146.181.
+(2) The Department of State  Police shall establish the State Initiated Guidance for Noti-
+fying and Assisting the Lost program to allow for the Oregon State Police, county sheriffs
+and participating  municipal police departments to exchange messages between a missing
+family member and the parent  or former guardian of the missing family member. The de-
+partment shall:
+(a) On any missing persons website maintained by the department, maintain a link  that
+enables a parent or former guardian to submit, by means of written text  or voice recording,
+a message addressed to the missing family member of the parent or former guardian.
+(b) Attach a message submitted under this subsection to the corresponding  missing per-
+sons report  maintained by the department so that the message can be accessed by the re-
+cipient as described in this subsection.
+(c) Create a personal  identification number that is accessible by the Oregon State Police,
+county sheriffs  and participating municipal police departments for each message submitted
+under this subsection  that may be provided to and used by a missing family member to
+securely access the message from the missing family member’s parent or  former guardian
+by means of the telephone line maintained under paragraph (d) of this subsection.
+(d) Maintain an automated telephone line that receives calls from  missing family mem-
+bers and securely  disseminates to missing family members messages submitted under this
+subsection, whether in the form of a voice recording or written text that has been converted
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4744
+HB 3926
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+into a synthesized voice message. A  missing family member who accesses a message under
+this section may record a response on the telephone  line, and the department shall transmit
+the response to the parent or former guardian of the missing family member.
+(3) A police officer of a  participating municipal police department, a member of the state
+police, a sheriff or a deputy sheriff  who finds a missing family member shall notify the
+missing family member of any message for the missing family  member submitted under
+subsection (2)(a) of this section, and shall provide the telephone  number and personal iden-
+tification number of each message created pursuant to subsection (2)(c) and (d) of  this sec-
+tion.
+(4) Notwithstanding the requirements set forth in ORS 146.189 regarding the  destruction
+of information and materials related to a missing person when the  missing person is dis-
+covered to be living, the department shall  retain messages submitted under subsection (2)(a)
+of this section for at  least 180 days after a missing family member receives the telephone
+number and personal identification number necessary to access a message from the missing
+family member’s parent or former guardian. Not later than one year after  a missing family
+member receives the information  necessary to access a message submitted under subsection
+(2)(a) of this section, or, if the missing family member  records a response, not later than one
+year after the response is recorded and transmitted to the parent or  former guardian of the
+missing family member, the department shall destroy all information and  materials received
+under this section.
+(5) Municipal police departments may participate in the program described  in this sec-
+tion.
+(6)(a) The department  and each sheriff’s office and participating municipal police de-
+partment shall adopt written policies to implement  the requirements of this section, includ-
+ing standards for maintaining and clearing computer data of missing persons information
+collected under this section and stored by law enforcement agencies.
+(b) The department may adopt rules to carry out the provisions of this section.
+[2]

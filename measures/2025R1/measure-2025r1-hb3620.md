@@ -1,0 +1,1556 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3620
+title: 'HB 3620 (2025R1): Repeals the public purpose charge and public purpose expenditure standard for
+  electric companies and Oregon Community Power.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3620
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3620/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 662b8339a9da6aff61d1f87c5d7bf4102616dbbab13ae71a4464a683189150c7
+snapshot_id: measure-2025r1-hb3620-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.116
+  - ORS 174.117
+  - ORS 183.413
+  - ORS 200.005
+  - ORS 205.130
+  - ORS 244.020
+  - ORS 244.060
+  - ORS 279C.860
+  - ORS 284.754
+  - ORS 297.300
+  - ORS 297.405
+  - ORS 307.872
+  - ORS 314.610
+  - ORS 317.010
+  - ORS 317A.100
+  - ORS 317A.102
+  - ORS 317A.103
+  - ORS 317A.106
+  - ORS 317A.119
+  - ORS 317A.128
+  - ORS 319.010
+  - ORS 319.530
+  - ORS 320.305
+  - ORS 320.400
+  - ORS 320.415
+  - ORS 328.210
+  - ORS 403.200
+  - ORS 409.801
+  - ORS 414.025
+  - ORS 414.855
+  - ORS 414.880
+  - ORS 431A.430
+  - ORS 443.305
+  - ORS 443.400
+  - ORS 456.587
+  - ORS 458.395
+  - ORS 458.505
+  - ORS 469.040
+  - ORS 469.421
+  - ORS 469.631
+  - ORS 469A.005
+  - ORS 469A.052
+  - ORS 469A.130
+  - ORS 469A.180
+  - ORS 469A.200
+  - ORS 469A.400
+  - ORS 469B.100
+  - ORS 469B.460
+  - ORS 469B.466
+  - ORS 469B.480
+  - ORS 470.050
+  - ORS 470.070
+  - ORS 470.130
+  - ORS 470.300
+  - ORS 470.500
+  - ORS 470.510
+  - ORS 470.515
+  - ORS 470.530
+  - ORS 470.535
+  - ORS 470.540
+  - ORS 470.550
+  - ORS 470.555
+  - ORS 470.560
+  - ORS 470.570
+  - ORS 470.575
+  - ORS 470.580
+  - ORS 470.585
+  - ORS 470.700
+  - ORS 470.810
+  - ORS 470.815
+  - ORS 471.001
+  - ORS 471.023
+  - ORS 471.750
+  - ORS 475C.005
+  - ORS 475C.009
+  - ORS 475C.453
+  - ORS 475C.670
+  - ORS 62.803
+  - ORS 701.119
+  - ORS 731.142
+  - ORS 731.574
+  - ORS 731.824
+  - ORS 731.828
+  - ORS 731.854
+  - ORS 731.859
+  - ORS 735.465
+  - ORS 756.060
+  - ORS 756.310
+  - ORS 757.035
+  - ORS 757.053
+  - ORS 757.054
+  - ORS 757.247
+  - ORS 757.310
+  - ORS 757.365
+  - ORS 757.600
+  - ORS 757.603
+  - ORS 757.612
+  - ORS 757.617
+  - ORS 757.627
+  - ORS 757.642
+  - ORS 757.646
+  - ORS 757.649
+  - ORS 757.659
+  - ORS 757.698
+  - ORS 757.736
+  - ORS 757.746
+  - ORS 757.747
+  - ORS 757.812
+  - ORS 757.872
+  - ORS 758.400
+  - ORS 759.425
+  - ORS 759.430
+  - ORS 801.360
+  - ORS 822.020
+  - ORS 90.320
+  - ORS 90.355
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3620
+prefix_meaning: House Bill
+catch_line: Repeals the public purpose charge and public purpose expenditure standard for electric companies
+  and Oregon Community Power.
+minority_catch_line: null
+measure_summary: "\tDigest: Repeals the public purpose charge. (Flesch Readability Score: 66.4). \n\t\
+  Repeals the public purpose charge and public purpose expenditure standard for electric companies and\
+  \ Oregon Community Power. \n\tRepeals the Housing and Community Services Department Electricity Public\
+  \ Purpose Charge Fund."
+relating_to: Relating to the public purpose charge.
+relating_to_full: Relating to the public purpose charge; creating new provisions; amending ORS 297.300,
+  317A.100, 456.587, 458.395, 469A.200, 469B.460, 469B.480, 470.050, 470.510, 470.515, 470.530, 470.550,
+  470.555, 470.560, 470.815, 757.053, 757.247, 757.365, 757.617, 757.649, 757.659, 757.698, 757.746, 757.747
+  and 757.872 and section 3, chapter 547, Oregon Laws 2021; and repealing ORS 757.612.
+at_the_request_of: null
+lc_number: 3950
+measure_created_date: '2025-02-16T13:48:00'
+measure_modified_date: '2025-02-20T11:02:00'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 94066
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.116
+  - ORS 174.117
+  - ORS 183.413
+  - ORS 200.005
+  - ORS 205.130
+  - ORS 244.020
+  - ORS 244.060
+  - ORS 279C.860
+  - ORS 284.754
+  - ORS 297.300
+  - ORS 297.405
+  - ORS 307.872
+  - ORS 314.610
+  - ORS 317.010
+  - ORS 317A.100
+  - ORS 317A.102
+  - ORS 317A.103
+  - ORS 317A.106
+  - ORS 317A.119
+  - ORS 317A.128
+  - ORS 319.010
+  - ORS 319.530
+  - ORS 320.305
+  - ORS 320.400
+  - ORS 320.415
+  - ORS 328.210
+  - ORS 403.200
+  - ORS 409.801
+  - ORS 414.025
+  - ORS 414.855
+  - ORS 414.880
+  - ORS 431A.430
+  - ORS 443.305
+  - ORS 443.400
+  - ORS 456.587
+  - ORS 458.395
+  - ORS 458.505
+  - ORS 469.040
+  - ORS 469.421
+  - ORS 469.631
+  - ORS 469A.005
+  - ORS 469A.052
+  - ORS 469A.130
+  - ORS 469A.180
+  - ORS 469A.200
+  - ORS 469A.400
+  - ORS 469B.100
+  - ORS 469B.460
+  - ORS 469B.466
+  - ORS 469B.480
+  - ORS 470.050
+  - ORS 470.070
+  - ORS 470.130
+  - ORS 470.300
+  - ORS 470.500
+  - ORS 470.510
+  - ORS 470.515
+  - ORS 470.530
+  - ORS 470.535
+  - ORS 470.540
+  - ORS 470.550
+  - ORS 470.555
+  - ORS 470.560
+  - ORS 470.570
+  - ORS 470.575
+  - ORS 470.580
+  - ORS 470.585
+  - ORS 470.700
+  - ORS 470.810
+  - ORS 470.815
+  - ORS 471.001
+  - ORS 471.023
+  - ORS 471.750
+  - ORS 475C.005
+  - ORS 475C.009
+  - ORS 475C.453
+  - ORS 475C.670
+  - ORS 62.803
+  - ORS 701.119
+  - ORS 731.142
+  - ORS 731.574
+  - ORS 731.824
+  - ORS 731.828
+  - ORS 731.854
+  - ORS 731.859
+  - ORS 735.465
+  - ORS 756.060
+  - ORS 756.310
+  - ORS 757.035
+  - ORS 757.053
+  - ORS 757.054
+  - ORS 757.247
+  - ORS 757.310
+  - ORS 757.365
+  - ORS 757.600
+  - ORS 757.603
+  - ORS 757.612
+  - ORS 757.617
+  - ORS 757.627
+  - ORS 757.642
+  - ORS 757.646
+  - ORS 757.649
+  - ORS 757.659
+  - ORS 757.698
+  - ORS 757.736
+  - ORS 757.746
+  - ORS 757.747
+  - ORS 757.812
+  - ORS 757.872
+  - ORS 758.400
+  - ORS 759.425
+  - ORS 759.430
+  - ORS 801.360
+  - ORS 822.020
+  - ORS 90.320
+  - ORS 90.355
+  from_relating_to_full:
+  - ORS 297.300
+  - ORS 317A.100
+  - ORS 456.587
+  - ORS 458.395
+  - ORS 469A.200
+  - ORS 469B.460
+  - ORS 469B.480
+  - ORS 470.050
+  - ORS 470.510
+  - ORS 470.515
+  - ORS 470.530
+  - ORS 470.550
+  - ORS 470.555
+  - ORS 470.560
+  - ORS 470.815
+  - ORS 757.053
+  - ORS 757.247
+  - ORS 757.365
+  - ORS 757.612
+  - ORS 757.617
+  - ORS 757.649
+  - ORS 757.659
+  - ORS 757.698
+  - ORS 757.746
+  - ORS 757.747
+  - ORS 757.872
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3620`.
+
+# HB 3620 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3620, 2025 Regular Session (2025R1)
+- **LC number:** 3950
+- **Created:** 2025-02-16T13:48:00
+- **Metadata last modified (upstream):** 2025-02-20T11:02:00
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 94066 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3620/Introduced>.
+
+## Summary
+
+**Catchline:** Repeals the public purpose charge and public purpose expenditure standard for electric companies and Oregon Community Power.
+
+**Relating to:** Relating to the public purpose charge.
+
+Digest: Repeals the public purpose charge. (Flesch Readability Score: 66.4). 
+ Repeals the public purpose charge and public purpose expenditure standard for electric companies and Oregon Community Power. 
+ Repeals the Housing and Community Services Department Electricity Public Purpose Charge Fund.
+
+**RelatingToFull (verbatim upstream field):** Relating to the public purpose charge; creating new provisions; amending ORS 297.300, 317A.100, 456.587, 458.395, 469A.200, 469B.460, 469B.480, 470.050, 470.510, 470.515, 470.530, 470.550, 470.555, 470.560, 470.815, 757.053, 757.247, 757.365, 757.617, 757.649, 757.659, 757.698, 757.746, 757.747 and 757.872 and section 3, chapter 547, Oregon Laws 2021; and repealing ORS 757.612.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3620
+Sponsored by Representative RESCHKE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Repeals the public purpose charge. (Flesch Readability Score: 66.4).
+Repeals the public purpose charge and public  purpose expenditure standard for electric compa-
+nies and Oregon Community Power.
+Repeals the Housing and Community Services Department Electricity Public Purpose  Charge
+Fund.
+A BILL FOR AN ACT
+Relating to the public purpose charge; creating new provisions; amending ORS 297.300, 317A.100,
+456.587, 458.395, 469A.200, 469B.460, 469B.480, 470.050, 470.510, 470.515, 470.530, 470.550, 470.555,
+470.560, 470.815, 757.053, 757.247, 757.365, 757.617, 757.649, 757.659, 757.698, 757.746, 757.747 and
+757.872 and section 3, chapter 547, Oregon Laws 2021; and repealing ORS 757.612.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ORS 757.612 is repealed.
+SECTION 2.  ORS 297.300 is amended to read:
+297.300. The records related to any funds collected pursuant to ORS 757.054[ ,] or through  na-
+tural gas tariffs [ or through public purpose  charges pursuant to ORS 757.612 ] and paid to a nongov-
+ernmental entity as described in ORS 757.746 shall be subject to audit by the Secretary of State.
+SECTION 3.  ORS 317A.100, as amended by section 26, chapter 75, Oregon Laws 2024, is
+amended to read:
+317A.100. As used in ORS 317A.100 to 317A.158:
+(1)(a) “Commercial activity” means:
+(A) The total amount realized by a person, arising from  transactions and activity in the regular
+course of the  person’s trade or business, without deduction for expenses incurred by the trade or
+business;
+(B) If received by a financial institution:
+(i) If the reporting person for a financial institution is a  holding company, all items of income
+reported on the FR Y-9 filed by the holding company;
+(ii) If the reporting person for a financial institution is a bank  organization, all items of income
+reported on the call report filed by the bank organization; and
+(iii) If the reporting person for a financial institution is a  nonbank financial organization, all
+items of income reported in accordance with generally accepted accounting principles; and
+(C)(i) If received by an insurer, as reported on the  statement of premiums accompanying the
+annual statement required under ORS 731.574 to be filed with the Director of the  Department of
+Consumer and Business Services, all gross direct  life insurance premiums, gross direct accident and
+health insurance premiums and gross direct property and casualty insurance premiums; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3950
+(ii) The gross amount of surplus lines premiums received on  Oregon home state risks as shown
+in the report required by ORS 735.465.
+(b) “Commercial activity” does not include:
+(A) Interest income except:
+(i) Interest on credit sales; or
+(ii) Interest income, including service charges, received by financial institutions;
+(B) Receipts from  the sale, exchange or other disposition of an asset described in section 1221
+or 1231 of  the Internal Revenue Code, without regard to the length of time the person held the asset;
+(C) If received by an insurer, federally reinsured premiums or income  from transactions between
+a reciprocal insurer and its attorney in fact operating under ORS 731.142;
+(D) Receipts from hedging transactions, to the extent that the transactions  are entered into
+primarily to protect a financial position,  including transactions intended to manage the risk of ex-
+posure to foreign currency fluctuations that affect assets, liabilities, profits, losses, equity or in-
+vestments in foreign operations, risk of exposure to interest rate fluctuations  or risk of commodity
+price fluctuations;
+(E) Proceeds received attributable to the repayment, maturity or redemption of  the principal of
+a loan, bond, mutual fund, certificate of deposit or marketable instrument;
+(F) The principal amount received  under a repurchase agreement or on account of any trans-
+action properly characterized as a loan to the person;
+(G) Contributions received by a trust, plan or other arrangement, any of which is described in
+section 501(a) of the Internal Revenue Code, or to which title 26,  subtitle A, chapter 1, subchapter
+(D) of the Internal Revenue Code applies;
+(H) Compensation, whether current or deferred, and  whether in cash or in kind, received or to
+be received  by an employee, a former employee or the employee’s legal successor for services ren-
+dered to or for an employer, including reimbursements received  by or for an individual for medical
+or education expenses, health insurance premiums  or employee expenses or on account of a de-
+pendent care spending account, legal services plan, any cafeteria plan described in section  125 of
+the Internal Revenue Code or any similar employee reimbursement;
+(I) Proceeds received from the issuance of the taxpayer’s own stock,  options, warrants, puts or
+calls, or from the sale of the taxpayer’s treasury stock;
+(J) Proceeds received on the account of payments  from insurance policies, including crop in-
+surance policies, owned by the taxpayer,  except those proceeds received for the loss of commercial
+activity;
+(K) Gifts or charitable contributions received, membership dues received by  trade, professional,
+homeowners’ or condominium associations, payments  received for educational courses, meetings or
+meals, or similar payments to a trade, professional or  other similar association, and fundraising re-
+ceipts received by any  person when any excess receipts are donated or used exclusively for chari-
+table purposes;
+(L) Damages received as the result of litigation in  excess of amounts that, if received without
+litigation, would be treated as commercial activity;
+(M) Property, money and other amounts received or acquired  by an agent on behalf of another
+in excess of the agent’s commission, fee or other remuneration;
+(N) Tax refunds from any tax program, other tax benefit recoveries and reimbursements  for the
+tax imposed under ORS 317A.100  to 317A.158 made by entities that are part of the same unitary
+group as provided under ORS 317A.106, and reimbursements made by entities that are  not members
+of a unitary group that  are required to be made for economic parity among multiple owners of an
+entity whose  tax obligation under ORS 317A.100 to 317A.158 is required to be reported and paid
+entirely by one owner, as provided in ORS 317A.106;
+(O) Pension reversions;
+(P) Contributions to capital;
+(Q) Receipts from the sale, transfer, exchange or  other disposition of motor vehicle fuel or any
+other product used for the propulsion of motor vehicles;
+(R) In the case of receipts from the sale of cigarettes or  tobacco products by a wholesale dealer,
+retail dealer, distributor, manufacturer or seller,  an amount equal to the federal and state excise
+taxes paid by any person on or for such cigarettes or tobacco products under subtitle E of the
+Internal Revenue Code or ORS chapter 323;
+(S) In the case of receipts from the sale of malt beverages or wine, as defined in ORS  471.001,
+cider, as defined in ORS  471.023 or distilled liquor, as defined in ORS 471.001, by a person holding
+a license issued under ORS chapter 471, an amount equal to the federal and  state excise taxes paid
+by any person on or for such  malt beverages, wine or distilled liquor under subtitle E of the Internal
+Revenue Code or ORS chapter 471 or  473, and any amount paid to the Oregon Liquor and Cannabis
+Commission for sales of distilled spirits by an agent appointed under ORS 471.750;
+(T) In the case of receipts from the  sale of marijuana items, as defined in ORS 475C.009, by a
+person holding a license issued under ORS 475C.005 to 475C.525, an amount equal  to the federal and
+state excise taxes paid  by any person on or for such marijuana items under subtitle E of the Internal
+Revenue Code or ORS 475C.670 to 475C.734 and any local retail taxes authorized under ORS
+475C.453;
+(U) Local  taxes collected by a restaurant or other food establishment on sales of meals, prepared
+food or beverages;
+(V) Tips or gratuities collected by a  restaurant or other food establishment and passed on to
+employees;
+(W) Receipts realized  by a vehicle dealer certified under ORS 822.020 or a person described in
+ORS 320.400 (8)(a)(B) from the sale  or other transfer of a motor vehicle, as defined in ORS 801.360,
+to another vehicle dealer for the purpose of resale by  the transferee vehicle dealer, but only if the
+sale or  other transfer was based upon the transferee’s need to meet a specific customer’s preference
+for a motor vehicle or is an exchange of new vehicles between franchised motor vehicle  dealerships;
+(X) Registration fees  or taxes collected by a vehicle dealer certified under ORS 822.020 or a
+person described in  ORS 320.400 (8)(a)(B) at the sale or other transfer of a motor vehicle, as defined
+in ORS 801.360, that are owed to a third party by the purchaser of  the motor vehicle and passed to
+the third party by the dealer;
+(Y) Receipts from a financial  institution for services provided to the financial institution in
+connection with the issuance, processing, servicing and management of loans or credit  accounts, if
+the financial institution and the recipient of the receipts have at least 50 percent of  their ownership
+interests owned or controlled, directly or constructively through related interests, by common  own-
+ers;
+(Z) In the case of amounts retained as commissions by a holder of a license under ORS  chapter
+462, an amount equal to the amounts specified under ORS chapter  462 that must be paid to or col-
+lected by the Department of Revenue as a tax and the amounts specified under ORS chapter  462 to
+be used as purse money;
+(AA) Receipts of residential care facilities as defined in ORS 443.400 or  in-home care agencies
+as defined in ORS 443.305, to the extent that the receipts are derived from  or received as compen-
+sation for providing services to a medical assistance or Medicare recipient;
+(BB) Dividends received;
+(CC) Distributive income received from a pass-through entity;
+(DD) Receipts from sales  to a wholesaler in this state, if the seller receives certification at the
+time of sale from the wholesaler that the wholesaler will sell the purchased property outside this
+state;
+(EE) Receipts from the wholesale or retail sale of groceries, including receipts of a person that
+owns groceries at the time of sale and compensation of any consignee engaged in effecting the  sale
+of groceries on behalf the owner of the groceries, but only  to the extent that the compensation re-
+lates to grocery sales;
+(FF) Receipts from transactions among members of a unitary group;
+(GG) Moneys, including [ public purpose charge moneys collected  under ORS 757.612 and ] moneys
+collected to plan for and pursue cost-effective energy efficiency resources under  ORS 757.054, that
+are collected from customers, passed to a utility and approved by the Public Utility  Commission and
+that support  energy conservation, renewable resource acquisition and low-income assistance pro-
+grams;
+(HH) Moneys collected by a utility from customers for the payment of loans through  on-bill fi-
+nancing;
+(II) Surcharges collected under ORS 757.736;
+(JJ) Moneys passed  to a utility by the Bonneville Power Administration for the purpose of
+effectuating the Regional Power Act  Exchange credits or pursuant to any settlement associated with
+the exchange credit;
+(KK) Moneys collected or recovered, by entities listed in ORS  756.310, cable operators as de-
+fined in 47 U.S.C. 522(5), telecommunications carriers as defined in 47 U.S.C. 153(51)  and providers
+of information services as defined in 47 U.S.C. 153(24), for fees payable under ORS 756.310, right-of-
+way fees, franchise fees, privilege taxes, federal taxes and local taxes;
+(LL) Charges paid to the Residential Service Protection Fund required by chapter 290, Oregon
+Laws 1987;
+(MM) Universal service surcharge moneys collected or recovered and paid into the  universal
+service fund established in ORS 759.425;
+(NN) Moneys collected for public purpose funding as described in ORS 759.430;
+(OO) Moneys collected or recovered  and paid into the federal universal service fund as deter-
+mined by the Federal Communications Commission;
+(PP) In the case of a seller or provider of telecommunications services, the  amount of tax im-
+posed under ORS 403.200 for access to  the emergency communications system that is collected from
+subscribers or consumers;
+(QQ) In the case of a transient lodging tax collector, the amount  of tax imposed under ORS
+320.305 and of any local transient lodging tax imposed upon the occupancy of transit lodging;
+(RR) In the  case of a seller of bicycles, the amount of tax imposed under ORS 320.415 upon retail
+sales of bicycles;
+(SS) In the case of a qualified heavy equipment provider, the amount  of tax imposed under ORS
+307.872 upon the rental price of heavy equipment;
+(TT) Farmer sales to an  agricultural cooperative in this state that is a cooperative organization
+described in section 1381 of the Internal Revenue Code;
+(UU) Revenue received by a business entity that is mandated by contract  or subcontract to be
+distributed to another person or entity if the revenue constitutes sales commissions that  are paid
+to a person who is not an employee of the business entity, including,  without limitation, a split-fee
+real estate commission;
+(VV) Receipts from the sale  of fluid milk by dairy farmers that are not members of an agricul-
+tural cooperative; and
+(WW)(i) Cost paid by a dealer for items of precious metal.
+(ii) As used in this subparagraph, “item of precious  metal” means an item of gold, silver,
+platinum, rhodium or palladium that has been put through a process of smelting or  refining and that
+is in a state or condition that its value depends on its contents and not its form.
+(2) “Cost inputs” means:
+(a) The cost  of goods sold as calculated in arriving at federal taxable income under the Internal
+Revenue Code; or
+(b) In the case of a taxpayer that is engaged  in a farming operation, as defined in ORS 317A.102,
+and that does not report cost of goods sold for federal  tax purposes, the taxpayer’s operating ex-
+penses excluding labor costs.
+(3) “Doing business” means engaging in any activity, whether legal or illegal,  that is conducted
+for, or results in, the receipt of commercial activity at any time during a calendar year.
+(4) “Excluded person” means any of the following:
+(a) Organizations described  in sections 501(c) and 501(j) of the Internal Revenue Code, unless the
+exemption is denied under section  501(h), (i) or (m) or under section 502, 503 or 505 of the Internal
+Revenue Code.
+(b) Organizations described in section 501(d) of the Internal  Revenue Code, unless the exemption
+is denied under section 502 or 503 of the Internal Revenue Code.
+(c) Organizations described in section 501(e) of the Internal Revenue Code.
+(d) Organizations described in section 501(f) of the Internal Revenue Code.
+(e) Charitable risk pools described in section 501(n) of the Internal Revenue Code.
+(f) Organizations described in section 521 of the Internal Revenue Code.
+(g) Qualified state tuition programs described in section 529 of the Internal Revenue Code.
+(h) Foreign or alien  insurance companies, but only with respect to the underwriting profit de-
+rived from writing wet marine  and transportation insurance subject to tax under ORS 731.824 and
+731.828 or if an insurance company is subject to the retaliatory tax  under ORS 731.854 and 731.859.
+(i) Governmental entities.
+(j) Any  person with commercial activity that does not exceed $750,000 for the tax year, other
+than a person that is part  of a unitary group as provided in ORS 317A.106 with commercial activity
+in excess of $750,000.
+(k) Hospitals subject to assessment under ORS 414.855, long term care facilities  subject to as-
+sessment under ORS 409.801 or any entity subject to assessment under ORS 414.880 or section 3 or
+5, chapter 538, Oregon Laws 2017.
+(L) Manufactured dwelling park nonprofit cooperatives organized under ORS chapter 62.
+(5) “Financial institution” has the meaning  given that term in ORS 314.610, except that “finan-
+cial institution” does not include a credit union.
+(6)(a) “FR Y-9” means the consolidated or parent-only financial statements that a holding com-
+pany is required to file with the Federal Reserve Board pursuant to 12 U.S.C. 1844.
+(b) In the  case of a holding company required to file both consolidated and parent-only financial
+statements, “FR  Y-9” means the consolidated financial statements that the holding company is re-
+quired to file.
+(7) “Governmental entity” means:
+(a) The United States and any of its unincorporated agencies and instrumentalities.
+(b) Any incorporated agency or  instrumentality of the United States wholly owned by the United
+States or by a corporation wholly owned by the United States.
+(c) The State of Oregon and any of its unincorporated agencies and instrumentalities.
+(d) Any county, city, district or other political subdivision of the state.
+(e) A special government body as defined in ORS 174.117.
+(f) A federally recognized Indian tribe.
+(8) “Groceries” means food as defined in  7 U.S.C. 2012(k), but does not include cannabinoid
+edibles or marijuana seeds.
+(9)(a) “Hedging transaction” means a hedging  transaction as defined in section 1221 of the
+Internal Revenue Code or a transaction  accorded hedge accounting treatment under Financial Ac-
+counting Standards Board Statement No. 133.
+(b) “Hedging transaction” does not include a transaction in which an  actual transfer of title of
+real or tangible property to another entity occurs.
+(10) “Insurer” has the meaning given that term in ORS 317.010.
+(11) “Internal Revenue Code,”  except where the Legislative Assembly has provided otherwise,
+refers to the laws of the United States or to the Internal  Revenue Code as they are amended and
+in effect on December 31, 2023.
+(12) “Labor costs” means total compensation of all  employees, not to include compensation paid
+to any single employee in excess of $500,000.
+(13)(a) “Motor vehicle fuel or any other product used for the  propulsion of motor vehicles”
+means:
+(A) Motor vehicle fuel as defined in ORS 319.010; and
+(B) Fuel the use of which in a motor vehicle is subject to taxation under ORS 319.530.
+(b) “Motor vehicle fuel or any other product used for the propulsion of motor  vehicles” does not
+mean:
+(A) Electricity; or
+(B) Electric batteries or any other mechanical  or physical component or accessory of a motor
+vehicle.
+(14) “Person” includes individuals, combinations of individuals  of any form, receivers, assignees,
+trustees in bankruptcy, firms, companies, joint-stock companies, business  trusts, estates, partner-
+ships, limited  liability partnerships, limited liability companies, associations, joint ventures, clubs,
+societies, entities organized as for-profit  corporations under ORS chapter 60, C corporations, S cor-
+porations, qualified subchapter S subsidiaries, qualified subchapter S trusts, trusts, entities that  are
+disregarded for federal income tax purposes and any other entities.
+(15) “Retailer” means a person  doing business by selling tangible personal property to a pur-
+chaser for a purpose other than:
+(a) Resale by  the purchaser of the property as tangible personal property in the regular course
+of business;
+(b) Incorporation by  the purchaser of the property in the course of regular business as an in-
+gredient or component of real or personal property; or
+(c) Consumption by  the purchaser of the property in the production for sale of a new article of
+tangible personal property.
+(16) “Taxable commercial activity” means  commercial activity sourced to this state under ORS
+317A.128, less any subtraction pursuant to ORS 317A.119.
+(17)(a) “Taxpayer” means any person or unitary group required to register, file  or pay tax under
+ORS 317A.100 to 317A.158.
+(b) “Taxpayer” does not include excluded persons, except to  the extent that a tax-exempt entity
+has unrelated business income as described in the Internal Revenue Code.
+(18) “Tax year” means, except as otherwise provided in ORS 317A.103, a taxpayer’s annual  ac-
+counting period used for  federal income tax purposes under section 441 of the Internal Revenue
+Code.
+(19)(a) “Unitary business” means  a business enterprise in which there exists directly or indi-
+rectly between the members or parts of  the enterprise a sharing or exchange of value as demon-
+strated by:
+(A) Centralized management or a common executive force;
+(B) Centralized administrative services or functions resulting in economies of scale; or
+(C) Flow of goods, capital resources or services demonstrating functional integration.
+(b) “Unitary business” may include a business enterprise the activities of which:
+(A) Are in the same general line of business, such as manufacturing, wholesaling or  retailing;
+or
+(B) Constitute steps in  a vertically integrated process, such as the steps involved in the pro-
+duction of natural resources, which might include exploration, mining, refining and marketing.
+(20) “Unitary  group” means a group of persons with more than 50 percent common ownership,
+either direct or indirect, that is engaged in business activities that constitute a unitary business.
+(21) “Wholesaler” means a person primarily doing business by merchant distribution  of tangible
+personal property to retailers or to other wholesalers.
+SECTION 4.
+ ORS 456.587 is amended to read:
+456.587. [(1) The Housing and Community Services Department Electricity Public  Purpose Charge
+Fund is established  in the State Treasury, separate and distinct from the General Fund. Interest earned
+by the Housing and Community Services Department Electricity Public Purpose Charge  Fund shall be
+credited to the fund.  Moneys in the fund are continuously appropriated to the Housing and Community
+Services Department to be used for purposes specified in ORS 757.612 (3)(b)(D). ]
+[(2)] The Housing and Community  Services Department Low-Income Electric Bill Payment As-
+sistance Fund is established in the State Treasury, separate and distinct from the General  Fund.
+Interest earned  by the Housing and Community Services Department Low-Income Electric Bill Pay-
+ment Assistance Fund shall be credited to the  fund. Moneys in the fund are continuously appropri-
+ated to the Housing and Community Services Department for purposes described in ORS 757.698.
+SECTION 5. The Housing and  Community Services Department Electricity Public Pur-
+pose Charge Fund, established under ORS 456.587, is abolished. Any moneys remaining in the
+fund on the effective date of this 2025 Act shall be transferred to the General Fund.
+SECTION 6.  ORS 458.395 is amended to read:
+458.395. The Housing and Community Services Department  shall make available on the
+department’s website:
+(1) A list of dates and counties in which there exists an extreme heat event for a forecast  zone
+in this state as defined in ORS 90.355. Dates published on the website must remain  on the website
+for at least one year.
+(2) Information regarding relevant programs and services available  to landlords to provide ade-
+quate cooling under ORS 90.320 (1)(m) or 90.730 (3)(d), including:
+(a) Programs administered by the department;
+(b) Information provided  by the Oregon Health Authority regarding programs administered by
+the authority, including the list of eligible distribution entities compiled under ORS 431A.430 (5);
+(c) Information provided by the State  Department of Energy regarding programs administered
+by the department; and
+[(d) Programs administered by the nongovernmental  entity that administers public purpose charge
+moneys under ORS 757.612 (3)(d); and ]
+[(e)] (d) Federal programs, rebates  or incentives, including those administered by the Bonneville
+Power  Administration.
+SECTION 7.
+ ORS 469A.200 is amended to read:
+469A.200. If  an electric company or electricity service supplier that is subject to a renewable
+portfolio standard under ORS 469A.005 to 469A.210 fails to  comply with the standard in the manner
+provided by ORS 469A.005 to  469A.210, the Public Utility Commission may impose a penalty against
+the company or supplier in an amount  determined by the commission. A penalty under this section
+is in addition to any alternative compliance payment required or elected under ORS 469A.180.
+[Moneys paid for penalties under this section shall be  transmitted by the commission to the nongov-
+ernmental entity receiving moneys under ORS 757.612 (3)(d)  and may be used only for the purposes
+specified in ORS 757.612 (1). ]
+SECTION 8.  ORS 469B.460 is amended to read:
+469B.460. (1) As used in this section:
+(a) “Bulk fuel” means liquid  petroleum, propane, coal, wood, wood-based products or other fuel
+delivered and stored until used on-site by the final consumer to produce energy.
+(b) “Climate zone” means a heating  or cooling climate zone assigned to a county by the
+Bonneville Power Administration.
+(c) “Electric resistance heat” means heat  produced by passing an electric current through a
+material that has high resistance, such as used in an electric baseboard, wall or space heater.
+(d) “Electric utility” has the meaning given that term in ORS 757.600.
+(e) “Eligible entity” means a:
+(A) Local government as defined in ORS 174.116;
+(B) Local housing authority;
+(C) Nonprofit organization;
+(D) Federally recognized Indian tribe in Oregon;
+(E) Coordinated care organization as defined in ORS 414.025;
+(F) Community action agency as described in ORS 458.505;
+(G) Manufactured dwelling park nonprofit cooperative as defined in ORS 62.803; or
+(H) An electric utility.
+(f) “Energy burden” means the percentage of gross household income spent on energy costs.
+(g) “Environmental justice communities” has the meaning given that term in ORS 469A.400.
+(h) “Heat pump”  means an air-source or ground-source heat pump with an energy efficiency
+rating set by the State Department of Energy under subsection (5) of this  section or a higher effi-
+ciency rating.
+(i) “Region” means an  economic development district in Oregon, designated by the Economic
+Development Administration of the United States Department of Commerce, for which  a regional
+solutions center has been established under ORS 284.754.
+(2) The Heat Pump Deployment Program is  established within the State Department of Energy.
+The purpose of the program  is to award grants to one eligible entity for each region and federally
+recognized Indian tribe in Oregon to provide financial  assistance, including loans, grants, rebates
+or incentives, for  the purchase and installation of heat pumps and related upgrades to individuals
+who reside within that region or who are members of that tribe.
+(3)(a) To be eligible to receive a grant from the  Heat Pump Deployment Program, an eligible
+entity must establish that it:
+(A) Serves or represents:
+(i) An environmental justice community or communities within a region; or
+(ii) Members of a federally recognized Indian tribe in Oregon; and
+(B) Has the capacity to administer grant funds received under this section.
+(b) An eligible entity applying for a grant  may partner with other eligible entities, but the entity
+that is awarded the grant shall take a lead role in administering grant funds  and providing financial
+assistance.
+(c) An eligible  entity that serves or represents a community that is located within more than
+one region may apply for a grant  only for the region within which the greatest percentage of the
+individuals of that community reside.
+(d) An eligible entity that serves a  specific geographical area may propose, in consultation with
+any electric  utility that serves the area, that the department use alternative boundaries to define
+a region. The  department may approve the use of alternative boundaries to define a region provided
+that a minimum percentage, as determined by the department, of the eligible entity’s  specific ge-
+ographical area is within the alternative boundaries of the region.
+(e) If an electric utility is awarded a grant from the Heat Pump Deployment Program:
+(A) The electric utility  may provide financial assistance from grant funds only to individuals
+who reside within the electric utility’s service area and within the region for  which the electric
+utility is awarded a grant.
+(B) The electric utility shall partner with one or more other  eligible entities to provide financial
+assistance from grant funds to individuals who  reside outside the electric utility’s service area and
+within the region for which the electric utility is awarded a grant.
+(4) An eligible entity that is awarded a grant from the Heat Pump Deployment Program shall:
+(a) Use the grant funds to cover up to:
+(A) One hundred percent of the purchase and installation costs of a heat pump.
+(B) A percentage,  as determined by the department, of the costs for related upgrades that sup-
+port or enable the use of a heat pump, including:
+(i) A new electrical panel or other upgrades to the electrical system of a home or building.
+(ii) Weatherization or other  structural repairs to reduce home or building heat and cooling loss.
+(iii) Upgrades to improve the airflow of a home or building.
+(b) Prioritize the provision of financial assistance to:
+(A) Environmental justice communities.
+(B) Individuals who rely on bulk fuels or electric resistance heating.
+(C) Individuals who reside in  a home or structure that does not have a functioning heating or
+cooling  system.
+(c) Enter into a performance agreement with the department as described in subsection  (8) of
+this section.
+(5) The department shall:
+(a) Award grants  using available funds in the Heat Pump Deployment Fund established under
+ORS 469B.466.
+(b) In awarding grants, give preference to eligible entities with:
+(A) Experience in administering state grant programs or programs  similar to the Heat Pump
+Deployment Program.
+(B) Experience with community program  development within a region or with members of a
+tribe.
+(C) Connections to communities within a region or with members of a tribe.
+(c) Develop criteria for allocating the amount of each grant based on the energy burden of  res-
+idences within the region or of members  of the tribe and the climate zones that make up the coun-
+ties of that region or of tribal lands.
+(d) Permit a review of awarded grant funds by members  of communities who may benefit from
+the Heat Pump Deployment Program.
+(e) In consultation with electric utilities[ ,] and the Bonneville Power Administration [ and the
+nongovernmental entity  that administers public purpose charge moneys collected under ORS 757.612
+(3)(d)], set the minimum energy efficiency rating that a heat pump must have to be eligible for grant
+funds. The minimum energy efficiency rating for a heat pump set by the  department must be equal
+to or greater than federal energy efficiency rating standards for heat pumps.
+(6) The department may not use moneys collected through the  energy resource supplier assess-
+ment required under ORS 469.421 (8) to fund grants awarded  under the Heat Pump Deployment
+Program.
+(7) The department may:
+(a) Establish a maximum amount of grant  funds payable toward the purchase and installation
+of a heat pump and related upgrades.
+(b) Permit the use  of loans, grants, rebates or incentives offered by an electric utility or other
+programs toward any costs of the purchase  and installation of a heat pump and related upgrades
+not covered by the Heat Pump Deployment Program.
+(c) Provide information to individuals  receiving financial assistance from the Heat Pump De-
+ployment Program about other  loans, grants, rebates or incentives that may be offered by an electric
+utility or other programs.
+(d) Develop criteria for how specific  loans, grants, rebates or incentives offered by an electric
+utility or other programs may be used toward  the costs of the purchase or installation of a heat
+pump and related upgrades.
+(e) Establish incentives  to encourage the purchase and installation of heat pumps and related
+upgrades that have higher efficiency ratings.
+(f) Establish incentives for the purchase and installation  of a heating or cooling device that has
+an efficiency rating similar to or higher than that of  a heat pump and that provides additional
+benefits such as improving indoor air quality or lowering an individual’s energy burden.
+(g) Develop program  procedures and practices that align with the reporting and other require-
+ments of loans, grants, rebates or incentives offered by an electric utility or other programs.
+(h) Require,  by rule, that eligible entities notify electric utilities of a heat pump installation and
+whether grant funds may  be used for necessary electric distribution system upgrades associated with
+the installation of the heat pump.
+(8) Before receiving a grant under this section,  an eligible entity shall enter into a performance
+agreement with the department that:
+(a) Indicates the purposes for which the grant funds may be used;
+(b) Prohibits the eligible entity from using more  than 15 percent of awarded grant funds for
+administrative expenses and marketing costs;
+(c) Includes the repayment provisions set forth in subsection (9) of this section;
+(d) Permits the department to  conduct audits and investigations of the eligible entity regarding
+the use of grant funds; and
+(e) Requires the eligible entity to provide reports as required by subsection (10) of this section.
+(9) An eligible entity  must repay to the department, in whole or in part, grant funds received
+under this section to the extent that:
+(a) The eligible entity does not use the grant funds in accordance with the provisions  of the
+performance agreement executed between the department and the eligible  entity under subsection
+(8) of this section; or
+(b) The Director of the State Department of Energy  determines that the eligible entity must
+repay all or part of the grant funds on grounds of misappropriation, fraud or similar  reasons after
+auditing or investigating the eligible entity’s operations and conducting a contested case hearing
+under ORS 183.413 to 183.470.
+(10) Each eligible entity that receives a grant under this section shall report to  the department
+each year concerning  the status and use of grant funds for the period of July 1 to June 30. The
+report must be submitted on a schedule determined by the department. The report  may not disclose
+the personal information of the recipients of financial assistance under the program. The report must
+include:
+(a) A detailed description of the eligible entity’s use of grant funds;
+(b) A list of each loan, grant or other financial assistance that  the eligible entity has provided
+and, where applicable, a full accounting of the repayment status of the loans;
+(c) The nature and amounts of the administrative expenses and marketing costs  the eligible en-
+tity has incurred in providing loans, grants and other financial assistance under the program; and
+(d) Any other information required by the department.
+(11) The department shall adopt rules to carry out the provisions of this section. The rules shall
+be developed in consultation with:
+(a) The Bureau of Labor and Industries on issues related to the workforce.
+(b) The Building Codes Division of the Department of Consumer and Business  Services on issues
+related to building codes and commissioning.
+(c) The Housing and Community Services  Department to ensure the Heat Pump Deployment
+Program complements any existing programs or services.
+(d) The Department of Environmental Quality on  issues of air quality related to bulk fuels and
+to ensure the Heat Pump Deployment Program complements any existing programs or services.
+(e) The Oregon Health Authority  on any health impacts and health impact data related to the
+Heat Pump Deployment Program and to ensure the program complements any  existing programs or
+services.
+(f) Electric utilities and utility  program administrators on any impacts the Heat Pump Deploy-
+ment Program may have on utility systems or services and to ensure the  program complements any
+existing programs, incentives or services.
+(g) Nonprofit organizations, housing  providers, heat pump technicians and other stakeholders
+as appropriate.
+SECTION 9.
+ ORS 469B.480 is amended to read:
+469B.480. (1) The State Department of  Energy shall provide a grant to [ the] a nongovernmental
+entity [ that administers public purpose charge  moneys under ORS 757.612 (3)(d) ] to enable the non-
+governmental entity to assist landlords in creating or operating,  whenever there is an extreme heat
+event for the forecast zone of the premises as described in ORS 90.355, one or more private com-
+munity cooling spaces available to the landlord’s tenants  during the extreme heat event that are on
+or near the premises and that maintain a temperature of not higher than 80 degrees Fahrenheit.
+(2) Assistance provided under this section may include:
+(a) Grants to landlords to create or operate community cooling spaces that will  accommodate
+at least five individuals.
+(b) Information to landlords regarding:
+(A) Lists of providers and installers of suitable cooling devices;
+(B) Private and government programs that may be used  to create or operate community cooling
+spaces; and
+(C) Best practices and model technical specifications for installing and operating various tem-
+porary and permanent community cooling spaces.
+(c) Promoting the services relating to community cooling spaces under  this section that are
+provided by the nongovernmental entity.
+(3) The nongovernmental  entity receiving a grant under this section shall maintain separate
+accounting of the  expenditures of the grant funds and shall report the accounting to the Public
+Utility Commission  and the independent auditor described in ORS 757.746 (1)(d). The nongovern-
+mental entity may  not utilize moneys received under ORS 757.054 (4) [ or 757.612 (3)(d) ] for grant
+purposes under this section.
+SECTION 10.
+ ORS 470.050 is amended to read:
+470.050. As used in this chapter, unless the context requires otherwise:
+(1) “Alternative fuel project” means:
+(a) Equipment, including vehicles that are not used primarily for personal, family  or household
+purposes, that is modified or acquired directly from a factory and that:
+(A) Uses an  alternative fuel including electricity, biofuel, gasohol with at least 20 percent de-
+natured alcohol content, hydrogen,  hythane, methane, methanol, natural gas, propane or any other
+fuel approved by the Director of the State Department of Energy; and
+(B) Produces lower exhaust emissions or is more energy efficient than equivalent  equipment fu-
+eled by gasoline or diesel; and
+(b) A facility, including a fueling station, or equipment necessary to produce alternative fuel  or
+operate equipment that uses an alternative fuel.
+(2) “Applicant” means an applicant for a loan to construct a small scale local energy project.
+(3) “Base efficiency package” means the package of  energy efficiency upgrades or renewable
+energy projects for a property that, when energy  savings, project repayment costs, tax or other in-
+centives, loan offset grants and other  relevant economic factors are considered, is estimated to not
+increase the utility bill of the customer over the loan repayment term.
+(4) “Committee” means the Small Scale Local  Energy Project Advisory Committee created under
+ORS 470.070.
+(5) “Cooperative” means a cooperative corporation organized under ORS chapter 62.
+(6) “Director” means  the Director of the State Department of Energy appointed under ORS
+469.040.
+(7) “Eligible  federal agency” means a federal agency or public corporation created by the federal
+government  that  proposes to use a loan for a small scale local energy project. “Eligible federal
+agency” does not include a federal agency or public corporation created by the federal  government
+that proposes to use a loan for a small scale local energy project to generate electricity for sale.
+(8) “Eligible state agency” means a state officer,  board, commission, department, institution,
+branch or agency of the state whose costs are paid wholly or in part from funds held in the State
+Treasury.
+(9) “Energy efficiency and sustainable  technology loan” means a loan for a small scale local
+energy project that is repayable by means of:
+(a) A charge included with the participant’s utility customer account billing; or
+(b) An  alternative repayment method identified by the department and the borrower and speci-
+fied in the loan agreement.
+(10) “Energy Project Bond Loan Fund” means the fund established under ORS 470.580.
+(11) “Energy Project Supplemental Fund” means the fund established under ORS 470.570.
+(12) “Energy Revenue Bond Repayment Fund” means the fund established under ORS 470.585.
+(13) “Energy savings projection” means an  examination of the energy performance and site
+characteristics of a property that, at a minimum, identifies:
+(a) A base efficiency package; and
+(b) Any additional optional measures that  a customer is able to repay and that the sustainable
+energy project manager believes to be feasible for the site.
+(14) “Jobs, Energy and Schools Fund” means the fund established under ORS 470.575.
+(15) “Loan” includes the purchase or other acquisition of evidence  of indebtedness and money
+used for the purchase or other acquisition of evidence of indebtedness.
+(16) “Loan contract” means the evidence of indebtedness and all instruments used in the  pur-
+chase or acquisition of the evidence of indebtedness. For eligible federal or state agencies or mu-
+nicipal corporations that are tax exempt entities, a loan contract  may include a lease purchase
+agreement with respect to personal property.
+(17) “Loan offset grant” means  moneys from the Jobs, Energy and Schools Fund that are used
+to help offset the initial project costs or loan payments for  energy efficiency, renewable energy and
+energy conservation projects.
+(18) “Loan repayment charge” means an amount charged to a utility customer  account through
+on-bill financing as  a mechanism for the repayment of an energy efficiency and sustainable tech-
+nology loan.
+(19) “Municipal corporation” has the  meaning given in ORS 297.405 and also includes any Indian
+tribe or authorized Indian tribal organization or any combination of two  or more of these tribes or
+organizations acting jointly in connection with a small scale local energy project.
+(20) “On-bill financing” means  a mechanism for collecting the repayment of an energy efficiency
+and sustainable technology loan through a utility customer account billing system.
+(21) “Optional  package” means measures for promoting energy efficiency or the use of renewable
+energy:
+(a) That are in addition to the measures described in the customer’s base efficiency package;
+(b) For which a customer has the ability to repay; and
+(c) That the sustainable energy project manager believes to be feasible for the site.
+(22) “Oregon business” means a  sole proprietorship, partnership, company, cooperative, corpo-
+ration or other form of business entity that is organized or authorized to do  business under Oregon
+law for profit.
+(23) “Primary contractor” means a contractor that:
+(a) Has entered into a  contract with an owner of property for which a proposed small scale local
+energy project will be located;
+(b) Is responsible for the completion of the small scale local energy project;
+(c) Undertakes to complete the small scale local energy project; and
+(d) Is responsible for any  subcontractors performing work on the small scale local energy
+project.
+[(24) “Public Purpose  Fund Administrator” means the entity designated by the Public Utility
+Commission to administer moneys collected by a  company through the public purpose charge described
+under ORS 757.612. ]
+[(25)] (24) “Recycling project” means a facility or equipment that converts waste into  a new and
+usable product.
+[(26)] (25) “Small business” means:
+(a) An Oregon business that is:
+(A) A retail or service business employing 50 or fewer persons at the time the loan is made; or
+(B) An industrial or manufacturing business employing 200  or fewer persons at the time the loan
+is made; or
+(b) An Oregon subsidiary  of a sole proprietorship, partnership, company, cooperative, corpo-
+ration or other form of business entity for which the total number of employees for both  the sub-
+sidiary and  the parent sole proprietorship, partnership, company, cooperative, corporation or other
+form of business entity at the time the loan is made is:
+(A) Fifty or fewer persons if the subsidiary is a retail or service business; and
+(B) Two hundred or fewer if the subsidiary is an industrial or manufacturing business.
+[(27)] (26) “Small scale local  energy program loan” means a loan for a small scale local energy
+project other than an energy efficiency and sustainable technology loan.
+[(28)] (27) “Small scale local energy project” means any of the following:
+(a) A system, mechanism or series of  mechanisms located primarily in Oregon that directly or
+indirectly  uses  or enables the use of, by the applicant or another person, renewable resources in-
+cluding, but not limited to, solar, wind, geothermal, biomass,  waste heat or water resources to
+produce energy, including heat, electricity and substitute fuels, to meet a local community  or re-
+gional energy need in this state.
+(b) A system, mechanism or series of mechanisms located primarily  in Oregon or providing
+substantial benefits to Oregon that directly or indirectly conserves energy or enables the conserva-
+tion of energy by the applicant or another person, including energy used in transportation.
+(c) A recycling project.
+(d) An alternative fuel project.
+(e) An improvement that increases the production or  efficiency, or extends the operating life,
+of a system, mechanism, series of mechanisms  or project otherwise described in this subsection, in-
+cluding but not limited to restarting a dormant project.
+(f) A system, mechanism or series of mechanisms installed in a facility  or portions of a facility
+that directly or indirectly reduces the amount  of energy needed for the construction and operation
+of the  facility and that meets the sustainable building practices standard established by the State
+Department of Energy by rule. For purposes of this paragraph, “system, mechanism or  series of
+mechanisms” includes related and integrated upgrades to attain compliance  with standards set in
+the State of  Oregon Structural Specialty Code and Fire and Life Safety Code, and seismic safety
+upgrades.
+(g) A project described in paragraphs (a) to (f) of this subsection, whether or  not the existing
+project was originally financed under this chapter, together with any refinancing necessary to re-
+move prior liens or encumbrances against the existing project.
+(h) A project described in paragraphs (a) to (g)  of this subsection that conserves energy or
+produces energy by generation or by processing or collection of a renewable resource.
+[(29)] (28) “Small Scale Local Energy Project Administration and  Bond Sinking Fund” means the
+fund created under ORS 470.300.
+[(30)] (29) “Small Scale Local Energy Project Loan Fund” means the loan fund created by  Arti-
+cle XI-J of the Oregon  Constitution and appropriated to the State Department of Energy under ORS
+470.130.
+[(31)] (30) “Sustainable energy project manager”  means the organization responsible for pro-
+moting the energy efficiency and sustainable technology loan  program or the clean energy deploy-
+ment program and related incentives for energy efficiency and renewable energy at the
+neighborhood and community level.
+[(32)] (31) “Utility service territory” means the allocated  territory in which a utility subject to
+this chapter provides  a utility service. For the purposes of this subsection, “allocated territory” and
+“utility service” have the meanings given those terms in ORS 758.400.
+SECTION 11.
+ ORS 470.510 is amended to read:
+470.510. (1) Except as provided in  subsection (3) of this section, the State Department of Energy
+may enter into contracts for the issuance of energy efficiency and sustainable technology loans.
+Except as provided in ORS 470.700, the department  shall finance the loans using moneys from the
+Small Scale Local Energy Project Loan Fund, the Energy  Project Supplemental Fund or the Energy
+Project Bond Loan Fund, or from a combination of those funds.
+(2) The  sustainable energy project manager may enter into agreements with trade associations
+and other public and private entities for the promotion or marketing of the energy efficiency  and
+sustainable technology loan program.
+(3) The department must obtain  the consent of the utility before operating an energy efficiency
+and sustainable technology loan program within the service territory of:
+(a) An investor-owned electric utility that serves fewer than 20,000 customers; or
+(b) An investor-owned gas utility that is  actively administering an energy conservation program
+established[ :]
+[(A)] on or before January 1, 2009[ ; and ]
+[(B) Without assistance from a nongovernmental entity that receives public  purpose charge moneys
+under ORS 757.612 ].
+SECTION 12.
+ ORS 470.515 is amended to read:
+470.515. The Public Utility Commission may adopt rules for carrying out  the duties, functions
+and powers of the commission [ and the Public Purpose Fund Administrator ] under ORS 470.500  to
+470.710.
+SECTION 13.  ORS 470.530 is amended to read:
+470.530. (1) Except as provided in subsection (5) of this section, the Director of  the State De-
+partment of Energy  may establish qualifications for sustainable energy project managers and may
+exercise oversight to  ensure compliance with those qualifications. A sustainable energy project
+manager shall provide the promotion, technical and financial support and verifications  necessary to
+administer an energy efficiency and sustainable technology loan.
+(2) A sustainable energy project manager may  administer an energy efficiency and sustainable
+technology loan only within a utility service  territory of an investor-owned or consumer-owned
+utility that provides electricity or gas services.
+(3) A sustainable energy project manager shall serve the  utility service territory for which the
+sustainable energy project manager has been selected by the director. The sustainable energy
+project manager shall provide loan program information and technical and financial  information to
+promote energy efficiency  and use of renewable energy at the neighborhood and community levels.
+The sustainable energy project manager shall  be responsible for small scale local energy project
+verification and for monitoring program effectiveness for  energy efficiency and sustainable technol-
+ogy loans and small scale local energy program loans. The sustainable  energy project manager may
+administer the energy  efficiency and sustainable technology loan program within the utility service
+territory.
+(4) A city, county, metropolitan service district or other local government entity, or a nonprofit,
+for-profit, tribal or state entity, may be a sustainable energy project manager if the entity meets the
+qualifications established by the  director under this section and is approved by the director to pro-
+vide promotion,  outreach and customer support related to the energy efficiency and sustainable
+technology  loan  program within a utility service territory. [ The Public Purpose Fund Administrator
+is an ex officio sustainable energy project manager. The Public Purpose Fund Administrator  shall act
+as the sustainable energy project manager in any utility service territory that is not served by another
+sustainable energy project manager. ]
+(5) The director shall establish  a sustainable energy project manager certification program.
+However, [ the Public Purpose Fund Administrator or ] a  consumer-owned utility is not required to
+obtain a sustainable energy project  manager certificate[  and the Public Purpose Fund Administrator
+is not subject to any qualifications established  by the director for a sustainable energy project
+manager].
+SECTION 14.
+ ORS 470.550 is amended to read:
+470.550. (1) Unless the sustainable energy project manager is [ the Public Purpose  Fund Admin-
+istrator or ] a consumer-owned  utility, the certification of a sustainable energy project manager shall
+be for a five-year term. The Director of the State Department of Energy shall  issue the sustainable
+energy project manager a certification approval letter  that states any conditions applicable to the
+certification.
+(2) The director may terminate the certification of a sustainable energy project manager for:
+(a) Failure to adequately implement an applicable plan for implementing the energy  efficiency
+and sustainable technology loan program;
+(b) Noncompliance with the  regulatory or statutory requirements of the energy efficiency and
+sustainable technology loan program;
+(c) Failure to meet any sustainable energy project manager criteria established by the  director;
+or
+(d) Failure to perform other certification conditions.
+SECTION 15.
+ ORS 470.555 is amended to read:
+470.555. [ (1) The Public Purpose  Fund Administrator shall be the sustainable energy project
+manager for investor-owned electric utilities. The Public Purpose Fund Administrator  shall inform the
+Public Utility Commission and the State Department of  Energy of the activities of the administrator
+by filing a yearly action plan and an end-of-year report with the commission and the department. ]
+[(2)] (1) An investor-owned electric utility or  gas utility may act as a sustainable energy
+project manager for the utility service  territory serviced by the utility[  or may contract with the
+Public Purpose Fund Administrator to act as the sustainable energy project  manager on behalf of the
+utility].
+[(3)] (2) A consumer-owned utility shall be the sustainable  energy project manager for the utility
+service territory serviced by the utility if the utility agrees to promote  energy efficiency and
+sustainable technology loans as part of an energy efficiency or renewable energy program offered
+by the utility. A consumer-owned utility may  conduct energy efficiency and renewable energy pro-
+grams within the utility service territory of the utility regardless  of whether the utility service
+territory  is  served by an energy efficiency and sustainable technology loan program. A consumer-
+owned utility may decline to  participate in the energy efficiency and sustainable technology loan
+program.
+[(4)] (3) If  a customer is served by both a gas utility and an electric utility that have energy
+efficiency and sustainable technology loan programs, the utility  that supplies the customer’s primary
+source of heat for the property shall supply loan program services for that customer.
+[(5)] (4) The existence of an energy efficiency and sustainable technology loan program,  or the
+appointment of a sustainable energy project manager, in a utility service  territory does not prevent
+a consumer-owned utility from conducting an energy efficiency or renewable  energy program offered
+by the utility. If the  consumer-owned utility declines to serve as a sustainable energy project man-
+ager for the utility service territory, the utility may:
+(a) Continue with existing utility services and policies; or
+(b) Work  with the Director of the State Department of Energy to solicit and select a qualified
+entity to serve as the sustainable energy project manager as described in ORS 470.535 and 470.540.
+[(6)] (5) Subject to approval by  the director, a sustainable energy project manager may contract
+with a qualified third party to assist the sustainable energy project manager in  serving a utility
+service territory. If a utility service territory is served by a sustainable  energy project manager, the
+appointment of additional sustainable energy project  managers may be made only by entering into
+a subcontract approved by the existing sustainable energy  project manager. If the third party is
+acting as a financier, the third party is not  required to comply with laws regulating utilities based
+on the actions of the third party as a financier. The sustainable energy  project manager may enter
+into agreements  with trade associations and other public and private entities for the promotion or
+marketing of the energy efficiency and sustainable technology loan program.
+[(7)] (6) The [ Public Purpose Fund Administrator and ] sustainable energy project managers  shall
+cooperate with, and coordinate their  outreach and promotional efforts with, local utilities and other
+stakeholders to promote energy efficiency  and renewable energy and to use the customer contacts,
+resources and capacity  of the utilities to engage and inform utility customers about the energy ef-
+ficiency and sustainable technology loan program. The  [ Public Purpose Fund Administrator and ]
+sustainable energy project managers shall coordinate with gas utilities regarding  any changes to a
+gas pipeline and with electric utilities regarding electric charging or  any changes to electrical
+connections that are external to a structure. The  [ Public Purpose Fund Administrator and ]
+sustainable energy project managers shall coordinate  with a gas utility regarding the installation
+of appliances used for space heating, water heating and compressed natural gas refueling.
+SECTION 16.
+ ORS 470.560 is amended to read:
+470.560. (1) The State Department of Energy shall  adopt rules establishing certification stan-
+dards for primary contractors participating in the  construction of small scale local energy projects
+financed through the  energy efficiency and sustainable technology loan program. The department
+shall design the  standards to ensure that the project work performed by a primary contractor
+holding the certification and all the primary  contractor’s subcontractors is of high quality and will
+result in a high degree of customer satisfaction.
+(2) The certification  standards established by the department must, at a minimum, require that
+the primary contractor:
+(a) Prove that the primary contractor and  the primary contractor’s subcontractors have suffi-
+cient skill to successfully install energy efficiency, renewable energy or weatherization projects.
+(b) Not be  a contractor listed by the Commissioner of the Bureau of Labor and Industries under
+ORS 279C.860 as ineligible to receive a contract or subcontract for public works.
+(c) Be an equal opportunity employer or small business or be a disadvantaged  business enter-
+prise, a minority-owned business, a woman-owned business,  a veteran-owned business or an emerging
+small business, as those terms are defined in ORS 200.005.
+(d) Demonstrate a history of compliance with the rules and other requirements of the  Con-
+struction Contractors Board and of the Workers’ Compensation Division and the Occupational
+Safety and Health Division of the Department of Consumer and Business Services.
+(e) Employ at least 80 percent of employees  used for energy efficiency and sustainable technol-
+ogy loan program projects from the  local work force, if a sufficient supply of skilled workers is
+available locally.
+(f) Demonstrate a history of compliance with federal and state wage and hour laws.
+(g) Pay wages to employees used for energy efficiency and  sustainable technology loan program
+projects at a rate equal to at least 180 percent of the state minimum wage.
+[(3) The State Department of Energy shall consult  with the Public Purpose Fund Administrator
+and utilities when developing certification standards for primary contractors. ]
+[(4)] (3) The Construction Contractors Board may issue a qualifying primary contractor a certi-
+fication authorizing the primary contractor to  participate in the construction of small scale local
+energy projects financed through  the energy efficiency and sustainable technology loan program. A
+primary contractor seeking certification shall apply to the board as provided under ORS 701.119.
+[(5)] (4) The State Department of Energy shall identify certified primary contractors that provide
+employees with health insurance benefits as preferred service providers  and may take other actions
+as practicable to encourage certified primary contractors to  provide employees with health insur-
+ance benefits.
+SECTION 17.
+ ORS 470.815 is amended to read:
+470.815. (1) School districts that participate in the clean energy deployment program established
+in ORS 470.810 may finance projects to:
+(a) Weatherize, upgrade and retrofit kindergarten through grade 12 public schools;
+(b) Retrofit school bus fleets to operate on compressed natural gas or other alternative  fuels
+such as propane or to operate with high-efficiency types of engines such as hybrid electric engines;
+or
+(c) Replace school bus fleets with  school buses that operate on compressed natural gas or other
+alternative fuels such as propane or that operate with high-efficiency types of engines such as hybrid
+electric engines.
+(2) The projects described in  subsection (1) of this section shall be designed to improve energy
+efficiency, decrease fuel costs, increase use of alternative fuels and decrease  emissions of air con-
+taminants.
+(3) School districts may finance the projects described in subsection (1) of this section by:
+(a) Paying directly for the projects;
+(b) Receiving lower  interest loans from the Clean Energy Deployment Fund or the Small Scale
+Local Energy Project Loan Fund, supported by:
+(A) Grant moneys from the Jobs, Energy and Schools Fund;
+[(B) Public purpose charges  directed to a school district in areas served by investor-owned utilities
+under ORS 757.612; ]
+[(C)] (B) Qualified Energy Conservation  Bonds issued under the Energy Improvement and Ex-
+tension Act of 2008 or other federal loan programs; or
+[(D)] (C) Revenues generated by the savings in energy costs resulting from  the energy efficiency
+improvements;
+(c) Issuing general  obligation bonds, subject to the bond election requirements under ORS
+328.210; or
+(d) Using any other source of moneys.
+SECTION 18.
+ ORS 757.053 is amended to read:
+757.053. Notwithstanding the specific  requirements imposed on an electric company by ORS
+469.631 to 469.645  and 469.860 to 469.900, an electric company meets the requirements of ORS
+469.631 to 469.645 and 469.860 to 469.900 if the electric company[ :]
+[(1) Meets the public purpose expenditure standard established under ORS 757.612; and ]
+[(2)] plans for and pursues cost-effective energy efficiency  and demand response resources as
+required under ORS 757.054.
+SECTION 19.  Section 3, chapter 547, Oregon Laws 2021, is amended to read:
+Sec. 3.  (1) As used in this section:
+(a) “Single contiguous area” includes an area of land crossed by a public or railroad  right of
+way, but does not include infrastructure facilities located within the  public or railroad right of way
+for purposes of determining whether the single contiguous area of land constitutes a site.
+(b) “Site” means:
+(A) Buildings and related structures that are interconnected by facilities  owned by a single re-
+tail electricity consumer and that are served through a single electric meter;
+(B) A single contiguous area of land  containing buildings or other structures within which each
+building or structure is no more than 1,000 feet from at least one  other building or structure, if the
+buildings and structures and the land containing  and connecting the buildings and structures are
+all owned by a single retail electricity consumer, either directly or through a wholly owned subsid-
+iary, that is billed for electricity use at the buildings and structures; or
+(C) For  any single retail electricity consumer, each account of the retail electricity consumer
+that has exceeded 4,000 kilowatts at least twice within  the most recent 13-month period and for
+which the retail electricity consumer maintains a load factor  of 80 percent or greater, if the com-
+bined electricity usage across all  of the accounts described in this subparagraph, in the aggregate,
+equals 100 average megawatts or more in a calendar year.
+(2) For the period beginning on  [ the effective date of this 2021 Act ] September 25, 2021,  and
+ending December 31, 2025, a retail electricity consumer that uses more than one average megawatt
+of electricity at any site in the prior year may not be charged an amount in  rates pursuant to ORS
+757.054 (4) that exceeds 1.7  percent of the total revenue received from the sale of electricity services
+to the site from any source.
+(3) For the period beginning January 1, 2026, and ending December 31, 2035, the [ combined] an-
+nual amount charged under ORS 757.054 [ and 757.612] to a retail  electricity consumer that uses
+more than one average megawatt and less than 10 average megawatts  of electricity at any site in
+the prior year may not exceed $250,000.
+(4)(a) For the period beginning January 1,  2026, and ending December 31, 2030, the [ combined]
+annual amount charged under ORS 757.054 [ and 757.612] to a retail electricity  consumer that uses
+more than 10 average megawatts of electricity at any site in the prior year may not exceed  $4
+million.
+(b) For the period beginning January 1, 2031, and ending December 31, 2035, the [ combined] an-
+nual amount charged under ORS  757.054 [ and 757.612] to a retail electricity consumer that uses
+more than 10 average megawatts of electricity at any site  in the prior year may not exceed $4.5
+million.
+SECTION 20.
+ ORS 757.247 is amended to read:
+757.247. (1) The Public  Utility Commission may authorize a public utility, upon application of the
+utility, to file and place into effect a tariff schedule establishing rates  or charges for the cost of
+energy resource measures provided to an individual property owner or customer pursuant to  an
+agreement entered into between the individual property owner or customer and the public utility.
+Energy resource measures provided under this section may include:
+(a) The installation of renewable energy generation facilities on  the property of property owners
+or the premises of customers;
+(b) The implementation of energy  conservation measures, including measures that are not cost-
+effective;
+(c) The installation of equipment or devices or the implementation of measures that enable de-
+mand reduction, peak load reduction, improved integration of renewable energy generation or  more
+effective utilization of energy resources;
+(d) Loans for the purposes described in paragraphs (a) to (c) of this subsection; and
+(e) Direct payments to third parties for the purposes  described in paragraphs (a) to (c) of this
+subsection.
+(2) Subject to the agreement entered into between the  individual property owner or customer
+and the public utility, a tariff  schedule placed into effect under this section may include provisions
+for:
+(a) The payment of the rates or charges over a period of time;
+(b) Except as provided in subsection (5) of this section, a  reasonable rate of return on any in-
+vestment made by the public utility;
+(c) The  application of any payment obligation to successive owners of the property to which the
+energy resource measure is attached or to successive customers located at the premises to which
+the energy resource measure is attached; and
+(d) The application of the payment obligation to the current property owner or customer alone,
+secured by methods agreed to by the property owner or customer and the public utility.
+(3) Application of a tariff schedule under this section is subject to approval by the commission.
+(4) If a payment obligation applies to successive property owners or customers as described  in
+subsection (2)(c) of this section, a public utility shall record  a notice of the payment obligation in
+the records maintained by  the county clerk under ORS 205.130. The commission may prescribe by
+rule other methods by which the public utility shall  notify property owners or customers of such
+payment obligations.
+(5) A public utility may use  moneys obtained through a rate established under ORS 757.603 (3)(a)
+to provide a renewable energy generation facility to a property owner or customer under this sec-
+tion. A public utility may not charge interest  to a property owner or customer for a renewable en-
+ergy generation facility acquired with moneys obtained through a rate established under  ORS
+757.603 (3)(a).
+(6) Agreements entered into and tariff schedules placed into  effect under this section are not
+subject to ORS 470.500 to 470.710[ ,] or 757.054[ or 757.612 ].
+SECTION 21.
+ ORS 757.365 is amended to read:
+757.365. (1) The Public Utility Commission shall establish a  pilot program for each electric
+company to demonstrate the  use and effectiveness of volumetric incentive rates and payments for
+electricity or for the nonenergy  attributes of electricity, or both, from solar photovoltaic energy
+systems that are permanently installed in this state by retail electricity  consumers and that first
+become operational after the program begins. The cumulative nameplate capacity  of the qualifying
+systems enrolled in all of the pilot programs may not exceed 27.5 megawatts of  alternating current.
+Qualifying systems enrolled in the pilot program may not have nameplate generating  capacity
+greater than 500 kilowatts.
+(2) The commission  by rule shall adopt requirements for the pilot programs described in sub-
+section (1) of this section. Each electric company shall file for commission  approval tariff schedules
+for the pilot programs that conform to the requirements.
+(3) The commission may establish incentive rates for the pilot programs to enable the  develop-
+ment of the most efficient solar photovoltaic energy systems.
+(4) A  retail electricity consumer participating in a pilot program may receive payments based
+on electricity generated from solar photovoltaic energy system output for  15 years from the
+consumer’s date of enrollment in the program, at rates  or through a rate formula in a tariff schedule
+established at the time of enrollment, or at rates otherwise established at the time of  enrollment.
+The consumer thereafter may receive payments based upon electricity generated from the  qualifying
+system at a rate equal to the resource value.
+(5) The commission may adjust the tariff schedule as needed for new pilot program  participants
+for the purpose of meeting the goal  established in subsection (1) of this section. Once a retail elec-
+tricity consumer is enrolled in a program, the rates or rate formula for determining payments  to the
+consumer may not be modified.
+(6) The  commission may adopt and adjust a percentage goal for capacity deployed by residential
+and small commercial qualifying systems based upon the  costs of the energy generated, the feasi-
+bility of attaining the goal and other factors. For purposes of attaining the goal described in this
+subsection, the commission shall require 2.5 megawatts of  alternating current from the cumulative
+nameplate capacity of qualifying systems to be generated by  individual systems with a nameplate
+generating capacity between five and 100 kilowatts.
+(7) The commission may establish total generator nameplate capacity limits for  an electric
+company so that  the rate impact of the pilot program for any customer class does not exceed 0.25
+percent of the electric company’s revenue requirement for the class in any year.
+(8) Ownership of renewable energy certificates established under ORS 469A.130 that are  asso-
+ciated with renewable energy generation under the pilot programs must be  transferred to the elec-
+tric  company  and may be used to comply with the renewable portfolio standard described in ORS
+469A.052 or 469A.055.
+(9) To the extent that rates  paid under a pilot program exceed the resource value, qualifying
+systems participating in the pilot programs are not eligible for [ expenditures under  ORS 757.612
+(3)(b)(B) (2019 Edition) or ] tax credits under ORS 469B.100 to 469B.118 or 469B.130 to 469B.169.
+(10) All prudently incurred costs associated with compliance  with this section are recoverable
+in the rates of an electric company.
+(11) The commission shall advise and assist  the owners and operators of qualifying systems in
+identifying and using grants, incentive moneys, federal funding and  other sources of noninvestment
+financial support for the construction and operation of qualifying systems.
+(12) The pilot programs described  in subsection (1) of this section close to new participants on
+the earlier of:
+(a) March 31, 2016; or
+(b) The date the cumulative nameplate capacity  of solar photovoltaic energy systems that have
+been permanently installed by retail electricity consumers under the pilot programs equals  27.5
+megawatts of alternating current.
+(13) The  commission shall submit a report to the Legislative Assembly by January 1 of each
+odd-numbered year. The report must evaluate the effectiveness  of the pilot programs described in
+subsection (1) of this section compared to  the effectiveness of [ expenditures under ORS 757.612
+(3)(b)(B) (2019 Edition) or ] tax credits under ORS 469B.100 to 469B.118 or 469B.130 to 469B.169 for
+promoting the use of solar photovoltaic energy systems and reducing system costs.  The report must
+also estimate the cost of the program to retail electricity consumers and the resource value of solar
+energy.
+SECTION 22.
+ ORS 757.617 is amended to read:
+757.617. [(1) The Public Utility Commission and the State Department of  Energy jointly shall select
+an independent nongovernmental entity to prepare  a biennial report to the Legislative Assembly de-
+scribing program spending and  results for public purpose requirements undertaken pursuant to ORS
+757.612.]
+[(2)] The Housing and Community Services Department shall prepare a  biennial report to the
+Legislative Assembly describing program spending and needs for low-income bill assistance.
+SECTION 23.  ORS 757.649 is amended to read:
+757.649. (1)(a) A person or other entity shall not act as an electricity service supplier unless  the
+person or entity is certified by the Public Utility Commission. The commission, by rule, shall es-
+tablish standards for certification of persons or other  entities as electricity service suppliers in this
+state. The rules shall, at a minimum, address:
+(A) The ability of the person  or entity to meet the person’s or entity’s obligation to provide
+electricity services pursuant to direct access; and
+(B) The ability of the person or entity to comply with applicable consumer protection laws.
+(b) The commission may require an electricity service supplier to provide a bond or other  se-
+curity.
+(c) The commission may establish a fee, not to exceed $500, for initial  certification and annual
+recertification of electricity service suppliers.
+(d) The commission, at any time, may revoke  an electricity service supplier’s certification for
+failure to comply with applicable statutes and rules.
+[(e) The commission may require an electricity service supplier  to provide information necessary to
+ensure compliance with ORS 757.612. The commission  shall ensure the privacy of all information and
+the protection of any proprietary information provided. ]
+[(f)] (e) The commission shall require  an electricity service supplier to publicly disclose a sum-
+mary of the aggregated energy supply  mix and associated emissions of the power sources that serve
+the direct  access retail electricity consumers of the electricity service supplier, or such other ag-
+gregated information comparable to information provided by electric  companies to retail electricity
+consumers as the commission may require.
+(2) Every electric utility shall maintain the integrity of its transmission facilities  and distrib-
+ution system and provide safe,  reliable service to all retail electricity consumers. Nothing in ORS
+757.600 to 757.667 or 757.669 to 757.687 shall  reduce or diminish the statutory or contractual obli-
+gations of electric utilities to maintain the safety and reliability of  their transmission facilities and
+distribution system and other infrastructure and equipment used to deliver electricity.
+(3) The commission for electric companies, or the governing body  for other electric utilities,
+shall adopt rules, ordinances, policies and service quality standards  designed to maintain a reliable,
+safe and efficient distribution system.  The commission shall regulate electrical safety regarding
+generation, transmission, substation and distribution facilities for electric utilities  and other elec-
+trical system owners and operators as provided under ORS 757.035.
+(4) Every bill to a  direct access retail electricity consumer from an electricity service supplier
+shall contain at least:
+(a) The rate and  amount due for each service or product that the retail electricity consumer is
+purchasing and other price  information necessary to facilitate direct access, as determined by the
+commission;
+(b) The rates and amounts of state and local taxes or fees, if any, imposed on the retail  elec-
+tricity  consumer;
+(c) The amount of any public purpose charge or credit;
+(d) The amount of any transition charge or transition credit; and
+(e) Power source and environmental impact information necessary to ensure that  all consumers
+have useful, reliable and  necessary information to exercise informed choice, as determined by the
+commission.
+(5)(a) A retail electricity consumer of an electric company  shall receive, upon request, a sepa-
+rate bill from every individual electricity  service supplier that provides products or services to the
+retail electricity consumer. If a retail electricity consumer of an electric company does  not request
+separate bills,  or a consolidated bill from an electricity service supplier as provided in paragraph
+(c) of this subsection, the electric company shall consolidate the bills for all electricity services  into
+a single statement, and electricity service suppliers shall provide to the electric company the infor-
+mation necessary to prepare a consolidated statement.
+(b) The requirement for bill consolidation by an electric company shall continue through  De-
+cember 31, 2001, after which time the commission may waive the requirement if  the waiver results
+in effective billing procedures for retail electricity consumers.
+(c) Upon the request of a retail electricity consumer of  an electric company, an electricity ser-
+vice supplier shall consolidate the bills for all electricity  services into a single statement, and
+electric utilities and other electricity service suppliers shall provide  to the billing electricity service
+supplier any information necessary to prepare a consolidated statement.
+(d) For retail electricity consumers  of an electric company, the commission shall adopt by rule
+provisions relating to the failure of a consumer to make  full payment on a consolidated bill. The
+rules shall address collection of payments, service disconnection and reconnection,  and the allo-
+cation of costs associated with collection, disconnection and reconnection. A distribution  utility
+shall be solely responsible for actual disconnection and reconnection.
+SECTION 24.
+ ORS 757.659 is amended to read:
+757.659. According to the applicable provisions of ORS  756.060 and ORS chapter 183, the Public
+Utility Commission shall adopt such rules as  are necessary to implement ORS 757.600 to 757.667.
+Rules adopted by the commission shall address at least the following:
+(1) Requirements and methodologies for  each electric company to provide unbundled rates and
+services pursuant to ORS 757.642.
+(2) Requirements for each electric company allowing aggregation of electricity  loads pursuant
+to ORS 757.627, which may include aggregation of demand for other services available under direct
+access.
+(3) Requirements for consumer protection. Consumer  protection rules adopted by the commission
+that relate to electricity service suppliers  shall be applicable throughout this state and shall, at a
+minimum, contain provisions for the disclosure of  price, power source and environmental impact in
+contract offers and marketing information.
+(4) Market valuation methodologies for determining the amount and  recovery of the costs of
+uneconomic utility investment and the amount of and credit for economic utility investment.
+(5) Requirements for each electric company to offer a portfolio of rate options under ORS
+757.603.
+(6) The method of determining a default supplier for  those consumers who are not eligible to
+participate in a portfolio program under ORS 757.603 in a manner that provides  for viable competi-
+tion among electricity service  suppliers and among power generation companies. The commission
+may condition the use of a default service option by requiring reasonable  notice and commitment
+from a consumer who intends to use the default service option in nonemergency situations.
+(7) Requirements for market structure described in ORS 757.646.
+[(8) Requirements for public purpose charges and credits under ORS 757.612. ]
+[(9)] (8) Requirements for meters, metering services, billing and collection services, and customer
+response functions.
+SECTION 25.
+ ORS 757.698 is amended to read:
+757.698. (1) An electric  company, as defined in ORS 757.600, or Oregon Community Power shall
+collect funds for low-income electric bill payment and crisis assistance in an amount determined by
+the Public Utility Commission. The commission shall:
+(a) Establish the amount to be collected  and rates to be charged by each electric company from
+its customers, including customers  receiving electricity from other sources, such that the forecasted
+collection by all electric companies in a calendar year is at least $20 million.
+(b) Adjust the rates if forecasted collections or actual collections are less than $20 million in
+any calendar year but shall not otherwise adjust the rates once set.
+(c) Ensure that no customer pays more than $500 per month  per customer site for low-income
+electric bill payment and crisis assistance.
+(2) Funds collected by an electric company  or Oregon Community Power under this section must
+be:
+(a) Paid into the Housing and Community Services  Department Low-Income Electric Bill Pay-
+ment Assistance Fund established by ORS 456.587 [ (2)];
+(b) Used by the Housing and Community Services Department solely for purposes related to
+low-income electric bill payment and crisis assistance and for the Housing and  Community Services
+Department’s cost of administering this section; and
+(c) Expended in the  service area of the electric company or Oregon Community Power from
+which the funds are collected.
+(3) The  Housing and Community Services Department shall determine the manner in which funds
+collected under this section are allocated by the department to energy assistance program  providers
+for the purpose of providing low-income electric bill payment and crisis assistance. However,  the
+department shall:
+(a) In consultation with electric companies, investigate and  may implement alternative delivery
+models to effectively reduce service disconnections and related costs to  customers and electric
+companies; and
+(b) Direct priority assistance to low-income customers who  are in danger of having their elec-
+tricity service disconnected.
+(4) The department shall maintain records and provide those records upon request  to an electric
+company, Oregon Community Power and the  Citizens’ Utility Board established under ORS chapter
+774 on a quarterly basis. Records maintained must include  the numbers of low-income customers
+served, the average amounts  paid and the type of assistance provided. Electric companies and
+Oregon Community Power shall, if requested, provide the department  with aggregate data relating
+to low-income customers served on a quarterly basis to support program development.
+(5) Interest on moneys deposited in  the Housing and Community Services Department Low-
+Income Electric Bill  Payment Assistance Fund established by ORS 456.587 [ (2)] may be used to
+provide bill payment and crisis assistance to customers whose primary source of heat is not elec-
+tricity.
+(6) Notwithstanding ORS 757.310, the commission  may allow an electric company or Oregon
+Community Power to provide reduced rates or other  bill payment or crisis assistance or low-income
+program assistance to a low-income household eligible for assistance under the federal Low Income
+Home Energy Assistance Act of 1981, as amended and in effect on July 23, 1999.
+SECTION 26.
+ ORS 757.746 is amended to read:
+757.746. (1) If  the Public Utility Commission requires funds collected pursuant to ORS
+757.054[,] or through natural gas tariffs [ or through public purpose charges pursuant to ORS
+757.612] to be paid to a nongovernmental entity, the entity shall:
+(a) Include on the entity’s board  of directors an ex officio member designated by the commission,
+who shall also serve on the entity’s nominating committee for filling board vacancies.
+(b) Require the entity’s officers and directors to provide an annual  disclosure of economic in-
+terest to be filed  with the commission on or prior to April 15 of each calendar year for public review
+in a form similar to the statement of economic interest required for  public officials under ORS
+244.060.
+(c) Require the entity’s officers and directors to  declare actual and potential conflicts of interest
+at regular meetings of the entity’s governing body when such conflicts arise, and require an  officer
+or director to abstain from participating in any discussion or voting on any item where  that officer
+or director has  an actual conflict of interest. For the purposes of this paragraph, “actual conflict
+of interest” and “potential conflict of interest” have the meanings given  those terms in ORS 244.020.
+(d) Annually, arrange for an independent auditor  to audit the entity’s financial statements, and
+direct the auditor to file an audit opinion with the commission for public review.
+(e) With public utilities,  jointly develop public utility-specific budgets, action plans and agree-
+ments that detail the entity’s public utility-specific planned  activities, resources and technologies
+pursuant to ORS 757.054[  and 757.612 (3)(b)(B) ], including coordinated activities that require joint
+investment and deployment. Each action  plan must reflect stakeholder feedback gathered through
+a public process  managed by the entity and the relevant public utility as overseen by the commis-
+sion.
+(f) File with the  commission the entity’s budget, action plan and quarterly and annual reports
+for public review. The entity’s budget and action plan  must include the budget and action plans
+jointly developed with public utilities under paragraph (e) of this subsection.
+(g) At least once every five years,  contract for an independent management evaluation to review
+the entity’s operations,  efficiency and effectiveness, and direct the independent reviewer to file a
+report with the commission for public review.
+(2) The commission may remove  from the board of directors of a nongovernmental entity an of-
+ficer or director who fails to provide an annual disclosure of  economic interest, or who fails to de-
+clare an actual or potential conflict of interest, as described in this section, if the failure is
+connected to the allocation or expenditure of funds collected pursuant to  ORS 757.054[,] or through
+natural gas tariffs [ or through  public purpose charges pursuant to ORS 757.612 ] and paid to the en-
+tity.
+SECTION 27.
+ ORS 757.747 is amended to read:
+757.747. (1) As used in this section, “environmental justice” means the equal treatment,  pro-
+tection from environmental and health  hazards, and meaningful involvement of environmental justice
+communities in the development, implementation  and enforcement of regulations and policies that
+affect the environment in which people live, work, learn, practice spirituality and play.
+(2) The Public Utility Commission shall  establish, and update no less than once every four years,
+equity metrics for the purpose of assessing, addressing and creating accountability for environmental
+justice in the expenditure and investment of funds collected pursuant to ORS 757.054[ ,] or through
+natural gas tariffs [ or through public purpose charges pursuant to ORS  757.612] and paid to a non-
+governmental entity. The equity metrics and each update required by this section must  reflect
+feedback gathered through a public process that is  managed by the commission and that, at a min-
+imum, includes representatives of environmental justice communities.
+(3) Each nongovernmental entity that  is paid funds collected pursuant to ORS 757.054[ ,] or
+through natural gas tariffs  [or through public purpose charges pursuant to ORS 757.612 ] shall, as part
+of the entity’s filings required under ORS 757.746 (1)(f), report on the entity’s progress in  achieving
+the equity metrics established pursuant to this section.
+SECTION 28.
+ ORS 757.872 is amended to read:
+757.872. (1) Any equity of  the incumbent utility, any electric utility assets of the incumbent
+utility or any combination of  equity and assets of the incumbent utility that Oregon Community
+Power acquires under ORS 757.812 to 757.950 shall be held  in trust by Oregon Community Power,
+acting as a trustee, for the exclusive purpose of carrying out the powers, rights and privileges of
+Oregon Community Power under ORS 757.812 to 757.950 for the benefit  of the retail electricity
+consumers of Oregon Community Power. Notwithstanding any other  provision of law, retail elec-
+tricity consumers of  Oregon Community Power may not pursue any judicial remedy in any court of
+this state for any action of Oregon Community Power, except as provided in ORS  757.812 to 757.950.
+(2) The State of Oregon declares  that it has no proprietary interest in Oregon Community Power
+or in any tangible or intangible property of any form owned or acquired by Oregon Community
+Power. The state disclaims any right to reclaim any contributions  made to Oregon Community
+Power under ORS 757.812 to 757.950.
+(3) Except as provided in ORS  757.812 to 757.950, Oregon Community Power may not receive
+any moneys from the State of Oregon other than:
+(a) Electric utility operational revenues;
+[(b) Public purpose charge revenues under ORS 757.612; ]
+[(c)] (b) Nonrecourse bond proceeds or proceeds from any other nonrecourse borrowing; or
+[(d)] (c) Loans, grants, payments or other assistance that any local  government as defined in
+ORS 174.116 would be eligible to receive.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 297.300, ORS 317A.100, ORS 456.587, ORS 458.395, ORS 469A.200, ORS 469B.460, ORS 469B.480, ORS 470.050, ORS 470.510, ORS 470.515, ORS 470.530, ORS 470.550, ORS 470.555, ORS 470.560, ORS 470.815, ORS 757.053, ORS 757.247, ORS 757.365, ORS 757.612, ORS 757.617, ORS 757.649, ORS 757.659, ORS 757.698, ORS 757.746, ORS 757.747, ORS 757.872
+- From bill text (Introduced version): ORS 174.116, ORS 174.117, ORS 183.413, ORS 200.005, ORS 205.130, ORS 244.020, ORS 244.060, ORS 279C.860, ORS 284.754, ORS 297.300, ORS 297.405, ORS 307.872, ORS 314.610, ORS 317.010, ORS 317A.100, ORS 317A.102, ORS 317A.103, ORS 317A.106, ORS 317A.119, ORS 317A.128, ORS 319.010, ORS 319.530, ORS 320.305, ORS 320.400, ORS 320.415, ORS 328.210, ORS 403.200, ORS 409.801, ORS 414.025, ORS 414.855, ORS 414.880, ORS 431A.430, ORS 443.305, ORS 443.400, ORS 456.587, ORS 458.395, ORS 458.505, ORS 469.040, ORS 469.421, ORS 469.631, ORS 469A.005, ORS 469A.052, ORS 469A.130, ORS 469A.180, ORS 469A.200, ORS 469A.400, ORS 469B.100, ORS 469B.460, ORS 469B.466, ORS 469B.480, ORS 470.050, ORS 470.070, ORS 470.130, ORS 470.300, ORS 470.500, ORS 470.510, ORS 470.515, ORS 470.530, ORS 470.535, ORS 470.540, ORS 470.550, ORS 470.555, ORS 470.560, ORS 470.570, ORS 470.575, ORS 470.580, ORS 470.585, ORS 470.700, ORS 470.810, ORS 470.815, ORS 471.001, ORS 471.023, ORS 471.750, ORS 475C.005, ORS 475C.009, ORS 475C.453, ORS 475C.670, ORS 62.803, ORS 701.119, ORS 731.142, ORS 731.574, ORS 731.824, ORS 731.828, ORS 731.854, ORS 731.859, ORS 735.465, ORS 756.060, ORS 756.310, ORS 757.035, ORS 757.053, ORS 757.054, ORS 757.247, ORS 757.310, ORS 757.365, ORS 757.600, ORS 757.603, ORS 757.612, ORS 757.617, ORS 757.627, ORS 757.642, ORS 757.646, ORS 757.649, ORS 757.659, ORS 757.698, ORS 757.736, ORS 757.746, ORS 757.747, ORS 757.812, ORS 757.872, ORS 758.400, ORS 759.425, ORS 759.430, ORS 801.360, ORS 822.020, ORS 90.320, ORS 90.355
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `662b8339a9da6aff61d1f87c5d7bf4102616dbbab13ae71a4464a683189150c7` (snapshot `_meta/snapshots/measure-2025r1-hb3620-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3620/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3620` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

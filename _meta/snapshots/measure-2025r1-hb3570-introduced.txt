@@ -1,0 +1,251 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3570
+Sponsored by Representatives OWENS, HELM
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would fund  an update by Business Oregon of the infrastructure that is needed
+for new housing. The Act would also have the agency draft two reports,  one on the update and one
+on water-related works. (Flesch Readability Score: 60.0).
+Appropriates moneys to the Oregon  Business Development Department to update the inventory
+of community infrastructure project needs related  to the production of new housing and prepare
+reports on the inventory update and the  processes and programs for maintaining inventories of, and
+providing funding for, drinking water, wastewater and stormwater infrastructure projects.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to community infrastructure inventory; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Oregon Business  Development Department, for the biennium ending June 30,
+2025, out of the General Fund, the amount of $  to carry out the purposes  of sections
+2 and 3 of this 2025 Act.
+SECTION 2. (1) The Oregon Business Development Department shall:
+(a) Conduct an updated inventory of infrastructure and  community facilities to document
+the short-  and long-term funding needs in communities for priority infrastructure projects
+related to the  production of new housing units, including but not limited to drinking water,
+wastewater and stormwater infrastructure. The purpose of  the inventory is to determine
+funding levels for existing state agency funding  programs and assist in potential
+prioritization of funding requests.
+(b) Prepare a report that includes:
+(A) A list  of actions and resources necessary to maintain and improve upon the existing
+inventory of infrastructure and community facilities; and
+(B) Recommendations to the Legislative Assembly as to how the updated inventory could
+be used at the  state level to prioritize water-related infrastructure funding requests in an
+equitable manner over time.
+(2) In performing  its duties under subsection (1) of this section, the Oregon Business
+Development Department shall  consult with individuals and entities having relevant knowl-
+edge and representing diverse regions and perspectives, including but not limited to:
+(a) Federally recognized Indian tribes in Oregon;
+(b) State agencies, including but not limited to the Department of Environmental Quality
+and the Oregon Health Authority;
+(c) Regional solutions teams described in ORS 284.754;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4393
+HB 3570
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) Organizations representing cities, counties, special  districts, economic development
+districts as defined in ORS 285B.636 and port districts in Oregon; and
+(e) Any other individuals or entities the Oregon  Business Development Department con-
+siders important to the performance of its duties.
+(3) In developing  the report required under subsection (1)(b) of this section, the Oregon
+Business Development Department shall consider  compatibility and opportunities to coordi-
+nate with other efforts to collect or make accessible water-related data,  including but not
+limited to the Oregon Water Data Portal under development by the Department of  Environ-
+mental Quality and the Oregon Water Map Viewer developed and maintained  by the Water
+Resources Department and the Institute for Natural Resources established  under ORS
+352.808.
+(4) The Oregon Business Development Department  may fund a staff position, contract
+with qualified entities or enter  into an intergovernmental agreement to perform its duties
+under this section.
+(5) The Oregon Business Development Department  shall submit, in the manner provided
+by ORS 192.245, the updated inventory and report required under subsection (1) of  this sec-
+tion to the interim committees of the Legislative  Assembly related to water no later than
+September 15, 2025.
+SECTION 3.
+(1) The Oregon Business Development Department shall prepare a  report
+that:
+(a) Describes existing regional and statewide processes used in  this state to update and
+maintain inventories of investment-ready community drinking water,  wastewater and
+stormwater infrastructure projects, both built and natural, including a  description of efforts
+to prioritize needs and requests and the  prioritization criteria used. Examples of such in-
+ventories include the department’s Infrastructure and Community Facilities Inventory.
+(b) Provides an overview of existing  state agency programs that provide grant and loan
+funding for planning and implementation of  community drinking water, wastewater and
+stormwater infrastructure projects, including the following information:
+(A) Where available, the amount of funding available  since 2013 in each program and
+noting where a lack of data about available funding exists;
+(B) To the extent known, the unmet demand for each program;
+(C) Eligibility and prioritization criteria for each program; and
+(D) Coordination activities between agencies to increase accessibility and  navigability of
+funding opportunities.
+(c) Describes federal funding opportunities and requirements that affect  infrastructure
+expenses and affordability.
+(d) Describes current processes by which individual funding requests for community
+drinking water,  wastewater and stormwater infrastructure projects are considered by the
+Legislative Assembly, the amount of funding awarded through these  processes since 2013 and
+how these processes interact with the inventories described in subsection (1)(a) of this  sec-
+tion, state agency funding programs described in  subsection (1)(b) of this section and federal
+funding opportunities described in subsection (1)(c) of this section. Examples  of processes
+include direct allocations, capital construction requests and legislative bills.
+(e) Provides a high-level overview of previously documented barriers faced by communi-
+ties in accessing and managing available state and federal funding opportunities.
+[2]
+HB 3570
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+(f) Provides a high-level overview of how funding sources for infrastructure projects may
+affect the  affordability of community drinking water, wastewater and stormwater services
+for ratepayers in Oregon.
+(g) Where available, provides  examples of at least two processes used in this state to
+inventory and prioritize funding needs and requests  for other types of infrastructure, in-
+cluding an overview of documented benefits or drawbacks of the process used.
+(h) Provides examples of at least  three processes used in other states to inventory and
+prioritize funding  needs and requests for drinking water, wastewater and stormwater
+infrastructure as well as novel approaches to fund projects,  with an emphasis on innovative
+funding mechanisms and best practices to improve coordination, navigability and  accessibil-
+ity of funding opportunities.
+(2) In  preparing the report required under this section, the Director of the Oregon
+Business Development Department, or the director’s designee, shall:
+(a) Consult with individuals and entities having relevant knowledge and representing  di-
+verse regions and perspectives, including but not limited to:
+(A) Entities that  provide drinking water, wastewater or stormwater management ser-
+vices to communities;
+(B) State agencies with programs  that provide grants or loans for drinking water,
+wastewater and stormwater infrastructure;
+(C) Organizations with experience in providing technical assistance to water and
+wastewater utilities;
+(D) Organizations with experience in  rate assistance or support for low-income drinking
+water, wastewater or stormwater ratepayers; and
+(E) Organizations representing cities, counties, special districts, economic  development
+districts as defined in ORS 285B.636 and port districts in Oregon; and
+(b) Consider  the findings of the report required under section 6, chapter 606, Oregon
+Laws 2023, and avoid duplication of that report to the extent possible.
+(3)(a) On  or before December 30, 2025, the department shall submit, in the manner pro-
+vided by ORS 192.245, a preliminary version  of the report required under this section to the
+interim committees  of the Legislative Assembly related to water. The report shall include
+information that may  inform the composition or focus of a task force on water
+infrastructure funding.
+(b) The department shall submit the final version of the report, in the  manner provided
+by ORS 192.245, to the interim  committees of the Legislative Assembly related to water on
+or before June 30, 2026.
+(4) Upon request, all state agencies shall assist and advise the director, or  the director’s
+designee, in carrying out the duties prescribed under subsections (1) and (2) of this section.
+SECTION 4.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[3]

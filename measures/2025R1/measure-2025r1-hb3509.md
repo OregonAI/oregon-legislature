@@ -1,0 +1,822 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3509
+title: 'HB 3509 (2025R1): Creates the Community Escrow Fund in the State Treasury to hold coordinated
+  care organization restricted reserves.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3509
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3509/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: fc5e85d398c026a1a317fa0ce3ed4a59d4f2180cfb2e3b121c824da04ddde86f
+snapshot_id: measure-2025r1-hb3509-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 279A.250
+  - ORS 413.022
+  - ORS 413.259
+  - ORS 413.550
+  - ORS 414.018
+  - ORS 414.570
+  - ORS 414.572
+  - ORS 414.575
+  - ORS 414.581
+  - ORS 414.584
+  - ORS 414.591
+  - ORS 414.605
+  - ORS 414.766
+  - ORS 415.011
+  - ORS 415.012
+  - ORS 415.056
+  - ORS 415.111
+  - ORS 415.115
+  - ORS 415.204
+  - ORS 415.205
+  - ORS 442.372
+  - ORS 442.373
+  - ORS 678.375
+  - ORS 731.385
+  - ORS 731.504
+  - ORS 731.508
+  - ORS 731.509
+  - ORS 731.554
+  - ORS 731.574
+  - ORS 731.730
+  - ORS 731.988
+  - ORS 732.225
+  - ORS 732.230
+  - ORS 732.235
+  - ORS 732.517
+  - ORS 732.527
+  - ORS 732.531
+  - ORS 732.541
+  - ORS 732.548
+  - ORS 732.549
+  - ORS 732.551
+  - ORS 732.552
+  - ORS 732.553
+  - ORS 732.554
+  - ORS 732.556
+  - ORS 732.558
+  - ORS 732.564
+  - ORS 732.566
+  - ORS 732.567
+  - ORS 732.568
+  - ORS 732.569
+  - ORS 732.574
+  - ORS 732.576
+  - ORS 732.578
+  - ORS 732.592
+  - ORS 733.010
+  - ORS 733.140
+  - ORS 733.510
+  - ORS 733.695
+  - ORS 734.014
+  - ORS 750.045
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3509
+prefix_meaning: House Bill
+catch_line: Creates the Community Escrow Fund in the State Treasury to hold coordinated care organization
+  restricted reserves.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act creates an escrow fund to hold CCO restricted reserves. (Flesch Readability\
+  \ Score: 80.3). \n\tCreates the Community Escrow Fund in the State Treasury to hold coordinated care\
+  \ organization restricted reserves. Allows a coordinated care organization to request from the Oregon\
+  \ Health Authority payments from the fund in amounts needed to pay costs not accounted for in establishing\
+  \ the coordinated care organization's global budget."
+relating_to: Relating to coordinated care organization reserves.
+relating_to_full: Relating to coordinated care organization reserves; creating new provisions; and amending
+  ORS 414.572, 414.591, 415.011, 415.056, 415.115 and 415.204 and section 2, chapter 467, Oregon Laws
+  2021.
+at_the_request_of: null
+lc_number: 4138
+measure_created_date: '2025-02-03T13:07:34'
+measure_modified_date: '2025-02-06T13:22:13'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 43953
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 279A.250
+  - ORS 413.022
+  - ORS 413.259
+  - ORS 413.550
+  - ORS 414.018
+  - ORS 414.570
+  - ORS 414.572
+  - ORS 414.575
+  - ORS 414.581
+  - ORS 414.584
+  - ORS 414.591
+  - ORS 414.605
+  - ORS 414.766
+  - ORS 415.011
+  - ORS 415.012
+  - ORS 415.056
+  - ORS 415.111
+  - ORS 415.115
+  - ORS 415.204
+  - ORS 415.205
+  - ORS 442.372
+  - ORS 442.373
+  - ORS 678.375
+  - ORS 731.385
+  - ORS 731.504
+  - ORS 731.508
+  - ORS 731.509
+  - ORS 731.554
+  - ORS 731.574
+  - ORS 731.730
+  - ORS 731.988
+  - ORS 732.225
+  - ORS 732.230
+  - ORS 732.235
+  - ORS 732.517
+  - ORS 732.527
+  - ORS 732.531
+  - ORS 732.541
+  - ORS 732.548
+  - ORS 732.549
+  - ORS 732.551
+  - ORS 732.552
+  - ORS 732.553
+  - ORS 732.554
+  - ORS 732.556
+  - ORS 732.558
+  - ORS 732.564
+  - ORS 732.566
+  - ORS 732.567
+  - ORS 732.568
+  - ORS 732.569
+  - ORS 732.574
+  - ORS 732.576
+  - ORS 732.578
+  - ORS 732.592
+  - ORS 733.010
+  - ORS 733.140
+  - ORS 733.510
+  - ORS 733.695
+  - ORS 734.014
+  - ORS 750.045
+  from_relating_to_full:
+  - ORS 414.572
+  - ORS 414.591
+  - ORS 415.011
+  - ORS 415.056
+  - ORS 415.115
+  - ORS 415.204
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3509`.
+
+# HB 3509 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3509, 2025 Regular Session (2025R1)
+- **LC number:** 4138
+- **Created:** 2025-02-03T13:07:34
+- **Metadata last modified (upstream):** 2025-02-06T13:22:13
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 43953 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3509/Introduced>.
+
+## Summary
+
+**Catchline:** Creates the Community Escrow Fund in the State Treasury to hold coordinated care organization restricted reserves.
+
+**Relating to:** Relating to coordinated care organization reserves.
+
+Digest: The Act creates an escrow fund to hold CCO restricted reserves. (Flesch Readability Score: 80.3). 
+ Creates the Community Escrow Fund in the State Treasury to hold coordinated care organization restricted reserves. Allows a coordinated care organization to request from the Oregon Health Authority payments from the fund in amounts needed to pay costs not accounted for in establishing the coordinated care organization's global budget.
+
+**RelatingToFull (verbatim upstream field):** Relating to coordinated care organization reserves; creating new provisions; and amending ORS 414.572, 414.591, 415.011, 415.056, 415.115 and 415.204 and section 2, chapter 467, Oregon Laws 2021.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3509
+Sponsored by Representative NELSON
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates an escrow fund to hold CCO restricted reserves.  (Flesch Readability
+Score: 80.3).
+Creates the Community Escrow Fund in the State Treasury to hold coordinated care organiza-
+tion restricted reserves. Allows a coordinated care organization to request from the Oregon  Health
+Authority payments from the fund in amounts needed to pay  costs not accounted for in establishing
+the coordinated care organization’s global budget.
+A BILL FOR AN ACT
+Relating to coordinated care organization reserves; creating new provisions; and amending  ORS
+414.572, 414.591, 415.011, 415.056, 415.115 and 415.204 and section 2, chapter  467, Oregon Laws
+2021.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The  Community Escrow Fund is established in the State Treasury, sep-
+arate and distinct from the General Fund, consisting of moneys allocated to the Community
+Escrow Fund by the Oregon Health Authority in accordance with  section 3 of this 2025 Act.
+Interest earned by  the Community Escrow Fund shall be credited to the fund. Moneys in the
+Community Escrow Fund are continuously appropriated to  the Oregon Health Authority for
+the purposes described in section 2 of this 2025 Act.
+(2) Each coordinated care organization that contracts with the authority shall have a
+designated subaccount within the Community Escrow Fund.
+SECTION 2.
+The Oregon Health  Authority shall adopt by rule criteria for the amount of
+and eligibility for a payment of moneys from the Community Escrow Fund in order to pay
+costs not accounted for in establishing a coordinated care organization’s  global budget. A
+coordinated care organization seeking moneys  from the fund shall make an application to the
+authority in a  form and manner prescribed by the authority. Upon finding that the coordi-
+nated care organization meets the criteria adopted under  this section, the authority shall
+make a payment to the coordinated care organization from the subaccount  designated for
+the coordinated care organization under section 3 of this 2025 Act.
+SECTION 3.
+The Oregon Health Authority shall withhold an amount from each  global
+budget payment made to a coordinated care organization.  The amount withheld shall be paid
+into a subaccount designated for the coordinated care organization  within the Community
+Escrow Fund established under section 1 of this 2025 Act. The amount  withheld shall be
+calculated to achieve, by January 1, 2029, an amount equal to the restricted reserves required
+for the coordinated care organization under ORS 414.572 (1)(b)(A).
+SECTION 4.
+Notwithstanding ORS 414.572 (1)(b)(A), a  coordinated care organization may
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4138
+expend its restricted reserves  for operating expenses up to the total amount withheld from
+the coordinated care organization by the Oregon Health Authority under  section 3 of this
+2025 Act.
+SECTION 5.
+ ORS 414.572 is amended to read:
+414.572. (1) The Oregon Health Authority shall adopt  by rule the qualification criteria and re-
+quirements for a coordinated care organization and shall  integrate the criteria and requirements
+into each contract with a coordinated care organization. Coordinated  care organizations may be
+local, community-based organizations  or statewide organizations with community-based participation
+in governance or any combination of the two. Coordinated care organizations may  contract with
+counties or with other public or private entities to provide services to members. The authority  may
+not contract with only one statewide organization.  A coordinated care organization may be a single
+corporate  structure  or a network of providers organized through contractual relationships. The cri-
+teria and requirements adopted by the authority under this section must include, but are  not limited
+to, a requirement that the coordinated care organization:
+(a) Have  demonstrated experience and a capacity for managing financial risk and establishing
+financial reserves.
+(b) Meet the following minimum financial requirements:
+[(A) Maintain restricted reserves of $250,000 plus an amount equal to 50 percent  of the coordinated
+care organization’s total actual or projected liabilities above $250,000. ]
+[(B)] (A) Maintain capital or surplus of not less than  $2,500,000 and any additional amounts
+necessary to ensure the solvency of the  coordinated care organization, as specified by the authority
+by rules that are consistent with ORS 731.554 (6), 732.225, 732.230 and 750.045.
+[(C)] (B) Expend a portion  of the annual net income [ or reserves ] of the coordinated care or-
+ganization that [ exceed ] exceeds the financial requirements specified in this paragraph on services
+designed to address health disparities and the social determinants  of health consistent with the co-
+ordinated care organization’s community health improvement plan and transformation  plan and the
+terms and conditions of the Medicaid demonstration project under section 1115 of the Social Secu-
+rity Act (42 U.S.C. 1315).
+(c) Operate within a fixed global budget and  other payment mechanisms described in subsection
+(6) of this section and spend on primary care,  as defined by the authority by rule, at least 12 percent
+of the coordinated  care organization’s total expenditures for physical and mental health care pro-
+vided to members, except for expenditures on prescription drugs, vision care and dental care.
+(d) Develop and  implement alternative payment methodologies that are based on health care
+quality and improved health outcomes.
+(e) Coordinate the delivery of physical health  care, behavioral health care, oral health care and
+covered long-term care services.
+(f) Engage community members and health care providers in improving the health  of the com-
+munity and addressing regional, cultural, socioeconomic  and racial disparities in health care that
+exist among the coordinated care organization’s members and in the coordinated care organization’s
+community.
+(2) In addition to the criteria  and requirements specified in subsection (1) of this section, the
+authority  must adopt by rule requirements for coordinated care organizations contracting with the
+authority so that:
+(a) Each  member of the coordinated care organization receives integrated person centered care
+and services designed to provide choice, independence and dignity.
+(b) Each member has a consistent and stable relationship with a care team  that is responsible
+for comprehensive care management and service delivery.
+(c) The supportive and therapeutic needs of each member  are addressed in a holistic fashion,
+using patient centered primary  care homes, behavioral health homes or other models that support
+patient centered primary care and behavioral  health care and individualized care plans to the extent
+feasible.
+(d) Members receive comprehensive  transitional care, including appropriate follow-up, when en-
+tering and leaving an acute care facility or a long term care setting.
+(e) Members are provided:
+(A) Assistance in navigating the health care delivery system;
+(B) Assistance in accessing community and social support services and statewide resources;
+(C) Meaningful language  access as required by federal and state law including, but not limited
+to, 42 U.S.C. 18116, Title VI of the  Civil Rights Act of 1964, Title VI Guidance issued by the United
+States Department of Justice and  the National Standards for Culturally and Linguistically Appro-
+priate Services  in Health and Health Care as issued by the United States Department of Health and
+Human Services; and
+(D) Qualified health care interpreters or  certified health care interpreters listed on the health
+care interpreter registry, as those terms are defined in ORS 413.550.
+(f) Services and supports are geographically located as close to where members reside as  possi-
+ble and are, if available, offered in nontraditional settings  that are accessible to families, diverse
+communities and underserved populations.
+(g) Each coordinated care organization uses health  information technology to link services and
+care providers across the continuum of care to the greatest extent practicable and if financially vi-
+able.
+(h) Each coordinated care organization  complies with the safeguards for members described in
+ORS 414.605.
+(i) Each  coordinated care organization convenes a community advisory council that meets the
+criteria specified in ORS 414.575.
+(j) Each coordinated care organization prioritizes working with members  who have high health
+care needs, multiple chronic conditions or behavioral health conditions and  involves those members
+in accessing and managing appropriate preventive,  health, remedial and supportive care and ser-
+vices, including the services described in ORS 414.766, to reduce the use  of avoidable emergency
+room visits and hospital admissions.
+(k) Members have a choice of providers within  the coordinated care organization’s network and
+that providers participating in a coordinated care organization:
+(A) Work together  to develop best practices for care and service delivery to reduce waste and
+improve the health and well-being of members.
+(B) Are educated about the integrated  approach and how to access and communicate within the
+integrated system about a patient’s treatment plan and health history.
+(C) Emphasize prevention, healthy  lifestyle choices, evidence-based practices, shared decision-
+making and communication.
+(D) Are permitted to participate in the networks of multiple coordinated care organizations.
+(E) Include providers of specialty care.
+(F) Are selected by coordinated care organizations using universal application and  credentialing
+procedures and objective  quality information and are removed if the providers fail to meet objective
+quality standards.
+(G) Work together  to develop best practices for culturally and linguistically appropriate care
+and service delivery to  reduce waste, reduce health disparities and improve the health and well-
+being of members.
+(L) Each coordinated care organization  reports on outcome and quality measures adopted under
+ORS 413.022 and participates  in the health care data reporting system established in ORS 442.372
+and 442.373.
+(m) Each coordinated care organization uses best practices in the  management of finances,
+contracts, claims processing, payment functions and provider networks.
+(n) Each coordinated care  organization participates in the learning collaborative described in
+ORS 413.259 (3).
+(o) Each coordinated care organization has a  governing body that complies with ORS 414.584
+and that includes:
+(A) At least one member representing persons that share in  the financial risk of the organiza-
+tion;
+(B) A representative of a  dental care organization selected by the coordinated care organization;
+(C) The major components of the health care delivery system;
+(D) At least two health care providers in active practice, including:
+(i) A physician licensed under  ORS chapter 677 or a nurse practitioner licensed under ORS
+678.375, whose area of practice is primary care; and
+(ii) A behavioral health provider;
+(E) At  least two members from the community at large, to ensure that the organization’s
+decision-making is consistent with the values of the members and the community; and
+(F) At least two members of the community advisory council, one of whom is or  was within the
+previous six months a recipient of medical assistance and is at least 16 years of age or a  parent,
+guardian or primary caregiver of  an individual who is or was within the previous six months a re-
+cipient of medical assistance.
+(p) Each coordinated care organization’s governing  body establishes standards for publicizing
+the activities  of the coordinated care organization and the organization’s community advisory
+councils, as necessary, to keep the community informed.
+(q) Each coordinated care organization publishes on a website maintained by or on behalf of  the
+coordinated care organization,  in a manner determined by the authority, a document designed to
+educate members about best practices,  care quality expectations, screening practices, treatment
+options and other support resources available for members who have mental  illnesses or substance
+use disorders.
+(r) Each coordinated care organization works with the Tribal Advisory Council  established in
+ORS 414.581 and has a dedicated tribal liaison, selected by the council, to:
+(A) Facilitate a resolution  of any issues that arise between the coordinated care organization
+and a provider of Indian health  services within the area served by the coordinated care organiza-
+tion;
+(B) Participate  in the community health assessment and the development of the health im-
+provement plan;
+(C) Communicate regularly with the Tribal Advisory Council; and
+(D) Be available for training by the office within  the authority that is responsible for tribal af-
+fairs, any  federally recognized tribe in Oregon and the urban Indian health program that is located
+within the area served by the coordinated care organization and operated by an urban  Indian or-
+ganization pursuant to 25 U.S.C. 1651.
+(3) The authority shall consider the participation of area agencies and other nonprofit agencies
+in the configuration of coordinated care organizations.
+(4) In selecting one or  more coordinated care organizations to serve a geographic area, the au-
+thority shall:
+(a) For members and potential members, optimize access to care and choice of providers;
+(b) For providers, optimize choice in contracting with coordinated care organizations; and
+(c) Allow more than one coordinated  care organization to serve the geographic area if necessary
+to optimize access and choice under this subsection.
+(5) On or  before July 1, 2014, each coordinated care organization must have a formal contractual
+relationship with any dental care organization that serves members of the coordinated care organ-
+ization in the area where they reside.
+(6) In addition  to global budgets, the authority may employ other payment mechanisms to reim-
+burse coordinated care organizations for specified health services during limited periods of time if:
+(a) Global budgets remain the primary means of reimbursing coordinated care organizations  for
+care and services provided to the coordinated care organization’s members;
+(b) The other  payment mechanisms are consistent with the legislative intent expressed in ORS
+414.018 and the system design described in ORS 414.570 (1); and
+(c) The payment mechanisms are employed only for health-related social needs services, such
+as housing supports, nutritional assistance and climate-related assistance,  approved for the demon-
+stration project under 42 U.S.C. 1315 by the Centers for Medicare and Medicaid Services.
+SECTION 6.
+ Section 2, chapter 467, Oregon Laws 2021, is amended to read:
+Sec. 2.  (1) As used in this section, “health  equity” has the meaning prescribed by the Oregon
+Health Policy Board and adopted by the Oregon Health Authority by rule.
+(2) The authority shall seek approval from the Centers for Medicare and Medicaid Services to:
+(a) Require a coordinated care organization to spend up to three  percent of its global budget
+on investments:
+(A)(i) In programs or services that improve  health equity by addressing the preventable differ-
+ences in the burden of disease, injury or violence or  in opportunities to achieve optimal health that
+are experienced by socially disadvantaged populations;
+(ii) In community-based programs addressing the social determinants of health;
+(iii) In efforts to diversify care locations; or
+(iv) In programs or services that improve the overall health of the community; or
+(B) That enhance payments to:
+(i) Providers who address the need for culturally  and linguistically appropriate services in their
+communities;
+(ii) Providers  who can demonstrate that increased funding will improve health services provided
+to the community as a whole; or
+(iii) Support staff based in the community that  aid all underserved populations, including but not
+limited to peer-to-peer support staff with cultural backgrounds, health system  navigators in non-
+medical settings and public guardians.
+(b) Require a coordinated care organization to  spend at least 30 percent of the funds described
+in paragraph (a) of this subsection  on programs or efforts to achieve health equity for racial, cul-
+tural or traditionally underserved populations in the communities served by the  coordinated care
+organization.
+(c) Require a coordinated care organization to spend at  least 20 percent of the funds described
+in paragraph (a) of this subsection on efforts to:
+(A) Improve the behavioral health of members;
+(B) Improve the behavioral health care  delivery system in the community served by the coordi-
+nated care organization;
+(C) Create a culturally and linguistically competent health care workforce; or
+(D) Improve the behavioral health of the community as a whole.
+(3) Expenditures described in subsection (2) of this  section are in addition to the expenditures
+required by ORS 414.572 [ (1)(b)(C)] (1)(b)(B) and must:
+(a) Be part of a plan developed in collaboration with or  directed by members of organizations
+or organizations that serve local priority populations that are  underserved in communities served
+by the coordinated  care organization, including but not limited to regional health equity coalitions,
+and be approved by the coordinated care organization’s community advisory council;
+(b) Demonstrate, through practice-based or community-based evidence, improved  health out-
+comes for individual members of the coordinated  care organization or the overall community served
+by the coordinated care organization;
+(c) Be expended  from a coordinated care organization’s global budget with the least amount of
+state funding; and
+(d) Be counted as medical  expenses by the authority in a coordinated care organization’s base
+medical budget when calculating the coordinated care organization’s global budget and flexible
+spending requirements for a given year.
+(4) Expenditures by a  coordinated care organization in working with one or more of the nine
+federally  recognized  tribes in this state or urban Indian health programs to achieve health equity
+may qualify as expenditures under subsection (2) of this section.
+(5) The authority shall:
+(a) Make publicly available the outcomes described in subsection (3)(b) of this section; and
+(b) Report expenditures under subsection (2)  of this section to the Centers for Medicare and
+Medicaid Services.
+(6) Upon receipt of approval from the Centers for Medicare and Medicaid Services  to carry out
+the provisions of this section,  the authority shall adopt rules in accordance with the terms of the
+approval.
+SECTION 7.
+ Section 2, chapter 467, Oregon Laws 2021, as amended by section  3, chapter 467,
+Oregon Laws 2021, is amended to read:
+Sec. 2.  (1) As used in this section, “health  equity” has the meaning prescribed by the Oregon
+Health Policy Board and adopted by the Oregon Health Authority by rule.
+(2) The authority shall:
+(a) Require a coordinated care organization to spend no less than three percent  of its global
+budget on investments:
+(A)(i) In programs or services that improve health  equity by addressing the preventable differ-
+ences in the burden of disease, injury or violence or  in opportunities to achieve optimal health that
+are experienced by socially disadvantaged populations;
+(ii) In community-based programs addressing the social determinants of health;
+(iii) In efforts to diversify care locations; or
+(iv) In programs or services that improve the overall health of the community; or
+(B) That enhance payments to:
+(i) Providers who address the need for culturally  and linguistically appropriate services in their
+communities;
+(ii) Providers  who can demonstrate that increased funding will improve health services provided
+to the community as a whole; or
+(iii) Support staff based in the community that  aid all underserved populations, including but not
+limited to peer-to-peer support  staff with cultural backgrounds, health system navigators in non-
+medical settings and public guardians.
+(b) Require a coordinated care organization to spend at least  30 percent of the funds described
+in paragraph (a) of this subsection on programs or efforts to achieve  health equity for racial, cul-
+tural or traditionally  underserved populations in the communities served by the coordinated care
+organization.
+(c) Require a coordinated care organization to spend  at least 20 percent of the funds described
+in paragraph (a) of this subsection on efforts to:
+(A) Improve the behavioral health of members;
+(B) Improve the behavioral health care delivery system in the  community served by the coordi-
+nated care organization;
+(C) Create a culturally and linguistically competent health care workforce; or
+(D) Improve the behavioral health of the community as a whole.
+(3) Expenditures described in subsection (2) of this  section are in addition to the expenditures
+required by ORS 414.572 [ (1)(b)(C)] (1)(b)(B) and must:
+(a) Be part of a plan  developed in collaboration with or directed by members of organizations
+or organizations that serve local  priority populations that are underserved in communities served
+by the coordinated care organization, including but not limited to regional health  equity coalitions,
+and be approved by the coordinated care organization’s community advisory council;
+(b) Demonstrate, through practice-based or community-based evidence, improved  health out-
+comes for individual members of the coordinated  care organization or the overall community served
+by the coordinated care organization;
+(c) Be expended  from a coordinated care organization’s global budget with the least amount of
+state funding; and
+(d) Be counted as medical  expenses by the authority in a coordinated care organization’s base
+medical budget when calculating the coordinated care organization’s global budget and flexible
+spending requirements for a given year.
+(4) Expenditures by a  coordinated care organization in working with one or more of the nine
+federally  recognized  tribes in this state or urban Indian health programs to achieve health equity
+may qualify as expenditures under subsection (2) of this section.
+(5) The authority shall:
+(a) Make publicly available the outcomes described in subsection (3)(b) of this section; and
+(b) Report expenditures under subsection (2)  of this section to the Centers for Medicare and
+Medicaid Services.
+(6) The authority shall convene an oversight committee in  consultation with the office within
+the authority that is charged with ensuring equity and  inclusion. The oversight committee shall be
+composed  of  members who represent the regional and demographic diversity of this state based on
+statistical  evidence  compiled by the authority about medical assistance recipients and at least one
+representative from the nine federally recognized tribes in this state or urban Indian health  pro-
+grams. The oversight committee shall:
+(a) Evaluate the impact of expenditures described in subsection (2) of this section  on promoting
+health equity and improving the social  determinants of health in the communities served by each
+coordinated care organization;
+(b) Recommend best practices and criteria for investments described in  subsection (2) of this
+section; and
+(c) Resolve  any disputes between the authority and a coordinated care organization over what
+qualifies as an expenditure under subsection (2) of this section.
+SECTION 8.
+ ORS 414.591 is amended to read:
+414.591. (1) The Oregon Health Authority shall use, to the greatest extent possible,  coordinated
+care  organizations  to provide fully integrated physical health services, chemical dependency and
+mental health services and oral health services. This section, and any contract entered into pur-
+suant to this section, does not affect and may  not alter the delivery of Medicaid-funded long term
+care  services.
+(2) The authority shall execute contracts  with coordinated care organizations that meet the
+criteria adopted by  the authority under ORS 414.572. Contracts under this subsection are not subject
+to ORS chapters 279A and 279B, except ORS 279A.250 to 279A.290 and 279B.235.
+(3)(a) The authority shall establish financial reporting requirements for coordinated care organ-
+izations, consistent with ORS 415.115 and 731.574, no less  than 90 days before the beginning of the
+reporting period. The authority shall  prescribe requirements and procedures for financial reporting
+that:
+(A) Enable the authority to verify  that the coordinated care organization’s capital, surplus[ , re-
+serves] and other financial resources are adequate to ensure against the risk of insolvency;
+(B) Include information on the three highest executive salary and benefit packages of each co-
+ordinated care organization;
+(C) Require quarterly reports to be filed with the  authority by May 31, August 31 and November
+30;
+(D) In addition to the annual audited financial statement required by ORS 415.115,  require an
+annual report to be filed with the authority by April 30  following the end of the period for which
+data is reported; and
+(E) Align, to the greatest extent practicable, with the National Association  of Insurance
+Commissioners’ reporting forms to reduce the administrative costs of coordinated care  organizations
+that are also regulated by the Department of Consumer and  Business Services or have affiliates that
+are regulated by the department.
+(b) The authority shall  provide information to coordinated care organizations about the report-
+ing standards of  the National Association of Insurance Commissioners and provide training on the
+reporting  standards  to the staff of coordinated care organizations who will be responsible for com-
+piling the reports.
+(4) The authority shall hold coordinated care  organizations, contractors and providers account-
+able for timely submission of outcome and quality  data, including but not limited to data described
+in ORS 442.373, prescribed by the authority by rule.
+(5) The authority shall require compliance with the  provisions of subsections (3) and (4) of this
+section as a  condition of entering into a contract with a coordinated care organization. A coordi-
+nated care organization, contractor or provider that fails to comply with subsection (3) or (4) of  this
+section may be subject to sanctions, including but not limited  to civil penalties, barring any new
+enrollment in the coordinated care organization and termination of the contract.
+(6)(a) The authority shall adopt rules and procedures to ensure that  if a rural health clinic
+provides a health service  to a member of a coordinated care organization, and the rural health clinic
+is not participating in the member’s coordinated care organization, the rural health clinic  receives
+total aggregate payments from the member’s coordinated  care organization, other payers on the
+claim and the authority that are no less than the  amount the rural health clinic would receive in
+the authority’s fee-for-service payment system. The  authority shall issue a payment to the rural
+health clinic in accordance with this subsection within 45 days of receipt by the authority of  a
+completed billing form.
+(b) “Rural health clinic,” as used in this subsection, shall be defined by the authority by rule
+and shall conform,  as far as practicable or applicable in this state, to the definition of that term in
+42 U.S.C. 1395x(aa)(2).
+(7) The authority may  contract with providers other than coordinated care organizations to
+provide integrated and coordinated health care in areas that are not served by a  coordinated care
+organization or where the organization’s provider  network is inadequate. Contracts authorized by
+this subsection are not subject to  ORS chapters 279A and 279B, except ORS 279A.250 to 279A.290
+and 279B.235.
+(8) The aggregate expenditures by the authority for  health services provided pursuant to this
+chapter may not exceed the total dollars appropriated for health services under this chapter.
+(9) Actions taken by providers, potential providers, contractors  and bidders in specific accord-
+ance with this chapter in  forming consortiums or in otherwise entering into contracts to provide
+health care services  shall be performed pursuant to state supervision and shall be considered to be
+conducted at the direction of this state, shall be considered to be lawful trade practices and  may
+not be considered to be the transaction of insurance for purposes of the Insurance Code.
+(10) Health care  providers contracting to provide services under this chapter shall advise a pa-
+tient of any service,  treatment or test that is medically necessary but not covered under the con-
+tract if an ordinarily careful practitioner in the same or similar community would do  so under the
+same or similar circumstances.
+(11) A coordinated care organization shall provide information to a  member as prescribed by the
+authority by rule, including but not  limited to written information, within 30 days of enrollment with
+the coordinated care organization about available providers.
+(12) Each coordinated care organization shall work  to provide assistance that is culturally and
+linguistically appropriate to the needs of the member to  access appropriate services and participate
+in processes affecting the member’s care and services.
+(13) Each coordinated care organization shall provide upon the request of a member  or pro-
+spective member annual summaries of the organization’s aggregate data regarding:
+(a) Grievances and appeals; and
+(b) Availability and accessibility of services provided to members.
+(14) A coordinated care organization may  not limit enrollment in a geographic area based on the
+zip code of a member or prospective member.
+SECTION 9.
+ ORS 415.011 is amended to read:
+415.011. (1) The Oregon Health  Authority may adopt rules to carry out the provisions of ORS
+415.012 to 415.430.
+(2) The authority shall adopt  rules for regulating the financial solvency of coordinated care or-
+ganizations that align with the following provisions of the Insurance Code  regulating domestic
+insurers, to the extent the provisions regarding  insurers are applicable to coordinated care organ-
+izations and are in accordance with ORS chapters 413 and 414:
+(a) ORS 731.385;
+(b) ORS 731.504;
+(c) ORS 731.508;
+(d) ORS 731.509;
+(e) ORS 731.574 (1) to (5);
+(f) ORS 731.730;
+(g) ORS 731.988;
+(h) ORS 732.235;
+(i) ORS 732.517 to 732.546, other than ORS 732.527, 732.531 and 732.541;
+(j) ORS 732.548;
+(k) ORS 732.549;
+(L) ORS 732.551;
+(m) ORS 732.552;
+(n) ORS 732.553;
+(o) ORS 732.554;
+(p) ORS 732.556;
+(q) ORS 732.558;
+(r) ORS 732.564;
+(s) ORS 732.566;
+(t) ORS 732.567;
+(u) ORS 732.568;
+(v) ORS 732.569;
+(w) ORS 732.574;
+(x) ORS 732.576;
+(y) ORS 732.578;
+(z) ORS 732.592;
+(aa) ORS 733.010 to 733.050;
+(bb) ORS 733.140 to 733.170;
+(cc) ORS 733.510 to 733.680;
+(dd) ORS 733.695 to 733.780; and
+(ee) ORS 734.014.
+(3) Rules adopted by the authority in accordance with ORS 731.385 that establish minimum
+standards for risk-based capital may not require a coordinated care organization to  take preventive
+or corrective measures to  increase the coordinated care organization’s capital[ ,] or surplus [ or re-
+serves] to achieve more than 200 percent of the minimum risk-based capital.
+SECTION 10.
+ ORS 415.056 is amended to read:
+415.056. (1) The  Oregon Health Authority may disclose or use a report as considered necessary
+by the authority  in the administration of ORS 415.012 to 415.430, rules adopted pursuant to ORS
+415.011 or other law.
+(2) A report filed with the authority according  to requirements established by rule for disclosure
+of material acquisitions or dispositions of assets is confidential.
+(3) A report filed with the Oregon Health Authority according to requirements established by
+rule for the purpose of determining the amount of  [ restricted reserves, ] capital or surplus that a co-
+ordinated care organization must maintain under ORS 414.572 (1)(b)(A) is confidential and may  not
+be disclosed.
+(4) A financial plan of  action stating corrective actions to be taken by a coordinated care or-
+ganization in response to a determination of  inadequate [ restricted reserves, ] capital or surplus that
+is filed by the coordinated care organization with the authority according to requirements estab-
+lished by rule is confidential and may not be disclosed.
+(5) The results or report of any examination or analysis  of a coordinated care organization
+performed by the authority in connection with a financial plan described  in subsection (4) of this
+section and any corrective order issued by the authority pursuant to such an  examination or anal-
+ysis is confidential and may not be disclosed.
+(6) Information contained in documents described in subsections (1) to (4) of this section  that is
+also contained in final examination  reports filed under ORS 415.111 is not confidential under this
+section.
+(7) All financial analysis ratios  and examination synopses concerning coordinated care organ-
+izations that  are submitted to the authority by the Insurance Regulatory Information System of the
+National Association of Insurance Commissioners are confidential.
+SECTION 11.
+ ORS 415.115 is amended to read:
+415.115. (1) A coordinated care organization shall  have an annual audit conducted by an inde-
+pendent certified public  accountant and shall file an audited financial report annually with the
+Oregon Health Authority by June 30 following the end of the period  to which the report applies.
+The annual audited financial report shall disclose:
+(a) The financial position  of the coordinated care organization as of the end of the most recent
+calendar year; and
+(b) The results of the coordinated care organization’s operations, cash flows  and changes in
+capital[ ,] and surplus [ and reserves ] for the year just ended.
+(2) The authority shall adopt the following  rules as needed for carrying out the requirements
+of this section prescribing the:
+(a) Required contents and format of the audited financial report.
+(b) Requirements for filing the report.
+(c) Requirements applicable to qualifications and designation of certified public accountants  for
+purposes of audits  under this section, which may include limitations on length of service for certified
+public accountants and may  permit recognition of accountants comparably qualified under the laws
+of another country.
+(d) Requirements applicable to evaluation  of the accounting procedures of a coordinated care
+organization and its system of internal control by a certified public accountant.
+(e) Standards governing the scope and preparation of the audit.
+(f) Requirements and procedures  relating to the reporting of the adverse financial condition of
+a coordinated care organization by a certified public accountant.
+(g) Requirements and  procedures relating to the reporting of significant deficiencies for internal
+controls of a coordinated care organization.
+(h) Exemptions.
+(i) Any other matter that the authority determines to be needed for  preparation of or inclusion
+in the financial report.
+SECTION 12.
+ ORS 415.204 is amended to read:
+415.204. (1) For any reason stated  in subsection (2) of this section, the Oregon Health Authority
+may order a coordinated care organization to be placed under supervision.
+(2) The authority may place a coordinated care organization under supervision if  upon exam-
+ination or at any other time the authority determines that:
+(a) The condition of the coordinated  care organization renders the continuance of its business
+hazardous to the public or to its members.
+(b) The coordinated care organization has refused to  permit examination of its books, papers,
+accounts, records or affairs by the authority or any deputy, examiner or employee  representing the
+authority.
+(c) A  coordinated care organization has unlawfully removed from this state books, papers, ac-
+counts or records necessary for an examination of the coordinated care organization.
+(d) The coordinated care organization has failed to comply promptly  with the applicable finan-
+cial reporting statutes or rules and any request of the authority relating to financial reporting.
+(e) The coordinated care organization has failed to observe an  order of the authority to make
+good, within the time prescribed by law, any prohibited deficiency in its [ restricted reserves, ] capital,
+capital stock or surplus.
+(f) The coordinated care organization is continuing to  conduct business after its contract has
+been revoked or suspended by the authority.
+(g) The coordinated  care organization, by contract or otherwise, has done any of the following
+unlawfully, in violation of an order  of the authority or without first having obtained written ap-
+proval of the authority:
+(A) Totally reinsured its entire outstanding business; or
+(B) Merged or consolidated substantially its entire property or business with another entity.
+(h) The coordinated care organization has  engaged in any transaction in which it is not au-
+thorized to engage under the laws of the state.
+(i) The coordinated care organization has failed to comply  with any other order of the authority.
+(j) The coordinated care  organization has failed to comply with any other applicable provisions
+of ORS 415.012 to 415.430 or rules adopted pursuant to ORS 415.011.
+(k) The business of the coordinated care organization is being conducted fraudulently.
+(L) The coordinated care organization agrees to supervision.
+(3) If the authority determines that  one or more conditions set forth in subsection (2) of this
+section exist, the authority may do all of the following:
+(a) Notify the coordinated care organization of the determination of the authority.
+(b) Furnish to the coordinated care organization a written list of the requirements to abate the
+condition or conditions determined to exist.
+(c) Notify the coordinated care organization that it is  under the supervision of the authority and
+that the authority is applying this section and ORS 415.205.
+(4) The authority may act as the supervisor to conduct the  supervision and otherwise carry out
+an order under subsection (1) of this section or may appoint another person as supervisor.
+(5) The authority or the appointed supervisor may prohibit any person  from taking any of the
+following actions during the period of supervision without the prior approval of the  authority or
+supervisor:
+(a) Disposing of, conveying or encumbering any of the coordinated  care organization’s assets or
+its business in force.
+(b) Withdrawing from any of the coordinated care organization’s bank accounts.
+(c) Lending any of the coordinated care organization’s funds.
+(d) Investing any of the coordinated care organization’s funds.
+(e) Transferring any of the coordinated care organization’s property.
+(f) Incurring any debt, obligation or liability on behalf of the coordinated care organization.
+(g) Merging  or consolidating the coordinated care organization with another coordinated care
+organization or other person.
+(h) Entering into any new reinsurance contract or treaty.
+(i) Making any material change in management.
+(j) Increasing salaries and benefits of officers or directors.
+(k) Making or increasing preferential payment  of bonuses, dividends or other payments deter-
+mined by the authority to be preferential.
+(L) Any other action affecting the business or condition of the coordinated care organization.
+(6) The authority may apply to any  circuit court for any restraining order, preliminary and
+permanent injunctions and other orders necessary to enforce a supervision order.
+(7) During the period of supervision,  the coordinated care organization may file a written re-
+quest for a hearing to  review the supervision or any action taken or proposed to be taken. A request
+under this subsection does not suspend the supervision. The coordinated care organization must
+specify in the request the manner in which the action being complained of would not result in  im-
+proving the condition of the coordinated care organization. The hearing shall be  held within 30 days
+after the  filing of the request. The authority shall complete the review of the supervision or other
+action and shall take action under subsection (8) of this  section if appropriate within 30 days after
+the record for the hearing is closed.
+(8) The authority  shall release a coordinated care organization from supervision if the authority
+determines upon hearing that none of the conditions giving rise to the supervision exist.
+SECTION 13.
+ Section 3 of this 2025 Act is amended to read:
+Sec. 3.  The  Oregon Health Authority shall withhold an amount from [ each] a global budget
+payment made to a coordinated care organization[ . The  amount withheld shall be paid into a subac-
+count designated for the coordinated care organization within the Community  Escrow Fund established
+under section 1 of this 2025 Act. The amount withheld shall be calculated to achieve, by  January 1,
+2029, an amount equal  to the restricted reserves required for the coordinated care organization under
+ORS 414.572 (1)(b)(A). ] as necessary to maintain, in the subaccount designated for the coordi-
+nated care organization in the Community Escrow Fund established  under section 1 of this
+2025 Act, $250,000 plus  an amount equal to 50 percent of the coordinated care organization’s
+total actual or projected liabilities for the contract year that exceed $250,000.
+SECTION 14. The amendments  to section 3 of this 2025 Act by section 13 of this 2025 Act
+and the amendments to ORS 414.572, 414.591, 415.011, 415.056, 415.115 and  415.204 and section
+2, chapter 467, Oregon Laws 2021, by sections 5 to 12 of this 2025 Act  become operative on
+January 1, 2029.
+SECTION 15. Section 4 of this 2025 Act is repealed on January 2, 2029.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 414.572, ORS 414.591, ORS 415.011, ORS 415.056, ORS 415.115, ORS 415.204
+- From bill text (Introduced version): ORS 279A.250, ORS 413.022, ORS 413.259, ORS 413.550, ORS 414.018, ORS 414.570, ORS 414.572, ORS 414.575, ORS 414.581, ORS 414.584, ORS 414.591, ORS 414.605, ORS 414.766, ORS 415.011, ORS 415.012, ORS 415.056, ORS 415.111, ORS 415.115, ORS 415.204, ORS 415.205, ORS 442.372, ORS 442.373, ORS 678.375, ORS 731.385, ORS 731.504, ORS 731.508, ORS 731.509, ORS 731.554, ORS 731.574, ORS 731.730, ORS 731.988, ORS 732.225, ORS 732.230, ORS 732.235, ORS 732.517, ORS 732.527, ORS 732.531, ORS 732.541, ORS 732.548, ORS 732.549, ORS 732.551, ORS 732.552, ORS 732.553, ORS 732.554, ORS 732.556, ORS 732.558, ORS 732.564, ORS 732.566, ORS 732.567, ORS 732.568, ORS 732.569, ORS 732.574, ORS 732.576, ORS 732.578, ORS 732.592, ORS 733.010, ORS 733.140, ORS 733.510, ORS 733.695, ORS 734.014, ORS 750.045
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `fc5e85d398c026a1a317fa0ce3ed4a59d4f2180cfb2e3b121c824da04ddde86f` (snapshot `_meta/snapshots/measure-2025r1-hb3509-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3509/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3509` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

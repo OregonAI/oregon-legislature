@@ -1,0 +1,209 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 736
+Sponsored by  Senators GELSER BLOUIN, MANNING JR, HAYDEN; Senators GORSEK, PATTERSON,
+REYNOLDS, SOLLMAN, THATCHER, Representative NELSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act excludes a child’s parents from some  laws about abuse of a child in care and
+requires DHS to give a parent notice of rights before meetings in child abuse  matters. (Flesch
+Readability Score: 70.1).
+Creates an  exception to abuse of a child in care provisions when the suspected abuse was
+committed by the parent of the child in care.
+Requires that the Department of Human Services provide parents and  guardians with a notice
+of rights before interviews in child abuse investigations.
+A BILL FOR AN ACT
+Relating to investigations of child  abuse involving the child’s parent; creating new provisions; and
+amending ORS 409.185.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The  provisions of ORS 418.257 to 418.259 and 418.519 to 418.532 do not
+apply to investigations of reports of suspected abuse committed by  the parent of a child in
+care.
+(2) As used in this section, “abuse” and “child in care” have  the meanings given those
+terms in ORS 418.257.
+SECTION 2. Section 3 of this 2025 Act is added to and made a  part of ORS chapter 419B.
+SECTION 3. (1) Upon receiving a report of abuse of a child, the Department of Human
+Services, before a face-to-face meeting with the child’s parent or guardian, shall  provide the
+child’s parent or guardian with notice as described in this section.
+(2) The notice must be in writing, be provided in a format and language that  is accessible
+to the parent or guardian and be verbally reviewed with the parent or guardian. The  inves-
+tigator shall request that the parent or guardian sign  and date an acknowledgment of receipt
+of the notice. If the parent or guardian refuses to  sign and date the acknowledgment, the
+investigator shall sign a declaration, under penalty of perjury  as described in ORCP 1 E,
+stating that  the investigator provided the notice to the parent or guardian and that the
+child’s parent or  guardian refused to sign the acknowledgment of receipt of the notice. The
+department shall provide the parent or guardian  with a copy of the notice and the acknowl-
+edgment if signed by the parent or guardian or the declaration  of the investigator that the
+parent or guardian refused to sign the acknowledgment.
+(3) The  notice provided under this section must be in plain language and include, at a
+minimum:
+(a) A warning  that any statement or admission made by the parent or guardian may be
+used:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1469
+SB 736
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Against the parent or  guardian in an administrative, juvenile court or criminal court
+proceeding;
+(B) As a basis to remove the child who is the subject of  the investigation or any other
+child from the care, custody or control of the parent or guardian; or
+(C) As a basis to terminate  the relationship of the parent or guardian with the child who
+is the subject of the investigation or  any other child in the care, custody or control of the
+parent or guardian;
+(b) A statement that, as the subject of an abuse investigation, the parent or guardian
+has the right to:
+(A) Be informed of the basis for the child welfare assessment;
+(B) Seek the representation of an attorney and to have an  attorney present when the
+parent or  guardian is interviewed by the department, including at any meeting conducted to
+determine whether a child should be removed from the home of the parent or guardian;
+(C) Have the court appoint an attorney for the parent or guardian  if the parent or
+guardian cannot afford an attorney and the department moves the court to remove the child
+or to require the parent or guardian to participate in services;
+(D) Refuse  to allow an investigator to enter the home of the parent or guardian without
+a court order;
+(E) Withhold consent to the release of any medical or  mental health records of the par-
+ent or guardian;
+(F) Refuse to submit to a drug test;
+(G) Be advised in writing of the outcome of the investigation; and
+(H) Request an administrative review of the outcome of the investigation; and
+(c) A disclosure that the representative of  the department is not an attorney and cannot
+provide legal advice to the parent or guardian.
+SECTION 4.
+ ORS 409.185 is amended to read:
+409.185. (1) The Director of Human Services shall oversee the development  of standards and
+procedures for assessment, investigation and enforcement of child protective services.
+(2)(a) The Department of Human  Services shall take action to implement the provision of child
+protective services as outlined  in ORS 417.705 to 417.800 and based on the recommendations in the
+1992 “Oregon Child Protective Services Performance  Study” published by the University of Southern
+Maine.
+(b) In all substantiated cases of child abuse and neglect, the role of the department  is to com-
+plete a comprehensive family assessment of risk of  abuse or neglect, or both, assess service needs
+and provide immediate protective services as necessary.
+(c) The department shall provide remedial services needed to ensure the safety of the child.
+(d) In all cases of child abuse and neglect for which a criminal investigation is conducted,  the
+role of law enforcement agencies is to provide a legally sound, child  sensitive investigation of
+whether abuse or neglect or both have occurred  and to gather other evidence and perform other
+responsibilities in accordance with interagency agreements.
+(e) The department  and law enforcement agencies shall conduct the investigation and assess-
+ment concurrently, based upon the protocols and procedures of the  county child abuse multidisci-
+plinary team in each jurisdiction.
+(f) When the department and law enforcement agencies conduct  a joint investigation and as-
+sessment, the activities of the department and agencies are to be clearly differentiated by the pro-
+[2]
+SB 736
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+tocols of the county child abuse multidisciplinary team.
+(g) Nothing in this subsection is intended to be inconsistent with ORS 418.702, 418.747  and
+418.748 and ORS chapter 419B.
+(h) In all cases of child  abuse for which an investigation is conducted, the department shall
+provide a child’s parent, guardian or caregiver  with a clear written explanation of the investigation
+process, the court hearing process and  the rights of the parent, guardian or caregiver in the abuse
+investigation  and  in the court proceedings related to the abuse investigation.  When the depart-
+ment provides the written explanation  under this paragraph to a child’s parent or guardian,
+the department shall include the notice required under section 3 of this 2025 Act.
+(3) Upon receipt of a recommendation  of the Children’s Advocate under ORS 417.815 (2)(e), the
+department shall implement the recommendation  or give the Children’s Advocate written notice of
+an intent not to implement the recommendation.
+SECTION 5.
+(1) Section 1  of this 2025 Act applies to investigations of abuse arising from
+actions committed on or after the effective date of this 2025 Act.
+(2) Section 3 of this 2025 Act applies to meetings  with a child’s parent or guardian oc-
+curring on or after the effective date of this 2025 Act.
+(3) The amendments to ORS 409.185 by  section 4 of this 2025 Act apply to child abuse
+investigations pending on the effective date of this 2025 Act and to child abuse investigations
+initiated on or after the effective date of this 2025 Act.
+[3]

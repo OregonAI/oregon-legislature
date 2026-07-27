@@ -1,0 +1,275 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2573
+title: 'HB 2573 (2025R1): Modifies the requirements for the Senior Emergency Medical Services Innovation
+  Program.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2573
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2573/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: c2dc864aaebad39da5a6d31d8824a64691ab56fdea8d6b5e8f3ae622c5de8350
+snapshot_id: measure-2025r1-hb2573-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.111
+  - ORS 192.245
+  - ORS 442.015
+  - ORS 443.001
+  - ORS 443.400
+  - ORS 682.025
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2573
+prefix_meaning: House Bill
+catch_line: Modifies the requirements for the Senior Emergency Medical Services Innovation Program.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would make changes to law related to medical services for people living\
+  \ in long term care settings. (Flesch Readability Score: 62.8). \n\tModifies the requirements for the\
+  \ Senior Emergency Medical Services Innovation Program. \n\tExtends sunsets for the program and the\
+  \ prohibition on local government regulation of long term care facilities and residential care facilities.\
+  \ \n\tTakes effect on the 91st day following adjournment sine die."
+relating_to: Relating to emergency medical services for residents in long term care settings; and prescribing
+  an effective date.
+relating_to_full: Relating to emergency medical services for residents in long term care settings; and
+  prescribing an effective date.
+at_the_request_of: null
+lc_number: 1578
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-08-07T14:21:52'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 10377
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.111
+  - ORS 192.245
+  - ORS 442.015
+  - ORS 443.001
+  - ORS 443.400
+  - ORS 682.025
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2573`.
+
+# HB 2573 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2573, 2025 Regular Session (2025R1)
+- **LC number:** 1578
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-08-07T14:21:52
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 10377 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2573/Enrolled>.
+
+## Summary
+
+**Catchline:** Modifies the requirements for the Senior Emergency Medical Services Innovation Program.
+
+**Relating to:** Relating to emergency medical services for residents in long term care settings; and prescribing an effective date.
+
+Digest: The Act would make changes to law related to medical services for people living in long term care settings. (Flesch Readability Score: 62.8). 
+ Modifies the requirements for the Senior Emergency Medical Services Innovation Program. 
+ Extends sunsets for the program and the prohibition on local government regulation of long term care facilities and residential care facilities. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to emergency medical services for residents in long term care settings; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 2573
+Sponsored by  Representatives GRAYBER, SMITH G, Senator SMITH DB; Representative MUNOZ,
+Senator CAMPOS (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to emergency medical services for  residents in long term care settings; amending sections
+1, 5 and 6, chapter 616, Oregon Laws 2021, and section 45,  chapter 32, Oregon Laws 2024; and
+prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  Section 1, chapter 616, Oregon Laws 2021, is amended to read:
+Sec. 1.  (1) As used in this section:
+(a) “Long term care facility” has the meaning given that term in ORS 442.015.
+(b) “Residential care facility” has the meaning given that term in ORS 443.400.
+(c) “Senior emergency medical services” means services provided by an emergency medical ser-
+vices provider, as defined in  ORS 682.025, to residents of a long term care facility or residential care
+facility.
+(2)[(a)] The Senior Emergency Medical Services Innovation Program is established in the  De-
+partment of Human Services.  The purpose of the program is to [ select,] provide funding to and
+monitor local public sector pilot projects that:
+[(A)] (a)  Provide innovative strategies for  addressing the emergency medical services needs of
+this state’s increasing number of aging residents who receive care and services in residential care
+facilities and long term care facilities;
+[(B)] (b) Encourage the efficient and appropriate use of senior emergency medical services;
+[(C)] (c)  Reduce the overall costs of senior emergency medical services  while promoting quality
+emergency medical services; and
+[(D)] (d) Encourage unique community-based responses to challenges faced by local  communities
+in meeting their residents’ needs for senior emergency medical services.
+[(b) The department shall provide funding to a pilot project described in this  subsection from
+moneys deposited in the Quality Care Fund established under ORS 443.001. ]
+(3) The Senior Emergency Medical Services  [ Advisory ] Council is established consisting of the
+following 10 members appointed by the Governor:
+(a) One member representing long term care facilities;
+(b) One member representing residential care facilities;
+(c) One member who is a nurse or clinician in a long term care facility or a  residential care
+facility;
+(d) One member representing an urban  or suburban fire department or a city fire department
+that provides emergency medical services;
+(e) One member representing a rural fire protection district organized under ORS chapter 478;
+Enrolled House Bill 2573 (HB 2573-A) Page 1
+(f) One member who enters into agreements with a public sector entity to  provide emergency
+medical services;
+(g) One member who is a physician licensed under ORS chapter  677 or other health care prac-
+titioner with expertise in emergency medical services;
+(h) One member representing  the Oregon Health Authority who has expertise in emergency
+medical services and trauma response;
+(i) One member representing private emergency medical services providers; and
+(j) One member who is a:
+(A) Family member of a resident of a long term care facility or residential care facility;
+(B) Caregiver in a long term care facility or residential care facility; or
+(C) Member or representative of a group that advocates for seniors residing in long term care
+facilities or residential care facilities.
+[(4) The council shall  advise and make recommendations to the  Department of Human Services
+on:]
+[(a) Minimum standards and data  reporting requirements for pilot projects funded through the
+program;]
+[(b) The application process and timelines for the consideration  of applications for funding of pilot
+projects; ]
+[(c) The criteria for the selection of pilot projects to participate in the program; and ]
+[(d) Other factors identified by the council as likely to facilitate successful pilot projects. ]
+(4) The council shall:
+(a) Advise and make recommendations to the department on:
+(A) The criteria for the department to use to approve, reject or request  resubmission of
+pilot project proposals that the department determines  satisfy the requirements of sub-
+section (2) of this section. The criteria must include, but are not limited to:
+(i) The effectiveness of the project in addressing the  policy outcomes described in sub-
+section (2) of this section.
+(ii) The equity impact of the project, including how the project will support  older adults
+and people with disabilities.
+(iii) The prioritization of a project’s measurable outcomes and reporting mechanisms.
+(iv) The availability of funds in the Quality Care Fund established under ORS 443.001.
+(B) Minimum standards  and data reporting requirements for pilot projects funded
+through the program.
+(C) Other factors identified by the council as likely to facilitate successful  pilot projects.
+(b) Designate council members to participate in the deliberations on proposals  that the
+department determine satisfy the requirements of subsection (2) of this section.
+(5) A majority of the members of the council constitutes a quorum for  the transaction of busi-
+ness.
+(6) Official action by the council requires the approval of a majority of the members of  the
+council.
+(7) The council shall elect one of its members to serve as chairperson.
+(8) If there is a vacancy for any cause, the Governor shall make an appointment to  become im-
+mediately effective.
+(9) The council shall meet at times and  places specified by the call of the chairperson or of a
+majority of the members of the council.
+(10) The council may adopt rules necessary for the operation of the council.
+(11) The department shall submit a report, in the manner provided in ORS 192.245, on  the pilot
+projects selected for the program, the success achieved  by each pilot project in meeting the goals
+of the program described in subsection (2) of this  section and any recommendations for legislative
+changes necessary to improve the emergency services provided throughout this state.
+Enrolled House Bill 2573 (HB 2573-A) Page 2
+(12) The department shall submit the report described in subsection  (11) of this section to the
+authority for consideration and review prior to submitting the report as described in subsection (11)
+of this section.
+(13) The department shall provide staff support to the council.
+(14) Members of the council are  not entitled to compensation or reimbursement for expenses and
+serve as volunteers on the council.
+(15) All agencies of state government, as defined in  ORS 174.111, are directed to assist the
+council in the performance of the duties of the council and, to the extent permitted by laws relating
+to confidentiality, to furnish information and advice the members of  the council consider necessary
+to perform their duties.
+(16) Notwithstanding subsection (4)(b) of  this section, a member of the council may not
+participate in deliberations on a proposal for a pilot project if the  member has a direct con-
+flict of interest related to the pilot project.
+(17)(a) Except as provided in paragraph (b) of this subsection,  within 90 days of the de-
+partment approving a pilot project, the department shall, subject to available  funds, allocate
+moneys to the pilot project from the Quality Care Fund established under ORS 443.001.
+(b) The department may extend for a reasonable duration  the 90-day timeline under
+paragraph (a) of this subsection if the department determines that an extension is  reason-
+ably necessary  to accommodate the negotiation of terms between the department and a pilot
+project.
+(18) The department  each biennium shall allocate to pilot projects approved by the de-
+partment up to one third of the total funds available in the Quality Care Fund.
+(19) The department shall:
+(a) Conduct ongoing program evaluation, including monitoring the program for efficacy
+and alignment with the policy outcomes described in subsection (2) of this section.
+(b) Conduct site visits of pilot projects as necessary to  identify opportunities to improve
+education to support the policy outcomes described in subsection (2) of this section.
+(c) Report findings under this subsection to the council on a quarterly basis.
+SECTION 2.
+ Section 5, chapter 616, Oregon Laws 2021, is amended to read:
+Sec. 5.  The amendments to ORS 443.001 by section 4  [ of this 2021 Act ], chapter 616, Oregon
+Laws 2021, become operative on January 2, [ 2027] 2030.
+SECTION 3.  Section 6, chapter 616, Oregon Laws 2021, is amended to read:
+Sec. 6.  [ Sections 1 and 2 of this 2021 Act are repealed on January 2, 2027. ]
+(1) Section 1, chapter 616, Oregon Laws  2021, as amended by section 1 of this 2025 Act,
+is repealed January 2, 2030.
+(2) Section 2, chapter 616, Oregon Laws 2021, is repealed January 2, 2033.
+SECTION 4.
+ Section 45, chapter 32, Oregon Laws 2024, is amended to read:
+Sec. 45.  The Director of the Oregon Health Authority may appoint to the  Long Term Care and
+Senior Care Emergency Medical Services  Advisory Committee members of the Senior Emergency
+Medical Services [ Advisory ] Council established under section 1, chapter 616, Oregon Laws 2021.
+SECTION 5. This 2025 Act  takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+Enrolled House Bill 2573 (HB 2573-A) Page 3
+Passed by House June 23, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate June 24, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 2573 (HB 2573-A) Page 4
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 174.111, ORS 192.245, ORS 442.015, ORS 443.001, ORS 443.400, ORS 682.025
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `c2dc864aaebad39da5a6d31d8824a64691ab56fdea8d6b5e8f3ae622c5de8350` (snapshot `_meta/snapshots/measure-2025r1-hb2573-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2573/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `15d741a207016677f7a94b1a4e1b354c9f02e99e981d361571fbadbdb36c2897` (snapshot `_meta/snapshots/measure-2025r1-hb2573-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2573/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2573` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

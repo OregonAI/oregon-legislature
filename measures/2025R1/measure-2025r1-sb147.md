@@ -1,0 +1,410 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb147
+title: 'SB 147 (2025R1): Renames the Elliott State Forest as the Elliott State Research Forest.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 147
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB147/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: ff3a357b78735b4a4c1c165c842b201daa183084db920d87fa6b7b3d2cf9a840
+snapshot_id: measure-2025r1-sb147-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 283.085
+  - ORS 283.089
+  - ORS 293.701
+  - ORS 30.949
+  - ORS 527.620
+  - ORS 530.010
+  - ORS 530.450
+  - ORS 530.480
+  - ORS 530.490
+  - ORS 530.500
+  - ORS 530.510
+  - ORS 530.520
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 147
+prefix_meaning: Senate Bill
+catch_line: Renames the Elliott State Forest as the Elliott State Research Forest.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act renames a state forest and transfers the running of the forest to\
+  \ a different state agency. The Act makes the forest a research forest and sets forth the duties, powers\
+  \ and conditions for managing the forest. (Flesch Readability Score: 60.6). \n\tRenames the Elliott\
+  \ State Forest as the Elliott State Research Forest. Authorizes the State Land Board to manage, control\
+  \ and protect the forest as a world-class research forest. Restricts the ability of the board to sell\
+  \ land in the forest, but authorizes the board to expand or exchange land or timber to further the purposes\
+  \ of the forest as a research forest. \n\tAuthorizes certificates of participation financing to finance\
+  \ capital projects or purchases related to the forest. \n\tTransfers the duties, functions, powers,\
+  \ rights and obligations related to the forest from the State Board of Forestry to the State Land Board."
+relating_to: Relating to the Elliott State Forest.
+relating_to_full: Relating to the Elliott State Forest.
+at_the_request_of: (at the request of State Treasurer Tobias Read)
+lc_number: 258
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-06-23T12:09:27'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 20193
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 283.085
+  - ORS 283.089
+  - ORS 293.701
+  - ORS 30.949
+  - ORS 527.620
+  - ORS 530.010
+  - ORS 530.450
+  - ORS 530.480
+  - ORS 530.490
+  - ORS 530.500
+  - ORS 530.510
+  - ORS 530.520
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 147`.
+
+# SB 147 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 147, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of State Treasurer Tobias Read)
+- **LC number:** 258
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-06-23T12:09:27
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 20193 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB147/Enrolled>.
+
+## Summary
+
+**Catchline:** Renames the Elliott State Forest as the Elliott State Research Forest.
+
+**Relating to:** Relating to the Elliott State Forest.
+
+Digest: The Act renames a state forest and transfers the running of the forest to a different state agency. The Act makes the forest a research forest and sets forth the duties, powers and conditions for managing the forest. (Flesch Readability Score: 60.6). 
+ Renames the Elliott State Forest as the Elliott State Research Forest. Authorizes the State Land Board to manage, control and protect the forest as a world-class research forest. Restricts the ability of the board to sell land in the forest, but authorizes the board to expand or exchange land or timber to further the purposes of the forest as a research forest. 
+ Authorizes certificates of participation financing to finance capital projects or purchases related to the forest. 
+ Transfers the duties, functions, powers, rights and obligations related to the forest from the State Board of Forestry to the State Land Board.
+
+**RelatingToFull (verbatim upstream field):** Relating to the Elliott State Forest.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 147
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of State Treasurer Tobias Read)
+CHAPTER .................................................
+AN ACT
+Relating to  the Elliott State Forest; creating new provisions; amending ORS 30.949, 283.085, 530.480,
+530.490, 530.510 and 530.520; and repealing ORS 530.450.
+Be It Enacted by the People of the State of Oregon:
+ELLIOTT STATE RESEARCH FOREST
+SECTION 1. Sections 2 to 4 of this 2025 Act are added to  and made a part of ORS chapter
+273.
+SECTION 2. (1) The state forest formerly known as the Elliott State Forest  shall be
+known as the Elliott State Research Forest.
+(2) The State Land Board shall manage, control  and protect the forest for the dedicated
+purpose of maintaining a world-class research forest.
+(3) The Department of State Lands may take any action necessary for the management
+of the forest, including but not limited to:
+(a) Adopting rules in compliance with ORS chapter 183;
+(b) Adopting policies and plans;
+(c) Entering into intergovernmental agreements; and
+(d) Convening advisory committees.
+(4) The  Director of the Department of State Lands has all authority to procure, or su-
+pervise the procurement  of, goods and services related to the management of the forest,
+including but not limited to personal services and professional services  related to facilities
+used for management of the forest. Exercise of procurement authority under this  subsection
+is not subject to the Public Contracting Code.
+EXPANSION OR EXCHANGE OF LANDS
+SECTION 3.
+(1) The Elliott State Research Forest shall consist of lands determined by a
+resolution of the State  Land Board, as modified by any subsequent expansion or exchange
+of lands authorized by this section.
+(2) The board may not sell any  lands in the forest, but may approve an expansion of lands
+in the forest, or an exchange of lands in  the forest or timber on the lands, that furthers the
+purposes set forth in section 2 of this 2025 Act.
+Enrolled Senate Bill 147 (SB 147-B) Page 1
+(3) Lands in the forest may be exchanged:
+(a) Only if the exchange consolidates the forest.
+(b) Only for lands of approximately equal aggregate value  or a combination of lands and
+monetary consideration of approximately equal aggregate value.
+(4) Lands in the forest that are county-owned lands or lands acquired  under ORS 530.010
+to 530.040 may  be exchanged only if the county court or board of county commissioners of
+each county in which the land is situated has  been provided notice of the proposed exchange
+and the opportunity to consult, coordinate  and comment on the proposed exchange. The
+board shall provide the county with adequate compensation for the exchange.
+(5) The board shall consummate by legal  conveyance an expansion or exchange described
+in this section.
+(6) After an expansion or exchange of lands under this section:
+(a) The board shall establish by resolution the lands constituting the forest; and
+(b) The lands acquired by expansion or  exchange become part of the forest on the date
+on which the board adopts the resolution described in paragraph (a) of this subsection.
+ELLIOTT STATE RESEARCH FOREST ACCOUNT
+SECTION 4.
+(1) The Elliott State Research Forest Account  is established in the State
+Treasury, separate and  distinct from the General Fund. Interest earned by the account shall
+be credited to the account.
+(2) The account shall consist of all moneys deposited in  the account. Moneys in the ac-
+count may be invested as provided in ORS 293.701 to  293.857. Moneys in the account are
+continuously appropriated to the Department of State Lands for carrying out  the provisions
+of sections 2 and 3 of this 2025 Act.
+(3) Moneys generated from owning or operating the Elliott State  Research Forest, in-
+cluding from any sale of forest products, carbon or  ecosystem services or credits or ease-
+ment, and any other revenues related to the forest, shall be deposited in the account.
+(4) The department  may receive gifts, grants, bequests, endowments and donations of
+moneys from public and private sources for the purpose  of contributing to the management
+and enhancement of the forest, including for activities such as  recreation, education, inter-
+pretation, research and  monitoring, cultural resources management and habitat improve-
+ment.
+(5) The department may apply for, accept and  utilize grants from any source, including
+federal, state or local governments or private  entities, to further the purposes set forth in
+sections 2 and 3 of this 2025 Act.
+(6) The department shall deposit moneys received under subsection (4)  or (5) of this
+section in  the account. The department may expend moneys received under subsection (4)
+or (5) of this section only for purposes specified  in the gift, grant, bequest, endowment or
+donation. If no purpose is specified, the department may use the moneys for the management
+and enhancement of  the forest in a manner consistent with the purposes set forth in
+sections 2 and 3 of this 2025 Act.
+(7) The department shall keep a record of all moneys deposited  in the account. The re-
+cord shall indicate  the sources of moneys and the individual activity or program against
+which each withdrawal from the account is charged.
+CERTIFICATES OF PARTICIPATION FINANCING
+SECTION 5.
+ ORS 283.085 is amended to read:
+283.085. As used in ORS 283.085 to 283.092:
+(1) “Available funds” means funds appropriated or otherwise made available by  the Legislative
+Assembly to pay amounts due under a financing agreement for  the fiscal period in which the pay-
+Enrolled Senate Bill 147 (SB 147-B) Page 2
+ments are due, unexpended proceeds  of the financing agreement and reserves or other amounts that
+have been deposited in trust to pay amounts due under the financing agreement.
+(2) “Credit enhancement agreement” means any agreement  or contractual relationship between
+the state and any bank, trust company, insurance company, surety  bonding company, pension fund
+or other financial institution providing additional credit  on or security for a financing agreement
+or certificates of participation authorized by ORS 283.085 to 283.092.
+(3) “Financing agreement” means a lease purchase agreement, an installment sale agreement,  a
+loan agreement or any other agreement:
+(a) To finance real or personal property that is or will be owned and operated by the state  or
+any of its agencies;
+(b) To finance  infrastructure, including but not limited to telecommunications systems, systems
+for water, sewage, electricity, steam or natural gas and other equipment or  improvements that are
+necessary or appropriate to support a facility that is, or will be, owned or operated by the state;
+(c) To finance infrastructure components that are, or will be, owned or operated by  a local
+government agency of this state if the Director of  the Oregon Department of Administrative Ser-
+vices  determines  that financing the infrastructure facilitates the construction or operation of an
+adult or juvenile corrections facility or a public safety training facility owned or operated by  the
+state or any of its agencies;
+(d) To finance all or a portion  of the state’s pension liabilities for retirement, health care or
+disability benefits, in an  amount that produces net proceeds that do not exceed the State Treasurer’s
+estimate of those liabilities based on  information provided to the State Treasurer by the Public
+Employees Retirement System;
+(e) To finance:
+(A) The release of  all or a portion of the  former  Elliott State Forest from restrictions resulting
+from ownership of that forest by the Common School Fund; or
+(B) Compensation paid to the Common  School Fund for the preservation of noneconomic benefits
+of the  forest through the imposition, transfer or sale of restrictions such as easements, use re-
+quirements or other methods that preserve noneconomic benefits of the  forest for the public, in-
+cluding recreation, aesthetics, wildlife or habitat preservation  or other environmental and quality
+of life considerations; [ or]
+(f) To finance capital projects or purchases related to owning, operating or  administering
+the Elliott State Research Forest; or
+[(f)] (g)  To refinance previously executed financing agreements.
+(4) “Financing costs” means costs or  expenses that the director determines are necessary or
+desirable in connection with entering into  financing agreements and maintaining the certificate of
+participation program, including but not limited to payment of:
+(a) Amounts due under financing agreements;
+(b) Costs and obligations the director or any other agency  of the state incurs in connection with
+the exercise of a power granted by ORS 283.085 to 283.092; and
+(c) Amounts due in connection with the investment of proceeds of financing agreements.
+(5) “Personal property” means tangible personal property, software and fixtures.
+(6) “Property  rights” means, with respect to personal property, the rights of a secured party
+under ORS chapter 79, and, with respect to real property, the rights of a trustee or lender  under a
+lease authorized by ORS 283.089 (1)(e).
+(7) “Software” means software and training and maintenance contracts related to the  operation
+of computing equipment.
+DECOUPLING ELLIOTT STATE FOREST
+SECTION 6.
+ORS 530.450 is repealed.
+SECTION 7.  ORS 530.480 is amended to read:
+Enrolled Senate Bill 147 (SB 147-B) Page 3
+530.480. As the Common School Forest Lands are  determined as required by ORS 530.450 to
+530.520, such lands shall be described by  legal subdivision. The State Land Board and the State
+Board of Forestry, respectively in their regular meetings, shall by separate board resolutions des-
+ignate and set aside such lands as a part of  the Common School Forest Lands[ ; lands in the Elliott
+State Forest, as  determined by ORS 530.450, shall be similarly described and reserved ]. A copy of each
+board resolution  certified by the Director of the Department of State Lands or the State Forester,
+respectively,  together  with the description of the lands involved, shall be filed with the Secretary
+of State, who shall keep such copies and  descriptions in conjunction with the auditing records of the
+State Forestry Department Account.
+SECTION 8.
+ ORS 530.490 is amended to read:
+530.490. (1) Notwithstanding the provisions of any other law, or  authority granted thereunder,
+after the State Board of Forestry and State Land Board resolutions and legal descriptions  are filed
+with the Secretary of State as required by ORS  530.480, the State Forester hereby shall be author-
+ized, under the supervision of  the State Board of Forestry and the regulations of that board, to
+manage, control and protect the Common  School Forest Lands. [ Also, notwithstanding the provisions
+of any other law,  or authority granted thereunder, the State Forester hereby is authorized, under the
+supervision of the State Board of Forestry and the regulations of that board, to  manage, control and
+protect the Elliott  State Forest Lands. In each instance ] The State Forester shall manage, control and
+protect such forests and forestlands so as to secure the greatest  permanent value of the lands to the
+whole people  of the State of Oregon, particularly for the dedicated purposes of the lands and the
+common schools to which the resources of the lands are devoted.
+(2) Easements on, over and across the Common School Forest Lands [ and the Elliott  State Forest
+Lands] may be granted as follows:
+(a) Permanent easements determined by the State Forester and State Board of  Forestry as nec-
+essary to accomplish the dedicated purposes of such lands may be granted by  the Department of
+State Lands.
+(b) Easements other than permanent may be granted  by the State Forester under joint rules of
+the State Board of Forestry and Department of State Lands.
+(3) The authority granted the  State Forester in this section shall not supersede the authority
+of the Department  of State Lands to grant easements on or leases for the Common School Forest
+Lands [ and Elliott State Forest Lands ] for grazing purposes or for  the exploration and development
+of minerals, oil or gas, and any consideration received  by the Department of State Lands therefor
+shall be excepted from the provisions of ORS 530.520. However, the  Department of State Lands shall
+cooperate with the forestry program of the State  Forester in granting such easements and leases
+and make provisions therein for continuing the  primary purposes for which such land has been
+dedicated.
+SECTION 9.  ORS 530.510 is amended to read:
+530.510. (1) The State  Forester may propose and initiate any exchange of [ land of the Elliott
+State Forest or ] Common School Forest Lands, or propose and initiate any exchange of  timber on
+such lands, for land of  approximately equal aggregate value, when any such exchange is in the
+furtherance of the purposes of ORS 530.450 to 530.520. However:
+[(1) Any exchange of land of the Elliott State Forest must be for the consolidation of the forest; ]
+[(2)] (a)  The State Land Board and the  State Board of Forestry shall, each separately, approve
+such exchanges by resolutions of the respective boards; and
+[(3)] (b) The county court or board of county commissioners of the county, or counties,  in which
+such land is situated, shall approve  such exchange, and after such approval the exchanges shall be
+consummated by legal conveyance from the Department of State Lands.
+[(4)] (2)  Under the authority granted in this section, in addition to land to be exchanged, a
+monetary consideration may be provided or received where  necessary to make the values comply
+with this section. No exchange shall be made until title to the lands to  be received has been ap-
+proved by the Attorney General. All lands received in exchange shall have  the same status and be
+subject to the same provisions of law as the lands given in exchange therefor.
+Enrolled Senate Bill 147 (SB 147-B) Page 4
+SECTION 10.  ORS 530.520 is amended to read:
+530.520. (1) Excepting receipts from the easements and leases designated in ORS 530.490 (3),  all
+receipts from [ the Elliott State Forest and ] the Common School Forest Lands shall be paid  into the
+Common School  Fund and are continuously appropriated to the Department of State Lands for the
+purposes for which other moneys in the  Common School Fund may be used and to reimburse the
+Common School Forest Revolving Fund as provided in subsection (2) of this section.
+(2)(a) The Common School Forest Revolving Fund, in  an amount not exceeding $300,000, is es-
+tablished as a fund, separate and distinct from the General Fund,  in the State Treasury. Interest
+earned by  the fund shall be credited to the fund. The revolving fund is continuously appropriated
+to the State Forester for the payment of administrative expenses  incurred by the State Forester in
+the management, control and protection of [ the Elliott  State Forest and ] the Common School Forest
+Lands and in processing the  sale of forest products and the disposal of privileges under ORS 530.500.
+The revolving fund shall be reimbursed at least once  each month by submission to the Department
+of State Lands of a claim for payment approved by the State  Forester and payment of the claim to
+the revolving fund out of the Common  School Fund, that payment representing a portion of receipts
+paid into the Common School Fund under subsection (1) of this section.
+(b) As used  in paragraph (a) of this subsection, “administrative expenses” means a classification
+of expenses incurred by the State Forester in performing  functions referred to in paragraph (a) of
+this subsection as a whole, rather than expenses incurred in performing  any specific function that
+is a part of the whole; and it  means expenditures recognized as operating costs of a current or past
+period, including refund of overpayments in the sale  of forest products, and capital expenditures for
+buildings, furniture, fixtures or equipment.
+(3) After the end of each six-month  period the State Forester shall submit to the Department
+of State Lands a  statement of capital asset account balances as of the end of that period for
+buildings, furniture, fixtures and equipment held by the State Forester in performing functions  re-
+ferred to in subsection (2)(a) of this section and in  which the Common School Fund has a vested
+interest, showing the amount of that interest.
+SECTION 11.  ORS 30.949 is amended to read:
+30.949. (1) As used in this section:
+(a) “Access road” means a road owned or maintained by the State Forestry Department.
+(b) “Forest practice” has the meaning given that term in ORS 527.620.
+(c) “State forestland” means:
+(A) Forestland acquired under ORS 530.010 to 530.040; and
+(B) Common School Forest Lands [ and Elliott State Forest Lands ] managed under ORS 530.490.
+(2) A private  entity that contracts with the State Forestry Department to perform a forest
+practice has a right of action for the amount of actual damages against any person that,  while on
+state forestland or an access road on state forestland, intentionally commits an act  that hinders,
+impairs or obstructs or is an attempt to hinder, impair or obstruct, the performance of  the forest
+practice by the private entity. A court shall award a plaintiff  prevailing under this section reason-
+able attorney fees and costs.
+(3) If  the contract between the private entity and the department provides for the private entity
+to perform forest practices  in a defined area of state forestland that lies in more than one county,
+venue for a cause of action under this section is proper in any county containing part of the  area
+of state forestland defined by the contract terms in effect on the date the cause of action arose.
+(4) An action under this section must be commenced within two years after the  date of the act
+giving rise to the cause of action.
+TRANSFER OF DUTIES, FUNCTIONS AND POWERS
+SECTION 12.
+All of the duties, functions, powers and lawfully incurred rights and obli-
+gations of the State Board of Forestry that are  based on the authority in ORS chapter 530
+and that pertain to the former Elliott State  Forest are transferred to and vested in the State
+Enrolled Senate Bill 147 (SB 147-B) Page 5
+Land Board for the purposes set forth in  sections 2 and 3 of this 2025 Act related to the
+Elliott State Research Forest. The transfer shall include all  applicable contractual rights and
+obligations and  title to all applicable records, property, supplies and materials, including
+equipment, books and papers. For  the purpose of succession to these rights and obligations,
+the State Land Board is considered to be a continuation  of the State Board of Forestry and
+not a new authority, and the State Land Board must exercise such rights and fulfill  such
+obligations as if they had not been  assigned or transferred, except as otherwise provided by
+law.
+CAPTIONS
+SECTION 13. The unit captions used in this 2025 Act are provided  only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2025 Act.
+Passed by Senate May 14, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 4, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 147 (SB 147-B) Page 6
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 283.085, ORS 283.089, ORS 293.701, ORS 30.949, ORS 527.620, ORS 530.010, ORS 530.450, ORS 530.480, ORS 530.490, ORS 530.500, ORS 530.510, ORS 530.520
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `ff3a357b78735b4a4c1c165c842b201daa183084db920d87fa6b7b3d2cf9a840` (snapshot `_meta/snapshots/measure-2025r1-sb147-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB147/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `15dac432f6e5e211cb08d88fb1307777724746b36f6028123fdd15215bf599c3` (snapshot `_meta/snapshots/measure-2025r1-sb147-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB147/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 147` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

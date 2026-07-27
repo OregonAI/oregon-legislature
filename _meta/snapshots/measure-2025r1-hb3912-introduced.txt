@@ -1,0 +1,100 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3912
+Sponsored by Representative JAVADI
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes a person who says they are a  doctor on some materials say in what
+health care profession they are a doctor. (Flesch Readability Score: 69.6).
+Requires an individual who uses the title “doctor” in connection with a health  care profession
+to designate on specified material, including social  media and professional name badges, the health
+care profession in which the individual earned a doctoral degree.
+A BILL FOR AN ACT
+Relating to use of the title “doctor”; amending ORS 676.110.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 676.110 is amended to read:
+676.110. (1) An individual practicing a health care profession may not use the title  “doctor” in
+connection with the profession, unless the individual:
+(a) Has earned a doctoral degree in the individual’s field of practice; and
+(b)(A) Is licensed by a health professional regulatory board to practice the particular health care
+profession in which the individual’s doctoral degree was earned; or
+(B) Is working under a board-approved residency contract and  is practicing under the license
+of a supervisor who is licensed by [ a] the health professional regulatory board to practice the par-
+ticular health care profession in which the individual’s doctoral degree was earned.
+[(2) If an individual  uses the title “doctor” in connection with a health care profession at any time,
+the individual must designate the health care profession in which the individual’s doctoral  degree was
+earned on all written  or printed matter, advertising, billboards, signs or professional notices used in
+connection with the health care profession, regardless of whether the individual’s name or the  title
+“doctor” appears on the written or printed matter, advertising, billboard, sign or professional notice.
+The designation must be in letters  or print at least one-fourth the size of the largest letters used on the
+written or printed matter, advertising,  billboard, sign or professional notice, and in material, color, type
+or illumination to give display and legibility of at least one-fourth that of the  largest letters used on the
+written or printed matter, advertising, billboard, sign or professional notice. ]
+(2)(a) As  used in this subsection, “material” means electronic or printed matter, social
+media, advertising, billboards, signs, professional notices and professional name badges.
+(b) An individual who uses the title “doctor” in connection  with the health care profes-
+sion the individual practices shall designate the health care profession in which the individual
+earned a doctoral degree  on all material used in connection with the health care profession.
+The designation must:
+(A) Be in letters or print at least one-fourth the size of the largest letters or  print used
+on the material; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2386
+HB 3912
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+(B) Be in color, type, illumination or matter so as to give display and legibility of at  least
+one-fourth that of the largest letters used on the material.
+(3) Subsection (1) of this section does not prohibit:
+(a) A chiropractic physician licensed under ORS chapter 684 from using the title  “chiropractic
+physician”;
+(b) A naturopathic physician licensed under ORS chapter  685 from using the title “naturopathic
+physician”;
+(c) A person licensed to practice optometry under ORS chapter 683  from using the title “doctor
+of optometry” or “optometric physician”; or
+(d) A physician licensed under ORS 677.805 to 677.840 from using the title  “podiatric
+physician.”
+[2]

@@ -1,0 +1,104 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3207
+Sponsored by Representative NGUYEN H; Representatives RUIZ, WRIGHT, Senator WEBER (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells ODE  to use state money to help school districts with technology for the early
+warning system. (Flesch Readability Score: 65.1).
+Directs the Department of Education to use moneys from the Statewide  Education Initiatives
+Account to provide school districts with technology for data analysis  systems for the early warning
+system.
+A BILL FOR AN ACT
+Relating to an early warning system for students; amending ORS 327.367.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 327.367 is amended to read:
+327.367. (1) In addition to those moneys distributed through  the State School Fund, the Depart-
+ment of Education  shall [ award grants ] use moneys  from the Statewide Education Initiatives Ac-
+count to [ school districts to implement the early warning system described in this section that ] assist
+students in graduating from high school[ .] by:
+(a) Awarding grants to school districts to implement  the early warning system described
+in this section; and
+(b) Providing school districts with technology  for data analysis systems that assist school
+districts in implementing the early warning system described in this section.
+(2)(a) A system funded by a grant awarded under this  section must enable school districts, stu-
+dents, students’ families, educators, school counselors and community organizations to take  neces-
+sary corrective actions to assist students in graduating from high school.
+(b) Corrective actions that may be taken  must be based on research on graduation rates and on
+reports of individual students related to:
+(A) The student’s attendance;
+(B) The student’s behavior at school;
+(C) The student’s academic or skill progress; and
+(D) Any other factors identified by the State Board of Education by rule.
+(3) The department shall assist school districts that may apply for a grant under this  section,
+that have applied for a grant  under this section or that have received a grant under this section,
+as appropriate, by:
+(a) Providing technical assistance to school districts to ensure  that the school districts under-
+stand the goals and objectives of the system;
+(b) Assisting school districts in developing expertise  in assisting students in graduating from
+high school and developing a culture that encourages and assists students in  graduating from high
+school;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2356
+HB 3207
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+(c) Identifying meaningful predictive indicators of high school graduation;
+(d) Developing local communication systems among  students, students’ families, educators and
+community organizations to assist students in graduating from high school;
+(e) Identifying and  developing interventions at school, at home and in the community to meet
+students’ needs; and
+(f) Reviewing existing policies and practices to:
+(A) Expand policies and practices that encourage high school graduation; and
+(B) Eliminate or modify policies and practices that may provide  a disincentive to graduate from
+high school.
+(4) The amount of each grant awarded under this section shall equal the  school district’s ADM
+as defined in ORS 327.006 ×  $3.
+(5) The State Board of Education shall adopt any rules necessary for the  administration of the
+grants described in this section.
+[2]

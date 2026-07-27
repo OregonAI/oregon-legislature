@@ -1,0 +1,124 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3243
+Sponsored by Representative NOSSE; Representatives JAVADI, PHAM H, Senator PATTERSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells ambulance service providers not to balance bill some patients and makes them re-
+port local rates to DCBS. Makes some rules about health insurance for ambulance services.  Tells
+DCBS to make a new database of local rates and allows for  penalties. (Flesch Readability Score:
+60.9).
+Prohibits balance billing for ambulance ground  transportation services and creates rules for
+health benefit plan coverage of ambulance services.  Establishes a database of local rates for ambu-
+lance services and allows for penalties to be imposed for violations.
+A BILL FOR AN ACT
+Relating to billing for ground ambulance services; amending ORS 743A.014.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 743A.014 is amended to read:
+743A.014. (1) As used in this section[ ,]:
+(a) “Enrollee” has the meaning given that term in ORS 743B.005.
+(b) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+(c) “Health care  facility” means a facility that provides health care services directly to
+patients, including but not limited to a hospital, clinic,  health care provider’s office, health
+maintenance organization, diagnostic or treatment center, mental health facility,  hospice or
+nursing home.
+(d) “In-network” has the meaning given that term in ORS 743B.280.
+(e) “Out-of-network” means a provider or provider group that has not contracted or  has
+indirectly contracted with the insurer or health care service contractor.
+(2) Notwithstanding ORS 743.543, with respect to  a health benefit plan or a Medicare supple-
+ment insurance policy that provides coverage for ambulance care and transportation, the  insurer
+shall indemnify directly the provider of the ambulance care and transportation.
+(3) An ambulance service may  not bill an enrollee for covered ground transportation
+services, including nonemergency transportation between  health care facilities, if the
+enrollee has paid the in-network cost-sharing amount specified in the enrollee’s  health ben-
+efit plan.
+(4) For ambulance ground transportation services covered by a health benefit plan, the
+insurer:
+(a) May not impose an out-of-pocket maximum that exceeds 100  dollars for in-network
+or out-of-network providers;
+(b) Must apply any out-of-pocket costs toward any applicable deductible;
+(c) May not impose  a deductible, out-of-pocket maximum, copayment or coinsurance re-
+quirement on services provided by out-of-network  providers that exceeds the deductible,
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 711
+HB 3243
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+out-of-pocket maximum, copayment  or coinsurance requirement imposed on services pro-
+vided by in-network providers; and
+(d) Must provide  an explanation of benefits to the enrollee that reflects the cost-sharing
+amount.
+(5) Unless the health benefit plan and the ambulance service have a contracted  rate, the
+health benefit plan must reimburse the ambulance service at the established  local rate, as
+described in this section,  or if an established local rate does not exist, in an amount no less
+than 400 percent of the Medicare rate.
+(6) The Department of Consumer and Business Services  shall create a database of es-
+tablished local rates for ambulance ground transportation services. The department  shall
+ensure this database is accessible by the public.
+(7) Ambulance services  shall submit a catalog of local ground transportation rates to the
+department annually and within five calendar days of a change to the rates.
+(8) The provisions of this section apply to a self-funded  group health plan whether gov-
+erned by or exempt  from the provisions of the Employee Retirement Income Security Act
+of 1974 (29 U.S.C. 1001  et seq.), as amended, only if the self-funded group health plan elects
+to participate in the provisions of this section by providing notice to the department in  the
+form and manner described by the department by rule.
+(9) This section is exempt from ORS 743A.001.
+(10) The department shall make rules to implement the  provisions described in this sec-
+tion.
+(11) The department may impose civil penalties, as described in  ORS 731.988, but not to
+exceed $1,000 for repeated violations of this section.
+[2]

@@ -1,0 +1,159 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3492
+Sponsored by Representative GRAYBER
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells DOGAMI to study and report on risks related to toxic substances that
+may be released in an earthquake. (Flesch Readability Score: 60.6).
+Directs the State  Department of Geology and Mineral Industries to study risks and issues re-
+lating to earthquake-induced dispersion of hazardous materials.  Requires the department to submit
+a report on the study to the State Resilience Officer by December 1, 2027.  Provides that the study
+and report  are confidential pending review by the Director of the Oregon Department of Emergency
+Management.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to seismic hazards; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The State Department of Geology and Mineral  Industries shall study
+risks related to earthquake-induced dispersion of  hazardous materials. The department may
+use any appropriate methodology or methodologies to carry out the study.
+(2) The primary goal of the study is to compile data and information that will assist local
+emergency management agencies in creating and improving emergency response plans.
+(3) In carrying out the study, the department shall seek to:
+(a) Increase understanding of the scale and extent of risks related to  earthquake-induced
+dispersion of hazardous materials by:
+(A) Identifying areas of concern by looking at geographic areas with  the highest seismic
+risk;
+(B) Identifying the  highest risk facilities within seismic risk zones, using appropriate
+criteria such as the Toxic (Operational) Hazard Score  developed by the U.S. Naval Research
+Laboratory; and
+(C) Reporting on the statewide number of facilities of concern and their geographic dis-
+tribution, along with any relevant findings from this inquiry;
+(b) By modeling various scenarios, increase understanding of the potential  impact on
+immediate areas, workers and surrounding populations  in the event of uncontrolled release
+of hazardous material from identified facilities resulting from an  earthquake, including de-
+veloping information on the following:
+(A) Projected paths of movement of hazardous  material and the severity of its effects,
+as may vary according to region, season and other conditions;
+(B) Proximity of facilities of concern to populations who would be most at risk from an
+uncontrolled release, and estimated total population who would be most at risk;
+(C) Where possible using publicly available information, demographic  analysis of the im-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4124
+HB 3492
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+pacted populations most at risk using an environmental justice analysis; and
+(D) Where possible using publicly available information, estimates on probability of  un-
+controlled release of  hazardous material based on a facility’s current state of seismic read-
+iness, accounting for any major seismic resiliency improvements made to the facility; and
+(c) Increase understanding of possible solutions to such hazards by:
+(A) Conducting a  review of existing regulatory programs to which relevant facilities are
+subject;
+(B) Conducting a policy review of seismic requirements and mitigation programs in  other
+jurisdictions that address relevant risks and issues; and
+(C) Conducting a  literature review of mitigation solutions and obtaining an engineering
+review of such solutions.
+(4) The department may consult, partner or contract with any appropriate entity in car-
+rying out the study. The department and  other involved entities may consult with state
+agencies to define the scope of high-risk facilities for purposes of the study.
+(5) On or before December 1, 2027,  the department shall submit a report on the findings
+of the study to the State Resilience Officer. At  the time the department submits the report
+to the State Resilience Officer, the department shall submit a copy of the report to the  Di-
+rector of the Oregon Department of Emergency Management to conduct the review described
+in section 2 of this 2025 Act.
+SECTION 2.
+(1) The report prepared under  section 1 of this 2025 Act and all materials
+prepared or obtained in connection with the  report are confidential, exempt from disclosure
+under ORS 192.311 to 192.478 and may not be distributed to any parties other than the State
+Department of Geology and Mineral  Industries, the State Resilience Officer and the Director
+of the Oregon  Department of Emergency Management, except as otherwise provided in this
+section.
+(2) The director shall review the report and designate portions  that may be made publicly
+available, including disclosure under ORS 192.311 to 192.478, and portions that may be trans-
+mitted to local emergency management agencies under the condition that such  agencies hold
+such portions confidential. Portions of the report  may be distributed in accordance with such
+designations.
+(3) In performing the review and designations, the director  shall consider whether dis-
+semination of information in the report may  create security concerns, the utility of infor-
+mation in the report to local  emergency management agencies and the public interest in
+government transparency.
+(4) The State Resilience Officer, after consultation with the  director, may make recom-
+mendations based on information in the report to local emergency management agencies
+before the director’s review and designations are completed.
+SECTION 3.
+This 2025 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+on its passage.
+[2]

@@ -1,0 +1,298 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2299
+Sponsored by Representatives MANNIX, MCLAIN, HARTMAN (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes a crime to include disclosing fake nude or sexual images  and makes
+the offense level  higher. The Act creates a new crime about disclosing nude or sexual images.
+(Flesch Readability Score: 62.8).
+Increases the penalty for  unlawful dissemination of an intimate image and renames the crime.
+Punishes by a maximum of five years’ imprisonment, $125,000 fine, or  both, or 10 years’
+imprisonment, $250,000 fine, or both, if the person has  a prior conviction. Modifies the crime to in-
+clude the disclosure of digitally created, manipulated or altered images.
+Creates the crime of unlawful dissemination of an  intimate image in the second degree. Punishes
+by a maximum of 364 days’ imprisonment, $6,250 fine, or both, or five years’  imprisonment, $125,000
+fine, or both, if the person has a prior conviction.
+A BILL FOR AN ACT
+Relating to the  unlawful dissemination of intimate images; creating new provisions; and amending
+ORS 30.833, 161.005, 163.472 and 659A.270.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 163.472, as amended by section 4, chapter 42, Oregon Laws 2024, is  amended
+to read:
+163.472. (1) A  person commits the crime of unlawful dissemination of an intimate image  in the
+first degree if:
+(a) The person,  with the intent to harass, humiliate or injure another person, knowingly causes
+to be disclosed an image of the other person whose intimate parts are visible or who  is engaged in
+sexual conduct;
+(b) The  person knows or reasonably should have known that the other person does not consent
+to the disclosure;
+(c) The other person is harassed, humiliated or injured by the disclosure; and
+(d) A reasonable person would be harassed, humiliated or injured by the disclosure.
+(2)(a) Except as  provided in paragraph (b) of this subsection, unlawful dissemination of an inti-
+mate image is a [ Class A misdemeanor ] Class C felony .
+(b) Unlawful dissemination of an intimate image in the first degree  is a [ Class C felony ] Class
+B felony  if the  person has a prior conviction under this section  or section 2 of this 2025 Act  at
+the time of the offense.
+(3) As used in this section  and section 2 of this 2025 Act :
+(a) “Disclose” includes, but is not limited to, transfer, publish, distribute,  exhibit, advertise and
+offer.
+(b) “Image” includes, but is  not limited to, [ a photograph, film, videotape, recording, digital pic-
+ture and other visual reproduction ] the following , regardless of the manner in which the image  is
+stored :
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 631
+HB 2299
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) A photograph, film,  videotape, recording, digital picture or other visual reproduction.
+(B) A digitally created, manipulated or altered depiction that is reasonably realistic .
+(c) “Information content provider” has the meaning given that term in 47 U.S.C. 230(f).
+(d) “Interactive computer service” has the meaning given that term in 47 U.S.C. 230(f).
+(e) “Intimate parts” means uncovered human genitals, pubic areas or female nipples.
+(f) “Sexual conduct” means sexual intercourse or oral or anal sexual intercourse,  as those terms
+are defined in ORS 163.305, or masturbation.
+(4) This section [ does] and section 2 of this 2025 Act do  not apply to:
+(a) Activity by law enforcement agencies investigating and prosecuting criminal offenses;
+(b) Legitimate medical, scientific or educational activities;
+(c) Legal proceedings, when disclosure is consistent with common practice in civil  proceedings
+or necessary for the proper functioning of the criminal justice system;
+(d) The reporting of unlawful conduct to a law enforcement agency;
+(e) Disclosures that serve a lawful public interest;
+(f) Disclosures of images:
+(A) Depicting the  other person voluntarily displaying, in a public area, the other person’s inti-
+mate parts or engaging in sexual conduct; or
+(B) Originally created for a commercial purpose with the consent of the other person; or
+(g) The provider of  an interactive computer service for an image of intimate parts provided by
+an information content provider.
+SECTION 2.
+(1) A person commits  the crime of unlawful dissemination of an intimate
+image in the second degree if:
+(a) The person knowingly causes to be  disclosed an image of the other person whose in-
+timate parts are visible or who is engaged in sexual conduct;
+(b) The person is aware  of and consciously disregards a substantial and unjustifiable risk
+that the other person will be harassed, humiliated or injured by the disclosure;
+(c) The person knows or reasonably should have known that the other  person does not
+consent to the disclosure;
+(d) The other person is harassed, humiliated or injured by the disclosure; and
+(e) A reasonable person would be harassed, humiliated or injured by the disclosure.
+(2)(a) Except as provided in paragraph (b) of this subsection,  unlawful dissemination of
+an intimate image in the second degree is a Class A misdemeanor.
+(b) Unlawful dissemination of an intimate image in the second degree is a Class C  felony
+if the person has a prior conviction under  this section or ORS 163.472 at the time of the of-
+fense.
+SECTION 3.
+ ORS 30.833 is amended to read:
+30.833. (1) Irrespective of any criminal prosecution or the result thereof, a person  depicted in
+an image disclosed in violation of ORS 163.472  or section 2 of this 2025 Act , or that person’s par-
+ent or guardian, representative or estate, shall have a civil  action to secure an injunction, damages
+or other appropriate relief against any and all persons  whose actions are unlawful under ORS
+163.472 or section 2 of this 2025 Act .
+(2) Upon prevailing in such action, the plaintiff may recover:
+(a) The greater of:
+(A) Special and general damages, including damages for emotional distress; or
+(B) Statutory damages  of $5,000 per plaintiff against each defendant found liable under this
+[2]
+HB 2299
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+section;
+(b) An amount equal to any economic gain received by the defendant for the disclosure; and
+(c) Punitive damages.
+(3) The court may  award reasonable attorney fees to the prevailing plaintiff in an action under
+this section.
+(4) An emancipated minor, or the parent, parents or legal guardian of an unemancipated minor,
+shall be liable for any judgment recovered against such minor under this section, in an amount  not
+to exceed $5,000.
+(5) A civil action under  this section does not affect a right or remedy available under any other
+law of this state.
+(6) An  award of statutory damages described in subsection (2) of this section is not evidence of
+the existence or the amount of economic damages for purposes of restitution under ORS 137.106.
+SECTION 4.
+ ORS 161.005 is amended to read:
+161.005. ORS 161.005 to 161.055, 161.065, 161.085 to 161.125, 161.150  to 161.175, 161.190 to
+161.275, 161.290 to 161.373, 161.405 to 161.485, 161.505 to 161.585, 161.605, 161.615 to 161.685, 161.705
+to 161.737, 162.005, 162.015 to 162.035, 162.055 to 162.115, 162.135  to 162.205, 162.225 to 162.375,
+162.405 to 162.425, 162.465, 163.005, 163.095, 163.107, 163.115, 163.125 to 163.145,  163.149, 163.160 to
+163.208, 163.191, 163.196, 163.215 to 163.257, 163.261, 163.263,  163.264, 163.266, 163.275, 163.285,
+163.305 to 163.467, 163.429, 163.432, 163.433, 163.472, 163.505 to 163.575, 163.665  to 163.693, 163.700,
+163.701, 163.715, 164.005, 164.015 to 164.135, 164.138, 164.140, 164.205 to 164.270, 164.305 to 164.377,
+164.395 to 164.415, 164.805, 164.857, 164.886, 165.002 to 165.102, 165.109, 165.118,  165.805, 165.815,
+166.005 to 166.095,  166.119, 166.125, 166.128, 166.350, 166.382, 166.384, 166.660, 167.002 to 167.027,
+167.057, 167.060 to 167.100, 167.117, 167.122 to 167.162, 167.203 to 167.252,  167.310 to 167.340, 167.350,
+167.810 and 167.820 and section 2 of this 2025 Act  shall be  known and may be cited as Oregon
+Criminal Code of 1971.
+SECTION 5.  ORS 659A.270 is amended to read:
+659A.270. As used in ORS 659A.270 to 659A.285:
+(1) “Covered employer” means an employer who employs six  or more individuals in the State
+of Oregon for each working day during each of 20 or more  calendar workweeks in the year in which
+an eligible employee takes leave to address domestic violence, harassment, sexual assault, bias or
+stalking, or in the year immediately preceding the year in  which an eligible employee takes leave
+to address domestic violence, harassment, sexual assault, bias or stalking.
+(2) “Eligible employee” means an employee who  is a victim of domestic violence, harassment,
+sexual assault, bias or stalking or is the  parent or guardian of a minor child or dependent who is
+a victim of domestic violence, harassment, sexual assault, bias or stalking.
+(3) “Protective order” means  an order authorized by ORS 30.866, 107.095 (1)(c), 107.700 to
+107.735, 124.005 to 124.040, 163.730 to 163.750 or 163.760 to 163.777 or any other order that restrains
+an individual from contact with an eligible employee or the employee’s minor child or dependent.
+(4) “Victim of bias” means:
+(a) An individual who has been a victim of a bias crime as defined in ORS 147.380; or
+(b) Any other individual designated as a victim of bias by rule adopted under ORS 659A.805.
+(5) “Victim of domestic violence” means:
+(a) An individual who has been a victim of abuse, as defined in ORS 107.705; or
+(b) Any other individual designated as  a victim of domestic violence by rule adopted under ORS
+659A.805.
+[3]
+HB 2299
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+(6) “Victim of harassment” means:
+(a) An individual against whom harassment has been committed as described in ORS 166.065.
+(b) Any  other individual designated as a victim of harassment by rule adopted under ORS
+659A.805.
+(7) “Victim of sexual assault” means:
+(a) An individual against  whom a sexual offense has been committed as described in ORS 163.305
+to 163.467, 163.472 or 163.525  or section 2 of this 2025 Act ; or
+(b) Any other  individual designated as a victim of sexual assault by rule adopted under ORS
+659A.805.
+(8) “Victim of stalking” means:
+(a) An individual against whom stalking has been committed as described in ORS 163.732;
+(b) An individual designated as a victim of stalking by rule adopted under ORS 659A.805; or
+(c) An individual who  has obtained a court’s stalking protective order or a temporary court’s
+stalking protective order under ORS 30.866.
+(9) “Victim services provider” means a  prosecutor-based victim assistance program or a
+nonprofit program offering  safety planning, counseling, support or advocacy related to domestic vi-
+olence, harassment, sexual assault, bias or stalking.
+[4]

@@ -1,0 +1,634 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3773
+title: 'HB 3773 (2025R1): Requires the Oregon Health Authority to adopt by rule qualification criteria
+  for veteran-specific personal health navigators as an additional category of traditional health workers.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3773
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3773/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: af3f2606e95fba18e3f42650ccfeac172a7e3b58c7310b79bad6c865225f1ce3
+snapshot_id: measure-2025r1-hb3773-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 411.439
+  - ORS 411.447
+  - ORS 411.704
+  - ORS 411.877
+  - ORS 413.017
+  - ORS 413.022
+  - ORS 413.600
+  - ORS 414.025
+  - ORS 414.065
+  - ORS 414.115
+  - ORS 414.117
+  - ORS 414.325
+  - ORS 414.572
+  - ORS 414.654
+  - ORS 414.655
+  - ORS 414.665
+  - ORS 414.690
+  - ORS 414.710
+  - ORS 59.015
+  - ORS 677.010
+  - ORS 678.375
+  - ORS 73.0104
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3773
+prefix_meaning: House Bill
+catch_line: Requires the Oregon Health Authority to adopt by rule qualification criteria for veteran-specific
+  personal health navigators as an additional category of traditional health workers.
+minority_catch_line: null
+measure_summary: "\tDigest: Adds persons who work with veterans as a new type of traditional health workers.\
+  \ (Flesch Readability Score: 65.7). \n\tRequires the Oregon Health Authority to adopt by rule qualification\
+  \ criteria for veteran-specific personal health navigators as an additional category of traditional\
+  \ health workers."
+relating_to: Relating to veterans.
+relating_to_full: Relating to veterans; amending ORS 414.025 and 414.665.
+at_the_request_of: null
+lc_number: 1650
+measure_created_date: '2025-02-25T11:02:08'
+measure_modified_date: '2025-04-15T12:05:53'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 34666
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 411.439
+  - ORS 411.447
+  - ORS 411.704
+  - ORS 411.877
+  - ORS 413.017
+  - ORS 413.022
+  - ORS 413.600
+  - ORS 414.025
+  - ORS 414.065
+  - ORS 414.115
+  - ORS 414.117
+  - ORS 414.325
+  - ORS 414.572
+  - ORS 414.654
+  - ORS 414.655
+  - ORS 414.665
+  - ORS 414.690
+  - ORS 414.710
+  - ORS 59.015
+  - ORS 677.010
+  - ORS 678.375
+  - ORS 73.0104
+  from_relating_to_full:
+  - ORS 414.025
+  - ORS 414.665
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3773`.
+
+# HB 3773 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3773, 2025 Regular Session (2025R1)
+- **LC number:** 1650
+- **Created:** 2025-02-25T11:02:08
+- **Metadata last modified (upstream):** 2025-04-15T12:05:53
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 34666 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3773/Introduced>.
+
+## Summary
+
+**Catchline:** Requires the Oregon Health Authority to adopt by rule qualification criteria for veteran-specific personal health navigators as an additional category of traditional health workers.
+
+**Relating to:** Relating to veterans.
+
+Digest: Adds persons who work with veterans as a new type of traditional health workers. (Flesch Readability Score: 65.7). 
+ Requires the Oregon Health Authority to adopt by rule qualification criteria for veteran-specific personal health navigators as an additional category of traditional health workers.
+
+**RelatingToFull (verbatim upstream field):** Relating to veterans; amending ORS 414.025 and 414.665.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3773
+Sponsored by Representative BOICE, Senator MANNING JR; Senators MEEK, WOODS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Adds persons who work with veterans as a new type of traditional health workers.
+(Flesch Readability Score: 65.7).
+Requires the Oregon Health Authority to adopt by rule qualification  criteria for veteran-specific
+personal health navigators as an additional category of traditional health workers.
+A BILL FOR AN ACT
+Relating to veterans; amending ORS 414.025 and 414.665.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 414.025, as amended by section 5, chapter 18, Oregon Laws 2024, is  amended
+to read:
+414.025. As used in this chapter and ORS chapters 411 and 413,  unless the context or a specially
+applicable statutory definition requires otherwise:
+(1)(a) “Alternative payment methodology” means a  payment other than a fee-for-services pay-
+ment, used by coordinated care organizations as compensation for the provision of integrated  and
+coordinated health care and services.
+(b) “Alternative payment methodology” includes, but is not limited to:
+(A) Shared savings arrangements;
+(B) Bundled payments; and
+(C) Payments based on episodes.
+(2) “Behavioral health assessment” means an evaluation  by a behavioral health clinician, in
+person or using telemedicine, to determine a patient’s need for immediate crisis stabilization.
+(3) “Behavioral health clinician” means:
+(a) A licensed psychiatrist;
+(b) A licensed psychologist;
+(c) A licensed nurse practitioner with a specialty in psychiatric mental health;
+(d) A licensed clinical social worker;
+(e) A licensed professional counselor or licensed marriage and family therapist;
+(f) A certified clinical social work associate;
+(g) An intern or resident who  is working under a board-approved supervisory contract in a
+clinical mental health field; or
+(h) Any other clinician whose  authorized scope of practice includes mental health diagnosis and
+treatment.
+(4) “Behavioral health crisis” means a disruption in an individual’s  mental or emotional stability
+or functioning resulting in an urgent need for immediate outpatient treatment  in an emergency de-
+partment or admission to a hospital to prevent a serious deterioration in the individual’s  mental or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1650
+physical health.
+(5) “Behavioral health home” means a mental health disorder or substance use  disorder treat-
+ment organization, as defined by the  Oregon Health Authority by rule, that provides integrated
+health care to individuals whose primary diagnoses are mental health disorders or  substance use
+disorders.
+(6) “Category of aid” means assistance provided by the Oregon Supplemental  Income Program,
+aid granted under ORS 411.877 to 411.896 and 412.001 to 412.069  or federal Supplemental Security
+Income payments.
+(7) “Community health worker” means an individual who meets  qualification criteria adopted
+by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in an  urban or rural community, either for pay or as a volunteer in association with
+a local health care system;
+(c) To  the extent practicable, shares ethnicity, language, socioeconomic status and life experi-
+ences with the residents of the community the worker serves;
+(d) Assists members of the community to improve their health  and increases the capacity of the
+community to meet the health care needs of its residents and achieve wellness;
+(e) Provides  health education and information that is culturally appropriate to the individuals
+being served;
+(f) Assists community residents in receiving the care they need;
+(g) May give peer counseling and guidance on health behaviors; and
+(h) May provide direct services such as first aid or blood pressure screening.
+(8) “Coordinated care organization” means an organization meeting criteria adopted by the
+Oregon Health Authority under ORS 414.572.
+(9) “Dually eligible for Medicare and Medicaid” means, with respect to eligibility for enrollment
+in a  coordinated care organization, that an individual is eligible for health services funded by Title
+XIX of the Social Security Act and is:
+(a) Eligible for or enrolled in Part A of Title XVIII of the Social Security Act; or
+(b) Enrolled in Part B of Title XVIII of the Social Security Act.
+(10)(a) “Family support specialist” means an individual who meets  qualification criteria adopted
+by the authority under ORS 414.665 and who provides supportive services to and  has experience
+parenting a child who:
+(A) Is a current or former consumer of mental health or addiction treatment; or
+(B) Is facing or has faced difficulties in accessing education, health and  wellness services due
+to a mental health or behavioral health barrier.
+(b) A “family support specialist” may be a peer wellness specialist or a peer support specialist.
+(11) “Global budget” means a total amount established prospectively  by the Oregon Health Au-
+thority to be paid to a coordinated care organization for the delivery  of, management of, access to
+and quality of the health care delivered to members of the coordinated care organization.
+(12) “Health insurance exchange” or “exchange” means an American Health  Benefit Exchange
+described in 42 U.S.C. 18031, 18032, 18033 and 18041.
+(13) “Health services” means at least so much of each of the following as are funded by  the
+Legislative Assembly based upon the prioritized  list of health services compiled by the Health Evi-
+dence Review Commission under ORS 414.690:
+(a) Services  required by federal law to be included in the state’s medical assistance program in
+order for the program to qualify for federal funds;
+(b) Services  provided by a physician as defined in ORS 677.010, a nurse practitioner licensed
+under ORS 678.375, a behavioral health clinician or other licensed practitioner  within the scope of
+the practitioner’s practice as defined by state law, and ambulance services;
+(c) Prescription drugs;
+(d) Laboratory and X-ray services;
+(e) Medical equipment and supplies;
+(f) Mental health services;
+(g) Chemical dependency services;
+(h) Emergency dental services;
+(i) Nonemergency dental services;
+(j) Provider  services, other than services described in paragraphs (a) to (i), (k), (L) and (m) of
+this subsection, defined by federal law that may be included in the state’s  medical assistance pro-
+gram;
+(k) Emergency hospital services;
+(L) Outpatient hospital services; and
+(m) Inpatient hospital services.
+(14) “Income” has the meaning given that term in ORS 411.704.
+(15)(a) “Integrated health care” means care provided to individuals and their families in  a pa-
+tient centered primary care home or behavioral health home by licensed primary care clinicians,
+behavioral health clinicians and other care team members, working together to address one or more
+of the following:
+(A) Mental illness.
+(B) Substance use disorders.
+(C) Health behaviors that contribute to chronic illness.
+(D) Life stressors and crises.
+(E) Developmental risks and conditions.
+(F) Stress-related physical symptoms.
+(G) Preventive care.
+(H) Ineffective patterns of health care utilization.
+(b) As used in this subsection, “other care team members” includes but is not limited to:
+(A) Qualified mental health professionals or  qualified mental health associates meeting require-
+ments adopted by the Oregon Health Authority by rule;
+(B) Peer wellness specialists;
+(C) Peer support specialists;
+(D) Community health workers who have completed a state-certified training program;
+(E) Personal health navigators; or
+(F) Other qualified individuals approved by the Oregon Health Authority.
+(16) “Investments and savings” means  cash, securities as defined in ORS 59.015, negotiable in-
+struments as defined in ORS 73.0104 and such similar investments or savings  as the department or
+the authority may establish by rule  that are available to the applicant or recipient to contribute
+toward meeting the needs of the applicant or recipient.
+(17) “Medical assistance” means so much of the medical,  mental health, preventive, supportive,
+palliative and remedial care and services as may be prescribed by the  authority according to the
+standards established pursuant to ORS  414.065, including premium assistance under ORS 414.115 and
+414.117, payments made for services provided under an insurance or other contractual arrangement
+and money paid directly to the recipient for the purchase of health services and for services  de-
+scribed in ORS 414.710.
+(18) “Medical assistance”  includes any care or services for any individual who is a patient in
+a medical  institution or any care or services for any individual who has attained 65 years of age
+or is under 22 years of age, and who is a patient in a  private or public institution for mental dis-
+eases. Except as provided in ORS 411.439 and 411.447, “medical assistance” does not include  care
+or services for a resident of a nonmedical public institution.
+(19) “Patient centered primary care home” means a health  care team or clinic that is organized
+in accordance with the standards established by the Oregon  Health Authority under ORS 414.655
+and that incorporates the following core attributes:
+(a) Access to care;
+(b) Accountability to consumers and to the community;
+(c) Comprehensive whole person care;
+(d) Continuity of care;
+(e) Coordination and integration of care; and
+(f) Person and family centered care.
+(20) “Peer support specialist” means any  of the following individuals who meet qualification
+criteria adopted by the authority under ORS 414.665 and  who provide supportive services to a cur-
+rent or former consumer of mental health or addiction treatment:
+(a) An individual who is a current or former consumer of mental health treatment; or
+(b) An individual who is in recovery, as defined by the Oregon Health Authority by rule, from
+an addiction disorder.
+(21) “Peer wellness specialist” means an  individual who meets qualification criteria adopted by
+the authority under ORS 414.665 and who is responsible for assessing  mental health and substance
+use disorder service and support needs of a member of a coordinated care organization through
+community outreach, assisting members  with access to available services and resources, addressing
+barriers to services and providing education and information about available resources for  individ-
+uals with mental health  or substance use disorders in order to reduce stigma and discrimination
+toward consumers of mental health and substance use disorder services and to assist  the member
+in creating and maintaining recovery, health and wellness.
+(22) “Person centered care” means care that:
+(a) Reflects the individual patient’s strengths and preferences;
+(b) Reflects the clinical needs  of the patient as identified through an individualized assessment;
+and
+(c) Is based upon the patient’s goals and will assist the patient in achieving the goals.
+(23) “Personal health navigator” means an individual who meets qualification criteria adopted
+by the authority under ORS 414.665 and who  provides information, assistance, tools and support to
+enable a patient to make the  best health care decisions in the patient’s particular circumstances and
+in light of the patient’s needs, lifestyle, combination of conditions and desired outcomes.
+(24) “Prepaid managed care health services organization” means a managed  dental care, mental
+health or chemical  dependency organization that contracts with the authority under ORS 414.654
+or with a coordinated  care organization on a prepaid capitated basis to provide health services to
+medical assistance recipients.
+(25) “Quality measure” means the health outcome and quality measures and benchmarks  identi-
+fied by the Health Plan Quality Metrics Committee and the metrics  and scoring subcommittee in
+accordance with ORS 413.017 (4) and  413.022 and the quality metrics developed by the Behavioral
+Health Committee in accordance with ORS 413.017 (5).
+(26)(a) “Quality of life in general measure”  means an assessment of the value, effectiveness or
+cost-effectiveness of a treatment that gives greater value to a year of life lived in perfect health than
+the value given to a year of life lived in less than perfect health.
+(b) “Quality of life in general measure” does not  mean an assessment of the value, effectiveness
+or cost-effectiveness of a treatment during a clinical trial in which a study participant is  asked to
+rate the participant’s physical function, pain, general  health, vitality, social functions or other sim-
+ilar domains.
+(27) “Resources” has the meaning given that term in ORS 411.704.  For eligibility purposes, “re-
+sources” does not include charitable contributions raised by a community  to assist with medical
+expenses.
+(28) “Social determinants of health” means:
+(a) Nonmedical factors that influence health outcomes;
+(b) The conditions in which individuals are born, grow, work, live and age; and
+(c) The forces and systems  that shape the conditions of daily life, such as economic policies and
+systems, development agendas, social norms, social policies, racism, climate  change and political
+systems.
+(29) “Tribal traditional health worker” means an individual who meets qualification  criteria
+adopted by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in a tribal community or an urban Indian community, either for pay or as a volunteer
+in association with a local health care system;
+(c) To  the extent practicable, shares ethnicity, language, socioeconomic status and life experi-
+ences with the residents of the community the worker serves;
+(d) Assists members of the community to improve their health, including physical, behavioral and
+oral health, and increases the capacity of the community to meet the health  care needs of its resi-
+dents and achieve wellness;
+(e) Provides health education and information that is culturally appropriate to the  individuals
+being served;
+(f) Assists community residents in receiving the care they need;
+(g) May give peer counseling and guidance on health behaviors; and
+(h) May provide direct services, such as tribal-based practices.
+(30) “Veteran-specific personal health navigator” means an  individual who meets quali-
+fication criteria adopted by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in a veteran community, either for pay or as  a volunteer in association with
+a local health care system;
+(c) To the  extent practicable, shares culture, language, socioeconomic status and life
+experiences with individuals of the community the worker serves;
+(d) Assists  members of the community to improve their health, including physical, be-
+havioral and oral health, and increases the capacity of the community to meet its health care
+needs and achieve wellness;
+(e) Provides health education and  information that is culturally appropriate to the indi-
+viduals being served;
+(f) Assists the community in receiving the care they need; and
+(g) May provide information, assistance, tools and support to enable  a patient to make
+the best health care decisions in the patient’s particular circumstances  in light of the
+patient’s needs, lifestyle, combination of conditions and desired outcomes.
+[(30)(a)] (31)(a) “Youth support specialist” means an individual who meets  qualification criteria
+adopted by the authority under ORS 414.665 and  who, based on a similar life experience, provides
+supportive services to an individual who:
+(A) Is not older than 30 years of age; and
+(B)(i) Is a current or former consumer of mental health or addiction treatment; or
+(ii) Is  facing or has faced difficulties in accessing education, health and wellness services due
+to a mental health or behavioral health barrier.
+(b) A “youth support specialist” may be a peer wellness specialist or a peer support specialist.
+SECTION 2.
+ ORS 414.025, as amended by section 2,  chapter 628, Oregon Laws 2021, and section
+6, chapter 18, Oregon Laws 2024, is amended to read:
+414.025. As used in this chapter and ORS chapters 411 and 413,  unless the context or a specially
+applicable statutory definition requires otherwise:
+(1)(a) “Alternative payment methodology” means a  payment other than a fee-for-services pay-
+ment, used by coordinated care organizations as compensation for the provision of integrated  and
+coordinated health care and services.
+(b) “Alternative payment methodology” includes, but is not limited to:
+(A) Shared savings arrangements;
+(B) Bundled payments; and
+(C) Payments based on episodes.
+(2) “Behavioral health assessment” means an evaluation  by a behavioral health clinician, in
+person or using telemedicine, to determine a patient’s need for immediate crisis stabilization.
+(3) “Behavioral health clinician” means:
+(a) A licensed psychiatrist;
+(b) A licensed psychologist;
+(c) A licensed nurse practitioner with a specialty in psychiatric mental health;
+(d) A licensed clinical social worker;
+(e) A licensed professional counselor or licensed marriage and family therapist;
+(f) A certified clinical social work associate;
+(g) An intern or resident who  is working under a board-approved supervisory contract in a
+clinical mental health field; or
+(h) Any other clinician whose  authorized scope of practice includes mental health diagnosis and
+treatment.
+(4) “Behavioral health crisis” means a disruption in an individual’s  mental or emotional stability
+or functioning resulting in an urgent need for immediate outpatient treatment  in an emergency de-
+partment or admission to a hospital to prevent a serious deterioration in the individual’s  mental or
+physical  health.
+(5) “Behavioral health home” means a mental health disorder or substance use  disorder treat-
+ment organization, as defined by the  Oregon Health Authority by rule, that provides integrated
+health care to individuals whose primary diagnoses are mental health disorders or  substance use
+disorders.
+(6) “Category of aid” means assistance provided by the Oregon Supplemental  Income Program,
+aid granted under ORS 411.877 to 411.896 and 412.001 to 412.069  or federal Supplemental Security
+Income payments.
+(7) “Community health worker” means an individual who meets  qualification criteria adopted
+by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in an  urban or rural community, either for pay or as a volunteer in association with
+a local health care system;
+(c) To  the extent practicable, shares ethnicity, language, socioeconomic status and life experi-
+ences with the residents of the community the worker serves;
+(d) Assists members of the community to improve their health  and increases the capacity of the
+community to meet the health care needs of its residents and achieve wellness;
+(e) Provides  health education and information that is culturally appropriate to the individuals
+being served;
+(f) Assists community residents in receiving the care they need;
+(g) May give peer counseling and guidance on health behaviors; and
+(h) May provide direct services such as first aid or blood pressure screening.
+(8) “Coordinated care organization” means an organization meeting criteria adopted by the
+Oregon Health Authority under ORS 414.572.
+(9) “Dually eligible for Medicare and Medicaid” means, with respect to eligibility for enrollment
+in a  coordinated care organization, that an individual is eligible for health services funded by Title
+XIX of the Social Security Act and is:
+(a) Eligible for or enrolled in Part A of Title XVIII of the Social Security Act; or
+(b) Enrolled in Part B of Title XVIII of the Social Security Act.
+(10)(a) “Family support specialist” means an individual who meets  qualification criteria adopted
+by the authority under ORS 414.665 and who provides supportive services to and  has experience
+parenting a child who:
+(A) Is a current or former consumer of mental health or addiction treatment; or
+(B) Is facing or has faced difficulties in accessing education, health and  wellness services due
+to a mental health or behavioral health barrier.
+(b) A “family support specialist” may be a peer wellness specialist or a peer support specialist.
+(11) “Global budget” means a total amount established prospectively  by the Oregon Health Au-
+thority to be paid to a coordinated care organization for the delivery  of, management of, access to
+and quality of the health care delivered to members of the coordinated care organization.
+(12) “Health insurance exchange” or “exchange” means an American Health  Benefit Exchange
+described in 42 U.S.C. 18031, 18032, 18033 and 18041.
+(13) “Health services” means at least so much of each of the following as are funded by  the
+Legislative Assembly based upon the prioritized  list of health services compiled by the Health Evi-
+dence Review Commission under ORS 414.690:
+(a) Services  required by federal law to be included in the state’s medical assistance program in
+order for the program to qualify for federal funds;
+(b) Services  provided by a physician as defined in ORS 677.010, a nurse practitioner licensed
+under ORS 678.375, a behavioral health clinician or other licensed practitioner  within the scope of
+the practitioner’s practice as defined by state law, and ambulance services;
+(c) Prescription drugs;
+(d) Laboratory and X-ray services;
+(e) Medical equipment and supplies;
+(f) Mental health services;
+(g) Chemical dependency services;
+(h) Emergency dental services;
+(i) Nonemergency dental services;
+(j) Provider  services, other than services described in paragraphs (a) to (i), (k), (L) and (m) of
+this subsection, defined by federal law that may be included in the state’s  medical assistance pro-
+gram;
+(k) Emergency hospital services;
+(L) Outpatient hospital services; and
+(m) Inpatient hospital services.
+(14) “Income” has the meaning given that term in ORS 411.704.
+(15)(a) “Integrated health care” means care provided to individuals and their families in  a pa-
+tient centered primary care home or behavioral health home by licensed primary care clinicians,
+behavioral health clinicians and other care team members, working together to address one or more
+of the following:
+(A) Mental illness.
+(B) Substance use disorders.
+(C) Health behaviors that contribute to chronic illness.
+(D) Life stressors and crises.
+(E) Developmental risks and conditions.
+(F) Stress-related physical symptoms.
+(G) Preventive care.
+(H) Ineffective patterns of health care utilization.
+(b) As used in this subsection, “other care team members” includes but is not limited to:
+(A) Qualified mental health professionals or  qualified mental health associates meeting require-
+ments adopted by the Oregon Health Authority by rule;
+(B) Peer wellness specialists;
+(C) Peer support specialists;
+(D) Community health workers who have completed a state-certified training program;
+(E) Personal health navigators; or
+(F) Other qualified individuals approved by the Oregon Health Authority.
+(16) “Investments and savings” means  cash, securities as defined in ORS 59.015, negotiable in-
+struments as defined in ORS 73.0104 and such similar investments or savings  as the department or
+the authority may establish by rule  that are available to the applicant or recipient to contribute
+toward meeting the needs of the applicant or recipient.
+(17) “Medical assistance” means so much of the medical,  mental health, preventive, supportive,
+palliative and remedial care and services as may be prescribed by the  authority according to the
+standards established pursuant to ORS  414.065, including premium assistance under ORS 414.115 and
+414.117, payments made for services provided under an insurance or other contractual arrangement
+and money paid directly to the recipient for the purchase of health services and for services  de-
+scribed in ORS 414.710.
+(18) “Medical assistance”  includes any care or services for any individual who is a patient in
+a medical  institution or any care or services for any individual who has attained 65 years of age
+or is under 22 years of age, and who is a patient in a  private or public institution for mental dis-
+eases. Except as provided in ORS 411.439 and 411.447, “medical assistance” does not include  care
+or services for a resident of a nonmedical public institution.
+(19) “Mental health drug” means a type of legend drug, as defined  in ORS 414.325, specified by
+the Oregon Health Authority by rule, including but not limited to:
+(a) Therapeutic class 7 ataractics-tranquilizers; and
+(b) Therapeutic class 11 psychostimulants-antidepressants.
+(20) “Patient centered primary care home” means a health  care team or clinic that is organized
+in accordance with the standards established  by the Oregon Health Authority under ORS 414.655
+and that incorporates the following core attributes:
+(a) Access to care;
+(b) Accountability to consumers and to the community;
+(c) Comprehensive whole person care;
+(d) Continuity of care;
+(e) Coordination and integration of care; and
+(f) Person and family centered care.
+(21) “Peer support specialist” means any of the  following individuals who meet qualification
+criteria adopted by the authority under ORS 414.665  and who provide supportive services to a cur-
+rent or former consumer of mental health or addiction treatment:
+(a) An individual who is a current or former consumer of mental health treatment; or
+(b) An individual who is in recovery, as defined by the Oregon Health Authority by rule, from
+an addiction disorder.
+(22) “Peer wellness specialist” means an individual who  meets qualification criteria adopted by
+the authority under ORS 414.665  and who is responsible for assessing mental health and substance
+use disorder service and support needs of a member of a coordinated care organization through
+community outreach, assisting members with access to available services  and resources, addressing
+barriers  to  services and providing education and information about available resources for individ-
+uals with mental health or substance use disorders in order to reduce  stigma and discrimination
+toward consumers of  mental health and substance use disorder services and to assist the member
+in creating and maintaining recovery, health and wellness.
+(23) “Person centered care” means care that:
+(a) Reflects the individual patient’s strengths and preferences;
+(b) Reflects the clinical needs of the patient as identified  through an individualized assessment;
+and
+(c) Is based upon the patient’s goals and will assist the patient in achieving the goals.
+(24) “Personal health navigator” means an individual who meets qualification criteria adopted
+by the authority under ORS 414.665 and who  provides information, assistance, tools and support to
+enable a patient to make the  best health care decisions in the patient’s particular circumstances and
+in light of the patient’s needs, lifestyle, combination of conditions and desired outcomes.
+(25) “Prepaid managed care health services organization” means a managed  dental care, mental
+health or chemical dependency organization that contracts with the authority under  ORS 414.654
+or with a coordinated care organization on a prepaid capitated basis to provide  health services to
+medical assistance recipients.
+(26) “Quality  measure” means the health outcome and quality measures and benchmarks identi-
+fied by the Health Plan  Quality Metrics Committee and the metrics and scoring subcommittee in
+accordance with ORS 413.017 (4) and 413.022 and the quality  metrics developed by the Behavioral
+Health Committee in accordance with ORS 413.017 (5).
+(27)(a) “Quality of life in general measure” means an  assessment of the value, effectiveness or
+cost-effectiveness of a treatment that gives greater value to a year of life lived in perfect health than
+the value given to a year of life lived in less than perfect health.
+(b) “Quality of life in general measure” does not  mean an assessment of the value, effectiveness
+or cost-effectiveness of  a treatment during a clinical trial in which a study participant is asked to
+rate the participant’s physical function, pain, general health,  vitality, social functions or other sim-
+ilar domains.
+(28) “Resources” has the meaning  given that term in ORS 411.704. For eligibility purposes, “re-
+sources” does not include charitable  contributions raised by a community to assist with medical
+expenses.
+(29) “Social determinants of health” means:
+(a) Nonmedical factors that influence health outcomes;
+(b) The conditions in which individuals are born, grow, work, live and age; and
+(c) The forces and systems  that shape the conditions of daily life, such as economic policies and
+systems, development agendas, social  norms, social policies, racism, climate change and political
+systems.
+(30) “Tribal  traditional health worker” means an individual who meets qualification criteria
+adopted by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in a tribal community or an urban Indian community, either for pay or as a volunteer
+in association with a local health care system;
+(c) To the extent practicable, shares ethnicity, language, socioeconomic status and life  experi-
+ences with the residents of the community the worker serves;
+(d) Assists members of the community to improve their health, including physical, behavioral and
+oral health, and increases the capacity  of the community to meet the health care needs of its resi-
+dents and achieve wellness;
+(e) Provides  health education and information that is culturally appropriate to the individuals
+being served;
+(f) Assists community residents in receiving the care they need;
+(g) May give peer counseling and guidance on health behaviors; and
+(h) May provide direct services, such as tribal-based practices.
+(31) “Veteran-specific personal health navigator”  means an individual who meets quali-
+fication criteria adopted by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in a veteran community,  either for pay or as a volunteer in association with
+a local health care system;
+(c) To the extent practicable, shares culture, language, socioeconomic status  and life
+experiences with individuals of the community the worker serves;
+(d) Assists members of the community to improve their health, including physical,  be-
+havioral and oral health, and increases the capacity of the community to meet its health care
+needs and achieve wellness;
+(e) Provides health education and information that is culturally  appropriate to the indi-
+viduals being served;
+(f) Assists the community in receiving the care they need; and
+(g) May provide information, assistance,  tools and support to enable a patient to make
+the best health care decisions  in the patient’s particular circumstances in light of the
+patient’s needs, lifestyle, combination of conditions and desired outcomes.
+[(31)(a)] (32)(a) “Youth  support specialist” means an individual who meets qualification criteria
+adopted by the authority under ORS 414.665 and who,  based on a similar life experience, provides
+supportive services to an individual who:
+(A) Is not older than 30 years of age; and
+(B)(i) Is a current or former consumer of mental health or addiction treatment; or
+(ii) Is facing or has faced difficulties in accessing education, health and wellness services  due
+to a mental health or behavioral health barrier.
+(b) A “youth support specialist” may be a peer wellness specialist or a peer support specialist.
+SECTION 3.
+ ORS 414.665 is amended to read:
+414.665. (1) As used in this section, “traditional health worker” includes any of the following:
+(a) A community health worker.
+(b) A personal health navigator.
+(c) A peer wellness specialist.
+(d) A peer support specialist.
+(e) A doula.
+(f) A tribal traditional health worker.
+(g) A veteran-specific personal health navigator.
+(2) In consultation with  the Traditional Health Workers Commission established under ORS
+413.600, the Oregon Health Authority, for purposes  related to the regulation of traditional health
+workers, shall adopt by rule:
+(a) The qualification criteria, including  education and training requirements, for the traditional
+health workers utilized by coordinated care organizations;
+(b) Appropriate professional designations for supervisors of the traditional health workers; and
+(c) Processes by which other occupational classifications may be approved to supervise the  tra-
+ditional health workers.
+(3) The criteria and requirements established under subsection (2) of this section:
+(a) Must be broad enough to encompass the  potential unique needs of any coordinated care or-
+ganization;
+(b) Must meet requirements of the Centers for Medicare and Medicaid Services  to qualify for
+federal financial participation; and
+(c) May not require certification by the Home Care Commission.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 414.025, ORS 414.665
+- From bill text (Introduced version): ORS 411.439, ORS 411.447, ORS 411.704, ORS 411.877, ORS 413.017, ORS 413.022, ORS 413.600, ORS 414.025, ORS 414.065, ORS 414.115, ORS 414.117, ORS 414.325, ORS 414.572, ORS 414.654, ORS 414.655, ORS 414.665, ORS 414.690, ORS 414.710, ORS 59.015, ORS 677.010, ORS 678.375, ORS 73.0104
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `af3f2606e95fba18e3f42650ccfeac172a7e3b58c7310b79bad6c865225f1ce3` (snapshot `_meta/snapshots/measure-2025r1-hb3773-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3773/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3773` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

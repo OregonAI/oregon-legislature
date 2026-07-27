@@ -1,0 +1,61 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 12
+Sponsored by Senator THATCHER; Representatives DIEHL, LEVY B (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act does not allow the  SOS to mark certain judge candidates as incumbent. (Flesch
+Readability Score: 71.7).
+Prohibits the designation of  incumbent for any candidate for specified judgeships who was ap-
+pointed and is seeking election in the first election since that appointment.
+A BILL FOR AN ACT
+Relating to designation of incumbent for certain judicial candidates; amending ORS 254.085.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 254.085 is amended to read:
+254.085. (1) The Secretary of State, not later than the 61st  day before the date of a primary or
+general election, shall file with each county clerk a statement of the federal and state offices to be
+filled or  for which candidates are to be nominated in the county at the election, information con-
+cerning all candidates for the offices, and the state measures to be voted on.
+(2)(a) Except as provided  in paragraph (b) of this subsection, the information concerning
+candidates for the Supreme Court, Court of Appeals, Oregon  Tax Court and circuit court shall in-
+clude a designation of incumbent for each candidate who is the regularly elected [ or appointed ] judge
+of the court to which the candidate seeks election. If a candidate was regularly elected [or
+appointed] to a specific position or department on  the court, the candidate shall be designated as the
+incumbent only if the person is a candidate for that position or department.
+(b) For any candidate for the  Supreme Court, Court of Appeals, Oregon Tax Court or
+circuit court who  was appointed and is seeking election in the first election since being ap-
+pointed, the designation of incumbent may not be included in the  information concerning
+candidates for that candidate.
+(3) Included with each state measure shall be the measure number, the latest ballot  title certi-
+fied by the Attorney General under ORS 250.067 (2) or, if the Supreme Court has  reviewed the title
+under ORS 250.085, the title certified by the  court and the financial estimates under ORS 250.125.
+The Secretary of State shall keep a copy of the statement.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 851

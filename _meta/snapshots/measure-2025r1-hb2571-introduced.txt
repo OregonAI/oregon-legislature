@@ -1,0 +1,209 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2571
+Sponsored by Representative DIEHL; Representative JAVADI, Senator THATCHER (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes rules for people who care for public pension benefit  plans. (Flesch
+Readability Score: 76.5).
+Establishes standards for  fiduciary of pension benefit plan offered by public body. Limits factors
+that may be considered in investment of assets of plan.
+A BILL FOR AN ACT
+Relating to pension benefit plans offered by public bodies.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 1 to 6 of this 2025 Act shall be known and may be cited as the Public
+Pension Protection Act.
+SECTION 2. As used in sections 1 to 6 of this 2025 Act:
+(1) “Fiduciary” means a person who with respect to a pension benefit plan:
+(a) Exercises any  discretionary authority or discretionary control respecting manage-
+ment of the plan or exercises any authority or control respecting management or disposition
+of the plan’s assets;
+(b) Renders investment advice for a fee or other compensation, direct or indirect, with
+respect to any moneys or other property of the plan, or has any authority or responsibility
+to do so; or
+(c) Has any discretionary authority or discretionary responsibility in  the administration
+of the plan, including making recommendations or voting a plan’s shares or proxies.
+(2)(a) “Material” means, with respect to a risk or return, that there  is a substantial
+likelihood that a reasonable investor would attach importance when:
+(A) Evaluating the potential financial return and  financial risks of an existing or pro-
+spective investment; or
+(B) Exercising, or declining to exercise, any rights appurtenant to securities.
+(b) “Material” does not mean, with respect to a risk or return:
+(A) Furthering nonpecuniary, environmental, social, political, ideological  or other goals
+or objectives; or
+(B) Any portion of a risk or return that primarily relates to events that:
+(i) Involve a  high degree of uncertainty regarding what may or may not occur in the
+distant future; and
+(ii) Are systemic, general or not investment-specific in nature.
+(3) “Nonpecuniary” means,  with respect to any action taken or factor considered by a
+fiduciary, having any purpose to further environmental, social  or political goals. A fiduciary
+purpose may be reasonably determined by evidence including, but not limited to, a fiduciary’s
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 673
+HB 2571
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+statements indicating its purpose in selecting investments, engaging with portfolio compa-
+nies or voting shares or proxies, or any such statements by any coalition,  initiative or or-
+ganization that the fiduciary has joined, participated  in or become a signatory to, in its
+capacity as a fiduciary.
+(4)(a) “Pecuniary factor” means a factor  that has a material effect on the financial risk
+or financial return of an investment based on appropriate investment horizons  consistent
+with a pension benefit plan’s investment objectives and the funding policy.
+(b) “Pecuniary factor” does not include nonpecuniary factors.
+(5) “Pension benefit plan” means any plan, fund  or program established, maintained or
+offered by a public body, to the extent that by its terms or as a result  of surrounding cir-
+cumstances:
+(a) The plan provides retirement income or  other retirement benefits to employees or
+former employees; or
+(b) The plan results  in a deferral of income by employees for a period extending to the
+termination of covered employment or beyond.
+(6) “Public body” has the meaning given that term in ORS 174.109.
+SECTION 3.
+A fiduciary shall discharge the fiduciary’s duties  with respect to a pension
+benefit plan:
+(1) Solely in the pecuniary interest of the participants  and beneficiaries for the exclusive
+purpose of:
+(a) Providing pecuniary benefits to participants and their beneficiaries; and
+(b) Defraying reasonable expenses of administering the plan;
+(2) With the care,  skill, prudence and diligence under the circumstances then prevailing
+that a prudent person acting in a like  capacity and familiar with such matters would use in
+the conduct of an enterprise of a like character and with like aims;
+(3) By diversifying the investments of  the plan so as to minimize the risk of large losses,
+unless under the circumstances it is clearly prudent not to do so; and
+(4) In  accordance with the documents and instruments governing the plan insofar as
+such documents and instruments  are consistent with the provisions of sections 1 to 6 of this
+2025 Act.
+SECTION 4.
+A fiduciary’s evaluation of an investment, or  evaluation or exercise of any
+right appurtenant to an investment, must take into account only pecuniary factors. A
+fiduciary may not promote  nonpecuniary benefits or any other nonpecuniary goals. Envi-
+ronmental, social, corporate governance and other similarly oriented considerations are
+pecuniary factors only if they present economic risks or opportunities that  qualified invest-
+ment professionals would treat as material economic considerations under generally accepted
+investment theories.  The weight given to those factors must solely reflect a prudent as-
+sessment of the factors’ impact on risk  and return. A fiduciary considering environmental,
+social, corporate governance or other similarly oriented factors as  pecuniary factors shall
+examine the level of  diversification, the degree of liquidity and the potential risk-return in
+comparison with other available alternative investments that would play a similar  role in the
+plans’ portfolios. Any pecuniary consideration of  environmental, social or corporate
+governance factors must necessarily include evaluating whether  greater returns can be
+achieved through investments that rank poorly on such factors.
+SECTION 5.
+(1) All shares held directly or indirectly by or on behalf of a pension  benefit
+[2]
+HB 2571
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+plan or the beneficiaries of a plan shall be voted  solely in the pecuniary interest of plan
+participants. Voting to  further nonpecuniary, environmental, social, political, ideological or
+other benefits or goals is prohibited.
+(2) Unless no economically practicable alternative is available, a fiduciary may not adopt
+a practice of following the recommendations of  a proxy advisory firm or other service pro-
+vider unless such firm or service provider  has a practice of following, and in writing commits
+to follow, proxy voting guidelines that are consistent with the  fiduciary’s obligation to act
+based only on pecuniary factors.
+(3) Unless no economically practicable alternative is  available, pension benefit plan assets
+may not be entrusted to a fiduciary unless that  fiduciary has a practice of following, and in
+writing commits to  follow, guidelines, when engaging with portfolio companies and voting
+shares or proxies, that match the  public body’s obligation to act based only on pecuniary
+factors.
+(4) Authority to vote  shares held by a pension benefit plan must be in the hands of a
+politically accountable official of the public body responsible for the plan.
+SECTION 6.
+The Attorney General may enforce violations of sections 1 to 6  of this 2025
+Act.
+[3]

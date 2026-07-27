@@ -1,0 +1,213 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1022
+Sponsored by Senator FREDERICK, Representative EVANS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act lowers the number of vouchers and plates that  small universities need for
+ODOT to make and issue car plates that represent the small schools.  (Flesch Readability Score:
+75.8).
+Modifies the special registration plate program. Lowers the threshold amount to start making
+and continue issuing special registration plates for certain public universities.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to specialty vehicle  registration plates; amending ORS 805.222 and 805.225; and prescribing
+an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 805.222 is amended to read:
+805.222. (1) The Department of Transportation shall establish a special registration program  and
+provide for issuance of special registration plates for nonprofit groups meeting the qualifications for
+tax exempt status under section 501(c)(3) of the Internal Revenue  Code, for institutions of higher
+education and for public bodies, as defined in ORS 174.109.
+(2) Plates issued under this section may be issued to owners of motor vehicles registered under
+the provisions of ORS 803.420 (6)(a). In addition, the department may adopt rules for  issuance of
+special  registration  plates issued pursuant to this section for vehicles not registered under ORS
+803.420 (6)(a).
+(3) Plates issued under this section may not  contain expressions of political opinion or religious
+belief.
+(4) Rules adopted under this section shall include, but need not be limited to, rules that:
+(a) Describe general qualifications to be met by any nonprofit group, institution of higher  edu-
+cation or public body in order to be eligible for plates issued under this section.
+(b) Specify circumstances under which the department may cease to issue plates  under this
+section.
+(c) Require each nonprofit group, institution of higher education or public body for which plates
+are issued to file an annual statement on a form designed by the department showing  that the group
+is a nonprofit group, institution of  higher education or public body and that the nonprofit group,
+institution of higher education or public  body otherwise meets the qualifications imposed for eligi-
+bility for plates issued under this  section. The statement shall include names and addresses of cur-
+rent directors or officers of the nonprofit group, institution of higher education or public body or
+of other persons authorized to  speak for the nonprofit group, institution of higher education or
+public body on matters affecting plates issued under this section.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2678
+SB 1022
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(d) Specify the manner in which a  nonprofit group, institution of higher education or public body
+may apply for a special registration plate.
+(5) In addition to  any other fee authorized by law, for each set of special registration plates is-
+sued pursuant to this section, the department shall  collect a surcharge of $40 payable when the
+plates are issued and upon each  subsequent renewal of registration of a vehicle bearing the plates.
+The department shall distribute the moneys from the surcharge as provided  in subsection (8) of this
+section.
+(6) The department, in consultation with the nonprofit group, institution  of higher education or
+public body requesting the special registration plate, shall develop a unique design for each plate
+issued under this section. Any design must comply with requirements described under ORS 803.535.
+(7) Except as provided in subsection (8) of this section,  the department  shall determine how
+many sets of plates shall be manufactured for  each plate approved under this section. If the de-
+partment does not  issue 2,000 sets of plates for a particular nonprofit group, institution of higher
+education or public body in any one year, the department shall cease production of those plates.
+(8) If the department  does not issue 300 sets of plates for the following institutions of
+higher education in any one year, the department shall cease production of those plates:
+(a) Oregon Institute of Technology.
+(b) Western Oregon University.
+(c) Southern Oregon University.
+(d) Eastern Oregon University.
+[(8)] (9) Each nonprofit group, institution of higher education or  public body that is found by the
+department to be eligible for plates issued under this section  may designate an account into which
+the net proceeds of the surcharge collected by the department under  subsection (5) of this section
+are to be deposited. The department shall  keep accurate records of the number of plates issued for
+each nonprofit group, institution of higher  education or public body that qualifies. After payment
+of administrative expenses of the department, moneys collected under  this section for a nonprofit
+group, institution of higher education or public body shall be  deposited by the department into an
+account specified by that nonprofit  group, institution of higher education or public body. If any
+nonprofit group, institution of higher education or public body does not specify an account for the
+moneys collected from the sale  of plates issued under this section, the department shall deposit
+moneys collected for those plates  into the Passenger Rail Transportation Account established under
+ORS 802.100 to be used as other moneys  in the account are used. Deposits under this subsection
+shall be made at least quarterly.
+SECTION 2.
+ ORS 805.225 is amended to read:
+805.225. (1) A nonprofit group, institution of higher education or public  body, as defined in ORS
+174.109, that requests issuance of a special registration plate under ORS 805.222 shall:
+(a) Submit an application, in the manner prescribed by  the Department of Transportation by
+rule.
+(b) Pay to the  department the anticipated costs of adding the plate to the special registration
+plate program, as determined by the department. The department shall refund any amount  of the
+payment that is not needed to pay the costs of adding the plate to the program.
+[(c) Collect and hold prepaid vouchers for new special registration plates, until it has  received at
+least 3,000 vouchers along with required fees. ]
+(c) Collect and hold prepaid vouchers for new special registration  plates, until it has re-
+ceived the required fees and at least:
+[2]
+SB 1022
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+(A) For the following institutions of higher education, 500 vouchers:
+(i) Oregon Institute of Technology.
+(ii) Western Oregon University.
+(iii) Southern Oregon University.
+(iv) Eastern Oregon University.
+(B) For all other applicants, 3,000 vouchers.
+(2) Once a participating nonprofit group, institution of higher education or  public body has re-
+ceived [ at least 3,000 ] the required number  vouchers, it  shall submit the vouchers, along with the
+required fees, to the department.
+[(2)] (3)  The department shall begin designing, producing and issuing  the plates after the
+nonprofit group, institution of higher education or public body submits the following:
+(a) The application;
+(b) Payment for the anticipated costs  of adding the plate as determined under subsection (1) of
+this section; and
+(c) Three thousand prepaid vouchers along with required fees.
+[(3)] (4)  For  purposes of this section, costs of adding a new special registration plate include,
+but are not limited to, computer programming costs and vendor set-up fees.
+[(4)] (5) The department shall adopt rules for the administration and implementation of the  spe-
+cial registration plate program.
+SECTION 3.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

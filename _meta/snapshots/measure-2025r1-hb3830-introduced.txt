@@ -1,0 +1,110 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3830
+Sponsored by Representative RUIZ
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that a person’s immigration or citizenship status does not matter to  get a
+license from the state to do a job or to get some benefits from the state. The  Act also says that a
+person does not have to use a SSN. (Flesch Readability Score: 73.1).
+Prohibits a professional licensing  board from denying issuance of an authorization issued by the
+professional licensing board to an individual based solely on  the individual’s immigration or citi-
+zenship status. Prohibits a professional licensing board from  disclosing an applicant’s or licensee’s
+Social Security number, federal individual taxpayer identification number or federally  issued iden-
+tification number except for specific purposes. Provides that an individual may not be  denied a state
+or local public benefit based solely on the individual’s immigration or citizenship status.
+A BILL FOR AN ACT
+Relating to immigration status; creating new provisions; and amending ORS 25.785.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Licensee” means an  individual who holds an authorization from a professional li-
+censing board to provide an occupational or professional service.
+(b) “Occupational or professional service” has the meaning given that term  in ORS
+670.400.
+(c) “Professional licensing board” has the meaning given that term in ORS 670.400.
+(2) An individual who is not lawfully present  in the United States is eligible for an au-
+thorization to provide an occupational or professional service.  A professional licensing board
+may not deny issuance of  an authorization issued by the professional licensing board to an
+individual solely on the basis of the individual’s immigration or citizenship status.
+(3) A professional licensing board may  not disclose the Social Security number, federal
+individual taxpayer identification number or other federally issued identification number  of
+an applicant for  an authorization issued by the professional licensing board or a licensee of
+professional licensing board to a person other  than an employee of the professional licensing
+board for any purpose except:
+(a) Tax purposes;
+(b) Authorization purposes; or
+(c) Enforcement of an order for payment of child support.
+(4) A Social Security number, federal individual taxpayer identification number or other
+federally issued identification number provided to a professional licensing board by an appli-
+cant for an authorization issued by the professional licensing board or a licensee of the pro-
+fessional licensing board is confidential and exempt from public disclosure under ORS 192.311
+to 192.478.
+SECTION 2.
+An individual who is not lawfully present in the United States is  eligible for
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2977
+HB 3830
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+a state or local  public benefit, as defined in 8 U.S.C. 1621(c), and may not be denied a state
+or local public benefit based solely on the individual’s immigration or citizenship status.
+SECTION 3.
+ ORS 25.785 is amended to read:
+25.785. (1) Subject to ORS 670.406 and section 1 of this 2025 Act,  any state agency, board or
+commission that is authorized to issue an occupational,  professional, recreational or driver license,
+certificate, permit or registration subject to suspension under ORS 25.750 to 25.783 shall require that
+an individual’s Social Security number be recorded on  an application for, or form for renewal of, a
+license, certificate, permit or registration and to the maximum extent  feasible shall include the So-
+cial Security number in automated databases containing information about the individual.
+(2) A state agency, board or commission described in subsection (1) of this section may  accept
+a written statement from an individual  who has not been issued a Social Security number by the
+United States Social Security Administration to fulfill the requirement in subsection  (1) of this sec-
+tion.
+(3) An  individual may not submit to a state agency, board or commission a written statement
+described in subsection (2) of this section knowing the statement to be false.
+[2]

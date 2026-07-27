@@ -1,0 +1,153 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3332
+Sponsored by Representative EVANS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes the uses of certain moneys that the ORC receives from racing  hubs.
+(Flesch Readability Score: 73.1).
+Modifies the uses for certain moneys received by the  Oregon Racing Commission from Multi-
+Jurisdictional  Simulcasting  and Interactive Wagering Totalizator Hubs. Requires entities that re-
+ceive distributions of such moneys to expend the moneys and report on the  expenditures within a
+certain time period. Provides for clawback if a recipient  fails to expend the moneys or report on
+expenditures. Provides that moneys  that are clawed back be deposited in a fund for horse and jockey
+safety. Provides that certain moneys that the commission does not  expend within a fiscal biennium
+are deposited in the fund.
+A BILL FOR AN ACT
+Relating to horse racing; creating new provisions; and amending ORS 462.725.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 462.725 is amended to read:
+462.725. (1) Notwithstanding any other provision of this chapter, the Oregon Racing Commission
+may adopt rules to:
+(a) License and regulate all phases of operation of Multi-Jurisdictional Simulcasting  and Inter-
+active Wagering Totalizator Hubs located in Oregon; and
+(b) Authorize and license Multi-Jurisdictional  Simulcasting and Interactive Wagering Totalizator
+Hubs to conduct simulcast broadcasting of, and mutuel wagering on, animal races, including  previ-
+ously held races on which mutuel wagering is lawful in Oregon.
+(2) In addition to the other rules of operation adopted by the  commission, the commission shall
+adopt a rule setting the amount that may be taken from the gross receipts  of the multi-jurisdictional
+mutuel system.
+(3) All employees working in Oregon and all officers of any Multi-Jurisdictional Simulcasting
+and Interactive Wagering Totalizator Hubs located and operating  in Oregon must obtain a license
+from the commission prior  to the commencement of business or employment. The commission shall
+adopt rules establishing license fees for the employees and officers, not to exceed $30 per year.
+(4) Payments to be made to the commission include:
+(a) Multi-Jurisdictional  Simulcasting and Interactive Wagering Totalizator Hub license fee not
+more than $200 per operating day.
+(b) Not more than one percent of total gross receipts of  mutuel wagering recorded by the
+totalizator system.
+(5) [Of the ] Moneys  received by the commission under subsection (4)(b) of this section  shall be
+expended as follows, subject to section 3 of this 2025 Act: [,]
+(a) 10 percent shall be retained by  the commission and may be used for operating ex-
+penses, for safety initiatives or to support the horse racing industry in Oregon;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4008
+HB 3332
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+(b) 15 percent shall be distributed in equal shares to the Oregon Thoroughbred Owners
+and Breeders Association, the Oregon Quarter  Horse Association and the Oregon
+Horsemen’s Benevolent and Protective Association to be used to support the horse racing
+industry in Oregon; and
+(c) 75 percent shall be distributed by the  commission for the benefit of the Oregon pari-
+mutuel racing industry pursuant to rules adopted by the commission.  [25 percent shall be paid
+to the State Treasurer for deposit  in the General Fund and 75 percent shall be retained by the com-
+mission. The commission may adopt rules under which the moneys retained by  the commission may be
+distributed for the benefit of the Oregon pari-mutuel racing industry. ]
+(6) Wagers on previously held races authorized under subsection (1) of this section are  subject
+to the provisions of ORS 462.157.
+(7) A Multi-Jurisdictional Simulcasting and Interactive Wagering Totalizator Hub licensee may
+establish an account for wagering on  greyhound racing for an individual unless wagering on live
+greyhound racing is unlawful in the jurisdiction of the individual’s principal residence.
+SECTION 2.
+Sections 3 and 4 of this 2025 Act are added to and made a part of ORS 462.700
+to 462.740.
+SECTION 3. (1)(a) Before distributing moneys under ORS  462.725 (5)(b) and (c), the
+Oregon Racing Commission shall enter into agreements with the recipients that contain  the
+following provisions:
+(A) Within 24 months of receiving the moneys,  a recipient must both expend the moneys
+and provide a detailed report to the commission on how the moneys were expended.
+(B) If any of the moneys  are unexpended within 24 months of receipt, or if a recipient
+fails to the report to the commission  on an expenditure within 24 months of receipt, any
+amounts unexpended or for which an  expenditure report is not made must be returned to the
+commission.
+(b) Moneys returned to the commission under paragraph (a)(B)  of this subsection must
+be deposited in the Horse Racing Safety Fund established under section 4 of this 2025 Act.
+(2) Moneys retained by the commission under ORS 462.725 (5)(a) must be expended  by the
+commission during the fiscal biennium in which they are received by the  commission. Any
+such moneys that are not expended by the end of the  fiscal biennium must be deposited in
+the Horse Racing Safety Fund established under section 4 of this 2025 Act.
+SECTION 4. The Horse Racing Safety Fund is established in the State  Treasury, separate
+and distinct from the General Fund. The Horse Racing Safety Fund  consists of all moneys
+credited to the fund, including moneys deposited to the  fund under section 3 of this 2025 Act
+and moneys appropriated or transferred  to the fund by the Legislative Assembly. Moneys in
+the fund are continuously appropriated to the Oregon Racing Commission to carry out initi-
+atives related to horse and jockey safety.
+[2]

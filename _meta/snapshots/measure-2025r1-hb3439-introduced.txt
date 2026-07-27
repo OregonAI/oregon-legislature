@@ -1,0 +1,217 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3439
+Sponsored by Representatives NOSSE, HELFRICH
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes insurers pay naturopathic doctors the same as a doctor,  PA or NP when they do
+the same work. (Flesch Readability Score: 67.3).
+Requires individual and group health benefit plans and benefit plans offered  by the Public
+Employees’ Benefit Board  and the Oregon Educators Benefit Board to reimburse services provided
+by naturopathic  physicians within the scope of their practice if the services are reimbursed when
+provided by licensed physicians, physician associates  or nurse practioners. Requires reimbursement
+paid to a naturopathic  physician in independent practice to be in the same amount as reimbursement
+paid to a physician, physician associate or nurse practioner.
+A BILL FOR AN ACT
+Relating to naturopathic  physicians; creating new provisions; and amending ORS 243.144 and
+243.877.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is  added to and made a part of the Insurance Code.
+SECTION 2. (1) As used in this section:
+(a) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+(b) “Independent practice”  means a practice at which a naturopathic physician bills
+insurers for services provided by the naturopathic physician using the:
+(A) Diagnosis and procedure codes applicable to the services;
+(B) Naturopathic physician’s own name; and
+(C) Naturopathic physician’s national provider identifier.
+(c) “Naturopathic physician” has the meaning given that term in ORS 685.010.
+(d) “Nurse Practioner” has the meaning given that term in ORS 678.010.
+(e) “Physician” has the meaning given that term in ORS 677.010.
+(f) “Physician associate” has the meaning given that term in ORS 677.495.
+(2) An individual or group health  benefit plan that reimburses the cost of a service pro-
+vided by a physician, physician associate or nurse practitioner shall reimburse the  cost of
+the same  service provided by a naturopathic physician if the service is within the scope of
+practice of the naturopathic physician.
+(3) An individual or  group health benefit plan shall reimburse the cost of a service pro-
+vided by a naturopathic physician who is in an independent practice in the same amount and
+using the same payment methodology as the reimbursement paid  under the plan to a physi-
+cian, physician associate or nurse practitioner providing the service in the same setting  and
+geographic area.
+(4) An insurer may not reduce the reimbursement paid to a physician, physician associate
+or nurse practitioner in order to comply with this section.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 955
+HB 3439
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) This section is exempt from ORS 743A.001.
+SECTION 3.
+ ORS 243.144, as amended by section 9, chapter 17, Oregon Laws 2024, is  amended
+to read:
+243.144. Benefit  plans offered by the Public Employees’ Benefit Board that reimburse the cost
+of medical and other health  services and supplies must comply with the requirements for health
+benefit plan coverage described in:
+(1) ORS 743A.058;
+(2) ORS 743A.140;
+(3) ORS 743A.141;
+(4) ORS 743B.256;
+(5) ORS 743B.287 (4);
+(6) ORS 743B.420;
+(7) ORS 743B.423;
+(8) ORS 743B.601;
+(9) ORS 743B.810;
+(10) ORS 743A.325; [ and]
+(11) ORS 743A.051 (2)(c)[ .]; and
+(12) Section 2 of this 2025 Act.
+SECTION 4.
+ ORS 243.144, as amended by sections 9 and 10, chapter 17, Oregon Laws  2024, is
+amended to read:
+243.144. Benefit plans offered by the Public Employees’ Benefit Board that reimburse the  cost
+of medical and other health services and supplies must comply with  the requirements for health
+benefit plan coverage described in:
+(1) ORS 743A.058;
+(2) ORS 743A.140;
+(3) ORS 743A.141;
+(4) ORS 743B.256;
+(5) ORS 743B.287 (4);
+(6) ORS 743B.420;
+(7) ORS 743B.423;
+(8) ORS 743B.601;
+(9) ORS 743B.810; [ and]
+(10) ORS 743A.325[ .]; and
+(11) Section 2 of this 2025 Act.
+SECTION 5.
+ ORS 243.877, as amended by section 11, chapter 17, Oregon Laws 2024,  is amended
+to read:
+243.877. Benefit plans offered by the Oregon Educators Benefit Board that reimburse the  cost
+of medical and other health services and supplies must comply with  the requirements for health
+benefit plan coverage described in:
+(1) ORS 743A.058;
+(2) ORS 743A.140;
+(3) ORS 743A.141;
+(4) ORS 743B.256;
+(5) ORS 743B.287 (4);
+(6) ORS 743B.420;
+[2]
+HB 3439
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+(7) ORS 743B.423;
+(8) ORS 743B.601;
+(9) ORS 743B.810;
+(10) ORS 743A.325; [ and]
+(11) ORS 743A.051 (2)(c)[ .]; and
+(12) Section 2 of this 2025 Act.
+SECTION 6.
+ ORS 243.877, as amended by sections 11 and 12, chapter 17, Oregon Laws  2024, is
+amended to read:
+243.877. Benefit  plans offered by the Oregon Educators Benefit Board that reimburse the cost
+of medical and other health  services and supplies must comply with the requirements for health
+benefit plan coverage described in:
+(1) ORS 743A.058;
+(2) ORS 743A.140;
+(3) ORS 743A.141;
+(4) ORS 743B.256;
+(5) ORS 743B.287 (4);
+(6) ORS 743B.420;
+(7) ORS 743B.423;
+(8) ORS 743B.601;
+(9) ORS 743B.810; [ and]
+(10) ORS 743A.325[ .]; and
+(11) Section 2 of this 2025 Act.
+[3]

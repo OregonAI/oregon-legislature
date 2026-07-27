@@ -1,0 +1,236 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1571
+Sponsored by Senators WOODS, MANNING JR, GELSER BLOUIN, Representative  NERON; Senators CAMPOS,
+DEMBROW, FREDERICK, GOLDEN, HANSELL, JAMA, KNOPP, PATTERSON, PROZANSKI,  WEBER, Rep-
+resentatives BOWMAN, BYNUM, FAHEY, GAMBA, GOMBERG, HARTMAN, HUDSON, LEVY  E, LIVELY,
+MANNIX, NATHANSON, NELSON, NGUYEN D, PHAM H, PHAM K, SOSA (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The  Act requires a disclosure of the use of AI in campaign ads. (Flesch Readability
+Score: 83).
+Requires a disclosure of the use of artificial intelligence in campaign communications. Provides
+for the enforcement of the requirement. Subjects a violation of the requirement to a  civil penalty
+not to exceed $10,000.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to the use of artificial  intelligence in campaign communications; creating new provisions;
+amending ORS 260.345; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Artificial intelligence” means  digital technology used in a manner to create an im-
+age, audio recording or video recording of an individual’s  appearance, speech or conduct to
+produce a depiction that  a reasonable person would believe is of a real individual in appear-
+ance, speech or conduct but that did not actually occur in reality.
+(b)(A) “Campaign communication”  means a communication in support of or in opposition
+to a clearly identified candidate or measure, as defined in ORS 260.005 (10)(c).
+(B) Notwithstanding ORS 260.005 (10)(c)(B)(i), a campaign communication may involve
+aggregate expenditures of any amount.
+(2) A campaign  communication that includes any form of artificial intelligence must state
+that the campaign communication uses artificial intelligence.
+(3) The Secretary of State may institute proceedings to enjoin any violation of  this sec-
+tion, except that in the  case of a violation by the Secretary of State or a candidate for the
+office of the Secretary of State, the Attorney General may institute proceedings to enjoin
+any violation of this section. In any  action brought under this section, the circuit court may
+at any time enter such injunctions, prohibitions  or restraining orders, or take any other
+actions as the court may deem proper. A restraining order, prohibition or  injunction may
+be issued under this section without proof of injury or damage to any person. The  circuit
+court shall give priority to the hearing and determination under this section. The court  shall
+award the prevailing party reasonable attorney fees at trial and on appeal.
+(4) Upon proof of any  violation of this section, the court shall impose a civil penalty of
+not more than $10,000. All penalties recovered under this  section shall be paid into the State
+Treasury and credited to the General Fund.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 132
+SB 1571
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) The remedy provided by this section is the exclusive remedy for a violation  of this
+section.
+SECTION 2.
+Section 1 of this 2024 Act is added to and made a part of ORS chapter 260.
+SECTION 3.  ORS 260.345 is amended to read:
+260.345. (1) Any elector may file with any  filing officer a written complaint alleging that a vio-
+lation of an election law  or rule adopted by the Secretary of State under ORS chapters 246 to 260
+has occurred and stating the reason for believing that the violation occurred and any  evidence re-
+lating to it. A complaint and any evidence relating  to it may be filed electronically. A complaint
+alleging a violation involving the Secretary of State, a candidate for the office of Secretary  of State,
+or any political committee or person supporting the Secretary of State or a candidate for  the office
+of Secretary of State may be filed with the Attorney General. The  Secretary of State or Attorney
+General shall not accept an anonymous complaint.
+(2) The Secretary of State by  rule shall prescribe the procedure for processing a complaint filed
+with any person other  than the Secretary of State. If the complaint concerns the Secretary of State,
+any candidate for the office of the Secretary of  State, or any political committee or person sup-
+porting the candidacy of the Secretary  of State or of another person for the office of Secretary of
+State, the  complaint and any additional information relating to the complaint shall be sent to the
+Attorney General.
+(3) Upon receipt of a complaint under  subsection (1) or (2) of this section the Secretary of State
+or Attorney General immediately shall examine the complaint to  determine whether a violation of
+an election law or rule has occurred and shall make any investigation the Secretary of State  or
+Attorney General considers necessary. Except as provided  in this subsection, within three business
+days of determining that an investigation is necessary to determine whether a  violation of an
+election law or rule has occurred,  the Secretary of State or Attorney General shall notify the person
+who is the  subject of the complaint that an investigation will take place. If the Secretary of State
+or Attorney General receives a complaint or complaints involving 10 or  more individuals, political
+committees or petition committees in any 48-hour period,  the Secretary of State or Attorney General
+need not notify the persons who are the subjects  of those complaints within three business days of
+receiving the complaints but shall  notify those persons not later than 10 business days after deter-
+mining that an investigation is necessary to  determine whether a violation of election law or rule
+has occurred.
+(4) If the Secretary of State believes after an investigation under subsection (3) of this  section
+that a violation of an election law or rule has occurred, the secretary:
+(a) In the case of a violation that is subject  to a penalty under ORS 260.993, immediately shall
+report the findings to the Attorney General and request prosecution. If the  violation involves the
+Attorney General, a candidate for that office or a political committee or  person supporting or op-
+posing the Attorney General or a candidate for that office, the Secretary  of State shall appoint an-
+other prosecutor for that purpose;
+(b) In the case  of a violation not subject to a penalty under ORS 260.537 or 260.993  or section
+1 of this 2024 Act , may impose a civil penalty under ORS 260.995; [ or]
+(c) In the case of a violation under ORS  260.537, may institute civil proceedings in the manner
+described in ORS 260.537 ; or
+(d) In the case of a violation under section 1 of this 2024 Act, may institute civil pro-
+ceedings in the manner described in section 1 of this 2024 Act .
+(5) Upon receipt of a complaint or report under subsection (1), (2) or  (4) of this section involving
+[2]
+SB 1571
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+an alleged violation subject to a penalty under ORS 260.993  or an alleged violation of ORS 260.537
+or section 1 of  this 2024 Act , the Attorney General or other prosecutor immediately shall examine
+the complaint or report to determine whether a violation of an election law has occurred. If the
+Attorney General or  prosecutor determines that a violation has occurred, the Attorney General or
+prosecutor  immediately  shall begin prosecution or civil proceedings in the name of the state. The
+Attorney General or other prosecutor  shall have the same powers in any county of this state as the
+district attorney for the county.
+(6) Upon receipt  of a complaint under subsection (1) or (2) of this section involving an alleged
+violation of an  election law or rule not subject to a penalty under ORS 260.537 or 260.993  or section
+1 of this 2024 Act , the  Attorney General shall examine the complaint to determine whether a vio-
+lation of an election law or rule has occurred and shall make any investigation the Attorney  Gen-
+eral considers necessary. If the Attorney General believes after an investigation that  a violation of
+an election law or rule has occurred, the Attorney General may impose a civil penalty  under ORS
+260.995.
+(7) In the case of an alleged violation subject to a civil penalty under ORS 260.995  or an alleged
+violation of ORS 260.537  or section  1 of this 2024 Act , a complaint shall be filed by an elector
+under this section no later than  90 days following the election at which a violation of an election
+law or rule is alleged to have occurred, or 90 days  following the date the violation of an election
+law or rule is alleged to have occurred, whichever is later.
+(8) A filing officer having reason  to believe that a violation of an election law or rule has oc-
+curred shall proceed promptly  as though the officer had received a complaint. Except as provided
+in ORS 260.234, a filing officer shall proceed under this subsection no  later than two years following
+the election at which a violation of an election law or rule  is alleged to have occurred, or two years
+following the date the violation of an election law or rule is  alleged to have occurred, whichever is
+later. If a  filing officer has not proceeded within two years because of fraud, deceit, misleading
+representation or the filing officer could not  have reasonably discovered the alleged violation, the
+filing officer shall proceed no later than five years following the  election at which a violation of an
+election law or rule is alleged to have occurred, or five  years following the date the violation of an
+election law or rule is alleged to have occurred, whichever is later.
+SECTION 4.
+This 2024 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2024 Act takes effect
+on its passage.
+[3]

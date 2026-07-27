@@ -1,0 +1,107 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 2307
+Sponsored by Representative MANNIX, Senator WEBER,  Representatives MCINTIRE, WRIGHT;
+Representatives ELMER, RESCHKE, Senator SMITH DB (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to fluorescent lamps purchased  by school districts; creating new provisions; amending ORS
+459.488; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 459.488 is amended to read:
+459.488. ORS 459.485 does not apply to:
+(1) A lamp  used for image capture and projection, including photocopying, printing, directly or
+in preprocessing, lithography, film and video projection and holography.
+(2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+(a) A  lamp with high ultraviolet content that has ultraviolet power greater than two milliwatts
+per kilolumen.
+(b) A lamp for germicidal use, such as the destruction of DNA (deoxyribonucleic  acid), that
+emits a peak radiation of approximately 253.7 nanometers.
+(c) A lamp used for disinfection or fly trapping from which either:
+(A) The radiation power emitted between  250 and 315 nanometers represents at least five per-
+cent of the total radiation power emitted between 250 and 800 nanometers; or
+(B) The radiation  power emitted between 315 and 400 nanometers represents at least 20 percent
+of the total radiation power emitted between 250 and 800 nanometers.
+(d) A lamp used  for the generation of ozone where the primary purpose is to emit radiation at
+approximately 185.1 nanometers.
+(e) A lamp used for coral zooxanthellae symbiosis from which the  radiation power emitted be-
+tween 400 and 480 nanometers represents at  least 40 percent of the total radiation power emitted
+between 250 and 800 nanometers.
+(f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet lamps
+and intended for  irradiation of any part of the living human body by ultraviolet radiation, with
+wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+(3) A lamp used in a medical device or otherwise used for medical or veterinary diagnosis  or
+treatment.
+(4) A lamp used in pharmaceutical product manufacturing or quality control.
+(5) A lamp used for spectroscopy and photometric applications, including  ultraviolet-visible
+spectroscopy, molecular spectroscopy,  atomic absorption spectroscopy, nondispersive infrared
+(NDIR), Fourier transform infrared (FTIR), medical analysis, ellipsometry, layer thickness  measure-
+ment, process monitoring or environmental monitoring.
+Enrolled House Bill 2307 (HB 2307-INTRO) Page 1
+(6) A lamp  used by academic or research institutions exclusively for conducting research
+projects or experiments.
+(7) A compact  fluorescent lamp used to replace a lamp in a motor vehicle manufactured on or
+before January 1, 2020.
+(8) A lamp purchased by a  school district, as defined in ORS 332.002, for use in school
+buildings.
+SECTION 2.  ORS 459.488, as amended by section 1 of this 2025 Act, is amended to read:
+459.488. ORS 459.485 does not apply to:
+(1) A lamp used for image capture and projection, including photocopying, printing,  directly or
+in preprocessing, lithography, film and video projection and holography.
+(2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+(a) A lamp with high ultraviolet content that has ultraviolet power greater than two  milliwatts
+per kilolumen.
+(b) A lamp  for germicidal use, such as the destruction of DNA (deoxyribonucleic acid), that
+emits a peak radiation of approximately 253.7 nanometers.
+(c) A lamp used for disinfection or fly trapping from which either:
+(A) The radiation power emitted between 250 and 315 nanometers  represents at least five per-
+cent of the total radiation power emitted between 250 and 800 nanometers; or
+(B) The radiation  power emitted between 315 and 400 nanometers represents at least 20 percent
+of the total radiation power emitted between 250 and 800 nanometers.
+(d) A lamp used for the generation of ozone where the primary purpose is to  emit radiation at
+approximately 185.1 nanometers.
+(e) A lamp used for  coral zooxanthellae symbiosis from which the radiation power emitted be-
+tween 400 and 480 nanometers represents at least 40 percent  of the total radiation power emitted
+between 250 and 800 nanometers.
+(f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet lamps
+and intended for irradiation of any part of the living human body by ultraviolet  radiation, with
+wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+(3) A  lamp used in a medical device or otherwise used for medical or veterinary diagnosis or
+treatment.
+(4) A lamp used in pharmaceutical product manufacturing or quality control.
+(5) A  lamp used for spectroscopy and photometric applications, including ultraviolet-visible
+spectroscopy, molecular spectroscopy, atomic absorption spectroscopy,  nondispersive infrared
+(NDIR), Fourier  transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measure-
+ment, process monitoring or environmental monitoring.
+(6) A lamp used by academic or research institutions exclusively for  conducting research
+projects or experiments.
+(7) A compact fluorescent lamp used to replace a lamp in a motor vehicle manufactured  on or
+before January 1, 2020.
+[(8) A lamp purchased by a school district, as defined in ORS 332.002, for use in school
+buildings.]
+SECTION 3.
+The amendments to ORS 459.488 by  section 2 of this 2025 Act become oper-
+ative on January 2, 2030.
+SECTION 4. This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist, and  this 2025 Act takes effect
+on its passage.
+Enrolled House Bill 2307 (HB 2307-INTRO) Page 2
+Passed by House March 24, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate May 21, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 2307 (HB 2307-INTRO) Page 3

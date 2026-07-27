@@ -1,0 +1,605 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3179
+Sponsored by Representative  SOSA, Senator TAYLOR, Representative MARSH, Senator SOLLMAN; Representatives
+CHOTZEN, FRAGALA, GOMBERG, LIVELY, NERON, WALTERS, Senators  GOLDEN, PATTERSON, PHAM
+K (at the request of Citizens’ Utility Board) (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells the PUC to look at the economic impact of a  proposed rate or schedule of rates
+if the rates lead to certain revenue results. (Flesch Readability Score: 63.0).
+Directs the Public Utility Commission to  consider the cumulative economic impact of a proposed
+rate or schedule of rates on  a public utility’s ratepayers if the proposed rate or schedule of rates
+will result in an increase of the public utility’s revenue in this state by 2.5 percent or more.
+Modifies the commission’s general powers to give  the commission broad discretion in setting
+rates.
+Authorizes the commission to adjust rates to mitigate  or phase in an increase in rates if the
+increase would affect the ability of  customers to maintain adequate utility services or could mate-
+rially affect the economy of the state.
+Authorizes a public utility, upon approval  by the commission, to issue bonds and securitize debt
+for costs and expenses incurred or to be incurred by the public utility associated with capital  in-
+vestments that are approved by the commission.
+Requires a public utility that provides electricity or gas  services to provide and make public a
+visual representation of cost categories included in the public utility’s residential  customer rates for
+the preceding calendar year.
+Requires a public utility to provide  and make public a quarterly report on any rate adjustments
+the public utility expects within the next 12 months.
+A BILL FOR AN ACT
+Relating to public utilities; creating new provisions; and amending ORS 756.040,  757.210 and 757.457.
+Be It Enacted by the People of the State of Oregon:
+PUBLIC UTILITY RATES
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a  part of ORS 757.210 to
+757.220.
+SECTION 2. (1) In determining whether  a public utility’s proposed rate or schedule of
+rates to be established or increased or changed is fair, just and reasonable, the  Public Utility
+Commission shall first determine whether the  proposed rate or schedule of rates will result
+in an increase of the public utility’s revenue in this state by 2.5 percent or  more. To deter-
+mine the amount that the public utility’s  revenue in this state will increase, the commission
+shall:
+(a) Consider the revenue impact that will result from the proposed  rate or schedule of
+rates in the aggregate with the revenue impact resulting from all rates or schedules of rates
+that the commission has approved within the previous 12 months for the public utility; and
+(b) Compare the public utility’s projected revenue for the  12 months beginning on the
+date the proposed rate or schedule of rates is to take  effect with the public utility’s revenue
+for the 12  months ending on the day before the date the proposed rate or schedule of rates
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2706
+HB 3179
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+is to take effect.
+(2) If a proposed rate  or schedule of rates will result in an increase of a public utility’s
+revenue in this state by 2.5 percent or more, the commission shall, in deciding whether to
+approve the proposed rate or schedule of rates, consider the cumulative economic impact of
+the proposed rate or schedule of rates  on the public utility’s ratepayers, taking into consid-
+eration the following:
+(a) Data on the rates of unemployment, the median income and  the number of persons
+receiving social service assistance in the public utility’s service territory;
+(b) For each classification of service of the  public utility affected by the proposed rate
+or schedule of rates and, if applicable,  distinguished by ratepayers who reside in single-family
+housing and ratepayers who reside in multifamily housing:
+(A) Ratepayers’  average monthly utility bill for the calendar year, the summer months
+and the winter months; and
+(B) The estimated increase in ratepayers’ utility bills;
+(c) The average cost of living and cost of fuel and utilities for the country,  for the state
+and for the service territory of the public utility, as determined by the commission using  the
+Consumer Price Index for All Urban Consumers, West Region (All Items), as  most recently
+published by the Bureau of Labor Statistics of the United States Department of Labor;
+(d) The public utility’s data on service disconnection, including:
+(A) The number of ratepayers the public utility disconnected in the previous 12 months;
+(B) The number of ratepayers receiving energy assistance the public  utility disconnected
+in the previous 12 months; and
+(C) The number of ratepayers who have a medical  statement filed with the public utility;
+(e) The public utility’s data on overdue balances, including:
+(A) The number of ratepayers who have an overdue balance;
+(B) The average amount of the overdue balances; and
+(C) The total amount of overdue balances owed to the public utility; and
+(f) Any other relevant data, as determined by the commission.
+SECTION 3.
+ ORS 756.040 is amended to read:
+756.040. (1) In addition to the powers and duties now or  hereafter transferred to or vested in the
+Public Utility Commission, the commission shall  represent the customers of any public utility or
+telecommunications utility and  the public generally in all controversies respecting rates, valuations,
+service and all matters of which the commission has jurisdiction. In respect thereof the commission
+shall make use of the jurisdiction and powers of the office to protect such customers, and the  public
+generally, from unjust and unreasonable exactions and practices  and to obtain for them adequate
+service at fair and  reasonable rates. The commission shall balance the interests of the utility in-
+vestor and the consumer in  establishing fair and reasonable rates. [ Rates are fair and reasonable for
+the purposes of this subsection if the rates ] In carrying out the commission’s duty  to protect
+customers of utilities and the  public, the commission has broad discretion in setting rates,
+including discretion to set the lowest reasonable rates as long as  those rates  provide adequate
+revenue both for prudently incurred operating expenses of the public  utility or telecommunications
+utility and  for prudently incurred capital costs of the utility, with a return to the equity holder
+that is:
+(a) Commensurate with the return on investments  in other enterprises having corresponding
+risks; and
+[2]
+HB 3179
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Sufficient to  ensure confidence in the financial integrity of the utility, allowing the utility
+to maintain its credit and attract capital.
+(2) The commission is vested  with power and jurisdiction to supervise and regulate every public
+utility and  telecommunications utility in this state, and to do all things necessary and convenient
+in the exercise of such power and jurisdiction.
+(3) The commission may participate in any proceeding before any public officer,  commission or
+body of the United States or any state for the purpose of representing the public generally and  the
+customers of the services of any public  utility or telecommunications utility operating or providing
+service to or within this state.
+(4) The commission may make joint investigations, hold joint hearings within or  without this
+state and issue concurrent  orders in conjunction or concurrence with any official, board, commission
+or agency of any state or of the United States.
+SECTION 4.
+ ORS 757.210 is amended to read:
+757.210. (1)(a) Whenever any public utility files with the  Public Utility Commission any rate or
+schedule of rates stating or establishing a new rate or  schedule of rates or increasing an existing
+rate or schedule of rates, the  commission may, either upon written complaint or upon the
+commission’s own initiative, after reasonable notice, conduct a hearing to determine whether  the
+rate or schedule is fair, just and reasonable. The commission shall conduct  the hearing upon written
+complaint filed by the utility, its customer or customers, or any other proper party within 60 days
+of the utility’s filing; provided that no hearing need be  held if the particular rate change is the re-
+sult of an automatic  adjustment clause. At the hearing the utility shall bear the burden of showing
+that the rate or  schedule of rates proposed to be established or increased or changed is fair, just
+and reasonable. The commission may not  authorize a rate or schedule of rates that is not fair, just
+and reasonable.
+(b) As used in this subsection, “automatic adjustment clause” means a provision of  a rate
+schedule that provides for rate increases or decreases  or both, without prior hearing, reflecting in-
+creases or decreases or both in costs  incurred, taxes paid to units of government or revenues earned
+by a utility and that is subject to review by the commission at least once every two years.
+(2)(a) Subsection (1) of this  section does not apply to rate changes under an approved alternative
+form of regulation plan, including a resource rate plan under ORS 757.212.
+(b) Any alternative form of regulation  plan shall include provisions to ensure that the plan op-
+erates in the interests of utility customers and the public generally  and results in rates that are just
+and reasonable and  may include provisions establishing a reasonable range for rate of return on
+investment. In approving a plan, the commission shall, at a minimum, consider whether the plan:
+(A) Promotes increased efficiencies and cost control;
+(B) Is consistent with least-cost resources acquisition policies;
+(C) Yields rates that are consistent with those that would be obtained following application  of
+ORS 757.269;
+(D) Is consistent with maintenance of safe, adequate and reliable service; and
+(E) Is beneficial to utility customers generally, for example, by minimizing utility rates.
+(c) As used in this subsection, “alternative  form of regulation plan” means a plan adopted by the
+commission upon petition by a public utility, after notice and an opportunity for a hearing, that  sets
+rates and revenues and a method for changes  in rates and revenues using alternatives to cost-of-
+service rate regulation.
+(d) Prior to implementing  a rate change under an alternative form of regulation plan, the utility
+[3]
+HB 3179
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+shall present a report that  demonstrates the calculation of any proposed rate change at a public
+meeting of the commission.
+(3) Except as provided in ORS 757.212, the commission, at any time, may order a utility to ap-
+pear and establish that any, or all, of its rates in a plan authorized  under subsection (2) of this
+section  are  in conformity with the plan and are just and reasonable. Except as provided in ORS
+757.212, such rates, and the alternative form of  regulation plan under which the rates are set, also
+shall be subject to complaint under ORS 756.500.
+(4) Periodically, but not less often than every two years after the implementation of a plan  re-
+ferred to in subsection  (2) of this section, the commission shall submit a report to the Legislative
+Assembly that shows the impact of the plan on rates paid by utility customers.
+(5) The commission and staff may consult at any time with,  and provide technical assistance to,
+utilities, their customers, and other interested parties on  matters relevant to utility rates and
+charges. If a hearing is held with  respect to a rate change, the commission’s decisions shall be based
+on the record made at the hearing.
+(6) The commission may adjust rates to mitigate or phase in an increase in rates if the
+increase is of such magnitude that, if applied at the higher rate or all at  one time, the in-
+crease would affect  the ability of customers to maintain adequate utility service or could
+materially affect the economy of the state.
+SECURITIZATION OF CAPITAL INVESTMENTS
+SECTION 5.
+ ORS 757.457 is amended to read:
+757.457. As used in this section and ORS 757.459, 757.461 and 757.463:
+(1) “Assignee”  means a person, and any subsequent assignee, to which a public utility assigns,
+sells or transfers all or part of the public utility’s interest in or  right to rate recovery assets, except
+as security.
+(2) “Bond” includes bonds, notes, certificates of beneficial interests in a  trust or other evidence
+of indebtedness.
+(3) “Bondholder” means a holder or owner of a rate recovery bond.
+(4) “Finance subsidiary” means an assignee at the time rate recovery bonds are issued:
+(a)(A) That is beneficially owned, directly or indirectly, by a public utility; or
+(B) In the case of a trust, for  which a public utility or subsidiary of the public utility is the
+grantor; or
+(b) That is unaffiliated with a public utility and acquires bondable rate recovery assets from  a
+public utility  in a transaction or under an agreement that is approved by the Public Utility Com-
+mission.
+(5) “Financing costs” includes the following costs related  to rate recovery bonds, whether in-
+curred and paid upon issuance or over the life of rate recovery bonds:
+(a) The costs of issuing, serving, managing, repaying or refinancing rate  recovery bonds, in-
+cluding any fees, expenses or charges incurred and  the costs of any activities performed in con-
+nection with the rate recovery bonds, including:
+(A) Information technology programming;
+(B) Obtaining a financing order;
+(C) Serving, accounting or auditing;
+(D) Services related to trustees;
+[4]
+HB 3179
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(E) Legal services;
+(F) Consulting;
+(G) Services related to financial and structuring advisors;
+(H) Administration;
+(I) Placement and underwriting;
+(J) Services related to independent directors and managers;
+(K) Services related to rating agencies;
+(L) Stock exchange listing and compliance;
+(M) Securities registration and filing; and
+(N) Services necessary to ensure a timely payment of  rate recovery bonds or other amounts or
+charges payable in connection with rate recovery bonds;
+(b) Principal, interest and  acquisition, defeasance and redemption premiums payable on rate re-
+covery bonds;
+(c) Payments required under an ancillary agreement and  any amounts required to fund or re-
+plenish a reserve or account established under the  terms of an indenture, ancillary agreement or
+financing document related to rate recovery bonds;
+(d) Applicable federal,  state and local taxes, franchise fees, license fees, gross receipts or other
+taxes or charges, whether paid, payable or accrued; and
+(e) The Public Utility Commission’s  costs in performing the commission’s duties related to rate
+recovery bonds that are recoverable by the commission under ORS 756.310.
+(6) “Financing order” means an order issued by the  Public Utility Commission that authorizes
+one or more the following:
+(a) The recovery of rate recovery expenditures and financing costs;
+(b) The creation of rate recovery assets;
+(c) The issuance of rate recovery bonds;
+(d) The imposition, collection and periodic adjustment of rate recovery charges; or
+(e) The sale, assignment or transfer of rate recovery assets to an assignee.
+(7) “Financing party” includes:
+(a) Bondholders, trustees, agents and secured parties related to rate recovery bonds;
+(b) A person acting for the benefit of bondholders, trustees, agents or secured parties; and
+(c) A party to rate recovery bond documents or an ancillary agreement.
+(8) “Public utility customer” means:
+(a) For an electric utility, a retail electricity consumer, as defined in ORS 757.600.
+(b) For a  natural gas utility, the end use consumer served by the natural gas utility, including
+those served by the natural gas  utility under ORS 757.516, regardless of whether the end use con-
+sumer purchases natural gas from the natural gas utility.
+(9) “Rate recovery asset” means a right to recover from customers  rate recovery expenditures
+and associated costs and expenses approved in a financing order, including the right to:
+(a) Impose, charge, bill, collect, receive, hold and apply rate recovery charges authorized under
+a financing order or  obtain, to the extent authorized, periodic adjustments of rate recovery charges;
+and
+(b) All  claims, accounts, revenues, payments, collections, moneys or proceeds arising from the
+rights and interest specified in a financing order, regardless of whether the claims,  accounts, re-
+venues, payments, collections, moneys  or proceeds arising from the rights and interest specified in
+the financing order are commingled with  other claims, accounts, revenues, payments, collections,
+[5]
+HB 3179
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+moneys or proceeds.
+(10) “Rate recovery charge” means charges to public utility customers authorized  by the Public
+Utility Commission to recover rate recovery expenditures and financing costs and to  be used to pay,
+repay or refinance rate recovery bonds.
+(11) “Rate recovery expenditures” means costs  and expenses incurred or to be incurred through
+the date of issuance of a financing order by a public utility associated with:
+(a) An event that is the subject of a federal or state declaration of a state  of emergency, such
+as severe weather, catastrophic wildfire, pandemic or other event that  causes or threatens to cause
+widespread loss of life, injury to person or property, human suffering or financial loss,  except those
+costs and expenses that are or are associated with criminal or civil fines or penalties or judgments
+from a civil action based on negligence related to the event.
+(b) An  energy conservation program that provides loans and cash payments to public utility
+customers for the installation of energy  conservation measures funded by the public utility includ-
+ing, but not limited to, the costs or expenditures for specific  acquisition program development, pro-
+motion and labor costs and associated general supervision, rents, leases and overheads.
+(c) Capital investments that are approved by the Public Utility Commission.
+(12) “Secured party” means a financing party that has been granted a security  interest in rate
+recovery assets.
+REPORTS BY PUBLIC UTILITIES
+SECTION 6.
+Sections 7 to 9 of this 2025 Act are added to and  made a part of ORS chapter
+757.
+SECTION 7. No later than January 15 of each  calendar year, a public utility that provides
+electricity services in this state shall provide to the  Public Utility Commission, and make
+publicly available on  the public utility’s website, a visual representation of cost categories
+included in the public utility’s residential customer  rates for the preceding calendar year.
+The cost categories are the costs associated with each of the following:
+(1) Distribution  services infrastructure, excluding costs associated with wildfire miti-
+gation;
+(2) Wildfire mitigation;
+(3) Transmission services infrastructure under the exclusive jurisdiction  of the Public
+Utility Commission;
+(4) Transmission services  infrastructure under the jurisdiction of the Federal Energy
+Regulatory Commission;
+(5) Energization;
+(6) A catastrophic event or emergency;
+(7) Net metering and net billing tariffs;
+(8) Commodity prices, including natural gas;
+(9) Energy efficiency programs;
+(10) Insurance, including self-insurance;
+(11) Metering and billing;
+(12) Taxes;
+(13) Overdue customer balances; and
+(14) Any other expenses, as determined by the commission, that a public utility seeks  to
+[6]
+HB 3179
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+recover in the public utility’s residential customer rates.
+SECTION 8.
+No later than January 15 of each  calendar year, a public utility that provides
+natural gas services in this state shall provide to the  Public Utility Commission, and make
+publicly available on the public utility’s website, a visual representation of  cost categories
+included in the public utility’s residential customer  rates for the preceding calendar year.
+The cost categories are the costs associated with each of the following:
+(1) Distribution services infrastructure;
+(2) Transmission services infrastructure under the exclusive jurisdiction  of the Public
+Utility Commission;
+(3) Transmission services  infrastructure under the jurisdiction of the Federal Energy
+Regulatory Commission;
+(4) A catastrophic event or emergency;
+(5) Commodity prices, including natural gas;
+(6) Energy efficiency programs;
+(7) Insurance, including self-insurance;
+(8) Metering and billing;
+(9) Taxes;
+(10) Overdue customer balances; and
+(11) Any other expenses, as determined by the commission, that a public utility seeks  to
+recover in the public utility’s residential customer rates.
+SECTION 9.
+The Public Utility Commission shall require a public utility to file with the
+commission, and make publicly available, a quarterly report  on any rate adjustments the
+public utility expects within the next 12 months. The report must identify the  classification
+of service or customer that may be affected by  a rate adjustment that the public utility ex-
+pects.
+APPLICABILITY
+SECTION 10. Section 2 of this 2025 Act and the amendments to ORS 756.040  and 757.210
+by sections 3 and 4 of this  2025 Act apply to proceedings before the Public Utility Commission
+that commence on or after the effective date of this 2025 Act.
+CAPTIONS
+SECTION 11. The unit captions used in this 2025 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+[7]

@@ -1,0 +1,82 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 1090
+Sponsored by Senators WOODS, MANNING JR; Senators  FREDERICK, JAMA, NERON, Represen-
+tative GAMBA
+CHAPTER .................................................
+AN ACT
+Relating to information technology; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Information technology” means all present and future forms of hardware,  software
+and services for data processing, office automation and telecommunications.
+(b) “State agency” means a board, commission, department, division,  office or other en-
+tity within the executive department, as defined in ORS 174.112, except:
+(A) The Secretary of State;
+(B) The State Treasurer;
+(C) The Oregon State Lottery; and
+(D) A public university that is listed in ORS 352.002.
+(2) The State Chief Information Officer shall  adopt a policy and a procedure for state
+agencies to follow in requesting funding  for information technology budgets and projects,
+including replacements,  modernizations, upgrades and expansions of information technology
+systems. Each state agency that intends to request funding for a budget or project  described
+in this subsection shall submit the request to the State  Chief Information Officer and the
+office of Enterprise Information Services for review not  later than the date in each biennium
+that the State Chief Information Officer specifies.
+(3) The State Chief Information Officer, in collaboration with the Legislative Fiscal Of-
+fice, shall establish criteria for assigning priorities among the  budgets and projects described
+in subsection (2) of this section.
+(4) The office of Enterprise Information Services, in collaboration with affected  state
+agencies, shall evaluate budget and project requests the  state agencies submit under sub-
+section (2) of this section against the criteria that the State  Chief Information Officer and
+Legislative Fiscal Office specify under subsection (3) of  this section. The office of Enterprise
+Information Services shall  then recommend for the State Chief Information Officer’s ap-
+proval priority rankings  of the requests within the context of all of each state agency’s re-
+quests, the requests in  a program area and the requests that the executive department
+submits as a  whole. In recommending the ranking, the office of Enterprise Information
+Services shall consider whether, and the extent to which, a request:
+(a) Is  consistent with and supports implementation of the Enterprise Information Re-
+sources Management Strategy described in ORS 276A.203 (4)(a)(M);
+(b) Involves or promotes the use of shared systems, resources or data;
+Enrolled Senate Bill 1090 (SB 1090-A) Page 1
+(c) Uses commercially available systems or software;
+(d) Enhances the information security posture of the agency or the state; and
+(e) Reduces system redundancies within an agency, a program area or the state.
+(5) Not later than  November 30 of the even-numbered year in each biennium the State
+Chief Information Officer shall submit to the Governor and the Joint Legislative  Committee
+on Information Management and Technology a report that:
+(a) Lists the priority rankings described in subsection (4) of this section;
+(b) Includes a list of the information technology services and the recommendation  from
+the State Chief Information Officer that is required under ORS 276A.203 (4)(a)(L); and
+(c) Describes  critical information technology system or service needs not otherwise
+identified within the priority rankings described in subsection (4) of this section.
+(6) After the Legislative Assembly adopts a budget for the state,  the State Chief Infor-
+mation Officer, in collaboration with  the Legislative Fiscal Office, shall submit to the Gov-
+ernor and the Joint Legislative  Committee on Information Management and Technology not
+later than  October 31 of the odd-numbered year in each biennium a report that lists all of
+the information technology budget and project requests  that the Legislative Assembly ap-
+proved.
+SECTION 2.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency  is declared to exist, and this 2025 Act takes effect
+on its passage.
+Passed by Senate June 10, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 17, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 1090 (SB 1090-A) Page 2

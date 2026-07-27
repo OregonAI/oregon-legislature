@@ -1,0 +1,274 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 82
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Natural Resources and Wildfire)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The  Act makes changes related to consulting on a grant process. The Act makes changes
+related to  a program to reduce wildfire risk. The Act gives money as a match for certain funds.
+(Flesch Readability Score: 75.1).
+Makes changes to consultations that are required for a certain grant process.
+Makes certain changes related to a program to reduce wildfire risk.
+Appropriates  moneys  out of the General Fund to the Higher Education Coordinating Commission
+for funding certain grant-supported projects.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to reducing wildfire  risk; creating new provisions; amending ORS 476.696 and 477.503; and
+declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 476.696 is amended to read:
+476.696. (1) As used in this section[ :],
+[(a)] “eligible organization” includes Oregon-based nonprofit  youth development organizations,
+federally recognized Indian tribes in this state, nonprofit associations engaged  in workforce devel-
+opment and public entities  that provide programs of job training, skill development and forest-
+related or rangeland-related career path training.
+[(b) “Tribe” means a federally recognized Indian tribe in Oregon. ]
+(2) The Oregon Youth Works Advisory Board created under ORS 660.320 shall, in  collaboration
+with a qualified nonprofit foundation, actively  seek and source private donations to support the
+Oregon Conservation Corps Program.
+(3) The advisory  board may direct the expenditure of moneys from the Oregon Conservation
+Corps Fund for a promotional website and materials to solicit private funds.
+(4) The advisory board shall  advise the Higher Education Coordinating Commission on the im-
+plementation of a grant process that:
+(a) Provides funding to support the work conducted by the  Oregon Conservation Corps Program.
+(b) Defines and uses an equity lens in awarding  grants by identifying and supporting populations
+with greater vulnerability, including communities  of color, indigenous communities, communities
+with members who have limited proficiency in English and communities  with lower-income members.
+(c) Awards grants to eligible organizations.
+(d) Ensures that grant awards support activities described  in ORS 476.694 (1) and subsection (5)
+of this section.
+(e) Establishes guidelines  for prioritizing grant-supported projects to reduce community fire
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2682
+SB 82
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+risks, promote youth and young adult workforce development and educational experiences  and re-
+duce hazardous fuels.
+(5) The  commission shall consult with the State Forestry Department  and the Department of
+the State Fire Marshal  to ensure that the grant process awards funds to proposals that[ :]
+[(a)] protect at-risk communities and infrastructure within the wildland-urban  interface, as de-
+scribed in ORS 477.503.
+[(b)] (6) The commission shall consult with the State Forestry Department to ensure that
+the grant process awards funds to proposals  that  meet standards for fuel treatment established
+by the department.
+[(6)] (7)  The advisory board shall biennially submit a report, on the  timeline described in ORS
+293.640, to an appropriate committee or interim committee of the Legislative Assembly, as described
+in ORS 192.245, and to the State Wildfire Programs Director and Wildfire Programs  Advisory
+Council, regarding the expenditure of moneys deposited in the Oregon Conservation Corps Fund.
+SECTION 2.
+ ORS 477.503 is amended to read:
+477.503. (1)(a) The  State Forestry Department shall design and implement a program to reduce
+wildfire risk through the restoration of landscape resiliency and the reduction of hazardous  fuel on
+public or private forestlands and  rangelands and in communities near homes and critical
+infrastructure.
+(b) The department shall ensure that the program is consistent with the objectives described in
+this section and  biennially select, administer and evaluate projects consistent with the objectives
+described in this subsection.
+(c) When developing program and  project selection criteria, the department shall, to the extent
+practicable, consult and cooperate with state and federal agencies, counties, cities and  other units
+of local government, federally recognized  Indian tribes in this state, public and private forestland
+and rangeland owners, forest  and rangeland collaboratives and other relevant community organiza-
+tions and ensure consistency with the priorities described in subsection (3) of this section.
+(2) The department shall develop a 20-year strategic plan, as described in the Shared
+Stewardship Agreement signed  on August 13, 2019, that prioritizes restoration actions and ge-
+ographies for wildfire risk reduction. The plan must be able to be used to direct  federal, state and
+private investments in a tangible way.
+(3) In selecting and administering projects, the department shall:
+(a) In collaboration with the Oregon State University  Extension Service and other entities,
+identify strategic landscapes that are  ready for treatment, giving priority to projects within the
+landscapes that are:
+(A) On lands in  the four highest eNVC risk classes identified in the United States Forest Service
+report titled “Pacific Northwest Quantitative Wildfire Risk Assessment: Methods  and Results” and
+dated April 9, 2018;
+(B) Inclusive of federal lands with treatment projects currently  approved under the National
+Environmental Policy Act (42 U.S.C. 4321 et seq.);
+(C) Focusing on treatments protective of  human life, property, critical infrastructure, watershed
+health and forest or rangeland habitat restoration; and
+(D) Part  of a collaborative partnership with agreements across diverse forestland or rangeland
+stakeholders  that  use an expansive, landscape-scale approach to address underlying causes of poor
+wildfire resilience and elevated  risk of wildfire or that establish innovative approaches to addressing
+the underlying causes that could be implemented on a larger scale.
+[2]
+SB 82
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) To the extent practicable, identify and support projects that are designed to:
+(A) Evaluate varying types of fuel treatment methods;
+(B) Leverage the collective power of public-private partnerships and  federal and state funding,
+including leverage  of the coordination of funding to support collaborative initiatives that address the
+underlying causes of elevated forestland and rangeland wildfire risk across ownerships; and
+(C) Optimize the receipt of federal government investments that equal or exceed department
+investments.
+(c) Design the projects to involve existing forest-based and range-based contracting entities.
+(d) Design the projects to complement programs and projects of the  Oregon Watershed En-
+hancement Board or other state agencies as needed.
+(e) Design the projects to involve the Oregon Conservation Corps  Program established by ORS
+476.694, to  the maximum extent possible, for community protection projects located in the
+wildland-urban interface, subject to funding available in the Oregon Conservation Corps  Fund es-
+tablished by ORS 476.698.
+(f) Consult with the Department of the State Fire Marshal to ensure that  projects in-
+volving the Oregon Conservation Corps  Program are consistent with objectives of the De-
+partment of the State Fire Marshal.
+[(f)] (g) Affirmatively seek, and enhance opportunities for, collaboration from  stakeholders
+holding a wide variety of  perspectives regarding forest and rangeland management and opportunities
+for significant involvement by communities in proximity to project sites.
+[(g)] (h) Engage in monitoring of the projects to produce useful information on which to base
+recommendations to the Legislative Assembly.
+(4) A project under this section may not include commercial thinning on:
+(a) Inventoried roadless areas;
+(b) Riparian reserves identified in the Northwest Forest Plan or in federal Bureau of  Land
+Management resource management plans;
+(c) Late successional reserves, except to the extent consistent with the 2011  United States Fish
+and Wildlife Service  Revised Recovery Plan for the Northern Spotted Owl (Strix occidentalis
+caurina);
+(d) Areas protected under the federal Wild and Scenic Rivers Act (P.L. 90-542),  national recre-
+ation areas, national monuments or areas protected under ORS 390.805 to 390.925;
+(e) Designated critical habitat for species listed as threatened or endangered  under the Endan-
+gered Species Act of  1973 (P.L. 93-205) or by the State Fish and Wildlife Commission under ORS
+496.172, unless commercial thinning is already allowed under an existing environmental review or
+recognized habitat recovery plan; or
+(f) Federally designated areas of critical environmental  concern or federally designated
+wilderness study areas.
+(5) The State Forestry  Department shall give public notice, and allow reasonable opportunity
+for public input, when identifying and selecting landscapes under this section.
+SECTION 3.
+In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the Higher Education Coordinating Commission, for the biennium beginning  July 1,
+2025, out of the General Fund:
+(1) The amount of $_____, for the  purpose of funding grant-supported projects related to
+the Oregon Conservation Corps Program established by ORS 476.694.
+(2) The amount of $_____,  to match dollar-for-dollar funds secured from sources other
+[3]
+SB 82
+1
+2
+3
+4
+5
+6
+than state government that are dedicated for the purpose  of funding grant-supported
+projects related to the Oregon Conservation Corps Program.
+SECTION 4.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[4]

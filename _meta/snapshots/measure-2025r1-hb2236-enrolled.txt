@@ -1,0 +1,163 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 2236
+Sponsored by Representative BOSHART DAVIS; Senator SMITH DB (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to employment; creating new provisions;  amending ORS 657.010; and prescribing an effec-
+tive date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 657.010, as amended by section 28, chapter 75, Oregon Laws  2024, is amended
+to read:
+657.010. As used in this chapter, unless the context requires otherwise:
+(1) “Base year” means the first four  of the last five completed calendar quarters preceding the
+benefit year.
+(2) “Benefits” means the money allowances payable to unemployed persons under this chapter.
+(3) “Benefit year”  means a period of 52 consecutive weeks commencing with the first week with
+respect to which an individual files an initial valid claim for benefits, and thereafter  the 52 con-
+secutive weeks period beginning with the first week with respect to which  the individual next files
+an initial valid claim after the termination of the individual’s last  preceding benefit year except that
+the benefit year shall be 53 weeks if  the filing of an initial valid claim would result in overlapping
+any quarter of the base year of a previously filed initial valid claim.
+(4) “Calendar  quarter” means the period of three consecutive calendar months ending on March
+31, June 30, September 30 or December 31, or the approximate equivalent  thereof, as the Director
+of the Employment Department may, by rule, prescribe.
+(5) “Client employer” means an employer that enters into a PEO relationship.
+(6) “Client  worker” means an individual who performs services for compensation for the
+client of a professional employer organization.
+[(5)] (7) “Contribution” or “contributions” means [ the taxes that  are ] the money payments re-
+quired by this chapter,  or voluntary payments permitted, to be made to the Unemployment Com-
+pensation Trust Fund.
+(8) “Covered  employee” means a client worker for whom a PEO has assumed employer
+responsibilities under a PEO relationship.
+[(6)] (9) “Educational institution,” including  an institution of higher education, means an insti-
+tution:
+(a) In which participants, trainees  or students are offered an organized course of study or
+training designed to transfer to them knowledge, skills, information, doctrines, attitudes or abilities
+from, by or under the guidance of an instructor or teacher;
+(b) That  is accredited, registered, approved, licensed or issued a permit to operate as a school
+by the Department of Education or other government agency,  or that offers courses for credit that
+are transferable to an approved, registered or accredited school;
+Enrolled House Bill 2236 (HB 2236-B) Page 1
+(c) In which the course or courses of study or training  that it offers may be academic, technical,
+trade or preparation for gainful employment in a recognized occupation; and
+(d) In  which the course or courses of study or training are offered on a regular and continuing
+basis.
+[(7)] (10) “Employment office”  means a free public employment office or branch thereof, operated
+by this state or maintained as a part of a state-controlled system of public employment offices.
+[(8)] (11) “Hospital” has the meaning given that term in ORS 442.015.
+[(9)] (12) “Institution of higher education” means an educational institution that:
+(a) Admits  as regular students only individuals having a certificate of graduation from a high
+school, or the recognized equivalent of such a certificate;
+(b) Is legally authorized in this state to provide a program of education beyond high school;
+(c) Provides an educational program for which it awards  a bachelor’s or higher degree, or pro-
+vides a program that is acceptable for full credit toward such a degree, a program of  post-graduate
+or post-doctoral studies, or a program of  training to prepare students for gainful employment in a
+recognized occupation; and
+(d) Is a public or other nonprofit institution.
+[(10)] (13) “Instructional capacity” does not include services performed as an instructional  as-
+sistant as defined in ORS 342.120.
+[(11)] (14) “Internal Revenue Code” means the federal Internal Revenue Code, as amended and
+in effect on December 31, 2023.
+[(12)] (15) “Nonprofit employing unit” means an organization, or group of organizations,  de-
+scribed in section 501(c)(3) of the Internal Revenue Code that is exempt from income tax  under
+section 501(a) of the Internal Revenue Code.
+(16) “PEO relationship” means an agreement between a PEO  and a client employer under
+which certain employer responsibilities for some or all of the  client employer’s workers are
+allocated.
+(17)(a) “Professional employer organization” or “PEO” means a person  required to be li-
+censed under ORS 656.855 that enters into a PEO relationship with a client employer.
+(b) “Professional employer organization” or “PEO” does not  mean a person that solely
+provides workers to a client on a temporary basis or a person that provides payroll proc-
+essing or similar administrative services without assuming employer responsibilities  for cli-
+ent workers.
+[(13)] (18) “State” includes, in addition to the states of the United States of America, the District
+of Columbia and Puerto Rico. However, for  all purposes of this chapter the Virgin Islands shall be
+considered a state on and after the day on which the United States Secretary of Labor first approves
+the Virgin Islands’ law under section 3304(a) of the Federal Unemployment Tax Act as amended by
+Public Law 94-566.
+[(14)] (19) “Taxes” means contributions [the money payments  to the Unemployment Compensation
+Trust Fund required, or voluntary payments permitted, by this chapter ].
+(20) “Temporary basis” means providing workers to a client:
+(a) For special  situations, including but not limited to employee absences, employee
+leaves, professional skill shortages, seasonal  workloads and special assignments and projects
+with the expectation that the position will be terminated when the special situation ends.
+(b) As probationary new hires with a reasonable expectation of transitioning to perma-
+nent employment  with the client, if the client uses a preestablished probationary period in
+its overall employment selection program.
+[(15)] (21) “Valid claim” means any claim for benefits made in accordance with ORS 657.260 if
+the individual meets the wages-paid-for-employment requirements of ORS 657.150.
+[(16)] (22) “Week” means any period  of seven consecutive calendar days ending at midnight, as
+the director may prescribe by rule.
+SECTION 2.
+Sections 3 and 4 of this  2025 Act are added to and made a part of ORS
+chapter 657.
+Enrolled House Bill 2236 (HB 2236-B) Page 2
+SECTION 3. (1)(a) Notwithstanding any other provision of this  chapter, during the term
+of a PEO  relationship, the professional employer organization shall elect to treat covered
+employees as either employees of:
+(A) The professional employer organization; or
+(B) The client employer.
+(b) Notwithstanding any other provision of  law, if a professional employer organization
+elects to treat a covered employee as its own  employee under paragraph (a) of this sub-
+section, such  treatment shall be limited to the payroll tax reporting provisions of this chap-
+ter.
+(c)(A) Benefits  based on the wages of the covered employees reported in accordance with
+paragraph (a)(A) of this subsection shall be charged, in accordance with  ORS 657.471, to the
+professional employer organization and not to the client employer.
+(B) Benefits based on the  wages of the covered employees reported in accordance with
+paragraph (a)(B) of this subsection shall be charged, in accordance with ORS 657.471,  to each
+respective client employer and not to the professional employer organization.
+(2) For purposes of determining wages in excess of the taxable wage base under ORS
+657.095, any remuneration covered by this  chapter that is paid by a client employer or a
+professional employer organization to an individual during a calendar year shall be included
+in payroll for both the client employer and the professional employer organization.
+(3)(a) A professional employer organization shall notify the Director of the  Employment
+Department in writing of its election of a reporting method under subsection  (1)(a) of this
+section.
+(b)(A) A professional employer organization electing the reporting method under  sub-
+section (1)(a)(B) of this section shall produce  all documentation and information requested
+by the director within 60 days after submitting the written notice.
+(B) If the professional employer organization has not complied with  a request under
+subparagraph (A) of this paragraph on or before the end of the  60-day period, the profes-
+sional employer organization shall use the reporting method described in subsection  (1)(a)(A)
+of this section.
+(4)(a) After an initial election of treatment under  subsection (1)(a) of this section, a
+professional employer organization may change its election by written notice to the director.
+(b) Such subsequent change of election:
+(A) Shall become effective  in the calendar year following the year in which the written
+notice is received by the director; and
+(B) May not be changed again for two calendar years following the effective date of the
+change.
+SECTION 4.
+A professional employer organization’s election of its  treatment of covered
+employees under section 3 (1) of this 2025 Act made during the  first 120 days following the
+effective date of this 2025 Act:
+(1) Becomes effective as of the first day of the calendar quarter  in which the election is
+made.
+(2) Does not count toward the limit  on subsequent changes of election under section 3
+(4) of this 2025 Act.
+SECTION 5. Section 4 of this 2025 Act is repealed on January 2, 2027.
+SECTION 6. This 2025 Act  takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+Enrolled House Bill 2236 (HB 2236-B) Page 3
+Passed by House April 22, 2025
+Repassed by House May 29, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate May 27, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 2236 (HB 2236-B) Page 4

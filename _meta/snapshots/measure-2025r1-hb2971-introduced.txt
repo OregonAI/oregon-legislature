@@ -1,0 +1,344 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2971
+Sponsored by Representative GOMBERG (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes how certain banks can invest money. The Act changes how  public
+depositories compute their net worth. (Flesch Readability Score: 63.6).
+Modifies the allowable investments for certain financial institutions.
+Modifies the method of calculating the net worth of qualified depositories.
+A BILL FOR AN ACT
+Relating to financial institutions; amending ORS 295.001 and 708A.115.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 708A.115 is amended to read:
+708A.115. (1) Institutions may invest, without regard to any limitation  based on [ stockholders’
+equity] tier 1 capital , in:
+(a) Obligations of the United States, including those of its agencies and instrumentalities;
+(b) Obligations of public housing agencies issued pursuant  to the United States Housing Act of
+1937, as amended; and
+(c) Obligations of the State of Oregon or any county, city, school district, port district or  other
+public body with the power to levy taxes issued  pursuant to the Constitution or statutes of the State
+of Oregon or the charter or ordinances of any county or city within the  State of Oregon, if the is-
+suing body  has not been in default with respect to the payment of principal or interest on any of its
+obligations within five years preceding the date of the investment.
+(2) [ Subject to a limitation of 20 percent of  stockholders’ equity, ] Institutions may invest in obli-
+gations of any other state of  the United States or obligations of any out-of-state county, city, school
+district, port district or other public body in the United States payable from ad  valorem taxes, if the
+obligations are rated in one  of the four highest grades by a recognized investment service organ-
+ization that has been engaged regularly and continuously for a period of not less than 10 years  in
+rating state and municipal obligations.
+(3) Obligations received  in satisfaction of debts previously contracted in good faith are not
+subject to the limitations of this section, if the book  value of such obligations in excess of the lim-
+itations of  this section is reduced to the amount allowed under this section within six months after
+the date the obligations are acquired.
+SECTION 2.
+ ORS 295.001 is amended to read:
+295.001. As used in ORS 295.001 to 295.108, unless the context requires otherwise:
+(1) “Adequately capitalized” means a  qualified depository that is classified as adequately capi-
+talized by the depository’s primary federal regulatory authority.
+(2) “Bank” means an insured institution or trust company.
+(3) “Business day” means a day other than a federal or  State of Oregon legal holiday or a day
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3778
+HB 2971
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+other than a day on  which offices of the State of Oregon are otherwise authorized by law to remain
+closed.
+(4) “Closed depository” means a qualified depository that is subject to a loss.
+(5) “Collateral” means securities, or  a letter of credit or similar instrument intended to ensure
+payment, that is approved by the State Treasurer  to be used as security to ensure the obligations
+of a qualified depository under this chapter.
+(6) “Collateral agreement” means an agreement entered  into between a qualified depository and
+the State  Treasurer under which the qualified depository agrees to provide collateral to secure its
+deposits of public funds and  to comply with the provisions of this chapter and such other provisions
+as the State Treasurer determines are required to adequately protect public funds from loss.
+(7) “Credit union” means a  credit union as defined in ORS 723.006 or a federal credit union if
+the shares and deposits of the credit union or federal credit union are  insured by the National
+Credit Union Administration.
+(8) “Custodian” means a financial institution that meets the requirements of ORS 295.007.
+(9) “Custodian’s receipt”  or “receipt” means a document issued by a custodian that describes the
+securities that a qualified depository deposited with the custodian to secure public fund deposits.
+(10) “Depository” means a bank or a credit union that is headquartered  or has a branch office
+located in Oregon.
+(11) “Financial institution outside this state” means a  financial institution, as defined in ORS
+706.008, that is not  an extranational institution, as defined in ORS 706.008, and is not a depository,
+as defined in this section.
+(12) “Insured institution” means an insured institution as defined in ORS 706.008.
+(13) “Loss” means the issuance of an order by a regulatory or supervisory authority or a  court
+of competent jurisdiction that:
+(a) Restrains a qualified depository from making payments of deposit liabilities; or
+(b) Appoints a receiver for a qualified depository.
+(14) “Maximum liability” means a sum equal to 10 percent of the greater of:
+(a) All uninsured  public funds deposits held by a qualified depository, as shown on the date of
+the depository’s most recent treasurer report; or
+(b) The average of the balances of uninsured public  funds deposits on the last two immediately
+preceding treasurer reports.
+(15) “Minimum collateral requirement” for a qualified  depository on any given date means a sum
+equal to:
+(a) For a well capitalized qualified depository  that the State Treasurer has not required to in-
+crease the qualified depository’s collateral pursuant to ORS 295.018, 10 percent of the greatest of:
+(A) All uninsured public funds  held by the qualified depository, as shown on the most recent
+treasurer report;
+(B) The average of the balances of uninsured public funds held  by the qualified depository, as
+shown on the last two immediately preceding treasurer reports; or
+(C) An amount otherwise prescribed in ORS 295.001 to 295.108.
+(b) For a well capitalized qualified depository that the State Treasurer required to increase  the
+depository’s collateral pursuant to ORS 295.018, the  percentage the State Treasurer required pur-
+suant to ORS 295.018 multiplied by the greatest of:
+(A) All uninsured public funds held by the qualified depository, as shown  on the most recent
+treasurer report;
+[2]
+HB 2971
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) The average of the balances  of uninsured public funds held by the qualified depository, as
+shown on the last two immediately preceding treasurer reports; or
+(C) An amount otherwise prescribed in ORS 295.001 to 295.108.
+(c) For an adequately capitalized  qualified depository or an undercapitalized qualified deposi-
+tory, 110 percent of the greater of:
+(A) All uninsured public funds held by the qualified depository; or
+(B) The average of the balances  of uninsured public funds held by the qualified depository, as
+shown on the last two immediately preceding treasurer reports.
+(16) “Net worth” means a qualified depository’s total [ risk-based] capital,  [ as shown on the im-
+mediately preceding report of condition  and income, and may include capital notes and debentures that
+are subordinate to the interests of depositors ] as defined in ORS 708A.290 .
+(17) “Pledge agreement” means a written agreement among  a qualified depository, the State
+Treasurer and a  custodian that pledges the securities the depository deposits with the custodian to
+secure deposits of uninsured  public funds that the depository holds. The board of directors or loan
+committee of the depository must approve the agreement  and must continuously maintain the
+agreement as a written record of the depository.
+(18) “Public body” has the meaning given that term in ORS 174.109.
+(19) “Public funds”  or “funds” means funds that a public official has custody of or has control
+of by virtue of the exclusive  legal right of a public body conferred through contract or by law to
+direct the collection, use or transfer of moneys payable to, belonging  to or collected for the public
+body, while held  by a third party such that the failure of the financial institution in which such
+moneys are deposited would constitute a loss of the public body’s money.
+(20) “Public official” means an officer or employee of a public body.
+(21) “Qualified depository” means a depository that meets the requirements of ORS 295.008.
+(22) “Report of  condition and income” means the quarterly report a qualified depository submits
+to the depository’s primary federal regulatory authority.
+(23) “Security” or “securities” means:
+(a) Obligations of the United States, including those of  agencies and instrumentalities of the
+United States, and of government sponsored enterprises;
+(b) Obligations of the International Bank for Reconstruction and Development;
+(c) Bonds of a state of the United States that:
+(A) Are rated in one of the four  highest grades by a recognized investment service organization
+that has engaged regularly and continuously for a period of not  less than 10 years in rating state
+and municipal bonds; or
+(B) Having once been rated in accordance with subparagraph (A) of this paragraph,  are ruled
+to be eligible securities for the purposes of ORS 295.001 to  295.108, notwithstanding the loss of the
+rating;
+(d) Bonds of a county, city, school district, port district or other public body in the United States
+that are payable from or secured by  ad valorem taxes and that meet the rating requirement or are
+ruled to be eligible securities as provided in paragraph (c) of this subsection;
+(e) Bonds of  a county, city, school district, port district or other public body that are issued
+pursuant to the Constitution or statutes of the State of Oregon or the charter or ordinances of  a
+county or city within the State of Oregon, if the bonds meet the rating requirement or are  ruled to
+be eligible securities as provided in paragraph (c) of this subsection;
+(f) With the  permission of the State Treasurer and in accordance with rules the State Treasurer
+[3]
+HB 2971
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+adopts, loans made to a county, city, school district, port  district or other public body in the State
+of Oregon, if the borrower has not defaulted  with respect to the payment of principal or interest on
+any of the borrower’s loans within  the preceding 10 years or during the period of the borrower’s
+existence if the borrower has existed for less than 10 years;
+(g) With the permission of the State Treasurer and in accordance  with rules the State Treasurer
+adopts, bond anticipation notes that an authority issues, sells or assumes under ORS 441.560;
+(h) Bonds, notes, letters  of credit issued not as assurance of payment or performance but as an
+investment or other securities or  evidence of indebtedness constituting the direct and general obli-
+gation of a federal home loan bank or Federal Reserve bank;
+(i) Debt obligations of domestic corporations  that are rated in one of the three highest grades
+by a recognized investment service  organization that has engaged regularly and continuously for a
+period of not less than 10 years in rating corporate debt obligations; and
+(j) Collateralized  mortgage obligations and real estate mortgage investment conduits that are
+rated in one of the two highest grades by a recognized investment service  organization that has
+engaged regularly and continuously for a period of not less than 10 years in rating  corporate debt
+obligations.
+(24) “State agency” means any officer, board, commission, department, division  or institution of
+state government as that term is defined in ORS 174.111.
+(25) “Treasurer report” means a written report that an officer  of a qualified depository that
+holds uninsured  public funds deposits has signed or authenticated and that sets forth as of the close
+of business on a specified date:
+(a) The total amount of uninsured public funds on deposit with the qualified depository;
+(b) The total amount of public funds on deposit with the qualified depository;
+(c) The net worth of the qualified depository;
+(d) The amount and nature of collateral provided; and
+(e) The identity of the qualified depository’s custodian, if applicable.
+(26) “Treasurer report due date” means a date not less than 10 business days  after the date a
+qualified depository’s report of condition and income is due to be submitted.
+(27) “Trust company” means a trust company as defined in ORS 706.008.
+(28) “Undercapitalized” means a qualified depository that is classified as  undercapitalized, sig-
+nificantly undercapitalized or  critically undercapitalized by the qualified depository’s primary fed-
+eral regulatory authority.
+(29)(a) “Uninsured public funds” or “uninsured public funds deposits”  means public funds de-
+posited in a depository that exceed the amounts insured or guaranteed as described in  ORS 295.002
+(1)(b).
+(b) “Uninsured public funds” or “uninsured public funds deposits” does not include  public funds
+deposited in a certificate of deposit, time deposit or insured deposit account under ORS 295.004.
+(30) “Value” means the current market value of securities.
+(31) “Well capitalized” means a qualified depository that is classified  as well capitalized by the
+qualified depository’s primary federal regulatory authority.
+[4]

@@ -1,0 +1,981 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1019
+Sponsored by Senator NASH
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act increases the maximum for fees related to brands on livestock. The  Act says
+that certain brand  program requirements do not apply to dairy cows. The Act repeals the brand
+program later. (Flesch Readability Score: 64.9).
+Increases the maximum fee for activating a brand.
+Increases the maximum brand inspection fee on cattle for which a  brand inspection certificate
+is valid for eight days.
+Exempts dairy cattle from certain brand program requirements.
+Repeals the brand program on January  2, 2028. Authorizes counties to establish brand programs.
+A BILL FOR AN ACT
+Relating to brands; creating new provisions; amending ORS 114.535, 561.144,  577.512, 603.095,
+604.027, 604.046, 604.051, 604.066, 604.620, 604.630, 604.670,  604.992 and 619.031; and repealing
+ORS 577.532, 599.273, 603.075, 604.005, 604.015, 604.021, 604.027, 604.035, 604.036, 604.041, 604.046,
+604.051, 604.056, 604.061, 604.066, 604.071, 604.076, 604.610, 604.640 and 604.650.
+Be It Enacted by the People of the State of Oregon:
+BRAND PROGRAM FEES
+SECTION 1.
+ ORS 604.027 is amended to read:
+604.027. (1) A person desiring to record a brand on any species of  livestock shall submit a
+written and signed application therefor to the State  Department of Agriculture, setting forth a fac-
+simile and description of the brand, the species of livestock upon which it  will be used and the
+specific intended location on the animal. The application must be accompanied by a brand  recording
+fee of $25 for each brand on each species of livestock  on which the brand is to be used. The person
+must also pay an activation fee matching the cycle set for the approved brand under  subsection (4)
+of this section prior to  recordation of the brand. The activation fee may not exceed [ $100] $150.
+Upon receipt of an application and the  required fees, if the department determines that the brand
+applied for is available, the department shall issue a certificate of recordation  of the distinctive
+brand, the approved location on the animal and the species of livestock to which it applies.
+(2) During September of each year the department shall attempt to notify all holders of an  ex-
+piring recorded brand of the need to renew the brand. The department shall attempt  the notification
+by sending a renewal notice to the holder’s last address as shown on  the department’s records. The
+holder of a recorded brand may renew the brand by  submitting to the department a brand renewal
+fee for each brand on each species of livestock on which the brand is to  be used. The brand renewal
+fee may not exceed $100. However, if the species of livestock is sheep, the fee may not exceed $50.
+(3) A recorded brand expires  if the department does not receive the brand renewal fee by Jan-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1697
+SB 1019
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+uary 4 next following the attempt to notify the brand holder  of the need to renew the brand. Within
+60 days after a brand expires, the department shall give written notice  of the expiration by mail
+addressed to the person who held the expired brand  at the last address shown on the department’s
+records. The fee to activate an expired brand is equal to the brand recording fee plus a  renewal fee.
+If the  person fails to activate the expired brand within one year after expiration of the brand, the
+brand is considered abandoned and any person may apply for recordation and use of that brand.
+(4) When issuing or renewing a  brand recordation, the department shall adjust certificate expi-
+ration dates as necessary to ensure that an approximately equal number  of brand recordation expire
+in each year of a four-year cycle. The department shall prorate a brand renewal fee to  reflect an
+adjustment of a certificate expiration date.
+(5) The department shall establish the amount of brand activation fees and brand renewal  fees
+by rule.
+SECTION 2.
+ ORS 604.066 is amended to read:
+604.066. (1) Except as provided in subsection  (2) of this section, the State Department of Agri-
+culture shall charge and collect a brand inspection fee in accordance with the following:
+(a) $30 for a lifetime brand inspection for Equidae;
+(b) $10 per head for a brand inspection for Equidae, if the brand inspection  certificate utilized
+is valid for more than eight days but less than a lifetime; or
+(c) $10 per head for a brand inspection on livestock other than  Equidae, if the brand inspection
+certificate utilized is valid for more than eight days.
+(2) In accordance with  the provisions of ORS chapter 183, the department shall establish a brand
+inspection fee on cattle and cattle  hides for which a brand inspection certificate is valid for eight
+days. The fee shall be not less than $1 and not more than [ $1.35] $1.75 per head  of cattle and not
+more than $2 per hide.
+(3) Except as provided in this subsection or subsection (4)  of this section, the person requesting
+or requiring brand inspection  to be performed shall pay the State Department of Agriculture a brand
+inspection fee and  the assessments authorized under ORS 577.512. Livestock auction markets,
+slaughterhouses and custom slaughtering establishments at which brand  inspection is performed
+shall collect the fees and  assessments and forward them to the department. The person requesting
+or requiring brand inspection for cattle delivered  to a livestock auction market is not required to
+pay a brand inspection fee on cattle whose value is $10 or less. The person requesting or requiring
+brand inspection is not required to pay a brand  inspection fee on cattle not more than 90 days of
+age that are to be transported with their mothers to a range or pastureland outside of this state.
+(4) The person requesting or requiring brand inspection is not  required to pay a brand in-
+spection fee or pay  assessments when Oregon cattle are being transported from any place in this
+state to  any place outside of this state and then returned to this state, if the movement is continuous
+without unloading  enroute, is done in the usual course of ranch operations and is not related to a
+change of ownership.
+(5) Except as provided in ORS 577.512, the department shall deposit all fees paid  to it under this
+chapter in the State Treasury to the credit of  the Department of Agriculture Service Fund, and such
+fees are  continuously appropriated to the department for administering and enforcing this chapter.
+The provisions of ORS 561.144 apply to such fees.
+DAIRY CATTLE EXEMPTION
+[2]
+SB 1019
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 3.
+ ORS 604.046 is amended to read:
+604.046. (1) Brand inspection and the issuance of  a brand inspection certificate is required in
+this state for:
+(a) Cattle to be transported from any place in this state to or through any  place outside of this
+state;
+(b) Cattle to be transported from  any place in this state to a range or pastureland outside of this
+state and destined to be ultimately returned to this state;
+(c) Except as provided in subsection [ (5)(b)] (6)(b) of this  section, cattle destined for sale or
+slaughter at any livestock auction market or other sales facility or slaughterhouse in this state,  and
+prior to such sale or slaughter; and
+(d) Except as provided in subsection [ (5)(a)] (6)(a)  of this section, cattle transported from  any
+place  outside  of this state to any livestock auction market or other sales facility or slaughterhouse
+in this state for sale within this state.
+(2) Brand inspection may be performed, upon request of the owner  or person in possession of
+livestock, at either a regular brand inspection location or a  place designated by the person re-
+questing the brand inspection. The State Department of Agriculture may require  payment of its time
+and travel costs as a condition to performing the brand  inspection. The department may also assess
+and collect a service fee, not to exceed $35.
+(3) In addition to brand inspections under subsections  (1) and (2) of this section, the department
+may establish and carry out a  system of brand inspection at the times and places as an intrastate,
+regional movement of cattle takes place, or as a change of ownership takes place. In  establishing
+any system authorized by this subsection, the department shall  consider the customs, practices and
+theft or ownership problems of the cattle industry, the economic feasibility  of carrying out a system,
+the volume of cattle  movement within the state or within specific areas of the state, the laws and
+regulations of the United States and the desirability  for a system as evidenced by a majority of
+persons who would be affected by the system. Such a system, established  in accordance with the
+provisions of ORS chapter 183, may include:
+(a) That the brand inspection may be in addition to or in lieu of other brand inspections required
+or allowed by this  chapter and the circumstances or conditions under which the alternatives shall
+be allowed;
+(b) The times and places  the brand inspection shall take place in relation to the time of move-
+ment or location change, or the change of ownership;
+(c) The establishment of a brand inspection fee and the person responsible for payment thereof;
+(d) The establishment of geographic, regional or political areas within the state in which brand
+inspection is required; and
+(e) The circumstances or conditions under which an exemption  from or modification of the
+system’s requirements may be allowed, considering their feasibility in  relation to movement or sale
+of minimum numbers of cattle.
+(4) Notwithstanding subsections (1) to (3) of this  section, dairy cattle, as defined in ORS
+599.205, are not subject to the  provisions of subsections (1) to (3) of this section or rules
+adopted thereunder.
+[(4)] (5)  In addition to brand  inspections under subsections (1) to (3) of this section, the depart-
+ment may inspect any hides  or livestock at any time, and at any public or private place, building
+or livestock carrier, if there is a need to identify diseased or suspected diseased livestock, or  if the
+department reasonably suspects that any provisions of this chapter,  the administrative rules adopted
+[3]
+SB 1019
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+under this  chapter or any criminal laws relating to the possession of livestock, are being violated.
+This authority is in addition to  any authority granted police officers, the department’s brand in-
+spectors, livestock police officers and investigative officers  under ORS 133.525 to 133.703 relating
+to search and seizures. The department may undertake any of the actions described in ORS  604.056
+(1) if:
+(a) An inspection results in a finding that a brand inspection certificate accompanying the hides
+or livestock is false, erroneous or incomplete in any material respect;
+(b) There is a question whether the person  in possession of the hides or livestock is the owner
+or a lawful possessor; or
+(c) The person in possession of the livestock fails to submit evidence requested under ORS
+604.051 (1).
+[(5)] (6)  In lieu of the brand inspection and the issuance of a brand  inspection certificate re-
+quired by subsection (1) of this section:
+(a) Cattle that are transported to any slaughterhouse in this state  from any place outside this
+state, if entering this state may be accompanied by a  brand inspection certificate or similar docu-
+ment issued by the other state, provided that such other state has brand inspection comparable  to
+the inspection of this state; or
+(b) Cattle, in lots not to exceed 15 head, presented by one  person for slaughter at a
+slaughterhouse may be accompanied by a special slaughterhouse certificate issued by  the depart-
+ment for which a fee, equal to the brand inspection fee established by the  department under ORS
+604.066 (2), has been paid.
+[(6)] (7)  Brand  inspection at slaughtering establishments or other facilities where cattle are
+slaughtered or cattle hides are received, may be  required of cattle hides under a system established
+by the department in accordance with the provisions of ORS chapter 183.  In establishing any system
+authorized by this subsection, the department shall consider  theft or ownership problems associated
+with slaughtered cattle, the economic feasibility of  carrying out the system, the attitudes of the af-
+fected  members  of the cattle industry of this state, the volume of slaughtered cattle within the state
+or within specific areas of the state, and the laws and regulations  of the United States. Any system
+established under this subsection may include:
+(a) The designation of geographic, regional or political areas within  the state in which cattle
+hide inspection is required;
+(b) The use of tags,  stamps or other devices evidencing ownership of the cattle slaughtered; and
+(c) The methods, locations and times for cattle hide inspection.
+[(7)] (8) By written agreement with the appropriate agencies in the States of  California, Nevada,
+Idaho or Washington, the department may recognize brand inspections performed in  any of such
+other states in lieu of the brand inspections required by this  chapter. Any such agreement shall
+provide that recognition of brand inspections of any such  other state shall be effective only while
+brand inspections performed pursuant to this chapter are recognized in such other state.
+SECTION 3a.
+ ORS 604.051 is amended to read:
+604.051. (1) Whenever livestock or hides are subject to  brand inspection under ORS 604.046, the
+person in possession  shall submit evidence of ownership or right to possession of the livestock or
+hides at the request of the State Department of Agriculture. The evidence may consist of  any doc-
+uments and statements that tend to establish such ownership or right to possession. The prima  facie
+character of a recorded brand and the disputable presumption against unrecorded brands  set forth
+in ORS 604.035 (2), shall be given recognition by the department.
+[4]
+SB 1019
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) The department shall examine  livestock or hides, review any evidence submitted pursuant to
+subsection (1) of this section and otherwise perform brand inspection to determine whether the
+person in possession is the owner or lawful possessor  thereof. Except for brand inspections made
+under ORS  604.046 [ (4)] (5) , if the department determines the person is the owner or lawful
+possessor, it shall issue an appropriate brand inspection certificate. However,  if the department de-
+termines there is a question of ownership or right to possession of  the livestock or hides, or if the
+person in possession of the livestock or hides fails to submit the evidence  requested under sub-
+section (1) of this  section, the department shall refuse to issue its brand inspection certificate and
+may undertake any of the actions described in ORS 604.056.
+ DELAYED REPEAL OF BRAND PROGRAM
+SECTION 4.
+ORS 577.532, 599.273, 603.075, 604.005, 604.015, 604.021, 604.027, 604.035, 604.036,
+604.041, 604.046, 604.051, 604.056,  604.061, 604.066, 604.071, 604.076, 604.610, 604.640 and 604.650
+are repealed.
+SECTION 5. (1) As used in this section:
+(a) “Brand” means a distinctive design, mark or other means  of identification applied to
+a designated location of the hide, wool or skin of livestock.
+(b) “Brand inspection” means the:
+(A) Examination of  the brands, tags, breed, flesh marks including dewlaps and wattles,
+earmarks, coloring, sex, age or other distinguishing characteristics of livestock;
+(B) Examination of documents and other evidence  of ownership or right to possession
+of livestock; and
+(C) Issuance or refusal to issue a brand inspection certificate.
+(2) A county may establish a brand program under which brand inspections occur.
+SECTION 6.
+ ORS 604.620 is amended to read:
+604.620. [(1) No person shall be entitled to utilize the  brand inspection and inventory procedures
+prescribed in ORS 604.630 to 604.650 and 604.670 without  first obtaining and maintaining a license
+as a licensed feedlot. ]
+(1) As used  in this section and ORS 604.630, “large feedlot” means a beef cattle feedlot
+that has more than 500 head of cattle being fed  for slaughter at one time during a calendar
+year.
+(2) A large feedlot may operate only with a license under this section.
+[(2)] (3)  An application for a license or renewal  thereof shall be made to the State Department
+of Agriculture on forms prescribed by  the department, and shall be accompanied by the annual li-
+cense fee, not to exceed $100. The license is personal and  nontransferable. A new license is required
+at any time there is a change in ownership, legal entity or establishment  location. All such licenses
+shall expire on January 1 next succeeding the date of issuance or on such date  as may be specified
+by department rule.
+[(3)] (4)  In accordance with the provisions of ORS chapter 183, the department may suspend,
+revoke or refuse to issue or renew a  license to any applicant or licensee whose establishment con-
+struction or methods of operation do not comply with the requirements established by the  depart-
+ment.
+SECTION 7.  ORS 604.630 is amended to read:
+604.630. (1) At the time a license is issued  to  a large feedlot under ORS 604.620 , the State
+[5]
+SB 1019
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Department of Agriculture  and the licensee shall jointly make and record a physical inventory of
+all cattle in the large feedlot of the licensee.
+(2) Thereafter, such inventory record shall be  maintained by the licensee and shall be subject
+to review or audit by the department at any  time during the normal business hours of the licensee
+at least once a month for the purpose of reconciling the same with the records of the department.
+SECTION 8.
+ ORS 604.670 is amended to read:
+604.670. The State Department of Agriculture, under the provisions of ORS  chapter 183 may
+promulgate such rules as are necessary to administer and enforce the provisions of ORS  [604.610 to
+604.670] 604.620 and 604.630, including but not limited to:
+(1) The time and manner of maintaining inventory records; and
+(2) Controls and minimum standards of construction and methods of operation by licensees.
+SECTION 9.
+ ORS 604.992 is amended to read:
+604.992. [(1)] Violation of any of the provisions of this chapter, or  the administrative rules or
+orders promulgated thereunder, is a Class B misdemeanor.
+[(2) Notwithstanding ORS  14.030 to 14.080, an action for violation of brand inspection requirements
+may be  commenced and tried in either the county where the cattle movement originated or the county
+where the cattle movement terminated. ]
+SECTION 10. Section 5 of this 2025 Act, the amendments to ORS 604.620,  604.630, 604.670
+and 604.992 by sections 6 to 9 of this 2025 Act and the repeal of  ORS 577.532, 599.273, 603.075,
+604.005, 604.015, 604.021, 604.027, 604.035,  604.036, 604.041, 604.046, 604.051, 604.056, 604.061,
+604.066, 604.071, 604.076, 604.610, 604.640 and 604.650 by section 4 of this 2025 Act become op-
+erative on January 2, 2028.
+CONFORMING AMENDMENTS FOR DELAYED REPEAL
+SECTION 11.  ORS 114.535 is amended to read:
+114.535. (1) The affiant may deliver a certified copy of a simple estate affidavit to any  person
+who has possession of personal property belonging to the estate or who was indebted  to the
+decedent.  Except  as provided in this section, upon receipt of the certified copy, the person shall pay
+the debt or transfer, deliver, provide access to and allow possession of the  personal property to the
+affiant.
+(2) Subject to ORS 114.537, if a certified copy  of a simple estate affidavit is delivered under
+subsection (1) of this section to a person that controls access to personal property  belonging to the
+estate of the decedent, including personal property held in a  safe deposit box for which the decedent
+was the sole lessee or the last surviving lessee, the person shall:
+(a) Provide the affiant with access to the decedent’s personal property; and
+(b) Allow the affiant to take possession of the personal property.
+(3) Subject to ORS 114.537, if a certified copy  of a simple estate affidavit is delivered under
+subsection (1) of this section to a person who owes a debt to  the decedent or has received property
+of the decedent under ORS 446.616, 708A.430, 723.466 or 803.094, or a similar statute providing for
+the transfer of property of an estate that is not being probated, the person  shall pay the debt or
+transfer, deliver, provide access to or allow possession  of the property to the affiant if the person
+would be required to pay the debt or transfer, deliver, provide access to  or allow possession of the
+property to a personal representative of the estate.
+(4) Any person that pays a debt owing to the decedent or  transfers, delivers, provides access to
+[6]
+SB 1019
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+or allows possession of property of a decedent in the manner provided by this  section is discharged
+and released from any liability or responsibility for the debt or property in the same manner and
+with the same effect as if the debt had been paid or the property had been transferred or  delivered
+to a personal representative of the estate of the decedent.
+(5) The affiant may deliver a certified copy of a simple  estate affidavit to a transfer agent of any
+corporate security registered in the name of the decedent. The transfer agent shall change the  reg-
+istered ownership on the books of the corporation to the affiant or  the person named in the affidavit
+entitled to it, as directed by the affiant.
+(6) If the decedent  was a holder of a recorded brand, the affiant may deliver a certified copy
+of a simple  estate affidavit to the State Department of Agriculture. [ Subject to the requirements under
+ORS 604.041,] The department shall change the registered ownership  of the recorded brand to the
+affiant or the person named in the affidavit entitled to it, as directed by the affiant.
+(7)(a) If a  person to whom a certified copy of a simple estate affidavit is delivered under this
+section refuses to pay a debt or deliver, transfer, provide access  to or allow possession of personal
+property as required by this section, the affiant may serve a  written demand by certified mail on the
+person to pay the debt or deliver, transfer, provide  access to or allow possession of the personal
+property. The demand must state that, if the person  fails to pay the debt or deliver, transfer, provide
+access to or allow possession of the personal property, the  affiant may file a motion to compel
+payment of the debt or delivery of, transfer of or access to the personal property.
+(b) If the person fails to pay the debt or deliver, transfer, provide access to  or allow possession
+of the  personal property within 30 days after service of a demand under paragraph (a) of this sub-
+section, the affiant may file a  motion to compel payment of the debt or delivery of, transfer of or
+access to the personal  property. The court may enter a judgment awarding reasonable attorney fees
+to the prevailing party  if the court finds that the affiant filed the motion without an objectively
+reasonable basis or the person refused to pay the debt or  deliver, transfer, provide access to or al-
+low possession of any personal property without an objectively reasonable basis.
+(8) If a simple estate affidavit was signed by  the Director of Human Services, the Director of the
+Oregon Health Authority or  an attorney approved under ORS 114.517, the Director of Human Ser-
+vices, the Director of the Oregon Health Authority or the attorney  may certify a copy of the affi-
+davit for the purposes described in this section.
+(9) Notwithstanding ORS chapters 270,  273 and 274, an estate administrator of the State Treas-
+urer appointed under ORS 113.235 or the Director of Human Services or Director of  the Oregon
+Health Authority serving as an affiant may  deal with property of the estate as an affiant under this
+section.
+SECTION 12.
+ ORS 561.144 is amended to read:
+561.144. (1) The State Treasurer shall establish a Department of Agriculture Service Fund, which
+shall be a trust fund separate and distinct from the General Fund.  The State Department of Agri-
+culture shall deposit all license and service fees paid to  it under the provisions of the statutes
+identified in subsection (3) of this  section in the Department of Agriculture Service Fund. The State
+Treasurer is the custodian of this trust fund, which shall be  deposited by the treasurer in such de-
+positories as are authorized to receive deposits of the General Fund, and which  may be invested by
+the treasurer in the same manner as authorized by ORS 293.701 to 293.857.
+(2) Interest received on deposits credited to the Department  of Agriculture Service Fund shall
+accrue to and become a part of the Department of Agriculture Service Fund.
+(3) The license and service fees subject to this section  are those described in ORS 561.400,
+[7]
+SB 1019
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+561.740, 570.710, 571.057, 571.063, 571.145, 586.270, 596.030, 596.100, 596.311, 599.235, 599.269, 599.406,
+599.610, 601.040, 602.090,  603.025, [ 603.075,] 616.706, 618.115, 618.136, 619.031, 621.072, 621.166,
+621.266, 621.297, 621.335, 621.730, 622.080, 625.180, 628.240, 632.211, 632.600, 632.720, 632.730, 632.741,
+632.940, 632.945, 633.015, 633.029, 633.318, 633.362, 633.462, 633.465, 633.680, 633.700, 633.720, 634.016,
+634.116, 634.122, 634.126, 634.132, 634.136, 634.212 and 635.030.
+SECTION 13.
+ ORS 577.512 is amended to read:
+577.512. (1) If the United States Secretary of Agriculture orders  an assessment pursuant to the
+Beef Promotion and Research Act of 1985, 7 U.S.C.  2901 to 2918, that applies to sales of cattle in
+this state, the Oregon Beef  Council may act pursuant to any authority granted under that order to
+provide for collection of the assessment. The council may order the collection of an  assessment un-
+der this subsection only on cattle sold for payment that are subject to  the federal assessment order
+and for which the assessment has not otherwise been paid. [ The council may collect the federal as-
+sessment on cattle that are exempt from the brand inspection fee under ORS 604.066 (3). ]
+(2) [In addition to any assessment collected under  subsection (1) of this section or any fee for brand
+inspection services, the council, by rule, shall levy an assessment of  not less than 50 cents per head and
+not more than $1 per head,  on the same cattle, cattle hides and calves for which the council makes
+brand inspections and collects brand inspection fees. ] Moneys from [ the assessments ] an assessment
+are continuously appropriated to the  council for expenditure as provided in ORS 577.295 [ and
+577.532].
+(3) The  operator of a stockyard, slaughterhouse, packing plant or livestock auction market shall
+deduct any assessment ordered collected by the council pursuant to  subsection (1) [ or (2) ] of this
+section from the proceeds of sale owed  to the operator by the owner of an animal. The operator
+shall pay the assessment to the State Department of Agriculture. When the operator provides a
+written statement of sale proceeds to the owner of an animal, the  operator shall include a statement
+of the amount deducted from the proceeds for [ state and ] federal assessments [ and for brand  in-
+spection services ].
+(4) The department shall act  as agent for the council to collect any assessment ordered collected
+by the council pursuant to subsection (1) of this section.  [ or (2) of  this section and any brand in-
+spection fees on cattle or cattle hides adopted by department rule pursuant  to ORS 604.066. The de-
+partment shall collect any  assessment that the council orders collected under subsection (1) or (2) of this
+section in the same time,  manner and place that the department collects brand inspection fees on cattle,
+cattle hides and calves. ] This subsection does not apply to:
+(a) Cattle and calves leaving this state solely for the purpose of pasturing in another state;
+(b) Cattle presented at a recognized livestock show or rodeo;
+(c) Cattle presented at a livestock auction market but not sold;
+(d) Cattle delivered outside this state, provided ownership of the cattle remains unchanged;
+(e) Cattle slaughtered for personal consumption; and
+(f) Cattle resold within 10 days after purchase.
+(5) The department shall transfer or  pay to the council, not less frequently than once every two
+months, the amounts collected by the department on behalf of the council, reduced by:
+(a) The collection and administrative costs to the department in carrying  out the requirements
+of this section, as determined by the department; and
+(b) Refunds by the department of amounts improperly collected under this section.
+(6) A person who believes that an assessment  collected from the person under this section is
+incorrect may apply to the department for a  refund not later than 60 days after the department
+[8]
+SB 1019
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+collects the assessment.
+(7) To the extent consistent with this section,  the council shall assess, levy and collect an as-
+sessment under this section using the same process used by a commodity commission under  ORS
+576.325 for the assessment, levying and collection of an assessment on an agricultural commodity.
+SECTION 14.
+ ORS 603.095 is amended to read:
+603.095. [Except as provided in ORS 603.075, ] All moneys received by  the State Department of
+Agriculture pursuant to ORS 599.269 and this chapter  shall be paid into the Department of Agri-
+culture Service Fund. Such moneys are continuously appropriated to the department for the  purpose
+of administering ORS 599.269, ORS chapters 604, 616 and 619 and this  chapter and for the purpose
+of administering such provisions of ORS chapters 162, 164 and 607 as apply to theft of livestock.
+SECTION 15.  ORS 619.031 is amended to read:
+619.031. (1) A  person may not operate an animal food slaughtering establishment or processing
+establishment without first obtaining a  license for the establishment from the State Department of
+Agriculture.
+(2) The department may adopt rules establishing license fee schedules for  establishments li-
+censed  under  this section. The department may determine the license fee for an establishment based
+upon the annual gross dollar volume of sales and services  by the applicant. In establishing the
+amount of the license fee for an applicant, the department shall use the annual  gross dollar volume
+of sales and services by that applicant within Oregon during the prior calendar year or, if  the ap-
+plicant maintains sales and  service records on a fiscal basis, the prior fiscal year. If the applicant
+applying for an  original license or for a renewal license cannot provide the annual gross dollar
+volume of sales and services for a full calendar year, the department shall base the fee  on estimated
+annual gross sales and services by the applicant. If an  applicant whose previous year’s fee was de-
+termined using an estimated gross sales and services  figure applies for renewal of that license, the
+fee for the previous license year shall be adjusted to reflect the actual gross dollar volume of  sales
+and services by the applicant. The license  shall expire on June 30 next following the date of issu-
+ance or on such date as may be specified by department rule.
+(3) Except as provided in this subsection, the department may not adopt a rule to establish  a
+license fee that is more than three percent higher than the license fee charged during the  preceding
+year for an establishment of the same type and having  the same volume of gross sales and services.
+When adopting a rule establishing a license fee,  notwithstanding the three percent limit, the de-
+partment may round the fee amount to the next higher whole dollar  amount. Fee schedules adopted
+under this section may not change the amount of the same license fee more frequently than once
+each year.
+(4) The provisions of ORS  603.025 (2) and (5), 603.034 (1) and (2)[ ,] and 603.045 (7) [ and 603.075]
+shall apply to animal food slaughtering establishments or processing establishments. Except as
+provided in this subsection, the remainder of the provisions of  ORS chapter 603 do not apply to such
+establishments.
+(5) Notwithstanding subsection (1) of this section, a person licensed by the  department under
+ORS chapter 603 to slaughter meat animals and subject to federal  meat inspection, or a person li-
+censed by the department under ORS chapter 603 to slaughter only poultry and rabbits and  subject
+to federal poultry inspection, or a person licensed by  the department under ORS chapter 603 as a
+nonslaughtering processor may, without being required to obtain an additional license, also sell or
+dispose of  meat products as animal food provided that such licensees also comply with the provisions
+of subsection (6) of this section, ORS 619.010 to 619.026 and 619.036 to 619.066.
+[9]
+SB 1019
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(6) In accordance with  the provisions of ORS chapter 183, the department may promulgate rules
+necessary to carry out  and enforce any procedures or measures to protect the health of the animals
+that are fed or  intended to be fed the meat products sold or disposed of by animal food slaughtering
+establishments or processing establishments, and to protect the health of other  animals in this state.
+In addition to the provisions of  ORS 619.046, for the purposes of this section the department shall
+take into consideration:
+(a) The provisions of ORS chapter 596.
+(b) The procedures necessary to ensure that meat products that  are only fit for or destined for
+animal consumption are not sold for human consumption.
+(7) A person licensed as provided by this section:
+(a) May not sell, hold or offer for sale any carcass of a meat animal or part thereof that is unfit
+for or unwholesome as animal food.
+(b) May not sell, hold  or offer for sale a carcass of a meat animal or part thereof for human
+consumption.
+(c) Shall keep complete  and accurate records of the meat animals purchased for slaughter, in-
+cluding but not limited to their description, brands if any, date  of purchase and the name and ad-
+dress of the person from whom the animals were purchased.
+(d) Shall keep complete and accurate records of the sale of all meat animal carcasses or parts
+of meat animal carcasses, including the name and address of the purchaser.
+(e) Shall comply with the provisions of ORS 619.026.
+SECTION 16.
+ ORS 619.031, as amended by section 38, chapter 64, Oregon  Laws 2012, and sec-
+tion 3, chapter 386, Oregon Laws 2019, is amended to read:
+619.031. (1) A  person may not operate an animal food slaughtering establishment or processing
+establishment without first obtaining a  license for the establishment from the State Department of
+Agriculture.
+(2) The department may adopt rules establishing license fee schedules for  establishments li-
+censed  under  this section. The department may determine the license fee for an establishment based
+upon the annual gross dollar volume of sales and services  by the applicant. In establishing the
+amount of the license fee for an applicant, the department shall use the annual  gross dollar volume
+of sales and services by that applicant within Oregon during the prior calendar year or, if  the ap-
+plicant maintains sales and  service records on a fiscal basis, the prior fiscal year. If the applicant
+applying for an  original license or for a renewal license cannot provide the annual gross dollar
+volume of sales and services for a full calendar year, the department shall base the fee  on estimated
+annual gross sales and services by the applicant. If an  applicant whose previous year’s fee was de-
+termined using an estimated gross sales and services  figure applies for renewal of that license, the
+fee for the previous license year shall be adjusted to reflect the actual gross dollar volume of  sales
+and services by the applicant. The license  shall expire on June 30 next following the date of issu-
+ance or on such date as may be specified by department rule.
+(3) The department  may not adopt or enforce a rule under this section establishing a license fee
+that is higher than the license fee charged for the license year that began July 1, 2025,  for an es-
+tablishment of the same type and having the same volume of gross sales and services. Fee schedules
+adopted under this  section may not change the amount of the same license fee more frequently than
+once each year.
+(4) The provisions of ORS  603.025 (2) and (5), 603.034 (1) and (2)[ ,] and 603.045 (7) [ and 603.075]
+shall apply to animal food slaughtering establishments or processing establishments. Except as
+[10]
+SB 1019
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+provided in this subsection, the remainder of the provisions of  ORS chapter 603 do not apply to such
+establishments.
+(5) Notwithstanding subsection (1) of this section, a person licensed by the  department under
+ORS chapter 603 to slaughter meat animals and subject to federal  meat inspection, or a person li-
+censed by the department under ORS chapter 603 to slaughter only poultry and rabbits and  subject
+to federal poultry inspection, or a person licensed by  the department under ORS chapter 603 as a
+nonslaughtering processor may, without being required to obtain an additional license, also sell or
+dispose of  meat products as animal food provided that such licensees also comply with the provisions
+of subsection (6) of this section, ORS 619.010 to 619.026 and 619.036 to 619.066.
+(6) In accordance with  the provisions of ORS chapter 183, the department may promulgate rules
+necessary to carry out  and enforce any procedures or measures to protect the health of the animals
+that are fed or  intended to be fed the meat products sold or disposed of by animal food slaughtering
+establishments or processing establishments, and to protect the health of other  animals in this state.
+In addition to the provisions of  ORS 619.046, for the purposes of this section the department shall
+take into consideration:
+(a) The provisions of ORS chapter 596.
+(b) The procedures necessary to ensure that meat  products that are only fit for or destined for
+animal consumption are not sold for human consumption.
+(7) A person licensed as provided by this section:
+(a) May not sell, hold or offer for sale any carcass of a meat animal or part thereof that is unfit
+for or unwholesome as animal food.
+(b) May not sell, hold or offer for sale a carcass of a meat animal or  part thereof for human
+consumption.
+(c) Shall keep complete and accurate records of the meat animals purchased  for slaughter, in-
+cluding but not limited to their description, brands  if any, date of purchase and the name and ad-
+dress of the person from whom the animals were purchased.
+(d) Shall keep complete and accurate records of the sale of all meat animal carcasses or parts
+of meat animal carcasses, including the name and address of the purchaser.
+(e) Shall comply with the provisions of ORS 619.026.
+SECTION 17.
+The amendments to ORS 114.535, 561.144, 577.512, 603.095 and 619.031 by
+sections 11 to 16 of this 2025 Act become operative on January 2, 2028.
+CAPTIONS
+SECTION 18. The unit captions used in this 2025 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2025 Act.
+[11]

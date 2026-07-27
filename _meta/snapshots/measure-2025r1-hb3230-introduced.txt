@@ -1,0 +1,101 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3230
+Sponsored by Representative NATHANSON, Senator WOODS, Representative MANNIX (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes the State Chief Information Officer contract with  a third party for a study of how
+the state uses information and technology and advise  on how to improve. Makes the officer submit
+a report. The Act takes effect on its passage. (Flesch Readability Score: 61.6).
+Requires the State Chief Information Officer to contract for an  independent assessment of the
+information technology environment within the executive  department, to include recommendations
+for improving performance, operations and resources.
+Directs the officer to  submit a report on the results of the assessment and recommendations to
+the Governor and the Joint  Legislative Committee on Information Management and Technology and
+any other appropriate legislative committee.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to information technology; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section, “executive department” has the meaning given
+that term in ORS 174.112, except that “executive department” does not include  the Secretary
+of State in performing the duties of the constitutional office  of Secretary of State or the
+State Treasurer in performing the duties of the constitutional office of State Treasurer.
+(2) The State Chief  Information Officer shall contract with a third party to conduct an
+independent assessment of the information technology  environment within the executive
+department.
+(3) The assessment shall:
+(a) Examine the current:
+(A) Information technology governance programs used  within the executive department;
+and
+(B) Organizational and operational  environments that are affecting performance, oper-
+ations and resources within the executive department;
+(b) Identify and describe alternative information  technology governance programs and
+organizational and operational models for consideration to be  used by or within the executive
+department;
+(c) Recommend  an information technology governance program and organizational and
+operational models that may be adopted and used by or within the executive department  to
+improve performance, operations and resources;
+(d) Conduct a gap analysis  to compare the current information technology environment
+with the recommended information technology environment; and
+(e) Provide a plan to implement the recommendations, including estimated costs and time
+frames.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1381
+HB 3230
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+(4) The assessment must be completed no later than 
+, 2026.
+(5) The State Chief Information Officer shall submit a  report in the manner provided by
+ORS 192.245, and may include recommendations for legislation, to the Governor and to the
+Joint Legislative Committee on Information Management  and Technology and any other ap-
+propriate legislative committee no  later than 
+, 2026. The report submitted under
+this subsection shall provide the results of the  assessment and include a budget request to
+carry out the plan to implement the recommendations.
+SECTION 2. Section 1 of this 2025 Act is repealed on January 2, 2027.
+SECTION 3. This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[2]

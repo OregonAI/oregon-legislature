@@ -1,0 +1,896 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3613
+Sponsored by Representative NELSON
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Creates the OPP and moves the OPDP to OPP. Makes some changes to OPDP and
+PMPDP. Takes effect 91 days after session ends. (Flesch Readability Score: 88.4).
+Creates the Office of Pharmaceutical Purchasing within the Oregon  Department of Administra-
+tive Services to support multiagency and multistate collaborative purchasing of  pharmaceuticals,
+drive down the cost of prescription drugs for  residents of this state and manage the Oregon Pre-
+scription Drug Program.
+Creates an advisory  board within the Office of Pharmaceutical Purchasing to assist in coordi-
+nating pharmaceutical purchasing across state agencies and programs.
+Transfers the Oregon Prescription Drug Program from the Oregon Health Authority to  the Of-
+fice of Pharmaceutical Purchasing and modifies the  program, including by requiring certain agencies
+and coordinated care organizations to participate.
+Clarifies that a uniform Practitioner-Managed Prescription Drug Plan and  preferred drug list
+should be used in both fee-for-service reimbursements and prescription  drugs provided by coordi-
+nated care organizations.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to  pharmaceutical purchasing; creating new provisions; amending ORS 410.080, 413.011,
+413.032, 414.312, 414.314, 414.318, 414.320, 414.334 and 414.359; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 to 4 of this 2025 Act are added to and  made a part of ORS chapter
+414.
+SECTION 2. (1) The Office of Pharmaceutical Purchasing is established  in the Oregon
+Department of Administrative Services to support multiagency  and multistate collaborative
+purchasing of pharmaceuticals and drive down the cost of  prescription drugs for residents
+of this state.
+(2) The purpose of the office is to:
+(a) Improve coordination in pharmaceutical purchasing to reduce costs for taxpayers  and
+consumers;
+(b) Leverage the state’s collective purchasing  power to promote cost savings, efficiency
+and transparency while maintaining excellent service of each purchasing entity;
+(c) Enhance the Oregon Prescription Drug Program and  integrate uniform standards
+across this state’s medical  assistance program that will further reduce administrative bur-
+den and optimize resource utilization;
+(d) Establish and administer a multistate prescription drug purchasing consortium; and
+(e) Administer all intergovernmental and interagency agreements necessary to achieve
+the office’s purposes described in this subsection.
+(3) The office shall:
+(a) Provide oversight for all state pharmaceutical  purchasing and state contracts related
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3972
+HB 3613
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+to pharmaceutical procurement and payments;
+(b) Administer the Oregon Prescription Drug Program;
+(c) Develop and enforce rules for statewide purchasing agreements, payments made  to
+pharmacies and procurement standards;
+(d) Monitor state pharmaceutical  purchasing by examining the data collected and main-
+tained by state agencies related to pharmaceutical purchases;
+(e) Coordinate and facilitate the work  of the advisory board established in section 3 of
+this 2025 Act; and
+(f) No later than October 1 of  each year, submit a report to the Legislative Assembly in
+the manner provided in ORS 192.245, after consultation from the advisory board,  that in-
+cludes at a minimum:
+(i) Total pharmaceutical expenditures by agency and program;
+(ii) Identification of fragmentation in state pharmaceutical purchasing;
+(iii) Current procurement practices of each agency and program;
+(iv) Barriers to effective defragmentation and leveraging of purchasing power; and
+(v) Recommendations for legislative action to reduce costs and improve coordination.
+(4) The Director of  the Department of Administrative Services shall appoint an adminis-
+trator for the office and all subordinate officers and employees of the office.
+SECTION 3.
+(1) There is created in the Office of Pharmaceutical Purchasing the Office
+of Pharmaceutical Purchasing Advisory Board. The purpose of the advisory board is to co-
+ordinate pharmaceutical purchasing across state agencies and programs.
+(2) The administrator of  the Office of Pharmaceutical Purchasing shall serve as chair of
+the advisory board and, after consultation  with the Governor, shall appoint the following
+members:
+(a) The executive director of the Oregon Educators Benefit Board;
+(b) The executive director of the Public Employees’ Benefit Board;
+(c) The executive director of the Public Employees Retirement System;
+(d) The executive director of the Prescription Drug Affordability Board; and
+(e) A member representing each of the following entities:
+(A) The Department of Corrections;
+(B) The Oregon State Hospital;
+(C) The Oregon Health Authority pharmacy policy and programs office;
+(D) Local health departments;
+(E) The Universal Health Plan Governance Board;
+(F) Oregon State University College of Pharmacy; and
+(G) An Oregon Health Authority public health representative.
+(3) With approval from a majority of the  advisory board members, the administrator may
+appoint additional members to the advisory board.
+(4) One less than a majority of the advisory board constitutes a quorum for the trans-
+action of business.
+(5) The advisory board shall be considered a public body and is subject to ORS 192.610  to
+192.705.
+(6) The advisory board shall:
+(a) Meet at least once per quarter;
+(b) Review the recommendations made by the Office of Pharmaceutical Purchasing  re-
+[2]
+HB 3613
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+garding defragmentation;
+(c) Communicate to the office the barriers and challenges that inhibit effective leveraging
+of pharmaceutical purchasing power;
+(d) Develop legislative recommendations to reduce fragmentation and improve Oregon’s
+pharmaceutical purchasing power;
+(e) Review the multistate purchasing consortium growth and savings  reports and advise
+the administrator of the office; and
+(f) Serve as stewards of  Oregon tax dollars to ensure that every agency and program
+maintains service excellence while effectively  leveraging Oregon’s collective pharmaceutical
+purchasing power.
+SECTION 4.
+The Office of Pharmaceutical Purchasing shall adopt  rules to carry out the
+provisions of sections 2 and 3 of this 2025 Act.
+SECTION 5.  ORS 414.312 is amended to read:
+414.312. (1) As used in ORS 414.312 to 414.318:
+(a) “Pharmacy benefit manager”  means an entity that negotiates and executes contracts with
+pharmacies, manages preferred drug lists, negotiates rebates with  prescription drug manufacturers
+and serves as  an intermediary between the Oregon Prescription Drug Program, prescription drug
+manufacturers and pharmacies.
+(b) “Prescription drug claims processor” means an entity that processes  and pays prescription
+drug claims, adjudicates pharmacy claims, transmits prescription drug  prices and claims data be-
+tween pharmacies and  the Oregon Prescription Drug Program and processes related payments to
+pharmacies.
+(c) “Program price” means the reimbursement rates and prescription drug prices established by
+the administrator of the Oregon Prescription Drug Program.
+(2) The Oregon Prescription Drug Program is established in the  [ Oregon Health Authority ] Of-
+fice of Pharmaceutical Purchasing . The purpose of the program is to:
+(a) Purchase  prescription drugs, replenish prescription drugs dispensed or reimburse pharmacies
+for prescription drugs in order to receive discounted prices and rebates;
+(b) Make prescription drugs available at the lowest possible  cost to participants in the program
+as a means to promote health;
+(c) Maintain a list of prescription  drugs recommended as the most effective prescription drugs
+available at the best possible prices; and
+(d) Promote health through the purchase and provision of discount prescription  drugs and co-
+ordination of comprehensive prescription benefit services for eligible entities and members.
+(3) The [ Director of the Oregon Health Authority ] administrator of the office  shall appoint an
+administrator of the Oregon Prescription Drug Program. The administrator may:
+(a) Negotiate price discounts and rebates  on prescription drugs with prescription drug man-
+ufacturers or group purchasing organizations;
+(b) Purchase prescription  drugs on behalf of individuals and entities that participate in the
+program;
+(c) Contract  with a prescription drug claims processor to adjudicate pharmacy claims and
+transmit program prices to pharmacies;
+(d) Determine program prices and reimburse or  replenish pharmacies for prescription drugs
+dispensed or transferred;
+(e) Adopt and implement a preferred drug list for the program;
+[3]
+HB 3613
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(f) Develop a system for allocating  and distributing the operational costs of the program and any
+rebates obtained to participants of the program; and
+(g) Cooperate with other states or regional consortia in the bulk purchase of prescription  drugs.
+(4) The following individuals or entities may participate in the program:
+(a) Public Employees’ Benefit Board, Oregon Educators Benefit Board  and Public Employees
+Retirement System;
+(b) Local  governments as defined in ORS 174.116 and special government bodies as defined in
+ORS 174.117 that directly or indirectly purchase prescription drugs;
+(c) Oregon Health and Science University established under ORS 353.020;
+[(d) State agencies that directly or indirectly purchase prescription drugs, including agencies  that
+dispense prescription drugs directly to persons in state-operated facilities; ]
+[(e)] (d) Residents of this state who lack or are underinsured for prescription drug coverage;
+[(f)] (e)  Private entities; and
+[(g)] (f)  Labor organizations.
+(5) The following individuals or entities must  participate in the program unless the indi-
+vidual or entity can demonstrate that a lower price is available for  the same prescription
+drug without utilizing the program:
+(a) State agencies that directly or indirectly purchase prescription drugs,  including
+agencies that dispense prescription drugs directly to persons in state-operated  facilities; and
+(b) Coordinated care organizations.
+[(5)] (6)  The administrator may establish different program prices for pharmacies in rural areas
+to maintain statewide access to the program.
+[(6)] (7)  The administrator may establish the terms and conditions  for a pharmacy to enroll in
+the program. A licensed pharmacy that is willing to accept the terms and conditions established by
+the administrator may apply to enroll in the program.
+[(7)] (8) Except as provided in subsection [ (8)] (9) of this section, the administrator may not:
+[(a) Contract with a pharmacy benefit manager; ]
+[(b)] (a)  Establish a state-managed wholesale or retail drug distribution  or dispensing system;
+or
+[(c)] (b) Require pharmacies to  maintain or allocate separate inventories for prescription drugs
+dispensed through the program.
+[(8)] (9)  The administrator shall contract with one or more entities  to perform any of the func-
+tions of the program, including but not limited to:
+(a) Contracting with a  pharmacy benefit manager and directly or indirectly with such pharmacy
+networks as the administrator considers necessary to maintain statewide access to the program.
+(b) Negotiating with prescription drug manufacturers on behalf of the administrator.
+[(9)] (10)  Notwithstanding subsection [ (4)(e)] (4)(d) of this section, individuals who are  eligible
+for Medicare Part D prescription drug coverage may participate in the program.
+[(10)] (11)  The program  may contract with vendors as necessary to utilize discount purchasing
+programs, including but not limited to  group purchasing organizations established to meet the cri-
+teria of the Nonprofit Institutions Act, 15 U.S.C. 13c, or that  are exempt under the Robinson-Patman
+Act, 15 U.S.C. 13.
+SECTION 6.
+ ORS 414.314 is amended to read:
+414.314. (1) An individual or entity described in ORS 414.312 (4) may  apply to participate in the
+Oregon Prescription Drug Program.  Participants shall apply on an application provided by the
+[4]
+HB 3613
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[Oregon Health Authority ] Office of Pharmaceutical Purchasing . The [ authority] office  may
+charge  participants  a nominal fee to participate in the program. The [ authority] office shall issue a
+prescription drug identification card to participants of the program.
+(2) The [ authority] office  shall provide a mechanism to  calculate and transmit the program
+prices for prescription drugs to a pharmacy. The pharmacy shall charge the participant  the program
+price for a prescription drug.
+(3) A pharmacy may charge the participant the professional dispensing fee set  by the Oregon
+Health Authority.
+(4) Prescription drug identification cards issued  under this section must contain the information
+necessary for proper claims adjudication or transmission of price data.
+SECTION 7.
+ ORS 414.318 is amended to read:
+414.318. The Prescription Drug Purchasing Fund is  established separate and distinct from the
+General Fund. The Prescription  Drug Purchasing Fund shall consist of moneys appropriated to the
+fund by the Legislative  Assembly and moneys received by the [ Oregon Health Authority ] Oregon
+Department of  Administrative Services  for the purposes established in this section in the form
+of gifts, grants,  bequests, endowments or donations. The moneys in the Prescription Drug Purchasing
+Fund are continuously appropriated to the [ authority] department  and shall be used  to purchase
+prescription  drugs,  reimburse pharmacies for prescription drugs and reimburse the [ authority] de-
+partment for the costs of  administering the Oregon Prescription Drug Program, including con-
+tracted services costs, computer costs, professional dispensing fees paid  to retail pharmacies and
+other reasonable program costs. Interest earned on the fund shall be credited to the fund.
+SECTION 8.  ORS 414.320 is amended to read:
+414.320. The [ Oregon Health Authority ] Office of Pharmaceutical Purchasing shall adopt  rules
+to implement and administer ORS 414.312 to 414.318. The rules  shall include but are not limited to
+establishing procedures for:
+(1) Issuing prescription drug  identification cards to individuals and entities that participate in
+the Oregon Prescription Drug Program; and
+(2) Enrolling pharmacies in the program.
+SECTION 9.
+ ORS 414.334 is amended to read:
+414.334. (1) The Oregon Health Authority shall adopt  a  uniform  Practitioner-Managed Pre-
+scription Drug Plan for the medical assistance program  to  be used by fee-for-service reimburse-
+ment and prescription drugs  provided by coordinated care organizations . The purpose of the
+plan is to ensure that enrollees in the medical assistance program receive the  most effective pre-
+scription drug available at the best possible price.
+(2) In adopting the plan, the authority shall consider recommendations of the Pharmacy  and
+Therapeutics Committee.
+(3) The authority shall consult with representatives of the  regulatory boards and associations
+representing practitioners who are prescribers under the medical assistance program and  ensure
+that practitioners  receive educational materials and have access to training on the Practitioner-
+Managed Prescription Drug Plan.
+(4) Notwithstanding the Practitioner-Managed Prescription Drug Plan adopted by the  authority,
+a practitioner may prescribe any drug that the practitioner indicates  is medically necessary for an
+enrollee as being the most effective available.
+(5) An enrollee may appeal to the authority a decision of a practitioner or the authority to  not
+provide a prescription drug requested by the enrollee.
+[5]
+HB 3613
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(6) This section does not limit the decision of a practitioner as to the scope and duration  of
+treatment of chronic conditions, including but not limited to arthritis, diabetes and asthma.
+SECTION 10.
+ ORS 414.359 is amended to read:
+414.359. (1)  The Mental Health Clinical Advisory Group is established in the Oregon Health
+Authority. The Mental Health Clinical Advisory Group shall develop evidence-based  algorithms for
+mental health treatments, including treatments with mental health drugs based on:
+(a) The efficacy of the drug;
+(b) The cost of the drug;
+(c) Potential side effects of the drug;
+(d) A patient’s profile; and
+(e) A patient’s history with the drug.
+(2) The Mental Health Clinical Advisory Group consists of  18 members appointed by the au-
+thority as follows:
+(a) Two psychiatrists each with an active community practice;
+(b) One child and adolescent psychiatrist;
+(c) Two licensed clinical psychologists;
+(d) One psychiatric nurse practitioner with prescribing privileges;
+(e) Two primary care providers;
+(f) Two pharmacists, one of whom must have experience dispensing to long term  care facilities
+and patients with special needs;
+(g) Two individuals, each  representing a statewide mental health advocacy organization for
+children and adults with mental illness, who have experience as a consumer of  mental health ser-
+vices or as a family member of a consumer of mental health services;
+(h) Two individuals each representing a coordinated care organization;
+(i) One consumer of mental health services;
+(j) One member of a federally recognized Oregon Indian tribe;
+(k) One member who represents the Department of Corrections who  has a clinical background;
+and
+(L) One member who is a clinical  psychiatrist and who represents the Oregon Psychiatric Ac-
+cess Line.
+(3) The Mental Health Clinical  Advisory Group shall, in developing treatment algorithms, con-
+sider all of the following:
+(a) Peer-reviewed medical literature;
+(b) Observational studies;
+(c) Studies of health economics;
+(d) Input from patients and physicians; and
+(e) Any other information that the group deems appropriate.
+(4) The Mental Health Clinical  Advisory Group shall make recommendations to the authority
+and the Pharmacy and Therapeutics Committee, including but not limited to:
+(a) Implementation of evidence-based algorithms.
+(b) Any changes needed to [ any preferred drug  list used by the authority ] the Practitioner-
+Managed Prescription Drug Plan or any preferred drug list used by  the authority or a coor-
+dinated care organization.
+(c) Practice guidelines for the treatment of mental health disorders with mental health drugs.
+(d) Coordinating the work of the group with an entity that offers a psychiatric advice hotline.
+[6]
+HB 3613
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) Recommendations of the Mental Health Clinical Advisory Group shall be posted to the
+website of the authority no later than 30 days after the group approves the recommendations.
+(6) No later than December 31 of each year,  the Mental Health Clinical Advisory Group shall
+report to the interim committees of the Legislative Assembly related to health on  recommendations
+made to the authority under subsection (4) of this  section and the report may include recommen-
+dations for legislation.
+(7) A member of the Mental  Health Clinical Advisory Group is not entitled to compensation but
+may be reimbursed for necessary travel expenses  incurred in the performance of the member’s offi-
+cial duties.
+(8) The Mental Health  Clinical Advisory Group shall select one of its members as chairperson
+and another as vice chairperson, for terms and  with duties and powers necessary for the perform-
+ance of the functions of the group.
+(9) A majority of the members of the Mental Health Clinical Advisory Group constitutes a quo-
+rum for the transaction of business.
+(10) The Mental Health Clinical Advisory Group shall meet at least once every two months at
+a time and place determined by the chairperson. The group also may meet at other times and  places
+specified by the call of the chairperson or of a majority  of the members of the group. The group
+may meet in executive session when discussing factors listed in subsection (1) of this section.
+(11) All agencies of state government, as defined in ORS  174.111, are directed to assist the
+Mental Health Clinical Advisory Group  in the performance of duties of the group and, to the extent
+permitted by laws relating to confidentiality,  to furnish information and advice the members of the
+group consider necessary to perform their duties.
+SECTION 11.
+ ORS 413.032 is amended to read:
+413.032. (1) The Oregon Health Authority is established. The authority shall:
+(a) Carry out policies adopted by the Oregon Health Policy Board;
+(b) Administer the Oregon Integrated and  Coordinated Health Care Delivery System established
+in ORS 414.570 and the COFA Dental Program established in ORS 413.614;
+[(c) Administer the Oregon Prescription Drug Program; ]
+[(d)] (c)  Develop the policies for  and the provision of publicly funded medical care and medical
+assistance in this state;
+[(e)] (d) Develop the policies for and the provision of mental health  treatment and treatment of
+addictions;
+[(f)] (e) Assess, promote and protect the health of the public as specified by state and  federal
+law;
+[(g)] (f)  Provide regular reports to the board with respect to  the performance of health services
+contractors serving recipients  of medical assistance, including reports of trends in health services
+and enrollee satisfaction;
+[(h)] (g)  Guide  and support, with the authorization of the board, community-centered health ini-
+tiatives designed to address critical risk  factors, especially those that contribute to chronic disease;
+[(i)] (h) Be  the state Medicaid agency for the administration of funds from Titles XIX and XXI
+of the Social Security Act and administer medical assistance under ORS chapter 414;
+[(j)] (i) In consultation with  the Director of the Department of Consumer and Business Services,
+periodically review and recommend standards and methodologies to the Legislative Assembly for:
+(A) Review of administrative expenses of health insurers;
+(B) Approval of rates; and
+[7]
+HB 3613
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(C) Enforcement of rating rules adopted by the Department of  Consumer and Business Services;
+[(k)] (j)  Structure reimbursement rates for  providers that serve recipients of medical assistance
+to reward comprehensive management of diseases, quality outcomes and the efficient use  of re-
+sources  and  to promote cost-effective procedures, services and programs including, without limita-
+tion, preventive health, dental and primary care  services, web-based office visits, telephone
+consultations and telemedicine consultations;
+[(L)] (k) Guide and support community three-share agreements in which an employer,  state or
+local government and an individual all contribute a portion of a premium for a community-centered
+health initiative or for insurance coverage;
+[(m)] (L) Develop, in consultation with the Department of Consumer and Business  Services, one
+or more products designed to provide more affordable options for the small group market;
+[(n)] (m)  Implement policies and programs to  expand the skilled, diverse workforce as described
+in ORS 414.018 (4); and
+[(o)] (n)  Implement  a process for collecting the health outcome and quality measure data iden-
+tified by the Health Plan Quality Metrics Committee and  the Behavioral Health Committee and re-
+port the data to the Oregon Health Policy Board.
+(2) The Oregon Health Authority is authorized to:
+(a) Create an  all-claims, all-payer database to collect health care data and monitor and evaluate
+health care reform in Oregon and to  provide comparative cost and quality information to consumers,
+providers and purchasers of health care about Oregon’s health care  systems and health plan net-
+works in order to provide comparative information to consumers.
+(b) Develop uniform contracting standards for  the purchase of health care, including the fol-
+lowing:
+(A) Uniform quality standards and performance measures;
+(B) Evidence-based guidelines for major chronic  disease management and health care services
+with unexplained variations in frequency or cost;
+(C) Evidence-based effectiveness guidelines for select new technologies and medical equipment;
+(D) A statewide drug formulary that may be used by publicly funded health benefit plans; and
+(E) Standards that accept and consider tribal-based practices for mental health  and substance
+abuse prevention, counseling and treatment for persons who are Native  American or Alaska Native
+as equivalent to evidence-based practices.
+(3) The enumeration of duties,  functions and powers in this section is not intended to be exclu-
+sive nor to limit the duties, functions and  powers imposed on or vested in the Oregon Health Au-
+thority by ORS 413.006 to 413.042, 415.012 to 415.430, 415.501, 741.001  to 741.540, 741.802 and 741.900
+or by other statutes.
+SECTION 12.
+ ORS 413.011 is amended to read:
+413.011. (1) The duties of the Oregon Health Policy Board are to:
+(a) Be the policy-making and  oversight body for the Oregon Health Authority established in ORS
+413.032 and all of the authority’s departmental divisions.
+(b) Develop and  submit a plan to the Legislative Assembly to provide and fund access to af-
+fordable, quality health care for all Oregonians.
+(c) Develop a program to provide health insurance premium assistance to all low  and moderate
+income individuals who are legal residents of Oregon.
+(d) Publish health outcome  and quality measure data collected by the Oregon Health Authority
+at aggregate levels that do not disclose information otherwise protected by law. The  information
+[8]
+HB 3613
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+published must report, for  each coordinated care organization and each health benefit plan sold
+through the health insurance  exchange or offered by the Oregon Educators Benefit Board or the
+Public Employees’ Benefit Board:
+(A) Quality measures;
+(B) Costs;
+(C) Health outcomes; and
+(D) Other information that is necessary for members of the public to evaluate the value of health
+services delivered by each coordinated care organization and by each health benefit plan.
+(e) Establish evidence-based clinical standards and practice  guidelines that may be used by
+providers.
+(f) Approve and monitor community-centered health initiatives  described in ORS 413.032 [ (1)(h)]
+(1)(g) that are consistent with public health  goals, strategies, programs and performance standards
+adopted by the Oregon Health Policy Board to  improve the health of all Oregonians, and to regu-
+larly report to the  Legislative Assembly on the accomplishments and needed changes to the initi-
+atives.
+(g) Establish cost containment mechanisms to reduce health care costs.
+(h) Ensure that Oregon’s health care workforce is sufficient  in numbers and training to meet the
+demand that will be created by the expansion  in health coverage, health care system transforma-
+tions, an increasingly diverse population and an aging workforce.
+(i) Work with the Oregon  congressional delegation to advance the adoption of changes in federal
+law or policy to promote Oregon’s comprehensive health reform plan.
+(j) Establish a health benefit package in accordance with ORS  741.340 to be used as the baseline
+for all health benefit plans offered through the health insurance exchange.
+(k) Investigate and  report annually to the Legislative Assembly on the feasibility and advis-
+ability of future changes to the health insurance market in Oregon,  including but not limited to the
+following:
+(A) A requirement for every resident to have health insurance coverage.
+(B) A payroll tax as a means to encourage employers to continue providing  health insurance to
+their employees.
+(L) Meet cost-containment goals by structuring reimbursement  rates to reward comprehensive
+management of diseases, quality outcomes and the efficient use of resources by  promoting cost-
+effective procedures, services and programs including, without limitation, preventive  health, dental
+and primary care services, web-based office  visits, telephone consultations and telemedicine consul-
+tations.
+(m) Oversee the expenditure  of moneys from the Health Care Provider Incentive Fund to support
+grants to primary care providers and rural  health practitioners, to increase the number of primary
+care educators and to support efforts to create and develop career ladder opportunities.
+(n) Work  with the Public Health Benefit Purchasers Committee, administrators of the medical
+assistance program and  the Department of Corrections to identify uniform contracting standards for
+health benefit plans that achieve maximum quality and cost outcomes and  align the contracting
+standards for all state programs to the greatest extent practicable.
+(o) Work with the  Health Information Technology Oversight Council to foster health information
+technology systems and practices that promote the  Oregon Integrated and Coordinated Health Care
+Delivery System established by ORS 414.570 and  align health information technology systems and
+practices across this state.
+[9]
+HB 3613
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+(2) The Oregon Health Policy Board is authorized to:
+(a) Subject to the approval of the Governor, organize and  reorganize the authority as the board
+considers necessary to properly conduct the work of the authority.
+(b) Submit directly to the Legislative Counsel, no later  than October 1 of each even-numbered
+year, requests for measures  necessary to provide statutory authorization to carry out any of the
+board’s duties or to implement any of the board’s recommendations. The  measures may be filed prior
+to the beginning of the legislative session  in accordance with the rules of the House of Represen-
+tatives and the Senate.
+(3) If the board or the authority is unable to perform, in whole or in part,  any of the duties
+described  in ORS 413.006 to 413.042 and 741.340 without federal approval, the authority is authorized
+to request, in accordance with ORS 413.072, waivers or other approval necessary to perform  those
+duties. The authority shall implement any portions of  those duties not requiring legislative authority
+or federal approval, to the extent practicable.
+(4) The enumeration of duties,  functions and powers in this section is not intended to be exclu-
+sive nor to  limit the duties, functions and powers imposed on the board by ORS 413.006 to 413.042
+and 741.340 and by other statutes.
+(5) The board shall consult  with the Department of Consumer and Business Services in com-
+pleting the tasks set forth in subsection (1)(j) and (k)(A) of this section.
+SECTION 13.
+ ORS 410.080 is amended to read:
+410.080. (1) The Department of Human Services is the designated single state agency  for all
+federal programs under ORS 409.010 and 410.040  to 410.300 except that the Oregon Health Authority
+is the single state agency responsible for supervising the administration of all programs  funded by
+Title XIX or Title XXI of the Social Security Act as provided in ORS 413.032 [ (1)(i)] (1)(h).
+(2) Except as provided in  ORS 410.070 (2)(d) and 410.100, the administration of services to clients
+under ORS 410.040 to  410.300 shall be through area agencies, and shall comply with all applicable
+federal regulations.
+SECTION 14. (1) Sections 2 to 4 of this 2025 Act and the amendments to ORS 410.080,
+413.011, 413.032, 414.312, 414.314, 414.318, 414.320, 414.334 and 414.359 by sections 5 to 13 of this
+2025 Act become operative on January 1, 2026.
+(2) The Oregon Department of  Administrative Services may take any action before the
+operative date specified in subsection (1) of this section that is necessary for the department
+to exercise, on and after the operative date specified in subsection (1)  of this section, all the
+duties, functions and powers conferred on the department by sections 2  to 4 of this 2025 Act
+and the amendments to ORS 410.080, 413.011, 413.032, 414.312, 414.314, 414.318,  414.320, 414.334
+and 414.359 by sections 5 to 13 of this 2025 Act.
+SECTION 15.
+This 2025 Act takes effect on the 91st day after the date on which  the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[10]

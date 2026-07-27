@@ -1,0 +1,578 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2548
+Sponsored by Representatives VALDERRAMA, MUNOZ, NELSON; Representatives FRAGALA, GAMBA, HUDSON,
+NOSSE, RUIZ, TRAN, Senators JAMA, PATTERSON, PHAM K, TAYLOR (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates laws about a labor standards board  for agricultural workers. The Act
+would prohibit employers from firing such workers without cause. The  Act takes effect when the
+Governor signs it. (Flesch Readability Score: 63.8).
+Establishes the Agricultural Workforce Labor Standards Board.
+Prescribes the duties  of the board. Directs the board to establish minimum working standards
+for agricultural workers. Provides  remedies for agricultural workers alleging a violation of the
+minimum standards established by the board.
+Requires the board to conduct  an biennial comprehensive review to determine whether to adopt
+new minimum standards or revise existing standards. Directs the board  to establish uniform training
+requirements for agricultural workers, supervisory and  nonsupervisory employees and establish a
+process by rule for certifying worker organizations to provide the training to agricultural workers.
+Requires the board to submit an annual report to the Governor and the Legislative Assembly
+summarizing the results of the comprehensive review and any actions taken  by the board in the
+prior year.
+Prohibits employers from terminating an agricultural  worker unless the termination is for cause.
+Sets forth the conditions that must be satisfied in order to determine the existence of  cause. Pro-
+vides remedies for agricultural workers alleging  a retaliation or a violation of the for cause stand-
+ard.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to labor standards for agricultural workers; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+DEFINITIONS
+SECTION 1.
+Definitions. As used in sections 1 to 12 of this 2025 Act:
+(1) “Agricultural worker” means an individual who performs services in agriculture  for
+an employer in exchange for an agreed remuneration or rate of pay.
+(2) “Agriculture” has the meaning given that term in ORS  653.271, including the planting,
+pruning and harvesting of Christmas trees.
+(3) “Christmas tree” has the meaning given that term in ORS 571.505.
+(4) “Employer” has the meaning given that term in ORS 653.010.
+(5) “Worker organization” means an organization that provides  services to low-wage and
+immigrant workers, including agricultural workers.
+AGRICULTURAL WORKFORCE LABOR STANDARDS BOARD
+SECTION 2.
+Establishment; members; term; vacancies.  (1) There is established within the
+Bureau of  Labor and Industries the Agricultural Workforce Labor Standards Board, the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2697
+HB 2548
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+purpose of which is  to establish minimum standards for the working conditions of agricul-
+tural workers, including but not limited to compensation, work  schedules and other working
+conditions that are necessary to protect the health and welfare of such workers.
+(2) The board shall consist of nine members appointed by the Governor, as follows:
+(a) Four members who represent the interests of agricultural workers.
+(b) Four members who represent the interests of employers of agricultural workers.
+(c) One member of the public with legal  knowledge and expertise in health and safety
+issues that affect agricultural workers and low-wage workers.
+(3) The term of a member of the board is four years and the member may  be reappointed
+but may not serve for more than two full terms.
+(4) Successor board members shall be appointed by the Governor, before  the expiration
+of the term of a member, but not later than January 1 of each  even-numbered year. If a
+vacancy occurs for any reason before the expiration of the term of a  member, the Governor
+shall make an appointment to fill the vacancy, in the same manner as an appointment to  a
+full term, to become immediately effective for the unexpired term.
+(5) The members  of the board shall elect from among themselves a chairperson and a
+vice chairperson who shall preside over  meetings and exercise the functions of the chair-
+person during any absence of the chairperson.
+(6) The Governor shall appoint an executive director  for the board who is responsible for
+the performance of duties assigned by the board. The  executive director may employ appro-
+priate staff to carry out the duties assigned by the board.
+SECTION 3.
+Compensation; meetings.  (1) Members of the Agricultural Workforce Labor
+Standards Board shall receive such compensation as  the board determines is necessary, but
+at a minimum, shall be reimbursed on a per diem basis  in an amount that is not less than
+$151 for the expenses the members incur in the exercise of board duties.
+(2) The board shall adopt rules for conducting meetings and any other rules as necessary
+for carrying out the duties of the board.
+(3) A majority of voting  members of the board constitutes a quorum for the transaction
+of business.
+(4) An affirmative vote by the majority  of voting members of the board is necessary for
+the board to take any action.
+(5) All meetings of the board shall:
+(a) Be held as public meetings in accordance with ORS 192.610 to 192.705.
+(b) Be held at least once per month rotating  throughout this state to ensure that local
+considerations of each agricultural area of this state inform the decisions of the  board re-
+garding minimum standards for the working conditions of agricultural workers.
+(c) Provide translation and accessibility services to encourage wider participation of ag-
+ricultural workers in the meetings.
+DUTIES OF THE BOARD
+SECTION 4.
+Minimum workforce standards.  (1) The Agricultural Workforce  Labor Stan-
+dards Board shall adopt rules establishing minimum standards for agricultural workers that
+are designed to ensure the  health and welfare of such workers. In adopting rules, the board
+shall consult with the Bureau of Labor and Industries, the Department of Consumer  and
+[2]
+HB 2548
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Business Services, the State Department of Agriculture and any  other relevant state agency.
+The board may not adopt standards that are less protective of or beneficial  to agricultural
+workers than any other applicable statute or  rule or any standard previously established by
+the board.
+(2) At a minimum, the standards must:
+(a) Set compensation rates for paying agricultural workers,  provided that the rates are
+not less than the greater of the following, as applicable:
+(A) The minimum wage rate established under ORS 653.025.
+(B) The minimum wage rate established by the United States  Department of Labor for
+agricultural workers employed under a temporary or seasonal agricultural worker visa  pro-
+gram.
+(b) Set compensation rates for agricultural workers who perform agricultural labor on a
+piece-rate basis, taking into account the geographic area where the labor  is performed, the
+type of labor performed and the potential need for cost of living adjustments.
+(c) Establish requirements for working conditions such as rest  breaks, work schedules
+and working hours.
+(d) Require the provision of training for agricultural workers that is:
+(A) In accordance with the training described under section 5 of this 2025 Act; and
+(B) Made available to agricultural workers during working hours without the  loss of time
+or pay.
+(e) Establish  workplace health and safety requirements specific to agricultural workers
+that address the particular concerns of agricultural  workers, in addition to applicable health
+and safety requirements prescribed by the Oregon Safe Employment Act.
+(f) Provide for the provision of paid benefits  that may include, but need not be limited
+to:
+(A) Paid leave;
+(B) Retirement benefits;
+(C) Hazard pay;
+(D) Severance pay;
+(E) Disability insurance; and
+(F) Workers’ compensation.
+(g) Create disciplinary standards that require that termination of an  agricultural
+worker’s employment shall be done for cause in accordance with the  standard specified in
+section 12 of this 2025 Act.
+(3) Before adopting any rules establishing minimum  standards under this section, the
+board shall hold at least one public hearing at which members of the public, including  agri-
+cultural workers, shall have the opportunity to provide input on any matter relating to  the
+minimum standards being considered by the board.
+SECTION 5.
+Uniform training standards; training certification.  (1) In addition to the du-
+ties provided under section 4 of this 2025  Act, the Agricultural Workforce Labor Standards
+Board shall  establish by rule uniform standards for providing training for agricultural
+workers, supervisory employees  and nonsupervisory employees who are not agricultural
+workers. At a minimum, the  standards must include a training curriculum that provides the
+following information to agricultural  workers, supervisory employees and nonsupervisory
+employees:
+[3]
+HB 2548
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) The applicable minimum standards established  by the board under section 4 of this
+2025 Act.
+(b) The rights and remedies afforded to agricultural workers,  including the right to be
+protected against retaliation and the private  right of action for violation of the minimum
+standards established by the board.
+(c) A description of the duties and obligations of the board under sections 1 to 12 of  this
+2025 Act.
+(d) The contact information of each state agency with enforcement authority over mat-
+ters that relate to the same subjects over which the board has authority.
+(e) Any other  information that the board deems appropriate and necessary to facilitate
+compliance with the minimum standards established  by the board under section 4 of this 2025
+Act.
+(2) Employers shall ensure that the training described under this section is provided:
+(a) To agricultural workers,  supervisory employees and non-supervisory employees on an
+annual basis.
+(b) To new hires, before the new hire’s start date.
+(c) In a language that the employer  typically uses to communicate with the agricultural
+workers, supervisory employees and nonsupervisory employees.
+(3) The board shall establish by rule a process  for a worker organization to become cer-
+tified to provide the training  described under this section to agricultural workers. At a
+minimum, the certification process established by rule must provide:
+(a) The criteria that a worker organization must meet to become certified.
+(b) Application procedures by which a worker organization may apply to become certified.
+(c) Policies and procedures for renewing, terminating or revoking a certification.
+(d) Requirements for translation and accessibility services to be  made available to agri-
+cultural workers who attend a training provided by a worker organization that  has been
+certified to provide training.
+(4) The board shall hold at least one public hearing for public input and deliberation be-
+fore the board adopts any rules establishing uniform training standards under this section.
+(5) An employer shall keep and maintain  records necessary to demonstrate compliance
+with this section. An employer must provide records kept  and maintained under this section
+to the Bureau of Labor and Industries upon request.
+SECTION 6.
+Comprehensive review.  At least once every two years, the  Agricultural
+Workforce Labor Standards Board shall conduct a comprehensive review  of the minimum
+standards previously adopted by  the board under section 4 of this 2025 Act to determine
+whether the standards have continuing applicability or whether the board  should adopt new
+standards or revise the existing standards.
+SECTION 7. Reporting. No later than December 1 of each year, the Agricultural
+Workforce Labor Standards  Board shall prepare and submit a report in the manner provided
+in ORS 192.245 to the interim committees  of the Legislative Assembly related to business and
+labor on the board’s activities and  any recommendations for changes. The report must in-
+clude, at a minimum:
+(1) A statement of findings and conclusions  of the comprehensive review required under
+section 6 of this 2025 Act, including recommendations for statutory changes.
+(2) A copy of  the budget documents of the board including statements showing aggregate
+[4]
+HB 2548
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+data regarding compensation paid and benefits provided to agricultural workers.
+(3) A description of the public hearing process used to inform the  minimum standards
+established by the board under section 4 of this 2025 Act.
+(4) A description of the current minimum standards established  by the board and re-
+commended changes to the standards, along  with any supporting documentation for the
+proposed changes.
+(5) The number and types of  complaints or civil actions filed alleging a violation of any
+of the standards established by the board, if any.
+(6) A summary of all other actions taken during the prior year in the performance of  the
+board’s statutory responsibilities that is adequate to allow evaluation of the board’s per-
+formance.
+BOARD AUTHORITY
+SECTION 8.
+Investigative authority.  In order to  determine any facts relevant to matters
+concerning implementation of and compliance with the  minimum standards established by
+the Agricultural  Workforce Labor Standards Board under section 4 of this 2025 Act, the
+board may conduct investigations, issue subpoenas to compel the testimony of  any party or
+witness and require the production of documents,  including any book, record, document,
+certificate, writing, article and other information  relevant to such matters before the board.
+The procedure in such matters shall be informal.
+WORKER PROTECTIONS
+SECTION 9. Retaliation prohibited. (1) An employer may not  terminate, discipline, pe-
+nalize, retaliate against or take any other adverse action against an  agricultural worker be-
+cause the worker has:
+(a) Inquired about  or exercised any right afforded to an agricultural worker under
+sections 1 to 12 of this  2025 Act or under any minimum standards established by the Agri-
+cultural Workforce Labor Standards Board under section 4 of this 2025 Act.
+(b) Participated in any process or proceeding  under or related to sections 1 to 12 of this
+2025 Act, or has testified or is about to testify in any such proceeding.
+(c) Participated in any training provided  by a certified worker organization pursuant to
+section 5 of this 2025 Act.
+(2) An agricultural worker alleging a violation of this section may file a  complaint under
+ORS 659A.820 with the Commissioner of the Bureau of Labor  and Industries. The compliant
+must be filed within one year of the occurrence of the conduct giving rise to the complaint.
+SECTION 10. Civil action. (1) An agricultural worker may file a civil action for injunctive
+relief or other  appropriate equitable relief against any person alleged to have violated a
+minimum standard established by the  Agricultural Workforce Labor Standards Board under
+section 4 of this 2025 Act or to have violated section 9 of this 2025 Act.
+(2) In any action under  subsection (1) of this section alleging a violation of a minimum
+standard established by the board under section 4 of this 2025  Act or a violation of section
+9 of this 2025 Act, the court may award, in addition to the relief authorized under subsection
+(1) of this section, compensatory damages  or $1,000, whichever is greater, including damages
+[5]
+HB 2548
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+for emotional distress.
+SECTION 11.
+Limits. Nothing in sections 1 to 12 of this 2025 Act is intended to:
+(1) Limit the rights of any parties to a collective bargaining agreement.
+(2) Diminish the rights or remedies that are otherwise available to an agricultural worker
+under federal or state law or regulation, including the  right to file a wage claim under ORS
+652.310 to 652.414.
+MISCELLANEOUS
+SECTION 12.
+For cause termination.  (1) As used in this section:
+(a) “Farm labor contractor” has the meaning given that term in ORS 658.405.
+(b) “Progressive discipline system” means a disciplinary system under which:
+(A) Disciplinary measures involve graduated and proportionate responses to an  agricul-
+tural worker’s misconduct or failure to meet an employer’s performance expectations; and
+(B) The severity of the discipline may increase for repeated misconduct.
+(2) Except as provided in subsection (3) of this section,  an employer may not terminate
+the employment of an agricultural worker unless the worker is terminated for cause. For
+purposes of this section:
+(a) An employer terminates an agricultural worker for cause only if all of  the following
+conditions are satisfied:
+(A) The employer  has informed the agricultural worker, in the language most typically
+used to communicate with the worker, of  the employer’s policies or rules and performance
+expectations.
+(B) The ability to comply with the  employer’s performance expectations is within the
+agricultural worker’s control.
+(C) The  employer’s policies or rules regarding performance expectations are applied
+consistently among the agricultural workers in corresponding employment.
+(D) The employer undertakes a fair and objective investigation into the agricultural
+worker’s job performance or misconduct.
+(E) Action taken by the employer to correct an agricultural worker’s conduct or job
+performance must be taken in accordance with a progressive discipline system that has  been
+adopted by the employer.
+(b) The employer has the burden of establishing that any termination for cause  meets
+the conditions set forth in paragraph (a) of this subsection.
+(3) An employer may terminate an  agricultural worker without cause if the termination
+is due to:
+(a) A bona fide economic layoff that is:
+(A) Supported by legitimate and verifiable economic reasons documented  in the
+employer’s records; and
+(B) Made in the reverse order of seniority within job classifications.
+(b) The expiration of a designated period of temporary or seasonal agricultural work.
+(4) An employer may not terminate, discipline, penalize, retaliate  against or take any
+other adverse action against an agricultural worker because the worker has:
+(a) Opposed any practice prohibited by this section.
+(b) Initiated a complaint or civil action alleging a violation of this section.
+[6]
+HB 2548
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+(5) An agricultural worker claiming to be aggrieved by an alleged violation of  this section
+may file:
+(a) A  complaint with the Commissioner of the Bureau of Labor and Industries in the
+manner provided by ORS 659A.820.
+(b) A civil action against any person alleged to have terminated  the worker in violation
+of this section.
+(6)(a) In any civil action brought under this section, the court may order injunctive relief,
+and any equitable relief that may be appropriate, including but  not limited to reinstatement.
+(b) In addition to the relief described in paragraph (a) of this  subsection, the court may
+award a civil penalty in the amount of $5,000 and compensatory damages,  including damages
+for emotional distress.
+(c) In all actions brought under this  section, the court shall award reasonable attorney
+fees and costs to a prevailing plaintiff.
+(7) For purposes  of determining liability under this section, if a farm labor contractor
+recruits, solicits, supplies or employs agricultural workers to perform work  in agriculture
+for an employer  of agricultural workers, the farm labor contractor shall be jointly and se-
+verally liable with the employer for the acts committed in violation of this section.
+SECTION 13.
+The unit and section captions used in this 2025 Act are provided only for
+the convenience of the reader and do not become part of the statutory  law of this state or
+express any legislative intent in the enactment of this 2025 Act.
+SECTION 14. This 2025 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+on its passage.
+[7]

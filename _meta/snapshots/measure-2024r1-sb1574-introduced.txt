@@ -1,0 +1,783 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1574
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Judiciary for Senator Floyd Prozanski)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act defines abuse of a corpse in the first degree in  some circumstances as a sex
+crime. The Act allows DOT to share data with humane special agents. The Act  also changes some
+definitions for police oversight laws and exempts some hearings from the requirement to  publish a
+recording on a website. (Flesch Readability Score: 61.2).
+Provides  that  abuse of a corpse in the first degree involving sexual activity is a sex crime for
+purposes of sex offender reporting.
+Authorizes the Department of  Transportation to share personal information and driver license
+photos with humane special agents.
+Modifies the definition of “law enforcement  officer” and “law enforcement agency” for purposes
+of police oversight provisions.
+Provides that hearings of the State Board of Parole and Post-Prison Supervision and  Psychiatric
+Security Review Board are not subject to the requirement to publish recordings on a website.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to public safety; creating new provisions; amending  ORS 163A.005, 163A.115, 192.672,
+243.706, 243.808, 243.809, 802.179 and 807.115; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 163A.005 is amended to read:
+163A.005. As used in ORS 163A.005 to 163A.235:
+(1) “Another United States court” means a federal court, a military court,  the tribal court of a
+federally recognized Indian tribe or a court of:
+(a) A state other than Oregon;
+(b) The District of Columbia;
+(c) The Commonwealth of Puerto Rico;
+(d) Guam;
+(e) American Samoa;
+(f) The Commonwealth of the Northern Mariana Islands; or
+(g) The United States Virgin Islands.
+(2) “Attends” means is enrolled on a full-time or part-time basis.
+(3)(a) “Correctional facility” means any place used for the confinement of persons:
+(A) Charged with or convicted of a crime or otherwise confined under a court order.
+(B) Found to be within the jurisdiction  of the juvenile court for having committed an act that
+if committed by an adult would constitute a crime.
+(b) “Correctional facility” applies to a state hospital or a secure  intensive community inpatient
+facility only as to  persons detained therein charged with or convicted of a crime, or detained therein
+after being found guilty except for insanity under ORS 161.290 to  161.373 or responsible except for
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 202
+SB 1574
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+insanity under ORS 419C.411.
+(4) “Institution of higher education” means a public  or private educational institution that pro-
+vides a program of post-secondary education.
+(5) “Sex crime” means:
+(a) Rape in any degree;
+(b) Sodomy in any degree;
+(c) Unlawful sexual penetration in any degree;
+(d) Sexual abuse in any degree;
+(e) Incest with a child victim;
+(f) Using a child in a display of sexually explicit conduct;
+(g) Encouraging child sexual abuse in any degree;
+(h) Transporting child pornography into the state;
+(i) Paying for viewing a child’s sexually explicit conduct;
+(j) Compelling prostitution;
+(k) Promoting prostitution;
+(L) Kidnapping in the first degree if the victim was under 18 years of age;
+(m) Contributing to the sexual delinquency of a minor;
+(n) Sexual misconduct if the offender is at least 18 years of age;
+(o) Possession of materials depicting sexually explicit conduct of a child in the first degree;
+(p) Kidnapping in the second degree  if the victim was under 18 years of age, except by a parent
+or by a person found to be within the jurisdiction of the juvenile court;
+(q) Online sexual corruption of a  child in any degree if the offender reasonably believed the
+child to be more than five years younger than the offender;
+(r) Luring a minor, if:
+(A) The offender reasonably believed the minor or, in the  case of a police officer or agent of a
+police officer posing as a minor, the purported minor to be more than five years younger than the
+offender or under 16 years of age; and
+(B) The court designates in the judgment that the offense is a sex crime;
+(s) Sexual assault of an animal;
+(t) Public indecency or private indecency, if  the person has a prior conviction for a crime listed
+in this subsection;
+(u) Trafficking in persons as described in ORS 163.266 (1)(b) or (c);
+(v) Purchasing sex with  a minor if the court designates the offense as a sex crime pursuant to
+ORS 163.413 (3)(d), or the offense is the defendant’s second  or subsequent conviction under ORS
+163.413 (3)(b)(B);
+(w) Invasion of personal privacy in the first degree, if the court designates the offense as a sex
+crime pursuant to ORS 163.701 (3);
+(x) Sexual abuse by fraudulent representation;
+(y) Abuse of a corpse in the first degree as described in ORS 166.087 (1)(a);
+[(y)] (z)  Any attempt  to commit any of the crimes listed in paragraphs (a) to [ (x)] (y)  of this
+subsection;
+[(z)] (aa)  Burglary, when committed with intent to commit any of the offenses  listed in para-
+graphs (a) to [ (x)] (y)  of this subsection; or
+[(aa)] (bb) Criminal conspiracy if the offender agrees with one or more persons to engage in  or
+cause the performance of an offense listed in paragraphs (a) to [ (x)] (y)  of this subsection.
+[2]
+SB 1574
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(6) “Sex offender” means a person who:
+(a) Has been convicted of a sex crime;
+(b) Has been found guilty except for insanity of a sex crime;
+(c) Has been convicted in another United States court of a crime:
+(A) That would constitute a sex crime if committed in this state; or
+(B) For which the person would have  to register as a sex offender in that court’s jurisdiction,
+or as required under federal law, regardless of whether the crime would  constitute a sex crime in
+this state; or
+(d) Is described in ORS 163A.025 (1).
+(7) “Works”  or “carries on a vocation” means full-time or part-time employment for more than
+14 days within one calendar year whether financially compensated, volunteered or  for the purpose
+of governmental or educational benefit.
+SECTION 2.
+ ORS 163A.115 is amended to read:
+163A.115. Notwithstanding any other provision of law:
+(1) A person who is a sexually violent dangerous offender under ORS 137.765:
+(a) Must be classified as a level three sex offender under ORS 163A.100 (3); and
+(b) Is not eligible for relief from the obligation to report as  a sex offender or reclassification as
+a level two sex offender under ORS 163A.100 (2), pursuant to a petition filed under ORS 163A.125.
+(2) A person who has been convicted or found guilty except for insanity of one of the  following
+offenses is not eligible for relief from the obligation to report as  a sex offender pursuant to a peti-
+tion filed under ORS 163A.125 (1):
+(a) Rape in the first degree;
+(b) Sodomy in the first degree;
+(c) Unlawful sexual penetration in the first degree;
+(d) Kidnapping in the first degree as described in ORS 163.235 (1)(e) or when the  victim is under
+18 years of age; or
+(e) Burglary in the first degree when committed with the intent to  commit any of the offenses
+listed in ORS 163A.005 (5)(a) to [ (x)] (y) .
+(3) A person classified as a level three sex offender  under section 7 (2)(b), chapter 708, Oregon
+Laws 2013, is not eligible for relief from the obligation to report as a  sex offender pursuant to a
+petition filed under ORS 163A.125 (1).
+SECTION 3.
+ ORS 802.179 is amended to read:
+802.179. (1) The Department of Transportation, upon request or as required by law, shall disclose
+personal information from a motor vehicle record to a government agency  for use in carrying out
+its governmental functions.
+(2) The  department shall disclose personal information from a motor vehicle record for use in
+connection with matters of motor vehicle or driver safety and theft, motor vehicle emissions,  motor
+vehicle product alterations,  recalls or advisories, performance monitoring of motor vehicles and
+dealers by motor vehicle manufacturers,  and removal of nonowner records from the original owner
+records of motor vehicle manufacturers to carry out the purposes of any  of the following federal
+Acts:
+(a) The Automobile Information Disclosure Act.
+(b) The Motor Vehicle Information and Cost Saving Act.
+(c) The National Traffic and Motor Vehicle Safety Act of 1966.
+(d) The Anti-Car Theft Act of 1992.
+[3]
+SB 1574
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) The Clean Air Act.
+(3)(a) If the department determines that a business is a legitimate business, the  department shall
+disclose personal information to the business for use in the normal course of business in:
+(A) Verifying the accuracy of personal information submitted to the business; or
+(B) Correcting personal information submitted to the business, but only in order to:
+(i) Prevent fraud;
+(ii) Pursue legal remedies against the individual who submitted the personal information; or
+(iii) Recover a debt from, or satisfy a security interest against, the individual.
+(b) The department shall  adopt rules specifying the kind of information that the department will
+accept as evidence that a business is a legitimate business.
+(4) The department shall disclose personal information to:
+(a) An attorney, a financial institution as defined in ORS chapter 706 or a collection agency
+registered under ORS  697.031 for use in connection with a civil, criminal, administrative or arbi-
+tration proceeding in any court, government agency or self-regulatory body. Permissible  uses of
+personal information under this paragraph include, but are not limited to, service of  process, inves-
+tigation in anticipation of litigation and the execution and enforcement of judgments and orders.
+(b) A process server  acting as an agent for an individual for use in serving documents in con-
+nection with an  existing civil, criminal, administrative or arbitration proceeding, or a judgment, in
+any court, government agency or  self-regulatory body. Nothing in this paragraph limits the activities
+of a process server when acting as  an agent for an attorney, collection agency or like person or for
+a government agency.
+(5) The  department shall disclose personal information other than names to a researcher for use
+in researching health and educational questions and providing statistical reports, as long as  the
+personal information is not published, redisclosed or used to contact individuals.  The department
+may disclose information under this subsection only for research sponsored by an educational insti-
+tution or a health research institution.
+(6) The department shall disclose personal information to an insurer,  an insurance support or-
+ganization or a self-insured entity in connection  with claims investigation activities, antifraud ac-
+tivities, underwriting or rating.
+(7) The department shall disclose  personal information regarding ownership or other financial
+interests in a vehicle to a person who is required by the state  or federal Constitution, a statute or
+an ordinance to  give notice to another person concerning the vehicle. Personal information disclosed
+under this  subsection may be used only for giving the required notice. Persons authorized to receive
+personal information under this subsection include, but are not limited to:
+(a) Tow companies;
+(b) Persons who have or are entitled to have liens on the vehicle; and
+(c) Persons taking an action that could affect ownership rights to the vehicle.
+(8) The department shall disclose personal information  to any private security professional cer-
+tified under ORS 181A.870, to be used  for the purpose of determining ownership of vehicles parked
+in a place over which  the private security professional, acting within the scope of the professional’s
+employment, exercises control.
+(9) The department shall disclose personal information to the employer of an  individual who
+holds commercial driving privileges, or the insurer of  the employer, to obtain or verify information
+about the individual.
+(10) The department shall disclose personal information to the operator of  a private toll facility
+[4]
+SB 1574
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+for use in collecting tolls.
+(11) The department may not  disclose personal information for bulk distributors of surveys,
+marketing materials or solicitations except as provided  in this subsection. The department shall
+implement methods and procedures to ensure:
+(a) That individuals are offered an opportunity to request that personal information  about
+themselves be disclosed to bulk distributors; and
+(b) That the personal  information provided by the department will be used, rented or sold solely
+for bulk distribution of surveys, marketing materials and solicitations.
+(12) The department shall disclose personal information to  a person who requests the informa-
+tion if the requester provides the department with written permission from  the individual whose
+personal information is requested. The written permission from the individual must be notarized.
+(13) The department shall  disclose personal information to a person who is in the business of
+disseminating such information under the following conditions:
+(a) In addition to any other requirements under the contract executed pursuant to  paragraph (b)
+of this subsection, the person requesting the information must file a performance  bond with the de-
+partment in the amount of $25,000.  The bond must be executed in favor of the State of Oregon and
+its form is subject to approval by the Attorney General.
+(b) The disseminator shall enter into a contract with the department. A contract under this
+paragraph shall contain at least the following provisions:
+(A) That the disseminator will  not reproduce or distribute the personal information in bulk but
+only in response to an individual record inquiry.
+(B) That the disseminator will provide the personal information  only to a person or government
+agency  authorized  to receive the information under this section and only if the person or govern-
+ment agency has been authorized by the department to receive the information.
+(C) That  the disseminator will have a method of ensuring that the disseminator can delay for a
+period of up to two days the giving of personal information to a requester who is not a subscriber.
+(14) The department shall disclose personal information to representatives of  the news media for
+the gathering or dissemination of information related to the operation of a motor vehicle or to public
+safety.
+(15) The department shall disclose personal information as provided in ORS 802.220 (5).
+(16) The department shall adopt  rules providing for the release of personal information from
+motor vehicle records to a person who has a financial interest  in the vehicle. Rules adopted under
+this subsection  may include, but need not be limited to, rules establishing procedures for the de-
+partment to verify the financial interest of the person making the request for personal information.
+(17) The department shall adopt rules providing for the release  of personal information from
+motor vehicle records to a person who is injured by the unsafe operation of a vehicle or who  owns
+property that is damaged because of the unsafe operation of a vehicle.
+(18) The department shall disclose personal information  to a private investigator licensed by any
+licensing authority within the State of Oregon, to be used for any purpose permitted  under this
+section. A licensed private investigator requesting information must prove to  the department that
+the person has a corporate surety bond, an irrevocable letter of credit issued  by an insured insti-
+tution as defined in ORS 706.008 or such other security as the Department of Public  Safety Stan-
+dards and Training may prescribe by rule in the minimum  amount of $5,000 or errors and omissions
+insurance in the minimum amount of $5,000.
+(19) The  department shall disclose personal information to a procurement organization as de-
+[5]
+SB 1574
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+fined in ORS 97.953 for the purpose of facilitating the making of anatomical gifts under  the pro-
+visions of ORS 97.955.
+(20) The department, upon request, shall disclose personal information to a humane spe-
+cial agent as defined in ORS 181A.345.
+SECTION 4.
+ ORS 807.115 is amended to read:
+807.115. (1) The Department of Transportation shall retain a digital image  of each photograph
+and signature shown on a driver license under the provisions of  ORS 807.110 or an identification
+card under ORS 807.400.
+(2) The digital images of photographs may not  be made available to anyone other than law
+enforcement officials and employees of the department acting in an official capacity.
+(3) As used in this section, “law enforcement official”  includes a humane special agent
+as defined in ORS 181A.345.
+SECTION 5.  ORS 243.706 is amended to read:
+243.706. (1) A public  employer may enter into a written agreement with the exclusive represen-
+tative of an appropriate bargaining unit setting forth a  grievance procedure culminating in binding
+arbitration or any other  dispute resolution process agreed to by the parties. As a condition of
+enforceability,  any  arbitration award that orders the reinstatement of a public employee or other-
+wise relieves the public  employee of responsibility for misconduct shall comply with public policy
+requirements as clearly defined in statutes or  judicial decisions including but not limited to policies
+respecting sexual harassment or sexual misconduct, unjustified  and egregious use of physical or
+deadly force and serious criminal misconduct, related to work. In addition, with respect to  claims
+that a grievant should be reinstated or otherwise  relieved of responsibility for misconduct based
+upon the public employer’s alleged previous differential treatment of  employees for the same or
+similar conduct, the arbitration award must conform to the following principles:
+(a) Some misconduct is so egregious that no employee can reasonably rely on past treatment  for
+similar offenses as a justification or defense to discharge or other discipline.
+(b) Public managers have a right to change  disciplinary policies at any time, notwithstanding
+prior practices, if such managers give reasonable advance notice to affected employees  and the
+change does not otherwise violate a collective bargaining agreement.
+(2) In addition to subsection (1) of this section, a public employer may enter  into a written
+agreement with  the exclusive representative of its employees providing that a labor dispute over
+conditions and terms of a contract may be resolved through binding arbitration.
+(3) Notwithstanding subsection (1) of this section, when an arbitration proceeding  involves al-
+leged misconduct by a sworn law enforcement officer of any law  enforcement agency, as those terms
+are defined in ORS [ 131.930] 243.812, and the arbitrator makes a finding that misconduct  has oc-
+curred consistent with the law enforcement agency’s finding of  misconduct or, if applicable, con-
+sistent with  a finding of misconduct by a civilian or community oversight board, agency or review
+body, the arbitration award may not order any disciplinary action that differs from the  disciplinary
+action imposed by the law enforcement agency or the civilian or  community oversight board, agency
+or review body, if the disciplinary action  imposed by the law enforcement agency, or the civilian
+or community oversight board, agency or review  body was in accordance with the uniform standards
+adopted by the Commission on Statewide Law Enforcement Standards of Conduct and Discipline
+established under ORS 243.812.
+(4) In an arbitration proceeding under this  section, the arbitrators, or a majority of the
+arbitrators, may:
+[6]
+SB 1574
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Issue subpoenas on their own motion or at the request of a party to the proceeding to:
+(A) Compel the attendance of a witness properly served by either party; and
+(B) Require from either  party the production of books, papers and documents the arbitrators find
+are relevant to the proceeding;
+(b) Administer oaths or affirmations to witnesses; and
+(c) Adjourn a hearing from day to day, or for a longer time, and from place to place.
+(5) The arbitrators  shall promptly provide a copy of a subpoena issued under this section to each
+party to the arbitration proceeding.
+(6) The arbitrators  issuing a subpoena under this section may rule on objections to the issuance
+of the subpoena.
+(7) If a person fails to comply with a subpoena issued under this section or if a witness  refuses
+to testify on a matter on which the witness may be lawfully  questioned, the party who requested the
+subpoena or  seeks the testimony may apply to the arbitrators for an order authorizing the party to
+apply to the circuit court of any county to enforce  the subpoena or compel the testimony. On the
+application of the attorney of record for  the party or on the application of the arbitrators, or a
+majority of the arbitrators, the court may require the person  or witness to show cause why the
+person or witness should not be punished for contempt of court  to the same extent and purpose as
+if the proceedings were pending before the court.
+(8) Witnesses appearing pursuant to subpoena, other than parties or officers or employees  of the
+public employer, shall receive fees and mileage as prescribed by law for witnesses in  ORS 44.415 (2).
+(9) As used in this section, “civilian or community oversight board, agency or review  body”
+means a board, an agency or a body:
+(a) Designated  by a municipality or a law enforcement agency in performing duties related to
+investigating allegations of officer misconduct or reviewing police policies and practices; or
+(b) Created to oversee disciplinary matters concerning law enforcement officers pursuant to a
+city charter or ordinance for which a measure  that included the question of whether to establish the
+board, agency or body was referred to  and approved by the people of the city at an election held
+on or after July 1, 2020.
+SECTION 6.
+ ORS 243.808 is amended to read:
+243.808. (1) For purposes of an arbitration proceeding under ORS 243.706  concerning alleged
+misconduct by a law enforcement officer:
+(a) A law enforcement agency or, if applicable,  a civilian or community oversight board, agency
+or review body, has the burden of proof by a preponderance of the evidence to show that:
+(A) The officer engaged in the alleged misconduct; and
+(B) Any disciplinary action taken against the officer was with just  cause, as defined in ORS
+236.350.
+(b) In determining the reasonableness of a disciplinary action  imposed by a law enforcement
+agency or a civilian or  community oversight board, agency or review body, including whether the
+level of discipline is appropriate, an arbitrator shall uphold the disciplinary action unless  the
+arbitrator finds that the disciplinary action is arbitrary and capricious.
+(c) When  the imposed disciplinary action is termination of employment, an arbitrator may not
+set aside or reduce the imposed disciplinary action if setting aside  or reducing the disciplinary
+action is inconsistent with the public interest in maintaining community  trust, enforcing a higher
+standard of conduct for law enforcement officers and ensuring an accountable, fair and just disci-
+plinary process.
+[7]
+SB 1574
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2)(a) Notwithstanding ORS 243.706 (1), and subject to paragraph (b)  of this subsection, in car-
+rying out an arbitration proceeding described under ORS 243.706 (3),  the Employment Relations
+Board shall appoint a  person from a list of qualified, indifferent and unbiased persons to serve as
+the arbitrator of the proceeding. The board shall submit  to each of the parties subject to the pro-
+ceeding the list of persons who may serve as arbitrators.
+(b) After the board has selected a person from the list to serve as the arbitrator of  the pro-
+ceeding, each of the parties subject to  the proceeding is entitled to one opportunity to object to the
+board’s proposed arbitrator. If a party  objects to the proposed arbitrator, the board shall select an
+alternative person to serve as the arbitrator.  If the other party objects to the alternative person, the
+board shall make a final selection from the names remaining on the list as to who shall serve  as the
+arbitrator of the proceeding.
+(3) The requirements described in this section are not subject to collective bargaining.
+(4) As used in this section:
+(a) “Civilian or community oversight board, agency or review body” means a  board, an agency
+or a body:
+(A) Designated by a municipality or a law enforcement  agency in performing duties related to
+investigating allegations of officer misconduct or reviewing police policies and practices; or
+(B) Created to oversee disciplinary matters concerning law  enforcement officers pursuant to a
+city charter or ordinance for which a measure  that included the question of whether to establish the
+board, agency or body was referred to  and approved by the people of the city at an election held
+on or after July 1, 2020.
+(b) “Law enforcement agency” and “law enforcement officer” have  the meanings given those
+terms in ORS [ 131.930] 243.812.
+SECTION 7.
+ ORS 243.809 is amended to read:
+243.809. (1) For matters concerning alleged misconduct by a  law enforcement officer, the fol-
+lowing shall make determinations regarding the alleged  misconduct and impose disciplinary action
+in response to such determinations in accordance with the uniform standards adopted by the Com-
+mission on Statewide Law Enforcement Standards of Conduct and Discipline under ORS 243.812:
+(a) A law enforcement agency located anywhere in this state.
+(b) An arbitrator who serves in an arbitration proceeding described under ORS 243.706 (3).
+(c) A civilian or community oversight board, agency or review body.
+(2) The requirements described in this section are not subject to collective bargaining.
+(3) As used in this section:
+(a) “Civilian or community oversight board, agency or review body” means a  board, an agency
+or a body:
+(A) Designated by a municipality or a law enforcement  agency in performing duties related to
+investigating allegations of officer misconduct or reviewing police policies and practices; or
+(B) Created to oversee disciplinary matters concerning law  enforcement officers pursuant to a
+city charter or ordinance for which a measure  that included the question of whether to establish the
+board, agency or body was referred to  and approved by the people of the city at an election held
+on or after July 1, 2020.
+(b) “Law enforcement agency” and “law enforcement officer” have  the meanings given those
+terms in ORS [ 131.930] 243.812.
+SECTION 8.
+ ORS 192.672 is amended to read:
+192.672. (1) A state board or  commission may meet through telephone or other electronic means
+[8]
+SB 1574
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+in accordance with ORS 192.610 to 192.705.
+(2)(a) Notwithstanding ORS 171.072 or 292.495, a member of a state board or  commission who
+attends a meeting through telephone or other electronic means is not entitled  to compensation or
+reimbursement for expenses for attending the meeting.
+(b) A state board or commission may compensate or reimburse a member, other than  a member
+who is a member of the Legislative  Assembly, who attends a meeting through telephone or other
+electronic means as provided in ORS 292.495 at the discretion of the board or commission.
+(3)(a) A state board or  commission that meets through telephone or other electronic means in
+accordance with ORS 192.610 to 192.705 shall record and promptly publish the  meeting on a publicly
+accessible website or hosting service, so that members of the public may without charge:
+(A) Observe a recording of the meeting if the meeting was conducted through videoconferencing
+technology;  or
+(B) Listen to a recording of the meeting if the meeting was  conducted through teleconferencing
+technology that did not include video capabilities.
+(b) The  requirement that a meeting be published under this subsection does not apply to that
+portion  of  a state board or commission meeting that was lawfully held in executive session under
+ORS 192.660 or  other law , or to hearings of the State Board of Parole and Post-Prison Super-
+vision or the Psychiatric Security Review Board .
+(c) The requirement to record and publish meetings under  this subsection applies to any state
+board or commission that is within the executive department, as defined  in ORS 174.112, and whose
+members are subject to Senate confirmation under ORS 171.562 and 171.565.
+SECTION 9.
+The amendments to ORS 192.672 by section 8 of this 2024  Act apply to
+hearings conducted before, on or after the effective date of this 2024 Act.
+SECTION 10. The amendments to ORS 163A.005, 163A.115, 243.706, 243.808,  243.809, 802.179
+and 807.115 by sections 1 to 7 of this 2024 Act become operative on January 1, 2025.
+SECTION 11. This 2024 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2024 Act takes effect
+on its passage.
+[9]

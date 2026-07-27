@@ -1,0 +1,401 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+House Bill 4086
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Early Childhood and Human Services for Representative Lisa Reynolds)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act limits the scope of the duty of  the Department of Human Services to investigate
+child abuse based on a child abuse suspect’s relationship with or access to  the suspected abused
+child. The Act requires DHS to submit a  report on the change to its duties. The Act directs the
+System of Care Advisory Council to study  and submit a report about children who have shown
+problem sexual behaviors. The Act requires the SOCAC to  consult with a group for advice. The
+group must be  comprised of people who have lived or worked with such children or others impacted
+by the actions of such children. (Flesch Readability Score: 60.0).
+Modifies when the Department of Human Services is required to investigate  child abuse reports.
+Directs the department  to provide interim legislative committees with a report on the implementa-
+tion of the change no later than September 15, 2024.
+Directs the System  of Care Advisory Council, in consultation with an advisory committee, to
+study the statewide response to children exhibiting problematic sexual behavior.  Requires the
+council to submit a report to interim legislative committees no later than September 15, 2024.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to  children; creating new provisions; amending ORS 419B.020 and 419B.026; and declaring
+an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 419B.020 is amended to read:
+419B.020. (1) If the Department of Human Services or a law enforcement agency receives  a re-
+port of child abuse, the department or the agency shall immediately:
+(a) Cause an investigation to be made to determine the nature and  cause of the abuse of the
+child; and
+(b) Make the following notifications:
+(A) To the Department of Early Learning and Care if  the alleged child abuse occurred in a child
+care facility as defined in ORS 329A.250; or
+(B) To the Department of Education  if the alleged child abuse occurred in a school, was related
+to a school-sponsored activity or was conduct that may be subject to actions taken by the  Depart-
+ment of Education under ORS 339.370 to 339.400.
+(2) The Department of Human Services shall ensure that an  investigation required by subsection
+(1) of this section is completed if the report is not investigated by a law enforcement agency.
+(3) If the alleged child abuse reported in subsection (1)  of this section occurred at a child care
+facility or in a  school, was related to a school-sponsored activity or was conduct that may be subject
+to actions taken by the Department of Education under ORS 339.370 to 339.400:
+(a) The Department  of Human Services and the law enforcement agency shall jointly determine
+the roles and responsibilities of the Department of Human Services and the  agency in their respec-
+tive investigations; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 165
+HB 4086
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) The Department of Human Services and the agency  shall each report the outcomes of their
+investigations:
+(A) To the Department of Early Learning and Care if  the alleged child abuse occurred in a child
+care facility as defined in ORS 329A.250; or
+(B) To the Department of Education if the alleged child abuse:
+(i) Occurred in a school;
+(ii) Was related to a school-sponsored activity; or
+(iii) Was conduct that may be subject  to actions taken by the Department of Education under
+ORS 339.370 to 339.400.
+(4) If the law enforcement agency conducting the investigation finds reasonable cause to believe
+that abuse has occurred,  the law enforcement agency shall notify the Department of Human Services
+by making an oral report followed by  a written report to the centralized child abuse reporting sys-
+tem described in ORS 418.190. The department shall provide protective  social services of its own or
+of other available social agencies if necessary to prevent further abuses to the child or to safeguard
+the child’s welfare.
+(5) If a child is taken into protective custody by the Department of Human Services, the  de-
+partment shall promptly make reasonable  efforts to ascertain the name and address of the child’s
+parents or guardian.
+(6)(a) If a child is taken into protective custody by the Department of  Human Services or a law
+enforcement official, the department or  law enforcement official shall, if possible, make reasonable
+efforts to advise the parents or guardian immediately, regardless of the time of day, that the child
+has been taken into custody, the reasons the child  has been taken into custody and general infor-
+mation about the child’s placement, and the telephone number of  the local office of the department
+and any after-hours telephone numbers.
+(b) Notice may be given by any means reasonably certain  of notifying the parents or guardian,
+including but not limited to written, telephonic  or in-person oral notification. If the initial notifica-
+tion is not in writing, the information required  by paragraph (a) of this subsection also shall be
+provided to the parents or guardian in writing as soon as possible.
+(c) The department also shall make a reasonable effort to notify  the noncustodial parent of the
+information required by paragraph (a) of this subsection in a timely manner.
+(d) If a child is taken into custody while under the care and supervision of a person or  organ-
+ization other than the parent, the department, if possible,  shall immediately notify the person or
+organization that the child has been taken into protective custody.
+(7) If a law enforcement officer or the Department of Human Services,  when taking a child into
+protective custody, has reasonable  cause to believe that the child has been affected by sexual abuse
+and rape of a child as defined in ORS 419B.005 (1)(a)(C) and that physical evidence of  the abuse
+exists and is likely to disappear, the  court may authorize a physical examination for the purposes
+of preserving evidence if the court finds that it is in  the best interest of the child to have such an
+examination. Nothing in this section  affects the authority of the department to consent to physical
+examinations of the child at other times.
+(8) A minor child of 12 years of age or older may refuse  to consent to the examination described
+in subsection (7) of this section. The examination  shall be conducted by or under the supervision
+of a physician licensed under ORS chapter 677, a physician assistant  licensed under ORS 677.505 to
+677.525 or a  nurse practitioner licensed under ORS chapter 678 and, whenever practicable, trained
+in conducting such examinations.
+[2]
+HB 4086
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(9) When the Department of Human  Services completes an investigation under this section, if
+the person who made the report of child abuse provided contact information to the department,  the
+department shall notify the person about whether contact  with the child was made, whether the
+department determined that  child abuse occurred and whether services will be provided. The de-
+partment is not required to disclose information under this subsection if the department  determines
+that disclosure is not permitted under ORS 419B.035.
+(10) When the Department of Education receives a notification under subsection  (1) of this sec-
+tion or a report on the outcomes of  an investigation under subsection (3) of this section, the De-
+partment of Education shall act under, and is subject to, ORS 339.389.
+(11) Notwithstanding subsections (1) and (2) of this section, the Department of Human
+Services is only required to investigate a report of  child abuse under this section if the in-
+dividual suspected of the abuse is known to be:
+(a) The child’s parent;
+(b) The child’s caregiver, guardian  or other person exercising significant authority over
+or responsibility for the child, including a provider of child care as that term  is defined in
+ORS 329A.250 or an education provider as defined in ORS 339.370;
+(c) A person residing in the child’s home or who has access to the child’s home;
+(d) A person  who has access to the child based on the person’s relationship to the child’s
+parent, guardian, custodian, household member or caregiver;
+(e) A person suspected of subjecting the child  to trafficking, as described in ORS 163.266;
+or
+(f) A representative,  agent, volunteer or employee of the Oregon Youth Authority or a
+county juvenile department if the representative, agent, volunteer or employee was acting
+as a public or private official at the time of the alleged abuse and:
+(A) The alleged abuse would constitute abuse under ORS 419B.005 (1)(a)(C), (D)  or (E);
+or
+(B) A law enforcement agency is not investigating the alleged abuse.
+(12) Nothing in this section limits a law enforcement agency’s authority to conduct  a
+criminal investigation into conduct that is the subject of a child abuse report.
+SECTION 2.
+ ORS 419B.026 is amended to read:
+419B.026. (1) An investigation conducted by the Department of  Human Services  under ORS
+419B.020 must conclude in one of the following findings:
+(a) That the report of child abuse is founded;
+(b) That the report of child abuse is unfounded; or
+(c) That the report of child abuse cannot be determined.
+(2) All investigations conducted under ORS 419B.020  must be conducted in accordance with ORS
+419B.005 to 419B.050 and , if conducted by the department,  result in the findings  described in
+subsection (1) of this section until all of the following criteria have been met:
+(a) The child welfare workload model for the department [ of Human Services ] is staffed at 95
+percent or greater;
+(b) A centralized, statewide child abuse hotline has been established and in operation for at least
+six consecutive months;
+(c) The department has completed investigations within timelines mandated by law and rule at
+least 90 percent of the time for at least six consecutive months;
+(d) The  department has conducted in-person contacts with children who are the subject of re-
+[3]
+HB 4086
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ports of  child abuse, as mandated by law and rule, in at least 90 percent of the reports of child abuse
+for at least six consecutive months; and
+(e) The reabuse rate for children in this state is below the national average.
+SECTION 3.
+(1) The System of Care Advisory Council, in consultation with the advisory
+committee created under subsection (4) of this section,  shall study and make recommen-
+dations regarding the  statewide response to children exhibiting problematic sexual behavior.
+The council shall submit a report on the council’s findings  and recommendations, including
+any recommendations for legislation, to the interim  legislative committees on child welfare,
+in the manner provided in ORS 192.245, no later than September 15, 2024.
+(2) The study must at a minimum:
+(a) Identify the current state of  services and resources available to children exhibiting
+problematic sexual behavior and to the families and caregivers of such children.
+(b) Identify gaps in the response and services available to children exhibiting problematic
+sexual behavior and to the families and caregivers of such children.
+(c) Determine the national best practices on trauma-informed multidisciplinary responses
+to children exhibiting problematic sexual behavior.
+(d) Identify existing state and federal funding authorities  to support trauma-informed
+multidisciplinary responses to children exhibiting problematic sexual behavior.
+(e) Analyze solutions to  identify and provide support, treatment and resources for chil-
+dren exhibiting problematic sexual behavior and for the families  and caregivers of such
+children.
+(3) The council’s recommendations must at a minimum describe or propose:
+(a) Trauma-informed and national  best practice strategies for identification of children
+exhibiting problematic sexual behaviors;
+(b) Strategies and definitions to ensure a child is not identified as  exhibiting problematic
+sexual behavior as a result of the child’s:
+(A) Sexual orientation, gender identity or disability;
+(B) Sexual behavior resulting from the child’s sexual orientation,  gender identity or dis-
+ability; or
+(C) Consensual sexual  activity or exploration, provided the activity or exploration is not
+criminal or abusive in nature.
+(c) Services and treatment for children exhibiting problematic sexual behavior, including
+trauma-informed and family centered programs and community-based supports.
+(d) Comprehensive resources and  educational opportunities to support family members
+and caregivers impacted by children exhibiting problematic sexual behavior.
+(e) National best practices for assessing the safety of children impacted by another
+child’s problematic sexual behavior.
+(f) Strategies  to prevent and minimize out-of-home placement or incarceration of chil-
+dren exhibiting problematic sexual behavior.
+(4) The council shall appoint a committee to  advise the council in conducting the study
+and preparing the reports described in this section. The committee membership shall include
+members of families with lived experience  with a child exhibiting problematic sexual behavior
+and professionals or representatives of organizations involved  with children exhibiting prob-
+lematic sexual behaviors. Such professionals or representatives may include,  but are not
+limited to, any of the following:
+[4]
+HB 4086
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+(a) Representatives of the Oregon Health Authority.
+(b) Children’s behavioral health professionals.
+(c) Representatives of the Department of Justice.
+(d) Representatives of children’s advocacy centers, as defined in ORS 418.782.
+(e) Representatives of the Oregon Youth Authority.
+(f) Representatives of county juvenile departments.
+(g) Representatives of the Department of Human Services child welfare programs  and
+developmental disability services programs.
+(h) Representatives of the Department of Education.
+(i) Representatives of county child abuse multidisciplinary teams with  existing problem-
+atic sexual behavior subcommittees.
+(j) District attorneys.
+(k) Attorneys representing children.
+(L) Juvenile delinquency judges.
+(m) Relevant advocates for children.
+SECTION 4.
+The Department of Human Services shall submit  a report on the
+department’s implementation of the amendments to ORS 419B.020 by section 1 of this  2024
+Act to  the interim legislative committees on child welfare, in the manner provided in ORS
+192.245, no later than September 15, 2024.
+SECTION 5. Sections 3 and 4 of this 2024 Act are repealed on January 2, 2026.
+SECTION 6. This 2024 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2024 Act takes effect
+on its passage.
+[5]

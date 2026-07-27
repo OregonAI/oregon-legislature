@@ -1,0 +1,52 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1101
+Sponsored by Senator SMITH DB, Representatives  DIEHL, RESCHKE; Senator BONHAM, Representatives BOICE,
+EDWARDS, HARBICK, MANNIX, OSBORNE, SCHARF, SKARLATOS, SMITH G
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that a county clerk must  cancel a voter’s registration as required by fed-
+eral law. (Flesch Readability Score: 60.1).
+Requires a county clerk  to cancel a voter registration in accordance with the requirements of
+the federal National Voter Registration Act of 1993.
+A BILL FOR AN ACT
+Relating to cancellation of voter registration; amending ORS 247.555.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 247.555 is amended to read:
+247.555. (1) A county clerk [ may] shall, in accordance  with the requirements of the admin-
+istration of voter registration  provisions of the National Voter Registration Act of 1993 (P.L.
+103-31), cancel the registration of an elector:
+(a) At the request of the elector;
+(b) Upon the death of the elector;
+(c) If the county clerk receives written  evidence that the elector has registered to vote in an-
+other state; or
+(d) If the elector has not responded  to a notice described in ORS 247.563 and has not voted or
+updated a registration during the period beginning on the date the notice  is sent and ending on the
+day after the date of the second regular general election that  occurs after the date the notice was
+sent.
+(2) If  the registration of an elector is canceled, the elector, in order to vote in an election, must
+register as provided in this chapter.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3906

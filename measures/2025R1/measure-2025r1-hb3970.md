@@ -1,0 +1,231 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb3970
+title: 'HB 3970 (2025R1): Modifies the list of persons who may receive services and assistance funded
+  by the Emergency Housing Account.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 3970
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3970/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 6295b6f15dbcc45328ae1183747d37d0479b3e9a9d7b4991eebeb29b3619cda8
+snapshot_id: measure-2025r1-hb3970-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 197.746
+  - ORS 197.782
+  - ORS 291.002
+  - ORS 294.187
+  - ORS 401.977
+  - ORS 458.650
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 3970
+prefix_meaning: House Bill
+catch_line: Modifies the list of persons who may receive services and assistance funded by the Emergency
+  Housing Account.
+minority_catch_line: null
+measure_summary: "\t<b>Digest: The Act changes the list of people who can get some funding for homelessness.\
+  \ (Flesch Readability Score: 71.7).</b> \n\t[<i>Digest: The Act tells DHS and HCSD to work on recommendations\
+  \ for funding to meet the needs of youth in homelessness. The Act changes the list of people who can\
+  \ get some funding for homelessness. The Act establishes grant programs for youth in homelessness. (Flesch\
+  \ Readability Score: 64.4).</i>] \n\t[<i>Directs the Department of Human Services and the Housing and\
+  \ Community Services Department to collaborate on recommendations for funding to meet the needs of youth\
+  \ experiencing homelessness.</i>] Modifies the list of persons who may receive services and assistance\
+  \ funded by the Emergency Housing Account. [<i>Establishes grant programs for youth experiencing homelessness.</i>]\
+  \ \n\tDeclares an emergency, effective on passage."
+relating_to: Relating to youth homelessness; and declaring an emergency.
+relating_to_full: Relating to youth homelessness; and declaring an emergency.
+at_the_request_of: null
+lc_number: 4899
+measure_created_date: '2025-05-06T13:18:01'
+measure_modified_date: '2025-08-07T14:21:52'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 6744
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 197.746
+  - ORS 197.782
+  - ORS 291.002
+  - ORS 294.187
+  - ORS 401.977
+  - ORS 458.650
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3970`.
+
+# HB 3970 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 3970, 2025 Regular Session (2025R1)
+- **LC number:** 4899
+- **Created:** 2025-05-06T13:18:01
+- **Metadata last modified (upstream):** 2025-08-07T14:21:52
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 6744 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3970/Enrolled>.
+
+## Summary
+
+**Catchline:** Modifies the list of persons who may receive services and assistance funded by the Emergency Housing Account.
+
+**Relating to:** Relating to youth homelessness; and declaring an emergency.
+
+<b>Digest: The Act changes the list of people who can get some funding for homelessness. (Flesch Readability Score: 71.7).</b> 
+ [<i>Digest: The Act tells DHS and HCSD to work on recommendations for funding to meet the needs of youth in homelessness. The Act changes the list of people who can get some funding for homelessness. The Act establishes grant programs for youth in homelessness. (Flesch Readability Score: 64.4).</i>] 
+ [<i>Directs the Department of Human Services and the Housing and Community Services Department to collaborate on recommendations for funding to meet the needs of youth experiencing homelessness.</i>] Modifies the list of persons who may receive services and assistance funded by the Emergency Housing Account. [<i>Establishes grant programs for youth experiencing homelessness.</i>] 
+ Declares an emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to youth homelessness; and declaring an emergency.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 3970
+Sponsored by Representatives LEVY E, PHAM H, Senator  REYNOLDS; Representatives CHOTZEN,
+DOBSON, FRAGALA, GAMBA, GOMBERG, NGUYEN  H, Senators MANNING JR, NERON,
+PATTERSON, SOLLMAN
+CHAPTER .................................................
+AN ACT
+Relating to youth homelessness; amending ORS 458.650; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 458.650 is amended to read:
+458.650. (1) The Housing and Community  Services Department shall administer the Emergency
+Housing Account to assist homeless  individuals and individuals who are at risk of becoming
+homeless, through  means including the emergency housing assistance program and the state
+homeless assistance program.  Notwithstanding subsection (3)(a) of this section, the state homeless
+assistance program shall serve individuals experiencing homelessness, especially  unsheltered
+homelessness, without respect to income.
+(2) The  Oregon Housing Stability Council shall develop a policy for the use of program funds
+with the advice of:
+(a) Persons who have experienced housing instability;
+(b) Tribes;
+(c) The Community Action Partnership of Oregon;
+(d) Continuums of care, as defined in 24 C.F.R. part 578;
+(e) Local governments;
+(f) Nonprofit organizations;
+(g) Homeless services providers;
+(h) Culturally specific organizations;
+(i) Housing providers;
+(j) Veterans’ services organizations; and
+(k) Other entities identified by the department by rule.
+(3) The policy under subsection (2) of this section  shall direct that program funds shall be used:
+(a) To provide to low  and very low income individuals, including but not limited to individuals
+more than 65 years of age, persons with disabilities, agricultural workers and Native Americans:
+(A) Emergency shelters and attendant services;
+(B) Transitional housing  services designed to assist individuals to make the transition from
+homelessness to permanent housing and economic independence;
+(C) Supportive housing services to enable individuals to continue living in their own homes  or
+to provide  in-home services for such individuals for whom suitable programs do not exist in their
+geographic area;
+(D) Programs that provide emergency payment of home payments, rents or utilities;
+Enrolled House Bill 3970 (HB 3970-A) Page 1
+(E) Support for individuals with companion animals, as defined in ORS 401.977, that includes:
+(i) Food for both companion animals and their owners;
+(ii) Crates or kennels on-site or  off-site that are easily accessible to the companion animal
+owners;
+(iii) Basic veterinary services, including behavioral services; and
+(iv) Rules of conduct and responsibility regarding companion animals and their owners; or
+(F) Some or all of the services or assistance described in subparagraphs (A) to (E) of this para-
+graph.
+(b) To provide the services and  assistance described in paragraph (a) of this subsection to
+[school-aged children enrolled in  kindergarten through grade 12 ] the following individuals , or to
+their families, [ who] if the individuals  are homeless or at risk of becoming homeless[ .]:
+(A) Individuals who are school-aged children  enrolled in or of an age to be eligible to be
+enrolled in kindergarten through grade 12;
+(B) Individuals who are pregnant; or
+(C) Individuals between birth and an age eligible to be enrolled in kindergarten.
+(c) To align with  federal strategies and resources that are available to prevent and end
+homelessness, including the  requirement of providing culturally responsive services and using
+evidence-based and emerging practices effective in ending homelessness,  including practices unique
+to rural communities.
+(4)(a) The council shall require  as a condition of awarding a grant that the organization dem-
+onstrate to the satisfaction of the department that the organization:
+(A) Has the capacity to deliver any service proposed by the organization;
+(B) Is a culturally responsive organization or is engaged in a process to  become a culturally
+responsive organization;
+(C) Engages with culturally specific organizations; and
+(D) Supports local homelessness system planning efforts.
+(b) Any funds granted under this section may not be used to replace existing funds. Funds
+granted under this section may be used to supplement  existing funds. An organization may use funds
+to support existing programs or to establish new programs.
+(5) The department may expend funds from the account for:
+(a) The administration of the  account as provided for in the legislatively approved budget, as
+that term is defined in ORS 291.002,  for the department in support of directing a statewide policy
+on homelessness that ensures use of evidence-based and  emerging practices, service equity in fund-
+ing and local planning processes.
+(b) The development of technical assistance and training resources  for organizations developing
+and operating  emergency shelters as defined in ORS 197.782 and transitional housing accommo-
+dations as described in ORS 197.746.
+(6) The department  shall utilize outcome-oriented contracting processes and evidence-based and
+emerging practices for account program funds, including evidence-based and  emerging practices for
+serving rural communities.
+(7) Twenty-five percent of moneys deposited in the account pursuant to ORS  294.187 are dedi-
+cated to the emergency housing assistance program for assistance to veterans who are homeless  or
+at risk of becoming homeless.
+SECTION 2.
+This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency  is declared to exist, and this 2025 Act takes effect
+on its passage.
+Enrolled House Bill 3970 (HB 3970-A) Page 2
+Passed by House June 23, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate June 26, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 3970 (HB 3970-A) Page 3
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 197.746, ORS 197.782, ORS 291.002, ORS 294.187, ORS 401.977, ORS 458.650
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `6295b6f15dbcc45328ae1183747d37d0479b3e9a9d7b4991eebeb29b3619cda8` (snapshot `_meta/snapshots/measure-2025r1-hb3970-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3970/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `f4a1e17cc2bc7a5f758ef21e69f52185f4089d2b5598c06d3b9f26cd2a9bdd64` (snapshot `_meta/snapshots/measure-2025r1-hb3970-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3970/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3970` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

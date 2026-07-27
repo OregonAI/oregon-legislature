@@ -1,0 +1,223 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3604
+Sponsored by Representative ANDERSEN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act protects some animal entities from civil and criminal laws if they accept,  hold
+or get rid of cats as required by the Act. (Flesch Readability Score: 63.0).
+Establishes defenses to the crimes of theft  and animal abandonment, and immunity for civil li-
+ability, for an entity that takes possession, keeps or disposes of a cat as provided by the Act.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to animal rescue  entities; amending ORS 164.035 and 167.340; and prescribing an effective
+date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 164.035 is amended to read:
+164.035. (1) In  a prosecution for theft it is a defense that the defendant acted under an honest
+claim of right, in that:
+(a) The defendant was unaware that the property was that of another; or
+(b) The defendant reasonably believed  that the defendant was entitled to the property involved
+or had a right to acquire or dispose of it as the defendant did.
+(2) In a prosecution for extortion committed by instilling in the victim a fear  that the victim or
+another person would be charged with a crime, it is a defense that the defendant reasonably believed
+the threatened charge to be true and that the  sole purpose of the defendant was to compel or induce
+the victim to take reasonable action to make good the wrong which was the subject of the  threat-
+ened charge.
+(3) In a prosecution for theft by receiving, it is a defense that the defendant received,  retained,
+concealed or disposed of the property with the intent of restoring it to the owner.
+(4) It is a defense that the property involved was that of the defendant’s spouse, unless  the
+parties were not living together as spouses in a marriage and were  living in separate abodes at the
+time of the alleged theft.
+(5) In a prosecution for theft, it is a defense that:
+(a) The defendant is an animal holding agency, or an employee, volunteer or  other agent
+acting on behalf of an animal holding agency; and
+(b) The defendant complied with the provisions of section 3 of this 2025 Act.
+SECTION 2.
+ ORS 167.340 is amended to read:
+167.340. (1) A person commits the crime of animal abandonment if the person  intentionally,
+knowingly, recklessly or with criminal negligence leaves a domestic animal or an  equine at a lo-
+cation without providing minimum care.
+(2) It  is no defense to the crime defined in subsection (1) of this section that the defendant
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3748
+HB 3604
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+abandoned the animal at or near an  animal shelter, veterinary clinic or other place of shelter if the
+defendant did not make reasonable arrangements for the care of the animal.
+(3) In a prosecution for the crime defined in  subsection (1) of this section, it is a defense
+that:
+(a) The defendant is an animal holding agency, or an employee, volunteer or  other agent
+acting on behalf of an animal holding agency; and
+(b) The defendant returned a cat to the location where  the cat was found in accordance
+with section 3 of this 2025 Act.
+[(3)] (4) Animal abandonment is a Class B misdemeanor.
+SECTION 3.
+(1) As used in this section:
+(a) “Animal holding  agency” means an animal rescue entity, as defined in ORS 609.415,
+that is a nonprofit organization and that operates out of a physical building,  with a published
+address, that is open to the public at least five days per week.
+(b) “Nonprofit organization”  means an organization described in section 501(c)(3) of the
+Internal Revenue Code that is exempt from income tax under section 501(a) of the Internal
+Revenue Code.
+(2) An animal holding  agency, or the employee, volunteer or other agent acting on behalf
+of an animal holding agency, that takes possession of, keeps or disposes  of a cat as provided
+in this section is immune from civil liability for conduct described in this section.
+(3) Upon taking possession of a cat, an animal  holding agency shall verify whether the
+person who transferred the cat to the animal holding agency believes the cat is unowned,
+stray or abandoned.  If the person believes the cat is unowned, stray or abandoned, the ani-
+mal holding agency shall:
+(a) Keep the cat in a facility operated by the animal holding agency that  meets the re-
+quirements established by the State  Department of Agriculture by rule for that type of fa-
+cility;
+(b) Within 24 hours of taking possession of the cat,  post on the animal holding agency’s
+website a description and photograph of the cat and the location and date the cat was found;
+(c) Report to the  municipal animal control agency in the area where the cat was found;
+and
+(d) Take other reasonable steps  to notify the owner of the cat that the animal holding
+agency has possession of the cat, including providing notice as described  in subsection (5)
+of this section, as applicable.
+(4)(a) An animal holding agency shall keep a cat for at least:
+(A) Three business days if  the cat is without a license, identification tag or microchip;
+or
+(B) Five business days if the cat has a license, identification tag or microchip.
+(b) For purposes of this subsection, a business day is a day the animal holding agency  is
+open to the public.
+(5) If an  animal holding agency is able to identify the owner of a cat, the animal holding
+agency shall, as soon as is practicable, provide notice to the owner that includes:
+(a) The address of the facility where the cat is being kept;
+(b) The procedures for redeeming  the cat, including any reasonable fees established by
+the animal holding agency; and
+(c) The consequences for failure to timely redeem the cat.
+[2]
+HB 3604
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+(6) Notwithstanding ORS 98.005, if  the owner of a cat does not redeem the cat during the
+holding period required by subsection (4) of this section, and the animal holding agency pro-
+vided notice as  required by subsection (5) of this section, if the animal holding agency was
+able to identify the owner, the animal holding agency shall be the owner  of the cat after the
+expiration of the holding period.
+(7) Upon taking ownership of a cat as  described in subsection (6) of this section, an ani-
+mal holding agency may  offer the cat for adoption, transfer the cat to another agency, re-
+turn the cat to the cat’s previous owner, return the cat  to the location where the cat was
+found or euthanize the cat.
+(8)(a) An animal holding agency shall provide any necessary medical care, as determined
+by a licensed veterinarian, to  a cat during the holding period described in subsection (4) of
+this section.
+(b) An animal holding agency shall provide species-appropriate preventative  health care,
+as directed by a  licensed veterinarian, including implementing protocols that strengthen re-
+sistance to disease and minimize exposure to disease.
+(c) An animal holding agency may euthanize a cat  before the expiration of the holding
+period described in subsection (4) of this section if a licensed  veterinarian determines that
+euthanasia is necessary  and the animal holding agency has exhausted all reasonable steps
+to notify the owner.
+(9) An animal holding agency shall keep, for a period  of at least one year, all records
+required by ORS 609.415 applicable  to a cat that an animal holding agency keeps or makes
+disposition of under this section, as well as a record of the  location where a cat was found
+and the name and address, if known, of the individual who found the cat.
+SECTION 4.
+This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

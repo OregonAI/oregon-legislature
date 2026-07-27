@@ -1,0 +1,179 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2365
+Sponsored by Representative LEVY B; Representatives OSBORNE, RESCHKE, WRIGHT, Senators NASH,  WEBER
+(Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  lets more health care providers get the rural provider income tax credit. (Flesch
+Readability Score: 65.7).
+Adds mental  health professionals, naturopathic physicians, pharmacists, medical laboratory sci-
+entists and medical laboratory technicians to the  types of providers eligible for the tax credit al-
+lowed to rural medical care providers. Removes the requirement of hospital  consulting privileges
+applicable to an optometrist claiming the credit.  Applies to tax years beginning on or after January
+1, 2026.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to rural medical provider tax credits; creating new provisions;  amending ORS 315.616 and
+315.619; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 315.616, as amended by section  47a, chapter 73, Oregon Laws 2024, is
+amended to read:
+315.616. [ A resident or nonresident individual who is certified as eligible  under ORS 442.561,
+442.562, 442.563 or 442.564, and is licensed as a physician under ORS chapter 677, licensed as a  phy-
+sician associate under  ORS 677.505 to 677.525, licensed as a nurse practitioner under ORS 678.375 to
+678.390, licensed as a certified registered nurse anesthetist as defined in ORS 678.010, licensed  as a
+dentist under ORS chapter 679 or licensed as an optometrist under ORS 683.010 to 683.340 is entitled
+to the tax credit described in ORS 315.613  even if not a member of the hospital medical staff if the
+Office of Rural Health certifies that the individual: ]
+[(1) Is engaged for at least 20 hours per week, averaged over the  month, during the tax year in a
+rural practice; and ]
+[(2)(a) If a physician or a physician associate, can cause a patient to be admitted to the hospital; ]
+[(b) If a certified registered nurse anesthetist, is employed  by or has a contractual relationship with
+one of the hospitals described in ORS 315.613 (1); or ]
+[(c) If an optometrist, has consulting privileges with a  hospital listed in ORS 315.613 (1). This
+paragraph does not apply to an optometrist who qualifies as a “frontier rural  practitioner,” as defined
+by the Office of Rural Health. ]
+A resident or nonresident individual who is certified as eligible  under ORS 442.561,
+442.562, 442.563 or 442.564 or section 3 of  this 2025 Act is entitled to the tax credit described
+in ORS 315.613, regardless of whether the individual is  a member of the hospital medical
+staff, if:
+(1) The individual is:
+(a) A physician licensed under ORS chapter 677;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 601
+HB 2365
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) A physician associate licensed under ORS 677.505 to 677.525;
+(c) A nurse practitioner licensed under ORS 678.375 to 678.390;
+(d) A certified registered nurse anesthetist licensed under ORS 678.279;
+(e) A dentist licensed under ORS chapter 679;
+(f) An optometrist licensed under ORS 683.010 to 683.340;
+(g) A naturopathic physician licensed under ORS chapter 685;
+(h) A pharmacist licensed under ORS chapter 689;
+(i) A psychologist licensed under ORS 675.010 to 675.150;
+(j) A clinical social worker licensed under ORS 675.530;
+(k) A licensed professional counselor licensed under ORS 675.715;
+(L) A marriage and family therapist licensed under ORS 675.715; or
+(m) A medical laboratory scientist  or medical laboratory technician certified by the
+American Society for Clinical Pathology, or its successor organization; and
+(2) The Office of Rural Health  certifies that the individual is engaged for at least 20 hours
+per week, averaged over the month, during the tax year in a rural practice and:
+(a) If  a physician or physician associate, can cause a patient to be admitted to the hos-
+pital; or
+(b) If a certified registered nurse anesthetist, is employed by or  has a contractual re-
+lationship with one of the hospitals described in ORS 315.613 (3).
+SECTION 2.
+The amendments to ORS 315.616 by section 1 of this 2025 Act apply  to tax
+years beginning on or after January 1, 2026.
+SECTION 3. (1) The Office of Rural Health shall establish criteria for certifying the fol-
+lowing individuals as eligible for the tax credit authorized by ORS 315.616:
+(a) Naturopathic physicians licensed under ORS chapter 685;
+(b) Pharmacists licensed under ORS chapter 689;
+(c) Psychologists licensed under ORS 675.010 to 675.150;
+(d) Clinical social workers licensed under ORS 675.530;
+(e) Licensed professional counselors licensed under ORS 675.715;
+(f) Marriage and family therapists licensed under ORS 675.715; and
+(g) Medical laboratory scientists and medical laboratory technicians  certified by the
+American Society for Clinical Pathology, or its successor organization.
+(2) The office shall certify an individual described in subsection (1) of  this section as eli-
+gible for the tax credit authorized by  ORS 315.616 if, after receiving the individual’s applica-
+tion for the credit, the office finds that the individual:
+(a) Is or  will be providing, to one or more rural communities, the services the individual’s
+license or certification authorizes the individual to provide; and
+(b) Otherwise meets the eligibility criteria established by the office.
+SECTION 4.
+ ORS 315.619 is amended to read:
+315.619. A member of the medical staff of a  type C hospital who meets the requirements of ORS
+315.616 [(1) and] (2)(a) is entitled to the tax credit described in ORS 315.613 if:
+(1) The hospital is isolated due to geographic conditions, complies with rules relating  to emer-
+gency response and is subject to such other special factors as the Office of Rural Health  may pre-
+scribe; and
+(2) The hospital is designated by the Office  of Rural Health as being subject to particular
+problems in recruiting and retaining medical  staff and is located in an area that is medically
+[2]
+HB 2365
+1
+2
+3
+4
+underserved.
+SECTION 5.
+This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

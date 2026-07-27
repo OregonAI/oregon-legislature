@@ -1,0 +1,626 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb539
+title: 'SB 539 (2025R1): Requires a hospital or the hospital''s health system to report annually to the
+  Oregon Health Authority certain information regarding facility fees that are charged or billed for patient
+  visits at the hospital''s or health system''s hospital-based facilities.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 539
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB539/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: ff7d8a465db4370f2def5c85736f133c69d0a38ddcfcd85d3220061df3746a59
+snapshot_id: measure-2025r1-sb539-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 171.725
+  - ORS 174.109
+  - ORS 183.310
+  - ORS 183.745
+  - ORS 24.115
+  - ORS 40.460
+  - ORS 416.540
+  - ORS 430.335
+  - ORS 430.620
+  - ORS 441.026
+  - ORS 442.015
+  - ORS 442.400
+  - ORS 442.602
+  - ORS 442.994
+  - ORS 443.205
+  - ORS 443.400
+  - ORS 443.415
+  - ORS 646.639
+  - ORS 646A.670
+  - ORS 646A.677
+  - ORS 759.720
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 539
+prefix_meaning: Senate Bill
+catch_line: Requires a hospital or the hospital's health system to report annually to the Oregon Health
+  Authority certain information regarding facility fees that are charged or billed for patient visits
+  at the hospital's or health system's hospital-based facilities.
+minority_catch_line: null
+measure_summary: "\tDigest: Makes a hospital or health system report to the OHA on facility fees that\
+  \ are charged or billed for certain patient visits. Requires that patients be given a notice on facility\
+  \ fees that may be charged or billed. (Flesch Readability Score: 62.8). \n\tRequires a hospital or the\
+  \ hospital's health system to report annually to the Oregon Health Authority certain information regarding\
+  \ facility fees that are charged or billed for patient visits at the hospital's or health system's hospital-based\
+  \ facilities. \n\tRequires a hospital or the hospital's health system that charges a facility fee for\
+  \ a patient visit to provide a person notice of the facility fee. Requires a billing statement that\
+  \ includes a facility fee to include certain information. \n\tPermits a hospital or the hospital's health\
+  \ system to charge, bill or collect a facility fee only for services provided on campus or at a facility\
+  \ that includes an emergency department. Prohibits a hospital or the hospital's health system from charging,\
+  \ billing or collecting a facility fee for certain services. Punishes an action to collect or an attempt\
+  \ to collect a facility fee that is not permitted under the Act as an unlawful collection practice.\
+  \ \n\tPermits the Oregon Health Authority to impose a civil penalty for certain violations of the Act."
+relating_to: Relating to fees charged for services provided in hospital-based facilities.
+relating_to_full: Relating to fees charged for services provided in hospital-based facilities; creating
+  new provisions; and amending ORS 442.994 and 646.639.
+at_the_request_of: null
+lc_number: 1101
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-05-29T11:05:20'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 36222
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 171.725
+  - ORS 174.109
+  - ORS 183.310
+  - ORS 183.745
+  - ORS 24.115
+  - ORS 40.460
+  - ORS 416.540
+  - ORS 430.335
+  - ORS 430.620
+  - ORS 441.026
+  - ORS 442.015
+  - ORS 442.400
+  - ORS 442.602
+  - ORS 442.994
+  - ORS 443.205
+  - ORS 443.400
+  - ORS 443.415
+  - ORS 646.639
+  - ORS 646A.670
+  - ORS 646A.677
+  - ORS 759.720
+  from_relating_to_full:
+  - ORS 442.994
+  - ORS 646.639
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 539`.
+
+# SB 539 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 539, 2025 Regular Session (2025R1)
+- **LC number:** 1101
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-05-29T11:05:20
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 36222 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB539/Introduced>.
+
+## Summary
+
+**Catchline:** Requires a hospital or the hospital's health system to report annually to the Oregon Health Authority certain information regarding facility fees that are charged or billed for patient visits at the hospital's or health system's hospital-based facilities.
+
+**Relating to:** Relating to fees charged for services provided in hospital-based facilities.
+
+Digest: Makes a hospital or health system report to the OHA on facility fees that are charged or billed for certain patient visits. Requires that patients be given a notice on facility fees that may be charged or billed. (Flesch Readability Score: 62.8). 
+ Requires a hospital or the hospital's health system to report annually to the Oregon Health Authority certain information regarding facility fees that are charged or billed for patient visits at the hospital's or health system's hospital-based facilities. 
+ Requires a hospital or the hospital's health system that charges a facility fee for a patient visit to provide a person notice of the facility fee. Requires a billing statement that includes a facility fee to include certain information. 
+ Permits a hospital or the hospital's health system to charge, bill or collect a facility fee only for services provided on campus or at a facility that includes an emergency department. Prohibits a hospital or the hospital's health system from charging, billing or collecting a facility fee for certain services. Punishes an action to collect or an attempt to collect a facility fee that is not permitted under the Act as an unlawful collection practice. 
+ Permits the Oregon Health Authority to impose a civil penalty for certain violations of the Act.
+
+**RelatingToFull (verbatim upstream field):** Relating to fees charged for services provided in hospital-based facilities; creating new provisions; and amending ORS 442.994 and 646.639.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 539
+Sponsored by Senator PATTERSON, Representatives MANNIX,  BOWMAN; Senator GORSEK, Representatives
+SOSA, WALTERS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes a hospital or health system report to the OHA on facility  fees that are charged
+or billed for certain patient  visits. Requires that patients be given a notice on facility fees that may
+be charged or billed. (Flesch Readability Score: 62.8).
+Requires a hospital or  the hospital’s health system to report annually to the Oregon Health
+Authority certain information regarding facility fees that  are charged or billed for patient visits at
+the hospital’s or health system’s hospital-based facilities.
+Requires a hospital or the hospital’s health system that charges a facility  fee for a patient visit
+to provide a person notice of the facility fee. Requires a billing statement  that includes a facility fee
+to include certain information.
+Permits a hospital or the hospital’s health system to charge, bill or collect a  facility fee only for
+services provided on campus or at a facility that includes an emergency department. Prohibits  a
+hospital or the hospital’s health system from charging, billing or collecting a  facility fee for certain
+services. Punishes an action to collect  or an attempt to collect a facility fee that is not permitted
+under the Act as an unlawful collection practice.
+Permits the Oregon Health  Authority to impose a civil penalty for certain violations of the Act.
+A BILL FOR AN ACT
+Relating to fees charged for  services provided in hospital-based facilities; creating new provisions;
+and amending ORS 442.015, 442.994 and 646.639.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 to 4 of this 2025 Act are added to and  made a part of ORS chapter
+442.
+SECTION 2. (1) A hospital licensed in this state or the hospital’s health system shall re-
+port annually to the Oregon Health Authority,  in the form and manner prescribed by the
+authority, the name and location of each hospital-based  facility, or facility owned or operated
+by the hospital or the hospital’s health system, that provides services for which a facility  fee
+is charged or billed, and, for the prior calendar year, the following information:
+(a) For each facility:
+(A) The number of patient visits at the facility;
+(B) The number, total amount and range of facility fees paid by Medicare, Medicaid and
+insurers to the facility;
+(C) The number, total amount and range  of facility fees paid by patients who are insured
+as cost-sharing obligations, and by patients who pay the facility fee out-of-pocket; and
+(D) The amount of revenue  from facility fees received by the hospital or the hospital’s
+health system from the facility; and
+(b) For the hospital or the hospital’s health system:
+(A) The total amount of  revenue from facility fees received by the hospital or the
+hospital’s health system;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1101
+(B) A description of the 10 services performed  or provided that generated the greatest
+amount of revenue  from facility fees and the total amount of facility fees received for each
+of the services; and
+(C) The top 10 services  performed or provided, for which facility fees are charged, based
+on patient volume.
+(2) The authority shall post the information reported  under subsection (1) of this section
+on its website in a location that is easily accessible by the public.
+SECTION 3.
+(1) As used in this section and sections 2 and 4 of this 2025 Act:
+(a) “Campus” means:
+(A) The physical area immediately adjacent  to a hospital’s main buildings and other areas
+and structures that are not strictly contiguous to the  main buildings but are located within
+250 yards of the main buildings; or
+(B) Any other area that has been determined on  an individual case basis by the Centers
+for Medicare and Medicaid Services to be part of a hospital’s campus.
+(b) “Facility fee”  means any fee charged or billed by a hospital or the hospital’s health
+system for outpatient hospital services provided at a hospital-based facility that is:
+(A) Intended to compensate the  hospital or health system for the operational expenses
+of the hospital or health system; and
+(B) Separate and distinct from a professional fee.
+(c) “Hospital-based facility” means a facility that is owned or operated, in whole  or in
+part, by a hospital or the hospital’s health system and where hospital or health services are
+provided.
+(d) “Professional fee” means any fee charged or billed  by a provider for health services
+provided at a hospital-based facility.
+(2) If  a hospital licensed in this state or the hospital’s health system charges a facility
+fee for a patient visit at  a hospital-based facility that is located on or off of the hospital’s
+campus, the hospital or health system shall provide notice of the facility fee:
+(a) To a person at the time that the person schedules an appointment with  the hospital-
+based facility;
+(b) In writing, to a person at the  time that the person arrives at the hospital-based fa-
+cility for an appointment; and
+(c) In writing, to a person who receives emergency  health services at the hospital-based
+facility, as soon as practicable after the person is stabilized, or to a representative of  the
+person as soon  as practicable after the person is stabilized if the person is unable to rea-
+sonably read and understand the notice.
+(3) A notice provided under subsection  (2) of this section must include the following in-
+formation, in plain language and in a manner that may be understood by a  person who does
+not possess special knowledge regarding hospital or health system facility fees:
+(a) An explanation that the hospital-based facility  charges a facility fee that is in addition
+to and separate from the professional fee charged by  providers at the hospital-based facility;
+(b)(A) The amount of the person’s potential financial liability for  any facility fee likely
+to be charged; or
+(B) If the exact type and extent of the health services to be provided are  not known or
+the terms of a person’s health insurance coverage are not known with reasonable  certainty,
+an estimate  of the person’s financial liability for any facility fee likely to be charged, based
+on typical or average facility fees charged at the hospital-based facility;
+(c) An explanation that the person may incur financial liability that is greater  than the
+person would incur if the health services were provided at a  facility that was not a
+hospital-based facility; and
+(d) Notice of the person’s right to  request a reduction in the facility fee and instructions
+for the person on how to request a reduction.
+(4) A billing statement from a hospital, health system  or hospital-based facility that in-
+cludes a charge for a facility  fee must clearly identify and itemize the fee as a facility fee
+that is billed in addition to, or separately from, any professional fee that is billed.
+SECTION 4.
+(1) A hospital or the hospital’s health system  may not charge, bill or collect
+a facility fee except for health services that are provided:
+(a) At a facility that is located on the hospital’s campus; or
+(b) At a hospital-based facility of the hospital that includes an emergency department.
+(2) Notwithstanding subsection (1) of this section, a hospital or the  hospital’s health
+system may not charge, bill or collect a facility fee for  services billed using a for services
+billed using  the American Medical Association’s Current Procedural Terminology code for
+“evaluation and management” or “assessment and management” or a similar code.
+(3) A person that collects or attempts to collect a facility fee  that may not be charged,
+billed or collected under this section is subject to ORS 646.639.
+SECTION 5.
+Notwithstanding section 4 of this 2025 Act, if a hospital  or the hospital’s
+health system has a contract with an insurer that is in effect on  the date this 2025 Act takes
+effect, and that  requires reimbursement for facility fees prohibited by section 4 of this 2025
+Act, the hospital or the hospital’s health system may continue to collect reimbursement
+from the insurer for the facility fees until the expiration or renewal of the contract.
+SECTION 6.
+ ORS 442.015 is amended to read:
+442.015. As used in ORS chapter 441 and this chapter, unless the context requires otherwise:
+(1) “Acquire” or “acquisition” means obtaining equipment,  supplies, components or facilities by
+any means, including purchase, capital or operating  lease, rental or donation, for the purpose of
+using such equipment, supplies, components or  facilities to provide health services in Oregon. When
+equipment or other materials are obtained  outside of this state, acquisition is considered to occur
+when the equipment or other materials begin to be used in Oregon for the provision of  health ser-
+vices or when such services are offered for use in Oregon.
+(2) “Affected persons” has the same meaning as given to “party” in ORS 183.310.
+(3)(a) “Ambulatory surgical  center” means a facility or portion of a facility that operates ex-
+clusively  for  the purpose of providing surgical services to patients who do not require
+hospitalization  and  for whom the expected duration of services does not exceed 24 hours following
+admission.
+(b) “Ambulatory surgical center” does not mean:
+(A) Individual or group practice offices  of private physicians or dentists that do not contain a
+distinct area used for outpatient surgical treatment on a regular and organized basis, or  that only
+provide surgery routinely provided in a physician’s  or dentist’s office using local anesthesia or
+conscious sedation; or
+(B) A portion of a licensed hospital designated for outpatient surgical treatment.
+(4) “Delegated credentialing agreement” means a written agreement  between an originating-site
+hospital and a distant-site hospital that provides that the medical staff of the  originating-site hospi-
+tal will rely upon the credentialing and  privileging decisions of the distant-site hospital in making
+recommendations to the  governing body of the originating-site hospital as to whether to credential
+a telemedicine provider, practicing at the distant-site hospital either as an employee or under  con-
+tract, to provide telemedicine services to patients in the originating-site hospital.
+(5) “Develop” means to undertake those activities that on their completion will result in  the
+offer of a new institutional health service or the incurring of  a financial obligation, as defined under
+applicable state law, in relation to the offering of such a health service.
+(6) “Distant-site hospital” means the hospital where a telemedicine provider, at  the time the
+telemedicine provider is providing telemedicine services,  is practicing as an employee or under
+contract.
+(7) “Expenditure”  or “capital expenditure” means the actual expenditure, an obligation to an
+expenditure, lease or similar arrangement in lieu of an expenditure, and the  reasonable value of a
+donation or grant in lieu of an expenditure but not including any interest thereon.
+(8) “Extended stay center” means a facility licensed in accordance with ORS 441.026.
+(9) “Freestanding birthing center” means a facility licensed for the primary purpose of  per-
+forming low risk deliveries.
+(10) “Governmental unit” means  the state, or any county, municipality or other political subdi-
+vision, or any related department, division, board or other agency.
+(11) “Gross revenue”  means the sum of daily hospital service charges, ambulatory service
+charges, ancillary service charges and other operating revenue. “Gross revenue” does not include
+contributions, donations, legacies or bequests made to a hospital without restriction by the donors.
+(12)(a) “Health care facility” means:
+(A) A hospital;
+(B) A long term care facility;
+(C) An ambulatory surgical center;
+(D) A freestanding birthing center;
+(E) An outpatient renal dialysis facility; or
+(F) An extended stay center.
+(b) “Health care facility” does not mean:
+(A) A residential facility licensed by the Department of Human Services or the Oregon Health
+Authority under ORS 443.415;
+(B) An establishment furnishing primarily domiciliary care as described in ORS 443.205;
+(C) A residential facility licensed or approved under the rules of the Department of Corrections;
+(D) Facilities established by ORS 430.335 for treatment of substance abuse disorders; or
+(E) Community mental health programs or community developmental  disabilities programs es-
+tablished under ORS 430.620.
+(13) “Health  maintenance organization” or “HMO” means a public organization or a private
+organization organized under the laws of any state that:
+(a) Is a qualified HMO under section 1310(d) of the U.S. Public Health Services Act; or
+(b)(A) Provides or otherwise makes available to enrolled  participants health care services, in-
+cluding at least the following basic health care services:
+(i) Usual physician services;
+(ii) Hospitalization;
+(iii) Laboratory;
+(iv) X-ray;
+(v) Emergency and preventive services; and
+(vi) Out-of-area coverage;
+(B) Is compensated, except for copayments, for the provision of the basic health  care services
+listed in subparagraph (A)  of this paragraph to enrolled participants on a predetermined periodic
+rate basis; and
+(C) Provides physicians’ services primarily directly  through physicians who are either employees
+or partners of such organization,  or through arrangements with individual physicians or one or more
+groups of physicians organized on a group practice or individual practice basis.
+(14) “Health services” means clinically related  diagnostic, treatment or rehabilitative services,
+and includes alcohol, drug or controlled  substance abuse and mental health services that may be
+provided either directly or indirectly on an inpatient or ambulatory patient basis.
+(15) “Health system” means:
+(a) A parent corporation of  one or more hospitals and any entity affiliated with the par-
+ent corporation through ownership, governance, control or membership; or
+(b) A hospital and any entity affiliated with the hospital through ownership, governance,
+control or membership.
+[(15)] (16) “Hospital” means:
+(a) A facility with an organized medical staff and a permanent building  that is capable of pro-
+viding 24-hour inpatient care to two or more individuals who  have an illness or injury and that
+provides at least the following health services:
+(A) Medical;
+(B) Nursing;
+(C) Laboratory;
+(D) Pharmacy; and
+(E) Dietary; or
+(b) A special inpatient care facility as that term is defined by the authority by rule.
+[(16)] (17) “Institutional health services” means health services  provided in or through health
+care facilities and the entities in or through which such services are provided.
+[(17)] (18) “Intermediate care facility” means a facility that provides, on a regular basis,
+health-related care and services to individuals who do not require  the degree of care and treatment
+that a hospital or skilled nursing facility is designed to provide, but who because  of their mental
+or physical condition require  care and services above the level of room and board that can be made
+available to them only through institutional facilities.
+[(18)(a)] (19)(a) “Long term care facility” means a permanent facility with  inpatient beds, pro-
+viding:
+(A) Medical services, including nursing services but excluding surgical procedures  except as
+may be permitted by the rules of the Director of Human Services; and
+(B) Treatment for two or more unrelated patients.
+(b) “Long term care facility” includes skilled nursing  facilities and intermediate care facilities
+but does not include facilities licensed and operated pursuant to ORS 443.400 to 443.455.
+[(19)] (20) “New hospital” means:
+(a) A facility that did  not offer hospital services on a regular basis within its service area within
+the prior 12-month period and is initiating or proposing to initiate such services; or
+(b) Any replacement of an existing hospital that involves a  substantial increase or change in the
+services offered.
+[(20)] (21) “New skilled nursing or intermediate care service  or facility” means a service or fa-
+cility that did not offer long term care services on a regular basis by or  through the facility within
+the prior 12-month period and is initiating  or proposing to initiate such services. “New skilled
+nursing or intermediate care service  or facility” also includes the rebuilding of a long term care
+facility, the relocation of buildings that are a part of a  long term care facility, the relocation of long
+term care beds from one  facility to another or an increase in the number of beds of more than 10
+or 10 percent of the bed capacity, whichever is the lesser, within a two-year period.
+[(21)] (22) “Offer” means that the health care facility holds itself out as capable  of providing,
+or as having the means for the provision of, specified health services.
+[(22)] (23) “Originating-site hospital” means a hospital in which  a patient is located while re-
+ceiving telemedicine services.
+[(23)] (24) “Outpatient renal dialysis facility” means a facility that provides  renal dialysis ser-
+vices directly to outpatients.
+[(24)] (25) “Person” means an individual, a trust or estate, a  partnership, a corporation (includ-
+ing associations, joint  stock companies and insurance companies), a state, or a political subdivision
+or instrumentality, including a municipal corporation, of a state.
+[(25)] (26) “Skilled nursing facility” means a facility or a distinct part of a facility, that is pri-
+marily engaged in providing to inpatients skilled nursing care and  related services for patients who
+require medical or nursing care, or  an institution that provides rehabilitation services for the re-
+habilitation of individuals who are injured or sick or who have disabilities.
+[(26)] (27) “Telemedicine” means the provision of health services to patients by physicians and
+health care practitioners from a distance using electronic communications,  including synchronous
+technologies to facilitate an exchange of information between a patient  and physician or health care
+practitioner in real time or asynchronous technologies to facilitate an exchange of  information be-
+tween a patient and a physician or health care practitioner in other than real time.
+SECTION 7.
+ ORS 442.994 is amended to read:
+442.994. (1) Any health care facility or health system  that fails to perform as required  in ORS
+442.602 and 442.400 to 442.463 or 442.855  or section 2 or  3 of this 2025 Act [, and] or rules of the
+Oregon Health Authority may be subject to a civil penalty.
+(2) The Oregon Health Authority shall adopt a  schedule of penalties not to exceed $500 per day
+of violation, determined by the severity of the violation.
+(3) Civil penalties under this section shall be imposed as provided in ORS 183.745.
+(4) Civil penalties imposed under this section may be remitted or mitigated upon such terms  and
+conditions as the authority considers proper and consistent with the public health and safety.
+(5) Civil  penalties incurred under any law of this state are not allowable as costs for the purpose
+of rate determination or for reimbursement by a third-party payer.
+SECTION 8.
+ ORS 646.639, as amended by  section 29, chapter 100, Oregon Laws 2024, is
+amended to read:
+646.639. (1) As used in this section and ORS 646A.670:
+(a) “Charged-off debt” means a debt that a creditor treats as a loss  or expense and not as an
+asset.
+(b) “Consumer” means a natural person  who purchases or acquires property, services or credit
+for personal, family or household purposes.
+(c) “Consumer transaction” means a transaction between  a consumer and a person that sells,
+leases or provides property, services or credit to consumers.
+(d) “Credit” means a right that  a creditor grants to a consumer to defer payment of a debt, to
+incur a debt and defer payment of the debt, or to purchase  or acquire property or services and defer
+payment for the property or services.
+(e) “Creditor” means a person that, in the ordinary course  of the person’s business, engages in
+consumer transactions that result in a consumer owing a debt to the person.
+(f) “Debt” means an obligation or alleged obligation that arises out of a consumer transaction.
+(g)(A) “Debt buyer” means a person that regularly engages  in the business of purchasing
+charged-off debt for the purpose  of collecting the charged-off debt or hiring another person to collect
+or bring legal action to collect the charged-off debt.
+(B) “Debt buyer” does not include a person that acquires charged-off debt as an  incidental part
+of acquiring a portfolio of debt that is predominantly not charged-off debt.
+(h) “Debt collector” means a person that  by direct or indirect action, conduct or practice col-
+lects or attempts to collect a debt owed, or alleged to be owed, to a creditor or debt buyer.
+(i) “Debtor” means a consumer who owes or allegedly owes  a debt, including a consumer who
+owes an amount that differs from the amount that a debt collector attempts to collect  or that a debt
+buyer purchased or attempts to collect.
+(j) “Legal action” means a lawsuit, mediation, arbitration or  any other proceeding in any court,
+including a small claims court.
+(k) “Original creditor” means the last entity that extended credit to a consumer to purchase
+goods or services, to lease goods or as a loan of moneys.
+(L) “Person” means an individual, corporation, trust, partnership, incorporated  or
+unincorporated association or any other legal entity.
+(2) A debt collector engages  in an unlawful collection practice if the debt collector, while col-
+lecting or attempting to collect a debt, does any of the following:
+(a) Uses or threatens to use force or violence to  cause physical harm to a debtor or to the
+debtor’s family or property.
+(b) Threatens arrest or criminal prosecution.
+(c) Threatens to seize, attach or sell a debtor’s  property if doing so requires a court order and
+the debt collector does not disclose that seizing, attaching or selling  the debtor’s property requires
+prior court proceedings.
+(d) Uses profane, obscene or  abusive language in communicating with a debtor or the debtor’s
+family.
+(e) Communicates with a debtor or  any member of the debtor’s family repeatedly or continuously
+or at times known to be inconvenient to the debtor  or any member of the debtor’s family and with
+intent to harass or annoy the debtor or any member of the debtor’s family.
+(f) Communicates or threatens to communicate with a debtor’s  employer concerning the nature
+or existence of the debt.
+(g) Communicates without a debtor’s permission or threatens  to communicate with the debtor
+at the debtor’s place of employment if the place  of employment is other than the debtor’s residence,
+except that the debt collector may:
+(A) Write to the debtor at the  debtor’s place of employment if a home address is not reasonably
+available and if the envelope does not reveal that the communication is from a  debt collector other
+than the person that provided the goods, services or credit from which the debt arose.
+(B) Telephone a debtor’s place of employment without informing any other  person of the nature
+of the call or identifying the caller as  a debt collector but only if the debt collector in good faith
+has made an unsuccessful attempt to telephone the debtor  at the debtor’s residence during the day
+or during the evening between the hours of 6 p.m. and 9 p.m. The  debt collector may not contact
+the debtor  at the debtor’s place of employment more frequently than once each business week and
+may not telephone the debtor at the debtor’s place of employment if the debtor notifies the  debt
+collector not to telephone at the debtor’s place of  employment or if the debt collector knows or has
+reason to know that the debtor’s employer prohibits the debtor  from receiving such communication.
+For the purposes of this subparagraph, any language in any agreement, contract or  instrument that
+creates or is evidence of the debt and that purports to authorize telephone calls at the debtor’s place
+of employment does not give permission to the debt collector to call the debtor at the  debtor’s place
+of employment.
+(h) Communicates with a debtor  in writing without clearly identifying the name of the debt
+collector, the name of  the person, if any, for whom the debt collector is attempting to collect the
+debt and the  debt collector’s business address, on all initial communications. In subsequent commu-
+nications involving multiple accounts, the debt collector may eliminate the name of the  person, if
+any, for whom the debt collector is attempting  to collect the debt and substitute the term
+“various” in place of the person’s name.
+(i) Communicates with a debtor orally without disclosing to the debtor,  within 30 seconds after
+beginning the communication, the name of the individual who is initiating the  communication and
+the true purpose of the communication.
+(j) Conceals the true purpose of the communication so as to cause  any expense to a debtor in
+the form of long distance telephone  calls, telegram fees, additional charges for wireless communi-
+cation or other charges the debtor might incur by using a medium of communication.
+(k) Attempts or threatens to enforce a right or remedy while knowing or having reason to know
+that the right or remedy does not exist, or threatens to take any action that the  debt collector in
+the regular course of business does not take.
+(L) Uses any form of communication that simulates legal  or judicial process or that appears to
+be authorized, issued or approved  by a governmental agency, governmental official or an attorney
+at law if the corresponding governmental agency, governmental official or attorney at law has not
+in fact authorized or approved the communication.
+(m) Represents that an existing debt may be increased by the addition  of attorney fees, investi-
+gation fees or any other fees or charges if the fees or charges may  not legally be added to the ex-
+isting debt.
+(n) Collects or attempts to collect, by  any means, including through legal action, interest or
+other charges or fees that exceed  the actual debt unless the agreement, contract or instrument that
+creates the debt expressly authorizes, or a  law expressly allows, the interest or other charges or
+fees. A debt collector may not be held liable in any  action brought under this paragraph if the debt
+collector shows by a preponderance of evidence that the violation was  not intentional and resulted
+from a bona fide error notwithstanding  the maintenance of procedures reasonably adapted to avoid
+any such error. The fact that the  debt collector obtains a judgment for less than the amount sought
+in the complaint, or fails to obtain a judgment at all, does not by  itself constitute evidence of a vi-
+olation of this paragraph.
+(o) Threatens to assign or sell a debtor’s account and misrepresents or implies that  the debtor
+would lose any defense to the debt or would be subjected to harsh,  vindictive or abusive collection
+tactics.
+(p) Uses the seal or letterhead of a public official or a public agency, as those terms are  defined
+in ORS 171.725.
+(q) Collects or attempts  to collect any debt that the debt collector knows, or after exercising
+reasonable diligence would know, arises  from medical expenses that qualify for reimbursement under
+the Oregon Health Plan or under Medicaid, except that:
+(A) The debt collector does not  engage in an unlawful collection practice if the debt collector
+can produce an affidavit or certificate from the  original creditor that shows that the original cred-
+itor complied with Oregon Health Authority  rules barring payments for services that Medicaid fee-
+for-service plans or contracted health care plans cover; and
+(B) For purposes of  this paragraph, a prepaid managed care health services organization, a co-
+ordinated care organization or a public body, as defined in ORS 174.109, or an agent or assignee of
+the organization  or public body, is not a debt collector if the organization or public body seeks to
+collect a debt that arises under ORS 416.540.
+(r) Collects or attempts to collect a debt that the debt collector knows, or  after exercis-
+ing reasonable diligence would know, arises from a facility fee that may not be charged, billed
+or collected under section 4 of this 2025 Act.
+[(r)] (s) Files a legal action to collect or files a legal action to attempt  to collect a debt if the
+debt collector  knows, or after exercising reasonable diligence would know, that an applicable statute
+of limitations bars the collection or the collection attempt.
+[(s)] (t) Collects  or attempts to collect or threatens to collect a debt by any means, including
+through legal action, if the debt collector knows, or through the exercise of reasonable  care should
+know, that the debt does not exist or is not owed by the debtor. A debt collector may  not be held
+liable in any action brought under this paragraph if the debt collector shows by a preponderance
+of evidence that the violation was not intentional  and resulted from a bona fide error
+notwithstanding the maintenance of procedures reasonably adapted to avoid any such error. The fact
+that the debt collector obtains a judgment for less than  the amount sought in the complaint or fails
+to obtain a judgment at all does not by itself establish a violation of this paragraph.
+[(t)] (u) Collects or attempts to collect a debt if the debt collector  is a debt buyer, or is acting
+on a debt buyer’s behalf, and collects or attempts to collect purchased debt before providing to  a
+debtor, within  30 days after the date of the debtor’s request, all of the documents listed in subsection
+(4)(b) of this section.
+[(u)] (v) Collects or attempts to collect a debt without complying with the requirements  of ORS
+646A.677.
+(3) A debt collector engages in an  unlawful collection practice if the debt collector, by use of
+any direct or indirect action, conduct or practice, enforces or attempts to enforce an  obligation
+made void and unenforceable by the provisions of ORS 759.720 (3) to (5).
+(4) A debt buyer or debt collector acting on behalf of a debt  buyer engages in an unlawful col-
+lection practice if the debt buyer or debt collector:
+(a) Files legal action against a  debtor or files legal action to attempt to collect a debt if the debt
+buyer or  debt collector knows or after exercising reasonable diligence would know that an applica-
+ble statute of limitations bars the legal action to collect or the legal action  to attempt to collect the
+debt;
+(b) Brings a legal action  against a debtor or otherwise brings a legal action to attempt to collect
+a debt without possessing business records that satisfy the requirements of ORS 40.460 (6), or of ORS
+24.115, if the record is  a foreign judgment, that establish the nature and the amount of the debt and
+that include:
+(A) The original creditor’s name, written as the original creditor used the  name in dealings with
+the debtor;
+(B) The name and address of the debtor;
+(C) The name, address and telephone number of the person that owns the debt and  a statement
+as to whether the person is a debt buyer;
+(D) The last four digits of the original  creditor’s account number for the debt, if the original
+creditor’s account number for the debt had four or more digits;
+(E) A detailed and itemized statement of:
+(i) The amount the debtor last paid on the debt, if  the debtor made a payment, and the date of
+the payment;
+(ii) The amount and date of the debtor’s last payment on the debt  before the debtor defaulted
+or before the debt became charged-off debt;
+(iii) The balance due on the debt on the date on which the debt became charged-off debt;
+(iv) The amount and rate  of interest, any fees and any charges that the original creditor im-
+posed, if the debt buyer or debt collector knows the amount, rate, fee or charge;
+(v) The amount and rate of interest, any fees and any charges that the debt buyer or any pre-
+vious owner of the debt imposed, if the debt buyer or debt collector knows the amount, rate, fee  or
+charge;
+(vi) The attorney fees the debt buyer or  debt collector seeks, if the debt buyer or debt collector
+expects to recover attorney fees; and
+(vii) Any other fee, cost or charge the debt buyer seeks to recover;
+(F) Evidence that the debt buyer and only the debt buyer owns the debt;
+(G) The date on which the debt buyer purchased the debt; and
+(H) A copy of the agreement between the original creditor and the debtor that is either:
+(i) The contract or other writing the  debtor signed that created and is evidence of the original
+debt; or
+(ii) A copy of the most recent monthly statement that shows a purchase transaction  or balance
+transfer or  the debtor’s last payment, if the debtor made a payment, if the debt is a credit card debt
+or other debt for which a contract or other writing that is evidence of the debt does not exist;
+(c) Fails to provide to a debtor, after the debt buyer or  debt collector receives payment in cash
+or the debtor requests the receipt, a receipt that:
+(A) Shows  the name of the creditor or creditors for whom the debt buyer or debt collector re-
+ceived the payment and, if the  creditor is not the original creditor, the account number that the
+original creditor assigned; and
+(B) States clearly whether the debt buyer or debt  collector accepts the payment as payment in
+full or as a full and final compromise of the debt and, if not,  the balance remaining on the debt after
+the payment;
+(d) Collects or  attempts to collect a debt before providing, in response to a debtor’s request, the
+documents required under paragraph (b) of this subsection. A debt  buyer or a debt collector that
+acts on the debt buyer’s behalf does not engage  in an unlawful collection practice under this para-
+graph if the debt buyer or debt collector collects or attempts to collect a  debt after providing the
+required documents to the debtor; or
+(e) Uses any  direct or indirect action, conduct or practice to violate a provision of this section
+or ORS 646A.670.
+(5) A debt collector is not acting on  a debt buyer’s behalf, and is not subject to the duties to
+which a debt buyer is subject under this section and ORS 646A.670, if  the debt collector collects or
+attempts to collect a debt on behalf of an owner  that retains a direct interest in the debt or if the
+debt is not a debt that a debt buyer purchased.
+SECTION 9.
+Sections 3 and 4 of this 2025 Act apply to services  provided at a hospital-
+based facility on or after the effective date of this 2025 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 442.994, ORS 646.639
+- From bill text (Introduced version): ORS 171.725, ORS 174.109, ORS 183.310, ORS 183.745, ORS 24.115, ORS 40.460, ORS 416.540, ORS 430.335, ORS 430.620, ORS 441.026, ORS 442.015, ORS 442.400, ORS 442.602, ORS 442.994, ORS 443.205, ORS 443.400, ORS 443.415, ORS 646.639, ORS 646A.670, ORS 646A.677, ORS 759.720
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `ff7d8a465db4370f2def5c85736f133c69d0a38ddcfcd85d3220061df3746a59` (snapshot `_meta/snapshots/measure-2025r1-sb539-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB539/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 539` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

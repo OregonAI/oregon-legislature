@@ -1,0 +1,212 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3666
+Sponsored by Representatives MARSH, MANNIX; Representative KROPF
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes a power  company apply to the PUC to show that the company carries out wildfire
+safety. Allows COUs to apply. (Flesch Readability Score: 63.2).
+Requires an electric public utility to  apply for a wildfire safety certification. Allows a
+consumer-owned utility to apply for a wildfire safety certification. Directs the Public Utility  Com-
+mission to issue a certification if the  applicant has and implements, as applicable, a wildfire pro-
+tection plan or wildfire mitigation plan and meets certain requirements.
+Establishes a statutory presumption that a utility that has been issued a wildfire safety  certi-
+fication is acting reasonably with regard to wildfire safety practices and materially  consistent with
+the utility’s wildfire protection plan or wildfire mitigation plan. Provides that a certification is  valid
+for 12 months.
+Declares legislative findings with regard to human-caused wildfires and utilities.
+A BILL FOR AN ACT
+Relating to utility wildfire safety practices.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Sections 2 to 4 of this 2025 Act are added to and  made a part of ORS chapter
+757.
+SECTION 2. (1) The Legislative Assembly finds that:
+(a) Human-caused wildfires are a  risk to people, property and the natural environment
+in Oregon;
+(b) Electric utilities play an important  role in reducing and mitigating the risks of
+human-caused wildfires;
+(c) Electric utilities are required to have and operate in compliance  with a risk-based
+wildfire protection plan under ORS 757.963 or risk-based wildfire mitigation plan under ORS
+757.966;
+(d) Consistent with ORS 756.040, the Public Utility Commission has the  jurisdiction and
+powers to supervise and regulate public utilities with regard to wildfire safety; and
+(e) State agencies, through regulations and orders, are  allowed to establish standards of
+care that apply to entities that the state agencies regulate.
+(2) It is the intent of the Legislative Assembly:
+(a) To establish wildfire safety standards that apply to public utilities; and
+(b) To vest the Public Utility Commission with the authority to implement and enforce
+the wildfire safety standards in a manner that is consistent with state law.
+SECTION 3.
+(1) A public utility  that provides electricity must file an application with the
+Public Utility Commission for a wildfire safety certification.
+(2) The commission shall issue a wildfire safety certification to  an applicant if the appli-
+cant provides documentation that demonstrates that the applicant has a wildfire protection
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1054
+HB 3666
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+plan approved under ORS 757.963 and the applicant:
+(a) Is prudently and reasonably implementing the  wildfire protection plan and has taken
+actions identified in the wildfire protection plan. The documentation must describe and verify
+the development and adoption  of the wildfire protection plan’s components and measures by
+documenting the  applicant’s wildfire mitigation expenditures and physical evidence of the
+work taken in the development  and adoption of the wildfire protection plan’s components and
+measures.
+(b) Has identified any actions identified in the wildfire protection plan that have not been
+implemented, provided adequate justification  for not taking such actions and established
+dates by which such actions will be taken.
+(c) Has demonstrated a commitment to wildfire safety.  An applicant may demonstrate a
+commitment to wildfire safety through various means, such as:
+(A) Participating in workshops convened by the commission under ORS 757.960.
+(B) Performing an internal wildfire safety culture assessment and adopting  a process to
+implement the findings of the assessment.
+(C) Providing wildfire safety training to employees.
+(D) Conducting annual safety performance  reviews establishing processes to facilitate the
+reporting of risks and management accountability.
+(E) Implementing other wildfire mitigation measures.
+(d) Has taken timely  and reasonable actions on matters within the applicant’s control,
+that are consistent with safety rules adopted by the commission under ORS 757.035, to  ad-
+dress any outstanding deficiencies reported by  the commission during the commission’s most
+recent audit and safety inspection of the applicant’s infrastructure.
+(e) Has met any other requirements adopted by the commission.
+(3) The commission may adopt requirements under subsection (2)(e) of this section that
+help verify that an applicant  is applying risk-based wildfire mitigation standards and proce-
+dures to protect the  public safety, reduce risks to utility customers and promote electric
+system resilience to wildfire damage. To verify  that the applicant is meeting requirements
+adopted under subsection (2)(e) of this section, an applicant may  provide reviews, assess-
+ments or  evaluations conducted by third parties that demonstrate the applicant’s efforts
+regarding risk reduction and development of a resilient electric system.
+(4) The commission shall approve or deny an application for a  wildfire safety certification
+within 90 days after receipt of the  application. If the commission finds that an application
+does not include documentation sufficient to approve the application, the commission may
+allow the applicant to provide additional documentation or require the applicant to refile.
+(5) A wildfire safety certification establishes that an applicant is acting reasonably  with
+regard to wildfire safety practices and  materially consistent with the applicant’s wildfire
+protection plan or wildfire mitigation plan and is valid  for a period of 12 months from the
+date the wildfire safety certification is issued.
+(6) Failure of the commission to act in a timely manner on an application for a  wildfire
+safety certification is  not admissible evidence in a civil proceeding relating to allegations that
+a utility that provides electricity caused or contributed to a wildfire.
+(7) The commission, in consultation with the State Forestry Department, the Department
+of the State Fire  Marshal and academic institutions with expertise in evidence-based wildfire
+mitigation strategies, shall adopt rules for the implementation of  this section. The rules
+[2]
+HB 3666
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+must include:
+(a) Reporting and auditing requirements  for determining an applicant’s implementation
+of the applicant’s wildfire protection plan approved under ORS 757.963.
+(b) The timing, procedures, reporting requirements and standards for  the review of an
+application for a wildfire safety certification.
+SECTION 4.
+(1) As used in this section,  “consumer-owned utility” has the meaning given
+that term in ORS 757.600.
+(2) A consumer-owned utility  may file an application for a wildfire safety certification
+under section 3 of this 2025 Act.
+(3) The Public Utility Commission shall approve an application filed by  a consumer-owned
+utility if the application meets all  requirements for a wildfire safety certification under sec-
+tion 3 of this 2025 Act, except:
+(a) Rather than a wildfire protection plan, the applicant shall be required  to have and
+implement a wildfire mitigation plan approved under ORS 757.966; and
+(b) An application filed by a consumer-owned utility is not subject  to any requirements
+adopted by the commission under section 3 (2)(e) of this 2025 Act.
+(4) A decision by a consumer-owned utility to not apply for a  wildfire safety certification
+is not admissible evidence in a civil proceeding relating  to allegations that a consumer-owned
+utility caused or contributed to a wildfire.
+SECTION 5. A public utility that provides electricity  shall file the public utility’s first
+application under section 3 of this 2025 Act no later than December 31, 2027.
+[3]

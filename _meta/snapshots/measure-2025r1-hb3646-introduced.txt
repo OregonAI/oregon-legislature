@@ -1,0 +1,135 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3646
+Sponsored by Representative TRAN; Representative MARSH, Senators PATTERSON, SOLLMAN, WEBER
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Lets state agencies that buy goods or services prefer doing  so from businesses owned
+by their employees. (Flesch Readability Score: 60.1).
+Adds entities in which employees of the entity own at least 50 percent of  the ownership interest
+in the entity directly or through an employee stock ownership plan to the list of sources  to which
+a contracting agency may give preference in procuring goods or services for public contracts.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to contract preferences in public procurement for employee-owned  businesses; creating new
+provisions; amending ORS 279A.128; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 279A.128 is amended to read:
+279A.128. (1) As used in this section, “services” means services as defined  in ORS 279A.010
+(1)(kk) and personal services designated under ORS 279A.055.
+(2)(a) Notwithstanding provisions of law requiring a  contracting agency to award a contract to
+the lowest responsible bidder or  best proposer or provider of a quotation, a contracting agency that
+uses public funds to procure goods or services for a public use under ORS  chapter 279B may give
+preference to:
+(A) Procuring goods  or services [ provided by ] from one of the following sources, if the goods
+or services cost not more than five  percent more than goods or services available from
+contractors other than the source:
+(i) A benefit company that  is incorporated, organized, formed or created under ORS 60.754, that
+submits with a bid or proposal a certificate of existence issued under ORS 60.027  and has the ma-
+jority of the benefit  company’s regular, full-time workforce located in this state at the time the
+benefit company submits the bid or proposal[ , if the goods or services cost not more  than five percent
+more than goods or services available from a contractor that is not a benefit company ]; or
+(ii) An entity  in which the entity’s employees own at least 50 percent of the ownership
+interest in the entity directly or through an employee stock ownership plan, as  defined in
+26 U.S.C. 4975(e)(7), as in effect on the effective date of this 2025 Act, that  the United States
+Internal Revenue Service recognizes as a qualified plan; or
+(B) Procuring goods that are fabricated or processed, or services  that are performed, entirely
+within this state if the goods or  services cost not more than 10 percent more than goods that are
+not fabricated or processed, or services that are not performed, entirely within this state.
+(b) If more than one bidder or proposer qualifies for  a preference described in paragraph (a) of
+this subsection, the contracting agency may give a further preference to a  qualifying bidder or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3680
+HB 3646
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+proposer that resides in or is headquartered in this state.
+(c) A contracting agency may give a preference to an entity  described in paragraph
+(a)(A)(ii) of this subsection only if  the entity submits with a bid or proposal for a public
+contract evidence that shows that employees of the  entity own at least 50 percent of the
+entity’s ownership interest directly or through an employee stock ownership plan.
+[(c)] (d) The contracting agency by order may set a higher  cost  percentage than the  cost  per-
+centages set forth in paragraph (a)  of this subsection if the contracting agency, in a written deter-
+mination to support the order, finds good  cause to set the higher  cost  percentage and explains the
+contracting agency’s reasons and evidence for the finding.
+(3) Notwithstanding ORS 279C.320 (1), subsection (2) of this section does  not apply to emergency
+work, minor alterations, ordinary repairs or maintenance work for public improvements or to  other
+construction contracts described in ORS 279C.320 (1).
+SECTION 2.
+The amendments to ORS 279A.128 by section  1 of this 2025 Act apply to
+procurements that a contracting agency advertises  or solicits or, if the contracting agency
+does not advertise or solicit  the procurement, to a public contract into which the contracting
+agency enters on or after the effective date of this 2025 Act.
+SECTION 3. (1) The amendments to ORS 279A.128 by section 1  of this 2025 Act become
+operative on January 1, 2026.
+(2) The Attorney General, the Director of the Oregon  Department of Administrative
+Services, the Director of Transportation and  a contracting agency that adopts rules under
+ORS 279A.065 or 279A.070 may  take any action before the operative date specified in sub-
+section (1) of this section that is necessary to enable the Attorney General, the directors  or
+the contracting  agency to undertake and exercise, on and after the operative date specified
+in subsection (1) of this section, all of the duties, functions and powers conferred on the
+Attorney General, the directors or the contracting agency by the  amendments to ORS
+279A.128 by section 1 of this 2025 Act.
+SECTION 4.
+This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

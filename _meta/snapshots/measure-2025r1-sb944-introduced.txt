@@ -1,0 +1,159 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 944
+Sponsored by COMMITTEE ON HUMAN SERVICES
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act removes a requirement that an older foster child must pay rent if  living alone.
+The Act allows DHS to exempt certain  older foster children from having to have a criminal back-
+ground check. (Flesch Readability Score: 60.1).
+Modifies independent living requirements for older foster children.
+Authorizes the Department of Human Services to exempt  an individual placed in a household
+by the department before the individual  turned 18 from applicable background check requirements
+after the individual attains 18 years of age.
+A BILL FOR AN ACT
+Relating to older foster children; amending ORS 418.016 and 418.475.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 418.475 is amended to read:
+418.475. (1) Within the limit of moneys  appropriated therefor, the Department of Human Services
+may establish, license, certify or authorize independent residence facilities for  unmarried persons
+who:
+(a)(A) Are at least 16 years of age and not older than 20 years of age;
+(B) Have been placed in at least one substitute care resource;
+(C) Have been determined by the department  to possess the skills and level of responsibility
+required for the transition to adulthood;
+(D) Have received permission from the  appropriate juvenile court, if they are wards of the court;
+and
+(E) Have been determined  by the department to be suitable for an independent living program;
+or
+(b)(A) Are at least 16 years of age and not older than 24 years of age;
+(B) At any time after  attaining 14 years of age experienced homelessness for an aggregate of
+six months;
+(C) While experiencing homelessness as described in subparagraph (B) of  this paragraph, re-
+ceived services from an organization contracted by the department  to provide services to homeless
+persons or from a host home, as defined by the department by rule; and
+(D) Last  received the services described in subparagraph (C) of this paragraph after attaining
+16 years of age.
+(2) Independent residence  facilities shall provide independent housing arrangements with coun-
+seling services and minimal supervision available from at least one counselor.
+(3) Each resident shall be required to maintain a department approved independent living plan
+consisting of education, employment or volunteer activities,  or a combination thereof[ , and shall be
+required to pay a portion or all of the resident’s  housing expenses and other support costs. The de-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3799
+SB 944
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+partment may approve an exception to the requirements of this subsection for reasons of  temporary loss
+of employment or of other financial support ].
+(4) The  department may make payment grants directly to persons enrolled in an independent
+living program who, at a minimum, meet the requirements described  in subsection (1)(a)(A) to (C)
+or (b) of this section for food, shelter, clothing, transportation and incidental expenses.  The payment
+grants shall  be subject to an agreement between the person and the department that establishes a
+budget of expenses.
+(5) The department may establish cooperative  financial management agreements with a person
+enrolled in an independent living  program and for that purpose may enter into joint bank accounts
+requiring two signatures for withdrawals. The management agreements or  joint accounts may not
+subject the department  or any counselor involved to any liability for debts or other responsibilities
+of the person.
+(6) The department shall make periodic reports to the juvenile court as required  by the court
+regarding any ward of the court who is enrolled in an independent living program.
+(7) The enrollment of a person in  an independent living program in accordance with the pro-
+visions of subsection (1) of this section or making payment grants under subsection (4) of this section
+does not remove or limit in any way the obligation of the parent of the person  to pay support as
+ordered by a court under the provisions of ORS 419B.400.
+SECTION 2.
+ ORS 418.016 is amended to read:
+418.016. (1) To protect the health and safety of children who are in the custody of the Depart-
+ment of Human Services and  who may be placed in a foster home or adoptive home or with a rela-
+tive caregiver, the department shall adopt rules pursuant to ORS 181A.195 and ORS chapter  418 to
+require that criminal records checks be conducted under ORS 181A.195 on:
+(a) All persons who seek to be foster parents, adoptive parents or relative caregivers; and
+(b) Any other individuals over 18 years of age who will be in the  household of the foster parent,
+adoptive parent or relative caregiver.
+(2) Rules adopted under subsection (1) of this section shall include:
+(a) A requirement that persons who have been convicted of crimes listed  in the rules adopted
+by the Oregon Department of Administrative Services under ORS 181A.215 are disqualified  from
+becoming a foster parent, adoptive parent or relative caregiver; and
+(b) A provision that the Department of Human Services may approve a  person who has been
+convicted of certain crimes listed in the rules if the person demonstrates to the department that:
+(A) The person  possesses the qualifications to be a foster parent or adoptive parent regardless
+of having been convicted of a listed crime; or
+(B) The disqualification would  create emotional harm to the child for whom the person is seek-
+ing to  become a foster parent, adoptive parent or relative caregiver and placement of the child with
+the person would be a safe placement that is in the best interests of the child.
+(3) The Department of Human Services by rule may exempt an individual  from the
+criminal records check requirement under subsection (1)(b) of this section if the  individual
+was placed in the household by the department before the individual attained  18 years of age.
+[2]

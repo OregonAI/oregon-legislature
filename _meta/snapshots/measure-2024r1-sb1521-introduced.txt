@@ -1,0 +1,351 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+82nd OREGON LEGISLATIVE ASSEMBLY--2024 Regular Session
+Senate Bill 1521
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Human Services)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes the way that DHS makes a place that  houses and takes care of people
+who are elderly or who have disabilities use a certain tool to make sure that the place has enough
+staff to meet the needs of the people  who live there. The Act changes the meaning  of “child in
+care” that is used when  DHS looks into complaints of abuse to include more types of children who
+have been taken from their homes by DHS. (Flesch Readability Score: 67.3).
+Modifies the enforcement by the  Department of Human Services of the requirements for resi-
+dential care facilities to use acuity-based staffing tools to ensure sufficient staffing levels to meet
+residents’ scheduled and unscheduled needs at all times.
+Modifies the definition of “child in care” for purposes of child abuse statutes to include  a child
+who is in  the protective custody of the department and is receiving certain care or services from
+the department, its agents, contractors or employees or any other person acting in loco parentis.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to care for vulnerable individuals; amending  ORS 418.257 and 443.889; and declaring an
+emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 443.889 is amended to read:
+443.889. (1) The Department of Human Services shall adopt rules:
+(a) Establishing minimum requirements  for an acuity-based staffing tool adopted by a facility and
+the frequency with which a facility must reassess the facility’s  staffing patterns with the acuity-
+based staffing tool.
+(b) Establishing requirements for the design of an acuity-based staffing tool  adopted by a facility
+to ensure that  the tool recommends staffing levels, intensity and qualifications necessary to meet the
+scheduled and unscheduled needs of all residents 24 hours a day, seven days a week.
+(c) For carrying out subsection [ (4)] (5) of this section.
+(2) Before finalizing any  changes to rules adopted under subsection (1)(a) or (b) of this
+section, to promote quality care or sufficient staffing levels the department  shall assess the
+administrative and operational impact on facilities and on the safety and rights of the resi-
+dents and staff of facilities.
+[(2)] (3) The department shall assess the staffing levels  of a facility, at a minimum, each time the
+department conducts a survey, license approval or renewal or an  investigation into a complaint re-
+garding:
+(a) Abuse of a resident;
+(b) Injury to a resident;
+(c) Resident safety; or
+(d) Staffing levels.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 78
+SB 1521
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(3)] (4)  The assessment under subsection  [ (2)] (3)  of this section must include a determination
+of whether the facility is:
+(a) Using an acuity-based staffing tool  that meets the requirements of rules adopted under sub-
+section (1) of this section;
+(b) Recalculating the facility’s staffing patterns using  the acuity-based staffing tool with the
+frequency required by rules adopted under subsection (1) of this section;
+(c) Consistently staffing to the levels,  intensity and qualifications indicated by the acuity-based
+staffing tool; and
+(d) Consistently meeting the scheduled and unscheduled needs of all residents  24 hours a day,
+seven days a week.
+[(4)] (5) If the department finds, during an  assessment under subsection [ (2)] (3)  of this section,
+that a facility is:
+(a) Not using an acuity-based staffing tool, the department shall require the facility to adopt  the
+acuity-based staffing tool developed by the department  until the facility has in place  the facility’s
+own acuity-based staffing tool .
+(b) Using an  acuity-based staffing tool but is not meeting the scheduled and unscheduled
+needs of all residents 24 hours a day, seven days a week, the department shall:
+(A) Place a condition on the facility’s license as provided in ORS 441.736 (1)(b)(A),  (B), (C) or (F)
+[until the facility implements an acuity-based staffing tool and meets  the minimum staffing levels iden-
+tified by the department as necessary to meet  the scheduled and unscheduled needs of all residents 24
+hours a day, seven days a week; and ];
+(B) Establish staffing levels in a corrective action plan;
+[(B)] (C)  Impose fines, penalties  or conditions required by law or that the department deems
+necessary to compel compliance ; and
+(D) Continuously monitor the facility for compliance with the  staffing levels indicated by
+the acuity-based staffing tool for six months  or until the department removes the condition
+placed under subparagraph (A) of this paragraph .
+(c) Using an acuity-based staffing tool  but [ is not consistently staffing to the levels, intensity and
+qualifications indicated by the tool or is not recalculating the facility’s staffing  patterns with the tool
+at the frequency required by rule ] the tool does not meet the requirements of  the rules adopted
+under subsection (1)(a) and (b)  of this section or the facility is not reassessing its staffing
+patterns at the frequency required by the rules , the department shall:
+(A) Assess whether the facility is meeting the scheduled and unscheduled needs of all residents
+24 hours a day, seven days a week;  and
+(B) [ Place a condition on  the facility’s license as provided in ORS 441.736 (1)(b)(A), (B), (C) or (F)
+until the facility implements an acuity-based staffing  tool and demonstrates the facility’s ability to meet
+the scheduled  and unscheduled needs of all residents 24 hours a day, seven days a week; and ] Impose
+fines, penalties or conditions on the facility’s license that are required by law or that the
+department deems necessary to compel compliance.
+[(C) Continuously  monitor the facility, for at least six months, for compliance with the staffing
+levels, intensity and qualifications indicated by the acuity-based staffing tool. ]
+[(d) Not meeting the scheduled and unscheduled needs of all residents 24 hours a day,  seven days
+a week, the department shall establish staffing standards in a corrective action plan and place  a con-
+dition on the facility’s license as provided in ORS 441.736 (1)(b)(A), (B), (C) or (F) until  the facility
+complies with the corrective action plan. ]
+[2]
+SB 1521
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 2.
+ ORS 418.257 is amended to read:
+418.257. As used in ORS 418.257 to 418.259:
+(1) “Abuse” means one or more of the following:
+(a) Any physical injury to a child in care caused by other than accidental means, or that appears
+to be at variance with the explanation given of the injury.
+(b) Neglect of a child in care.
+(c) Abandonment, including desertion or willful forsaking of a child  in care or the withdrawal
+or neglect of duties and obligations owed a child in care by a child-caring  agency, caretaker, certi-
+fied foster home, developmental disabilities residential facility or other person.
+(d) Willful infliction of physical pain or injury upon a child in care.
+(e) An act that constitutes a crime under ORS  163.375, 163.405, 163.411, 163.415, 163.425, 163.427,
+163.465, 163.467 or 163.525.
+(f) Verbal abuse.
+(g) Financial exploitation.
+(h) Sexual abuse.
+(i) The use of restraint or involuntary  seclusion of a child in care in violation of ORS 418.521
+or 418.523.
+(2) “Certified foster home” means a foster home certified by  the Department of Human Services
+and subject to ORS 418.625 to 418.645.
+(3)(a) “Child in care” means a person under 21 years of age who :
+(A) Is residing in or receiving care or services from:
+[(A)] (i) A child-caring agency or proctor foster home subject to  ORS 418.205 to 418.327, 418.470,
+418.475 or 418.950 to 418.970;
+[(B)] (ii) A certified foster home; or
+[(C)] (iii) A developmental disabilities residential facility ; or
+(B) Is in the protective custody  of the department and is receiving supervision, care,
+transportation or other services from:
+(i) The department or any  person acting on behalf of the department as an agent, con-
+tractor or employee; or
+(ii) Any person or entity if the  supervision, care, transportation or other services are
+consistent with those typically provided by a  parent or guardian, a certified foster home, a
+developmental disabilities residential facility, a child-caring agency, a proctor  foster home
+or any other person or entity acting in loco parentis .
+(b) “Child in care” does not include a  person under 21 years of age who is residing in or re-
+ceiving services from  any of the entities listed in paragraph (a) of this subsection when the care
+provided is in the home of the child by the child’s parent.
+(4) “Developmental disabilities residential facility” means  a residential facility or foster home
+for children who are 17 years of age or younger and  receiving developmental disability services that
+is subject to ORS 443.400 to 443.455, 443.830 and 443.835.
+(5)(a) “Financial exploitation” means:
+(A) Wrongfully taking the assets, funds or property  belonging to or intended for the use of a
+child in care.
+(B) Alarming a child in care by conveying a threat to wrongfully take or appropriate moneys
+or property of the child in care if  the child would reasonably believe that the threat conveyed would
+be carried out.
+[3]
+SB 1521
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(C) Misappropriating, misusing or transferring without authorization any moneys from any ac-
+count held jointly or singly by a child in care.
+(D) Failing to use  the income or assets of a child in care effectively for the support and main-
+tenance of the child in care.
+(b) “Financial exploitation” does not include age-appropriate  discipline that may involve the
+threat to withhold, or the withholding of, privileges.
+(6) “Intimidation” means compelling or deterring conduct by  threat. “Intimidation” does not in-
+clude age-appropriate discipline that may involve the threat to withhold privileges.
+(7) “Involuntary seclusion” has the meaning given that term in ORS 418.519.
+(8) “Law enforcement agency” means:
+(a) Any city or municipal police department.
+(b) Any county sheriff’s office.
+(c) The Oregon State Police.
+(d) Any district attorney.
+(e) A police department established by a university under ORS 352.121 or 353.125.
+(9) “Neglect” means:
+(a) Failure to provide the care, supervision or services necessary to maintain the physical and
+mental health of a child in care; or
+(b) The failure of a child-caring  agency, proctor foster home, certified foster home, develop-
+mental disabilities residential facility, caretaker or other person to make a  reasonable effort to
+protect a child in care from abuse.
+(10) “Restraint” has the meaning given that term in ORS 418.519.
+(11) “Services” includes but is not  limited to the provision of food, clothing, medicine, housing,
+medical services, assistance with bathing or personal hygiene or any other  service essential to the
+well-being of a child in care.
+(12) “Sexual abuse” means:
+(a) Sexual harassment, sexual exploitation or inappropriate  exposure to sexually explicit mate-
+rial or language;
+(b) Any sexual contact between a child in care and an employee  of a child-caring agency,
+proctor  foster  home, certified foster home, developmental disabilities residential facility, caretaker
+or other person responsible for the provision of care or services to a child in care;
+(c) Any sexual contact between a person and a child in  care that is unlawful under ORS chapter
+163 and not subject to a defense under that chapter; or
+(d) Any sexual contact that is achieved through force, trickery, threat or coercion.
+(13) “Sexual contact” has the meaning given that term in ORS 163.305.
+(14) “Sexual exploitation” means sexual exploitation as described in ORS 419B.005 (1)(a)(E).
+(15) “Verbal abuse” means to threaten significant physical or  emotional harm to a child in care
+through the use of:
+(a) Derogatory or inappropriate names, insults, verbal assaults, profanity or ridicule; or
+(b) Harassment, coercion, threats, intimidation,  humiliation, mental cruelty or inappropriate
+sexual comments.
+SECTION 3.
+This 2024 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2024 Act takes effect
+on its passage.
+[4]

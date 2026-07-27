@@ -1,0 +1,226 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 296
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Senate Interim Committee on Health Care)
+CHAPTER .................................................
+AN ACT
+Relating to hospital discharge challenges; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+The Department of Human Services and the Oregon  Health Authority shall
+create a dashboard to measure the amount of time it takes the  department, the authority
+and area agencies, as defined in ORS 410.040, to complete eligibility determinations for long
+term care services and supports provided through the medical assistance program.
+SECTION 2.
+(1) The Department of  Human Services and the Oregon Health Authority
+shall conduct an operational review  to streamline eligibility determinations for long term
+care services and supports provided  through the medical assistance program. In conducting
+the operational review, the department and the authority shall:
+(a) Conduct a baseline analysis, using data from the dashboard described in section  1 of
+this 2025 Act, of  average processing times for functional and financial assessments of indi-
+viduals in acute and post-acute care settings;
+(b) Develop,  in consultation with providers and stakeholders, benchmarks for improving
+processing times for functional and financial assessments  of individuals in acute and post-
+acute care settings;
+(c) Identify a target date  for the department and the authority to meet the benchmarks
+developed under this subsection;
+(d) Explore technologies, including the  automation of agency and provider workflows, to
+meet the benchmarks developed under this subsection;
+(e) Explore potential changes to staff assignments and workflows, including the creation
+of dedicated teams for complex cases, to meet the benchmarks developed  under this sub-
+section;
+(f) Develop and publish protocols for communication and  case management to be utilized
+when delays occur in conducting a functional or financial assessment of individuals in  acute
+and post-acute care settings;
+(g) Develop a decision  tree to help hospital staff navigate the processes used by the de-
+partment and the authority in conducting eligibility determinations; and
+(h) Explore payment model options for providing short-term, temporary coverage  while
+an eligibility determination is pending for individuals who are presumptively eligible for  long
+term care services and supports provided through the medical assistance program.
+Enrolled Senate Bill 296 (SB 296-B) Page 1
+(2) The department and  the authority shall submit a report in the manner provided by
+ORS 192.245, and may include recommendations for  legislation, to the interim committees
+of the Legislative Assembly related to health no later than August 15, 2026.
+SECTION 3. (1) As used in this section:
+(a) “Enhanced care services” means  intensive behavioral and rehabilitative mental health
+services provided to eligible seniors, persons with  physical disabilities or adults with mental
+illness who reside in a facility.
+(b) “Facility” means:
+(A) An adult foster home, as defined in ORS  443.705, that serves eligible seniors, persons
+with physical disabilities or adults with mental illness.
+(B) A residential care facility, as defined in ORS 443.400.
+(C) A residential treatment facility, as defined in ORS 443.400.
+(D) A residential treatment home, as defined in ORS 443.400.
+(c) “Specific needs contract” means a contract between the  Department of Human Ser-
+vices or the Oregon Health Authority and a facility to reimburse the facility at a higher rate
+for a resident whose care needs exceed  the level of services that the facility would typically
+provide.
+(2) The Department of Human Services and the Oregon Health Authority  shall study the
+regulatory framework  for facilities that serve residents who have complex medical or be-
+havioral health conditions. In conducting the study, the department and the authority shall:
+(a) Assess  the resources needed to expand existing enhanced care services and specific
+needs contracts statewide, including the public and private sector workforce needed to im-
+plement:
+(A) Any proposed expansion of enhanced care services or specific needs contracts; or
+(B) Other models for supporting facilities that serve residents who have complex medical
+or behavioral health conditions;
+(b) Evaluate the  impact on residents who have complex medical or behavioral health
+conditions of having separate licensing requirements for facilities licensed by:
+(A) The division of the department that provides services for  seniors and persons with
+physical disabilities; and
+(B) The authority; and
+(c) Review the use and impact of civil penalties assessed against facilities.
+(3) The department and  the authority shall submit a report in the manner provided by
+ORS 192.245, and may include recommendations for  legislation, to the interim committees
+of the Legislative Assembly related to health and human services no  later than August 15,
+2026.
+SECTION 4.
+(1) As used in this section, “adult foster home” has the  meaning given that
+term in ORS 443.705.
+(2)(a) The Department  of Human Services and the Housing and Community Services De-
+partment shall study:
+(A) Opportunities to offset the cost of  creating new adult foster homes and other
+community-based care settings; and
+(B) The  impact on adult foster homes and other community-based care settings of
+building code requirements, including the installation of automatic sprinkler systems.
+(b) The  departments shall submit a report in the manner provided by ORS 192.245, and
+may include recommendations for legislation, to the  interim committees of the Legislative
+Assembly related to health and human services no later than August 15, 2026.
+SECTION 5. (1) As used in this section:
+(a) “Coordinated care organization,” “dually eligible for Medicare  and Medicaid” and
+“medical assistance” have the meanings given those terms in ORS 414.025.
+(b) “Home health services” has the meaning given that term in ORS 443.014.
+(c) “In-home care services” has the meaning given that term in ORS 443.305.
+Enrolled Senate Bill 296 (SB 296-B) Page 2
+(d) “Medical  respite” means acute and post-acute medical care for individuals experienc-
+ing homelessness who are too ill or  frail to recover from a physical illness or injury but who
+do not require hospitalization.
+(e) “Medicare Advantage Plan” means  a health benefit plan under Part C of subchapter
+XVIII, chapter 7, Title 42 of the United States Code.
+(f) “Traditional health worker” has the meaning given that term in ORS 414.665.
+(2) The Department of Human Services and the Oregon Health Authority shall  study
+options to:
+(a) Coordinate and expand medical respite programs statewide, including by:
+(A) Partnering with coordinated care organizations and homeless services providers to
+expand medical respite programs through existing initiatives administered by coordinated
+care organizations;
+(B) Coordinating the delivery of  medical respite with the provision of housing supports
+through the Medicaid demonstration project under section 1115 of the  Social Security Act (42
+U.S.C. 1315);
+(C) Providing reimbursement for  home health services and in-home care services in
+shelters; and
+(D) Expanding medical  assistance to include medical respite and seeking any necessary
+federal approvals, including approval to allow  the state to receive federal financial partic-
+ipation in the costs of providing medical respite.
+(b) Partner with coordinated care organizations and insurers that  offer Medicare Ad-
+vantage Plans for individuals  who are dually eligible for Medicare and Medicaid to promote
+timely and appropriate hospital discharges, including by:
+(A) Requiring coordinated care organizations and insurers  that offer Medicare Advantage
+Plans for individuals who are dually eligible for Medicare  and Medicaid to provide more tar-
+geted care coordination and case management  for individuals who are being discharged from
+a hospital;
+(B) Strengthening the integration of hospital  discharge planning and the health-related
+social needs services approved for the Medicaid demonstration  project under section 1115 of
+the Social Security Act (42 U.S.C. 1315);
+(C) Strengthening coordinated  care organization use of traditional health worker net-
+works for care transition support; and
+(D) Promoting access to home modification services  and supports to enable an individual
+to discharge from the hospital to the individual’s home.
+(3) The department and  the authority shall submit a report in the manner provided by
+ORS 192.245, and may include recommendations for  legislation, to the interim committees
+of the Legislative Assembly related to health no later than August 15, 2026.
+SECTION 6.
+(1) As used in this section:
+(a) “Coordinated care  organization” and “medical assistance” have the meanings given
+those terms in ORS 414.025.
+(b) “Post-hospital extended  care benefit” means short-term medical assistance provided
+for an individual’s stay in  a skilled nursing facility to allow the individual to discharge from
+a hospital.
+(c) “Skilled nursing facility” has the meaning given that term in ORS 442.015.
+(2) The Oregon Health Authority shall establish a post-hospital extended care benefit to
+cover a medical assistance recipient’s stay in a skilled nursing facility for up to 100 days.
+(3) The authority shall incorporate the post-hospital extended care benefit under  this
+section into any contract  entered into between the authority and a coordinated care organ-
+ization.
+SECTION 7.
+Sections 2 to 5 of this 2025 Act are repealed on January 2, 2027.
+Enrolled Senate Bill 296 (SB 296-B) Page 3
+SECTION 8. Section 6 of this 2025 Act applies to contracts between a coordinated care
+organization and the Oregon Health Authority  entered into, amended or renewed on or after
+the operative date specified in section 10 of this 2025 Act.
+SECTION 9. No later than September 1, 2025, the Oregon Health Authority shall  request
+federal approval as necessary to carry out the provisions of section 6 of this 2025 Act.
+SECTION 10. (1) Section 6 of this 2025 Act becomes operative on the  date that the Cen-
+ters for Medicare and Medicaid Services approves the request made pursuant to section  9
+of this 2025 Act to carry out the provisions of section 6 of this 2025 Act.
+(2) The Oregon Health Authority  shall immediately notify the Legislative Counsel if the
+Centers for Medicare and Medicaid Services approves or disapproves, in whole or in  part, the
+request made pursuant to section 9 of this 2025 Act.
+SECTION 11. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Department of Human Services by section 1 (1), chapter  ___, Oregon Laws 2025
+(Enrolled Senate Bill 5526), for the biennium beginning July 1, 2025, for central  services, is
+increased by $2,135,440.
+SECTION 12. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Health  Authority by section 1 (1), chapter ___, Oregon Laws 2025 (En-
+rolled House Bill 5025), for the biennium beginning July 1, 2025,  for Medicaid, is increased by
+$1,666,753.
+SECTION 13. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Health Authority by section 1 (2), chapter ___,  Oregon Laws 2025 (En-
+rolled House Bill 5025), for the biennium beginning July 1, 2025, for behavioral health, is in-
+creased by $75,571.
+SECTION 14. Notwithstanding any other provision of law, the General Fund appropriation
+made to the Oregon Health Authority by section 1 (3), chapter ___,  Oregon Laws 2025 (En-
+rolled House Bill 5025), for the  biennium beginning July 1, 2025, for health policy and ana-
+lytics, is increased by $128,128.
+SECTION 15. Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 3 (1), chapter ___, Oregon Laws 2025 (Enrolled Senate  Bill
+5526), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from federal funds, excluding federal funds described in section 2, chapter ___, Oregon Laws
+2025 (Enrolled Senate Bill 5526), collected or  received by the Department of Human Services,
+for central services, is increased by $2,135,440.
+SECTION 16.
+Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 5 (1), chapter ___, Oregon Laws 2025 (Enrolled House Bill
+5025), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from federal funds, excluding federal funds described in section 2, chapter ___, Oregon Laws
+2025 (Enrolled House Bill 5025), collected or received by  the Oregon Health Authority, for
+Medicaid, is increased by $2,376,024.
+SECTION 17.
+Notwithstanding any other law limiting  expenditures, the limitation on ex-
+penditures established by section 5 (2), chapter ___, Oregon Laws 2025 (Enrolled  House Bill
+5025), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from federal funds, excluding federal funds described in section 2, chapter ___, Oregon Laws
+2025 (Enrolled House Bill 5025), collected  or received by the Oregon Health Authority, for
+behavioral health, is increased by $75,571.
+SECTION 18.
+Notwithstanding any other law  limiting expenditures, the limitation on ex-
+penditures established by section 5 (3), chapter ___, Oregon Laws 2025 (Enrolled House Bill
+5025), for the biennium beginning July 1, 2025, as the maximum limit for payment of expenses
+from federal funds, excluding federal funds described in section 2, chapter ___, Oregon Laws
+2025 (Enrolled House Bill 5025), collected or received by  the Oregon Health Authority, for
+health policy and analytics, is increased by $22,612.
+Enrolled Senate Bill 296 (SB 296-B) Page 4
+SECTION 19. This 2025 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency is declared to exist, and  this 2025 Act takes effect
+on its passage.
+Passed by Senate June 23, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 26, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 296 (SB 296-B) Page 5

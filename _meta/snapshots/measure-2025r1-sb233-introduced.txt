@@ -1,0 +1,90 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 233
+Sponsored by Senator MANNING JR (at the request of Jim Evangalista) (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act gives people more time to file claims for  injuries from health care. (Flesch
+Readability Score: 89.8).
+Extends the statute of ultimate repose for claims for  certain injuries from health care to 10
+years from the date of the treatment, omission or operation upon which the action is based.
+Applies retroactively to claims for which an action has not been commenced.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to the statute of  ultimate repose for claims for injuries from health care; creating new
+provisions; amending ORS 12.110; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 12.110 is amended to read:
+12.110. (1) An action for assault, battery, false imprisonment, or for any injury to the person or
+rights of another, not arising on contract, and not especially enumerated in this chapter,  shall be
+commenced within two years; provided, that in an action at law based upon fraud  or deceit, the
+limitation shall be deemed to commence only from the discovery of the fraud or deceit.
+(2) An action upon a statute for a forfeiture or penalty to the state or county shall be com-
+menced within two years.
+(3) An action for overtime or premium pay or for penalties or liquidated  damages for failure to
+pay overtime or premium pay shall be commenced within two years.
+(4) An action to recover damages  for injuries to the person arising from any medical, surgical
+or dental treatment, omission or operation shall be commenced within  two years from the date when
+the injury is first discovered or in the  exercise of reasonable care should have been discovered.
+However, notwithstanding the provisions of ORS 12.160, every such  action shall be commenced
+within [ five] 10 years from the date of the treatment, omission or operation upon which the  action
+is based or, if there has been no action commenced within [ five] 10 years because of fraud, deceit
+or misleading representation, then  within two years from the date such fraud, deceit or misleading
+representation is discovered or in the exercise of reasonable care should have been discovered.
+(5) An action,  arising from a nuclear incident, as defined in 42 U.S.C. 2014(q), that involves the
+release of radioactive material, excluding releases from acts of war, that causes bodily  injury, sick-
+ness or death, shall be commenced:
+(a) Within two  years from the time an injured person discovers or reasonably could have dis-
+covered the injury and the causal connection between the injury and the nuclear incident; or
+(b) Within two years from  any substantial change in the degree of injury to the person arising
+out of a nuclear incident.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3377
+SB 233
+1
+2
+3
+4
+5
+6
+7
+SECTION 2.
+The amendments to ORS 12.110 by section 1 of this  2025 Act apply to claims
+arising before, on or after the effective date of this  2025 Act, for which an action has not
+been commenced before the effective date of this 2025 Act.
+SECTION 3. This 2025 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2025 Act takes effect
+on its passage.
+[2]

@@ -1,0 +1,281 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 85
+Printed pursuant to  Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules,  indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Natural Resources and Wildfire)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act directs the State Fire Marshal to  create a grant program to help property
+owners with wildfire resilience. The Act creates a fund related to the grant program. The  Act di-
+rects the State Fire Marshal to report on the grant program. The Act directs agencies to plan for
+a program for certifying reduced wildfire  risk for insurance purposes. The Act gives moneys to the
+State Fire Marshal for the grant program. The Act goes into effect  when the Governor signs it.
+(Flesch Readability Score: 71.9).
+Directs the State Fire Marshal to establish a neighborhood protection cooperative grant  pro-
+gram.
+Establishes the Neighborhood Protection Cooperative Grant Program Fund.
+Directs the Department of the State Fire Marshal to include status reports  on the program in
+certain biannual reports.
+Directs the Department of Consumer and Business Services, the Department of the State  Fire
+Marshal and the State Forestry Department to develop  a plan and implementation timeline for es-
+tablishing an insurance-related risk reduction certification program and report on the program  on
+or before December 1, 2026.
+Appropriates moneys to the State Fire Marshal, out  of the General Fund, for implementing the
+neighborhood protection cooperative grant program.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to  wildfire risk reduction; creating new provisions; amending ORS 476.398; and declaring
+an emergency.
+Be It Enacted by the People of the State of Oregon:
+NEIGHBORHOOD PROTECTION COOPERATIVE GRANT PROGRAM
+SECTION 1.
+(1) The State Fire Marshal shall establish a neighborhood protection coop-
+erative grant program to promote wildfire resilience within communities.
+(2) In establishing the program described in subsection (1) of this section, the  State Fire
+Marshal shall promote collaboration with other related programs to the extent practicable.
+(3) Under the program described in subsection (1) of this  section, the State Fire Marshal
+shall award grants  to local governments, organizations related to fire districts and nongov-
+ernmental organizations for awarding and administering individual grants to property owners
+to promote wildfire resilience, pursuant to criteria determined by the State Fire Marshal.
+(4) The State Fire Marshal shall develop criteria for awarding grants to local  govern-
+ments, organizations related to fire districts and nongovernmental organizations, and  for
+awarding individual grants to property owners, in consultation with:
+(a) The Department of Consumer and Business Services and the State Forestry Depart-
+ment.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3374
+SB 85
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Stakeholders, in  order to make requirements as workable for potential grantee or-
+ganizations as possible.
+(5) The State Fire Marshal shall publish the  criteria described in subsection (4) of this
+section on a State Fire Marshal website.
+(6) The criteria described in subsection (4) of this section for awards of grants to  local
+governments, organizations related to fire districts and nongovernmental organizations  may
+include requirements that grantees:
+(a) Create preliminary  plans for identifying neighborhoods in which property owners may
+be awarded individual grants.
+(b) Conduct initial defensible space assessments for neighborhoods described in paragraph
+(a) of this subsection.
+(c) Require all persons who perform onsite  hazard assessments funded by a grant under
+this section to  complete defensible space assessment training overseen by the State Fire
+Marshal.
+(d) Periodically report to the State Fire Marshal on awarding and  administering individ-
+ual grants under this section.
+(7) The criteria described in subsection (4) of this section  for awards of individual grants
+may include qualifications and standards for eligibility, such as preferences  for awarding in-
+dividual grants to property owners who own property in neighborhoods:
+(a) In areas with high wildfire risk.
+(b) With identifiable social and economic barriers.
+(c) That are likely to be successful in implementing wildfire risk reduction measures.
+(8) The State Fire Marshal  may adopt rules to implement this section, including rules
+defining “neighborhood” for purposes of this section.
+SECTION 2.
+The State  Fire Marshal shall publish neighborhood protection cooperative
+grant program criteria, as described in section 1 (5) of this 2025  Act, on or before January
+1, 2027.
+SECTION 3. (1) The Neighborhood Protection Cooperative Grant Program Fund is estab-
+lished in the State Treasury, separate and  distinct from the General Fund. Interest earned
+by the Neighborhood Protection  Cooperative Grant Program Fund shall be credited to the
+fund.
+(2) The fund shall consist of all moneys placed in the  fund as provided by law and any
+gifts, grants, donations,  endowments or bequests from any public or private source, including
+individuals and private organizations.
+(3) Moneys in the fund are continuously appropriated  to the State Fire Marshal for the
+purpose of carrying out the neighborhood protection cooperative grant  program described in
+section 1 of this 2025 Act.
+SECTION 4.  ORS 476.398 is amended to read:
+476.398. (1) The State Fire Marshal shall biannually report  regarding the status of State Fire
+Marshal and local government activities for carrying out  ORS 476.392  and section 1 of this 2025
+Act to a committee or interim  committee of the Legislative Assembly related to wildfire, in the
+manner provided in  ORS 192.245, to the State Wildfire Programs Director and to the Wildfire Pro-
+grams Advisory Council:
+(a) On  or before the date of convening of the regular session of the Legislative Assembly as
+specified in ORS 171.010.
+[2]
+SB 85
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Approximately six months after the date described in paragraph (a) of this subsection.
+(2) The report shall include, but need not be limited to:
+(a) A status report regarding community risk reduction and the  establishment, administration
+and enforcement of defensible space requirements;
+(b) A status report regarding the establishment and administration of the neighborhood
+protection cooperative grant program described in  section 1 of this 2025 Act, including rec-
+ommendations for improving administration of the program;
+[(b)] (c)  The amount of moneys expended during the year for community risk reduction  and the
+establishment, administration or enforcement of defensible space requirements;
+[(c)] (d)  The amount of moneys expended during the  year for the suppression of fires on
+wildland-urban interface lands; and
+[(d)] (e)  Any recommendations of the State Fire Marshal for legislative  action, including, but
+not limited to[ ,]:
+(A) Current or future resource and funding needs for community risk reduction [ and];
+(B) Establishing, administering or enforcing defensible space requirements[ .]; and
+(C) Improving the  neighborhood protection cooperative grant program described in sec-
+tion 1 of this 2025 Act.
+HOMEOWNER INSURANCE RISK REDUCTION CERTIFICATION PROGRAM REPORT
+SECTION 5.
+(1) As used in this section:
+(a) “Homeowner insurance” has the meaning given that term in ORS 746.600.
+(b) “Wildfire risk mitigation action” has the meaning given that term in ORS 742.277.
+(2) In consultation with representatives from the insurance industry, with the  Depart-
+ment of  the State Fire Marshal and with the State Forestry Department, the Department
+of Consumer  and Business Services shall develop a plan and implementation timeline for es-
+tablishing a homeowner insurance risk reduction certification program that:
+(a) Identifies wildfire risk mitigation actions, including  actions taken under the neigh-
+borhood protection cooperative grant program described  in section 1 of this 2025 Act, that
+may result in lower costs, or better terms, for homeowner insurance policies.
+(b) Is informed by discussion with decision makers in the insurance industry.
+(3) On or before December  1, 2026, the Department of Consumer and Business Services
+shall submit a preliminary report to committees  or interim committees of the Legislative
+Assembly relating to natural resources, in the manner prescribed in  ORS 192.245, and to the
+Governor, that:
+(a) Describes actions taken under subsection (2) of this section; and
+(b) Suggests a date for submission of  a subsequent, more complete report on actions
+described in subsection (2) of this section.
+SECTION 6.
+Section 5 of this 2025 Act is repealed on January 2, 2028.
+APPROPRIATION
+SECTION 7. In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the State Fire Marshal, for the biennium beginning July 1,  2025, out of the General
+Fund, the amount of $5,000,000, for deposit in the Neighborhood Protection Cooperative Grant
+[3]
+SB 85
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Program Fund established by section 3 of this 2025 Act, to be expended as  described in sec-
+tion 3 of this 2025 Act.
+CAPTIONS
+SECTION 8.
+The unit captions used in this 2025 Act are provided only for the convenience
+of the reader  and do not become part of the statutory law of this state or express any leg-
+islative intent in the enactment of this 2025 Act.
+EFFECTIVE DATE
+SECTION 9. This 2025 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2025 Act takes effect
+on its passage.
+[4]

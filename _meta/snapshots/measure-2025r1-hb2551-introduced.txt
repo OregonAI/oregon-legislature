@@ -1,0 +1,162 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2551
+Sponsored by Representative HUDSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act tells a public university to  look at data from DPSST about a person who wants
+to be a campus security officer. The Act says that  DPSST can share the data. (Flesch Readability
+Score: 61.0).
+Directs the governing board of a public university to request  and review background informa-
+tion about special campus security officers before commissioning the officer.
+Allows the Department of Public Safety Standards  and Training to share information about ap-
+plicants with a public university.
+A BILL FOR AN ACT
+Relating to security on campus; amending ORS 181A.972.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 181A.972 is amended to read:
+181A.972. (1) As used in this section:
+(a) “Institution of higher education” has the meaning given that term in ORS 163A.005.
+(b) “Private security professional”  and “private security provider” have the meanings given
+those terms in ORS 181A.840.
+(2)(a) An institution  of higher education that employs or contracts with a private security pro-
+vider, or the governing board of a public university  listed in ORS 352.002 that commissions special
+campus security officers under ORS 352.118 to provide security services  on campus, shall ensure
+that a nationwide criminal records check is conducted for  each private security professional or
+special campus security officer providing security services on campus.
+(b) The governing  board of a public university listed in ORS 352.002 that commissions
+special campus security officers under  ORS 352.118 to provide security services on campus
+shall request  and review background information, including information about disciplinary
+action, about the special campus security officer from the Department  of Public Safety
+Standards and Training before commissioning the officer.
+[(b)] (c) The governing board of a public university listed in ORS 352.002 that  commissions
+special campus security officers under ORS 352.118 to provide  security services on campus shall
+ensure that each officer undergoes psychological testing  to determine the officer’s fitness to serve
+as a special campus security officer.
+(3)(a) A law enforcement agency may share information  about applicants for employment with
+the agency with an institution of higher education. An  institution of higher education may use in-
+formation shared under this subsection for purposes of hiring private security  professionals or spe-
+cial campus security officers.
+(b) The Department of  Public Safety Standards and Training may share information
+about an applicant to serve as a special campus security officer with  a public university
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1225
+HB 2551
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+listed in ORS 352.002. A public university  may use information shared under this subsection
+for the purpose of hiring special campus security officers.
+(4) A private security provider that provides  security services on the campus of an institution
+of higher education  or the governing board of a public university listed in ORS 352.002 that com-
+missions special campus security officers under ORS 352.118  to provide security services on campus
+shall ensure that:
+(a) Vehicles used by private security professionals or special  campus security officers in the
+scope of their employment on campus are equipped with:
+(A) A global positioning system  device, as defined in ORS 163.715, for which global positioning
+data is retained for at least 90 days;
+(B) A video camera that  records the scene within the vehicle and for which video recordings
+are retained for at least 90 days; or
+(C) A dispatch system for which a record of calls is maintained for at least 90 days.
+(b) Uniforms worn by private  security professionals or special campus security officers in the
+scope of their employment on campus can be easily differentiated from the uniform of any  law
+enforcement officer certified by the Department of Public Safety Standards  and Training, with dif-
+ferentiations including, but not limited to,  prominent designation of “campus security” or prominent
+use of a school logo or school colors.
+(5) An institution of  higher education that employs or contracts with a private security provider,
+or the governing board of a public university listed in ORS 352.002 that commissions  special campus
+security officers under ORS 352.118 to  provide security services on campus, shall ensure that vehi-
+cles used by private security professionals or special campus security  officers in the scope of their
+employment on campus:
+(a) Are clearly identified as a campus vehicle on the front of the vehicle;
+(b) Do not use red and blue light bars;
+(c) Do not use bumpers intended to ram another vehicle in order to cause a stall; and
+(d) Do not use cages.
+(6) When a private security professional or special campus security officer  makes a probable
+cause arrest or an arrest  under ORS 133.225 in the course of the individual’s duties on the campus
+of an institution of higher education, the institution of higher education or governing board of the
+public university listed in ORS 352.002 for whom the individual provides security services:
+(a) Shall promptly notify a law enforcement  agency with jurisdiction over the area in which the
+arrest took place.
+(b) May not retain evidence related to the arrest except for the purpose of providing the evi-
+dence to a law enforcement agency with jurisdiction over the area in which the arrest took place.
+(7) Private security professionals and special campus security officers commissioned under  ORS
+352.118 who provide security services on the campus  of an institution of higher education do not
+have stop and frisk authority as set forth in ORS 131.605 to 131.625.
+(8) If an institution of higher  education contracts with a private security provider to provide
+temporary security for  an event, the terms of the contract must require the private security provider
+to comply with all relevant statutes and rules governing the duties of contracted private security
+providers.
+[2]

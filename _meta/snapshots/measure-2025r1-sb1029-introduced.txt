@@ -1,0 +1,203 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 1029
+Sponsored by COMMITTEE ON HUMAN SERVICES
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates  a new exception to laws that allow the state to take back medical as-
+sistance paid to a person from the person’s estate. (Flesch Readability Score: 63.0).
+Prohibits the recovery  of medical assistance from an individual’s estate under circumstances in
+which a child had been living in the individual’s home and providing care to the individual.
+Removes the prohibition against the transfer of real or personal property  without adequate
+consideration by recipients of medical assistance or recipients  of assistance under the Oregon Sup-
+plemental Income Program.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to the recovery  of public assistance; creating new provisions; amending ORS 411.620,
+411.708 and 416.350; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 416.350 is amended to read:
+416.350. (1) The Department of Human Services or the  Oregon Health Authority may recover
+from any person  the amounts of medical assistance the department or the authority incorrectly paid
+to or on behalf of the person.
+(2) Except as prohibited by ORS 178.380, medical assistance pursuant to ORS chapter 414 paid
+to or on behalf of  an individual who was 55 years of age or older when the individual received the
+assistance, or paid to or  on behalf of a person of any age who was a permanently institutionalized
+inpatient in  a nursing facility, intermediate care facility for persons with intellectual disabilities or
+other medical institution, may be recovered from  the estate of the individual or from any recipient
+of property or other assets held by the individual at the time of  death including the estate of the
+surviving spouse. Claim for such medical assistance correctly paid to or on behalf  of the individual
+may be established against the estate, but the claim may not be adjusted or recovered until  after
+the death of the surviving spouse, if any, and only at a time when the individual has  no surviving
+child who  is under 21 years of age or who is blind or permanently and totally disabled. [ Transfers
+of real or personal property by recipients of such aid without adequate consideration  are voidable and
+may be set aside under ORS 411.620 (2). ]
+(3) Nothing in this section authorizes the recovery of the amount of any  aid from the estate or
+surviving spouse of a recipient to the extent that :
+(a) The need for aid resulted from a crime committed against the recipient[ .]; or
+(b)(A) For two consecutive years immediately before the recipient was determined eligible
+for medical assistance or immediately before the recipient’s death, a child of the recipient:
+(i) Lived in the recipient’s home; and
+(ii) Provided to the recipient a level of care that eliminated the need for the recipient to
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4289
+SB 1029
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+receive medical assistance; and
+(B)(i) Title to the recipient’s  home was transferred to the child during the recipient’s life;
+or
+(ii) The child inherited an interest in the recipient’s home.
+(4) In any action or proceeding under this section to recover medical assistance paid, it is the
+legal burden of the person who receives  the property or other assets from a medical assistance re-
+cipient to establish the extent and value of the recipient’s legal  title or interest in the property or
+assets in accordance with rules established by the authority.
+(5) Amounts recovered under this section do not include the value of benefits  paid to or on be-
+half of a beneficiary under a policy or certificate of  qualified long term care insurance as defined
+in ORS 743.652, that were  disregarded in determining eligibility for or the amount of medical as-
+sistance provided to the beneficiary.
+(6) As used in this section:
+(a) “Estate” includes all real and personal property and other assets  in which the deceased in-
+dividual had any legal title or interest at the  time of death including assets conveyed to a survivor,
+heir or assign of the deceased individual through joint tenancy, tenancy in common,  survivorship,
+life estate, living trust or other similar arrangement.
+(b) “Medical assistance” includes  the state’s monthly contribution to the federal government to
+defray the costs of outpatient prescription drug coverage provided to a person who is eligible  for
+Medicare Part D prescription drug coverage and who receives medical assistance.
+SECTION 2.
+ ORS 411.708 is amended to read:
+411.708. (1) The amount of any assistance paid under ORS 411.706 is a claim against the property
+or interest in the property belonging to and a part of the estate of any deceased recipient.  If the
+deceased recipient has no estate, the estate of the surviving spouse of  the deceased recipient, if any,
+shall be charged  for assistance granted under ORS 411.706 to the deceased recipient or the surviving
+spouse. There shall be no adjustment or recovery of assistance correctly paid on behalf of  any de-
+ceased recipient under ORS 411.706 except after the death of the surviving spouse of the  deceased
+recipient, if any, and only at a  time when the deceased recipient has no surviving child who is under
+21 years of age or who is blind or has a disability. [Transfers of real or personal property  by recip-
+ients of assistance without adequate consideration are voidable and  may be set aside under ORS
+411.620 (2).]
+(2) Except when there is a surviving spouse,  or a surviving child who is under 21 years of age
+or who is blind or has a disability, the amount of any assistance paid under ORS 411.706  is a claim
+against the estate in any conservatorship proceedings and may be paid pursuant to ORS 125.495.
+(3) Nothing in this section authorizes the recovery of the amount of any assistance from the
+estate or surviving spouse of a recipient to  the extent that the need for assistance resulted from a
+crime committed against the recipient.
+SECTION 3.  ORS 411.620 is amended to read:
+411.620. (1) The Department of  Human Services or the Oregon Health Authority may prosecute
+a civil suit or  action against any person who has obtained, for personal benefit or for the benefit
+of any other person, any amount or type of public assistance or  medical assistance, or has aided any
+other person to obtain public assistance or medical assistance, in violation of any provision  of ORS
+411.630 or in violation of ORS  411.640. In such suit or action, the department or the authority may
+recover the amount or value  of public assistance or medical assistance obtained in violation of ORS
+411.630 or in violation of ORS 411.640, with interest, together  with costs and disbursements incurred
+[2]
+SB 1029
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+in recovering the public assistance or medical assistance.
+(2) Except with respect to bona fide purchasers for value, the department, the  authority, the
+conservator for the recipient or the personal representative of the estate of  a deceased recipient
+may prosecute a civil suit or action to set aside the transfer,  gift or other disposition of any money
+or property made in violation of any provisions of ORS 411.630[ , 411.708 and  416.350] and the de-
+partment or the authority may recover out of such money or property, or otherwise, the amount or
+value of any public assistance or medical assistance obtained  as a result of the violation, with in-
+terest, together with costs and disbursements incurred in recovering  the public assistance or med-
+ical assistance.
+SECTION 4.
+(1) The amendments to ORS 416.350 by  section 1 of this 2025 Act apply to
+claims for medical assistance adjusted or recovered on or after the effective date  of this 2025
+Act.
+(2) The amendments to ORS 411.620 by section 3 of this 2025 Act apply to civil proceedings
+commenced on or after the effective date of this 2025 Act.
+SECTION 5. This 2025 Act takes effect on the 91st day after the date on which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[3]

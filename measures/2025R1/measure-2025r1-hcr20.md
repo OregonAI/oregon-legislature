@@ -1,0 +1,1011 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hcr20
+title: 'HCR 20 (2025R1): Modifies Legislative Branch Personnel Rule 27 to eliminate confidential reports
+  or information being used for investigations performed under the rule by requiring disclosure at conclusion
+  of investigation. Authorizes an investigation respondent to obtain independent counsel to be paid for
+  by the Legislative Equity Officer.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Concurrent Resolution 20
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HCR20/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: c4d01754a7d932c6e5d571473874179e8cea2248f6df73ea1283f73d7e40f465
+snapshot_id: measure-2025r1-hcr20-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 171.740
+  - ORS 173.900
+  - ORS 173.906
+  - ORS 173.909
+  - ORS 173.912
+  - ORS 173.930
+  - ORS 192.311
+  - ORS 40.252
+  - ORS 659A.030
+  - ORS 659A.082
+  - ORS 659A.112
+  - ORS 659A.370
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hcr
+session_key: 2025R1
+measure_prefix: HCR
+measure_number: 20
+prefix_meaning: House Concurrent Resolution
+catch_line: Modifies Legislative Branch Personnel Rule 27 to eliminate confidential reports or information
+  being used for investigations performed under the rule by requiring disclosure at conclusion of investigation.
+  Authorizes an investigation respondent to obtain independent counsel to be paid for by the Legislative
+  Equity Officer.
+minority_catch_line: null
+measure_summary: "\tDigest: The measure makes changes to LBPR 27 to limit the role of secrecy in investigations\
+  \ made under the rule. The measure says that a person being investigated has a right to a lawyer, with\
+  \ the costs paid for by the LEO, a right to discover evidence and question witnesses and a right to\
+  \ appeal to a court. The measure makes changes to the standard of proof for facts. (Flesch Readability\
+  \ Score 60.6). \n\tModifies Legislative Branch Personnel Rule 27 to eliminate confidential reports or\
+  \ information being used for investigations performed under the rule by requiring disclosure at conclusion\
+  \ of investigation. Authorizes an investigation respondent to obtain independent counsel to be paid\
+  \ for by the Legislative Equity Officer. Provides that an investigation respondent has the right to\
+  \ discover evidence and depose witnesses. Requires that findings of fact must be established beyond\
+  \ a reasonable doubt. Provides that a respondent who is subject to remedial measures has the right to\
+  \ appeal the determination to a court for de novo judicial review. Provides that a person subject to\
+  \ the rule may not be accused of violating the rule for the same conduct that was previously not found\
+  \ to violate the rule."
+relating_to: Amending Legislative Branch Personnel Rule 27 and adopting Legislative Branch Personnel Rule
+  27-C.
+relating_to_full: null
+at_the_request_of: null
+lc_number: 4191
+measure_created_date: '2025-02-21T11:43:52'
+measure_modified_date: '2025-02-28T08:29:37'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 71284
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 171.740
+  - ORS 173.900
+  - ORS 173.906
+  - ORS 173.909
+  - ORS 173.912
+  - ORS 173.930
+  - ORS 192.311
+  - ORS 40.252
+  - ORS 659A.030
+  - ORS 659A.082
+  - ORS 659A.112
+  - ORS 659A.370
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 20`.
+
+# HCR 20 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Concurrent Resolution 20, 2025 Regular Session (2025R1)
+- **LC number:** 4191
+- **Created:** 2025-02-21T11:43:52
+- **Metadata last modified (upstream):** 2025-02-28T08:29:37
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 71284 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HCR20/Introduced>.
+
+## Summary
+
+**Catchline:** Modifies Legislative Branch Personnel Rule 27 to eliminate confidential reports or information being used for investigations performed under the rule by requiring disclosure at conclusion of investigation. Authorizes an investigation respondent to obtain independent counsel to be paid for by the Legislative Equity Officer.
+
+**Relating to:** Amending Legislative Branch Personnel Rule 27 and adopting Legislative Branch Personnel Rule 27-C.
+
+Digest: The measure makes changes to LBPR 27 to limit the role of secrecy in investigations made under the rule. The measure says that a person being investigated has a right to a lawyer, with the costs paid for by the LEO, a right to discover evidence and question witnesses and a right to appeal to a court. The measure makes changes to the standard of proof for facts. (Flesch Readability Score 60.6). 
+ Modifies Legislative Branch Personnel Rule 27 to eliminate confidential reports or information being used for investigations performed under the rule by requiring disclosure at conclusion of investigation. Authorizes an investigation respondent to obtain independent counsel to be paid for by the Legislative Equity Officer. Provides that an investigation respondent has the right to discover evidence and depose witnesses. Requires that findings of fact must be established beyond a reasonable doubt. Provides that a respondent who is subject to remedial measures has the right to appeal the determination to a court for de novo judicial review. Provides that a person subject to the rule may not be accused of violating the rule for the same conduct that was previously not found to violate the rule.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Concurrent Resolution 20
+Sponsored by Representative RESCHKE
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The measure makes changes to LBPR 27 to limit the role of secrecy  in investigations
+made under the rule.  The measure says that a person being investigated has a right to a lawyer,
+with the costs paid for by the LEO, a  right to discover evidence and question witnesses and a right
+to appeal to a court. The measure makes changes to the standard of proof for facts.  (Flesch Read-
+ability Score 60.6).
+Modifies Legislative Branch Personnel Rule 27 to eliminate confidential reports or  information
+being used for investigations performed under the rule by requiring  disclosure at conclusion of in-
+vestigation. Authorizes an  investigation respondent to obtain independent counsel to be paid for by
+the Legislative Equity Officer. Provides that an investigation  respondent has the right to discover
+evidence and depose witnesses. Requires that findings of fact must  be established beyond a reason-
+able doubt. Provides that a respondent who is subject to remedial measures has the right to appeal
+the determination to a court for de novo judicial review. Provides that a person subject to the  rule
+may not be accused of violating the rule for the same conduct that  was previously not found to vi-
+olate the rule.
+CONCURRENT RESOLUTION
+Be It Resolved by the Legislative Assembly of the State of Oregon:
+That Legislative Branch Personnel  Rule 27, as amended and in effect on June 24, 2021, is further
+amended, and Legislative Branch Personnel Rule 27-C is adopted, as follows:
+Legislative Branch Personnel Rule 27: Safe, Respectful and Inclusive Workplace.
+(1) Policy.
+(a) The Legislative Branch is committed to promoting  a respectful and inclusive environment in
+the State Capitol and in any setting in which conduct  has the ability to create a Capitol environ-
+ment that is intimidating, hostile or offensive, or may constitute conduct that amounts to  retaliation
+for the making of a good-faith complaint under this rule or for participation in an  investigation un-
+der this rule.
+(b) The Legislative Branch is committed to providing a safe and respectful workplace and to
+taking proactive steps to improve its culture so  that behavior from any source that has a negative
+impact on the workplace may be effectively reported and promptly addressed and resolved.
+(c) The Legislative Branch is equally committed to protecting freedom of speech and  expression,
+as guaranteed to all persons through the  free expression protections of Article I, section 8, of the
+Oregon Constitution, and through the First Amendment to the United States  Constitution, and the
+Legislative Branch recognizes that the constitutional  protections guaranteeing freedom of speech
+and expression must be taken into account in determining the rights afforded to individuals in the
+State Capitol under this rule.
+(d) The Legislative Branch emphasizes the importance  of fostering an environment where all
+viewpoints are welcomed and respected, as disagreement does not equal harassment.
+(e) Members of the Legislative Assembly  and all Legislative Branch employees are expected to
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 4191
+conduct themselves in a  manner that is free of harassment and to discourage all harassment in the
+workplace and at professional meetings, seminars or at any event at which legislative  business is
+conducted.
+(f) This rule is designed to provide  options to those who are experiencing or observing harassing
+behavior, discriminatory behavior or other behavior  prohibited by subsection (7) of this rule to seek
+information, report behaviors or file complaints to address and resolve concerns, while also:
+(A) Enhancing options available to victims who seek to remain anonymous; and
+(B) Ensuring that fundamental freedoms of speech and expression are protected as core values
+in the Legislative Branch.
+(g) This rule is designed to provide options to those  who are experiencing or observing harass-
+ing behavior, discriminatory behavior, retaliation  or other behavior prohibited by subsection (8) of
+this rule to seek information, report  behaviors or file complaints to address and resolve concerns,
+while also enhancing options available to victims who seek to  remain anonymous. This rule provides
+options that are in addition to and not in lieu of any  other remedy afforded by state or federal law,
+including remedies to address discrimination that is prohibited by ORS 659A.030 (including  sexual
+assault) and ORS 659A.082 and 659A.112, all of which have a statute of limitations of five years.
+(h) The  Legislative Assembly intends the mandatory reporting obligations established under this
+rule to be a means by which the Legislative Branch  will take action to address conduct prohibited
+by this rule, in the absence of a specific complaint about the conduct.
+(2) Application.
+(a) Any individual who experiences behavior  prohibited by this rule or observes behavior in-
+consistent with this rule may use the reporting options described in subsections (10) [ to] and  (12)
+of this rule.
+(b) An appointing authority or a  nonpartisan staff supervisor, including any member of the
+Legislative Assembly, shall report behavior prohibited by  this rule by the means described in sub-
+section (11) of this rule. If the  appointing authority or supervisor is making a [ report] disclosure
+or complaint because an individual has disclosed to the appointing authority or supervisor that the
+individual may be experiencing conduct  prohibited by this rule, the appointing authority or super-
+visor, as soon as practicable after receiving the disclosure, shall provide a copy of  the materials
+described in Legislative Branch Personnel Rule 32 (4)(a)(B) to  (D) to the individual making the dis-
+closure.
+(c) Any  individual over whom the Legislative Branch may impose a remedy is an individual
+subject to the requirements of this rule, including but not limited to:
+(A) Members of the Legislative Assembly;
+(B) Legislative staff, interns, externs and volunteers;
+(C) Lobbyists required to register under ORS 171.740;
+(D) Contractors  or employees of contractors who engage in business with the Legislative
+Branch;
+(E) Employees of the State of Oregon who are not employees of the Legislative Branch; and
+(F) Members of the public who are present in the State Capitol.
+(3) Definitions.
+(a) “Agency head” means the Legislative Administrator, the Legislative Counsel, the Legislative
+Equity Officer,  the Legislative Fiscal Officer, the Legislative Policy and Research Director, the
+Legislative Revenue Officer and the Executive Director of the Commission on Indian Services.
+(b) “Appointing authority” means the person who  has authority in the interest of the employer
+to hire, transfer, suspend, lay off, promote, terminate or discipline an employee.
+(c) “Caucus leader” means the  Democratic or Republican leader of the Senate or the Democratic
+or Republican leader of the House of Representatives.
+(d) “Caucus office” means the office of the  Democratic or Republican leader of the Senate or the
+office of the Democratic or Republican leader of the House of Representatives.
+(e) “Chamber” means the Senate or the House of Representatives.
+(f) “Complainant” means a person  who has filed a conduct complaint under subsection (12) of
+this rule.
+(g) “Employee” means an employee who is performing services on  behalf of the Legislative
+Branch. “Employee” includes any intern, extern  or volunteer who is affiliated with a Legislative
+Branch office.
+(h) “Employee Services” means the division of Legislative Administration  charged with employ-
+ment and human resources administration for the Legislative Branch.
+(i) “Human Resources Director” means the manager of Employee Services.
+(j) “Impacted party” means a person who is described  in a conduct [ report] complaint  made
+under subsection [ (11)] (12) of this rule as one who has experienced  behavior prohibited by this rule.
+(k) “Independent investigator” means  an investigator under contract pursuant to ORS 173.912,
+who is available to perform or is performing an investigation under this rule.
+(L) “Investigator” means either an independent investigator or an investigator employed by the
+Legislative Equity Officer under ORS 173.909 (2) for the purpose of conducting investigations.
+(m) “Legislative  Branch” means members and employees of the Legislative Assembly, the par-
+liamentary offices, Legislative Administration, the Legislative Counsel Office, the Legislative Equity
+Office, the Legislative Fiscal Office, the Legislative Policy and Research Office,  the Legislative Re-
+venue Office and the Commission on Indian Services.
+(n) “Legislative Equity Officer” means the  Legislative Equity Officer appointed under ORS
+173.900 or an acting equity officer serving under ORS 173.906.
+(o) “Member of the Legislative Assembly” or “member” means a Senator or a Representative.
+(p) “Nondisclosure agreement” means an  agreement by which one or more parties subject to this
+rule agree not to discuss or disclose information regarding a complaint of harassment, discrimination
+or sexual assault.
+(q) “Nondisparagement agreement” means  an agreement by which one or more parties subject
+to this rule agree not  to discredit or make negative or disparaging written or oral statements about
+any other party subject to this rule, the Legislative Assembly or any office of the  Legislative
+Branch.
+(r) “Nonpartisan staff” means an employee of the parliamentary offices,  Legislative Adminis-
+tration, the Legislative Counsel Office, the Legislative  Equity Office, the Legislative Fiscal Office,
+the Legislative Policy  and Research Office, the Legislative Revenue Office or the Commission on
+Indian Services.
+(s) “Offsite process counselor”  means a person unaffiliated with the Legislative Branch who has
+entered into a contract with the Legislative Equity Officer  under ORS 173.930 to provide services
+described in subsection (10) of this rule.
+(t) “Parliamentarian” means the  Secretary of the Senate or the Chief Clerk of the House of
+Representatives.
+(u) “Parliamentary office” means the Office of the Secretary of the Senate or the Office of  the
+Chief Clerk of the House of Representatives.
+(v) “Partisan staff” means an employee working directly for a member of  the Legislative As-
+sembly, an employee of a caucus office or an employee of the office  of the Senate President or the
+office of the Speaker of the House of Representatives.
+(w) “Protected class” means a classification established by law that offers protections to  mem-
+bers of the classification, including but not limited to:
+(A) Sex;
+(B) Race;
+(C) Ethnicity;
+(D) National origin;
+(E) Age;
+(F) Religion;
+(G) Marital status;
+(H) Sexual orientation;
+(I) Gender identity or expression;
+(J) Engaging in whistleblowing activity;
+(K) Opposing an employer’s actions when the employee reasonably believes the actions to  be
+unlawful;
+(L) Taking leave from work for purposes protected by  law, including but not limited to leave
+under the Oregon Family Leave  Act, the federal Family and Medical Leave Act or disability-related
+leave;
+(M) Injured worker status;
+(N) Disability; or
+(O) Veteran status.
+(x) “Respondent” means  a person named in a conduct complaint made under subsection (12) of
+this rule as engaging in behavior that is prohibited by this rule or  a person who is the subject of
+an investigation  under subsection (14) of this rule to determine whether the person engaged in be-
+havior that is prohibited by this rule.
+(y) “Sexual assault” means unwanted conduct of a sexual nature that is inflicted upon  a person
+or compelled through the use of physical force, manipulation, threat or intimidation.
+(z) “Supervisor” means  an employee of the Legislative Branch who manages or directs the work
+of another employee of the Legislative Branch.
+(4) Harassment and hostile work environment.
+(a) An individual engages in harassment by engaging in  verbal or physical conduct, including
+making a visual display or causing a visual  display to be shown, that denigrates or shows hostility
+toward an individual or group of individuals. Examples of harassment may include, but are  not lim-
+ited to:
+(A) Name-calling, slurs or stereotyping;
+(B) Threatening, intimidating or hostile acts that relate to a protected class;
+(C) Belittling, demeaning or humiliating a person or group of persons because of a protected
+class; or
+(D) Displaying written or graphic material that is described in subparagraphs  (A) to (C) of this
+paragraph.
+(b) An individual creates a hostile work environment by engaging  in behavior that is unwelcome
+and is so severe or pervasive that it either affects a person’s ability  to function in the workplace
+or denies a person the benefits of the workplace.
+(c) Conduct that is inconsistent with a safe,  respectful and inclusive workplace but that does
+not rise to the level  of creating a hostile work environment under this rule may be addressed under
+the Legislative Branch respectful workplace policy referenced in subsection (18) of this rule.
+(5) Sexual harassment.
+(a) An individual engages in sexual harassment when the individual engages in unwelcome con-
+duct of a sexual nature, including but not limited to sexual advances, requests for  sexual favors,
+sexual comment, unwanted or offensive touching or physical  contact, unwanted closeness, impeding
+or blocking movement, sexual gesture, sexual innuendo, sexual joke,  sexually charged language, in-
+timate inquiry,  persistent unwanted courting, sexist insult, gender stereotype, or other verbal or
+physical conduct of a sexual nature, if:
+(A) Submission to the conduct  is made either explicitly or implicitly a term or condition of a
+person’s employment;
+(B) A person expressly  or by implication conveys that declining to submit to the conduct will
+affect an individual’s job, leave request, benefits, business before  the Legislative Assembly, influence
+or opportunity of the individual to engage professionally with the Legislative Assembly,  its members
+or staff; or
+(C) The unwelcome  conduct has the purpose or effect of unreasonably interfering with a person’s
+job performance, or creates a work environment  that a reasonable person would find intimidating,
+hostile or offensive. For purposes of this rule, “unwelcome conduct” means conduct that an indi-
+vidual does not solicit and that the  individual regards as undesirable or offensive. An individual may
+withdraw consent to conduct that was previously welcomed, though  a withdrawal of consent must
+be communicated to the person for whom consent is being withdrawn.
+(b) Sexual harassment includes but is not limited to:
+(A) Unwanted sexual advances, flirtations or propositions.
+(B) Demands for sexual favors in exchange for favorable treatment or continued employment.
+(C) Sexual jokes.
+(D) Verbal abuse of a sexual nature.
+(E) Verbal commentary about the body, sexual prowess or sexual deficiency of an individual.
+(F) Leering, whistling, touching or physical assault.
+(G) Using sexually suggestive, insulting or obscene comments or gestures.
+(H) Displaying sexually suggestive objects or pictures.
+(I) Sending  or forwarding electronic mail or other communications of an offensive or graphic
+sexual nature.
+(J) Discriminatory treatment based on sex.
+(c) Sexual harassment  includes any conduct described in subsection (4) of this rule that is based
+on sex.
+(d) Sexual harassment includes any conduct that constitutes sexual assault.
+(6) Retaliation.
+(a) A person engages in retaliation if  the person treats another individual less favorably because
+the individual made a good-faith complaint about conduct prohibited  by this rule or participated in
+an investigation about conduct that is prohibited by this rule.
+(b) A person engages in retaliation if  the person treats another individual less favorably because
+that individual engaged in a process described in this rule or implemented  one or more provisions
+of this rule.
+(c) A person engages in retaliation if the  person treats another individual less favorably because
+the individual made a good-faith complaint or  took other action to address conduct prohibited in any
+respectful workplace policy adopted by the Joint Committee on Conduct under ORS 173.900,  or this
+rule.
+(7) Examples.
+(a) The Legislative  Equity Officer shall develop and propose to the Joint Committee on Conduct
+examples of what constitutes harassment, a hostile work environment, sexual harassment and retal-
+iation under this rule.  The committee shall approve, modify or reject proposed examples presented
+to the committee.
+(b) The Legislative Equity Officer shall maintain and publish examples  of what constitutes
+harassment, a hostile work environment, sexual harassment and retaliation that have been  approved
+by the committee under this subsection.
+(8) Prohibitions.
+The Legislative Branch prohibits conduct that:
+(a) Constitutes harassment and creates a hostile work environment;
+(b) Constitutes sexual harassment and creates a hostile work environment;
+(c) Constitutes an unlawful practice that aids or  abets discrimination in a place of public ac-
+commodation under the laws of the state; or
+(d) Is retaliation.
+(9) Reporting options, follow-up and documentation.
+(a) In order to encourage participation and effectiveness, this rule establishes [ three] two options
+for reporting behavior prohibited by this rule:
+(A) A confidential disclosure process described in subsection (10) of this rule;  and
+[(B) A conduct reporting process described in subsection (11) of this rule; and ]
+[(C)] (B)  A conduct complaint process described in subsection (12) of this rule.
+(b) In each case of a disclosure[ , report ] or  complaint made under this rule, the Legislative Eq-
+uity Officer, offsite process counselor or investigator, whichever is appropriate, shall:
+(A) Provide a copy of this rule to each  impacted party or complainant at the time a
+disclosure[ , report ] or complaint is made; and
+(B) Follow up with the individual  who experienced, or believes they experienced, conduct pro-
+hibited by this rule, at  least once every three months for the year following the disclosure[ , report ]
+or complaint, to determine whether the alleged prohibited conduct  has stopped and to determine
+whether the individual has  experienced retaliation. The officer or investigator shall give the indi-
+vidual written notice at the  outset of the follow-up period that follow-up described in this subpara-
+graph will occur unless the individual requests in writing that the  officer or investigator not follow
+up.
+(c) Every appointing authority, member of  the Legislative Assembly, or employee of the Legis-
+lative Branch, is advised to document any incident involving conduct that is prohibited by  ORS
+659A.030 (including sexual assault) or ORS 659A.082 or 659A.112 or this rule.
+(10) Confidential disclosure process.
+(a) Any individual who experiences behavior prohibited by this  rule or observes behavior that
+is inconsistent with this rule may make a confidential disclosure reporting the behavior  to the
+Legislative Equity Officer or an offsite process counselor.
+(b) Information reported to the Legislative Equity Officer  or offsite process counselor, records
+created by the officer or  counselor and the identity of the individual making a disclosure under this
+subsection are confidential and  may not be disclosed by the officer or counselor, except that the
+officer or counselor:
+(A) May disclose information if the officer or counselor reasonably concludes that a threat  of
+immediate physical harm or other harm described in  ORS 40.252 would exist if the disclosure were
+not made;
+(B) Shall disclose information if required by law;
+(C) May disclose nonpersonally  identifiable data to facilitate the Legislative Branch’s identifi-
+cation of training and coaching needs; and
+(D) May disclose nonpersonally identifiable information  to an individual who has made a confi-
+dential disclosure under this subsection  for the purpose of encouraging the individual to make a
+[conduct report under subsection (11) of this rule  or ] a conduct complaint under subsection (12) of this
+rule.
+(c) Notwithstanding paragraph (b) of this subsection:
+(A) The Legislative Equity  Officer may disclose nonpersonally identifiable information in the
+course of performing corrective coaching for an individual subject to the requirements of this rule.
+(B) The Legislative Equity Officer or offsite process counselor may not disclose  information or
+records to an investigator, except that  nonpersonally identifiable information may be disclosed to
+facilitate the taking of any action  that is consistent with this rule and with the principles of the
+Due Process Clause of the United States Constitution.
+(d) As an initial matter when an individual  seeks to make a confidential disclosure under this
+subsection, the Legislative Equity Officer or offsite process counselor shall:
+(A) Explain the availability or lack of availability of  any privilege that would permit the indi-
+vidual seeking to make a confidential  disclosure under this subsection to refuse to disclose, and to
+prevent any other person from disclosing, confidential communications and records; and
+(B) Ask whether the individual making a confidential disclosure under this subsection  needs one
+or more safety measures described in subsection (13) of this rule put in place. If a decision is made
+to impose an interim safety measure under subsection (13) of this rule,  the disclosure under
+this subsection is not confidential.
+(e) When an individual makes  a confidential disclosure under this subsection, the Legislative
+Equity Officer or offsite process counselor:
+(A) Shall advise  the individual making the disclosure of other options that are available to ad-
+dress the conduct, including  [ conduct reports under subsection (11) of this rule, ] conduct complaints
+under subsection (12) of this rule, interim safety measures under  subsection (13) of this rule, state
+and federal administrative options with the Bureau of Labor and  Industries and the Equal Employ-
+ment Opportunity Commission of the United States, law enforcement or the civil judicial process;
+(B) In the case of an  individual making the disclosure being affiliated with an institution that
+is subject to Title IX of the Education Amendments Act of 1972, 20 U.S.C. 1681 to 1688,  as amended,
+shall advise the individual of the Title IX reporting process and provide applicable  institution con-
+tact information and information on the resources available at the institution;
+(C) Shall explain  the availability of employee assistance program counselors and other available
+service providers and may refer the individual making a disclosure under this subsection to  a
+counselor or other provider, as appropriate; and
+(D) Shall explain the actions that the  officer or counselor may take following a disclosure made
+under this subsection and due process and other rights that limit the  scope of actions that may be
+taken following a disclosure under this subsection, including possible limitations on the  availability
+of safety measures.
+(f) If  requested by an individual making a disclosure under this subsection, the Legislative Eq-
+uity Officer or offsite process counselor  shall refrain from making a confidential record of the
+identity of the individual making  the disclosure. The officer or counselor shall explain the avail-
+ability of this option to any individual making a disclosure under this subsection.
+(g)(A) The Legislative Equity Officer  shall establish and maintain a means for individuals to
+make disclosures under this subsection that are  entirely anonymous, so that the Legislative Equity
+Officer or offsite process counselor cannot determine the identity of the individual making a dis-
+closure using means described in this paragraph.
+(B) In the event of an anonymous disclosure made under this paragraph,  paragraphs (d), (e) and
+(f) of this subsection do not apply.
+(h) If the Legislative Equity Officer or offsite process counselor receives information  concerning
+conduct that is inconsistent with a respectful workplace policy adopted  by the Joint Committee on
+Conduct  but  that does not rise to the level of creating a hostile work environment or violating
+public accommodation  law, the officer or counselor shall refer the reporter to the Human Resources
+Director.
+(i) The Legislative Equity Officer or offsite process counselor may undertake  efforts at
+training and coaching a person subject to this rule in response to a confidential disclosure
+made under this subsection but, except as provided in subsection (13)(a)  of this rule, may not
+impose an interim safety measure under subsection (13) of this rule or undertake an inves-
+tigation under subsection (14) of this rule. Remedial measures under subsection  (15) of this
+rule may not be made by any person in response to a confidential disclosure made  under this
+subsection.
+[(11) Conduct reports.
+]
+[(a) Any individual who experiences behavior prohibited by this rule or observes behavior  that is
+inconsistent with this rule may make a nonconfidential report of the behavior under this  subsection
+within five years of the date the behavior  occurred. A report made under this subsection shall be re-
+ferred to as a conduct report. ]
+[(b) An appointing authority, including any member of the Legislative Assembly, shall  promptly
+make a conduct report under this subsection if  they have received information that they reasonably
+believe describes behavior that may  be prohibited by this rule, have observed behavior that they rea-
+sonably believe may be prohibited by this rule or  in any way have knowledge of behavior that they
+reasonably believe may be prohibited by this rule. ]
+[(c) A nonpartisan staff supervisor shall promptly make a conduct report under this  subsection if
+they have received information that they reasonably believe describes behavior that  may be prohibited
+by this rule, have observed behavior that they reasonably believe may  be prohibited by this rule or in
+any way have knowledge of behavior that they reasonably believe may be prohibited by this rule. ]
+[(d) A Legislative Branch contractor, or an employee of  a contractor, that is contractually obligated
+to do so,  shall promptly make a conduct report under this subsection if they have information that they
+received a report of conduct  prohibited by this rule, have observed behavior prohibited by this rule or
+in any way have knowledge of behavior prohibited by this rule. ]
+[(e) Notwithstanding paragraphs (a) to (d) of this subsection: ]
+[(A) If a reporter  is required to make a conduct report under this subsection but is also the person
+experiencing behavior prohibited by this rule,  the person may make a confidential disclosure under
+subsection (10) of this rule that satisfies the requirements of reporting under this subsection. ]
+[(B) An individual is not  required to make a conduct report under this subsection if the individual
+would be the subject of the report. ]
+[(f) A conduct report made under this subsection shall be made to: ]
+[(A) An investigator; ]
+[(B) The Legislative Equity Officer; ]
+[(C) The Human Resources Director; or ]
+[(D) Staff of Employee Services who have been designated by the Human Resources Director  to
+receive conduct reports made under this subsection. ]
+[(g) A reporter may make a conduct report in any form  and using any means. However, the Joint
+Committee on Conduct established under ORS 173.900 shall establish uniform recordkeeping  processes
+applicable to the Legislative  Equity Officer and Employee Services to ensure that conduct reports made
+under this subsection are adequately documented. ]
+[(h) A conduct report made under this subsection that  is received by an investigator, Employee
+Services or the Human Resources Director shall be forwarded to the Legislative Equity Officer. ]
+[(i)(A) The Legislative Equity Officer  shall review all conduct reports received under this sub-
+section to determine whether the reported conduct, when taken on  its face, could be prohibited by this
+rule. The officer may, in the officer’s discretion, ask  an independent investigator to determine whether
+the reported conduct,  when taken on its face, could be prohibited by this rule. If the officer or inde-
+pendent investigator determines that an investigation is warranted, the officer shall confer with  each
+impacted party, provide an explanation of the investigation process  and inform the impacted party that
+they may opt out of proceeding with an investigation. ]
+[(B) If the impacted party does not opt out of proceeding with the investigation,  an investigation
+as described in subsection (14) of this rule shall be undertaken. ]
+[(C) If the impacted party opts out of proceeding with an investigation, the Legislative Equity Of-
+ficer shall maintain confidential records  of the report to be used for determining if there is a pattern
+of conduct that violates this rule or applicable respectful workplace policies. The officer shall provide
+the impacted party with information on available resources, including  resources described in subsection
+(10)(e)(B) and (C) of this rule. ]
+[(D) If the Legislative  Equity Officer or independent investigator determines that the reported con-
+duct, on its face, is not conduct prohibited by this rule, the officer may: ]
+[(i) Engage in specific coaching  of individuals to eliminate any uncertainty over appropriate
+workplace behavior; ]
+[(ii) Confer with and make recommendations to the  appropriate appointing authority or legislative
+leader to facilitate training or guidance being given to address reported circumstances; or ]
+[(iii) Take any other action that is warranted  to achieve the policies established under these
+rules.]
+(11) Obligations of appointing authorities, supervisors under this rule.
+(a) The following persons are obligated to take action as described in paragraph (b) of
+this subsection if  they receive information they reasonably believe describes behavior that
+may be prohibited by this rule, have observed behavior that they reasonably  believe may be
+prohibited by this rule or in any way  have knowledge that they reasonably believe may be
+prohibited by this rule:
+(A) An appointing authority, including any member of the Legislative Assembly;
+(B) A nonpartisan staff supervisor; or
+(C) A Legislative Branch  contractor, or an employee of a contractor, that is
+contractually obligated to take action as described in paragraph (b) of this subsection.
+(b) A person described in paragraph (a) of this subsection shall:
+(A) Make a confidential disclosure under subsection (10) of this rule; or
+(B) After conferring with the impacted party, make a conduct complaint under  sub-
+section (12) of this rule.
+(c) Notwithstanding paragraph (a) or (b) of  this subsection, an individual is not required
+to make a conduct complaint under subsection  (12) of this rule if the individual would be the
+subject of the report.
+(12) Conduct complaints.
+(a) Any person who experiences behavior prohibited by this rule or  observes behavior that is
+inconsistent with this rule may make a complaint under this subsection within five years  after the
+date the behavior occurred. A complaint made under this subsection shall be referred to as a  con-
+duct complaint.
+(b) A conduct complaint must:
+(A) Be in writing;
+(B) Identify the complainant and the person being accused  of engaging in conduct prohibited by
+this rule;
+(C) Set forth  the facts and circumstances that the complainant believes describe conduct that
+is prohibited by this rule; and
+(D) Be made in a  declaration under penalty of perjury that is satisfied when the declarant signs
+the complaint immediately under a sentence that states, “I  hereby declare that the above statement
+is true to the best of my knowledge and belief, and  that I understand it is made for use as evidence
+in proceedings under Legislative Branch Personnel Rule 27 and is subject to penalty for perjury.”
+(c) A conduct complaint shall be delivered to the Legislative Equity Officer. If the complaint  is
+delivered to an investigator, the investigator shall deliver a copy of the complaint to the officer.
+(d) The  Legislative Equity Officer shall promptly examine the conduct complaint and determine
+if the complaint meets the requirements of paragraph (b) of this subsection. If the complaint  does
+not meet the requirements of paragraph (b)  of this subsection, the officer shall request the
+complainant to supplement the complaint. A  complaint that does not meet the requirements of par-
+agraph (b) of this subsection may not be the subject of an investigation under subsection (14) of this
+rule.
+(e) The Legislative  Equity Officer shall review all conduct complaints received under this sub-
+section to determine whether  the reported conduct, when taken on its face, could be prohibited by
+this rule. If the officer determines  that an investigation is warranted, an investigation as described
+in subsection (14) of this rule shall be undertaken. The officer  may, in the officer’s discretion, ask
+an independent investigator to determine whether the reported conduct, when taken on  its face,
+could be prohibited by this rule. The officer shall provide the complainant with information on
+available resources, including resources described in  subsection (10)(e)(B) and (C) of this rule. If the
+officer or independent investigator determines that the reported conduct,  on its face, is not conduct
+prohibited by this rule, the officer may:
+(A) Engage in specific coaching of individuals to eliminate any uncertainty over  appropriate
+workplace behavior;
+(B) Confer with and make recommendations to the  appropriate appointing authority or legisla-
+tive leader to facilitate training or guidance being given to address reported circumstances; or
+(C) Take any  other action that is warranted to achieve the policies established under these
+rules.
+(f) After a determination under paragraphs (d) and (e) of this subsection that an investigation
+is warranted, the  investigator assigned to the matter under subsection (14)(c) of this rule shall
+promptly:
+(A) Deliver a copy of the conduct complaint to the person  accused of engaging in behavior
+prohibited by this rule, who shall thereafter be the respondent; and
+(B) If the respondent:
+(i) Is a member of the Legislative  Assembly, deliver a copy of the complaint to the caucus leader
+of the caucus in which the member serves;
+(ii) Is a caucus leader, deliver a  copy of the complaint to the presiding officer of the chamber
+in which the caucus leader serves and to a member  who is in an elected leadership position of the
+caucus in which the caucus leader serves;
+(iii) Is a Legislative Branch employee in either  a partisan or nonpartisan staff position, deliver
+a copy of the complaint to the appointing authority for the respondent;
+(iv) Is an agency head, deliver a copy of the complaint to the presiding officers;
+(v) Is a parliamentarian, deliver a copy of the complaint to the presiding  officer of the chamber
+in which the parliamentarian serves; and
+(vi) Is a registered lobbyist, executive or judicial branch employee, employee of a contractor  or
+a member of the public, deliver a copy of the complaint to the Legislative Administrator.
+(g) The Legislative Equity Officer shall provide  the complainant with information on available
+resources, including resources described in subsection (10)(e)(B) and (C) of this rule.
+(h) Upon delivery of the  conduct complaint as prescribed in paragraph (f) of this subsection, the
+investigator shall promptly  begin the investigation described in subsection (14) of this rule and re-
+commend any necessary interim safety measures as described in subsection (13) of this rule.
+(i) The complaint and any supporting documentation is subject to disclosure  under ORS
+192.311 to 192.478.
+(13) Interim safety measures.
+(a) Upon receipt of a [ conduct report made under subsection (11) of this rule  or a ] conduct com-
+plaint made under subsection (12) of this rule, or at any time during the course of  an investigation,
+the investigator assigned to this matter under subsection (14)(c) of this rule  may determine that an
+interim safety  measure needs to be implemented to ensure the safety of the complainant or any other
+individual who has experienced  behavior that is prohibited by this rule or who may reasonably be
+foreseen as at risk of being subjected to behavior that  is prohibited by this rule. The Legislative
+Equity Officer or an  offsite process counselor may also recommend an interim safety measure if in-
+terim safety measures are sought by an individual making a confidential  disclosure under subsection
+(10) of this rule. If, as the result of a confidential disclosure made under subsection (10) of this
+rule, an interim safety  measure is to be imposed, the disclosure and any records pertaining
+to the disclosure become subject  to required disclosure in response to a public records re-
+quest under ORS 192.311  to 192.478.  The investigator, officer or counselor may recommend any
+interim safety measure that they  determine is appropriate to the situation, including but not limited
+to:
+(A) Temporary reassignment;
+(B) Alternative work location, including being duty-stationed at home;
+(C) Establishing a no contact order;
+(D) Placing the respondent on paid or  unpaid leave and prohibiting the respondent from being
+present in the workplace or the State Capitol;
+(E) Directing the respondent to be absent from the State Capitol until the investigation is  com-
+plete; or
+(F) In severe situations, involving law enforcement.
+(b) An interim safety measure, whether described in paragraph (a)  of this subsection or other-
+wise, may be applied to a complainant, impacted party or respondent, except that an  interim safety
+measure that is recommended or that is implemented  may not prejudice a complainant or impacted
+party or put a complainant or impacted party  in a worse position than the complainant or impacted
+party was in before the complaint was made.
+(c)(A) Any interim  safety measure that is imposed may not unlawfully impair any lawful rights
+an accused person may exercise.
+(B) Any interim safety measure that is imposed on a member  of the Legislative Assembly must
+be narrowly tailored to minimize limitations on  the member’s ability to perform core legislative
+functions and to address immediate safety concerns, and an interim safety measure  may not be im-
+posed until after  the member is given notice of the proposed interim safety measure and an oppor-
+tunity to be heard by the applicable chamber committee on conduct.
+(d) If the respondent is a member of the Legislative Assembly:
+(A) The  committee on conduct of the chamber in which the respondent serves is authorized to
+impose an interim safety measure  on the respondent that lasts no longer than until the complaint
+is resolved;
+(B) The investigator shall report the investigator’s interim safety recommendation and  the rea-
+sons for the recommendation to the respondent, to the  committee and to the presiding officer of the
+chamber; and
+(C) The committee shall promptly deliberate on the recommendation and shall adopt such  in-
+terim safety measures that the  committee determines are appropriate. For purposes of conducting
+a hearing to deliberate on interim safety measures under this paragraph, the committee hearing need
+only comply with one-hour notice requirements.
+(e) If the respondent is not a member of the Legislative Assembly, the  investigator shall make
+the investigator’s interim safety recommendation:
+(A) In the case of a respondent who is a Legislative Branch employee in either a partisan  or
+nonpartisan staff position, to the employee’s appointing authority.
+(B) In the  case of a respondent who is a State of Oregon employee but not a Legislative Branch
+employee, to the employee’s agency director and the Legislative Administrator.
+(C) In the case of  a respondent who is a lobbyist, employee of a contractor or member of the
+public, to the Legislative Administrator.
+(f) The person who  receives the investigator’s interim safety recommendation made under para-
+graph (e) of this subsection shall act promptly on the recommendation.
+[(g) The Legislative Equity Officer  or an offsite process counselor that has received a confidential
+disclosure under subsection (10) of this rule may recommend interim safety  measures under this sub-
+section if requested by the individual making a disclosure under subsection  (10) of this rule, except that
+the interim safety measure may not: ]
+[(A) Identify the individual making the confidential disclosure without  the consent of the individ-
+ual; or]
+[(B) Penalize or place  the person who is the subject of the disclosure in a worse position than be-
+fore the disclosure was made. ]
+[(h)(A)] (g)(A)  If a complainant, impacted party  or respondent is a member of the Legislative
+Assembly, the member may voluntarily agree to comply with  an interim safety measure that con-
+forms with paragraphs (a), (b) and (c) of this subsection, if  the interim safety measure is also ap-
+proved by the cochairpersons of the appropriate committee on conduct.
+(B) An interim safety measure that is voluntarily agreed to under this  paragraph carries the full
+weight and effect of an interim safety measure imposed under this subsection.
+(C) If a respondent  or other party subject to a voluntary interim safety measure under this
+paragraph fails to comply with the interim safety measure, the agreement  is revocable by the
+cochairpersons of the appropriate committee on conduct.
+(D) If a voluntary agreement is revoked under subparagraph (C) of this paragraph,  an interim
+safety measure may be imposed as prescribed in paragraphs (a) to (d) of this subsection and the  re-
+vocation  may  be taken into account in determining any remedial measure recommended or imposed
+under subsection (15) of this rule.
+(14) Investigations.
+(a) As soon as is practicable [ after July 23, 2019 ], the Joint Committee on Conduct shall:
+(A) Adopt standards and criteria for the selection of  an independent investigator unaffiliated
+with the Legislative Branch, and  the Legislative Equity Officer shall maintain a list of potential
+independent investigators who meet the standards and criteria established by the committee; and
+(B) Direct the Legislative Equity Officer to enter into one or more contracts with individuals
+who meet the standards and criteria established by the committee, to serve as an independent  in-
+vestigator under this rule.
+(b) Pursuant to ORS 173.909, the Legislative Equity Officer may  determine to hire an investi-
+gator as an employee of the Legislative Equity Office. A  Legislative Equity Office employee hired
+as an investigator must meet  all applicable standards and criteria adopted by the committee under
+paragraph (a) of this subsection.
+(c) At the time that a facial review of a [ conduct report or ] conduct complaint  is undertaken, the
+Legislative Equity Officer shall determine whether the investigation  is to be performed by an inde-
+pendent investigator or by an investigator who is an  employee of the Legislative Equity Office, ex-
+cept that if the facial review is being  performed by an independent investigator, any investigation
+that follows facial review must be performed by an independent investigator.
+(d)(A) An investigation that is to be conducted under this subsection shall be  conducted
+promptly and shall be completed as soon as is practicable. The investigation must be completed
+within 84 days from the date the complaint is made, except that the Legislative Equity Officer may
+extend the time by  which the investigation must be completed if the investigator provides advance
+notice to the complainant and the respondent of the extension  and an explanation justifying the
+extension.
+(B) At the time that an investigation  is commenced, the Legislative Equity Officer shall
+inform the respondent that the respondent  has a right to be represented by counsel unaffil-
+iated with the  Legislative Branch. Any reasonable attorneys fees associated with the repre-
+sentation of the respondent by counsel shall be paid by the Legislative Equity Officer.
+(e)(A) The investigator shall keep the complainant and the  respondent apprised of the investi-
+gation timeline and the status of the investigation at the outset  of an investigation, on a regular
+basis thereafter and upon request of the complainant or respondent.
+(B) The respondent has a  right to discover and inspect any evidence found during the
+course of the investigation and  a right to depose any witnesses interviewed during the course
+of the investigation.
+(f)(A) The investigator shall use  best practices in conducting the investigation and shall make
+findings of fact relevant to the allegations. When a finding  of fact has direct bearing on whether
+conduct occurred  that is prohibited by this rule, the finding of fact must be established be-
+yond a reasonable doubt. The investigator  shall prepare draft written findings of fact at least eight
+days before the  investigation must be concluded under paragraph (d) of this subsection and shall
+provide the draft written findings to the complainant and the respondent.
+(B) If the respondent is someone other than a member of the Legislative Assembly,  the draft
+written findings shall also contain a proposed finding  of whether one or more violations of this rule
+occurred.
+(C) In all investigations, the investigator shall consider whether the conduct that is  the subject
+of the investigation constitutes discrimination by denigrating or  showing hostility toward a pro-
+tected class or toward  an individual because of the individual’s status as a member of a protected
+class. The investigator shall report the investigator’s considerations under this  subparagraph in the
+investigator’s draft written findings. If the investigator determines that the  conduct constitutes dis-
+crimination by denigrating or showing hostility toward an  individual because of the individual’s
+status as a member of a protected class, the investigator may not specify in the  investigator’s draft
+written findings the protected class to which the individual belongs.
+(D) The complainant and the respondent may give responses  to the draft written findings to the
+investigator within seven days of receiving the draft.
+(E) The investigator  shall consider responses supplied under subparagraph (D) of this paragraph
+and shall prepare a final report that sets forth the investigator’s  findings of fact and considerations
+regarding the presence or  absence of discrimination described in subparagraph (C) of this paragraph.
+If the respondent is someone other than a member of the Legislative Assembly, the final report
+should also include a determination by the investigator of whether  the facts , as established beyond
+a reasonable doubt,  constitute a violation of this rule.
+(g)(A) If a member of the Legislative Assembly is the  respondent, the investigator shall deliver
+the final report to  the complainant, the respondent, the Legislative Equity Officer and the committee
+on conduct for the chamber in which the respondent serves on or  before the date established under
+paragraph (d) of this subsection for the completion of the investigation.
+(B) The complainant and the respondent may each  submit to the appropriate committee on
+conduct a written challenge to the factual findings set forth in the final  report within seven days
+of receipt of the  report. A challenge must identify the factual findings that are the subject of the
+challenge and articulate the reason those findings are  in error  or have failed to be established
+beyond a reasonable doubt.
+(C) The committee on conduct shall  conduct a hearing on the allegations made in the complaint
+and the investigator’s final report within 21 days of receiving the report from the investigator.  The
+committee shall permit the complainant and the respondent to appear[ ,] and present documents and
+physical evidence . [ and suggest witnesses. The committee may determine to hear witnesses, but only
+committee members may question witnesses. ] The complainant and the  respondent may call and
+examine witnesses. Witnesses shall be questioned under penalty of perjury.
+(D) At the hearing or a subsequent hearing, the committee on conduct shall deliberate and:
+(i) Make a final determination of facts , as proven beyond a reasonable doubt ;
+(ii) Make  a final determination of whether the facts , as proven beyond a reasonable doubt,
+constitute a violation of this rule; and
+(iii) If the determination is that a violation of this rule  occurred, prescribe or recommend re-
+medial measures as described in subsection (15) of this rule.
+(h) If a member of the Legislative Assembly is the respondent and irrevocably resigns  the
+member’s office at any time after the conduct complaint is made, the  investigation described in this
+subsection and the committee on conduct  hearing and final committee determinations described in
+paragraph (g) of this subsection shall nevertheless take place.
+(i)(A) If someone other than a member of the Legislative Assembly is the respondent, the in-
+vestigator shall deliver the final report, including proposed findings of  violations, to the
+complainant, the respondent and:
+(i) In the case of a respondent  who is a Legislative Branch employee in a nonpartisan staff po-
+sition, to the respondent’s appointing authority.
+(ii) In the  case of a respondent who is a Legislative Branch employee in a partisan staff position,
+to the respondent’s appointing authority and, if the investigator determined that a violation  of the
+rule had occurred, to the committee on  conduct of the chamber with which the employee is affil-
+iated.
+(iii) In the case of a respondent who is a State of Oregon  employee but not a Legislative Branch
+employee, to the Legislative Administrator and the respondent’s agency director.
+(iv) In the case of a respondent who is a  lobbyist, employee of a contractor or member of the
+public, to the Legislative Administrator.
+(v) In all instances, to the Legislative Equity Officer.
+(B) A nonpartisan staff appointing authority  who receives the investigator’s final report under
+subparagraph (A)(i) of this paragraph, or  the Legislative Administrator upon receiving the
+investigator’s final report under subparagraph (A)(iii) or (iv)  of this paragraph, shall determine re-
+medial measures described in  subsection (15) of this rule within 14 days of receiving the
+investigator’s final report.
+(C) The appropriate committee on conduct that receives  the investigator’s final report under
+subparagraph (A)(ii) of this paragraph shall, if the investigator determined  that a violation of the
+rule had occurred, make a recommendation  on remedial measures described in subsection (15) of this
+rule to the supervising member of the Legislative Assembly within  14 days of receiving the
+investigator’s final report. The supervising member of the Legislative Assembly shall consider  the
+recommendations and make a final determination on the remedial measures within 21 days  of re-
+ceiving the investigator’s final report.
+(15) Remedial measures.
+(a) In a case where the respondent is a member of the Legislative Assembly and  the appropriate
+committee on conduct has made a determination under  subsection (14)(g) of this rule that a violation
+of this rule has occurred, the  committee shall impose any remedial measure that is sufficient to
+reprimand the member and deter future conduct that violates  the rule, including but not limited to
+a reprimand, monetary fine  or other remedy that the committee determines is appropriate under the
+circumstances:
+(A) Except that, if the committee recommendation is to expel the member, the committee shall
+report that recommendation to the  full chamber, which shall act on that recommendation at its
+earliest opportunity;
+(B) Except that, if the  committee recommendation is to remove the member from one or more
+committees to which the member is assigned, unless  subparagraph (C) of this paragraph applies, the
+committee shall report that recommendation to the presiding officer of that chamber; and
+(C) Including the  removal of the member from the committee on conduct. If a member is removed
+from the committee on conduct under this subsection, the member also is removed from the  Joint
+Committee on Conduct.
+(b)(A) If permitted under Article IV, section 15, of the Oregon  Constitution, a respondent
+who is a member of the Legislative Assembly and upon whom a remedial  measure described
+in paragraph (a) of this subsection has been imposed  may appeal the determination to the
+Marion County Circuit Court. The court shall conduct a  de novo review of the matter being
+appealed.
+(B) The respondent shall give notice of the  appeal to the Legislative Equity Officer within
+five days following the imposition of a remedial measure described in paragraph (a) of this
+subsection.
+(C) Following notice of the appeal being timely given, all remedial measures imposed un-
+der paragraph (a) of this subsection shall be stayed pending final disposition of the appeal.
+[(b)(A) ] (c)(A)  In a  case where the respondent is a Legislative Branch employee in a nonpartisan
+staff position, the appointing authority, in consultation with  the Human Resources Director, shall
+determine an appropriate remedy that is  consistent with the investigator’s determination that the
+respondent violated the requirements of this rule.
+(B) The respondent may appeal the investigator’s final report or any remedial measure  imposed
+under this paragraph  after the report has been delivered to the appointing authority but no later
+than seven days after the imposition of remedial measures  under this subsection, except that any
+appeal must be based only on:
+(i) Newly discovered evidence that was not taken into account by the investigator;
+(ii) A claim of process error that is being asserted by the appellant; or
+(iii) A claim that the  investigator or the person or committee that imposed a remedial measure
+acted with bias.
+(C) The appeal may be made to the Joint Committee on Conduct.
+[(c)(A) ] (d)(A)  In  a case where the respondent is a Legislative Branch employee in a partisan
+staff position, the committee on conduct of the chamber with which the employee is affiliated  shall,
+if the investigator determined that a violation of the rule had  occurred, make a recommendation on
+an appropriate remedy consistent with the  investigator’s determination that the respondent violated
+the requirements of this rule. The committee’s recommendation shall be made to the member of the
+Legislative Assembly for whom the respondent works.
+(B) The member shall  determine the appropriate remedy within the time prescribed in subsection
+(14)(i)(C) of this rule and shall notify the Legislative Equity Officer upon  making the determination.
+(C) If the Legislative Equity Officer  determines that no remedial measures were imposed under
+subparagraph (B) of this paragraph or that the remedial  measures imposed were substantially dif-
+ferent from the remedial  measures recommended by the committee, the officer shall notify the com-
+mittee of the disparity. The committee may hold a hearing and may impose a remedial measure.
+(D) The respondent may appeal the investigator’s final report  or the remedial measure imposed
+under this paragraph to the committee  on conduct with which the respondent is associated within
+seven days after the remedial measure is imposed, except  that any appeal must be based only on a
+claim described in paragraph [ (b)(B)] (c)(B)  of this subsection.
+[(d)(A)] (e)(A)  In a case where the respondent is a lobbyist, employee of a contractor  or other
+person who is present in the State Capitol  for professional or work reasons, or is a member of the
+public, and the investigator’s final report determines that a  violation of this rule has occurred, the
+Legislative Administrator shall determine an appropriate remedy that is consistent  with the
+investigator’s determination. The  respondent may appeal the investigator’s final report or the rem-
+edy determined by the Legislative Administrator to the  cochairpersons of the Legislative Adminis-
+tration Committee within seven days of the Legislative Administrator’s determination, except that
+any appeal must be based only on a claim described in paragraph [ (b)(B)] (c)(B)  of this subsection.
+(B) If the respondent  is a lobbyist, employee of a contractor or other person who is present in
+the State Capitol for professional or  work reasons, the Legislative Administrator shall provide no-
+tice of the proposed remedy under this paragraph  to the respondent and the respondent’s employer
+within 14 days of receiving the final report  from the investigator. If the respondent is a lobbyist who
+is a member of an association of professional  lobbyists, the Legislative Administrator shall also
+provide notice of the proposed remedy to the association.
+(C) The Legislative Administrator may modify the proposed remedy at  any time until 28 days
+after receipt of the investigator’s final report, but thereafter the proposed remedy is final.
+(f) Any appeal described in paragraph (c),  (d) or (e) of this subsection may be subse-
+quently appealed to the Marion  County Circuit Court. The court shall conduct de novo judi-
+cial review of the matter being appealed.
+[(e)] (g)  Each  officer or entity charged with imposing a remedial measure under this subsection
+shall consider and weigh the presence or absence of discrimination  as described in subsection
+(14)(f)(C) of this rule in the conduct found to be a violation of this rule. Because  the Legislative
+Branch is committed to promoting a safe, respectful and inclusive  workplace and environment in the
+State Capitol, a finding  that discrimination was present in the conduct found to be a violation of this
+rule justifies enhancing the severity of the remedial measure to be imposed.
+[(f)] (h)  In addition to the follow-up described in subsection (9)(b) of  this rule, the Legislative
+Equity Officer shall  engage in final process counseling with a complainant or an impacted party as
+soon as is practicable after:
+(A) A determination is made under subsection (14) that no violation of this rule occurred; or
+(B) A final determination is  made under this subsection concerning the imposition of remedial
+measures.
+[(g)] (i)  A committee on conduct or any other person or entity in the  Legislative Branch may
+not require or coerce  an employee to enter into a nondisclosure agreement or a nondisparagement
+agreement.
+[(h)] (j) Notwithstanding paragraph  [(g)] (i) of this subsection, an impacted party may voluntarily
+request to enter into an agreement described in ORS 659A.370 (2), except that:
+(A) The employee has seven days after executing the agreement to revoke the agreement; and
+(B) An agreement with the Legislative Branch or any agency or office of the  Legislative Branch
+may not require an expenditure of public funds that is contrary to law.
+(16) Confidentiality and transparency.
+(a) The investigator undertaking an investigation under subsection (14) of this rule  and the
+Legislative Equity Officer shall provide as  much privacy as possible during the course of an inves-
+tigation.
+(b) The investigator and the Legislative Equity  Officer shall maintain all records and informa-
+tion about an investigation confidentially, except that:
+(A) The investigator may disclose the fact  of the investigation and any relevant details of the
+investigation to the appointing  authority of the complainant and the respondent and the Joint
+Committee on Conduct, if the investigator determines there is a legitimate need to disclose the in-
+formation; and
+(B) In  the case of a respondent who is a member of the Legislative Assembly, the investigator
+may disclose  the fact of the investigation and any relevant details of the investigation to the person
+to whom the conduct complaint was delivered under subsection (12)(f)(B) of this rule.
+(c) A conduct complaint made under subsection (12) of this rule is disclosable  upon being made
+under subsection (12) of this rule, but all records relating  to an ongoing investigation under sub-
+section (14) of this rule shall be  maintained in confidence  until an investigation report is finalized
+under subsection (14)(f)(E) of this rule .
+(d) Upon an investigation report  being finalized under subsection (14)(f)(E) of this rule,
+records and information of  the investigator and the Legislative Equity Officer shall be [exempt
+from] subject to  disclosure as prescribed under applicable law, [ except that, also as prescribed under
+applicable law ] including:
+(A) A conduct complaint made under subsection (12) of this rule [ is disclosable when requested ];
+(B) Records relating to [ a member of the Legislative Assembly following a conduct complaint being
+made concerning the  member are subject to disclosure ] an investigation made under subsection (14)
+of this rule  after the fact-finding investigation has concluded, even if a legislative committee has
+not yet met or deliberated on the investigation’s findings; and
+(C) Records relating to an investigation of allegations of conduct prohibited by  legislative
+branch personnel rules [ and not described in subparagraph (A) or  (B) of this paragraph are subject
+to disclosure upon a determination being made that  the ] without regard to whether a  person who
+was the subject of the investigation is subject to remedial measures or discipline.
+(17) Establishment of committees on conduct.
+(a)(A) The Senate Committee on Conduct is established, consisting of four Senators and  six al-
+ternates. Two Senators and three alternates must be from the majority party and two Senators and
+three alternates must be from  the minority party. Each Senator must be approved by majority vote
+of the Senate  to serve on the committee or to serve as an alternate, following being nominated by
+any Senator. The majority and minority caucus leaders shall each nominate at least one Senator  to
+serve as a committee member from their caucus.
+(B) At the time the Senate determines membership of the committee, the Senate shall appoint
+one of the committee members from the majority party and one of the committee  members from the
+minority party to be cochairpersons of the Senate Committee on  Conduct. If a cochairperson is un-
+able to serve as cochairperson, the other member  from the same party shall serve as acting
+cochairperson until the  initial cochairperson is again able to serve as cochairperson or until the
+Senate approves the appointment of another cochairperson.
+(C) The Senate  Committee on Conduct shall perform those functions assigned by this rule to
+carry out the purposes of Article IV, section 15, of the Oregon Constitution, for the Senate.
+(D) The Senate shall appoint members and cochairpersons of the Senate Committee on  Conduct
+within 15 days after the date of the convening  of an organizational session of the odd-numbered year
+regular session of the Legislative Assembly, as soon as practicable after a vacancy occurs or as soon
+as practicable after this rule takes effect.
+(b)(A) The House Committee on Conduct is established, consisting  of four Representatives and
+six alternates. Two Representatives and three alternates must be from the  majority party and two
+Representatives and three alternates must be  from the minority party. Each Representative must be
+appointed by majority vote  of the House of Representatives to serve on the committee or to serve
+as an alternate, following being nominated by any Representative.  The majority and minority caucus
+leaders shall each nominate at least one Representative to serve  as a committee member from their
+caucus.
+(B) At  the time the House of Representatives determines membership of the committee, the
+House shall  appoint one of the committee members from the majority party and one of the committee
+members from  the minority party to be cochairpersons of the House Committee on Conduct. If a
+cochairperson is unable to serve as cochairperson, the other member from the  same party shall
+serve as  acting cochairperson until the initial cochairperson is again able to serve as cochairperson
+or until the House approves the appointment of another cochairperson.
+(C) The House Committee on Conduct shall perform those functions  assigned by this rule to
+carry out the purposes of Article IV,  section 15, of the Oregon Constitution, for the House of Rep-
+resentatives.
+(D) The  House of Representatives shall appoint members of the House Committee on Conduct
+within 15 days after the date of the convening  of an organizational session of the odd-numbered year
+regular session of the Legislative Assembly, as soon as practicable after a vacancy occurs or as soon
+as practicable after this rule takes effect.
+(c) The members of the Senate Committee on Conduct and the members of the House  Committee
+on Conduct shall together comprise the Joint Committee on Conduct. The Joint Committee on  Con-
+duct shall perform the duties assigned  to the joint committee under chapter 604, Oregon Laws 2019,
+or this rule.
+(d)(A) When a member of a committee on conduct  is named as a respondent under this rule, the
+member shall be recused from service as a member of the committee or as a member of the joint
+committee until the matter is resolved.
+(B) When a member of a committee on conduct is a complainant or is identified as  an impacted
+party in a final report in a matter that is  pending before a committee on conduct, the member shall
+be recused from participating in the matter as a committee member.
+(e) If an alternate is required to serve as a member  of a committee on conduct, the specific al-
+ternate shall be selected so as to preserve the balance of committee membership between  majority
+party and minority party members and thereafter in  the order in which the alternate was appointed
+to be an alternate.
+(18) Respectful workplace policies.
+(a) The Joint Committee on Conduct  shall develop and maintain a respectful workplace policy
+to address  conduct that is inconsistent with the policy direction established for the Legislative
+Branch as set forth  in subsection (1) of this rule but that does not rise to the level of creating a
+hostile work environment or violating public accommodation law.
+(b) In addition to establishing standards of conduct and giving examples of conduct  that violates
+those standards, the policy shall establish procedures for determining and imposing remedial  meas-
+ures, including but not limited to training, coaching and counselling.
+(c) For Legislative Branch employees, the policy shall  also establish procedures for determining
+and imposing proportionate discipline when appropriate.
+(d) For members of the Legislative Assembly, the policy  shall also establish procedures for
+making recommendations to the appropriate committee on  conduct established in subsection (17) of
+this rule for proportionate discipline when appropriate.
+(e) The Human Resources  Director shall administer the respectful workplace policy. The direc-
+tor may delegate specific tasks under the policy to other Employee Services employees.
+(19) Prohibition on double jeopardy.
+A person who is subject to the requirements of  this rule may not be accused of violating
+this rule for the same conduct that was previously investigated  and that resulted either in
+an absence of remedial measures being imposed  or imposed remedial measures being com-
+pleted or satisfied.
+[(19)] (20) Application.
+The five-year limitation in [ subsections (11)(a)  and ] subsection  (12)(a) of this rule applies to
+conduct occurring before, on or after the effective date of  this rule, but does not operate to revive
+a claim barred by a previous iteration of this rule.
+Legislative Branch Personnel Rule 27-C:
+(1) The amendments to Legislative Branch  Personnel Rule 27 by this concurrent resol-
+ution apply to confidential disclosures and conduct complaints  that are made on or after the
+date this concurrent resolution is adopted,  and to interim safety measures that begin on or
+after the date this concurrent resolution is  adopted and to investigations that begin on or
+after the date this concurrent resolution is adopted  and that are begun because of a confi-
+dential disclosure or a complaint made on or after the date this concurrent resolution is
+adopted.
+(2) This rule is repealed on December 31, 2029.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Introduced version): ORS 171.740, ORS 173.900, ORS 173.906, ORS 173.909, ORS 173.912, ORS 173.930, ORS 192.311, ORS 40.252, ORS 659A.030, ORS 659A.082, ORS 659A.112, ORS 659A.370
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `c4d01754a7d932c6e5d571473874179e8cea2248f6df73ea1283f73d7e40f465` (snapshot `_meta/snapshots/measure-2025r1-hcr20-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HCR20/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 20` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,3137 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-hb2347
+title: 'HB 2347 (2025R1): Authorizes the Department of Land Conservation and Development to provide planning
+  assistance for housing production to federally recognized Indian tribes.'
+doc_type: dataset_doc
+citation: 2025 Regular Session House Bill 2347
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2347/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 9ed301246fc8e7a263fd9b7c5cb823234ef3fe0222df49ab8dc97c6b9d5fd3ab
+snapshot_id: measure-2025r1-hb2347-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 101.020
+  - ORS 105.550
+  - ORS 181A.410
+  - ORS 184.453
+  - ORS 184.455
+  - ORS 190.003
+  - ORS 192.311
+  - ORS 195.065
+  - ORS 195.120
+  - ORS 195.300
+  - ORS 195.301
+  - ORS 195.305
+  - ORS 195.310
+  - ORS 195.328
+  - ORS 195.332
+  - ORS 197.015
+  - ORS 197.247
+  - ORS 197.250
+  - ORS 197.251
+  - ORS 197.296
+  - ORS 197.319
+  - ORS 197.475
+  - ORS 197.478
+  - ORS 197.493
+  - ORS 197.522
+  - ORS 197.610
+  - ORS 197.628
+  - ORS 197.660
+  - ORS 197.665
+  - ORS 197.667
+  - ORS 197.670
+  - ORS 197.732
+  - ORS 197.761
+  - ORS 197A.015
+  - ORS 197A.018
+  - ORS 197A.030
+  - ORS 197A.100
+  - ORS 197A.103
+  - ORS 197A.110
+  - ORS 197A.115
+  - ORS 197A.130
+  - ORS 197A.230
+  - ORS 197A.245
+  - ORS 197A.270
+  - ORS 197A.280
+  - ORS 197A.285
+  - ORS 197A.335
+  - ORS 197A.348
+  - ORS 197A.350
+  - ORS 197A.365
+  - ORS 197A.370
+  - ORS 197A.395
+  - ORS 197A.400
+  - ORS 197A.420
+  - ORS 197A.425
+  - ORS 197A.430
+  - ORS 197A.465
+  - ORS 197A.470
+  - ORS 215.130
+  - ORS 215.203
+  - ORS 215.213
+  - ORS 215.218
+  - ORS 215.236
+  - ORS 215.246
+  - ORS 215.255
+  - ORS 215.263
+  - ORS 215.274
+  - ORS 215.275
+  - ORS 215.279
+  - ORS 215.283
+  - ORS 215.284
+  - ORS 215.291
+  - ORS 215.293
+  - ORS 215.296
+  - ORS 215.298
+  - ORS 215.317
+  - ORS 215.327
+  - ORS 215.402
+  - ORS 215.416
+  - ORS 215.422
+  - ORS 215.427
+  - ORS 215.435
+  - ORS 215.446
+  - ORS 215.447
+  - ORS 215.448
+  - ORS 215.449
+  - ORS 215.451
+  - ORS 215.452
+  - ORS 215.490
+  - ORS 215.495
+  - ORS 215.501
+  - ORS 215.705
+  - ORS 215.710
+  - ORS 215.720
+  - ORS 215.730
+  - ORS 215.740
+  - ORS 215.750
+  - ORS 215.757
+  - ORS 215.780
+  - ORS 227.030
+  - ORS 227.160
+  - ORS 227.175
+  - ORS 227.178
+  - ORS 227.179
+  - ORS 227.180
+  - ORS 227.181
+  - ORS 227.450
+  - ORS 30.930
+  - ORS 30.936
+  - ORS 308A.050
+  - ORS 308A.250
+  - ORS 308A.315
+  - ORS 308A.403
+  - ORS 308A.430
+  - ORS 308A.450
+  - ORS 308A.465
+  - ORS 315.141
+  - ORS 321.257
+  - ORS 321.267
+  - ORS 321.805
+  - ORS 326.695
+  - ORS 329A.250
+  - ORS 329A.280
+  - ORS 329A.330
+  - ORS 329A.440
+  - ORS 332.002
+  - ORS 334.003
+  - ORS 358.480
+  - ORS 418.205
+  - ORS 418.960
+  - ORS 446.003
+  - ORS 448.119
+  - ORS 454.695
+  - ORS 455.010
+  - ORS 455.405
+  - ORS 455.715
+  - ORS 456.005
+  - ORS 456.270
+  - ORS 456.601
+  - ORS 459.005
+  - ORS 459.205
+  - ORS 459.245
+  - ORS 468B.050
+  - ORS 468B.053
+  - ORS 468B.095
+  - ORS 469.300
+  - ORS 476.392
+  - ORS 477.490
+  - ORS 517.750
+  - ORS 520.005
+  - ORS 522.005
+  - ORS 526.455
+  - ORS 527.610
+  - ORS 527.620
+  - ORS 537.545
+  - ORS 540.505
+  - ORS 561.191
+  - ORS 568.900
+  - ORS 659A.421
+  - ORS 671.318
+  - ORS 671.520
+  - ORS 801.580
+  - ORS 90.100
+  - ORS 90.140
+  - ORS 91.225
+  - ORS 92.010
+  - ORS 92.031
+  - ORS 92.192
+  - ORS 93.277
+  - ORS 94.504
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- hb
+session_key: 2025R1
+measure_prefix: HB
+measure_number: 2347
+prefix_meaning: House Bill
+catch_line: Authorizes the Department of Land Conservation and Development to provide planning assistance
+  for housing production to federally recognized Indian tribes.
+minority_catch_line: null
+measure_summary: "\tDigest: This bill lets DLCD aid tribes with planning and makes various technical changes\
+  \ to land use laws. (Flesch Readability Score: 70.1). \n\tAuthorizes the Department of Land Conservation\
+  \ and Development to provide planning assistance for housing production to federally recognized Indian\
+  \ tribes. Makes other technical changes to laws relating to land use planning."
+relating_to: Relating to land use planning.
+relating_to_full: Relating to land use planning.
+at_the_request_of: (at the request of Governor Tina Kotek for Department of Land Conservation and Development)
+lc_number: 331
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-05-20T11:56:20'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 201856
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 101.020
+  - ORS 105.550
+  - ORS 181A.410
+  - ORS 184.453
+  - ORS 184.455
+  - ORS 190.003
+  - ORS 192.311
+  - ORS 195.065
+  - ORS 195.120
+  - ORS 195.300
+  - ORS 195.301
+  - ORS 195.305
+  - ORS 195.310
+  - ORS 195.328
+  - ORS 195.332
+  - ORS 197.015
+  - ORS 197.247
+  - ORS 197.250
+  - ORS 197.251
+  - ORS 197.296
+  - ORS 197.319
+  - ORS 197.475
+  - ORS 197.478
+  - ORS 197.493
+  - ORS 197.522
+  - ORS 197.610
+  - ORS 197.628
+  - ORS 197.660
+  - ORS 197.665
+  - ORS 197.667
+  - ORS 197.670
+  - ORS 197.732
+  - ORS 197.761
+  - ORS 197A.015
+  - ORS 197A.018
+  - ORS 197A.030
+  - ORS 197A.100
+  - ORS 197A.103
+  - ORS 197A.110
+  - ORS 197A.115
+  - ORS 197A.130
+  - ORS 197A.230
+  - ORS 197A.245
+  - ORS 197A.270
+  - ORS 197A.280
+  - ORS 197A.285
+  - ORS 197A.335
+  - ORS 197A.348
+  - ORS 197A.350
+  - ORS 197A.365
+  - ORS 197A.370
+  - ORS 197A.395
+  - ORS 197A.400
+  - ORS 197A.420
+  - ORS 197A.425
+  - ORS 197A.430
+  - ORS 197A.465
+  - ORS 197A.470
+  - ORS 215.130
+  - ORS 215.203
+  - ORS 215.213
+  - ORS 215.218
+  - ORS 215.236
+  - ORS 215.246
+  - ORS 215.255
+  - ORS 215.263
+  - ORS 215.274
+  - ORS 215.275
+  - ORS 215.279
+  - ORS 215.283
+  - ORS 215.284
+  - ORS 215.291
+  - ORS 215.293
+  - ORS 215.296
+  - ORS 215.298
+  - ORS 215.317
+  - ORS 215.327
+  - ORS 215.402
+  - ORS 215.416
+  - ORS 215.422
+  - ORS 215.427
+  - ORS 215.435
+  - ORS 215.446
+  - ORS 215.447
+  - ORS 215.448
+  - ORS 215.449
+  - ORS 215.451
+  - ORS 215.452
+  - ORS 215.490
+  - ORS 215.495
+  - ORS 215.501
+  - ORS 215.705
+  - ORS 215.710
+  - ORS 215.720
+  - ORS 215.730
+  - ORS 215.740
+  - ORS 215.750
+  - ORS 215.757
+  - ORS 215.780
+  - ORS 227.030
+  - ORS 227.160
+  - ORS 227.175
+  - ORS 227.178
+  - ORS 227.179
+  - ORS 227.180
+  - ORS 227.181
+  - ORS 227.450
+  - ORS 30.930
+  - ORS 30.936
+  - ORS 308A.050
+  - ORS 308A.250
+  - ORS 308A.315
+  - ORS 308A.403
+  - ORS 308A.430
+  - ORS 308A.450
+  - ORS 308A.465
+  - ORS 315.141
+  - ORS 321.257
+  - ORS 321.267
+  - ORS 321.805
+  - ORS 326.695
+  - ORS 329A.250
+  - ORS 329A.280
+  - ORS 329A.330
+  - ORS 329A.440
+  - ORS 332.002
+  - ORS 334.003
+  - ORS 358.480
+  - ORS 418.205
+  - ORS 418.960
+  - ORS 446.003
+  - ORS 448.119
+  - ORS 454.695
+  - ORS 455.010
+  - ORS 455.405
+  - ORS 455.715
+  - ORS 456.005
+  - ORS 456.270
+  - ORS 456.601
+  - ORS 459.005
+  - ORS 459.205
+  - ORS 459.245
+  - ORS 468B.050
+  - ORS 468B.053
+  - ORS 468B.095
+  - ORS 469.300
+  - ORS 476.392
+  - ORS 477.490
+  - ORS 517.750
+  - ORS 520.005
+  - ORS 522.005
+  - ORS 526.455
+  - ORS 527.610
+  - ORS 527.620
+  - ORS 537.545
+  - ORS 540.505
+  - ORS 561.191
+  - ORS 568.900
+  - ORS 659A.421
+  - ORS 671.318
+  - ORS 671.520
+  - ORS 801.580
+  - ORS 90.100
+  - ORS 90.140
+  - ORS 91.225
+  - ORS 92.010
+  - ORS 92.031
+  - ORS 92.192
+  - ORS 93.277
+  - ORS 94.504
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2347`.
+
+# HB 2347 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** House Bill 2347, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for Department of Land Conservation and Development)
+- **LC number:** 331
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-05-20T11:56:20
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 201856 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2347/Enrolled>.
+
+## Summary
+
+**Catchline:** Authorizes the Department of Land Conservation and Development to provide planning assistance for housing production to federally recognized Indian tribes.
+
+**Relating to:** Relating to land use planning.
+
+Digest: This bill lets DLCD aid tribes with planning and makes various technical changes to land use laws. (Flesch Readability Score: 70.1). 
+ Authorizes the Department of Land Conservation and Development to provide planning assistance for housing production to federally recognized Indian tribes. Makes other technical changes to laws relating to land use planning.
+
+**RelatingToFull (verbatim upstream field):** Relating to land use planning.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+House Bill 2347
+Introduced and printed pursuant to House  Rule 12.00. Presession filed (at the request of Governor
+Tina Kotek for Department of Land Conservation and Development)
+CHAPTER .................................................
+AN ACT
+Relating to land use planning; creating  new provisions; and amending ORS 93.277, 195.300, 197.478,
+197.493, 197.522, 197.665, 197.667, 197.670, 197.761,  197A.015, 197A.018, 197A.030, 197A.100,
+197A.110, 197A.245, 197A.270, 197A.348, 197A.350, 197A.370,  197A.395, 197A.420, 197A.425,
+197A.430, 197A.465, 197A.470, 215.203, 215.213, 215.236, 215.284, 215.293, 215.296, 215.317, 215.427,
+215.490, 215.495, 215.501, 215.705, 215.730, 215.750, 215.757, 227.178, 227.450, 329A.440 and 418.960
+and section 1, chapter 527, Oregon  Laws 2021, section 9, chapter 552, Oregon Laws 2021, section
+3, chapter 102, Oregon Laws 2024, section 1, chapter 103, Oregon  Laws 2024, section 38, chapter
+110, Oregon Laws 2024, and section 2, chapter 111, Oregon Laws 2024.
+Be It Enacted by the People of the State of Oregon:
+PLANNING ASSISTANCE TO TRIBES
+SECTION 1.  ORS 197A.030 is amended to read:
+197A.030. The Department of Land Conservation and Development may provide technical  as-
+sistance and award  grants to local governments and federally recognized Indian tribes in this
+state to enable [ them] local governments  to implement  the provisions of ORS chapter 197A and to
+enable local governments and tribes to  take other actions to incentivize  the production of needed
+housing within the jurisdiction of the local  government  or tribe or on lands owned or managed
+by a federally recognized Indian tribe .
+MANUFACTURED DWELLING DEVELOPMENT
+SECTION 2.  ORS 197.478 is amended to read:
+197.478. (1) Notwithstanding any other provision in ORS chapter 197A, within  an urban growth
+boundary, a local government shall allow  the siting of manufactured homes and prefabricated
+structures on all land zoned to allow the development of [ single-family] single-unit dwellings.
+(2) This section does not apply to any area designated  in an acknowledged comprehensive plan
+or land use regulation as a historic district or residential land immediately adjacent to  a historic
+landmark.
+(3) Manufactured homes and prefabricated structures allowed under this section  are in addition
+to manufactured dwellings or prefabricated structures allowed within designated manufactured
+dwelling subdivisions.
+Enrolled House Bill 2347 (HB 2347-A) Page 1
+(4) A local  government may not subject manufactured homes or prefabricated structures within
+an urban growth boundary, or the land upon which the homes or structures are sited, to any appli-
+cable standard that would not apply to a [ detached,] site-built [ single-family] dwelling of the same
+housing type on the same land, except:
+(a) As necessary to comply with a protective measure  adopted pursuant to a statewide land use
+planning goal; or
+(b) To  require that the manufacturer certify that the manufactured home or prefabricated
+structure has an exterior  thermal envelope meeting performance standards which reduce levels
+equivalent to the  performance standards required of [ single-family] single-unit dwellings constructed
+under the Low-Rise Residential Dwelling Code as defined in ORS 455.010.
+(5) Within any residential zone inside  an urban growth boundary where a manufactured dwelling
+park is otherwise allowed, a city or county  may not adopt a minimum lot size for a manufactured
+dwelling park that is larger than one acre.
+(6) This section may not be construed as abrogating a recorded restrictive covenant.
+METRO URBANIZABLE LANDS
+SECTION 3.
+ Section 3, chapter 102, Oregon Laws 2024, is amended to read:
+Sec. 3.  (1) As used in this section, “Metro urbanizable lands” means lands within the Metro
+urban growth boundary that [ is] are  not within a city and [ is] are  not  Metro urban unincorporated
+land.
+(2) In fulfilling a requirement to comply with this chapter, a local government may  plan for the
+appropriate urbanization of Metro urbanizable  lands, by using methods including adjacent
+urbanizable lands:
+(a) In an intergovernmental agreement  related to the urbanization of such lands ;
+(b) In a housing production strategy, housing coordination strategy or  corrective action plan
+under ORS 197A.100, 197A.365 or 197A.372; or
+(c) To accommodate needed housing identified in  an analysis of housing capacity under ORS
+197A.335 or 197A.350.
+(3) Except as may  be explicitly delegated in an intergovernmental agreement, counties are solely
+responsible for complying with this chapter with respect to Metro  urban unincorporated lands that
+are within their jurisdiction.
+COMPLETENESS REVIEW
+SECTION 4.  ORS 215.427, as amended by section  7, chapter 102, Oregon Laws 2024, and section
+8, chapter 110, Oregon Laws 2024, is amended to read:
+215.427. (1) Except as provided in subsections (3), (5) and (10) of  this section, for land within an
+urban growth boundary and applications for mineral aggregate extraction, the  governing body of a
+county or its designee  shall take final action on an application for a permit, limited land use deci-
+sion or zone change, including resolution of all  appeals under ORS 215.422, within 120 days after the
+application is deemed complete. The governing body of a county or its designee shall  take final
+action on all other  applications for a permit, limited land use decision or zone change, including
+resolution of all appeals under ORS 215.422, within 150 days after the application is deemed  com-
+plete, except as provided in subsections (3), (5) and (10) of this section.
+(2) If an application for a permit, limited land use decision or zone  change is incomplete, the
+governing body or its designee shall  notify the applicant in writing of exactly what information is
+missing within 30 days of receipt of the application and  allow the applicant to submit the missing
+information. The application shall be  deemed complete for the purpose of subsection (1) of this sec-
+tion and ORS 197A.470 upon receipt by the governing body or its designee of:
+(a) All of the missing information;
+Enrolled House Bill 2347 (HB 2347-A) Page 2
+(b) Some of the missing information and written notice from  the applicant that no other infor-
+mation will be provided; or
+(c) Written notice from the applicant that none of the missing information will be provided.
+(3)(a) [ If the application was complete when first submitted or  the applicant submits additional
+information within 180 days of the date the application was first submitted, ] Approval or  denial of [ the
+application] an application that was complete when first  submitted or deemed complete pur-
+suant to subsection (2) of this section  must be based:
+(A) Upon the standards and criteria  that were applicable at the time the application was first
+submitted; or
+(B) For an application  relating to development of housing, upon the request of the applicant,
+those standards and criteria that are operative at the time of the request.
+(b) If an applicant requests review under different  standards as provided in paragraph (a)(B) of
+this subsection:
+(A) For the purposes of this section, any applicable timelines for completeness review and  final
+decisions restart as if a new application were submitted on the date of the request;
+(B) For  the purposes of this section and ORS 197A.470 the application is not deemed complete
+until:
+(i) The county determines that additional information is  not required under subsection (2) of this
+section; or
+(ii) The applicant makes a submission under subsection (2) of this section in response to  a
+county’s request;
+(C) A county may deny a request under paragraph (a)(B) of this subsection if:
+(i) The county has issued a public notice of the application; or
+(ii) A request under paragraph (a)(B) of this subsection was previously made; and
+(D) The county may not require that the applicant:
+(i) Pay a fee, except to cover additional costs incurred by the county to accommodate  the re-
+quest;
+(ii) Submit  a new application or duplicative information, unless information resubmittal is re-
+quired because the request affects or changes information in other locations in the  application or
+additional narrative is required to understand the request in context; or
+(iii) Repeat redundant processes or hearings  that are inapplicable to the change in standards
+or criteria.
+(4) On the  181st day after first being submitted, the application is void if the applicant has been
+notified of the missing information as required under subsection (2)  of this section and has not
+submitted:
+(a) All of the missing information;
+(b) Some of the missing information and written notice that no other information  will be pro-
+vided; or
+(c) Written notice that none of the missing information will be provided.
+(5) The period set  in subsection (1) of this section or the 100-day period set in ORS 197A.470
+may be extended for a specified period of time at the written request  of the applicant. The total of
+all extensions, except as provided in subsection (10) of this section for  mediation, may not exceed
+215 days.
+(6) The period set in subsection (1) of this section applies:
+(a) Only  to decisions wholly within the authority and control of the governing body of the
+county; and
+(b) Unless the parties have agreed to mediation as described  in subsection (10) of this section
+or ORS 197.319 (2)(b).
+(7) Notwithstanding subsection (6)  of this section, the period set in subsection (1) of this section
+and the 100-day period set in ORS 197A.470 do not apply to:
+Enrolled House Bill 2347 (HB 2347-A) Page 3
+(a) A decision of the county making a change to an acknowledged comprehensive plan or a land
+use regulation  that is submitted to the Director of the Department of Land Conservation and De-
+velopment under ORS 197.610; or
+(b) A decision of  a county involving an application for the development of residential structures
+within an urban growth boundary, where the county has tentatively approved the application  and
+extends these periods by no more than seven days in order to assure  the sufficiency of its final or-
+der.
+(8) Except when an applicant requests  an extension under subsection (5) of this section, if the
+governing body of  the county or its designee does not take final action on an application for a
+permit, limited land use decision or zone change within 120 days or 150 days, as applicable,  after
+the application is deemed complete, the county shall refund to  the applicant either the unexpended
+portion of any  application fees or deposits previously paid or 50 percent of the total amount of such
+fees or deposits, whichever is greater.  The applicant is not liable for additional governmental fees
+incurred subsequent to the payment of such  fees or deposits. However, the applicant is responsible
+for the costs of providing sufficient  additional information to address relevant issues identified in
+the consideration of the application.
+(9) A county may not compel an applicant to waive the  period set in subsection (1) of this sec-
+tion or to waive the provisions of subsection (8) of  this section or ORS 197A.470 or 215.429 as a
+condition for taking  any action on an application for a permit, limited land use decision or zone
+change except when such applications are  filed concurrently and considered jointly with a plan
+amendment.
+(10) The periods set forth in subsections (1) and (5) of this section and ORS 197A.470 may  be
+extended by up  to 90 additional days, if the applicant and the county agree that a dispute concern-
+ing the application will be mediated.
+SECTION 5.  ORS 227.178, as amended by section  8, chapter 102, Oregon Laws 2024, and section
+9, chapter 110, Oregon Laws 2024, is amended to read:
+227.178. (1) Except as provided in subsections (3), (5) and (11) of  this section, the governing body
+of a city or its designee shall  take final action on an application for a permit, limited land use de-
+cision or zone change, including resolution of all appeals  under ORS 227.180, within 120 days after
+the application is deemed complete.
+(2) If an application for a permit, limited land use decision or zone  change is incomplete, the
+governing body or its designee shall  notify the applicant in writing of exactly what information is
+missing within 30 days of receipt of the application and  allow the applicant to submit the missing
+information. The application shall be  deemed complete for the purpose of subsection (1) of this sec-
+tion or ORS 197A.470 upon receipt by the governing body or its designee of:
+(a) All of the missing information;
+(b) Some of the missing information and written notice from  the applicant that no other infor-
+mation will be provided; or
+(c) Written notice from the applicant that none of the missing information will be provided.
+(3)(a) [ If the application was  complete when first submitted or the applicant submits the requested
+additional information within 180 days of the date the application was first submitted, ] Approval or
+denial of [ the application ] an application  that was complete when first submitted or deemed
+complete pursuant to subsection (2) of this section  must be based:
+(A) Upon the standards and criteria that were applicable at the  time the application was first
+submitted; or
+(B) For an application relating to development of housing, upon the request  of the applicant,
+those standards and criteria that are operative at the time of the request.
+(b) If an applicant requests review under different  standards as provided in paragraph (a)(B) of
+this subsection:
+(A) For  the purposes of this section, any applicable timelines for completeness review and final
+decisions restart as if a new application were submitted on the date of the request;
+Enrolled House Bill 2347 (HB 2347-A) Page 4
+(B) For the purposes of this section and ORS 197A.470 the application is not deemed  complete
+until:
+(i) The city determines that additional information is not  required under subsection (2) of this
+section;  or
+(ii) The applicant  makes a submission under subsection (2) of this section in response to a city’s
+request;
+(C) A city may deny a request under paragraph (a)(B) of this subsection if:
+(i) The city has issued a public notice of the application; or
+(ii) A request under paragraph (a)(B) of this subsection was previously made; and
+(D) The city may not require that the applicant:
+(i) Pay a fee, except to cover additional costs incurred by the city  to accommodate the request;
+(ii) Submit  a new application or duplicative information, unless information resubmittal is re-
+quired because the request affects or changes information in other locations in the  application or
+additional narrative is required to understand the request in context; or
+(iii) Repeat redundant processes or hearings  that are inapplicable to the change in standards
+or criteria.
+(4) On the  181st day after first being submitted, the application is void if the applicant has been
+notified of the missing information as required under subsection (2)  of this section and has not
+submitted:
+(a) All of the missing information;
+(b) Some of the missing information and written notice that no other information  will be pro-
+vided; or
+(c) Written notice that none of the missing information will be provided.
+(5) The 120-day period set in subsection (1)  of this section or the 100-day period set in ORS
+197A.470 may be extended for a specified period of time at  the written request of the applicant.
+The total of all extensions, except as provided in  subsection (11) of this section for mediation, may
+not exceed 245 days.
+(6) The 120-day period set in subsection (1) of this section applies:
+(a) Only to decisions wholly within the authority and control of the governing body of  the city;
+and
+(b) Unless the parties have agreed to  mediation as described in subsection (11) of this section
+or ORS 197.319 (2)(b).
+(7) Notwithstanding subsection (6) of this section, the 120-day period set in subsection (1) of  this
+section and the 100-day period set in ORS 197A.470 do not apply to:
+(a) A decision of the city making a change to an acknowledged  comprehensive plan or a land
+use regulation  that is submitted to the Director of the Department of Land Conservation and De-
+velopment under ORS 197.610; or
+(b) A decision of a  city involving an application for the development of residential structures
+within an urban growth boundary, where the city has tentatively approved the application and ex-
+tends these periods by no more than seven days in order  to assure the sufficiency of its final order.
+(8) Except when an applicant requests  an extension under subsection (5) of this section, if the
+governing body of the city or its designee does not take final action  on an application for a permit,
+limited land use decision or zone change  within 120 days after the application is deemed complete,
+the city shall refund to the applicant, subject to the provisions of  subsection (9) of this section, ei-
+ther the unexpended portion of any application  fees or deposits previously paid or 50 percent of the
+total amount of such fees or deposits, whichever is greater. The  applicant is not liable for additional
+governmental fees incurred subsequent to the payment of such  fees or deposits. However, the ap-
+plicant is responsible for the costs of providing  sufficient additional information to address relevant
+issues identified in the consideration of the application.
+(9)(a) To obtain a refund under subsection (8) of this section, the applicant may either:
+(A) Submit a  written request for payment, either by mail or in person, to the city or its designee;
+or
+Enrolled House Bill 2347 (HB 2347-A) Page 5
+(B) Include the amount claimed in a mandamus petition filed under  ORS 227.179. The court shall
+award an amount owed under this section in its final order on the petition.
+(b) Within seven calendar days  of receiving a request for a refund, the city or its designee shall
+determine the amount of any refund owed. Payment, or notice that no payment  is due, shall be made
+to the  applicant within 30 calendar days of receiving the request. Any amount due and not paid
+within 30 calendar days of receipt of the request shall be subject to interest charges  at the rate of
+one percent per month, or a portion thereof.
+(c) If payment due under paragraph (b) of this subsection is not paid within 120  days after the
+city or its designee receives the  refund request, the applicant may file an action for recovery of the
+unpaid refund. In an action brought by a person under  this paragraph, the court shall award to a
+prevailing applicant, in addition to the relief provided  in this section, reasonable attorney fees and
+costs at trial and on  appeal. If the city or its designee prevails, the court shall award reasonable
+attorney fees and costs at trial and on appeal if the court finds the petition to be frivolous.
+(10) A city may not compel an applicant to waive the 120-day period set in subsection (1) of this
+section or to waive the provisions of subsection (8) of this section or  ORS 197A.470 or 227.179 as
+a condition  for taking any action on an application for a permit, limited land use decision or zone
+change except when such applications are  filed concurrently and considered jointly with a plan
+amendment.
+(11) The periods set forth in subsections (1) and (5) of this section and ORS 197A.470 may  be
+extended by up to 90 additional days, if the  applicant and the city agree that a dispute concerning
+the application will be mediated.
+HOUSING PRODUCTION STRATEGY IMPLEMENTATION REPORT
+SECTION 5a.  ORS 197A.100 is amended to read:
+197A.100. (1) A city with a population of 10,000 or greater shall develop and adopt  a housing
+production strategy under this section no later than the latter of the date:
+(a) One year after the  city’s deadline for completing a housing capacity determination under
+ORS 197A.270 (2), 197A.280 (2) or 197A.335 (1); or
+(b) If the city was referred to the housing acceleration program under  ORS 197A.130, three
+years following the most recent adoption of a strategy.
+(2) A housing production strategy must include a list of specific actions, including the adoption
+of measures and policies, that the city shall undertake to promote:
+(a) The development of needed housing;
+(b) The development and maintenance of housing that is of diverse housing types, high-quality,
+affordable and accessible;
+(c) Housing with access to economic opportunities, services and amenities; and
+(d) Affirmatively furthering fair housing.
+(3) Actions that may be included in a housing production strategy include:
+(a) The reduction of financial  and regulatory impediments to developing needed housing, in-
+cluding removing or  easing approval standards or procedures for needed housing at higher densities
+or that is affordable;
+(b) The creation of  financial and regulatory incentives for development of needed housing, in-
+cluding creating incentives for needed housing at higher densities or that is affordable;
+(c) The development of a plan to access resources  available at local, regional, state and national
+levels to increase the availability and affordability of needed housing;
+(d) Target development on identified development-ready lands;
+(e) Actions that affirmatively further fair housing;
+(f) Actions that:
+(A) Increase housing diversity, efficiency and affordability, including new construction  and the
+preservation of naturally occurring affordable housing;
+Enrolled House Bill 2347 (HB 2347-A) Page 6
+(B) Allow greater housing choice for households and greater flexibility  in location, type and
+density;
+(C) Reduce cost or delay and increase procedural certainty for the production of housing; or
+(D) Prepare land for development or redevelopment, including:
+(i) Public facilities planning and other investment strategies that increase the readiness of  land
+for development for housing production;
+(ii) Site preparation, financial incentives or other incentive-based  measures that increase the
+likelihood of development or redevelopment of land; or
+(iii) The redevelopment of underutilized commercial and employment lands for housing  or a mix
+of housing and commercial uses; or
+(g) Any other actions identified by rule of the  Land Conservation and Development Commission
+intended to promote housing production, affordability and choice.
+(4) Actions proposed in  a city’s housing production strategy shall include clear deadlines by
+which the city expects to undertake the action.
+(5) In creating a housing production strategy, a city shall review and consider:
+(a) Socioeconomic and demographic characteristics of households living  in existing needed
+housing;
+(b) Market conditions affecting the provision of needed housing;
+(c) Measures already adopted by the city to promote the development of needed housing;
+(d) Existing and expected barriers to the development of needed housing; and
+(e) For each action the city includes in its housing production strategy:
+(A) The schedule for its adoption;
+(B) The schedule for its implementation;
+(C) Its expected magnitude of impact on the development of needed housing; and
+(D) The time frame over which it is expected to impact needed housing.
+(6) The housing production  strategy must include within its index a copy of the city’s most re-
+cently completed [ survey under ORS 197A.110 ] housing production strategy implementation re-
+port under ORS 197A.115 .
+(7) The adoption of a housing production strategy is  not a land use decision and is not subject
+to appeal or review except as provided in ORS 197A.103.
+(8) A city with a population of less than  10,000 may develop a housing production strategy as
+provided in this section.
+(9) As used in this section, “affirmatively furthering fair housing”  means meaningful actions
+that, when taken together, address significant disparities  in housing needs and access to opportunity
+and replace segregated living  patterns with truly integrated and balanced living patterns to trans-
+form racially and ethnically concentrated areas of poverty into areas of opportunity and  foster and
+maintain compliance with civil rights and fair housing laws.
+APPLICATION AMENDMENTS FOR NEEDED HOUSING
+SECTION 6.
+ORS 197.522 is added to and made a part of ORS chapter 197A.
+SECTION 7.  ORS 197.522, as amended by section  31, chapter 102, Oregon Laws 2024, is
+amended to read:
+197.522. (1) As used in this section:
+[(a) “Needed housing” has the meaning given that term in ORS 197A.018. ]
+[(b)] (a)  “Partition” has the meaning given that term in ORS 92.010.
+[(c)] (b)  “Permit” means a permit as defined in ORS 215.402 and a permit as defined in ORS
+227.160.
+[(d)] (c)  “Subdivision” has the meaning given that term in ORS 92.010.
+(2) A local government shall approve an application for a permit, authorization  or other ap-
+proval necessary for the subdivision or  partitioning of, or construction on, any land for needed
+housing that is consistent with the comprehensive plan and applicable land use regulations.
+Enrolled House Bill 2347 (HB 2347-A) Page 7
+(3) If an application described in subsection (2) of this section  is inconsistent with the com-
+prehensive plan and applicable land use regulations, the local government, prior to  making a final
+decision on the application,  shall allow the applicant to offer an amendment or to propose conditions
+of approval that would make the  application consistent with the plan and applicable regulations. If
+an applicant seeks to amend the application or propose conditions of approval:
+(a) A county may extend the time limitation under  ORS 215.427 for final action by the governing
+body of a county on an application for  needed housing and may set forth a new time limitation for
+final action on the consideration of future amendments or proposals.
+(b) A city may extend the time limitation under ORS 227.178 for final action  by the governing
+body of a city on an application for needed housing and  may set forth a new time limitation for final
+action on the consideration of future amendments or proposals.
+(4) A local government shall deny an application that is  inconsistent with the comprehensive
+plan and applicable land use regulations and  that cannot be made consistent through amendments
+to the application or the imposition of reasonable conditions of approval.
+DEADLINE FOR CITY REPORT ON HOUSING
+SECTION 8.  ORS 197A.110 is amended to read:
+197A.110. (1) [ No later than February 1 of ] Each year , by a  date established by the Depart-
+ment of Land Conservation  and Development , each city with a population of 10,000 or greater
+shall submit to the [ Department of Land Conservation and Development ] department a report for the
+immediately preceding calendar year setting forth:
+(a) The number of residential units permitted and the number produced, segmented by:
+(A) [ Single-family homes] Single-unit dwellings.
+(B) Accessory dwelling units.
+(C) Units of middle housing.
+(D) [ Multifamily residential units ] Multiunit housing , not including middle housing.
+(E) Units with accessibility features  or of an accessibility category as recognized by a building
+code established under ORS chapter 455.
+(b) For each segment under paragraph (a) of this subsection, the number of units that were
+subject to a recorded agreement that runs with the land and that  requires affordability for an es-
+tablished income level for a defined period, but that would not be included in the inventory of  pub-
+licly supported housing described in ORS 456.601 (3)(a).
+(2) The  Department of Land Conservation and Development, in consultation with the Housing
+and Community Services Department, shall  develop a format by which data required under this
+section must be submitted. The  Department of Land Conservation and Development shall provide a
+copy of any form or notice of the format to each city required to provide a report.
+(3) The Department of Land Conservation and Development shall provide a  copy of the data
+received under this  section to the Oregon Department of Administrative Services and the Housing
+and Community Services Department [ by July 1 of ] each year.
+SINGLE-UNIT AND MULTIUNIT TERMINOLOGY
+SECTION 8a.
+Section 8b of this 2025 Act is added to and made a part of ORS chapter 197.
+SECTION 8b. (1) For the purpose of harmonizing and clarifying  land use law, a state
+agency or local government may, wherever the terms appear  within land use regulations,
+zoning maps, comprehensive plans, regional framework plans or administrative rules, sub-
+stitute the terms:
+(a) “Single-unit housing” for “single-family housing” or similar terms; and
+(b) “Multiunit housing” for “multifamily housing” or similar terms.
+(2) A substitution of terms under this section:
+(a) Is considered a minor correction to administrative rules.
+Enrolled House Bill 2347 (HB 2347-A) Page 8
+(b) May be done by ordinance or resolution  of a local government without requiring any
+notice or hearing, notwithstanding any provision of ORS chapter 215 or 227.
+SECTION 9.  ORS 93.277 is amended to read:
+93.277. A provision in a recorded instrument affecting real property is not enforceable if:
+(1) The provision would allow the development of a  [ single-family] single-unit  dwelling on the
+real property but would prohibit the development of, or the partitioning or subdividing of lands  un-
+der ORS 92.031 for:
+(a) Middle housing, as defined in ORS 197A.420; or
+(b) An accessory dwelling unit allowed under ORS 197A.425 (1); and
+(2) The instrument was executed on or after January 1, 2021.
+SECTION 10.
+ ORS 195.300 is amended to read:
+195.300. As  used in this section and ORS 195.301 and 195.305 to 195.336 and sections 5 to 11,
+chapter 424, Oregon Laws 2007, and sections 2  to 9 and 17, chapter 855, Oregon Laws 2009, and
+sections 2 to 7, chapter 8, Oregon Laws 2010:
+(1) “Acquisition date” means the date described in ORS 195.328.
+(2) “Claim” means a written demand for compensation filed under:
+(a) ORS 195.305, as in effect immediately before December 6, 2007; or
+(b) ORS 195.305 and 195.310 to 195.314, as in effect on and after December 6, 2007.
+(3) “Enacted” means enacted, adopted or amended.
+(4) “Fair market value” means the value of property as determined under ORS 195.332.
+(5) “Farming practice” has the meaning given that term in ORS 30.930.
+(6) “Federal law” means:
+(a) A statute, regulation,  order, decree or policy enacted by a federal entity or by a state entity
+acting under authority delegated by the federal government;
+(b) A requirement contained in a plan or rule enacted by a compact entity; or
+(c) A requirement contained in a permit issued by a federal or state agency pursuant  to a fed-
+eral statute or regulation.
+(7) “File” means to submit a document to a public entity.
+(8) “Forest practice” has the meaning given that term in ORS 527.620.
+(9) “Ground water restricted area” means an area designated as a critical ground water  area
+or as  a ground water limited area by the Water Resources Department or Water Resources Com-
+mission before December 6, 2007.
+(10) “High-value farmland” means:
+(a) High-value farmland as described in ORS 215.710 that is land in  an exclusive farm use zone
+or a mixed farm and forest zone, except that the dates specified in ORS  215.710 (2), (4) and (6) are
+December 6, 2007.
+(b) Land west of  U.S. Highway 101 that is composed predominantly of the following soils in
+Class III or IV or composed  predominantly of a combination of the soils described in ORS 215.710
+(1) and the following soils:
+(A) Subclassification IIIw, specifically Ettersburg Silt Loam and Croftland Silty Clay Loam;
+(B) Subclassification IIIe, specifically Klooqueth Silty Clay Loam and Winchuck Silt Loam; and
+(C) Subclassification IVw, specifically Huffling Silty Clay Loam.
+(c) Land that is in an exclusive farm use zone or a mixed farm and forest zone and  that on June
+28, 2007, is:
+(A) Within the place of  use for a permit, certificate or decree for the use of water for irrigation
+issued by the Water Resources Department;
+(B) Within the boundaries of a district, as defined in ORS 540.505; or
+(C) Within the boundaries of a diking district formed under ORS chapter 551.
+(d) Land that contains not less than five acres planted in wine grapes.
+(e) Land that is in an exclusive farm use zone and that is at an elevation between 200 and 1,000
+feet above mean sea level, with an aspect between 67.5 and 292.5 degrees and a  slope between zero
+and 15 percent, and that is located within:
+Enrolled House Bill 2347 (HB 2347-A) Page 9
+(A) The Southern Oregon viticultural area as described in 27 C.F.R. 9.179;
+(B) The Umpqua Valley viticultural area as described in 27 C.F.R. 9.89; or
+(C) The Willamette Valley viticultural area as described in 27 C.F.R. 9.90.
+(f) Land that is in an exclusive farm use zone and that is no more than 3,000 feet  above mean
+sea level, with an aspect between 67.5 and  292.5 degrees and a slope between zero and 15 percent,
+and that is located within:
+(A) The portion of the Columbia Gorge viticultural area as described in  27 C.F.R. 9.178 that is
+within the State of Oregon;
+(B) The Rogue Valley viticultural area as described in 27 C.F.R. 9.132;
+(C) The portion of the Columbia Valley viticultural area as  described in 27 C.F.R. 9.74 that is
+within the State of Oregon;
+(D) The portion of the Walla Walla Valley viticultural area as described in 27  C.F.R. 9.91 that
+is within the State of Oregon; or
+(E) The portion of the Snake River Valley viticultural area as described in 27 C.F.R. 9.208  that
+is within the State of Oregon.
+(11) “High-value forestland” means land:
+(a) That is in a forest zone or  a mixed farm and forest zone, that is located in western Oregon
+and composed predominantly of soils capable of  producing more than 120 cubic feet per acre per
+year of wood fiber and that is capable of producing more than 5,000 cubic feet per year  of com-
+mercial tree species; or
+(b) That is in a forest  zone or a mixed farm and forest zone, that is located in eastern Oregon
+and composed predominantly of soils capable of producing more than 85  cubic feet per acre per year
+of wood fiber and that is capable of producing more than 4,000 cubic  feet per year of commercial
+tree species.
+(12) “Home site approval”  means approval of the subdivision or partition of property or approval
+of the establishment of a dwelling on property.
+(13) “Just compensation” means:
+(a) Relief under sections 5 to 11, chapter 424, Oregon Laws 2007, sections 2 to 9  and 17, chapter
+855, Oregon Laws 2009, and sections 2 to 7, chapter  8, Oregon Laws 2010, for land use regulations
+enacted on or before January 1, 2007; and
+(b) Relief under ORS 195.310 to 195.314 for land use regulations enacted after January 1, 2007.
+(14) “Land use regulation” means:
+(a) A statute that establishes a minimum lot or parcel size;
+(b) A provision in ORS 227.030 to 227.300, 227.350, 227.400, 227.450 or 227.500 or in ORS  chapter
+215 that restricts the residential use of private real property;
+(c) A  provision of a city comprehensive plan, zoning ordinance or land division ordinance that
+restricts the residential use of private real property zoned for residential use;
+(d) A provision of a county comprehensive plan, zoning ordinance  or land division ordinance
+that restricts the residential use of private real property;
+(e) A provision, enacted or adopted on or after January 1, 2010, of:
+(A) The Oregon Forest Practices Act;
+(B) An administrative rule of the State Board of Forestry; or
+(C) Any other law enacted,  or rule adopted, solely for the purpose of regulating a forest prac-
+tice;
+(f) ORS 561.191, a  provision of ORS 568.900 to 568.933 or an administrative rule of the State
+Department of Agriculture that implements ORS 561.191 or 568.900 to 568.933;
+(g) An administrative rule or goal of the Land Conservation and Development Commission; or
+(h) A provision of a Metro functional plan that restricts the residential  use of private real
+property.
+(15) “Lawfully established unit of land” has the meaning given that term in ORS 92.010.
+(16) “Lot” has the meaning given that term in ORS 92.010.
+Enrolled House Bill 2347 (HB 2347-A) Page 10
+(17) “Measure 37 permit” means  a final decision by Metro, a city or a county to authorize the
+development, subdivision or partition or other use of property pursuant to a waiver.
+(18) “Owner” means:
+(a) The owner of fee title to the  property as shown in the deed records of the county where the
+property is located;
+(b) The purchaser under a land sale contract,  if there is a recorded land sale contract in force
+for the property; or
+(c) If the property is owned by the trustee of a revocable trust,  the settlor of a revocable trust,
+except that when the trust becomes irrevocable only the trustee is the owner.
+(19) “Parcel” has the meaning given that term in ORS 92.010.
+(20) “Property” means the private real  property described in a claim and contiguous private real
+property that is owned by the  same owner, whether or not the contiguous property is described in
+another claim, and that is not property  owned by the federal government, an Indian tribe or a public
+body, as defined in ORS 192.311.
+(21) “Protection of public health and safety” means a law, rule, ordinance, order, policy,  permit
+or other governmental authorization that restricts a use of property in  order to reduce the risk or
+consequence  of  fire, earthquake, landslide, flood, storm, pollution, disease, crime or other natural
+or human disaster or threat to persons or property  including, but not limited to, building and fire
+codes, health and sanitation regulations, solid or hazardous waste regulations and pollution control
+regulations.
+(22) “Public entity” means the state, Metro, a county or a city.
+(23) “Waive” or “waiver” means an action  or decision of a public entity to modify, remove or
+not apply one or more land use regulations under ORS 195.305 to 195.336 and sections 5 to 11,
+chapter 424, Oregon Laws 2007, sections 2 to 9 and 17, chapter 855, Oregon  Laws 2009, and sections
+2 to 7, chapter 8, Oregon Laws 2010, or ORS 195.305, as in  effect immediately before December 6,
+2007, to  allow the owner to use property for a use permitted when the owner acquired the property.
+(24) “Zoned for residential use” means zoning that has as its primary purpose [ single-family]
+single-unit residential use.
+SECTION 11.
+ ORS 197.493 is amended to read:
+197.493. (1) A state  agency or local government may not prohibit the placement or occupancy
+of a recreational vehicle, or impose any limit on the length of occupancy of a recreational  vehicle
+as a residential dwelling, solely on the grounds  that the occupancy is in a recreational vehicle, if
+the recreational vehicle is:
+(a) Allowed under ORS 215.490;
+(b)(A) Located in a manufactured dwelling  park, mobile home park or recreational vehicle park;
+(B) Occupied as a residential dwelling; and
+(C) Lawfully connected to water and electrical supply systems  and a sewage disposal system;
+or
+(c) On a lot or parcel with a manufactured dwelling or [ single-family] single-unit  dwelling that
+is uninhabitable due to damages from a natural  disaster, including wildfires, earthquakes, flooding
+or storms, until no later than the date:
+(A) The dwelling has been repaired or replaced and an occupancy permit has been issued;
+(B) The local government makes a determination that the owner of the dwelling is  unreasonably
+delaying in completing repairs or replacing the dwelling; or
+(C) Five years after the date the dwelling first became uninhabitable.
+(2) Subsection (1) of this section does not limit the authority of a state agency  or local govern-
+ment to impose other special conditions on the placement or occupancy of a recreational vehicle.
+SECTION 12.
+ ORS 197.665 is amended to read:
+197.665. (1) Residential homes [ shall be ] are  a permitted use in:
+(a) Any residential zone, including a residential zone which allows  a [ single-family] single-unit
+dwelling; and
+(b) Any commercial zone which allows a [ single-family] single-unit dwelling.
+Enrolled House Bill 2347 (HB 2347-A) Page 11
+(2) A city or county may not impose any zoning requirement on the establishment and mainte-
+nance of a residential home in a zone described in subsection  (1) of this section that is more re-
+strictive than a zoning requirement  imposed on a [ single-family] single-unit  dwelling in the same
+zone.
+(3) A city or county may:
+(a) Allow a residential home  in an existing dwelling in any area zoned for farm use, including
+an exclusive farm use zone established under ORS 215.203;
+(b) Impose zoning requirements on  the establishment of a residential home in areas described in
+paragraph (a) of  this subsection, provided that these requirements are no more restrictive than those
+imposed on other nonfarm [ single-family] single-unit dwellings in the same zone; and
+(c) Allow a division of land for a  residential home in an exclusive farm use zone only as de-
+scribed in ORS 215.263 (9).
+SECTION 13.
+ ORS 197.667 is amended to read:
+197.667. (1) A residential facility [ shall be ] is  a permitted use in any  zone where [ multifamily
+residential uses are ] multiunit housing is  a permitted use.
+(2) A residential facility [ shall be ] is a conditional use in any zone  where [ multifamily residential
+uses are ] multiunit housing is  a conditional use.
+(3) A city or county may allow a residential facility in a residential zone other than those  zones
+described  in  subsections (1) and (2) of this section, including a zone where a [ single-family] single-
+unit dwelling is allowed.
+(4) A city or county may require an applicant proposing to site  a residential facility within its
+jurisdiction to supply the city or county with a copy of the  entire application and supporting doc-
+umentation for state  licensing of the facility, except for information [ which] that is exempt from
+public disclosure under ORS 192.311  to 192.478. However, cities and counties [ shall] may not require
+independent proof of the same conditions that have been required by the Department of Human
+Services under ORS 418.205 to 418.327 for licensing of a residential facility.
+SECTION 14.
+ ORS 197.670 is amended to read:
+197.670. (1) [As of October 3, 1989, no ] A city or county [ shall] may not :
+(a) Deny an application for the siting of a residential home in a residential or commercial zone
+described in ORS 197.665 (1).
+(b) Deny an application for the siting  of a residential facility in a zone where [ multifamily resi-
+dential uses are ] multiunit housing is  allowed, unless the  city or county has adopted a siting pro-
+cedure which implements the requirements of ORS 197.667.
+(2) Every city and county shall amend its zoning ordinance to  comply with ORS 197.660 to
+197.667 as part of periodic land use plan  review occurring after January 1, 1990. Nothing in this
+section prohibits a city or county from amending its zoning ordinance prior to periodic review.
+SECTION 15.  ORS 197.761 is amended to read:
+197.761. Within the urban growth boundary of a  city with a population greater than 25,000, local
+governments shall allow,  subject to reasonable local regulations relating to siting and design, the
+development of at least  one dwelling unit on each platted lot that is zoned to allow for
+[single-family] single-unit dwellings, unless the local government determines that:
+(1) The lot cannot be adequately served  by water, sewer, storm water drainage or streets, or
+will not be adequately served at the time that development on the lot is complete;
+(2) The lot contains a slope of 25 percent or greater;
+(3) The lot is within a 100-year floodplain; or
+(4) Development of the lot is constrained  by land use regulations based on statewide land use
+planning goals relating to:
+(a) Natural disasters and hazards; or
+(b) Natural resources, including air, water, land, natural areas or open spaces,  but not including
+historic resources.
+SECTION 16.
+ ORS 197A.015, as amended by section 1, chapter 102, Oregon  Laws 2024, is
+amended to read:
+Enrolled House Bill 2347 (HB 2347-A) Page 12
+197A.015. As used in this chapter:
+(1) “Allocated housing need”  means the housing need allocated to a city under ORS 184.453 (2)
+as segmented by income level under ORS 184.453 (4).
+(2) “Buildable lands” means lands in  urban and urbanizable areas that are suitable, available
+and necessary for the  development of needed housing over a 20-year planning period, including both
+vacant land and developed land likely to be redeveloped.
+(3) “City” and “city with a population  of 10,000 or greater” [ includes] include, regardless of size:
+(a) Any city within Tillamook  County and the communities of Barview/Twin Rocks/Watseco,
+Cloverdale, Hebo, Neahkahnie, Neskowin, Netarts, Oceanside and Pacific City/Woods; and
+(b) A county with respect to its jurisdiction over Metro urban unincorporated lands.
+(4) “Development-ready lands” means buildable lands that are  likely to support the production
+of housing during the period of their housing production target under ORS 184.455 (1) because  the
+lands are:
+(a) Currently  annexed and zoned to allow housing through clear and objective standards and
+procedures;
+(b) Readily served through adjacent public  facilities or identified for the near-term provision of
+public facilities through an adopted capital improvement plan; and
+(c) Not encumbered by any  applicable local, state or federal protective regulations or have ap-
+propriate entitlements to prepare the land for development.
+(5) “Government assisted housing” means housing  that is financed in whole or part by either a
+federal or state housing agency or a housing authority as defined in ORS  456.005, or housing that
+is occupied by a tenant or tenants who  benefit from rent supplements or housing vouchers provided
+by either a federal or state housing agency or a local housing authority.
+(6) “Housing capacity” means the number of needed housing units that  can be developed on
+buildable lands within the 20-year planning period based on the land’s comprehensive plan  desig-
+nation and capacity for housing development and redevelopment.
+(7) “Housing production strategy” means a strategy adopted by a local government  to promote
+housing production under ORS 197A.100.
+(8) “Manufactured dwelling,” “manufactured  dwelling park,” “manufactured home” and “mobile
+home park” have the meanings given those terms in ORS 446.003.
+(9) “Metro urban unincorporated lands” means lands within the Metro urban growth  boundary
+that are identified by the county as:
+(a) Not within a city;
+(b) Zoned for urban development;
+(c) Within the boundaries of  a sanitary district or sanitary authority formed under ORS chapter
+450 or a district formed for the purposes of sewage works under ORS chapter 451;
+(d) Within the service boundaries of  a water provider with a water system subject to regulation
+as described in ORS 448.119; and
+(e) Not zoned with a designation that maintains the land’s potential for future urbanization.
+(10) “Periodic review”  means the process and procedures as set forth in ORS 197.628 to 197.651.
+(11) “Prefabricated structure” means  a prefabricated structure, as defined in ORS 455.010, that
+is relocatable, more than eight and  one-half feet wide and designed for use as a [ single-family]
+single-unit dwelling.
+SECTION 17.
+ ORS 197A.018, as amended  by section 36, chapter 102, Oregon Laws 2024, is
+amended to read:
+197A.018. (1) As used in ORS chapter 197A,  and except as provided in subsection (2) of this
+section:
+(a) “Needed housing” means housing by affordability level, as  described in ORS 184.453 (4), type,
+characteristics and location that is  necessary to accommodate the city’s allocated housing need over
+the 20-year planning period in effect when the city’s housing capacity is determined.
+(b) “Needed housing” includes the following housing types:
+Enrolled House Bill 2347 (HB 2347-A) Page 13
+(A) Detached  [ single-family housing ] single-unit dwellings , middle housing types as described
+in ORS 197A.420 and [ multifamily] multiunit housing that is owned or rented;
+(B) Government assisted housing;
+(C) Mobile home or manufactured dwelling parks as provided in ORS 197.475 to 197.490;
+(D) Manufactured homes on individual lots planned and zoned for  [ single-family] single-unit
+residential use that are in addition to lots within designated manufactured dwelling subdivisions;
+(E) Housing for agricultural workers;
+(F) Housing for individuals with a variety of disabilities,  related to mobility or communications,
+that require accessibility features;
+(G) Housing for older persons, as defined in ORS 659A.421;
+(H) Housing for college or university students, if relevant to the region; and
+(I) Single room occupancies as defined in ORS 197A.430.
+(2) Subsection (1)(b)(A) and (D) of this section does not apply to:
+(a) A city with a population of less than 2,500.
+(b) A county with a population of less than 15,000.
+(3) At the time that a city is required  to inventory its buildable lands under ORS 197A.270 (2),
+197A.280 (2) or 197A.335 (1), the city shall determine its needed housing under this section.
+(4) In determining  needed housing the city must demonstrate that the projected housing types,
+characteristics and locations are:
+(a) Attainable  for the allocated housing need by income, including consideration of publicly
+supported housing;
+(b) Appropriately responsive to current and projected market trends; and
+(c) Responsive to the factors in ORS 197A.100 (2)(b) to (d).
+SECTION 18.
+ ORS 197A.245 is amended to read:
+197A.245. (1) To ensure that the supply of land available for urbanization is maintained:
+(a) Local governments may cooperatively designate  lands outside urban growth boundaries as
+urban reserves subject to ORS 197.610 to 197.625 and 197.626.
+(b) Alternatively, Metro  and a county or a city and a county may enter into a written agreement
+pursuant to ORS  190.003 to 190.130, 195.025 or 197.652 to 197.658 to designate urban reserves. A
+process and criteria developed pursuant to this paragraph are  an alternative to a process or criteria
+adopted pursuant to paragraph (a) of this subsection.
+(2) The Land Conservation and Development Commission may require a  local government to
+designate urban reserves pursuant to subsection (1)(a) of this section during its  periodic review in
+accordance with the conditions for periodic review under ORS 197.628.
+(3) In carrying out subsections (1) and (2) of this section:
+(a) Within an urban reserve, a local government may not  prohibit the siting on a legal parcel
+of a [ single family ] single-unit dwelling that would  otherwise have been allowed under law existing
+prior to designation as an urban reserve.
+(b) The commission shall provide to local governments a list of options,  rather than prescribing
+a single planning  technique, to ensure the efficient transition from rural to urban use in urban re-
+serves.
+(4) Urban reserves designated under this  section must be planned to accommodate population
+and employment growth for:
+(a) At least 40 years and not more than 50 years; or
+(b) At least 20 years, and not more than 30 years, after the 20-year period for which the local
+government has inventoried buildable lands under ORS 197A.270, 197A.280 or 197A.350.
+(5) Urban reserves may be established at any time without regard  to a schedule under ORS
+197A.270 (2), 197A.280 (2) or 197A.350 (2).
+(6) The designation of urban reserves  under subsection (1)(b) of this section must be based upon
+consideration of factors including, but not limited to, whether land proposed for designation as ur-
+ban reserves, alone or in conjunction with land inside the urban growth boundary:
+Enrolled House Bill 2347 (HB 2347-A) Page 14
+(a) Can be developed at urban densities  in a way that makes efficient use of existing and future
+public infrastructure investments;
+(b) Includes sufficient development capacity to support a healthy urban economy;
+(c) Can be served by public schools and other urban-level public facilities and services efficiently
+and cost-effectively by appropriate and financially capable service providers;
+(d) Can be designed to be walkable and served by a  well-connected system of streets by appro-
+priate service providers;
+(e) Can be designed to preserve and enhance natural ecological systems; and
+(f) Includes sufficient land suitable for a range of housing types.
+(7) A county may take an exception  under ORS 197.732 to a statewide land use planning goal
+to allow the establishment of a transportation  facility in an area designated as urban reserve under
+this section.
+(8) The commission shall adopt by goal or by rule a  process and criteria for designating urban
+reserves pursuant to this section.
+SECTION 19.
+ ORS 197A.270 is amended to read:
+197A.270. (1) This  section applies only to local governments with jurisdiction over lands inside
+the urban growth boundary of:
+(a) Cities located outside Metro with a population of 25,000 or greater; and
+(b) Cities that meet factors established by the Land  Conservation and Development Commission
+in consideration of the city’s size, rate of population growth or proximity to another city with  a
+population of 25,000 or greater or to Metro.
+(2) A local government  shall determine its needed housing under ORS 197A.018 and inventory
+its buildable lands and determine the lands’ housing capacity under this section:
+(a) At periodic review under ORS 197.628 to 197.651;
+(b) As scheduled by the commission at least once each eight years; or
+(c) At any other legislative review of the  comprehensive plan that concerns the urban growth
+boundary and requires the application of a  statewide planning goal related to buildable lands for
+residential use.
+(3) For the purpose of determining housing capacity and inventory  of buildable lands under
+subsection (2) of this section:
+(a) “Buildable lands” includes:
+(A) Vacant lands planned or zoned for residential use;
+(B) Partially vacant lands planned or zoned for residential use;
+(C) Lands that may  be used for a mix of residential and employment uses under the existing
+planning or zoning; and
+(D) Lands that may be used for residential infill or redevelopment.
+(b) The local government shall consider:
+(A) The extent that residential  development is prohibited or restricted by local regulation and
+ordinance, state law and rule or federal statute and regulation;
+(B) A written long term contract or easement for radio, telecommunications or  electrical facili-
+ties, if the written contract or easement is provided to the local government; and
+(C) The presence of a [ single family ] single-unit dwelling or other structure on a lot or parcel.
+(c) Except for land that may be used for residential infill or redevelopment, the local government
+shall create a map or document that may be used to  verify and identify specific lots or parcels that
+have been determined to be buildable lands.
+(4)(a) Except as provided in paragraphs (b) and  (c) of this subsection, the determination of
+housing capacity must be based on data related to land within the urban  growth boundary that has
+been collected since the last review under subsection (2)(b) of this section. The data must include:
+(A) The number, density and average mix of housing  types of urban residential development that
+have actually been developed;
+(B) Trends in density and average mix of housing types of urban residential development;
+(C) Market factors that may substantially impact future urban residential development;
+Enrolled House Bill 2347 (HB 2347-A) Page 15
+(D) The number, density and average mix of housing types that have been developed  on
+buildable lands;
+(E) Consideration of the effects of the adopted housing production strategy and measures  taken
+and reasonably anticipated to be taken to implement the strategy; and
+(F) Consideration  of factors that influence available housing supply, including short-term rentals,
+second homes and vacation homes.
+(b) A local government shall make the determination described in paragraph (a) of this  sub-
+section using data from a shorter time period than the time period  described in paragraph (a) of this
+subsection if the local government finds that the shorter time period will  provide more accurate and
+reliable data related to housing capacity. The shorter  time period may not be less than three years.
+(c) A local government shall use data  from a wider geographic area or use a time period longer
+than the time period described in paragraph (a)  of this subsection if the analysis of a wider ge-
+ographic area or the use of data from a longer  time period will provide more accurate, complete and
+reliable data related to trends  affecting housing need than an analysis performed pursuant to para-
+graph (a) of  this subsection. The local government must clearly describe the geographic area, time
+frame and source of data used in a determination performed under this paragraph.
+(5) If the needed housing is greater than  the housing capacity, the local government shall take
+one or both of the following actions to accommodate allocated housing need for which there is  in-
+sufficient housing capacity to accommodate over the next 20 years:
+(a) Amend its urban growth boundary to include sufficient  buildable lands to accommodate al-
+located housing need for the next 20 years consistent  with the requirements of ORS 197A.285 and
+statewide planning goals. As part of this process, the local government shall consider the effects  of
+actions taken pursuant  to paragraph (b) of this subsection. The amendment must include sufficient
+land reasonably  necessary to accommodate the siting of new public school facilities. The need and
+inclusion of lands for  new public school facilities must be a coordinated process between the af-
+fected public school districts and the local government that has the authority to  approve the urban
+growth  boundary.
+(b) Take any action under ORS 197A.100 (3), whether or not  the action was described in an
+approved housing production strategy, that demonstrably increases housing capacity or produces
+additional needed housing.  Actions under this paragraph may include amending a comprehensive
+plan or land use regulations to include new measures that demonstrably increase  the likelihood that
+residential development will occur at  densities sufficient to accommodate needed housing for the
+next 20 years without expansion of the urban growth boundary.
+(6) A local government that takes any actions under subsection (5) of this section shall:
+(a) Demonstrate that the comprehensive plan and land use regulations comply  with goals and
+rules adopted by the commission.
+(b) Adopt findings regarding the changes  in housing capacity assumed to result from actions
+adopted based on data  collected under subsection (4)(a) of this section. The density expectations may
+not project an increase in residential capacity above achieved density by more  than three percent
+without quantifiable validation of such departures.  A quantifiable validation must demonstrate that
+the assumed housing capacity has been achieved in areas that are zoned to  allow no greater than
+the same authorized density level,  as defined in ORS 227.175, within the local government’s juris-
+diction or a jurisdiction in the same region.
+(c) In establishing  that actions adopted under subsection (5) of this section demonstrably in-
+crease housing capacity, ensure  that buildable lands are in locations appropriate for needed housing,
+are zoned at density ranges that are likely to be achieved by the  housing market and are in areas
+where sufficient urban services are planned to enable  the higher density development to occur over
+the 20-year period.
+SECTION 20.
+ ORS 197A.348, as amended  by section 34, chapter 102, Oregon Laws 2024, is
+amended to read:
+197A.348. (1) Notwithstanding the definition of “needed housing” in ORS 197A.018,  as used
+in ORS 197A.350 and this section,  “needed housing” means all housing on land zoned for residential
+Enrolled House Bill 2347 (HB 2347-A) Page 16
+use or mixed residential and  commercial use that is determined to meet the need shown for housing
+within an urban growth boundary at price ranges and rent levels that  are affordable to households
+within the  county with a variety of incomes, including but not limited to households with low in-
+comes, very low incomes and extremely low incomes, as those  terms are defined by the United
+States Department of Housing and Urban Development  under 42 U.S.C. 1437a. “Needed housing”
+includes the following housing types:
+(a) Attached and detached [ single-family housing ] single-unit dwellings , middle housing types
+as described in ORS  197A.420 and [ multiple family ] multiunit  housing for both owner and renter
+occupancy;
+(b) Government assisted housing;
+(c) Mobile home or manufactured dwelling parks as provided in ORS 197.475 to 197.490;
+(d) Manufactured homes on individual lots  planned and zoned for [ single-family] single-unit
+residential use that are in addition to lots within designated manufactured dwelling subdivisions;
+(e) Agriculture workforce housing; and
+(f) Single room occupancies as defined in ORS 197A.430.
+(2) For the  purpose of estimating housing needs, as described in ORS 197A.350 (3)(b), Metro shall
+adopt findings and perform an analysis that estimates each of the following factors:
+(a) Projected needed housing units over the next 20 years;
+(b) Current housing underproduction;
+(c) Housing units needed for people experiencing homelessness; and
+(d) Housing units projected  to be converted into vacation homes or second homes during the
+next 20 years.
+(3) Metro shall make the estimate described  in subsection (2) of this section using a shorter time
+period than since the last  review under ORS 197A.350 (2)(a)(B) if Metro finds that the shorter time
+period will provide more accurate and reliable  data related to housing need. The shorter time period
+may not be less than three years.
+(4) Metro shall use data from a wider geographic area or use a time  period longer than the time
+period described in subsection (2) of this section if the analysis of a  wider geographic area or the
+use of a longer time period will provide more accurate,  complete and reliable data relating to trends
+affecting housing need than  an analysis performed pursuant to subsection (2) of this section. Metro
+must clearly describe the geographic area, time frame and source of data used in an  estimate per-
+formed under this subsection.
+(5) Subsection (1)(a)  and (d) of this section does not apply to a city with a population of less than
+2,500.
+(6) Metro may take an exception under ORS 197.732 to the  definition of “needed housing” in
+subsection (1) of this section in the same manner that an exception may be taken under the goals.
+SECTION 21.
+ ORS 197A.350 is amended to read:
+197A.350. (1) This section applies only to Metro.
+(2)(a) Metro shall demonstrate that its regional framework  plan provides sufficient buildable
+lands within the urban growth boundary established pursuant to statewide planning  goals to ac-
+commodate estimated housing needs for 20 years:
+(A) At periodic review under ORS 197.628 to 197.651;
+(B) As scheduled by the Land Conservation and Development Commission at least once each  six
+years; or
+(C) At any other legislative review of the regional framework plan that concerns the  urban
+growth boundary and requires the application of a statewide planning goal relating to buildable
+lands for residential use.
+(b) The 20-year period shall commence  on the date initially scheduled for completion of the re-
+view under paragraph (a) of this subsection.
+(3) In performing the duties under subsection (2) of this section, Metro shall:
+(a) Inventory the supply of buildable lands within the urban growth boundary and  determine the
+housing capacity of the buildable lands; and
+Enrolled House Bill 2347 (HB 2347-A) Page 17
+(b) Conduct an analysis of existing and projected housing  need by type and density range, in
+accordance with all factors under ORS 197A.348 and statewide planning goals and rules relating to
+housing, to determine the number of units and amount of land needed  for each needed housing type
+for the next 20 years.
+(4)(a) For the purpose of the inventory described in subsection (3)(a) of this  section, “buildable
+lands” includes:
+(A) Vacant lands planned or zoned for residential use;
+(B) Partially vacant lands planned or zoned for residential use;
+(C) Lands that may  be used for a mix of residential and employment uses under the existing
+planning or zoning; and
+(D) Lands that may be used for residential infill or redevelopment.
+(b) For the purpose of the inventory and determination of housing capacity described in  sub-
+section (3)(a) of this section, Metro must demonstrate consideration of:
+(A) The extent that residential development is prohibited or restricted  by local regulation and
+ordinance, state law and rule or federal statute and regulation;
+(B) A written  long term contract or easement for radio, telecommunications or electrical facili-
+ties, if the written contract or easement is provided to Metro;
+(C) The presence of a [ single family ] single-unit dwelling or other structure on a lot or  parcel;
+and
+(D) Factors that influence available housing supply,  including short-term rentals, second homes
+and vacation homes.
+(c) Except for land that may be used for  residential infill or redevelopment, Metro shall create
+a map or document that may be used to verify and identify specific lots or parcels that have  been
+determined to be buildable lands.
+(5)(a) Except as provided in paragraphs (b) and  (c) of this subsection, the determination of
+housing capacity  pursuant to subsection (3)(a) of this section must be based on data relating to land
+within the urban growth boundary that has been collected since the last review under subsection
+(2)(a)(B) of this section. The data shall include:
+(A) The number, density and average mix of housing  types of urban residential development that
+have actually occurred;
+(B) Trends in density and average mix of housing types of urban residential development;
+(C) Market factors that may substantially impact future urban residential development; and
+(D) The number, density and average mix of housing types that have  occurred on the buildable
+lands described in subsection (4)(a) of this section.
+(b) Metro shall make the determination described in paragraph (a) of this subsection using  a
+shorter time period  than the time period described in paragraph (a) of this subsection if Metro finds
+that the shorter time period will provide more accurate and reliable data related to housing  capac-
+ity. The shorter time period may not be less than three years.
+(c) Metro shall use data from a wider geographic area or use a time  period longer than the time
+period described in paragraph (a) of this subsection if the analysis  of a wider geographic area or the
+use of a longer time period will provide more accurate,  complete and reliable data relating to trends
+affecting housing need than an analysis performed pursuant  to paragraph (a) of this subsection.
+Metro must clearly describe the geographic area, time frame and source  of data used in a determi-
+nation performed under this paragraph.
+(6) If the housing need  determined pursuant to subsection (3)(b) of this section is greater than
+the housing capacity determined pursuant  to subsection (3)(a) of this section, Metro shall take one
+or both of the following actions to accommodate the additional housing need:
+(a) Amend its urban growth boundary to include sufficient buildable  lands to accommodate
+housing needs for the next 20 years. As part of this process, Metro shall  consider the effects of
+measures taken pursuant to paragraph (b) of this subsection. The amendment shall include sufficient
+land reasonably necessary to accommodate the siting of new public school facilities. The need  and
+inclusion of lands for new public school facilities shall be a coordinated process  between the af-
+Enrolled House Bill 2347 (HB 2347-A) Page 18
+fected public school districts and Metro that has  the authority to approve the urban growth
+boundary.
+(b) Amend its  regional framework plan, functional plan or land use regulations to include new
+measures that demonstrably increase  the likelihood that residential development will occur at den-
+sities sufficient to accommodate housing needs for the next 20 years without expansion of the urban
+growth  boundary.  If Metro takes this action, Metro shall adopt findings regarding the density ex-
+pectations assumed to result from measures adopted under  this paragraph based upon the factors
+listed in ORS 197A.348 (2) and data in subsection  (5)(a) of this section. The density expectations may
+not project an increase  in residential capacity above achieved density by more than three percent
+without quantifiable validation of such departures. A  quantifiable validation must demonstrate that
+the assumed housing capacity has been achieved in areas within Metro  that are zoned to allow no
+greater than the same authorized density level, as defined in ORS 227.175.
+(7) Using the housing  [ need] needs analysis conducted under subsection (3)(b) of this section,
+Metro shall determine the overall average  density and overall mix of housing types at which resi-
+dential development of needed housing types must occur in order to meet housing needs over  the
+next 20  years. If that density is greater than the actual density of development determined under
+subsection (5)(a)(A) of this section, or if that mix is different from the actual mix of  housing types
+determined under subsection (5)(a)(A) of this section, Metro, as  part of its periodic review, shall
+adopt measures that demonstrably  increase the likelihood that residential development will occur
+at the housing types and density and at the mix of housing types required to meet  housing needs
+over the next 20 years.
+(8) Metro shall determine the density and mix of housing types anticipated  as a result of actions
+taken under subsections  (6) and (7) of this section and monitor and record the actual density and
+mix of housing types achieved following the adoption of these actions. Metro shall compare actual
+and anticipated density and mix. Metro shall submit its comparison to  the commission at the next
+review of its urban growth boundary under subsection (2)(a) of this section.
+(9) In establishing that actions and measures adopted under subsections (6) and (7) of this sec-
+tion demonstrably increase the likelihood  of higher density residential development, Metro shall at
+a minimum ensure that land  zoned for needed housing is in locations appropriate for the housing
+types identified under subsection (3) of this section, is zoned at density ranges that are likely to  be
+achieved by the  housing market using the analysis in subsection (3) of this section and is in areas
+where sufficient urban services are planned to enable  the higher density development to occur over
+the 20-year period. Actions or  measures, or both, may include those actions listed in ORS 197A.100
+(3).
+SECTION 22.
+ ORS 197A.370 is amended to read:
+197A.370. (1) A metropolitan service district organized under ORS chapter 268  shall compile and
+report to the Department of Land  Conservation and Development on performance measures as de-
+scribed  in  this section at least once every two years. The information shall be reported in a manner
+prescribed by the department.
+(2) Performance measures subject to subsection (1) of this section  shall be adopted by a metro-
+politan service district and shall include  but are not limited to measures that analyze the following:
+(a) The rate of conversion of vacant land to improved land;
+(b) The density and price ranges of residential development,  including both [ single family and
+multifamily residential units ] single-unit and multiunit housing ;
+(c) The level of job creation within individual cities and the urban areas of a county inside the
+metropolitan service district;
+(d) The number of residential units added to small sites assumed to  be developed in the metro-
+politan service district’s inventory  of available lands but which can be further developed, and the
+conversion of existing spaces into more compact units with or without the  demolition of existing
+buildings;
+(e) The amount of environmentally sensitive land that is protected and  the amount of environ-
+mentally sensitive land that is developed;
+Enrolled House Bill 2347 (HB 2347-A) Page 19
+(f) The sales price of vacant land;
+(g) Residential vacancy rates;
+(h) Public access to open spaces; and
+(i) Transportation measures including mobility, accessibility and air quality indicators.
+SECTION 23.
+ ORS 197A.395 is amended to read:
+197A.395. (1) A local government may  not prohibit from all residential zones attached or de-
+tached [ single-family housing, multifamily housing ] single-unit or multiunit  housing for both owner
+and renter occupancy, manufactured homes or prefabricated structures. A city or county may not
+prohibit government assisted housing or impose additional approval  standards on government as-
+sisted housing that are not applied to similar but unassisted housing.
+(2)(a) A [ single-family] single-unit  dwelling for a  farmworker and the farmworker’s immediate
+family is a permitted  use in any residential or commercial zone that allows [ single-family] single-
+unit dwellings as a permitted use.
+(b) A city  or county may not impose a zoning requirement on the establishment and maintenance
+of a [ single-family] single-unit dwelling for a farmworker and the farmworker’s  immediate family in
+a residential or commercial zone described in  paragraph (a) of this subsection that is more restric-
+tive than  a zoning requirement imposed on other [ single-family] single-unit  dwellings in the same
+zone.
+(3)(a) [ Multifamily] Multiunit housing for farmworkers and farmworkers’ immediate families is
+a permitted use in any residential  or commercial zone that allows [ multifamily] multiunit housing
+generally as a permitted use.
+(b) A city  or county may not impose a zoning requirement on the establishment and maintenance
+of [ multifamily] multiunit  housing  for farmworkers and farmworkers’ immediate families in a resi-
+dential or commercial zone described  in paragraph (a) of this subsection that is more restrictive
+than a zoning requirement imposed on other [ multifamily] multiunit housing in the same zone.
+(4) A city or county may not prohibit a property owner or developer from maintaining a  real
+estate sales office in a subdivision or planned community containing more  than 50 lots or dwelling
+units for the sale of lots or dwelling units that remain available for sale to the public.
+SECTION 24.
+ ORS 197A.420 is amended to read:
+197A.420. (1) As used in this section:
+(a) “City” or “city with a population of 25,000 or greater” includes,  regardless of size, any city
+within Tillamook County and the communities  of Barview/Twin Rocks/Watseco, Cloverdale, Hebo,
+Neahkahnie, Neskowin, Netarts, Oceanside and Pacific City/Woods.
+(b) “Cottage clusters” means groupings of no fewer than  four detached housing units per acre
+with a footprint of less than 900 square feet each and that include a common courtyard.
+(c) “Middle housing” means:
+(A) Duplexes;
+(B) Triplexes;
+(C) Quadplexes;
+(D) Cottage clusters; and
+(E) Townhouses.
+(d) “Townhouses” means a  dwelling unit constructed in a row of two or more attached units,
+where each dwelling unit is located on an individual lot  or parcel and shares at least one common
+wall with an adjacent unit.
+(2) Except as provided in subsection (4) of this section, each city with a  population of 25,000 or
+greater and each county or city within a metropolitan service district shall allow  the development
+of:
+(a) All middle housing types in areas  zoned for residential use that allow for the development
+of detached [ single-family] single-unit dwellings; and
+(b) A duplex on each lot or parcel zoned for  residential use that allows for the development of
+detached [ single-family] single-unit dwellings.
+Enrolled House Bill 2347 (HB 2347-A) Page 20
+(3) Except as provided in subsection (4) of this section, each city not within a  metropolitan
+service district with a population of 2,500 or  greater and less than 25,000 shall allow the develop-
+ment of a duplex on each lot or parcel zoned for residential use that allows for the  development of
+detached  [ single-family] single-unit  dwellings. Nothing in this subsection prohibits a local govern-
+ment from allowing middle housing types in addition to duplexes.
+(4)(a) Except within Tillamook County, this section does not apply to:
+(A) Cities with a population of 1,000 or fewer, except inside of Tillamook County;
+(B) Lands not within an urban growth boundary;
+(C) Lands  that are not incorporated and also lack sufficient urban services, as defined in ORS
+195.065; or
+(D) Lands that are not incorporated and are zoned under an interim  zoning designation that
+maintains the land’s potential for planned urban development.
+(b) This section  does not apply to lands that are not zoned for residential use, including lands
+zoned primarily for commercial, industrial, agricultural or public uses.
+(5) Local governments may  regulate siting and design of middle housing required to be permitted
+under this section, provided that the regulations do not,  individually or cumulatively, discourage the
+development of all middle housing types permitted in the area through unreasonable  costs or delay.
+Local governments may regulate middle housing to comply with protective measures  adopted pur-
+suant to statewide land use planning goals.
+(6) This section does not prohibit local governments from permitting:
+(a) [ Single-family] Single-unit  dwellings  in areas zoned to allow for [ single-family] single-unit
+dwellings; or
+(b) Middle housing in areas not required under this section.
+(7) A local  government that amends its comprehensive plan or land use regulations relating to
+allowing additional middle housing is not required to  consider whether the amendments significantly
+affect an existing or planned transportation facility.
+SECTION 25.
+ ORS 197A.425 is amended to read:
+197A.425. (1)(a) A city with  a population greater than 2,500 or a county with a population
+greater than 15,000  shall allow in areas within the urban growth boundary that are zoned for de-
+tached [ single-family] single-unit dwellings the development of at least one accessory dwelling unit
+for each detached [ single-family] single-unit dwelling, subject  to reasonable local regulations relat-
+ing to siting and design.
+(b) As used in this subsection:
+(A) “Accessory dwelling unit” means an interior, attached  or detached residential structure that
+is used in connection with or that is accessory to a [ single-family] single-unit dwelling.
+(B) “Reasonable local regulations  relating to siting and design” does not include owner-
+occupancy requirements of either the primary or accessory structure or  requirements to construct
+additional off-street parking.
+(2) Subsection (1) of this section does  not prohibit local governments from regulating vacation
+occupancies, as defined in ORS 90.100, to require owner-occupancy or off-street parking.
+SECTION 26.
+ ORS 197A.430 is amended to read:
+197A.430. (1) As used in this section, “single room occupancy” means a  residential development
+with no fewer than four attached units that are independently rented  and lockable and provide liv-
+ing and sleeping space for the exclusive use  of an occupant, but require that the occupant share
+sanitary or food preparation facilities with other units in the occupancy.
+(2) Within an urban growth boundary, each local government shall allow the development of a
+single room occupancy:
+(a) With up to six units on each lot or parcel zoned to allow for the  development of a detached
+[single-family] single-unit dwelling; and
+(b) With the number of units  consistent with the density standards of a lot or parcel zoned to
+allow for the development of residential dwellings with five or more units.
+SECTION 27.  ORS 197A.465 is amended to read:
+Enrolled House Bill 2347 (HB 2347-A) Page 21
+197A.465. (1) As used in this section:
+(a) “Affordable housing” means housing that is affordable to households with incomes equal  to
+or higher than 80 percent of the median family income for  the county in which the housing is built.
+(b) “[ Multifamily structure ] Multiunit housing ” means a structure that contains three or more
+housing units sharing at least  one wall, floor or ceiling surface in common with another unit within
+the same structure.
+(2) Except as provided in subsection (3) of this  section, a metropolitan service district may not
+adopt a land use regulation or functional plan provision, or impose as a condition  for approving a
+permit under ORS 215.427 or 227.178 a requirement, that  has the effect of establishing the sales or
+rental price for a housing unit or residential building lot or parcel, or that  requires a housing unit
+or residential building  lot or parcel to be designated for sale or rent to a particular class or group
+of purchasers or renters.
+(3) The  provisions of subsection (2) of this section do not limit the authority of a metropolitan
+service district to:
+(a) Adopt or enforce a use regulation,  provision or requirement creating or implementing an
+incentive, contract commitment, density bonus  or other voluntary regulation, provision or require-
+ment designed to increase the supply of moderate or lower cost housing units; or
+(b) Enter into an affordable housing covenant as provided in ORS 456.270 to 456.295.
+(4) Notwithstanding ORS 91.225, a city or county may adopt  a land use regulation or functional
+plan provision, or impose as  a condition for approving a permit under ORS 215.427 or 227.178 a re-
+quirement, that has the effect  of establishing the sales or rental price for [ a new multifamily struc-
+ture] new multiunit housing , or that requires [ a new multifamily  structure ] new multiunit housing
+to be designated for sale or rent as affordable housing.
+(5) A regulation, provision or requirement adopted or imposed under subsection (4) of this  sec-
+tion:
+(a) May  not require more than 20 percent of multiunit housing units [ within a multifamily
+structure] to be sold or rented as affordable housing.
+(b) May apply only to [ multifamily structures] multiunit housing containing at least 20 housing
+units.
+(c) Must provide developers the  option to pay an in-lieu fee, in an amount determined by the
+city or county, in exchange for providing the requisite number of housing units within the [ multi-
+family structure ] multiunit housing to be sold or rented at below-market rates.
+(d) Must require the city or county to offer a developer of [ multifamily structures ] multiunit
+housing, other than a developer that elects to pay an in-lieu fee pursuant to paragraph (c) of this
+subsection, at least one of the following incentives:
+(A) Whole or partial fee waivers or reductions.
+(B) Whole or partial waivers of system development charges or impact fees set  by the city or
+county.
+(C) Finance-based incentives.
+(D) Full or partial exemption from ad valorem property taxes on the  terms described in this
+subparagraph. For purposes of any statute granting a full or partial exemption from  ad valorem
+property taxes that uses a definition of “low income” to mean  income at or below 60 percent of the
+area median income and for which the [ multifamily structure] multiunit housing  is otherwise eligi-
+ble, the city or county shall allow  the [ multifamily structure] multiunit housing of the developer to
+qualify using a definition of “low income”  to mean income at or below 80 percent of the area median
+income.
+(e) Does not apply to a CCRC, as defined in ORS  101.020, that executes and records a covenant
+with the applicable city or county in which the CCRC agrees to operate all units within its structure
+as a CCRC. Units within a CCRC that are offered or converted  into residential units that are for
+sale or rent and are not subject to ORS chapter 101  must comply with regulations, provisions or
+requirements adopted by the city  or county that are consistent with those applicable to [ a new
+multifamily structure] new multiunit housing  under subsection (3) or (4) of this section.
+Enrolled House Bill 2347 (HB 2347-A) Page 22
+(6) A  regulation, provision or requirement adopted or imposed under subsection (4) of this sec-
+tion may offer developers one or more of the following incentives:
+(a) Density adjustments.
+(b) Expedited service for local permitting processes.
+(c) Modification of height, floor area or other site-specific requirements.
+(d) Other incentives as determined by the city or county.
+(7) Subsection (4) of this section does not restrict  the authority of a city or county to offer de-
+velopers voluntary incentives, including incentives to:
+(a) Increase the number of affordable housing units in a development.
+(b) Decrease the sale or rental price of affordable housing units in a development.
+(c) Build affordable housing units  that are affordable to households with incomes equal to or
+lower than 80 percent of the median family income for the county in which the housing is built.
+(8)(a) A city or county that adopts or  imposes a regulation, provision or requirement described
+in subsection (4) of this section may not apply the regulation, provision or requirement to any
+[multifamily structure] multiunit housing  for which an application for a permit,  as defined in ORS
+215.402 or 227.160, has been submitted as provided in ORS 215.416  or 227.178 (3), or, if such a permit
+is not required, a building permit application has been submitted to the city  or county prior to the
+effective date of the regulation, provision or requirement.
+(b) If  [ a multifamily structure ] multiunit housing  described in paragraph (a) of this subsection
+has not been completed within the period required by the permit issued by the city or county, the
+developer of the [ multifamily structure ] multiunit housing  shall resubmit an application for a per-
+mit, as defined in ORS 215.402 or 227.160, as  provided in ORS 215.416 or 227.178 (3), or, if such a
+permit is not required, a building permit application under the regulation, provision or  requirement
+adopted by the city or county under subsection (4) of this section.
+(9)(a) A city or county that  adopts or imposes a regulation, provision or requirement under
+subsection (4) of this section shall adopt and apply only clear and  objective standards, conditions
+and procedures regulating the development of affordable housing units within its jurisdiction.  The
+standards, conditions and procedures may not have the effect, either individually or  cumulatively,
+of discouraging development of affordable housing units through unreasonable cost or delay.
+(b) Paragraph (a) of this subsection does not apply to:
+(A) An application or permit for  residential development in an area identified in a formally
+adopted central city plan, or a regional center as defined by Metro, in a city with a population of
+500,000 or more.
+(B) An application or permit for residential development in historic areas  designated for pro-
+tection under a land use planning goal protecting historic areas.
+(c) In addition to an approval process for affordable housing based on clear and  objective
+standards, conditions and procedures as provided in  paragraph (a) of this subsection, a city or
+county may adopt and apply an  alternative approval process for applications and permits for resi-
+dential development based on  approval criteria regulating, in whole or in part, appearance or aes-
+thetics that are not clear and objective if:
+(A) The developer retains the  option of proceeding under the approval process that meets the
+requirements of paragraph (a) of this subsection;
+(B) The approval criteria for the alternative approval process comply with applicable statewide
+land use planning goals and rules; and
+(C) The approval criteria for the alternative approval process authorize a  density at or above
+the density level authorized in the zone under the approval process  provided in paragraph (a) of this
+subsection.
+(10) If a regulation,  provision or requirement adopted or imposed by a city or county under
+subsection (4) of this section requires that a percentage of housing units in [ a new multifamily
+structure] new multiunit  housing be designated as affordable housing, any incentives offered under
+subsection (5)(d) or (6) of this  section [ shall] must be related in a manner determined by the city
+or county to the required percentage of affordable housing units.
+Enrolled House Bill 2347 (HB 2347-A) Page 23
+SECTION 28.  ORS 197A.470 is amended to read:
+197A.470. (1) As used in this section:
+(a) “Affordable housing” means housing that is affordable to households with incomes equal  to
+or less than 60 percent of the  median family income for the county in which the development is built
+or for  the state, whichever is greater, that is subject to an affordable housing covenant, as provided
+in ORS 456.270 to 456.295, that maintains the affordability for a period of not less than 60 years from
+the date of the certificate of occupancy.
+(b) “[ Multifamily residential building ] Multiunit housing ” means a building in which  three or
+more residential units each have space for eating, living and sleeping and permanent provisions  for
+cooking and sanitation.
+(2) Notwithstanding ORS 215.427 (1) or 227.178 (1), a city with a population greater than 5,000
+or a county  with a population greater than 25,000 shall take final action on an application qualifying
+under subsection (3) of this section, including resolution of all local appeals under ORS  215.422 or
+227.180, within 100 days after the application is deemed complete.
+(3) An application qualifies for final action within the  timeline described in subsection (2) of this
+section if:
+(a) The application is submitted to the city or the county under ORS 215.416 or 227.175;
+(b) The application  is for development of [ a multifamily residential building ] multiunit housing
+containing five or more residential units within the urban growth boundary; and
+(c) At least 50 percent of  the residential units included in the development will be sold or rented
+as affordable housing.
+(4) A city or a county shall take final action within the time  allowed under ORS 215.427 or
+227.178 on any application for a permit, limited land use decision or zone change that does  not
+qualify for review  and decision under subsection (3) of this section, including resolution of all ap-
+peals under ORS 215.422 or 227.180, as provided by  ORS 215.427 and 215.435 or by ORS 227.178 and
+227.181.
+(5) With respect to property within an urban growth  boundary owned by a nonprofit corporation
+organized as a religious corporation, a local government:
+(a) May apply only  restrictions or conditions of approval to the development of affordable
+housing that are, notwithstanding ORS 197A.400 (2) or statewide land use  planning goals relating
+to protections for historic areas:
+(A) Clear and objective as described in ORS 197A.400 (1); or
+(B) Discretionary standards related to health, safety, habitability or infrastructure.
+(b) Shall approve the development of affordable housing on property not zoned for housing if:
+(A) The property is not zoned for industrial uses; and
+(B) The property is contiguous to property zoned to allow residential uses.
+(6) Affordable housing allowed under  subsection (5)(b) of this section may be subject only to the
+restrictions applicable to the contiguously zoned residential property as limited by subsection (5)(a)
+of this section and without requiring that the property be rezoned for residential uses.  If there is
+more than one contiguous residential property, the zoning of the property with  the greatest density
+applies.
+SECTION 29.
+ ORS 215.203 is amended to read:
+215.203. (1) Zoning ordinances may be adopted to zone  designated areas of land within the
+county as exclusive farm use zones. Land within such zones shall be used exclusively for  farm use
+except as otherwise provided in ORS 215.213,  215.283 or 215.284. Farm use zones shall be established
+only when such zoning is consistent with the comprehensive plan.
+(2)(a) As used in this section,  “farm use” means the current employment of land for the primary
+purpose of obtaining a profit in money by raising, harvesting  and selling crops or the feeding,
+breeding, management and sale of, or the produce of,  livestock, poultry, fur-bearing animals or
+honeybees or for dairying and  the sale of dairy products or any other agricultural or horticultural
+use or animal husbandry or any combination thereof. “Farm  use” includes the preparation, storage
+and disposal by marketing or otherwise of the products or by-products raised on such land  for hu-
+Enrolled House Bill 2347 (HB 2347-A) Page 24
+man or animal use. “Farm  use” also includes the current employment of land for the primary pur-
+pose of obtaining a profit in money by stabling or training equines including but not limited to
+providing riding lessons, training clinics and schooling shows. “Farm use” also includes the propa-
+gation, cultivation, maintenance and harvesting  of aquatic, bird and animal species that are under
+the jurisdiction of  the State Fish and Wildlife Commission, to the extent allowed by the rules
+adopted by the commission. “Farm use” includes the on-site construction and maintenance of
+equipment and facilities used  for the activities described in this subsection. “Farm use” does not
+include the use  of land subject to the provisions of ORS chapter 321, except land used exclusively
+for growing cultured Christmas trees or land described in ORS 321.267 (3) or 321.824 (3).
+(b) As used in this subsection, “current employment” of land for farm use includes:
+(A) Farmland, the  operation or use of which is subject to any farm-related government program;
+(B) Land lying fallow  for one year as a normal and regular requirement of good agricultural
+husbandry;
+(C) Land planted in orchards or other perennials, other than  land specified in subparagraph (D)
+of this paragraph, prior to maturity;
+(D) Land not in an exclusive farm use  zone which has not been eligible for assessment at special
+farm use  value in the year prior to planting the current crop and has been planted in orchards,
+cultured Christmas trees or vineyards for at least three years;
+(E) Wasteland, in  an exclusive farm use zone, dry or covered with water, neither economically
+tillable nor grazeable, lying in or adjacent  to and in common ownership with a farm use land and
+which is not currently being used for any economic farm use;
+(F) Except for  land under a [ single family ] single-unit dwelling, land under buildings supporting
+accepted farm practices, including  the processing facilities allowed by ORS 215.255 and the proc-
+essing of farm crops into biofuel as commercial activities in conjunction with farm use under ORS
+215.213 (2)(c) and 215.283 (2)(a);
+(G) Water impoundments lying in or adjacent to and in common ownership with farm use land;
+(H) Any  land constituting a woodlot, not to exceed 20 acres, contiguous to and owned by the
+owner of land specially valued for farm use even if the land constituting the  woodlot is not utilized
+in conjunction with farm use;
+(I) Land lying idle for no more than one  year where the absence of farming activity is due to
+the illness  of the farmer or member of the farmer’s immediate family. For purposes of this paragraph,
+illness includes injury or infirmity whether or not such illness results in death;
+(J) Any land described under ORS 321.267 (3) or 321.824 (3); and
+(K) Land used for the processing of farm crops into biofuel, as defined in ORS 315.141, if:
+(i) Only the crops of the landowner are being processed;
+(ii) The biofuel from all of the crops purchased for processing into biofuel is used on  the farm
+of the landowner; or
+(iii) The landowner is custom processing crops into biofuel from  other landowners in the area
+for their use or sale.
+(c) As used in this subsection,  “accepted farm practice” means a mode of operation that is
+common to farms of a similar nature, necessary for the operation  of such farms to obtain a profit
+in money, and customarily utilized in conjunction with farm use.
+(d) As used in this subsection, “cultured Christmas trees” means trees:
+(A) Grown on lands used exclusively for that purpose, capable of preparation by intensive  cul-
+tivation methods such as plowing or turning over the soil;
+(B) Of a marketable species;
+(C) Managed to meet U.S. No. 2 or better standards for Christmas trees  as specified by the
+Agriculture Marketing Services of the United States Department of Agriculture; and
+(D) Evidencing  periodic maintenance practices of shearing for Douglas fir and pine species,
+weed and brush  control and one or more of the following practices: Basal pruning, fertilizing, insect
+and disease control, stump culture, soil cultivation or irrigation.
+SECTION 30.
+ ORS 215.213 is amended to read:
+Enrolled House Bill 2347 (HB 2347-A) Page 25
+215.213. (1) In counties that have adopted marginal lands  provisions under ORS 197.247 (1991
+Edition), the following uses may be established in any area zoned for exclusive farm use:
+(a) Churches and cemeteries in conjunction with churches.
+(b) The propagation or harvesting of a forest product.
+(c) Utility facilities necessary for  public service, including wetland waste treatment systems but
+not including commercial facilities for the purpose of  generating electrical power for public use by
+sale or transmission towers over 200 feet in height. A utility facility  necessary for public service
+may be established as provided in:
+(A) ORS 215.275; or
+(B) If the utility facility is an associated transmission line, as defined  in ORS 215.274 and
+469.300.
+(d) A dwelling on real property used for farm use if the dwelling is occupied by a  relative of the
+farm operator or the farm operator’s spouse, which means a  child, parent, stepparent, grandchild,
+grandparent, stepgrandparent, sibling, stepsibling, niece, nephew or first cousin of either,  if the farm
+operator does or will require the assistance of  the relative in the management of the farm use and
+the dwelling  is located on the same lot or parcel as the dwelling of the farm operator.
+Notwithstanding ORS 92.010 to 92.192 or the minimum lot or parcel size requirements under ORS
+215.780, if the owner of a dwelling described in this paragraph obtains  construction financing or
+other financing secured by the dwelling  and the secured party forecloses on the dwelling, the se-
+cured party may also foreclose on the  homesite, as defined in ORS 308A.250, and the foreclosure
+shall operate as a partition of the homesite to create a new parcel.
+(e) Nonresidential buildings customarily provided in conjunction with farm use.
+(f) Subject to ORS 215.279, primary or  accessory dwellings customarily provided in conjunction
+with farm use. For a primary dwelling, the dwelling  must be on a lot or parcel that is managed as
+part of a farm operation and is not smaller than the minimum lot size in a farm zone with a  mini-
+mum lot size acknowledged under ORS 197.251.
+(g) Operations for the exploration for and production  of geothermal resources as defined by ORS
+522.005 and oil and  gas as defined by ORS 520.005, including the placement and operation of
+compressors, separators and other customary production equipment for an individual well adjacent
+to the wellhead.  Any activities or construction relating to such operations shall not be a basis for
+an exception under ORS 197.732 (2)(a) or (b).
+(h) Operations for the exploration for minerals as defined by ORS 517.750. Any  activities or
+construction relating to such operations shall not be a  basis for an exception under ORS 197.732
+(2)(a) or (b).
+(i) One manufactured dwelling or recreational vehicle, or  the temporary residential use of an
+existing building, in conjunction with an existing dwelling as  a temporary use for the term of a
+hardship suffered by the existing resident or a relative of the resident.  Within three months of the
+end of the hardship, the manufactured dwelling or recreational vehicle shall be removed or  demol-
+ished or, in the case of an existing building,  the building shall be removed, demolished or returned
+to an allowed nonresidential use. The governing body or its designee shall provide for periodic re-
+view of the hardship claimed under this paragraph. A temporary residence  approved under this
+paragraph is not eligible for replacement under paragraph (q) of this subsection.
+(j) Climbing and passing lanes within the right of way existing as of July 1, 1987.
+(k) Reconstruction or modification of public roads and highways,  including the placement of
+utility facilities overhead and in the subsurface of public  roads and highways along the public right
+of way, but not including the addition  of travel lanes, where no removal or displacement of buildings
+would occur, or no new land parcels result.
+(L) Temporary public road and  highway detours that will be abandoned and restored to original
+condition or use at such time as no longer needed.
+(m) Minor betterment  of existing public road and highway related facilities, such as maintenance
+yards, weigh stations and rest areas, within right of  way existing as of July 1, 1987, and contiguous
+Enrolled House Bill 2347 (HB 2347-A) Page 26
+public-owned property utilized to support  the operation and maintenance of public roads and high-
+ways.
+(n) A replacement dwelling to be used in conjunction with farm use if  the existing dwelling has
+been listed in a county inventory as historic property as defined in ORS 358.480.
+(o) Creation, restoration or enhancement of wetlands.
+(p) A winery, as described in ORS 215.452 or 215.453.
+(q) Alteration,  restoration or replacement of a lawfully established dwelling, as described in ORS
+215.291.
+(r) Farm stands if:
+(A) The structures are designed and used for the sale of farm crops or livestock grown  on the
+farm operation, or grown on the farm operation and other farm operations in the  local agricultural
+area, including the sale of retail incidental items and fee-based activity to promote the sale  of farm
+crops or livestock sold at the farm stand if the annual sale of  incidental items and fees from pro-
+motional activity do not make up more than 25 percent of the total annual sales of  the farm stand;
+and
+(B) The farm stand does not include structures designed for occupancy as a residence or  for
+activity other than the sale of  farm crops or livestock and does not include structures for banquets,
+public gatherings or public entertainment.
+(s) An armed forces reserve center, if the  center is within one-half mile of a community college.
+For purposes of this paragraph, “armed  forces reserve center” includes an armory or National
+Guard support facility.
+(t) A site for the takeoff and landing of model  aircraft, including such buildings or facilities as
+may reasonably be necessary. Buildings or facilities shall not be more than 500 square feet in floor
+area or placed on a permanent foundation  unless the building or facility preexisted the use approved
+under this paragraph. The site shall not  include an aggregate surface or hard surface area unless
+the surface  preexisted the use approved under this paragraph. An owner of property used for the
+purpose authorized in this paragraph may charge a person operating  the use on the property rent
+for the property.  An operator may charge users of the property a fee that does not exceed the
+operator’s cost to maintain the property, buildings and facilities. As used in this paragraph, “model
+aircraft” means a small-scale  version of an airplane, glider, helicopter, dirigible or balloon that is
+used or intended to be used for flight and is controlled by radio, lines or design  by a person on the
+ground.
+(u) A facility for the processing of farm products as described in ORS 215.255.
+(v) Fire service facilities providing rural fire protection services.
+(w) Irrigation reservoirs, canals, delivery lines and  those structures and accessory operational
+facilities, not including parks or other recreational structures and  facilities, associated with a dis-
+trict as defined in ORS 540.505.
+(x) Utility facility service lines. Utility facility service lines  are utility lines and accessory fa-
+cilities or structures that  end at the point where the utility service is received by the customer and
+that are located on one or more of the following:
+(A) A public right of way;
+(B) Land immediately adjacent to a public right of way, provided  the written consent of all ad-
+jacent property owners has been obtained; or
+(C) The property to be served by the utility.
+(y) Subject to the issuance  of a license, permit or other approval by the Department of Envi-
+ronmental Quality under ORS 454.695, 459.205, 468B.050, 468B.053 or 468B.055, or in compliance with
+rules adopted under ORS 468B.095, and as provided in ORS 215.246 to  215.251, the land application
+of reclaimed water, agricultural or industrial  process water or biosolids, or the onsite treatment of
+septage prior to the land  application of biosolids, for agricultural, horticultural or silvicultural
+production, or for irrigation in connection with a use allowed in an  exclusive farm use zone under
+this chapter. For the purposes of this paragraph, onsite treatment of  septage prior to the land ap-
+plication of biosolids is limited to treatment using treatment  facilities that are portable, temporary
+Enrolled House Bill 2347 (HB 2347-A) Page 27
+and transportable by truck trailer, as defined in ORS 801.580, during a period of time  within which
+land application of biosolids is authorized under the license, permit or other approval.
+(z) Dog training classes or testing trials, which may  be conducted outdoors or in farm buildings
+in existence on January 1, 2019, when:
+(A) The number of dogs participating  in training does not exceed 10 dogs per training class and
+the number of training classes to be held on-site does not exceed six per day; and
+(B) The number of dogs participating in a testing trial does not exceed 60 and the number  of
+testing trials to be conducted on-site is limited to four or fewer trials per calendar year.
+(aa) A cider business, as described in ORS 215.451.
+(bb) A farm brewery, as described in ORS 215.449.
+(2) In counties that have  adopted marginal lands provisions under ORS 197.247 (1991 Edition),
+the following uses  may be established in any area zoned for exclusive farm use subject to ORS
+215.296:
+(a) A primary dwelling in conjunction with farm use or  the propagation or harvesting of a forest
+product on a lot or parcel that is managed as part of a  farm operation or woodlot if the farm op-
+eration or woodlot:
+(A) Consists of 20 or more acres; and
+(B) Is not smaller than the average farm or woodlot in the  county producing at least $2,500 in
+annual gross income from the crops, livestock or forest products  to be raised on the farm operation
+or woodlot.
+(b) A primary dwelling in conjunction with farm use or  the propagation or harvesting of a forest
+product on a lot or parcel that is managed as part of a farm  operation or woodlot smaller than re-
+quired under paragraph (a) of this subsection, if the lot or parcel:
+(A) Has  produced at least $20,000 in annual gross farm income in two consecutive calendar
+years out of the three calendar years before the year in which the application  for the dwelling was
+made or is planted in perennials capable of producing upon harvest an average of  at least $20,000
+in annual gross farm income; or
+(B) Is a woodlot capable  of producing an average over the growth cycle of $20,000 in gross an-
+nual income.
+(c) Commercial activities that are in conjunction with  farm use, including the processing of farm
+crops into biofuel not permitted under ORS 215.203 (2)(b)(K) or 215.255.
+(d) Operations conducted for:
+(A) Mining and processing of geothermal resources as defined by ORS 522.005 and  oil and gas
+as defined by ORS 520.005, not otherwise permitted under subsection (1)(g) of this section;
+(B) Mining, crushing or stockpiling of aggregate and other mineral and other subsurface re-
+sources subject to ORS 215.298;
+(C) Processing, as defined by ORS 517.750, of aggregate into asphalt or portland cement; and
+(D) Processing of other mineral resources and other subsurface resources.
+(e) Community centers owned by a governmental agency or  a nonprofit community organization
+and operated primarily by and for residents of the local rural community, hunting and  fishing pre-
+serves, public and private parks,  playgrounds and campgrounds. Subject to the approval of the
+county governing body or its designee, a private campground  may provide yurts for overnight
+camping. No more than  one-third or a maximum of 10 campsites, whichever is smaller, may include
+a yurt. The yurt shall  be located on the ground or on a wood floor with no permanent foundation.
+Upon request of a county governing body, the Land  Conservation and Development Commission may
+provide by rule for an increase in the number of yurts allowed  on all or a portion of the
+campgrounds in a  county if the commission determines that the increase will comply with the
+standards described in ORS  215.296 (1). A public park or campground may be established as provided
+under ORS 195.120. As used in this paragraph, “yurt”  means a round, domed shelter of cloth or
+canvas on a collapsible frame with no  plumbing, sewage disposal hookup or internal cooking appli-
+ance.
+(f) Golf courses on land determined not to be high-value farmland as defined in ORS 195.300.
+Enrolled House Bill 2347 (HB 2347-A) Page 28
+(g) Commercial utility facilities for the purpose  of generating power for public use by sale. If the
+area zoned for exclusive farm use is  high-value farmland, a photovoltaic solar power generation fa-
+cility may be established as a commercial utility facility as provided in  ORS 215.447. A renewable
+energy facility as defined in ORS 215.446 may be established as a commercial utility facility.
+(h) Personal-use airports for  airplanes and helicopter pads, including associated hangar, main-
+tenance and service facilities.  A personal-use airport as used in this section means an airstrip re-
+stricted, except for aircraft emergencies, to use by the owner, and, on an  infrequent and occasional
+basis, by invited  guests, and by commercial aviation activities in connection with agricultural op-
+erations. No aircraft may  be based on a personal-use airport other than those owned or controlled
+by the owner of the airstrip. Exceptions  to the activities permitted under this definition may be
+granted through waiver action by the Oregon Department  of Aviation in specific instances. A
+personal-use airport lawfully existing as of September 13, 1975, shall continue to be permitted sub-
+ject to any applicable rules of the Oregon Department of Aviation.
+(i) A facility for the primary processing of forest products, provided that such facility is found
+to not seriously interfere with accepted farming practices and is  compatible with farm uses de-
+scribed in ORS 215.203 (2). Such a facility may be approved for a  one-year period which is
+renewable. These facilities are intended to be only portable  or temporary in nature. The primary
+processing of a forest product, as used in this section,  means the use of a portable chipper or stud
+mill or other similar methods  of initial treatment of a forest product in order to enable its shipment
+to market. Forest products, as used in this section, means timber grown upon a parcel of land  or
+contiguous land where the primary processing facility is located.
+(j) A site for the disposal of solid waste approved by the governing body of a city or  county or
+both and for which a permit  has been granted under ORS 459.245 by the Department of Environ-
+mental Quality together with equipment, facilities or buildings necessary for its operation.
+(k)(A) Commercial dog boarding kennels; or
+(B) Dog training classes or testing trials that cannot be established under subsection  (1)(z) of
+this section.
+(L) Residential homes as defined in ORS 197.660, in existing dwellings.
+(m) The propagation, cultivation,  maintenance and harvesting of aquatic species that are not
+under the jurisdiction of the State Fish  and Wildlife Commission or insect species. Insect species
+shall not  include any species under quarantine by the State Department of Agriculture or the United
+States Department of Agriculture. The county shall provide notice of all applications under  this
+paragraph to  the State Department of Agriculture. Notice shall be provided in accordance with the
+county’s land use regulations but shall be  mailed at least 20 calendar days prior to any adminis-
+trative decision or initial public hearing on the application.
+(n) Home occupations as provided in ORS 215.448.
+(o) Transmission towers over 200 feet in height.
+(p) Construction of additional passing and travel lanes requiring the acquisition of right  of way
+but not resulting in the creation of new land parcels.
+(q) Reconstruction or modification of public roads and highways involving the removal or dis-
+placement of buildings but not resulting in the creation of new land parcels.
+(r) Improvement of public road and highway related facilities  such as maintenance yards, weigh
+stations and rest areas, where additional property or right of way  is required but not resulting in
+the creation of new land parcels.
+(s) A destination resort that is approved consistent with the requirements of any statewide
+planning goal relating to the siting of a destination resort.
+(t) Room and board arrangements for  a maximum of five unrelated persons in existing resi-
+dences.
+(u) A living history museum related to resource based activities owned and  operated by a gov-
+ernmental agency or  a local historical society, together with limited commercial activities and fa-
+cilities that are directly related to the use and enjoyment of the museum and located  within
+authentic buildings of the depicted historic period or  the museum administration building, if areas
+Enrolled House Bill 2347 (HB 2347-A) Page 29
+other than an exclusive farm use zone cannot accommodate the museum and related activities or if
+the museum administration buildings and parking lot are located within one quarter mile  of the
+metropolitan urban growth boundary. As used in this paragraph:
+(A) “Living history museum”  means a facility designed to depict and interpret everyday life and
+culture of some specific  historic period using authentic buildings, tools, equipment and people to
+simulate past activities and events; and
+(B) “Local historical society” means the local historical society, recognized  as such by the
+county governing body and organized under ORS chapter 65.
+(v) Operations for the extraction and bottling of water.
+(w) An aerial fireworks display business that has  been in continuous operation at its current
+location  within  an exclusive farm use zone since December 31, 1986, and possesses a wholesaler’s
+permit to sell or provide fireworks.
+(x) A landscape contracting business, as defined in ORS 671.520,  or a business providing land-
+scape architecture services, as described in ORS 671.318, if the business  is pursued in conjunction
+with the growing and marketing of nursery stock on the land that constitutes farm use.
+(y) Public or private  schools for kindergarten through grade 12, including all buildings essential
+to the  operation of a school, primarily for residents of the rural area in which the school is located.
+(z) Equine and equine-affiliated therapeutic and counseling activities, provided:
+(A) The activities  are conducted in existing buildings that were lawfully constructed on the
+property before January 1, 2019, or in new buildings that are accessory, incidental and subordinate
+to the farm use on the tract; and
+(B) All individuals conducting therapeutic or counseling activities  are acting within the proper
+scope of any licenses required by the state.
+(aa) Child care  facilities, preschool recorded programs or school-age recorded programs that are:
+(A) Authorized under ORS 329A.250 to 329A.450;
+(B) Primarily for the children of residents and workers of the rural  area in which the facility
+or program is located; and
+(C) Colocated with a community center  or a public or private school allowed under this sub-
+section.
+(3) In counties that have adopted marginal lands provisions under  ORS 197.247 (1991 Edition),
+a [ single-family] single-unit residential dwelling not provided in conjunction with farm use may be
+established on a lot or parcel with soils  predominantly in capability classes IV through VIII as de-
+termined by the Agricultural  Capability Classification System in use by the United States Depart-
+ment of Agriculture Soil Conservation Service on October 15, 1983. A proposed  dwelling is subject
+to approval of the governing body or its designee in  any area zoned for exclusive farm use upon
+written findings showing all of the following:
+(a) The dwelling or activities associated  with the dwelling will not force a significant change in
+or significantly increase the cost of accepted farming practices  on nearby lands devoted to farm use.
+(b) The dwelling  is situated upon generally unsuitable land for the production of farm crops and
+livestock, considering the terrain, adverse soil or land conditions,  drainage and flooding, location
+and size of  the tract. A lot or parcel shall not be considered unsuitable solely because of its size
+or location if it can reasonably be put to farm use in conjunction with other land.
+(c) Complies with such other conditions as the governing body or  its designee considers neces-
+sary.
+(4) In counties that have  adopted marginal lands provisions under ORS 197.247 (1991 Edition),
+one [ single-family] single-unit  dwelling, not provided  in conjunction with farm use, may be estab-
+lished in any area zoned for  exclusive farm use on a lot or parcel described in subsection (7) of this
+section that is not larger than three acres upon written findings showing:
+(a) The dwelling or activities associated  with the dwelling will not force a significant change in
+or significantly increase the cost of accepted farming practices  on nearby lands devoted to farm use;
+(b) If the lot or parcel is located within the Willamette River Greenway, a floodplain or a
+geological hazard area, the dwelling complies with conditions imposed by local  ordinances relating
+Enrolled House Bill 2347 (HB 2347-A) Page 30
+specifically to the Willamette River Greenway, floodplains or geological hazard  areas, whichever is
+applicable;  and
+(c) The dwelling  complies with other conditions considered necessary by the governing body or
+its designee.
+(5) Upon  receipt of an application for a permit under subsection (4) of this section, the governing
+body shall notify:
+(a) Owners of land that is within 250  feet of the lot or parcel on which the dwelling will be
+established; and
+(b) Persons who have requested notice of such applications and who  have paid a reasonable fee
+imposed by the county to cover the cost of such notice.
+(6) The notice required in subsection (5)  of this section shall specify that persons have 15 days
+following the date of postmark of  the notice to file a written objection on the grounds only that the
+dwelling or activities associated with it would force a significant change in or significantly  increase
+the cost of accepted farming practices on nearby lands devoted to farm use. If no objection is re-
+ceived, the governing body or its  designee shall approve or disapprove the application. If an ob-
+jection is received, the governing body shall set the matter for hearing  in the manner prescribed in
+ORS 215.402 to 215.438. The governing body may  charge the reasonable costs of the notice required
+by subsection (5)(a) of this section to the applicant for the permit requested under subsection (4) of
+this section.
+(7) Subsection (4) of this section applies to a lot  or parcel lawfully created between January 1,
+1948, and July 1, 1983. For the purposes of this section:
+(a) Only one lot or parcel exists if:
+(A) A lot or parcel described in  this section is contiguous to one or more lots or parcels de-
+scribed in this section; and
+(B) On July 1, 1983, greater than possessory interests are held in  those contiguous lots, parcels
+or lots and  parcels by the same person, spouses or a single partnership or business entity, separately
+or in tenancy in common.
+(b) “Contiguous” means lots, parcels or lots  and parcels that have a common boundary, includ-
+ing but not limited to, lots, parcels or lots and parcels separated only by a public road.
+(8) A person who sells or otherwise transfers real property in an exclusive farm use zone  may
+retain a life estate in a  dwelling on that property and in a tract of land under and around the
+dwelling.
+(9) No final approval of a nonfarm use under  this section shall be given unless any additional
+taxes imposed upon the change in use have been paid.
+(10) Roads, highways and other transportation facilities and  improvements not allowed under
+subsections (1) and (2) of this section may be established, subject to the approval of the  governing
+body or its designee, in areas zoned for exclusive farm use subject to:
+(a) Adoption of an exception to the goal related to agricultural lands and to any other applicable
+goal with which the facility or improvement does not comply; or
+(b) ORS 215.296 for those uses identified by rule of the  Land Conservation and Development
+Commission as provided in section 3, chapter 529, Oregon Laws 1993.
+(11) The following agri-tourism and other commercial events  or activities that are related to and
+supportive of agriculture may be established in any area zoned for exclusive farm use:
+(a) A county may authorize a single agri-tourism or other commercial event or activity on a
+tract in a calendar year by an authorization  that is personal to the applicant and is not transferred
+by, or transferable with, a conveyance of the tract, if the agri-tourism or other  commercial event
+or activity meets any local standards that apply and:
+(A) The agri-tourism or other commercial event or  activity is incidental and subordinate to ex-
+isting farm use on the tract;
+(B) The duration of the agri-tourism or other commercial event or activity  does not exceed 72
+consecutive hours;
+Enrolled House Bill 2347 (HB 2347-A) Page 31
+(C) The  maximum attendance at the agri-tourism or other commercial event or activity does not
+exceed 500 people;
+(D) The maximum number of motor vehicles parked at  the site of the agri-tourism or other
+commercial event or activity does not exceed 250 vehicles;
+(E) The agri-tourism or other commercial event or activity complies with ORS 215.296;
+(F) The agri-tourism or other commercial  event or activity occurs outdoors, in temporary
+structures, or in existing permitted structures, subject to health and  fire and life safety require-
+ments; and
+(G) The agri-tourism or other commercial event  or activity complies with conditions established
+for:
+(i) Planned hours of operation;
+(ii) Access, egress and parking;
+(iii) A traffic management plan that identifies the  projected number of vehicles and any antic-
+ipated use of public roads; and
+(iv) Sanitation and solid waste.
+(b) In the  alternative to paragraphs (a) and (c) of this subsection, a county may authorize,
+through an expedited, single-event license, a single agri-tourism  or other commercial event or ac-
+tivity on a tract in a calendar year by an expedited, single-event license that is personal to the ap-
+plicant and is not transferred by, or transferable with, a conveyance  of the tract. A decision
+concerning an expedited, single-event license is not a  land use decision, as defined in ORS 197.015.
+To approve an expedited, single-event license, the governing body of a  county or its designee must
+determine that the proposed agri-tourism or other commercial event or  activity meets any local
+standards that apply, and the agri-tourism or other commercial event or activity:
+(A) Must be incidental and subordinate to existing farm use on the tract;
+(B) May not begin before 6 a.m. or end after 10 p.m.;
+(C) May not involve more than 100 attendees or 50 vehicles;
+(D) May not include the artificial amplification of music or voices before 8 a.m. or after 8 p.m.;
+(E) May not  require or involve the construction or use of a new permanent structure in con-
+nection with the agri-tourism or other commercial event or activity;
+(F) Must be located on  a tract of at least 10 acres unless the owners or residents of adjoining
+properties consent, in writing, to the location; and
+(G) Must comply with applicable health and fire and life safety requirements.
+(c) In the alternative to paragraphs (a) and (b) of this subsection, a  county may authorize up to
+six agri-tourism  or other commercial events or activities on a tract in a calendar year by a limited
+use permit that is personal  to the applicant and is not transferred by, or transferable with, a
+conveyance of the tract. The agri-tourism or other commercial events or  activities must meet any
+local standards that apply, and the agri-tourism or other commercial events or activities:
+(A) Must be incidental and subordinate to existing farm use on the tract;
+(B) May not, individually, exceed a duration of 72 consecutive hours;
+(C) May not  require that a new permanent structure be built, used or occupied in connection
+with the agri-tourism or other commercial events or activities;
+(D) Must comply with ORS 215.296;
+(E) May not, in combination with other agri-tourism or other  commercial events or activities
+authorized in the area, materially alter the stability of the land use pattern in the area; and
+(F) Must comply with conditions established for:
+(i) The types  of agri-tourism or other commercial events or activities that are authorized during
+each calendar year, including the number  and duration of the agri-tourism or other commercial
+events and activities, the anticipated daily attendance and the hours of operation;
+(ii) The location of existing structures and  the location of proposed temporary structures to be
+used in connection with the agri-tourism or other commercial events or activities;
+(iii) The  location of access and egress and parking facilities to be used in connection with the
+agri-tourism or other commercial events or activities;
+Enrolled House Bill 2347 (HB 2347-A) Page 32
+(iv) Traffic management, including the projected number of vehicles  and any anticipated use of
+public roads; and
+(v) Sanitation and solid waste.
+(d) In addition to paragraphs  (a) to (c) of this subsection, a county may authorize agri-tourism
+or other commercial events or activities that occur more frequently or for a longer period or  that
+do not otherwise comply with  paragraphs (a) to (c) of this subsection if the agri-tourism or other
+commercial events or activities comply with any local standards that apply and  the agri-tourism or
+other commercial events or activities:
+(A) Are incidental and subordinate to existing  commercial farm use of the tract and are neces-
+sary to support the commercial farm uses or the commercial agricultural enterprises in the area;
+(B) Comply with the requirements of paragraph (c)(C), (D), (E) and (F) of this subsection;
+(C) Occur on a lot or parcel that complies with the acknowledged minimum lot  or parcel size;
+and
+(D) Do not exceed 18 events or activities in a calendar year.
+(12) A holder of a permit authorized by a county under  subsection (11)(d) of this section must
+request review  of the permit at four-year intervals. Upon receipt of a request for review, the county
+shall:
+(a) Provide public notice and an opportunity for  public comment as part of the review process;
+and
+(b) Limit its review to events and activities authorized by the permit, conformance  with condi-
+tions of approval required by the permit  and the standards established by subsection (11)(d) of this
+section.
+(13) For the purposes of subsection (11) of this section:
+(a) A county may authorize the use of temporary  structures established in connection with the
+agri-tourism or other commercial events or activities authorized under subsection (11) of this  sec-
+tion. However, the  temporary structures must be removed at the end of the agri-tourism or other
+event or activity. The county may not approve an alteration to the land  in connection with an
+agri-tourism or other commercial event or activity authorized  under subsection (11) of this section,
+including, but not limited to, grading, filling or paving.
+(b) The county may issue the  limited use permits authorized by subsection (11)(c) of this section
+for two calendar years. When considering an  application for renewal, the county shall ensure com-
+pliance with the provisions of subsection (11)(c) of this section, any local standards  that apply and
+conditions that apply to the permit or to the agri-tourism or other commercial events or activities
+authorized by the permit.
+(c) The authorizations provided by subsection (11)  of this section are in addition to other au-
+thorizations that may be provided by law, except that “outdoor mass gathering” and  “other gather-
+ing,” as those terms are  used in ORS 197.015 (10)(d), do not include agri-tourism or other commercial
+events and activities.
+SECTION 31.
+ ORS 215.236 is amended to read:
+215.236. (1) As  used in this section, “dwelling” means a [ single-family] single-unit  residential
+dwelling not provided in conjunction with farm use.
+(2) The governing body or its designee may not grant final approval of an application made un-
+der ORS 215.213 (3) or 215.284 (1), (2), (3), (4) or  (7) for the establishment of a dwelling on a lot or
+parcel in an exclusive  farm use zone that is, or has been, receiving special assessment without evi-
+dence that the lot or parcel upon which the dwelling  is proposed has been disqualified for special
+assessment at value for farm use under ORS 308A.050 to  308A.128 or other special assessment under
+ORS 308A.315, 321.257 to 321.390, 321.700 to 321.754 or 321.805  to 321.855 and any additional tax
+imposed as the result of disqualification has been paid.
+(3) The governing body or  its designee may grant tentative approval of an application made
+under ORS 215.213 (3) or 215.284 (1), (2), (3), (4) or (7) for the establishment of a dwelling on a  lot
+or parcel in an exclusive farm use zone that is specially assessed  at value for farm use under ORS
+308A.050 to 308A.128 upon making the findings required by  ORS 215.213 (3) or 215.284 (1), (2), (3),
+Enrolled House Bill 2347 (HB 2347-A) Page 33
+(4) or (7). An application  for the establishment of a dwelling that has been tentatively approved shall
+be given final approval by the governing body or its designee upon receipt  of evidence that the lot
+or parcel upon which establishment of the dwelling is  proposed has been disqualified for special
+assessment at value for farm use under ORS 308A.050 to  308A.128 or other special assessment under
+ORS 308A.315, 321.257 to 321.390, 321.700 to 321.754 or 321.805  to 321.855 and any additional tax
+imposed as the result of disqualification has been paid.
+(4) The owner of a lot or parcel upon  which the establishment of a dwelling has been tentatively
+approved as provided by subsection (3) of this section shall, before final approval, simultaneously:
+(a) Notify the county assessor that the lot or parcel is no longer being used as  farmland or for
+other specially assessed uses described in subsection (2) or (3) of this section;
+(b) Request that the county assessor disqualify the  lot or parcel from special assessment under
+ORS 308A.050 to 308A.128, 308A.315, 321.257 to 321.390, 321.700 to 321.754 or  321.805 to 321.855; and
+(c) Pay any additional tax imposed upon disqualification from special assessment.
+(5) Except as provided in subsection (6) of this section, a lot or parcel that  has been disqualified
+pursuant to subsection (4) of this section may not requalify for special assessment  unless, when
+combined with another contiguous lot or parcel, it constitutes a qualifying parcel.
+(6)(a) A lot or parcel that has been disqualified pursuant  to subsection (4) of this section may
+requalify for wildlife  habitat special assessment under ORS 308A.403 to 308A.430 or conservation
+easement special assessment  under ORS 308A.450 to 308A.465 without satisfying the requirements
+of subsection (5) of this section.
+(b) Upon  disqualification from wildlife habitat special assessment under ORS 308A.430 or dis-
+qualification from conservation easement special assessment under  ORS 308A.465, the lot or parcel
+shall be subject to the requirements of subsection (5) of this section.
+(7) When the owner of a lot or parcel upon which  the establishment of a dwelling has been
+tentatively approved notifies the county assessor  that the lot or parcel is no longer being used as
+farmland and requests disqualification  of the lot or parcel for special assessment at value for farm
+use, the county assessor shall:
+(a) Disqualify the lot or parcel for special assessment at value for farm use under ORS  308A.050
+to 308A.128 or other special assessment by removing the special assessment;
+(b) Provide the owner of the lot or parcel with written notice of the disqualification; and
+(c) Impose the additional tax, if any, provided by statute upon disqualification.
+(8) The Department of Consumer and Business Services, a building official, as defined in ORS
+455.715 (1), or any other agency or official responsible for the  administration and enforcement of the
+state building code, as defined in ORS 455.010, may not issue a  building permit for the construction
+of a dwelling on a lot or parcel in an exclusive farm use zone without evidence that the owner  of
+the lot or parcel upon which  the dwelling is proposed to be constructed has paid the additional tax,
+if any, imposed by the county assessor under subsection (7)(c) of this section.
+SECTION 32.
+ ORS 215.284 is amended to read:
+215.284. (1) In the Willamette Valley,  a [ single-family] single-unit  residential dwelling not pro-
+vided in conjunction with  farm use may be established, subject to approval of the governing body
+or its designee, in any area zoned for exclusive farm use upon a finding that:
+(a) The dwelling or activities associated  with the dwelling will not force a significant change in
+or significantly increase the cost of accepted farming or forest practices on nearby lands devoted
+to farm or forest use;
+(b) The dwelling will be sited  on a lot or parcel that is predominantly composed of Class IV
+through Class VIII soils that would not, when irrigated, be classified as prime, unique, Class I  or
+Class II soils;
+(c) The dwelling will be sited on a lot or parcel created before January 1, 1993;
+(d) The dwelling will not materially alter the stability of the overall land use pattern of the area;
+and
+(e) The dwelling complies with such other conditions  as the governing body or its designee
+considers necessary.
+Enrolled House Bill 2347 (HB 2347-A) Page 34
+(2) In counties not described in subsection (1) of this section, a [ single-family] single-unit  resi-
+dential dwelling not provided in conjunction with  farm use may be established, subject to approval
+of the governing body or its designee, in any area zoned  for exclusive farm use upon a finding that:
+(a) The dwelling or activities associated  with the dwelling will not force a significant change in
+or significantly increase the cost of accepted farming or forest practices on nearby lands devoted
+to farm or forest use;
+(b) The dwelling is situated upon a  lot or parcel or portion of a lot or parcel that is generally
+unsuitable land for the production of farm  crops and livestock or merchantable tree species, con-
+sidering the terrain, adverse soil or land conditions, drainage and  flooding, vegetation, location and
+size of the tract. A lot or parcel or portion of a lot or parcel  may not be considered unsuitable
+solely because of size or location if it can reasonably be put to farm or forest  use in conjunction
+with other land;
+(c) The dwelling will be sited on a lot or parcel created before January 1, 1993;
+(d) The dwelling will not materially alter the stability of the overall land use pattern of the area;
+and
+(e) The dwelling complies with such other conditions  as the governing body or its designee
+considers necessary.
+(3) In counties  in western Oregon, as defined in ORS 321.257, not described in subsection (4) of
+this section, a [ single-family] single-unit residential dwelling not provided in conjunction with  farm
+use may be established, subject to approval of the governing body or its designee, in any  area zoned
+for exclusive farm use upon a finding that:
+(a) The dwelling or activities associated  with the dwelling will not force a significant change in
+or significantly increase the cost of accepted farming or forest practices on nearby lands devoted
+to farm or forest use;
+(b) The dwelling is situated upon a lot or parcel or portion of a  lot or parcel that is generally
+unsuitable land for the production of farm crops and  livestock or merchantable tree species, con-
+sidering the terrain, adverse soil or land conditions, drainage and  flooding, vegetation, location and
+size of the tract. A lot or parcel or portion of a lot or parcel may not be considered unsuitable
+solely because of size  or location if it can reasonably be put to farm or forest use in conjunction
+with other land;
+(c) The dwelling will be sited on  a lot or parcel created after January 1, 1993, as allowed under
+ORS 215.263 (4);
+(d) The dwelling will not materially alter the stability of the overall land use pattern of the area;
+and
+(e) The dwelling complies with such other conditions  as the governing body or its designee
+considers necessary.
+(4)(a) In the Willamette Valley,  a lot or parcel allowed under paragraph (b) of this subsection
+for a [ single-family] single-unit  residential dwelling not provided in conjunction with farm use may
+be established, subject to approval of the governing body or its designee,  in any area zoned for ex-
+clusive farm use  upon a finding that the originating lot or parcel is equal to or larger than the ap-
+plicable minimum lot or parcel size and:
+(A) Is not stocked to the requirements under ORS 527.610 to 527.770;
+(B) Is composed of at least 95 percent Class VI through Class VIII soils; and
+(C) Is composed of at least 95 percent soils not capable of producing 50 cubic feet per acre  per
+year of wood fiber.
+(b) Any parcel to be created for a dwelling  from the originating lot or parcel described in par-
+agraph (a) of this subsection will not be smaller than 20 acres.
+(c) The dwelling or activities associated with the dwelling allowed under  this subsection will
+not force a significant change in or significantly increase the cost  of accepted farming or forest
+practices on nearby lands devoted to farm or forest use.
+(d) The dwelling allowed under this subsection will not materially alter the  stability of the
+overall land use pattern of the area.
+Enrolled House Bill 2347 (HB 2347-A) Page 35
+(e) The dwelling allowed under this subsection complies  with such other conditions as the gov-
+erning body or its designee considers necessary.
+(5) No final approval of a nonfarm use under  this section shall be given unless any additional
+taxes imposed upon the change in use have been paid.
+(6) If a [ single-family] single-unit dwelling is established on a lot or parcel as set forth  in ORS
+215.705 to 215.750, no additional dwelling may later be sited under subsection  (1), (2), (3), (4) or (7)
+of this section.
+(7) In counties in eastern Oregon, as defined in ORS 321.805, a  [ single-family] single-unit  resi-
+dential dwelling not provided  in conjunction with farm use may be established, subject to the ap-
+proval of the county governing body or its designee, in any area zoned for exclusive farm use  upon
+a finding that:
+(a) The dwelling or activities associated  with the dwelling will not force a significant change in
+or significantly increase the cost of accepted farming or forest practices on nearby lands devoted
+to farm or forest use;
+(b) The dwelling will be sited  on a lot or parcel created after January 1, 1993, as allowed under
+ORS 215.263 (5);
+(c) The  dwelling will not materially alter the stability of the overall land use pattern of the area;
+and
+(d) The dwelling complies with such other  conditions as the governing body or its designee
+considers necessary.
+SECTION 33.
+ ORS 215.293 is amended to read:
+215.293. The county governing body or its designate shall require  as a condition of approval of
+a [ single-family] single-unit  dwelling under ORS 215.213, 215.283 or 215.284 or otherwise  in a farm
+or forest zone,  that the landowner for the dwelling sign and record in the deed records for the
+county  a  document binding the landowner, and the landowner’s successors in interest, prohibiting
+them from pursuing a claim for relief  or cause of action alleging injury from farming or forest
+practices for which no action or claim is allowed under ORS 30.936 or 30.937.
+SECTION 34.  ORS 215.296 is amended to read:
+215.296. (1) A use allowed  under ORS 215.213 (2) or (11) or 215.283 (2) or (4) may be approved
+only where the local governing body or its designee finds that the use will not:
+(a) Force a significant change in accepted farm or forest  practices on surrounding lands devoted
+to farm or forest use; or
+(b) Significantly increase the cost of accepted farm or forest practices on surrounding lands
+devoted to farm or forest use.
+(2) An applicant for a use allowed under ORS 215.213 (2)  or (11) or 215.283 (2) or (4) may dem-
+onstrate that the standards for approval set forth in subsection (1) of this section  will be satisfied
+through the imposition of conditions. Any conditions so imposed shall be clear and objective.
+(3) A person engaged in  farm or forest practices on lands devoted to farm or forest use may file
+a complaint with the local governing body or its designee alleging:
+(a) That a condition imposed pursuant to subsection (2) of this section has been violated;
+(b) That the violation has:
+(A) Forced a significant change in accepted farm or forest practices on surrounding lands de-
+voted to farm or forest use; or
+(B) Significantly increased the cost of accepted farm or forest  practices on surrounding lands
+devoted to farm or forest use; and
+(c) That the complainant is adversely affected by the violation.
+(4) Upon receipt of a complaint  filed under this section or ORS 215.218, the local governing body
+or its designee shall:
+(a) Forward the complaint to the operator of the use;
+(b) Review the complaint in the manner set forth in ORS 215.402 to 215.438; and
+(c) Determine whether the allegations made in a complaint filed under this section  or ORS
+215.218 are true.
+Enrolled House Bill 2347 (HB 2347-A) Page 36
+(5) Upon a determination that the allegations made  in a complaint are true, the local governing
+body or its designee at a minimum  shall notify the violator that a violation has occurred, direct the
+violator to correct the conditions that led to  the violation within a specified time period and warn
+the violator against the commission of further violations.
+(6) If the conditions that led to a violation are not corrected within the time period specified
+pursuant to subsection (5) of this section, or if there is a determination pursuant  to subsection (4)
+of this section  following the receipt of a second complaint that a further violation has occurred, the
+local governing body or its designee at a minimum shall assess a fine against the violator.
+(7) If the conditions that led to a violation are not corrected within 30 days after the imposition
+of a fine pursuant to subsection (6) of this  section, or if there is a determination pursuant to sub-
+section (4) of this section following the  receipt of a third or subsequent complaint that a further
+violation has occurred, the local governing body or its designee shall at a minimum order the  sus-
+pension of the use until the violator corrects the conditions that led to the violation.
+(8) If a use allowed under ORS 215.213 (2) or (11) or 215.283 (2) or (4) is initiated without  prior
+approval pursuant to subsection (1) of this section, the local governing body  or its designee at a
+minimum shall notify the user that prior approval is required, direct the user to apply for  approval
+within 21 days and warn the user against the commission of further violations. If the user does  not
+apply for approval within 21 days, the local governing body or its designee  shall order the suspen-
+sion of the use  until the user applies for and receives approval. If there is a determination pursuant
+to subsection (4)  of this section following the receipt of a complaint that a further violation occurred
+after approval was granted, the violation shall be  deemed a second violation and the local governing
+body or its designee at a minimum shall assess a fine against the violator.
+(9)(a) The standards set forth in subsection (1) of this section  do not apply to farm or forest uses
+conducted within:
+(A) Lots or parcels with a [ single-family] single-unit  residential dwelling approved under ORS
+215.213 (3), 215.284 (1), (2), (3), (4) or (7) or 215.705;
+(B) An exception area approved under ORS 197.732; or
+(C) An acknowledged urban growth boundary.
+(b) A person residing in a [ single-family] single-unit  residential dwelling which was approved
+under ORS 215.213 (3), 215.284 (1), (2), (3), (4)  or (7) or 215.705, which is within an exception area
+approved under ORS  197.732 or which is within an acknowledged urban growth boundary may not
+file a complaint under subsection (3) of this section.
+(10) This section does not prevent a local governing body approving a  use allowed under ORS
+215.213 (2) or (11) or 215.283 (2) or (4) from establishing standards in  addition to those set forth in
+subsection  (1) of this section or from imposing conditions to ensure conformance with the additional
+standards.
+SECTION 35.
+ ORS 215.317 is amended to read:
+215.317. (1) A county may  allow the following uses to be established on land designated as
+marginal land under ORS 197.247 (1991 Edition):
+(a) Intensive farm or  forest operations, including but not limited to “farm use” as defined in ORS
+215.203.
+(b) Part-time farms.
+(c) Woodlots.
+(d) One [ single-family] single-unit  dwelling on a lot or parcel created under ORS 215.327 (1) or
+(2).
+(e) One [ single-family] single-unit dwelling on a lot or parcel of any size if  the lot or parcel was
+created before July 1, 1983, subject to subsection (2) of this section.
+(f) The nonresidential uses authorized in exclusive farm use zones  under ORS 215.213 (1) and (2).
+(g) One manufactured dwelling or recreational vehicle in conjunction  with an existing dwelling
+as a temporary use for the  term of a hardship suffered by the existing resident or a relative of the
+resident.
+Enrolled House Bill 2347 (HB 2347-A) Page 37
+(2) If a lot or parcel described in subsection  (1)(e) of this section is located within the
+Willamette River Greenway, a floodplain or a geological hazard area, approval of a [ single-family]
+single-unit dwelling shall be subject to local  ordinances relating to the Willamette River Greenway,
+floodplains or geological hazard areas, whichever is applicable.
+SECTION 36.  ORS 215.490 is amended to read:
+215.490. (1) As used in this section:
+(a) “Recreational vehicle” means a recreational vehicle that has not  been rendered structurally
+immobile and is titled with the Department of Transportation.
+(b) “Rural area” means an area zoned for  rural residential use as defined in ORS 215.501 or land
+that is within the urban growth boundary of a metropolitan service district, but not within the ju-
+risdiction of any city, and zoned for residential use.
+(2) A county may allow an owner of a lot or parcel in a rural area to site  on the property one
+recreational vehicle that is used for residential purposes and is subject to  a residential rental
+agreement, provided:
+(a) The  property is not within an area designated as an urban reserve as defined in ORS
+197A.230;
+(b) A [ single-family] single-unit  dwelling  that is occupied as the primary residence of the prop-
+erty owner is sited on the property;
+(c) There are no other dwelling units on the property  and no portion of the [ single-family]
+single-unit dwelling is rented as a residential tenancy;
+(d) The property owner will not  allow the use of the recreational vehicle space or recreational
+vehicle for vacation occupancy, as defined in ORS 90.100, or other short-term uses;
+(e) The recreational vehicle is owned or leased by the tenant; and
+(f) The property owner will provide essential services to the recreational  vehicle space, as de-
+scribed in ORS 90.100 (15)(b).
+(3) A county may require that an owner  of a lot or parcel who sites a recreational vehicle under
+this section:
+(a) Register the use with the county.
+(b) Enter into a written residential rental agreement with the tenant  of the recreational vehicle.
+(c) Limit the amount of payments  that the property owner may accept from the tenant under
+ORS 90.140 to those reasonably necessary to cover the owner’s costs or losses.
+(d) Require that the recreational vehicle comply with any reasonable appearance, repair,  in-
+spection or siting standards adopted by the county.
+(4) Notwithstanding ORS 455.405, a  recreational vehicle sited under this section is not subject
+to the state building code.
+SECTION 37.
+ ORS 215.495 is amended to read:
+215.495. (1) As used in this section:
+(a) “Accessory dwelling unit” has the meaning given that term in ORS 215.501.
+(b) “Area zoned for rural residential use” has the meaning given that term in ORS 215.501.
+(c) “[ Single-family] Single-unit dwelling” has the meaning given that term in ORS 215.501.
+(2) Consistent  with a county’s comprehensive plan, a county may allow an owner of a lot or
+parcel within an  area zoned for rural residential use to construct one accessory dwelling unit on
+the lot or parcel, provided:
+(a) The lot or parcel is not located within an area  designated as an urban reserve as defined in
+ORS 197A.230;
+(b) The lot or parcel is at least two acres in size;
+(c) One [ single-family] single-unit dwelling is sited on the lot or parcel;
+(d) The existing [ single-family] single-unit dwelling property on the lot or  parcel is not subject
+to an order declaring it a nuisance or subject to any pending action under ORS 105.550 to 105.600;
+(e) The accessory dwelling unit will comply with all applicable laws and regulations  relating to
+sanitation and wastewater disposal and treatment;
+(f) The accessory dwelling unit will not include more than 900 square feet of usable floor area;
+Enrolled House Bill 2347 (HB 2347-A) Page 38
+(g) The accessory dwelling unit will be located no farther than 100 feet from the existing
+[single-family] single-unit dwelling;
+(h) If the water supply source for the accessory  dwelling unit or associated lands or gardens
+will be a well using water under ORS 537.545 (1)(b) or (d), no portion of  the lot or parcel is within
+an area in which new or existing ground water uses under ORS 537.545 (1)(b) or (d) have been re-
+stricted by the Water Resources Commission;
+(i) No portion of the lot or parcel is within a designated area of critical state concern;
+(j) The lot or parcel is served by a fire protection  service provider with professionals who have
+received training or certification described in ORS 181A.410;
+(k) If the lot or parcel is in an area identified on the  statewide wildfire hazard map described
+in ORS 477.490 as  within the wildland-urban interface, the lot or parcel and accessory dwelling unit
+comply with any applicable minimum defensible  space requirements for wildfire risk reduction es-
+tablished by the State Fire Marshal under ORS 476.392 and any applicable local requirements for
+defensible space established by a local government pursuant to ORS 476.392;
+(L) The accessory dwelling unit complies with the construction provisions of  section R327 of the
+Oregon Residential Specialty Code, if:
+(A) The lot or parcel is in an area identified as a high wildfire hazard zone on the statewide
+wildfire hazard map described in ORS 477.490; or
+(B) No statewide wildfire hazard map has been adopted; and
+(m) The county has adopted land use regulations that ensure that:
+(A) The accessory dwelling unit has adequate setbacks from adjacent lands zoned for  resource
+use;
+(B) The accessory dwelling unit has adequate access for firefighting equipment,  safe evacuation
+and staged evacuation areas; and
+(C) If the accessory  dwelling unit is not in an area identified on the statewide wildfire hazard
+map described in ORS 477.490 as within the wildland-urban interface,  the accessory dwelling unit
+complies with the provisions of this section and any  applicable local requirements for defensible
+space established by a local government pursuant to ORS 476.392.
+(3) A county may not allow an accessory dwelling unit allowed under this section to be  used for
+vacation occupancy, as defined in ORS 90.100.
+(4) A county that allows construction of an accessory dwelling unit under  this section may not
+approve:
+(a) A subdivision, partition or other division of the lot or parcel so that the existing [ single-
+family] single-unit dwelling is situated on a different lot or parcel than the  accessory dwelling unit.
+(b) Construction of an additional accessory dwelling unit on the same lot or parcel.
+(5) A county may require that an accessory dwelling unit constructed under this section  be
+served by  the same water supply source or water supply system as the existing [ single-family]
+single-unit dwelling, provided such use is allowed for  the accessory dwelling unit by an existing
+water right or a use under ORS 537.545. If the accessory  dwelling unit is served by a well, the
+construction of the accessory dwelling unit shall maintain  all setbacks from the well required by the
+Water Resources Commission or Water Resources Department.
+(6) An existing [ single-family] single-unit dwelling  and an accessory dwelling unit allowed under
+this section are considered  a single unit for the purposes of calculating exemptions under ORS
+537.545 (1).
+(7) Nothing in this section requires a county  to allow any accessory dwelling units in areas
+zoned for rural residential use or prohibits a county from imposing any  additional restrictions on
+accessory dwelling units in areas zoned for rural residential use,  including restrictions on the con-
+struction of garages and outbuildings that support an accessory dwelling unit.
+SECTION 38.
+ ORS 215.501 is amended to read:
+215.501. (1) As used in this section:
+(a) “Accessory dwelling unit” means a residential structure that is used in connection  with or
+that is auxiliary to a [ single-family] single-unit dwelling.
+Enrolled House Bill 2347 (HB 2347-A) Page 39
+(b) “Area zoned for rural residential use” means land that is not located  inside an urban growth
+boundary as defined in ORS 197.015 and that is subject  to an acknowledged exception to a statewide
+land use planning goal relating to farmland  or forestland and planned and zoned by the county to
+allow residential use as a primary use.
+(c) “Historic home” means  a [ single-family] single-unit dwelling constructed between 1850 and
+1945.
+(d) “New” means that the dwelling being constructed did not previously exist in residential  or
+nonresidential form. “New” does not include the acquisition, alteration, renovation  or remodeling
+of an existing structure.
+(e) “[ Single-family] Single-unit dwelling” means a residential  structure designed as a residence
+for one family and sharing no common wall with another residence of any type.
+(2) Notwithstanding any  local zoning or local regulation or ordinance pertaining to the siting
+of accessory dwelling units in areas zoned for rural residential use, a  county may allow an owner
+of a lot or parcel within an area zoned  for rural residential use to construct a new [ single-family]
+single-unit dwelling on the lot or parcel, provided:
+(a) The lot or parcel is not located in an area designated as an urban reserve as defined  in ORS
+197A.230;
+(b) The lot or parcel is at least two acres in size;
+(c) A historic home is sited on the lot or parcel;
+(d) The owner converts the historic home to an accessory dwelling unit upon completion of the
+new [ single-family] single-unit dwelling; and
+(e) The accessory dwelling unit complies with all applicable laws and  regulations relating to
+sanitation and wastewater disposal and treatment.
+(3) An owner that constructs a new [ single-family] single-unit  dwelling under subsection (2)  of
+this section may not:
+(a) Subdivide, partition or  otherwise divide the lot or parcel so that the new [ single-family]
+single-unit dwelling is situated on a different lot or parcel from the accessory dwelling unit.
+(b) Alter, renovate or remodel the accessory dwelling  unit so that the square footage of the
+accessory dwelling unit is more than 120  percent of the historic home’s square footage at the time
+construction of the new [ single-family] single-unit dwelling commenced.
+(c) Rebuild the accessory dwelling unit if the structure is lost to fire.
+(d) Construct an additional accessory dwelling unit on the same lot or parcel.
+(4) A county may require that a new [ single-family] single-unit dwelling constructed under  this
+section be served by the same water supply source as the accessory dwelling unit.
+(5) A county may impose additional conditions  of approval for construction of a new [ single-
+family] single-unit dwelling or conversion of  a historic home to an accessory dwelling unit under
+this section.
+SECTION 39.
+ ORS 215.705 is amended to read:
+215.705. (1) A governing body of a county  or its designate may allow the establishment of a
+[single-family] single-unit dwelling on a lot or parcel located within  a farm or forest zone as set
+forth in  this section and ORS 215.710, 215.720, 215.740 and 215.750 after notifying the county
+assessor  that  the governing body intends to allow the dwelling. A dwelling under this section may
+be allowed if:
+(a) The lot or parcel on which the  dwelling will be sited was lawfully created and was acquired
+by the present owner:
+(A) Prior to January 1, 1985; or
+(B) By devise or by intestate succession from a person who acquired the  lot or parcel prior to
+January 1, 1985.
+(b) The tract on which the dwelling will be sited does not include a dwelling.
+(c) The proposed dwelling is not prohibited by, and will comply with, the requirements  of the
+acknowledged comprehensive plan and land use regulations and other provisions of law.
+Enrolled House Bill 2347 (HB 2347-A) Page 40
+(d) The lot or parcel  on which the dwelling will be sited, if zoned for farm use, is not on that
+high-value farmland described in ORS 215.710  except as provided in subsections (2) and (3) of this
+section.
+(e) The lot or parcel on which the dwelling will be sited, if zoned for forest use,  is described in
+ORS 215.720, 215.740 or 215.750.
+(f) When the lot or parcel on which the dwelling will be sited lies within an area designated  in
+an acknowledged comprehensive plan as  habitat of big game, the siting of the dwelling is consistent
+with the limitations on density upon which the acknowledged comprehensive plan and  land use
+regulations intended to protect the habitat are based.
+(g) When the lot or parcel on which the dwelling will be sited is part of  a tract, the remaining
+portions of the tract are consolidated into a single lot or parcel when the dwelling is allowed.
+(2)(a) Notwithstanding the requirements of subsection (1)(d) of this section, a [ single-family]
+single-unit dwelling not in conjunction with farm use may be sited on high-value farmland if:
+(A) It meets the other requirements of ORS 215.705 to 215.750;
+(B) The lot or parcel is protected as high-value farmland as  described under ORS 215.710 (1);
+and
+(C) A hearings officer of a county determines that:
+(i) The lot or parcel  cannot practicably be managed for farm use, by itself or in conjunction with
+other land, due to extraordinary circumstances inherent in the land or its physical setting that do
+not apply generally to other land in the vicinity.
+(ii) The dwelling will comply with the provisions of ORS 215.296 (1).
+(iii) The dwelling will not materially alter the stability of the overall  land use pattern in the
+area.
+(b) A local government shall provide notice  of all applications for dwellings allowed under this
+subsection to the State Department of Agriculture. Notice shall be  provided in accordance with the
+governing body’s land use regulations but shall be mailed at least 20  calendar days prior to the
+public hearing before the hearings officer under paragraph (a) of this subsection.
+(3) Notwithstanding the requirements of  subsection (1)(d) of this section, a [ single-family]
+single-unit dwelling not in conjunction with farm use may be sited on high-value farmland if:
+(a) It meets the other requirements of ORS 215.705 to 215.750.
+(b) The tract on which the dwelling will be sited is:
+(A) Identified in ORS 215.710 (3) or (4);
+(B) Not protected under ORS 215.710 (1); and
+(C) Twenty-one acres or less in size.
+(c)(A) The tract  is bordered on at least 67 percent of its perimeter by tracts that are smaller
+than 21 acres, and at least two such tracts had dwellings on them on January 1, 1993;
+(B) The tract is not  a flaglot and is bordered on at least 25 percent of its perimeter by tracts
+that are smaller than 21 acres, and at least four dwellings existed on January 1, 1993, within one-
+quarter mile of the center of the subject tract. Up to two of the four dwellings may lie within  the
+urban growth boundary, but only if the subject tract abuts an urban growth boundary; or
+(C) The tract is a flaglot and is bordered  on at least 25 percent of its perimeter by tracts that
+are smaller than 21 acres, and at least four dwellings existed on January 1,  1993, within one-quarter
+mile of the center of the subject tract and on the same side of the public road  that provides access
+to the subject tract. The governing body of a county  must interpret the center of the subject tract
+as the geographic center of the flaglot if the applicant makes a written request  for that interpreta-
+tion and that interpretation does not cause the center to be located outside the flaglot. Up  to two
+of the four dwellings may lie within the urban growth boundary, but only if the subject tract  abuts
+an urban growth boundary. As used in this subparagraph:
+(i) “Flaglot” means a tract containing a  narrow strip or panhandle of land providing access from
+the public road to the rest of the tract.
+Enrolled House Bill 2347 (HB 2347-A) Page 41
+(ii) “Geographic center of the flaglot” means the point of intersection of  two perpendicular lines
+of which the first line crosses the midpoint of the longest side of a flaglot,  at a 90-degree angle to
+that side, and the second line crosses the midpoint of the longest adjacent side of the flaglot.
+(4) If land is in a zone that allows both farm and forest  uses, is acknowledged to be in compli-
+ance with goals relating to both agriculture and forestry and may  qualify as an exclusive farm use
+zone under this chapter, the county may apply  the standards for siting a dwelling under either
+subsection (1)(d) of this section or ORS 215.720,  215.740 and 215.750 as appropriate for the predom-
+inant use of the tract on January 1, 1993.
+(5) A county may, by application of criteria adopted by ordinance,  deny approval of a dwelling
+allowed under this section in any area where the county determines that  approval of the dwelling
+would:
+(a) Exceed the facilities and service capabilities of the area;
+(b) Materially alter the stability of the overall land use pattern in the area; or
+(c) Create conditions or circumstances that the county determines would be contrary to  the
+purposes or intent of its acknowledged comprehensive plan or land use regulations.
+(6) For purposes  of subsection (1)(a) of this section, “owner” includes the spouses in a marriage,
+son, daughter, parent, brother, brother-in-law, sister, sister-in-law, son-in-law,  daughter-in-law,
+parent-in-law, aunt,  uncle, niece, nephew, stepparent, stepchild, grandparent or grandchild of the
+owner or a business entity owned by any one or combination of these family members.
+(7) When a local government approves an application  for a [ single-family] single-unit dwelling
+under the provisions of this section, the  application may be transferred by a person who has quali-
+fied under this section to any other person after the effective date of the land use decision.
+SECTION 40.
+ ORS 215.730 is amended to read:
+215.730. (1) A local government shall require as a condition of approval of  a [ single-family]
+single-unit dwelling allowed under ORS 215.705 on lands zoned forestland that:
+(a)(A) If the lot or parcel is more than  30 acres in eastern Oregon as defined in ORS 321.805,
+the property owner submits a  stocking survey report to the assessor and the assessor verifies that
+the minimum stocking requirements adopted under ORS 527.610 to 527.770 have been met; or
+(B) If the lot or parcel is more than 10 acres in western Oregon as defined in ORS 321.257,  the
+property owner submits a stocking survey report to the assessor and the  assessor verifies that the
+minimum stocking requirements adopted under ORS 527.610 to 527.770 have been met.
+(b) The dwelling meets the following requirements:
+(A) The dwelling has a fire retardant roof.
+(B) The dwelling will not be sited on a slope of greater than 40 percent.
+(C) Evidence is  provided that the domestic water supply is from a source authorized by the
+Water Resources Department and not from a Class II stream as designated by the  State Board of
+Forestry.
+(D) The dwelling is located upon  a parcel within a fire protection district or is provided with
+residential fire protection by contract.
+(E) If the dwelling is not within a fire protection district, the applicant provides  evidence that
+the applicant has asked to be included in the nearest such district.
+(F) If the dwelling has a chimney or chimneys, each chimney has a spark arrester.
+(G) The owner provides and maintains primary fuel-free break and secondary break areas  on
+land surrounding the dwelling that is owned or controlled by the owner.
+(2)(a) If a governing body determines that meeting the requirement of subsection  (1)(b)(D) of this
+section would be impracticable, the governing body may provide an alternative  means for protecting
+the dwelling from fire hazards. The means selected may include a fire sprinkling  system, on-site
+equipment and water storage or other methods that are reasonable, given the site conditions.
+(b) If a water supply is  required under this subsection, it shall be a swimming pool, pond, lake
+or similar body of water that at all times contains at least 4,000 gallons or a stream that  has a
+minimum flow of at least one cubic foot per second.  Road access shall be provided to within 15 feet
+Enrolled House Bill 2347 (HB 2347-A) Page 42
+of the water’s edge for fire-fighting pumping units, and the road  access shall accommodate a turn-
+around for fire-fighting equipment.
+SECTION 41.  ORS 215.750 is amended to read:
+215.750. (1) As used in this section, “center  of the subject tract” means the mathematical
+centroid of the tract.
+(2) In western Oregon, a governing body of a county  or its designate may allow the establish-
+ment of a [ single-family] single-unit  dwelling on a lot or parcel located within a forest zone  if the
+lot or parcel is predominantly composed of soils that are:
+(a) Capable of producing 0 to 49 cubic feet per acre per year of wood fiber if:
+(A) All or part of at least three other lots or parcels that existed on January 1,  1993, are within
+a 160-acre square centered on the center of the subject tract; and
+(B) At least three dwellings existed on January 1, 1993, on the other lots or parcels;
+(b) Capable of producing 50 to 85 cubic feet per acre per year of wood fiber if:
+(A) All or part of at least seven other lots or parcels  that existed on January 1, 1993, are within
+a 160-acre square centered on the center of the subject tract; and
+(B) At least three dwellings existed on January 1, 1993, on the other lots or parcels; or
+(c) Capable of producing more than 85 cubic feet per acre per year of wood fiber if:
+(A) All or part of at least 11 other lots or parcels that existed on January 1,  1993, are within
+a 160-acre square centered on the center of the subject tract; and
+(B) At least three dwellings existed on January 1, 1993, on the other lots or parcels.
+(3) In eastern Oregon, a governing body of a county or its designate may allow  the establish-
+ment of a  [ single-family] single-unit  dwelling on a lot or parcel located within a forest zone if the
+lot or parcel is predominantly composed of soils that are:
+(a) Capable of producing 0 to 20 cubic feet per acre per year of wood fiber if:
+(A) All or part of at least three other lots or parcels that existed on January 1,  1993, are within
+a 160-acre square centered on the center of the subject tract; and
+(B) At least three dwellings existed on January 1, 1993, on the other lots or parcels;
+(b) Capable of producing 21 to 50 cubic feet per acre per year of wood fiber if:
+(A) All or part of at least seven other lots or parcels  that existed on January 1, 1993, are within
+a 160-acre square centered on the center of the subject tract; and
+(B) At least three dwellings existed on January 1, 1993, on the other lots or parcels; or
+(c) Capable of producing more than 50 cubic feet per acre per year of wood fiber if:
+(A) All or part  of at least 11 other lots or parcels that existed on January 1, 1993, are within
+a 160-acre square centered on the center of the subject tract; and
+(B) At least three dwellings existed on January 1, 1993, on the other lots or parcels.
+(4) Lots or parcels within  urban growth boundaries may not be used to satisfy the eligibility
+requirements under subsection (2) or (3) of this section.
+(5) A proposed dwelling under this section is allowed only if:
+(a) It will comply with the requirements  of an acknowledged comprehensive plan, acknowledged
+land use regulations and other provisions of law;
+(b) It complies with the requirements of ORS 215.730;
+(c) No dwellings are allowed on other lots or parcels that make up the tract and  deed re-
+strictions established under ORS 215.740  (3) for the other lots or parcels that make up the tract are
+met;
+(d) The tract on which the dwelling will be sited does not include a dwelling;
+(e) The lot or parcel on which the dwelling will be sited was lawfully established;
+(f) Any property line adjustment to the lot or parcel complied with the applicable property line
+adjustment provisions in ORS 92.192;
+(g) Any property line adjustment to the lot or parcel  after January 1, 2019, did not have the
+effect of qualifying the lot or parcel for a dwelling under this section; and
+Enrolled House Bill 2347 (HB 2347-A) Page 43
+(h) If  the lot or parcel on which the dwelling will be sited was part of a tract on January 1,
+2019, no dwelling existed on the tract on that date, and  no dwelling exists or has been approved on
+another lot or parcel that was part of the tract.
+(6) Except as described in subsection (7) of this section, if the  tract under subsection (2) or (3)
+of this section  abuts a road that existed on January 1, 1993, the measurement may be made by
+creating a 160-acre rectangle that is one mile long and one-fourth mile wide  centered on the center
+of the subject tract and that is to the maximum extent possible, aligned with the road.
+(7)(a) If a  tract 60 acres or larger described under subsection (2) or (3) of this section abuts a
+road or perennial stream, the measurement shall be made  in accordance with subsection (6) of this
+section. However, one of  the three required dwellings must be on the same side of the road or
+stream as the tract and:
+(A) Be located within a 160-acre rectangle that is one mile long and one-fourth mile wide  cen-
+tered on the center of the subject tract and  that is, to the maximum extent possible, aligned with
+the road or stream; or
+(B) Be within one-quarter mile from the  edge of the subject tract but not outside the length of
+the 160-acre rectangle, and on the same side of the road or stream as the tract.
+(b) If a road  crosses the tract on which the dwelling will be located, at least one of the three
+required dwellings must be on the same side of the road as the proposed dwelling.
+(8) Notwithstanding subsection (5)(a) of this section, if  the acknowledged comprehensive plan
+and land use regulations of a county require that  a dwelling be located in a 160-acre square or
+rectangle described in  subsection (2), (3), (6) or (7) of this section, a dwelling is in the 160-acre
+square or rectangle if any part of the dwelling is in the 160-acre square or rectangle.
+SECTION 42.  ORS 215.757 is amended to read:
+215.757. (1) As used in this section, “owner or a relative” means the  owner of the lot or parcel,
+or a relative of the owner or the owner’s spouse, including a child, parent, stepparent, grandchild,
+grandparent, stepgrandparent, sibling, stepsibling, niece, nephew or first cousin of either.
+(2) A county may approve a new  [ single-family dwelling unit ] single-unit dwelling  on a lot or
+parcel zoned for forest use provided:
+(a) The new [ single-family dwelling unit ] single-unit dwelling will be  on a lot or parcel no
+smaller than the minimum size allowed under ORS 215.780;
+(b) The new [ single-family dwelling unit ] single-unit dwelling will be on a lot or parcel that
+contains exactly one existing [ single-family dwelling unit ] single-unit dwelling that was lawfully:
+(A) In existence before November 4, 1993; or
+(B) Approved under ORS 215.130 (6), 215.705, 215.720, 215.740, 215.750 or 215.755;
+(c) The  shortest distance between the new [ single-family dwelling unit ] single-unit dwelling and
+the existing [ single-family dwelling unit ] single-unit dwelling is no greater than 200 feet;
+(d) The lot or parcel is within a rural fire protection district organized  under ORS chapter 478;
+(e) The new [ single-family dwelling  unit ] single-unit dwelling complies with the Oregon resi-
+dential specialty code relating to wildfire hazard mitigation;
+(f) As a  condition of approval of the new [ single-family dwelling unit ] single-unit dwelling, in
+addition to the requirements of ORS 215.293, the property owner agrees to  acknowledge and record
+in the deed records for the county in which the lot or parcel  is located, one or more instruments
+containing irrevocable deed restrictions that:
+(A) Prohibit the owner and the owner’s successors from  partitioning the property to separate
+the new [ single-family dwelling unit ] single-unit dwelling from the lot or  parcel containing the ex-
+isting [ single-family dwelling unit ] single-unit dwelling; and
+(B) Require that the owner and the owner’s successors manage the lot or parcel as  a working
+forest under a written forest management plan, as defined in ORS  526.455, that is attached to the
+instrument;
+(g) The existing [ single-family dwelling  unit ] single-unit dwelling is occupied by the owner or
+a relative;
+Enrolled House Bill 2347 (HB 2347-A) Page 44
+(h) The  new [ single-family dwelling unit ] single-unit dwelling will be occupied by the owner or
+a relative; and
+(i) The owner or a  relative occupies the new [ single-family dwelling unit ] single-unit dwelling
+to allow the relative to assist in the harvesting, processing  or replanting of forest products or in the
+management, operation, planning, acquisition or supervision of forest lots or parcels of the owner.
+(3) If a new [ single-family dwelling unit ] single-unit dwelling is  constructed under this section,
+a county  may not allow the new or existing dwelling unit to be used for vacation occupancy as de-
+fined in ORS 90.100.
+SECTION 43.  ORS 227.450 is amended to read:
+227.450. (1) [ Each multifamily residential dwelling ] Multiunit housing  with more  than 10 indi-
+vidual residential units [ that is constructed after  October 4, 1997, ] should include adequate space and
+access for collection of containers for solid waste and recyclable materials.
+(2) Each commercial building and  each industrial and institutional building [ that is constructed
+after October 4, 1997, ] should include adequate space and access  for collection of containers for solid
+waste and recyclable materials.
+(3) As used in this  section, “commercial,” “recyclable material” and “solid waste” have the
+meanings given in ORS 459.005.
+SECTION 44.  ORS 329A.440 is amended to read:
+329A.440. (1) As used in this section:
+(a) “Child care center” means a child care facility, other than a family child care  home, that is
+certified under ORS 329A.280 (3).
+(b) “Family child care home” means a child care facility in a dwelling that  is caring for not
+more than 16 children and is certified under  ORS 329A.280 (2) or is registered under ORS 329A.330.
+(c) “Land use regulation” and “local government” have the meanings given those terms  in ORS
+197.015.
+(2)(a) A family child care home is  considered a residential use of property for zoning purposes.
+A family child care home is a permitted use in all areas zoned for residential or commercial  pur-
+poses, including areas zoned for [ single-family] single-unit dwellings.
+(b) A local government may not enact or enforce a land use regulation prohibiting the use of a
+residential dwelling, located in an area zoned for residential or commercial use, as a family child
+care home.
+(c) A local government may not impose  land use regulations, special fees or conditions on the
+establishment or maintenance of  a family child care home more restrictive than those imposed on
+other residential dwellings in the same zone.
+(3) Notwithstanding subsection (2)(c) of  this section, a county may impose reasonable conditions
+on the establishment of a family child care home in an area zoned for farm use.
+(4)(a) A child care center is  a permitted use in all areas zoned for commercial or industrial use,
+except areas specifically designated by the local government for heavy industrial use.
+(b) A local government may not  impose land use regulations, special fees or conditions on the
+establishment or  maintenance of a child care center in an area zoned for commercial or industrial
+use that are more restrictive than those imposed for other uses in the same zone.
+(5) Notwithstanding subsection (4) of this section, a local government may impose  reasonable
+conditions upon the establishment or maintenance of a child care center in  an area zoned for in-
+dustrial uses.
+(6) As used in this section, “reasonable conditions” includes, but  is not limited to, siting re-
+strictions for properties  designated on the Department of Environmental Quality’s statewide list of
+contaminated properties as having known or suspected releases of hazardous substances.
+SECTION 45.
+ ORS 418.960 is amended to read:
+418.960. (1)  Each city and county may adopt a procedure which will provide opportunities for
+the siting of child-caring facilities within its jurisdiction including the siting  of such facilities in
+[single-family] single-unit residential zones. The  procedure shall specify all conditions the require-
+Enrolled House Bill 2347 (HB 2347-A) Page 45
+ments of which must be satisfied for the approval of an application for the siting of  a child-caring
+facility, including any applicable zoning or land use restrictions.
+(2) If a city or county denies an application for the siting of a child-caring facility,  it shall make
+formal findings under the provisions of the procedure adopted under subsection (1) of this section.
+(3) Denial of  an application for the siting of a child-caring facility by an agency, board or com-
+mission of a city or county may be appealed to the governing body of the city or county.
+(4) A city or county [ shall] may not require, under the procedure established  under this section,
+independent satisfaction of conditions that have been required by  the state for certification of the
+child-caring facility, unless, in the case of the particular facility, the city or county finds:
+(a) That circumstances have changed;
+(b) That additional information about those conditions is necessary; or
+(c) That review of such conditions is necessary to respond to the residents of the jurisdiction.
+(5) Upon request, an agency applying for  certification of a child-caring facility shall supply the
+city or county with a copy of the agency’s application for state certification of the facility.
+SECTION 46.
+ Section 9, chapter 552, Oregon Laws 2021, as amended  by section 104, chapter
+13, Oregon Laws 2023, is amended to read:
+Sec. 9.  (1) Notwithstanding ORS 197.250 or 197.612 or any statewide land use planning  goal, the
+Department of Land Conservation and Development shall  approve Stevens Road planning amend-
+ments provided  the department determines, in its discretion, that the Stevens Road planning
+amendments, with respect to the Stevens Road tract, include:
+(a) An inventory of significant historical artifacts, cultural sites and natural resources.
+(b) Areas designated for recreational and open space.
+(c) Land use regulations for the protection and preservation  of significant resources and desig-
+nated areas identified in paragraphs (a) and (b) of this subsection.
+(d) Land use regulations that comply with applicable wildfire planning  and development re-
+quirements, including requirements in regulations adopted to implement a statewide planning  goal
+relating to natural disasters and hazards.
+(e) Areas designated for adequate employment lands that  account for the city’s most recent
+economic opportunity analysis,  including consideration of subsequent economic development activ-
+ities and trends.
+(f) Within areas zoned for residential purposes, without counting the lands designated  under
+subsection (2) of this section, land use regulations for housing that:
+(A) Ensure adequate opportunities for the development of all  needed housing types, sizes and
+densities of market-rate housing, including middle housing as defined in ORS [ 197.758] 197A.420;
+(B) Exceed the proportions of [ single-family] single-unit  attached and [ multifamily] multiunit
+housing called for in the city’s most recently adopted housing needs analysis under  ORS 197.296 (3)
+(2021 Edition);
+(C) Exceed a minimum density standard of nine residential units per gross residential  acre; and
+(D) On the date the Stevens  Road planning amendments are approved, comply with land use
+regulations adopted by the city, or  any minimum applicable rules adopted by the department, to
+implement ORS [ 197.758] 197A.420 and the  amendments to ORS [ 197.312] 197A.425 by section 7,
+chapter 639, Oregon Laws 2019.
+(g) Sufficient areas designated for mixed use development to support and integrate viable com-
+mercial and  residential uses along with transportation options, including walking, bicycling and
+transit use.
+(h) Land use regulations ensuring that:
+(A) Adequate capacity is available, or feasible with development, for water, sewer and  storm
+water services; and
+(B) Adequate consideration is given to the  financing, scheduling and development of urban ser-
+vices, as defined in ORS 195.065.
+(i) Land use regulations for transportation that:
+Enrolled House Bill 2347 (HB 2347-A) Page 46
+(A) Ensure the development of adequate infrastructure to support walking, bicycling,  public
+transit and motor vehicle movement; and
+(B) Give adequate consideration to transportation networks that connect  the Stevens Road tract
+to other areas within the urban growth boundary of the city.
+(j) The adequate consideration of the recommendations and comments  received under section 8
+(3) to (5), chapter 552, Oregon Laws 2021.
+(2) The department may not approve the planning amendments  under subsection (1) of this sec-
+tion unless the planning amendments designate at least 20 net acres of land to be:
+(a) Restricted so the area may be zoned, planned, sited or developed only  for residential housing
+units at a minimum density of nine residential units per gross acre;
+(b) Conveyed  to the city at a price per acre established under section 4 (2)(b), chapter 552,
+Oregon Laws 2021; and
+(c) Notwithstanding ORS 91.225 or [ 197.309] 197A.465, preserved for a period of no less  than 50
+years as affordable to own or rent as follows:
+(A) At least 12 net acres made affordable to:
+(i) Households with incomes of 60 percent or less of  the area median income, as defined in ORS
+456.270; or
+(ii) If part  of an income-averaging program approved by the Housing and Community Services
+Department, households whose incomes average 60 percent or less of the area median income.
+(B) At least six net acres:
+(i) Made  affordable to households with incomes of 80 percent or less of the area median income;
+and
+(ii) Made available, to the extent permitted by  law, in a manner that gives a priority to house-
+holds in which at least one individual is employed by an education provider over other  members of
+the public.
+(C) At least two net acres in which at least 80  percent of the units in each contiguous devel-
+opment tract are made affordable to households with 80 percent or less of the area median income,
+of which at least one net acre  is made available, to the extent permitted by law, in a manner that
+gives a priority to households in which at least one individual is employed by an education  provider
+over other members of the public.
+(3) Upon a partition or subdivision of the Stevens  Road tract following the approval of the
+planning amendments under subsection (1)  of this section establishing one or more lots or parcels
+described in subsection (2) of this section, the owner  shall transfer those lots or parcels to the city.
+For a period of 99 years  after the purchase of property under this section, if the city resells any lot
+or parcel, the city may recover only the city’s costs of the purchase and resale of the property.
+(4) Neither the city nor the  Department of Land Conservation and Development is obligated to
+adopt any specific findings or evaluate any specific  criteria in exercising its discretion with respect
+to any Stevens Road planning amendments  under this section and may receive, solicit or consider
+information from any source.
+(5) As used in this section, “education  provider” means a school district as defined in ORS
+332.002, an educational program under the Youth Corrections Education Program  or Juvenile De-
+tention Education Program as both are defined in ORS 326.695, or an education service district  as
+defined in ORS 334.003.
+SECTION 47.
+ Section 1, chapter 103, Oregon Laws 2024, is amended to read:
+Sec. 1.  (1) As used in this section:
+(a) “Housing development” means [ multifamily] multiunit housing or a mix  of [ multifamily]
+multiunit housing, middle housing and [ single-family housing units ] single-unit dwellings planned,
+owned or constructed together  through one or more applications or development projects under ORS
+227.175 or a development agreement under ORS 94.504 to 94.528.
+(b) “Infrastructure project”  means a specific project for which funds are appropriated under
+section 5 , chapter 103, Oregon Laws 2024  [ of this 2024 Act ].
+Enrolled House Bill 2347 (HB 2347-A) Page 47
+(c) “Workforce income household” means a household with income less  than or equal to 130
+percent of the county median income based  on information or estimates available from the United
+States Census Bureau.
+(2) The Oregon Business Development Department  shall provide grants to cities for the purpose
+of developing infrastructure projects.
+(3) To receive a grant under this section, a city must agree that:
+(a) The infrastructure project will be within the city’s urban growth  boundary and will con-
+tribute to the development of housing within the urban growth boundary;
+(b) The infrastructure project will be completed within 24 months of the disbursement of the
+funds;
+(c) The city has identified a specific, planned housing development that will  be primarily bene-
+fited by the infrastructure project;
+(d) The city has or will enter into an agreement with the  property owner of the housing devel-
+opment as provided in subsection (4) of this section;
+(e) The city will assign to the state any  moneys or claims based on subsection (4)(c) of this
+section; and
+(f) The city will provide reports as required under section 2 , chapter 103, Oregon Laws  2024
+[of this 2024 Act ].
+(4) A city may not receive a disbursement of the grant until the city and the property  owner
+of the identified housing development have entered into one or more agreements to provide that:
+(a) The owner will construct a minimum specified number of housing units before the latter of
+36 months after the completion of the infrastructure project or  60 months after the disbursement
+of the infrastructure grant.
+(b) No less than 30 percent of the dwelling units within the housing development will be subject
+to an affordable housing covenant, as defined in ORS 456.270, under which:
+(A) The city shall serve as or designate the covenant holder; and
+(B) The housing will be made affordable to workforce income households  for a period of no less
+than 10 years.
+(c) In addition to any other remedies, the owner  is liable to repay to the city the amount of the
+infrastructure grant under this section if the units are not developed or the affordability  is not
+maintained as required in this subsection, except for delays outside of the owner’s control.
+(d) The owner will assist the city in its reporting requirements under section 2 , chapter 103,
+Oregon Laws 2024 [ of this 2024 Act ].
+SECTION 48.
+ Section 38, chapter 110, Oregon Laws 2024, is amended to read:
+Sec. 38.  (1) As used in sections 38 to 41 , chapter 110, Oregon Laws 2024  [ of this 2024 Act ]:
+(a) “Adjustment” means a deviation from an existing land use regulation.
+(b) “Adjustment” does not include:
+(A) A request  to allow a use of property not otherwise permissible under applicable zoning re-
+quirements;
+(B) Deviations from land use  regulations or requirements related to accessibility, affordability,
+fire ingress or egress, safety, local tree codes,  hazardous or contaminated site clean-up, wildlife
+protection, or statewide land use planning goals relating  to natural resources, natural hazards, the
+Willamette River Greenway, estuarine resources, coastal shorelands, beaches and dunes or ocean
+resources;
+(C) A complete waiver of land use regulations or  any changes beyond the explicitly requested
+and allowed adjustments; or
+(D) Deviations to requirements related to the implementation  of fire or building codes, federal
+or state air  quality, water quality or surface,  ground or stormwater requirements, or requirements
+of any federal, state or local law other than a land use regulation.
+(2) Except as provided in section 39 , chapter  110, Oregon Laws 2024  [of this 2024 Act ], a local
+government shall grant a request for an adjustment  in an application to develop housing as provided
+Enrolled House Bill 2347 (HB 2347-A) Page 48
+in this section. An application qualifies for an adjustment under this section only if the following
+conditions are met:
+(a) The application is  for a building permit or a quasi-judicial, limited or ministerial land use
+decision;
+(b) The development is on  lands zoned to allow for residential uses, including mixed-use resi-
+dential;
+(c) The residential development is for densities not less  than those required under section 55
+(3)(a)(C), chapter 110, Oregon Laws 2024  [ of this 2024 Act ];
+(d) The development is  within an urban growth boundary, not including lands that have not been
+annexed by a city;
+(e) The development is of net new housing units in new construction projects, including:
+(A) [ Single-family or multifamily ] Single-unit or multiunit housing ;
+(B) Mixed-use residential where at least 75 percent of the developed floor area will be used  for
+residential  uses;
+(C) Manufactured dwelling parks;
+(D) Accessory dwelling units; or
+(E) Middle housing as defined in ORS 197A.420;
+(f) The application requests not  more than 10 distinct adjustments to development standards as
+provided in this section. A “distinct adjustment” means:
+(A) An adjustment to one  of the development standards listed in subsection (4) of this section
+where each discrete adjustment to a listed development standard that includes  multiple component
+standards must be counted as an individual adjustment; or
+(B) An adjustment to one of the [ development] design standards  listed in subsection (5) of this
+section where each discrete adjustment to a listed [ development] design standard that  includes
+multiple component standards must be counted as an individual adjustment; and
+(g) The application states how at least one of the following criteria apply:
+(A) The adjustments will enable development of  housing that is not otherwise feasible due to
+cost or delay resulting from the unadjusted land use regulations;
+(B) The adjustments will enable development of housing  that reduces the sale or rental prices
+per residential unit;
+(C) The adjustments will increase the number of housing units within the application;
+(D) All of the units in  the application are subject to an affordable housing covenant as described
+in ORS 456.270 to 456.295, making  them affordable to moderate income households as defined in ORS
+456.270 for a minimum of 30 years;
+(E) At least 20 percent of the units in  the application are subject to an affordable housing
+covenant as described in ORS 456.270 to 456.295, making them affordable to low income  households
+as defined in ORS 456.270 for a minimum of 60 years;
+(F) The adjustments will enable  the provision of accessibility or visitability features in housing
+units that are not otherwise feasible due to cost  or delay resulting from the unadjusted land use
+regulations; or
+(G) All of the units in the application are subject to a zero equity, limited equity, or  shared
+equity ownership model including resident-owned cooperatives and community land trusts  making
+them affordable to moderate income households as described in ORS 456.270 to 456.295 for  a period
+of 90 years.
+(3) A decision on an application  for an adjustment made under this section is a limited land use
+decision. Only the applicant may appeal  the decision. No notice of the decision is required if the
+application is denied, other than notice  to the applicant. In implementing this subsection, a local
+government may:
+(a) Use an existing process, or develop and apply a new process, that  complies with the re-
+quirements of this subsection; or
+(b) Directly apply the process set forth in this subsection.
+(4) A local government shall grant an adjustment to the following development standards:
+Enrolled House Bill 2347 (HB 2347-A) Page 49
+(a) Side or rear setbacks, for an adjustment of not more than 10 percent.
+(b) For an individual development project, the common area, open space or  area that must be
+landscaped on the same lot or parcel as the proposed housing,  for a reduction of not more than 25
+percent.
+(c) Parking minimums.
+(d) Minimum lot sizes, not more than a 10 percent adjustment, and  including not more than a
+10 percent adjustment to lot widths or depths.
+(e) Maximum lot sizes, not more than  a 10 percent adjustment, including not more than a 10
+percent adjustment to lot width or depths and only if the adjustment results in:
+(A) More dwelling units than would be allowed without the adjustment; and
+(B) No reduction in density below the minimum applicable density.
+(f) Building lot coverage requirements for up to a 10 percent adjustment.
+(g) For manufactured dwelling parks,  middle housing as defined in ORS 197A.420, [ multifamily]
+multiunit housing and mixed-use residential housing:
+(A) Requirements for bicycle parking that establish:
+(i) The minimum number of spaces for use by the residents of the project, provided the applica-
+tion includes at least one-half space per residential unit; or
+(ii) The location of the spaces, provided  that lockable, covered bicycle parking spaces are within
+or adjacent to the residential development;
+(B) For uses other than cottage clusters, as defined in  ORS 197A.420 (1)[ (c)(D)], building height
+maximums that:
+(i) Are in addition to existing applicable height bonuses, if any; and
+(ii) Are not more than an increase of the greater of:
+(I) One story; or
+(II) A 20  percent increase to base zone height with rounding consistent with methodology out-
+lined in city code, if any;
+(C) Unit density maximums, not more than an amount necessary to account for other adjust-
+ments under this section; and
+(D) Prohibitions, for the ground floor of a mixed-use building, against:
+(i) Residential uses except for one face of the building that faces the street and is within  20 feet
+of the street; and
+(ii) Nonresidential  active uses that support the residential uses of the building, including lobbies,
+day care, passenger loading, community rooms,  exercise facilities, offices, activity spaces or live-
+work spaces, except for active uses in specifically and clearly defined  [ mixed use ] mixed-use areas
+or commercial corridors designated by local governments.
+(5) A local government shall grant an adjustment to design standards that regulate:
+(a) Facade materials, color or pattern.
+(b) Facade articulation.
+(c) Roof forms and materials.
+(d) Entry and garage door materials.
+(e) Garage door orientation, unless the building  is adjacent to or across from a school or public
+park.
+(f) Window materials, except for bird-safe glazing requirements.
+(g) Total window area,  for up to a 30 percent adjustment, provided the application includes at
+least 12 percent of the total facade as window area.
+(h) For manufactured dwelling parks, middle housing as defined in  ORS 197A.420, [ multifamily]
+multiunit housing and mixed-use residential:
+(A) Building orientation requirements, not including transit street orientation requirements.
+(B) Building height transition  requirements, not more than a 50 percent adjustment from the
+base zone.
+(C) Requirements for balconies and porches.
+(D) Requirements for recesses and offsets.
+Enrolled House Bill 2347 (HB 2347-A) Page 50
+SECTION 49.  Section 2, chapter 111, Oregon Laws 2024, is amended to read:
+Sec. 2.  (1)(a) On or before January 1, 2026, the Land Conservation and Development Commission
+shall adopt three  model ordinances providing clear and objective standards for the development of
+various housing types within an  urban growth boundary, including [ single-family detached housing ]
+detached single-unit dwellings , middle housing,  as defined in ORS 197A.420, accessory dwelling
+units, as defined  in ORS 197A.425, and [ multifamily] multiunit housing, that may be readily adopted
+by a local government in compliance with the requirements of ORS 197.610.
+(b) Among the three model ordinances adopted under this section:
+(A) One must be targeted toward cities with a population of less than 2,500;
+(B) One must be targeted toward cities with a population of 2,500 or  greater and less than
+25,000; and
+(C) One must be targeted toward cities with a population of 25,000 or greater.
+(c) In adopting model ordinances under this section, the commission:
+(A) May consider geographic location and other regional factors; and
+(B) May allow a city to adopt, in whole or in part, a model ordinance targeted toward a larger
+city.
+(2) A model ordinance adopted under this section is presumed to have clear  and objective
+standards.
+(3) In adopting model ordinances under this section, the commission shall prioritize  the princi-
+ples and considerations under section 9 (2), chapter 13, Oregon Laws 2023.
+SECTION 50.
+ Section 1, chapter 527, Oregon Laws 2021, is amended to read:
+Sec. 1.  As used in sections 1 to 5 , chapter 527, Oregon Laws 2021  [ of this 2021 Act ]:
+(1) “Consumer Price Index for All Urban Consumers, West Region (All Items)”  means the Con-
+sumer Price Index for All Urban Consumers, West  Region (All Items), as published by the Bureau
+of Labor Statistics of the United States Department of Labor.
+(2)(a) “Eligible housing” means a newly constructed [ single-family] single-unit dwelling.
+(b) “Eligible housing” does not  include the land on which the [ single-family] single-unit dwelling
+is situated.
+(3) “Eligible owner” means an individual who will be the first  person to own and occupy eligible
+housing upon completion of construction and who  occupies the eligible housing as the individual’s
+primary residence.
+(4) “Newly constructed” means constructed beginning  on a date that occurs on or after the ef-
+fective date of a workforce housing exemption law  adopted by the governing body of the county in
+which the eligible housing is located.
+(5) “Workforce housing exemption law” or “exemption law” means an ordinance or  resolution
+adopted by  the governing body of a county pursuant to section 2 , chapter 527, Oregon Laws 2021
+[of this 2021 Act ].
+UNIT CAPTIONS
+SECTION 51. The unit captions  used in this 2025 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2025 Act.
+Enrolled House Bill 2347 (HB 2347-A) Page 51
+Passed by House February 27, 2025
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate April 30, 2025
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 2347 (HB 2347-A) Page 52
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 101.020, ORS 105.550, ORS 181A.410, ORS 184.453, ORS 184.455, ORS 190.003, ORS 192.311, ORS 195.065, ORS 195.120, ORS 195.300, ORS 195.301, ORS 195.305, ORS 195.310, ORS 195.328, ORS 195.332, ORS 197.015, ORS 197.247, ORS 197.250, ORS 197.251, ORS 197.296, ORS 197.319, ORS 197.475, ORS 197.478, ORS 197.493, ORS 197.522, ORS 197.610, ORS 197.628, ORS 197.660, ORS 197.665, ORS 197.667, ORS 197.670, ORS 197.732, ORS 197.761, ORS 197A.015, ORS 197A.018, ORS 197A.030, ORS 197A.100, ORS 197A.103, ORS 197A.110, ORS 197A.115, ORS 197A.130, ORS 197A.230, ORS 197A.245, ORS 197A.270, ORS 197A.280, ORS 197A.285, ORS 197A.335, ORS 197A.348, ORS 197A.350, ORS 197A.365, ORS 197A.370, ORS 197A.395, ORS 197A.400, ORS 197A.420, ORS 197A.425, ORS 197A.430, ORS 197A.465, ORS 197A.470, ORS 215.130, ORS 215.203, ORS 215.213, ORS 215.218, ORS 215.236, ORS 215.246, ORS 215.255, ORS 215.263, ORS 215.274, ORS 215.275, ORS 215.279, ORS 215.283, ORS 215.284, ORS 215.291, ORS 215.293, ORS 215.296, ORS 215.298, ORS 215.317, ORS 215.327, ORS 215.402, ORS 215.416, ORS 215.422, ORS 215.427, ORS 215.435, ORS 215.446, ORS 215.447, ORS 215.448, ORS 215.449, ORS 215.451, ORS 215.452, ORS 215.490, ORS 215.495, ORS 215.501, ORS 215.705, ORS 215.710, ORS 215.720, ORS 215.730, ORS 215.740, ORS 215.750, ORS 215.757, ORS 215.780, ORS 227.030, ORS 227.160, ORS 227.175, ORS 227.178, ORS 227.179, ORS 227.180, ORS 227.181, ORS 227.450, ORS 30.930, ORS 30.936, ORS 308A.050, ORS 308A.250, ORS 308A.315, ORS 308A.403, ORS 308A.430, ORS 308A.450, ORS 308A.465, ORS 315.141, ORS 321.257, ORS 321.267, ORS 321.805, ORS 326.695, ORS 329A.250, ORS 329A.280, ORS 329A.330, ORS 329A.440, ORS 332.002, ORS 334.003, ORS 358.480, ORS 418.205, ORS 418.960, ORS 446.003, ORS 448.119, ORS 454.695, ORS 455.010, ORS 455.405, ORS 455.715, ORS 456.005, ORS 456.270, ORS 456.601, ORS 459.005, ORS 459.205, ORS 459.245, ORS 468B.050, ORS 468B.053, ORS 468B.095, ORS 469.300, ORS 476.392, ORS 477.490, ORS 517.750, ORS 520.005, ORS 522.005, ORS 526.455, ORS 527.610, ORS 527.620, ORS 537.545, ORS 540.505, ORS 561.191, ORS 568.900, ORS 659A.421, ORS 671.318, ORS 671.520, ORS 801.580, ORS 90.100, ORS 90.140, ORS 91.225, ORS 92.010, ORS 92.031, ORS 92.192, ORS 93.277, ORS 94.504
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `9ed301246fc8e7a263fd9b7c5cb823234ef3fe0222df49ab8dc97c6b9d5fd3ab` (snapshot `_meta/snapshots/measure-2025r1-hb2347-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2347/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `eddf27140c4e77e2fddfdc20f3914b422713f0fe43a4342adc9641fb3c4f8d50` (snapshot `_meta/snapshots/measure-2025r1-hb2347-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2347/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2347` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

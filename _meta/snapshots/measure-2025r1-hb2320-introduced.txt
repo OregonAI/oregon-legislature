@@ -1,0 +1,164 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2320
+Sponsored by Representative EVANS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act permits HECC to cancel its approval of  a school to give a degree. (Flesch
+Readability Score: 78.8).
+Permits the Higher Education  Coordinating Commission to cancel the commission’s approval of
+a school to confer any academic degree or provide services purporting to  lead to a degree in whole
+or in part.
+A BILL FOR AN ACT
+Relating to cancellation of approval by the Higher Education Coordinating Commission; amending
+ORS 348.606.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 348.606 is amended to read:
+348.606. (1)(a) A  school may not confer or offer to confer any academic degree upon a person,
+or provide services purporting to lead  to a degree in whole or in part, without first obtaining ap-
+proval from the Higher Education Coordinating Commission.
+(b) The commission may  rescind, remove or otherwise cancel the commission’s approval
+obtained by a school under this subsection.
+(c) The commission  shall adopt by rule standards and procedures for the approval and
+rescission of approval of schools  under this subsection .
+(2)(a) A  school based outside of Oregon may not offer any educational credit or degree within
+Oregon, including through the Internet,  mail or telephone, without first obtaining approval from the
+commission. This subsection does not apply to schools operating as part of an  interstate agreement
+entered into under ORS 350.075 (3).
+(b) The commission may  rescind, remove or otherwise cancel the commission’s approval
+obtained by a school under this subsection. The commission shall adopt by  rule standards
+and procedures for the cancellation of approval under this paragraph.
+(3)(a) The commission, by rule, may  impose fees on any school applying for approval to confer
+or offer to confer a degree upon a  person or to provide academic credit applicable to a degree. Any
+fee imposed under this section is nonrefundable.
+(b) The amount of each fee in  this section is established to recover designated expenses incurred
+by the commission in carrying out the administration of ORS 348.594 to  348.615, and may not exceed
+the amounts  specified in this section adjusted for inflation annually, beginning on July 1, 2012,
+pursuant to the increase, if any, from the preceding  year in the U.S. City Average Consumer Price
+Index for All Urban Consumers (All Items) as  published by the Bureau of Labor Statistics of the
+United States Department of Labor.
+(4) For periodic review of a  school’s general administrative and academic operations, and con-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 177
+HB 2320
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+tinued oversight and support of the school, the commission may impose the following fee  on each
+school, to be paid biennially:
+(a) $2,000 for a full review and oversight of a school with a complex organizational structure.
+(b) $1,000  for a full review and oversight of a school wholly administered and governed at a
+single campus in this state.
+(5) For periodic evaluation of academic programs offered by schools subject to continued over-
+sight, the commission may  impose the following fees per program for the following degrees or cer-
+tificates:
+(a) $2,000 for a nondegree certificate.
+(b) $3,000 for an associate degree.
+(c) $4,000 for a bachelor’s degree, master’s degree or doctoral degree.
+(6) Notwithstanding subsections (4) and  (5) of this section, the commission may impose the fol-
+lowing fees on each school that is not based in this  state, offers distance learning courses or pro-
+grams in this state and is not operating as part of an interstate agreement entered into under ORS
+350.075 (3):
+(a) $7,000, to be paid biennially, for a full review and oversight of a school.
+(b) $1,000 for each new program application not offered at the time of the school’s initial appli-
+cation to the commission.
+(7)(a) In addition to the fees described in subsections  (4) to (6) of this section, the commission
+may impose on each school  that is not based in this state a fee of $1,000 per program that, as part
+of the program, places students in a practicum based in this state.
+(b) This  subsection does not apply to a placement that is part of an online program offered by
+a school.
+(c) The commission may waive the fee imposed under this subsection for limited  placements or
+special circumstances that involve Oregon residents who return to this state for a practicum.
+(8) In addition to the fees described in subsections (4) to (7) of this section:
+(a) The commission may impose a fee of not more than $500 for a change in  program, based on
+the scope and complexity of the proposed program change.
+(b) For review of qualifications of staff prior to hiring, the commission may impose a fee of:
+(A) Not more than $50 for each new instructor.
+(B) Not more than $100 for each new administrator or senior academic staff person.
+(9) In addition to the fees described  in subsections (4) to (8) of this section, the commission may
+assess:
+(a) The actual  costs related to the use of experts to evaluate programs leading to professional
+licensure by the state, if such costs exceed 10 percent of the base fees.
+(b) Costs associated with travel expenses for:
+(A) Schools subject to review and oversight under subsection (4) of this section; or
+(B) Schools located outside this state that seek authorization to  offer degrees without accredi-
+tation to residents of this state.
+(10) Any fees collected under this section shall be deposited  in the Degree Authorization Ac-
+count established under ORS 348.601.
+(11) As used in this section, “practicum” means a portion of a degree program  that involves a
+supervised field placement in a professional or workplace environment.
+[2]

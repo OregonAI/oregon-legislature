@@ -1,0 +1,1073 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb386
+title: 'SB 386 (2025R1): Creates the crime of patronizing a trafficked child.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 386
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB386/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: c7d0cb527221cd174688c45f6b7dd39bbc150a772809f9d136b685b00d1532c3
+snapshot_id: measure-2025r1-sb386-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 109.056
+  - ORS 131.505
+  - ORS 133.724
+  - ORS 147.600
+  - ORS 161.005
+  - ORS 161.290
+  - ORS 161.515
+  - ORS 162.015
+  - ORS 162.025
+  - ORS 162.065
+  - ORS 162.117
+  - ORS 162.235
+  - ORS 162.265
+  - ORS 162.405
+  - ORS 162.455
+  - ORS 163.095
+  - ORS 163.160
+  - ORS 163.225
+  - ORS 163.235
+  - ORS 163.263
+  - ORS 163.264
+  - ORS 163.266
+  - ORS 163.275
+  - ORS 163.355
+  - ORS 163.413
+  - ORS 163.537
+  - ORS 163.665
+  - ORS 163.670
+  - ORS 163.701
+  - ORS 163.730
+  - ORS 163.760
+  - ORS 163A.005
+  - ORS 163A.025
+  - ORS 164.015
+  - ORS 164.043
+  - ORS 164.045
+  - ORS 164.055
+  - ORS 164.057
+  - ORS 164.075
+  - ORS 164.170
+  - ORS 164.315
+  - ORS 164.345
+  - ORS 164.377
+  - ORS 164.395
+  - ORS 164.865
+  - ORS 164.868
+  - ORS 164.875
+  - ORS 164.886
+  - ORS 164.889
+  - ORS 165.007
+  - ORS 165.074
+  - ORS 165.080
+  - ORS 165.540
+  - ORS 165.555
+  - ORS 165.692
+  - ORS 165.800
+  - ORS 166.015
+  - ORS 166.087
+  - ORS 166.155
+  - ORS 166.165
+  - ORS 166.180
+  - ORS 166.190
+  - ORS 166.220
+  - ORS 166.250
+  - ORS 166.270
+  - ORS 166.275
+  - ORS 166.382
+  - ORS 166.384
+  - ORS 166.410
+  - ORS 166.450
+  - ORS 166.470
+  - ORS 166.715
+  - ORS 167.002
+  - ORS 167.007
+  - ORS 167.008
+  - ORS 167.108
+  - ORS 167.312
+  - ORS 167.388
+  - ORS 171.990
+  - ORS 174.060
+  - ORS 180.425
+  - ORS 180.440
+  - ORS 180.477
+  - ORS 180.486
+  - ORS 181A.355
+  - ORS 260.575
+  - ORS 260.665
+  - ORS 314.075
+  - ORS 329A.250
+  - ORS 329A.255
+  - ORS 339.250
+  - ORS 339.285
+  - ORS 339.288
+  - ORS 339.291
+  - ORS 339.303
+  - ORS 341.005
+  - ORS 352.002
+  - ORS 352.121
+  - ORS 40.030
+  - ORS 40.210
+  - ORS 410.600
+  - ORS 411.630
+  - ORS 411.675
+  - ORS 411.690
+  - ORS 411.840
+  - ORS 411.990
+  - ORS 418.205
+  - ORS 418.257
+  - ORS 418.351
+  - ORS 419A.004
+  - ORS 419B.005
+  - ORS 419B.020
+  - ORS 419C.411
+  - ORS 430.215
+  - ORS 462.140
+  - ORS 462.415
+  - ORS 462.420
+  - ORS 463.015
+  - ORS 463.995
+  - ORS 471.305
+  - ORS 471.360
+  - ORS 471.392
+  - ORS 475.005
+  - ORS 475C.005
+  - ORS 475C.009
+  - ORS 480.070
+  - ORS 480.210
+  - ORS 480.215
+  - ORS 480.235
+  - ORS 480.265
+  - ORS 59.005
+  - ORS 609.500
+  - ORS 647.140
+  - ORS 647.145
+  - ORS 658.452
+  - ORS 676.810
+  - ORS 676.815
+  - ORS 819.010
+  - ORS 819.040
+  - ORS 82.010
+  - ORS 822.100
+  - ORS 822.135
+  - ORS 822.150
+  - ORS 86A.095
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 386
+prefix_meaning: Senate Bill
+catch_line: Creates the crime of patronizing a trafficked child.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act creates the new crime of patronizing a trafficked child. (Flesch Readability\
+  \ Score: 80.3). \n\tCreates the crime of patronizing a trafficked child. Punishes by a maximum of 10\
+  \ years' imprisonment, $250,000 fine, or both, if the victim is a child under 18 years of age. Punishes\
+  \ by a maximum of five years' imprisonment, $125,000 fine, or both, if the conviction is based on a\
+  \ law enforcement officer posing as a child under 18 years of age. Directs the Oregon Criminal Justice\
+  \ Commission to classify the offense as a person felony in specified crime categories. \n\tExcludes\
+  \ certain evidence of past behavior of an alleged victim or witness in a prosecution for patronizing\
+  \ a trafficked child. \n\tAuthorizes an ex parte order for the interception of communications when probable\
+  \ cause for patronizing a trafficked child exists. \n\tAdds the crime of patronizing a trafficked child\
+  \ to the definition of \"sex crime\" for purposes of sex offender reporting. \n\tAdds the crime of patronizing\
+  \ a trafficked child to the list of crimes constituting racketeering activity. \n\tAdds allowing a child\
+  \ to patronize a trafficked child to the definition of child abuse. \n\tRepeals the crime of purchasing\
+  \ sex with a minor."
+relating_to: Relating to the crime of patronizing a trafficked child.
+relating_to_full: Relating to the crime of patronizing a trafficked child; creating new provisions; amending
+  ORS 40.210, 133.724, 161.005, 163A.005, 166.715 and 419B.005; and repealing ORS 163.413.
+at_the_request_of: null
+lc_number: 862
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-01-23T09:46:03'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 47112
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 109.056
+  - ORS 131.505
+  - ORS 133.724
+  - ORS 147.600
+  - ORS 161.005
+  - ORS 161.290
+  - ORS 161.515
+  - ORS 162.015
+  - ORS 162.025
+  - ORS 162.065
+  - ORS 162.117
+  - ORS 162.235
+  - ORS 162.265
+  - ORS 162.405
+  - ORS 162.455
+  - ORS 163.095
+  - ORS 163.160
+  - ORS 163.225
+  - ORS 163.235
+  - ORS 163.263
+  - ORS 163.264
+  - ORS 163.266
+  - ORS 163.275
+  - ORS 163.355
+  - ORS 163.413
+  - ORS 163.537
+  - ORS 163.665
+  - ORS 163.670
+  - ORS 163.701
+  - ORS 163.730
+  - ORS 163.760
+  - ORS 163A.005
+  - ORS 163A.025
+  - ORS 164.015
+  - ORS 164.043
+  - ORS 164.045
+  - ORS 164.055
+  - ORS 164.057
+  - ORS 164.075
+  - ORS 164.170
+  - ORS 164.315
+  - ORS 164.345
+  - ORS 164.377
+  - ORS 164.395
+  - ORS 164.865
+  - ORS 164.868
+  - ORS 164.875
+  - ORS 164.886
+  - ORS 164.889
+  - ORS 165.007
+  - ORS 165.074
+  - ORS 165.080
+  - ORS 165.540
+  - ORS 165.555
+  - ORS 165.692
+  - ORS 165.800
+  - ORS 166.015
+  - ORS 166.087
+  - ORS 166.155
+  - ORS 166.165
+  - ORS 166.180
+  - ORS 166.190
+  - ORS 166.220
+  - ORS 166.250
+  - ORS 166.270
+  - ORS 166.275
+  - ORS 166.382
+  - ORS 166.384
+  - ORS 166.410
+  - ORS 166.450
+  - ORS 166.470
+  - ORS 166.715
+  - ORS 167.002
+  - ORS 167.007
+  - ORS 167.008
+  - ORS 167.108
+  - ORS 167.312
+  - ORS 167.388
+  - ORS 171.990
+  - ORS 174.060
+  - ORS 180.425
+  - ORS 180.440
+  - ORS 180.477
+  - ORS 180.486
+  - ORS 181A.355
+  - ORS 260.575
+  - ORS 260.665
+  - ORS 314.075
+  - ORS 329A.250
+  - ORS 329A.255
+  - ORS 339.250
+  - ORS 339.285
+  - ORS 339.288
+  - ORS 339.291
+  - ORS 339.303
+  - ORS 341.005
+  - ORS 352.002
+  - ORS 352.121
+  - ORS 40.030
+  - ORS 40.210
+  - ORS 410.600
+  - ORS 411.630
+  - ORS 411.675
+  - ORS 411.690
+  - ORS 411.840
+  - ORS 411.990
+  - ORS 418.205
+  - ORS 418.257
+  - ORS 418.351
+  - ORS 419A.004
+  - ORS 419B.005
+  - ORS 419B.020
+  - ORS 419C.411
+  - ORS 430.215
+  - ORS 462.140
+  - ORS 462.415
+  - ORS 462.420
+  - ORS 463.015
+  - ORS 463.995
+  - ORS 471.305
+  - ORS 471.360
+  - ORS 471.392
+  - ORS 475.005
+  - ORS 475C.005
+  - ORS 475C.009
+  - ORS 480.070
+  - ORS 480.210
+  - ORS 480.215
+  - ORS 480.235
+  - ORS 480.265
+  - ORS 59.005
+  - ORS 609.500
+  - ORS 647.140
+  - ORS 647.145
+  - ORS 658.452
+  - ORS 676.810
+  - ORS 676.815
+  - ORS 819.010
+  - ORS 819.040
+  - ORS 82.010
+  - ORS 822.100
+  - ORS 822.135
+  - ORS 822.150
+  - ORS 86A.095
+  from_relating_to_full:
+  - ORS 133.724
+  - ORS 161.005
+  - ORS 163.413
+  - ORS 163A.005
+  - ORS 166.715
+  - ORS 40.210
+  - ORS 419B.005
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 386`.
+
+# SB 386 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 386, 2025 Regular Session (2025R1)
+- **LC number:** 862
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-01-23T09:46:03
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 47112 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB386/Introduced>.
+
+## Summary
+
+**Catchline:** Creates the crime of patronizing a trafficked child.
+
+**Relating to:** Relating to the crime of patronizing a trafficked child.
+
+Digest: The Act creates the new crime of patronizing a trafficked child. (Flesch Readability Score: 80.3). 
+ Creates the crime of patronizing a trafficked child. Punishes by a maximum of 10 years' imprisonment, $250,000 fine, or both, if the victim is a child under 18 years of age. Punishes by a maximum of five years' imprisonment, $125,000 fine, or both, if the conviction is based on a law enforcement officer posing as a child under 18 years of age. Directs the Oregon Criminal Justice Commission to classify the offense as a person felony in specified crime categories. 
+ Excludes certain evidence of past behavior of an alleged victim or witness in a prosecution for patronizing a trafficked child. 
+ Authorizes an ex parte order for the interception of communications when probable cause for patronizing a trafficked child exists. 
+ Adds the crime of patronizing a trafficked child to the definition of "sex crime" for purposes of sex offender reporting. 
+ Adds the crime of patronizing a trafficked child to the list of crimes constituting racketeering activity. 
+ Adds allowing a child to patronize a trafficked child to the definition of child abuse. 
+ Repeals the crime of purchasing sex with a minor.
+
+**RelatingToFull (verbatim upstream field):** Relating to the crime of patronizing a trafficked child; creating new provisions; amending ORS 40.210, 133.724, 161.005, 163A.005, 166.715 and 419B.005; and repealing ORS 163.413.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Senate Bill 386
+Sponsored by Senator THATCHER, Representatives LEVY B, WRIGHT; Senators BONHAM, WEBER,  Represen-
+tatives DIEHL, RESCHKE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates the new  crime of patronizing a trafficked child. (Flesch Readability
+Score: 80.3).
+Creates the crime of patronizing a trafficked child. Punishes by a maximum of 10 years’
+imprisonment, $250,000 fine, or both, if the victim is a child under 18 years of  age. Punishes by a
+maximum of five years’ imprisonment, $125,000 fine, or both, if  the conviction is based on a law
+enforcement officer posing as a child under 18  years of age. Directs the Oregon Criminal Justice
+Commission to classify the offense as a person felony in specified crime categories.
+Excludes certain evidence of past behavior of an alleged victim or witness  in a prosecution for
+patronizing a trafficked child.
+Authorizes an ex parte order for the interception of communications when probable cause for
+patronizing a trafficked child exists.
+Adds the crime of patronizing a trafficked child to the definition of “sex crime” for purposes  of
+sex offender reporting.
+Adds the crime of patronizing a trafficked child to the  list of crimes constituting racketeering
+activity.
+Adds allowing a child to patronize a trafficked child to the definition of child abuse.
+Repeals the crime of purchasing sex with a minor.
+A BILL FOR AN ACT
+Relating to the crime of patronizing  a trafficked child; creating new provisions; amending ORS
+40.210, 133.724, 161.005, 163A.005, 166.715 and 419B.005; and repealing ORS 163.413.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) A person commits  the crime of patronizing a trafficked child if the per-
+son engages in, or offers or agrees to engage in, a commercial sex act with:
+(a) A child under 18 years of age; or
+(b) A law enforcement officer who is posing as a child under 18 years of age.
+(2) In any prosecution of a crime described in subsection (1)(a) of this section:
+(a) The state is not required to prove that the defendant  knew the child was under 18
+years of age.
+(b) It is not a defense that  the defendant did not know the child’s age or that the de-
+fendant reasonably believed the child to be 18 years of age or older.
+(3)(a) Patronizing a trafficked child as described in subsection  (1)(a) of this section is a
+Class B felony.
+(b) Patronizing a trafficked child as described in subsection  (1)(b) of this section is a
+Class C felony.
+(4) As used in this section:
+(a) “Commercial sex act” has the meaning given that term in ORS 163.266.
+(b) “Law enforcement officer” has the meaning given that term in ORS 163.730.
+SECTION 2.
+(1) The Oregon Criminal Justice Commission shall consider patronizing a
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 862
+trafficked child under section 1 of this 2025 Act to  be a person felony and classify the crime:
+(a) As a crime category  9 of the sentencing guidelines grid for an offense described in
+section 1 (1)(a) of this 2025 Act.
+(b) As a crime category 7 of the sentencing guidelines grid for  an offense described in
+section 1 (1)(b) of this 2025 Act.
+(2) When a court sentences a person  convicted of patronizing a trafficked child, in de-
+termining the person’s criminal  history under the sentencing guidelines of the commission,
+the court shall count every two prior convictions for prostitution under ORS 167.007  or
+commercial sexual solicitation under ORS 167.008, in any combination, as one person felony.
+SECTION 3.
+ ORS 40.210 is amended to read:
+40.210. (1) Notwithstanding any other provision of law, in a prosecution for a  crime described
+in ORS 163.266 (1), 163.355 to  163.427, 163.670 or 167.017  or section 1 of this 2025 Act , in a pros-
+ecution for an  attempt to commit one of those crimes or in a proceeding conducted under ORS
+163.760 to 163.777, the following evidence is not admissible:
+(a) Reputation or opinion evidence of  the past sexual behavior of an alleged victim or a cor-
+roborating witness; or
+(b) Reputation or opinion evidence presented for the purpose of showing that  the manner of
+dress of an alleged victim  incited the crime or, in a proceeding under ORS 163.760 to 163.777, incited
+the sexual abuse, or indicated consent to the sexual acts that are alleged.
+(2) Notwithstanding any other provision of  law, in a prosecution for a crime or an attempt to
+commit a crime listed in subsection (1) of this section or in a proceeding conducted  under ORS
+163.760 to 163.777, evidence of an alleged victim’s past  sexual behavior other than reputation or
+opinion evidence is also not admissible, unless  the evidence other than reputation or opinion evi-
+dence:
+(a) Is admitted in accordance with subsection (4) of this section; and
+(b) Is evidence that:
+(A) Relates to the motive or bias of the alleged victim;
+(B) Is necessary to rebut or explain scientific or medical evidence offered by the state; or
+(C) Is otherwise constitutionally required to be admitted.
+(3) Notwithstanding any other provision of  law, in a prosecution for a crime or an attempt to
+commit a crime listed in subsection (1) of this section or in a proceeding conducted  under ORS
+163.760 to 163.777, evidence, other than reputation or opinion evidence, of the manner of dress  of
+the alleged victim or  a corroborating witness, presented by a person accused of committing the
+crime or, in a proceeding conducted under ORS 163.760 to 163.777, by the respondent, is  also not
+admissible, unless the evidence:
+(a) Is admitted in accordance with subsection (4) of this section; and
+(b) Is evidence that:
+(A) Relates to the motive or bias of the alleged victim;
+(B) Is necessary to rebut or explain scientific, medical or  testimonial evidence offered by the
+state;
+(C) Is necessary to establish the identity of the alleged victim; or
+(D) Is otherwise constitutionally required to be admitted.
+(4)(a) If the person accused of a crime or an attempt to commit  a crime listed in subsection (1)
+of this section, or the respondent in a proceeding conducted under  ORS 163.760 to 163.777, intends
+to offer evidence under subsection (2) or (3) of this section, the accused or the respondent shall make
+a written motion to offer the evidence not later than 15  days before the date on which the trial in
+which the evidence is to be offered is scheduled to begin, except that  the court may allow the mo-
+tion to be made at a later date, including during trial, if  the court determines either that the evi-
+dence is newly discovered and  could not have been obtained earlier through the exercise of due
+diligence or that the issue to which the evidence  relates has newly arisen in the case. Any motion
+made under this paragraph shall be served on all other parties and, in a criminal proceeding, on  the
+alleged victim through the office of the prosecutor.
+(b) The motion described in paragraph (a)  of this subsection shall be accompanied by a written
+offer of proof. If the court determines that the offer of proof contains evidence described in sub-
+section (2) or (3) of this section, the court shall order a hearing in camera to  determine if the evi-
+dence is admissible. At the hearing the  parties may call witnesses, including the alleged victim, and
+offer relevant evidence. Notwithstanding ORS 40.030 (2), if the relevancy of the evidence that  the
+accused or the respondent seeks to offer in the trial depends upon the  fulfillment of a condition of
+fact, the court, at the hearing in camera or at a subsequent hearing in  camera scheduled for the
+same purpose, shall accept evidence on the issue of whether the  condition of fact is fulfilled and
+shall determine the issue.
+(c) If the court determines on the basis of the hearing described in paragraph (b) of  this sub-
+section that the evidence  the accused or the respondent seeks to offer is relevant and that the
+probative value of the evidence outweighs the danger  of unfair prejudice, the evidence shall be ad-
+missible in the trial to the extent an order made by the court specifies evidence that may be offered
+and areas with respect to which a witness may be examined or cross-examined.
+(d) An order admitting  evidence under this subsection in a criminal prosecution may be appealed
+by the state before trial.
+(5) For purposes of this section:
+(a) “Alleged victim” includes the petitioner in  a proceeding conducted under ORS 163.760 to
+163.777.
+(b) “In camera” means out of the presence of the public and the jury.
+(c) “Past sexual behavior” means sexual behavior other than:
+(A) The sexual behavior with respect to which the crime or attempt to commit the  crime listed
+in subsection (1) of this section is alleged; or
+(B) In a proceeding conducted under ORS 163.760 to 163.777, the alleged sexual abuse.
+(d) “Trial” includes a hearing conducted under ORS 163.760 to 163.777.
+SECTION 4.
+ ORS 133.724 is amended to read:
+133.724. (1) An ex parte  order for the interception of wire, electronic or oral communications
+may be issued by any circuit court judge upon written application made upon oath or affirmation
+of the individual who  is the district attorney or a deputy district attorney authorized by the district
+attorney for the county in which the order is sought. The application shall include:
+(a) The name of the district  attorney or the deputy district attorney making the application and
+the authority of the district attorney or the deputy district attorney to make the application;
+(b) The identity of the investigative or law enforcement officer making the application  and the
+officer authorizing the application;
+(c) A statement demonstrating that there is probable cause to believe that an individual  is
+committing, has committed or is about to commit:
+(A) A  particular felony of murder, kidnapping, arson, robbery, bribery, extortion or other crime
+dangerous to life and punishable as a felony;
+(B) A crime punishable as a felony under ORS 163.266 (1)(b) or (c), [ 163.413,] 166.720, 167.012,
+167.017, 475.752, 475.806 to 475.894 or 475.904 to 475.910  or section 1 of  this 2025 Act  or as a
+misdemeanor under ORS 167.007 or 167.008; or
+(C) Any conspiracy to commit any of the foregoing crimes;
+(d) A statement of the details, if known, of the particular crime alleged under  paragraph (c) of
+this subsection;
+(e) A particular description of the nature and location of the  facilities from which or the place
+where the wire, electronic or oral communication is to be intercepted, if known;
+(f) A particular description of the  type of wire, electronic or oral communication sought to be
+intercepted;
+(g) The identity of the person, if known, suspected  of committing the crime and whose wire,
+electronic or oral communications are to be intercepted;
+(h) A full and complete statement as to whether or  not other investigative procedures have been
+tried and failed or why other investigative procedures reasonably appear  to be unlikely to succeed
+if tried or are likely to be too dangerous;
+(i) A statement of the period of time for which the interception is required to be  maintained. If
+the nature of the investigation is such that the authorization  for interception should not automat-
+ically terminate when the described type of wire, electronic or oral communication has been  first
+obtained, a description of facts establishing probable cause  to believe that additional communi-
+cations of the same type will occur thereafter;
+(j) A statement as to whether any prior application has been made to intercept  wire, electronic
+or oral communications from  the same person and, if such prior application exists, a statement of
+the current status of that application; and
+(k) Where the application  is for the extension of an existing order, a statement setting forth the
+results thus far obtained  from the interception, or a reasonable explanation of the failure to obtain
+such results.
+(2) The judge may require the applicant  to furnish further testimony or documentary evidence
+in support of the application.
+(3) Upon examination of such application and evidence the judge may enter an ex parte  order,
+as requested or as modified, authorizing or approving interception  of wire, electronic or oral com-
+munications within the state if the judge determines on the basis of the facts submitted by  the ap-
+plicant that:
+(a) There is probable cause for  belief that an individual is committing, has committed or is about
+to commit a particular crime described in subsection (1)(c) of this section;
+(b) There  is probable cause for belief that particular communications concerning that crime will
+be obtained through such interception;
+(c) Normal investigative procedures have been tried and have failed or reasonably  appear to be
+unlikely to succeed if tried or are likely to be too dangerous; and
+(d) There is probable cause  for belief that the facilities from which, or the place where, the wire,
+electronic or oral communications to be  intercepted are being used, or are about to be used, in
+connection with the planning or the commission of that  crime are open to the public or are owned
+by, leased to, listed in the name of, or commonly used by the individual suspected.
+(4) Each order authorizing or  approving the interception of any wire, electronic or oral com-
+munication shall specify:
+(a) The identity of the person, if known, whose communications are to be intercepted;
+(b) The nature and location of  the communications facilities as to which, or the place where,
+authority to intercept is granted;
+(c) A particular description of the type of communication sought to be intercepted, and a state-
+ment of the particular crime to which it relates;
+(d) The identity of the agency authorized to intercept the  communications and of the person
+authorizing the application;
+(e) The period of time during which such interception  is authorized, including a statement as to
+whether or  not the interception shall automatically terminate when the described communication
+has been first obtained; and
+(f) The name of the applicant, date of issuance, and the signature and title of  the issuing judge.
+(5) An order entered pursuant to this  section may not authorize or approve the interception of
+any wire,  electronic or oral communication for any period longer than is necessary to achieve the
+objective of authorization and in no event for longer than 30 days. Extensions of any  order may be
+granted, but only when application for an extension is made in accordance with subsection  (1)(k) of
+this section and the court makes the findings required  by subsection (3) of this section. The period
+of extension shall be no longer than  the authorizing judge deems necessary to achieve the purpose
+for which it is granted and in no event for longer than 30  days. Every order and extension of that
+order shall contain a provision that the authorization to intercept must be executed as  soon as
+practicable, must be conducted in such a way as to minimize  the interception of communications not
+otherwise subject to  interception, and must terminate upon attainment of the authorized objective,
+or in any event in 30 days.
+(6) Whenever an order authorizing interception is entered pursuant to this section,  the order
+may require reports to be made to the judge who issued the order showing what progress has  been
+made toward achievement of the authorized objective and the  need for continued interception. Such
+reports shall be made at such intervals as the judge may require.
+SECTION 5.
+ ORS 163A.005, as amended  by section 1, chapter 63, Oregon Laws 2024, is amended
+to read:
+163A.005. As used in ORS 163A.005 to 163A.235:
+(1) “Another United States court” means  a federal court, a military court, the tribal court of a
+federally recognized Indian tribe or a court of:
+(a) A state other than Oregon;
+(b) The District of Columbia;
+(c) The Commonwealth of Puerto Rico;
+(d) Guam;
+(e) American Samoa;
+(f) The Commonwealth of the Northern Mariana Islands; or
+(g) The United States Virgin Islands.
+(2) “Attends” means is enrolled on a full-time or part-time basis.
+(3)(a) “Correctional facility” means any place used for the confinement of persons:
+(A) Charged with or convicted of a crime or otherwise confined under a court order.
+(B) Found to be within the jurisdiction of the juvenile court  for having committed an act that
+if committed by an adult would constitute a crime.
+(b) “Correctional facility” applies  to a state hospital or a secure intensive community inpatient
+facility only as to  persons detained therein charged with or convicted of a crime, or detained therein
+after being found guilty except for  insanity under ORS 161.290 to 161.373 or responsible except for
+insanity under ORS 419C.411.
+(4) “Institution of higher education” means a  public or private educational institution that pro-
+vides a program of post-secondary education.
+(5) “Sex crime” means:
+(a) Rape in any degree;
+(b) Sodomy in any degree;
+(c) Unlawful sexual penetration in any degree;
+(d) Sexual abuse in any degree;
+(e) Incest with a child victim;
+(f) Using a child in a display of sexually explicit conduct;
+(g) Encouraging child sexual abuse in any degree;
+(h) Transporting child pornography into the state;
+(i) Paying for viewing a child’s sexually explicit conduct;
+(j) Compelling prostitution;
+(k) Promoting prostitution;
+(L) Kidnapping in the first degree if the victim was under 18 years of age;
+(m) Contributing to the sexual delinquency of a minor;
+(n) Sexual misconduct if the offender is at least 18 years of age;
+(o) Possession of materials depicting sexually explicit conduct of a child in the first degree;
+(p) Kidnapping in the second degree  if the victim was under 18 years of age, except by a parent
+or by a person found to be within the jurisdiction of the juvenile court;
+(q) Online sexual corruption of a  child in any degree if the offender reasonably believed the
+child to be more than five years younger than the offender;
+(r) Luring a minor, if:
+(A) The offender reasonably believed the minor or, in the  case of a police officer or agent of a
+police officer posing as a minor, the purported minor to be more than five years younger than the
+offender or under 16 years of age; and
+(B) The court designates in the judgment that the offense is a sex crime;
+(s) Sexual assault of an animal;
+(t) Public indecency or private indecency, if  the person has a prior conviction for a crime listed
+in this subsection;
+(u) Trafficking in persons as described in ORS 163.266 (1)(b) or (c);
+(v) [ Purchasing sex with a minor if the court  designates the offense as a sex crime pursuant to
+ORS 163.413 (3)(d), or the offense is the defendant’s second or  subsequent conviction under ORS
+163.413 (3)(b)(B)] Patronizing a trafficked child ;
+(w) Invasion of personal privacy in the first degree, if the court designates the offense as a sex
+crime pursuant to ORS 163.701 (3);
+(x) Sexual abuse by fraudulent representation;
+(y) Abuse of a corpse in the first degree as described in ORS 166.087 (1)(a);
+(z) Any attempt to commit any of the crimes listed in paragraphs (a) to (y) of this subsection;
+(aa) Burglary, when committed with intent to commit any of the offenses listed in paragraphs
+(a) to (y) of this subsection; or
+(bb) Criminal conspiracy if the offender agrees with one or more persons to engage in or cause
+the performance of an offense listed in paragraphs (a) to (y) of this subsection.
+(6) “Sex offender” means a person who:
+(a) Has been convicted of a sex crime;
+(b) Has been found guilty except for insanity of a sex crime;
+(c) Has been convicted in another United States court of a crime:
+(A) That would constitute a sex crime if committed in this state; or
+(B) For which the person would have  to register as a sex offender in that court’s jurisdiction,
+or as required under federal law, regardless of whether the crime would  constitute a sex crime in
+this state; or
+(d) Is described in ORS 163A.025 (1).
+(7) “Works”  or “carries on a vocation” means full-time or part-time employment for more than
+14 days within one calendar year whether financially compensated, volunteered or  for the purpose
+of governmental or educational benefit.
+SECTION 6.
+ ORS 166.715 is amended to read:
+166.715. As used in ORS 166.715 to 166.735, unless the context requires otherwise:
+(1) “Documentary material” means  any book, paper, document, writing, drawing, graph, chart,
+photograph,  phonograph  record, magnetic tape, computer printout, other data compilation from
+which information can be  obtained or from which information can be translated into usable form,
+or other tangible item.
+(2) “Enterprise” includes any individual,  sole proprietorship, partnership, corporation, business
+trust or other profit or nonprofit legal entity, and includes  any union, association or group of indi-
+viduals associated in fact although not a legal entity, and both  illicit and licit enterprises and gov-
+ernmental and nongovernmental entities.
+(3) “Investigative agency” means the Department of Justice or any district attorney.
+(4) “Pattern of racketeering activity” means engaging in at least two incidents  of racketeering
+activity that have the same or similar intents, results, accomplices,  victims or methods of commis-
+sion or otherwise are interrelated by distinguishing  characteristics, including a nexus to the same
+enterprise, and are not isolated incidents, provided  at least one of such incidents occurred after
+November 1, 1981, and that the last of such incidents occurred within  five years after a prior inci-
+dent of racketeering activity. Notwithstanding ORS 131.505 to 131.525  or 419A.190 or any other
+provision of law providing that a previous prosecution is a bar to a  subsequent prosecution, conduct
+that constitutes an  incident of racketeering activity may be used to establish a pattern of
+racketeering activity without regard to whether the conduct previously has been the  subject of a
+criminal prosecution or conviction or  a juvenile court adjudication, unless the prosecution resulted
+in an acquittal or the adjudication resulted in entry of an order  finding the youth not to be within
+the jurisdiction of the juvenile court.
+(5) “Person” means any individual or entity capable of holding a legal or beneficial interest  in
+real or personal property.
+(6) “Racketeering activity” includes  conduct of a person committed both before and after the
+person attains the age of 18 years, and means  to commit, to attempt to commit, to conspire to
+commit, or to solicit, coerce or intimidate another person to commit:
+(a) Any conduct that constitutes a crime, as defined in ORS 161.515, under any of  the following
+provisions of the Oregon Revised Statutes:
+(A) ORS 59.005 to 59.505, 59.710 to 59.830, 59.991 and 59.995, relating to securities;
+(B) ORS 162.015, 162.025 and 162.065 to 162.085, relating to bribery and perjury;
+(C) ORS  162.235, 162.265 to 162.305, 162.325, 162.335, 162.355 and 162.365, relating to obstructing
+governmental  administration;
+(D) ORS 162.405 to 162.425, relating to abuse of public office;
+(E) ORS 162.455, relating to interference with legislative operation;
+(F) ORS 163.095 to 163.115, 163.118, 163.125 and 163.145, relating to criminal homicide;
+(G) ORS 163.160 to 163.205, relating to assault and related offenses;
+(H) ORS 163.225 and 163.235, relating to kidnapping;
+(I) ORS 163.275, relating to coercion;
+(J) ORS 163.665 to 163.693, relating to sexual conduct of children;
+(K) ORS 164.015,  164.043, 164.045, 164.055, 164.057, 164.075 to 164.095, 164.098, 164.125, 164.135,
+164.140, 164.215, 164.225 and 164.245 to 164.270, relating  to theft, burglary, criminal trespass and
+related offenses;
+(L) ORS 164.315 to 164.335, relating to arson and related offenses;
+(M) ORS 164.345 to 164.365, relating to criminal mischief;
+(N) ORS 164.395 to 164.415, relating to robbery;
+(O) ORS 164.865, 164.875 and 164.868 to 164.872,  relating to unlawful recording or labeling of a
+recording;
+(P) ORS 165.007 to  165.022, 165.032 to 165.042 and 165.055 to 165.070, relating to forgery and
+related offenses;
+(Q) ORS 165.080 to 165.109, relating to business and commercial offenses;
+(R) ORS 165.540 and 165.555, relating to communication crimes;
+(S) ORS 166.180, 166.190, 166.220, 166.250, 166.270, 166.275, 166.410, 166.450 and 166.470, relating
+to firearms and other weapons;
+(T) ORS 164.377  (2) to (4), as punishable under ORS 164.377 (5)(b), 167.007 to 167.017, 167.057,
+167.062 to 167.080, 167.090, 167.122 to 167.137, 167.147, 167.164, 167.167, 167.212,  167.355, 167.365,
+167.370, 167.428, 167.431 and  167.439, relating to prostitution, obscenity, sexual conduct, gambling,
+computer crimes involving the Oregon State Lottery,  animal fighting, forcible recovery of a fighting
+bird and related offenses;
+(U) ORS 171.990, relating to legislative witnesses;
+(V) ORS 260.575 and 260.665, relating to election offenses;
+(W) ORS 314.075, relating to income tax;
+(X) ORS 180.440 (2) and 180.486 (2) and  ORS chapter 323, relating to cigarette and tobacco
+products taxes and the directories developed under ORS 180.425 and 180.477;
+(Y) ORS 411.630, 411.675, 411.690 and 411.840, relating  to public assistance payments or medical
+assistance benefits, and ORS 411.990 (2) and (3);
+(Z) ORS 462.140, 462.415 and 462.420 to 462.520, relating to racing;
+(AA) ORS 463.995,  relating to entertainment wrestling and unarmed combat sports, as defined
+in ORS 463.015;
+(BB) ORS 471.305, 471.360, 471.392 to 471.400, 471.403,  471.404, 471.405, 471.425, 471.442, 471.445,
+471.446, 471.485, 471.490 and 471.675, relating to  alcoholic liquor, and any of the provisions of ORS
+chapter 471 relating to licenses issued under the Liquor Control Act;
+(CC) ORS 475C.005 to 475C.525, relating to marijuana items as defined in ORS 475C.009;
+(DD) ORS 475.005 to 475.285 and 475.752 to 475.980, relating to controlled substances;
+(EE) ORS 480.070, 480.210, 480.215, 480.235 and 480.265, relating to explosives;
+(FF) ORS 819.010, 819.040, 822.100, 822.135 and 822.150, relating to motor vehicles;
+(GG) ORS 658.452 or 658.991 (2) to (4), relating to labor contractors;
+(HH) ORS chapter 706, relating to banking law administration;
+(II) ORS chapter 714, relating to branch banking;
+(JJ) ORS chapter 716, relating to mutual savings banks;
+(KK) ORS chapter 723, relating to credit unions;
+(LL) ORS chapter 726, relating to pawnbrokers;
+(MM) ORS 166.382 and 166.384, relating to destructive devices;
+(NN) ORS 165.074;
+(OO) ORS 86A.095 to 86A.198, relating to mortgage bankers and mortgage brokers;
+(PP) ORS chapter 496, 497 or 498, relating to wildlife;
+(QQ) ORS 163.355 to 163.427, relating to sexual offenses;
+(RR) ORS 166.015, relating to riot;
+(SS) ORS 166.155 and 166.165, relating to bias crimes;
+(TT) ORS chapter 696, relating to real estate and escrow;
+(UU) ORS chapter 704, relating to outfitters and guides;
+(VV) ORS 165.692, relating to making a false claim for health care payment;
+(WW) ORS 162.117, relating to public investment fraud;
+(XX) ORS 164.170 or 164.172;
+(YY) ORS 647.140, 647.145 or 647.150, relating to trademark counterfeiting;
+(ZZ) ORS 164.886;
+(AAA) ORS 167.312 and 167.388;
+(BBB) ORS 164.889;
+(CCC) ORS 165.800; or
+(DDD) ORS 163.263, 163.264 or 163.266  or section 1 of this 2025 Act .
+(b) Any conduct defined as “racketeering activity” under 18 U.S.C. 1961 (1)(B), (C), (D) and (E).
+(7) “Unlawful debt” means any money or other  thing of value constituting principal or interest
+of a debt that is legally  unenforceable in the state in whole or in part because the debt was incurred
+or contracted:
+(a) In violation of any one of the following:
+(A) ORS chapter 462, relating to racing;
+(B) ORS 167.108 to 167.164, relating to gambling; or
+(C) ORS 82.010 to 82.170, relating to interest and usury.
+(b) In gambling activity in  violation of federal law or in the business of lending money at a rate
+usurious under federal or state law.
+(8) Notwithstanding contrary provisions  in ORS 174.060, when this section references a statute
+in the Oregon Revised Statutes that  is substantially different in the nature of its essential provisions
+from what the statute was when this section was  enacted, the reference shall extend to and include
+amendments to the statute.
+SECTION 7.
+ ORS  419B.005, as amended by section 64, chapter 73, Oregon Laws 2024, is
+amended to read:
+419B.005. As used in ORS 419B.005 to 419B.050, unless the context requires otherwise:
+(1)(a) “Abuse” means:
+(A) Any assault, as defined  in ORS chapter 163, of a child and any physical injury to a child that
+has been caused by other than accidental means,  including any injury that appears to be at variance
+with the explanation given of the injury.
+(B) Any mental injury to a child, which shall include only cruel or unconscionable acts or
+statements made, or  threatened to be made, to a child if the acts, statements or threats result in
+severe harm to the child’s psychological, cognitive, emotional or social well-being and functioning.
+(C) Rape of a child,  which includes but is not limited to rape, sodomy, unlawful sexual pene-
+tration and incest, as those acts are described in ORS chapter 163.
+(D) Sexual abuse, as described in ORS chapter 163.
+(E) Sexual exploitation, including but not limited to:
+(i) Contributing to the sexual delinquency of a minor,  as defined in ORS chapter 163, and any
+other conduct that allows, employs, authorizes, permits, induces or encourages a child to engage  in
+the performing for people to observe or the photographing, filming, tape recording or other  exhibi-
+tion that, in whole or in part, depicts sexual conduct or contact, as  defined in ORS 167.002 or de-
+scribed in ORS  163.665 and 163.670, sexual abuse involving a child or rape of a child, but not
+including any conduct that is part of  any investigation conducted pursuant to ORS 419B.020 or that
+is designed to serve educational or other legitimate purposes; and
+(ii) Allowing, permitting, encouraging or hiring a  child to engage in prostitution as described in
+ORS 167.007 or a commercial sex act as defined in ORS 163.266, [ to purchase sex with  a minor as
+described in ORS 163.413 or ] to engage in commercial sexual solicitation as described  in ORS
+167.008 or to patronize a trafficked child as described in section 1 of this 2025 Act .
+(F) Negligent treatment or maltreatment of a child, including but not limited to  the failure to
+provide adequate food, clothing, shelter or medical care  that is likely to endanger the health or
+welfare of the child.
+(G) Threatened harm to a child, which means subjecting a child to a substantial risk  of harm
+to the child’s health or welfare.
+(H) Buying or selling a person under 18 years of age as described in ORS 163.537.
+(I) Permitting a person under 18 years of age to enter or remain in or upon premises where
+methamphetamines are being manufactured.
+(J) Unlawful exposure to a controlled substance, as defined in ORS 475.005, or to the  unlawful
+manufacturing of a cannabinoid extract, as defined in ORS 475C.009, that subjects a child  to a sub-
+stantial risk of harm to the child’s health or safety.
+(K) The restraint  or seclusion of a child in violation of ORS 339.285, 339.288, 339.291, 339.303
+or 339.308.
+(L) The infliction of corporal punishment on a child in violation of ORS 339.250 (9).
+(b) “Abuse” does not include reasonable discipline unless the discipline results  in one of the
+conditions described in paragraph (a) of this subsection.
+(2) “Child” means an unmarried person who:
+(a) Is under 18 years of age; or
+(b) Is a child in care, as defined in ORS 418.257.
+(3) “Higher education institution” means:
+(a) A community college as defined in ORS 341.005;
+(b) A public university listed in ORS 352.002;
+(c) The Oregon Health and Science University; and
+(d) A private institution of higher education located in Oregon.
+(4)(a) “Investigation” means a detailed inquiry into or assessment of  the safety of a child alleged
+to have experienced abuse.
+(b) “Investigation” does not include screening activities conducted upon the receipt  of a report.
+(5) “Law enforcement agency” means:
+(a) A city or municipal police department.
+(b) A county sheriff’s office.
+(c) The Oregon State Police.
+(d) A police department established by a university under ORS 352.121 or 353.125.
+(e) A county juvenile department.
+(6) “Public or private official” means:
+(a) Physician or  physician associate licensed under ORS chapter 677 or naturopathic physician,
+including any intern or resident.
+(b) Dentist.
+(c) School employee, including an employee of a higher education institution.
+(d) Licensed practical  nurse, registered nurse, nurse practitioner, nurse’s aide, home health aide
+or employee of an in-home health service.
+(e) Employee of the  Department of Human Services, Oregon Health Authority, Department of
+Early Learning and Care, Department of Education, Youth Development Division,  the Oregon Youth
+Authority, a local  health department, a community mental health program, a community develop-
+mental disabilities program, a county juvenile department, a child-caring agency as that term is  de-
+fined in ORS 418.205 or an alcohol and drug treatment program.
+(f) Peace officer.
+(g) Psychologist.
+(h) Member of the clergy.
+(i) Regulated social worker.
+(j) Optometrist.
+(k) Chiropractor.
+(L) Certified provider of foster care, or an employee thereof.
+(m) Attorney.
+(n) Licensed professional counselor.
+(o) Licensed marriage and family therapist.
+(p) Firefighter or emergency medical services provider.
+(q) Court appointed special advocate, as defined in ORS 419A.004.
+(r) Child care provider registered or certified under ORS 329A.250 to 329A.450.
+(s) Elected official of a branch of government of  this state or a state agency, board, commission
+or department of a branch of government of this state or of  a city, county or other political subdi-
+vision in this state.
+(t) Physical, speech or occupational therapist.
+(u) Audiologist.
+(v) Speech-language pathologist.
+(w) Employee of the Teacher Standards  and Practices Commission directly involved in investi-
+gations or discipline by the commission.
+(x) Pharmacist.
+(y) Operator of a preschool recorded program under ORS 329A.255.
+(z) Operator of a school-age recorded program under ORS 329A.255.
+(aa) Employee of a private agency or organization  facilitating the provision of respite services,
+as defined in ORS 418.205, for parents pursuant  to a properly executed power of attorney under ORS
+109.056.
+(bb) Employee of a public or private organization providing child-related services or activities:
+(A) Including but not limited to an employee of a:
+(i) Youth group or center;
+(ii) Scout group or camp;
+(iii) Summer or day camp;
+(iv) Survival camp; or
+(v) Group, center or camp that is operated under the guidance, supervision or  auspices of a re-
+ligious, public or private educational system or a community service organization; and
+(B) Excluding an employee of a qualified victim services program as defined in  ORS 147.600 that
+provides confidential, direct services to victims of domestic violence, sexual assault, stalking or hu-
+man trafficking.
+(cc) Coach, assistant coach or  trainer of an amateur, semiprofessional or professional athlete,
+if compensated and if the athlete is a child.
+(dd) Personal support worker, as defined in ORS 410.600.
+(ee) Home care worker, as defined in ORS 410.600.
+(ff) Animal control officer, as defined in ORS 609.500.
+(gg) Member of a school district board, an education service district board or a  public charter
+school governing body.
+(hh) Individual who is paid by a public body, in accordance with ORS 430.215, to provide a ser-
+vice identified in an individualized service plan of a child with a developmental disability.
+(ii) Referral agent, as defined in ORS 418.351.
+(jj) Parole and probation officer, as defined in ORS 181A.355.
+(kk) Behavior analyst or  assistant behavior analyst licensed under ORS 676.810 or behavior
+analysis interventionist registered by the Health Licensing Office under ORS 676.815.
+SECTION 8.
+ ORS 419B.005, as amended  by section 6, chapter 581, Oregon Laws 2023, and sec-
+tion 65, chapter 73, Oregon Laws 2024, is amended to read:
+419B.005. As used in ORS 419B.005 to 419B.050, unless the context requires otherwise:
+(1)(a) “Abuse” means:
+(A) Any assault, as defined  in ORS chapter 163, of a child and any physical injury to a child that
+has been caused by other than accidental means,  including any injury that appears to be at variance
+with the explanation given of the injury.
+(B) Any mental injury to a child, which shall include only cruel or unconscionable acts or
+statements made, or  threatened to be made, to a child if the acts, statements or threats result in
+severe harm to the child’s psychological, cognitive, emotional or social well-being and functioning.
+(C) Rape of a child,  which includes but is not limited to rape, sodomy, unlawful sexual pene-
+tration and incest, as those acts are described in ORS chapter 163.
+(D) Sexual abuse, as described in ORS chapter 163.
+(E) Sexual exploitation, including but not limited to:
+(i) Contributing to the sexual delinquency of a minor,  as defined in ORS chapter 163, and any
+other conduct that allows, employs, authorizes, permits, induces or encourages a child to engage  in
+the performing for people to observe or the photographing, filming, tape recording or other  exhibi-
+tion that, in whole or in part, depicts sexual conduct or contact, as  defined in ORS 167.002 or de-
+scribed in ORS  163.665 and 163.670, sexual abuse involving a child or rape of a child, but not
+including any conduct that is part of  any investigation conducted pursuant to ORS 419B.020 or that
+is designed to serve educational or other legitimate purposes; and
+(ii) Allowing, permitting, encouraging or hiring a  child to engage in prostitution as described in
+ORS 167.007 or a  commercial sex act as defined in ORS 163.266, [ to purchase sex with a minor as
+described in ORS  163.413 or ] to engage in commercial sexual solicitation as described in ORS
+167.008 or to patronize a trafficked child as described in section 1 of this 2025 Act .
+(F) Negligent treatment or  maltreatment of a child, including but not limited to the failure to
+provide adequate food, clothing, shelter or medical care that  is likely to endanger the health or
+welfare of the child.
+(G) Threatened harm  to a child, which means subjecting a child to a substantial risk of harm
+to the child’s health or welfare.
+(H) Buying or selling a person under 18 years of age as described in ORS 163.537.
+(I) Permitting a person under 18 years of age to enter or remain in or upon premises where
+methamphetamines are being manufactured.
+(J) Unlawful  exposure to a controlled substance, as defined in ORS 475.005, or to the unlawful
+manufacturing of a cannabinoid  extract, as defined in ORS 475C.009, that subjects a child to a sub-
+stantial risk of harm to the child’s health or safety.
+(K) The infliction of corporal punishment on a child in violation of ORS 339.250 (9).
+(b) “Abuse” does not include  reasonable discipline unless the discipline results in one of the
+conditions described in paragraph (a) of this subsection.
+(2) “Child” means an unmarried person who:
+(a) Is under 18 years of age; or
+(b) Is a child in care, as defined in ORS 418.257.
+(3) “Higher education institution” means:
+(a) A community college as defined in ORS 341.005;
+(b) A public university listed in ORS 352.002;
+(c) The Oregon Health and Science University; and
+(d) A private institution of higher education located in Oregon.
+(4)(a) “Investigation” means a detailed inquiry into or assessment of  the safety of a child alleged
+to have experienced abuse.
+(b) “Investigation” does not include screening activities conducted upon the receipt  of a report.
+(5) “Law enforcement agency” means:
+(a) A city or municipal police department.
+(b) A county sheriff’s office.
+(c) The Oregon State Police.
+(d) A police department established by a university under ORS 352.121 or 353.125.
+(e) A county juvenile department.
+(6) “Public or private official” means:
+(a) Physician or physician associate licensed under ORS chapter 677 or  naturopathic physician,
+including any intern or resident.
+(b) Dentist.
+(c) School employee, including an employee of a higher education institution.
+(d) Licensed practical  nurse, registered nurse, nurse practitioner, nurse’s aide, home health aide
+or employee of an in-home health service.
+(e) Employee of the Department of Human Services, Oregon Health  Authority, Department of
+Early Learning and Care, Department of Education, Youth Development Division,  the Oregon Youth
+Authority, a local health department, a community mental health program, a  community develop-
+mental disabilities  program, a county juvenile department, a child-caring agency as that term is de-
+fined in ORS 418.205 or an alcohol and drug treatment program.
+(f) Peace officer.
+(g) Psychologist.
+(h) Member of the clergy.
+(i) Regulated social worker.
+(j) Optometrist.
+(k) Chiropractor.
+(L) Certified provider of foster care, or an employee thereof.
+(m) Attorney.
+(n) Licensed professional counselor.
+(o) Licensed marriage and family therapist.
+(p) Firefighter or emergency medical services provider.
+(q) Court appointed special advocate, as defined in ORS 419A.004.
+(r) Child care provider registered or certified under ORS 329A.250 to 329A.450.
+(s) Elected official of a branch of government of  this state or a state agency, board, commission
+or department of a branch of government of this state or of  a city, county or other political subdi-
+vision in this state.
+(t) Physical, speech or occupational therapist.
+(u) Audiologist.
+(v) Speech-language pathologist.
+(w) Employee of the Teacher Standards  and Practices Commission directly involved in investi-
+gations or discipline by the commission.
+(x) Pharmacist.
+(y) Operator of a preschool recorded program under ORS 329A.255.
+(z) Operator of a school-age recorded program under ORS 329A.255.
+(aa) Employee of a private agency or organization  facilitating the provision of respite services,
+as defined in ORS 418.205, for parents pursuant  to a properly executed power of attorney under ORS
+109.056.
+(bb) Employee of a public or private organization providing child-related services or activities:
+(A) Including but not limited to an employee of a:
+(i) Youth group or center;
+(ii) Scout group or camp;
+(iii) Summer or day camp;
+(iv) Survival camp; or
+(v) Group, center or camp that is operated under the guidance, supervision or  auspices of a re-
+ligious, public or private educational system or a community service organization; and
+(B) Excluding an employee of a qualified victim services program as defined in  ORS 147.600 that
+provides confidential, direct services to victims of domestic violence, sexual assault, stalking or hu-
+man trafficking.
+(cc) Coach, assistant coach or  trainer of an amateur, semiprofessional or professional athlete,
+if compensated and if the athlete is a child.
+(dd) Personal support worker, as defined in ORS 410.600.
+(ee) Home care worker, as defined in ORS 410.600.
+(ff) Animal control officer, as defined in ORS 609.500.
+(gg) Member of  a school district board, an education service district board or a public charter
+school governing body.
+(hh) Individual who is paid by a public body, in accordance with ORS 430.215, to provide a ser-
+vice identified in an individualized service plan of a child with a developmental disability.
+(ii) Referral agent, as defined in ORS 418.351.
+(jj) Parole and probation officer, as defined in ORS 181A.355.
+(kk) Behavior analyst or assistant behavior analyst licensed under ORS  676.810 or behavior
+analysis interventionist registered by the Health Licensing Office under ORS 676.815.
+SECTION 9.
+ ORS 161.005 is amended to read:
+161.005. ORS 161.005 to 161.055,  161.065, 161.085 to 161.125, 161.150 to 161.175, 161.190 to
+161.275, 161.290 to 161.373, 161.405 to 161.485, 161.505 to 161.585, 161.605, 161.615 to 161.685, 161.705
+to 161.737, 162.005, 162.015 to 162.035,  162.055 to 162.115, 162.135 to 162.205, 162.225 to 162.375,
+162.405 to 162.425, 162.465,  163.005, 163.095, 163.107, 163.115, 163.125 to 163.145, 163.149, 163.160 to
+163.208, 163.191, 163.196, 163.215 to  163.257, 163.261, 163.263, 163.264, 163.266, 163.275, 163.285,
+163.305 to 163.467, 163.429,  163.432, 163.433, 163.472, 163.505 to 163.575, 163.665 to 163.693, 163.700,
+163.701, 163.715, 164.005, 164.015 to 164.135, 164.138, 164.140, 164.205 to 164.270,  164.305 to 164.377,
+164.395 to 164.415,  164.805, 164.857, 164.886, 165.002 to 165.102, 165.109, 165.118, 165.805, 165.815,
+166.005 to 166.095, 166.119, 166.125, 166.128, 166.350, 166.382, 166.384, 166.660, 167.002  to 167.027,
+167.057, 167.060 to 167.100, 167.117, 167.122 to 167.162, 167.203 to 167.252,  167.310 to 167.340, 167.350,
+167.810 and 167.820  and section 1 of this  2025 Act  shall be known and may be cited as Oregon
+Criminal Code of 1971.
+SECTION 10. ORS 163.413 is repealed.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 133.724, ORS 161.005, ORS 163.413, ORS 163A.005, ORS 166.715, ORS 40.210, ORS 419B.005
+- From bill text (Introduced version): ORS 109.056, ORS 131.505, ORS 133.724, ORS 147.600, ORS 161.005, ORS 161.290, ORS 161.515, ORS 162.015, ORS 162.025, ORS 162.065, ORS 162.117, ORS 162.235, ORS 162.265, ORS 162.405, ORS 162.455, ORS 163.095, ORS 163.160, ORS 163.225, ORS 163.235, ORS 163.263, ORS 163.264, ORS 163.266, ORS 163.275, ORS 163.355, ORS 163.413, ORS 163.537, ORS 163.665, ORS 163.670, ORS 163.701, ORS 163.730, ORS 163.760, ORS 163A.005, ORS 163A.025, ORS 164.015, ORS 164.043, ORS 164.045, ORS 164.055, ORS 164.057, ORS 164.075, ORS 164.170, ORS 164.315, ORS 164.345, ORS 164.377, ORS 164.395, ORS 164.865, ORS 164.868, ORS 164.875, ORS 164.886, ORS 164.889, ORS 165.007, ORS 165.074, ORS 165.080, ORS 165.540, ORS 165.555, ORS 165.692, ORS 165.800, ORS 166.015, ORS 166.087, ORS 166.155, ORS 166.165, ORS 166.180, ORS 166.190, ORS 166.220, ORS 166.250, ORS 166.270, ORS 166.275, ORS 166.382, ORS 166.384, ORS 166.410, ORS 166.450, ORS 166.470, ORS 166.715, ORS 167.002, ORS 167.007, ORS 167.008, ORS 167.108, ORS 167.312, ORS 167.388, ORS 171.990, ORS 174.060, ORS 180.425, ORS 180.440, ORS 180.477, ORS 180.486, ORS 181A.355, ORS 260.575, ORS 260.665, ORS 314.075, ORS 329A.250, ORS 329A.255, ORS 339.250, ORS 339.285, ORS 339.288, ORS 339.291, ORS 339.303, ORS 341.005, ORS 352.002, ORS 352.121, ORS 40.030, ORS 40.210, ORS 410.600, ORS 411.630, ORS 411.675, ORS 411.690, ORS 411.840, ORS 411.990, ORS 418.205, ORS 418.257, ORS 418.351, ORS 419A.004, ORS 419B.005, ORS 419B.020, ORS 419C.411, ORS 430.215, ORS 462.140, ORS 462.415, ORS 462.420, ORS 463.015, ORS 463.995, ORS 471.305, ORS 471.360, ORS 471.392, ORS 475.005, ORS 475C.005, ORS 475C.009, ORS 480.070, ORS 480.210, ORS 480.215, ORS 480.235, ORS 480.265, ORS 59.005, ORS 609.500, ORS 647.140, ORS 647.145, ORS 658.452, ORS 676.810, ORS 676.815, ORS 819.010, ORS 819.040, ORS 82.010, ORS 822.100, ORS 822.135, ORS 822.150, ORS 86A.095
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `c7d0cb527221cd174688c45f6b7dd39bbc150a772809f9d136b685b00d1532c3` (snapshot `_meta/snapshots/measure-2025r1-sb386-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB386/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 386` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

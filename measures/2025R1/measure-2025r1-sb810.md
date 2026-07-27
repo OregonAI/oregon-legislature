@@ -1,0 +1,798 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2025r1-sb810
+title: 'SB 810 (2025R1): Directs the Department of Human Services to collaborate with the Department of
+  Education to increase opportunities for individuals with intellectual or developmental disabilities
+  to obtain and advance in competitive integrated employment.'
+doc_type: dataset_doc
+citation: 2025 Regular Session Senate Bill 810
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB810/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: ec55b9cb12e33c5406428dd1ea7053fc215ec15d32e5e4ff543b787a69a64a69
+snapshot_id: measure-2025r1-sb810-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.109
+  - ORS 267.010
+  - ORS 267.510
+  - ORS 276.900
+  - ORS 305.842
+  - ORS 307.130
+  - ORS 307.162
+  - ORS 321.005
+  - ORS 329A.250
+  - ORS 332.427
+  - ORS 343.035
+  - ORS 344.511
+  - ORS 344.530
+  - ORS 344.710
+  - ORS 344.720
+  - ORS 344.730
+  - ORS 352.002
+  - ORS 427.005
+  - ORS 427.007
+  - ORS 427.101
+  - ORS 427.330
+  - ORS 427.335
+  - ORS 430.620
+  - ORS 451.010
+  - ORS 685.010
+  - ORS 748.414
+  - ORS 801.260
+  - ORS 825.017
+  - ORS 825.022
+  - ORS 825.026
+  - ORS 825.030
+  - ORS 93.270
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2025r1
+- sb
+session_key: 2025R1
+measure_prefix: SB
+measure_number: 810
+prefix_meaning: Senate Bill
+catch_line: Directs the Department of Human Services to collaborate with the Department of Education to
+  increase opportunities for individuals with intellectual or developmental disabilities to obtain and
+  advance in competitive integrated employment.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act tells ODHS and ODE to make certain changes to implement a policy of\
+  \ employment first. (Flesch Readability Score: 65.1). \n\tDirects the Department of Human Services to\
+  \ collaborate with the Department of Education to increase opportunities for individuals with intellectual\
+  \ or developmental disabilities to obtain and advance in competitive integrated employment. \n\tRequires\
+  \ the Department of Human Services to ensure that employment services and vocational rehabilitation\
+  \ services for individuals with intellectual or developmental disabilities do not occur in sheltered\
+  \ work settings. \n\tRequires the Department of Education to ensure that transition services for students\
+  \ with intellectual or developmental disabilities do not occur in sheltered or mock sheltered work settings.\
+  \ \n\tTakes effect on the 91st day following adjournment sine die."
+relating_to: Relating to developmental disabilities services; and prescribing an effective date.
+relating_to_full: Relating to developmental disabilities services; and prescribing an effective date.
+at_the_request_of: (at the request of Governor Tina Kotek for Department of Human Services)
+lc_number: 320
+measure_created_date: '2024-12-31T13:18:07'
+measure_modified_date: '2025-06-06T16:11:08'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 45644
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.109
+  - ORS 267.010
+  - ORS 267.510
+  - ORS 276.900
+  - ORS 305.842
+  - ORS 307.130
+  - ORS 307.162
+  - ORS 321.005
+  - ORS 329A.250
+  - ORS 332.427
+  - ORS 343.035
+  - ORS 344.511
+  - ORS 344.530
+  - ORS 344.710
+  - ORS 344.720
+  - ORS 344.730
+  - ORS 352.002
+  - ORS 427.005
+  - ORS 427.007
+  - ORS 427.101
+  - ORS 427.330
+  - ORS 427.335
+  - ORS 430.620
+  - ORS 451.010
+  - ORS 685.010
+  - ORS 748.414
+  - ORS 801.260
+  - ORS 825.017
+  - ORS 825.022
+  - ORS 825.026
+  - ORS 825.030
+  - ORS 93.270
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 810`.
+
+# SB 810 — 2025 Regular Session (2025R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 810, 2025 Regular Session (2025R1)
+- **At the request of:** (at the request of Governor Tina Kotek for Department of Human Services)
+- **LC number:** 320
+- **Created:** 2024-12-31T13:18:07
+- **Metadata last modified (upstream):** 2025-06-06T16:11:08
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 45644 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB810/Enrolled>.
+
+## Summary
+
+**Catchline:** Directs the Department of Human Services to collaborate with the Department of Education to increase opportunities for individuals with intellectual or developmental disabilities to obtain and advance in competitive integrated employment.
+
+**Relating to:** Relating to developmental disabilities services; and prescribing an effective date.
+
+Digest: The Act tells ODHS and ODE to make certain changes to implement a policy of employment first. (Flesch Readability Score: 65.1). 
+ Directs the Department of Human Services to collaborate with the Department of Education to increase opportunities for individuals with intellectual or developmental disabilities to obtain and advance in competitive integrated employment. 
+ Requires the Department of Human Services to ensure that employment services and vocational rehabilitation services for individuals with intellectual or developmental disabilities do not occur in sheltered work settings. 
+ Requires the Department of Education to ensure that transition services for students with intellectual or developmental disabilities do not occur in sheltered or mock sheltered work settings. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to developmental disabilities services; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+Enrolled
+Senate Bill 810
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at the request of Governor Tina Kotek for Department of Human Services)
+CHAPTER .................................................
+AN ACT
+Relating to developmental disabilities services; creating new provisions; amending ORS 307.130,
+344.511, 344.530, 344.710, 344.720, 344.730, 427.005, 427.007,  427.330, 427.335 and 825.017; and
+prescribing an effective date.
+Whereas Oregon is an Employment First state, meaning it  is the policy of the state that com-
+petitive integrated employment is the first  and priority option when supporting an individual with
+intellectual or developmental disabilities; and
+Whereas all employment and vocational rehabilitation services for individuals  with intellectual
+or developmental disabilities are  designed to support the outcome of competitive integrated em-
+ployment and career advancement; and
+Whereas everyone can  work and advance in competitive integrated employment with the right
+supports and job match; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 427.005 is amended to read:
+427.005. As used in this chapter:
+(1) “Adaptive behavior” means the effectiveness or  degree with which an individual meets the
+standards of personal independence and social responsibility expected for age and cultural group.
+(2) “Care” means:
+(a) Supportive services, including, but not limited to, provision of room and board;
+(b) Supervision;
+(c) Protection; and
+(d) Assistance in bathing, dressing, grooming, eating, management of money, transportation  or
+recreation.
+(3) “Community developmental disabilities program director” means the director of a  community
+developmental disabilities program described in ORS 430.620 (1)(a) or (c).
+(4) “Competitive integrated employment” has the meaning given that term in 29 U.S.C.
+705.
+[(4)] (5) “Developmental disability” means autism, cerebral palsy, epilepsy or  other condition
+diagnosed by a qualified professional that:
+(a) Originates before an individual is 22 years of age and is expected to continue indefinitely;
+(b) Results in a significant impairment in adaptive behavior as measured by a  qualified profes-
+sional;
+Enrolled Senate Bill 810 (SB 810-INTRO) Page 1
+(c) Is not  attributed primarily to other conditions including, but not limited to, a mental or
+emotional disorder, sensory impairment, substance abuse, personality disorder, learning disability
+or attention deficit hyperactivity disorder; and
+(d) Requires supports similar to those required by an individual with an intellectual disability.
+[(5)] (6) “Director  of the facility” means the person in charge of care, treatment and training
+programs at a facility.
+[(6)] (7) “Facility” means a group  home, activity center, community mental health clinic or other
+facility or program that the Department of Human Services approves  to provide necessary services
+to persons with intellectual [ disabilities or other ] or developmental disabilities.
+[(7)] (8) “Incapacitated” means a person is unable, without assistance,  to properly manage or
+take care of personal affairs, including but not limited to  financial and medical decision-making, or
+is incapable, without assistance, of self-care.
+[(8)] (9) “Independence” means  the  extent to which persons  with intellectual [ disabilities or
+other] or developmental disabilities exert control and choice over their own lives.
+[(9)] (10) “Integration” means:
+(a) Use by  persons with intellectual [ disabilities or other ] or  developmental disabilities of the
+same community resources that are used by and available to other persons;
+(b) Participation  by persons with intellectual [ disabilities or other ] or developmental disabilities
+in the same community activities in which persons  without disabilities participate, together with
+regular contact with persons without disabilities; and
+(c) Residence by persons with intellectual [ disabilities or other ] or developmental disabilities in
+homes or in home-like settings that are in proximity to community resources, together  with regular
+contact with persons without disabilities in their community.
+[(10)(a)] (11)(a) “Intellectual  disability” means an intelligence quotient of 70 or below as meas-
+ured by  a qualified professional and existing concurrently with significant impairment in adaptive
+behavior, that is manifested before the individual is 18 years of age.
+(b) An individual with intelligence quotients of 71 through 75 may be considered to have an  in-
+tellectual disability if there is also significant impairment in  adaptive behavior, as diagnosed and
+measured by a qualified professional.
+(c) The impairment in adaptive behavior must be directly related to the intellectual disability.
+[(11)] (12) “Minor” means an unmarried person under 18 years of age.
+[(12)] (13) “Naturopathic physician” has the meaning given the term in ORS 685.010.
+[(13)] (14) “Physician” means a person licensed by the Oregon  Medical Board to practice medi-
+cine and surgery.
+[(14) “Productivity” means regular engagement in income-producing work, preferably competitive
+employment with supports and accommodations to the  extent necessary, by a person with an intellectual
+disability or another developmental disability  which is measured through improvements in income level,
+employment status or job advancement or engagement by a person with an intellectual  disability or
+another developmental disability in work contributing to a household or community. ]
+(15) “Service coordination” means  person-centered planning, case management, procuring, coor-
+dinating and monitoring of services under an individualized support  plan to establish desired out-
+comes, determine needs and identify  resources for a person with  intellectual or  developmental
+disabilities and advocating for the person.
+(16) “Training” means:
+(a) The systematic, planned maintenance, development or enhancement of self-care,  social or
+independent living skills; or
+(b) The planned sequence of systematic interactions,  activities, structured learning situations
+or education designed to meet each person’s specified needs in the  areas of physical, emotional, in-
+tellectual and social growth.
+(17) “Treatment” means the provision of specific physical, mental,  social interventions and
+therapies that halt, control  or reverse processes that cause, aggravate or complicate malfunctions
+or dysfunctions.
+Enrolled Senate Bill 810 (SB 810-INTRO) Page 2
+SECTION 2. Section 3 of this 2025 Act is added to and made a part of ORS chapter 427.
+SECTION 3. (1)(a) The Department of Human Services, in collaboration with the De-
+partment of Education,  shall appoint a statewide employment first advisory committee to
+advise the  Department of Human Services on strategies for increasing opportunities for in-
+dividuals with intellectual or developmental disabilities to obtain and advance in  competitive
+integrated employment.
+(b) The members of the advisory committee shall include:
+(A) Individuals with intellectual or developmental disabilities;
+(B) Disability policy advisors who have  lived experience with accessing the disability
+service delivery system;
+(C) Representatives of the division  of the department that provides developmental disa-
+bilities services;
+(D) Representatives of the division of the department that provides vocational rehabili-
+tation services;
+(E) Representatives of the Department of Education;
+(F) Representatives of employment services providers and provider associations; and
+(G) Representatives of organizations that provide case management services to individ-
+uals with intellectual or developmental disabilities.
+(c) The members of the advisory committee may also include representatives of:
+(A) School districts and education service districts;
+(B) Regional family support networks;
+(C) The nine federally recognized Indian tribes in Oregon;
+(D) The Oregon Council on Developmental Disabilities;
+(E) Oregon’s federally mandated disability protection and advocacy agency;
+(F) Oregon’s federally authorized university centers for excellence  in developmental dis-
+abilities;
+(G) The Oregon Disabilities Commission;
+(H) The State Independent Living Council;
+(I) The Commission for the Blind;
+(J) County behavioral health departments;
+(K) The division of the Department of  Human Services that provides aging and persons
+with disabilities services;
+(L) The State  Workforce and Talent Development Board and local workforce development
+boards; and
+(M) Other statewide entities providing employment  services to individuals with intellec-
+tual or developmental disabilities.
+(d) The advisory committee shall meet at least quarterly.
+(e) At least annually, the advisory committee shall meet to:
+(A) Review employment outcome data  for individuals with intellectual or developmental
+disabilities and make recommendations  for the development and implementation of a state-
+wide employment first strategic plan; and
+(B) Make policy and budget recommendations to the office of the Governor and  state
+agencies regarding employment outcomes for individuals with intellectual or  developmental
+disabilities and regarding state and local workforce plans.
+(f) The advisory committee may appoint subcommittees as needed.
+(2) At least annually,  the department, in collaboration with the Department of Education,
+shall collect  employment outcome data for individuals with intellectual or developmental
+disabilities and report the data  to the advisory committee appointed under this section. The
+data shall include, at a minimum:
+(a) The number of adults and transition-age individuals, as  defined by rule by the De-
+partment of  Human Services, with intellectual or developmental disabilities who are receiv-
+ing services from the division  of the department that provides developmental disabilities
+Enrolled Senate Bill 810 (SB 810-INTRO) Page 3
+services or from the division of the department that  provides vocational rehabilitation ser-
+vices and who are working in competitive integrated employment; and
+(b) The number of employment service provider agencies that  are qualified to deliver
+employment services through both the  division of the department that provides develop-
+mental disabilities services and  the division of the department that provides vocational re-
+habilitation services.
+(3) The department, in collaboration  with the Department of Education, shall establish
+regional employment first  committees to develop and implement local strategies for in-
+creasing capacity for and removing barriers  to supporting individuals with intellectual or
+developmental disabilities in obtaining and advancing in competitive integrated employment.
+Each regional employment  first committee shall report to the advisory committee estab-
+lished under this section regarding the development and implementation of local strategies.
+The Department of Human Services and the Department of  Education shall, subject to
+available funding, maintain designated staff specialists for regional interagency coordination
+work.
+(4) The Department of Human Services and the Department of Education  shall appoint
+regional and statewide representatives to meet at  least quarterly to coordinate employment
+services and discuss best practices for supporting youth with intellectual or  developmental
+disabilities to obtain and advance in competitive integrated employment.
+(5) The Department of Human Services  shall appoint at least one employment first
+statewide coordinator to facilitate administration of the interagency work to meet the re-
+quirements of this section.
+(6) Subject to available funding, the department  shall ensure that training and technical
+assistance is available to ensure that there are sufficient qualified providers to provide em-
+ployment services as defined in ORS 427.101 and vocational rehabilitation  services as defined
+in ORS 344.511 to eligible individuals with intellectual or developmental disabilities.
+(7) The Department of Human Services and the Department of Education shall ensure
+that transition planning for individuals with  intellectual or developmental disabilities in-
+cludes opportunities to receive employment services in the community.
+(8) The Department of Human Services shall enter into an interagency  agreement with
+the Department of Education for the purposes of:
+(a) Coordinating services;
+(b) Increasing collaboration between the departments to improve  employment outcomes
+for individuals with intellectual or developmental disabilities; and
+(c) Coordinating outreach  efforts to individuals with intellectual or developmental disa-
+bilities.
+(9) The Department of Human Services and the Department  of Education may adopt
+rules to carry out the provisions of this section.
+SECTION 4.
+(1) The Department of Human Services shall ensure that employment ser-
+vices, as defined in ORS 427.101, provided to individuals with intellectual or developmental
+disabilities are designed to help the individuals  obtain competitive integrated employment,
+as defined in ORS 427.005.
+(2) The department may  not fund employment services that occur in a sheltered work
+setting, as that term is defined by rule by the department.
+SECTION 5.
+(1) The Department of Human Services shall ensure  that vocational reha-
+bilitation services, as defined  in ORS 344.511, provided to individuals with intellectual or de-
+velopmental disabilities are designed to help the individuals obtain  competitive integrated
+employment, as defined in ORS 427.005.
+(2) The department may not fund vocational rehabilitation services that occur  in a shel-
+tered work setting, as that term is defined by rule by the department.
+SECTION 6. The Department of  Education shall ensure that transition services, as de-
+fined in ORS 343.035, provided to students with intellectual or developmental disabilities do
+Enrolled Senate Bill 810 (SB 810-INTRO) Page 4
+not occur in a sheltered work setting or  a mock sheltered work setting, as those terms are
+defined by rule by the department.
+SECTION 7.  ORS 344.511 is amended to read:
+344.511. As used in ORS 344.511 to 344.690 and 344.710 to 344.730:
+(1) “Department” means the Department of Human Services.
+(2) “Director” means the Director of Human Services.
+(3) “Individual with a disability” means  an individual who has a substantial occupational hand-
+icap due to a physical or mental condition except blindness.
+[(4) “Individual with a severe disability” means an individual with a disability  who, because of the
+nature of disabilities, is not able to participate fully in competitive employment, and for  whom special-
+ized employment opportunities must be provided. ]
+(4) “Individual with a significant  disability” has the meaning given that term in 29 U.S.C.
+705.
+(5) “Maintenance” means money payments,  during vocational rehabilitation, to individuals with
+occupational handicaps found to require financial assistance with respect thereto in order  to
+effectuate the vocational rehabilitation of such individuals.
+(6) “Occupational  handicap” means a physical or mental condition other than blindness which,
+regardless of its origin, constitutes, contributes to, or,  if not corrected, will probably result in, an
+obstruction to occupational performance or the condition of being an untrained individual.
+(7) “Occupational  licenses” means any license, permit or other written authority required by any
+governmental unit to be obtained in order to engage in any occupation.
+(8) “Occupational tools, equipment and supplies” means such  customary implements, appliances,
+apparatus, fixtures and materials as are necessary  for the successful prosecution of the employment
+objective of an individual with an occupational handicap.
+(9) “Physical restoration” means any medical,  surgical or therapeutic treatment necessary to
+correct or substantially modify an individual’s occupational  handicap within a reasonable length of
+time. The term includes but is not limited to medical, psychiatric, dental and surgical treatment,
+nursing services,  hospital and convalescent home care, medical and surgical drugs and supplies, and
+prosthetic appliances, excluding curative treatment for acute or transitory conditions.
+(10) “Prosthetic appliance” means any artificial appliance designed  to support or take the place
+of a part of the body or to increase the acuity of a sense organ.
+(11) “Rehabilitation training” means all training provided, directly or through public  or private
+instrumentalities, to  an individual to compensate for the occupational handicap of the individual.
+The term  includes but is not limited to manual, preconditioning, prevocational, vocational, voca-
+tional rehabilitation and supplementary  training and training provided for the purpose of achieving
+broader and more remunerative skills and capacities.
+(12) “Untrained individual” means any person without mental  or physical disability who has a
+substantial occupational handicap due to lack of occupational training, experience, skills or other
+factors and who is receiving and, in the opinion of the  Department of Human Services, probably will
+continue to receive public assistance because of the occupational handicap of the individual.
+(13) “Vocational rehabilitation” and “vocational rehabilitation  services” mean any services
+necessary to enable  an individual with an occupational handicap to engage in a remunerative oc-
+cupation and include, but are not  limited to, medical and vocational diagnoses, vocational guidance,
+counseling and placement, rehabilitation training, physical restoration,  transportation, occupational
+licenses, occupational tools, equipment and supplies,  maintenance and training books, supplies and
+materials.
+(14) “Vocational rehabilitation training” means skill training in which the  basis and focus of the
+training are individualized or customized. “Vocational rehabilitation training” may  include a focus
+on disability-related issues as those issues impact the skill training.
+(15) “Vocational training” means occupational or skill training.
+SECTION 8.
+ ORS 344.530 is amended to read:
+Enrolled Senate Bill 810 (SB 810-INTRO) Page 5
+344.530. Notwithstanding any other provisions of the law, the Department  of Human Services
+shall perform the following vocational rehabilitation functions:
+(1) Establish and enforce such rules as may be necessary to:
+(a) Carry out ORS 344.511 to 344.690 and 344.710 to 344.730; and
+(b) Safeguard the confidential character of vocational rehabilitation information and records.
+(2) Cooperate with public and private departments, agencies and institutions in:
+(a) Providing for the vocational rehabilitation of individuals with occupational handicaps;
+(b) Studying the problems involved therein; and
+(c) Establishing, developing and  providing, in conformity with ORS 344.511 to 344.690 and
+344.710 to 344.730, such programs, facilities and services as may be necessary.
+(3) Enter  into reciprocal agreements with other states relative to the provision of vocational
+rehabilitation to residents of the states concerned.
+(4) Conduct research and compile  statistics relating to the vocational rehabilitation of individ-
+uals with occupational handicaps.
+(5) Encourage  and assist individuals with [ severe] significant  disabilities in the establishment,
+maintenance and conduct of appropriate home industries  within their capacities and in the pro-
+motion of the sale and distribution of the products of such home  industries. All funds collected or
+received from such  activities shall be deposited in a permanent special fund in the State Treasury
+and shall be used for the operation of such home industries as determined by the department.
+(6) For rehabilitation [ facilities] programs :
+(a) Establish, conduct and  maintain [ facilities] programs necessary for the [ sheltered] employ-
+ment of individuals with [ severe] significant disabilities;
+(b) Pay the individuals employed in the [ facilities] programs suitable wages;
+(c) Devise means for the sale and distribution of the products of the [ facilities] programs ;
+(d) Devise a subsidy program, and include  a plan for its funding in each biennial budget sub-
+mitted to the Legislative Assembly; and
+(e) Take such other action as may be necessary to ensure the successful operation of the [ fa-
+cilities] rehabilitation programs established.
+(7) Deposit in the State Vocational Rehabilitation Account  all funds collected or received from
+activities described in subsection (6) of this section, which  shall be used for the operation of [ facil-
+ities] rehabilitation programs necessary for the [ sheltered] employment of individuals with [ severe]
+significant disabilities as determined by the department.
+(8) Take such other action as may be necessary to carry out ORS 344.511 to 344.690  and 344.710
+to 344.730.
+SECTION 9.
+ ORS 344.710 is amended to read:
+344.710. As used in ORS  344.720 and 344.730, [ “rehabilitation facility” ] “rehabilitation
+program”  means a nonprofit [ sheltered or ], community-based  service established and operated by a
+public or private organization to provide two or more of the following services for  individuals with
+disabilities:
+(1) Vocational assessment.
+(2) Community integration.
+(3) Training.
+(4) Employment.
+SECTION 10.
+ ORS 344.720 is amended to read:
+344.720. (1)  Upon approval of the rehabilitation [ facility] program  and within the limits of
+available funds, the Department of Human Services may make grants to assist  rehabilitation [ facili-
+ties] programs .
+(2) Applications for grants under subsection (1) of this section shall  be made in the manner and
+form and contain the information required by the department.
+(3) The approval of the department required by subsection (1) of this  section shall be based on
+reasonable and satisfactory assurance of:
+Enrolled Senate Bill 810 (SB 810-INTRO) Page 6
+(a) Provision for vocational training and employment  experience to enable individuals with dis-
+abilities or [ severe] significant  disabilities to participate  in competitive employment when the
+physical condition of the individual warrants such employment; and
+(b) Compliance with the rules of the department  applicable to rehabilitation [ facilities]
+programs.
+SECTION 11.  ORS 427.007 is amended to read:
+427.007. (1)(a) Individuals with intellectual [ and other ] or  developmental disabilities and society
+as a  whole benefit when the individuals exercise choice and self-determination, living and working
+in the most integrated community settings appropriate to their needs, with supportive services that
+are designed and implemented consistent with the choice of the individuals regarding  services, pro-
+viders, goals and activities. Individuals  with intellectual or  developmental disabilities, together
+with their families and advocates, must play a  major role in the planning, designing, funding, oper-
+ation and monitoring of community services. These services should be ultimately focused on  the
+outcomes of independence, integration and [ productivity] community participation . All  services
+are designed to support the outcome  of competitive integrated employment and career ad-
+vancement.
+(b) The employment of individuals with intellectual or developmental  disabilities in fully inte-
+grated work settings is the highest priority over unemployment, segregated employment,  facility-
+based employment or day habilitation.
+(c) Support for families with children who  have intellectual or developmental disabilities must
+be based upon principles  of choice and self-determination, with families receiving the support they
+need to support  their children at home. If a child with [ a] an intellectual or  developmental disa-
+bility cannot remain safely at home even with supportive services, the child should live in  a
+family-like setting with the ability to remain closely connected to the child’s family.
+(d) Therefore,  the Department of Human Services is directed to facilitate, provide or contract
+for appropriate community-based services, including  family support, residential facilities, day pro-
+grams, home care and other necessary support, care and training programs, in an orderly and sys-
+tematic manner.
+(2) In carrying  out the directive in subsection (1) of this section, the department shall develop
+a biennial plan in conjunction with the budgeting process for review by each Legislative Assembly.
+In developing this plan, the department shall meet with and consider the  input of representatives
+from the following constituencies: Consumer organizations, parent-family organizations, advocacy
+organizations, unions representing personal support workers and adult foster home providers,  com-
+munity provider organizations, state and local education officials and  community developmental
+disabilities programs. Such plans shall include, where appropriate:
+(a) Proposals for the orderly development of community-based services, including  family support,
+residential facilities, day programs, home care and other necessary support, care and  training pro-
+grams, to accommodate persons eligible for and needing  developmental disability services and to
+serve persons already in the community waiting for services. The proposals shall include services
+for persons who are leaving the public  education system. Funding for these services shall be
+commensurate with individual need. These proposals may include provisions for an array of both
+publicly and privately operated services and shall  include specific implementation plans requiring
+that new services  developed are designed to significantly increase the independence[ , productivity ]
+and integration into the  community of persons with intellectual [ disabilities or other ] or develop-
+mental disabilities.
+(b) Proposals for  the location of community-based services for persons with intellectual [ disa-
+bilities or other ] or developmental disabilities in proximity to family,  friends, supportive services and
+home communities whenever possible.
+(3) In further carrying out the directive in subsection (1) of  this section, the department shall
+develop monitoring and evaluation systems that ensure competent  management, program quality and
+cost-effectiveness of community-based services. Such systems shall include, where appropriate:
+Enrolled Senate Bill 810 (SB 810-INTRO) Page 7
+(a) A comprehensive system of service coordination that ensures an orderly movement of  per-
+sons with intellectual [ disabilities or other ] or developmental disabilities between community-based
+service alternatives, and ensures an effective system  of service delivery to persons with intellectual
+[disabilities or other ] or developmental disabilities living in the community, based on individualized
+planning and close cooperation with consumers, families and guardians.
+(b) Specific standards for each component  within the array of services for persons with intel-
+lectual [ disabilities or other ] or developmental disabilities, either operated or supported by the de-
+partment, that ensure the competent management, program  quality and cost-effectiveness of such
+services.
+(4) Subject to available  funds, the department shall ensure that each family with a member with
+an intellectual [ disability or another ] or developmental disability has access to family support ser-
+vices, and that each person with an intellectual [ disability or another ] or developmental disability
+living in the community, including those leaving the public education system,  has access to
+community-based services necessary to enable the person to strive to  achieve independence, [ pro-
+ductivity and ] integration  and community participation . Specific services proposed for the person
+shall be identified in an individual support plan or in a family support service plan.
+(5) Subject to available funds,  the department shall determine the content of individual support
+plans and family support service plans, and the process whereby such plans are developed and  up-
+dated.
+SECTION 12.  ORS 307.130 is amended to read:
+307.130. (1) As used in this section:
+(a) “Art museum” means a nonprofit corporation organized to display works of  art to the public.
+(b) “Nonprofit corporation” means a corporation that:
+(A) Is organized not for profit, pursuant to  ORS chapter 65 or any predecessor of ORS chapter
+65; or
+(B) Is organized and operated as described under section 501(c) of the Internal Revenue Code
+as defined in ORS 305.842.
+(c) [ “Rehabilitation facility” ] “Rehabilitation program”  means a  [ facility] program defined in
+ORS 344.710 or a [ facility] program that provides individuals who have physical, mental or emo-
+tional disabilities with occupational rehabilitation activities of  an educational or therapeutic nature,
+even if remuneration is received by the individual.
+(d) “Volunteer fire department” means a nonprofit corporation  organized to provide fire pro-
+tection services in a specific response area.
+(e) “Welfare program” means a program to provide food, shelter, clothing  or health care, in-
+cluding dental service, to needy persons without charge.
+(2) Upon compliance with ORS 307.162, the following property  owned or being purchased by art
+museums, volunteer fire departments, or incorporated literary, benevolent,  charitable and scientific
+institutions shall be exempt from taxation:
+(a) Except as provided in ORS 748.414, only real or personal property, or a  proportion of the
+property, that is actually and exclusively occupied or used  in the literary, benevolent, charitable or
+scientific work carried on by such institutions.
+(b) Parking lots used for parking or any other use as long as that parking  or other use is per-
+mitted without charge for no fewer than 355 days during the tax year.
+(c) All real or personal property of a rehabilitation [ facility] program or any retail outlet of  the
+[facility] program, including inventory.
+(d) All real and personal property of a retail store dealing exclusively in donated inventory,  if
+the inventory is distributed without cost as part of a welfare program  or where the proceeds of the
+sale of any inventory sold to the general public are used to support a welfare program.
+(e) All real and personal property of a retail store if:
+(A) The retail store deals on a regular basis in inventory at least one-half  of which is donated
+and consigned;
+(B) The  individuals who operate the retail store are all individuals who work as volunteers; and
+Enrolled Senate Bill 810 (SB 810-INTRO) Page 8
+(C) The inventory is either distributed without  charge as part of a welfare program, or sold to
+the general public and the sales proceeds used exclusively to support a welfare program.
+(f) The real and personal property of an art museum  that is used in conjunction with the public
+display of works of art  or used to educate the public about art, but not including any portion of the
+art museum’s real or personal property that is used to sell, or hold out  for sale, works of art, re-
+productions of works of art or other items to be sold to the public.
+(g) All real and personal property of a volunteer fire department that is used in conjunction with
+services and activities for providing fire protection to all residents within a fire response area.
+(h) All real and personal property,  including inventory, of a retail store owned by a nonprofit
+corporation if:
+(A) The retail store deals exclusively in donated inventory; and
+(B) Proceeds of the retail store sales are used to support a not-for-profit housing  program whose
+purpose is to:
+(i) Acquire property and construct housing for resale to individuals  at or below the cost of ac-
+quisition and construction; and
+(ii) Provide loans bearing no interest to individuals purchasing housing through the program.
+(i) All real and personal property, including inventory, of a retail store owned  by a nonprofit
+corporation if:
+(A) The retail store deals exclusively in donated inventory;
+(B) The retail store operates with substantial support from volunteers; and
+(C) All net proceeds of the retail store sales are donated:
+(i) To a nonprofit corporation that provides animal rescue services;
+(ii) To a manufacturer or provider of goods  or services in return for which an entity described
+in sub-subparagraph (i) of this subparagraph receives an equivalent value of goods or services  from
+the manufacturer or provider;
+(iii) To  an entity that provides spaying and neutering services for pets of individuals residing
+in households with an annual household income at or below 80 percent  of the area median income;
+or
+(iv) For the  purpose of aiding domesticated animals, regardless of whether the animals are in
+the custody of the county shelter,  in furtherance of the purpose for which the nonprofit corporation
+was organized.
+(3) An  art museum or institution shall not be deprived of an exemption under this section solely
+because its primary source of funding is from one or more governmental entities.
+(4) An institution shall not be deprived  of an exemption under this section because its purpose
+or the use of its property is not limited to relieving pain, alleviating disease or removing constraints.
+SECTION 13.
+ ORS 344.730 is amended to read:
+344.730. All rehabilitation [ facilities] programs which receive state aid under the  provisions of
+ORS 344.710 to 344.730, on or before January 15, shall file with the Department of Human  Services
+a financial report on the preceding year in the form prescribed by the department.
+SECTION 14.  ORS 825.017 is amended to read:
+825.017. Except as provided in this section and ORS 825.026 and 825.030, this  chapter does not
+apply to the persons or vehicles described in this section. The exemption under this section  applies
+to the following persons and vehicles:
+(1) Vehicles being used by, or under contract with, any school board, district or person  respon-
+sible for the administration of  elementary or secondary school activities, and engaged exclusively
+in transporting students or combinations of students and other persons to or from school,  to or from
+authorized school activities  or other activities sponsored by the governing board of a public uni-
+versity listed in ORS 352.002, or for  purposes provided under ORS 332.427. This exemption shall not
+be affected by the charging of a fee to cover the costs of the transportation.
+(2) Vehicles being used in a taxicab operation if the vehicle:
+(a) Is a passenger vehicle with a passenger seating capacity that does not exceed five;
+Enrolled Senate Bill 810 (SB 810-INTRO) Page 9
+(b) Carries passengers for hire where the destination  and route traveled may be controlled by
+a passenger and the fare is calculated on the basis  of any combination of an initial fee, distance
+traveled or waiting time; and
+(c) Is transporting persons or property, or both, between points in Oregon.
+(3) Vehicles being  used for the transportation of property by private carrier by means of a single
+vehicle or combination of vehicles with a combined weight that does not exceed 8,000 pounds.
+(4) Vehicles being used in operating implements of husbandry.
+(5) Vehicles being used as a hearse or ambulance.
+(6) Vehicles being used over any private road or thoroughfare.
+(7) Vehicles being used on any road, thoroughfare or  property, other than a state highway,
+county road or city street, for  the removal of forest products as defined in ORS 321.005, or the
+product of forest products converted to a form other  than logs at or near the harvesting site, or
+when used for the construction or maintenance of the road,  thoroughfare or property, pursuant to
+a written agreement or permit authorizing the use, construction or maintenance of  the road,
+thoroughfare or property, with:
+(a) An agency of the United States;
+(b) The State Board of Forestry;
+(c) The State Forester; or
+(d) A licensee of an agency named in this subsection.
+(8) Vehicles being used on any county road for the removal of forest products as  defined in ORS
+321.005, or the products of forest  products converted to a form other than logs at or near the har-
+vesting site, if:
+(a) The use is  pursuant to a written agreement entered into with the State Board of Forestry,
+the State  Forester or an agency of the United States, authorizing the owner of the motor vehicle
+to use the road and requiring the owner to pay for or to perform  the construction or maintenance
+of the county road, including any operator of  a motor vehicle retained to transport logs, poles and
+piling for the owners who are exempt under this section;
+(b) The board, officer or agency that entered into the agreement or  granted the permit, by
+contract with the county court or board of county commissioners,  has assumed the responsibility for
+the construction or maintenance of the county road; and
+(c) Copies of the agreements or  permits required by this subsection are filed with the Director
+of Transportation.
+(9) Vehicles being used in transporting persons with disabilities, with or  without their supervi-
+sors or assistants, to or from rehabilitation [ facilities] programs or child care services if  the motor
+vehicle is a passenger motor vehicle with  a seating capacity of not more than 12 passengers. The
+exemption provided by this subsection applies only when the motor vehicle is operated by or under
+contract with any person responsible for  the administration of rehabilitation [ facilities] programs
+as defined in ORS 344.710  to 344.730 or child care services provided by a facility licensed under ORS
+329A.250 to 329A.450.
+(10) Vehicles  owned or operated by the United States or by any governmental jurisdiction within
+the United States except as provided in ORS 825.022. This chapter does apply to vehicles when
+owned or operated:
+(a) As a carrier of property for hire;
+(b) By a transportation district organized under ORS 267.510 to 267.650;
+(c) By a county service district authorized  to provide public transportation under ORS 451.010;
+or
+(d) By an intergovernmental body formed by two or more public bodies, as defined in ORS
+174.109, to provide public transportation.
+(11) Vehicles owned or operated by a mass transit district organized under ORS 267.010  to
+267.394.
+(12) Vehicles owned or  operated by, or under contract with, a person responsible for the con-
+struction or reconstruction of a highway under contract with the  Department of Transportation or
+Enrolled Senate Bill 810 (SB 810-INTRO) Page 10
+with an agency of the United States when operated  within the immediate construction project as
+described in the governmental agency contract during the construction period.
+(13) Vehicles owned or operated by, or under contract with, a charitable organization when ex-
+clusively engaged in performing transportation,  either one way or round trip, necessary to the op-
+eration of the charitable organization. As used in this subsection,  “charitable organization” means
+an organization that has no capital stock and no provision for making dividends  or profits, but de-
+rives its funds principally  from public and private charity and holds them in trust for the promotion
+of the welfare of others and not for profit. Any organization claiming  an exemption under this sub-
+section shall file an affidavit with the department stating that it is organized and operated in ac-
+cordance with the requirements of this subsection.
+(14) Passenger vehicles with a  passenger seating capacity that does not exceed five when used
+in the transportation of new telephone books.
+(15) A vehicle that is used in a limousine service operation  in which the destination and route
+traveled may be controlled by the passenger and the fare is  calculated on the basis of any combi-
+nation of initial fee, distance traveled and waiting time if the vehicle:
+(a) Is a passenger vehicle with a passenger seating capacity that does not exceed eight;
+(b) Carries passengers for hire between points in Oregon; and
+(c) Operates on an irregular route basis.
+(16) Fire trucks and rescue vehicles  that are designated as emergency vehicles by the Depart-
+ment of Transportation under ORS 801.260, while involved in emergency and related operations.
+(17) A person who provides services related to the packing or  loading of household goods if the
+person does not:
+(a) Provide or operate a motor vehicle for the movement of the household goods; and
+(b) Act as an  agent for any person who does provide or operate a motor vehicle for the move-
+ment of the household goods.
+SECTION 15.
+ ORS 427.330 is amended to read:
+427.330. As used in ORS 427.330 to 427.340:
+(1) “Care provider” means an individual, family member or entity that provides care.
+(2) “Community housing” includes:
+(a) Real property, including but  not limited to buildings, structures, improvements to real prop-
+erty and related equipment, that is used or could be used to house and provide care for  individuals
+with intellectual [ disabilities or other ] or developmental disabilities; and
+(b) A single-family home or multiple-unit residential housing that an individual with an intel-
+lectual [ disability or other ] or developmental disability shares with  other inhabitants, including but
+not limited to family members, care providers or friends.
+(3) “Construct” means to build, install, assemble, expand, alter, convert, replace or  relocate.
+“Construct” includes to install equipment and to prepare a site.
+(4) “Equipment” means furnishings, fixtures, appliances, special adaptive equipment or  supplies
+that are used or could be used to provide care in community housing.
+(5) “Family member” means an individual who  is related by blood or marriage to an individual
+with an intellectual [ disability or other ] or developmental disability.
+(6) “Financial assistance” means a grant or loan to pay  expenses incurred to provide community
+housing.
+(7) “Housing provider” means an individual or entity that provides community housing.
+SECTION 16.
+ ORS 427.335 is amended to read:
+427.335. (1) The Department  of Human Services may, through contract or otherwise, acquire,
+purchase, receive, hold, exchange, operate, demolish,  construct, lease, maintain, repair, replace, im-
+prove  and equip community housing for the purpose of providing care to individuals with intellectual
+[disabilities or other ] or developmental disabilities.
+(2) The department may dispose of  community housing acquired under subsection (1) of this
+section in a public or private sale,  upon such terms and conditions as the department considers
+advisable to increase the quality and quantity  of community housing for individuals with intellectual
+Enrolled Senate Bill 810 (SB 810-INTRO) Page 11
+[disabilities or other ] or  developmental disabilities. The department may  include in any instrument
+conveying fee title to community housing language that restricts the use of the  community housing
+to provide care for individuals with intellectual [ disabilities or other ] or developmental disabilities.
+Such restriction is not a violation of ORS  93.270. Any instrument conveying fee title to community
+housing under this subsection shall  provide that equipment in the community housing is a part of
+and shall remain with the real property unless such equipment was modified or  designed specifically
+for an individual’s use, in which case such equipment shall follow the individual.
+(3) The department may provide financial assistance to a housing provider or a care provider
+that wishes to provide  community housing for individuals with intellectual [ disabilities or other ] or
+developmental disabilities under rules promulgated by the department.
+(4) The department may transfer its ownership of equipment to care providers.
+(5) When exercising the authority granted to the department  under this section, the department
+is not subject to ORS 276.900 to 276.915 or 279A.250 to 279A.290 or ORS chapters 270 and 273.
+SECTION 17.
+(1) The Department of  Human Services, in collaboration with other state
+agencies as needed, shall establish a State as Model Employer  program. The program must
+employ a sustainable, comprehensive strategy to:
+(a) Develop accessible  and inclusive hiring practices of individuals with intellectual or
+developmental disabilities; and
+(b) Encourage, educate and assist state agencies in implementing the hiring practices.
+(2) The department  may adopt rules as necessary to implement the provisions of this
+section.
+SECTION 18.
+Sections 3 and 17 of this 2025 Act become operative on January 1, 2026.
+SECTION 19. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+Passed by Senate February 18, 2025
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House May 19, 2025
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2025
+Approved:
+........................M.,........................................................., 2025
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2025
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 810 (SB 810-INTRO) Page 12
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 174.109, ORS 267.010, ORS 267.510, ORS 276.900, ORS 305.842, ORS 307.130, ORS 307.162, ORS 321.005, ORS 329A.250, ORS 332.427, ORS 343.035, ORS 344.511, ORS 344.530, ORS 344.710, ORS 344.720, ORS 344.730, ORS 352.002, ORS 427.005, ORS 427.007, ORS 427.101, ORS 427.330, ORS 427.335, ORS 430.620, ORS 451.010, ORS 685.010, ORS 748.414, ORS 801.260, ORS 825.017, ORS 825.022, ORS 825.026, ORS 825.030, ORS 93.270
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `ec55b9cb12e33c5406428dd1ea7053fc215ec15d32e5e4ff543b787a69a64a69` (snapshot `_meta/snapshots/measure-2025r1-sb810-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB810/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `9a7953232047fdd793d8d39e7c7c68b2330e4c09b64d278077fc5bc29b529463` (snapshot `_meta/snapshots/measure-2025r1-sb810-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB810/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 810` (part of the batched per-session fetch), sha256 `e40a05360b33eebe9b5b19ce4acefebfc6814eb72b66f93552f417d3cedeb802` of the shared session snapshot `_meta/snapshots/measures-2025r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

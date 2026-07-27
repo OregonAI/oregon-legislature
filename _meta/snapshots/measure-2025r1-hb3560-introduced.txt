@@ -1,0 +1,141 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 3560
+Sponsored by Representatives MARSH, NERON, Senator REYNOLDS; Representatives NGUYEN H, WALTERS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act expands allowable sites for child  care centers. (Flesch Readability Score: 66.1).
+Expands areas where a child care facility may  be sited. Requires local governments to update
+their land use laws to comply within one year after the effective date of the Act.
+A BILL FOR AN ACT
+Relating to the siting of child care  facilities; creating new provisions; and amending ORS 243.560
+and 329A.440.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ORS 329A.440 is added to and made a part of ORS chapter 197.
+SECTION 2.  ORS 329A.440 is amended to read:
+329A.440. (1) As used in this section:
+(a) “Child care center” means a child care facility, other than a family child care home,  that is
+certified under ORS 329A.280 (3).
+(b) “Family child care  home” means a child care facility in a dwelling that is caring for not
+more than 16 children and is certified under ORS  329A.280 (2) or is registered under ORS 329A.330.
+[(c) “Land  use regulation” and “local government” have the meanings given those terms in ORS
+197.015.]
+(2)(a) A family child care home  is considered a residential use of property for zoning purposes.
+A family child care home is a permitted use in all areas zoned for residential or commercial pur-
+poses, including areas zoned for single-family dwellings.
+(b) A local government may not enact or enforce a land use regulation prohibiting the use of  a
+residential  dwelling,  located in an area zoned for residential or commercial use, as a family child
+care home.
+(c) A local government may not impose land use  regulations, special fees or conditions on the
+establishment or maintenance of a family child care home more restrictive than those  imposed on
+other residential dwellings in the same zone.
+(3) Notwithstanding subsection (2)(c) of this  section, a county may impose reasonable conditions
+on the establishment of a family child care home in an area zoned for farm use.
+(4)(a) A child care center is a permitted use [ in all areas zoned for ] on land:
+(A) Zoned to allow for 12 or more residential units per acre;
+(B) In urban  unincorporated zones or zoned to allow for residential use, if the center is
+colocated with an allowed  institutional use, including a civic center, public recreational cen-
+ter, public park, place of worship, school, college or library; or
+(C) Zoned to allow commercial or industrial use, except in areas specifically designated by the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 845
+HB 3560
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+local government for heavy industrial use.
+(b) A local government may not impose land use regulations,  special fees or conditions on the
+establishment or maintenance of a child care center in an area zoned for commercial or industrial
+use that are more restrictive than those imposed for other uses in the same zone[ .]
+[(5) Notwithstanding subsection (4) of this section, a ], but the  local government may impose
+[reasonable conditions ] upon the establishment or maintenance of a child care center in an area
+zoned for industrial uses[ .]
+[(6) As used in this section, “reasonable conditions” includes,  but is not limited to, ] reasonable
+conditions, including siting restrictions for properties designated on the  Department of Environ-
+mental Quality’s statewide list of  contaminated properties as having known or suspected releases
+of hazardous substances.
+SECTION 3.
+A local government shall comply as described in ORS 197.646 (1) with the
+new requirements imposed under the amendments to ORS 329A.440  by section 2 of this 2025
+Act within one year after the effective date of this 2025 Act.
+SECTION 4.  ORS 243.560 is amended to read:
+243.560. (1) The Public Employees’ Benefit Board may provide,  administer and maintain an ex-
+pense reimbursement plan for the benefit of eligible employees of this state.
+(2) In providing an expense reimbursement plan, the board shall adopt rules to:
+(a) Determine the qualifications of eligible employees and the  expenses eligible for reimburse-
+ment.
+(b) Establish limits on the amount by which an eligible employee’s compensation may  be re-
+duced.
+(c) Establish procedures for enrollment of eligible employees  in an expense reimbursement plan.
+(d) Establish requirements for verification of reimbursable expenses.
+(3) The board may assess a charge to participating employees to pay the cost of administering
+the plan or may pay some or all of the  cost from funds authorized to pay general administration
+expenses incurred by the board or from earnings on moneys deposited with the account administra-
+tor as designated by the board.
+(4) The state  shall maintain accounts and records necessary and appropriate to the efficient
+administration of ORS 243.550 to 243.585 [ and 329A.440 ] or that may be  required under federal or
+state law.
+[2]

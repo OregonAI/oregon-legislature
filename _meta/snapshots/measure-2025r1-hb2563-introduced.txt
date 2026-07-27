@@ -1,0 +1,290 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+House Bill 2563
+Introduced and printed pursuant to  House Rule 12.00. Presession filed (at the request of Governor Tina Kotek for
+Department of Consumer and Business Services)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells insurers to explain  to policy holders why the premium will go up when the policy
+is renewed.  Tells insurers what they must say to policy holders. Goes into effect 91 days after the
+session ends. (Flesch Readability Score: 60.7).
+Requires an  insurer to provide to an insured a clear and reasonable explanation of the reasons
+for any increase in the premium amount for a qualified policy upon renewal  of the qualified policy.
+Specifies standards for a clear and reasonable explanation.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to explanations required in connection  with premium increases upon renewals of certain
+insurance policies; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2025 Act is added to and made a part of ORS chapter 742.
+SECTION 2. (1) As used in this section, “qualified policy” means an insurance policy that
+is:
+(a) Homeowner insurance, as defined in ORS 746.600; or
+(b) Motor vehicle liability insurance that meets the requirements of ORS  742.450 and
+provides the coverages specified in ORS 742.500 to 742.506 and 742.518 to 742.542.
+(2) An  insurer that renews an existing qualified policy with an insured shall, at the
+insured’s written request, give a clear and reasonable written explanation for any increase
+in the  amount of the premium the insured must pay upon renewing the qualified policy. A
+clear and reasonable written explanation is an explanation that provides  to the insured, in
+language that is not technical and is understandable to an average  policyholder, information
+that enables the insured to understand the insurer’s reasons for the increase.
+(3) In a printed or electronic offer to renew a qualified policy or notice of an automatic
+renewal of a qualified policy, an insurer  shall include a prominent and conspicuous statement
+that tells the insured that the insured may ask the insurer or  the insurer’s agent in writing
+for an explanation of any premium increase. The insurer shall  display the same statement
+on the first printed or electronic premium invoice the  insurer sends after renewing a quali-
+fied policy.
+(4) An insurer shall respond to an insured’s  written request under subsection (2) of this
+section not later than 20 days after receiving the request.
+(5) The Director of the Department of Consumer and Business Services may prescribe
+by rule the form, format and  contents of the written explanation and statement described
+in subsection (3) of this  section and any required elements of an insurer’s offer to renew a
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 367
+HB 2563
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+qualified policy or notification of an automatic renewal of a qualified policy.
+(6)(a) This section does not apply to:
+(A) Applications for or purchases of new insurance policies;
+(B) A personal insurance policy that provides coverage for a boat,  motorcycle, off-road
+vehicle, recreational vehicle, antique vehicle maintained as a collector’s item or a  vehicle
+maintained only for a specialty use that does not involve  passenger transportation upon the
+surface roads or highways of this state;
+(C) A policy of insurance that covers health,  disability, life, long-term care or to an
+insurer in renewing such a policy;
+(D) Changes that an  insured initiates with respect to an insurance policy’s coverage or
+premium amount; or
+(E) Personal umbrella insurance policies.
+(b) This section does not require an insurer to disclose the contents of:
+(A) A credit-based insurance scoring model;
+(B) Criteria for placement of insurance;
+(C) Eligibility rules;
+(D) Confidential trade secrets; or
+(E) Filings with the Department of Consumer and  Business Services related to usage-
+based insurance or the usage-based component of a rate.
+SECTION 3.
+ Section 2 of this 2025 Act is amended to read:
+(1) As used in this section, “qualified policy” means an insurance policy that is:
+(a) Homeowner insurance, as defined in ORS 746.600; or
+(b) Motor vehicle liability insurance that meets  the requirements of ORS 742.450 and provides
+the coverages specified in ORS 742.500 to 742.506 and 742.518 to 742.542.
+[(2) An insurer that renews an existing  qualified policy with an insured shall, at the insured’s
+written request, give a clear and reasonable written explanation for any increase in  the amount of the
+premium the insured must pay upon  renewing the qualified policy. A clear and reasonable written ex-
+planation is an explanation that provides to the insured, in language that is  not technical and is un-
+derstandable to an average policyholder, information that enables the insured to  understand the
+insurer’s reasons for the increase. ]
+(2) An insurer that renews an existing qualified policy at a premium amount that  in-
+creases upon renewal by 10 percent or more shall, not less than 20 days before the date on
+which the renewal becomes effective, give  to the insured a clear and reasonable written ex-
+planation that identifies the primary factors that underpin the increase.  A clear and rea-
+sonable written explanation is  an explanation that provides to the insured, in language that
+is not technical and is understandable to an average policyholder,  information that enables
+the insured to understand the insurer’s reasons for the increase. If  the increase in the pre-
+mium amount is less than 10 percent, the insurer must provide the explanation described in
+this subsection only if the  insurer receives a written request for an explanation from the
+insured.
+(3) If an insurer need not provide the explanation required  under subsection (2) of this
+section because renewing a qualified policy involves an increase in the  premium amount of
+less than 10 percent, the insurer shall include  in  a printed or electronic offer to renew a quali-
+fied policy or  notice of an automatic renewal of a qualified policy[ , an insurer shall include ] a
+prominent and conspicuous statement that tells the insured that the  insured may ask the insurer or
+[2]
+HB 2563
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the insurer’s agent in writing for an explanation  of any premium increase. The insurer shall display
+the same statement on the first printed  or electronic premium invoice the insurer sends after re-
+newing a qualified policy.
+(4) An insurer shall respond to an insured’s written request under subsection (2) of this section
+not later than 20 days after receiving the request.
+(5) A clear and reasonable explanation of a premium increase from an  insurer under
+subsection (2) of this section must include this information:
+(a) The specific rate and rating  criteria that justify an increase in the amount of the
+premium, including but not limited to:
+(A) The location in which a motor vehicle is stored when  not in use, the insured’s driving
+record, the number of  miles the vehicle is driven in a specified period, the insured’s claims
+history and any fees, surcharges or discounts that apply to the premium amount;
+(B) The insured’s age, credit history, education, gender, marital status and occupation,
+to the extent the insurer may lawfully consider such items;
+(C) The age, location and value of insured property; and
+(D) Any rate caps or rate changes that apply to the premium rate, including rate caps
+or rate changes that apply under rate  stability rules, transition rules or other premium-
+capping rules; and
+(b) Any other information the insurer wishes to  disclose concerning the insurer’s deter-
+mination of the increase in the premium amount.
+(6) An  insurer shall file as provided in ORS 742.003 the statement required under sub-
+section (3) of this section together with the form that the insurer intends to  use in offering
+to renew a qualified policy or notifying an insured of an automatic  renewal of a qualified
+policy. The Director of the Department of Consumer and Business Services may  require an
+insurer to use a form the director  prescribes under subsection (7) of this section and to
+submit the form electronically for filing and approval.
+[(5)] (7) The director [ of the Department of Consumer and Business Services ] may  prescribe by
+rule the form, format and contents of the written  explanation and statement described in
+[subsection] subsections  (2) and  (3) of this section and any required elements of an insurer’s offer
+to renew a qualified policy or notification of an automatic renewal of a qualified policy.
+[(6)(a)] (8)(a) This section does not apply to:
+(A) Applications for or purchases of new insurance policies;
+(B) A personal insurance policy that  provides coverage for a boat, motorcycle, off-road vehicle,
+recreational vehicle, antique vehicle maintained as a collector’s item  or a vehicle maintained only
+for a specialty use that does not  involve passenger transportation upon the surface roads or high-
+ways of this state;
+(C) A policy of insurance that covers health, disability, life, long-term care or to an insurer in
+renewing such a policy;
+(D) Changes that an insured initiates with respect to an insurance policy’s  coverage or premium
+amount; or
+(E) Personal umbrella insurance policies.
+(b) This section does not require an insurer to disclose the contents of:
+(A) A credit-based insurance scoring model;
+(B) Criteria for placement of insurance;
+(C) Eligibility rules;
+[3]
+HB 2563
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+(D) Confidential trade secrets; or
+(E) Filings with the Department of Consumer and Business  Services related to usage-based in-
+surance or the usage-based component of a rate.
+SECTION 4.
+(1) Section 2 of this 2025 Act applies to qualified policies that an insurer re-
+news on or after the operative date specified in section 5 (1) of this 2025 Act.
+(2) The amendments to section 2 of this 2025 Act by section  3 of this 2025 Act apply to
+qualified policies that an insurer renews on or after the operative date specified in section 5
+(2) of this 2025 Act.
+SECTION 5.
+(1) Section 2 of this 2025 Act becomes operative on January 1, 2026.
+(2) The amendments to section 2 of this 2025 Act by section 3  of this 2025 Act become
+operative on January 1, 2027.
+SECTION 6. This 2025 Act takes effect on the 91st day after the date on  which the 2025
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[4]
