@@ -52,7 +52,7 @@ first 5 rows returned with no `$filter`/`$orderby`, `$top=5`). Every session
 this API knows about, going back to at least 2007 (the oldest of the 5 rows
 examined is `SessionKey: "2007I1"`, a 2007-2008 interim session).
 
-## Key provisions
+## Entity reference
 
 _Everything below is nested under one heading, deliberately: `FileBackend`'s
 FTS index only extracts body text from a `## Full text` section (verbatim

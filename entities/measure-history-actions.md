@@ -55,7 +55,7 @@ first, second, and third history rows for HB 2049 / `2025R1`, fetched with
 `Measure`'s own key, but here it is a plain (non-key) foreign reference, not
 part of *this* entity's key.
 
-## Key provisions
+## Entity reference
 
 _Everything below is nested under one heading, deliberately: `FileBackend`'s
 FTS index only extracts body text from a `## Full text` section (verbatim
