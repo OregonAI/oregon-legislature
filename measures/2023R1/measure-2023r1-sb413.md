@@ -1,0 +1,492 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2023r1-sb413
+title: 'SB 413 (2023R1): Establishes Public Defense Services Student Loan Repayment Assistance Program
+  in Oregon State Bar to provide forgivable loans to eligible public defense attorneys for outstanding
+  student loans.'
+doc_type: dataset_doc
+citation: 2023 Regular Session Senate Bill 413
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB413/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 8ac54a5aaec3ca4bd93170bbb09376105e3a978bbb575d75faed21a2e3d7810b
+snapshot_id: measure-2023r1-sb413-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 135.055
+  - ORS 137.700
+  - ORS 137.707
+  - ORS 138.500
+  - ORS 138.590
+  - ORS 151.211
+  - ORS 151.213
+  - ORS 151.216
+  - ORS 151.219
+  - ORS 151.225
+  - ORS 151.489
+  - ORS 161.346
+  - ORS 161.348
+  - ORS 161.365
+  - ORS 292.495
+  - ORS 34.355
+  - ORS 419A.211
+  - ORS 419B.201
+  - ORS 419B.208
+  - ORS 419B.518
+  - ORS 419B.908
+  - ORS 419C.206
+  - ORS 419C.209
+  - ORS 419C.408
+  - ORS 419C.535
+  - ORS 426.100
+  - ORS 426.135
+  - ORS 426.250
+  - ORS 426.307
+  - ORS 427.265
+  - ORS 427.295
+  - ORS 436.265
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2023r1
+- sb
+session_key: 2023R1
+measure_prefix: SB
+measure_number: 413
+prefix_meaning: Senate Bill
+catch_line: Establishes Public Defense Services Student Loan Repayment Assistance Program in Oregon State
+  Bar to provide forgivable loans to eligible public defense attorneys for outstanding student loans.
+minority_catch_line: null
+measure_summary: "\tEstablishes Public Defense Services Student Loan Repayment Assistance Program in Oregon\
+  \ State Bar to provide forgivable loans to eligible public defense attorneys for outstanding student\
+  \ loans. Directs Oregon State Bar to report annually to committee or interim committee of Legislative\
+  \ Assembly on program. Creates subtraction from federal taxable income for loan repayment assistance\
+  \ received under program. Appropriates moneys to Judicial Department for transfer to Oregon State Bar\
+  \ for purpose of program. \n\tTransfers Public Defense Services Commission from judicial to executive\
+  \ branch. Modifies appointment and removal process for commission members. Modifies duties of public\
+  \ defense services executive director to include development of training programs and establishment\
+  \ of trial division. \n\tTakes effect on 91st day following adjournment sine die."
+relating_to: Relating to public defense; prescribing an effective date.
+relating_to_full: Relating to public defense; creating new provisions; amending ORS 151.211, 151.213,
+  151.216 and 151.219; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 2321
+measure_created_date: '2022-12-20T15:10:54'
+measure_modified_date: '2023-01-23T09:52:43'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 23418
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 135.055
+  - ORS 137.700
+  - ORS 137.707
+  - ORS 138.500
+  - ORS 138.590
+  - ORS 151.211
+  - ORS 151.213
+  - ORS 151.216
+  - ORS 151.219
+  - ORS 151.225
+  - ORS 151.489
+  - ORS 161.346
+  - ORS 161.348
+  - ORS 161.365
+  - ORS 292.495
+  - ORS 34.355
+  - ORS 419A.211
+  - ORS 419B.201
+  - ORS 419B.208
+  - ORS 419B.518
+  - ORS 419B.908
+  - ORS 419C.206
+  - ORS 419C.209
+  - ORS 419C.408
+  - ORS 419C.535
+  - ORS 426.100
+  - ORS 426.135
+  - ORS 426.250
+  - ORS 426.307
+  - ORS 427.265
+  - ORS 427.295
+  - ORS 436.265
+  from_relating_to_full:
+  - ORS 151.211
+  - ORS 151.213
+  - ORS 151.216
+  - ORS 151.219
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 413`.
+
+# SB 413 — 2023 Regular Session (2023R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 413, 2023 Regular Session (2023R1)
+- **LC number:** 2321
+- **Created:** 2022-12-20T15:10:54
+- **Metadata last modified (upstream):** 2023-01-23T09:52:43
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 23418 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB413/Introduced>.
+
+## Summary
+
+**Catchline:** Establishes Public Defense Services Student Loan Repayment Assistance Program in Oregon State Bar to provide forgivable loans to eligible public defense attorneys for outstanding student loans.
+
+**Relating to:** Relating to public defense; prescribing an effective date.
+
+Establishes Public Defense Services Student Loan Repayment Assistance Program in Oregon State Bar to provide forgivable loans to eligible public defense attorneys for outstanding student loans. Directs Oregon State Bar to report annually to committee or interim committee of Legislative Assembly on program. Creates subtraction from federal taxable income for loan repayment assistance received under program. Appropriates moneys to Judicial Department for transfer to Oregon State Bar for purpose of program. 
+ Transfers Public Defense Services Commission from judicial to executive branch. Modifies appointment and removal process for commission members. Modifies duties of public defense services executive director to include development of training programs and establishment of trial division. 
+ Takes effect on 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to public defense; creating new provisions; amending ORS 151.211, 151.213, 151.216 and 151.219; and prescribing an effective date.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Senate Bill 413
+Sponsored by Senator GORSEK (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Establishes Public Defense Services Student Loan Repayment Assistance  Program in Oregon
+State Bar  to provide forgivable loans to eligible public defense attorneys for outstanding student
+loans. Directs Oregon State Bar to report annually to  committee or interim committee of Legislative
+Assembly on program. Creates subtraction from federal taxable  income for loan repayment assist-
+ance received under program. Appropriates moneys to Judicial Department for  transfer to Oregon
+State Bar for purpose of program.
+Transfers Public Defense Services Commission from judicial to  executive branch. Modifies ap-
+pointment and removal process for commission members. Modifies duties of public defense  services
+executive director to include development of training programs and establishment of trial division.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to public defense; creating new provisions;  amending ORS 151.211, 151.213, 151.216 and
+151.219; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+LOAN REPAYMENT ASSISTANCE
+SECTION 1.
+(1) As used in this section:
+(a) “Public defense attorney” means an attorney:
+(A) Who is appointed to represent eligible individuals as required by Oregon statutes,  the
+Oregon Constitution or the United States Constitution;
+(B) Whose legal work is funded by the office of public defense services and who is em-
+ployed by the state or a public defense services contractor; and
+(C) Who meets any further definition of “public defense  attorney” set forth by the
+Oregon State Bar.
+(b) “Public defense  staff member” means an investigator, support staff member or case
+manager who is employed by a public defense services contractor.
+(2) The  Public Defense Services Student Loan Repayment Assistance Program is estab-
+lished in the Oregon State Bar.
+(3)(a) The program  shall provide forgivable loans to an eligible public defense attorney
+or public defense staff member for up to  $20,000 in payments of principal and interest on
+outstanding public or private student loans for each 12 months of service.
+(b) The program  may provide forgivable loans to a public defense attorney or public de-
+fense staff member for 10 years or until  the program has provided a total of $200,000 in
+forgivable loans, whichever occurs first.
+(4)(a) A public defense attorney is eligible for the program if:
+(A) The attorney resides in this state;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2321
+(B) The attorney practices public defense services in this state full time  or part time, as
+defined by the Oregon State Bar, while participating in the program;
+(C) The attorney commits to provide public defense  services for a period of 10 years; and
+(D) The attorney meets other requirements established by the Oregon State Bar under
+subsection (5) of this section.
+(b) A public defense staff member is eligible for the program if:
+(A) The person resides in this state;
+(B) The person is employed by  a public defense services contractor in this state full time
+or part time, as defined by the Oregon State Bar, while participating in the program;
+(C) The person commits to provide public defense services for a period of 10 years; and
+(D) The person meets other requirements established  by the Oregon State Bar under
+subsection (5) of this section.
+(5) The Oregon State Bar shall adopt policies for administration of the program, including
+eligibility and application requirements. The policies shall include  that amounts of forgivable
+loans for student loan payments be based  on the amount of the person’s working hours spent
+providing public defense services,  provided that the provision of public defense services con-
+stitutes at least 70 percent of the person’s working hours.
+SECTION 2.
+No later than August 31 of each year, the Oregon State Bar shall report on
+the Public Defense Services Student Loan Repayment Assistance Program to a committee
+or interim  committee of the Legislative Assembly related to the judiciary. The report must
+include:
+(1) The number of attorneys and staff members  who entered the program, and the month
+and year of entry.
+(2) The average amount of forgivable loans provided to a participant.
+(3) The total amount of forgivable loans provided.
+(4) The number of attorneys and staff members who participated in the  program in each
+county.
+(5) The number of clients and cases and the case types in which public defense services
+were provided, disaggregated by anonymous participation.
+(6) The number of  attorneys and staff members who report that participation in the
+program is a substantial factor in  removing economic barriers to the ability to perform
+public defense services.
+(7) The average amount of outstanding student loan debt for each participant.
+(8) Other information that is useful in evaluating the program.
+SECTION 3.
+(1) The Oregon State Bar shall start accepting applications for  the Public
+Defense Services Student Loan Repayment Assistance Program established in  section 1 of
+this 2023 Act no later than December 1, 2023.
+(2) The  Oregon State Bar shall make the first report under section 2 of this 2023 Act no
+later than August 31, 2024.
+SECTION 4. Section 5 of this 2023 Act is added to and made a part of ORS chapter 316.
+SECTION 5. (1) In computing Oregon taxable income  for purposes of this chapter, there
+shall be subtracted from  federal taxable income an amount equal to loan repayment assist-
+ance paid to the taxpayer  under section 1 of this 2023 Act if the individual to whom the as-
+sistance was paid is listed on the return.
+(2) The amount of subtraction allowed under subsection (1) of this section  shall be re-
+duced by any deduction allowed for the same amounts to the taxpayer or any other taxpayer
+listed on the return for the tax year under section 221 of the Internal Revenue Code.
+SECTION 6.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Judicial Department, for the biennium beginning July 1, 2023, out of the General
+Fund, the amount of $__________, which may be transferred to the Oregon State Bar for the
+purpose of providing forgivable loans under the Public Defense  Services Student Loan Re-
+payment Assistance Program established in  section 1 of this 2023 Act. The Oregon State Bar
+may use up to five percent of the moneys transferred to pay the administrative costs of  the
+program.
+PUBLIC DEFENSE SERVICES COMMISSION
+(Changes to its Branch of Government,
+Appointing Authority, Membership, Duties)
+SECTION 7.
+ ORS 151.211 is amended to read:
+151.211. For purposes of ORS 151.211 to 151.221:
+(1) “Bar member” means an individual who is an active member of the Oregon State Bar.
+[(2) “Chief Justice” means the Chief Justice of the Supreme Court. ]
+[(3)] (2) “Commission” means the Public Defense Services Commission.
+[(4)] (3)  “Director” means the public defense services executive director appointed under  ORS
+151.216.
+[(5)] (4) “Office of public defense services” means the  office established by the commission under
+the director to handle the cases assigned and to carry out the administrative policies and procedures
+for the public defense system.
+SECTION 8.
+ ORS 151.213 is amended to read:
+151.213. (1) The Public Defense Services Commission is  established in the [ judicial] executive
+branch of state government. Except for the appointment or removal  of commission members, the
+commission and employees of the commission  are not subject to the exercise of administrative au-
+thority and supervision by the [ Chief Justice of the Supreme Court as the  administrative head of the
+Judicial Department ] Governor.
+(2)(a) The commission consists  of nine members appointed [ by order of the Chief Justice. In ad-
+dition to the nine appointed members, the Chief Justice serves as a  nonvoting, ex officio member. The
+Chief Justice shall appoint at least three persons  who are not bar members, at least one person who
+was formerly engaged in the provision of  public defense services and at least one person who has been
+formerly represented by a public defense  provider in this state. All members must have a demonstrated
+record of commitment to public defense. Except for the Chief Justice or a senior judge under ORS 1.300,
+a member may not  serve concurrently as a judge, a prosecuting attorney or an employee of a law
+enforcement agency. A person who is primarily engaged in providing public defense services may  not
+serve as a member of the commission. ] as follows:
+(A) The Governor shall appoint three members.
+(B) The Governor shall appoint three members from among persons  recommended by the
+Chief Justice of the Supreme Court.
+(C) The Governor shall appoint three members from among persons  jointly recommended
+by the Senate President and the Speaker of the House of Representatives.
+(b) All members must have a demonstrated record of commitment to public defense.
+(c) At least three members must be persons who are not bar members.
+(d) At least one member must be a person  who has been formerly represented by a public
+defense provider.
+(e) Except for a  senior judge under ORS 1.003, a member may not serve concurrently as
+a judge, a member of the Legislative Assembly, a prosecuting attorney or an employee of a
+law enforcement agency.
+(f) A person who is primarily engaged in providing public defense  services may not serve
+as a member of the commission.
+(3) The term of a member is four years  beginning on the effective date of the [ order of the Chief
+Justice appointing the member ] appointment. A member is  eligible for reappointment if qualified for
+membership at the time of reappointment. A member may be removed from the  commission by [ order
+of the Chief Justice ] a two-thirds  vote of the commission . If a vacancy occurs for any cause before
+the expiration of the term of a member, the [ Chief Justice ] Governor shall make an appointment  to
+become immediately effective for the unexpired term.
+(4) A chairperson and a vice chairperson shall be [ appointed by order of  the Chief Justice ]
+elected by the members  of the commission  every two years with such functions as the commis-
+sion may determine. A member is eligible for reappointment as chairperson or vice chairperson.
+(5) A majority of the voting members constitutes a quorum for the transaction of business.
+(6) A member  of the commission is not entitled to compensation for services as a member, but
+is entitled to expenses as provided in ORS 292.495 (2).
+SECTION 9.
+ ORS 151.216 is amended to read:
+151.216. (1) The Public Defense Services Commission shall:
+(a) Establish and maintain a public defense system  that ensures the provision of public defense
+services consistent with the Oregon Constitution, the United States Constitution  and Oregon and
+national standards of justice.
+(b) Establish  an office of public defense services and appoint a public defense services executive
+director who serves at the pleasure of the commission.
+(c) Adopt policies for contracting for public defense providers not employed by the office  of
+public defense services that:
+(A) Ensure compensation, resources  and caseloads are in accordance with national and regional
+best practices;
+(B) Promote policies for public defense provider compensation and  resources that are compara-
+ble to prosecution compensation and resources;
+(C) Ensure funding  and resources to support required data collection and training requirements;
+and
+(D) Recognize the need to consider overhead costs that account for  the cost of living and busi-
+ness cost differences in each county or jurisdiction, including but  not limited to rent, professional
+membership dues, malpractice insurance and other insurance and other reasonable and usual oper-
+ating costs.
+(d) Establish operational and  contracting systems that allow for oversight, ensure transparency
+and stakeholder engagement and promote equity, inclusion and culturally specific representation.
+(e) Review the caseload policies described in paragraph  (c)(A) of this subsection annually, and
+revise the policies as necessary and at least every four years.
+(f) Adopt  a statewide workload plan, based on the caseload policies described in paragraph (c)(A)
+of this subsection, that takes into account the needs of each county or jurisdiction,  practice struc-
+ture and type of practice overseen by the office of public defense services.
+(g) Submit the budget of the commission and the office of public defense services to the Legis-
+lative Assembly after the budget is submitted to  the commission by the director and approved by the
+commission. [ The Chief Justice of the Supreme Court  and ] The chairperson of the commission shall
+present the budget to the Legislative Assembly.
+(h) Review and approve any public defense services contract negotiated  by the director before
+the contract can become effective.
+(i) Adopt a compensation plan, classification system and personnel plan for the office of  public
+defense services that are commensurate with other state agencies.
+(j) Adopt policies, procedures, standards and guidelines regarding:
+(A) The determination of  financial eligibility of persons entitled to be represented by appointed
+counsel at state expense;
+(B) The appointment of counsel, including the appointment  of counsel at state expense regard-
+less of financial eligibility in juvenile delinquency matters;
+(C) The fair compensation of counsel appointed to represent a person financially  eligible for
+appointed counsel at state expense;
+(D) Appointed counsel compensation disputes;
+(E) Any other costs associated with the representation of a person  by appointed counsel in the
+state courts that are required to be paid by the state under ORS 34.355,  135.055, 138.500, 138.590,
+161.346, 161.348, 161.365, 419A.211,  419B.201, 419B.208, 419B.518, 419B.908, 419C.206, 419C.209,
+419C.408, 419C.535, 426.100,  426.135, 426.250, 426.307, 427.265, 427.295, 436.265 or 436.315 or any
+other provision of law that expressly provides for payment of such compensation, costs or expenses
+by the commission;
+(F) Professional qualifications for counsel appointed to represent public defense clients;
+(G) Performance for legal representation;
+(H) The contracting of public defense services;
+(I) Contracting with expert witnesses to allow  contracting with out-of-state expert witnesses
+only if in-state expert  witnesses are not available or are more expensive than out-of-state expert
+witnesses; and
+(J) Any other matters necessary to carry out the duties of the commission.
+(k) Establish a peer review system for the approval  of nonroutine fees and expenses incurred in
+cases involving aggravated murder and  the crimes listed in ORS 137.700 and 137.707. The review
+shall be conducted by a panel of attorneys who practice in the area of criminal defense.
+(L) Establish a complaint process that allows district attorneys, criminal defense counsel and the
+public to file complaints concerning the payment from public funds of nonroutine fees and  expenses
+incurred in cases.
+(m) Reimburse the State Court Administrator from  funds deposited in the Public Defense Ser-
+vices Account established by ORS 151.225 for the costs of personnel and other costs associated with
+location of eligibility  verification and screening personnel pursuant to ORS 151.489 by the State
+Court Administrator.
+(2) Policies, procedures, standards and guidelines adopted by  the commission supersede any
+conflicting rules, policies or procedures of the Public  Defender Committee, State Court Administra-
+tor, circuit courts, the Court  of Appeals, the Supreme Court and the Psychiatric Security Review
+Board related to the exercise of the commission’s administrative responsibilities under this section
+and transferred duties, functions and powers as they occur.
+(3) The  commission may accept gifts, grants or contributions from any source, whether public
+or private. However, the commission may not  accept a gift, grant or contribution if acceptance
+would create a conflict of interest. Moneys accepted under this subsection  shall be deposited in the
+Public Defense Services Account established by ORS 151.225 and  expended for the purposes for
+which given or granted.
+(4) The commission may not:
+(a) Make any decision regarding the handling of any individual case;
+(b) Have access to any case file; or
+(c) Interfere with the director or any member of the staff of the director in carrying out pro-
+fessional duties involving the legal representation of public defense clients.
+SECTION 10.
+ ORS 151.219 is amended to read:
+151.219. (1) The public defense services executive director shall:
+(a) Recommend to the Public Defense Services Commission how  to establish and maintain, in a
+cost-effective  manner,  the delivery of legal services to persons entitled to, and, where applicable,
+financially eligible for, appointed counsel at state expense under Oregon statutes,  the Oregon Con-
+stitution, the United States  Constitution and consistent with Oregon and national standards of jus-
+tice.
+(b) Implement and ensure compliance with contracts, policies, procedures,  standards and guide-
+lines adopted by the commission or required by statute.
+(c) Prepare and submit to the commission for its approval the biennial budget of the commission
+and the office of public defense services.
+(d) Negotiate contracts, as appropriate, for providing legal services to persons eligible  for ap-
+pointed counsel at state expense. No contract so negotiated is binding or enforceable until the
+contract has been reviewed and approved by the commission as provided in ORS 151.216.
+(e) Employ personnel or contract  for services as necessary to carry out the responsibilities of
+the director and the office of public defense services.
+(f) Supervise the personnel, operation and activities of the office of public defense services.
+(g) Provide services, facilities and materials necessary  for the performance of the duties, func-
+tions and powers of the Public Defense Services Commission.
+(h) Pay the expenses of the commission and the office of public defense services.
+(i) Prepare and submit  to the commission an annual report of the activities of the office of public
+defense services.
+(j) Prepare and submit to the Legislative Assembly a biennial report on the activities of  the of-
+fice of public defense services.
+(k) Provide for legal representation, advice  and consultation for the commission, its members,
+the director and staff of the office of public defense services  who require such services or who are
+named as defendants in lawsuits arising from  their duties, functions and responsibilities. If requested
+by the director,  the Attorney General may also provide for legal representation, advice and consul-
+tation for the  commission, its members, the director and staff of the office of public defense services
+in litigation.
+(L) Establish within the office of public defense services a  trial division that includes
+three or four regional offices and supervisor, attorney, investigator and support staff posi-
+tions, in order to support areas  within the state with the highest provider caseloads or most
+unrepresented defendants.
+(m) Develop training programs for employees of the office of public defense services, set
+training protocols and expectations for the trainings and coordinate  with professional asso-
+ciations to provide continuing legal education opportunities.
+(n) Ensure that the contracts negotiated under subsection (1)(d) of this section:
+(A) Provide for  staff members within the offices of public defense providers who train
+and supervise other attorneys, assist in the orientation  of new employees and coordinate
+continuing legal educational opportunities, while having the ability to have  a lower caseload
+than other attorneys within the office.
+(B) Compensate contracted public defense providers at the same  rate as employees of the
+office of public defense services performing comparable work.
+(2) The  director may designate persons as representatives of the director for the purposes of
+determining and paying  bills submitted to the office of public defense services and determining pre-
+authorization for incurring fees and expenses under ORS 135.055.
+SECTION 11.
+(1) A person who is a member of the Public Defense Services Commission
+on the operative date specified in section 12 (1) of this 2023 Act shall remain  a member of
+the commission until the end of the person’s term, subject to removal for cause as  described
+in ORS 151.213 (3).
+(2) Upon the conclusion of the term  of a person who is a commission member on the
+operative date specified in section 12 (1) of this 2023 Act, the person may be reappointed  to
+the commission by the Governor if the person meets  the requirements described in ORS
+151.213 (2).
+(3) Notwithstanding ORS 151.213 (3), the initial term of a person appointed by the  Gov-
+ernor may be staggered by one, two, three and four years as necessary so that  no more than
+three terms end each year.
+(Operative Date)
+SECTION 12. (1) The amendments to ORS  151.211, 151.213, 151.216 and 151.219 by sections
+7 to 10 of this 2023 Act become operative on January 1, 2025.
+(2) The Public Defense Services Commission, the Judicial Department and the  Governor
+may take any action before the operative date specified in subsection (1)  of this section that
+is necessary to enable the commission,  the department or the Governor to exercise, on and
+after the operative date specified in  subsection (1) of this section, all of the duties, functions
+and powers conferred on  the commission, the department or the Governor by the amend-
+ments to ORS 151.211, 151.213, 151.216 and 151.219 by sections 7 to 10 of this 2023 Act.
+CAPTIONS
+SECTION 13. The unit captions used in this 2023 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2023 Act.
+EFFECTIVE DATE
+SECTION 14. This 2023 Act takes effect on the 91st day after the date on which  the 2023
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 151.211, ORS 151.213, ORS 151.216, ORS 151.219
+- From bill text (Introduced version): ORS 135.055, ORS 137.700, ORS 137.707, ORS 138.500, ORS 138.590, ORS 151.211, ORS 151.213, ORS 151.216, ORS 151.219, ORS 151.225, ORS 151.489, ORS 161.346, ORS 161.348, ORS 161.365, ORS 292.495, ORS 34.355, ORS 419A.211, ORS 419B.201, ORS 419B.208, ORS 419B.518, ORS 419B.908, ORS 419C.206, ORS 419C.209, ORS 419C.408, ORS 419C.535, ORS 426.100, ORS 426.135, ORS 426.250, ORS 426.307, ORS 427.265, ORS 427.295, ORS 436.265
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `8ac54a5aaec3ca4bd93170bbb09376105e3a978bbb575d75faed21a2e3d7810b` (snapshot `_meta/snapshots/measure-2023r1-sb413-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB413/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 413` (part of the batched per-session fetch), sha256 `93fbdf58369388064230f7ba2c78bd17b78e15ffa1d19e5c25089297c647cbe1` of the shared session snapshot `_meta/snapshots/measures-2023r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

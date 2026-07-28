@@ -1,0 +1,416 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2019r1-hb2497
+title: 'HB 2497 (2019R1): Adds battery storage to definition of "green energy technology" for public buildings
+  that are emergency shelters or facilities for public safety.'
+doc_type: dataset_doc
+citation: 2019 Regular Session House Bill 2497
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2497/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 6ea29d7283527908c5d39bd69f934ee78a3377ffb9d7273d4a2e98a7ac2ce2a7
+snapshot_id: measure-2019r1-hb2497-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.108
+  - ORS 174.109
+  - ORS 276.900
+  - ORS 276.905
+  - ORS 279A.010
+  - ORS 279C.527
+  - ORS 279C.528
+  - ORS 285A.010
+  - ORS 455.148
+  - ORS 455.160
+  - ORS 455.465
+  - ORS 455.466
+  - ORS 455.467
+  - ORS 455.496
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2019r1
+- hb
+session_key: 2019R1
+measure_prefix: HB
+measure_number: 2497
+prefix_meaning: House Bill
+catch_line: Adds battery storage to definition of "green energy technology" for public buildings that
+  are emergency shelters or facilities for public safety.
+minority_catch_line: null
+measure_summary: "\tAdds battery storage to definition of \"green energy technology\" for public buildings\
+  \ that are emergency shelters or facilities for public safety. \n\tRequires Director of Department of\
+  \ Consumer and Business Services or appropriate municipality, if project or essential project is public\
+  \ building with anticipated cost of $1 million or more, to conduct plan review of project or essential\
+  \ project that determines and verifies that contracting agency that conducts procurement for project\
+  \ or essential project has complied with requirements to set aside 1.5 percent of contract price to\
+  \ include green energy technology in construction, reconstruction or major renovation of public building.\
+  \ Provides that building permit for project or essential project may not be issued until contracting\
+  \ agency complies with requirements. \n\tBecomes operative on January 1, 2020. \n\tTakes effect on 91st\
+  \ day following adjournment sine die."
+relating_to: Relating to green energy technology requirements for public buildings; prescribing an effective
+  date.
+relating_to_full: Relating to green energy technology requirements for public buildings; creating new
+  provisions; amending ORS 279C.527, 455.466 and 455.467; and prescribing an effective date.
+at_the_request_of: (at the request of Oregon Solar Energy Industries Association)
+lc_number: 3009
+measure_created_date: '2018-12-19T14:37:18'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 22193
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.108
+  - ORS 174.109
+  - ORS 276.900
+  - ORS 276.905
+  - ORS 279A.010
+  - ORS 279C.527
+  - ORS 279C.528
+  - ORS 285A.010
+  - ORS 455.148
+  - ORS 455.160
+  - ORS 455.465
+  - ORS 455.466
+  - ORS 455.467
+  - ORS 455.496
+  from_relating_to_full:
+  - ORS 279C.527
+  - ORS 455.466
+  - ORS 455.467
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2497`.
+
+# HB 2497 — 2019 Regular Session (2019R1)
+
+## At a glance
+
+- **Measure:** House Bill 2497, 2019 Regular Session (2019R1)
+- **At the request of:** (at the request of Oregon Solar Energy Industries Association)
+- **LC number:** 3009
+- **Created:** 2018-12-19T14:37:18
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 22193 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2497/Introduced>.
+
+## Summary
+
+**Catchline:** Adds battery storage to definition of "green energy technology" for public buildings that are emergency shelters or facilities for public safety.
+
+**Relating to:** Relating to green energy technology requirements for public buildings; prescribing an effective date.
+
+Adds battery storage to definition of "green energy technology" for public buildings that are emergency shelters or facilities for public safety. 
+ Requires Director of Department of Consumer and Business Services or appropriate municipality, if project or essential project is public building with anticipated cost of $1 million or more, to conduct plan review of project or essential project that determines and verifies that contracting agency that conducts procurement for project or essential project has complied with requirements to set aside 1.5 percent of contract price to include green energy technology in construction, reconstruction or major renovation of public building. Provides that building permit for project or essential project may not be issued until contracting agency complies with requirements. 
+ Becomes operative on January 1, 2020. 
+ Takes effect on 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to green energy technology requirements for public buildings; creating new provisions; amending ORS 279C.527, 455.466 and 455.467; and prescribing an effective date.
+
+## Full text
+
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+House Bill 2497
+Sponsored by Representative HOLVEY (at  the request of Oregon Solar Energy Industries Association) (Presession
+filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Adds battery storage to definition of “green energy technology” for public buildings that  are
+emergency shelters or facilities for public safety.
+Requires Director of Department of Consumer and Business Services or appropriate munici-
+pality, if project or essential project is public building with anticipated cost of $1 million or  more,
+to conduct plan review of project or essential project that  determines and verifies that contracting
+agency that conducts procurement for project or essential  project has complied with requirements
+to set aside 1.5  percent of contract price to include green energy technology in construction, re-
+construction or major renovation of public building. Provides that building permit for  project or
+essential project may not be issued until contracting agency complies with requirements.
+Becomes operative on January 1, 2020.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to green energy technology requirements for public buildings; creating  new provisions;
+amending ORS 279C.527, 455.466 and 455.467; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 279C.527 is amended to read:
+279C.527. (1) As used in this section and ORS 279C.528:
+(a)(A) “Green energy technology” means a system that employs:
+(i) Solar  or geothermal energy directly for space or water heating or to generate electricity;
+[or]
+(ii) Building design that uses solar  energy passively to reduce energy use from other sources
+by at least 20 percent from a level required under ORS 276.900  to 276.915 or achieved in buildings
+constructed according to state building code standards that the  Department of Consumer and Busi-
+ness Services approves under ORS 455.496[ .]; or
+(iii) Battery storage, if the public building  that uses battery storage is an emergency
+shelter or a facility for public safety and if the  battery storage is part of a system that
+generates electricity from solar or geothermal energy on the site of the public building.
+(B) “Green energy technology” does not include a system that:
+(i) Uses water, groundwater or the ground as a heat source  at temperatures less than 140 de-
+grees Fahrenheit, or less than 128 degrees Fahrenheit if the system  is used for a public school
+building; or
+(ii) Incorporates solar energy indirectly into other methods for generating energy, such as  from
+the action of waves on water, from hydroelectric facilities or from wind-powered turbines.
+(b) “Public building” means a building that a public body, as defined in  ORS 174.109, owns or
+controls, and that is:
+(A) Used or occupied by employees of the public body; or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3009
+(B) Used for conducting public business.
+(c)(A) “Woody biomass  energy technology” means a system that, for space or water heating or
+as a combined  heat and power system, uses a boiler with a lower heating value combustion effi-
+ciency of at least  80 percent and that uses as fuel material from trees and woody plants, such as
+limbs, tops, needles, leaves and other woody parts, that:
+(i) Grows in  a forest, a woodland, a farm, a rangeland or a wildland that borders on an urban
+area; and
+(ii) Is a by-product of forest management, agriculture, ecosystem restoration  or fire prevention
+or related activities.
+(B) “Woody biomass energy technology” does not include a system that uses for fuel:
+(i) Wood pieces that have been  treated with creosote, pentachlorophenol, chromated copper
+arsenate or other chemical preservatives; or
+(ii) Municipal solid waste.
+(2)(a) Except as otherwise provided in this section,  a contracting agency that intends to enter
+into a public improvement contract for constructing a public building or for reconstructing  or per-
+forming a major renovation of a public building, if the cost of the reconstruction or major renovation
+exceeds 50 percent of the value of the public building, shall first make a determination  under sub-
+section (3) of this section as  to whether green energy technology is appropriate for the public
+building and, if the  contracting agency determines that green energy technology is appropriate, shall
+ensure that the public improvement contract provides an amount equal to at least 1.5 percent of  the
+total contract price for the purpose of including  appropriate green energy technology as part of the
+construction, reconstruction or major renovation of the public building.
+(b) A public improvement contract to construct, reconstruct or renovate a public building may
+provide for constructing  green energy technology , other than battery storage,  at a site that is
+located away from the site of the public building if:
+(A) Constructing green energy technology away from the site of  the public building and using
+the energy from the green energy technology at the site of the public  building is more cost-effective,
+taking into account additional costs associated with transmitting generated energy to the  site of the
+public building, than is constructing and using green energy technology at the site of  the public
+building;
+(B) The  green energy technology that is located away from the site of the public building is lo-
+cated within this state and in the same county as, or in a county adjacent to, the site  of the public
+building; and
+(C) The public improvement contract provides that all of the moneys for constructing green en-
+ergy technology away from the site of the public building must fund  new energy generating capacity
+that does not  replace or constitute a purchase and use of energy generated from green energy
+technology that:
+(i) Employs solar  energy and that existed on the date that the original building permit for the
+public building was issued; or
+(ii) Employs geothermal energy and for which construction was completed before January 1,
+2013.
+(c) In evaluating whether a contracting agency can construct green energy technology , other
+than battery storage,  at a site away from the site of the public building in accordance with  para-
+graph (b)(A) of this subsection, the contracting agency  shall compare the costs of constructing green
+energy technology that employs a particular fuel source or method of energy generation at the site
+of the public building  only with the corresponding costs of green energy technology that employs
+the same fuel source or method of energy generation at a location away from the site of the public
+building.
+(d)(A) As an alternative to including appropriate green energy  technology as part of the con-
+struction, reconstruction or major renovation of a public building, a contracting  agency may include
+woody biomass energy technology as part  of constructing, reconstructing or performing a major
+renovation on the public building if the  woody biomass energy technology creates new energy gen-
+eration capacity that did not exist  on the date on which the original building permit for the public
+building was issued, the contracting agency has considered the potential costs of the  woody biomass
+energy technology and:
+(i) The facility that uses  woody biomass energy technology is located in an area of the state that
+complies with standards that the Department of Environmental  Quality has adopted for emissions
+of particulate matter; or
+(ii) The contracting agency demonstrates  to the Department of Environmental Quality, if the
+facility that uses woody biomass energy technology is located in an area  that does not comply with
+standards the department has adopted for emissions of particulate matter, that one of the  following
+two conditions applies:
+(I) The fuel that the woody biomass energy technology uses is pelletized; or
+(II) The woody biomass energy technology produces particulate matter emissions at  the same
+level as, or a lower  level than, a functionally equivalent system that is capable of producing the
+same energy output and that uses fuel that is pelletized.
+(B) Notwithstanding a contracting  agency’s demonstrations in accordance with subparagraph
+(A)(ii) of this  paragraph, the Department of Environmental Quality may require additional emissions
+control technologies or specifications before the  contracting agency may include woody biomass
+energy technology in the construction, reconstruction or major renovation of a public building.
+(3) In making a determination as to whether green energy technology is appropriate,  or whether
+woody biomass energy technology is a suitable alternative to green  energy technology, in con-
+structing, reconstructing or performing a major renovation of a public  building, a contracting
+agency shall list  in the determination the total contract price and specify the amount the agency
+intends to  expend on including green energy technology or woody biomass energy technology as part
+of the construction, reconstruction or major renovation. The State Department of  Energy shall de-
+velop a form that a contracting agency may use to prepare the written determination described in
+this subsection.
+(4)(a) If the contracting agency determines  that green energy technology is not appropriate for
+the public building, subsection (2) of this section does not apply to the public improvement contract,
+except that if the contracting agency  determines that woody biomass energy technology is a suitable
+alternative, the contracting agency  will make the determination specified in subsection (3) of this
+section  for  the woody biomass energy technology. A contracting agency’s determination under this
+paragraph must consider whether constructing  green energy technology or woody biomass energy
+technology at the  site of the public building is appropriate and whether constructing green energy
+technology , other than battery storage,  or woody biomass energy technology away from the  site
+of the  public building and in accordance with subsection (2)(b) and (c) of this section, or with sub-
+section (2)(d) of this section, as applicable, is appropriate.
+(b) If subsection (2) of this section does not apply to the public improvement contract:
+(A) The contracting agency shall spend an amount equal to  at least 1.5 percent of the total
+contract price to include appropriate green energy technology or woody  biomass energy technology
+as part of a future public building project; and
+(B) The amount the contracting agency spends on the future public building project in  accord-
+ance with subparagraph (A) of  this paragraph is in addition to any amount required under sub-
+section (2) of this section for including appropriate  green energy technology or woody biomass
+energy technology as part of the future public building project.
+(5)(a) A contracting agency need not set  aside the amount described in subsection (4)(b) of this
+section in an account or otherwise reserve moneys for a  future public building at the time the
+contracting agency makes  the determination described in subsection (3) of this section, but the
+contracting agency shall report the amount described in subsection (4)(b) of this  section to the State
+Department of Energy as provided in ORS 279C.528 (2).
+(b) Subsection (4)(b) of this section does not apply to a public improvement contract for  which
+state funds are not directly or indirectly used.
+(6)(a) This section does not exempt an authorized state agency, as defined in ORS 276.905,  from
+complying with ORS 276.900 to 276.915, except that an authorized state agency, without  complying
+with ORS 276.900 to 276.915, may  determine that green energy technology or woody biomass energy
+technology is appropriate to include as part of constructing,  reconstructing or performing a major
+renovation of a public building.
+(b) A contracting agency may not use an amount described in subsection  (4)(b) of this section
+to comply  with requirements set forth in ORS 276.900 to 276.915 or with a state building code
+standard that the Department of Consumer and Business Services approves under ORS 455.496.
+(7) Notwithstanding the provisions of ORS 174.108 (3), this section applies to intergovernmental
+entities described in ORS 174.108 (3).
+SECTION 2.  ORS 455.466 is amended to read:
+455.466. (1) As used in this section, “essential project” means a:
+(a) State owned or operated development;
+(b) Development  of industries in the traded sector as defined in ORS 285A.010 for structures
+more than 100,000 square feet in size;
+(c) Project in an industrial site listed by the  Oregon Business Development Department as ready
+for development and for which the project  construction totals more than 100,000 square feet in size;
+or
+(d) Development designated  by the Director of the Oregon Business Development Department
+as essential to the economic well-being of the state.
+(2) Notwithstanding any municipal building inspection  program under ORS 455.148 or 455.150,
+an applicant for a building permit for an  essential project or the municipality having jurisdiction
+over an essential project may  request in writing that the Department of Consumer and Business
+Services administer and enforce the state building code for the project.
+(3) Upon receipt by the Department of Consumer and Business Services  of a written request
+under this section, the Director  of the Department of Consumer and Business Services shall assem-
+ble a rapid approval assessment team consisting of such department  employees and other persons
+as the director considers appropriate. The purpose of the rapid approval assessment team shall be
+to provide assistance and advice to the director.
+(4) The Director of the Department of Consumer and Business Services, in consultation with  the
+rapid approval assessment team, shall determine whether  adequate resources are available to ensure
+that an essential project may proceed in a  timely, consistent and flexible manner. In determining the
+availability of resources under this subsection, the  director and the rapid approval assessment team
+shall give first consideration to the availability of municipal resources.  If the director determines
+that municipal resources may  be inadequate for the essential project, the director may consider
+whether state resources or a combination of municipal  and state resources is available to ensure
+that the essential  project may proceed in a timely, consistent and flexible manner. A determination
+by the director under this subsection is not appealable.
+(5) The Director of the Department  of Consumer and Business Services may take all actions that
+the director considers reasonable and necessary to ensure that an essential project may  proceed in
+a timely, consistent and flexible manner, including but not limited to:
+(a) Establishing policies, procedures and rules as necessary;
+(b) Working directly with local municipalities and other state agencies  to resolve conflicts and
+disputes related to the state building code;
+(c) Encouraging cooperation between state and municipal building officials and inspectors;
+(d) Developing agreements;
+(e) Developing site-specific dispute resolution  and appeals related to state building code re-
+quirements;
+(f) Expediting, coordinating or providing building inspection program plan review,  permitting
+and inspection services;
+(g) Assisting a municipality or seeking assistance from a municipality; and
+(h) Establishing fees to cover the cost of provided services.
+(6)(a) As used in this subsection:
+(A) “Contracting agency” has the meaning given that term in ORS 279A.010.
+(B) “Public building” has the meaning given that term in ORS 279C.527.
+(b) If an essential project is a public building with an anticipated cost of $1 million  or
+more, the director or a municipality, as  appropriate, shall conduct a plan review that, at a
+minimum, determines and  verifies that the contracting agency that conducted the procure-
+ment for the essential project has complied with the requirements set forth in ORS  279C.527.
+If the director or the municipality finds that the contracting  agency has not complied with
+the requirements, a building  permit may not be issued for the essential project until the
+contracting agency has complied.
+SECTION 3.
+ ORS 455.467 is amended to read:
+455.467. (1) Except as provided in subsection (2) of this section, for  specialty code plan reviews
+of simple low-rise residential dwellings, the Department of  Consumer and Business Services or a
+municipality that administers a building inspection program under ORS  455.148 or 455.150 shall ap-
+prove or disapprove the specialty code building plan:
+(a) For a jurisdiction with a  population that is less than 300,000, within 10 business days of re-
+ceiving a complete application, or shall implement the process described in ORS 455.465.
+(b) For a jurisdiction with a population that is 300,000 or more, within 15  business days of re-
+ceiving a complete application, or shall implement the process described in ORS 455.465.
+(2) The 10-day and 15-day requirements in subsection (1) of this section do not apply if:
+(a) The plan requires approval by federal, state or local agencies outside the jurisdiction of  the
+issuing agency;
+(b) The plan is for a complex structure that requires additional review as determined by the
+department or municipality; or
+(c) Based on conditions that exist in the affected municipality, the Director of the  Department
+of Consumer and Business Services authorizes a different plan review schedule as described in  a
+building inspection program submitted under ORS 455.148 or 455.150.
+(3) For specialty code plan reviews of commercial structures, a municipality shall include in  its
+building inspection program submitted under ORS 455.148  or 455.150 a process for plan review ser-
+vices. The municipality shall include in its program  detailed reasons supporting the proposed plan
+review process. The plan review services provided by the municipality shall:
+(a) Allow an applicant to defer the submittal of plans for one  or more construction phases for
+a commercial construction project in accordance with the state building code; and
+(b) Allow an applicant to receive permits for each  of the phases of a commercial construction
+project as described in the state building code when the plan review for that phase is approved.
+(4) For a phased commercial construction  project as described in subsection (3) of this section,
+the municipality shall  inform the applicant of the detailed plans necessary for each phase of the
+project and the estimated time for initial and phased review of the building plans for  conformance
+with the state building code.
+(5) An applicant submitting  plans under subsection (3) of this section is responsible for ensuring
+that the project meets  all specialty code requirements and that the project does not proceed beyond
+the level of approval authorized by the building official.
+(6) A municipality that repeatedly fails to meet the plan review period described  in this section
+or otherwise authorized in its building inspection program submitted under  ORS 455.148 or 455.150
+shall be considered to be engaging in a pattern of conduct of failing to provide timely plan  reviews
+under ORS 455.160.
+(7)(a) As used in this subsection:
+(A) “Contracting agency” has the meaning given that term in ORS 279A.010.
+(B) “Public building” has the meaning given that term in ORS 279C.527.
+(b) If  a project is a public building with an anticipated cost of $1 million or more, the
+director or a municipality, as appropriate,  shall conduct a plan review that, at a minimum,
+determines and verifies that the contracting agency  that conducted the procurement for the
+project has complied with the requirements set forth in ORS 279C.527. If the director or the
+municipality finds that the contracting agency  has not complied with the requirements, a
+building permit may not be issued for the project until  the contracting agency has complied.
+SECTION 4.
+The amendments to ORS 279C.527, 455.466 and  455.467 by sections 1 to 3 of
+this 2019 Act apply to  procurements that a contracting agency first advertises or otherwise
+solicits or, if the contracting agency  did not advertise or otherwise solicit the procurement,
+to public contracts into which the contracting agency enters on or after the operative  date
+specified in section 5 of this 2019 Act.
+SECTION 5. (1) The amendments to ORS 279C.527, 455.466 and 455.467 by sections 1  to 3
+of this 2019 Act become operative on January 1, 2020.
+(2) The Director of the State Department of Energy may adopt rules and take any other
+action before the operative date specified in subsection (1) of  this section that is necessary
+to enable the director, on and after the operative date specified  in subsection (1) of this
+section, to exercise  all of the duties, functions and powers conferred on the director by the
+amendments to ORS 279C.527, 455.466 and 455.467 by sections 1 to 3 of this 2019 Act.
+SECTION 6. This 2019 Act takes effect on the 91st day after the date on  which the 2019
+regular session of the Eightieth Legislative Assembly adjourns sine die.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 279C.527, ORS 455.466, ORS 455.467
+- From bill text (Introduced version): ORS 174.108, ORS 174.109, ORS 276.900, ORS 276.905, ORS 279A.010, ORS 279C.527, ORS 279C.528, ORS 285A.010, ORS 455.148, ORS 455.160, ORS 455.465, ORS 455.466, ORS 455.467, ORS 455.496
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `6ea29d7283527908c5d39bd69f934ee78a3377ffb9d7273d4a2e98a7ac2ce2a7` (snapshot `_meta/snapshots/measure-2019r1-hb2497-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2497/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2497` (part of the batched per-session fetch), sha256 `ae6df4298c0af5cc5dddaadd86050dfbe3c0b9a75f4a0da8096eff6dafa219d2` of the shared session snapshot `_meta/snapshots/measures-2019r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

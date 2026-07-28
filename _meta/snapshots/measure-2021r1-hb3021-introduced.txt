@@ -1,0 +1,192 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 3021
+Sponsored by Representative PHAM
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires Secretary of State to create and make  publicly available list of five most common
+languages spoken by residents of state.
+Requires Secretary of State and county to  ensure state voters’ pamphlet and county voters’
+pamphlet are translated into each of five identified languages and  to make translated voters’ pam-
+phlets available on county website. Requires voters’  pamphlets to include, in each of five identified
+languages, website address for translated voters’ pamphlet.
+Applies to voters’ pamphlets distributed on or after January 1, 2023.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to multilingual election materials; creating  new provisions; amending ORS 251.026 and
+251.315; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2021 Act is added to and made a part of ORS chapter 251.
+SECTION 2. (1) The Secretary of State shall create and make publicly available  a list of
+the five most common languages spoken by residents of this state.  The secretary must up-
+date the list created under this subsection on a biennial basis.
+(2) For each state voters’ pamphlet and county voters’ pamphlet mailed to  residents of
+a county, the Secretary of State and the county clerk shall:
+(a) Ensure the voters’ pamphlet is  professionally translated into each language identified
+by the Secretary of State under subsection (1) of  this section for posting on the website of
+the county;
+(b) Make each translation  of the voters’ pamphlet available on the website of the county;
+and
+(c) Prominently provide the website address  for each translation in the manner set forth
+in ORS 251.026 and 251.315.
+SECTION 3.  ORS 251.026 is amended to read:
+251.026. (1)  The Secretary of State shall prepare and have printed in the voters’ pamphlet for
+the state primary election, the general  election and any special election described in ORS 251.022
+a statement containing, if applicable:
+(a) Requirements for a citizen to qualify as an elector.
+(b) When an elector is required to register or update a registration.
+(c) In the voters’ pamphlet for the primary election,  a statement of the duties and responsibil-
+ities of a precinct committeeperson to be elected at the primary election.
+(d) Any other information the Secretary of State  considers relevant to the conduct of the
+election.
+(2) The Secretary of State , in cooperation with the county clerks,  shall include :
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1952
+HB 3021
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) A statement on the cover of  the voters’ pamphlet that the pamphlet may be used to assist
+electors in voting[ .]; and
+(b)(A) Statements on the first page of  the voters’ pamphlet that, for residents of each
+county to which the voters’ pamphlet is distributed:
+(i) Are written in the five languages  identified by the Secretary of State under section 2
+of this 2021 Act;
+(ii) Explain that an electronic copy of the voters’ pamphlet is publicly available  in that
+language; and
+(iii) Provide the website address to the translated voters’ pamphlet.
+(B) The statements  required under subparagraph (A) of this paragraph must be written
+in at least 12-point boldfaced type.
+(C) The Secretary of State may adopt rules necessary to implement this paragraph.
+(3) The Secretary of State may include in the voters’ pamphlet the following information:
+(a) Maps showing the boundaries of senatorial and representative districts.
+(b) Voter registration forms.
+(c) Elector instructions,  including the right of an elector to request a second ballot if the first
+ballot is spoiled and the right of an elector to seek assistance in marking the ballot.
+(4)(a) The name of the county clerk or other filing officer may not appear in the voters’ pamphlet
+in the county  clerk’s or filing officer’s official capacity if the county clerk or filing officer is a
+candidate in the election for which the voters’ pamphlet is printed.
+(b) As used in this subsection, “filing officer” has the meaning given that term in ORS 254.165.
+SECTION 4.
+ ORS 251.315 is amended to read:
+251.315. (1) If a county produces a county voters’ pamphlet, the county voters’ pamphlet shall
+include, when applicable, at least the following information:
+(a) Requirements for a citizen to qualify as an elector.
+(b) Requirements for registration and updates of registration.
+(c) Elector instructions, including the right of an elector to request a second ballot if  the first
+ballot is spoiled and the right of an elector to seek assistance in marking the ballot.
+(d) The  hours and locations of places designated under ORS 254.470 for deposit of official ballots.
+(e) Any  portraits and statements relating to candidates submitted in accordance with the pro-
+visions of ORS 251.305 to 251.435.
+(f) Any ballot titles, explanatory statements and arguments submitted in accordance with the
+provisions of ORS 251.305 to 251.435.
+(g)(A) Statements on the first page of the voters’ pamphlet that:
+(i) Are written in the five languages identified by the  Secretary of State under section 2
+of this 2021 Act;
+(ii) Explain that  an electronic copy of the voters’ pamphlet is publicly available in that
+language; and
+(iii) Provide the website address to the translated voters’ pamphlet.
+(B) The statements required under subparagraph (A) of this paragraph must  be written
+in at least 12-point boldfaced type.
+(C) The Secretary of State may adopt rules necessary to implement this paragraph.
+[(g)] (h)  Such other information as the county  clerk considers to be appropriate or necessary to
+inform the voters.
+(2) The county clerk shall mail or otherwise distribute the county voters’ pamphlet not later
+[2]
+HB 3021
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+than the last day for mailing ballots to electors as provided in ORS 254.470.
+(3)(a) The name of the county clerk or other filing officer may not appear in the county voters’
+pamphlet in the county clerk’s or filing officer’s official  capacity if the county clerk or filing officer
+is a candidate in the election for which the voters’ pamphlet is printed.
+(b) As used in this subsection, “filing officer” has the meaning given that term in ORS 254.165.
+SECTION 5.
+Section 2 of this 2021 Act and the amendments to ORS 251.026 and  251.315
+by sections 3 and 4 of this 2021 Act apply to all voters’ pamphlets  distributed on or after
+January 1, 2023.
+SECTION 6. This 2021 Act takes effect on the 91st day after the date on  which the 2021
+regular session of the Eighty-first Legislative Assembly adjourns sine die.
+[3]

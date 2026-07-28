@@ -1,0 +1,393 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+80th OREGON LEGISLATIVE ASSEMBLY--2020 Regular Session
+House Bill 4163
+Sponsored by JOINT COMMITTEE ON WAYS AND MEANS
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Changes date of Legislative Fiscal Office report on liquidated and delinquent accounts.
+Eliminates requirement that Joint Committee on Ways and Means include maximum supervisory
+ratios in budget notes and reports.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to state financial administration; amending ORS 291.227, 293.229 and 293.252; and declaring
+an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 293.229 is amended to read:
+293.229. (1) Not later than October 1 of each fiscal year, each  state agency shall submit a report
+to the Legislative Fiscal Office that describes the  status of that agency’s liquidated and delinquent
+accounts and efforts made by that agency to collect liquidated and delinquent accounts during the
+previous fiscal year. The report required under this subsection shall be in a form prescribed by the
+Legislative Fiscal Office and shall include but not be limited to:
+(a) Beginning balance and total number of all liquidated and delinquent accounts;
+(b) New liquidated and delinquent accounts added during the last preceding fiscal year;
+(c) Total collections of liquidated and delinquent accounts;
+(d) Total amount and total number of liquidated and delinquent accounts that have been written
+off;
+(e) Total number and ending balance of all liquidated and delinquent accounts;
+(f) Total amount of liquidated and delinquent accounts assigned to the Department  of Revenue
+and the total amount collected by the department under ORS 293.250;
+(g) Total amount of liquidated and delinquent accounts  assigned to private collection agencies
+and the total amount collected by private collection agencies under ORS 293.231;
+(h) Total number and total amount of all liquidated and delinquent  accounts exempted under
+ORS 293.233;
+(i) Total number  and ending balance of all liquidated and delinquent accounts that have been
+placed in suspended collection status under ORS 305.155; and
+(j) A statement indicating whether the agency has liquidated and delinquent accounts that  are
+not exempt under ORS 293.233, or are otherwise prohibited or exempted by  law from assignment, for
+which no payment has been received for more than 90 days and that have not been assigned to  the
+Department of Revenue under ORS 293.231.
+(2) If a state agency reports under subsection (1) of this  section that the total ending balance
+of its liquidated and delinquent accounts is $50 million or greater, the  state agency shall, not later
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 295
+HB 4163
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+than three months after it submits the report under subsection (1) of  this section, submit an addi-
+tional report to the committees or interim committees of the Legislative Assembly related to ways
+and means that:
+(a) Describes major categories of liquidated and delinquent accounts held by the state agency;
+(b) Describes circumstances under which the state agency writes off or adjusts  liquidated and
+delinquent amounts or removes an account from liquidated and delinquent status;
+(c) Describes actions undertaken  by the state agency to reduce the amount of liquidated and
+delinquent debt owed to it at the end of each fiscal year; and
+(d) Sets forth a plan for future actions that will reduce  the amount of liquidated and delinquent
+debt owed to the state agency at the end of each  fiscal year and describes any additional resources
+that are necessary to carry out the plan.
+(3) The Legislative Fiscal Office shall produce an annual report  not later than [ December 31 ]
+February 1 of each fiscal year on the status of liquidated and delinquent accounts of state  agencies
+and the judicial branch of state government. The report shall be based on the reports  submitted by
+state agencies as required in this  section and on reports submitted by the judicial branch of state
+government under ORS 1.195.
+(4) The report required under subsection (3) of this section shall:
+(a) List those state agencies, including the judicial branch of state government, that have liqui-
+dated and delinquent accounts that are not exempt under ORS 1.198, 1.199 or 293.233, or are other-
+wise prohibited or exempted by law from assignment,  for which no payment has been received for
+more than 90 days and that have not been assigned to a private collection agency  or to the De-
+partment of Revenue under ORS 1.197 or assigned to the Department of Revenue under 293.231;
+(b) List separately information about the liquidated and delinquent accounts of the Secretary
+of State, the State Treasurer, other state agencies in the executive branch of state  government and
+the judicial branch of state government; and
+(c) Include any other information the Legislative Fiscal Office determines is necessary to  de-
+scribe the status of liquidated and delinquent accounts across offices and branches  of state govern-
+ment.
+(5) Notwithstanding ORS 293.227, as used in this section, “state agency” has the  meaning given
+that term in ORS 293.226, except that it:
+(a) Does not include the  judicial department as defined in ORS 174.113 or the legislative de-
+partment as defined in ORS 174.114; and
+(b) Includes public universities listed in ORS 352.002 and  Oregon Health and Science University,
+notwithstanding ORS 352.138 and 353.100.
+SECTION 2.
+ ORS 293.252 is amended to read:
+293.252. (1) The Oregon Department of Administrative Services shall  monitor state agency debt
+collection functions described by law and  assist state agencies in efforts to improve the collection
+of delinquent debts owed to state agencies.  The department’s duties under this subsection include,
+but are not limited to:
+(a) Providing training to state agencies regarding processing and managing accounts  receivable
+in compliance with applicable law and state policies.
+(b) Providing technical assistance to state agencies in resolving challenges in processing and
+managing accounts receivable and developing financial administrative systems  to improve the han-
+dling of liquidated and delinquent accounts.
+(c) Developing performance standards for state  debt collection, including but not limited to
+[2]
+HB 4163
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+standards defining what constitutes liquidated  and delinquent accounts and when debt may be
+written off pursuant to ORS 293.240.
+(d) Working with state agencies to improve the quality and value of data that each  state agency
+submits to the Legislative Fiscal Office for purposes of ORS 293.229.
+(e) Submitting an annual management report  to the Legislative Assembly not later than [ De-
+cember 31 ] February 1 of each fiscal  year, in conjunction with the report of the Legislative Fiscal
+Office produced under ORS 293.229, that identifies important  issues and significant trends in state
+agency debt collection practices and describes and evaluates  efforts by state agencies to improve
+the collection of delinquent debt.
+(2) The department shall adopt policies:
+(a) Providing  guidance for the collection of liquidated and delinquent accounts owing to state
+agencies.
+(b) Setting procedures for state agencies to account for and manage  information regarding the
+agency’s liquidated and delinquent accounts.
+(c) After consultation with  the Attorney General, setting criteria for effective and efficient as-
+signment of liquidated and delinquent accounts to the  Department of Revenue or private collection
+agencies, and setting performance measurements to be used in the application of the criteria.
+(d) For the allocation, form and amount of charges or fees added to  liquidated and delinquent
+accounts under ORS 293.231, 293.250 and 697.105.
+(e) Setting exemptions or adjustments for state agencies that are prohibited  by law from adding
+or collecting fees under ORS 293.231, 293.250 or 697.105 and for  agencies for which the addition or
+collection of the fees is not feasible given the agency resources available for collection of accounts
+receivable.
+(f) For the improvement of  communications regarding liquidated and delinquent accounts among
+state agencies and between private collection agencies and the Department of Revenue.
+(g) Describing  conditions under which a state agency may request and collect Social Security
+numbers in accordance with state and federal law when it is reasonably  foreseeable that a person
+may owe  the state agency a liquidated and delinquent amount as a result of a transaction or activ-
+ity.
+(h) After consultation with the Attorney General, setting criteria  under which state agencies,
+the Department of Revenue and private  collection agencies may propose and accept offers of com-
+promise as provided in ORS 293.240.
+(3) As used in this section, “state agency” has the meaning given that  term in ORS 293.226,
+except that it does not include the judicial department as defined in  ORS 174.113, the Secretary of
+State or the State Treasurer.
+SECTION 3.
+ ORS 291.227 is amended to read:
+291.227. (1)(a) As part of the development of the legislatively  adopted budget, each state agency
+that employs more than 100 employees shall report to the Joint Committee  on Ways and Means the
+state agency’s maximum supervisory ratio for the biennium.
+(b) Before submitting the report to the committee, a state agency shall provide  a copy of the
+report to all labor organizations that represent employees of the state agency.
+(2) A state agency must determine  its maximum supervisory ratio by starting from a baseline
+ratio of one to 11 and adjusting the ratio based on some or all of the following factors:
+(a) Safety of the public or of state agency employees;
+(b) Geographic location of the agency’s employees;
+[3]
+HB 4163
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Complexity of the agency’s duties;
+(d) Industry best practices and standards;
+(e) Size and hours of operation of the agency;
+(f) Unique personnel needs of the agency, including the agency’s use of  volunteers or seasonal
+or temporary employees, or the exercise of supervisory authority by agency supervisory  employees
+over personnel who are not agency employees; and
+(g) Financial scope and responsibility of the agency.
+(3) The Joint Committee on Ways and Means shall review  the maximum supervisory ratios re-
+ported by state agencies. [ The committee  shall include the maximum supervisory ratio in a budget
+report or budget note for each state agency that reported a maximum supervisory ratio. ]
+(4) Subject to subsection (5) of this section, a state agency whose actual supervisory  ratio is
+greater than its maximum supervisory ratio may not fill a supervisory position.
+(5)(a) The Oregon Department of Administrative Services may  exempt a state agency from the
+limitations of subsection (4)  of this section if the department determines that an additional supervi-
+sory position is reasonably necessary to the state agency. The department must make  the determi-
+nation with reference to some or all of the factors set forth in subsection (2) of this section.
+(b) At least five  business days before granting an exemption under this subsection, the depart-
+ment shall notify all labor organizations that represent employees of the state agency of its  intent
+to grant the exemption.
+(6)(a) The department shall, once per quarter, produce reports on the actual  supervisory ratio
+of each state agency. The reports must include data on  job families within each state agency to the
+extent such data is reasonably available.
+(b) The department shall make the  reports publicly available on the Internet and shall notify
+all labor organizations that represent state employees when the reports are available.
+(7) The department may  adopt rules for the administration of this section, including rules gov-
+erning how temporary, seasonal or part-time employees are accounted for in the calculation of a
+supervisory ratio.
+(8) As used in this section:
+(a) “Job families” means groups of occupations based upon work performed, skills,  education,
+training and credentials.
+(b) “Legislatively adopted budget” has the meaning given that term in ORS 291.002.
+(c)(A) “State agency”  means all state officers, boards, commissions, departments, institutions,
+branches, agencies, divisions and other entities, without regard to the designation given to  those
+entities, that are within the executive branch of government as  described in Article III, section 1,
+of the Oregon Constitution.
+(B) “State agency” does not include:
+(i) The legislative department as defined in ORS 174.114;
+(ii) The judicial department as defined in ORS 174.113;
+(iii) The Public Defense Services Commission;
+(iv) The Secretary of State and the State Treasurer;
+(v) Semi-independent state agencies listed in ORS 182.454;
+(vi) The Oregon Tourism Commission;
+(vii) The Oregon Film and Video Office;
+(viii) Public universities listed in ORS 352.002;
+(ix) The Oregon Health and Science University;
+[4]
+HB 4163
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+(x) The Travel Information Council;
+(xi) Oregon Corrections Enterprises;
+(xii) The Oregon State Lottery Commission;
+(xiii) The State Accident Insurance Fund Corporation;
+(xiv) The Oregon Utility Notification Center;
+(xv) Oregon Community Power;
+(xvi) The Citizens’ Utility Board;
+(xvii) A special government body as defined in ORS 174.117;
+(xviii) Any other public  corporation created under a statute of this state and specifically desig-
+nated as a public corporation; and
+(xix) Any  other semi-independent state agency denominated by statute as a semi-independent
+state agency.
+(d) “Supervisory employee” has the meaning given that term in ORS 243.650.
+(e) “Supervisory ratio” means the ratio of employees who  are supervisory employees to em-
+ployees who are not supervisory employees.
+SECTION 4.
+This 2020 Act being necessary for the immediate preservation of the  public
+peace, health and safety, an emergency is  declared to exist, and this 2020 Act takes effect
+on its passage.
+[5]

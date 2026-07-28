@@ -1,0 +1,32 @@
+[
+ {
+  "AtTheRequestOf": null,
+  "CatchLine": "Appropriates moneys from the General Fund to the State Forestry Department.",
+  "CreatedDate": "2024-12-09T08:02:22",
+  "LCNumber": 2,
+  "MeasureNumber": 5801,
+  "MeasurePrefix": "SB",
+  "MeasureSummary": "\tDigest: The Act makes budget changes for the current biennium. (Flesch Readability Score: 66.1). \n\tAppropriates moneys from the General Fund to the State Forestry Department. \n\tModifies certain biennial appropriations made from the General Fund to specified state agencies and the Emergency Board. \n\tEstablishes and modifies limitations on expenditures for certain biennial expenses for specified state agencies. \n\tDeclares an emergency, effective on passage.",
+  "MinorityCatchLine": null,
+  "ModifiedDate": "2024-12-18T15:53:45",
+  "PrefixMeaning": "Senate Bill",
+  "RelatingTo": "Relating to state financial administration; declaring an emergency.",
+  "RelatingToFull": "Relating to state financial administration; and declaring an emergency.\n\t",
+  "SessionKey": "2024S1"
+ },
+ {
+  "AtTheRequestOf": null,
+  "CatchLine": "Adjourns sine die the 2024 special session of the Eighty-second Legislative Assembly.",
+  "CreatedDate": "2024-12-09T08:07:12",
+  "LCNumber": 1,
+  "MeasureNumber": 301,
+  "MeasurePrefix": "SCR",
+  "MeasureSummary": "\tDigest: Ends session. (Flesch Readability Score: 77.9). \n\tAdjourns sine die the 2024 special session of the Eighty-second Legislative Assembly.",
+  "MinorityCatchLine": null,
+  "ModifiedDate": "2024-12-13T10:57:52",
+  "PrefixMeaning": "Senate Concurrent Resolution",
+  "RelatingTo": "Adjourning sine die the 2024 special session of the Eighty-second Legislative Assembly.",
+  "RelatingToFull": "\n\t",
+  "SessionKey": "2024S1"
+ }
+]

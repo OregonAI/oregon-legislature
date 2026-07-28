@@ -1,0 +1,731 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2023r1-hb2275
+title: 'HB 2275 (2023R1): Requires applicants for Student Investment Account grants to take into consideration
+  recommendations of advisory groups formed by Department of Education in relation to statewide education
+  plans.'
+doc_type: dataset_doc
+citation: 2023 Regular Session House Bill 2275
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2275/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 28ebfdbac2398270efa22753901d70c38f1d5b833e3d2d6bfe46515a7bdff0f6
+snapshot_id: measure-2023r1-hb2275-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 326.695
+  - ORS 327.013
+  - ORS 327.026
+  - ORS 327.180
+  - ORS 327.185
+  - ORS 327.190
+  - ORS 327.195
+  - ORS 327.362
+  - ORS 327.500
+  - ORS 329.095
+  - ORS 329.843
+  - ORS 338.005
+  - ORS 338.155
+  - ORS 338.165
+  - ORS 339.285
+  - ORS 340.005
+  - ORS 340.010
+  - ORS 340.015
+  - ORS 340.020
+  - ORS 340.025
+  - ORS 340.030
+  - ORS 340.035
+  - ORS 340.037
+  - ORS 340.040
+  - ORS 340.045
+  - ORS 340.050
+  - ORS 340.055
+  - ORS 340.060
+  - ORS 340.065
+  - ORS 340.075
+  - ORS 340.080
+  - ORS 340.320
+  - ORS 340.323
+  - ORS 340.326
+  - ORS 340.330
+  - ORS 348.105
+  - ORS 419A.010
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2023r1
+- hb
+session_key: 2023R1
+measure_prefix: HB
+measure_number: 2275
+prefix_meaning: House Bill
+catch_line: Requires applicants for Student Investment Account grants to take into consideration recommendations
+  of advisory groups formed by Department of Education in relation to statewide education plans.
+minority_catch_line: null
+measure_summary: "\tRequires applicants for Student Investment Account grants to take into consideration\
+  \ recommendations of advisory groups formed by Department of Education in relation to statewide education\
+  \ plans. \n\tRequires grants distributed from Student Investment Account to each site of Youth Corrections\
+  \ Education Program and Juvenile Detention Education Program to be equal to at least minimum amount\
+  \ distributed as grants to school districts. \n\tExpands authority of Department of Education to determine\
+  \ how to distribute moneys under statewide education plan related to students who are American Indian\
+  \ or Alaska Native. \n\tCondenses provisions and repeals outdated provisions related to Expanded Options\
+  \ Program. \n\tGrants discretion to Department of Education to determine how to distribute to specified\
+  \ programs appropriations made for accelerated college credit programs. \n\tChanges reporting date for\
+  \ grants awarded to certain public charter schools. \n\t<b>Excludes employees of Youth Corrections Education\
+  \ Program and Juvenile Detention Education Program from provisions of restraint and seclusion statutes.</b>\
+  \ \n\tDeclares emergency, effective on passage."
+relating_to: Relating to education; and declaring an emergency.
+relating_to_full: Relating to education; and declaring an emergency.
+at_the_request_of: (at the request of Governor Kate Brown for Department of Education)
+lc_number: 431
+measure_created_date: '2022-12-17T12:45:43'
+measure_modified_date: '2023-08-15T15:28:42'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 37732
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 326.695
+  - ORS 327.013
+  - ORS 327.026
+  - ORS 327.180
+  - ORS 327.185
+  - ORS 327.190
+  - ORS 327.195
+  - ORS 327.362
+  - ORS 327.500
+  - ORS 329.095
+  - ORS 329.843
+  - ORS 338.005
+  - ORS 338.155
+  - ORS 338.165
+  - ORS 339.285
+  - ORS 340.005
+  - ORS 340.010
+  - ORS 340.015
+  - ORS 340.020
+  - ORS 340.025
+  - ORS 340.030
+  - ORS 340.035
+  - ORS 340.037
+  - ORS 340.040
+  - ORS 340.045
+  - ORS 340.050
+  - ORS 340.055
+  - ORS 340.060
+  - ORS 340.065
+  - ORS 340.075
+  - ORS 340.080
+  - ORS 340.320
+  - ORS 340.323
+  - ORS 340.326
+  - ORS 340.330
+  - ORS 348.105
+  - ORS 419A.010
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2275`.
+
+# HB 2275 — 2023 Regular Session (2023R1)
+
+## At a glance
+
+- **Measure:** House Bill 2275, 2023 Regular Session (2023R1)
+- **At the request of:** (at the request of Governor Kate Brown for Department of Education)
+- **LC number:** 431
+- **Created:** 2022-12-17T12:45:43
+- **Metadata last modified (upstream):** 2023-08-15T15:28:42
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 37732 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2275/Enrolled>.
+
+## Summary
+
+**Catchline:** Requires applicants for Student Investment Account grants to take into consideration recommendations of advisory groups formed by Department of Education in relation to statewide education plans.
+
+**Relating to:** Relating to education; and declaring an emergency.
+
+Requires applicants for Student Investment Account grants to take into consideration recommendations of advisory groups formed by Department of Education in relation to statewide education plans. 
+ Requires grants distributed from Student Investment Account to each site of Youth Corrections Education Program and Juvenile Detention Education Program to be equal to at least minimum amount distributed as grants to school districts. 
+ Expands authority of Department of Education to determine how to distribute moneys under statewide education plan related to students who are American Indian or Alaska Native. 
+ Condenses provisions and repeals outdated provisions related to Expanded Options Program. 
+ Grants discretion to Department of Education to determine how to distribute to specified programs appropriations made for accelerated college credit programs. 
+ Changes reporting date for grants awarded to certain public charter schools. 
+ <b>Excludes employees of Youth Corrections Education Program and Juvenile Detention Education Program from provisions of restraint and seclusion statutes.</b> 
+ Declares emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to education; and declaring an emergency.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Enrolled
+House Bill 2275
+Introduced and printed pursuant to House  Rule 12.00. Presession filed (at the request of Governor
+Kate Brown for Department of Education)
+CHAPTER .................................................
+AN ACT
+Relating to education; creating  new provisions; amending ORS 327.185, 327.195, 327.362, 329.843,
+340.015, 340.040, 340.050, 340.080  and 340.330; repealing ORS 340.010, 340.020, 340.035, 340.037,
+340.055, 340.060, 340.065 and 340.075; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+STRATEGIC PLANNING FOR STUDENT INVESTMENT ACCOUNT GRANTS
+SECTION 1.  ORS 327.185 is amended to read:
+327.185. (1) As used in this section, “eligible applicant” means any of the following entities:
+(a) Common school districts and union high school districts.
+(b) The Youth Corrections Education Program or the Juvenile Detention Education Program.
+(c) Public charter schools that are not virtual public charter schools, as defined in ORS 338.005,
+and that have a student population of which:
+(A) At least 35 percent of the student population is composed of students from the following
+student groups:
+(i) Economically disadvantaged, as described in ORS 327.180 (2)(b)(A);
+(ii) Racial or ethnic groups that have historically experienced academic disparities, as  described
+in ORS 327.180 (2)(b)(B); or
+(iii) Students with disabilities, as described in ORS 327.180 (2)(b)(C); and
+(B) The percentage of the  students from student groups identified under subparagraph (A) of this
+paragraph is greater than  or equal to :
+(i) The percentage of all students in the school  district who are economically disadvantaged, if
+eligibility is determined based on the percentage of students who are economically disadvantaged;
+(ii) The percentage of all students  in the school district who are from racial or ethnic groups
+that have historically experienced academic disparities, if eligibility is determined based on  the
+percentage of students who are from those racial or ethnic groups; or
+(iii) The percentage of all students in the school district who are disabled, if  eligibility is de-
+termined based on the percentage of students who are disabled.
+(2)(a) Eligible applicants may apply for a grant  from the Student Investment Account to receive
+a distribution under ORS 327.190.
+(b) Notwithstanding ORS 338.155 (9), a public charter school that is  not an eligible applicant
+may not apply for a grant under this section.
+(3) Prior to preparing a grant application, an eligible applicant must:
+Enrolled House Bill 2275 (HB 2275-A) Page 1
+(a) If the eligible applicant is a school district, determine whether the  school district will allow
+public charter schools sponsored by, or located within, the school  district to participate in the grant
+application and the grant agreement.
+(b) If the eligible applicant is a public charter school, determine whether  the public charter
+school intends to apply for a grant and provide notice of that intent to the school district  in which
+the public charter school is located and to the Department of Education.
+(4)(a) If an eligible applicant is a school  district and decides to include public charter schools
+in the  grant application and grant agreement, the school district must provide all public charter
+schools sponsored by, or located within, the  school district the opportunity to participate in the
+grant application and grant agreement.
+(b)(A) A public charter school is not required to participate  in the grant application and grant
+agreement of a school district.
+(B) If a public charter school does not participate  in a grant application and grant agreement
+under this subsection:
+(i) The ADMw of the public charter school may not be used in the  calculation of the school
+district ADMw for grants distributed under ORS 327.195; and
+(ii) The public charter school is not entitled to  any grant moneys distributed under ORS 327.195.
+(C) If a public charter school participates in a grant application and grant  agreement under this
+subsection:
+(i) The public charter school  and school district shall enter into an agreement for the distrib-
+ution of moneys or  the provision of services, including any accountability measures required of the
+public charter school by the school district;
+(ii) The ADMw of  the public charter school shall be used in the calculation of the school district
+ADMw for grants distributed under ORS 327.195; and
+(iii) The public  charter school is entitled to any grant moneys or services provided for in the
+agreement entered into under this subparagraph.
+(5)(a) For the purpose of preparing a grant application, an eligible applicant must determine:
+(A) Which of the allowed uses identified in ORS 327.180 (3)  the eligible applicant will fund with
+grant moneys; and
+(B) Which of the eligible uses identified under  subparagraph (A) of this paragraph the eligible
+applicant will designate to meeting student mental and behavioral health needs.
+(b) An eligible applicant shall make the determinations required under paragraph (a) of  this
+subsection by:
+(A) Engaging in strategic planning; and
+(B) Considering the  recommendations of the Quality Education Commission established under
+ORS 327.500 and recommendations from the advisory groups formed by the  Department of
+Education for the purposes of the statewide education plans  developed and implemented by
+the department.
+(6)(a) The strategic planning required under subsection (5) of this section must include:
+(A) A completed needs assessment, as described in ORS 329.095;
+(B) An analysis of the potential academic impact, both for the students of  the eligible applicant
+and for student groups identified in ORS 327.180 (2)(b), from the allowed uses that would  be funded
+by grant moneys; and
+(C) The creation of budgets for the allowed uses that would be funded by grant moneys.
+(b) The strategic planning required under subsection (5) of this section must take  into consid-
+eration:
+(A) Input from the community of the eligible applicant, including school employees, students
+from student groups identified in ORS 327.180 (2)(b) and parents of those students; and
+(B) Data collected by the eligible applicant to enable the eligible  applicant to make equity-based
+decisions.
+Enrolled House Bill 2275 (HB 2275-A) Page 2
+(7) Based on the strategic planning described in subsection (6) of this section, the eligible  ap-
+plicant shall develop a four-year plan for the use of grant moneys. The plan must be updated  every
+two years and must:
+(a) Identify  which allowed uses identified in ORS 327.180 (3) will be funded with grant moneys
+and which of those uses will be designated to meet student mental and behavioral health needs.
+(b) Describe how the allowed uses identified under paragraph  (a) of this subsection will be used
+to:
+(A) Meet students’ mental and behavioral health needs;
+(B) Increase academic achievement for students of the eligible applicant; and
+(C) Reduce academic disparities  for student groups identified in ORS 327.180 (2)(b) who are
+served by the eligible applicant, and identify which of those student groups  will benefit from the
+allowed uses that are being funded with grant moneys.
+(c) Include the budgets for the allowed uses to be funded with grant moneys.
+(d) Be approved by the governing body of the eligible applicant at an open meeting, following:
+(A) Provision of the plan at the main office of  the eligible applicant and on the eligible
+applicant’s website;
+(B) Oral presentation of  the plan by an administrator of the eligible applicant to the governing
+body of the eligible applicant; and
+(C) Opportunity for the public to comment on the plan at an open meeting.
+(e) Be a part of the local district continuous improvement plan described in ORS 329.095,  if the
+eligible applicant is a school district.
+(8) To apply for a grant, an eligible  applicant must submit an application every two years in a
+format and according to timelines prescribed  by the Department of Education. The application must
+include:
+(a) A completed needs assessment, as described in ORS 329.095;
+(b) The plan developed under subsection (7) of this section; and
+(c) Budget estimates for each of the allowed uses identified in the  plan developed under sub-
+section (7) of this section that will be funded by grant moneys.
+YCEP AND JDEP MINIMUM STUDENT INVESTMENT ACCOUNT GRANTS
+SECTION 2.
+ ORS 327.195 is amended to read:
+327.195. (1)(a) Except as provided by paragraph (d) of this subsection, the amount  of a grant
+awarded from the Student Investment Account = the grant recipient’s ADMw ×  (the total amount
+available for distribution as grants in each biennium ÷  the total ADMw of all grant recipients).
+(b) For purposes of this subsection and except as provided by paragraph (c) of this subsection,
+ADMw  equals:
+(A) For school districts, the ADMw as  calculated under ORS 327.013, except that the additional
+amount allowed for students who are in poverty  families, as determined under ORS 327.013
+(1)(c)(A)(v)(I), shall be 0.5.
+(B) For  an educational program under the Youth Corrections Education Program or the Juvenile
+Detention Education Program, as provided in ORS 327.026.
+(c) When calculating  ADMw for a school district, the Department of Education shall remove
+from the calculation any amounts that are attributable to:
+(A) A virtual public charter school, as defined in ORS 338.005;
+(B) A public charter school that provided notice  of the public charter school’s intent to apply
+for a grant as an eligible applicant; and
+(C) A public charter school sponsored by, or located within, the school  district that did not
+participate in the grant application or grant agreement.
+(d) The amount of a grant distributed under this section  may be adjusted by the department to
+ensure that:
+Enrolled House Bill 2275 (HB 2275-A) Page 3
+(A) A grant recipient does not receive  any moneys for uses that are not allowed uses under ORS
+327.180 (3).
+(B) A school district with an ADMw of 50 or less receives a minimum grant amount.
+(C) Each site of the Youth Corrections Education  Program and the Juvenile Detention
+Education Program receives a grant amount that is no  less than the minimum grant amount
+provided to a school district under subparagraph (B) of this paragraph.
+(2) The State Board of Education shall adopt any  rules necessary for the distribution of grants
+under this section, including establishing:
+(a) The minimum grant amounts under subsection (1)(d) of this section; and
+(b) Any percentages and timelines for  installment payments and adjustments of those installment
+payments.
+(3) A grant  recipient shall deposit the grant moneys the grant recipient receives under this
+section into a separate account and shall apply amounts in that  account as provided by the grant
+agreement.
+SECTION 3.
+The amendments to ORS 327.195 by section 2 of this  2023 Act first apply to
+grants awarded for the 2023-2024 school year.
+DISTRIBUTION OF MONEYS THROUGH STATEWIDE EDUCATION PLAN
+SECTION 4.  ORS 329.843 is amended to read:
+329.843. (1) As used in this section, “plan student” means a  student enrolled in early childhood
+through post-secondary education who:
+(a) Is an American Indian or Alaska Native; and
+(b) Has experienced disproportionate results in education due to historical practices, as  identi-
+fied by the State Board of Education by rule.
+(2)(a) The Department of Education shall develop and implement a statewide education  plan for
+plan students.
+(b) When developing the plan,  the department shall consult with representatives from tribal
+governments and from executive branch agencies who  have formed government-to-government re-
+lations to  focus on education. Additionally, the department may receive input from an advisory
+group consisting of  community members, education stakeholders and representatives of the Early
+Learning Division, the Youth Development Division  and the Higher Education Coordinating Com-
+mission.
+(c) The department shall be responsible for:
+(A) Implementing the plan developed under this subsection;
+(B) Developing eligibility criteria,  the applicant selection process and expectations for recipients
+of [ grant awards ] funds described in this section; and
+(C) Advising the State Board of Education on the adoption of rules under this section.
+(3) The plan developed under this section must address:
+(a) The disparities experienced by plan  students in every indicator of academic success, as
+documented by the department’s statewide report  card and other relevant reports related to plan
+students;
+(b) The historical practices leading to disproportionate outcomes for plan students; and
+(c) The  educational needs of plan students from early childhood through post-secondary educa-
+tion as determined by examining culturally appropriate  best practices in this state and across the
+nation.
+(4) The plan developed and implemented under this section must provide strategies to:
+(a) Address the disproportionate rate of disciplinary incidents involving plan students as com-
+pared to all students in the education system;
+(b) Increase parental engagement in the education of plan students;
+(c) Increase the engagement of plan students in educational activities before  and after regular
+school hours;
+Enrolled House Bill 2275 (HB 2275-A) Page 4
+(d) Increase early childhood education and kindergarten readiness for plan students;
+(e) Improve literacy and numeracy levels  among plan students between kindergarten and grade
+three;
+(f) Support plan student  transitions to middle school and through the middle school and high
+school grades to maintain and improve academic performance;
+(g) Support culturally responsive pedagogy and practices  from early childhood through post-
+secondary education;
+(h) Support the development of culturally responsive  curricula from early childhood through
+post-secondary education;
+(i) Increase attendance of plan students in early childhood  programs through post-secondary and
+professional certification programs; and
+(j) Increase attendance of plan students in four-year post-secondary institutions of education.
+(5) The  department shall submit a biennial report concerning the progress of the plan developed
+and implemented under this section to a committee of the Legislative Assembly related to education
+at each even-numbered year regular session of the Legislative Assembly.
+(6) The department, in consultation with the advisory group, shall [ award grants ] distribute
+funds to Early Learning Hubs, providers  of early learning services, school districts, education ser-
+vice districts, post-secondary institutions of education, tribal  governments and community-based or-
+ganizations to implement the strategies provided in the plan  developed and implemented under this
+section.
+(7) To qualify for and receive [ grants] funds described in  this section, an applicant must identify
+and demonstrate that the applicant meets the eligibility criteria adopted  by the State Board of Ed-
+ucation by rule.
+SECTION 5.
+ ORS 329.843, as amended by section  35, chapter 631, Oregon Laws 2021, is
+amended to read:
+329.843. (1) As used in this  section, “plan student” means a student enrolled in early childhood
+through post-secondary education who:
+(a) Is an American Indian or Alaska Native; and
+(b) Has  experienced disproportionate results in education due to historical practices, as identi-
+fied by the State Board of Education by rule.
+(2)(a) The Department of Education shall develop and implement a statewide education  plan for
+plan students.
+(b) When developing the plan, the Department of Education shall  consult with representatives
+from tribal governments and  from executive branch agencies who have formed government-to-
+government relations to focus on education. Additionally, the Department  of Education may receive
+input from an  advisory group consisting of community members, education stakeholders and repre-
+sentatives of the Department of Early Learning and Care, the Youth Development Division and  the
+Higher Education Coordinating Commission.
+(c) The Department of Education shall be responsible for:
+(A) Implementing the plan developed under this subsection;
+(B) Developing eligibility criteria,  the applicant selection process and expectations for recipients
+of [ grant awards ] funds described in this section; and
+(C) Advising the State Board of Education on the adoption of rules under this section.
+(3) The plan developed under this section must address:
+(a) The disparities experienced by plan students in every  indicator of academic success, as
+documented by the statewide report card and other relevant reports related to plan students;
+(b) The historical practices leading to disproportionate outcomes for plan students; and
+(c) The  educational needs of plan students from early childhood through post-secondary educa-
+tion as determined by examining culturally appropriate  best practices in this state and across the
+nation.
+(4) The plan developed and implemented under this section must provide strategies to:
+Enrolled House Bill 2275 (HB 2275-A) Page 5
+(a) Address the disproportionate rate of disciplinary incidents involving plan students as com-
+pared to all students in the education system;
+(b) Increase parental engagement in the education of plan students;
+(c) Increase the engagement  of plan students in educational activities before and after regular
+school  hours;
+(d) Increase early childhood education and kindergarten readiness for plan students;
+(e) Improve literacy and numeracy levels among plan  students between kindergarten and grade
+three;
+(f) Support plan student transitions to middle school and through the middle  school and high
+school grades to maintain and improve academic performance;
+(g) Support culturally responsive pedagogy and  practices from early childhood through post-
+secondary education;
+(h) Support the development of culturally  responsive curricula from early childhood through
+post-secondary education;
+(i) Increase attendance of plan students in early childhood  programs through post-secondary and
+professional certification programs; and
+(j) Increase attendance of plan students in four-year post-secondary institutions of education.
+(5) The Department of  Education shall submit a biennial report concerning the progress of the
+plan developed  and implemented under this section to a committee of the Legislative Assembly re-
+lated to education at each even-numbered year regular session of the Legislative Assembly.
+(6) The Department of Education, in consultation with  the advisory group, shall [ award grants ]
+distribute funds to Early Learning Hubs, providers of  early learning services, school districts, ed-
+ucation service districts, post-secondary institutions of education, tribal governments and
+community-based organizations to implement the  strategies provided in the plan developed and im-
+plemented under this section.
+(7) To qualify for and receive [ grants] funds described in  this section, an applicant must identify
+and demonstrate that the applicant meets the  eligibility criteria adopted by the State Board of Ed-
+ucation by rule.
+EXPANDED OPTIONS PROGRAM
+SECTION 6.
+ ORS 340.015 is amended to read:
+340.015. (1) Prior to  February 15 of each year, each school district shall notify all high school
+students and the students’ parents or guardians of the Expanded Options Program for  the following
+school  year.
+(2) Notwithstanding subsection (1) of this section, a school district, in the district’s  enrollment
+materials, shall  notify a student and the student’s parent or guardian of the Expanded Options
+Program if the student enrolls in a school of the district after the district has issued the notice de-
+scribed in subsection (1) of this section and the student is:
+(a) Transferring to a high school in the district from another district; or
+(b) Returning to high school after dropping out of school.
+(3) Each school district shall establish a process to :
+(a) Ensure that all at-risk students and their parents are notified about the  Expanded Options
+Program.
+(b) Identify students who have dropped out of school and provide those  students with
+information about the Expanded Options Program. For the purpose of this paragraph,  the
+school district shall send information about the program to the last-known  address of the
+family of the student.
+(4) A school district shall notify a high school student who has officially  expressed an intent to
+participate in the Expanded  Options Program pursuant to ORS 340.025 (1) or (2), and the student’s
+parent or guardian, of the student’s eligibility status within  20 business days after the student offi-
+cially expressed the intent.
+Enrolled House Bill 2275 (HB 2275-A) Page 6
+(5) The State Board of Education shall establish by rule the required components of the notice.
+The notice must include, but not be limited to, information about:
+(a) Financial arrangements for tuition, textbooks, equipment and materials;
+(b) Available transportation services;
+(c) The effect of enrolling in the Expanded  Options Program on the eligible student’s ability to
+complete the required high school graduation requirements;
+(d) The consequences of failing or not completing an eligible post-secondary course;
+(e) The requirement that participation in the Expanded  Options Program is contingent on ac-
+ceptance by an eligible post-secondary institution; and
+(f) School district timelines affecting student eligibility and duplicate course determinations.
+SECTION 7.
+ ORS 340.040 is amended to read:
+340.040. (1) An eligible post-secondary institution  may enroll an eligible student partic-
+ipating in the Expanded Options  Program only in eligible post-secondary courses under the
+program.
+(2) An eligible student who enrolls in the Expanded Options  Program may not enroll in
+eligible post-secondary courses under ORS 340.030 for more than the equivalent of two  aca-
+demic years. An eligible student  who first enrolls in the Expanded Options Program in grade
+12 may not  enroll in eligible post-secondary courses under ORS 340.030 for more than the
+equivalent of one academic year. If an eligible student first enrolls  in an eligible post-
+secondary course in the middle of the school year, the  time of participation shall be reduced
+proportionately. If an eligible student  is enrolled in a year-round program and begins each
+grade in the summer session, summer sessions are  not counted against the time of partic-
+ipation.
+(3) A student  who has graduated from high school may not participate in the Expanded
+Options Program.
+[(1)] (4) The State Board of Education shall establish  a procedure for a school district to award
+credits to eligible students for  eligible post-secondary courses completed under the Expanded
+Options Program.
+[(2)] (5) Prior to an  eligible student’s beginning an eligible post-secondary course, the school
+district  shall  notify the student of the number and type of credits that the student will be granted
+upon successful completion of the eligible post-secondary course.
+[(3)] (6) If there is a dispute between the school district and the eligible  student regarding the
+number or type of credits that the school district will grant to a student or that the  school district
+has granted for a particular eligible post-secondary course, the student may appeal  the school
+district’s decision using an appeals process adopted by the school district board.
+[(4)] (7) Credits granted to an  eligible student shall be counted toward high school graduation
+requirements and subject area requirements of the  state and the school district. Evidence of suc-
+cessful completion of each eligible post-secondary  course and credits granted shall be included in
+the student’s education record. A student shall provide the school district with  a copy of the
+student’s grade  in each eligible post-secondary course taken for credit under the Expanded Options
+Program. The student’s education record shall indicate that the credits  were earned at an eligible
+post-secondary institution.
+[(5)] (8) The eligible post-secondary institution shall award post-secondary credit  for any eligible
+post-secondary course successfully completed  for credit at the institution if the course is considered
+by the institution to  be a college-level course. Other post-secondary institutions may award, after
+a student leaves secondary school, post-secondary credit for any eligible post-secondary course suc-
+cessfully completed under the Expanded Options Program. A post-secondary institution may  not
+charge a student for the award of credit.
+SECTION 8.
+ ORS 340.050 is amended to read:
+340.050. (1) An eligible student  enrolled in an eligible post-secondary course pursuant to ORS
+340.005 to 340.090 is not eligible for any state student financial aid under ORS 348.105 to 348.280
+and 348.500 to 348.621.
+Enrolled House Bill 2275 (HB 2275-A) Page 7
+(2)(a) [ The] An eligible student may apply to the resident school district of the student for re-
+imbursement for any textbooks, fees, equipment or materials purchased by the student that are re-
+quired for an eligible post-secondary course.
+(b) All textbooks, fees, equipment and materials provided  to an eligible student and paid
+for under ORS 340.045 are the property of the resident school district of the student.
+(3) An eligible post-secondary institution that receives payment  for an eligible student
+under ORS 340.045 may not charge that student for tuition, fees and other required instruc-
+tional costs associated with the enrollment of the student in an eligible post-secondary
+course.
+(4) A resident  school district may provide transportation services to eligible students who
+attend eligible post-secondary institutions within any education service  district boundaries
+of which the school district is a component school district. Any transportation costs incurred
+by a school district under this subsection shall be considered approved  transportation costs
+for purposes of ORS 327.013 (3).
+SECTION 9.
+ ORS 340.080 is amended to read:
+340.080. (1) For a high school  with an enrollment of 1,000 students, each school year no more
+than 330 quarter credit hours may be awarded  to eligible students at the high school under the
+Expanded Options Program.
+(2) The State Board of Education by rule shall establish separate  credit hour caps for high
+schools that have  enrollment greater than 1,000 students and those that have less than 1,000 stu-
+dents. The caps shall be proportional to the credit hour caps established under subsection  (1) of this
+section.
+(3) A school district may choose to exceed the credit hour caps established in subsections (1)
+and (2) of this section.
+(4)(a) If a school district has more eligible students who wish  to participate in the Expanded
+Options Program than are allowed  under the credit hour cap established under this section, the
+school district board shall establish a process for selecting eligible students  to participate in the
+program. The process must give priority for program participation to at-risk students.
+(b) If a school district has  not exceeded the credit hour caps established by this section, the
+school district:
+(A) Must ensure that all eligible students who are at-risk  students are allowed to participate in
+the program; and
+(B) May allow eligible students who are not at-risk students to  participate in the program, as
+provided by the provisions of ORS 340.005 to 340.090.
+(5) The provisions of ORS 340.005 to 340.090  do not apply to any post-secondary courses
+in which a student is enrolled in addition to being enrolled full-time in the student’s resident
+school district. For purposes of this subsection, a student is considered enrolled full-time  if
+the student attends  classes for credit in the secondary school for all available hours of in-
+struction.
+SECTION 10. ORS 340.010, 340.020, 340.035, 340.037, 340.055, 340.060, 340.065 and 340.075 are
+repealed.
+ACCELERATED COLLEGE CREDIT GRANT PROGRAMS
+SECTION 11.  ORS 340.330 is amended to read:
+340.330. (1) The Accelerated College  Credit Account is established in the State Treasury, sepa-
+rate and distinct from the General Fund.
+(2) The Accelerated College Credit Account shall  consist of moneys appropriated by the
+Legislative Assembly  to the Department of Education for accelerated college credit pro-
+grams.
+(3) Interest earned by the Accelerated College Credit Account  shall be credited to the account.
+Enrolled House Bill 2275 (HB 2275-A) Page 8
+(4) Moneys in the Accelerated College Credit Account are continuously  appropriated to the
+Department of Education for the purposes of the programs  described in  ORS 340.320, 340.323 and
+340.326. Unless otherwise specified by the Legislative Assembly, the  Department of Educa-
+tion, in collaboration  with the Higher Education Coordinating Commission, shall determine
+for each biennium the amount to be distributed under each program.
+REPORT RELATING TO CERTAIN DISTRIBUTIONS OF MONEYS TO
+PUBLIC CHARTER SCHOOLS
+SECTION 12.  ORS 327.362 is amended to read:
+327.362. (1) As used in this section:
+(a) “ADMw” means weighted average daily membership, as calculated under ORS 327.013.
+(b) “Eligible public charter school” means a public charter school that is not a virtual  public
+charter school, as  defined in ORS 338.005, and that has a student population of which at least 65
+percent of the  total student population is composed of students from the following combined student
+groups:
+(A) Racial or ethnic groups that have historically  experienced academic disparities, as described
+in ORS 327.180 (2)(b)(B); and
+(B) Students with disabilities, as described in ORS 327.180 (2)(b)(C).
+(2) In addition to those moneys distributed through the State School Fund, the Department  of
+Education shall award grants under this section to eligible public charter schools from the  State-
+wide Education Initiatives Account.
+(3) The amount of a grant awarded to an eligible public charter school under this section =  the
+public charter school’s ADMw ×  the difference between:
+(a) The amount of the General  Purpose Grant per ADMw for the school district that has
+contractually established payment for the provision  of educational services to the public charter
+school’s students under ORS 338.155 (2) or (3); and
+(b) The amount of the General Purpose  Grant per ADMw that the public charter school receives
+under a contract for the provision of educational services to  the public charter school’s students
+under ORS 338.155 (2) or (3).
+(4) The  purpose of grants distributed under this section shall be to increase academic achieve-
+ment, including reducing academic disparities, for:
+(a) Students from racial  or ethnic groups that have historically experienced academic dispari-
+ties, as determined under rules adopted by the State Board of Education; and
+(b) Students with disabilities.
+(5) Any eligible public charter school may apply for and receive a grant as provided by  this
+section. A grant application must:
+(a) Describe how grant moneys will  be used to advance the purpose described in subsection (4)
+of this section.
+(b) Specify the supports that will be:
+(A) Provided to students with a disability; or
+(B) Used  to enhance special education and related services that are provided by a school district
+under ORS 338.165 to the students of the public charter school.
+(c) Identify any applicable longitudinal performance growth targets for  the public charter school
+that have been established:
+(A) Under contract between the  public charter school and the sponsor of the public charter
+school; or
+(B) By the public charter  school or the school district in which the public charter school is lo-
+cated for purposes of grants from the Student Investment Account, as provided by ORS 327.190.
+(d) Be submitted based on the timelines and forms prescribed by the department.
+Enrolled House Bill 2275 (HB 2275-A) Page 9
+(6)(a) If the department determines that a grant application complies with the requirements
+prescribed under this section, the department shall enter into a grant  agreement with the eligible
+public charter school.
+(b) A grant agreement must include longitudinal  performance growth targets for the public
+charter  school.  If the grant application identified longitudinal performance growth targets, those
+targets shall be  included in the grant agreement. If the grant application did not identify longitudi-
+nal performance growth targets, the public charter school shall  collaborate with the department to
+develop longitudinal performance growth targets. Longitudinal performance growth targets must:
+(A) Be based on data available for longitudinal analysis; and
+(B) Use the following applicable metrics:
+(i) Third-grade reading proficiency rates, as defined in ORS 327.190;
+(ii) Regular attendance rates, as defined in ORS 327.190; and
+(iii) Any other metrics identified by the department in collaboration with the public charter
+school.
+(7) After the department and the public charter school have entered into a grant  agreement, the
+department shall award a grant to the public charter school in  the amount calculated under sub-
+section (3) of this  section. A grant recipient shall deposit grant moneys received under this section
+into a  separate account and shall apply the amounts in that account as provided by the grant
+agreement.
+(8)(a) Each year, each grant recipient must submit to the department a description of:
+(A) How grant  moneys received under this section were used to advance the purpose described
+in subsection (4) of this section and  to meet performance growth targets in the grant agreement; and
+(B) Progress made  by the grant recipient toward meeting the performance growth targets in the
+grant agreement.
+(b) A grant recipient shall provide the information required under  this subsection based on the
+timelines and forms prescribed by the department. To the  greatest extent practicable, the depart-
+ment shall accept the information described  in this subsection in the manner that it is made avail-
+able by a public charter school to the sponsor of the public charter school.
+(9) To the greatest extent practicable, any requirements prescribed by the department  or the
+board under  this section in relation to an application, a grant agreement or the submission of in-
+formation under  subsection (8) of this section shall reduce any redundancies between a grant
+awarded under this section and a  grant awarded from the Student Investment Account. Reduction
+in redundancies includes accepting  for the purposes of grants awarded under this section any ap-
+plicable forms or information submitted by the public charter school to  the department or a school
+district for the purposes of a grant awarded from the Student Investment Account.
+(10) A public charter school and a school district may not consider moneys received  by the
+public charter school under this section when establishing payment for  the provision of educational
+services to the public charter school’s students under ORS 338.155 (2) or (3).
+(11) Prior to [ November 1 of each odd-numbered year ] February 1 of each year , the department
+shall submit to  the appropriate interim legislative committees a report related to the grants awarded
+under this section. The report must describe:
+(a) The public charter schools that applied for the grants and the public charter schools  that
+received the grants;
+(b) The longitudinal performance growth targets included in grant agreements, as  provided by
+subsection (6)(b) of this section; and
+(c) Progress  made toward meeting longitudinal performance growth targets, as reported under
+subsection (8)(a) of this section.
+(12) The State Board of Education shall  adopt any rules necessary for the distribution of grants
+under this section.
+YOUTH IN CORRECTIONS AND DETENTION FACILITIES
+Enrolled House Bill 2275 (HB 2275-A) Page 10
+SECTION 13. Section 14 of this 2023 Act is  added to and made a part of ORS 339.285 to
+339.303.
+SECTION 14. An employee of a youth correction facility or a juvenile detention  facility
+established under ORS 419A.010 to 419A.020 and 419A.050 to 419A.063 who uses restraint or
+seclusion on a student in connection with a  Youth Corrections Education Program or Juve-
+nile Detention Education Program, as those terms are defined in ORS 326.695, is  not subject
+to the prohibitions under ORS 339.285 to 339.303.
+MISCELLANEOUS
+SECTION 15. The unit captions  used in this 2023 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2023 Act.
+SECTION 16. This 2023 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2023 Act takes effect
+on its passage.
+Passed by House March 2, 2023
+Repassed by House June 22, 2023
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Dan Rayfield, Speaker of House
+Passed by Senate June 21, 2023
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2023
+Approved:
+........................M.,........................................................., 2023
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2023
+..................................................................................
+Secretary of State
+Enrolled House Bill 2275 (HB 2275-A) Page 11
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 326.695, ORS 327.013, ORS 327.026, ORS 327.180, ORS 327.185, ORS 327.190, ORS 327.195, ORS 327.362, ORS 327.500, ORS 329.095, ORS 329.843, ORS 338.005, ORS 338.155, ORS 338.165, ORS 339.285, ORS 340.005, ORS 340.010, ORS 340.015, ORS 340.020, ORS 340.025, ORS 340.030, ORS 340.035, ORS 340.037, ORS 340.040, ORS 340.045, ORS 340.050, ORS 340.055, ORS 340.060, ORS 340.065, ORS 340.075, ORS 340.080, ORS 340.320, ORS 340.323, ORS 340.326, ORS 340.330, ORS 348.105, ORS 419A.010
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `28ebfdbac2398270efa22753901d70c38f1d5b833e3d2d6bfe46515a7bdff0f6` (snapshot `_meta/snapshots/measure-2023r1-hb2275-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2275/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `07cc921f9f03dc2fdd680adc5c07f7506ca04237ce020d3a1c6c37ccd8fdd10c` (snapshot `_meta/snapshots/measure-2023r1-hb2275-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2275/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2275` (part of the batched per-session fetch), sha256 `93fbdf58369388064230f7ba2c78bd17b78e15ffa1d19e5c25089297c647cbe1` of the shared session snapshot `_meta/snapshots/measures-2023r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

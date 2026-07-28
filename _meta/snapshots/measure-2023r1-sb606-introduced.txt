@@ -1,0 +1,307 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Senate Bill 606
+Sponsored by Senator CAMPOS; Senators GELSER BLOUIN, GOLDEN, JAMA, Representatives NERON, PHAM
+K (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Establishes Nonprofit Workforce Retention Fund  in State Treasury, separate and distinct from
+General Fund, from which Employment Department must provide grants to qualifying nonprofit or-
+ganizations for purpose of increasing compensation of and reducing  turnover among employees of
+each recipient nonprofit organization.
+Sets minimum rate at which specified state  agencies may compensate nonprofit organizations for
+indirect costs related to providing services.
+Establishes Task Force on Modernizing Grant Funding and Contracting.  Specifies membership
+of task force. Requires task  force to examine how state’s granting and public procurement practices
+limit wages of employees of  nonprofit organizations and make recommendations to Oregon Depart-
+ment of Administrative Services concerning changes to state procurement practices that will support
+living wages for  employees of nonprofit organizations, uniform application procedures for grant
+moneys, standard contracting language that permits flexibility in contract  terms and conditions and
+multiyear contract terms, sufficient reporting requirements  that are commensurate with funding
+levels and that allow for adequate lead time for changes to reporting required within term  of con-
+tract, payment models that prioritize  full cost recovery and mechanism for ongoing review and
+evaluation of grantmaking and procurement processes.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to compensation for nonprofit  organizations that provide services on behalf of the state;
+and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) There is established in the State Treasury, separate and distinct from the
+General Fund, the Nonprofit Workforce Retention Fund. The Nonprofit Workforce Retention
+Fund consists of moneys the Employment Department collects or receives as  appropriations
+from the Legislative Assembly under section 2 of this 2023 Act.
+(2) All income earned on  moneys in the Nonprofit Workforce Retention Fund invested
+by the State Treasurer accrues to the fund.  Any balance in the fund does not lapse at any
+time. All moneys in the fund are appropriated continuously to  the department for the pur-
+pose of providing grants under subsection (3) of this section.
+(3)(a) The Employment Department at the start of each biennium shall  provide from not
+more than  90 percent of the balance of the Nonprofit Workforce Retention Fund grants to
+qualifying nonprofit organizations for the purpose of increasing the compensation of and re-
+ducing turnover among  employees of each recipient nonprofit organization. A nonprofit or-
+ganization is a qualifying nonprofit organization if the nonprofit  organization entered into a
+contract not  earlier than January 1, 2020, with the Department of Human Services, the
+Oregon Health Authority, the Housing and Community Services Department, the Department
+of Education, the Department of Early Learning and Care, the Oregon Youth Authority,  the
+Oregon Department of Emergency Management  or the Department of Justice under which
+the nonprofit organization on behalf of the department or authority provided direct  services
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 768
+SB 606
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+to residents of this state.
+(b) A hospital, community care organization or an institution of higher  education is not
+a qualifying nonprofit organization under this section.
+(4) The Employment Department by rule  shall establish application procedures, forms,
+deadlines, evaluation criteria and related requirements for  grant applicants. The department
+each biennium shall also  establish limits on the amount of grant moneys available to each
+applicant based on the balance of moneys in the Nonprofit  Workforce Retention Fund at the
+beginning of each biennium. The department shall establish the limits based on the number
+of anticipated or  actual applicants, with the goal of allowing equal access to grant moneys
+for all applicants, but the department may vary the moneys available for specific grants
+based on an applicant’s demonstrated need and the critical nature  of the services the appli-
+cant provides.
+(5) The Employment Department by rule  shall establish procedures under which each
+recipient nonprofit organization reports periodically on the use of grant moneys and under
+which the department periodically audits the use to ensure  that recipient nonprofit organ-
+izations use grant moneys from  the Nonprofit Workforce Retention Fund for the purposes
+set forth in this section.
+SECTION 2.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the Employment Department, for the biennium beginning July 1, 2023, out  of the
+General Fund, the amount of $_______ to  be deposited into the Nonprofit Workforce Re-
+tention Fund established under section 1 of this 2023 Act, which the department shall  expend
+for the purposes set forth in section 1 of this 2023 Act.
+SECTION 3. (1) As used in this section:
+(a) “Granting agency” means the Department of Human Services,  the Oregon Health
+Authority, the Housing and Community Services Department, the Department of Education,
+the Department of Early Learning  and Care, the Oregon Youth Authority, the Oregon De-
+partment of Emergency Management or the Department of Justice.
+(b) “Nonprofit organization”  means an organization that is described in section 501(c)(3)
+of the Internal Revenue Code  that is exempt from income tax under section 501(a) of the
+Internal Revenue Code and that received grant moneys from,  or was a party to a public
+contract with a granting agency, on or after January 1, 2020.
+(c) “Procurement” has the meaning given that term in ORS 279A.010.
+(2)(a) A granting agency  that conducts a procurement for services from a nonprofit or-
+ganization shall compensate the nonprofit organization for the services  at the applicable rate
+that is the highest among the following rates:
+(A) The rate specified in any federally negotiated indirect  cost rate agreement the
+nonprofit organization has with a federal agency;
+(B) A 10 percent de minimis rate for the nonprofit organization’s indirect costs; or
+(C) The rate that the nonprofit organization negotiated with the granting agency.
+(b) A granting agency may not provide compensation as reimbursement  for a nonprofit
+organization’s expenses.
+(c) If a granting agency intends to  compensate a nonprofit organization for services un-
+der a public contract on a monthly basis,  the granting agency must make an initial payment
+within 30 days after awarding the public contract to the nonprofit organization.
+(3) The Oregon Department of Administrative Services, not  later than December 31, 2025,
+[2]
+SB 606
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+shall develop a  plan to implement by January 1, 2029, consistent contracting and granting
+procedures for grants and public contracts with nonprofit organizations.
+SECTION 4.
+(1) The  Task Force on Modernizing Grant Funding and Contracting is es-
+tablished.
+(2) The task force consists of 21 members appointed as follows:
+(a) The President of the Senate shall  appoint one member from among members of the
+Senate.
+(b) The Speaker of the House of Representatives shall appoint one member from  among
+members of the House of Representatives.
+(c) The Governor shall appoint 19 members as follows:
+(A) One member who represents the office of the Governor;
+(B) One member who represents the Oregon Department of Administrative Services;
+(C) One member who represents the Department of Human Services;
+(D) One member who represents the Oregon Health Authority;
+(E) One member who represents the Housing and Community Services Department;
+(F) One member who represents the Department of Education;
+(G) One member who represents the Department of Early Learning and Care;
+(H) One member who represents the Oregon Youth Authority;
+(I) One member who represents the Oregon Department of Emergency Management;
+(J) One member who represents the Department of Justice; and
+(K) Nine members who represent  nonprofit organizations that since January 1, 2020, have
+received grants from or entered  into public contracts with a department or authority listed
+in subparagraphs (B) to (J) of this paragraph.
+(3) The  task force shall examine how the state’s granting and public procurement prac-
+tices limit the wages of employees of nonprofit organizations and make recommendations to
+the Oregon Department of Administrative Services concerning:
+(a) Changes to state procurement practices that  will support living wages for employees
+of nonprofit organizations;
+(b) Uniform application procedures for  grant moneys that apply to the agencies listed in
+subsection (2)(c)(B) to (J) of this section;
+(c) Standard contracting  language that permits flexibility in contract terms and condi-
+tions and multiyear contract terms;
+(d) Sufficient reporting requirements that are commensurate with funding levels and that
+allow for adequate lead time for changes to reporting required within the term  of a contract;
+(e) Payment models that prioritize full cost recovery; and
+(f) A mechanism  for ongoing review and evaluation of grantmaking and procurement
+processes.
+(4) The task force may conduct studies,  take testimony, request data and information
+from state agencies and otherwise take actions  necessary to carry out the purposes set forth
+in subsection (3) of this section.
+(5) A  majority of the voting members of the task force constitutes a quorum for the
+transaction of business.
+(6) Official action by the task force requires the approval of a majority  of the voting
+members of the task force.
+(7) The task force shall elect one of its members to serve as chairperson.
+[3]
+SB 606
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+(8) If there  is a vacancy for any cause, the appointing authority shall make an appoint-
+ment to become immediately effective.
+(9) The task force shall meet at times and places specified by the call of  the chairperson
+or of a majority of the voting members of the task force.
+(10) The task force may adopt rules necessary for the operation of the task force.
+(11) The task force shall submit a report in the  manner provided by ORS 192.245, and
+may include recommendations for  legislation, to an interim committee of the Legislative
+Assembly related to grantmaking and public procurement no later than September 15, 2024.
+(12) The Oregon Department of Administrative Services shall provide staff  support to the
+task force.
+(13) Members of the Legislative Assembly appointed to the task force  are nonvoting
+members of the task force and may act in an advisory capacity only.
+(14) Members of the task force who are not members of the Legislative  Assembly are not
+entitled to compensation or reimbursement for expenses and serve as volunteers on the  task
+force.
+(15) All agencies of state government, as defined in  ORS 174.111, are directed to assist
+the task force in the performance of  the duties of the task force and, to the extent permitted
+by laws relating to confidentiality, to furnish information and advice the members of the task
+force consider necessary to perform their duties.
+SECTION 5.
+Section 4 of this 2023 Act is repealed on December 31, 2024.
+SECTION 6. This 2023 Act takes effect on the 91st day after the date on which the 2023
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[4]

@@ -1,0 +1,155 @@
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Enrolled
+Senate Bill 1
+Sponsored by  Senator WAGNER; Senators CAMPOS, DEMBROW, JAMA, PATTERSON, Represen-
+tative PHAM K (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to data collected by the Department of Revenue; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2023 Act is added to and made a part of ORS chapter 316.
+SECTION 2. (1) The Department of Revenue shall attach to personal income tax returns
+required to be filed under this chapter a schedule that allows taxpayers to  provide to the
+department, at the time of filing the return and on a voluntary  basis, self-reported identifi-
+cation of the taxpayer’s race and ethnicity.
+(2) The data collection schedule required under subsection (1) of this section must:
+(a) Allow each taxpayer to select from the full list of demographic data categories  of
+racial or ethnic identity adopted as uniform standards  by the Oregon Health Authority pur-
+suant to ORS 413.161.
+(b) Allow each individual listed on a return to select one primary identifier and  as many
+as two additional identifiers.
+(c) Provide that individuals filing a joint return  may each elect whether to indicate
+identifiers on the schedule.
+(d) Be accompanied by  the statement that the collection of data is voluntary and self-
+reported and that the department may not use the collected data for  the purposes of audit,
+collection or other enforcement activities.
+(e) Be accompanied by a statement explaining the purpose of collecting data for use  in
+analysis of revenue policy.
+(f) Be optional to complete, but provide that individuals  shall opt out of completion of the
+schedule.
+(3) The department shall establish policies and procedures to enable individuals  who are
+not required to file an income tax return under this chapter for a given tax year to elect  to
+complete the schedule provided under this section without filing a return.
+SECTION 3.
+Sections 4 to 8 of this 2023 Act are added to  and made a part of ORS chapter
+305.
+SECTION 4. (1) The Department of Revenue shall:
+(a) Ensure that all data collected pursuant to section 2 of this 2023  Act is used only for
+the purposes described in sections 2 and 7 of this 2023 Act.
+(b) Maintain and store data  collected pursuant to section 2 of this 2023 Act separately
+from other information provided on tax returns filed under  ORS chapter 316, and provide
+that the data is accessible only to the following:
+Enrolled Senate Bill 1 (SB 1-B) Page 1
+(A) Research section staff of the department.
+(B) Other department staff that are assigned to process the data  and process or program
+the underlying systems for  the data collection schedule, but only to the extent necessary for
+that purpose.
+(C) The staff of the Legislative Revenue Office.
+(D) The division of the Oregon Department  of Administrative Services that serves as
+office of economic analysis.
+(c) Maintain records sufficient to verify that Department of Revenue personnel having
+access to data collected pursuant to section 2  of this 2023 Act are limited to those personnel
+listed in paragraph (b)(A) and (B) of this subsection and sufficient to ensure compliance  with
+this subsection.
+(2) Tax practitioners and tax preparation  software vendors may use and retain data col-
+lected pursuant to section  2 of this 2023 Act only to the extent necessary to assist taxpayers
+in the preparing and filing of returns required under ORS chapter 316 and may not use the
+data, or allow it to be used, for any other reason.
+(3) Notwithstanding any intergovernmental reciprocal agreements entered into by the
+Department of Revenue, the department may not allow the Internal Revenue Service access
+to the data collected under section 2 of this 2023 Act.
+SECTION 5.
+Not later than September 15 of each  year, beginning in 2024, the Department
+of Revenue shall report, in the manner provided in ORS 192.245, on the status of the devel-
+opment and implementation  of the data collection schedule required under section 2 of this
+2023 Act and on the use of  the data collected, to an appropriate committee or interim com-
+mittee of the Legislative Assembly related to information management  and technology. The
+report required by this section shall include an update of the effectiveness of measures
+undertaken by the department to ensure data security. The report shall address the pre-
+vention of any sharing of data collected pursuant to section 2 of this 2023 Act:
+(1) Within the department, between research staff and audit and collection staff.
+(2) Between the department and the Internal Revenue Service.
+(3) Between tax practitioners and commercial interests.
+(4) Between tax preparation software vendors and commercial interests.
+SECTION 6.
+Section 5 of this 2023 Act is repealed on January 2, 2029.
+SECTION 7. (1) The Department of Revenue shall use data  collected on the data col-
+lection schedule required under section 2 of this 2023 Act to the extent feasible, to inform:
+(a) The development of racial impact statements;
+(b) The analysis of proposed administrative rules and budget requests; and
+(c) The response by the department to certain requests for information from  the Legis-
+lative Assembly.
+(2) If the Department of Revenue, the Legislative Revenue Officer or  the Oregon De-
+partment of Administrative Services  includes data collected under section 2 of this 2023 Act
+in a report or as other output, the data shall be presented only in aggregated and
+anonymized form.
+SECTION 8.
+(1) The Department of Revenue shall first  attach the data collection sched-
+ule required under section 2 of this 2023 Act to income tax returns filed for the 2024 tax year.
+(2) The department shall develop  programming and forms for the implementation of the
+schedule and, by rule, shall adopt  policies and procedures for the implementation of the use
+of the schedule.
+SECTION 9. (1) Notwithstanding any other provision of law, the General Fund appropri-
+ation made to the Department of  Revenue by section 1 (3), chapter ___, Oregon Laws 2023
+(Enrolled House Bill 5034), for the biennium beginning July 1, 2023, for  the Personal Tax and
+Compliance Division, is increased by  $259,658, for developing a schedule allowing personal
+income taxpayers to voluntarily report self-identified race and ethnicity identifiers.
+Enrolled Senate Bill 1 (SB 1-B) Page 2
+(2) Notwithstanding any other provision  of law, the General Fund appropriation made to
+the Department of Revenue by section 1 (6), chapter ___, Oregon Laws 2023  (Enrolled House
+Bill 5034), for  the biennium beginning July 1, 2023, for the Information Technology Services
+Division, is increased by $164,842, for developing and maintaining data collection of  self-
+identified race and ethnicity identifiers.
+(3) Notwithstanding any other provision  of law, the General Fund appropriation made to
+the Department of Revenue by section 1 (1), chapter ___, Oregon Laws 2023  (Enrolled House
+Bill 5034), for the biennium beginning July 1, 2023, for administration, is  increased by $46,224,
+for the research and development of racial impact statements.
+SECTION 10. (1) Notwithstanding any other law limiting expenditures, the limitation on
+expenditures established by section 2 (3), chapter ___, Oregon Laws 2023 (Enrolled House Bill
+5034), for the biennium beginning July 1, 2023, as the maximum limit for payment of expenses
+from fees, moneys or other revenues, including  Miscellaneous Receipts and reimbursements
+from federal service agreements, but excluding  lottery funds and federal funds not described
+in section 2, chapter ___, Oregon Laws 2023 (Enrolled House  Bill 5034), collected or received
+by the Department of Revenue, for  the Personal Tax and Compliance Division, is increased
+by $6,357, for developing a schedule allowing  personal income taxpayers to voluntarily report
+self-identified race and ethnicity identifiers.
+(2) Notwithstanding any other law limiting expenditures, the limitation  on expenditures
+established by section 2 (7), chapter ___, Oregon Laws 2023 (Enrolled House  Bill 5034), for the
+biennium beginning July 1, 2023, as the  maximum limit for payment of expenses from fees,
+moneys or other revenues, including Miscellaneous Receipts and  reimbursements from fed-
+eral service agreements,  but excluding lottery funds and federal funds not described in sec-
+tion 2, chapter ___, Oregon  Laws 2023 (Enrolled House Bill 5034), collected or received by the
+Department of Revenue, for the Information Technology Services Division,  is increased by
+$11,460, for developing and maintaining  data collection of self-identified race and ethnicity
+identifiers.
+(3) Notwithstanding any other law limiting expenditures, the limitation  on expenditures
+established by section 2 (1), chapter ___, Oregon Laws 2023 (Enrolled House  Bill 5034), for the
+biennium beginning July 1, 2023, as the  maximum limit for payment of expenses from fees,
+moneys or other revenues, including Miscellaneous Receipts and  reimbursements from fed-
+eral service agreements,  but excluding lottery funds and federal funds not described in sec-
+tion 2, chapter ___, Oregon  Laws 2023 (Enrolled House Bill 5034), collected or received by the
+Department of Revenue, for administration, is increased by $10,392,  for the research and
+development of racial impact statements.
+SECTION 11. This 2023 Act takes effect on the 91st day after the date on  which the 2023
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+Enrolled Senate Bill 1 (SB 1-B) Page 3
+Passed by Senate June 20, 2023
+..................................................................................
+Lori L. Brocker, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 21, 2023
+..................................................................................
+Dan Rayfield, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2023
+Approved:
+........................M.,........................................................., 2023
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2023
+..................................................................................
+Secretary of State
+Enrolled Senate Bill 1 (SB 1-B) Page 4

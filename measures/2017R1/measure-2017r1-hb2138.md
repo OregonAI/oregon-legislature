@@ -1,0 +1,775 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2017r1-hb2138
+title: 'HB 2138 (2017R1): Beginning January 1, 2018, requires certain public improvement contracts to
+  reserve one percent of total contract price for performing repowers or retrofits of certain diesel engines
+  used in course of performing contract.'
+doc_type: dataset_doc
+citation: 2017 Regular Session House Bill 2138
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2138/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 01b9188775b25b9d944ab0614e64e7b30bf2d21d8c48f84777bf91c978ebb314
+snapshot_id: measure-2017r1-hb2138-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 174.109
+  - ORS 314.085
+  - ORS 314.410
+  - ORS 314.440
+  - ORS 315.304
+  - ORS 316.117
+  - ORS 468.140
+  - ORS 468A.795
+  - ORS 468A.796
+  - ORS 468A.797
+  - ORS 468A.799
+  - ORS 468A.801
+  - ORS 468A.803
+  - ORS 801.265
+  - ORS 801.310
+  - ORS 805.300
+  - ORS 825.005
+  - ORS 825.615
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2017r1
+- hb
+session_key: 2017R1
+measure_prefix: HB
+measure_number: 2138
+prefix_meaning: House Bill
+catch_line: Beginning January 1, 2018, requires certain public improvement contracts to reserve one percent
+  of total contract price for performing repowers or retrofits of certain diesel engines used in course
+  of performing contract.
+minority_catch_line: null
+measure_summary: "\tBeginning January 1, 2018, requires certain public improvement contracts to reserve\
+  \ one percent of total contract price for performing repowers or retrofits of certain diesel engines\
+  \ used in course of performing contract. Sunsets requirement on January 2, 2030. \n\tRequires Department\
+  \ of Environmental Quality to establish and maintain statewide inventory of nonroad diesel engines.\
+  \ Requires department to complete initial inventory no later than July 1, 2018. \n\tBeginning January\
+  \ 1, 2019, requires certain nonroad diesel engines to be registered with department. Authorizes Environmental\
+  \ Quality Commission to adopt rules and registration fees. \n\tDirects commission to adopt by rule diesel\
+  \ engine emission standards for medium-duty trucks, heavy-duty trucks and nonroad diesel engines operative\
+  \ January 1, 2___. Requires commission to phase in implementation of certain standards. \n\tAuthorizes\
+  \ State of Oregon to receive moneys pursuant to Volkswagen Environmental Mitigation Trust Agreement,\
+  \ deposit moneys in Clean Diesel Engine Fund and engage in certain uses of moneys. \n\tRepeals state\
+  \ preemption of local regulation of idling by primary engines in commercial vehicles. \n\tDeclares emergency,\
+  \ effective July 1, 2017."
+relating_to: Relating to diesel; declaring an emergency.
+relating_to_full: Relating to diesel; creating new provisions; amending ORS 468A.795, 468A.796, 468A.799,
+  468A.801 and 468A.803 and section 12, chapter 855, Oregon Laws 2007; repealing ORS 825.615; and declaring
+  an emergency.
+at_the_request_of: (at the request of House Interim Committee on Energy and Environment)
+lc_number: 3009
+measure_created_date: '2016-12-14T16:25:38'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 48063
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 174.109
+  - ORS 314.085
+  - ORS 314.410
+  - ORS 314.440
+  - ORS 315.304
+  - ORS 316.117
+  - ORS 468.140
+  - ORS 468A.795
+  - ORS 468A.796
+  - ORS 468A.797
+  - ORS 468A.799
+  - ORS 468A.801
+  - ORS 468A.803
+  - ORS 801.265
+  - ORS 801.310
+  - ORS 805.300
+  - ORS 825.005
+  - ORS 825.615
+  from_relating_to_full:
+  - ORS 468A.795
+  - ORS 468A.796
+  - ORS 468A.799
+  - ORS 468A.801
+  - ORS 468A.803
+  - ORS 825.615
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2138`.
+
+# HB 2138 — 2017 Regular Session (2017R1)
+
+## At a glance
+
+- **Measure:** House Bill 2138, 2017 Regular Session (2017R1)
+- **At the request of:** (at the request of House Interim Committee on Energy and Environment)
+- **LC number:** 3009
+- **Created:** 2016-12-14T16:25:38
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 48063 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2138/Introduced>.
+
+## Summary
+
+**Catchline:** Beginning January 1, 2018, requires certain public improvement contracts to reserve one percent of total contract price for performing repowers or retrofits of certain diesel engines used in course of performing contract.
+
+**Relating to:** Relating to diesel; declaring an emergency.
+
+Beginning January 1, 2018, requires certain public improvement contracts to reserve one percent of total contract price for performing repowers or retrofits of certain diesel engines used in course of performing contract. Sunsets requirement on January 2, 2030. 
+ Requires Department of Environmental Quality to establish and maintain statewide inventory of nonroad diesel engines. Requires department to complete initial inventory no later than July 1, 2018. 
+ Beginning January 1, 2019, requires certain nonroad diesel engines to be registered with department. Authorizes Environmental Quality Commission to adopt rules and registration fees. 
+ Directs commission to adopt by rule diesel engine emission standards for medium-duty trucks, heavy-duty trucks and nonroad diesel engines operative January 1, 2___. Requires commission to phase in implementation of certain standards. 
+ Authorizes State of Oregon to receive moneys pursuant to Volkswagen Environmental Mitigation Trust Agreement, deposit moneys in Clean Diesel Engine Fund and engage in certain uses of moneys. 
+ Repeals state preemption of local regulation of idling by primary engines in commercial vehicles. 
+ Declares emergency, effective July 1, 2017.
+
+**RelatingToFull (verbatim upstream field):** Relating to diesel; creating new provisions; amending ORS 468A.795, 468A.796, 468A.799, 468A.801 and 468A.803 and section 12, chapter 855, Oregon Laws 2007; repealing ORS 825.615; and declaring an emergency.
+
+## Full text
+
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+House Bill 2138
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Energy and Environment)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Beginning January 1, 2018, requires certain  public improvement contracts to reserve one per-
+cent of total contract price for performing repowers or  retrofits of certain diesel engines used in
+course of performing contract. Sunsets requirement on January 2, 2030.
+Requires Department of Environmental Quality to establish and maintain statewide inventory
+of nonroad diesel engines. Requires department  to complete initial inventory no later than July 1,
+2018.
+Beginning January 1, 2019, requires certain nonroad diesel  engines to be registered with de-
+partment. Authorizes Environmental Quality Commission to adopt rules and registration fees.
+Directs commission to adopt by rule diesel engine emission standards for medium-duty  trucks,
+heavy-duty trucks and nonroad diesel engines operative January 1, 2 . Requires commission
+to phase in implementation of certain standards.
+Authorizes State of Oregon to receive moneys pursuant to Volkswagen Environmental Miti-
+gation Trust Agreement, deposit  moneys in Clean Diesel Engine Fund and engage in certain uses
+of moneys.
+Repeals state  preemption of local regulation of idling by primary engines in commercial vehicles.
+Declares emergency, effective July 1, 2017.
+A BILL FOR AN ACT
+Relating to diesel; creating new provisions; amending ORS 468A.795, 468A.796, 468A.799,  468A.801
+and 468A.803 and section 12, chapter 855, Oregon Laws 2007; repealing ORS  825.615; and de-
+claring an emergency.
+Whereas Oregon ranks sixth highest  in the nation for risks to human health from diesel
+particulate pollution; and
+Whereas exposure to diesel particulate pollution causes myriad health effects, including the
+exacerbation of asthma symptoms and early death from heart disease and various cancers; and
+Whereas children are especially vulnerable to the negative health effects of diesel  particulate
+pollution because their lungs are still in  the developmental phase and they breathe, on average, 50
+percent more air per pound of body weight than adults; and
+Whereas the health impacts and premature deaths caused by diesel particulate pollution  have
+an annual economic impact of more than $3 billion in this state; and
+Whereas 17 Oregon counties have ambient levels of diesel particulate pollution that are  con-
+sidered harmful to health; and
+Whereas the problem of diesel particulate pollution in this state is  exacerbated when engines
+are allowed to idle unnecessarily; and
+Whereas new diesel engines and older diesel engines retrofitted with particulate  filters can re-
+duce diesel particulates by up to 95 percent as compared to diesel particulate  matter emissions from
+older, dirty diesel engines that are not retrofitted; and
+Whereas the attrition rate of older, dirty diesel engines that are  not retrofitted is too slow to
+adequately curb emissions in a timely manner and protect public health; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3009
+Whereas a strategy to shorten the timeline for conversion to the use of new diesel engines and
+older diesel engines retrofitted with particulate filters requires a  combination of regulations and
+incentives; and
+Whereas the incorporation of California’s emission standards for nonroad  diesel engines into the
+Department of Environmental Quality’s existing air quality regulations will  benefit public health;
+now, therefore,
+Be It Enacted by the People of the State of Oregon:
+ONE PERCENT FOR CLEAN DIESEL IN PUBLIC CONTRACTS
+SECTION 1. Section 2 of this 2017 Act is added to  and made a part of the Public Con-
+tracting Code.
+SECTION 2. (1) As used in this section, “diesel engine” has  the meaning given that term
+in ORS 468A.795.
+(2) Except as provided in  subsection (4) of this section, a public improvement contract
+for which federal funds from congestion  mitigation and air quality improvement grants are
+a source  of funding must reserve an amount equal to at least one percent of the total con-
+tract price for the purpose of  performing qualifying repowers or retrofits, as described in
+ORS 468A.797, 468A.799 and 468A.803, of diesel engines that:
+(a) Will be used in the course of performing the contract; and
+(b) For the three years following a repower or retrofit, will  undergo at least 50 percent
+of the diesel engine’s use in Oregon, as measured by miles driven or hours operated.
+(3) Any amount reserved in a public improvement contract under subsection  (2) of this
+section that remains unexpended after completion of and final payment for the  public im-
+provement contract shall be deposited in the Clean Diesel Engine Fund.
+(4)(a) The Environmental Quality Commission may adopt  by rule minimum standards for
+contract specifications relating to the use of  diesel engines in the course of performing a
+public improvement contract.
+(b) As an alternative to meeting the requirements of subsection (2) of  this section, a
+public improvement  contract subject to subsection (2) of this section may include contract
+specifications that meet the minimum standards adopted by  the commission by rule under
+this subsection.
+SECTION 3.
+(1) Section 2 of this 2017 Act becomes operative on January 1, 2018.
+(2) Section 2 of this 2017 Act applies to public improvement  contracts advertised or so-
+licited on or after January 1, 2018, or, for public improvement contracts that  are not adver-
+tised or solicited, public  improvement contracts that a contracting agency enters into on or
+after January 1, 2018.
+SECTION 4.  Section 2 of this 2017 Act is amended to read:
+Sec. 2. (1) As used in this section[ ,]:
+(a) “Diesel engine” has the meaning given that term in ORS 468A.795.
+(b) “Local contracting agency” does not include small special districts as defined by the
+Environmental Quality Commission by rule.
+(2) Except  as provided in subsection [ (4)] (5) of this section, a public improvement contract [ for
+which federal funds from congestion mitigation and air quality improvement grants are  a source of
+funding] must reserve an amount equal to at least one percent of the total contract price for the
+purpose of performing qualifying repowers or retrofits, as described in ORS  468A.797, 468A.799 and
+468A.803, of diesel engines that:
+(a) Will be used in the course of performing the contract; and
+(b) For the three years following a repower or retrofit, will undergo at least 50 percent of  the
+diesel engine’s use in Oregon, as measured by miles driven or hours operated.
+(3) Subsection (2) of this section applies only to a public improvement contract for:
+(a) A public  improvement for which federal funds from congestion mitigation and air
+quality improvement grants are a source of funding; or
+(b) A public improvement with a value of $2 million or more and for which  state funds
+constitute 30 percent or more of the value of the contract if the contracting agency is:
+(A) A state contracting agency; or
+(B) A local contracting agency located in an area designated by  the United States Office
+of Management and Budget as a micropolitan or metropolitan statistical area with a  popu-
+lation of 10,000 or more.
+[(3)] (4)  Any amount reserved in a public improvement contract under subsection (2)  of this
+section that remains unexpended after completion of and final payment for  the public improvement
+contract shall be deposited in the Clean Diesel Engine Fund.
+[(4)(a)] (5)(a)  The Environmental Quality Commission may adopt by rule  minimum standards for
+contract specifications relating to the use of diesel engines in  the course of performing a public
+improvement contract.
+(b) As an alternative to meeting the requirements of subsection  (2) of this section, a public im-
+provement contract subject to  subsection [ (2)] (3) of this section may include contract specifications
+that meet the minimum standards adopted by the commission by rule under this subsection.
+SECTION 5.
+(1) The amendments to section 2 of this 2017 Act by section 4 of this 2017
+Act become operative on January 1, 2020.
+(2) The amendments to section 2 of this 2017 Act by section  4 of this 2017 Act apply to
+public improvement  contracts advertised or solicited on or after January 1, 2020, or, if the
+public improvement contracts are  not advertised or solicited, to public improvement con-
+tracts entered into on or after January 1, 2020.
+SECTION 6. Section 2 of this 2017 Act is repealed on January 2, 2030.
+OREGON CLEAN DIESEL PROGRAM
+(Definitions)
+SECTION 7.  ORS 468A.795 is amended to read:
+468A.795. As used in ORS 468A.795 to 468A.803 and sections 11  to 16, chapter 855, Oregon Laws
+2007:
+(1) “Combined weight” has the meaning given that term in ORS 825.005.
+(2) “Cost-effectiveness threshold” means the cost,  in dollars, per ton of diesel particulate matter
+reduced, as established by rule of the Environmental Quality Commission.
+(3) “Diesel engine” means a compression ignition engine.
+(4) “Environmental Mitigation Trust Agreement” means the  Environmental Mitigation
+Trust Agreement required by the Volkswagen “Clean Diesel”  Marketing, Sales Practices and
+Products Liability Litigation partial consent decree dated October 25, 2016.
+[(3)] (5) “Heavy-duty truck” means a motor  vehicle or combination of vehicles operated as a unit
+that has a combined weight that is greater than 26,000 pounds.
+[(4)] (6)  “Incremental cost” means the cost of a  qualifying repower or retrofit less a baseline
+cost that would otherwise be incurred in the normal course of business.
+[(5)] (7)  “Medium-duty truck” means a  motor vehicle or combination of vehicles operated as a
+unit that has a combined weight that is greater than 14,000 pounds but less  than or equal to 26,000
+pounds.
+[(6)] (8) “Motor vehicle” has the meaning given that term in ORS 825.005.
+(9) “Nonroad diesel  engine” means a diesel engine of 25 horsepower or more that is not
+designed primarily to propel a motor vehicle on public highways.
+[(7) “Nonroad Oregon diesel  engine” means any Oregon diesel engine that was not designed pri-
+marily to propel a motor vehicle on public highways of this state. ]
+[(8) “Oregon diesel engine” means an engine at least 50 percent of the use  of which, as measured
+by miles driven or hours operated, will occur in Oregon for the three years  following the repowering
+or retrofitting of the engine. ]
+[(9)] (10)  “Oregon  diesel truck engine” means a diesel engine in a truck at least 50 percent of
+the use of which,  as measured by miles driven or hours operated, has occurred in Oregon for the
+two years preceding the scrapping of the engine.
+[(10)] (11) “Public highway” has the meaning given that term in ORS 825.005.
+[(11)] (12) “Repower” means to scrap an old diesel engine and [ replace] substitute  it with a new
+engine, a used engine or a remanufactured  engine, or with electric motors, drives or fuel cells, with
+a minimum useful life of seven years.
+[(12)] (13) “Retrofit” means to  equip a diesel engine with new emissions-reducing parts or tech-
+nology after the manufacture of  the original engine. A retrofit must use the greatest degree of
+emissions reduction available for the particular application of the equipment retrofitted  that meets
+the cost-effectiveness threshold.
+[(13)] (14) “Scrap” means to destroy and render inoperable.
+[(14)] (15) “Truck” means a motor vehicle or combination of vehicles  operated as a unit that has
+a combined weight that is greater than 14,000 pounds.
+SECTION 8.  ORS 468A.795,  as amended by section 6a, chapter 855, Oregon Laws 2007, is
+amended to read:
+468A.795. As used in ORS 468A.795 to 468A.803:
+(1) “Combined weight” has the meaning given that term in ORS 825.005.
+(2) “Cost-effectiveness threshold” means the cost,  in dollars, per ton of diesel particulate matter
+reduced, as established by rule of the Environmental Quality Commission.
+(3) “Diesel engine” means a compression ignition engine.
+(4) “Environmental Mitigation  Trust Agreement” means the Environmental Mitigation
+Trust Agreement required by the Volkswagen “Clean Diesel”  Marketing, Sales Practices and
+Products Liability Litigation partial consent decree dated October 25, 2016.
+[(3)] (5) “Heavy-duty truck” means a motor  vehicle or combination of vehicles operated as a unit
+that has a combined weight that is greater than 26,000 pounds.
+[(4)] (6)  “Incremental cost” means the cost of  a qualifying repower or retrofit less a baseline
+cost that would otherwise be incurred in the normal course of business.
+[(5)] (7)  “Medium-duty truck” means a motor vehicle or combination  of vehicles operated as a
+unit that has a combined weight that is greater than 14,000 pounds but less  than or equal to 26,000
+pounds.
+[(6)] (8) “Motor vehicle” has the meaning given that term in ORS 825.005.
+(9) “Nonroad diesel engine” means a diesel engine of 25 horsepower or more that  is not
+designed primarily to propel a motor vehicle on public highways.
+[(7) “Nonroad Oregon diesel engine” means any Oregon diesel engine that was  not designed pri-
+marily to propel a motor vehicle on public highways of this state. ]
+[(8) “Oregon diesel engine” means  an engine at least 50 percent of the use of which, as measured
+by miles driven or  hours operated, will occur in Oregon for the three years following the repowering
+or retrofitting of the engine. ]
+[(9)] (10) “Oregon diesel truck engine” means a diesel engine in a truck at least 50  percent of
+the use of which, as measured by miles driven or hours operated, has occurred in  Oregon for the
+two years preceding the scrapping of the engine.
+[(10)] (11) “Public highway” has the meaning given that term in ORS 825.005.
+[(11)] (12) “Repower” means to scrap an old diesel engine and [ replace] substitute  it with a new
+engine, a used engine or a remanufactured  engine, or with electric motors, drives or fuel cells, with
+a minimum useful life of seven years.
+[(12)] (13) “Retrofit” means to equip a diesel engine with new  emissions-reducing parts or tech-
+nology after the manufacture of the original engine. A retrofit must use  the greatest degree of
+emissions reduction available  for the particular application of the equipment retrofitted that meets
+the cost-effectiveness threshold.
+[(13)] (14) “Scrap” means to destroy and render inoperable.
+[(14)] (15) “Truck” means a motor vehicle or combination of vehicles  operated as a unit that has
+a combined weight that is greater than 14,000 pounds.
+(School Buses)
+SECTION 9.  ORS 468A.796 is amended to read:
+468A.796. All school buses with diesel engines operated in Oregon must , by  January 1,
+2 , be:
+(1) Retrofitted  with 2007 equivalent engines and 2007 fine particulate matter capture technology
+[by January 1, 2017 ]; or
+(2) Replaced with school buses manufactured on  or after January 1, 2007[ , by January 1, 2025 ].
+A school bus replaced under this subsection may not be used for transportation of any type.
+(Nonroad Diesel Engine Inventory)
+SECTION 10. Section 11 of this 2017 Act is added to and made a part of ORS 468A.795 to
+468A.803.
+SECTION 11. The Department of Environmental  Quality shall establish and maintain a
+statewide inventory of  nonroad diesel engines used in Oregon. The inventory must identify
+nonroad diesel engines by engine model year, horsepower  and annual usage. The Environ-
+mental Quality Commission may adopt rules necessary for implementation of this section,
+including but not limited to rules identifying the classes of nonroad diesel engines to  be in-
+cluded in the inventory.
+SECTION 12.
+The Department of Environmental Quality shall establish the initial inven-
+tory of nonroad diesel engines used in Oregon required by section 11 of this  2017 Act no later
+than July 1, 2018.
+(Nonroad Diesel Engine Registration)
+SECTION 13. Sections 14 and 15 of this 2017 Act are added to and made a part of ORS
+468A.795 to 468A.803.
+SECTION 14. (1) A person may not operate a nonroad diesel engine in this state  without
+first registering the engine with the  Department of Environmental Quality under section 15
+of this 2017 Act.
+(2) This section does not apply to:
+(a) Farm tractors, as defined in ORS 801.265.
+(b) Implements of husbandry, as defined in ORS 801.310.
+(c) Any other nonroad diesel engines exempted from the  registration requirement by the
+Environmental Quality Commission by rule.
+SECTION 15.
+(1) The  Department of Environmental Quality shall register and provide a
+registration renewal for an increment of one year or less for a nonroad  diesel engine owned
+or operated by a person who pays the appropriate registration or renewal fee.
+(2)(a) The department may appoint  agents to register nonroad diesel engines. Agents
+shall register nonroad  diesel engines in accordance with procedures prescribed by the Envi-
+ronmental Quality Commission by rule and shall charge and collect the fees  prescribed by
+law.
+(b) The department may authorize an  agent who is not a department employee to charge
+a service fee of $2, in addition to the registration fee, for the registration service  performed
+by the agent.
+(c) The department  shall supply agents with registration forms for nonroad diesel en-
+gines.
+(3) The commission shall establish  by rule a schedule of fees for the issuance and renewal
+of nonroad diesel engine registrations. The fees established under  the schedule shall be based
+on the costs of the department in carrying out the provisions of  this section and section 14
+of this 2017 Act.
+(4) The fees collected under this section shall be paid  into the State Treasury for deposit
+in the Clean  Diesel Engine Fund, to be used only for paying the department’s expenses in
+administering and enforcing this section and section 14 of this 2017 Act.
+SECTION 16. (1) Sections  14 and 15 of this 2017 Act become operative on January 1, 2019.
+(2) The Environmental Quality Commission and  the Department of Environmental Qual-
+ity may take any action before the operative date specified in  subsection (1) of this section
+that is necessary for the commission and the department to exercise, on and  after the op-
+erative date specified in  subsection (1) of this section, all of the duties, functions and powers
+conferred on the commission and the department by sections 14 and 15 of this 2017 Act.
+(Diesel Engine Emission Standards)
+SECTION 17. Sections 18 and 19 of this 2017 Act are added to and made a part of ORS
+468A.795 to 468A.803.
+SECTION 18. (1) The Environmental Quality Commission by rule shall establish diesel
+engine emission standards for medium-duty trucks and heavy-duty trucks.
+(2) The standards adopted by the commission under this section must  include a schedule
+to phase in implementation of a requirement that, by January 1, 2 , all  medium-duty
+trucks and heavy-duty  trucks operating in Oregon must have a 2010 model year or newer
+engine.
+(3) The schedule required by subsection (2) of this section must require that:
+(a) By January 1, 2
+, medium-duty trucks with 1995 model year or older diesel
+engines must  be replaced with a medium-duty truck with a 2010 model year or newer engine.
+(b) Beginning January 1, 2 , medium-duty trucks with 1996 model year to 2009
+model year diesel engines must be replaced with  a medium-duty truck with a 2010 model year
+or newer engine.
+(c) Beginning January 1, 2 , heavy-duty trucks with  1995 model year or older diesel
+engines must be replaced with a heavy-duty truck with a 2010 model year or newer engine.
+(d) Beginning January 1, 2 , heavy-duty  trucks with 1996 model year to 2009 model
+year diesel engines must be retrofitted and,  within eight years after the retrofit, be replaced
+with a heavy-duty truck with a 2010 model year or newer engine.
+(4) The schedule required by subsection (2) of  this section must prioritize implementation
+of the standards adopted  by the commission in those areas of the state where diesel engine
+emissions are of the  most concern. In identifying an area where diesel engine emissions are
+of the most concern, the commission shall rely on the following factors:
+(a) Whether the area is a nonattainment area under the state’s air  pollution control
+program or is an attainment area projected by the Department of Environmental  Quality to
+exceed air quality standards within five years;
+(b) The prevalence of sensitive populations in the area;
+(c) Whether the area has elevated concentrations of diesel particulate matter; and
+(d) The area’s present and projected population density.
+(5) Rules adopted under this section must allow for owners and operators of medium-duty
+trucks and heavy-duty trucks to meet the diesel engine emission standards  through alter-
+native compliance options that may include, but need not be limited to:
+(a) A fleet averaging option.
+(b) Options that provide flexibility for small fleets.
+(c) Provisions that allow owners and operators to obtain compliance credits.
+(d) Compliance extensions for individual trucks that meet eligibility requirements adopted
+by the commission by rule.
+(6) Before adopting rules under this  section, the commission shall consider regulations
+adopted by the State  of California for reducing diesel engine emissions from in-use medium-
+duty trucks and heavy-duty trucks.
+(7) The following classes of vehicles are exempt from rules adopted under this section:
+(a) Motor vehicles registered as farm vehicles under the provisions of ORS 805.300.
+(b) Farm tractors, as defined in ORS 801.265.
+(c) Implements of husbandry, as defined in ORS 801.310.
+(d) Motor vehicles used exclusively as  training vehicles, as determined by the commission
+by rule.
+(e) Any  other medium-duty trucks or heavy-duty trucks exempted from the diesel engine
+emission standards by the commission by rule.
+SECTION 19. (1) The Environmental Quality Commission shall adopt by  rule nonroad
+diesel engine emission standards. The standards adopted under this  section, and implemen-
+tation and enforcement of the standards, must be consistent  with the requirements of sec-
+tion 209(e) of the federal Clean Air Act (P.L. 88-206 as amended).
+(2) Before adopting rules under this section,  the commission shall consider regulations
+adopted by the State of California for reducing nonroad diesel engine emissions.
+SECTION 20. (1) Sections 18 and 19 of this 2017 Act become operative on January  1,
+2 .
+(2) The Environmental Quality Commission and  the Department of Environmental Qual-
+ity may take any action before  the operative date specified in subsection (1) of this section
+that is necessary for  the commission and the department to exercise, on and after the op-
+erative date specified in  subsection (1) of this section, all of the duties, functions and powers
+conferred on the commission and the department by sections 18 and 19 of this 2017 Act.
+(Clean Diesel Engine Fund Uses: Provisions Operative July 1, 2017)
+SECTION 21.  ORS 468A.801 is amended to read:
+468A.801. (1) The Clean Diesel Engine Fund is established in the  State Treasury separate and
+distinct from the General Fund. Interest earned by the Clean Diesel Engine  Fund shall be credited
+to the fund. The moneys  in the fund are continuously appropriated to the Department of Environ-
+mental Quality to be used for the purposes described in ORS 468A.803.
+(2) The Clean Diesel Engine Fund consists of:
+(a) Funds appropriated by the Legislative Assembly;
+(b) Grants provided by the federal government pursuant to the federal Clean Air Act, 42  U.S.C.
+7401 et seq., or other federal laws; [ and]
+[(c) Any other revenues derived from gifts or  grants given to the state for the purpose of providing
+financial assistance to owners or operators of diesel engines for the  purpose of repowering, retrofitting
+or scrapping diesel engines to reduce diesel engine emissions. ]
+(c) Moneys paid to the State of Oregon  pursuant to the Environmental Mitigation Trust
+Agreement;
+(d) Any other  moneys received by the state for the purpose of providing financial or
+technical assistance to owners  or operators of diesel engines for the purpose of reducing
+diesel engine emissions; and
+(e) Any other moneys deposited in the fund in accordance with law.
+SECTION 22.
+ ORS 468A.803 is amended to read:
+468A.803. (1) The  Department of Environmental Quality shall use the moneys in the Clean Diesel
+Engine Fund to award:
+(a) Grants and loans to the owners and operators of [ Oregon] diesel engines for up to 100 per-
+cent of the certified costs of qualifying retrofits as described in ORS 468A.797 and 468A.799;
+(b) Grants and loans to the owners and operators of nonroad [ Oregon] diesel engines for up  to
+25 percent of the certified costs of qualifying repowers as described in ORS 468A.797  and 468A.799;
+and
+(c) Grants to the owners of Oregon diesel truck engines to scrap those engines.
+[(2) Subject to and consistent with federal law, any  moneys received from the federal government
+that are deposited in the Clean Diesel Engine Fund under ORS 468A.801 (2)(b) must be used  for ini-
+tiatives to reduce emissions from diesel engines. Subsections (1), (3) to (5) and (7) of this section and
+ORS 468A.797 and 468A.799 do not apply to use of moneys in the Clean Diesel  Engine Fund received
+from the federal government. ]
+[(3)] (2)  In  determining the amount of a grant or loan under this section, the department must
+reduce the incremental cost of a qualifying repower or retrofit by the  value of any existing financial
+incentive that directly  reduces the cost of the qualifying repower or retrofit, including tax credits,
+other grants or loans, or any other public financial assistance.
+[(4)] (3)  The department may certify third parties to perform  qualifying repowers and retrofits
+and may contract with third parties  to perform such services for the certified costs of qualifying
+repowers and retrofits. The department may also contract with  institutions of higher education or
+other public bodies as defined by ORS 174.109  to train and certify third parties to perform qualifying
+repowers and retrofits.
+(4) The  department may not award a grant or loan for a repower or retrofit under sub-
+section (1) of this section unless the grant or loan applicant demonstrates to  the
+department’s satisfaction that the resulting retrofitted diesel engine or repowered  nonroad
+diesel engine will undergo at least 50 percent of its use in Oregon,  as measured by miles
+driven or hours operated, for the three years following the repower or retrofit.
+(5) The department may not award a grant to scrap  an Oregon diesel truck engine under sub-
+section (1)(c) of this section unless the  engine was manufactured prior to 1994 and the engine is in
+operating condition at the time of the grant application or, if repairs are needed, the owner dem-
+onstrates to the department’s satisfaction that the engine can  be repaired to an operating condition
+for less than  its commercial scrap value. The Environmental Quality Commission shall adopt rules
+for a maximum grant  awarded under subsection (1)(c) of this section for an engine in a heavy-duty
+truck and for an engine in a medium-duty truck. A grant awarded under subsection  (1)(c) of this
+section may not be combined with any other tax credits, grants or loans, or any other public  fi-
+nancial assistance, to scrap an Oregon diesel truck engine.
+(6) Subject to and consistent with federal law, any moneys received from the federal
+government that are deposited in  the Clean Diesel Engine Fund under ORS 468A.801 (2)(b)
+must be used for  initiatives to reduce diesel engine emissions. Subsections (1) to (5) of this
+section and ORS 468A.797 and 468A.799 do not apply to use of moneys in the fund received
+from the federal government.
+(7) Subject to and consistent with the terms  of the Environmental Mitigation Trust
+Agreement, any moneys received by the State of Oregon pursuant to the  Environmental
+Mitigation Trust  Agreement that are deposited in the Clean Diesel Engine Fund must be used
+by the department for activities  related to reducing nitrogen oxides emissions from diesel
+engines. Subsections (1) to (5) of this section and ORS 468A.797 and 468A.799 do not apply  to
+the use of moneys in the fund received pursuant to the agreement.
+[(6)] (8) The department may use the moneys in  the Clean Diesel Engine Fund to pay expenses
+of the department in  administering [ the program described in this section] ORS 468A.795 to
+468A.803.
+[(7) The commission shall adopt rules to implement this  section and ORS 468A.801, including but
+not limited to establishing preferences for grant and loan awards based upon percentage  of engine use
+in Oregon, whether a grant or loan applicant will  provide matching funds, whether scrapping, repow-
+ering or retrofitting an engine will benefit sensitive populations or areas with  elevated concentrations
+of diesel particulate  matter, or such other criteria as the commission may establish. The rules adopted
+by the commission shall reserve a portion  of the financial assistance available each year for applicants
+that own or operate a small  number of Oregon diesel engines or Oregon diesel truck engines and shall
+provide for simplified access to financial assistance for those applicants. ]
+[(8) The  department may perform activities necessary to ensure that recipients of grants and loans
+from the Clean Diesel Engine Fund comply with  applicable requirements. If the department determines
+that a recipient has not complied with applicable requirements, it may order  the recipient to refund all
+grant or loan moneys and may impose penalties pursuant to ORS 468.140. ]
+SECTION 23. Section 24 of this 2017 Act is added to and made a part of ORS  468A.795 to
+468A.803.
+SECTION 24. (1) The Environmental Quality Commission shall  adopt rules to implement
+ORS 468A.801 and 468A.803, including but not limited to rules that establish preferences for
+awarding grants and loans under ORS 468A.803 (1) based on a percentage of diesel  engine use
+in Oregon, whether a grant  or loan applicant will provide matching funds, whether scrapping,
+repowering or retrofitting an engine will benefit sensitive populations or areas  with elevated
+concentrations of diesel particulate matter, or such other criteria as the  commission may
+establish by rule.
+(2) Rules adopted by the commission under this section must reserve a  portion of the
+financial assistance  available each year for applicants that own or operate a small number
+of diesel engines  or Oregon diesel truck engines and must provide for simplified access to
+financial assistance for those applicants.
+(3) The Department of Environmental Quality may perform activities necessary to ensure
+that recipients of financial assistance from the Clean Diesel Engine Fund comply  with ap-
+plicable requirements. If the department determines that a recipient has  not complied with
+applicable requirements, the department may order the recipient to refund  all financial as-
+sistance moneys and may impose penalties pursuant to ORS 468.140.
+(Clean Diesel Engine Fund Uses: Provisions Operative
+January 1, 2
+)
+SECTION 25.  ORS 468A.803, as amended by section 22 of this 2017 Act, is amended to read:
+468A.803. (1) The  Department of Environmental Quality shall use the moneys in the Clean Diesel
+Engine Fund to award:
+(a) Grants and loans to the owners and operators of diesel engines for up to 100 percent of the
+certified costs of qualifying retrofits as described in ORS 468A.797 and 468A.799;
+(b) Grants  and loans to the owners and operators of nonroad diesel engines for up to 25 percent
+of the certified costs of qualifying repowers as described in ORS 468A.797 and 468A.799; [ and]
+(c) Grants to the owners of Oregon diesel truck engines to scrap those engines[ .]; and
+(d) Other financial incentives,  as developed by the department by rule, for owners and
+operators of diesel engines to achieve compliance with the diesel engine emission standards
+adopted by the Environmental Quality Commission  under sections 18 and 19 of this 2017 Act.
+(2) In determining the amount of a grant or loan under this section, the  department must reduce
+the incremental cost of a qualifying repower or retrofit  by the value of any existing financial in-
+centive that directly reduces the cost of the qualifying repower or retrofit, including  tax credits,
+other grants or loans, or any other public financial assistance.
+(3) The department may certify third parties to perform qualifying  repowers and retrofits and
+may contract with third parties to perform such services for  the certified costs of qualifying re-
+powers  and  retrofits. The department may also contract with institutions of higher education or
+other public bodies as defined by ORS 174.109  to train and certify third parties to perform qualifying
+repowers and retrofits.
+(4) The department may not award a [ grant or loan for a  repower or retrofit under subsection (1)
+of this section ] grant, loan  or other financial incentive under subsection (1)(a), (b) or (d) of this
+section unless the [ grant or loan ] applicant  for a grant, loan or other  financial incentive  dem-
+onstrates to the department’s satisfaction that the  resulting retrofitted diesel engine or repowered
+nonroad diesel engine will undergo at least  50 percent of its use in Oregon, as measured by miles
+driven or hours operated, for the three years following [ the repower or retrofit ] completion of the
+activity for which the grant, loan or other financial incentive was awarded .
+(5) The department may not award a grant  to scrap an Oregon diesel truck engine under sub-
+section (1)(c) of this section unless the engine was manufactured prior to  1994 and the engine is in
+operating condition at the time of the grant application or, if repairs are needed, the owner dem-
+onstrates to the department’s satisfaction that the engine can  be repaired to an operating condition
+for less than its commercial scrap value. The Environmental Quality Commission shall  adopt rules
+for a maximum grant awarded under subsection (1)(c) of this section for an engine  in a heavy-duty
+truck and for an  engine in a medium-duty truck. A grant awarded under subsection (1)(c) of this
+section  may  not be combined with any other tax credits, grants or loans, or any other public fi-
+nancial assistance, to scrap an Oregon diesel truck engine.
+(6) Subject to and consistent with federal law, any moneys  received from the federal government
+that are deposited in the  Clean Diesel Engine Fund under ORS 468A.801 (2)(b) must be used for in-
+itiatives to reduce diesel engine emissions. Subsections (1) to (5) of this section  and ORS 468A.797
+and 468A.799 do not apply to use of moneys in the fund received from the federal government.
+(7) Subject to and consistent  with the terms of the Environmental Mitigation Trust Agreement,
+any moneys received by the State of Oregon pursuant to the Environmental  Mitigation Trust
+Agreement that are deposited in the Clean Diesel Engine Fund must be used by the department  for
+activities related to reducing nitrogen oxides emissions  from diesel engines. Subsections (1) to (5)
+of this section and ORS  468A.797 and 468A.799 do not apply to the use of moneys in the fund re-
+ceived pursuant to the agreement.
+(8) The department may use the moneys in the Clean Diesel Engine Fund to pay expenses of  the
+department in administering ORS 468A.795 to 468A.803.
+SECTION 26.
+ Section 24 of this 2017 Act is amended to read:
+Sec. 24.  (1)  The Environmental Quality Commission shall adopt rules to implement ORS
+468A.801 and 468A.803, including but not limited to rules that establish preferences for awarding :
+(a) Grants and loans under ORS 468A.803 [ (1)] (1)(a) to (c)  based on a percentage of diesel en-
+gine use in Oregon, whether a  grant or loan applicant will provide matching funds, whether scrap-
+ping, repowering  or retrofitting an engine will benefit sensitive populations or areas with elevated
+concentrations of diesel particulate  matter, or such other criteria as the commission may establish
+by rule[ .]; and
+(b) Financial incentives under ORS 468A.803 (1)(d) based on the factors for prioritizing
+implementation of diesel engine emission standards set forth in section 18 of this 2017 Act.
+(2) Rules adopted  by the commission under this section must reserve a portion of the financial
+assistance available each year for applicants that own or  operate a small number of diesel engines
+or Oregon diesel truck engines and must provide for simplified access to  financial assistance for
+those applicants.
+(3) The Department of Environmental Quality may perform activities necessary  to ensure that
+recipients of financial assistance from the Clean Diesel Engine  Fund comply with applicable re-
+quirements. If the department determines that a recipient has not complied with applicable require-
+ments, the department may order  the recipient to refund all financial assistance moneys and may
+impose penalties pursuant to ORS 468.140.
+SECTION 27.
+(1) Sections 25 and 26 of this 2017 Act become operative January  1,
+2 .
+(2) The Environmental Quality Commission and  the Department of Environmental Qual-
+ity may take any action before  the operative date specified in subsection (1) of this section
+that is necessary for  the commission and the department to exercise, on and after the op-
+erative date specified in  subsection (1) of this section, all of the duties, functions and powers
+conferred on the commission and the department by sections 25 and 26 of this 2017 Act.
+REPEAL OF STATE PREEMPTION OF LOCAL REGULATION OF
+IDLING BY PRIMARY ENGINES IN COMMERCIAL VEHICLES
+SECTION 28. ORS 825.615 is repealed.
+CONFORMING AMENDMENTS
+(Generally)
+SECTION 29.  ORS 468A.799 is amended to read:
+468A.799. (1) The Environmental  Quality Commission by rule shall establish standards for the
+qualifying repower of a nonroad [ Oregon] diesel engine or retrofit of  [ an Oregon ] a  diesel engine,
+including but not limited to rules  establishing repower or retrofit qualifications for purposes of the
+tax credit established in section 12, chapter 855, Oregon Laws 2007.
+(2) The standards adopted by the commission under this section must include:
+(a) A requirement  for the reduction of diesel particulate matter emissions by at least 25 percent
+compared with the baseline emissions for the relevant engine year and application;
+(b) A list of technologies approved as qualifying repowers or retrofits that have  been verified
+by the United States Environmental Protection Agency or the California Air Resources Board; and
+(c) A requirement that a qualifying repower or retrofit does not include the repower or  retrofit
+of a vehicle or engine for which a grant, loan or tax credit under ORS 468A.803 or  section 12,
+chapter 855, Oregon Laws 2007, has been awarded or allowed, unless the repower  or retrofit will
+reduce emissions further than the repower or retrofit funded by the grant, loan or tax credit.
+SECTION 30.
+ ORS 468A.799, as amended by section 8a, chapter  855, Oregon Laws 2007, is
+amended to read:
+468A.799. (1) The Environmental Quality Commission by rule shall establish  standards for the
+qualifying repower of a nonroad [ Oregon] diesel engine or retrofit of [ an Oregon ] a  diesel engine.
+(2) The standards adopted by the commission under this section must include:
+(a) A requirement  for the reduction of diesel particulate matter emissions by at least 25 percent
+compared with the baseline emissions for the relevant engine year and application;
+(b) A list  of technologies approved as qualifying repowers or retrofits that have been verified
+by the United States Environmental Protection Agency or the California Air Resources Board; and
+(c) A requirement that a qualifying repower or retrofit does not include the repower or  retrofit
+of a vehicle or engine for which a grant or loan under ORS 468A.803  has been awarded or allowed,
+unless the repower or retrofit will reduce  emissions further than the repower or retrofit funded by
+the grant or loan.
+(To Tax Credit Applicable to Past Tax Years)
+SECTION 31.  Section 12, chapter 855, Oregon Laws 2007, is amended to read:
+Sec. 12.  (1)  A personal income or corporate income or excise taxpayer is allowed a credit
+against the taxes that are  otherwise due under ORS chapter 316, 317 or 318 for the certified costs
+of a repower of a  nonroad [ Oregon] diesel engine or retrofit of [ an Oregon ] a diesel engine that oc-
+curs after [ the effective date of this 2007 Act ] September 27, 2007, if:
+(a) The repower or  retrofit has been identified as qualifying for the credit under rules adopted
+by the Environmental Quality Commission under [ section 8 of this 2007 Act ] ORS 468A.799 ;
+(b) [ The engine will  constitute an Oregon diesel engine ] The repowered or retrofitted engine
+will undergo at least  50 percent of its use in Oregon, as measured by miles driven or hours
+operated, for the three years following the repower or retrofit ; and
+(c) The taxpayer has obtained a tax credit cost certification from the Department of Environ-
+mental Quality under section 16 [ of this 2007 Act ], chapter 855, Oregon Laws 2007,  for  the cost
+of the repower or retrofit.
+(2) The maximum amount of the tax credit allowed under this section is limited to:
+(a) 25 percent of the certified cost of each qualifying repower; and
+(b) 50 percent of the certified cost of each qualifying retrofit.
+(3) The amount of the tax credit allowed to  the taxpayer under this section in any one tax year
+may not exceed the tax liability of the taxpayer for the tax year.
+(4) Any tax credit that  is allowed under this section, but limited by subsection (3) of this section,
+and that is not used by the taxpayer in a particular tax year may be carried forward  and offset
+against the taxpayer’s tax liability as prescribed in  subsection (3) of this section for the next suc-
+ceeding tax year. Any credit  remaining unused in the next succeeding tax year may be carried
+forward and offset against the taxpayer’s tax liability as prescribed in subsection (3) of this section
+for the second succeeding tax year. Any credit remaining unused  in the second succeeding tax year
+may be carried forward  and offset against the taxpayer’s tax liability as prescribed in subsection (3)
+of this section for the third succeeding tax year, but may not be carried forward  for any tax year
+thereafter.
+(5) The credit  allowed under this section is not in lieu of any depreciation or amortization de-
+duction for the engine to which the taxpayer otherwise may be entitled for purposes  of ORS chapter
+316, 317 or 318. The taxpayer’s adjusted basis for determining gain  or loss may not be decreased by
+any tax credits allowed under this section.
+(6)(a) The Department of Revenue may disallow  the credit allowed under this section if the de-
+partment finds that the  credit was obtained by fraud or misrepresentation, or if the department
+learns that the engine that was the subject of the qualifying repower or  retrofit was destroyed by
+arson committed by the taxpayer, or if the engine no longer  meets the requirements for obtaining
+the tax credit.
+(b) If the tax credit is disallowed  pursuant to this subsection, notwithstanding ORS 314.410 or
+other law, all prior tax relief provided to the taxpayer shall be  forfeited, the department shall pro-
+ceed to collect those  taxes not paid by the taxpayer as a result of the prior granting of the credit
+and the taxpayer shall be denied any further credit provided under this section.
+(c) The department may perform  activities necessary to ensure that recipients of the tax credit
+comply with applicable requirements.
+(7)(a) A nonresident individual  shall be allowed the credit computed in the same manner and
+subject to the same limitations as the credit allowed a  resident by this section. However, the credit
+shall be prorated using the proportion provided in ORS 316.117.
+(b) If a change in the taxable year of a taxpayer occurs as described in ORS 314.085,  or if the
+Department of Revenue terminates the taxpayer’s taxable  year under ORS 314.440, the credit al-
+lowed by this section shall be prorated or computed in a manner consistent with ORS 314.085.
+(c) If a change in the status of a taxpayer from resident to  nonresident or from nonresident to
+resident occurs, the credit allowed by this section shall be determined  in a manner consistent with
+ORS 316.117.
+(8) The taxpayer shall claim the credit on a form prescribed by the Department of  Revenue
+containing the information  required by the Department of Revenue. The taxpayer shall maintain the
+tax credit cost certification  issued by the Department of Environmental Quality under section 16
+[of this 2007 Act ], chapter 855, Oregon Laws 2007,  in the records of the taxpayer  for the length
+of time prescribed by the Department of Revenue and shall  provide a copy of the cost certification
+to the Department of Revenue if requested.
+(9) A taxpayer may not claim  a credit under this section and ORS 315.304 with respect to the
+same diesel engine or  group of diesel engines. A taxpayer may claim a credit under this section and
+under ORS [ 469.185 to 469.225] 469B.130 to 469B.169 with respect to the same diesel engine or group
+of diesel engines if the taxpayer  and diesel engines otherwise meet the requirements to be allowed
+a tax credit under ORS [ 469.185 to 469.225] 469B.130 to 469B.169 .
+APPROPRIATION
+SECTION 32. In addition to and not in lieu of any other  appropriation, there is appro-
+priated to the Department of Environmental  Quality, for the biennium beginning July 1, 2017,
+out of the General Fund, the amount of $  for the purpose of completing the initial
+inventory required by section 11 of this 2017 Act.
+CAPTIONS
+SECTION 33. The unit captions used in this 2017 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2017 Act.
+EMERGENCY CLAUSE
+SECTION 34. This 2017 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is declared to exist,  and this 2017 Act takes effect
+July 1, 2017.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 468A.795, ORS 468A.796, ORS 468A.799, ORS 468A.801, ORS 468A.803, ORS 825.615
+- From bill text (Introduced version): ORS 174.109, ORS 314.085, ORS 314.410, ORS 314.440, ORS 315.304, ORS 316.117, ORS 468.140, ORS 468A.795, ORS 468A.796, ORS 468A.797, ORS 468A.799, ORS 468A.801, ORS 468A.803, ORS 801.265, ORS 801.310, ORS 805.300, ORS 825.005, ORS 825.615
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `01b9188775b25b9d944ab0614e64e7b30bf2d21d8c48f84777bf91c978ebb314` (snapshot `_meta/snapshots/measure-2017r1-hb2138-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/HB2138/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2138` (part of the batched per-session fetch), sha256 `8a531c771f7c0531d1b6a422bf18d037d210e0e6cb92f247a009fd99e6400c68` of the shared session snapshot `_meta/snapshots/measures-2017r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

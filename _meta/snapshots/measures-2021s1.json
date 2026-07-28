@@ -1,0 +1,62 @@
+[
+ {
+  "AtTheRequestOf": null,
+  "CatchLine": "Adjourns sine die 2021 special session of Eighty-first Legislative Assembly.",
+  "CreatedDate": "2021-09-25T16:10:09",
+  "LCNumber": 4,
+  "MeasureNumber": 51,
+  "MeasurePrefix": "HCR",
+  "MeasureSummary": "\tAdjourns sine die 2021 special session of Eighty-first Legislative Assembly.",
+  "MinorityCatchLine": null,
+  "ModifiedDate": "2021-10-04T12:27:23",
+  "PrefixMeaning": "House Concurrent Resolution",
+  "RelatingTo": "Adjourning sine die 2021 special session of Eighty-first Legislative Assembly.",
+  "RelatingToFull": "\n\t",
+  "SessionKey": "2021S1"
+ },
+ {
+  "AtTheRequestOf": null,
+  "CatchLine": "Removes current congressional district provisions.",
+  "CreatedDate": "2021-09-19T22:17:55",
+  "LCNumber": 3,
+  "MeasureNumber": 881,
+  "MeasurePrefix": "SB",
+  "MeasureSummary": "\tRemoves current congressional district provisions. Specifies new congressional districts. \n\tDeclares emergency, effective on passage.",
+  "MinorityCatchLine": null,
+  "ModifiedDate": "2021-10-04T09:11:18",
+  "PrefixMeaning": "Senate Bill",
+  "RelatingTo": "Relating to redistricting; and declaring an emergency.",
+  "RelatingToFull": "Relating to redistricting; and declaring an emergency. \n\t",
+  "SessionKey": "2021S1"
+ },
+ {
+  "AtTheRequestOf": null,
+  "CatchLine": "Provides for state legislative redistricting.",
+  "CreatedDate": "2021-09-19T22:17:55",
+  "LCNumber": 2,
+  "MeasureNumber": 882,
+  "MeasurePrefix": "SB",
+  "MeasureSummary": "\tProvides for state legislative redistricting. \n\tDeclares emergency, effective on passage.",
+  "MinorityCatchLine": null,
+  "ModifiedDate": "2021-10-04T09:11:18",
+  "PrefixMeaning": "Senate Bill",
+  "RelatingTo": "Relating to redistricting; and declaring an emergency.",
+  "RelatingToFull": "Relating to redistricting; and declaring an emergency. \n\t",
+  "SessionKey": "2021S1"
+ },
+ {
+  "AtTheRequestOf": null,
+  "CatchLine": "Adjourns sine die 2021 special session of Eighty-first Legislative Assembly.",
+  "CreatedDate": "2021-09-19T22:21:15",
+  "LCNumber": 1,
+  "MeasureNumber": 31,
+  "MeasurePrefix": "SCR",
+  "MeasureSummary": "\tAdjourns sine die 2021 special session of Eighty-first Legislative Assembly.",
+  "MinorityCatchLine": null,
+  "ModifiedDate": "2021-10-04T09:02:33",
+  "PrefixMeaning": "Senate Concurrent Resolution",
+  "RelatingTo": "Adjourning sine die 2021 special session of Eighty-first Legislative Assembly.",
+  "RelatingToFull": "\n\t",
+  "SessionKey": "2021S1"
+ }
+]

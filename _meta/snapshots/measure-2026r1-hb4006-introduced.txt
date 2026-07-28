@@ -1,0 +1,699 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4006
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Agriculture, Land Use, Natural Resources, and Water for Representatives Ken Helm, Mark Owens)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act makes changes to laws as they  relate to some Columbia River water rights.
+(Flesch Readability Score: 67.5).
+Authorizes holders of certain Columbia River water rights to  change the point of diversion or
+use the water right on land to which the right is not appurtenant, provided certain conditions are
+met. Exempts certain Columbia River water rights from the  application requirements for a change
+to the use of the water right, provided certain conditions are met.
+Exempts the irrigation systems of intergovernmental entities, with respect  to certain water
+rights, from the application of certain laws pertaining to irrigation ditches and reservoirs.
+Authorizes the Mid-Columbia Water Commission to participate in the district water  rights
+mapping process, with respect to certain water rights. Requires the  commission to report to the
+Legislative Assembly on the effects of this Act for a period of 10 years.
+A BILL FOR AN ACT
+Relating to water rights with points  of diversion between river miles 252 and 303 on the Columbia
+River; creating new provisions; and amending ORS 537.211, 540.270, 540.520,  541.325, 541.327 and
+541.329.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 537.211 is amended to read:
+537.211. (1) The approval of an application referred  to in ORS 537.140 or 537.400 shall be set
+forth in a water right permit issued by the Water Resources Department.  The permit shall specify
+the details of the authorized use and shall set forth any terms, limitations and conditions as the
+department considers appropriate including but not limited to any applicable condition  required
+under ORS 537.289. A copy of the permit shall be filed as a public record in  the department. The
+permit shall be mailed to the applicant, and upon receipt of the permit the permittee  may proceed
+with the construction of  the necessary works and may take all action required to apply the water
+to the designated beneficial use and to perfect the proposed appropriation.
+(2) Except  as provided in subsection [ (7)] (8) of this section, if an application under ORS 537.140
+or 537.400 indicates that the applicant does not have written authorization or an easement permit-
+ting access to nonowned land crossed by the proposed ditch,  canal or other work, the department
+may issue a final order approving the application if the approval includes a condition requiring the
+applicant to obtain such written authorization, or easement or ownership  of such land and to pro-
+vide the department with a copy of the written authorization, easement or evidence of ownership.
+(3) If an application referred to in ORS 537.140 or  537.400 is rejected, the department shall enter
+a written order setting forth the reasons  for the rejection. The applicant shall take no action toward
+construction of the works or use of the  water. The department shall mail a copy of the order to the
+applicant.
+(4) The holder of a water right permit may change  the point of diversion, change the point of
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 244
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+appropriation, change the point  of diversion to allow the appropriation of ground water or use the
+water on land to which the right is not appurtenant if:
+(a) The use of water on land to which the  right is not appurtenant, the change of point of di-
+version or the change in point of appropriation does not result in injury to an existing  water right;
+(b) For a proposed change in the place of use of the water, the land on which  the water is to
+be used is owned or controlled by the holder of the permit and is contiguous to the land  to which
+the permit is appurtenant;
+(c) All other terms of the permit remain the same, including  but not limited to the beneficial
+use for which the water is used and the number of acres to which water is applied;
+(d) Prior approval  is obtained from the district if the water is transported or conveyed by an
+irrigation district organized under ORS chapter 545, a drainage district organized  under ORS chap-
+ter 547, a water improvement  district organized under ORS chapter 552, a water control district
+organized under ORS chapter 553 or a district improvement company or  a corporation organized
+under ORS chapter 554;
+(e) The holder of the permit  provides written notice to the department at least 60 days before
+making any changes to the lands,  point of diversion or point of appropriation described in the per-
+mit;
+(f) Diversion is provided with  a proper fish screen, if requested by the State Department of Fish
+and Wildlife; and
+(g) For a request to transfer the point  of diversion to allow the appropriation of ground water,
+the proposed change meets the standards set forth in ORS 540.531 (2) or (3).
+(5) The Water Resources  Department may deny a change in the point of appropriation under
+subsection (4) of this section if the  proposed point of appropriation is for a source of ground water
+restricted under ORS 536.415 and the proposed  use is subject to the restrictions, unless the proposed
+point of appropriation is:
+(a)(A) In a critical ground water area designated under ORS 537.730;
+(B) In the same aquifer as the existing point of appropriation; and
+(C) In the same portion of the critical ground water area  as the existing point of appropriation;
+(b) In an area for which a ground water bank that is established by law or by  rule mitigates the
+effects of the use of ground water; or
+(c) Related to the recovery of stored ground water under  an artificial recharge or aquifer stor-
+age and recovery project.
+(6) Notwithstanding the  requirements of subsection (4)(b) of this section, the holder of a water
+right permit may  change the place of use of all or any portion of water under the permit to land that
+is not contiguous to the land to which the permit is appurtenant if:
+(a) The change  to noncontiguous land is in furtherance of mitigation or conservation efforts
+undertaken for the purposes of benefiting  a species listed as sensitive, threatened or endangered
+under ORS 496.171 to 496.192  or the federal Endangered Species Act of 1973 (16 U.S.C. 1531 to 1544),
+as determined by the listing agency; and
+(b) All other requirements of subsection (4) of this section are met.
+(7)(a) Notwithstanding the requirements of subsection (4) of this section, the holder of  a
+water right permit may change the point  of diversion or use the water right on land to which
+the right is not appurtenant if the  beneficial use authorized by the water right permit is ir-
+rigation, the water right permit identifies  all points of diversion as being on the Columbia
+River between and inclusive of  river miles 252 and 303 and the holder of the water right
+[2]
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+permit diverts the water for irrigation at one or  more points of diversion between and in-
+clusive of river miles 252 and 303, so long as  there is no increase in the rate or season of use.
+(b) As used in this subsection,  “irrigation” includes shoulder-season and winter irri-
+gation.
+[(7)] (8)  For an application  made by or on behalf of a public corporation, the department may
+issue a permit  approving the application without requiring the applicant to obtain prior written
+authorization or an easement  permitting access to nonowned lands affected by the proposed project.
+However, nothing in this subsection  shall be construed to allow any person to trespass on the lands
+of another person.
+[(8)] (9)  When the department receives notice under subsection (4)(e) of this section, the de-
+partment shall publish the notice in the department’s weekly public notice of water right applica-
+tions.
+[(9)] (10) If the use of water under  the permit is for operation of a mining operation as defined
+in ORS 517.952:
+(a) Review of the application and approval or denial of the application  shall be coordinated with
+the consolidated application process under ORS 517.952 to 517.989. However, such  review and ap-
+proval or denial  shall take into consideration all policy considerations for the appropriation of water
+as set forth in this chapter and ORS chapter 536.
+(b) The permit may be issued for exploration  under ORS 517.702 to 517.740, but the permit shall
+be conditioned on the applicant’s compliance with the consolidated application process.
+(c) The permit shall include a condition  that additional conditions may be added to the use of
+water when a water right certificate is issued,  or when the use of water is changed pursuant to ORS
+540.520 and 540.530 to use for a mine.
+[(10)] (11) As used in this section, “contiguous” includes land separated from the land  to which
+a water right is appurtenant by roads, utility corridors, irrigation ditches or  publicly owned rights
+of way.
+SECTION 2.
+ ORS 540.270 is amended to read:
+540.270. (1) Nothing contained in ORS 540.210 to 540.260  shall be applicable to the distribution
+of water from the irrigation systems  or works of irrigation districts or district improvement com-
+panies unless requested by the district.
+(2) Nothing contained in ORS 540.210 to 540.260 shall be applicable  to the distribution of
+water from irrigation  systems or works owned or controlled by an intergovernmental entity
+organized under ORS chapter 190, provided that the point of diversion  of the water is on the
+Columbia River between and inclusive of river miles 252 and 303.
+(3) Distribution of water  from [ such] irrigation systems or works described in subsection (1)
+or (2) of this section shall be under the exclusive control of the directors of the irrigation
+districts , [ and] district improvement companies or intergovernmental  entities  unless the
+watermaster has been requested by the district or entity  to distribute the water.
+SECTION 3.  ORS 540.520 is amended to read:
+540.520. (1)(a) Except when  the application is made under ORS 541.327 or when an application
+for a temporary transfer is  made under ORS 540.523, if the holder of a water use subject to transfer
+for irrigation, domestic use, manufacturing purposes, or other use, for any reason  desires to change
+the place of use, the point of diversion, or the use  made of the water, an application to make such
+change, as the case may be, shall be filed with the Water Resources Department.
+(b) A  holder of a water right certificate that authorizes the storage of water may change the
+[3]
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+type of use identified in the water right certificate, as described in this section.
+(2) The application required under subsection (1) of this section shall include:
+(a) The name of the owner;
+(b) The previous use of the water;
+(c) A description of the premises upon which the water is used;
+(d) A description of the premises upon which it is proposed to use the water;
+(e) The use that is proposed to be made of the water;
+(f) The reasons for making the proposed change; and
+(g) Evidence that the water has been used  over the past five years according to the terms and
+conditions of the owner’s water right certificate  or that the water right is not subject to forfeiture
+under ORS 540.610.
+(3) If the application required under subsection (1) of this section  is necessary to allow a change
+in a water right pursuant to ORS  537.348, is necessary to complete a project funded under ORS
+541.932, or is approved by the State Department of Fish and  Wildlife as a change that will result in
+a net benefit to fish and wildlife habitat, the Water Resources  Department, at the discretion of the
+Water Resources Director, may waive or assist the applicant in  satisfying the requirements of sub-
+section (2)(c) and (d) of this section. The  assistance provided by the department may include, but
+need not be limited to, development of an application map.
+(4) If  the application is to change the point of diversion, the transfer shall include a condition
+that the holder of the water right provide a proper  fish screen at the new point of diversion, if re-
+quested by the State Department of Fish and Wildlife.
+(5) The Water Resources Department shall undertake an initial review of an application under
+subsection (1) of this section.
+(6)(a) Upon completion of the initial review, the department shall notify the  applicant of its
+preliminary determinations, identify any outstanding information that is necessary to continue  pro-
+cessing the application and allow the applicant 30 days from the date of notice to:
+(A) Notify the department to stop processing the application; or
+(B) Notify the department to continue processing the application and provide any  outstanding
+information to the department.
+(b) If, within 30 days from the date of the notice, the applicant does not  notify the department
+as provided in paragraph (a) of this subsection,  does not provide all outstanding information as
+provided in paragraph (a)(B) of this subsection or  notifies the department to stop processing the
+application, the department shall close  the file for the application and take no further action on the
+application. The department may allow an  applicant up to 60 additional days to provide outstanding
+information if the applicant  requests additional time and the department determines that the appli-
+cant is undertaking reasonable efforts  to provide the information in a timely manner to the depart-
+ment.
+(c) If, within  30 days from the date of the notice or an additional time period allowed under
+paragraph (b) of this subsection, the applicant notifies the department to proceed  with the applica-
+tion and provides any outstanding information  necessary to continue processing the application, the
+department shall:
+(A) Proceed with processing the application.
+(B) Give notice of the initial review in the weekly public  notice of the department and accept
+written public comments for 30 days.
+(7) Upon issuance of  a proposed final order, the department shall give notice of the order in the
+[4]
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+weekly public notice of the department. If the department determines that more  than five water
+rights would be injured as a result of the change proposed in an application under  subsection (1)
+of this section, the  department shall publish notice once each week for two consecutive weeks in a
+newspaper of general circulation in the area in which the water rights are located. The cost of the
+publication shall be paid by the applicant in advance to the department.
+(8) Within 30 days after the publication in the department’s weekly public notice  any person
+may file a protest against the proposed final order.
+(9) The provisions of ORS 536.076 and 536.077, and rules adopted  thereunder, apply to a con-
+tested case proceeding on a proposed final order issued under this section.
+(10) If in the  opinion of the Water Resources Director a hearing is necessary to determine
+whether the proposed changes as described by the application would result  in injury to existing
+water rights, the department shall hold a hearing on the matter.
+(11) An application for a change of use under this section is not  required if the beneficial use
+authorized by the water use subject to transfer is irrigation  and the owner of the water right uses
+the water for incidental agricultural, stock  watering and other uses related to irrigation use, so long
+as there is no increase in the rate, duty, total acreage benefited or season of use.
+(12)(a) An application for a change of use under this section is  not required if the bene-
+ficial use authorized by the water use subject to  transfer is irrigation, the water use subject
+to transfer identifies all points of  diversion as being on the Columbia River between and in-
+clusive of river miles 252 and 303 and the owner of  the water right diverts the water for ir-
+rigation at one or more points of diversion between and inclusive of river miles  252 and 303,
+so long as there is no increase in the rate or season of use.
+(b) As used in this subsection,  “irrigation” includes shoulder-season and winter irri-
+gation.
+[(12)] (13) A water right  transfer under subsection (1) of this section is not required for a gen-
+eral industrial use that was not included in a water right certificate issued for a specific industrial
+use if:
+(a) The quantity of water  used for the general industrial use is not greater than the rate allowed
+in the original water right and not  greater than the quantity of water diverted to satisfy the au-
+thorized specific use under the original water right;
+(b) The location where the water is to be used for  general industrial use was owned by the
+holder of the original water right at the time the water right permit was issued; and
+(c) The person who makes the change in water  use provides the following information to the
+Water Resources Department:
+(A) The name and mailing address of the person using water under the water right;
+(B) The water right certificate number;
+(C) A description  of the location of the industrial facility owned by the holder of the original
+water right at the time the water right permit was issued; and
+(D) A description of the general industrial use to be made of the water after the change.
+SECTION 4.
+ ORS 541.325 is amended to read:
+541.325. As used in ORS 541.327 to 541.333:
+(1) “District” means :
+(a) Any district or corporation organized under ORS chapter 545, 547, 552, 553 or 554 or  any
+corporation, cooperative, company or other association formed before 1917  for the purpose of dis-
+tributing water for irrigation purposes[ .]; or
+[5]
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Any intergovernmental entity organized under ORS  chapter 190 that is established for
+the purpose of distributing water for irrigation.
+(2) “Owned” or “controlled” means ownership in fee, purchase on  a land sale contract, option
+to purchase or lease.
+(3) “User” means an owner of land with an appurtenant water right that is subject to assessment
+by a district and that would be altered by the petition and map filed under ORS 541.329.
+SECTION 5.
+ ORS 541.327 is amended to read:
+541.327. (1) If a district fails  or refuses to act under ORS 541.329 and 541.331, the owner of land
+with an appurtenant water right within a district and subject  to assessment by the district may
+transfer the use or place of use of the water right on or before July 1,  1994, pursuant to ORS
+541.333. An owner transferring the use or place  of use under this subsection shall comply with ORS
+536.050.
+(2) If the owners of land within a quarter  quarter of a section in a district agree as to the use
+and place of use of all water rights in the quarter quarter of the section subject to assessment  by
+the district, the owners may jointly submit an application, without the fees required under  ORS
+536.050, to the Water  Resources Department to conform the department’s records to the present
+usage within the quarter quarter of a section. The application must be filed  in accordance with ORS
+541.333 on or before July 1, 1994.
+(3) The district or users within  a district authorized to participate in the process described un-
+der ORS 541.325 to 541.333 shall be limited to those districts or users who have notified  the de-
+partment on or before July 1, 1993, of their intention to submit a petition.
+(4) Notwithstanding subsection (3) of this section, the Walla Walla  River Irrigation District, or
+its successor district formed under ORS chapter 545 and created after July 1,  1994, may participate
+in the  process described under ORS 541.325 to 541.333 if the district notifies the department on or
+before June 30, 2004.
+(5) Notwithstanding subsection (3) of this section, if the Mid-Columbia Water Commis-
+sion, or its successor district, notifies the department on or before  June 30, 2027, the com-
+mission may participate in the process described under ORS  541.325 to 541.333 with respect
+to water rights for which the point  of diversion is on the Columbia River between and in-
+clusive of river miles 252 and 303.
+SECTION 6.  ORS 541.329 is amended to read:
+541.329. (1) Pursuant to the requirements of subsection (2) of this section,  a district may petition
+the Water Resources  Commission for approval and acceptance of a district map indicating the lo-
+cation and use of the water rights within  the district or any part thereof. The petition and map shall
+be in a form satisfactory to the commission and shall be certified by the district  rather than a cer-
+tified water right examiner.  For a district that notifies the Water Resources Department under ORS
+541.327 (4) or (5) , the map must be submitted in an  electronic format meeting the standards set by
+the department. The petition and map may not expand a  water right of the district or its users be-
+yond the total right of record of the district. If the district has met the requirements  of ORS 541.325
+to 541.331 and after the opportunity for hearing under ORS 541.331,  the commission shall instruct
+the director to issue a new certificate or permit to the  district listing the requested locations and
+uses and retaining the original priority date. If the commission  denies the petition, the commission
+shall hold a hearing on the denial. Notice and conduct of the hearing shall be under the provisions
+of ORS chapter 183 pertaining to contested cases. The hearing shall be conducted in the  area where
+the right is  located unless the parties and the persons who file the protest under this section stip-
+[6]
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ulate otherwise.
+(2) The petition required  under subsection (1) of this section shall be submitted on or before July
+1, 1994, [ or] before June 30, 2010, for a district notifying the  department under ORS 541.327 (4), or
+before June 30, 2028, for a district notifying the  department under ORS 541.327 (5),  and shall
+include:
+(a) The name of the district and the certificate or permit number of each water right  contained
+in the petition.
+(b) The names of all users within the district whose lands are included in the petition.
+(c) A general description of the district boundaries.
+(d) A general description of the users’ land and all water rights per  each parcel affected by the
+petition and the map. If the water right is on a tract of land of five acres or less, a notation  of the
+acres of water right on the assessor’s tax map shall be  sufficient for identification of the place of
+use and the extent of use.
+(e) A description of the use that is proposed to be made of the water on each parcel.
+(f) An affirmation by the petitioner that the map and petition are accurate to the  best of the
+petitioner’s knowledge.
+(3) A petition submitted under this section shall contain no more acres of land  than the least
+of the following:
+(a) The number of acres assessed by the district as of July 1, 1989;
+(b) The number of acres assessed by the district as of July 1, 1993; [ or]
+(c) If a district notifies the department  under ORS 541.327 (4), the number of acres assessed by
+the district as of December 31, 2003[ .]; or
+(d) If a district  notifies the department under ORS 541.327 (5), the number of acres within
+the boundary of the district as of December 31, 2025. The boundaries  of a district subject to
+this paragraph may for administrative convenience encompass lands  that are not subject to
+the charges and assessments of the district, without regard  to whether the lands are sus-
+ceptible to  irrigation. An owner whose land is within the boundaries of a district subject to
+this paragraph and that is not subject to the charges and assessments of the district  does
+not have the rights or duties under ORS 541.325  to 541.333 of an elector, member or owner
+of land.
+(4) Before submitting a petition under subsection (2) of this section, the district shall  send a
+notice to the  user of every parcel whose right of record is to be altered, as evidenced by the
+district’s records. This notice shall be sent to the last-known address for the user with a  return re-
+ceipt requested. The notice shall include  the number of acre-feet of water or its equivalent, for
+which the user is being assessed, a general description or tax lot of the land to which the  water is
+assigned, a description of the use  and a request for confirmation that the information in the notice
+is correct. Thirty  days after the notice is mailed, the district shall prepare a petition and map as
+described in subsections (1) and (2) of this section. Payment  for water by the user or the user’s
+predecessor for a period of five years before the petition shall create  a rebuttable presumption that
+the number of  acres billed and paid by the user or the user’s predecessor is equal to the user’s water
+right.
+(5) Within 30 days after the commission issues a proposed order regarding the petition,  the dis-
+trict shall send notice to the users of the district whose right  of record is to be altered by the
+proposed order. This notice shall be sent to the last-known address of the user with a  return receipt
+requested. The notice shall include the number of acres of land, or  its equivalent, for which the user
+[7]
+HB 4006
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+is being assessed, a general description or tax lot number of the land to which  the water is assigned
+and a description of the use. In addition to the notice of the  proposed order that the district sends
+to the users, the district shall publish at the same  time notice in a newspaper having general cir-
+culation in the area in which the water rights are located for a period of at least two weeks.  Not
+less than one publication in each week shall be made. The notice shall state:
+(a) The number of acres of water right that each parcel  shall receive and the associated priority
+dates;
+(b) That the proposed map and order are available for inspection at the  office of the district
+during normal business hours for a period of 60 days from the date of first publication;
+(c) That  not less than 60 days after the date of first publication, the commission shall approve
+the petition and map and issue a final order unless a protest is filed or the  petition does not meet
+the requirements of subsections (1) and (2) of this section; and
+(d) That the user has the right to protest the proposed order and map as  described in ORS
+541.331.
+(6) If the commission returns a petition or map to a district for  correction, the commission may
+prescribe a deadline for the petitioner to  provide additional information or correct the petition or
+map. If the petitioner fails to meet  the deadline prescribed by the commission, the commission may
+deny the petition.
+SECTION 7.
+For a period of 10 years following the date on which the Mid-Columbia Water
+Commission or its successor district provides notice to the Water  Resources Department
+under ORS 541.327, the commission or its successor shall  provide an annual report, in the
+manner provided by ORS 192.245, to the committees or interim committees of  the Legislative
+Assembly related to water. The report must include:
+(1) The number of properties that  obtained access to the benefits of the regional water
+systems that would not have  otherwise secured access but for the amendments to statutes
+by sections 1 to 6 of this 2026 Act;
+(2) The number of acre-feet of avoided groundwater use due to  landowners that obtained
+access to the benefits of the regional water systems that would not have  otherwise been
+avoided but for the amendments to statutes by sections 1 to 6 of this 2026 Act; and
+(3) The integration value of the implementation  of the amendments to statutes by
+sections 1 to 6 of  this 2026 Act, including those instances in which municipal, industrial or
+agricultural water  needs and users shared infrastructure to optimize investments in water
+infrastructure and water rights.
+[8]

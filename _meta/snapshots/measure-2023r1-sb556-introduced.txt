@@ -1,0 +1,165 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Senate Bill 556
+Sponsored by Senator GELSER BLOUIN, Representatives DEXTER, REYNOLDS (at the request  of Oulu Noonan)
+(Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Prohibits public bodies from seizing certain benefits and resources intended  for persons in cus-
+tody of Department of Human Services. Directs that such benefits  and resources must be deposited
+with State Treasurer. Directs State Treasurer, in consultation  with department, to establish speci-
+fied accounts for benefit of person in department’s custody.
+A BILL FOR AN ACT
+Relating to management of resources for benefit of persons in custody of Department of Human
+Services; creating new provisions; and amending ORS 419B.373.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+No public body, as defined in ORS  174.109, may seize Social Security benefits,
+death benefits, survivor benefits, crime victim impact  payments, inheritance proceeds, wages
+or any other benefits or resources, other than child support payments, intended for a person
+under 21 years  of age who is in the custody of the Department of Human Services for the
+purpose of using the seized benefits or resources to pay for  services that the person would
+otherwise have been entitled or eligible through any state  or federal agency or public or
+private program.
+SECTION 2.
+(1) Social Security benefits, death benefits, survivor benefits,  crime victim
+impact payments or  any other benefits or resources, other than child support payments, in-
+tended for a person while the person was under  21 years of age and in the custody of the
+Department of Human Services that come into the possession of a public body,  as defined in
+ORS 174.109, shall be deposited  with the State Treasurer and held or distributed for the
+benefit of the person as provided in this section.
+(2) The  State Treasurer, in consultation with the department, shall establish separate
+accounts for each person for whom the State Treasurer receives benefits or resources under
+this section.  Accounts  established under this subsection may include, as applicable  to the
+person’s specific circumstances:
+(a) Oregon Uniform Transfers to Minors Act accounts under ORS 126.805 to 126.886,
+which must delay transfer of the custodial property until the person attains  25 years of age.
+(b) An account established  under ORS 178.335 within the Oregon 529 Savings Network in
+the name of the person.
+(c) An ABLE account established under ORS 178.380 with the person named  as the des-
+ignated beneficiary.
+(d) A trust established under ORS chapter 130, if the trust:
+(A) Names the person as the sole beneficiary;
+(B) Appoints an independent, qualified trustee;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1235
+SB 556
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+(C) Authorizes  the trustee to make distributions on behalf of the person for qualified
+expenses; and
+(D) Distributes any remaining principal and interest to the person when the  person at-
+tains 30 years of age.
+(e) Any other account that serves the purpose of preserving assets for the  person, pro-
+tecting the eligibility of  the person for public benefits, to the extent practicable, and reducing
+financial barriers to enhance the person’s opportunity for successful transition to adulthood.
+(3) The State Treasurer, in  consultation with the department, shall, by rule, describe the
+kinds of expenses that constitute qualified expenses for  purposes of subsection (2)(d) of this
+section. Such expenses may include expenses for:
+(a) Tuition, tutoring and  training, including the costs of application fees, books, equip-
+ment and testing.
+(b) Transportation, including the purchase of a reliable vehicle or  bicycle, to work,
+training, affordable housing or family connection.
+(c) Travel for educational purposes.
+(d) Housing, including first and last month’s rent or resources to assist the  person in
+making a down payment for a house.
+(e) Medical, dental and vision expenses not covered by health insurance, including for
+deductibles and out-of-pocket costs.
+(f) Child care for the person’s minor child.
+(g) Technology needed to advance  the person’s skills in school, work or independence,
+including the purchase of a computer, or to maintain connections with siblings.
+(h) Mental health services and counseling  when the services and providers are chosen
+voluntarily, are selected by the person and are not otherwise covered by insurance.
+(i) Short-term payment of utilities,  rent, auto insurance or other basic necessities, as
+necessary for the person to maintain housing or enrollment in post-secondary education.
+(j) One-time purchases of essential household supplies, including furniture, kitchen
+equipment, linens and cleaning supplies.
+SECTION 3.
+ ORS 419B.373 is amended to read:
+419B.373. A  person, agency or institution having legal custody of a ward has the following duties
+and authority:
+(1) To have physical custody and control of the ward.
+(2) To supply the ward with food, clothing, shelter and incidental necessaries.
+(3) To provide the ward with care, education and discipline.
+(4) To authorize ordinary medical, dental, psychiatric, psychological, hygienic or  other remedial
+care and treatment for the ward, and, in an emergency  where the ward’s safety appears urgently to
+require it, to authorize surgery or other extraordinary care.
+(5) To make such reports and to supply such information to the court as the court may from time
+to time require.
+(6) To apply for any Social Security benefits, public  assistance or medical assistance, as defined
+in ORS 414.025, to which the ward  is otherwise entitled and , except as provided in section 1 of
+this 2023 Act,  to use the benefits or assistance to provide for the care of the ward.
+[2]

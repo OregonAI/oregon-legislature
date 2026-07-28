@@ -1,0 +1,296 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4114
+Sponsored by Representatives MUNOZ, GAMBA, Senator PROZANSKI, Representatives ANDERSEN, MCDONALD,
+WISE, Senator PHAM K; Representatives FRAGALA, NELSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act sets rules for when federal agents  or agents from another state carry out op-
+erations in this state. The Act also creates a cause of action when agents violate the rules.  The Act
+goes into effect when the Governor signs it. (Flesch Readability Score: 69.7).
+Creates a  civil cause of action against federal law enforcement agents and law enforcement
+agents of another state in specified circumstances.
+Requires federal law enforcement agents and  law enforcement agents of another state to provide
+notice to the Department of Justice prior to conducting planned operations within this state.
+Specifies identification requirements for federal law  enforcement agents and law enforcement
+agents of another state conducting law enforcement operations within this state.
+Prohibits a state  or local law enforcement agency from coordinating with a federal law
+enforcement agency or a law enforcement agency of another state that  does not provide notice as
+required, violates the  identification requirements or targets a sensitive location without authori-
+zation.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to law enforcement operations; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Property” means:
+(A) Buildings, structures, land and curtilage.
+(B) Vehicles located on private property.
+(C) A protected space.
+(D) A vehicle in a location where the owner of the vehicle has a reasonable  expectation
+of privacy.
+(E) Any other place where a person has a reasonable expectation of privacy.
+(b) “Protected space” means:
+(A) A church, synagogue, temple, mosque, chapel,  meeting house or other nonresidential
+place of worship.
+(B) A school or other educational facility.
+(C) A facility that provides medical treatment.
+(2) An owner or occupant of  property, or a person lawfully present on property with a
+reasonable expectation of privacy, may bring a cause of action against an individual  federal
+law enforcement agent or an individual law enforcement agent  from another state who en-
+ters the property without:
+(a) A warrant for which the issuing authority is a court,  if a judicially recognized ex-
+ception to the warrant requirement does not apply; and
+(b) Complying with section 3 of this 2026 Act.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 227
+HB 4114
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) A plaintiff who prevails in a cause of action under this section may recover:
+(a) The greater of:
+(A) Actual economic and noneconomic damages; or
+(B) The sum of the following:
+(i) $15,000.
+(ii) $10,000, if the defendant failed to comply with section 3 of this 2026 Act.
+(iii) $15,000, if the defendant entered protected space.
+(iv) $25,000, if the defendant used excessive or unlawful force in entering the property.
+(v) $15,000, if the defendant entered the property between the hours of 10 p.m. and 6  a.m.
+(vi) $25,000, if the plaintiff is:
+(I) Under 18 years of age;
+(II) 65 years of age or older;
+(III) A person with a mental or physical disability;
+(IV) Pregnant; or
+(V) A person with a serious medical condition requiring ongoing treatment.
+(4) The court shall award reasonable attorney fees and costs  to a plaintiff who prevails
+in a cause of action under this section.
+SECTION 2.
+(1)(a) A federal law enforcement  agency or a law enforcement agency of
+another state shall provide notice to the Department of Justice at least 48 hours prior to
+commencing any planned law enforcement operation within this state.
+(b) Notwithstanding paragraph (a) of this subsection, a law enforcement  agency may
+provide notice within 48 hours but no less than two hours prior to commencing  a law
+enforcement operation in the event of an emergency.
+(c) The purpose of  the notification required by this subsection is to facilitate coordination
+among law enforcement agencies.
+(2) When providing notice as  required by subsection (1) of this section, a law enforcement
+agency shall provide the department with the following information:
+(a) The name of the agency conducting the law enforcement operation;
+(b) The name and contact information for the person  in charge of the law enforcement
+operation;
+(c) A description of the general nature of the law enforcement operation;
+(d) The geographic location, at the city or county level, in which the law  enforcement
+operation will take place;
+(e) The expected duration of the law enforcement operation;
+(f) The approximate number of law enforcement agents involved; and
+(g) The types of facilities or other buildings, if any, that  may be entered as part of the
+law enforcement operation.
+(3)(a) Upon receiving a notification under this section, the department shall  provide no-
+tice of the planned law  enforcement operation to all state and local law enforcement agencies
+with jurisdiction over the location in which the operation will take place.
+(b) The purpose of the notification required  by this subsection is to facilitate verification
+of the legitimacy of the  law enforcement operation and coordination among law enforcement
+agencies.
+(4)(a) Any information provided as part of the notification described in subsection (1)  of
+this section  may only be made available to the public through a public records request under
+[2]
+HB 4114
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ORS 192.311 to 192.478.
+(b) A federal law enforcement agency or a law enforcement  agency of another state may
+request that the department assert that records pertaining to sensitive  law enforcement
+operations are exempt from public disclosure under ORS 192.345  (18) in response to a public
+records request.
+(5) The department may adopt rules to carry out the provisions of this section.
+(6) As used in this section, “law  enforcement operation” means any planned activity by
+a federal law  enforcement agency or a law enforcement agency of another state involving
+entry onto property, vehicle searches, arrests or similar activity, but does not include  a
+routine response to an emergency call for service.
+SECTION 3.
+(1) A federal law enforcement agent, or a law  enforcement agent of another
+state, conducting a law enforcement operation in this state shall provide upon request by  a
+member of the public or a state or local law enforcement agent:
+(a) The agent’s name and the agency for which the agent is performing official duties;
+(b) The agent’s badge or other identification number;
+(c) The opportunity to review an official  document showing the agent’s credentials, in-
+cluding a badge or identification card with a photograph; and
+(d) The opportunity to review a copy of any warrant the agent claims to rely upon.
+(2) A federal law enforcement  agent, or a law enforcement agent of another state, con-
+ducting law enforcement operations in this state shall  wear on any clothing worn during the
+operation the name of  the law enforcement agency for which the agent is performing official
+duties.
+(3) Prior to entering  any building while conducting a law enforcement operation, a federal
+law enforcement agent or a law enforcement agent of another  state conducting a law
+enforcement operation in this state shall  announce to all persons present the agency for
+which the agent is performing official duties and, if the  agent’s uniform does not display the
+agent’s name, or upon request, the agent’s name.
+(4) As used in this section, “law  enforcement operation” means any planned activity by
+a federal law  enforcement agency or a law enforcement agency of another state involving
+entry onto property, vehicle searches, arrests or similar activity, but does not include  a
+routine response to an emergency call for service.
+SECTION 4.
+(1) A state or local law  enforcement agency in this state is prohibited from
+coordinating with or providing any tactical or operational support  to any federal law
+enforcement agency or a law enforcement agency of another state conducting a law
+enforcement operation within this state if the federal or out-of-state  law enforcement
+agency:
+(a) Fails  to provide notice to the Department of Justice as required by section 2 of this
+2026 Act;
+(b) Violates section 3 of this 2026 Act; or
+(c) Targets a sensitive location as part  of the operation without documented justification.
+(2) Nothing in this section authorizes any person to engage in conduct prohibited by ORS
+181A.820 and 181A.822 to 181A.829.
+(3) As used in this section:
+(a) “Documented justification” means:
+(A) A warrant specifically naming the location that  is the subject of the operation, or an
+[3]
+HB 4114
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+individual at the location;
+(B) Written documentation of exigent circumstances, including  but not limited to the
+presence of an active threat, a person in immediate danger or pursuit of a suspect; or
+(C) Written consent or recorded oral consent from the facility administrator or  person
+in charge of the location.
+(b) “Law enforcement operation” has  the meaning given that term in section 2 of this
+2026 Act.
+(c) “Sensitive location” means a religious institution, an  educational facility, a health
+care facility, a courthouse, a  domestic violence shelter, a temporary residence shelter or a
+senior living facility.
+SECTION 5.
+Sections 2 and 4 of this 2026 Act become operative on  the 91st day after the
+date on which the  2026 regular session of the Eighty-third Legislative Assembly adjourns sine
+die.
+SECTION 6. This 2026 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2026 Act takes effect
+on its passage.
+[4]

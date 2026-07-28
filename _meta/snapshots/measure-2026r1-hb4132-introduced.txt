@@ -1,0 +1,718 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4132
+Sponsored by  Representatives EVANS, BOWMAN, HELFRICH, PHAM H, Senators MANNING JR, SMITH DB;
+Representatives BOICE, BUNCH, CHAICHI, DOBSON, GRAYBER, ISADORE, LEVY B, MCDONALD, MUNOZ,
+NELSON, NGUYEN D, OWENS, RIEKE SMITH, RUIZ, WISE (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes changes to veteran laws. (Flesch Readability Score: 66.4).
+Declares that it is the goal of the Legislative Assembly to fund  the Department of Veterans’
+Affairs in an amount that is not less than $10,000,000, from  the General Fund, in 2015 dollars, ad-
+justed for inflation.
+Requires the Director of Veterans’ Affairs to add additional full-time positions within the  de-
+partment. Creates in the department the position of Veterans Employment Coordinator.
+Requires the director to be a  veteran who has received a discharge or release under other than
+dishonorable conditions. Allows the director to appoint a deputy director, subject to approval by
+the Governor.
+Directs the department to develop  and implement a grant program for suicide prevention and
+workforce training and  preparation. Allows moneys in the Veterans’ Services Fund to be used for
+the grant program.
+Directs the director to distribute moneys appropriated for county veterans’ service officer pro-
+grams on a quarterly basis. Directs  the department to provide a report on the quarterly distribution
+process.
+Changes who are allowed to request county veteran discharge records.
+Increases, from $5,000 to $10,000, the cap on the individual grant amount that is  allowed under
+the Veteran Educational Bridge Grant Program.
+Directs the Judicial Department, in consultation with the Oregon Criminal Justice  Commission,
+to study methods for providing access to veterans’ treatment courts to residents  of each county or
+judicial district.
+Transfers each biennium unexpended and  unobligated moneys in the School Districts Unfunded
+Liability Fund and the Employer Incentive Fund to the Veterans’ Services Fund.
+Takes effect on July 1, 2026.
+A BILL FOR AN ACT
+Relating to veterans; creating new  provisions; amending ORS 192.390, 406.020, 406.140, 406.462,
+408.115 and 408.425 and sections 2 and 24, chapter 105, Oregon Laws 2018;  and prescribing an
+effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+This 2026 Act shall be known and may be cited as the 2026 Oregon Veterans’
+Services Supplemental Investments Initiative.
+FUNDING GOAL
+SECTION 2. It is the goal of  the Legislative Assembly to fund the Department of
+Veterans’ Affairs at a level that is no less than $10,000,000, from the General  Fund, as
+measured in 2015 and adjusted for inflation as calculated by the Legislative Fiscal Office.
+ADDITIONAL STAFF POSITIONS
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 157
+HB 4132
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 3.
+(1) The Director of  Veterans’ Affairs shall establish, hire for and staff within
+the Department of Veterans’ Affairs, no later than  July 1, 2028, the following additional
+full-time equivalent positions:
+(a) Two assistant division directors.
+(b) One coordinator for incarcerated veterans.
+(c) One research analyst.
+(d) One grant coordinator.
+(2) The director shall establish, hire for and staff within the  department, no later that
+July 1, 2030, the following additional full-time equivalent positions:
+(a) One state approving agency staff.
+(b) One behavioral health specialist.
+(c) One coordinator for houseless veterans.
+(d) One deputy communications director.
+(3) The director shall establish,  hire for and staff within the department, no later that
+July 1, 2032, the following additional full-time equivalent positions:
+(a) One women veterans coordinator.
+(b) One coordinator for incarcerated veterans.
+(c) One LGBTQIA2S+ coordinator.
+SECTION 4.
+The position of Veterans  Employment Coordinator is created in the De-
+partment of Veterans’ Affairs. The responsibilities of the coordinator include,  but are not
+limited to, all of the following:
+(1) Assisting veterans with finding employment.
+(2) Providing veterans with career and job resources.
+(3) Serving as a liaison between the Department of  Veterans’ Affairs and county
+veterans’ service officers.
+(4) Contacting  any service member who separates from the Oregon National Guard
+within two weeks from the date of separation.
+(5) Contacting any service member who separates from the  Armed Forces of the United
+States and who resides in  or is moving into this state within two weeks from the date the
+coordinator is informed of the service member separating and residing in  or moving into this
+state.
+DIRECTOR AND DEPUTY DIRECTOR
+SECTION 5.
+ ORS 406.020 is amended to read:
+406.020. The Department of Veterans’ Affairs shall be under the supervision  and control of the
+Director of Veterans’ Affairs. The Governor shall appoint  the director subject to confirmation by
+the Senate in the manner provided in ORS 171.562 and 171.565. The appointment may not  be made
+without the written approval of  the Advisory Committee provided for in ORS 406.210. The director
+shall be a veteran[ ,] who received a discharge  or release under other than dishonorable con-
+ditions, chosen on the basis of executive and administrative ability.
+SECTION 6. The Director  of Veterans’ Affairs, subject to approval by the Governor, may
+appoint a deputy director. In appointing a deputy  director, the director shall consider the
+experience that a veteran  may bring if a veteran is appointed to the position. The deputy
+director serves at the pleasure of the director, has full authority to act for the director and
+[2]
+HB 4132
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+is subject to the control of the director.
+VETERANS SUICIDE PREVENTION GRANT PROGRAM
+SECTION 7.
+(1) As used in  this section, “veteran” has the meaning given that term in
+ORS 408.225. “Veteran” includes a disabled veteran as defined in ORS 408.225.
+(2) The Department  of Veterans’ Affairs shall develop and implement a grant program
+for veteran suicide prevention and workforce  training and preparation. The purpose of the
+grant program is to help veterans with  suicide prevention and transition to the workforce
+and business community.
+(3) Under the grant program, the department shall award grants  through a request for
+proposal process to entities involved in pairing  suicide prevention with workforce training
+and preparation.
+(4) The department shall:
+(a) Develop criteria for entities that provide programs for suicide prevention and
+workforce training and preparation;
+(b) By rule, establish processes and procedures for veterans  to apply for assistance from
+entities that are awarded a grant under the grant program; and
+(c) Prioritize awarding grants to entities that provide opportunities for veterans to par-
+ticipate in the veterans’ local communities.
+(5) The department may solicit and accept gifts, grants and donations from  public and
+private sources to further the purposes of this section.
+(6)(a) The department may use moneys in  the Veterans’ Services Fund established pur-
+suant to Article XV, section 4f, of the Oregon Constitution, to develop, implement and
+maintain the grant program.
+(b) The department shall use moneys in the Veterans’ Services Fund  established pursu-
+ant to Article XV, section 4f, of the Oregon Constitution, for  the initial moneys used to de-
+velop, implement and maintain the grant program.
+(7) The department may adopt rules to implement the provisions of this section.
+SECTION 8.
+Not later than  January 2, 2028, the Department of Veterans’ Affairs shall
+prepare and submit a  report to the interim committees of the Legislative Assembly related
+to veterans on the status of the grant program developed and implemented under section  7
+of this 2026 Act.
+SECTION 9. (1) Section 7 of this 2026 Act is repealed on January 2, 2029.
+(2) All moneys for the grant program developed and implemented under section 7 of this
+2026 Act that are unexpended  and unobligated on the date of the repeal of section 7 of this
+2026 Act shall revert to the Veterans’  Services Fund and become available for use pursuant
+to Article XV, section 4f, of the Oregon Constitution.
+VETERANS’ SERVICES FUND
+SECTION 10.  ORS 406.140 is amended to read:
+406.140. There is established in  the State Treasury, separate and distinct from the General Fund,
+the Veterans’ Services Fund, to be administered by  the Oregon Department of Administrative Ser-
+vices. Interest earned  by the fund is credited to the fund. Pursuant to Article XV, section 4f, of the
+[3]
+HB 4132
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Oregon Constitution, one and one-half percent of the net proceeds from the Oregon  State Lottery
+shall be deposited in the Veterans’ Services Fund. All  moneys transferred from the State Lottery
+Fund and all other moneys authorized to  be transferred to the Veterans’ Services Fund from what-
+ever source are appropriated continuously  to provide services for the benefit of veterans. The de-
+partment shall hold no more than 12 percent of the fund in reserve.
+COUNTY VETERANS’ SERVICE OFFICER PROGRAM
+SECTION 11.
+ ORS 406.462 is amended to read:
+406.462. (1) Moneys appropriated to the  Director of Veterans’ Affairs for the purposes described
+in ORS 406.450 must be distributed to county governing bodies and expended  for the purposes of
+ORS 406.450 and may not be used to supplant moneys currently budgeted by the director for services
+provided by county veterans’ service officers.
+(2) The director shall distribute moneys appropriated to the director for the  purposes
+described in ORS 406.450 on a quarterly basis as follows:
+(a) Each fiscal year, the director  shall notify each county governing body of the amount
+of moneys to be distributed to the county governing body for the fiscal year.
+(b) The county governing body shall provide the director a copy of the county’s  budget
+for the services to be provided by the county veterans’ service officer for the fiscal year.
+(c) At the end of each calendar quarter, the county  governing body shall provide the di-
+rector a report on the moneys the county expended during the calendar quarter for  the
+services provided by the county veterans’ service officer.
+(d) Upon receipt  of the county governing body’s quarterly report, the director shall dis-
+tribute to the county governing body a portion of  moneys allocated to the county governing
+body in an amount that is based on the  proportion of all moneys budgeted for all services
+provided by county veterans’ service officers that  were expended during the calendar quar-
+ter.
+(e) At the end of each calendar quarter, the county governing  body may also provide the
+director documentation for moneys the county  expended during a previous calendar quarter
+in the fiscal year for the  services provided by the county veterans’ service officer that the
+county had not previously reported to the director and for which the county governing body
+has not received a distribution of moneys from the director. Upon receipt  of the documen-
+tation, the director shall distribute  to the county governing body a portion of moneys allo-
+cated to  the county governing body in an amount that is based on the proportion of all
+moneys budgeted for all services provided by county veterans’ service officers that  were ex-
+pended during the calendar quarter within which the county expended the  moneys for which
+the county governing body provided the director documentation.
+(3) At the end  of each fiscal year, the director shall calculate the remaining moneys not
+distributed during the fiscal year and distribute the remaining moneys using a formula es-
+tablished under ORS 406.454 to each county  governing body that expended 90 percent or more
+of the moneys that the county  budgeted for services provided by the county veterans’ service
+officer for the fiscal year as specified under subsection (2)(b) of this section. The director
+shall distribute the remaining moneys within 90 days from the last date of the fiscal year.
+[(2)] (4) Notwithstanding subsection (1) of  this section, the director may reduce the amount of
+moneys distributed to county governing bodies for county veterans’ service officers if there is a de-
+[4]
+HB 4132
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+crease in the amount of General  Fund or State Lottery Fund  revenues appropriated to the director
+for the purposes described in ORS 406.450 for the same period of time.
+SECTION 12.
+Not later than January 2,  2030, the Department of Veterans’ Affairs shall
+prepare and submit a report to the interim committees of the  Legislative Assembly related
+to veterans and the Association of Oregon Counties on the distribution  of moneys under the
+process provided by the amendments to ORS 406.462 by section 11 of this 2026 Act.
+COUNTY RECORDS: VETERAN DISCHARGE PAPERS
+SECTION 13.  ORS 408.425 is amended to read:
+408.425. (1) Each county clerk who receives a request  to inspect veteran discharge papers that
+are recorded under ORS 408.420 shall produce the recorded discharge papers for inspection if:
+(a) The request for inspection is made in writing;
+(b) The request sets forth the name, address and telephone number of the requester;
+(c) The request sets forth the name and the date of birth or the last four digits of the Social
+Security number of the veteran; and
+(d) The request is made by:
+(A) The  veteran or [ the spouse, legal guardian ] a person holding a power of attorney for the
+veteran or personal representative of the veteran;
+(B) A county veterans’ service officer appointed under ORS 408.410;
+(C) A representative of the Department of Veterans’ Affairs; or
+(D) A licensed funeral establishment seeking to ascertain if a decedent was a veteran  for the
+purpose of obtaining veteran’s burial benefits.
+(2) This section does not create a cause of action and  may not be asserted as the basis of a per
+se negligence claim.
+(3) Each county  clerk may adopt additional policies in order to protect recorded discharge pa-
+pers from malicious or unlawful use and policies regarding copying of recorded discharge papers.
+(4) Each county clerk shall maintain in the  records of the county clerk a copy of each request
+for inspection of  recorded discharge information for a period of at least 10 years after the date the
+request is received by the county clerk.
+SECTION 14.
+ ORS 192.390 is amended to read:
+192.390. (1) Notwithstanding ORS 192.338,  192.345 and 192.355 and except as otherwise provided
+in ORS 192.398, public records that are more than 25 years old shall be available for inspection.
+(2) This section  does not apply to records that are exempt from disclosure pursuant to
+ORS 192.355 (37) or 408.425.
+VETERAN EDUCATIONAL BRIDGE GRANT PROGRAM
+SECTION 15.  ORS 408.115 is amended to read:
+408.115. (1) The Veteran Educational Bridge Grant Program is established within  the Depart-
+ment of Veterans’ Affairs. Under the  program, the department shall conduct outreach and provide
+grants to veterans who:
+(a) Are pursuing and enrolled in a course of study that is in or part of:
+(A) Any program for which United States Department of  Veterans Affairs education benefits
+may be used;
+[5]
+HB 4132
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) A career school licensed under ORS 345.010 to 345.340;
+(C) An apprenticeship program that is registered with the State Apprenticeship and  Training
+Council; or
+(D) An on-the-job training program offered by a public employer;
+[(b)(A) Are eligible to receive federal, state or other financial  assistance based on prior service in
+the Armed Forces of the United States; or ]
+[(B) Demonstrate a need for student  financial aid from any federal or state assistance program,
+including Title IV of the Higher Education Act of 1965; ]
+[(c)(A) ] (b)(A) Are unable to complete a degree, apprenticeship or training program within the
+expected  completion  period because one or more required courses or apprenticeship or training
+hours are not available until a later date; [ or]
+(B) Have debt on a  student account due to an overpayment of federal or state tuition benefits
+or prior course withdrawal that prevents enrollment in a future term; [ and] or
+(C) Are experiencing an instance of financial hardship that is  interfering with or could
+endanger the ability to remain enrolled in a degree, apprenticeship or training program;  and
+[(d)] (c) Are  making satisfactory academic or training progress [ or progress ] in a program de-
+scribed in paragraph (a) of this subsection.
+(2) Grants under the program:
+(a) May not exceed [ $5,000] $10,000 per veteran; and
+(b) May be made only  when there are sufficient moneys in the Veteran Educational Bridge
+Grant Program Fund established under ORS 408.125 to make the grants.
+(3) The Department of  Veterans’ Affairs shall adopt rules for the implementation and operation
+of the program, including eligibility requirements for grant applicants.
+(4) As used in this section, “veteran” has the meaning given that term in  ORS 408.225 and in-
+cludes disabled veterans, as defined in ORS 408.225.
+VETERANS’ TREATMENT COURT
+SECTION 16.
+(1) As used in this section:
+(a) “Service member” means a person who is a member of the Armed Forces  of the
+United States, the reserve  components of the Armed Forces of the United States or the
+National Guard.
+(b) “Veteran” means a person who:
+(A) Served as a member of the Armed  Forces of the United States, the reserve compo-
+nents of the Armed Forces of the United States or the National Guard; and
+(B) Received an honorable discharge, a general discharge under honorable  conditions or
+a discharge under other than honorable conditions.
+(c) “Veterans’ treatment court” means a treatment drug court program, as defined  in
+ORS 3.450, that serves service members and veterans.
+(2) The Judicial Department, in consultation with the Oregon Criminal  Justice Commis-
+sion, shall study methods for providing access to veterans’ treatment courts to  the residents
+of each  county or judicial district. The study must include the identification and recommen-
+dation of innovative, cost-efficient and data-driven  means to extend the availability of
+veterans’ treatment courts that are consistent  with applicable standards developed under
+ORS 137.680. The commission shall assist the department in conducting the study.
+[6]
+HB 4132
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) In conducting the study and developing recommendations, the department and  the
+commission may consult with stakeholders and entities that engage with veterans’ treatment
+courts.
+(4) The department shall  submit a report on its findings in the manner provided by ORS
+192.245, and may include recommendations for legislation, to the interim committees  of the
+Legislative Assembly related to the military and veterans no later than November 1, 2026.
+SECTION 17.
+Section 16 of this 2026 Act is repealed on January 2, 2027.
+FUNDING
+SECTION 18. Section 2, chapter 105, Oregon Laws 2018, as amended  by section 47, chapter 355,
+Oregon Laws 2019, and section 9, chapter 135, Oregon Laws 2021, is amended to read:
+Sec. 2.  (1)(a) The Public Employees Retirement Board shall  establish a process for distributing
+the moneys in the Employer Incentive Fund established under  section 1, chapter 105, Oregon Laws
+2018.
+(b) The process must allow a participating public employer to apply to reserve matching
+amounts in the Employer Incentive Fund by committing to make  a qualifying lump sum payment of
+at least $25,000 to an account established under ORS 238.229.
+(2) The board shall adopt rules establishing:
+(a) The percentage of a lump sum payment that may be matched by  distributions from the fund,
+not to exceed 25 percent of a qualifying lump sum payment.
+(b) The maximum matching amount that may be reserved by  a participating public employer, not
+to exceed the greater of:
+(A) Five percent of the unfunded actuarial liability  attributable to the employer, as determined
+in the most recent report prepared under ORS 238.605; or
+(B) $300,000.
+(c) The qualifications for lump sum payments that  may be matched under this section, including
+a requirement that a qualifying lump sum payment may not  be a payment from moneys borrowed
+by the employer.
+(d) A requirement that the participating public  employer participate in the Unfunded Actuarial
+Liability Resolution Program to develop a plan under ORS 238.730.
+(3)(a) For 90 days after the board begins accepting  applications under subsection (1) of this
+section, a participating public employer may apply to reserve matching amounts from the  Employer
+Incentive Fund under subsection (1) of this section only if the unfunded  actuarial liability attribut-
+able to the employer, as determined in the most recent report prepared under ORS 238.605,  is more
+than 200 percent of the  employer’s payroll for members of the Public Employees Retirement System.
+(b) After the 90-day period described in paragraph  (a) of this subsection, any participating public
+employer may apply to reserve matching funds from the Employer Incentive  Fund under subsection
+(1) of this section.
+(4)(a) The board shall approve applications that meet the qualifications established under sub-
+section (2) of this section  in the order in which the applications are submitted. The board shall
+continue approving applications as long as adequate moneys in the Employer Incentive Fund are
+available.
+(b) After all of the moneys available in the Employer Incentive Fund are reserved for  matching
+under paragraph (a)  of this subsection, the board may establish a waiting list for the remaining
+[7]
+HB 4132
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+timely submitted applications and, if sufficient moneys in the Employer Incentive  Fund become
+available, shall approve, in the order in which the applications were submitted, applications  that
+meet the qualifications established under subsection (2) of this section.
+(5) The board  shall transfer matching amounts approved under subsection (4) of this section from
+the Employer Incentive Fund to the approved employers’ accounts established under ORS 238.229.
+(6) The board may transfer moneys from  the Employer Incentive Fund to the Public Employees
+Retirement Fund established under ORS 238.660 for crediting  to the reserves for pension accounts
+and annuities as provided in ORS 238.670 (2).
+(7) The board may use moneys in the Employer Incentive Fund for reasonable  administrative
+costs incurred under this section.
+(8) Notwithstanding section 1  (2), chapter 105, Oregon Laws 2018, on July 1 of each odd-
+numbered year, any moneys in the Employer Incentive Fund  that are unexpended and un-
+obligated for the biennium that ends on June 30 of that  year shall be transferred to the
+Veterans’  Services  Fund, established under ORS 406.140, and become available for use pur-
+suant to Article XV, section 4f, of the Oregon Constitution.
+SECTION 19.
+ Section 24, chapter 105, Oregon Laws 2018, as  amended by section 51, chapter
+355, Oregon  Laws 2019, section 19, chapter 10, Oregon Laws 2020 (second special session), and sec-
+tion 1, chapter 18, Oregon Laws 2025, is amended to read:
+Sec. 24.  (1) The School  Districts Unfunded Liability Fund is established in the State Treasury,
+separate and distinct from the General Fund. Interest earned by the School Districts Unfunded Li-
+ability Fund shall be credited to the fund.  The fund consists of moneys transferred, allocated or
+appropriated to the fund.
+(2) Moneys in the fund are continuously appropriated  to the Public Employees Retirement Board
+for the purpose of reducing the liabilities of participating public employers,  as defined in ORS
+238.005, that are school districts.
+(3) Moneys in the fund shall  be invested in the Oregon Short Term Fund established under ORS
+293.728.
+(4)(a) No later than June 30, 2025, the board shall apply  all moneys in the fund on February 28,
+2025, in equal amounts against all school district employers’ individual 2025-2027 employer  contri-
+bution rates.
+(b) The board shall apply any moneys that are credited to the fund after February 28,  2025, in
+equal amounts against all school district employers’ individual  employer contribution rates for the
+biennium following the crediting.
+(5) No  later than February 1 of each odd-numbered year, the board shall report to the Oregon
+Department of Administrative Services and the Legislative Fiscal  Officer an estimate of how moneys
+will be distributed under this section in the following biennium.
+(6) Notwithstanding subsections (2) and (4)(b) of  this section, on July 1 of each odd-
+numbered year, any  moneys in the School Districts Unfunded Liability Fund that are unex-
+pended and unobligated for the biennium that ends on  June 30 of that year shall be
+transferred to the Veterans’ Services Fund, established under ORS 406.140, and become
+available for use pursuant to Article XV, section 4f, of the Oregon Constitution.
+CAPTIONS
+SECTION 20.
+The unit captions used in this 2026 Act are provided only for the conven-
+[8]
+HB 4132
+1
+2
+3
+4
+5
+6
+7
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2026 Act.
+EFFECTIVE DATE
+SECTION 21.
+This 2026 Act takes effect on July 1, 2026.
+[9]

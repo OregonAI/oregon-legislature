@@ -1,0 +1,1683 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2023r1-sb966
+title: 'SB 966 (2023R1): Requires Oregon Health Authority to adopt standards for types of data collected
+  for all payer, all claims database that are consistent with standards adopted for collection of data
+  on race, ethnicity, language, disability, sexual orientation and gender identity.'
+doc_type: dataset_doc
+citation: 2023 Regular Session Senate Bill 966
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB966/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: b1d7cc4ab633d42f3fd9e23fa0dae8f52d4dd267520feb76dd9db246469f0a69
+snapshot_id: measure-2023r1-sb966-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 171.072
+  - ORS 171.562
+  - ORS 171.565
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 192.610
+  - ORS 292.495
+  - ORS 411.400
+  - ORS 411.439
+  - ORS 411.447
+  - ORS 411.704
+  - ORS 411.877
+  - ORS 413.006
+  - ORS 413.017
+  - ORS 413.032
+  - ORS 413.161
+  - ORS 413.259
+  - ORS 413.550
+  - ORS 413.610
+  - ORS 413.611
+  - ORS 413.612
+  - ORS 413.613
+  - ORS 414.018
+  - ORS 414.025
+  - ORS 414.065
+  - ORS 414.325
+  - ORS 414.570
+  - ORS 414.572
+  - ORS 414.575
+  - ORS 414.581
+  - ORS 414.584
+  - ORS 414.605
+  - ORS 414.638
+  - ORS 414.654
+  - ORS 414.655
+  - ORS 414.665
+  - ORS 414.686
+  - ORS 414.690
+  - ORS 414.710
+  - ORS 414.766
+  - ORS 418.976
+  - ORS 418.978
+  - ORS 430.073
+  - ORS 430.220
+  - ORS 430.389
+  - ORS 442.310
+  - ORS 442.370
+  - ORS 442.372
+  - ORS 442.373
+  - ORS 442.400
+  - ORS 59.015
+  - ORS 677.010
+  - ORS 678.375
+  - ORS 73.0104
+  - ORS 731.097
+  - ORS 731.554
+  - ORS 732.225
+  - ORS 732.230
+  - ORS 741.001
+  - ORS 741.002
+  - ORS 741.004
+  - ORS 741.102
+  - ORS 741.105
+  - ORS 741.222
+  - ORS 741.310
+  - ORS 741.500
+  - ORS 741.510
+  - ORS 744.702
+  - ORS 750.045
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2023r1
+- sb
+session_key: 2023R1
+measure_prefix: SB
+measure_number: 966
+prefix_meaning: Senate Bill
+catch_line: Requires Oregon Health Authority to adopt standards for types of data collected for all payer,
+  all claims database that are consistent with standards adopted for collection of data on race, ethnicity,
+  language, disability, sexual orientation and gender identity.
+minority_catch_line: null
+measure_summary: "\tRequires Oregon Health Authority to adopt standards for types of data collected for\
+  \ all payer, all claims database that are consistent with standards adopted for collection of data on\
+  \ race, ethnicity, language, disability, sexual orientation and gender identity. \n\tAllows authority\
+  \ to charge fee for releasing information from database. \n\tRemoves obsolete provisions related to\
+  \ individual shared responsibility provisions of Patient Protection and Affordable Care Act. \n\tModifies\
+  \ membership of Health Insurance Exchange Advisory Committee and sunsets requirement for authority to\
+  \ report to interim committees of Legislative Assembly on integration into authority of duties, functions\
+  \ and powers transferred from Department of Consumer and Business Services. \n\tRepeals COFA Premium\
+  \ Assistance Program. \n\t\t<i>Replaces provisions related to Health Plan Quality Metrics Committee\
+  \ with provisions creating Metrics and Scoring Committee under Oregon Health Policy Board. Modifies\
+  \ duties of committee. Repeals metrics and scoring subcommittee.</i>] \n\t<b>Beginning in reporting\
+  \ year 2025, requires metrics and scoring subcommittee of Health Plan Quality Metrics Committee to select,\
+  \ based on specified criteria, downstream health outcome and quality measures for coordinated care organizations\
+  \ from sets of core quality measures for Medicaid program published by Centers for Medicare and Medicaid\
+  \ Services and at least four upstream health outcome and quality measures that focus on social determinants\
+  \ of health. \n\tRequires Oregon Health Authority to annually update health outcome and quality measures\
+  \ if necessary to conform to latest sets of core quality measures published by Centers for Medicare\
+  \ and Medicaid Services. \n\tAuthorizes members of Public Health Benefit Purchasers Committee, Health\
+  \ Care Workforce Committee, Health Plan Quality Metrics Committee, Behavioral Health Committee and metrics\
+  \ and scoring subcommittee who are not members of Oregon Health Policy Board to receive compensation\
+  \ and actual and necessary travel and other expenses as prescribed by Oregon Health Authority by rule.\
+  \ \n\tRepeals requirement that initial assessment by coordinated care organization of child in custody\
+  \ of Department of Human Services be performed in accordance with metrics established by metrics and\
+  \ scoring subcommittee.</b> \n\tRequires Oregon Health Authority to study coordinated care organization\
+  \ quality incentive program, develop recommendations for changes and report recommendations to interim\
+  \ committees of Legislative Assembly related to health by September 15, 2024. \n\tPermits Oregon Health\
+  \ Authority to reimburse coordinated care organizations <b>for health-related social needs services</b>\
+  \ using methods other than global budgets. \n\tDeclares emergency, effective on passage."
+relating_to: Relating to health; and declaring an emergency.
+relating_to_full: Relating to health; and declaring an emergency.
+at_the_request_of: null
+lc_number: 468
+measure_created_date: '2023-02-21T09:53:11'
+measure_modified_date: '2023-08-17T13:49:22'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 100123
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 171.072
+  - ORS 171.562
+  - ORS 171.565
+  - ORS 192.245
+  - ORS 192.311
+  - ORS 192.610
+  - ORS 292.495
+  - ORS 411.400
+  - ORS 411.439
+  - ORS 411.447
+  - ORS 411.704
+  - ORS 411.877
+  - ORS 413.006
+  - ORS 413.017
+  - ORS 413.032
+  - ORS 413.161
+  - ORS 413.259
+  - ORS 413.550
+  - ORS 413.610
+  - ORS 413.611
+  - ORS 413.612
+  - ORS 413.613
+  - ORS 414.018
+  - ORS 414.025
+  - ORS 414.065
+  - ORS 414.325
+  - ORS 414.570
+  - ORS 414.572
+  - ORS 414.575
+  - ORS 414.581
+  - ORS 414.584
+  - ORS 414.605
+  - ORS 414.638
+  - ORS 414.654
+  - ORS 414.655
+  - ORS 414.665
+  - ORS 414.686
+  - ORS 414.690
+  - ORS 414.710
+  - ORS 414.766
+  - ORS 418.976
+  - ORS 418.978
+  - ORS 430.073
+  - ORS 430.220
+  - ORS 430.389
+  - ORS 442.310
+  - ORS 442.370
+  - ORS 442.372
+  - ORS 442.373
+  - ORS 442.400
+  - ORS 59.015
+  - ORS 677.010
+  - ORS 678.375
+  - ORS 73.0104
+  - ORS 731.097
+  - ORS 731.554
+  - ORS 732.225
+  - ORS 732.230
+  - ORS 741.001
+  - ORS 741.002
+  - ORS 741.004
+  - ORS 741.102
+  - ORS 741.105
+  - ORS 741.222
+  - ORS 741.310
+  - ORS 741.500
+  - ORS 741.510
+  - ORS 744.702
+  - ORS 750.045
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 966`.
+
+# SB 966 — 2023 Regular Session (2023R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 966, 2023 Regular Session (2023R1)
+- **LC number:** 468
+- **Created:** 2023-02-21T09:53:11
+- **Metadata last modified (upstream):** 2023-08-17T13:49:22
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 100123 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB966/Enrolled>.
+
+## Summary
+
+**Catchline:** Requires Oregon Health Authority to adopt standards for types of data collected for all payer, all claims database that are consistent with standards adopted for collection of data on race, ethnicity, language, disability, sexual orientation and gender identity.
+
+**Relating to:** Relating to health; and declaring an emergency.
+
+Requires Oregon Health Authority to adopt standards for types of data collected for all payer, all claims database that are consistent with standards adopted for collection of data on race, ethnicity, language, disability, sexual orientation and gender identity. 
+ Allows authority to charge fee for releasing information from database. 
+ Removes obsolete provisions related to individual shared responsibility provisions of Patient Protection and Affordable Care Act. 
+ Modifies membership of Health Insurance Exchange Advisory Committee and sunsets requirement for authority to report to interim committees of Legislative Assembly on integration into authority of duties, functions and powers transferred from Department of Consumer and Business Services. 
+ Repeals COFA Premium Assistance Program. 
+  <i>Replaces provisions related to Health Plan Quality Metrics Committee with provisions creating Metrics and Scoring Committee under Oregon Health Policy Board. Modifies duties of committee. Repeals metrics and scoring subcommittee.</i>] 
+ <b>Beginning in reporting year 2025, requires metrics and scoring subcommittee of Health Plan Quality Metrics Committee to select, based on specified criteria, downstream health outcome and quality measures for coordinated care organizations from sets of core quality measures for Medicaid program published by Centers for Medicare and Medicaid Services and at least four upstream health outcome and quality measures that focus on social determinants of health. 
+ Requires Oregon Health Authority to annually update health outcome and quality measures if necessary to conform to latest sets of core quality measures published by Centers for Medicare and Medicaid Services. 
+ Authorizes members of Public Health Benefit Purchasers Committee, Health Care Workforce Committee, Health Plan Quality Metrics Committee, Behavioral Health Committee and metrics and scoring subcommittee who are not members of Oregon Health Policy Board to receive compensation and actual and necessary travel and other expenses as prescribed by Oregon Health Authority by rule. 
+ Repeals requirement that initial assessment by coordinated care organization of child in custody of Department of Human Services be performed in accordance with metrics established by metrics and scoring subcommittee.</b> 
+ Requires Oregon Health Authority to study coordinated care organization quality incentive program, develop recommendations for changes and report recommendations to interim committees of Legislative Assembly related to health by September 15, 2024. 
+ Permits Oregon Health Authority to reimburse coordinated care organizations <b>for health-related social needs services</b> using methods other than global budgets. 
+ Declares emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to health; and declaring an emergency.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Enrolled
+Senate Bill 966
+Sponsored by COMMITTEE ON HEALTH CARE
+CHAPTER .................................................
+AN ACT
+Relating to  health; creating new provisions; amending ORS 413.017, 413.032, 414.025, 414.570, 414.572,
+414.638, 414.686, 442.373, 741.002, 741.004, 741.222 and 741.500 and section 40,  chapter 569,
+Oregon Laws 2021, section 4, chapter 29, Oregon Laws 2022, and section  1, chapter 87, Oregon
+Laws 2022; repealing ORS 413.610, 413.611, 413.612 and 413.613; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+DATA COLLECTED BY OREGON HEALTH AUTHORITY
+SECTION 1.  ORS 442.373 is amended to read:
+442.373. (1) The Oregon Health Authority shall establish and maintain  a program that requires
+reporting entities to report health care data for the following purposes:
+(a) Determining the maximum capacity and distribution of existing resources allocated to health
+care.
+(b) Identifying the demands for health care.
+(c) Allowing health care policymakers to make informed choices.
+(d) Evaluating the effectiveness of intervention programs in improving health outcomes.
+(e) Comparing the costs and effectiveness of various treatment settings and approaches.
+(f) Providing information to consumers and purchasers of health care.
+(g) Improving the quality and affordability of health care and health care coverage.
+(h) Assisting the authority  in furthering the health policies expressed by the Legislative As-
+sembly in ORS 442.310.
+(i) Evaluating health disparities, including but not  limited to disparities related to race and
+ethnicity.
+(2) The authority shall prescribe by rule standards [ that are consistent  with standards adopted
+by the  Accredited Standards Committee X12 of the American National Standards Institute, the Centers
+for Medicare and Medicaid Services and the National Council for Prescription Drug Programs ] that:
+(a) Establish the time, place,  form and manner of reporting data under this section, including
+but not limited to:
+(A) Requiring the use of unique patient and provider identifiers;
+(B) Specifying a uniform coding  system that reflects all health care utilization and costs for
+health care services provided to Oregon residents in other states; and
+(C) Establishing enrollment thresholds below which reporting will not be required.
+(b) Establish the types of data to be reported under this section, including but not limited to:
+Enrolled Senate Bill 966 (SB 966-B) Page 1
+(A) Health care claims and  enrollment data used by reporting entities and paid health care
+claims data;
+(B) Reports, schedules, statistics or other  data relating to health care costs, prices, quality,
+utilization or resources determined by the authority to be necessary to carry out the  purposes of
+this section; and
+(C) Data related to race, ethnicity , disability, sexual orientation, gender identity and primary
+language collected in a manner consistent with [ established national standards ] ORS 413.161.
+(3) Any third party administrator that is not required to obtain a  license under ORS 744.702 and
+that is  legally responsible for payment of a claim for a health care item or service provided to an
+Oregon resident may report to the authority the health  care data described in subsection (2) of this
+section.
+(4) The authority shall adopt rules establishing requirements for reporting entities to train pro-
+viders on protocols for collecting race, ethnicity , disability, sexual orientation, gender  identity
+and primary language data in a culturally competent manner.
+(5)(a) The authority shall  use data collected under this section to provide information to con-
+sumers of health care to empower the consumers to make economically sound and medically  appro-
+priate decisions. The information must  include, but not be limited to, the prices and quality of health
+care services.
+(b) The authority shall, using only data collected under this section from  reporting entities de-
+scribed in ORS 442.372 (1) to (3), post to its website health  care price information including the
+median prices paid  by the reporting entities to hospitals and hospital outpatient clinics for, at a
+minimum, the 50 most  common inpatient procedures and the 100 most common outpatient proce-
+dures.
+(c) The health care price information posted to the website must be:
+(A) Displayed in a consumer friendly format;
+(B) Easily accessible by consumers; and
+(C) Updated at least annually to reflect the most recent data available.
+(d) The authority shall apply for and receive donations, gifts and grants from any public or
+private source to pay the cost of posting health care price information  to its website in accordance
+with this subsection. Moneys received shall be deposited to the Oregon Health Authority Fund.
+(e) The obligation of the authority to post health  care price information to its website as re-
+quired by this subsection is limited to the extent of any moneys specifically appropriated  for that
+purpose or available from donations, gifts and grants from private or public sources.
+(6) The authority may contract with a  third party to collect and process the health care data
+reported under this section. The contract must  prohibit the collection of Social Security numbers
+and must prohibit the disclosure or use of the  data for any purpose other than those specifically
+authorized by the contract. The contract must require the third party to transmit all  data collected
+and processed under the contract to the authority.
+(7) The  authority shall facilitate a collaboration between the Department of Human Services, the
+authority, the Department of Consumer and Business Services  and interested stakeholders to de-
+velop a comprehensive health care information system  using the data reported under this section
+and collected by the authority under ORS 442.370 and 442.400 to 442.463. The  authority, in consul-
+tation with interested stakeholders, shall:
+(a) Formulate the data sets that will be included in the system;
+(b) Establish the criteria and procedures for the development of limited use data sets;
+(c) Establish the criteria and procedures to ensure  that limited use data sets are accessible and
+compliant with federal and state privacy laws; and
+(d) Establish a time frame for the creation of the comprehensive  health care information system.
+(8) Information disclosed through the comprehensive health care information system  described
+in subsection (7) of this section:
+(a) Shall be available, when  disclosed in a form and manner that ensures the privacy and secu-
+rity of  personal health information as required by state and federal laws, as a resource to re-
+Enrolled Senate Bill 966 (SB 966-B) Page 2
+searchers, insurers, employers,  providers, purchasers of health care and state agencies to allow for
+continuous review of health care utilization, expenditures and performance in this state;
+(b) Shall be available to Oregon programs  for quality in health care for use in improving health
+care in Oregon,  subject to rules prescribed by the authority conforming to state and federal privacy
+laws or limiting access to limited use data sets;
+(c) Shall be  presented to allow for comparisons of geographic, demographic and economic factors
+and institutional size; and
+(d) May not disclose trade  secrets of reporting entities  or self-funded, employer-sponsored
+health insurance plans regulated under the Employee Retirement Income Security  Act of
+1974, as codified and amended at 29 U.S.C. 1001, et seq., that report health care  data volun-
+tarily.
+(9) The collection, storage and release of health care data and other information under this
+section is subject to the requirements  of the federal Health Insurance Portability and Accountability
+Act.
+(10)(a) Notwithstanding subsection (9)  of this section, in addition to the comprehensive health
+care information system described in subsection (7) of this section, the Department  of Consumer and
+Business Services shall  be allowed to access, use and disclose data collected under this section by
+certifying in writing that the data will be used only to carry out the department’s duties.
+(b) Personally identifiable information disclosed to the department under paragraph (a) of  this
+subsection, including a consumer’s name, address, telephone number or electronic mail address, is
+confidential and not subject to further disclosure under ORS 192.311 to 192.478.
+(11) The authority may impose a charge for  information disclosed to researchers, insur-
+ers, employers, providers and purchasers of  health care under subsection (8) of this section
+in an amount necessary to cover the authority’s actual costs for collecting and releasing the
+information that is requested.
+HEALTH INSURANCE EXCHANGE
+SECTION 2.
+ ORS 741.002 is amended to read:
+741.002. (1) The duties of the Oregon Health Authority include:
+(a) Administering a health insurance exchange in accordance with federal law to make qualified
+health plans available to individuals and groups throughout this state.
+(b) Providing information in writing, through an  Internet-based clearinghouse and through a
+toll-free telephone line, that will assist individuals and small businesses in making informed health
+insurance decisions and that may include:
+(A) The rating assigned to each health plan and the rating criteria that were used;
+(B) Quality and enrollee satisfaction survey results; and
+(C) The comparative costs, benefits, provider networks  of health plans and other useful infor-
+mation.
+(c) Establishing and maintaining an electronic calculator that allows  individuals and employers
+to determine the cost of coverage after deducting any  applicable tax credits or cost-sharing re-
+duction.
+(d) Operating a call  center dedicated to answering questions from individuals seeking enrollment
+in a qualified health plan.
+(2) The authority shall:
+(a) Screen, certify and recertify health plans as qualified health plans according to  the require-
+ments, standards and criteria adopted by the  authority under ORS 741.310 and ensure that qualified
+health plans provide choices of coverage.
+(b) Decertify or suspend, in accordance with ORS  chapter 183, the certification of a health plan
+that fails to meet federal and state standards in order  to exclude the health plan from participation
+in the exchange.
+Enrolled Senate Bill 966 (SB 966-B) Page 3
+(c) Promote fair competition of carriers participating in  the exchange by certifying multiple
+health plans as qualified under ORS 741.310.
+(d) Assign ratings to health plans in accordance with criteria established by the  United States
+Secretary of Health and Human Services and by the authority.
+(e) Establish open and special enrollment periods for all enrollees, and  monthly enrollment pe-
+riods for Native Americans that are consistent with federal law.
+(f) Assist individuals and groups to enroll in  qualified health plans, including defined contrib-
+ution plans as defined in section 414 of the Internal Revenue Code and, if appropriate, collect and
+remit premiums for such individuals or groups.
+(g) Facilitate community-based assistance with enrollment in qualified  health plans by awarding
+grants to entities that are certified as navigators as described in 42 U.S.C. 18031(i).
+(h) Provide employers with the names of employees who end coverage under  a qualified health
+plan during a plan year.
+[(i) Certify the eligibility  of an individual for an exemption from the individual responsibility re-
+quirement of section 5000A of the Internal Revenue Code. ]
+[(j)] (i) Provide information  to the federal government necessary for individuals who are enrolled
+in qualified health plans through the exchange to receive tax credits and reduced cost-sharing.
+[(k)] (j)  Provide to the federal government any  information necessary to comply with federal
+requirements including:
+[(A) Information regarding individuals determined to be exempt  from the individual responsibility
+requirement of section 5000A of the Internal Revenue Code; ]
+[(B)] (A)  Information regarding employees who have reported a change in employer; and
+[(C)] (B)  Information regarding individuals who have ended coverage during a plan year.
+[(L)] (k)  Take any other actions necessary and appropriate to comply with the  federal require-
+ments for a health insurance exchange.
+[(m)] (L) Work in coordination with the Oregon Health Policy Board in carrying out its duties.
+(3) The authority may adopt rules necessary to carry out  its duties and functions under ORS
+741.001 to 741.540.
+(4) The authority may  contract or enter into an intergovernmental agreement with the federal
+government to perform any of the duties and functions described in ORS 741.001 to 741.540.
+SECTION 3.
+ ORS 741.004 is amended to read:
+741.004. (1) The Health Insurance Exchange Advisory Committee is created to advise the Oregon
+Health Policy Board in the development and implementation of the  policies and operational proce-
+dures governing the administration  of a health insurance exchange in this state including, but not
+limited to, all of the following:
+(a) The amount of the assessment imposed on insurers under ORS 741.105.
+(b) The [ implementation] operation of a Small Business Health Options Program in accordance
+with 42 U.S.C. 18031.
+(c) The processes and procedures to enable each insurance producer  to be authorized to act for
+all of the insurers offering qualified health plans through the health insurance exchange.
+(d) The affordability of qualified health plans offered by  employers under section 5000A(e)(1) of
+the Internal Revenue Code.
+(e) Outreach strategies for reaching minority and low-income communities.
+(f) Solicitation of customer feedback.
+(g) The affordability of health plans offered through the exchange.
+(2) The committee consists of 15 members. [ Fourteen] Thirteen  members shall be  appointed by
+the Governor and are subject to confirmation by the Senate  in the manner prescribed in ORS
+171.562 and 171.565. The appointed members serve  at the pleasure of the Governor. The Director
+of the  Oregon Health Authority or the director’s designee  and the Director of the Department
+of Consumer and Business Services or the director’s designee  shall serve as [ an] ex  officio
+[member] members  of the committee.
+(3) The [ 14] (13) members appointed by the Governor must represent the interests of:
+Enrolled Senate Bill 966 (SB 966-B) Page 4
+(a) Insurers;
+(b) Insurance producers;
+(c) Navigators, in-person assisters, application counselors and other individuals  with experience
+in facilitating enrollment in qualified health plans;
+(d) Health care providers;
+(e) The business community, including small businesses and self-employed individuals;
+(f) Consumer advocacy groups, including advocates for enrolling hard-to-reach populations;
+(g) Enrollees in qualified health plans; and
+(h) State agencies that administer the medical assistance program under ORS chapter 414.
+(4) The Oregon Health Policy Board or the Director of the Oregon Health Authority may solicit
+recommendations from the committee and the committee may initiate recommendations on its own.
+(5) The committee may provide annual reports to the Legislative Assembly,  in the manner pro-
+vided in ORS 192.245, of  the findings and recommendations the committee considers appropriate,
+including but not limited to a report on the:
+(a) Adequacy of assessments for reserve programs and administrative costs;
+(b) [ Implementation] Operation of the Small Business Health Options Program;
+(c) Number of qualified health plans offered through the exchange;
+(d) Number and demographics of individuals enrolled in qualified health plans;
+(e) Advance premium tax credits provided to enrollees in qualified health plans; and
+(f) Feedback from the community about  satisfaction with the operation of the exchange and
+qualified health plans offered through the exchange.
+(6) The members of the committee shall be appointed for a term fixed by the Governor,  not to
+exceed two years,  and shall serve without compensation, but shall be entitled to travel expenses in
+accordance with ORS 292.495. The committee may hire, subject to the approval of the director,  such
+experts as the committee may  require to discharge its duties. All expenses of the committee shall
+be paid out of the Health Insurance Exchange Fund established in ORS 741.102.
+(7) The employees of the  Oregon Health Authority responsible for administering the health in-
+surance exchange are directed to assist the committee in  the performance of its duties under sub-
+section (1) of this section and, to the extent  permitted by laws relating to confidentiality, to furnish
+such information and  advice as the members of the committee consider necessary to perform their
+duties under subsection (1) of this section.
+SECTION 4.
+ ORS 741.500 is amended to read:
+741.500. (1)(a) The Oregon Health Authority shall adopt  by rule the information that must be
+documented in order for a person to qualify for:
+(A) Qualified health plan coverage through the health insurance exchange;
+(B) Premium tax credits; and
+(C) Cost-sharing reductions.
+(b) The documentation specified by the authority under this subsection shall  include but is not
+limited to documentation of:
+(A) The identity of the person;
+(B) The status of the person as a United States citizen, or lawfully  admitted noncitizen, and a
+resident of this state;
+(C) Information concerning the income and resources of the person  as necessary to establish the
+person’s financial eligibility for coverage, for premium tax credits and for  cost-sharing reductions,
+which may include income tax return information and a Social Security number; and
+(D) Employer identification  information and employer-sponsored health insurance coverage in-
+formation applicable to the person.
+[(2) The authority shall adopt by rule the information that must be documented in order  to deter-
+mine whether the person is exempt from a requirement to purchase or be enrolled in a health  plan
+under section 5000A of the Internal Revenue Code or other federal law. ]
+Enrolled Senate Bill 966 (SB 966-B) Page 5
+[(3)] (2)  The authority shall implement systems that provide  electronic access to, and use, dis-
+closure and validation of data needed to administer the exchange, to comply with federal data access
+and data exchange requirements and to streamline and simplify exchange processes.
+[(4)] (3)  Information and data that the authority obtains under this section may be  exchanged
+with other state  or federal health insurance exchanges, with state or federal agencies and, subject
+to ORS 741.510, for the purpose  of carrying out exchange responsibilities, including but not limited
+to:
+(a) Establishing and verifying eligibility for:
+(A) A state medical assistance program;
+(B) The purchase of qualified health plans through the exchange; and
+(C) Any other programs that are offered through the exchange;
+(b) Establishing and verifying the amount of a person’s federal tax credit, cost-sharing  reduction
+or premium assistance;
+[(c) Establishing and verifying eligibility  for exemption from the requirement to purchase or be
+enrolled in a health plan under section 5000A of the Internal Revenue Code or other federal law; ]
+[(d)] (c)  Complying with other federal requirements; or
+[(e)] (d) Improving the operations of the exchange and for program analysis.
+SECTION 5.
+ ORS 741.222 is amended to read:
+741.222. (1) The Director of the Oregon Health Authority shall report  to the Legislative As-
+sembly each year on:
+(a) The financial condition of the health insurance exchange, including actual and projected re-
+venues and expenses of the administrative operations of the exchange and  commissions paid to in-
+surance producers out of fees collected under ORS 741.105 (6);
+(b) The [ implementation] operation of the Small Business Health Options Program;
+(c) The development of the information technology system for the exchange; and
+(d) Any other information requested by the leadership of the Legislative Assembly.
+(2) The director  shall provide to the Legislative Assembly, the Governor and the Oregon Health
+Policy Board, not later than April 15 of each year:
+(a) A report covering the activities and  operations of the authority in administering the health
+insurance exchange during the previous year of operations;
+(b) A statement of the financial condition, as of December 31 of the previous year,  of the Health
+Insurance Exchange Fund; and
+(c) Recommendations, if any, for additional groups to be eligible to purchase qualified  health
+plans through the exchange under ORS 741.310.
+SECTION 6.
+ Section 40, chapter 569, Oregon Laws 2021, is amended to read:
+Sec. 40.  Section 8 , [ of this 2021 Act ] chapter 569, Oregon Laws 2021,  is repealed on [ January
+2, 2026] the effective date of this 2023 Act .
+REPEAL OF COFA PREMIUM ASSISTANCE PROGRAM
+SECTION 7.  ORS 413.032, as amended by section 3, chapter 87, Oregon Laws 2022,  is amended
+to read:
+413.032. (1) The Oregon Health Authority is established. The authority shall:
+(a) Carry out policies adopted by the Oregon Health Policy Board;
+(b) Administer the Oregon Integrated  and Coordinated Health Care Delivery System established
+in ORS 414.570[ , the COFA Premium  Assistance Program established in ORS 413.610 ] and the COFA
+Dental Program established in section 1, chapter 87, Oregon Laws 2022;
+(c) Administer the Oregon Prescription Drug Program;
+(d) Develop the policies  for and the provision of publicly funded medical care and medical as-
+sistance in this state;
+(e) Develop the policies for and the  provision of mental health treatment and treatment of ad-
+dictions;
+Enrolled Senate Bill 966 (SB 966-B) Page 6
+(f) Assess, promote and protect the health of the public as specified by state and federal law;
+(g) Provide regular reports to the board with  respect to the performance of health services
+contractors serving recipients of  medical assistance, including reports of trends in health services
+and enrollee satisfaction;
+(h) Guide and support, with the authorization of the board, community-centered health initiatives
+designed to address critical risk factors, especially those that contribute to chronic disease;
+(i) Be the state Medicaid agency for the administration  of funds from Titles XIX and XXI of the
+Social Security Act and administer medical assistance under ORS chapter 414;
+(j) In consultation  with the Director of the Department of Consumer and Business Services, pe-
+riodically review and recommend standards and methodologies to the Legislative Assembly for:
+(A) Review of administrative expenses of health insurers;
+(B) Approval of rates; and
+(C) Enforcement of rating rules adopted by the Department  of Consumer and Business Services;
+(k) Structure reimbursement rates for providers that serve recipients  of medical assistance to
+reward comprehensive management of diseases, quality outcomes and  the efficient use of resources
+and to promote cost-effective  procedures, services and programs including, without limitation, pre-
+ventive health, dental and  primary care services, web-based office visits, telephone consultations and
+telemedicine consultations;
+(L) Guide and support  community three-share agreements in which an employer, state or local
+government and an individual all contribute a  portion of a premium for a community-centered health
+initiative or for insurance coverage;
+(m) Develop, in consultation with the Department of  Consumer and Business Services, one or
+more products designed to provide more affordable options for the small group market;
+(n) Implement policies and programs to expand the skilled, diverse workforce as described  in
+ORS 414.018 (4); and
+(o) Implement a  process for collecting the health outcome and quality measure data identified
+by the Health Plan Quality Metrics Committee and the Behavioral Health  Committee and report the
+data to the Oregon Health Policy Board.
+(2) The Oregon Health Authority is authorized to:
+(a) Create  an all-claims, all-payer database to collect health care data and monitor and evaluate
+health care reform in Oregon and  to provide comparative cost and quality information to consumers,
+providers and purchasers of health care about Oregon’s health  care systems and health plan net-
+works in order to provide comparative information to consumers.
+(b) Develop uniform contracting standards for the  purchase of health care, including the fol-
+lowing:
+(A) Uniform quality standards and performance measures;
+(B) Evidence-based guidelines for major  chronic disease management and health care services
+with unexplained variations in frequency or cost;
+(C) Evidence-based effectiveness guidelines for select new technologies and medical equipment;
+(D) A statewide drug formulary that may be used by publicly funded health benefit plans; and
+(E) Standards that accept and consider tribal-based practices for mental health and  substance
+abuse prevention, counseling and treatment for persons who are  Native American or Alaska Native
+as equivalent to evidence-based practices.
+(3) The enumeration of  duties, functions and powers in this section is not intended to be exclu-
+sive nor to limit the duties, functions and powers  imposed on or vested in the Oregon Health Au-
+thority by ORS 413.006 to 413.042, [ 413.610 to 413.613,] 415.012 to 415.430, 415.501, 741.001 to 741.540,
+741.802 and 741.900 or by other statutes.
+SECTION 8.
+ Section 1, chapter 87, Oregon Laws 2022, is amended to read:
+Sec. 1.  (1) As used in this section:
+(a) “COFA citizen” [ has the meaning given that  term in ORS 413.611 ] means an individual who
+is a citizen of:
+(A) The Republic of the Marshall Islands;
+Enrolled Senate Bill 966 (SB 966-B) Page 7
+(B) The Federated States of Micronesia; or
+(C) The Republic of Palau .
+(b) “Dental care organization” means a prepaid managed care  health services organization, as
+defined in ORS 414.025, that provides dental care to members of a coordinated care organization.
+(c) “Income” means the modified adjusted gross income that is attributed to an  individual in
+determining the individual’s eligibility for the medical assistance program.
+(2) The COFA Dental Program is established in the Oregon Health Authority. The purpose  of
+the program is to provide oral health care to low-income citizens  of the island nations in the Com-
+pact of Free Association who are residing in Oregon.
+(3) The authority shall contract with dental care organizations throughout this state,  and with
+individual oral health care providers in areas of this state that are not served by dental care  or-
+ganizations, to provide oral health care to COFA citizens enrolled in the COFA Dental Program.
+(4) Enrollees in the COFA Dental Program shall  receive the types and extent of oral health care
+services that the authority determines will be  provided to medical assistance recipients in accord-
+ance with ORS 414.065, without  any corresponding copayments, deductibles or cost sharing required.
+(5) An individual is eligible for the COFA Dental Program if the individual:
+(a) Is a resident of Oregon;
+(b) Is a COFA citizen;
+(c) Has income that is less than 138 percent of the federal poverty guidelines; and
+(d) Does not qualify for Medicaid under Title XIX of the Social Security Act or the  Children’s
+Health Insurance Program under Title XXI of the Social Security Act.
+(6) The authority may use the application process described in  ORS 411.400 for the COFA
+Dental Program. The authority shall provide culturally  and linguistically appropriate assistance, in
+person and by telephone,  to applicants for and enrollees in the program. The application process,
+forms and notices used in the COFA Dental Program must conform to the guidance  adopted by the
+United States Department of Health and Human Services, in accordance with Title VI of the  Civil
+Rights Act of 1964,  regarding the prohibition against national origin discrimination affecting persons
+with limited English proficiency in federally funded programs.
+(7) The authority shall accept as verification of eligibility the attestation of an applicant for or
+enrollee in the COFA Dental Program that the applicant  or enrollee meets the requirements of
+subsection (5) of this section.
+(8) The  authority shall conduct [ outreach as described in ORS 413.612 (4)(e) ] a comprehensive
+community education and outreach campaign,  working with stakeholder and community or-
+ganizations, to facilitate applications for and enrollment in the COFA Dental Program.
+(9) The authority may not disclose personally identifying  information about applicants for or
+enrollees in the COFA  Dental Program except to the extent necessary to conduct outreach under
+subsection (8) of this section or to comply with federal or state laws.
+SECTION 9.
+ Section 4, chapter 29, Oregon Laws 2022, is amended to read:
+Sec. 4.  (1) A task force to create a bridge program is established.
+(2) The task force shall consist of the following members:
+(a) The President of the Senate shall appoint two nonvoting  members from among members of
+the Senate.
+(b) The Speaker of the House of Representatives shall appoint two nonvoting  members from
+among members of the House of Representatives.
+(c) The Governor shall appoint the following members:
+(A) One  member representing low-income workers who are likely to be eligible for the bridge
+program.
+(B) Two members with expertise in health equity.
+(C) One member with expertise  in providing navigation assistance for health insurance con-
+sumers.
+(D) One member representing organized labor.
+Enrolled Senate Bill 966 (SB 966-B) Page 8
+(E) One member representing  an insurer that offers qualified health plans on the health insur-
+ance exchange.
+(F) One member representing a coordinated care organization.
+(G) In addition to the members  described in subparagraphs (H) and (I) of this paragraph, two
+members representing health care providers, one of whom represents a hospital or health system.
+(H) One member with expertise in behavioral health care.
+(I) One member representing an oral health care provider that contracts with the authority to
+provide care to enrollees in the medical assistance program.
+(J) A representative of the Medicaid Advisory Committee.
+(K) A representative of the Health Insurance Exchange Advisory Committee.
+(d) The chairperson of the Oregon Health Policy Board or the chairperson’s designee.
+(e) The Director of the Oregon Health Authority or the director’s designee.
+(f) The Director of Human Services or the director’s designee.
+(g) The Director  of the Department of Consumer and Business Services or the director’s
+designee.
+(3) The Governor shall select two of the  nonvoting members of the task force to serve as
+cochairpersons.
+(4) The members of the task force must be appointed and have their first meeting  no later than
+March 31, 2022.
+(5) The task force shall develop a proposal  for a bridge program to provide affordable health
+insurance coverage and improve the continuity  of coverage for individuals who regularly enroll and
+disenroll in the medical assistance program or other health care coverage  due to frequent fluctu-
+ations in income.
+(6) The authority and the Department of Consumer and  Business Services shall consult with
+Oregon Indian tribes during the deliberations of the task  force and incorporate tribal recommenda-
+tions into the task  force report and requests for federal approvals under subsections (7) and (9) of
+this section.
+(7)(a) Except as provided in paragraph (b) of this subsection, the task force must  complete the
+proposal for a bridge program and submit a  report, no later than July 31, 2022, containing recom-
+mendations and  a request for additional funding, if necessary, to the interim committees of the
+Legislative Assembly related to health,  the subcommittee of the Joint Interim Committee on Ways
+and Means related to human services,  the President of the Senate, the Speaker of the House of
+Representatives and the Legislative Fiscal Officer. The report must include recommendations on:
+(A) The potential development of additional federal waivers; and
+(B) Suggested timelines for phasing in the bridge program.
+(b) If the federal public health emergency related to COVID-19  is extended beyond April 16,
+2022, the task force has until September 1, 2022, to complete the proposal and submit a report.
+(8) The recommendations  and proposal for a bridge program must, within available federal re-
+sources and the authority’s legislatively approved budget:
+(a) Prioritize health equity,  reduction in the rate of uninsurance in this state and the promotion
+of continuous health care coverage for communities that have faced health inequities.
+(b) Be  consistent with the Oregon Integrated and Coordinated Health Care Delivery System es-
+tablished in ORS 414.570 and enhance the coordinated care organization delivery system.
+(c) Ensure that the bridge program is available to  all individuals residing in this state with in-
+comes at or below  200 percent of the federal poverty guidelines who do not qualify for the medical
+assistance program but who do qualify for advance premium [ tax] assistance  credits[ , as defined  in
+ORS 413.611] under section 36B of the Internal Revenue Code .
+(d) Maximize leveraging of  federal funds and minimize costs to enrollees in the program and to
+the state budget.
+(e) Provide, at a  minimum, all essential health benefits, as defined in ORS 731.097 and, to the
+extent practicable, an option or options for dental coverage.
+Enrolled Senate Bill 966 (SB 966-B) Page 9
+(f) To the extent practicable, include an  option that has no cost-sharing, deductibles or other
+out-of-pocket costs and an option that  provides lesser cost-sharing, deductibles or other out-of-pocket
+costs than qualified health plans on the health insurance exchange.
+(g) Establish a capitation rate to be  paid to providers that is sufficient to provide coverage,
+within the authority’s legislatively approved  budget and available federal resources, but with re-
+imbursement rates that are higher than the current medical assistance program  reimbursement
+rates, to the extent practicable.
+(h) Offer health care coverage through coordinated  care organizations and align procurements
+for service providers on the same  cycle as the procurements cycle for coordinated care organiza-
+tions.
+(i) Provide a transition period for eligible individuals to enroll in the bridge program.
+(j) Take into  account the health insurance exchange as an option for potential bridge program
+participants if the participants choose to opt out of the bridge program.
+(k) In addition to  using coordinated care organizations to deliver the services in the bridge
+program, include an option for offering the bridge program on the health insurance exchange if  the
+plans meet criteria established by the Oregon Health Authority and the  Department of Consumer
+and Business Services, to the extent practicable within the authority’s legislatively approved budget
+and available federal resources.
+(L) To the  extent practicable, require coordinated care organizations to accept enrollees in the
+bridge program or require the authority to contract with a new entity to accept bridge program
+enrollees.
+(9)(a) The task force shall identify potential disruptions to the individual and small  group mar-
+kets by the bridge program and develop mitigation strategies to ensure market stability including
+utilizing the Oregon Reinsurance Program or other mechanisms to limit disruptions in coverage.
+(b) No later than December 31, 2022, the task force shall submit to the Legislative Assembly,
+in the manner provided  in ORS 192.245, recommendations to alleviate disruptions to health care
+coverage for individuals and small employers in this state.
+(10) A majority of the voting members of the task force  constitutes a quorum for the transaction
+of business.
+(11) Official action by the task force requires the approval of a majority of the voting members
+of the task force.
+(12) If there is a vacancy for any cause, the appointing authority shall make an  appointment to
+become immediately effective.
+(13) The task  force shall meet at times and places specified by the call of the cochairpersons
+or of a majority of the voting members of the task force.
+(14) The task force may adopt rules necessary for the operation of the task force.
+(15) The Director of the Legislative Policy  and Research Office shall provide staff support to the
+task force.
+(16) Members of the Legislative Assembly appointed to the task force are  nonvoting members
+of the task force and may act in an advisory capacity only.
+(17)(a) Members of the task force  who are not members of the Legislative Assembly and who
+have incomes  at or below 400 percent of the federal poverty guidelines are entitled to compensation
+for actual and necessary expenses incurred by the members  in the performance of their official du-
+ties, as provided in ORS 292.495.
+(b) Members of the task force who are members of the Legislative Assembly  are entitled to a
+per diem as provided in ORS 171.072 (4).
+(c) Members not described  in paragraph (a) or (b) of this subsection are not entitled to com-
+pensation or reimbursement for expenses and serve as volunteers on the task force.
+(18) The authority and the department are directed to assist the task  force in the performance
+of the duties of the task force and, to the extent permitted by laws relating  to confidentiality, to
+furnish information and advice the members of the task force consider necessary to  perform their
+duties.
+Enrolled Senate Bill 966 (SB 966-B) Page 10
+SECTION 10. ORS 413.610, 413.611, 413.612 and 413.613 are repealed.
+HEALTH PLAN METRICS
+SECTION 11.  ORS 414.025 is amended to read:
+414.025. As used in this chapter and ORS chapters 411 and  413, unless the context or a specially
+applicable statutory definition requires otherwise:
+(1)(a) “Alternative payment methodology” means  a payment other than a fee-for-services pay-
+ment, used by coordinated care organizations as compensation for the provision of integrated and
+coordinated health care and services.
+(b) “Alternative payment methodology” includes, but is not limited to:
+(A) Shared savings arrangements;
+(B) Bundled payments; and
+(C) Payments based on episodes.
+(2) “Behavioral health assessment” means an  evaluation by a behavioral health clinician, in
+person or using telemedicine, to determine a patient’s need for immediate crisis stabilization.
+(3) “Behavioral health clinician” means:
+(a) A licensed psychiatrist;
+(b) A licensed psychologist;
+(c) A licensed nurse practitioner with a specialty in psychiatric mental health;
+(d) A licensed clinical social worker;
+(e) A licensed professional counselor or licensed marriage and family therapist;
+(f) A certified clinical social work associate;
+(g) An intern or resident who is  working under a board-approved supervisory contract in a
+clinical mental health field; or
+(h) Any other clinician  whose authorized scope of practice includes mental health diagnosis and
+treatment.
+(4) “Behavioral health crisis” means a disruption in an  individual’s mental or emotional stability
+or functioning resulting in an urgent need for immediate outpatient  treatment in an emergency de-
+partment or admission to a hospital to prevent a serious deterioration in the individual’s mental  or
+physical  health.
+(5) “Behavioral health home” means a mental health disorder or substance  use disorder treat-
+ment organization, as defined by the Oregon  Health Authority by rule, that provides integrated
+health care to individuals whose primary diagnoses are mental health disorders  or substance use
+disorders.
+(6) “Category of aid” means assistance provided by the Oregon Supplemental Income  Program,
+aid granted under ORS 411.877 to 411.896 and 412.001 to  412.069 or federal Supplemental Security
+Income payments.
+(7) “Community health worker” means an individual who meets qualification  criteria adopted
+by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in  an urban or rural community, either for pay or as a volunteer in association with
+a local health care system;
+(c) To the  extent practicable, shares ethnicity, language, socioeconomic status and life experi-
+ences with the residents of the community the worker serves;
+(d) Assists members of the community to improve their  health and increases the capacity of the
+community to meet the health care needs of its residents and achieve wellness;
+(e) Provides health education and information that is culturally appropriate to the individuals
+being served;
+(f) Assists community residents in receiving the care they need;
+(g) May give peer counseling and guidance on health behaviors; and
+(h) May provide direct services such as first aid or blood pressure screening.
+Enrolled Senate Bill 966 (SB 966-B) Page 11
+(8) “Coordinated  care organization” means an organization meeting criteria adopted by the
+Oregon Health Authority under ORS 414.572.
+(9) “Dually eligible for Medicare and Medicaid” means, with respect to eligibility for  enrollment
+in a coordinated care organization, that an individual is eligible for health services funded by Title
+XIX of the Social Security Act and is:
+(a) Eligible for or enrolled in Part A of Title XVIII of the Social Security Act; or
+(b) Enrolled in Part B of Title XVIII of the Social Security Act.
+(10)(a) “Family support specialist” means an individual who  meets qualification criteria adopted
+by the  authority under ORS 414.665 and who provides supportive services to and has experience
+parenting a child who:
+(A) Is a current or former consumer of mental health or addiction treatment; or
+(B) Is facing or has  faced difficulties in accessing education, health and wellness services due
+to a mental health or behavioral health barrier.
+(b) A “family support specialist” may be a peer wellness specialist or a peer support specialist.
+(11) “Global budget” means a  total amount established prospectively by the Oregon Health Au-
+thority to be paid to a coordinated  care organization for the delivery of, management of, access to
+and quality of the health care delivered to members of the coordinated care organization.
+(12) “Health  insurance exchange” or “exchange” means an American Health Benefit Exchange
+described in 42 U.S.C. 18031, 18032, 18033 and 18041.
+(13) “Health services”  means at least so much of each of the following as are funded by the
+Legislative Assembly based upon the prioritized list of health  services compiled by the Health Evi-
+dence Review Commission under ORS 414.690:
+(a) Services required by federal law to be included in the state’s medical assistance program in
+order for the program to qualify for federal funds;
+(b) Services provided  by a physician as defined in ORS 677.010, a nurse practitioner licensed
+under ORS 678.375, a behavioral health clinician or other licensed  practitioner within the scope of
+the practitioner’s practice as defined by state law, and ambulance services;
+(c) Prescription drugs;
+(d) Laboratory and X-ray services;
+(e) Medical equipment and supplies;
+(f) Mental health services;
+(g) Chemical dependency services;
+(h) Emergency dental services;
+(i) Nonemergency dental services;
+(j) Provider services,  other than services described in paragraphs (a) to (i), (k), (L) and (m) of
+this subsection, defined by federal law that may be included in the  state’s medical assistance pro-
+gram;
+(k) Emergency hospital services;
+(L) Outpatient hospital services; and
+(m) Inpatient hospital services.
+(14) “Income” has the meaning given that term in ORS 411.704.
+(15)(a) “Integrated health care”  means care provided to individuals and their families in a pa-
+tient centered primary care home or behavioral health home by licensed primary care  clinicians,
+behavioral health clinicians and other care team members, working together to address one or  more
+of the following:
+(A) Mental illness.
+(B) Substance use disorders.
+(C) Health behaviors that contribute to chronic illness.
+(D) Life stressors and crises.
+(E) Developmental risks and conditions.
+(F) Stress-related physical symptoms.
+(G) Preventive care.
+Enrolled Senate Bill 966 (SB 966-B) Page 12
+(H) Ineffective patterns of health care utilization.
+(b) As used in this subsection, “other care team members” includes but is not limited to:
+(A) Qualified mental health professionals  or qualified mental health associates meeting require-
+ments adopted by the Oregon Health Authority by rule;
+(B) Peer wellness specialists;
+(C) Peer support specialists;
+(D) Community health workers who have completed a state-certified training program;
+(E) Personal health navigators; or
+(F) Other qualified individuals approved by the Oregon Health Authority.
+(16) “Investments and savings” means cash,  securities as defined in ORS 59.015, negotiable in-
+struments as defined in ORS 73.0104 and such similar investments or  savings as the department or
+the authority may establish by rule that  are available to the applicant or recipient to contribute
+toward meeting the needs of the applicant or recipient.
+(17) “Medical assistance” means so much of the  medical, mental health, preventive, supportive,
+palliative and remedial care and services as may be prescribed by the authority  according to the
+standards established pursuant to ORS 414.065, including premium  assistance under ORS [ 413.610 to
+413.613,] 414.115 and 414.117, payments made for services  provided under an insurance or other
+contractual arrangement and money paid directly to the recipient for the purchase of health services
+and for services described in ORS 414.710.
+(18) “Medical assistance” includes  any care or services for any individual who is a patient in
+a medical institution or any care or services for any individual who has attained 65 years of age
+or is under 22 years of age, and who is a patient in a private  or public institution for mental dis-
+eases. Except as provided in ORS 411.439 and 411.447, “medical assistance” does not  include care
+or services for a resident of a nonmedical public institution.
+(19) “Patient centered primary care home” means a  health care team or clinic that is organized
+in accordance with the standards established by the Oregon Health  Authority under ORS 414.655
+and that incorporates the following core attributes:
+(a) Access to care;
+(b) Accountability to consumers and to the community;
+(c) Comprehensive whole person care;
+(d) Continuity of care;
+(e) Coordination and integration of care; and
+(f) Person and family centered care.
+(20) “Peer support specialist” means  any of the following individuals who meet qualification
+criteria adopted by the authority under ORS 414.665 and who  provide supportive services to a cur-
+rent or former consumer of mental health or addiction treatment:
+(a) An individual who is a current or former consumer of mental health treatment; or
+(b) An individual who is in recovery, as defined by the Oregon Health Authority by rule,  from
+an addiction disorder.
+(21) “Peer wellness specialist” means an individual  who meets qualification criteria adopted by
+the authority under ORS 414.665 and who is responsible for  assessing mental health and substance
+use disorder  service and support needs of a member of a coordinated care organization through
+community outreach, assisting  members with access to available services and resources, addressing
+barriers to services and providing education and information about available resources for individ-
+uals with mental  health or substance use disorders in order to reduce stigma and discrimination
+toward consumers of mental health and substance use disorder services and to assist the  member
+in creating and maintaining recovery, health and wellness.
+(22) “Person centered care” means care that:
+(a) Reflects the individual patient’s strengths and preferences;
+(b) Reflects the clinical  needs of the patient as identified through an individualized assessment;
+and
+(c) Is based upon the patient’s goals and will assist the patient in achieving the goals.
+Enrolled Senate Bill 966 (SB 966-B) Page 13
+(23) “Personal  health navigator” means an individual who meets qualification criteria adopted
+by the authority under ORS 414.665 and  who provides information, assistance, tools and support to
+enable a patient to make  the best health care decisions in the patient’s particular circumstances and
+in light of the patient’s needs, lifestyle, combination of conditions and desired outcomes.
+(24) “Prepaid managed care health services organization” means a  managed dental care, mental
+health or chemical dependency organization that contracts with the authority  under ORS 414.654
+or with a coordinated care organization on a prepaid capitated basis to provide health  services to
+medical assistance recipients.
+(25) “Quality measure” means the health outcome and quality measures and benchmarks identi-
+fied by the Health Plan Quality Metrics Committee and the  metrics and scoring subcommittee in
+accordance with ORS 413.017 (4) and 414.638  and the quality metrics developed by the Behavioral
+Health Committee in accordance with ORS 413.017 (5).
+(26) “Resources” has the  meaning given that term in ORS 411.704. For eligibility purposes, “re-
+sources” does not include charitable contributions  raised by a community to assist with medical
+expenses.
+(27) “Social determinants of health” means:
+(a) Nonmedical factors that influence health outcomes;
+(b) The conditions in which individuals are born, grow, work, live and age; and
+(c) The forces and  systems that shape the conditions of daily life, such as economic pol-
+icies and systems, development agendas, social norms,  social policies, racism, climate change
+and political systems.
+[(27)] (28)  “Tribal traditional health worker” means an individual who meets qualification  cri-
+teria adopted by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in a tribal community or an urban Indian community, either for pay or as a  volunteer
+in association with a local health care system;
+(c) To the extent practicable, shares ethnicity, language, socioeconomic status and  life experi-
+ences with the residents of the community the worker serves;
+(d) Assists members of the community to improve their health, including  physical, behavioral
+and oral health, and increases  the capacity of the community to meet the health care needs of its
+residents and achieve wellness;
+(e) Provides health education and information that is culturally appropriate to the individuals
+being served;
+(f) Assists community residents in receiving the care they need;
+(g) May give peer counseling and guidance on health behaviors; and
+(h) May provide direct services, such as tribal-based practices.
+[(28)(a)] (29)(a) “Youth support specialist” means an individual who meets qualification criteria
+adopted by the authority under ORS 414.665 and who, based  on a similar life experience, provides
+supportive services to an individual who:
+(A) Is not older than 30 years of age; and
+(B)(i) Is a current or former consumer of mental health or addiction treatment; or
+(ii) Is facing or has faced difficulties in accessing education, health and wellness  services due
+to a mental health or behavioral health barrier.
+(b) A “youth support specialist” may be a peer wellness specialist or a peer support specialist.
+SECTION 12.
+ ORS 414.025, as amended by section  2, chapter 628, Oregon Laws 2021, is
+amended to read:
+414.025. As used in this chapter and ORS chapters 411 and  413, unless the context or a specially
+applicable statutory definition requires otherwise:
+(1)(a) “Alternative payment methodology” means  a payment other than a fee-for-services pay-
+ment, used by coordinated care organizations as compensation for the provision of integrated and
+coordinated health care and services.
+(b) “Alternative payment methodology” includes, but is not limited to:
+Enrolled Senate Bill 966 (SB 966-B) Page 14
+(A) Shared savings arrangements;
+(B) Bundled payments; and
+(C) Payments based on episodes.
+(2) “Behavioral health assessment” means an  evaluation by a behavioral health clinician, in
+person or using telemedicine, to determine a patient’s need for immediate crisis stabilization.
+(3) “Behavioral health clinician” means:
+(a) A licensed psychiatrist;
+(b) A licensed psychologist;
+(c) A licensed nurse practitioner with a specialty in psychiatric mental health;
+(d) A licensed clinical social worker;
+(e) A licensed professional counselor or licensed marriage and family therapist;
+(f) A certified clinical social work associate;
+(g) An intern or resident who is  working under a board-approved supervisory contract in a
+clinical mental health field; or
+(h) Any other clinician  whose authorized scope of practice includes mental health diagnosis and
+treatment.
+(4) “Behavioral health crisis” means a disruption in an  individual’s mental or emotional stability
+or functioning resulting in an urgent need for immediate outpatient  treatment in an emergency de-
+partment or admission to a hospital to prevent a serious deterioration in the individual’s mental  or
+physical  health.
+(5) “Behavioral health home” means a mental health disorder or substance  use disorder treat-
+ment organization, as defined by the Oregon  Health Authority by rule, that provides integrated
+health care to individuals whose primary diagnoses are mental health disorders  or substance use
+disorders.
+(6) “Category of aid” means assistance provided by the Oregon Supplemental Income  Program,
+aid granted under ORS 411.877 to 411.896 and 412.001 to  412.069 or federal Supplemental Security
+Income payments.
+(7) “Community health worker” means an individual who meets qualification  criteria adopted
+by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in  an urban or rural community, either for pay or as a volunteer in association with
+a local health care system;
+(c) To the  extent practicable, shares ethnicity, language, socioeconomic status and life experi-
+ences with the residents of the community the worker serves;
+(d) Assists members of the community to improve their  health and increases the capacity of the
+community to meet the health care needs of its residents and achieve wellness;
+(e) Provides health education and information that is culturally appropriate to the individuals
+being served;
+(f) Assists community residents in receiving the care they need;
+(g) May give peer counseling and guidance on health behaviors; and
+(h) May provide direct services such as first aid or blood pressure screening.
+(8) “Coordinated  care organization” means an organization meeting criteria adopted by the
+Oregon Health Authority under ORS 414.572.
+(9) “Dually eligible for Medicare and Medicaid” means, with respect to eligibility for  enrollment
+in a coordinated care organization, that an individual is eligible for health services funded by Title
+XIX of the Social Security Act and is:
+(a) Eligible for or enrolled in Part A of Title XVIII of the Social Security Act; or
+(b) Enrolled in Part B of Title XVIII of the Social Security Act.
+(10)(a) “Family support specialist” means an individual who  meets qualification criteria adopted
+by the  authority under ORS 414.665 and who provides supportive services to and has experience
+parenting a child who:
+(A) Is a current or former consumer of mental health or addiction treatment; or
+Enrolled Senate Bill 966 (SB 966-B) Page 15
+(B) Is facing or has  faced difficulties in accessing education, health and wellness services due
+to a mental health or behavioral health barrier.
+(b) A “family support specialist” may be a peer wellness specialist or a peer support specialist.
+(11) “Global budget” means a  total amount established prospectively by the Oregon Health Au-
+thority to be paid to a coordinated  care organization for the delivery of, management of, access to
+and quality of the health care delivered to members of the coordinated care organization.
+(12) “Health  insurance exchange” or “exchange” means an American Health Benefit Exchange
+described in 42 U.S.C. 18031, 18032, 18033 and 18041.
+(13) “Health services”  means at least so much of each of the following as are funded by the
+Legislative Assembly based upon the prioritized list of health  services compiled by the Health Evi-
+dence Review Commission under ORS 414.690:
+(a) Services required by federal law to be included in the state’s medical assistance program in
+order for the program to qualify for federal funds;
+(b) Services provided  by a physician as defined in ORS 677.010, a nurse practitioner licensed
+under ORS 678.375, a behavioral health clinician or other licensed  practitioner within the scope of
+the practitioner’s practice as defined by state law, and ambulance services;
+(c) Prescription drugs;
+(d) Laboratory and X-ray services;
+(e) Medical equipment and supplies;
+(f) Mental health services;
+(g) Chemical dependency services;
+(h) Emergency dental services;
+(i) Nonemergency dental services;
+(j) Provider services,  other than services described in paragraphs (a) to (i), (k), (L) and (m) of
+this subsection, defined by federal law that may be included in the  state’s medical assistance pro-
+gram;
+(k) Emergency hospital services;
+(L) Outpatient hospital services; and
+(m) Inpatient hospital services.
+(14) “Income” has the meaning given that term in ORS 411.704.
+(15)(a) “Integrated health care”  means care provided to individuals and their families in a pa-
+tient centered primary care home or behavioral health home by licensed primary care  clinicians,
+behavioral health clinicians and other care team members, working together to address one or  more
+of the following:
+(A) Mental illness.
+(B) Substance use disorders.
+(C) Health behaviors that contribute to chronic illness.
+(D) Life stressors and crises.
+(E) Developmental risks and conditions.
+(F) Stress-related physical symptoms.
+(G) Preventive care.
+(H) Ineffective patterns of health care utilization.
+(b) As used in this subsection, “other care team members” includes but is not limited to:
+(A) Qualified mental health professionals or qualified mental  health associates meeting require-
+ments adopted by the Oregon Health Authority by rule;
+(B) Peer wellness specialists;
+(C) Peer support specialists;
+(D) Community health workers who have completed a state-certified training program;
+(E) Personal health navigators; or
+(F) Other qualified individuals approved by the Oregon Health Authority.
+(16) “Investments and savings” means cash, securities as defined  in ORS 59.015, negotiable in-
+struments as defined in ORS 73.0104  and such similar investments or savings as the department or
+Enrolled Senate Bill 966 (SB 966-B) Page 16
+the authority may establish by rule that are available to  the applicant or recipient to contribute
+toward meeting the needs of the applicant or recipient.
+(17) “Medical assistance” means so much of the  medical, mental health, preventive, supportive,
+palliative and remedial care and services as may be prescribed by the authority  according to the
+standards established pursuant to ORS 414.065, including premium  assistance under ORS [ 413.610 to
+413.613,] 414.115 and 414.117, payments made for services  provided under an insurance or other
+contractual arrangement and money paid directly to the recipient for the purchase of health services
+and for services described in ORS 414.710.
+(18) “Medical assistance” includes  any care or services for any individual who is a patient in
+a medical institution or any care or services for any individual who has attained 65 years of age
+or is under 22 years of age, and who is a patient in a private  or public institution for mental dis-
+eases. Except as provided in ORS 411.439 and 411.447, “medical assistance” does not  include care
+or services for a resident of a nonmedical public institution.
+(19) “Mental health drug” means a type of legend drug, as defined in  ORS 414.325, specified by
+the Oregon Health Authority by rule, including but not limited to:
+(a) Therapeutic class 7 ataractics-tranquilizers; and
+(b) Therapeutic class 11 psychostimulants-antidepressants.
+(20) “Patient centered primary care home” means a  health care team or clinic that is organized
+in accordance with the standards  established by the Oregon Health Authority under ORS 414.655
+and that incorporates the following core attributes:
+(a) Access to care;
+(b) Accountability to consumers and to the community;
+(c) Comprehensive whole person care;
+(d) Continuity of care;
+(e) Coordination and integration of care; and
+(f) Person and family centered care.
+(21) “Peer support specialist” means any of the following  individuals who meet qualification
+criteria adopted by the authority under ORS  414.665 and who provide supportive services to a cur-
+rent or former consumer of mental health or addiction treatment:
+(a) An individual who is a current or former consumer of mental health treatment; or
+(b) An  individual who is in recovery, as defined by the Oregon Health Authority by rule, from
+an addiction disorder.
+(22) “Peer wellness specialist” means an individual  who meets qualification criteria adopted by
+the authority under ORS 414.665 and  who is responsible for assessing mental health and substance
+use disorder service and support needs of a member of a coordinated care organization  through
+community outreach, assisting members with access to available services and  resources, addressing
+barriers to services and providing education and information about available resources for individ-
+uals with mental health or substance use disorders in order to reduce stigma  and discrimination
+toward consumers  of mental health and substance use disorder services and to assist the member
+in creating and maintaining recovery, health and wellness.
+(23) “Person centered care” means care that:
+(a) Reflects the individual patient’s strengths and preferences;
+(b) Reflects the clinical needs of the patient as identified through  an individualized assessment;
+and
+(c) Is based upon the patient’s goals and will assist the patient in achieving the goals.
+(24) “Personal health navigator” means an individual who meets qualification criteria  adopted
+by the authority under ORS 414.665 and who provides  information, assistance, tools and support to
+enable a patient to make  the best health care decisions in the patient’s particular circumstances and
+in light of the patient’s needs, lifestyle, combination of conditions and desired outcomes.
+(25) “Prepaid managed care health services organization” means a  managed dental care, mental
+health or chemical dependency organization that contracts with the authority  under ORS 414.654
+Enrolled Senate Bill 966 (SB 966-B) Page 17
+or with a coordinated care organization on a prepaid capitated basis to provide health  services to
+medical assistance recipients.
+(26) “Quality measure” means the health outcome and quality measures and benchmarks identi-
+fied by the Health Plan Quality Metrics Committee and the  metrics and scoring subcommittee in
+accordance with ORS 413.017 (4) and 414.638  and the quality metrics developed by the Behavioral
+Health Committee in accordance with ORS 413.017 (5).
+(27) “Resources” has the  meaning given that term in ORS 411.704. For eligibility purposes, “re-
+sources” does not include charitable contributions  raised by a community to assist with medical
+expenses.
+(28) “Social determinants of health” means:
+(a) Nonmedical factors that influence health outcomes;
+(b) The conditions in which individuals are born, grow, work, live and age; and
+(c) The forces and  systems that shape the conditions of daily life, such as economic pol-
+icies and systems, development agendas, social norms,  social policies, racism, climate change
+and political systems.
+[(28)] (29)  “Tribal traditional health worker” means an individual who meets qualification  cri-
+teria adopted by the authority under ORS 414.665 and who:
+(a) Has expertise or experience in public health;
+(b) Works in a tribal community or an urban Indian community, either for pay or as a  volunteer
+in association with a local health care system;
+(c) To the extent practicable, shares ethnicity, language, socioeconomic status and  life experi-
+ences with the residents of the community the worker serves;
+(d) Assists members of the community to improve their health, including  physical, behavioral
+and oral health, and increases  the capacity of the community to meet the health care needs of its
+residents and achieve wellness;
+(e) Provides health education and information that is culturally appropriate to the individuals
+being served;
+(f) Assists community residents in receiving the care they need;
+(g) May give peer counseling and guidance on health behaviors; and
+(h) May provide direct services, such as tribal-based practices.
+[(29)(a)] (30)(a) “Youth support specialist” means an individual who meets qualification criteria
+adopted by the authority under ORS 414.665 and who, based  on a similar life experience, provides
+supportive services to an individual who:
+(A) Is not older than 30 years of age; and
+(B)(i) Is a current or former consumer of mental health or addiction treatment; or
+(ii) Is facing or has faced difficulties in accessing education, health and wellness  services due
+to a mental health or behavioral health barrier.
+(b) A “youth support specialist” may be a peer wellness specialist or a peer support specialist.
+SECTION 13.
+ ORS 414.638 is amended to read:
+414.638. (1) As used in this section:
+(a) “Downstream health outcome and quality measures” means:
+(A) The sets of core quality measures for  the Medicaid program that are published by the
+Centers for Medicare and Medicaid Services in accordance with 42  U.S.C. 1320b-9a and
+1320b-9b; and
+(B) If the sets of core quality measures for  adults published by the Centers for Medicare
+and Medicaid Services do not include quality measures  for oral health care for adults, quality
+measures of oral health care for adults adopted by the metrics and scoring subcommittee.
+(b) “Upstream health  outcome and quality measures” means quality measures that focus
+on the social determinants of health.
+[(1)] (2)  There is created in  the Health Plan Quality Metrics Committee a nine-member metrics
+and scoring subcommittee appointed by the Director of the Oregon Health Authority. The  members
+of the subcommittee serve two-year terms and must include:
+Enrolled Senate Bill 966 (SB 966-B) Page 18
+(a) Three members at large;
+(b) Three individuals with expertise in health outcomes measures; and
+(c) Three representatives of coordinated care organizations.
+[(2)] (3)  The subcommittee shall  use a public process in accordance with ORS 192.610  to
+192.690 that includes an opportunity for public comment to  select[ , from  the health outcome and
+quality measures  identified by the Health Plan Quality Metrics Committee, ] the  downstream  health
+outcome and quality measures  and a minimum of four upstream health  outcome and quality
+measures applicable to services provided by coordinated care organizations.
+(4) The Oregon Health  Authority shall incorporate these measures into coordinated care or-
+ganization contracts to hold the organizations accountable for performance and customer  satisfac-
+tion requirements. The authority shall notify each  coordinated care organization of any changes in
+the measures at least three months before the  beginning of the contract period during which the
+new measures will be in place.
+[(3)] (5) The subcommittee shall [ evaluate] update the health outcome and  quality measures an-
+nually, [ reporting recommendations based on its findings to the Health Plan  Quality Metrics Commit-
+tee, and adjust the measures to reflect: ] if necessary, to conform to  the latest sets of core quality
+measures published by the Centers for Medicare and Medicaid Services.
+[(a) The amount of the global budget for a coordinated care organization; ]
+[(b) Changes in membership of the organization; ]
+[(c) The organization’s costs for implementing outcome and quality measures; and ]
+[(d) The community health assessment  and the costs of the community health assessment conducted
+by the organization under ORS 414.575. ]
+(6) All health outcome and quality measures must be consistent with the:
+(a) Terms and conditions of the demonstration project approved  for this state by the
+Centers for Medicare and Medicaid Services under 42 U.S.C. 1315; and
+(b) Written quality strategies approved by the Centers for Medicare and  Medicaid Ser-
+vices under 42 C.F.R. 438.340 and 457.1240.
+[(4)] (7)  The authority  and the Oregon Health Policy  Board  shall evaluate on a regular and
+ongoing basis the outcome and quality measures selected by the  subcommittee under this section for
+members in each coordinated care organization and for members statewide.
+(8) Members of the subcommittee who are not members  of the Oregon Health Policy
+Board may receive compensation and the reimbursement of actual and necessary travel and
+other expenses incurred by them in the performance of their official duties in  accordance
+with criteria adopted by the authority by rule and shall be reimbursed from funds  available
+to the authority in the manner and amount provided in ORS 292.495.
+SECTION 14.
+ORS 414.638 is added to and made a part of ORS chapter 413.
+SECTION 15. (1) Notwithstanding ORS 414.638 (3), the downstream  health outcome and
+quality measures for reporting year 2024 shall  be selected by the metrics and scoring sub-
+committee from the Health Plan Quality Metrics Committee’s Aligned Measure Menu  Set
+adopted by the Health Plan Quality Metrics Committee as of the  effective date of this 2023
+Act.
+(2) Notwithstanding ORS 414.638 (3), until September 30, 2027, the  metrics and scoring
+subcommittee may prioritize the following upstream health outcome and quality  measures,
+at a minimum:
+(a) Health assessments for children  in the custody of the Department of Human Services.
+(b) Addressing the social and emotional health of young children to ensure  the children
+are prepared for kindergarten.
+(c) Meaningful language access to culturally responsive health care services.
+(d) Screening for social needs and referrals to address the  social determinants of health.
+SECTION 16.
+ ORS 413.017 is amended to read:
+413.017. (1) The Oregon Health Policy Board shall establish the committees described in  sub-
+sections (2) to (5) of this section.
+Enrolled Senate Bill 966 (SB 966-B) Page 19
+(2)(a) The Public Health Benefit  Purchasers Committee shall include individuals who purchase
+health care for the following:
+(A) The Public Employees’ Benefit Board.
+(B) The Oregon Educators Benefit Board.
+(C) Trustees of the Public Employees Retirement System.
+(D) A city government.
+(E) A county government.
+(F) A special district.
+(G) Any private nonprofit  organization that receives the majority of its funding from the state
+and requests to participate on the committee.
+(b) The Public Health Benefit Purchasers Committee shall:
+(A) Identify and make specific  recommendations to achieve uniformity across all public health
+benefit plan designs based on the best available clinical evidence, recognized best  practices for
+health promotion and disease management,  demonstrated cost-effectiveness and shared demographics
+among the enrollees within the pools covered by the benefit plans.
+(B) Develop an action plan for ongoing collaboration to implement the benefit design  alignment
+described in subparagraph (A) of this  paragraph and shall leverage purchasing to achieve benefit
+uniformity if practicable.
+(C) Continuously review and report to  the Oregon Health Policy Board on the committee’s
+progress in aligning benefits while minimizing the cost shift to individual purchasers of insurance
+without shifting costs to the private sector or the health insurance exchange.
+(c) The Oregon Health Policy Board shall work  with the Public Health Benefit Purchasers
+Committee to identify uniform provisions for state  and local public contracts for health benefit plans
+that achieve maximum quality and cost  outcomes. The board shall collaborate with the committee
+to develop steps to implement joint contract provisions. The committee shall  identify a schedule for
+the implementation of  contract changes. The process for implementation of joint contract provisions
+must include a review process to protect against unintended cost shifts to enrollees or agencies.
+(3)(a) The Health Care Workforce  Committee shall include individuals who have the collective
+expertise, knowledge and experience in a broad range of  health professions, health care education
+and health care workforce development initiatives.
+(b) The Health Care Workforce Committee shall coordinate efforts to recruit  and educate health
+care professionals and retain a quality workforce to meet the demand that will be  created by the
+expansion in health care coverage, system transformations and an increasingly diverse population.
+(c) The Health Care Workforce Committee shall conduct an inventory of all grants  and other
+state resources available for addressing the need to expand the health care workforce to meet  the
+needs of Oregonians for health care.
+(4)(a) The Health Plan Quality Metrics Committee shall include the following members appointed
+by the Oregon Health Policy Board:
+(A) An individual representing the Oregon Health Authority;
+(B) An individual representing the Oregon Educators Benefit Board;
+(C) An individual representing the Public Employees’ Benefit Board;
+(D) An individual representing the Department of Consumer and Business Services;
+(E) Two health care providers;
+(F) One individual representing hospitals;
+(G) One individual  representing insurers, large employers or multiple employer welfare ar-
+rangements;
+(H) Two individuals representing health care consumers;
+(I) Two individuals representing coordinated care organizations;
+(J) One individual with expertise in health care research;
+(K) One individual with expertise in health care quality measures; and
+(L) One individual with expertise in mental health and addiction services.
+Enrolled Senate Bill 966 (SB 966-B) Page 20
+(b) The committee shall work collaboratively with the  Oregon Educators Benefit Board, the
+Public Employees’ Benefit Board, the authority and the department to adopt  health outcome and
+quality measures that are focused on specific goals and provide value to the state,  employers,
+insurers, health care providers and consumers. The committee  shall be the single body to align
+health outcome and quality measures used in this state  with the requirements of health care data
+reporting to ensure that the measures  and requirements are coordinated, evidence-based and focused
+on a long term statewide vision.
+(c) The  committee shall use a public process that includes an opportunity for public comment
+to identify health outcome and quality measures [ that]. The health outcome and quality measures
+identified by the committee, as  updated by the authority under paragraph (g) of this sub-
+section, may be applied to  services provided by coordinated care organizations or paid for by health
+benefit plans sold through the health  insurance exchange or offered by the Oregon Educators Ben-
+efit Board or the Public Employees’ Benefit Board. The authority, the department, the Oregon Edu-
+cators Benefit Board and the Public Employees’ Benefit Board are not required to adopt  all of the
+health outcome and quality measures identified by the committee but may not adopt any  health
+outcome and quality measures that are different from the measures identified by the committee. The
+measures must take into account  the [ recommendations of ] health outcome and quality measures
+selected by the metrics and scoring subcommittee created in ORS 414.638  and the differences in the
+populations served by coordinated care organizations and by commercial insurers.
+(d) In identifying health outcome and quality measures, the committee shall  prioritize measures
+that:
+(A) Utilize existing state  and national health outcome and quality measures, including measures
+adopted by the Centers for Medicare and  Medicaid Services, that have been adopted or endorsed
+by other state or national organizations and have a relevant state or national benchmark;
+(B) Given the context in which each measure is applied, are not prone to  random variations
+based on the size of the denominator;
+(C) Utilize existing data systems, to the extent practicable, for  reporting the measures to mini-
+mize redundant reporting and undue burden  on the state, health benefit plans and health care pro-
+viders;
+(D) Can be meaningfully adopted for a minimum of three years;
+(E) Use a common format in the collection of the data and facilitate  the public reporting of the
+data; and
+(F) Can be reported in a timely manner and without significant delay  so that the most current
+and actionable data is available.
+(e) The committee shall evaluate on a regular and ongoing basis the health outcome and quality
+measures [ adopted] identified under this section.
+(f) The committee may convene subcommittees to focus on gaining expertise in  particular areas
+such as data collection,  health care research and mental health and substance use disorders in order
+to aid the committee in the development of health outcome and  quality measures. A subcommittee
+may include stakeholders and staff from the authority, the Department of  Human Services, the De-
+partment of Consumer and Business Services, the Early Learning Council or  any other agency staff
+with the appropriate expertise in the issues addressed by the subcommittee.
+(g) The authority shall update  annually, if necessary, the health outcome and quality
+measures identified by the committee to utilize the  latest sets of core quality measures
+published by the Centers  for Medicare and Medicaid Services in accordance with 42 U.S.C.
+1320b-9a and 1320b-9b.
+[(g)] (h)  This subsection does not prevent  the authority, the Department of Consumer and
+Business Services, commercial insurers, the Public Employees’ Benefit  Board or the Oregon Educa-
+tors Benefit Board from establishing programs that provide  financial incentives to providers for
+meeting specific health outcome and quality measures adopted by the committee.
+(5)(a) The  Behavioral Health Committee shall include the following members appointed by the
+Director of the Oregon Health Authority:
+Enrolled Senate Bill 966 (SB 966-B) Page 21
+(A) The chairperson of the Health Plan Quality Metrics Committee;
+(B) The chairperson of the committee appointed by the board to address health equity, if any;
+(C) A behavioral health director for a coordinated care organization;
+(D) A representative of a community mental health program;
+(E) An individual with expertise in data analysis;
+(F) A member of  the Consumer Advisory Council, established under ORS 430.073, that represents
+adults with mental illness;
+(G) A representative of the System of Care Advisory Council established in ORS 418.978;
+(H) A member of  the Oversight and Accountability Council, described in ORS 430.389, who re-
+presents adults with addictions or co-occurring conditions;
+(I) One member representing a system of care, as defined in ORS 418.976;
+(J) One consumer representative;
+(K) One representative of a tribal government;
+(L) One representative of an  organization that advocates on behalf of individuals with intellec-
+tual or developmental disabilities;
+(M) One representative of providers of behavioral health services;
+(N) The director of the division of the authority responsible  for behavioral health services, as
+a nonvoting member;
+(O) The Director  of the Alcohol and Drug Policy Commission appointed under ORS 430.220, as
+a nonvoting member;
+(P) The authority’s Medicaid director, as a nonvoting member;
+(Q) A representative of the Department of Human Services, as a nonvoting member; and
+(R) Any other member that the director deems appropriate.
+(b) The board may modify the membership of the committee as needed.
+(c) The division of the authority  responsible for behavioral health services and the director of
+the division shall staff the committee.
+(d) The committee, in collaboration with the Health Plan Quality Metrics Committee, as  needed,
+shall:
+(A) Establish quality metrics for behavioral  health services provided by coordinated care or-
+ganizations, health care providers, counties and other government entities; and
+(B) Establish incentives to improve the quality of behavioral health services.
+(e) The quality metrics and incentives shall be designed to:
+(A) Improve timely access to behavioral health care;
+(B) Reduce hospitalizations;
+(C) Reduce overdoses;
+(D) Improve the integration of physical and behavioral health care; and
+(E) Ensure individuals are supported in  the least restrictive environment that meets their be-
+havioral health needs.
+(6) Members of the committees described in subsections (2) to (5)  of this section who are not
+members of the Oregon Health Policy Board [ are not entitled  to] may receive  compensation [ but] in
+accordance with criteria prescribed by the authority by rule and  shall be reimbursed from funds
+available to the board for actual and necessary travel and other expenses incurred by them by  their
+attendance at committee meetings, in the manner and amount provided in ORS 292.495.
+SECTION 17.
+ ORS 414.686 is amended to read:
+414.686. (1) A coordinated care organization shall provide an initial health assessment on any
+child enrolled in the coordinated care organization who is in the custody of the  Department of Hu-
+man Services no later than 60 days after the date that the  Oregon Health Authority notifies the
+coordinated care organization  that the child has been taken into the department’s custody. [ The
+assessment must be performed in accordance with metrics established by the metrics  and scoring sub-
+committee created in ORS 414.638. ]
+Enrolled Senate Bill 966 (SB 966-B) Page 22
+(2) If a child has not received  an initial health assessment by the date specified in subsection
+(1) of this section, the coordinated care organization shall act affirmatively  to locate the child and
+make arrangements for an initial health assessment.
+COORDINATED CARE ORGANIZATION QUALITY INCENTIVE STUDY
+SECTION 18. (1) The Oregon Health Authority shall study  the coordinated care organ-
+ization quality incentive program administered by  the authority and the structure of the
+metrics and scoring subcommittee, created in ORS 414.638, to develop  recommendations for
+programmatic changes and changes to the subcommittee structure  so that the design of the
+coordinated care organization quality incentive program is primarily focused on  addressing
+health inequities, including the structural drivers of health inequities.
+(2) In conducting the study, the authority shall work  with individuals whose health is
+most affected by the medical assistance  program and individuals from communities most
+harmed by health inequities. The authority shall  also engage with metrics experts, health
+care providers, coordinated care organizations and other health system representatives.
+(3) Not later than September 15, 2024, the  authority shall report to the interim commit-
+tees of the Legislative  Assembly related to health, in the manner provided in ORS 192.245,
+the findings and recommendations from the study and may include recommendations for
+legislation.
+SECTION 19. Section 18 of this 2023 Act is repealed on January 2, 2025.
+REIMBURSEMENT FOR SERVICES PROVIDED
+BY COORDINATED CARE ORGANIZATIONS
+SECTION 20.  ORS 414.570 is amended to read:
+414.570. (1) There is established the Oregon Integrated and Coordinated Health  Care Delivery
+System. The system  shall consist of state policies and actions that make coordinated care organ-
+izations accountable  for care management and provision of integrated and coordinated health care
+for each organization’s members, primarily managed within fixed global budgets, by providing  care
+so that efficiency and quality improvements reduce  medical cost inflation while supporting the de-
+velopment of regional and community accountability for the health of the  residents of each region
+and community, and while  maintaining regulatory controls necessary to ensure quality and afforda-
+ble health care for all Oregonians.
+(2) The Oregon  Health Authority shall seek input from groups and individuals who are part of
+underserved communities, including ethnically diverse populations,  geographically isolated groups,
+seniors, people with disabilities and people using mental health services, and  shall also seek input
+from providers, coordinated care organizations and communities, in the development of  strategies
+that promote person centered care and encourage healthy behaviors, healthy lifestyles and  pre-
+vention and wellness activities and  promote the development of patients’ skills in self-management
+and illness management.
+(3) The authority shall regularly report to the Oregon  Health Policy Board, the Governor and
+the Legislative Assembly on the progress of payment reform and delivery system change including:
+(a) The achievement of benchmarks;
+(b) Progress toward eliminating health disparities;
+(c) Results of evaluations;
+(d) Rules adopted;
+(e) Customer satisfaction;
+(f) Use of patient centered primary care homes and behavioral health homes;
+(g) The involvement of local governments in governance and service delivery; and
+(h) Other developments with respect to coordinated care organizations.
+Enrolled Senate Bill 966 (SB 966-B) Page 23
+SECTION 21.  ORS 414.572, as amended by section 14, chapter 489,  Oregon Laws 2017, section
+4, chapter 49, Oregon Laws 2018, section 8, chapter 358, Oregon Laws 2019, section  2, chapter 364,
+Oregon Laws 2019, section 58, chapter 478, Oregon  Laws 2019, section 7, chapter 529, Oregon Laws
+2019, and section 14, chapter 453, Oregon Laws 2021, is amended to read:
+414.572. (1) The Oregon Health Authority shall  adopt by rule the qualification criteria and re-
+quirements for a coordinated care organization and shall integrate  the criteria and requirements
+into each contract with a coordinated care  organization. Coordinated care organizations may be
+local,  community-based  organizations or statewide organizations with community-based participation
+in governance or any combination of the two. Coordinated care organizations may contract  with
+counties or with other public or private entities to provide services to members. The authority may
+not contract with only one statewide  organization. A coordinated care organization may be a single
+corporate structure or a network of providers organized through contractual relationships. The cri-
+teria and requirements adopted by the authority under this section must include, but  are not limited
+to, a requirement that the coordinated care organization:
+(a) Have demonstrated experience and a capacity for managing financial risk  and establishing
+financial  reserves.
+(b) Meet the following minimum financial requirements:
+(A) Maintain restricted reserves of $250,000 plus an amount equal to 50 percent  of the coordi-
+nated care organization’s total actual or projected liabilities above $250,000.
+(B) Maintain capital or surplus of not less  than $2,500,000 and any additional amounts necessary
+to ensure the solvency of the coordinated care organization, as specified by the authority by  rules
+that are consistent with ORS 731.554 (6), 732.225, 732.230 and 750.045.
+(C) Expend a portion of the annual net income or  reserves of the coordinated care organization
+that exceed the financial requirements specified in  this paragraph on services designed to address
+health disparities and the social determinants  of health consistent with the coordinated care
+organization’s community health improvement plan and transformation plan and the  terms and con-
+ditions of the  Medicaid demonstration project under section 1115 of the Social Security Act (42
+U.S.C. 1315).
+(c) Operate within a fixed global  budget  and other payment mechanisms described in sub-
+section (6) of this section  and spend on  primary care, as defined by the authority by rule, at least
+12 percent of the coordinated care  organization’s total expenditures for physical and mental health
+care provided to members,  except for expenditures on prescription drugs, vision care and dental
+care.
+(d) Develop and implement alternative payment methodologies that are based  on health care
+quality and improved health outcomes.
+(e) Coordinate the delivery of physical  health care, behavioral health care, oral health care and
+covered long-term care services.
+(f) Engage community members and  health care providers in improving the health of the com-
+munity and addressing regional, cultural, socioeconomic and  racial disparities in health care that
+exist among the coordinated care organization’s members and in the coordinated care  organization’s
+community.
+(2) In addition to the criteria and requirements specified in subsection (1)  of this section, the
+authority must adopt by rule requirements for coordinated care organizations contracting  with the
+authority so that:
+(a) Each member of the coordinated care organization receives integrated person centered care
+and services designed to provide choice, independence and dignity.
+(b) Each member has a consistent and stable relationship with a care team that  is responsible
+for comprehensive care management and service delivery.
+(c) The supportive and therapeutic needs of each  member are addressed in a holistic fashion,
+using patient centered primary care  homes, behavioral health homes or other models that support
+patient centered primary care and  behavioral health care and individualized care plans to the extent
+feasible.
+Enrolled Senate Bill 966 (SB 966-B) Page 24
+(d) Members receive  comprehensive transitional care, including appropriate follow-up, when en-
+tering and leaving an acute care facility or a long term care setting.
+(e) Members are provided:
+(A) Assistance in navigating the health care delivery system;
+(B) Assistance in accessing community and social support services and statewide resources;
+(C) Meaningful language access as required by federal and state law including,  but not limited
+to, 42 U.S.C. 18116, Title VI of  the Civil Rights Act of 1964, Title VI Guidance issued by the United
+States Department of Justice and the National Standards for Culturally  and Linguistically Appro-
+priate Services in Health and Health Care as issued by the United States Department of Health and
+Human Services; and
+(D) Qualified health care interpreters  or certified health care interpreters listed on the health
+care interpreter registry, as those terms are defined in ORS 413.550.
+(f) Services and supports are geographically located as close to where members reside as possi-
+ble and are, if available, offered in nontraditional  settings that are accessible to families, diverse
+communities and underserved populations.
+(g) Each coordinated care organization uses  health information technology to link services and
+care providers across the continuum of care to the greatest  extent practicable and if financially
+viable.
+(h) Each coordinated care  organization complies with the safeguards for members described in
+ORS 414.605.
+(i) Each coordinated  care organization convenes a community advisory council that meets the
+criteria specified in ORS 414.575.
+(j) Each coordinated care organization prioritizes working with  members who have high health
+care needs, multiple chronic conditions or behavioral health conditions  and involves those members
+in accessing and managing appropriate preventive, health,  remedial and supportive care and ser-
+vices, including the services described in ORS 414.766, to reduce the  use of avoidable emergency
+room visits and hospital admissions.
+(k) Members have a choice of providers  within the coordinated care organization’s network and
+that providers participating in a coordinated care organization:
+(A) Work together to  develop best practices for care and service delivery to reduce waste and
+improve the health and well-being of members.
+(B) Are educated about the  integrated approach and how to access and communicate within the
+integrated system about a patient’s treatment plan and health history.
+(C) Emphasize prevention,  healthy lifestyle choices, evidence-based practices, shared decision-
+making and communication.
+(D) Are permitted to participate in the networks of multiple coordinated care organizations.
+(E) Include providers of specialty care.
+(F) Are selected by coordinated care organizations using universal application  and credentialing
+procedures  and  objective quality information and are removed if the providers fail to meet objective
+quality standards.
+(G) Work together to  develop best practices for culturally and linguistically appropriate care
+and service delivery  to reduce waste, reduce health disparities and improve the health and well-
+being of members.
+(L) Each coordinated care  organization reports on outcome and quality measures adopted under
+ORS 414.638 and participates in  the health care data reporting system established in ORS 442.372
+and 442.373.
+(m) Each coordinated care organization uses best practices in  the management of finances,
+contracts, claims processing, payment functions and provider networks.
+(n) Each coordinated care organization  participates in the learning collaborative described in
+ORS 413.259 (3).
+(o) Each coordinated care organization has  a governing body that complies with ORS 414.584
+and that includes:
+Enrolled Senate Bill 966 (SB 966-B) Page 25
+(A) At least one member representing persons that share in the  financial risk of the organiza-
+tion;
+(B) A representative of  a dental care organization selected by the coordinated care organization;
+(C) The major components of the health care delivery system;
+(D) At least two health care providers in active practice, including:
+(i) A physician licensed  under ORS chapter 677 or a nurse practitioner licensed under ORS
+678.375, whose area of practice is primary care; and
+(ii) A behavioral health provider;
+(E) At least  two members from the community at large, to ensure that the organization’s
+decision-making is consistent with the values of the members and the community; and
+(F) At least two members of the community advisory council, one of whom is  or was within the
+previous six months a recipient of medical assistance and is at least 16 years of age or  a parent,
+guardian or primary caregiver of an  individual who is or was within the previous six months a re-
+cipient of medical assistance.
+(p) Each coordinated care organization’s  governing body establishes standards for publicizing
+the activities of  the coordinated care organization and the organization’s community advisory
+councils, as necessary, to keep the community informed.
+(q) Each coordinated care organization publishes on a website maintained by or on behalf  of the
+coordinated  care  organization, in a manner determined by the authority, a document designed to
+educate members about best practices, care  quality expectations, screening practices, treatment
+options and other support resources available for members who have  mental illnesses or substance
+use disorders.
+(r) Each coordinated care organization works with the Tribal Advisory Council established  in
+ORS 414.581 and has a dedicated tribal liaison, selected by the council, to:
+(A) Facilitate a  resolution of any issues that arise between the coordinated care organization
+and a provider of Indian health services  within the area served by the coordinated care organiza-
+tion;
+(B) Participate in the community health assessment and the development of the health im-
+provement plan;
+(C) Communicate regularly with the Tribal Advisory Council; and
+(D) Be available for training by the office within the  authority that is responsible for tribal af-
+fairs, any federally recognized tribe in Oregon and the urban Indian health program that is located
+within the  area served by the coordinated care organization and operated by an urban Indian or-
+ganization pursuant to 25 U.S.C. 1651.
+(3) The authority shall consider the participation of area agencies and other nonprofit  agencies
+in the configuration of coordinated care organizations.
+(4) In selecting one or more coordinated care organizations to serve a geographic  area, the au-
+thority  shall:
+(a) For members and potential members, optimize access to care and choice of providers;
+(b) For providers, optimize choice in contracting with coordinated care organizations; and
+(c) Allow more than one  coordinated care organization to serve the geographic area if necessary
+to optimize access and choice under this subsection.
+(5) On or before July 1, 2014, each coordinated care organization must have a formal contractual
+relationship with any dental care organization that serves members of the coordinated care  organ-
+ization in the area where they reside.
+(6) In addition to global budgets, the  authority may employ other payment mechanisms
+to reimburse coordinated care organizations  for specified health services during limited pe-
+riods of time if:
+(a) Global budgets remain the primary  means of reimbursing coordinated care organiza-
+tions for care and services provided to the coordinated care organization’s members;
+(b) The other payment mechanisms are consistent with the legislative intent expressed
+in ORS 414.018 and the system design described in ORS 414.570 (1); and
+Enrolled Senate Bill 966 (SB 966-B) Page 26
+(c) The payment mechanisms are employed only for health-related  social needs services,
+such as housing supports, nutritional assistance and climate-related assistance, approved  for
+the demonstration project under 42 U.S.C.  1315 by the Centers for Medicare and Medicaid
+Services.
+APPROPRIATIONS AND EXPENDITURE LIMITATIONS
+SECTION 22. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Oregon Health Authority, for the biennium beginning July 1, 2023, out of the
+General Fund, the amount of $522,854, which may be expended for carrying out the provisions
+of this 2023 Act.
+SECTION 23.
+Notwithstanding any other law limiting expenditures,  the amount of
+$214,298, is established for the biennium beginning July 1, 2023, as the  maximum limit for
+payment of  expenses from fees, moneys or other revenues, including Miscellaneous Receipts,
+but excluding lottery funds and federal funds, collected or received by the  Oregon Health
+Authority, for the Health  Policy and Analytics Division, to carry out the provisions of this
+2023 Act.
+SECTION 24. Notwithstanding any other law limiting expenditures,  the amount of
+$552,854 is  established for the biennium beginning July 1, 2023, as the maximum limit for
+payment of  expenses for carrying out the provisions of this 2023 Act from federal funds col-
+lected or received by the Oregon Health Authority.
+REPEAL
+SECTION 25. Section 15 of this 2023 Act is repealed on January 2, 2028.
+CAPTIONS
+SECTION 26. The unit captions  used in this 2023 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2023 Act.
+EMERGENCY CLAUSE
+SECTION 27. This 2023 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2023 Act takes effect
+on its passage.
+Enrolled Senate Bill 966 (SB 966-B) Page 27
+Passed by Senate June 20, 2023
+..................................................................................
+Lori L. Brocker, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House June 23, 2023
+..................................................................................
+Dan Rayfield, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2023
+Approved:
+........................M.,........................................................., 2023
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2023
+..................................................................................
+Secretary of State
+Enrolled Senate Bill 966 (SB 966-B) Page 28
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 171.072, ORS 171.562, ORS 171.565, ORS 192.245, ORS 192.311, ORS 192.610, ORS 292.495, ORS 411.400, ORS 411.439, ORS 411.447, ORS 411.704, ORS 411.877, ORS 413.006, ORS 413.017, ORS 413.032, ORS 413.161, ORS 413.259, ORS 413.550, ORS 413.610, ORS 413.611, ORS 413.612, ORS 413.613, ORS 414.018, ORS 414.025, ORS 414.065, ORS 414.325, ORS 414.570, ORS 414.572, ORS 414.575, ORS 414.581, ORS 414.584, ORS 414.605, ORS 414.638, ORS 414.654, ORS 414.655, ORS 414.665, ORS 414.686, ORS 414.690, ORS 414.710, ORS 414.766, ORS 418.976, ORS 418.978, ORS 430.073, ORS 430.220, ORS 430.389, ORS 442.310, ORS 442.370, ORS 442.372, ORS 442.373, ORS 442.400, ORS 59.015, ORS 677.010, ORS 678.375, ORS 73.0104, ORS 731.097, ORS 731.554, ORS 732.225, ORS 732.230, ORS 741.001, ORS 741.002, ORS 741.004, ORS 741.102, ORS 741.105, ORS 741.222, ORS 741.310, ORS 741.500, ORS 741.510, ORS 744.702, ORS 750.045
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `b1d7cc4ab633d42f3fd9e23fa0dae8f52d4dd267520feb76dd9db246469f0a69` (snapshot `_meta/snapshots/measure-2023r1-sb966-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB966/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `20202cfc912fe329cc369944677d455fc938ea637f045a787730a2d36df8c9f7` (snapshot `_meta/snapshots/measure-2023r1-sb966-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB966/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 966` (part of the batched per-session fetch), sha256 `93fbdf58369388064230f7ba2c78bd17b78e15ffa1d19e5c25089297c647cbe1` of the shared session snapshot `_meta/snapshots/measures-2023r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

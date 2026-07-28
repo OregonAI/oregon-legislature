@@ -1,0 +1,162 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4129
+Sponsored by Representative BOSHART DAVIS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act caps low carbon fuel standards at a  ten percent reduction and stops local
+governments from banning large fuel tanks. (Flesch Readability Score: 64.6).
+Limits greenhouse gas emission  reductions, for purposes of low carbon fuel standards, to 10
+percent below 2010 levels.
+Prohibits local governments from prohibiting or limiting the storage capacity of fossil  fuel ter-
+minals.
+Takes effect on the 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to fuel; creating new provisions; amending ORS 468A.266; and  prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+LOW CARBON FUEL STANDARDS
+SECTION 1.
+ ORS 468A.266 is amended to read:
+468A.266. (1) The Environmental Quality Commission, by rule:
+(a) Shall adopt low carbon fuel standards  for gasoline, diesel and fuels used as substitutes or
+alternatives for gasoline or diesel; and
+(b) Shall adopt a clean fuels program for facilitating  compliance with the low carbon fuel stan-
+dards and for managing and containing the costs of compliance with the low carbon fuel  standards,
+in accordance with the requirements of ORS 468A.265 to 468A.277.
+(2) The commission may adopt rules related to the low carbon fuel standards, including but not
+limited to:
+(a) A schedule to phase in implementation of the standards in a manner that reduces the average
+amount of greenhouse gas emissions per unit of  fuel energy of the fuels by no more than  10 percent
+below 2010 levels [ by the year  2025 or by a later date if the commission determines that an extension
+is appropriate to implement the low carbon fuel standards ];
+(b) Standards  for greenhouse gas emissions attributable to the fuels throughout the lifecycles
+of the fuels,  including but not limited to emissions from the production, storage, transportation and
+combustion of the fuels and from changes in land use associated with the fuels;
+(c) Provisions allowing the use of all  types of low carbon fuels to meet the low carbon fuel
+standards, including but not limited to biofuels, biogas, natural gas, liquefied petroleum gas, gaso-
+line, diesel, hydrogen and electricity;
+(d) Exemptions for fuels that are used in volumes below thresholds  established by the commis-
+sion;
+(e) Standards, specifications, testing requirements and  other measures as needed to ensure the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 172
+HB 4129
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+quality of fuels produced in accordance  with the low carbon fuel standards, including but not limited
+to the requirements  of ORS 646.910 to 646.923 and administrative rules adopted by the State De-
+partment of Agriculture for motor fuel quality; and
+(f) Adjustments to the amounts of greenhouse  gas emissions per unit of fuel energy assigned to
+fuels for combustion and drive train efficiency.
+(3) Before adopting low carbon fuel standards under this section, the commission shall consider
+the low carbon  fuel standards of other states for the purpose of determining schedules and goals for
+the reduction of the average amount of greenhouse gas emissions per unit of fuel  energy and the
+default values for these reductions for applicable fuels.
+(4) The commission shall exempt from the low carbon fuel standards any  person who imports in
+a calendar year less than 500,000  gallons of gasoline and diesel fuel, in total. Any fuel imported by
+persons that are related or share common ownership or control shall be aggregated together  to de-
+termine whether a person is exempt under this subsection.
+(5) In adopting rules under this section, the commission shall evaluate:
+(a) Safety, feasibility, net reduction of greenhouse gas emissions and cost-effectiveness;
+(b) Potential adverse impacts to public health and the environment,  including but not limited to
+air quality, water quality and the generation and disposal of waste in this state;
+(c) Flexible implementation approaches to minimize compliance costs; and
+(d) Technical and economic studies of comparable  greenhouse gas emissions reduction measures
+implemented in other states and any other studies as determined by the commission.
+FOSSIL FUEL TERMINALS
+SECTION 2.
+Section 3 of this 2026 Act is added to and made a part of ORS chapter 197.
+SECTION 3. Notwithstanding statewide land use planning goals related to natural haz-
+ards or energy  conservation, within lands zoned for industrial uses and that allow for rail-
+road yards, marine docks or the storing, transfer or transportation  of solid, liquid or
+hazardous waste, a local government may not:
+(1) Prohibit fossil fuel terminals engaged in the transport or bulk storage of fossil fuels;
+(2) Limit fossil fuel storage capacity in  a manner more restrictive than the storage ca-
+pacity of other storage facilities; or
+(3) Enact any ordinances, resolutions or land use regulations that would  have the effect,
+either individually or cumulatively, of discouraging the development of uses allowed under
+subsections (1) and (2) of this section.
+SECTION 4.
+Section 3 of this 2026 Act applies to ordinances, resolutions or land  use
+regulations adopted before, on or after the effective date of this 2026 Act.
+CAPTIONS AND EFFECTIVE DATE
+SECTION 5. The unit captions used in this 2026 Act are provided only for the convenience
+of the reader  and do not become part of the statutory law of this state or express any leg-
+islative intent in the enactment of this 2026 Act.
+SECTION 6. This 2026 Act takes effect on the 91st day after the date on which the 2026
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+[2]

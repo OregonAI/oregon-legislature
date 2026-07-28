@@ -1,0 +1,123 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4160
+Sponsored by COMMITTEE ON RULES (at the request of Representative Dwayne Yunker)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Requires schools to have a plan for a  cardiac emergency, which must include AEDs.
+(Flesch Readability Score: 65.7).
+Directs schools to  have a cardiac emergency response plan as part of the procedures for re-
+sponding to medical emergencies. Prescribes the requirements of a  cardiac emergency response
+plan, including requirements related to automated external defibrillators.
+Takes effect July 1, 2026.
+A BILL FOR AN ACT
+Relating to procedures for medical emergencies in  schools; creating new provisions; amending ORS
+339.345 and 339.405; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 339.405 is amended to read:
+339.405. (1) As used in this section:
+(a) “Evacuate” means  a procedure used when students and staff need to move from one location
+to another.
+(b) “Hold” means a procedure used  to keep students and staff in classrooms while a disruption
+or minor emergency is resolved.
+(c) “Lockdown” means a procedure used when a threat or hazard is inside the building.
+(d) “Secure” means a procedure used when a threat or hazard is outside the building.
+(e) “Shelter in  place” is a procedure used to respond to and take protective actions based on a
+threat or hazard that may include an earthquake, tsunami  or other natural or environmental hazard.
+(2) Each school district must  maintain a comprehensive safety program for all students and staff.
+The program must include procedures for:
+(a) Responding to emergency  situations that address an immediate threat to safety, including an
+evacuation, a hold, a lockdown, a secure and a shelter in place;
+(b) Providing communicable disease management;
+(c) Responding  to medical emergencies , including a cardiac emergency response plan that
+complies with ORS 339.345; and
+(d) Providing instruction as described in ORS 339.408.
+(3) The State Board of Education may adopt rules related to a program required under  this
+section.
+SECTION 2.
+ ORS 339.345 is amended to read:
+339.345. [Each school campus in a school  district, private school campus and public charter school
+campus shall have on  the premises at least one automated external defibrillator. ] Every kindergarten
+through grade 12 public or  private school is required to have a plan for cardiac emergency
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 125
+HB 4160
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+responses. The plan must:
+(1) To the greatest extent practicable, align with core elements established  by a national
+organization focused on emergency cardiovascular care.
+(2) Include the provision of at least one automated external defibrillator at the school.
+(3) Provide for the placement of automated external defibrillators in a manner that:
+(a) To the greatest extent practicable, is in  accordance with guidelines established by a
+national organization focused on emergency cardiovascular care; and
+(b) Is in locations that are clearly identified, unlocked and accessible when:
+(A) Students are at school; and
+(B) Students are at athletic practices or competitions at the school.
+(4) Establish a procedure for the  sharing of the locations of automated external
+defibrillators at the school with local emergency medical services providers.
+(5) Require the maintenance and testing of automated external  defibrillators at the
+school as provided by the manufacturer’s guidelines.
+(6) Require every coach, as defined in ORS 336.485, and other appropriate staff,  as de-
+termined by the school, to be trained in  cardiopulmonary resuscitation and the use of auto-
+mated external defibrillators.
+(7) Provide for an annual review of the  plan and review of whether the school is in
+compliance with the plan.
+SECTION 3.
+The amendments to ORS 339.345 and 339.405 by sections 1 and 2 of this 2026
+Act first apply to the 2026-2027 school year.
+SECTION 4. This 2026 Act takes effect on July 1, 2026.
+[2]

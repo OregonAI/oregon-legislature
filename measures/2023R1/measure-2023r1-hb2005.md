@@ -1,0 +1,620 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2023r1-hb2005
+title: 'HB 2005 (2023R1): Defines "undetectable firearm." Punishes manufacturing, importing, offering
+  for sale or transferring undetectable firearm by maximum of 10 years'' imprisonment, $250,000 fine,
+  or both.'
+doc_type: dataset_doc
+citation: 2023 Regular Session House Bill 2005
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2005/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 4dcc717eab479694673a93ae102cec7edf226d566e6b9f300d3f1b365b4a3085
+snapshot_id: measure-2023r1-hb2005-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 133.005
+  - ORS 161.295
+  - ORS 161.505
+  - ORS 166.210
+  - ORS 166.250
+  - ORS 166.255
+  - ORS 166.260
+  - ORS 166.270
+  - ORS 166.273
+  - ORS 166.274
+  - ORS 166.291
+  - ORS 166.292
+  - ORS 166.412
+  - ORS 166.435
+  - ORS 166.470
+  - ORS 181A.355
+  - ORS 426.130
+  - ORS 426.133
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2023r1
+- hb
+session_key: 2023R1
+measure_prefix: HB
+measure_number: 2005
+prefix_meaning: House Bill
+catch_line: Defines "undetectable firearm." Punishes manufacturing, importing, offering for sale or transferring
+  undetectable firearm by maximum of 10 years' imprisonment, $250,000 fine, or both.
+minority_catch_line: null
+measure_summary: "\tDefines \"undetectable firearm.\" Punishes manufacturing, importing, offering for\
+  \ sale or transferring undetectable firearm by maximum of 10 years' imprisonment, $250,000 fine, or\
+  \ both. Punishes possession of undetectable firearm by maximum of 364 days' imprisonment, $6,250 fine,\
+  \ or both, and 10 years' imprisonment, $250,000 fine, or both, upon second and subsequent convictions.\
+  \ \n\tPunishes offering for sale, selling or transferring firearm without serial number by maximum of\
+  \ $1,000 fine upon first conviction, 364 days' imprisonment, $6,250 fine, or both, upon second conviction,\
+  \ and 10 years' imprisonment, $250,000 fine, or both, upon third and subsequent convictions. \n\tPunishes\
+  \ possession of firearm without serial number occurring on or after September 1, 2024, by maximum of\
+  \ $1,000 fine upon first conviction, 364 days' imprisonment, $6,250 fine, or both, upon second conviction,\
+  \ and 10 years' imprisonment, $250,000 fine, or both, upon third and subsequent convictions. \n\tDefines\
+  \ \"unfinished frame or receiver.\" Requires gun dealer to conduct criminal background check before\
+  \ transferring unfinished frame or receiver. Punishes importing, offering for sale or transferring unfinished\
+  \ frame or receiver by maximum of $1,000 fine upon first conviction, 364 days' imprisonment, $6,250\
+  \ fine, or both, upon second conviction, and 10 years' imprisonment, $250,000 fine, or both, upon third\
+  \ and subsequent convictions. Specifies exceptions. Punishes possession of unserialized unfinished frame\
+  \ or receiver occurring on or after September 1, 2024, by maximum of $1,000 fine upon first conviction,\
+  \ 364 days' imprisonment, $6,250 fine, or both, upon second conviction, and five years' imprisonment,\
+  \ $125,000 fine, or both, upon third and subsequent convictions. Provides that person commits crime\
+  \ if person possesses unfinished frame or receiver and is prohibited from possessing firearms. Punishes\
+  \ by maximum of 364 days' imprisonment, $6,250 fine, or both. \n\t\t<i>Prohibits person under 21 years\
+  \ of age from possessing firearms and unfinished frames and receivers with specified exceptions. Punishes\
+  \ by maximum of 364 days' imprisonment, $6,250 fine, or both. Establishes affirmative defense for person\
+  \ under 21 years of age who owned firearm before effective date of Act or who relinquished firearm prior\
+  \ to prosecution.</i>] \n\t\t<i>Authorizes governing bodies of certain public entities that own or control\
+  \ public building to adopt policy, ordinance or regulation precluding affirmative defense for possession\
+  \ of firearm in or on public building by concealed handgun licensee. Provides that in prosecution for\
+  \ possession of firearm in or on public building subject to such policy, ordinance or regulation, concealed\
+  \ handgun licensee affirmative defense is not complete defense, but results in Class A misdemeanor conviction\
+  \ punishable by 364 days' imprisonment, $6,250 fine, or both.</i>] \n\t\t<i>Prohibits person from transferring\
+  \ certain firearms to recipient person knows, or reasonably should know, is under 21 years of age. Punishes\
+  \ by maximum of 364 days' imprisonment, $6,250 fine, or both. Specifies exceptions.</i>] \n\tAppropriates\
+  \ moneys to Department of State Police for implementation of Act. \n\tDeclares emergency, effective\
+  \ on passage."
+relating_to: Relating to firearms; and declaring an emergency.
+relating_to_full: Relating to firearms; and declaring an emergency.
+at_the_request_of: (at the request of Attorney General Ellen F. Rosenblum)
+lc_number: 304
+measure_created_date: '2022-12-28T12:11:18'
+measure_modified_date: '2023-07-24T16:13:07'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 31372
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 133.005
+  - ORS 161.295
+  - ORS 161.505
+  - ORS 166.210
+  - ORS 166.250
+  - ORS 166.255
+  - ORS 166.260
+  - ORS 166.270
+  - ORS 166.273
+  - ORS 166.274
+  - ORS 166.291
+  - ORS 166.292
+  - ORS 166.412
+  - ORS 166.435
+  - ORS 166.470
+  - ORS 181A.355
+  - ORS 426.130
+  - ORS 426.133
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2005`.
+
+# HB 2005 — 2023 Regular Session (2023R1)
+
+## At a glance
+
+- **Measure:** House Bill 2005, 2023 Regular Session (2023R1)
+- **At the request of:** (at the request of Attorney General Ellen F. Rosenblum)
+- **LC number:** 304
+- **Created:** 2022-12-28T12:11:18
+- **Metadata last modified (upstream):** 2023-07-24T16:13:07
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 31372 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2005/Enrolled>.
+
+## Summary
+
+**Catchline:** Defines "undetectable firearm." Punishes manufacturing, importing, offering for sale or transferring undetectable firearm by maximum of 10 years' imprisonment, $250,000 fine, or both.
+
+**Relating to:** Relating to firearms; and declaring an emergency.
+
+Defines "undetectable firearm." Punishes manufacturing, importing, offering for sale or transferring undetectable firearm by maximum of 10 years' imprisonment, $250,000 fine, or both. Punishes possession of undetectable firearm by maximum of 364 days' imprisonment, $6,250 fine, or both, and 10 years' imprisonment, $250,000 fine, or both, upon second and subsequent convictions. 
+ Punishes offering for sale, selling or transferring firearm without serial number by maximum of $1,000 fine upon first conviction, 364 days' imprisonment, $6,250 fine, or both, upon second conviction, and 10 years' imprisonment, $250,000 fine, or both, upon third and subsequent convictions. 
+ Punishes possession of firearm without serial number occurring on or after September 1, 2024, by maximum of $1,000 fine upon first conviction, 364 days' imprisonment, $6,250 fine, or both, upon second conviction, and 10 years' imprisonment, $250,000 fine, or both, upon third and subsequent convictions. 
+ Defines "unfinished frame or receiver." Requires gun dealer to conduct criminal background check before transferring unfinished frame or receiver. Punishes importing, offering for sale or transferring unfinished frame or receiver by maximum of $1,000 fine upon first conviction, 364 days' imprisonment, $6,250 fine, or both, upon second conviction, and 10 years' imprisonment, $250,000 fine, or both, upon third and subsequent convictions. Specifies exceptions. Punishes possession of unserialized unfinished frame or receiver occurring on or after September 1, 2024, by maximum of $1,000 fine upon first conviction, 364 days' imprisonment, $6,250 fine, or both, upon second conviction, and five years' imprisonment, $125,000 fine, or both, upon third and subsequent convictions. Provides that person commits crime if person possesses unfinished frame or receiver and is prohibited from possessing firearms. Punishes by maximum of 364 days' imprisonment, $6,250 fine, or both. 
+  <i>Prohibits person under 21 years of age from possessing firearms and unfinished frames and receivers with specified exceptions. Punishes by maximum of 364 days' imprisonment, $6,250 fine, or both. Establishes affirmative defense for person under 21 years of age who owned firearm before effective date of Act or who relinquished firearm prior to prosecution.</i>] 
+  <i>Authorizes governing bodies of certain public entities that own or control public building to adopt policy, ordinance or regulation precluding affirmative defense for possession of firearm in or on public building by concealed handgun licensee. Provides that in prosecution for possession of firearm in or on public building subject to such policy, ordinance or regulation, concealed handgun licensee affirmative defense is not complete defense, but results in Class A misdemeanor conviction punishable by 364 days' imprisonment, $6,250 fine, or both.</i>] 
+  <i>Prohibits person from transferring certain firearms to recipient person knows, or reasonably should know, is under 21 years of age. Punishes by maximum of 364 days' imprisonment, $6,250 fine, or both. Specifies exceptions.</i>] 
+ Appropriates moneys to Department of State Police for implementation of Act. 
+ Declares emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to firearms; and declaring an emergency.
+
+## Full text
+
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Enrolled
+House Bill 2005
+Sponsored by Representatives REYNOLDS, GRAYBER, KROPF, EVANS,  Senators MANNING JR,
+PROZANSKI; Representatives ANDERSEN, BOWMAN,  BYNUM, DEXTER, FAHEY, GAMBA,
+NELSON, WALTERS, Senator SOLLMAN  (at the request of Attorney General Ellen F.
+Rosenblum) (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to firearms; creating new  provisions; amending ORS 166.210, 166.250 and 166.412; and de-
+claring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 166.210 is amended to read:
+166.210. As used in ORS 166.250 to 166.270, 166.291 to 166.295 and 166.410 to 166.470:
+(1) “Antique firearm” means:
+(a) Any firearm, including any firearm with a  matchlock, flintlock, percussion cap or similar
+type of ignition system, manufactured in or before 1898; and
+(b) Any replica of any firearm described in paragraph (a) of this subsection if the replica:
+(A) Is not designed or redesigned for using rimfire or conventional centerfire  fixed ammunition;
+or
+(B) Uses rimfire or conventional centerfire fixed ammunition that  is no longer manufactured in
+the United States and that is not readily available in the ordinary channels of commercial trade.
+(2) “Corrections officer” has the meaning given that term in ORS 181A.355.
+(3) “Firearm” means a weapon,  by whatever name known, which is designed to expel a projectile
+by the action of powder.
+(4) “Firearms silencer” means  any device for silencing, muffling or diminishing the report of a
+firearm.
+(5) “Frame” has the meaning given that term in 27 C.F.R. 478.12.
+[(5)] (6) “Handgun” means any  pistol or revolver using a fixed cartridge containing a propellant
+charge, primer and projectile, and designed to be aimed or fired otherwise than from the shoulder.
+[(6)] (7)  “Machine gun” means a weapon of any  description by whatever name known, loaded
+or unloaded, which is  designed or modified to allow two or more shots to be fired by a single pres-
+sure on the trigger device.
+(8) “Major component” has the meaning given that term in 18 U.S.C. 922.
+[(7)] (9) “Minor” means a person under 18 years of age.
+[(8)] (10) “Offense” has the meaning given that term in ORS 161.505.
+[(9)] (11) “Parole and probation officer” has the meaning given that term in ORS 181A.355.
+[(10)] (12) “Peace officer” has the meaning given that term in ORS 133.005.
+(13) “Receiver” has the meaning given that term in 27 C.F.R. 478.12.
+(14) “Security exemplar” has the meaning given that term in 18 U.S.C. 922.
+Enrolled House Bill 2005 (HB 2005-C) Page 1
+[(11)] (15) “Short-barreled rifle” means a rifle having one  or more barrels less than 16 inches in
+length and any weapon made from a rifle if the weapon has an overall length of less than 26 inches.
+[(12)] (16)  “Short-barreled  shotgun” means a shotgun having one or more barrels less than 18
+inches in  length and any weapon made from a shotgun if the weapon has an overall length of less
+than 26 inches.
+(17) “Undetectable firearm” means a firearm:
+(a) Constructed or produced, including  through a three-dimensional printing process,
+entirely of nonmetal substances;
+(b) That, after removal of grips, stocks and magazines, is  not as detectable as a security
+exemplar by a walk-through metal detector calibrated to detect the security exemplar; or
+(c) That includes a  major component that, if subjected to inspection by the types of X-ray
+machines commonly  used at airports, would not generate an image that accurately depicts
+the shape of the component.
+(18)(a) “Unfinished frame  or receiver” means a forging, casting, printing, extrusion, ma-
+chined body or similar item that:
+(A) Is designed to or may  readily be completed, assembled or otherwise converted to
+function as a frame or receiver; or
+(B) Is marketed or sold to the public to be completed, assembled or otherwise  converted
+to function as a frame or receiver.
+(b) “Unfinished frame or receiver” does  not include a component designed and intended
+for use in an antique firearm.
+SECTION 2.
+Sections 3, 4 and 5 of this 2023 Act are added to  and made a part of ORS
+166.250 to 166.270.
+SECTION 3. (1)(a) A person may not  knowingly manufacture or cause to be manufac-
+tured within this state, import  into this state, or offer for sale, sell or transfer, an unde-
+tectable firearm.
+(b) A violation of paragraph (a) of this subsection is a Class B felony.
+(2)(a) A person may not knowingly possess an undetectable firearm.
+(b)(A) A violation of paragraph (a) of this subsection is a Class A misdemeanor.
+(B) Notwithstanding subparagraph (A) of  this paragraph, a violation of paragraph (a) of
+this subsection is a Class B felony if, at the time of  the offense, the person has one or more
+prior convictions under this section or section 4 or 5 of this 2023 Act.
+(3) A person convicted under this section shall forfeit the undetectable firearm.
+(4) As used in this section, “prior conviction”  includes a conviction for a violation of-
+fense.
+SECTION 4.
+(1)(a) A person may not knowingly offer for sale, sell or  transfer a firearm
+unless the firearm has been imprinted with a serial  number by a federally licensed firearm
+manufacturer, importer or dealer, or a gunsmith with a federal firearms  license, in accord-
+ance with federal law.
+(b) A person may not knowingly possess a firearm unless the firearm has been imprinted
+with a serial number by a  federally licensed firearm manufacturer, importer or dealer, or a
+gunsmith with a federal firearms license, in accordance with federal law.
+(2) This section does not apply to:
+(a) Antique firearms;
+(b) Firearms manufactured prior to October 22, 1968;
+(c) Firearms rendered permanently inoperable;
+(d) The sale, offer to sell,  or transfer of a firearm to, or possession of a firearm by, a
+person licensed as a firearm manufacturer, importer or dealer under 18 U.S.C. 923; or
+(e) A gunsmith taking possession of a firearm for the  purpose of imprinting the firearm
+with a serial number in accordance with federal law.
+(3)(a) A violation of subsection (1)(a) of this section constitutes a Class B violation.
+Enrolled House Bill 2005 (HB 2005-C) Page 2
+(b) Notwithstanding paragraph (a) of this subsection, a  violation of subsection (1)(a) of
+this section  is a Class A misdemeanor if, at the time of the offense, the person has a prior
+conviction under this section or section 3 or 5 of this 2023 Act.
+(c) Notwithstanding paragraphs (a) and (b) of  this subsection, a violation of subsection
+(1)(a) of this section is a Class B felony if, at the time of the offense, the person has two or
+more prior convictions under this section or section 3 or 5 of this 2023 Act.
+(d) A violation  of subsection (1)(b) of this section occurring before September 1, 2024,
+does not constitute an offense.
+(4) A person convicted of any offense under this section shall forfeit the firearm.
+(5) As used in this section, “prior conviction”  includes a conviction for a violation of-
+fense.
+SECTION 5.
+(1)(a) A person may not knowingly import into this  state, offer for sale, sell
+or transfer an unfinished frame or receiver unless:
+(A) The person is licensed as a firearm dealer under 18 U.S.C. 923;
+(B) The name of the manufacturer and an individual serial number  is conspicuously
+placed on the unfinished frame or receiver in accordance with  the procedures for the se-
+rialization of a firearm in 18 U.S.C. 923(i) and all regulations under the authority of 18  U.S.C.
+923(i), including but not limited to 27 C.F.R. 478.92; and
+(C) The person maintains records relating to the unfinished frame or receiver in ac-
+cordance with the procedures for record keeping related to firearms in 18 U.S.C. 923(g)  and
+all regulations issued under the authority of 18 U.S.C. 923(g), including but not  limited to 27
+C.F.R. 478.121 to 478.134.
+(b)(A) A violation of paragraph (a) of this subsection is a Class B violation.
+(B) Notwithstanding subparagraph (A) of  this paragraph, a violation of paragraph (a) of
+this subsection is a Class A misdemeanor if, at the time of the offense, the  person has a
+prior conviction under this section or section 3 or 4 of this 2023 Act.
+(C) Notwithstanding subparagraphs (A) and (B) of this paragraph, a violation of para-
+graph (a) of this subsection constitutes a Class B felony if, at the time of the offense,  the
+person has two or more prior convictions under this  section or section 3 or 4 of this 2023
+Act.
+(2)(a) A person may not knowingly possess an unfinished frame or receiver  that is not
+serialized as provided in subsection (1)(a)(B) of this section, unless:
+(A) The person is a federally licensed gun manufacturer; and
+(B) The  unfinished frame or receiver is an unfinished part within a manufacturing proc-
+ess that includes serialization.
+(b) A violation of paragraph (a) of this subsection occurring before  September 1, 2024,
+does not constitute an offense.
+SECTION 6.
+ ORS 166.250 is amended to read:
+166.250. (1) Except as otherwise provided in this section or ORS 166.260,  166.270, 166.273,
+166.274, 166.291, 166.292 or 166.410 to 166.470, a person commits the crime  of unlawful possession
+of a firearm if the person knowingly:
+(a) Carries any firearm concealed upon the person;
+(b) Possesses a handgun that is concealed and readily accessible to the person  within any ve-
+hicle; [ or]
+(c) Possesses a firearm and:
+(A) Is under 18 years of age;
+(B)(i) While a minor, was found to  be within the jurisdiction of the juvenile court for having
+committed an  act which, if committed by an adult, would constitute a felony or a misdemeanor in-
+volving violence, as defined in ORS 166.470; and
+(ii) Was discharged from the jurisdiction of the juvenile court within four years prior to  being
+charged under this section;
+(C) Has been convicted of a felony;
+Enrolled House Bill 2005 (HB 2005-C) Page 3
+(D) Was committed to the Oregon Health Authority under ORS 426.130;
+(E) Was found  to be a person with mental illness and subject to an order under ORS 426.130 that
+the person be prohibited from purchasing or possessing a firearm as a result of that mental illness;
+(F) Is presently subject to an order under ORS 426.133 prohibiting the person from purchasing
+or possessing a firearm;
+(G) Has been found guilty except for insanity under ORS 161.295 of a felony; or
+(H) The possession of the firearm by the person is prohibited under ORS 166.255[ .]; or
+(d) Possesses an unfinished frame or receiver  and is prohibited from possessing firearms
+under paragraph (c) of this subsection.
+(2) This section does not prohibit:
+(a) A minor, who is not otherwise prohibited under subsection (1)(c) of this section, from  pos-
+sessing a firearm:
+(A) Other than a handgun, if the firearm was transferred to the minor by the minor’s  parent or
+guardian or by another person with the consent of the minor’s parent or guardian; or
+(B) Temporarily for hunting, target practice or any other lawful purpose; or
+(b) Any citizen of the United States  over the age of 18 years who resides in or is temporarily
+sojourning within this state, and who is not within the excepted  classes prescribed by ORS 166.270
+and subsection (1) of this section, from  owning, possessing or keeping within the person’s place of
+residence or place of  business any handgun, and no permit or license to purchase, own, possess or
+keep any such firearm at the person’s place of residence or place  of business is required of any such
+citizen. As used in this subsection, “residence” includes  a recreational vessel or recreational vehicle
+while used, for whatever period of time, as residential quarters.
+(3) Firearms carried openly  in belt holsters are not concealed within the meaning of this section.
+(4)(a) Except as provided in  paragraphs (b) and (c) of this subsection, a handgun is readily ac-
+cessible within the meaning of this section if the handgun is within the  passenger compartment of
+the vehicle.
+(b) If a  vehicle, other than a vehicle described in paragraph (c) of this subsection, has no storage
+location that is outside the  passenger compartment of the vehicle, a handgun is not readily acces-
+sible within the meaning of this section if:
+(A) The handgun is stored in  a closed and locked glove compartment, center console or other
+container; and
+(B) The key is not inserted into the  lock, if the glove compartment, center console or other
+container unlocks with a key.
+(c) If the vehicle is  a motorcycle, an all-terrain vehicle or a snowmobile, a handgun is not
+readily accessible within the meaning of this section if:
+(A) The handgun is in a locked container within or affixed to the vehicle; or
+(B) The handgun is equipped with a trigger lock  or other locking mechanism that prevents the
+discharge of the firearm.
+(5) Unlawful possession of a firearm is a Class A misdemeanor.
+SECTION 7.
+ ORS 166.412, as amended by section 6, chapter 1, Oregon Laws 2023, is amended
+to read:
+166.412. (1) As used in this section:
+(a) “Antique firearm” has the meaning given that term in 18 U.S.C. 921;
+(b) “Department” means the Department of State Police;
+(c) “Firearm” has the meaning given that term in ORS 166.210, except that  it does not include
+an antique firearm;
+(d) “Firearms transaction record” means the firearms transaction record required by 18  U.S.C.
+921 to 929;
+(e) “Firearms transaction thumbprint form” means a form provided by the department under
+subsection (11) of this section;
+Enrolled House Bill 2005 (HB 2005-C) Page 4
+(f) “Gun dealer” means a person engaged in the business,  as defined in 18 U.S.C. 921, of selling,
+leasing or otherwise transferring a firearm,  whether the person is a retail dealer, pawnbroker or
+otherwise; [and]
+(g) “Purchaser”  means a person who buys, leases or otherwise receives a firearm  or unfinished
+frame or receiver  from a gun dealer[ .]; and
+(h) “Unfinished frame or receiver” has the meaning given that term in ORS 166.210.
+(2) Except as provided in subsection (12)  of this section, a gun dealer shall comply with the
+following before a firearm  or unfinished frame or receiver  is delivered to a purchaser:
+(a) The purchaser shall present to the  gun dealer current identification meeting the require-
+ments of  subsection (4) of this section and a valid permit issued under section 4, chapter 1, Oregon
+Laws 2023.
+(b) The  gun dealer shall complete the firearms transaction record and obtain the signature of
+the purchaser on the record.
+(c) The gun dealer shall obtain the thumbprints of the purchaser on  the firearms transaction
+thumbprint form and attach the form to the gun dealer’s copy of the firearms transaction record to
+be filed with that copy.
+(d) The gun dealer shall, by telephone or computer, verify that the  purchaser has a valid
+permit-to-purchase a firearm issued under section 4, chapter 1, Oregon Laws 2023, and request that
+the department conduct a criminal history record check on the purchaser and shall provide the
+following information to the department:
+(A) The federal firearms license number of the gun dealer;
+(B) The business name of the gun dealer;
+(C) The place of transfer;
+(D) The name of the person making the transfer;
+(E) The make, model, caliber and manufacturer’s number of the firearm being transferred  or  a
+description of the unfinished frame or receiver being transferred ;
+(F) The name and date of birth of the purchaser;
+(G) The Social Security number of the  purchaser if the purchaser voluntarily provides this
+number to the gun dealer; and
+(H) The type, issuer and identification number of the identification presented by the purchaser.
+(e) The gun dealer shall receive  a unique approval number for the transfer from the department
+and record the approval number on the firearms  transaction record and on the firearms transaction
+thumbprint form.
+(f) The gun dealer  may destroy the firearms transaction thumbprint form five years after the
+completion of the firearms transaction thumbprint form.
+(3)(a) Upon receipt of a request of the gun dealer for  a criminal history record check, the de-
+partment shall immediately, during the gun dealer’s telephone call or by return call:
+(A) Determine, from criminal records and other information  available to it, whether the pur-
+chaser is disqualified under ORS 166.470 from completing the purchase; and
+(B) Notify the gun  dealer when a purchaser is disqualified from completing the transfer or pro-
+vide the gun dealer with a unique approval number indicating  that the purchaser is qualified to
+complete the transfer.
+(b) If the department is unable to determine if the purchaser  is qualified or disqualified from
+completing the transfer within 30 minutes, the department  shall notify the gun dealer and provide
+the gun dealer with an estimate of the time when the department will provide the  requested infor-
+mation.
+(c) The dealer may not transfer the firearm  or unfinished frame or receiver  unless the dealer
+receives a unique approval number from the department and, within 48 hours of  completing the
+transfer, the dealer shall notify the state that the transfer to the permit holder was completed.
+(4)(a) Identification  required of the purchaser under subsection (2) of this section shall include
+one piece  of current identification bearing a photograph and the date of birth of the purchaser that:
+Enrolled House Bill 2005 (HB 2005-C) Page 5
+(A) Is issued  under the authority of the United States Government, a state, a political subdivi-
+sion of a state, a foreign  government, a political subdivision of a foreign government, an interna-
+tional governmental organization or an international quasi-governmental organization; and
+(B) Is intended to be used for  identification of an individual or is commonly accepted for the
+purpose of identification of an individual.
+(b) If the identification presented  by the purchaser under paragraph (a) of this subsection does
+not include  the current address of the purchaser, the purchaser shall present a second piece of
+current identification that contains the current address of the purchaser.  The Superintendent of
+State Police may specify by rule the type of identification that may  be presented under this para-
+graph.
+(c) The department may require that the gun dealer verify the identification of  the purchaser
+if that identity is in question by sending the thumbprints of the purchaser to the department.
+(5) The department shall  establish a telephone number that shall be operational seven days a
+week between the hours of 8 a.m. and 10 p.m. for  the purpose of responding to inquiries from gun
+dealers for a criminal history record check under this section.
+(6) No public employee, official  or agency shall be held criminally or civilly liable for performing
+the investigations required by this section provided the employee,  official or agency acts in good
+faith and without malice.
+(7)(a) The department may retain a record of the information obtained during  a request for a
+criminal history record check for no more than five years, except for the information provided  to
+the dealer under subsection (2)(d) of this section, sufficient  to reflect each firearm  or unfinished
+frame or receiver  purchased by a permit holder, which must be  attached to the electronic record
+of the permit stored  by the department. The department may develop a system for removal of the
+information in subsection (2)(d)(E) of this section, upon proof of sale or transfer  of the firearm  or
+unfinished frame or receiver  to another permit  holder and for recording of the information to
+reflect the transfer of ownership to the permit of the new owner.
+(b) The record of the information obtained during a request for a criminal  history record check
+by a gun dealer is exempt from disclosure under public records law.
+(c) If the department determines that a purchaser is prohibited from  possessing a firearm under
+ORS 166.250 (1)(c), the  department shall report the attempted transfer, the purchaser’s name and any
+other personally identifiable information to all federal,  state and local law enforcement agencies and
+district attorneys that have jurisdiction over the  location or locations where the attempted transfer
+was made and where the purchaser resides.
+(d) If the department determines that, based  on the judgment of conviction, the purchaser is
+prohibited from possessing a firearm as a condition  of probation or that the purchaser is currently
+on post-prison supervision or parole, the department shall report  the attempted transfer to the
+purchaser’s supervising officer and the  district attorney of the county in which the conviction oc-
+curred.
+(e) If the department determines that the purchaser is prohibited from possessing a firearm  due
+to a court order described in ORS 166.255 (1)(a), the department  shall report the attempted transfer
+to the court that issued the order.
+(f) If the department determines that the purchaser is under the jurisdiction of  the Psychiatric
+Security Review Board, the department shall report the attempted transfer to the board.
+(g) Reports required by paragraphs (c) to (f) of this subsection shall be made within  24 hours
+after the determination is made, unless a report  would compromise an ongoing investigation, in
+which case the report may be delayed as long as necessary to avoid  compromising the investigation.
+(h) On  or before January 31 of each year, a law enforcement agency or a prosecuting attorney’s
+office  that  received a report pursuant to paragraph (c) of this subsection during the previous cal-
+endar year shall inform the department of any action that was  taken concerning the report and the
+outcome of the action.
+(i) The department shall annually publish a written report, based on any  information received
+under paragraph (h) of this subsection, detailing the following information for the previous year:
+Enrolled House Bill 2005 (HB 2005-C) Page 6
+(A) The number of purchasers whom  the department determined were prohibited from possessing
+a firearm under ORS 166.250 (1)(c), arranged by category of prohibition;
+(B) The number of reports made pursuant to paragraph (c) of this subsection;
+(C) The number of investigations arising from the  reports made pursuant to paragraph (c) of this
+subsection, the number of investigations concluded and  the number of investigations referred for
+prosecution, all arranged by category of prohibition; and
+(D) The number of criminal charges arising from the reports made pursuant to paragraph (c)  of
+this subsection and the disposition of the charges, both arranged by category of prohibition.
+(8) A law enforcement agency may inspect the records of a gun dealer relating  to transfers of
+firearms and unfinished frames or receivers  with the consent of a gun  dealer in the course of a
+reasonable inquiry during a criminal investigation or under the authority  of a properly authorized
+subpoena or search warrant.
+(9) When a firearm is delivered, it shall be unloaded.
+(10) In accordance with applicable provisions of ORS  chapter 183, the Superintendent of State
+Police may adopt rules necessary for:
+(a) The design of the firearms transaction thumbprint form;
+(b) The maintenance of a procedure  to correct errors in the criminal records of the department;
+(c) The provision of a security system  to identify gun dealers that request a criminal history
+record check under subsection (2) of this section; and
+(d) The creation and maintenance of a database of the business hours of gun dealers.
+(11) The department shall publish the  firearms transaction thumbprint form and shall furnish the
+form to gun dealers on application at cost.
+(12) This section does not apply to transactions between persons licensed as dealers  under 18
+U.S.C. 923.
+(13)(a) If requested by a transferor who is not a gun dealer, a  gun dealer may request a criminal
+background check pursuant to ORS 166.435 or 166.438 and may  charge a reasonable fee for provid-
+ing the service.
+(b) A gun dealer that requests a criminal background check under  this subsection is immune
+from civil liability for any use of the firearm  or unfinished frame or receiver  by the recipient or
+transferee, provided that the gun dealer requests the  criminal background check as described in this
+section and also provided  that the dealer verifies that the recipient has a valid permit-to-purchase
+the firearm  or unfinished frame or receiver  and the dealer has received a unique approval number
+from the department indicating successful completion of the background check.
+(14) Knowingly selling or delivering a firearm  or  unfinished frame or receiver  to a purchaser
+or transferee who does not have a valid permit-to-purchase a firearm  in violation of subsection (2)(d)
+of this section, or prior to  receiving a unique approval number from the department based on the
+criminal background check in  violation of subsection (3)(c) of this section, is a Class A misdemeanor.
+SECTION 8.
+ Section 4 of this 2023 Act is amended to read:
+Sec. 4.  [(1)(a)] (1) A person may not knowingly  possess,  offer for sale, sell or transfer  a firearm
+unless the firearm has  been imprinted with a serial number by a federally licensed firearm man-
+ufacturer,  importer  or dealer, or a gunsmith with a federal firearms license, in accordance with
+federal law.
+[(b) A person may not knowingly possess a firearm unless the firearm has been  imprinted with a
+serial number by a  federally licensed firearm manufacturer, importer or dealer, or a gunsmith with a
+federal firearms license, in accordance with federal law. ]
+(2) This section does not apply to:
+(a) Antique firearms;
+(b) Firearms manufactured prior to October 22, 1968;
+(c) Firearms rendered permanently inoperable;
+(d) The sale, offer to sell, or transfer of a firearm to, or possession of a firearm by, a person li-
+censed as a firearm manufacturer, importer or dealer under 18 U.S.C. 923; or
+Enrolled House Bill 2005 (HB 2005-C) Page 7
+(e) A gunsmith taking possession of a firearm for the purpose of imprinting the firearm with  a
+serial number in accordance with federal law.
+(3)(a) A violation of subsection [ (1)(a)] (1) of this section constitutes a Class B violation.
+(b) Notwithstanding paragraph (a) of this subsection, a violation of  subsection [ (1)(a)] (1) of this
+section is a Class A misdemeanor if, at the time of the offense, the person  has a prior conviction
+under this section or section 3 or 5 of this 2023 Act.
+(c) Notwithstanding paragraphs (a) and (b) of this subsection, a violation of subsection  [ (1)(a)]
+(1) of this section is a Class B felony if, at the time of the offense, the person has  two or more prior
+convictions under this section or section 3 or 5 of this 2023 Act.
+[(d) A violation of subsection (1)(b) of this section occurring before September 1, 2024,  does not
+constitute an offense. ]
+(4) A person convicted of any offense under this section shall forfeit the firearm.
+(5) As used in this section, “prior conviction” includes a conviction for a violation offense.
+SECTION 9.
+ Section 5 of this 2023 Act is amended to read:
+Sec. 5.  (1)(a) A person may not knowingly import into this state,  offer for sale, sell or transfer
+an unfinished frame or receiver unless:
+(A) The person is licensed as a firearm dealer under 18 U.S.C. 923;
+(B) The name of the manufacturer and an individual  serial number is conspicuously placed on
+the unfinished frame or receiver in accordance with the procedures for  the serialization of a firearm
+in 18 U.S.C. 923(i) and all regulations under the authority of 18 U.S.C. 923(i), including but not lim-
+ited to 27 C.F.R. 478.92; and
+(C) The person maintains records relating to  the unfinished frame or receiver in accordance
+with the  procedures for record keeping related to firearms in 18 U.S.C. 923(g) and all regulations
+issued under the authority of 18 U.S.C. 923(g), including but not limited to 27  C.F.R. 478.121 to
+478.134.
+(b)(A) A violation of paragraph (a) of this subsection is a Class B violation.
+(B) Notwithstanding subparagraph (A) of this paragraph, a violation of paragraph (a) of  this
+subsection  is  a Class A misdemeanor if, at the time of the offense, the person has a prior conviction
+under this section or section 3 or 4 of this 2023 Act.
+(C) Notwithstanding subparagraphs  (A) and (B) of this paragraph, a violation of paragraph (a)
+of this subsection constitutes a Class B felony if, at the time of the  offense, the person has two or
+more prior convictions under this section or section 3 or 4 of this 2023 Act.
+(2)(a) A  person may not knowingly possess an unfinished frame or receiver that is not serialized
+as provided in subsection (1)(a)(B) of this section, unless:
+(A) The person is a federally licensed gun manufacturer; and
+(B) The unfinished frame or receiver is an unfinished part  within a manufacturing process that
+includes serialization.
+[(b) A violation of paragraph (a) of this subsection occurring before September 1, 2024,  does not
+constitute an offense. ]
+(b)(A) A violation of paragraph (a) of this subsection is a Class B violation.
+(B) Notwithstanding subparagraph (A) of this paragraph, a violation  of paragraph (a) of
+this subsection is a  Class A misdemeanor if, at the time of the offense, the person has a
+prior conviction under this section or section 3 or 4 of this 2023 Act.
+(C) Notwithstanding subparagraphs (A) and (B) of this paragraph, a violation of para-
+graph (a) of  this subsection is a Class C felony if, at the time of the offense, the person has
+two or more prior convictions under this section or section 3 or 4 of this 2023 Act.
+(3) A person convicted of any  offense under this section shall forfeit the unfinished frame
+or receiver.
+(4) As used in this section, “prior conviction”  includes a conviction for a violation of-
+fense.
+SECTION 10.
+(1) The amendments to section 4 of this 2023 Act by section 8 of this 2023
+Act become operative on September 1, 2024.
+Enrolled House Bill 2005 (HB 2005-C) Page 8
+(2) The amendments to section 5 of this 2023 Act by section 9 of  this 2023 Act become
+operative on September 1, 2024.
+SECTION 11. In addition to and not in lieu of any  other appropriation, there is appro-
+priated to the Department of State Police, for the biennium beginning July  1, 2023, out of the
+General Fund, the amount of $356,816, for implementation of the provisions of this  2023 Act.
+SECTION 12. This 2023 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency is declared to exist, and  this 2023 Act takes effect
+on its passage.
+Passed by House May 2, 2023
+Repassed by House June 21, 2023
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Dan Rayfield, Speaker of House
+Passed by Senate June 15, 2023
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2023
+Approved:
+........................M.,........................................................., 2023
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2023
+..................................................................................
+Secretary of State
+Enrolled House Bill 2005 (HB 2005-C) Page 9
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 133.005, ORS 161.295, ORS 161.505, ORS 166.210, ORS 166.250, ORS 166.255, ORS 166.260, ORS 166.270, ORS 166.273, ORS 166.274, ORS 166.291, ORS 166.292, ORS 166.412, ORS 166.435, ORS 166.470, ORS 181A.355, ORS 426.130, ORS 426.133
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `4dcc717eab479694673a93ae102cec7edf226d566e6b9f300d3f1b365b4a3085` (snapshot `_meta/snapshots/measure-2023r1-hb2005-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2005/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `c4ef33038a742f2af804a879cdded91030997464f6936c28ba009f63d592e7fa` (snapshot `_meta/snapshots/measure-2023r1-hb2005-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2005/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2023R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2005` (part of the batched per-session fetch), sha256 `93fbdf58369388064230f7ba2c78bd17b78e15ffa1d19e5c25089297c647cbe1` of the shared session snapshot `_meta/snapshots/measures-2023r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,526 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Senate Bill 420
+Sponsored by Senator MANNING JR (at the request of Joe Berney) (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Permits local contract review  board or local contracting agency to enact or adopt, as appro-
+priate, ordinance, resolution, rule, regulation or other legislative or administrative  measure to des-
+ignate certain public improvement contracts as community benefit contracts. Specifies elements  that
+community benefit contract must incorporate. Specifies duties of local contract review board or local
+contracting agency before advertising, soliciting or awarding community benefit contract.
+Permits contracting agency to prequalify bidders or proposers to submit bids  or proposals for
+community benefit contracts.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to community benefit contracts; creating  new provisions; amending ORS 279C.375 and
+279C.430; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2021 Act is added to and made a part of ORS 279C.300  to
+279C.470.
+SECTION 2. (1) As used in this section:
+(a) “Apprentice” has the meaning given that term in ORS 660.010.
+(b) “Apprenticeable occupation” has the meaning given that term in ORS 660.010.
+(c) “Community benefit project” means a public improvement project that is subject  to
+the terms and conditions of a community benefit contract.
+(2) As used in this  section and in ORS 279C.375 and 279C.430, “community benefit con-
+tract” means a public improvement contract that includes the elements  described in sub-
+section (3)(b) of this section.
+(3)(a) A local contract review board or local contracting  agency may enact or adopt, as
+appropriate, an ordinance, resolution, rule,  regulation or other legislative or administrative
+measure that authorizes the local contract review board or  local contracting agency to des-
+ignate a public improvement contract as a community benefit contract.
+(b) In addition  to and not in lieu of any other requirement that applies to a public im-
+provement contract under this chapter, a public improvement contract that  a local contract
+review board or local  contracting agency designates as a community benefit contract must
+include, as material provisions  of the contract, terms and conditions that require the con-
+tractor to:
+(A) Qualify as a  training agent, as defined in ORS 660.010, or provide apprenticeship
+training that meets applicable federal and state standards for apprenticeship training;
+(B) Employ apprentices to perform a specified percentage of work hours  that workers in
+apprenticeable occupations perform on the community benefit project;
+(C) Provide coverage for  each worker that the contractor employs to perform work on
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 245
+SB 420
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the community benefit project, and each of the worker’s  qualified dependents, under a health
+plan that meets standards that the local contract  review board or local contracting agency
+specifies; and
+(D) Meet any other requirements the local contract review board or local  contracting
+agency sets forth in the ordinance, resolution, rule, regulation or other legislative or  ad-
+ministrative measure that authorizes procurements of community benefit contracts.
+(c) A local contract review board or a local contracting agency shall:
+(A) Ensure, before advertising or soliciting a community  benefit contract, that all ad-
+vertisements and solicitation  documents state clearly that the procurement is for a com-
+munity benefit contract and identify conspicuously all of the provisions to which a contractor
+will be subject, including the percentage of work hours for which the contractor must employ
+apprentices and the standards that will apply to the health  plan the contractor must provide;
+and
+(B) Require,  before accepting and evaluating bids or proposals for a community benefit
+contract, that  each bidder or proposer include with the bid or proposal a signed statement
+that acknowledges that the bidder or proposer  understands and agrees to be bound by the
+requirements that apply to the community benefit contract.
+(4) Except as otherwise  provided in this section, a solicitation and award of a community
+benefit contract is subject to all applicable provisions of the Public Contracting Code.
+SECTION 3.
+ ORS 279C.375 is amended to read:
+279C.375. (1) After a contracting agency has opened bids and determined that the  contracting
+agency will award a public improvement  contract, the contracting agency shall award the contract
+to the lowest responsible bidder.
+(2) At least seven days before awarding a public improvement contract, unless  the contracting
+agency determines that seven days is impractical under rules adopted under  ORS 279A.065, the
+contracting agency shall issue to each bidder or post, electronically or otherwise, a notice  of the
+contracting agency’s intent to award a contract. This subsection does not apply to a  contract to
+which competitive bidding  does not apply under ORS 279C.335 (1)(c) or (d). The notice and the
+manner in which the notice is posted or issued must conform to  rules adopted under ORS 279A.065.
+(3) In determining the lowest responsible bidder, a contracting agency shall do all  of the fol-
+lowing:
+(a) Check the list created by the Construction Contractors Board under ORS 701.227 for bidders
+who are not qualified to hold a public improvement contract.
+(b) Determine whether the bidder is responsible. A responsible bidder must demonstrate to the
+contracting agency that the bidder:
+(A) Has available the appropriate financial, material, equipment, facility and personnel resources
+and expertise, or has the ability to obtain the resources and expertise, necessary  to meet all con-
+tractual  responsibilities.
+(B) Holds  current licenses that businesses or service professionals operating in this state must
+hold in order to undertake or perform the work specified in the contract.
+(C) Is covered by liability insurance and other insurance in amounts  the contracting agency
+requires in the solicitation documents.
+(D) Qualifies as a carrier-insured employer or a  self-insured employer under ORS 656.407 or has
+elected coverage under ORS 656.128.
+(E) Has made the disclosure required under ORS 279C.370.
+[2]
+SB 420
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(F) Completed previous contracts of a similar nature with a satisfactory record of  performance.
+For purposes of this  subparagraph, a satisfactory record of performance means that to the extent
+that the costs associated with and time available to perform a previous  contract remained within
+the bidder’s  control, the bidder stayed within the time and budget allotted for the procurement and
+otherwise performed the contract in a  satisfactory manner. The contracting agency shall document
+the bidder’s record of performance if the contracting agency finds under  this subparagraph that the
+bidder is not responsible.
+(G) Has a satisfactory record of integrity. The contracting  agency in evaluating the bidder’s
+record of integrity may consider, among  other things, whether the bidder has previous criminal
+convictions for offenses related to obtaining  or attempting to obtain a contract or subcontract or in
+connection with the bidder’s performance of a contract or  subcontract. The contracting agency shall
+document the bidder’s record  of integrity if the contracting agency finds under this subparagraph
+that the bidder is not responsible.
+(H) Is legally qualified to contract with the contracting agency.
+(I) Possesses an unexpired certificate that the Oregon Department of Administrative Services
+issued under ORS 279A.167, if the bidder employs 50 or more full-time workers and submitted  a bid
+for a procurement with an estimated contract price that exceeds $500,000 in response to  an adver-
+tisement or solicitation from a state contracting agency.
+(J) Has agreed in the bid or proposal to be bound by the terms  and conditions of a com-
+munity benefit contract, if the contracting agency is a  local contract review board or local
+contracting agency  and the public improvement contract is a community benefit contract,
+as defined in section 2 of this 2021 Act.
+[(J)] (K)  Supplied all necessary information in connection with the inquiry concerning  respon-
+sibility. If a bidder fails to promptly supply information concerning responsibility that  the contract-
+ing agency requests, the  contracting agency shall determine the bidder’s responsibility based on
+available information, or may find that the bidder is not responsible.
+(c) Document the contracting agency’s compliance with  the requirements of paragraphs (a) and
+(b) of this subsection in substantially the following form:
+_______________________________________________________________________________________
+RESPONSIBILITY DETERMINATION FORM
+Project Name: 
+Bid Number: 
+Business Entity Name: 
+CCB License Number: 
+Form Submitted By (Contracting Agency):
+Form Submitted By (Contracting Agency Representative’s Name): 
+Title: 
+Date: 
+(The contracting agency must  submit this form with attachments, if any, to the Construction
+Contractors Board within 30 days after the date of contract award.)
+The contracting agency has (check all of the following):
+[ ] Checked the list created by the
+[3]
+SB 420
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Construction Contractors Board
+under ORS 701.227 for bidders who
+are not qualified to hold a public
+improvement contract.
+[ ] Determined whether the bidder has
+met the standards of responsibility.
+In so doing, the contracting agency
+has found that the bidder
+demonstrated that the bidder:
+[ ] Has available the appropriate
+financial, material, equipment,
+facility and personnel resources
+and expertise, or the ability to
+obtain the resources and
+expertise, necessary to meet
+all contractual responsibilities.
+[ ] Holds current licenses that
+businesses or service professionals
+operating in this state must hold
+in order to undertake or perform
+the work specified in the contract.
+[ ] Is covered by liability insurance
+and other insurance in amounts
+required in the solicitation
+documents.
+[ ] Qualifies as a carrier-insured
+employer or a self-insured
+employer under ORS 656.407 or has
+elected coverage under ORS 656.128.
+[ ] Has disclosed the bidder’s first-
+tier subcontractors in accordance
+with ORS 279C.370.
+[ ] Has a satisfactory record of
+performance.
+[ ] Has a satisfactory record of
+integrity.
+[ ] Is legally qualified to contract
+with the contracting agency.
+[ ] Possesses a certificate that
+the Oregon Department of
+Administrative Services issued under
+ORS 279A.167.
+[ ] Agrees to be bound by the terms
+and conditions of a community
+benefit contract if the contracting
+[4]
+SB 420
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+agency is a local contract review
+board or local contracting agency
+and the contract is a community
+benefit contract.
+[ ] Has supplied all necessary
+information in connection with
+the inquiry concerning
+responsibility.
+[ ] Determined the bidder to be
+(check one of the following): 
+[ ] Responsible under ORS 279C.375
+(3)(a) and (b).
+[ ] Not responsible under
+ORS 279C.375 (3)(a) and (b).
+(Attach documentation if the contracting agency finds the bidder not to be responsible.)
+_______________________________________________________________________________________
+(d) Submit the form described in paragraph (c) of this subsection,  with any attachments, to the
+Construction Contractors Board within 30 days  after the date the contracting agency awards the
+contract.
+(4) The successful bidder shall:
+(a) Promptly execute a formal contract; and
+(b) Execute and deliver to  the contracting agency a performance bond and a payment bond when
+required under ORS 279C.380.
+(5) Based on competitive bids, a contracting agency may award a public improvement contract
+or may award multiple public improvement contracts when specified in the invitation to bid.
+(6) A contracting agency may not exclude a commercial contractor from competing for  a public
+contract on the basis that the license issued by the Construction Contractors  Board is endorsed as
+a level 1 or level 2 license. As used in  this section, “commercial contractor” has the meaning given
+that term in ORS 701.005.
+SECTION 4.
+ ORS 279C.430 is amended to read:
+279C.430. (1) A contracting agency may adopt a rule, resolution, ordinance or other regulation
+[requiring mandatory prequalification for all persons  desiring to bid for public improvement contracts
+that are to be let by  the agency ] that permits or requires a prospective bidder or proposer to
+prequalify for public improvement contracts, including community benefit  contracts, for
+which the contracting  agency intends to conduct a procurement . The rule, resolution, ordi-
+nance or other regulation authorized by this  section must include the time for submitting prequali-
+fication applications and a general  description of the type and nature of the contracts [ that may be
+let] for which the contracting agency intends to  conduct a procurement . The prequalification
+application must be in writing on a standard form prescribed under the authority of ORS 279A.050.
+(2) [When] If  a contracting agency permits  or requires prequalification of bidders, a person who
+wishes to prequalify shall submit a prequalification application to  the contracting agency on a
+standard form prescribed under subsection (1) of this section. Within 30 days after [ receipt of ] re-
+ceiving a prequalification application, the  contracting agency shall investigate the applicant as
+necessary to determine if the applicant is qualified. The determination [ shall] must  be  made in less
+[5]
+SB 420
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+than 30 days,  if practicable, if the applicant requests an early decision to allow the applicant as
+much time as possible to prepare a bid  on a contract that [ has been ] the contracting agency  ad-
+vertised. In making [ its] the determination, the contracting agency shall consider only the applicable
+standards of responsibility listed in ORS 279C.375 (3)(b). The agency shall promptly  notify the ap-
+plicant whether or not the applicant is qualified.
+(3) If the contracting agency finds that the applicant is qualified, the  notice must state the na-
+ture and type of contracts [ that the person is qualified to  bid on ] for which the prospective con-
+tractor may submit a bid or proposal  and the period of time for which  the qualification is valid
+under the contracting agency’s rule, resolution, ordinance  or other regulation. If the contracting
+agency finds the applicant is not qualified as to any contracts  covered by the rule, resolution, or-
+dinance or other regulation, the notice must specify the reasons found under  ORS 279C.375 (3)(b) for
+not prequalifying the applicant and inform the applicant of the right to  a hearing under ORS
+279C.445 and 279C.450.
+(4) If a contracting agency has reasonable cause to believe that [ there has been ] a substantial
+change has taken place  in the conditions of a prequalified person and that  because of the sub-
+stantial change the person is no longer qualified or is  less qualified, the agency may revoke or may
+revise and reissue the prequalification after reasonable notice to the prequalified person. The  notice
+shall state the reasons found under ORS  279C.375 (3)(b) for revocation or revision of the prequali-
+fication  of  the person and inform the person of the right to a hearing under ORS 279C.445 and
+279C.450. A revocation or  revision does not apply to any public improvement contract for which
+publication of an  advertisement, in accordance with ORS 279C.360, commenced before the date the
+notice of revocation or revision was received by the prequalified person.
+SECTION 5.
+Section 2 of this 2021 Act and the amendments to ORS 279C.375 and 279C.430
+by sections 3 and 4 of this 2021 Act apply to procurements that a local contract review  board
+or local contracting agency  advertises or otherwise solicits, or if the local contract review
+board or local contracting agency  does not solicit the procurement, to public contracts into
+which the local contract review  board or local contracting agency enters on or after the
+operative date specified in section 6 of this 2021 Act.
+SECTION 6. (1) Section 2 of this 2021 Act and the amendments to ORS 279C.375 and
+279C.430 by sections 3 and 4 of this 2021 Act become operative on January 1, 2022.
+(2) A  local contract review board or local contracting agency may enact or adopt, as ap-
+propriate, an ordinance, resolution, rule, regulation or other legislative or administrative
+measure before the operative date specified in subsection (1) of this  section that is necessary
+to enable the local contract review board or local contracting agency, on and  after the op-
+erative date specified in subsection (1) of this section,  to undertake or exercise all of the
+duties, functions and  powers conferred on the local contract review board or local contract-
+ing agency by section 2 of this 2021 Act and the  amendments to ORS 279C.375 and 279C.430
+by sections 3 and 4 of this 2021 Act.
+SECTION 7.
+This 2021 Act takes effect on the 91st day after the date on  which the 2021
+regular session of the Eighty-first Legislative Assembly adjourns sine die.
+[6]

@@ -1,0 +1,111 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Senate Bill 582
+Sponsored by Senators WAGNER, LIEBER; Representative FAHEY (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires state agency that authorizes or funds, in whole or in part, installation  of electric ve-
+hicle  charging  system located on customer’s side of meter to require installing contractor or con-
+tractors  to  hold all legally required licenses and one or more electricians who hold Electric Vehicle
+Infrastructure Training Program certification  to supervise or participate in installation.  Requires
+state agency to require 25 percent of electricians who are present and working on installation to
+hold Electric Vehicle Infrastructure Training Program certifications when installation is  for electric
+vehicle charging port on customer’s side of meter that will supply 25 or more kilowatts to vehicle.
+Requires Electrical and Elevator Board  to approve Electric Vehicle Infrastructure Training
+Program as continuing education program.
+Requires Bureau of Labor and Industries to  establish program to reimburse individuals who
+successfully complete Electric Vehicle Infrastructure Training Program and pass certification  exam
+for amount of cost of course and exam incurred by individual.  Appropriates  moneys from General
+Fund to bureau for purposes of payments of grants made under program established by bureau.
+A BILL FOR AN ACT
+Relating to the Electric Vehicle Infrastructure Training Program.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Electric vehicle charging system”  includes any system, device or related
+infrastructure needed for the delivery of electrical  current for the purpose of charging one
+or more electric vehicles.
+(b) “Single-family dwelling” means a residential structure designed for one family and
+sharing no common wall with another residence of any type.
+(c) “State agency”  means any state office, department, division, bureau, board or com-
+mission or any other state agency.
+(2)(a) A state agency that authorizes or funds, in whole or in part, the installation of an
+electric vehicle charging system to be located on the customer’s side of the meter shall re-
+quire as a condition of the authorization or funding that:
+(A) The electric vehicle charging system be installed by a contractor  or contractors who
+hold all licenses legally required to perform the installation work; and
+(B) One or more electricians who  hold an Electric Vehicle Infrastructure Training Pro-
+gram certification supervise or participate in the installation work for any  period electrical
+installation work is being performed.
+(b) In addition to the requirements under paragraph (a)  of this subsection, when the in-
+stallation is for an electric vehicle charging system to be located on  the customer’s side of
+the meter that will supply 25 or more kilowatts to an electric  vehicle, the state agency shall
+require that at least  25 percent of electricians who are present and working on the installa-
+tion hold Electric Vehicle Infrastructure Training Program certifications.
+(3) The requirements under this section do not apply  to the installation of an electric
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1045
+SB 582
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+vehicle charging system for a single-family dwelling that  will use an existing 208-volt or
+240-volt outlet.
+SECTION 2.
+The Electrical  and Elevator Board shall approve the Electric Vehicle
+Infrastructure Training Program as  a continuing education program that meets the contin-
+uing education standards established by the board under ORS 479.680 (1).
+SECTION 3. (1) The Bureau of Labor and Industries shall  establish a program to provide
+one-time grants to reimburse individuals who  successfully complete the Electric Vehicle
+Infrastructure Training Program (EVITP) and pass the EVITP certification exam. The
+amount of a grant awarded under this subsection shall  be for the cost of the EVITP course
+and certification exam actually incurred by the individual.
+(2) The Commissioner of the Bureau of Labor and Industries  may adopt rules to carry
+out this section.
+SECTION 4.
+There is appropriated to the Bureau of  Labor and Industries, for the
+biennium beginning July 1, 2023, out of the General Fund, the amount of $  for the
+purpose of making grants under the program established  pursuant to section 3 of this 2023
+Act.
+[2]

@@ -1,0 +1,259 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4061
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Economic Development, Small Business, and Trade for Representative Daniel Nguyen)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would have Business Oregon work  with other state and local bodies to update
+the state’s unified trade strategy. The Act would have  DAS make a procurement reform roadmap
+by December 15 of this year.  The Act would set up a task force to advise on how to retain business
+and private investment in this state. (Flesch Readability Score: 61.3.)
+Directs the Oregon Business Development Department to collaborate with  the Port of Portland,
+the Oregon Tourism  Commission, the State Department of Agriculture and other stakeholders on
+updating the unified trade strategy for Oregon.
+Directs the Oregon Department of Administrative Services to produce a procurement reform
+roadmap and deliver  the roadmap to a committee or interim committee of the Legislative Assembly
+related to general government no later than December 15, 2026.
+Establishes the Task Force on Business Retention for the purpose  of making recommendations
+to the Legislative Assembly  for improving strategies to retain businesses and private investment in
+this state.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to a unified trade strategy for Oregon; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) There is allocated for the biennium ending June 30, 2027, from the  Ad-
+ministrative Services Economic Development Fund, to the  Oregon Business Development
+Department, the amount of  $300,000 for the purposes set forth in subsection (2) of this sec-
+tion.
+(2) The  Oregon Business Development Department, in collaboration with the Port of
+Portland, the Oregon Tourism Commission, the  State Department of Agriculture and other
+stakeholders selected  by the Oregon Business Development Department, shall update the
+unified trade strategy for Oregon, including, but not limited to:
+(a) Identifying opportunities to increase Oregon’s presence in foreign  markets, including
+in-market capacity for emerging markets;
+(b) Supporting outbound and inbound trade missions for government and businesses,  in-
+cluding support with aligned messaging;
+(c) Promoting Oregon exports and attracting foreign direct investments in Oregon; and
+(d) Providing technical assistance to Oregon exporters, including those impacted  by
+tariffs, to support international market access and business expansion.
+SECTION 2.
+(1) The Oregon Department of Administrative  Services shall produce a pro-
+curement reform roadmap. The roadmap must include:
+(a) A legal analysis of current procurement  laws to identify barriers to effective local
+procurement, especially for businesses in economically distressed communities.
+(b) An assessment of  state procurement spending over the past five years to determine
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 189
+HB 4061
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+what proportions of spending have gone to entities in this state and outside of this state.
+(c) A tax impact analysis comparing local and non-local contracts.
+(d) A review of existing best practices being used by  the state with regard to procure-
+ment.
+(e) Recommendations for implementation.
+(2)(a) The department shall deliver and report on a draft procurement reform roadmap
+to a  committee or interim committee of the Legislative Assembly relating to general gov-
+ernment no later than September 15, 2026.
+(b) The department shall deliver and report on  the final procurement reform roadmap to
+a committee or interim committee of the  Legislative Assembly relating to general govern-
+ment no later than December 15, 2026.
+SECTION 3.
+Section 2 of this 2026 Act is repealed on January 2, 2027.
+SECTION 4. (1) The Task Force on Business Retention is established for the purpose of
+making recommendations to the Legislative Assembly  for improving strategies to retain
+businesses and private investment in this state.
+(2) The task force consists of nine members appointed as follows:
+(a) The President of  the Senate shall appoint two nonvoting members from among
+members of the Senate, one from the majority party and one from the minority party.
+(b) The Speaker of the House  of Representatives shall appoint two nonvoting members
+from among members of the House of Representatives, one  from the majority party and one
+from the minority party.
+(c) The Governor shall appoint five members as follows:
+(A) The Governor or the Governor’s designee.
+(B) One member representing the Oregon Economic Development Association.
+(C) One member representing an economic development organization  serving the
+Portland metro region.
+(D) One member representing  an economic development organization serving communi-
+ties west of the Cascades.
+(E) One member representing an economic development organization  serving communi-
+ties east of the Cascades.
+(3) The task force, in collaboration with any other task force  established by the Legisla-
+tive Assembly and charged with a scope of work that overlaps or intersects  with the work
+of the Task Force on Business Retention, shall develop recommendations to:
+(a) Solicit input from existing businesses and economic development  organizations to in-
+form the work of the task force.
+(b) Expand and enhance business incentive programs to compete more effectively with
+other states.
+(c) Consolidate and streamline existing business retention and recruitment programs.
+(d) Increase proactive communication with businesses to understand their needs and
+concerns.
+(e) Encourage collaboration between  state, regional and local economic development or-
+ganizations to create a cohesive and integrated approach to business retention  and recruit-
+ment.
+(f) Provide targeted support for businesses looking to expand within Oregon.
+(4) Recommendations developed under subsection (3) of this section must include:
+[2]
+HB 4061
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Statutory changes needed to  ensure that federal, state and local funds are being spent
+to maximize outcomes and resource efficiency;
+(b) Policy changes recommended based on a comparative analysis of policies in  other
+states that spend less on business incentives but demonstrate  better business retention and
+growth outcomes; and
+(c) Any governance changes that would facilitate greater alignment of spending decisions
+between federal, state and local economic development agencies.
+(5) A  majority of the voting members of the task force constitutes a quorum for the
+transaction of business.
+(6) Official action by the task force requires the approval of a majority  of the voting
+members of the task force.
+(7) The task force shall elect one of its members to serve as chairperson.
+(8) If there  is a vacancy for any cause, the appointing authority shall make an appoint-
+ment to become immediately effective.
+(9) The task force shall meet at times and places specified by the call of  the chairperson
+or of a majority of the voting members of the task force.
+(10) The task force may adopt rules necessary for the operation of the task force.
+(11)(a) The task force shall provide  draft recommendations developed under subsections
+(3) and (4) of this section to  the interim committees of the Legislative Assembly related to
+economic development no later than September 15, 2026.
+(b) The task force shall submit a final report of the task force’s  recommendations, in the
+manner provided by ORS 192.245, to the  interim committees of the Legislative Assembly re-
+lated to economic development no later than December 15, 2026.
+(12) The Legislative Policy and Research  Director shall provide staff support to the task
+force, including by:
+(a) Researching and providing analysis on current  business retention strategies in
+Oregon communities;
+(b) Reviewing strategies that have been successful in other states;
+(c) Reviewing data related to the challenges faced by Oregon businesses  in remaining in
+or growing in Oregon; and
+(d) Reviewing programs offered by state and local economic development agencies.
+(13) Members of the Legislative Assembly appointed to the task force  are nonvoting
+members of the task force and may act in an advisory capacity only.
+(14) Members of the task force who are not members of the Legislative Assembly serve
+as volunteers  on the task force and are not entitled to compensation or reimbursement for
+expenses.
+(15) All agencies of state government, as defined in  ORS 174.111, are directed to assist
+the task force in the performance of  the duties of the task force and, to the extent permitted
+by laws  relating to confidentiality, to furnish information and advice that the members of
+the task force consider necessary to perform their duties.
+SECTION 5.
+Section 4 of this 2026 Act is repealed on December 31, 2027.
+SECTION 6. This 2026 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2026 Act takes effect
+on its passage.
+[3]

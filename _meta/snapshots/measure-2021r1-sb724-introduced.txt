@@ -1,0 +1,259 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Senate Bill 724
+Sponsored by COMMITTEE ON HUMAN SERVICES, MENTAL HEALTH AND RECOVERY
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Establishes Deaf, Deaf-Blind and Hard of Hearing Fund. Continuously appropriates  moneys in
+fund to Department  of Human Services for purpose of administering programs of department for in-
+dividuals who are deaf, deaf-blind or hard of hearing.
+Directs Public Utility Commission to transfer certain amount of  residential service protection
+and assistive telecommunication devices surcharge moneys, not to exceed $500,000 per  year, to fund.
+Requires commission and  department to enter into agreement to specify amount of moneys to be
+transferred and to establish plan for biennial reduction in moneys transferred.
+Directs department to develop and issue request for proposals for, and to select,  eligible
+nonprofit organization to provide services funded through fund.  Requires department to select
+nonprofit organization no later than January 1, 2022.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to hearing impairment; creating new  provisions; amending ORS 759.685; and prescribing an
+effective  date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) The Deaf, Deaf-Blind  and Hard of Hearing Fund is established in the
+State Treasury, separate and distinct from the General Fund. Interest earned  by the Deaf,
+Deaf-Blind and Hard of  Hearing Fund shall be credited to the fund. All moneys in the Deaf,
+Deaf-Blind and Hard  of Hearing Fund are continuously appropriated to the Department of
+Human Services for the purpose of administering programs of the department  for individuals
+who are deaf, deaf-blind or hard of hearing.
+(2) The Deaf,  Deaf-Blind and Hard of Hearing Fund consists of all moneys credited to the
+fund, including:
+(a) Moneys received from the federal government for purposes related to  the adminis-
+tration of programs for individuals who are deaf, deaf-blind or hard of hearing;
+(b) Moneys appropriated or transferred to the fund by the Legislative Assembly; and
+(c) Moneys designated to be transferred to the fund under the laws of the state.
+SECTION 2.
+(1) From moneys  collected as a surcharge under ORS 759.685, the Public
+Utility Commission shall annually transfer an amount of moneys, not to exceed $500,000,  to
+the Deaf,  Deaf-Blind and Hard of Hearing Fund established under section 1 of this 2021 Act
+as is necessary to fund  programs of the Department of Human Services for individuals who
+are deaf, deaf-blind or hard of hearing.
+(2) For purposes of making a  transfer under this section, the commission and the de-
+partment shall enter into an agreement that:
+(a) Specifies the amount of moneys to be transferred and the purposes for which  the
+moneys may be spent; and
+(b) Establishes a plan for a biennial reduction  in moneys transferred pursuant to this
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3342
+SB 724
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+section.
+SECTION 3.
+(1) The Department of  Human Services shall develop and issue a request for
+proposals for, and select, an eligible nonprofit organization to provide  services, to be funded
+through the Deaf, Deaf-Blind and Hard of Hearing Fund established  under section 1 of this
+2021 Act, for individuals who are deaf, deaf-blind or hard of hearing.
+(2) The department  shall complete selection of an eligible nonprofit organization pursuant
+to subsection (1) of this section no later than January 1, 2022.
+SECTION 4.  ORS 759.685 is amended to read:
+759.685. (1)(a) In order to fund the programs provided  for in sections 2 to 6, chapter 290, Oregon
+Laws 1987, and ORS 759.693 to 759.698[ ,] and sections 1 and  2 of this 2021 Act,  the Public Utility
+Commission shall develop and implement a system  for assessing a surcharge in an amount not to
+exceed 35 cents  per month against each paying retail subscriber who has telecommunications ser-
+vice, or who has interconnected voice over internet protocol service,  with access to a telecommu-
+nications relay service. The commission shall apply the surcharge on a  telecommunications circuit
+designated for a particular subscriber. One subscriber line must be counted for each circuit  that
+is capable of generating usage on the line side of the switched network  regardless of the quantity
+of customer premises  equipment connected to each circuit. For providers of central office based
+services, the surcharge must be applied to each line that has unrestricted  connection to the tele-
+communications relay service or, for lines that have  restricted access to the telecommunications
+relay service, on the  basis of software design. For cellular, wireless or other radio common carriers,
+the surcharge must be applied on a per instrument basis and only to subscribers whose place  of
+primary use, as defined and determined under 4 U.S.C. 116 to 126, is within this state.
+(b) For purposes of this subsection, the  commission shall adopt by rule the definition for
+“interconnected voice over internet protocol service.” The rule defining “interconnected voice  over
+internet protocol service” must be consistent with the  definition for “interconnected VoIP service”
+in 47 C.F.R. 9.3.
+(2) The surcharge imposed by subsection (1) of this section does not apply to:
+(a) Services upon which the state  is prohibited from imposing the surcharge by the Constitution
+or laws of the United States or the Constitution or laws of the State of Oregon.
+(b) Interconnection  between telecommunications utilities, telecommunications cooperatives,
+competitive telecommunications services providers certified  under ORS 759.020, radio common car-
+riers and interexchange carriers.
+(3) The commission annually shall review the surcharge and the balance  in the Residential
+Service Protection Fund established under ORS 759.687 and may make adjustments to the  amount
+of the surcharge to ensure that the fund has adequate resources, provided that the fund balance does
+not exceed six months of projected expenses.
+(4) Moneys collected pursuant to the surcharge may not be considered in any proceeding to  es-
+tablish rates for telecommunication service.
+(5) The commission shall direct telecommunications public utilities to identify separately in bills
+to customers for service the surcharge imposed under this section.
+(6) Notwithstanding ORS  314.835 and 314.840, the Department of Revenue may disclose infor-
+mation received under ORS 403.200 to 403.230 to the commission to carry  out the provisions of
+[chapter 290, Oregon  Laws 1987] sections 2 to 6, chapter 290, Oregon Laws 1987, and ORS 759.693
+to 759.698.
+(7) The  commission may disclose information obtained pursuant to [ chapter 290, Oregon Laws
+[2]
+SB 724
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+1987,] sections 2 to 6, chapter 290, Oregon Laws  1987, and ORS 759.693 to 759.698  to the de-
+partment to administer the tax imposed under ORS 403.200 to 403.230.
+SECTION 5.
+ ORS 759.685, as amended by section 3, chapter 434, Oregon Laws 2017,  is amended
+to read:
+759.685. (1)(a) In order to fund the [ program described ] programs  provided for in ORS 759.693
+to 759.698 and sections 1 and 2 of this 2021 Act , the Public Utility Commission shall develop and
+implement a system for assessing a surcharge in an amount not to exceed 35  cents per month
+against each paying retail subscriber who  has telecommunications service, or who has intercon-
+nected voice over internet protocol service, with access to a telecommunications relay service.  The
+commission shall apply the surcharge on a telecommunications  circuit designated for a particular
+subscriber. One subscriber line  must be counted for each circuit that is capable of generating usage
+on the line side of the switched network regardless of the quantity of  customer premises equipment
+connected to each circuit.  For providers of central office based services, the surcharge must be ap-
+plied to each line that has unrestricted connection to the telecommunications relay service  or, for
+lines that have restricted access  to the telecommunications relay service, on the basis of software
+design. For cellular, wireless or other  radio common carriers, the surcharge must be applied on a
+per instrument basis and only to subscribers whose  place of primary use, as defined and determined
+under 4 U.S.C. 116 to 126, is within this state.
+(b) For purposes of this subsection, the  commission shall adopt by rule the definition for
+“interconnected voice over internet protocol service.” The rule defining “interconnected voice  over
+internet protocol service” must be consistent with the  definition for “interconnected VoIP service”
+in 47 C.F.R. 9.3.
+(2) The surcharge imposed by subsection (1) of this section does not apply to:
+(a) Services upon which the state  is prohibited from imposing the surcharge by the Constitution
+or laws of the United States or the Constitution or laws of the State of Oregon.
+(b) Interconnection  between telecommunications utilities, telecommunications cooperatives,
+competitive telecommunications services providers certified  under ORS 759.020, radio common car-
+riers and interexchange carriers.
+(3) The commission annually shall review the surcharge and the balance  in the Residential
+Service Protection Fund established under ORS 759.687 and may make adjustments to the  amount
+of the surcharge to ensure that the fund has adequate resources, provided that the fund balance does
+not exceed six months of projected expenses.
+(4) Moneys collected pursuant to the surcharge may not be considered in any proceeding to  es-
+tablish rates for telecommunication service.
+(5) The commission shall direct telecommunications public utilities to identify separately in bills
+to customers for service the surcharge imposed under this section.
+(6) Notwithstanding ORS  314.835 and 314.840, the Department of Revenue may disclose infor-
+mation received under ORS  403.200 to 403.230 to the commission to carry out the provisions of ORS
+759.693 to 759.698.
+(7) The commission may disclose information obtained pursuant to ORS 759.693 to  759.698 to the
+department to administer the tax imposed under ORS 403.200 to 403.230.
+SECTION 6.
+This 2021 Act takes effect on the 91st day after the date on which the 2021
+regular session of the Eighty-first Legislative Assembly adjourns sine die.
+[3]

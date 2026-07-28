@@ -1,0 +1,719 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4036
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Housing and Homelessness for Representative Pam Marsh)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act sets up a bond fund to preserve low-cost  housing and requires OHCS to report
+on low-cost housing barriers. (Flesch Readability Score: 63.8).
+Establishes the Preserve Affordable Homes for Oregon Fund  to deposit Article XI-Q bonds to
+be used to preserve affordable housing at risk of loss.
+Requires the Housing and Community Services Department to, with input from stakeholders,
+report to the interim committees of the Legislative Assembly  relating to housing on or before De-
+cember 1, 2026, on legal and policy barriers to affordable housing production.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to affordable housing; creating new provisions; amending ORS 456.559 and 456.824 and
+section 1, chapter 630, Oregon Laws 2025; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this  2026 Act is added to and made a part of ORS 456.766 to
+456.828.
+SECTION 2. (1) The Preserve Affordable Homes for Oregon  Fund is established in the
+State Treasury, separate and distinct from  the General Fund. Interest earned on moneys in
+the Preserve Affordable Homes for Oregon Fund shall be credited to the fund.
+(2) The fund consists of moneys deposited into the fund from bonds issued  by the State
+Treasurer pursuant  to ORS 286A.035 for the Housing and Community Services Department
+to be used for affordable housing preservation.
+(3) Moneys in the fund are continuously appropriated to the department to:
+(a) Acquire, construct, remodel, repair, equip or furnish affordable  housing at risk of
+loss, as  described in ORS 456.824 (2), that is or will be owned or operated, as those terms are
+defined in ORS 458.480, by the  State of Oregon for the purpose of providing affordable hous-
+ing;
+(b) Pay the costs incurred by the department to administer the fund; and
+(c) Pay bond-related costs, as defined in ORS 286A.816.
+SECTION 3.
+On or before December 1, 2026, the Housing and Community Services De-
+partment shall  submit a report in the manner provided by ORS 192.245 to the interim com-
+mittees of the Legislative  Assembly related to housing that incorporates feedback from key
+stakeholders, including affordable  housing providers, finance entities and tenant advocates
+and that:
+(1) Evaluates and offers improvements to any  state laws or practices, policies or rules
+of the  department that negatively impact the efficiency and cost of providing affordable
+housing; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 209
+HB 4036
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(2) Evaluates opportunities to  streamline federal compliance or reporting requirements
+of affordable housing providers that are administered by the department.
+SECTION 4.
+ ORS 456.824 is amended to read:
+456.824. The Housing and Community Services Department shall establish and maintain an af-
+fordable housing preservation program to coordinate affordable housing preservation efforts and
+incentivize the analysis and preservation of affordable housing, including publicly supported  housing
+and manufactured dwelling parks. Under the program, the department shall:
+(1) Collect and maintain data from local, state and federal  sources on affordable housing in this
+state, including the status of  existing affordability restrictions and rental assistance contracts at
+publicly supported housing.
+(2) Identify categories of affordable housing at risk of loss, including:
+(a) Properties with expiring federal rent assistance contracts;
+(b) Properties with expiring affordability restrictions;
+(c) Properties with affordability restrictions in physical or financial distress; and
+(d) Manufactured dwelling parks at risk of sale or closure.
+(3) Take actions to promote housing stability, for residents of:
+(a) Affordable housing that is at risk of loss or that has been recently lost; or
+(b) Residents of manufactured dwelling parks or marinas at risk of sale or closure.
+(4) Establish and periodically update evaluation criteria for affordable housing preservation [ in-
+vestments].
+(5) Identify and aggregate available sources of funding, including moneys available from federal
+and private grants or programs, appropriations by the Legislative Assembly,  existing funds of the
+department or financing available from Article XI-Q bond proceeds under ORS 286A.824  or 458.480
+to 458.490 or section 2 of this 2026 Act  or proceeds of other bonds issued by the State Treasurer,
+and use such sources of  funding to implement preservation [ investments for ] of affordable housing in
+accordance with the established evaluation criteria.
+(6) Regularly analyze operating expenses of the existing  portfolio of publicly supported housing
+that is funded by the  department to inform the department’s underwriting standards for financing
+the construction of new and the preservation of existing  publicly supported housing and to inform
+forecasts of preservation funding needs.
+(7) Regularly update and publish an affordable housing preservation strategy  framework report
+that includes information identified in subsections (1) and (2) of this section and forecasts the fi-
+nancial need to preserve affordable housing.
+(8) Execute the duties of the department under ORS 456.766 to 456.828.
+SECTION 5.
+ Section 1, chapter 630, Oregon Laws 2025, is amended to read:
+Sec. 1.  The amounts authorized, as  provided by ORS 286A.035, for issuance of general obligation
+bonds of the state during the 2025-2027 biennium are as follows:
+GENERAL OBLIGATION BONDS
+General Fund Obligations
+(1) Higher Education Coordinating
+Commission (Art. XI-G):
+(a) Clackamas Community College,
+Center for Excellence for
+Farming, Horticulture and
+[2]
+HB 4036
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Wildland Fire .................................. $ 8,085,000
+(b) Klamath Community College,
+Cosmetology ADA
+Remediation .....................................$ 4,045,000
+(c) Mt. Hood Community College,
+Classroom and Lab
+Renovations .....................................$ 8,085,000
+(d) Clatsop Community College,
+Maritime Science Building ........... $ 7,985,000
+(e) Southwestern Oregon
+Community College, Student
+Uplift and Collaboration
+Create Expanded Support
+Success ..............................................$ 8,085,000
+(f) Portland State University,
+Portland Center for the
+Performing Arts Academic
+Building ............................................$ 85,660,000
+(g) University of Oregon, Child
+Behavioral Health Building ......... $ 17,920,000
+(h) Southern Oregon University,
+Creative Industries/Student
+Success ..............................................$ 2,485,000
+(i) Western Oregon University,
+Data Center .....................................$ 715,000
+(2) Oregon Business Development
+Department (Art. XI-M) ................ $ 100,910,000
+(3) Oregon Business Development
+Department (Art. XI-N) ................. $ 50,580,000
+(4) Department of Education
+(Art. XI-P) ........................................$ 50,455,000
+(5) Oregon Department of
+Administrative
+Services (Art. XI-Q):
+(a) Housing and Community
+Services Department:
+(A) Local Innovation and Fast
+Track (LIFT) Affordable
+Rental Housing Program .............. $ 468,220,000
+(B) Local Innovation and Fast
+Track (LIFT) Homeownership
+Program ............................................$ 100,910,000
+(C) Permanent Supportive
+Housing Program ............................ $ 80,760,000
+(D) Preserve Affordable Homes
+[3]
+HB 4036
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+for Oregon Fund ..................... $
+(b) Department of Corrections:
+(A) Capital Improvement and
+Renewal ............................................$ 50,455,000
+(B) Computerized Maintenance
+Management System ...................... $ 2,285,000
+(C) Institution Staff Deployment
+System Replacement (ISDS) ......... $ 625,000
+(D) Wireless Communication
+System...............................................$ 13,040,000
+(c) State Forestry Department:
+(A) Klamath Fire Cache
+Warehouse Replacement ............... $ 1,723,800
+(B) Santiam Facility Replacement,
+Phase I ..............................................$ 1,115,400
+(C) State Forester, Office
+Building Restoration ...................... $ 520,200
+(D) Toledo Facility Replacement,
+Phase III ...........................................$ 2,542,388
+(E) Veneta Campus Remodel .............. $ 4,404,427
+(d) State Department of
+Fish and Wildlife:
+(A) Capital Improvements,
+Hatchery Facilities ........................ $ 20,180,000
+(B) North Willamette Watershed
+District Office ................................. $ 5,320,000
+(e) Oregon Health Authority,
+Oregon State Hospital
+Capital Improvements
+and Equipment ................................ $ 7,545,000
+(f) Judicial Department,
+Morrow County Courthouse ........ $ 2,535,000
+(g) Oregon Military Department:
+(A) Medford Field Maintenance
+Shop...................................................$ 6,680,000
+(B) Klamath Falls Readiness
+Center ...............................................$ 2,035,000
+(C) Linn County Readiness
+Center ...............................................$ 7,080,000
+(h) Department of State Police:
+(A) Area Command Center
+Property Acquisition ..................... $ 3,540,000
+(B) Springfield Patrol Area
+Command Office .............................. $ 7,360,000
+(i) Oregon Youth Authority:
+[4]
+HB 4036
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Capital Improvements,
+All Facilities ....................................$ 5,070,000
+(B) CCTV and Access Control
+Improvement, Phase IV ................. $ 5,630,000
+(C) JJIS IT System
+Modernization ................................. $ 12,295,000
+(D) MacLaren Infirmary and
+Pharmacy Renovation and
+Expansion .........................................$ 2,735,000
+(E) Camp Riverbend Dorm
+Renovation .......................................$ 8,960,000
+(F) MacLaren West Cottages
+Renovations .....................................$ 4,045,000
+(G) Oak Creek Youth Correctional
+Facility ..............................................$ 4,045,000
+(H) Tillamook Dorm Renovation ........ $ 12,015,000
+(I) Tillamook Medical and Dental
+Renovations .....................................$ 825,000
+(j) Department of Public Safety
+Standards and Training:
+(A) Learning Management
+System...............................................$ 3,510,000
+(B) Deferred Maintenance ................... $ 3,280,000
+(k) Department of Environmental
+Quality, Laboratory and
+Monitoring Equipment .................. $ 1,350,000
+(L) Higher Education Coordinating
+Commission:
+(A) Public Universities Capital
+Improvement and Renewal ........... $ 120,930,000
+(B) University of Oregon, Child
+Behavioral Health Building ......... $ 35,855,000
+(C) Southern Oregon University,
+Creative Industries/Student
+Success ..............................................$ 38,470,000
+(D) Western Oregon University,
+Data Center .....................................$ 12,555,000
+(m) State Department of
+Agriculture, Project
+OneODA ...........................................$ 6,185,000
+(n) Oregon Public Defense
+Commission, Financial Case
+Management System ...................... $ 13,915,000
+(o) Department of Justice,
+Legal Tools Replacement
+[5]
+HB 4036
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+System 3.0........................................$ 13,455,000
+(p) Department of Revenue,
+Electronic Valuation
+Information System ........................ $ 2,035,000
+(q) Oregon Department of Emergency
+Management, Resiliency Grant
+Fund established under
+ORS 401.552.....................................$ 10,140,000
+(r) Oregon Business Development
+Department, Coos Bay Channel
+Modification .....................................$ 100,815,000
+(6) Department of
+Transportation (Art. XI,
+section 7), Interstate 5
+Bridge Replacement Project ........ $ 251,825,000
+Dedicated Fund Obligations
+(7) Department of Veterans’
+Affairs (Art. XI-A) .......................... $ 116,000,000
+(8) Higher Education Coordinating
+Commission (Art. XI-F(1)):
+(a) Portland State University,
+Portland Center for the
+Performing Arts Parking
+Structure ..........................................$ 53,010,000
+(b) Portland State University,
+Student Housing ............................. $ 85,660,000
+(9) Department of Environmental
+Quality (Art. XI-H) ......................... $ 20,080,000
+(10) Housing and Community
+Services Department
+(Art. XI-I(2)) .....................................$ 50,000,000
+(11) Oregon Department of
+Administrative Services
+(Art. XI-Q):
+(a) Oregon Department of
+Administrative Services,
+Labor and Industries Building
+Renovation and Seismic
+Upgrade ............................................$ 126,080,000
+(b) State Forestry Department:
+(A) Klamath Fire Cache Warehouse
+Replacement ....................................$ 3,346,200
+(B) Santiam Facility Replacement,
+Phase I ..............................................$ 3,954,600
+(C) State Forester, Office
+[6]
+HB 4036
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Building Restoration ...................... $ 1,009,800
+(D) Toledo Facility Replacement,
+Phase III ...........................................$ 3,532,612
+(E) Veneta Campus Remodel .............. $ 6,430,573
+(c) Department of Veterans’
+Affairs:
+(A) Department of Veterans’
+Affairs Salem HVAC
+Controls Replacement,
+Phase II ............................................$ 1,585,000
+(B) Department of Veterans’
+Affairs Salem Roof
+Replacement ....................................$ 1,230,000
+(d) Oregon Liquor and Cannabis
+Commission:
+(A) Liquor Warehouse Management
+Management IT System ................ $ 8,090,000
+(B) Liquor Warehouse Conveyor
+System...............................................$ 10,125,000
+(C) Liquor Warehouse Land
+and Building ....................................$ 46,330,000
+Total General Obligation
+Bonds.................................................$ 2,340,290,000
+SECTION 6.  ORS 456.559 is amended to read:
+456.559. (1) The Housing and Community Services Department shall:
+(a) Maintain current  housing data and information concerning available programs, status of
+funding, programs planned or undertaken which might  conflict with, overlap, duplicate or supersede
+other planned or existing programs and call these to the attention of appropriate state agencies,
+governmental bodies and public or private housing sponsors.
+(b) Maintain current data on publicly supported housing as provided under ORS 456.824.
+(c) Provide to appropriate state agencies, governmental bodies  and public or private housing
+sponsors such advisory and educational services as will assist them in the development  of housing
+plans and projects.
+(d) Subject to the  approval of the Oregon Housing Stability Council, make noninterest bearing
+advances, in accordance with ORS 456.710 and the policies  of the department, to qualified nonprofit
+sponsors for development costs of housing projects until mortgage  funds are released to repay the
+advances as provided in ORS 456.710.
+(e) Advise and assist appropriate  state agencies, governmental bodies and public or private
+housing sponsors, cities and counties, in  all programs and activities which are designed or might
+tend to fulfill the purposes of ORS 456.548 to 456.828 and ORS chapter 458.
+(f) Encourage and assist in the planning, development, construction, rehabilitation  and conser-
+vation of dwelling units for persons and families of lower income.
+(g) Be the  central state department to apply for, receive and distribute, on behalf of appropriate
+state agencies, governmental bodies and public or private housing sponsors in the state, grants, gifts,
+contributions, loans, credits or assistance from the federal government  or any other source for
+[7]
+HB 4036
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+housing programs  except when the donor, grantor, or lender of such funds specifically directs some
+other agency to administer them. Moneys  received under this section shall be deposited with the
+State Treasurer in an account separate  and distinct from the General Fund. Interest earned by the
+account shall be credited to the account.
+(h) For the purposes of acquiring moneys,  credits or other assistance from any agency or
+instrumentality of the United States or from any public  corporation chartered by the United States,
+comply with any applicable agreements or restrictions for the receipt of  such assistance and become
+a member of any such association or public corporation chartered by the United States.
+(i) Assist individuals, appropriate state agencies,  governmental bodies and public or private
+housing sponsors through a program which provides  housing information, planning, educational
+services and technical assistance.
+(j) Comply with the requirements of ORS 443.225  in assisting in the development of any housing
+for residential care, training or treatment  for persons with intellectual or developmental disabilities
+or mental or emotional disturbances.
+(2) Except as otherwise provided in ORS 456.625 (7), 456.766 to 456.828,  458.315 (3) and 458.480
+to 458.490 and section  2 of this 2026 Act , the department may not itself develop, construct, reha-
+bilitate or conserve housing units; and neither the department nor any housing  sponsor, including
+but not limited to any  association, corporation, cooperative housing authority or urban renewal
+agency organized to provide housing and other facilities under  ORS 456.548 to 456.828, may own,
+acquire, construct, purchase, lease,  operate or maintain utility facilities, including facilities for the
+generation of electricity, for the distribution of gas and electricity, and  for the conveyance of tele-
+phone and telegraph messages.
+(3) In accordance with the provisions of this section and with the  advice of the council, the
+department shall establish statewide priorities for housing programs. State  agencies shall coordinate
+their housing programs with the department. All state agencies intending to apply for federal  funds
+for use in planning, developing or managing  housing, or rendering assistance to governmental bodies
+or sponsors or individuals involved therein shall submit a description of the proposed activity  to the
+department for review not less than 30 days prior  to the intended date of submission of the appli-
+cation to the federal agency. The department shall  determine whether the proposal would result in
+a program that would overlap, duplicate or conflict with any other housing program in the state.  If
+the department finds overlapping or duplication or conflict, it shall recommend modifications in  the
+application. The Oregon Department  of Administrative Services shall consider these recommen-
+dations in making its decision to approve or disapprove  the application. The department shall com-
+plete its review and forward its recommendations within  15 working days after receipt of the
+notification. Failure of the department  to complete the review within that time shall constitute ap-
+proval of the application by the department.
+(4) The Director of the  Housing and Community Services Department may participate in dis-
+cussions and deliberations of the council. The director may suggest  policies to the council, including
+those necessary  to stimulate and increase the supply of housing for persons and families of lower
+income.
+SECTION 7.
+This 2026 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2026 Act takes effect
+on its passage.
+[8]

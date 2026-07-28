@@ -1,0 +1,167 @@
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+Enrolled
+Senate Bill 363
+Printed pursuant to Senate Interim  Rule 213.28 by order of the President of the Senate in conform-
+ance with presession filing rules, indicating neither advocacy nor  opposition on the part of the
+President (at  the request of Senate Interim Committee on Judiciary for Division of Child Support
+of the Department of Justice)
+CHAPTER .................................................
+AN ACT
+Relating to support enforcement; creating new provisions; amending  ORS 25.125; and prescribing an
+effective  date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. Section 2 of this 2019 Act is added to and made a part of ORS chapter 25.
+SECTION 2. (1) Subject to subsection (2) of this section, when an action is pending  to
+modify, terminate, satisfy, vacate or set aside a support order, the administrator may:
+(a) Suspend enforcement of the support order; or
+(b) Hold some or all moneys received from, or received on behalf of, an obligor  under a
+support order for possible refund, reallocation or redistribution upon  resolution of the
+pending action.
+(2) The Department of Justice may suspend enforcement of a support order or hold
+moneys received from, or received on behalf of, an obligor under a support order as described
+in subsection (1) of this section if the administrator determines that:
+(a) Collection of  child support will impair the ability of the obligor with physical custody
+of all of the parties’ children to provide direct support to the children; or
+(b) Resolution of the pending action will result in:
+(A) A payee receiving more moneys than are due to the payee; or
+(B) An adjustment that may cause an overpayment in favor of the state under ORS 25.125
+(2).
+(3) The administrator shall notify the parties when  it suspends enforcement of a support
+order or holds moneys received under a support order under subsection (1) of this section.
+(4) Any party may request an  administrative review of the administrator’s actions under
+subsections (1) and (2) of this section by submitting  a written request for administrative
+review to  the department. No later than 30 days following the receipt of a written request
+for administrative review, the department shall conduct an administrative review to deter-
+mine if  the department will resume enforcement of the support order or release moneys re-
+ceived under the support order to a party. A party may appeal the administrator’s decision
+under ORS 183.484.
+(5) The department shall adopt rules to carry out the provisions of this section.
+SECTION 3.
+ ORS 25.125 is amended to read:
+Enrolled Senate Bill 363 (SB 363-A) Page 1
+25.125. (1) The Department of Justice may return moneys to an obligor  when the department
+determines that the obligor has paid more moneys than are due under a support obligation.  How-
+ever, when the obligor has an ongoing support obligation, the  department may give the obligor
+credit for the  excess amount paid and apply the credit to the future support obligation until the
+credit is fully used. When the department applies a  credit to offset a future support obligation, the
+department shall so notify the obligee. The notice must inform the obligee  that, if the obligee re-
+quests, the department will conduct an administrative review to determine if  the record keeping and
+accounting related to the calculation of the  credit balance is correct. The department shall conduct
+the administrative review within 30 days after receiving the request.
+(2) An overpayment in favor of the  state is created when the Department of Justice, under ORS
+25.020, has transmitted moneys [ received from, or  on behalf of, ] to any person or entity, including
+but not  limited to an obligor, an obligee or a collection agency, a child support agency of another
+state or an agency of this state, and:
+[(a) The amount transmitted is more than the support obligation requires and the Department  of
+Justice has returned the excess to the obligor under subsection (1) of this section; ]
+[(b) The Department of Justice has misapplied moneys received; or ]
+[(c)] (a)  The amount transmitted  is attributable in whole or in part to a tax refund offset col-
+lection all or part of which has been taken back by the Internal  Revenue Service or the Department
+of Revenue[ .]; or
+(b) The Department of Justice performed an accounting  adjustment that resulted in the
+refund, reallocation or redistribution of  the amount transmitted to the state or any other
+person or entity.
+(3)(a) The person or entity to which the  moneys were transmitted owes the amount of the
+overpayment to the state. The Department of Justice shall:
+(A) Attempt to recover the overpayment if it is cost-effective to do so;
+(B) Notify the person or  entity to whom the overpayment was made that the person or entity
+owes money to the state  and specify the amount of the overpayment to be returned to the depart-
+ment; and
+(C) Give the person or entity opportunity to object.
+(b) If the person or entity does not file a timely written objection, the  overpayment amount de-
+termined by the department becomes a liquidated debt and creates  an account receivable owed to
+the department, and the provisions of subsection (4) of this section apply.  If the department does not
+resolve an objection to  the person’s or entity’s satisfaction, an administrative law judge assigned
+from the Office of Administrative Hearings shall hear the objection.  An order by the administrative
+law judge becomes a liquidated debt and creates an account receivable  owed to the department. The
+person or entity may appeal the decision  of an administrative law judge to the circuit court for a
+hearing de novo.
+(c) Notwithstanding paragraph (a) of this subsection, if an agency of this or another state  owes
+the overpayment,  the agency shall return the amount of the overpayment to the department without
+notice and opportunity to object.
+(4)(a) The amount of the overpayment specified in subsection (3)(a) of this section  is a liquidated
+debt owed to the state  and an associated account receivable. The Department of Justice may re-
+cover the debt by obtaining from the obligee  [ a voluntary assignment of ] an agreement to apply
+all or a portion  of future support payments [ to be applied ] to the account receivable or in any other
+way permitted by law.
+(b) Accounts receivable are considered delinquent for purposes of  this subsection and are sub-
+ject to the provisions of ORS chapter 293 if:
+(A) The person or entity fails to make full payment within 90 days of liquidation; or
+(B) A period of 90 days elapses without a payment as required by  a payment agreement between
+the department and the obligated person or entity.
+(5)(a) In addition to the account receivable created under subsection (2) of this section, a debt
+in favor of the state and an associated account receivable are created when:
+Enrolled Senate Bill 363 (SB 363-A) Page 2
+(A) The Department of Justice receives payment for support amounts due  from an obligor, a
+withholder subject to an order to withhold  under this chapter or another issuer on behalf of an
+obligor;
+(B) The [ Department of Justice ] department transmits the amount to any other  person or entity;
+and
+(C) The payment is dishonored or reversed.
+(b) When a debt is created  under paragraph (a) of this subsection, the amount of money specified
+in the payment is owed  to the state, and the department may collect the debt from one of the fol-
+lowing:
+(A) The obligor, regardless of who presented the check.
+(B) The withholder, if the withholder presented the check.
+(C) The other issuer, if another issuer presented the check.
+(D) The person or entity to which the amount was transmitted by the department.
+(c) The [ Department of Justice ] department shall:
+(A) Attempt to recover the debt if it is cost-effective to do so;
+(B) Notify the obligor, withholder or other issuer who made  the payment that the person or
+entity owes the money to the state; and
+(C) Specify the amount of the debt to be paid to the department.
+(d) The amount of the debt specified  in paragraph (c) of this subsection is a liquidated debt owed
+to the state and an account  receivable. The [ Department of Justice ] department  may recover the
+debt and collect on the account receivable in any way permitted under law.
+(e) Accounts receivable are considered delinquent for purposes  of this subsection and are sub-
+ject to the provisions of ORS chapter 293 when:
+(A) The person or entity fails to make full payment within 90 days of liquidation; or
+(B) A period of 90 days elapses without a payment as required by  a payment agreement between
+the department and the obligated person or entity.
+[(6)(a) When an action is  pending to terminate, vacate or set aside a support order or to modify a
+support order because of a change in physical custody of  the child, the administrator may suspend
+enforcement of the support order if: ]
+[(A) Collection of support would result in a credit balance if the motion were granted; or ]
+[(B) Collection of child support would  impair the ability of the obligor with physical custody of all
+of the parties’ children to provide direct support to the children. ]
+[(b) The obligee  may object, within 14 days after the date of the notice of intent to suspend
+enforcement of the support order, only on the grounds that: ]
+[(A) The child is not in the physical custody of the obligor; ]
+[(B) The child is in the physical custody of the obligor without the consent of the obligee; or ]
+[(C) The basis for the suspension of enforcement is factually incorrect. ]
+[(c) A  party may appeal the administrator’s decision to suspend or not to suspend enforcement of
+the support order under ORS 183.484. ]
+[(d) As used  in this subsection, “credit balance” means that payments have been made in excess
+of all amounts owed by an obligor for ongoing and past due child support. ]
+[(7)] (6) The Department of Justice shall adopt rules to carry out the provisions of  this section.
+SECTION 4.
+Section 2 of this 2019 Act and the amendments to ORS 25.125 by section 3
+of this 2019 Act become operative on January 1, 2020.
+SECTION 5. The Department of Justice may  take any action before the operative date
+specified in section 4 of this 2019 Act that is necessary for the department to  exercise, on
+and after the operative date specified in section 4 of this 2019  Act, all of the duties, functions
+and powers conferred on the department by section 2 of this 2019 Act and the amendments
+to ORS 25.125 by section 3 of this 2019 Act.
+SECTION 6.
+This 2019 Act  takes effect on the 91st day after the date on which the 2019
+regular session of the Eightieth Legislative Assembly adjourns sine die.
+Enrolled Senate Bill 363 (SB 363-A) Page 3
+Passed by Senate February 28, 2019
+..................................................................................
+Lori L. Brocker, Secretary of Senate
+..................................................................................
+Peter Courtney, President of Senate
+Passed by House May 30, 2019
+..................................................................................
+Tina Kotek, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2019
+Approved:
+........................M.,........................................................., 2019
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2019
+..................................................................................
+Bev Clarno, Secretary of State
+Enrolled Senate Bill 363 (SB 363-A) Page 4

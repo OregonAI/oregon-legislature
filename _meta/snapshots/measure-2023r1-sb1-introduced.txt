@@ -1,0 +1,184 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Senate Bill 1
+Sponsored by Senator WAGNER; Representative PHAM K (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Directs Department of Revenue to develop schedule allowing personal income  taxpayers to vol-
+untarily report taxpayers’ self-identified race and ethnicity identifiers. Requires restricted access  to
+collected data. Prohibits access to data by department collection and audit  staff or by Internal Re-
+venue Service. Prohibits use of data by tax practitioners and tax preparation software  vendors for
+purposes other than preparing and filing of returns.
+Directs  department  to report annually, beginning in 2024, on development and implementation
+of data collection schedule to appropriate committee or interim committee of Legislative Assembly
+related to information management and technology. Sunsets reporting requirement  on January 2,
+2029.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to data collected by the Department of Revenue; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2023 Act is added to and made a part of ORS chapter 316.
+SECTION 2. (1) The Department of Revenue shall attach to personal income tax  returns
+required to be filed under  this chapter a schedule that allows taxpayers to provide to the
+department, at the  time of filing the return and on a voluntary basis, self-reported identifi-
+cation of the taxpayer’s race and ethnicity.
+(2) The data collection schedule required under subsection (1) of this section must:
+(a) Allow each  taxpayer to select from the full list of demographic data categories of
+racial or ethnic identity adopted as  uniform standards by the Oregon Health Authority pur-
+suant to ORS 413.161.
+(b) Allow each individual listed on a return to select one primary identifier and as many
+as two additional identifiers.
+(c) Provide that individuals filing a  joint return may each elect whether to indicate
+identifiers on the schedule.
+(d) Be accompanied by the statement that the collection of data is voluntary  and self-
+reported and that the  department may not use the collected data for the purposes of audit,
+collection or other enforcement activities.
+(e) Be accompanied  by a statement explaining the purpose of collecting data for use in
+analysis of revenue policy.
+(f) Be optional to complete, but provide that individuals shall  opt out of completion of the
+schedule.
+(3) The department shall establish policies and procedures to enable individuals who are
+not required to  file an income tax return under this chapter for a given tax year to elect to
+complete the schedule provided under this section without filing a return.
+SECTION 3.
+Sections 4 to 8 of this 2023 Act are added to and  made a part of ORS chapter
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1715
+SB 1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+305.
+SECTION 4.
+(1) The Department of Revenue shall ensure that all data collected pursuant
+to section 2 of this 2023 Act is used  only for the purposes described in sections 2 and 7 of this
+2023 Act.
+(2) The department shall maintain and store  data collected pursuant to section 2 of this
+2023 Act separately from other information provided on tax  returns filed under ORS chapter
+316, and the data shall be accessible only to the following:
+(a) Research section staff of the department.
+(b) Other department staff  that are assigned to process the data and process or program
+the underlying systems for the  data collection schedule, but only to the extent necessary for
+that purpose.
+(c) The staff of the Legislative Revenue Office.
+(d) The division of the Oregon Department of  Administrative Services that serves as of-
+fice of economic analysis.
+(3) Tax practitioners and tax preparation software vendors  may use and retain data col-
+lected pursuant to section 2  of this 2023 Act only to the extent necessary to assist taxpayers
+in the  preparing and filing of returns required under ORS chapter 316 and may not use the
+data, or allow it to be used, for any other reason.
+(4) Notwithstanding any intergovernmental reciprocal agreements entered into by  the
+Department of  Revenue, the department may not allow the Internal Revenue Service access
+to the data collected under section 2 of this 2023 Act.
+SECTION 5.
+Not later than September 15 of each year,  beginning in 2024, the Department
+of Revenue shall report, in the manner provided in ORS 192.245, on the status of the devel-
+opment and implementation of the data collection schedule required under section  2 of this
+2023 Act and on the use of the data collected, to an  appropriate committee or interim com-
+mittee of the  Legislative Assembly related to information management and technology. The
+report required  by this section shall include an update of the effectiveness of measures
+undertaken by the department to ensure data security. The report shall address the  pre-
+vention of any sharing of data collected pursuant to section 2 of this 2023 Act:
+(1) Within the department, between research staff and audit and collection staff.
+(2) Between the department and the Internal Revenue Service.
+(3) Between tax practitioners and commercial interests.
+(4) Between tax preparation software vendors and commercial interests.
+SECTION 6.
+Section 5 of this 2023 Act is repealed on January 2, 2029.
+SECTION 7. The Department of Revenue shall use data  collected on the data collection
+schedule required under section 2 of this 2023 Act:
+(1) To the extent feasible, to inform:
+(a) The development of racial impact statements;
+(b) The analysis of proposed administrative rules and budget requests; and
+(c) The response by the department to certain requests for information from the Legis-
+lative Assembly.
+(2) If included in a report or other output, only in aggregated and anonymized form.
+SECTION 8.
+(1) The Department of Revenue shall first attach the data collection schedule
+required under section 2 of this 2023 Act to income tax returns filed for the 2023 tax year.
+(2) The department shall develop programming and forms for the  implementation of the
+[2]
+SB 1
+1
+2
+3
+4
+5
+schedule and, by rule, shall adopt policies and procedures  for the implementation of the use
+of the schedule.
+SECTION 9.
+This 2023 Act takes effect on the 91st day after the date on  which the 2023
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+[3]

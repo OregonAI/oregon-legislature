@@ -1,0 +1,297 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 3137
+Sponsored by Representative DIEHL
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Prohibits  medical  health care professional from performing or providing sex alteration procedure
+on minor. Defines “sex alteration procedure.” Provides that sex alteration procedure on minor is
+unprofessional conduct subject to discipline  by appropriate health professional licensing board. Al-
+lows individual to bring claim for violation and recover specified damages.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to procedures to alter minor’s sex; and declaring an emergency.
+Whereas Oregon has a  compelling governmental interest in protecting the health and safety of
+its residents, especially vulnerable children; and
+Whereas only a tiny percentage of the American population experiences distress  related to a
+fixation on the reality of their sex; and
+Whereas according to the American Psychiatric Association, prevalence ranges from 0.005  to
+0.014 percent of adult males and from 0.002 to 0.003 percent of adult females; and
+Whereas studies consistently demonstrate that the vast majority  of children who experience
+distress related to a fixation on the reality of their  sex come to accept their sex in adolescence or
+adulthood; and
+Whereas scientific studies show that individuals struggling with distress related to a  fixation
+on the reality of their sex often have already experienced psychopathology, which indicates  these
+individuals should be encouraged to seek mental health care services; and
+Whereas suicide rates, psychiatric morbidities and mortality  rates remain markedly elevated
+above the background population after inpatient sex alteration  procedures have been performed; and
+Whereas some health care  providers are prescribing drugs in order to delay the onset or
+progression of normally timed  puberty in children who experience distress related to a fixation on
+the reality of their sex, despite the lack  of any long-term longitudinal studies evaluating the risks
+and benefits of using these drugs for the treatment of such distress; and
+Whereas health care providers are also prescribing cross-sex  hormones for children who expe-
+rience distress related to a fixation on the reality of  their sex, despite the fact that no randomized
+clinical trials have been  conducted on the efficacy or safety of the use of cross-sex hormones in
+adults or children for the purpose of treating such distress; and
+Whereas the use of cross-sex  hormones comes with serious known risks, including, for females,
+erythrocytosis, severe liver dysfunction, coronary  artery disease, cerebrovascular disease,
+hypertension,  increased  risk of breast and uterine cancers and irreversible infertility, and for males,
+thromboembolic  disease,  cholelithiasis, coronary artery disease, macroprolactinoma, cerebrovascular
+disease, hypertriglyceridemia, breast cancer and irreversible infertility; and
+Whereas genital and nongenital modification,  amputation and mutilation surgeries are generally
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 3655
+HB 3137
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+not recommended for children, although  evidence indicates referrals for children to undergo such
+surgeries are becoming more frequent; and
+Whereas genital modification, amputation and mutilation surgeries include several  irreversible
+invasive procedures for  both males and females and involve alterations of biologically normal and
+functional body parts, including,  for males, surgery that may involve genital mutilation including
+penectomy, orchiectomy, vaginoplasty, clitoroplasty and vulvoplasty, and  for females, surgery that
+may involve a hysterectomy or oophorectomy, reconstruction of the  urethra, genital mutilation in-
+cluding metoidioplasty  or phalloplasty, vaginectomy, scrotoplasty and implantation of erection or
+testicular prostheses; and
+Whereas the complications, risks and  long-term care concerns associated with genital modifica-
+tion, amputation and  mutilation surgeries for both males and females are numerous and complex;
+and
+Whereas nongenital surgeries include various invasive procedures for males  and females and
+also involve the modification, amputation and mutilation of biologically normal and  functional body
+parts, including, for males,  procedures such as augmentation mammoplasty, facial feminization sur-
+gery, liposuction, lipofilling, voice surgery,  thyroid cartilage reduction, gluteal augmentation, hair
+reconstruction and other aesthetic procedures, and  for females, procedures such as subcutaneous
+mastectomy, voice surgery, liposuction, lipofilling,  pectoral implants and other aesthetic procedures;
+and
+Whereas it is an accepted principle of economics and public policy that when a service or
+product is subsidized or paid for, demand for that service  or product increases, and just between
+2015 and 2016, sex alteration surgeries increased by 20 percent; and
+Whereas it is of grave concern to  Oregonians that the medical community is allowing individ-
+uals who experience distress related to a fixation  on the reality of their sex to be subject to irre-
+versible  and drastic nongenital surgery and irreversible, permanently sterilizing genital modification,
+amputation and  mutilation surgeries, despite the lack of studies showing that the benefits of such
+extreme interventions outweigh the risks; and
+Whereas the risks of these procedures far outweigh any benefit at this stage  of clinical study
+on these procedures; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+As used in sections 2 to 4 of this 2023 Act:
+(1) “Female” means the sex  that typically has the capacity to bear young or produce
+eggs.
+(2) “Male” means the sex that typically has the capacity to produce  relatively small,
+usually motile, gametes that fertilize the eggs of a female.
+(3) “Medical health care professional” means the following individuals:
+(a) A nurse licensed under ORS 678.010 to 678.410;
+(b) A physician licensed under ORS chapter 677;
+(c) A physician assistant licensed under ORS 677.505 to 677.525;
+(d) A psychologist licensed under ORS 675.010 to 675.150;
+(e) A pharmacist licensed under ORS chapter 689; or
+(f) Other individual licensed to provide medical health care services.
+(4) “Minor” means an individual who is under 18 years of age.
+(5) “Sex” means the biological indication of male and female,  such as sex chromosomes,
+naturally occurring sex hormones, gonads and nonambiguous internal and  external genitalia
+[2]
+HB 3137
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+present at birth, without  regard to an individual’s psychological, chosen or subjective expe-
+rience.
+(6)(a) “Sex alteration procedure”  means, when performed or used for the purpose of ap-
+proximating the secondary sex characteristics of the opposite sex, a medical  or surgical
+service, physician service, inpatient or outpatient hospital service  or prescription drug in-
+tended to alter or remove physical or anatomical  characteristics or features that are typical
+for the individual’s sex or to cosmetically create  physiological or anatomical characteristics
+that resemble a sex different from the individual’s sex.
+(b) “Sex alteration procedure” does not include:
+(A) A service provided to an individual born  with a medically verifiable disorder of sex
+development;
+(B) A service provided to an individual diagnosed, through genetic  or biochemical testing,
+with a disorder of sexual development resulting from  not having typical sex chromosome
+structure, sex steroid hormone production or sex steroid hormone action; or
+(C) The  treatment of an infection, injury, disease or disorder caused or exacerbated by
+the performance of a sex alteration procedure.
+SECTION 2.
+(1) A medical health care professional may not, for  an individual who is a
+minor:
+(a) Perform a sex alteration procedure on the minor; or
+(b) Refer the minor to another medical health care  professional for the purpose of ob-
+taining a sex alteration procedure.
+(2) A mental health professional may not  refer a minor to a medical health care profes-
+sional for the purpose of obtaining a sex alteration procedure.
+(3) An employee or contractor of a public or private school may not, for an  individual
+who is a minor:
+(a) Encourage or coerce the minor to withhold from the minor’s parent or legal  guardian
+the fact that the minor’s self-perception is inconsistent with the minor’s sex; or
+(b) Withhold from the minor’s  parent or legal guardian information related to the
+minor’s self-perception being inconsistent with the minor’s sex.
+SECTION 3.
+(1) Public funds may not  be directly or indirectly used for or granted, paid
+or distributed to an entity, organization or  individual that provides or performs a sex alter-
+ation procedure to or for a minor.
+(2) The health care services provided by or  in a health care facility owned or operated
+by the state or a county or  local government, or by a physician or other individual employed
+by the  state or a county or local government may not include sex alteration procedures
+provided to minors.
+(3) Any amount paid by an individual or an entity for  the provision of sex alteration
+procedures for minors, or as premiums for a  policy for health insurance that includes cov-
+erage for sex alteration procedures for minors is not tax deductible.
+(4) Medical assistance may not include sex alteration procedures provided to minors.
+(5) A policy for  health insurance may not provide payment or reimbursement for sex al-
+teration procedures provided to minors.
+SECTION 4.
+The provision of a sex alteration procedure to a minor shall be considered
+unprofessional conduct by a medical health care professional for which  the medical health
+care professional may be subject to disciplinary action by the appropriate health professional
+[3]
+HB 3137
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+licensing board.
+SECTION 5.
+(1) A person may bring a  claim for a violation of section 2 or 3 of this 2023
+Act and recover economic and noneconomic damages, injunctive relief or declaratory relief.
+(2)(a) Except as provided in paragraph (b) of this subsection, an action under this  section
+must be commenced not later than two years after the action accrues.
+(b) An individual subjected as a minor to a violation of section 2 or 3  of this 2023 Act
+may bring a  claim under this section at any time before the individual reaches 38 years of
+age.
+(3) The court shall award reasonable attorney fees to  a prevailing plaintiff in a civil
+action under this section.
+(4) The Attorney General may bring an action to  enforce compliance with section 2 or 3
+of this 2023 Act.
+SECTION 6. This 2023 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2023 Act takes effect
+on its passage.
+[4]

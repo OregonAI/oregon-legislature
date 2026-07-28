@@ -1,0 +1,223 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 2903
+Sponsored by Representative GOMBERG; Representative SMITH DB,  Senators ANDERSON, WEBER (Presession
+filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Requires State Department of  Fish and Wildlife, State Fish and Wildlife Commission and De-
+partment of State Lands to implement Ocean Policy Advisory Council recommendations to  develop
+adaptive management and social monitoring program to support marine reserves.
+Appropriates moneys to State Department of Fish and Wildlife to implement programs.
+A BILL FOR AN ACT
+Relating to marine reserves; creating  new provisions; and amending ORS 196.540, 196.542 and
+196.545.
+Whereas the Ocean Policy Advisory Council has made recommendations for the policies  of a
+marine reserve program, the siting of marine reserves and protected areas in Oregon; and
+Whereas ORS 196.540  (2) affirmed and mandated the council’s recommendations to the State
+Department of Fish and Wildlife for the establishment of marine reserves  and protected areas, the
+development of a marine reserve program, staffing, management and assessment; and
+Whereas section 4 of Senate Bill 1510 (2012) required  that a decadal assessment be conducted
+in 2022 and that recommendations be provided for administrative or legislative action; and
+Whereas the council’s scientific  and technical advisory committee conducted a marine reserve
+assessment through Oregon State University and subsequently made legislative  recommendations to
+increase strategic investments in Oregon’s marine reserve programs; and
+Whereas the council has unanimously supported the recommendations from the decadal assess-
+ment of Oregon’s marine reserves, both in policy direction and in full funding of the program; and
+Whereas Oregon’s marine reserve program is  a necessary investment in Oregon’s statewide
+planning goal relating to ocean  resources and represents a critical fishery-independent, long term
+monitoring and applied research investment by the State of Oregon; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 196.540 is amended to read:
+196.540. The State Department of Fish and Wildlife,  State Fish and Wildlife Commission, State
+Land Board and relevant state agencies shall, consistent with existing  statutory authority, imple-
+ment:
+(1) The November 29, 2008, recommendations from  the Ocean Policy Advisory Council on marine
+reserves by adopting rules to establish, study, monitor, evaluate and enforce a pilot  marine reserve
+at Otter Rock and a pilot marine reserve and a marine protected area at Redfish Rocks.
+(2) The January 25, 2011, recommendations, limited to those related to boundaries  and allow-
+ances, from the State Department of Fish and Wildlife on marine reserves by adopting rules to  es-
+tablish, study, monitor, evaluate and enforce:
+(a) A marine reserve and two marine protected areas at Cape Falcon;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 231
+HB 2903
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) A marine reserve and three marine protected areas at Cascade Head; and
+(c) A marine reserve, two marine protected areas and a  seabird protection area at Cape
+Perpetua.
+(3) The March ____, 2023, recommendations from  the Ocean Policy Advisory Council to
+develop for the marine reserves:
+(a) An adaptive management plan that includes the development and implementation of:
+(A) Specific, measurable, achievable, relevant, and time-oriented  objectives for ecological
+and socioeconomic monitoring and research;
+(B) Consistent measurable indicators of social impacts;
+(C) Efficient long-term ecological  sampling protocols that remain consistent and respon-
+sive to adaptive management;
+(D) Assessment of the capacity for the marine reserves to enhance ecological resilience
+to environmental disturbances, including data collection and evaluation over  long periods of
+time and on how the reserves operate as a network; and
+(E) Defined goals for outreach  and engagement, including engagement with federally re-
+cognized Indian tribes, and assessments  to evaluate the effectiveness in achieving these
+goals.
+(b) A collaborative process through which social monitoring data on the  reserves can be
+interpreted to  affect policy decisions. The process should include steps for decision-making
+and conflict management.
+SECTION 2.
+ ORS 196.545 is amended to read:
+196.545. (1) The State Department of Fish and Wildlife, in consultation with  members from the
+scientific and technical advisory committee established under ORS 196.451, other  relevant marine
+and fishery scientists, relevant state  agencies, ocean users and coastal communities shall implement
+the activities described in ORS 196.540 by  developing and amending a work plan  and adaptive
+management plan consistent with ORS 196.540 .
+(2) The work plan shall contain the following elements regarding the marine  reserves described
+in ORS 196.540:
+(a) A biological assessment, including information  on habitat characterization, biological re-
+sources, local knowledge and, for the established [ pilot] marine reserves, monitoring plans.
+(b) A socioeconomic assessment, including a description of human  uses, net effects on sport and
+commercial fisheries and communities and, for the  established [ pilot] marine reserves, monitoring
+plans.
+(c) Formation of community teams, with  diverse and balanced stakeholder representation that
+includes local government, recreational fishing industry, commercial  fishing industry, nonfishing in-
+dustry, recreationalists, conservation, coastal watershed councils, relevant marine and avian scien-
+tists, to collaborate and develop recommendations  as needed for potential  changes to  marine
+reserves, considering the biological and socioeconomic information developed under this
+section.  Collaboration  may be facilitated by a neutral outside party hired through a  competitive
+bidding process.
+(d) Provision of information on the process and data gathered  to interested parties and made
+available to the public.
+(e) Development of scientifically based goals specific to each of the marine  reserve sites, incor-
+porating continuity and cumulative outcomes, benefits and impacts.
+[(f) Provision of baseline data on Oregon’s territorial sea, as defined in ORS 196.405. ]
+[2]
+HB 2903
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+[(g)] (f)  Development  of an enforcement plan in consultation with the Oregon State Police and
+representatives from affected user groups.
+[(h)] (g)  Use of communities and volunteers to assist in  implementing the work plan where fea-
+sible and practical.
+(h) Continued engagement of communities, including commercial and recreational  fishing
+fleets, in order to ensure that marine reserve science is useful to communities and that the
+department incorporates community and fishermen knowledge into ongoing  research and
+monitoring efforts.
+[(3) The data and recommendations produced from the  work plan and other available nearshore
+data shall be used by the State Department of Fish and Wildlife, in consultation with the Ocean  Policy
+Advisory Council, to recommend the number, size, location and restriction limits of the  potential sites
+for marine  reserve designation, consistent with Executive Order 08-07. If, through this process, it is
+determined that other appropriate sites need to be considered or that potential  sites are not consistent
+with Executive Order 08-07, then the data and recommendations produced shall be provided to  the
+public, the State Department of Fish  and Wildlife and other relevant state agencies for future purposes
+relevant to nearshore management. ]
+SECTION 3.
+In addition to and not in lieu of any other appropriation, there  is appropri-
+ated to the State Department of Fish and Wildlife, for the biennium  beginning July 1, 2023,
+out of the General Fund, the amount of $800,000, to implement ORS 196.540 (3).
+SECTION 4.  ORS 196.542 is amended to read:
+196.542. [(1) The State Fish and Wildlife Commission may not impose  prohibitions on fishing by
+rule pursuant to ORS 196.540 until  the baseline data specified in ORS 196.545 (2)(f) have been collected
+consistent with scientifically based monitoring plans. ]
+[(2)] In implementing the activities described  in ORS 196.540 pursuant to ORS 196.545, the State
+Department of Fish and Wildlife shall use local resources where feasible and practical.
+[3]

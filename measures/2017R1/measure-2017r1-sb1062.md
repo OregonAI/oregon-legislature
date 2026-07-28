@@ -1,0 +1,525 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2017r1-sb1062
+title: 'SB 1062 (2017R1): Requires school districts, education service districts and public charter schools
+  to adopt Healthy and Safe Schools Plan to address environmental conditions in facilities owned or leased
+  by districts or schools where students or staff are present on regular basis.'
+doc_type: dataset_doc
+citation: 2017 Regular Session Senate Bill 1062
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB1062/Enrolled
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 623e8c110a8b4b714fc96fc96a627e0c134ff7665927fbdd0721302869d9c3d3
+snapshot_id: measure-2017r1-sb1062-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 187.010
+  - ORS 286A.801
+  - ORS 326.125
+  - ORS 327.006
+  - ORS 327.008
+  - ORS 327.011
+  - ORS 327.013
+  - ORS 327.019
+  - ORS 327.022
+  - ORS 327.344
+  - ORS 327.348
+  - ORS 329.488
+  - ORS 332.167
+  - ORS 342.953
+  - ORS 343.404
+  - ORS 343.941
+  - ORS 348.394
+  - ORS 634.700
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2017r1
+- sb
+session_key: 2017R1
+measure_prefix: SB
+measure_number: 1062
+prefix_meaning: Senate Bill
+catch_line: Requires school districts, education service districts and public charter schools to adopt
+  Healthy and Safe Schools Plan to address environmental conditions in facilities owned or leased by districts
+  or schools where students or staff are present on regular basis.
+minority_catch_line: null
+measure_summary: "\tRequires school districts, education service districts and public charter schools\
+  \ to adopt Healthy and Safe Schools Plan to address environmental conditions in facilities owned or\
+  \ leased by districts or schools where students or staff are present on regular basis. Requires districts\
+  \ and schools to provide Department of Education with copies of plans. Requires districts and schools\
+  \ to annually review plan and revise as necessary. Specifies minimum content for plan. Requires department\
+  \ to develop model plan as guidance for districts and schools. \n\tAuthorizes Oregon Health Authority\
+  \ to develop recommendations regarding practices for reducing environmental conditions that may present\
+  \ health concerns. Requires authority to develop information sheets concerning environmental conditions\
+  \ that may present health concerns. \n\tRequires department to make opportunities for professional development\
+  \ available to district and school staff regarding plan requirements and information reporting. \n\t\
+  Requires school districts, education service districts and public charter schools to make results of\
+  \ testing under plan available to public. Requires districts and schools to provide annual statement\
+  \ regarding plan. Specifies minimum content for statement. Specifies recipients of statement. Requires\
+  \ posting statement on website if website is available. \n\tEstablishes Healthy School Facilities Fund.\
+  \ Appropriates moneys from fund to department for purpose of financial assistance to school districts,\
+  \ education service districts and public charter schools in adoption, administration and enforcement\
+  \ of Healthy and Safe Schools Plans. \n\tExpands types of assessment qualifying for Office of School\
+  \ Facilities hardship grants to include school district assessment for environmental hazards under plan.\
+  \ \n\tReduces total amount that may be biennially distributed from State School Fund as facility grants.\
+  \ Provides for biennial transfer from State School Fund to Healthy School Facilities Fund. Limits uses\
+  \ for transferred moneys. Makes reduction in total amount distributed as facility grants and transfer\
+  \ of State School Fund moneys to Healthy School Facilities Fund applicable for biennia beginning on\
+  \ or after July 1, 2019. \n\tRequires Oregon Health Authority to adopt mandatory guidelines regarding\
+  \ testing for, and reducing exposure to, lead in water used for drinking or food preparation for inclusion\
+  \ in Healthy and Safe Schools Plans. \n\t<b>Appropriates moneys from General Fund to Department of Education\
+  \ for 2017-2019 biennium to carry out provisions of Act. \n\tDeclares emergency, effective July 1, 2017.</b>"
+relating_to: Relating to environmental conditions in school facilities; and declaring an emergency.
+relating_to_full: Relating to environmental conditions in school facilities; and declaring an emergency.
+at_the_request_of: null
+lc_number: 4470
+measure_created_date: '2017-04-27T16:17:16'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 26360
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 187.010
+  - ORS 286A.801
+  - ORS 326.125
+  - ORS 327.006
+  - ORS 327.008
+  - ORS 327.011
+  - ORS 327.013
+  - ORS 327.019
+  - ORS 327.022
+  - ORS 327.344
+  - ORS 327.348
+  - ORS 329.488
+  - ORS 332.167
+  - ORS 342.953
+  - ORS 343.404
+  - ORS 343.941
+  - ORS 348.394
+  - ORS 634.700
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1062`.
+
+# SB 1062 — 2017 Regular Session (2017R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1062, 2017 Regular Session (2017R1)
+- **LC number:** 4470
+- **Created:** 2017-04-27T16:17:16
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 26360 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB1062/Enrolled>.
+
+## Summary
+
+**Catchline:** Requires school districts, education service districts and public charter schools to adopt Healthy and Safe Schools Plan to address environmental conditions in facilities owned or leased by districts or schools where students or staff are present on regular basis.
+
+**Relating to:** Relating to environmental conditions in school facilities; and declaring an emergency.
+
+Requires school districts, education service districts and public charter schools to adopt Healthy and Safe Schools Plan to address environmental conditions in facilities owned or leased by districts or schools where students or staff are present on regular basis. Requires districts and schools to provide Department of Education with copies of plans. Requires districts and schools to annually review plan and revise as necessary. Specifies minimum content for plan. Requires department to develop model plan as guidance for districts and schools. 
+ Authorizes Oregon Health Authority to develop recommendations regarding practices for reducing environmental conditions that may present health concerns. Requires authority to develop information sheets concerning environmental conditions that may present health concerns. 
+ Requires department to make opportunities for professional development available to district and school staff regarding plan requirements and information reporting. 
+ Requires school districts, education service districts and public charter schools to make results of testing under plan available to public. Requires districts and schools to provide annual statement regarding plan. Specifies minimum content for statement. Specifies recipients of statement. Requires posting statement on website if website is available. 
+ Establishes Healthy School Facilities Fund. Appropriates moneys from fund to department for purpose of financial assistance to school districts, education service districts and public charter schools in adoption, administration and enforcement of Healthy and Safe Schools Plans. 
+ Expands types of assessment qualifying for Office of School Facilities hardship grants to include school district assessment for environmental hazards under plan. 
+ Reduces total amount that may be biennially distributed from State School Fund as facility grants. Provides for biennial transfer from State School Fund to Healthy School Facilities Fund. Limits uses for transferred moneys. Makes reduction in total amount distributed as facility grants and transfer of State School Fund moneys to Healthy School Facilities Fund applicable for biennia beginning on or after July 1, 2019. 
+ Requires Oregon Health Authority to adopt mandatory guidelines regarding testing for, and reducing exposure to, lead in water used for drinking or food preparation for inclusion in Healthy and Safe Schools Plans. 
+ <b>Appropriates moneys from General Fund to Department of Education for 2017-2019 biennium to carry out provisions of Act. 
+ Declares emergency, effective July 1, 2017.</b>
+
+**RelatingToFull (verbatim upstream field):** Relating to environmental conditions in school facilities; and declaring an emergency.
+
+## Full text
+
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+Enrolled
+Senate Bill 1062
+Sponsored by Senators DEMBROW, MONNES  ANDERSON, Representatives KENY-GUYER,
+BUEHLER; Senators DEVLIN,  GELSER, PROZANSKI, RILEY, TAYLOR, Representatives
+GREENLICK, HELM, HERNANDEZ, HOLVEY, HUFFMAN, LIVELY, MALSTROM,  NOBLE,
+NOSSE, PILUSO, RAYFIELD, REARDON, SMITH DB, SMITH WARNER, SOLLMAN, VIAL
+CHAPTER .................................................
+AN ACT
+Relating to environmental conditions in school  facilities; creating new provisions; amending ORS
+326.125 and 327.008; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. (1) A school district, education service district or public charter school shall
+develop and adopt a plan, to be known as the Healthy and Safe  Schools Plan, for the district
+or school. The plan must address environmental conditions at the  facilities owned or leased
+by the district or school where  students or staff are present on a regular basis. The De-
+partment of Education, in consultation with the Oregon Health Authority, the Department
+of Environmental Quality  and other interested stakeholders, shall develop and adopt a model
+plan to provide guidance to the districts and schools in developing  and adopting plans under
+this section.
+(2) A school district, education service district  or public charter school shall provide a
+copy of a plan developed and adopted under this  section to the Department of Education. The
+district or school shall annually review the plan. If the information contained in a plan has
+changed since the preceding annual review due to the  acquisition or remodeling of a facility,
+the termination of  regular use of the facility by students and staff or a modification in the
+method, location, scope, frequency or other  aspects of addressing environmental conditions,
+the district or school shall revise the plan as necessary to address the change  in information
+and provide a copy of the revised plan to the department.
+(3) A plan developed and adopted under this section must, at  a minimum, include the
+following:
+(a) The identification of, and contact information for, a position within the adminis-
+tration of the school district, education service district or public charter school  having re-
+sponsibility for maintaining and overseeing performance of the plan.
+(b) A list of all facilities of the  school district, education service district or public charter
+school that are subject to the plan.
+(c) Provisions regarding testing for, and reducing exposure to, elevated levels of  lead in
+water used for drinking or  food preparation as required under guidelines adopted by the au-
+thority.
+Enrolled Senate Bill 1062 (SB 1062-B) Page 1
+(d) Provisions consistent with the United States Environmental Protection Agency Ren-
+ovation, Repair and Painting Rule set forth in  40 C.F.R. section 745 regarding testing for, and
+reducing exposure to, lead-based paint.
+(e) Provisions consistent with federal law regarding testing for, and  reducing exposure
+to, asbestos.
+(f) Provisions consistent with ORS 332.167 regarding testing for, and reducing exposure
+to, elevated levels of radon.
+(g) Provisions for carrying out integrated pest  management as provided under ORS
+634.700 to 634.750.
+(h) Provisions for installing carbon monoxide detection devices in proximity to  fuel
+burning appliances that emit carbon monoxide, if installation is required  under the state
+building code.
+(4) A plan described in subsection (3) of this section must  provide for any laboratory
+analysis on test samples to be carried out by a laboratory having a type and  level of ac-
+creditation recognized as appropriate by the authority.
+(5) The authority, in consultation with the department, school districts, education service
+districts, public charter  schools and other interested stakeholders, may provide districts and
+schools with recommendations regarding evidence-based practices  for the reduction of envi-
+ronmental conditions not addressed in subsection (3)  of this section that may present health
+concerns if present in district or school  facilities. The recommendations may include, but
+need not be limited to, recommendations regarding:
+(a) Methods  for limiting or reducing exposure to high levels of diesel engine exhaust; and
+(b) Identification of mold, including but not limited to advice regarding how to  recognize
+the presence of mold.
+(6) The authority shall develop information sheets for use by school districts,  education
+service districts and public  charter schools to inform staff, students, parents of minor stu-
+dents and other interested stakeholders about substances that may present health  concerns
+if present in district or school facilities.
+(7) The department, in consultation with the authority, representatives of  school dis-
+tricts, education service districts and  public charter schools and other interested
+stakeholders, shall make opportunities for professional development available to district  and
+school staff regarding plan requirements under this  section and the provision of information
+as required under section 2 of this 2017 Act.
+SECTION 2. (1)(a) A school district, education service district  or public charter school
+shall make the results of  any testing conducted under a plan described in section 1 of this
+2017 Act available to the public no later than 10  business days after receiving the test re-
+sults. As used in this paragraph, “business day” means a day that is not a Saturday, a  legal
+holiday under ORS 187.010 or 187.020 or a day on  which the administrative headquarters for
+the district or school is closed.
+(b) The district or school shall make the test results available:
+(A) If the district or school maintains a public website, by posting the test results on  the
+website;
+(B) By sending electronic mail to staff, students and parents of  minor students for whom
+the district or school has electronic mail addresses on file; and
+(C) By making the test results available in printed form at the administrative headquar-
+ters for the district or school.
+(2) A  school district, education service district or public charter school shall provide an
+annual statement regarding the plan developed and adopted by the  district or school under
+section 1 of this 2017 Act. The district or school shall provide the statement to:
+(a) The governing body for the district or school;
+(b) The parents of minor students; and
+(c) Any students 18 years of age or older.
+Enrolled Senate Bill 1062 (SB 1062-B) Page 2
+(3) The annual statement under subsection (2) of this section  must include, but need not
+be limited to, the following information:
+(a) Identification of, and contact information for, the position within  the administration
+of the school district, education service  district or public charter school having responsibility
+for maintaining and overseeing performance of the plan;
+(b) Information regarding where copies of the plan are available;
+(c) A certification that the district or  school is in compliance with any testing require-
+ments under the plan;
+(d) Information about how to obtain the  results of any testing conducted under the plan;
+and
+(e) A summary of major exposure reduction activities conducted  under the plan since the
+preceding annual statement.
+(4) If a school district, education service district  or public charter school maintains a
+publicly available website, the district or  school shall post the annual statement described in
+subsection (3) of this section on the website. The  district or school shall make the annual
+statement available in printed form at  the administrative headquarters for the district or
+school.
+(5) The Department of Education shall adopt, in  consultation with the Oregon Health
+Authority, representatives of school districts, education service districts and public  charter
+schools and other interested stakeholders, rules for carrying out this section.
+SECTION 3.
+(1) The Healthy School Facilities  Fund is established in the State Treasury,
+separate and distinct from  the General Fund. Interest earned by the Healthy School Facili-
+ties Fund shall be credited to the fund.
+(2) Moneys in the fund are continuously appropriated to  the Department of Education for
+the purpose of providing financial assistance to school districts, education service  districts
+and public charter schools  in carrying out the adoption, administration and enforcement of
+plans described in section 1 of this 2017 Act, including  but not limited to the conducting of
+testing and exposure reduction activities.
+SECTION 4.  ORS 326.125 is amended to read:
+326.125. For the purpose of assisting school districts with capital costs,  the Office of School
+Facilities is established within the Department of Education. The office shall be responsible for:
+(1) Distributing  hardship grants to school districts with facility needs. Grants awarded under
+this section may not exceed $500,000 and shall  be provided to school districts based on the order in
+which the Department of Education receives  the completed applications for the grants. A school
+district may be eligible for a grant under this subsection if  the school district meets requirements
+established by the  State Board of Education by rule, including any requirements to provide matching
+funds.
+(2) Providing technical assistance  and establishing and maintaining standards for facilities as-
+sessments and long-range facilities plans for school districts.
+(3) Administering a certification  program for qualified providers of technical assistance for the
+purposes described in subsection (2) of this section.
+(4) Providing grants to school districts for the  cost of technical assistance for the purposes de-
+scribed in subsection (2) of this section. The State Board of Education may establish  by rule re-
+quirements for a school district to receive a grant  under this subsection. Grants for a school district
+under this subsection may not exceed:
+(a) $20,000 for a facilities assessment;
+(b) $25,000 for a long-range facilities plan; [ and]
+(c) $25,000 for an assessment of school district facilities  for potential environmental
+hazards under section 1 of this 2017 Act; and
+[(c)] (d) $25,000 for a seismic assessment or other specialized assessment.
+(5) Maintaining the Oregon School Facilities Database. The database  must include information
+that:
+Enrolled Senate Bill 1062 (SB 1062-B) Page 3
+(a) Assists with analyzing, planning and prioritizing  school capital improvement needs for school
+districts by providing district-to-district and school-to-school comparisons; and
+(b) Is required by the State Board of Education by rule.
+(6) Administering the grant program described in ORS 286A.801.
+SECTION 5.
+ ORS 327.008 is amended to read:
+327.008. (1)(a) There is established a State School Fund in the General Fund.
+(b) The Department of Education, on  behalf of the State of Oregon, may solicit and accept gifts,
+grants, donations and other moneys from public and private  sources for the State School Fund.
+Moneys received as provided in this paragraph shall be deposited into the State School Fund.
+(c) The State School Fund shall consist of moneys appropriated by the  Legislative Assembly,
+moneys transferred from the Education Stability Fund and moneys received  as provided in para-
+graph (b) of this subsection.
+(d) The State School Fund is continuously appropriated to the Department of Education for the
+purposes of ORS 327.006 to 327.077, 327.095, 327.099, 327.101,  327.125, 327.137, 327.348, 336.575,
+336.580, 336.635, 343.243, 343.533, 343.941 and 343.961 and sections 1 to 3, chapter 735, Oregon Laws
+2013.
+(2) There shall be apportioned from the State School Fund to each  school district a State School
+Fund grant,  consisting of the positive amount equal to a general purpose grant and a facility grant
+and a transportation  grant and a high cost disabilities grant minus local revenue, computed as
+provided in ORS 327.011 and 327.013.
+(3) For the first school year after a public charter school ceases  to operate because of dissol-
+ution or closure or because of termination  or nonrenewal of a charter, there shall be apportioned
+from the State School Fund  to each school district that had sponsored a public charter school that
+ceased to operate an amount equal to the school district’s general  purpose grant per extended
+ADMw multiplied by five percent of the ADM of the public charter school for the previous  school
+year.
+(4) There shall be apportioned  from the State School Fund to each education service district a
+State School Fund grant as calculated under ORS 327.019.
+(5) All figures used in the determination of the distribution of the State School Fund  shall be
+estimates for the same year as the distribution occurs, unless otherwise specified.
+(6) Numbers of students in average daily membership used in the  distribution formula shall be
+the numbers as of June of the year of distribution.
+(7) A school district  may not use the portion of the State School Fund grant that is attributable
+to the facility grant for capital construction costs.
+(8) The total amount  of the State School Fund that is distributed as facility grants may not ex-
+ceed [ $9] $7 million in any biennium. If  the total amount to be distributed as facility grants exceeds
+this limitation, the Department of Education shall prorate the amount of  funds available for facility
+grants among those school districts that qualified for a facility grant. If the total amount to be dis-
+tributed as facility grants does  not exceed this limitation, any remaining amounts shall be expended
+for expenses incurred by the Office of School Facilities as provided in ORS 326.125 (1).
+(9) Each biennium, the Department of Education may expend from the  State School Fund no
+more than $6 million for expenses incurred by the Office of School Facilities under ORS 326.125  (2)
+to (6).
+(10) Each fiscal year, the Department of  Education shall transfer to the Pediatric Nursing Fa-
+cility  Account  established in ORS 327.022 the amount necessary to pay the costs of educational
+services provided to students admitted to pediatric nursing facilities as provided in ORS 343.941.
+(11) Each fiscal year, the Department of Education shall transfer the amount  of $35 million from
+the State School Fund to the High Cost Disabilities Account established in ORS 327.348.
+(12)(a) Each biennium, the Department of Education shall transfer $33 million from the  State
+School Fund to the Network of Quality Teaching and Learning Fund established  under ORS 342.953.
+(b) For the purpose of making the transfer under this subsection:
+Enrolled Senate Bill 1062 (SB 1062-B) Page 4
+(A) The  total amount available for all distributions from the State School Fund shall be reduced
+by $5 million;
+(B) The amount distributed to school  districts from the State School Fund under this section and
+ORS 327.013 shall be reduced by $14 million; and
+(C) The amount distributed to education  service districts from the State School Fund under this
+section and ORS 327.019 shall be reduced by $14 million.
+(c) For each biennium, the amounts identified  in paragraph (b)(B) and (C) of this subsection shall
+be adjusted by the same  percentage by which the amount appropriated to the State School Fund for
+that biennium  is increased or decreased compared with the preceding biennium, as determined by
+the Department of Education after consultation with the Legislative Fiscal Officer.
+(13) Each  biennium, the Department of Education shall transfer $12.5 million from the State
+School Fund to the Statewide English Language  Learner Program Account established under ORS
+327.344.
+(14) Each fiscal  year, the Department of Education may expend up to $550,000 from the State
+School Fund for the contract described in ORS 329.488. The amount distributed to education service
+districts from the State School Fund under this section  and ORS 327.019 shall be reduced by the
+amount expended by the department under this subsection.
+(15) Each biennium, the Department of Education  may expend up to $350,000 from the State
+School Fund to provide  administration of and support for the development of talented and gifted
+education under ORS 343.404.
+(16) Each biennium, the Department of Education  may expend up to $150,000 from the State
+School Fund for the administration of a program to  increase the number of speech-language
+pathologists and speech-language pathology assistants under ORS 348.394 to 348.406.
+(17) Each fiscal year,  the Department of Education shall transfer the amount of $2.5 million from
+the State School Fund to the Small School District Supplement Fund  established in section 3,
+chapter 735, Oregon Laws 2013.
+(18) Each biennium, the Department  of Education shall transfer $2 million from the State
+School Fund for  deposit to the Healthy School Facilities Fund established under section 3 of
+this 2017 Act. Notwithstanding section 3 of this 2017 Act, the department may expend moneys
+received in the Healthy School Facilities  Fund under this subsection only as grants for costs
+associated with testing for elevated levels of lead in water used  for drinking or food prepa-
+ration.
+SECTION 6.
+ ORS 327.008, as amended  by section 7, chapter 735, Oregon Laws 2013, section 7,
+chapter 81, Oregon Laws 2014, section  2, chapter 68, Oregon Laws 2015, section 38, chapter 245,
+Oregon Laws 2015, section 2, chapter 555, Oregon  Laws 2015, section 11, chapter 604, Oregon Laws
+2015, section 2, chapter 644, Oregon Laws 2015, and section 8, chapter 783, Oregon  Laws 2015, is
+amended to read:
+327.008. (1)(a) There is established a State School Fund in the General Fund.
+(b) The Department of Education, on  behalf of the State of Oregon, may solicit and accept gifts,
+grants, donations and other moneys from public  and private sources for the State School Fund.
+Moneys received as provided in this paragraph shall be deposited into the State School Fund.
+(c) The State  School Fund shall consist of moneys appropriated by the Legislative Assembly,
+moneys transferred from the Education  Stability Fund and moneys received as provided in para-
+graph (b) of this subsection.
+(d) The State School Fund is continuously appropriated to the Department of Education for the
+purposes of ORS 327.006 to  327.077, 327.095, 327.099, 327.101, 327.125, 327.137, 327.348, 336.575,
+336.580, 336.635, 343.243, 343.533, 343.941 and 343.961.
+(2) There shall be apportioned from the State School Fund to each  school district a State School
+Fund grant, consisting of the positive amount equal to a general purpose grant and a facility  grant
+and a transportation grant and a high cost disabilities grant minus local revenue,  computed as
+provided in ORS 327.011 and 327.013.
+Enrolled Senate Bill 1062 (SB 1062-B) Page 5
+(3) For the first school year  after a public charter school ceases to operate because of dissol-
+ution or closure or because of termination or nonrenewal of  a charter, there shall be apportioned
+from the State School Fund to each school district that had sponsored a  public charter school that
+ceased to operate an amount  equal to the school district’s general purpose grant per extended
+ADMw multiplied by five percent of the ADM of the public charter school for the previous  school
+year.
+(4) There shall be apportioned  from the State School Fund to each education service district a
+State School Fund grant as calculated under ORS 327.019.
+(5) All figures used in the determination of the distribution of the State School Fund  shall be
+estimates for the same year as the distribution occurs, unless otherwise specified.
+(6) Numbers of students in average daily membership used in the  distribution formula shall be
+the numbers as of June of the year of distribution.
+(7) A school district  may not use the portion of the State School Fund grant that is attributable
+to the facility grant for capital construction costs.
+(8) The total amount  of the State School Fund that is distributed as facility grants may not ex-
+ceed [ $9] $7 million in any biennium. If  the total amount to be distributed as facility grants exceeds
+this limitation, the Department of Education shall prorate the amount of  funds available for facility
+grants among those school districts that qualified for a facility grant. If the total amount to be dis-
+tributed as facility grants does  not exceed this limitation, any remaining amounts shall be expended
+for expenses incurred by the Office of School Facilities as provided in ORS 326.125 (1).
+(9) Each biennium, the Department of Education may expend from the  State School Fund no
+more than $6 million for expenses incurred by the Office of School Facilities under ORS 326.125  (2)
+to (6).
+(10) Each fiscal year, the Department of  Education shall transfer to the Pediatric Nursing Fa-
+cility  Account  established in ORS 327.022 the amount necessary to pay the costs of educational
+services provided to students admitted to pediatric nursing facilities as provided in ORS 343.941.
+(11) Each fiscal year, the Department of Education shall transfer the amount  of $35 million from
+the State School Fund to the High Cost Disabilities Account established in ORS 327.348.
+(12)(a) Each biennium, the Department of Education shall transfer $33 million from the  State
+School Fund to the Network of Quality Teaching and Learning Fund established  under ORS 342.953.
+(b) For the purpose of making the transfer under this subsection:
+(A) The  total amount available for all distributions from the State School Fund shall be reduced
+by $5 million;
+(B) The amount distributed to school  districts from the State School Fund under this section and
+ORS 327.013 shall be reduced by $14 million; and
+(C) The amount distributed to education  service districts from the State School Fund under this
+section and ORS 327.019 shall be reduced by $14 million.
+(c) For each biennium, the amounts identified  in paragraph (b)(B) and (C) of this subsection shall
+be adjusted by the same  percentage by which the amount appropriated to the State School Fund for
+that biennium is increased or decreased compared with the preceding biennium, as determined  by
+the Department of Education after consultation with the Legislative Fiscal Officer.
+(13) Each biennium, the Department of Education shall transfer $12.5 million from the  State
+School Fund to the Statewide English Language  Learner Program Account established under ORS
+327.344.
+(14) Each fiscal year, the Department of Education may expend up to $550,000 from  the State
+School Fund for the contract described in ORS 329.488. The amount distributed to education service
+districts from the State School Fund under this section  and ORS 327.019 shall be reduced by the
+amount expended by the department under this subsection.
+(15) Each biennium, the Department of Education may expend  up to $350,000 from the State
+School Fund to provide administration of and support for the development of  talented and gifted
+education under ORS 343.404.
+Enrolled Senate Bill 1062 (SB 1062-B) Page 6
+(16) Each biennium, the Department of Education may expend  up to $150,000 from the State
+School Fund for the administration of  a program to increase the number of speech-language
+pathologists and speech-language pathology assistants under ORS 348.394 to 348.406.
+(17) Each biennium, the Department  of Education shall transfer $2 million from the State
+School Fund for  deposit to the Healthy School Facilities Fund established under section 3 of
+this 2017 Act. Notwithstanding section 3 of this 2017 Act, the department may expend moneys
+received in the Healthy School Facilities  Fund under this subsection only as grants for costs
+associated with testing for elevated levels of lead in water used  for drinking or food prepa-
+ration.
+SECTION 7.  (1) The Department of Education shall develop and adopt  a model plan under
+section 1  of this 2017 Act and make the plan available to school districts, education service
+districts and public charter schools no later than January 1, 2019.
+(2) Each school district, education service district and public  charter school shall adopt
+a plan meeting the requirements of section 1 of this 2017 Act  no later than July 1, 2019. A
+plan must include an implementation schedule.
+SECTION 8. The amendments to ORS 327.008 by sections 5  and 6 of this 2017 Act apply
+to biennia beginning on or after July 1, 2019.
+SECTION 9. The Oregon Health Authority,  in consultation with the Department of Edu-
+cation, representatives of school  districts, education service districts and public charter
+schools and other interested stakeholders, shall adopt mandatory  guidelines no later than
+January 1, 2019, for use by school  districts, education service districts and public charter
+schools in testing for, and reducing exposure to, elevated  levels of lead in water used for
+drinking or food preparation under plans described in section 1 of this 2017 Act.
+SECTION 10. In addition to and  not in lieu of any other appropriation, there is appro-
+priated to the Department of Education, for the biennium beginning July  1, 2017, out of the
+General Fund, the amount of $111,577, which may be expended for carrying out  sections 1,
+2, 7 and 9 of this 2017 Act.
+SECTION 11. This 2017 Act being necessary for the immediate preservation  of the public
+peace, health and safety, an emergency  is declared to exist, and this 2017 Act takes effect
+July 1, 2017.
+Enrolled Senate Bill 1062 (SB 1062-B) Page 7
+Passed by Senate July 4, 2017
+..................................................................................
+Lori L. Brocker, Secretary of Senate
+..................................................................................
+Peter Courtney, President of Senate
+Passed by House July 7, 2017
+..................................................................................
+Tina Kotek, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2017
+Approved:
+........................M.,........................................................., 2017
+..................................................................................
+Kate Brown, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2017
+..................................................................................
+Dennis Richardson, Secretary of State
+Enrolled Senate Bill 1062 (SB 1062-B) Page 8
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 187.010, ORS 286A.801, ORS 326.125, ORS 327.006, ORS 327.008, ORS 327.011, ORS 327.013, ORS 327.019, ORS 327.022, ORS 327.344, ORS 327.348, ORS 329.488, ORS 332.167, ORS 342.953, ORS 343.404, ORS 343.941, ORS 348.394, ORS 634.700
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-27, sha256 `623e8c110a8b4b714fc96fc96a627e0c134ff7665927fbdd0721302869d9c3d3` (snapshot `_meta/snapshots/measure-2017r1-sb1062-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB1062/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `5d304339bf7d388fd721855d6254bc8123dcd7f67935eb65c7fd4982357d7485` (snapshot `_meta/snapshots/measure-2017r1-sb1062-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB1062/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1062` (part of the batched per-session fetch), sha256 `8a531c771f7c0531d1b6a422bf18d037d210e0e6cb92f247a009fd99e6400c68` of the shared session snapshot `_meta/snapshots/measures-2017r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

@@ -1,0 +1,212 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Senate Bill 310
+Sponsored by Senator RILEY (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Prohibits private entities from using face recognition technology in place of public accommo-
+dation. Provides for private right of action  against private entity that violates prohibition on use
+of face recognition technology in place of public accommodation.
+Requires Bureau of Labor and Industries to study  adoption of comprehensive framework for
+addressing appropriate use or prohibition  of face recognition technology and report to interim Joint
+Legislative Committee on Information Management and Technology no later  than September 15,
+2023.
+A BILL FOR AN ACT
+Relating to face recognition technology.
+Whereas there is a need for privacy assessment and comprehensive structures to address  ten-
+sions with transparency around the sharing of data collected by private entities; and
+Whereas individuals should enjoy access to public  spaces with a reasonable assumption of ano-
+nymity and personal privacy; and
+Whereas private entities should prioritize addressing inequities and disparities when using  data
+and should prioritize  investing in technologies that improve people’s lives, with a specific focus on
+communities of color and communities with disabilities; and
+Whereas underserved communities are most at risk  in the digital age and equity and human
+rights should be priorities in the development of privacy strategies; and
+Whereas human rights principles such as privacy and freedom of expression must  guide the use
+of face recognition data digital services; and
+Whereas it is essential to have an informed public discussion  about decisions related to the use
+of face recognition technology; and
+Whereas the use of face recognition technology raises general concerns around privacy,
+intrusiveness and lack of transparency; and
+Whereas United States  federal law does not currently regulate face recognition technologies;
+and
+Whereas existing methodologies assessing bias in face  recognition technologies show progress
+on their performance,  but there is still no formal certification process available that includes the full
+lifecycle of sensitive information collected from individuals; and
+Whereas it is essential that frameworks on privacy include  impacted communities and trans-
+parent decision-making authority to regulate  and oversee that the use of face recognition technology
+does not harmfully impact civil rights and civil liberties; and
+Whereas the Legislative  Assembly desires to adopt a ban on the use of face recognition tech-
+nology by private entities in places of public accommodation; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1238
+SB 310
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 1.
+As used in sections 1 to 3 of this 2021 Act:
+(1) “Face recognition” means the automated searching for a reference image in an image
+repository by comparing the facial features of a probe image with the  features of images
+contained in an image repository, and that typically results in either:
+(a) One or more likely match candidates or candidate images, ranked by  computer-
+evaluated similarity; or
+(b) A negative result.
+(2) “Face recognition technology” means an automated or semi-automated process using
+face recognition that assists in identifying, verifying,  detecting or characterizing facial fea-
+tures of an individual or capturing information about an  individual based on an individual’s
+face.
+(3) “Place of public accommodation” has the meaning given that term in ORS 659A.400.
+(4) “Private entity” means a  nongovernmental entity, including but not limited to a cor-
+poration, partnership, company, nonprofit organization or other legal entity or  natural per-
+son.
+(5) “Probe image” means a facial image captured from photo or video.
+SECTION 2.
+(1) Except as provided  in subsection (2) of this section, a private entity
+within this state may not  use face recognition technology in a place of public accommo-
+dation.
+(2) A private entity may use face recognition technology:
+(a) To the extent that such use is necessary to comply with federal, state or local laws;
+(b) For verification purposes  to allow employees of the private entity to access their own
+personal or employer-issued communication and electronic devices; or
+(c) As part of automatic face detection services in social media applications.
+(3) The Bureau  of Labor and Industries shall provide public education regarding the scope
+and limitations of the provisions of this section.
+(4) The Commissioner of the Bureau of Labor  and Industries may adopt rules to imple-
+ment the provisions of this section.
+SECTION 3.
+(1)(a) A person injured by a material violation by a private entity of  section
+2 of this 2021 Act may bring an action against the private entity in circuit court  for damages
+or to obtain injunctive relief  or any other remedy that the court deems appropriate to re-
+quire the private entity to comply with section 2 of this 2021 Act.
+(b) The  court shall award to the prevailing plaintiff in an action under this section the
+amount of damages sustained as a result of the violation or an amount  equal to $1,000 per
+day for a continuing violation, whichever is greater.
+(2) The court shall award reasonable  attorneys fees to the prevailing plaintiff in an action
+under this section unless the court finds that:
+(a) The plaintiff provided to the private entity defendant written  demand for the payment
+of the claim not less than 30 days prior to the commencement of the action; and
+(b) The private entity defendant tendered to the plaintiff, prior to the commencement of
+the action, an amount not less than  the damages awarded to the plaintiff, exclusive of any
+costs, interest and prevailing party fees.
+SECTION 4. (1) As used in this section:
+(a) “Face recognition technology” has the meaning given that term in section 1 of this
+2021 Act.
+[2]
+SB 310
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+(b) “Place of public accommodation” has the meaning given that term in ORS 659A.400.
+(c) “Private entity” has the meaning given that term in section 1 of this 2021 Act.
+(2) The Bureau of Labor and Industries, in consultation with any relevant state  agencies,
+shall study the adoption of a comprehensive framework for addressing  the appropriate use
+or prohibition of face recognition technology and the information derived from face recogni-
+tion technology in places of public accommodation.
+(3) The study required by this section shall include:
+(a) A review of the impacts  of the use of face recognition technology by private entities
+in places of public accommodation, particularly with respect to the impacts such use has on
+historically underserved communities;
+(b) An assessment of the implications  the use of face recognition technology has on pri-
+vate citizen rights to privacy and the protection of personal information;
+(c) The identification of effective privacy assessment tools; and
+(d) The evaluation of successful public engagement processes that  focus on historically
+underserved communities.
+(4) The bureau shall  provide the results of the study in a report that may include rec-
+ommendations for legislation, in the  manner provided in ORS 192.245, to the interim Joint
+Legislative Committee on  Information Management and Technology no later than September
+15, 2023.
+SECTION 5.
+Section 4 of this 2021 Act is repealed on January 2, 2024.
+[3]

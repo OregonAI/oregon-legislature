@@ -1,0 +1,231 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+Senate Bill 342
+Sponsored by Senator BAERTSCHIGER JR (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires agency, board,  commission or other instrumentality of state that lawfully seizes firearm
+to transfer firearm to  Department of State Lands for disposition as unclaimed property. Requires
+department to deposit proceeds of sale of firearm into Emergency Housing  Account and directs
+Housing and Community Services Department to disburse moneys deposited  for purposes of assisting
+persons who are homeless or at risk of becoming homeless.
+A BILL FOR AN ACT
+Relating to the disposition of firearms lawfully  seized by the state; creating new provisions; and
+amending ORS 131.597, 131A.350 and 166.279.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. (1) Notwithstanding any other law governing dispositions of firearms that
+an agency, board, commission or other instrumentality of the  state seizes or obtains by
+forfeiture, an agency, board, commission or other instrumentality of  the state that lawfully
+seizes, or obtains by forfeiture, a firearm under circumstances  in which the original owner
+of the firearm may not lawfully demand the return of the firearm  shall transfer the firearm
+as soon as is practicable to the Department of  State Lands for disposition in accordance with
+ORS 98.382. For  the purpose of the disposition, a firearm lawfully seized as described in this
+subsection is unclaimed property.
+(2) Notwithstanding the requirements in ORS 98.386 for disposing  of the proceeds of a
+sale of unclaimed property  under ORS 98.382, the department shall deposit the proceeds of
+a sale of a firearm seized as described in subsection (1) of this section into  the State Treas-
+ury to the  credit of the Emergency Housing Account created under ORS 458.620. The Housing
+and Community Services  Department shall disburse moneys deposited into the Emergency
+Housing Account in accordance with this section for the purposes set forth in ORS 458.650.
+SECTION 2.  ORS 131.597 is amended to read:
+131.597. (1) After the seizing agency distributes property under  ORS 131.588, and when the
+seizing agency is the state or  when the state is the recipient of property forfeited under ORS 131.550
+to 131.600, the seizing agency shall dispose of and distribute property as follows:
+(a) The seizing agency shall pay costs first from the property or its proceeds. As  used in this
+subsection, “costs” includes the expenses of publication, service of notices,  towing, storage and
+servicing or maintaining the seized property under ORS 131.564.
+(b) After costs have been paid, the seizing agency shall distribute to the victim  any amount the
+seizing agency was ordered to distribute under ORS 131.588 (4).
+(c) Of  the property remaining after costs have been paid under paragraph (a) of this subsection
+and distributions have been made under paragraph (b) of this subsection, the seizing agency  shall
+distribute:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1847
+SB 342
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) Three percent to the Asset Forfeiture Oversight Account established in ORS 131A.460;
+(B) Seven percent  to the Illegal Drug Cleanup Fund established in ORS 475.495 for the purposes
+specified in ORS 475.495 (5) and (6);
+(C) Ten percent to the state General Fund;
+(D) Subject  to subsection (5) of this section, 40 percent to the Department of State Police or the
+Department of Justice for official law enforcement use; and
+(E) Forty percent to the Drug Prevention and Education Fund established in ORS 430.422.
+(2)(a) Any amount paid to or retained by the Department of Justice under subsection (1) of  this
+section must be deposited in the Criminal Justice Revolving Account in the State Treasury.
+(b) Any amount paid to or retained by the Department of State Police  under subsection (1) of
+this section must be deposited in the State Police Account.
+(3) The state may:
+(a) With written authorization from the district attorney for the  jurisdiction in which the prop-
+erty was seized, destroy any [ firearms or ] controlled substances.
+(b) Sell the forfeited property by public  or other commercially reasonable sale and pay from the
+proceeds the expenses of keeping and selling the property.
+(c) Retain any vehicles[ , firearms ] or other equipment usable for law  enforcement purposes, for
+official law enforcement use directly by the state.
+(d) Lend or transfer  any vehicles[ , firearms ] or other equipment usable for law enforcement
+purposes to  any federal, state or local law enforcement agency or district attorney for official law
+enforcement use directly by the transferee entity.
+(4) When the state has entered into an intergovernmental agreement with one or  more political
+subdivisions  under  ORS 131.591, or when a law enforcement agency of this state has entered into
+an agreement with another law enforcement agency of this  state, an equitable portion of the for-
+feited property distributed under subsection (1)(c)(D) of  this section must be distributed to each
+agency participating in the seizure or criminal forfeiture as provided by the agreement.
+(5) The property distributed under subsection (1)(c)(D) of this section, including any proceeds
+received  by  the state under an intergovernmental agreement or under an agreement between state
+law enforcement agencies, must be divided as follows:
+(a) When no  law enforcement agency other than the Department of Justice participated in the
+seizure or forfeiture, or  when the Department of Justice has entered into an agreement under sub-
+section (4) of this section, the property must be deposited in the Criminal Justice Revolving Account.
+(b) When  no law enforcement agency other than the Department of State Police participated in
+the seizure or forfeiture, or when the Department of State Police has entered into an agreement
+under subsection (4) of this section, the property must be deposited in the State Police Account.
+(6) The seizing agency may sell as much  property as may be needed to make the distributions
+required by subsection (1) of  this section. The seizing agency shall make distributions to the Asset
+Forfeiture Oversight Account and the Illegal Drug Cleanup Fund that are required by  subsection (1)
+of this section  once every three months. The distributions are due within 20 days of the end of each
+quarter. Interest does not accrue on amounts that are paid within the  period specified by this sub-
+section.
+SECTION 3.
+ ORS 131A.350 is amended to read:
+131A.350. Except as otherwise provided by intergovernmental agreement , [and] this chapter  and
+section 1 of this 2019 Act , a forfeiting agency may:
+(1) Sell, lease, lend or transfer forfeited property to any federal, state or  local law enforcement
+[2]
+SB 342
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+agency or district attorney.
+(2) Sell forfeited property by public or other commercially reasonable  sale and pay from the
+proceeds the expenses of keeping and selling the property.
+(3) Retain forfeited property.
+(4) With written authorization from the  district attorney for the county in which the property
+was seized, destroy any forfeited [ firearms or ] controlled substances.
+SECTION 4.
+ ORS 166.279 is amended to read:
+166.279. (1) Except  as provided in subsection (4) of this section, ORS 131.550 to 131.600 do not
+apply to the forfeiture of a firearm or other deadly weapon that was possessed,  used or available for
+use to facilitate a criminal offense.
+(2) Except as provided in subsection (3) of this section, at the time of sentencing for any criminal
+offense in which a firearm or other  deadly weapon was possessed, used or available for use to fa-
+cilitate the offense, the court shall declare the weapon  to be contraband and order that the weapon
+be forfeited.
+(3) If a firearm or other  deadly weapon that was possessed, used or available for use to facilitate
+a criminal offense was stolen from its lawful owner and was recovered from a person other than  the
+lawful owner, the court may not order  that the weapon be forfeited but shall order that the weapon
+be restored to the lawful owner as soon as the weapon is no longer  needed for evidentiary purposes.
+(4) The  court shall release a firearm or other deadly weapon forfeited under subsection (2) of
+this section to the law enforcement agency that seized the weapon. The law enforcement agency
+[may destroy or sell the weapon, use the weapon as a service weapon  or use the weapon for training,
+identification or demonstration purposes. When a weapon is sold pursuant to this subsection,  the law
+enforcement agency shall pay the proceeds from  the sale, less the costs of the sale, as provided in ORS
+131.594 and 131.597] shall transfer the weapon to the Department of State  Lands as provided
+in section 1 of this 2019 Act .
+(5) As used in this section, “deadly weapon” has the meaning given that term in ORS 161.015.
+SECTION 5.
+Section 1 of this 2019 Act applies to firearms that  an agency, board, com-
+mission or other instrumentality of the state lawfully seizes  on or after the effective date
+of this 2019 Act.
+[3]

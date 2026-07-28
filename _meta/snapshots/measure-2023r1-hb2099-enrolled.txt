@@ -1,0 +1,1809 @@
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+Enrolled
+House Bill 2099
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request  of Joint
+Committee on Transportation for Representative Susan McLain, former Senator Lee Beyer)
+CHAPTER .................................................
+AN ACT
+Relating to transportation; creating new provisions; amending ORS 87.152, 153.083, 184.742, 319.520,
+319.530, 319.550, 366.805, 367.081, 646A.090, 802.031, 802.600, 803.102,  803.120, 803.212, 803.530,
+803.552, 805.103, 805.210, 805.250, 807.080, 807.220, 807.230, 807.310,  809.520, 819.482, 820.110,
+822.015, 822.020, 822.025, 822.027,  822.030, 822.033, 822.035, 822.040, 822.045, 822.050, 822.060,
+822.310, 822.315, 822.515, 822.700  and 822.990; repealing ORS 805.117, 805.242, 822.505, 822.510,
+822.520, 822.525, 822.530 and 822.535; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SAFE ROUTES TO SCHOOL
+SECTION 1.  ORS 184.742 is amended to read:
+184.742. (1) The Oregon Transportation Commission may provide  matching grants under this
+section for safety improvement projects near schools.
+(2) To qualify for a matching grant an applicant shall:
+(a) Demonstrate that  a project fits within the applicable plan developed pursuant to ORS
+195.115;
+(b) Provide a cash match of at least 40 percent of the project’s costs; and
+(c) Provide any other information required by the commission.
+(3) Notwithstanding subsection (2) of this section,  by rule,  the commission may reduce the
+amount the applicant must provide for a cash match.  [ An applicant providing a reduced cash match
+shall provide at least 20 percent of the project’s costs. This subsection applies if: ]
+[(a) The school is located in a city with a population of 5,000 or fewer; ]
+[(b) The project reduces  hazards within a safety corridor, as defined by the commission by rule;
+or]
+[(c) The school site qualifies  for assistance under Chapter I of Title I of the federal Elementary
+and Secondary Education Act of 1965. ]
+(4) The commission shall prioritize the  expenditure of funds as authorized under this section for
+projects that are located within a [ one-mile] two-mile  radius  of a school that serves students in
+prekindergarten, kindergarten or  grades 1 through [ 8] 12 , or any combination of those grade
+levels[, or a school that serves students in kindergarten through grade 12 ].
+(5) The matching  grants shall be used to reduce barriers and hazards to children walking or
+bicycling to and from school, including but not limited to safety improvement projects that:
+(a) Improve sidewalks;
+Enrolled House Bill 2099 (HB 2099-A) Page 1
+(b) Reduce vehicle speeds;
+(c) Improve pedestrian and bicycle crossings; or
+(d) Create or improve bicycle lanes.
+(6) The commission may adopt rules specifying the application process and the selection  criteria
+that will be used in awarding matching grants.
+CONNECT OREGON
+SECTION 2.
+ ORS 367.081 is amended to read:
+367.081. (1) Each biennium, the Department of Transportation may provide  grants for transpor-
+tation projects under ORS 367.080 only if the department determines that $50 million or  more will
+be available in the Connect  Oregon Fund for [ the biennium in which the grants are provided ] grants
+awarded under ORS 367.080 to 367.086.
+(2) The department may use up to one percent of the amounts  available within the Connect
+Oregon Fund to pay administrative costs incurred by the department in carrying  out the provisions
+of ORS 367.080 to 367.086.
+(3) Each biennium, the department shall transfer seven percent of the moneys  in the Connect
+Oregon Fund to the Multimodal Active  Transportation Fund established under ORS 367.091 for the
+purpose of providing grants for bicycle and pedestrian transportation projects.
+USE FUEL
+SECTION 3.  ORS 319.550 is amended to read:
+319.550. (1) Except as provided in this section, a person may not use  fuel in a motor vehicle in
+this state unless the person holds a valid user’s license.
+(2) A nonresident may use fuel in a motor vehicle not registered in Oregon for a period not
+exceeding 30  consecutive days without obtaining a user’s license or the emblem  issued under ORS
+319.600, if, for all fuel used in a motor vehicle in this state, the nonresident pays to a seller,  at the
+time of the sale, the tax provided in ORS 319.530.
+(3) A user’s  license is not required for a person who uses fuel in a motor vehicle [ with a com-
+bined weight  of 26,000 pounds or less ] if, for all fuel used in a motor vehicle in this state, the person
+pays to a seller, at the time of the sale, the tax provided in ORS 319.530.
+(4) A user’s license is not required for a person who is subject to the weight-mile tax
+described in ORS 825.474 and 825.476 or the flat fee rate described in ORS 825.480.
+[(4)(a)] (5)(a)  A user’s license is not required for a person who uses fuel as described in  ORS
+319.520 (7) in the vehicles  specified in this subsection if the person pays to a seller, at the time of
+the sale, the tax provided in ORS 319.530.
+(b) Paragraph (a) of this subsection applies to the following vehicles:
+(A) Motor homes as defined in ORS 801.350.
+(B) Recreational vehicles as defined in ORS 174.101.
+[(5)] (6) A user’s license is not required for a person who uses fuel in a motor vehicle:
+(a) Metered use by which is subject to the per-mile road usage charge  imposed under ORS
+319.885; and
+(b) That also uses fuels subject to ORS 319.510 to 319.880.
+[(6)] (7) A user’s license is not required for a person who  uses fuel in a motor vehicle on which
+an emblem issued for the motor vehicle pursuant to ORS 319.535 is displayed.
+SECTION 4.
+ ORS 319.520 is amended to read:
+319.520. As used in ORS 319.510 to 319.880, unless the context clearly indicates a  different
+meaning:
+(1) “Cardlock card” means a fuel card:
+(a) Capable of generating an electronic invoice or electronic statement that includes the  infor-
+mation required by ORS 319.671 and the applicable fuel tax amount;
+Enrolled House Bill 2099 (HB 2099-A) Page 2
+(b) Issued for a specific vehicle, a specific piece of equipment or a group of equipment;
+(c) That includes the qualifying information,  as designated by the Department of Transportation
+by rule, that is printed on the electronic invoice or electronic statement;
+(d) That allows the tax  status of the cardlock card to be indicated on the electronic invoice or
+electronic statement and includes state tax as a separate item on the invoice or statement; and
+(e) That  allows a cardlock card issuer to generate a statement recording, by fuel type, gallons
+of fuel purchased for domestic and foreign customers each month.
+(2) “Combined weight” means the total empty  weight of all vehicles in a combination plus the
+total weight of the load carried on that combination of vehicles.
+(3) “Delinquent” means having failed to pay a tax or penalty within the time provided by law.
+(4) “Department” means the Department of Transportation.
+(5) “Domestic customer” means a customer making a purchase  at a nonretail facility owned by
+the cardlock card issuer.
+(6) “Foreign customer” means a customer making a purchase at a nonretail facility owned by
+a seller other than the cardlock card issuer.
+(7) “Fuel” means any combustible gas, liquid or material of a kind used for the  generation of
+power to propel a motor vehicle on the highways except motor vehicle fuel as defined in  ORS
+319.010.
+(8) “Highway” means  every way, thoroughfare and place, of whatever nature, open to the use
+of the public for the purpose of vehicular travel.
+(9) “Light weight”  means the weight of a vehicle when fully equipped for moving over the
+highway.
+(10) “Liquefied petroleum gas” includes propane, pentane  and any mixture of propane and
+pentane.
+[(10)] (11) “Motor vehicle” means every self-propelled vehicle operated on  the highway, except
+an implement of husbandry used in agricultural operations and only incidentally  operated or moved
+upon the highway.
+[(11)] (12) “Nonretail facility” means:
+(a) An unattended facility accessible only by cardlock  card and not associated with a retail fa-
+cility; or
+(b) An unattended portion of a retail facility separate from the retail  operations and accessible
+only by cardlock card.
+[(12)] (13) “Person” means  any individual, firm, copartnership, joint venture, association, corpo-
+ration, trust, receiver or any group or combination acting as a unit.
+[(13)] (14) “Seller” means:
+(a) A person that sells fuel to a user; or
+(b) If the fuel is dispensed at a nonretail facility, the person that owns  the user’s accounts and
+bills the user for fuel purchased at a nonretail facility.
+[(14)] (15) “To sell fuel for use in a motor vehicle” means to dispense or place  fuel for a price
+into a receptacle on a motor vehicle, from  which receptacle the fuel is supplied to propel the motor
+vehicle.
+[(15)] (16) “To use fuel in a  motor vehicle” means to receive into any receptacle on a motor
+vehicle, fuel to be consumed in propelling the motor vehicle  on the highways of this state; and, if
+the fuel is received into the receptacle outside the taxing  jurisdiction of the state, “to use fuel in
+a motor vehicle” means to consume in propelling the motor vehicle on the highways of this state.
+SECTION 5.
+ ORS 319.530 is amended to read:
+319.530. (1) To compensate this state partially for the use of its highways, an excise tax  hereby
+is imposed at the rate of 34 cents per gallon on the use of fuel in a motor vehicle.
+(2) Except as otherwise provided in subsections (3) [ and (4)] to (6)  of this section, 100 cubic feet
+of fuel used or sold in  a gaseous state, measured at 14.73 pounds per square inch of pressure at 60
+degrees Fahrenheit, is taxable at the same rate as a gallon of liquid fuel.
+Enrolled House Bill 2099 (HB 2099-A) Page 3
+(3) [ One hundred twenty ] 123.57 cubic feet , or 5.66 pounds,  of compressed natural gas used  or
+sold in a gaseous state[ , measured at 14.73 pounds per square inch of  pressure at 60 degrees
+Fahrenheit,] is taxable at the same rate as [ a gallon of liquid fuel ] one gasoline gallon.
+[(4) One and  three-tenths liquid gallons of propane at 60 degrees Fahrenheit is taxable at the same
+rate as a gallon of other liquid fuel. ]
+(4) 1.353 gallons, or 5.75 pounds, of  liquefied petroleum gas is taxable at the same rate
+as one gasoline gallon.
+(5) 1.71 gallons, or 6.059 pounds, of liquefied natural gas is taxable at the same rate  as
+one diesel gallon.
+(6) One kilogram of hydrogen is taxable at the same rate as one gasoline gallon.
+SMALL CITY ALLOCATION
+SECTION 6.  ORS 366.805 is amended to read:
+366.805. (1) Except as provided in subsection (2) of this section, the appropriation specified in
+ORS 366.800 shall be allocated to the cities as  provided in this subsection. The moneys subject to
+allocation under this subsection shall be  distributed by the Department of Transportation according
+to the following:
+(a) The moneys shall be distributed to all the cities.
+(b) Each city shall receive such share of the moneys as its population bears to the total  popu-
+lation of the cities.
+(2) Each  year, the sum of $2,500,000 shall be withdrawn from the appropriation specified in ORS
+366.800 and $2,500,000 shall be withdrawn  from moneys available to the Department of Transporta-
+tion from the State Highway  Fund. The sums withdrawn shall be transferred to a separate account
+to be administered by the Department of Transportation.  The following apply to the account de-
+scribed in this subsection:
+(a) Money from the account shall be used only [ upon streets ] on roads :
+(A) That are not a part  of the state highway system , with the exception of project elements
+that are required to comply with federal or state law ;
+(B) That are within cities with populations of 5,000 or fewer persons; and
+(C) That  are inadequate for the capacity the [ streets serve ] roads serve  or are in a condition
+detrimental to safety.
+(b) To the extent moneys are available to fund whole projects,  all moneys in the  account
+shall be [ allotted] allocated each year.
+(c) Subject  to paragraph (d) of this subsection, the department shall determine [ the distribution
+of the expenditures after considering applications from the cities submitted to  the department ] annual
+allocation after considering applications, including project budgets, submitted by the cities
+to the department .
+(d) The department may enter into agreements  with cities upon the advice and counsel of the
+small city  advisory committee to determine allocation based on those applications  [ organiza-
+tions representing cities to establish: ]
+[(A) The method of allotting moneys from the account; or ]
+[(B) The method of  considering applications from cities and determining distribution based on the
+applications].
+(3) The Director of Transportation shall establish a small city advisory committee. The small
+city advisory committee shall review  department  recommendations and approve  applications
+submitted by small cities [ and shall recommend applications for approval ] to  the director. In consul-
+tation with the League  of Oregon Cities, the director shall appoint to the  small city  advisory
+committee one representative of a small city in each of the five regions of this state.
+(4) For purposes of this section:
+(a) Region one consists of Clackamas, Hood River, Multnomah and Washington Counties.
+Enrolled House Bill 2099 (HB 2099-A) Page 4
+(b) Region two consists of Benton, Clatsop, Columbia, Lane, Lincoln,  Linn, Marion, Polk,
+Tillamook and Yamhill Counties.
+(c) Region three consists of Coos, Curry, Douglas, Jackson and Josephine Counties.
+(d) Region four consists  of Crook, Deschutes, Gilliam, Jefferson, Klamath, Lake, Sherman, Wasco
+and Wheeler Counties.
+(e) Region five consists of  Baker, Grant, Harney, Malheur, Morrow, Umatilla, Union and
+Wallowa Counties.
+DRIVING PRIVILEGES
+SECTION 7.
+Section 8 of this 2023 Act is added to and made a part of the Oregon Vehicle
+Code.
+SECTION 8. (1) The Department of  Transportation shall adopt rules necessary to ad-
+minister the federal Drug and Alcohol Clearinghouse.
+(2) The department may not issue  or renew commercial driving privileges and may cancel
+or suspend commercial driving privileges if a person has not complied with the  rules estab-
+lished under this section.
+(3) A person is entitled to an administrative  review under ORS 809.440 when the depart-
+ment does not issue or renew commercial driving privileges under this section or  cancels or
+suspends commercial driving privileges under this section.
+SECTION 9.  ORS 807.080 is amended to read:
+807.080. [(1) The Department of  Transportation, by rule, shall provide for the following in a man-
+ner consistent with this section: ]
+[(a) The issuance of driver competency testing certificates. ]
+[(b) The regulation of persons issued driver competency testing certificates. ]
+[(2) A person issued a driver competency testing certificate  under this section may certify, in a
+manner established by the department, the competency of drivers to safely exercise driving  privileges
+granted only under one or more of the following: ]
+[(a) A Class A commercial driver license. ]
+[(b) A Class B commercial driver license. ]
+[(c) A Class C commercial driver license. ]
+[(d) An endorsement related to a commercial driver license. ]
+[(3) The department  may waive an actual demonstration of ability to operate a motor vehicle under
+ORS 807.070 for an applicant who is certified by the holder of a driver competency testing certificate
+as competent to exercise the driving privileges in the class of license  or in the endorsement sought by
+the applicant.]
+[(4) The rules adopted by the department under this section may establish reasonable fees for the
+issuance of a certificate or as part of any program  of regulating certificate holders that is established
+by the department. ]
+[(5) When adopting rules under this section, the department may: ]
+[(a) Make the  certificate renewable upon any basis determined convenient by the department and
+may include  provisions for cancellation, revocation or suspension of certificates or for probation of
+certificate holders.]
+[(b) Provide for the issuance of certifications allowing the holder  to certify competency in several
+classes or  types of driving privileges or limiting the classes or types of driving privileges for which the
+holder may certify competency. ]
+[(c) Establish the forms of certificates to be issued. ]
+[(d) Establish  and require forms that are to be used by certificate holders in certifying
+competency.]
+[(e) Establish any qualifications or requirements for obtaining a  certificate that the department
+determines necessary to protect the interests of persons seeking certification by certificate holders. ]
+Enrolled House Bill 2099 (HB 2099-A) Page 5
+[(f) Issue certificates to publicly owned and operated educational facilities to allow programs for
+certification of competency. ]
+[(g) Issue  certificates to employers to allow the employers to establish programs primarily for the
+certification of employees’ competency. The department may  provide that programs established under
+this paragraph may be operated without driver training school certificates under  ORS 822.500 and
+without driver training instructor certificates under ORS 822.525. ]
+[(h) Establish any other  provisions or requirements necessary to carry out the purposes of this
+section.]
+(1) The  Department of Transportation may adopt rules and enter into contracts neces-
+sary for the regulation and certification of persons and organizations authorized  to certify
+an individual’s competency to safely operate a motor  vehicle, including a commercial motor
+vehicle, on behalf of the department.
+(2) Rules adopted under this section may include, but are not limited to, the following:
+(a) Establishing methods and procedures for the testing  of competency to operate dif-
+ferent types of motor vehicles.
+(b) Establishing the manner and mechanism by which test results shall  be sent to the
+department.
+(c) Establishing reasonable fees as part of any program for regulation created  by the
+department under this section.
+(d) Establishing grounds for suspension, cancellation or revocation of  a person’s or
+organization’s authorization to certify competency to operate motor vehicles.
+(e) Establishing requirements for records retention.
+(f) Establishing requirements for inspections of premises, investigations and monitoring,
+including covert monitoring, to ensure that testing is conducted in strict  accord with rules
+adopted under this section.
+(g) Establishing bond and insurance requirements.
+(3) In adopting rules under this section, the department shall take into consideration the
+regulations and laws of the federal government.
+SECTION 10.
+ ORS 807.220 is amended to read:
+807.220. (1) The Department of Transportation shall provide for the issuance of emergency driver
+permits in a manner consistent with this section.
+(2) Except as  otherwise provided in this section an emergency driver permit is subject to the
+fees, provisions, conditions, prohibitions and penalties applicable to a Class C  driver license.
+(3) The following apply to an emergency driver permit:
+(a) The department may issue an emergency driver permit to a person 14 years of  age or older.
+(b) The department shall  place restrictions on the permit that designate the routes over which
+the permit is valid. The department shall designate  routes it determines necessary from the facts
+creating the emergency.
+(c) The permit shall only be issued if the  department is satisfied that an emergency exists that
+requires operation of a motor vehicle by the applicant.
+(d) The department may establish a form for the permit that differs from the  form required for
+a license.
+(e) The  only fee required for issuance of the permit is the emergency driver permit fee under
+ORS 807.370.
+(f) The department may establish a period  for the expiration of the permit that coincides with
+the end of the emergency that is the basis for the permit.
+(g) The department shall cancel the permit if  the department determines that the holder of the
+permit has operated a motor vehicle over any highway or for any purpose other than  one approved
+under the permit.
+(h) If an emergency driver permit is canceled, the person issued the permit is ineligible  to be
+issued another emergency driver permit for a period of one year.
+Enrolled House Bill 2099 (HB 2099-A) Page 6
+(i) In addition to any other application requirements for the emergency driver permit,  the ap-
+plicant must obtain the [ endorsement on the application ] approval of the sheriff of the county in
+which the applicant resides.
+(4) The department may issue an emergency driver permit, if the person qualifies for the permit,
+to a person whose driving  privileges are suspended under ORS 809.280 because the department has
+received an order suspending driving privileges under ORS 809.260. In addition  to other emergen-
+cies, a situation that leaves the applicant with no alternative means to  travel to and from school is
+an emergency for purposes of a permit issued under this subsection.
+SECTION 11.  ORS 807.230 is amended to read:
+807.230. The Department of Transportation shall  provide for issuance of special student driver
+permits in a manner consistent with this section. A  special student driver permit grants the driving
+privileges provided in this section or under  the permit. Except as otherwise provided in this section,
+a special student driver permit is subject to the fees, provisions, conditions, prohibitions and penal-
+ties applicable to a Class C  driver license. The following apply to a special student driver permit:
+(1) The department may issue a  special student driver permit to a person 14 years of age or
+older.
+(2) The department shall  place restrictions on the permit to limit operation of a vehicle under
+the permit to operation necessary as  a means of transportation to or from the school, college or
+other educational institution attended by the person to whom the driver permit is issued.
+(3) The permit shall only  be issued if the applicant has no other available means of transporta-
+tion by which to continue the applicant’s education.
+(4) The permit shall only be  issued if the department is satisfied that the applicant has had
+sufficient experience in the operation  of motor vehicles to operate a motor vehicle without endan-
+gering the safety of the public.
+(5) The department  may establish a form for the permit that differs from the form required for
+a license that is issued.
+(6) The only fee required for issuance of the permit is the special student driver permit fee under
+ORS 807.370.
+(7) The department shall cancel the permit if the department  determines that the holder of the
+permit has operated a motor vehicle over any highway or for any purpose other than  as approved
+under the permit.
+(8) If a special student driver permit is canceled, the person issued the permit is ineligible  to
+be issued any license or driver permit until the person is old enough to be eligible for a license.
+(9) In addition to any other application requirements for the special student driver permit, the
+applicant must:
+(a) Certify that the  applicant has no other available means of transportation that would enable
+the applicant to continue the applicant’s education;
+(b) Specify the road or highway over which the applicant desires to operate motor vehicles;
+(c) Obtain the [ endorsement] approval of the sheriff of the county in which the applicant  resides
+and of the principal of the school the applicant attends; and
+(d) Provide any other information required by the department.
+SECTION 12.
+ ORS 807.310 is amended to read:
+807.310. (1) The Department of  Transportation shall provide for the issuance of applicant tem-
+porary driver permits in a manner consistent with this section.
+(2) The department may issue an applicant temporary driver permit to an applicant for a Class
+C driver  license or for a  noncommercial driver permit while the department is determining all facts
+relative to application  for the  Class C  driver license or noncommercial driver permit. The de-
+partment shall set  forth on the applicant temporary driver permit the driving privileges granted
+under the permit.
+(3) The holder of an applicant temporary driver permit must have the temporary driver  permit
+on the holder’s person while operating a motor vehicle. The holder of an applicant temporary  driver
+permit must operate within the driving privileges granted under the temporary driver permit.
+Enrolled House Bill 2099 (HB 2099-A) Page 7
+(4) An  applicant temporary driver permit is valid for a period of 30 days from the date issued.
+The department  may extend the term of the permit for sufficient cause. An extension of the term
+of the permit may not exceed an additional 30 days.
+(5) An applicant temporary driver  permit automatically becomes invalid if the applicant’s license
+or permit is issued or refused for good cause.
+(6) The department may not charge a fee for issuance of an applicant temporary driver permit
+under this section.
+(7) The department  may, by rule, establish when an applicant may be issued a temporary
+driver permit for commercial driving privileges.
+SECTION 13. ORS 809.520, as amended by sections 107 and 108, chapter 630, Oregon Laws 2021,
+is amended to read:
+809.520. (1) Notwithstanding ORS 809.510  (1) to (5) and (7) , the Department  of Transportation
+shall permanently suspend a person’s  commercial driving privileges for the lifetime of the person if
+the department receives a record of conviction for a crime punishable as  a felony in which a motor
+vehicle was used and that  involved the manufacturing, distributing or dispensing of a controlled
+substance, as defined in ORS 475.005. The department may not  reinstate commercial driving privi-
+leges of a person whose commercial driving privileges are suspended under this subsection.
+(2) Notwithstanding ORS 809.510 (1) to (5) and (7) , the department  shall permanently suspend
+a person’s commercial driving privileges for the lifetime of  the person if the department receives a
+record of conviction for a crime in which a commercial motor  vehicle was used and that involved
+an act or practice of severe forms of trafficking in persons as defined by the department by  rule.
+The department may not reinstate commercial driving privileges of  a person whose commercial
+driving privileges are suspended under this subsection.
+(3)(a) Notwithstanding ORS 809.510 (1) to (5) and (7) , the department shall  suspend a person’s
+commercial  driving  privileges for the lifetime of the person if the department receives a second or
+subsequent record, report or notice  described in ORS 809.510  (1) to (5) and (7)  that does not arise
+out of the same incident and that would be grounds for suspension of the person’s  commercial
+driving privileges under ORS 809.510 (1) to (5) and (7) .
+(b) The department may adopt  rules providing for the reinstatement of commercial driving
+privileges suspended under this subsection. The  department may not reinstate commercial driving
+privilege suspensions under this subsection earlier than 10 years after the date  that the person’s
+commercial driving privileges are suspended under paragraph (a) of this subsection.
+(c) The department shall permanently suspend a person’s commercial driving privileges for  the
+lifetime of the person if the department receives a record, report or notice described in paragraph
+(a) of this subsection that relates  to conduct that occurred after the person’s commercial driving
+privileges were reinstated under  paragraph (b) of this subsection. The department may not reinstate
+the commercial driving privileges of a person whose commercial driving privileges  are suspended
+under this paragraph.
+(4) A suspension imposed under this section is consecutive to any other  suspension imposed
+under ORS 809.510, 809.525, 809.530 or 809.535, if  the suspensions do not arise out of the same in-
+cident.
+SECTION 14.
+ ORS 820.110 is amended to read:
+820.110. (1) The State Board of Education shall adopt  and enforce rules to establish require-
+ments of operation, qualifications or special training of drivers and  special accident reports for
+school buses and school activity vehicles.
+(2) The governing board of  a public university listed in ORS 352.002 may adopt and enforce
+separate standards  of the type described under this section for school buses and school activity ve-
+hicles that are under its jurisdiction.
+(3) The rules and standards adopted under this section:
+(a) Are subject  to ORS 820.190 and 820.200 and to any other statute or regulation relating to
+the operation of vehicles, qualifications of drivers and accident reports.
+Enrolled House Bill 2099 (HB 2099-A) Page 8
+(b) Must be consistent with requirements established by statute or by rule adopted under stat-
+utory authority that relate to the same subject.
+(c) May include different requirements for different classes or types of school buses  or school
+activity  vehicles.
+(d) May include any exemptions determined appropriate under ORS 820.150.
+(4) If the Department of Transportation  suspends, cancels or revokes any driving privileges of
+a person who holds a school bus endorsement [ under ORS 807.035 (5) ], the Department of Trans-
+portation shall notify the Department of Education of the suspension, cancellation or revocation.
+WEIGHMASTER AUTHORITY
+SECTION 15.
+ ORS 153.083, as amended by section 4, chapter 64, Oregon Laws  2022, is amended
+to read:
+153.083. (1) Notwithstanding ORS 9.160 and 9.320, in any trial of a  violation, whether created
+by ordinance or statute, in which a city attorney or  district attorney does not appear, the peace
+officer who issued  the citation for the offense may present evidence, examine and cross-examine
+witnesses and make arguments relating to:
+(a) The application of statutes and rules to the facts in the case;
+(b) The literal meaning of the statutes or rules at issue in the case;
+(c) The admissibility of evidence; and
+(d) Proper procedures to be used in the trial.
+(2) Notwithstanding ORS 9.160 and 9.320, in any trial of a violation, whether created by ordi-
+nance or statute, in which a city attorney or district attorney does not appear, the duly authorized
+traffic enforcement agent  who issued the citation for the offense may present the evidence reviewed
+by the agent as the basis for issuing a citation under ORS 810.436, 810.437 or 810.444.
+(3) Notwithstanding ORS 9.160 and  9.320, in any trial of a violation, whether created by
+ordinance or statute, in which a city attorney or district attorney does  not appear, the
+weighmaster or motor carrier enforcement officer who issued  the citation for the offense
+may present the evidence reviewed by the weighmaster or motor carrier enforcement officer
+as the basis for issuing a citation listed under ORS 810.530.
+[(3)(a)] (4)(a)  As used in this section, “duly authorized traffic enforcement agent”  means an in-
+dividual who:
+(A) Is employed, appointed and duly sworn in by the governing body  of the incorporated city in
+which the agent performs the agent’s duties; and
+(B) Has completed all necessary technical, administrative  and other training to review photo-
+graphs and issue citations under ORS 810.436, 810.437 or 810.444.
+(b) Duly authorized traffic enforcement agents  are not police officers as defined in ORS 801.395.
+VEHICLE DEALERS
+SECTION 16.
+ ORS 822.035 is amended to read:
+822.035. The Department of Transportation:
+(1) Upon receipt of an application for a vehicle dealer certificate, shall  examine the application
+and may make an individual investigation relative to statements contained in the application.
+(2) Upon being satisfied that an applicant is entitled  to a vehicle dealer certificate and that the
+proper fees have been paid for the  certificate, shall assign the vehicle dealer a distinctive dealer
+number that allows the dealer to conduct business  under the certificate and shall forward to the
+dealer a vehicle dealer certificate stating thereon the dealer’s number.
+(3) Has authority to determine whether  or not an applicant for a vehicle dealer certificate is a
+vehicle dealer.
+(4) Has authority to make suitable rules for the issuance  of vehicle dealer certificates to expire
+consistently with ORS [ 822.040] 822.020.
+Enrolled House Bill 2099 (HB 2099-A) Page 9
+(5) May make inspections of any vehicle dealer records required under ORS 822.045 and  of any
+vehicles included in a vehicle dealer’s inventory or located on the vehicle dealer’s premises.  In-
+spections authorized by this subsection may be conducted by the department at reasonable
+intervals[ , during normal business hours, ] and may not exceed a scope of inspection necessary for
+the department to determine the following:
+(a) A vehicle dealer’s compliance with statutes regulating vehicle dealers under  the vehicle
+code;
+(b) A vehicle dealer’s compliance with those provisions of the vehicle code regulating  the titling
+and registration of vehicles;
+(c) A vehicle dealer’s compliance with rules adopted by the department relating  to the regu-
+lation of vehicle dealers and the registration and titling of vehicles; and
+(d) The identification of stolen vehicles.
+(6) May make inspections during the normal business hours of the department,  from
+Monday through Friday.
+[(6)] (7)  Shall provide a vehicle dealer with plates or devices authorized under ORS  805.200 to
+allow the exercise of the privileges granted under ORS 822.040.
+[(7)] (8)  May provide a vehicle dealer with identification cards in the names of the owners  of
+the business or in the names of authorized employees of the business.
+[(8)] (9)  May not issue a vehicle dealer certificate under ORS 822.020 to an applicant who has
+been issued a similar certificate from another jurisdiction that has  been revoked or is currently
+suspended unless  the applicant possesses a current, valid vehicle dealer certificate issued under ORS
+822.020.
+[(9)] (10) May not use the revocation  or suspension by another [ state] jurisdiction of a vehicle
+dealer certificate  or similar certificate as a basis for refusing to allow a vehicle dealer holding a
+current, valid vehicle  dealer certificate issued under ORS 822.020 to obtain a vehicle dealer certif-
+icate under ORS 822.020 or a  supplemental certificate under ORS 822.040 [ or to renew a certificate
+under ORS 822.040 ].
+[(10)] (11) May adopt any reasonable rules necessary  for the administration of the laws relating
+to the regulation of vehicle dealers, the issuance of vehicle  dealer certificates, the issuance of ve-
+hicle dealer identification cards,  regulation of vehicle dealers designated as agents under ORS
+802.031 and  the issuance of vehicle dealer plates. The rules adopted under this subsection must be
+consistent with the statutory provisions of the vehicle code. The rules may  include, but are not
+limited to, grounds and procedures for the  revocation, denial, probation or suspension of vehicle
+dealer certificates or of a vehicle dealer’s designation to act as an agent of the department.
+SECTION 17.
+ ORS 822.020 is amended to read:
+822.020. (1) Except as provided in ORS 822.022 and 822.035  [ (8)] (9) , the Department of Trans-
+portation shall issue a vehicle  dealer certificate to any person if the person meets all of the fol-
+lowing requirements:
+[(1)] (a)  The  person must complete the application for a dealer certificate described under ORS
+822.025.
+[(2)] (b)  The person must deliver to the  department a bond or letter of credit that meets the
+requirements under ORS 822.030.
+[(3)] (c)  The person must deliver to the department a certificate of insurance that meets the
+requirements established by ORS 822.033.
+[(4)] (d) The person must pay the fee required under ORS 822.700 for issuance of a vehicle dealer
+certificate.
+[(5)] (e)  The person must  certify completion of the precertification education and test require-
+ments of ORS 822.027 (1)(a) if the  person is a dealer subject to the education and test requirements.
+(2) A vehicle dealer certificate issued or renewed under this section expires three years
+after the date of issuance or renewal.
+(3) A vehicle dealer certificate may be renewed  if the applicant for renewal does all of the
+following:
+Enrolled House Bill 2099 (HB 2099-A) Page 10
+(a) Pays the required fee for renewal under ORS 822.700.
+(b) Delivers to the department a bond that meets the requirements under ORS 822.030.
+(c) Delivers to the department a certificate  of insurance that meets the requirements
+under ORS 822.033.
+(d) Provides the names of all partners or corporate officers.
+(e) Certifies completion  of the continuing education requirements of ORS 822.027 (1)(b)
+if the person is a dealer subject to the education requirements.
+(f) If the dealer offers new recreational vehicles for sale  under the certificate, certifies
+that the dealer maintains a recreational vehicle service facility as listed  in the dealer cer-
+tificate application described in ORS 822.025.
+(4) If a civil penalty assessed under ORS 822.009 remains unpaid after the date of issuance
+of the  final order, the department may refuse to issue or renew a vehicle dealer certificate
+under this section,  until the civil penalty is paid in full or until six years have passed since
+the date of issuance of the final order, whichever occurs first.
+(5) The department may adopt  rules for the issuance and renewal of vehicle dealer cer-
+tificates under this section.
+SECTION 18.
+ ORS 822.040 is amended to read:
+822.040. (1) The holder of a current, valid vehicle dealer certificate issued under ORS  822.020
+may exercise the following privileges under the certificate:
+(a) Subject to ORS 822.045,  a dealer is authorized, without violating ORS  803.025 or 803.300,
+to use and operate over and along  the highways of this state [ all] vehicles displaying the dealer’s
+plates whether registered or not or whether or not  a title is issued for the vehicle[ .] if the vehicle:
+(A) Is owned or controlled by the dealer;
+(B) Is used by the dealer, members of the dealer’s firm, any salesperson thereof or any
+person authorized by the dealer;
+(C) Indicates it is offered for sale; and
+(D) When offered for sale, is available for display  during the vehicle dealer’s normal
+business hours. [This paragraph does not  authorize dealers to use or operate vehicles under dealer
+plates unless the vehicles are actually owned or controlled by the dealer and in actual use by  the
+dealer, members of  the dealer’s firm, any salesperson thereof or any person authorized by the dealer.
+Vehicles operated under dealer plates may  be used for the same purposes as are any other vehicles
+registered in this  state that are registered by payment of the fee under ORS 803.420. This paragraph
+is subject to the limitations under ORS 822.045. ]
+(b) A dealer is entitled to receive dealer plates or devices and  replacement or additional dealer
+plates or devices. As  many additional dealer plates as may be desired may be obtained upon the
+filing of a formal application for  additional plates with the Department of Transportation. The plates
+issued to dealers shall require the payment of fees as provided under ORS 805.250.
+(c) The person  is not subject to the prohibitions and penalties under ORS 822.005 as long as the
+holder’s vehicle dealer business is conducted in a location approved under the certificate.
+(d) The dealer  shall be considered the owner of vehicles manufactured or dealt in by the dealer,
+before delivery and sale of the vehicles, and of all  vehicles in the dealer’s possession and operated
+or driven by the dealer or the dealer’s employees.
+(e) Notwithstanding ORS 825.474, in lieu of paying  the weight-mile tax imposed under ORS
+825.474, the dealer may pay the  fuel taxes imposed under ORS 319.020 and 319.530, when the vehicle:
+(A) Displays the dealer’s plates;
+(B) Is actually owned or controlled by  the dealer and in actual use by the dealer, members of
+the dealer’s firm, any salesperson of the dealer or any person authorized by the dealer;
+(C) Is operated on the highway for the purpose of test driving the vehicle; and
+(D) Is unloaded.
+(2) The holder of a vehicle dealer certificate may open additional places of business under  the
+same business name by obtaining a supplemental  certificate from the department under this sub-
+section. The following all apply to a supplemental certificate issued under this subsection:
+Enrolled House Bill 2099 (HB 2099-A) Page 11
+(a) The department may not issue  a supplemental certificate under this subsection if the addi-
+tional place of business opened will be operated under a different business name than that indicated
+on the current certificate. Any business that a  vehicle dealer operates under a separate business
+name must be operated under a separate certificate and the dealer must apply for and pay the  fees
+for a regular dealer certificate for the business.
+(b) A supplemental certificate issued under this subsection is subject to the fee  for supplemental
+certificate under ORS 822.700.
+(3) The holder of a vehicle dealer certificate may move a place of business or change a business
+name by obtaining a corrected certificate  from the department. For purposes of this subsection,
+“place of business”  includes a recreational vehicle service facility as defined in ORS 822.082. The
+following apply to a corrected certificate issued under this subsection:
+(a) The department shall prescribe the form for application for a corrected certificate.
+(b) A person  applying for a corrected certificate shall pay the fee for the corrected certificate
+established in ORS 822.700.
+(4) The department may establish by rule the requirements  a holder of a vehicle dealer certif-
+icate must meet to display a vehicle at a location other than  the dealer’s place of business for the
+purpose of advertising without first  obtaining a supplemental certificate from the department. In
+addition to any requirements established by the department by rule, all of the following apply:
+(a) The dealer must have a signed agreement  with the owner of the property or the person using
+the property where the vehicle  is to be displayed stating that the vehicle is for an advertising pro-
+motion only and that the  processing of any documents or other activities required to purchase a
+vehicle must be done at the dealer’s place of business.
+(b) The vehicle on display must be  clearly marked with the dealer’s name and contact informa-
+tion and a notice that the vehicle is  displayed only for the purpose of advertising and may be pur-
+chased only at the dealer’s place of business.
+(c) Displaying the vehicle must not violate any zoning laws or ordinances.
+(d) The dealer or the dealer’s employees may not remain with the  vehicle except for the purpose
+of moving the vehicle in or out of the display area.
+[(5) A vehicle dealer certificate is valid for a three-year period and may  be renewed as provided
+by the department. The department shall  only renew a certificate if the applicant for renewal does all
+of the following: ]
+[(a) Pays the required fee for renewal under ORS 822.700. ]
+[(b) Delivers to the department a bond that meets the requirements under ORS 822.030. ]
+[(c) Delivers to the department a certificate of insurance that meets the requirements under ORS
+822.033.]
+[(d) Provides the names of all partners or corporate officers. ]
+[(e) Certifies completion of the continuing education requirements of ORS  822.027 (1)(b) if the per-
+son is a dealer subject to the education requirements. ]
+[(f) If the dealer  offers new recreational vehicles for sale under the certificate, certifies that the
+dealer maintains a recreational vehicle service facility as listed in the dealer certificate application de-
+scribed in ORS 822.025. ]
+[(6) The department may adopt suitable  rules for the issuance and renewal of certificates under this
+section and ORS 822.020. ]
+SECTION 19.
+ ORS 822.050 is amended to read:
+822.050. (1) The Department of Transportation may revoke, suspend or place on probation a ve-
+hicle dealer if the department determines  at any time for due cause that the dealer has done any
+of the following:
+(a) Violated any grounds  for revocation, suspension or probation adopted by the department by
+rule under ORS 822.035.
+(b) Failed to comply with the requirements  of the vehicle code with reference to notices or re-
+ports of the transfer of vehicles or campers.
+(c) Caused or suffered or  is permitting the unlawful use of any certificate or registration plates.
+Enrolled House Bill 2099 (HB 2099-A) Page 12
+(d) Violated or caused or permitted to be violated ORS 815.410, 815.415, 815.425 or 815.430.
+(e) Falsely certified under ORS  822.033 that the dealer is exempt from the requirement under
+ORS 822.020 [ or 822.040] to file a certificate of insurance.
+(f) Continued to fail to provide clear title or repeatedly failed to provide clear title  in violation
+of ORS 822.045.
+(g) Knowingly certified false information required by  the department on an application for a
+vehicle dealer certificate, supplemental certificate or corrected certificate.
+(h) Failed to pay a civil penalty assessed under ORS 822.009 and the amount of  penalty
+was not paid within 10 days after the order becomes final.
+(i) Displayed dealer plates on vehicles unless the vehicle was offered for sale.
+(2) The department shall cancel a vehicle dealer certificate 45 days  after receipt of legal notice
+that the bond described under ORS 822.030 is canceled, unless the department  receives proof from
+the vehicle dealer that the dealer has obtained another bond. Between the day that  the department
+receives notice that the bond is canceled and the day the vehicle dealer presents proof of another
+bond, the vehicle dealer may not act as a vehicle dealer.
+(3) The department shall cancel a vehicle dealer certificate 45  days after receipt of notice that
+the certificate of insurance required under ORS 822.033 is canceled, unless  the department receives
+proof from the  vehicle dealer that the dealer has obtained another certificate of insurance. Between
+the day that the department receives notice that the  certificate of insurance is canceled and the day
+the vehicle dealer presents proof of another certificate of insurance, the  vehicle dealer may not act
+as a vehicle dealer.
+(4) The department shall cancel a vehicle dealer certificate immediately upon receipt of  notice
+that zoning approval for the business has been revoked.
+(5) Upon revocation, cancellation  or suspension of a vehicle dealer certificate under this section,
+the department shall recall and demand the return of the certificate and any vehicle  dealer plates
+issued.
+VEHICLE REGISTRATION PLATES
+SECTION 20.
+ ORS 805.210 is amended to read:
+805.210. (1) The owner of a vehicle of special interest may apply to the Department of  Trans-
+portation  for  permission to use special interest registration plates. To receive permission to use
+special interest registration plates the person must:
+(a) Maintain the vehicle of special interest as a collectors’  item and use the vehicle only for
+exhibitions, parades, club activities and similar uses but not use  the vehicle primarily for the
+transportation of persons or property;
+(b) Supply the special interest registration plates which the person desires to use; and
+(c) Include the plates with the application for permission to use them.
+(2) The department  shall determine which special interest plates are available for issu-
+ance under this section.
+[(2)] (3) The department, prior to approval of an application under this  section, shall determine
+that the special interest registration plates meet the following requirements:
+(a) The plates shall be issued by the State of Oregon for use on vehicles in this state.
+(b) The numbers and characters on the plate shall be distinctive.
+(c) The plates shall  be legible, durable and otherwise of a size, shape, color and design that will
+serve the purposes of safety and identification.
+(d) If the plates are from a series  of plates in current use, the plates shall be from the same year
+or period of issue in which the vehicle was manufactured.
+[(3)] (4) If the special interest registration plate offered for approval was issued  in a year in
+which single registration plates only were required, the  department shall grant permission for use
+of that registration plate alone if it is otherwise acceptable.
+Enrolled House Bill 2099 (HB 2099-A) Page 13
+[(4)] (5) If the special interest registration plates offered for approval are from a series of plates
+in current use, as described in subsection [ (2)(d)] (3)(d) of this section, the department  may affix a
+distinctive sticker to each plate at the time of approval. Stickers shall be of a size, color and design
+determined by the department and shall be displayed on plates in the manner determined by  the
+department.
+[(5)] (6) The department may approve plates issued by the state that have been restored to  their
+original color and design provided that  if the plate was reflectorized when originally issued, it must
+be fully reflectorized when restored.
+SECTION 21.
+ ORS 803.530 is amended to read:
+803.530. (1) Registration plates assigned to a vehicle by the Department of Transportation shall
+remain with the vehicle to which the plates are assigned and are valid only during  the registration
+period for which the plates are issued except as provided in this section.
+(2) The department may allow registration plates to be transferred to another vehicle if:
+(a) The department receives an application;
+(b) The applicant pays the plate transfer fee under ORS 803.575; and
+(c) The applicant complies with the registration qualifications described in ORS 803.350.
+(3) The department shall  transfer registration plates under this section if the applicant and the
+vehicle qualify for the plates and the plates are:
+(a) Legible and capable of being used for identification purposes; and
+(b) Any of the following:
+(A) From a current issue of registration plates;
+(B) Customized registration plates described under ORS 805.240;
+(C) Oregon Trail  commemorative registration plates issued under section 113, chapter 741,
+Oregon Laws 1993;
+(D) Special registration plates  issued under ORS 805.255, 805.260, 805.263, 805.266, 805.278 or
+805.283;
+(E) Group registration plates issued under ORS 805.205;
+(F) Veterans’ recognition registration plates issued under ORS 805.105;
+(G) Pacific Wonderland registration plates issued under ORS 805.287; or
+(H) Registration plates issued through the special registration program under ORS 805.222.
+(I) Registration plates that  are no longer currently issued that the department deter-
+mines may still be transferred.
+(4) Notwithstanding ORS 803.400, when registration plates are  transferred from one vehicle to
+another vehicle owned by the same person, the registration period represented  by the plates also
+transfers with the plates. When registration plates are transferred from one vehicle to another ve-
+hicle not owned by the same person, the remaining registration period  represented by the trans-
+ferred plates ceases for both the vehicle receiving the transferred plates and the vehicle  from which
+the plates were removed.
+(5) The owner  of a registered vehicle to which a plate is assigned may replace a registration
+plate. The following apply to this subsection:
+(a) To replace a plate  under this subsection, the owner must apply to the department for re-
+placement of  the plate in a form prescribed by the department and pay the replacement plate fee
+established under ORS 803.575.
+(b) The department, in lieu of replacement,  may issue duplicate plates for the same fee as
+charged for replacements.
+(c) The plates issued under this subsection are valid only for the period of the plates replaced.
+(d) The replaced plates may not be considered customized plates when they are replaced, if:
+(A) The original plates were from plates currently issued;
+(B) The original plates were not customized plates; and
+(C) The replacement plates are a duplicate of the original plates.
+(e) When a vehicle is assigned a pair of plates and the owner  wishes to replace a single plate,
+the department may replace a single plate rather than replace both plates.
+Enrolled House Bill 2099 (HB 2099-A) Page 14
+(6) A county may replace a registration plate that is from a specially designed government se-
+ries with a registration plate that is from a regular series. The following apply to this subsection:
+(a) To replace a  plate under this subsection, the county must apply to the department for re-
+placement of the plate in a form prescribed by the department and pay the replacement plate  fee
+established under ORS 803.575.
+(b) The plates issued under this subsection are valid only for the period of the plates replaced.
+(7) If  the department retired the vehicle’s registration under ORS 819.030 because the vehicle
+is totaled or  substantially altered, a person may apply under subsection (2) of this section to transfer
+the registration plates to another vehicle.
+(8) Subject to subsections (2) and (4) of this section,  after the department authorizes the use of
+special interest plates under ORS 805.210, a person may apply to transfer the plates to either:
+(a) A vehicle that was  previously determined by the department to qualify as a vehicle of special
+interest; or
+(b) A vehicle approved by the department as  a vehicle of special interest at the time of appli-
+cation.
+(9) If a person described in subsection (8) of this section  provides the department with only one
+special interest registration plate for transfer and the department’s vehicle records show  the special
+interest registration plate belongs to a vehicle record with no owner  matching an applicant, the
+applicant shall provide proof, as determined by the department by rule, that the plate  is no longer
+used on the vehicle it is currently showing being registered to in the department’s vehicle records.
+SECTION 22.
+ ORS 805.103 is amended to read:
+805.103. (1) The Department of Transportation  shall provide for issuance of registration plates
+for a  motor vehicle registered under ORS 803.420 (6)(a), in a manner consistent with this section,
+to motor vehicle owners who qualify for the plates as Congressional Medal of  Honor recipients un-
+der subsection (2) this section.
+(2) A person who is a Congressional  Medal of Honor recipient qualifies for registration plates
+under this section if the person provides the department with  a certificate from the United States
+Department of  Veterans Affairs attesting to the person’s status as a Congressional Medal of Honor
+recipient.
+(3) Registration plates issued under this section shall  be considered customized registration
+plates for purposes of the  fee required in ORS 805.250. The department may waive the fee required
+in ORS 805.250.
+(4) The department  may not issue registration plates for a motor vehicle under this section if
+another motor vehicle owned by the applicant has been issued  registration plates under this section.
+(5) The registration plates issued under this section shall:
+(a) Be issued with a unique background design determined by the department;
+(b) Be issued with a specific configuration as determined by the department;
+(c) Contain the words “Medal of Honor”;
+(d) Contain the image of the Congressional Medal of Honor; and
+(e) Meet the requirements for registration plates under ORS 803.535.
+(6) If there is  a transfer of interest in the motor vehicle to which the registration plate under
+this section is assigned, or if the motor vehicle  is totaled and not reconstructed, the motor vehicle
+owner shall remove the registration plate. The Congressional Medal  of Honor recipient may retain
+the registration plate, but the registration plate  may not be placed on any other motor vehicle un-
+less the registration plate is transferred as set forth in subsection (7) of this section.
+(7) If the motor vehicle owner qualifies for the registration plates  under subsection (2) of this
+section, the department may transfer registration plates issued under this section  to another motor
+vehicle registered under ORS 803.420 (6)(a), as set forth in ORS [ 805.242] 803.530.
+(8) The  department shall cancel any registration plates issued under this section if the depart-
+ment determines that the motor vehicle is owned by a person who does not  qualify for the regis-
+tration plates under subsection (2) of this  section or that the motor vehicle is not registered under
+ORS 803.420 (6)(a).
+Enrolled House Bill 2099 (HB 2099-A) Page 15
+(9) The department may adopt rules necessary to carry out the provisions of this section.
+VEHICLE IDENTIFICATION NUMBERS
+SECTION 23.  ORS 803.212 is amended to read:
+803.212. (1) The Department of  Transportation, or persons or agencies authorized to do so by the
+department, shall  conduct a physical inspection of the vehicle identification number or numbers of
+each vehicle located in this state and required by ORS 803.210 to be inspected. The department  may
+designate certified dealers  and law enforcement agencies, by rule,  to perform the inspection  and
+may enter into agreements with the  Oregon State Police or other law enforcement agencies of this
+state to perform inspections  for compensation . The inspection  shall determine whether the vehicle
+identification  number  or numbers match those on the records of the department, on the title or
+primary ownership record or contained in other information received by the department.
+(2) If a vehicle that is required  by ORS 803.210 to be inspected is located in another jurisdiction,
+the department may designate a person or agency in such jurisdiction to perform the physical in-
+spection and may waive the inspection fee.
+(3) Except as provided  in subsection (4) of this section, the department shall check the vehicle
+identification number or numbers of all vehicles required  by ORS 803.210 to be inspected against
+those listed as stolen at the National Crime Information Center. If the check indicates the vehicle
+is stolen, the department:
+(a) Shall immediately notify  the Oregon State Police or, if the department determines it would
+be appropriate to do so, notify another law enforcement agency; and
+(b) Shall not issue title  within 30 days of giving the notice required by paragraph (a) of this
+subsection unless the  department is notified before the end of the 30 days that the vehicle is not
+stolen. After the passage of the 30-day period, the department may issue the title.
+(4) The department may refer a vehicle to the Oregon State Police or  other appropriate law
+enforcement agency for a vehicle  identification number or product identification number inspection
+if:
+(a) Inspection of the vehicle under  this section reveals that the vehicle identification number
+or product identification number on  the vehicle is different from the number provided to the de-
+partment or appears to have been tampered with, altered or defaced; or
+(b) The vehicle is a reconstructed or assembled vehicle or has been reported destroyed or to-
+taled under ORS 819.012, 819.014 or 819.030 or  is any other salvaged vehicle from another jurisdic-
+tion. This  subsection does not apply to a vehicle that has been reported totaled to the department
+because of theft and has subsequently been recovered.
+(5) If the department refers a vehicle to a law enforcement agency  under subsection (4) of this
+section, the law enforcement agency shall inspect the vehicle. If the law enforcement agency deter-
+mines that there  is reason to believe that the identification number of the vehicle has been tampered
+with, altered or forged or that  the vehicle is stolen, the law enforcement agency may seize the ve-
+hicle and may hold the vehicle  until completing an investigation to establish the origin and owner-
+ship of the vehicle.  The department shall reimburse the Department of State Police, and may
+reimburse any other law enforcement agency, for any inspections conducted  under this subsection
+in an amount agreed upon by the department and the  Department of State Police or other law
+enforcement agency.
+ODOMETER DISCLOSURE
+SECTION 24.
+ ORS 803.102 is amended to read:
+803.102. (1) As used in this section:
+(a) “Transferee” means any person to  whom ownership of a motor vehicle is transferred by
+purchase, gift or  any other means other than by creation of a security interest and any person who,
+as an agent, signs an odometer disclosure statement for the transferee.
+Enrolled House Bill 2099 (HB 2099-A) Page 16
+(b) “Transferor” means any person who transfers ownership of a motor vehicle by sale, gift or
+any means other than by creation  of a security interest and any person who, as an agent, signs an
+odometer disclosure statement for the transferor.
+(2) Except as otherwise provided in this section, upon transfer of any interest in a motor vehicle,
+an odometer disclosure statement shall be made  by the transferor to the transferee. The disclosure
+shall be in a  form that complies with the provisions of ORS 803.120 and shall contain the informa-
+tion required under ORS 803.122.
+(3) If a transfer requiring  a disclosure statement involves a leased vehicle, the lessor shall notify
+the lessee that  the lessee is required to provide odometer disclosure. The lessee shall furnish the
+lessor with a form that complies with the requirements  of ORS 803.120 and shall provide the infor-
+mation required by ORS 803.122 except that for purposes  of the required information, the lessee
+shall be considered the transferor, the lessor shall be considered the transferee and the  date shall
+be the date of the disclosure statement.
+(4) Where an interest in a vehicle  is transferred by operation of law, the Department of Trans-
+portation shall determine  by rule whether an odometer disclosure statement is required and if so,
+who is required to provide it.
+(5) The department, by rule, may exempt vehicles from the odometer disclosure requirements  of
+this section in accordance with federal laws, rules or regulations pertaining to odometer disclosure
+requirements.
+[(6) A person may provide an odometer reading to the department, in the manner prescribed by the
+department by rule, for a vehicle that is 10 years old or older. ]
+SECTION 24a.
+ ORS 803.120 is amended to read:
+803.120. (1) When an odometer  disclosure is required by statute or by the Department of
+Transportation, [ or when an odometer reading  is provided under ORS 803.102 (6), ] the disclosure or
+reading shall be provided in a form required  by the department by rule. The department may require
+different forms for  different situations and may require different information to be disclosed for dif-
+ferent purposes.
+(2) Any form authorized by the department for use as an odometer  disclosure upon transfer of
+an interest in a vehicle shall refer to the federal law requiring disclosure of odometer information
+and shall state that failure to complete the disclosure form, or providing false information on the
+form, may result in a fine or imprisonment.
+(3) Any form authorized by  the department for use as an odometer disclosure upon transfer of
+an interest in a  vehicle shall provide a way for the transferor to indicate, to the best of the
+transferor’s knowledge, which of the following is true:
+(a) That the odometer reading reflects the actual mileage of the vehicle;
+(b) That the odometer reading reflects  an amount of mileage in excess of the designed mechan-
+ical odometer limit; or
+(c) That the odometer reading does not reflect actual mileage and should not be relied on.
+(4) An odometer disclosure required  upon transfer of an interest in a vehicle shall be made on
+the vehicle title unless the department provides otherwise by rule.
+COMMERCIAL DRIVER TRAINING SCHOOLS
+SECTION 25.
+ORS 822.505, 822.510, 822.520, 822.525, 822.530 and 822.535 are repealed.
+SECTION 26.  ORS 822.515 is amended to read:
+822.515. (1) A person who holds a  valid, current commercial driver training school certificate
+issued under this section is not subject to the prohibitions or penalties under ORS 822.500.
+(2) The Department of Transportation shall adopt rules to provide for the issuance of commer-
+cial driver training school certificates under this section and driver training instructor  certif-
+icates. [ Rules adopted by the department under this section shall  provide requirements for all of the
+following: ]
+Enrolled House Bill 2099 (HB 2099-A) Page 17
+[(a) Requirements for a certificate under this  section including requirements concerning manner
+and form of application, location, place of business, facilities, records, equipment, courses and stand-
+ards of instruction, instructors, previous records of the school  and instructors, financial statements,
+schedule of fees and charges, character  of school operators and instructors, vehicle equipment and
+condition and inspection during reasonable business hours. ]
+[(b) Any other matters the department may prescribe for the protection of the public. ]
+[(3) The department: ]
+[(a) May refuse to issue or renew or may suspend or revoke any certificate issued under this section
+in any case where the department finds that the applicant or certificate  holder has violated or failed
+to comply with any rules adopted under this section or any provision of this section, ORS  822.500 to
+822.510, 822.525 or 822.530.]
+[(b) Shall cancel immediately any certificate if a  bond described under ORS 822.505 is canceled
+by legal notice. ]
+[(4) Commercial  driver training school certificates issued under this section are subject to the fol-
+lowing:]
+[(a) A certificate shall expire on the last day of each calendar year. ]
+(3) The rules adopted under  this section related to commercial driver training schools
+may prescribe, but need not be limited to:
+(a) The form and manner of the application;
+(b) The minimum qualifications for the commercial driver training school certificate;
+(c) Grounds and procedures for the denial of a certificate;
+(d) Requirements for the location of the place of business and location of facilities;
+(e) Requirements for records retention;
+(f) Vehicle equipment standards;
+(g) Courses and standards of instruction;
+(h) Fee schedules;
+(i) Requirements for character of school operators and instructors; and
+(j) Any other matters the  department considers necessary for the protection of the
+public.
+(4) The rules related to driver training  instructors may prescribe, but need not be limited
+to:
+(a) The form and manner of the application;
+(b) The minimum qualifications for the driver training instructor certificate;
+(c) Grounds and procedures for the denial of a certificate; and
+(d) Any other matters the department considers necessary for the protection of the
+public.
+(5) The department  may suspend, revoke or cancel a certificate issued under this section
+if the department finds that the person has failed to comply with a rule adopted by the  de-
+partment pursuant to this section.
+(6) A person subject  to discipline under this section is entitled to a contested case hear-
+ing in accordance with ORS chapter 183.
+(7) Commercial driver training school certificates issued under  this section expire two
+years from the date of issuance.
+(8) Driver training instructor certificates issued under  this section expire on the date the
+certificate of the commercial driver training school that employs the instructor expires.
+(9) Commercial driver training school certificates and driver  training instructor certif-
+icates issued under this section are subject to the following:
+[(b)] (a) The department [ shall] may not issue a certificate to a person  until the fee for issuance
+of the certificate under ORS 822.700 is paid.
+[(c)] (b)  The department [ shall] may  not renew a certificate  until the fee for renewal of the
+certificate under ORS 822.700 has been paid.
+Enrolled House Bill 2099 (HB 2099-A) Page 18
+[(d)] (c)  A fee  for a certificate may not be refunded in the event any certificate is refused, sus-
+pended, canceled or revoked.
+[(e) The  department shall not issue or renew a certificate unless the applicant or certificate holder
+maintains a bond that meets the requirements under ORS 822.505. ]
+[(f) The department shall not issue or renew a certificate unless  the applicant or certificate holder
+maintains proof of insurance that meets the requirements under ORS 822.510. ]
+SECTION 27.  ORS 822.700 is amended to read:
+822.700. (1) Fee for issuance or renewal of dismantler certificates covering a single  place of
+business, or a supplemental certificate for each additional  place of business to be covered by that
+certificate and operated under the same name, $500.
+(2) Fee for each duplicate dismantler certificate issued under ORS 822.110, $40.
+(3) Fee for original issuance  or renewal  of vehicle dealer certificate under ORS 822.020 [ or re-
+newal under ORS 822.040 ] of a vehicle dealer certificate:
+(a) $1,100, for a certificate covering a single place of business; and
+(b) $350, for each additional  place of business to be covered by the certificate and operated
+under the same name.
+(4) Fee for each corrected vehicle dealer certificate issued under ORS 822.040, $30.
+(5) If a vehicle dealer or dismantler fails to pay a fee required under this section  on or before
+the date the fee is due, there shall be added as a late payment charge a fee of $150.
+(6) Fee for show license issued under ORS 822.084, $50.
+(7) Fee for issuance of towing business certificate under ORS 822.205  or renewal under ORS
+822.210, $17 for each vehicle used for towing or recovery purposes.
+(8) Fee for  issuance or renewal of vehicle transporter certificate under  ORS 822.310, [ $150]
+$450.
+(9) Fee for issuance or renewal of driver training instructor  certificate under ORS [ 822.530]
+822.515, [ $100] $200.
+(10) Fee for issuance or renewal of commercial driver training school certificate under  ORS
+822.515, [$200] $400.
+(11) Fee for issuance or renewal of vehicle appraiser certificate under ORS 819.480, $100.
+SECTION 28.
+ ORS 822.990 is amended to read:
+822.990. (1) The Department of Transportation may levy and collect  a civil penalty in the
+amount of $1,000 for each violation against any person who violates ORS 822.500 [ or 822.525].
+(2) Civil penalties under this section shall be imposed in the manner provided in ORS 183.745.
+SECTION 29.
+(1) The amendments to ORS 822.515  and 822.700 by sections 26 and 27 of this
+2023 Act and the repeal of ORS 822.505, 822.510, 822.520, 822.525, 822.530 and  822.535 by section
+25 of this 2023 Act apply to driver training  instructor certificates and commercial driver
+training school certificates issued or renewed on or after the operative  date specified in
+section 52 of this 2023 Act.
+(2) The amendments to ORS 822.700 by section 27 of this 2023 Act  apply to fees imposed
+on or after the operative date specified in section 52 of this 2023 Act.
+VEHICLE TRANSPORTERS
+SECTION 30.  ORS 822.310 is amended to read:
+822.310. (1) The holder of a current, valid vehicle transporter certificate issued under this sec-
+tion may exercise the following privileges under this certificate:
+(a) The person is not  subject to the prohibitions and penalties under ORS 822.300 while trans-
+porting vehicles as provided under this section.
+(b) The  person is entitled to apply for and receive [ a sufficient number of ] no more than 10
+special vehicle transporter plates or devices and may transport vehicles as provided  under this
+section  in this state  while displaying the plate or device. Only one plate or device shall be dis-
+played on a vehicle. The plates or devices shall require a  fee for issuance as provided in ORS
+Enrolled House Bill 2099 (HB 2099-A) Page 19
+805.250. A plate or device issued under this paragraph may be used on any vehicle transported  by
+the person.
+(c) The person may drive or tow on its own wheels over the highways  of this state any unreg-
+istered vehicle or manufactured structure  from outside this state or from manufacturers or dealers
+within this state to  a prospective purchaser, manufacturer or dealer in this or any other state, ter-
+ritory or foreign country. This paragraph only permits the person to  transport manufactured struc-
+tures from the place of  manufacture to the place of business of a manufactured structure dealer
+holding a license  under ORS 446.691 or 446.696 or a temporary manufactured structure dealer li-
+cense under ORS 446.701 or to a place outside of Oregon. Any other movement of a manufactured
+structure by the person must be under a trip permit issued by a county as agent  for the Department
+of Consumer and Business Services.
+(2) The Department of Transportation shall provide  for the issuance and renewal of vehicle
+transporter certificates under this section to persons regularly engaged in businesses  that require
+the certificates.
+(3) Vehicle transporter certificates issued under this section are subject to all of the following:
+(a) A certificate described in this  section is valid for a [ one-year] three-year  period and shall
+be renewed as provided by the department.
+(b) The department [ shall] may  not issue a certificate to a person until the  fee for issuance of
+the certificate under ORS 822.700 is paid.
+(4) The department may adopt necessary rules  for the administration of the laws relating to the
+regulation of vehicle transporters,  the issuance and renewal of vehicle transporter certificates, the
+issuance of vehicle transporter identification cards and the issuance of vehicle transporter plates.
+The rules adopted under this subsection must be consistent with  any rules regarding vehicle trans-
+porters that are adopted under ORS chapter 825. The rules may  include, but are not limited to,
+grounds and procedures for the revocation, denial or suspension of  vehicle transporter certificates
+and for placing vehicle transporters on probationary status.
+(5) A person issued a certificate under this section is subject to  regulation under ORS chapter
+825.
+SECTION 31.
+The amendments to ORS 822.310 by section 30 of this 2023 Act apply to ve-
+hicle transporter  certificates and vehicle transporter plates issued on or after January 1,
+2024. Vehicle  transporter certificates and vehicle  transporter plates issued before January
+1, 2024, shall continue to be governed by ORS 822.310 as in effect immediately  before January
+1, 2024.
+SECTION 32.  ORS 822.315 is amended to read:
+822.315. (1) A person commits the offense of improperly using  a vehicle transporter plate if the
+person is the holder of a vehicle transporter certificate and the person does any of the following:
+(a) Exercises privileges granted under ORS 822.310  for vehicles with special vehicle transporter
+plates issued  under ORS 822.310 without conspicuously displaying the plates on the rear of each
+vehicle.
+(b) Uses a  special vehicle transporter plate to transport a manufactured structure to a situs not
+permitted under the privileges granted under ORS 822.310.
+(c) Allows any  person other than the transporter or transporter’s employee to use the special
+vehicle transporter plates issued to the transporter under ORS 822.310.
+(d) Uses the plate outside of the State of Oregon.
+(2) The offense  described in this section, improper use of vehicle transporter plates, is a Class
+D traffic violation.
+SECTION 33.
+The amendments to ORS 822.315 by section 32 of this  2023 Act apply to of-
+fenses committed on or after the operative date specified in section 52 of this 2023 Act.
+DRIVE TEST PROVIDERS
+SECTION 34.  ORS 802.600 is amended to read:
+Enrolled House Bill 2099 (HB 2099-A) Page 20
+802.600. (1) The Department of Transportation may enter into  an agreement with any [person
+who is not an employee  of the department, including but not limited to an integrator, enabling the
+person] qualified provider to transact on behalf of the  department the following functions of the
+department:
+(a) Any vehicle-related transaction for which the department is responsible.
+(b) Processing of fees or taxes for  a vehicle-related transaction for which the department is re-
+sponsible.
+(c) Written and skills testing  for driver licenses and permits, including commercial driver li-
+censes.
+(2) An agreement described in subsection (1) of this section  may be in any form and may contain
+any provisions that the department determines to be in the best interests of the public and conven-
+ient for the department,  including but not necessarily limited to provisions that allow the depart-
+ment to:
+(a) Ensure product quality control.
+(b) Audit activities of the  [ person] qualified provider  entering into the agreement to ensure
+compliance with the agreement.
+(c) Impose sanctions on a [ person] qualified provider for violation of the agreement.
+(3) A [ person] qualified provider authorized to transact business for the department under this
+section,  including  but not limited to a [ person] qualified provider  who transacts business under
+contract with an integrator, may charge a fee for the services provided. Fees authorized under  this
+subsection are in addition to  any charges or fees that the department is authorized by statute to
+collect for the transaction.
+(4)(a) The department may adopt such rules as are necessary  to carry out the provisions of this
+section, including but not limited to rules that:
+(A) Specify criteria for eligibility of a [ person] qualified provider to enter  into an agreement
+with the department under this section.
+(B) Specify the manner in which fees authorized by this section will be collected  and establish
+any notification the [ person] qualified provider is required to give the public about the fees.
+(C) Require a bond in an amount determined by the department from a [ person] qualified pro-
+vider acting under an agreement described in this section.
+(D) Prohibit  disclosure of personal information from driver or vehicle records except in accord-
+ance with applicable laws.
+(b) The department may not adopt rules establishing  the amount of a fee to be charged by a
+[person] qualified provider acting under this section.
+(c) Rules adopted under this subsection shall be developed  in consultation with persons who
+might enter into agreements with  the department under this section, including but not limited to
+integrators and vehicle dealers.
+(5) As used in this section[ ,]:
+(a) “Integrator” means a person  who enters into a contract with the Department of Transpor-
+tation:
+[(a)] (A)  To provide information and supplies  to a [ person] qualified provider  who transacts
+business for the department under an agreement described in this section; and
+[(b)] (B)  To collect moneys due from [ persons] qualified providers who transact the business
+and remit the moneys to the department.
+(b) “Qualified provider” means:
+(A) Community college operated under ORS chapter 341;
+(B) Education service district; or
+(C) Person who is not an employee of the department, including but not limited to  an
+integrator.
+REMOVAL OF PERSONAL PROPERTY
+ON HIGHWAY RIGHT OF WAY
+Enrolled House Bill 2099 (HB 2099-A) Page 21
+SECTION 35. (1) The Department of  Transportation may enter into an intergovernmental
+agreement with a city that has a population of 500,000 or more for the removal,  storage and
+disposition of personal property deposited, left or displayed on property  that is owned by the
+department. The city shall prioritize removal of personal property that is  within the right
+of way of a highway under  the jurisdiction of the department as a road authority pursuant
+to ORS 810.010.
+(2) Notwithstanding ORS 377.650, 377.653  and 377.655, an intergovernmental agreement
+entered into under this section may provide alternative provisions related to the removal,
+storage and disposition of personal property if the alternative  provisions conform with the
+requirements for  local government policy for removal of homeless individuals and personal
+property under ORS 195.505.
+(3) In addition to the requirements described in  subsection (2) of this section, an inter-
+governmental agreement entered into under this section must include the following:
+(a) Requirements for posting notice before the removal of personal property,  including
+but not limited to the following:
+(A) That the notice is created using durable materials and  securely posted within 30 feet
+of the personal property to be removed;
+(B) That the notice must provide the  date the notice begins and the date upon which the
+city or department may begin removing personal property; and
+(C) That the notice must provide a description of:
+(i) How an individual may access personal property that is removed and stored; and
+(ii) The length of time the city or department will store personal property before  the city
+or department disposes of it.
+(b) A requirement that the notice expires 10 days after the city or department posts  the
+notice.
+(c) A severe weather  protocol regarding the weather conditions under which the city or
+department will not remove personal property.
+(d) Provisions related to inventorying and storing the personal property to be removed.
+(e) Provisions  related to the city or department relinquishing unclaimed personal prop-
+erty after the storage period to the city’s or department’s designated agent.
+(f) Provisions related  to when the city will provide impact reduction services, including
+but not limited to trash collection.
+(g) A provision providing that if the department requests  city services under the inter-
+governmental agreement, but the city  is unable or unwilling to provide services as requested,
+the department or the department’s  contractor may perform the requested services con-
+sistent with the terms of the agreement, including but not limited to posting notice.
+(4) The  72-hour notice under ORS 195.505 required under subsection (2) of this section
+does not apply:
+(a) When there are grounds for law enforcement  officials to believe that illegal activities
+other than camping are occurring;
+(b) Where there is an exceptional emergency, such as possible site  contamination by
+hazardous materials; or
+(c) When there is immediate danger to human life or safety.
+(5) Before the city adopts an intergovernmental agreement under this section  or changes
+to the agreement, the  city shall invite public comment on the proposed agreement or the
+proposed changes to the agreement.
+CONFORMING AMENDMENTS
+SECTION 36.
+ ORS 87.152 is amended to read:
+87.152. (1) Except as provided in  subsections (2) and (3) of this section, a person that makes,
+alters, repairs, transports, stores, pastures, cares for, provides services for, supplies  materials for
+Enrolled House Bill 2099 (HB 2099-A) Page 22
+or performs labor on a chattel at the request of the owner or lawful possessor  of the chattel has a
+lien on the chattel in  the possession of the person for the reasonable or agreed charges for labor,
+materials or services of the person, and the person may retain possession of the chattel until the
+charges are paid.
+(2)(a) Except  as provided in subsection (3) of this section, a person may not create, attach, assert
+or claim a possessory lien on a motor vehicle, as defined in ORS  801.360, unless the person performs
+a service that  complies with ORS 646A.480 to 646A.495 and that involves making, altering, repairing,
+transporting, storing, providing services for, supplying material for or performing labor in  con-
+nection with the motor vehicle and the person:
+(A) Is a franchised motor vehicle dealership, as defined in ORS 650.120 (5), or a  manufacturer,
+as defined in ORS 650.120, of the motor vehicle;
+(B) Holds a towing business certificate that the Department of  Transportation issued under ORS
+822.205, provided that the person creates, attaches, asserts or  claims a possessory lien only for
+transporting or storing the motor vehicle; or
+(C) Creates, attaches, asserts or claims the lien against an abandoned motor vehicle.
+(b) A person, other than a person that is described  in paragraph (a)(A), (B) or (C) of this sub-
+section, shall have in effect a surety bond or irrevocable  letter of credit in the amount of $20,000
+before, and shall maintain the surety  bond or irrevocable letter of credit during, any period in which
+the person creates,  attaches, asserts or claims a possessory lien on a motor vehicle after making,
+altering, repairing, transporting, storing, performing services for, supplying  materials for or per-
+forming labor in connection with the motor vehicle.
+(c)(A)  The  surety bond and the irrevocable letter of credit described in paragraph (b) of this
+subsection must be issued,  respectively, by a corporate surety that is authorized to transact business
+in this state and by a financial institution, as defined in ORS 706.008. The corporate surety  or the
+financial institution, as appropriate,  shall notify the Department of Transportation of any cancella-
+tion of the surety bond or irrevocable letter of credit.  The corporate surety remains liable under the
+surety bond and the financial  institution remains obligated under the irrevocable letter of credit
+until the  department receives the notice or until the date of cancellation specified in the notice,
+whichever is later.
+(B) A surety bond or irrevocable letter of credit described in paragraph (b) of  this subsection
+must be:
+(i) Executed to the State of Oregon;
+(ii) Approved by the Attorney General as to form;
+(iii) Filed with and held by the department; and
+(iv) Conditioned such as to compensate parties damaged as a result of a use of a  possessory lien
+in connection with a misrepresentation,  a fraud or a violation of a duty set forth in ORS 646A.480
+to 646A.495.
+(C) The person described in  paragraph (b) of this subsection as subject to the requirement to
+have in effect a surety bond or irrevocable letter of credit must certify in writing to the  department
+each year that the surety  bond or irrevocable letter of credit remains in effect. If another person
+obtains a recovery against the surety bond or irrevocable letter of credit,  the person shall file with
+the department not later than three business days after the date  of the recovery a new surety bond
+or irrevocable letter of credit in the amount specified in paragraph (b) of this subsection.
+(3)(a) As used in this subsection:
+(A) “Auction company” means an entity:
+(i) That operates throughout the United States;
+(ii) That holds a vehicle dealer certificate that the  Department of Transportation issued [ or re-
+newed] under ORS 822.020 [ or 822.040 ], or a dismantler certificate  that the department issued or
+renewed under ORS 822.110 or 822.125; and
+(iii) The primary activity of which, in this state, consists of disposing of totaled  motor vehicles.
+(B) “Motor vehicle” has the meaning given that term in ORS 801.360.
+Enrolled House Bill 2099 (HB 2099-A) Page 23
+(b) An auction company has a lien on a motor  vehicle that the auction company possesses and
+stored on premises the auction company owns or controls. The auction company may  title the motor
+vehicle in the name of:
+(A) The auction  company, if the motor vehicle has remained unclaimed on the auction company’s
+premises for more than 30 days;
+(B) The insurance company that directed the auction company to take possession of the  motor
+vehicle; or
+(C) An organization with an exemption from taxation under section  501(c)(3) of the Internal
+Revenue Code that directed the auction company to take possession of the motor vehicle.
+(c) ORS 87.166 and 87.172 to 87.212 do not apply to chattel that is subject to this subsection.
+(4)(a) The owner  of a motor vehicle may bring an action to recover from a person that refuses,
+at the owner’s demand and without a valid possessory lien created and attached as provided in
+subsection (2) or  (3) of this section, to release the owner’s motor vehicle or restore to the owner
+title to the owner’s motor vehicle if the person changed the title:
+(A) The greater of $2,000 or an amount equivalent to twice the value of the motor  vehicle, up
+to a maximum amount of $20,000; and
+(B) The owner’s reasonable costs and attorney fees.
+(b) In addition to the recovery described in  paragraph (a) of this subsection, the owner may
+obtain:
+(A) A judgment that:
+(i) Directs the Department of Transportation to restore title  to the motor vehicle to the owner
+and to invalidate the title the person obtained; or
+(ii) Extinguishes the person’s interest in the motor vehicle and directs the  department to issue
+title in the name of the plaintiff in the action;
+(B) A judgment that declares that the person’s lien is invalid if the person obtained title to  the
+motor vehicle without complying with this section; and
+(C) Reimbursement for any fees the owner pays to the department to reissue the title.
+SECTION 37.
+ ORS 646A.090 is amended to read:
+646A.090. (1) As used in this section:
+(a) “Buyer” means a person that purchases or leases a motor vehicle.
+(b) “Final approval of funding” means a lender’s irrevocable  agreement to purchase a retail in-
+stallment contract or lease agreement from a seller according to the exact terms that the seller and
+buyer have negotiated.
+(c) “Lender” means a person that purchases a retail installment contract or lease agreement  for
+a motor vehicle.
+(d) “Motor vehicle” means a  motor vehicle, as defined in ORS 801.360, that is sold or leased in
+this state for personal, family or household purposes.
+(e) “Seller” means a person that holds a current, valid vehicle dealer certificate issued  under
+ORS 822.020 [ or renewed under ORS 822.040 ].
+(2) A seller may offer to sell or lease a motor vehicle  to a buyer or prospective buyer under a
+retail installment contract or lease  agreement that is subject to a lender’s agreement to purchase
+the retail installment contract or lease agreement into which the buyer enters.
+(3) In any transaction described in subsection (2) of this section:
+(a) If, within 14 days after a buyer takes possession of a motor  vehicle, a lender does not agree
+to purchase a retail installment contract or lease agreement on the exact terms that the seller and
+the buyer negotiate and the seller does not receive final approval of funding from the lender,  the
+seller shall return to the buyer all items of value the  seller received from the buyer as part of the
+transaction;  and
+(b) If the  seller has accepted a trade-in motor vehicle from the buyer, the seller may not sell
+or lease the buyer’s trade-in motor vehicle before the seller receives final approval  of funding from
+the lender.
+Enrolled House Bill 2099 (HB 2099-A) Page 24
+(4) In any transaction described in subsection (2) of this section,  if the buyer has accepted a
+motor vehicle from the seller that is subject to a retail installment contract or  lease agreement, and
+a lender does not agree to purchase  the retail installment contract or lease agreement on the exact
+terms the seller and the buyer negotiated, the  buyer shall return to the seller all items of value the
+buyer received from  the seller as part of the transaction. The seller may charge the buyer only for
+amounts that  the retail installment contract or lease agreement provides in writing that the seller
+may charge. The retail installment contract or lease agreement may provide only for  these amounts:
+(a) The fair market value of damage to,  excessive wear and tear on or loss of the motor vehicle
+that occurs between the date the buyer  takes possession of the motor vehicle and the date the buyer
+returns the motor vehicle to the seller’s custody; and
+(b) If, within  14 days after the date on which the buyer takes possession of the motor vehicle,
+the seller sends notice to the buyer by first class mail or written electronic communication that a
+lender has not agreed to purchase the retail installment contract  or lease agreement, a reasonable
+charge per mile  for the use of the motor vehicle. The charge may not exceed the rate per mile al-
+lowed under federal law as a deduction for federal  income tax purposes for an ordinary and neces-
+sary business expense.
+(5) If the buyer makes a reasonable attempt to  return the vehicle within five days after the
+seller sends a notice under subsection (4)(b) of this section, but the seller  is not available to accept
+the return, the seller may not charge the buyer under subsection (4)(b) of this section.
+(6)(a) Subject to paragraph (b) of this  subsection, a seller has an affirmative defense to a claim
+or charge of violating subsection (3)(a) of this section by showing that the buyer  failed to return the
+motor vehicle after the seller sent the notice described in subsection (4)(b) of this section.
+(b) A seller shall retain proof of the date on which the seller sent  to the buyer the notice de-
+scribed in subsection (4)(b) of this section.
+SECTION 38.
+ ORS 802.031 is amended to read:
+802.031. (1) Nothing in ORS 802.600 prohibits the Department  of Transportation from adopting
+rules to:
+(a) Authorize persons to act as  agents for the department for the purpose of issuing winter re-
+creation parking permits.
+(b) Designate vehicle dealers holding a valid certificate issued under ORS 822.020  [ or 822.040]
+to act as agents of the department for  purposes of accepting documents and fees necessary to title
+and register any  vehicle the vehicle dealer sells, or to perform other duties the department may
+authorize. Other duties may include, but need not be limited to:
+(A) Issuing permits under ORS 803.600 and 803.625; and
+(B) Performing vehicle identification number inspections.
+(2) A vehicle dealer designated under this section shall:
+(a) Transmit title and registration documents  with all required fees to the department within the
+time specified in ORS 822.042 and in accordance  with any other applicable statutes or applicable
+rules adopted by the department.
+(b) Maintain  records as determined by the department to show compliance with this section and
+any rules adopted by the department.
+SECTION 39.
+ ORS 803.552 is amended to read:
+803.552. (1) As used in this section:
+(a) “Car rental company” has the meaning given that term in ORS 803.219.
+(b) “Integrator” has the meaning given that term in ORS 802.600.
+(2) If the Department of  Transportation receives an application for vehicle registration from a
+car rental company that was submitted to an integrator and  the application does not include the
+primary ownership record for the motor vehicle,  the department may issue registration plates for
+the vehicle if the conditions described in subsection (3) of this section are met.
+(3) Before the department may issue registration plates under subsection (2) of this section, a
+car rental company must:
+Enrolled House Bill 2099 (HB 2099-A) Page 25
+(a) Possess a valid Oregon vehicle dealer certificate issued [ or renewed ] under ORS 822.020 [ or
+822.040];
+(b) Certify that the car rental company has not received the primary ownership record  for the
+vehicle as of the date the application is submitted; and
+(c) Meet any other requirements adopted by the department by rule.
+(4) In addition to any fee  for registration or issuance of registration plates, the department may
+charge a fee for providing the services authorized by this section. The  department shall establish
+the amount of the fee by rule.
+(5) The department shall adopt rules to carry out the provisions of this section.
+SECTION 40.
+ ORS 805.250 is amended to read:
+805.250. This section establishes fees for issuance of registration plates authorized under  ORS
+805.200. If a fee for plates authorized in ORS 805.200 is not established in this section, the fee is  the
+same fee  as established under ORS 803.570.  Where  a fee is established under this section, the fee
+is in addition to the fee established under ORS 803.570 unless otherwise provided in the following:
+(1) Amateur radio operator registration plates issued under ORS 805.230, $5.
+(2) Customized registration plates issued under ORS 805.240:
+(a) For original issuance or renewal, $50 annual fee.
+(b) For issuance of a duplicate  or replacement plate, $5 when the plate is issued at the time of
+renewal of registration or $10 when the plate is issued at any other time.
+(3) Special interest  registration plates approved under ORS 805.210 are approved without cost
+except  as  provided in this subsection, including without payment of the fee established under ORS
+803.570. If identifying stickers are required, $1 per sticker or pair of stickers.
+(4) Dealer plates issued under ORS [ 822.020 and] 822.040 are as follows:
+(a) For the original dealer plate, no fee except the fee established under ORS 803.570.
+(b) For replacement dealer plates, $10 for each plate except that persons  dealing exclusively in
+motorcycles, mopeds, snowmobiles  or any combination of those vehicles shall pay only $3 for each
+replacement  plate.
+(c) For additional plates, or for  renewal of registration, $42, except that persons dealing exclu-
+sively in motorcycles, mopeds or snowmobiles or any  combination of those vehicles shall pay only
+$9 for each additional plate, or for renewal of registration.
+(5) Special vehicle transporter plates or devices issued under ORS 822.310, $5 for each  plate or
+device.
+SECTION 41.
+ ORS 819.482 is amended to read:
+819.482. (1) A person commits the offense of acting as  a vehicle appraiser without a certificate
+if the person does not hold  a vehicle appraiser certificate issued under ORS 819.480 and the person,
+for consideration, issues an opinion as to the value of a vehicle.
+(2) This section does not apply to:
+(a) A person who  holds a vehicle dealer certificate issued [ or renewed ] under ORS 822.020 [ or
+822.040] and who appraises vehicles in the operation of the vehicle dealer’s business;
+(b) A person from another jurisdiction  who holds a vehicle appraiser certificate requiring qual-
+ifications substantially similar to qualifications  required for the certification of a vehicle appraiser
+in this state;
+(c) An insurance adjuster authorized to do business under ORS 744.515 or 744.521; or
+(d) A person licensed or certified  to appraise real estate under ORS 674.310 and who appraises
+the value of manufactured structures.
+(3) The offense described in this section, acting as a vehicle appraiser without a certificate,  is
+a Class A violation.
+SECTION 42.
+ ORS 822.015 is amended to read:
+822.015. (1) In addition to any exemptions from  the vehicle code under ORS 801.026, ORS 822.005
+does not apply to the following vehicles or persons:
+Enrolled House Bill 2099 (HB 2099-A) Page 26
+(a) Road rollers, farm tractors, farm  trailers, trolleys, implements of husbandry, emergency ve-
+hicles, well-drilling machinery and boat or  utility trailers with a gross weight of 1,800 pounds or
+less.
+(b) The owner of a vehicle as shown  by the vehicle title issued by any jurisdiction if the person
+owned the  vehicle primarily for personal, family or household purposes. If the person has sold,
+traded, displayed or offered for sale,  trade or exchange more than five vehicles in one calendar year,
+the person shall have the burden of proving that the  person owned the vehicles primarily for per-
+sonal, family or household  purposes or for other purposes that the Department of Transportation,
+by rule, defines as constituting an exemption under this section.
+(c) A receiver,  trustee, personal representative or public officer while performing any official
+duties.
+(d) The lessor or security interest holder of a vehicle as shown by the vehicle title issued by
+any jurisdiction.
+(e) Except as otherwise provided in this paragraph, a manufacturer who sells vehicles the man-
+ufacturer has manufactured in Oregon. Nothing in this paragraph prevents  any manufacturer from
+obtaining a vehicle dealer certificate  under ORS 822.020. This paragraph does not exempt a man-
+ufacturer who sells or trades campers or travel trailers.
+(f) An insurance adjuster authorized to do business  under ORS 744.515 or 744.521 who is dis-
+posing of vehicles for salvage.
+(g) Except as otherwise provided in this paragraph, a person who sells or  trades or offers to sell
+or trade  a vehicle that has been used in the operation of the person’s business. This paragraph does
+not exempt a person who is in the business of  selling, trading, displaying, rebuilding, renting or
+leasing vehicles from any requirement to obtain a certificate for dealing in those vehicles.
+(h) A person who receives no money, goods or services, either directly or indirectly,  for dis-
+playing a vehicle or acting as an agent in the buying or selling of a vehicle.
+(i) A person who collects, purchases, acquires, trades or disposes of vehicles and vehicle parts
+for the person’s own  use in order to preserve, restore and maintain vehicles for the person’s own
+use or for hobby or historical purposes.
+(j) A manufactured structure dealer subject to the  licensing requirement of ORS 446.671 or a
+person exempt from licensing under ORS 446.676 when selling a vehicle, trailer or  semitrailer ac-
+cepted in trade as part of  a manufactured structure transaction. A manufactured structure dealer-
+ship or exempt person may not directly sell more than three vehicles per  calendar year under
+authority of this paragraph, but by consignment with a dealer certified  under ORS 822.020 [ or
+822.040] may sell an unlimited number of vehicles acquired as described in this paragraph.
+(k) A lien claimant who sells vehicles in order to foreclose possessory liens.
+(L) A lien claimant who, in a 12-month period, sells 12 or fewer  vehicles that the lien claimant
+acquired through possessory liens if the  vehicles are sold at the business location of the lien
+claimant.
+(m) Electric personal assistive mobility devices.
+(n) A tower that received title for a vehicle under ORS 822.235.
+(2) Notwithstanding ORS 822.005, the  following may participate with other dealers in a display
+of vehicles, including but not limited to an auto show, if the display is an event that lasts for 10 days
+or less and is an event for which the public is charged admission:
+(a) A person who is licensed as a vehicle dealer in another jurisdiction; or
+(b) Any employee of a person who is licensed as a vehicle dealer in another jurisdiction.
+(3) Notwithstanding ORS 822.005,  a person who is licensed as a vehicle dealer in another juris-
+diction or an employee of a person who is certified  or licensed as a vehicle dealer may participate
+in a vehicle auction if the vehicle auction is:
+(a) Conducted by a vehicle dealer who holds a vehicle dealer certificate issued  [ or renewed ]
+under ORS 822.020 [ or 822.040]; and
+(b) Open only to certified or licensed vehicle dealers or their employees.
+Enrolled House Bill 2099 (HB 2099-A) Page 27
+(4) The department shall  adopt rules to carry out the provisions of this section, including but
+not limited to specifying which dealers may take vehicles on consignment from other jurisdictions.
+SECTION 43.  ORS 822.025 is amended to read:
+822.025. An application  for a vehicle dealer certificate issued by the Department of Transpor-
+tation under ORS 822.020 shall be in a form prescribed by the department and shall  contain all of
+the following:
+(1) The names and residence addresses of the persons applying, as follows:
+(a) If the applicant is a firm  or partnership, the name of the firm or partnership with the names
+and residence addresses of all members thereof.
+(b) If the applicant is a corporation, the name of  the corporation with the names of the principal
+officers and their residence addresses and the name of the  state under whose laws the corporation
+is organized.
+(2) The name under which the business will be conducted.
+(3) The street address, including city and county in Oregon, where  the business will be con-
+ducted.
+(4) Whether or not used vehicles are handled.
+(5) A certificate from the applicant showing that  the applicant will act as a vehicle dealer and
+will conduct business at the location given on the application.
+(6) A certificate signed by a person authorized by  the local governing body to do so, stating that
+the location of the business as given in the application for a certificate complies with any land  use
+ordinances or business regulatory ordinances of the  city or county. The provisions of this subsection
+do not apply to renewal of a vehicle dealer certificate under ORS [ 822.040] 822.020 unless  the lo-
+cation of the business is being changed at the time of renewal.
+(7) Any information required by the department to efficiently administer  the registration of ve-
+hicles and regulation of dealers or other relevant information required by the department.
+(8) If the applicant is a dealer subject to  the education and test requirements under ORS 822.027
+(1)(a), a certificate from the provider of each precertification education program listing  the courses
+that the applicant  has completed and the tests that the applicant has passed in the precertification
+education program.
+(9) If the applicant will offer new recreational vehicles for sale,  a certificate from the applicant
+stating that the applicant will maintain a recreational  vehicle service facility at the street address
+provided by the applicant pursuant to subsection (3) of this section.
+SECTION 44.
+ ORS 822.027 is amended to read:
+822.027. (1) Except as provided in  subsections (2) and (3) of this section, the following education
+requirements apply to an applicant for a vehicle dealer certificate under ORS 822.020 [ or 822.040]:
+(a) An applicant for a vehicle dealer certificate under ORS 822.020 must complete a  minimum
+of eight hours of  courses in any approved precertification education program described in subsection
+(4) of this section and pass the tests required under paragraph (c) of this subsection within  one year
+prior to submitting an application for the certificate;
+(b) An applicant for a renewal certificate under ORS [ 822.040] 822.020 must, for each year of a
+certification  period,  complete a minimum of four hours of courses in any approved continuing edu-
+cation program described in subsection (4) of this section and pass the tests required under para-
+graph (c) of this subsection prior to submitting an application for  the renewal certificate. An
+applicant may  not repeat a course in an approved continuing education program for which the ap-
+plicant previously obtained credit within the same certification period; and
+(c) For each course hour required under  paragraphs (a) and (b) of this subsection, the provider
+shall administer a test and the applicant must pass each test with a score of at least  70 percent in
+order to receive credit for the course hour. Each test must contain at least 10 questions.
+(2) The precertification education requirements in subsection (1)(a)  of this section do not apply
+to an applicant for a vehicle dealer certificate under ORS 822.020 [ or 822.040] if, at the time of ap-
+plication, the applicant holds another certificate issued under ORS 822.020 [ or 822.040].
+Enrolled House Bill 2099 (HB 2099-A) Page 28
+(3) The continuing education requirements of subsection (1)(b) of this  section do not apply to
+an applicant for renewal of a vehicle dealer certificate under ORS [ 822.040] 822.020 if the applicant
+is:
+(a) A dealer having  a franchise in this state for nationally advertised and recognized motor ve-
+hicles;
+(b) A dealer having a franchise in this state for new recreational vehicles;
+(c) A motor vehicle rental company having a national franchise under  the ownership of a cor-
+poration that operates throughout the United States; or
+(d) A national auction company that holds  a vehicle dealer certificate and a dismantler certif-
+icate whose primary activity in this state is the sale or disposition of totaled vehicles.
+(4) Precertification and continuing education programs and the tests required in subsection  (1)
+of this  section may be developed by any motor vehicle industry organization including, but not lim-
+ited to, the Oregon  Independent Auto Dealers Association. Each education program shall be sub-
+mitted to the advisory committee established  under ORS 802.370 for approval every two years. The
+committee shall vote  to approve or deny approval of each program. A program that is approved must
+cover state and federal law in at least the following areas:
+(a) Motor vehicle advertising;
+(b) Odometer laws and regulations;
+(c) Vehicle licensing and registration;
+(d) Unlawful dealer activities;
+(e) Environmental rules and regulations;
+(f) Oregon and industry standard motor vehicle forms;
+(g) Truthful lending practices;
+(h) Motor vehicle financing;
+(i) Service and warranty contracts; and
+(j) Land use regulations governing motor vehicle dealers.
+(5) Precertification and continuing education programs required in  subsection (1) of this section
+may be provided by accredited educational institutions, private vocational  schools, correspondence
+schools or trade  associations if the education programs have been approved by the advisory com-
+mittee established under ORS 802.370 as required in subsection (4) of this section.
+(6) The approval of an education program under subsection  (4) of this section expires two years
+from the date of the approval.
+SECTION 45.
+ ORS 822.030 is amended to read:
+822.030. (1) A  bond or letter of credit required to qualify for a vehicle dealer certificate under
+ORS 822.020 [ or to qualify for renewal of a certificate under ORS 822.040 ] must comply with  all of
+the following:
+(a) The bond shall have a corporate surety licensed to do business within this  state. A letter
+of credit shall  be an irrevocable letter of credit issued by an insured institution, as defined in ORS
+706.008. The surety or institution shall notify the Department of Transportation if the bond  or letter
+of credit is canceled for any reason. The surety or institution shall  continue to be liable under the
+bond or letter of credit until the department receives the notice required by this paragraph,  or until
+the cancellation date specified in the notice, whichever is later.
+(b) The bond or letter of credit shall be executed to the State of Oregon.
+(c) Except as otherwise provided in this paragraph, the bond or letter of credit  shall be in the
+following sum:
+(A) If the person holds a certificate to be a dealer exclusively in motorcycles, mopeds,  Class I
+all-terrain vehicles or snowmobiles or any combination of those vehicles, the bond  or letter of credit
+shall be for $10,000.
+(B) Except as provided  in subparagraph (A) of this paragraph, if the applicant is seeking a cer-
+tificate to be a vehicle dealer, the bond or letter of credit  shall be for $50,000 for each year the
+certificate is valid.
+Enrolled House Bill 2099 (HB 2099-A) Page 29
+(d) The bond or letter of credit described in  this subsection shall be approved as to form by the
+Attorney  General.
+(e) The bond or letter  of credit must be conditioned that the person issued the certificate shall
+conduct business as a vehicle dealer without fraud or fraudulent representation and without  violat-
+ing any provisions of the vehicle  code relating to vehicle registration, vehicle permits, the transfer
+or alteration of vehicles or the regulation of vehicle dealers.
+(f) The bond or letter of credit must be filed and held in the office of the department.
+(g) The vehicle dealer shall purchase a bond or letter of credit under this  subsection annually
+on or before each anniversary of the issuance of the vehicle dealer’s certificate.
+(2) Any person  shall have a right of action against a vehicle dealer, against the surety on the
+vehicle dealer’s bond and against the letter of credit in the person’s  own name if the person suffers
+any loss or damage by reason of the vehicle dealer’s fraud, fraudulent representations or violations
+of provisions of the vehicle code relating to:
+(a) Vehicle registration;
+(b) Vehicle permits;
+(c) The transfer or alteration of vehicles; or
+(d) The regulation of vehicle dealers.
+(3) Notwithstanding subsection (2) of this section, the maximum amount available  under a bond
+or letter of credit described in subsection (1)(c)(B) of  this section for the payment of claims to per-
+sons other than retail customers of the dealer is $10,000.
+(4) Notwithstanding subsection (2) of  this section, a person other than a retail customer of the
+vehicle dealer may not make a claim under subsection (2) of  this section against the surety on the
+vehicle dealer’s bond,  or against the vehicle dealer’s letter of credit, if the vehicle dealer holds a
+vehicle dealer certificate to deal exclusively in motorcycles, mopeds, Class I all-terrain  vehicles or
+snowmobiles or any combination of those vehicles.
+(5) If the certificate of a vehicle dealer is not renewed or is  voluntarily or involuntarily can-
+celed, the sureties  on the bond and the issuer of the letter of credit are relieved from liability that
+accrues after the department cancels the certificate.
+SECTION 46.
+ ORS 822.033 is amended to read:
+822.033. A  certificate of insurance required to qualify for a vehicle dealer certificate under ORS
+822.020 or to qualify for renewal of  a certificate under ORS [ 822.040] 822.020 must comply with all
+of the following:
+(1) The certificate shall:
+(a) Be issued by an insurance carrier licensed to do business within this state;
+(b) Show that the dealer is  insured by a policy that provides the minimum limits of coverage
+required under ORS 806.070;
+(c) Show that the dealer  is insured by a policy that provides for payment of judgments of the
+type described in ORS 806.040;
+(d) Show that the dealer  is insured by a policy covering all vehicles manufactured, owned, op-
+erated, used or maintained by or under the control of the dealer;
+(e) Show that the dealer is insured by a policy that also covers all other  persons who, with the
+consent  of  the dealer, use or operate vehicles manufactured, owned or maintained by or under the
+control of the dealer;
+(f) Be dated as of the date of the motor vehicle policy for which it is given;
+(g) Contain the policy number; and
+(h) Provide that the insurer shall give the Department of Transportation written notice of any
+cancellation of the policy and that the insurer shall continue to be  liable under the policy until the
+department receives the  notice required by this paragraph or until the cancellation date specified
+in the notice, whichever is later.
+(2) The certificate of insurance must be filed and held in the office of the department.
+Enrolled House Bill 2099 (HB 2099-A) Page 30
+(3) A dealer is exempt from  the requirement to file the certificate of insurance described in this
+section if the dealer certifies,  in such form as may be required by the department, that the dealer
+will be dealing exclusively in one or more of the following:
+(a) Antique vehicles issued permanent registration under ORS 805.010;
+(b) Farm trailers;
+(c) Farm tractors;
+(d) Implements of husbandry; or
+(e) Snowmobiles, Class I or Class III all-terrain vehicles.
+SECTION 47.
+ ORS 822.045 is amended to read:
+822.045. (1) A vehicle dealer  improperly conducts a vehicle dealer business and is subject to the
+penalties under this section if the vehicle dealer commits any of the following offenses:
+(a) A vehicle dealer commits the offense of failure  to obtain a supplemental vehicle dealer cer-
+tificate if the vehicle  dealer opens any additional place of business using the same business name
+as a place of business approved under a vehicle dealer certificate without first obtaining a  supple-
+mental dealer certificate under ORS 822.040.
+(b) A vehicle  dealer commits the offense of failure to obtain a corrected vehicle dealer certif-
+icate  if  the dealer moves a place of business or changes the business name without first obtaining
+a corrected dealer certificate under ORS 822.040.
+(c) A vehicle dealer commits  the offense of failure to maintain proper vehicle dealer records if
+the dealer does not keep records or books with all of the following information concerning any  used
+or secondhand vehicles or campers the dealer deals with:
+(A) A record of the purchase, sale or exchange or of the dealer’s receipt for purpose of sale.
+(B) A description of the vehicle or camper.
+(C) The name and address of the seller, the purchaser and the alleged owner or other person
+from whom the vehicle or camper was purchased or received or to whom it was sold or delivered.
+(D) For motor vehicles, the vehicle identification number and any  other numbers or identifica-
+tion marks as may be thereon and a statement that a number  has been obliterated, defaced or
+changed, if such is a fact.
+(E) For trailers and campers, the vehicle identification number and  any other numbers or iden-
+tification marks as may be thereon.
+(F) A duly assigned certificate  of title or other primary ownership record or a bill of sale from
+the registered owner of the vehicle or camper from the time of delivery to the dealer until the dealer
+disposes of the vehicle or camper. If title is issued for the vehicle in a form other than a certificate,
+or if the primary ownership record is in a form other than a document, a dealer shall keep records
+in accordance with rules adopted by the Department of Transportation for the purpose of complying
+with this subparagraph.
+(d) A vehicle dealer commits the  offense of failure to allow administrative inspection if the
+dealer refuses to allow the department to conduct an inspection  under ORS 822.035 at any time
+during normal business hours.
+(e) A vehicle dealer  commits the offense of failure to allow police inspection if the dealer refuses
+to allow any police officer to conduct an inspection under ORS 810.480 at any time during  normal
+business hours.
+(f) A vehicle dealer commits the offense of illegal use of dealer  vehicle for hire if the dealer
+allows any vehicle operated under vehicle dealer registration  to be loaned or rented with or without
+driver for hire or direct compensation.
+(g) A vehicle dealer commits the offense of improper use of dealer  plates or devices if the dealer
+or employee of the dealer causes or permits the display or use of any special vehicle dealer  regis-
+tration plate or device on any vehicle not owned or controlled by the dealer.
+(h) A person commits the offense of improper display  of dealer plates if the person operates over
+and along the highways of this state any unregistered vehicle owned  or controlled by the dealer and
+any dealer  plates issued are not displayed in the manner provided in ORS 803.540 for the display
+of registration plates.
+Enrolled House Bill 2099 (HB 2099-A) Page 31
+(i) A vehicle dealer commits the offense of failure to exhibit  the dealer certificate if the dealer
+fails to permanently exhibit the  certificate at the place of business of the person at all times while
+the certificate is in force.
+(j) Except as provided in subsection (2) of this section, a vehicle dealer commits the  offense of
+failure to provide clear title if:
+(A) Within 15 days of transfer of any interest in a vehicle or camper to the dealer  by a con-
+sumer, the dealer fails to satisfy:
+(i) The interest of any person from whom the dealer  purchased or obtained the vehicle or
+camper;
+(ii) The interest of any person from whom the person described  in sub-subparagraph (i) of this
+subparagraph leased the vehicle or camper; and
+(iii) All security interests in the vehicle or camper entered into prior to the time of transfer.
+(B) Within 15 days  of receiving clear title to a vehicle or camper from another dealer, the pur-
+chasing dealer fails to satisfy the  interest of the dealer from which the purchasing dealer received
+the certificate of title  or other primary ownership document. For purposes of this subparagraph, a
+purchasing dealer receives a certificate of title or other  primary ownership document from a dealer
+on the date:
+(i) The purchasing dealer or the Department of Transportation takes physical  possession of the
+certificate or document; or
+(ii) A written notice is mailed by certified or registered mail, return receipt requested,  to the
+purchasing dealer from the dealer, stating  that the certificate or document is available to be picked
+up at a place and time prearranged by both parties. The written notice  must be mailed to a business
+address of the purchasing dealer that is on file with the  department. Service by mail under this
+sub-subparagraph is effective on the date of mailing.
+(k) Except as provided in subsection (3)  of this section, a vehicle dealer commits the offense of
+failure to furnish certificate of title or application for title if, within 90 calendar days of transfer
+of any interest in a vehicle or camper by the dealer, the dealer has failed to:
+(A) Furnish the certificate of title or other primary ownership record for  the vehicle or camper
+and any release  thereon or, if title has been issued or is to be issued in a form other than a certif-
+icate, any information or documents required  by rule of the department, to the security interest
+holder next named, if any, otherwise to the lessor or, if none, to the purchaser; or
+(B) Submit to the department in a manner that complies with any  applicable statutes and rules,
+an application for title on behalf of the  person to whom the title is to be furnished or whose name
+is to be shown on the title record.
+(L) A vehicle dealer  commits the offense of failure to maintain bond or letter of credit coverage
+if the dealer permits a bond or letter of credit to lapse during the period that the bond or letter of
+credit is required under ORS 822.020 [ or 822.040] or if the dealer fails to  purchase a bond or letter
+of credit required by ORS 822.030.
+(m) A person commits the offense of acting as a vehicle dealer  while under revocation, cancel-
+lation or suspension if the person conducts business as a vehicle dealer in this state and the person’s
+vehicle dealer certificate is revoked, canceled or  suspended, regardless of whether the person is li-
+censed as a vehicle dealer in another jurisdiction. This  paragraph does not apply if the person has
+other current, valid dealer certificates issued in this state.
+(n) A vehicle dealer commits the offense of improper  display of a vehicle for advertising pur-
+poses if  the dealer displays a vehicle at a location other than the dealer’s place of business for the
+purpose of advertising and the dealer does not comply with the provisions of ORS 822.040 (4).
+(2) A dealer is not considered to have committed the offense described in subsection (1)(j)(A) of
+this section if the dealer fails to satisfy an interest in a vehicle or camper that  arises from an in-
+ventory financing security interest for which the dealer is the debtor.
+(3) A  dealer is not considered to have committed the offense described in subsection (1)(k) of this
+section if the dealer demonstrates that:
+(a) The dealer has made a good faith effort to comply; and
+Enrolled House Bill 2099 (HB 2099-A) Page 32
+(b) The dealer’s inability to provide title is due to circumstances beyond the dealer’s control.
+(4) The offenses described in this section are subject to the following penalties:
+(a) The offense described in this section, failure to obtain a supplemental vehicle dealer  certif-
+icate, is a Class A misdemeanor.
+(b) The offense described in this section, failure to  obtain a corrected vehicle dealer certificate,
+is a Class A misdemeanor.
+(c) The offense described in this section, failure to maintain  proper vehicle dealer records, is a
+Class A misdemeanor.
+(d) The  offense described in this section, failure to allow administrative inspection, is a Class
+A misdemeanor.
+(e) The offense described in  this section, failure to allow police inspection, is a Class A
+misdemeanor.
+(f) The offense described in this section, illegal use of dealer vehicle  for hire, is a Class B traffic
+violation.
+(g) The offense described in this section, improper  use of dealer plates or devices, is a Class D
+traffic violation.
+(h) The  offense described in this section, improper display of dealer plates, is a Class B traffic
+violation.
+(i) The offense described in  this section, failure to exhibit the dealer certificate, is a Class A
+misdemeanor.
+(j) The offense described in this section, failure to provide clear title, is a Class A  misdemeanor.
+(k) The offense described in this section, failure to furnish certificate  of title or application for
+title, is a Class A misdemeanor.
+(L) The  offense described in this section, failure to maintain bond or letter of credit coverage,
+is a Class A misdemeanor.
+(m) The offense described in  this section, acting as a vehicle dealer while under revocation,
+cancellation or suspension, is a Class A misdemeanor.
+(n) The offense described in this section, improper display of a  vehicle for advertising purposes,
+is a Class A misdemeanor.
+SECTION 48.
+ ORS 822.060 is amended to read:
+822.060. (1) Except as provided in subsection (2) of this section, a person who holds a  vehicle
+dealer certificate issued [ or renewed ] under ORS 822.020 [ or 822.040] commits the offense of  illegal
+consignment practices if the person does any of the following:
+(a) Takes a vehicle on consignment from a person who does not hold a vehicle  dealer certificate
+issued [ or renewed ] under ORS 822.020 [ or 822.040 ], or who  is not licensed as a vehicle dealer in
+another jurisdiction, and who does not have proof that the consignor  is the registered owner, a se-
+curity interest holder or lessor of the vehicle.
+(b) Takes a  vehicle on consignment from a security interest holder without the security interest
+holder first completing a repossession action prior to  consigning the vehicle and providing the
+dealer with proper documentary proof of the repossession action.
+(c) Takes a vehicle on consignment and does not have the terms of  the consignment agreement
+in writing  and provide a copy of the agreement to the consignor. The agreement shall include a
+provision stating that if the terms  of the agreement are not met, the consignor may file a complaint
+in writing with the Department of Transportation, Salem, Oregon.
+(d) Sells a vehicle that the dealer has on consignment and does not pay the consignor  within
+10 days of the sale.
+(e) Sells a vehicle that the dealer has on consignment and does not  either provide the purchaser
+with a certificate of  title to the vehicle or with other primary ownership records in the form of
+documents or apply to the department in the  purchaser’s name for title to the vehicle within 30 days
+of the sale in a manner provided by the department by rule.
+(f) Does not allow the department or  any duly authorized representative to inspect and audit
+any records of any  separate accounts into which the dealer deposits any funds received or handled
+Enrolled House Bill 2099 (HB 2099-A) Page 33
+by the dealer or in the course of business  as a dealer from consignment sale of vehicles at such
+times as the department may direct.
+(g) Takes any part of any money paid to the dealer in connection  with any consignment trans-
+action as part or all  of the dealer’s commission or fee until the transaction has been completed or
+terminated.
+(h) Does not make  arrangement for the disposition of money from a consignment transaction
+with the seller at the time of establishing a consignment agreement.
+(i) Sells a vehicle that the dealer has taken on consignment without first giving the purchaser
+the following disclosure in writing:
+_______________________________________________________________________________________
+DISCLOSURE REGARDING
+CONSIGNMENT SALE
+ (Name  of Dealer) is selling the following described vehicle:
+ (Year)  (Make)  (Model)  (Vehicle  Identification Num-
+ber) on consignment.
+[ ] There is a security interest in this vehicle.
+[ ] There is not a security interest in this vehicle.
+YOU SHOULD TAKE ACTION TO ENSURE THAT ANY SECURITY  INTERESTS ARE RE-
+LEASED AND THAT THE TITLE TO THE VEHICLE IS TRANSFERRED TO YOU. OTHERWISE,
+YOU MAY TAKE TITLE SUBJECT TO ANY UNSATISFIED SECURITY INTERESTS.
+_______________________________________________________________________________________
+(2) The offense described in this section does not apply if the person takes a  vehicle on
+consignment from an entity other than a retail customer and the person holds a vehicle dealer cer-
+tificate issued [ or renewed ] under ORS 822.020 [ or 822.040] and operates a:
+(a) Wholesale vehicle auction company; or
+(b) National auction company  whose primary activity in this state is the sale or disposition of
+totaled  vehicles.
+(3) The offense described in this section, illegal  consignment practices, is a Class A
+misdemeanor.
+(4) The department shall adopt rules to carry out the provisions of this  section, including but
+not limited to rules to  specify which persons may take and sell vehicles on consignment and to
+regulate the taking and selling of vehicles on consignment from other jurisdictions.
+GENERAL REPEALS
+SECTION 49.
+ORS 805.242 is repealed.
+SECTION 50. ORS 805.117 is repealed.
+SECTION 51. The repeal of ORS 805.117 by  section 50 of this 2023 Act applies to regis-
+tration plates issued,  renewed or replaced on or after the effective date of this 2023 Act.
+Consular corps registration plates issued before the effective date of  this 2023 Act shall
+continue to be governed by ORS 805.117 as in effect immediately before the  effective date of
+this 2023 Act.
+DELAYED OPERATIVE DATE
+SECTION 52. (1) The amendments to  ORS 87.152, 319.550, 319.520, 319.530, 646A.090,
+802.031, 803.530, 803.552, 805.103, 805.210, 805.250, 807.080, 819.482,  822.015, 822.020, 822.025,
+Enrolled House Bill 2099 (HB 2099-A) Page 34
+822.027, 822.030, 822.033, 822.035,  822.040, 822.045, 822.050, 822.060, 822.310, 822.315, 822.515,
+822.700 and 822.990 by sections 3 to 5, 9, 16 to 22,  26 to 28, 30, 32 and 36 to 48 of this 2023 Act
+and the repeal of ORS 805.242, 822.505, 822.510, 822.520, 822.525, 822.530 and 822.535 by sections
+25 and 49 of this 2023 Act become operative January 1, 2024.
+(2) The Department of  Transportation may adopt rules or take any actions before the
+operative date specified in subsection (1) of this section that are necessary to enable the
+department, on and after the operative date specified in subsection (1) of this section,  to
+carry out the amendments to ORS 87.152, 319.550, 319.520, 319.530, 646A.090, 802.031,  803.530,
+803.552, 805.103, 805.210, 805.250,  807.080, 819.482, 822.015, 822.020, 822.025, 822.027, 822.030,
+822.033, 822.035, 822.040, 822.045, 822.050, 822.060, 822.310, 822.315, 822.515, 822.700  and 822.990
+by sections 3 to 5, 9, 16 to 22, 26  to 28, 30, 32 and 36 to 48 of this 2023 Act and the repeal of
+ORS 805.242, 822.505, 822.510, 822.520, 822.525, 822.530 and 822.535 by sections 25 and 49 of this
+2023 Act.
+CAPTIONS
+SECTION 53.
+The unit captions  used in this 2023 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of  this state or express any
+legislative intent in the enactment of this 2023 Act.
+EFFECTIVE DATE
+SECTION 54. This 2023 Act takes effect on the 91st day after the date on  which the 2023
+regular session of the Eighty-second Legislative Assembly adjourns sine die.
+Passed by House May 31, 2023
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Dan Rayfield, Speaker of House
+Passed by Senate June 22, 2023
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2023
+Approved:
+........................M.,........................................................., 2023
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2023
+..................................................................................
+Secretary of State
+Enrolled House Bill 2099 (HB 2099-A) Page 35

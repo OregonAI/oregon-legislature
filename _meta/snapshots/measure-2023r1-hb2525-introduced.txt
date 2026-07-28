@@ -1,0 +1,343 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 2525
+Sponsored by Representative MANNIX (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Creates crime of retail theft in the second degree. Punishes  by maximum of six months’
+imprisonment, $2,500 fine, or both. Requires court to impose mandatory sentence of  seven days’
+imprisonment upon first offense and 90 days’ imprisonment upon second and subsequent offense.
+Creates crime of retail theft in the first degree. Punishes by maximum of 364 days’ imprisonment,
+$6,250 fine, or both.  Requires  court to impose mandatory  sentence of 14 days’ imprisonment upon
+first offense and 180 days’ imprisonment upon second and subsequent offense.
+Creates crime of aggravated retail theft. Punishes by maximum of five years’ imprisonment,
+$125,000 fine, or both. Requires court to impose mandatory sentence of 12 months’ imprisonment.
+Modifies when venue is proper for certain retail theft offenses.
+Requires Oregon Department of  Administrative Services to reimburse counties for costs of
+incarcerating persons serving sentences  for certain retail theft offenses. Appropriates moneys to
+department for reimbursement.
+Provides that state shall indemnify owner or  employee of mercantile establishment against claim
+in civil action for false imprisonment or unlawful detention or arrest if owner  or employee believed
+plaintiff was engaging in retail theft.
+A BILL FOR AN ACT
+Relating to retail theft; creating new provisions; and amending ORS 131.315, 164.098 and 164.115.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) Sections 2 to 5 of this 2023 Act are added to and made a part of ORS
+164.015 to 164.135.
+(2) ORS 164.098 is added to and made a part of sections 2 to 5 of this 2023 Act.
+SECTION 2.
+As used in sections 2 to 5 of this 2023 Act:
+(1) “Mercantile establishment” has the meaning given that term in ORS 30.870.
+(2) “Merchandise” has the meaning given that term in ORS 30.870.
+SECTION 3.
+(1) A person commits the  crime of retail theft in the second degree if, by
+means other than  extortion, the person commits theft as described in ORS 164.015 of mer-
+chandise from a mercantile establishment and the total value of the  merchandise in a single
+or aggregate transaction is less than $500.
+(2) Retail theft in the second degree is a Class B misdemeanor.
+(3)(a) In addition to any other sentence imposed, the court shall  sentence a person con-
+victed under this section to a mandatory minimum term of imprisonment of seven days.
+(b) If, at the time  of the offense, a person has one or more previous convictions under
+this section or under section 4 of this 2023 Act or has  been convicted of any felony, the court
+shall sentence the person to a mandatory minimum term of imprisonment of 90 days.
+SECTION 4.
+(1) A person commits the crime of retail theft in the  first degree if, by
+means other than  extortion, the person commits theft as described in ORS 164.015 of mer-
+chandise from a mercantile establishment and the total value of the  merchandise in a single
+or aggregate transaction is at least $500 and less than $1,000.
+(2) Retail theft in the first degree is a Class A misdemeanor.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1991
+HB 2525
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3)(a) In addition to any other sentence imposed, the court shall  sentence a person con-
+victed under this section to a mandatory minimum term of imprisonment of 14 days.
+(b) If, at the time  of the offense, a person has one or more previous convictions under
+this section or under section 3 of this 2023 Act or has  been convicted of any felony, the court
+shall sentence the person to a mandatory minimum term of imprisonment of 180 days.
+SECTION 5.
+(1) A person commits the crime of aggravated retail theft if,  by means other
+than extortion, the person commits theft as described in ORS 164.015 of merchandise  from
+a mercantile establishment and the total value of the  merchandise in a single or aggregate
+transaction is $1,000 or more.
+(2) Aggravated retail theft is a Class C felony.
+(3) In addition to any other sentence imposed, the court shall  sentence a person con-
+victed under this section to a mandatory minimum term of imprisonment of 12 months.
+SECTION 6.
+ ORS 164.098 is amended to read:
+164.098. (1) A person commits the crime of organized retail theft  if, acting in concert with an-
+other person:
+(a) The person violates ORS 164.015 or aids or abets the other person to violate ORS 164.015;
+(b) The subject of the theft is merchandise and the merchandise is taken  from a mercantile es-
+tablishment; and
+(c) The aggregate value of the merchandise taken within any 90-day period exceeds $5,000.
+[(2) As used in this section: ]
+[(a) “Merchandise” has the meaning given that term in ORS 30.870. ]
+[(b) “Mercantile establishment” has the meaning given that term in ORS 30.870. ]
+[(3)] (2) Organized retail theft is a Class B felony.
+SECTION 7.
+ ORS 164.115, as amended by section 7, chapter 9, Oregon Laws 2022, is amended
+to read:
+164.115. For the purposes of chapter 743, Oregon Laws 1971, the value of property  shall be as-
+certained as follows:
+(1) Except as otherwise specified in this section, value  means the market value of the property
+at the time and place of the crime, or if such cannot reasonably be ascertained,  the cost of re-
+placement of the property within a reasonable time after the crime.
+(2) Whether or not they have been issued or delivered, certain written instruments, not including
+those having a readily ascertainable market value, shall be evaluated as follows:
+(a) The value of an instrument constituting an evidence of debt, including, but not limited to,  a
+check, draft or promissory note, shall be considered  the amount due or collectible thereon or
+thereby.
+(b) The value  of any other instrument which creates, releases, discharges or otherwise affects
+any valuable legal right, privilege or obligation shall be considered the  greatest amount of economic
+loss which the owner might reasonably suffer because of the loss of the instrument.
+(3) The value of a gambling chip, token, imitation currency or similar device is its face value.
+(4)(a) The value of the wildlife listed in ORS 496.705  is the amount of damages as specified in
+ORS 496.705.
+(b) The  value of the wildlife listed on the list of prohibited species, as defined in section 3,
+chapter 9, Oregon Laws 2022, is the amount of damages  as specified in section 4, chapter 9, Oregon
+Laws 2022.
+(5) When the value of property cannot reasonably be ascertained, it shall be presumed to  be an
+[2]
+HB 2525
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+amount less than $100 in a case of theft, and less than $500 in any other case.
+(6) The value of single theft transactions may be added together if the thefts were committed:
+(a) Against multiple victims by similar means within a 30-day period; [ or]
+(b) Against multiple victims within a 60-day period for offenses described in section 3, 4
+or 5 of this 2023 Act; or
+[(b)] (c)  Against the same victim, or two or more persons  who are joint owners, within a 180-day
+period.
+SECTION 8.
+ ORS 131.315 is amended to read:
+131.315. (1) If conduct constituting elements of an offense or results constituting elements  of an
+offense occur in two or more counties, trial of the offense may be held in any  of the counties con-
+cerned.
+(2) If a cause of death is inflicted on a person in one county and the person dies  therefrom in
+another county, trial of the offense may be held in either county.
+(3) If the commission  of an offense commenced outside this state is consummated within this
+state, trial of the offense shall be held in the county in which the offense is consummated  or the
+interest protected by the criminal statute in question is impaired.
+(4) If an offense is committed on any body of water located  in, or adjacent to, two or more
+counties or forming the boundary between two or more counties, trial  of the offense may be held in
+any nearby county bordering on the body of water.
+(5) If an offense is  committed in or upon any railroad car, vehicle, aircraft, boat or other
+conveyance in transit and it cannot readily be determined in which county the offense was com-
+mitted, trial of the offense may be held in any county through or over  which the conveyance passed.
+(6) If an offense is committed on the boundary of  two or more counties or within one mile
+thereof, trial of the offense may be held in any of the counties concerned.
+(7) A person who commits theft, burglary  or robbery may be tried in any county in which the
+person exerts control over the property that is the subject of the crime.
+(8) If the offense is an attempt or solicitation to commit a crime,  trial of the offense may be held
+in any county in which any act that is an element of the offense is committed.
+(9) If the offense is criminal conspiracy, trial of the  offense may be held in any county in which
+any act or agreement that is an element of the offense occurs.
+(10) A person who in one county commits an inchoate offense that results in the commission  of
+an offense by another person in another  county, or who commits the crime of hindering prosecution
+of the principal offense, may be tried in either county.
+(11) A criminal nonsupport action may be tried  in any county in which the dependent child is
+found, irrespective of the domicile of the parent, guardian or other person lawfully charged with
+support of the child.
+(12)(a) If the offense is theft, forgery or identity theft and the offense consists of  an aggregate
+transaction  involving  more than one county, trial of the offense may be held in any county in which
+one of the acts of theft, forgery or identity theft was committed.
+(b) Notwithstanding paragraph (a) of this subsection, if the offense is retail theft in the
+second degree, retail theft in the first degree or aggravated retail  theft, the merchandise
+that was the subject of the theft is sold, and the district attorneys of all  counties in which
+trial may be held under paragraph (a) of this subsection decline to prosecute, trial may  be
+held in any county in which an item of the merchandise was sold.
+(13) When a prosecution is for violation of the Oregon  Securities Law, the trial of the offense
+[3]
+HB 2525
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+may be held in the county in which:
+(a) The offer to purchase  or sell securities took place or where the sale or purchase of securities
+took place; or
+(b) Any act that is an element of the offense occurred.
+(14) When a  prosecution under ORS 165.692 and 165.990 or 411.675 and 411.990 (2) and (3) in-
+volves Medicaid funds, the trial of the offense may be held in the county in which the claim was
+submitted for payment or in the county in which the claim was paid.
+(15)(a) If the offense is stalking under ORS 163.732 and involves contacts  as defined in ORS
+163.730 in more than one county, trial of the offense may be held in any county in which a contact
+occurred.
+(b) If the offense is violating a court’s stalking protective order under ORS 163.750, trial  of the
+offense may be held in the county in which the defendant engaged in conduct prohibited by the order
+or in the county in which the order was issued.
+SECTION 9.
+(1) The state shall  reimburse each county as provided in this section for the
+costs of incarcerating persons sentenced to a  term of imprisonment for retail theft in the
+second degree under section 3 of this 2023 Act, retail  theft in the first degree under section
+4 of this 2023 Act or aggravated retail theft under section 5 of this  2023 Act who are com-
+mitted under ORS 137.124 to the  custody of the supervisory authority of the county in which
+the crime of conviction occurred.
+(2) At the end of each month, the county shall submit to the Oregon Department  of Ad-
+ministrative Services a written request for  reimbursement for the cost of incarcerating
+persons described in subsection (1) of this section.
+(3) The department shall reimburse a county that submits a request under subsection (2)
+of this  section within seven days of receiving the request. The reimbursement shall occur
+at the  rate of $100 per person per day of incarceration or the actual daily cost of
+incarcerating a person, whichever is higher.
+(4) The circuit court has jurisdiction over any  dispute involving the reimbursement of
+incarceration costs under this section.
+SECTION 10. In addition to and not in lieu of any other  appropriation, there is appro-
+priated to the Oregon Department  of Administrative Services, for the biennium beginning
+July 1, 2023, out of the General Fund, the amount of $ , for distribution  to
+counties for incarceration costs under section 9 of this 2023 Act.
+SECTION 11. The state shall  indemnify an owner or employee of a mercantile establish-
+ment as defined in ORS 30.870 against a claim in  a civil action for false imprisonment or
+unlawful detention or arrest if, at the time of engaging in the conduct giving rise to the civil
+action, the owner  or employee believed the plaintiff was committing an offense described in
+sections 2 to 5 of this 2023 Act.
+[4]

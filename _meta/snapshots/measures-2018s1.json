@@ -1,0 +1,32 @@
+[
+ {
+  "AtTheRequestOf": "(at the request of Governor Kate Brown)",
+  "CatchLine": "Expands availability of elective reduced personal income tax rate for certain pass-through income to taxpayers doing business as sole proprietors.",
+  "CreatedDate": "2018-05-17T10:14:34",
+  "LCNumber": 1,
+  "MeasureNumber": 4301,
+  "MeasurePrefix": "HB",
+  "MeasureSummary": "\tExpands availability of elective reduced personal income tax rate for certain pass-through income to taxpayers doing business as sole proprietors. \n\tApplies to tax years beginning on or after January 1, 2018. \n\tTakes effect on 91st day following adjournment sine die.",
+  "MinorityCatchLine": null,
+  "ModifiedDate": "2020-06-26T19:41:22",
+  "PrefixMeaning": "House Bill",
+  "RelatingTo": "Relating to material participation in a business; prescribing an effective date.",
+  "RelatingToFull": "Relating to material participation in a business; creating new provisions; amending ORS 316.043; and prescribing an effective date.",
+  "SessionKey": "2018S1"
+ },
+ {
+  "AtTheRequestOf": null,
+  "CatchLine": "Adjourns sine die 2018 special session of Seventy-ninth Legislative Assembly.",
+  "CreatedDate": "2018-05-18T10:34:12",
+  "LCNumber": 2,
+  "MeasureNumber": 301,
+  "MeasurePrefix": "HCR",
+  "MeasureSummary": "\tAdjourns sine die 2018 special session of Seventy-ninth Legislative Assembly.",
+  "MinorityCatchLine": null,
+  "ModifiedDate": "2020-06-26T19:41:22",
+  "PrefixMeaning": "House Concurrent Resolution",
+  "RelatingTo": "Adjourning sine die the 2018 special session of the Seventy-ninth Legislative Assembly.",
+  "RelatingToFull": null,
+  "SessionKey": "2018S1"
+ }
+]

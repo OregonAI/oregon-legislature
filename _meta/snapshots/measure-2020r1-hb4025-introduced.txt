@@ -1,0 +1,982 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+80th OREGON LEGISLATIVE ASSEMBLY--2020 Regular Session
+House Bill 4025
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Rules for Micha Gross)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced.
+Imposes prohibitions, restrictions and requirements  regarding clearcutting and other forest op-
+erations near forest waters.
+Reduces share of  revenue from timber harvest privilege tax appropriated to Oregon Forest Re-
+sources  Institute  Fund. Appropriates share of revenue from timber harvest privilege tax to State
+Forestry Department for administration and enforcement  regarding clearcutting and other forest
+operations near forest waters and for infrastructure or other projects to protect forest waters.
+Refers Act to people for their approval or rejection at next regular general election.
+A BILL FOR AN ACT
+Relating to forests; creating new provisions;  amending ORS 321.017, 526.009 and 527.672; and pro-
+viding that this Act shall be referred to the people for their approval or rejection.
+Whereas a majority of Oregonians get their drinking water from  waters originating in Oregon’s
+forests, as more than 75  percent of Oregon’s municipal water supplies are sourced from public and
+private forestlands; and
+Whereas Oregon has failed to keep pace with neighboring  states and federal forest agencies in
+its protections of forest waters; and
+Whereas Oregon law allows more intensive logging closer to rivers, streams,  lakes and wetlands
+than neighboring states, which erodes banks, muddies waters, removes shade,  raises water temper-
+atures and depletes water supplies; and
+Whereas Oregon law allows the aerial application of toxic pesticides across  broader areas of
+forest watersheds than neighboring states and federal forest  agencies, which affects forest waters
+and endangers the health of residents in frontline communities throughout rural Oregon; and
+Whereas Oregon law allows more intensive logging in landslide  hazard locations than neigh-
+boring states, which increases sediment and debris in forest  waters and the costly treatment of
+drinking water for Oregonians; and
+Whereas plantation-style  industrial management of forestlands, which results in dense rows of
+even-aged trees, has increased the  risk of larger and hotter forest fires that damage fragile
+watersheds and reduce forest water storage; and
+Whereas better and  more up-to-date forest management and harvest practices will help to reduce
+the risk of severe forest fires by increasing the expanse  of fire-resistant older trees that act as na-
+tural fire breaks adjacent to forest waters; and
+Whereas a special exemption in Oregon law allows conflicts  of interest in setting and enforcing
+timber policies by the State Board of Forestry and subsidiary  committees that otherwise would be
+prohibited under state ethics laws; and
+Whereas a warming climate and more volatile weather patterns  necessitate stronger practices
+to protect Oregon drinking water supplies and maintain healthy forests across the state; and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 229
+HB 4025
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Whereas clean and protected forest waters are vital to Oregon families and communities for  use
+in the home and for recreation, tourism and businesses in every sector of our economy; and
+Whereas the people  of Oregon find it necessary to update and improve Oregon laws to better
+protect health and safety and to promote Oregon’s economic  well-being by protecting and preserving
+Oregon’s forest waters; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+As used in this section and sections 2 to 14 of this 2020 Act:
+(1) “Actual conflict of interest” has the meaning given that term in ORS 244.020.
+(2) “Aerial application  of pesticides” means the spraying or any other application of pes-
+ticide by aircraft.
+(3) “Aerial pesticide applicator” means a person certified under ORS 634.128.
+(4) “Clearcut logging”:
+(a) Means  a Harvest type 1, Harvest type 2 or Harvest type 3 operation, as those terms
+are defined in ORS 527.620.
+(b) Does not mean firewood cutting or timber milling for personal use.
+(5) “Common ownership” means:
+(a) Direct ownership by one or more individuals;
+(b) Ownership by a corporation, partnership or association; or
+(c) Ownership by an entity in which one or more individuals or an affiliated  corporation,
+partnership, association or other entity owns an interest.
+(6) “Common School Forest Lands” means forest parcels managed by the State  Land
+Board that were granted to the state by the federal government  when Oregon obtained
+statehood.
+(7) “Emergency” means an actual or imminent threat of  catastrophe, disaster or un-
+foreseen condition or circumstance that causes or threatens to cause widespread loss of  life
+or injury to person or property.
+(8) “Fishbearing stream” means a stream:
+(a) Inhabited at any time of the year by:
+(A) Anadromous or game fish species;
+(B) Fish that are identified on any lists that  are adopted, by rule, by the State Fish and
+Wildlife Commission; or
+(C) Fish that are listed under the federal Endangered Species Act of 1973 (P.L.  93-205, 16
+U.S.C. 1531), as amended; or
+(b) That contains fish habitat accessible to fish  species described in paragraph (a) of this
+subsection.
+(9) “Forest operation” means any commercial activity relating to the growing or har-
+vesting of a forest tree species as defined in ORS 527.620.
+(10) “Forest waters” means any waters of this state, as defined in ORS 536.007, on
+forestland.
+(11) “Large stream” means  a stream with an average annual flow of 10 cubic feet per
+second or greater.
+(12) “Medium stream” means a stream with  an average annual flow greater than 2 and
+less than 10 cubic feet per second.
+(13) “Perennial stream” means:
+(a) Flowing water that does not go dry at any time  during a year having normal rainfall;
+[2]
+HB 4025
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+or
+(b) Intermittently dry portions of  a perennial channel below the uppermost point of per-
+ennial flow.
+(14) “Pesticide” has the meaning given that term in ORS 634.006.
+(15) “Pesticide operator” has the meaning given that term in ORS 634.006.
+(16) “Public official” has the meaning given that term in ORS 244.020.
+(17) “Small tract forestland” means forestland that:
+(a) Is subject to assessment under ORS 321.700 to 321.754 and  from which the harvesting
+of timber is subject to severance taxation under ORS 321.700 to 321.754;
+(b) Has an owner that owns or holds common ownership in  at least 10 acres of Oregon
+forestland but less than 5,000 acres of Oregon forestland; and
+(c) Constitutes all forestland within  a single tax lot and all forestland within contiguous
+parcels owned or held in common ownership by the owner.
+(18) “Stream”:
+(a) Means the following parts of a river, creek or other channel that carries  flowing
+surface water during part of the year:
+(A) The water and any vegetation, aquatic life or habitats in the water;
+(B) Beds  and banks below the high-water level capable of containing water, whether or
+not water is actually present;
+(C) The area between the high-water level of connected side channels;
+(D) Beaver ponds, oxbows and side channels, if connected by surface  flow to the stream
+during a portion of the year;
+(E) Stream-associated wetlands; and
+(F) The area adjacent to an unconfined stream channel where, except as modified  by a
+permanent levee or dike, channel  location is reasonably expected to shift position on its
+floodplain through lateral avulsion or erosion during the  period of 180 to 500 years, depending
+on site conditions, required to grow mature forest trees from the surrounding area.
+(b) Does not mean:
+(A) Ephemeral overland flow;
+(B) Road drainage systems;
+(C) Waste  treatment lagoons, reservoirs for industrial use, drainage ditches, irrigation
+ditches, farm ponds, stock ponds, settling ponds, gravel ponds,  cooling ponds, log ponds,
+pump chances or other water  bodies developed for human purposes that are not part of a
+stream; or
+(D) Heli-ponds that are maintained for the intended use by human activity.
+(19) “Written plan” has the meaning given that term in ORS 527.620.
+SECTION 2.
+(1) The purpose of sections 2 to 14 of this 2020 Act,  and the policy of the
+State of Oregon, is to protect forest waters on privately owned,  state owned and local gov-
+ernment owned forestlands in Oregon.
+(2) Sections  2 to 14 of this 2020 Act are intended to be interpreted and applied consist-
+ently with the purpose and policy stated in subsection (1) of this  section. To the extent of
+any conflict between the purpose or policy stated  in subsection (1) of this section and any
+policy adopted under ORS 527.610 to 527.770, the purpose or policy stated in subsection (1)
+of this section prevails. To the extent that sections 2 to 14 of this 2020 Act conflict  with ORS
+527.610 to 527.770, sections 2 to 14 of this 2020 Act prevail over ORS 527.610 to 527.770.
+[3]
+HB 4025
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) The people of Oregon find and declare that:
+(a) Oregon’s forest waters are threatened; and
+(b) Significant and immediate threats to forest waters are caused by  aerial application
+of pesticides, logging  adjacent to forest waters and logging-associated forest operations on
+high landslide hazard locations.
+SECTION 3.
+(1) Notwithstanding ORS 468B.110 or 527.610  to 527.770, except as provided
+in subsection (4) of  this section and section 4 of this 2020 Act, clearcut logging and associated
+forest operations are prohibited:
+(a) Within 100 feet of fishbearing streams, large streams, medium streams,  significant
+wetlands, wetlands five acres or larger, and streams with domestic water use;
+(b) Within 50 feet of perennial streams, lakes and  wetlands larger than one half-acre; and
+(c) Within 50 feet of small nonfishbearing  streams subject to rapidly moving landslides
+as defined in ORS 195.250.
+(2) The  existence of a man-made barrier to fish passage is not a basis for withholding
+classification of a stream as a fishbearing stream.
+(3) The distances specified in  subsection (1) of this section refer to horizontal distances
+from the forest waters, applied as exact minimum distances and not  as average distances
+over a unit of stream length.
+(4) The areas within which clearcut logging and associated forest  operations are prohib-
+ited in subsection (1) of this  section are subject to site-specific limited exceptions as specified
+in a written plan approved by the State Forester for:
+(a) Maintenance of existing road crossings and unavoidable yarding corridors to the
+minimum size necessary, if an additional  contiguous riparian area equal in size to the road
+crossing or yarding corridor remains unharvested and the area impacted  by the maintenance
+is rehabilitated to the maximum extent practicable;
+(b) Thinning of small, undercanopy vegetation in a stand, if the best available information
+demonstrates the thinning to be necessary and effective to mitigate the risk of fire  within
+the defensible space of dwellings, public buildings or critical built infrastructure, or to allow
+the safe use of prescribed burning as a forest restoration tool on dry forest types;
+(c) Thinning of small,  undercanopy vegetation in a stand, if the best available information
+demonstrates the thinning will enhance the resilience of the riparian area to drought or  fire;
+or
+(d) Thinning of small, undercanopy vegetation in a stand  to restore properly functioning
+riparian conditions, by means of an operation reviewed and approved by a  state-employed
+specialist in aquatic and riparian functions.
+(5) The State Forestry  Department may increase the size of areas specified in subsection
+(1) of this section, or  specify additional restrictions on forest operations within areas speci-
+fied in  subsection (1) of this section, to protect the quality or quantity of forest waters as
+necessary, based on the best available information, significant new information or changing
+climatic conditions, to:
+(a) Comply with  state water quality standards or the protection goals of ORS 527.610 to
+527.770; or
+(b) Avoid impacts to threatened and endangered fish or to wildlife species  and habitats
+inventoried as resource sites under ORS 527.710.
+SECTION 4.  (1) The State Board of Forestry shall adopt rules for clearcut logging adja-
+[4]
+HB 4025
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+cent to forest waters on small tract forestland for which 20  percent or more of the total
+acreage is in an area described in section 3 (1)  of this 2020 Act. Section 3 (1) of this 2020 Act
+does not apply to small tract  forestland on which logging and forest operation activities
+comply with rules adopted under this section.
+(2) In developing rules under this section,  the board shall balance the regulatory impact
+of section 3 of this 2020 Act with the purpose and policy outlined in  section 2 of this 2020
+Act while minimizing the threat of harm to forest waters.
+SECTION 5.
+(1) Aerial application of pesticides within 500 feet of all forest waters is
+prohibited. The distance specified in  this section refers to the horizontal distance from the
+forest waters, applied as exact minimum distances and  not as average distance over a unit
+of stream length.
+(2) The prohibition established in this section is in addition to, and not in lieu  of, any
+other prohibitions on pesticide application established by law.
+SECTION 6. (1) The  State Forestry Department shall maintain an electronic reporting
+and notification system for pesticide operators, timber owners or landowners proposing to
+conduct a forest operation involving an aerial application of pesticides to forestland.
+(2) A  pesticide operator, timber owner or landowner must file notice with the State
+Forester of a forest operation involving an aerial application of pesticides  to forestland. Such
+notice must be filed not  less than 14 and not more than 21 business days prior to the pro-
+posed date of the application. The notice must include, at a minimum:
+(a) The name and business address of the pesticide operator, timber  owner, landowner
+and aerial pesticide applicator;
+(b) For the pesticide product expected to be used in the aerial application:
+(A) The common name or brand name;
+(B) The name of any carrier substance to be used; and
+(C) Any registration number issued by  the United States Environmental Protection
+Agency, the State  Department of Agriculture or any other federal or state administrative
+agency;
+(c) The total amount and concentration of the pesticide and any substance  used to en-
+hance the effectiveness of the pesticide product expected to be used;
+(d) The proposed date for the aerial application of pesticides; and
+(e) A legal description and map for the proposed area for the  aerial application of pesti-
+cides.
+(3) Upon receipt of a notice required by subsection (2)  of this section, the State Forestry
+Department shall send notice  to any person who has requested notification of planned pes-
+ticide applications, submitted a valid electronic mail address  to the department and provided
+a physical address that is not more than one mile from the proposed site of the aerial ap-
+plication of pesticides.
+SECTION 7.
+ (1) State Forester approval of a written  plan for operation is required prior
+to logging or other forest operations that are conducted on or  may affect a site that, on
+November 3, 2020, was a site that the State Forester identified as designated  in State Board
+of Forestry rules as being a high landslide hazard location.
+(2) The State  Forester may not approve a written plan for an operation on a site that is
+a high landslide hazard location unless:
+(a) The best available information supports a determination that the proposed  forest op-
+[5]
+HB 4025
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+eration will not increase the risk, frequency, magnitude or extent of a landslide  that could
+deliver sediment or debris to forest waters; and
+(b) The State Forester’s determination is consistent with the recommendation  of a
+state-employed geotechnical expert.
+(3) The board shall update and complete maps for state and private  forestlands every two
+years to identify all  high landslide hazard locations identified by the State Forester under
+subsection (1) of this  section that the State Forester considers capable of delivering sediment
+or debris to forest waters. The board shall make the maps available to the public.
+(4) The State Forester may identify areas containing features that  indicate inherent in-
+stability where forest operations should be excluded or limited to avoid exacerbating the risk
+of landslide initiation that could deliver sediment or  debris to forest waters. The State
+Forester shall apply the requirements of subsection (2) of this  section to areas identified
+under this subsection. The board shall include areas identified by the  State Forester under
+this subsection in the maps described in subsection (3) of this section.
+SECTION 8.
+ (1) The State Board  of Forestry shall adopt rules for carrying out sections
+2 to 14 of this 2020 Act in a manner  consistent with the purpose, policy and findings in sec-
+tion 2 of this 2020 Act and for carrying  out forest practices affecting the quantity and quality
+of forest  waters. The board shall base its rulemaking decisions on the best available infor-
+mation, including but not limited  to information related to climate change and the probable
+negative effects of climate  change on the quality and quantity of forest waters and drinking
+water from forest water sources. ORS 527.714 does not limit board authority to  adopt rules
+for carrying out sections 2 to 14 of this 2020 Act.
+(2) When adopting rules under sections 3 and 4 of this 2020 Act, the  board shall consult
+with the  Department of Environmental Quality and the Oregon Health Authority. Rules de-
+scribed in  this subsection may expand the areas in and methods by which logging is re-
+stricted under sections 2 to 14 of this 2020 Act  if necessary to protect the quality and
+quantity of forest waters flowing through forestlands.
+(3) When adopting rules relating to sections 5 and 6 of this 2020 Act and ORS 527.672,  the
+board shall consult with the  State Department of Fish and Wildlife, the Department of En-
+vironmental Quality and the Oregon  Health Authority. Rules described in this subsection
+may expand the areas within which the aerial application of pesticides is prohibited if nec-
+essary to protect the quality of forest waters.
+(4) When adopting rules under section 7 of this 2020 Act, the State Forester  shall consult
+with the State Department of Geology and Mineral Industries. Rules described in this  sub-
+section may expand  the areas in which logging is restricted if necessary to protect the
+quality of forest waters.
+SECTION 9. (1) Any action,  decision or recommendation by any person acting in a ca-
+pacity as a public official regarding forest waters or any provision of sections 2 to 14 of this
+2020 Act, the effect of which would be to the private pecuniary  benefit or detriment of the
+person or the person’s relative or any business with which the  person or a relative of the
+person is associated, is an actual conflict of interest. Except as provided  in this subsection,
+the existence  of an actual conflict of interest under this section is independent of whether
+the circumstances creating the  actual conflict of interest also create a potential conflict of
+interest under ORS 244.020. Circumstances creating an exemption from a potential  conflict
+of interest under ORS 244.020 (13)(b) do not  create an actual conflict of interest under this
+[6]
+HB 4025
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+section.
+(2) Notwithstanding ORS 244.120 (1)(c), a public official having an actual conflict of in-
+terest under subsection (1) of this section shall announce publicly  the nature of the conflict.
+After announcing the nature of the actual conflict of  interest, the public official may par-
+ticipate as a public official in any discussion or debate on the issue  out of which the conflict
+arises but may not vote on the issue.
+SECTION 10. 
+(1) The State Forestry Department shall adopt rules setting forth the  re-
+quirements and procedures for a written plan for a forest operation under section 3 or 7 of
+this 2020 Act. The rules must, at a minimum, provide that:
+(a) A written  plan approved by the State Forester must comply with sections 2 to 14 of
+this 2020 Act and be consistent with the  purpose and policy stated in section 2 of this 2020
+Act;
+(b) The  State Forester may not approve a written plan until members of the public and
+interested persons are provided an opportunity to comment on the plan;
+(c) Opportunities for comment under paragraph (b) of this subsection must be for a pe-
+riod that ends not less than 14 calendar days after the public is provided notice of the written
+plan; and
+(d) Logging or associated forest operations under a written plan may not begin until the
+State Forester makes a final decision approving the written plan and:
+(A) The time for filing a request for hearing under subsection  (2) of this section has ex-
+pired; or
+(B) A stay of the operation under subsection (3) of this section has expired.
+(2) Any person who timely provides comments on the written plan may  request a hearing
+within 30 days after issuance of the order approving the written plan.
+(3) If a request for  hearing is filed under subsection (2) of this section, logging or forest
+operations under section 3 or 7 of this 2020 Act for which a written plan is  required shall be
+stayed until the hearing has concluded and an order has been  issued and become final by
+operation of law or on appeal.
+(4) An undertaking may not be  required of a person for requesting a hearing under sub-
+section (2) of this section.
+(5) Attorney fees may not be awarded against a person who requested a  hearing under
+subsection (2) of this  section or appealed a decision resulting from a hearing, unless there
+was no objectively reasonable basis for requesting a hearing or appealing the decision.
+(6) To the extent of any conflict between this section and ORS  527.670 or 527.700, this
+section controls.
+(7) ORS 527.674 does not apply to rules adopted under this section.
+SECTION 11.
+ For purposes of ORS 195.305, sections  2 to 14 of this 2020 Act and rules
+adopted under sections 2 to 14 of this 2020 Act are  not land use regulations that restrict the
+residential use of private real property or a farming or forest  practice. For purposes of ORS
+195.305 (3)(b), sections 2 to 14 of this 2020 Act and  rules adopted under sections 2 to 14 of this
+2020 Act are activities for the protection of public health and safety.
+SECTION 12. (1) Except as otherwise provided in sections 2 to 14 of this 2020 Act,
+sections 2 to 14 of  this 2020 Act apply to all forestlands in Oregon, including but not limited
+to privately owned, state owned and local government owned forestlands.
+(2) Sections 2 to 14 of this 2020 Act do not apply to:
+[7]
+HB 4025
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Federal or tribal forestlands exempt from regulation under sections 2 to 14 of  this
+2020 Act by federal law; or
+(b) Common School Forest Lands.
+SECTION 13.
+Sections 2 to 14 of this 2020 Act do not limit or  restrict the administration
+or enforcement of water quality standards established by the  Environmental Quality Com-
+mission or under any other provision of  law on federal forestlands, tribal forestlands or
+Common School Forest Lands, or  on watersheds that supply drinking water for municipal
+and other local water systems, including, but not limited to:
+(1) The Bull Run Watershed, supplying the City of Portland;
+(2) The McKenzie River Watershed, supplying the Eugene metropolitan area;
+(3) The Ashland Creek Watershed, supplying the City of Ashland;
+(4) The Twin  Mountain inventoried roadless area and Marble Point roadless area, serving
+Baker City;
+(5) The Tumalo Creek Watershed, supplying the Bend metropolitan area; and
+(6) The North Santiam Watershed, supplying the City of Salem and surrounding  com-
+munities.
+SECTION 14.
+The State  Forester may temporarily suspend State Forestry Department
+administration and enforcement of  section 3, 5, 6, 7 or 10 of this 2020 Act, or any rules
+adopted under section 4, 8 or 10 of this 2020 Act, to allow response to an emergency  posing
+hazards to public health, safety or property, including but not limited to allowing firefighting
+response. A suspension under this section may not exceed 60  calendar days unless renewed
+with a subsequent finding of necessity by the State  Forester. For each suspension and re-
+newal of suspension under to this  section, the State Forester shall provide a post-incident
+report to  the State Board of Forestry and post the report on the department website. The
+report must detail the reasons for, and effectiveness of,  the suspension and the effect of the
+suspension on affected forest waters.
+SECTION 15.
+(1) As used in this  section, “clearcut logging” and “forest waters” have the
+meanings given those terms in section 1 of this 2020 Act.
+(2) At least once each biennium, the Secretary of State shall conduct financial  and per-
+formance audits regarding the effectiveness of sections 2 to 14 of this  2020 Act in protecting
+forest waters. The audits shall include:
+(a) An analysis of the condition of forest waters based on  the best available information,
+including trends in improvements or deterioration  in the quantity and quality of forest wa-
+ters. This analysis shall include consideration of the  expected impacts on forest waters from
+climate change.
+(b) An analysis of the collection of revenue made available under ORS  321.017 for use by
+the State Forestry Department, and the outcomes of the use of that revenue.
+(c) A survey of California, Idaho and Washington  statutory and administrative rule pro-
+tections of waters on forestlands in those states.
+(d) A report on enforcement actions and rates  of compliance with the provisions of
+sections 2 to 14 of this 2020 Act.
+(e) A presentation of the best available information regarding:
+(A) Reductions in water quality and quantity resulting from the cumulative  impact of
+clearcut logging on forest waters; and
+(B) Increases in fire severity and  fire intensity in forestlands replanted following clearcut
+[8]
+HB 4025
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+logging.
+(f) Recommendations for amendments to modify or  improve sections 2 to 14 of this 2020
+Act consistent with the purpose  and policy stated in section 2 of this 2020 Act. The recom-
+mendations may include, but need not be limited  to, recommendations for the appropriation
+of additional funds necessary for  achieving the purpose and policy of sections 2 to 14 of this
+2020 Act.
+(3) The audits described in subsection (2) of this section shall be conducted  pursuant to
+the provisions of ORS chapter 297. However, if any provision of sections 2 to 14 of  this 2020
+Act conflict with ORS chapter  297, the provisions of sections 2 to 14 of this 2020 Act control.
+(4) The Secretary of State shall, at a minimum:
+(a) Deliver the audit results to the State Board of  Forestry and the Environmental
+Quality Commission;
+(b) Make the audit results publicly available on behalf of the residents of Oregon  through
+news media; and
+(c) Post the audit results on the Secretary of State’s website.
+(5) The Secretary of State shall monitor and  report annually on agency progress in im-
+plementing recommendations made in the  audits. The secretary shall follow up on recom-
+mendations as part of recurring audit work  or as an activity separate from other audit
+activity. When  following up on recommendations, the secretary may request that the ap-
+propriate agency provide evidence of implementation.
+SECTION 16.
+ ORS 321.017 is amended to read:
+321.017. (1) In addition to the  taxes levied under ORS 321.015 (1) to (4), there hereby is levied
+a privilege tax upon taxpayers on the harvesting of all  merchantable forest products harvested on
+forestlands in the amount provided in subsection (2) of this section.
+(2) The rate of tax levied in subsection (1) of this  section shall be established annually at the
+beginning of each calendar year by the  board of directors of the Oregon Forest Resources Institute,
+at a rate not to exceed 75  cents per thousand feet, board measure, adjusted annually for inflation
+since 1991 based on the Consumer  Price Index for All Urban Consumers, West Region (All Items),
+as published by the Bureau of Labor Statistics of the United States Department of Labor.
+(3) The tax shall be measured by and be  applicable to each per thousand feet, board measure,
+and such shall be subject to  and determined by the procedures and provisions of ORS 321.015 (5)
+and (6).
+(4) The tax levied by subsection (1) of this section  shall be due and payable to the Department
+of Revenue  in the manner and procedure, including penalties and interest, as set forth for the col-
+lection of the privilege tax in ORS 321.005 to 321.185.
+(5) The revenue from the tax levied by  subsection (1) of this section shall be remitted to the
+State Treasurer who shall deposit it in a suspense account established  under ORS 321.145 (1). After
+payment of refunds, which  shall be paid in the same manner as other forest products harvest tax
+refunds are paid in ORS 321.145 (2)[ ,]:
+(a) One-third of  the balance of the additional tax [ imposed] levied under  subsection (1) of this
+section shall be deposited in the Oregon Forest Resources Institute Fund[ .];
+(b) One-third of the balance of the additional tax  levied under subsection (1) of this sec-
+tion shall be deposited to the State Forestry Department Account  and used for the purposes
+of administering and enforcing sections 2  to 14 of this 2020 Act and for providing technical
+assistance;
+[9]
+HB 4025
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) One-third of the balance of the additional tax levied  under subsection (1) of this sec-
+tion shall be deposited to the State Forestry Department Account and used for the purpose
+of protecting forest waters by supporting measures for reducing or eliminating hazards to:
+(A) Critical built infrastructure; or
+(B) Homes  and public buildings in wildfire hazard zones identified by the State Forestry
+Department that rely on forest waters as their drinking water source.
+(6) Measures referred to in subsection (5)(c) of this section may include,  but need not be
+limited to, the provision of information,  technical assistance and financial assistance by the
+department for property owners and residents in  wildfire hazard zones beyond what is oth-
+erwise required under the  state building code or Department of Consumer and Business
+Services rules to mitigate wildfire hazard.
+(7) The moneys made available for department use  under subsection (5)(b) and (c) of this
+section are in addition to, and not in lieu of, any other moneys appropriated  or otherwise
+made available to the department.
+SECTION 17.
+ ORS 526.009 is amended to read:
+526.009. (1) There is created a State Board  of Forestry consisting of seven members appointed
+by the Governor. The members  appointed to the board shall be subject to confirmation by the Senate
+as provided in ORS 171.562 and 171.565. The Governor  shall designate one member of the board as
+chairperson to hold that position until that member’s term expires or until relieved by the  Governor
+as provided in subsection [ (6)] (8) of this section. The chairperson  shall have such powers and duties
+as are provided by the rules of the board.
+(2) The term of office of a member of the board is four years. A member  shall be eligible for
+reappointment, but no member shall serve more  than two consecutive full terms. In case of a va-
+cancy for any cause, the Governor  shall make an appointment as provided in subsection (1) of this
+section.
+(3) Appointments made by the Governor under subsection (1) of this section  shall include ap-
+pointment of at least one member from each of the forest regions  established under ORS 527.640 and
+the rules adopted thereunder by January 1, 1987.
+(4) No more than three members of the board may derive any significant portion of  their income
+directly from persons or organizations that are subject to regulation  under ORS 527.610 to 527.770,
+527.990 (1) and 527.992.
+(5) A member of the board who derives any significant portion of their income  directly
+from persons or organizations that are subject to regulation under ORS  527.610 to 527.770
+has an actual conflict of interest regarding any action, decision  or recommendation as a
+member of the board  regarding forest waters or any provision of sections 2 to 14 of this 2020
+Act.
+(6) A member of the board  having an actual conflict of interest under subsection (5) of
+this section shall announce publicly the nature of the  conflict. After announcing the nature
+of the actual conflict of interest, the member may participate as a public official  in any dis-
+cussion or debate on the issue out of which the conflict  arises but may not vote on the issue.
+[(5)] (7) Except as provided in subsection (4) of this section, no member of the board shall  have
+any relationship or pecuniary  interest that would interfere with the member representing the public
+interest.
+[(6)] (8)  The Governor may at any time remove any member of the  board for inefficiency, in-
+competence, neglect of duty, malfeasance in  office, unfitness to render effective service or failure to
+[10]
+HB 4025
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+continue to meet the criteria of appointment pursuant to this section.
+SECTION 18.
+ ORS 527.672 is amended to read:
+527.672. When a forest operation involves applying  [ herbicides] pesticides  by aircraft near an
+inhabited dwelling or school, the operator [ is responsible for leaving an unsprayed strip of at  least
+60] may not spray the area within 500  feet adjacent to the dwelling or school. The  [responsibility
+of the operator under ] prohibition imposed by this section is in addition to any responsibility  of the
+aerial pesticide applicator imposed under ORS chapter 634 or section 5 or 6 of this 2020 Act .
+SECTION 19. No later than January 1, 2022, the Department of Consumer and Business
+Services shall  adopt rules to ensure and protect the health and safety of persons who per-
+form or have contact  with pesticides used in any forestland applications. When adopting
+rules under this section, the department shall consult with the Department of Environmental
+Quality and the Oregon Health Authority. Section 8 (3) of this 2020 Act does not  apply to
+rules adopted under this section.
+SECTION 20.
+The State Board of Forestry shall make the first map required  under sec-
+tion 7 of this 2020 Act available to the public no later than January 1, 2022.
+SECTION 21. The Secretary of State shall  complete and publish the first audit under
+section 15 of this 2020 Act no later than December 31, 2022.
+SECTION 22. Sections 19, 20 and 21 of this 2020 Act are repealed January 2, 2024.
+SECTION 23. Sections 1 to 15 and 19 to  22 of this 2020 Act apply to forest operations
+commenced on or after the effective date of this 2020 Act.
+SECTION 24. The amendments to ORS 321.017 by section 16 of this 2020 Act apply  to
+privilege taxes levied on timber harvesting that occurs  on or after the effective date of this
+2020 Act.
+SECTION 25. The amendments to ORS 526.009 by section 17 of this 2020 Act  apply to the
+actions, decisions and recommendations of State Board of Forestry members  made on or
+after the effective date of this  2020 Act and to board discussions, debate and votes occurring
+on or after the effective date of this 2020 Act.
+SECTION 26. The amendments to ORS 527.672 by section 18 of this 2020 Act apply to ae-
+rial applications of pesticides made on or after the effective date of this 2020 Act.
+SECTION 27. This 2020 Act shall be submitted to the people for their approval or re-
+jection at the next regular general election held throughout this state.
+[11]

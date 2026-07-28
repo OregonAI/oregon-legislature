@@ -1,0 +1,1124 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 2324
+Sponsored by Representative FAHEY (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Expands definition of “funds of a public agency” to  include dollar amount of tax credits or tax
+abatements for purposes of public contracting law.
+Directs Oregon Business Development Department to adopt rules  under which enterprise zone
+sponsor may promote manufacturing related to renewable and clean energy technology in zone.
+Requires business firms to  show compliance with respect to certain conditions related to labor
+and employment for eligibility for  certain enterprise zone property tax exemption programs. Re-
+quires such business firms receiving property tax benefits with value above threshold  and certain
+subcontractors to abide by additional conditions related to hiring and employment.
+Requires person paying fee in lieu of property taxes on  solar project property to agree that
+businesses performing work on solar project shall comply with certain conditions related to  labor
+and employment.
+Directs Oregon Business Development Department to create clean energy manufacturing initi-
+ative to promote clean energy manufacturing. Authorizes department to make  loans to eligible
+business firms for such purpose. Establishes Oregon  Clean Energy Manufacturing Initiative Fund to
+fund loans. Allocates moneys for deposit into fund.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to tax benefits; creating  new provisions; amending ORS 279C.810, 285C.066, 285C.140,
+285C.240, 285C.403 and 285C.420 and section 1, chapter 571, Oregon Laws 2015; and  prescribing
+an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 279C.810 is amended to read:
+279C.810. (1) As used in this section:
+(a) “Funds of a public agency” does not include:
+(A) Funds provided in the form of a government grant to a nonprofit  organization, unless the
+government grant is issued for the purpose of construction,  reconstruction, major renovation or
+painting;
+(B) Building and development permit fees paid or waived by the public agency;
+[(C) Tax credits or tax abatements; ]
+[(D)] (C) Land that a public agency sells to a private entity at fair market value;
+[(E)] (D) The difference between:
+(i) The value of land that a public agency sells to a private entity as determined at the time  of
+the sale  after taking into account any plan, requirement, covenant, condition, restriction or other
+limitation, exclusive of zoning or land  use regulations, that the public agency imposes on the de-
+velopment or use of the land; and
+(ii) The fair market value of the land if the land  is not subject to the limitations described in
+sub-subparagraph (i) of this subparagraph;
+[(F)] (E) Staff resources of the public agency used to manage a project or to provide a principal
+source of supervision, coordination or oversight of a project;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1457
+HB 2324
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(G)] (F) Staff resources of the public  agency used to design or inspect one or more components
+of a project;
+[(H)] (G) Moneys derived from the sale of bonds that are loaned by a state agency to a  private
+entity, unless the moneys will be used for a public improvement;
+[(I)] (H) Value added to land as a consequence of a public  agency’s site preparation, demolition
+of real property or remediation or removal  of environmental contamination, except for value added
+in excess of  the expenses the public agency incurred in the site preparation, demolition or remedi-
+ation or removal when the land is sold for use in a project otherwise  subject to ORS 279C.800 to
+279C.870; or
+[(J)] (I) Bonds, or loans from  the proceeds of bonds, issued in accordance with ORS chapter 289
+or ORS 441.525 to 441.595, unless the bonds or loans will be used for a public improvement.
+(b) “Nonprofit organization” means an organization or group of organizations described in  sec-
+tion 501(c)(3) of the Internal Revenue Code that is exempt from income tax  under section 501(a) of
+the Internal Revenue Code.
+(2) ORS 279C.800 to 279C.870 do not apply to:
+(a) Projects for which the contract price does not exceed $50,000. In determining the price of  a
+project, a public agency:
+(A) May not include the value of  donated materials or work performed on the project by indi-
+viduals volunteering to the public agency without pay; and
+(B) Shall include the value of work performed by  every person paid by a contractor or subcon-
+tractor in any manner for the person’s work on the project.
+(b) Projects for which  no funds of a public agency are directly or indirectly used. In accordance
+with ORS chapter 183, the Commissioner of the Bureau  of Labor and Industries shall adopt rules to
+carry out the provisions of this paragraph.
+(c) Projects:
+(A) That are privately owned;
+(B) That use funds of a private entity;
+(C) In which less than 25 percent of the square footage of a completed project will be occupied
+or used by a public agency; and
+(D) For which less than $750,000 of funds of a public agency are used.
+(d) Projects for residential construction that are privately owned and that predominantly provide
+affordable housing. As used in this paragraph:
+(A) “Affordable housing”  means housing that serves occupants whose incomes are no greater
+than 60 percent of the area median income or, if the occupants are owners, whose incomes are  no
+greater than 80 percent of the area median income.
+(B) “Predominantly” means 60 percent or more.
+(C) “Privately owned” includes:
+(i) Affordable housing provided on  real property owned by a public agency if the real property
+and related structures are leased to a private entity for 50 or more years; and
+(ii) Affordable housing owned by a partnership,  nonprofit corporation or limited liability com-
+pany in which a housing authority, as defined in ORS 456.005, is a general partner,  director or
+managing member and the housing authority is  not a majority owner in the partnership, nonprofit
+corporation or limited liability company.
+(D) “Residential construction” includes the construction, reconstruction, major  renovation or
+painting of single-family  houses or apartment buildings not more than four stories in height and all
+[2]
+HB 2324
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+incidental items, such as site work, parking areas,  utilities, streets and sidewalks, pursuant to the
+United States Department  of Labor’s “All Agency Memorandum No. 130: Application of the Standard
+of Comparison “Projects of a Character Similar” Under Davis-Bacon  and Related Acts,” dated
+March 17, 1978. However, the commissioner may consider different definitions  of residential con-
+struction  in  determining whether a project is a residential construction project for purposes of this
+paragraph, including definitions that:
+(i) Exist in local ordinances or codes; or
+(ii) Differ, in the prevailing practice of a particular trade  or occupation, from the United States
+Department of Labor’s description of residential construction.
+SECTION 2.
+ ORS 285C.066 is amended to read:
+285C.066. The Oregon Business Development Department :
+(1) May adopt rules related to:
+[(1)] (a) The consent  required by resolution of the governing body of a city, county or port under
+ORS 285C.065 (1) in order for a city, county or port to designate an enterprise zone.
+[(2)] (b) The number of  enterprise zones that may be designated within a city or other jurisdic-
+tion.
+(2) Shall adopt rules under which the sponsor of an enterprise zone designated under ORS
+285C.065 or 285C.250 may promote  manufacturing related to renewable and clean energy
+technology by business firms in the enterprise zone.
+SECTION 3. Section 4 of this 2021 Act is added to and made a part of ORS 285C.050 to
+285C.250.
+SECTION 4. (1) A responsible business firm is a business firm that:
+(a) Demonstrates a  history of compliance with state and federal laws relating to labor
+or employment; and
+(b) Makes a commitment with respect  to the business firm’s current and proposed busi-
+ness operations within the boundary of an enterprise zone that the business firm:
+(A) Will not require employees employed by, or  other workers who contract with, the
+business firm to  enter into an agreement that includes a mandatory arbitration clause or
+any other  provision that requires the employees or workers to submit to arbitration all or
+certain disputes that may arise between the business firm  and employees or workers of the
+business firm;
+(B) Will determine whether the business  firm’s workers have been correctly classified
+under the criteria set forth in ORS 670.600;
+(C) Will not use  an employment agency, as defined in ORS 658.005, or any other agency
+to procure temporary workers except as necessary  to respond to a short-term labor short-
+age;
+(D) Will not prevent, disrupt or otherwise interfere with the employees’  right to organize
+for the purposes of collective bargaining; and
+(E) Will adopt a hiring  policy that is made in accordance with the provisions of ORS
+659A.360.
+(2) The Oregon Business Development Department may require an  eligible business firm
+to provide any  documentation or other information the department considers necessary for
+determining whether the eligible business firm is a responsible business firm.
+SECTION 5.  ORS 285C.140 is amended to read:
+285C.140. (1)(a) Any eligible business firm seeking to have  property exempt from property taxa-
+[3]
+HB 2324
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+tion under ORS 285C.175 shall, before  the commencement of direct site preparation activities or the
+construction, addition, modification or installation of qualified property in an enterprise  zone, and
+before the hiring of eligible employees, apply for authorization under this section.
+(b) The application  shall be made on a form prescribed by the Department of Revenue and the
+Oregon Business Development Department.
+(c) The application shall be filed with the sponsor of the zone.  A sponsor may require that the
+application filed with the sponsor be accompanied by a filing fee. If required, the filing fee  may not
+exceed the greater of $200  or one-tenth of one percent of the value of the investment in qualified
+property  that  is proposed in the application for authorization. The filing fee may be required for the
+filing of applications only after the sponsor adopts a  policy, consistent with Oregon Business De-
+velopment Department rules, authorizing the imposition of the filing fee.
+(2) The application shall contain the following information:
+(a) A description of  the nature of the firm’s current and proposed business operations inside the
+boundary of the enterprise zone;
+(b) A description and estimated value of the qualified property to be constructed,  added, modi-
+fied or installed inside the boundary of the enterprise zone;
+(c) The number of employees of the firm that the firm  employs within the enterprise zone, av-
+eraged over the previous 12 months, and an estimate of the number of employees that the  firm will
+hire;
+(d) A showing that the eligible business  firm is a responsible business firm under section
+4 of this 2021 Act;
+[(d)] (e) A commitment  to meet all requirements of ORS 285C.200 and 285C.215, and to verify
+compliance with these requirements;
+[(e)] (f) A commitment to satisfy all additional conditions for authorization that  are imposed by
+the enterprise zone sponsor under ORS  285C.150, 285C.155 or 285C.205 or pursuant to an agreement
+entered into under ORS 285C.160, and to verify compliance with these additional conditions;
+[(f)] (g) A commitment to renew the application, consistent  with ORS 285C.165, every two years
+while the zone exists if the firm has not filed  a claim under ORS 285C.220 that is based on the ap-
+plication; and
+[(g)] (h) Any  other information considered necessary by the Department of Revenue and the
+Oregon Business Development Department.
+(3) After an application is submitted to a sponsor, the business firm may revise or amend the
+application. An amendment or revision may not be made on or  after January 1 of the first assess-
+ment year for which the  qualified property associated with the application is exempt under ORS
+285C.175.
+(4) If an application for authorization appears to be complete  and the proposed investment ap-
+pears to be eligible for authorization, the sponsor and the business firm shall conduct a preauthori-
+zation conference. The assessor of the  county in which the property will be located shall be timely
+notified and have the option to participate in the conference. The conference shall:
+(a) Identify issues with the potential to affect compliance with relevant exemption requirements,
+including but not limited to enterprise zone boundary amendments;
+(b) Arrange for methods and procedures to establish  and verify compliance with applicable re-
+quirements; and
+(c) Identify the person who is obligated to notify  the county assessor if requirements are not
+satisfied.
+[4]
+HB 2324
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5) Upon completion of the preauthorization conference required under subsection (4) of this
+section, the sponsor shall  prepare a written summary of the conference, attach the summary to the
+application and forward the application to the county assessor for review.
+(6) Following the preauthorization  conference under subsection (4) of this section, the sponsor
+and the county assessor shall authorize  the business firm by approving the application, if the spon-
+sor and county assessor determine that:
+(a) The current or proposed operations of the business firm in the enterprise zone  result in the
+firm being eligible under ORS 285C.135; and
+(b) The firm  has made the commitments and provided the other information required under
+subsection (2) of this section.
+(7) If the business firm seeking authorization is  an eligible business firm described in ORS
+285C.135 (5)(b), the sponsor must,  as a condition of approving the application, make a formal finding
+that the business firm  is an eligible business firm under ORS 285C.135 and that the size of the pro-
+posed investment, the employment at the facility of the  firm or the nature of the activities to be
+undertaken by the firm within  the enterprise zone will significantly enhance the local economy,
+promote the purposes for which the zone was created and increase employment within the zone.
+(8) The approval of both the sponsor and the county assessor  under this section shall be prima
+facie evidence that the qualified property of the  business firm will receive the property tax ex-
+emption under ORS 285C.175. In approving the application, the sponsor  and county assessor shall
+provide proof of approval as directed by the Oregon Business Development Department.
+(9) If the sponsor or  county assessor fails or refuses to authorize the business firm, the business
+firm may appeal to the Oregon Tax Court under ORS 305.404 to 305.560. The  business firm shall
+provide copies of the firm’s appeal to the sponsor, county assessor, the Department of Revenue and
+the Oregon Business Development Department.
+(10) Authorization  under this section does not ensure that property constructed, added, modified
+or installed by the authorized business firm will receive property tax exemption under ORS 285C.175.
+The sponsor and the county assessor are  not liable in any way if the Department of Revenue or the
+county assessor later determines that an authorized business firm does not satisfy  the requirements
+for an exemption on qualified property.
+(11) Notwithstanding subsection (1) of this section, if an eligible business firm has  begun or
+completed the construction, addition, modification or installation of property that meets  the quali-
+fications of ORS 285C.180, and the property has  not yet been subject to property tax after having
+been placed in service, then, for purposes of ORS 285C.050  to 285C.250, the firm shall be authorized
+under this section if the firm files an  application that is allowed under subsection (12) of this section
+and is otherwise authorized under this section.
+(12) Late submission of an application under this section is allowed if:
+(a) A rule permits late submissions of applications under this section; or
+(b) The Department of Revenue waives filing deadline requirements under this  section. The de-
+partment shall issue a letter to the eligible business firm and zone sponsor setting forth the waiver
+under this paragraph.
+SECTION 6.
+ ORS 285C.403 is amended to read:
+285C.403. (1) Any business firm proposing to apply for the tax exemption provided under ORS
+285C.409 shall,  before the commencement of construction or installation of property or improvements
+at a location in a rural enterprise zone and  before the hiring of employees, apply for certification
+with the sponsor of the zone and with the county assessor of the  county or counties in which the
+[5]
+HB 2324
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+zone is located. The application shall be made on a form prescribed by the Department of  Revenue.
+(2) The application shall contain the following information:
+(a) A description of the firm’s proposed business operations and facility in the  rural enterprise
+zone;
+(b) A description and estimated cost or value of the property or improvements to  be constructed
+or installed at the facility;
+(c) An estimate of the number of employees at the facility that will be hired by the firm;
+(d) A showing that the business firm is a responsible business firm under section 4 of this
+2021 Act;
+[(d)] (e) A commitment to meet the applicable requirements of ORS 285C.412;
+[(e)] (f) A commitment to satisfy all additional conditions agreed to pursuant  to the written
+agreement between  the rural enterprise zone sponsor and the business firm under subsection (3)(c)
+of this section; and
+[(f)] (g) Any other information considered necessary by the Department of Revenue.
+(3) The sponsor and the county assessor shall certify the business firm by approving the  appli-
+cation if the sponsor and the county assessor determine that all of the following  requirements have
+been met:
+(a) The governing body of  the county and city in which the facility is located has adopted a
+resolution approving the property tax exemption for the facility.
+(b) The business firm has committed to meet the applicable requirements of ORS 285C.412.
+(c) The  business firm has entered into a written agreement with the sponsor of the rural enter-
+prise zone that may include any additional requirements that  the sponsor may reasonably request,
+including but not limited to contributions for local services or infrastructure benefiting the  facility.
+The written agreement shall state the number of consecutive tax years for which the facility, fol-
+lowing commencement of operations, is to be exempt from  property tax under ORS 285C.409. The
+agreement may not provide for a period  of exemption that is less than seven consecutive tax years
+or more than 15 consecutive tax years. If the agreement is silent on the number  of tax years for
+which the facility is to be exempt following placement in service, the exemption  shall be for seven
+consecutive tax years.
+(d) When the  written agreement required under paragraph (c) of this subsection is executed, the
+facility is located in:
+(A) A qualified rural county; or
+(B) A county  with chronically low income or chronic unemployment, based on the most recently
+revised annual data available.
+(4) The approval of an application by both the sponsor  and the county assessor under subsection
+(3) of this section shall be prima facie  evidence that the business firm will qualify for the property
+tax exemption under ORS 285C.409.
+(5) The sponsor and the county assessor shall provide copies of  an approved application to the
+applicant, the Department of Revenue and the Oregon Business Development Department.
+(6) If the sponsor or  the county assessor fails or refuses to certify the business firm, the business
+firm may appeal to  the Oregon Tax Court under ORS 305.404 to 305.560. The business firm shall
+provide copies of the firm’s  appeal to the sponsor, the county assessor, the Oregon Business Devel-
+opment Department and the Department of Revenue.
+SECTION 7.
+The amendments to ORS 285C.140 and 285C.403 by sections 5 and  6 of this
+2021 Act apply to applications filed on or after the effective date of this 2021 Act.
+[6]
+HB 2324
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 8.
+ ORS 285C.240 is amended to read:
+285C.240. (1) [ The county assessor of the  county in which a qualified business firm is situated and
+the sponsor shall be notified in writing by the ] A qualified business firm or [ by] the owner of  [ the]
+qualified property leased by [ the] a qualified business firm shall notify the assessor of the county
+in which the qualified business firm is located and the sponsor in  writing of any of the fol-
+lowing events,  not later than July  1 following the assessment year for which the exemption is
+claimed and in which [ one of the following events ] the event  occurs:
+(a) Property granted exemption from taxation under ORS 285C.175 is sold, exchanged,  trans-
+ported or otherwise disposed of  for use outside the enterprise zone or for use by an ineligible busi-
+ness firm;
+(b) The qualified business firm closes or so  reduces eligible operations that the reduction con-
+stitutes a substantial  curtailment of operations under ORS 285C.210, unless a substantial curtailment
+of operations is permitted under ORS 285C.203;
+(c) The qualified business firm fails to meet any of  the qualifications required under ORS
+285C.200;
+(d) The qualified business firm fails to meet any condition that the firm  is required to satisfy
+under ORS 285C.150, 285C.155, 285C.203 or 285C.205 or any term  of an agreement entered into with
+the sponsor under ORS 285C.160 with which the firm had agreed to comply;
+(e) The qualified business firm is no longer a responsible business firm under section  4
+of this 2021 Act;
+[(e)] (f)  The qualified business firm uses the property to conduct  activities in the enterprise zone
+that are not eligible activities; or
+[(f)] (g) Property of the qualified business firm for which exemption under ORS 285C.175 is
+claimed ceases to be qualified property under ORS 285C.180.
+(2) If the sponsor receives written notice under  subsection (1) of this section, the sponsor shall
+immediately send a copy of the notice to the county assessor of the county in which  the enterprise
+zone is situated.
+(3)(a) When an assessor receives written notice under subsection (1) or  (2) of this section, the
+assessor  shall:
+(A) Disqualify the property for the assessment years, if any, for which exemption under ORS
+285C.175 is otherwise allowable following the disqualifying event; and
+(B) Impose 100 percent of the additional  taxes calculated under ORS 285C.175 against the
+property for each year for which the property had been granted exemption under ORS 285C.175.
+(b) Notwithstanding paragraph (a) of this subsection, if a qualified  business firm fails to meet
+any of the requirements of an agreement entered into by the  firm under ORS 285C.160 during the
+exemption, but meets all other applicable requirements under  ORS 285C.050 to 285C.250 during the
+first three years of  the exemption, the qualified property of the firm may not be disqualified during
+the first three years of exemption for failure to comply with the requirements  of the agreement en-
+tered into under ORS 285C.160.
+(c) The additional taxes assessed under this subsection shall be reduced by  the amount, if any,
+paid by the qualified business  firm to the sponsor under subsection (6) of this section for the same
+property.
+(4) If the qualified business firm or owner fails to give the  notice on time or at all as required
+by subsection (1) of this section, upon discovering the property no longer  qualifies for the exemption
+due to a circumstance described in subsection (1) of this section, the assessor shall:
+[7]
+HB 2324
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Disqualify the property from exemption;
+(b) Compute the amount of additional taxes described  in subsection (3) of this section as though
+notice had been  given, and add to that amount a penalty equal to 20 percent of the total amount
+so computed; and
+(c) Add the property to the assessment and tax  roll without the exemption as if the notice had
+been given.
+(5) The amount determined to be due under subsections (3) and (4) of this section:
+(a) May be paid to the tax collector before completion  of the next general property tax roll
+pursuant to ORS 311.370; and
+(b) Shall be added to the tax extended against  the property on the next general property tax roll
+to be collected and distributed in the same manner as the remainder of the property taxes.
+(6)(a) Notwithstanding subsections (3) and (5) of  this section, if an assessor or sponsor receives
+notice from a business firm  under subsection (1)(b), (c) or (d) of this section and the qualified busi-
+ness firm has not closed  its operations, the sponsor may collect from the qualified business firm an
+amount equal to the property taxes for the qualified property in the  assessment year for which the
+exemption is claimed in lieu of the amounts otherwise due under subsection (3) of this section.
+(b) Moneys collected under paragraph (a) of this subsection shall be used by the  sponsor to
+benefit the residents of  the enterprise zone and for the development of jobs, skills and training for
+residents of the enterprise zone and the zone’s immediate vicinity.
+(c) This subsection applies only to the first notice given by the business firm under  subsection
+(1)(b), (c) or (d) of this section.
+(d) If the sponsor does not receive the full amount to be paid by the qualified business firm  un-
+der paragraph (a) of this subsection, the assessor shall disqualify the property and impose the  entire
+amount of additional taxes as prescribed under subsection (3) of this section.
+(7) An assessor may not disqualify property under this section for failure by a qualified  business
+firm or an owner of qualified property leased by the qualified business firm  to notify the assessor
+or the enterprise zone sponsor that the qualified  business firm does not meet requirements under
+ORS 285C.150, 285C.155, 285C.160 or  285C.205, without having received written communication from
+the sponsor that demonstrates that the qualified business firm does not meet the requirements.
+(8) Additional taxes collected under this section shall be deemed to have been imposed  in the
+year to which the additional taxes relate.
+(9) If property is  disqualified from exemption under this section, the assessor shall notify the
+qualified business firm, and the  owner of any qualified property that is leased by the firm, of the
+disqualification. The notification  shall be made in writing. The assessor shall provide copies of the
+disqualification to the sponsor, the Department of Revenue and the Oregon  Business Development
+Department. The decision of the assessor to disqualify property under this section may be  appealed
+to the Oregon Tax Court under ORS 305.404 to 305.560.
+SECTION 9.
+ ORS 285C.420 is amended to read:
+285C.420. (1) If a  certified business firm does not begin operations or is not reasonably expected
+to begin operations, as determined by the county assessor consistent with criteria established by
+rule of the Department of Revenue, or is no longer a responsible business firm under section  4
+of this 2021 Act  or fails to meet the minimum requirements set forth in ORS 285C.412, while re-
+ceiving an exemption under ORS 285C.409, the  assessor shall, as of the next tax year, disqualify the
+property from the exemption.
+(2)(a) If a certified business firm that  has achieved the minimum applicable full-time hiring re-
+[8]
+HB 2324
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+quirements and annual average wage  requirements at a facility under ORS 285C.412 subsequently
+fails to maintain the applicable minimum number of  full-time employees or the minimum annual av-
+erage compensation level at the facility, or is no longer  a responsible business firm under sec-
+tion 4 of  this 2021 Act,  the assessor shall disqualify the facility from exemption under ORS
+285C.409.
+(b) This subsection does not apply if the decrease in  hiring or in annual average compensation
+is caused by circumstances beyond the control of the business firm, including force majeure.
+(3) Upon disqualification,  there shall be added to the tax extended against the property on the
+next general property tax roll, to be collected and distributed  in the same manner as the remainder
+of ad valorem property taxes, an  amount equal to the taxes that would otherwise have been assessed
+against the property and improvements for each of the tax years for which the property was exempt
+under ORS 285C.409.
+(4) The additional taxes  described in this section shall be deemed assessed and imposed in the
+year to which the additional taxes relate.
+SECTION 10.
+(1) The amendments to ORS 285C.240 by section 8 of this 2021 Act  apply to
+eligible business firms qualified under ORS 285C.200 on or after the effective date  of this 2021
+Act.
+(2) The amendments to ORS 285C.420 by section 9 of this 2021  Act apply to business firms
+certified under ORS 285C.403 on or after the effective date of this 2021 Act.
+SECTION 11. Section 12 of this 2021 Act is added to and made a part of ORS chapter 285C.
+SECTION 12. (1) A responsible business firm whose property receives property tax bene-
+fits under ORS 285C.050 to 285C.250, 285C.350 to 285C.370 or 285C.400 to 285C.420 with  an es-
+timated value of $50,000 or more for a  property tax year with respect to a capital
+improvement project shall:
+(a) Employ apprentices, in a manner  consistent with the apprentices’ respective appren-
+ticeship training programs, to perform at least 15 percent of the work hours that  workers
+in apprenticeable occupations performed on the project;
+(b) Establish and execute a plan for outreach, recruitment and retention of women,  mi-
+nority individuals and veterans to perform work  on the project, with an aspirational goal of
+having at least 15 percent of total work hours performed by such individuals;
+(c) Provide health insurance and retirement benefits to all workers on the project; and
+(d) Require any subcontractor engaged to work on the project under  a contract with an
+estimated cost of $200,000 or more to abide by  the requirements of paragraphs (a) to (c) of
+this subsection.
+(2) On or before June 30  of each property tax year for which the property of a responsible
+business firm described in subsection (1) of  this section receives an exemption, the respon-
+sible business firm shall submit a report to the Oregon Business Development Department
+setting forth:
+(a) The amount of work performed by apprentices on the project;
+(b) The amount of work performed  by women, minority individuals and veterans on the
+project; and
+(c) The types and costs  of health insurance and retirement benefits provided by con-
+tractors and subcontractors to workers on the project.
+(3) The requirements of this section are in  addition to, and not in lieu of, the require-
+ments imposed under ORS 350.379.
+[9]
+HB 2324
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(4) As used in this section:
+(a) “Apprentice” has the meaning given that term in ORS 660.010.
+(b) “Apprenticeable occupation” has the meaning given that term in ORS 660.010.
+(c) “Apprenticeship training program” means the total system  of apprenticeship that a
+local joint committee,  as defined in ORS 660.010, operates, including the local joint
+committee’s  registered standards and all other terms and conditions for qualifying, recruit-
+ing, selecting, employing and training apprentices in an apprenticeable occupation.
+(d) “Minority individual” has the meaning given that term in ORS 200.005.
+SECTION 13.
+ Section 1, chapter 571, Oregon Laws 2015, as amended by  section 1, chapter 628,
+Oregon Laws 2019, is amended to read:
+Sec. 1.  (1)(a) The governing body of a county and the owner or person in possession or  control
+of a solar project located within the county  and outside the boundaries of any incorporated city may
+enter into  an agreement that exempts from property taxes the property constituting the solar project
+and allows the payment of a fee in lieu of property taxes imposed on  the property. An agreement
+may not be entered into for a term longer than 20 consecutive years.
+(b) If  any portion of a solar project is located within the boundaries of an incorporated city, the
+governing body of the county shall consult with the governing body of the city  before entering into
+an agreement  under paragraph (a) of this subsection. An agreement entered into under paragraph
+(a) of this subsection with respect to  a solar project located within the boundaries of the incorpo-
+rated city is not effective unless the governing body of the city is a party to the agreement.
+(c) An agreement entered into under this section must require that  any work performed
+on the solar project be performed by a business that:
+(A) Demonstrates a history of compliance with state and federal  laws relating to labor
+or employment; and
+(B) Makes a commitment with respect to the work to be  performed by the business on
+the solar project that the business:
+(i) Will not require employees employed  by, or other workers who contract with, the
+business to  enter into an agreement that includes a mandatory arbitration clause or any
+other provision that requires the employees or workers  to submit to arbitration all or cer-
+tain disputes that may arise between the business and employees or workers  of the business;
+(ii) Will determine whether  the business’ workers have been correctly classified under
+the criteria set forth in ORS 670.600;
+(iii) Will not use an employment  agency, as defined in ORS 658.005, or any other agency
+to procure temporary workers except as necessary to  respond to a short-term labor short-
+age;
+(iv) Will not prevent, disrupt or otherwise interfere  with the employees’ right to organize
+for the purposes of collective bargaining; and
+(v) Will adopt a hiring policy  that is made in accordance with the provisions of ORS
+659A.360.
+(2) The fee in lieu of  property taxes shall be computed at the rate of $7,000 per megawatt of
+nameplate capacity of the  solar project for each property tax year. Megawatt of nameplate capacity
+shall be carried to the third decimal place.
+(3)(a) On or before December 31 preceding the first property tax year to which an  agreement
+entered into under this section relates, the  owner or person in possession or control of the solar
+project shall file with the assessor of the county in which the solar project is located and the  De-
+[10]
+HB 2324
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+partment of Revenue a copy of the agreement and the nameplate capacity of the solar project.
+(b) For each subsequent property tax year to which the agreement  relates, the owner or person
+in possession or control of the solar project shall include with the statement required under  ORS
+[308.520] 308.524 the nameplate capacity of the solar project.
+(c) A filing made under paragraph (a) of this subsection after December  31 must be accompanied
+by a late fee of $200. A filing may not be  made after March 1 preceding the property tax year to
+which the filing relates.
+(4)(a) For each property tax year to which an  agreement relates, the department, when certify-
+ing and transmitting  the assessment roll to the county assessors under ORS 308.505 to [ 308.681]
+308.674, shall provide the nameplate capacity of each solar project paying the fee  in lieu of property
+taxes to each assessor of a county in which a solar project is located.
+(b) As required under ORS 311.255, the county assessors  shall extend upon the tax roll against
+all property constituting a solar  project located in the respective counties all fees in lieu of property
+taxes for the property tax year. The  fees shall be distributed pursuant to the percentage schedules
+prepared under ORS 311.390.
+(5)(a) If the  owner or person in possession or control of a solar project that has entered into
+an agreement under  this section fails to pay the fee as required under this section, the property
+constituting the solar project is not exempt  for the following property tax year and shall be assessed
+and taxed as other similar property is assessed and taxed.
+(b) Notwithstanding paragraph (a) of this subsection, the property shall be exempt for the  fol-
+lowing property tax year upon payment, within one year after the date of  delinquency, of the de-
+linquent fee plus interest at  the rate prescribed in ORS 311.505 (2). Delinquent fees and interest
+shall be collected in  the manner provided for collection of delinquent property taxes on personal
+property.
+(6)(a) If the owner or person in possession or control of the solar project fails to pay the  fee in
+lieu of property taxes for more than one year during the term of an agreement entered into  under
+this section, or work is  performed on the solar project by a business that does not meet the
+requirements of subsection (1)(c) of this section,  notwithstanding the agreement, the property
+constituting the solar project shall be disqualified for the exemption and payment of  the fee in lieu
+of property taxes.
+(b) Property that is disqualified under this subsection shall:
+(A) Be assessed and taxed as other similar property is assessed and taxed.
+(B) In addition, be assessed  a penalty in an amount equal to one year of the fee in lieu of
+property taxes for the property. The penalty assessed under this subparagraph shall  be distributed
+in the manner described in subsection (4)(b) of this section.
+(7)(a) Property constituting a solar project that has received an exemption under ORS 285C.350
+to 285C.370 or 307.123 for any property tax year is not eligible to pay a fee in lieu of  property taxes
+under this section.
+(b) Paragraph  (a) of this subsection does not apply to property constituting a solar project that
+was the subject of  an application filed pursuant to ORS 285C.350 to 285C.370 if the property did not
+receive the exemption for any property tax year. The election to pay the  fee in lieu of property
+taxes for property described in this paragraph is not a disqualifying event.
+SECTION 14.
+The amendments to section 1, chapter  571, Oregon Laws 2015, by section
+13 of  this 2021 Act apply to agreements entered into under section 1, chapter 571, Oregon
+Laws 2015, on or after the effective date of this 2021 Act.
+[11]
+HB 2324
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 15.
+(1) The Oregon Business  Development Department, in consultation with the
+State Department  of Energy, shall create a clean energy manufacturing initiative for the
+purpose of promoting:
+(a) Oregon clean energy manufacturing of products and equipment  used in solar, wind,
+geothermal and energy storage technology;
+(b) Clean energy manufacturing supply chain opportunities in Oregon; and
+(c) The repurposing  and revitalization of closed or dormant facilities for clean energy
+manufacturing and clean energy manufacturing supply chain.
+(2)(a) The Oregon Business Development Department shall create  a clean jobs workforce
+hub within the clean  energy manufacturing initiative to ensure adequate training and
+workforce development programs to meet the needs of the clean energy future.
+(b) The hub shall include representatives of:
+(A) Labor and unions;
+(B) Business;
+(C) Regional and state workforce investment boards;
+(D) The State Department of Energy; and
+(E) Counties, cities and ports.
+(3)(a) The Oregon Business Development Department  may make loans from the Oregon
+Clean Energy Manufacturing Initiative Fund established under section 16 of this 2021  Act to
+eligible responsible business firms for the purposes set forth in subsection (1) of  this section.
+(b) The department shall adopt rules that establish an application process for loans  made
+under this subsection.
+(c) Applicants for loans must be responsible business firms  under section 4 of this 2021
+Act.
+(d) Loans  shall be repayable over a term of 
+ years with interest at the rate of
+percent.
+(4) A recipient of a loan that  is no longer a responsible business firm shall be charged a
+penalty in an amount equal to  percent of the face value of the  loan in addition to
+the obligation to repay the loan with interest.
+(5) The Oregon Business Development  Department may seek appropriate legal remedies
+to secure any repayment due the Oregon Clean Energy Manufacturing Initiative Fund.
+SECTION 16. (1) There  is established in the State Treasury, separate and distinct from
+the General Fund, the Oregon Clean Energy  Manufacturing Initiative Fund. Interest earned
+by the Oregon Clean Energy Manufacturing Initiative Fund shall be credited to the  fund.
+Moneys in the fund are continuously appropriated to the Oregon  Business Development De-
+partment for the purpose of making loans pursuant to section 15 of this 2021 Act.
+(2) The Oregon Clean Energy Manufacturing Initiative Fund shall consist of:
+(a) Moneys allocated to the fund under section 17 of this 2021 Act;
+(b) Payments of principal and interest on loans made under section 15 of this 2021 Act;
+(c) Moneys paid as penalties under section 15 of this 2021 Act;
+(d) Moneys appropriated or otherwise deposited into the fund by  the Legislative Assem-
+bly; and
+(e) Other moneys from any source received for deposit in the fund.
+SECTION 17.
+There is  allocated for the biennium beginning July 1, 2021, from the Ad-
+ministrative Services Economic Development  Fund, to the Oregon Business Development
+[12]
+HB 2324
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Department, the amount of $10,000,000 for the purpose of making loans pursuant to section
+15 of this 2021 Act.
+SECTION 18.
+(1) Sections 15 and 16 of this 2021 Act are repealed on January 2, 2024.
+(2) The repeal under this section of sections 15 and 16 of this 2021 Act  does not affect the
+obligation of any recipient of a loan under section 15 of this 2021 Act to repay the loan  under
+the terms of the loan agreement or to pay penalties that may be imposed.
+(3) Any moneys in the Oregon Clean  Energy Manufacturing Initiative Fund that are un-
+spent and unobligated as of the date specified in subsection  (1) of this section shall be
+transferred to  the General Fund and may be used for any purpose for which moneys in the
+General Fund may be used.
+SECTION 19. This 2021 Act takes effect on the 91st day after the date on which  the 2021
+regular session of the Eighty-first Legislative Assembly adjourns sine die.
+[13]

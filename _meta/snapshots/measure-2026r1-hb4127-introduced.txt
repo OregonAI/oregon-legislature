@@ -1,0 +1,140 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4127
+Sponsored by Representatives BOWMAN, ANDERSEN,  Senator PATTERSON, Representatives CHAICHI,
+CHOTZEN, DOBSON, NOSSE, RIEKE SMITH, Senators CAMPOS, FREDERICK, PROZANSKI; Representatives
+FRAGALA, GAMBA, GOMBERG, GRAYBER, HUDSON, JAVADI, MARSH,  MUNOZ, NATHANSON, NELSON,
+PHAM H, WISE, Senators GELSER BLOUIN,  GOLDEN, JAMA, NERON MISSLIN, PHAM K (Presession
+filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act allows OHA to pay health care providers  that may not receive federal Medicaid
+funds. The Act requires OHA to pay providers using only state funds.  (Flesch Readability Score:
+62.7).
+Requires the Oregon Health Authority to adopt a payment mechanism  to pay certain nonprofit
+reproductive health care providers that are not eligible to receive federal Medicaid funds for ser-
+vices provided to medical assistance recipients. Applies to claims for payment for services  provided
+on or after July 4, 2025, if the claim is not eligible for  federal financial participation and has not
+yet been paid.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to Medicaid payments to reproductive health care providers; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2026 Act is added to and made a part of ORS chapter 414.
+SECTION 2. (1) As used in this section,  “prohibited entity” means a nonprofit reproduc-
+tive health care provider that is:
+(a) Enrolled in the state medical assistance program; and
+(b) Not eligible to receive federal Medicaid funds.
+(2) The Oregon Health Authority shall adopt a payment  mechanism to pay prohibited
+entities on a fee-for-service basis for services provided to medical assistance recipients.
+(3) The authority shall have sole responsibility to pay a prohibited entity  under this sec-
+tion, including for services provided to a member of a coordinated care organization.
+(4) The authority may  not pay a prohibited entity under this section using federal
+Medicaid funds.
+(5) In adopting the payment mechanism described  in subsection (2) of this section, the
+authority shall:
+(a) Update, as necessary, the authority’s billing and claims processing systems; and
+(b) Ensure that provider enrollment and credentialing  requirements for prohibited enti-
+ties align with existing standards in the state medical assistance program.
+(6) At  least once each biennium, the authority shall conduct a rate analysis to ensure
+that the rates paid  to a prohibited entity under this section are adequate to promote access
+to reproductive health services.
+SECTION 3.
+Section 2 of this 2026 Act  applies to claims for payment in the state medical
+assistance program for services provided by a prohibited entity on or after July 4, 2025, if:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 179
+HB 4127
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+(1) The claim is not eligible for federal financial participation; and
+(2) The prohibited entity has not yet received payment on the claim.
+SECTION 4.
+(1) As used in this section:
+(a) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(b) “Prohibited entity” has the meaning given that term in section 2 of this 2026 Act.
+(2) If  a coordinated care organization paid a claim submitted by a prohibited entity be-
+tween July 4, 2025, and the effective date of this 2026 Act, the coordinated care  organization
+may recover an overpayment on the claim for  routine business reasons but may not recover
+payment on the claim solely on the basis that the prohibited  entity is not eligible to receive
+federal Medicaid funds.
+SECTION 5.
+Section 4 of this 2026 Act is repealed on January 2, 2028.
+SECTION 6. (1) As used in this section:
+(a) “Medical assistance” has the meaning given that term in ORS 414.025.
+(b) “Prohibited entity” has the meaning given that term in section 2 of this 2026 Act.
+(2) The Oregon Health  Authority shall implement a grant program to support prohibited
+entities in covering  the costs of providing services to medical assistance recipients. To the
+extent practicable, the amount of a grant awarded under this section shall be equivalent to
+the funding amount that a prohibited entity would receive in the  authority’s fee-for-service
+payment system.
+(3) The authority may not award grants under this section using federal Medicaid funds.
+SECTION 7.
+(1) Section 6 of this 2026 Act becomes operative only if a state  or federal law
+is enacted that prohibits a prohibited entity, as  defined in section 2 of this 2026 Act, from
+enrolling in the state medical assistance program.
+(2) If a state or federal law described in subsection (1) of this section is enacted, section
+6 of this 2026 Act becomes operative on the effective date of that law.
+(3) The Oregon Health Authority shall immediately notify the Legislative Counsel  if a
+state or federal law described in subsection (1) of this section is enacted.
+SECTION 8. This 2026 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2026 Act takes effect
+on its passage.
+[2]

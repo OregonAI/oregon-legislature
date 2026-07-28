@@ -1,0 +1,113 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+Senate Bill 618
+Sponsored by Senator GIROD
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Requires school districts to describe amount of moneys received from local, state, federal and
+other sources for each student of school district and to make information available  at school
+district’s office and on school district’s website.
+A BILL FOR AN ACT
+Relating to school district funding information; amending ORS 329.095.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 329.095 is amended to read:
+329.095. (1)(a) The Department of Education shall  require school districts and schools to conduct
+self-evaluations  and  to periodically update their local district continuous improvement plans. Except
+as provided by paragraph (b)(C) of this  subsection, the department may not require school districts
+or schools to conduct self-evaluations or to update their local district  continuous improvement plans
+more frequently than biennially.
+(b) The department may require a school district to:
+(A) File, periodically,  or at the department’s request, its local district continuous improvement
+plan with the department;
+(B) Notify the department of any substantial changes, as defined by rule of the State  Board of
+Education, to the school district; or
+(C) Update its local district  continuous improvement plan when there has been a substantial
+change, as defined by rule of the board, to the school district.
+(c) The self-evaluation process conducted  as provided by this subsection shall involve the public
+in the setting of local goals. The school districts shall ensure that representatives from the demo-
+graphic groups of  their school population are invited to participate in the development of local dis-
+trict continuous improvement plans to achieve the goals.
+(2) As part of setting local goals, school districts shall undertake  a communications process that
+involves parents, students, teachers, school employees  and community representatives to explain and
+discuss the local goals and :
+(a) [ Their] The  relationship  of the local goals  to programs under this chapter.
+(b) How those local goals are being funded, including a  description of the amount of
+moneys received by a school  district from local, state, federal and other sources for each
+student in the school district’s average daily membership, as defined in ORS 327.006.
+(3) At the request of [ the] a  school district, department staff shall provide ongoing technical
+assistance in the development and implementation of the  local district continuous improvement plan.
+(4) The local district continuous improvement plan shall include:
+(a) Goals to implement the following:
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 1117
+SB 618
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+(A) A rigorous curriculum aligned with state standards;
+(B) High-quality instructional programs;
+(C) Short-term and long-term professional development plans;
+(D) Programs and policies that achieve a safe educational environment;
+(E) A plan for family and community engagement;
+(F) Staff leadership development;
+(G) High-quality data systems;
+(H) Improvement planning that is data-driven;
+(I) Education service plans for students who have or have not exceeded all  of the academic
+content standards; and
+(J) A strong school library program;
+(b) A review of demographics, student performance, staff characteristics and student  access to,
+and use of, educational opportunities; and
+(c) A description of [ district] the school district’s  efforts to achieve local efficiencies and  ef-
+forts to make better use of resources.
+(5) A school district shall make the information described in  subsection (2)(b) of this
+section available at the school district’s office and on the website for the school district.
+[2]

@@ -1,0 +1,1259 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Senate Bill 710
+Sponsored by Senators GELSER, MANNING JR
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Modifies allowed and prohibited uses of restraint of children in care by child-caring agencies,
+proctor foster homes  and developmental disabilities residential facilities. Prescribes reporting re-
+quirements following administration  of restraint or involuntary seclusion. Directs Department of
+Human Services to adopt  rules for individuals to be certified in administration of restraints and in-
+voluntary seclusion.
+Modifies definition of “child caring  agency” and “developmental disabilities residential
+facility.”
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to children in care; creating new provisions; amending ORS 418.205, 418.257, 418.259 and
+419B.354; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Definitions. As used in sections 1 to 7 of this 2021 Act:
+(1) “Chemical restraint” means a drug or medication that is administered to  a child in
+care to control behavior or restrict freedom of movement.
+(2) “Mechanical restraint” means a device used to restrict the movement of  a child in
+care or the movement or normal function of a portion of the body of a child in care.
+(3) “Program” means:
+(a) A child-caring agency or proctor foster home subject to ORS  418.205 to 418.327,
+418.470, 418.475 or 418.950 to 418.970;
+(b) A certified foster home; or
+(c) A developmental disabilities residential facility.
+(4) “Prone restraint” means a restraint in which a child in  care is held face down on the
+floor.
+(5) “Reportable injury” means any type of injury to a child in care, including but  not
+limited to rug burns, fractures, sprains, bruising, pain, soft tissue  injury, punctures,
+scratches, concussions, abrasions, dizziness, loss of consciousness, loss of  vision, visual dis-
+turbance or death.
+(6) “Restraint” means the restriction of a child  in care’s actions or movements by hold-
+ing the child in care or using pressure or other means.
+(7) “Serious bodily injury” means any significant impairment of the  physical condition
+of an individual, as determined  by qualified medical personnel, whether self-inflicted or in-
+flicted by someone else.
+(8) “Supine restraint” means a restraint in which  a child in care is held face up on the
+floor.
+SECTION 2.
+Prohibitions on restraints and involuntary seclusion.  (1) Restraint or invol-
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2161
+SB 710
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+untary seclusion may not be administered  to a child in care for discipline, punishment or
+retaliation or for the convenience of personnel, contractors or volunteers of a program.
+(2) Except as provided in section 3 (3), (4) or  (5) of this 2021 Act, the use of the following
+types of restraint of a child in care are prohibited:
+(a) Chemical restraint.
+(b) Mechanical restraint.
+(c) Prone restraint.
+(d) Supine restraint.
+(e) Any restraint that includes the nonincidental use of a solid object, including the
+ground, a wall or the floor, to impede a child in care’s movement.
+(f) Any restraint that places, or creates a risk of placing, pressure on a  child in care’s
+neck or throat.
+(g) Any restraint that places, or creates a risk of  placing, pressure on a child in care’s
+mouth.
+(h) Any restraint  that impedes, or creates a risk of impeding, a child in care’s breathing.
+(i) Any restraint that involves the intentional placement of hands, feet,  elbows, knees or
+any object on a child in care’s neck, throat, genitals or other intimate parts.
+(j) Any restraint that causes pressure to be  placed, or creates a risk of causing pressure
+to be placed, on a child in care’s stomach or back by a knee, foot or elbow.
+(k) Any other restraint, the primary purpose of which is to inflict pain.
+SECTION 3.
+Permissible use of restraints  or involuntary seclusion.  (1) Restraint or in-
+voluntary seclusion may be used on a child in care only if the child  in care’s behavior poses
+a reasonable risk of imminent serious bodily  injury to the child in care or others and less
+restrictive interventions would not effectively reduce that risk.
+(2) Notwithstanding subsection  (1) of this section, the following types of restraint may
+be used on a child in care:
+(a) Holding a child in care’s hand or arm  to escort the child in care safely and without
+the use of force from one area to another;
+(b) Assisting a child in care to complete a task if the child  in care does not resist the
+physical contact; or
+(c) Administering  the minimal exertion of force necessary if the intervention does not
+include a restraint described in section 2 (2) of this 2021 Act and  the intervention is neces-
+sary to break up a physical fight or effectively protect oneself or  another from an assault,
+serious bodily injury  or sexual contact with the minimum physical contact necessary for
+protection.
+(3) Notwithstanding section 2 (2) of this 2021 Act, a mechanical restraint may be used
+on a child in care if the mechanical restraint is:
+(a) A protective or stabilizing device ordered by a licensed physician;
+(b) A vehicle safety restraint when used as intended during  the transport of a child in
+care in a moving vehicle; or
+(c) A treatment activity that is consistent with the  child in care’s treatment plan if the
+treatment plan has been signed by the child in care’s attending physician.
+(4) Notwithstanding section 2 (2) of this 2021 Act, a chemical restraint  may be adminis-
+tered to a child in care if it is  prescribed by a licensed physician or other qualified health
+care professional acting under the professional’s  scope of practice for standard treatment
+[2]
+SB 710
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of the child in care’s medical or psychiatric condition and the  chemical restraint is admin-
+istered as prescribed by a licensed physician or other qualified health care professional acting
+within the professional’s scope of practice.
+(5) Notwithstanding section 2 (2) of this 2021 Act:
+(a) The restraint described in section 2 (2)(e) of this  2021 Act may be used if the restraint
+is necessary to gain control of a weapon.
+(b) The restraint described in section 2 (2)(g) of  this 2021 Act may be used if the restraint
+is necessary for the purpose of extracting a body part from a bite.
+(c) The restraints described in section 2 (2)(d) and (e)  of this 2021 Act may be used by a
+program providing state hospital-level care services to the child in care only if the following
+requirements are met:
+(A) The restraint is administered under the current written order of a physician;
+(B) The physician’s order is written specifically for the current situation;
+(C) The restraint is used only as long as needed to prevent life-threatening injury  and
+while no other intervention or form of restraint is possible;
+(D) The use of  the restraint is continuously monitored by a physician or a qualified
+mental health professional, the physician or qualified mental health professional is certified
+in the administration of the type  of restraint used and the physician or qualified mental
+health professional continuously monitors the physical and psychological well-being of  the
+child in care at all times while the restraint is being used;
+(E) Each individual  administering the restraint is certified as described in section 6 of
+this 2021 Act to administer the type of restraint used and the certification is current;
+(F) One or  more individuals with current cardiopulmonary resuscitation training are
+present at all times while the restraint is being administered;
+(G) No individual performing the restraint has a body mass index greater than 34;
+(H) The program has written policies that require a physician or  other licensed practi-
+tioner to evaluate and document the physical, psychological and emotional well-being  of the
+child in care immediately following the use of the restraint; and
+(I) The  program is in compliance with any other requirements under sections 1 to 7 of
+this 2021 Act, any applicable contract requirements and any other state or federal law related
+to the use of restraints.
+(6) If restraint or involuntary seclusion is used other than as provided in  subsections (2)
+to (4) of this section, the restraint or involuntary seclusion must be:
+(a) Used  only for as long as the child in care’s behavior poses a reasonable risk of im-
+minent serious bodily injury;
+(b) Administered by  personnel of the program who are currently certified as described
+in section 6 of this 2021 Act to use that type of restraint or involuntary seclusion;
+(c) Continuously monitored by personnel of the program at all  times while the restraint
+or involuntary seclusion is being used; and
+(d) Performed in a manner that is safe, proportionate and appropriate to the child in
+care’s chronological and developmental age, size, gender  identity, physical, medical and psy-
+chiatric condition and any personal history, including history of physical or sexual abuse.
+(7) In addition to the requirements described in subsection (6) of this section,  if the re-
+straint or involuntary seclusion continues for more than 10 minutes:
+(a) The child in care must be provided with adequate access to the  bathroom and water
+[3]
+SB 710
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+at least every 30 minutes; and
+(b) Every five minutes after the first 10 minutes of the restraint or involuntary seclusion,
+an administrator for the program who is currently certified as described in section 6 of  this
+2021 Act to  administer that type of restraint or involuntary seclusion must provide written
+authorization for the continuation of  the restraint or involuntary seclusion. The written
+authorization must document why the restraint  or involuntary seclusion continues to be the
+least restrictive  intervention to reduce the risk of imminent serious bodily injury in the
+given circumstances.
+SECTION 4.
+Notices and reports required following use of restraints or involuntary se-
+clusion. (1) A program must  establish procedures for the program to follow relating to the
+administration of restraints or involuntary seclusion consistent with the provisions  of
+sections 2 and 3 of this 2021 Act and relating to the notices  and reports required under this
+section following the use of restraints or involuntary seclusion of a child in care.
+(2) A program must maintain a  record of each incident in which a reportable injury
+arises from the  use of a restraint or involuntary seclusion. The record under this subsection
+must include any audio or video recording immediately preceding, during and following the
+incident.
+(3) A program that administers a restraint  or involuntary seclusion of a child in care
+other than as provided in section 3 (2) to (4) of this 2021 Act must:
+(a) Provide the following to the child in care’s case  managers, attorney, court appointed
+special advocate and parents or guardians:
+(A) No later than 11:59 p.m. on the day the restraint or involuntary seclusion is admin-
+istered, verbal or electronic notification that the  restraint or involuntary seclusion occurred;
+and
+(B) No later than 24 hours following the administration of the  restraint or involuntary
+seclusion, written notification that includes:
+(i) A description of the restraint or involuntary seclusion, the date of  the restraint or
+involuntary seclusion, the times  when the restraint or involuntary seclusion began and ended
+and the location of the restraint or involuntary seclusion.
+(ii) A description of the child in care’s activity that prompted the use  of restraint or in-
+voluntary seclusion.
+(iii) The efforts used to de-escalate the situation and  the alternatives to restraint or in-
+voluntary seclusion that were attempted.
+(iv) The names of each of individual  who administered, monitored or approved the re-
+straint or involuntary seclusion.
+(v) For each individual  who administered, monitored or approved the restraint or invol-
+untary seclusion, whether the individual was  currently certified under section 6 of this 2021
+Act to administer  the kind of restraint or involuntary seclusion and, if so, the date of the
+most recent certification and a description of the kinds of restraint  the individual is certified
+to administer or, if the individual was not  currently certified, the information required under
+paragraph (b) of this subsection.
+(b) If an individual who administered, monitored or approved the  restraint or involuntary
+seclusion was  not currently certified in the administration of the type of restraint used or
+involuntary seclusion, written notice to the  Department of Human Services and the child in
+care’s attorney, court appointed special advocate and parents or guardians describing the
+[4]
+SB 710
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+certification deficiency and the reason the restraint or involuntary seclusion  was adminis-
+tered, monitored or approved by an individual without the proper certification.
+(c) Hold a debriefing meeting with each individual who was  involved in the incident and
+any other appropriate program personnel no later than two business days following the  date
+of the restraint or involuntary  seclusion, take written notes of the debriefing meeting and
+provide copies of the written notes to the child in care’s attorney, case managers, court  ap-
+pointed special advocate and parents or guardians.
+(d) If the child in care suffers a reportable injury arising from the  restraint or involun-
+tary seclusion, immediately provide written notification of the incident to the  Department
+of Human Services and release all records related to the restraint  or involuntary seclusion,
+including any photographs and audio or video recordings, to the department and the  child’s
+attorney, court appointed special advocate and parents or guardians.
+(e) If  serious bodily injury or the death of program personnel occurs in relation to the
+use of the restraint or involuntary seclusion, provide the department  with written notifica-
+tion of the incident no later than 24 hours following the incident.
+(4)(a) If  a restraint or involuntary seclusion is used on a child in care more than two
+times in a  seven-day period, the program shall immediately assemble a team to review the
+child in care’s treatment plan.
+(b) The team must include  an administrator of the program, a representative of the De-
+partment of Human Services who is familiar with  the child in care’s case, a representative
+of the program’s licensing agency, the  child in care’s attorney and court appointed special
+advocate and, if the child in care is 10 years  of age or older and wants to participate, the
+child in care.
+(c) The team shall prepare a  written report identifying each of the team members and
+documenting the team’s conclusions regarding the following:
+(A) The suitability of the program for the child in care;
+(B) Any necessary modifications to the child in care’s treatment plan;
+(C) What, if any, staff training regarding alternative therapeutic behavior  management
+techniques are appropriate; and
+(D) The impact of the restraints or involuntary seclusion on the child in care’s physical,
+mental and emotional well-being.
+(d) The program and any agency that was involved in  placing the child in care in the
+program shall immediately implement any necessary corrective actions  identified in the re-
+port.
+SECTION 5.
+Reporting requirements.  (1)  A program must prepare and submit to the
+Department of Human Services a quarterly report detailing the use  of restraint and invol-
+untary seclusion for the preceding three-month period, including, at a minimum:
+(a) The total number of incidents involving restraint.
+(b) The total number of incidents involving involuntary seclusion.
+(c) The total number of involuntary seclusions in a locked room.
+(d) The total number of rooms available for use by the program for involuntary  seclusion
+and a description of the dimensions and design of the rooms.
+(e) The total number of children in care placed in restraint.
+(f) The total number of children in care placed in involuntary seclusion.
+(g) The total number of incidents under  paragraph (a) or (b) of this subsection that re-
+[5]
+SB 710
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+sulted in reportable injuries.
+(h) The number of children in  care who were placed in restraint or involuntary seclusion
+more than three times during the preceding three-month period and  description of the steps
+the program has taken to decrease the use of restraints and involuntary seclusion.
+(i) The number of incidents in which individuals who administered restraints  or involun-
+tary seclusion  were not certified as provided in section 6 of this 2021 Act to administer the
+type of restraint used or involuntary seclusion.
+(j) The demographic characteristics of all children in care to whom restraint or involun-
+tary seclusion was administered, including  race, ethnicity, gender, disability status, migrant
+status, English proficiency and status as economically  disadvantaged, unless the demo-
+graphic information would reveal personally identifiable information about an individual child
+in care.
+(2)(a) The  department shall make each quarterly report it receives under this section
+available to the public on the department’s website.
+(b) Each program that submits a report  under this section shall make its quarterly re-
+port available to the public at the program’s main office and on the program’s website.
+(c) Each program shall provide notice regarding how  to access the quarterly reports to
+the parents or  guardians of children in care in the program. The program shall provide the
+notice upon the child in care’s admission and at least two times each year thereafter.
+SECTION 6.
+Certification in use of restraints  and seclusion. (1) The Department of Hu-
+man Services shall adopt by rule standards for certification programs in restraint  and in-
+voluntary seclusion that:
+(a) Teach evidence-based techniques that  are shown to be effective in the prevention and
+safe use of restraint or involuntary seclusion;
+(b) Provide evidence-based  skills training related to positive behavior support, conflict
+prevention, de-escalation and crisis response techniques; and
+(c) Are consistent with the philosophies, practices and  techniques for restraint and in-
+voluntary seclusion that are established by the department by rule or policy.
+(2) The rules adopted under this section must:
+(a) Require trainers to be certified and  to have completed a minimum of 24 hours of ed-
+ucation to  train individuals in the appropriate use of restraints, involuntary seclusion and
+alternative techniques, including de-escalation and nonviolent intervention;
+(b) Require that participants in a certification program complete a  minimum of 15 hours
+of training;
+(c) Emphasize the use of alternative techniques,  including de-escalation and nonviolent
+intervention;
+(d) Require that training for the administration of restraints must be done in person;
+(e) Require demonstration of written and technical proficiency  prior to granting certi-
+fication;
+(f) Limit the duration of certification to two-years;
+(g) Require that each certification include the dates during which the certification  is
+current, the types of physical restraints that the individual is certified to administer and the
+name of the individual who  conducted the training and administered the assessment of pro-
+ficiency; and
+(h) Require annual continuing education to maintain certification.
+[6]
+SB 710
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 7.
+Information provided to children in care.  The Department of Human Ser-
+vices shall provide each child in care with written information that:
+(1) Explains the provisions of sections 1 to 7 of this 2021 Act;
+(2) Provides instruction regarding how a child in care may report suspected inappropriate
+use of restraint or involuntary seclusion;
+(3) Assures the child in  care that the child will not experience retaliation for reporting
+suspected inappropriate uses of restraint or involuntary seclusion; and
+(4) Includes  the telephone number for the toll-free child abuse hotline described in ORS
+417.805 and the telephone numbers and electronic mail addresses  for the program’s licensing
+or certification agency, the child in care’s caseworker and attorney, the child in care’s court
+appointed special advocate and Disability Rights Oregon.
+SECTION 8.
+ ORS 418.205, as amended by sections 15a and  15b, chapter 19, Oregon Laws 2020
+(first special session), is amended to read:
+418.205. As used in  ORS 418.205 to 418.327, 418.470, 418.475, 418.950 to 418.970 and 418.992 to
+418.998, unless the context requires otherwise:
+(1) “Applied behavior analysis” has the meaning given that term in ORS 676.802.
+[(1)] (2)  “Child” means an unmarried person under 21 years of age who resides  in or receives
+care or services from a child-caring agency.
+[(2)(a)] (3)(a) “Child-caring agency”:
+(A) Means any private  school, private agency, private organization or county program providing:
+(i) Day treatment for children with emotional disturbances;
+(ii) Adoption placement services;
+(iii) Residential care, including but not limited  to foster care or residential treatment for chil-
+dren;
+(iv) Residential care  in combination with academic education and therapeutic care, including but
+not limited to treatment for emotional, behavioral or mental health disturbances;
+(v) Outdoor youth programs; [ or]
+(vi) Center-based applied behavior analysis for children; or
+[(vi)] (vii) Other similar care or services for children.
+(B) Includes the following:
+(i) A shelter-care home that is not a foster home subject to ORS 418.625 to 418.645;
+(ii) An independent residence facility as described in ORS 418.475;
+(iii) A private residential boarding school; [ and]
+(iv) A child-caring facility as defined in ORS 418.950[ .]; and
+(v) A private organization that provides transportation of or escort services for children
+to or from a school, agency, organization or  program described in this paragraph or to or
+from any other treatment program, boarding school or outdoor wilderness program.
+(b) “Child-caring agency” does not include:
+(A) Residential facilities or foster  care homes certified or licensed by the Department of Human
+Services under ORS 443.400 to 443.455, 443.830 and 443.835 for children receiving  developmental
+disability services;
+(B) Any private agency  or organization facilitating the provision of respite services for parents
+pursuant to a properly executed power of attorney under ORS 109.056. For purposes of this subpar-
+agraph, “respite services” means the voluntary assumption of short-term  care and control of a minor
+child without compensation or reimbursement of expenses for the purpose of providing a parent  in
+[7]
+SB 710
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+crisis with relief from the demands of ongoing care of the parent’s child;
+(C) A youth job development organization as defined in ORS 344.415;
+(D) A shelter-care home that is a foster home subject to ORS 418.625 to 418.645;
+(E) A foster home subject to ORS 418.625 to 418.645;
+(F) A facility that exclusively serves individuals 18 years of age and older; or
+(G) A  facility that primarily serves both adults and children but requires that any child must
+be accompanied at all times by at least one custodial parent or guardian.
+[(3)] (4) “Child-caring facility” has the meaning given that term in ORS 418.950.
+[(4)(a)] (5)(a)  “County program” means any county operated program  that provides care or ser-
+vices  to  children in the custody of the Department of Human Services or the Oregon Youth Au-
+thority.
+(b) “County program” does not include any local juvenile detention  facility that receives state
+services provided and coordinated by the Department of Corrections under ORS 169.070.
+[(5)] (6)  “Governmental agency” means  an executive, legislative or judicial agency, department,
+board, commission, authority, institution or instrumentality of this state or of a county,  municipality
+or other political subdivision of this state.
+[(6)] (7)  “Independent residence facility” means a facility established or  certified under ORS
+418.475.
+[(7)(a)] (8)(a)  “Outdoor youth program” means a program that provides,  in an outdoor living
+setting, services to children  who have behavioral problems, mental health problems or problems with
+abuse of alcohol or drugs.
+(b) “Outdoor youth program” does not include any program, facility or activity:
+(A) Operated by a governmental entity;
+(B) Operated or affiliated with the Oregon Youth Corps;
+(C) Licensed by the Department of Human Services under other  authority of the department; or
+(D) Operated by a youth job development organization as defined in ORS 344.415.
+[(8)] (9)  “Private” means not  owned, operated or administered by any governmental agency or
+unit.
+[(9)] (10) “Private residential boarding school” means either of the following  as the context re-
+quires:
+(a) A child-caring agency that is a private  school that provides residential care in combination
+with academic education and therapeutic care, including  but not limited to treatment for emotional,
+behavioral or mental health disturbances; or
+(b) A private school providing residential care that is primarily engaged in  educational work
+under ORS 418.327.
+[(10)] (11) “Proctor foster home” means a foster home certified by a child-caring  agency under
+ORS 418.248 that is not subject to ORS 418.625 to 418.645.
+[(11)] (12) “Provider of care or  services for children” means a person, entity or organization that
+provides care or services to children, regardless of whether the child is in  the custody of the De-
+partment of Human Services, and  that does not otherwise meet the definition of, or requirements for,
+a child-caring agency. “Provider of care or services for children” includes a proctor  foster home
+certified by a child-caring agency under ORS 418.248.
+[(12)] (13) “Qualified  residential treatment program” means a program described in section 12b,
+chapter 19, Oregon Laws 2020 (first special session) (Enrolled Senate Bill 1605).
+[(13)] (14) “Shelter-care home” has the meaning given that term in ORS 418.470.
+[8]
+SB 710
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 9.
+ ORS 418.257 is amended to read:
+418.257. As used in ORS 418.257 to 418.259  and sections 1 to 7 of this 2021 Act :
+(1) “Abuse” means one or more of the following:
+(a) Any physical injury to a child in care caused by other than accidental means, or that appears
+to be at variance with the explanation given of the injury.
+(b) Neglect of a child in care.
+(c) Abandonment, including desertion or willful  forsaking of a child in care or the withdrawal
+or neglect of duties  and obligations owed a child in care by a child-caring agency, caretaker, certi-
+fied foster home, developmental disabilities residential facility or other person.
+(d) Willful infliction of physical pain or injury upon a child in care.
+(e) An act that constitutes a crime under ORS  163.375, 163.405, 163.411, 163.415, 163.425, 163.427,
+163.465, 163.467 or 163.525.
+(f) Verbal abuse.
+(g) Financial exploitation.
+(h) Sexual abuse.
+(i) Involuntary seclusion of a  child in care for the convenience of a child-caring agency, care-
+taker, certified foster home or developmental  disabilities residential facility or to discipline the child
+in care.
+(j) [ A wrongful  use of a physical or chemical restraint of a child in care, excluding an act of re-
+straint prescribed by  a physician licensed under ORS chapter 677 and any treatment activities that are
+consistent with an approved treatment plan or in connection with a court order. ] The use of restraint
+or involuntary seclusion of a child in care in violation of section 2 or 3 of this 2021 Act.
+(2) “Certified foster home” means a foster home certified by  the Department of Human Services
+and subject to ORS 418.625 to 418.645.
+(3)(a) “Child in care”  means a person under 21 years of age who is residing in or receiving care
+or services from:
+(A) A child-caring agency or proctor foster home subject  to ORS 418.205 to 418.327, 418.470,
+418.475 or 418.950 to 418.970;
+(B) A certified foster home; or
+(C) A developmental disabilities residential facility.
+(b) “Child in care” does not include a person under 21 years of  age who is residing in any of
+the entities listed in paragraph (a) of this subsection  when the care provided is in the home of the
+child by the child’s parent.
+[(4) “Child-caring agency” has the meaning given that term in ORS 418.205. ]
+[(5)] (4)  “Developmental disabilities residential facility” means a residential facility or foster
+home for children  who are [ 18] 17 years of age or younger and receiving developmental disability
+services that is subject to ORS 443.400 to 443.455, 443.830 and 443.835.
+[(6) “Involuntary seclusion” means the  confinement of a child in care alone in a room from which
+the child in care is physically prevented from leaving.  “Involuntary seclusion” does not include age-
+appropriate discipline, including but not limited to a time-out. ]
+[(7) “Proctor foster home” has the meaning given that term in ORS 418.205. ]
+[(8)(a)] (5)(a)  “Financial exploitation” means:
+(A) Wrongfully taking the assets, funds or property  belonging to or intended for the use of a
+child in care.
+(B) Alarming a child in care by conveying a threat to wrongfully take or appropriate moneys
+[9]
+SB 710
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+or property of the child in care if  the child would reasonably believe that the threat conveyed would
+be carried out.
+(C) Misappropriating, misusing or transferring without authorization any moneys from any ac-
+count held jointly or singly by a child in care.
+(D) Failing to use  the income or assets of a child in care effectively for the support and main-
+tenance of the child in care.
+(b) “Financial exploitation” does not include age-appropriate  discipline that may involve the
+threat to withhold, or the withholding of, privileges.
+[(9)] (6) “Intimidation” means compelling or  deterring conduct by threat. “Intimidation” does not
+include age-appropriate discipline that may involve the threat to withhold privileges.
+(7)(a) “Involuntary seclusion” means the confinement of a child in care alone  in a room
+from which the child in care is physically prevented from leaving by any means.
+(b) “Involuntary seclusion” does not include the  removal of a child in care for a short
+period of time to provide the child in care with an opportunity to  regain self-control if the
+child in care is in  a setting from which the child in care is not physically prevented from
+leaving.
+[(10)] (8) “Law enforcement agency” means:
+(a) Any city or municipal police department.
+(b) Any county sheriff’s office.
+(c) The Oregon State Police.
+(d) Any district attorney.
+(e) A police department established by a university under ORS 352.121 or 353.125.
+[(11)] (9) “Neglect” means:
+(a) Failure to provide the care, supervision or services necessary to maintain the physical and
+mental health of a child in care; or
+(b) The failure of a child-caring  agency, proctor foster home, certified foster home, develop-
+mental disabilities residential facility, caretaker or other person to make a  reasonable effort to
+protect a child in care from abuse.
+[(12)] (10)  “Services” includes  but is not limited to the provision of food, clothing, medicine,
+housing, medical services, assistance with  bathing or personal hygiene or any other service essential
+to the well-being of a child in care.
+[(13)] (11) “Sexual abuse” means:
+(a) Sexual harassment, sexual exploitation or  inappropriate exposure to sexually explicit mate-
+rial or language;
+(b) Any sexual contact between  a child in care and an employee of a child-caring agency,
+proctor foster home, certified foster home, developmental disabilities residential facility,  caretaker
+or other person responsible for the provision of care or services to a child in care;
+(c) Any sexual contact between a person and a child in  care that is unlawful under ORS chapter
+163 and not subject to a defense under that chapter; or
+(d) Any sexual contact that is achieved through force, trickery, threat or coercion.
+[(14)] (12) “Sexual contact” has the meaning given that term in ORS 163.305.
+[(15)] (13)  “Sexual exploitation”  means sexual exploitation as described in ORS 419B.005
+(1)(a)(E).
+[(16)] (14)  “Verbal abuse” means to threaten significant  physical or emotional harm to a child
+in care through the use of:
+[10]
+SB 710
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(a) Derogatory or inappropriate names, insults, verbal assaults, profanity or ridicule; or
+(b) Harassment, coercion, threats, intimidation, humiliation,  mental cruelty or inappropriate
+sexual comments.
+SECTION 10.
+ ORS 418.259, as amended by section 9, chapter 19, Oregon Laws 2020 (first special
+session), is amended to read:
+418.259. (1) The investigation conducted by  the Department of Human Services under ORS
+418.258 must result in one of the following findings:
+(a) That the  report is substantiated. A report is substantiated when there is reasonable cause
+to believe that the abuse of a child in care occurred.
+(b) That the  report is unsubstantiated. A report is unsubstantiated when there is no evidence
+that the abuse of a child in care occurred.
+(c) That the report is inconclusive. A report is inconclusive when there is  some indication that
+the abuse occurred but there is insufficient evidence to conclude that there is  reasonable cause to
+believe that the abuse occurred.
+(2) When a report is  received under ORS 418.258 alleging that a child in care may have been
+subjected  to  abuse, the department shall notify the case managers for the child, the attorney for the
+child, the  child’s court appointed special advocate, the parents or guardians of the child, any attor-
+ney representing a parent or guardian of the child  and any governmental agency that has a contract
+with the  child-caring agency or developmental disabilities residential facility to provide care or
+services to the child that a report has been received.
+(3)(a) The department  [ may] shall  interview the child in care who is the subject of suspected
+abuse and any witnesses , including other children,  without the presence of employees of the
+child-caring agency, proctor foster home or developmental disabilities  residential facility, the pro-
+vider of services at a certified foster home or department personnel. The department shall  inform
+the child in care  that the child may have the child’s parent or guardian, if the child has not been
+committed to the custody of the department or the Oregon Youth Authority, or attorney present
+when participating in an interview conducted in the course of an abuse investigation.
+(b) When investigating an allegation of inappropriate use of restraint or involuntary  se-
+clusion, the department shall:
+(A) Conduct the interviews described in paragraph (a)  of this subsection without the
+presence of employees of the child-caring agency, proctor foster home or developmental dis-
+abilities residential facility;
+(B) Review all incident reports related to the child in care;
+(C) Review any audio, video or photographic recordings of the  restraint or involuntary
+seclusion, including the circumstances immediately before and following the incident;
+(D) During an interview with the child in  care who is the subject of the suspected abuse,
+ask the child about whether they experienced any reportable injury or pain as a result of  the
+restraint; and
+(E) Review the training records related to all of  the staff who were involved in the use
+of restraint or involuntary seclusion.
+(4) The department shall notify the following when a report of abuse is substantiated:
+(a) The Director of Human Services.
+(b) Personnel in the department responsible for the licensing, certificate or  authorization of
+child-caring agencies.
+(c) The department’s lead personnel in that part of the  department that is responsible for child
+[11]
+SB 710
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+welfare generally.
+(d) With respect to the child in care who  is the subject of the abuse report and investigation,
+the case managers for the child, the attorney  for the child, the child’s court appointed special ad-
+vocate, the parents or guardians of the  child, any attorney representing a parent or guardian of the
+child and any governmental agency that has a contract with the child-caring agency to  provide care
+or services to the child.
+(e) The  parents or guardians of the child in care who is the subject of the abuse report and in-
+vestigation if the child in care has not been committed to  the custody of the department or the
+youth authority. Notification under this paragraph  may not include any details or information other
+than that a report of abuse has been substantiated.
+(f) Any governmental agency that has a contract with  the child-caring agency to provide care
+or services to a child in care.
+(g) The local citizen review board established by the Judicial Department under ORS 419A.090.
+(5) The department shall report on a quarterly basis to the  interim legislative committees on
+child welfare for the  purposes of public review and oversight of the quality and safety of child-caring
+agencies, certified foster homes and developmental disabilities  residential facilities that are licensed,
+certified or authorized by the department in this state and of proctor foster homes that are certified
+by the child-caring agencies. Information provided in reports under this subsection may not  contain
+the name or any identifying information of a child in care but must contain all of the following:
+(a) The name of any  child-caring agency, including an out-of-state child-caring agency, proctor
+foster home or developmental disabilities residential facility, or, provided there are  five or more
+certified foster homes in the  county, the name of the county where a certified foster home is located,
+where the department conducted an investigation pursuant to ORS 418.258 that resulted in  a finding
+that the report of abuse was substantiated during that quarter;
+(b) The approximate date that the abuse occurred;
+(c) The nature of the abuse and a brief narrative description of the abuse that occurred;
+(d) Whether physical injury, sexual abuse or death resulted from the abuse;
+(e) Corrective actions taken or ordered  by the department and the outcome of the corrective
+actions; and
+(f) Information the department received in that  quarter regarding any substantiated allegations
+of child abuse made by  any other state involving a congregate care residential setting, as defined
+in ORS 419B.354, in which the department has placed Oregon children.
+(6) The department’s quarterly report under subsection (5) of this section  must also
+contain all of the following:
+(a) The total number of restraints used in programs that quarter;
+(b) The total number of programs that reported the use of restraints of children  in care
+that quarter;
+(c) The total  number of individual children in care who were subject to restraints that
+quarter;
+(d) The number of reportable injuries to children in care  that resulted from those re-
+straints;
+(e) The number of restraints applied by  program staff who were not appropriately trained
+to implement the restraint; and
+(f) The number of restraints that were reported for potential inappropriate  use of re-
+straint.
+[12]
+SB 710
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(6)] (7) In compiling records, reports and other information during  an investigation under ORS
+418.258 (1) and in issuing findings, letters of concern or reprimands, the Director of Human Services
+or the director’s designee and the department may  not refer to the employee, person or entity that
+is the subject of the  investigation as an “alleged perpetrator” but must refer to the employee, person
+or entity as the “respondent.”
+(8) As used in this section,  “reportable injury,” “restraint” and “program” have the
+meanings given those terms in section 1 of this 2021 Act.
+SECTION 11.
+ ORS 419B.354, as amended by sections 11a and 11b, chapter 19, Oregon Laws 2020
+(first special session), is amended to read:
+419B.354. (1) As used in this section:
+(a) “Congregate care residential setting”  means any setting that cares for more than one child
+or ward and is not a setting described in ORS 418.205 [ (2)(b)(A), (D) or (E) or (10) ] (3)(b)(A), (D)
+or (E) or (11) .
+(b) “Sex trafficking”  means the recruitment, harboring, transportation, provision, obtaining, pa-
+tronizing or soliciting of a person under 18 years of age for the purpose  of a commercial sex act,
+as defined in ORS 163.266, or  the recruitment, harboring, transportation, provision or obtaining of
+a person over 18 years of age using force, fraud or coercion for the purpose of a commercial sex
+act, as defined in ORS 163.266.
+(2) The Department of Human Services  may place a child or ward in a congregate care resi-
+dential setting only if the setting is:
+(a) A child-caring agency, as defined in  ORS 418.205, a hospital, as defined in ORS 442.015, or
+a rural hospital, as defined in ORS 442.470; and
+(b) A qualified residential treatment  program described in section 12b, chapter 19, Oregon Laws
+2020 (first special session).
+(3) Notwithstanding subsection (2) of this section, the department may place a  child or ward in
+a child-caring agency that is not a qualified residential treatment program if:
+(a) The child-caring agency is providing prenatal, postpartum or  parenting supports to the child
+or ward.
+(b) The child  or ward is placed in an independent residence facility described in ORS 418.475
+that is licensed by the department as a child-caring agency.
+(c) The  child or ward is, or is at risk of becoming, a victim of sex trafficking and the child-caring
+agency is providing high-quality residential care and supportive services to the child or ward.
+(d) The Oregon Health Authority has approved the placement as  medically necessary and the
+child-caring agency:
+(A) Is a residential care facility;
+(B) Is licensed by the  authority and maintains site-specific accreditation from a nationally re-
+cognized organization to provide psychiatric treatment to children; and
+(C) Has an active provider agreement with the Oregon Medicaid program.
+(e) The child-caring agency is an  adolescent residential drug and alcohol treatment program li-
+censed or certified by the State of Oregon to provide  residential care, and the court has approved,
+or approval is pending for, the placement  in the child-caring agency of each child or ward over
+whom the department retains jurisdiction.
+(f) The placement with the child-caring agency  is for the purpose of placing the child or ward
+in a proctor foster home.
+(g) The child-caring agency is a residential care facility licensed by the department that provides
+[13]
+SB 710
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+short-term assessment and stabilization services.
+(h) The child-caring agency is a shelter-care home, as defined in ORS 418.470, that  provides
+short-term assessment and stabilization services.
+(i) The child-caring agency is a homeless, runaway or transitional living shelter licensed  by the
+department that provides short-term assessment and stabilization services.
+(4) The department  may not place a child or ward in a residential care facility or shelter-care
+home described in subsection (3)(g) or (h) of this section:
+(a) For more than 60 consecutive days or 90 cumulative days in a 12-month period; or
+(b) If the residential care facility or shelter-care home also serves  youth or youth offenders
+served by the county juvenile  department or youth offenders committed to the custody of the Oregon
+Youth Authority by the court.
+(5) The department may not place a child or ward in  a homeless, runaway or transitional living
+shelter described  in subsection (3)(i) of this section for more than 60 consecutive or 90 cumulative
+days in any 12-month period.
+(6) Calculations of the number of days a child  or ward is placed in a shelter-care home under
+subsection (3)(h) of this section or a homeless, runaway or transitional living shelter under  sub-
+section (3)(i) of this section exclude the days the child or ward is  in the shelter-care home or shelter
+if the child or ward:
+(a) Accessed the shelter-care home or shelter without the support or direction of the department;
+and
+(b) Is homeless or a runaway, as defined by the department by rule.
+(7)(a) Nothing in this  section prohibits the Oregon Youth Authority from placing a youth
+offender committed to its custody in  a placement that is not a qualified residential treatment pro-
+gram.
+(b) Nothing in this section prohibits the Oregon Youth Authority or a  county juvenile depart-
+ment from  placing a youth offender or a youth served by the Oregon Youth Authority or the county
+juvenile department in shelter care or detention under ORS chapter 419C.
+SECTION 12.
+Captions. The section captions used in this 2021  Act are provided only for
+the convenience of the reader and  do not become part of the statutory law of this state or
+express any legislative intent in the enactment of this 2021 Act.
+SECTION 13. Effective date.  This 2021 Act being  necessary for the immediate preserva-
+tion of  the public peace, health and safety, an emergency is declared to exist, and this 2021
+Act takes effect on its passage.
+[14]

@@ -1,0 +1,2530 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+Senate Bill 758
+Sponsored by Senator PROZANSKI (at the request of Compassionate Oregon)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Changes “Oregon Medical Marijuana Act” to “Oregon  Medical and Therapeutic Cannabis
+Act.” Allows person designated to produce marijuana by  registry identification cardholder to enter
+into agreement with registry identification cardholder to transfer marijuana to  another registry
+identification cardholder or primary caregiver. Directs  Oregon Health Authority to adopt policies
+and make public statement regarding equitable access to  marijuana for medical use. Allows medical
+marijuana dispensary and  recreational marijuana retailer to transfer marijuana to individual who
+holds valid out-of-state medical  marijuana patient card. Requires authority to ensure cybersecurity
+of personally identifiable information  in authority databases and electronic systems. Exempts out-
+of-state medical marijuana patient from taxation on retail sale of marijuana items. Specifies health
+care  providers  who may recommend medical use of marijuana to registry identification cardholder.
+Provides that authority may not charge  fee greater than $20 for registry identification card for
+certain individuals. Directs authority to issue permanent registry  identification card to individual
+with lifetime debilitating medical condition. Requires organizations designated as primary
+caregivers to allow consumption of marijuana for medical use. Removes criminal records check re-
+quirements for applicants  for authority registration. Provides that certain marijuana grow sites are
+not subject to tracking requirements or marijuana plant limits.
+Requires marijuana retailers and  medical marijuana dispensaries to make available online
+terpene testing results.
+Directs Oregon Liquor Control Commission  to establish care and accommodation program to
+ensure long-term access to marijuana products  for registry identification cardholders. Allows certain
+recreational marijuana processors to receive marijuana from medical marijuana grow site for  pur-
+poses of processing marijuana.
+Requires distribution  of moneys from Oregon Marijuana Account for purposes of administering
+medical marijuana program.
+Takes effect on 91st day following adjournment sine die.
+A BILL FOR AN ACT
+Relating to medical marijuana; creating new  provisions; amending ORS 475B.020, 475B.139, 475B.220,
+475B.531, 475B.570, 475B.630, 475B.707, 475B.759, 475B.788, 475B.791,  475B.797, 475B.801,
+475B.807, 475B.810, 475B.816,  475B.822, 475B.831, 475B.837, 475B.840, 475B.858, 475B.885,
+475B.898, 475B.901, 475B.904, 475B.913, 475B.916, 475B.952  and 475B.961; repealing ORS
+475B.794, 475B.843 and 475B.861; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+OREGON MEDICAL AND THERAPEUTIC CANNABIS ACT
+SECTION 1.
+Sections 2 to 5 of this 2021 Act are added to and made a part of ORS 475B.785
+to 475B.949.
+SECTION 2. (1) A person designated to produce marijuana by a registry identification
+cardholder may transfer, pursuant to an agreement entered into with the registry  identifi-
+cation cardholder  and subject to the limits established in ORS 475B.825, 475B.831 and
+475B.834, all or part of the seeds, immature marijuana plants and usable marijuana  associ-
+ated with the production of marijuana described in this  subsection to another registry iden-
+tification cardholder or the other registry identification cardholder’s designated primary
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2569
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+caregiver.
+(2) A transfer made under this section is subject to tracking under ORS 475B.895.
+(3) The Oregon Health Authority may adopt rules to carry out this section.
+SECTION 3.
+The Oregon Health Authority shall include on a website dedicated to the
+program administered under ORS 475B.785 to 475B.949 a statement declaring that cannabis
+is to be treated as a medicine, the program administered under  ORS 475B.785 to 475B.949 is
+a public health program and the authority is dedicated to ensuring equitable  access to the
+program for all  Oregonians. The authority shall adopt and abide by internal policies that
+focus on ensuring equitable access to the program for all Oregonians.
+SECTION 4.
+(1) A medical marijuana dispensary may transfer usable marijuana,  imma-
+ture marijuana plants, seeds, medical cannabinoid products, cannabinoid concentrates  and
+cannabinoid extracts to an  individual who provides to the medical marijuana dispensary proof
+that the individual is the holder of a medical marijuana patient card issued by another state.
+(2) A medical marijuana dispensary shall post in an area visible to the public a notice that
+an individual described in subsection (1) of  this section is not exempt from ORS 475B.227 or
+475B.381.
+(3) The Oregon Health Authority:
+(a) May adopt rules regarding the validity of medical  marijuana patient cards described
+under subsection (1) of this section; and
+(b) Shall adopt rules to establish requirements for the notice described under subsection
+(2) of this section.
+SECTION 5.
+The Oregon Health Authority  shall, in consultation with the Oregon Liquor
+Control Commission and other state agencies as necessary:
+(1) Ensure the highest level of  protection and privacy for information submitted and
+maintained in the databases established under  ORS 475B.879 and 475B.882, the electronic
+system established under ORS 475B.892 and the tracking system established under ORS
+475B.177;
+(2) Continually revise information handling and submission processes to reduce multiple
+submissions of  personally identifiable information in the databases established under ORS
+475B.879 and 475B.882, the electronic system established under ORS 475B.892 and the tracking
+system established under ORS 475B.177; and
+(3) Ensure any third  party vendors with which the authority or the commission contracts
+for the management of the  databases established under ORS 475B.879 and 475B.882, the
+electronic system  established under ORS 475B.892 and the tracking system established under
+ORS 475B.177 prevent cybersecurity breaches.
+SECTION 6.
+ ORS 475B.788 is amended to read:
+475B.788. ORS 475B.785 to 475B.949 shall be known as the Oregon  Medical [ Marijuana] and
+Therapeutic Cannabis Act.
+SECTION 7.  ORS 475B.791 is amended to read:
+475B.791. As used in ORS 475B.785 to 475B.949:
+(1) “Attending [ physician] provider” means [ a physician licensed under ORS chapter 677 ] one
+of the following health care providers  who has primary responsibility for the care and treatment
+of a person diagnosed with a debilitating medical condition[ .]:
+(a) A physician licensed under ORS chapter 677;
+(b) A physician assistant licensed under ORS 677.505 to 677.525;
+[2]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) A nurse practitioner licensed under ORS 678.375 to 678.390;
+(d) A naturopathic physician licensed under ORS chapter 685;
+(e) A dentist licensed under ORS chapter 679; or
+(f) An optometrist licensed under ORS 683.010 to 683.340.
+(2) “Cannabinoid” means any of  the chemical compounds that are the active constituents of
+marijuana.
+(3) “Cannabinoid concentrate” means a substance  obtained by separating cannabinoids from
+marijuana by:
+(a) A mechanical extraction process;
+(b) A chemical extraction process using a nonhydrocarbon-based solvent, such as vegetable
+glycerin, vegetable oils, animal fats, isopropyl alcohol or ethanol;
+(c) A chemical extraction process using the hydrocarbon-based solvent carbon  dioxide, provided
+that the process does not involve the use of high heat or pressure; or
+(d) Any other process identified by  the Oregon Health Authority, in consultation with the
+Oregon Liquor Control Commission, by rule.
+(4) “Cannabinoid edible” means food  or potable liquid into which a cannabinoid concentrate,
+cannabinoid extract or dried leaves or flowers of marijuana have been incorporated.
+(5) “Cannabinoid extract” means  a substance obtained by separating cannabinoids from
+marijuana by:
+(a) A chemical extraction process using a hydrocarbon-based solvent, such as butane, hexane
+or propane;
+(b) A chemical extraction process using the hydrocarbon-based  solvent carbon dioxide, if the
+process uses high heat or pressure; or
+(c) Any other process identified by the Oregon  Health Authority, in consultation with the
+Oregon Liquor Control Commission, by rule.
+(6) “Debilitating medical condition” means:
+(a) Cancer, glaucoma, a degenerative  or pervasive neurological condition, positive status for
+human immunodeficiency virus or acquired immune deficiency  syndrome, or a side effect related to
+the treatment of those medical conditions;
+(b) A medical condition or treatment for  a medical condition that produces, for a specific pa-
+tient, one or more of the following:
+(A) Cachexia;
+(B) Severe pain;
+(C) Severe nausea;
+(D) Seizures, including seizures caused by epilepsy; or
+(E) Persistent muscle spasms, including spasms caused by multiple sclerosis;
+(c) Post-traumatic stress disorder , presumptive post-traumatic stress disorder based on the
+person’s history of arrest or imprisonment  or a medical condition related to post-traumatic
+stress disorder, including:
+(A) Chronic anxiety; and
+(B) Chronic depression; or
+(d) Any other medical condition or side effect related to the treatment of a medical  condition
+adopted by the Oregon Health Authority by rule [ or], approved by the authority pursuant  to a pe-
+tition filed under ORS 475B.946 or as determined by an attending provider in the professional
+judgment and ongoing medical oversight of the attending provider .
+[3]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(7)(a) “Delivery” has the meaning given that term in ORS 475.005.
+(b) “Delivery” does  not include transfer of marijuana by a registry identification cardholder to
+another registry identification cardholder if no consideration is paid for the transfer.
+(8)(a) “Designated primary caregiver” means an individual:
+(A) Who is 18 years of age or older;
+(B) Who has significant responsibility for  managing the well-being of a person who has been
+diagnosed with a debilitating medical condition; and
+(C) Who is designated as the person responsible for managing the well-being of  a person who
+has been  diagnosed with a debilitating medical condition on that person’s application for a registry
+identification card or in other written notification submitted to the authority.
+(b) “Designated primary caregiver” does not include a person’s attending [ physician] provider.
+(9) “High heat” means a temperature exceeding 180 degrees.
+(10) “Immature marijuana plant” means a marijuana plant that is not flowering.
+(11)(a) “Marijuana” means the plant Cannabis family  Cannabaceae, any part of the plant
+Cannabis family Cannabaceae and the seeds of the plant Cannabis family Cannabaceae.
+(b) “Marijuana” does not include:
+(A) Industrial hemp, as defined in ORS 571.269; or
+(B) Prescription drugs, as that term is defined in ORS 689.005, including those  containing one
+or more  cannabinoids, that are approved by the United States Food and Drug Administration and
+dispensed by a pharmacy, as defined in ORS 689.005.
+(12) “Marijuana grow site” means  a location registered under ORS 475B.810 where marijuana
+is produced for use by a registry identification cardholder.
+(13) “Marijuana processing  site” means a marijuana processing site registered under ORS
+475B.840 or a site  for which an applicant has submitted an application for registration under ORS
+475B.840.
+(14) “Mature marijuana plant” means a marijuana plant that is not an immature marijuana
+plant.
+(15)(a) “Medical cannabinoid product” means a cannabinoid edible and any  other product in-
+tended for human consumption or use, including a product intended to  be applied to a person’s skin
+or hair, that contains cannabinoids or dried leaves or flowers of marijuana.
+(b) “Medical cannabinoid product” does not include:
+(A) Usable marijuana by itself;
+(B) A cannabinoid concentrate by itself;
+(C) A cannabinoid extract by itself; or
+(D) Industrial hemp, as defined in ORS 571.269.
+(16) “Medical marijuana dispensary” means a medical marijuana  dispensary registered under
+ORS 475B.858 or a  site for which an applicant has submitted an application for registration under
+ORS 475B.858.
+(17) “Medical use of  marijuana” means the production, processing, possession, delivery or ad-
+ministration of marijuana, or use of paraphernalia used to administer marijuana, to  mitigate the
+symptoms or effects of a debilitating medical condition.
+(18) “Person designated to produce marijuana by a registry  identification cardholder” means a
+person designated to produce marijuana by a registry identification cardholder  under ORS 475B.810
+who produces  marijuana for a registry identification cardholder at an address other than the address
+where the registry identification cardholder resides or at an address  where more than 12 mature
+[4]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+marijuana plants are produced.
+(19) “Process” means the  compounding or conversion of marijuana into medical cannabinoid
+products, cannabinoid concentrates or cannabinoid extracts.
+(20) “Production” means:
+(a) Planting, cultivating, growing, trimming or harvesting marijuana; or
+(b) Drying marijuana leaves or flowers.
+(21) “Registry identification card” means  a document issued by the Oregon Health Authority
+under ORS 475B.797 that identifies a person authorized to engage in the medical  use of marijuana
+and, if the person has a designated  primary caregiver under ORS 475B.804, the person’s designated
+primary caregiver.
+(22) “Registry identification cardholder” means a person to  whom a registry identification card
+has been issued under ORS 475B.797.
+(23)(a) “Usable marijuana” means the dried leaves and flowers of marijuana.
+(b) “Usable marijuana” does not include:
+(A) The seeds, stalks and roots of marijuana; or
+(B) Waste material that is a by-product of producing marijuana.
+(24) “Written documentation” means  a statement signed by the attending [ physician] provider
+of a person diagnosed with  a debilitating medical condition or copies of the person’s relevant med-
+ical records.
+SECTION 8.
+ ORS 475B.797 is amended to read:
+475B.797. (1) The Oregon Health Authority shall establish a program  for the issuance of registry
+identification cards to applicants who meet the requirements of this section.
+(2) The authority shall issue a registry identification card to an  applicant who is 18 years of age
+or older if the applicant pays a fee in an amount established by the authority by rule and  submits
+to the authority an application containing the following information:
+(a) Written documentation  from the applicant’s attending [ physician] provider stating that the
+attending [ physician] provider has diagnosed the applicant as having a debilitating  medical condi-
+tion and that the medical use of marijuana may mitigate  the symptoms or effects of the applicant’s
+debilitating medical condition;
+(b) The name, address and date of birth of the applicant;
+(c) The name, address and telephone number of the applicant’s attending [ physician] provider;
+[(d) Proof of residency, submitted in a form required by the authority by rule; ]
+[(e)] (d) The name and address of the applicant’s  designated primary caregiver, if the applicant
+is designating a primary caregiver under ORS 475B.804; [ and]
+[(f)] (e) The information described in ORS 475B.810 (2), if  the applicant is applying to produce
+marijuana or designate another person under ORS 475B.810 to produce marijuana[ .]; and
+(f) Whether the applicant is enrolled in the state medical assistance program.
+(3)(a) The authority shall issue a registry identification  card to an applicant who is under 18
+years of age if:
+(A) The applicant pays the fee and submits the application  described in subsection (2) of this
+section; and
+(B) The custodial parent or legal guardian who is responsible for the health care  decisions of
+the applicant signs and submits to the authority a written statement that:
+(i) The applicant’s attending [ physician] provider has explained to the applicant and to the
+custodial parent or legal guardian the possible risks and benefits of the medical use of marijuana;
+[5]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(ii) The custodial parent or legal guardian consents to the  medical use of marijuana by the ap-
+plicant;
+(iii) The custodial parent or legal guardian  agrees to serve as the applicant’s designated primary
+caregiver; and
+(iv) The custodial parent or legal guardian agrees to control the acquisition, dosage  and fre-
+quency of the medical use of marijuana by the applicant.
+(b) An applicant  who is under 18 years of age may not apply to produce marijuana under sub-
+section [ (2)(f)] (2)(e) of this section.
+(4) The authority shall:
+(a) On the date on which the  authority receives an application described in subsection (2) of this
+section, issue a receipt to  the applicant verifying that the authority received an application under
+subsection (2) or (3) of this section; and
+(b) Approve or deny an application received under subsection (2) or  (3) of this section within
+30 days after receiving the application.
+(5)(a) If the  authority approves an application, the authority shall issue a serially numbered
+registry  identification  card to the applicant within five days after approving the application. The
+registry identification card must include the following information:
+(A) The registry identification cardholder’s name, address and date of birth;
+(B) The issuance date and expiration date of the registry identification card;
+(C) If the registry identification cardholder designated a primary caregiver under ORS 475B.804,
+the name and address of the registry identification cardholder’s designated primary caregiver; and
+(D) Any other information required by the authority by rule.
+(b) If the registry identification cardholder  designated a primary caregiver under ORS 475B.804,
+the authority shall issue an identification card to the designated primary  caregiver. The identifica-
+tion card must contain the information required by paragraph (a) of this subsection.
+(c) If an applicant under subsection (2) of this section provides written documentation
+from the applicant’s attending provider that the attending  provider has diagnosed the appli-
+cant as having a debilitating medical condition of which the applicant cannot be cured  and
+the authority approves the applicant’s application, the authority  shall issue to the applicant
+a permanent registry identification  card that contains the information described in para-
+graph (a)(A), (C) and (D) of this subsection and that is not subject to the  renewal require-
+ments under subsection (6)(b) of this section.
+(6) A registry identification cardholder shall:
+(a) In a form and manner prescribed by the authority,  notify the authority of any change con-
+cerning the registry identification cardholder’s:
+(A) Name, address or attending [ physician] provider;
+(B) Designated  primary caregiver, including the designation of a primary caregiver made at a
+time other than at the time of applying for or renewing a registry identification card; or
+(C) Person responsible for a marijuana grow  site, including the designation of a person respon-
+sible for a marijuana grow site made at a time other than at the time of applying for or renewing
+a registry identification card.
+(b) Except as provided in subsection (5)(c) of this section,  annually renew the registry
+identification card by paying a fee in an amount established by the authority by rule and  submitting
+to the authority an application that contains the following information:
+(A) Updated written documentation  from the registry identification cardholder’s attending [ phy-
+[6]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+sician] provider stating that  the registry identification cardholder still has a debilitating medical
+condition and that the  medical use of marijuana may mitigate the symptoms or effects of the registry
+identification cardholder’s debilitating medical condition;
+(B) The information described in subsection (2)(b) to (f) of this section; and
+(C) If the registry identification cardholder is  under 18 years of age, a statement signed by the
+custodial parent or legal guardian of the  registry identification cardholder that meets the require-
+ments of subsection (3) of this section.
+(7) The authority shall:
+(a) On the date on which the  authority receives an application described in subsection (2) of this
+section, issue a receipt to  the applicant verifying that the authority received an application under
+subsection (6)(b) of this section; and
+(b) Approve or deny an application received under subsection (6)(b) of  this section within 30
+days after receiving the application.
+(8)(a) If the registry identification cardholder’s  attending [ physician] provider determines that
+the registry identification cardholder no longer has a debilitating medical condition, or  determines
+that the medical use of marijuana is contraindicated for the registry  identification cardholder’s de-
+bilitating medical condition,  the registry identification cardholder shall return the registry identifi-
+cation card to the authority within 30 calendar days after receiving notice of the determination.
+(b) If, because of circumstances beyond the control of the registry identification  cardholder, a
+registry identification cardholder is unable to  obtain a second medical opinion about the registry
+identification  cardholder’s  continuing eligibility for the medical use of marijuana before having to
+return the registry identification card  to the authority, the authority may grant the registry iden-
+tification cardholder additional time to obtain a second medical opinion.
+(9)(a) The authority may deny an application for a registry identification  card or an application
+to renew a registry identification card, or may suspend or revoke a registry identification card, if:
+(A) The applicant or registry identification cardholder  does not provide the information required
+by this section;
+(B) The authority determines that the applicant or  registry identification cardholder provided
+false information; or
+(C) The authority determines that  the applicant or registry identification cardholder violated a
+provision of ORS 475B.785 to 475B.949 or a rule adopted under ORS 475B.785 to 475B.949.
+(b) If a registry identification card is revoked, any associated identification card issued under
+subsection (5)(b) of this section, or marijuana grow site registration card issued  under ORS 475B.810
+[(6)] (5), shall also be revoked.
+(c) A person whose application is denied, or whose registry identification card is revoked,  under
+this subsection may not reapply for a registry identification card for six  months from the date of the
+denial or revocation unless otherwise authorized by the authority.
+(10)(a) The authority may deny a designation of a primary caregiver made under  ORS 475B.804,
+or suspend or revoke an associated identification card  issued under subsection (5)(b) of this section,
+if the authority  determines that the designee or the registry identification cardholder violated a
+provision of ORS 475B.785 to 475B.949 or a rule adopted under ORS 475B.785 to 475B.949.
+(b) A person whose designation has been  denied, or whose identification card has been revoked,
+under this subsection may not  be designated as a primary caregiver under ORS 475B.804 for six
+months from the date of the denial or revocation unless otherwise authorized by the authority.
+(11)(a) Notwithstanding subsection (2) or (6)(b) of this  section, if an applicant for a registry
+[7]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+identification card, or a  registry identification cardholder applying for renewal of a registry iden-
+tification card, submits  to the authority [ proof of having served in the Armed Forces of the United
+States] applicable documentation listed in paragraph (c) of this subsection , the authority may
+not impose  a fee that is greater than $20 for the issuance or renewal of the registry identification
+card.
+(b) Notwithstanding subsection  (6)(b)(A) of this section, the requirement that a registry identifi-
+cation cardholder include in the application to renew a registry identification card updated written
+documentation from the cardholder’s attending [ physician] provider regarding the  cardholder’s con-
+tinuing debilitating medical condition does not apply to a service-disabled veteran who:
+(A) Has been assigned a total and  permanent disability rating for compensation that rates the
+veteran as unable to secure or follow a substantially gainful occupation as a result of service-
+connected disabilities as described in 38 C.F.R. 4.16; or
+(B) Has a United States Department of  Veterans Affairs total disability rating of 100 percent
+as a result of an  injury or illness that the veteran incurred, or that was aggravated, during active
+military service and who received a discharge or release under other than dishonorable conditions.
+(c) The following are  acceptable documentation for the purposes of paragraph (a) of this
+subsection:
+(A) Proof of having served in the Armed Forces of the United States;
+(B) Proof of receiving Supplemental Security Income; or
+(C) Proof of receiving Social Security Disability Insurance benefits.
+(12) For any purpose described in ORS 475B.785 to 475B.949, including  exemption from criminal
+liability under ORS 475B.907, a receipt issued by  the authority verifying that an application has
+been submitted  to the authority under subsection (2), (3) or (6)(b) of this section has the same legal
+effect as a registry  identification card for 30 days following the date on which the receipt was issued
+to the applicant.
+SECTION 9.
+ ORS 475B.801 is amended to read:
+475B.801. A designated  primary caregiver may assist the designating registry identification
+cardholder with any matter related to the medical use of marijuana, including:
+(1) The production of marijuana at  the address provided by the registry identification cardholder
+to the Oregon Health Authority pursuant to ORS 475B.797 [ (2)(f)] (2)(e); and
+(2) The processing of  marijuana into cannabinoid concentrates or medical cannabinoid products.
+SECTION 10.  ORS 475B.807 is amended to read:
+475B.807. (1) Notwithstanding  ORS 475B.804, an organization that provides hospice, palliative
+or home health care services, or a residential facility as defined in ORS 443.400, that has  significant
+responsibility for managing the  well-being of a person who has been diagnosed with a debilitating
+medical condition may be designated,  in addition to an individual designated pursuant to ORS
+475B.804, as an additional caregiver for a registry identification cardholder in  the same manner that
+an individual is designated as  the primary caregiver for a registry identification cardholder under
+ORS 475B.804.
+(2) An organization or residential facility  that is designated under this section has all the duties,
+functions  and  powers of a designated primary caregiver as prescribed by ORS 475B.785 to 475B.949
+or a rule adopted under ORS 475B.785 to 475B.949.
+(3) An organization or residential facility designated under this section:
+(a) Shall allow the registry identification cardholder described in subsection (1)  of this
+section to  consume marijuana for medical use in the facility operated by or on behalf of the
+[8]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+organization or residential facility.
+(b) May not confiscate marijuana from a registry  identification cardholder described in
+subsection (1) of this section.
+SECTION 11.
+ ORS 475B.810 is amended to read:
+475B.810. (1)(a) The  Oregon Health Authority shall establish by rule a marijuana grow site
+registration system to track and regulate the production of  marijuana by a registry identification
+cardholder or a person designated by the registry identification cardholder  to produce marijuana for
+the registry identification cardholder.
+(b) Except as provided in paragraph (c) of this subsection, a person may not produce  marijuana
+unless the person is registered under this section.
+(c) Paragraph (b) of this  subsection does not apply to the production of marijuana as provided
+in ORS 475B.010 to 475B.545 or as otherwise provided for by the statutory laws of this state.
+(2) Rules adopted under  this section must require an applicant for a registry identification card,
+or a registry identification cardholder who produces  marijuana or who designates another person
+to produce marijuana, to submit an application to the  authority containing the following information
+at the time of making an application under ORS 475B.797 (2), renewing  a registry identification card
+under ORS 475B.797 (6)(b), or notifying the authority of a change under ORS 475B.797 (6)(a):
+(a) The name of the person responsible for the marijuana grow site;
+(b) Proof that the person is 21 years of age or older;
+(c) If the registry identification cardholder or  the person responsible for the marijuana grow site
+is not the owner of the premises  of the marijuana grow site, signed informed consent from the owner
+of the premises to register the premises as a marijuana grow site;
+(d) The address of the marijuana grow site; and
+(e) Any other information that the authority  considers necessary to track the production of
+marijuana under ORS 475B.785 to 475B.949.
+[(3)(a) The authority shall conduct a criminal records check under ORS 181A.195 of  any person
+whose name is submitted under this section as the person responsible for a marijuana grow site. ]
+[(b) A person convicted of a Class A or Class B felony  under ORS 475.752 to 475.920 for the
+manufacture or delivery of a controlled substance in Schedule I or Schedule II may  not act as or be
+designated a person responsible for a marijuana grow site for two years from the date of conviction. ]
+[(c) A person convicted more than once  of a Class A or Class B felony under ORS 475.752 to
+475.920 for the manufacture or delivery of a controlled substance in Schedule I or Schedule II may not
+act as or be designated a person responsible for a marijuana grow site. ]
+[(4)] (3) Subject to subsection [ (11)] (10) of this section,  the authority shall issue a marijuana
+grow site registration card if the requirements of  [ subsections (2) and (3) ] subsection (2)  of this
+section are met.
+[(5)] (4) A  person who holds a marijuana grow site registration card under this section must
+display the card at the marijuana grow site at all times.
+[(6)] (5) A marijuana grow site registration card  must be obtained and posted for each registry
+identification cardholder for whom marijuana is being produced at a marijuana grow site.
+[(7)(a)] (6)(a) Except as provided in section 2  of this 2021 Act, all seeds, immature marijuana
+plants, mature marijuana plants and usable marijuana associated with the production of  marijuana
+for a registry identification  cardholder by a person responsible for a marijuana grow site are the
+property of the registry identification cardholder.
+(b) Except as provided in section 2 of this 2021 Act,  all  seeds, immature marijuana plants,
+[9]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+mature marijuana plants and usable marijuana associated with the production of marijuana for  a
+registry identification cardholder  by a person responsible for a marijuana grow site must be trans-
+ferred to the registry identification cardholder upon the request of the registry identification
+cardholder.
+(c) Except as provided in  section 2 of this 2021 Act,  all usable marijuana associated with the
+production of marijuana for a registry identification cardholder by a person responsible  for a
+marijuana grow site must be transferred to a marijuana processing site upon the request  of the
+registry identification cardholder. For purposes of this paragraph, a request to transfer usable
+marijuana constitutes an assignment of the right to possess the usable marijuana.
+(d) Except as provided in section 2 of this 2021  Act,  all seeds, immature marijuana plants and
+usable marijuana associated with the production of marijuana for a registry identification cardholder
+by a person responsible for a  marijuana grow site must be transferred to a medical marijuana
+dispensary upon request of the registry identification cardholder. For purposes  of this paragraph, a
+request to transfer seeds, immature marijuana  plants or usable marijuana constitutes an assignment
+of the right to possess the seeds, immature marijuana plants or usable marijuana.
+(e) Information related to transfers made  under this subsection must be submitted to the au-
+thority in the manner required by ORS 475B.816.
+[(8)] (7) A registry  identification cardholder, or the designated caregiver of a registry identifi-
+cation cardholder, may reimburse  a person responsible for a marijuana grow site for all costs asso-
+ciated with the production of marijuana for the registry identification cardholder.
+[(9)] (8) The authority may inspect:
+(a) The marijuana grow site of a person designated to produce marijuana by  a registry identifi-
+cation cardholder to ensure compliance with this  section and ORS 475B.816 and 475B.831 and any
+rule adopted under this section and ORS 475B.816 and 475B.831; and
+(b) The records of the marijuana grow site of a person designated to produce marijuana  by a
+registry identification cardholder to ensure compliance with this  section and ORS 475B.816 and any
+rule adopted under this section and ORS 475B.816.
+[(10)] (9) The authority may refuse to register a registry  identification cardholder or a designee
+under this section or may suspend or revoke  the registration of a person responsible for a marijuana
+grow site if the authority determines that the applicant  or the person responsible for a marijuana
+grow site violated a provision of  ORS 475B.785 to 475B.949, a rule adopted under ORS 475B.785 to
+475B.949 or an ordinance adopted pursuant to ORS 475B.928.
+[(11)] (10) The authority may require a person responsible for a marijuana grow site, prior to
+issuing a marijuana grow  site registration card under subsection [ (4)] (3) of this section, to pay a
+fee reasonably calculated to pay costs incurred under this section and ORS 475B.816 and 475B.879.
+SECTION 12.
+ ORS 475B.816 is amended to read:
+475B.816. (1) A person designated  to produce marijuana by a registry identification cardholder
+must submit to the Oregon Health Authority, in a form and manner established by  the authority by
+rule, the following information related to the production of marijuana:
+(a) The  number of mature marijuana plants and immature marijuana plants, the amount of
+marijuana leaves and flowers being dried, and  the amount of usable marijuana, in the person’s pos-
+session;
+(b) The number  of mature marijuana plants and immature marijuana plants, and the amount of
+usable marijuana, that the person transfers  to each registry identification cardholder for whom the
+person produces marijuana;
+[10]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) The amount of usable  marijuana that the person transfers to each marijuana processing site;
+and
+(d) The number of immature marijuana plants, and  the amount of usable marijuana, that the
+person transfers to each medical marijuana dispensary.
+(2) The authority shall by rule require a person designated to produce  marijuana by a registry
+identification cardholder to submit the information described in  subsection (1) of this section once
+each month. The authority may not employ any method other than that described in this section to
+obtain information related to the  production of marijuana from a person designated to produce
+marijuana by a registry identification cardholder.
+(3) In  addition to submitting the information as required by subsection (1) of this section, a
+person designated to produce  marijuana by a registry identification cardholder must keep a record
+of the information described in subsection (1) of this section for two  years after the date on which
+the person submits the information to the authority.
+(4) A person designated to produce  marijuana by a registry identification cardholder is
+not subject to this section if the person designated to produce marijuana possesses  12 or
+fewer mature marijuana plants.
+SECTION 13.
+ ORS 475B.822 is amended to read:
+475B.822. Notwithstanding ORS 475B.810 [ (7)] (6), a person responsible for a marijuana grow site
+may enter into an agreement with  a registry identification cardholder under which the registry
+identification cardholder assigns, to  the person responsible for the marijuana grow site, a portion
+of the right to possess the seeds, immature marijuana plants and usable marijuana that  are the
+property of the registry identification cardholder.
+SECTION 14.  ORS 475B.831 is amended to read:
+475B.831. (1)(a) A registry identification cardholder and  the designated primary caregiver of the
+registry identification cardholder may jointly possess:
+(A) Six or fewer mature marijuana plants; and
+(B) Twelve or fewer immature marijuana plants.
+(b)(A) Unless an address is the marijuana grow site of  a person designated to produce marijuana
+by a registry  identification cardholder, the address where a registry identification cardholder or the
+primary caregiver of a  registry identification cardholder produces marijuana may be used to produce
+not more than:
+(i) Six or fewer mature marijuana plants per registry identification cardholder, up to 12 mature
+marijuana plants; and
+(ii) Twelve or fewer immature marijuana plants per registry identification cardholder, up  to 24
+immature marijuana plants.
+(B) Except as provided in subparagraph (C) of this paragraph, an address that is  subject to this
+paragraph may not be used to produce plants in the genus  Cannabis within the plant family
+Cannabaceae pursuant to ORS 475B.301.
+(C) Subject to subparagraph (D) of this paragraph, an  address that is subject to this paragraph
+may be  used to produce plants in the genus Cannabis within the plant family Cannabaceae pursuant
+to ORS 475B.301 if a person other than a registry identification cardholder who is using the  address
+to produce marijuana plants pursuant to ORS 475B.785 to 475B.949 resides at the address.
+(D) An address that is subject to this  paragraph may not be used to produce more than 12 total
+mature marijuana plants.
+(2)(a) A person may be designated to produce marijuana under ORS 475B.810 by no  more than
+[11]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+eight registry identification cardholders.
+(b) A person responsible for a marijuana grow site may  produce for a registry identification
+cardholder who designates the person to produce marijuana no more than:
+(A) Six mature marijuana plants;
+(B) 12 immature marijuana plants that are 24 inches or more in height; and
+(C) The amount, established by the Oregon Health Authority by rule,  of immature marijuana
+plants that are less than 24 inches in height.
+(3) If the address of a person responsible for a marijuana grow site registered  under ORS
+475B.810 is located within city limits in an area zoned for residential use:
+(a) Except as provided in paragraph (b) of this subsection,  no more than the following amounts
+of marijuana plants may be produced at the address:
+(A) 12 mature marijuana plants;
+(B) 24 immature marijuana plants that are 24 inches or more in height; and
+(C) The amount, established by the authority by rule, of  immature marijuana plants that are less
+than 24 inches in height; or
+(b) Subject  to subsection (5) of this section, if each person responsible for a marijuana grow site
+located at the address first registered with the authority under ORS 475B.810  before January 1,
+2015, no more than the following amounts of marijuana plants may be produced at the address:
+(A) The amount of mature marijuana plants located at that address  on December 31, 2014, in
+excess of 12 mature marijuana plants, not to exceed 24 mature marijuana plants;
+(B) 48 immature marijuana plants that are 24 inches or more in height; and
+(C) The amount, established by the authority by rule, of  immature marijuana plants that are less
+than 24 inches in height.
+(4) If the address of a person responsible for a marijuana grow site registered  under ORS
+475B.810 is located in an area other than an area described in subsection (3) of this section:
+(a) Except as provided in paragraph (b) of this subsection,  no more than the following amounts
+of marijuana plants may be produced at the address:
+(A) 48 mature marijuana plants;
+(B) 96 immature marijuana plants that are 24 inches or more in height; and
+(C) The amount, established by the authority by rule, of  immature marijuana plants that are less
+than 24 inches in height; or
+(b) Subject to subsections (5) and (6) of  this section, if each person responsible for a marijuana
+grow site located at the address first registered with the authority under ORS 475B.810  before
+January 1, 2015, no more than the following amounts of marijuana  plants may be produced at the
+address:
+(A) The amount of mature marijuana plants located at that address  on December 31, 2014, in
+excess of 48 mature marijuana plants, not to exceed 96 mature marijuana plants;
+(B) 192 immature marijuana plants that are 24 inches or more in height; and
+(C) The amount, established by the authority by rule, of  immature marijuana plants that are less
+than 24 inches in height.
+(5)(a) If  the authority suspends or revokes the registration of a person responsible for a
+marijuana grow site that is located at an address  described in subsection (3)(b) of this section, no
+more than the following amounts of marijuana plants may subsequently be produced at any  address
+described in subsection (3) of this section at which  the person responsible for the marijuana grow
+site produces marijuana:
+[12]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(A) 12 mature marijuana plants;
+(B) 24 immature marijuana plants that are 24 inches or more in height; and
+(C) The amount, established by the authority by rule, of  immature marijuana plants that are less
+than 24 inches in height.
+(b) If the authority suspends or  revokes the registration of a person responsible for a marijuana
+grow site that is  located at an address described in subsection (4)(b) of this section, no more than
+the following  amounts of marijuana plants may subsequently be produced at any address described
+in subsection (4) of  this section at which the person responsible for the marijuana grow site
+produces marijuana:
+(A) 48 mature marijuana plants;
+(B) 96 immature marijuana plants that are 24 inches or more in height; and
+(C) The amount, established by the authority by rule, of  immature marijuana plants that are less
+than 24 inches in height.
+(6) If a registry identification cardholder who designated a person to produce  marijuana for the
+registry identification cardholder pursuant to ORS 475B.810 terminates the designation, the person
+responsible  for  the marijuana grow site whose designation has been terminated may not be desig-
+nated to produce marijuana by another registry  identification cardholder, except that the person
+may be designated by another registry identification cardholder if no more than 48 mature
+marijuana plants and no more than 96 immature marijuana plants that are 24 or more  inches in
+height are produced at the address for the marijuana grow site at which the  person produces
+marijuana.
+(7) Subject to the limits described in subsections  (2) to (6) of this section, if multiple persons
+responsible for a marijuana grow site under ORS 475B.810 are located at the same address,  the
+persons designated to produce marijuana by  registry identification cardholders who are located at
+that address may collectively produce marijuana plants for any number of  registry identification
+cardholders who designate the persons to produce marijuana.
+(8) If a law enforcement officer determines that there is a number of marijuana plants at an
+address in excess of the quantities specified in this section, or that an  address is being used to
+produce a number of marijuana plants  in excess of the quantities specified in subsection (1)(b) of this
+section, the law enforcement officer may confiscate only the excess number of marijuana plants.
+(9) This section does not apply to a marijuana grow site that:
+(a) Is located at an address within city  limits, or within an urban growth boundary,
+where a marijuana grow site may be restricted in size;
+(b) Does not exceed 250 square feet in total area;
+(c) Cannot be seen by normal unaided vision from a public place at ground level; and
+(d) Is not used to produce marijuana for more  than two registry identification
+cardholders.
+SECTION 15.
+ ORS 475B.837 is amended to read:
+475B.837. A person to whom a registry identification card has  been issued under ORS 475B.797
+(5)(a) or (c) , an identification card has been issued under ORS 475B.797 (5)(b), or a marijuana  grow
+site registration card  has been issued under ORS 475B.810, may not possess marijuana, usable
+marijuana, medical cannabinoid products,  cannabinoid concentrates or cannabinoid extracts in a
+location other than the address on file with the Oregon Health  Authority unless the person is car-
+rying the card.
+SECTION 16.  ORS 475B.840 is amended to read:
+[13]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+475B.840. (1)(a) The Oregon Health Authority shall establish by rule a marijuana processing  site
+registration system to track and regulate the processing of marijuana by a person responsible for
+a marijuana processing site.
+(b) Except as provided in paragraph (c)  of this subsection, a person may not process marijuana
+unless the person is registered under this section.
+(c) Paragraph (b) of this subsection does not apply  to the processing of marijuana as provided
+in ORS 475B.010 to 475B.545 or as otherwise provided for by the statutory laws of this state.
+(2) The registration system established under subsection (1) of this section must  require an ap-
+plicant for a marijuana processing site to submit an application to the authority that includes:
+(a) The name of the individual who owns the marijuana processing site or, if a business entity
+owns the marijuana processing site, the name of each individual who has a financial  interest in the
+marijuana processing site;
+(b) The name of the individual or individuals  responsible for the marijuana processing site, if
+different from the name of the individual who owns the marijuana processing site;
+(c) The address of the marijuana processing site;
+(d) Proof that  each individual responsible for the marijuana processing site is 21 years of age
+or older;
+(e) Documentation, as required by the authority by  rule, that demonstrates the marijuana pro-
+cessing site meets the requirements of subsection (3) of this section; and
+(f) Any other information that the authority considers necessary.
+(3) To qualify for registration under this section, a marijuana processing site:
+(a) May not be located  in an area that is zoned for residential use if the marijuana processing
+site processes cannabinoid extracts;
+(b) Must be registered as a business, or have  filed an application to register as a business, with
+the office of the Secretary of State; and
+(c) Must meet the requirements of any rule adopted by the authority under subsection  [(10)] (9)
+of this section.
+[(4)(a) The authority shall conduct a  criminal records check under ORS 181A.195 for each indi-
+vidual named in an application under subsection (2) of this section. ]
+[(b) An individual convicted for the manufacture or delivery of a controlled substance in  Schedule
+I or Schedule II may  not own or be responsible for a marijuana processing site for two years from the
+date the individual is convicted. ]
+[(c) An individual convicted more than once for the manufacture or delivery of a controlled sub-
+stance in Schedule I or Schedule II may not own or be responsible for a marijuana processing site. ]
+[(5)] (4) If a  person submits the application required under subsection (2) of this section, if the
+marijuana processing site identified in the application meets the  requirements of this section and
+any rules adopted under this section [ and if each  individual named in the application passes the
+criminal records check  required under subsection (4) of this section ], the authority shall register the
+marijuana processing site and issue proof of registration. Proof  of registration must be displayed on
+the premises of the marijuana processing site at all times.
+[(6)] (5) A marijuana processing site that is registered under this section is  not required to
+register with the State Board of Pharmacy under ORS 475.125.
+[(7)] (6) The individual or individuals responsible for a marijuana processing site shall  maintain
+documentation  of  each transfer of usable marijuana, medical cannabinoid products, cannabinoid
+concentrates and cannabinoid extracts.
+[14]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+[(8)] (7) The authority may inspect:
+(a) The premises of a proposed marijuana processing site or a  registered marijuana processing
+site to  ensure compliance with this section and ORS 475B.846 and 475B.849 and any rules adopted
+under this section and ORS 475B.846 and 475B.849; and
+(b) The records of a registered marijuana  processing site to ensure compliance with subsection
+[(7)] (6) of this section.
+[(9)] (8) Subject to the provisions of ORS chapter  183, the authority may refuse to register an
+applicant under this section or may suspend or revoke the registration of  a marijuana processing
+site if the authority determines that the applicant, the owner of the marijuana processing  site, a
+person responsible for the marijuana processing  site, or an employee of the marijuana processing
+site, violated a provision of ORS 475B.785 to 475B.949, a rule adopted under ORS  475B.785 to
+475B.949 or an ordinance adopted pursuant to ORS 475B.928.
+[(10)] (9) The authority shall adopt rules to implement this section, including rules that:
+(a) Require a  registered marijuana processing site to annually renew the registration for that
+site;
+(b) Establish fees for registering, and renewing the registration of, a marijuana processing site;
+(c) Require that medical cannabinoid products, cannabinoid  concentrates and cannabinoid ex-
+tracts transferred by a marijuana processing  site be tested to ensure the public health and safety;
+and
+(d) Impose any other standard on the operation of a marijuana processing site to  ensure the
+public health and safety.
+SECTION 17.
+ ORS 475B.858 is amended to read:
+475B.858. (1)(a) The Oregon Health Authority shall establish by rule  a medical marijuana
+dispensary registration system for the purpose of tracking and regulating the transfer of:
+(A) Usable marijuana, immature marijuana plants and seeds from registry identification
+cardholders, designated primary caregivers and persons responsible  for marijuana grow sites to
+medical marijuana dispensaries;
+(B) Medical cannabinoid products, cannabinoid concentrates and cannabinoid  extracts from
+persons responsible for marijuana processing sites to medical marijuana dispensaries; and
+(C) Usable marijuana, immature marijuana plants, seeds, medical cannabinoid  products,
+cannabinoid concentrates and cannabinoid extracts from medical marijuana dispensaries to  registry
+identification cardholders and designated primary caregivers.
+(b) A person may not operate an  establishment for the purpose of providing the services de-
+scribed in paragraph (a) of this subsection unless the person is registered under this section.
+(2) The registration system  established under subsection (1) of this section must require an ap-
+plicant for a medical marijuana dispensary to submit an application to the authority that includes:
+(a) The name of the individual who owns the medical  marijuana dispensary or, if a business
+entity owns the medical marijuana dispensary, the name of each individual who has a financial in-
+terest in the medical marijuana dispensary;
+(b) The name of the individual or individuals responsible  for the medical marijuana dispensary,
+if different from the name of the individual who owns the medical marijuana dispensary;
+(c) The address of the medical marijuana dispensary;
+(d) Proof that each individual responsible for the medical marijuana dispensary is  21 years of
+age or older;
+(e) Documentation, as required by  the authority by rule, that demonstrates the medical
+[15]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+marijuana dispensary meets the requirements of subsection (3) of this section; and
+(f) Any other information that the authority considers necessary.
+(3) To qualify for registration under this section, a medical marijuana dispensary:
+(a) May not be located in an area that is zoned for residential use;
+(b) May not be located at the same address as a marijuana grow site;
+(c) Must be registered as a business, or have filed  an application to register as a business, with
+the office of the Secretary of State;
+(d) Except as provided under ORS 475B.864, may not be located within 1,000 feet of:
+(A) A public elementary or secondary school for which attendance  is compulsory under ORS
+339.020; or
+(B) A private or parochial elementary or secondary school, teaching children as described  in
+ORS 339.030 (1)(a);
+(e) Must not be located within 1,000 feet of another medical marijuana dispensary; and
+(f) Must meet the requirements of any rule adopted by the authority  under subsection [ (10)] (9)
+of this section.
+[(4)(a) The authority shall conduct a  criminal records check under ORS 181A.195 for each indi-
+vidual named in an application submitted under subsection (2) of this section. ]
+[(b) An individual convicted for the manufacture or delivery of a controlled substance in  Schedule
+I or Schedule II may not own or be responsible for a medical  marijuana dispensary for two years from
+the date the individual is convicted. ]
+[(c) An individual convicted more than once for the manufacture or delivery of a controlled sub-
+stance in Schedule I or Schedule II may not own or be responsible for a medical marijuana
+dispensary.]
+[(5)] (4) If a person submits the application required under subsection (2) of this  section, if the
+medical marijuana dispensary identified in the application meets the requirements of this section and
+any rules adopted under this section [ and if each  individual named in the application passes the
+criminal records check  required under subsection (4) of this section ], the authority shall register the
+medical marijuana dispensary and issue proof of registration. Proof  of registration must be displayed
+on the premises of the medical marijuana dispensary at all times.
+[(6)] (5) A medical marijuana dispensary that is registered under this section is  not required to
+register with the State Board of Pharmacy under ORS 475.125.
+[(7)] (6) The individual or individuals responsible for  a medical marijuana dispensary shall
+maintain documentation  of each transfer of usable marijuana, medical cannabinoid products,
+cannabinoid concentrates, cannabinoid extracts, immature marijuana plants and seeds.
+[(8)] (7) The authority may inspect:
+(a) The premises of a proposed medical marijuana dispensary or a registered  medical marijuana
+dispensary to ensure compliance with this section and ORS  475B.867 and any rules adopted under
+this section or ORS 475B.867; and
+(b) The records of a registered medical marijuana dispensary to ensure  compliance with sub-
+section [ (7)] (6) of this section.
+[(9)] (8) Subject to the provisions of ORS chapter  183, the authority may refuse to register an
+applicant under this section or may suspend or revoke the registration of  a medical marijuana
+dispensary if the authority determines that the applicant, the  owner of the medical marijuana
+dispensary, a person responsible for the medical marijuana dispensary, or an employee of the  med-
+ical marijuana dispensary, violated a provision  of ORS 475B.785 to 475B.949, a rule adopted under
+[16]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+ORS 475B.785 to 475B.949 or an ordinance adopted pursuant to ORS 475B.928.
+[(10)] (9) The authority shall adopt rules to implement this section, including rules that:
+(a) Require a registered medical marijuana dispensary to annually  renew the registration for
+that dispensary;
+(b) Establish fees for registering, and renewing the registration of, a medical  marijuana
+dispensary;
+(c) Require that each medical marijuana  dispensary install and maintain a minimum security
+system that includes video surveillance, an alarm system and a safe;
+(d) Require that usable marijuana, medical cannabinoid  products, cannabinoid concentrates,
+cannabinoid extracts and immature marijuana plants transferred by a  medical marijuana dispensary
+be tested to ensure the public health and safety; and
+(e) Impose any other  standard on the operation of a medical marijuana dispensary to ensure the
+public health and safety.
+SECTION 18.
+ ORS 475B.885 is amended to read:
+475B.885. (1) Any personally identifiable information, as defined in ORS  432.005, other than a
+name of an individual or  an address submitted with an application under ORS 475B.840 or 475B.858,
+that the Oregon Health Authority collects and maintains for purposes of registering a  marijuana
+grow  site  under ORS 475B.810, a marijuana processing site under ORS 475B.840, or a medical
+marijuana dispensary under ORS 475B.858, is confidential and not subject to public disclosure under
+ORS 192.311 to 192.478, except  that the authority may provide personally identifiable information to
+a person registered under ORS 475B.785 to 475B.949 if the registrant requests the information and
+the information is related to a designation made under ORS 475B.785 to 475B.949.
+(2) Any personally identifiable  information, as defined in ORS 432.005, submitted to the authority
+under ORS 475B.816, 475B.846 or 475B.867 or  pursuant to ORS 475B.879 is confidential and not
+subject to public disclosure under ORS 192.311 to 192.478.
+(3) Any record that the authority keeps or maintains for purposes related to the  installation or
+maintenance of a security system by a medical marijuana  dispensary pursuant to rules adopted un-
+der ORS 475B.858 [ (10)] (9) is  confidential and not subject to public disclosure under ORS 192.311
+to 192.478.
+SECTION 19.
+ ORS 475B.898 is amended to read:
+475B.898. (1) A person responsible for a  marijuana processing site, or a person responsible for
+a medical marijuana dispensary, may designate that responsibility to another person.
+(2) If a designation is made under  this section, the designee must submit to the Oregon Health
+Authority proof that the designee meets the requirements and restrictions set forth in:
+(a) For marijuana processing sites, ORS 475B.840 (2)(d) [ and (4)]; or
+(b) For medical marijuana dispensaries, ORS 475B.858 (2)(d) [ and (4)].
+(3) The authority may prescribe the form and  manner of submitting proof under subsection (2)
+of this section.
+SECTION 20.  ORS 475B.901 is amended to read:
+475B.901. (1) A person responsible for a marijuana processing  site, or a person responsible for
+a medical marijuana dispensary, may assign that responsibility to another person.
+(2) If an assignment is made under this section, the assignee must submit to the Oregon  Health
+Authority proof that the assignee meets the requirements and restrictions set forth in:
+(a) For marijuana processing sites, ORS 475B.840 (2)(d) [ and (4)]; or
+(b) For medical marijuana dispensaries, ORS 475B.858 (2)(d) [ and (4)].
+[17]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(3) The authority may prescribe the form and  manner of submitting proof under subsection (2)
+of this section.
+SECTION 21.
+ ORS 475B.904 is amended to read:
+475B.904. (1)  In the event that a marijuana processing site or a medical marijuana dispensary
+is foreclosed or otherwise ceases operations as described in ORS chapter 79, a secured  party, as
+defined in ORS 79.0102, may continue  operations at the marijuana processing site or medical
+marijuana dispensary upon submitting to the Oregon Health Authority proof that the secured  party
+or, if the secured party is a business entity, any  individual who has a financial interest in the se-
+cured party, meets the requirements and restrictions set forth in:
+(a) For marijuana processing sites, ORS 475B.840 (2)(d) [ and (4)]; or
+(b) For medical marijuana dispensaries, ORS 475B.858 (2)(d) [ and (4)].
+(2) The authority may prescribe the form and  manner of submitting proof under subsection (1)
+of this section.
+SECTION 22.  ORS 475B.913 is amended to read:
+475B.913. (1) Except as provided in  ORS 475B.910, a person has an affirmative defense to a
+criminal charge of possession, delivery or manufacture of marijuana, or any  other criminal offense
+in which possession, delivery or  manufacture of marijuana is an element, if the person charged with
+the offense:
+(a) Was diagnosed with a debilitating medical condition  within 12 months of the date on which
+the person  was arrested and was advised by the person’s attending [ physician] provider that the
+medical use of marijuana may mitigate the symptoms or effects of that debilitating medical  condi-
+tion;
+(b) Is engaged in the medical use of marijuana; and
+(c) Possesses, delivers or manufactures marijuana only in quantities permitted under ORS
+475B.831.
+(2) A person does not need to lawfully possess  a registry identification card to assert the affir-
+mative defense established in this section.
+(3) A person engaged in the medical use of marijuana who claims that marijuana provides  med-
+ically necessary benefits and who is charged with a crime pertaining to the use  of marijuana is not
+precluded from presenting a  defense of choice of evils, as set forth in ORS 161.200, or from pre-
+senting evidence supporting the necessity of marijuana for  treatment of a specific disease or medical
+condition, provided that:
+(a) The person possesses, delivers or  manufactures marijuana only as permitted under ORS
+475B.831 (1); and
+(b) The person has taken  a substantial step toward complying with the provisions of ORS
+475B.785 to 475B.949.
+(4) A defendant proposing to use the affirmative defense established in this section in a  criminal
+action shall, not less than five days before the trial of the cause, file and serve upon  the district
+attorney a written notice of the intention to  assert the affirmative defense. The notice must specif-
+ically state the reasons why the defendant is entitled  to assert the affirmative defense and the fac-
+tual basis for the affirmative defense. If the defendant fails to file and serve the notice, the defendant
+is not permitted to assert the affirmative defense at the trial of the cause unless the court orders,
+for good cause, otherwise.
+SECTION 23.
+ ORS 475B.916 is amended to read:
+475B.916. The Oregon Board of Dentistry, Oregon Board of Naturopathic Medicine, Oregon
+[18]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Board of Optometry,  Oregon Medical Board and Oregon State Board of Nursing  may not impose
+a civil penalty or take other disciplinary action against an attending [ physician] provider for:
+(1) Advising a person diagnosed as having a  debilitating medical condition by the attending
+[physician] provider or another physician licensed under  ORS chapter 677 , physician assistant li-
+censed under ORS 677.505 to 677.525, nurse practitioner licensed under ORS 678.375 to 678.390,
+naturopathic physician licensed under ORS chapter 685, dentist licensed under ORS chapter
+679 or optometrist licensed under  ORS 683.010 to 683.340 about the risks and benefits associated
+with the medical use of marijuana or that the medical use of marijuana may  mitigate the symptoms
+or effects of the person’s debilitating medical condition, provided that the  advice is based on the
+attending [ physician’s] provider’s personal  assessment of the person’s medical history and current
+medical condition; or
+(2) Providing the written documentation necessary  for issuance or renewal of a registry iden-
+tification card under ORS 475B.797, provided that the  written documentation is based on the at-
+tending [ physician’s] provider’s personal assessment  of the person’s medical history and current
+medical condition and the attending [ physician] provider has discussed with the person the potential
+risks and benefits associated with the medical use of marijuana.
+SECTION 24.
+(1) The Oregon Health  Authority and the Oregon Liquor Control Commis-
+sion shall, in collaboration, study and determine:
+(a) A method for the commission to provide to the authority information related to  the
+transfer of marijuana items from marijuana retailers, as defined in ORS  475B.015 and li-
+censed under ORS 475B.105, to  registry identification cardholders, as defined in ORS
+475B.791; and
+(b) How to efficiently anonymize the information described in paragraph (a) of this sub-
+section and make the anonymized information available for observational research studies.
+(2) Not later than December 31, 2022,  the authority and the commission shall submit, in
+the manner provided in ORS 192.245, a report of the determinations described in  subsection
+(1) of this section to  an interim committee of the Legislative Assembly related to public
+health. The authority and the commission may include in the  report recommendations for
+legislation.
+SECTION 25. Section 24 of this 2021 Act is repealed on January 2, 2023.
+SECTION 26. ORS 475B.794, 475B.843 and 475B.861 are repealed.
+SECTION 27. (1) Sections 2 to 5 of  this 2021 Act, the amendments to ORS 475B.788,
+475B.791, 475B.797, 475B.801, 475B.807, 475B.810,  475B.816, 475B.822, 475B.831, 475B.837,
+475B.840, 475B.858, 475B.885, 475B.898, 475B.901, 475B.904, 475B.913 and 475B.916 by sections  6
+to 23 of this 2021  Act and the repeal of ORS 475B.794, 475B.843 and 475B.861 by section 26 of
+this 2021 Act become operative on January 1, 2022.
+(2) The Oregon Board of Dentistry, Oregon  Board of Naturopathic Medicine, Oregon
+Board of Optometry, Oregon  Health Authority, Oregon Liquor Control Commission, Oregon
+Medical Board and Oregon State Board of Nursing may take any action before the  operative
+date specified in subsection (1) of this section that is  necessary to enable the authority, the
+commission and the boards to exercise, on and after the operative  date specified in sub-
+section (1) of this section, all of the duties, functions and powers conferred on the authority,
+the commission and the boards by  sections 2 to 5 of this 2021 Act, the amendments to ORS
+475B.788, 475B.791, 475B.797, 475B.801, 475B.807,  475B.810, 475B.816, 475B.822, 475B.831,
+475B.837, 475B.840, 475B.858, 475B.885, 475B.898, 475B.901, 475B.904, 475B.913 and 475B.916 by
+[19]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+sections 6 to 23 of this 2021 Act and the repeal of ORS 475B.794,  475B.843 and 475B.861 by
+section 26 of this 2021 Act.
+TESTING RESULTS
+SECTION 28.
+Section 29 of this 2021 Act is added to and made a part of ORS 475B.550 to
+475B.590.
+SECTION 29. (1) A marijuana retailer licensed under ORS 475B.105 and a medical
+marijuana dispensary, as defined in ORS 475B.791, shall publish on a website  operated by or
+on behalf of the marijuana retailer or medical marijuana dispensary the results of testing
+required under  ORS 475B.555 for each marijuana item sold by the marijuana retailer or
+medical marijuana dispensary if the testing included a complete terpene profile.
+(2)(a) The Oregon Liquor Control Commission shall adopt rules to  carry out this section
+with regard to marijuana retailers.
+(b) The Oregon Health Authority shall adopt rules to carry out this section  with regard
+to medical marijuana dispensaries.
+SECTION 30.
+(1) Section 29 of this 2021 Act becomes operative on January 1, 2022.
+(2) The Oregon Health Authority and the Oregon Liquor Control Commission may take
+any action before the operative date specified  in subsection (1) of this section that is neces-
+sary to enable the authority  and the commission to exercise, on and after the operative date
+specified in subsection (1) of this section, all of the duties, functions and powers conferred
+on the authority and the commission by section 29 of this 2021 Act.
+OREGON LIQUOR CONTROL COMMISSION LICENSEES
+SECTION 31. Sections 32 and 34 of this 2021 Act are added to and made a part of ORS
+475B.010 to 475B.545.
+SECTION 32. (1) The Oregon Liquor Control Commission shall collaborate  with the
+Oregon Health Authority and the Oregon Cannabis Commission  to establish a registry iden-
+tification cardholder care and accommodation program to ensure that  registry identification
+cardholders have  long-term access to marijuana for medical use from marijuana retailers
+licensed under ORS 475B.105. The program established under this section must include, but
+is not limited to, the following:
+(a) Minimum standards for availability and quality of marijuana items;
+(b) Expanded registry identification cardholder services;
+(c) Compensation for licensees;
+(d) Access for registry  identification cardholders to marijuana items at no cost and to
+package doses of marijuana items; and
+(e) For individuals who hold permits issued under ORS 475B.266, training related  to ac-
+cess to and use of marijuana for medical use.
+(2) An applicant for a license or renewal  of a license issued under ORS 475B.070, 475B.090,
+475B.100 and 475B.105 shall submit with the application a care and accommodation  plan that
+meets the program requirements established by rule by the Oregon Liquor Control Commis-
+sion.
+SECTION 33.
+Section 32 of this 2021  Act applies to applications for licenses or renewal
+[20]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+of licenses under ORS 475B.070, 475B.090, 475B.100 or 475B.105  submitted on or after the op-
+erative date specified in section 36 of this 2021 Act.
+SECTION 34.
+(1) A marijuana retailer licensed under ORS 475B.105  may transfer
+marijuana items to an individual who provides to the marijuana  retailer proof that the indi-
+vidual is the holder of a medical marijuana patient card issued by another state.
+(2) A marijuana retailer licensed under ORS 475B.105 shall  post in an area visible to the
+public a notice that an individual described in subsection (1) of this section is not exempt
+from ORS 475B.227 or 475B.381.
+(3) The Oregon Liquor Control Commission shall adopt  by reference rules adopted by the
+Oregon Health Authority under section 4 of this 2021 Act.
+SECTION 35.
+ ORS 475B.139 is amended to read:
+475B.139. (1) To process marijuana for medical purposes,  a marijuana processor that holds a li-
+cense issued under ORS 475B.090  must register with the Oregon Liquor Control Commission under
+this section.
+(2) The commission shall register a marijuana processor for the purpose  of processing marijuana
+for medical purposes if the marijuana processor:
+(a) Holds a license issued under ORS 475B.090;
+(b) Meets any qualifications adopted by the commission by rule;
+(c) Applies to the commission in a form and manner prescribed by the commission; and
+(d) Pays any fee adopted by the commission by rule.
+(3) A marijuana processor registered under this section may:
+(a) Process marijuana and usable marijuana into medical grade cannabinoid  products,
+cannabinoid concentrates and cannabinoid extracts; and
+(b) Notwithstanding ORS 475B.206[ ,]:
+(A) Receive marijuana and usable marijuana from, and  for a fee process that marijuana and
+usable marijuana into  cannabinoid products, cannabinoid concentrates and cannabinoid extracts for,
+a registry identification cardholder or the designated primary caregiver of a registry  identification
+cardholder,  provided  that the cannabinoid products, cannabinoid concentrates and cannabinoid ex-
+tracts meet the requirements of ORS 475B.550 to 475B.590 and the  concentration standards adopted
+under ORS 475B.625[ .]; and
+(B) Receive marijuana and usable marijuana from a  marijuana grow site registered under
+ORS 475B.810 to process into medical grade cannabinoid  products, cannabinoid concentrates
+and cannabinoid extracts.
+(4)(a) The commission shall adopt rules necessary to administer this section.
+(b) The rules  must provide that any fee adopted by the commission under subsection (2)(d) of this
+section  be  in an amount reasonably calculated to not exceed, together with other fees collected
+under ORS 475B.010 to 475B.545, the cost of administering ORS 475B.010 to 475B.545.
+SECTION 36.
+(1) Sections 32 and 34 of this 2021 Act  and the amendments to ORS 475B.139
+by section 35 of this 2021 Act become operative on January 1, 2022.
+(2) The Oregon Liquor Control Commission, the Oregon Health  Authority and the Oregon
+Cannabis Commission may take any action before the operative date specified in  subsection
+(1) of this  section that is necessary to enable the commissions and the authority to exercise,
+on and after  the operative date specified in subsection (1) of this section, all of the duties,
+functions and powers conferred on the  commissions and the authority by sections 32 and 34
+of this 2021 Act and the amendments to ORS 475B.139 by section 35 of this 2021 Act.
+[21]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+OREGON CANNABIS COMMISSION
+SECTION 37.
+ ORS 475B.952 is amended to read:
+475B.952. (1) The Oregon  Cannabis Commission is established within the Oregon Health Au-
+thority. The commission consists of:
+(a) The Public Health Officer or the Public Health Officer’s designee; and
+(b) Eight members appointed by the Governor as follows:
+(A) A registry identification cardholder, as defined in ORS 475B.791;
+(B) A  person designated to produce marijuana by a registry identification cardholder, as defined
+in ORS 475B.791;
+(C) An attending [ physician] provider, as defined in ORS 475B.791;
+(D) A person representing the Oregon Health Authority;
+(E) A person representing the Oregon Liquor Control Commission;
+(F) A local health officer, as described in ORS 431.418;
+(G) A law enforcement officer; and
+(H) A person knowledgeable about research proposal grant protocols.
+(2) The term of office of each member of  the commission is four years, but a member serves at
+the pleasure of the Governor. Before the expiration of the  term of a member, the Governor shall
+appoint a successor whose term begins on January 1 of  the following year. A member is eligible for
+reappointment. If there is a vacancy for any cause, the Governor shall make  an appointment to be-
+come immediately effective for the unexpired term.
+(3) The appointment of each member of the  commission is subject to confirmation by the Senate
+in the manner prescribed in ORS 171.562 and 171.565.
+(4) Members of the commission are not entitled to compensation,  but may be reimbursed for
+actual and necessary travel and other expenses incurred by them  in the performance of their official
+duties in the manner and amounts provided for in ORS 292.495.
+SECTION 38.
+ ORS 475B.961 is amended to read:
+475B.961. (1) In addition to any other duty  prescribed by law, the Oregon Cannabis Commission
+shall:
+[(1)] (a) [ Provide advice to ] Collaborate with the Oregon  Health Authority [ with respect to ] in
+the administration of ORS 475B.785 to 475B.949;
+[(2)] (b) [ Provide advice to ] Collaborate with the Oregon  Liquor Control Commission [ with re-
+spect to ] in the  administration of ORS 475B.010 to 475B.545, insofar as those statutes pertain to
+registry identification cardholders and designated primary caregivers, as those terms are defined in
+ORS 475B.791;
+[(3)] (c) Develop a long-term strategic  plan for ensuring that cannabis will remain a therapeutic
+option for persons with debilitating medical conditions as defined in ORS 475B.791;
+[(4)] (d) Develop a long-term strategic plan for ensuring that cannabis will remain affordable for
+persons with debilitating medical conditions as defined in ORS 475B.791; and
+[(5)] (e) Monitor and study federal laws, regulations and policies regarding marijuana.
+(2) On or before  September 2 of each odd-numbered year, the Oregon Cannabis Commis-
+sion shall submit a report about  the long-term strategic plans described in subsection (1)(c)
+and (d) of this section, in the manner prescribed in ORS 192.245, to  the interim committees
+of the Legislative Assembly related to health and the  judiciary. The Oregon Cannabis Com-
+mission may include with the submission described in  this subsection any recommendations
+[22]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+for legislation.
+SECTION 39.
+(1) The amendments to ORS 475B.952 and 475B.961 by sections 37 and 38  of
+this 2021 Act become operative on January 1, 2022.
+(2) The Oregon Cannabis Commission may take any action before  the operative date
+specified in subsection (1) of this section that is necessary to enable the  commission to ex-
+ercise, on and after the operative date specified in subsection (1) of this section, all of the
+duties, functions and powers  conferred on the commission by the amendments to ORS
+475B.952 and 475B.961 by sections 37 and 38 of this 2021 Act.
+OTHER AMENDMENTS
+SECTION 40.
+ ORS 475B.020 is amended to read:
+475B.020. ORS 475B.010 to 475B.545 may not be construed:
+(1) To amend or affect state or federal law pertaining to employment matters;
+(2) To amend or affect state or federal law pertaining to landlord-tenant matters;
+(3) To prohibit a recipient of a federal grant or an applicant for a federal  grant from prohibiting
+the manufacture, delivery, possession or  use of marijuana to the extent necessary to satisfy federal
+requirements for the grant;
+(4) To prohibit a party  to a federal contract or a person applying to be a party to a federal
+contract from prohibiting the manufacture, delivery, possession or use  of marijuana to the extent
+necessary to comply with the terms and conditions of the contract or  to satisfy federal requirements
+for the contract;
+(5) To require a person to violate a federal law;
+(6) To exempt a person from a federal law or obstruct the enforcement of a federal law; or
+(7) To amend or affect the Oregon Medical [ Marijuana] and Therapeutic Cannabis Act.
+SECTION 41.
+ ORS 475B.220 is amended to read:
+475B.220. (1) As used in this section, “information that may be used  to identify a consumer”
+means information that may be acquired through the production of  a piece of identification as de-
+scribed in ORS 475B.216, whether the information is contained  in a piece of identification described
+in ORS 475B.216 or in a different document or record.
+(2) A consumer may not be required to  procure for the purpose of acquiring or purchasing a
+marijuana item a piece of identification other than:
+(a) A piece of identification described in ORS 475B.216; and
+(b)(A) If the consumer is a registry identification cardholder, as defined in ORS 475B.791, a
+registry identification card, as defined in ORS 475B.791[ .]; or
+(B) If the person is the  holder of a medical marijuana patient card issued by another
+state, the person’s medical marijuana patient card.
+(3) A marijuana retailer may not record and retain any information that may be used to  identify
+a consumer, except as necessary to make deliveries  to consumers pursuant to ORS 475B.206 (3), as
+required by any rules adopted under ORS 475B.206 (3).
+(4) A marijuana retailer may not transfer any  information that may be used to identify a con-
+sumer to any other person.
+(5)(a) Notwithstanding subsection (3) of this section,  a marijuana retailer may record and retain
+the name and contact information of  a consumer for the purpose of notifying the consumer of ser-
+vices that the marijuana retailer provides or  of discounts, coupons and other marketing information
+[23]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+if:
+(A) The marijuana retailer asks the consumer whether the marijuana retailer may record and
+retain the information; and
+(B) The consumer consents to the recording and retention of the information.
+(b) This subsection does not  authorize a marijuana retailer to transfer information that may be
+used to identify a consumer.
+(6) This section does not apply to deidentified information the documentation and  transfer of
+which is required by the Department of Revenue for purposes of ORS 475B.707.
+SECTION 42.
+ ORS 475B.531 is amended to read:
+475B.531. Except for ORS 475B.526 and 475B.529, ORS 475B.010 to 475B.545:
+(1) Do not apply to the extent a person acts within the scope of  and in compliance with the
+Oregon Medical [ Marijuana] and Therapeutic Cannabis Act; and
+(2) Do not amend  or affect duties, functions and powers of the Oregon Health Authority under
+the Oregon Medical [ Marijuana] and Therapeutic Cannabis Act.
+SECTION 43.
+ ORS 475B.570 is amended to read:
+475B.570. ORS 475B.550 to 475B.590 do not apply to:
+(1) A person responsible for a marijuana grow  site under ORS 475B.810 if the person is trans-
+ferring usable marijuana or an immature marijuana plant, as defined in ORS 475B.015, to:
+(a) A person who holds a registry identification card  under ORS 475B.797 and who designated
+the person responsible for the marijuana grow site to grow marijuana for the  person who holds a
+registry identification card; or
+(b) A  person who has been designated as the primary caregiver under ORS 475B.804 of a person
+who holds a registry identification card under ORS 475B.797 and who designated the person  re-
+sponsible for  the marijuana grow site to grow marijuana for the person who holds a registry iden-
+tification card; [ or]
+(2) A person  who has been designated as the primary caregiver under ORS 475B.804 of a person
+who holds  a registry identification card under ORS 475B.797 if the person is transferring a
+marijuana item to the person who holds a registry identification card[ .]; or
+(3) A person designated to produce marijuana by a registry identification cardholder  if
+the person is transferring all or part of the seeds, immature marijuana plants  and usable
+marijuana pursuant to an agreement described in section 2 of this 2021 Act.
+SECTION 44.
+ ORS 475B.630 is amended to read:
+475B.630. (1) ORS 475B.600 to 475B.655 do not apply to:
+(a) A person responsible for a marijuana  grow site under ORS 475B.810 if the person is trans-
+ferring usable marijuana or an immature marijuana plant, as defined in ORS 475B.015, to:
+(A) A  person who holds a registry identification card under ORS 475B.797 and who designated
+the person responsible for the marijuana grow site to grow marijuana for the  person who holds a
+registry identification card; or
+(B) A person who has been designated as the primary caregiver under ORS  475B.804 of a person
+who holds a registry identification card under ORS  475B.797, and who designated the person re-
+sponsible for  the marijuana grow site to grow marijuana for the person who holds a registry iden-
+tification card; [ or]
+(b) A  person who has been designated as the primary caregiver under ORS 475B.804 of a person
+who holds  a registry identification card under ORS 475B.797 if the person is transferring a
+marijuana item to the person who holds a registry identification card[ .]; or
+[24]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) A person designated to produce marijuana by a registry identification  cardholder if
+the person is transferring all or part of the seeds, immature marijuana plants  and usable
+marijuana pursuant to an agreement described in section 2 of this 2021 Act.
+(2) The labeling and packaging requirements and standards of ORS 475B.600 to 475B.655  do not
+apply to a marijuana processor registered under ORS 475B.139 when the marijuana processor  re-
+ceives marijuana and usable marijuana from, and for a fee processes  that marijuana and usable
+marijuana into cannabinoid products, cannabinoid concentrates and cannabinoid  extracts for, a
+registry identification cardholder or  the designated primary caregiver of a registry identification
+cardholder.
+SECTION 45.
+ ORS 475B.707 is amended to read:
+475B.707. (1) As used in this section, “designated primary caregiver,” “registry  identification
+card” and “registry identification cardholder” have the meanings given those terms in ORS
+475B.791.
+(2) Notwithstanding ORS 475B.705:
+(a) A tax is not imposed  upon the retail sale of marijuana items in this state to a registry
+identification cardholder , [or] to a designated primary caregiver who is  purchasing a marijuana item
+for a registry identification cardholder or to an individual who holds a medical  marijuana pa-
+tient card issued by another state ; and
+(b) A marijuana retailer may  not collect the tax imposed under ORS 475B.705 from a consumer
+if, at the time at  which the retail sale of the marijuana item occurs, the consumer provides proof
+to the marijuana retailer that the consumer:
+(A) Holds a valid registry identification card under ORS 475B.797; [ or]
+(B) Holds a valid identification card under ORS 475B.797 (5)(b)  and is purchasing the marijuana
+item for a registry identification cardholder[ .]; or
+(C) Holds a valid medical marijuana patient card issued by another state.
+(3) The Department of Revenue:
+(a) Shall adopt rules establishing procedures by which a marijuana retailer shall  document that
+a consumer  holds a valid registry identification card issued under ORS 475B.797 [ or], a valid iden-
+tification card issued under ORS 475B.797 (5)(b) or a valid medical marijuana patient  card issued
+by another state ; and
+(b) May adopt rules establishing procedures by which the department may verify that a
+marijuana retailer collects the tax imposed under ORS 475B.705 from  consumers of marijuana items
+who are not registry identification cardholders [ or], designated primary caregivers or holders of
+medical marijuana patient cards issued by other states .
+SECTION 46.
+ ORS 475B.759, as amended by section 10,  chapter 2, Oregon Laws 2021 (Ballot
+Measure 110 (2020)), is amended to read:
+475B.759. (1) There is established the Oregon Marijuana Account, separate  and distinct from the
+General Fund.
+(2) The account shall consist of moneys transferred to the account under ORS 475B.760.
+(3)(a) The Department of Revenue shall certify quarterly the amount of moneys available  in the
+Oregon Marijuana Account.
+(b) Subject to subsection (4) of this section, and after making the transfer of moneys  required
+by subsection (7) of this section, the department shall transfer  quarterly 20 percent of the moneys
+in the Oregon Marijuana Account as follows:
+(A) Ten percent of the moneys in the account must be transferred to the  cities of this state in
+[25]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the following shares:
+(i) Seventy-five percent of the 10 percent must be transferred  in shares that reflect the popu-
+lation of each city of this state that is  not exempt from this paragraph pursuant to subsection (4)(a)
+of this section compared to the population of  all cities of this state that are not exempt from this
+paragraph pursuant to subsection  (4)(a) of this section, as determined by Portland State University
+under ORS 190.510 to 190.610, on the date immediately preceding the date of the transfer; and
+(ii) Twenty-five  percent of the 10 percent must be transferred in shares that reflect the number
+of licenses held pursuant to ORS 475B.070, 475B.090, 475B.100 and 475B.105 on the last business  day
+of the calendar quarter preceding the date of the transfer for premises located in each city compared
+to the number of licenses  held pursuant to ORS 475B.070, 475B.090, 475B.100 and 475B.105 on the
+last business day of that calendar quarter for all premises in this state located in cities; and
+(B) Ten  percent of the moneys in the account must be transferred to counties in the following
+shares:
+(i) Fifty percent of the 10 percent must be transferred in shares that reflect the total  commer-
+cially available area of all grow canopies associated with marijuana  producer licenses held pursuant
+to ORS 475B.070 on the last business day of  the calendar quarter preceding the date of the transfer
+for all premises located in  each county compared to the total commercially available area of all
+grow canopies associated with marijuana  producer licenses held pursuant to ORS 475B.070 on the
+last business day of that calendar quarter for all premises located in this state; and
+(ii) Fifty percent of  the 10 percent must be transferred in shares that reflect the number of li-
+censes held pursuant to ORS  475B.090, 475B.100 and 475B.105 on the last business day of the cal-
+endar quarter preceding the date of the transfer for premises located  in each county compared to
+the number of licenses held pursuant to ORS 475B.090, 475B.100 and 475B.105 on the last business
+day of that calendar quarter for all premises in this state.
+(c) After making the transfer of moneys required by  subsection (7) of this section, eighty percent
+of the remaining moneys in the Oregon Marijuana Account must be used as follows:
+(A) [ Forty] Thirty-nine percent of the moneys in the  account must be used solely for purposes
+for which moneys in the State School Fund established under ORS 327.008 may be used;
+(B) [ Twenty] Nineteen percent of the moneys in the  account must be used solely for mental
+health treatment or for alcohol and drug abuse prevention, early intervention and treatment;
+(C) [ Fifteen] Fourteen percent of the moneys in the account must  be used solely for purposes
+for which moneys in the State Police Account established under ORS 181A.020 may be used; [ and]
+(D) [ Five] Four percent of  the moneys in the account must be used solely for purposes related
+to alcohol and drug abuse prevention, early intervention and treatment services[ .]; and
+(E) Four percent of the moneys in the  account must be used solely for the purposes of
+administering ORS 475B.785 to 475B.949.
+(4)(a) A city that has an ordinance prohibiting the establishment  of a premises for which issu-
+ance of a license under ORS 475B.070, 475B.090, 475B.100 or 475B.105 is  required is not eligible to
+receive transfers of moneys under subsection (3)(b)(A) of this section.
+(b) A  county that has an ordinance prohibiting the establishment of a premises for which issu-
+ance of a license under ORS 475B.070  is required is not eligible to receive transfers of moneys under
+subsection (3)(b)(B)(i) of this section.
+(c) A county that has an ordinance prohibiting the establishment of a premises for which issu-
+ance of a license under ORS 475B.090, 475B.100 or  475B.105 is required is not eligible to receive
+transfers of moneys under subsection (3)(b)(B)(ii) of this section.
+[26]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(5)(a) A city or county that is ineligible under subsection (4) of this section to  receive a transfer
+of moneys from the Oregon Marijuana Account during a given quarter but has received a  transfer
+of moneys for that quarter shall return the amount transferred to the Department of Revenue,  with
+interest as described under paragraph (f) of this subsection. An ineligible city or county  may vol-
+untarily transfer the moneys to the Department of Revenue immediately upon receipt of the ineligi-
+ble transfer.
+(b) If the Director of the Oregon Department  of Administrative Services determines that a city
+or county received a transfer of moneys under subsection (3)(b) of this section but was  ineligible to
+receive that transfer under subsection (4)  of this section, the director shall provide notice to the
+ineligible city or  county and order the city or county to return the amount received to the Depart-
+ment of Revenue, with interest as  described under paragraph (f) of this subsection. A city or county
+may appeal the order within 30 days of the  date of the order under the procedures for a contested
+case under ORS chapter 183.
+(c) As soon as the order under paragraph  (b) of this subsection becomes final, the director shall
+notify the Department of  Revenue and the ineligible city or county. Upon notification, the Depart-
+ment of Revenue immediately shall proceed to collect the amount stated in the notice.
+(d) The Department of Revenue shall have the  benefit of all laws of the state pertaining to the
+collection of income and  excise taxes and may proceed to collect the amounts described in the no-
+tice under paragraph (c) of this subsection. An assessment of tax is not necessary and  the collection
+described in this subsection is not precluded by any statute of limitations.
+(e) If a city or county is subject to  an order to return moneys from an ineligible transfer, the
+city or county shall  be denied any further relief in connection with the ineligible transfer on or after
+the date that the order becomes final.
+(f) Interest under this section shall accrue at  the rate established in ORS 305.220 beginning on
+the date the ineligible transfer was made.
+(g) Both the moneys and  the interest collected from or returned by an ineligible city or county
+shall be redistributed to the cities or counties that were eligible to  receive a transfer under sub-
+section (3)(b) of this section on the date the ineligible transfer was made.
+(6)(a) Not later than July 1 of each year, each city  and county in this state shall certify with
+the Oregon Department of  Administrative Services whether the city or county has an ordinance
+prohibiting the establishment of a premises for  which issuance of a license under ORS 475B.070,
+475B.090, 475B.100 or 475B.105 is required.  The certification shall be made concurrently with the
+certifications under ORS 221.770, in a form and manner prescribed by the Oregon Department  of
+Administrative Services.
+(b) If  a city fails to comply with this subsection, the city is not eligible to receive transfers of
+moneys under subsection (3)(b)(A) of this section. If a county fails to comply  with this subsection,
+the county is not eligible to receive transfers of moneys under subsection (3)(b)(B) of this section.
+(c) A city or county that repeals an ordinance as provided  in ORS 475B.496 shall file an updated
+certification with the Oregon Department of Administrative Services in a  form and manner pre-
+scribed by the department, noting the effective date of  the change. A city or county that repeals an
+ordinance as provided in ORS 475B.496 is eligible to  receive quarterly transfers of moneys under
+this section for quarters where  the repeal is effective for the entire quarter and the updated certi-
+fication was filed at least 30 days before the date of transfer.
+(7) Before making the transfer of moneys required by subsection (3) of  this section, the depart-
+ment shall transfer quarterly to the Drug Treatment and Recovery Services Fund all  moneys in the
+[27]
+SB 758
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+Oregon Marijuana Account in excess of $11,250,000.
+SECTION 47.
+(1) The amendments to  ORS 475B.020, 475B.220, 475B.531, 475B.570, 475B.630,
+475B.707 and 475B.759 by sections 40 to 46 of this 2021 Act become operative on January 1,
+2022.
+(2) The Department  of Revenue and the Oregon Liquor Control Commission may take any
+action before the operative date specified  in subsection (1) of this section that is necessary
+to enable the department and commission to exercise,  on and after the operative date spec-
+ified in subsection (1) of this section, all of the duties, functions and  powers conferred on the
+department and the commission by the amendments to ORS 475B.020, 475B.220, 475B.531,
+475B.570, 475B.630, 475B.707 and 475B.759 by sections 40 to 46 of this 2021 Act.
+CAPTIONS
+SECTION 48.
+The unit captions used in this 2021 Act are provided only  for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2021 Act.
+EFFECTIVE DATE
+SECTION 49. This 2021 Act takes effect on the 91st day after the date on which  the 2021
+regular session of the Eighty-first Legislative Assembly adjourns sine die.
+[28]

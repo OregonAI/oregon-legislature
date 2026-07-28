@@ -1,0 +1,588 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2019r1-sb668
+title: 'SB 668 (2019R1): Establishes education savings account program.'
+doc_type: dataset_doc
+citation: 2019 Regular Session Senate Bill 668
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB668/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 98912062385c2f33af1f240fafb88e6a076667c12f9b8435f7caa5542385ca9f
+snapshot_id: measure-2019r1-sb668-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 291.204
+  - ORS 291.216
+  - ORS 326.125
+  - ORS 327.006
+  - ORS 327.008
+  - ORS 327.011
+  - ORS 327.013
+  - ORS 327.019
+  - ORS 327.022
+  - ORS 327.344
+  - ORS 327.348
+  - ORS 329.485
+  - ORS 329.488
+  - ORS 332.337
+  - ORS 339.010
+  - ORS 339.020
+  - ORS 339.035
+  - ORS 342.953
+  - ORS 343.035
+  - ORS 343.404
+  - ORS 343.941
+  - ORS 348.394
+  - ORS 352.002
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2019r1
+- sb
+session_key: 2019R1
+measure_prefix: SB
+measure_number: 668
+prefix_meaning: Senate Bill
+catch_line: Establishes education savings account program.
+minority_catch_line: null
+measure_summary: "\tEstablishes education savings account program. Allows participating students to obtain\
+  \ grants from education savings accounts to fund attendance at specified types of schools or education\
+  \ programs. \n\tEstablishes Education Savings Program Fund and transfers moneys from State School Fund\
+  \ distributions for use in education savings accounts. \n\tFirst applies to 2020-2021 school year. \n\
+  \tDeclares emergency, effective on passage."
+relating_to: Relating to education savings accounts; declaring an emergency.
+relating_to_full: Relating to education savings accounts; creating new provisions; amending ORS 327.008;
+  and declaring an emergency.
+at_the_request_of: null
+lc_number: 748
+measure_created_date: '2019-01-17T13:06:33'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 33124
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 291.204
+  - ORS 291.216
+  - ORS 326.125
+  - ORS 327.006
+  - ORS 327.008
+  - ORS 327.011
+  - ORS 327.013
+  - ORS 327.019
+  - ORS 327.022
+  - ORS 327.344
+  - ORS 327.348
+  - ORS 329.485
+  - ORS 329.488
+  - ORS 332.337
+  - ORS 339.010
+  - ORS 339.020
+  - ORS 339.035
+  - ORS 342.953
+  - ORS 343.035
+  - ORS 343.404
+  - ORS 343.941
+  - ORS 348.394
+  - ORS 352.002
+  from_relating_to_full:
+  - ORS 327.008
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 668`.
+
+# SB 668 — 2019 Regular Session (2019R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 668, 2019 Regular Session (2019R1)
+- **LC number:** 748
+- **Created:** 2019-01-17T13:06:33
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 33124 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB668/Introduced>.
+
+## Summary
+
+**Catchline:** Establishes education savings account program.
+
+**Relating to:** Relating to education savings accounts; declaring an emergency.
+
+Establishes education savings account program. Allows participating students to obtain grants from education savings accounts to fund attendance at specified types of schools or education programs. 
+ Establishes Education Savings Program Fund and transfers moneys from State School Fund distributions for use in education savings accounts. 
+ First applies to 2020-2021 school year. 
+ Declares emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to education savings accounts; creating new provisions; amending ORS 327.008; and declaring an emergency.
+
+## Full text
+
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+Senate Bill 668
+Sponsored by Senator LINTHICUM; Senators HEARD,  THATCHER, Representatives BARRETO, BOSHART DAVIS,
+NEARMAN, RESCHKE, STARK, WILSON
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Establishes education savings account program.  Allows participating students to obtain grants
+from education savings accounts to fund attendance at specified types of schools or education  pro-
+grams.
+Establishes Education Savings Program Fund and transfers  moneys from State School Fund
+distributions for use in education savings accounts.
+First applies to 2020-2021 school year.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to education savings accounts; creating new provisions; amending ORS 327.008; and de-
+claring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+As used in sections 1 to 7 of this 2019 Act:
+(1) “Curriculum” means a complete course of study for a particular content area or grade
+level, including without limitation any required supplemental  materials or associated online
+instruction.
+(2) “Education savings account”  or “ESA” means an account to which funds are allocated
+by the  State Treasurer to the parent of an eligible student in order to pay for qualified edu-
+cation expenses pursuant to the requirements and conditions of sections 1  to 7 of this 2019
+Act.
+(3) “Education service provider”  means a person or organization that receives payments
+from an education savings account in exchange for authorized expenditures. Education  ser-
+vice providers include:
+(a) Private schools;
+(b) Non-public online learning programs or courses;
+(c) State institutions of higher education, including:
+(A) A public university listed in ORS 352.002;
+(B) A community college established under ORS chapter 341; or
+(C) Any other post-secondary institution of education that was originally established in
+this state, is tax  exempt under section 501(c)(3) of the Internal Revenue Code, and is ac-
+credited by a regional or national accrediting agency recognized by the United  State De-
+partment of Education.
+(d) Public schools, including public charter, online and magnet schools;
+(e) Private tutors and tutoring facilities;
+(f) Companies that provide educational materials or curriculum;
+(g) Individuals or businesses that provide education-related therapies or services; or
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 748
+(h) Any other provider of educational services approved by the State Treasurer.
+(4) “Eligible student” means a resident of this state who  is eligible to enroll in a public
+elementary or secondary school or with any other education service provider.
+(5) “Parent”  means the parent, legal guardian or other person who has the legal duty to
+ensure a child receives an education as provided by ORS 339.020.
+(6) “Private tutoring” means:
+(a) Tutoring services provided by a tutor or  tutoring facility that is accredited by a re-
+gional or national accrediting agency recognized by the United States Department of Educa-
+tion; or
+(b) A person who:
+(A) Is eligible to work as a teacher in this state;
+(B) Has taught at an institution of higher education;
+(C) Is a subject matter expert; or
+(D) Is otherwise approved by the State Treasurer.
+(7) “Student” means an eligible student who is participating  in the ESA program under
+sections 1 to 7 of this 2019 Act.
+SECTION 2.
+(1) A parent may establish  an ESA for an eligible student by entering into
+a written agreement as provided in this section. A written agreement is valid  for one year
+and must be renewed for each subsequent school year  for which the parent of an eligible
+student chooses to receive a grant under section 3 of this 2019 Act.
+(2)(a) The State Treasurer shall create a  standard written agreement that parents can
+submit to establish an ESA for their eligible student. The State  Treasurer shall ensure that
+written agreement forms are available online and may be submitted online.
+(b) The State Treasurer must approve the establishment of an ESA for an eligible student
+if a written agreement is entered into pursuant to this section.
+(c) A parent must  enter into a separate written agreement for each eligible student of
+the parent. No more than one ESA may be established for each eligible student.
+(3) A  written agreement entered into by the parent of an eligible student must provide
+that:
+(a) The student will receive instruction for the school  year for which the written agree-
+ment applies in at least the subjects of reading,  language, mathematics, science, and social
+studies;
+(b) The student will not  enroll as a full-time student in a public school for the school year
+for which the written agreement applies;
+(c) The parent will use the funds in the ESA only for qualifying expenses as  described in
+section 4 of this 2019 Act;
+(d) The parent and the  student will comply with the rules and requirements of sections
+1 to 7 of this 2019 Act and any rules, regulations or policies adopted by the  State Treasurer;
+(e) The student  will receive a grant, in the form of moneys deposited pursuant to section
+3 of this 2019 Act, in the ESA established for the student; and
+(f) If the student qualifies as a child with a  disability, as defined in ORS 343.035, the State
+Treasurer shall  ensure that the parent who signs the agreement receives notice that par-
+ticipation in the ESA program is a parental placement of the eligible student under 20 U.S.C.
+1412 along with an explanation of the rights that  parentally placed students possess under
+the federal Individuals with Disabilities Act and any applicable state laws and regulations.
+(4) Upon entering into or renewing a written agreement,  the State Treasurer shall pro-
+vide parents with a written explanation of the allowable uses of ESA  funds, the responsibil-
+ities of parents, and the duties of the State Treasurer and  the role of any private financial
+management firms or other private organizations that the  State Treasurer may contract
+with to administer sections 1 to 7 of this 2019 Act pursuant to section 5 of this 2019 Act.
+(5) The written agreement shall satisfy  the compulsory school attendance requirements
+of ORS 339.010. Students participating in the  ESA program described in sections 1 to 7 of this
+2019 Act who are not enrolled as a full-time student in a  private or online school shall be
+exempt from the requirements of ORS 339.035.
+(6) The State Treasurer shall annually  renew an eligible student’s ESA unless notified
+by a parent that they wish to terminate the ESA. Students  with disabilities shall remain el-
+igible for renewal as long as they remain eligible to be enrolled in a public school.
+(7) Upon notice to the State Treasurer, a student may enroll  full-time in a public school.
+(a) Enrolling as a  full-time student in a public school suspends the written agreement
+between the parent and the State Treasurer, and no further funds shall be  deposited into the
+student’s ESA until the student again qualifies for education  expenses pursuant to the re-
+quirements and conditions of sections 1 to 7 of this 2019 Act.
+(b) The written agreement between the parent and the  State Treasurer shall terminate
+upon the request of the parent, or upon the student turning 25 years of age,  whichever oc-
+curs first. Any  remaining ESA funds in the student’s account upon termination shall revert
+to the General Fund.
+(c) The State  Treasurer may adopt rules and policies to allow ESA students to enroll
+full-time in a public school at any time in order to provide the least disruptive process.
+(8) Nothing in sections 1 to 7 of this 2019 Act shall  be construed to require that a student
+with an ESA be enrolled, full-time or part-time, in  either a private school or nonpublic online
+school.
+(9) The written agreement terminates automatically if a student no longer resides in  this
+state. Upon termination, any moneys remaining in the  ESA shall revert to the General Fund.
+SECTION 3. (1) If the parent of an eligible student enters into a written agreement pur-
+suant to section 2 of this 2019 Act, a grant of  moneys must be transferred from the Educa-
+tion Savings Program Fund  established in section 11 of this 2019 Act into the ESA of the
+eligible student.
+(2)(a) Except as otherwise provided in subsections (3) and (4) of this  section, the grant
+required by subsection (1) of this section must, for  the school year for which the grant is
+made, be in an amount equal to one of the following:
+(A) For an eligible student who is  a child with a disability, as defined in ORS 343.035,
+$6,500.
+(B) For an eligible student with a household income that is less than 185 percent  of the
+federal poverty level, $6,500.
+(C) For an eligible student not described in  subparagraph (A) or (B) of this paragraph,
+$4,900.
+(b) For each biennium, the amounts  identified in paragraph (a) of this subsection shall
+be adjusted by the  same percentage by which the amount appropriated to the State School
+Fund for  the biennium is increased or decreased compared with the preceding biennium, as
+determined by the Department of  Education after consultation with the Legislative Fiscal
+Officer.
+(3) The State Treasurer may deduct  no more than three percent from each grant for the
+administrative costs incurred by  the State Treasurer in implementing the provisions of
+sections 1 to 7 of this 2019 Act.
+(4) Any moneys remaining in an ESA at the end of a school year shall roll over  to the
+next school year.
+(5) A written agreement is automatically renewed year to year until:
+(a) The student is no longer a resident of this state;
+(c) The student graduates from college with a bachelor’s degree;
+(d) The student turns 25 years of age; or
+(e) The ESA is revoked by the State Treasurer for substantial misuse of funds.
+(6) After four consecutive years after high  school graduation, if the student has not en-
+rolled in a postsecondary institution,  or if the student turns 25 years of age, whichever oc-
+curs first, the ESA shall be closed and any unused funds shall revert to the General Fund.
+(7) If a written  agreement is terminated for any reason, any moneys remaining in the
+ESA shall revert to the General Fund.
+(8) Notwithstanding subsection (2)(b) of this section, the amounts identified in  subsection
+(2)(a) of this section shall first be adjusted beginning in the 2021-2023 biennium.
+SECTION 4.
+(1) Moneys deposited in an ESA pursuant to section 3 of this 2019  Act may
+be expended only for:
+(a) Tuition and fees at a private school;
+(b) Tuition and fees for nonpublic online learning programs;
+(c) Private tutoring;
+(d) Services contracted for and provided by a  public school, public charter school, magnet
+school or online public school, including individual classes, extracurricular  activities and
+programs in these schools;
+(e) Textbooks, curriculum or other instructional materials, including any supplemental
+materials required by a curriculum, private school,  private online learning program, state
+institution of higher education or public school;
+(f) Computer hardware or other technological devices that  are primarily used to help
+meet a student’s educational needs;
+(g) Educational software and applications;
+(h) Uniforms purchased from or through a private school;
+(i) Fees  for nationally standardized assessments, advanced placement examinations,
+state-recognized industry certification exams, examinations related to college,  university,
+career or technical school admission, and tuition and fees for exam preparatory courses;
+(j) Fees for summer education  programs and specialized after-school education programs,
+but not for after-school childcare;
+(k) Educational services and  therapies, including but not limited to occupational, behav-
+ioral, physical, speech-language and audiology therapies;
+(L) Tuition and fees at a state institution of higher education;
+(m) Fees  for transportation paid to a fee-for-service transportation provider for the stu-
+dent to travel to and from a participating education service provider;
+(n) Fees for the management of the ESA; and
+(o) Any other educational expense approved by the State Treasurer.
+(2) ESA funds  may not be refunded, rebated or shared with a parent or student in any
+manner.
+(3) Any refund or rebate for goods or services purchased with ESA funds shall be credited
+directly to the ESA of the student.
+(4) Parents may make payments for the costs of educational goods  and services not
+covered by the funds in the ESA of the student.
+(5) Personal deposits into an ESA are not permitted.
+(6) Funds deposited in the student’s ESA do not constitute taxable income to  the parent
+or the student.
+SECTION 5.
+(1) The State Treasurer may contract with private organizations to carry
+out sections 1 to 7 of this 2019 Act as  long as the private organizations charge only reason-
+able fees, based on market rates, for their services, including, but  not limited to, contracting
+with private financial management firms to manage ESAs.
+(2) The  State Treasurer shall implement a system for payment for services from ESAs
+to education service providers by electronic funds transfer, including but not limited to debit
+cards, electronic payment systems, or  any other means of electronic payment that the State
+Treasurer determines to be  commercially viable, cost-effective, and parent-friendly. The
+State Treasurer may not adopt  a system that relies exclusively on requiring parents to be
+reimbursed for out-of-pocket expenses. The State  Treasurer shall provide maximum flexibil-
+ity to parents by facilitating direct payments to education service providers  as well as re-
+quests for preapproval and reimbursement for qualifying expenses.
+(3) The State Treasurer shall implement a commercially  viable, cost-effective and
+parent-friendly system for publicly rating, reviewing and sharing information about  educa-
+tion service providers.
+(4) If an education service provider requires partial payment of tuition or fees prior  to
+the start of the academic year to reserve space for  a student admitted to the education
+service provider, the partial payment  may be paid by the State Treasurer prior to the start
+of the school year in which the ESA is awarded, up to a maximum of $3,500, and  deducted
+in an equitable manner from subsequent account deposits to ensure  adequate funds remain
+available throughout the school year. If a student  decides not to attend the education service
+provider, the partial reservation payment must be returned to the State  Treasurer by the
+education service provider. Only one reservation payment  per student may be made per year.
+(5) The State Treasurer shall have the authority to conduct or contract  for the auditing
+of individual ESAs, and shall at a minimum conduct random audits of  ESAs on an annual
+basis.
+(6)(a) The State Treasurer shall  have the authority to terminate a written agreement and
+to make any parent of an eligible student ineligible to enter into a new a written agreement
+in the event of substantial misuse of ESA funds.
+(b) The State Treasurer shall create procedures to ensure that a fair  process exists to
+determine whether a substantial misuse of ESA funds has occurred.
+(c) The State Treasurer shall have the authority to refer suspected cases of substantial
+misuse of  ESA funds to the Attorney General or the district attorney of the county in which
+the parent resides for investigation if evidence of fraudulent use of ESA funds is obtained.
+(d) A parent may appeal the State Treasurer’s  decision to make a parent ineligible for
+the program as a contested case under ORS chapter 183.
+(7) The State Treasurer may bar an education service provider from the program if the
+State Treasurer determines that the education service provider has:
+(a) Intentionally  and substantially misrepresented information or failed to refund any
+overpayments in a timely manner;
+(b) Routinely failed to provide students with promised educational services;
+(c) Regularly failed to comply with the provisions of sections 1 to 7 of this 2019 Act  or
+any rules adopted by the State Treasurer.
+(8)(a) The State Treasurer shall by rule create procedures to ensure that a fair  process
+exists to determine whether an education service provider may be barred from participating
+in the program.
+(b) If an education service provider is barred from the program, the State Treasurer shall
+immediately notify parents who have made payments from their student’s ESA to  the barred
+education service provider of the decision.
+(c) Education service providers may appeal the State Treasurer’s  decision to bar them
+from the program as a contested case under ORS chapter 183.
+(9) The State Treasurer may accept gifts and grants from any source to cover  adminis-
+trative costs, to inform the public about ESAs, or to fund additional ESAs.
+(10) The State Treasurer may adopt rules and policies that are  not inconsistent with
+sections 1 to 7 of this 2019 Act and that are necessary for the administration of this act,
+including:
+(a) Establishing  or contracting for the establishment of an online anonymous fraud re-
+porting service.
+(b) Establishing an anonymous telephone hotline for fraud reporting.
+(c) Policies that require either a surety bond for education service providers  receiving
+more than $100,000 in program funds or insurance for account holders.
+(d) Procedures for refunding payments  from a participating education service provider
+back to an ESA.
+(e) Procedures for entering into reciprocal agreements with other state  ESA agencies or
+entities to recognize  and allow education service providers approved in other states to re-
+ceive payments from ESAs under sections 1 to 7 of this 2019 Act.
+(11) Rules  or policies adopted by the State Treasurer shall focus on easing parental in-
+volvement and encouraging educational service providers to provide  parents with a broad
+array of educational options.
+(12) The  State Treasurer shall maintain an updated list of participating education service
+providers and shall ensure that the list is readily available online.
+(13) The State Treasurer shall administer an annual survey of parents who enter  into or
+renew written agreements pursuant to section 2 of this 2019 Act. The survey must ask  each
+parent to indicate the number of years the  parent has entered into or renewed a written
+agreement, and to express:
+(a) The relative satisfaction of the parent with the program established  pursuant to
+sections 1 to 7 of this 2019 Act; and
+(b) The opinions of the parent regarding any topics, items or issues that the  State
+Treasurer determines may aid the State Treasurer  in evaluating and improving the effec-
+tiveness of the program established pursuant to sections 1 to 7 of this 2019 Act.
+SECTION 6.
+(1) To be eligible to accept payments from an ESA, an education service
+provider shall:
+(a) Submit notice to the State Treasurer of the intent to participate;
+(b) Provide parents with a receipt for all qualifying educational expenses;
+(c) Agree not to refund, rebate, or share ESA funds with  parents or students in any
+manner, except that ESA funds may be remitted or refunded  to an ESA in accordance with
+procedures established by the State Treasurer;
+(d) Certify that the education service provider will  not discriminate based on race, color,
+ethnicity, or national origin;
+(e) Agree  to submit any employee who will have contact with students to a criminal
+background check; and
+(f) Provide the State Treasurer with any additional information  that may be requested
+to ensure the services provided to parents  are qualifying educational expenses. If the edu-
+cation service provider is unable  to provide the additional information, the State Treasurer
+may bar the education service provider from participating in the program.
+(2) If it is reasonably expected that an education service provider will receive  payments
+from ESAs in an amount that exceeds $100,000 during any school year, the State  Treasurer
+may require the education service provider to:
+(a) Post a surety bond in an amount equal to the amount reasonably expected  to be paid
+to the education service provider from ESAs during the school year; or
+(b) Provide evidence satisfactory to the State Treasurer that the education service pro-
+vider otherwise has sufficient assets to  pay the State Treasurer an amount equal to the
+amount described in this section.
+(3) Nothing in sections 1 to 7 of this 2019 Act  shall be deemed to limit the independence
+or autonomy of  an education service provider or to make the actions of an education service
+provider the actions of this state.
+(4) The State Treasurer or any other state agency  may not regulate the educational
+program of an education service provider that accepts funds from an ESA.
+(5) An education  service provider shall be given the maximum freedom to provide for the
+educational needs of ESA students without governmental control.
+(6) Nothing in sections 1 to 7 of this 2019 Act shall be construed to  expand the regulatory
+authority of the state, its officers, or any school district to  impose any additional regulation
+of education service providers beyond those necessary to enforce  the requirements of
+sections 1 to 7 of this 2019 Act.
+SECTION 7.
+(1) At a parent’s request, an eligible student’s local school district shall
+permit a student who is  being educated pursuant to an ESA to participate in the statewide
+assessment system described in ORS  329.485. The school district may not charge a fee to
+parents who elect to have their eligible student participate in the statewide assessment.
+(2) The results  of the statewide assessments for students being educated pursuant to an
+ESA shall be reported to  the Department of Education separate from the results of students
+enrolled in district schools.
+(3) A school district  that previously enrolled an eligible student shall provide an educa-
+tion service provider that  has enrolled an eligible student with a complete copy of the
+student’s school records, while complying with 20 U.S.C. 1232g.
+SECTION 8. (1) In any legal proceeding challenging  the application of sections 1 to 7 of
+this 2019 Act to an education service provider,  the respondent bears the burden of estab-
+lishing that the law is  necessary and does not impose any undue burden on an education
+service provider.
+(2) No liability shall arise on the part of the State Treasurer or this state or of any school
+district based on the award or use of an ESA pursuant to sections 1 to 7 of this 2019 Act.
+(3) If any part of sections 1  to 7 of this 2019 Act is challenged as violating either the
+United States Constitution or the Oregon Constitution, parents of eligible students may  be
+permitted to intervene to defend the constitutionality of sections 1  to 7 of this 2019 Act. For
+the purposes of judicial administration, a  court may limit the number of parents permitted
+to intervene or require that all parents file a joint brief, so long as parents  are not required
+to join any brief filed on behalf of any respondent.
+(4) If any provision of sections 1 to 7 of this 2019 Act, or the application thereof  to any
+person or circumstances, is  held invalid, the invalidity does not affect other provisions or
+applications of sections 1 to 7 of this 2019 Act that can be given effect without  the invalid
+provision or application, and any provisions of  sections 1 to 7 and 11 of this 2019 Act are
+severable.
+SECTION 9. (1) Sections 1 to 7 and 11 of this 2019 Act become  operative January 1, 2020.
+(2) The State  Board of Education, Department of Education, and State Treasurer may
+take any action before the operative  date specified in subsection (1) of this section to ensure
+that students first be allowed to participate in the program  established by sections 1 to 7 and
+11 of this 2019 Act during the 2020-2021 school year.
+SECTION 10. Section 11 of this  2019 Act is added to and made a part of ORS chapter 327.
+SECTION 11. (1) The Education Savings Program Fund  is established within the State
+School Fund.
+(2) The Education Savings Program Fund shall consist of moneys transferred as  provided
+by ORS 327.008 and any other state  or federal moneys available for the purposes of the pro-
+gram established by sections 1 to 7 of this 2019 Act.
+(3) Moneys in the fund are continuously appropriated to the  State Treasurer for the
+purpose of making deposits under section 3 of this 2019 Act.
+SECTION 12.  ORS 327.008, as amended by section 7, chapter 735, Oregon Laws 2013,  section
+7, chapter 81, Oregon Laws 2014, section 2, chapter 68, Oregon Laws 2015,  section 38, chapter 245,
+Oregon Laws 2015, section 2, chapter 555, Oregon Laws  2015, section 11, chapter 604, Oregon Laws
+2015, section 2,  chapter 644, Oregon Laws 2015, section 8, chapter 783, Oregon Laws 2015, sections
+22 and 23, chapter 639, Oregon Laws 2017, sections 5 and 6, chapter 700, Oregon Laws 2017, and
+section 34, chapter 725, Oregon Laws 2017, is amended to read:
+327.008. (1)(a) There is established a State School Fund in the General Fund.
+(b) The Department of Education, on behalf  of the State of Oregon, may solicit and accept gifts,
+grants, donations and other moneys from public and private sources  for the State School Fund.
+Moneys received as provided in this paragraph shall be deposited into the State School Fund.
+(c) The State School Fund shall consist of moneys appropriated by  the Legislative Assembly,
+moneys transferred from the Education Stability Fund and the Oregon Marijuana Account and
+moneys received as provided in paragraph (b) of this subsection.
+(d) The State School Fund is continuously appropriated to the Department of Education for  the
+purposes of ORS 327.006 to 327.077,  327.095, 327.099, 327.101, 327.125, 327.137, 327.348, 336.575,
+336.580, 336.635, 343.243, 343.533, 343.941 and 343.961 and sections 1 to 7 of this 2019 Act .
+(2) There shall be apportioned from the State School Fund to each school  district a State School
+Fund grant, consisting of the positive amount equal to a general purpose grant and a  facility grant
+and a transportation grant and a high cost disabilities grant minus local revenue, computed as pro-
+vided in ORS 327.011 and 327.013.
+(3) For the first school year after a public charter school ceases to  operate because of dissol-
+ution or closure or because of  termination or nonrenewal of a charter, there shall be apportioned
+from the State School Fund to  each school district that had sponsored a public charter school that
+ceased to operate an amount equal to the school district’s  general purpose grant per extended
+ADMw multiplied by five percent of the ADM of the public charter school for the previous school
+year.
+(4) There shall be  apportioned from the State School Fund to each education service district a
+State School Fund grant as calculated under ORS 327.019.
+(5) All figures used in the determination of the distribution of the State School Fund shall  be
+estimates for the same year as the distribution occurs, unless otherwise specified.
+(6) Numbers of students in average daily membership used in  the distribution formula shall be
+the numbers as of June of the year of distribution.
+(7) A school district may  not use the portion of the State School Fund grant that is attributable
+to the facility grant for capital construction costs.
+(8) The total amount of  the State School Fund that is distributed as facility grants may not ex-
+ceed $7 million in any biennium. If  the total amount to be distributed as facility grants exceeds this
+limitation, the  Department of Education shall prorate the amount of funds available for facility
+grants among  those school districts that qualified for a facility grant. If the total amount to be dis-
+tributed as facility grants does not  exceed this limitation, any remaining amounts shall be expended
+for expenses incurred by the Office of School Facilities as provided in ORS 326.125 (1).
+(9) Each biennium, the Department of Education may expend from  the State School Fund no
+more than $6 million for expenses incurred by the Office of School Facilities under ORS 326.125 (2)
+to (6).
+(10) Each fiscal year, the Department of Education  shall transfer to the Pediatric Nursing Fa-
+cility Account established in ORS 327.022 the amount necessary to pay the costs of educational
+services provided to students admitted to pediatric nursing facilities as provided in ORS 343.941.
+(11) Each fiscal year, the Department of Education shall transfer the amount of  $35 million from
+the State School Fund to the High Cost Disabilities Account established in ORS 327.348.
+(12)(a) Each biennium,  the Department of Education shall transfer $39.5 million from the State
+School Fund to the Educator Advancement Fund established under ORS 342.953.
+(b) For the purpose of making the transfer under this subsection:
+(A) The total  amount available for all distributions from the State School Fund shall be reduced
+by $6 million;
+(B) The amount distributed to school districts  from the State School Fund under this section and
+ORS 327.013 shall be reduced by $16.75 million; and
+(C) The amount distributed to education service  districts from the State School Fund under this
+section and ORS 327.019 shall be reduced by $16.75 million.
+(c) For each biennium, the amounts identified in this subsection shall be  adjusted by the same
+percentage  by  which the instructions furnished to state agencies by the Governor under ORS 291.204
+direct the state agencies to adjust their agency budget requests for special payments under ORS
+291.216 (6)(a)(C).
+(13) Each biennium, the Department of Education shall transfer $12.5 million from the State
+School Fund to the Statewide English Language Learner  Program Account established under ORS
+327.344.
+(14) Each  fiscal year, the Department of Education may expend up to $550,000 from the State
+School  Fund for the contract described in ORS 329.488. The amount distributed to education service
+districts from the State School Fund under this section and  ORS 327.019 shall be reduced by the
+amount expended by the department under this subsection.
+(15) Each biennium, the Department of Education may expend up  to $350,000 from the State
+School Fund to provide administration of and support for the development  of talented and gifted
+education under ORS 343.404.
+(16) Each biennium, the Department of Education may expend up  to $150,000 from the State
+School Fund for the administration  of a program to increase the number of speech-language
+pathologists and speech-language pathology assistants under ORS 348.394 to 348.406.
+(17) Each fiscal year, the Department of Education shall transfer  to the Education
+Savings Program Fund established by  section 11 of this 2019 Act the amount necessary to
+make the deposits required by section 3 of this 2019 Act.
+[(17)] (18) Each biennium,  the Department of Education shall transfer $2 million from the State
+School Fund for deposit to the Healthy School  Facilities Fund established under ORS 332.337.
+Notwithstanding ORS 332.337, the department may expend moneys received in the Healthy  School
+Facilities  Fund  under this subsection only as grants for costs associated with testing for elevated
+levels of lead in water used for drinking or food preparation.
+SECTION 13. (1) The  amendments to ORS 327.008 by section 12 of this 2019 Act become
+operative July 1, 2020.
+(2) The amendments to ORS 327.008 by section 12 of this 2019 Act apply to State School
+Fund distributions commencing with the 2020-2021 school year distributions.
+SECTION 14. This 2019 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2019 Act takes effect
+on its passage.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 327.008
+- From bill text (Introduced version): ORS 291.204, ORS 291.216, ORS 326.125, ORS 327.006, ORS 327.008, ORS 327.011, ORS 327.013, ORS 327.019, ORS 327.022, ORS 327.344, ORS 327.348, ORS 329.485, ORS 329.488, ORS 332.337, ORS 339.010, ORS 339.020, ORS 339.035, ORS 342.953, ORS 343.035, ORS 343.404, ORS 343.941, ORS 348.394, ORS 352.002
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `98912062385c2f33af1f240fafb88e6a076667c12f9b8435f7caa5542385ca9f` (snapshot `_meta/snapshots/measure-2019r1-sb668-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB668/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2019R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 668` (part of the batched per-session fetch), sha256 `ae6df4298c0af5cc5dddaadd86050dfbe3c0b9a75f4a0da8096eff6dafa219d2` of the shared session snapshot `_meta/snapshots/measures-2019r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

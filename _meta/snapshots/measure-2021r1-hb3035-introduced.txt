@@ -1,0 +1,355 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 3035
+Sponsored by Representative DEXTER; Senators DEMBROW, GOLDEN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Directs Department of Corrections and local correctional facilities to  assess and address health
+care needs of persons in custody upon intake. Establishes  standards for provision of health care to
+persons in custody. Requires that person in custody receive copy of medical records upon release.
+Establishes health  navigator positions for employment within Department of Corrections and
+local correctional facilities. Provides that health navigator  salaries are paid by Oregon Health
+Authority. Appropriates moneys to authority to fund positions.
+Directs  Department  of Corrections and cities and counties operating local correctional facilities
+to report to Legislative Assembly each biennium concerning health outcomes of  persons in custody.
+A BILL FOR AN ACT
+Relating to health care for adults in custody.
+Whereas adults in custody have a constitutional right to health care; and
+Whereas discontinuities of care result when people enter into custody; and
+Whereas adults in custody are reported to lack meaningful  access to comprehensive reproduc-
+tive health care, inclusive of abortion; peripartum health care, inclusive  of prenatal care, postnatal
+care and the ability to breast-feed their newborns; gender-affirming health  care; mental health care,
+inclusive  of  support for dealing with toxic stress and non-DSM diagnoses; and substance use disorder
+care and support; now, therefore,
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) No later than 48 hours  after a person is committed or transferred to the
+physical custody of the Department of Corrections, the department shall:
+(a) Assess the person’s health care needs;
+(b) Address any immediate medical needs, including  the administration of medication;
+and
+(c) Contact the primary health care provider of  the person, as identified by the person,
+for the purpose of  coordinating ongoing health care. If the person is enrolled in a coordinated
+care organization or prepaid managed care health services organization, the department staff
+shall contact the coordinated care organization  or prepaid managed care health services or-
+ganization to determine the provider who is primarily responsible for  the person’s health
+care.
+(2) When providing medical and mental health care to adults in custody, the department
+shall:
+(a) Provide care that is medically appropriate and that meets  recognized standards in the
+medical community;
+(b) Ensure the coordination and continuation of care throughout the  time the adult is in
+the custody of the department, including  transfers to or from local correctional facilities;
+and
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2653
+HB 3035
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(c) Ensure continuity of care with medical  and mental health care the adult in custody
+previously received in the community, including the provision of all treatment prescribed by
+the primary health care provider of the adult in custody.
+(3) Upon the release of an adult in custody, the department shall:
+(a) Ensure that  the adult in custody is provided with a full copy of all medical records
+of the adult in custody that are in the possession of the department.
+(b) Ensure that the medical records of the adult in  custody are made available through
+an electronic health record sharing program in order to facilitate and maintain  consistency
+with medical care in the community.
+(4) As used in this section:
+(a) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(b) “Prepaid managed care health services organization” has the meaning given that term
+in ORS 414.025.
+SECTION 2.
+(1)(a) The Oregon Health  Authority shall establish health navigator positions
+for employment within Department of Corrections facilities.
+(b) A person hired as a  health navigator must have knowledge of health care systems and
+must be a regulated social worker or have training similar to a regulated social worker.
+(2) Each adult in custody shall be assigned a health navigator immediately upon  assign-
+ment to a specific correctional facility.
+(3) Health navigators shall:
+(a) Assist adults in custody with  meeting health care needs during the transition into
+department custody, during reassignment  between correctional facilities and prior to release;
+(b) Assist adults in custody with obtaining medical care, including  advocating for care
+when necessary;
+(c) Maintain a consistent relationship with each adult in  custody assigned to the
+navigator so long as the adult in custody is  housed within a Department of Corrections fa-
+cility;
+(d) Coordinate with  health navigators within local correctional facilities if an adult in
+custody assigned to the navigator is transferred to a local correctional facility; and
+(e) Coordinate with community  health care providers if an adult in custody assigned to
+the navigator is released.
+(4) Health navigators are  not employees of the Department of Corrections but, in order
+to perform their duties under this section, shall be  provided with the same access to
+correctional facilities as employees of  the department who provide medical care to adults in
+custody.
+(5) The salaries of health navigators within Department of  Corrections facilities shall be
+paid by the Oregon Health Authority.
+SECTION 3.
+(1) Each biennium, the Department of Corrections  shall report to the in-
+terim committees of the Legislative Assembly  related to the judiciary, in the manner pro-
+vided under ORS 192.245, the following deidentified and disaggregated data concerning  the
+health outcomes of all adults in the custody of the department:
+(a) Life expectancy;
+(b) Obesity rates;
+(c) Vaccination rates;
+(d) Sexually transmitted disease infection rates;
+[2]
+HB 3035
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(e) Substance use disorder rates;
+(f) Suicide attempts and completions;
+(g) Rates of maternal mortality and severe maternal morbidity, as those terms are  de-
+fined in ORS 432.600;
+(h) Infant mortality rates; and
+(i) Any other data specified by the Oregon Health Authority by rule  under subsection (2)
+of this section.
+(2) The Oregon Health Authority shall adopt rules specifying additional data to  be re-
+ported by the Department of Corrections under subsection (1) of this section.
+SECTION 4.
+Sections 5 and 6 of this 2021 Act are added to and made a part of ORS 169.005
+to 169.685.
+SECTION 5. (1) No  later than 48 hours after a person is booked into a local correctional
+facility, the staff of the facility shall:
+(a) Assess the person’s health care needs;
+(b) Address any immediate medical  needs, including the administration of medication;
+and
+(c) Contact the primary  health care provider of the person as identified by the person.
+If the  person is enrolled in a coordinated care organization or prepaid managed care health
+services organization, the facility  staff shall contact the coordinated care organization or
+prepaid managed care health services organization to determine the provider who  is prima-
+rily responsible for the person’s health care.
+(2) When providing medical and mental  health care to persons in the custody of a local
+correctional facility, the facility shall:
+(a) Provide care that is medically appropriate and that meets  recognized standards in the
+medical community;
+(b) Ensure the coordination and continuation of care throughout the time the person is
+in the custody of the facility, including transfers  to or from Department of Corrections fa-
+cilities; and
+(c) Ensure continuity of care with medical and mental health care the person previously
+received in the community, including the provision of all treatment prescribed  by the
+person’s primary health care provider.
+(3) Upon the release of a person in the custody of a local correctional facility, the  facility
+shall:
+(a) Ensure that the person is provided with a full copy of the person’s medical  records
+in the possession of the department.
+(b) Ensure that the person’s  medical records are made available through an electronic
+health record sharing program in  order to facilitate and maintain consistency with medical
+care in the community.
+(4) As used in this section:
+(a) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+(b) “Prepaid managed care health services organization” has the meaning given that term
+in ORS 414.025.
+SECTION 6.
+(1)(a) The Oregon Health  Authority shall establish health navigator positions
+for employment within local correctional facilities.
+(b) A person hired as a  health navigator must have knowledge of health care systems and
+[3]
+HB 3035
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+must be a regulated social worker or have training similar to a regulated social worker.
+(2) Each person in the custody of  the facility shall be assigned a health navigator upon
+being booked into the facility.
+(3) Health navigators shall:
+(a) Assist persons in custody with meeting  health care needs during the transition into
+the custody of the facility, during  reassignment between correctional facilities and prior to
+release;
+(b) Assist persons  in custody with obtaining medical care, including advocating for care
+when necessary;
+(c) Maintain a consistent relationship with  each person in custody assigned to the
+navigator so long as the person is housed within the facility in which the navigator  is em-
+ployed;
+(d) Coordinate with health navigators within Department of Corrections facilities if a
+person assigned to the navigator is transferred to a department facility; and
+(e) Coordinate with community health care providers if a person assigned to  the
+navigator is released.
+(4) Health navigators are not employees of the local correctional facility, but in order  to
+perform their duties under this section, shall be  provided with the same access to the facility
+as employees of the facility who provide medical care to persons in custody.
+(5) The salaries of health navigators employed within local correctional  facilities shall be
+paid by the Oregon Health Authority.
+SECTION 7.
+(1) Each biennium, a city or  county that operates a local correctional facil-
+ity, as that term is defined in ORS 169.005, shall report to  the interim committees of the
+Legislative Assembly related  to the judiciary, in the manner provided under ORS 192.245, the
+following deidentified and disaggregated data concerning the health outcomes of all persons
+in the custody of the facility:
+(a) Life expectancy;
+(b) Obesity rates;
+(c) Vaccination rates;
+(d) Sexually transmitted disease infection rates;
+(e) Substance use disorder rates;
+(f) Suicide attempts and completions;
+(g) Rates of maternal mortality and severe maternal morbidity, as those terms are  de-
+fined in ORS 432.600;
+(h) Infant mortality rates; and
+(i) Any other data specified by the Oregon Health Authority by rule  under subsection (2)
+of this section.
+(2) The Oregon Health Authority shall adopt rules specifying additional data to  be re-
+ported under subsection (1) of this section.
+SECTION 8.
+In addition to and not in lieu of any other appropriation, there is appropri-
+ated to the Oregon Health Authority, for the biennium beginning July 1, 2021, out of the
+General Fund, the amount of $
+, for the purposes of  funding health navigator
+positions under sections 2 and 6 of this 2021 Act.
+[4]

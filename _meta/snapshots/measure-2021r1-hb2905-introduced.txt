@@ -1,0 +1,101 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+81st OREGON LEGISLATIVE ASSEMBLY--2021 Regular Session
+House Bill 2905
+Sponsored by  Representative EVANS; Representatives MEEK, POST (at the request of former Representative Carla
+Piluso) (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Creates crime of criminal  defamation of a servicemember. Punishes by maximum of 364 days’
+imprisonment, $6,250 fine, or both.
+Creates crime of unlawful appropriation of  the identity of a servicemember. Punishes by maxi-
+mum of 364 days’ imprisonment, $6,250 fine, or both.
+A BILL FOR AN ACT
+Relating to servicemembers; creating new provisions; and amending ORS 161.005.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) A person commits the crime of criminal  defamation of a servicemember
+if:
+(a) The person intentionally harasses a  servicemember by making a statement alleging
+less than honorable military service by the servicemember to a third person;
+(b) The statement is  made with the intent to cause the servicemember financial or rep-
+utational harm; and
+(c) A reasonable person would interpret the statement as  likely to cause financial or
+reputational harm to the servicemember.
+(2) Criminal defamation of a servicemember is a Class A misdemeanor.
+(3) It is an affirmative defense to a prosecution under this section that:
+(a) The statement is true; or
+(b) The servicemember who is the subject of the statement  was discharged from service
+in any manner other than an honorable discharge.
+(4) As used in this section, “servicemember” means a current or  former member of the
+Armed Forces of the United States, the reserve components  of the Armed Forces of the
+United States or the National Guard.
+SECTION 2.
+(1) A person commits  the crime of unlawful appropriation of the identity of
+a servicemember if the person, with the intent to deceive or to defraud:
+(a) Falsely claims to be a servicemember; or
+(b) Falsely claims  an official affiliation with a nonprofit or charitable organization for
+servicemembers.
+(2) Unlawful appropriation of the identity of a servicemember is a Class A  misdemeanor.
+(3) As used in this section, “servicemember” means a current or  former member of the
+Armed Forces of the United States, the reserve components  of the Armed Forces of the
+United States or the National Guard.
+SECTION 3.
+ ORS 161.005 is amended to read:
+161.005. ORS 161.005 to 161.055, 161.085 to  161.125, 161.150 to 161.175, 161.190 to 161.275, 161.290
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 713
+HB 2905
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+to 161.373, 161.405 to 161.485, 161.505 to 161.585, 161.605, 161.615  to 161.685, 161.705 to 161.737,
+162.005, 162.015 to 162.035, 162.055 to 162.115, 162.135 to 162.205, 162.225 to  162.375, 162.405 to
+162.425, 162.465, 163.005,  163.095, 163.107, 163.115, 163.125 to 163.145, 163.149, 163.160 to 163.208,
+163.196, 163.215 to 163.257, 163.261, 163.263, 163.264, 163.266, 163.275, 163.285, 163.305  to 163.467,
+163.432, 163.433, 163.472,  163.505 to 163.575, 163.665 to 163.693, 163.700, 163.701, 163.715, 164.005,
+164.015 to 164.135, 164.138, 164.140, 164.205 to 164.270, 164.305 to 164.377,  164.395 to 164.415, 164.805,
+164.857, 164.886, 165.002 to 165.102, 165.109, 165.118, 165.805, 165.815, 166.005 to  166.095, 166.350,
+166.382, 166.384, 166.660, 167.002 to 167.027, 167.057, 167.060 to 167.100, 167.117, 167.122 to 167.162,
+167.203 to 167.252, 167.310 to 167.340,  167.350, 167.810 and 167.820 and sections 1 and 2 of this 2021
+Act shall be known and may be cited as Oregon Criminal Code of 1971.
+[2]

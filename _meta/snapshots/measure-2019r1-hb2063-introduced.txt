@@ -1,0 +1,275 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session
+House Bill 2063
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of  Governor Kate Brown for
+Department of Environmental Quality)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Extends authorized uses of moneys received  by state pursuant to Volkswagen Environmental
+Mitigation Trust Agreement and deposited in Clean Diesel Engine Fund.
+A BILL FOR AN ACT
+Relating to environmental mitigation trust agreement  moneys; amending ORS 468A.795 and
+468A.805.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.  ORS 468A.795 is amended to read:
+468A.795. As used in ORS 468A.795 to 468A.807:
+(1) “Alternative fuel” means biofuels, biogas,  natural gas, liquefied petroleum gas, hydrogen and
+electricity.
+(2) “Best available exhaust control technology” means the  most effective exhaust controls to
+reduce diesel particulate that rely on  passively regenerated diesel particulate control technology
+supported in a vehicle’s normal duty cycle.
+(3) “Combined weight” has the meaning given that term in ORS 825.005.
+(4) “Cost-effectiveness threshold” means the cost,  in dollars, per ton of diesel particulate matter
+reduced, as established by rule of the Environmental Quality Commission.
+(5) “Diesel engine” means a compression ignition engine.
+(6) “Environmental Mitigation Trust Agreement” means the  fully executed  Environmental Mit-
+igation Trust Agreement  for State Beneficiaries effective October 2, 2017, and issued  pursuant
+to Paragraph 17 of [required by ] the  Volkswagen “Clean Diesel” Marketing, Sales Practices and
+Products Liability Litigation partial consent decree dated October 25, 2016.
+(7) “Equivalent equipment” means a piece of equipment that performs the  same function and has
+the equivalent horsepower to a piece of equipment subject to a replacement.
+(8) “Equivalent motor vehicle” means a  motor vehicle that performs the same function and is in
+the same weight class as a motor vehicle subject to a replacement.
+(9) “Heavy-duty truck” means a motor vehicle or  combination of vehicles operated as a unit that
+has a combined weight that is greater than 26,000 pounds.
+(10) “Incremental cost” means the cost of a qualifying  repower or retrofit less a baseline cost
+that would otherwise be incurred in the normal course of business.
+(11) “Medium-duty truck” means a motor  vehicle or combination of vehicles operated as a unit
+that has a combined weight that is greater than 14,000 pounds but less than or equal  to 26,000
+pounds.
+(12) “Motor vehicle” has the meaning given that term in ORS 825.005.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 463
+HB 2063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(13) “Nonroad diesel engine” means a diesel engine of  25 horsepower or more that is not de-
+signed primarily to propel a motor vehicle on public highways.
+(14) “Oregon diesel  engine” means an engine at least 50 percent of the use of which, as meas-
+ured by miles driven or hours operated, will occur in Oregon for the three years  following the re-
+powering or retrofitting of the engine.
+(15) “Oregon diesel truck engine” means a diesel engine in a truck at least 50 percent of  the
+use of which, as measured by miles driven or hours operated,  has occurred in Oregon for the two
+years preceding the scrapping of the engine.
+(16) “Public highway” has the meaning given that term in ORS 825.005.
+(17)(a) “Replacement” means:
+(A) To scrap a motor vehicle powered by a diesel engine  and replace the motor vehicle with an
+equivalent motor vehicle; or
+(B) To scrap a piece of equipment powered by a nonroad diesel engine  and replace the equip-
+ment with equivalent equipment.
+(b) “Replacement” does not mean ordinary maintenance, repair or replacement  of a diesel en-
+gine.
+(18) “Repower” means to scrap an old diesel engine and substitute it  with a new engine, a used
+engine or a remanufactured engine, or with electric motors, drives or  fuel cells, with a minimum
+useful life of seven years.
+(19) “Retrofit” means to equip a diesel engine with  new emissions-reducing parts or technology
+after the manufacture of the original engine. A retrofit must use the greatest degree of  emissions
+reduction available for the particular  application of the equipment retrofitted that meets the cost-
+effectiveness threshold.
+(20) “Scrap” means to destroy, render inoperable and recycle.
+(21) “Truck” means a motor vehicle  or combination of vehicles operated as a unit that has a
+combined weight that is greater than 14,000 pounds.
+SECTION 2.
+ ORS 468A.805 is amended to read:
+468A.805. (1) Subject to and consistent with ORS 468A.803 (8) and  with the terms of the Envi-
+ronmental Mitigation Trust Agreement, any moneys received by the State  of Oregon pursuant to the
+agreement that are deposited in the Clean Diesel  Engine Fund under ORS 468A.801 must [ be used
+by the Department of Environmental Quality to award grants for the purpose of reducing nitrogen
+oxides emissions from diesel engines. ]
+[(2)(a) To  the extent authorized by the agreement, the department shall allocate moneys awarded
+pursuant to subsection (1) of this section first to ] be expended by the Department  of Environ-
+mental Quality as follows:
+(a) The department shall  award grants to owners and operators of school buses  to reduce
+emissions from at least 450 school buses powered by diesel engines operating in this state.
+(b) As  provided for in Appendix D-2 to the Environmental Mitigation Trust Agreement,
+the department may  use up to 15 percent of the total moneys received by the State of Oregon
+as the state’s allocation of  trust funds on the costs necessary for, and directly connected to,
+the purchase, installation and maintenance of light-duty electric vehicle supply equipment.
+(c)(A) Moneys not expended under paragraphs (a) and (b) of this subsection must be:
+(i) Awarded as grants for the purpose of reducing nitrogen oxides emissions  from diesel
+engines; or
+(ii) Utilized by the department as the State of Oregon’s  voluntary matching funds under
+[2]
+HB 2063
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+the Diesel Emissions Reduction Act Program in  the Energy Policy Act of 2005, 42 U.S.C.
+16133, and for the purpose of  awarding grants for reducing diesel particulate matter emis-
+sions from diesel engines.
+(B) The department shall develop a competitive  grant program for awarding grants under
+this paragraph. The competitive grant program shall  apply the preferences set forth in sub-
+section (3) of this section.
+[(b)] (2)(a)  In awarding grants under [ this subsection ] subsection (1)(a) of this section , the
+department shall begin by awarding grants to owners and operators of  school buses powered by
+diesel engines that are of the median model year of school buses powered by  diesel engines operat-
+ing in this state, and shall proceed to award grants for school buses powered by diesel  engines
+through the adjoining model years until the requirements of [ paragraph (a) of this  subsection ] sub-
+section (1)(a) of this section  are met. A grant may be awarded under [ this subsection ] subsection
+(1)(a) of this section  for any school bus powered by a diesel engine within the control of an owner
+or operator that meets the following conditions:
+(A) The school bus has at least three years of remaining useful life;
+(B) Use of the school bus has occurred in Oregon during the year preceding the date of the
+grant; and
+(C) For the three years following receipt of a grant award, use of the school bus to which  the
+owner or operator applies the grant will occur in Oregon.
+[(c)] (b) The grant  amount per school bus awarded under [ this paragraph ] subsection (1)(a) of
+this section  shall be for:
+(A) $50,000 or 30 percent of the cost to purchase a school bus that meets  minimum standards
+adopted by the State Board of Education under ORS 820.100 for the applicable class  or type of
+school bus, whichever is less; or
+(B) Up to 100 percent of the cost to retrofit a school bus with  emissions-reducing parts or
+technology that results in a  reduction of diesel particulate matter emissions by at least 85 percent
+when compared with the baseline emissions for the relevant engine year and application.
+[(3) Except for awarding grants  pursuant to subsection (2) of this section, the department may not
+award grants from the moneys described  under subsection (1) of this section without prior approval
+by the Legislative Assembly by law. ]
+(3) In awarding grants pursuant to the grant program developed under subsection  (1)(c)
+of this section, the department shall give preferences for projects that will:
+(a) Benefit sensitive populations or  areas with elevated concentrations of diesel
+particulate matter;
+(b) Be carried out by a grant applicant that is a disadvantaged  business enterprise, as
+defined in ORS 200.005;
+(c) Be designed and perform in a manner that reflects engagement with and the support
+of the community where the project is located;
+(d) Involve the replacement, repower or retrofit of one or more motor vehicles  or pieces
+of equipment that have at least  three years of remaining useful life at the time that the
+grant agreement is executed;
+(e) Support the utilization of fuels for which regulated parties may generate credits  un-
+der the clean fuels program adopted by  rule by the Environmental Quality Commission under
+ORS 468A.266 (1)(b);
+(f) Involve small fleets;
+[3]
+HB 2063
+1
+2
+3
+4
+5
+6
+7
+(g) Maximize cost effectiveness of emissions reductions in Oregon; or
+(h) Meet the criteria of any  other preferences that the commission may establish by rule,
+if the department determines that the additional  preferences are necessary to ensure that
+grant awards result in the reduction of nitrogen oxides emissions from diesel engines.
+(4) The commission may adopt rules necessary to  implement the provisions of this sec-
+tion.
+[4]

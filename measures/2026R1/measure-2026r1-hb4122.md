@@ -1,0 +1,909 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2026r1-hb4122
+title: 'HB 4122 (2026R1): Establishes statutory definition of "student government" for purposes of public
+  universities in this state.'
+doc_type: dataset_doc
+citation: 2026 Regular Session House Bill 4122
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4122/Introduced
+source_format: pdf
+retrieved: '2026-07-28'
+source_sha256: bd9925ec0d791ab1070604727194c817fd4022659df3f51767f03d17071c290c
+snapshot_id: measure-2026r1-hb4122-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-28'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 171.562
+  - ORS 171.565
+  - ORS 174.109
+  - ORS 250.045
+  - ORS 254.470
+  - ORS 260.432
+  - ORS 286A.001
+  - ORS 334.108
+  - ORS 341.005
+  - ORS 341.470
+  - ORS 350.205
+  - ORS 350.245
+  - ORS 350.330
+  - ORS 350.331
+  - ORS 352.002
+  - ORS 352.025
+  - ORS 352.029
+  - ORS 352.076
+  - ORS 352.089
+  - ORS 352.102
+  - ORS 352.103
+  - ORS 352.105
+  - ORS 352.118
+  - ORS 353.040
+  - ORS 353.050
+  - ORS 401.165
+  - ORS 433.441
+  - ORS 743.537
+  - ORS 743.540
+  - ORS 743.543
+  - ORS 743.546
+  - ORS 743.550
+  - ORS 743.551
+  - ORS 743B.475
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2026r1
+- hb
+session_key: 2026R1
+measure_prefix: HB
+measure_number: 4122
+prefix_meaning: House Bill
+catch_line: Establishes statutory definition of "student government" for purposes of public universities
+  in this state.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act would make changes to the law for student government at public universities\
+  \ in this state. (Flesch Readability Score: 60.1). \n\tEstablishes statutory definition of \"student\
+  \ government\" for purposes of public universities in this state. Specifies the powers, rights and duties\
+  \ of such student government. Provides the official name of the student government at each public university.\
+  \ Changes the name of \"mandatory incidental fee\" to \"mandatory student-initiated fee.\" Modifies\
+  \ provisions related to \"mandatory student-initiated fees\" at public universities."
+relating_to: Relating to student government at public universities.
+relating_to_full: Relating to student government at public universities; creating new provisions; and
+  amending ORS 260.432, 341.470, 350.205, 350.245, 350.330, 352.029, 352.076, 352.103, 352.105, 353.040,
+  353.050 and 743.550.
+at_the_request_of: null
+lc_number: 139
+measure_created_date: '2026-01-18T10:44:00'
+measure_modified_date: '2026-02-02T11:51:12'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 56078
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 171.562
+  - ORS 171.565
+  - ORS 174.109
+  - ORS 250.045
+  - ORS 254.470
+  - ORS 260.432
+  - ORS 286A.001
+  - ORS 334.108
+  - ORS 341.005
+  - ORS 341.470
+  - ORS 350.205
+  - ORS 350.245
+  - ORS 350.330
+  - ORS 350.331
+  - ORS 352.002
+  - ORS 352.025
+  - ORS 352.029
+  - ORS 352.076
+  - ORS 352.089
+  - ORS 352.102
+  - ORS 352.103
+  - ORS 352.105
+  - ORS 352.118
+  - ORS 353.040
+  - ORS 353.050
+  - ORS 401.165
+  - ORS 433.441
+  - ORS 743.537
+  - ORS 743.540
+  - ORS 743.543
+  - ORS 743.546
+  - ORS 743.550
+  - ORS 743.551
+  - ORS 743B.475
+  from_relating_to_full:
+  - ORS 260.432
+  - ORS 341.470
+  - ORS 350.205
+  - ORS 350.245
+  - ORS 350.330
+  - ORS 352.029
+  - ORS 352.076
+  - ORS 352.103
+  - ORS 352.105
+  - ORS 353.040
+  - ORS 353.050
+  - ORS 743.550
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-28 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4122`.
+
+# HB 4122 — 2026 Regular Session (2026R1)
+
+## At a glance
+
+- **Measure:** House Bill 4122, 2026 Regular Session (2026R1)
+- **LC number:** 139
+- **Created:** 2026-01-18T10:44:00
+- **Metadata last modified (upstream):** 2026-02-02T11:51:12
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 56078 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4122/Introduced>.
+
+## Summary
+
+**Catchline:** Establishes statutory definition of "student government" for purposes of public universities in this state.
+
+**Relating to:** Relating to student government at public universities.
+
+Digest: The Act would make changes to the law for student government at public universities in this state. (Flesch Readability Score: 60.1). 
+ Establishes statutory definition of "student government" for purposes of public universities in this state. Specifies the powers, rights and duties of such student government. Provides the official name of the student government at each public university. Changes the name of "mandatory incidental fee" to "mandatory student-initiated fee." Modifies provisions related to "mandatory student-initiated fees" at public universities.
+
+**RelatingToFull (verbatim upstream field):** Relating to student government at public universities; creating new provisions; and amending ORS 260.432, 341.470, 350.205, 350.245, 350.330, 352.029, 352.076, 352.103, 352.105, 353.040, 353.050 and 743.550.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4122
+Sponsored by Representatives HUDSON, NOSSE, EVANS, WISE;  Representative GRAYBER, Senator NERON
+MISSLIN (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would make changes to the law  for student government at public universities
+in this state. (Flesch Readability Score: 60.1).
+Establishes statutory definition of “student government” for purposes  of public universities in
+this state. Specifies the powers, rights and duties of such  student government. Provides the official
+name of the student government at each public university. Changes the name  of “mandatory inci-
+dental fee” to “mandatory student-initiated fee.” Modifies provisions  related to “mandatory
+student-initiated fees” at public universities.
+A BILL FOR AN ACT
+Relating to student government at public universities; creating new provisions; and  amending ORS
+260.432, 341.470, 350.205, 350.245, 350.330, 352.029, 352.076, 352.103, 352.105, 353.040, 353.050 and
+743.550.
+Be It Enacted by the People of the State of Oregon:
+STUDENT GOVERNMENT AT PUBLIC UNIVERSITIES
+SECTION 1.
+ ORS 352.029 is amended to read:
+352.029. As used in ORS 352.025 to 352.146 and 352.388 to 352.415:
+(1) “Governing board” means a governing board of a public  university listed in ORS 352.002 that
+manages the affairs  of the university by exercising and carrying out all of the powers, rights and
+duties that are expressly conferred upon the governing board by law, or that are implied by law or
+are incident to such powers, rights and duties.
+(2) “State bonds” means “bonds” as defined in ORS 286A.001 that are issued by the  State
+Treasurer.
+(3) “Student government” means a governing body composed of students of a public uni-
+versity listed in ORS 352.002 that represents all undergraduate and graduate students of the
+university.
+SECTION 2.
+Section 3 of this 2026 Act is added to and made a  part of ORS 352.025 to
+352.146.
+SECTION 3. (1) A student government may  exercise and carry out all of the powers,
+rights and duties that are expressly conferred upon the  student government by law, or that
+are implied by law or are incident to such powers, rights and duties, including but not limited
+to:
+(a) Establishing and  carrying out the provisions of the bylaws of the student government
+without interference by the governing board of the public university;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 139
+(b) Allocating fees initiated by students at the public university;
+(c) Establishing eligibility criteria  for students to hold office in the student government;
+and
+(d) Engaging in advocacy on behalf of students in relation to any public  university listed
+in ORS 352.002 or public body as defined in ORS 174.109.
+(2) A student government is established for  each public university listed in ORS 352.002
+as follows:
+(a) The student government  of the University of Oregon shall be known as the Associated
+Students of the University of Oregon.
+(b) The student government  of Oregon State University representing students of the
+Corvallis campus shall be known as the Associated Students of Oregon State University.
+(c) The student government of Oregon State University representing students  of the
+Oregon State University-Cascades campus shall be known as the Associated  Students of
+Cascades Campus.
+(d) The student government of Portland State  University shall be known as the Associ-
+ated Students of Portland State University.
+(e) The student government of the  Oregon Institute of Technology representing students
+of the Klamath  Falls campus shall be known as the Associated Students of the Oregon In-
+stitute of Technology-Klamath Falls.
+(f) The student government of the Oregon Institute of Technology representing  students
+of the Portland-Metro campus shall be known as the Associated  Students of the Oregon In-
+stitute of Technology-Portland Metro.
+(g) The student government of Western Oregon University shall be  known as the Asso-
+ciated Students of Western Oregon University.
+(h) The student government of  Southern Oregon University shall be known as the Asso-
+ciated Students of Southern Oregon University.
+(i) The student government of Eastern Oregon  University shall be known as the Associ-
+ated Students of Eastern Oregon University.
+SECTION 4.
+ ORS 352.105 is amended to read:
+352.105. (1) As used in this section, “mandatory student-initiated fee” means a fee that:
+(a) Is initiated by the student government of the public university;
+(b) Students are required to pay in addition to tuition fees;
+(c) Is collected by the board of the public university; and
+(d) Is allocated by the student government of the public university.
+[(1)(a)] (2)(a)  The board  for each public university listed in ORS 352.002 shall collect mandatory
+[incidental] student-initiated fees upon  the request of the [ recognized ] student government under a
+process established by the  [ recognized ] student government of a university.  Mandatory student-
+initiated fees collected under  this section must be allocated by the student government.  The
+[recognized ] student government shall:
+(A) Make a good faith effort to collaborate with the board and president of the university under
+the board’s control prior  to finalizing any process to collect mandatory [ incidental] student-
+initiated fees; and
+(B) Notify the board and president of each process, and any subsequent change to a  process, to
+collect mandatory [ incidental] student-initiated fees that is established  by the [ recognized ] student
+government.
+(b) The process may include a student  body referendum conducted under procedures established
+by the [ recognized ] student government. [ Mandatory incidental fees collected under this section shall
+be allocated by the recognized student government. ]
+[(2)(a)] (3)(a)  The mandatory  [ incidental] student-initiated  fee, use of the fee or decision to
+modify an  existing fee may be refused by the board or the president if the board or president de-
+termines that:
+(A) The [ recognized ] student government assessed or allocated the mandatory  [ incidental]
+student-initiated fees in violation of applicable local, state or federal law;
+(B) The allocation conflicts with a preexisting contractual financial commitment;  or
+(C) Except as provided in paragraph (b)  of this subsection, the total mandatory [ incidental]
+student-initiated fees  proposed is more than five percent higher than the mandatory [ incidental]
+student-initiated fees set for the prior year[ ; or ].
+[(D) The fee request is not reasonably related to: ]
+[(i) The education of university students; ]
+[(ii) The instruction of university students; ]
+[(iii) Services for university students; or ]
+[(iv) The recreation of university students. ]
+(b) The mandatory [ incidental] student-initiated  fee, use of  the fee or decision to modify an
+existing fee may not be refused by the board or the president of a university based on:
+(A) Considerations about the point of view that the funding seeks to advance; or
+(B) Paragraph (a)(C) of  this subsection, if the mandatory [ incidental] student-initiated fees col-
+lected or expended in the prior year were abnormally  low due to a disruption of university activities
+related to  a state of emergency declared by the Governor under ORS 401.165 or a state of public
+health emergency proclaimed under ORS 433.441.
+[(3)] (4)  The  [ recognized ] student government and the board shall seek to reach agreement on
+any dispute involving mandatory [ incidental] student-initiated  fees, if necessary  with the aid of
+mediation, prior to a decision by the board.
+[(4)(a)] (5)(a)  If an agreement is not  reached, the board shall promptly provide written notice to
+the [ recognized ] student government of how the proposed mandatory [ incidental] student-initiated
+fee will be altered or if the proposed mandatory [ incidental] student-initiated fee will be rejected.
+(b) The decision of the board may  be appealed to the Higher Education Coordinating Commis-
+sion by the [ recognized ] student  government within seven days of the [ recognized ] student
+government’s receipt of the written notice of the board’s decision. The board shall submit its re-
+sponse within seven days of the appeal. The commission  shall render its decision within 14 days of
+its receipt of the board’s response.
+[(5)] (6) Mandatory [ incidental] student-initiated fees are not subject to ORS 352.102.
+CONFORMING AMENDMENTS
+SECTION 5.
+ ORS 260.432 is amended to read:
+260.432. (1) A person may not attempt to, or actually, coerce,  command or require a public em-
+ployee  to:
+(a) Influence or give money, service or other thing of value to  promote or oppose any political
+committee;
+(b) Promote or oppose the appointment, nomination or election of a person to a public office;
+(c) Promote or oppose the filing of an initiative, referendum or recall petition;
+(d) Promote or oppose the gathering of signatures on an  initiative, referendum or recall petition;
+or
+(e) Promote or oppose the adoption of a measure or the recall of a public office holder.
+(2) A public employee may not engage in any of the  following activities while on the job during
+working hours or while otherwise acting in the public employee’s official capacity:
+(a) Solicit any money, influence, service or other  thing of value or otherwise promote or oppose
+any political committee;
+(b) Promote or oppose the appointment, nomination or election of a person to a public office;
+(c) Promote or oppose the filing of an initiative, referendum or recall petition;
+(d) Promote or oppose the gathering of signatures on an  initiative, referendum or recall petition;
+or
+(e) Promote or oppose the adoption of a measure or the recall of a public office holder.
+(3) This section does not restrict:
+(a) The  right of a public employee to express personal political views, provided that a reasonable
+person would  not infer that the personal political views of the public employee represent the views
+of the public employer of the public employee; or
+(b) A public employee  from communicating with a separate public employee or elected official
+about the appointment of a person to a public office, provided that the communication  is made in
+furtherance of the recipient’s official duties relating to an appointment required by the  Oregon
+Constitution or a state statute.
+(4) Each  public employer shall have posted in a conspicuous place likely to be seen by its em-
+ployees the following notice in printed or typewritten form:
+_______________________________________________________________________________________
+ATTENTION ALL PUBLIC EMPLOYEES:
+The restrictions imposed by the law of the State of Oregon on your political activities  are that
+“No public employee shall solicit any money,  influence, service or other thing of value or otherwise
+promote or oppose any political  committee; promote or oppose the appointment, nomination or
+election of a person to a public office; or promote or oppose the filing of or  gathering of signatures
+on an initiative, referendum or recall petition  or the adoption of a measure or the recall of a public
+office holder while on the  job during working hours or while otherwise acting in the public
+employee’s official capacity as a public employee. However, this section does not restrict the  right
+of a public employee to express personal political views, provided that a  reasonable person would
+not infer that the views represent those of the public employer of the public employee.”
+It is therefore the policy of the state and of your public employer that you may engage  in poli-
+tical activity except to the extent prohibited by state law when on  the job during working hours or
+while otherwise working in your official capacity as a public employee.
+_______________________________________________________________________________________
+(5)(a) Notwithstanding subsections (1) and (2) of this section:
+(A) The [ recognized ] student government of a community college or public university listed in
+ORS 352.002, or a member of the [ recognized ] student government while acting as a member,  may
+make a statement or issue a resolution to promote or oppose:
+(i) The gathering of signatures on an initiative or referendum petition; or
+(ii) The adoption of a measure.
+(B) A  member of the board of education of a community college district, a member of the gov-
+erning board, as defined in ORS 352.029, of a public university or  an employee of a community col-
+lege or public university may take any  action as a public employee that is necessary to allow the
+[recognized ] student government, or member of the [ recognized ] student government, to engage  in
+activities described in subparagraph (A) of this paragraph.
+(b) Except for facilitating the actions described in  paragraph (a) of this subsection, the [ recog-
+nized] student government of a community college or public university, or a member  of the [ recog-
+nized] student government  while acting as a member, may not use mandatory student-initiated fees,
+mandatory enrollment fees[ , mandatory incidental fees ] or any public moneys to promote or oppose
+any political committee or promote or  oppose the appointment, nomination or election of a person
+to a public office, the filing of or the  gathering of signatures on an initiative, referendum or recall
+petition, the adoption of a measure or the recall of a public office holder.
+(6) Nothing in this section  prohibits an employee of the legislative branch from explaining the
+vote of a member of the Legislative Assembly on:
+(a) An Act that has been referred to the people by law or petition under Article IV, section  1
+(3), of the Oregon Constitution;
+(b) An Act for which a prospective referendum petition has been filed under ORS 250.045; or
+(c) A constitutional amendment or revision proposed under Article XVII, section 1 or 2, of  the
+Oregon Constitution.
+(7) As used in this section:
+(a) “Public employee”  does not include an elected official or a person appointed as a director
+to the board of a pilot education service district under ORS 334.108.
+(b) “Public employer” includes any board,  commission, committee, department, division or insti-
+tution in the executive, administrative, legislative or judicial  branch of state government, and any
+county, city, district or other municipal corporation  or public corporation organized for a public
+purpose, including a cooperative body formed between municipal or public corporations.
+(c) “While on the job during working hours” does not include periods of time during  which a
+public employee is taking time off for a  meal break or rest break or periods of time during which
+a public employee is utilizing  otherwise allowable time off in accordance with the labor laws of this
+state.
+SECTION 6.
+ ORS 341.470 is amended to read:
+341.470. (1) As used in this section, “mandatory student-initiated fee” means a fee that:
+(a) Is initiated by the [ recognized ] student government of the community college;
+(b) Students are required to pay in addition to tuition fees;
+(c) Is collected by the board of the community college; and
+(d) Is allocated by the [ recognized ] student government of the community college.
+(2)(a) The board for each community college shall collect mandatory  student-initiated fees upon
+the request of the [ recognized ] student government of the community college to  the president of the
+community college under a process established by the [ recognized ] student government. The  [ recog-
+nized] student government shall:
+(A) Make a good faith effort to collaborate with the board and president prior to finalizing  any
+process to collect mandatory student-initiated fees; and
+(B) Notify the board and president of each process to collect  mandatory student-initiated fees
+that is established by the [ recognized ] student government.
+(b) Mandatory student-initiated fees collected under this  section must be allocated by the [ re-
+cognized ] student government.
+(3) If the [ recognized ] student government makes a request under subsection (2)  of this section
+for a new or increased mandatory student-initiated  fee, the board may require a campus referendum
+in which the student body votes on whether to approve the fee. If  a mandatory student-initiated fee
+is rejected by the student body in a referendum held under this subsection, the  [recognized ] student
+government may not request another mandatory  student-initiated fee for the remainder of the aca-
+demic year.
+(4) A request for  a mandatory student-initiated fee, use of the fee or decision to modify an ex-
+isting fee may be refused by the president if the president determines that:
+(a) The [ recognized ] student government assessed or allocated the mandatory student-initiated
+fee in violation of applicable local, state or federal law;
+(b) The allocation conflicts with a preexisting contractual financial commitment; or
+(c) The total mandatory student-initiated fees budget would increase by  a percentage that is
+greater than the percentage increase in tuition and  other fees approved by the board for the up-
+coming academic year.
+(5) The [ recognized ] student government and the president shall seek to reach agreement on any
+dispute involving mandatory  student-initiated fees, if necessary with the aid of a process established
+by the board, prior to a decision by the president.
+(6) If an agreement is not reached, the  decision of the president may be appealed to the board,
+which will render a final decision prior  to the adoption, use or modification of a mandatory
+student-initiated fee.
+SECTION 7.
+ ORS 350.205 is amended to read:
+350.205. (1) As used in this section, “mandatory fee” means a fee of general applicability to
+students, whether full-time or part-time, that is  required prior to matriculation or taking courses,
+including a fee proposed by a [ recognized ] student government.
+(2) Each public  university listed in ORS 352.002 or community college shall prominently display,
+as provided in subsection (3) of this section, a description of every mandatory fee charged by the
+public university or community college.
+(3) A mandatory fee required to be displayed under this section must be published on each public
+university’s or community college’s public website and online student portal prior to the  term for
+which the mandatory fee  will be charged and included in any tuition bill. The amount of the man-
+datory fee must be accompanied by a description of:
+(a) The general purpose of the mandatory fee;
+(b) How the mandatory fee will be allocated and used; and
+(c) If the mandatory  fee will be collected for a limited duration, the beginning and end dates for
+collecting the mandatory fee.
+(4) No later than September 1 of each year, each public university and community  college shall
+report to the Higher Education Coordinating Commission on the public university’s or  community
+college’s collection of mandatory fees. The report must include:
+(a) A description of the public university’s or community college’s  efforts to display mandatory
+fees as required by this section;
+(b) A description of each use or recipient that a mandatory fee is applied to;
+(c) The amount of any fee moneys that were transferred during the preceding academic year to
+a recipient or use other than the recipient or use that the fee was collected  for and an explanation
+of the reason for the transfer; and
+(d) A financial overview that includes:
+(A) The total amount of mandatory fees collected for the preceding academic year, by term;
+(B) The total amount of expenses for the preceding academic year that are of a type  to which
+mandatory fee moneys were applied; and
+(C) The  ending balances for the funds or accounts in which mandatory fees are maintained and
+an explanation of the balances for the three preceding academic years.
+SECTION 8.
+ ORS 350.245 is amended to read:
+350.245. (1) As used in this section, “school of higher education” means:
+(a) A public university listed in ORS 352.002.
+(b) A community college, as defined in ORS 341.005.
+(2)(a) The Secretary of State shall ensure that within four miles of the main campus of each
+school of higher education there is at least one location designated as an official ballot drop  site
+under ORS 254.470.
+(b) The  requirement set forth in paragraph (a) of this subsection applies only to elections held
+within the electoral district in which the main campus of a school of higher education is located.
+(3) Each school of higher education shall:
+(a) Display a direct link to the Secretary of State’s online voter registration tool on  the school’s
+Internet website or  on any appropriate student-focused digital communication network managed by
+the school.
+(b) Upon the  request of the school’s [ official] student government or its equivalent, give the
+student government or its equivalent an opportunity to  provide nonpartisan voter registration ser-
+vices:
+(A) As part of student orientation programs held by the school’s administration;
+(B) As part of campus welcome events that occur before classes begin each  academic term; and
+(C) As part of residence life program activities.
+(c) Upon the request of the school’s [ official] student government or its  equivalent, provide the
+student government  or its equivalent with an official class schedule and a list of professional contact
+information for school faculty, which may be used for the purpose of seeking faculty approval for
+the student government  or its equivalent to provide nonpartisan voter registration classroom pres-
+entations.
+(d) Provide individual students and student groups the  opportunity to provide nonpartisan voter
+registration services throughout the academic term in any nonreserved  public space on the school’s
+property, provided that the nonpartisan voter  registration services conform to the rules of conduct
+and rules for reserving space at the school. This paragraph applies only to students enrolled at  the
+school and does not alter in any way the rights of a person who is not enrolled as  a student at the
+school.
+(e) If the school owns and operates any student housing, at least  three months prior to each
+primary or general election:
+(A) Obtain from the local county elections office what address information  students living in
+on-campus housing must provide in order  to receive election ballots in the event a student chooses
+to vote using the student’s campus address; and
+(B) Make the information obtained under subparagraph (A) of  this paragraph available to the
+school’s [ official] student government or its equivalent.
+SECTION 9.
+ ORS 350.330 is amended to read:
+350.330. (1) In addition to the written protocol adopted under ORS  350.331, each institution of
+higher education shall adopt written policies concerning  sexual harassment, sexual assault, domestic
+violence, dating violence and stalking that occur both on and off campus.
+(2) Written policies adopted under this section must include:
+(a) The adoption of the definition of sexual  harassment “Sexual harassment is unwelcome con-
+duct of a sexual nature. Sexual harassment can include unwelcome sexual  advances, requests for
+sexual favors, or other verbal, nonverbal or physical conduct of a sexual nature  where such conduct
+is sufficiently severe or pervasive that it has the effect, intended or unintended,  of unreasonably
+interfering with an individual’s work or  academic performance or it has created an intimidating,
+hostile or offensive environment and would have such an effect on a reasonable person.”
+(b) Procedures to address sexual harassment.
+(c) Provisions clarifying that the institution of higher education is required to conduct  an initial
+inquiry, or to make contact with  named parties, whenever a designated responsible employee has
+actual knowledge, or  in the exercise of reasonable care should know, that possible sexual
+harassment, sexual assault, domestic violence, dating violence or stalking has occurred.
+(d) A jurisdictional statement  explaining that the institution will analyze and may have an ob-
+ligation to respond to any complaint received by the institution, regardless  of whether the incident
+occurred on the campus of the institution or elsewhere, that relates to:
+(A) Sexual harassment;
+(B) Sexual assault;
+(C) Domestic violence;
+(D) Dating violence; or
+(E) Stalking.
+(3) Written policies adopted under subsection (2) of this section must:
+(a) Be written in plain language;
+(b) Use print that is of a color, size and font that allow the notification to be easily read; and
+(c) Be made available to students:
+(A) When sexual harassment, sexual assault, domestic violence, dating violence or  stalking is
+reported;
+(B) During student orientation; and
+(C) On the Internet website of the institution of higher education.
+(4) In addition to the written policies adopted under subsection (2)  of this section, each institu-
+tion of higher education shall require that all Title IX coordinators, hearing officers, process advi-
+sors, institution investigators, third-party contracted  investigators, campus security officers and any
+other individual who works at the institution who may be required  to assist in conducting an in-
+vestigation that is subject to Title IX of the Education Amendments Act  of 1972, 20 U.S.C. 1681 to
+1688, as amended, participate in annual training. The training required by this subsection must  in-
+clude:
+(a) The relevant definitions and dynamics of sexual harassment, sexual assault,  domestic vi-
+olence, dating violence and stalking;
+(b) The prevalence of sexual harassment, sexual assault, domestic violence,  dating violence and
+stalking both overall and, to the extent relevant data exists, within the educational and employment
+contexts;
+(c) Trauma-informed best practices for how to serve reporting and responding students, including
+utilizing trauma-informed principles of support or student-centered frameworks;
+(d) Best  practices for addressing bias and increasing accessibility for students through the use
+of an anti-oppression framework; and
+(e) For investigators, how to conduct effective interviews,  including best practices for inter-
+viewing sexual assault survivors.
+(5) In addition  to containing the material described in subsection (4) of this section, training
+plans and materials required by this section shall:
+(a) Include principles related to providing  trauma-informed and culturally responsive processes,
+procedures and victim services;
+(b) Be gender-responsive, but not reliant on gender stereotypes; and
+(c) Recognize  and account for the unique needs of individuals who identify as lesbian, gay,
+bisexual, transgender, gender nonconforming or gender nonbinary.
+(6) As used in this section:
+(a) “Anti-oppression,” “culturally responsive,” “gender-responsive” and  “trauma-informed” shall
+be defined  by each institution of higher education in consultation with the [ recognized ] student
+government of the institution.
+(b) “Institution of higher education” means:
+(A) A public university listed in ORS 352.002;
+(B) Oregon Health and Science University;
+(C) A community college operated under ORS chapter 341; or
+(D) An Oregon-based private university or college.
+SECTION 10.
+ ORS 352.076 is amended to read:
+352.076. (1) A governing board for a public university must be  formed and maintained as pro-
+vided in this section.
+(2)(a) A governing board  shall consist of between 12 and 16 voting members and two nonvoting
+members. The Governor shall appoint all of the 12 to 16 voting members of the governing board and
+a nonvoting undergraduate student member of the governing board, subject to  confirmation by the
+Senate in the manner provided in ORS 171.562 and 171.565.
+(b)(A) The governing board must include two persons who are  undergraduate students enrolled
+at the university. One undergraduate student shall  be a voting member of the board and one
+undergraduate student shall be a nonvoting member of the board.
+(B) The term of office for students appointed under this paragraph shall be staggered, such  that,
+to the degree practicable, a student serves as a nonvoting member of the board  during the first year
+of the student’s term of office  and as a voting member of the board during the second year of the
+student’s term of office.
+(C) The undergraduate student members  of the governing board shall be nominated through an
+internal governance  process held by the [ official] student government, or similar [ official] student
+governance structure, with the candidates nominated provided to the Governor for consideration.
+More than one candidate per member position  on the governing board may be nominated under this
+subparagraph.
+(c)(A) The governing board must include one person who is a graduate student enrolled at the
+university  if:
+(i) The university has more than 400 graduate students; or
+(ii) Graduate students comprise more than 15 percent of  the total number of students enrolled
+at the university.
+(B) The graduate student member of the governing board shall be:
+(i) If applicable, nominated through  an internal governance process held by the [ official] student
+government, or similar graduate  student governance structure or graduate student union, with the
+candidate nominated provided to the Governor for consideration; and
+(ii) A voting member of the board.
+(C) More than one  candidate per member position on the governing board may be nominated
+under this paragraph.
+(d)(A) The governing board  must include one person who is a member of the faculty of the uni-
+versity and one person who is a member of the nonfaculty staff of the university.  Each person ap-
+pointed under this paragraph shall be a voting member of the governing board.
+(B) The faculty member of the governing board shall be  nominated through an internal
+governance process held by the official faculty senate, or similar official  faculty governance struc-
+ture or faculty union at the university,  with the candidate nominated provided to the Governor for
+consideration. More than one candidate per  member position on the governing board may be nomi-
+nated under this subparagraph.
+(C) The nonfaculty staff member of the governing board shall be nominated  through an internal
+governance process held by the official nonfaculty  staff senate, or similar official nonfaculty staff
+governance structure or nonfaculty staff union  at the university, with the candidate nominated
+provided to the Governor for consideration. More than one candidate per member position on  the
+governing board may be nominated under this subparagraph.
+(3) If  the candidates required to be nominated under subsection (2)(b) to (d) of this section are
+represented by multiple organizations, the  organizations shall use best efforts to reach agreement
+on which candidate or  candidates to nominate per member position of the governing board. If the
+organizations cannot agree on  who to nominate for a member position on the governing board, each
+organization may select one or more candidates to be nominated.
+(4) The president  of the university shall be an ex officio nonvoting member of the governing
+board.
+(5)(a) Except as provided in  paragraph (b) of this subsection, the term of office for each ap-
+pointed member of the governing board is four years.
+(b) The term of office of each student, faculty  and nonfaculty staff member of the governing
+board is two years.
+(c) A member of the governing board may not be appointed  to serve more than two consecutive
+full terms.
+(d) The Governor may  remove any appointed member of the governing board at any time for
+cause, after  notice and public hearing, but may not remove more than three members within a period
+of four years, unless it is for corrupt conduct in office.
+(e) Vacancies  shall be filled by appointment by the Governor for the remainder of the unexpired
+term.
+(6)(a) The faculty and nonfaculty staff members of the governing board  may not participate in
+any discussions or action by the board or attend any executive session of the  board involving col-
+lective bargaining issues that affect faculty or nonfaculty staff at the university.
+(b) The graduate student and undergraduate student members of the  governing board may not
+participate in any discussions or action by the board or attend any executive session of  the board
+involving collective bargaining issues that affect graduate  students or undergraduate students at the
+university.
+(7) The governing board shall select one of its members as chairperson and another  as vice
+chairperson for such terms and with duties and powers as the board considers necessary for the
+performance of the functions of those  offices. The governing board shall adopt bylaws concerning
+how a quorum is constituted and when a quorum is necessary.
+(8) The governing board  shall meet at least four times per year, and may meet at the call of the
+chairperson or a majority of the voting members of the board.
+(9) This section may not be interpreted to prohibit any person from using a  process or method
+not described in this section  to seek nomination from the Governor to a member position on the
+governing board for which the person is qualified.
+SECTION 11.
+ ORS 352.103 is amended to read:
+352.103. (1) Each public university listed in ORS 352.002 shall have an advisory  body to advise
+the president of the university on the president’s recommendations  to the governing board regarding
+resident tuition and mandatory enrollment fees for the upcoming academic year.
+(2) The public university shall:
+(a) Establish a process to ensure that the advisory body required under  subsection (1) of this
+section is composed of no fewer than:
+(A) Two administrators of the university;
+(B) Two faculty members of the university;
+(C) Two students representing the [ recognized ] student government of the university; and
+(D) Two students representing historically underserved students of the  university, as defined by
+the public university.
+(b) Establish a written document  describing the role of the advisory body and the relationship
+of the advisory body to the public university, president of the university and the governing board.
+(3) The public university shall ensure that all members of the advisory body are offered training
+on:
+(a) The budget of the public university;
+(b) The mechanisms by  which moneys are appropriated by the Legislative Assembly to the
+Higher Education Coordinating Commission for allocation to public universities; and
+(c) Historical data  regarding the relationship between the amount of resident tuition and man-
+datory enrollment fees charged by  the public university and the amount of state appropriations that
+the commission allocates to the public university.
+(4) In order to assist  the advisory body in making its recommendations, the public university
+shall provide the advisory body with:
+(a) A plan for how the governing  board and the public university’s administration are managing
+costs on an ongoing basis; and
+(b) A plan for how resident  tuition and mandatory enrollment fees could be decreased if the
+public university receives more moneys from the state than anticipated.
+(5) Before making a recommendation to the president of  the university that resident tuition and
+mandatory enrollment fees should be increased by more  than five percent annually, the advisory
+body must document its consideration of:
+(a) The impact of the resident tuition  and mandatory enrollment fees that the advisory body
+intends to recommend to the president of the public university on:
+(A) Students at the public university, with an emphasis on historically underserved  students, as
+defined by the public university; and
+(B) The mission of the  public university, as described by the mission statement adopted under
+ORS 352.089; and
+(b) Alternative scenarios that involve smaller increases  in resident tuition and mandatory en-
+rollment fees than the advisory body intends to recommend to the president of the  public university.
+(6) The advisory body shall:
+(a) Provide meaningful opportunities for members of the  [ recognized ] student government and
+other students enrolled at the public university to participate  in the process and deliberations of the
+advisory body; and
+(b) At a time  established by the public university, provide a written report to the president of
+the university that sets  forth the recommendations, deliberations and observations of the advisory
+body regarding resident tuition and mandatory enrollment fees for the upcoming academic  year. The
+written report must include any minority report requested by a member of the advisory body and
+any documents produced or received by the advisory body under subsections (4) and (5)  of this sec-
+tion.
+(7) Each public university shall ensure that the process of establishing resident tuition  and
+mandatory enrollment fees at the public university is described on the  Internet website of the public
+university. This material must include, but is not limited to:
+(a) The written  document produced by the public university under subsection (2)(b) of this sec-
+tion; and
+(b) All relevant documents, agendas and  data that are considered by the advisory body during
+its deliberations.
+(8) As used in this section,  “resident tuition and mandatory enrollment fees” means the tuition
+and mandatory enrollment fees for undergraduate students who are  enrolled in a degree program
+and have established residency in Oregon.
+SECTION 12.
+ ORS 353.040 is amended to read:
+353.040. (1) There is established an Oregon Health and Science University Board  of Directors
+consisting of 11 members. The directors, except for the president of the university, shall be ap-
+pointed by the Governor and shall be confirmed by the Senate in the manner prescribed in  ORS
+171.562 and 171.565.
+(2)(a) The term of office of each person described in subsection (3)(a) of this section is four
+years.
+(b) Except for the president of  the university, the term of office of each member other than a
+person described in subsection (3)(a) of this section is two years.
+(c) Before the expiration of the term of a member,  the Governor shall appoint a successor whose
+term begins  on October 1 next following. A member is eligible for reappointment for one additional
+term. If  there is a vacancy for any cause, the Governor shall make an appointment to become ef-
+fective immediately for the unexpired  term. The board shall nominate a slate of candidates whenever
+a vacancy  occurs or is announced and shall forward the recommended candidates to the Governor
+for consideration. To assist the Governor in appointing the student member, the duly organized  [and
+recognized entity of ] student government shall submit a list of nominees to the Governor for  consid-
+eration.
+(3) The membership of the board shall be as follows:
+(a) Seven representatives who, in the discretion of the  Governor, have experience in areas re-
+lated to the university missions or that are important to the success of Oregon Health  and Science
+University, including but not limited  to higher education, health care, scientific research, engineer-
+ing and technology and economic and business development. Representatives appointed  under this
+paragraph shall be voting members of the board.
+(b) One representative who is a student enrolled at the university. The student shall be  a voting
+member of the board.
+(c) One representative who is a member of the faculty of the  university. The faculty member
+shall be a voting member of the board.
+(d) One representative who is a member of the nonfaculty staff of the university. The  nonfaculty
+staff member shall be a voting member of the board.
+(e) The president of the university, who shall be an ex officio voting member.
+(4) Directors must be citizens of the United States.
+(5) The faculty and nonfaculty staff members of the  board may not participate in any discussions
+or action by the board or attend any executive session of the board involving  collective bargaining
+issues that affect faculty or nonfaculty staff at the university.
+(6) The board shall select one of its members as  chairperson and another as vice chairperson for
+such terms and with such duties and powers as the board considers necessary for performance of
+the functions of those offices. The board  shall adopt bylaws concerning how a quorum shall be
+constituted and when a quorum shall be necessary.
+(7) The board shall meet  at least once every three months at Oregon Health and Science Uni-
+versity. The board shall meet at such other times  and places specified by the chairperson or by a
+majority of the members of the board.
+(8) The Governor may  remove any member of the board at any time for cause, after notice and
+public hearing, but not more than three members shall be removed within a  period of four years,
+unless it is for corrupt conduct in office.
+SECTION 13.
+ ORS 353.050 is amended to read:
+353.050. Except as otherwise  provided in this chapter, the Oregon Health and Science University
+Board of Directors, or university officials acting under the  authority of the board, shall exercise all
+the powers of  the Oregon Health and Science University and shall govern the university. In carrying
+out its powers, rights and privileges, the university shall be  a governmental entity performing gov-
+ernmental functions and exercising  governmental powers. The university or the board may either
+within or outside the state:
+(1) Determine or approve policies  for the organization, administration and development of the
+university.
+(2) Appoint  and employ any instructional, administrative, professional, trade, occupational and
+other personnel as are  necessary or appropriate to carry out the missions of the university, and
+prescribe their compensation and terms of office or employment.
+(3) Make any and all contracts and  agreements, enter into any partnership, joint venture or
+other business  arrangement, create and participate fully in the operation of any business structure,
+including but not limited to the development of business  structures for health care delivery systems
+and networks with any public or private government,  nonprofit or for-profit person or entity that in
+the judgment of the university or the board is necessary or appropriate to carry out  the university’s
+missions and goals.
+(4) Acquire, purchase, receive, hold, control, convey, sell, manage, operate, lease, license, lend,
+invest, improve, develop, use, dispose of and  hold title to real and personal property of any nature,
+including intellectual property, in its own name.
+(5) Sue in its own  name and be sued, plead and be impleaded in all actions, suits or proceedings
+in any forum brought by or against it by any and all private or state, local, federal or  other public
+entities, agencies or persons.
+(6) Encourage gifts and donations for the benefit of the university, and subject to the terms  of
+the gift, retain, invest and use such gifts as deemed appropriate by the university or the board.
+(7) Acquire, receive, hold, keep, pledge, control, convey, manage, use, lend,  expend and invest
+all funds, appropriations, gifts, bequests, stock and revenue from any source to the university.
+(8) Borrow money for the needs of the university,  in such amounts and for such time and upon
+such terms as may be determined by the university or the board.
+(9) Erect, construct, improve,  develop, repair, maintain, equip, furnish, lease, lend, convey, sell,
+manage, operate, use, dispose of and hold title to buildings, structures and lands for the university.
+(10) Purchase any and all  insurance, operate a self-insurance program or otherwise arrange for
+the equivalent of insurance coverage of any nature  and the indemnity and defense of its officers,
+agents and employees or other persons designated by the university to carry out or further the
+missions of the university.
+(11) Create, develop, supervise, control and adopt  academic programs, including standards,
+qualifications, policies or practices relating to admissions, curriculum, academic advancement,
+grading policy, student conduct, credits and scholarships and the granting of academic degrees,
+certificates and other forms of recognition.
+(12) Authorize, create, eliminate,  establish, operate, reorganize, reduce or expand any program,
+school, institute, health care facility or other unit of operation.
+(13) Establish, charge, collect and use charges for  enrollment into the university, including
+charges such as tuition for education and general services, incidental fees  and such other charges
+found by the university to be necessary to carry out its educational programs.  Fees realized in ex-
+cess of amounts allocated and exceeding required reserves shall  be considered surplus incidental
+fees and shall  be allocated for programs under the control of the board and found to be advanta-
+geous to the  cultural or physical development of students of the university upon the recommendation
+of the [ recognized ] student government of the university.
+(14) Establish, charge, collect and use charges and fees for university services and the use  of
+university facilities.
+(15) Impose charges, fines,  fees and such other regulations considered convenient or necessary
+to control and regulate traffic and parking of vehicles to the  same extent allowed governing boards
+of public universities listed in ORS  352.002. This authority includes the authority to enforce the
+regulations of the university  in a court to the extent allowed the governing board of a public uni-
+versity listed in ORS 352.002 in ORS 352.118.
+(16) Enforce and recover for payment to the university any fines that are authorized  by this
+chapter.
+(17) Adopt, amend or repeal bylaws, administrative rules, regulations and orders applicable to
+the matters that are the subject of this chapter.
+(18) Contract with any state agency for the performance of such duties, functions and powers
+as is appropriate. A state agency shall not charge the university for such services an  amount that
+is greater than the actual cost of the services.
+(19) Purchase, receive, subscribe for or otherwise acquire, own, hold, vote,  use, sell, mortgage,
+lend, pledge, invest in or otherwise dispose of and deal in or with the shares, stock or other equity
+or interests  in or obligations of any other entity. Separate funds may be established for such in-
+vestments. The State of Oregon shall have no proprietary or other interest in such investments  or
+such funds.
+(20) Make available,  by lease or otherwise, or control access to any health care facilities or
+services or other of its properties and assets to  such persons, firms, partnerships, associations or
+corporations and on such terms  as considered appropriate, charge and collect rent or other fees or
+charges therefor and terminate or deny any such access or any such lease or  other agreement for
+such reasons as considered  appropriate and as may be consistent with its obligations under any such
+lease or other agreement.
+(21) Contract  for the operation of any department, section, equipment or holdings of the uni-
+versity and enter into any agreements with any person, firm or corporation for the  management by
+said person, firm or corporation  on behalf of the university of any of its properties or for the more
+efficient or economical performance of clerical, accounting, administrative  and other functions re-
+lating to its health care facilities.
+(22) Select and appoint faculty as  medical and dental staff members and others licensed to
+practice the healing arts, delineate and  define the privileges granted each such individual, adopt and
+direct a plan for faculty  clinical income and set the terms and conditions of that plan (including
+such modifications to any such existing plan as considered necessary or  appropriate upon expiration
+of the term of such plan), and determine the extent to which and the terms upon which each  such
+individual may provide teaching, research, consulting or other services at  the university or any
+other health care facility.
+(23) Enter into affiliation, cooperation, territorial, management or other  similar agreements with
+other public or private universities or health care providers for the  sharing, division, allocation or
+furnishing of services on an exclusive or a nonexclusive basis, referral  of patients, management of
+facilities, formation of health care delivery systems and other similar activities.
+(24) Perform any  other acts that in the judgment of the board or university are requisite, nec-
+essary or appropriate in accomplishing  the purposes described in or carrying out the powers granted
+by this chapter.
+(25) Exercise these powers, notwithstanding that as a consequence of the exercise of such  pow-
+ers, the university engages in activities  that might otherwise be deemed anticompetitive within the
+contemplation of state or federal antitrust laws.
+(26) Require the inclusion of at least one faculty member, one nonfaculty staff  member and one
+member of the student body as part of a presidential search committee.
+(27) Allow a representative from official campus labor organizations to provide comments  or
+report to the governing  board at regularly scheduled meetings of the governing board if the repre-
+sentative has requested the  opportunity to provide comments or report to the board in advance of
+the meeting.
+SECTION 14.
+ ORS 743.550 is amended to read:
+743.550. (1) Student health insurance  is subject to ORS 743.537, 743.540, 743.543, 743.546 and
+743B.475, except as provided in this section.
+(2) Coverage under a student health insurance policy  may be mandatory for all students at the
+institution, voluntary  for all students at the institution, or mandatory for defined classes of students
+and voluntary for other classes of students. As used in  this subsection, “classes” refers to under-
+graduates, graduate students,  domestic students, international students or other like classifications.
+Any differences based on a  student’s nationality may be established only for the purpose of com-
+plying with federal law in effect when the policy is issued.
+(3) When coverage under a student health insurance  policy is mandatory, the policyholder may
+allow any  student subject to the policy to decline coverage if the student provides evidence ac-
+ceptable to the policyholder that the student has similar health coverage.
+(4) A student health insurance policy may provide for  any student to purchase optional supple-
+mental coverage.
+(5) Student health insurance coverage for athletic injuries may:
+(a) Exclude coverage for  injuries of students who have not obtained medical release for a similar
+injury; and
+(b) Be  provided in excess of or in addition to any other coverage under any other health insur-
+ance policy, including a student health insurance policy.
+(6) A student health insurance  policy may provide that coverage under the policy is secondary
+to any other health insurance for purposes of guidelines established under ORS 743B.475.
+(7) A student health insurance policy may provide, on request by the policyholder, that  all or
+any portion of  any indemnities provided by such policy on account of hospital, nursing, medical or
+surgical services may, at the insurer’s option, be  paid directly to the hospital or person rendering
+such services. However,  the amount of any such payment shall not exceed the amount of benefit
+provided by the policy  with respect to the service or billing of the provider of aid. The amount of
+such payments pursuant to one or more  assignments shall not exceed the amount of expenses in-
+curred on account of such hospitalization or medical or surgical aid.
+(8) An insurer providing student health insurance as primary coverage  may negotiate and enter
+into contracts  for alternative rates of payment with providers and offer the benefit of such alterna-
+tive rates to insureds who  select such providers. An insurer may utilize such contracts by offering
+a choice of plans at the time an insured enrolls, one of  which provides benefits only for services by
+members of a  particular provider organization with whom the insurer has an agreement. If an in-
+sured chooses such a plan, benefits  are payable only for services rendered by a member of that
+provider organization, unless  such services were requested by a member of such organization or are
+rendered as the result of an emergency.
+(9) Payments made under subsection (8) of this section  shall discharge the insurer’s obligation
+with respect to the amount of insurance paid.
+(10) An insurer shall provide each student health insurance policyholder with a  current roster
+of institutional  and professional providers under contract to provide services at alternative rates
+under the group policy and shall also make such lists available for public  inspection during regular
+business hours at the insurer’s principal office within this state.
+(11) As used in this section, “student health insurance”:
+(a) Means that  form of health insurance under a policy issued to a college, school or other in-
+stitution of learning, a school district or districts, or school jurisdictional unit, or  [ recognized ] stu-
+dent government at a public university listed  in ORS 352.002, or to the head, principal or governing
+board of any such educational unit, who or which shall be deemed  the policyholder, that is available
+exclusively to students at the college, school or other institution.
+(b) Does not include a student health benefit plan as defined in ORS 743.551.
+CAPTIONS
+SECTION 15.
+The unit captions used in this 2026 Act are provided only for the conven-
+ience of the reader and do not become part of the statutory law of this  state or express any
+legislative intent in the enactment of this 2026 Act.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 260.432, ORS 341.470, ORS 350.205, ORS 350.245, ORS 350.330, ORS 352.029, ORS 352.076, ORS 352.103, ORS 352.105, ORS 353.040, ORS 353.050, ORS 743.550
+- From bill text (Introduced version): ORS 171.562, ORS 171.565, ORS 174.109, ORS 250.045, ORS 254.470, ORS 260.432, ORS 286A.001, ORS 334.108, ORS 341.005, ORS 341.470, ORS 350.205, ORS 350.245, ORS 350.330, ORS 350.331, ORS 352.002, ORS 352.025, ORS 352.029, ORS 352.076, ORS 352.089, ORS 352.102, ORS 352.103, ORS 352.105, ORS 352.118, ORS 353.040, ORS 353.050, ORS 401.165, ORS 433.441, ORS 743.537, ORS 743.540, ORS 743.543, ORS 743.546, ORS 743.550, ORS 743.551, ORS 743B.475
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-28, sha256 `bd9925ec0d791ab1070604727194c817fd4022659df3f51767f03d17071c290c` (snapshot `_meta/snapshots/measure-2026r1-hb4122-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4122/Introduced>.
+- **Measure metadata:** retrieved 2026-07-28 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4122` (part of the batched per-session fetch), sha256 `24ae6bdc7627edf95bbe00a05a147417c7b8bb4753dc857212807a4403e9e192` of the shared session snapshot `_meta/snapshots/measures-2026r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

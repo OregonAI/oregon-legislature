@@ -1,0 +1,457 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4089
+Sponsored by Representative TRAN, Senator NERON MISSLIN, Representatives MUNOZ,  CHAICHI, RIEKE
+SMITH, SMITH G, Senator MANNING JR;  Representatives ANDERSEN, BOWMAN, EVANS, FRAGALA,
+GAMBA, HUDSON, ISADORE, JAVADI, MCDONALD, MCLAIN, NELSON,  SOSA, WISE, Senators CAMPOS,
+GELSER BLOUIN, GOLDEN, JAMA, PATTERSON (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act expands the crime of theft of services and changes some  crimes relating to
+contractor licenses. (Flesch Readability Score: 60.1).
+Specifically includes in the crime of  theft of services the nonpayment of compensation of em-
+ployees and independent contractors.
+Provides  that  a prosecution for theft of services constituting wage theft does not preclude other
+forms of relief.
+Directs specified state agencies to report wage theft to the Attorney General or district attor-
+ney.
+Punishes the use of an unlicensed labor contractor by a maximum penalty of five years’
+imprisonment, $125,000 fine, or both.
+Punishes the  use of an unlicensed contractor, or the use of a contractor’s license number to
+deceive the public, by a maximum penalty of five years’ imprisonment, $125,000 fine, or both.
+A BILL FOR AN ACT
+Relating to criminal offenses related to work; creating new provisions; and amending ORS 164.125,
+443.004, 658.991 and 701.990.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 164.125 is amended to read:
+164.125. (1) A person commits the crime of theft of services if:
+(a) With intent to avoid payment therefor, the person obtains services that are available only
+for compensation, by force, threat, deception or other means  to avoid payment for the services;
+[or]
+(b) Having  control over the disposition of labor or of business, commercial or industrial equip-
+ment or facilities  of another, the person uses or diverts to the use of the person or a third person
+such labor, equipment or facilities with intent to derive for  the person or the third person a com-
+mercial benefit to which the person or the third person is not entitled[ .]; or
+(c) The person is an employer and:
+(A) Fails to pay the agreed-upon wage, salary or other compensation  of an employee or
+independent contractor for work performed;
+(B) Pays less than the full  amount of agreed-upon wages, salary or other compensation
+owed to an employee or independent contractor for work performed;
+(C) Pays an employee a wage below the minimum wage established by  federal, state or
+local law;
+(D) Fails to pay overtime wages to an employee as required by law;
+(E) Requires an employee or  independent contractor to perform work without compen-
+sation;
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 150
+HB 4089
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(F) Withholds or  diverts any portion of wages, tips, gratuities, commissions or service
+fees owed to an employee or  independent contractor without legal or contractual justifica-
+tion;
+(G) As a condition of employment,  requires an employee or independent contractor to
+return, directly or  indirectly, any portion of wages, salary or other compensation, unless the
+deduction or withholding is permitted under ORS 652.610 (3); or
+(H) Makes a deduction from the wages or compensation of an employee  or independent
+contractor without express written consent or lawful authorization.
+[(2) As  used in this section, “services” includes, but is not limited to, labor, professional services,
+toll facilities, transportation, communications service, entertainment, the  supplying of food, lodging or
+other accommodations in hotels, restaurants or elsewhere, the  supplying of equipment for use, and the
+supplying of commodities  of a public utility nature such as gas, electricity, steam and water. “Commu-
+nication service” includes, but is not limited to, use of telephone, computer and  cable television
+systems.]
+[(3)] (2) Absconding without payment or offer to pay for hotel,  restaurant or other services for
+which compensation is customarily paid  immediately upon the receiving of them is prima facie evi-
+dence that the services  were obtained with intent to avoid payment therefor. Obtaining the use of
+any communication system the use of which is available only for compensation,  including but not
+limited to  telephone, computer and cable television systems, or obtaining the use of any services of
+a public utility nature, without payment or offer to pay for such use  is prima facie evidence that the
+obtaining of the use of such system or the use of such services was gained with intent  to avoid
+payment therefor.
+[(4)] (3) The value of single theft transactions may be added  together if the thefts were com-
+mitted:
+(a) Against multiple victims by a similar means within a 30-day period; or
+(b) Against the same victim, or two or more persons who are joint owners, within  a 180-day
+period.
+[(5)] (4) Theft of services is:
+(a) A Class C misdemeanor if the  aggregate total value of services that are the subject of the
+theft is less than $100;
+(b) A Class A misdemeanor if the aggregate total value of services that are  the subject of the
+theft is $100 or more and less than $1,000;
+(c) A Class C felony if the aggregate  total value of services that are the subject of the theft is
+$1,000 or more; and
+(d) A Class B felony if the aggregate total value of services that are  the subject of the theft is
+$10,000 or more.
+(5) The value of services that are the subject of theft under  subsection (1)(c) of this
+section is the value of the  labor or professional services provided without compensation, and
+specifically shall be determined as follows:
+(a) For theft of services described in subsection (1)(c)(B) of this section,  the difference
+between the amount paid to the employee or  independent contractor and the agreed-upon
+wages, salary or other compensation.
+(b) For theft of services described in subsection (1)(c)(C) of  this section, the difference
+between the wage paid and the applicable state or  local minimum wage, whichever is greater.
+(c) For theft of services described in subsection (1)(c)(F) of this  section, the amount of
+[2]
+HB 4089
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+withheld or diverted wages, tips, gratuities, commissions or service fees.
+(d) For theft of services described in subsection (1)(c)(G)  of this section, the amount of
+the returned wages, salary or other compensation.
+(6) As used in this section:
+(a) “Communication service” includes, but is  not limited to, use of telephone, computer
+and cable television systems.
+(b) “Employer” includes a person who enters  into a contract with an independent con-
+tractor for the performance of work.
+(c) “Services” includes, but  is not limited to, labor, professional services, toll facilities,
+transportation, communications service, entertainment, the supplying of food,  lodging or
+other accommodations in hotels, restaurants or elsewhere, the supplying of equipment  for
+use, and the supplying of commodities of a public utility nature such as gas,  electricity,
+steam and water.
+SECTION 2.
+A criminal prosecution  under ORS 164.125 (1)(c) does not preclude any em-
+ployee, independent contractor, authorized third  party representative or the Commissioner
+of the Bureau of Labor and Industries from commencing  a civil action or administrative
+proceeding to seek wages, compensation, penalties, damages or other remedies  as provided
+by law.
+SECTION 3. If the Bureau of Labor and Industries, the  Employment Department, the
+Department of Consumer  and Business Services or the Department of Revenue identify a
+pattern of conduct that may constitute theft of services under ORS 164.125 (1)(c), the  agency
+shall refer the matter for investigation to the Attorney General or  the district attorney of
+the county in which the conduct occurred.
+SECTION 4.  ORS 658.991 is amended to read:
+658.991. (1) Violation of ORS 658.005 to 658.245 or 658.250 is a Class C misdemeanor.
+(2) Violation of ORS 658.452 is a Class A misdemeanor.
+(3) Any person who intentionally defaces, alters or changes a license or permit to act as  a labor
+contractor, or who uses the license or permit of another or knowingly permits  that person’s license
+or permit to be used by another, or who acts as a labor contractor without a valid  license or permit
+under ORS 658.405 to 658.511, commits a Class A misdemeanor.
+(4) Any person  who willfully swears or affirms falsely under ORS 658.415 (1), (2) or (3) in regard
+to any matter concerning  which an oath or affirmation is required, or who solicits or induces an-
+other person  to do so, whether or not the matter sworn to or affirmed is material, commits a Class
+A misdemeanor.
+(5) Violation of ORS 658.440  (1)(f), (g) or (h), (2)(c) or (3)(a), (b), (c), (e), (f) or (g) is a Class C
+misdemeanor.
+(6) Any person who violates the  provisions of ORS 658.410 (1) or 658.417 (1) commits a Class C
+felony if:
+(a) The person has previously been convicted of violating the  provisions of ORS 658.410 (1) or
+658.417 (1);
+(b) The person’s license to act as a labor contractor has been suspended, revoked or denied; or
+(c) The person is acting in violation of  an outstanding order of any court of competent juris-
+diction arising out of the enforcement of ORS 658.405 to 658.511.
+(7) Any person who  uses the services of an unlicensed labor contractor and who knows,
+or should have known, that the contractor is violating ORS  658.410 commits a Class C felony.
+[3]
+HB 4089
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+SECTION 5.
+ ORS 701.990 is amended to read:
+701.990. (1) Violation of ORS 701.021 is a Class A misdemeanor.
+(2) A person  who uses the services of a contractor and who knows, or should have
+known, that the contractor is violating ORS 701.021 commits a Class C felony.
+[(2)] (3)  The intentional use of a contractor’s license number without the authorization  of the
+licensed contractor is a Class A misdemeanor.
+[(3)] (4) The  use of a contractor’s license number, with or without  the authorization of the li-
+censed contractor, with the intent to deceive the public is a [ Class A  misdemeanor ] Class C
+felony.
+(5) The authorization  by a licensed contractor for another person to use the contractor’s
+license number with the intent to deceive the public is a Class C felony.
+SECTION 6.
+ ORS 443.004 is amended to read:
+443.004. (1)(a) The Department of Human  Services or the Oregon Health Authority shall com-
+plete a criminal records check under ORS 181A.195 on:
+(A) An employee of a residential facility or an adult foster home;
+(B) Any individual who is paid directly or indirectly with public funds who has or  will have
+contact with a recipient of support services or a resident  of an adult foster home or a residential
+facility;  and
+(C) A home care worker or personal support worker registering with the Home Care Commission
+or renewing a registration with the Home Care Commission.
+(b) The department or the authority shall complete the criminal  records check under paragraph
+(a) of this subsection not more than once during  an 18-month period unless the department or the
+authority:
+(A) Receives credible evidence of a new criminal conviction;
+(B) Receives credible evidence to substantiate a complaint of abuse or neglect;
+(C) Is required by federal law to conduct more frequent criminal records checks;
+(D) Is notified that a subject individual has changed positions or duties for  which there are
+different criminal records check requirements; or
+(E) Determines,  under criteria set forth in rules adopted by the department or the authority,
+that it would be burdensome for a subject individual to wait for a new criminal records check.
+(2)(a) A home health agency shall  conduct a criminal background check before hiring or con-
+tracting with an individual  and before allowing an individual to volunteer to provide services on
+behalf of the home health agency, if the  individual will have direct contact with a patient of the
+home health agency.
+(b) An in-home care agency shall conduct a criminal background check before hiring or  con-
+tracting with an individual and before allowing an individual to volunteer to  provide services on
+behalf of the in-home care agency, if the individual will have direct contact with a  client of the in-
+home care agency.
+(c) The authority shall prescribe by  rule the process for conducting a criminal background
+check.
+(3) Public funds may not be used to  support, in whole or in part, the employment in any capacity
+having contact with a  recipient of support services or a resident of a residential facility or an adult
+foster home, of an individual, other than a mental health or substance abuse treatment provider,
+who has been convicted:
+(a) Of a crime described  in ORS 163.095, 163.107, 163.115, 163.118, 163.125, 163.145, 163.149,
+[4]
+HB 4089
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+163.165, 163.175, 163.185, 163.187, 163.200, 163.205, 163.225, 163.235, 163.263, 163.264, 163.266, 163.275,
+163.465, 163.467, 163.535, 163.537, 163.547, 163.689, 163.700, 163.701, 164.055, 164.057, 164.098, 164.125
+[(5)(c)] (4)(c)  or (d), 164.215, 164.225, 164.325, 164.377 (2) or (3),  164.405, 164.415, 165.013, 165.022,
+165.032, 165.800, 165.803, 167.012, 167.017, 167.057, 167.320 or 167.322;
+(b) Notwithstanding paragraph (a)  of this subsection, of a crime described in ORS 163.465,
+163.467, 163.700, 163.701, 164.055, 164.125 or 164.377, the date of conviction for which was within  the
+five years immediately preceding employment in any capacity of an  individual, other than a mental
+health or substance abuse treatment  provider, having contact with a recipient of support services,
+a resident of a residential facility or a resident of an adult foster home, when the recipient or resi-
+dent is 65 years of age or older;
+(c) Of a crime listed in ORS 163A.005;
+(d) In  the last 10 years, of a crime involving the delivery or manufacture of a controlled sub-
+stance;
+(e) Of an attempt, conspiracy or solicitation to commit a crime described  in paragraphs (a) to
+(d) of this subsection; or
+(f) Of a crime in another jurisdiction that is substantially equivalent, as defined by  rule, to a
+crime described in paragraphs (a) to (e) of this subsection.
+(4) If the criminal background check  conducted by a home health agency or in-home care agency
+under subsection (2) of this section reveals that  the individual who is subject to the criminal back-
+ground check has been convicted of any of the crimes described in subsection (3) of this  section, the
+home health agency or in-home care agency may not employ the individual.
+(5) Public funds may not be used to support, in whole  or in part, the employment, in any ca-
+pacity having contact with  a recipient of support services or a resident of a residential facility or
+an adult foster home, of a mental  health or substance abuse treatment provider who has been con-
+victed of committing, or  convicted of an attempt, conspiracy or solicitation to commit, a crime de-
+scribed in ORS 163.095, 163.107, 163.115, 163.375, 163.405, 163.411 or 163.427.
+(6) Upon the request of a mental health or substance abuse treatment provider,  the department
+or authority shall maintain a record of the results of any fitness determination made under  ORS
+181A.195 (10). The department  or authority may disclose the record only to a person the provider
+specifically authorizes, by a written release, to receive the information.
+(7) If the department or authority  has a record of substantiated abuse committed by an employee
+or potential employee of a home health agency, in-home care agency,  adult foster home or residen-
+tial facility, regardless of whether criminal charges were filed, the department or authority  shall
+notify, in writing, the employer and the employee or potential employee and may  conduct a fitness
+determination in accordance with this section and ORS 181A.195.
+(8) As used in this section:
+(a) “Adult foster home” has the meaning given that term in ORS 443.705.
+(b) “Home care worker” has the meaning given that term in ORS 410.600.
+(c) “Home health agency” has the meaning given that term in ORS 443.014.
+(d) “In-home care agency” has the meaning given that term in ORS 443.305.
+(e) “Mental health or substance abuse treatment provider” means:
+(A) A peer support specialist;
+(B) An employee of a residential treatment facility or a residential treatment  home that is li-
+censed under ORS 443.415 to provide treatment for individuals with alcohol or drug dependence;
+(C) An individual who provides treatment or  services for persons with substance use disorders;
+[5]
+HB 4089
+1
+2
+3
+4
+5
+6
+or
+(D) An individual who provides mental health treatment or services.
+(f) “Peer support specialist” has the meaning given that term in ORS 414.025.
+(g) “Personal support worker” has the meaning given that term in ORS 410.600.
+(h) “Residential facility” has the meaning given that term in ORS 443.400.
+[6]

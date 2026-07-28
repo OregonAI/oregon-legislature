@@ -1,0 +1,612 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+82nd OREGON LEGISLATIVE ASSEMBLY--2023 Regular Session
+House Bill 2750
+Sponsored by Representative BOWMAN
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Prohibits  charging  of fees or requiring of participation in fundraising activities as condition of
+participating in interscholastic activities.
+Authorizes use of moneys in Statewide Education Initiatives Account  for costs incurred by
+school districts and public charter schools as result  of prohibition on charging fees or requiring
+participation in fundraising activities as condition of participating in interscholastic activities.
+Declares emergency, effective July 1, 2023.
+A BILL FOR AN ACT
+Relating to funding for interscholastic activities; amending ORS 326.051, 327.254,  339.147, 339.155,
+339.450 and 339.460; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 326.051 is amended to read:
+326.051. Subject to ORS 417.300 and 417.305:
+(1) In addition to such other duties as are  prescribed by law and pursuant to the requirement
+of ORS chapter 183, the State Board of Education shall:
+(a) Establish state standards for public kindergartens and public elementary and secondary
+schools consistent with the policies stated in ORS 326.011.
+(b) Adopt  rules for the general governance of public kindergartens and public elementary and
+secondary schools.
+(c) Prescribe required or minimum courses of study.
+(d) Adopt rules for public kindergartens and public elementary and secondary  schools consistent
+with the policy stated in ORS 342.437.
+(e) Adopt rules regarding school and interscholastic activities.  The rules  must prohibit a
+school district or  a public charter school from charging any fees or requiring participation
+in any fundraising activities as a condition of participating in an interscholastic activity.
+(f) Adopt rules that provide that no public elementary  or secondary school shall discriminate in
+determining participation in interscholastic activities. As  used in this paragraph, “discrimination”
+has the meaning given that term in ORS 659.850.
+(g) Adopt rules that will  eliminate the use and purchase of elemental mercury, mercury com-
+pounds and mercury-added instructional materials by public elementary and secondary schools.
+(2) The State Board of Education may:
+(a) Consistent with the laws  of this state, accept money or property not otherwise provided for
+under paragraph (b) of this subsection, which is donated for the use or benefit of the  public
+kindergartens and public elementary and secondary  schools and use such money or property for the
+purpose for which it was donated. Until it is used, the board shall deposit any money received under
+this paragraph in a special fund with the State Treasurer as provided in ORS 293.265 to 293.275.
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 2284
+HB 2750
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(b) Apply for federal funds, accept  and enter into any contracts or agreements on behalf of the
+state for the receipt of funds from the federal government or its agencies and disburse or expend
+the federal funds as provided by ORS 327.128. This paragraph applies  to federal funds to be used for:
+(A) Educational purposes, including but not limited to any funds  available for the school lunch
+program;
+(B) Career and technical education programs in public elementary and secondary schools; and
+(C) Any  grants available to the state or its political subdivisions for general federal aid for
+public kindergartens, public elementary schools and public secondary schools  and their auxiliary
+services, improvement of teacher preparation, teacher salaries, construction of school buildings,  ad-
+ministration of the Department of  Education and any other educational activities under the juris-
+diction of the State Board of Education.
+(c) Adopt rules to administer the United States  Department of Agriculture’s National School
+Lunch Program and School Breakfast Program for public and  private prekindergarten through grade
+12 schools and residential child care facilities.
+SECTION 2.
+ ORS 339.155 is amended to read:
+339.155. (1) A district school board or public charter school  as defined in ORS 338.005 may
+not:
+(a) Require  payment of fees as a condition of admission to those pupils entitled under the law
+to free admission. [ However, The following are not considered as conditions of admission: ]
+[(a) Pursuant to ORS 339.141, but subject to ORS 339.147, tuition may be charged for courses  not
+part of the regular school program. ]
+[(b) A charge may not be  made for a standard, prescribed textbook but a security deposit may be
+required, which may be refunded if the textbook is returned in usable  condition. Supplemental texts
+shall be made available on loan. ]
+[(c) A deposit may be charged for a lock for a locker. ]
+(b) Charge for a standard, prescribed textbook. Nothing in this paragraph prohibits:
+(A) Charging a security deposit for a textbook, which may be refunded if the textbook  is
+returned in usable condition.
+(B) Making supplemental texts available on loan.
+(2) Pursuant to ORS 339.141, but subject  to ORS 339.147, a district school board or a
+public charter  school may charge tuition for courses not part of the regular school program.
+(3) A district school board or a public charter school may charge  a deposit for a lock for
+a locker.
+[(2)] (4) A district  school board or public charter school may require pupils who do not furnish
+their own attire for physical education classes to pay  an appropriate fee for uniforms provided by
+the district or public charter school.
+[(3)] (5) A district school board or public charter school may require pupils who  do not provide
+appropriate towels for physical education classes to pay a  fee for use of towels provided by the
+district or public charter school.
+[(4)(a)] (6)(a) A district school board or public charter school may require  payment of fees for
+the use of musical instruments owned or rented by the district or public charter school. The  district
+school  board  or public charter school may not charge a fee that exceeds the rental cost of the in-
+strument to the district or public charter school or the annual depreciation plus  actual maintenance
+cost for each instrument.
+(b) Notwithstanding  paragraph (a) of this subsection, a district school board or public charter
+[2]
+HB 2750
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+school may not require payment of fees for the use of a musical instrument from  children exempt
+from tuition  under ORS 339.147. The district school board or public charter school shall lend musical
+instruments, without charge, to children exempt from tuition under ORS 339.147.
+[(5)] (7)(a) Subject to ORS 339.147, a district school board or public charter  school may require
+payments of fees in any of the following:
+[(a)] (A) In any program where the resultant product, in  excess of minimum course requirements
+and at the pupil’s option, becomes the personal property of the pupil.
+[(b) Admission fees or charges for extracurricular activities where pupil attendance is optional. ]
+[(c)] (B) A security deposit conditioned on the  return of materials, supplies or equipment in-
+cluding athletic equipment.
+[(d)] (C) Items of personal use  or products which a pupil may purchase such as student publi-
+cations, class rings, annuals and graduation announcements.
+[(e)] (D) Field trips considered optional to a district’s or public charter  school’s regular school
+program.
+[(f)] (E) Any authorized voluntary pupil health and accident benefit plan.
+[(g)] (b) As used in this subsection, “minimum course requirements” means  any product required
+to be produced to meet the goals of the course.
+SECTION 3.
+ ORS 339.147 is amended to read:
+339.147. (1)(a) Notwithstanding ORS 339.141, no district  school board or public charter school
+as defined in ORS 338.005 shall require tuition for courses not part of the  regular school program,
+except for traffic safety education, from a pupil who is a  member of a low-income family in an
+amount in excess of what the low-income family may receive as money specifically to be used  for
+payment of such tuition.
+(b) As used in this subsection, “low-income family” means a family whose children  qualify for
+free or reduced price school meals under a federal program, including  but not limited to the Na-
+tional School Lunch Act and the Child Nutrition Act of 1966,  and all their subsequent amendments.
+(2) A family that does not qualify under subsection  (1) of this section but believes the payment
+of school tuition is a  severe hardship may request the district school board or public charter school
+to waive in whole or in part the payment of such tuition.
+(3) Any parent or guardian who believes that payment of any fee  authorized under ORS 339.155
+is a severe hardship may request the district school board or public charter school to waive payment
+of the fee and the board or public  charter school shall waive in whole or in part the fee upon a
+finding of hardship. Consideration  shall be given to any funds specifically available to the parent,
+guardian or child for the payment of fees or other school expenses.
+(4) No  district school board or public charter school shall impose or collect fees authorized un-
+der ORS 339.155  from any student who is a ward of a juvenile court or of the Oregon Youth Au-
+thority or the Department of Human Services unless funds are available therefor in the court’s,
+authority’s or department’s budget.
+(5) No  district school board or public charter school is required to waive any fee imposed under
+ORS 339.155 [ (5)(a) or (d) ] (7)(a)(A) or (C) .
+SECTION 4.
+ ORS 339.450, as amended by section 14, chapter 81, Oregon Laws 2022,  is amended
+to read:
+339.450. A school, school district or association, whether public or private, may not  deny any
+grade or high school student  the right to participate in interscholastic athletics solely on the ground
+that the student:
+[3]
+HB 2750
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(1) Transferred between schools;
+(2) Attends a public charter school, as defined in ORS 338.005;
+(3) Participated in athletics at another school; [ or]
+(4) Is eligible to attend school under ORS 339.115 (1) and is  enrolled in a program to earn a
+certificate for passing an approved high school equivalency test, such as the General Educational
+Development (GED) test[ .]; or
+(5) Failed to pay  a fee to participate in interscholastic athletics or failed to participate
+in any fundraising activities related to interscholastic athletics.
+SECTION 5.
+ ORS 339.460, as amended by section 13, chapter 81, Oregon Laws 2022,  is amended
+to read:
+339.460. (1) As used in this section:
+(a) “High school equivalency  program” means a program provided to assist a student in earning
+a certificate for passing an  approved high school equivalency test such as the General Educational
+Development (GED) test.
+(b) “High school equivalency student” means a student who is eligible to attend school  under
+ORS 339.115 (1) and who is enrolled in a high school equivalency program.
+(c) “Homeschooled student” means a child who is taught by a private teacher,  a parent or a
+legal guardian, as described in ORS 339.030.
+(d) “Interscholastic activities” includes:
+(A) For students in any grade from kindergarten through grade 12, athletics, music, speech and
+other similar or related activities.
+(B) For students in any grade from kindergarten through  grade eight, activities that are offered
+only before or after regular school hours and that may, but are not required to,  involve interaction
+among other schools.
+(e) “Public charter school” has the meaning given that term in ORS 338.005.
+(2) A school district may not  deny a high school equivalency student, a homeschooled student
+or a student who attends  a public charter school that does not provide interscholastic activities the
+opportunity to participate  in all interscholastic activities available in the school district within the
+attendance boundaries in  which the high school equivalency student, homeschooled student or public
+charter school student resides if the student fulfills the following conditions, as applicable:
+(a)(A) For a high school equivalency student or a homeschooled student, the student must meet
+all school district eligibility requirements except:
+(i) The school district’s school or class attendance requirements; and
+(ii) The class requirements of the voluntary  association that administers the interscholastic ac-
+tivity, if applicable.
+(B) For a student who attends a public charter school,  the student must meet all school district
+eligibility requirements except the school district’s school or class attendance requirements.
+(b) For a homeschooled student or a student who attends a public charter  school, the student
+must demonstrate academic eligibility by meeting one of these requirements:
+(A) Achieve a minimum score that places the student at or above the 23rd percentile,  based on
+national norms, on an examination from the list the State Board of Education  adopts under ORS
+339.035. The student must take  the examination prior to the beginning of the school year in which
+the student will participate in an  interscholastic activity and for which academic eligibility is being
+determined, and the student’s parent or legal guardian must submit the results to the school district
+for use in determining the student’s academic eligibility.
+[4]
+HB 2750
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(B) Meet alternative requirements that a school district adopts, in consultation with  the
+student’s parent or legal guardian, to participate in  interscholastic activities, including but not
+limited to a requirement that a student submit a portfolio of  work samples to a school district
+committee for review to determine whether  the student is eligible to participate in interscholastic
+activities.
+(c) For a high school equivalency student, the student must demonstrate academic  eligibility by
+showing that, prior to beginning  the interscholastic activity, the student has passed at least one
+practice test administered through the high school equivalency program.
+[(3)(a) In addition to  the requirements set forth in subsection (2) of this section, a public charter
+school that enrolls a student who intends to participate  in an interscholastic activity must pay to the
+school district or school that offers the interscholastic activity,  as appropriate and if the school district
+or school requires payment as provided by this subsection: ]
+[(A) An annual fee that is equivalent  to not more than five percent of the amount of the school
+district’s General Purpose Grant per ADMw, as calculated under ORS 327.013; and ]
+[(B) An additional annual fee that is equivalent to not more than  five percent of the amount of the
+school district’s General Purpose Grant per ADMw, as calculated under ORS 327.013,  if participating
+in the interscholastic activity requires the student to enroll in a course for credit. ]
+[(b) The school district  and the public charter school shall enter into an agreement to specify the
+amount of the fees described in paragraph (a) of this subsection. ]
+[(c) A public charter school is  required to pay a fee described in paragraph (a) of this subsection
+only once per year per student participating in an interscholastic  activity at a school in the school
+district, regardless of the number of interscholastic activities in which the student participates. ]
+[(4)] (3) A high school equivalency student, a homeschooled student or a student who attends  a
+public charter school  may participate in interscholastic activities while awaiting examination or
+practice test results unless the student is awaiting the results to restore academic eligibility.
+[(5)] (4) A high school equivalency student, a homeschooled student or a student who attends  a
+public charter school who  does not maintain academic eligibility is ineligible to participate in
+interscholastic activities for the school year in which the student  is determined to be academically
+ineligible  unless:
+(a) At least 18 weeks have passed from the later of the date that the student:
+(A) Was determined to have not maintained academic eligibility; or
+(B) Became a high school equivalency student or a homeschooled student; and
+(b) The student takes the required examinations or practice tests and  meets the standards de-
+scribed in subsection (2)(b) or (c) of this section.
+[(6)(a)] (5)(a) A high school equivalency student, a  homeschooled student or a student who at-
+tends a public charter school must fulfill the same  responsibilities and standards of behavior and
+performance, including related class or  practice requirements, as other students who participate in
+the interscholastic activity.  The student must also comply with all public school requirements during
+the time of participation.
+(b) A student  who attends a public charter school must be allowed to participate in an inter-
+scholastic activity in the same manner that a  resident of the school district may participate in the
+interscholastic activity. A school district may not give priority to residents  of the school district to
+participate in interscholastic activities, but may  require a student who attends a public charter
+school to satisfy any standards for acceptance for participation.
+[(7)] (6) A high school equivalency student, a homeschooled student or a student who attends  a
+[5]
+HB 2750
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+public charter  school who participates in interscholastic activities must reside within the attendance
+boundaries of the school at which the  student participates unless the school district has a policy
+that allows any student attending a school of the school district to participate in  interscholastic
+activities at any school of the school district.
+SECTION 6.
+ ORS 327.254 is amended to read:
+327.254. (1) The Department of Education shall use  moneys in the Statewide Education Initi-
+atives Account to provide funding for statewide education initiatives, including:
+(a) Funding the High School Graduation and College and Career Readiness Act at the levels
+prescribed by ORS 327.856;
+(b) Expanding school breakfast and lunch programs;
+(c) Operating youth reengagement programs or providing youth reengagement services;
+(d) Establishing and maintaining  the Statewide School Safety and Prevention System under ORS
+339.341;
+(e) Developing and providing statewide equity initiatives, including the Black  or African-
+American education plan developed under ORS 329.841, the American Indian or Alaska Native  edu-
+cation plan developed under  ORS 329.843, the Latino or Hispanic education plan developed under
+ORS 329.845 or any similar education plan identified by the department;
+(f) Providing summer learning programs at schools  that are considered high poverty under Title
+I of the federal Elementary and Secondary Education Act of 1965;
+(g) Funding early warning systems to assist students in  graduating from high school, as de-
+scribed in ORS 327.367;
+(h) Developing and implementing professional development programs and  training programs, in-
+cluding programs that increase educator diversity and retain diverse educators;
+(i) Planning for increased transparency and accountability in the public  education system of this
+state;
+(j) Paying costs that are incurred by a school district or a public charter school  for stu-
+dent participation in interscholastic activities because  the school district or public charter
+school does not require a student to pay related fees or to participate in  related fundraising
+activities as a condition of participating in the interscholastic activity;
+[(j)] (k) Providing additional funding to school districts participating in the intensive program
+under ORS 327.222;
+[(k)] (L) Providing technical assistance, including costs incurred for:
+(A) The coaching program described in ORS 327.214; and
+(B) The intensive program described in ORS 327.222, including costs for student success teams;
+[(L)] (m) Funding public charter schools, as described in ORS 327.362;
+[(m)] (n) Funding education service districts, as described in subsection (2) of this section; and
+[(n)] (o) Funding costs incurred by the department in implementing  this section and ORS 327.175
+to 327.235 and 327.274.
+(2)(a) The amount of a distribution to an education  service district under this section shall be
+made as provided by paragraph (b) of this subsection after calculating the  following for each edu-
+cation service district:
+(A) One percent of the total amount available for distribution to  education service districts in
+each biennium.
+(B) The education service district’s ADMw ×  (the total amount available for distribution to
+education service districts in each biennium ÷  the total ADMw of all education  service districts
+[6]
+HB 2750
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+that receive a distribution).
+(b) The amount of the distribution to an education service district shall be the greater of  the
+amounts calculated under paragraph (a) of this subsection, except that, for distributions  made as
+provided by paragraph (a)(B) of this subsection, the  total amount available for distribution to edu-
+cation service districts shall be the amount remaining after any  distributions required under para-
+graph (a)(A) of this subsection have been made.
+(c) For purposes  of this subsection, ADMw equals the ADMw as calculated under ORS 327.013,
+except that the additional amount allowed for students who are in  poverty families, as determined
+under ORS 327.013 (1)(c)(A)(v)(I), shall be 0.5.
+(d) An education service district  shall use moneys received under this section as provided by a
+plan developed by the school districts located within the education  service district. A school district
+that declines to participate in the development of the plan or that has withdrawn from an education
+service district as provided by  ORS 334.015 is not entitled to any moneys distributed to the educa-
+tion service district under this subsection.
+(e) A plan developed under this subsection must:
+(A) Align with and support school districts  in meeting the performance growth targets of the
+school districts developing the plan;
+(B) Include the provision of technical assistance to school districts in  developing, implementing
+and reviewing a plan for receiving a grant from the Student Investment Account;
+(C) Provide for  coordination with the department in administering and providing technical as-
+sistance to school  districts, including coordinating any coaching programs established under ORS
+327.214; and
+(D) Be  adopted and amended as provided for local service plans under ORS 334.175 and approved
+by the department.
+(f) Each education service district must submit an annual report to the department that:
+(A) Describes how the education service district spent moneys received under  this subsection;
+and
+(B) Includes an evaluation of the education service district’s compliance with the plan  from the
+superintendent of each school district that participated in the development of the plan.
+(3) The State Board of Education shall adopt rules necessary for the distribution of moneys  un-
+der this section.
+SECTION 7.
+This 2023 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2023 Act takes effect
+July 1, 2023.
+[7]

@@ -1,0 +1,401 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2026r1-sb1551
+title: 'SB 1551 (2026R1): Invalidates deed restrictions and planned community governing documents prohibiting
+  the replacement of nonfire-hardened building materials or installation of fire-hardened building materials
+  on residential properties.'
+doc_type: dataset_doc
+citation: 2026 Regular Session Senate Bill 1551
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1551/Enrolled
+source_format: pdf
+retrieved: '2026-07-28'
+source_sha256: d25bf0ba25bdc737873a8926edc07dd043da19b67cd25694611df0502e921ae2
+snapshot_id: measure-2026r1-sb1551-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-28'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 36.175
+  - ORS 94.550
+  - ORS 94.572
+  - ORS 94.573
+  - ORS 94.574
+  - ORS 94.576
+  - ORS 94.577
+  - ORS 94.580
+  - ORS 94.590
+  - ORS 94.595
+  - ORS 94.600
+  - ORS 94.630
+  - ORS 94.647
+  - ORS 94.650
+  - ORS 94.665
+  - ORS 94.762
+  - ORS 94.763
+  - ORS 94.776
+  - ORS 94.778
+  - ORS 94.779
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2026r1
+- sb
+session_key: 2026R1
+measure_prefix: SB
+measure_number: 1551
+prefix_meaning: Senate Bill
+catch_line: Invalidates deed restrictions and planned community governing documents prohibiting the replacement
+  of nonfire-hardened building materials or installation of fire-hardened building materials on residential
+  properties.
+minority_catch_line: null
+measure_summary: "\tDigest: This Act stops HOAs or deed terms from limiting an owner from upgrading the\
+  \ fire safety of materials in their home. (Flesch Readability Score: 60.6). \n\tInvalidates deed restrictions\
+  \ and planned community governing documents prohibiting the [<i>removal</i>]<b> replacement</b> of nonfire-hardened\
+  \ building materials or installation of fire-hardened building materials on residential properties.\
+  \ Limits a homeowners association's ability to enforce regulations that would constrain installation\
+  \ of fire-hardened building materials. Applies to new and existing deed restrictions and planned communities.\
+  \ \n\tTakes effect on the 91st day following adjournment sine die."
+relating_to: Relating to fire hardening of residential properties; and prescribing an effective date.
+relating_to_full: Relating to fire hardening of residential properties; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 33
+measure_created_date: '2026-01-15T15:56:17'
+measure_modified_date: '2026-04-28T12:28:05'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 18689
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 36.175
+  - ORS 94.550
+  - ORS 94.572
+  - ORS 94.573
+  - ORS 94.574
+  - ORS 94.576
+  - ORS 94.577
+  - ORS 94.580
+  - ORS 94.590
+  - ORS 94.595
+  - ORS 94.600
+  - ORS 94.630
+  - ORS 94.647
+  - ORS 94.650
+  - ORS 94.665
+  - ORS 94.762
+  - ORS 94.763
+  - ORS 94.776
+  - ORS 94.778
+  - ORS 94.779
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-28 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1551`.
+
+# SB 1551 — 2026 Regular Session (2026R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 1551, 2026 Regular Session (2026R1)
+- **LC number:** 33
+- **Created:** 2026-01-15T15:56:17
+- **Metadata last modified (upstream):** 2026-04-28T12:28:05
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 18689 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1551/Enrolled>.
+
+## Summary
+
+**Catchline:** Invalidates deed restrictions and planned community governing documents prohibiting the replacement of nonfire-hardened building materials or installation of fire-hardened building materials on residential properties.
+
+**Relating to:** Relating to fire hardening of residential properties; and prescribing an effective date.
+
+Digest: This Act stops HOAs or deed terms from limiting an owner from upgrading the fire safety of materials in their home. (Flesch Readability Score: 60.6). 
+ Invalidates deed restrictions and planned community governing documents prohibiting the [<i>removal</i>]<b> replacement</b> of nonfire-hardened building materials or installation of fire-hardened building materials on residential properties. Limits a homeowners association's ability to enforce regulations that would constrain installation of fire-hardened building materials. Applies to new and existing deed restrictions and planned communities. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to fire hardening of residential properties; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Enrolled
+Senate Bill 1551
+Sponsored by Senators GELSER BLOUIN, GOLDEN; Senators BROADMAN, PHAM  K,
+PROZANSKI, Representatives FRAGALA, MCDONALD (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to fire hardening  of residential properties; creating new provisions; amending ORS 94.572,
+94.573 and 94.630; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. Section 2 of this 2026 Act is added to and made a part of ORS chapter 93.
+SECTION 2. (1) As used in this section, “fire-hardened building materials” means  mate-
+rials that meet any of the following criteria as most recently adopted as of the effective  date
+of this 2026 Act:
+(a) The criteria for construction in wildland areas  set forth in the International
+Wildland-Urban Interface Code;
+(b) The criteria for construction in wildland areas set forth in the National  Fire Pro-
+tection Association Standard 1140; or
+(c) The criteria included within  a wildfire-prepared home as established by the Insurance
+Institute for Business and Home Safety.
+(2) A provision in a recorded document, including a declaration as defined  in ORS 94.550,
+is void and unenforceable to the extent that the provision would:
+(a) Prohibit the installation, use or maintenance  of fire-hardened building materials on
+a residential property; or
+(b) Prohibit the removal of materials that are  not fire-hardened building materials, in-
+cluding fences and other structures, from a residential property.
+SECTION 3. Section 4 of this 2026 Act is added to and made a part of ORS  94.550 to
+94.783.
+SECTION 4. (1) A provision in a planned  community’s governing documents is void and
+unenforceable to the extent that it:
+(a) Prohibits both the removal of materials that are not fire-hardened building  materials,
+as defined in section 2 of this 2026 Act, and the replacement of materials that are not  fire-
+hardened building materials with fire-hardened building materials; or
+(b) Limits the design, dimensions, placement, maintenance or  external appearance of
+fire-hardened building materials in a way that:
+(A) Has the practical effect of prohibiting the use of  all fire-hardened building materials;
+or
+(B) Requires the use of fire-hardened building materials that  cost substantially more
+than other fire-hardened building  materials of similar quality to the materials proposed by
+Enrolled Senate Bill 1551 (SB 1551-A) Page 1
+the owner such that the cost practically prevents the owner from using fire-hardened build-
+ing materials or imposes an unreasonable burden on the owner.
+(2) If an owner applies to install fire-hardened  building materials or remove nonfire-
+hardened building materials under this section, the application is deemed approved unless the
+association denies or requests modifications to the application in a written opinion that:
+(a) Is delivered within 90 days after the application is filed;
+(b) Demonstrates in reasonable  detail the basis for the denial and the scope of any nec-
+essary modifications; and
+(c) Is not arbitrary or capricious.
+SECTION 5.
+ ORS 94.572 is amended to read:
+94.572. (1) A Class I or  Class II planned community created before January 1, 2002, that was
+not created  under ORS 94.550 to 94.783 is subject to this section and ORS 94.550, 94.573, 94.574,
+94.576, 94.577, 94.590, 94.595 (5) to (9), 94.625, 94.626, 94.630 (1),  (3) and (4), 94.639, 94.640, 94.641,
+94.642, 94.644, 94.645, 94.647, 94.650, 94.652, 94.655, 94.657, 94.658, 94.660,  94.661, 94.662, 94.665,
+94.670, 94.675, 94.676, 94.680,  94.690, 94.695, 94.704, 94.709, 94.712, 94.716, 94.719, 94.723, 94.728,
+94.733, 94.762, 94.770, 94.775, 94.777, 94.779 and 94.780 and section 4 of this 2026 Act  to the extent
+that those statutes are consistent with any governing documents of the planned community.
+(2) If the governing documents of a planned community described in subsection (1) of this section
+do not provide for the formation of a  homeowners association, the requirements of this section are
+not effective until the formation of an association in accordance with ORS 94.574.
+(3) If a provision of the governing documents of a planned community described  in subsection
+(1) of this section is inconsistent with this  section, the owners may amend the governing documents
+using the procedures in ORS 94.573.
+SECTION 6.  ORS 94.573 is amended to read:
+94.573. (1)(a)(A) The owners in a Class I or Class II planned community created before January
+1, 2002, that was not created under ORS 94.550 to 94.783 may amend any provision of the planned
+community’s governing documents to  conform with this section and ORS 94.550, 94.572, 94.574,
+94.576, 94.590, 94.595 (5) to (9), 94.625,  94.626, 94.630 (1), (3) and (4), 94.639, 94.640, 94.641, 94.642,
+94.644, 94.645, 94.647, 94.650,  94.652, 94.655, 94.657, 94.658, 94.660, 94.661, 94.662, 94.665, 94.670,
+94.675, 94.676, 94.680, 94.690, 94.695, 94.704, 94.709, 94.712, 94.716, 94.719,  94.723, 94.728, 94.733,
+94.762, 94.770, 94.775, 94.777, 94.779 and 94.780 and section 4 of this 2026 Act .
+(B) An amendment to any provision of a planned  community’s governing documents made pur-
+suant to  this paragraph must be executed in accordance with the procedures for the adoption of
+amendments prescribed by, and subject to any limitations specified in, the planned community’s
+governing documents.
+(C) Nothing in this section or ORS 94.572 requires the owners to amend a declaration or  bylaws
+to include the information required by ORS 94.580 or 94.635.
+(b) If a planned community’s governing documents do not provide procedures  to amend the
+provisions of the governing documents:
+(A) The owners may  amend the inconsistent provisions of a governing document other than by-
+laws to conform  with this section and ORS 94.550, 94.572, 94.574, 94.576, 94.590, 94.595 (5) to (9),
+94.625, 94.626, 94.630 (1),  (3) and (4), 94.639, 94.640, 94.641, 94.642, 94.644, 94.645, 94.647, 94.650,
+94.652, 94.655, 94.657, 94.658, 94.660, 94.661, 94.662, 94.665, 94.670, 94.675,  94.676, 94.680, 94.690,
+94.695, 94.704, 94.709, 94.712, 94.716, 94.719,  94.723, 94.728, 94.733, 94.762, 94.770, 94.775, 94.777 and
+94.780 and section 4  of this 2026 Act  by a vote of at least 75 percent of the owners in the planned
+community.
+(B) The owners  may amend the inconsistent provisions of the bylaws to conform with this sec-
+tion and ORS 94.550, 94.572, 94.574, 94.576, 94.590, 94.595 (5) to (9), 94.625, 94.626,  94.630 (1), (3) and
+(4), 94.639, 94.640, 94.641, 94.642, 94.644,  94.645, 94.647, 94.650, 94.652, 94.655, 94.657, 94.658, 94.660,
+94.661, 94.662, 94.665, 94.670, 94.675, 94.676, 94.680, 94.690, 94.695, 94.704,  94.709, 94.712, 94.716,
+94.719, 94.723, 94.728, 94.733, 94.762, 94.770, 94.775,  94.777, 94.779, and 94.780 and section 4 of this
+2026 Act by a vote of at least a majority of the owners in the planned community.
+Enrolled Senate Bill 1551 (SB 1551-A) Page 2
+(C) The owners may adopt an amendment to the provisions of a governing document at a meet-
+ing held in accordance with the  governing documents or by another procedure permitted by the
+governing documents that follows the procedures prescribed in ORS 94.647, 94.650 or 94.660.
+(2) The owners of a planned  community described in subsection (1) of this section shall execute,
+certify and record an amendment adopted pursuant to subsection (1) of this section to:
+(a) A recorded declaration as provided in ORS 94.590 (2), (3) and (5).
+(b) The bylaws or any other governing document as provided in ORS 94.590 (3). If  the bylaws
+or other governing document to which the  amendment relates were recorded, the owners shall cause
+an amendment to the bylaws or other governing document to be  recorded in the office of the re-
+cording officer of every county in which the planned community is located.
+(3) An amendment adopted pursuant to subsection (1) of this section shall include:
+(a) A reference to the recording index numbers and date of  recording of the governing docu-
+ment, if recorded, to which the amendment relates; and
+(b) A statement that the amendment is adopted.
+SECTION 7.
+ ORS 94.630 is amended to read:
+94.630. (1) Subject to subsection (2)  of this section and ORS 94.762, 94.763, 94.776, 94.778 and
+94.779 and section 4 of this 2026 Act , and except as otherwise provided in its declaration or by-
+laws, a homeowners association may:
+(a) Adopt and amend bylaws, rules and regulations for the planned community;
+(b) Adopt and amend budgets for revenues, expenditures and  reserves, and collect assessments
+from owners for common expenses and the reserve account established under ORS 94.595;
+(c) Hire  and terminate managing agents and other employees, agents and independent contrac-
+tors;
+(d) Defend against any claims, proceedings or actions brought against it;
+(e) Subject to subsection  (4) of this section, initiate or intervene in litigation or administrative
+proceedings in its own name and without joining the individual owners in the following:
+(A) Matters relating to the collection of assessments and the enforcement  of governing docu-
+ments;
+(B) Matters arising out of contracts to which the association is a party;
+(C) Actions  seeking equitable or other nonmonetary relief regarding matters that affect the
+common interests of the owners, including but not limited to the abatement of nuisance;
+(D) Matters, including  but not limited to actions for damage, destruction, impairment or loss of
+use, relating to or affecting:
+(i) Individually owned real property, the expenses for which, including maintenance,  repair or
+replacement, insurance or other expenses, the association is responsible; or
+(ii) Common property;
+(E) Matters relating to or affecting the lots or interests of  the owners including but not limited
+to damage, destruction, impairment or loss of use of a lot or portion thereof, if:
+(i) Resulting from a nuisance or a defect in or damage to  common property or individually
+owned real property,  the expenses for which, including maintenance, repair or replacement, insur-
+ance or other expenses, the association is responsible; or
+(ii) Required to facilitate repair to any common property; and
+(F) Any other matter  to which the association has standing under law or pursuant to the dec-
+laration or bylaws;
+(f) Make contracts and incur liabilities;
+(g) Regulate the use, maintenance, repair, replacement and modification of common property;
+(h) Cause additional improvements to be made as a part of the common property;
+(i) Acquire, hold,  encumber and convey in its own name any right, title or interest to real or
+personal property, except that common property may be  conveyed or subjected to a security interest
+only pursuant to ORS 94.665;
+(j) Grant easements, leases, licenses and concessions through  or over the common property as
+provided in ORS 94.665;
+Enrolled Senate Bill 1551 (SB 1551-A) Page 3
+(k) Modify, close, remove, eliminate or  discontinue the use of common property, including any
+improvement or landscaping, regardless of whether the common property is mentioned in the decla-
+ration, provided that:
+(A) Nothing in this paragraph is intended to limit the  authority of the association to seek ap-
+proval of the modification, closure, removal, elimination or discontinuance by the owners; and
+(B) Modification, closure, removal, elimination  or discontinuance other than on a temporary
+basis of any swimming pool, spa or recreation  or community building must be approved by at least
+a majority of owners voting on the matter at a meeting or by written  ballot held in accordance with
+the declaration, bylaws or ORS 94.647;
+(L) Impose and receive  any payments, fees or charges for the use, rental or operation of the
+common property and services provided to owners;
+(m) Adopt rules regarding the termination of utility services paid  for out of assessments of the
+association and access to and use of recreational  and service facilities available to owners. The
+rules must provide for written notice and an opportunity to be heard before  the association may
+terminate the rights of any owners to receive the benefits or services until the correction  of any
+violation covered by the rule has occurred;
+(n) Impose charges for  late payment of assessments and attorney fees related to the collection
+of assessments and, after giving written notice and an  opportunity to be heard, levy reasonable fines
+for violations of the declaration, bylaws, rules and regulations of the association, provided  that the
+charge imposed or the fine levied by the association is based:
+(A) On a schedule contained in the  declaration or bylaws, or an amendment to either that is
+delivered  to  each lot, mailed to the mailing address of each lot or mailed to the mailing addresses
+designated in writing by the owners; or
+(B) On a resolution of the association or its board of directors that is delivered to each lot,
+mailed to the mailing address of each lot or mailed to the mailing addresses designated  in writing
+by the owners;
+(o) Impose reasonable charges for  the preparation and recordation of amendments to the decla-
+ration;
+(p) Provide for the indemnification of its officers and the  board of directors and maintain li-
+ability insurance for directors and officers;
+(q) Assign its right to future income, including the right to receive common expense  assess-
+ments; and
+(r) Exercise any other powers necessary and proper for the administration and  operation of the
+association.
+(2) A declaration may not impose  any limitation on the ability of the association to deal with
+a declarant that is more restrictive than the  limitations imposed on the ability of the association to
+deal with any other person, except during the period of declarant control under ORS 94.600.
+(3) A permit or authorization, or  an amendment, modification, termination or other instrument
+affecting a permit or authorization, issued by the board of directors that is authorized by  law, the
+declaration or bylaws  may be recorded in the deed records of the county in which the planned
+community is located. A permit or authorization, or an  amendment, modification, termination or
+other instrument affecting a permit or authorization, recorded under this subsection shall:
+(a) Be executed by the president and secretary of the association and acknowledged  in the
+manner provided for acknowledgment of instruments by the officers;
+(b) Include the name of the planned community and a reference to where the declaration and
+any applicable supplemental declarations are recorded;
+(c) Identify, by the designations stated or referenced  in the declaration or applicable supple-
+mental declaration, all affected lots and common property; and
+(d) Include other information and signatures if required by law, the declaration,  bylaws or the
+board of directors.
+(4)(a) Subject to paragraph  (f) of this subsection, before initiating litigation or an administrative
+proceeding in which the association and an owner have an adversarial relationship, the  party that
+Enrolled Senate Bill 1551 (SB 1551-A) Page 4
+intends to initiate litigation or an  administrative proceeding shall offer to use any dispute resolution
+program available within the county in which the planned  community is located that is in substan-
+tial compliance with the standards and guidelines adopted under ORS 36.175. The written offer  must
+be hand-delivered or mailed by certified mail, return receipt requested, to the address, contained in
+the records of the association, for the other party.
+(b) If the party receiving the offer does  not accept the offer within 10 days after receipt by
+written notice hand-delivered or mailed by certified  mail, return receipt requested, to the address,
+contained in the records of  the association, for the other party, the initiating party may commence
+the litigation or the administrative proceeding. The notice  of acceptance of the offer to participate
+in the program must  contain the name, address and telephone number of the body administering the
+dispute resolution program.
+(c) If a qualified dispute  resolution program exists within the county in which the planned
+community is located and an offer to use the program is not  made as required under paragraph (a)
+of this subsection, litigation or  an administrative proceeding may be stayed for 30 days upon a mo-
+tion of the noninitiating party. If the  litigation or administrative action is stayed under this para-
+graph, both parties shall participate in the dispute resolution process.
+(d) Unless a stay has been granted under paragraph (c) of this subsection, if the dispute resol-
+ution process is not completed within 30 days after receipt of the initial  offer, the initiating party
+may commence litigation or an administrative proceeding without regard to whether  the dispute
+resolution is completed.
+(e) Once  made, the decision of the court or administrative body arising from litigation or an
+administrative proceeding may  not be set aside on the grounds that an offer to use a dispute resol-
+ution program was not made.
+(f) The requirements of this subsection do not apply to circumstances in which irreparable  harm
+to a party will  occur due to delay or to litigation or an administrative proceeding initiated to collect
+assessments, other than assessments attributable to fines.
+SECTION 8.
+Sections 2 and 4 of this 2026 Act apply to recorded documents and  governing
+documents executed before, on or after the effective date of this 2026 Act.
+SECTION 9. This 2026 Act  takes effect on the 91st day after the date on which the 2026
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+Enrolled Senate Bill 1551 (SB 1551-A) Page 5
+Passed by Senate February 19, 2026
+..................................................................................
+Obadiah Rutledge, Secretary of Senate
+..................................................................................
+Rob Wagner, President of Senate
+Passed by House March 2, 2026
+..................................................................................
+Julie Fahey, Speaker of House
+Received by Governor:
+........................M.,........................................................., 2026
+Approved:
+........................M.,........................................................., 2026
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2026
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled Senate Bill 1551 (SB 1551-A) Page 6
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 36.175, ORS 94.550, ORS 94.572, ORS 94.573, ORS 94.574, ORS 94.576, ORS 94.577, ORS 94.580, ORS 94.590, ORS 94.595, ORS 94.600, ORS 94.630, ORS 94.647, ORS 94.650, ORS 94.665, ORS 94.762, ORS 94.763, ORS 94.776, ORS 94.778, ORS 94.779
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-28, sha256 `d25bf0ba25bdc737873a8926edc07dd043da19b67cd25694611df0502e921ae2` (snapshot `_meta/snapshots/measure-2026r1-sb1551-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1551/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `a6d419d34bf9590122fdb85a40622155b6177a020dade42eca4637c071de0827` (snapshot `_meta/snapshots/measure-2026r1-sb1551-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1551/Introduced>.
+- **Measure metadata:** retrieved 2026-07-28 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1551` (part of the batched per-session fetch), sha256 `24ae6bdc7627edf95bbe00a05a147417c7b8bb4753dc857212807a4403e9e192` of the shared session snapshot `_meta/snapshots/measures-2026r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

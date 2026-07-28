@@ -1,0 +1,108 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4069
+Introduced and  printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Behavioral Health)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features  of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act  requires a safety plan in certain mental health and SUD treatment settings.
+(Flesch Readability Score: 65.7).
+Requires a behavioral health employer to develop and implement a written safety plan.
+A BILL FOR AN ACT
+Relating to the safety of behavioral health workers; and prescribing an effective date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+(1) As used in this section:
+(a) “Behavioral health  employer” means any of the following entities that contract with
+the Oregon Health Authority for the provision of behavioral health services:
+(A) A residential treatment facility, as defined in ORS 443.400;
+(B) A residential treatment home, as defined in ORS 443.400;
+(C) A secure residential treatment facility, as described in ORS 443.465;
+(D) A secure residential treatment home, as described in ORS 443.465;
+(E) A sobering facility, as defined in ORS 430.306;
+(F) A detoxification center, as defined in ORS 430.306;
+(G) A halfway house, as defined in ORS 430.306;
+(H) A mobile crisis intervention team, as defined in ORS 430.626; or
+(I) An emergency shelter.
+(b) “Built environment” includes facilities, vehicles  and other physical locations where
+work is performed on an ongoing basis.
+(c) “Lone worker” means  an individual who works in a situation or location without a
+colleague nearby or where the individual works without close or direct supervision.
+(2) A behavioral health employer  shall develop and implement a written safety plan. The
+safety plan must be tailored to the behavioral  health employer’s specific context and easily
+accessible to staff.  A behavioral health employer shall provide a copy of the safety plan to
+new workers upon hire.
+(3) A safety plan developed under this section must include:
+(a) A plan for the safety of lone workers.
+(b) A plan for the safety of the built environment, including:
+(A) How workers may report structural security hazards; and
+(B) The time frame within which the behavioral  health employer must respond to a re-
+port of a structural security hazard.
+(c) Information for workers about the safety training that the behavioral health employer
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 229
+HB 4069
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+is required to provide under ORS 430.775, including the time frame within which the employer
+must provide all  required training for a new worker and how often the employer must pro-
+vide renewal training for current workers.
+SECTION 2.
+The requirements under section 1 of this 2026 Act apply to behavioral  health
+employers as follows:
+(1) For a behavioral health employer that does not have a  contract with the authority in
+effect on the effective date of this 2026 Act, the requirements apply on the  date on which the
+behavioral health  employer first enters into a contract with the authority for the provision
+of behavioral health services.
+(2) For a behavioral health employer that has an existing  contract with the authority in
+effect on the effective date of this 2026 Act, the  requirements apply on the effective date of
+the first renewal,  extension or amendment of that contract occurring after the contract’s
+expiration.
+SECTION 3. This 2026 Act takes effect on July 1, 2027.
+[2]

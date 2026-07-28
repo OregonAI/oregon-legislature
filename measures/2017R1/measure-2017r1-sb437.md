@@ -1,0 +1,564 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2017r1-sb437
+title: 'SB 437 (2017R1): Establishes program by which moneys are deposited in education savings accounts
+  for use by parents of qualified children to pay for certain educational expenses incurred from participating
+  entities.'
+doc_type: dataset_doc
+citation: 2017 Regular Session Senate Bill 437
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB437/Introduced
+source_format: pdf
+retrieved: '2026-07-27'
+source_sha256: 2531dd31f591fa4c50ff31fb10ea15d2bf3f48000915114aab0b37834421dd9c
+snapshot_id: measure-2017r1-sb437-introduced
+status: current
+content_mode: verbatim
+last_verified: '2026-07-27'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 326.125
+  - ORS 326.565
+  - ORS 326.575
+  - ORS 327.006
+  - ORS 327.008
+  - ORS 327.011
+  - ORS 327.013
+  - ORS 327.019
+  - ORS 327.022
+  - ORS 327.344
+  - ORS 327.348
+  - ORS 329.485
+  - ORS 329.488
+  - ORS 339.020
+  - ORS 342.953
+  - ORS 343.035
+  - ORS 343.404
+  - ORS 343.941
+  - ORS 348.394
+  - ORS 352.002
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2017r1
+- sb
+session_key: 2017R1
+measure_prefix: SB
+measure_number: 437
+prefix_meaning: Senate Bill
+catch_line: Establishes program by which moneys are deposited in education savings accounts for use by
+  parents of qualified children to pay for certain educational expenses incurred from participating entities.
+minority_catch_line: null
+measure_summary: "\tEstablishes program by which moneys are deposited in education savings accounts for\
+  \ use by parents of qualified children to pay for certain educational expenses incurred from participating\
+  \ entities. \n\tEstablishes Education Savings Program Fund. Continuously appropriates moneys to State\
+  \ Treasurer for purpose of making deposits related to program. \n\tDeclares emergency, effective on\
+  \ passage."
+relating_to: Relating to education savings accounts; declaring an emergency.
+relating_to_full: Relating to education savings accounts; creating new provisions; amending ORS 327.008;
+  and declaring an emergency.
+at_the_request_of: null
+lc_number: 853
+measure_created_date: '2016-12-21T09:11:55'
+measure_modified_date: '2020-06-26T19:41:22'
+bill_text_versions_available:
+- Introduced
+bill_text_versions_captured:
+- Introduced
+bill_text_embedded_version: Introduced
+bill_text_chars: 32397
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 326.125
+  - ORS 326.565
+  - ORS 326.575
+  - ORS 327.006
+  - ORS 327.008
+  - ORS 327.011
+  - ORS 327.013
+  - ORS 327.019
+  - ORS 327.022
+  - ORS 327.344
+  - ORS 327.348
+  - ORS 329.485
+  - ORS 329.488
+  - ORS 339.020
+  - ORS 342.953
+  - ORS 343.035
+  - ORS 343.404
+  - ORS 343.941
+  - ORS 348.394
+  - ORS 352.002
+  from_relating_to_full:
+  - ORS 327.008
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-27 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 437`.
+
+# SB 437 — 2017 Regular Session (2017R1)
+
+## At a glance
+
+- **Measure:** Senate Bill 437, 2017 Regular Session (2017R1)
+- **LC number:** 853
+- **Created:** 2016-12-21T09:11:55
+- **Metadata last modified (upstream):** 2020-06-26T19:41:22
+- **Introduced/Enrolled documents on file:** Introduced
+- **Full text below:** Introduced version, 32397 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB437/Introduced>.
+
+## Summary
+
+**Catchline:** Establishes program by which moneys are deposited in education savings accounts for use by parents of qualified children to pay for certain educational expenses incurred from participating entities.
+
+**Relating to:** Relating to education savings accounts; declaring an emergency.
+
+Establishes program by which moneys are deposited in education savings accounts for use by parents of qualified children to pay for certain educational expenses incurred from participating entities. 
+ Establishes Education Savings Program Fund. Continuously appropriates moneys to State Treasurer for purpose of making deposits related to program. 
+ Declares emergency, effective on passage.
+
+**RelatingToFull (verbatim upstream field):** Relating to education savings accounts; creating new provisions; amending ORS 327.008; and declaring an emergency.
+
+## Full text
+
+79th OREGON LEGISLATIVE ASSEMBLY--2017 Regular Session
+Senate Bill 437
+Sponsored by Senator FERRIOLI (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced.
+Establishes program by which moneys are deposited in education savings accounts  for use by
+parents of  qualified children to pay for certain educational expenses incurred from participating
+entities.
+Establishes Education Savings Program Fund. Continuously appropriates moneys  to State
+Treasurer for purpose of making deposits related to program.
+Declares emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to education savings accounts; creating new provisions; amending ORS 327.008; and de-
+claring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1. As used in sections 1 to 9 of this 2017 Act:
+(1) “Education savings account” means an account established for  a qualified child pur-
+suant to section 2 of this 2017 Act.
+(2) “Eligible post-secondary institution of education” means:
+(a) A public university listed in ORS 352.002;
+(b) A community college established under ORS chapter 341; or
+(c) Any other post-secondary institution of education that:
+(A) Was originally established in this state;
+(B) Is tax exempt under section 501(c)(3) of the Internal Revenue Code; and
+(C) Is accredited by  a regional or national accrediting agency recognized by the United
+States Department of Education.
+(3) “Parent” means the parent, legal guardian or other person who has the legal duty  to
+ensure a child receives an education as provided by ORS 339.020.
+(4) “Participating entity” means an entity described in section 6 (1) of this 2017 Act that
+has submitted an application to the State Treasurer as provided  by section 6 of this 2017 Act.
+(5) “Qualified child” means a child who resides in this state.
+(6) “Statewide average  distribution” means an amount determined by the Department of
+Education each school year that equals the average per student  distribution of State School
+Funds as general purpose grants for all school districts in this state.
+SECTION 2.
+(1) A parent of a qualified child may establish an education savings account
+for the qualified child by entering into  a written agreement as provided by this section. A
+written agreement is valid for one school year and must  be renewed for each subsequent
+school year for which the parent of a qualified child chooses to receive a grant under  section
+3 of this 2017 Act.
+(2)(a) A written agreement must be entered into by the parent of a qualified child in  the
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 853
+manner and on a form prescribed by the State Treasurer. The State Treasurer  must ensure
+that written agreements are available online and may be submitted online.
+(b) A parent must enter into or renew a separate written agreement for each  qualified
+child of the parent. No more than one education savings account  may be established for each
+qualified child.
+(3) A written agreement entered into by the parent of  a qualified child must provide that:
+(a) The qualified child will receive instruction for the school year for  which the written
+agreement applies from:
+(A) A participating entity in this state;
+(B) A participating entity in this state or outside this  state that provides a program of
+online education to a qualified child; or
+(C) A participating entity in a neighboring state  that provides instruction to a qualified
+child if substantially similar instruction is not available in this state.
+(b) The qualified child will receive a grant, in the  form of moneys deposited pursuant to
+section 3 of this 2017 Act, in the education savings account established for the qualified child
+pursuant to subsection (4) of this section.
+(c) Moneys in  an education savings account established for the qualified child must be
+expended only as authorized by section 4 of this 2017 Act.
+(d) The State Treasurer  may prohibit withdrawals from the education savings account
+as provided by sections 1 to 9 of this 2017 Act and by rules adopted by the State Treasurer.
+(4)(a) Except as provided by paragraph (b) of this  subsection, the State Treasurer must
+approve the establishment  of an education savings account for a qualified child if a written
+agreement is entered into pursuant to this section. The education savings account  must be
+maintained by the parent with a private  financial management firm approved by the State
+Treasurer pursuant to section 5 of this 2017 Act.
+(b) The State Treasurer may not approve the establishment of an education savings  ac-
+count for a qualified child if the qualified child will:
+(A) Receive instruction  outside of this state, unless allowed as provided in subsection
+(3)(a)(B) or (C) of this section; or
+(B) Remain enrolled full-time in a public school in this  state, regardless of whether the
+qualified child receives instruction from a participating entity.
+(c) Nothing in paragraph (b)(B) of this subsection prevents the State  Treasurer from
+approving an education savings account for a qualified child who  receives a portion of in-
+struction from a public school and a portion of instruction from a participating entity, as
+long as the instruction from the public school is not full-time.
+(5) Failure to enter into a written agreement for any school year does not prohibit a
+parent from renewing a written agreement for  a subsequent school year. If a written
+agreement is not renewed within three years of the expiration of the  last written agreement,
+the parent must enter into a new written agreement to establish  a new savings account for
+the qualified child.
+(6) A  written agreement entered into pursuant to this section may be terminated by the
+parent or the State Treasurer prior to the end of a school  year pursuant to rules adopted
+by the State Treasurer.
+(7) When a qualified child no longer resides in this state:
+(a) A written agreement terminates automatically and any moneys remaining  in the ed-
+ucation savings account of the child revert to the General Fund; and
+(b) The child must reestablish residency in this state before the parent may enter into
+a new written agreement under this section to establish a new education  savings account for
+the child.
+(8) Upon entering into or renewing a written agreement pursuant to this section,  the
+State Treasurer shall provide to the  parent who entered into or renewed the written agree-
+ment:
+(a) A written explanation of the authorized uses, pursuant to section 4 of  this 2017 Act,
+of the moneys in the education savings account; and
+(b) The responsibilities of the parent and the State Treasurer pursuant to  the written
+agreement and sections 1 to 9 of this 2017 Act.
+SECTION 3. (1) If  the parent of a qualified child enters into or renews a written agree-
+ment pursuant to section 2 of this 2017 Act, a grant of moneys must be transferred  from the
+Education Savings Program Fund established in section  12 of this 2017 Act into the education
+savings account of the qualified child.
+(2) Except as otherwise provided in subsections (3) and (4) of this section, the grant re-
+quired by subsection (1) of this section must, for the school year for which the grant is made,
+be in an amount equal to one of the following:
+(a) For a qualified child with a disability, as  defined in ORS 343.035, 100 percent of the
+statewide average distribution;
+(b) For a qualified  child with a household income that is less than 185 percent of the
+federal poverty level, 100 percent of the statewide average distribution; or
+(c) For a qualified child not  described in paragraph (a) or (b) of this subsection, 90 per-
+cent of the statewide average distribution.
+(3) If a qualified child receives a portion of instruction  from a participating entity and a
+portion of instruction from a public school, the  grant required by subsection (1) of this sec-
+tion must be prorated based on rules adopted by the State Treasurer.
+(4) The State Treasurer may deduct  no more than three percent from each grant for the
+administrative costs incurred by the State Treasurer in implementing  the provisions of
+sections 1 to 9 of this 2017 Act.
+(5) The State Treasurer shall deposit the  moneys for each grant in quarterly installments
+pursuant to a schedule determined by the State Treasurer.
+(6)(a) If a written agreement is renewed,  any moneys remaining in an education savings
+account at the end of a school year may be carried forward to the next school year.
+(b) If a written agreement is not renewed:
+(A) Any moneys remaining in an education savings account at  the end of a school year
+shall be carried  forward to subsequent school years, but moneys may not be withdrawn until
+a written agreement is renewed.
+(B) Any moneys remaining in the education savings account shall revert to  the General
+Fund:
+(i) Upon the qualified child receiving a high school diploma, receiving a General Education
+Development (GED) certificate or no longer residing in this state; or
+(ii) Within three years of the expiration of the last written agreement.
+(c) If a written  agreement is terminated, any moneys remaining in the education savings
+account shall revert to the General Fund.
+SECTION 4. (1) Moneys deposited in an education  savings account pursuant to section 3
+of this 2017 Act must be used only for:
+(a) Tuition or fees for courses provided to a qualified child by a participating entity.
+(b) Textbooks required for courses provided to a qualified child by a participating entity.
+(c) Tutoring or other teaching services provided to  a qualified child by a participating
+entity.
+(d) Fees for any  nationally normed assessment, advanced placement examination or any
+similar assessments  or examinations required for admission to an eligible post-secondary
+institution of education.
+(e) Fees for any special education or related services provided to a qualified  child with a
+disability.
+(f) Fees for the management of the education savings account.
+(g) Transportation required for the qualified child to travel to and from a participating
+entity, or any combination of participating entities, up to $750 per school year.
+(2) A participating entity that receives a  payment authorized by subsection (1) of this
+section may not:
+(a) Refund any portion of the payment to the  parent who made the payment, unless the
+refund is for an item that is returned or an item or service that has not been provided; or
+(b) Rebate or otherwise share any portion of the payment with  the parent who made the
+payment.
+(3) A parent who receives a refund pursuant to  subsection (2) of this section shall deposit
+the refund in the education savings account from which the amount refunded was paid.
+(4) Nothing in this section  prohibits a parent from making payments for any item or
+service described in subsection (1) of this section from a source other than  the education
+savings account of a qualified child.
+SECTION 5.
+(1) The State  Treasurer shall qualify one or more private financial manage-
+ment firms to manage education savings accounts for the purposes of sections 1 to 9  of this
+2017 Act.  A private financial management firm may qualify only if the firm establishes rea-
+sonable fees, based on market rates, for  the management of the education savings accounts.
+(2) An education savings account must  be audited randomly each year by a certified
+public accountant. The State  Treasurer may require additional audits of an education savings
+account as the State Treasurer determines necessary.
+(3) If the State Treasurer  determines that a parent has substantially misused the moneys
+in an education savings account, the State Treasurer may:
+(a) Prohibit withdrawals from the account or dissolve  the account, subject to any rules
+adopted by the State Treasurer providing for notice of the action and opportunity to respond
+to the notice; and
+(b) Give  notice of the State Treasurer’s determination to the Attorney General or the
+district attorney of the county in which the parent resides.
+SECTION 6. (1) The following persons may submit an  application to become a partic-
+ipating entity for the purposes of sections 1 to 9 if the person is:
+(a) A private school;
+(b) An eligible post-secondary institution of education;
+(c) A program of online education that is not operated by a public school;
+(d) A tutor  or tutoring facility that is accredited by a state, regional or national accred-
+iting organization;
+(e) A private teacher; or
+(f) A parent who is or will be teaching a qualified child in the child’s home.
+(2) The State Treasurer shall approve an application submitted pursuant to  subsection
+(1) of this section or request additional  information to demonstrate that the applicant meets
+the criteria to serve as a participating entity. If  the applicant is unable to provide the addi-
+tional information, the State Treasurer may deny the application.
+(3) If it is reasonably  expected that a participating entity will receive, from payments
+made from education savings accounts, more than $50,000 during any school year,  the par-
+ticipating entity shall annually:
+(a) Post a surety bond in an amount equal to the amount reasonably expected  to be paid
+to the participating entity from education savings accounts during the school year; or
+(b) Provide evidence satisfactory to the  State Treasurer that the participating entity
+otherwise has sufficient assets to pay to the State Treasurer  an amount equal to the amount
+described in paragraph (a) of this subsection.
+(4) Each participating entity that accepts payments made from education savings  ac-
+counts shall provide a receipt for each payment to the parent who makes the payment.
+(5) The State Treasurer may  refuse to allow an entity described in subsection (1) of this
+section to continue to participate in the program provided in sections 1 to 9 of  this 2017 Act
+if the State Treasurer determines that the entity:
+(a) Has regularly  failed to comply with the provisions of sections 1 to 9 of this 2017 Act
+or any rules adopted by the State Treasurer pursuant to sections 1 to 9 of this 2017 Act; or
+(b) Has failed to provide any  educational services required by law to a qualified child re-
+ceiving instruction from the entity if the entity is accepting  payment made from the educa-
+tion savings account of the qualified child.
+(6) If the State Treasurer takes  an action described in subsection (5) of this section
+against a participating entity, the State Treasurer  shall provide immediate notice of the
+action to the parent of each qualified child receiving instruction from the entity.
+SECTION 7.
+(1) Each participating entity that receives payment for  instruction made
+from an education savings account shall:
+(a) Implement the statewide assessment system described in ORS 329.485 in  mathematics
+and English for each qualified child on whose behalf a grant of moneys has been  deposited
+pursuant to section 3 of this 2017 Act and who is receiving instruction  from the participating
+entity; and
+(b) Provide the results of the  assessments described in paragraph (a) of this subsection
+to the Department of Education.
+(2) The department shall:
+(a) Aggregate the assessment results provided pursuant  to subsection (1) of this section
+according to the grade level, gender, race  and family income level of each qualified child
+whose assessment results are provided; and
+(b) Subject to the Family Educational Rights and  Privacy Act or any other law protecting
+student privacy rights, make available on the website of the department:
+(A) The aggregated results and any associated learning gains; and
+(B) After  three school years for which assessment data has been collected, the gradu-
+ation rates, as applicable, of qualified children whose assessment results are provided.
+(3) The State Treasurer shall administer an annual survey of parents who enter into or
+renew written agreements pursuant to section 2 of this 2017 Act. The survey must ask  each
+parent to indicate the number of years the parent  has entered into or renewed a written
+agreement, and to express:
+(a) The relative  satisfaction of the parent with the program established pursuant to
+sections 1 to 9 of this 2017 Act; and
+(b) The  opinions of the parent regarding any topics, items or issues that the State
+Treasurer determines may aid the State Treasurer  in evaluating and improving the effec-
+tiveness of the program established pursuant to sections 1 to 9 of this 2017 Act.
+SECTION 8. (1) The State Treasurer shall annually make available  a list of participating
+entities.
+(2) Subject to the  standards adopted under ORS 326.565 and 326.575, the Department of
+Education shall require resident school districts to provide to a participating entity any ed-
+ucational records of a qualified child who receives instruction from the participating entity.
+SECTION 9. Except as otherwise provided in sections 1 to 9 of this 2017 Act,  nothing in
+the provisions of sections 1 to 9 of this 2017 Act  shall be deemed to limit the independence
+or autonomy of a participating entity or to make the actions of a participating entity the
+actions of the state.
+SECTION 10.
+(1) Sections 1 to 9 of this 2017 Act become operative January 1, 2018.
+(2) The State Board of Education, Department of Education and State Treasurer may
+take any action before the operative  date specified in subsection (1) of this section to ensure
+that students first be  allowed to participate in the program established by sections 1 to 9 of
+this 2017 Act during the 2018-2019 school year.
+SECTION 11. Section 12 of this  2017 Act is added to and made a part of ORS chapter 327.
+SECTION 12. (1) The Education Savings Program Fund  is established within the State
+School Fund.
+(2) The Education Savings Program  Fund shall consist of any moneys transferred as
+provided by ORS 327.008 and any other state or federal moneys available for the purposes  of
+the program established by sections 1 to 9 of this 2017 Act.
+(3) Moneys in the fund  are continuously appropriated to the State Treasurer for the
+purpose of making deposits under section 3 of this 2017 Act.
+SECTION 13.  ORS 327.008 is amended to read:
+327.008. (1)(a) There is established a State School Fund in the General Fund.
+(b) The Department of Education, on behalf  of the State of Oregon, may solicit and accept gifts,
+grants, donations and other moneys from  public and private sources for the State School Fund.
+Moneys received as provided in this paragraph shall be deposited into the State School Fund.
+(c) The State School  Fund shall consist of moneys appropriated by the Legislative Assembly,
+moneys transferred from the Education Stability Fund and moneys received as provided in paragraph
+(b) of this subsection.
+(d) The State School Fund is continuously appropriated to the Department of Education for  the
+purposes of ORS 327.006 to 327.077,  327.095, 327.099, 327.101, 327.125, 327.137, 327.348, 336.575,
+336.580, 336.635, 343.243, 343.533, 343.941 and 343.961 and sections 1 to 3, chapter 735, Oregon Laws
+2013, and sections 1 to 9 of this 2017 Act .
+(2) There shall be apportioned from the State School Fund to each school  district a State School
+Fund grant, consisting of the positive amount equal to a general purpose grant and a  facility grant
+and a transportation grant and a high cost disabilities grant minus local revenue, computed as pro-
+vided in ORS 327.011 and 327.013.
+(3) For the first school year after a public charter school ceases to  operate because of dissol-
+ution or closure or because of  termination or nonrenewal of a charter, there shall be apportioned
+from the State School Fund to  each school district that had sponsored a public charter school that
+ceased to operate an amount equal to the school district’s  general purpose grant per extended
+ADMw multiplied by five percent of the ADM of the public charter school for the previous school
+year.
+(4) There shall be  apportioned from the State School Fund to each education service district a
+State School Fund grant as calculated under ORS 327.019.
+(5) All figures used in the determination of the distribution of the State School Fund shall  be
+estimates for the same year as the distribution occurs, unless otherwise specified.
+(6) Numbers of students in average daily membership used in  the distribution formula shall be
+the numbers as of June of the year of distribution.
+(7) A school district may  not use the portion of the State School Fund grant that is attributable
+to the facility grant for capital construction costs.
+(8) The total amount of  the State School Fund that is distributed as facility grants may not ex-
+ceed $9 million in any biennium. If  the total amount to be distributed as facility grants exceeds this
+limitation, the  Department of Education shall prorate the amount of funds available for facility
+grants among  those school districts that qualified for a facility grant. If the total amount to be dis-
+tributed as facility grants does not  exceed this limitation, any remaining amounts shall be expended
+for expenses incurred by the Office of School Facilities as provided in ORS 326.125 (1).
+(9) Each biennium, the Department of  Education may expend from the State School Fund no
+more than $6 million for expenses incurred by the Office of School Facilities under ORS 326.125 (2)
+to (6).
+(10) Each fiscal year, the Department of Education  shall transfer to the Pediatric Nursing Fa-
+cility Account established in ORS 327.022 the amount necessary to pay the costs of educational
+services provided to students admitted to pediatric nursing facilities as provided in ORS 343.941.
+(11) Each fiscal year, the Department of Education shall transfer the amount of  $35 million from
+the State School Fund to the High Cost Disabilities Account established in ORS 327.348.
+(12)(a) Each biennium, the Department of Education shall transfer $33 million from the State
+School Fund to the Network of Quality Teaching and Learning Fund established under  ORS 342.953.
+(b) For the purpose of making the transfer under this subsection:
+(A) The total  amount available for all distributions from the State School Fund shall be reduced
+by $5 million;
+(B) The amount distributed to school districts  from the State School Fund under this section and
+ORS 327.013 shall be reduced by $14 million; and
+(C) The amount distributed to education service  districts from the State School Fund under this
+section and ORS 327.019 shall be reduced by $14 million.
+(c) For each biennium, the amounts identified in  paragraph (b)(B) and (C) of this subsection shall
+be adjusted by the same percentage  by which the amount appropriated to the State School Fund for
+that biennium is  increased or decreased compared with the preceding biennium, as determined by
+the Department of Education after consultation with the Legislative Fiscal Officer.
+(13) Each biennium, the Department of Education shall transfer $12.5 million from the State
+School Fund to the Statewide English Language Learner  Program Account established under ORS
+327.344.
+(14) Each  fiscal year, the Department of Education may expend up to $550,000 from the State
+School  Fund for the contract described in ORS 329.488. The amount distributed to education service
+districts from the State School Fund under this section and  ORS 327.019 shall be reduced by the
+amount expended by the department under this subsection.
+(15) Each biennium, the Department of  Education may expend up to $350,000 from the State
+School Fund to provide administration  of and support for the development of talented and gifted
+education under ORS 343.404.
+(16) Each biennium, the Department of  Education may expend up to $150,000 from the State
+School Fund for the administration of a program to increase  the number of speech-language
+pathologists and speech-language pathology assistants under ORS 348.394 to 348.406.
+(17) Each fiscal year, the Department of Education shall transfer  to the Education
+Savings Program Fund established by  section 12 of this 2017 Act the amount necessary to
+make the deposits required by section 3 of this 2017 Act.
+[(17)] (18) Each fiscal year, the Department of  Education shall transfer the amount of $2.5
+million from the State School Fund to  the Small School District Supplement Fund established in
+section 3, chapter 735, Oregon Laws 2013.
+SECTION 14.  ORS 327.008, as amended by section 7, chapter 735, Oregon Laws 2013,  section
+7, chapter 81, Oregon Laws 2014, section 2, chapter 68, Oregon Laws 2015,  section 38, chapter 245,
+Oregon Laws 2015, section 2, chapter 555, Oregon Laws  2015, section 11, chapter 604, Oregon Laws
+2015, section 2, chapter 644, Oregon Laws 2015, and section 8, chapter 783, Oregon Laws  2015, is
+amended to read:
+327.008. (1)(a) There is established a State School Fund in the General Fund.
+(b) The Department of Education, on behalf  of the State of Oregon, may solicit and accept gifts,
+grants, donations and other moneys from  public and private sources for the State School Fund.
+Moneys received as provided in this paragraph shall be deposited into the State School Fund.
+(c) The State School  Fund shall consist of moneys appropriated by the Legislative Assembly,
+moneys transferred from the Education Stability Fund and moneys received as provided in paragraph
+(b) of this subsection.
+(d) The State School Fund is continuously appropriated to the Department of Education for  the
+purposes of ORS 327.006 to 327.077,  327.095, 327.099, 327.101, 327.125, 327.137, 327.348, 336.575,
+336.580, 336.635, 343.243, 343.533, 343.941 and 343.961 and sections 1 to 9 of this 2017 Act .
+(2) There shall be apportioned from the State School Fund to each school  district a State School
+Fund grant, consisting of the positive amount equal to a general purpose grant and a  facility grant
+and a transportation grant and a high cost disabilities grant minus local revenue, computed as pro-
+vided in ORS 327.011 and 327.013.
+(3) For the first school year after a public charter school ceases to  operate because of dissol-
+ution or closure or because of  termination or nonrenewal of a charter, there shall be apportioned
+from the State School Fund to  each school district that had sponsored a public charter school that
+ceased to operate an amount equal to the school district’s  general purpose grant per extended
+ADMw multiplied by five percent of the ADM of the public charter school for the previous school
+year.
+(4) There shall be  apportioned from the State School Fund to each education service district a
+State School Fund grant as calculated under ORS 327.019.
+(5) All figures used in the determination of the distribution of the State School Fund shall  be
+estimates for the same year as the distribution occurs, unless otherwise specified.
+(6) Numbers of students in average daily membership used in  the distribution formula shall be
+the numbers as of June of the year of distribution.
+(7) A school district may  not use the portion of the State School Fund grant that is attributable
+to the facility grant for capital construction costs.
+(8) The total amount of  the State School Fund that is distributed as facility grants may not ex-
+ceed $9 million in any biennium. If  the total amount to be distributed as facility grants exceeds this
+limitation, the  Department of Education shall prorate the amount of funds available for facility
+grants among  those school districts that qualified for a facility grant. If the total amount to be dis-
+tributed as facility grants does not  exceed this limitation, any remaining amounts shall be expended
+for expenses incurred by the Office of School Facilities as provided in ORS 326.125 (1).
+(9) Each biennium, the Department of  Education may expend from the State School Fund no
+more than $6 million for expenses incurred by the Office of School Facilities under ORS 326.125 (2)
+to (6).
+(10) Each fiscal year, the Department of Education  shall transfer to the Pediatric Nursing Fa-
+cility Account established in ORS 327.022 the amount necessary to pay the costs of educational
+services provided to students admitted to pediatric nursing facilities as provided in ORS 343.941.
+(11) Each fiscal year, the Department of Education shall transfer the amount of  $35 million from
+the State School Fund to the High Cost Disabilities Account established in ORS 327.348.
+(12)(a) Each biennium, the Department of Education shall transfer $33 million from the State
+School Fund to the Network of Quality Teaching and Learning Fund established under  ORS 342.953.
+(b) For the purpose of making the transfer under this subsection:
+(A) The total  amount available for all distributions from the State School Fund shall be reduced
+by $5 million;
+(B) The amount distributed to school districts  from the State School Fund under this section and
+ORS 327.013 shall be reduced by $14 million; and
+(C) The amount distributed to education service  districts from the State School Fund under this
+section and ORS 327.019 shall be reduced by $14 million.
+(c) For each biennium, the amounts identified in  paragraph (b)(B) and (C) of this subsection shall
+be adjusted by the same percentage  by which the amount appropriated to the State School Fund for
+that biennium is  increased or decreased compared with the preceding biennium, as determined by
+the Department of Education after consultation with the Legislative Fiscal Officer.
+(13) Each biennium, the Department of Education shall transfer $12.5 million from the State
+School Fund to the Statewide English Language Learner  Program Account established under ORS
+327.344.
+(14) Each  fiscal year, the Department of Education may expend up to $550,000 from the State
+School  Fund for the contract described in ORS 329.488. The amount distributed to education service
+districts from the State School Fund under this section and  ORS 327.019 shall be reduced by the
+amount expended by the department under this subsection.
+(15) Each biennium, the Department of  Education may expend up to $350,000 from the State
+School Fund to provide administration  of and support for the development of talented and gifted
+education under ORS 343.404.
+(16) Each biennium, the Department of  Education may expend up to $150,000 from the State
+School Fund for the administration of a program to increase  the number of speech-language
+pathologists and speech-language pathology assistants under ORS 348.394 to 348.406.
+(17) Each fiscal year,  the Department of Education shall transfer to the Education
+Savings Program Fund established by section 12 of this 2017 Act  the amount necessary to
+make the deposits required by section 3 of this 2017 Act.
+SECTION 15. (1) The amendments to ORS 327.008 by sections 13 and 14 of this 2017 Act
+become operative July 1, 2018.
+(2) The amendments to ORS 327.008 by sections 13 and 14 of this 2017 Act apply  to State
+School Fund distributions commencing with the 2018-2019 school year distributions.
+SECTION 16. This 2017 Act being necessary for the immediate preservation of  the public
+peace, health and safety, an emergency is  declared to exist, and this 2017 Act takes effect
+on its passage.
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: ORS 327.008
+- From bill text (Introduced version): ORS 326.125, ORS 326.565, ORS 326.575, ORS 327.006, ORS 327.008, ORS 327.011, ORS 327.013, ORS 327.019, ORS 327.022, ORS 327.344, ORS 327.348, ORS 329.485, ORS 329.488, ORS 339.020, ORS 342.953, ORS 343.035, ORS 343.404, ORS 343.941, ORS 348.394, ORS 352.002
+
+## Provenance & related versions
+
+- **Embedded full text:** Introduced version, retrieved 2026-07-27, sha256 `2531dd31f591fa4c50ff31fb10ea15d2bf3f48000915114aab0b37834421dd9c` (snapshot `_meta/snapshots/measure-2017r1-sb437-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2017R1/Downloads/MeasureDocument/SB437/Introduced>.
+- **Measure metadata:** retrieved 2026-07-27 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2017R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 437` (part of the batched per-session fetch), sha256 `8a531c771f7c0531d1b6a422bf18d037d210e0e6cb92f247a009fd99e6400c68` of the shared session snapshot `_meta/snapshots/measures-2017r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

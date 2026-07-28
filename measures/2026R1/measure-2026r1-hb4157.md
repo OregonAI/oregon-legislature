@@ -1,0 +1,432 @@
+---
+schema_version: 1
+corpus: oregon-legislature
+jurisdiction: oregon
+id: measure-2026r1-hb4157
+title: 'HB 4157 (2026R1): Provides that certain hearsay statements related to certain sex crimes are not
+  inadmissible in evidence, even though the declarant is available as a witness.'
+doc_type: dataset_doc
+citation: 2026 Regular Session House Bill 4157
+issuing_body: Oregon State Legislature
+source_url: https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4157/Enrolled
+source_format: pdf
+retrieved: '2026-07-28'
+source_sha256: c3aaf997115f381f529080bc22db29971c7299b8725086880b828b13b919c93d
+snapshot_id: measure-2026r1-hb4157-enrolled
+status: current
+content_mode: verbatim
+last_verified: '2026-07-28'
+verified_by: '@dzinck'
+maintainer: '@dzinck'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 107.705
+  - ORS 124.050
+  - ORS 135.230
+  - ORS 138.045
+  - ORS 161.015
+  - ORS 163.205
+  - ORS 163.266
+  - ORS 163.413
+  - ORS 167.012
+  - ORS 167.017
+  - ORS 40.455
+  - ORS 40.460
+  - ORS 40.465
+  - ORS 40.510
+  - ORS 419B.005
+  - ORS 44.550
+  - ORS 475.235
+  - ORS 813.160
+  related: []
+  supersedes: []
+tags:
+- oregon-legislature
+- measure
+- 2026r1
+- hb
+session_key: 2026R1
+measure_prefix: HB
+measure_number: 4157
+prefix_meaning: House Bill
+catch_line: Provides that certain hearsay statements related to certain sex crimes are not inadmissible
+  in evidence, even though the declarant is available as a witness.
+minority_catch_line: null
+measure_summary: "\tDigest: The Act says that some hearsay about some sex crimes can come into evidence\
+  \ though the speaker is available. (Flesch Readability Score: 62.8). \n\tProvides that certain hearsay\
+  \ statements related to certain sex crimes are not inadmissible in evidence, even though the declarant\
+  \ is available as a witness. \n\tTakes effect on the 91st day following adjournment sine die."
+relating_to: Relating to hearsay; and prescribing an effective date.
+relating_to_full: Relating to hearsay; and prescribing an effective date.
+at_the_request_of: null
+lc_number: 152
+measure_created_date: '2026-01-19T12:29:54'
+measure_modified_date: '2026-04-06T10:38:28'
+bill_text_versions_available:
+- Enrolled
+- Introduced
+bill_text_versions_captured:
+- Enrolled
+- Introduced
+bill_text_embedded_version: Enrolled
+bill_text_chars: 23128
+bill_text_extractable: true
+candidate_ors_citations:
+  from_bill_text:
+  - ORS 107.705
+  - ORS 124.050
+  - ORS 135.230
+  - ORS 138.045
+  - ORS 161.015
+  - ORS 163.205
+  - ORS 163.266
+  - ORS 163.413
+  - ORS 167.012
+  - ORS 167.017
+  - ORS 40.455
+  - ORS 40.460
+  - ORS 40.465
+  - ORS 40.510
+  - ORS 419B.005
+  - ORS 44.550
+  - ORS 475.235
+  - ORS 813.160
+  from_relating_to_full: []
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a mirrored copy of one measure's metadata (and, where captured, its bill text) from the Oregon Legislature's OData feed. It is a point-in-time snapshot, retrieved 2026-07-28 — **not** the measure's current status. For current location, history, or votes, this corpus's live proxy tools (not yet built — PHASE5-MCP-SPEC.md step 5) must be used instead of anything in this file. Official record: `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4157`.
+
+# HB 4157 — 2026 Regular Session (2026R1)
+
+## At a glance
+
+- **Measure:** House Bill 4157, 2026 Regular Session (2026R1)
+- **LC number:** 152
+- **Created:** 2026-01-19T12:29:54
+- **Metadata last modified (upstream):** 2026-04-06T10:38:28
+- **Introduced/Enrolled documents on file:** Enrolled, Introduced
+- **Full text below:** Enrolled version, 23128 chars extracted from the source PDF; page furniture (left-margin line numbers, the running bill-number header/footer) mechanically stripped -- see `clean_bill_text` in `src/ingest_measures.py`. Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4157/Enrolled>.
+
+## Summary
+
+**Catchline:** Provides that certain hearsay statements related to certain sex crimes are not inadmissible in evidence, even though the declarant is available as a witness.
+
+**Relating to:** Relating to hearsay; and prescribing an effective date.
+
+Digest: The Act says that some hearsay about some sex crimes can come into evidence though the speaker is available. (Flesch Readability Score: 62.8). 
+ Provides that certain hearsay statements related to certain sex crimes are not inadmissible in evidence, even though the declarant is available as a witness. 
+ Takes effect on the 91st day following adjournment sine die.
+
+**RelatingToFull (verbatim upstream field):** Relating to hearsay; and prescribing an effective date.
+
+## Full text
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Enrolled
+House Bill 4157
+Sponsored by  Representative TRAN, Senator TAYLOR; Representatives ANDERSEN, BOICE,
+BOSHART DAVIS, BUNCH, CHOTZEN, DOBSON, EDWARDS,  GAMBA, HARTMAN,
+HUDSON, ISADORE, JAVADI, LEVY B, LEVY E, LEWIS, MANNIX, MCDONALD, MCLAIN,
+NELSON, RIEKE SMITH,  SCHARF, WISE, Senators CAMPOS, DRAZAN, FREDERICK,
+GOLDEN, MANNING JR, NERON MISSLIN,  PATTERSON, PROZANSKI, SMITH DB,
+THATCHER (Presession filed.)
+CHAPTER .................................................
+AN ACT
+Relating to hearsay;  creating new provisions; amending ORS 40.460; and prescribing an effective
+date.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+ ORS 40.460 is amended to read:
+40.460. The following are not excluded  by ORS 40.455, even though the declarant is available
+as a witness:
+(1) (Reserved.)
+(2) A statement relating to a startling event or condition made while  the declarant was under
+the stress of excitement caused by the event or condition.
+(3) A statement of the declarant’s then existing state of mind, emotion, sensation  or physical
+condition, such as intent, plan, motive, design, mental feeling, pain or bodily health, but not  includ-
+ing a statement of memory or belief to prove the  fact remembered or believed unless it relates to
+the execution, revocation, identification, or terms of the declarant’s will.
+(4) Statements made for purposes of medical diagnosis or treatment  and describing medical his-
+tory, or past or present symptoms, pain or sensations, or the inception  or general character of the
+cause or external source thereof insofar as reasonably pertinent to diagnosis or treatment.
+(5) A memorandum or record concerning  a matter about which a witness once had knowledge
+but now has insufficient recollection to enable the witness to testify fully and accurately, shown to
+have been made or adopted by the witness  when the matter was fresh in the memory of the witness
+and to reflect that knowledge correctly. If admitted, the memorandum or  record may be read into
+evidence but may not itself be received as an exhibit unless offered by an adverse party.
+(6) A memorandum, report, record, or data compilation, in any form, of acts, events, conditions,
+opinions, or diagnoses, made at or near the  time by, or from information transmitted by, a person
+with knowledge, if kept in the  course of a regularly conducted business activity, and if it was the
+regular practice of that business activity to make the memorandum, report, record,  or data compi-
+lation, all as shown by the testimony of  the custodian or other qualified witness, unless the source
+of information or the  method of circumstances of preparation indicate lack of trustworthiness. The
+term “business” as used in this subsection includes business, institution, association, profession, oc-
+cupation, and calling of every kind, whether or not conducted for profit.
+Enrolled House Bill 4157 (HB 4157-INTRO) Page 1
+(7) Evidence  that a matter is not included in the memoranda, reports, records, or data compila-
+tions, and in any form, kept in accordance with the provisions  of subsection (6) of this section, to
+prove the nonoccurrence or nonexistence of the matter, if the matter was of a kind of which  a
+memorandum, report, record, or data compilation was regularly made and preserved, unless the
+sources of information or other circumstances indicate lack of trustworthiness.
+(8) Records, reports, statements or data compilations, in any form, of public offices or  agencies,
+including federally recognized American Indian tribal governments, setting forth:
+(a) The activities of the office or agency;
+(b) Matters observed pursuant to duty imposed by law as to which matters there was a duty  to
+report, excluding, in criminal cases, matters observed by police officers  and other law enforcement
+personnel;
+(c) In civil actions and  proceedings and against the government in criminal cases, factual
+findings, resulting from an investigation made pursuant to authority granted by law,  unless the
+sources of information or other circumstances indicate lack of trustworthiness; or
+(d) In civil actions and criminal proceedings, a sheriff’s return of service.
+(9) Records or data compilations, in any  form, of births, fetal deaths, deaths or marriages, if the
+report thereof was made to a public  office, including a federally recognized American Indian tribal
+government, pursuant to requirements of law.
+(10) To prove the absence of a record, report, statement or data compilation, in  any form, or the
+nonoccurrence or nonexistence of a matter of which a record,  report, statement or data compilation,
+in any form, was regularly made and preserved by a  public office or agency, including a federally
+recognized American Indian tribal government, evidence in the form of a certification  in accordance
+with ORS 40.510, or testimony, that diligent search failed to disclose  the record, report, statement
+or data compilation, or entry.
+(11) Statements of births, marriages, divorces, deaths, legitimacy, ancestry,  relationship by blood
+or marriage,  or other similar facts of personal or family history, contained in a regularly kept record
+of a religious organization.
+(12) A statement of fact contained in a certificate that the maker performed  a marriage or other
+ceremony or administered a sacrament, made by a member of the clergy, a public official, an  official
+of a federally recognized American Indian tribal government or any other person authorized by the
+rules or  practices of a religious organization or by law to perform the act certified, and purporting
+to have been issued at the time of the act or within a reasonable time thereafter.
+(13) Statements of facts concerning personal or family history  contained in family bibles,
+genealogies, charts, engravings on rings, inscriptions on  family portraits, engravings on urns, crypts,
+or tombstones, or the like.
+(14) The record of a document purporting to  establish or affect an interest in property, as proof
+of content of the  original recorded document and its execution and delivery by each person by whom
+it purports to have been executed, if the record  is a record of a public office, including a federally
+recognized  American  Indian tribal government, and an applicable statute authorizes the recording
+of documents of that kind in that office.
+(15) A statement contained in a document purporting to establish or  affect an interest in prop-
+erty if the matter stated  was relevant to the purpose of the document, unless dealings with the
+property  since  the document was made have been inconsistent with the truth of the statement or
+the purport of the document.
+(16) Statements in a document in existence  20 years or more the authenticity of which is es-
+tablished.
+(17) Market quotations, tabulations, lists, directories, or other  published compilations, generally
+used and relied upon by the public or by persons in particular occupations.
+(18) (Reserved.)
+(18a)(a) A complaint of sexual misconduct, complaint  of abuse as defined in ORS 107.705 or
+419B.005, complaint of  abuse of an elderly person, as those terms are defined in ORS 124.050, or a
+complaint relating to a violation  of ORS 163.205 or 164.015 in which a person 65 years of age or
+Enrolled House Bill 4157 (HB 4157-INTRO) Page 2
+older is the victim, made by the witness after the commission of the alleged misconduct or  abuse
+at issue. Except as provided in paragraph (b)  of this subsection, such evidence must be confined to
+the fact that the complaint was made.
+(b) A statement made by a person concerning an act of abuse  as defined in ORS 107.705 or
+419B.005, a statement made by a person concerning an act of abuse of an elderly  person, as those
+terms are defined in ORS 124.050, or a statement made by a person concerning a  violation of ORS
+163.205 or 164.015 in which a person 65 years of age or older is the victim, is not  excluded by ORS
+40.455 if  the declarant either testifies at the proceeding and is subject to cross-examination, or is
+unavailable as a witness but was chronologically or mentally under 12 years of  age when the
+statement was made or was 65 years of age or older when the statement was made. However, if  a
+declarant  is  unavailable, the statement may be admitted in evidence only if the proponent estab-
+lishes that the time, content and circumstances of  the statement provide indicia of reliability, and
+in a criminal trial or juvenile delinquency proceeding that  there is corroborative evidence of the
+act of abuse and of the alleged perpetrator’s opportunity to participate in the conduct and that the
+statement possesses indicia of reliability as  is constitutionally required to be admitted. No statement
+may be admitted under this paragraph unless  the proponent of the statement makes known to the
+adverse party the proponent’s intention to offer the statement  and the particulars of the statement
+no later than 15 days before trial, except for good cause shown. For  purposes of this paragraph, in
+addition to those situations described in ORS 40.465 (1), the declarant shall  be considered “una-
+vailable” if the declarant has a substantial lack of memory of the subject matter of the statement,
+is presently incompetent to testify, is unable to  communicate about the abuse or sexual conduct
+because of fear or other similar reason or is substantially likely, as established by expert testimony,
+to suffer lasting severe emotional trauma from testifying. Unless otherwise  agreed by the parties,
+the court shall examine the declarant in chambers and  on the record or outside the presence of the
+jury and on the record. The examination shall be  conducted immediately prior to the commencement
+of the trial in the presence of the attorney and the legal guardian  or other suitable person as des-
+ignated by the court. If the declarant is found to be unavailable,  the court shall then determine the
+admissibility of the evidence. The determinations shall be  appealable under ORS 138.045 (1)(d). The
+purpose of the examination shall be to aid the court  in making its findings regarding the availability
+of the declarant as a witness and the reliability of the statement of  the declarant. In determining
+whether a statement  possesses indicia of reliability under this paragraph, the court may consider,
+but is not limited to, the following factors:
+(A) The personal knowledge of the declarant of the event;
+(B) The age and maturity of the declarant  or extent of disability if the declarant is a person
+with a developmental disability;
+(C) Certainty  that the statement was made, including the credibility of the person testifying
+about the statement and any motive the person may have to falsify or distort the statement;
+(D) Any apparent motive the declarant may have to falsify  or distort the event, including bias,
+corruption or coercion;
+(E) The timing of the statement of the declarant;
+(F) Whether more than one person heard the statement;
+(G) Whether the declarant was suffering pain or distress when making the statement;
+(H) Whether the declarant’s young age or disability makes it unlikely that the declarant fabri-
+cated a statement that represents  a graphic, detailed account beyond the knowledge and experience
+of the declarant;
+(I) Whether the statement has internal consistency or coherence  and uses terminology appro-
+priate to the declarant’s age or to the extent  of the declarant’s disability if the declarant is a person
+with a developmental disability;
+(J) Whether the statement is spontaneous or directly responsive to questions; and
+(K) Whether the statement was elicited by leading questions.
+(c) This subsection applies to all civil, criminal and juvenile proceedings.
+Enrolled House Bill 4157 (HB 4157-INTRO) Page 3
+(d) This subsection applies to a child declarant, a declarant  who is an elderly person as defined
+in ORS 124.050 or an adult declarant with a developmental disability. For  the purposes of this sub-
+section, “developmental disability” means  any disability attributable to mental retardation, autism,
+cerebral palsy, epilepsy or other disabling neurological condition that  requires training or support
+similar to that required by persons with mental retardation, if either of the following apply:
+(A) The  disability originates before the person attains 22 years of age, or if the disability is at-
+tributable to mental retardation the condition is manifested before  the person attains 18 years of
+age, the  disability can be expected to continue indefinitely, and the disability constitutes a sub-
+stantial handicap to the ability of the person to function in society.
+(B) The disability results in a significant subaverage general intellectual functioning  with con-
+current deficits in adaptive behavior that are manifested during the developmental period.
+(19) Reputation  among members of a person’s family by blood, adoption or marriage, or among
+a person’s associates,  or in the community, concerning a person’s birth, adoption, marriage, divorce,
+death, legitimacy, relationship by blood or adoption or marriage, ancestry,  or other similar fact of
+a person’s personal or family history.
+(20) Reputation in a community, arising before the  controversy, as to boundaries of or customs
+affecting lands in the community, and reputation as to events of general history important  to the
+community or state or nation in which located.
+(21) Reputation of a person’s character among associates of the person or in the community.
+(22) Evidence of  a final judgment, entered after a trial or upon a plea of guilty, but not upon a
+plea of no contest, adjudging a person guilty of  a crime other than a traffic offense, to prove any
+fact essential  to sustain the judgment, but not including, when offered by the government in a
+criminal prosecution for purposes other than impeachment, judgments against persons other than the
+accused. The pendency of an appeal may be shown but does not affect admissibility.
+(23) Judgments as proof of matters  of personal, family or general history, or boundaries, essen-
+tial to the judgment, if the same would be provable by evidence of reputation.
+(24) Notwithstanding the limits contained in subsection (18a) of this section,  in any proceeding
+in which a child under 12 years of age  at the time of trial, or a person with a developmental disa-
+bility as described in subsection (18a)(d) of  this section, may be called as a witness to testify con-
+cerning an act  of abuse, as defined in ORS 419B.005, or sexual conduct performed with or on the
+child or person with a developmental disability  by another, the testimony of the child or person with
+a developmental disability taken by  contemporaneous examination and cross-examination in another
+place  under  the supervision of the trial judge and communicated to the courtroom by closed-circuit
+television or other audiovisual means. Testimony will be allowed as provided in this subsection only
+if the court finds that there is a substantial likelihood, established by expert testimony, that the
+child or person with a  developmental disability will suffer severe emotional or psychological harm
+if required to testify  in open court. If the court makes such a finding, the court, on motion of a
+party, the child, the person with  a developmental disability or the court in a civil proceeding, or
+on motion of the district attorney, the child or the person  with a developmental disability in a
+criminal or juvenile proceeding, may  order that the testimony of the child or the person with a de-
+velopmental disability be taken as described in this subsection. Only the  judge, the attorneys for the
+parties, the parties, individuals necessary to operate the equipment  and any individual the court
+finds would contribute to the welfare and well-being of the  child or person with a developmental
+disability may be present during the testimony of the  child or person with a developmental disabil-
+ity.
+(25)(a) Any document containing data prepared or recorded by the  Oregon State Police pursuant
+to ORS 813.160 (1)(b)(C) or (E), or pursuant to ORS 475.235 (4), if  the document is produced by data
+retrieval  from  the Law Enforcement Data System or other computer system maintained and operated
+by the Oregon State  Police, and the person retrieving the data attests that the information was re-
+trieved directly from the system and that the document accurately reflects the data retrieved.
+(b) Any document containing  data prepared or recorded by the Oregon State Police that is
+produced by data retrieval from the Law  Enforcement Data System or other computer system
+Enrolled House Bill 4157 (HB 4157-INTRO) Page 4
+maintained and operated by the Oregon State  Police and that is electronically transmitted through
+public or private computer networks under an electronic signature  adopted by the Oregon State
+Police if the person receiving  the data attests that the document accurately reflects the data re-
+ceived.
+(c) Notwithstanding any statute or rule to the contrary, in any criminal case in which  docu-
+ments are introduced under the provisions of this subsection,  the defendant may subpoena the ana-
+lyst, as defined in  ORS 475.235 (6), or other person that generated or keeps the original document
+for the purpose of testifying at the preliminary hearing and trial of the issue. Except as  provided
+in ORS 44.550  to 44.566, no charge shall be made to the defendant for the appearance of the analyst
+or other person.
+(26)(a) A statement that purports to narrate, describe, report or  explain an incident of domestic
+violence, as defined in ORS 135.230, made by a victim of the domestic violence within 24  hours after
+the incident occurred, if the statement:
+(A) Was recorded, either electronically or in writing, or was made to a peace  officer as defined
+in ORS 161.015, corrections officer, youth correction officer,  parole and probation officer, emergency
+medical services provider or firefighter; and
+(B) Has sufficient indicia of reliability.
+(b) In  determining whether a statement has sufficient indicia of reliability under paragraph (a)
+of this subsection, the court  shall consider all circumstances surrounding the statement. The court
+may consider, but is not  limited to, the following factors in determining whether a statement has
+sufficient indicia of reliability:
+(A) The personal knowledge of the declarant.
+(B) Whether the statement is corroborated by evidence other than  statements that are subject
+to admission only pursuant to this subsection.
+(C) The timing of the statement.
+(D) Whether the statement was elicited by leading questions.
+(E) Subsequent statements made by the declarant. Recantation  by a declarant is not sufficient
+reason for denying admission of a  statement under this subsection in the absence of other factors
+indicating unreliability.
+(27)(a) A statement that purports to  narrate, describe, report or explain a crime of
+trafficking in persons under ORS  163.266, purchasing sex with a minor under ORS 163.413,
+promoting prostitution under ORS 167.012, compelling prostitution under ORS 167.017, or  any
+attempt, conspiracy or solicitation of a crime listed in this paragraph, that involves a com-
+mercial sex act as defined in ORS 163.266, if the statement:
+(A) Was made by a  victim of the crime within 24 hours before or after the victim engages
+in, or offers or agrees to engage in, the commercial sex act;
+(B) Was recorded, either electronically or in writing, or was made to  a peace officer as
+defined in ORS 161.015, corrections officer, youth  correction officer, parole and probation
+officer, emergency medical services provider or firefighter; and
+(C) Has sufficient indicia of reliability.
+(b) In determining whether a statement  has sufficient indicia of reliability under para-
+graph (a) of  this subsection, the court shall consider all circumstances surrounding the
+statement. The court may consider, but is not  limited to, the following factors in determin-
+ing whether a statement has sufficient indicia of reliability:
+(A) The personal knowledge of the declarant.
+(B) Whether the statement is  corroborated by evidence other than statements that are
+subject to admission only pursuant to this subsection.
+(C) The timing of the statement.
+(D) Whether the statement was elicited by leading questions.
+(E) Subsequent statements made by the declarant. Recantation by a declarant is  not
+sufficient reason for denying admission of  a statement under this subsection in the absence
+of other factors indicating unreliability.
+Enrolled House Bill 4157 (HB 4157-INTRO) Page 5
+[(27)] (28) A report prepared by a forensic scientist that  contains the results of a presumptive
+test conducted by the forensic scientist as described in ORS  475.235, if the forensic scientist attests
+that the report accurately reflects the results of the presumptive test.
+[(28)(a)] (29)(a) A statement not specifically covered by  any of the foregoing exceptions but
+having equivalent circumstantial guarantees of trustworthiness, if the court determines that:
+(A) The statement is relevant;
+(B) The statement is more probative on the point for which it is  offered than any other evidence
+that the proponent can procure through reasonable efforts; and
+(C) The general purposes of the Oregon Evidence Code and the interests of justice  will best be
+served by admission of the statement into evidence.
+(b) A  statement may not be admitted under this subsection unless the proponent of it makes
+known to the adverse party the intention to offer the statement and the  particulars of it, including
+the name and address  of the declarant, sufficiently in advance of the trial or hearing, or as soon
+as practicable  after it becomes apparent that such statement is probative of the issues at hand, to
+provide the adverse party with a fair opportunity to prepare to meet it.
+SECTION 2.
+The amendments to  ORS 40.460 by section 1 of this 2026 Act apply to state-
+ments offered into evidence on or after the effective date of this 2026 Act.
+SECTION 3. This 2026 Act  takes effect on the 91st day after the date on which the 2026
+regular session of the Eighty-third Legislative Assembly adjourns sine die.
+Passed by House February 19, 2026
+..................................................................................
+Timothy G. Sekerak, Chief Clerk of House
+..................................................................................
+Julie Fahey, Speaker of House
+Passed by Senate March 3, 2026
+..................................................................................
+Rob Wagner, President of Senate
+Received by Governor:
+........................M.,........................................................., 2026
+Approved:
+........................M.,........................................................., 2026
+..................................................................................
+Tina Kotek, Governor
+Filed in Office of Secretary of State:
+........................M.,........................................................., 2026
+..................................................................................
+Tobias Read, Secretary of State
+Enrolled House Bill 4157 (HB 4157-INTRO) Page 6
+
+## Candidate ORS citations (not a finding — see PHASE5-MCP-SPEC.md §2.2)
+
+`RelatingToFull` is a summary field, and a regex over the bill text is still mechanically derived, not a verified amend list. Both sets below are **candidates**, to be resolved against `oregon-policy-repo` in a later step (§5.7), never presented as the authoritative amend list.
+
+- From `RelatingToFull`: (none found)
+- From bill text (Enrolled version): ORS 107.705, ORS 124.050, ORS 135.230, ORS 138.045, ORS 161.015, ORS 163.205, ORS 163.266, ORS 163.413, ORS 167.012, ORS 167.017, ORS 40.455, ORS 40.460, ORS 40.465, ORS 40.510, ORS 419B.005, ORS 44.550, ORS 475.235, ORS 813.160
+
+## Provenance & related versions
+
+- **Embedded full text:** Enrolled version, retrieved 2026-07-28, sha256 `c3aaf997115f381f529080bc22db29971c7299b8725086880b828b13b919c93d` (snapshot `_meta/snapshots/measure-2026r1-hb4157-enrolled.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4157/Enrolled>.
+- **Also captured, not embedded:** Introduced version, sha256 `dbac928327b6960400730865525e1bf338eb9c137f946c24fb85210b28eb4e0b` (snapshot `_meta/snapshots/measure-2026r1-hb4157-introduced.pdf`). Source: <https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4157/Introduced>.
+- **Measure metadata:** retrieved 2026-07-28 via `https://api.oregonlegislature.gov/odata/odataservice.svc/Measures?$filter=SessionKey eq '2026R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 4157` (part of the batched per-session fetch), sha256 `24ae6bdc7627edf95bbe00a05a147417c7b8bb4753dc857212807a4403e9e192` of the shared session snapshot `_meta/snapshots/measures-2026r1.json`.
+- See [CHANGELOG](../../CHANGELOG.md).
+

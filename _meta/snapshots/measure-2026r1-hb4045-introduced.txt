@@ -1,0 +1,113 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4045
+Sponsored by Representative MANNIX, Senator PROZANSKI; Representative LEWIS (Presession filed.)
+SUMMARY
+The following summary  is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by  the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act requires a response within 72 hours for certain search warrants. The  Act goes
+into effect when the Governor signs it. (Flesch Readability Score: 72.6).
+Requires a communications provider to respond  to a search warrant within 72 hours of service
+when the warrant pertains  to an investigation of stalking or a crime constituting domestic violence.
+Declares an emergency, effective on passage.
+A BILL FOR AN ACT
+Relating to search warrant response time limits; and declaring an emergency.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2026 Act shall be known  and may be cited as  “Kristil’s
+Law.”
+SECTION 2. (1) As used in this section:
+(a) “Communications provider” means:
+(A) An Internet  service provider, a cellular telephone provider or a Voice over Internet
+Protocol service provider;
+(B) A social media platform as defined in 42 U.S.C. 1862w;
+(C) An electronic communication service provider as defined in 50 U.S.C. 1881;
+(D) A digital communications company that  provides Internet, cellular, text, electronic
+mail, social media services or  any other media that communicates, stores or transmits voice,
+data, text, images  or video over a distance using electrical, electronic or light wave trans-
+mission media; or
+(E) Any other  entity that constitutes a telecommunications utility as defined in ORS
+759.005.
+(b) “Domestic violence” has the meaning given that term in ORS 135.230.
+(2) This section applies to search warrants:
+(a) For which the object of the search is one or more documents or records or other in-
+formation from a communications provider; and
+(b) That pertain to an investigation of  a crime constituting domestic violence, stalking
+as defined in ORS 163.732 or violating a court’s stalking protective order under ORS 163.750.
+(3) A judge that issues a search warrant described in subsection (2) of this  section shall:
+(a) Ensure that both the title and body  of the warrant contain the words “Immediate
+Response Required”;
+(b) Indicate in the warrant that it is subject to this section; and
+(c) Order a communications provider in possession or control of  an object of the search
+to respond within 72 hours of service of the  warrant under ORS 136.583 or, if ORS 136.583
+NOTE: Matter in  boldfaced type in an amended section is new;  matter [ italic and bracketed] is existing law to be omitted.
+New sections are in  boldfaced type.
+LC 62
+HB 4045
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+does not apply, within 72 hours of execution of the warrant.
+(4) Notwithstanding ORS 136.583, a communications provider doing business in this  state
+shall respond to a search warrant described in subsection (2) of this section within 72 hours
+of service of the  warrant under ORS 136.583 or, if ORS 136.583 does not apply, within 72 hours
+of execution of the warrant.
+(5) All persons making application for  a search warrant described in subsection (2) of this
+section are encouraged to specify  in the application that the warrant is subject to the re-
+quirements of this section.
+SECTION 3.
+(1) Section 2 of this 2026 Act becomes operative on May 1, 2026.
+(2) The Judicial Department and any entity  defined as a communications provider under
+section 2 of this 2026 Act may take any action before the  operative date specified in sub-
+section (1) of this section that is necessary  to enable the department or entity to exercise,
+on and after  the operative date specified in subsection (1) of this section, all of the duties,
+functions and powers conferred on the department and entity by section 2 of this 2026 Act.
+SECTION 4. This 2026 Act being necessary for the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist,  and this 2026 Act takes effect
+on its passage.
+[2]
