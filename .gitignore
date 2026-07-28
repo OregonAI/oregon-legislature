@@ -7,3 +7,8 @@ _meta/.cache/
 # behind the corpus it reports on. viz/*.html IS committed (same as the sibling corpus):
 # it has a --check staleness gate, so a stale chart fails CI rather than passing silently.
 site/
+
+# Derived embedding artifact for the topic map. Rebuildable from the corpus
+# (src/build_measure_embeddings.py) and needs a model download, so it is not committed —
+# the rendered viz/topic-map.html is, and carries the coordinates it needs.
+_meta/embeddings/
